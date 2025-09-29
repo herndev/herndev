@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new rules could wipe out sideloading and alternative app stores, F-Droid warns](https://www.androidauthority.com/f-droid-google-developer-verification-rules-warning-3601860/)
- - [A look at China&#39;s Ministry of State Security, which has been reshaped by Xi Jinping to be the primary driver of cyber espionage campaigns like Salt Typhoon &lpar;New York Times&rpar;](http://www.techmeme.com/250928/p23#a250928p23)
- - [Caltech says it built the world&#39;s largest neutral-atom quantum computer, with 6,100 qubits, 13 second coherence, 10x longer than previously, and 99.98% accuracy &lpar;Jason Nelson/Decrypt&rpar;](http://www.techmeme.com/250928/p22#a250928p22)<!-- TECH:END -->
+ - [DeepMind: video models like Veo 3 could become general purpose foundation models for vision, like LLMs for text, using zero-shot &quot;chain-of-frames&quot; reasoning &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250929/p2#a250929p2)
+ - [OnePlus 15 design reveal may have just spilled its launch date](https://www.androidauthority.com/oneplus-15-design-launch-date-teaser-3601865/)
+ - [Best Battery Life Laptops of 2025](https://www.cnet.com/tech/computing/best-battery-life-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
