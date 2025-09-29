@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s India iPhone supply chain created 350,000 jobs](https://appleinsider.com/articles/25/09/29/apples-india-iphone-supply-chain-created-350000-jobs?utm_source=rss)
- - [Bad Bunny to headline Apple&#39;s 2025 Super Bowl half-time show](https://appleinsider.com/articles/25/09/29/bad-bunny-to-headline-apples-2025-super-bowl-half-time-show?utm_source=rss)
- - [How debt is fueling the next wave of the AI infrastructure boom; an analyst estimates Oracle needs to borrow $25B/year over four years to fund its OpenAI plans &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250929/p15#a250929p15)<!-- TECH:END -->
+ - [This OnePlus 15 colorway is launching globally with an impressive ‘ceramic coating’ finish](https://www.androidauthority.com/oneplus-15-sand-storm-edition-global-launch-3602018/)
+ - [Qualcomm’s Snapdragon X2 Elite Extreme Performance Puts Pressure Back on Intel and Apple](https://www.wired.com/story/qualcomm-snapdragon-x2-elite-extreme-benchmarks/)
+ - [Get a look at the OnePlus 15 from every angle](https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
