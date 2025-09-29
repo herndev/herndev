@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Simpsons Movie 2 is coming in 2027](https://www.polygon.com/the-simpsons-movie-2-sequel-disney/)
- - [This year&#39;s biggest surprise co-op hit is 30% off in the Steam Autumn Sale](https://www.pcgamer.com/games/sim/this-years-biggest-surprise-co-op-hit-is-30-percent-off-in-the-steam-autumn-sale/)
- - [EA&#39;s buyout by Saudi Arabia and private equity is gaming&#39;s 2nd biggest deal ever](https://www.polygon.com/ea-electronic-arts-buyout-saudi-arabia-jared-kushner/)<!-- GAME:END -->
+ - [Control is 90% off in the Steam Autumn Sale, meaning you can read some of the finest redacted documents in videogames for just $4](https://www.pcgamer.com/games/third-person-shooter/control-is-90-percent-off-in-the-steam-autumn-sale-meaning-you-can-read-some-of-the-finest-redacted-documents-in-videogames-for-just-usd4/)
+ - [Diablo 4 player harnessed the power of an infinite damage exploit to breeze through an impossible dungeon 48 hours before Blizzard took it away](https://www.pcgamer.com/games/rpg/diablo-4-player-harnessed-the-power-of-an-infinite-damage-exploit-to-breeze-through-an-impossible-dungeon-48-hours-before-blizzard-took-it-away/)
+ - [All active Volleyball Legends codes in September 2025](https://www.pcgamer.com/games/roblox/volleyball-legends-codes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
