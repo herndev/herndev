@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The way this cat tuck it&#39;s ear to avoid the table edge](http://9gag.com/gag/awyGAgW)
- - ⏩ [The practice and the final performance of a ballet dance](http://9gag.com/gag/aYQng2N)
- - 👉 [They are all around us](http://9gag.com/gag/aAyN3dL)<!-- MEMES:END -->
+ - 💣 [Magic ???](http://9gag.com/gag/aO8NYyE)
+ - ⏩ [Have you tried booze?](http://9gag.com/gag/a4PrQgZ)
+ - 👉 [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)<!-- MEMES:END -->
 
 ---
 
