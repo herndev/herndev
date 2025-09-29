@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [There&#39;s a sidequest in Borderlands 4 based on a meme making fun of Soulsborne games and it&#39;s great](https://www.pcgamer.com/games/fps/theres-a-sidequest-in-borderlands-4-based-on-a-meme-making-fun-of-soulsborne-games-and-its-great/)
  - [Today&#39;s Wordle clues, hints and answer for September 29 &lpar;#1563&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-29-2025/)
- - [Next year Magic: The Gathering will return to Lorwyn, Strixhaven, Middle-earth, the Marvel Universe—and space, with a Star Trek set](https://www.pcgamer.com/games/card-games/next-year-magic-the-gathering-will-return-to-lorwyn-strixhaven-middle-earth-the-marvel-universe-and-space-with-a-star-trek-set/)
- - [Five new Steam games you probably missed &lpar;September 29, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-29-2025/)<!-- GAME:END -->
+ - [Next year Magic: The Gathering will return to Lorwyn, Strixhaven, Middle-earth, the Marvel Universe—and space, with a Star Trek set](https://www.pcgamer.com/games/card-games/next-year-magic-the-gathering-will-return-to-lorwyn-strixhaven-middle-earth-the-marvel-universe-and-space-with-a-star-trek-set/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
