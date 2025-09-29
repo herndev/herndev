@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung OLED ramp up signals probable 2026 Apple iPhone Fold release](https://appleinsider.com/articles/25/09/29/samsung-oled-ramp-up-signals-probable-2026-apple-iphone-fold-release?utm_source=rss)
- - [What is your idea of the perfect Google Pixel phone?](https://www.androidauthority.com/perfect-pixel-phone-open-thread-3602065/)
- - [Galaxy Z Fold 5 and Flip 5 are next up for the stable One UI 8 rollout](https://www.androidauthority.com/galaxy-z-fold-5-flip-5-one-ui-8-3602039/)<!-- TECH:END -->
+ - [Amazon event preview, iPhone 17 first week reactions, &amp; Kohler smart shower on HomeKit Insider](https://appleinsider.com/articles/25/09/29/amazon-event-preview-iphone-17-first-week-reactions-kohler-smart-shower-on-homekit-insider?utm_source=rss)
+ - [Apple Watch SE 3 review: Boring, but the one to buy](https://appleinsider.com/articles/25/09/29/apple-watch-se-3-review-boring-but-the-one-to-buy?utm_source=rss)
+ - [Anker’s fastest airline-friendly power bank is now available](https://www.theverge.com/news/787213/anker-prime-power-bank-300w-battery-portable-charger-airline-friendly)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
