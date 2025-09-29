@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dating In Your 30&#39;s Dangers.](http://9gag.com/gag/a0eW51B)
- - ⏩ [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
- - 👉 [Fly away](http://9gag.com/gag/a34pMN3)<!-- MEMES:END -->
+ - 💣 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
+ - ⏩ [Gonna catch em all](http://9gag.com/gag/aVv13MK)
+ - 👉 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)<!-- MEMES:END -->
 
 ---
 
