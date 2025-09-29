@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox September Update: ROG Xbox Ally, Gaming Copilot, Aggregated Library, and More](https://news.xbox.com/en-us/2025/09/29/xbox-september-update-2025/)
- - [Monster Hunter Wilds is the latest game to announce an &#39;End of support notice for Windows 10&#39;, as developers prepare for the final days of the soon-to-be-dead operating system](https://www.pcgamer.com/games/action/monster-hunter-wilds-is-the-latest-game-to-announce-an-end-of-support-notice-for-windows-10-as-developers-prepare-for-the-final-days-of-the-soon-to-be-dead-operating-system/)
- - [Silent Hill f Has One Of The Best And Creepiest Puzzles Of The Year](https://kotaku.com/silent-hill-f-scarecrow-puzzle-field-hinako-2000629866)<!-- GAME:END -->
+ - [Final Fantasy Tactics – The Ivalice Chronicles: Tips for New and Returning Players](https://news.xbox.com/en-us/2025/09/29/final-fantasy-tactics-the-ivalice-chronicles-tips-for-new-and-returning-players/)
+ - [Scalpers Are Already Trying To Flip The Xbox Ally X For Twice The Price And It’s Not Even Sold Out Yet](https://kotaku.com/xbox-rog-ally-x-price-ebay-asus-microsoft-2000629892)
+ - [New PS5 Model Ditches The Shiny Black Plastic Fans Hated](https://kotaku.com/leaked-ps5-model-shiny-black-plastic-fingerprints-borderlands-4-silent-hill-2000629868)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
