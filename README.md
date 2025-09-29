@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s only bad if my people are getting killed](http://9gag.com/gag/a9yNKED)
- - ⏩ [FAFO with the Brazilian police](http://9gag.com/gag/apRjmA9)
- - 👉 [This app is so racist rn I&#39;m ready for the downvote tsunami, bring in on b*tches](http://9gag.com/gag/ae9PrVO)<!-- MEMES:END -->
+ - 💣 [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)
+ - ⏩ [Fly away](http://9gag.com/gag/a34pMN3)
+ - 👉 [Gonna catch em all](http://9gag.com/gag/aVv13MK)<!-- MEMES:END -->
 
 ---
 
