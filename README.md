@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Consume Me&#39;s creators turned teenage obsessions into an award-winning game](https://www.polygon.com/consume-me-jenny-jiao-hsia-ap-thomson-interview/)
- - [MTG&#39;s Final Fantasy Commander decks just got a big discount on Amazon ahead of Prime Day](https://www.polygon.com/final-fantasy-commander-decks-discount-amazon-prime-day/)
- - [Amazon Didn’t Wait for Prime Big Deal Days, Fire TV Stick HD Is Already Down to Almost Free](https://kotaku.com/amazon-didnt-wait-for-prime-big-deal-days-fire-tv-stick-hd-is-already-down-to-almost-free-2000629372)<!-- GAME:END -->
+ - [Xbox September Update: ROG Xbox Ally, Gaming Copilot, Aggregated Library, and More](https://news.xbox.com/en-us/2025/09/29/xbox-september-update-2025/)
+ - [Monster Hunter Wilds is the latest game to announce an &#39;End of support notice for Windows 10&#39;, as developers prepare for the final days of the soon-to-be-dead operating system](https://www.pcgamer.com/games/action/monster-hunter-wilds-is-the-latest-game-to-announce-an-end-of-support-notice-for-windows-10-as-developers-prepare-for-the-final-days-of-the-soon-to-be-dead-operating-system/)
+ - [Silent Hill f Has One Of The Best And Creepiest Puzzles Of The Year](https://kotaku.com/silent-hill-f-scarecrow-puzzle-field-hinako-2000629866)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
