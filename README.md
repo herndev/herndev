@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
- - ⏩ [Gonna catch em all](http://9gag.com/gag/aVv13MK)
- - 👉 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)<!-- MEMES:END -->
+ - 💣 [The way this cat tuck it&#39;s ear to avoid the table edge](http://9gag.com/gag/awyGAgW)
+ - ⏩ [The practice and the final performance of a ballet dance](http://9gag.com/gag/aYQng2N)
+ - 👉 [They are all around us](http://9gag.com/gag/aAyN3dL)<!-- MEMES:END -->
 
 ---
 
