@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepMind: video models like Veo 3 could become general purpose foundation models for vision, like LLMs for text, using zero-shot &quot;chain-of-frames&quot; reasoning &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250929/p2#a250929p2)
- - [OnePlus 15 design reveal may have just spilled its launch date](https://www.androidauthority.com/oneplus-15-design-launch-date-teaser-3601865/)
- - [Best Battery Life Laptops of 2025](https://www.cnet.com/tech/computing/best-battery-life-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [London-based Paid, which helps AI agent providers monetize and track costs, raised a $21.6M seed led by Lightspeed, a source says at a $100M+ valuation &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250929/p3#a250929p3)
+ - [Google Home’s major redesign is already rolling out, but not on Android](https://www.androidauthority.com/google-home-app-redesign-rollout-ios-3601877/)
+ - [DeepMind: video models like Veo 3 could become general purpose foundation models for vision, like LLMs for text, using zero-shot &quot;chain-of-frames&quot; reasoning &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250929/p2#a250929p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
