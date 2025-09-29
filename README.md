@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
- - ⏩ [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
+ - ⏩ [SIM cards are actually tiny computers](http://9gag.com/gag/ajPMEy1)
  - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
 
 ---
