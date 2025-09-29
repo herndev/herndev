@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Magic ???](http://9gag.com/gag/aO8NYyE)
- - ⏩ [Have you tried booze?](http://9gag.com/gag/a4PrQgZ)
+ - 💣 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
+ - ⏩ [Gonna catch em all](http://9gag.com/gag/aVv13MK)
  - 👉 [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)<!-- MEMES:END -->
 
 ---
