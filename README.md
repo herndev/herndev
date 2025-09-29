@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic adds context editing and a memory tool to the Claude API, allowing AI agents to handle long-running tasks without frequently hitting context limits &lpar;Anthropic&rpar;](http://www.techmeme.com/250929/p33#a250929p33)
- - [Amazon’s Echo Pop and Dot speakers are the cheapest they’ve been in months](https://www.theverge.com/tech/787543/amazon-echo-dot-pop-october-prime-day-deal-sale)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
+ - [Google’s brand-new Windows app has already hit a snag](https://www.androidauthority.com/google-app-for-windows-reinstall-3602173/)
+ - [Deal: I bought the Kreedom Phoenix Shield Gaming Glasses for just $8.99!](https://www.androidauthority.com/kreedom-phoenix-shield-gaming-glasses-deal-3602242/)
+ - [Sources: OpenAI told studios that it plans to release a new version of Sora that creates videos featuring copyrighted material unless copyright holders opt out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250929/p36#a250929p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
