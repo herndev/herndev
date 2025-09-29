@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lifehack of the day...](http://9gag.com/gag/ajPM56w)
- - ⏩ [Gonna catch em all](http://9gag.com/gag/aVv13MK)
- - 👉 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)<!-- MEMES:END -->
+ - 💣 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
+ - ⏩ [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)
+ - 👉 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)<!-- MEMES:END -->
 
 ---
 
