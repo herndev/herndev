@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite removes controversial Peacemaker emote after the show&#39;s big plot twist](https://www.polygon.com/fortnite-peacemaker-dance-emote-controversy-swastika/)
- - [There&#39;s a sidequest in Borderlands 4 based on a meme making fun of Soulsborne games and it&#39;s great](https://www.pcgamer.com/games/fps/theres-a-sidequest-in-borderlands-4-based-on-a-meme-making-fun-of-soulsborne-games-and-its-great/)
- - [Today&#39;s Wordle clues, hints and answer for September 29 &lpar;#1563&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-29-2025/)<!-- GAME:END -->
+ - [Borderlands 4 has a throwing knife-shaped problem, and a nerf isn&#39;t going to cut it](https://www.pcgamer.com/games/fps/borderlands-4-crit-throwing-knife-nerf/)
+ - [Fortnite quickly pulls Peacemaker emote while it figures out &#39;our partner&#39;s creative intentions&#39; after the show&#39;s huge twist gives it a whole new meaning](https://www.pcgamer.com/games/battle-royale/fortnite-quickly-pulls-peacemaker-emote-while-it-figures-out-our-partners-creative-intentions-after-the-shows-huge-twist-gives-it-a-whole-new-meaning/)
+ - [Battlefield 6 makes fun of CoD: Blows up Zac Efron and a load of other celebs while players whoop and cheer](https://www.pcgamer.com/games/fps/battlefield-6-makes-fun-of-cod-blows-up-zac-efron-and-a-load-of-other-celebs-while-players-whoop-and-cheer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
