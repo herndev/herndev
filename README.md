@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
- - ⏩ [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)
- - 👉 [The little mermaid in Peacemaker&#39;s alternative dimension.](http://9gag.com/gag/aVv1YDd)<!-- MEMES:END -->
+ - ⏩ [Not sure how this makes me feel...](http://9gag.com/gag/aND21Dw)
+ - 👉 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)<!-- MEMES:END -->
 
 ---
 
