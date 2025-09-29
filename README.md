@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA&#39;s buyout talks highlight the slowdown and consolidation trends in the $178B global gaming market after the COVID boom, as gamers are sticking to old titles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250929/p4#a250929p4)
- - [Best Minimalist Wallet for 2025 Tested By CNET Experts](https://www.cnet.com/tech/mobile/best-minimalist-wallet/#ftag=CAD590a51e)
- - [Best FDA-Approved Home Blood Pressure Monitors](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus 15 scores big boost in one area, latest leak indicates](https://www.androidauthority.com/oneplus-15-specs-leak-battery-capacity-3601901/)
+ - [Several US states have passed bills to ban or restrict AI mental health treatment, as experts say state laws lag behind the fast-moving AI therapy landscape &lpar;Devi Shastri/Associated Press&rpar;](http://www.techmeme.com/250929/p5#a250929p5)
+ - [EA&#39;s ~$50B buyout talks highlight the slowdown and consolidation trends in the $178B global gaming market after the COVID-19 boom, as gamers stick to old titles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250929/p4#a250929p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
