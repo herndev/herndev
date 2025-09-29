@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Battlefield 6 Trailer Is A Direct Attack Against Call Of Duty](https://kotaku.com/new-battlefield-6-trailer-direct-attack-against-call-of-duty-celeb-trailer-skins-ea-2000629910)
- - [How to get garlic in Hades 2](https://www.polygon.com/hades-2-how-to-get-garlic/)
- - [MrBeast Responds To Concerns Over Trapping Guy In Burning House For $500,000](https://kotaku.com/mrbeast-house-fire-trapped-prize-stunt-viral-youtube-backlash-safety-2000629861)<!-- GAME:END -->
+ - [Tune Into Call of Duty Endowment &lpar;C.O.D.E.&rpar; Bowl VI Presented by USAA](https://www.callofduty.com/blog/2025/09/call-of-duty-endowment-bowl-vi-tune-in#new_tab)
+ - [Former BioWare lead writer reads the runes on EA-Saudi deal and speculates that &#39;guns and football&#39; are in, &#39;gay stuff&#39; is out, and the venerable RPG studio may be for the chop](https://www.pcgamer.com/gaming-industry/former-bioware-lead-writer-reads-the-runes-on-ea-saudi-deal-and-speculates-that-guns-and-football-are-in-gay-stuff-is-out-and-the-venerable-rpg-studio-may-be-for-the-chop/)
+ - [18 Years Later, Disney Announces A New Simpsons Movie](https://kotaku.com/18-years-later-disney-announces-the-simpsons-movie-2-sequel-fox-teaser-homer-2000629950)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
