@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford’s CEO isn’t impressed with Apple CarPlay Ultra](https://www.theverge.com/transportation/786376/ford-jim-farley-apple-carplay-ultra-decoder)
- - [Google&amp;#8217;s gradient &amp;#8216;G&amp;#8217; logo is rolling out everywhere](https://www.theverge.com/news/787176/google-new-logo-gradient-launch)
- - [This Is Why You Should Try Ultralight Backpacking &lpar;2025&rpar;](https://www.wired.com/story/what-is-ultralight-backpacking/)<!-- TECH:END -->
+ - [Samsung OLED ramp up signals probable 2026 Apple iPhone Fold release](https://appleinsider.com/articles/25/09/29/samsung-oled-ramp-up-signals-probable-2026-apple-iphone-fold-release?utm_source=rss)
+ - [What is your idea of the perfect Google Pixel phone?](https://www.androidauthority.com/perfect-pixel-phone-open-thread-3602065/)
+ - [Galaxy Z Fold 5 and Flip 5 are next up for the stable One UI 8 rollout](https://www.androidauthority.com/galaxy-z-fold-5-flip-5-one-ui-8-3602039/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
