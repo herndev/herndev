@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Klaus on Rebekah&#39;s love life](http://9gag.com/gag/a87X5yp)
+ - 💣 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
  - ⏩ [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
- - 👉 [Ooh mama](http://9gag.com/gag/aD2N4zO)<!-- MEMES:END -->
+ - 👉 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)<!-- MEMES:END -->
 
 ---
 
