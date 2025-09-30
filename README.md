@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These two Pixel phone features are driving over to Android Auto](https://www.androidauthority.com/google-pixel-features-android-auto-3602363/)
- - [The big Google Play Store update is out now, making space for ‘You’ and your gaming skill](https://www.androidauthority.com/google-play-store-update-you-tab-3602348/)
- - [Stop Putting Takeout Containers in the Microwave, Experts Warn](https://www.cnet.com/news/stop-putting-takeout-containers-in-the-microwave-experts-warn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You Pixel phones can now easily connect to two earbuds for simultaneous audio](https://www.androidauthority.com/pixel-audio-share-fast-pair-android-3602373/)
+ - [How Jensen Huang, who engaged little in politics until 2024, is using his newfound star power to strike deals in Europe, the Middle East, Japan, and elsewhere &lpar;Financial Times&rpar;](http://www.techmeme.com/250930/p4#a250930p4)
+ - [Jaguar Land Rover secures £2B from banks as &quot;a liquidity backstop&quot;, on top of a £1.5B UK government loan, and aims to resume manufacturing after its huge hack &lpar;Financial Times&rpar;](http://www.techmeme.com/250930/p3#a250930p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
