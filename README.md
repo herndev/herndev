@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for September 30 &lpar;#1564&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-30-2025/)
  - [&lpar;For Southeast Asia&rpar; Announcing the Ghost of Yōtei Hokkaido Tour, Presented by PlayStation and Klook](https://blog.playstation.com/2025/09/29/20250930-goy/)
- - [The best deals in the 2025 Steam Autumn Sale](https://www.pcgamer.com/games/the-best-deals-in-the-2025-steam-autumn-sale/)
- - [EA CEO says company values will &#39;remain unchanged&#39; under the new ownership of Saudi Arabia and Jared Kushner&#39;s investment firm](https://www.pcgamer.com/gaming-industry/ea-ceo-says-company-values-will-remain-unchanged-under-the-new-ownership-of-saudi-arabia-and-jared-kushners-investment-firm/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Announcing the Ghost of Yōtei Hokkaido Tour, Presented by PlayStation and Klook](https://blog.playstation.com/2025/09/29/20250930-goy/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
