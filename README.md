@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Fire TV Stick 4K Select kicks off new era of Vega OS devices](https://www.androidauthority.com/amazon-vega-os-fire-tv-stick-3602647/)
- - [Deal: Garmin inReach Mini 2 satellite communicator plummets to a new record-low price!](https://www.androidauthority.com/garmin-inreach-mini-2-satellite-communicator-deal-3602654/)
- - [Sora 2 is available for free with usage limits for all users, while ChatGPT Pro subscribers have access to the higher-quality Sora 2 Pro model &lpar;Carl Franzen/Venturebeat&rpar;](http://www.techmeme.com/250930/p42#a250930p42)<!-- TECH:END -->
+ - [Anthropic&#39;s System Card: Claude Sonnet 4.5 was able to recognize many alignment evaluation environments as tests and would modify its behavior accordingly &lpar;Celia Ford/Transformer&rpar;](http://www.techmeme.com/250930/p45#a250930p45)
+ - [iPhone 11 Pro Max &amp; Apple Watch Series 3 join vintage product list](https://appleinsider.com/articles/25/09/30/iphone-11-pro-max-apple-watch-series-3-join-vintage-product-list?utm_source=rss)
+ - [Of all Amazon’s new hardware, my favorite’s a $20 remote — that Google should copy, yesterday](https://www.androidauthority.com/smart-home-remote-3602747/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
