@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
- - ⏩ [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)
- - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
+ - 💣 [I do what I want](http://9gag.com/gag/aKGN7z1)
+ - ⏩ [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
+ - 👉 [No time to f**k around](http://9gag.com/gag/a7o6wBe)<!-- MEMES:END -->
 
 ---
 
