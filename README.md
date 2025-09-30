@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First OnePlus 15 camera samples reveal some much-needed good news](https://www.androidauthority.com/oneplus-15-camera-samples-zoom-3602332/)
- - [Logitech MX Master 4 Review: Productivity Pro](https://www.wired.com/review/logitech-mx-master-4/)
- - [Logitech’s MX Master 4 adds haptic feedback, mostly just for fun](https://www.theverge.com/news/787339/logitech-mx-master-4-mouse-haptics-specs-features-price)<!-- TECH:END -->
+ - [These two Pixel phone features are driving over to Android Auto](https://www.androidauthority.com/google-pixel-features-android-auto-3602363/)
+ - [The big Google Play Store update is out now, making space for ‘You’ and your gaming skill](https://www.androidauthority.com/google-play-store-update-you-tab-3602348/)
+ - [Stop Putting Takeout Containers in the Microwave, Experts Warn](https://www.cnet.com/news/stop-putting-takeout-containers-in-the-microwave-experts-warn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
