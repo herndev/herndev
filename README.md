@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [20 years in, Sniper Elite’s devs want to keep the shooter’s Nazi history in the past](https://www.polygon.com/sniper-elite-20-anniversary-interview/)
- - [Consume Me is a devastatingly accurate insight into diet culture and how all-consuming it is trying to attain the perfect lifestyle](https://www.pcgamer.com/games/sim/consume-me-is-a-devastatingly-accurate-insight-into-diet-culture-and-how-all-consuming-it-is-trying-to-attain-the-perfect-lifestyle/)
- - [AI &#39;actor&#39; Tilly Norwood provokes outrage from Hollywood&#39;s real actors and SAG-AFTRA](https://www.polygon.com/ai-generated-actor-tilly-norwood-hollywood-sag-aftra/)<!-- GAME:END -->
+ - [Silent Hill f makes me glad Kojima never got his hands on the franchise](https://www.polygon.com/silent-hill-f-kojima-pt/)
+ - [SMG Studio’s Favorite Minigames from LEGO Party!](https://news.xbox.com/en-us/2025/09/30/smg-studios-favorite-minigames-from-lego-party/)
+ - [After months of complaining that Monster Hunter Wilds is too easy, Omega Planetes is here to tip every hunter upside down and shake out all their lunch money](https://www.pcgamer.com/games/action/after-months-of-complaining-that-monster-hunter-wilds-is-too-easy-omega-planetes-is-here-to-tip-every-hunter-upside-down-and-shake-out-all-their-lunch-money/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
