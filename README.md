@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost of Yōtei release time in your time zone](https://www.polygon.com/ghost-of-yotei-release-time-zone-pdt-edt/)
- - [The Witcher author Andrzej Sapkowski says one of CD Projekt&#39;s big story points is actually based on a mistake, but &#39;videogame people have clung to the idea with remarkable tenacity&#39;](https://www.pcgamer.com/games/rpg/the-witcher-author-andrzej-sapkowski-says-one-of-cd-projekts-big-story-points-is-actually-based-on-a-mistake-but-videogame-people-have-clung-to-the-idea-with-remarkable-tenacity/)
- - [Fortnite&#39;s KPop Demon Hunters skins revealed](https://www.polygon.com/kpop-demon-hunters-skins-fortnite-epic-games-huntrix-zoey/)<!-- GAME:END -->
+ - [Amazon Is Selling A Bunch Of 4K UHD Movies For $15 Each Or Less](https://kotaku.com/amazon-4k-uhd-big-sale-cheap-movies-15-each-prime-day-deal-october-2000630342)
+ - [How to unlock weapon aspects in Hades 2](https://www.polygon.com/hades-2-aspects-weapons-unlock/)
+ - [Team Fortress 2 Classic, the throwback version of Valve&#39;s famed team-based shooter, is having an open beta on Steam in October](https://www.pcgamer.com/games/fps/team-fortress-2-classic-the-throwback-version-of-valves-famed-team-based-shooter-is-having-an-open-beta-on-steam-in-october/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
