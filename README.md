@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ooh mama](http://9gag.com/gag/aD2N4zO)
- - ⏩ [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
- - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
+ - 💣 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
+ - ⏩ [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
+ - 👉 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)<!-- MEMES:END -->
 
 ---
 
