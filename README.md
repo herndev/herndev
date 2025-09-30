@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
- - ⏩ [The little mermaid in Peacemaker&#39;s alternative dimension.](http://9gag.com/gag/aVv1YDd)
- - 👉 [Ooh mama](http://9gag.com/gag/aD2N4zO)<!-- MEMES:END -->
+ - 💣 [What movies is this](http://9gag.com/gag/aXPGgrz)
+ - ⏩ [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
+ - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
 
 ---
 
