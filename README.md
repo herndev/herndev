@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon unveils next-gen Echo lineup in big revamp](https://www.androidauthority.com/amazon-echo-next-gen-lineup-3602556/)
- - [Stripe launches Open Issuance, a stablecoin issuance platform built on Stripe&#39;s Bridge, which lets companies create their own stablecoins with minimal coding &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250930/p40#a250930p40)
- - [Galaxy Ring swelling victim shows aftermath and points to another case](https://www.androidauthority.com/galaxy-ring-battery-swelling-update-3602597/)<!-- TECH:END -->
+ - [Google is quietly testing a better app launch shortcut for the Pixel Launcher](https://www.androidauthority.com/pixel-launcher-search-bar-testing-app-open-shortcut-3602629/)
+ - [40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-prime-day-deals-october-2025/)
+ - [Amazon throws Alexa at everything in sight, from Kindles to doorbells](https://appleinsider.com/articles/25/09/30/amazon-throws-alexa-at-everything-in-sight-from-kindles-to-doorbells?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
