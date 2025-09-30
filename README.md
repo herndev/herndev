@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alien: Earth’s showrunner wanted it to be a dark reflection of our world](https://www.theverge.com/entertainment/787578/alien-earth-noah-hawley-interview-season-1-finale)
- - [Alexa Plus is available out of the box on new Echo devices](https://www.theverge.com/tech/786782/amazon-alexa-plus-availability-early-access)
- - [New Galaxy S26 Ultra renders show Samsung is ditching the boxy look](https://www.androidauthority.com/galaxy-s26-ultra-cad-renders-3602486/)<!-- TECH:END -->
+ - [Fool me twice: Smart home users say they’re done trusting Google](https://www.androidauthority.com/smart-home-users-dont-trust-google-3602539/)
+ - [M5 iPad Pro may have been completely leaked before Apple launch](https://appleinsider.com/articles/25/09/30/m5-ipad-pro-may-have-been-completely-leaked-before-apple-launch?utm_source=rss)
+ - [Microsoft is still leaving Mac users exposed to GitHub Mac malware flood](https://appleinsider.com/articles/25/09/30/microsoft-is-still-leaving-mac-users-exposed-to-github-mac-malware-flood?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
