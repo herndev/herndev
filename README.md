@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A live blog of Amazon&#39;s fall 2025 hardware event in New York City, where new Kindles, Echos, possibly a TV, and Alexa updates are expected &lpar;The Verge&rpar;](http://www.techmeme.com/250930/p20#a250930p20)
- - [Google&#39;s Latest AI Ransomware Defense Only Goes So Far](https://www.wired.com/story/googles-latest-ai-ransomware-defense-only-goes-so-far/)
- - [Best Smart Glasses in 2025: Get Meta&#39;s Latest or Wait?](https://www.cnet.com/tech/computing/best-smart-glasses-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon reveals its new Echo Dot Max smart speaker](https://www.theverge.com/news/786811/amazon-echo-dot-max-2025-reveal-smart-speaker-alexa)
+ - [Amazon debuts its latest Fire TVs, including a new Omni QLED model](https://www.theverge.com/news/787284/amazon-fire-tv-omni-qled-4k-tv-specs-price)
+ - [Amazon announces new Echo Show 8 and 11 smart displays](https://www.theverge.com/news/786681/amazon-alexa-echo-show-smart-display)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
