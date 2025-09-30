@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fool me twice: Smart home users say they’re done trusting Google](https://www.androidauthority.com/smart-home-users-dont-trust-google-3602539/)
- - [M5 iPad Pro may have been completely leaked before Apple launch](https://appleinsider.com/articles/25/09/30/m5-ipad-pro-may-have-been-completely-leaked-before-apple-launch?utm_source=rss)
- - [Microsoft is still leaving Mac users exposed to GitHub Mac malware flood](https://appleinsider.com/articles/25/09/30/microsoft-is-still-leaving-mac-users-exposed-to-github-mac-malware-flood?utm_source=rss)<!-- TECH:END -->
+ - [Amazon partners with FanDuel to allow viewers to track their NBA bets in real-time during NBA games on Prime Video and adds shoppable NBA merch to the games &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/250930/p38#a250930p38)
+ - [OpenAI launches Sora 2, which it says may be the &quot;GPT‑3.5 moment for video&quot; with the ability to follow intricate instructions spanning multiple shots &lpar;OpenAI&rpar;](http://www.techmeme.com/250930/p37#a250930p37)
+ - [Imgur is blocking users in the UK](https://www.theverge.com/news/788823/imgur-uk-users-blocked-ico-investigation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
