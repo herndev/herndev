@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
- - ⏩ [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
- - 👉 [Peak Writing](http://9gag.com/gag/apRjmpp)<!-- MEMES:END -->
+ - 💣 [Klaus on Rebekah&#39;s love life](http://9gag.com/gag/a87X5yp)
+ - ⏩ [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
+ - 👉 [Ooh mama](http://9gag.com/gag/aD2N4zO)<!-- MEMES:END -->
 
 ---
 
