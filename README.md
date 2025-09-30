@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Ops 7 beta dates, start times, how to play, what to expect, and more](https://www.polygon.com/black-ops-7-bo7-beta-times-dates-code-early-access/)
- - [Grounded 2’s Hairy and Scary Update Crawls Onto Your Screens Today](https://news.xbox.com/en-us/2025/09/30/grounded-2-hairy-scary-update/)
- - [The Star Trek: Voyager survival game will let you murder Tuvix all over again—so I don&#39;t really care that it looks a little rough](https://www.pcgamer.com/games/survival-crafting/the-star-trek-voyager-survival-game-will-let-you-murder-tuvix-all-over-again-so-i-dont-really-care-that-it-looks-a-little-rough/)<!-- GAME:END -->
+ - [Silent Hill f&#39;s combat undercuts its most powerful moment](https://www.polygon.com/silent-hill-f-combat-critique/)
+ - [Dying Light The Beast interactive map of Castor Woods](https://www.polygon.com/map/dying-light-the-beast-interactive-map-full-locations-all/)
+ - [Call Of Duty: Black Ops 7 Shows Off Everything Coming To Multiplayer At Launch](https://kotaku.com/cod-next-blops-7-wall-bounce-maps-tac-movement-2000630271)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
