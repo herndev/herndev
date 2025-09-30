@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple &amp; Amazon iPhone &amp; Mac price fixing lawsuit dismissed](https://appleinsider.com/articles/25/09/30/apple-amazon-iphone-mac-price-fixing-lawsuit-dismissed?utm_source=rss)
- - [Garmin’s eTrex Touch navigator can go almost a month without charging](https://www.theverge.com/news/788213/garmins-etrex-touch-navigator-can-go-almost-a-month-without-charging)
- - [Periodic Labs, co-founded by ChatGPT co-creator Liam Fedus, poaches 20+ researchers from Meta, OpenAI, DeepMind, and others to use AI for scientific discoveries &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250930/p8#a250930p8)<!-- TECH:END -->
+ - [The EV tax credit is dead — here’s what happens next](https://www.theverge.com/transportation/787281/ev-tax-credit-sales-lease-trump-climate)
+ - [Nothing’s ‘first step’ to an &amp;#8216;AI OS&amp;#8217; is not first, or an OS, but is fascinating](https://www.theverge.com/news/788242/nothing-ai-os-essential-apps-playground)
+ - [Spotify founder Daniel Ek is stepping down as CEO](https://www.theverge.com/news/788278/spotify-founder-daniel-ek-stepping-down-ceo-executive-chairman)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
