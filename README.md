@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon partners with FanDuel to allow viewers to track their NBA bets in real-time during NBA games on Prime Video and adds shoppable NBA merch to the games &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/250930/p38#a250930p38)
- - [OpenAI launches Sora 2, which it says may be the &quot;GPT‑3.5 moment for video&quot; with the ability to follow intricate instructions spanning multiple shots &lpar;OpenAI&rpar;](http://www.techmeme.com/250930/p37#a250930p37)
- - [Imgur is blocking users in the UK](https://www.theverge.com/news/788823/imgur-uk-users-blocked-ico-investigation)<!-- TECH:END -->
+ - [Amazon unveils next-gen Echo lineup in big revamp](https://www.androidauthority.com/amazon-echo-next-gen-lineup-3602556/)
+ - [Stripe launches Open Issuance, a stablecoin issuance platform built on Stripe&#39;s Bridge, which lets companies create their own stablecoins with minimal coding &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250930/p40#a250930p40)
+ - [Galaxy Ring swelling victim shows aftermath and points to another case](https://www.androidauthority.com/galaxy-ring-battery-swelling-update-3602597/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
