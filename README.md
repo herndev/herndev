@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
- - ⏩ [No time to f**k around](http://9gag.com/gag/a7o6wBe)
- - 👉 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)<!-- MEMES:END -->
+ - ⏩ [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)
+ - 👉 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)<!-- MEMES:END -->
 
 ---
 
