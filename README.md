@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
- - ⏩ [A Texas homeowner noticed two car thieves breaking into his vehicle Saturday around 12:30 a.m. So he went outside and opened fire, hitting one of the suspects. DA declined charges `as he was protecting his property.` Both men were charged with burglary.](http://9gag.com/gag/an7W5nn)
- - 👉 [Candy bars](http://9gag.com/gag/aPAdRrQ)<!-- MEMES:END -->
+ - 💣 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
+ - ⏩ [The little mermaid in Peacemaker&#39;s alternative dimension.](http://9gag.com/gag/aVv1YDd)
+ - 👉 [Ooh mama](http://9gag.com/gag/aD2N4zO)<!-- MEMES:END -->
 
 ---
 
