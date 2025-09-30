@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Magic ???](http://9gag.com/gag/aO8NYyE)
- - ⏩ [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
- - 👉 [Ooh mama](http://9gag.com/gag/aD2N4zO)<!-- MEMES:END -->
+ - 💣 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
+ - ⏩ [A Texas homeowner noticed two car thieves breaking into his vehicle Saturday around 12:30 a.m. So he went outside and opened fire, hitting one of the suspects. DA declined charges `as he was protecting his property.` Both men were charged with burglary.](http://9gag.com/gag/an7W5nn)
+ - 👉 [Candy bars](http://9gag.com/gag/aPAdRrQ)<!-- MEMES:END -->
 
 ---
 
