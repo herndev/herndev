@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: wholesale electricity now costs as much as 267% more for a single month than it did in 2020 in US areas located near significant data center activity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250930/p2#a250930p2)
- - [Not just a swelling scare: Galaxy Ring owners report serious battery drain issues](https://www.androidauthority.com/samsung-galaxy-ring-battery-drain-3602329/)
- - [30% Off Samsung Promo Code | October 2025](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
+ - [First OnePlus 15 camera samples reveal some much-needed good news](https://www.androidauthority.com/oneplus-15-camera-samples-zoom-3602332/)
+ - [Logitech MX Master 4 Review: Productivity Pro](https://www.wired.com/review/logitech-mx-master-4/)
+ - [Logitech’s MX Master 4 adds haptic feedback, mostly just for fun](https://www.theverge.com/news/787339/logitech-mx-master-4-mouse-haptics-specs-features-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
