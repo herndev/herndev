@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill f makes me glad Kojima never got his hands on the franchise](https://www.polygon.com/silent-hill-f-kojima-pt/)
- - [SMG Studio’s Favorite Minigames from LEGO Party!](https://news.xbox.com/en-us/2025/09/30/smg-studios-favorite-minigames-from-lego-party/)
- - [After months of complaining that Monster Hunter Wilds is too easy, Omega Planetes is here to tip every hunter upside down and shake out all their lunch money](https://www.pcgamer.com/games/action/after-months-of-complaining-that-monster-hunter-wilds-is-too-easy-omega-planetes-is-here-to-tip-every-hunter-upside-down-and-shake-out-all-their-lunch-money/)<!-- GAME:END -->
+ - [Black Ops 7 beta dates, start times, how to play, what to expect, and more](https://www.polygon.com/black-ops-7-bo7-beta-times-dates-code-early-access/)
+ - [Grounded 2’s Hairy and Scary Update Crawls Onto Your Screens Today](https://news.xbox.com/en-us/2025/09/30/grounded-2-hairy-scary-update/)
+ - [The Star Trek: Voyager survival game will let you murder Tuvix all over again—so I don&#39;t really care that it looks a little rough](https://www.pcgamer.com/games/survival-crafting/the-star-trek-voyager-survival-game-will-let-you-murder-tuvix-all-over-again-so-i-dont-really-care-that-it-looks-a-little-rough/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
