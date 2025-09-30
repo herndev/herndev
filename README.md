@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get an Amazon Echo Auto at a record-low price of $14.99](https://www.androidauthority.com/amazon-echo-auto-deal-2-3602241/)
- - [Google Drive’s Gemini collaboration finally comes to Android and iOS apps](https://www.androidauthority.com/google-drive-gemini-collaboration-mobile-app-3602297/)
- - [Internal memo: Microsoft is unifying its key Windows engineering teams under a single organization led by Windows chief Pavan Davuluri, reversing a 2018 split &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250929/p45#a250929p45)<!-- TECH:END -->
+ - [Sources: Saudi Arabia&#39;s PIF is the largest contributor to the $36B in equity used to finance the EA deal; it will roll over its $5B EA stake into the new entity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250929/p47#a250929p47)
+ - [Here are 55 great deals you can snag ahead of Amazon&amp;#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)
+ - [YouTube caves to Trump with $24.5 million settlement](https://www.theverge.com/news/787932/youtube-trump-ban-lawsuit-settlement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
