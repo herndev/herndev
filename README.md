@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NetBlocks: Afghanistan is experiencing a &quot;total internet blackout&quot; as the Taliban imposes a telecom shutdown; an official says it will last until further notice &lpar;Anbarasan Ethirajan/BBC&rpar;](http://www.techmeme.com/250929/p51#a250929p51)
  - [How Jared Kushner and Silver Lake co-CEO Egon Durban brokered the EA takeover using Kushner&#39;s deep Saudi Arabia ties; sources: Kushner&#39;s firm will own ~5% of EA &lpar;Financial Times&rpar;](http://www.techmeme.com/250929/p50#a250929p50)
- - [Both the Amazon Echo Dot and Pop are $15 off!](https://www.androidauthority.com/amazon-echo-dot-pop-deals-3-3602240/)
- - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Both the Amazon Echo Dot and Pop are $15 off!](https://www.androidauthority.com/amazon-echo-dot-pop-deals-3-3602240/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
