@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Very Finest Cosplay Fits From New York’s Anime NYC 2025](https://kotaku.com/cosplay-anime-nyc-2025-kpop-demon-hunters-2000630188)
- - [Super Mario Galaxy 1 and 2 review: two masterpieces for the price of two](https://www.polygon.com/mario-galaxy-2-remasters-switch-review/)
- - [Borderlands 4 dev clears up the difference between Skill Damage and Action Skill damage, and I feel like a combat log is in order so I didn&#39;t have to find this out on a Reddit thread](https://www.pcgamer.com/games/rpg/borderlands-4-dev-clears-up-the-difference-between-skill-damage-and-action-skill-damage-and-i-feel-like-a-combat-log-is-in-order-so-i-didnt-have-to-find-this-out-on-a-reddit-thread/)<!-- GAME:END -->
+ - [Summer Eternal, one of the most exciting studios to come out of the Disco Elysium fallout, will announce its first game exclusively through &#39;the analog medium&#39; of a vinyl record and a book of art, essays, and dev diaries](https://www.pcgamer.com/games/rpg/summer-eternal-one-of-the-most-exciting-studios-to-come-out-of-the-disco-elysium-fallout-will-announce-its-first-game-exclusively-through-the-analog-medium-of-a-vinyl-record-and-a-book-of-art-essays-and-dev-diaries/)
+ - [One Of 2023’s Best Vampire Survivors Knock-Offs Is Coming Back With New Updates](https://kotaku.com/oblivion-remastered-physical-sale-cheaper-brotato-shinobi-dlc-2000630213)
+ - [Yakuza&#39;s all-new bonus Gaiden game was almost an mp4 bundled on the Kiwami 3 disc before RGG figured fans might wanna play it](https://www.pcgamer.com/games/action/yakuzas-all-new-bonus-gaiden-game-was-almost-an-mp4-bundled-on-the-kiwami-3-disc-before-rgg-figured-fans-might-wanna-play-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
