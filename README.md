@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Is Selling A Bunch Of 4K UHD Movies For $15 Each Or Less](https://kotaku.com/amazon-4k-uhd-big-sale-cheap-movies-15-each-prime-day-deal-october-2000630342)
- - [How to unlock weapon aspects in Hades 2](https://www.polygon.com/hades-2-aspects-weapons-unlock/)
- - [Team Fortress 2 Classic, the throwback version of Valve&#39;s famed team-based shooter, is having an open beta on Steam in October](https://www.pcgamer.com/games/fps/team-fortress-2-classic-the-throwback-version-of-valves-famed-team-based-shooter-is-having-an-open-beta-on-steam-in-october/)<!-- GAME:END -->
+ - [Call of Duty Next 2025 Recap – The Latest News on Multiplayer, Zombies, Call of Duty: Warzone, and More](https://news.xbox.com/en-us/2025/09/30/call-of-duty-next-2025-recap/)
+ - [The Witcher: Crossroads of Ravens book review](https://www.pcgamer.com/games/rpg/the-witcher-crossroads-of-ravens-book-review/)
+ - [Even More Gorgeous Final Fantasy MTG Cards Are Coming And They’re Already Selling Out Again](https://kotaku.com/even-more-gorgeous-final-fantasy-mtg-cards-are-coming-and-theyre-already-selling-out-again-2000630364)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
