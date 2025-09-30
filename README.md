@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe Premiere launches on iPhone, free to download now](https://appleinsider.com/articles/25/09/30/adobe-premiere-launches-on-iphone-free-to-download-now?utm_source=rss)
- - [Subaru Crosstrek Hybrid 2026 Review: Smooth, Efficient](https://www.wired.com/review/subaru-crosstrek-hybrid-2026/)
- - [DoorDash’s New Delivery Robot Rolls Out Into the Big, Cruel World](https://www.wired.com/story/doordash-dot-delivery-robot/)<!-- TECH:END -->
+ - [A live blog of Amazon&#39;s fall 2025 hardware event in New York City, where new Kindles, Echos, possibly a TV, and Alexa updates are expected &lpar;The Verge&rpar;](http://www.techmeme.com/250930/p20#a250930p20)
+ - [Google&#39;s Latest AI Ransomware Defense Only Goes So Far](https://www.wired.com/story/googles-latest-ai-ransomware-defense-only-goes-so-far/)
+ - [Best Smart Glasses in 2025: Get Meta&#39;s Latest or Wait?](https://www.cnet.com/tech/computing/best-smart-glasses-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
