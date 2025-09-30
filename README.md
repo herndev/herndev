@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for September 30 &lpar;#1564&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-30-2025/)
- - [&lpar;For Southeast Asia&rpar; Announcing the Ghost of Yōtei Hokkaido Tour, Presented by PlayStation and Klook](https://blog.playstation.com/2025/09/29/20250930-goy/)
- - [&lpar;For Southeast Asia&rpar; Announcing the Ghost of Yōtei Hokkaido Tour, Presented by PlayStation and Klook](https://blog.playstation.com/2025/09/29/20250930-goy/)<!-- GAME:END -->
+ - [The Very Finest Cosplay Fits From New York’s Anime NYC 2025](https://kotaku.com/cosplay-anime-nyc-2025-kpop-demon-hunters-2000630188)
+ - [Super Mario Galaxy 1 and 2 review: two masterpieces for the price of two](https://www.polygon.com/mario-galaxy-2-remasters-switch-review/)
+ - [Borderlands 4 dev clears up the difference between Skill Damage and Action Skill damage, and I feel like a combat log is in order so I didn&#39;t have to find this out on a Reddit thread](https://www.pcgamer.com/games/rpg/borderlands-4-dev-clears-up-the-difference-between-skill-damage-and-action-skill-damage-and-i-feel-like-a-combat-log-is-in-order-so-i-didnt-have-to-find-this-out-on-a-reddit-thread/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
