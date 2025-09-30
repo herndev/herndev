@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This 2.5D Love Letter To Chrono Trigger And Other JRPG Classics Couldn’t Look Any More Perfect](https://kotaku.com/threads-time-trailer-chrono-trigger-jrpg-sea-stars-2000630296)
- - [When will The Conjuring: Last Rites be available on streaming?](https://www.polygon.com/the-conjuring-last-rites-streaming-release-date-hbo-max/)
- - [A surprise Steam update for Prototype broke the mods making the 16-year old game playable on modern systems—but could hint at a potential remaster](https://www.pcgamer.com/games/action/a-surprise-steam-update-for-prototype-broke-the-mods-making-the-16-year-old-game-playable-on-modern-systems-but-could-hint-at-a-potential-remaster/)<!-- GAME:END -->
+ - [Play Heavenly Spear and the New Gauntlet in Age of Mythology: Retold](https://www.ageofempires.com/news/play-heavenly-spear-and-the-new-gauntlet-in-age-of-mythology-retold/#new_tab)
+ - [How to revive players in 99 Nights in the Forest](https://www.pcgamer.com/games/survival-crafting/roblox-99-nights-in-the-forest-revive/)
+ - [Here’s What Matthew Perry, Justin Timberlake, Carmen Electra, and 50 Other Celebs Thought Of The PS2 In 2002](https://kotaku.com/matthew-perry-justin-timberlake-carmen-electra-50-celebs-ps2-2002-sony-2000630325)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
