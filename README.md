@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon reveals its new Echo Dot Max smart speaker](https://www.theverge.com/news/786811/amazon-echo-dot-max-2025-reveal-smart-speaker-alexa)
- - [Amazon debuts its latest Fire TVs, including a new Omni QLED model](https://www.theverge.com/news/787284/amazon-fire-tv-omni-qled-4k-tv-specs-price)
- - [Amazon announces new Echo Show 8 and 11 smart displays](https://www.theverge.com/news/786681/amazon-alexa-echo-show-smart-display)<!-- TECH:END -->
+ - [Alien: Earth’s showrunner wanted it to be a dark reflection of our world](https://www.theverge.com/entertainment/787578/alien-earth-noah-hawley-interview-season-1-finale)
+ - [Alexa Plus is available out of the box on new Echo devices](https://www.theverge.com/tech/786782/amazon-alexa-plus-availability-early-access)
+ - [New Galaxy S26 Ultra renders show Samsung is ditching the boxy look](https://www.androidauthority.com/galaxy-s26-ultra-cad-renders-3602486/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
