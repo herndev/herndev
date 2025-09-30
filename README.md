@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EV tax credit is dead — here’s what happens next](https://www.theverge.com/transportation/787281/ev-tax-credit-sales-lease-trump-climate)
- - [Nothing’s ‘first step’ to an &amp;#8216;AI OS&amp;#8217; is not first, or an OS, but is fascinating](https://www.theverge.com/news/788242/nothing-ai-os-essential-apps-playground)
- - [Spotify founder Daniel Ek is stepping down as CEO](https://www.theverge.com/news/788278/spotify-founder-daniel-ek-stepping-down-ceo-executive-chairman)<!-- TECH:END -->
+ - [Adobe Premiere launches on iPhone, free to download now](https://appleinsider.com/articles/25/09/30/adobe-premiere-launches-on-iphone-free-to-download-now?utm_source=rss)
+ - [Subaru Crosstrek Hybrid 2026 Review: Smooth, Efficient](https://www.wired.com/review/subaru-crosstrek-hybrid-2026/)
+ - [DoorDash’s New Delivery Robot Rolls Out Into the Big, Cruel World](https://www.wired.com/story/doordash-dot-delivery-robot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
