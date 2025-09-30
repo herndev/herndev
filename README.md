@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Saudi Arabia&#39;s PIF is the largest contributor to the $36B in equity used to finance the EA deal; it will roll over its $5B EA stake into the new entity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250929/p47#a250929p47)
- - [Here are 55 great deals you can snag ahead of Amazon&amp;#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)
- - [YouTube caves to Trump with $24.5 million settlement](https://www.theverge.com/news/787932/youtube-trump-ban-lawsuit-settlement)<!-- TECH:END -->
+ - [How Jared Kushner and Silver Lake co-CEO Egon Durban brokered the EA takeover using Kushner&#39;s deep Saudi Arabia ties; sources: Kushner&#39;s firm will own ~5% of EA &lpar;Financial Times&rpar;](http://www.techmeme.com/250929/p50#a250929p50)
+ - [Both the Amazon Echo Dot and Pop are $15 off!](https://www.androidauthority.com/amazon-echo-dot-pop-deals-3-3602240/)
+ - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
