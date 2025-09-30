@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play Heavenly Spear and the New Gauntlet in Age of Mythology: Retold](https://www.ageofempires.com/news/play-heavenly-spear-and-the-new-gauntlet-in-age-of-mythology-retold/#new_tab)
- - [How to revive players in 99 Nights in the Forest](https://www.pcgamer.com/games/survival-crafting/roblox-99-nights-in-the-forest-revive/)
- - [Here’s What Matthew Perry, Justin Timberlake, Carmen Electra, and 50 Other Celebs Thought Of The PS2 In 2002](https://kotaku.com/matthew-perry-justin-timberlake-carmen-electra-50-celebs-ps2-2002-sony-2000630325)<!-- GAME:END -->
+ - [Ghost of Yōtei release time in your time zone](https://www.polygon.com/ghost-of-yotei-release-time-zone-pdt-edt/)
+ - [The Witcher author Andrzej Sapkowski says one of CD Projekt&#39;s big story points is actually based on a mistake, but &#39;videogame people have clung to the idea with remarkable tenacity&#39;](https://www.pcgamer.com/games/rpg/the-witcher-author-andrzej-sapkowski-says-one-of-cd-projekts-big-story-points-is-actually-based-on-a-mistake-but-videogame-people-have-clung-to-the-idea-with-remarkable-tenacity/)
+ - [Fortnite&#39;s KPop Demon Hunters skins revealed](https://www.polygon.com/kpop-demon-hunters-skins-fortnite-epic-games-huntrix-zoey/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
