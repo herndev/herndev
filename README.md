@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What movies is this](http://9gag.com/gag/aXPGgrz)
- - ⏩ [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
- - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
+ - 💣 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
+ - ⏩ [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
+ - 👉 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)<!-- MEMES:END -->
 
 ---
 
