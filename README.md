@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
  - ⏩ [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
- - 👉 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)<!-- MEMES:END -->
+ - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
 
 ---
 
