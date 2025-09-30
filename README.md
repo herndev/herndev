@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&#39;s System Card: Claude Sonnet 4.5 was able to recognize many alignment evaluation environments as tests and would modify its behavior accordingly &lpar;Celia Ford/Transformer&rpar;](http://www.techmeme.com/250930/p45#a250930p45)
- - [iPhone 11 Pro Max &amp; Apple Watch Series 3 join vintage product list](https://appleinsider.com/articles/25/09/30/iphone-11-pro-max-apple-watch-series-3-join-vintage-product-list?utm_source=rss)
- - [Of all Amazon’s new hardware, my favorite’s a $20 remote — that Google should copy, yesterday](https://www.androidauthority.com/smart-home-remote-3602747/)<!-- TECH:END -->
+ - [OpenAI says Sora has guardrails intended to block depictions of public figures and to ensure that a user&#39;s likeness is used only with their consent, via cameos &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250930/p47#a250930p47)
+ - [Are you a Nightmare Before Christmas fan? You need to check out these deals!](https://www.androidauthority.com/amazon-echo-dot-limited-edition-disney-jack-skellington-sally-shells-3602653/)
+ - [Samsung Find may be about to get a major off-grid upgrade](https://www.androidauthority.com/samsung-find-satellite-location-sharing-3602739/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
