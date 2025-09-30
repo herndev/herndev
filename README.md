@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Summer Eternal, one of the most exciting studios to come out of the Disco Elysium fallout, will announce its first game exclusively through &#39;the analog medium&#39; of a vinyl record and a book of art, essays, and dev diaries](https://www.pcgamer.com/games/rpg/summer-eternal-one-of-the-most-exciting-studios-to-come-out-of-the-disco-elysium-fallout-will-announce-its-first-game-exclusively-through-the-analog-medium-of-a-vinyl-record-and-a-book-of-art-essays-and-dev-diaries/)
- - [One Of 2023’s Best Vampire Survivors Knock-Offs Is Coming Back With New Updates](https://kotaku.com/oblivion-remastered-physical-sale-cheaper-brotato-shinobi-dlc-2000630213)
- - [Yakuza&#39;s all-new bonus Gaiden game was almost an mp4 bundled on the Kiwami 3 disc before RGG figured fans might wanna play it](https://www.pcgamer.com/games/action/yakuzas-all-new-bonus-gaiden-game-was-almost-an-mp4-bundled-on-the-kiwami-3-disc-before-rgg-figured-fans-might-wanna-play-it/)<!-- GAME:END -->
+ - [20 years in, Sniper Elite’s devs want to keep the shooter’s Nazi history in the past](https://www.polygon.com/sniper-elite-20-anniversary-interview/)
+ - [Consume Me is a devastatingly accurate insight into diet culture and how all-consuming it is trying to attain the perfect lifestyle](https://www.pcgamer.com/games/sim/consume-me-is-a-devastatingly-accurate-insight-into-diet-culture-and-how-all-consuming-it-is-trying-to-attain-the-perfect-lifestyle/)
+ - [AI &#39;actor&#39; Tilly Norwood provokes outrage from Hollywood&#39;s real actors and SAG-AFTRA](https://www.polygon.com/ai-generated-actor-tilly-norwood-hollywood-sag-aftra/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
