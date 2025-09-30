@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is quietly testing a better app launch shortcut for the Pixel Launcher](https://www.androidauthority.com/pixel-launcher-search-bar-testing-app-open-shortcut-3602629/)
- - [40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-prime-day-deals-october-2025/)
- - [Amazon throws Alexa at everything in sight, from Kindles to doorbells](https://appleinsider.com/articles/25/09/30/amazon-throws-alexa-at-everything-in-sight-from-kindles-to-doorbells?utm_source=rss)<!-- TECH:END -->
+ - [Amazon Fire TV Stick 4K Select kicks off new era of Vega OS devices](https://www.androidauthority.com/amazon-vega-os-fire-tv-stick-3602647/)
+ - [Deal: Garmin inReach Mini 2 satellite communicator plummets to a new record-low price!](https://www.androidauthority.com/garmin-inreach-mini-2-satellite-communicator-deal-3602654/)
+ - [Sora 2 is available for free with usage limits for all users, while ChatGPT Pro subscribers have access to the higher-quality Sora 2 Pro model &lpar;Carl Franzen/Venturebeat&rpar;](http://www.techmeme.com/250930/p42#a250930p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
