@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
- - ⏩ [Peak Writing](http://9gag.com/gag/apRjmpp)
- - 👉 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)<!-- MEMES:END -->
+ - 💣 [A Texas homeowner noticed two car thieves breaking into his vehicle Saturday around 12:30 a.m. So he went outside and opened fire, hitting one of the suspects. DA declined charges `as he was protecting his property.` Both men were charged with burglary.](http://9gag.com/gag/an7W5nn)
+ - ⏩ [Candy bars](http://9gag.com/gag/aPAdRrQ)
+ - 👉 [Devious plot](http://9gag.com/gag/aND2g1w)<!-- MEMES:END -->
 
 ---
 
