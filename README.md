@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill f&#39;s combat undercuts its most powerful moment](https://www.polygon.com/silent-hill-f-combat-critique/)
- - [Dying Light The Beast interactive map of Castor Woods](https://www.polygon.com/map/dying-light-the-beast-interactive-map-full-locations-all/)
- - [Call Of Duty: Black Ops 7 Shows Off Everything Coming To Multiplayer At Launch](https://kotaku.com/cod-next-blops-7-wall-bounce-maps-tac-movement-2000630271)<!-- GAME:END -->
+ - [This 2.5D Love Letter To Chrono Trigger And Other JRPG Classics Couldn’t Look Any More Perfect](https://kotaku.com/threads-time-trailer-chrono-trigger-jrpg-sea-stars-2000630296)
+ - [When will The Conjuring: Last Rites be available on streaming?](https://www.polygon.com/the-conjuring-last-rites-streaming-release-date-hbo-max/)
+ - [A surprise Steam update for Prototype broke the mods making the 16-year old game playable on modern systems—but could hint at a potential remaster](https://www.pcgamer.com/games/action/a-surprise-steam-update-for-prototype-broke-the-mods-making-the-16-year-old-game-playable-on-modern-systems-but-could-hint-at-a-potential-remaster/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
