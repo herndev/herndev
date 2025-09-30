@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
+ - 💣 [Magic ???](http://9gag.com/gag/aO8NYyE)
  - ⏩ [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
  - 👉 [Ooh mama](http://9gag.com/gag/aD2N4zO)<!-- MEMES:END -->
 
