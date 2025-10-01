@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Digimon Story Time Stranger Review: Evolving Digimon games to a new level](https://www.polygon.com/digimon-story-time-stranger-review/)
- - [Fallout 76 adds Walton Goggins&#39; The Ghoul in big New Vegas-inspired update](https://www.polygon.com/fallout-76-burning-springs-reveal-walton-goggins-new-vegas/)
- - [Updates to Xbox Game Pass: Introducing Essential, Premium, and Ultimate Plans](https://news.xbox.com/en-us/2025/10/01/xbox-game-pass-ultimate-premium-essential-plans/)<!-- GAME:END -->
+ - [One Of 2025’s Coolest-Looking Games Now Has A Demo](https://kotaku.com/marvel-cosmic-invasion-steam-demo-pc-console-2025-coolest-looking-game-2000630663)
+ - [The Sweet Side Of Pokémon Card Collecting That Scalpers Can’t Steal](https://kotaku.com/pokemon-card-tcg-vendor-scalper-reseller-stream-shows-2000630658)
+ - [CloverPit moved its release for Silksong, and now is a Steam best-seller](https://www.polygon.com/cloverpit-steam-sales-delay-indie-silksong-release-roguelite/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
