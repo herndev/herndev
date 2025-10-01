@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: European prosecutors are investigating Northern Data for allegedly claiming a tax break on approximately €500M worth of GPUs it used for crypto mining &lpar;Bloomberg&rpar;](http://www.techmeme.com/251001/p36#a251001p36)
- - [Snoopy to stay with Apple TV+ until 2030](https://appleinsider.com/articles/25/10/01/snoopy-to-stay-with-apple-tv-until-2030?utm_source=rss)
- - [Microsoft launches a $19.99 per month Microsoft 365 Premium subscription, bundling Copilot Pro and Microsoft 365 Family subscriptions along with cloud storage &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251001/p35#a251001p35)<!-- TECH:END -->
+ - [Gemini’s home screen could soon get a Discovery-style redesign](https://www.androidauthority.com/google-gemini-scrollable-home-screen-apk-teardown-3603097/)
+ - [Our Favorite Automatic Latte Maker Is $200 Off](https://www.wired.com/story/delonghi-rivelia-deal-1025/)
+ - [iPhone 17 vs. iPhone 16e: Should you really spend $200 more?](https://appleinsider.com/articles/25/10/01/iphone-17-vs-iphone-16e-should-you-really-spend-200-more?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
