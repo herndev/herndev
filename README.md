@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yale and Brookings study: generative AI is reshaping US jobs slightly faster than computers and the internet did, with little evidence of job loss so far &lpar;Financial Times&rpar;](http://www.techmeme.com/251001/p2#a251001p2)
- - [Z.ai released GLM-4.6, an open-weights model with a context window of up to 200K tokens, claiming near parity with Claude Sonnet 4 on coding and reasoning tasks &lpar;Z.ai&rpar;](http://www.techmeme.com/251001/p1#a251001p1)
- - [Best 43-Inch TV for 2025](https://www.cnet.com/tech/home-entertainment/best-43-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nothing owners can now try Android 16 thanks to Nothing OS 4.0 open beta](https://www.androidauthority.com/nothing-os-4-open-beta-android-16-3602816/)
+ - [Beat the Nightly Heat With the Best Cooling Pillows of 2025: Tested and Reviewed](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)
+ - [How Amazon&#39;s 48% stake in Indian supermarket chain More is becoming a strategic asset in the e-commerce giant&#39;s patient grocery delivery expansion across India &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/251001/p4#a251001p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
