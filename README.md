@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you know you messed up](http://9gag.com/gag/aRBNrgq)
- - ⏩ [Streetwalkers](http://9gag.com/gag/aqypnYv)
- - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
+ - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - ⏩ [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
+ - 👉 [How to peel coconut efficiently](http://9gag.com/gag/ae9PgPm)<!-- MEMES:END -->
 
 ---
 
