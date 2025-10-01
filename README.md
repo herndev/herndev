@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How live sports betting has exploded in popularity in the US, accounting for more than half of the money wagered on FanDuel and DraftKings in recent quarters &lpar;Jenny Vrentas/New York Times&rpar;](http://www.techmeme.com/251001/p6#a251001p6)
- - [Sony’s top headphones and earbuds are getting Gemini Live and audio sharing via Fast Pair](https://www.androidauthority.com/sony-wh-1000xm6-wf-1000xm5-update-gemini-live-audio-sharing-fast-pair-3602833/)
- - [The Best Over-the-Counter Eye Drops of 2025, Chosen by Eye Doctors](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Swedish AI startups Lovable, Legora, and Sana, set to be acquired by Workday, highlight a key dilemma in Europe&#39;s tech scene: sell out or bet on becoming huge &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/251001/p9#a251001p9)
+ - [Apple files a motion to dismiss xAI&#39;s lawsuit, which alleges that Apple&#39;s ChatGPT integration stifles competition, saying it plans to integrate other chatbots &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/251001/p8#a251001p8)
+ - [Wikimedia wants to make it easier for you and AI developers to search through its data](https://www.theverge.com/news/789288/wikidata-ai-friendly-database)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
