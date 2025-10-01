@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
- - ⏩ [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
- - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
+ - 💣 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
+ - ⏩ [Ooh mama](http://9gag.com/gag/aD2N4zO)
+ - 👉 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)<!-- MEMES:END -->
 
 ---
 
