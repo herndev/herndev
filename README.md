@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft 365 Premium bundles Office and AI for the same price as ChatGPT Plus](https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing)
- - [Ford and GM are buying their own EVs to keep the $7500 tax credit alive](https://www.theverge.com/news/789855/ford-and-gm-are-buying-their-own-evs-to-keep-the-7500-tax-credit-alive)
- - [T-Mobile customers can now use some of their favorite apps even in the middle of nowhere](https://www.androidauthority.com/t-mobile-t-satellite-data-3603065/)<!-- TECH:END -->
+ - [Sources: European prosecutors are investigating Northern Data for allegedly claiming a tax break on approximately €500M worth of GPUs it used for crypto mining &lpar;Bloomberg&rpar;](http://www.techmeme.com/251001/p36#a251001p36)
+ - [Snoopy to stay with Apple TV+ until 2030](https://appleinsider.com/articles/25/10/01/snoopy-to-stay-with-apple-tv-until-2030?utm_source=rss)
+ - [Microsoft launches a $19.99 per month Microsoft 365 Premium subscription, bundling Copilot Pro and Microsoft 365 Family subscriptions along with cloud storage &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251001/p35#a251001p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
