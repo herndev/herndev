@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI made a TikTok for deepfakes, and it&amp;#8217;s getting hard to tell what&amp;#8217;s real](https://www.theverge.com/ai-artificial-intelligence/789126/openai-made-a-tiktok-for-deepfakes-and-its-getting-hard-to-tell-whats-real)
- - [Allowing more tailpipe pollution means higher fuel costs for Americans](https://www.theverge.com/news/789136/ev-fuel-costs-poll-greenhouse-gas-endangerment-repeal)
- - [Sam Altman signs a letter of intent with Samsung and SK Hynix to supply Stargate; Samsung and SK Hynix say demand from OpenAI could hit 900K wafers per month &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/251001/p19#a251001p19)<!-- TECH:END -->
+ - [Samsung says its Galaxy Watches will soon detect early signs of heart failure](https://www.androidauthority.com/samsung-galaxy-watch-lvsd-ecg-3602963/)
+ - [Samsung teams up with OpenAI to deliver Stargate chips](https://www.theverge.com/news/789687/openai-samsung-stargate-chips)
+ - [Netflix&amp;#8217;s latest Frankenstein trailer is all about the creature](https://www.theverge.com/news/788304/netflix-frankenstein-trailer-monster-del-toro-jacob-elordi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
