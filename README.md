@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Of 2025’s Coolest-Looking Games Now Has A Demo](https://kotaku.com/marvel-cosmic-invasion-steam-demo-pc-console-2025-coolest-looking-game-2000630663)
- - [The Sweet Side Of Pokémon Card Collecting That Scalpers Can’t Steal](https://kotaku.com/pokemon-card-tcg-vendor-scalper-reseller-stream-shows-2000630658)
- - [CloverPit moved its release for Silksong, and now is a Steam best-seller](https://www.polygon.com/cloverpit-steam-sales-delay-indie-silksong-release-roguelite/)<!-- GAME:END -->
+ - [Amnesia and SOMA creators Frictional Games tease their upcoming project](https://www.polygon.com/amnesia-soma-frictional-games-teaser/)
+ - [Kitty Kart 64 is Mario Kart meets psychological horror](https://www.polygon.com/kitty-kart-64-mario-horror-game-psychological-spooky-indie-game/)
+ - [EA’s Saudi Deal Fallout: Junk Credit Ratings, Risky AI Bets, And Developer Fears](https://kotaku.com/ea-saudi-bioware-ai-lgbtq-debt-junk-bond-2000630647)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
