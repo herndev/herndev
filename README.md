@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
- - ⏩ [Ooh mama](http://9gag.com/gag/aD2N4zO)
- - 👉 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)<!-- MEMES:END -->
+ - 💣 [Satisfying Sound](http://9gag.com/gag/ajPMg7x)
+ - ⏩ [The best flight ever.](http://9gag.com/gag/aD2N4yG)
+ - 👉 [Shut Up Or Jail](http://9gag.com/gag/a7o6E0e)<!-- MEMES:END -->
 
 ---
 
