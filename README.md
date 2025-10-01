@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
- - ⏩ [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
- - 👉 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)<!-- MEMES:END -->
+ - 💣 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
+ - ⏩ [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
+ - 👉 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)<!-- MEMES:END -->
 
 ---
 
