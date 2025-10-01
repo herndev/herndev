@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Prime Day Deals: $100 Off 2 Best-Selling Espresso Makers](https://www.wired.com/story/barista-express-ninja-cafe-luxe-early-prime-day-deals/)
- - [US government takes equity stake in one of the world’s largest lithium mines](https://www.theverge.com/news/790057/lithium-mine-us-trump-us-government-stake-thacker-pass)
- - [OpenAI’s New Sora App Lets You Deepfake Yourself for Entertainment](https://www.wired.com/story/openai-sora-app-ai-deepfakes-entertainment/)<!-- TECH:END -->
+ - [Stockholm-based driverless truck startup Einride raised about $100M, a source says at a $1B+ valuation, up from a valuation of €400M in a 2021 funding round &lpar;Rafaela Lindeberg/Bloomberg&rpar;](http://www.techmeme.com/251001/p39#a251001p39)
+ - [Trump&amp;#8217;s solution for high drug prices is a discount portal called TrumpRx](https://www.theverge.com/news/790156/trump-healthcare-government-website-trumprx-pfizer)
+ - [Behold: The Lego Game Boy has already been modded to play games for real](https://www.theverge.com/news/790093/lego-game-boy-natalie-the-nerd)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
