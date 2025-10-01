@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roland’s TR-1000 is its first analog drum machine in over 40 years](https://www.theverge.com/tech/789361/rolands-tr-1000-rhythm-creator-analog-drum-machine-808-909)
- - [YouTube TV took NBCUniversal spat public, but there’s good news for subscribers](https://www.androidauthority.com/youtube-tv-nbcuniversal-short-term-extension-3602830/)
- - [A look at Nvidia&#39;s uncertain future in China, a critical market at the forefront of every technology wave enabled by its GPUs, as rivals like Huawei rise &lpar;Financial Times&rpar;](http://www.techmeme.com/251001/p5#a251001p5)<!-- TECH:END -->
+ - [How live sports betting has exploded in popularity in the US, accounting for more than half of the money wagered on FanDuel and DraftKings in recent quarters &lpar;Jenny Vrentas/New York Times&rpar;](http://www.techmeme.com/251001/p6#a251001p6)
+ - [Sony’s top headphones and earbuds are getting Gemini Live and audio sharing via Fast Pair](https://www.androidauthority.com/sony-wh-1000xm6-wf-1000xm5-update-gemini-live-audio-sharing-fast-pair-3602833/)
+ - [The Best Over-the-Counter Eye Drops of 2025, Chosen by Eye Doctors](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
