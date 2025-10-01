@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Either Galaxy Watch users are suddenly sleeping better, or Samsung changed how sleep scores work](https://www.androidauthority.com/galaxy-watch-sleep-scores-3603200/)
- - [Sources: Apple has shelved a cheaper, lighter Vision Pro variant planned for 2027 to focus on smart glasses, one to pair with iPhone and another with a display &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251001/p42#a251001p42)
- - [Instagram tests opening right onto Reels](https://www.theverge.com/news/790255/instagram-test-reels-home-tab)<!-- TECH:END -->
+ - [Brave says it has surpassed 100M monthly active users across desktop and mobile worldwide, with 42M+ DAUs, and Brave Search handles 1.6B+ queries each month &lpar;Paul Thurrott/Thurrott&rpar;](http://www.techmeme.com/251001/p43#a251001p43)
+ - [Save $230 with this bundle: Amazon Echo Spot and Echo Frames](https://www.androidauthority.com/amazon-echo-spot-frames-deal-3603154/)
+ - [Trump admin adds banner attacking ‘Radical Left Democrats’ to government websites](https://www.theverge.com/news/790280/trump-admin-government-shutdown-banner-democrats)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
