@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ooh mama](http://9gag.com/gag/aD2N4zO)
- - ⏩ [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
- - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
+ - 💣 [.](http://9gag.com/gag/aByNm8Z)
+ - ⏩ [Judges should also be held accountable](http://9gag.com/gag/a4PrEKv)
+ - 👉 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)<!-- MEMES:END -->
 
 ---
 
