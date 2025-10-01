@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Management sim sequel Jurassic World Evolution 3 offers more park customisation than ever for hardcore fans—but there&#39;s no dinosaur-driven chaos left to be found](https://www.pcgamer.com/games/sim/management-sim-sequel-jurassic-world-evolution-3-offers-more-park-customisation-than-ever-for-hardcore-fans-but-theres-no-dinosaur-driven-chaos-left-to-be-found/)
- - [BioWare&#39;s just waiting for the axe to fall after EA&#39;s $55 billion buyout, say anonymous staff](https://www.pcgamer.com/gaming-industry/biowares-just-waiting-for-the-axe-to-fall-after-eas-usd55-billion-buyout-say-anonymous-staff/)
- - [How to Become Anonymous on the Internet: What Works Best?](https://kotaku.com/how-to-become-anonymous-on-the-internet-what-works-best-2000630556)<!-- GAME:END -->
+ - [Digimon Story Time Stranger Review: Evolving Digimon games to a new level](https://www.polygon.com/digimon-story-time-stranger-review/)
+ - [Fallout 76 adds Walton Goggins&#39; The Ghoul in big New Vegas-inspired update](https://www.polygon.com/fallout-76-burning-springs-reveal-walton-goggins-new-vegas/)
+ - [Updates to Xbox Game Pass: Introducing Essential, Premium, and Ultimate Plans](https://news.xbox.com/en-us/2025/10/01/xbox-game-pass-ultimate-premium-essential-plans/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
