@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini’s home screen could soon get a Discovery-style redesign](https://www.androidauthority.com/google-gemini-scrollable-home-screen-apk-teardown-3603097/)
- - [Our Favorite Automatic Latte Maker Is $200 Off](https://www.wired.com/story/delonghi-rivelia-deal-1025/)
- - [iPhone 17 vs. iPhone 16e: Should you really spend $200 more?](https://appleinsider.com/articles/25/10/01/iphone-17-vs-iphone-16e-should-you-really-spend-200-more?utm_source=rss)<!-- TECH:END -->
+ - [Early Prime Day Deals: $100 Off 2 Best-Selling Espresso Makers](https://www.wired.com/story/barista-express-ninja-cafe-luxe-early-prime-day-deals/)
+ - [US government takes equity stake in one of the world’s largest lithium mines](https://www.theverge.com/news/790057/lithium-mine-us-trump-us-government-stake-thacker-pass)
+ - [OpenAI’s New Sora App Lets You Deepfake Yourself for Entertainment](https://www.wired.com/story/openai-sora-app-ai-deepfakes-entertainment/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
