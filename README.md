@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Management sim sequel Jurassic World Evolution 3 offers more park customisation than ever for hardcore fans—but there&#39;s no dinosaur-driven chaos left to be found](https://www.pcgamer.com/games/sim/management-sim-sequel-jurassic-world-evolution-3-offers-more-park-customisation-than-ever-for-hardcore-fans-but-theres-no-dinosaur-driven-chaos-left-to-be-found/)
  - [BioWare&#39;s just waiting for the axe to fall after EA&#39;s $55 billion buyout, say anonymous staff](https://www.pcgamer.com/gaming-industry/biowares-just-waiting-for-the-axe-to-fall-after-eas-usd55-billion-buyout-say-anonymous-staff/)
- - [How to Become Anonymous on the Internet: What Works Best?](https://kotaku.com/how-to-become-anonymous-on-the-internet-what-works-best-2000630556)
- - [Minecraft Mounts of Mayhem update: everything you need to know about the 4th drop of the year](https://www.pcgamer.com/games/survival-crafting/minecraft-mounts-of-madness-update/)<!-- GAME:END -->
+ - [How to Become Anonymous on the Internet: What Works Best?](https://kotaku.com/how-to-become-anonymous-on-the-internet-what-works-best-2000630556)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
