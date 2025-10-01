@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s the end of an era for Xbox Game Pass](https://www.polygon.com/game-pass-era-best-deal-over/)
- - [Pokémon Legends: Z-A Has Apparently Leaked, Beware Of Spoilers](https://kotaku.com/pokemon-legends-z-a-leaks-switch-2-image-mega-evolution-2000630717)
- - [Amazon Turns To AI Snoop Dogg To Save Failed Cloud Gaming Service](https://kotaku.com/amazon-failed-game-streaming-service-luna-pivots-snoop-dogg-ai-2000630696)<!-- GAME:END -->
+ - [TikTok Creator Flies To Scotland To Yell At GTA 6 Devs Outside Their Office](https://kotaku.com/tiktok-creator-flies-to-scotland-to-yell-at-gta-6-devs-outside-their-office-2000630715)
+ - [World of Warcraft: Midnight&#39;s collector&#39;s edition lets you own the Dark Heart, but please don&#39;t use this void relic to resurrect an all-devouring shadow god](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnights-collectors-edition-lets-you-own-the-dark-heart-but-please-dont-use-this-void-relic-to-resurrect-an-all-devouring-shadow-god/)
+ - [Fortnite removes controversial Peacemaker emote after the show&#39;s big plot twist](https://www.polygon.com/fortnite-peacemaker-dance-emote-controversy-swastika/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
