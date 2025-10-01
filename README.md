@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Satisfying Sound](http://9gag.com/gag/ajPMg7x)
- - ⏩ [The best flight ever.](http://9gag.com/gag/aD2N4yG)
- - 👉 [Shut Up Or Jail](http://9gag.com/gag/a7o6E0e)<!-- MEMES:END -->
+ - 💣 [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
+ - ⏩ [Ooh mama](http://9gag.com/gag/aD2N4zO)
+ - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
 
 ---
 
