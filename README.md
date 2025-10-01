@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing owners can now try Android 16 thanks to Nothing OS 4.0 open beta](https://www.androidauthority.com/nothing-os-4-open-beta-android-16-3602816/)
- - [Beat the Nightly Heat With the Best Cooling Pillows of 2025: Tested and Reviewed](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)
- - [How Amazon&#39;s 48% stake in Indian supermarket chain More is becoming a strategic asset in the e-commerce giant&#39;s patient grocery delivery expansion across India &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/251001/p4#a251001p4)<!-- TECH:END -->
+ - [Roland’s TR-1000 is its first analog drum machine in over 40 years](https://www.theverge.com/tech/789361/rolands-tr-1000-rhythm-creator-analog-drum-machine-808-909)
+ - [YouTube TV took NBCUniversal spat public, but there’s good news for subscribers](https://www.androidauthority.com/youtube-tv-nbcuniversal-short-term-extension-3602830/)
+ - [A look at Nvidia&#39;s uncertain future in China, a critical market at the forefront of every technology wave enabled by its GPUs, as rivals like Huawei rise &lpar;Financial Times&rpar;](http://www.techmeme.com/251001/p5#a251001p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
