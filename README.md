@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
- - ⏩ [Ooh mama](http://9gag.com/gag/aD2N4zO)
- - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
+ - 💣 [He chose to die due to self esteem . . . . .](http://9gag.com/gag/abAmVOB)
+ - ⏩ [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
+ - 👉 [He did what? WTF man](http://9gag.com/gag/aVv1xK2)<!-- MEMES:END -->
 
 ---
 
