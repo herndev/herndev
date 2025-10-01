@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wikimedia Deutschland launches the Wikidata Embedding Project, a vector-based semantic search database with nearly 120M entries, to make data accessible to AI &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251001/p15#a251001p15)
- - [This upcoming Google Maps feature could make virtual exploration easier, and here’s a look](https://www.androidauthority.com/google-maps-street-view-aerial-button-apk-teardown-3602942/)
- - [Russia&#39;s Ukraine war spurred a new generation of defense tech investors and startups like Helsing, applying a profit-driven model to Europe&#39;s military buildup &lpar;Patricia Cohen/New York Times&rpar;](http://www.techmeme.com/251001/p14#a251001p14)<!-- TECH:END -->
+ - [OpenAI made a TikTok for deepfakes, and it&amp;#8217;s getting hard to tell what&amp;#8217;s real](https://www.theverge.com/ai-artificial-intelligence/789126/openai-made-a-tiktok-for-deepfakes-and-its-getting-hard-to-tell-whats-real)
+ - [Allowing more tailpipe pollution means higher fuel costs for Americans](https://www.theverge.com/news/789136/ev-fuel-costs-poll-greenhouse-gas-endangerment-repeal)
+ - [Sam Altman signs a letter of intent with Samsung and SK Hynix to supply Stargate; Samsung and SK Hynix say demand from OpenAI could hit 900K wafers per month &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/251001/p19#a251001p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
