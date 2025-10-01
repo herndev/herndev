@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Fold 7 is so good, Samsung says it’s stealing Ultra fans](https://www.androidauthority.com/samsung-galaxy-z-fold-7-vs-galaxy-ultra-3602926/)
- - [Brompton’s versatile Electric G folding e-bike is now available in the US](https://www.theverge.com/news/789491/bromptons-versatile-electric-g-folding-e-bike-is-now-available-in-the-us)
- - [Google’s viral image generator is coming to AI Mode &lpar;APK teardown&rpar;](https://www.androidauthority.com/googles-nano-banana-ai-mode-apk-teardown-3602886/)<!-- TECH:END -->
+ - [Wikimedia Deutschland launches the Wikidata Embedding Project, a vector-based semantic search database with nearly 120M entries, to make data accessible to AI &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251001/p15#a251001p15)
+ - [This upcoming Google Maps feature could make virtual exploration easier, and here’s a look](https://www.androidauthority.com/google-maps-street-view-aerial-button-apk-teardown-3602942/)
+ - [Russia&#39;s Ukraine war spurred a new generation of defense tech investors and startups like Helsing, applying a profit-driven model to Europe&#39;s military buildup &lpar;Patricia Cohen/New York Times&rpar;](http://www.techmeme.com/251001/p14#a251001p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
