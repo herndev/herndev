@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I switched to the Pixel 10 from the Pixel 10 Pro: Here’s how it went!](https://www.androidauthority.com/pixel-10-vs-pixel-10-pro-3602612/)
- - [Q&amp;A with Marc Andreessen and investor Charlie Songhurst on Silicon Valley&#39;s past, present, and future, AI, productivity, Stripe, crypto, Musk, media, and more &lpar;Cheeky Pint&rpar;](http://www.techmeme.com/251001/p31#a251001p31)
- - [UK government again trying to get backdoor access to Apple&#39;s user data](https://appleinsider.com/articles/25/10/01/uk-government-again-trying-to-get-backdoor-access-to-apples-user-data?utm_source=rss)<!-- TECH:END -->
+ - [T-Mobile’s unlimited Google Photos storage perk is now officially dead](https://www.androidauthority.com/google-one-for-tmobile-discontinued-3603026/)
+ - [Apple&amp;#8217;s next-gen Vision Pro revealed in new regulatory filing](https://www.theverge.com/news/789801/apple-vision-pro-fcc-filing-leak)
+ - [15 Best Coolers WIRED Tested for Every Budget, Any Situation &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooler/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
