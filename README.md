@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy Tactics - The Ivalice Chronicles director is a big PC gamer, and says he was &#39;very particular&#39; about making sure they got the new UI just right](https://www.pcgamer.com/games/strategy/final-fantasy-tactics-the-ivalice-chronicles-director-is-a-big-pc-gamer-and-says-he-was-very-particular-about-making-sure-they-got-the-new-ui-just-right/)
- - [Xbox Game Pass price hike sparks outcry among hardcore fans](https://www.polygon.com/xbox-game-pass-ultimate-price-hike-reaction-reddit-x-social-media-cancel-subscription/)
- - [YouTube rolls over and pays $24.5 million to settle Trump lawsuit after suspending his account in the wake of the Capitol riots, president calls himself a &#39;shadowbanned patriot&#39;](https://www.pcgamer.com/gaming-industry/youtube-rolls-over-and-pays-usd24-5-million-to-settle-trump-lawsuit-after-suspending-his-account-in-the-wake-of-the-capitol-riots-president-calls-himself-a-shadowbanned-patriot/)<!-- GAME:END -->
+ - [It&#39;s the end of an era for Xbox Game Pass](https://www.polygon.com/game-pass-era-best-deal-over/)
+ - [Pokémon Legends: Z-A Has Apparently Leaked, Beware Of Spoilers](https://kotaku.com/pokemon-legends-z-a-leaks-switch-2-image-mega-evolution-2000630717)
+ - [Amazon Turns To AI Snoop Dogg To Save Failed Cloud Gaming Service](https://kotaku.com/amazon-failed-game-streaming-service-luna-pivots-snoop-dogg-ai-2000630696)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
