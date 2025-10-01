@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swedish AI startups Lovable, Legora, and Sana, set to be acquired by Workday, highlight a key dilemma in Europe&#39;s tech scene: sell out or bet on becoming huge &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/251001/p9#a251001p9)
- - [Apple files a motion to dismiss xAI&#39;s lawsuit, which alleges that Apple&#39;s ChatGPT integration stifles competition, saying it plans to integrate other chatbots &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/251001/p8#a251001p8)
- - [Wikimedia wants to make it easier for you and AI developers to search through its data](https://www.theverge.com/news/789288/wikidata-ai-friendly-database)<!-- TECH:END -->
+ - [The Galaxy Z Fold 7 is so good, Samsung says it’s stealing Ultra fans](https://www.androidauthority.com/samsung-galaxy-z-fold-7-vs-galaxy-ultra-3602926/)
+ - [Brompton’s versatile Electric G folding e-bike is now available in the US](https://www.theverge.com/news/789491/bromptons-versatile-electric-g-folding-e-bike-is-now-available-in-the-us)
+ - [Google’s viral image generator is coming to AI Mode &lpar;APK teardown&rpar;](https://www.androidauthority.com/googles-nano-banana-ai-mode-apk-teardown-3602886/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
