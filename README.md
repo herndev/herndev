@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
- - ⏩ [How to peel coconut efficiently](http://9gag.com/gag/ae9PgPm)
- - 👉 [Peak male activities](http://9gag.com/gag/aAyNed0)<!-- MEMES:END -->
+ - 💣 [How to peel coconut efficiently](http://9gag.com/gag/ae9PgPm)
+ - ⏩ [Peak male activities](http://9gag.com/gag/aAyNed0)
+ - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
 
 ---
 
