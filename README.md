@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 1 &lpar;#1565&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-1-2025/)
- - [CoD: Black Ops 7&#39;s wallhack killstreak is receiving a frenzy of criticism, but isn&#39;t the point of killstreaks that they&#39;re unfair?](https://www.pcgamer.com/games/fps/call-of-duty-black-ops-7s-wallhack-killstreak-is-receiving-a-frenzy-of-criticism-but-isnt-the-point-of-killstreaks-that-theyre-unfair/)
- - [How to get bandages in 99 Nights in the Forest](https://www.pcgamer.com/games/survival-crafting/roblox-99-nights-in-the-forest-bandages/)<!-- GAME:END -->
+ - [BioWare&#39;s just waiting for the axe to fall after EA&#39;s $55 billion buyout, say anonymous staff](https://www.pcgamer.com/gaming-industry/biowares-just-waiting-for-the-axe-to-fall-after-eas-usd55-billion-buyout-say-anonymous-staff/)
+ - [How to Become Anonymous on the Internet: What Works Best?](https://kotaku.com/how-to-become-anonymous-on-the-internet-what-works-best-2000630556)
+ - [Minecraft Mounts of Mayhem update: everything you need to know about the 4th drop of the year](https://www.pcgamer.com/games/survival-crafting/minecraft-mounts-of-madness-update/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
