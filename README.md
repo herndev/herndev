@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says its Galaxy Watches will soon detect early signs of heart failure](https://www.androidauthority.com/samsung-galaxy-watch-lvsd-ecg-3602963/)
- - [Samsung teams up with OpenAI to deliver Stargate chips](https://www.theverge.com/news/789687/openai-samsung-stargate-chips)
- - [Netflix&amp;#8217;s latest Frankenstein trailer is all about the creature](https://www.theverge.com/news/788304/netflix-frankenstein-trailer-monster-del-toro-jacob-elordi)<!-- TECH:END -->
+ - [I switched to the Pixel 10 from the Pixel 10 Pro: Here’s how it went!](https://www.androidauthority.com/pixel-10-vs-pixel-10-pro-3602612/)
+ - [Q&amp;A with Marc Andreessen and investor Charlie Songhurst on Silicon Valley&#39;s past, present, and future, AI, productivity, Stripe, crypto, Musk, media, and more &lpar;Cheeky Pint&rpar;](http://www.techmeme.com/251001/p31#a251001p31)
+ - [UK government again trying to get backdoor access to Apple&#39;s user data](https://appleinsider.com/articles/25/10/01/uk-government-again-trying-to-get-backdoor-access-to-apples-user-data?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
