@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Judges should also be held accountable](http://9gag.com/gag/a4PrEKv)
- - ⏩ [Would this meme get me arrested in the UK?](http://9gag.com/gag/aE0NpWK)
- - 👉 [Why am i like this](http://9gag.com/gag/aO8N7NN)<!-- MEMES:END -->
+ - 💣 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
+ - ⏩ [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
+ - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
 
 ---
 
