@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says Sora has guardrails intended to block depictions of public figures and to ensure that a user&#39;s likeness is used only with their consent, via cameos &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250930/p47#a250930p47)
- - [Are you a Nightmare Before Christmas fan? You need to check out these deals!](https://www.androidauthority.com/amazon-echo-dot-limited-edition-disney-jack-skellington-sally-shells-3602653/)
- - [Samsung Find may be about to get a major off-grid upgrade](https://www.androidauthority.com/samsung-find-satellite-location-sharing-3602739/)<!-- TECH:END -->
+ - [FCC references non-existent Apple Vision Pro in testing documents](https://appleinsider.com/articles/25/09/30/fcc-references-non-existent-apple-vision-pro-in-testing-documents?utm_source=rss)
+ - [The White House withdraws Brian Quintenz&#39;s nomination to lead the CFTC; the Winklevoss twins pressured Trump in July to reconsider his nomination &lpar;Politico&rpar;](http://www.techmeme.com/250930/p48#a250930p48)
+ - [OpenAI says Sora has guardrails intended to block depictions of public figures and to ensure that a user&#39;s likeness is used only with their consent, via cameos &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250930/p47#a250930p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
