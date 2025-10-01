@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Judges should also be held accountable](http://9gag.com/gag/a4PrEKv)
- - ⏩ [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
- - 👉 [Why am i like this](http://9gag.com/gag/aO8N7NN)<!-- MEMES:END -->
+ - 💣 [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
+ - ⏩ [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)
+ - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
 
 ---
 
