@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Assort Health, which is developing voice AI agents for healthcare, raised a $76M Series B led by Lightspeed, bringing its total funding to $102M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250930/p53#a250930p53)
  - [A California jury finds Uber not liable for a woman&#39;s alleged sexual assault by her driver, in the first trial out of 500+ consolidated lawsuits in the state &lpar;Diana Novak Jones/Reuters&rpar;](http://www.techmeme.com/250930/p52#a250930p52)
- - [All hail the new Fat Bear Champion](https://www.theverge.com/news/789358/new-fat-bear-week-champion)
- - [Taiwan&#39;s vice premier, who is leading US negotiations, says Taiwan would not agree to a 50-50 split in chip production, adding no such condition was discussed &lpar;Reuters&rpar;](http://www.techmeme.com/250930/p51#a250930p51)<!-- TECH:END -->
+ - [All hail the new Fat Bear Champion](https://www.theverge.com/news/789358/new-fat-bear-week-champion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
