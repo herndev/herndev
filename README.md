@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amnesia and SOMA creators Frictional Games tease their upcoming project](https://www.polygon.com/amnesia-soma-frictional-games-teaser/)
- - [Kitty Kart 64 is Mario Kart meets psychological horror](https://www.polygon.com/kitty-kart-64-mario-horror-game-psychological-spooky-indie-game/)
- - [EA’s Saudi Deal Fallout: Junk Credit Ratings, Risky AI Bets, And Developer Fears](https://kotaku.com/ea-saudi-bioware-ai-lgbtq-debt-junk-bond-2000630647)<!-- GAME:END -->
+ - [Final Fantasy Tactics - The Ivalice Chronicles director is a big PC gamer, and says he was &#39;very particular&#39; about making sure they got the new UI just right](https://www.pcgamer.com/games/strategy/final-fantasy-tactics-the-ivalice-chronicles-director-is-a-big-pc-gamer-and-says-he-was-very-particular-about-making-sure-they-got-the-new-ui-just-right/)
+ - [Xbox Game Pass price hike sparks outcry among hardcore fans](https://www.polygon.com/xbox-game-pass-ultimate-price-hike-reaction-reddit-x-social-media-cancel-subscription/)
+ - [YouTube rolls over and pays $24.5 million to settle Trump lawsuit after suspending his account in the wake of the Capitol riots, president calls himself a &#39;shadowbanned patriot&#39;](https://www.pcgamer.com/gaming-industry/youtube-rolls-over-and-pays-usd24-5-million-to-settle-trump-lawsuit-after-suspending-his-account-in-the-wake-of-the-capitol-riots-president-calls-himself-a-shadowbanned-patriot/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
