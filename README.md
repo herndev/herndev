@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [.](http://9gag.com/gag/aByNm8Z)
- - ⏩ [Judges should also be held accountable](http://9gag.com/gag/a4PrEKv)
- - 👉 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)<!-- MEMES:END -->
+ - 💣 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
+ - ⏩ [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
+ - 👉 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)<!-- MEMES:END -->
 
 ---
 
