@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s unlimited Google Photos storage perk is now officially dead](https://www.androidauthority.com/google-one-for-tmobile-discontinued-3603026/)
- - [Apple&amp;#8217;s next-gen Vision Pro revealed in new regulatory filing](https://www.theverge.com/news/789801/apple-vision-pro-fcc-filing-leak)
- - [15 Best Coolers WIRED Tested for Every Budget, Any Situation &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooler/)<!-- TECH:END -->
+ - [Microsoft 365 Premium bundles Office and AI for the same price as ChatGPT Plus](https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing)
+ - [Ford and GM are buying their own EVs to keep the $7500 tax credit alive](https://www.theverge.com/news/789855/ford-and-gm-are-buying-their-own-evs-to-keep-the-7500-tax-credit-alive)
+ - [T-Mobile customers can now use some of their favorite apps even in the middle of nowhere](https://www.androidauthority.com/t-mobile-t-satellite-data-3603065/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
