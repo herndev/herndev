@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
- - ⏩ [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
- - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
+ - 💣 [Ooh mama](http://9gag.com/gag/aD2N4zO)
+ - ⏩ [No time to f**k around](http://9gag.com/gag/a7o6wBe)
+ - 👉 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)<!-- MEMES:END -->
 
 ---
 
