@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stockholm-based driverless truck startup Einride raised about $100M, a source says at a $1B+ valuation, up from a valuation of €400M in a 2021 funding round &lpar;Rafaela Lindeberg/Bloomberg&rpar;](http://www.techmeme.com/251001/p39#a251001p39)
- - [Trump&amp;#8217;s solution for high drug prices is a discount portal called TrumpRx](https://www.theverge.com/news/790156/trump-healthcare-government-website-trumprx-pfizer)
- - [Behold: The Lego Game Boy has already been modded to play games for real](https://www.theverge.com/news/790093/lego-game-boy-natalie-the-nerd)<!-- TECH:END -->
+ - [T-Mobile expands its Starlink satellite service to support apps such as WhatsApp, Google Maps, and X, after launching it in July with basic features like SMS &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/251001/p40#a251001p40)
+ - [YouTube is trying out a new look on mobile, and users respond exactly how you’d expect](https://www.androidauthority.com/youtube-mobile-app-ui-changes-3603148/)
+ - [Gemini’s refusal to make anything but 1:1 square images is driving us crazy](https://www.androidauthority.com/google-gemini-square-images-3603128/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
