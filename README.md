@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [CoD: Black Ops 7&#39;s wallhack killstreak is receiving a frenzy of criticism, but isn&#39;t the point of killstreaks that they&#39;re unfair?](https://www.pcgamer.com/games/fps/call-of-duty-black-ops-7s-wallhack-killstreak-is-receiving-a-frenzy-of-criticism-but-isnt-the-point-of-killstreaks-that-theyre-unfair/)
  - [How to get bandages in 99 Nights in the Forest](https://www.pcgamer.com/games/survival-crafting/roblox-99-nights-in-the-forest-bandages/)
- - [This year&#39;s &#39;COD Next&#39; served up everything wrong with Call of Duty: Nonstop ads, manufactured hype, and a stagnant game](https://www.pcgamer.com/games/fps/this-years-cod-next-served-up-everything-wrong-with-call-of-duty-nonstop-ads-manufactured-hype-and-a-stagnant-game/)
- - [Call of Duty Next 2025 Recap – The Latest News on Multiplayer, Zombies, Call of Duty: Warzone, and More](https://news.xbox.com/en-us/2025/09/30/call-of-duty-next-2025-recap/)<!-- GAME:END -->
+ - [This year&#39;s &#39;COD Next&#39; served up everything wrong with Call of Duty: Nonstop ads, manufactured hype, and a stagnant game](https://www.pcgamer.com/games/fps/this-years-cod-next-served-up-everything-wrong-with-call-of-duty-nonstop-ads-manufactured-hype-and-a-stagnant-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
