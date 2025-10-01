@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TikTok Creator Flies To Scotland To Yell At GTA 6 Devs Outside Their Office](https://kotaku.com/tiktok-creator-flies-to-scotland-to-yell-at-gta-6-devs-outside-their-office-2000630715)
- - [World of Warcraft: Midnight&#39;s collector&#39;s edition lets you own the Dark Heart, but please don&#39;t use this void relic to resurrect an all-devouring shadow god](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnights-collectors-edition-lets-you-own-the-dark-heart-but-please-dont-use-this-void-relic-to-resurrect-an-all-devouring-shadow-god/)
- - [Fortnite removes controversial Peacemaker emote after the show&#39;s big plot twist](https://www.polygon.com/fortnite-peacemaker-dance-emote-controversy-swastika/)<!-- GAME:END -->
+ - [Can you guess the game based only on a blurb from a Steam review? Take our quiz and see if you score a thumbs up!](https://www.pcgamer.com/games/can-you-guess-the-game-based-only-on-a-blurb-from-a-steam-review-take-our-quiz-and-see-if-you-score-a-thumbs-up/)
+ - [Blizzard will break WoW&#39;s most popular combat mods sooner than expected, kickstarting a new era for the MMO&#39;s boss design in the next major patch](https://www.pcgamer.com/games/world-of-warcraft/blizzard-will-break-wows-most-popular-combat-mods-sooner-than-expected-kickstarting-a-new-era-for-the-mmos-boss-design-in-the-next-major-patch/)
+ - [EA&#39;s $55 billion acquisition is the biggest leveraged buyout in private equity history. Here&#39;s why it has everyone terrified](https://www.pcgamer.com/gaming-industry/eas-usd55-billion-acquisition-is-the-biggest-leveraged-buyout-in-private-equity-history-heres-why-it-has-everyone-terrified/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
