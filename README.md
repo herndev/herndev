@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to peel coconut efficiently](http://9gag.com/gag/ae9PgPm)
- - ⏩ [Peak male activities](http://9gag.com/gag/aAyNed0)
- - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
+ - 💣 [When you know you messed up](http://9gag.com/gag/aRBNrgq)
+ - ⏩ [Streetwalkers](http://9gag.com/gag/aqypnYv)
+ - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
 
 ---
 
