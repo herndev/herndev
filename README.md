@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
- - ⏩ [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
- - 👉 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)<!-- MEMES:END -->
+ - 💣 [Ooh mama](http://9gag.com/gag/aD2N4zO)
+ - ⏩ [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
+ - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
 
 ---
 
