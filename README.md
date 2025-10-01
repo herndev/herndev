@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
- - ⏩ [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)
+ - 💣 [I do what I want](http://9gag.com/gag/aKGN7z1)
+ - ⏩ [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
  - 👉 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)<!-- MEMES:END -->
 
 ---
