@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
- - ⏩ [No time to f**k around](http://9gag.com/gag/a7o6wBe)
- - 👉 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)<!-- MEMES:END -->
+ - 💣 [Judges should also be held accountable](http://9gag.com/gag/a4PrEKv)
+ - ⏩ [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
+ - 👉 [Why am i like this](http://9gag.com/gag/aO8N7NN)<!-- MEMES:END -->
 
 ---
 
