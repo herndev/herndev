@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile expands its Starlink satellite service to support apps such as WhatsApp, Google Maps, and X, after launching it in July with basic features like SMS &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/251001/p40#a251001p40)
- - [YouTube is trying out a new look on mobile, and users respond exactly how you’d expect](https://www.androidauthority.com/youtube-mobile-app-ui-changes-3603148/)
- - [Gemini’s refusal to make anything but 1:1 square images is driving us crazy](https://www.androidauthority.com/google-gemini-square-images-3603128/)<!-- TECH:END -->
+ - [Either Galaxy Watch users are suddenly sleeping better, or Samsung changed how sleep scores work](https://www.androidauthority.com/galaxy-watch-sleep-scores-3603200/)
+ - [Sources: Apple has shelved a cheaper, lighter Vision Pro variant planned for 2027 to focus on smart glasses, one to pair with iPhone and another with a display &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251001/p42#a251001p42)
+ - [Instagram tests opening right onto Reels](https://www.theverge.com/news/790255/instagram-test-reels-home-tab)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
