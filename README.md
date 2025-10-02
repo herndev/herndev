@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
- - ⏩ [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
- - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
+ - 💣 [Hedgehog](https://www.reddit.com/r/funny/comments/1nvwdp7/hedgehog/)
+ - ⏩ [Mom first check - it&#39;s ok - Then teaches lesson 😄😄😄](https://www.reddit.com/r/funny/comments/1nvwccn/mom_first_check_its_ok_then_teaches_lesson/)
+ - 👉 [It do be like that](https://www.reddit.com/r/memes/comments/1nvvw7v/it_do_be_like_that/)<!-- MEMES:END -->
 
 ---
 
