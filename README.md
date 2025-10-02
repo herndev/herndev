@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Silver Lake co-CEO Egon Durban, who brokered the EA takeover with Jared Kushner, following the PE firm&#39;s high-stakes deals from TikTok to Altera &lpar;Financial Times&rpar;](http://www.techmeme.com/251002/p10#a251002p10)
- - [Silver Lake, whose $24B deal to take Dell private in 2013 became its calling card, sees a similar setup in EA: a recognizable brand with predictable cash flows &lpar;Bloomberg&rpar;](http://www.techmeme.com/251002/p9#a251002p9)
- - [Samsung could bring one of Apple’s most polarizing notification features to One UI 8.5](https://www.androidauthority.com/samsung-one-ui-8-5-ai-notification-summaries-3603288/)<!-- TECH:END -->
+ - [Spotify Car Thing 2.0: Verizon is killing its in-car Google Assistant/hotspot gadget](https://www.androidauthority.com/verizon-hum-shutting-down-3603305/)
+ - [Jimmyjane Hello Touch Pro Review: A Vibrator Designed Like Earbuds](https://www.wired.com/review/jimmyjane-hello-touch-pro/)
+ - [A profile of Silver Lake co-CEO Egon Durban, who brokered the EA takeover with Jared Kushner, following the PE firm&#39;s high-stakes deals from TikTok to Altera &lpar;Financial Times&rpar;](http://www.techmeme.com/251002/p10#a251002p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
