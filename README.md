@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite insists it wasn&#39;t stitched up by Warner Bros. and the Peacemaker emote, but is modifying it anyway &#39;to avoid any confusion&#39;](https://www.pcgamer.com/games/battle-royale/fortnite-insists-it-wasnt-stitched-up-by-warner-bros-and-the-peacemaker-emote-but-is-modifying-it-anyway-to-avoid-any-confusion/)
- - [Silksong player Dr. Doot beats game with an electric sax controller](https://www.polygon.com/hollow-knight-silksong-dr-doot-saxophone-playthrough/)
- - [Monster Hunter Stories: How This Spin-off Series Translates the Franchise’s Strengths](https://news.xbox.com/en-us/2025/10/02/monster-hunter-stories-3-twisted-reflection/)<!-- GAME:END -->
+ - [Ghost Of Yotei Has A Quest Tsushima Fans Won’t Want To Miss](https://kotaku.com/ghost-of-yotei-tsushima-jin-sakai-armor-sword-quest-2000631040)
+ - [Amazon breaks glass marked &#39;AI-powered Snoop Dogg game where he&#39;s a judge&#39; to get you to pay attention to its wilting Luna streaming service](https://www.pcgamer.com/games/amazon-breaks-glass-marked-ai-powered-snoop-dogg-game-where-hes-a-judge-to-get-you-to-pay-attention-to-its-wilting-luna-streaming-service/)
+ - [LEGO City Advent Calendar Is Hard to Spot on Amazon, but It’s Selling for Just Pennies Until Midnight](https://kotaku.com/lego-city-advent-calendar-is-hard-to-spot-on-amazon-but-its-selling-for-just-pennies-until-midnight-2000631022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
