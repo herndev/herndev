@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything is terrorism in Trump&amp;#8217;s America](https://www.theverge.com/policy/790510/trump-fascism-antifa-soros-ice)
- - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/02/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)
- - [Amazon halts drone deliveries in Arizona after a pair crashed into a crane](https://www.theverge.com/news/790636/amazon-prime-mk30-drone-delivery-crash-arizona-pause)<!-- TECH:END -->
+ - [Welcome to the Xbox $360 era](https://www.theverge.com/tech/790658/microsoft-xbox-game-pass-console-price-hikes-notepad)
+ - [Amazon&amp;#8217;s Vega OS launch trick: cloud-streamed apps](https://www.theverge.com/column/790144/amazons-vega-os-streaming-cloud)
+ - [International Galaxy S23 users finally receiving their One UI 8 update](https://www.androidauthority.com/samsung-galaxy-s23-one-ui-8-global-3603464/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
