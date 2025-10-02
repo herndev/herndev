@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Failed overtake of long load](http://9gag.com/gag/amobA44)
- - ⏩ [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 👉 [When you know you messed up](http://9gag.com/gag/aRBNrgq)<!-- MEMES:END -->
+ - 💣 [Just found out it\u2019s officially Sir Gary Oldman from now on. Guess who likes that](http://9gag.com/gag/aE0N8jG)
+ - ⏩ [Fascinating Behaviour forevermore.](http://9gag.com/gag/aZZVDBn)
+ - 👉 [Why is it difficult to understand that noone likes to have men in women&#39;s bathroom..](http://9gag.com/gag/aYQnVRN)<!-- MEMES:END -->
 
 ---
 
