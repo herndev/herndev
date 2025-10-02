@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I even showed them the picture..](http://9gag.com/gag/aO8N3Ov)
- - ⏩ [He tried to take an aesthetic video on his honeymoon, not realizing his wife&#39;s legs looked like he was rafting with a corpse.](https://www.reddit.com/r/funny/comments/1nw4jnx/he_tried_to_take_an_aesthetic_video_on_his/)
- - 👉 [Just found out it\u2019s officially Sir Gary Oldman from now on. Guess who likes that](http://9gag.com/gag/aE0N8jG)<!-- MEMES:END -->
+ - 💣 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
+ - ⏩ [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 👉 [Failed overtake of long load](http://9gag.com/gag/amobA44)<!-- MEMES:END -->
 
 ---
 
