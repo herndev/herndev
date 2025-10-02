@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I go to gym 3 times a week](https://www.reddit.com/r/funny/comments/1nwhdu1/i_go_to_gym_3_times_a_week/)
+ - 💣 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
  - ⏩ [Why are you geh](http://9gag.com/gag/avyXAzX)
- - 👉 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)<!-- MEMES:END -->
+ - 👉 [Every damn time](http://9gag.com/gag/aGyNE47)<!-- MEMES:END -->
 
 ---
 
