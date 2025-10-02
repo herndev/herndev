@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China curbs the use of European suppliers Nokia and Ericsson in its telecoms networks, requiring lengthy national security reviews for their contracts &lpar;Financial Times&rpar;](http://www.techmeme.com/251001/p46#a251001p46)
- - [Deals: Get a great Narwal robot vacuum and mop for as low as $260!](https://www.androidauthority.com/narwal-freo-s-pro-robot-deals-3603153/)
- - [Sources: Yahoo nears a deal to sell AOL to Italian app developer Bending Spoons for ~$1.4B; AOL.com&#39;s traffic has recently grown 20% YoY among users aged 25-54 &lpar;Reuters&rpar;](http://www.techmeme.com/251001/p45#a251001p45)<!-- TECH:END -->
+ - [Salesforce launches Agentforce Vibes, an enterprise vibe-coding tool and IDE featuring Vibe Codey, built on a fork from Cline&#39;s open source AI coding agent &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/251001/p47#a251001p47)
+ - [All Amazon Fire tablets drop to record-low prices!](https://www.androidauthority.com/amazon-fire-hd-8-hd-10-max-11-deals-3603152/)
+ - [Nacon’s Revolution X Unlimited Xbox Controller Equips You With Pro-Level Tuning](https://www.cnet.com/tech/gaming/this-xbox-controller-gives-you-pro-level-performance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
