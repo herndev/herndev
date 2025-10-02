@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why are you geh](http://9gag.com/gag/avyXAzX)
- - ⏩ [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
+ - 💣 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
+ - ⏩ [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
+ - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
 
 ---
 
