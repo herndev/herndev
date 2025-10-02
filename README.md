@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Calendar finally lets you manage calendar sharing right from the app](https://www.androidauthority.com/google-calendar-app-sharing-options-3603521/)
- - [Meta unveils communities on Threads, starting with 100+ dedicated spaces for casual conversations around topics like basketball, television, and K-pop music &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251002/p25#a251002p25)
- - [Paying for Google Home Premium is an absolute non-starter for me](https://www.androidauthority.com/google-home-premium-subscription-3603479/)<!-- TECH:END -->
+ - [Here are 65 great deals you can snag ahead of Amazon&amp;#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)
+ - [Appfigures: Sora saw 56K iOS installs on its first day, on par with Grok but ahead of Claude and Copilot; ChatGPT and Gemini each had ~80K installs on day one &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251002/p28#a251002p28)
+ - [No, that wasn’t actually T-Mobile sending you a letter about watching porn](https://www.androidauthority.com/t-mobile-hoax-3603551/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
