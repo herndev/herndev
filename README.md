@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never let them know your next move](https://www.reddit.com/r/funny/comments/1nvzk2j/never_let_them_know_your_next_move/)
- - ⏩ [When you know you messed up](http://9gag.com/gag/aRBNrgq)
- - 👉 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)<!-- MEMES:END -->
+ - 💣 [Failed overtake of long load](http://9gag.com/gag/amobA44)
+ - ⏩ [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
+ - 👉 [When you know you messed up](http://9gag.com/gag/aRBNrgq)<!-- MEMES:END -->
 
 ---
 
