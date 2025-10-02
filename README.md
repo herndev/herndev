@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gotta work for that treats](http://9gag.com/gag/ae9P99B)
- - ⏩ [The absolute state of america right now](http://9gag.com/gag/aQzNEWw)
- - 👉 [I am an artist!](http://9gag.com/gag/a1mqmww)<!-- MEMES:END -->
+ - 💣 [I go to gym 3 times a week](https://www.reddit.com/r/funny/comments/1nwhdu1/i_go_to_gym_3_times_a_week/)
+ - ⏩ [Why are you geh](http://9gag.com/gag/avyXAzX)
+ - 👉 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)<!-- MEMES:END -->
 
 ---
 
