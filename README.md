@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The good, the bad, and the future of AI agents](https://www.theverge.com/podcast/789772/ai-agents-anthropic-claude-sonnet-autonomous-coding)
- - [Latest leak reveals how the Galaxy S26 UItra’s automatic privacy display would work](https://www.androidauthority.com/galaxy-s26-ultra-privacy-display-leak-3603402/)
- - [Walmart plans to attach sensors to the 90M grocery pallets it ships each year to its 4,600-store US chain by the end of 2026; tracked items include perishables &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/251002/p21#a251002p21)<!-- TECH:END -->
+ - [Everything is terrorism in Trump&amp;#8217;s America](https://www.theverge.com/policy/790510/trump-fascism-antifa-soros-ice)
+ - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/02/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)
+ - [Amazon halts drone deliveries in Arizona after a pair crashed into a crane](https://www.theverge.com/news/790636/amazon-prime-mk30-drone-delivery-crash-arizona-pause)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
