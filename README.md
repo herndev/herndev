@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost of Yōtei beginner&#39;s tips to know before you start](https://www.polygon.com/ghost-of-yotei-beginners-tips/)
- - [How to complete the Running Like Clockwork quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-running-like-clockwork-quest/)
- - [Fortnite&#39;s collaboration with K-Pop Demon Hunters is the most excited I&#39;ve been since Epic gave Hatsune Miku an AK-47](https://www.pcgamer.com/games/battle-royale/fortnites-collaboration-with-k-pop-demon-hunters-is-the-most-excited-ive-been-since-epic-gave-hatsune-miku-an-ak-47/)<!-- GAME:END -->
+ - [Fortnite insists it wasn&#39;t stitched up by Warner Bros. and the Peacemaker emote, but is modifying it anyway &#39;to avoid any confusion&#39;](https://www.pcgamer.com/games/battle-royale/fortnite-insists-it-wasnt-stitched-up-by-warner-bros-and-the-peacemaker-emote-but-is-modifying-it-anyway-to-avoid-any-confusion/)
+ - [Silksong player Dr. Doot beats game with an electric sax controller](https://www.polygon.com/hollow-knight-silksong-dr-doot-saxophone-playthrough/)
+ - [Monster Hunter Stories: How This Spin-off Series Translates the Franchise’s Strengths](https://news.xbox.com/en-us/2025/10/02/monster-hunter-stories-3-twisted-reflection/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
