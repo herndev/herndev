@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can you still get US Cellular? Yes, and here are the best deals of October](https://www.androidauthority.com/us-cellular-oct-deals-3603080/)
- - [Super Mario Galaxy deserves more](https://www.theverge.com/games/790186/super-mario-galaxy-nintendo-switch-2)
- - [Hulu isn&amp;#8217;t going away after all — it&amp;#8217;s going global](https://www.theverge.com/news/790403/disney-plus-hulu-integration-global-expansion-update)<!-- TECH:END -->
+ - [The good, the bad, and the future of AI agents](https://www.theverge.com/podcast/789772/ai-agents-anthropic-claude-sonnet-autonomous-coding)
+ - [Latest leak reveals how the Galaxy S26 UItra’s automatic privacy display would work](https://www.androidauthority.com/galaxy-s26-ultra-privacy-display-leak-3603402/)
+ - [Walmart plans to attach sensors to the 90M grocery pallets it ships each year to its 4,600-store US chain by the end of 2026; tracked items include perishables &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/251002/p21#a251002p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
