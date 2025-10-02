@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why are you geh](http://9gag.com/gag/avyXAzX)
- - ⏩ [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
- - 👉 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)<!-- MEMES:END -->
+ - 💣 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
+ - ⏩ [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 👉 [To the comment section lads](http://9gag.com/gag/ayNVMrM)<!-- MEMES:END -->
 
 ---
 
