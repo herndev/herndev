@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based &quot;neocloud&quot; startup Nscale closed a $433M pre-Series C SAFE round from Nvidia, Nokia, Dell, and others, after raising a $1.1B Series B on Sept. 25 &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/251002/p3#a251002p3)
- - [Data center real estate investment trust Fermi, co-founded by former US Energy Secretary Rick Perry, closed up 55% in its Nasdaq debut, valuing Fermi at ~$19.3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251002/p2#a251002p2)
- - [China&#39;s recently launched K visa program hopes to attract foreign STEM graduates, but faces online backlash over fears of companies favoring overseas applicants &lpar;Anniek Bao/CNBC&rpar;](http://www.techmeme.com/251002/p1#a251002p1)<!-- TECH:END -->
+ - [Source: OpenAI completed a secondary sale letting staff sell ~$6.6B in shares at a $500B valuation, making it the world&#39;s most valuable startup ahead of SpaceX &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251002/p6#a251002p6)
+ - [A Google exec and sources say a ransomware group presumably tied to Cl0p is sending extortion emails, claiming it stole data from Oracle&#39;s E-Business Suite &lpar;Bloomberg&rpar;](http://www.techmeme.com/251002/p5#a251002p5)
+ - [Sources: Universal Music and Warner Music are nearing landmark AI licensing deals with companies including Google, ElevenLabs, Stability AI, Suno, and Udio &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/251002/p4#a251002p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
