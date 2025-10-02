@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost Of Yotei Has A Quest Tsushima Fans Won’t Want To Miss](https://kotaku.com/ghost-of-yotei-tsushima-jin-sakai-armor-sword-quest-2000631040)
- - [Amazon breaks glass marked &#39;AI-powered Snoop Dogg game where he&#39;s a judge&#39; to get you to pay attention to its wilting Luna streaming service](https://www.pcgamer.com/games/amazon-breaks-glass-marked-ai-powered-snoop-dogg-game-where-hes-a-judge-to-get-you-to-pay-attention-to-its-wilting-luna-streaming-service/)
- - [LEGO City Advent Calendar Is Hard to Spot on Amazon, but It’s Selling for Just Pennies Until Midnight](https://kotaku.com/lego-city-advent-calendar-is-hard-to-spot-on-amazon-but-its-selling-for-just-pennies-until-midnight-2000631022)<!-- GAME:END -->
+ - [Best-selling novel about video games development gets Folio Society edition](https://www.polygon.com/tomorrow-tomorrow-tomorrow-gabrielle-zevin-folio-illustrated-edition/)
+ - [Free Play Days – Call of Duty: Black Ops 7 Open Beta, Polterguys: Possession Party, Sudden Strike 4, Dustborn and Ready or Not](https://news.xbox.com/en-us/2025/10/02/free-play-days-october-2-2025-call-of-duty/)
+ - [Adult Swim aired one of the scariest videos of all time one random night](https://www.polygon.com/this-house-has-people-in-it-adult-swim-scary-infomercial-video/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
