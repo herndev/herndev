@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile&amp;#8217;s satellite service now supports Google Maps, WhatsApp, X, and more](https://www.theverge.com/news/790412/t-mobile-satellite-service-apps-x-whatsapp-google-maps)
- - [The Best USB-C Cables &lpar;2025&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
- - [There’s Never Been a Worse Time to Be Authentic at Work](https://www.wired.com/story/theres-never-been-a-worse-time-to-be-authentic-at-work/)<!-- TECH:END -->
+ - [Can you still get US Cellular? Yes, and here are the best deals of October](https://www.androidauthority.com/us-cellular-oct-deals-3603080/)
+ - [Super Mario Galaxy deserves more](https://www.theverge.com/games/790186/super-mario-galaxy-nintendo-switch-2)
+ - [Hulu isn&amp;#8217;t going away after all — it&amp;#8217;s going global](https://www.theverge.com/news/790403/disney-plus-hulu-integration-global-expansion-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
