@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify Car Thing 2.0: Verizon is killing its in-car Google Assistant/hotspot gadget](https://www.androidauthority.com/verizon-hum-shutting-down-3603305/)
- - [Jimmyjane Hello Touch Pro Review: A Vibrator Designed Like Earbuds](https://www.wired.com/review/jimmyjane-hello-touch-pro/)
- - [A profile of Silver Lake co-CEO Egon Durban, who brokered the EA takeover with Jared Kushner, following the PE firm&#39;s high-stakes deals from TikTok to Altera &lpar;Financial Times&rpar;](http://www.techmeme.com/251002/p10#a251002p10)<!-- TECH:END -->
+ - [HP&amp;#8217;s new 49-inch curved ultrawide monitor has a pop-up webcam](https://www.theverge.com/news/789795/hps-new-49-inch-curved-ultrawide-monitor-has-a-pop-up-webcam)
+ - [Music’s biggest labels are weeks away from major AI licensing deals](https://www.theverge.com/news/790405/warner-universal-music-ai-deals)
+ - [Source: HR software company Gusto paid ~$600M to acquire Guideline, which offers 401&lpar;k&rpar; plans to SMBs; Guideline raised $340M and had a $1.15B valuation in 2021 &lpar;TechCrunch&rpar;](http://www.techmeme.com/251002/p14#a251002p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
