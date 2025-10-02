@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best-selling novel about video games development gets Folio Society edition](https://www.polygon.com/tomorrow-tomorrow-tomorrow-gabrielle-zevin-folio-illustrated-edition/)
- - [Free Play Days – Call of Duty: Black Ops 7 Open Beta, Polterguys: Possession Party, Sudden Strike 4, Dustborn and Ready or Not](https://news.xbox.com/en-us/2025/10/02/free-play-days-october-2-2025-call-of-duty/)
- - [Adult Swim aired one of the scariest videos of all time one random night](https://www.polygon.com/this-house-has-people-in-it-adult-swim-scary-infomercial-video/)<!-- GAME:END -->
+ - [EA tackles Sims 4 save corruption: &quot;We&#39;ve committed to transparency&quot;](https://www.polygon.com/sims-4-save-corruption-fixes-ea-update/)
+ - [Critical Role Campaign 4: Where to watch](https://www.polygon.com/critical-role-campaign-4-how-to-watch-where/)
+ - [The PC game releases we&#39;re most excited about in October](https://www.pcgamer.com/games/pc-game-releases-october-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
