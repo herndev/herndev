@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Simple, an AI-powered health coaching app to help users lose weight, raised a $35M Series B led by Kevin Hart&#39;s HartBeat Ventures &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251001/p50#a251001p50)
  - [Elon Musk became the first person with a net worth of $500B after Tesla shares climbed on October 1; Musk is $150B ahead of runner-up Larry Ellison &lpar;Matt Durot/Forbes&rpar;](http://www.techmeme.com/251001/p49#a251001p49)
- - [OpenAI&#39;s Sora 2 openly features copyright infringing content, including numerous AI-generated clips of SpongeBob, Pikachu, and Mario &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/251001/p48#a251001p48)
- - [Salesforce launches Agentforce Vibes, an enterprise vibe-coding tool and IDE featuring Vibe Codey, built on a fork from Cline&#39;s open source AI coding agent &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/251001/p47#a251001p47)<!-- TECH:END -->
+ - [OpenAI&#39;s Sora 2 openly features copyright infringing content, including numerous AI-generated clips of SpongeBob, Pikachu, and Mario &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/251001/p48#a251001p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
