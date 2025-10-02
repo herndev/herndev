@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Welcome to the Xbox $360 era](https://www.theverge.com/tech/790658/microsoft-xbox-game-pass-console-price-hikes-notepad)
- - [Amazon&amp;#8217;s Vega OS launch trick: cloud-streamed apps](https://www.theverge.com/column/790144/amazons-vega-os-streaming-cloud)
- - [International Galaxy S23 users finally receiving their One UI 8 update](https://www.androidauthority.com/samsung-galaxy-s23-one-ui-8-global-3603464/)<!-- TECH:END -->
+ - [Threads adds communities to help you find your people](https://www.theverge.com/news/790436/threads-communities-topics-launch)
+ - [This excellent free cellular plan just got even better with latest change](https://www.androidauthority.com/helium-free-change-3603481/)
+ - [The smart glasses race is really on now](https://www.theverge.com/news/790697/smart-glasses-race-apple-meta-ray-ban-display)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
