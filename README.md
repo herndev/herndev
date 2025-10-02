@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - ⏩ [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
- - 👉 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)<!-- MEMES:END -->
+ - 💣 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
+ - ⏩ [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 👉 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)<!-- MEMES:END -->
 
 ---
 
