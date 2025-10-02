@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
- - ⏩ [How to peel coconut efficiently](http://9gag.com/gag/ae9PgPm)
+ - ⏩ [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
  - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
 
 ---
