@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
- - ⏩ [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
+ - 💣 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
+ - ⏩ [How to peel coconut efficiently](http://9gag.com/gag/ae9PgPm)
  - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
 
 ---
