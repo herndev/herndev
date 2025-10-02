@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Well...well....well` ~ Brian Griffin](http://9gag.com/gag/a34pERN)
- - ⏩ [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
+ - 💣 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
+ - ⏩ [When you know you messed up](http://9gag.com/gag/aRBNrgq)
  - 👉 [In the hospital ward to prevent dementia patients leaving the ward. The numerical code is within the message.](http://9gag.com/gag/aD2NYXw)<!-- MEMES:END -->
 
 ---
