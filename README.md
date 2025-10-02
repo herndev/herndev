@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads adds communities to help you find your people](https://www.theverge.com/news/790436/threads-communities-topics-launch)
- - [This excellent free cellular plan just got even better with latest change](https://www.androidauthority.com/helium-free-change-3603481/)
- - [The smart glasses race is really on now](https://www.theverge.com/news/790697/smart-glasses-race-apple-meta-ray-ban-display)<!-- TECH:END -->
+ - [Google Calendar finally lets you manage calendar sharing right from the app](https://www.androidauthority.com/google-calendar-app-sharing-options-3603521/)
+ - [Meta unveils communities on Threads, starting with 100+ dedicated spaces for casual conversations around topics like basketball, television, and K-pop music &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251002/p25#a251002p25)
+ - [Paying for Google Home Premium is an absolute non-starter for me](https://www.androidauthority.com/google-home-premium-subscription-3603479/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
