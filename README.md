@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hedgehog](https://www.reddit.com/r/funny/comments/1nvwdp7/hedgehog/)
- - ⏩ [Mom first check - it&#39;s ok - Then teaches lesson 😄😄😄](https://www.reddit.com/r/funny/comments/1nvwccn/mom_first_check_its_ok_then_teaches_lesson/)
- - 👉 [It do be like that](https://www.reddit.com/r/memes/comments/1nvvw7v/it_do_be_like_that/)<!-- MEMES:END -->
+ - 💣 [`Well...well....well` ~ Brian Griffin](http://9gag.com/gag/a34pERN)
+ - ⏩ [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
+ - 👉 [In the hospital ward to prevent dementia patients leaving the ward. The numerical code is within the message.](http://9gag.com/gag/aD2NYXw)<!-- MEMES:END -->
 
 ---
 
