@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce launches Agentforce Vibes, an enterprise vibe-coding tool and IDE featuring Vibe Codey, built on a fork from Cline&#39;s open source AI coding agent &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/251001/p47#a251001p47)
- - [All Amazon Fire tablets drop to record-low prices!](https://www.androidauthority.com/amazon-fire-hd-8-hd-10-max-11-deals-3603152/)
- - [Nacon’s Revolution X Unlimited Xbox Controller Equips You With Pro-Level Tuning](https://www.cnet.com/tech/gaming/this-xbox-controller-gives-you-pro-level-performance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk became the first person with a net worth of $500B after Tesla shares climbed on October 1; Musk is $150B ahead of runner-up Larry Ellison &lpar;Matt Durot/Forbes&rpar;](http://www.techmeme.com/251001/p49#a251001p49)
+ - [OpenAI&#39;s Sora 2 openly features copyright infringing content, including numerous AI-generated clips of SpongeBob, Pikachu, and Mario &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/251001/p48#a251001p48)
+ - [Salesforce launches Agentforce Vibes, an enterprise vibe-coding tool and IDE featuring Vibe Codey, built on a fork from Cline&#39;s open source AI coding agent &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/251001/p47#a251001p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
