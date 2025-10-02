@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Those chairs seen some shit…](https://www.reddit.com/r/funny/comments/1nvrrvz/those_chairs_seen_some_shit/)
- - ⏩ [Why are you geh](http://9gag.com/gag/avyXAzX)
- - 👉 [The moment of realization on her face is priceless](http://9gag.com/gag/a87XGzO)<!-- MEMES:END -->
+ - 💣 [Why are you geh](http://9gag.com/gag/avyXAzX)
+ - ⏩ [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
 
 ---
 
