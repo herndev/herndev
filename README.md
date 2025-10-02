@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Failed overtake of long load](http://9gag.com/gag/amobA44)
- - ⏩ [Why are you geh](http://9gag.com/gag/avyXAzX)
+ - 💣 [Why are you geh](http://9gag.com/gag/avyXAzX)
+ - ⏩ [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
  - 👉 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)<!-- MEMES:END -->
 
 ---
