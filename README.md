@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA tackles Sims 4 save corruption: &quot;We&#39;ve committed to transparency&quot;](https://www.polygon.com/sims-4-save-corruption-fixes-ea-update/)
- - [Critical Role Campaign 4: Where to watch](https://www.polygon.com/critical-role-campaign-4-how-to-watch-where/)
- - [The PC game releases we&#39;re most excited about in October](https://www.pcgamer.com/games/pc-game-releases-october-2025/)<!-- GAME:END -->
+ - [How to Start Playing the Call of Duty: Black Ops 7 Multiplayer and Zombies Beta](https://news.xbox.com/en-us/2025/10/02/how-to-start-playing-call-of-duty-black-ops-7-open-beta/)
+ - [Ghost of Yōtei interactive map](https://www.polygon.com/maps/ghost-of-yotei-interactive-map/)
+ - [KPop Demon Hunters lets its female characters be silly](https://www.polygon.com/kpop-demon-hunters-huntrix-silly-humor-maggie-kang/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
