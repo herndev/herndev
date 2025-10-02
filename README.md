@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The first hotfix for Hades 2 nerfs one jerk miniboss in particular](https://www.pcgamer.com/games/action/the-first-hotfix-for-hades-2-nerfs-one-jerk-miniboss-in-particular/)
- - [Today&#39;s Wordle clues, hints and answer for October 2 &lpar;#1566&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-2-2025/)
- - [Monster Hunter Wilds may be on hard times, but the Pokémon-inspired Monster Hunter Stories 3 seems like it&#39;s checking every box RPG players want](https://www.pcgamer.com/games/rpg/monster-hunter-wilds-may-be-on-hard-times-but-the-pokemon-inspired-monster-hunter-stories-3-seems-like-its-checking-every-box-rpg-players-want/)<!-- GAME:END -->
+ - [Ghost of Yōtei beginner&#39;s tips to know before you start](https://www.polygon.com/ghost-of-yotei-beginners-tips/)
+ - [How to complete the Running Like Clockwork quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-running-like-clockwork-quest/)
+ - [Fortnite&#39;s collaboration with K-Pop Demon Hunters is the most excited I&#39;ve been since Epic gave Hatsune Miku an AK-47](https://www.pcgamer.com/games/battle-royale/fortnites-collaboration-with-k-pop-demon-hunters-is-the-most-excited-ive-been-since-epic-gave-hatsune-miku-an-ak-47/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
