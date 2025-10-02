@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP&amp;#8217;s new 49-inch curved ultrawide monitor has a pop-up webcam](https://www.theverge.com/news/789795/hps-new-49-inch-curved-ultrawide-monitor-has-a-pop-up-webcam)
- - [Music’s biggest labels are weeks away from major AI licensing deals](https://www.theverge.com/news/790405/warner-universal-music-ai-deals)
- - [Source: HR software company Gusto paid ~$600M to acquire Guideline, which offers 401&lpar;k&rpar; plans to SMBs; Guideline raised $340M and had a $1.15B valuation in 2021 &lpar;TechCrunch&rpar;](http://www.techmeme.com/251002/p14#a251002p14)<!-- TECH:END -->
+ - [Asahi says most of its 30 factories in Japan have not operated since September 29 after a cyberattack, leaving Japan with just days of Asahi Super Dry stock &lpar;Financial Times&rpar;](http://www.techmeme.com/251002/p17#a251002p17)
+ - [The Best Linen Sheets for Cool and Comfy Sleeping &lpar;2025&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
+ - [Sources: German AI language platform DeepL held initial talks over a US IPO, and may seek an up to $5B valuation; DeepL raised $300M at a $2B valuation in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251002/p16#a251002p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
