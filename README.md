@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kill Bill Returns To Theaters Later This Year As One Big 4-Hour Movie](https://kotaku.com/kill-bill-whole-bloody-affair-return-theaters-december-4-hour-tarantino-2000631123)
- - [Holy cow, the Epic Games Store supports preloading now](https://www.pcgamer.com/games/holy-cow-the-epic-games-store-supports-preloading-now/)
- - [OpenAI’s Newest Tool Is Churning Out Slop Starring Pikachu, Goku And SpongeBob](https://kotaku.com/openai-sora-2-videos-pokemon-spongebob-dragon-ball-2000631137)<!-- GAME:END -->
+ - [These Are The 15 Best Abilities In Final Fantasy Tactics And It’s Not Even Close](https://kotaku.com/final-fantasy-tactics-best-abilities-guide-ivalice-chronicles-2000631130)
+ - [One of my most anticipated shooters, which looks like Demon&#39;s Souls in the Doom engine, finally has a release date right around the corner](https://www.pcgamer.com/games/fps/one-of-my-most-anticipated-shooters-which-looks-like-demons-souls-in-the-doom-engine-finally-has-a-release-date-right-around-the-corner/)
+ - [The Toasty Guy From Mortal Kombat Has Left The Studio After 30+ Years](https://kotaku.com/the-toasty-guy-from-mortal-kombat-has-left-the-studio-after-30-years-2000631151)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
