@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Seattle-based Phaidra, which develops AI agents to help make data centers more resource efficient, raised over $50M in a Series B led by Collaborative Fund &lpar;Alan Neuhauser/Axios&rpar;](http://www.techmeme.com/251001/p44#a251001p44)
  - [Brave says it has surpassed 100M monthly active users across desktop and mobile worldwide, with 42M+ DAUs, and Brave Search handles 1.6B+ queries each month &lpar;Paul Thurrott/Thurrott&rpar;](http://www.techmeme.com/251001/p43#a251001p43)
- - [Save $230 with this bundle: Amazon Echo Spot and Echo Frames](https://www.androidauthority.com/amazon-echo-spot-frames-deal-3603154/)
- - [Trump admin adds banner attacking ‘Radical Left Democrats’ to government websites](https://www.theverge.com/news/790280/trump-admin-government-shutdown-banner-democrats)<!-- TECH:END -->
+ - [Save $230 with this bundle: Amazon Echo Spot and Echo Frames](https://www.androidauthority.com/amazon-echo-spot-frames-deal-3603154/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
