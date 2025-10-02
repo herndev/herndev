@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
+ - 💣 [Never let them know your next move](https://www.reddit.com/r/funny/comments/1nvzk2j/never_let_them_know_your_next_move/)
  - ⏩ [When you know you messed up](http://9gag.com/gag/aRBNrgq)
- - 👉 [In the hospital ward to prevent dementia patients leaving the ward. The numerical code is within the message.](http://9gag.com/gag/aD2NYXw)<!-- MEMES:END -->
+ - 👉 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)<!-- MEMES:END -->
 
 ---
 
