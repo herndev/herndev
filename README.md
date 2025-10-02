@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Failed overtake of long load](http://9gag.com/gag/amobA44)
- - ⏩ [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
+ - ⏩ [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
  - 👉 [When you know you messed up](http://9gag.com/gag/aRBNrgq)<!-- MEMES:END -->
 
 ---
