@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
- - ⏩ [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
- - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
+ - 💣 [Those chairs seen some shit…](https://www.reddit.com/r/funny/comments/1nvrrvz/those_chairs_seen_some_shit/)
+ - ⏩ [Why are you geh](http://9gag.com/gag/avyXAzX)
+ - 👉 [The moment of realization on her face is priceless](http://9gag.com/gag/a87XGzO)<!-- MEMES:END -->
 
 ---
 
