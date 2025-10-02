@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
- - ⏩ [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 👉 [To the comment section lads](http://9gag.com/gag/ayNVMrM)<!-- MEMES:END -->
+ - 💣 [Gotta work for that treats](http://9gag.com/gag/ae9P99B)
+ - ⏩ [The absolute state of america right now](http://9gag.com/gag/aQzNEWw)
+ - 👉 [I am an artist!](http://9gag.com/gag/a1mqmww)<!-- MEMES:END -->
 
 ---
 
