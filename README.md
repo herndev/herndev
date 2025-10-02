@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Start Playing the Call of Duty: Black Ops 7 Multiplayer and Zombies Beta](https://news.xbox.com/en-us/2025/10/02/how-to-start-playing-call-of-duty-black-ops-7-open-beta/)
- - [Ghost of Yōtei interactive map](https://www.polygon.com/maps/ghost-of-yotei-interactive-map/)
- - [KPop Demon Hunters lets its female characters be silly](https://www.polygon.com/kpop-demon-hunters-huntrix-silly-humor-maggie-kang/)<!-- GAME:END -->
+ - [Kids From The 2000s Rejoice, Icy Tower Is Coming Back](https://kotaku.com/icy-tower-2026-new-game-free-steam-classic-platforming-game-2000631097)
+ - [Ex-Capcom Dev Has The Most Absurd Take On The Palworld v. Pokémon Battle](https://kotaku.com/palworld-pokemon-lawsuit-okamoto-monster-strike-capcom-2000631092)
+ - [With Xbox hiking prices and a newly private, $20 billion in the hole EA looking ready to gut Baldur&#39;s Gate series creator BioWare, Larian boss Swen Vincke points out that &#39;making games faster and cheaper while charging more has never worked before&#39;](https://www.pcgamer.com/gaming-industry/with-xbox-hiking-prices-and-a-newly-private-usd20-billion-in-the-hole-ea-looking-ready-to-gut-baldurs-gate-series-creator-bioware-larian-boss-swen-vincke-points-out-that-making-games-faster-and-cheaper-while-charging-more-has-never-worked-before/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
