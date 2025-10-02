@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The guy who says &#39;Toasty!&#39; in Mortal Kombat has left NetherRealm after more than 30 years with the team](https://www.pcgamer.com/games/fighting/the-guy-who-says-toasty-in-mortal-kombat-has-left-netherrealm-after-more-than-30-years-with-the-team/)
- - [Borderlands 4‘s Worst Vault Hunter Should Suck Way Less Now](https://kotaku.com/borderlands-4-vault-hunter-balance-update-amon-buffs-patch-notes-ps5-pc-2000631113)
- - [Meta Vibes is an officially sanctioned feed of endless AI garbage, and The Daily Show nails it in one: &#39;You&#39;re a fat little pig for internet video slop, and we here at Meta want to watch you eat yourself to death&#39;](https://www.pcgamer.com/software/ai/meta-vibes-is-an-officially-sanctioned-feed-of-endless-ai-garbage-and-the-daily-show-nails-it-in-one-youre-a-fat-little-pig-for-internet-video-slop-and-we-here-at-meta-want-to-watch-you-eat-yourself-to-death/)<!-- GAME:END -->
+ - [Kill Bill Returns To Theaters Later This Year As One Big 4-Hour Movie](https://kotaku.com/kill-bill-whole-bloody-affair-return-theaters-december-4-hour-tarantino-2000631123)
+ - [Holy cow, the Epic Games Store supports preloading now](https://www.pcgamer.com/games/holy-cow-the-epic-games-store-supports-preloading-now/)
+ - [OpenAI’s Newest Tool Is Churning Out Slop Starring Pikachu, Goku And SpongeBob](https://kotaku.com/openai-sora-2-videos-pokemon-spongebob-dragon-ball-2000631137)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
