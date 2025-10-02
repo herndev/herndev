@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kids From The 2000s Rejoice, Icy Tower Is Coming Back](https://kotaku.com/icy-tower-2026-new-game-free-steam-classic-platforming-game-2000631097)
- - [Ex-Capcom Dev Has The Most Absurd Take On The Palworld v. Pokémon Battle](https://kotaku.com/palworld-pokemon-lawsuit-okamoto-monster-strike-capcom-2000631092)
- - [With Xbox hiking prices and a newly private, $20 billion in the hole EA looking ready to gut Baldur&#39;s Gate series creator BioWare, Larian boss Swen Vincke points out that &#39;making games faster and cheaper while charging more has never worked before&#39;](https://www.pcgamer.com/gaming-industry/with-xbox-hiking-prices-and-a-newly-private-usd20-billion-in-the-hole-ea-looking-ready-to-gut-baldurs-gate-series-creator-bioware-larian-boss-swen-vincke-points-out-that-making-games-faster-and-cheaper-while-charging-more-has-never-worked-before/)<!-- GAME:END -->
+ - [One of my favorite survival city builders is leaving early access this month, so here&#39;s your chance to buy it before the price goes up](https://www.pcgamer.com/games/city-builder/one-of-my-favorite-survival-city-builders-is-leaving-early-access-this-month-so-heres-your-chance-to-buy-it-before-the-price-goes-up/)
+ - [The Enshittification Of Game Pass Is Here](https://kotaku.com/xbox-game-pass-cancel-controversy-console-pc-2000631061)
+ - [Amnesia creator Frictional Games teases its next game, and it may be something new but it sure feels like SOMA](https://www.pcgamer.com/games/horror/amnesia-creator-frictional-games-teases-its-next-game-and-it-may-be-something-new-but-it-sure-feels-like-soma/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
