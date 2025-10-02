@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says Gemini 2.5 Flash Image, aka Nano Banana, is now generally available and supports more aspect ratios, priced at $0.039/image and $30/1M output tokens &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/251002/p35#a251002p35)
- - [Best MacBooks We&#39;ve Tested &lpar;September 2025&rpar;](https://www.cnet.com/tech/computing/best-macbook/#ftag=CAD590a51e)
- - [Shein is opening its first physical stores](https://www.theverge.com/news/791000/shein-france-physical-store-chinese-ecommerce-fast-fashion)<!-- TECH:END -->
+ - [Redbox’s next product may be piracy lawsuits](https://www.theverge.com/tech/791013/redbox-chicken-soup-piracy-lawsuits-ip-sale-grove-street)
+ - [Mercor launches the AI Productivity Index &lpar;APEX&rpar;, which evaluates AI models&#39; ability to perform &quot;economically valuable knowledge work&quot;; GPT-5 leads the index &lpar;Mercor&rpar;](http://www.techmeme.com/251002/p36#a251002p36)
+ - [Samsung Glitch? Galaxy Watch Users Report Perfect 99 Sleep Scores for Days Without Explanation](https://www.cnet.com/tech/samsung-glitch-galaxy-watch-users-report-perfect-99-sleep-scores-for-days-without-explanation/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
