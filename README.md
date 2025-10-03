@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario Galaxy lives up to nearly two decades of hype](https://www.polygon.com/super-mario-galaxy-wii-first-time-impressions-switch-2/)
- - [James Gunn nearly revived another dead character in Peacemaker season 2](https://www.polygon.com/james-gunn-clemson-murn-peacemaker-season-2/)
- - [Report: A Free Version Of Xbox Game Streaming Is Coming, But With Ads](https://kotaku.com/report-a-free-version-of-xbox-game-streaming-is-coming-but-with-ads-2000631520)<!-- GAME:END -->
+ - [Silent Hill f&#39;s first ending is the game&#39;s weakest of the 5](https://www.polygon.com/silent-hill-f-endings-story-replay-new-game-plus/)
+ - [As the videogame industry continues to be hammered by layoffs, Netflix is offering up to $840,000 per year for a new Director of Generative AI for Games](https://www.pcgamer.com/gaming-industry/as-the-videogame-industry-continues-to-be-hammered-by-layoffs-netflix-is-offering-up-to-usd840-000-per-year-for-a-new-director-of-generative-ai-for-games/)
+ - [Fextralife launches gaming mod hosting competitor for creators](https://www.polygon.com/fextralife-mods-launch-fxmods/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
