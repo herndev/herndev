@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
- - ⏩ [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 👉 [Come full circle](http://9gag.com/gag/aE0N8MM)<!-- MEMES:END -->
+ - 💣 [Why are you geh](http://9gag.com/gag/avyXAzX)
+ - ⏩ [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
+ - 👉 [Every damn time](http://9gag.com/gag/aGyNE47)<!-- MEMES:END -->
 
 ---
 
