@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [With a Friend like this, who needs enemies?](https://www.theverge.com/column/791010/optimizer-friend-ai-companion-wearables)
- - [OpenAI&#39;s invite-only Sora app, launched on Tuesday, becomes the top free app in the US App Store, surpassing Gemini and ChatGPT &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251003/p9#a251003p9)
- - [The real price of a free TV](https://www.theverge.com/podcast/791253/telly-free-tv-ads-amazon-echo-vergecast)<!-- TECH:END -->
+ - [Lapsus$ publishes a data leak site on the dark web threatening to release about ~1B records stolen from Salesforce-hosted customer databases &lpar;TechCrunch&rpar;](http://www.techmeme.com/251003/p12#a251003p12)
+ - [CISA, the key law that helps the federal government guard against cyber threats to US critical systems, expired when the government shut down &lpar;Politico&rpar;](http://www.techmeme.com/251003/p11#a251003p11)
+ - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
