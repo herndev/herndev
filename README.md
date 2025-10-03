@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peak comedy](http://9gag.com/gag/aAyNyGE)
- - ⏩ [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 👉 [Waiting for year 2069](http://9gag.com/gag/a4PrnwZ)<!-- MEMES:END -->
+ - 💣 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
+ - ⏩ [Asian manners](http://9gag.com/gag/adB4v89)
+ - 👉 [Cows reaction to a breeding bull arriving. He will mate with all of them](http://9gag.com/gag/aQzNzA7)<!-- MEMES:END -->
 
 ---
 
