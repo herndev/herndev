@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This simple change could make Gemini Scheduled Actions a joy to use &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-scheduled-actions-edit-3603672/)
- - [Galaxy S26 series selfie camera details leak, and here’s what to expect](https://www.androidauthority.com/samsung-galaxy-s26-selfie-camera-leak-3603655/)
- - [a16z releases a report, with Mercury data, on the top 50 AI companies startups pay for; OpenAI leads, followed by Anthropic, Replit, Freepik, and ElevenLabs &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251003/p1#a251003p1)<!-- TECH:END -->
+ - [One of the best cheap Galaxy phones is now getting stable One UI 8 globally](https://www.androidauthority.com/samsung-galaxy-a35-5g-stable-one-ui-8-update-3603686/)
+ - [An interview with CEO Amjad Masad on Replit&#39;s slow growth, leaving the professional developer market to focus on non-technical white-collar workers, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/251003/p2#a251003p2)
+ - [This simple change could make Gemini Scheduled Actions a joy to use &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-scheduled-actions-edit-3603672/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
