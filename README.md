@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 3 &lpar;#1567&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-3-2025/)
- - [&#39;The industry isn&#39;t dying, it&#39;s splitting into two different models&#39;: What experts are saying about the EA buyout](https://www.pcgamer.com/gaming-industry/the-industry-isnt-dying-its-splitting-into-two-different-models-what-experts-are-saying-about-the-ea-buyout/)
- - [The new My Hero Academia game will finally let you live out the fantasy of playing through the anime&#39;s big moments, but I&#39;m still waiting for the Persona-style school sim](https://www.pcgamer.com/games/action/the-new-my-hero-academia-game-will-finally-let-you-live-out-the-fantasy-of-playing-through-the-animes-big-moments-but-im-still-waiting-for-the-persona-style-school-sim/)<!-- GAME:END -->
+ - [Vampire Survivors-like Megabonk makes megabucks, selling a million copies in 2 weeks, and currently has more daily players than Borderlands 4 on Steam: &#39;I&#39;ll be eating spaghetti with EXTRA sauce tonight&#39;](https://www.pcgamer.com/games/roguelike/vampire-survivors-like-megabonk-makes-megabucks-selling-a-million-copies-in-2-weeks-and-currently-has-more-daily-players-than-borderlands-4-on-steam-ill-be-eating-spaghetti-with-extra-sauce-tonight/)
+ - [Amazon is giving away the game you need to play before Fallout returns](https://www.polygon.com/amazon-prime-gaming-fallout-new-vegas-givaway/)
+ - [Today&#39;s Wordle clues, hints and answer for October 3 &lpar;#1567&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-3-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
