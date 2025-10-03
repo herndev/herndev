@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - ⏩ [Bro is a king.](http://9gag.com/gag/azxD5jZ)
- - 👉 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)<!-- MEMES:END -->
+ - 💣 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
+ - ⏩ [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 👉 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)<!-- MEMES:END -->
 
 ---
 
