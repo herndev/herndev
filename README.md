@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
- - ⏩ [Bro is a king.](http://9gag.com/gag/azxD5jZ)
- - 👉 [What artist do you think is overrated? I&#39;ll go first:](http://9gag.com/gag/a9yNzAo)<!-- MEMES:END -->
+ - 💣 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
+ - ⏩ [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
+ - 👉 [Bro is a king.](http://9gag.com/gag/azxD5jZ)<!-- MEMES:END -->
 
 ---
 
