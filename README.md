@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon&#39;s giving away one great Fallout game and one bad one this October](https://www.pcgamer.com/games/fallout/amazons-giving-away-one-great-fallout-game-and-one-bad-one-this-october/)
- - [How to complete At Your Service in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-at-your-service-quest/)
- - [Vampire Survivors-like Megabonk makes megabucks, selling a million copies in 2 weeks, and currently has more daily players than Borderlands 4 on Steam: &#39;I&#39;ll be eating spaghetti with EXTRA sauce tonight&#39;](https://www.pcgamer.com/games/roguelike/vampire-survivors-like-megabonk-makes-megabucks-selling-a-million-copies-in-2-weeks-and-currently-has-more-daily-players-than-borderlands-4-on-steam-ill-be-eating-spaghetti-with-extra-sauce-tonight/)<!-- GAME:END -->
+ - [Worried about melty graphics cards? This seriously capable gizmo keeps power in check for more peace of mind](https://www.pcgamer.com/hardware/graphics-cards/worried-about-melty-graphics-cards-this-seriously-capable-gizmo-keeps-power-in-check-for-more-peace-of-mind/)
+ - [This Amazon Fire TV Soundbar Plus Has Never Been This Cheap Before, Almost Free for Prime Big Deal Days](https://kotaku.com/this-amazon-fire-tv-soundbar-plus-has-never-been-this-cheap-before-almost-free-for-prime-big-deal-days-2000631140)
+ - [Dial up is dead—at least as far as AOL is concerned, as the company is pulling the plug after 34 years](https://www.pcgamer.com/hardware/dial-up-is-dead-at-least-as-far-as-aol-is-concerned-as-the-company-is-pulling-the-plug-after-34-years/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
