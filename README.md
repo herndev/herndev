@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s some sirius black tattoo](http://9gag.com/gag/aYQnQbx)
- - ⏩ [Waiting for year 2069](http://9gag.com/gag/a4PrnwZ)
- - 👉 [So scary!](http://9gag.com/gag/amoboW4)<!-- MEMES:END -->
+ - 💣 [So scary!](http://9gag.com/gag/amoboW4)
+ - ⏩ [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
+ - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
 
 ---
 
