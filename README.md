@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
- - ⏩ [Come full circle](http://9gag.com/gag/aE0N8MM)
+ - 💣 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
+ - ⏩ [Bro is a king.](http://9gag.com/gag/azxD5jZ)
  - 👉 [What artist do you think is overrated? I&#39;ll go first:](http://9gag.com/gag/a9yNzAo)<!-- MEMES:END -->
 
 ---
