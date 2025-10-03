@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am an artist!](http://9gag.com/gag/a1mqmww)
- - ⏩ [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 👉 [Sauce: JayDaddy- you&#39;re in a horror movie](http://9gag.com/gag/aAyNy1p)<!-- MEMES:END -->
+ - 💣 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
+ - ⏩ [Asian manners](http://9gag.com/gag/adB4v89)
+ - 👉 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)<!-- MEMES:END -->
 
 ---
 
