@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
- - ⏩ [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 👉 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)<!-- MEMES:END -->
+ - 💣 [So scary!](http://9gag.com/gag/amoboW4)
+ - ⏩ [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
+ - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
 
 ---
 
