@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I swear I know this dude from somewhere](http://9gag.com/gag/aGyNy76)
- - ⏩ [Tokyo Apartment in Japan](http://9gag.com/gag/azxD25m)
- - 👉 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)<!-- MEMES:END -->
+ - 💣 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
+ - ⏩ [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
+ - 👉 [Failed overtake of long load](http://9gag.com/gag/amobA44)<!-- MEMES:END -->
 
 ---
 
