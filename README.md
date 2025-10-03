@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Midi, which offers virtual care for women and is developing an AI search engine for health info, raised a $50M Series C, bringing its total funding to ~$150M &lpar;Rebecca Torrence/Business Insider&rpar;](http://www.techmeme.com/251003/p15#a251003p15)
- - [Sony shrinks PS5 Slim storage in the US, too](https://www.theverge.com/news/791380/sony-ps5-slim-reduced-storage-2100-model-series)
- - [Hoto put a lo-fi torque display on its new cordless screwdriver](https://www.theverge.com/news/791260/hoto-pixeldrive-cordless-screwdriver-display)<!-- TECH:END -->
+ - [Google and Apple removed Red Dot, an app for reporting ICE sightings; Google says the app was being used to share the location of a &quot;vulnerable group&quot; &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/251003/p17#a251003p17)
+ - [Trump rolled YouTube into paying for his ballroom](https://www.theverge.com/policy/791355/trump-youtube-google-antitrust-ballroom)
+ - [Google Chat is a little more fun with new sticker options](https://www.androidauthority.com/google-chat-sticker-insert-button-3603800/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
