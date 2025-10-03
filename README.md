@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
- - ⏩ [Asian manners](http://9gag.com/gag/adB4v89)
- - 👉 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)<!-- MEMES:END -->
+ - 💣 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
+ - ⏩ [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
+ - 👉 [Never bring a machete to a bodyslam fight](http://9gag.com/gag/aVv1gb2)<!-- MEMES:END -->
 
 ---
 
