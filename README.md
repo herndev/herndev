@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [So scary!](http://9gag.com/gag/amoboW4)
- - ⏩ [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
+ - ⏩ [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
  - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
 
 ---
