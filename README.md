@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
- - ⏩ [Asian manners](http://9gag.com/gag/adB4v89)
- - 👉 [Cows reaction to a breeding bull arriving. He will mate with all of them](http://9gag.com/gag/aQzNzA7)<!-- MEMES:END -->
+ - 💣 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
+ - ⏩ [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
+ - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
 
 ---
 
