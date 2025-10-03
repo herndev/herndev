@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
  - ⏩ [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
- - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
+ - 👉 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)<!-- MEMES:END -->
 
 ---
 
