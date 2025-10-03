@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
+ - 💣 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
  - ⏩ [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 👉 [Bro is a king.](http://9gag.com/gag/azxD5jZ)<!-- MEMES:END -->
+ - 👉 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)<!-- MEMES:END -->
 
 ---
 
