@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lapsus$ publishes a data leak site on the dark web threatening to release about ~1B records stolen from Salesforce-hosted customer databases &lpar;TechCrunch&rpar;](http://www.techmeme.com/251003/p12#a251003p12)
- - [CISA, the key law that helps the federal government guard against cyber threats to US critical systems, expired when the government shut down &lpar;Politico&rpar;](http://www.techmeme.com/251003/p11#a251003p11)
- - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Midi, which offers virtual care for women and is developing an AI search engine for health info, raised a $50M Series C, bringing its total funding to ~$150M &lpar;Rebecca Torrence/Business Insider&rpar;](http://www.techmeme.com/251003/p15#a251003p15)
+ - [Sony shrinks PS5 Slim storage in the US, too](https://www.theverge.com/news/791380/sony-ps5-slim-reduced-storage-2100-model-series)
+ - [Hoto put a lo-fi torque display on its new cordless screwdriver](https://www.theverge.com/news/791260/hoto-pixeldrive-cordless-screwdriver-display)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
