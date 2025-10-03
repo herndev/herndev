@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s cheaper Model Y finally breaks cover](https://www.theverge.com/news/791414/tesla-model-y-cheap-affordable-photos-leak)
- - [Moonlake AI, which creates tools to &quot;vibe code virtual worlds&quot;, including for gaming, animation, and filmmaking, comes out of stealth with a $28M seed &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/251003/p18#a251003p18)
- - [China Is Leading the World in the Clean Energy Transition. Here&#39;s What That Looks Like](https://www.wired.com/story/china-clean-energy-un-climate-summit-goals/)<!-- TECH:END -->
+ - [Amazon’s Fire TV Stick 4K is getting a new name soon](https://www.theverge.com/news/791504/amazons-fire-tv-stick-4k-is-getting-a-new-name-soon)
+ - [Memo: Meta Superintelligence Labs&#39; products team, led by Nat Friedman, pushes staff to ditch Meta&#39;s slow internal systems in favor of external tools like Vercel &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/251003/p19#a251003p19)
+ - [Google Play Store is now your place to buy… Bass Pro Shops gift cards?](https://www.androidauthority.com/google-play-store-selling-gift-cards-3603870/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
