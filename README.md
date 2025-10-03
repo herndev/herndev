@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Worried about melty graphics cards? This seriously capable gizmo keeps power in check for more peace of mind](https://www.pcgamer.com/hardware/graphics-cards/worried-about-melty-graphics-cards-this-seriously-capable-gizmo-keeps-power-in-check-for-more-peace-of-mind/)
- - [This Amazon Fire TV Soundbar Plus Has Never Been This Cheap Before, Almost Free for Prime Big Deal Days](https://kotaku.com/this-amazon-fire-tv-soundbar-plus-has-never-been-this-cheap-before-almost-free-for-prime-big-deal-days-2000631140)
- - [Dial up is dead—at least as far as AOL is concerned, as the company is pulling the plug after 34 years](https://www.pcgamer.com/hardware/dial-up-is-dead-at-least-as-far-as-aol-is-concerned-as-the-company-is-pulling-the-plug-after-34-years/)<!-- GAME:END -->
+ - [The 43rd Golden Joystick Awards shortlist is out, and just looking at the indie list alone, I can tell it&#39;s going to be a tough year](https://www.pcgamer.com/gaming-industry/the-43rd-golden-joystick-awards-shortlist-is-out-and-just-looking-at-the-indie-list-alone-i-can-tell-its-going-to-be-a-tough-year/)
+ - [Critical Role campaign 4 characters: Classes, species, players, art, and more](https://www.polygon.com/critical-role-campaign-4-characters-cast/)
+ - [HP May Be Clearing Stock at a Loss, 15.6″ Laptop Bundle Crashes Nearly 70% &lpar;64GB RAM, 2TB SSD&rpar;](https://kotaku.com/hp-may-be-clearing-stock-at-a-loss-15-6-laptop-bundle-crashes-nearly-70-64gb-ram-2tb-ssd-2000631176)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
