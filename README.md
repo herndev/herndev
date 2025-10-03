@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Strava sues Garmin over key fitness features you probably rely on](https://www.androidauthority.com/strava-garmin-lawsuit-3603690/)
- - [Indonesia suspends TikTok&#39;s local operating license, saying it failed to share complete livestream activity data during protests following a government request &lpar;Chandra Asmara/Bloomberg&rpar;](http://www.techmeme.com/251003/p3#a251003p3)
- - [YouTube TV took NBCUniversal spat public, but there’s good news &lpar;Update: Better news&rpar;](https://www.androidauthority.com/youtube-tv-nbcuniversal-short-term-extension-3602830/)<!-- TECH:END -->
+ - [Poll: Do you want to see a Galaxy S26 Edge or S26 Plus?](https://www.androidauthority.com/samsung-galaxy-s26-edge-or-plus-poll-3603706/)
+ - [Inside Parental Controls -- How it works in iOS 26 and iPadOS 26](https://appleinsider.com/inside/ios-26/tips/inside-parental-controls----how-it-works-in-ios-26-and-ipados-26?utm_source=rss)
+ - [Exclusive first look: This is the canceled Google Pixel 4 5G](https://www.androidauthority.com/canceled-google-pixel-4-5g-3603226/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
