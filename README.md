@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill f&#39;s first ending is the game&#39;s weakest of the 5](https://www.polygon.com/silent-hill-f-endings-story-replay-new-game-plus/)
- - [As the videogame industry continues to be hammered by layoffs, Netflix is offering up to $840,000 per year for a new Director of Generative AI for Games](https://www.pcgamer.com/gaming-industry/as-the-videogame-industry-continues-to-be-hammered-by-layoffs-netflix-is-offering-up-to-usd840-000-per-year-for-a-new-director-of-generative-ai-for-games/)
- - [Fextralife launches gaming mod hosting competitor for creators](https://www.polygon.com/fextralife-mods-launch-fxmods/)<!-- GAME:END -->
+ - [Pillars Of Eternity II And More Pulled From Stores After Unity Reveals Years-Old Security Exploit](https://kotaku.com/unity-exploit-update-obsidian-pillars-eternity-2-removed-steam-2000631633)
+ - [HP Is Quietly Clearing Its Stock Through Amazon, With Its 17″ 1TB Laptop Going for 71% Off](https://kotaku.com/hp-is-quietly-clearing-its-stock-through-amazon-with-its-17-1tb-laptop-going-for-71-off-2000631617)
+ - [Xbox Game Pass price increase won’t affect some subscribers](https://www.polygon.com/xbox-game-pass-console-grandfather-accounts/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
