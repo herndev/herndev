@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Fire TV Stick 4K is getting a new name soon](https://www.theverge.com/news/791504/amazons-fire-tv-stick-4k-is-getting-a-new-name-soon)
- - [Memo: Meta Superintelligence Labs&#39; products team, led by Nat Friedman, pushes staff to ditch Meta&#39;s slow internal systems in favor of external tools like Vercel &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/251003/p19#a251003p19)
- - [Google Play Store is now your place to buy… Bass Pro Shops gift cards?](https://www.androidauthority.com/google-play-store-selling-gift-cards-3603870/)<!-- TECH:END -->
+ - [SCUBA diver&#39;s life saved by Apple Watch Ultra&#39;s siren](https://appleinsider.com/articles/25/10/03/scuba-divers-life-saved-by-apple-watch-ultras-siren?utm_source=rss)
+ - [Bad Bunny Has MAGA All Worked Up](https://www.wired.com/story/bad-bunny-has-maga-all-worked-up/)
+ - [How to master the Camera app on iPhone 17 Pro &amp; iPhone 17 Pro Max](https://appleinsider.com/inside/iphone-17/tips/how-to-master-the-camera-app-on-iphone-17-pro-iphone-17-pro-max?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
