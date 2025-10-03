@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Is Why Bose&#39;s SoundLink Plus Is the Goldilocks of Bose Bluetooth Speakers](https://www.cnet.com/tech/home-entertainment/bose-soundlink-plus-review/#ftag=CAD590a51e)
  - [Strava sues Garmin for allegedly infringing two patents related to its segments and heatmap features and violating a 2015 agreement between the companies &lpar;Ray Maker/DC Rainmaker&rpar;](http://www.techmeme.com/251002/p44#a251002p44)
- - [Uber acquihires Belgian data labeling startup Segments.ai to expand its lidar data labeling capabilities; its founders and staff will join Uber AI Solutions &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251002/p43#a251002p43)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Oct. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-oct-3/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Uber acquihires Belgian data labeling startup Segments.ai to expand its lidar data labeling capabilities; its founders and staff will join Uber AI Solutions &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251002/p43#a251002p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
