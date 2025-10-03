@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [a16z releases a report, with Mercury data, on the top 50 AI companies startups pay for; OpenAI leads, followed by Anthropic, Replit, Freepik, and ElevenLabs &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251003/p1#a251003p1)
- - [At a Conspiracy Conference in Rural Ireland, Charlie Kirk Was the Star](https://www.wired.com/story/conspiracy-conference-rural-ireland-charlie-kirk-quantum-clones/)
- - [$25 Off DoorDash Promo Code | October 2025](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
+ - [This simple change could make Gemini Scheduled Actions a joy to use &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-scheduled-actions-edit-3603672/)
+ - [Galaxy S26 series selfie camera details leak, and here’s what to expect](https://www.androidauthority.com/samsung-galaxy-s26-selfie-camera-leak-3603655/)
+ - [a16z releases a report, with Mercury data, on the top 50 AI companies startups pay for; OpenAI leads, followed by Anthropic, Replit, Freepik, and ElevenLabs &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251003/p1#a251003p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
