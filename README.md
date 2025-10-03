@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for October 6 to 10](https://news.xbox.com/en-us/2025/10/03/next-week-on-xbox-new-games-for-october-6-to-10/)
- - [Buckle up, five of the most wishlisted games on Steam are all coming out this month](https://www.pcgamer.com/games/buckle-up-five-of-the-most-wishlisted-games-on-steam-are-all-coming-out-this-month/)
- - [The LEGO Groot Has Danced Its Way Down to Almost Free, Cheap Enough to Buy More Than One for Early Prime Day](https://kotaku.com/the-lego-groot-has-danced-its-way-down-to-almost-free-cheap-enough-to-buy-more-than-one-for-early-prime-day-2000631154)<!-- GAME:END -->
+ - [Super Mario Galaxy lives up to nearly two decades of hype](https://www.polygon.com/super-mario-galaxy-wii-first-time-impressions-switch-2/)
+ - [James Gunn nearly revived another dead character in Peacemaker season 2](https://www.polygon.com/james-gunn-clemson-murn-peacemaker-season-2/)
+ - [Report: A Free Version Of Xbox Game Streaming Is Coming, But With Ads](https://kotaku.com/report-a-free-version-of-xbox-game-streaming-is-coming-but-with-ads-2000631520)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
