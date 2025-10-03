@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - ⏩ [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
- - 👉 [Tokyo Apartment in Japan](http://9gag.com/gag/azxD25m)<!-- MEMES:END -->
+ - 💣 [I swear I know this dude from somewhere](http://9gag.com/gag/aGyNy76)
+ - ⏩ [Tokyo Apartment in Japan](http://9gag.com/gag/azxD25m)
+ - 👉 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)<!-- MEMES:END -->
 
 ---
 
