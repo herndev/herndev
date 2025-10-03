@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
- - ⏩ [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 👉 [Never bring a machete to a bodyslam fight](http://9gag.com/gag/aVv1gb2)<!-- MEMES:END -->
+ - 💣 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
+ - ⏩ [Bro is a king.](http://9gag.com/gag/azxD5jZ)
+ - 👉 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)<!-- MEMES:END -->
 
 ---
 
