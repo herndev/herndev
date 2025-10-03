@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google and Apple removed Red Dot, an app for reporting ICE sightings; Google says the app was being used to share the location of a &quot;vulnerable group&quot; &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/251003/p17#a251003p17)
- - [Trump rolled YouTube into paying for his ballroom](https://www.theverge.com/policy/791355/trump-youtube-google-antitrust-ballroom)
- - [Google Chat is a little more fun with new sticker options](https://www.androidauthority.com/google-chat-sticker-insert-button-3603800/)<!-- TECH:END -->
+ - [Tesla’s cheaper Model Y finally breaks cover](https://www.theverge.com/news/791414/tesla-model-y-cheap-affordable-photos-leak)
+ - [Moonlake AI, which creates tools to &quot;vibe code virtual worlds&quot;, including for gaming, animation, and filmmaking, comes out of stealth with a $28M seed &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/251003/p18#a251003p18)
+ - [China Is Leading the World in the Clean Energy Transition. Here&#39;s What That Looks Like](https://www.wired.com/story/china-clean-energy-un-climate-summit-goals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
