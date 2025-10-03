@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get an Imaginary Friend in The Sims 4 Adventure Awaits](https://www.pcgamer.com/games/the-sims/sims-4-adventure-awaits-imaginary-friends/)
- - [The most anticipated FPS of the year is scoring points by recognizing a simple truth: people want performance more than ray tracing](https://www.pcgamer.com/games/fps/the-most-anticipated-fps-of-the-year-is-scoring-points-by-recognizing-a-simple-truth-people-want-performance-more-than-ray-tracing/)
- - [PlayStation Plus Monthly Games for October: Alan Wake 2, Goat Simulator 3, Cocoon](https://blog.playstation.com/2025/10/02/20251003-psplus/)<!-- GAME:END -->
+ - [&#39;The industry isn&#39;t dying, it&#39;s splitting into two different models&#39;: What experts are saying about the EA buyout](https://www.pcgamer.com/gaming-industry/the-industry-isnt-dying-its-splitting-into-two-different-models-what-experts-are-saying-about-the-ea-buyout/)
+ - [The new My Hero Academia game will finally let you live out the fantasy of playing through the anime&#39;s big moments, but I&#39;m still waiting for the Persona-style school sim](https://www.pcgamer.com/games/action/the-new-my-hero-academia-game-will-finally-let-you-live-out-the-fantasy-of-playing-through-the-animes-big-moments-but-im-still-waiting-for-the-persona-style-school-sim/)
+ - [Warhammer doesn&#39;t need to be an expensive hobby: Poorhammer is here to save your wallet](https://www.pcgamer.com/games/board-games/warhammer-doesnt-need-to-be-an-expensive-hobby-poorhammer-is-here-to-save-your-wallet/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
