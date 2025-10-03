@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So scary!](http://9gag.com/gag/amoboW4)
- - ⏩ [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
- - 👉 [Come full circle](http://9gag.com/gag/aE0N8MM)<!-- MEMES:END -->
+ - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - ⏩ [Come full circle](http://9gag.com/gag/aE0N8MM)
+ - 👉 [So scary!](http://9gag.com/gag/amoboW4)<!-- MEMES:END -->
 
 ---
 
