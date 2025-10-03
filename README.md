@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - ⏩ [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
- - 👉 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)<!-- MEMES:END -->
+ - 💣 [That&#39;s some sirius black tattoo](http://9gag.com/gag/aYQnQbx)
+ - ⏩ [Waiting for year 2069](http://9gag.com/gag/a4PrnwZ)
+ - 👉 [So scary!](http://9gag.com/gag/amoboW4)<!-- MEMES:END -->
 
 ---
 
