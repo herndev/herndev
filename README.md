@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 43rd Golden Joystick Awards shortlist is out, and just looking at the indie list alone, I can tell it&#39;s going to be a tough year](https://www.pcgamer.com/gaming-industry/the-43rd-golden-joystick-awards-shortlist-is-out-and-just-looking-at-the-indie-list-alone-i-can-tell-its-going-to-be-a-tough-year/)
- - [Critical Role campaign 4 characters: Classes, species, players, art, and more](https://www.polygon.com/critical-role-campaign-4-characters-cast/)
- - [HP May Be Clearing Stock at a Loss, 15.6″ Laptop Bundle Crashes Nearly 70% &lpar;64GB RAM, 2TB SSD&rpar;](https://kotaku.com/hp-may-be-clearing-stock-at-a-loss-15-6-laptop-bundle-crashes-nearly-70-64gb-ram-2tb-ssd-2000631176)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for October 6 to 10](https://news.xbox.com/en-us/2025/10/03/next-week-on-xbox-new-games-for-october-6-to-10/)
+ - [Buckle up, five of the most wishlisted games on Steam are all coming out this month](https://www.pcgamer.com/games/buckle-up-five-of-the-most-wishlisted-games-on-steam-are-all-coming-out-this-month/)
+ - [The LEGO Groot Has Danced Its Way Down to Almost Free, Cheap Enough to Buy More Than One for Early Prime Day](https://kotaku.com/the-lego-groot-has-danced-its-way-down-to-almost-free-cheap-enough-to-buy-more-than-one-for-early-prime-day-2000631154)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
