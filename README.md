@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rob Williams, Amazon&#39;s VP of device software and services and member of the S-team advising CEO Andy Jassy, will retire and leave Amazon by the end of 2025 &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/251003/p21#a251003p21)
- - [The Lenovo Go S Is $120 Off](https://www.wired.com/story/legion-go-s-deal-1025/)
- - [SCUBA diver&#39;s life saved by Apple Watch Ultra&#39;s siren](https://appleinsider.com/articles/25/10/03/scuba-divers-life-saved-by-apple-watch-ultras-siren?utm_source=rss)<!-- TECH:END -->
+ - [Gov. Gavin Newsom signs a bill that gives ride-hailing drivers in California the right to unionize while remaining classified as independent contractors &lpar;Associated Press&rpar;](http://www.techmeme.com/251003/p23#a251003p23)
+ - [Google pulls ICE alert app Red Dot from Play Store, citing policy violations](https://www.androidauthority.com/ice-alert-app-red-dot-pulled-play-store-3603936/)
+ - [Chipmaker Cerebras withdraws its IPO, a little over a year after filing its IPO prospectus; it announced a $1.1B raise at a $8.1B valuation on September 30 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251003/p22#a251003p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
