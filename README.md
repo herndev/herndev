@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you want to see a Galaxy S26 Edge or S26 Plus?](https://www.androidauthority.com/samsung-galaxy-s26-edge-or-plus-poll-3603706/)
- - [Inside Parental Controls -- How it works in iOS 26 and iPadOS 26](https://appleinsider.com/inside/ios-26/tips/inside-parental-controls----how-it-works-in-ios-26-and-ipados-26?utm_source=rss)
- - [Exclusive first look: This is the canceled Google Pixel 4 5G](https://www.androidauthority.com/canceled-google-pixel-4-5g-3603226/)<!-- TECH:END -->
+ - [Prepare yourself to envy every inch of Apple Music&#39;s new studios](https://appleinsider.com/articles/25/10/03/prepare-yourself-to-envy-every-inch-of-apple-musics-new-studios?utm_source=rss)
+ - [Supabase, an open-source rival to Google&#39;s Firebase, raised a $100M Series E led by Accel and Peak XV at a $5B valuation, bringing its total funding to $500M+ &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/251003/p6#a251003p6)
+ - [Samsung’s One UI 8.5 update is an even bigger deal than you thought](https://www.androidauthority.com/one-ui-8-5-android-16-qpr2-3603597/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
