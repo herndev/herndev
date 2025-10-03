@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of the best cheap Galaxy phones is now getting stable One UI 8 globally](https://www.androidauthority.com/samsung-galaxy-a35-5g-stable-one-ui-8-update-3603686/)
- - [An interview with CEO Amjad Masad on Replit&#39;s slow growth, leaving the professional developer market to focus on non-technical white-collar workers, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/251003/p2#a251003p2)
- - [This simple change could make Gemini Scheduled Actions a joy to use &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-scheduled-actions-edit-3603672/)<!-- TECH:END -->
+ - [Strava sues Garmin over key fitness features you probably rely on](https://www.androidauthority.com/strava-garmin-lawsuit-3603690/)
+ - [Indonesia suspends TikTok&#39;s local operating license, saying it failed to share complete livestream activity data during protests following a government request &lpar;Chandra Asmara/Bloomberg&rpar;](http://www.techmeme.com/251003/p3#a251003p3)
+ - [YouTube TV took NBCUniversal spat public, but there’s good news &lpar;Update: Better news&rpar;](https://www.androidauthority.com/youtube-tv-nbcuniversal-short-term-extension-3602830/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
