@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried Amazon and Google’s new smart home gadgets, ask me anything!](https://www.theverge.com/tech/790817/amazon-alexa-show-google-gemini-nest-hands-on-ama)
- - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
- - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)<!-- TECH:END -->
+ - [With a Friend like this, who needs enemies?](https://www.theverge.com/column/791010/optimizer-friend-ai-companion-wearables)
+ - [OpenAI&#39;s invite-only Sora app, launched on Tuesday, becomes the top free app in the US App Store, surpassing Gemini and ChatGPT &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251003/p9#a251003p9)
+ - [The real price of a free TV](https://www.theverge.com/podcast/791253/telly-free-tv-ads-amazon-echo-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
