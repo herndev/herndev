@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pillars Of Eternity II And More Pulled From Stores After Unity Reveals Years-Old Security Exploit](https://kotaku.com/unity-exploit-update-obsidian-pillars-eternity-2-removed-steam-2000631633)
- - [HP Is Quietly Clearing Its Stock Through Amazon, With Its 17″ 1TB Laptop Going for 71% Off](https://kotaku.com/hp-is-quietly-clearing-its-stock-through-amazon-with-its-17-1tb-laptop-going-for-71-off-2000631617)
- - [Xbox Game Pass price increase won’t affect some subscribers](https://www.polygon.com/xbox-game-pass-console-grandfather-accounts/)<!-- GAME:END -->
+ - [If Gaming Is in Your DNA, This Samsung G9 49″ OLED Curved Monitor Is $700+ Off on Amazon](https://kotaku.com/if-gaming-is-in-your-dna-this-samsung-g9-49-oled-curved-monitor-is-700-off-on-amazon-2000631621)
+ - [Fabulous news everyone: Market analyst says the AI bubble is 17X bigger than the dotcom goldrush, and 4X larger than the subprime bubble that caused the 2008 crash](https://www.pcgamer.com/software/ai/fabulous-news-everyone-market-analyst-says-the-ai-bubble-is-17x-bigger-than-the-dotcom-goldrush-and-4x-larger-than-the-subprime-bubble-that-caused-the-2008-crash/)
+ - [As Microsoft lays off thousands and jacks up Game Pass prices, former FTC chair says I told you so: The Activision-Blizzard buyout is &#39;harming both gamers and developers&#39;](https://www.pcgamer.com/gaming-industry/as-microsoft-lays-off-thousands-and-jacks-up-game-pass-prices-former-ftc-chair-says-i-told-you-so-the-activision-blizzard-buyout-is-harming-both-gamers-and-developers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
