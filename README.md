@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
- - ⏩ [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
- - 👉 [Failed overtake of long load](http://9gag.com/gag/amobA44)<!-- MEMES:END -->
+ - 💣 [So scary!](http://9gag.com/gag/amoboW4)
+ - ⏩ [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
+ - 👉 [Come full circle](http://9gag.com/gag/aE0N8MM)<!-- MEMES:END -->
 
 ---
 
