@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: delays in the deal to send Nvidia&#39;s AI chips to the UAE, announced in May, are frustrating Jensen Huang and administration officials like David Sacks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251002/p41#a251002p41)
- - [ICEBlock app removed from App Store after DOJ demands, citing safety concerns](https://appleinsider.com/articles/25/10/03/iceblock-app-removed-from-app-store-after-doj-demands-citing-safety-concerns?utm_source=rss)
- - [Apple removes ICEBlock, an app for anonymously reporting ICE officer sightings, from the App Store; AG Pam Bondi says the DOJ requested its removal &lpar;Ashley Oliver/Fox Business&rpar;](http://www.techmeme.com/251002/p40#a251002p40)<!-- TECH:END -->
+ - [IBM releases Granite 4.0, an open source &quot;enterprise-ready&quot; LLM family with a hybrid architecture, claiming it uses significantly less RAM than traditional LLMs &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251002/p42#a251002p42)
+ - [Apple pulls ICEBlock from the App Store](https://www.theverge.com/news/791170/iceblock-app-store-removed-by-apple)
+ - [Sources: delays in the deal to send Nvidia&#39;s AI chips to the UAE, announced in May, are frustrating Jensen Huang and administration officials like David Sacks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251002/p41#a251002p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
