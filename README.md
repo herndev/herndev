@@ -32,8 +32,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to get an Imaginary Friend in The Sims 4 Adventure Awaits](https://www.pcgamer.com/games/the-sims/sims-4-adventure-awaits-imaginary-friends/)
  - [The most anticipated FPS of the year is scoring points by recognizing a simple truth: people want performance more than ray tracing](https://www.pcgamer.com/games/fps/the-most-anticipated-fps-of-the-year-is-scoring-points-by-recognizing-a-simple-truth-people-want-performance-more-than-ray-tracing/)
- - [PlayStation Plus Monthly Games for October: Alan Wake 2, Goat Simulator 3, Cocoon](https://blog.playstation.com/2025/10/02/20251003-psplus/)
  - [PlayStation Plus Monthly Games for October: Alan Wake 2, Goat Simulator 3, Cocoon](https://blog.playstation.com/2025/10/02/20251003-psplus/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
