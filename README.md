@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
- - ⏩ [Why are you geh](http://9gag.com/gag/avyXAzX)
- - 👉 [Every damn time](http://9gag.com/gag/aGyNE47)<!-- MEMES:END -->
+ - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - ⏩ [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
+ - 👉 [Tokyo Apartment in Japan](http://9gag.com/gag/azxD25m)<!-- MEMES:END -->
 
 ---
 
