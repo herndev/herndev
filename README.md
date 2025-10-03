@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So scary!](http://9gag.com/gag/amoboW4)
- - ⏩ [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
- - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
+ - 💣 [Peak comedy](http://9gag.com/gag/aAyNyGE)
+ - ⏩ [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
+ - 👉 [Waiting for year 2069](http://9gag.com/gag/a4PrnwZ)<!-- MEMES:END -->
 
 ---
 
