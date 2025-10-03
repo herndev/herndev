@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Google exec says Alphabet has been working for the past two years to technologically decouple its life sciences unit Verily so that it can be sold or spun off &lpar;Bloomberg&rpar;](http://www.techmeme.com/251002/p39#a251002p39)
- - [Apple&#39;s fourth quarter 2025 earnings call to take place on October 30](https://appleinsider.com/articles/25/10/02/apples-fourth-quarter-2025-earnings-call-to-take-place-on-october-30?utm_source=rss)
- - [All battery Ring Doorbell models plummet to record-low prices!](https://www.androidauthority.com/ring-battery-doorbell-plus-pro-deals-3-3603583/)<!-- TECH:END -->
+ - [Sources: delays in the deal to send Nvidia&#39;s AI chips to the UAE, announced in May, are frustrating Jensen Huang and administration officials like David Sacks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251002/p41#a251002p41)
+ - [ICEBlock app removed from App Store after DOJ demands, citing safety concerns](https://appleinsider.com/articles/25/10/03/iceblock-app-removed-from-app-store-after-doj-demands-citing-safety-concerns?utm_source=rss)
+ - [Apple removes ICEBlock, an app for anonymously reporting ICE officer sightings, from the App Store; AG Pam Bondi says the DOJ requested its removal &lpar;Ashley Oliver/Fox Business&rpar;](http://www.techmeme.com/251002/p40#a251002p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
