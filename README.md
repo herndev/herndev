@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
+ - 💣 [I am an artist!](http://9gag.com/gag/a1mqmww)
  - ⏩ [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 👉 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)<!-- MEMES:END -->
+ - 👉 [Sauce: JayDaddy- you&#39;re in a horror movie](http://9gag.com/gag/aAyNy1p)<!-- MEMES:END -->
 
 ---
 
