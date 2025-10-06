@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have no idea what I&#39;m doing](http://9gag.com/gag/a2vj09d)
- - ⏩ [Boo. . who?](http://9gag.com/gag/a6Z35WN)
- - 👉 [Jigsaw is not pleased with this version of the game](http://9gag.com/gag/a1mq51D)<!-- MEMES:END -->
+ - 💣 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
+ - ⏩ [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
+ - 👉 [How deep is your love](http://9gag.com/gag/aByNVXA)<!-- MEMES:END -->
 
 ---
 
