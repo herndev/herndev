@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GoPro Is Going Wild for Prime Day, the HERO13 Black Is Practically Being Given Away on Amazon](https://kotaku.com/gopro-is-going-wild-for-prime-day-the-hero13-black-is-practically-being-given-away-on-amazon-2000632012)
- - [Unreal mastermind Cliff Bleszinski really likes this fan-made Redux remaster: &#39;Time for a new generation to learn that Unreal isn&#39;t just an engine&#39;](https://www.pcgamer.com/games/fps/unreal-mastermind-cliff-bleszinski-really-likes-this-fan-made-redux-remaster-time-for-a-new-generation-to-learn-that-unreal-isnt-just-an-engine/)
- - [Bungie shows Marathon proof of life with the announcement of another closed playtest](https://www.pcgamer.com/games/fps/bungie-shows-marathon-proof-of-life-with-the-announcement-of-another-closed-playtest/)<!-- GAME:END -->
+ - [This MacBook Air &lpar;M4, 256GB, 16GB RAM&rpar;, Now Costs Half the Price of a Pro, Amazon Rushes to Clear Out Space](https://kotaku.com/this-macbook-air-m4-256gb-16gb-ram-now-costs-half-the-price-of-a-pro-amazon-rushes-to-clear-out-space-2000632140)
+ - [This 2025 iPad Is Now 3x Cheaper Than the iPad Pro, Amazon Clears Stock at a Record Low](https://kotaku.com/this-2025-ipad-is-now-3x-cheaper-than-the-ipad-pro-amazon-clears-stock-at-a-record-low-2000631789)
+ - [One Of My Most Anticipated Games Just Got Indefinitely Delayed](https://kotaku.com/shovel-knight-sequel-mina-hollower-delay-yacht-club-2000632148)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
