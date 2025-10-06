@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
- - ⏩ [Fall is here](http://9gag.com/gag/aD2NZdO)
- - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
+ - 💣 [I did that](http://9gag.com/gag/amob6W4)
+ - ⏩ [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
 
 ---
 
