@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
- - ⏩ [How deep is your love](http://9gag.com/gag/aByNVXA)
- - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
+ - ⏩ [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
+ - 👉 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)<!-- MEMES:END -->
 
 ---
 
