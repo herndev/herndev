@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Players Are Getting Jump-Scared By One OfFinal Fantasy Tactics’ Most Iconic Battles All Over Again](https://kotaku.com/final-fantasy-tactics-rare-battles-monks-grogh-heights-2000632127)
- - [After making Closed Weapons almost invisible in the Battlefield 6 beta, DICE says Open Weapons is &#39;the right path forward&#39; because it was more popular](https://www.pcgamer.com/games/fps/after-making-closed-weapons-almost-invisible-in-the-battlefield-6-beta-dice-says-open-weapons-is-the-right-path-forward-because-it-was-more-popular/)
- - [Ubisoft reveals the surprise free Assassin&#39;s Creed Mirage DLC, which just coincidentally happens to be set in a region the Saudi government wants to turn into an &#39;economic powerhouse&#39;](https://www.pcgamer.com/games/assassins-creed/ubisoft-reveals-the-surprise-free-assassins-creed-mirage-dlc-which-just-coincidentally-happens-to-be-set-in-a-region-the-saudi-government-wants-to-turn-into-an-economic-powerhouse/)<!-- GAME:END -->
+ - [GoPro Is Going Wild for Prime Day, the HERO13 Black Is Practically Being Given Away on Amazon](https://kotaku.com/gopro-is-going-wild-for-prime-day-the-hero13-black-is-practically-being-given-away-on-amazon-2000632012)
+ - [Unreal mastermind Cliff Bleszinski really likes this fan-made Redux remaster: &#39;Time for a new generation to learn that Unreal isn&#39;t just an engine&#39;](https://www.pcgamer.com/games/fps/unreal-mastermind-cliff-bleszinski-really-likes-this-fan-made-redux-remaster-time-for-a-new-generation-to-learn-that-unreal-isnt-just-an-engine/)
+ - [Bungie shows Marathon proof of life with the announcement of another closed playtest](https://www.pcgamer.com/games/fps/bungie-shows-marathon-proof-of-life-with-the-announcement-of-another-closed-playtest/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
