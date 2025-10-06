@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Confused about the latest Google Home changes? Google just answered your top questions](https://www.androidauthority.com/google-home-changes-decoded-3604079/)
- - [Melbourne-based Heidi Health, which is developing AI agents to assist doctors, raised a $65M Series B led by Point72, taking its total raised to $96.6M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251006/p2#a251006p2)
- - [A basket tracking stocks of 10 European data center operators and infrastructure providers surged 23% in 2025, topping the Nasdaq 100, driven by the AI boom &lpar;Bloomberg&rpar;](http://www.techmeme.com/251006/p1#a251006p1)<!-- TECH:END -->
+ - [A look at cost and viability concerns over small nuclear reactors in the US, as the government, tech companies, and investors bet on SMRs to power the AI boom &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/251006/p4#a251006p4)
+ - [A profile of Riley Walz, whose tech-related pranks in San Francisco blend technical skill with social commentary, including a viral site to track parking police &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251006/p3#a251006p3)
+ - [Confused about the latest Google Home changes? Google just answered your top questions](https://www.androidauthority.com/google-home-changes-decoded-3604079/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
