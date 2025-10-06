@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Mesh Wi-Fi Systems &lpar;2025&rpar;, Tested in a Tech Reviewer&#39;s Home](https://www.wired.com/story/best-mesh-wifi-routers/)
- - [Verizon names Dan Schulman as CEO, replacing Hans Vestberg effective immediately; Schulman was PayPal CEO, and Vestberg will help manage the transition &lpar;Molly Schuetz/Bloomberg&rpar;](http://www.techmeme.com/251006/p17#a251006p17)
- - [Fictional characters are &lpar;officially&rpar; coming to Sora as OpenAI manages copyright chaos](https://www.theverge.com/news/792661/sora-fictional-copyright-characters)<!-- TECH:END -->
+ - [Dbrand lets Android users drink the Cosmic Orange juice, too](https://www.theverge.com/news/792712/dbrand-android-device-skins-orange-apple-iphone-17-pro)
+ - [Rivian CEO: &amp;#8216;We&amp;#8217;re really convicted&amp;#8217; about skipping CarPlay](https://www.theverge.com/podcast/790685/rivian-ceo-rj-scaringe-r2-tariffs-china-ev-apple-carplay)
+ - [T-Mobile will soon begin phasing out LTE in favor of 5G](https://www.androidauthority.com/t-mobile-5g-refarm-3604285/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
