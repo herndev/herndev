@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
- - ⏩ [Fall is here](http://9gag.com/gag/aD2NZdO)
- - 👉 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)<!-- MEMES:END -->
+ - 💣 [.. when you realize Moriarty is the son of Dumbledore](http://9gag.com/gag/aRBNzMA)
+ - ⏩ [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
+ - 👉 [Bring it on, 45](http://9gag.com/gag/an7WvZq)<!-- MEMES:END -->
 
 ---
 
