@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh lawdy...](http://9gag.com/gag/aMVNm4X)
- - ⏩ [Miniature fantasy city in the forest](http://9gag.com/gag/avyX6WM)
- - 👉 [Boo. . who?](http://9gag.com/gag/a6Z35WN)<!-- MEMES:END -->
+ - 💣 [My man](http://9gag.com/gag/ae9PONO)
+ - ⏩ [Damned spawn campers](http://9gag.com/gag/avyX1jX)
+ - 👉 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)<!-- MEMES:END -->
 
 ---
 
