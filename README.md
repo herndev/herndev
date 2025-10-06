@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damned spawn campers](http://9gag.com/gag/avyX1jX)
- - ⏩ [How deep is your love](http://9gag.com/gag/aByNVXA)
- - 👉 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)<!-- MEMES:END -->
+ - 💣 [Oh lawdy...](http://9gag.com/gag/aMVNm4X)
+ - ⏩ [Miniature fantasy city in the forest](http://9gag.com/gag/avyX6WM)
+ - 👉 [Boo. . who?](http://9gag.com/gag/a6Z35WN)<!-- MEMES:END -->
 
 ---
 
