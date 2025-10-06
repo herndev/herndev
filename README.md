@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 6 &lpar;#1570&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-6-2025/)
- - [With a final update, Paradox announces support for its Civ competitor Millennia has come to an end](https://www.pcgamer.com/games/strategy/with-a-final-update-paradox-announces-support-for-its-civ-competitor-millennia-has-come-to-an-end/)
- - [HP Just Cut Almost $2000 from Its EliteBook Laptop Packing Intel Core Ultra 7, 32GB DDR5 RAM, and 1TB SSD](https://kotaku.com/hp-just-cut-almost-2000-from-its-elitebook-laptop-packing-intel-core-ultra-7-32gb-ddr5-ram-and-1tb-ssd-2000631866)<!-- GAME:END -->
+ - [Minecraft&#39;s next drop might be the thing that finally convinces me to explore underwater](https://www.pcgamer.com/games/survival-crafting/minecrafts-next-drop-might-be-the-thing-that-finally-convinces-me-to-explore-underwater/)
+ - [After telling Borderlands 4 player to &#39;game that sh*t&#39;, Randy Pitchford finds out that you cannot, in fact, game that sh*t—says &#39;well, sh*t&#39;, confirms it&#39;s a bug and that it&#39;ll be fixed &#39;within the next two weeks&#39;](https://www.pcgamer.com/games/rpg/after-telling-borderlands-4-player-to-game-that-sh-t-randy-pitchford-finds-out-that-you-cannot-in-fact-game-that-sh-t-says-well-sh-t-confirms-its-a-bug-and-that-itll-be-fixed-within-the-next-two-weeks/)
+ - [Decade-long SSD and RAM &#39;pricing apocalypse&#39; predicted as AI data centers gobble up hardware on an epic scale](https://www.pcgamer.com/hardware/storage/decade-long-ssd-and-ram-pricing-apocalypse-predicted-as-ai-data-centers-gobble-up-hardware-on-an-epic-scale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
