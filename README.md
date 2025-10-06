@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The European Securities and Markets Authority plans to centralize the regulation of stock exchanges, crypto companies, and clearing houses at an EU level &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/251006/p7#a251006p7)
- - [The Pixel 10 is going viral for struggling with a major Android game](https://www.androidauthority.com/pixel-10-genshin-impact-gpu-problem-3604104/)
- - [A look at OpenAI&#39;s search for the sites of its Stargate data centers in the US; OpenAI has received 800+ applications since January and has 20 finalist sites &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251006/p6#a251006p6)<!-- TECH:END -->
+ - [Tech companies in the UK, Canada, and elsewhere seek talent amid the US H-1B clampdown, though some skeptics doubt Trump&#39;s policies will spur a tech boom abroad &lpar;Financial Times&rpar;](http://www.techmeme.com/251006/p10#a251006p10)
+ - [Mark your calendars: Android 16 is finally coming to OnePlus flagships this month](https://www.androidauthority.com/oneplus-oxygen-os-16-android-16-october-launch-3604143/)
+ - [Google is confusing Home users with Nest Aware and Google One plan changes](https://www.androidauthority.com/google-one-home-pricing-change-3604121/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
