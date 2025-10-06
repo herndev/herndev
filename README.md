@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at cost and viability concerns over small nuclear reactors in the US, as the government, tech companies, and investors bet on SMRs to power the AI boom &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/251006/p4#a251006p4)
- - [A profile of Riley Walz, whose tech-related pranks in San Francisco blend technical skill with social commentary, including a viral site to track parking police &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251006/p3#a251006p3)
- - [Confused about the latest Google Home changes? Google just answered your top questions](https://www.androidauthority.com/google-home-changes-decoded-3604079/)<!-- TECH:END -->
+ - [OpenAI’s always-on AI device is plagued by various issues](https://www.androidauthority.com/openai-jony-ive-ai-device-issues-3604088/)
+ - [A book excerpt details the &quot;enshittification&quot; of Amazon, and how its &quot;flywheel&quot; technique now enriches the company at the expense of merchants &lpar;Cory Doctorow/The Guardian&rpar;](http://www.techmeme.com/251006/p5#a251006p5)
+ - [A look at cost and viability concerns over small nuclear reactors in the US, as the government, tech companies, and investors bet on SMRs to power the AI boom &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/251006/p4#a251006p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
