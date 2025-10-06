@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
- - ⏩ [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
- - 👉 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)<!-- MEMES:END -->
+ - 💣 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
+ - ⏩ [Fall is here](http://9gag.com/gag/aD2NZdO)
+ - 👉 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)<!-- MEMES:END -->
 
 ---
 
