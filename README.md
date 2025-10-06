@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT apps are live: Here are the first ones you can try](https://www.theverge.com/news/793081/chagpt-apps-sdk-spotify-zillow-openai)
- - [The judge tasked with deciding Google’s fate would rather not](https://www.theverge.com/policy/793455/google-doj-ad-tech-judge-brinkema-break-up)
- - [SCOTUS turns down Google&#39;s request to halt key parts of a judge&#39;s order requiring Google to make major changes to Play Store in an antitrust case filed by Epic &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/251006/p37#a251006p37)<!-- TECH:END -->
+ - [Best Wi-Fi Extenders of 2025](https://www.cnet.com/home/internet/best-wifi-extenders/#ftag=CAD590a51e)
+ - [Google launches a dedicated AI bug bounty program that offers security researchers up to $30,000 for finding vulnerabilities in its AI products &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/251006/p41#a251006p41)
+ - [Microsoft is plugging more holes that let you use Windows 11 without an online account](https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
