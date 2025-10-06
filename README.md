@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [.. when you realize Moriarty is the son of Dumbledore](http://9gag.com/gag/aRBNzMA)
- - ⏩ [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
- - 👉 [Bring it on, 45](http://9gag.com/gag/an7WvZq)<!-- MEMES:END -->
+ - 💣 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
+ - ⏩ [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
+ - 👉 [How deep is your love](http://9gag.com/gag/aByNVXA)<!-- MEMES:END -->
 
 ---
 
