@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft streamer completes 14-year journey to the Far Lands](https://www.polygon.com/minecraft-far-lands-14-year-journey/)
- - [JBL Quietly Offloads the Waterproof Flip 5 Speaker, Now Listed for Pennies on Amazon](https://kotaku.com/jbl-quietly-offloads-the-waterproof-flip-5-speaker-now-listed-for-pennies-on-amazon-2000631979)
- - [Pokémon And Magic Are At Risk Of Losing An Entire Generation Of Players](https://kotaku.com/pokemon-magic-the-gathering-scalpers-cards-2000632017)<!-- GAME:END -->
+ - [25 years later, Digimon: The Movie still doesn&#39;t get the credit it deserves](https://www.polygon.com/digimon-the-movie-25-years-anniversary-anime-box-office/)
+ - [Amazon Drops LEGO Deals Big for Prime Day, Mini F1 Car Toys Now Selling for $3 Each](https://kotaku.com/amazon-drops-lego-deals-big-for-prime-day-mini-f1-car-toys-now-selling-for-3-each-2000632056)
+ - [Activision claims 97% of cheaters it catches in Call of Duty: Black Ops 7 are banned within 30 minutes, thanks to secure boot and Ricochet](https://www.pcgamer.com/games/fps/activision-claims-97-percent-of-cheaters-it-catches-in-call-of-duty-black-ops-7-are-banned-within-30-minutes-thanks-to-secure-boot-and-ricochet/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
