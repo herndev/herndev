@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft&#39;s next drop might be the thing that finally convinces me to explore underwater](https://www.pcgamer.com/games/survival-crafting/minecrafts-next-drop-might-be-the-thing-that-finally-convinces-me-to-explore-underwater/)
- - [After telling Borderlands 4 player to &#39;game that sh*t&#39;, Randy Pitchford finds out that you cannot, in fact, game that sh*t—says &#39;well, sh*t&#39;, confirms it&#39;s a bug and that it&#39;ll be fixed &#39;within the next two weeks&#39;](https://www.pcgamer.com/games/rpg/after-telling-borderlands-4-player-to-game-that-sh-t-randy-pitchford-finds-out-that-you-cannot-in-fact-game-that-sh-t-says-well-sh-t-confirms-its-a-bug-and-that-itll-be-fixed-within-the-next-two-weeks/)
- - [Decade-long SSD and RAM &#39;pricing apocalypse&#39; predicted as AI data centers gobble up hardware on an epic scale](https://www.pcgamer.com/hardware/storage/decade-long-ssd-and-ram-pricing-apocalypse-predicted-as-ai-data-centers-gobble-up-hardware-on-an-epic-scale/)<!-- GAME:END -->
+ - [Amazon Strikes Samsung SSDs Hard, Now the 2TB 990 PRO SSD Is Selling at a New Record Low](https://kotaku.com/amazon-strikes-samsung-ssds-hard-now-the-2tb-990-pro-ssd-is-selling-at-a-new-record-low-2000631957)
+ - [Amazon Hits Roborock Hard, The Latest 10,000Pa Robot Vacuum with Mop Is Now Selling for Pennies](https://kotaku.com/amazon-hits-roborock-hard-the-latest-10000pa-robot-vacuum-with-mop-is-now-selling-for-pennies-2000631953)
+ - [KPop Demon Hunters&#39; Huntrix makes live singing debut on SNL](https://www.polygon.com/kpop-demon-hunters-huntrix-live-golden-snl/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
