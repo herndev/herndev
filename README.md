@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Your ‘WTF Happened?’ Guide To All Of Xbox’s Game Pass Changes](https://kotaku.com/xbox-game-pass-ultimate-price-hike-cod-2000632122)
- - [Nintendo sues Reddit mod for $4.5M, says it&#39;s &#39;nowhere near&#39; enough money](https://www.polygon.com/nintendo-reddit-mod-lawsuit-money-amount-piracy-nintendo-switch/)
- - [The best guns in the Black Ops 7 beta in early access](https://www.polygon.com/black-ops-7-bo7-best-guns-weapons-meta/)<!-- GAME:END -->
+ - [Players Are Getting Jump-Scared By One OfFinal Fantasy Tactics’ Most Iconic Battles All Over Again](https://kotaku.com/final-fantasy-tactics-rare-battles-monks-grogh-heights-2000632127)
+ - [After making Closed Weapons almost invisible in the Battlefield 6 beta, DICE says Open Weapons is &#39;the right path forward&#39; because it was more popular](https://www.pcgamer.com/games/fps/after-making-closed-weapons-almost-invisible-in-the-battlefield-6-beta-dice-says-open-weapons-is-the-right-path-forward-because-it-was-more-popular/)
+ - [Ubisoft reveals the surprise free Assassin&#39;s Creed Mirage DLC, which just coincidentally happens to be set in a region the Saudi government wants to turn into an &#39;economic powerhouse&#39;](https://www.pcgamer.com/games/assassins-creed/ubisoft-reveals-the-surprise-free-assassins-creed-mirage-dlc-which-just-coincidentally-happens-to-be-set-in-a-region-the-saudi-government-wants-to-turn-into-an-economic-powerhouse/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
