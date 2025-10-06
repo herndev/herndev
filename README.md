@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The LEGO City Advent Calendar 2025 Sees a Third Price Cut, Now at Its Lowest Ever on Amazon](https://kotaku.com/the-lego-city-advent-calendar-2025-sees-a-third-price-cut-now-at-its-lowest-ever-on-amazon-2000631849)
- - [After years of being criticized as old-fashioned, turn-based RPGs are absolutely crushing it with new ideas](https://www.pcgamer.com/games/rpg/after-years-of-being-criticized-as-old-fashioned-turn-based-rpgs-are-absolutely-crushing-it-with-new-ideas/)
- - [Amazon Hits Meta Hard, the Quest 3S VR Bundle Just Got Suddenly a Lot Cheaper](https://kotaku.com/amazon-hits-meta-hard-the-quest-3s-vr-bundle-just-got-suddenly-a-lot-cheaper-2000631843)<!-- GAME:END -->
+ - [HP Just Cut Almost $2000 from Its EliteBook Laptop Packing Intel Core Ultra 7, 32GB DDR5 RAM, and 1TB SSD](https://kotaku.com/hp-just-cut-almost-2000-from-its-elitebook-laptop-packing-intel-core-ultra-7-32gb-ddr5-ram-and-1tb-ssd-2000631866)
+ - [EcoFlow Delta 2 Power Station Is Now Selling for Pennies, With 1800W AC and 100W USB-C Ports](https://kotaku.com/ecoflow-delta-2-power-station-is-now-selling-for-pennies-with-1800w-ac-and-100w-usb-c-ports-2000631861)
+ - [The LEGO City Advent Calendar 2025 Sees a Third Price Cut, Now at Its Lowest Ever on Amazon](https://kotaku.com/the-lego-city-advent-calendar-2025-sees-a-third-price-cut-now-at-its-lowest-ever-on-amazon-2000631849)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
