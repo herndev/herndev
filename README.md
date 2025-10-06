@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If Gaming Is in Your DNA, This Samsung G9 49″ OLED Curved Monitor Is $700+ Off on Amazon](https://kotaku.com/if-gaming-is-in-your-dna-this-samsung-g9-49-oled-curved-monitor-is-700-off-on-amazon-2000631621)
- - [Fabulous news everyone: Market analyst says the AI bubble is 17X bigger than the dotcom goldrush, and 4X larger than the subprime bubble that caused the 2008 crash](https://www.pcgamer.com/software/ai/fabulous-news-everyone-market-analyst-says-the-ai-bubble-is-17x-bigger-than-the-dotcom-goldrush-and-4x-larger-than-the-subprime-bubble-that-caused-the-2008-crash/)
- - [As Microsoft lays off thousands and jacks up Game Pass prices, former FTC chair says I told you so: The Activision-Blizzard buyout is &#39;harming both gamers and developers&#39;](https://www.pcgamer.com/gaming-industry/as-microsoft-lays-off-thousands-and-jacks-up-game-pass-prices-former-ftc-chair-says-i-told-you-so-the-activision-blizzard-buyout-is-harming-both-gamers-and-developers/)<!-- GAME:END -->
+ - [The LEGO City Advent Calendar 2025 Sees a Third Price Cut, Now at Its Lowest Ever on Amazon](https://kotaku.com/the-lego-city-advent-calendar-2025-sees-a-third-price-cut-now-at-its-lowest-ever-on-amazon-2000631849)
+ - [After years of being criticized as old-fashioned, turn-based RPGs are absolutely crushing it with new ideas](https://www.pcgamer.com/games/rpg/after-years-of-being-criticized-as-old-fashioned-turn-based-rpgs-are-absolutely-crushing-it-with-new-ideas/)
+ - [Amazon Hits Meta Hard, the Quest 3S VR Bundle Just Got Suddenly a Lot Cheaper](https://kotaku.com/amazon-hits-meta-hard-the-quest-3s-vr-bundle-just-got-suddenly-a-lot-cheaper-2000631843)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
