@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dbrand lets Android users drink the Cosmic Orange juice, too](https://www.theverge.com/news/792712/dbrand-android-device-skins-orange-apple-iphone-17-pro)
- - [Rivian CEO: &amp;#8216;We&amp;#8217;re really convicted&amp;#8217; about skipping CarPlay](https://www.theverge.com/podcast/790685/rivian-ceo-rj-scaringe-r2-tariffs-china-ev-apple-carplay)
- - [T-Mobile will soon begin phasing out LTE in favor of 5G](https://www.androidauthority.com/t-mobile-5g-refarm-3604285/)<!-- TECH:END -->
+ - [SwitchBot’s new safety tracker can discreetly trigger a fake phone call](https://www.theverge.com/news/791676/switchbot-safety-alarm-apple-find-my-siren-light)
+ - [Your next phone might come without a USB cable](https://www.androidauthority.com/smartphones-losing-bundled-usb-cables-3604292/)
+ - [Google DeepMind unveils CodeMender, an AI agent that autonomously detects, patches, and rewrites vulnerable code, leveraging Gemini Deep Think models &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251006/p21#a251006p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
