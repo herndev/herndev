@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Monzo is considering a new application for a US banking license, hoping for approval amid Trump&#39;s deregulation push, after dropping a 2021 attempt &lpar;Laith Al-Khalaf/Financial Times&rpar;](http://www.techmeme.com/251005/p26#a251005p26)
- - [Best Bluetooth Speaker for 2025](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)
- - [A profile of EA CEO Andrew Wilson, who is expected to stay in the role, as Silver Lake&#39;s Egon Durban hails him for building EA&#39;s &quot;crown jewel&quot; sports business &lpar;Isabella Simonetti/Wall Street Journal&rpar;](http://www.techmeme.com/251005/p25#a251005p25)<!-- TECH:END -->
+ - [Confused about the latest Google Home changes? Google just answered your top questions](https://www.androidauthority.com/google-home-changes-decoded-3604079/)
+ - [Melbourne-based Heidi Health, which is developing AI agents to assist doctors, raised a $65M Series B led by Point72, taking its total raised to $96.6M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251006/p2#a251006p2)
+ - [A basket tracking stocks of 10 European data center operators and infrastructure providers surged 23% in 2025, topping the Nasdaq 100, driven by the AI boom &lpar;Bloomberg&rpar;](http://www.techmeme.com/251006/p1#a251006p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
