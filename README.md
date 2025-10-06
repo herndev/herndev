@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [John Giannandrea wasn&#39;t Apple&#39;s AI savior, and the company may be looking for a replacement](https://appleinsider.com/articles/25/10/05/john-gianandrea-wasnt-apples-ai-savior-and-the-company-may-be-looking-for-a-replacement?utm_source=rss)
- - [Inside Parental Controls -- How it works in iOS 26 and iPadOS 26](https://appleinsider.com/inside/ios-26/tips/inside-parental-controls----how-it-works-in-ios-26-and-ipados-26?utm_source=rss)
- - [AMD teams up with OpenAI to challenge Nvidia&amp;#8217;s AI chip dominance](https://www.theverge.com/news/792650/amd-openai-five-year-ai-chip-agreement)<!-- TECH:END -->
+ - [6 Best Mesh Wi-Fi Systems &lpar;2025&rpar;, Tested in a Tech Reviewer&#39;s Home](https://www.wired.com/story/best-mesh-wifi-routers/)
+ - [Verizon names Dan Schulman as CEO, replacing Hans Vestberg effective immediately; Schulman was PayPal CEO, and Vestberg will help manage the transition &lpar;Molly Schuetz/Bloomberg&rpar;](http://www.techmeme.com/251006/p17#a251006p17)
+ - [Fictional characters are &lpar;officially&rpar; coming to Sora as OpenAI manages copyright chaos](https://www.theverge.com/news/792661/sora-fictional-copyright-characters)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
