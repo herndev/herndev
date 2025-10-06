@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
- - ⏩ [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
+ - 💣 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
+ - ⏩ [Fall is here](http://9gag.com/gag/aD2NZdO)
  - 👉 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)<!-- MEMES:END -->
 
 ---
