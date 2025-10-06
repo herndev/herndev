@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Your ‘WTF Happened?’ Guide To All Of Xbox’s Game Pass Changes](https://kotaku.com/xbox-game-pass-ultimate-price-hike-cod-2000632122)
  - [Nintendo sues Reddit mod for $4.5M, says it&#39;s &#39;nowhere near&#39; enough money](https://www.polygon.com/nintendo-reddit-mod-lawsuit-money-amount-piracy-nintendo-switch/)
- - [The best guns in the Black Ops 7 beta in early access](https://www.polygon.com/black-ops-7-bo7-best-guns-weapons-meta/)
- - [Most Movies Are ‘S***’ So Ridley Scott Just Goes Back And Watches His Own](https://kotaku.com/ridley-scott-alien-napoleon-gladiator-hollywood-2000632106)<!-- GAME:END -->
+ - [The best guns in the Black Ops 7 beta in early access](https://www.polygon.com/black-ops-7-bo7-best-guns-weapons-meta/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
