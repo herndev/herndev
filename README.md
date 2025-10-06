@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So scary!](http://9gag.com/gag/amoboW4)
- - ⏩ [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
- - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
+ - 💣 [Damned spawn campers](http://9gag.com/gag/avyX1jX)
+ - ⏩ [How deep is your love](http://9gag.com/gag/aByNVXA)
+ - 👉 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)<!-- MEMES:END -->
 
 ---
 
