@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [25 years later, Digimon: The Movie still doesn&#39;t get the credit it deserves](https://www.polygon.com/digimon-the-movie-25-years-anniversary-anime-box-office/)
- - [Amazon Drops LEGO Deals Big for Prime Day, Mini F1 Car Toys Now Selling for $3 Each](https://kotaku.com/amazon-drops-lego-deals-big-for-prime-day-mini-f1-car-toys-now-selling-for-3-each-2000632056)
- - [Activision claims 97% of cheaters it catches in Call of Duty: Black Ops 7 are banned within 30 minutes, thanks to secure boot and Ricochet](https://www.pcgamer.com/games/fps/activision-claims-97-percent-of-cheaters-it-catches-in-call-of-duty-black-ops-7-are-banned-within-30-minutes-thanks-to-secure-boot-and-ricochet/)<!-- GAME:END -->
+ - [Nintendo sues Reddit mod for $4.5M, says it&#39;s &#39;nowhere near&#39; enough money](https://www.polygon.com/nintendo-reddit-mod-lawsuit-money-amount-piracy-nintendo-switch/)
+ - [The best guns in the Black Ops 7 beta in early access](https://www.polygon.com/black-ops-7-bo7-best-guns-weapons-meta/)
+ - [Most Movies Are ‘S***’ So Ridley Scott Just Goes Back And Watches His Own](https://kotaku.com/ridley-scott-alien-napoleon-gladiator-hollywood-2000632106)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
