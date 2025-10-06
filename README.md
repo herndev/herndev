@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s one way to crack a smile](http://9gag.com/gag/agmZ7vw)
- - ⏩ [Damned spawn campers](http://9gag.com/gag/avyX1jX)
+ - 💣 [Damned spawn campers](http://9gag.com/gag/avyX1jX)
+ - ⏩ [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
  - 👉 [Sport](http://9gag.com/gag/aVv1E6d)<!-- MEMES:END -->
 
 ---
