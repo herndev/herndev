@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This 16-Inch Laptop Just Won Best Buy&#39;s Techtober Sale](https://www.wired.com/story/acer-swift-16-ai-deal-best-buy-techtober-2025/)
- - [OpenAI&#39;s Blockbuster AMD Deal Is a Bet on Near-Limitless Demand for AI](https://www.wired.com/story/openai-amd-deal-data-center-chips/)
- - [OpenAI makes Codex generally available, and announces new features: Slack integration, a new Codex SDK, and new admin tools &lpar;OpenAI&rpar;](http://www.techmeme.com/251006/p32#a251006p32)<!-- TECH:END -->
+ - [Ember Smart Mug 2 deal: Winter is coming, so don’t let your coffee get cold!](https://www.androidauthority.com/ember-smart-mug-2-deal-2-3604018/)
+ - [SwitchBot’s new tracker could help save you from threats by sending you a ghost call](https://www.androidauthority.com/switchbot-safety-tracker-launch-3604459/)
+ - [What&#39;s new in iPadOS 26.1 beta 2: Slide Over returns, visual tweaks](https://appleinsider.com/articles/25/10/06/whats-new-in-ipados-261-beta-2-slide-over-returns-visual-tweaks?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
