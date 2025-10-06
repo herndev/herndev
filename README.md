@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech companies in the UK, Canada, and elsewhere seek talent amid the US H-1B clampdown, though some skeptics doubt Trump&#39;s policies will spur a tech boom abroad &lpar;Financial Times&rpar;](http://www.techmeme.com/251006/p10#a251006p10)
- - [Mark your calendars: Android 16 is finally coming to OnePlus flagships this month](https://www.androidauthority.com/oneplus-oxygen-os-16-android-16-october-launch-3604143/)
- - [Google is confusing Home users with Nest Aware and Google One plan changes](https://www.androidauthority.com/google-one-home-pricing-change-3604121/)<!-- TECH:END -->
+ - [Asahi restarted production at six Japanese breweries on October 2 after a cyberattack forced it to halt production and shipments for days, and is investigating &lpar;Bloomberg&rpar;](http://www.techmeme.com/251006/p11#a251006p11)
+ - [Samsung Galaxy S22 is getting its fourth and final major Android update](https://www.androidauthority.com/samsung-galaxy-s22-one-ui-8-android-16-update-3604172/)
+ - [The pocket-friendly OnePlus 15T could almost defy physics with a giant battery](https://www.androidauthority.com/oneplus-15s-15t-leaked-specs-3604139/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
