@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SwitchBot’s new safety tracker can discreetly trigger a fake phone call](https://www.theverge.com/news/791676/switchbot-safety-alarm-apple-find-my-siren-light)
- - [Your next phone might come without a USB cable](https://www.androidauthority.com/smartphones-losing-bundled-usb-cables-3604292/)
- - [Google DeepMind unveils CodeMender, an AI agent that autonomously detects, patches, and rewrites vulnerable code, leveraging Gemini Deep Think models &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251006/p21#a251006p21)<!-- TECH:END -->
+ - [As part of the OpenAI-AMD deal, OpenAI will receive the first GW worth of AMD&#39;s Instinct MI450 chip in H2 2026, when the new chip is scheduled for deployment &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251006/p23#a251006p23)
+ - [Google &amp; Amazon&#39;s smart home events on the HomeKit Insider Podcast](https://appleinsider.com/articles/25/10/06/google-amazons-smart-home-events-on-the-homekit-insider-podcast?utm_source=rss)
+ - [Google Maps Timeline error leaves users unable to access location history](https://www.androidauthority.com/google-maps-timeline-backup-error-3604303/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
