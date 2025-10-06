@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s always-on AI device is plagued by various issues](https://www.androidauthority.com/openai-jony-ive-ai-device-issues-3604088/)
- - [A book excerpt details the &quot;enshittification&quot; of Amazon, and how its &quot;flywheel&quot; technique now enriches the company at the expense of merchants &lpar;Cory Doctorow/The Guardian&rpar;](http://www.techmeme.com/251006/p5#a251006p5)
- - [A look at cost and viability concerns over small nuclear reactors in the US, as the government, tech companies, and investors bet on SMRs to power the AI boom &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/251006/p4#a251006p4)<!-- TECH:END -->
+ - [The European Securities and Markets Authority plans to centralize the regulation of stock exchanges, crypto companies, and clearing houses at an EU level &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/251006/p7#a251006p7)
+ - [The Pixel 10 is going viral for struggling with a major Android game](https://www.androidauthority.com/pixel-10-genshin-impact-gpu-problem-3604104/)
+ - [A look at OpenAI&#39;s search for the sites of its Stargate data centers in the US; OpenAI has received 800+ applications since January and has 20 finalist sites &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251006/p6#a251006p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
