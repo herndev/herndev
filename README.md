@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A major brand is teasing a ‘hybrid phone’ and we have questions](https://www.androidauthority.com/hmd-touch-4g-hybrid-phone-3604182/)
- - [The 7 Best Milk Frothers for Your Home Espresso Setup &lpar;2025&rpar;](https://www.wired.com/gallery/best-milk-frothers/)
- - [I didn’t realize how much I’d miss Samsung Routines until I switched to a Pixel](https://www.androidauthority.com/pixel-rules-disappointment-samsung-routines-comparison-3603399/)<!-- TECH:END -->
+ - [John Giannandrea wasn&#39;t Apple&#39;s AI savior, and the company may be looking for a replacement](https://appleinsider.com/articles/25/10/05/john-gianandrea-wasnt-apples-ai-savior-and-the-company-may-be-looking-for-a-replacement?utm_source=rss)
+ - [Inside Parental Controls -- How it works in iOS 26 and iPadOS 26](https://appleinsider.com/inside/ios-26/tips/inside-parental-controls----how-it-works-in-ios-26-and-ipados-26?utm_source=rss)
+ - [AMD teams up with OpenAI to challenge Nvidia&amp;#8217;s AI chip dominance](https://www.theverge.com/news/792650/amd-openai-five-year-ai-chip-agreement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
