@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
- - ⏩ [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
- - 👉 [How deep is your love](http://9gag.com/gag/aByNVXA)<!-- MEMES:END -->
+ - 💣 [Fall is here](http://9gag.com/gag/aD2NZdO)
+ - ⏩ [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
+ - 👉 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)<!-- MEMES:END -->
 
 ---
 
