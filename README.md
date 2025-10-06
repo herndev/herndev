@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coupa, a Thoma Bravo-owned supply chain tech company, acquires procurement tech startup Scoutbee, with the deal expected to close by the end of October &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/251006/p26#a251006p26)
- - [WIRED Roundup: The New Fake World of OpenAI’s Social Video App](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-the-new-fake-world-of-openais-social-video-app/)
- - [The DOJ and Google wrap up a two-week remedies hearing in the US v. Google ad tech trial; both sides will offer closing arguments in November &lpar;New York Times&rpar;](http://www.techmeme.com/251006/p25#a251006p25)<!-- TECH:END -->
+ - [Google may be planning to drop Samsung for the Tensor G6’s modem for a very good reason](https://www.androidauthority.com/tensor-g6-mediatek-modem-3604389/)
+ - [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)
+ - [OpenAI will let developers build apps that work inside ChatGPT](https://www.theverge.com/news/793039/openai-chatgpt-apps-developers-sdk-canva-zillow-devday-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
