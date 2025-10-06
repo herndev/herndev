@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ember Smart Mug 2 deal: Winter is coming, so don’t let your coffee get cold!](https://www.androidauthority.com/ember-smart-mug-2-deal-2-3604018/)
- - [SwitchBot’s new tracker could help save you from threats by sending you a ghost call](https://www.androidauthority.com/switchbot-safety-tracker-launch-3604459/)
- - [What&#39;s new in iPadOS 26.1 beta 2: Slide Over returns, visual tweaks](https://appleinsider.com/articles/25/10/06/whats-new-in-ipados-261-beta-2-slide-over-returns-visual-tweaks?utm_source=rss)<!-- TECH:END -->
+ - [iPhone Designer Jony Ive Is Reportedly Running Into Snags With AI Project](https://www.cnet.com/tech/services-and-software/iphone-designer-jony-ive-is-reportedly-running-into-snags-with-ai-project/#ftag=CAD590a51e)
+ - [Cerebras CEO Andrew Feldman says the AI chipmaker pulled its IPO filing to share updated financials, admitting it was a mistake not to explain the move sooner &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251006/p36#a251006p36)
+ - [Starlink Slashes Prices on Equipment and Monthly Service Ahead of Prime Day](https://www.cnet.com/home/internet/starlink-slashes-prices-on-equipment-and-monthly-service-ahead-of-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
