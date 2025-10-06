@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: former Databricks AI chief Naveen Rao is in talks to raise $1B led by a16z at a $5B valuation for his new AI hardware startup Unconventional &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251003/p26#a251003p26)
- - [Coinbase applies for a national trust company charter, says it &quot;has no intention of becoming a bank&quot; and the charter will allow expansion in areas like payments &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251003/p25#a251003p25)
- - [Apple&#39;s removal of ICEBlock raises questions about the limits of what the company will resist under the Trump administration&#39;s increasingly outrageous demands &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/251003/p24#a251003p24)<!-- TECH:END -->
+ - [PitchBook: US VCs have invested ~$14.2B in European AI startups so far in 2025, with founders saying US investors better fit the sector&#39;s high upfront costs &lpar;Anvee Bhutani/Wall Street Journal&rpar;](http://www.techmeme.com/251005/p21#a251005p21)
+ - [Scorability, a college sports recruiting marketplace for athletes and coaches, raised $40M led by Bluestone Equity Partners, bringing its total funding to $51M &lpar;Jessica Golden/CNBC&rpar;](http://www.techmeme.com/251005/p20#a251005p20)
+ - [Polars, the Amsterdam-based startup behind the popular open-source library for data manipulation of the same name, raised a €18M Series A led by Accel &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251005/p19#a251005p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
