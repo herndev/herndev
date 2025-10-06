@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
- - ⏩ [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
- - 👉 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)<!-- MEMES:END -->
+ - 💣 [How deep is your love](http://9gag.com/gag/aByNVXA)
+ - ⏩ [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
+ - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
 
 ---
 
