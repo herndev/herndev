@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damned spawn campers](http://9gag.com/gag/avyX1jX)
- - ⏩ [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
- - 👉 [Sport](http://9gag.com/gag/aVv1E6d)<!-- MEMES:END -->
+ - 💣 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
+ - ⏩ [Damned spawn campers](http://9gag.com/gag/avyX1jX)
+ - 👉 [How deep is your love](http://9gag.com/gag/aByNVXA)<!-- MEMES:END -->
 
 ---
 
