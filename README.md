@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As part of the OpenAI-AMD deal, OpenAI will receive the first GW worth of AMD&#39;s Instinct MI450 chip in H2 2026, when the new chip is scheduled for deployment &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251006/p23#a251006p23)
- - [Google &amp; Amazon&#39;s smart home events on the HomeKit Insider Podcast](https://appleinsider.com/articles/25/10/06/google-amazons-smart-home-events-on-the-homekit-insider-podcast?utm_source=rss)
- - [Google Maps Timeline error leaves users unable to access location history](https://www.androidauthority.com/google-maps-timeline-backup-error-3604303/)<!-- TECH:END -->
+ - [Coupa, a Thoma Bravo-owned supply chain tech company, acquires procurement tech startup Scoutbee, with the deal expected to close by the end of October &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/251006/p26#a251006p26)
+ - [WIRED Roundup: The New Fake World of OpenAI’s Social Video App](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-the-new-fake-world-of-openais-social-video-app/)
+ - [The DOJ and Google wrap up a two-week remedies hearing in the US v. Google ad tech trial; both sides will offer closing arguments in November &lpar;New York Times&rpar;](http://www.techmeme.com/251006/p25#a251006p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
