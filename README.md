@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Strikes Samsung SSDs Hard, Now the 2TB 990 PRO SSD Is Selling at a New Record Low](https://kotaku.com/amazon-strikes-samsung-ssds-hard-now-the-2tb-990-pro-ssd-is-selling-at-a-new-record-low-2000631957)
- - [Amazon Hits Roborock Hard, The Latest 10,000Pa Robot Vacuum with Mop Is Now Selling for Pennies](https://kotaku.com/amazon-hits-roborock-hard-the-latest-10000pa-robot-vacuum-with-mop-is-now-selling-for-pennies-2000631953)
- - [KPop Demon Hunters&#39; Huntrix makes live singing debut on SNL](https://www.polygon.com/kpop-demon-hunters-huntrix-live-golden-snl/)<!-- GAME:END -->
+ - [Minecraft streamer completes 14-year journey to the Far Lands](https://www.polygon.com/minecraft-far-lands-14-year-journey/)
+ - [JBL Quietly Offloads the Waterproof Flip 5 Speaker, Now Listed for Pennies on Amazon](https://kotaku.com/jbl-quietly-offloads-the-waterproof-flip-5-speaker-now-listed-for-pennies-on-amazon-2000631979)
+ - [Pokémon And Magic Are At Risk Of Losing An Entire Generation Of Players](https://kotaku.com/pokemon-magic-the-gathering-scalpers-cards-2000632017)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
