@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google may be planning to drop Samsung for the Tensor G6’s modem for a very good reason](https://www.androidauthority.com/tensor-g6-mediatek-modem-3604389/)
- - [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)
- - [OpenAI will let developers build apps that work inside ChatGPT](https://www.theverge.com/news/793039/openai-chatgpt-apps-developers-sdk-canva-zillow-devday-2025)<!-- TECH:END -->
+ - [This 16-Inch Laptop Just Won Best Buy&#39;s Techtober Sale](https://www.wired.com/story/acer-swift-16-ai-deal-best-buy-techtober-2025/)
+ - [OpenAI&#39;s Blockbuster AMD Deal Is a Bet on Near-Limitless Demand for AI](https://www.wired.com/story/openai-amd-deal-data-center-chips/)
+ - [OpenAI makes Codex generally available, and announces new features: Slack integration, a new Codex SDK, and new admin tools &lpar;OpenAI&rpar;](http://www.techmeme.com/251006/p32#a251006p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
