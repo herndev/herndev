@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
- - ⏩ [Fall is here](http://9gag.com/gag/aD2NZdO)
- - 👉 [No idea why\u2026](http://9gag.com/gag/a34p8nv)<!-- MEMES:END -->
+ - 💣 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - ⏩ [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - 👉 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)<!-- MEMES:END -->
 
 ---
 
