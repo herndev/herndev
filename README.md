@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA resurrects nearly 20-year-old &#39;MySims&#39; games for Apple Arcade this November](https://appleinsider.com/articles/25/10/07/ea-resurrects-nearly-20-year-old-mysims-games-for-apple-arcade-this-november?utm_source=rss)
- - [New California Law Tells Loud Ads on Streaming Services to Pipe Down](https://www.cnet.com/tech/services-and-software/new-california-law-tells-loud-ads-on-streaming-services-to-pipe-down/#ftag=CAD590a51e)
- - [Sources: Tesla abandoned Elon Musk&#39;s goal to make thousands of Optimus robots in 2025 due to significant technical challenges, especially with the robots&#39; hands &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/251007/p18#a251007p18)<!-- TECH:END -->
+ - [Boox’s next smartphone-sized e-reader has a color screen and a stylus](https://www.theverge.com/news/794751/onyx-boox-p6-pro-e-ink-reader-smartphone-color-palma)
+ - [Mastodon plans to add Bluesky-like starter packs to suggest accounts to follow for new users, but will allow accounts to opt out of being included in Packs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251007/p23#a251007p23)
+ - [Meta updates Reels on Facebook to prioritize showing fresher and more-relevant content, and adds AI search suggestions and friend bubbles like on Instagram &lpar;Katelyn Chedraoui/CNET&rpar;](http://www.techmeme.com/251007/p22#a251007p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
