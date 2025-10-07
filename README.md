@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sharing old coupon for new veterans... Still valid.](http://9gag.com/gag/a7o6V6x)
- - ⏩ [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
- - 👉 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)<!-- MEMES:END -->
+ - 💣 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
+ - ⏩ [Fall is here](http://9gag.com/gag/aD2NZdO)
+ - 👉 [No idea why\u2026](http://9gag.com/gag/a34p8nv)<!-- MEMES:END -->
 
 ---
 
