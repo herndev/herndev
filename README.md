@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $150 on Apple Watch styles for Fall Prime Day, prices from $169](https://appleinsider.com/articles/25/10/07/save-up-to-150-on-apple-watch-styles-for-fall-prime-day-prices-from-169?utm_source=rss)
- - [Expand your Apple smart home with up to 48% off Aqara gear for Amazon Prime Big Deal Days](https://appleinsider.com/articles/25/10/07/expand-your-apple-smart-home-with-up-to-48-off-aqara-gear-for-amazon-prime-big-deal-days?utm_source=rss)
- - [Prime Big Deal Days special: AirPods 4 plunge to $89](https://appleinsider.com/articles/25/10/05/early-prime-big-deal-days-special-airpods-4-plunge-to-89?utm_source=rss)<!-- TECH:END -->
+ - [Galaxy S26 Plus or S26 Edge? Survey reveals what you really want.](https://www.androidauthority.com/samsung-galaxy-s26-edge-plus-poll-results-3604707/)
+ - [Samsung’s next smart calling trick looks straight out of Google’s Pixel playbook](https://www.androidauthority.com/one-ui-8-5-automatic-call-screening-more-control-apk-teardown-3604709/)
+ - [Best Amazon Prime Day Mattress Deals &lpar;2025&rpar;: Casper, Helix, Birch](https://www.wired.com/story/best-amazon-prime-day-mattress-and-sleep-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
