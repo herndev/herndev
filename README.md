@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur’s Gate 3 Dev Calls Out Elon Musk’s AI Game Promise](https://kotaku.com/baldurs-gate-3-larian-studios-elon-musk-ai-xai-douse-2000632638)
- - [Everything We Know About Resident Evil: Requiem](https://kotaku.com/resident-evil-requiem-9-capcom-grace-leon-2000632633)
- - [The first gameplay footage from Astroneer studio&#39;s next space game looks like co-op chaos on colorful planets, but I&#39;m not crazy about the idea of timed missions in a hangout game](https://www.pcgamer.com/games/action/the-first-gameplay-footage-from-astroneer-studios-next-space-game-looks-like-co-op-chaos-on-colorful-planets-but-im-not-crazy-about-the-idea-of-timed-missions-in-a-hangout-game/)<!-- GAME:END -->
+ - [Jimmy Fallon Is Trying To Make Wordle Into A Game Show](https://kotaku.com/wordle-jimmy-fallon-game-show-host-nbc-savannah-guthrie-2000632667)
+ - [Diablo 4 is gearing up for another major loot overhaul before its next expansion arrives next year](https://www.pcgamer.com/games/rpg/diablo-4-is-gearing-up-for-another-major-loot-overhaul-before-its-next-expansion-arrives-next-year/)
+ - [New Report Finds Most People Barely Buy Two Games A Year](https://kotaku.com/how-many-games-people-buy-each-year-gta-6-madden-2000632641)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
