@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Score the Samsung Galaxy Buds FE at 45% off in an unbeaten Prime Day deal](https://www.androidauthority.com/samsung-galaxy-buds-fe-prime-day-3605024/)
- - [75 Best Prime Day Deals Under $100 &lpar;2025&rpar;: Chargers, Earbuds, and More](https://www.wired.com/story/best-prime-day-deals-under-100-october-2025/)
- - [The Tesla Model Y and Model 3 Standard Are Cheaper—but Still Not Cheap](https://www.wired.com/story/tesla-model-y-and-model-3-standard-are-cheaper-but-still-not-cheap/)<!-- TECH:END -->
+ - [Save $300 on the Samsung Galaxy S25 Plus flagship](https://www.androidauthority.com/samsung-galaxy-s25-plus-deal-2-3604576/)
+ - [Big Tech is ‘donating’ to Trump’s ‘nonprofits’](https://www.theverge.com/column/794975/big-tech-trump-nonprofits-donations-regulator)
+ - [Google&amp;#8217;s latest AI model uses a web browser like you do](https://www.theverge.com/news/795463/google-computer-use-gemini-ai-model-agents)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
