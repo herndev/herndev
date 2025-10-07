@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This MacBook Air &lpar;M4, 256GB, 16GB RAM&rpar;, Now Costs Half the Price of a Pro, Amazon Rushes to Clear Out Space](https://kotaku.com/this-macbook-air-m4-256gb-16gb-ram-now-costs-half-the-price-of-a-pro-amazon-rushes-to-clear-out-space-2000632140)
- - [This 2025 iPad Is Now 3x Cheaper Than the iPad Pro, Amazon Clears Stock at a Record Low](https://kotaku.com/this-2025-ipad-is-now-3x-cheaper-than-the-ipad-pro-amazon-clears-stock-at-a-record-low-2000631789)
- - [One Of My Most Anticipated Games Just Got Indefinitely Delayed](https://kotaku.com/shovel-knight-sequel-mina-hollower-delay-yacht-club-2000632148)<!-- GAME:END -->
+ - [The 22,000 Pa Roborock With Mop Delivers Luxury Cleaning Power, Now at Its Lowest Price for Prime Members.](https://kotaku.com/the-22000-pa-roborock-with-mop-delivers-luxury-cleaning-power-now-at-its-lowest-price-for-prime-members-2000632151)
+ - [Co-op dino survival horror game Deathground prepares to launch with one final reminder that, no, &#39;you won&#39;t be able to play as a dinosaur&#39;](https://www.pcgamer.com/games/survival-crafting/co-op-dino-survival-horror-game-deathground-prepares-to-launch-with-one-final-reminder-that-no-you-wont-be-able-to-play-as-a-dinosaur/)
+ - [Activision extends the Black Ops 7 beta to wrap up just 24 hours before Battlefield 6 launches](https://www.pcgamer.com/games/call-of-duty/activision-extends-the-black-ops-7-beta-to-wrap-up-just-24-hours-before-battlefield-6-launches/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
