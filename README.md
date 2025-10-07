@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The Google Pixel 10 Pro’s first significant price cut brings it down to $799](https://www.androidauthority.com/google-pixel-10-pro-deal-3604581/)
- - [The Verge&amp;#8217;s Guide to Amazon&amp;#8217;s October Prime Day Event 2025](https://www.theverge.com/tech/782478/october-amazon-prime-day-deals-guide)
- - [The best laptop deals you can get for Amazon’s October Prime Day](https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple)<!-- TECH:END -->
+ - [AltStore&amp;#8217;s alternative iPhone app store is coming to more countries](https://www.theverge.com/news/795173/altstore-alternative-ios-iphone-app-store-more-countries-fediverse-social-web)
+ - [Amazon&amp;#8217;s latest Kindle Paperwhite just got its first price drop of the year](https://www.theverge.com/tech/794864/amazon-october-prime-day-kindle-paperwhite-deal-sale)
+ - [The 185 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
