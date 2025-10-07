@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Wi-Fi Extenders of 2025](https://www.cnet.com/home/internet/best-wifi-extenders/#ftag=CAD590a51e)
- - [Google launches a dedicated AI bug bounty program that offers security researchers up to $30,000 for finding vulnerabilities in its AI products &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/251006/p41#a251006p41)
- - [Microsoft is plugging more holes that let you use Windows 11 without an online account](https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes)<!-- TECH:END -->
+ - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
+ - [Apps in ChatGPT could be OpenAI&#39;s most ambitious platform play to date, drawing parallels with Facebook&#39;s 2007 efforts to become a platform via social graph &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/251006/p43#a251006p43)
+ - [The Supreme Court didn’t save Google from Epic, and now the clock is ticking](https://www.theverge.com/news/793610/google-epic-android-supreme-court-stay-denied)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
