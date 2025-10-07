@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages will now ensure you don’t get unwillingly flashed in videos](https://www.androidauthority.com/google-messages-sensitive-nudity-content-warnings-videos-3604668/)
- - [OpenAI&#39;s computing deals with Nvidia, AMD, Oracle, and others have topped $1T, commitments that dwarf its revenue and raise questions about how it can fund them &lpar;Financial Times&rpar;](http://www.techmeme.com/251007/p1#a251007p1)
- - [Google starts rolling out Gemini for Home to early access users](https://www.androidauthority.com/gemini-for-home-rollout-3604660/)<!-- TECH:END -->
+ - [Galaxy S23 series owners in the US are finally getting stable One UI 8](https://www.androidauthority.com/samsung-galaxy-s23-one-ui-8-usa-3604225/)
+ - [You can now find your favorite tracks, create playlists on Spotify using ChatGPT](https://www.androidauthority.com/spotify-chatgpt-integration-3604692/)
+ - [Google Messages will now ensure you don’t get unwillingly flashed in videos](https://www.androidauthority.com/google-messages-sensitive-nudity-content-warnings-videos-3604668/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
