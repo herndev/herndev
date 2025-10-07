@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Messages will now ensure you don’t get unwillingly flashed in videos](https://www.androidauthority.com/google-messages-sensitive-nudity-content-warnings-videos-3604668/)
  - [OpenAI&#39;s computing deals with Nvidia, AMD, Oracle, and others have topped $1T, commitments that dwarf its revenue and raise questions about how it can fund them &lpar;Financial Times&rpar;](http://www.techmeme.com/251007/p1#a251007p1)
- - [Google starts rolling out Gemini for Home to early access users](https://www.androidauthority.com/gemini-for-home-rollout-3604660/)
- - [Pixel 10 is going viral for struggling with a major Android game &lpar;Updated: Google statement&rpar;](https://www.androidauthority.com/pixel-10-genshin-impact-gpu-problem-3604104/)<!-- TECH:END -->
+ - [Google starts rolling out Gemini for Home to early access users](https://www.androidauthority.com/gemini-for-home-rollout-3604660/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
