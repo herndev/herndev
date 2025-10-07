@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
- - ⏩ [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 👉 [Screw anything &amp; everything in that room](http://9gag.com/gag/ajPMxp8)<!-- MEMES:END -->
+ - 💣 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - ⏩ [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
+ - 👉 [How deep is your love](http://9gag.com/gag/aByNVXA)<!-- MEMES:END -->
 
 ---
 
