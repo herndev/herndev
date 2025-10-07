@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie’s Marathon Resurfaces To Test One Of Players’ Most-Requested Gameplay Features](https://kotaku.com/marathon-bungie-playtest-plagiarism-ttk-prox-chat-2000632553)
- - [New Studio Ghibli artbook is out today, and it&#39;s as gorgeous as you&#39;d expect](https://www.polygon.com/studio-ghibli-art-book-painting-the-worlds/)
- - [This Crucial P310 SSD Now Costs Only Cents per GB, A Steal for Steam Deck or ROG Ally Storage Upgrade](https://kotaku.com/amazon-clears-out-crucial-p310-ssd-costing-only-cents-per-gb-with-up-to-almost-50-off-for-prime-day-2000632109)<!-- GAME:END -->
+ - [One of the best Call of Duty guns ever is back with a bang in Black Ops 7](https://www.polygon.com/black-ops-7-m8a1-call-of-duty-bo7/)
+ - [Microsoft is planning to make it harder than ever to install Windows without an internet connection and a Microsoft account](https://www.pcgamer.com/software/windows/microsoft-is-planning-to-make-it-harder-than-ever-to-install-windows-without-an-internet-connection-and-a-microsoft-account/)
+ - [Whether Samsung Likes It or Not, Amazon Just Slashed the 49″ Odyssey OLED Gaming Monitor by Almost 50% for Prime Day](https://kotaku.com/samsungs-wildest-49-inch-odyssey-oled-curved-gaming-monitor-is-going-for-45-less-with-this-deal-2000631874)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
