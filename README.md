@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Telltale-esque superhero management sim Dispatch was originally going to be a live-action TV show before it became a videogame, but then &#39;a thing called Covid hit&#39;](https://www.pcgamer.com/games/adventure/telltale-esque-superhero-management-sim-dispatch-was-originally-going-to-be-a-live-action-tv-show-before-it-became-a-videogame-but-then-a-thing-called-covid-hit/)
- - [All Evade codes for October 2025: Points and Badges](https://www.pcgamer.com/roblox/evade-codes/)
- - [Black Ops 7 beta extended by 24 hours and new map added](https://www.polygon.com/black-ops-7-bo7-beta-extended-new-map/)<!-- GAME:END -->
+ - [DJI Is Quietly Offloading Its Mini 4K Drones, Now Selling at a New Record Low Price on Amazon](https://kotaku.com/dji-is-quietly-offloading-its-mini-4k-drones-now-selling-at-a-new-record-low-price-on-amazon-2000632469)
+ - [Zelda Williams ethers AI &#39;tributes&#39; to her dead dad: &#39;You’re making disgusting, over-processed hotdogs out of the lives of human beings&#39;](https://www.pcgamer.com/software/ai/zelda-williams-ethers-ai-tributes-to-her-dead-dad-youre-making-disgusting-over-processed-hotdogs-out-of-the-lives-of-human-beings/)
+ - [This Samsung Odyssey Gaming Monitor Is Practically Free With Prime Day Discount, Priced Like a Portable Screen](https://kotaku.com/this-samsung-odyssey-gaming-monitor-is-practically-free-with-prime-day-discount-priced-like-a-portable-screen-2000632141)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
