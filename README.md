@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - ⏩ [My nightmares be like](http://9gag.com/gag/aryrZbV)
- - 👉 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
+ - 💣 [Sharing old coupon for new veterans... Still valid.](http://9gag.com/gag/a7o6V6x)
+ - ⏩ [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
+ - 👉 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)<!-- MEMES:END -->
 
 ---
 
