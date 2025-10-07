@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
- - [Apps in ChatGPT could be OpenAI&#39;s most ambitious platform play to date, drawing parallels with Facebook&#39;s 2007 efforts to become a platform via social graph &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/251006/p43#a251006p43)
- - [The Supreme Court didn’t save Google from Epic, and now the clock is ticking](https://www.theverge.com/news/793610/google-epic-android-supreme-court-stay-denied)<!-- TECH:END -->
+ - [Jony Ive Says He Wants His OpenAI Devices to ‘Make Us Happy’](https://www.wired.com/story/sam-altman-and-jony-ives-ai-device-dev-day/)
+ - [Best Electric Toothbrushes You Can Buy in 2025, Tested by Experts](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
+ - [How to See the Spectacular Supermoon Dominate the Sky on Monday](https://www.cnet.com/science/space/how-to-see-the-spectacular-supermoon-dominate-the-sky-on-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
