@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me the last years as a gold investor](http://9gag.com/gag/aRBNz7Q)
- - ⏩ [No idea why\u2026](http://9gag.com/gag/a34p8nv)
- - 👉 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)<!-- MEMES:END -->
+ - 💣 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - ⏩ [Me the last years as a gold investor](http://9gag.com/gag/aRBNz7Q)
+ - 👉 [No idea why\u2026](http://9gag.com/gag/a34p8nv)<!-- MEMES:END -->
 
 ---
 
