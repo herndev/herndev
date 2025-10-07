@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One of the best Call of Duty guns ever is back with a bang in Black Ops 7](https://www.polygon.com/black-ops-7-m8a1-call-of-duty-bo7/)
- - [Microsoft is planning to make it harder than ever to install Windows without an internet connection and a Microsoft account](https://www.pcgamer.com/software/windows/microsoft-is-planning-to-make-it-harder-than-ever-to-install-windows-without-an-internet-connection-and-a-microsoft-account/)
- - [Whether Samsung Likes It or Not, Amazon Just Slashed the 49″ Odyssey OLED Gaming Monitor by Almost 50% for Prime Day](https://kotaku.com/samsungs-wildest-49-inch-odyssey-oled-curved-gaming-monitor-is-going-for-45-less-with-this-deal-2000631874)<!-- GAME:END -->
+ - [World of Warcraft Legion Remix is Live Now for a Limited Time](https://worldofwarcraft.com/news/24239491#new_tab)
+ - [R.A. Salvatore&#39;s new D&amp;D novel draws from online wars over Colin Kaepernick](https://www.polygon.com/ra-salvatore-the-finest-edge-of-twilight/)
+ - [How to solve the Reliquary of Compassion puzzle in Ghost of Yōtei](https://www.polygon.com/ghost-of-yotei-reliquary-compassion-puzzle-solution-how-to-solve/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
