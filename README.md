@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very brief time in history that I&#39;m proud to have been part of](http://9gag.com/gag/aByNEx2)
- - ⏩ [Feeling down?](http://9gag.com/gag/a1mqVQP)
- - 👉 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)<!-- MEMES:END -->
+ - 💣 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - ⏩ [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
+ - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
 
 ---
 
