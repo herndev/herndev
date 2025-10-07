@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you’re quick, you can get the Samsung Galaxy S25 FE for just $499.99](https://www.androidauthority.com/samsung-galaxy-s25-fe-deal-2-3604577/)
- - [The 162 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
- - [Prime Day Brings Strong Savings on Some of Top Coffee and Espresso Machines](https://www.wired.com/story/best-prime-day-coffee-espresso-deals-october-2025/)<!-- TECH:END -->
+ - [EA resurrects nearly 20-year-old &#39;MySims&#39; games for Apple Arcade this November](https://appleinsider.com/articles/25/10/07/ea-resurrects-nearly-20-year-old-mysims-games-for-apple-arcade-this-november?utm_source=rss)
+ - [New California Law Tells Loud Ads on Streaming Services to Pipe Down](https://www.cnet.com/tech/services-and-software/new-california-law-tells-loud-ads-on-streaming-services-to-pipe-down/#ftag=CAD590a51e)
+ - [Sources: Tesla abandoned Elon Musk&#39;s goal to make thousands of Optimus robots in 2025 due to significant technical challenges, especially with the robots&#39; hands &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/251007/p18#a251007p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
