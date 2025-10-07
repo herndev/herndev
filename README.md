@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - ⏩ [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
- - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
+ - 💣 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - ⏩ [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
+ - 👉 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
 
 ---
 
