@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - ⏩ [My nightmares be like](http://9gag.com/gag/aryrZbV)
+ - 💣 [My nightmares be like](http://9gag.com/gag/aryrZbV)
+ - ⏩ [They are GM for the reason](http://9gag.com/gag/abAmx3B)
  - 👉 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)<!-- MEMES:END -->
 
 ---
