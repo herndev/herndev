@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Underdogs return to attack the Windows Blue Screen of Death](https://appleinsider.com/articles/25/10/07/the-underdogs-return-to-attack-the-windows-blue-screen-of-death?utm_source=rss)
- - [Meanwhile, a Bermuda-regulated bitcoin life insurance provider, raised $82M from Apollo, Bain Capital, Haun Ventures, and others, after a $40M Series A in April &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/251007/p12#a251007p12)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
+ - [As a Pixel superfan, these are the devices I’d actually buy during Prime Big Deal Days](https://www.androidauthority.com/5-devices-id-buy-amazon-prime-big-deal-days-3604360/)
+ - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
+ - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
