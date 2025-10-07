@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
- - ⏩ [They are GM for the reason](http://9gag.com/gag/abAmx3B)
- - 👉 [Dont bite off more than you can chew](http://9gag.com/gag/ae9PxMQ)<!-- MEMES:END -->
+ - 💣 [A short and witty title does the trick](http://9gag.com/gag/aO8N9Wv)
+ - ⏩ [My nightmares be like](http://9gag.com/gag/aryrZbV)
+ - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
 
 ---
 
