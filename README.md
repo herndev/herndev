@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Havn BF 360 PC case review](https://www.pcgamer.com/hardware/pc-cases/havn-bf-360-pc-case-review/)
- - [Secretlab&#39;s new InfinitePrecision pro-gamer armrests aren&#39;t what I thought they were going to be. Nor as precise as I expected](https://www.pcgamer.com/hardware/gaming-chairs/secretlabs-new-infiniteprecision-pro-gamer-armrests-arent-what-i-thought-they-were-going-to-be-nor-as-precise-as-i-expected/)
- - [This new 4K gaming monitor is so ridiculously bright I&#39;m gonna need to wear shades](https://www.pcgamer.com/hardware/gaming-monitors/this-new-4k-gaming-monitor-is-so-ridiculously-bright-im-gonna-need-to-wear-shades/)<!-- GAME:END -->
+ - [Bungie’s Marathon Resurfaces To Test One Of Players’ Most-Requested Gameplay Features](https://kotaku.com/marathon-bungie-playtest-plagiarism-ttk-prox-chat-2000632553)
+ - [New Studio Ghibli artbook is out today, and it&#39;s as gorgeous as you&#39;d expect](https://www.polygon.com/studio-ghibli-art-book-painting-the-worlds/)
+ - [This Crucial P310 SSD Now Costs Only Cents per GB, A Steal for Steam Deck or ROG Ally Storage Upgrade](https://kotaku.com/amazon-clears-out-crucial-p310-ssd-costing-only-cents-per-gb-with-up-to-almost-50-off-for-prime-day-2000632109)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
