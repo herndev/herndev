@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boox’s next smartphone-sized e-reader has a color screen and a stylus](https://www.theverge.com/news/794751/onyx-boox-p6-pro-e-ink-reader-smartphone-color-palma)
- - [Mastodon plans to add Bluesky-like starter packs to suggest accounts to follow for new users, but will allow accounts to opt out of being included in Packs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251007/p23#a251007p23)
- - [Meta updates Reels on Facebook to prioritize showing fresher and more-relevant content, and adds AI search suggestions and friend bubbles like on Instagram &lpar;Katelyn Chedraoui/CNET&rpar;](http://www.techmeme.com/251007/p22#a251007p22)<!-- TECH:END -->
+ - [You can snag the OnePlus Pad 3 for its lowest Amazon price of $595 right now](https://www.androidauthority.com/oneplus-pad-3-prime-day-3604426/)
+ - [Shhhh! New law bans loud ads on Netflix, Disney Plus, and other streaming services](https://www.androidauthority.com/california-bill-streaming-services-ad-volume-3604982/)
+ - [The best robot vacuum deals you can snag during Amazon’s fall Prime Day sale](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
