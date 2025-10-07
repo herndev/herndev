@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fall is here](http://9gag.com/gag/aD2NZdO)
- - ⏩ [No idea why\u2026](http://9gag.com/gag/a34p8nv)
- - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
+ - 💣 [The best things in life are free, not gratis!](http://9gag.com/gag/aQzNmg2)
+ - ⏩ [I want to play a game](http://9gag.com/gag/ae9PVqv)
+ - 👉 [Actually happening every day...](http://9gag.com/gag/aXPGWL9)<!-- MEMES:END -->
 
 ---
 
