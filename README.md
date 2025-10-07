@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EcoFlow Is Offloading the Delta 2, Amazon Lists the 1800W Power Station at Its Lowest Price Ever](https://kotaku.com/ecoflow-is-offloading-the-delta-2-amazon-lists-the-1800w-power-station-at-its-lowest-price-ever-2000632497)
- - [Fallout 76 devs talk Burning Springs, New Vegas, and Walton Goggins](https://www.polygon.com/fallout-76-burning-springs-interview/)
- - [A deep dive into Reach’s gameplay features, out on PS VR2 Oct 16](https://blog.playstation.com/2025/10/07/a-deep-dive-into-reachs-gameplay-features-out-on-ps-vr2-oct-16/)<!-- GAME:END -->
+ - [Havn BF 360 PC case review](https://www.pcgamer.com/hardware/pc-cases/havn-bf-360-pc-case-review/)
+ - [Secretlab&#39;s new InfinitePrecision pro-gamer armrests aren&#39;t what I thought they were going to be. Nor as precise as I expected](https://www.pcgamer.com/hardware/gaming-chairs/secretlabs-new-infiniteprecision-pro-gamer-armrests-arent-what-i-thought-they-were-going-to-be-nor-as-precise-as-i-expected/)
+ - [This new 4K gaming monitor is so ridiculously bright I&#39;m gonna need to wear shades](https://www.pcgamer.com/hardware/gaming-monitors/this-new-4k-gaming-monitor-is-so-ridiculously-bright-im-gonna-need-to-wear-shades/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
