@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - ⏩ [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
- - 👉 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)<!-- MEMES:END -->
+ - ⏩ [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
+ - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
 
 ---
 
