@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - 💣 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
  - ⏩ [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
- - 👉 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
+ - 👉 [My nightmares be like](http://9gag.com/gag/aryrZbV)<!-- MEMES:END -->
 
 ---
 
