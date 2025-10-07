@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As a Pixel superfan, these are the devices I’d actually buy during Prime Big Deal Days](https://www.androidauthority.com/5-devices-id-buy-amazon-prime-big-deal-days-3604360/)
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)<!-- TECH:END -->
+ - [If you’re quick, you can get the Samsung Galaxy S25 FE for just $499.99](https://www.androidauthority.com/samsung-galaxy-s25-fe-deal-2-3604577/)
+ - [The 162 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
+ - [Prime Day Brings Strong Savings on Some of Top Coffee and Espresso Machines](https://www.wired.com/story/best-prime-day-coffee-espresso-deals-october-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
