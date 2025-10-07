@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jony Ive Says He Wants His OpenAI Devices to ‘Make Us Happy’](https://www.wired.com/story/sam-altman-and-jony-ives-ai-device-dev-day/)
- - [Best Home Security Cameras for Apple HomeKit and Siri in 2025](https://www.cnet.com/home/security/best-home-security-cameras-with-apple-homekit-and-siri/#ftag=CAD590a51e)
- - [Best Electric Toothbrushes You Can Buy in 2025, Tested by Experts](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [First they took our chargers, now our cables are next: Are phone makers going too far?](https://www.androidauthority.com/smartphone-boxes-removing-usb-cables-survey-3604626/)
+ - [MrBeast, who earned an estimated $85M in 2025, says AI-generated videos could threaten creators&#39; livelihoods, calling it &quot;scary times&quot; for the industry &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251006/p44#a251006p44)
+ - [Taylor Swift Launches a New Instagram Feature Inviting Fans to Remix Others&#39; Stories](https://www.cnet.com/culture/entertainment/taylor-swift-just-got-her-own-instagram-feature-and-it-comes-with-a-glitter-filter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
