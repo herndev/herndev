@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S26 Plus or S26 Edge? Survey reveals what you really want.](https://www.androidauthority.com/samsung-galaxy-s26-edge-plus-poll-results-3604707/)
- - [Samsung’s next smart calling trick looks straight out of Google’s Pixel playbook](https://www.androidauthority.com/one-ui-8-5-automatic-call-screening-more-control-apk-teardown-3604709/)
- - [Best Amazon Prime Day Mattress Deals &lpar;2025&rpar;: Casper, Helix, Birch](https://www.wired.com/story/best-amazon-prime-day-mattress-and-sleep-deals/)<!-- TECH:END -->
+ - [Windows 11’s dark mode is getting more consistent in File Explorer](https://www.theverge.com/news/793958/microsoft-windows-11-dark-mode-official-changes)
+ - [The Best Cheap Asus Chromebook Has Dropped Below $250](https://www.wired.com/story/asus-cx-15-chromebook-prime-day-october-2025/)
+ - [A look at the OpenAI-AMD partnership, which added ~$78B to AMD&#39;s market cap and shows OpenAI is good at deals; OpenAI deals also boosted Shopify and Etsy stocks &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/251007/p4#a251007p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
