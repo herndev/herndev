@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [My nightmares be like](http://9gag.com/gag/aryrZbV)
- - ⏩ [They are GM for the reason](http://9gag.com/gag/abAmx3B)
+ - ⏩ [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
  - 👉 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)<!-- MEMES:END -->
 
 ---
