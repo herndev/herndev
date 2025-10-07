@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 7 &lpar;#1571&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-7-2025/)
- - [Alien Isolation is way too long because its Xenomorph got way too smart: &#39;At the time it didn&#39;t seem that long&#39;](https://www.pcgamer.com/games/horror/alien-isolation-is-way-too-long-because-its-xenomorph-got-way-too-smart-at-the-time-it-didnt-seem-that-long/)
- - [Co-op dino survival horror game Deathground prepares to launch with one final reminder that, no, &#39;you won&#39;t be able to play as a dinosaur&#39;](https://www.pcgamer.com/games/survival-crafting/co-op-dino-survival-horror-game-deathground-prepares-to-launch-with-one-final-reminder-that-no-you-wont-be-able-to-play-as-a-dinosaur/)<!-- GAME:END -->
+ - [Telltale-esque superhero management sim Dispatch was originally going to be a live-action TV show before it became a videogame, but then &#39;a thing called Covid hit&#39;](https://www.pcgamer.com/games/adventure/telltale-esque-superhero-management-sim-dispatch-was-originally-going-to-be-a-live-action-tv-show-before-it-became-a-videogame-but-then-a-thing-called-covid-hit/)
+ - [All Evade codes for October 2025: Points and Badges](https://www.pcgamer.com/roblox/evade-codes/)
+ - [Black Ops 7 beta extended by 24 hours and new map added](https://www.polygon.com/black-ops-7-bo7-beta-extended-new-map/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
