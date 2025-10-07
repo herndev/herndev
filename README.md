@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s latest PS2 emulator debuts with a healthy serving of controversy](https://www.androidauthority.com/psx2-emulator-3605092/)
- - [Lowest price yet on the Samsung Galaxy Tab S6 Lite at almost 50% off](https://www.androidauthority.com/samsung-galaxy-tab-s6-lite-2024-prime-day-3604598/)
- - [Former Apple bosses slam decision to take down ICEBlock](https://www.theverge.com/news/795248/former-apple-exec-iceblock-removal-criticism)<!-- TECH:END -->
+ - [Score the Samsung Galaxy Buds FE at 45% off in an unbeaten Prime Day deal](https://www.androidauthority.com/samsung-galaxy-buds-fe-prime-day-3605024/)
+ - [75 Best Prime Day Deals Under $100 &lpar;2025&rpar;: Chargers, Earbuds, and More](https://www.wired.com/story/best-prime-day-deals-under-100-october-2025/)
+ - [The Tesla Model Y and Model 3 Standard Are Cheaper—but Still Not Cheap](https://www.wired.com/story/tesla-model-y-and-model-3-standard-are-cheaper-but-still-not-cheap/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
