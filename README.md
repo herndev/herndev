@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can snag the OnePlus Pad 3 for its lowest Amazon price of $595 right now](https://www.androidauthority.com/oneplus-pad-3-prime-day-3604426/)
- - [Shhhh! New law bans loud ads on Netflix, Disney Plus, and other streaming services](https://www.androidauthority.com/california-bill-streaming-services-ad-volume-3604982/)
- - [The best robot vacuum deals you can snag during Amazon’s fall Prime Day sale](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025)<!-- TECH:END -->
+ - [Deal: The Google Pixel 10 Pro’s first significant price cut brings it down to $799](https://www.androidauthority.com/google-pixel-10-pro-deal-3604581/)
+ - [The Verge&amp;#8217;s Guide to Amazon&amp;#8217;s October Prime Day Event 2025](https://www.theverge.com/tech/782478/october-amazon-prime-day-deals-guide)
+ - [The best laptop deals you can get for Amazon’s October Prime Day](https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
