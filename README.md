@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - ⏩ [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - 👉 [How deep is your love](http://9gag.com/gag/aByNVXA)<!-- MEMES:END -->
+ - 💣 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
+ - ⏩ [They are GM for the reason](http://9gag.com/gag/abAmx3B)
+ - 👉 [Dont bite off more than you can chew](http://9gag.com/gag/ae9PxMQ)<!-- MEMES:END -->
 
 ---
 
