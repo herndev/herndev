@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock the Monster Hunter Arkveld collab and rewards in FFXIV](https://www.polygon.com/ffxiv-final-fantasy-14-monster-hunter-wilds-collab-arkveld-unlock-rewards-extreme/)
- - [Some Xbox Fans Can Skip The Game Pass Price Hike For Now](https://kotaku.com/game-pass-price-subscription-renewal-delay-xbox-2000632625)
- - [Elon Musk&#39;s AI-fuelled fever dream gets even hotter as he promises his AI game studio is going to release a &#39;great&#39; game before the end of 2026](https://www.pcgamer.com/software/ai/elon-musks-ai-fuelled-fever-dream-gets-even-hotter-as-he-promises-his-ai-game-studio-is-going-to-release-a-great-game-before-the-end-of-2026/)<!-- GAME:END -->
+ - [Baldur’s Gate 3 Dev Calls Out Elon Musk’s AI Game Promise](https://kotaku.com/baldurs-gate-3-larian-studios-elon-musk-ai-xai-douse-2000632638)
+ - [Everything We Know About Resident Evil: Requiem](https://kotaku.com/resident-evil-requiem-9-capcom-grace-leon-2000632633)
+ - [The first gameplay footage from Astroneer studio&#39;s next space game looks like co-op chaos on colorful planets, but I&#39;m not crazy about the idea of timed missions in a hangout game](https://www.pcgamer.com/games/action/the-first-gameplay-footage-from-astroneer-studios-next-space-game-looks-like-co-op-chaos-on-colorful-planets-but-im-not-crazy-about-the-idea-of-timed-missions-in-a-hangout-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
