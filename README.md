@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First they took our chargers, now our cables are next: Are phone makers going too far?](https://www.androidauthority.com/smartphone-boxes-removing-usb-cables-survey-3604626/)
- - [MrBeast, who earned an estimated $85M in 2025, says AI-generated videos could threaten creators&#39; livelihoods, calling it &quot;scary times&quot; for the industry &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251006/p44#a251006p44)
- - [Taylor Swift Launches a New Instagram Feature Inviting Fans to Remix Others&#39; Stories](https://www.cnet.com/culture/entertainment/taylor-swift-just-got-her-own-instagram-feature-and-it-comes-with-a-glitter-filter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI&#39;s computing deals with Nvidia, AMD, Oracle, and others have topped $1T, commitments that dwarf its revenue and raise questions about how it can fund them &lpar;Financial Times&rpar;](http://www.techmeme.com/251007/p1#a251007p1)
+ - [Google starts rolling out Gemini for Home to early access users](https://www.androidauthority.com/gemini-for-home-rollout-3604660/)
+ - [Pixel 10 is going viral for struggling with a major Android game &lpar;Updated: Google statement&rpar;](https://www.androidauthority.com/pixel-10-genshin-impact-gpu-problem-3604104/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
