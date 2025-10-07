@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Haunting of Call of Duty: Black Ops 6 and Call of Duty: Warzone Season 06](https://www.callofduty.com/blog/2025/10/call-of-duty-black-ops-6-warzone-zombies-season-06#new_tab)
- - [How to sign up for Marathon&#39;s closed technical test](https://www.polygon.com/bungie-marathon-technical-test-playtest-how-to-enter/)
- - [LEGO Marvel Avengers Age of Ultron Set Drops Below Black Friday, Feels Like a Freebie With 6 Minifigures](https://kotaku.com/avengers-assemble-this-lego-marvel-set-from-avengers-age-of-ultron-22-off-2000629973)<!-- GAME:END -->
+ - [How to unlock the Monster Hunter Arkveld collab and rewards in FFXIV](https://www.polygon.com/ffxiv-final-fantasy-14-monster-hunter-wilds-collab-arkveld-unlock-rewards-extreme/)
+ - [Some Xbox Fans Can Skip The Game Pass Price Hike For Now](https://kotaku.com/game-pass-price-subscription-renewal-delay-xbox-2000632625)
+ - [Elon Musk&#39;s AI-fuelled fever dream gets even hotter as he promises his AI game studio is going to release a &#39;great&#39; game before the end of 2026](https://www.pcgamer.com/software/ai/elon-musks-ai-fuelled-fever-dream-gets-even-hotter-as-he-promises-his-ai-game-studio-is-going-to-release-a-great-game-before-the-end-of-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
