@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - ⏩ [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
+ - 💣 [Fall is here](http://9gag.com/gag/aD2NZdO)
+ - ⏩ [No idea why\u2026](http://9gag.com/gag/a34p8nv)
  - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
 
 ---
