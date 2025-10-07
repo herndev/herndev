@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jimmy Fallon Is Trying To Make Wordle Into A Game Show](https://kotaku.com/wordle-jimmy-fallon-game-show-host-nbc-savannah-guthrie-2000632667)
- - [Diablo 4 is gearing up for another major loot overhaul before its next expansion arrives next year](https://www.pcgamer.com/games/rpg/diablo-4-is-gearing-up-for-another-major-loot-overhaul-before-its-next-expansion-arrives-next-year/)
- - [New Report Finds Most People Barely Buy Two Games A Year](https://kotaku.com/how-many-games-people-buy-each-year-gta-6-madden-2000632641)<!-- GAME:END -->
+ - [The RTX 5080 MSI Vector 16 has dropped by $200, so it&#39;s time for me to tap the &#39;it&#39;s a really good gaming laptop&#39; sign once more](https://www.pcgamer.com/hardware/gaming-laptops/the-rtx-5080-msi-vector-16-has-dropped-by-usd200-so-its-time-for-me-to-tap-the-its-a-really-good-gaming-laptop-sign-once-more/)
+ - [Battlefield 6 dev says its destruction tech is so delicious for one simple reason: &#39;The only magic trick is that we&#39;re not on the PS4 or Xbox One any more&#39;](https://www.pcgamer.com/games/fps/battlefield-6-dev-says-its-destruction-tech-is-so-delicious-for-one-simple-reason-the-only-magic-trick-is-that-were-not-on-the-ps4-or-xbox-one-any-more/)
+ - [Dyson Is Offloading Its V8 Plus Model, Now Cheaper Than Entry-Level Cordless Vacuums](https://kotaku.com/dyson-is-offloading-its-v8-plus-model-now-cheaper-than-entry-level-cordless-vacuums-2000632642)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
