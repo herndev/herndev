@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [DJI Is Quietly Offloading Its Mini 4K Drones, Now Selling at a New Record Low Price on Amazon](https://kotaku.com/dji-is-quietly-offloading-its-mini-4k-drones-now-selling-at-a-new-record-low-price-on-amazon-2000632469)
- - [Zelda Williams ethers AI &#39;tributes&#39; to her dead dad: &#39;You’re making disgusting, over-processed hotdogs out of the lives of human beings&#39;](https://www.pcgamer.com/software/ai/zelda-williams-ethers-ai-tributes-to-her-dead-dad-youre-making-disgusting-over-processed-hotdogs-out-of-the-lives-of-human-beings/)
- - [This Samsung Odyssey Gaming Monitor Is Practically Free With Prime Day Discount, Priced Like a Portable Screen](https://kotaku.com/this-samsung-odyssey-gaming-monitor-is-practically-free-with-prime-day-discount-priced-like-a-portable-screen-2000632141)<!-- GAME:END -->
+ - [EcoFlow Is Offloading the Delta 2, Amazon Lists the 1800W Power Station at Its Lowest Price Ever](https://kotaku.com/ecoflow-is-offloading-the-delta-2-amazon-lists-the-1800w-power-station-at-its-lowest-price-ever-2000632497)
+ - [Fallout 76 devs talk Burning Springs, New Vegas, and Walton Goggins](https://www.polygon.com/fallout-76-burning-springs-interview/)
+ - [A deep dive into Reach’s gameplay features, out on PS VR2 Oct 16](https://blog.playstation.com/2025/10/07/a-deep-dive-into-reachs-gameplay-features-out-on-ps-vr2-oct-16/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
