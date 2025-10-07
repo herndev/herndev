@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Amazon Clears Out Govee Smart Lamp Stock, Now Selling for Less Than a Basic Floor Lamp](https://kotaku.com/amazon-clears-out-govee-smart-lamp-stock-now-selling-for-less-than-a-basic-floor-lamp-2000632160)
  - [The 22,000 Pa Roborock With Mop Delivers Luxury Cleaning Power, Now at Its Lowest Price for Prime Members.](https://kotaku.com/the-22000-pa-roborock-with-mop-delivers-luxury-cleaning-power-now-at-its-lowest-price-for-prime-members-2000632151)
- - [Co-op dino survival horror game Deathground prepares to launch with one final reminder that, no, &#39;you won&#39;t be able to play as a dinosaur&#39;](https://www.pcgamer.com/games/survival-crafting/co-op-dino-survival-horror-game-deathground-prepares-to-launch-with-one-final-reminder-that-no-you-wont-be-able-to-play-as-a-dinosaur/)
- - [Activision extends the Black Ops 7 beta to wrap up just 24 hours before Battlefield 6 launches](https://www.pcgamer.com/games/call-of-duty/activision-extends-the-black-ops-7-beta-to-wrap-up-just-24-hours-before-battlefield-6-launches/)<!-- GAME:END -->
+ - [Co-op dino survival horror game Deathground prepares to launch with one final reminder that, no, &#39;you won&#39;t be able to play as a dinosaur&#39;](https://www.pcgamer.com/games/survival-crafting/co-op-dino-survival-horror-game-deathground-prepares-to-launch-with-one-final-reminder-that-no-you-wont-be-able-to-play-as-a-dinosaur/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
