@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My nightmares be like](http://9gag.com/gag/aryrZbV)
- - ⏩ [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
- - 👉 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)<!-- MEMES:END -->
+ - 💣 [Very brief time in history that I&#39;m proud to have been part of](http://9gag.com/gag/aByNEx2)
+ - ⏩ [Feeling down?](http://9gag.com/gag/a1mqVQP)
+ - 👉 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)<!-- MEMES:END -->
 
 ---
 
