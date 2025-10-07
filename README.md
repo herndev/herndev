@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11’s dark mode is getting more consistent in File Explorer](https://www.theverge.com/news/793958/microsoft-windows-11-dark-mode-official-changes)
- - [The Best Cheap Asus Chromebook Has Dropped Below $250](https://www.wired.com/story/asus-cx-15-chromebook-prime-day-october-2025/)
- - [A look at the OpenAI-AMD partnership, which added ~$78B to AMD&#39;s market cap and shows OpenAI is good at deals; OpenAI deals also boosted Shopify and Etsy stocks &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/251007/p4#a251007p4)<!-- TECH:END -->
+ - [The best October Prime Day deals at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025)
+ - [California Gov. Gavin Newsom signs a law banning excessively loud ads on streaming platforms like Netflix, the first such law in the US, modeled on a 2010 law &lpar;Tyler Katzenberger/Politico&rpar;](http://www.techmeme.com/251007/p8#a251007p8)
+ - [How Israel&#39;s war in Gaza engulfed the entertainment industry, including popular TV shows produced in Israel going dark on US streaming platforms like Netflix &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251007/p7#a251007p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
