@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Jony Ive Says He Wants His OpenAI Devices to ‘Make Us Happy’](https://www.wired.com/story/sam-altman-and-jony-ives-ai-device-dev-day/)
- - [Best Electric Toothbrushes You Can Buy in 2025, Tested by Experts](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
- - [How to See the Spectacular Supermoon Dominate the Sky on Monday](https://www.cnet.com/science/space/how-to-see-the-spectacular-supermoon-dominate-the-sky-on-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Home Security Cameras for Apple HomeKit and Siri in 2025](https://www.cnet.com/home/security/best-home-security-cameras-with-apple-homekit-and-siri/#ftag=CAD590a51e)
+ - [Best Electric Toothbrushes You Can Buy in 2025, Tested by Experts](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
