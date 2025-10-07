@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AltStore&amp;#8217;s alternative iPhone app store is coming to more countries](https://www.theverge.com/news/795173/altstore-alternative-ios-iphone-app-store-more-countries-fediverse-social-web)
- - [Amazon&amp;#8217;s latest Kindle Paperwhite just got its first price drop of the year](https://www.theverge.com/tech/794864/amazon-october-prime-day-kindle-paperwhite-deal-sale)
- - [The 185 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)<!-- TECH:END -->
+ - [Android’s latest PS2 emulator debuts with a healthy serving of controversy](https://www.androidauthority.com/psx2-emulator-3605092/)
+ - [Lowest price yet on the Samsung Galaxy Tab S6 Lite at almost 50% off](https://www.androidauthority.com/samsung-galaxy-tab-s6-lite-2024-prime-day-3604598/)
+ - [Former Apple bosses slam decision to take down ICEBlock](https://www.theverge.com/news/795248/former-apple-exec-iceblock-removal-criticism)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
