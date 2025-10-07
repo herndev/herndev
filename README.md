@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How deep is your love](http://9gag.com/gag/aByNVXA)
- - ⏩ [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
+ - 💣 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - ⏩ [My nightmares be like](http://9gag.com/gag/aryrZbV)
+ - 👉 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)<!-- MEMES:END -->
 
 ---
 
