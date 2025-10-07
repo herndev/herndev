@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best October Prime Day deals at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025)
- - [California Gov. Gavin Newsom signs a law banning excessively loud ads on streaming platforms like Netflix, the first such law in the US, modeled on a 2010 law &lpar;Tyler Katzenberger/Politico&rpar;](http://www.techmeme.com/251007/p8#a251007p8)
- - [How Israel&#39;s war in Gaza engulfed the entertainment industry, including popular TV shows produced in Israel going dark on US streaming platforms like Netflix &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251007/p7#a251007p7)<!-- TECH:END -->
+ - [Memo to Bari Weiss Re: CBS News: You’re doomed](https://www.theverge.com/business/793525/bari-weiss-cbs-news-glass-cliff)
+ - [The Best Deals on Amazon Fire Tablets &lpar;2025&rpar;](https://www.wired.com/story/prime-day-fire-tablet-deals-october-2025/)
+ - [This Pixelsnap accessory isn’t revolutionary but I think it’s a perfect Pixel 10 companion](https://www.androidauthority.com/google-pixelsnap-ring-with-stand-review-3597485/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
