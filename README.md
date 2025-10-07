@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The best things in life are free, not gratis!](http://9gag.com/gag/aQzNmg2)
- - ⏩ [I want to play a game](http://9gag.com/gag/ae9PVqv)
- - 👉 [Actually happening every day...](http://9gag.com/gag/aXPGWL9)<!-- MEMES:END -->
+ - 💣 [Me the last years as a gold investor](http://9gag.com/gag/aRBNz7Q)
+ - ⏩ [No idea why\u2026](http://9gag.com/gag/a34p8nv)
+ - 👉 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)<!-- MEMES:END -->
 
 ---
 
