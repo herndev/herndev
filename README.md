@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Hits AMD Hard, Ryzen 7 9700X CPU Is Now Going for 50% Less Than the Previous Model](https://kotaku.com/amazon-hits-amd-hard-ryzen-7-9700x-cpu-is-now-going-for-50-less-than-the-previous-model-2000633107)
- - [Samsung’s 990 EVO Plus SSD Is Going for Pennies, Amazon Clears Out Its Excess Stock at a Record Low Price](https://kotaku.com/samsungs-990-evo-plus-ssd-is-going-for-pennies-amazon-clears-out-its-excess-stock-at-a-record-low-price-2000633103)
- - [For the Closing Hours of Prime Day, Amazon Sells Pokemon Card Packs for Just $0.10](https://kotaku.com/for-the-closing-hours-of-prime-day-amazon-sells-pokemon-card-packs-for-just-0-10-2000633099)<!-- GAME:END -->
+ - [One-Punch Man season 3 global release date and streaming platforms revealed](https://www.polygon.com/one-punch-man-season-3-watch-where-how-release/)
+ - [Samsung Offloads Its Old T7 External SSDs, Now Selling for Pennies on the Dollar at Amazon](https://kotaku.com/samsung-offloads-its-old-t7-external-ssds-now-selling-for-pennies-on-the-dollar-at-amazon-2000633112)
+ - [KPop Demon Hunters Huntr/x performance on Jimmy Fallon was Honmoon-worthy](https://www.polygon.com/kpop-demon-hunters-huntrix-jimmy-fallon-golden/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
