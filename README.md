@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has removed Eyes Up, which archives video evidence of ICE abuses, from the App Store; unlike ICEBlock, it doesn&#39;t share ICE officers&#39; real-time locations &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/251008/p40#a251008p40)
- - [1Password says it can fix login security for AI browser agents](https://www.theverge.com/news/796921/1password-secure-agentic-autofill-ai-browser-agents)
- - [Scientist Who Was Offline &#39;Living His Best Life&#39; Stunned by Nobel Prize Win](https://www.wired.com/story/nobel-prize-medicine-immunology-2025/)<!-- TECH:END -->
+ - [Final hours to get the Anker Soundcore Boom 2 for just $89.99 &lpar;36% off&rpar;](https://www.androidauthority.com/prime-day-anker-soundcore-boom-2-3605583/)
+ - [Fans Call on Taylor Swift to ‘Do Better’ After Accusations of Using AI for Promo Videos](https://www.wired.com/story/taylor-swift-swifties-against-ai-viral/)
+ - [Sony WH-1000XM5 headphones drop to year’s lowest price!](https://www.androidauthority.com/sony-wh-1000xm5-headphones-deal-6-3605175/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
