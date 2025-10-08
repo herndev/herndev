@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Absolum interview: How the beat &#39;em up&#39;s developers created four fabulous characters](https://www.pcgamer.com/games/action/absolum-interview-how-the-beat-em-ups-developers-created-four-fabulous-characters/)
- - [It&#39;s literally impossible to pick the &#39;real&#39; murderer in Pentiment because Obsidian never considered having one: &#39;You&#39;re not a detective, you&#39;re a f***ing artist&#39;](https://www.pcgamer.com/games/adventure/its-literally-impossible-to-pick-the-real-murderer-in-pentiment-because-obsidian-never-considered-having-one-youre-not-a-detective-youre-a-f-ing-artist/)
- - [Apple Pushes Amazon to Cut AirPods Pro 2 Prices Even Further, Now Selling at a New All-Time Low](https://kotaku.com/apple-pushes-amazon-to-cut-airpods-pro-2-prices-even-further-now-selling-at-a-new-all-time-low-2000633132)<!-- GAME:END -->
+ - [Clair Obscur: Expedition 33 Is Getting A Free Expansion With New Boss Battles](https://kotaku.com/clair-obscur-expedition-33-free-update-expansion-bosses-2000633193)
+ - [Clair Obscur: Expedition 33 devs announce free &#39;major&#39; update](https://www.polygon.com/clair-obscur-expedition-33-free-major-update/)
+ - [Watch The Cast Of KPop Demon Hunters Nail Their First Live Performance Of ‘Golden’](https://kotaku.com/kpop-demon-hunters-tonight-show-golden-performance-ejae-2000633180)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
