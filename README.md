@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
- - ⏩ [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
- - 👉 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)<!-- MEMES:END -->
+ - 💣 [Chat Control defeated... for now](http://9gag.com/gag/aVv1Vjn)
+ - ⏩ [Running for your life just got a whole new meaning](http://9gag.com/gag/aGyN2Mn)
+ - 👉 [Guess they didn&#39;t check the translation before getting these tattoos](http://9gag.com/gag/aMVNXLP)<!-- MEMES:END -->
 
 ---
 
