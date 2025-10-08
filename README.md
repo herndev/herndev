@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard insists that now is the right time to axe World of Warcraft&#39;s popular combat mods: &#39;We&#39;re going to be playing very close attention in the weeks and months to come&#39;](https://www.pcgamer.com/games/world-of-warcraft/blizzard-insists-that-now-is-the-right-time-to-axe-world-of-warcrafts-popular-combat-mods-were-going-to-be-playing-very-close-attention-in-the-weeks-and-months-to-come/)
- - [This Game Sentences Impatient Players To Cutscene Jail And It’s Brilliant](https://kotaku.com/baby-steps-bennet-foddy-cutscenes-skip-2000633326)
- - [Report: Ubisoft Canceled An Assassin’s Creed Where You Played A Former Slave After The Civil War](https://kotaku.com/assassins-creed-game-cancel-reconstruction-black-slave-2000633318)<!-- GAME:END -->
+ - [Skate’s Charging $35 For A Dead Space Skin That Looks Like A Bad Cosplay Made Outta Junk From Home Depot](https://kotaku.com/ea-skate-dead-space-skin-season-rewards-2000633352)
+ - [Doja Cat Denies Responsibility For Deleted Fortnite Post About Sex Toys, Calls It ‘Cringe’](https://kotaku.com/doja-cat-fortnite-sex-toy-deleted-skin-halloween-2025-2000633338)
+ - [Can you ID these videogames just from their food? Take our latest, tastiest quiz!](https://www.pcgamer.com/games/can-you-id-these-videogames-just-from-their-food-take-our-latest-tastiest-quiz/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
