@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Evan Prodromou, &quot;inventor of the Fediverse&quot;, on ActivityPub&#39;s origins, Mastodon&#39;s privacy focus, expanding beyond microblogging, and more &lpar;Matthias Pfefferle/Open Channels FM&rpar;](http://www.techmeme.com/251008/p12#a251008p12)
  - [Sketchy S26 Ultra leak reveals no one wants that unoriginal orange color](https://www.androidauthority.com/samsung-galaxy-s26-ultra-orange-leak-dummy-3605206/)
- - [An analysis of 1,100 TikTok users&#39; watch histories across six months in 2024 shows how effective TikTok is at getting even its heaviest users to watch more &lpar;Washington Post&rpar;](http://www.techmeme.com/251008/p11#a251008p11)
- - [An overview of detailed AI usage reports from OpenAI and others, as Microsoft&#39;s AI for Good Lab estimates that 15% of the world&#39;s working population is using AI &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p10#a251008p10)<!-- TECH:END -->
+ - [An analysis of 1,100 TikTok users&#39; watch histories across six months in 2024 shows how effective TikTok is at getting even its heaviest users to watch more &lpar;Washington Post&rpar;](http://www.techmeme.com/251008/p11#a251008p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
