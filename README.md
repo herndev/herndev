@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost of Yotei&#39;s bamboo strikes feature an audience of baby foxes](https://www.polygon.com/ghost-yotei-bamboo-strike-baby-foxes-awwww/)
- - [I cut out my tongue to unlock a door in Eclipsium, then things started getting weird](https://www.pcgamer.com/games/horror/i-cut-out-my-tongue-to-unlock-a-door-in-eclipsium-then-things-started-getting-weird/)
- - [Clair Obscur Expedition 33 devs are &#39;working on a big thank you update&#39; which&#39;ll include a new location, boss battles, and &#39;highly requested&#39; quality-of-life improvements](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-devs-are-working-on-a-big-thank-you-update-whichll-include-a-new-location-boss-battles-and-highly-requested-quality-of-life-improvements/)<!-- GAME:END -->
+ - [Silent Hill f’s Creepy School Level Hides A Lovely Musical Nod To The Original Game](https://kotaku.com/silent-hill-fs-creepy-school-level-hides-a-lovely-musical-nod-to-the-original-game-2000633282)
+ - [Blink Video Doorbell Is Almost Free, Amazon Offloads Its Own Brand at a Loss](https://kotaku.com/blink-video-doorbell-is-almost-free-amazon-offloads-its-own-brand-at-a-loss-2000632081)
+ - [Epic sues Fortnite botters who filled their own maps with clankers and made off with tens of thousands of dollars](https://www.pcgamer.com/games/battle-royale/epic-sues-fortnite-botters-who-filled-their-own-maps-with-clankers-and-made-off-with-tens-of-thousands-of-dollars/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
