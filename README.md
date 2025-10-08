@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AirPods 4 Are Now 3x Cheaper Than AirPods Pro, Amazon Is Offering Entry-Level Clearance Prices](https://kotaku.com/airpods-4-are-now-3x-cheaper-than-airpods-pro-amazon-is-offering-entry-level-clearance-prices-2000632651)
- - [The original System Shock 2 is being removed from sale on Steam later this week](https://www.pcgamer.com/games/rpg/the-original-system-shock-2-is-being-removed-from-sale-on-steam-later-this-week/)
- - [Today&#39;s Steam outage may have been part of a massive DDoS attack targeting Xbox, PlayStation, Riot, and other game companies](https://www.pcgamer.com/games/todays-steam-outage-may-have-been-part-of-a-massive-ddos-attack-targeting-xbox-playstation-riot-and-other-game-companies/)<!-- GAME:END -->
+ - [Shai Hulud defanged: In Dune: Awakening, your vehicles are no longer permanently lost if a sandworm eats them](https://www.pcgamer.com/games/mmo/shai-hulud-defanged-in-dune-awakening-your-vehicles-are-no-longer-permanently-lost-if-a-sandworm-eats-them/)
+ - [Founder of Dwarf Fortress and Caves of Qud publisher Kitfox Games says its procgen sims for sickos are &#39;giving storytelling tools back to the people when games and passive media took them away&#39;](https://www.pcgamer.com/games/founder-of-dwarf-fortress-and-caves-of-qud-publisher-kitfox-games-says-its-procgen-sims-for-sickos-are-giving-storytelling-tools-back-to-the-people-when-games-and-passive-media-took-them-away/)
+ - [AirPods 4 Are Now 3x Cheaper Than AirPods Pro, Amazon Is Offering Entry-Level Clearance Prices](https://kotaku.com/airpods-4-are-now-3x-cheaper-than-airpods-pro-amazon-is-offering-entry-level-clearance-prices-2000632651)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
