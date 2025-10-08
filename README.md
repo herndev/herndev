@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: top Chinese VCs are close to raising up to $1.1B in total USD-denominated funds in 2025, marking a tentative return of global capital to Chinese tech &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p7#a251008p7)
- - [Chinese silicon wafer manufacturers like Eswin have rapidly gained market share by undercutting global leaders, such as Japan&#39;s Shin-Etsu Chemical, on price &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251008/p6#a251008p6)
- - [UK filings: Revolut CEO and largest shareholder Nik Storonsky has shifted his residency from the UK to the UAE; Revolut is awaiting a full UK banking license &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p5#a251008p5)<!-- TECH:END -->
+ - [Sketchy S26 Ultra leak reveals no one wants that unoriginal orange color](https://www.androidauthority.com/samsung-galaxy-s26-ultra-orange-leak-dummy-3605206/)
+ - [An analysis of 1,100 TikTok users&#39; watch histories across six months in 2024 shows how effective TikTok is at getting even its heaviest users to watch more &lpar;Washington Post&rpar;](http://www.techmeme.com/251008/p11#a251008p11)
+ - [An overview of detailed AI usage reports from OpenAI and others, as Microsoft&#39;s AI for Good Lab estimates that 15% of the world&#39;s working population is using AI &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p10#a251008p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
