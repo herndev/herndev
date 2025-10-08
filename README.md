@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur: Expedition 33 Is Getting A Free Expansion With New Boss Battles](https://kotaku.com/clair-obscur-expedition-33-free-update-expansion-bosses-2000633193)
- - [Clair Obscur: Expedition 33 devs announce free &#39;major&#39; update](https://www.polygon.com/clair-obscur-expedition-33-free-major-update/)
- - [Watch The Cast Of KPop Demon Hunters Nail Their First Live Performance Of ‘Golden’](https://kotaku.com/kpop-demon-hunters-tonight-show-golden-performance-ejae-2000633180)<!-- GAME:END -->
+ - [Peacemaker season 2 has an important message for Trump supporters who sound too mad to hear it](https://www.polygon.com/peacemaker-nazis-op-ed/)
+ - [Coming to Xbox Game Pass: Ninja Gaiden 4, Keeper, Ball x Pit, Supermarket Simulator, and More](https://news.xbox.com/en-us/2025/10/08/xbox-game-pass-october-2025-wave-1/)
+ - [Larian lead calls out Elon Musk&#39;s harebrained scheme for a &#39;great AI-generated game&#39;, says &#39;We don&#39;t need another cash grab, we need sustainability&#39;](https://www.pcgamer.com/gaming-industry/larian-lead-calls-out-elon-musks-harebrained-scheme-for-a-great-ai-generated-game-says-we-dont-need-another-cash-grab-we-need-sustainability/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
