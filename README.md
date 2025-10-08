@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Experts weigh in on what the EA deal could mean for BioWare, The Sims, and more](https://www.polygon.com/ea-deal-predictions-sports-bioware-sims/)
- - [Marvel Rivals Season 4.5 release time](https://www.polygon.com/marvel-rivals-season-4-5-release-time-date-edt-pdt/)
- - [Seagate HDD Is Going for Pennies at Amazon, Now Only $0.01 per GB of External Storage](https://kotaku.com/seagate-hdd-is-going-for-pennies-at-amazon-now-only-0-01-per-gb-of-external-storage-2000633124)<!-- GAME:END -->
+ - [Absolum interview: How the beat &#39;em up&#39;s developers created four fabulous characters](https://www.pcgamer.com/games/action/absolum-interview-how-the-beat-em-ups-developers-created-four-fabulous-characters/)
+ - [It&#39;s literally impossible to pick the &#39;real&#39; murderer in Pentiment because Obsidian never considered having one: &#39;You&#39;re not a detective, you&#39;re a f***ing artist&#39;](https://www.pcgamer.com/games/adventure/its-literally-impossible-to-pick-the-real-murderer-in-pentiment-because-obsidian-never-considered-having-one-youre-not-a-detective-youre-a-f-ing-artist/)
+ - [Apple Pushes Amazon to Cut AirPods Pro 2 Prices Even Further, Now Selling at a New All-Time Low](https://kotaku.com/apple-pushes-amazon-to-cut-airpods-pro-2-prices-even-further-now-selling-at-a-new-all-time-low-2000633132)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
