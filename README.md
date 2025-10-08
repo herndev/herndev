@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Firefox is adding profiles to separate your browsing sessions](https://www.theverge.com/news/795998/mozilla-firefox-browser-profiles-separate-tabs)
- - [Researchers are investigating using synthetic diamonds to help cool AI data center chips; De Beers-owned Element Six has long used diamonds in satellite chips &lpar;Amos Zeeberg/New York Times&rpar;](http://www.techmeme.com/251008/p20#a251008p20)
- - [Here’s what Verge readers are buying during October Prime Day](https://www.theverge.com/tech/795055/amazon-october-prime-day-2025-popular-products-verge-readers)<!-- TECH:END -->
+ - [A website set up by a Danish software developer floods EU lawmakers with emails opposing planned EU &quot;Chat Control&quot; laws to fight CSAM by scanning encrypted apps &lpar;Sam Clark/Politico&rpar;](http://www.techmeme.com/251008/p23#a251008p23)
+ - [The best 3DS emulator now has dual-screen support, just in time for dual-screen handhelds](https://www.androidauthority.com/azahar-3ds-dual-screen-update-3605263/)
+ - [Here’s why Google’s pushing you to set up Health Connect on your Android phone](https://www.androidauthority.com/health-connect-notification-3605129/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
