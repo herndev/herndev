@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Peacemaker season 2 has an important message for Trump supporters who sound too mad to hear it](https://www.polygon.com/peacemaker-nazis-op-ed/)
- - [Coming to Xbox Game Pass: Ninja Gaiden 4, Keeper, Ball x Pit, Supermarket Simulator, and More](https://news.xbox.com/en-us/2025/10/08/xbox-game-pass-october-2025-wave-1/)
- - [Larian lead calls out Elon Musk&#39;s harebrained scheme for a &#39;great AI-generated game&#39;, says &#39;We don&#39;t need another cash grab, we need sustainability&#39;](https://www.pcgamer.com/gaming-industry/larian-lead-calls-out-elon-musks-harebrained-scheme-for-a-great-ai-generated-game-says-we-dont-need-another-cash-grab-we-need-sustainability/)<!-- GAME:END -->
+ - [Clair Obscur: Expedition 33 devs want to remain small despite the game&#39;s success](https://www.polygon.com/clair-obscur-expedition-33-sandfall-developer-studio-copies-sold/)
+ - [Critical Role Campaign 4&#39;s DM was inspired by this iconic TV show](https://www.polygon.com/critical-role-campaign-4-inspiration-the-wire/)
+ - [Battlefield 6 release time](https://www.polygon.com/battlefield-6-bf6-release-time-zone-pst-est/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
