@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
- - ⏩ [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
+ - 💣 [That was f..ing close](http://9gag.com/gag/apRjAKE)
+ - ⏩ [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - 👉 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)<!-- MEMES:END -->
 
 ---
 
