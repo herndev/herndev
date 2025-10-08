@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want to play a game](http://9gag.com/gag/ae9PVqv)
- - ⏩ [Should You Be Afraid of a Halloween Heart Attack?](http://9gag.com/gag/aVv1Lrd)
- - 👉 [Works better than pills and no side effects haha](http://9gag.com/gag/aqypWev)<!-- MEMES:END -->
+ - 💣 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
+ - ⏩ [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - 👉 [Just a tourist place in Norway](http://9gag.com/gag/aByNGzz)<!-- MEMES:END -->
 
 ---
 
