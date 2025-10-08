@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Evan Prodromou, &quot;inventor of the Fediverse&quot;, on ActivityPub&#39;s origins, Mastodon&#39;s privacy focus, expanding beyond microblogging, and more &lpar;Matthias Pfefferle/Open Channels FM&rpar;](http://www.techmeme.com/251008/p12#a251008p12)
- - [Sketchy S26 Ultra leak reveals no one wants that unoriginal orange color](https://www.androidauthority.com/samsung-galaxy-s26-ultra-orange-leak-dummy-3605206/)
- - [An analysis of 1,100 TikTok users&#39; watch histories across six months in 2024 shows how effective TikTok is at getting even its heaviest users to watch more &lpar;Washington Post&rpar;](http://www.techmeme.com/251008/p11#a251008p11)<!-- TECH:END -->
+ - [The Best Prime Day Apple Deals, From Watches to iPads &lpar;2025&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-oct-2025-1/)
+ - [Harvard economist Jason Furman estimates that investments in data centers and information-processing software accounted for 92% of US GDP growth in H1 2025 &lpar;Nick Lichtenberg/Fortune&rpar;](http://www.techmeme.com/251008/p13#a251008p13)
+ - [90 Best Prime Day Deals Under $100 &lpar;2025&rpar;: Chargers, Earbuds, and More](https://www.wired.com/story/best-prime-day-deals-under-100-october-2025-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
