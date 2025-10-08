@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Read a free preview of the new Dungeons &amp; Dragons comic The Fallbacks](https://www.polygon.com/dungeons-and-dragons-the-fallbacks-comic-excerpt/)
- - [Research firm estimates that North Korean crypto hackers have already made off with over $2 billion this year, reckons the regime has stolen over $6 billion in total](https://www.pcgamer.com/gaming-industry/research-firm-estimates-that-north-korean-crypto-hackers-have-already-made-off-with-over-usd2-billion-this-year-reckons-the-regime-has-stolen-over-usd6-billion-in-total/)
- - [UK police arrest two teenagers suspected of the nursery hack and ransom that saw images and the information of 20 toddlers posted to the dark web](https://www.pcgamer.com/gaming-industry/uk-police-arrest-two-teenagers-suspected-of-the-nursery-hack-and-ransom-that-saw-images-and-the-information-of-20-toddlers-posted-to-the-dark-web/)<!-- GAME:END -->
+ - [As Rainbow Six Siege X numbers continue to slide, Ubisoft promises to crack down on cheaters and &#39;prioritize a fun experience&#39; with future balance changes](https://www.pcgamer.com/games/fps/as-rainbow-six-siege-x-numbers-continue-to-slide-ubisoft-promises-to-crack-down-on-cheaters-and-prioritize-a-fun-experience-with-future-balance-changes/)
+ - [Sky The Scrapper Mixes Persona And PowerWash Sim Into A Fascinating Arcade Game More People Should Try](https://kotaku.com/steam-indie-arcade-rpg-life-sim-persona-powerwasher-2000633307)
+ - [‘The Face of a Master’ quest line walkthrough in Ghost of Yōtei](https://www.polygon.com/ghost-of-yotei-face-of-a-master-demon-quest-walkthrough/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
