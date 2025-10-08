@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One-Punch Man season 3 global release date and streaming platforms revealed](https://www.polygon.com/one-punch-man-season-3-watch-where-how-release/)
- - [Samsung Offloads Its Old T7 External SSDs, Now Selling for Pennies on the Dollar at Amazon](https://kotaku.com/samsung-offloads-its-old-t7-external-ssds-now-selling-for-pennies-on-the-dollar-at-amazon-2000633112)
- - [KPop Demon Hunters Huntr/x performance on Jimmy Fallon was Honmoon-worthy](https://www.polygon.com/kpop-demon-hunters-huntrix-jimmy-fallon-golden/)<!-- GAME:END -->
+ - [Experts weigh in on what the EA deal could mean for BioWare, The Sims, and more](https://www.polygon.com/ea-deal-predictions-sports-bioware-sims/)
+ - [Marvel Rivals Season 4.5 release time](https://www.polygon.com/marvel-rivals-season-4-5-release-time-date-edt-pdt/)
+ - [Seagate HDD Is Going for Pennies at Amazon, Now Only $0.01 per GB of External Storage](https://kotaku.com/seagate-hdd-is-going-for-pennies-at-amazon-now-only-0-01-per-gb-of-external-storage-2000633124)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
