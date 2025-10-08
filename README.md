@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is putting prescription drugs in vending machines](https://www.theverge.com/news/796076/amazon-pharmacy-prescription-drug-vending-machine-kiosks)
- - [SoftBank makes a $5.4 billion bet on AI robots](https://www.theverge.com/news/796068/softbank-bets-on-ai-robots)
- - [Our favorite batteries and chargers are on sale for October Prime Day](https://www.theverge.com/tech/788318/amazon-october-prime-day-chargers-power-banks-batteries-deal-sale-2025)<!-- TECH:END -->
+ - [The Best Discounts We&#39;ve Found From the Walmart Deals Sale &lpar;2025&rpar;](https://www.wired.com/story/best-walmart-deals-october-2025-1/)
+ - [We Found the 276 Best Prime Day Deals of 2025: Up To 55% Off](https://www.wired.com/story/prime-day-deals-october-2025-1/)
+ - [Lowest price ever: Motorola Razr Ultra 2025 drops to $999.99, in one color](https://www.androidauthority.com/motorola-razr-ultra-2025-deal-5-3605180/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
