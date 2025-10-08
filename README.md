@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shai Hulud defanged: In Dune: Awakening, your vehicles are no longer permanently lost if a sandworm eats them](https://www.pcgamer.com/games/mmo/shai-hulud-defanged-in-dune-awakening-your-vehicles-are-no-longer-permanently-lost-if-a-sandworm-eats-them/)
- - [Founder of Dwarf Fortress and Caves of Qud publisher Kitfox Games says its procgen sims for sickos are &#39;giving storytelling tools back to the people when games and passive media took them away&#39;](https://www.pcgamer.com/games/founder-of-dwarf-fortress-and-caves-of-qud-publisher-kitfox-games-says-its-procgen-sims-for-sickos-are-giving-storytelling-tools-back-to-the-people-when-games-and-passive-media-took-them-away/)
- - [AirPods 4 Are Now 3x Cheaper Than AirPods Pro, Amazon Is Offering Entry-Level Clearance Prices](https://kotaku.com/airpods-4-are-now-3x-cheaper-than-airpods-pro-amazon-is-offering-entry-level-clearance-prices-2000632651)<!-- GAME:END -->
+ - [What’s With This New KPop Demon Hunters Song On Spotify?](https://kotaku.com/kpop-demon-hunters-huntrix-spotify-new-song-mazatlan-by-night-2000632680)
+ - [Player’s Choice promotion comes to PlayStation Store Oct 8](https://blog.playstation.com/2025/10/07/players-choice-promotion-comes-to-playstation-store-oct-8/)
+ - [Player’s Choice promotion comes to PlayStation Store Oct 8](https://blog.playstation.com/2025/10/07/players-choice-promotion-comes-to-playstation-store-oct-8/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
