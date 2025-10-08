@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur: Expedition 33 devs want to remain small despite the game&#39;s success](https://www.polygon.com/clair-obscur-expedition-33-sandfall-developer-studio-copies-sold/)
- - [Critical Role Campaign 4&#39;s DM was inspired by this iconic TV show](https://www.polygon.com/critical-role-campaign-4-inspiration-the-wire/)
- - [Battlefield 6 release time](https://www.polygon.com/battlefield-6-bf6-release-time-zone-pst-est/)<!-- GAME:END -->
+ - [Ghost of Yotei&#39;s bamboo strikes feature an audience of baby foxes](https://www.polygon.com/ghost-yotei-bamboo-strike-baby-foxes-awwww/)
+ - [I cut out my tongue to unlock a door in Eclipsium, then things started getting weird](https://www.pcgamer.com/games/horror/i-cut-out-my-tongue-to-unlock-a-door-in-eclipsium-then-things-started-getting-weird/)
+ - [Clair Obscur Expedition 33 devs are &#39;working on a big thank you update&#39; which&#39;ll include a new location, boss battles, and &#39;highly requested&#39; quality-of-life improvements](https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-devs-are-working-on-a-big-thank-you-update-whichll-include-a-new-location-boss-battles-and-highly-requested-quality-of-life-improvements/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
