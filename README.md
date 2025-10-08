@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final hours to get the Anker Soundcore Boom 2 for just $89.99 &lpar;36% off&rpar;](https://www.androidauthority.com/prime-day-anker-soundcore-boom-2-3605583/)
- - [Fans Call on Taylor Swift to ‘Do Better’ After Accusations of Using AI for Promo Videos](https://www.wired.com/story/taylor-swift-swifties-against-ai-viral/)
- - [Sony WH-1000XM5 headphones drop to year’s lowest price!](https://www.androidauthority.com/sony-wh-1000xm5-headphones-deal-6-3605175/)<!-- TECH:END -->
+ - [Anker SOLIX C1000 Gen 2 power station at its lowest price ever](https://www.androidauthority.com/anker-solix-c1000-gen-2-power-station-deal-3605174/)
+ - [Sony’s System 6 Offers Cinematic Sound for a Massive Prime Day Discount](https://www.wired.com/story/prime-day-sony-bravia-theater-system-6-deal-october-2025/)
+ - [Discord says 70,000 users may have had their government IDs leaked in breach](https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
