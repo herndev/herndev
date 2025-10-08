@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $300 on the Samsung Galaxy S25 Plus flagship](https://www.androidauthority.com/samsung-galaxy-s25-plus-deal-2-3604576/)
- - [Big Tech is ‘donating’ to Trump’s ‘nonprofits’](https://www.theverge.com/column/794975/big-tech-trump-nonprofits-donations-regulator)
- - [Google&amp;#8217;s latest AI model uses a web browser like you do](https://www.theverge.com/news/795463/google-computer-use-gemini-ai-model-agents)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 8, #380](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-8-380/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 8 #584](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-8-584/#ftag=CAD590a51e)
+ - [The 194 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
