@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill f’s Creepy School Level Hides A Lovely Musical Nod To The Original Game](https://kotaku.com/silent-hill-fs-creepy-school-level-hides-a-lovely-musical-nod-to-the-original-game-2000633282)
- - [Blink Video Doorbell Is Almost Free, Amazon Offloads Its Own Brand at a Loss](https://kotaku.com/blink-video-doorbell-is-almost-free-amazon-offloads-its-own-brand-at-a-loss-2000632081)
- - [Epic sues Fortnite botters who filled their own maps with clankers and made off with tens of thousands of dollars](https://www.pcgamer.com/games/battle-royale/epic-sues-fortnite-botters-who-filled-their-own-maps-with-clankers-and-made-off-with-tens-of-thousands-of-dollars/)<!-- GAME:END -->
+ - [Woman Livestreams Birth As Twitch Chat Cheers Her On](https://kotaku.com/fandy-livestream-birth-twitch-ceo-husband-adamax-2000633290)
+ - [All the playable clans in Vampire: The Masquerade – Bloodlines 2 and their clan abilities](https://www.pcgamer.com/games/rpg/bloodlines-2-clans-abilities-list/)
+ - [Stop Relying On Game Creators To Validate Your Player Choices](https://kotaku.com/clair-obscur-expedition-33-ending-choice-canon-correct-2000633292)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
