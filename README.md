@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Prime Day Apple Deals, From Watches to iPads &lpar;2025&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-oct-2025-1/)
- - [Harvard economist Jason Furman estimates that investments in data centers and information-processing software accounted for 92% of US GDP growth in H1 2025 &lpar;Nick Lichtenberg/Fortune&rpar;](http://www.techmeme.com/251008/p13#a251008p13)
- - [90 Best Prime Day Deals Under $100 &lpar;2025&rpar;: Chargers, Earbuds, and More](https://www.wired.com/story/best-prime-day-deals-under-100-october-2025-1/)<!-- TECH:END -->
+ - [Synology reversing it’s hard drive policy is good, but it might be too late](https://www.androidauthority.com/synology-third-party-drive-policy-3605210/)
+ - [The Best Amazon Echo Deal for Prime Day &lpar;October 2025&rpar;: The Echo Spot](https://www.wired.com/story/this-is-the-only-amazon-speaker-worth-buying-on-prime-day/)
+ - [US House lawmakers release a report criticizing ASML, Tokyo Electron, and other equipment makers for helping build China&#39;s chip industry; ASML fell more than 7% &lpar;Dasha Afanasieva/Bloomberg&rpar;](http://www.techmeme.com/251008/p14#a251008p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
