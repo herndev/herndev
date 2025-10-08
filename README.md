@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Discounts We&#39;ve Found From the Walmart Deals Sale &lpar;2025&rpar;](https://www.wired.com/story/best-walmart-deals-october-2025-1/)
- - [We Found the 276 Best Prime Day Deals of 2025: Up To 55% Off](https://www.wired.com/story/prime-day-deals-october-2025-1/)
- - [Lowest price ever: Motorola Razr Ultra 2025 drops to $999.99, in one color](https://www.androidauthority.com/motorola-razr-ultra-2025-deal-5-3605180/)<!-- TECH:END -->
+ - [Squishmallows, Lego, and Other Toys Are 50% off Right Now](https://www.wired.com/story/amazon-prime-day-toy-deals-october-2025/)
+ - [Deal alert! Rare Apple AirPods 4 saving lets you grab them for just $89](https://www.androidauthority.com/deal-apple-airpods-4-3605098/)
+ - [A Twitch streamer gave birth live, with Twitch&amp;#8217;s CEO in the chat](https://www.theverge.com/news/796179/twitch-fandy-birth-livestream-dan-clancy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
