@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Woman Livestreams Birth As Twitch Chat Cheers Her On](https://kotaku.com/fandy-livestream-birth-twitch-ceo-husband-adamax-2000633290)
- - [All the playable clans in Vampire: The Masquerade – Bloodlines 2 and their clan abilities](https://www.pcgamer.com/games/rpg/bloodlines-2-clans-abilities-list/)
- - [Stop Relying On Game Creators To Validate Your Player Choices](https://kotaku.com/clair-obscur-expedition-33-ending-choice-canon-correct-2000633292)<!-- GAME:END -->
+ - [Read a free preview of the new Dungeons &amp; Dragons comic The Fallbacks](https://www.polygon.com/dungeons-and-dragons-the-fallbacks-comic-excerpt/)
+ - [Research firm estimates that North Korean crypto hackers have already made off with over $2 billion this year, reckons the regime has stolen over $6 billion in total](https://www.pcgamer.com/gaming-industry/research-firm-estimates-that-north-korean-crypto-hackers-have-already-made-off-with-over-usd2-billion-this-year-reckons-the-regime-has-stolen-over-usd6-billion-in-total/)
+ - [UK police arrest two teenagers suspected of the nursery hack and ransom that saw images and the information of 20 toddlers posted to the dark web](https://www.pcgamer.com/gaming-industry/uk-police-arrest-two-teenagers-suspected-of-the-nursery-hack-and-ransom-that-saw-images-and-the-information-of-20-toddlers-posted-to-the-dark-web/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
