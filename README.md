@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A website set up by a Danish software developer floods EU lawmakers with emails opposing planned EU &quot;Chat Control&quot; laws to fight CSAM by scanning encrypted apps &lpar;Sam Clark/Politico&rpar;](http://www.techmeme.com/251008/p23#a251008p23)
- - [The best 3DS emulator now has dual-screen support, just in time for dual-screen handhelds](https://www.androidauthority.com/azahar-3ds-dual-screen-update-3605263/)
- - [Here’s why Google’s pushing you to set up Health Connect on your Android phone](https://www.androidauthority.com/health-connect-notification-3605129/)<!-- TECH:END -->
+ - [Amazon is putting prescription drugs in vending machines](https://www.theverge.com/news/796076/amazon-pharmacy-prescription-drug-vending-machine-kiosks)
+ - [SoftBank makes a $5.4 billion bet on AI robots](https://www.theverge.com/news/796068/softbank-bets-on-ai-robots)
+ - [Our favorite batteries and chargers are on sale for October Prime Day](https://www.theverge.com/tech/788318/amazon-october-prime-day-chargers-power-banks-batteries-deal-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
