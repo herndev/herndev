@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
- - ⏩ [Proof Americans are always the entitled little rats they are](http://9gag.com/gag/agmZ43v)
- - 👉 [No idea why\u2026](http://9gag.com/gag/a34p8nv)<!-- MEMES:END -->
+ - 💣 [Running for your life just got a whole new meaning](http://9gag.com/gag/aGyN2Mn)
+ - ⏩ [My fellow 37 years old unmarried men](http://9gag.com/gag/avyXdLX)
+ - 👉 [Nice way to die](http://9gag.com/gag/ayNVQwq)<!-- MEMES:END -->
 
 ---
 
