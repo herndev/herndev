@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - ⏩ [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
- - 👉 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)<!-- MEMES:END -->
+ - 💣 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
+ - ⏩ [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
+ - 👉 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
 
 ---
 
