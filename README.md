@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A short and witty title does the trick](http://9gag.com/gag/aO8N9Wv)
- - ⏩ [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - 👉 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)<!-- MEMES:END -->
+ - 💣 [Oddly satisfying](http://9gag.com/gag/aAyNXP0)
+ - ⏩ [Works better than pills and no side effects haha](http://9gag.com/gag/aqypWev)
+ - 👉 [Running for your life just got a whole new meaning](http://9gag.com/gag/aGyN2Mn)<!-- MEMES:END -->
 
 ---
 
