@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - ⏩ [Proof Americans are always the entitled little rats they are](http://9gag.com/gag/agmZ43v)
- - 👉 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
+ - 💣 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
+ - ⏩ [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 👉 [That was f..ing close](http://9gag.com/gag/apRjAKE)<!-- MEMES:END -->
 
 ---
 
