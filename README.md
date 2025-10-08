@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can score up to $750 off robovacs from Dyson, Dreame, and iRobot right now](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025)
- - [Jackery Explorer 5000 Plus power station hits its lowest price, with a $1,450 discount](https://www.androidauthority.com/jackery-explorer-5000-plus-power-station-deal-3605177/)
- - [Google confirms: Unlocking your phone’s bootloader breaks local Gemini features](https://www.androidauthority.com/gemini-nano-bootloader-3605497/)<!-- TECH:END -->
+ - [Apple has removed Eyes Up, which archives video evidence of ICE abuses, from the App Store; unlike ICEBlock, it doesn&#39;t share ICE officers&#39; real-time locations &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/251008/p40#a251008p40)
+ - [1Password says it can fix login security for AI browser agents](https://www.theverge.com/news/796921/1password-secure-agentic-autofill-ai-browser-agents)
+ - [Scientist Who Was Offline &#39;Living His Best Life&#39; Stunned by Nobel Prize Win](https://www.wired.com/story/nobel-prize-medicine-immunology-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
