@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Docs may finally get this long-overdue Gemini upgrade on Android](https://www.androidauthority.com/google-docs-help-me-write-3605389/)
- - [Google Pixel Buds 2a review: ANC is a welcome addition and sound is detailed and punchy, but there&#39;s still no wireless charging and voice performance suffers &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/251008/p36#a251008p36)
- - [These 63 October Prime Day deals under $50 are still available](https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025)<!-- TECH:END -->
+ - [You can score up to $750 off robovacs from Dyson, Dreame, and iRobot right now](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025)
+ - [Jackery Explorer 5000 Plus power station hits its lowest price, with a $1,450 discount](https://www.androidauthority.com/jackery-explorer-5000-plus-power-station-deal-3605177/)
+ - [Google confirms: Unlocking your phone’s bootloader breaks local Gemini features](https://www.androidauthority.com/gemini-nano-bootloader-3605497/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
