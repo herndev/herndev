@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UE’s Wonderboom 4 is great for music lovers, and it’s 34 percent off](https://www.theverge.com/tech/792452/amazon-october-prime-day-ue-wonderboom-4-bluetooth-speaker-deal-sale-2025)
- - [A new iPhone setting will stop CarPlay from stealing your AirPods&amp;#8217; audio](https://www.theverge.com/news/796554/iphone-ios-26-keep-airpods-wireless-headphones-connected-carplay)
- - [Prime Day Brings Strong Savings on Some of Top Coffee and Espresso Machines](https://www.wired.com/story/best-prime-day-coffee-espresso-deals-october-2025-1/)<!-- TECH:END -->
+ - [Google Docs may finally get this long-overdue Gemini upgrade on Android](https://www.androidauthority.com/google-docs-help-me-write-3605389/)
+ - [Google Pixel Buds 2a review: ANC is a welcome addition and sound is detailed and punchy, but there&#39;s still no wireless charging and voice performance suffers &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/251008/p36#a251008p36)
+ - [These 63 October Prime Day deals under $50 are still available](https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
