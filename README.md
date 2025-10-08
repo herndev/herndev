@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 196 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
- - [A profile of Josh Wallace Kerrigan, also known as Neural Viz, an independent creator using Midjourney, Runway, and other AI tools to create a cinematic universe &lpar;Christopher Beam/Wired&rpar;](http://www.techmeme.com/251007/p32#a251007p32)
- - [Lowest price of 2025: CMF Watch 3 Pro slashed to just $79](https://www.androidauthority.com/cmf-watch-3-pro-deal-3604582/)<!-- TECH:END -->
+ - [The 200 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
+ - [Prime Day 2025 - We’re Tracking Deals Live](https://www.wired.com/live/amazon-prime-day-deals-october-25/)
+ - [We dug through thousands of Prime Day deals to find 60 standouts for $50 or less](https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
