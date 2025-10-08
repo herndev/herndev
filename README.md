@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 8, #380](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-8-380/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 8 #584](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-8-584/#ftag=CAD590a51e)
- - [The 194 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)<!-- TECH:END -->
+ - [The 196 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
+ - [A profile of Josh Wallace Kerrigan, also known as Neural Viz, an independent creator using Midjourney, Runway, and other AI tools to create a cinematic universe &lpar;Christopher Beam/Wired&rpar;](http://www.techmeme.com/251007/p32#a251007p32)
+ - [Lowest price of 2025: CMF Watch 3 Pro slashed to just $79](https://www.androidauthority.com/cmf-watch-3-pro-deal-3604582/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
