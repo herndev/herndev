@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 200 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
- - [Prime Day 2025 - We’re Tracking Deals Live](https://www.wired.com/live/amazon-prime-day-deals-october-25/)
- - [We dug through thousands of Prime Day deals to find 60 standouts for $50 or less](https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025)<!-- TECH:END -->
+ - [The best laptop deals you can get for Amazon’s October Prime Day](https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple)
+ - [Google finally breaks silence on new Nest Hubs, and it’s more of a slow burn than a comeback](https://www.androidauthority.com/google-new-nest-hub-3605188/)
+ - [You can score up to $750 off robovacs from iRobot, Dreame, and Eufy right now](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
