@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Several Apple products are cheaper than usual now that fall Prime Day&amp;#8217;s almost over](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)
- - [Microsoft is moving GitHub over to Azure servers](https://www.theverge.com/tech/796119/microsoft-github-azure-migration-move-notepad)
- - [Sennheiser’s new HDB 360 headphones support high-res audio without a wire](https://www.theverge.com/news/796327/sennheiser-hdb-360-wireless-headphones-aptx-adaptive-bluetooth-high-res-audio)<!-- TECH:END -->
+ - [UE’s Wonderboom 4 is great for music lovers, and it’s 34 percent off](https://www.theverge.com/tech/792452/amazon-october-prime-day-ue-wonderboom-4-bluetooth-speaker-deal-sale-2025)
+ - [A new iPhone setting will stop CarPlay from stealing your AirPods&amp;#8217; audio](https://www.theverge.com/news/796554/iphone-ios-26-keep-airpods-wireless-headphones-connected-carplay)
+ - [Prime Day Brings Strong Savings on Some of Top Coffee and Espresso Machines](https://www.wired.com/story/best-prime-day-coffee-espresso-deals-october-2025-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
