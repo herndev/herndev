@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Running for your life just got a whole new meaning](http://9gag.com/gag/aGyN2Mn)
- - ⏩ [Nice way to die](http://9gag.com/gag/ayNVQwq)
- - 👉 [Update incoming.](http://9gag.com/gag/ayNVQ5M)<!-- MEMES:END -->
+ - 💣 [A knowledgeable person shared this, so I tried this prompt out with chatgpt. The improve is OUTSTANDING. I decided to share it because this is so useful and it worked so well for me. Chatgpt finally stopped patting backs all the time, and started to solve problems and be clear.](http://9gag.com/gag/a2vjLXd)
+ - ⏩ [Extracting gold from old phones](http://9gag.com/gag/a0eWEMX)
+ - 👉 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)<!-- MEMES:END -->
 
 ---
 
