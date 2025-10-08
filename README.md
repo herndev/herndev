@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
- - ⏩ [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
- - 👉 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)<!-- MEMES:END -->
+ - 💣 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
+ - ⏩ [Proof Americans are always the entitled little rats they are](http://9gag.com/gag/agmZ43v)
+ - 👉 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)<!-- MEMES:END -->
 
 ---
 
