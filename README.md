@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Squishmallows, Lego, and Other Toys Are 50% off Right Now](https://www.wired.com/story/amazon-prime-day-toy-deals-october-2025/)
- - [Deal alert! Rare Apple AirPods 4 saving lets you grab them for just $89](https://www.androidauthority.com/deal-apple-airpods-4-3605098/)
- - [A Twitch streamer gave birth live, with Twitch&amp;#8217;s CEO in the chat](https://www.theverge.com/news/796179/twitch-fandy-birth-livestream-dan-clancy)<!-- TECH:END -->
+ - [Several Apple products are cheaper than usual now that fall Prime Day&amp;#8217;s almost over](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)
+ - [Microsoft is moving GitHub over to Azure servers](https://www.theverge.com/tech/796119/microsoft-github-azure-migration-move-notepad)
+ - [Sennheiser’s new HDB 360 headphones support high-res audio without a wire](https://www.theverge.com/news/796327/sennheiser-hdb-360-wireless-headphones-aptx-adaptive-bluetooth-high-res-audio)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
