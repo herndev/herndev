@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
- - ⏩ [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
- - 👉 [Just a tourist place in Norway](http://9gag.com/gag/aByNGzz)<!-- MEMES:END -->
+ - 💣 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
+ - ⏩ [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
 
 ---
 
