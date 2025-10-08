@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [As Rainbow Six Siege X numbers continue to slide, Ubisoft promises to crack down on cheaters and &#39;prioritize a fun experience&#39; with future balance changes](https://www.pcgamer.com/games/fps/as-rainbow-six-siege-x-numbers-continue-to-slide-ubisoft-promises-to-crack-down-on-cheaters-and-prioritize-a-fun-experience-with-future-balance-changes/)
- - [Sky The Scrapper Mixes Persona And PowerWash Sim Into A Fascinating Arcade Game More People Should Try](https://kotaku.com/steam-indie-arcade-rpg-life-sim-persona-powerwasher-2000633307)
- - [‘The Face of a Master’ quest line walkthrough in Ghost of Yōtei](https://www.polygon.com/ghost-of-yotei-face-of-a-master-demon-quest-walkthrough/)<!-- GAME:END -->
+ - [Blizzard insists that now is the right time to axe World of Warcraft&#39;s popular combat mods: &#39;We&#39;re going to be playing very close attention in the weeks and months to come&#39;](https://www.pcgamer.com/games/world-of-warcraft/blizzard-insists-that-now-is-the-right-time-to-axe-world-of-warcrafts-popular-combat-mods-were-going-to-be-playing-very-close-attention-in-the-weeks-and-months-to-come/)
+ - [This Game Sentences Impatient Players To Cutscene Jail And It’s Brilliant](https://kotaku.com/baby-steps-bennet-foddy-cutscenes-skip-2000633326)
+ - [Report: Ubisoft Canceled An Assassin’s Creed Where You Played A Former Slave After The Civil War](https://kotaku.com/assassins-creed-game-cancel-reconstruction-black-slave-2000633318)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
