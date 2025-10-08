@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [A short and witty title does the trick](http://9gag.com/gag/aO8N9Wv)
- - ⏩ [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
- - 👉 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)<!-- MEMES:END -->
+ - ⏩ [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
+ - 👉 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)<!-- MEMES:END -->
 
 ---
 
