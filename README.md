@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
+ - 💣 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
  - ⏩ [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
  - 👉 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)<!-- MEMES:END -->
 
