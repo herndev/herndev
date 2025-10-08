@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oddly satisfying](http://9gag.com/gag/aAyNXP0)
- - ⏩ [Works better than pills and no side effects haha](http://9gag.com/gag/aqypWev)
- - 👉 [Running for your life just got a whole new meaning](http://9gag.com/gag/aGyN2Mn)<!-- MEMES:END -->
+ - 💣 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - ⏩ [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
+ - 👉 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)<!-- MEMES:END -->
 
 ---
 
