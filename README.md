@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
- - ⏩ [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
- - 👉 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)<!-- MEMES:END -->
+ - 💣 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
+ - ⏩ [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
+ - 👉 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)<!-- MEMES:END -->
 
 ---
 
