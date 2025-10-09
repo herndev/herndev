@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You still have time to save on Verge-favorite gadgets before Prime Day ends](https://www.theverge.com/tech/794507/amazon-october-prime-day-deals-verge-favorites-2025)
- - [Prime offer: Snag the GoPro HERO13 Black Ultra Wide Edition at a record-low price](https://www.androidauthority.com/gopro-hero13-black-ultra-wide-edition-deal-3605639/)
- - [I never lose my wallet with Nomad&amp;#8217;s slim tracker, which is 20 percent off right now](https://www.theverge.com/tech/797044/amazon-october-prime-day-nomad-tracking-card-deal-sale-2025)<!-- TECH:END -->
+ - [Discord support was breached, and accounts vary on how bad it was](https://appleinsider.com/articles/25/10/08/discord-support-was-breached-and-accounts-vary-on-how-bad-it-was?utm_source=rss)
+ - [Deal: Save 35% on the Fitbit Charge 6](https://www.androidauthority.com/fitbit-charge-6-deal-3605636/)
+ - [The best October Prime Day deals at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
