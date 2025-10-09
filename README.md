@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The German government scales back financial aid for its semiconductor industry, cutting €3B from its previously planned €15B chip subsidies to fund road repairs &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251009/p43#a251009p43)
- - [The AI industry is at a major crossroads](https://www.theverge.com/podcast/796667/ai-industry-crossroads-openai-sora-chatgpt)
- - [Here’s your first look at Gemini in Google Maps navigation](https://www.androidauthority.com/google-maps-gemini-navigation-integration-3605830/)<!-- TECH:END -->
+ - [Apple shows off the unsettling world of Pluribus in first trailer](https://www.theverge.com/tech/797754/pluribus-trailer-apple-tv-plus)
+ - [OpenAI’s Sora has already hit more than 1 million downloads](https://www.theverge.com/news/797752/openai-sora-app-1-million-downloads)
+ - [We Found 136 of the Best Prime Day Deals Still on for 2025: Up to 55% Off](https://www.wired.com/story/prime-day-deals-october-2025-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
