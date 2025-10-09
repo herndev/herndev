@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe launches AI agents tailored for B2B marketers within its Adobe Experience Platform, after launching AI agents aimed at consumer marketing in September &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251009/p48#a251009p48)
  - [US Mobile is offering 3 unlimited lines for the price of just one, too good to be true?](https://www.androidauthority.com/us-mobile-3-for-1-deal-3605969/)
- - [Kernel, which helps AI agents access the internet more efficiently via Chrome, raised $22M in seed and Series A led by Accel &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/251009/p47#a251009p47)
- - [Amazon’s giant ads have ruined the Echo Show](https://www.theverge.com/report/797672/amazon-echo-show-ads-alexa-plus)<!-- TECH:END -->
+ - [Netflix Is Bringing These 5 Party Games to a TV Near You](https://www.cnet.com/tech/gaming/netflix-is-bringing-these-5-party-games-to-a-tv-near-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
