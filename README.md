@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Discord estimates 70,000 users globally may have had government ID photos exposed in a September 20 third-party customer service data breach &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251008/p50#a251008p50)
  - [Discord support was breached, and accounts vary on how bad it was](https://appleinsider.com/articles/25/10/08/discord-support-was-breached-and-accounts-vary-on-how-bad-it-was?utm_source=rss)
- - [Deal: Save 35% on the Fitbit Charge 6](https://www.androidauthority.com/fitbit-charge-6-deal-3605636/)
- - [The best October Prime Day deals at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025)<!-- TECH:END -->
+ - [Deal: Save 35% on the Fitbit Charge 6](https://www.androidauthority.com/fitbit-charge-6-deal-3605636/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
