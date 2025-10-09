@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer magazine&#39;s new issue is on sale now: Battlefield 6](https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-battlefield-6/)
- - [Today&#39;s Wordle clues, hints and answer for October 9 &lpar;#1573&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-9-2025/)
- - [A lost chapter of Warhammer 40,000 space marines has been found: &#39;A miracle!&#39;](https://www.pcgamer.com/games/board-games/a-lost-chapter-of-warhammer-40-000-space-marines-has-been-found-a-miracle/)<!-- GAME:END -->
+ - [Gigabyte Gaming A16 review](https://www.pcgamer.com/hardware/gaming-laptops/gigabyte-gaming-a16-gaming-laptop-review/)
+ - [Still in early access, Hyper Light Breaker&#39;s ending development and laying off staff: &#39;This was not our ideal path, but rather the only one available given the circumstances&#39;](https://www.pcgamer.com/games/roguelike/still-in-early-access-hyper-light-breakers-ending-development-and-laying-off-staff-this-was-not-our-ideal-path-but-rather-the-only-one-available-given-the-circumstances/)
+ - [Here&#39;s the Battlefield 6 release time for your region](https://www.pcgamer.com/games/fps/battlefield-6-release-date-launch-times/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
