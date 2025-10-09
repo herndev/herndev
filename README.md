@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Collect and Customize to Your Heart’s Content in Yooka-Replaylee](https://news.xbox.com/en-us/2025/10/09/collect-and-customize-to-your-hearts-content-in-yooka-replaylee/)
- - [The Cheapest Way To Buy The Switch 2’s Biggest Holiday Games](https://kotaku.com/pokemon-legends-za-discount-cheap-switch-2-metroid-prime-4-2000633703)
- - [This 4.6-Star Rated Soundcore Portable Bluetooth Speaker Selling for Post-Prime Pennies](https://kotaku.com/this-4-6-star-rated-soundcore-portable-bluetooth-speaker-selling-for-post-prime-pennies-2000633350)<!-- GAME:END -->
+ - [EA is charging Skate players $35 for a cardboard Dead Space skin and it took me 40 straight minutes of game crashes to confirm it](https://www.pcgamer.com/games/sports/ea-is-charging-skate-players-usd35-for-a-cardboard-dead-space-skin-and-it-took-me-40-straight-minutes-of-game-crashes-to-confirm-it/)
+ - [The 10 Highest-Priced Cards In Pokémon TCG’s Mega Evolution Set](https://kotaku.com/pokemon-tcg-mega-evolution-cards-price-mega-lucario-gardevoir-hyper-rare-2000633650)
+ - [Ubisoft&#39;s canceled Assassin&#39;s Creed Civil War game was a ticking time bomb](https://www.polygon.com/assassins-creed-civil-war-cancel-ubisoft-politics/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
