@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel unveils Panther Lake, or Intel Core Ultra Series 3, the first chip built on its 18A process, coming to laptops and handhelds in late 2025 and early 2026 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251009/p28#a251009p28)
- - [Apple killing ICE watching apps is the right business decision, but the wrong moral one](https://appleinsider.com/articles/25/10/09/apple-killing-ice-watching-apps-is-the-right-business-decision-but-the-wrong-moral-one?utm_source=rss)
- - [Netflix&amp;#8217;s first TV party games include Lego, Boggle, and Tetris](https://www.theverge.com/streaming/797589/netflix-tv-party-games-boggle-tetris-lego-party)<!-- TECH:END -->
+ - [Xtra: the company that lets DJI sneak its popular cameras into the US](https://www.theverge.com/report/795016/xtra-muse-dji-osmo-pocket-3-us-customs-tariffs)
+ - [Google fights to prevent search remedies from inhibiting its AI ambitions](https://www.theverge.com/news/797639/google-search-remedies-doj-gemini-ai)
+ - [Intel CTO Sachin Katti says 18A and Panther Lake are &quot;foundational to our future&quot; and manufacturing is &quot;mission critical, not just for Intel but for&quot; the US &lpar;New York Times&rpar;](http://www.techmeme.com/251009/p33#a251009p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
