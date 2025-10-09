@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is making its video games available on smart TVs and streaming devices like Roku for the first time, with phones serving as controllers &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/251008/p52#a251008p52)
- - [Sony&amp;#8217;s noise-canceling WH-1000XM5 headphones are a Prime Day steal at $150 off](https://www.theverge.com/tech/797220/amazon-october-prime-day-sony-wh-1000xm5-headphones-deal-sale-2025)
- - [The 228 best last-minute Prime Day deals you can still grab](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)<!-- TECH:END -->
+ - [During a Mumbai trade visit, UK PM Keir Starmer hailed India&#39;s digital ID program, Aadhaar, as a &quot;massive success&quot; as the UK plans to introduce digital ID cards &lpar;Financial Times&rpar;](http://www.techmeme.com/251009/p2#a251009p2)
+ - [October’s Prime Day event is almost over, but our favorite deals are still live](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
+ - [Sources: Cursor-maker Anysphere is considering investment offers at a ~$30B valuation; Cursor generates $500M in ARR as of June, third highest for an AI app &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/251009/p1#a251009p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
