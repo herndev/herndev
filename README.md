@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe launches AI agents tailored for B2B marketers within its Adobe Experience Platform, after launching AI agents aimed at consumer marketing in September &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251009/p48#a251009p48)
- - [US Mobile is offering 3 unlimited lines for the price of just one, too good to be true?](https://www.androidauthority.com/us-mobile-3-for-1-deal-3605969/)
- - [Netflix Is Bringing These 5 Party Games to a TV Near You](https://www.cnet.com/tech/gaming/netflix-is-bringing-these-5-party-games-to-a-tv-near-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anker’s Nebula P1 pairs a portable projector with detachable speakers without breaking the bank](https://www.androidauthority.com/anker-nebula-p1-portable-projector-3606019/)
+ - [Sources: crypto investor Roger Ver, aka &quot;Bitcoin Jesus&quot;, has reached a tentative agreement with the US DOJ to pay ~$48M to end a 2024 criminal tax fraud case &lpar;New York Times&rpar;](http://www.techmeme.com/251009/p51#a251009p51)
+ - [Want a foldable? The Samsung’s hottest ones are up to $470 off!](https://www.androidauthority.com/samsung-galaxy-z-fold-7-z-flip-7-deals-3605635/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
