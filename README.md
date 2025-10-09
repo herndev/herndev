@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
- - ⏩ [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
- - 👉 [Ben Affleck beating Tarantino for Best Director back in 2012](http://9gag.com/gag/aXPGRbb)<!-- MEMES:END -->
+ - 💣 [Wowser..](http://9gag.com/gag/ajPMW90)
+ - ⏩ [Extracting gold from old phones](http://9gag.com/gag/a0eWEMX)
+ - 👉 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)<!-- MEMES:END -->
 
 ---
 
