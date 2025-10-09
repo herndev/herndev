@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Invincible VS: Intelligence Agent Cecil Stedman Joins The Roster](https://news.xbox.com/en-us/2025/10/09/invincible-vs-intelligence-agent-cecil-stedman-joins-the-roster/)
- - [World of Warcraft: Midnight has some of Blizzard&#39;s most controversial changes yet, but playing the alpha still has me hopeful it&#39;ll figure it out](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnight-has-some-of-blizzards-most-controversial-changes-yet-but-playing-the-alpha-still-has-me-hopeful-itll-figure-it-out/)
- - [The Secret Behind The Fastest XP/JP Grind In Final Fantasy Tactics? Frogs](https://kotaku.com/final-fantasy-tactics-guide-xp-jp-grind-tips-2000633724)<!-- GAME:END -->
+ - [Throwback strategy game Heroes of Might and Magic: Olden Era is delayed to 2026, but a new demo on Steam means you can play some of it right now for free](https://www.pcgamer.com/games/strategy/throwback-strategy-game-heroes-of-might-and-magic-olden-era-is-delayed-to-2026-but-a-new-demo-on-steam-means-you-can-play-some-of-it-right-now-for-free/)
+ - [These fake Magic cards celebrate the best fantasy movie of the year](https://www.polygon.com/deathstalker-fake-magic-cards/)
+ - [Arc Raiders Is Trying To Fix One Of The Most Frustrating Things About Extraction Shooters](https://kotaku.com/arc-raiders-extraction-pvpve-progression-wipe-loot-2000633739)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
