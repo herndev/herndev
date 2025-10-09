@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Laid-off devs of cancelled ZeniMax MMO Project Blackbird form new studio &#39;with no outside investors and full creative control,&#39; and they&#39;re calling it Sackbird](https://www.pcgamer.com/gaming-industry/laid-off-devs-of-cancelled-zenimax-mmo-project-blackbird-form-new-studio-with-no-outside-investors-and-full-creative-control-and-theyre-calling-it-sackbird/)
  - [Skate’s Charging $35 For A Dead Space Skin That Looks Like A Bad Cosplay Made Outta Junk From Home Depot](https://kotaku.com/ea-skate-dead-space-skin-season-rewards-2000633352)
- - [Doja Cat Denies Responsibility For Deleted Fortnite Post About Sex Toys, Calls It ‘Cringe’](https://kotaku.com/doja-cat-fortnite-sex-toy-deleted-skin-halloween-2025-2000633338)
- - [Can you ID these videogames just from their food? Take our latest, tastiest quiz!](https://www.pcgamer.com/games/can-you-id-these-videogames-just-from-their-food-take-our-latest-tastiest-quiz/)<!-- GAME:END -->
+ - [Doja Cat Denies Responsibility For Deleted Fortnite Post About Sex Toys, Calls It ‘Cringe’](https://kotaku.com/doja-cat-fortnite-sex-toy-deleted-skin-halloween-2025-2000633338)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
