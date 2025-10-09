@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Throwback strategy game Heroes of Might and Magic: Olden Era is delayed to 2026, but a new demo on Steam means you can play some of it right now for free](https://www.pcgamer.com/games/strategy/throwback-strategy-game-heroes-of-might-and-magic-olden-era-is-delayed-to-2026-but-a-new-demo-on-steam-means-you-can-play-some-of-it-right-now-for-free/)
- - [These fake Magic cards celebrate the best fantasy movie of the year](https://www.polygon.com/deathstalker-fake-magic-cards/)
- - [Arc Raiders Is Trying To Fix One Of The Most Frustrating Things About Extraction Shooters](https://kotaku.com/arc-raiders-extraction-pvpve-progression-wipe-loot-2000633739)<!-- GAME:END -->
+ - [Indiana Jones and the Great Circle is getting a New Game+ mode and some new duds in a free update](https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-is-getting-a-new-game-mode-and-some-new-duds-in-a-free-update/)
+ - [Wordle comes to Cyberpunk 2077, only it&#39;s better because it takes slang words like &#39;CHOOM&#39; and &#39;GONKS&#39;](https://www.pcgamer.com/games/rpg/wordle-comes-to-cyberpunk-2077-only-its-better-because-it-takes-slang-words-like-choom-and-gonks/)
+ - [Where is Maurice&#39;s Black Market Vending Machine in Borderlands 4](https://www.polygon.com/borderlands-4-maurices-black-market-vending-legendary-machine-location/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
