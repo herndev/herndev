@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at China&#39;s AI toy boom, which builds on decades of consumer electronics designed for children, as AI toy companies expand into the US and other markets &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/251009/p12#a251009p12)
- - [Google TV could soon let you generate and watch your own videos](https://www.androidauthority.com/google-tv-gemini-videos-3605690/)
- - [Ferrari Reveals Its Electric Powerhouse, and What Could Finally Be Real EV Sound](https://www.wired.com/story/ferrari-reveals-its-electric-powerhouse-and-what-could-finally-be-real-ev-sound/)<!-- TECH:END -->
+ - [The Meta Ray-Ban Display’s most interesting tech might be the glass](https://www.theverge.com/news/797442/ifixit-meta-ray-ban-display-smartglasses-teardown-glass)
+ - [OpenAI expands its ~$5 ChatGPT Go plan to 16 new Asian countries, including Malaysia, Pakistan, the Philippines, and Vietnam, after launching it in August &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251009/p17#a251009p17)
+ - [ASML names Marco Pieters as its new CTO, replacing Martin van den Brink who left in 2024; Pieters was most recently EVP of ASML&#39;s Applications business &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251009/p16#a251009p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
