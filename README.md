@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI complains to EU that Apple, Microsoft &amp; Google may hamper growth](https://appleinsider.com/articles/25/10/09/openai-complains-to-eu-that-apple-microsoft-google-may-hamper-growth?utm_source=rss)
- - [Samsung Galaxy XR leak unearths almost everything you need to know about the headset](https://www.androidauthority.com/samsung-galaxy-xr-renders-specs-3605834/)
- - [A study finds that as few as 250 malicious documents can produce a &quot;backdoor&quot; vulnerability in an LLM, regardless of model size or training data volume &lpar;Anthropic&rpar;](http://www.techmeme.com/251009/p45#a251009p45)<!-- TECH:END -->
+ - [US Mobile is offering 3 unlimited lines for the price of just one, too good to be true?](https://www.androidauthority.com/us-mobile-3-for-1-deal-3605969/)
+ - [Kernel, which helps AI agents access the internet more efficiently via Chrome, raised $22M in seed and Series A led by Accel &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/251009/p47#a251009p47)
+ - [Amazon’s giant ads have ruined the Echo Show](https://www.theverge.com/report/797672/amazon-echo-show-ads-alexa-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
