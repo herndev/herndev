@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shows off the unsettling world of Pluribus in first trailer](https://www.theverge.com/tech/797754/pluribus-trailer-apple-tv-plus)
- - [OpenAI’s Sora has already hit more than 1 million downloads](https://www.theverge.com/news/797752/openai-sora-app-1-million-downloads)
- - [We Found 136 of the Best Prime Day Deals Still on for 2025: Up to 55% Off](https://www.wired.com/story/prime-day-deals-october-2025-1/)<!-- TECH:END -->
+ - [OpenAI complains to EU that Apple, Microsoft &amp; Google may hamper growth](https://appleinsider.com/articles/25/10/09/openai-complains-to-eu-that-apple-microsoft-google-may-hamper-growth?utm_source=rss)
+ - [Samsung Galaxy XR leak unearths almost everything you need to know about the headset](https://www.androidauthority.com/samsung-galaxy-xr-renders-specs-3605834/)
+ - [A study finds that as few as 250 malicious documents can produce a &quot;backdoor&quot; vulnerability in an LLM, regardless of model size or training data volume &lpar;Anthropic&rpar;](http://www.techmeme.com/251009/p45#a251009p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
