@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigabyte Gaming A16 review](https://www.pcgamer.com/hardware/gaming-laptops/gigabyte-gaming-a16-gaming-laptop-review/)
- - [Still in early access, Hyper Light Breaker&#39;s ending development and laying off staff: &#39;This was not our ideal path, but rather the only one available given the circumstances&#39;](https://www.pcgamer.com/games/roguelike/still-in-early-access-hyper-light-breakers-ending-development-and-laying-off-staff-this-was-not-our-ideal-path-but-rather-the-only-one-available-given-the-circumstances/)
- - [Here&#39;s the Battlefield 6 release time for your region](https://www.pcgamer.com/games/fps/battlefield-6-release-date-launch-times/)<!-- GAME:END -->
+ - [Sick of clicky-clacky keys? Google Japan offers a reminder that it could always be worse, unveiling a rotary keyboard concept](https://www.pcgamer.com/hardware/gaming-keyboards/sick-of-clicky-clacky-keys-google-japan-offers-a-reminder-that-it-could-always-be-worse-unveiling-a-rotary-keyboard-concept/)
+ - [All Battlefield 6 Twitch Drops and how to get them](https://www.pcgamer.com/games/fps/battlefield-6-twitch-drops/)
+ - [Ghost of Yōtei nails the art of open-world exploration](https://www.polygon.com/ghost-of-yotei-open-world-exploration/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
