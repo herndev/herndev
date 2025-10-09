@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Meta Ray-Ban Display’s most interesting tech might be the glass](https://www.theverge.com/news/797442/ifixit-meta-ray-ban-display-smartglasses-teardown-glass)
- - [OpenAI expands its ~$5 ChatGPT Go plan to 16 new Asian countries, including Malaysia, Pakistan, the Philippines, and Vietnam, after launching it in August &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251009/p17#a251009p17)
- - [ASML names Marco Pieters as its new CTO, replacing Martin van den Brink who left in 2024; Pieters was most recently EVP of ASML&#39;s Applications business &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251009/p16#a251009p16)<!-- TECH:END -->
+ - [An analysis of nearly 50 Amazon purchases over six months in 2025: during the October 7-8 Prime Day sales, average savings were only 0.6% and some items went up &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/251009/p22#a251009p22)
+ - [OneDrive is getting a new Windows app and an AI photo agent](https://www.theverge.com/news/797444/microsoft-onedrive-new-windows-app-ai-copilot-features)
+ - [Apple plans to update its Declared Age Range API and launch new APIs &quot;later this year&quot; to verify the ages of Apple Account users in Texas from January 1, 2026 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251009/p21#a251009p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
