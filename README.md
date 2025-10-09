@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have turned into my Grandmother.](https://www.reddit.com/r/funny/comments/1o2j6l4/i_have_turned_into_my_grandmother/)
- - ⏩ [Typing this on a plane, hope no one sees](http://9gag.com/gag/aryr81d)
- - 👉 [Extracting gold from old phones](http://9gag.com/gag/a0eWEMX)<!-- MEMES:END -->
+ - 💣 [Typing this on a plane, hope no one sees](http://9gag.com/gag/aryr81d)
+ - ⏩ [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
+ - 👉 [I like my chances if I ever participate in this show](http://9gag.com/gag/aKGNYpb)<!-- MEMES:END -->
 
 ---
 
