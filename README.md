@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
- - ⏩ [Extracting gold from old phones](http://9gag.com/gag/a0eWEMX)
+ - ⏩ [Wowser..](http://9gag.com/gag/ajPMW90)
  - 👉 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)<!-- MEMES:END -->
 
 ---
