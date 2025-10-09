@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s Nebula P1 pairs a portable projector with detachable speakers without breaking the bank](https://www.androidauthority.com/anker-nebula-p1-portable-projector-3606019/)
- - [Sources: crypto investor Roger Ver, aka &quot;Bitcoin Jesus&quot;, has reached a tentative agreement with the US DOJ to pay ~$48M to end a 2024 criminal tax fraud case &lpar;New York Times&rpar;](http://www.techmeme.com/251009/p51#a251009p51)
- - [Want a foldable? The Samsung’s hottest ones are up to $470 off!](https://www.androidauthority.com/samsung-galaxy-z-fold-7-z-flip-7-deals-3605635/)<!-- TECH:END -->
+ - [Microsoft and Anthropic appoint former UK prime minister Rishi Sunak as a senior adviser and pledge his role will not include lobbying with the UK government &lpar;Financial Times&rpar;](http://www.techmeme.com/251009/p52#a251009p52)
+ - [Ferrari exposes the guts of its upcoming 1000hp EV](https://www.theverge.com/news/797746/ferrari-ev-motor-range-power-shifting)
+ - [NYC sues Google and other social media giants over their addictive platforms](https://www.androidauthority.com/nyc-sues-google-over-social-media-3606043/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
