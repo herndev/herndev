@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DC Comics won’t support generative AI: ‘not now, not ever’](https://www.theverge.com/news/797540/dc-comics-jim-lee-no-generative-ai-pledge)
- - [TAG Heuer calls timeout on Wear OS with its latest luxury smartwatch](https://www.androidauthority.com/tag-heuer-ditches-wear-os-connected-calibre-e5-3605704/)
- - [Sources: Disney has opted out of having its IP appear in OpenAI&#39;s Sora app; CAA says OpenAI is exposing artists to &quot;significant risk&quot; with Sora &lpar;Mrinmay Dey/Reuters&rpar;](http://www.techmeme.com/251009/p24#a251009p24)<!-- TECH:END -->
+ - [Intel unveils Panther Lake, or Intel Core Ultra Series 3, the first chip built on its 18A process, coming to laptops and handhelds in late 2025 and early 2026 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251009/p28#a251009p28)
+ - [Apple killing ICE watching apps is the right business decision, but the wrong moral one](https://appleinsider.com/articles/25/10/09/apple-killing-ice-watching-apps-is-the-right-business-decision-but-the-wrong-moral-one?utm_source=rss)
+ - [Netflix&amp;#8217;s first TV party games include Lego, Boggle, and Tetris](https://www.theverge.com/streaming/797589/netflix-tv-party-games-boggle-tetris-lego-party)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
