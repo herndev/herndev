@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xtra: the company that lets DJI sneak its popular cameras into the US](https://www.theverge.com/report/795016/xtra-muse-dji-osmo-pocket-3-us-customs-tariffs)
- - [Google fights to prevent search remedies from inhibiting its AI ambitions](https://www.theverge.com/news/797639/google-search-remedies-doj-gemini-ai)
- - [Intel CTO Sachin Katti says 18A and Panther Lake are &quot;foundational to our future&quot; and manufacturing is &quot;mission critical, not just for Intel but for&quot; the US &lpar;New York Times&rpar;](http://www.techmeme.com/251009/p33#a251009p33)<!-- TECH:END -->
+ - [SoundCloud evolves into a more social platform with the introduction of new community-oriented features, including playlists based on friends&#39; likes &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/251009/p40#a251009p40)
+ - [OpenAI raised concerns about anti-competitive conduct by &quot;entrenched companies&quot; in a September EU meeting; source: OpenAI targeted Google, Microsoft, and Apple &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251009/p39#a251009p39)
+ - [Bill Peebles, head of Sora at OpenAI, says the app hit 1M downloads less than five days after its launch, even faster than ChatGPT did &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251009/p38#a251009p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
