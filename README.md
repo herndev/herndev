@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer magazine&#39;s new issue is on sale now: Battlefield 6](https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-battlefield-6/)
  - [Today&#39;s Wordle clues, hints and answer for October 9 &lpar;#1573&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-9-2025/)
- - [A lost chapter of Warhammer 40,000 space marines has been found: &#39;A miracle!&#39;](https://www.pcgamer.com/games/board-games/a-lost-chapter-of-warhammer-40-000-space-marines-has-been-found-a-miracle/)
- - [Laid-off devs of cancelled ZeniMax MMO Project Blackbird form new studio &#39;with no outside investors and full creative control,&#39; and they&#39;re calling it Sackbird](https://www.pcgamer.com/gaming-industry/laid-off-devs-of-cancelled-zenimax-mmo-project-blackbird-form-new-studio-with-no-outside-investors-and-full-creative-control-and-theyre-calling-it-sackbird/)<!-- GAME:END -->
+ - [A lost chapter of Warhammer 40,000 space marines has been found: &#39;A miracle!&#39;](https://www.pcgamer.com/games/board-games/a-lost-chapter-of-warhammer-40-000-space-marines-has-been-found-a-miracle/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
