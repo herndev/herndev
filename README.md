@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Extracting gold from old phones](http://9gag.com/gag/a0eWEMX)
+ - 💣 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
  - ⏩ [That was f..ing close](http://9gag.com/gag/apRjAKE)
- - 👉 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)<!-- MEMES:END -->
+ - 👉 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)<!-- MEMES:END -->
 
 ---
 
