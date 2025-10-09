@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Extracting gold from old phones](http://9gag.com/gag/a0eWEMX)
- - ⏩ [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
- - 👉 [That was f..ing close](http://9gag.com/gag/apRjAKE)<!-- MEMES:END -->
+ - 💣 [That was f..ing close](http://9gag.com/gag/apRjAKE)
+ - ⏩ [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
+ - 👉 [Typing this on a plane, hope no one sees](http://9gag.com/gag/aryr81d)<!-- MEMES:END -->
 
 ---
 
