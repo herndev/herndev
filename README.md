@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This thin flagship will crush the Galaxy S25 Edge and iPhone Air on battery and charging speeds](https://www.androidauthority.com/motorola-edge-70-battery-charging-specs-3605674/)
- - [This seriously compact, versatile, and portable Google TV projector is now $100 off for Prime](https://www.androidauthority.com/tcl-projector-c1-google-tv-prime-big-deal-days-sale-3605676/)
- - [A Samsung researcher introduces the Tiny Recursion Model, a 7M-parameter model that was able to outperform LLMs 10,000x larger like o3-mini on specific problems &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251009/p11#a251009p11)<!-- TECH:END -->
+ - [A look at China&#39;s AI toy boom, which builds on decades of consumer electronics designed for children, as AI toy companies expand into the US and other markets &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/251009/p12#a251009p12)
+ - [Google TV could soon let you generate and watch your own videos](https://www.androidauthority.com/google-tv-gemini-videos-3605690/)
+ - [Ferrari Reveals Its Electric Powerhouse, and What Could Finally Be Real EV Sound](https://www.wired.com/story/ferrari-reveals-its-electric-powerhouse-and-what-could-finally-be-real-ev-sound/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
