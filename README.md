@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord estimates 70,000 users globally may have had government ID photos exposed in a September 20 third-party customer service data breach &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251008/p50#a251008p50)
- - [Discord support was breached, and accounts vary on how bad it was](https://appleinsider.com/articles/25/10/08/discord-support-was-breached-and-accounts-vary-on-how-bad-it-was?utm_source=rss)
- - [Deal: Save 35% on the Fitbit Charge 6](https://www.androidauthority.com/fitbit-charge-6-deal-3605636/)<!-- TECH:END -->
+ - [Sony&amp;#8217;s noise-canceling WH-1000XM5 headphones are a Prime Day steal at $150 off](https://www.theverge.com/tech/797220/amazon-october-prime-day-sony-wh-1000xm5-headphones-deal-sale-2025)
+ - [The 228 best last-minute Prime Day deals you can still grab](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
+ - [California Governor Gavin Newsom signs a bill that will require web browsers to add settings that allow residents to opt out of third-party data collection &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251008/p51#a251008p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
