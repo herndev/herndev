@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sick of clicky-clacky keys? Google Japan offers a reminder that it could always be worse, unveiling a rotary keyboard concept](https://www.pcgamer.com/hardware/gaming-keyboards/sick-of-clicky-clacky-keys-google-japan-offers-a-reminder-that-it-could-always-be-worse-unveiling-a-rotary-keyboard-concept/)
- - [All Battlefield 6 Twitch Drops and how to get them](https://www.pcgamer.com/games/fps/battlefield-6-twitch-drops/)
- - [Ghost of Yōtei nails the art of open-world exploration](https://www.polygon.com/ghost-of-yotei-open-world-exploration/)<!-- GAME:END -->
+ - [Collect and Customize to Your Heart’s Content in Yooka-Replaylee](https://news.xbox.com/en-us/2025/10/09/collect-and-customize-to-your-hearts-content-in-yooka-replaylee/)
+ - [The Cheapest Way To Buy The Switch 2’s Biggest Holiday Games](https://kotaku.com/pokemon-legends-za-discount-cheap-switch-2-metroid-prime-4-2000633703)
+ - [This 4.6-Star Rated Soundcore Portable Bluetooth Speaker Selling for Post-Prime Pennies](https://kotaku.com/this-4-6-star-rated-soundcore-portable-bluetooth-speaker-selling-for-post-prime-pennies-2000633350)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
