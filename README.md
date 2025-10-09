@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Primal season 3 creator breaks down the shocking NYCC trailer](https://www.polygon.com/genndy-tartakovskys-primal-takes-a-radical-horrifying-turn-in-season-3-trailer-reveal/)
  - [Indiana Jones and the Great Circle is getting a New Game+ mode and some new duds in a free update](https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-is-getting-a-new-game-mode-and-some-new-duds-in-a-free-update/)
- - [Wordle comes to Cyberpunk 2077, only it&#39;s better because it takes slang words like &#39;CHOOM&#39; and &#39;GONKS&#39;](https://www.pcgamer.com/games/rpg/wordle-comes-to-cyberpunk-2077-only-its-better-because-it-takes-slang-words-like-choom-and-gonks/)
- - [Where is Maurice&#39;s Black Market Vending Machine in Borderlands 4](https://www.polygon.com/borderlands-4-maurices-black-market-vending-legendary-machine-location/)<!-- GAME:END -->
+ - [Wordle comes to Cyberpunk 2077, only it&#39;s better because it takes slang words like &#39;CHOOM&#39; and &#39;GONKS&#39;](https://www.pcgamer.com/games/rpg/wordle-comes-to-cyberpunk-2077-only-its-better-because-it-takes-slang-words-like-choom-and-gonks/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
