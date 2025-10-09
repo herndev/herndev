@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
- - ⏩ [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
- - 👉 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)<!-- MEMES:END -->
+ - 💣 [You can&#39;t just post sugar and expect people to understand what you mean](http://9gag.com/gag/a34pbP8)
+ - ⏩ [Extracting gold from old phones](http://9gag.com/gag/a0eWEMX)
+ - 👉 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)<!-- MEMES:END -->
 
 ---
 
