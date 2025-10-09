@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Samsung researcher introduces the Tiny Recursion Model, a 7M-parameter model that was able to outperform LLMs 10,000x larger like o3-mini on specific problems &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251009/p11#a251009p11)
- - [A look at the risks of BNPL apps like Klarna on users&#39; financial health, as credit cards adopt BNPL features and regulators struggle to categorize BNPL services &lpar;Amy X. Wang/New York Times&rpar;](http://www.techmeme.com/251009/p10#a251009p10)
- - [Berlin-based n8n, which lets businesses automate repetitive computing tasks through AI agents, raised $180M led by Accel at a $2.5B valuation &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/251009/p9#a251009p9)<!-- TECH:END -->
+ - [This thin flagship will crush the Galaxy S25 Edge and iPhone Air on battery and charging speeds](https://www.androidauthority.com/motorola-edge-70-battery-charging-specs-3605674/)
+ - [This seriously compact, versatile, and portable Google TV projector is now $100 off for Prime](https://www.androidauthority.com/tcl-projector-c1-google-tv-prime-big-deal-days-sale-3605676/)
+ - [A Samsung researcher introduces the Tiny Recursion Model, a 7M-parameter model that was able to outperform LLMs 10,000x larger like o3-mini on specific problems &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251009/p11#a251009p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
