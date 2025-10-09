@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new Ring camera feature is seriously creeping people out](https://www.androidauthority.com/ring-familiar-faces-feature-backlash-3605662/)
- - [The Ethereum Foundation announces the &quot;Privacy cluster&quot;, a team of 47 blockchain industry experts developing protocol-level privacy features for the network &lpar;Vince Quill/Cointelegraph&rpar;](http://www.techmeme.com/251009/p5#a251009p5)
- - [Sources: Microsoft is planning a major healthcare push for Copilot in partnership with Harvard Medical School, as it seeks to reduce its dependence on OpenAI &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/251009/p4#a251009p4)<!-- TECH:END -->
+ - [A Samsung researcher introduces the Tiny Recursion Model, a 7M-parameter model that was able to outperform LLMs 10,000x larger like o3-mini on specific problems &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251009/p11#a251009p11)
+ - [A look at the risks of BNPL apps like Klarna on users&#39; financial health, as credit cards adopt BNPL features and regulators struggle to categorize BNPL services &lpar;Amy X. Wang/New York Times&rpar;](http://www.techmeme.com/251009/p10#a251009p10)
+ - [Berlin-based n8n, which lets businesses automate repetitive computing tasks through AI agents, raised $180M led by Accel at a $2.5B valuation &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/251009/p9#a251009p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
