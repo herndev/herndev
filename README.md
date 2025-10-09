@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft and Anthropic appoint former UK prime minister Rishi Sunak as a senior adviser and pledge his role will not include lobbying with the UK government &lpar;Financial Times&rpar;](http://www.techmeme.com/251009/p52#a251009p52)
- - [Ferrari exposes the guts of its upcoming 1000hp EV](https://www.theverge.com/news/797746/ferrari-ev-motor-range-power-shifting)
- - [NYC sues Google and other social media giants over their addictive platforms](https://www.androidauthority.com/nyc-sues-google-over-social-media-3606043/)<!-- TECH:END -->
+ - [EA&#39;s Battlefield 6, coming October 10, is a pivotal moment for the series and for EA, set to go private in a $55B deal, as EA competes with Activision and COD &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251009/p54#a251009p54)
+ - [The Amazon Echo Pop and Dot are still on sale!](https://www.androidauthority.com/amazon-echo-pop-dot-deals-3-3605634/)
+ - [Sources: Coinbase and Mastercard have each held talks to acquire stablecoin startup BVNK for $1.5B-$2.5B; a deal would be the largest stablecoin acquisition yet &lpar;Fortune&rpar;](http://www.techmeme.com/251009/p53#a251009p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
