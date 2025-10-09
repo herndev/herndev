@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoundCloud evolves into a more social platform with the introduction of new community-oriented features, including playlists based on friends&#39; likes &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/251009/p40#a251009p40)
- - [OpenAI raised concerns about anti-competitive conduct by &quot;entrenched companies&quot; in a September EU meeting; source: OpenAI targeted Google, Microsoft, and Apple &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251009/p39#a251009p39)
- - [Bill Peebles, head of Sora at OpenAI, says the app hit 1M downloads less than five days after its launch, even faster than ChatGPT did &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251009/p38#a251009p38)<!-- TECH:END -->
+ - [The German government scales back financial aid for its semiconductor industry, cutting €3B from its previously planned €15B chip subsidies to fund road repairs &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251009/p43#a251009p43)
+ - [The AI industry is at a major crossroads](https://www.theverge.com/podcast/796667/ai-industry-crossroads-openai-sora-chatgpt)
+ - [Here’s your first look at Gemini in Google Maps navigation](https://www.androidauthority.com/google-maps-gemini-navigation-integration-3605830/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
