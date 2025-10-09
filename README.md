@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
- - ⏩ [That was f..ing close](http://9gag.com/gag/apRjAKE)
- - 👉 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)<!-- MEMES:END -->
+ - 💣 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
+ - ⏩ [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
+ - 👉 [Ben Affleck beating Tarantino for Best Director back in 2012](http://9gag.com/gag/aXPGRbb)<!-- MEMES:END -->
 
 ---
 
