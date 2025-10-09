@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA is charging Skate players $35 for a cardboard Dead Space skin and it took me 40 straight minutes of game crashes to confirm it](https://www.pcgamer.com/games/sports/ea-is-charging-skate-players-usd35-for-a-cardboard-dead-space-skin-and-it-took-me-40-straight-minutes-of-game-crashes-to-confirm-it/)
- - [The 10 Highest-Priced Cards In Pokémon TCG’s Mega Evolution Set](https://kotaku.com/pokemon-tcg-mega-evolution-cards-price-mega-lucario-gardevoir-hyper-rare-2000633650)
- - [Ubisoft&#39;s canceled Assassin&#39;s Creed Civil War game was a ticking time bomb](https://www.polygon.com/assassins-creed-civil-war-cancel-ubisoft-politics/)<!-- GAME:END -->
+ - [Invincible VS: Intelligence Agent Cecil Stedman Joins The Roster](https://news.xbox.com/en-us/2025/10/09/invincible-vs-intelligence-agent-cecil-stedman-joins-the-roster/)
+ - [World of Warcraft: Midnight has some of Blizzard&#39;s most controversial changes yet, but playing the alpha still has me hopeful it&#39;ll figure it out](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnight-has-some-of-blizzards-most-controversial-changes-yet-but-playing-the-alpha-still-has-me-hopeful-itll-figure-it-out/)
+ - [The Secret Behind The Fastest XP/JP Grind In Final Fantasy Tactics? Frogs](https://kotaku.com/final-fantasy-tactics-guide-xp-jp-grind-tips-2000633724)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
