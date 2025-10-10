@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [After 5 years of stunning trailers, Skate Story is finally releasing in December, and its demo is so good it&#39;s immediately a GOTY contender](https://www.pcgamer.com/games/action/after-5-years-of-stunning-trailers-skate-story-is-finally-releasing-in-december-and-its-demo-is-so-good-its-immediately-a-goty-contender/)
  - [The Woman in Cabin 10 on Netflix: A sloppy attempt at gaslighting](https://www.polygon.com/the-woman-in-cabin-10-netflix-review/)
- - [Primal season 3 creator breaks down the shocking NYCC trailer](https://www.polygon.com/genndy-tartakovskys-primal-takes-a-radical-horrifying-turn-in-season-3-trailer-reveal/)
- - [Indiana Jones and the Great Circle is getting a New Game+ mode and some new duds in a free update](https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-is-getting-a-new-game-mode-and-some-new-duds-in-a-free-update/)<!-- GAME:END -->
+ - [Primal season 3 creator breaks down the shocking NYCC trailer](https://www.polygon.com/genndy-tartakovskys-primal-takes-a-radical-horrifying-turn-in-season-3-trailer-reveal/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
