@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost of Yōtei’s Sucker Punch Easter eggs are a walk down memory lane](https://www.polygon.com/ghost-of-yotei-sucker-punch-easter-eggs/)
- - [The Ultimate All-Out Warfare Experience: Battlefield 6 Is Available Today on Xbox Series X|S](https://www.xbox.com/en-US/games/store/battlefield-6/9P2FF14JZLL3/#new_tab)
- - [Battlefield 6 Shatters Over 700,000 Concurrents On Steam As Fans Battle Errors And Login Queues](https://kotaku.com/battlefield-6-steam-record-login-queue-multiplayer-download-issue-2000634042)<!-- GAME:END -->
+ - [EA&#39;s own launcher is making Battlefield 6 unplayable by telling users they&#39;re &#39;missing content&#39; or must &#39;purchase to play&#39; what they&#39;ve already bought](https://www.pcgamer.com/games/fps/eas-own-launcher-is-making-battlefield-6-unplayable-by-telling-users-theyre-missing-content-or-must-purchase-to-play-what-theyve-already-bought/)
+ - [How to solve the Reliquary of Faith puzzle in Ghost of Yōtei](https://www.polygon.com/ghost-of-yotei-reliquary-of-faith-puzzle-solution-how-to-solve/)
+ - [Wonder Man trailer reveals Marvel&#39;s most self-hating TV show ever](https://www.polygon.com/wonder-man-trailer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
