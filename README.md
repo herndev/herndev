@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some trauma never heals....](http://9gag.com/gag/aPAdrLV)
- - ⏩ [At least I&#39;ll go out on my own terms.](http://9gag.com/gag/aRBNOxq)
- - 👉 [Poor](http://9gag.com/gag/aYQnRB2)<!-- MEMES:END -->
+ - 💣 [You can&#39;t just post sugar and expect people to understand what you mean](http://9gag.com/gag/a34pbP8)
+ - ⏩ [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
+ - 👉 [Wowser..](http://9gag.com/gag/ajPMW90)<!-- MEMES:END -->
 
 ---
 
