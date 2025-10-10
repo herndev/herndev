@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
- - ⏩ [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
- - 👉 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)<!-- MEMES:END -->
+ - 💣 [Why do I think this funny? Because it is.](http://9gag.com/gag/ae9PRBW)
+ - ⏩ [How about them apples?](http://9gag.com/gag/aAyNZy9)
+ - 👉 [Reverse UNO perfectly executed...](http://9gag.com/gag/aByNojP)<!-- MEMES:END -->
 
 ---
 
