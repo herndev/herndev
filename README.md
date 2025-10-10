@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BOOX’s latest Android e-reader turns the page on connectivity](https://www.androidauthority.com/onyx-boox-p6-pro-launch-3606072/)
- - [OpenAI says GPT‑5 instant and GPT‑5 thinking cut political bias by 30% from earlier models, and show greater robustness to charged prompts &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/251010/p2#a251010p2)
- - [Google and Mercedes just showed us what Gemini can do in a car](https://www.androidauthority.com/google-mercedes-gemini-in-car-3606112/)<!-- TECH:END -->
+ - [This upcoming Google Messages feature could save you a click &lpar;and time&rpar;](https://www.androidauthority.com/google-messages-insights-apk-teardown-3606136/)
+ - [A profile of Singapore-based Megaspeed, which bought $2B of Nvidia chips and is under US probe for possibly helping Chinese companies evade export controls &lpar;New York Times&rpar;](http://www.techmeme.com/251010/p3#a251010p3)
+ - [The Galaxy Z Flip 8 could use a special Qualcomm flagship chip with some extra Samsung sauce](https://www.androidauthority.com/samsung-galaxy-z-flip-8-snapdragon-8-gen-5-3606127/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
