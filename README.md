@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says Cl0p hackers who exploited vulnerabilities in Oracle&#39;s E-Business Suite have stolen data from &quot;dozens&quot; of organizations since at least July 10 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/251009/p55#a251009p55)
- - [Need Apple AirTags? The 4-pack has dropped to record-low prices again](https://www.androidauthority.com/apple-airtag-4-pack-deal-10-3605633/)
- - [The Minecraft movie is getting a sequel](https://www.theverge.com/news/798064/a-minecraft-movie-sequel-2-release-date-2027)<!-- TECH:END -->
+ - [Health+ could debut in 2026 as Apple&#39;s next subscription service](https://appleinsider.com/articles/25/10/10/health-could-debut-in-2026-as-apples-next-subscription-service?utm_source=rss)
+ - [Jeff Williams prepares for retirement, passes Health, Fitness, &amp; Watch responsibilities on](https://appleinsider.com/articles/25/10/10/jeff-williams-prepares-for-retirement-passes-health-fitness-watch-responsibilities-on?utm_source=rss)
+ - [Sources: Apple plans health and fitness teams reorg under Eddy Cue, watchOS under Craig Federighi, and Watch hardware under John Ternus, as Jeff Williams exits &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251009/p56#a251009p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
