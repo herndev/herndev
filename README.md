@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA&#39;s Battlefield 6, coming October 10, is a pivotal moment for the series and for EA, set to go private in a $55B deal, as EA competes with Activision and COD &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251009/p54#a251009p54)
- - [The Amazon Echo Pop and Dot are still on sale!](https://www.androidauthority.com/amazon-echo-pop-dot-deals-3-3605634/)
- - [Sources: Coinbase and Mastercard have each held talks to acquire stablecoin startup BVNK for $1.5B-$2.5B; a deal would be the largest stablecoin acquisition yet &lpar;Fortune&rpar;](http://www.techmeme.com/251009/p53#a251009p53)<!-- TECH:END -->
+ - [Need Apple AirTags? The 4-pack has dropped to record-low prices again](https://www.androidauthority.com/apple-airtag-4-pack-deal-10-3605633/)
+ - [The Minecraft movie is getting a sequel](https://www.theverge.com/news/798064/a-minecraft-movie-sequel-2-release-date-2027)
+ - [EA&#39;s Battlefield 6, coming October 10, is a pivotal moment for the series and for EA, set to go private in a $55B deal, as EA competes with Activision and COD &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251009/p54#a251009p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
