@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am illegal](http://9gag.com/gag/a1mqxEG)
- - ⏩ [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
- - 👉 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)<!-- MEMES:END -->
+ - 💣 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
+ - ⏩ [Typing this on a plane, hope no one sees](http://9gag.com/gag/aryr81d)
+ - 👉 [From the archives](http://9gag.com/gag/aPAdnnG)<!-- MEMES:END -->
 
 ---
 
