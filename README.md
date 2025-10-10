@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for October 13 to 17](https://news.xbox.com/en-us/2025/10/10/next-week-on-xbox-new-games-for-october-13-to-17/)
- - [Hands-On With The New Lego Batman: This Feels Like The Arkham Game Everyone’s Been Missing](https://kotaku.com/lego-batman-legacy-of-the-dark-knight-preview-arkham-2000633994)
- - [Thank you Galax for this skinny RTX 5060 Ti because there&#39;s something surprisingly alluring about single-slot graphics cards](https://www.pcgamer.com/hardware/graphics-cards/thank-you-galax-for-this-skinny-rtx-5060-ti-because-theres-something-surprisingly-alluring-about-single-slot-graphics-cards/)<!-- GAME:END -->
+ - [Why Microids turned Agatha Christie&#39;s Death on the Nile into a far-out &#39;70s mind game](https://www.polygon.com/microids-agatha-christie-death-on-the-nile-interview/)
+ - [Pokémon Go &#39;Tales of Transformation&#39; Keldeo Special Research quest steps and rewards](https://www.polygon.com/pokemon-go-tales-of-transformation-keldeo-special-research-quest-steps-rewards/)
+ - [RPG devs stopped making games like Baldur&#39;s Gate &#39;because retailers told us no one wanted to buy them&#39;, says New Vegas and Pillars of Eternity director Josh Sawyer](https://www.pcgamer.com/games/baldurs-gate/rpg-devs-stopped-making-games-like-baldurs-gate-because-retailers-told-us-no-one-wanted-to-buy-them-says-new-vegas-and-pillars-of-eternity-director-josh-sawyer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
