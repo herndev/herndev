@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slide Over, Apple Glasses, and the Underdogs, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/10/slide-over-apple-glasses-and-the-underdogs-on-the-appleinsider-podcast?utm_source=rss)
- - [Apple is about to give more generous payouts from its Bug Bounty Program](https://appleinsider.com/articles/25/10/10/apple-is-about-to-give-more-generous-payouts-from-its-bug-bounty-program?utm_source=rss)
- - [Hate Exynos? Two of four Galaxy S26 phones may skip the Snapdragon 8 Elite Gen 5](https://www.androidauthority.com/samsung-s26-pro-plus-exynos-2600-3606184/)<!-- TECH:END -->
+ - [We’re all about to be in wearable hell](https://www.theverge.com/column/797938/optimizer-newsletter-wearable-hell-smart-glasses-smart-rings-ai-hardware)
+ - [You can now buy Microsoft&amp;#8217;s Windows XP Crocs for $79.95](https://www.theverge.com/news/798193/microsoft-windows-xp-crocs-price-release-date)
+ - [The Senate passes a measure requiring Nvidia and AMD to prioritize US customers over China for advanced AI chip sales, as part of a defense policy bill &lpar;Oma Seddiq/Bloomberg&rpar;](http://www.techmeme.com/251010/p13#a251010p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
