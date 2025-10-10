@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus responds: Here’s when your OnePlus Watch 3 and 2 will get Wear OS 6](https://www.androidauthority.com/oneplus-watch-3-watch-2-wear-os-6-timeline-3606220/)
- - [So much for Ford and GM’s scheme to extend the EV tax credit](https://www.theverge.com/news/798229/ford-gm-ev-tax-credit-lease-cancel)
- - [Edifier’s new wireless speaker looks like a gaming PC](https://www.theverge.com/news/798148/edifier-huazai-new-cyber-speaker-bluetooth-gaming-pc)<!-- TECH:END -->
+ - [President Trump threatens a &quot;massive increase of Tariffs&quot; on Chinese products, in response to export controls that China imposed on rare earth minerals &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/251010/p19#a251010p19)
+ - [Google Maps gets a community-made solution for its location history mess](https://www.androidauthority.com/google-maps-timeline-merging-tool-3606227/)
+ - [Samsung’s making One UI more eSIM-friendly with iPhone porting tool](https://www.androidauthority.com/samsungs-making-one-ui-more-esim-friendly-with-iphone-porting-tool-3606214/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
