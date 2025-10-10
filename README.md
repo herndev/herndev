@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 4 Player Kills 3,000 Bosses To Discover Disappointingly Low Legendary Drop Rate](https://kotaku.com/borderlands-4-legendary-drop-rate-bosses-patch-notes-nerf-2000634114)
- - [Remedy issues &#39;profit warning&#39; after FBC: Firebreak&#39;s big overhaul fails to turn things around: &#39;Despite improved player and sales metrics after the update, sales have not reached Remedy’s internal targets&#39;](https://www.pcgamer.com/games/fps/remedy-issues-profit-warning-after-fbc-firebreaks-big-overhaul-fails-to-turn-things-around-despite-improved-player-and-sales-metrics-after-the-update-sales-have-not-reached-remedys-internal-targets/)
- - [Just Three Days After Prime Day, Bose Offloads Its TV Soundbar at a New Record Low Price](https://kotaku.com/just-three-days-after-prime-day-bose-offloads-its-tv-soundbar-at-a-new-record-low-price-2000634100)<!-- GAME:END -->
+ - [The 2026 game release calendar so far has GTA 6 standing alone in May—who will be brave enough to challenge it?](https://www.pcgamer.com/games/new-pc-games-2026/)
+ - [One little bug has broken Hollow Knight: Silksong speedrunning wide open with the ability to fly through the game as an unkillable god](https://www.pcgamer.com/games/action/one-little-bug-has-broken-hollow-knight-silksong-speedrunning-wide-open-with-the-ability-to-fly-through-the-game-as-an-unkillable-god/)
+ - [Bose Is Quietly Selling Its QC Headphones at a New Record Low After Prime Day to Clear Out Stock](https://kotaku.com/bose-is-quietly-selling-its-qc-headphones-at-a-new-record-low-after-prime-day-to-clear-out-stock-2000634117)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
