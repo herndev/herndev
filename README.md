@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Health+ could debut in 2026 as Apple&#39;s next subscription service](https://appleinsider.com/articles/25/10/10/health-could-debut-in-2026-as-apples-next-subscription-service?utm_source=rss)
- - [Jeff Williams prepares for retirement, passes Health, Fitness, &amp; Watch responsibilities on](https://appleinsider.com/articles/25/10/10/jeff-williams-prepares-for-retirement-passes-health-fitness-watch-responsibilities-on?utm_source=rss)
- - [Sources: Apple plans health and fitness teams reorg under Eddy Cue, watchOS under Craig Federighi, and Watch hardware under John Ternus, as Jeff Williams exits &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251009/p56#a251009p56)<!-- TECH:END -->
+ - [You can now grab the Pixel 10 Pro Fold for just $799 with this massive T-Mobile deal](https://www.androidauthority.com/t-mobile-pixel-10-pro-fold-deal-3606108/)
+ - [a16z hires ex-VMware CEO Raghu Raghuram as general partner overseeing AI infrastructure and growth investments and as a managing partner, replacing Scott Kupor &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/251009/p57#a251009p57)
+ - [Health+ could debut in 2026 as Apple&#39;s next subscription service](https://appleinsider.com/articles/25/10/10/health-could-debut-in-2026-as-apples-next-subscription-service?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
