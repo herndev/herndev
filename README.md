@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I know them dudes will appreciate this.](http://9gag.com/gag/a87XKXe)
+ - 💣 [Typing this on a plane, hope no one sees](http://9gag.com/gag/aryr81d)
  - ⏩ [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
  - 👉 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)<!-- MEMES:END -->
 
