@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MTG TMNT spoilers: Check out 29 new cards, including a Commander deck](https://www.polygon.com/mtg-tmnt-spoilers-cards-magic-the-gathering-commander-precon/)
- - [Borderlands 4 director says use dialogue skip mod at your peril—it might turbo-brick your missions](https://www.pcgamer.com/games/fps/borderlands-4-director-says-use-dialogue-skip-mod-at-your-peril-it-might-turbo-brick-your-missions/)
- - [Critical Role campaign 4 episode 2 goes full Evangelion](https://www.polygon.com/critical-role-campaign-4-episode-2-angel-evangelion-lilith/)<!-- GAME:END -->
+ - [Ghost of Yōtei’s Sucker Punch Easter eggs are a walk down memory lane](https://www.polygon.com/ghost-of-yotei-sucker-punch-easter-eggs/)
+ - [The Ultimate All-Out Warfare Experience: Battlefield 6 Is Available Today on Xbox Series X|S](https://www.xbox.com/en-US/games/store/battlefield-6/9P2FF14JZLL3/#new_tab)
+ - [Battlefield 6 Shatters Over 700,000 Concurrents On Steam As Fans Battle Errors And Login Queues](https://kotaku.com/battlefield-6-steam-record-login-queue-multiplayer-download-issue-2000634042)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
