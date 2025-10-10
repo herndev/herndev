@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome’s got a new trick to spare you from useless notifications](https://www.androidauthority.com/chrome-notifications-3606007/)
- - [Chrome will automatically disable web notifications you don’t care about](https://www.theverge.com/news/798122/google-chrome-website-notifications-disable-feature)
- - [It&#39;s easy to guess that M5 MacBook Pro &amp; iPad Pro are coming in October](https://appleinsider.com/articles/25/10/10/its-easy-to-guess-that-m5-macbook-pro-ipad-pro-are-coming-in-october?utm_source=rss)<!-- TECH:END -->
+ - [Successor to one of the best Android camera phones could get big upgrades and two versions](https://www.androidauthority.com/xiaomi-17-ultra-camera-specs-leak-3606304/)
+ - [Prezent, which offers an AI-powered presentation builder to enterprises, raised $30M at a $400M valuation, bringing its total raised to $74M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251010/p21#a251010p21)
+ - [You can still snag LG’s C4 OLED TV at half the price](https://www.theverge.com/tech/798322/lg-c4-c5-oled-tv-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
