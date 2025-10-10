@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Successor to one of the best Android camera phones could get big upgrades and two versions](https://www.androidauthority.com/xiaomi-17-ultra-camera-specs-leak-3606304/)
- - [Prezent, which offers an AI-powered presentation builder to enterprises, raised $30M at a $400M valuation, bringing its total raised to $74M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251010/p21#a251010p21)
- - [You can still snag LG’s C4 OLED TV at half the price](https://www.theverge.com/tech/798322/lg-c4-c5-oled-tv-deal-sale)<!-- TECH:END -->
+ - [macOS Tahoe itself has leaked 2025 and 2026 Mac release timelines](https://appleinsider.com/articles/25/10/10/macos-tahoe-itself-has-leaked-2025-and-2026-mac-release-timelines?utm_source=rss)
+ - [PSA: Alexa Plus may be why your smart clock has become useless](https://www.androidauthority.com/echo-show-5-alexa-plus-clock-3606307/)
+ - [Austria&#39;s privacy regulator finds that Microsoft violated EU law by illegally tracking students through its Microsoft 365 Education software &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251010/p22#a251010p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
