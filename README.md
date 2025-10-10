@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for October 10 &lpar;#1574&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-10-2025/)
  - [After 5 years of stunning trailers, Skate Story is finally releasing in December, and its demo is so good it&#39;s immediately a GOTY contender](https://www.pcgamer.com/games/action/after-5-years-of-stunning-trailers-skate-story-is-finally-releasing-in-december-and-its-demo-is-so-good-its-immediately-a-goty-contender/)
- - [The Woman in Cabin 10 on Netflix: A sloppy attempt at gaslighting](https://www.polygon.com/the-woman-in-cabin-10-netflix-review/)
- - [Primal season 3 creator breaks down the shocking NYCC trailer](https://www.polygon.com/genndy-tartakovskys-primal-takes-a-radical-horrifying-turn-in-season-3-trailer-reveal/)<!-- GAME:END -->
+ - [The Woman in Cabin 10 on Netflix: A sloppy attempt at gaslighting](https://www.polygon.com/the-woman-in-cabin-10-netflix-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
