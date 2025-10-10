@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We’re all about to be in wearable hell](https://www.theverge.com/column/797938/optimizer-newsletter-wearable-hell-smart-glasses-smart-rings-ai-hardware)
- - [You can now buy Microsoft&amp;#8217;s Windows XP Crocs for $79.95](https://www.theverge.com/news/798193/microsoft-windows-xp-crocs-price-release-date)
- - [The Senate passes a measure requiring Nvidia and AMD to prioritize US customers over China for advanced AI chip sales, as part of a defense policy bill &lpar;Oma Seddiq/Bloomberg&rpar;](http://www.techmeme.com/251010/p13#a251010p13)<!-- TECH:END -->
+ - [OnePlus responds: Here’s when your OnePlus Watch 3 and 2 will get Wear OS 6](https://www.androidauthority.com/oneplus-watch-3-watch-2-wear-os-6-timeline-3606220/)
+ - [So much for Ford and GM’s scheme to extend the EV tax credit](https://www.theverge.com/news/798229/ford-gm-ev-tax-credit-lease-cancel)
+ - [Edifier’s new wireless speaker looks like a gaming PC](https://www.theverge.com/news/798148/edifier-huazai-new-cyber-speaker-bluetooth-gaming-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
