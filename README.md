@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can&#39;t just post sugar and expect people to understand what you mean](http://9gag.com/gag/a34pbP8)
- - ⏩ [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
- - 👉 [9gag ramping up censorship again](http://9gag.com/gag/aZZVvL3)<!-- MEMES:END -->
+ - 💣 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
+ - ⏩ [9gag ramping up censorship again](http://9gag.com/gag/aZZVvL3)
+ - 👉 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)<!-- MEMES:END -->
 
 ---
 
