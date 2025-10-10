@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Little Nightmares 3 is a giant nightmare to play](https://www.polygon.com/little-nightmares-3-review/)
- - [Christmas Tree 2025 Advent Calendar Drops Even Lower Than Prime Day, Practically Free While LEGO Sales End](https://kotaku.com/christmas-tree-2025-advent-calendar-drops-even-lower-than-prime-day-practically-free-while-lego-sales-end-2000633755)
- - [The 25 best PlayStation 5 games &lpar;October 2025&rpar;](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5/)<!-- GAME:END -->
+ - [MindsEye Devs Blast Former GTA Producer And Studio Leadership Over Forced Crunch And Botched Layoffs](https://kotaku.com/mindseye-development-leslie-benzies-gta-bugs-union-layoffs-2000633983)
+ - [Battlefield 6&#39;s NYC mission is almost too ridiculous to believe](https://www.polygon.com/battlefield-6-no-sleep-mission-brooklyn-new-york-nyc/)
+ - [Genshin Impact Version Luna II: new UGC system Miliastra Wonderland launches Oct 22](https://blog.playstation.com/2025/10/10/genshin-impact-version-luna-ii-new-ugc-system-miliastra-wonderland-launches-oct-22/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
