@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Microids turned Agatha Christie&#39;s Death on the Nile into a far-out &#39;70s mind game](https://www.polygon.com/microids-agatha-christie-death-on-the-nile-interview/)
- - [Pokémon Go &#39;Tales of Transformation&#39; Keldeo Special Research quest steps and rewards](https://www.polygon.com/pokemon-go-tales-of-transformation-keldeo-special-research-quest-steps-rewards/)
- - [RPG devs stopped making games like Baldur&#39;s Gate &#39;because retailers told us no one wanted to buy them&#39;, says New Vegas and Pillars of Eternity director Josh Sawyer](https://www.pcgamer.com/games/baldurs-gate/rpg-devs-stopped-making-games-like-baldurs-gate-because-retailers-told-us-no-one-wanted-to-buy-them-says-new-vegas-and-pillars-of-eternity-director-josh-sawyer/)<!-- GAME:END -->
+ - [MTG TMNT spoilers: Check out 29 new cards, including a Commander deck](https://www.polygon.com/mtg-tmnt-spoilers-cards-magic-the-gathering-commander-precon/)
+ - [Borderlands 4 director says use dialogue skip mod at your peril—it might turbo-brick your missions](https://www.pcgamer.com/games/fps/borderlands-4-director-says-use-dialogue-skip-mod-at-your-peril-it-might-turbo-brick-your-missions/)
+ - [Critical Role campaign 4 episode 2 goes full Evangelion](https://www.polygon.com/critical-role-campaign-4-episode-2-angel-evangelion-lilith/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
