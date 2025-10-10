@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ana - I wonder what she feeds them](http://9gag.com/gag/amobnRX)
+ - 💣 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
  - ⏩ [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
- - 👉 [You can&#39;t just post sugar and expect people to understand what you mean](http://9gag.com/gag/a34pbP8)<!-- MEMES:END -->
+ - 👉 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)<!-- MEMES:END -->
 
 ---
 
