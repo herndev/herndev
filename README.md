@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Battlefield 6 campaign missions: How long does it take to beat?](https://www.pcgamer.com/games/fps/battlefield-6-campaign-missions-list/)
- - [How to Unblock OpenAI’s Sora 2 If You’re Outside the US and Canada](https://kotaku.com/how-to-unblock-openais-sora-2-if-youre-outside-the-us-and-canada-2000633962)
- - [Did you catch this detail in How to Train Your Dragon?](https://www.polygon.com/video/how-to-train-your-dragon-mason-thames-left-handed/)<!-- GAME:END -->
+ - [Little Nightmares 3 is a giant nightmare to play](https://www.polygon.com/little-nightmares-3-review/)
+ - [Christmas Tree 2025 Advent Calendar Drops Even Lower Than Prime Day, Practically Free While LEGO Sales End](https://kotaku.com/christmas-tree-2025-advent-calendar-drops-even-lower-than-prime-day-practically-free-while-lego-sales-end-2000633755)
+ - [The 25 best PlayStation 5 games &lpar;October 2025&rpar;](https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
