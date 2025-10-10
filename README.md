@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This upcoming Google Messages feature could save you a click &lpar;and time&rpar;](https://www.androidauthority.com/google-messages-insights-apk-teardown-3606136/)
- - [A profile of Singapore-based Megaspeed, which bought $2B of Nvidia chips and is under US probe for possibly helping Chinese companies evade export controls &lpar;New York Times&rpar;](http://www.techmeme.com/251010/p3#a251010p3)
- - [The Galaxy Z Flip 8 could use a special Qualcomm flagship chip with some extra Samsung sauce](https://www.androidauthority.com/samsung-galaxy-z-flip-8-snapdragon-8-gen-5-3606127/)<!-- TECH:END -->
+ - [UK CMA designates Google with &quot;strategic market status&quot; in online search, but excludes Gemini; Google says potential interventions could slow product launches &lpar;Financial Times&rpar;](http://www.techmeme.com/251010/p5#a251010p5)
+ - [Copilot on Windows can now create Office documents and connect to Gmail](https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection)
+ - [China opens an investigation into Qualcomm&#39;s acquisition of Autotalks, a chipmaker specializing in vehicle communications, over potential antitrust violations &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/251010/p4#a251010p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
