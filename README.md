@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump threatens a &quot;massive increase of Tariffs&quot; on Chinese products, in response to export controls that China imposed on rare earth minerals &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/251010/p19#a251010p19)
- - [Google Maps gets a community-made solution for its location history mess](https://www.androidauthority.com/google-maps-timeline-merging-tool-3606227/)
- - [Samsung’s making One UI more eSIM-friendly with iPhone porting tool](https://www.androidauthority.com/samsungs-making-one-ui-more-esim-friendly-with-iphone-porting-tool-3606214/)<!-- TECH:END -->
+ - [Chrome’s got a new trick to spare you from useless notifications](https://www.androidauthority.com/chrome-notifications-3606007/)
+ - [Chrome will automatically disable web notifications you don’t care about](https://www.theverge.com/news/798122/google-chrome-website-notifications-disable-feature)
+ - [It&#39;s easy to guess that M5 MacBook Pro &amp; iPad Pro are coming in October](https://appleinsider.com/articles/25/10/10/its-easy-to-guess-that-m5-macbook-pro-ipad-pro-are-coming-in-october?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
