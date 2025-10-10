@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom Wobbles On Pay-Per-View Street Fighter 6 Livestream After Backlash](https://kotaku.com/capcom-cup-12-tickets-street-fighter-6-esports-2000634086)
- - [Hazbin Hotel season 2&#39;s best new song just dropped](https://www.polygon.com/hazbin-hotel-season-2-music-video-gravity/)
- - [Team Fortress 2 Classic open beta halted at the last minute, and something secret is cooking behind the scenes: &#39;Valve has asked us to ███████&#39;](https://www.pcgamer.com/games/fps/team-fortress-2-classic-open-beta-halted-at-the-last-minute-and-something-secret-is-cooking-behind-the-scenes-valve-has-asked-us-to/)<!-- GAME:END -->
+ - [The Conjuring: Last Rites, The Substance, Vicious, and every movie on streaming this week](https://www.polygon.com/new-movies-on-streaming-the-conjuring-last-rites-the-substance-vicious/)
+ - [MachineGames hints at a new game in the works, and everyone has their fingers crossed for the return of Wolfenstein](https://www.pcgamer.com/games/machinegames-hints-at-a-new-game-in-the-works-and-everyone-has-their-fingers-crossed-for-the-return-of-wolfenstein/)
+ - [3 best Game Pass games to play this weekend &lpar;Oct. 10-12 2025&rpar;](https://www.polygon.com/game-pass-games-rec-weekend-oct-10-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
