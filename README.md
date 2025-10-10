@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Update your Slack &amp; Discord clients, the Electron Tahoe GPU slowdown bug is fixed](https://appleinsider.com/articles/25/10/10/update-your-slack-discord-clients-the-electron-tahoe-gpu-slowdown-bug-is-fixed?utm_source=rss)
- - [SemiAnalysis launches InferenceMAX, an open-source benchmark that automatically tracks LLM inference performance across AI models and frameworks every night &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/251010/p25#a251010p25)
- - [OpenAI is trying to clamp down on ‘bias’ in ChatGPT](https://www.theverge.com/news/798388/openai-chatgpt-political-bias-eval)<!-- TECH:END -->
+ - [Academics sue over using pirated books for Apple Intelligence training](https://appleinsider.com/articles/25/10/10/academics-sue-over-using-pirated-books-for-apple-intelligence-training?utm_source=rss)
+ - [Nathan Calvin, general counsel of AI safety nonprofit Encode, says OpenAI used intimidation tactics to undermine California&#39;s SB 53 while it was being debated &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/251010/p29#a251010p29)
+ - [Deal: The Google TV Streamer is still 20% off!](https://www.androidauthority.com/google-tv-streamer-deal-7-3605632/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
