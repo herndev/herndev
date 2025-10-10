@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Conjuring: Last Rites, The Substance, Vicious, and every movie on streaming this week](https://www.polygon.com/new-movies-on-streaming-the-conjuring-last-rites-the-substance-vicious/)
- - [MachineGames hints at a new game in the works, and everyone has their fingers crossed for the return of Wolfenstein](https://www.pcgamer.com/games/machinegames-hints-at-a-new-game-in-the-works-and-everyone-has-their-fingers-crossed-for-the-return-of-wolfenstein/)
- - [3 best Game Pass games to play this weekend &lpar;Oct. 10-12 2025&rpar;](https://www.polygon.com/game-pass-games-rec-weekend-oct-10-2025/)<!-- GAME:END -->
+ - [Borderlands 4 Player Kills 3,000 Bosses To Discover Disappointingly Low Legendary Drop Rate](https://kotaku.com/borderlands-4-legendary-drop-rate-bosses-patch-notes-nerf-2000634114)
+ - [Remedy issues &#39;profit warning&#39; after FBC: Firebreak&#39;s big overhaul fails to turn things around: &#39;Despite improved player and sales metrics after the update, sales have not reached Remedy’s internal targets&#39;](https://www.pcgamer.com/games/fps/remedy-issues-profit-warning-after-fbc-firebreaks-big-overhaul-fails-to-turn-things-around-despite-improved-player-and-sales-metrics-after-the-update-sales-have-not-reached-remedys-internal-targets/)
+ - [Just Three Days After Prime Day, Bose Offloads Its TV Soundbar at a New Record Low Price](https://kotaku.com/just-three-days-after-prime-day-bose-offloads-its-tv-soundbar-at-a-new-record-low-price-2000634100)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
