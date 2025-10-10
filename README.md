@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
- - ⏩ [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
- - 👉 [From the archives](http://9gag.com/gag/aPAdnnG)<!-- MEMES:END -->
+ - 💣 [Reverse UNO perfectly executed...](http://9gag.com/gag/aByNojP)
+ - ⏩ [B*tch and f**king](http://9gag.com/gag/avyXmBd)
+ - 👉 [This sucks](http://9gag.com/gag/abAmdZX)<!-- MEMES:END -->
 
 ---
 
