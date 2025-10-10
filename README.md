@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Team Fortress 2 Classic open beta halted at the last minute, and something secret is cooking behind the scenes: &#39;Valve has asked us to ███████&#39;](https://www.pcgamer.com/games/fps/team-fortress-2-classic-open-beta-halted-at-the-last-minute-and-something-secret-is-cooking-behind-the-scenes-valve-has-asked-us-to/)
- - [One Of The Biggest YouTubers In The World Asks Fans To Stop Paying Him](https://kotaku.com/streamer-cr1tikal-youtube-twitch-superchat-charity-2000634079)
- - [Hideo Kojima waxes lyrical about an Expo in 1970 he credits for Metal Gear and Death Stranding, says that &#39;young bureaucrats&#39; asked him to help design the 2025 follow-up but his ideas cost too much: &#39;I haven&#39;t had any contact with them since&#39;](https://www.pcgamer.com/games/hideo-kojima-waxes-lyrical-about-an-expo-in-1970-he-credits-for-metal-gear-and-death-stranding-says-that-young-bureaucrats-asked-him-to-help-design-the-2025-follow-up-but-his-ideas-cost-too-much-i-havent-had-any-contact-with-them-since/)<!-- GAME:END -->
+ - [Capcom Wobbles On Pay-Per-View Street Fighter 6 Livestream After Backlash](https://kotaku.com/capcom-cup-12-tickets-street-fighter-6-esports-2000634086)
+ - [Hazbin Hotel season 2&#39;s best new song just dropped](https://www.polygon.com/hazbin-hotel-season-2-music-video-gravity/)
+ - [Team Fortress 2 Classic open beta halted at the last minute, and something secret is cooking behind the scenes: &#39;Valve has asked us to ███████&#39;](https://www.pcgamer.com/games/fps/team-fortress-2-classic-open-beta-halted-at-the-last-minute-and-something-secret-is-cooking-behind-the-scenes-valve-has-asked-us-to/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
