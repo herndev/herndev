@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why do I think this funny? Because it is.](http://9gag.com/gag/ae9PRBW)
- - ⏩ [Simply *absolute cinema*. Best part, they didn&#39;t have to say much to make you laugh](http://9gag.com/gag/aND23rw)
- - 👉 [Reverse UNO perfectly executed...](http://9gag.com/gag/aByNojP)<!-- MEMES:END -->
+ - 💣 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
+ - ⏩ [I dont mind it](http://9gag.com/gag/axynmbY)
+ - 👉 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)<!-- MEMES:END -->
 
 ---
 
