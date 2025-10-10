@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says Cl0p hackers who exploited vulnerabilities in Oracle&#39;s E-Business Suite have stolen data from &quot;dozens&quot; of organizations since at least July 10 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/251009/p55#a251009p55)
  - [Need Apple AirTags? The 4-pack has dropped to record-low prices again](https://www.androidauthority.com/apple-airtag-4-pack-deal-10-3605633/)
- - [The Minecraft movie is getting a sequel](https://www.theverge.com/news/798064/a-minecraft-movie-sequel-2-release-date-2027)
- - [EA&#39;s Battlefield 6, coming October 10, is a pivotal moment for the series and for EA, set to go private in a $55B deal, as EA competes with Activision and COD &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251009/p54#a251009p54)<!-- TECH:END -->
+ - [The Minecraft movie is getting a sequel](https://www.theverge.com/news/798064/a-minecraft-movie-sequel-2-release-date-2027)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
