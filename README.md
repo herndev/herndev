@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
+ - 💣 [Extracting gold from old phones](http://9gag.com/gag/a0eWEMX)
  - ⏩ [Wowser..](http://9gag.com/gag/ajPMW90)
- - 👉 [Jamie Lee Curtis proving that natural aging is still beautiful](http://9gag.com/gag/aAyNvRE)<!-- MEMES:END -->
+ - 👉 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)<!-- MEMES:END -->
 
 ---
 
