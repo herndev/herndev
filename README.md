@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Men Are Betting on WNBA Players&#39; Menstrual Cycles](https://www.wired.com/story/men-are-betting-on-wnba-players-menstrual-cycles/)
- - [OnePlus Watch 2’s Wear OS 5 update delay raises questions about Watch 3’s future](https://www.androidauthority.com/oneplus-watch-2-missing-wear-os-5-update-3606156/)
- - [Best Latex Mattress Options for Natural Support &lpar;2025&rpar;](https://www.wired.com/gallery/best-latex-mattresses/)<!-- TECH:END -->
+ - [Memo: Vishal Shah, Meta&#39;s VP of Metaverse, tells his team to use AI to &quot;go 5X faster&quot; and expects 80% of them to integrate AI into their day-to-day by Q4 &lpar;Jason Koebler/Wired&rpar;](http://www.techmeme.com/251010/p9#a251010p9)
+ - [&#39;Five Secrets&#39; spec screenplay grabbed by Apple TV+](https://appleinsider.com/articles/25/10/10/five-secrets-spec-screenplay-grabbed-by-apple-tv?utm_source=rss)
+ - [Proton VPN Review &lpar;2025&rpar;: The Best VPN for Most People](https://www.wired.com/review/proton-vpn/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
