@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
- - ⏩ [What](http://9gag.com/gag/adB4oL9)
- - 👉 [Wowser..](http://9gag.com/gag/ajPMW90)<!-- MEMES:END -->
+ - 💣 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
+ - ⏩ [Wowser..](http://9gag.com/gag/ajPMW90)
+ - 👉 [Jamie Lee Curtis proving that natural aging is still beautiful](http://9gag.com/gag/aAyNvRE)<!-- MEMES:END -->
 
 ---
 
