@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MindsEye Devs Blast Former GTA Producer And Studio Leadership Over Forced Crunch And Botched Layoffs](https://kotaku.com/mindseye-development-leslie-benzies-gta-bugs-union-layoffs-2000633983)
- - [Battlefield 6&#39;s NYC mission is almost too ridiculous to believe](https://www.polygon.com/battlefield-6-no-sleep-mission-brooklyn-new-york-nyc/)
- - [Genshin Impact Version Luna II: new UGC system Miliastra Wonderland launches Oct 22](https://blog.playstation.com/2025/10/10/genshin-impact-version-luna-ii-new-ugc-system-miliastra-wonderland-launches-oct-22/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for October 13 to 17](https://news.xbox.com/en-us/2025/10/10/next-week-on-xbox-new-games-for-october-13-to-17/)
+ - [Hands-On With The New Lego Batman: This Feels Like The Arkham Game Everyone’s Been Missing](https://kotaku.com/lego-batman-legacy-of-the-dark-knight-preview-arkham-2000633994)
+ - [Thank you Galax for this skinny RTX 5060 Ti because there&#39;s something surprisingly alluring about single-slot graphics cards](https://www.pcgamer.com/hardware/graphics-cards/thank-you-galax-for-this-skinny-rtx-5060-ti-because-theres-something-surprisingly-alluring-about-single-slot-graphics-cards/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
