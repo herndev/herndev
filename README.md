@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WIRED Roundup: Are We In An AI Bubble?](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-are-we-in-an-ai-bubble/)
- - [A federal jury finds that Samsung owes Collision Communications nearly $445.5M in damages for infringing on patents related to 4G, 5G, and Wi-Fi standards &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251010/p24#a251010p24)
- - [Some LA Lakers games will be live streamed in the Apple Immersive format in the NBA app and the Spectrum SportsNet app on Vision Pro during the 2025-26 season &lpar;Jacob Krol/TechRadar&rpar;](http://www.techmeme.com/251010/p23#a251010p23)<!-- TECH:END -->
+ - [Update your Slack &amp; Discord clients, the Electron Tahoe GPU slowdown bug is fixed](https://appleinsider.com/articles/25/10/10/update-your-slack-discord-clients-the-electron-tahoe-gpu-slowdown-bug-is-fixed?utm_source=rss)
+ - [SemiAnalysis launches InferenceMAX, an open-source benchmark that automatically tracks LLM inference performance across AI models and frameworks every night &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/251010/p25#a251010p25)
+ - [OpenAI is trying to clamp down on ‘bias’ in ChatGPT](https://www.theverge.com/news/798388/openai-chatgpt-political-bias-eval)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
