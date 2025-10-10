@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can&#39;t argue with that](http://9gag.com/gag/aYQnmGO)
- - ⏩ [What](http://9gag.com/gag/adB4oL9)
- - 👉 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)<!-- MEMES:END -->
+ - 💣 [Some trauma never heals....](http://9gag.com/gag/aPAdrLV)
+ - ⏩ [At least I&#39;ll go out on my own terms.](http://9gag.com/gag/aRBNOxq)
+ - 👉 [Poor](http://9gag.com/gag/aYQnRB2)<!-- MEMES:END -->
 
 ---
 
