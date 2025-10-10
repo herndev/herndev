@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Academics sue over using pirated books for Apple Intelligence training](https://appleinsider.com/articles/25/10/10/academics-sue-over-using-pirated-books-for-apple-intelligence-training?utm_source=rss)
- - [Nathan Calvin, general counsel of AI safety nonprofit Encode, says OpenAI used intimidation tactics to undermine California&#39;s SB 53 while it was being debated &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/251010/p29#a251010p29)
- - [Deal: The Google TV Streamer is still 20% off!](https://www.androidauthority.com/google-tv-streamer-deal-7-3605632/)<!-- TECH:END -->
+ - [A new Android gaming phone with liquid cooling launches next week](https://www.androidauthority.com/redmagic-11-pro-liquid-cooling-3606437/)
+ - [Leaked audio: Apple nears a deal to acquihire computer vision startup Prompt AI; it was approached by other potential suitors, including xAI and Neuralink &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251010/p30#a251010p30)
+ - [Academics sue over using pirated books for Apple Intelligence training](https://appleinsider.com/articles/25/10/10/academics-sue-over-using-pirated-books-for-apple-intelligence-training?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
