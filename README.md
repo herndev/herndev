@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Block debuts Square Bitcoin, a BTC wallet allowing US-based SMBs to convert up to 50% of daily sales into BTC now and accept BTC payments starting November 10 &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/251009/p58#a251009p58)
  - [You can now grab the Pixel 10 Pro Fold for just $799 with this massive T-Mobile deal](https://www.androidauthority.com/t-mobile-pixel-10-pro-fold-deal-3606108/)
- - [a16z hires ex-VMware CEO Raghu Raghuram as general partner overseeing AI infrastructure and growth investments and as a managing partner, replacing Scott Kupor &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/251009/p57#a251009p57)
- - [Health+ could debut in 2026 as Apple&#39;s next subscription service](https://appleinsider.com/articles/25/10/10/health-could-debut-in-2026-as-apples-next-subscription-service?utm_source=rss)<!-- TECH:END -->
+ - [a16z hires ex-VMware CEO Raghu Raghuram as general partner overseeing AI infrastructure and growth investments and as a managing partner, replacing Scott Kupor &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/251009/p57#a251009p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
