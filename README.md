@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meine kinder surprised](http://9gag.com/gag/aW4N983)
- - ⏩ [Some trauma never heals....](http://9gag.com/gag/aPAdrLV)
- - 👉 [At least I&#39;ll go out on my own terms.](http://9gag.com/gag/aRBNOxq)<!-- MEMES:END -->
+ - 💣 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
+ - ⏩ [What](http://9gag.com/gag/adB4oL9)
+ - 👉 [Wowser..](http://9gag.com/gag/ajPMW90)<!-- MEMES:END -->
 
 ---
 
