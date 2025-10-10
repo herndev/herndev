@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA&#39;s own launcher is making Battlefield 6 unplayable by telling users they&#39;re &#39;missing content&#39; or must &#39;purchase to play&#39; what they&#39;ve already bought](https://www.pcgamer.com/games/fps/eas-own-launcher-is-making-battlefield-6-unplayable-by-telling-users-theyre-missing-content-or-must-purchase-to-play-what-theyve-already-bought/)
- - [How to solve the Reliquary of Faith puzzle in Ghost of Yōtei](https://www.polygon.com/ghost-of-yotei-reliquary-of-faith-puzzle-solution-how-to-solve/)
- - [Wonder Man trailer reveals Marvel&#39;s most self-hating TV show ever](https://www.polygon.com/wonder-man-trailer/)<!-- GAME:END -->
+ - [Team Fortress 2 Classic open beta halted at the last minute, and something secret is cooking behind the scenes: &#39;Valve has asked us to ███████&#39;](https://www.pcgamer.com/games/fps/team-fortress-2-classic-open-beta-halted-at-the-last-minute-and-something-secret-is-cooking-behind-the-scenes-valve-has-asked-us-to/)
+ - [One Of The Biggest YouTubers In The World Asks Fans To Stop Paying Him](https://kotaku.com/streamer-cr1tikal-youtube-twitch-superchat-charity-2000634079)
+ - [Hideo Kojima waxes lyrical about an Expo in 1970 he credits for Metal Gear and Death Stranding, says that &#39;young bureaucrats&#39; asked him to help design the 2025 follow-up but his ideas cost too much: &#39;I haven&#39;t had any contact with them since&#39;](https://www.pcgamer.com/games/hideo-kojima-waxes-lyrical-about-an-expo-in-1970-he-credits-for-metal-gear-and-death-stranding-says-that-young-bureaucrats-asked-him-to-help-design-the-2025-follow-up-but-his-ideas-cost-too-much-i-havent-had-any-contact-with-them-since/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
