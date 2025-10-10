@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The US has approved billions worth of Nvidia GPU exports to the United Arab Emirates in &#39;transformational US-UAE AI partnership deal&#39;](https://www.pcgamer.com/hardware/the-us-has-approved-billions-worth-of-nvidia-gpu-exports-to-the-united-arab-emirates-in-transformational-us-uae-ai-partnership-deal/)
  - [Peacemaker season 2 ending explained: How Salvation Run sets up Man of Tomorrow&#39;s new villain](https://www.polygon.com/peacemaker-season-2-ending-explained-salvation-run-desaad/)
- - [Grove Keeper is Dungeon Keeper versus woodcutters and your greatest weapon is a giant in his underpants](https://www.pcgamer.com/games/sim/grove-keeper-is-dungeon-keeper-versus-woodcutters-and-your-greatest-weapon-is-a-giant-in-his-underpants/)
- - [How to solve the button puzzle in Little Nightmares 3](https://www.polygon.com/little-nightmares-3-button-puzzle-solution-chapter-3/)<!-- GAME:END -->
+ - [Grove Keeper is Dungeon Keeper versus woodcutters and your greatest weapon is a giant in his underpants](https://www.pcgamer.com/games/sim/grove-keeper-is-dungeon-keeper-versus-woodcutters-and-your-greatest-weapon-is-a-giant-in-his-underpants/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
