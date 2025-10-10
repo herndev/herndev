@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
- - ⏩ [Typing this on a plane, hope no one sees](http://9gag.com/gag/aryr81d)
- - 👉 [From the archives](http://9gag.com/gag/aPAdnnG)<!-- MEMES:END -->
+ - 💣 [From the archives](http://9gag.com/gag/aPAdnnG)
+ - ⏩ [So much work and..](http://9gag.com/gag/axyn4y1)
+ - 👉 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)<!-- MEMES:END -->
 
 ---
 
