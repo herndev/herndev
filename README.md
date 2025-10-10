@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK CMA designates Google with &quot;strategic market status&quot; in online search, but excludes Gemini; Google says potential interventions could slow product launches &lpar;Financial Times&rpar;](http://www.techmeme.com/251010/p5#a251010p5)
- - [Copilot on Windows can now create Office documents and connect to Gmail](https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection)
- - [China opens an investigation into Qualcomm&#39;s acquisition of Autotalks, a chipmaker specializing in vehicle communications, over potential antitrust violations &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/251010/p4#a251010p4)<!-- TECH:END -->
+ - [Men Are Betting on WNBA Players&#39; Menstrual Cycles](https://www.wired.com/story/men-are-betting-on-wnba-players-menstrual-cycles/)
+ - [OnePlus Watch 2’s Wear OS 5 update delay raises questions about Watch 3’s future](https://www.androidauthority.com/oneplus-watch-2-missing-wear-os-5-update-3606156/)
+ - [Best Latex Mattress Options for Natural Support &lpar;2025&rpar;](https://www.wired.com/gallery/best-latex-mattresses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
