@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
- - ⏩ [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
- - 👉 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)<!-- MEMES:END -->
+ - 💣 [I am illegal](http://9gag.com/gag/a1mqxEG)
+ - ⏩ [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
+ - 👉 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)<!-- MEMES:END -->
 
 ---
 
