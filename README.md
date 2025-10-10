@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Typing this on a plane, hope no one sees](http://9gag.com/gag/aryr81d)
- - ⏩ [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
- - 👉 [I like my chances if I ever participate in this show](http://9gag.com/gag/aKGNYpb)<!-- MEMES:END -->
+ - 💣 [Meine kinder surprised](http://9gag.com/gag/aW4N983)
+ - ⏩ [Some trauma never heals....](http://9gag.com/gag/aPAdrLV)
+ - 👉 [At least I&#39;ll go out on my own terms.](http://9gag.com/gag/aRBNOxq)<!-- MEMES:END -->
 
 ---
 
