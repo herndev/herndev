@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The US has approved billions worth of Nvidia GPU exports to the United Arab Emirates in &#39;transformational US-UAE AI partnership deal&#39;](https://www.pcgamer.com/hardware/the-us-has-approved-billions-worth-of-nvidia-gpu-exports-to-the-united-arab-emirates-in-transformational-us-uae-ai-partnership-deal/)
- - [Peacemaker season 2 ending explained: How Salvation Run sets up Man of Tomorrow&#39;s new villain](https://www.polygon.com/peacemaker-season-2-ending-explained-salvation-run-desaad/)
- - [Grove Keeper is Dungeon Keeper versus woodcutters and your greatest weapon is a giant in his underpants](https://www.pcgamer.com/games/sim/grove-keeper-is-dungeon-keeper-versus-woodcutters-and-your-greatest-weapon-is-a-giant-in-his-underpants/)<!-- GAME:END -->
+ - [All Battlefield 6 campaign missions: How long does it take to beat?](https://www.pcgamer.com/games/fps/battlefield-6-campaign-missions-list/)
+ - [How to Unblock OpenAI’s Sora 2 If You’re Outside the US and Canada](https://kotaku.com/how-to-unblock-openais-sora-2-if-youre-outside-the-us-and-canada-2000633962)
+ - [Did you catch this detail in How to Train Your Dragon?](https://www.polygon.com/video/how-to-train-your-dragon-mason-thames-left-handed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
