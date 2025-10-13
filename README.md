@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nope](http://9gag.com/gag/aPAdVQq)
- - ⏩ [I guess.](http://9gag.com/gag/azxDvLN)
- - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
+ - 💣 [Dont](http://9gag.com/gag/a0eWDMn)
+ - ⏩ [Dark stuff warning: Sorry for the emoji](http://9gag.com/gag/ayNVmDX)
+ - 👉 [Nope](http://9gag.com/gag/aPAdVQq)<!-- MEMES:END -->
 
 ---
 
