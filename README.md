@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
- - ⏩ [Nope](http://9gag.com/gag/aPAdVQq)
- - 👉 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)<!-- MEMES:END -->
+ - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - ⏩ [What an incredible story of strength and triumph](http://9gag.com/gag/aPAd0gB)
+ - 👉 [Pure joy seeing daddy come home](http://9gag.com/gag/awyGD58)<!-- MEMES:END -->
 
 ---
 
