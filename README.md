@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [John Searle, known for &quot;the Chinese Room&quot; thought experiment on AI consciousness, died on Sept. 16 at 93; his UCB tenure ended over alleged sexual harassment &lpar;Alex Traub/New York Times&rpar;](http://www.techmeme.com/251012/p16#a251012p16)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 13 #589](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-13-589/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Oct. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-oct-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wingtech&#39;s Shanghai-listed stock plunged its daily limit of 10% after the Dutch government moved to exert control over Nexperia, which it acquired in 2018 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251013/p1#a251013p1)
+ - [People think Google Home’s latest feature might be in need of an exorcism](https://www.androidauthority.com/google-home-home-brief-feedback-3606539/)
+ - [More Evidence Emerges That One of Saturn’s Moons Could Harbor Life](https://www.wired.com/story/more-evidence-emerges-that-one-of-saturns-moons-could-harbor-life/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
