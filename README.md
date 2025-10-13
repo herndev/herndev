@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally done \u2705](http://9gag.com/gag/aGyN6dK)
- - ⏩ [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)
- - 👉 [Grandpa&#39;s shirt game is strong](http://9gag.com/gag/abAmL3X)<!-- MEMES:END -->
+ - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - ⏩ [Mr FAFO](http://9gag.com/gag/aLnNOqM)
+ - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
 
 ---
 
