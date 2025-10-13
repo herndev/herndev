@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dont](http://9gag.com/gag/a0eWDMn)
- - ⏩ [Dark stuff warning: Sorry for the emoji](http://9gag.com/gag/ayNVmDX)
+ - 💣 [The moment Henry Cavill made facial hair history](http://9gag.com/gag/aZZVV2Q)
+ - ⏩ [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
  - 👉 [Nope](http://9gag.com/gag/aPAdVQq)<!-- MEMES:END -->
 
 ---
