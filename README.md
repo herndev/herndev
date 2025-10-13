@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 2026 game release calendar so far has GTA 6 standing alone in May—who will be brave enough to challenge it?](https://www.pcgamer.com/games/new-pc-games-2026/)
- - [One little bug has broken Hollow Knight: Silksong speedrunning wide open with the ability to fly through the game as an unkillable god](https://www.pcgamer.com/games/action/one-little-bug-has-broken-hollow-knight-silksong-speedrunning-wide-open-with-the-ability-to-fly-through-the-game-as-an-unkillable-god/)
- - [Bose Is Quietly Selling Its QC Headphones at a New Record Low After Prime Day to Clear Out Stock](https://kotaku.com/bose-is-quietly-selling-its-qc-headphones-at-a-new-record-low-after-prime-day-to-clear-out-stock-2000634117)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;October 13, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-october-13-2025/)
+ - [The Mortal Kombat 2 movie doesn&#39;t come out until next year, but Mortal Kombat 3 is already confirmed because the studios are &#39;convinced there&#39;s a giant fanbase waiting for it&#39;](https://www.pcgamer.com/gaming-industry/the-mortal-kombat-2-movie-doesnt-come-out-until-next-year-but-mortal-kombat-3-is-already-confirmed-because-the-studios-are-convinced-theres-a-giant-fanbase-waiting-for-it/)
+ - [Despite declining sales and the latest &#39;Xbox&#39; being a handheld PC, Microsoft says it&#39;s still making a next-gen console: &#39;We are actively investing in our future first-party consoles and devices&#39;](https://www.pcgamer.com/gaming-industry/despite-declining-sales-and-the-latest-xbox-being-a-handheld-pc-microsoft-says-its-still-making-a-next-gen-console-we-are-actively-investing-in-our-future-first-party-consoles-and-devices/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
