@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with journalist Jacob Silverman on his new book Gilded Rage, the radical politics of certain tech elites, AI&#39;s impact on Silicon Valley politics, and more &lpar;Calder McHugh/Politico&rpar;](http://www.techmeme.com/251013/p4#a251013p4)
- - [Stable Wear OS 6 arrives for the Samsung Galaxy Watch 7](https://www.androidauthority.com/galaxy-watch-7-wear-os-6-one-ui-8-3606549/)
- - [OpenAI&#39;s blockbuster deals with Nvidia and AMD add a new layer to its complicated ownership structure and will dilute existing shareholders like Microsoft &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/251013/p3#a251013p3)<!-- TECH:END -->
+ - [Pixel 10 users report random app crashes after October update](https://www.androidauthority.com/pixel-10-app-crashes-october-update-3606585/)
+ - [Strava CEO Michael Martin says Strava plans to launch a US IPO; Sensor Tower says Strava has 50M MAUs and users spent $180M+ on Premium in the year to September &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/251013/p5#a251013p5)
+ - [This new dual-screen handheld could be the best budget pick for Nintendo DS emulation](https://www.androidauthority.com/ambernic-nintendo-ds-emulator-handheld-3606560/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
