@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
- - ⏩ [Nope](http://9gag.com/gag/aPAdVQq)
- - 👉 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)<!-- MEMES:END -->
+ - ⏩ [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
+ - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
 
 ---
 
