@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google tried to kill this Pixel VoLTE-enabling app, but the developer already has a fix](https://www.androidauthority.com/pixel-ims-update-fix-3606811/)
- - [Broadcom closes up 9.88% following the announcement of its custom chip deal with OpenAI; its stock is up over 50% in 2025 after more than doubling in 2024 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251013/p35#a251013p35)
- - [The Best PC Monitor for Most People Is $75 Off](https://www.wired.com/story/dell-27-plus-deal-1025/)<!-- TECH:END -->
+ - [Meta brings back job listings on Facebook, available for mobile users in the US via a dedicated Jobs tab in Marketplace, and across Groups and Pages &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/251013/p37#a251013p37)
+ - [Facebook is adding job listings, again](https://www.theverge.com/tech/798921/facebook-local-jobs-us)
+ - [Google Meet adds a new trick for when you’re not camera-ready](https://www.androidauthority.com/google-meet-ai-makeup-3606836/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
