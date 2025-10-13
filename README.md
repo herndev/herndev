@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The rage bait](http://9gag.com/gag/aryrrg7)
- - ⏩ [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)
- - 👉 [Hate when that happens](http://9gag.com/gag/an7W06b)<!-- MEMES:END -->
+ - 💣 [Nope](http://9gag.com/gag/aPAdVQq)
+ - ⏩ [I guess.](http://9gag.com/gag/azxDvLN)
+ - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
 
 ---
 
