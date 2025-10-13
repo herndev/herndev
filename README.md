@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First look: Google Photos is making it easier to wrangle your albums](https://www.androidauthority.com/google-photos-album-chip-3606710/)
- - [Sources: Raymond Zage and James Lu, who control most of Grindr, are in talks to take it private after a Temasek unit sold shares pledged for personal loans &lpar;Liz Hoffman/Semafor&rpar;](http://www.techmeme.com/251013/p28#a251013p28)
- - [Apple says iPhone Air will go on sale in China on October 22, after initially delaying the launch due to regulatory issues with the device&#39;s eSIM-only design &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/251013/p27#a251013p27)<!-- TECH:END -->
+ - [Data integration startup Fivetran and data management startup dbt Labs announce a merger in an all-stock deal; Fivetran CEO will be CEO of the combined company &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251013/p30#a251013p30)
+ - [The super cool Yaber T1 Pro Mini Projector drops to new record-low price](https://www.androidauthority.com/yaber-t1-pro-mini-projector-deal-2-3606679/)
+ - [Gemini webpage summaries are now just one tap away in Chrome for Android](https://www.androidauthority.com/gemini-overlay-summarize-page-chrome-android-3606725/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
