@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RIP Randy Savage](http://9gag.com/gag/aQzNKPd)
- - ⏩ [The biggest crime in India](http://9gag.com/gag/a2vjAZp)
- - 👉 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)<!-- MEMES:END -->
+ - 💣 [I guess.](http://9gag.com/gag/azxDvLN)
+ - ⏩ [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
+ - 👉 [Pure joy seeing daddy come home](http://9gag.com/gag/awyGD58)<!-- MEMES:END -->
 
 ---
 
