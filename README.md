@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ofcom fines 4chan £20K under the OSA for failing to provide information on the risk of illegal content; a UK minister says the government &quot;fully backed&quot; Ofcom &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/251013/p11#a251013p11)
- - [Sources: UK security services including MI5 step up work with the country&#39;s largest companies over hacking fears and to improve UK cyber warfare preparedness &lpar;Financial Times&rpar;](http://www.techmeme.com/251013/p10#a251013p10)
- - [How to Make STEM Funny—and Go Viral Doing It](https://www.wired.com/story/freya-mcghee-stem-stand-up-comedian/)<!-- TECH:END -->
+ - [Slack is turning Slackbot into an AI assistant](https://www.theverge.com/news/797890/slack-slackbot-ai-assistant-upgrade)
+ - [Wi-Fi 8 demonstrated with first prototype connection](https://www.theverge.com/news/798780/wi-fi-8-prototype-tp-link-test-explained)
+ - [New York- and London-based ClaimSorted, which uses AI to help speed up insurance claims and works with 20+ insurers, raised a $13.3M seed led by Atomico &lpar;Robert Olsen/Forbes&rpar;](http://www.techmeme.com/251013/p15#a251013p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
