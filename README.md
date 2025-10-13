@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slack is turning Slackbot into an AI assistant](https://www.theverge.com/news/797890/slack-slackbot-ai-assistant-upgrade)
- - [Wi-Fi 8 demonstrated with first prototype connection](https://www.theverge.com/news/798780/wi-fi-8-prototype-tp-link-test-explained)
- - [New York- and London-based ClaimSorted, which uses AI to help speed up insurance claims and works with 20+ insurers, raised a $13.3M seed led by Atomico &lpar;Robert Olsen/Forbes&rpar;](http://www.techmeme.com/251013/p15#a251013p15)<!-- TECH:END -->
+ - [OpenAI agrees to acquire 10GW of chips from Broadcom and co-design custom GPUs with Broadcom to run its AI models; sources: the deal is worth multiple billions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251013/p18#a251013p18)
+ - [3 Best Smart Displays &lpar;2025&rpar;: Tested By a Smart Home Addict](https://www.wired.com/gallery/best-smart-displays/)
+ - [UK fines 4Chan over online safety compliance](https://www.theverge.com/news/798797/uk-ofcom-fines-4chan-online-safety-act)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
