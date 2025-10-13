@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for October 13 &lpar;#1577&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-13-2025/)
  - [Five new Steam games you probably missed &lpar;October 13, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-october-13-2025/)
- - [The Mortal Kombat 2 movie doesn&#39;t come out until next year, but Mortal Kombat 3 is already confirmed because the studios are &#39;convinced there&#39;s a giant fanbase waiting for it&#39;](https://www.pcgamer.com/gaming-industry/the-mortal-kombat-2-movie-doesnt-come-out-until-next-year-but-mortal-kombat-3-is-already-confirmed-because-the-studios-are-convinced-theres-a-giant-fanbase-waiting-for-it/)
- - [Despite declining sales and the latest &#39;Xbox&#39; being a handheld PC, Microsoft says it&#39;s still making a next-gen console: &#39;We are actively investing in our future first-party consoles and devices&#39;](https://www.pcgamer.com/gaming-industry/despite-declining-sales-and-the-latest-xbox-being-a-handheld-pc-microsoft-says-its-still-making-a-next-gen-console-we-are-actively-investing-in-our-future-first-party-consoles-and-devices/)<!-- GAME:END -->
+ - [The Mortal Kombat 2 movie doesn&#39;t come out until next year, but Mortal Kombat 3 is already confirmed because the studios are &#39;convinced there&#39;s a giant fanbase waiting for it&#39;](https://www.pcgamer.com/gaming-industry/the-mortal-kombat-2-movie-doesnt-come-out-until-next-year-but-mortal-kombat-3-is-already-confirmed-because-the-studios-are-convinced-theres-a-giant-fanbase-waiting-for-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
