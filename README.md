@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new Android gaming phone with liquid cooling launches next week](https://www.androidauthority.com/redmagic-11-pro-liquid-cooling-3606437/)
- - [Leaked audio: Apple nears a deal to acquihire computer vision startup Prompt AI; it was approached by other potential suitors, including xAI and Neuralink &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251010/p30#a251010p30)
- - [Academics sue over using pirated books for Apple Intelligence training](https://appleinsider.com/articles/25/10/10/academics-sue-over-using-pirated-books-for-apple-intelligence-training?utm_source=rss)<!-- TECH:END -->
+ - [The Dutch government takes control of Chinese-owned Dutch chipmaker Nexperia under the Goods Availability Act to safeguard chip supply for European industries &lpar;Financial Times&rpar;](http://www.techmeme.com/251012/p15#a251012p15)
+ - [Young people in China are turning to AI chatbots like DeepSeek and Doubao for therapy to save time and money, while avoiding stigma around mental health &lpar;Yi-Ling Liu/Rest of World&rpar;](http://www.techmeme.com/251012/p14#a251012p14)
+ - [Cobots, or robots that collaborate with humans, are bringing automation to even the smallest US factories, amid a push to bring manufacturing back to the US &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/251012/p13#a251012p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
