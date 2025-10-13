@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung just released an even better foldable than the Galaxy Z Fold 7](https://www.androidauthority.com/samsung-w26-3606529/)
  - [The Dutch government takes control of Chinese-owned Dutch chipmaker Nexperia under the Goods Availability Act to safeguard chip supply for European industries &lpar;Financial Times&rpar;](http://www.techmeme.com/251012/p15#a251012p15)
- - [Young people in China are turning to AI chatbots like DeepSeek and Doubao for therapy to save time and money, while avoiding stigma around mental health &lpar;Yi-Ling Liu/Rest of World&rpar;](http://www.techmeme.com/251012/p14#a251012p14)
- - [Cobots, or robots that collaborate with humans, are bringing automation to even the smallest US factories, amid a push to bring manufacturing back to the US &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/251012/p13#a251012p13)<!-- TECH:END -->
+ - [Young people in China are turning to AI chatbots like DeepSeek and Doubao for therapy to save time and money, while avoiding stigma around mental health &lpar;Yi-Ling Liu/Rest of World&rpar;](http://www.techmeme.com/251012/p14#a251012p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
