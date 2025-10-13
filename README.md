@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dark stuff warning: Sorry for the emoji](http://9gag.com/gag/ayNVmDX)
- - ⏩ [20yo unemployed Chinese student married 47yo daughter of an African diamond mine owner despite strong opposition and threat of disowning from his parents and relatives. Love truly conquers all.](http://9gag.com/gag/a5Qyvqo)
- - 👉 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)<!-- MEMES:END -->
+ - 💣 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
+ - ⏩ [Finally done \u2705](http://9gag.com/gag/aGyN6dK)
+ - 👉 [Grandpa&#39;s shirt game is strong](http://9gag.com/gag/abAmL3X)<!-- MEMES:END -->
 
 ---
 
