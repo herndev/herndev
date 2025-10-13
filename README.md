@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data integration startup Fivetran and data management startup dbt Labs announce a merger in an all-stock deal; Fivetran CEO will be CEO of the combined company &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251013/p30#a251013p30)
- - [The super cool Yaber T1 Pro Mini Projector drops to new record-low price](https://www.androidauthority.com/yaber-t1-pro-mini-projector-deal-2-3606679/)
- - [Gemini webpage summaries are now just one tap away in Chrome for Android](https://www.androidauthority.com/gemini-overlay-summarize-page-chrome-android-3606725/)<!-- TECH:END -->
+ - [Google Search now lets you hide sponsored results, kind of](https://www.androidauthority.com/hide-sponsored-results-3606758/)
+ - [Get your Jack Skellington and Sally Amazon Echo Dots before Halloween!](https://www.androidauthority.com/amazon-echo-dot-jack-skellington-sally-deal-3606678/)
+ - [Google updates NotebookLM&#39;s Video Overviews, adding six new Nano Banana-powered visual styles and a new &quot;Brief&quot; format for quick insights &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251013/p31#a251013p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
