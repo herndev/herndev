@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Window cleaning](http://9gag.com/gag/a9yNenm)
- - ⏩ [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
- - 👉 [Nice Pilots...](http://9gag.com/gag/axyneEM)<!-- MEMES:END -->
+ - 💣 [Dark stuff warning: Sorry for the emoji](http://9gag.com/gag/ayNVmDX)
+ - ⏩ [20yo unemployed Chinese student married 47yo daughter of an African diamond mine owner despite strong opposition and threat of disowning from his parents and relatives. Love truly conquers all.](http://9gag.com/gag/a5Qyvqo)
+ - 👉 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)<!-- MEMES:END -->
 
 ---
 
