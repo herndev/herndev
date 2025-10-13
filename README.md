@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates Search to group paid results into a collapsible section with a single, larger &quot;Sponsored&quot; label at the top and a hide button at the bottom &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/251013/p34#a251013p34)
- - [Google is turning your Nest Thermostat into a work of art](https://www.androidauthority.com/nest-thermostat-new-farsight-faces-3606750/)
- - [Google will let you hide sponsored results in search — after you’ve seen them](https://www.theverge.com/tech/798901/google-will-let-you-hide-sponsored-results-in-search-after-youve-seen-them)<!-- TECH:END -->
+ - [Google tried to kill this Pixel VoLTE-enabling app, but the developer already has a fix](https://www.androidauthority.com/pixel-ims-update-fix-3606811/)
+ - [Broadcom closes up 9.88% following the announcement of its custom chip deal with OpenAI; its stock is up over 50% in 2025 after more than doubling in 2024 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251013/p35#a251013p35)
+ - [The Best PC Monitor for Most People Is $75 Off](https://www.wired.com/story/dell-27-plus-deal-1025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
