@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2005 FPS Serious Sam 2 just got a big update for reasons known only to God](https://www.pcgamer.com/games/fps/2005-fps-serious-sam-2-just-got-a-big-update-for-reasons-known-only-to-god/)
- - [You should try this upcoming co-op roguelike during Steam Next Fest](https://www.polygon.com/godbreakers-steam-next-fest-preview/)
- - [Critical Role campaign 4&#39;s lore is a lot to take in: Here&#39;s a guide](https://www.polygon.com/critical-role-campaign-4s-lore-guide/)<!-- GAME:END -->
+ - [Taylor Swift&#39;s Disney Plus Eras Tour news makes her the new Marvel Universe](https://www.polygon.com/taylor-swift-disney-plus-deal-marvel/)
+ - [This RTX 5070 Ti with a literal hole in it has been kept on life support by a spliced-in AMD RX 580, because no GPU gets left behind](https://www.pcgamer.com/hardware/graphics-cards/this-rtx-5070-ti-with-a-literal-hole-in-it-has-been-kept-on-life-support-by-a-spliced-in-amd-rx-580-because-no-gpu-gets-left-behind/)
+ - [Forget Overpriced AirPods, Amazon Is Practically Giving Away the Sony XM4 ANC Headphones](https://kotaku.com/forget-overpriced-airpods-amazon-is-practically-giving-away-the-sony-xm4-anc-headphones-2000634606)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
