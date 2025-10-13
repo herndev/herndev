@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10 users report random app crashes after October update](https://www.androidauthority.com/pixel-10-app-crashes-october-update-3606585/)
- - [Strava CEO Michael Martin says Strava plans to launch a US IPO; Sensor Tower says Strava has 50M MAUs and users spent $180M+ on Premium in the year to September &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/251013/p5#a251013p5)
- - [This new dual-screen handheld could be the best budget pick for Nintendo DS emulation](https://www.androidauthority.com/ambernic-nintendo-ds-emulator-handheld-3606560/)<!-- TECH:END -->
+ - [Parisians and BHV Marais staff protest Shein&#39;s 1,000-square-meter store, set to open November 1, as France tries to curb the company&#39;s presence in the country &lpar;New York Times&rpar;](http://www.techmeme.com/251013/p7#a251013p7)
+ - [The ‘Womanosphere’ Is Reshaping the Conservative Dating Landscape](https://www.wired.com/story/the-womanosphere-is-reshaping-the-conservative-dating-landscape/)
+ - [Data center proposals are facing growing opposition from towns across the US, as residents and officials raise concerns about water and electricity use &lpar;Daniel Wu/Washington Post&rpar;](http://www.techmeme.com/251013/p6#a251013p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
