@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI agrees to acquire 10GW of chips from Broadcom and co-design custom GPUs with Broadcom to run its AI models; sources: the deal is worth multiple billions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251013/p18#a251013p18)
- - [3 Best Smart Displays &lpar;2025&rpar;: Tested By a Smart Home Addict](https://www.wired.com/gallery/best-smart-displays/)
- - [UK fines 4Chan over online safety compliance](https://www.theverge.com/news/798797/uk-ofcom-fines-4chan-online-safety-act)<!-- TECH:END -->
+ - [Vivo X300 Pro launches with an Ultra-rivaling camera](https://www.theverge.com/news/798803/vivo-x300-pro-samsung-hpb-telephoto-extender-launch)
+ - [T-Mobile has hiked its late fee, but there’s still a way to save some cash](https://www.androidauthority.com/t-mobile-hiked-late-fee-3606645/)
+ - [Sources: the Trump administration cut 176 CISA jobs last week as part of laying off 4,000+ US federal workers, and is likely to make further mass CISA layoffs &lpar;Cynthia B Brumfield/Metacurity&rpar;](http://www.techmeme.com/251013/p19#a251013p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
