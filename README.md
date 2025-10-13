@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Massive Pokemon leak purportedly covers gen 10 games, scrapped Z-A ideas](https://www.polygon.com/pokemon-wind-waves-leak-gen-10-game-freak/)
- - [Steam Next Fest is back with a trove of demos in tow, and the highlights range from a new Heroes of Might and Magic to physics-based combat sims](https://www.pcgamer.com/games/steam-next-fest-is-back-with-a-trove-of-demos-in-tow-and-the-highlights-range-from-a-new-heroes-of-might-and-magic-to-physics-based-combat-sims/)
- - [The original Fallout&#39;s lead developer says China nuked first, vault suits were meant to be &#39;extruded&#39; by a machine, and yes Sugar Bombs are a Calvin and Hobbes reference](https://www.pcgamer.com/games/fallout/the-original-fallouts-lead-developer-says-china-nuked-first-vault-suits-were-meant-to-be-extruded-by-a-machine-and-yes-sugar-bombs-are-a-calvin-and-hobbes-reference/)<!-- GAME:END -->
+ - [Skyrim&#39;s lead designer reckons open world games are &#39;almost a cliché statement&#39; these days, and that Skyrim owes its continued popularity to a focus on player agency: &#39;We didn&#39;t put anything off limits&#39;](https://www.pcgamer.com/games/the-elder-scrolls/skyrims-lead-designer-reckons-open-world-games-are-almost-a-cliche-statement-these-days-and-that-skyrim-owes-its-continued-popularity-to-a-focus-on-player-agency-we-didnt-put-anything-off-limits/)
+ - [10 Of The Best Demos To Check Out In October’s Steam Next Fest](https://kotaku.com/best-free-demos-next-fest-painkiller-reanimal-steam-2000634620)
+ - [Arrowhead is delaying Helldivers 2 updates to fix its performance problems: &#39;We&#39;re focusing way more on addressing these issues to make sure this sort of things doesn&#39;t happen again&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowhead-is-delaying-helldivers-2-updates-to-fix-its-performance-problems-were-focusing-way-more-on-addressing-these-issues-to-make-sure-this-sort-of-things-doesnt-happen-again/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
