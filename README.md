@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search now lets you hide sponsored results, kind of](https://www.androidauthority.com/hide-sponsored-results-3606758/)
- - [Get your Jack Skellington and Sally Amazon Echo Dots before Halloween!](https://www.androidauthority.com/amazon-echo-dot-jack-skellington-sally-deal-3606678/)
- - [Google updates NotebookLM&#39;s Video Overviews, adding six new Nano Banana-powered visual styles and a new &quot;Brief&quot; format for quick insights &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251013/p31#a251013p31)<!-- TECH:END -->
+ - [Google updates Search to group paid results into a collapsible section with a single, larger &quot;Sponsored&quot; label at the top and a hide button at the bottom &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/251013/p34#a251013p34)
+ - [Google is turning your Nest Thermostat into a work of art](https://www.androidauthority.com/nest-thermostat-new-farsight-faces-3606750/)
+ - [Google will let you hide sponsored results in search — after you’ve seen them](https://www.theverge.com/tech/798901/google-will-let-you-hide-sponsored-results-in-search-after-youve-seen-them)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
