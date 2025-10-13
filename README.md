@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
- - ⏩ [Finally done \u2705](http://9gag.com/gag/aGyN6dK)
+ - 💣 [Finally done \u2705](http://9gag.com/gag/aGyN6dK)
+ - ⏩ [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)
  - 👉 [Grandpa&#39;s shirt game is strong](http://9gag.com/gag/abAmL3X)<!-- MEMES:END -->
 
 ---
