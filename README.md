@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [World of Warcraft Legion Remix is suffering from a problem MMO players rarely experience: Too many tanks](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-legion-remix-is-suffering-from-a-problem-mmo-players-rarely-experience-too-many-tanks/)
  - [Skyrim&#39;s lead designer reckons open world games are &#39;almost a cliché statement&#39; these days, and that Skyrim owes its continued popularity to a focus on player agency: &#39;We didn&#39;t put anything off limits&#39;](https://www.pcgamer.com/games/the-elder-scrolls/skyrims-lead-designer-reckons-open-world-games-are-almost-a-cliche-statement-these-days-and-that-skyrim-owes-its-continued-popularity-to-a-focus-on-player-agency-we-didnt-put-anything-off-limits/)
- - [10 Of The Best Demos To Check Out In October’s Steam Next Fest](https://kotaku.com/best-free-demos-next-fest-painkiller-reanimal-steam-2000634620)
- - [Arrowhead is delaying Helldivers 2 updates to fix its performance problems: &#39;We&#39;re focusing way more on addressing these issues to make sure this sort of things doesn&#39;t happen again&#39;](https://www.pcgamer.com/games/third-person-shooter/arrowhead-is-delaying-helldivers-2-updates-to-fix-its-performance-problems-were-focusing-way-more-on-addressing-these-issues-to-make-sure-this-sort-of-things-doesnt-happen-again/)<!-- GAME:END -->
+ - [10 Of The Best Demos To Check Out In October’s Steam Next Fest](https://kotaku.com/best-free-demos-next-fest-painkiller-reanimal-steam-2000634620)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
