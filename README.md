@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I guess.](http://9gag.com/gag/azxDvLN)
+ - 💣 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
  - ⏩ [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 👉 [Pure joy seeing daddy come home](http://9gag.com/gag/awyGD58)<!-- MEMES:END -->
+ - 👉 [I guess.](http://9gag.com/gag/azxDvLN)<!-- MEMES:END -->
 
 ---
 
