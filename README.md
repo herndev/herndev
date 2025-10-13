@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
- - ⏩ [`it&#39;s not a realistic female body`](http://9gag.com/gag/awyGG3Q)
- - 👉 [Don&#39;t get pregnant](http://9gag.com/gag/aVv14AO)<!-- MEMES:END -->
+ - 💣 [Nope](http://9gag.com/gag/aPAdVQq)
+ - ⏩ [I guess.](http://9gag.com/gag/azxDvLN)
+ - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
 
 ---
 
