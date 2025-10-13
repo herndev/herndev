@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
- - ⏩ [Pure joy seeing daddy come home](http://9gag.com/gag/awyGD58)
- - 👉 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)<!-- MEMES:END -->
+ - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - ⏩ [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
+ - 👉 [Dark stuff warning: Sorry for the emoji](http://9gag.com/gag/ayNVmDX)<!-- MEMES:END -->
 
 ---
 
