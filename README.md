@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MTG&#39;s&#39;s newest Universes Beyond set finally fixes a 20-year-old ability](https://www.polygon.com/mtg-tmnt-sneak-vs-ninjutsu/)
- - [Disney bets big on Impossible Creatures as the next Harry Potter](https://www.polygon.com/disney-impossible-creatures-deal-harry-potter/)
- - [The Elder Scrolls IV: Oblivion Remastered Physical Edition Available Now](https://bethesda.net/en/article/1mIFZXEeXmNsemXDS03I3t/the-elder-scrolls-iv-oblivion-remastered-physical-edition-now#new_tab)<!-- GAME:END -->
+ - [Steam Next Fest is back with a trove of demos in tow, and the highlights range from a new Heroes of Might and Magic to physics-based combat sims](https://www.pcgamer.com/games/steam-next-fest-is-back-with-a-trove-of-demos-in-tow-and-the-highlights-range-from-a-new-heroes-of-might-and-magic-to-physics-based-combat-sims/)
+ - [The original Fallout&#39;s lead developer says China nuked first, vault suits were meant to be &#39;extruded&#39; by a machine, and yes Sugar Bombs are a Calvin and Hobbes reference](https://www.pcgamer.com/games/fallout/the-original-fallouts-lead-developer-says-china-nuked-first-vault-suits-were-meant-to-be-extruded-by-a-machine-and-yes-sugar-bombs-are-a-calvin-and-hobbes-reference/)
+ - [World of Warcraft director admits it&#39;s too hard without combat mods and explains how bosses will change in Midnight: &#39;We&#39;re not looking to turn all our raid encounters into giant puzzles for people to solve&#39;](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-director-admits-its-too-hard-without-combat-mods-and-explains-how-bosses-will-change-in-midnight-were-not-looking-to-turn-all-our-raid-encounters-into-giant-puzzles-for-people-to-solve/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
