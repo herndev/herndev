@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
- - ⏩ [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
- - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
+ - 💣 [Nope](http://9gag.com/gag/aPAdVQq)
+ - ⏩ [Mr FAFO](http://9gag.com/gag/aLnNOqM)
+ - 👉 [Lets Post this](http://9gag.com/gag/azxDzoB)<!-- MEMES:END -->
 
 ---
 
