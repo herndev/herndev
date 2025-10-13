@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nope](http://9gag.com/gag/aPAdVQq)
- - ⏩ [I guess.](http://9gag.com/gag/azxDvLN)
- - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
+ - 💣 [RIP Randy Savage](http://9gag.com/gag/aQzNKPd)
+ - ⏩ [The biggest crime in India](http://9gag.com/gag/a2vjAZp)
+ - 👉 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)<!-- MEMES:END -->
 
 ---
 
