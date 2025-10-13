@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What an incredible story of strength and triumph](http://9gag.com/gag/aPAd0gB)
- - ⏩ [20yo unemployed Chinese student married 47yo daughter of an African diamond mine owner despite strong opposition and threat of disowning from his parents and relatives. Love truly conquers all.](http://9gag.com/gag/a5Qyvqo)
- - 👉 [I guess.](http://9gag.com/gag/azxDvLN)<!-- MEMES:END -->
+ - 💣 [Window cleaning](http://9gag.com/gag/a9yNenm)
+ - ⏩ [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
+ - 👉 [Nice Pilots...](http://9gag.com/gag/axyneEM)<!-- MEMES:END -->
 
 ---
 
