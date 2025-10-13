@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&#39;s blockbuster deals with Nvidia and AMD add a new layer to its complicated ownership structure and will dilute existing shareholders like Microsoft &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/251013/p3#a251013p3)
- - [Warburg Pincus agrees to acquire German industrial software company PSI for over €700M, offering €45 per share; PSI&#39;s stock closed at €33.20 on October 10 &lpar;Reuters&rpar;](http://www.techmeme.com/251013/p2#a251013p2)
- - [Wingtech&#39;s Shanghai-listed stock plunged its daily limit of 10% after the Dutch government moved to exert control over Nexperia, which it acquired in 2018 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251013/p1#a251013p1)<!-- TECH:END -->
+ - [Q&amp;A with journalist Jacob Silverman on his new book Gilded Rage, the radical politics of certain tech elites, AI&#39;s impact on Silicon Valley politics, and more &lpar;Calder McHugh/Politico&rpar;](http://www.techmeme.com/251013/p4#a251013p4)
+ - [Stable Wear OS 6 arrives for the Samsung Galaxy Watch 7](https://www.androidauthority.com/galaxy-watch-7-wear-os-6-one-ui-8-3606549/)
+ - [OpenAI&#39;s blockbuster deals with Nvidia and AMD add a new layer to its complicated ownership structure and will dilute existing shareholders like Microsoft &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/251013/p3#a251013p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
