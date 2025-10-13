@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
- - ⏩ [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 👉 [I guess.](http://9gag.com/gag/azxDvLN)<!-- MEMES:END -->
+ - 💣 [20yo unemployed Chinese student married 47yo daughter of an African diamond mine owner despite strong opposition and threat of disowning from his parents and relatives. Love truly conquers all.](http://9gag.com/gag/a5Qyvqo)
+ - ⏩ [Mr FAFO](http://9gag.com/gag/aLnNOqM)
+ - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
 
 ---
 
