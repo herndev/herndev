@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI partners with Broadcom to produce its own AI chips](https://www.theverge.com/news/798827/openai-broadcom-custom-ai-chips)
- - [Survey reveals which Pixel feature you’d like to return from the grave](https://www.androidauthority.com/poll-results-old-google-pixel-features-3606664/)
- - [Salesforce plans to invest $15B in San Francisco over the next five years, including funding an AI Incubator Hub and workforce programs; CRM is down 25% in 2025 &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/251013/p21#a251013p21)<!-- TECH:END -->
+ - [Apple TV+ loses the Plus in Apple&#39;s quietest rebranding exercise ever](https://appleinsider.com/articles/25/10/13/apple-tv-loses-the-plus-in-apples-quietest-rebranding-exercise-ever?utm_source=rss)
+ - [Poll: Are you facing Wi-Fi issues after latest Pixel update?](https://www.androidauthority.com/pixel-wifi-issues-poll-3606694/)
+ - [Apple says Apple TV+ streaming service is being renamed as Apple TV, with &quot;a vibrant new identity&quot; &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/251013/p26#a251013p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
