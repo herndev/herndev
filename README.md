@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lofree Flow 2 review](https://www.pcgamer.com/hardware/gaming-keyboards/lofree-flow-2-review/)
- - [Forget Black Friday, DJI RS 3 Mini 3-Axis Gimbal Stabilizer for Cameras Hits Its Lowest Price Ever](https://kotaku.com/forget-black-friday-dji-rs-3-mini-3-axis-gimbal-stabilizer-for-cameras-hits-its-lowest-price-ever-2000634108)
- - [Trump announces new 100% China tariff along with export controls on &#39;any and all critical software&#39; over rare earth spat, as Chinese gov says it doesn&#39;t want a trade war but is &#39;not afraid of one&#39;](https://www.pcgamer.com/hardware/trump-announces-new-100-percent-china-tariff-along-with-export-controls-on-any-and-all-critical-software-over-rare-earth-spat-as-chinese-gov-says-it-doesnt-want-a-trade-war-but-is-not-afraid-of-one/)<!-- GAME:END -->
+ - [2005 FPS Serious Sam 2 just got a big update for reasons known only to God](https://www.pcgamer.com/games/fps/2005-fps-serious-sam-2-just-got-a-big-update-for-reasons-known-only-to-god/)
+ - [You should try this upcoming co-op roguelike during Steam Next Fest](https://www.polygon.com/godbreakers-steam-next-fest-preview/)
+ - [Critical Role campaign 4&#39;s lore is a lot to take in: Here&#39;s a guide](https://www.polygon.com/critical-role-campaign-4s-lore-guide/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
