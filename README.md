@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ loses the Plus in Apple&#39;s quietest rebranding exercise ever](https://appleinsider.com/articles/25/10/13/apple-tv-loses-the-plus-in-apples-quietest-rebranding-exercise-ever?utm_source=rss)
- - [Poll: Are you facing Wi-Fi issues after latest Pixel update?](https://www.androidauthority.com/pixel-wifi-issues-poll-3606694/)
- - [Apple says Apple TV+ streaming service is being renamed as Apple TV, with &quot;a vibrant new identity&quot; &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/251013/p26#a251013p26)<!-- TECH:END -->
+ - [First look: Google Photos is making it easier to wrangle your albums](https://www.androidauthority.com/google-photos-album-chip-3606710/)
+ - [Sources: Raymond Zage and James Lu, who control most of Grindr, are in talks to take it private after a Temasek unit sold shares pledged for personal loans &lpar;Liz Hoffman/Semafor&rpar;](http://www.techmeme.com/251013/p28#a251013p28)
+ - [Apple says iPhone Air will go on sale in China on October 22, after initially delaying the launch due to regulatory issues with the device&#39;s eSIM-only design &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/251013/p27#a251013p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
