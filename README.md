@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [John Searle, known for &quot;the Chinese Room&quot; thought experiment on AI consciousness, died on Sept. 16 at 93; his UCB tenure ended over alleged sexual harassment &lpar;Alex Traub/New York Times&rpar;](http://www.techmeme.com/251012/p16#a251012p16)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 13 #589](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-13-589/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Oct. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-oct-13/#ftag=CAD590a51e)
- - [Samsung just released an even better foldable than the Galaxy Z Fold 7](https://www.androidauthority.com/samsung-w26-3606529/)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Oct. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-oct-13/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
