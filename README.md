@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nope](http://9gag.com/gag/aPAdVQq)
- - ⏩ [Mr FAFO](http://9gag.com/gag/aLnNOqM)
- - 👉 [Lets Post this](http://9gag.com/gag/azxDzoB)<!-- MEMES:END -->
+ - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - ⏩ [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
+ - 👉 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)<!-- MEMES:END -->
 
 ---
 
