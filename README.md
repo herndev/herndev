@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From the archives](http://9gag.com/gag/aPAdnnG)
- - ⏩ [So much work and..](http://9gag.com/gag/axyn4y1)
- - 👉 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)<!-- MEMES:END -->
+ - 💣 [The rage bait](http://9gag.com/gag/aryrrg7)
+ - ⏩ [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)
+ - 👉 [Hate when that happens](http://9gag.com/gag/an7W06b)<!-- MEMES:END -->
 
 ---
 
