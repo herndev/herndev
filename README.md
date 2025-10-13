@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Parisians and BHV Marais staff protest Shein&#39;s 1,000-square-meter store, set to open November 1, as France tries to curb the company&#39;s presence in the country &lpar;New York Times&rpar;](http://www.techmeme.com/251013/p7#a251013p7)
- - [The ‘Womanosphere’ Is Reshaping the Conservative Dating Landscape](https://www.wired.com/story/the-womanosphere-is-reshaping-the-conservative-dating-landscape/)
- - [Data center proposals are facing growing opposition from towns across the US, as residents and officials raise concerns about water and electricity use &lpar;Daniel Wu/Washington Post&rpar;](http://www.techmeme.com/251013/p6#a251013p6)<!-- TECH:END -->
+ - [Ofcom fines 4chan £20K under the OSA for failing to provide information on the risk of illegal content; a UK minister says the government &quot;fully backed&quot; Ofcom &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/251013/p11#a251013p11)
+ - [Sources: UK security services including MI5 step up work with the country&#39;s largest companies over hacking fears and to improve UK cyber warfare preparedness &lpar;Financial Times&rpar;](http://www.techmeme.com/251013/p10#a251013p10)
+ - [How to Make STEM Funny—and Go Viral Doing It](https://www.wired.com/story/freya-mcghee-stem-stand-up-comedian/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
