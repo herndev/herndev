@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vivo X300 Pro launches with an Ultra-rivaling camera](https://www.theverge.com/news/798803/vivo-x300-pro-samsung-hpb-telephoto-extender-launch)
- - [T-Mobile has hiked its late fee, but there’s still a way to save some cash](https://www.androidauthority.com/t-mobile-hiked-late-fee-3606645/)
- - [Sources: the Trump administration cut 176 CISA jobs last week as part of laying off 4,000+ US federal workers, and is likely to make further mass CISA layoffs &lpar;Cynthia B Brumfield/Metacurity&rpar;](http://www.techmeme.com/251013/p19#a251013p19)<!-- TECH:END -->
+ - [OpenAI partners with Broadcom to produce its own AI chips](https://www.theverge.com/news/798827/openai-broadcom-custom-ai-chips)
+ - [Survey reveals which Pixel feature you’d like to return from the grave](https://www.androidauthority.com/poll-results-old-google-pixel-features-3606664/)
+ - [Salesforce plans to invest $15B in San Francisco over the next five years, including funding an AI Incubator Hub and workforce programs; CRM is down 25% in 2025 &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/251013/p21#a251013p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
