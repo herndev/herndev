@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Elder Scrolls IV: Oblivion Remastered Physical Edition Available Now](https://bethesda.net/en/article/1mIFZXEeXmNsemXDS03I3t/the-elder-scrolls-iv-oblivion-remastered-physical-edition-now#new_tab)
- - [Star Wars: Revenge of the Sith secrets spilled in new annotation notes](https://www.polygon.com/star-wars-revenge-of-the-sith-annotated-novelization/)
- - [Magic: The Gathering&#39;s latest crossover is with none other than the heroes in a half-shell, and they come bearing &#39;pizza lands&#39;](https://www.pcgamer.com/games/strategy/magic-the-gatherings-latest-crossover-is-with-none-other-than-the-heroes-in-a-half-shell-and-they-come-bearing-pizza-lands/)<!-- GAME:END -->
+ - [MTG&#39;s&#39;s newest Universes Beyond set finally fixes a 20-year-old ability](https://www.polygon.com/mtg-tmnt-sneak-vs-ninjutsu/)
+ - [Disney bets big on Impossible Creatures as the next Harry Potter](https://www.polygon.com/disney-impossible-creatures-deal-harry-potter/)
+ - [The Elder Scrolls IV: Oblivion Remastered Physical Edition Available Now](https://bethesda.net/en/article/1mIFZXEeXmNsemXDS03I3t/the-elder-scrolls-iv-oblivion-remastered-physical-edition-now#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
