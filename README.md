@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Taylor Swift&#39;s Disney Plus Eras Tour news makes her the new Marvel Universe](https://www.polygon.com/taylor-swift-disney-plus-deal-marvel/)
- - [This RTX 5070 Ti with a literal hole in it has been kept on life support by a spliced-in AMD RX 580, because no GPU gets left behind](https://www.pcgamer.com/hardware/graphics-cards/this-rtx-5070-ti-with-a-literal-hole-in-it-has-been-kept-on-life-support-by-a-spliced-in-amd-rx-580-because-no-gpu-gets-left-behind/)
- - [Forget Overpriced AirPods, Amazon Is Practically Giving Away the Sony XM4 ANC Headphones](https://kotaku.com/forget-overpriced-airpods-amazon-is-practically-giving-away-the-sony-xm4-anc-headphones-2000634606)<!-- GAME:END -->
+ - [The Elder Scrolls IV: Oblivion Remastered Physical Edition Available Now](https://bethesda.net/en/article/1mIFZXEeXmNsemXDS03I3t/the-elder-scrolls-iv-oblivion-remastered-physical-edition-now#new_tab)
+ - [Star Wars: Revenge of the Sith secrets spilled in new annotation notes](https://www.polygon.com/star-wars-revenge-of-the-sith-annotated-novelization/)
+ - [Magic: The Gathering&#39;s latest crossover is with none other than the heroes in a half-shell, and they come bearing &#39;pizza lands&#39;](https://www.pcgamer.com/games/strategy/magic-the-gatherings-latest-crossover-is-with-none-other-than-the-heroes-in-a-half-shell-and-they-come-bearing-pizza-lands/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
