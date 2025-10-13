@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Old Dark House brought macabre humor to early horror](https://www.polygon.com/old-dark-house-early-james-whale-horror-classic-what-to-stream/)
- - [Razer Wolverine V3 Pro 8K PC review](https://www.pcgamer.com/hardware/controllers/razer-wolverine-v3-pro-8k-pc-review/)
- - [Ninja Gaiden 4 directors say a &#39;sense of fairness&#39; is vital for difficult games: &#39;If the player gets killed unreasonably, it&#39;s hard for them to reflect and think about what they could&#39;ve done&#39;](https://www.pcgamer.com/games/action/ninja-gaiden-4-directors-say-a-sense-of-fairness-is-vital-for-difficult-games-if-the-player-gets-killed-unreasonably-its-hard-for-them-to-reflect-and-think-about-what-they-couldve-done/)<!-- GAME:END -->
+ - [Lofree Flow 2 review](https://www.pcgamer.com/hardware/gaming-keyboards/lofree-flow-2-review/)
+ - [Forget Black Friday, DJI RS 3 Mini 3-Axis Gimbal Stabilizer for Cameras Hits Its Lowest Price Ever](https://kotaku.com/forget-black-friday-dji-rs-3-mini-3-axis-gimbal-stabilizer-for-cameras-hits-its-lowest-price-ever-2000634108)
+ - [Trump announces new 100% China tariff along with export controls on &#39;any and all critical software&#39; over rare earth spat, as Chinese gov says it doesn&#39;t want a trade war but is &#39;not afraid of one&#39;](https://www.pcgamer.com/hardware/trump-announces-new-100-percent-china-tariff-along-with-export-controls-on-any-and-all-critical-software-over-rare-earth-spat-as-chinese-gov-says-it-doesnt-want-a-trade-war-but-is-not-afraid-of-one/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
