@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta brings back job listings on Facebook, available for mobile users in the US via a dedicated Jobs tab in Marketplace, and across Groups and Pages &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/251013/p37#a251013p37)
- - [Facebook is adding job listings, again](https://www.theverge.com/tech/798921/facebook-local-jobs-us)
- - [Google Meet adds a new trick for when you’re not camera-ready](https://www.androidauthority.com/google-meet-ai-makeup-3606836/)<!-- TECH:END -->
+ - [Sources: OpenAI is working with Arm to develop a CPU designed to work with the AI chip OpenAI is developing with Broadcom; TSMC will manufacture the AI chip &lpar;The Information&rpar;](http://www.techmeme.com/251013/p39#a251013p39)
+ - [Charlie Kawwas, president of Broadcom&#39;s semiconductor group, says OpenAI is not the $10B customer the company announced during its earnings call in September &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251013/p38#a251013p38)
+ - [Meta brings back job listings on Facebook, available for mobile users in the US via a dedicated Jobs tab in Marketplace, and across Groups and Pages &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/251013/p37#a251013p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
