@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Document: to avoid an EU fine, Google offered to tweak its search results to show vertical search engines in their own box on Search &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/251014/p30#a251014p30)
- - [Discord vendor refuses to be blamed for hack and data theft](https://appleinsider.com/articles/25/10/14/discord-vendor-refuses-to-be-blamed-over-hack-and-data-theft?utm_source=rss)
- - [Managed security services provider LevelBlue to acquire cybersecurity firm Cybereason, which raised $850M in total funding and undergone multiple restructurings &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/251014/p29#a251014p29)<!-- TECH:END -->
+ - [Marc Benioff says Salesforce is saving about $100M a year by using AI tools in its customer service operations &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251014/p32#a251014p32)
+ - [Do You Really Have to Stop Using Windows 10?](https://www.wired.com/story/do-you-really-have-to-stop-using-windows-10/)
+ - [4 Apple Airtags Are $65 Right Now](https://www.wired.com/story/apple-airtag-deal-1025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
