@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart partners with OpenAI to let shoppers browse and purchase its products on ChatGPT, including apparel, entertainment, packaged food, and third-party goods &lpar;Jaewon Kang/Bloomberg&rpar;](http://www.techmeme.com/251014/p19#a251014p19)
- - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)
- - [Salesforce expands its partnerships with OpenAI and Anthropic to embed their AI models into Agentforce 360, including letting customers access it in ChatGPT &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/251014/p18#a251014p18)<!-- TECH:END -->
+ - [Pixel 10 crashing since October update? Google’s got a fix now](https://www.androidauthority.com/pixel-10-fix-3606967/)
+ - [The latest Moto Razr Ultra foldable is an even better value at $999](https://www.theverge.com/tech/799096/motorola-razr-ultra-2025-anker-nano-charging-station-deal-sale)
+ - [Survey reveals a lot of Android fans would buy the iPhone 17 — but only with this dreamy change](https://www.androidauthority.com/buy-iphone-17-with-android-poll-results-3606951/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
