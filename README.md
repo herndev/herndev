@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Greens Powders &lpar;2025&rpar; Researched, Taste-Tested &amp; Reviewed](https://www.wired.com/gallery/best-greens-powders/)
- - [If you had to have one iOS feature on Android, what would it be?](https://www.androidauthority.com/open-thread-ios-feature-android-3606783/)
- - [Filings: the Dutch government seized Nexperia after the US warned it would not be removed from its export control list if Chinese CEO Zhang Xuezheng remained &lpar;Financial Times&rpar;](http://www.techmeme.com/251014/p12#a251014p12)<!-- TECH:END -->
+ - [How trans visibility became a trap](https://www.theverge.com/cs/features/798490/trans-visibility-trap)
+ - [Instagram is making all teen accounts ‘PG-13’](https://www.theverge.com/news/798308/instagram-teen-accounts-pg-13-overhaul-safety)
+ - [New EU and China energy initiatives don&#39;t scratch the surface of what Apple is consuming](https://appleinsider.com/articles/25/10/14/new-eu-solar-initiative-doesnt-scratch-the-surface-of-what-apple-is-consuming?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
