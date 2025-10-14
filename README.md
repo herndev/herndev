@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cat chose to be smothered by love.](http://9gag.com/gag/aE0NKop)
+ - 💣 [Just a normal day fixing pipes](http://9gag.com/gag/aXPG1q9)
  - ⏩ [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)
  - 👉 [I tried to uncensor it for you guys](http://9gag.com/gag/aW4NyK2)<!-- MEMES:END -->
 
