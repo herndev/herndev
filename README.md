@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game of Thrones&#39; newest star has a spicy Lord of the Rings take](https://www.polygon.com/knight-of-the-seven-kingdoms-peter-claffey-game-of-thrones-vs-lord-of-the-rings/)
- - [Battlefield 6&#39;s already mountainous grind is being stifled by assignments failing to track](https://www.pcgamer.com/games/fps/battlefield-6-assignments-not-working-tracking/)
- - [AirPods Max Still Hold Their Prime Day Price Tag as Apple Clears Out Remaining Stock](https://kotaku.com/airpods-max-still-hold-their-prime-day-price-tag-as-apple-clears-out-remaining-stock-2000634634)<!-- GAME:END -->
+ - [Battlefield 6 is a political Rorschach test](https://www.polygon.com/battlefield-6-politics-story-analysis/)
+ - [‘EA Were Dicks’: Battlefield Boss Explains The Origins Of Call Of Duty](https://kotaku.com/call-of-duty-battlefield-medal-of-honor-cod-ea-2000635321)
+ - [F1 Meets LEGO, Speed Champions Kick Sauber C44 Race Car Is Practically Free for Formula 1 Fans](https://kotaku.com/f1-meets-lego-speed-champions-kick-sauber-c44-race-car-is-practically-free-for-formula-1-fans-2000634626)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
