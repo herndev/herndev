@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Quarter of the CDC Is Gone](https://www.wired.com/story/cdc-terminations-workforce-shutdown-rifs/)
- - [A New Attack Lets Hackers Steal 2-Factor Authentication Codes From Android Phones](https://www.wired.com/story/a-new-attack-lets-hackers-steal-2-factor-authentication-codes-from-android-phones/)
- - [Crypto investor Roger Ver, aka &quot;Bitcoin Jesus&quot;, reaches a deferred prosecution agreement with the US DOJ and pays ~$50M to resolve a tax evasion indictment &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251014/p38#a251014p38)<!-- TECH:END -->
+ - [If you like pink, you can save 38% on the Motorola Razr Plus 2025](https://www.androidauthority.com/motorola-razr-plus-2025-deal-4-3607156/)
+ - [Anthropic&#39;s Jack Clark argues that, while he is optimistic about AI&#39;s progress, the industry must do a better job of listening to people&#39;s concerns about it &lpar;Jack Clark/Import AI&rpar;](http://www.techmeme.com/251014/p39#a251014p39)
+ - [Netflix is making a big bet on video podcasts](https://www.theverge.com/news/799582/netflix-spotify-video-podcast-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
