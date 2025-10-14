@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shocktober Is Back: Thrilling Events, Devilish Deals, and More Reasons to Love Xbox Game Pass](https://news.xbox.com/en-us/2025/10/14/shocktober-xbox-2025-sale-deals-halloween-xbox/)
- - [One the the best parts of Phasmophobia&#39;s success is the new wave of co-op horror games, &#39;There was nothing, now there&#39;s obviously quite a lot&#39;](https://www.pcgamer.com/games/horror/one-the-the-best-parts-of-phasmophobias-success-is-the-new-wave-of-co-op-horror-games-there-was-nothing-now-theres-obviously-quite-a-lot/)
- - [GEEKOM Ryzen 7 Gaming Mini PC Was Pricier Than a Mac Mini, Now It’s Cheaper and at Its Lowest Price Yet &lpar;32GB RAM, 1TB SSD&rpar;](https://kotaku.com/geekom-ryzen-7-mini-pc-was-pricier-than-a-mac-mini-now-its-cheaper-and-at-its-lowest-price-yet-32gb-ram-1tb-ssd-2000634644)<!-- GAME:END -->
+ - [How Overload Brings a Package of Competitive Fun to Call of Duty: Black Ops 7 Multiplayer](https://news.xbox.com/en-us/2025/10/14/overload-competitive-fun-black-ops-7-multiplayer/)
+ - [Creative Pebble Pro review](https://www.pcgamer.com/hardware/speakers/creative-pebble-pro-review/)
+ - [Wes Craven&#39;s forgotten Freddy Krueger TV show is now streaming for free](https://www.polygon.com/freddy-nightmares-streaming-tubi/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
