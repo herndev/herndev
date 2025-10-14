@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your movie bombs even worse than Morbius](http://9gag.com/gag/awyGj3Q)
- - ⏩ [Police in Portland sprayed pepper spray into the hole of a protesting frog.](http://9gag.com/gag/aD2NL6x)
- - 👉 [What an incredible story of strength and triumph](http://9gag.com/gag/aPAd0gB)<!-- MEMES:END -->
+ - 💣 [I&#39;m something of a chiropractor myself....](http://9gag.com/gag/an7WZVn)
+ - ⏩ [Tower of silence in India. Sky burial practiced by Parsi community.](http://9gag.com/gag/aD2NLZ9)
+ - 👉 [Mr FAFO](http://9gag.com/gag/aLnNOqM)<!-- MEMES:END -->
 
 ---
 
