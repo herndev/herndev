@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - ⏩ [In Vietnam, we don&#39;t say...](http://9gag.com/gag/aqypOKP)
- - 👉 [Deja vu](http://9gag.com/gag/apRjwop)<!-- MEMES:END -->
+ - 💣 [Police in Portland sprayed pepper spray into the hole of a protesting frog.](http://9gag.com/gag/aD2NL6x)
+ - ⏩ [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
 
 ---
 
