@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Battlefield 6 XP farm](https://www.pcgamer.com/games/fps/battlefield-6-xp-farm/)
- - [Keychron&#39;s upcoming fully ceramic keyboard is a strange choice for rapid trigger and 8K polling but it&#39;s incredibly shiny so I&#39;ll take it](https://www.pcgamer.com/hardware/gaming-keyboards/keychrons-upcoming-fully-ceramic-keyboard-is-a-strange-choice-for-rapid-trigger-and-8k-polling-but-its-incredibly-shiny-so-ill-take-it/)
- - [Stranger Things&#39; co-creator reveals the runtimes of season 5&#39;s first episodes](https://www.polygon.com/stranger-things-season-5-volume-1-episodes-runtimes/)<!-- GAME:END -->
+ - [The grossest Hannibal episode is also the most beautiful](https://www.polygon.com/best-hannibal-episode-sakizuke/)
+ - [When will the AI bubble burst? As OpenAI signs yet another megabucks deal with Broadcom, can anyone make sense of the trillions of dollars involved?](https://www.pcgamer.com/software/ai/when-will-the-ai-bubble-burst-as-openai-signs-yet-another-megabucks-deal-with-broadcom-can-anyone-make-sense-of-the-trillions-of-dollars-involved/)
+ - [&#39;They just really didn&#39;t think anyone would look up&#39;: Researchers snooped on unencrypted satellite data with basic equipment, finding private calls, text messages, and even military communications](https://www.pcgamer.com/software/security/they-just-really-didnt-think-anyone-would-look-up-researchers-snooped-on-unencrypted-satellite-data-with-basic-equipment-finding-private-calls-text-messages-and-even-military-communications/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
