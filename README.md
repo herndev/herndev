@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beyond MacBook Pro and iPad Pro, Apple retail is running out of two other key items](https://appleinsider.com/articles/25/10/14/beyond-macbook-pro-and-ipad-pro-apple-retail-is-running-out-of-two-other-key-items?utm_source=rss)
- - [4 Best Red-Light Therapy Masks and LED Devices of 2025, Reviewed](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
- - [Now you can spot the apps tapping into Android’s strongest security feature](https://www.androidauthority.com/advanced-protection-app-list-3607031/)<!-- TECH:END -->
+ - [Intel unveils Crescent Island, a data center GPU designed for AI inference workloads, featuring Intel&#39;s Xe3P microarchitecture and 160GB of LPDDR5X memory &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/251014/p36#a251014p36)
+ - [YouTube has a new video player](https://www.theverge.com/news/799492/youtube-new-video-player-update-changes)
+ - [Facebook removes ICE-tracking page after US government ‘outreach’](https://www.theverge.com/policy/799473/facebook-meta-ice-jawboning)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
