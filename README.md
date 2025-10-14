@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon Legends: Z-A is a fantastic return to &lpar;mega&rpar; form](https://www.theverge.com/games/798848/pokemon-legends-za-review-nintendo-switch-2)
- - [Assassin&#39;s Creed franchise boss Marc-Alexis Côté departs Ubisoft, two weeks after the game moved under Ubisoft&#39;s new Vantage Studios unit; Côté joined in 2005 &lpar;Tom Phillips/IGN&rpar;](http://www.techmeme.com/251014/p23#a251014p23)
- - [The US DOJ seizes ~$15B in bitcoin from a man who oversaw a Cambodian &quot;pig butchering&quot; operation, in the DOJ&#39;s largest ever forfeiture; the man remains at large &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/251014/p22#a251014p22)<!-- TECH:END -->
+ - [Glue, a Slack competitor co-founded last year by David Sacks and designed around threads over channels, raised a $20M Series A and says it has refocused on MCP &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251014/p26#a251014p26)
+ - [How the iPhone 17 reinvents the selfie, according to Apple execs](https://appleinsider.com/articles/25/10/14/how-the-iphone-17-reinvents-the-selfie-according-to-apple-execs?utm_source=rss)
+ - [Sam Altman says OpenAI plans a ChatGPT version with a &quot;personality that behaves more like what people liked about 4o&quot; and will add &quot;erotica for verified adults&quot; &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/251014/p25#a251014p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
