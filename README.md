@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For people who asked for repost to download video before it gets removed again](http://9gag.com/gag/a0eWgWX)
- - ⏩ [Nope](http://9gag.com/gag/aPAdVQq)
- - 👉 [That&#39;s a challenging wank!](http://9gag.com/gag/aPAdV8Q)<!-- MEMES:END -->
+ - 💣 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - ⏩ [Dei hiring](http://9gag.com/gag/aE0Nj0n)
+ - 👉 [She can start an infinite money glitch if she wants to.](http://9gag.com/gag/aO8NE0r)<!-- MEMES:END -->
 
 ---
 
