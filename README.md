@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Online loans marketplace LendingTree says CEO and Chairman Doug Lebda died at 55 in an ATV accident on his family&#39;s farm; Lebda founded LendingTree in 1996 &lpar;Ryan Mac/New York Times&rpar;](http://www.techmeme.com/251014/p9#a251014p9)
- - [TiVo no longer makes DVRs](https://www.theverge.com/news/798997/tivo-stops-dvr-hardware-production-sales)
- - [Internal memo: in a first, Samsung plans to award shares and bonuses based on stock price to employees and will let staff get up to 50% of their payout in stock &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/251014/p8#a251014p8)<!-- TECH:END -->
+ - [14 Best Greens Powders &lpar;2025&rpar; Researched, Taste-Tested &amp; Reviewed](https://www.wired.com/gallery/best-greens-powders/)
+ - [If you had to have one iOS feature on Android, what would it be?](https://www.androidauthority.com/open-thread-ios-feature-android-3606783/)
+ - [Filings: the Dutch government seized Nexperia after the US warned it would not be removed from its export control list if Chinese CEO Zhang Xuezheng remained &lpar;Financial Times&rpar;](http://www.techmeme.com/251014/p12#a251014p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
