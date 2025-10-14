@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - ⏩ [In Vietnam, we don&#39;t say...](http://9gag.com/gag/aqypOKP)
- - 👉 [She needed a school, Not forced motherhood.](http://9gag.com/gag/agmZ93r)<!-- MEMES:END -->
+ - 💣 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)
+ - ⏩ [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 👉 [Potatoes](http://9gag.com/gag/aO8N5zv)<!-- MEMES:END -->
 
 ---
 
