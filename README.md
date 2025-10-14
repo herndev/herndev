@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police in Portland sprayed pepper spray into the hole of a protesting frog.](http://9gag.com/gag/aD2NL6x)
- - ⏩ [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
+ - 💣 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
+ - ⏩ [Imagine she is your wife, and she watches every move you make.](http://9gag.com/gag/abAmozB)
+ - 👉 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)<!-- MEMES:END -->
 
 ---
 
