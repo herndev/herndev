@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia says it is donating the Vera Rubin NVL144 server rack architecture to the Open Compute Project and outlines its vision for &quot;gigawatt AI factories&quot; &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251014/p1#a251014p1)
  - [Researchers used an off-the-shelf system to compile a vast collection of private data, including T-Mobile users&#39; calls and texts, sent by satellites unencrypted &lpar;Wired&rpar;](http://www.techmeme.com/251013/p50#a251013p50)
- - [Sources: Tata Electronics bought the Indian unit of Justech Precision, a China-based Apple supplier that provides CNC machines to Foxconn, for ~$100M in August &lpar;Anniek Bao/CNBC&rpar;](http://www.techmeme.com/251013/p49#a251013p49)
- - [New EU solar initiative doesn&#39;t scratch the surface of what Apple is consuming](https://appleinsider.com/articles/25/10/14/new-eu-solar-initiative-doesnt-scratch-the-surface-of-what-apple-is-consuming?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Tata Electronics bought the Indian unit of Justech Precision, a China-based Apple supplier that provides CNC machines to Foxconn, for ~$100M in August &lpar;Anniek Bao/CNBC&rpar;](http://www.techmeme.com/251013/p49#a251013p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
