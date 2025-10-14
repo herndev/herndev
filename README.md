@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new study of 6,554 children aged 9 to 10 found that social media users scored lower on reading, vocabulary, and memory tests two years later than non-users &lpar;Rhitu Chatterjee/NPR&rpar;](http://www.techmeme.com/251014/p4#a251014p4)
- - [A look at quick commerce in India and China: India&#39;s ecosystem is evolving into a retail-media play, while China&#39;s is being used as a weapon in platform wars &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/251014/p3#a251014p3)
- - [Dealroom: 230+ European defense tech startups have launched since Russia&#39;s invasion of Ukraine, driven by interest in drones, as investors foresee a shake-out &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/251014/p2#a251014p2)<!-- TECH:END -->
+ - [5 apps you should use instead of Robinhood](https://www.androidauthority.com/robinhood-alternatives-3605710/)
+ - [OpenAI&#39;s massive deals show Sam Altman is selling a vision of a world-changing product and achieving it via world-changing financial engineering to raise $1T+ &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/251014/p6#a251014p6)
+ - [Your Galaxy phone could soon throttle your network performance for your own good &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-one-ui-8-5-network-battery-saver-3606891/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
