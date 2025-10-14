@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Splinter Cell: Deathwatch director wishes he had &#39;the security clearance&#39; to get us info about Ubisoft&#39;s Splinter Cell remake](https://www.pcgamer.com/movies-tv/splinter-cell-deathwatch-director-wishes-he-had-the-security-clearance-to-get-us-info-about-ubisofts-splinter-cell-remake/)
  - [ChatGPT is getting &#39;erotica for verified adults&#39; in December: Sam Altman claims mental health concerns have been addressed, so now it&#39;s time to &#39;safely relax the restrictions in most cases&#39;](https://www.pcgamer.com/software/ai/chatgpt-is-getting-erotica-for-verified-adults-in-december-sam-altman-claims-mental-health-concerns-have-been-addressed-so-now-its-time-to-safely-relax-the-restrictions-in-most-cases/)
- - [Battlefield 6 is lousy with &#39;land mine spam,&#39; but there&#39;s an easy way to avoid an explosive demise](https://www.pcgamer.com/games/fps/battlefield-6-is-lousy-with-land-mine-spam-but-theres-an-easy-way-to-avoid-an-explosive-demise/)
- - [Pokémon Legends: Z-A Looks Hardly Any Different Running On Switch 1 Vs. Switch 2](https://kotaku.com/pokemon-legends-za-switch-2-comparison-framerate-upgrade-2000635404)<!-- GAME:END -->
+ - [Battlefield 6 is lousy with &#39;land mine spam,&#39; but there&#39;s an easy way to avoid an explosive demise](https://www.pcgamer.com/games/fps/battlefield-6-is-lousy-with-land-mine-spam-but-theres-an-easy-way-to-avoid-an-explosive-demise/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
