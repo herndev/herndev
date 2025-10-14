@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)
- - ⏩ [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 👉 [Potatoes](http://9gag.com/gag/aO8N5zv)<!-- MEMES:END -->
+ - 💣 [Handled like a real gentlemen.](http://9gag.com/gag/a2vjgRw)
+ - ⏩ [Its important who you pick](http://9gag.com/gag/aKGN5pQ)
+ - 👉 [Just ignore the warnings, it will be fine](http://9gag.com/gag/a5Qy3Pg)<!-- MEMES:END -->
 
 ---
 
