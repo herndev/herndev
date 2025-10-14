@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m something of a chiropractor myself....](http://9gag.com/gag/an7WZVn)
- - ⏩ [Tower of silence in India. Sky burial practiced by Parsi community.](http://9gag.com/gag/aD2NLZ9)
- - 👉 [Mr FAFO](http://9gag.com/gag/aLnNOqM)<!-- MEMES:END -->
+ - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - ⏩ [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 👉 [I&#39;m something of a chiropractor myself....](http://9gag.com/gag/an7WZVn)<!-- MEMES:END -->
 
 ---
 
