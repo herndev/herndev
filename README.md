@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The grossest Hannibal episode is also the most beautiful](https://www.polygon.com/best-hannibal-episode-sakizuke/)
- - [When will the AI bubble burst? As OpenAI signs yet another megabucks deal with Broadcom, can anyone make sense of the trillions of dollars involved?](https://www.pcgamer.com/software/ai/when-will-the-ai-bubble-burst-as-openai-signs-yet-another-megabucks-deal-with-broadcom-can-anyone-make-sense-of-the-trillions-of-dollars-involved/)
- - [&#39;They just really didn&#39;t think anyone would look up&#39;: Researchers snooped on unencrypted satellite data with basic equipment, finding private calls, text messages, and even military communications](https://www.pcgamer.com/software/security/they-just-really-didnt-think-anyone-would-look-up-researchers-snooped-on-unencrypted-satellite-data-with-basic-equipment-finding-private-calls-text-messages-and-even-military-communications/)<!-- GAME:END -->
+ - [Game of Thrones&#39; newest star has a spicy Lord of the Rings take](https://www.polygon.com/knight-of-the-seven-kingdoms-peter-claffey-game-of-thrones-vs-lord-of-the-rings/)
+ - [Battlefield 6&#39;s already mountainous grind is being stifled by assignments failing to track](https://www.pcgamer.com/games/fps/battlefield-6-assignments-not-working-tracking/)
+ - [AirPods Max Still Hold Their Prime Day Price Tag as Apple Clears Out Remaining Stock](https://kotaku.com/airpods-max-still-hold-their-prime-day-price-tag-as-apple-clears-out-remaining-stock-2000634634)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
