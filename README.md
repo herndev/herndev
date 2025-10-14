@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dealroom: 230+ European defense tech startups have launched since Russia&#39;s invasion of Ukraine, driven by interest in drones, as investors foresee a shake-out &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/251014/p2#a251014p2)
- - [Nvidia says it is donating the Vera Rubin NVL144 server rack architecture to the Open Compute Project and outlines its vision for &quot;gigawatt AI factories&quot; &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251014/p1#a251014p1)
- - [Researchers used an off-the-shelf system to compile a vast collection of private data, including T-Mobile users&#39; calls and texts, sent by satellites unencrypted &lpar;Wired&rpar;](http://www.techmeme.com/251013/p50#a251013p50)<!-- TECH:END -->
+ - [A new study of 6,554 children aged 9 to 10 found that social media users scored lower on reading, vocabulary, and memory tests two years later than non-users &lpar;Rhitu Chatterjee/NPR&rpar;](http://www.techmeme.com/251014/p4#a251014p4)
+ - [A look at quick commerce in India and China: India&#39;s ecosystem is evolving into a retail-media play, while China&#39;s is being used as a weapon in platform wars &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/251014/p3#a251014p3)
+ - [Dealroom: 230+ European defense tech startups have launched since Russia&#39;s invasion of Ukraine, driven by interest in drones, as investors foresee a shake-out &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/251014/p2#a251014p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
