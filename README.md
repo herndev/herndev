@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Glue, a Slack competitor co-founded last year by David Sacks and designed around threads over channels, raised a $20M Series A and says it has refocused on MCP &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251014/p26#a251014p26)
- - [How the iPhone 17 reinvents the selfie, according to Apple execs](https://appleinsider.com/articles/25/10/14/how-the-iphone-17-reinvents-the-selfie-according-to-apple-execs?utm_source=rss)
- - [Sam Altman says OpenAI plans a ChatGPT version with a &quot;personality that behaves more like what people liked about 4o&quot; and will add &quot;erotica for verified adults&quot; &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/251014/p25#a251014p25)<!-- TECH:END -->
+ - [Document: to avoid an EU fine, Google offered to tweak its search results to show vertical search engines in their own box on Search &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/251014/p30#a251014p30)
+ - [Discord vendor refuses to be blamed for hack and data theft](https://appleinsider.com/articles/25/10/14/discord-vendor-refuses-to-be-blamed-over-hack-and-data-theft?utm_source=rss)
+ - [Managed security services provider LevelBlue to acquire cybersecurity firm Cybereason, which raised $850M in total funding and undergone multiple restructurings &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/251014/p29#a251014p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
