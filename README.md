@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Overload Brings a Package of Competitive Fun to Call of Duty: Black Ops 7 Multiplayer](https://news.xbox.com/en-us/2025/10/14/overload-competitive-fun-black-ops-7-multiplayer/)
- - [Creative Pebble Pro review](https://www.pcgamer.com/hardware/speakers/creative-pebble-pro-review/)
- - [Wes Craven&#39;s forgotten Freddy Krueger TV show is now streaming for free](https://www.polygon.com/freddy-nightmares-streaming-tubi/)<!-- GAME:END -->
+ - [How Alchemised went from Harry Potter fanfic to a $3 million movie deal](https://www.polygon.com/alchemised-manacled-senlinyu-interview/)
+ - [Age of Empires II: Definitive Edition DLC Available Now – Chronicles: Alexander the Great](https://www.ageofempires.com/news/new-dlc-available-now-chronicles-alexander-the-great/#new_tab)
+ - [All You Need Is Kill is the anime for Tom Cruise fans](https://www.polygon.com/all-you-need-is-kill-anime-trailer-edge-of-tomorrow/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
