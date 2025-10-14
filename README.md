@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for October 14 &lpar;#1578&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-14-2025/)
  - [World of Warcraft Legion Remix is suffering from a problem MMO players rarely experience: Too many tanks](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-legion-remix-is-suffering-from-a-problem-mmo-players-rarely-experience-too-many-tanks/)
- - [Skyrim&#39;s lead designer reckons open world games are &#39;almost a cliché statement&#39; these days, and that Skyrim owes its continued popularity to a focus on player agency: &#39;We didn&#39;t put anything off limits&#39;](https://www.pcgamer.com/games/the-elder-scrolls/skyrims-lead-designer-reckons-open-world-games-are-almost-a-cliche-statement-these-days-and-that-skyrim-owes-its-continued-popularity-to-a-focus-on-player-agency-we-didnt-put-anything-off-limits/)
- - [10 Of The Best Demos To Check Out In October’s Steam Next Fest](https://kotaku.com/best-free-demos-next-fest-painkiller-reanimal-steam-2000634620)<!-- GAME:END -->
+ - [Skyrim&#39;s lead designer reckons open world games are &#39;almost a cliché statement&#39; these days, and that Skyrim owes its continued popularity to a focus on player agency: &#39;We didn&#39;t put anything off limits&#39;](https://www.pcgamer.com/games/the-elder-scrolls/skyrims-lead-designer-reckons-open-world-games-are-almost-a-cliche-statement-these-days-and-that-skyrim-owes-its-continued-popularity-to-a-focus-on-player-agency-we-didnt-put-anything-off-limits/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
