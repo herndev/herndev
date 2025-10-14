@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - ⏩ [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - 👉 [I&#39;m something of a chiropractor myself....](http://9gag.com/gag/an7WZVn)<!-- MEMES:END -->
+ - 💣 [3 brits](http://9gag.com/gag/a7o6mAe)
+ - ⏩ [Mr FAFO](http://9gag.com/gag/aLnNOqM)
+ - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
 
 ---
 
