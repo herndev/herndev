@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10 crashing since October update? Google’s got a fix now](https://www.androidauthority.com/pixel-10-fix-3606967/)
- - [The latest Moto Razr Ultra foldable is an even better value at $999](https://www.theverge.com/tech/799096/motorola-razr-ultra-2025-anker-nano-charging-station-deal-sale)
- - [Survey reveals a lot of Android fans would buy the iPhone 17 — but only with this dreamy change](https://www.androidauthority.com/buy-iphone-17-with-android-poll-results-3606951/)<!-- TECH:END -->
+ - [Pokémon Legends: Z-A is a fantastic return to &lpar;mega&rpar; form](https://www.theverge.com/games/798848/pokemon-legends-za-review-nintendo-switch-2)
+ - [Assassin&#39;s Creed franchise boss Marc-Alexis Côté departs Ubisoft, two weeks after the game moved under Ubisoft&#39;s new Vantage Studios unit; Côté joined in 2005 &lpar;Tom Phillips/IGN&rpar;](http://www.techmeme.com/251014/p23#a251014p23)
+ - [The US DOJ seizes ~$15B in bitcoin from a man who oversaw a Cambodian &quot;pig butchering&quot; operation, in the DOJ&#39;s largest ever forfeiture; the man remains at large &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/251014/p22#a251014p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
