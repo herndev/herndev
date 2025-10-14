@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - ⏩ [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - 👉 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)<!-- MEMES:END -->
+ - 💣 [Trying to start an office war](http://9gag.com/gag/agmZ9gW)
+ - ⏩ [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 👉 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)<!-- MEMES:END -->
 
 ---
 
