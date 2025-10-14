@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nope](http://9gag.com/gag/aPAdVQq)
- - ⏩ [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
+ - 💣 [For people who asked for repost to download video before it gets removed again](http://9gag.com/gag/a0eWgWX)
+ - ⏩ [Nope](http://9gag.com/gag/aPAdVQq)
+ - 👉 [That&#39;s a challenging wank!](http://9gag.com/gag/aPAdV8Q)<!-- MEMES:END -->
 
 ---
 
