@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Alchemised went from Harry Potter fanfic to a $3 million movie deal](https://www.polygon.com/alchemised-manacled-senlinyu-interview/)
- - [Age of Empires II: Definitive Edition DLC Available Now – Chronicles: Alexander the Great](https://www.ageofempires.com/news/new-dlc-available-now-chronicles-alexander-the-great/#new_tab)
- - [All You Need Is Kill is the anime for Tom Cruise fans](https://www.polygon.com/all-you-need-is-kill-anime-trailer-edge-of-tomorrow/)<!-- GAME:END -->
+ - [All Anime Last Stand codes for October 2025](https://www.pcgamer.com/roblox/anime-last-stand-codes/)
+ - [FNAF Fans Greet Megan Fox Casting Reveal With Deafening Silence](https://kotaku.com/five-nights-freddys-2-megan-fox-toy-chica-comic-con-2000635402)
+ - [The King Of Movie Posters Has Died At The Age Of 78](https://kotaku.com/drew-struzan-star-wars-movie-poster-indiana-jones-2000635394)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
