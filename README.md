@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A KPop Demon Hunters live-action isn&#39;t happening, creators say](https://www.polygon.com/kpop-demon-hunters-live-action-not-interested/)
- - [Today&#39;s Wordle clues, hints and answer for October 14 &lpar;#1578&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-14-2025/)
- - [World of Warcraft Legion Remix is suffering from a problem MMO players rarely experience: Too many tanks](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-legion-remix-is-suffering-from-a-problem-mmo-players-rarely-experience-too-many-tanks/)<!-- GAME:END -->
+ - [Best Battlefield 6 XP farm](https://www.pcgamer.com/games/fps/battlefield-6-xp-farm/)
+ - [Keychron&#39;s upcoming fully ceramic keyboard is a strange choice for rapid trigger and 8K polling but it&#39;s incredibly shiny so I&#39;ll take it](https://www.pcgamer.com/hardware/gaming-keyboards/keychrons-upcoming-fully-ceramic-keyboard-is-a-strange-choice-for-rapid-trigger-and-8k-polling-but-its-incredibly-shiny-so-ill-take-it/)
+ - [Stranger Things&#39; co-creator reveals the runtimes of season 5&#39;s first episodes](https://www.polygon.com/stranger-things-season-5-volume-1-episodes-runtimes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
