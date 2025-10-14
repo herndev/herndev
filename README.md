@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 apps you should use instead of Robinhood](https://www.androidauthority.com/robinhood-alternatives-3605710/)
- - [OpenAI&#39;s massive deals show Sam Altman is selling a vision of a world-changing product and achieving it via world-changing financial engineering to raise $1T+ &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/251014/p6#a251014p6)
- - [Your Galaxy phone could soon throttle your network performance for your own good &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-galaxy-one-ui-8-5-network-battery-saver-3606891/)<!-- TECH:END -->
+ - [Online loans marketplace LendingTree says CEO and Chairman Doug Lebda died at 55 in an ATV accident on his family&#39;s farm; Lebda founded LendingTree in 1996 &lpar;Ryan Mac/New York Times&rpar;](http://www.techmeme.com/251014/p9#a251014p9)
+ - [TiVo no longer makes DVRs](https://www.theverge.com/news/798997/tivo-stops-dvr-hardware-production-sales)
+ - [Internal memo: in a first, Samsung plans to award shares and bonuses based on stock price to employees and will let staff get up to 50% of their payout in stock &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/251014/p8#a251014p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
