@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Anime Last Stand codes for October 2025](https://www.pcgamer.com/roblox/anime-last-stand-codes/)
- - [FNAF Fans Greet Megan Fox Casting Reveal With Deafening Silence](https://kotaku.com/five-nights-freddys-2-megan-fox-toy-chica-comic-con-2000635402)
- - [The King Of Movie Posters Has Died At The Age Of 78](https://kotaku.com/drew-struzan-star-wars-movie-poster-indiana-jones-2000635394)<!-- GAME:END -->
+ - [ChatGPT is getting &#39;erotica for verified adults&#39; in December: Sam Altman claims mental health concerns have been addressed, so now it&#39;s time to &#39;safely relax the restrictions in most cases&#39;](https://www.pcgamer.com/software/ai/chatgpt-is-getting-erotica-for-verified-adults-in-december-sam-altman-claims-mental-health-concerns-have-been-addressed-so-now-its-time-to-safely-relax-the-restrictions-in-most-cases/)
+ - [Battlefield 6 is lousy with &#39;land mine spam,&#39; but there&#39;s an easy way to avoid an explosive demise](https://www.pcgamer.com/games/fps/battlefield-6-is-lousy-with-land-mine-spam-but-theres-an-easy-way-to-avoid-an-explosive-demise/)
+ - [Pokémon Legends: Z-A Looks Hardly Any Different Running On Switch 1 Vs. Switch 2](https://kotaku.com/pokemon-legends-za-switch-2-comparison-framerate-upgrade-2000635404)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
