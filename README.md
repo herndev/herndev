@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Paul says Meow](http://9gag.com/gag/a5Qy3Mq)
- - ⏩ [Feminist but also a man, the plot thickens](http://9gag.com/gag/aAyNAN9)
- - 👉 [Just ignore the warnings, it will be fine](http://9gag.com/gag/a5Qy3Pg)<!-- MEMES:END -->
+ - 💣 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)
+ - ⏩ [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 👉 [Lets Post this](http://9gag.com/gag/azxDzoB)<!-- MEMES:END -->
 
 ---
 
