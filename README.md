@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung projects Q3 operating profit up 32% YoY to ~$8.47B vs. ~$6.8B est., its biggest quarterly profit in more than three years, as AI development accelerates &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/251013/p41#a251013p41)
- - [Microsoft unveils MAI-Image-1, its first text-to-image AI model developed in house, and says it excels at photorealistic imagery, like lighting and landscapes &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251013/p40#a251013p40)
- - [Best Home Security Cameras of 2025: My Picks for Your Protection](https://www.cnet.com/home/security/best-home-security-camera/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers detail &quot;Pixnapping&quot;, a new covert attack to steal 2FA codes and other private data on Android; Google&#39;s September patch only partially mitigates it &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/251013/p45#a251013p45)
+ - [Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data](https://www.wired.com/story/satellites-are-leaking-the-worlds-secrets-calls-texts-military-and-corporate-data/)
+ - [Wacom One 14 Review: Solid hardware, in a crowded market](https://appleinsider.com/articles/25/10/14/wacom-one-14-review-solid-hardware-in-a-crowded-market?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
