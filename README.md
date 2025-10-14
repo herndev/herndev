@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I guess.](http://9gag.com/gag/azxDvLN)
- - ⏩ [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 👉 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)<!-- MEMES:END -->
+ - 💣 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
+ - ⏩ [What an incredible story of strength and triumph](http://9gag.com/gag/aPAd0gB)
+ - 👉 [Mr FAFO](http://9gag.com/gag/aLnNOqM)<!-- MEMES:END -->
 
 ---
 
