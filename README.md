@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How trans visibility became a trap](https://www.theverge.com/cs/features/798490/trans-visibility-trap)
- - [Instagram is making all teen accounts ‘PG-13’](https://www.theverge.com/news/798308/instagram-teen-accounts-pg-13-overhaul-safety)
- - [New EU and China energy initiatives don&#39;t scratch the surface of what Apple is consuming](https://appleinsider.com/articles/25/10/14/new-eu-solar-initiative-doesnt-scratch-the-surface-of-what-apple-is-consuming?utm_source=rss)<!-- TECH:END -->
+ - [Sources: the EU considers forcing Chinese companies seeking access to digital markets to hand over tech to European companies if they want to operate locally &lpar;Bloomberg&rpar;](http://www.techmeme.com/251014/p17#a251014p17)
+ - [My time with the iPhone 17 Pro’s cameras prove it can still battle the best of Android](https://www.androidauthority.com/iphone-17-pro-camera-hands-on-3603897/)
+ - [The return of the trans underground](https://www.theverge.com/cs/features/798493/trans-underground-organizing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
