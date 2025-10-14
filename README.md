@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 is a political Rorschach test](https://www.polygon.com/battlefield-6-politics-story-analysis/)
- - [‘EA Were Dicks’: Battlefield Boss Explains The Origins Of Call Of Duty](https://kotaku.com/call-of-duty-battlefield-medal-of-honor-cod-ea-2000635321)
- - [F1 Meets LEGO, Speed Champions Kick Sauber C44 Race Car Is Practically Free for Formula 1 Fans](https://kotaku.com/f1-meets-lego-speed-champions-kick-sauber-c44-race-car-is-practically-free-for-formula-1-fans-2000634626)<!-- GAME:END -->
+ - [Marvel finally explains the confusing rules of magic in new Agatha Harkness book &lpar;Exclusive&rpar;](https://www.polygon.com/marvel-the-grimoire-of-agatha-harkness-exclusive-excerpt/)
+ - [Another Massive Pokémon Leak Has Revealed The Next Five Years Of Games](https://kotaku.com/pokemon-leak-generation-10-wind-wave-galar-legends-mmo-2000635337)
+ - [Glowing Pokemon Z-A reviews don’t touch on Switch 1 performance concerns](https://www.polygon.com/pokmon-legends-z-a-switch-2-1-performance-reviews/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
