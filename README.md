@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trying to start an office war](http://9gag.com/gag/agmZ9gW)
+ - 💣 [Nope](http://9gag.com/gag/aPAdVQq)
  - ⏩ [Lets Post this](http://9gag.com/gag/azxDzoB)
  - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
 
