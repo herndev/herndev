@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - ⏩ [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
- - 👉 [Dark stuff warning: Sorry for the emoji](http://9gag.com/gag/ayNVmDX)<!-- MEMES:END -->
+ - ⏩ [Nope](http://9gag.com/gag/aPAdVQq)
+ - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
 
 ---
 
