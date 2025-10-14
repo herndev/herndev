@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
- - ⏩ [What an incredible story of strength and triumph](http://9gag.com/gag/aPAd0gB)
- - 👉 [Mr FAFO](http://9gag.com/gag/aLnNOqM)<!-- MEMES:END -->
+ - 💣 [When your movie bombs even worse than Morbius](http://9gag.com/gag/awyGj3Q)
+ - ⏩ [Police in Portland sprayed pepper spray into the hole of a protesting frog.](http://9gag.com/gag/aD2NL6x)
+ - 👉 [What an incredible story of strength and triumph](http://9gag.com/gag/aPAd0gB)<!-- MEMES:END -->
 
 ---
 
