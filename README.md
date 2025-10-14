@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marc Benioff says Salesforce is saving about $100M a year by using AI tools in its customer service operations &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251014/p32#a251014p32)
- - [Do You Really Have to Stop Using Windows 10?](https://www.wired.com/story/do-you-really-have-to-stop-using-windows-10/)
- - [4 Apple Airtags Are $65 Right Now](https://www.wired.com/story/apple-airtag-deal-1025/)<!-- TECH:END -->
+ - [Beyond MacBook Pro and iPad Pro, Apple retail is running out of two other key items](https://appleinsider.com/articles/25/10/14/beyond-macbook-pro-and-ipad-pro-apple-retail-is-running-out-of-two-other-key-items?utm_source=rss)
+ - [4 Best Red-Light Therapy Masks and LED Devices of 2025, Reviewed](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
+ - [Now you can spot the apps tapping into Android’s strongest security feature](https://www.androidauthority.com/advanced-protection-app-list-3607031/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
