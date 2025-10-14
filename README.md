@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel unveils Crescent Island, a data center GPU designed for AI inference workloads, featuring Intel&#39;s Xe3P microarchitecture and 160GB of LPDDR5X memory &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/251014/p36#a251014p36)
- - [YouTube has a new video player](https://www.theverge.com/news/799492/youtube-new-video-player-update-changes)
- - [Facebook removes ICE-tracking page after US government ‘outreach’](https://www.theverge.com/policy/799473/facebook-meta-ice-jawboning)<!-- TECH:END -->
+ - [A Quarter of the CDC Is Gone](https://www.wired.com/story/cdc-terminations-workforce-shutdown-rifs/)
+ - [A New Attack Lets Hackers Steal 2-Factor Authentication Codes From Android Phones](https://www.wired.com/story/a-new-attack-lets-hackers-steal-2-factor-authentication-codes-from-android-phones/)
+ - [Crypto investor Roger Ver, aka &quot;Bitcoin Jesus&quot;, reaches a deferred prosecution agreement with the US DOJ and pays ~$50M to resolve a tax evasion indictment &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251014/p38#a251014p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
