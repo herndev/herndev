@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trying to start an office war](http://9gag.com/gag/agmZ9gW)
- - ⏩ [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 👉 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)<!-- MEMES:END -->
+ - 💣 [Paul says Meow](http://9gag.com/gag/a5Qy3Mq)
+ - ⏩ [Feminist but also a man, the plot thickens](http://9gag.com/gag/aAyNAN9)
+ - 👉 [Just ignore the warnings, it will be fine](http://9gag.com/gag/a5Qy3Pg)<!-- MEMES:END -->
 
 ---
 
