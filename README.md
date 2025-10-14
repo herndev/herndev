@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel finally explains the confusing rules of magic in new Agatha Harkness book &lpar;Exclusive&rpar;](https://www.polygon.com/marvel-the-grimoire-of-agatha-harkness-exclusive-excerpt/)
- - [Another Massive Pokémon Leak Has Revealed The Next Five Years Of Games](https://kotaku.com/pokemon-leak-generation-10-wind-wave-galar-legends-mmo-2000635337)
- - [Glowing Pokemon Z-A reviews don’t touch on Switch 1 performance concerns](https://www.polygon.com/pokmon-legends-z-a-switch-2-1-performance-reviews/)<!-- GAME:END -->
+ - [Shocktober Is Back: Thrilling Events, Devilish Deals, and More Reasons to Love Xbox Game Pass](https://news.xbox.com/en-us/2025/10/14/shocktober-xbox-2025-sale-deals-halloween-xbox/)
+ - [One the the best parts of Phasmophobia&#39;s success is the new wave of co-op horror games, &#39;There was nothing, now there&#39;s obviously quite a lot&#39;](https://www.pcgamer.com/games/horror/one-the-the-best-parts-of-phasmophobias-success-is-the-new-wave-of-co-op-horror-games-there-was-nothing-now-theres-obviously-quite-a-lot/)
+ - [GEEKOM Ryzen 7 Gaming Mini PC Was Pricier Than a Mac Mini, Now It’s Cheaper and at Its Lowest Price Yet &lpar;32GB RAM, 1TB SSD&rpar;](https://kotaku.com/geekom-ryzen-7-mini-pc-was-pricier-than-a-mac-mini-now-its-cheaper-and-at-its-lowest-price-yet-32gb-ram-1tb-ssd-2000634644)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
