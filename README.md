@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
- - ⏩ [Imagine she is your wife, and she watches every move you make.](http://9gag.com/gag/abAmozB)
+ - 💣 [Cat chose to be smothered by love.](http://9gag.com/gag/aE0NKop)
+ - ⏩ [I tried to uncensor it for you guys](http://9gag.com/gag/aW4NyK2)
  - 👉 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)<!-- MEMES:END -->
 
 ---
