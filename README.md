@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix&#39;s My Hero Academia movie is taking inspiration from an unlikely show](https://www.polygon.com/welcome-to-derry-my-hero-academia-live-action-film-jason-fuchs/)
- - [If You Want the Best Action Cam, the GoPro HERO13 Ultra Wide Just Hit a New Record Low on Amazon](https://kotaku.com/if-you-want-the-best-action-cam-the-gopro-hero13-ultra-wide-just-hit-a-new-record-low-on-amazon-2000635651)
- - [OpenAI Is Pivoting To Porn](https://kotaku.com/openai-chatgpt-erotica-mental-health-age-verification-sam-altman-2000635632)<!-- GAME:END -->
+ - [Knight of the Seven Kingdoms showrunner teases a shocking Game of Thrones cameo](https://www.polygon.com/knight-of-the-seven-kingdoms-game-of-thrones-cameos/)
+ - [Best guns in Battlefield 6](https://www.polygon.com/battlefield-6-bf6-best-guns/)
+ - [PS Plus Extra and Premium October 2025 games announced](https://www.polygon.com/playstation-plus-games-october-2025-until-dawn-silent-hill-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
