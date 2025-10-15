@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 multiplayer review: Stick to the larger maps](https://www.polygon.com/battlefield-6-multiplayer-review/)
- - [All Fish It codes for October 2025: potions and spins](https://www.pcgamer.com/games/roblox/fish-it-codes/)
- - [If anything were to convince me to try out carpentry it would be this gorgeous DIY mini walnut PC case housing an Asus ProArt RTX 5080](https://www.pcgamer.com/hardware/pc-cases/if-anything-were-to-convince-me-to-try-out-carpentry-it-would-be-this-gorgeous-diy-mini-walnut-pc-case-housing-an-asus-proart-rtx-5080/)<!-- GAME:END -->
+ - [Between mail delivery, minigames, and BMX tricks, the demo of Tanuki: Pon&#39;s Summer feels like it was made specifically for me](https://www.pcgamer.com/games/life-sim/between-mail-delivery-minigames-and-bmx-tricks-the-demo-of-tanuki-pons-summer-feels-like-it-was-made-specifically-for-me/)
+ - [It&#39;s happened again—WoW Legion: Remix players have had their demi-godhood taken away after grinding elites for several hours, and at least I don&#39;t have to talk about gulp frogs this time](https://www.pcgamer.com/games/world-of-warcraft/its-happened-again-wow-legion-remix-players-have-had-their-demi-godhood-taken-away-after-grinding-elites-for-several-hours-and-at-least-i-dont-have-to-talk-about-gulp-frogs-this-time/)
+ - [Battlefield 6 multiplayer review: Stick to the larger maps](https://www.polygon.com/battlefield-6-multiplayer-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
