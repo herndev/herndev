@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo plans to launch a fully driverless robotaxi service in London, starting in 2026, its first European launch; human-supervised cars will first collect data &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251015/p13#a251015p13)
- - [Google Wallet now intuitively shows you the right pass at the right time](https://www.androidauthority.com/google-wallet-nearby-pass-rollout-3607222/)
- - [UK startup Nscale signs an up to $14B deal with Microsoft to deploy ~104K Nvidia GB300 chips for Microsoft in Texas within 18 months and 12,600 GPUs in Portugal &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/251015/p12#a251015p12)<!-- TECH:END -->
+ - [The government shutdown is strangling aviation](https://www.theverge.com/transportation/799413/faa-air-travel-delays-government-shutdown)
+ - [An internal Google email said it received many complaints over Israeli government YouTube ads about food access in Gaza, but ruled the ads could remain online &lpar;Washington Post&rpar;](http://www.techmeme.com/251015/p17#a251015p17)
+ - [ASML CFO Roger Dassen says the company is &quot;well prepared&quot; for China&#39;s curbs on exports of rare earths; a source says ASML could face weeks-long shipment delays &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p16#a251015p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
