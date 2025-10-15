@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Handled like a real gentlemen.](http://9gag.com/gag/a2vjgRw)
- - ⏩ [Its important who you pick](http://9gag.com/gag/aKGN5pQ)
- - 👉 [Just ignore the warnings, it will be fine](http://9gag.com/gag/a5Qy3Pg)<!-- MEMES:END -->
+ - 💣 [Imagine she is your wife, and she watches every move you make.](http://9gag.com/gag/abAmozB)
+ - ⏩ [Trying to start an office war](http://9gag.com/gag/agmZ9gW)
+ - 👉 [She needed a school, Not forced motherhood.](http://9gag.com/gag/agmZ93r)<!-- MEMES:END -->
 
 ---
 
