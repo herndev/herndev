@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The government shutdown is strangling aviation](https://www.theverge.com/transportation/799413/faa-air-travel-delays-government-shutdown)
- - [An internal Google email said it received many complaints over Israeli government YouTube ads about food access in Gaza, but ruled the ads could remain online &lpar;Washington Post&rpar;](http://www.techmeme.com/251015/p17#a251015p17)
- - [ASML CFO Roger Dassen says the company is &quot;well prepared&quot; for China&#39;s curbs on exports of rare earths; a source says ASML could face weeks-long shipment delays &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p16#a251015p16)<!-- TECH:END -->
+ - [iPhone 18 Pro cameras may take better shots with variable apertures](https://appleinsider.com/articles/25/10/15/iphone-18-pro-cameras-may-take-better-shots-with-variable-apertures?utm_source=rss)
+ - [8 Best Pet Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pet-cameras/)
+ - [Motorola’s new ultra-thin phone challenges Samsung, Apple for the throne](https://www.androidauthority.com/motorola-moto-x70-air-launch-3607256/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
