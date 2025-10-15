@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail is getting new labels to keep track of your bills and travel info](https://www.androidauthority.com/gmail-bills-travel-labels-3607400/)
- - [14-inch M5 MacBook Pro is here without Pro and Max versions](https://appleinsider.com/articles/25/10/15/14-inch-m5-macbook-pro-is-here-without-pro-and-max-versions?utm_source=rss)
- - [Survey shows how many of you are still holding out hope for Google Home](https://www.androidauthority.com/poll-results-google-smart-home-revival-3607407/)<!-- TECH:END -->
+ - [Google releases the final beta for its next Pixel Drop: Android 16 QPR2 Beta 3](https://www.androidauthority.com/android-16-qpr2-beta-3-release-3607343/)
+ - [iPad Pro M5 vs M4 iPad Pro: Where Apple&#39;s best tablet got updated](https://appleinsider.com/articles/25/10/15/ipad-pro-m5-vs-m4-ipad-pro-where-apples-best-tablet-got-updated?utm_source=rss)
+ - [Sources: Chinese state actors compromised UK government servers for at least the last 10 years, routinely accessing low- and medium-level classified information &lpar;Alex Wickham/Bloomberg&rpar;](http://www.techmeme.com/251015/p46#a251015p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
