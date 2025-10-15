@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite past posting, Randy Pitchford is actually &#39;happy to live in that world&#39; where Borderlands 4 complaints aren&#39;t about &#39;how we f*cked up the story&#39;, after all](https://www.pcgamer.com/games/rpg/despite-past-posting-randy-pitchford-is-actually-happy-to-live-in-that-world-where-borderlands-4-complaints-arent-about-how-we-f-cked-up-the-story-after-all/)
- - [A deeper look at Lumines Arise’s packed puzzle offerings](https://blog.playstation.com/2025/10/15/a-deeper-look-at-lumines-arises-packed-puzzle-offerings/)
- - [A deeper look at Lumines Arise’s packed puzzle offerings](https://blog.playstation.com/2025/10/15/a-deeper-look-at-lumines-arises-packed-puzzle-offerings/)<!-- GAME:END -->
+ - [Netflix&#39;s My Hero Academia movie is taking inspiration from an unlikely show](https://www.polygon.com/welcome-to-derry-my-hero-academia-live-action-film-jason-fuchs/)
+ - [If You Want the Best Action Cam, the GoPro HERO13 Ultra Wide Just Hit a New Record Low on Amazon](https://kotaku.com/if-you-want-the-best-action-cam-the-gopro-hero13-ultra-wide-just-hit-a-new-record-low-on-amazon-2000635651)
+ - [OpenAI Is Pivoting To Porn](https://kotaku.com/openai-chatgpt-erotica-mental-health-age-verification-sam-altman-2000635632)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
