@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine she is your wife, and she watches every move you make.](http://9gag.com/gag/abAmozB)
- - ⏩ [Trying to start an office war](http://9gag.com/gag/agmZ9gW)
+ - 💣 [She can start an infinite money glitch if she wants to.](http://9gag.com/gag/aO8NE0r)
+ - ⏩ [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)
  - 👉 [She needed a school, Not forced motherhood.](http://9gag.com/gag/agmZ93r)<!-- MEMES:END -->
 
 ---
