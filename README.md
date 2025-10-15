@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SVP Eddy Cue talks Apple TV, hints at subscriber numbers, &amp; dropping the +](https://appleinsider.com/articles/25/10/14/svp-eddy-cue-talks-apple-tv-hints-at-subscriber-numbers-dropping-the-?utm_source=rss)
- - [Samsung schedules a &quot;Worlds Wide Open&quot; Galaxy event on October 21 at 10pm ET, where it will provide more information about its Project Moohan headset &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251014/p40#a251014p40)
- - [Samsung’s challenger to the Apple Vision Pro has an official launch date](https://www.androidauthority.com/samsung-confirms-galaxy-xr-launch-date-3607124/)<!-- TECH:END -->
+ - [Spotify&#39;s deal to bring video podcasts to Netflix bars shows from airing in full on YouTube; Netflix won&#39;t run ad breaks, but Spotify&#39;s integrated ads remain &lpar;New York Times&rpar;](http://www.techmeme.com/251014/p43#a251014p43)
+ - [EcoFlow Delta 3 Max Plus Review: Portable power that is helpful during storm season](https://appleinsider.com/articles/25/10/15/ecoflow-delta-3-max-plus-review-portable-power-that-is-helpful-during-storm-season?utm_source=rss)
+ - [Rumored Apple Home Hub tablet to be made in Vietnam, cost $350](https://appleinsider.com/articles/25/10/15/rumored-apple-home-hub-tablet-to-be-made-in-vietnam-cost-350?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
