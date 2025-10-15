@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you like pink, you can save 38% on the Motorola Razr Plus 2025](https://www.androidauthority.com/motorola-razr-plus-2025-deal-4-3607156/)
- - [Anthropic&#39;s Jack Clark argues that, while he is optimistic about AI&#39;s progress, the industry must do a better job of listening to people&#39;s concerns about it &lpar;Jack Clark/Import AI&rpar;](http://www.techmeme.com/251014/p39#a251014p39)
- - [Netflix is making a big bet on video podcasts](https://www.theverge.com/news/799582/netflix-spotify-video-podcast-deal)<!-- TECH:END -->
+ - [SVP Eddy Cue talks Apple TV, hints at subscriber numbers, &amp; dropping the +](https://appleinsider.com/articles/25/10/14/svp-eddy-cue-talks-apple-tv-hints-at-subscriber-numbers-dropping-the-?utm_source=rss)
+ - [Samsung schedules a &quot;Worlds Wide Open&quot; Galaxy event on October 21 at 10pm ET, where it will provide more information about its Project Moohan headset &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251014/p40#a251014p40)
+ - [Samsung’s challenger to the Apple Vision Pro has an official launch date](https://www.androidauthority.com/samsung-confirms-galaxy-xr-launch-date-3607124/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
