@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads now has group chats](https://www.theverge.com/news/799943/meta-threads-group-chat-messaging)
- - [Kobo&amp;#8217;s new e-reader remote lets you turn the page with the press of a button](https://www.theverge.com/news/799990/kobo-e-reader-remote-launch-price-release-date)
- - [US cybersecurity company F5 discloses a cyberattack in August by suspected nation-state hackers that stole undisclosed BIG-IP vulnerabilities and source code &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251015/p32#a251015p32)<!-- TECH:END -->
+ - [EU gets what it asked for, there is no charger in the MacBook Pro box](https://appleinsider.com/articles/25/10/15/eu-gets-what-it-asked-for-there-is-no-charger-in-the-macbook-pro-box?utm_source=rss)
+ - [MIT spinoff Vertical Semiconductor, which aims to make vertical gallium nitride transistors for AI data centers, raised an $11M seed led by Playground Global &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251015/p34#a251015p34)
+ - [M5 MacBook Pro vs M4 MacBook Pro: Incremental but welcome upgrade](https://appleinsider.com/inside/macbook-pro/vs/m5-macbook-pro-vs-m4-macbook-pro-incremental-but-welcome-upgrade?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
