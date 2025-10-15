@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for October 15 &lpar;#1579&rpar;](https://www.pcgamer.com/wordle-answer-today-october-15-2025/)
  - [Battlefield boss Vince Zampella: &#39;The only reason that Call of Duty exists is because EA were dicks&#39;](https://www.pcgamer.com/games/fps/battlefield-boss-vince-zampella-the-only-reason-that-call-of-duty-exists-is-because-ea-were-dicks/)
- - [Splinter Cell: Deathwatch director wishes he had &#39;the security clearance&#39; to get us info about Ubisoft&#39;s Splinter Cell remake](https://www.pcgamer.com/movies-tv/splinter-cell-deathwatch-director-wishes-he-had-the-security-clearance-to-get-us-info-about-ubisofts-splinter-cell-remake/)
- - [ChatGPT is getting &#39;erotica for verified adults&#39; in December: Sam Altman claims mental health concerns have been addressed, so now it&#39;s time to &#39;safely relax the restrictions in most cases&#39;](https://www.pcgamer.com/software/ai/chatgpt-is-getting-erotica-for-verified-adults-in-december-sam-altman-claims-mental-health-concerns-have-been-addressed-so-now-its-time-to-safely-relax-the-restrictions-in-most-cases/)<!-- GAME:END -->
+ - [Splinter Cell: Deathwatch director wishes he had &#39;the security clearance&#39; to get us info about Ubisoft&#39;s Splinter Cell remake](https://www.pcgamer.com/movies-tv/splinter-cell-deathwatch-director-wishes-he-had-the-security-clearance-to-get-us-info-about-ubisofts-splinter-cell-remake/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
