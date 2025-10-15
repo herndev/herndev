@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Knight of the Seven Kingdoms showrunner teases a shocking Game of Thrones cameo](https://www.polygon.com/knight-of-the-seven-kingdoms-game-of-thrones-cameos/)
- - [Best guns in Battlefield 6](https://www.polygon.com/battlefield-6-bf6-best-guns/)
- - [PS Plus Extra and Premium October 2025 games announced](https://www.polygon.com/playstation-plus-games-october-2025-until-dawn-silent-hill-2/)<!-- GAME:END -->
+ - [Assassin&#39;s Creed franchise boss leaves Ubisoft just 7 months after heading up one of the best-selling games in the history of the series](https://www.pcgamer.com/games/assassins-creed/assassins-creed-franchise-boss-leaves-ubisoft-just-7-months-after-heading-up-one-of-the-best-selling-games-in-the-history-of-the-series/)
+ - [This New Plants Vs Zombies Remastered Trailer Is Hard To Watch](https://kotaku.com/new-plants-vs-zombies-remastered-replanted-trailer-cringe-fake-twitch-stream-2000635689)
+ - [Ghost of Yōtei buries an OP stealth skill, but it&#39;s not necessary anyway](https://www.polygon.com/ghost-of-yotei-stealth-skill-combat-standoffs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
