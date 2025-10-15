@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo’s robotaxis are coming to London](https://www.theverge.com/news/799259/waymo-london-robotaxi-launch-2026)
- - [What is the best web browser on Android?](https://www.androidauthority.com/best-android-web-browser-open-thread-3607213/)
- - [Can’t open Google Play Store on your Android TV? Here’s a quick fix](https://www.androidauthority.com/android-tv-google-play-store-error-fix-3607198/)<!-- TECH:END -->
+ - [Waymo plans to launch a fully driverless robotaxi service in London, starting in 2026, its first European launch; human-supervised cars will first collect data &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251015/p13#a251015p13)
+ - [Google Wallet now intuitively shows you the right pass at the right time](https://www.androidauthority.com/google-wallet-nearby-pass-rollout-3607222/)
+ - [UK startup Nscale signs an up to $14B deal with Microsoft to deploy ~104K Nvidia GB300 chips for Microsoft in Texas within 18 months and 12,600 GPUs in Portugal &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/251015/p12#a251015p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
