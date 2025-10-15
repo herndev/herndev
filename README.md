@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Between mail delivery, minigames, and BMX tricks, the demo of Tanuki: Pon&#39;s Summer feels like it was made specifically for me](https://www.pcgamer.com/games/life-sim/between-mail-delivery-minigames-and-bmx-tricks-the-demo-of-tanuki-pons-summer-feels-like-it-was-made-specifically-for-me/)
- - [It&#39;s happened again—WoW Legion: Remix players have had their demi-godhood taken away after grinding elites for several hours, and at least I don&#39;t have to talk about gulp frogs this time](https://www.pcgamer.com/games/world-of-warcraft/its-happened-again-wow-legion-remix-players-have-had-their-demi-godhood-taken-away-after-grinding-elites-for-several-hours-and-at-least-i-dont-have-to-talk-about-gulp-frogs-this-time/)
- - [Battlefield 6 multiplayer review: Stick to the larger maps](https://www.polygon.com/battlefield-6-multiplayer-review/)<!-- GAME:END -->
+ - [Snacks, Controllers, Validation: The Outer Worlds 2’s Moon Man Couch-Panion Has It All](https://news.xbox.com/en-us/2025/10/15/the-outer-worlds-2-moon-man-couch-panion-sweepstakes/)
+ - [Mozilla Launches Free VPN in Firefox to Win Back Users](https://kotaku.com/mozilla-launches-free-vpn-in-firefox-to-win-back-users-2000635612)
+ - [HP 17.3″ Laptop Bundle &lpar;64GB RAM, 2TB SSD&rpar; Takes Over $3,000 Price Dive as Amazon Clears Out 5-Star Stock](https://kotaku.com/hp-17-3%e2%80%b3-laptop-bundle-64gb-ram-2tb-ssd-takes-over-3000-price-dive-as-amazon-clears-out-5-star-stock-2000635420)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
