@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The MLB app’s best feature is a 30-second delay](https://www.theverge.com/tech/800279/mlb-app-baseball-notifications-delay)
- - [Steve Jobs featured on American Innovation $1 gold coin for 2026](https://appleinsider.com/articles/25/10/15/steve-jobs-featured-on-american-innovation-1-gold-coin-for-2026?utm_source=rss)
- - [David Sacks says Anthropic is running a &quot;regulatory capture strategy based on fear-mongering&quot;, responding to Anthropic co-founder Jack Clark&#39;s post on AI policy &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/251015/p49#a251015p49)<!-- TECH:END -->
+ - [Every new feature for Pixel phones in Android 16 QPR2 Beta 3](https://www.androidauthority.com/android-16-qpr2-beta-3-features-3607353/)
+ - [Google’s AI video generator is getting better editing and more audio](https://www.theverge.com/news/800371/google-veo-3-1-flow-audio)
+ - [Apple doesn&#39;t include a charger in the box with the new M5 MacBook Pro in European countries, making users pay extra; the company cites local regulations &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/251015/p50#a251015p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
