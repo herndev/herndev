@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - ⏩ [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)
- - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
+ - 💣 [Now that&#39;s a motherf**ker &lpar;YT: AGC Andy&rpar;](http://9gag.com/gag/aQzNbe2)
+ - ⏩ [Uno reverse card](http://9gag.com/gag/aE0N5wG)
+ - 👉 [Kids these days will never know the joy of ditch crawling](http://9gag.com/gag/aAyN94Z)<!-- MEMES:END -->
 
 ---
 
