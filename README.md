@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Senate Democrats want to know: was YouTube’s Trump settlement a bribe?](https://www.theverge.com/policy/800193/google-youtube-senators-letter-warren-wyden-bribe)
- - [Is Bluesky down for you? You’re not alone](https://www.androidauthority.com/bluesky-experiencing-outage-3607404/)
- - [Sources: Anthropic held early funding talks this month with Abu Dhabi-based MGX, which it considers a prior investor, after closing a $13B Series F in September &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p44#a251015p44)<!-- TECH:END -->
+ - [Gmail is getting new labels to keep track of your bills and travel info](https://www.androidauthority.com/gmail-bills-travel-labels-3607400/)
+ - [14-inch M5 MacBook Pro is here without Pro and Max versions](https://appleinsider.com/articles/25/10/15/14-inch-m5-macbook-pro-is-here-without-pro-and-max-versions?utm_source=rss)
+ - [Survey shows how many of you are still holding out hope for Google Home](https://www.androidauthority.com/poll-results-google-smart-home-revival-3607407/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
