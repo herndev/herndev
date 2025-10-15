@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASML reports Q3 net sales of €7.5B, v. €7.7B est., and €2.12B net profit, v. €2.11B est., warning that it expects China sales to decline &quot;significantly&quot; in 2026 &lpar;April Roach/CNBC&rpar;](http://www.techmeme.com/251015/p3#a251015p3)
- - [10% Off Dell Coupon Codes | October 2025](https://www.wired.com/story/dell-coupon-code/)
- - [YouTube starts rolling out its redesigned video player, which features rounded, slightly translucent on-screen buttons, across mobile, web, and TV globally &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251015/p2#a251015p2)<!-- TECH:END -->
+ - [How AI is upending India&#39;s business process management sector, which employs 1.65M people; conversational AI startup LimeChat claims to have automated 5K jobs &lpar;Reuters&rpar;](http://www.techmeme.com/251015/p8#a251015p8)
+ - [The Japanese government says it formally requested that OpenAI refrain from infringing on Japanese IPs, such as anime, calling them &quot;irreplaceable treasures&quot; &lpar;Verity Townsend/IGN&rpar;](http://www.techmeme.com/251015/p7#a251015p7)
+ - [SEC filing: Jeff Bezos discloses that he now owns 9% of Amazon&#39;s shares, down from 10.1% a year ago, after selling 100M+ shares over the course of the past year &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251015/p6#a251015p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
