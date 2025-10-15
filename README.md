@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your movie bombs even worse than Morbius](http://9gag.com/gag/awyGj3Q)
- - ⏩ [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)
- - 👉 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)<!-- MEMES:END -->
+ - 💣 [Tower of silence in India. Sky burial practiced by Parsi community.](http://9gag.com/gag/aD2NLZ9)
+ - ⏩ [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 👉 [1.6 billion on profit but you\u2019ve gotta take the toilets out to lower ticket prices 5%](http://9gag.com/gag/a9yN0oW)<!-- MEMES:END -->
 
 ---
 
