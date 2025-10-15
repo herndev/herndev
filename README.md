@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank&#39;s $5.4B purchase of ABB&#39;s robotics unit is another setback for Europe, which risks losing its edge to Asian and US companies in the &quot;physical AI&quot; era &lpar;Chris Bryant/Bloomberg&rpar;](http://www.techmeme.com/251015/p11#a251015p11)
- - [Inside First Wap, a European-led phone tracking company in Indonesia that has exploited the SS7 telecom protocol to target politicians, journalists, and others &lpar;Mother Jones&rpar;](http://www.techmeme.com/251015/p9#a251015p9)
- - [SpaceX’s Second-Gen Starship Signs Off With a Near-Perfect Test Flight](https://www.wired.com/story/spacexs-second-gen-starship-signs-off-with-a-near-perfect-test-flight/)<!-- TECH:END -->
+ - [Waymo’s robotaxis are coming to London](https://www.theverge.com/news/799259/waymo-london-robotaxi-launch-2026)
+ - [What is the best web browser on Android?](https://www.androidauthority.com/best-android-web-browser-open-thread-3607213/)
+ - [Can’t open Google Play Store on your Android TV? Here’s a quick fix](https://www.androidauthority.com/android-tv-google-play-store-error-fix-3607198/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
