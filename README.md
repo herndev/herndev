@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google releases the final beta for its next Pixel Drop: Android 16 QPR2 Beta 3](https://www.androidauthority.com/android-16-qpr2-beta-3-release-3607343/)
- - [iPad Pro M5 vs M4 iPad Pro: Where Apple&#39;s best tablet got updated](https://appleinsider.com/articles/25/10/15/ipad-pro-m5-vs-m4-ipad-pro-where-apples-best-tablet-got-updated?utm_source=rss)
- - [Sources: Chinese state actors compromised UK government servers for at least the last 10 years, routinely accessing low- and medium-level classified information &lpar;Alex Wickham/Bloomberg&rpar;](http://www.techmeme.com/251015/p46#a251015p46)<!-- TECH:END -->
+ - [The MLB app’s best feature is a 30-second delay](https://www.theverge.com/tech/800279/mlb-app-baseball-notifications-delay)
+ - [Steve Jobs featured on American Innovation $1 gold coin for 2026](https://appleinsider.com/articles/25/10/15/steve-jobs-featured-on-american-innovation-1-gold-coin-for-2026?utm_source=rss)
+ - [David Sacks says Anthropic is running a &quot;regulatory capture strategy based on fear-mongering&quot;, responding to Anthropic co-founder Jack Clark&#39;s post on AI policy &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/251015/p49#a251015p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
