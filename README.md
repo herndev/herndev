@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Oct. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-oct-15/#ftag=CAD590a51e)
- - [Finch, which offers a voice-based AI system to automate administrative tasks done by paralegals, raised a $20M Series A, source says at a $100M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/251014/p45#a251014p45)
- - [Sources: Amazon plans to cut as much as 15% of its HR staff, and additional layoffs will likely affect other areas of its core consumer business &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/251014/p44#a251014p44)<!-- TECH:END -->
+ - [Coinbase invests in Indian crypto exchange CoinDCX to expand into India and the Middle East; CEO Sumit Gupta said the deal values CoinDCX at $2.45B post-money &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/251014/p47#a251014p47)
+ - [Reducto, which uses OCR with vision language models to convert complex documents into inputs for LLMs, raised a $75M Series B led by a16z at a $600M valuation &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251014/p46#a251014p46)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Oct. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-oct-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
