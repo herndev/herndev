@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [i think my parents are proud of me](https://www.reddit.com/r/funny/comments/1o77t0g/i_think_my_parents_are_proud_of_me/)
- - ⏩ [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - 👉 [She can start an infinite money glitch if she wants to.](http://9gag.com/gag/aO8NE0r)<!-- MEMES:END -->
+ - 💣 [Just ignore the warnings, it will be fine](http://9gag.com/gag/a5Qy3Pg)
+ - ⏩ [Now that&#39;s a motherf**ker &lpar;YT: AGC Andy&rpar;](http://9gag.com/gag/aQzNbe2)
+ - 👉 [Uno reverse card](http://9gag.com/gag/aE0N5wG)<!-- MEMES:END -->
 
 ---
 
