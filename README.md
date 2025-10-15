@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Move b*tch](http://9gag.com/gag/amobZdv)
- - ⏩ [Smooth Recovery](http://9gag.com/gag/ajPM40R)
- - 👉 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)<!-- MEMES:END -->
+ - ⏩ [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->
 
 ---
 
