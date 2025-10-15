@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ambrosia Sky gets a release date, with a twist](https://www.polygon.com/ambrosia-sky-release-date-act-one/)
- - [The plot thickens as Intel announces a new data center GPU that could also preview its next-gen gaming graphics cards, but there&#39;s still no mention of Celestial](https://www.pcgamer.com/hardware/graphics-cards/the-plot-thickens-as-intel-announces-a-new-data-center-gpu-that-could-also-preview-its-next-gen-gaming-graphics-cards-but-theres-still-no-mention-of-celestial/)
- - [Battlefield 6 fiddles with the pace of Conquest mode but somehow avoids giving the people what they want: &#39;Remove the timer&#39;](https://www.pcgamer.com/games/fps/battlefield-6-fiddles-with-the-pace-of-conquest-mode-but-somehow-avoids-giving-the-people-what-they-want-remove-the-timer/)<!-- GAME:END -->
+ - [GTA Online Halloween event calendar: UFO locations, ghost locations, and rewards](https://www.pcgamer.com/games/grand-theft-auto/gta-online-halloween-event-ufo-locations/)
+ - [2K hires Apex Legends producer to save hero shooter Project Ethos](https://www.polygon.com/2k-games-project-ethos/)
+ - [&#39;Scottish dark fantasy Dynasty Warriors&#39; sounds like a game pitch from a fever dream, but this roguelike demo proves it&#39;s got juice](https://www.pcgamer.com/games/action/scottish-dark-fantasy-dynasty-warriors-sounds-like-a-game-pitch-from-a-fever-dream-but-this-roguelike-demo-proves-its-got-juice/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
