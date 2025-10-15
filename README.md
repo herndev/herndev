@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - ⏩ [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
- - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
+ - ⏩ [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 👉 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)<!-- MEMES:END -->
 
 ---
 
