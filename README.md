@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online Halloween event calendar: UFO locations, ghost locations, and rewards](https://www.pcgamer.com/games/grand-theft-auto/gta-online-halloween-event-ufo-locations/)
- - [2K hires Apex Legends producer to save hero shooter Project Ethos](https://www.polygon.com/2k-games-project-ethos/)
- - [&#39;Scottish dark fantasy Dynasty Warriors&#39; sounds like a game pitch from a fever dream, but this roguelike demo proves it&#39;s got juice](https://www.pcgamer.com/games/action/scottish-dark-fantasy-dynasty-warriors-sounds-like-a-game-pitch-from-a-fever-dream-but-this-roguelike-demo-proves-its-got-juice/)<!-- GAME:END -->
+ - [A Lot Of Great Open-World Games Are Super Cheap Right Now](https://kotaku.com/a-lot-of-great-open-world-games-are-super-cheap-right-now-2000635704)
+ - [KPop Demon Hunters is headed back to theaters with a Halloween twist](https://www.polygon.com/kpop-demon-hunters-halloween-sing-along/)
+ - [We Can Have Nice Things, KPop Demon Hunters Is Coming Back To Theaters](https://kotaku.com/kpop-demon-hunters-singalong-theater-return-halloween-2000635744)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
