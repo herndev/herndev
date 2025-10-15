@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 15 &lpar;#1579&rpar;](https://www.pcgamer.com/wordle-answer-today-october-15-2025/)
- - [Battlefield boss Vince Zampella: &#39;The only reason that Call of Duty exists is because EA were dicks&#39;](https://www.pcgamer.com/games/fps/battlefield-boss-vince-zampella-the-only-reason-that-call-of-duty-exists-is-because-ea-were-dicks/)
- - [Splinter Cell: Deathwatch director wishes he had &#39;the security clearance&#39; to get us info about Ubisoft&#39;s Splinter Cell remake](https://www.pcgamer.com/movies-tv/splinter-cell-deathwatch-director-wishes-he-had-the-security-clearance-to-get-us-info-about-ubisofts-splinter-cell-remake/)<!-- GAME:END -->
+ - [Battlefield 6 multiplayer review: Stick to the larger maps](https://www.polygon.com/battlefield-6-multiplayer-review/)
+ - [All Fish It codes for October 2025: potions and spins](https://www.pcgamer.com/games/roblox/fish-it-codes/)
+ - [If anything were to convince me to try out carpentry it would be this gorgeous DIY mini walnut PC case housing an Asus ProArt RTX 5080](https://www.pcgamer.com/hardware/pc-cases/if-anything-were-to-convince-me-to-try-out-carpentry-it-would-be-this-gorgeous-diy-mini-walnut-pc-case-housing-an-asus-proart-rtx-5080/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
