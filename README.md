@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - ⏩ [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - 👉 [Thank you!](http://9gag.com/gag/aND2MN3)<!-- MEMES:END -->
+ - 💣 [Move b*tch](http://9gag.com/gag/amobZdv)
+ - ⏩ [Smooth Recovery](http://9gag.com/gag/ajPM40R)
+ - 👉 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)<!-- MEMES:END -->
 
 ---
 
