@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18 Pro cameras may take better shots with variable apertures](https://appleinsider.com/articles/25/10/15/iphone-18-pro-cameras-may-take-better-shots-with-variable-apertures?utm_source=rss)
- - [8 Best Pet Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pet-cameras/)
- - [Motorola’s new ultra-thin phone challenges Samsung, Apple for the throne](https://www.androidauthority.com/motorola-moto-x70-air-launch-3607256/)<!-- TECH:END -->
+ - [Apple unveils a 14-inch MacBook Pro with an M5 chip, up to 3.5x more performance for AI workflows, and faster storage, for the same $1,599+, shipping October 22 &lpar;Apple&rpar;](http://www.techmeme.com/251015/p21#a251015p21)
+ - [Apple’s iPad Pro now has a new M5 processor inside](https://www.theverge.com/news/799352/apple-ipad-pro-m5-price-release-date)
+ - [Apple announces upgraded Vision Pro with M5 processor](https://www.theverge.com/news/798962/apple-m5-vision-pro-headset-mixed-reality)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
