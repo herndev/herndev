@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tower of silence in India. Sky burial practiced by Parsi community.](http://9gag.com/gag/aD2NLZ9)
- - ⏩ [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - 👉 [1.6 billion on profit but you\u2019ve gotta take the toilets out to lower ticket prices 5%](http://9gag.com/gag/a9yN0oW)<!-- MEMES:END -->
+ - 💣 [She needed a school, Not forced motherhood.](http://9gag.com/gag/agmZ93r)
+ - ⏩ [When your movie bombs even worse than Morbius](http://9gag.com/gag/awyGj3Q)
+ - 👉 [Tower of silence in India. Sky burial practiced by Parsi community.](http://9gag.com/gag/aD2NLZ9)<!-- MEMES:END -->
 
 ---
 
