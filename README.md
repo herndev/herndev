@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU gets what it asked for, there is no charger in the MacBook Pro box](https://appleinsider.com/articles/25/10/15/eu-gets-what-it-asked-for-there-is-no-charger-in-the-macbook-pro-box?utm_source=rss)
- - [MIT spinoff Vertical Semiconductor, which aims to make vertical gallium nitride transistors for AI data centers, raised an $11M seed led by Playground Global &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251015/p34#a251015p34)
- - [M5 MacBook Pro vs M4 MacBook Pro: Incremental but welcome upgrade](https://appleinsider.com/inside/macbook-pro/vs/m5-macbook-pro-vs-m4-macbook-pro-incremental-but-welcome-upgrade?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Orange is seeking to raise €400M-€500M by selling a stake of as much as 50% in its data center business, including its major facility in Normandy &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p40#a251015p40)
+ - [Logitech made an Apple Pencil-like stylus for the Vision Pro](https://www.theverge.com/news/800108/apple-vision-pro-logitech-muse-pen-price-availability)
+ - [X plans to show new info about accounts, including their creation date and which country they are based in, &quot;starting next week&quot; on select X employees&#39; profiles &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251015/p39#a251015p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
