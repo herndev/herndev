@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He must be feeling traumatized after that](http://9gag.com/gag/a1mq3Kv)
- - ⏩ [The discipline here deserves an Oscar](http://9gag.com/gag/a5QyYON)
- - 👉 [How to expose a zombie](http://9gag.com/gag/abAm8nE)<!-- MEMES:END -->
+ - 💣 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
+ - ⏩ [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->
 
 ---
 
