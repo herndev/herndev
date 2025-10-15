@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every new feature for Pixel phones in Android 16 QPR2 Beta 3](https://www.androidauthority.com/android-16-qpr2-beta-3-features-3607353/)
- - [Google’s AI video generator is getting better editing and more audio](https://www.theverge.com/news/800371/google-veo-3-1-flow-audio)
- - [Apple doesn&#39;t include a charger in the box with the new M5 MacBook Pro in European countries, making users pay extra; the company cites local regulations &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/251015/p50#a251015p50)<!-- TECH:END -->
+ - [Google is making it easier to find the right photo on your Android phone](https://www.androidauthority.com/android-photo-picker-date-scrubber-voice-search-3607570/)
+ - [Honor teases the &quot;Robot Phone&quot;, with an AI-enabled, gimbal-mounted camera that unfolds from the phone&#39;s rear and can capture photos and video in any direction &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251015/p52#a251015p52)
+ - [Amazon admits its color Kindles aren’t the best option for bookworms](https://www.androidauthority.com/amazon-kindle-colorsoft-worse-for-reading-3607560/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
