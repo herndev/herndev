@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
- - ⏩ [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - 👉 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)<!-- MEMES:END -->
+ - 💣 [He must be feeling traumatized after that](http://9gag.com/gag/a1mq3Kv)
+ - ⏩ [The discipline here deserves an Oscar](http://9gag.com/gag/a5QyYON)
+ - 👉 [How to expose a zombie](http://9gag.com/gag/abAm8nE)<!-- MEMES:END -->
 
 ---
 
