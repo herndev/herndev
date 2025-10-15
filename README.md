@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Snacks, Controllers, Validation: The Outer Worlds 2’s Moon Man Couch-Panion Has It All](https://news.xbox.com/en-us/2025/10/15/the-outer-worlds-2-moon-man-couch-panion-sweepstakes/)
- - [Mozilla Launches Free VPN in Firefox to Win Back Users](https://kotaku.com/mozilla-launches-free-vpn-in-firefox-to-win-back-users-2000635612)
- - [HP 17.3″ Laptop Bundle &lpar;64GB RAM, 2TB SSD&rpar; Takes Over $3,000 Price Dive as Amazon Clears Out 5-Star Stock](https://kotaku.com/hp-17-3%e2%80%b3-laptop-bundle-64gb-ram-2tb-ssd-takes-over-3000-price-dive-as-amazon-clears-out-5-star-stock-2000635420)<!-- GAME:END -->
+ - [Despite past posting, Randy Pitchford is actually &#39;happy to live in that world&#39; where Borderlands 4 complaints aren&#39;t about &#39;how we f*cked up the story&#39;, after all](https://www.pcgamer.com/games/rpg/despite-past-posting-randy-pitchford-is-actually-happy-to-live-in-that-world-where-borderlands-4-complaints-arent-about-how-we-f-cked-up-the-story-after-all/)
+ - [A deeper look at Lumines Arise’s packed puzzle offerings](https://blog.playstation.com/2025/10/15/a-deeper-look-at-lumines-arises-packed-puzzle-offerings/)
+ - [A deeper look at Lumines Arise’s packed puzzle offerings](https://blog.playstation.com/2025/10/15/a-deeper-look-at-lumines-arises-packed-puzzle-offerings/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
