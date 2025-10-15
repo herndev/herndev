@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Yep, I get why this co-op RPG sandbox that&#39;s part Minecraft, part Skyrim, and also has airships, is one of the most played demos on Steam Next Fest](https://www.pcgamer.com/games/rpg/yep-i-get-why-this-co-op-rpg-sandbox-thats-part-minecraft-part-skyrim-and-also-has-airships-is-one-of-the-most-played-demos-on-steam-next-fest/)
  - [A Lot Of Great Open-World Games Are Super Cheap Right Now](https://kotaku.com/a-lot-of-great-open-world-games-are-super-cheap-right-now-2000635704)
- - [KPop Demon Hunters is headed back to theaters with a Halloween twist](https://www.polygon.com/kpop-demon-hunters-halloween-sing-along/)
- - [We Can Have Nice Things, KPop Demon Hunters Is Coming Back To Theaters](https://kotaku.com/kpop-demon-hunters-singalong-theater-return-halloween-2000635744)<!-- GAME:END -->
+ - [KPop Demon Hunters is headed back to theaters with a Halloween twist](https://www.polygon.com/kpop-demon-hunters-halloween-sing-along/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
