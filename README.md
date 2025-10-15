@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - ⏩ [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 💣 [When your movie bombs even worse than Morbius](http://9gag.com/gag/awyGj3Q)
+ - ⏩ [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)
  - 👉 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)<!-- MEMES:END -->
 
 ---
