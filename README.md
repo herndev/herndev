@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - ⏩ [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - 👉 [How to expose a zombie](http://9gag.com/gag/abAm8nE)<!-- MEMES:END -->
+ - ⏩ [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 👉 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)<!-- MEMES:END -->
 
 ---
 
