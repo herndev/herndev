@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android tablets stand no chance against the new iPad Pro with M5](https://www.androidauthority.com/apple-ipad-pro-m5-launch-3607291/)
- - [Apple Vision Pro gets spec bump to M5 for enhanced spatial computing](https://appleinsider.com/articles/25/10/15/apple-vision-pro-gets-spec-bump-to-m5-for-enhanced-spatial-computing?utm_source=rss)
- - [Prepaid Phone Plans: Everything You Need to Know About MVNOs](https://www.wired.com/story/prepaid-phone-plans-and-mvnos/)<!-- TECH:END -->
+ - [Threads now has group chats](https://www.theverge.com/news/799943/meta-threads-group-chat-messaging)
+ - [Kobo&amp;#8217;s new e-reader remote lets you turn the page with the press of a button](https://www.theverge.com/news/799990/kobo-e-reader-remote-launch-price-release-date)
+ - [US cybersecurity company F5 discloses a cyberattack in August by suspected nation-state hackers that stole undisclosed BIG-IP vulnerabilities and source code &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251015/p32#a251015p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
