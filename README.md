@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Orange is seeking to raise €400M-€500M by selling a stake of as much as 50% in its data center business, including its major facility in Normandy &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p40#a251015p40)
- - [Logitech made an Apple Pencil-like stylus for the Vision Pro](https://www.theverge.com/news/800108/apple-vision-pro-logitech-muse-pen-price-availability)
- - [X plans to show new info about accounts, including their creation date and which country they are based in, &quot;starting next week&quot; on select X employees&#39; profiles &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251015/p39#a251015p39)<!-- TECH:END -->
+ - [Senate Democrats want to know: was YouTube’s Trump settlement a bribe?](https://www.theverge.com/policy/800193/google-youtube-senators-letter-warren-wyden-bribe)
+ - [Is Bluesky down for you? You’re not alone](https://www.androidauthority.com/bluesky-experiencing-outage-3607404/)
+ - [Sources: Anthropic held early funding talks this month with Abu Dhabi-based MGX, which it considers a prior investor, after closing a $13B Series F in September &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p44#a251015p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
