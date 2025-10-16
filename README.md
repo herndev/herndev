@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Move b*tch](http://9gag.com/gag/amobZdv)
- - ⏩ [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
- - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->
+ - 💣 [Two step verification](http://9gag.com/gag/avyXwPW)
+ - ⏩ [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 👉 [Sarah Sanderson knows what she wants](http://9gag.com/gag/a6Z36wN)<!-- MEMES:END -->
 
 ---
 
