@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
- - ⏩ [Gravity always wins](http://9gag.com/gag/ajPMeo1)
- - 👉 [Move b*tch](http://9gag.com/gag/amobZdv)<!-- MEMES:END -->
+ - 💣 [Obey who](http://9gag.com/gag/azxDpmz)
+ - ⏩ [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 👉 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)<!-- MEMES:END -->
 
 ---
 
