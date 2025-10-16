@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei&#39;s key partners SiCarrier and Qiyunfang showcased chipmaking gear and EDA software at a Shenzhen expo; SiCarrier&#39;s gear competes with older US products &lpar;Bloomberg&rpar;](http://www.techmeme.com/251016/p4#a251016p4)
- - [YouTube&#39;s creative ecosystem added over €7B to the EU&#39;s GDP in 2024 and supported 200K+ full-time equivalent jobs, according to advising firm Oxford Economics &lpar;David Wheeldon/YouTube Official Blog&rpar;](http://www.techmeme.com/251016/p3#a251016p3)
- - [Investigation: the Trump family&#39;s crypto empire has reaped over $1B in pre-tax profits over the past year; Eric Trump says the true figure is &quot;probably more&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251016/p2#a251016p2)<!-- TECH:END -->
+ - [Breaking: Samsung has reportedly cancelled the Galaxy S26 Edge, here’s why](https://www.androidauthority.com/samsung-galaxy-s26-edge-cancelled-report-3607637/)
+ - [Analysis: ten loss-making AI startups, including OpenAI, gained ~$1T in valuation over the past year, fueling concerns of an inflating bubble in private markets &lpar;Financial Times&rpar;](http://www.techmeme.com/251016/p11#a251016p11)
+ - [GiveDirectly plans to pilot a program using Google&#39;s AI-based Flood Hub, which provides forecast warnings, to send early aid to at-risk families in Bangladesh &lpar;Rest of World&rpar;](http://www.techmeme.com/251016/p10#a251016p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
