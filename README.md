@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Move b*tch](http://9gag.com/gag/amobZdv)
- - ⏩ [Obey who](http://9gag.com/gag/azxDpmz)
- - 👉 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)<!-- MEMES:END -->
+ - 💣 [Look at them](http://9gag.com/gag/aLnN7Vg)
+ - ⏩ [I mean it is not wrong...](http://9gag.com/gag/a87XgOd)
+ - 👉 [Scratch your brain](http://9gag.com/gag/a9yNgBZ)<!-- MEMES:END -->
 
 ---
 
