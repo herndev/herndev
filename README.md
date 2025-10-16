@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Buffy&#39;s scariest episode turns Sarah Michelle Gellar into the monster](https://www.polygon.com/buffy-normal-again/)
- - [Big networking software hack seemingly backed by China poses a &#39;significant cyber threat targeting federal networks&#39;](https://www.pcgamer.com/software/security/big-networking-software-hack-seemingly-backed-by-china-poses-a-significant-cyber-threat-targeting-federal-networks/)
- - [Disney Dreamlight Valley has shared details on its next update, The Winter Ball, which will bring one of the games most anticipated characters to the valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-has-shared-details-on-its-next-update-the-winter-ball-which-will-bring-one-of-the-games-most-anticipated-characters-to-the-valley/)<!-- GAME:END -->
+ - [The Minecraft devs probably wouldn&#39;t add the creeper if they were following their current design rules &#39;because it would actually be so controversial&#39;](https://www.pcgamer.com/games/survival-crafting/the-minecraft-devs-probably-wouldnt-add-the-creeper-if-they-were-following-their-own-current-day-design-rules-because-it-would-actually-be-so-controversial/)
+ - [AirTags Are Selling for Pennies, and Amazon Gives You 2 Free with the 4-Pack](https://kotaku.com/airtags-are-selling-for-pennies-and-amazon-gives-you-2-free-with-the-4-pack-2000635985)
+ - [AI content now outnumbers human-written articles on the internet, but the good news is that the slop seems to have plateaued, for now](https://www.pcgamer.com/software/ai/ai-content-now-outnumbers-human-written-articles-on-the-internet-but-the-good-news-is-that-the-slop-seems-to-have-plateaued-for-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
