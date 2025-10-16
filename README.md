@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two step verification](http://9gag.com/gag/avyXwPW)
- - ⏩ [Move b*tch](http://9gag.com/gag/amobZdv)
- - 👉 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)<!-- MEMES:END -->
+ - 💣 [Look at them](http://9gag.com/gag/aLnN7Vg)
+ - ⏩ [Someone needs to stop giving advice](http://9gag.com/gag/aRBNqbB)
+ - 👉 [The revolt against `influencers`. Shout-out to Patisseire Francaise.](http://9gag.com/gag/a5Qy0Yo)<!-- MEMES:END -->
 
 ---
 
