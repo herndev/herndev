@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and NBCUniversal announce an Apple TV and Peacock Premium bundle for $14.99 per month, a 30% discount over the individual subscriptions &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251016/p43#a251016p43)
- - [Apple TV and Peacock announce a discounted $15 monthly subscription bundle](https://www.theverge.com/news/800928/apple-tv-peacock-premium-plus-nbcuniversal-subscription-bundle)
- - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [Sources: Apple readies an M6 MacBook Pro featuring an OLED touch display with a hole-punch design replacing the notch, for late 2026 or early 2027 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251016/p45#a251016p45)
+ - [Harrowing home invasion footage reminds us to check for unknown Bluetooth trackers](https://www.androidauthority.com/airtag-tracking-3607984/)
+ - [Email: Ron Conway, a close friend of Marc Benioff for 25+ years, stepped down from the Salesforce Foundation board, citing Benioff&#39;s comments supporting Trump &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251016/p44#a251016p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
