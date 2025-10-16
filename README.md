@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Move b*tch](http://9gag.com/gag/amobZdv)
- - ⏩ [Two step verification](http://9gag.com/gag/avyXwPW)
- - 👉 [1.6 billion on profit but you\u2019ve gotta take the toilets out to lower ticket prices 5%](http://9gag.com/gag/a9yN0oW)<!-- MEMES:END -->
+ - ⏩ [Obey who](http://9gag.com/gag/azxDpmz)
+ - 👉 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)<!-- MEMES:END -->
 
 ---
 
