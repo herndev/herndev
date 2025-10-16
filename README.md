@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EV tax credit is gone — now the hard part begins](https://www.theverge.com/podcast/800190/ev-tax-credit-auto-industry-cars-trump-tesla-china)
- - [Uber is turning its app into an AI training ground](https://www.theverge.com/news/799975/uber-ai-training-digital-task-driver-app)
- - [Uber plans to launch data labelling tasks in the US for some drivers to earn extra money, appearing under &quot;digital tasks&quot; in the driver app, later this fall &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251016/p31#a251016p31)<!-- TECH:END -->
+ - [Google pitches Workspace tools for &amp;#8216;when, not if&amp;#8217; Microsoft 365 fails](https://www.theverge.com/news/800829/google-workspace-microsoft-365-tools-outage-marketing)
+ - [The Best Cat Toys for Your Furry Friend &lpar;2025&rpar;](https://www.wired.com/story/best-cat-toys/)
+ - [General Intuition, which trains AI agents in spatial reasoning using Medal.tv game clips, raised a $133.7M seed led by Khosla Ventures and General Catalyst &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251016/p33#a251016p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
