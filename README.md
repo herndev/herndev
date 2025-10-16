@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Creative SoundBlaster GS3 review](https://www.pcgamer.com/hardware/speakers/creative-soundblaster-gs3-review/)
- - [Katy O&#39;Brian is not in The Mandalorian and Grogu](https://www.polygon.com/katy-obrian-elia-kane-not-in-the-mandalorian-grogu/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for October: Silent Hill 2, Until Dawn, V Rising, Yakuza: Like a Dragon and more](https://blog.playstation.com/2025/10/15/20251016-psplus/)<!-- GAME:END -->
+ - [Buffy&#39;s scariest episode turns Sarah Michelle Gellar into the monster](https://www.polygon.com/buffy-normal-again/)
+ - [Big networking software hack seemingly backed by China poses a &#39;significant cyber threat targeting federal networks&#39;](https://www.pcgamer.com/software/security/big-networking-software-hack-seemingly-backed-by-china-poses-a-significant-cyber-threat-targeting-federal-networks/)
+ - [Disney Dreamlight Valley has shared details on its next update, The Winter Ball, which will bring one of the games most anticipated characters to the valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-has-shared-details-on-its-next-update-the-winter-ball-which-will-bring-one-of-the-games-most-anticipated-characters-to-the-valley/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
