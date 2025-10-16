@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for October 16 &lpar;#1580&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-16-2025/)
  - [Total War: Warhammer 3 has spent this month being review-bombed over AI bugs specifically and bad vibes in general](https://www.pcgamer.com/games/strategy/total-war-warhammer-3-has-spent-this-month-being-review-bombed-over-ai-bugs-specifically-and-bad-vibes-in-general/)
- - [Netflix&#39;s Splinter Cell: Deathwatch has already been picked up for a second season](https://www.pcgamer.com/movies-tv/netflixs-splinter-cell-deathwatch-has-already-been-picked-up-for-a-second-season/)
- - [US senators express &#39;profound concern&#39; over EA buyout: &#39;The proposed transaction poses a number of significant foreign influence and national security risks&#39;](https://www.pcgamer.com/gaming-industry/us-senators-express-profound-concern-over-ea-buyout-the-proposed-transaction-poses-a-number-of-significant-foreign-influence-and-national-security-risks/)<!-- GAME:END -->
+ - [Netflix&#39;s Splinter Cell: Deathwatch has already been picked up for a second season](https://www.pcgamer.com/movies-tv/netflixs-splinter-cell-deathwatch-has-already-been-picked-up-for-a-second-season/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
