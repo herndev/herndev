@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Obey who](http://9gag.com/gag/azxDpmz)
+ - 💣 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
  - ⏩ [Gravity always wins](http://9gag.com/gag/ajPMeo1)
- - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
+ - 👉 [Move b*tch](http://9gag.com/gag/amobZdv)<!-- MEMES:END -->
 
 ---
 
