@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look at them](http://9gag.com/gag/aLnN7Vg)
- - ⏩ [Someone needs to stop giving advice](http://9gag.com/gag/aRBNqbB)
- - 👉 [The revolt against `influencers`. Shout-out to Patisseire Francaise.](http://9gag.com/gag/a5Qy0Yo)<!-- MEMES:END -->
+ - 💣 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
+ - ⏩ [I mean it is not wrong...](http://9gag.com/gag/a87XgOd)
+ - 👉 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)<!-- MEMES:END -->
 
 ---
 
