@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breaking: Samsung has reportedly cancelled the Galaxy S26 Edge, here’s why](https://www.androidauthority.com/samsung-galaxy-s26-edge-cancelled-report-3607637/)
- - [Analysis: ten loss-making AI startups, including OpenAI, gained ~$1T in valuation over the past year, fueling concerns of an inflating bubble in private markets &lpar;Financial Times&rpar;](http://www.techmeme.com/251016/p11#a251016p11)
- - [GiveDirectly plans to pilot a program using Google&#39;s AI-based Flood Hub, which provides forecast warnings, to send early aid to at-risk families in Bangladesh &lpar;Rest of World&rpar;](http://www.techmeme.com/251016/p10#a251016p10)<!-- TECH:END -->
+ - [An interview with YouTube CEO Neal Mohan on YouTube as the future of TV, paying out $100B+ to creators, partnering with the NFL, scripted content, and more &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251016/p13#a251016p13)
+ - [How facial recognition software rejects people with facial differences, who number an estimated 100M+ worldwide, blocking them from accessing essential services &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/251016/p12#a251016p12)
+ - [ChatGPT’s DM and group chat features could soon go live in its Android app](https://www.androidauthority.com/chatgpt-dm-group-chat-android-3607646/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
