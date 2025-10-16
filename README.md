@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google pitches Workspace tools for &amp;#8216;when, not if&amp;#8217; Microsoft 365 fails](https://www.theverge.com/news/800829/google-workspace-microsoft-365-tools-outage-marketing)
- - [The Best Cat Toys for Your Furry Friend &lpar;2025&rpar;](https://www.wired.com/story/best-cat-toys/)
- - [General Intuition, which trains AI agents in spatial reasoning using Medal.tv game clips, raised a $133.7M seed led by Khosla Ventures and General Catalyst &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251016/p33#a251016p33)<!-- TECH:END -->
+ - [Anthropic turns to &amp;#8216;skills&amp;#8217; to make Claude more useful at work](https://www.theverge.com/ai-artificial-intelligence/800868/anthropic-claude-skills-ai-agents)
+ - [Samsung settles for stagnation? Galaxy S26 camera leak dashes hopes for upgrades](https://www.androidauthority.com/samsung-galaxy-s26-pro-camera-leak-3607814/)
+ - [Ripple acquires GTreasury, a platform used by Fortune 500 companies for managing cash, foreign exchange, and risk, for $1B, set to close in the coming months &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/251016/p38#a251016p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
