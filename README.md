@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends: Z-A Has Changed Shiny Hunting Forever, And Not Everyone’s Happy About It](https://kotaku.com/pokemon-legends-z-a-shiny-hunting-despawn-sound-effect-2000636142)
- - [Dead Space Creator Sees Chance To Make Dead Space 4 Now That EA Is Being Sold: ‘I’m Already Making Calls’](https://kotaku.com/dead-space-creator-sees-chance-make-dead-space-4-ea-saudi-deal-2000636125)
- - [Saudi Arabia&#39;s acquisition of Electronic Arts faces pushback from game developers, petition calls on FTC to &#39;scrutinize this deal closely&#39;](https://www.pcgamer.com/gaming-industry/saudi-arabias-acquisition-of-electronic-arts-faces-pushback-from-game-developers-petition-calls-on-ftc-to-scrutinize-this-deal-closely/)<!-- GAME:END -->
+ - [Solo Leveling: ARISE OVERDRIVE Launches On November 17, New Demo Available at TwitchCon](https://www.polygon.com/solo-leveling-arise-overdrive-launches-on-november-17-new-demo-available-at-twitchcon/)
+ - [Pokémon Legends Z-A’s Small, Boring Map Is Leaving Fans Disappointed](https://kotaku.com/pokemon-legends-z-small-boring-map-how-big-time-to-walk-around-2000636148)
+ - [Battlefield 6 blows past 7 million copies in 3 days, &#39;the biggest launch in franchise history&#39;](https://www.pcgamer.com/games/fps/battlefield-6-blows-past-7-million-copies-in-3-days-the-biggest-launch-in-franchise-history/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
