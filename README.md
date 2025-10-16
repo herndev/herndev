@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos is preparing to show up for Android XR’s big moment](https://www.androidauthority.com/google-photos-spatial-tab-3607661/)
- - [Better Payment Network, a BNB Chain-based cross-border stablecoin payments network, raised a $50M seed led by YZi Labs, formerly known as Binance Labs &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/251016/p25#a251016p25)
- - [Sources: a ransomware attack is disrupting US state and local borrowers&#39; ability to post debt documents on the $4.3T municipal bond market&#39;s MuniOS platform &lpar;Bloomberg&rpar;](http://www.techmeme.com/251016/p24#a251016p24)<!-- TECH:END -->
+ - [The DIY and IRL energy of punk rock mutual aid](https://www.theverge.com/cs/features/799722/trans-punk-rock-mutual-aid-ekko-astral)
+ - [Gboard’s upcoming Auto-switch feature could save you countless keystrokes](https://www.androidauthority.com/gboard-auto-switch-after-apostrophe-apk-teardown-3607731/)
+ - [Apple Watch Series 11 review: If it ain&#39;t broke...](https://appleinsider.com/articles/25/10/16/apple-watch-series-11-review-if-it-aint-broke?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
