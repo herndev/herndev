@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - ⏩ [Move b*tch](http://9gag.com/gag/amobZdv)
- - 👉 [Smooth Recovery](http://9gag.com/gag/ajPM40R)<!-- MEMES:END -->
+ - 💣 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)
+ - ⏩ [Smooth Recovery](http://9gag.com/gag/ajPM40R)
+ - 👉 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)<!-- MEMES:END -->
 
 ---
 
