@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Detroit: Become Human studio going multiplayer with Spellcaster Chronicles](https://www.polygon.com/quantic-dream-multiplayer-game-spellcasters-chronicles/)
- - [Free Play Days – F1 25, Everspace, Hell Let Loose, The Stone of Madness, and Ra Ra Boom](https://news.xbox.com/en-us/2025/10/16/free-play-days-10-16-2025/)
- - [Pokémon Legends: Z-A beginner&#39;s tips to know before starting](https://www.polygon.com/pokemon-legends-z-a-plza-beginners-tips-tricks/)<!-- GAME:END -->
+ - [Anno 117: Pax Romana stuns in first impressions, and clicks right away](https://www.polygon.com/anno-117-pax-romana-preview/)
+ - [Dell Is Practically Giving Away This 5-Star Laptop Bundle at 62% Off With $400 Worth of Accessories Included](https://kotaku.com/dell-is-practically-paying-you-to-buy-this-5-star-laptop-bundle-62-off-with-400-worth-of-accessories-included-2000635767)
+ - [All Destiny 2 expansions on sale for just $35](https://www.polygon.com/destiny-2-expansion-sale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
