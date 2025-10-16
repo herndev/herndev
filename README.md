@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Borderlands 4 update that&#39;s going to take away your infinite-bleed god-knife is delayed until next week](https://www.pcgamer.com/games/fps/the-borderlands-4-update-thats-going-to-take-away-your-infinite-bleed-god-knife-is-delayed-until-next-week/)
- - [How to get an early Eevee in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-eevee-location-where-to-find/)
- - [The Entire Yakuza Franchise Is On Sale On Steam Right Now](https://kotaku.com/the-entire-yakuza-franchise-is-on-sale-on-steam-right-now-2000636156)<!-- GAME:END -->
+ - [These indie devs ditched AAA studios to make a co-op RPG with endless MMO-style dungeons, and after 7 years it&#39;s finally here](https://www.pcgamer.com/games/rpg/these-indie-devs-ditched-aaa-studios-to-make-a-co-op-rpg-with-endless-mmo-style-dungeons-and-after-7-years-its-finally-here/)
+ - [How does Warhammer 40,000&#39;s first edition hold up today?](https://www.pcgamer.com/games/board-games/how-does-warhammer-40-000s-first-edition-hold-up-today/)
+ - [Former Assassin&#39;s Creed boss says he did not leave voluntarily: &#39;I stayed at my post until Ubisoft asked me to step aside&#39;](https://www.pcgamer.com/gaming-industry/former-assassins-creed-boss-says-he-did-not-leave-voluntarily-i-stayed-at-my-post-until-ubisoft-asked-me-to-step-aside/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
