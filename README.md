@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The White House says representatives from Microsoft, Meta, Google, and other corporate donors to the $250M ballroom attended a dinner with President Trump &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251016/p1#a251016p1)
- - [This new $999 de-Googled phone with a physical killswitch wants to take on Android’s best](https://www.androidauthority.com/hiroh-phone-3607617/)
- - [OpenAI says all Sora 2 users can now generate videos up to 15 seconds on the app and web, while Pro users can generate videos up to 25 seconds on the web &lpar;@openai&rpar;](http://www.techmeme.com/251015/p63#a251015p63)<!-- TECH:END -->
+ - [Huawei&#39;s key partners SiCarrier and Qiyunfang showcased chipmaking gear and EDA software at a Shenzhen expo; SiCarrier&#39;s gear competes with older US products &lpar;Bloomberg&rpar;](http://www.techmeme.com/251016/p4#a251016p4)
+ - [YouTube&#39;s creative ecosystem added over €7B to the EU&#39;s GDP in 2024 and supported 200K+ full-time equivalent jobs, according to advising firm Oxford Economics &lpar;David Wheeldon/YouTube Official Blog&rpar;](http://www.techmeme.com/251016/p3#a251016p3)
+ - [Investigation: the Trump family&#39;s crypto empire has reaped over $1B in pre-tax profits over the past year; Eric Trump says the true figure is &quot;probably more&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251016/p2#a251016p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
