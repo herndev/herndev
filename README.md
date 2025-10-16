@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nest speakers start showing some new color — is Gemini to thank?](https://www.androidauthority.com/nest-speakers-color-3608033/)
- - [Why the F5 Hack Created an ‘Imminent Threat’ for Thousands of Networks](https://www.wired.com/story/f5-hack-networking-software-big-ip/)
- - [M5 Apple Vision Pro vs. M2 Apple Vision Pro: Improved spatial computing](https://appleinsider.com/articles/25/10/16/m5-apple-vision-pro-vs-m2-apple-vision-pro-improved-spatial-computing?utm_source=rss)<!-- TECH:END -->
+ - [I just reviewed the Xbox Ally and answered your burning questions](https://www.theverge.com/games/800212/i-just-reviewed-the-xbox-ally-ask-me-anything)
+ - [Save a whopping $520 on the Samsung Galaxy Z Fold 7 with 512GB!](https://www.androidauthority.com/samsung-galaxy-z-fold-7-deal-6-3608023/)
+ - [Aboon, an AI-powered platform for financial advisers to help business owners launch and manage 401&lpar;k&rpar; plans, raised a $17.5M seed led by Bain Capital Ventures &lpar;Davis Janowski/WealthManagement.com&rpar;](http://www.techmeme.com/251016/p48#a251016p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
