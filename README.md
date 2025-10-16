@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
- - ⏩ [Smooth Recovery](http://9gag.com/gag/ajPM40R)
+ - 💣 [Obey who](http://9gag.com/gag/azxDpmz)
+ - ⏩ [Gravity always wins](http://9gag.com/gag/ajPMeo1)
  - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
 
 ---
