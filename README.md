@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 16 &lpar;#1580&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-16-2025/)
- - [Total War: Warhammer 3 has spent this month being review-bombed over AI bugs specifically and bad vibes in general](https://www.pcgamer.com/games/strategy/total-war-warhammer-3-has-spent-this-month-being-review-bombed-over-ai-bugs-specifically-and-bad-vibes-in-general/)
- - [Netflix&#39;s Splinter Cell: Deathwatch has already been picked up for a second season](https://www.pcgamer.com/movies-tv/netflixs-splinter-cell-deathwatch-has-already-been-picked-up-for-a-second-season/)<!-- GAME:END -->
+ - [How to change the time of day in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-time-change-day-night-length/)
+ - [Pokémon type chart for Pokémon Legends Z-A strengths and weaknesses](https://www.polygon.com/pokemon-legends-z-a-plza-type-chart-strengths-weaknesses-super-effective/)
+ - [How to rename your Pokémon in Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-rename-change-names-how-to/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
