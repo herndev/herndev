@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube not working? Here’s what you can do](https://www.androidauthority.com/youtube-not-working-811174/)
- - [Apple AI team loses another executive to Meta](https://appleinsider.com/articles/25/10/15/apple-ai-team-loses-another-executive-to-meta?utm_source=rss)
- - [Sources: Apple executive Ke Yang, who was appointed just weeks ago as head of a team developing AI-driven web search for Siri, is leaving for Meta &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251015/p54#a251015p54)<!-- TECH:END -->
+ - [Paxos says it &quot;mistakenly minted&quot; $300T worth of PayPal&#39;s PYUSD stablecoin on Wednesday and &quot;burned&quot; the tokens a little over 20 minutes later &lpar;Ryan S. Gladwin/Decrypt&rpar;](http://www.techmeme.com/251015/p57#a251015p57)
+ - [Documents: Rhoda AI, which raised a $162.6M Series A in April, and Genesis AI, which raised a $105M seed earlier this year, have been developing humanoid robots &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/251015/p56#a251015p56)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
