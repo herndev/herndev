@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two step verification](http://9gag.com/gag/avyXwPW)
- - ⏩ [Move b*tch](http://9gag.com/gag/amobZdv)
- - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
+ - 💣 [Move b*tch](http://9gag.com/gag/amobZdv)
+ - ⏩ [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
+ - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->
 
 ---
 
