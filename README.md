@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for October: Silent Hill 2, Until Dawn, V Rising, Yakuza: Like a Dragon and more](https://blog.playstation.com/2025/10/15/20251016-psplus/)
  - [How to change the time of day in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-time-change-day-night-length/)
- - [Pokémon type chart for Pokémon Legends Z-A strengths and weaknesses](https://www.polygon.com/pokemon-legends-z-a-plza-type-chart-strengths-weaknesses-super-effective/)
- - [How to rename your Pokémon in Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-rename-change-names-how-to/)<!-- GAME:END -->
+ - [Pokémon type chart for Pokémon Legends Z-A strengths and weaknesses](https://www.polygon.com/pokemon-legends-z-a-plza-type-chart-strengths-weaknesses-super-effective/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
