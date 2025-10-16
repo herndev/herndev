@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - ⏩ [1.6 billion on profit but you\u2019ve gotta take the toilets out to lower ticket prices 5%](http://9gag.com/gag/a9yN0oW)
- - 👉 [F**king DUH](http://9gag.com/gag/aLnNoYA)<!-- MEMES:END -->
+ - 💣 [Two step verification](http://9gag.com/gag/avyXwPW)
+ - ⏩ [He never got to this part before](http://9gag.com/gag/ajPM4RR)
+ - 👉 [Move b*tch](http://9gag.com/gag/amobZdv)<!-- MEMES:END -->
 
 ---
 
