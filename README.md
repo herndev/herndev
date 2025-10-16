@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with YouTube CEO Neal Mohan on YouTube as the future of TV, paying out $100B+ to creators, partnering with the NFL, scripted content, and more &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251016/p13#a251016p13)
- - [How facial recognition software rejects people with facial differences, who number an estimated 100M+ worldwide, blocking them from accessing essential services &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/251016/p12#a251016p12)
- - [ChatGPT’s DM and group chat features could soon go live in its Android app](https://www.androidauthority.com/chatgpt-dm-group-chat-android-3607646/)<!-- TECH:END -->
+ - [Japanese chip material maker Tekscend rose 13% on its Tokyo debut after raising $1B in its IPO; Tekscend makes photomasks to transfer tiny circuits onto wafers &lpar;Yasutaka Tamura/Bloomberg&rpar;](http://www.techmeme.com/251016/p18#a251016p18)
+ - [Indian startup Kuku, which offers audio content and vertical dramas, raised an $85M Series C led by Granite at a $500M valuation and has 10M+ paid subscribers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251016/p17#a251016p17)
+ - [This is why I stick with Google Pixel phones — despite the weaker specs](https://www.androidauthority.com/stick-with-google-pixel-phones-despite-weaker-specs-why-3607336/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
