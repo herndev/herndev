@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer Kraken Kitty V2 - Gengar Edition review](https://www.pcgamer.com/hardware/gaming-headsets/razer-kraken-kitty-v2-gengar-edition-review/)
- - [Netflix says no to showing the Stranger Things finale in theaters](https://www.polygon.com/stranger-things-finale-no-theaters-netflix/)
- - [Customize Your Game: New Accessories for ROG Xbox Ally Handhelds](https://news.xbox.com/en-us/2025/10/16/rog-xbox-ally-handheld-accessories/)<!-- GAME:END -->
+ - [A decade later, Crimson Peak remains Guillermo del Toro’s most misunderstood film](https://www.polygon.com/crimson-peak-misunderstood-guillermo-del-toro/)
+ - [Dead or Alive and Ninja Gaiden director Tomonobu Itagaki dies aged 58](https://www.polygon.com/tomonobu-itagaki-dead-or-alive-ninja-gaiden-team-ninja-dead/)
+ - [This 100W USB-C Wall Charger Is Selling for Pennies, Amazon Clears Out Prime Day Leftovers](https://kotaku.com/this-100w-usb-c-wall-charger-is-selling-for-pennies-amazon-clears-out-prime-day-leftovers-2000636044)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
