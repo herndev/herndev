@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Kalos starters in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-kalos-starters-chespin-fennekin-froakie/)
- - [What is the Battlefield 6 roadmap?](https://www.polygon.com/battlefield-6-bf6-roadmap-season-schedule/)
- - [How to level up fast in Battlefield 6 with BF6 XP farms](https://www.polygon.com/battlefield-6-bf6-xp-farms-how-to-level-up-fast/)<!-- GAME:END -->
+ - [The Borderlands 4 update that&#39;s going to take away your infinite-bleed god-knife is delayed until next week](https://www.pcgamer.com/games/fps/the-borderlands-4-update-thats-going-to-take-away-your-infinite-bleed-god-knife-is-delayed-until-next-week/)
+ - [How to get an early Eevee in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-eevee-location-where-to-find/)
+ - [The Entire Yakuza Franchise Is On Sale On Steam Right Now](https://kotaku.com/the-entire-yakuza-franchise-is-on-sale-on-steam-right-now-2000636156)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
