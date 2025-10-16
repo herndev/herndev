@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Solo Leveling: ARISE OVERDRIVE Launches On November 17, New Demo Available at TwitchCon](https://www.polygon.com/solo-leveling-arise-overdrive-launches-on-november-17-new-demo-available-at-twitchcon/)
- - [Pokémon Legends Z-A’s Small, Boring Map Is Leaving Fans Disappointed](https://kotaku.com/pokemon-legends-z-small-boring-map-how-big-time-to-walk-around-2000636148)
- - [Battlefield 6 blows past 7 million copies in 3 days, &#39;the biggest launch in franchise history&#39;](https://www.pcgamer.com/games/fps/battlefield-6-blows-past-7-million-copies-in-3-days-the-biggest-launch-in-franchise-history/)<!-- GAME:END -->
+ - [How to get the Kalos starters in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-kalos-starters-chespin-fennekin-froakie/)
+ - [What is the Battlefield 6 roadmap?](https://www.polygon.com/battlefield-6-bf6-roadmap-season-schedule/)
+ - [How to level up fast in Battlefield 6 with BF6 XP farms](https://www.polygon.com/battlefield-6-bf6-xp-farms-how-to-level-up-fast/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
