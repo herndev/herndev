@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japanese chip material maker Tekscend rose 13% on its Tokyo debut after raising $1B in its IPO; Tekscend makes photomasks to transfer tiny circuits onto wafers &lpar;Yasutaka Tamura/Bloomberg&rpar;](http://www.techmeme.com/251016/p18#a251016p18)
- - [Indian startup Kuku, which offers audio content and vertical dramas, raised an $85M Series C led by Granite at a $500M valuation and has 10M+ paid subscribers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251016/p17#a251016p17)
- - [This is why I stick with Google Pixel phones — despite the weaker specs](https://www.androidauthority.com/stick-with-google-pixel-phones-despite-weaker-specs-why-3607336/)<!-- TECH:END -->
+ - [Google Photos is preparing to show up for Android XR’s big moment](https://www.androidauthority.com/google-photos-spatial-tab-3607661/)
+ - [Better Payment Network, a BNB Chain-based cross-border stablecoin payments network, raised a $50M seed led by YZi Labs, formerly known as Binance Labs &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/251016/p25#a251016p25)
+ - [Sources: a ransomware attack is disrupting US state and local borrowers&#39; ability to post debt documents on the $4.3T municipal bond market&#39;s MuniOS platform &lpar;Bloomberg&rpar;](http://www.techmeme.com/251016/p24#a251016p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
