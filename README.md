@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
- - ⏩ [I mean it is not wrong...](http://9gag.com/gag/a87XgOd)
- - 👉 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)<!-- MEMES:END -->
+ - 💣 [Scratch your brain](http://9gag.com/gag/a9yNgBZ)
+ - ⏩ [Someone needs to stop giving advice](http://9gag.com/gag/aRBNqbB)
+ - 👉 [The Art of Crafting a Wagon by Hand.](http://9gag.com/gag/a4PrOP6)<!-- MEMES:END -->
 
 ---
 
