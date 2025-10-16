@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple readies an M6 MacBook Pro featuring an OLED touch display with a hole-punch design replacing the notch, for late 2026 or early 2027 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251016/p45#a251016p45)
- - [Harrowing home invasion footage reminds us to check for unknown Bluetooth trackers](https://www.androidauthority.com/airtag-tracking-3607984/)
- - [Email: Ron Conway, a close friend of Marc Benioff for 25+ years, stepped down from the Salesforce Foundation board, citing Benioff&#39;s comments supporting Trump &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251016/p44#a251016p44)<!-- TECH:END -->
+ - [A profile of Joshua Kushner, including Thrive Capital&#39;s investments in GitHub and Stripe and its role in reinstating Sam Altman as OpenAI CEO in November 2023 &lpar;Jeremy Stern/Colossus&rpar;](http://www.techmeme.com/251016/p46#a251016p46)
+ - [Avoid messy cables for a mere $4.99!](https://www.androidauthority.com/canisflax-magnetic-cable-clips-deal-3608025/)
+ - [Unions are trying to stop Trump from kicking out immigrants over social media posts](https://www.theverge.com/policy/801110/eff-catch-and-revoke-visa-social-media-surveillance-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
