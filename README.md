@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet is finally getting a home for your Play Points](https://www.androidauthority.com/wallet-play-points-3607917/)
- - [Sources: OpenAI is proposing a &quot;sign in with ChatGPT&quot; feature for websites, letting startups charge OpenAI model usage costs to users&#39; ChatGPT capacity limits &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251016/p41#a251016p41)
- - [New Apple TV and Peacock streaming bundles could save you over 30%](https://appleinsider.com/articles/25/10/16/new-apple-tv-and-peacock-streaming-bundles-could-save-you-over-30?utm_source=rss)<!-- TECH:END -->
+ - [Apple and NBCUniversal announce an Apple TV and Peacock Premium bundle for $14.99 per month, a 30% discount over the individual subscriptions &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251016/p43#a251016p43)
+ - [Apple TV and Peacock announce a discounted $15 monthly subscription bundle](https://www.theverge.com/news/800928/apple-tv-peacock-premium-plus-nbcuniversal-subscription-bundle)
+ - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
