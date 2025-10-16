@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)
- - ⏩ [Smooth Recovery](http://9gag.com/gag/ajPM40R)
- - 👉 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)<!-- MEMES:END -->
+ - 💣 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
+ - ⏩ [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
+ - 👉 [Move b*tch](http://9gag.com/gag/amobZdv)<!-- MEMES:END -->
 
 ---
 
