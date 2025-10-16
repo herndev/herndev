@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube goes down for users worldwide in massive outage &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/youtube-outage-3607597/)
- - [Sources: F5&#39;s breach is blamed on China, whose hackers had infiltrated F5&#39;s network for at least 12 months using the Brickstorm malware to steal source code &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p60#a251015p60)
- - [Campfire, an AI-powered ERP and accounting services provider, raised a $65M Series B co-led by Accel and Ribbit Capital, after raising a $35M Series A in June &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251015/p59#a251015p59)<!-- TECH:END -->
+ - [This new $999 de-Googled phone with a physical killswitch wants to take on Android’s best](https://www.androidauthority.com/hiroh-phone-3607617/)
+ - [OpenAI says all Sora 2 users can now generate videos up to 15 seconds on the app and web, while Pro users can generate videos up to 25 seconds on the web &lpar;@openai&rpar;](http://www.techmeme.com/251015/p63#a251015p63)
+ - [Liberate, which builds AI agents to automate insurance operations, raised a $50M Series B led by Battery Ventures at a $300M post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251015/p62#a251015p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
