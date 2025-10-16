@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Anno 117: Pax Romana stuns in first impressions, and clicks right away](https://www.polygon.com/anno-117-pax-romana-preview/)
- - [Dell Is Practically Giving Away This 5-Star Laptop Bundle at 62% Off With $400 Worth of Accessories Included](https://kotaku.com/dell-is-practically-paying-you-to-buy-this-5-star-laptop-bundle-62-off-with-400-worth-of-accessories-included-2000635767)
- - [All Destiny 2 expansions on sale for just $35](https://www.polygon.com/destiny-2-expansion-sale/)<!-- GAME:END -->
+ - [Beats Studio Buds Are Now Almost 3× Cheaper Than the AirPods Pro Series, the Most Affordable Apple Earbuds](https://kotaku.com/beats-studio-buds-are-now-almost-3x-cheaper-than-the-airpods-pro-series-the-most-affordable-apple-earbuds-2000635780)
+ - [Get Every Destiny 2 Expansion Including The New Star Wars One For Just $35 Right Now](https://kotaku.com/destiny-2-expansion-cheap-sale-bundle-star-wars-2000636124)
+ - [The Boys: Diabolical season 2 news isn&#39;t good news](https://www.polygon.com/the-boys-diabolical-season-2-canceled/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
