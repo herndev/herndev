@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Joshua Kushner, including Thrive Capital&#39;s investments in GitHub and Stripe and its role in reinstating Sam Altman as OpenAI CEO in November 2023 &lpar;Jeremy Stern/Colossus&rpar;](http://www.techmeme.com/251016/p46#a251016p46)
- - [Avoid messy cables for a mere $4.99!](https://www.androidauthority.com/canisflax-magnetic-cable-clips-deal-3608025/)
- - [Unions are trying to stop Trump from kicking out immigrants over social media posts](https://www.theverge.com/policy/801110/eff-catch-and-revoke-visa-social-media-surveillance-lawsuit)<!-- TECH:END -->
+ - [Nest speakers start showing some new color — is Gemini to thank?](https://www.androidauthority.com/nest-speakers-color-3608033/)
+ - [Why the F5 Hack Created an ‘Imminent Threat’ for Thousands of Networks](https://www.wired.com/story/f5-hack-networking-software-big-ip/)
+ - [M5 Apple Vision Pro vs. M2 Apple Vision Pro: Improved spatial computing](https://appleinsider.com/articles/25/10/16/m5-apple-vision-pro-vs-m2-apple-vision-pro-improved-spatial-computing?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
