@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Minecraft devs probably wouldn&#39;t add the creeper if they were following their current design rules &#39;because it would actually be so controversial&#39;](https://www.pcgamer.com/games/survival-crafting/the-minecraft-devs-probably-wouldnt-add-the-creeper-if-they-were-following-their-own-current-day-design-rules-because-it-would-actually-be-so-controversial/)
- - [AirTags Are Selling for Pennies, and Amazon Gives You 2 Free with the 4-Pack](https://kotaku.com/airtags-are-selling-for-pennies-and-amazon-gives-you-2-free-with-the-4-pack-2000635985)
- - [AI content now outnumbers human-written articles on the internet, but the good news is that the slop seems to have plateaued, for now](https://www.pcgamer.com/software/ai/ai-content-now-outnumbers-human-written-articles-on-the-internet-but-the-good-news-is-that-the-slop-seems-to-have-plateaued-for-now/)<!-- GAME:END -->
+ - [Razer Kraken Kitty V2 - Gengar Edition review](https://www.pcgamer.com/hardware/gaming-headsets/razer-kraken-kitty-v2-gengar-edition-review/)
+ - [Netflix says no to showing the Stranger Things finale in theaters](https://www.polygon.com/stranger-things-finale-no-theaters-netflix/)
+ - [Customize Your Game: New Accessories for ROG Xbox Ally Handhelds](https://news.xbox.com/en-us/2025/10/16/rog-xbox-ally-handheld-accessories/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
