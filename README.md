@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look at them](http://9gag.com/gag/aLnN7Vg)
- - ⏩ [I mean it is not wrong...](http://9gag.com/gag/a87XgOd)
- - 👉 [Scratch your brain](http://9gag.com/gag/a9yNgBZ)<!-- MEMES:END -->
+ - 💣 [Two step verification](http://9gag.com/gag/avyXwPW)
+ - ⏩ [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 👉 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)<!-- MEMES:END -->
 
 ---
 
