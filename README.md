@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazen criminals tracked unsuspecting couple home with AirTag](https://appleinsider.com/articles/25/10/16/brazen-criminals-tracked-unsuspecting-couple-home-with-airtag?utm_source=rss)
- - [Trans women are building their own publishing world, and it&amp;#8217;s under threat](https://www.theverge.com/cs/features/799836/trans-indie-authors-self-publishing-queer-fiction)
- - [All Windows 11 PCs Will Get These Advanced Copilot AI Features](https://www.wired.com/story/microsoft-is-rewriting-windows-11-around-ai/)<!-- TECH:END -->
+ - [The EV tax credit is gone — now the hard part begins](https://www.theverge.com/podcast/800190/ev-tax-credit-auto-industry-cars-trump-tesla-china)
+ - [Uber is turning its app into an AI training ground](https://www.theverge.com/news/799975/uber-ai-training-digital-task-driver-app)
+ - [Uber plans to launch data labelling tasks in the US for some drivers to earn extra money, appearing under &quot;digital tasks&quot; in the driver app, later this fall &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251016/p31#a251016p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
