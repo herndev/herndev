@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DIY and IRL energy of punk rock mutual aid](https://www.theverge.com/cs/features/799722/trans-punk-rock-mutual-aid-ekko-astral)
- - [Gboard’s upcoming Auto-switch feature could save you countless keystrokes](https://www.androidauthority.com/gboard-auto-switch-after-apostrophe-apk-teardown-3607731/)
- - [Apple Watch Series 11 review: If it ain&#39;t broke...](https://appleinsider.com/articles/25/10/16/apple-watch-series-11-review-if-it-aint-broke?utm_source=rss)<!-- TECH:END -->
+ - [Brazen criminals tracked unsuspecting couple home with AirTag](https://appleinsider.com/articles/25/10/16/brazen-criminals-tracked-unsuspecting-couple-home-with-airtag?utm_source=rss)
+ - [Trans women are building their own publishing world, and it&amp;#8217;s under threat](https://www.theverge.com/cs/features/799836/trans-indie-authors-self-publishing-queer-fiction)
+ - [All Windows 11 PCs Will Get These Advanced Copilot AI Features](https://www.wired.com/story/microsoft-is-rewriting-windows-11-around-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
