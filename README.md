@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Beats Studio Buds Are Now Almost 3× Cheaper Than the AirPods Pro Series, the Most Affordable Apple Earbuds](https://kotaku.com/beats-studio-buds-are-now-almost-3x-cheaper-than-the-airpods-pro-series-the-most-affordable-apple-earbuds-2000635780)
- - [Get Every Destiny 2 Expansion Including The New Star Wars One For Just $35 Right Now](https://kotaku.com/destiny-2-expansion-cheap-sale-bundle-star-wars-2000636124)
- - [The Boys: Diabolical season 2 news isn&#39;t good news](https://www.polygon.com/the-boys-diabolical-season-2-canceled/)<!-- GAME:END -->
+ - [Pokémon Legends: Z-A Has Changed Shiny Hunting Forever, And Not Everyone’s Happy About It](https://kotaku.com/pokemon-legends-z-a-shiny-hunting-despawn-sound-effect-2000636142)
+ - [Dead Space Creator Sees Chance To Make Dead Space 4 Now That EA Is Being Sold: ‘I’m Already Making Calls’](https://kotaku.com/dead-space-creator-sees-chance-make-dead-space-4-ea-saudi-deal-2000636125)
+ - [Saudi Arabia&#39;s acquisition of Electronic Arts faces pushback from game developers, petition calls on FTC to &#39;scrutinize this deal closely&#39;](https://www.pcgamer.com/gaming-industry/saudi-arabias-acquisition-of-electronic-arts-faces-pushback-from-game-developers-petition-calls-on-ftc-to-scrutinize-this-deal-closely/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
