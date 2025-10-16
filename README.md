@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Two step verification](http://9gag.com/gag/avyXwPW)
- - ⏩ [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - 👉 [Move b*tch](http://9gag.com/gag/amobZdv)<!-- MEMES:END -->
+ - ⏩ [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
 
 ---
 
