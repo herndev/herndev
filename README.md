@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I just reviewed the Xbox Ally and answered your burning questions](https://www.theverge.com/games/800212/i-just-reviewed-the-xbox-ally-ask-me-anything)
- - [Save a whopping $520 on the Samsung Galaxy Z Fold 7 with 512GB!](https://www.androidauthority.com/samsung-galaxy-z-fold-7-deal-6-3608023/)
- - [Aboon, an AI-powered platform for financial advisers to help business owners launch and manage 401&lpar;k&rpar; plans, raised a $17.5M seed led by Bain Capital Ventures &lpar;Davis Janowski/WealthManagement.com&rpar;](http://www.techmeme.com/251016/p48#a251016p48)<!-- TECH:END -->
+ - [Amazon shares a ‘first look’ at new nuclear facility](https://www.theverge.com/news/801257/amazon-nuclear-energy-reactor-first-look)
+ - [Apple SVP Eddy Cue wants to reinvent sports streaming, says it is broken for fans](https://appleinsider.com/articles/25/10/16/apple-svp-eddy-cue-wants-to-reinvent-sports-streaming-says-it-is-broken-for-fans?utm_source=rss)
+ - [Heading home? Google Maps might tell you how long it’ll take before you even ask](https://www.androidauthority.com/google-maps-home-travel-time-chip-3608081/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
