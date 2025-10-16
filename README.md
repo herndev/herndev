@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scratch your brain](http://9gag.com/gag/a9yNgBZ)
- - ⏩ [Someone needs to stop giving advice](http://9gag.com/gag/aRBNqbB)
- - 👉 [The Art of Crafting a Wagon by Hand.](http://9gag.com/gag/a4PrOP6)<!-- MEMES:END -->
+ - 💣 [I mean it is not wrong...](http://9gag.com/gag/a87XgOd)
+ - ⏩ [Smooth Recovery](http://9gag.com/gag/ajPM40R)
+ - 👉 [Move b*tch](http://9gag.com/gag/amobZdv)<!-- MEMES:END -->
 
 ---
 
