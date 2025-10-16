@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The White House says representatives from Microsoft, Meta, Google, and other corporate donors to the $250M ballroom attended a dinner with President Trump &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251016/p1#a251016p1)
  - [This new $999 de-Googled phone with a physical killswitch wants to take on Android’s best](https://www.androidauthority.com/hiroh-phone-3607617/)
- - [OpenAI says all Sora 2 users can now generate videos up to 15 seconds on the app and web, while Pro users can generate videos up to 25 seconds on the web &lpar;@openai&rpar;](http://www.techmeme.com/251015/p63#a251015p63)
- - [Liberate, which builds AI agents to automate insurance operations, raised a $50M Series B led by Battery Ventures at a $300M post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251015/p62#a251015p62)<!-- TECH:END -->
+ - [OpenAI says all Sora 2 users can now generate videos up to 15 seconds on the app and web, while Pro users can generate videos up to 25 seconds on the web &lpar;@openai&rpar;](http://www.techmeme.com/251015/p63#a251015p63)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
