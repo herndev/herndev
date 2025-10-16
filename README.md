@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
+ - 💣 [Move b*tch](http://9gag.com/gag/amobZdv)
  - ⏩ [Two step verification](http://9gag.com/gag/avyXwPW)
- - 👉 [Sarah Sanderson knows what she wants](http://9gag.com/gag/a6Z36wN)<!-- MEMES:END -->
+ - 👉 [1.6 billion on profit but you\u2019ve gotta take the toilets out to lower ticket prices 5%](http://9gag.com/gag/a9yN0oW)<!-- MEMES:END -->
 
 ---
 
