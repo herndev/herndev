@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is making it easier to find the right photo on your Android phone](https://www.androidauthority.com/android-photo-picker-date-scrubber-voice-search-3607570/)
- - [Honor teases the &quot;Robot Phone&quot;, with an AI-enabled, gimbal-mounted camera that unfolds from the phone&#39;s rear and can capture photos and video in any direction &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251015/p52#a251015p52)
- - [Amazon admits its color Kindles aren’t the best option for bookworms](https://www.androidauthority.com/amazon-kindle-colorsoft-worse-for-reading-3607560/)<!-- TECH:END -->
+ - [YouTube not working? Here’s what you can do](https://www.androidauthority.com/youtube-not-working-811174/)
+ - [Apple AI team loses another executive to Meta](https://appleinsider.com/articles/25/10/15/apple-ai-team-loses-another-executive-to-meta?utm_source=rss)
+ - [Sources: Apple executive Ke Yang, who was appointed just weeks ago as head of a team developing AI-driven web search for Siri, is leaving for Meta &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251015/p54#a251015p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
