@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I mean it is not wrong...](http://9gag.com/gag/a87XgOd)
+ - 💣 [Smile and wave boys](http://9gag.com/gag/aQzNWez)
  - ⏩ [Smooth Recovery](http://9gag.com/gag/ajPM40R)
  - 👉 [Move b*tch](http://9gag.com/gag/amobZdv)<!-- MEMES:END -->
 
