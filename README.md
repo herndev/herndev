@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic turns to &amp;#8216;skills&amp;#8217; to make Claude more useful at work](https://www.theverge.com/ai-artificial-intelligence/800868/anthropic-claude-skills-ai-agents)
- - [Samsung settles for stagnation? Galaxy S26 camera leak dashes hopes for upgrades](https://www.androidauthority.com/samsung-galaxy-s26-pro-camera-leak-3607814/)
- - [Ripple acquires GTreasury, a platform used by Fortune 500 companies for managing cash, foreign exchange, and risk, for $1B, set to close in the coming months &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/251016/p38#a251016p38)<!-- TECH:END -->
+ - [Google Wallet is finally getting a home for your Play Points](https://www.androidauthority.com/wallet-play-points-3607917/)
+ - [Sources: OpenAI is proposing a &quot;sign in with ChatGPT&quot; feature for websites, letting startups charge OpenAI model usage costs to users&#39; ChatGPT capacity limits &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251016/p41#a251016p41)
+ - [New Apple TV and Peacock streaming bundles could save you over 30%](https://appleinsider.com/articles/25/10/16/new-apple-tv-and-peacock-streaming-bundles-could-save-you-over-30?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
