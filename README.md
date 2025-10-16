@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [US senators express &#39;profound concern&#39; over EA buyout: &#39;The proposed transaction poses a number of significant foreign influence and national security risks&#39;](https://www.pcgamer.com/gaming-industry/us-senators-express-profound-concern-over-ea-buyout-the-proposed-transaction-poses-a-number-of-significant-foreign-influence-and-national-security-risks/)
- - [Yep, I get why this co-op RPG sandbox that&#39;s part Minecraft, part Skyrim, and also has airships, is one of the most played demos on Steam Next Fest](https://www.pcgamer.com/games/rpg/yep-i-get-why-this-co-op-rpg-sandbox-thats-part-minecraft-part-skyrim-and-also-has-airships-is-one-of-the-most-played-demos-on-steam-next-fest/)
- - [A Lot Of Great Open-World Games Are Super Cheap Right Now](https://kotaku.com/a-lot-of-great-open-world-games-are-super-cheap-right-now-2000635704)<!-- GAME:END -->
+ - [Total War: Warhammer 3 has spent this month being review-bombed over AI bugs specifically and bad vibes in general](https://www.pcgamer.com/games/strategy/total-war-warhammer-3-has-spent-this-month-being-review-bombed-over-ai-bugs-specifically-and-bad-vibes-in-general/)
+ - [Netflix&#39;s Splinter Cell: Deathwatch has already been picked up for a second season](https://www.pcgamer.com/movies-tv/netflixs-splinter-cell-deathwatch-has-already-been-picked-up-for-a-second-season/)
+ - [US senators express &#39;profound concern&#39; over EA buyout: &#39;The proposed transaction poses a number of significant foreign influence and national security risks&#39;](https://www.pcgamer.com/gaming-industry/us-senators-express-profound-concern-over-ea-buyout-the-proposed-transaction-poses-a-number-of-significant-foreign-influence-and-national-security-risks/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
