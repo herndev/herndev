@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
- - ⏩ [Obey who](http://9gag.com/gag/azxDpmz)
- - 👉 [Smooth Recovery](http://9gag.com/gag/ajPM40R)<!-- MEMES:END -->
+ - 💣 [European mind cannot comprehend this](http://9gag.com/gag/aPAdbyQ)
+ - ⏩ [If this video doesnt make you happy, I dont know what will](http://9gag.com/gag/a1mq3jv)
+ - 👉 [A rational decision. Common sense is kicking in.](http://9gag.com/gag/amobez2)<!-- MEMES:END -->
 
 ---
 
