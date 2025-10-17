@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Following A Slow Rollout On Steam, Arc Raiders’ Server Test Is Open To All &lpar;And It’s Super Fun&rpar;](https://kotaku.com/arc-raiders-server-slam-embark-ps5-xbox-steam-epic-2000636671)
- - [Where to find Pansage, Pansear, and Panpour in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-panpour-pansage-pansear-locations/)
- - [ROG Xbox Ally vs. Steam Deck vs. Switch 2 comparison: Which handheld is best?](https://www.polygon.com/rog-xbox-ally-x-steam-deck-switch-2-comparison-analysis/)<!-- GAME:END -->
+ - [I Know What You Did Last Summer, The Twits, and every movie on streaming this week](https://www.polygon.com/new-movies-on-streaming-i-know-what-you-did-last-summer-the-twits/)
+ - [Assassin&#39;s Creed boss says he was forced out in Tencent transition](https://www.polygon.com/assassins-creed-ubisoft-tencent/)
+ - [Sony accuses Tencent of playing a &#39;shell game&#39; with its Horizon-like survival game, seeks a preliminary injunction against it](https://www.pcgamer.com/games/sony-accuses-tencent-of-playing-a-shell-game-with-its-horizon-like-survival-game-seeks-a-preliminary-injunction-against-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
