@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the FBI&#39;s hunt for the person who coerced a 13-year-old into livestreaming his suicide led to the arrest of a German member of the online predator group 764 &lpar;William Wan/Washington Post&rpar;](http://www.techmeme.com/251017/p11#a251017p11)
- - [Three labor unions filed a lawsuit in NY federal court to block the Trump administration from searching visa holders&#39; social media for posts it deems hostile &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/251017/p10#a251017p10)
- - [Source: OpenAI expects to spend 20% to 30% less on AI chips co-developed with Broadcom than on chips from Nvidia, which is notoriously backlogged on GPU orders &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251017/p9#a251017p9)<!-- TECH:END -->
+ - [Anthropic connects Claude to Microsoft Teams, Outlook, and OneDrive](https://www.theverge.com/news/801487/anthropic-claude-microsoft-365-connector-ai)
+ - [OnePlus set to unveil OnePlus 15 flagship lineup this month, and here are the colors](https://www.androidauthority.com/oneplus-15-ace-6-china-launch-date-colors-3608120/)
+ - [Reddit announces that it is expanding its Google Gemini-powered search experience to five new languages: French, German, Spanish, Italian, and Portuguese &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251017/p13#a251017p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
