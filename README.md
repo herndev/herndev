@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and F1 announce a five-year US media rights deal that will bring all races to Apple TV beginning in 2026; sources: Apple is paying about $140M per year &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/251017/p20#a251017p20)
- - [These 8 Automatic Cat Feeders Were the Best We Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-automatic-cat-feeders/)
- - [I Used Squarespace’s Blueprint AI to Design a Website](https://www.wired.com/story/squarespace-blueprint-ai-website-builder/)<!-- TECH:END -->
+ - [These AI glasses promised to make me smarter, and all I got was Clippy for my face](https://www.theverge.com/column/801554/optimizer-halo-smart-glasses-ai-assistant)
+ - [Apple TV seizes F1 pole position with five-year US streaming rights deal](https://appleinsider.com/articles/25/10/17/apple-tv-seizes-f1-pole-position-with-five-year-us-streaming-rights-deal?utm_source=rss)
+ - [Apple TV will be the only place to watch F1 in the US, starting next year](https://www.theverge.com/news/801597/apple-tv-f1-exclusive-sports-racing-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
