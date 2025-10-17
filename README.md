@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Sources: Meta is set to seal an almost $30B financing package for its Louisiana data center; Meta will retain 20% ownership in the Hyperion data center site &lpar;Bloomberg&rpar;](http://www.techmeme.com/251016/p53#a251016p53)
  - [Cherry KW 550 MX LP mechanical keyboard review: Sweet spot of pricing and performance](https://appleinsider.com/articles/25/10/17/cherry-kw-550-mx-lp-mechanical-keyboard-review-sweet-spot-of-pricing-and-performance?utm_source=rss)
- - [AI data centers are building on-site power plants to bypass the overloaded grid and meet soaring electricity demand amid permitting and supply challenges &lpar;Jennifer Hiller/Wall Street Journal&rpar;](http://www.techmeme.com/251016/p52#a251016p52)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Oct. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-oct-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
