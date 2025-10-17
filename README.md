@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic connects Claude to Microsoft Teams, Outlook, and OneDrive](https://www.theverge.com/news/801487/anthropic-claude-microsoft-365-connector-ai)
- - [OnePlus set to unveil OnePlus 15 flagship lineup this month, and here are the colors](https://www.androidauthority.com/oneplus-15-ace-6-china-launch-date-colors-3608120/)
- - [Reddit announces that it is expanding its Google Gemini-powered search experience to five new languages: French, German, Spanish, Italian, and Portuguese &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251017/p13#a251017p13)<!-- TECH:END -->
+ - [Meta is adding more parental controls for teen AI use](https://www.theverge.com/news/801505/meta-ai-chatbot-parental-controls-instagram)
+ - [Here’s when Samsung will ditch Microsoft for photo backups](https://www.androidauthority.com/samsung-gallery-onedrive-support-end-date-3608135/)
+ - [The Galaxy S26 Edge proves Samsung has an identity crisis](https://www.androidauthority.com/galaxy-s26-edge-cancellation-proves-samsung-problems-3607775/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
