@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam hit a new record with over 41.6M concurrent users on October 12, a surge largely sparked by the release of Battlefield 6 &lpar;Kosta Andreadis/TweakTown&rpar;](http://www.techmeme.com/251016/p50#a251016p50)
- - [MacBook Pro rumor points to OLED, touchscreen upgrades next year](https://www.theverge.com/news/801363/apple-macbook-pro-2026-rumor-oled-touchscreen)
- - [Deal: The Litheli Eclair 1000 Portable Power Station has built-in power banks!](https://www.androidauthority.com/litheli-eclair-1000-portable-power-station-deal-3608021/)<!-- TECH:END -->
+ - [A look at ByteDance&#39;s Doubao, which became China&#39;s most popular AI app in August, with over 157M MAUs, thanks in part to its deep integration with Douyin &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/251016/p51#a251016p51)
+ - [Why world models are the next big thing in AI](https://www.theverge.com/column/801370/ai-world-models-general-intuition-medal)
+ - [Steam hit a new record with over 41.6M concurrent users on October 12, a surge largely sparked by the release of Battlefield 6 &lpar;Kosta Andreadis/TweakTown&rpar;](http://www.techmeme.com/251016/p50#a251016p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
