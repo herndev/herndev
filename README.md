@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The creator of the MCU is back with a timely new epic adventure](https://www.polygon.com/ekos-vol-2-kickstarter-exclusive/)
- - [Keeper review: Xbox&#39;s latest is a strange, meditative journey](https://www.polygon.com/keeper-review-double-fine-xbox-game-pass/)
- - [Keeper: A Note from Its Creator on Launch Day](https://news.xbox.com/en-us/2025/10/17/keeper-launch-day-note-from-creator/)<!-- GAME:END -->
+ - [How to Get Started in the World of Pax Dei, Available Now with PC Game Pass](https://news.xbox.com/en-us/2025/10/17/how-to-get-started-in-the-world-of-pax-dei-available-now-with-pc-game-pass/)
+ - [Hisense 32-Inch Smart Roku TV Now Priced Like a Portable Monitor, Cheaper Than Black Friday](https://kotaku.com/hisense-32-inch-smart-roku-tv-now-priced-like-a-portable-monitor-cheaper-than-black-friday-2000636186)
+ - [Death Stranding Director Hideo Kojima Embraces ‘Creating Together With AI’](https://kotaku.com/hideo-kojima-metal-gear-solid-death-stranding-ai-2000636622)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
