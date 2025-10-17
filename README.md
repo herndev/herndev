@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Move b*tch](http://9gag.com/gag/amobZdv)
- - ⏩ [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
- - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
+ - 💣 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
+ - ⏩ [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 👉 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)<!-- MEMES:END -->
 
 ---
 
