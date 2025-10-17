@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The Apple Mac Mini M4 is too good for just $499](https://www.androidauthority.com/apple-mac-mini-m4-deal-5-3608022/)
- - [Apple&#39;s research explains how AI can identify bugs in code and generate QE tests](https://appleinsider.com/articles/25/10/16/apples-research-explains-how-ai-can-identify-bugs-in-code-and-generate-qe-tests?utm_source=rss)
- - [Sources: CME Group plans to debut financial contracts tied to sports games and economic indicators by the end of 2025, including through its FanDuel partnership &lpar;Bloomberg&rpar;](http://www.techmeme.com/251016/p49#a251016p49)<!-- TECH:END -->
+ - [Steam hit a new record with over 41.6M concurrent users on October 12, a surge largely sparked by the release of Battlefield 6 &lpar;Kosta Andreadis/TweakTown&rpar;](http://www.techmeme.com/251016/p50#a251016p50)
+ - [MacBook Pro rumor points to OLED, touchscreen upgrades next year](https://www.theverge.com/news/801363/apple-macbook-pro-2026-rumor-oled-touchscreen)
+ - [Deal: The Litheli Eclair 1000 Portable Power Station has built-in power banks!](https://www.androidauthority.com/litheli-eclair-1000-portable-power-station-deal-3608021/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
