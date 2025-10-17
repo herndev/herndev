@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I Know What You Did Last Summer, The Twits, and every movie on streaming this week](https://www.polygon.com/new-movies-on-streaming-i-know-what-you-did-last-summer-the-twits/)
- - [Assassin&#39;s Creed boss says he was forced out in Tencent transition](https://www.polygon.com/assassins-creed-ubisoft-tencent/)
- - [Sony accuses Tencent of playing a &#39;shell game&#39; with its Horizon-like survival game, seeks a preliminary injunction against it](https://www.pcgamer.com/games/sony-accuses-tencent-of-playing-a-shell-game-with-its-horizon-like-survival-game-seeks-a-preliminary-injunction-against-it/)<!-- GAME:END -->
+ - [Red Dead Redemption 2 Goes Full Mortal Kombat Mode With Tuberculosis Cough Fatality](https://kotaku.com/red-dead-redemption-2-mortal-kombat-mod-2000636690)
+ - [Where to find the different Flabébé colors in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-flabebe-forms-colors-locations-where-to-find/)
+ - [All wild zones in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-wild-zones-list-unlock/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
