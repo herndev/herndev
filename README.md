@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sounds like Doom](http://9gag.com/gag/aND27Rr)
- - ⏩ [Ytho](http://9gag.com/gag/aryrQD7)
- - 👉 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)<!-- MEMES:END -->
+ - 💣 [A chef exposes the parasite &#39;influencers&#39; culture whom invite their selves to restaurants without paying for a good review](http://9gag.com/gag/apRjOEp)
+ - ⏩ [If this video doesnt make you happy, I dont know what will](http://9gag.com/gag/a1mq3jv)
+ - 👉 [Ytho](http://9gag.com/gag/aryrQD7)<!-- MEMES:END -->
 
 ---
 
