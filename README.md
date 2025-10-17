@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Revolut is nearing the completion of a $3B fundraising round that values the company at $75B, up from $45B in a 2024 secondary share sale &lpar;Bloomberg&rpar;](http://www.techmeme.com/251017/p25#a251017p25)
- - [Amazon’s Ring now works with video surveillance company Flock](https://www.theverge.com/news/801856/amazon-ring-partners-flock-video)
- - [Stock up on rechargeable batteries with this deal!](https://www.androidauthority.com/imuto-rechargeable-4-aaa-and-4-aa-batteries-with-charger-deal-3608238/)<!-- TECH:END -->
+ - [Pokémon Legends: Z-A Rotom Phone review: better camera, higher jumps](https://www.theverge.com/games/801113/pokemon-legends-za-rotom-phone-pokedex-review)
+ - [Save $400 on the Motorola Razr Plus or Ultra!](https://www.androidauthority.com/motorola-razr-plus-ultra-deals-3608237/)
+ - [Automaker Stellantis and Pony.ai sign a non-binding agreement to develop robotaxis for deployment in Europe, with plans to start testing in the coming months &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251017/p27#a251017p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
