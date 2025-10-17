@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Warhammer 3&#39;s Tides of Torment DLC will be out on the same day as &#39;a special showcase event where the future of the franchise will be revealed&#39;](https://www.pcgamer.com/games/strategy/total-war-warhammer-3s-tides-of-torment-dlc-will-be-out-on-the-same-day-as-a-special-showcase-event-where-the-future-of-the-franchise-will-be-revealed/)
- - [Today&#39;s Wordle clues, hints and answer for October 17 &lpar;#1581&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-17-2025/)
- - [All 99 Nights in the Forest classes in an overall tier list for beginners, team players, and solo survivors](https://www.pcgamer.com/roblox/99-nights-in-the-forest-classes/)<!-- GAME:END -->
+ - [TP-Link Deco BE25 BE5000 review](https://www.pcgamer.com/hardware/networking/tp-link-deco-be25-be5000-review/)
+ - [TP-Link Archer BE9700 review](https://www.pcgamer.com/hardware/networking/tp-link-archer-be9700-review/)
+ - [TP-Link Deco BE68 BE14000 review](https://www.pcgamer.com/hardware/networking/tp-link-deco-be68-be14000-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
