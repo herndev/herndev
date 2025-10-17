@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S26 Edge out, S26 Plus in: Listing suggests Samsung lineup reversal](https://www.androidauthority.com/galaxy-s26-plus-imei-listing-3608365/)
- - [Google Maps might finally let you personalize your vehicle before hitting the road](https://www.androidauthority.com/google-maps-avatar-settings-apk-teardown-3608362/)
- - [Sources: Google plans to release Gemini 3 in December; it is expected to be more performant across the board, especially in coding and multimodal generation &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251017/p29#a251017p29)<!-- TECH:END -->
+ - [A Nothing Phone 1 user may have figured out how to get Android 16 on their device](https://www.androidauthority.com/nothing-phone-1-android-16-3608405/)
+ - [Sources: Suno is in talks to raise $100M+ at a $2B+ valuation, quadrupling its previous valuation; it raised $125M in 2024 and is generating $100M+ in ARR &lpar;Bloomberg&rpar;](http://www.techmeme.com/251017/p33#a251017p33)
+ - [Marc Benioff apologizes for saying Trump should send the National Guard to SF, says the comments were made out of &quot;an abundance of caution&quot; around Dreamforce &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251017/p32#a251017p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
