@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A clever USB hack might just save QPR2 Beta 3 testers from their bootloops](https://www.androidauthority.com/qpr2-beta-3-fix-3608225/)
- - [SteelSeries makes some of the best wireless gaming earbuds, and they’re 36 percent off](https://www.theverge.com/tech/801041/steelseries-arctis-buds-rtx-5070-gpu-deal-sale)
- - [New Apple Vision Pro with M5 doubles refresh rate of Mac Virtual Display](https://appleinsider.com/articles/25/10/17/new-apple-vision-pro-with-m5-doubles-refresh-rate-of-mac-virtual-display?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Tempo, a stablecoin-focused blockchain developed by Stripe and Paradigm, raised a $500M Series A led by Greenoaks and Thrive Capital at a $5B valuation &lpar;Fortune&rpar;](http://www.techmeme.com/251017/p24#a251017p24)
+ - [You can now preorder AYANEO’s cheapest handheld yet, without the FOMO pricing](https://www.androidauthority.com/ayaneo-pocket-air-mini-launch-3608260/)
+ - [Kelly Reichardt’s anti-heist movie](https://www.theverge.com/entertainment/801651/the-mastermind-kelly-reichardt-director-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
