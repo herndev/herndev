@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Dead Redemption 2 Goes Full Mortal Kombat Mode With Tuberculosis Cough Fatality](https://kotaku.com/red-dead-redemption-2-mortal-kombat-mod-2000636690)
- - [Where to find the different Flabébé colors in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-flabebe-forms-colors-locations-where-to-find/)
- - [All wild zones in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-wild-zones-list-unlock/)<!-- GAME:END -->
+ - [Chickenhare &amp; the Treasure of Spiking-Beard: From Screen to Game](https://news.xbox.com/en-us/2025/10/17/chickenhare-amp-the-treasure-of-spiking-beard/)
+ - [How to evolve Eevee in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-eevee-evolution-glaceon-leafon-espeon-umbreon-sylveon/)
+ - [Red Dead Redemption 2 Goes Full Mortal Kombat Mode With Tuberculosis Cough Fatality](https://kotaku.com/red-dead-redemption-2-mortal-kombat-mod-2000636690)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
