@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman came to police to report sexual harassment. Police threatened to arrest her for describing her attacker.](http://9gag.com/gag/aYQnXQ2)
- - ⏩ [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
- - 👉 [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)<!-- MEMES:END -->
+ - 💣 [Ooops](http://9gag.com/gag/axynLY1)
+ - ⏩ [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
+ - 👉 [Tears of Joy](http://9gag.com/gag/a34pmg1)<!-- MEMES:END -->
 
 ---
 
