@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is adding more parental controls for teen AI use](https://www.theverge.com/news/801505/meta-ai-chatbot-parental-controls-instagram)
- - [Here’s when Samsung will ditch Microsoft for photo backups](https://www.androidauthority.com/samsung-gallery-onedrive-support-end-date-3608135/)
- - [The Galaxy S26 Edge proves Samsung has an identity crisis](https://www.androidauthority.com/galaxy-s26-edge-cancellation-proves-samsung-problems-3607775/)<!-- TECH:END -->
+ - [EssilorLuxottica stock jumps 10%+ after reporting Q3 revenue up 11.7% YoY to €6.9B, with wearables like Ray-Ban Meta contributing 4 percentage points to growth &lpar;CNBC&rpar;](http://www.techmeme.com/251017/p16#a251017p16)
+ - [Best Mattress 2025: We’ve Tested 100-Plus So You Can Sleep Soundly](https://www.wired.com/gallery/best-mattresses/)
+ - [The Blurred Truths of Sora](https://www.wired.com/story/the-blurred-truths-of-sora/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
