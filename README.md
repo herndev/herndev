@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
- - ⏩ [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - 👉 [Gravity always wins](http://9gag.com/gag/ajPMeo1)<!-- MEMES:END -->
+ - 💣 [NETFLIX and Chill Winston.](http://9gag.com/gag/a0eWBLO)
+ - ⏩ [Ytho](http://9gag.com/gag/aryrQD7)
+ - 👉 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)<!-- MEMES:END -->
 
 ---
 
