@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon shares a ‘first look’ at new nuclear facility](https://www.theverge.com/news/801257/amazon-nuclear-energy-reactor-first-look)
- - [Apple SVP Eddy Cue wants to reinvent sports streaming, says it is broken for fans](https://appleinsider.com/articles/25/10/16/apple-svp-eddy-cue-wants-to-reinvent-sports-streaming-says-it-is-broken-for-fans?utm_source=rss)
- - [Heading home? Google Maps might tell you how long it’ll take before you even ask](https://www.androidauthority.com/google-maps-home-travel-time-chip-3608081/)<!-- TECH:END -->
+ - [Deal: The Apple Mac Mini M4 is too good for just $499](https://www.androidauthority.com/apple-mac-mini-m4-deal-5-3608022/)
+ - [Apple&#39;s research explains how AI can identify bugs in code and generate QE tests](https://appleinsider.com/articles/25/10/16/apples-research-explains-how-ai-can-identify-bugs-in-code-and-generate-qe-tests?utm_source=rss)
+ - [Sources: CME Group plans to debut financial contracts tied to sports games and economic indicators by the end of 2025, including through its FanDuel partnership &lpar;Bloomberg&rpar;](http://www.techmeme.com/251016/p49#a251016p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
