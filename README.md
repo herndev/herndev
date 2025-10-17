@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Tempo, a stablecoin-focused blockchain developed by Stripe and Paradigm, raised a $500M Series A led by Greenoaks and Thrive Capital at a $5B valuation &lpar;Fortune&rpar;](http://www.techmeme.com/251017/p24#a251017p24)
- - [You can now preorder AYANEO’s cheapest handheld yet, without the FOMO pricing](https://www.androidauthority.com/ayaneo-pocket-air-mini-launch-3608260/)
- - [Kelly Reichardt’s anti-heist movie](https://www.theverge.com/entertainment/801651/the-mastermind-kelly-reichardt-director-interview)<!-- TECH:END -->
+ - [Sources: Revolut is nearing the completion of a $3B fundraising round that values the company at $75B, up from $45B in a 2024 secondary share sale &lpar;Bloomberg&rpar;](http://www.techmeme.com/251017/p25#a251017p25)
+ - [Amazon’s Ring now works with video surveillance company Flock](https://www.theverge.com/news/801856/amazon-ring-partners-flock-video)
+ - [Stock up on rechargeable batteries with this deal!](https://www.androidauthority.com/imuto-rechargeable-4-aaa-and-4-aa-batteries-with-charger-deal-3608238/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
