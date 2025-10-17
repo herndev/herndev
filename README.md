@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These AI glasses promised to make me smarter, and all I got was Clippy for my face](https://www.theverge.com/column/801554/optimizer-halo-smart-glasses-ai-assistant)
- - [Apple TV seizes F1 pole position with five-year US streaming rights deal](https://appleinsider.com/articles/25/10/17/apple-tv-seizes-f1-pole-position-with-five-year-us-streaming-rights-deal?utm_source=rss)
- - [Apple TV will be the only place to watch F1 in the US, starting next year](https://www.theverge.com/news/801597/apple-tv-f1-exclusive-sports-racing-streaming)<!-- TECH:END -->
+ - [This weirdo Xbox game about a walking lighthouse is a Keeper](https://www.theverge.com/games/801563/keeper-review-xbox-double-fine)
+ - [This tiny clamshell might be your next EDC gaming handheld](https://www.androidauthority.com/miyoo-mini-flip-launch-3608182/)
+ - [Elon Musk Has Turned His Eye to the UK](https://www.wired.com/story/elon-musk-attention-on-uk-tommy-robinson/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
