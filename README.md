@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon Legends: Z-A Rotom Phone review: better camera, higher jumps](https://www.theverge.com/games/801113/pokemon-legends-za-rotom-phone-pokedex-review)
- - [Save $400 on the Motorola Razr Plus or Ultra!](https://www.androidauthority.com/motorola-razr-plus-ultra-deals-3608237/)
- - [Automaker Stellantis and Pony.ai sign a non-binding agreement to develop robotaxis for deployment in Europe, with plans to start testing in the coming months &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251017/p27#a251017p27)<!-- TECH:END -->
+ - [Galaxy S26 Edge out, S26 Plus in: Listing suggests Samsung lineup reversal](https://www.androidauthority.com/galaxy-s26-plus-imei-listing-3608365/)
+ - [Google Maps might finally let you personalize your vehicle before hitting the road](https://www.androidauthority.com/google-maps-avatar-settings-apk-teardown-3608362/)
+ - [Sources: Google plans to release Gemini 3 in December; it is expected to be more performant across the board, especially in coding and multimodal generation &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251017/p29#a251017p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
