@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NETFLIX and Chill Winston.](http://9gag.com/gag/a0eWBLO)
- - ⏩ [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
- - 👉 [Street art.](http://9gag.com/gag/ayNVbvp)<!-- MEMES:END -->
+ - 💣 [Smile and wave boys](http://9gag.com/gag/aQzNWez)
+ - ⏩ [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
+ - 👉 [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)<!-- MEMES:END -->
 
 ---
 
