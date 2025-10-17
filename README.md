@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
- - ⏩ [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
- - 👉 [I showed you my](http://9gag.com/gag/agmZPBn)<!-- MEMES:END -->
+ - 💣 [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)
+ - ⏩ [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
+ - 👉 [Gravity always wins](http://9gag.com/gag/ajPMeo1)<!-- MEMES:END -->
 
 ---
 
