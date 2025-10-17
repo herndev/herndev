@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ooops](http://9gag.com/gag/axynLY1)
- - ⏩ [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
- - 👉 [Tears of Joy](http://9gag.com/gag/a34pmg1)<!-- MEMES:END -->
+ - 💣 [Better not speak freely in the Big 2030](http://9gag.com/gag/aVv1pbP)
+ - ⏩ [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
+ - 👉 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)<!-- MEMES:END -->
 
 ---
 
