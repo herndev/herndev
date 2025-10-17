@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gravity always wins](http://9gag.com/gag/ajPMeo1)
- - ⏩ [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
- - 👉 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)<!-- MEMES:END -->
+ - 💣 [NETFLIX and Chill Winston.](http://9gag.com/gag/a0eWBLO)
+ - ⏩ [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
+ - 👉 [Street art.](http://9gag.com/gag/ayNVbvp)<!-- MEMES:END -->
 
 ---
 
