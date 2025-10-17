@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
- - ⏩ [Gravity always wins](http://9gag.com/gag/ajPMeo1)
- - 👉 [I showed you my](http://9gag.com/gag/agmZPBn)<!-- MEMES:END -->
+ - 💣 [Gravity always wins](http://9gag.com/gag/ajPMeo1)
+ - ⏩ [Ooops](http://9gag.com/gag/axynLY1)
+ - 👉 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)<!-- MEMES:END -->
 
 ---
 
