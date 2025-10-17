@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jabra Enhance Select 700 Review: Still Great Hearing Aids](https://www.wired.com/review/jabra-enhance-select-700/)
- - [Inside macOS 26 Phone app - Big Continuity upgrade with a sleek design](https://appleinsider.com/inside/ios-26/tips/inside-macos-26-phone-app---big-continuity-upgrade-with-a-sleek-design?utm_source=rss)
- - [Switch and save: T-Mobile sweetens the deal on 5G Home Internet and Fiber](https://www.androidauthority.com/t-mobile-5g-home-internet-fiber-discount-3608145/)<!-- TECH:END -->
+ - [Apple and F1 announce a five-year US media rights deal that will bring all races to Apple TV beginning in 2026; sources: Apple is paying about $140M per year &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/251017/p20#a251017p20)
+ - [These 8 Automatic Cat Feeders Were the Best We Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-automatic-cat-feeders/)
+ - [I Used Squarespace’s Blueprint AI to Design a Website](https://www.wired.com/story/squarespace-blueprint-ai-website-builder/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
