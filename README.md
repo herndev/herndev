@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NETFLIX and Chill Winston.](http://9gag.com/gag/a0eWBLO)
- - ⏩ [True](http://9gag.com/gag/aAyNoPL)
- - 👉 [Those darn pirates! &lpar;lol&rpar;](http://9gag.com/gag/aLnNx0z)<!-- MEMES:END -->
+ - 💣 [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)
+ - ⏩ [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
+ - 👉 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)<!-- MEMES:END -->
 
 ---
 
