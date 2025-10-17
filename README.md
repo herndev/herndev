@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Bro...](http://9gag.com/gag/ayNVGPW)
- - ⏩ [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
- - 👉 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)<!-- MEMES:END -->
+ - ⏩ [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
+ - 👉 [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)<!-- MEMES:END -->
 
 ---
 
