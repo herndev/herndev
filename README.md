@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Better not speak freely in the Big 2030](http://9gag.com/gag/aVv1pbP)
+ - 💣 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
  - ⏩ [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
- - 👉 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)<!-- MEMES:END -->
+ - 👉 [Bro...](http://9gag.com/gag/ayNVGPW)<!-- MEMES:END -->
 
 ---
 
