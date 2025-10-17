@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This weirdo Xbox game about a walking lighthouse is a Keeper](https://www.theverge.com/games/801563/keeper-review-xbox-double-fine)
- - [This tiny clamshell might be your next EDC gaming handheld](https://www.androidauthority.com/miyoo-mini-flip-launch-3608182/)
- - [Elon Musk Has Turned His Eye to the UK](https://www.wired.com/story/elon-musk-attention-on-uk-tommy-robinson/)<!-- TECH:END -->
+ - [A clever USB hack might just save QPR2 Beta 3 testers from their bootloops](https://www.androidauthority.com/qpr2-beta-3-fix-3608225/)
+ - [SteelSeries makes some of the best wireless gaming earbuds, and they’re 36 percent off](https://www.theverge.com/tech/801041/steelseries-arctis-buds-rtx-5070-gpu-deal-sale)
+ - [New Apple Vision Pro with M5 doubles refresh rate of Mac Virtual Display](https://appleinsider.com/articles/25/10/17/new-apple-vision-pro-with-m5-doubles-refresh-rate-of-mac-virtual-display?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
