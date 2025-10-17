@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kayak launches a ChatGPT-powered chatbot on its desktop and mobile website that lets users ask travel questions and compare flights, hotels, and car rentals &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251017/p1#a251017p1)
  - [Sources: Meta is set to seal an almost $30B financing package for its Louisiana data center; Meta will retain 20% ownership in the Hyperion data center site &lpar;Bloomberg&rpar;](http://www.techmeme.com/251016/p53#a251016p53)
- - [Cherry KW 550 MX LP mechanical keyboard review: Sweet spot of pricing and performance](https://appleinsider.com/articles/25/10/17/cherry-kw-550-mx-lp-mechanical-keyboard-review-sweet-spot-of-pricing-and-performance?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Oct. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-oct-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cherry KW 550 MX LP mechanical keyboard review: Sweet spot of pricing and performance](https://appleinsider.com/articles/25/10/17/cherry-kw-550-mx-lp-mechanical-keyboard-review-sweet-spot-of-pricing-and-performance?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
