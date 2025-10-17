@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for October 17 &lpar;#1581&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-17-2025/)
  - [All 99 Nights in the Forest classes in an overall tier list for beginners, team players, and solo survivors](https://www.pcgamer.com/roblox/99-nights-in-the-forest-classes/)
- - [This 15″ Gaming Display for Switch, Xbox, and PC Is Nearly Free in Amazon’s Final Clearance Sale](https://kotaku.com/this-15-gaming-display-for-switch-xbox-and-pc-is-nearly-free-in-amazons-final-clearance-sale-2000636099)
- - [EcoFlow Offloads the Delta 2 for Pennies, Clearing Out Leftover Stock Following the Delta 3 Release](https://kotaku.com/ecoflow-offloads-the-delta-2-for-pennies-clearing-out-leftover-stock-following-the-delta-3-release-2000636090)<!-- GAME:END -->
+ - [This 15″ Gaming Display for Switch, Xbox, and PC Is Nearly Free in Amazon’s Final Clearance Sale](https://kotaku.com/this-15-gaming-display-for-switch-xbox-and-pc-is-nearly-free-in-amazons-final-clearance-sale-2000636099)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
