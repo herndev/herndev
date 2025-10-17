@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This 15″ Gaming Display for Switch, Xbox, and PC Is Nearly Free in Amazon’s Final Clearance Sale](https://kotaku.com/this-15-gaming-display-for-switch-xbox-and-pc-is-nearly-free-in-amazons-final-clearance-sale-2000636099)
  - [EcoFlow Offloads the Delta 2 for Pennies, Clearing Out Leftover Stock Following the Delta 3 Release](https://kotaku.com/ecoflow-offloads-the-delta-2-for-pennies-clearing-out-leftover-stock-following-the-delta-3-release-2000636090)
- - [Pokémon Legends: Z-A guides](https://www.polygon.com/pokemon-legends-z-a-plza-guides-walkthroughs-where-to-find/)
- - [Battlefield 6 review](https://www.pcgamer.com/games/fps/battlefield-6-review/)<!-- GAME:END -->
+ - [Pokémon Legends: Z-A guides](https://www.polygon.com/pokemon-legends-z-a-plza-guides-walkthroughs-where-to-find/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
