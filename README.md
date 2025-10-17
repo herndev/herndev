@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
- - ⏩ [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 💣 [Gravity always wins](http://9gag.com/gag/ajPMeo1)
+ - ⏩ [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
  - 👉 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)<!-- MEMES:END -->
 
 ---
