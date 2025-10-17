@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All of The Outer Worlds 2 companions you can recruit to your crew](https://www.pcgamer.com/games/rpg/outer-worlds-2-companions-list/)
- - [One Of The Creepiest Games Of The Year Is Pure Vibes, No Jump Scares](https://kotaku.com/dreamcore-indie-horror-liminal-backrooms-scary-2000636645)
- - [13 Things To Know Before Starting Pokémon Legends: Z-A](https://kotaku.com/pokemon-legends-za-tips-guide-battle-shiny-wild-zone-2000636641)<!-- GAME:END -->
+ - [Following A Slow Rollout On Steam, Arc Raiders’ Server Test Is Open To All &lpar;And It’s Super Fun&rpar;](https://kotaku.com/arc-raiders-server-slam-embark-ps5-xbox-steam-epic-2000636671)
+ - [Where to find Pansage, Pansear, and Panpour in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-panpour-pansage-pansear-locations/)
+ - [ROG Xbox Ally vs. Steam Deck vs. Switch 2 comparison: Which handheld is best?](https://www.polygon.com/rog-xbox-ally-x-steam-deck-switch-2-comparison-analysis/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
