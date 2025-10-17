@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NETFLIX and Chill Winston.](http://9gag.com/gag/a0eWBLO)
- - ⏩ [Ytho](http://9gag.com/gag/aryrQD7)
- - 👉 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)<!-- MEMES:END -->
+ - 💣 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
+ - ⏩ [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 👉 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)<!-- MEMES:END -->
 
 ---
 
