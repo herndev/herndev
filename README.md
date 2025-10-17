@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [JDM: Japanese Drift Master races to Xbox this November](https://news.xbox.com/en-us/2025/10/17/japanese-drift-master-races-to-xbox-november/)
- - [Samsung PRO Plus microSD Card With Adapter Drops to Just $0.07 per GB, Likely Clearing Out Stock](https://kotaku.com/samsung-pro-plus-microsd-card-with-adapter-drops-to-just-0-07-per-gb-likely-clearing-out-stock-2000635774)
- - [Marvel Rivals getting a new PvE Zombies mode with musou vibes](https://www.polygon.com/marvel-rivals-new-pve-zombies-mode/)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 526: Lost in the Game Sauce](https://blog.playstation.com/2025/10/17/official-playstation-podcast-episode-526-lost-in-the-game-sauce/)
+ - [Xbox Game Pass’s New Grinch Game Is Receiving A Lot Of Angry And Horny Reviews](https://kotaku.com/xbox-game-passs-grinch-game-angry-horny-weird-user-reviews-2000636631)
+ - [JDM: Japanese Drift Master races to Xbox this November](https://news.xbox.com/en-us/2025/10/17/japanese-drift-master-races-to-xbox-november/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
