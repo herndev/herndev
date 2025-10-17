@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
- - ⏩ [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
- - 👉 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)<!-- MEMES:END -->
+ - 💣 [NETFLIX and Chill Winston.](http://9gag.com/gag/a0eWBLO)
+ - ⏩ [True](http://9gag.com/gag/aAyNoPL)
+ - 👉 [Those darn pirates! &lpar;lol&rpar;](http://9gag.com/gag/aLnNx0z)<!-- MEMES:END -->
 
 ---
 
