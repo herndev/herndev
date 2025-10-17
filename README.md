@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official PlayStation Podcast Episode 526: Lost in the Game Sauce](https://blog.playstation.com/2025/10/17/official-playstation-podcast-episode-526-lost-in-the-game-sauce/)
- - [Xbox Game Pass’s New Grinch Game Is Receiving A Lot Of Angry And Horny Reviews](https://kotaku.com/xbox-game-passs-grinch-game-angry-horny-weird-user-reviews-2000636631)
- - [JDM: Japanese Drift Master races to Xbox this November](https://news.xbox.com/en-us/2025/10/17/japanese-drift-master-races-to-xbox-november/)<!-- GAME:END -->
+ - [All of The Outer Worlds 2 companions you can recruit to your crew](https://www.pcgamer.com/games/rpg/outer-worlds-2-companions-list/)
+ - [One Of The Creepiest Games Of The Year Is Pure Vibes, No Jump Scares](https://kotaku.com/dreamcore-indie-horror-liminal-backrooms-scary-2000636645)
+ - [13 Things To Know Before Starting Pokémon Legends: Z-A](https://kotaku.com/pokemon-legends-za-tips-guide-battle-shiny-wild-zone-2000636641)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
