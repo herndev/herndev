@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 7 Rebirth director on building the future while remaking the past](https://www.polygon.com/naoki-hamaguchi-interview-final-fantasy-7-remake/)
- - [Steam is officially bigger than Canada with a 41-million concurrent user record](https://www.pcgamer.com/software/platforms/steam-is-officially-bigger-than-canada-with-a-41-million-concurrent-user-record/)
- - [Battlefield 6 devs are trying to find the balance between &#39;zoomers&#39; and &#39;battledads&#39;, following movement nerfs: &#39;We&#39;re looking at adjustments for sure to find a good in-between&#39;](https://www.pcgamer.com/games/fps/battlefield-6-devs-are-trying-to-find-the-balance-between-zoomers-and-battledads-following-movement-nerfs-were-looking-at-adjustments-for-sure-to-find-a-good-in-between/)<!-- GAME:END -->
+ - [The creator of the MCU is back with a timely new epic adventure](https://www.polygon.com/ekos-vol-2-kickstarter-exclusive/)
+ - [Keeper review: Xbox&#39;s latest is a strange, meditative journey](https://www.polygon.com/keeper-review-double-fine-xbox-game-pass/)
+ - [Keeper: A Note from Its Creator on Launch Day](https://news.xbox.com/en-us/2025/10/17/keeper-launch-day-note-from-creator/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
