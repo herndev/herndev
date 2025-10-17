@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TP-Link Deco BE25 BE5000 review](https://www.pcgamer.com/hardware/networking/tp-link-deco-be25-be5000-review/)
- - [TP-Link Archer BE9700 review](https://www.pcgamer.com/hardware/networking/tp-link-archer-be9700-review/)
- - [TP-Link Deco BE68 BE14000 review](https://www.pcgamer.com/hardware/networking/tp-link-deco-be68-be14000-review/)<!-- GAME:END -->
+ - [Final Fantasy 7 Rebirth director on building the future while remaking the past](https://www.polygon.com/naoki-hamaguchi-interview-final-fantasy-7-remake/)
+ - [Steam is officially bigger than Canada with a 41-million concurrent user record](https://www.pcgamer.com/software/platforms/steam-is-officially-bigger-than-canada-with-a-41-million-concurrent-user-record/)
+ - [Battlefield 6 devs are trying to find the balance between &#39;zoomers&#39; and &#39;battledads&#39;, following movement nerfs: &#39;We&#39;re looking at adjustments for sure to find a good in-between&#39;](https://www.pcgamer.com/games/fps/battlefield-6-devs-are-trying-to-find-the-balance-between-zoomers-and-battledads-following-movement-nerfs-were-looking-at-adjustments-for-sure-to-find-a-good-in-between/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
