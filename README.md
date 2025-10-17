@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
- - ⏩ [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
- - 👉 [Bro...](http://9gag.com/gag/ayNVGPW)<!-- MEMES:END -->
+ - 💣 [Ooops](http://9gag.com/gag/axynLY1)
+ - ⏩ [Bro...](http://9gag.com/gag/ayNVGPW)
+ - 👉 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)<!-- MEMES:END -->
 
 ---
 
