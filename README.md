@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Get Started in the World of Pax Dei, Available Now with PC Game Pass](https://news.xbox.com/en-us/2025/10/17/how-to-get-started-in-the-world-of-pax-dei-available-now-with-pc-game-pass/)
- - [Hisense 32-Inch Smart Roku TV Now Priced Like a Portable Monitor, Cheaper Than Black Friday](https://kotaku.com/hisense-32-inch-smart-roku-tv-now-priced-like-a-portable-monitor-cheaper-than-black-friday-2000636186)
- - [Death Stranding Director Hideo Kojima Embraces ‘Creating Together With AI’](https://kotaku.com/hideo-kojima-metal-gear-solid-death-stranding-ai-2000636622)<!-- GAME:END -->
+ - [JDM: Japanese Drift Master races to Xbox this November](https://news.xbox.com/en-us/2025/10/17/japanese-drift-master-races-to-xbox-november/)
+ - [Samsung PRO Plus microSD Card With Adapter Drops to Just $0.07 per GB, Likely Clearing Out Stock](https://kotaku.com/samsung-pro-plus-microsd-card-with-adapter-drops-to-just-0-07-per-gb-likely-clearing-out-stock-2000635774)
+ - [Marvel Rivals getting a new PvE Zombies mode with musou vibes](https://www.polygon.com/marvel-rivals-new-pve-zombies-mode/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
