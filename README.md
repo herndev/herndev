@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft to bring Copilot Actions, which can use apps to complete certain tasks on local files in Windows 11, to the Windows Insider Program and Copilot Labs &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251017/p3#a251017p3)
- - [Sources: Nintendo has asked manufacturers to produce as many as 25M Switch 2 units by the end of March 2026, surpassing analysts&#39; estimates of 17.6M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251017/p4#a251017p4)
- - [Internal documents: Salesforce pitched ICE on using its AI tech to nearly triple the agency&#39;s staff by hiring 10K new officers, improve investigations, and more &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251017/p2#a251017p2)<!-- TECH:END -->
+ - [How the FBI&#39;s hunt for the person who coerced a 13-year-old into livestreaming his suicide led to the arrest of a German member of the online predator group 764 &lpar;William Wan/Washington Post&rpar;](http://www.techmeme.com/251017/p11#a251017p11)
+ - [Three labor unions filed a lawsuit in NY federal court to block the Trump administration from searching visa holders&#39; social media for posts it deems hostile &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/251017/p10#a251017p10)
+ - [Source: OpenAI expects to spend 20% to 30% less on AI chips co-developed with Broadcom than on chips from Nvidia, which is notoriously backlogged on GPU orders &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251017/p9#a251017p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
