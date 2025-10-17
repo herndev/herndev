@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Nothing Phone 1 user may have figured out how to get Android 16 on their device](https://www.androidauthority.com/nothing-phone-1-android-16-3608405/)
- - [Sources: Suno is in talks to raise $100M+ at a $2B+ valuation, quadrupling its previous valuation; it raised $125M in 2024 and is generating $100M+ in ARR &lpar;Bloomberg&rpar;](http://www.techmeme.com/251017/p33#a251017p33)
- - [Marc Benioff apologizes for saying Trump should send the National Guard to SF, says the comments were made out of &quot;an abundance of caution&quot; around Dreamforce &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251017/p32#a251017p32)<!-- TECH:END -->
+ - [Best Indoor Garden Systems: We&#39;ve Been Testing All Year &lpar;2025&rpar;](https://www.wired.com/gallery/best-indoor-gardening-systems/)
+ - [Dreamdata, which offers a B2B marketing analytics platform, raised a $55M Series B led by PeakSpan, bringing its total funding to $67M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251017/p34#a251017p34)
+ - [M5 MacBook Pro, iPad Pro, and Apple Vision Pro, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/17/m5-macbook-pro-ipad-pro-and-apple-vision-pro-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
