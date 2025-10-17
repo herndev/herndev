@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EssilorLuxottica stock jumps 10%+ after reporting Q3 revenue up 11.7% YoY to €6.9B, with wearables like Ray-Ban Meta contributing 4 percentage points to growth &lpar;CNBC&rpar;](http://www.techmeme.com/251017/p16#a251017p16)
- - [Best Mattress 2025: We’ve Tested 100-Plus So You Can Sleep Soundly](https://www.wired.com/gallery/best-mattresses/)
- - [The Blurred Truths of Sora](https://www.wired.com/story/the-blurred-truths-of-sora/)<!-- TECH:END -->
+ - [Jabra Enhance Select 700 Review: Still Great Hearing Aids](https://www.wired.com/review/jabra-enhance-select-700/)
+ - [Inside macOS 26 Phone app - Big Continuity upgrade with a sleek design](https://appleinsider.com/inside/ios-26/tips/inside-macos-26-phone-app---big-continuity-upgrade-with-a-sleek-design?utm_source=rss)
+ - [Switch and save: T-Mobile sweetens the deal on 5G Home Internet and Fiber](https://www.androidauthority.com/t-mobile-5g-home-internet-fiber-discount-3608145/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
