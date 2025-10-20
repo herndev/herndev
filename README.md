@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple adds a new toggle to make Liquid Glass less glassy](https://www.theverge.com/news/802963/apple-liquid-glass-ios-26-1-beta-tint-option)
- - [Reid Hoffman calls Anthropic &quot;one of the good guys&quot; after David Sacks accused the company of running a &quot;regulatory capture strategy based on fear-mongering&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251020/p30#a251020p30)
- - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)<!-- TECH:END -->
+ - [Caveat emptor: Trump Mobile incredibly overcharging for used iPhone 14](https://appleinsider.com/articles/25/10/20/caveat-emptor-trump-mobile-incredibly-overcharging-for-used-iphone-14?utm_source=rss)
+ - [Movie night, music, and mornings: This projector aims to be your cinema and social hub](https://www.androidauthority.com/vibe-by-xgimi-vibe-one-3608769/)
+ - [Think you should design the Pixel 11? Google asks Pixel Superfans for help](https://www.androidauthority.com/pixel-superfans-design-3608746/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
