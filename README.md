@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An eye implant and smart glasses restore some lost vision](https://www.theverge.com/news/802905/eye-implant-smart-glasses-restores-vision)
- - [iOS 26.1 beta 4 gets Liquid Glass opacity setting, Camera Swipe toggle](https://appleinsider.com/articles/25/10/20/ios-261-beta-4-gets-liquid-glass-opacity-setting-camera-swipe-toggle?utm_source=rss)
- - [Google will reportedly let 15 superfans test unreleased Pixel phones](https://www.theverge.com/news/802866/google-pixel-superfans-test-new-phone-trusted-tester-program-report)<!-- TECH:END -->
+ - [Apple adds a new toggle to make Liquid Glass less glassy](https://www.theverge.com/news/802963/apple-liquid-glass-ios-26-1-beta-tint-option)
+ - [Reid Hoffman calls Anthropic &quot;one of the good guys&quot; after David Sacks accused the company of running a &quot;regulatory capture strategy based on fear-mongering&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251020/p30#a251020p30)
+ - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
