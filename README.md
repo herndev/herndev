@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of the best Android Auto dongles now plays nice with Apple CarPlay](https://www.androidauthority.com/aawireless-two-plus-launched-3608290/)
- - [SpaceX launches 10,000th Starlink internet satellite](https://www.theverge.com/news/802509/starlink-launches-10000th-internet-satellite)
- - [Nexperia accuses ousted CEO Zhang Xuezheng of spreading &quot;falsehoods&quot; that the chipmaker is now operating independently in China and of &quot;unauthorized actions&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/251020/p9#a251020p9)<!-- TECH:END -->
+ - [It’s been 5 months since I left T-Mobile, and I have no regrets](https://www.androidauthority.com/five-months-since-i-left-t-mobile-no-regrets-3608328/)
+ - [Zohran Mamdani, the Internet’s Mayor](https://www.wired.com/story/the-big-interview-podcast-zohran-mamdani/)
+ - [SpaceX launched 56 Starlink satellites on separate Falcon 9 rockets on October 19, surpassing 10,000 total satellites launched into low Earth orbit to date &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/251020/p12#a251020p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
