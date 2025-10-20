@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CleanSpark shares jump 12%+ after the bitcoin miner expands into AI infrastructure, hiring Humain&#39;s president Jeffrey Thomas as SVP of AI data centers &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/251020/p23#a251020p23)
- - [This smart lighting app has some spooky freebies to get you in the Halloween mood](https://www.androidauthority.com/smart-light-app-halloween-scene-3608619/)
- - [Anthropic announces Claude Life Sciences, a new offering for researchers that integrates Claude AI models with lab tools like Benchling to boost efficiency &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251020/p22#a251020p22)<!-- TECH:END -->
+ - [Google confirms when Android 16 QPR2 Beta 3 will return](https://www.androidauthority.com/android-16-qpr2-beta-3-return-3608643/)
+ - [Major AWS outage took down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline)
+ - [LangChain, whose open-source framework connects AI apps to real-time data, raised a $125M Series B led by IVP at a $1.25B valuation &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/251020/p24#a251020p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
