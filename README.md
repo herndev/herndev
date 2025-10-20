@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beyond Wall Street soon](http://9gag.com/gag/ae9PoBm)
+ - 💣 [Flag](http://9gag.com/gag/a9yNQBZ)
  - ⏩ [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
- - 👉 [I never would have guessed ...](http://9gag.com/gag/a9yNQNj)<!-- MEMES:END -->
+ - 👉 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)<!-- MEMES:END -->
 
 ---
 
