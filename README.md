@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: AirPods Pro 2 are back on sale at $80 off](https://appleinsider.com/articles/25/10/20/deals-airpods-pro-2-are-back-on-sale-at-80-off?utm_source=rss)
- - [Lenovo’s Legion 5 is a fast, OLED-equipped gaming laptop for $1,050](https://www.theverge.com/tech/802576/lenovo-legion-5-gaming-laptop-nvidia-rtx-deal-sale)
- - [Jane Goodall has one last collaboration with Apple](https://appleinsider.com/articles/25/10/20/jane-goodall-has-one-last-collaboration-with-apple?utm_source=rss)<!-- TECH:END -->
+ - [CleanSpark shares jump 12%+ after the bitcoin miner expands into AI infrastructure, hiring Humain&#39;s president Jeffrey Thomas as SVP of AI data centers &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/251020/p23#a251020p23)
+ - [This smart lighting app has some spooky freebies to get you in the Halloween mood](https://www.androidauthority.com/smart-light-app-halloween-scene-3608619/)
+ - [Anthropic announces Claude Life Sciences, a new offering for researchers that integrates Claude AI models with lab tools like Benchling to boost efficiency &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251020/p22#a251020p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
