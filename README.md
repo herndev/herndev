@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chickenhare &amp; the Treasure of Spiking-Beard: From Screen to Game](https://news.xbox.com/en-us/2025/10/17/chickenhare-amp-the-treasure-of-spiking-beard/)
- - [How to evolve Eevee in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-eevee-evolution-glaceon-leafon-espeon-umbreon-sylveon/)
- - [Red Dead Redemption 2 Goes Full Mortal Kombat Mode With Tuberculosis Cough Fatality](https://kotaku.com/red-dead-redemption-2-mortal-kombat-mod-2000636690)<!-- GAME:END -->
+ - [Roborock QV 35A Is Nearly 40% Off, Roborock Clears Out Prime Day Leftovers at a Record Low](https://kotaku.com/roborock-qv-35a-is-nearly-40-off-roborock-clears-out-prime-day-leftovers-at-a-record-low-2000634453)
+ - [If emulating classic DOS games seems like a pain, there&#39;s a DOSBox fork &#39;aiming for simplicity and ease of use&#39;, now standalone for the first time](https://www.pcgamer.com/games/if-emulating-classic-dos-games-seems-like-a-pain-theres-a-dosbox-fork-aiming-for-simplicity-and-ease-of-use-now-standalone-for-the-first-time/)
+ - [Hearthstone and Warcraft Rumble devs join the over 1900 Blizzard workers to unionize: &#39;We deserve to be heard and respected&#39;](https://www.pcgamer.com/gaming-industry/hearthstone-and-warcraft-rumble-devs-join-the-over-1900-blizzard-workers-to-unionize-we-deserve-to-be-heard-and-respected/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
