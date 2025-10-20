@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Doc: Google launched a Trusted Tester program that will select 15 of its &quot;Superfans&quot; to test unreleased Pixels, using protective cases to disguise the hardware &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251020/p28#a251020p28)
- - [Google Has a Bed Bug Infestation in Its New York Offices](https://www.wired.com/story/theres-a-beg-bug-infestation-at-googles-manhattan-offices/)
- - [Anthropic announces Claude Code on the web and in the Claude iOS app, available in beta as a research preview for Pro and Max users &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/251020/p27#a251020p27)<!-- TECH:END -->
+ - [An eye implant and smart glasses restore some lost vision](https://www.theverge.com/news/802905/eye-implant-smart-glasses-restores-vision)
+ - [iOS 26.1 beta 4 gets Liquid Glass opacity setting, Camera Swipe toggle](https://appleinsider.com/articles/25/10/20/ios-261-beta-4-gets-liquid-glass-opacity-setting-camera-swipe-toggle?utm_source=rss)
+ - [Google will reportedly let 15 superfans test unreleased Pixel phones](https://www.theverge.com/news/802866/google-pixel-superfans-test-new-phone-trusted-tester-program-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
