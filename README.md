@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba Cloud details a GPU pooling system that it claims reduced the number of Nvidia H20 required by 82% when serving dozens of LLMs of up to 72B parameters &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/251019/p16#a251019p16)
  - [Q&amp;A with Jimmy Wales on Wikipedia&#39;s decentralized model, right-wing attacks and political pressure, Elon Musk, protecting volunteer editors, and more &lpar;Lulu Garcia-Navarro/New York Times&rpar;](http://www.techmeme.com/251019/p15#a251019p15)
- - [X is changing how it handles links to try and keep you in the app](https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app)
- - [X is testing a new way of opening links without fully covering an X post, allowing users to see the Like, Repost, and other buttons, starting on iOS &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/251019/p14#a251019p14)<!-- TECH:END -->
+ - [X is changing how it handles links to try and keep you in the app](https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
