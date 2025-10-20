@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is phasing out its Privacy Sandbox technologies; the initiative was launched in 2019 to develop privacy-protecting tech to replace third-party cookies &lpar;Kendra Barnett/Adweek&rpar;](http://www.techmeme.com/251017/p36#a251017p36)
- - [The Biggest Fall Deals at Home Depot &lpar;2025&rpar;](https://www.wired.com/story/home-depot-fall-savings-2025/)
- - [Sources: Li Lin, founder of crypto exchange Huobi, and some of Asia&#39;s earliest Ethereum backers have raised ~$1B to launch a digital asset trust to buy Ether &lpar;Bloomberg&rpar;](http://www.techmeme.com/251017/p35#a251017p35)<!-- TECH:END -->
+ - [X is changing how it handles links to try and keep you in the app](https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app)
+ - [X is testing a new way of opening links without fully covering an X post, allowing users to see the Like, Repost, and other buttons, starting on iOS &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/251019/p14#a251019p14)
+ - [X plans a Handle Marketplace for Premium+ and Business subscribers to search for and request inactive usernames; rare handles can cost from $2,500 to $1M+ &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/251019/p13#a251019p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
