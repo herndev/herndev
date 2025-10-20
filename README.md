@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Play Store overhaul continues with work on new Expressive changes](https://www.androidauthority.com/play-store-expressive-ui-3608641/)
- - [T-Mobile is celebrating Halloween with some of its best free device promotions of the year](https://www.androidauthority.com/t-mobile-halloween-promo-3608660/)
- - [Iniu&amp;#8217;s tiny 10,000mAh power bank is almost half off right now](https://www.theverge.com/tech/799260/iniu-45w-usbc-power-bank-deal-sale)<!-- TECH:END -->
+ - [Doc: Google launched a Trusted Tester program that will select 15 of its &quot;Superfans&quot; to test unreleased Pixels, using protective cases to disguise the hardware &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251020/p28#a251020p28)
+ - [Google Has a Bed Bug Infestation in Its New York Offices](https://www.wired.com/story/theres-a-beg-bug-infestation-at-googles-manhattan-offices/)
+ - [Anthropic announces Claude Code on the web and in the Claude iOS app, available in beta as a research preview for Pro and Max users &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/251020/p27#a251020p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
