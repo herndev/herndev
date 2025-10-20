@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A cheap SanDisk memory card was just found completely unscathed inside an underwater camera found among OceanGate submersible wreckage](https://www.pcgamer.com/hardware/a-cheap-sandisk-memory-card-was-just-found-completely-unscathed-inside-an-underwater-camera-found-among-oceangate-submersible-wreckage/)
- - [Today&#39;s Wordle clues, hints and answer for October 20 &lpar;#1584&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-20-2025/)
- - [Lana Del Rey might have written a Bond theme for 007 First Light](https://www.pcgamer.com/games/action/lana-del-rey-might-have-written-a-bond-theme-for-007-first-light/)<!-- GAME:END -->
+ - [Pokémon Legends: Z-A Pokes Fun At The Most Annoying Kind Of Fan, And It Rules](https://kotaku.com/pokemon-legends-za-society-battle-connoisseurs-jacinthe-2000637284)
+ - [Fallout is coming to a museum near you &lpar;if you are near Las Vegas&rpar;](https://www.pcgamer.com/games/fallout/fallout-is-coming-to-a-museum-near-you-if-you-are-near-las-vegas/)
+ - [Windows 11 25H2 has borked the mouse and keyboard controls in the Windows Recovery Environment, because what would a major update be without a fresh batch of bugs](https://www.pcgamer.com/software/windows/windows-11-25h2-has-borked-the-mouse-and-keyboard-controls-in-the-windows-recovery-environment-because-what-would-a-major-update-be-without-a-fresh-batch-of-bugs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
