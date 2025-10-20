@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
- - ⏩ [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
- - 👉 [Post Something](http://9gag.com/gag/aYQZj6O)<!-- MEMES:END -->
+ - 💣 [No one saw, everything is fine...](https://www.reddit.com/r/funny/comments/1obtk08/no_one_saw_everything_is_fine/)
+ - ⏩ [Legend](http://9gag.com/gag/aqyB95L)
+ - 👉 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)<!-- MEMES:END -->
 
 ---
 
