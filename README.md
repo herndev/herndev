@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Ton Of Great Switch Games Are Ridiculously Cheap Right Now](https://kotaku.com/switch-2-sale-cyberpunk-2077-roguelike-eshop-deals-2000637360)
- - [How to get a Metal Coat in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-za-plza-metal-coat-how-to-get-where-to-find/)
- - [The Greatest Cosplay Appearing At Fan Expo Canada 2025](https://kotaku.com/cosplay-fan-expo-canada-marvel-rivals-kpop-demon-hunters-2000637285)<!-- GAME:END -->
+ - [Catholic church calls for a global AI regulatory framework as the Pope pontificates against the technology arms race, calling for the &#39;audacity of disarmament&#39;](https://www.pcgamer.com/software/ai/catholic-church-calls-for-a-global-ai-regulatory-framework-as-the-pope-pontificates-against-the-technology-arms-race-calling-for-the-audacity-of-disarmament/)
+ - [I tried that viral Battlefield 6 mouse tweak that makes sensitivity more consistent, and yep, my aim already feels smoother](https://www.pcgamer.com/games/fps/i-tried-that-viral-battlefield-6-mouse-tweak-that-makes-sensitivity-more-consistent-and-yep-my-aim-already-feels-smoother/)
+ - [Two Awesome FEAR Games Are On Sale Right Now &lpar;Oh, And FEAR 3 Is Too&rpar;](https://kotaku.com/fear-project-origin-monolith-productions-mordor-2000637400)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
