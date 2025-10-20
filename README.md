@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best VPN Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn/)
- - [Ford’s Mustang Mach-E GT California Special blends the old with the new](https://www.theverge.com/news/801920/ford-mustang-mach-e-california-special-specs)
- - [Oura redesigns app with expanded stress tracking](https://www.theverge.com/news/802527/oura-ring-stress-blood-pressure-test-app-redesign)<!-- TECH:END -->
+ - [Zocdoc CEO: ‘Dr. Google is going to be replaced by Dr. AI’](https://www.theverge.com/podcast/801767/zocdoc-ceo-oliver-kharraz-ai-medical-healthcare-doctors)
+ - [These nonprofits lobbied to regulate OpenAI — then the subpoenas came](https://www.theverge.com/ai-artificial-intelligence/801994/openai-subpoenas-intimidation-tactics-nonprofits-elon-musk-restructuring)
+ - [Q&amp;A with NYC mayoral front-runner Zohran Mamdani on social media, tech leaders, Trump, fame, Apple&#39;s and Google&#39;s &quot;wrong decision&quot; to remove ICEBlock, and more &lpar;Katie Drummond/Wired&rpar;](http://www.techmeme.com/251020/p20#a251020p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
