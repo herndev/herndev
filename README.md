@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at how China gained control over global rare earth supply through state support, domestic industry consolidation, acquiring US companies, and more &lpar;Jon Emont/Wall Street Journal&rpar;](http://www.techmeme.com/251020/p8#a251020p8)
- - [It’s not just you: A ton of services are down or facing issues right now](https://www.androidauthority.com/aws-outage-services-down-3608513/)
- - [A profile of Katherine Boyle, an a16z partner and a friend to JD Vance, as Silicon Valley increasingly adopts her views, including embracing defense tech &lpar;Julia Black/New York Times&rpar;](http://www.techmeme.com/251020/p7#a251020p7)<!-- TECH:END -->
+ - [One of the best Android Auto dongles now plays nice with Apple CarPlay](https://www.androidauthority.com/aawireless-two-plus-launched-3608290/)
+ - [SpaceX launches 10,000th Starlink internet satellite](https://www.theverge.com/news/802509/starlink-launches-10000th-internet-satellite)
+ - [Nexperia accuses ousted CEO Zhang Xuezheng of spreading &quot;falsehoods&quot; that the chipmaker is now operating independently in China and of &quot;unauthorized actions&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/251020/p9#a251020p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
