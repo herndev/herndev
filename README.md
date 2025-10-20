@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese law firm tries suing over App Store practices -- again](https://appleinsider.com/articles/25/10/20/chinese-law-firm-tries-suing-over-app-store-practices----again?utm_source=rss)
- - [The Samsung Galaxy S25 FE is a good upgrade for anyone but newer FE owners](https://www.androidauthority.com/samsung-galaxy-s25-fe-review-3601188/)
- - [Q&amp;A with Asana co-founder Dustin Moskovitz on Facebook, starting Asana, SaaS companies, enterprise AI, the &quot;empty seat problem&quot;, AI modesty, AI safety, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251020/p13#a251020p13)<!-- TECH:END -->
+ - [6 Best VPN Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn/)
+ - [Ford’s Mustang Mach-E GT California Special blends the old with the new](https://www.theverge.com/news/801920/ford-mustang-mach-e-california-special-specs)
+ - [Oura redesigns app with expanded stress tracking](https://www.theverge.com/news/802527/oura-ring-stress-blood-pressure-test-app-redesign)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
