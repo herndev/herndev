@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
+ - 💣 [Meme time](http://9gag.com/gag/awyGqyQ)
  - ⏩ [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
- - 👉 [Apparently, you don&#39;t get a b*tch pass just because you are old](http://9gag.com/gag/a87QLY6)<!-- MEMES:END -->
+ - 👉 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)<!-- MEMES:END -->
 
 ---
 
