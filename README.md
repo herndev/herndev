@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Flag](http://9gag.com/gag/a9yNQBZ)
- - ⏩ [Asking the important questions](http://9gag.com/gag/a5QymQN)
- - 👉 [I never would have guessed ...](http://9gag.com/gag/a9yNQNj)<!-- MEMES:END -->
+ - 💣 [You get what you deserve.](http://9gag.com/gag/a1mq49v)
+ - ⏩ [Flag](http://9gag.com/gag/a9yNQBZ)
+ - 👉 [Asking the important questions](http://9gag.com/gag/a5QymQN)<!-- MEMES:END -->
 
 ---
 
