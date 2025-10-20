@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A cheap SanDisk memory card was just found completely unscathed inside an underwater camera found among OceanGate submersible wreckage](https://www.pcgamer.com/hardware/a-cheap-sandisk-memory-card-was-just-found-completely-unscathed-inside-an-underwater-camera-found-among-oceangate-submersible-wreckage/)
  - [Today&#39;s Wordle clues, hints and answer for October 20 &lpar;#1584&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-20-2025/)
- - [Lana Del Rey might have written a Bond theme for 007 First Light](https://www.pcgamer.com/games/action/lana-del-rey-might-have-written-a-bond-theme-for-007-first-light/)
- - [A Nintendo DS horror game first pitched as a Silent Hill sequel is coming to Steam](https://www.pcgamer.com/games/horror/a-nintendo-ds-horror-game-first-pitched-as-a-silent-hill-sequel-is-coming-to-steam/)<!-- GAME:END -->
+ - [Lana Del Rey might have written a Bond theme for 007 First Light](https://www.pcgamer.com/games/action/lana-del-rey-might-have-written-a-bond-theme-for-007-first-light/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
