@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beyond Wall Street soon](http://9gag.com/gag/ae9PoBm)
+ - 💣 [You know it\u2019s bad when even Asians don\u2019t approve of your construction.](http://9gag.com/gag/ae9PoBB)
  - ⏩ [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
  - 👉 [Flag](http://9gag.com/gag/a9yNQBZ)<!-- MEMES:END -->
 
