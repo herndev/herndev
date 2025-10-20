@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know it\u2019s bad when even Asians don\u2019t approve of your construction.](http://9gag.com/gag/ae9PoBB)
- - ⏩ [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
- - 👉 [Flag](http://9gag.com/gag/a9yNQBZ)<!-- MEMES:END -->
+ - 💣 [Meme time](http://9gag.com/gag/awyGqyQ)
+ - ⏩ [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
+ - 👉 [Turn out they have teeth like hell](http://9gag.com/gag/an78epo)<!-- MEMES:END -->
 
 ---
 
