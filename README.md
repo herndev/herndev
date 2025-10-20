@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No one saw, everything is fine...](https://www.reddit.com/r/funny/comments/1obtk08/no_one_saw_everything_is_fine/)
- - ⏩ [Legend](http://9gag.com/gag/aqyB95L)
+ - 💣 [Legend](http://9gag.com/gag/aqyB95L)
+ - ⏩ [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
  - 👉 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)<!-- MEMES:END -->
 
 ---
