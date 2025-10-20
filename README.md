@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
- - ⏩ [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
- - 👉 [Asking the important questions](http://9gag.com/gag/a5QymQN)<!-- MEMES:END -->
+ - 💣 [Doesn&#39;t everyone do this?](http://9gag.com/gag/ae9PXn5)
+ - ⏩ [Just for the giggles](http://9gag.com/gag/amobDnj)
+ - 👉 [Map of Europe in year 1000.](http://9gag.com/gag/a2vjB81)<!-- MEMES:END -->
 
 ---
 
