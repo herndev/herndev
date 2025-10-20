@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gravity always wins](http://9gag.com/gag/ajPMeo1)
- - ⏩ [Ooops](http://9gag.com/gag/axynLY1)
- - 👉 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)<!-- MEMES:END -->
+ - 💣 [Beyond Wall Street soon](http://9gag.com/gag/ae9PoBm)
+ - ⏩ [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
+ - 👉 [I never would have guessed ...](http://9gag.com/gag/a9yNQNj)<!-- MEMES:END -->
 
 ---
 
