@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meme time](http://9gag.com/gag/awyGqyQ)
- - ⏩ [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
- - 👉 [Turn out they have teeth like hell](http://9gag.com/gag/an78epo)<!-- MEMES:END -->
+ - 💣 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
+ - ⏩ [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
+ - 👉 [Apparently, you don&#39;t get a b*tch pass just because you are old](http://9gag.com/gag/a87QLY6)<!-- MEMES:END -->
 
 ---
 
