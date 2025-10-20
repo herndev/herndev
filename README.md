@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for October 20 &lpar;#1584&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-20-2025/)
  - [Lana Del Rey might have written a Bond theme for 007 First Light](https://www.pcgamer.com/games/action/lana-del-rey-might-have-written-a-bond-theme-for-007-first-light/)
- - [A Nintendo DS horror game first pitched as a Silent Hill sequel is coming to Steam](https://www.pcgamer.com/games/horror/a-nintendo-ds-horror-game-first-pitched-as-a-silent-hill-sequel-is-coming-to-steam/)
- - [Dell Is Quietly Selling This 15″ 1TB Laptop for 63% Off on Amazon, Still Full Price on the Official Site](https://kotaku.com/dell-is-quietly-selling-this-15-1tb-laptop-for-70-off-on-amazon-still-full-price-on-the-official-site-2000634459)<!-- GAME:END -->
+ - [A Nintendo DS horror game first pitched as a Silent Hill sequel is coming to Steam](https://www.pcgamer.com/games/horror/a-nintendo-ds-horror-game-first-pitched-as-a-silent-hill-sequel-is-coming-to-steam/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
