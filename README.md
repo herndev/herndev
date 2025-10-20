@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lay’s Says 42% Of People Didn’t Know Its Potato Chips Were Made From Actual Potatoes](https://kotaku.com/lays-says-42-of-people-didnt-know-its-potato-chips-were-made-from-actual-potatoes-2000637402)
- - [Here Are The 10 Most Popular Free Demos From October’s Steam Next Fest](https://kotaku.com/steam-next-fest-october-2025-might-magic-yapyap-half-sword-2000637407)
- - [Battlefield 6 players are ragging on its &#39;useless&#39; smoke mortar and its pitiful little plumes: &#39;I&#39;ve seen 13 year olds rip vape clouds bigger than this outside of Target&#39;](https://www.pcgamer.com/games/fps/battlefield-6-players-are-ragging-on-its-useless-smoke-mortar-and-its-pitiful-little-plumes-ive-seen-13-year-olds-rip-vape-clouds-bigger-than-this-outside-of-target/)<!-- GAME:END -->
+ - [Here are the Vampire: The Masquerade – Bloodlines 2 unlock times for your region](https://www.pcgamer.com/games/rpg/bloodlines-2-launch-time-release-date/)
+ - [Lay’s Says 42 Percent Of People Didn’t Know Its Potato Chips Were Made From Actual Potatoes](https://kotaku.com/lays-says-42-of-people-didnt-know-its-potato-chips-were-made-from-actual-potatoes-2000637402)
+ - [Here Are The 10 Most Popular Free Demos From October’s Steam Next Fest](https://kotaku.com/steam-next-fest-october-2025-might-magic-yapyap-half-sword-2000637407)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
