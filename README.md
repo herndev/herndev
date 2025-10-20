@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
- - ⏩ [Asking the important questions](http://9gag.com/gag/a5QymQN)
- - 👉 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)<!-- MEMES:END -->
+ - 💣 [Worth seeing again](http://9gag.com/gag/aZZoqwn)
+ - ⏩ [Deserve](http://9gag.com/gag/a9yZjKW)
+ - 👉 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)<!-- MEMES:END -->
 
 ---
 
