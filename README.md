@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zocdoc CEO: ‘Dr. Google is going to be replaced by Dr. AI’](https://www.theverge.com/podcast/801767/zocdoc-ceo-oliver-kharraz-ai-medical-healthcare-doctors)
- - [These nonprofits lobbied to regulate OpenAI — then the subpoenas came](https://www.theverge.com/ai-artificial-intelligence/801994/openai-subpoenas-intimidation-tactics-nonprofits-elon-musk-restructuring)
- - [Q&amp;A with NYC mayoral front-runner Zohran Mamdani on social media, tech leaders, Trump, fame, Apple&#39;s and Google&#39;s &quot;wrong decision&quot; to remove ICEBlock, and more &lpar;Katie Drummond/Wired&rpar;](http://www.techmeme.com/251020/p20#a251020p20)<!-- TECH:END -->
+ - [Deals: AirPods Pro 2 are back on sale at $80 off](https://appleinsider.com/articles/25/10/20/deals-airpods-pro-2-are-back-on-sale-at-80-off?utm_source=rss)
+ - [Lenovo’s Legion 5 is a fast, OLED-equipped gaming laptop for $1,050](https://www.theverge.com/tech/802576/lenovo-legion-5-gaming-laptop-nvidia-rtx-deal-sale)
+ - [Jane Goodall has one last collaboration with Apple](https://appleinsider.com/articles/25/10/20/jane-goodall-has-one-last-collaboration-with-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
