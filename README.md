@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Pure Storage co-founder John Colgrove, as AI-driven demand for data storage pushes the company&#39;s stock to record highs, reaching a $30B market cap &lpar;Alicia Park/Forbes&rpar;](http://www.techmeme.com/251020/p4#a251020p4)
- - [Google just killed Privacy Sandbox: How will this affect you?](https://www.androidauthority.com/google-kills-privacy-sandbox-3608497/)
- - [CoMind, which is developing a non-invasive brain monitoring device with tech similar to Lidar, raised $60M led by Plural, bringing its total funding to $102.5M &lpar;Financial Times&rpar;](http://www.techmeme.com/251020/p3#a251020p3)<!-- TECH:END -->
+ - [A look at how China gained control over global rare earth supply through state support, domestic industry consolidation, acquiring US companies, and more &lpar;Jon Emont/Wall Street Journal&rpar;](http://www.techmeme.com/251020/p8#a251020p8)
+ - [It’s not just you: A ton of services are down or facing issues right now](https://www.androidauthority.com/aws-outage-services-down-3608513/)
+ - [A profile of Katherine Boyle, an a16z partner and a friend to JD Vance, as Silicon Valley increasingly adopts her views, including embracing defense tech &lpar;Julia Black/New York Times&rpar;](http://www.techmeme.com/251020/p7#a251020p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
