@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Roborock QV 35A Is Nearly 40% Off, Roborock Clears Out Prime Day Leftovers at a Record Low](https://kotaku.com/roborock-qv-35a-is-nearly-40-off-roborock-clears-out-prime-day-leftovers-at-a-record-low-2000634453)
- - [If emulating classic DOS games seems like a pain, there&#39;s a DOSBox fork &#39;aiming for simplicity and ease of use&#39;, now standalone for the first time](https://www.pcgamer.com/games/if-emulating-classic-dos-games-seems-like-a-pain-theres-a-dosbox-fork-aiming-for-simplicity-and-ease-of-use-now-standalone-for-the-first-time/)
- - [Hearthstone and Warcraft Rumble devs join the over 1900 Blizzard workers to unionize: &#39;We deserve to be heard and respected&#39;](https://www.pcgamer.com/gaming-industry/hearthstone-and-warcraft-rumble-devs-join-the-over-1900-blizzard-workers-to-unionize-we-deserve-to-be-heard-and-respected/)<!-- GAME:END -->
+ - [A Nintendo DS horror game first pitched as a Silent Hill sequel is coming to Steam](https://www.pcgamer.com/games/horror/a-nintendo-ds-horror-game-first-pitched-as-a-silent-hill-sequel-is-coming-to-steam/)
+ - [Dell Is Quietly Selling This 15″ 1TB Laptop for 63% Off on Amazon, Still Full Price on the Official Site](https://kotaku.com/dell-is-quietly-selling-this-15-1tb-laptop-for-70-off-on-amazon-still-full-price-on-the-official-site-2000634459)
+ - [Roborock QV 35A Is Nearly 40% Off, Roborock Clears Out Prime Day Leftovers at a Record Low](https://kotaku.com/roborock-qv-35a-is-nearly-40-off-roborock-clears-out-prime-day-leftovers-at-a-record-low-2000634453)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
