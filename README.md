@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Our most anticipated 13th-century Mongolian horse game had such a popular Next Fest demo the developers have decided to delay it](https://www.pcgamer.com/games/action/our-most-anticipated-13th-century-mongolian-horse-game-had-such-a-popular-next-fest-demo-the-developers-have-decided-to-delay-it/)
- - [Sonic Team talks the road ahead for Sonic racing](https://www.polygon.com/sonic-team-takashi-iizuka-interview/)
- - [Duck-themed extraction shooter Escape From Duckov sold 500,000 Steam copies in its first 3 days](https://www.pcgamer.com/games/action/duck-themed-extraction-shooter-escape-from-duckov-sold-500-000-steam-copies-in-its-first-3-days/)<!-- GAME:END -->
+ - [A Ton Of Great Switch Games Are Ridiculously Cheap Right Now](https://kotaku.com/switch-2-sale-cyberpunk-2077-roguelike-eshop-deals-2000637360)
+ - [How to get a Metal Coat in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-za-plza-metal-coat-how-to-get-where-to-find/)
+ - [The Greatest Cosplay Appearing At Fan Expo Canada 2025](https://kotaku.com/cosplay-fan-expo-canada-marvel-rivals-kpop-demon-hunters-2000637285)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
