@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms when Android 16 QPR2 Beta 3 will return](https://www.androidauthority.com/android-16-qpr2-beta-3-return-3608643/)
- - [Major AWS outage took down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline)
- - [LangChain, whose open-source framework connects AI apps to real-time data, raised a $125M Series B led by IVP at a $1.25B valuation &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/251020/p24#a251020p24)<!-- TECH:END -->
+ - [Google’s Play Store overhaul continues with work on new Expressive changes](https://www.androidauthority.com/play-store-expressive-ui-3608641/)
+ - [T-Mobile is celebrating Halloween with some of its best free device promotions of the year](https://www.androidauthority.com/t-mobile-halloween-promo-3608660/)
+ - [Iniu&amp;#8217;s tiny 10,000mAh power bank is almost half off right now](https://www.theverge.com/tech/799260/iniu-45w-usbc-power-bank-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
