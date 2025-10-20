@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking the important questions](http://9gag.com/gag/a5QymQN)
- - ⏩ [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
- - 👉 [Beyond Wall Street soon](http://9gag.com/gag/ae9PoBm)<!-- MEMES:END -->
+ - 💣 [Flag](http://9gag.com/gag/a9yNQBZ)
+ - ⏩ [Asking the important questions](http://9gag.com/gag/a5QymQN)
+ - 👉 [I never would have guessed ...](http://9gag.com/gag/a9yNQNj)<!-- MEMES:END -->
 
 ---
 
