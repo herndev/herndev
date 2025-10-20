@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Caveat emptor: Trump Mobile incredibly overcharging for used iPhone 14](https://appleinsider.com/articles/25/10/20/caveat-emptor-trump-mobile-incredibly-overcharging-for-used-iphone-14?utm_source=rss)
- - [Movie night, music, and mornings: This projector aims to be your cinema and social hub](https://www.androidauthority.com/vibe-by-xgimi-vibe-one-3608769/)
- - [Think you should design the Pixel 11? Google asks Pixel Superfans for help](https://www.androidauthority.com/pixel-superfans-design-3608746/)<!-- TECH:END -->
+ - [AWS says service recovery &quot;continues to improve&quot; after an outage in its US-EAST-1 region, first reported at 3:11am ET, that took down numerous major websites &lpar;CNBC&rpar;](http://www.techmeme.com/251020/p32#a251020p32)
+ - [Google confirms when Android 16 QPR2 Beta 3 will return &lpar;Update: It’s back&rpar;](https://www.androidauthority.com/android-16-qpr2-beta-3-return-3608643/)
+ - [Study: brain-computer interface company Science&#39;s PRIMA device, which includes a retinal implant and special glasses, restored vision in some blind patients &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/251020/p31#a251020p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
