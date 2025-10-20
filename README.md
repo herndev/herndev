@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You get what you deserve.](http://9gag.com/gag/a1mq49v)
- - ⏩ [Flag](http://9gag.com/gag/a9yNQBZ)
+ - 💣 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
+ - ⏩ [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
  - 👉 [Asking the important questions](http://9gag.com/gag/a5QymQN)<!-- MEMES:END -->
 
 ---
