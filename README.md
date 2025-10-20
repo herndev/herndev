@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Jimmy Wales on Wikipedia&#39;s decentralized model, right-wing attacks and political pressure, Elon Musk, protecting volunteer editors, and more &lpar;Lulu Garcia-Navarro/New York Times&rpar;](http://www.techmeme.com/251019/p15#a251019p15)
  - [X is changing how it handles links to try and keep you in the app](https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app)
- - [X is testing a new way of opening links without fully covering an X post, allowing users to see the Like, Repost, and other buttons, starting on iOS &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/251019/p14#a251019p14)
- - [X plans a Handle Marketplace for Premium+ and Business subscribers to search for and request inactive usernames; rare handles can cost from $2,500 to $1M+ &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/251019/p13#a251019p13)<!-- TECH:END -->
+ - [X is testing a new way of opening links without fully covering an X post, allowing users to see the Like, Repost, and other buttons, starting on iOS &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/251019/p14#a251019p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
