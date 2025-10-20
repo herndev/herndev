@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doesn&#39;t everyone do this?](http://9gag.com/gag/ae9PXn5)
- - ⏩ [Just for the giggles](http://9gag.com/gag/amobDnj)
- - 👉 [Map of Europe in year 1000.](http://9gag.com/gag/a2vjB81)<!-- MEMES:END -->
+ - 💣 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
+ - ⏩ [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
+ - 👉 [Flag](http://9gag.com/gag/a9yNQBZ)<!-- MEMES:END -->
 
 ---
 
