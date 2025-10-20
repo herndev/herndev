@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s been 5 months since I left T-Mobile, and I have no regrets](https://www.androidauthority.com/five-months-since-i-left-t-mobile-no-regrets-3608328/)
- - [Zohran Mamdani, the Internet’s Mayor](https://www.wired.com/story/the-big-interview-podcast-zohran-mamdani/)
- - [SpaceX launched 56 Starlink satellites on separate Falcon 9 rockets on October 19, surpassing 10,000 total satellites launched into low Earth orbit to date &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/251020/p12#a251020p12)<!-- TECH:END -->
+ - [Chinese law firm tries suing over App Store practices -- again](https://appleinsider.com/articles/25/10/20/chinese-law-firm-tries-suing-over-app-store-practices----again?utm_source=rss)
+ - [The Samsung Galaxy S25 FE is a good upgrade for anyone but newer FE owners](https://www.androidauthority.com/samsung-galaxy-s25-fe-review-3601188/)
+ - [Q&amp;A with Asana co-founder Dustin Moskovitz on Facebook, starting Asana, SaaS companies, enterprise AI, the &quot;empty seat problem&quot;, AI modesty, AI safety, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251020/p13#a251020p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
