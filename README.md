@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends: Z-A Pokes Fun At The Most Annoying Kind Of Fan, And It Rules](https://kotaku.com/pokemon-legends-za-society-battle-connoisseurs-jacinthe-2000637284)
- - [Fallout is coming to a museum near you &lpar;if you are near Las Vegas&rpar;](https://www.pcgamer.com/games/fallout/fallout-is-coming-to-a-museum-near-you-if-you-are-near-las-vegas/)
- - [Windows 11 25H2 has borked the mouse and keyboard controls in the Windows Recovery Environment, because what would a major update be without a fresh batch of bugs](https://www.pcgamer.com/software/windows/windows-11-25h2-has-borked-the-mouse-and-keyboard-controls-in-the-windows-recovery-environment-because-what-would-a-major-update-be-without-a-fresh-batch-of-bugs/)<!-- GAME:END -->
+ - [Duck-themed extraction shooter Escape From Duckov sold 500,000 Steam copies in its first 3 days](https://www.pcgamer.com/games/action/duck-themed-extraction-shooter-escape-from-duckov-sold-500-000-steam-copies-in-its-first-3-days/)
+ - [Fortnite‘s Map Will Reportedly Turn Into Springfield From The Simpsons Next Month](https://kotaku.com/fortnite-simpsons-mini-season-springfield-update-leak-november-2000637296)
+ - [How to get fossil Pokémon in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-fossil-location-tyrunt-amaura-aerodactyl/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
