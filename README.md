@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CEO Weighs In On Streamer Assault At TwitchCon: ‘I Care Deeply About Emiru’](https://kotaku.com/ceo-weighs-in-on-streamer-assault-at-twitchcon-i-care-deeply-about-emiru-2000637601)
- - [This new Humble Bundle has one of my favourite TTRPGs in it, alongside a bunch of expansions, for just $15—or $25 for a nest of great Magpie Games books worth $365](https://www.pcgamer.com/games/rpg/this-new-humble-bundle-has-one-of-my-favourite-ttrpgs-in-it-alongside-a-bunch-of-expansions-for-just-usd15-or-usd25-for-a-nest-of-great-magpie-games-books-worth-usd365/)
- - [LEGO Harry Potter Hogwarts Castle Potions Class Drops to Pennies as Amazon Clears Stock for Spooky Season](https://kotaku.com/lego-harry-potter-hogwarts-castle-potions-class-drops-to-pennies-as-amazon-clears-stock-for-spooky-season-2000637338)<!-- GAME:END -->
+ - [Jurassic World Evolution 3 review: A beautiful and satisfying sim](https://www.polygon.com/jurassic-world-evolution-3-review/)
+ - [Vampire: The Masquerade – Bloodlines 2&#39;s sidequests are terrible, but you can safely skip them all](https://www.pcgamer.com/games/rpg/vampire-the-masquerade-bloodlines-2s-sidequests-are-terrible-but-you-can-safely-skip-them-all/)
+ - [How to find romance in Vampire: The Masquerade – Bloodlines 2](https://www.pcgamer.com/games/rpg/bloodlines-2-romance/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
