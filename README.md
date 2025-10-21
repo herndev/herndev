@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You get what you deserve.](http://9gag.com/gag/a1mq49v)
- - ⏩ [He almost meet the creator](http://9gag.com/gag/avy4pEq)
- - 👉 [Legend](http://9gag.com/gag/aqyB95L)<!-- MEMES:END -->
+ - 💣 [No agenda](http://9gag.com/gag/a2v9z7O)
+ - ⏩ [*Casually steals your Job*](http://9gag.com/gag/a2v9EQ9)
+ - 👉 [The Perfect Storm](http://9gag.com/gag/aGy6YVw)<!-- MEMES:END -->
 
 ---
 
