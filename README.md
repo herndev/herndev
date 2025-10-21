@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Legend](http://9gag.com/gag/aqyB95L)
- - ⏩ [You get what you deserve.](http://9gag.com/gag/a1mq49v)
- - 👉 [My sons threw a party and hired a DJ. I&#39;m calling the cops](http://9gag.com/gag/aQzNYoz)<!-- MEMES:END -->
+ - 💣 [You get what you deserve.](http://9gag.com/gag/a1mq49v)
+ - ⏩ [He almost meet the creator](http://9gag.com/gag/avy4pEq)
+ - 👉 [Legend](http://9gag.com/gag/aqyB95L)<!-- MEMES:END -->
 
 ---
 
