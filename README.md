@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warner Bros. up for sale, Batman&#39;s fate in question](https://www.polygon.com/warner-bros-2025-sale-david-zaslav/)
- - [Don’t Download PS Plus’s Latest Batch Of Games Until You’ve Read This](https://kotaku.com/dont-download-ps-pluss-latest-batch-of-games-until-youve-read-this-2000637598)
- - [Square Enix Should Just Keep The Final Fantasy VII Remakes Going](https://kotaku.com/final-fantasy-7-rebirth-dlc-sequel-battlefield-6-royale-halo-ps5-2000637623)<!-- GAME:END -->
+ - [How to evolve Riolu in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-riolu-evolve-lucario-how-to/)
+ - [Not Enough People Are Playing Xbox’s New Weird, Short, And Very Good Exclusive Game](https://kotaku.com/keeper-the-kotaku-review-xbox-game-pass-how-long-is-it-good-price-2000637702)
+ - [Report: Microsoft Jacks The Price Of Xbox Dev Kits To $2,000](https://kotaku.com/xbox-dev-kit-price-chinese-tariffs-microsoft-2000637701)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
