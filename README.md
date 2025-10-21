@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches new features for its Google AI Studio developer platform, including a revamped &quot;Build&quot; tab to vibe code AI apps &lpar;Alexey Shabanov/TestingCatalog&rpar;](http://www.techmeme.com/251021/p38#a251021p38)
- - [M5 MacBook Pro review roundup: Higher performance, static design](https://appleinsider.com/articles/25/10/21/m5-macbook-pro-review-roundup-higher-performance-static-design?utm_source=rss)
- - [Sources: Apple&#39;s foldable iPad with an 18&quot; screen faces engineering challenges tied to weight, features, and display tech, pushing its debut to 2029 or later &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251021/p37#a251021p37)<!-- TECH:END -->
+ - [Folding iPad release may have been delayed until 2029](https://appleinsider.com/articles/25/10/21/folding-ipad-release-may-have-been-delayed-until-2029?utm_source=rss)
+ - [Anker’s latest noise-canceling sleep earbuds are nearly $40 off](https://www.theverge.com/tech/803737/anker-soundcore-sleep-a30-earbuds-8bitdo-arcade-controller-deal-sale)
+ - [Melania Trump Used as ‘Window-Dressing’ in Elaborate Memecoin Fraud, Legal Filing Claims](https://www.wired.com/story/melania-trump-used-as-window-dressing-in-elaborate-memecoin-fraud-legal-filing-claims/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
