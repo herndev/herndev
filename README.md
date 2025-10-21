@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoreWeave says it won&#39;t increase its $9B offer for data center provider Core Scientific, despite opposition to the deal from major Core Scientific shareholders &lpar;Bloomberg&rpar;](http://www.techmeme.com/251021/p12#a251021p12)
- - [iPhone 17 drives Apple stock to new all-time high](https://appleinsider.com/articles/25/10/20/apple-stock-reaches-new-all-time-high-price-and-still-climbing?utm_source=rss)
- - [Apple challenges the DMA in the EU&#39;s General Court, saying it &quot;imposes hugely onerous and intrusive burdens&quot; at odds with Apple&#39;s rights in the EU marketplace &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251021/p11#a251021p11)<!-- TECH:END -->
+ - [Oakley Meta Vanguard Review: The Do-It-All Smart Glasses](https://www.wired.com/review/oakley-meta-vanguard-smart-glasses/)
+ - [Apple iPad Pro &lpar;M5, 2025&rpar; Review: Tremendously Powerful](https://www.wired.com/review/apple-ipad-pro-m5-2025/)
+ - [These Oakley smart glasses are perfect for weekend warriors and T-ball coaches](https://www.theverge.com/tech/802020/oakley-meta-vanguard-review-smart-glasses-garmin-strava)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
