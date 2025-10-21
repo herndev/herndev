@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No agenda](http://9gag.com/gag/a2v9z7O)
- - ⏩ [Pickpocket Hunters. The Show You Didn&#39;t Know!](http://9gag.com/gag/aPAzvMg)
- - 👉 [Legend](http://9gag.com/gag/aqyB95L)<!-- MEMES:END -->
+ - 💣 [Legend](http://9gag.com/gag/aqyB95L)
+ - ⏩ [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 👉 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)<!-- MEMES:END -->
 
 ---
 
