@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
- - ⏩ [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
- - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
+ - 💣 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
+ - ⏩ [He almost meet the creator](http://9gag.com/gag/avy4pEq)
+ - 👉 [No agenda](http://9gag.com/gag/a2v9z7O)<!-- MEMES:END -->
 
 ---
 
