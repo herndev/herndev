@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple MacBook Pro &lpar;M5, 14-Inch&rpar; Review: More of the Same](https://www.wired.com/review/apple-macbook-pro-m5-14-inch/)
- - [Apple MacBook Pro M5 review: new chip, same greatness](https://www.theverge.com/tech/803349/apple-macbook-pro-14-m5-2025-review)
- - [Google Fi is getting AI-powered noise filters and RCS web messaging](https://www.theverge.com/news/803542/google-fi-rcs-browser-messaging-ai-enhanced-audio)<!-- TECH:END -->
+ - [Deal: This power bank is 64% off and has wireless charging!](https://www.androidauthority.com/uncaged-ergonomics-7-in-1-power-bank-deal-3608935/)
+ - [ChatGPT Atlas will feature an agent mode to let ChatGPT take actions; clicking a search link will show a split-screen with the webpage and a ChatGPT transcript &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/251021/p33#a251021p33)
+ - [Apple MacBook Pro 14 &lpar;M5&rpar; review: feels the same as M4 with a speed upgrade and still good value for money with great battery life, but only a modest update &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/251021/p32#a251021p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
