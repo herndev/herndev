@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nier: Automata creator Yoko Taro says &#39;nearly half&#39; of his autographs &#39;being resold are actually fake&#39;, since he puts &#39;small unknown features&#39; in them](https://www.pcgamer.com/gaming-industry/nier-automata-creator-yoko-taro-says-nearly-half-of-his-autographs-being-resold-are-actually-fake-since-he-puts-small-unknown-features-in-them/)
- - [The first US-made Nvidia Blackwell wafer just came out of TSMC Arizona, but don&#39;t get carried away thinking about RTX 50 Supers yet](https://www.pcgamer.com/hardware/graphics-cards/the-first-us-made-nvidia-blackwell-wafer-just-came-out-of-tsmc-arizona-but-dont-get-carried-away-thinking-about-rtx-50-supers-yet/)
- - [8BitDo Retro R8 review](https://www.pcgamer.com/hardware/gaming-mice/8bitdo-retro-r8-gaming-mouse-review/)<!-- GAME:END -->
+ - [CEO Weighs In On Streamer Assault At TwitchCon: ‘I Care Deeply About Emiru’](https://kotaku.com/ceo-weighs-in-on-streamer-assault-at-twitchcon-i-care-deeply-about-emiru-2000637601)
+ - [This new Humble Bundle has one of my favourite TTRPGs in it, alongside a bunch of expansions, for just $15—or $25 for a nest of great Magpie Games books worth $365](https://www.pcgamer.com/games/rpg/this-new-humble-bundle-has-one-of-my-favourite-ttrpgs-in-it-alongside-a-bunch-of-expansions-for-just-usd15-or-usd25-for-a-nest-of-great-magpie-games-books-worth-usd365/)
+ - [LEGO Harry Potter Hogwarts Castle Potions Class Drops to Pennies as Amazon Clears Stock for Spooky Season](https://kotaku.com/lego-harry-potter-hogwarts-castle-potions-class-drops-to-pennies-as-amazon-clears-stock-for-spooky-season-2000637338)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
