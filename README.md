@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oakley Meta Vanguard Review: The Do-It-All Smart Glasses](https://www.wired.com/review/oakley-meta-vanguard-smart-glasses/)
- - [Apple iPad Pro &lpar;M5, 2025&rpar; Review: Tremendously Powerful](https://www.wired.com/review/apple-ipad-pro-m5-2025/)
- - [These Oakley smart glasses are perfect for weekend warriors and T-ball coaches](https://www.theverge.com/tech/802020/oakley-meta-vanguard-review-smart-glasses-garmin-strava)<!-- TECH:END -->
+ - [Apple goes on the legal offensive against EU Digital Markets Act](https://appleinsider.com/articles/25/10/21/apple-goes-on-the-legal-offensive-against-eu-digital-markets-act?utm_source=rss)
+ - [HBO Max raises prices across all plans: Basic With Ads increases by $1/month to $10.99, Standard by $1.50/month to $18.49, and Premium by $2/month to $22.99 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251021/p21#a251021p21)
+ - [Threat intel company Dataminr plans to acquire cybersecurity threat intel provider ThreatConnect for $290M; Dataminr raised $85M in convertible funding in March &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/251021/p20#a251021p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
