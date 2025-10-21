@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS says service recovery &quot;continues to improve&quot; after an outage in its US-EAST-1 region, first reported at 3:11am ET, that took down numerous major websites &lpar;CNBC&rpar;](http://www.techmeme.com/251020/p32#a251020p32)
- - [Google confirms when Android 16 QPR2 Beta 3 will return &lpar;Update: It’s back&rpar;](https://www.androidauthority.com/android-16-qpr2-beta-3-return-3608643/)
- - [Study: brain-computer interface company Science&#39;s PRIMA device, which includes a retinal implant and special glasses, restored vision in some blind patients &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/251020/p31#a251020p31)<!-- TECH:END -->
+ - [In a letter to two lawmakers, Ticketmaster says it will ban users from operating multiple accounts and shut down its TradeDesk platform after an FTC lawsuit &lpar;Dave Brooks/Billboard&rpar;](http://www.techmeme.com/251020/p34#a251020p34)
+ - [A look at the social debates in Chile over AI investments, emblematic of clashes happening globally over balancing economic growth with environmental concerns &lpar;Paul Mozur/New York Times&rpar;](http://www.techmeme.com/251020/p33#a251020p33)
+ - [Apple&#39;s leaker lawsuit marches on after Jon Prosser misses deadlines](https://appleinsider.com/articles/25/10/20/apples-leaker-lawsuit-marches-on-after-jon-prosser-misses-deadlines?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
