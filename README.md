@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
- - ⏩ [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
+ - 💣 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
+ - ⏩ [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
  - 👉 [Legend](http://9gag.com/gag/aqyB95L)<!-- MEMES:END -->
 
 ---
