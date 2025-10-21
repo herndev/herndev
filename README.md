@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to evolve Riolu in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-riolu-evolve-lucario-how-to/)
- - [Not Enough People Are Playing Xbox’s New Weird, Short, And Very Good Exclusive Game](https://kotaku.com/keeper-the-kotaku-review-xbox-game-pass-how-long-is-it-good-price-2000637702)
- - [Report: Microsoft Jacks The Price Of Xbox Dev Kits To $2,000](https://kotaku.com/xbox-dev-kit-price-chinese-tariffs-microsoft-2000637701)<!-- GAME:END -->
+ - [18 Excellent Horror Games You Can Play For Free With PS Plus This Halloween](https://kotaku.com/ps-plus-horror-halloween-silent-hill-2-free-ps4-ps5-2000637341)
+ - [Netflix Wants To Turn A Board Game About Resource Management Into A Barbie-Sized Hit](https://kotaku.com/netflix-catan-asmodee-game-tv-movie-2000637729)
+ - [How to make it rain in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-rain-weather-change-how-to/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
