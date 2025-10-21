@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
+ - 💣 [Slimes are scrambling to rewrite their own holy book](http://9gag.com/gag/azxognp)
  - ⏩ [Post Something](http://9gag.com/gag/aYQZj6O)
- - 👉 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)<!-- MEMES:END -->
+ - 👉 [The pulsing](http://9gag.com/gag/a0ez8pZ)<!-- MEMES:END -->
 
 ---
 
