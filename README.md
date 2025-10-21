@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Japanese stores are using robots from the startup Telexistence to restock shelves, piloted remotely by Filipino workers whose actions train AI models &lpar;Michael Beltran/Rest of World&rpar;](http://www.techmeme.com/251021/p1#a251021p1)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Oct. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-21/#ftag=CAD590a51e)
- - [How to share files from macOS Tahoe to Windows](https://appleinsider.com/inside/macos-tahoe/tips/how-to-share-files-from-macos-tahoe-to-windows?utm_source=rss)<!-- TECH:END -->
+ - [Analysis: agencies have hired hundreds of thousands of &quot;chatters&quot; to impersonate 4M+ OnlyFans creators, as many Filipino chatters struggle with mental health &lpar;Michael Beltran/Nikkei Asia&rpar;](http://www.techmeme.com/251021/p2#a251021p2)
+ - [From flights to events: Google Wallet now supports Android 16’s Live Updates](https://www.androidauthority.com/google-wallet-android-16-live-updates-3608801/)
+ - [Some Japanese stores are using robots from the startup Telexistence to restock shelves, piloted remotely by Filipino workers whose actions train AI models &lpar;Michael Beltran/Rest of World&rpar;](http://www.techmeme.com/251021/p1#a251021p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
