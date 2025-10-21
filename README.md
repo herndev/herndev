@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
- - ⏩ [He almost meet the creator](http://9gag.com/gag/avy4pEq)
- - 👉 [No agenda](http://9gag.com/gag/a2v9z7O)<!-- MEMES:END -->
+ - ⏩ [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
+ - 👉 [Legend](http://9gag.com/gag/aqyB95L)<!-- MEMES:END -->
 
 ---
 
