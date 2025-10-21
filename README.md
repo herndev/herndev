@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
- - ⏩ [You get what you deserve.](http://9gag.com/gag/a1mq49v)
- - 👉 [The pulsing](http://9gag.com/gag/a0ez8pZ)<!-- MEMES:END -->
+ - 💣 [The pulsing](http://9gag.com/gag/a0ez8pZ)
+ - ⏩ [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
+ - 👉 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)<!-- MEMES:END -->
 
 ---
 
