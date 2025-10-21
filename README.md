@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: This power bank is 64% off and has wireless charging!](https://www.androidauthority.com/uncaged-ergonomics-7-in-1-power-bank-deal-3608935/)
- - [ChatGPT Atlas will feature an agent mode to let ChatGPT take actions; clicking a search link will show a split-screen with the webpage and a ChatGPT transcript &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/251021/p33#a251021p33)
- - [Apple MacBook Pro 14 &lpar;M5&rpar; review: feels the same as M4 with a speed upgrade and still good value for money with great battery life, but only a modest update &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/251021/p32#a251021p32)<!-- TECH:END -->
+ - [Google launches new features for its Google AI Studio developer platform, including a revamped &quot;Build&quot; tab to vibe code AI apps &lpar;Alexey Shabanov/TestingCatalog&rpar;](http://www.techmeme.com/251021/p38#a251021p38)
+ - [M5 MacBook Pro review roundup: Higher performance, static design](https://appleinsider.com/articles/25/10/21/m5-macbook-pro-review-roundup-higher-performance-static-design?utm_source=rss)
+ - [Sources: Apple&#39;s foldable iPad with an 18&quot; screen faces engineering challenges tied to weight, features, and display tech, pushing its debut to 2029 or later &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251021/p37#a251021p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
