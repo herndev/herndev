@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some Japanese stores are using robots from the startup Telexistence to restock shelves, piloted remotely by Filipino workers whose actions train AI models &lpar;Michael Beltran/Rest of World&rpar;](http://www.techmeme.com/251021/p1#a251021p1)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Oct. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-21/#ftag=CAD590a51e)
- - [How to share files from macOS Tahoe to Windows](https://appleinsider.com/inside/macos-tahoe/tips/how-to-share-files-from-macos-tahoe-to-windows?utm_source=rss)
- - [To secure vast compute for OpenAI, Sam Altman&#39;s deal spree pits Silicon Valley giants against each other as they race to cash in, making OpenAI too big to fail &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/251020/p36#a251020p36)<!-- TECH:END -->
+ - [How to share files from macOS Tahoe to Windows](https://appleinsider.com/inside/macos-tahoe/tips/how-to-share-files-from-macos-tahoe-to-windows?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
