@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Folding iPad release may have been delayed until 2029](https://appleinsider.com/articles/25/10/21/folding-ipad-release-may-have-been-delayed-until-2029?utm_source=rss)
- - [Anker’s latest noise-canceling sleep earbuds are nearly $40 off](https://www.theverge.com/tech/803737/anker-soundcore-sleep-a30-earbuds-8bitdo-arcade-controller-deal-sale)
- - [Melania Trump Used as ‘Window-Dressing’ in Elaborate Memecoin Fraud, Legal Filing Claims](https://www.wired.com/story/melania-trump-used-as-window-dressing-in-elaborate-memecoin-fraud-legal-filing-claims/)<!-- TECH:END -->
+ - [Texas Instruments reports Q3 revenue up 14% YoY to $4.74B, vs. $4.64B est., and forecasts Q4 revenue and profit below estimates; TXN drops 6%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251021/p44#a251021p44)
+ - [Pixel phones will get a smarter always-on display that saves battery life](https://www.androidauthority.com/always-on-display-inactivity-detection-rumor-3609052/)
+ - [DraftKings acquires predictions platform Railbird as it prepares to launch its mobile platform DraftKings Predictions in the coming months &lpar;Contessa Brewer/CNBC&rpar;](http://www.techmeme.com/251021/p43#a251021p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
