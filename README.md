@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nexos.ai, which helps companies adopt AI tools by acting as a middleman between employees and AI systems, raised a €30M Series A co-led by Index and Evantic &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251021/p3#a251021p3)
  - [Analysis: agencies have hired hundreds of thousands of &quot;chatters&quot; to impersonate 4M+ OnlyFans creators, as many Filipino chatters struggle with mental health &lpar;Michael Beltran/Nikkei Asia&rpar;](http://www.techmeme.com/251021/p2#a251021p2)
- - [From flights to events: Google Wallet now supports Android 16’s Live Updates](https://www.androidauthority.com/google-wallet-android-16-live-updates-3608801/)
- - [Some Japanese stores are using robots from the startup Telexistence to restock shelves, piloted remotely by Filipino workers whose actions train AI models &lpar;Michael Beltran/Rest of World&rpar;](http://www.techmeme.com/251021/p1#a251021p1)<!-- TECH:END -->
+ - [From flights to events: Google Wallet now supports Android 16’s Live Updates](https://www.androidauthority.com/google-wallet-android-16-live-updates-3608801/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
