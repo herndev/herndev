@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
- - ⏩ [Legend](http://9gag.com/gag/aqyB95L)
+ - 💣 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
+ - ⏩ [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
  - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
 
 ---
