@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for October 21 &lpar;#1585&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-21-2025/)
  - [Festival of Accord: Dreamspell comes to Monster Hunter Wilds starting October 22](https://blog.playstation.com/2025/10/20/festival-of-accord-dreamspell-comes-to-monster-hunter-wilds-starting-october-22/)
- - [Festival of Accord: Dreamspell comes to Monster Hunter Wilds starting October 22](https://blog.playstation.com/2025/10/20/festival-of-accord-dreamspell-comes-to-monster-hunter-wilds-starting-october-22/)
- - [Dyson Quietly Clears Out the Supersonic, Salon-Grade Hair Dryer Now Going for Peanuts](https://kotaku.com/dyson-quietly-clears-out-the-supersonic-salon-grade-hair-dryer-now-going-for-peanuts-2000637346)<!-- GAME:END -->
+ - [Festival of Accord: Dreamspell comes to Monster Hunter Wilds starting October 22](https://blog.playstation.com/2025/10/20/festival-of-accord-dreamspell-comes-to-monster-hunter-wilds-starting-october-22/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
