@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No agenda](http://9gag.com/gag/a2v9z7O)
- - ⏩ [*Casually steals your Job*](http://9gag.com/gag/a2v9EQ9)
- - 👉 [The Perfect Storm](http://9gag.com/gag/aGy6YVw)<!-- MEMES:END -->
+ - 💣 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
+ - ⏩ [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 👉 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)<!-- MEMES:END -->
 
 ---
 
