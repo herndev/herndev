@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
- - ⏩ [Legend](http://9gag.com/gag/aqyB95L)
- - 👉 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)<!-- MEMES:END -->
+ - 💣 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
+ - ⏩ [`Widerlich`](http://9gag.com/gag/aQzB6pe)
+ - 👉 [Legend](http://9gag.com/gag/aqyB95L)<!-- MEMES:END -->
 
 ---
 
