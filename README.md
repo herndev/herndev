@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas Instruments reports Q3 revenue up 14% YoY to $4.74B, vs. $4.64B est., and forecasts Q4 revenue and profit below estimates; TXN drops 6%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251021/p44#a251021p44)
- - [Pixel phones will get a smarter always-on display that saves battery life](https://www.androidauthority.com/always-on-display-inactivity-detection-rumor-3609052/)
- - [DraftKings acquires predictions platform Railbird as it prepares to launch its mobile platform DraftKings Predictions in the coming months &lpar;Contessa Brewer/CNBC&rpar;](http://www.techmeme.com/251021/p43#a251021p43)<!-- TECH:END -->
+ - [Google Fi is improving audio quality, bill summaries, and more for its first ‘Feature Reveal’](https://www.androidauthority.com/google-fi-audio-quality-and-other-improvements-3609044/)
+ - [Google’s latest Android Canary is finally available for the entire Pixel family](https://www.androidauthority.com/android-canary-2510-3609064/)
+ - [Filing: Satya Nadella&#39;s total pay for fiscal 2025 rose nearly 22% YoY from $79.1M to $96.5M, including $84.2M in stock awards; MSFT is up ~23% so far in 2025 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251021/p47#a251021p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
