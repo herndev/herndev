@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - ⏩ [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
+ - 💣 [No agenda](http://9gag.com/gag/a2v9z7O)
+ - ⏩ [Pickpocket Hunters. The Show You Didn&#39;t Know!](http://9gag.com/gag/aPAzvMg)
  - 👉 [Legend](http://9gag.com/gag/aqyB95L)<!-- MEMES:END -->
 
 ---
