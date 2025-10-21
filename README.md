@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Playground Basketball codes for October 2025: coins](https://www.pcgamer.com/games/roblox/playground-basketball-codes/)
- - [Adam Driver and Steven Soderbergh tried to make a Star Wars movie, but Disney said no](https://www.polygon.com/adam-driver-steven-soderbergh-ben-solo-star-wars-movie-disney/)
- - [MTG&#39;s most popular cube finally comes to Arena](https://www.polygon.com/mtg-arena-powered-cube-magic-the-gathering-vintage/)<!-- GAME:END -->
+ - [Nier: Automata creator Yoko Taro says &#39;nearly half&#39; of his autographs &#39;being resold are actually fake&#39;, since he puts &#39;small unknown features&#39; in them](https://www.pcgamer.com/gaming-industry/nier-automata-creator-yoko-taro-says-nearly-half-of-his-autographs-being-resold-are-actually-fake-since-he-puts-small-unknown-features-in-them/)
+ - [The first US-made Nvidia Blackwell wafer just came out of TSMC Arizona, but don&#39;t get carried away thinking about RTX 50 Supers yet](https://www.pcgamer.com/hardware/graphics-cards/the-first-us-made-nvidia-blackwell-wafer-just-came-out-of-tsmc-arizona-but-dont-get-carried-away-thinking-about-rtx-50-supers-yet/)
+ - [8BitDo Retro R8 review](https://www.pcgamer.com/hardware/gaming-mice/8bitdo-retro-r8-gaming-mouse-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
