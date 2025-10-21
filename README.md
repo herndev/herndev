@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Live could soon get this convenient and overdue audio feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-voice-feature-apk-teardown-3608814/)
- - [A South Korean court dismisses a K-pop-related stock manipulation case against Kakao founder Brian Kim; prosecutors had sought a 15-year prison sentence &lpar;Bloomberg&rpar;](http://www.techmeme.com/251021/p5#a251021p5)
- - [Sources: Chinese DRAM chipmaker CXMT plans a Shanghai IPO as soon as Q1 2026, targeting an up to ~$42B valuation and aiming to raise between ~$2.8B and ~$5.6B &lpar;Reuters&rpar;](http://www.techmeme.com/251021/p4#a251021p4)<!-- TECH:END -->
+ - [Luminkey Magger68 Plus HE Review: Mechanical Heart](https://www.wired.com/review/luminkey-magger68-plus-he/)
+ - [Yelp’s AI can now take reservations over the phone](https://www.theverge.com/news/802529/yelp-ai-host-receptionist)
+ - [A look at Amazon&#39;s Sparrow, Cardinal, Proteus, and other warehouse robots, taking over roles like selecting and picking items, carrying shipping carts, and more &lpar;Karen Weise/New York Times&rpar;](http://www.techmeme.com/251021/p9#a251021p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
