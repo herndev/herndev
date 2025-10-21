@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
- - ⏩ [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
- - 👉 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)<!-- MEMES:END -->
+ - 💣 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
+ - ⏩ [You get what you deserve.](http://9gag.com/gag/a1mq49v)
+ - 👉 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)<!-- MEMES:END -->
 
 ---
 
