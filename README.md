@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are the Vampire: The Masquerade – Bloodlines 2 unlock times for your region](https://www.pcgamer.com/games/rpg/bloodlines-2-launch-time-release-date/)
- - [Lay’s Says 42 Percent Of People Didn’t Know Its Potato Chips Were Made From Actual Potatoes](https://kotaku.com/lays-says-42-of-people-didnt-know-its-potato-chips-were-made-from-actual-potatoes-2000637402)
- - [Here Are The 10 Most Popular Free Demos From October’s Steam Next Fest](https://kotaku.com/steam-next-fest-october-2025-might-magic-yapyap-half-sword-2000637407)<!-- GAME:END -->
+ - [Where Shadows Fall, Legends Rise: Ninja Gaiden 4 is Available Today for Xbox](https://news.xbox.com/en-us/2025/10/20/ninja-gaiden-4-is-available-today-for-xbox/)
+ - [Ninja Gaiden 4 review: Team Ninja and Platinum bring new blood to franchise](https://www.polygon.com/ninja-gaiden-4-review/)
+ - [Damn, It Feels So Good To Have Ninja Gaiden Back](https://kotaku.com/ninja-gaiden-4-review-ryu-weapons-combat-story-2000637393)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
