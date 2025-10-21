@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Luminkey Magger68 Plus HE Review: Mechanical Heart](https://www.wired.com/review/luminkey-magger68-plus-he/)
- - [Yelp’s AI can now take reservations over the phone](https://www.theverge.com/news/802529/yelp-ai-host-receptionist)
- - [A look at Amazon&#39;s Sparrow, Cardinal, Proteus, and other warehouse robots, taking over roles like selecting and picking items, carrying shipping carts, and more &lpar;Karen Weise/New York Times&rpar;](http://www.techmeme.com/251021/p9#a251021p9)<!-- TECH:END -->
+ - [CoreWeave says it won&#39;t increase its $9B offer for data center provider Core Scientific, despite opposition to the deal from major Core Scientific shareholders &lpar;Bloomberg&rpar;](http://www.techmeme.com/251021/p12#a251021p12)
+ - [iPhone 17 drives Apple stock to new all-time high](https://appleinsider.com/articles/25/10/20/apple-stock-reaches-new-all-time-high-price-and-still-climbing?utm_source=rss)
+ - [Apple challenges the DMA in the EU&#39;s General Court, saying it &quot;imposes hugely onerous and intrusive burdens&quot; at odds with Apple&#39;s rights in the EU marketplace &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251021/p11#a251021p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
