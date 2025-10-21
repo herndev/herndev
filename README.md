@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jurassic World Evolution 3 review: A beautiful and satisfying sim](https://www.polygon.com/jurassic-world-evolution-3-review/)
- - [Vampire: The Masquerade – Bloodlines 2&#39;s sidequests are terrible, but you can safely skip them all](https://www.pcgamer.com/games/rpg/vampire-the-masquerade-bloodlines-2s-sidequests-are-terrible-but-you-can-safely-skip-them-all/)
- - [How to find romance in Vampire: The Masquerade – Bloodlines 2](https://www.pcgamer.com/games/rpg/bloodlines-2-romance/)<!-- GAME:END -->
+ - [Warner Bros. up for sale, Batman&#39;s fate in question](https://www.polygon.com/warner-bros-2025-sale-david-zaslav/)
+ - [Don’t Download PS Plus’s Latest Batch Of Games Until You’ve Read This](https://kotaku.com/dont-download-ps-pluss-latest-batch-of-games-until-youve-read-this-2000637598)
+ - [Square Enix Should Just Keep The Final Fantasy VII Remakes Going](https://kotaku.com/final-fantasy-7-rebirth-dlc-sequel-battlefield-6-royale-halo-ps5-2000637623)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
