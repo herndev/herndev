@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Fi is improving audio quality, bill summaries, and more for its first ‘Feature Reveal’](https://www.androidauthority.com/google-fi-audio-quality-and-other-improvements-3609044/)
- - [Google’s latest Android Canary is finally available for the entire Pixel family](https://www.androidauthority.com/android-canary-2510-3609064/)
- - [Filing: Satya Nadella&#39;s total pay for fiscal 2025 rose nearly 22% YoY from $79.1M to $96.5M, including $84.2M in stock awards; MSFT is up ~23% so far in 2025 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251021/p47#a251021p47)<!-- TECH:END -->
+ - [Netflix is &amp;#8216;judiciously&amp;#8217; expanding into interactive experiences](https://www.theverge.com/news/803097/netflix-games-interactive-experiences-real-time-voting-q3-2025-earnings)
+ - [Findem, an AI-powered talent acquisition startup, raised $51M in equity and debt, including a $36M Series C led by SLW, taking its total funding to $105M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251021/p49#a251021p49)
+ - [The iPhone 17’s selfie camera is to blame for delayed Project Indigo support](https://www.theverge.com/tech/803712/adobe-project-indigo-camera-app-iphone-17-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
