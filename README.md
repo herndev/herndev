@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter to two lawmakers, Ticketmaster says it will ban users from operating multiple accounts and shut down its TradeDesk platform after an FTC lawsuit &lpar;Dave Brooks/Billboard&rpar;](http://www.techmeme.com/251020/p34#a251020p34)
- - [A look at the social debates in Chile over AI investments, emblematic of clashes happening globally over balancing economic growth with environmental concerns &lpar;Paul Mozur/New York Times&rpar;](http://www.techmeme.com/251020/p33#a251020p33)
- - [Apple&#39;s leaker lawsuit marches on after Jon Prosser misses deadlines](https://appleinsider.com/articles/25/10/20/apples-leaker-lawsuit-marches-on-after-jon-prosser-misses-deadlines?utm_source=rss)<!-- TECH:END -->
+ - [Google’s new deadline for Epic consequences is October 29th](https://www.theverge.com/news/803143/googles-new-deadline-for-epic-consequences-is-october-29th)
+ - [Bryan Cranston and SAG-AFTRA say OpenAI is taking their deepfake concerns seriously](https://www.theverge.com/news/803141/openai-sora-bryan-cranston-deepfakes)
+ - [Epomaker Luma 84 review: Low-profile let-down for Mac typists](https://appleinsider.com/articles/25/10/21/epomaker-luma-84-review-low-profile-let-down-for-mac-typists?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
