@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where Shadows Fall, Legends Rise: Ninja Gaiden 4 is Available Today for Xbox](https://news.xbox.com/en-us/2025/10/20/ninja-gaiden-4-is-available-today-for-xbox/)
- - [Ninja Gaiden 4 review: Team Ninja and Platinum bring new blood to franchise](https://www.polygon.com/ninja-gaiden-4-review/)
- - [Damn, It Feels So Good To Have Ninja Gaiden Back](https://kotaku.com/ninja-gaiden-4-review-ryu-weapons-combat-story-2000637393)<!-- GAME:END -->
+ - [Festival of Accord: Dreamspell comes to Monster Hunter Wilds starting October 22](https://blog.playstation.com/2025/10/20/festival-of-accord-dreamspell-comes-to-monster-hunter-wilds-starting-october-22/)
+ - [Dyson Quietly Clears Out the Supersonic, Salon-Grade Hair Dryer Now Going for Peanuts](https://kotaku.com/dyson-quietly-clears-out-the-supersonic-salon-grade-hair-dryer-now-going-for-peanuts-2000637346)
+ - [Where Shadows Fall, Legends Rise: Ninja Gaiden 4 is Available Today for Xbox](https://news.xbox.com/en-us/2025/10/20/ninja-gaiden-4-is-available-today-for-xbox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
