@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This PS2 Game Is Still Sitting On A Delaware Walmart Shelf 16 Years Later](https://kotaku.com/unsold-ps2-game-walmart-reddit-pbr-bull-riding-weird-reddit-2000637727)
- - [The Steam Deck’s Game-Specific Landing Pages Are Really Misleading](https://kotaku.com/steam-deck-verified-valve-ff7r-avowed-ninja-gaiden-2000637741)
- - [&#39;Controller players are winning slightly more in close-range engagements&#39;: Treyarch throws a live grenade into &#39;controller vs mouse&#39; debate, says aim assist will be less forgiving in Black Ops 7](https://www.pcgamer.com/games/call-of-duty/controller-players-are-winning-slightly-more-in-close-range-engagements-treyarch-throws-a-live-grenade-into-controller-vs-mouse-debate-says-aim-assist-will-be-less-forgiving-in-black-ops-7/)<!-- GAME:END -->
+ - [All Anarch Tag locations in Vampire: The Masquerade – Bloodlines 2](https://www.pcgamer.com/games/rpg/bloodlines-2-anarch-tag-locations/)
+ - [Check Out This Really Awesome Moment From Arc Raiders’ Server Slam This Weekend](https://kotaku.com/arc-raiders-leaper-server-slam-pvpve-extraction-2000637774)
+ - [Dropout&#39;s Superfan tier makes the subscription more expensive for fans who want to pay more](https://www.polygon.com/dropout-superfan-optional-price-increase/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
