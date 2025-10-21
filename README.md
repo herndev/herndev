@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether, the world&#39;s largest issuer of stablecoins, says it has hit 500M users; the supply of USDT nears ~$182B while Circle&#39;s USDC has ~$75B in circulation &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/251021/p23#a251021p23)
- - [Ricoh is making a dedicated black and white camera](https://www.theverge.com/news/803328/ricoh-gr-iv-monochrome-black-and-white-camera)
- - [Samsung Galaxy XR launches tonight, and here’s where to watch](https://www.androidauthority.com/samsung-galaxy-xr-watch-3608865/)<!-- TECH:END -->
+ - [This 6-pound phone case wants to cure your screen addiction — with pain](https://www.androidauthority.com/6-pound-phone-case-3608900/)
+ - [OnlyFans CEO Keily Blair says the platform has paid out $25B to creators since its founding in 2016; OnlyFans takes a 20% fee on subscriptions and content sales &lpar;Rose Henderson/Bloomberg&rpar;](http://www.techmeme.com/251021/p26#a251021p26)
+ - [The AWS Outage Was a Nightmare for College Students](https://www.wired.com/story/the-aws-outage-was-a-nightmare-for-college-students/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
