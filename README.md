@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nexos.ai, which helps companies adopt AI tools by acting as a middleman between employees and AI systems, raised a €30M Series A co-led by Index and Evantic &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251021/p3#a251021p3)
- - [Analysis: agencies have hired hundreds of thousands of &quot;chatters&quot; to impersonate 4M+ OnlyFans creators, as many Filipino chatters struggle with mental health &lpar;Michael Beltran/Nikkei Asia&rpar;](http://www.techmeme.com/251021/p2#a251021p2)
- - [From flights to events: Google Wallet now supports Android 16’s Live Updates](https://www.androidauthority.com/google-wallet-android-16-live-updates-3608801/)<!-- TECH:END -->
+ - [Gemini Live could soon get this convenient and overdue audio feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/gemini-live-voice-feature-apk-teardown-3608814/)
+ - [A South Korean court dismisses a K-pop-related stock manipulation case against Kakao founder Brian Kim; prosecutors had sought a 15-year prison sentence &lpar;Bloomberg&rpar;](http://www.techmeme.com/251021/p5#a251021p5)
+ - [Sources: Chinese DRAM chipmaker CXMT plans a Shanghai IPO as soon as Q1 2026, targeting an up to ~$42B valuation and aiming to raise between ~$2.8B and ~$5.6B &lpar;Reuters&rpar;](http://www.techmeme.com/251021/p4#a251021p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
