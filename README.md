@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld studio Pocketpair says its new publishing division won&#39;t handle games that use generative AI: &#39;We don&#39;t believe in it&#39;](https://www.pcgamer.com/software/ai/palworld-studio-pocketpair-says-its-new-publishing-division-wont-handle-games-that-use-generative-ai-we-dont-believe-in-it/)
- - [HP 17-Inch High-End Laptop Drops $2230, Now It’s Cheaper Than a Budget Laptop](https://kotaku.com/hp-17-inch-high-end-laptop-drops-2230-now-its-cheaper-than-a-budget-laptop-2000637790)
- - [This Free Halloween MMO Is Wonderful, But Only Around For A Limited Time](https://kotaku.com/halloween-game-spooky-free-pumpkins-fall-ghosts-2000637783)<!-- GAME:END -->
+ - [FMV dating sims are booming in Asia, inspired in part by &#39;micro-dramas&#39; popular on TikTok: &#39;It&#39;s not actually real life, but it feels like real life&#39;](https://www.pcgamer.com/games/adventure/fmv-dating-sims-are-booming-in-asia-inspired-in-part-by-micro-dramas-popular-on-tiktok-its-not-actually-real-life-but-it-feels-like-real-life/)
+ - [Anker’s 25000mAh Laptop Power Bank with Triple 100W USB-C Is Now Selling for Pennies on Amazon](https://kotaku.com/ankers-25000mah-laptop-power-bank-with-triple-100w-usb-c-is-now-selling-for-pennies-on-amazon-2000637801)
+ - [Palworld studio Pocketpair says its new publishing division won&#39;t handle games that use generative AI: &#39;We don&#39;t believe in it&#39;](https://www.pcgamer.com/software/ai/palworld-studio-pocketpair-says-its-new-publishing-division-wont-handle-games-that-use-generative-ai-we-dont-believe-in-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
