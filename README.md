@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This 6-pound phone case wants to cure your screen addiction — with pain](https://www.androidauthority.com/6-pound-phone-case-3608900/)
- - [OnlyFans CEO Keily Blair says the platform has paid out $25B to creators since its founding in 2016; OnlyFans takes a 20% fee on subscriptions and content sales &lpar;Rose Henderson/Bloomberg&rpar;](http://www.techmeme.com/251021/p26#a251021p26)
- - [The AWS Outage Was a Nightmare for College Students](https://www.wired.com/story/the-aws-outage-was-a-nightmare-for-college-students/)<!-- TECH:END -->
+ - [Apple MacBook Pro &lpar;M5, 14-Inch&rpar; Review: More of the Same](https://www.wired.com/review/apple-macbook-pro-m5-14-inch/)
+ - [Apple MacBook Pro M5 review: new chip, same greatness](https://www.theverge.com/tech/803349/apple-macbook-pro-14-m5-2025-review)
+ - [Google Fi is getting AI-powered noise filters and RCS web messaging](https://www.theverge.com/news/803542/google-fi-rcs-browser-messaging-ai-enhanced-audio)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
