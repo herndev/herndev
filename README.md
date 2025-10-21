@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
+ - 💣 [Legend](http://9gag.com/gag/aqyB95L)
  - ⏩ [You get what you deserve.](http://9gag.com/gag/a1mq49v)
- - 👉 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)<!-- MEMES:END -->
+ - 👉 [My sons threw a party and hired a DJ. I&#39;m calling the cops](http://9gag.com/gag/aQzNYoz)<!-- MEMES:END -->
 
 ---
 
