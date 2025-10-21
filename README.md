@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A sign for a dildo shop... under a sign for an adult superstore](https://www.reddit.com/r/funny/comments/1ocn7bk/a_sign_for_a_dildo_shop_under_a_sign_for_an_adult/)
- - ⏩ [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - 👉 [Post Something](http://9gag.com/gag/aYQZj6O)<!-- MEMES:END -->
+ - 💣 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
+ - ⏩ [Post Something](http://9gag.com/gag/aYQZj6O)
+ - 👉 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)<!-- MEMES:END -->
 
 ---
 
