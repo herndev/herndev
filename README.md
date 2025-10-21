@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple goes on the legal offensive against EU Digital Markets Act](https://appleinsider.com/articles/25/10/21/apple-goes-on-the-legal-offensive-against-eu-digital-markets-act?utm_source=rss)
- - [HBO Max raises prices across all plans: Basic With Ads increases by $1/month to $10.99, Standard by $1.50/month to $18.49, and Premium by $2/month to $22.99 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251021/p21#a251021p21)
- - [Threat intel company Dataminr plans to acquire cybersecurity threat intel provider ThreatConnect for $290M; Dataminr raised $85M in convertible funding in March &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/251021/p20#a251021p20)<!-- TECH:END -->
+ - [Tether, the world&#39;s largest issuer of stablecoins, says it has hit 500M users; the supply of USDT nears ~$182B while Circle&#39;s USDC has ~$75B in circulation &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/251021/p23#a251021p23)
+ - [Ricoh is making a dedicated black and white camera](https://www.theverge.com/news/803328/ricoh-gr-iv-monochrome-black-and-white-camera)
+ - [Samsung Galaxy XR launches tonight, and here’s where to watch](https://www.androidauthority.com/samsung-galaxy-xr-watch-3608865/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
