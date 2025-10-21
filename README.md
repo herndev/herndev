@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [18 Excellent Horror Games You Can Play For Free With PS Plus This Halloween](https://kotaku.com/ps-plus-horror-halloween-silent-hill-2-free-ps4-ps5-2000637341)
- - [Netflix Wants To Turn A Board Game About Resource Management Into A Barbie-Sized Hit](https://kotaku.com/netflix-catan-asmodee-game-tv-movie-2000637729)
- - [How to make it rain in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-rain-weather-change-how-to/)<!-- GAME:END -->
+ - [This PS2 Game Is Still Sitting On A Delaware Walmart Shelf 16 Years Later](https://kotaku.com/unsold-ps2-game-walmart-reddit-pbr-bull-riding-weird-reddit-2000637727)
+ - [The Steam Deck’s Game-Specific Landing Pages Are Really Misleading](https://kotaku.com/steam-deck-verified-valve-ff7r-avowed-ninja-gaiden-2000637741)
+ - [&#39;Controller players are winning slightly more in close-range engagements&#39;: Treyarch throws a live grenade into &#39;controller vs mouse&#39; debate, says aim assist will be less forgiving in Black Ops 7](https://www.pcgamer.com/games/call-of-duty/controller-players-are-winning-slightly-more-in-close-range-engagements-treyarch-throws-a-live-grenade-into-controller-vs-mouse-debate-says-aim-assist-will-be-less-forgiving-in-black-ops-7/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
