@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The pulsing](http://9gag.com/gag/a0ez8pZ)
- - ⏩ [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
- - 👉 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)<!-- MEMES:END -->
+ - 💣 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - ⏩ [Legend](http://9gag.com/gag/aqyB95L)
+ - 👉 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)<!-- MEMES:END -->
 
 ---
 
