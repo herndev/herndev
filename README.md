@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Slimes are scrambling to rewrite their own holy book](http://9gag.com/gag/azxognp)
- - ⏩ [Post Something](http://9gag.com/gag/aYQZj6O)
+ - 💣 [Post Something](http://9gag.com/gag/aYQZj6O)
+ - ⏩ [Slimes are scrambling to rewrite their own holy book](http://9gag.com/gag/azxognp)
  - 👉 [The pulsing](http://9gag.com/gag/a0ez8pZ)<!-- MEMES:END -->
 
 ---
