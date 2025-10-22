@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Slimes are scrambling to rewrite their own holy book](http://9gag.com/gag/azxognp)
- - ⏩ [Killer meltdown in court after receiving life sentence while his mother curses the victim&#39;s family](http://9gag.com/gag/a6Z4dKe)
- - 👉 [Jeremy Clarkson died last night...](http://9gag.com/gag/a4PmKG6)<!-- MEMES:END -->
+ - 💣 [Legend](http://9gag.com/gag/aqyB95L)
+ - ⏩ [Slimes are scrambling to rewrite their own holy book](http://9gag.com/gag/azxognp)
+ - 👉 [Harmless pranks are the best kind \ud83d\ude02](http://9gag.com/gag/ayNZ7wr)<!-- MEMES:END -->
 
 ---
 
