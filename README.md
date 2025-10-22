@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is &amp;#8216;judiciously&amp;#8217; expanding into interactive experiences](https://www.theverge.com/news/803097/netflix-games-interactive-experiences-real-time-voting-q3-2025-earnings)
- - [Findem, an AI-powered talent acquisition startup, raised $51M in equity and debt, including a $36M Series C led by SLW, taking its total funding to $105M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251021/p49#a251021p49)
- - [The iPhone 17’s selfie camera is to blame for delayed Project Indigo support](https://www.theverge.com/tech/803712/adobe-project-indigo-camera-app-iphone-17-support)<!-- TECH:END -->
+ - [Polymarket and Kalshi surpassed $2B in notional trading volume in the week ending Oct. 19, exceeding the previous peak during the 2024 US presidential election &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/251021/p50#a251021p50)
+ - [The white Ember Mug 2 hits record-low price!](https://www.androidauthority.com/ember-mug-2-deal-9-3609099/)
+ - [Netflix is &amp;#8216;judiciously&amp;#8217; expanding into interactive experiences](https://www.theverge.com/news/803097/netflix-games-interactive-experiences-real-time-voting-q3-2025-earnings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
