@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sony-Ericsson bluetooth remote control CAR-100](http://9gag.com/gag/aYQZbPv)
- - ⏩ [Mildly interesting](http://9gag.com/gag/aVv4Qbv)
- - 👉 [I miss Top Gear humor !](http://9gag.com/gag/a87QbjY)<!-- MEMES:END -->
+ - 💣 [Slimes are scrambling to rewrite their own holy book](http://9gag.com/gag/azxognp)
+ - ⏩ [Killer meltdown in court after receiving life sentence while his mother curses the victim&#39;s family](http://9gag.com/gag/a6Z4dKe)
+ - 👉 [Jeremy Clarkson died last night...](http://9gag.com/gag/a4PmKG6)<!-- MEMES:END -->
 
 ---
 
