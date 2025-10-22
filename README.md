@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - ⏩ [Legend](http://9gag.com/gag/aqyB95L)
- - 👉 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)<!-- MEMES:END -->
+ - 💣 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - ⏩ [The pulsing](http://9gag.com/gag/a0ez8pZ)
+ - 👉 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)<!-- MEMES:END -->
 
 ---
 
