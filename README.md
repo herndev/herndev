@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I Hope My Outer Worlds 2 Companions Really Do Try To Kill Me](https://kotaku.com/outer-worlds-2-companion-list-faction-loyalty-2000638303)
- - [How to fish in Escape From Duckov and where to cast your line out in Ground Zero](https://www.pcgamer.com/games/action/escape-from-duckov-fishing-how-to/)
- - [This One New Battlefield 6 Skin Is Causing A Meltdown](https://kotaku.com/new-battlefield-6-skin-is-causing-community-meltdown-grounded-ea-2000638294)<!-- GAME:END -->
+ - [Battlefield 6 shouldn&#39;t wait 38 days to drop two exciting maps it desperately needs](https://www.pcgamer.com/games/fps/battlefield-6-shouldnt-wait-38-days-to-drop-two-exciting-maps-it-desperately-needs/)
+ - [The Scarface video game is back with a bizarre re-release rollout](https://www.polygon.com/scarface-world-is-yours-game-steam-pc-epic-games-store/)
+ - [How to evolve Spritzee in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-evolve-spritzee-requirements-trade-code/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
