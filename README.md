@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EBU/BBC study: 45% of responses from top AI assistants misrepresented news content with at least one significant issue and 31% showed serious sourcing problems &lpar;Olivia Le Poidevin/Reuters&rpar;](http://www.techmeme.com/251022/p11#a251022p11)
- - [Electricity demand from data centers powering the AI boom has caused a gas turbine supply crunch, as the US becomes the epicenter of new gas-fired power plants &lpar;Financial Times&rpar;](http://www.techmeme.com/251022/p10#a251022p10)
- - [Keycard, which lets enterprises manage AI agent access to internal systems, raised a $30M Series A led by Acrew Capital and a $8M seed led by a16z and boldstart &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/251022/p9#a251022p9)<!-- TECH:END -->
+ - [Google Wallet now makes adding new cards as effortless as it always should have been](https://www.androidauthority.com/google-wallet-update-nfc-cards-3609130/)
+ - [The Pixel’s Connected Cameras feature is getting an overdue upgrade](https://www.androidauthority.com/google-pixel-connected-cameras-feature-upgrade-3609116/)
+ - [Best Internet Providers in Seattle, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-seattle-wa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
