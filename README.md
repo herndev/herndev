@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never play with guns, kids, or this will happen](http://9gag.com/gag/a2v9POO)
- - ⏩ [Hard right-winger Sanae Takaichi has officially become Japan\u2019s first female Prime Minister. Takaichi has promised a crackdown on migration into Japan.](http://9gag.com/gag/apRzovM)
- - 👉 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)<!-- MEMES:END -->
+ - 💣 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - ⏩ [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
+ - 👉 [Guess if real or AI](http://9gag.com/gag/aXPQbo2)<!-- MEMES:END -->
 
 ---
 
