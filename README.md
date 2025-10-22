@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Escape From Duckov might look like a parody, but it&#39;s a full-fledged, full-featured singleplayer bottling of extraction shooter juice](https://www.pcgamer.com/games/third-person-shooter/escape-from-duckov-might-look-like-a-parody-but-its-a-full-fledged-full-featured-singleplayer-bottling-of-extraction-shooter-juice/)
- - [Steam&#39;s latest &#39;experiment&#39; is a new way of discovering games that&#39;s actually really convenient and useful](https://www.pcgamer.com/games/steams-latest-experiment-is-a-new-way-of-discovering-games-thats-actually-really-convenient-and-useful/)
- - [One NFL Team Sucks So Much The Coaches Took Their Video Games Away](https://kotaku.com/nfl-ravens-baltimore-losing-record-coaches-took-video-games-away-2000638322)<!-- GAME:END -->
+ - [Back by popular demand: Can you guess the game based only on a blurb from a Steam review? Take Part 2 of our critical quiz!](https://www.pcgamer.com/games/back-by-popular-demand-can-you-guess-the-game-based-only-on-a-blurb-from-a-steam-review-take-part-2-of-our-critical-quiz/)
+ - [All Cross of Saint James locations in Vampire: The Masquerade – Bloodlines 2](https://www.pcgamer.com/games/rpg/bloodlines-2-cross-of-saint-james-locations/)
+ - [LEGO Droideka Model Is Selling for Pennies, Star Wars Droid Figure Has Never Been This Cheap](https://kotaku.com/lego-droideka-model-is-selling-for-pennies-star-wars-droid-figure-has-never-been-this-cheap-2000638337)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
