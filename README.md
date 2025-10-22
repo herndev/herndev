@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
- - ⏩ [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)
- - 👉 [Jeremy Clarkson died last night...](http://9gag.com/gag/a4PmKG6)<!-- MEMES:END -->
+ - 💣 [College students reactions to OJ being found not guilty.](http://9gag.com/gag/aE0ywNx)
+ - ⏩ [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
+ - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
 
 ---
 
