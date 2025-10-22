@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Legend](http://9gag.com/gag/aqyB95L)
- - ⏩ [Slimes are scrambling to rewrite their own holy book](http://9gag.com/gag/azxognp)
- - 👉 [Harmless pranks are the best kind \ud83d\ude02](http://9gag.com/gag/ayNZ7wr)<!-- MEMES:END -->
+ - ⏩ [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 👉 [The pulsing](http://9gag.com/gag/a0ez8pZ)<!-- MEMES:END -->
 
 ---
 
