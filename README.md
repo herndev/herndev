@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18 A20 chip will cost TSMC a lot more to make](https://appleinsider.com/articles/25/10/22/iphone-18-a20-chip-will-cost-tsmc-a-lot-more-to-make?utm_source=rss)
- - [I tested the new ChatGPT browser, and it makes Chrome feel like a dinosaur](https://www.androidauthority.com/chatgpt-atlas-hands-on-3609188/)
- - [Google is working to fix one of Gemini’s biggest pet peeves](https://www.androidauthority.com/google-gemini-mic-lock-3609163/)<!-- TECH:END -->
+ - [Enhance your iPad productivity with ESR&#39;s selection of keyboards, cases &amp; more](https://appleinsider.com/articles/25/10/22/enhance-your-ipad-productivity-with-esrs-selection-of-keyboards-cases-more?utm_source=rss)
+ - [The Best Gifts for Rock Climbers &lpar;2025&rpar;: Coros, Meta, Gramicci](https://www.wired.com/gallery/gifts-for-rock-climbers/)
+ - [Samsung’s new XR headset is secretly a Pixel](https://www.androidauthority.com/samsung-galaxy-xr-pixel-3608315/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
