@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ubisoft servers? What&#39;s that?](http://9gag.com/gag/aYQZbv0)
- - ⏩ [I miss Top Gear humor !](http://9gag.com/gag/a87QbjY)
- - 👉 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)<!-- MEMES:END -->
+ - 💣 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
+ - ⏩ [Legend](http://9gag.com/gag/aqyB95L)
+ - 👉 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)<!-- MEMES:END -->
 
 ---
 
