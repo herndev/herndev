@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Fallout fan just made the coolest Pixel Watch 4 face ever](https://www.androidauthority.com/pixel-watch-4-pip-boy-watch-face-3609361/)
- - [Reddit sues Perplexity for allegedly ripping its content to feed AI](https://www.theverge.com/news/804660/reddit-suing-perplexity-data-scrapers-ai-lawsuit)
- - [Hot deal: Get a Google Pixel 10 Pro XL $600 discount from Mint Mobile](https://www.androidauthority.com/google-pixel-10-pro-xl-mint-mobile-plan-deal-3609308/)<!-- TECH:END -->
+ - [Get the Samsung Galaxy S25 Edge at a record-low price before the deal is gone!](https://www.androidauthority.com/samsung-galaxy-s25-edge-deal-10-3609307/)
+ - [Kuo joins iPhone Air supply chain cutback claim chorus](https://appleinsider.com/articles/25/10/22/kuo-joins-iphone-air-supply-chain-cutback-claim-chorus?utm_source=rss)
+ - [Sources: Kalshi is receiving funding offers from VC investors at $10B-$12B or higher valuations, just weeks after it announced a $300M round at a $5B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p36#a251022p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
