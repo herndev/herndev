@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&amp;#8217;s reportedly pulling back on iPhone Air production](https://www.theverge.com/news/804758/iphone-air-sales-production-targets-drop)
- - [Save $200 on the Starlink Mini Kit and stay connected anywhere!](https://www.androidauthority.com/starlink-mini-kit-deal-3609306/)
- - [Tinder plans to expand its facial verification feature to all new US users in the coming months, following its rollout in seven countries and in California &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/251022/p38#a251022p38)<!-- TECH:END -->
+ - [The wait is over: The AYN Odin 3 gaming handheld is finally up for sale](https://www.androidauthority.com/ayn-odin-3-up-for-sale-3609402/)
+ - [Amazon wants to buy ‘thousands’ of Rivian’s pedal-assist cargo bikes](https://www.theverge.com/news/804889/amazon-rivian-also-tmq-quad-ebike-delivery)
+ - [SAP reports Q3 revenue up 7% YoY to €9.08B, cloud revenue up 22% to €5.29B, below €5.33B est., and current cloud backlog up 23% to €18.84B &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251022/p41#a251022p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
