@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just to make this clear](http://9gag.com/gag/aPAzyqG)
- - ⏩ [Guess if real or AI](http://9gag.com/gag/aXPQbo2)
- - 👉 [Is this how to deal with them?](http://9gag.com/gag/avy4pqW)<!-- MEMES:END -->
+ - 💣 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
+ - ⏩ [Just to make this clear](http://9gag.com/gag/aPAzyqG)
+ - 👉 [Whats black, and white, and dead all over](http://9gag.com/gag/ayNZ0XY)<!-- MEMES:END -->
 
 ---
 
