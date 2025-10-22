@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The wait is over: The AYN Odin 3 gaming handheld is finally up for sale](https://www.androidauthority.com/ayn-odin-3-up-for-sale-3609402/)
- - [Amazon wants to buy ‘thousands’ of Rivian’s pedal-assist cargo bikes](https://www.theverge.com/news/804889/amazon-rivian-also-tmq-quad-ebike-delivery)
- - [SAP reports Q3 revenue up 7% YoY to €9.08B, cloud revenue up 22% to €5.29B, below €5.33B est., and current cloud backlog up 23% to €18.84B &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251022/p41#a251022p41)<!-- TECH:END -->
+ - [Q&amp;A with GM CEO Mary Barra and CPO Sterling Anderson on GM&#39;s plans for AI and autonomous driving, ditching Apple CarPlay and Android Auto on all its cars, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251022/p42#a251022p42)
+ - [Fandom&amp;#8217;s CEO has left the company](https://www.theverge.com/entertainment/804821/fandom-ceo-perkins-miller-departure)
+ - [Owners of Luxury Smart Beds Literally Lost Sleep Due to AWS Outage](https://www.cnet.com/health/sleep/owners-of-luxury-smart-beds-literally-lost-sleep-due-to-aws-outage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
