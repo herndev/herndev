@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
- - ⏩ [Slimes are scrambling to rewrite their own holy book](http://9gag.com/gag/azxognp)
- - 👉 [When an brainwashed kid gets educated by an Iranian man about `Palestine`](http://9gag.com/gag/aW4PZVK)<!-- MEMES:END -->
+ - 💣 [Post Something](http://9gag.com/gag/aYQZj6O)
+ - ⏩ [The pulsing](http://9gag.com/gag/a0ez8pZ)
+ - 👉 [Killer meltdown in court after receiving life sentence while his mother curses the victim&#39;s family](http://9gag.com/gag/a6Z4dKe)<!-- MEMES:END -->
 
 ---
 
