@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
  - ⏩ [Just to make this clear](http://9gag.com/gag/aPAzyqG)
- - 👉 [Whats black, and white, and dead all over](http://9gag.com/gag/ayNZ0XY)<!-- MEMES:END -->
+ - 👉 [Took me a sec](http://9gag.com/gag/a1mBZQ8)<!-- MEMES:END -->
 
 ---
 
