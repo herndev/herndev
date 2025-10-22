@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
- - ⏩ [The pulsing](http://9gag.com/gag/a0ez8pZ)
- - 👉 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)<!-- MEMES:END -->
+ - 💣 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
+ - ⏩ [He almost meet the creator](http://9gag.com/gag/avy4pEq)
+ - 👉 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)<!-- MEMES:END -->
 
 ---
 
