@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA says it will label Apple and Google as having &quot;strategic market status&quot;, imposing stricter rules on how they run their platforms to boost competition &lpar;Financial Times&rpar;](http://www.techmeme.com/251022/p26#a251022p26)
- - [New DMA complaint ludicrously claims Apple&#39;s App Store limits block freedom of expression](https://appleinsider.com/articles/25/10/22/new-dma-complaint-ludicrously-claims-apples-app-store-limits-block-freedom-of-expression?utm_source=rss)
- - [Casio’ new ring watch straps a durable G-Shock to your finger](https://www.theverge.com/news/804174/casio-ring-digital-watch-g-shock-nano-dwn-5600)<!-- TECH:END -->
+ - [Why GM will give you Gemini — but not CarPlay](https://www.theverge.com/podcast/803379/gm-ceo-mary-barra-sterling-anderson-cadillac-iq-ev-autonomy-interview)
+ - [iPhone 17 demand continues to beat analyst expectations](https://appleinsider.com/articles/25/10/22/iphone-17-demand-continues-to-beat-analyst-expectations?utm_source=rss)
+ - [After the iPhone Fold, expect bezel-free &amp; flip models in 2027 and 2028](https://appleinsider.com/articles/25/10/22/after-the-iphone-fold-expect-bezel-free-flip-models-in-2027-and-2028?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
