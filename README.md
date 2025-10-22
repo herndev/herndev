@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Luigi&#39;s Mansion is coming to Nintendo Switch 2 for Halloween](https://www.polygon.com/luigis-mansion-nintendo-switch-2-gamecube-library/)
- - [Borderlands 4 Horrors of Kairos dates and rewards](https://www.pcgamer.com/games/fps/borderlands-4-horrors-of-kairos-halloween-event/)
- - [The Chainsaw Man movie is perfect for newcomers, but may leave fans feeling frustrated](https://www.polygon.com/chainsaw-man-the-movie-reze-arc-review/)<!-- GAME:END -->
+ - [Farthest Frontier review](https://www.pcgamer.com/games/city-builder/farthest-frontier-review/)
+ - [A Bunch Of Creepy And Scary PS5 And PS4 Games Are On Sale Right Now](https://kotaku.com/a-bunch-of-creepy-and-scary-ps5-and-ps4-games-are-on-sale-right-now-2000638262)
+ - [Critical Role Campaign 4 is redefining Tieflings in Dungeons &amp; Dragons](https://www.polygon.com/critical-role-campaign-4-demons-tieflings-tyranny/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
