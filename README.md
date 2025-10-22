@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Post Something](http://9gag.com/gag/aYQZj6O)
- - ⏩ [The pulsing](http://9gag.com/gag/a0ez8pZ)
- - 👉 [Killer meltdown in court after receiving life sentence while his mother curses the victim&#39;s family](http://9gag.com/gag/a6Z4dKe)<!-- MEMES:END -->
+ - 💣 [Turn out they have teeth like hell](http://9gag.com/gag/an78epo)
+ - ⏩ [Killer meltdown in court after receiving life sentence while his mother curses the victim&#39;s family](http://9gag.com/gag/a6Z4dKe)
+ - 👉 [Slimes are scrambling to rewrite their own holy book](http://9gag.com/gag/azxognp)<!-- MEMES:END -->
 
 ---
 
