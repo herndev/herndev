@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
- - ⏩ [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
- - 👉 [Guess if real or AI](http://9gag.com/gag/aXPQbo2)<!-- MEMES:END -->
+ - 💣 [Just to make this clear](http://9gag.com/gag/aPAzyqG)
+ - ⏩ [Guess if real or AI](http://9gag.com/gag/aXPQbo2)
+ - 👉 [Is this how to deal with them?](http://9gag.com/gag/avy4pqW)<!-- MEMES:END -->
 
 ---
 
