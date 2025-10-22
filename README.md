@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first major OnePlus 15 price leak is great news for fans](https://www.androidauthority.com/oneplus-15-price-leak-3609107/)
- - [Sesame, which is developing an AI agent with a natural-sounding human voice and smart glasses, raised a $250M Series B and opens an early beta of its iOS app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251022/p5#a251022p5)
- - [Japanese regulators&#39; plan to cull the smallest listings on the Tokyo Stock Exchange is spurring a record number of startup buyouts in Japan, while IPOs slump &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p4#a251022p4)<!-- TECH:END -->
+ - [EBU/BBC study: 45% of responses from top AI assistants misrepresented news content with at least one significant issue and 31% showed serious sourcing problems &lpar;Olivia Le Poidevin/Reuters&rpar;](http://www.techmeme.com/251022/p11#a251022p11)
+ - [Electricity demand from data centers powering the AI boom has caused a gas turbine supply crunch, as the US becomes the epicenter of new gas-fired power plants &lpar;Financial Times&rpar;](http://www.techmeme.com/251022/p10#a251022p10)
+ - [Keycard, which lets enterprises manage AI agent access to internal systems, raised a $30M Series A led by Acrew Capital and a $8M seed led by a16z and boldstart &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/251022/p9#a251022p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
