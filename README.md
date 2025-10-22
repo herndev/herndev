@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet now makes adding new cards as effortless as it always should have been](https://www.androidauthority.com/google-wallet-update-nfc-cards-3609130/)
- - [The Pixel’s Connected Cameras feature is getting an overdue upgrade](https://www.androidauthority.com/google-pixel-connected-cameras-feature-upgrade-3609116/)
- - [Best Internet Providers in Seattle, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-seattle-wa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s Vision Pro with the M5 chip is assembled in Vietnam, according to labels on its packaging; the M2-based model, launched in 2024, was built in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p13#a251022p13)
+ - [Baidu and Swiss Post&#39;s PostBus plan to launch Baidu&#39;s Apollo Go autonomous vehicle service in Switzerland, testing in December ahead of rollout by Q1 2027 &lpar;Reuters&rpar;](http://www.techmeme.com/251022/p12#a251022p12)
+ - [NASA’s Boss Just Shook Up the Agency’s Plans to Land on the Moon](https://www.wired.com/story/nasas-boss-just-shook-up-the-agencys-plans-to-land-on-the-moon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
