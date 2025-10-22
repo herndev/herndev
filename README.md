@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Sequoia COO Sumaiya Balbale resigned after the firm refused to discipline partner Shaun Maguire over his comments calling Zohran Mamdani &quot;an Islamist&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251021/p57#a251021p57)
  - [Samsung says it&#39;s working on smart glasses built on top of Android XR in partnership with Warby Parker and Gentle Monster, during its Worlds Wide Open event &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/251021/p56#a251021p56)
- - [Samsung&#39;s Galaxy XR headset includes an Explorer Pack that bundles a year of Google AI Pro, YouTube Premium, Play Pass, and more with purchases through year-end &lpar;Matt Horne/Android Authority&rpar;](http://www.techmeme.com/251021/p55#a251021p55)
- - [How to make your own external SSD: Boost your Mac&#39;s storage cheaply](https://appleinsider.com/inside/accessories-and-io/tips/how-to-make-your-own-external-ssd-boost-your-macs-storage-cheaply?utm_source=rss)<!-- TECH:END -->
+ - [Samsung&#39;s Galaxy XR headset includes an Explorer Pack that bundles a year of Google AI Pro, YouTube Premium, Play Pass, and more with purchases through year-end &lpar;Matt Horne/Android Authority&rpar;](http://www.techmeme.com/251021/p55#a251021p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
