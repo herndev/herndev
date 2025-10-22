@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get the Samsung Galaxy S25 Edge at a record-low price before the deal is gone!](https://www.androidauthority.com/samsung-galaxy-s25-edge-deal-10-3609307/)
- - [Kuo joins iPhone Air supply chain cutback claim chorus](https://appleinsider.com/articles/25/10/22/kuo-joins-iphone-air-supply-chain-cutback-claim-chorus?utm_source=rss)
- - [Sources: Kalshi is receiving funding offers from VC investors at $10B-$12B or higher valuations, just weeks after it announced a $300M round at a $5B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p36#a251022p36)<!-- TECH:END -->
+ - [Apple&amp;#8217;s reportedly pulling back on iPhone Air production](https://www.theverge.com/news/804758/iphone-air-sales-production-targets-drop)
+ - [Save $200 on the Starlink Mini Kit and stay connected anywhere!](https://www.androidauthority.com/starlink-mini-kit-deal-3609306/)
+ - [Tinder plans to expand its facial verification feature to all new US users in the coming months, following its rollout in seven countries and in California &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/251022/p38#a251022p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
