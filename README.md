@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - ⏩ [Catfish burger](http://9gag.com/gag/aGy6wKX)
- - 👉 [Mad Honey](http://9gag.com/gag/azxoL0K)<!-- MEMES:END -->
+ - ⏩ [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
+ - 👉 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)<!-- MEMES:END -->
 
 ---
 
