@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AppleInsider Giveaway: Enter to win an iPhone 17 from Grid Studio](https://appleinsider.com/articles/25/10/22/appleinsider-giveaway-enter-to-win-an-iphone-17-from-grid-studio?utm_source=rss)
- - [GM will ditch Apple CarPlay and Android Auto on all its cars, not just EVs](https://www.theverge.com/transportation/804562/gm-apple-carplay-android-auto-gas-cars-mary-barra)
- - [Sources: Trump administration is considering barring exports of products made with US software to China in response to the country&#39;s rare earth restrictions &lpar;Reuters&rpar;](http://www.techmeme.com/251022/p32#a251022p32)<!-- TECH:END -->
+ - [A Fallout fan just made the coolest Pixel Watch 4 face ever](https://www.androidauthority.com/pixel-watch-4-pip-boy-watch-face-3609361/)
+ - [Reddit sues Perplexity for allegedly ripping its content to feed AI](https://www.theverge.com/news/804660/reddit-suing-perplexity-data-scrapers-ai-lawsuit)
+ - [Hot deal: Get a Google Pixel 10 Pro XL $600 discount from Mint Mobile](https://www.androidauthority.com/google-pixel-10-pro-xl-mint-mobile-plan-deal-3609308/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
