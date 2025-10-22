@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polymarket and Kalshi surpassed $2B in notional trading volume in the week ending Oct. 19, exceeding the previous peak during the 2024 US presidential election &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/251021/p50#a251021p50)
- - [The white Ember Mug 2 hits record-low price!](https://www.androidauthority.com/ember-mug-2-deal-9-3609099/)
- - [Netflix is &amp;#8216;judiciously&amp;#8217; expanding into interactive experiences](https://www.theverge.com/news/803097/netflix-games-interactive-experiences-real-time-voting-q3-2025-earnings)<!-- TECH:END -->
+ - [In an experiment, ChatGPT-4o, Claude Sonnet 4.5, and DeepSeek-V3.2-Exp expressed secular, Western liberal values regardless of the language of the questions &lpar;Kelsey Piper/The Argument&rpar;](http://www.techmeme.com/251021/p51#a251021p51)
+ - [Nomad Stratos Band review: Titanium &amp; FKM is a winning combo for Apple Watch](https://appleinsider.com/articles/25/10/22/nomad-stratos-band-review-titanium-fkm-is-a-winning-combo-for-apple-watch?utm_source=rss)
+ - [OpenAI rolls out ChatGPT Atlas browser with built-in AI tools](https://appleinsider.com/articles/25/10/22/openai-rolls-out-chatgpt-atlas-browser-with-built-in-ai-tools?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
