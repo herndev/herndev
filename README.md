@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Vision Pro with the M5 chip is assembled in Vietnam, according to labels on its packaging; the M2-based model, launched in 2024, was built in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p13#a251022p13)
- - [Baidu and Swiss Post&#39;s PostBus plan to launch Baidu&#39;s Apollo Go autonomous vehicle service in Switzerland, testing in December ahead of rollout by Q1 2027 &lpar;Reuters&rpar;](http://www.techmeme.com/251022/p12#a251022p12)
- - [NASA’s Boss Just Shook Up the Agency’s Plans to Land on the Moon](https://www.wired.com/story/nasas-boss-just-shook-up-the-agencys-plans-to-land-on-the-moon/)<!-- TECH:END -->
+ - [Uber will pay drivers $4,000 to switch to EVs](https://www.theverge.com/news/802983/uber-electric-ev-driver-4000-grant-price)
+ - [Sources: Apple cuts iPhone Air orders nearly to &quot;end of production&quot; levels after a lukewarm reception in China, but keeps iPhone 17 lineup forecasts at 85M-90M &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251022/p19#a251022p19)
+ - [UEFA joins the MPA-led anti-piracy coalition Alliance for Creativity and Entertainment, the first sports governing body to join the group, which has 50+ members &lpar;Adam Leventhal/The Athletic&rpar;](http://www.techmeme.com/251022/p18#a251022p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
