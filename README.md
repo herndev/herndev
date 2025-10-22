@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
+ - 💣 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
  - ⏩ [Just to make this clear](http://9gag.com/gag/aPAzyqG)
- - 👉 [Took me a sec](http://9gag.com/gag/a1mBZQ8)<!-- MEMES:END -->
+ - 👉 [Whats black, and white, and dead all over](http://9gag.com/gag/ayNZ0XY)<!-- MEMES:END -->
 
 ---
 
