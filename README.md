@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why GM will give you Gemini — but not CarPlay](https://www.theverge.com/podcast/803379/gm-ceo-mary-barra-sterling-anderson-cadillac-iq-ev-autonomy-interview)
- - [iPhone 17 demand continues to beat analyst expectations](https://appleinsider.com/articles/25/10/22/iphone-17-demand-continues-to-beat-analyst-expectations?utm_source=rss)
- - [After the iPhone Fold, expect bezel-free &amp; flip models in 2027 and 2028](https://appleinsider.com/articles/25/10/22/after-the-iphone-fold-expect-bezel-free-flip-models-in-2027-and-2028?utm_source=rss)<!-- TECH:END -->
+ - [HBO’s Welcome to Derry series just ain’t it](https://www.theverge.com/entertainment/803022/hbo-it-welcome-to-derry-review)
+ - [UK unsurprisingly copies Europe, says Apple should be regulated](https://appleinsider.com/articles/25/10/22/uk-unsurprisingly-copies-europe-says-apple-should-be-regulated?utm_source=rss)
+ - [Google says its Willow quantum chip using a new Quantum Echoes algorithm ran computations 13,000x faster than supercomputers, aiding drug and materials research &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/251022/p30#a251022p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
