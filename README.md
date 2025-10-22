@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO’s Welcome to Derry series just ain’t it](https://www.theverge.com/entertainment/803022/hbo-it-welcome-to-derry-review)
- - [UK unsurprisingly copies Europe, says Apple should be regulated](https://appleinsider.com/articles/25/10/22/uk-unsurprisingly-copies-europe-says-apple-should-be-regulated?utm_source=rss)
- - [Google says its Willow quantum chip using a new Quantum Echoes algorithm ran computations 13,000x faster than supercomputers, aiding drug and materials research &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/251022/p30#a251022p30)<!-- TECH:END -->
+ - [AppleInsider Giveaway: Enter to win an iPhone 17 from Grid Studio](https://appleinsider.com/articles/25/10/22/appleinsider-giveaway-enter-to-win-an-iphone-17-from-grid-studio?utm_source=rss)
+ - [GM will ditch Apple CarPlay and Android Auto on all its cars, not just EVs](https://www.theverge.com/transportation/804562/gm-apple-carplay-android-auto-gas-cars-mary-barra)
+ - [Sources: Trump administration is considering barring exports of products made with US software to China in response to the country&#39;s rare earth restrictions &lpar;Reuters&rpar;](http://www.techmeme.com/251022/p32#a251022p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
