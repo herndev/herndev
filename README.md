@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for October 22 &lpar;#1586&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-22-2025/)
  - [All security camera locations in Vampire: The Masquerade – Bloodlines 2](https://www.pcgamer.com/games/rpg/bloodlines-2-security-camera-locations/)
- - [Lenovo Laptop &lpar;40GB RAM, 1TB SSD, i7&rpar; Down 74% on Amazon, and It’s Not Refurbished](https://kotaku.com/lenovo-laptop-40gb-ram-1tb-ssd-i7-down-74-on-amazon-and-its-not-refurbished-2000637810)
- - [Call of Duty could learn a thing or two from Battlefield 6&#39;s smallest map](https://www.pcgamer.com/games/fps/call-of-duty-could-learn-a-thing-or-two-from-battlefield-6s-smallest-map/)<!-- GAME:END -->
+ - [Lenovo Laptop &lpar;40GB RAM, 1TB SSD, i7&rpar; Down 74% on Amazon, and It’s Not Refurbished](https://kotaku.com/lenovo-laptop-40gb-ram-1tb-ssd-i7-down-74-on-amazon-and-its-not-refurbished-2000637810)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
