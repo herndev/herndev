@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an experiment, ChatGPT-4o, Claude Sonnet 4.5, and DeepSeek-V3.2-Exp expressed secular, Western liberal values regardless of the language of the questions &lpar;Kelsey Piper/The Argument&rpar;](http://www.techmeme.com/251021/p51#a251021p51)
- - [Nomad Stratos Band review: Titanium &amp; FKM is a winning combo for Apple Watch](https://appleinsider.com/articles/25/10/22/nomad-stratos-band-review-titanium-fkm-is-a-winning-combo-for-apple-watch?utm_source=rss)
- - [OpenAI rolls out ChatGPT Atlas browser with built-in AI tools](https://appleinsider.com/articles/25/10/22/openai-rolls-out-chatgpt-atlas-browser-with-built-in-ai-tools?utm_source=rss)<!-- TECH:END -->
+ - [Samsung unveils the Galaxy XR headset, with 4K Micro-OLED displays, Android XR, a Snapdragon XR2+ Gen 2 chip, and a battery pack, available for $1,799 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251021/p52#a251021p52)
+ - [Samsung Galaxy XR makes its official and expensive debut](https://www.androidauthority.com/samsung-galaxy-xr-launch-3608886/)
+ - [Galaxy XR early adopters can score up to $1,000 in freebies](https://www.androidauthority.com/samsung-galaxy-xr-early-adopter-incentives-3609033/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
