@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 shouldn&#39;t wait 38 days to drop two exciting maps it desperately needs](https://www.pcgamer.com/games/fps/battlefield-6-shouldnt-wait-38-days-to-drop-two-exciting-maps-it-desperately-needs/)
- - [The Scarface video game is back with a bizarre re-release rollout](https://www.polygon.com/scarface-world-is-yours-game-steam-pc-epic-games-store/)
- - [How to evolve Spritzee in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-evolve-spritzee-requirements-trade-code/)<!-- GAME:END -->
+ - [Escape From Duckov might look like a parody, but it&#39;s a full-fledged, full-featured singleplayer bottling of extraction shooter juice](https://www.pcgamer.com/games/third-person-shooter/escape-from-duckov-might-look-like-a-parody-but-its-a-full-fledged-full-featured-singleplayer-bottling-of-extraction-shooter-juice/)
+ - [Steam&#39;s latest &#39;experiment&#39; is a new way of discovering games that&#39;s actually really convenient and useful](https://www.pcgamer.com/games/steams-latest-experiment-is-a-new-way-of-discovering-games-thats-actually-really-convenient-and-useful/)
+ - [One NFL Team Sucks So Much The Coaches Took Their Video Games Away](https://kotaku.com/nfl-ravens-baltimore-losing-record-coaches-took-video-games-away-2000638322)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
