@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
- - ⏩ [He almost meet the creator](http://9gag.com/gag/avy4pEq)
- - 👉 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)<!-- MEMES:END -->
+ - 💣 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)
+ - ⏩ [I miss Top Gear humor !](http://9gag.com/gag/a87QbjY)
+ - 👉 [Hard right-winger Sanae Takaichi has officially become Japan\u2019s first female Prime Minister. Takaichi has promised a crackdown on migration into Japan.](http://9gag.com/gag/apRzovM)<!-- MEMES:END -->
 
 ---
 
