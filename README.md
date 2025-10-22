@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with GM CEO Mary Barra and CPO Sterling Anderson on GM&#39;s plans for AI and autonomous driving, ditching Apple CarPlay and Android Auto on all its cars, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251022/p42#a251022p42)
- - [Fandom&amp;#8217;s CEO has left the company](https://www.theverge.com/entertainment/804821/fandom-ceo-perkins-miller-departure)
- - [Owners of Luxury Smart Beds Literally Lost Sleep Due to AWS Outage](https://www.cnet.com/health/sleep/owners-of-luxury-smart-beds-literally-lost-sleep-due-to-aws-outage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Musk wants to get rid of Tesla’s robotaxi babysitters ‘by the end of the year’](https://www.theverge.com/transportation/804972/tesla-robotaxi-safety-monitor-remove-austin-musk)
+ - [Amazon is testing AR glasses for delivery drivers, using AI and computer vision to help them scan packages, follow walking directions, and get proof of delivery &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251022/p43#a251022p43)
+ - [Here are Amazon’s smart delivery glasses that guide drivers and scan packages](https://www.theverge.com/news/804962/amazon-reveals-smart-delivery-glasses-that-guide-drivers-and-scan-packages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
