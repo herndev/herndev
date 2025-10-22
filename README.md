@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japanese regulators&#39; plan to cull the smallest listings on the Tokyo Stock Exchange is spurring a record number of startup buyouts in Japan, while IPOs slump &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p4#a251022p4)
- - [A UN pact to fight cybercrime is set to be signed by dozens of countries in Hanoi; tech companies and activists warn the pact may criminalize ethical hacking &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/251022/p3#a251022p3)
- - [OnePlus Promo Code: $100 Off  | October 2025 | WIRED](https://www.wired.com/story/oneplus-promo-code/)<!-- TECH:END -->
+ - [The first major OnePlus 15 price leak is great news for fans](https://www.androidauthority.com/oneplus-15-price-leak-3609107/)
+ - [Sesame, which is developing an AI agent with a natural-sounding human voice and smart glasses, raised a $250M Series B and opens an early beta of its iOS app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251022/p5#a251022p5)
+ - [Japanese regulators&#39; plan to cull the smallest listings on the Tokyo Stock Exchange is spurring a record number of startup buyouts in Japan, while IPOs slump &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p4#a251022p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
