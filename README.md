@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung unveils the Galaxy XR headset, with 4K Micro-OLED displays, Android XR, a Snapdragon XR2+ Gen 2 chip, and a battery pack, available for $1,799 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251021/p52#a251021p52)
- - [Samsung Galaxy XR makes its official and expensive debut](https://www.androidauthority.com/samsung-galaxy-xr-launch-3608886/)
- - [Galaxy XR early adopters can score up to $1,000 in freebies](https://www.androidauthority.com/samsung-galaxy-xr-early-adopter-incentives-3609033/)<!-- TECH:END -->
+ - [Samsung says it&#39;s working on smart glasses built on top of Android XR in partnership with Warby Parker and Gentle Monster, during its Worlds Wide Open event &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/251021/p56#a251021p56)
+ - [Samsung&#39;s Galaxy XR headset includes an Explorer Pack that bundles a year of Google AI Pro, YouTube Premium, Play Pass, and more with purchases through year-end &lpar;Matt Horne/Android Authority&rpar;](http://www.techmeme.com/251021/p55#a251021p55)
+ - [How to make your own external SSD: Boost your Mac&#39;s storage cheaply](https://appleinsider.com/inside/accessories-and-io/tips/how-to-make-your-own-external-ssd-boost-your-macs-storage-cheaply?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
