@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enhance your iPad productivity with ESR&#39;s selection of keyboards, cases &amp; more](https://appleinsider.com/articles/25/10/22/enhance-your-ipad-productivity-with-esrs-selection-of-keyboards-cases-more?utm_source=rss)
- - [The Best Gifts for Rock Climbers &lpar;2025&rpar;: Coros, Meta, Gramicci](https://www.wired.com/gallery/gifts-for-rock-climbers/)
- - [Samsung’s new XR headset is secretly a Pixel](https://www.androidauthority.com/samsung-galaxy-xr-pixel-3608315/)<!-- TECH:END -->
+ - [The UK CMA says it will label Apple and Google as having &quot;strategic market status&quot;, imposing stricter rules on how they run their platforms to boost competition &lpar;Financial Times&rpar;](http://www.techmeme.com/251022/p26#a251022p26)
+ - [New DMA complaint ludicrously claims Apple&#39;s App Store limits block freedom of expression](https://appleinsider.com/articles/25/10/22/new-dma-complaint-ludicrously-claims-apples-app-store-limits-block-freedom-of-expression?utm_source=rss)
+ - [Casio’ new ring watch straps a durable G-Shock to your finger](https://www.theverge.com/news/804174/casio-ring-digital-watch-g-shock-nano-dwn-5600)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
