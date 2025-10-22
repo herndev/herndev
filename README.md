@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Farthest Frontier review](https://www.pcgamer.com/games/city-builder/farthest-frontier-review/)
- - [A Bunch Of Creepy And Scary PS5 And PS4 Games Are On Sale Right Now](https://kotaku.com/a-bunch-of-creepy-and-scary-ps5-and-ps4-games-are-on-sale-right-now-2000638262)
- - [Critical Role Campaign 4 is redefining Tieflings in Dungeons &amp; Dragons](https://www.polygon.com/critical-role-campaign-4-demons-tieflings-tyranny/)<!-- GAME:END -->
+ - [I Hope My Outer Worlds 2 Companions Really Do Try To Kill Me](https://kotaku.com/outer-worlds-2-companion-list-faction-loyalty-2000638303)
+ - [How to fish in Escape From Duckov and where to cast your line out in Ground Zero](https://www.pcgamer.com/games/action/escape-from-duckov-fishing-how-to/)
+ - [This One New Battlefield 6 Skin Is Causing A Meltdown](https://kotaku.com/new-battlefield-6-skin-is-causing-community-meltdown-grounded-ea-2000638294)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
