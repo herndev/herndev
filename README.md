@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palworld developer Pocketpair says its new publishing division won&#39;t fund games that use GenAI, saying it &quot;doesn&#39;t believe&quot; in the technology &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/251022/p1#a251022p1)
- - [New Report Finds Efforts to Slow Climate Change Are Working—Just Not Fast Enough](https://www.wired.com/story/new-report-finds-efforts-to-slow-climate-change-are-working-just-not-fast-enough/)
- - [56 of the Best TV Shows on Netflix That Will Keep You Entertained](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Japanese regulators&#39; plan to cull the smallest listings on the Tokyo Stock Exchange is spurring a record number of startup buyouts in Japan, while IPOs slump &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p4#a251022p4)
+ - [A UN pact to fight cybercrime is set to be signed by dozens of countries in Hanoi; tech companies and activists warn the pact may criminalize ethical hacking &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/251022/p3#a251022p3)
+ - [OnePlus Promo Code: $100 Off  | October 2025 | WIRED](https://www.wired.com/story/oneplus-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
