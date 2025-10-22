@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [All security camera locations in Vampire: The Masquerade – Bloodlines 2](https://www.pcgamer.com/games/rpg/bloodlines-2-security-camera-locations/)
  - [Lenovo Laptop &lpar;40GB RAM, 1TB SSD, i7&rpar; Down 74% on Amazon, and It’s Not Refurbished](https://kotaku.com/lenovo-laptop-40gb-ram-1tb-ssd-i7-down-74-on-amazon-and-its-not-refurbished-2000637810)
- - [Call of Duty could learn a thing or two from Battlefield 6&#39;s smallest map](https://www.pcgamer.com/games/fps/call-of-duty-could-learn-a-thing-or-two-from-battlefield-6s-smallest-map/)
- - [FMV dating sims are booming in Asia, inspired in part by &#39;micro-dramas&#39; popular on TikTok: &#39;It&#39;s not actually real life, but it feels like real life&#39;](https://www.pcgamer.com/games/adventure/fmv-dating-sims-are-booming-in-asia-inspired-in-part-by-micro-dramas-popular-on-tiktok-its-not-actually-real-life-but-it-feels-like-real-life/)<!-- GAME:END -->
+ - [Call of Duty could learn a thing or two from Battlefield 6&#39;s smallest map](https://www.pcgamer.com/games/fps/call-of-duty-could-learn-a-thing-or-two-from-battlefield-6s-smallest-map/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
