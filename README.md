@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Chainsaw Man movie is perfect for newcomers, but may leave fans feeling frustrated](https://www.polygon.com/chainsaw-man-the-movie-reze-arc-review/)
  - [Today&#39;s Wordle clues, hints and answer for October 22 &lpar;#1586&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-22-2025/)
- - [All security camera locations in Vampire: The Masquerade – Bloodlines 2](https://www.pcgamer.com/games/rpg/bloodlines-2-security-camera-locations/)
- - [Lenovo Laptop &lpar;40GB RAM, 1TB SSD, i7&rpar; Down 74% on Amazon, and It’s Not Refurbished](https://kotaku.com/lenovo-laptop-40gb-ram-1tb-ssd-i7-down-74-on-amazon-and-its-not-refurbished-2000637810)<!-- GAME:END -->
+ - [All security camera locations in Vampire: The Masquerade – Bloodlines 2](https://www.pcgamer.com/games/rpg/bloodlines-2-security-camera-locations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
