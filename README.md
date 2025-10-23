@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When an brainwashed kid gets educated by an Iranian man about `Palestine`](http://9gag.com/gag/aW4PZVK)
- - ⏩ [Hmmmm..](http://9gag.com/gag/aMVDrEA)
- - 👉 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)<!-- MEMES:END -->
+ - 💣 [Self written joke](http://9gag.com/gag/azxoENN)
+ - ⏩ [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - 👉 [Took me a sec](http://9gag.com/gag/a1mBZQ8)<!-- MEMES:END -->
 
 ---
 
