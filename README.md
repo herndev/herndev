@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout Day: All the Announcements from this Year’s Broadcast](https://fallout.bethesda.net/en/article/5S63EJI5hmThAU6I8jaiQj/fallout-day-broadcast-2025-news/#new_tab)
- - [There’s A Damned Good Reason Escape From Duckov Has Sold A Million Copies In A Week](https://kotaku.com/theres-a-damned-good-reason-escape-from-duckov-has-sold-a-million-copies-in-a-week-2000638588)
- - [&#39;Every Pokémon is someone&#39;s favorite&#39; theory yields shocking results](https://www.polygon.com/every-pokemon-is-someones-favorite-data-poll-mimikyu-data-results/)<!-- GAME:END -->
+ - [Netflix adapting Charles Burns&#39; award-winning Black Hole comic](https://www.polygon.com/black-hole-charles-burns-netflix-tv-series-jane-schoenbrun/)
+ - [Bizarre Final Fantasy Tactics: The Ivalice Chronicles Glitch Instantly Pops Every Achievement](https://kotaku.com/final-fantasy-tactics-glitch-achievements-platinum-trophy-2000638646)
+ - [Counter-Strike cosmetics economy loses nearly $2 billion in value overnight](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
