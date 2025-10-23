@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Back by popular demand: Can you guess the game based only on a blurb from a Steam review? Take Part 2 of our critical quiz!](https://www.pcgamer.com/games/back-by-popular-demand-can-you-guess-the-game-based-only-on-a-blurb-from-a-steam-review-take-part-2-of-our-critical-quiz/)
- - [All Cross of Saint James locations in Vampire: The Masquerade – Bloodlines 2](https://www.pcgamer.com/games/rpg/bloodlines-2-cross-of-saint-james-locations/)
- - [LEGO Droideka Model Is Selling for Pennies, Star Wars Droid Figure Has Never Been This Cheap](https://kotaku.com/lego-droideka-model-is-selling-for-pennies-star-wars-droid-figure-has-never-been-this-cheap-2000638337)<!-- GAME:END -->
+ - [It feels sacrilegious to say it, but Ninja Gaiden 4 is at its best when it goes full Devil May Cry](https://www.pcgamer.com/games/action/it-feels-sacrilegious-to-say-it-but-ninja-gaiden-4-is-at-its-best-when-it-goes-full-devil-may-cry/)
+ - [Jackery 1500W Power Station Is Going for Peanuts, and Amazon Adds 2 Free Solar Panels on Top](https://kotaku.com/jackery-1500w-power-station-is-going-for-peanuts-and-amazon-adds-2-free-solar-panels-on-top-2000638342)
+ - [Back by popular demand: Can you guess the game based only on a blurb from a Steam review? Take Part 2 of our critical quiz!](https://www.pcgamer.com/games/back-by-popular-demand-can-you-guess-the-game-based-only-on-a-blurb-from-a-steam-review-take-part-2-of-our-critical-quiz/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
