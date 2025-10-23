@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s a guy in Old School RuneScape trying to eat over 500,000 trout, everyone keeps giving him more, and he might actually be a master market manipulator](https://www.pcgamer.com/games/mmo/theres-a-guy-in-old-school-runescape-trying-to-eat-over-500-000-trout-everyone-keeps-giving-him-more-and-he-might-actually-be-a-master-market-manipulator/)
- - [Steamboat-Willy-with-a-machine-gun FPS Mouse PI delayed to 2026](https://www.pcgamer.com/games/fps/steamboat-willy-with-a-machine-gun-fps-mouse-pi-delayed-to-2026/)
- - [With over 13,000 new games on Steam this year so far, over a third of them haven&#39;t even made enough to break even on Valve&#39;s submission fee](https://www.pcgamer.com/games/with-over-13-000-new-games-on-steam-this-year-so-far-over-a-third-of-them-havent-even-made-enough-to-break-even-on-valves-submission-fee/)<!-- GAME:END -->
+ - [Star Trek: Voyager – Across the Unknown is a dull, budget survival game, and I swear the show is so much better than this](https://www.pcgamer.com/games/survival-crafting/star-trek-voyager-across-the-unknown-is-a-dull-budget-survival-game-and-i-swear-the-show-is-so-much-better-than-this/)
+ - [Samsung Quietly Ditches Galaxy Z Flip7 on Amazon, Now Going for Pennies on the Dollar](https://kotaku.com/samsung-quietly-ditches-galaxy-z-flip7-on-amazon-now-going-for-pennies-on-the-dollar-2000638381)
+ - [Screamer is one of the coolest arcade racers I&#39;ve played in a hot sec, and I felt like a total badass drifting through its neon-lit cityscapes](https://www.pcgamer.com/games/racing/screamer-is-one-of-the-coolest-arcade-racers-ive-played-in-a-hot-sec-and-i-felt-like-a-total-badass-drifting-through-its-neon-lit-cityscapes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
