@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Self written joke](http://9gag.com/gag/azxoENN)
- - ⏩ [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - ⏩ [Guess if real or AI](http://9gag.com/gag/aXPQbo2)
  - 👉 [Took me a sec](http://9gag.com/gag/a1mBZQ8)<!-- MEMES:END -->
 
 ---
