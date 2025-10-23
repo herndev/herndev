@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk wants to get rid of Tesla’s robotaxi babysitters ‘by the end of the year’](https://www.theverge.com/transportation/804972/tesla-robotaxi-safety-monitor-remove-austin-musk)
- - [Amazon is testing AR glasses for delivery drivers, using AI and computer vision to help them scan packages, follow walking directions, and get proof of delivery &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251022/p43#a251022p43)
- - [Here are Amazon’s smart delivery glasses that guide drivers and scan packages](https://www.theverge.com/news/804962/amazon-reveals-smart-delivery-glasses-that-guide-drivers-and-scan-packages)<!-- TECH:END -->
+ - [The UK FCA sues Justin Sun-linked crypto exchange HTX in London&#39;s High Court for alleged illegal promotion of &quot;cryptoasset services&quot; to UK consumers &lpar;Lucca De Paoli/Bloomberg&rpar;](http://www.techmeme.com/251022/p44#a251022p44)
+ - [Elon Musk Wants ‘Strong Influence’ Over the ‘Robot Army’ He’s Building](https://www.wired.com/story/elon-musk-wants-strong-influence-over-the-robot-army-hes-building/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 23, #865](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-23-865/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
