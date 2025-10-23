@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PowerWash Simulator 2: How FuturLab Built A Sparking Sequel](https://news.xbox.com/en-us/2025/10/23/powerwash-simulator-2-how-futurlab-built-a-sparking-sequel/)
- - [Assassin’s Creed Shadows Looks Like Another Impressive Switch 2 Port From Ubisoft](https://kotaku.com/assassins-creed-shadows-impressive-switch-2-port-ubisoft-december-2000638603)
- - [Microsoft executives have been expecting the Xbox division to achieve 30% profit margins—almost double the industry average—since 2023](https://www.pcgamer.com/gaming-industry/microsoft-executives-have-been-demanding-30-percent-profit-margins-from-the-xbox-division-almost-double-the-industry-average-since-2023/)<!-- GAME:END -->
+ - [Fallout Day: All the Announcements from this Year’s Broadcast](https://fallout.bethesda.net/en/article/5S63EJI5hmThAU6I8jaiQj/fallout-day-broadcast-2025-news/#new_tab)
+ - [There’s A Damned Good Reason Escape From Duckov Has Sold A Million Copies In A Week](https://kotaku.com/theres-a-damned-good-reason-escape-from-duckov-has-sold-a-million-copies-in-a-week-2000638588)
+ - [&#39;Every Pokémon is someone&#39;s favorite&#39; theory yields shocking results](https://www.polygon.com/every-pokemon-is-someones-favorite-data-poll-mimikyu-data-results/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
