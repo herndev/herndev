@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nexperia&#39;s China unit has resumed chip sales to local distributors, with transactions now settled in yuan instead of foreign currencies such as the USD &lpar;Reuters&rpar;](http://www.techmeme.com/251023/p5#a251023p5)
- - [Top AI researchers and executives in SV are working 80 to 100 hours a week, driven by intense competition, as AI&#39;s rapid progress compresses product timelines &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251023/p4#a251023p4)
- - [It looks like Google just locked out GrapheneOS users from the Pixel Camera app](https://www.androidauthority.com/grapheneos-pixel-camera-app-3609484/)<!-- TECH:END -->
+ - [Google promises GPU updates for Pixel 10, but what does it really mean?](https://www.androidauthority.com/google-pixel-10-gpu-update-3609497/)
+ - [A look at DeepSeek&#39;s rise in Africa, as China&#39;s lightweight, low-cost AI models make inroads into the continent via tech infrastructure built by Huawei and ZTE &lpar;Bloomberg&rpar;](http://www.techmeme.com/251023/p8#a251023p8)
+ - [The Atlanta Fed estimates delays faced by claimants in COBOL-based unemployment insurance systems cut US GDP by at least $40B between March 13 and year-end 2020 &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/251023/p7#a251023p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
