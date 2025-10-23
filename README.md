@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK FCA sues Justin Sun-linked crypto exchange HTX in London&#39;s High Court for alleged illegal promotion of &quot;cryptoasset services&quot; to UK consumers &lpar;Lucca De Paoli/Bloomberg&rpar;](http://www.techmeme.com/251022/p44#a251022p44)
- - [Elon Musk Wants ‘Strong Influence’ Over the ‘Robot Army’ He’s Building](https://www.wired.com/story/elon-musk-wants-strong-influence-over-the-robot-army-hes-building/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 23, #865](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-23-865/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: quantum computing companies including IonQ, Rigetti, and D-Wave are in talks to give the US Commerce Dept. equity in exchange for $10M+ each in funding &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/251022/p47#a251022p47)
+ - [Sources: a16z is aiming to raise $6B for its growth fund, $3B for AI deals, and $1B for American Dynamism; the $10B total would be its largest fundraise to date &lpar;Financial Times&rpar;](http://www.techmeme.com/251022/p46#a251022p46)
+ - [Amazon claims the headline isn&amp;#8217;t robots taking jobs as it reveals new cost-cutting robots](https://www.theverge.com/news/805098/amazon-robots-ai-warehouses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
