@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
- - ⏩ [Catfish burger](http://9gag.com/gag/aGy6wKX)
- - 👉 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)<!-- MEMES:END -->
+ - 💣 [Apple cider process](http://9gag.com/gag/a6Z4yv9)
+ - ⏩ [Watching sports be like](http://9gag.com/gag/aW4PO66)
+ - 👉 [Mildly interesting](http://9gag.com/gag/aVv4Qbv)<!-- MEMES:END -->
 
 ---
 
