@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Apple cider process](http://9gag.com/gag/a6Z4yv9)
- - ⏩ [Watching sports be like](http://9gag.com/gag/aW4PO66)
- - 👉 [Mildly interesting](http://9gag.com/gag/aVv4Qbv)<!-- MEMES:END -->
+ - 💣 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
+ - ⏩ [King fruit](http://9gag.com/gag/a34eL78)
+ - 👉 [Just to make this clear](http://9gag.com/gag/aPAzyqG)<!-- MEMES:END -->
 
 ---
 
