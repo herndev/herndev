@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One smart ring brand is gone from the US, and another just cut a deal](https://www.androidauthority.com/ultrahuman-us-ban-3609467/)
  - [Elon Musk says Tesla&#39;s AI5 chip will be made by Samsung in Texas and TSMC in Arizona, with the &quot;oversupply&quot; of chips not used by Tesla going to his data centers &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251022/p48#a251022p48)
- - [How going viral made one Apple Store employee change his name](https://appleinsider.com/articles/25/10/23/how-going-viral-made-one-apple-store-employee-change-his-name?utm_source=rss)
- - [Sources: quantum computing companies including IonQ, Rigetti, and D-Wave are in talks to give the US Commerce Dept. equity in exchange for $10M+ each in funding &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/251022/p47#a251022p47)<!-- TECH:END -->
+ - [How going viral made one Apple Store employee change his name](https://appleinsider.com/articles/25/10/23/how-going-viral-made-one-apple-store-employee-change-his-name?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
