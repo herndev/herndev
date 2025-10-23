@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer thoughtlessly alienates half its audience with ad showing a man blocking out a woman&#39;s &#39;yapping&#39; with its latest headset](https://www.pcgamer.com/hardware/gaming-headsets/razer-thoughtlessly-alienates-half-its-audience-with-ad-showing-a-man-blocking-out-a-womans-yapping-with-its-latest-headset/)
- - [Govee LED Wall Light Bars &lpar;6-Pack&rpar; Drop to Lowest Price Yet, Each One Costs Less Than $10](https://kotaku.com/bring-some-light-into-your-space-with-these-gove-led-wall-lights-for-29-off-2000637778)
- - [EA Keeps Deleting Call Of Duty Maps From The Battlefield 6 Portal](https://kotaku.com/battlefield-6-portal-call-of-duty-copyright-notice-2000638591)<!-- GAME:END -->
+ - [PowerWash Simulator 2: How FuturLab Built A Sparking Sequel](https://news.xbox.com/en-us/2025/10/23/powerwash-simulator-2-how-futurlab-built-a-sparking-sequel/)
+ - [Assassin’s Creed Shadows Looks Like Another Impressive Switch 2 Port From Ubisoft](https://kotaku.com/assassins-creed-shadows-impressive-switch-2-port-ubisoft-december-2000638603)
+ - [Microsoft executives have been expecting the Xbox division to achieve 30% profit margins—almost double the industry average—since 2023](https://www.pcgamer.com/gaming-industry/microsoft-executives-have-been-demanding-30-percent-profit-margins-from-the-xbox-division-almost-double-the-industry-average-since-2023/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
