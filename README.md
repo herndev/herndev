@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Stranger Things series finale is coming to theaters](https://www.theverge.com/news/805261/netflix-stranger-things-5-finale-theaters)
- - [Internal memo: TikTok plans leadership changes, moving two teams under ByteDance veteran Fiona Zhi and undoing earlier efforts to empower Western executives &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/251023/p24#a251023p24)
- - [iPhone 17, tariffs, and more: What to expect from Apple&#39;s Q4 2025 financials](https://appleinsider.com/articles/25/10/23/iphone-17-tariffs-and-more-what-to-expect-from-apples-q4-2025-financials?utm_source=rss)<!-- TECH:END -->
+ - [Razer’s new DualSense Edge-style PS5 controller has TMR sticks](https://www.theverge.com/news/804365/razer-raiju-v3-pro-ps5-dualsense-edge-features-price)
+ - [How to use digital IDs in Apple Wallet &amp; where they are supported](https://appleinsider.com/articles/25/10/23/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss)
+ - [Microsoft&amp;#8217;s lofty goals for Xbox profit are behind the price hikes and studio shutdowns](https://www.theverge.com/news/805280/microsoft-xbox-gaming-profit-targets-layoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
