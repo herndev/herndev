@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer’s new DualSense Edge-style PS5 controller has TMR sticks](https://www.theverge.com/news/804365/razer-raiju-v3-pro-ps5-dualsense-edge-features-price)
- - [How to use digital IDs in Apple Wallet &amp; where they are supported](https://appleinsider.com/articles/25/10/23/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss)
- - [Microsoft&amp;#8217;s lofty goals for Xbox profit are behind the price hikes and studio shutdowns](https://www.theverge.com/news/805280/microsoft-xbox-gaming-profit-targets-layoffs)<!-- TECH:END -->
+ - [Copilot is getting more personality with a ‘real talk’ mode and group chats](https://www.theverge.com/news/804122/microsoft-copilot-real-talk-mode-group-chats-features)
+ - [The BrickBoy kit turns Lego’s Game Boy into a handheld emulator](https://www.theverge.com/news/805376/lego-game-boy-brickboy-emulator-kickstarter)
+ - [Elon Musk says he needs $1 trillion to control Tesla’s ‘robot army’](https://www.theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
