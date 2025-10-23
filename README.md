@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo&amp;#8217;s chips make this Lego Game Boy upgrade kit the most authentic](https://www.theverge.com/games/805673/nintendos-chips-make-this-lego-game-boy-upgrade-kit-the-most-authentic)
- - [EA strikes a partnership with Stability AI to build game developer tools that serve as &quot;smarter paintbrushes&quot; &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251023/p50#a251023p50)
- - [Filing: Applied Materials plans to cut ~4% of its global workforce and expects the layoffs to cost $160M to $180M; it had 36,100 employees as of the end of July &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/251023/p49#a251023p49)<!-- TECH:END -->
+ - [Mustafa Suleyman says Microsoft won&#39;t provide erotica AI services and that &quot;other companies will build that&quot;, after Sam Altman said ChatGPT would offer erotica &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/251023/p51#a251023p51)
+ - [Trump&#39;s Investment in Intel Is Paying Off](https://www.wired.com/story/intel-earnings-chips-semiconductors-investment/)
+ - [Apple warns Europe could force it to turn off key privacy feature](https://appleinsider.com/articles/25/10/23/apple-warns-europe-could-force-it-to-turn-off-key-privacy-feature?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
