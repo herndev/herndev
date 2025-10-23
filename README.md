@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trek: Voyager – Across the Unknown is a dull, budget survival game, and I swear the show is so much better than this](https://www.pcgamer.com/games/survival-crafting/star-trek-voyager-across-the-unknown-is-a-dull-budget-survival-game-and-i-swear-the-show-is-so-much-better-than-this/)
- - [Samsung Quietly Ditches Galaxy Z Flip7 on Amazon, Now Going for Pennies on the Dollar](https://kotaku.com/samsung-quietly-ditches-galaxy-z-flip7-on-amazon-now-going-for-pennies-on-the-dollar-2000638381)
- - [Screamer is one of the coolest arcade racers I&#39;ve played in a hot sec, and I felt like a total badass drifting through its neon-lit cityscapes](https://www.pcgamer.com/games/racing/screamer-is-one-of-the-coolest-arcade-racers-ive-played-in-a-hot-sec-and-i-felt-like-a-total-badass-drifting-through-its-neon-lit-cityscapes/)<!-- GAME:END -->
+ - [The first-ever Gran Turismo World Series Fan Fest comes to Los Angeles](https://blog.playstation.com/2025/10/23/the-first-ever-gran-turismo-world-series-fan-fest-comes-to-los-angeles/)
+ - [The Outer Worlds 2: The Kotaku Review](https://kotaku.com/outer-worlds-2-review-rpg-xbox-ps5-2000638368)
+ - [Former Assassin&#39;s Creed director reveals horror extraction game Nightholme](https://www.polygon.com/nightholme-studio-ellipsis-assassins-creed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
