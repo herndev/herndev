@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Meesho and the rise of quick commerce companies disrupted Flipkart and Amazon&#39;s e-commerce duopoly that had existed in India for over a decade until 2023 &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/251023/p9#a251023p9)
- - [Bad news keeps piling up for the Galaxy S26 series](https://www.androidauthority.com/samsung-galaxy-s26-launch-delay-leak-3609516/)
- - [Same Snake, Different Oil: Wellness Influencers and the Rise of Health Misinformation](https://www.cnet.com/health/features/same-snake-different-oil-wellness-influencers-rise-health-misinformation/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Espresso Pro portable monitor is a revolution for remote work](https://www.theverge.com/reviews/805112/the-espresso-pro-portable-monitor-is-a-revolution-for-remote-work)
+ - [Airbus, Leonardo, and Thales agree to a deal to combine their space businesses, promising &quot;significant synergies&quot; in a bid to build a European SpaceX competitor &lpar;Financial Times&rpar;](http://www.techmeme.com/251023/p12#a251023p12)
+ - [OpenAI, Oracle, and Vantage Data Centers plan to build a data center in Wisconsin called Lighthouse, costing $15B+ and set to open in 2028, as part of Stargate &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/251023/p11#a251023p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
