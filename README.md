@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [D&amp;D brings back Dragonlance creators and Joe Manganiello for new project](https://www.polygon.com/dnd-dungeons-dragons-dragonlance-manganiello-hickman-weis/)
  - [Rainbow Six Siege X creative director talks PvE and cheating: &#39;we need to be faster&#39; to combat cheat makers, but they&#39;ll never be eliminated entirely](https://www.pcgamer.com/games/fps/rainbow-six-siege-x-creative-director-talks-pve-and-cheating-we-need-to-be-faster-to-combat-cheat-makers-but-theyll-never-be-eliminated-entirely/)
- - [Today&#39;s Wordle clues, hints and answer for October 23 &lpar;#1587&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-23-2025/)
- - [This Ring Alarm for 3 Bedrooms Hits a New Record Low, Amazon Dumps Stock of Its Own Brand](https://kotaku.com/this-ring-alarm-for-3-bedrooms-hits-a-new-record-low-amazon-dumps-stock-of-its-own-brand-2000638348)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for October 23 &lpar;#1587&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-23-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
