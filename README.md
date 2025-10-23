@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google promises GPU updates for Pixel 10, but what does it really mean?](https://www.androidauthority.com/google-pixel-10-gpu-update-3609497/)
- - [A look at DeepSeek&#39;s rise in Africa, as China&#39;s lightweight, low-cost AI models make inroads into the continent via tech infrastructure built by Huawei and ZTE &lpar;Bloomberg&rpar;](http://www.techmeme.com/251023/p8#a251023p8)
- - [The Atlanta Fed estimates delays faced by claimants in COBOL-based unemployment insurance systems cut US GDP by at least $40B between March 13 and year-end 2020 &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/251023/p7#a251023p7)<!-- TECH:END -->
+ - [This is fine: Google Photos could soon let you turn yourself into a meme](https://www.androidauthority.com/google-photos-meme-generator-apk-teardown-3609502/)
+ - [OnePlus confirms a key downgrade for the OnePlus 15](https://www.androidauthority.com/oneplus-15-key-downgrade-confirmed-3609479/)
+ - [Google promises GPU updates for Pixel 10, but what does it really mean?](https://www.androidauthority.com/google-pixel-10-gpu-update-3609497/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
