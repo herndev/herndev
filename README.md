@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix adapting Charles Burns&#39; award-winning Black Hole comic](https://www.polygon.com/black-hole-charles-burns-netflix-tv-series-jane-schoenbrun/)
- - [Bizarre Final Fantasy Tactics: The Ivalice Chronicles Glitch Instantly Pops Every Achievement](https://kotaku.com/final-fantasy-tactics-glitch-achievements-platinum-trophy-2000638646)
- - [Counter-Strike cosmetics economy loses nearly $2 billion in value overnight](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/)<!-- GAME:END -->
+ - [Buckle Up, Xbox – Pacific Drive Launches Today with Game Pass](https://news.xbox.com/en-us/2025/10/23/pacific-drive-xbox-launch-game-pass/)
+ - [AI is &#39;a combination of metadata with a parlor trick,&#39; Take-Two boss says: &#39;A great thing&#39; for business, but it&#39;s not creative and never will be](https://www.pcgamer.com/software/ai/ai-is-a-combination-of-metadata-with-a-parlor-trick-take-two-boss-says-a-great-thing-for-business-but-its-not-creative-and-never-will-be/)
+ - [All Video Game Controllers Need Back Paddles, Damn It](https://kotaku.com/god-of-war-20th-anniversary-dualsense-edge-controller-2000638652)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
