@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink VP Lauren Dreyer says the company &quot;proactively identified and disabled over 2,500 Starlink Kits in the vicinity of suspected &#39;scam centers&#39;&quot; in Myanmar &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/251023/p2#a251023p2)
- - [OpenAI CISO Dane Stuckey outlines prompt injection mitigations in ChatGPT Atlas, including a &quot;logged out mode&quot; that blocks agent access to user credentials &lpar;Dane Stuckey/@cryps1s&rpar;](http://www.techmeme.com/251023/p1#a251023p1)
- - [One smart ring brand is gone from the US, and another just cut a deal](https://www.androidauthority.com/ultrahuman-us-ban-3609467/)<!-- TECH:END -->
+ - [Sources: Nexperia&#39;s China unit has resumed chip sales to local distributors, with transactions now settled in yuan instead of foreign currencies such as the USD &lpar;Reuters&rpar;](http://www.techmeme.com/251023/p5#a251023p5)
+ - [Top AI researchers and executives in SV are working 80 to 100 hours a week, driven by intense competition, as AI&#39;s rapid progress compresses product timelines &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251023/p4#a251023p4)
+ - [It looks like Google just locked out GrapheneOS users from the Pixel Camera app](https://www.androidauthority.com/grapheneos-pixel-camera-app-3609484/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
