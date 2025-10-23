@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmmmm..](http://9gag.com/gag/aMVDrEA)
- - ⏩ [THICC](http://9gag.com/gag/avy40wd)
- - 👉 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)<!-- MEMES:END -->
+ - 💣 [Killer meltdown in court after receiving life sentence while his mother curses the victim&#39;s family](http://9gag.com/gag/a6Z4dKe)
+ - ⏩ [Never provide a workaround for a company that is actively against you....](http://9gag.com/gag/an78YbB)
+ - 👉 [Just to make this clear](http://9gag.com/gag/aPAzyqG)<!-- MEMES:END -->
 
 ---
 
