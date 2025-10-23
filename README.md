@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for October 23 &lpar;#1587&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-23-2025/)
  - [This Ring Alarm for 3 Bedrooms Hits a New Record Low, Amazon Dumps Stock of Its Own Brand](https://kotaku.com/this-ring-alarm-for-3-bedrooms-hits-a-new-record-low-amazon-dumps-stock-of-its-own-brand-2000638348)
- - [It feels sacrilegious to say it, but Ninja Gaiden 4 is at its best when it goes full Devil May Cry](https://www.pcgamer.com/games/action/it-feels-sacrilegious-to-say-it-but-ninja-gaiden-4-is-at-its-best-when-it-goes-full-devil-may-cry/)
- - [Jackery 1500W Power Station Is Going for Peanuts, and Amazon Adds 2 Free Solar Panels on Top](https://kotaku.com/jackery-1500w-power-station-is-going-for-peanuts-and-amazon-adds-2-free-solar-panels-on-top-2000638342)<!-- GAME:END -->
+ - [It feels sacrilegious to say it, but Ninja Gaiden 4 is at its best when it goes full Devil May Cry](https://www.pcgamer.com/games/action/it-feels-sacrilegious-to-say-it-but-ninja-gaiden-4-is-at-its-best-when-it-goes-full-devil-may-cry/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
