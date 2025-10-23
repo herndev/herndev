@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Killer meltdown in court after receiving life sentence while his mother curses the victim&#39;s family](http://9gag.com/gag/a6Z4dKe)
- - ⏩ [Never provide a workaround for a company that is actively against you....](http://9gag.com/gag/an78YbB)
- - 👉 [Just to make this clear](http://9gag.com/gag/aPAzyqG)<!-- MEMES:END -->
+ - 💣 [When an brainwashed kid gets educated by an Iranian man about `Palestine`](http://9gag.com/gag/aW4PZVK)
+ - ⏩ [Hmmmm..](http://9gag.com/gag/aMVDrEA)
+ - 👉 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)<!-- MEMES:END -->
 
 ---
 
