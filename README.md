@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic’s Claude chatbot is getting a ‘memory’ upgrade](https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers)
- - [Shades of Epic vs. Apple: UK App Store users win $2 billion lawsuit](https://appleinsider.com/articles/25/10/23/shades-of-epic-vs-apple-uk-app-store-users-win-2-billion-lawsuit?utm_source=rss)
- - [Take $100 off the Minimal Phone and simplify your life](https://www.androidauthority.com/minimal-phone-deal-3609667/)<!-- TECH:END -->
+ - [Apple iPad A16 deal: Still the best tablet for most people!](https://www.androidauthority.com/apple-ipad-a16-deal-5-3609666/)
+ - [Meta cuts roles in its Risk unit citing a shift from manual reviews to a &quot;consistent and automated process&quot; that is delivering &quot;reliable compliance outcomes&quot; &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/251023/p38#a251023p38)
+ - [OpenAI acquires Software Applications Incorporated, which is building an AI-powered user interface for macOS and raised $6.5M from Sam Altman and others &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251023/p37#a251023p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
