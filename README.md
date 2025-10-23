@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Ring Alarm for 3 Bedrooms Hits a New Record Low, Amazon Dumps Stock of Its Own Brand](https://kotaku.com/this-ring-alarm-for-3-bedrooms-hits-a-new-record-low-amazon-dumps-stock-of-its-own-brand-2000638348)
  - [It feels sacrilegious to say it, but Ninja Gaiden 4 is at its best when it goes full Devil May Cry](https://www.pcgamer.com/games/action/it-feels-sacrilegious-to-say-it-but-ninja-gaiden-4-is-at-its-best-when-it-goes-full-devil-may-cry/)
- - [Jackery 1500W Power Station Is Going for Peanuts, and Amazon Adds 2 Free Solar Panels on Top](https://kotaku.com/jackery-1500w-power-station-is-going-for-peanuts-and-amazon-adds-2-free-solar-panels-on-top-2000638342)
- - [Back by popular demand: Can you guess the game based only on a blurb from a Steam review? Take Part 2 of our critical quiz!](https://www.pcgamer.com/games/back-by-popular-demand-can-you-guess-the-game-based-only-on-a-blurb-from-a-steam-review-take-part-2-of-our-critical-quiz/)<!-- GAME:END -->
+ - [Jackery 1500W Power Station Is Going for Peanuts, and Amazon Adds 2 Free Solar Panels on Top](https://kotaku.com/jackery-1500w-power-station-is-going-for-peanuts-and-amazon-adds-2-free-solar-panels-on-top-2000638342)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
