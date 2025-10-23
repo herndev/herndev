@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One smart ring brand is gone from the US, and another just cut a deal](https://www.androidauthority.com/ultrahuman-us-ban-3609467/)
- - [Elon Musk says Tesla&#39;s AI5 chip will be made by Samsung in Texas and TSMC in Arizona, with the &quot;oversupply&quot; of chips not used by Tesla going to his data centers &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251022/p48#a251022p48)
- - [How going viral made one Apple Store employee change his name](https://appleinsider.com/articles/25/10/23/how-going-viral-made-one-apple-store-employee-change-his-name?utm_source=rss)<!-- TECH:END -->
+ - [Starlink VP Lauren Dreyer says the company &quot;proactively identified and disabled over 2,500 Starlink Kits in the vicinity of suspected &#39;scam centers&#39;&quot; in Myanmar &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/251023/p2#a251023p2)
+ - [OpenAI CISO Dane Stuckey outlines prompt injection mitigations in ChatGPT Atlas, including a &quot;logged out mode&quot; that blocks agent access to user credentials &lpar;Dane Stuckey/@cryps1s&rpar;](http://www.techmeme.com/251023/p1#a251023p1)
+ - [One smart ring brand is gone from the US, and another just cut a deal](https://www.androidauthority.com/ultrahuman-us-ban-3609467/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
