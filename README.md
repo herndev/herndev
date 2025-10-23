@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could be making it easier to see which apps are a threat &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-live-threat-detection-page-3609356/)
- - [Nike’s Robotic Shoe Gets Humans One Step Closer to Cyborg](https://www.wired.com/story/nike-project-amplify/)
- - [14 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)<!-- TECH:END -->
+ - [The Stranger Things series finale is coming to theaters](https://www.theverge.com/news/805261/netflix-stranger-things-5-finale-theaters)
+ - [Internal memo: TikTok plans leadership changes, moving two teams under ByteDance veteran Fiona Zhi and undoing earlier efforts to empower Western executives &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/251023/p24#a251023p24)
+ - [iPhone 17, tariffs, and more: What to expect from Apple&#39;s Q4 2025 financials](https://appleinsider.com/articles/25/10/23/iphone-17-tariffs-and-more-what-to-expect-from-apples-q4-2025-financials?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
