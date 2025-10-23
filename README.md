@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba launches a free consumer-focused AI chatbot in its Quark app, powered by Qwen 3, and plans to open pre-sales for its $660 Quark AI Glasses on October 24 &lpar;Reuters&rpar;](http://www.techmeme.com/251023/p17#a251023p17)
- - [ChatGPT’s voice mode could soon get a major upgrade to take on the competition](https://www.androidauthority.com/chatgpt-voice-mode-chat-integration-apk-teardown-3609526/)
- - [AI creative studio Wonder Studios, backed by OpenAI and Google DeepMind execs, raised a $12M seed led by Atomico and aims to release its first content in 2026 &lpar;Najat Kantouar/Wall Street Journal&rpar;](http://www.techmeme.com/251023/p16#a251023p16)<!-- TECH:END -->
+ - [Ledger’s new Nano is meant to be more than just a crypto wallet](https://www.theverge.com/news/801726/ledger-nano-gen-5-crypto-signer-ai-authentication-susan-kare)
+ - [Hands-free home security is here, thanks to ADT and Google — but it’ll cost you](https://www.theverge.com/tech/803867/adt-plus-home-security-google-nest-smart-home)
+ - [Sources: Microsoft asks its Xbox unit to hit 30% &quot;accountability margins&quot;, or profit margins, and Xbox canceled products, cut jobs, and raised prices to meet it &lpar;Bloomberg&rpar;](http://www.techmeme.com/251023/p21#a251023p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
