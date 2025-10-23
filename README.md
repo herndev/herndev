@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Self written joke](http://9gag.com/gag/azxoENN)
- - ⏩ [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
- - 👉 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)<!-- MEMES:END -->
+ - 💣 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - ⏩ [About them sticks:](http://9gag.com/gag/a5Qvd0G)
+ - 👉 [My spirit animal](http://9gag.com/gag/ary943d)<!-- MEMES:END -->
 
 ---
 
