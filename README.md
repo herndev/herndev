@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Billboard rankings are funny](http://9gag.com/gag/aW4PW24)
- - ⏩ [Catfish burger](http://9gag.com/gag/aGy6wKX)
- - 👉 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)<!-- MEMES:END -->
+ - 💣 [It ain&#39;t me](http://9gag.com/gag/aGy6wpG)
+ - ⏩ [Hmmmm..](http://9gag.com/gag/aMVDrEA)
+ - 👉 [THICC](http://9gag.com/gag/avy40wd)<!-- MEMES:END -->
 
 ---
 
