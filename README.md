@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
- - ⏩ [King fruit](http://9gag.com/gag/a34eL78)
- - 👉 [Just to make this clear](http://9gag.com/gag/aPAzyqG)<!-- MEMES:END -->
+ - 💣 [Watching sports be like](http://9gag.com/gag/aW4PO66)
+ - ⏩ [Too late](http://9gag.com/gag/axyQ2KM)
+ - 👉 [Mildly interesting](http://9gag.com/gag/aVv4Qbv)<!-- MEMES:END -->
 
 ---
 
