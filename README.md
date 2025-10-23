@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The first-ever Gran Turismo World Series Fan Fest comes to Los Angeles](https://blog.playstation.com/2025/10/23/the-first-ever-gran-turismo-world-series-fan-fest-comes-to-los-angeles/)
- - [The Outer Worlds 2: The Kotaku Review](https://kotaku.com/outer-worlds-2-review-rpg-xbox-ps5-2000638368)
- - [Former Assassin&#39;s Creed director reveals horror extraction game Nightholme](https://www.polygon.com/nightholme-studio-ellipsis-assassins-creed/)<!-- GAME:END -->
+ - [Chainsaw Man movie box office predictions: Can it beat Demon Slayer?](https://www.polygon.com/chainsaw-man-the-movie-reze-arc-demon-slayer-infinity-castle-box-office/)
+ - [This HP Laptop &lpar;32GB RAM, 1TB SSD&rpar; at 72% Off Is the Tasty Worm Every Early Bird Wants Before Black Friday](https://kotaku.com/early-birds-this-72-off-hp-flagship-laptop-is-an-extremely-tasty-worm-2000638360)
+ - [People Are Turning This $1,000 Windows Handheld Into A Super Steam Deck And Getting Way Better Performance](https://kotaku.com/rog-xbox-ally-x-bazzite-steamos-linux-performance-2000638543)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
