@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
- - ⏩ [Just to make this clear](http://9gag.com/gag/aPAzyqG)
- - 👉 [Whats black, and white, and dead all over](http://9gag.com/gag/ayNZ0XY)<!-- MEMES:END -->
+ - 💣 [Guess if real or AI](http://9gag.com/gag/aXPQbo2)
+ - ⏩ [Mad Honey](http://9gag.com/gag/azxoL0K)
+ - 👉 [China ?](http://9gag.com/gag/an78X5B)<!-- MEMES:END -->
 
 ---
 
