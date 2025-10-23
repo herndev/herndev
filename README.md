@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPad A16 deal: Still the best tablet for most people!](https://www.androidauthority.com/apple-ipad-a16-deal-5-3609666/)
- - [Meta cuts roles in its Risk unit citing a shift from manual reviews to a &quot;consistent and automated process&quot; that is delivering &quot;reliable compliance outcomes&quot; &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/251023/p38#a251023p38)
- - [OpenAI acquires Software Applications Incorporated, which is building an AI-powered user interface for macOS and raised $6.5M from Sam Altman and others &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251023/p37#a251023p37)<!-- TECH:END -->
+ - [Anthropic says Claude&#39;s memory feature, initially available for Team and Enterprise users, is rolling out to Pro and Max subscribers &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/251023/p40#a251023p40)
+ - [Fallout 4 is getting a new edition just in time for the TV show](https://www.theverge.com/news/805612/fallout-4-anniversary-edition-release-date-trailer)
+ - [JBL’s rugged Charge 6 speaker is down to one of its lowest prices to date](https://www.theverge.com/tech/805472/jbl-charge-6-speaker-resident-evil-village-ps5-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
