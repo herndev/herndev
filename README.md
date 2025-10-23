@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Espresso Pro portable monitor is a revolution for remote work](https://www.theverge.com/reviews/805112/the-espresso-pro-portable-monitor-is-a-revolution-for-remote-work)
- - [Airbus, Leonardo, and Thales agree to a deal to combine their space businesses, promising &quot;significant synergies&quot; in a bid to build a European SpaceX competitor &lpar;Financial Times&rpar;](http://www.techmeme.com/251023/p12#a251023p12)
- - [OpenAI, Oracle, and Vantage Data Centers plan to build a data center in Wisconsin called Lighthouse, costing $15B+ and set to open in 2028, as part of Stargate &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/251023/p11#a251023p11)<!-- TECH:END -->
+ - [Alibaba launches a free consumer-focused AI chatbot in its Quark app, powered by Qwen 3, and plans to open pre-sales for its $660 Quark AI Glasses on October 24 &lpar;Reuters&rpar;](http://www.techmeme.com/251023/p17#a251023p17)
+ - [ChatGPT’s voice mode could soon get a major upgrade to take on the competition](https://www.androidauthority.com/chatgpt-voice-mode-chat-integration-apk-teardown-3609526/)
+ - [AI creative studio Wonder Studios, backed by OpenAI and Google DeepMind execs, raised a $12M seed led by Atomico and aims to release its first content in 2026 &lpar;Najat Kantouar/Wall Street Journal&rpar;](http://www.techmeme.com/251023/p16#a251023p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
