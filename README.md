@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can get three months of Audible’s subscription for $3](https://www.theverge.com/tech/805665/audible-premium-plus-subscription-deal-sale)
- - [GameHub’s latest update is here to improve your Steam and PC emulator experiences](https://www.androidauthority.com/gamehub-rolls-out-latest-update-3609745/)
- - [Apple amongst US tech giants backing Trump&#39;s White House ballroom reno](https://appleinsider.com/articles/25/10/23/apple-amongst-us-tech-giants-backing-trumps-white-house-ballroom-reno?utm_source=rss)<!-- TECH:END -->
+ - [Nintendo&amp;#8217;s chips make this Lego Game Boy upgrade kit the most authentic](https://www.theverge.com/games/805673/nintendos-chips-make-this-lego-game-boy-upgrade-kit-the-most-authentic)
+ - [EA strikes a partnership with Stability AI to build game developer tools that serve as &quot;smarter paintbrushes&quot; &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251023/p50#a251023p50)
+ - [Filing: Applied Materials plans to cut ~4% of its global workforce and expects the layoffs to cost $160M to $180M; it had 36,100 employees as of the end of July &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/251023/p49#a251023p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
