@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Self written joke](http://9gag.com/gag/azxoENN)
- - ⏩ [Guess if real or AI](http://9gag.com/gag/aXPQbo2)
- - 👉 [Took me a sec](http://9gag.com/gag/a1mBZQ8)<!-- MEMES:END -->
+ - 💣 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
+ - ⏩ [Took me a sec](http://9gag.com/gag/a1mBZQ8)
+ - 👉 [Self written joke](http://9gag.com/gag/azxoENN)<!-- MEMES:END -->
 
 ---
 
