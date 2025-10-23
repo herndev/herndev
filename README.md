@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just to make this clear](http://9gag.com/gag/aPAzyqG)
- - ⏩ [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
- - 👉 [I am jOrnalism](http://9gag.com/gag/a9yZP0D)<!-- MEMES:END -->
+ - 💣 [King fruit](http://9gag.com/gag/a34eL78)
+ - ⏩ [Just to make this clear](http://9gag.com/gag/aPAzyqG)
+ - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
 
 ---
 
