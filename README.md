@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fatshark celebrates 10 years of &#39;Tide, reveals Darktide is getting another new class and Vermintide 2 a new map](https://www.pcgamer.com/games/action/fatshark-celebrates-10-years-of-tide-reveals-darktide-is-getting-another-new-class-and-vermintide-2-a-new-map/)
- - [Hades 2&#39;s first post-launch update attempts to fix the &#39;true ending&#39; that nobody really liked](https://www.pcgamer.com/games/action/hades-2s-first-post-launch-update-attempts-to-fix-the-true-ending-that-nobody-really-liked/)
- - [Florida launches criminal investigation into Roblox, claims the gaming platform &#39;enabled our kids to be abused&#39;](https://www.pcgamer.com/games/florida-launches-criminal-investigation-into-roblox-claims-the-gaming-platform-enabled-our-kids-to-be-abused/)<!-- GAME:END -->
+ - [How AVGN 8-bit’s Monsters Ring in the Spooky Season](https://news.xbox.com/en-us/2025/10/23/avgn-8-bits-monsters-ring-in-spooky-season/)
+ - [Valve&#39;s latest Counter-Strike 2 update flashbangs entire skins market, headshots speculators, and clutch defuses inflationary market prices](https://www.pcgamer.com/games/fps/valves-latest-counter-strike-2-update-flashbangs-entire-skins-market-headshots-speculators-and-clutch-defuses-inflationary-market-prices/)
+ - [Does Chainsaw Man — The Movie: Reze Arc have a post-credits scene?](https://www.polygon.com/chainsaw-man-movie-reze-arc-post-credits-scene/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
