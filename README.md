@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
- - ⏩ [Took me a sec](http://9gag.com/gag/a1mBZQ8)
- - 👉 [Self written joke](http://9gag.com/gag/azxoENN)<!-- MEMES:END -->
+ - 💣 [Self written joke](http://9gag.com/gag/azxoENN)
+ - ⏩ [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
+ - 👉 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)<!-- MEMES:END -->
 
 ---
 
