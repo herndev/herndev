@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is fine: Google Photos could soon let you turn yourself into a meme](https://www.androidauthority.com/google-photos-meme-generator-apk-teardown-3609502/)
- - [OnePlus confirms a key downgrade for the OnePlus 15](https://www.androidauthority.com/oneplus-15-key-downgrade-confirmed-3609479/)
- - [Google promises GPU updates for Pixel 10, but what does it really mean?](https://www.androidauthority.com/google-pixel-10-gpu-update-3609497/)<!-- TECH:END -->
+ - [How Meesho and the rise of quick commerce companies disrupted Flipkart and Amazon&#39;s e-commerce duopoly that had existed in India for over a decade until 2023 &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/251023/p9#a251023p9)
+ - [Bad news keeps piling up for the Galaxy S26 series](https://www.androidauthority.com/samsung-galaxy-s26-launch-delay-leak-3609516/)
+ - [Same Snake, Different Oil: Wellness Influencers and the Rise of Health Misinformation](https://www.cnet.com/health/features/same-snake-different-oil-wellness-influencers-rise-health-misinformation/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
