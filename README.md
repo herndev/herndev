@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Catfish burger](http://9gag.com/gag/aGy6wKX)
- - ⏩ [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)
- - 👉 [Just to make this clear](http://9gag.com/gag/aPAzyqG)<!-- MEMES:END -->
+ - 💣 [Hmmmm..](http://9gag.com/gag/aMVDrEA)
+ - ⏩ [Took me a sec](http://9gag.com/gag/a1mBZQ8)
+ - 👉 [King fruit](http://9gag.com/gag/a34eL78)<!-- MEMES:END -->
 
 ---
 
