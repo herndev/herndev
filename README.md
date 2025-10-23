@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends: Z-A&#39;s new mega evolutions, ranked](https://www.polygon.com/pokemon-z-a-mega-evolutions-ranked/)
- - [Razer is finally giving a PlayStation-style controller the full competitive treatment and it&#39;s called the Raiju V3 Pro](https://www.pcgamer.com/hardware/controllers/razer-is-finally-giving-a-playstation-style-controller-the-full-competitive-treatment-and-its-called-the-raiju-v3-pro/)
- - [Counter Strike 2 Update Is A $2 Billion Shock To The Skin Economy: ‘How Do I Explain This To The IRS?’](https://kotaku.com/counter-strike-2-cs2-valve-skin-marketplace-covert-red-2000638560)<!-- GAME:END -->
+ - [Razer thoughtlessly alienates half its audience with ad showing a man blocking out a woman&#39;s &#39;yapping&#39; with its latest headset](https://www.pcgamer.com/hardware/gaming-headsets/razer-thoughtlessly-alienates-half-its-audience-with-ad-showing-a-man-blocking-out-a-womans-yapping-with-its-latest-headset/)
+ - [Govee LED Wall Light Bars &lpar;6-Pack&rpar; Drop to Lowest Price Yet, Each One Costs Less Than $10](https://kotaku.com/bring-some-light-into-your-space-with-these-gove-led-wall-lights-for-29-off-2000637778)
+ - [EA Keeps Deleting Call Of Duty Maps From The Battlefield 6 Portal](https://kotaku.com/battlefield-6-portal-call-of-duty-copyright-notice-2000638591)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
