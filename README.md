@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D brings back Dragonlance creators and Joe Manganiello for new project](https://www.polygon.com/dnd-dungeons-dragons-dragonlance-manganiello-hickman-weis/)
- - [Rainbow Six Siege X creative director talks PvE and cheating: &#39;we need to be faster&#39; to combat cheat makers, but they&#39;ll never be eliminated entirely](https://www.pcgamer.com/games/fps/rainbow-six-siege-x-creative-director-talks-pve-and-cheating-we-need-to-be-faster-to-combat-cheat-makers-but-theyll-never-be-eliminated-entirely/)
- - [Today&#39;s Wordle clues, hints and answer for October 23 &lpar;#1587&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-23-2025/)<!-- GAME:END -->
+ - [There&#39;s a guy in Old School RuneScape trying to eat over 500,000 trout, everyone keeps giving him more, and he might actually be a master market manipulator](https://www.pcgamer.com/games/mmo/theres-a-guy-in-old-school-runescape-trying-to-eat-over-500-000-trout-everyone-keeps-giving-him-more-and-he-might-actually-be-a-master-market-manipulator/)
+ - [Steamboat-Willy-with-a-machine-gun FPS Mouse PI delayed to 2026](https://www.pcgamer.com/games/fps/steamboat-willy-with-a-machine-gun-fps-mouse-pi-delayed-to-2026/)
+ - [With over 13,000 new games on Steam this year so far, over a third of them haven&#39;t even made enough to break even on Valve&#39;s submission fee](https://www.pcgamer.com/games/with-over-13-000-new-games-on-steam-this-year-so-far-over-a-third-of-them-havent-even-made-enough-to-break-even-on-valves-submission-fee/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
