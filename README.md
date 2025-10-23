@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chainsaw Man movie box office predictions: Can it beat Demon Slayer?](https://www.polygon.com/chainsaw-man-the-movie-reze-arc-demon-slayer-infinity-castle-box-office/)
- - [This HP Laptop &lpar;32GB RAM, 1TB SSD&rpar; at 72% Off Is the Tasty Worm Every Early Bird Wants Before Black Friday](https://kotaku.com/early-birds-this-72-off-hp-flagship-laptop-is-an-extremely-tasty-worm-2000638360)
- - [People Are Turning This $1,000 Windows Handheld Into A Super Steam Deck And Getting Way Better Performance](https://kotaku.com/rog-xbox-ally-x-bazzite-steamos-linux-performance-2000638543)<!-- GAME:END -->
+ - [Pokémon Legends: Z-A&#39;s new mega evolutions, ranked](https://www.polygon.com/pokemon-z-a-mega-evolutions-ranked/)
+ - [Razer is finally giving a PlayStation-style controller the full competitive treatment and it&#39;s called the Raiju V3 Pro](https://www.pcgamer.com/hardware/controllers/razer-is-finally-giving-a-playstation-style-controller-the-full-competitive-treatment-and-its-called-the-raiju-v3-pro/)
+ - [Counter Strike 2 Update Is A $2 Billion Shock To The Skin Economy: ‘How Do I Explain This To The IRS?’](https://kotaku.com/counter-strike-2-cs2-valve-skin-marketplace-covert-red-2000638560)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
