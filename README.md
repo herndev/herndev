@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Copilot is getting more personality with a ‘real talk’ mode and group chats](https://www.theverge.com/news/804122/microsoft-copilot-real-talk-mode-group-chats-features)
- - [The BrickBoy kit turns Lego’s Game Boy into a handheld emulator](https://www.theverge.com/news/805376/lego-game-boy-brickboy-emulator-kickstarter)
- - [Elon Musk says he needs $1 trillion to control Tesla’s ‘robot army’](https://www.theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package)<!-- TECH:END -->
+ - [Anthropic’s Claude chatbot is getting a ‘memory’ upgrade](https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers)
+ - [Shades of Epic vs. Apple: UK App Store users win $2 billion lawsuit](https://appleinsider.com/articles/25/10/23/shades-of-epic-vs-apple-uk-app-store-users-win-2-billion-lawsuit?utm_source=rss)
+ - [Take $100 off the Minimal Phone and simplify your life](https://www.androidauthority.com/minimal-phone-deal-3609667/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
