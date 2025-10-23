@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
- - ⏩ [About them sticks:](http://9gag.com/gag/a5Qvd0G)
- - 👉 [My spirit animal](http://9gag.com/gag/ary943d)<!-- MEMES:END -->
+ - 💣 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
+ - ⏩ [Took me a sec](http://9gag.com/gag/a1mBZQ8)
+ - 👉 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)<!-- MEMES:END -->
 
 ---
 
