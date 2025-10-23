@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rainbow Six Siege X creative director talks PvE and cheating: &#39;we need to be faster&#39; to combat cheat makers, but they&#39;ll never be eliminated entirely](https://www.pcgamer.com/games/fps/rainbow-six-siege-x-creative-director-talks-pve-and-cheating-we-need-to-be-faster-to-combat-cheat-makers-but-theyll-never-be-eliminated-entirely/)
  - [Today&#39;s Wordle clues, hints and answer for October 23 &lpar;#1587&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-23-2025/)
- - [This Ring Alarm for 3 Bedrooms Hits a New Record Low, Amazon Dumps Stock of Its Own Brand](https://kotaku.com/this-ring-alarm-for-3-bedrooms-hits-a-new-record-low-amazon-dumps-stock-of-its-own-brand-2000638348)
- - [It feels sacrilegious to say it, but Ninja Gaiden 4 is at its best when it goes full Devil May Cry](https://www.pcgamer.com/games/action/it-feels-sacrilegious-to-say-it-but-ninja-gaiden-4-is-at-its-best-when-it-goes-full-devil-may-cry/)<!-- GAME:END -->
+ - [This Ring Alarm for 3 Bedrooms Hits a New Record Low, Amazon Dumps Stock of Its Own Brand](https://kotaku.com/this-ring-alarm-for-3-bedrooms-hits-a-new-record-low-amazon-dumps-stock-of-its-own-brand-2000638348)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
