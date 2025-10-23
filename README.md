@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lovecraftian Horror in Cthulhu: The Cosmic Abyss – Building a World That Shouldn’t Exist](https://news.xbox.com/en-us/2025/10/23/cthulhu-the-cosmic-abyss-lovecraftian-horror/)
- - [Path of Exile 2 director says he would be &#39;beyond shocked&#39; if it didn&#39;t come out in 2026: &#39;We never intended to be in early access this long&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-2-director-says-he-would-be-beyond-shocked-if-it-didnt-come-out-in-2026-we-never-intended-to-be-in-early-access-this-long/)
- - [Noir shooter Mouse: P.I. For Hire finally has a release date](https://www.polygon.com/mouse-pi-for-hire-release-date/)<!-- GAME:END -->
+ - [Fatshark celebrates 10 years of &#39;Tide, reveals Darktide is getting another new class and Vermintide 2 a new map](https://www.pcgamer.com/games/action/fatshark-celebrates-10-years-of-tide-reveals-darktide-is-getting-another-new-class-and-vermintide-2-a-new-map/)
+ - [Hades 2&#39;s first post-launch update attempts to fix the &#39;true ending&#39; that nobody really liked](https://www.pcgamer.com/games/action/hades-2s-first-post-launch-update-attempts-to-fix-the-true-ending-that-nobody-really-liked/)
+ - [Florida launches criminal investigation into Roblox, claims the gaming platform &#39;enabled our kids to be abused&#39;](https://www.pcgamer.com/games/florida-launches-criminal-investigation-into-roblox-claims-the-gaming-platform-enabled-our-kids-to-be-abused/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
