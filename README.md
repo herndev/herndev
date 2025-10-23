@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shades of Epic vs. Apple: UK App Store users win $2 billion lawsuit](https://appleinsider.com/articles/25/10/23/shades-of-epic-vs-apple-uk-app-store-users-win-2-billion-lawsuit?utm_source=rss)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Sources: Adobe held talks to acquire Synthesia, which makes AI tools that generate video avatars of people, for ~$3B; the startup was valued at $2.1B in January &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/251023/p42#a251023p42)<!-- TECH:END -->
+ - [You can get three months of Audible’s subscription for $3](https://www.theverge.com/tech/805665/audible-premium-plus-subscription-deal-sale)
+ - [GameHub’s latest update is here to improve your Steam and PC emulator experiences](https://www.androidauthority.com/gamehub-rolls-out-latest-update-3609745/)
+ - [Apple amongst US tech giants backing Trump&#39;s White House ballroom reno](https://appleinsider.com/articles/25/10/23/apple-amongst-us-tech-giants-backing-trumps-white-house-ballroom-reno?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
