@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Buckle Up, Xbox – Pacific Drive Launches Today with Game Pass](https://news.xbox.com/en-us/2025/10/23/pacific-drive-xbox-launch-game-pass/)
- - [AI is &#39;a combination of metadata with a parlor trick,&#39; Take-Two boss says: &#39;A great thing&#39; for business, but it&#39;s not creative and never will be](https://www.pcgamer.com/software/ai/ai-is-a-combination-of-metadata-with-a-parlor-trick-take-two-boss-says-a-great-thing-for-business-but-its-not-creative-and-never-will-be/)
- - [All Video Game Controllers Need Back Paddles, Damn It](https://kotaku.com/god-of-war-20th-anniversary-dualsense-edge-controller-2000638652)<!-- GAME:END -->
+ - [Lovecraftian Horror in Cthulhu: The Cosmic Abyss – Building a World That Shouldn’t Exist](https://news.xbox.com/en-us/2025/10/23/cthulhu-the-cosmic-abyss-lovecraftian-horror/)
+ - [Path of Exile 2 director says he would be &#39;beyond shocked&#39; if it didn&#39;t come out in 2026: &#39;We never intended to be in early access this long&#39;](https://www.pcgamer.com/games/rpg/path-of-exile-2-director-says-he-would-be-beyond-shocked-if-it-didnt-come-out-in-2026-we-never-intended-to-be-in-early-access-this-long/)
+ - [Noir shooter Mouse: P.I. For Hire finally has a release date](https://www.polygon.com/mouse-pi-for-hire-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
