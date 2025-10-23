@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess if real or AI](http://9gag.com/gag/aXPQbo2)
- - ⏩ [Mad Honey](http://9gag.com/gag/azxoL0K)
- - 👉 [China ?](http://9gag.com/gag/an78X5B)<!-- MEMES:END -->
+ - 💣 [Billboard rankings are funny](http://9gag.com/gag/aW4PW24)
+ - ⏩ [Catfish burger](http://9gag.com/gag/aGy6wKX)
+ - 👉 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)<!-- MEMES:END -->
 
 ---
 
