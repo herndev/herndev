@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ledger’s new Nano is meant to be more than just a crypto wallet](https://www.theverge.com/news/801726/ledger-nano-gen-5-crypto-signer-ai-authentication-susan-kare)
- - [Hands-free home security is here, thanks to ADT and Google — but it’ll cost you](https://www.theverge.com/tech/803867/adt-plus-home-security-google-nest-smart-home)
- - [Sources: Microsoft asks its Xbox unit to hit 30% &quot;accountability margins&quot;, or profit margins, and Xbox canceled products, cut jobs, and raised prices to meet it &lpar;Bloomberg&rpar;](http://www.techmeme.com/251023/p21#a251023p21)<!-- TECH:END -->
+ - [Google could be making it easier to see which apps are a threat &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-live-threat-detection-page-3609356/)
+ - [Nike’s Robotic Shoe Gets Humans One Step Closer to Cyborg](https://www.wired.com/story/nike-project-amplify/)
+ - [14 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
