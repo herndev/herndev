@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Watching sports be like](http://9gag.com/gag/aW4PO66)
- - ⏩ [Too late](http://9gag.com/gag/axyQ2KM)
- - 👉 [Mildly interesting](http://9gag.com/gag/aVv4Qbv)<!-- MEMES:END -->
+ - 💣 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
+ - ⏩ [Just to make this clear](http://9gag.com/gag/aPAzyqG)
+ - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
 
 ---
 
