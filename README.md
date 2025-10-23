@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
- - ⏩ [Took me a sec](http://9gag.com/gag/a1mBZQ8)
- - 👉 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)<!-- MEMES:END -->
+ - 💣 [Catfish burger](http://9gag.com/gag/aGy6wKX)
+ - ⏩ [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)
+ - 👉 [Just to make this clear](http://9gag.com/gag/aPAzyqG)<!-- MEMES:END -->
 
 ---
 
