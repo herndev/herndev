@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmmmm..](http://9gag.com/gag/aMVDrEA)
- - ⏩ [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)
- - 👉 [Took me a sec](http://9gag.com/gag/a1mBZQ8)<!-- MEMES:END -->
+ - 💣 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
+ - ⏩ [Catfish burger](http://9gag.com/gag/aGy6wKX)
+ - 👉 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)<!-- MEMES:END -->
 
 ---
 
