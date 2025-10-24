@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So happy.](http://9gag.com/gag/aoyA9q3)
- - ⏩ [Man want only one thing and it&#39;s d!sgusting!](http://9gag.com/gag/a9yZ7K0)
- - 👉 [Self written joke](http://9gag.com/gag/azxoENN)<!-- MEMES:END -->
+ - 💣 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
+ - ⏩ [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
+ - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
 
 ---
 
