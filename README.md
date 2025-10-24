@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Snap is in talks with investors, including Saudi Arabia&#39;s Public Investment Fund, to raise at least $1B for its AR glasses division &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251023/p54#a251023p54)
  - [How iCloud backups helped expose a mob-and NBA-linked poker cheating scandal](https://appleinsider.com/articles/25/10/24/how-icloud-backups-helped-expose-a-mob-and-nba-linked-poker-cheating-scandal?utm_source=rss)
- - [US Energy Secretary Chris Wright urges FERC to limit the process for connecting data centers to power grids to 60 days, a process that typically takes years &lpar;Bloomberg&rpar;](http://www.techmeme.com/251023/p53#a251023p53)
- - [The ‘Surge’ of Troops May Not Come to San Francisco, but the City Is Ready Anyway](https://www.wired.com/story/san-francisco-troops-protests-ice/)<!-- TECH:END -->
+ - [US Energy Secretary Chris Wright urges FERC to limit the process for connecting data centers to power grids to 60 days, a process that typically takes years &lpar;Bloomberg&rpar;](http://www.techmeme.com/251023/p53#a251023p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
