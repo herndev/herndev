@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally some good news](http://9gag.com/gag/apRzvrW)
- - ⏩ [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
- - 👉 [King fruit](http://9gag.com/gag/a34eL78)<!-- MEMES:END -->
+ - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
+ - ⏩ [Wth happened?!](http://9gag.com/gag/amoK8Qo)
+ - 👉 [Watching Shazam 2, when I suddenly noticed something familiar.](http://9gag.com/gag/a2v95WE)<!-- MEMES:END -->
 
 ---
 
