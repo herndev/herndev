@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This video on USB Type-C made by European Parliament goes harder than it has any right to](https://www.pcgamer.com/hardware/this-video-on-usb-type-c-made-by-european-parliament-goes-harder-than-it-has-any-right-to/)
- - [Instruments of Destruction Explodes onto Xbox Series X|S Today](https://news.xbox.com/en-us/2025/10/24/instruments-of-destruction-explodes-onto-xbox-series-xs-today/)
- - [Today&#39;s Wordle clues, hints and answer for October 24 &lpar;#1588&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-24-2025/)<!-- GAME:END -->
+ - [&#39;Everything is on the table&#39;: Trump administration reportedly considering curbs on exports made using US software to China](https://www.pcgamer.com/software/everything-is-on-the-table-trump-administration-reportedly-considering-curbs-on-exports-made-using-us-software-to-china/)
+ - [Seagate 4TB Portable Hard Drive Hits $0.02 per GB, the Cheapest Way to Expand Xbox or PlayStation Storage Yet](https://kotaku.com/seagate-4tb-portable-hard-drive-hits-0-02-per-gb-the-cheapest-way-to-expand-xbox-or-playstation-storage-yet-2000638557)
+ - [I&#39;ve been humbled by a browser game that challenges you to craft as many items in Minecraft as you can in ten seconds](https://www.pcgamer.com/games/survival-crafting/ive-been-humbled-by-a-browser-game-that-challenges-you-to-craft-as-many-items-in-minecraft-as-you-can-in-ten-seconds/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
