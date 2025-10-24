@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [King fruit](http://9gag.com/gag/a34eL78)
- - ⏩ [I am jOrnalism](http://9gag.com/gag/a9yZP0D)
- - 👉 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)<!-- MEMES:END -->
+ - 💣 [Too late](http://9gag.com/gag/axyQ2KM)
+ - ⏩ [Your perspective is everything](http://9gag.com/gag/a4Pmd4Z)
+ - 👉 [Her `Engrish` is sadly probably better than some of the native speakers in that city.](http://9gag.com/gag/azxoVBz)<!-- MEMES:END -->
 
 ---
 
