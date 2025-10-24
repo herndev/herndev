@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Everything is on the table&#39;: Trump administration reportedly considering curbs on exports made using US software to China](https://www.pcgamer.com/software/everything-is-on-the-table-trump-administration-reportedly-considering-curbs-on-exports-made-using-us-software-to-china/)
- - [Seagate 4TB Portable Hard Drive Hits $0.02 per GB, the Cheapest Way to Expand Xbox or PlayStation Storage Yet](https://kotaku.com/seagate-4tb-portable-hard-drive-hits-0-02-per-gb-the-cheapest-way-to-expand-xbox-or-playstation-storage-yet-2000638557)
- - [I&#39;ve been humbled by a browser game that challenges you to craft as many items in Minecraft as you can in ten seconds](https://www.pcgamer.com/games/survival-crafting/ive-been-humbled-by-a-browser-game-that-challenges-you-to-craft-as-many-items-in-minecraft-as-you-can-in-ten-seconds/)<!-- GAME:END -->
+ - [Black Phone 2 has Christian roots, but isn&#39;t a &#39;faith-based film&#39;](https://www.polygon.com/black-phone-2-christianity-director-interview-religion-explained/)
+ - [Microsoft Gaming Boss Phil Spencer Reveals His Thoughts On Xbox Using AI](https://kotaku.com/microsoft-xbox-ai-development-moderation-phil-spencer-2000638826)
+ - [Xbox Elite Series 2 Core Controller Is Selling Fast as Amazon Clears Out Stock at an All-Time Low](https://kotaku.com/xbox-elite-series-2-core-controller-is-selling-fast-as-amazon-clears-out-stock-at-an-all-time-low-2000638568)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
