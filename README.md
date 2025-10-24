@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mustafa Suleyman says Microsoft won&#39;t provide erotica AI services and that &quot;other companies will build that&quot;, after Sam Altman said ChatGPT would offer erotica &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/251023/p51#a251023p51)
- - [Trump&#39;s Investment in Intel Is Paying Off](https://www.wired.com/story/intel-earnings-chips-semiconductors-investment/)
- - [Apple warns Europe could force it to turn off key privacy feature](https://appleinsider.com/articles/25/10/23/apple-warns-europe-could-force-it-to-turn-off-key-privacy-feature?utm_source=rss)<!-- TECH:END -->
+ - [How Hacked Card Shufflers Allegedly Enabled a Mob-Fueled Poker Scam That Rocked the NBA](https://www.wired.com/story/how-hacked-card-shufflers-allegedly-enabled-a-mob-fueled-poker-scam-that-rocked-the-nba/)
+ - [Intel’s tick-tock isn’t coming back, and everything else I just learned](https://www.theverge.com/tech/805652/intel-q3-2025-earnings-18a-panther-lake-ai-gpus-annual)
+ - [Mustafa Suleyman says Microsoft won&#39;t provide erotica AI services and that &quot;other companies will build that&quot;, after Sam Altman said ChatGPT would offer erotica &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/251023/p51#a251023p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
