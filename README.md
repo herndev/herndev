@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
- - ⏩ [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
- - 👉 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)<!-- MEMES:END -->
+ - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
+ - ⏩ [Wth happened?!](http://9gag.com/gag/amoK8Qo)
+ - 👉 [Finally some good news](http://9gag.com/gag/apRzvrW)<!-- MEMES:END -->
 
 ---
 
