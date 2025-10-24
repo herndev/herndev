@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kirby Air Riders&amp;#8217; impressive accessibility features are a rarity for Nintendo](https://www.theverge.com/games/806242/kirby-air-riders-accessibility-features-nintendo-switch-2)
- - [Crypto.com follows Circle, BitGo, and others in applying for a US bank charter, as it seeks to further its custody-service business for products such as ETFs &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251024/p13#a251024p13)
- - [Yaber T2 Outdoor Projector drops to new record-low price!](https://www.androidauthority.com/yaber-t2-outdoor-projector-deal-3-3609966/)<!-- TECH:END -->
+ - [Netflix shuts down Boss Fight Entertainment, the game studio behind mobile game Squid Game: Unleashed, after acquiring it in March 2022 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251024/p14#a251024p14)
+ - [Descend Into a Psychedelic Gothic Nightmare in This Cult Horror Movie](https://www.cnet.com/culture/entertainment/descend-into-a-psychedelic-gothic-nightmare-in-this-cult-horror-movie/#ftag=CAD590a51e)
+ - [That Massive AWS Outage Explained: Failures and Fixes Tripping Over Themselves](https://www.cnet.com/tech/services-and-software/amazon-web-services-outage-october-20-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
