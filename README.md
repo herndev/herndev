@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung allows bootloader unlocking on Galaxy XR after killing it on phones](https://www.androidauthority.com/samsung-galaxy-xr-bootloader-unlocking-3609841/)
- - [ChatGPT’s Atlas browser is already prepping a post-launch glow-up](https://www.androidauthority.com/chatgpt-atlas-browser-new-features-3609848/)
- - [Snapdragon 6s Gen 4 revealed: Budget phones just got a gaming, emulation boost](https://www.androidauthority.com/snapdragon-6s-gen-4-3609820/)<!-- TECH:END -->
+ - [How Prankster Oobah Butler Convinced Venture Capitalists to Give Him Over $1 Million](https://www.wired.com/story/oobah-butler-documentary-interview/)
+ - [Galaxy S26 Ultra design and key upgrade confirmed by case maker](https://www.androidauthority.com/samsung-galaxy-s26-ultra-case-leak-3609873/)
+ - [What a coincidence: Microsoft Edge has the same ideas as ChatGPT’s browser](https://www.androidauthority.com/microsoft-edge-ai-chatgpt-atlas-browser-3609857/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
