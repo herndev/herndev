@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK prosecutors say the ringleader of a 2024 arson attack on Ukraine-linked businesses in London discussed kidnapping Revolut&#39;s Russia-born CEO Nikolay Storonsky &lpar;Michael Holden/Reuters&rpar;](http://www.techmeme.com/251024/p6#a251024p6)
- - [Trump’s got Big Tech and crypto bankrolling White House ballroom](https://www.theverge.com/news/806027/trumps-got-big-tech-and-crypto-bankrolling-white-house-ballroom)
- - [Dell Tower Plus Review: A Hybrid Work and Gaming Desktop](https://www.wired.com/review/dell-tower-plus-ebt2250/)<!-- TECH:END -->
+ - [Best 360 Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-360-cameras/)
+ - [Dispatch offers a rare unique twist on superhero stories](https://www.theverge.com/games/805679/dispatch-review-steam-ps5)
+ - [OpenAI made ChatGPT better at sifting through your work or school information](https://www.theverge.com/news/806046/openai-chatgpt-company-knowledge-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
