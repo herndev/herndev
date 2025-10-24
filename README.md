@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: President Trump has picked Michael Selig, the chief counsel for the SEC&#39;s crypto task force, to chair the CFTC, amid a crypto push &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/251024/p17#a251024p17)
- - [Nothing attempts to justify its move to put bloatware on your next phone](https://www.androidauthority.com/nothing-phone-third-party-partner-apps-3610093/)
- - [With an influx of Meta alums, some OpenAI staffers worry it is adopting Meta&#39;s tactics, like using social media dynamics with Sora and a softening stance on ads &lpar;The Information&rpar;](http://www.techmeme.com/251024/p16#a251024p16)<!-- TECH:END -->
+ - [IKEA’s tiny smartphone bed rewards you for getting better sleep](https://www.androidauthority.com/ikea-smartphone-bed-3610118/)
+ - [Microsoft plans to bring its Halo franchise to the PlayStation for the first time with the launch of a 25th‑anniversary remake of Halo: Combat Evolved in 2026 &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/251024/p19#a251024p19)
+ - [Grindr board members Ray Zage and James Lu, part of an investor group that owns more than 60%, offer to take Grindr private for ~$3.46B; GRND closes up 18.63% &lpar;Reuters&rpar;](http://www.techmeme.com/251024/p18#a251024p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
