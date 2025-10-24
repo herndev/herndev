@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Self written joke](http://9gag.com/gag/azxoENN)
- - ⏩ [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 👉 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)<!-- MEMES:END -->
+ - 💣 [I have principles!](https://www.reddit.com/r/funny/comments/1oevqze/i_have_principles/)
+ - ⏩ [Finally some good news](http://9gag.com/gag/apRzvrW)
+ - 👉 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)<!-- MEMES:END -->
 
 ---
 
