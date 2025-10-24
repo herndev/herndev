@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IKEA’s tiny smartphone bed rewards you for getting better sleep](https://www.androidauthority.com/ikea-smartphone-bed-3610118/)
- - [Microsoft plans to bring its Halo franchise to the PlayStation for the first time with the launch of a 25th‑anniversary remake of Halo: Combat Evolved in 2026 &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/251024/p19#a251024p19)
- - [Grindr board members Ray Zage and James Lu, part of an investor group that owns more than 60%, offer to take Grindr private for ~$3.46B; GRND closes up 18.63% &lpar;Reuters&rpar;](http://www.techmeme.com/251024/p18#a251024p18)<!-- TECH:END -->
+ - [Wordle has achievements now](https://www.theverge.com/news/806578/nyt-games-badges-achievements-wordle-spelling-bee-connections)
+ - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)
+ - [IKEA’s tiny smartphone bed rewards you for getting better sleep](https://www.androidauthority.com/ikea-smartphone-bed-3610118/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
