@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Prankster Oobah Butler Convinced Venture Capitalists to Give Him Over $1 Million](https://www.wired.com/story/oobah-butler-documentary-interview/)
- - [Galaxy S26 Ultra design and key upgrade confirmed by case maker](https://www.androidauthority.com/samsung-galaxy-s26-ultra-case-leak-3609873/)
- - [What a coincidence: Microsoft Edge has the same ideas as ChatGPT’s browser](https://www.androidauthority.com/microsoft-edge-ai-chatgpt-atlas-browser-3609857/)<!-- TECH:END -->
+ - [Sources: JPMorgan plans to allow institutional clients globally to use their holdings of bitcoin and ether as collateral for loans by end of year &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/251024/p4#a251024p4)
+ - [How iCloud backups helped expose a mob and NBA poker cheating scandal](https://appleinsider.com/articles/25/10/24/how-icloud-backups-helped-expose-a-mob-and-nba-linked-poker-cheating-scandal?utm_source=rss)
+ - [It’s game over for this clever T-Mobile billing hack that saved users $5 per line monthly](https://www.androidauthority.com/t-mobile-autopay-credit-card-loophole-closed-3609886/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
