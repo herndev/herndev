@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo’s Worst Level Is Getting Changed In The New PS5 Remake](https://kotaku.com/halos-worst-level-is-getting-changed-in-the-new-ps5-remake-2000638963)
- - [Tech investor declares &#39;AI games are going to be amazing,&#39; posts an AI-generated &#39;demo&#39; of a god-awful shooter as proof](https://www.pcgamer.com/gaming-industry/tech-investor-declares-ai-games-are-going-to-be-amazing-posts-an-ai-generated-demo-of-a-god-awful-shooter-as-proof/)
- - [The Outer Worlds 2 interactive maps](https://www.polygon.com/map/the-outer-worlds-2-interactive-maps-free-market-horizon-point-station/)<!-- GAME:END -->
+ - [Shelby Oaks ending explained: director Chris Stuckman on the big twists](https://www.polygon.com/shelby-oaks-ending-explained-chris-stuckmann-interview/)
+ - [The Outer Worlds 2 guides](https://www.polygon.com/the-outer-worlds-2-guides-walkthrough-tips/)
+ - [Amazon Is Offloading This 60,000mAh Power Bank for Pennies, Anker’s Stock Is Flying off the Shelves](https://kotaku.com/amazon-is-offloading-this-60000mah-power-bank-for-pennies-ankers-stock-is-flying-off-the-shelves-2000638972)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
