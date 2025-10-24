@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wordle has achievements now](https://www.theverge.com/news/806578/nyt-games-badges-achievements-wordle-spelling-bee-connections)
- - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)
- - [IKEA’s tiny smartphone bed rewards you for getting better sleep](https://www.androidauthority.com/ikea-smartphone-bed-3610118/)<!-- TECH:END -->
+ - [Sources: X&#39;s advertising chief John Nitti, who joined in January, has left; X&#39;s CFO Mahmoud Reza Banki left in early October after less than a year in the role &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/251024/p21#a251024p21)
+ - [Gemini’s Canvas tool can now turn your doc into a full presentation in seconds](https://www.androidauthority.com/gemini-canvas-presentations-3610150/)
+ - [Sources detail how Sam Altman, Jensen Huang, Marc Benioff, and others brokered a call between SF Mayor Daniel Lurie and Trump to stop National Guard deployment &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251024/p20#a251024p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
