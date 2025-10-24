@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gearing Up for Icarus: Dean Hall Reveals his Survival Tips and More](https://news.xbox.com/en-us/2025/10/24/icarus-dean-hall-interview/)
- - [Sims 4 YouTubers Abandon EA Creator Program Over Saudi Arabia](https://kotaku.com/sims-4-youtubers-pokemon-legends-z-a-sales-2000638834)
- - [Microsoft resurrects Clippy in Copilot, presumably because it&#39;s intrusive, doesn&#39;t understand context, and is god damn annoying](https://www.pcgamer.com/software/ai/microsoft-resurrects-clippy-in-copilot-presumably-because-its-intrusive-doesnt-understand-context-and-is-god-damn-annoying/)<!-- GAME:END -->
+ - [Elden Ring&#39;s dodge roll deserves to be celebrated](https://www.polygon.com/elden-ring-in-defense-of-the-dodge-roll/)
+ - [Obsidian’s Favorite Character Builds for The Outer Worlds 2](https://news.xbox.com/en-us/2025/10/24/obsidians-favorite-character-builds-for-the-outer-worlds-2/)
+ - [The Simpsons is Fortnite&#39;s next season as Springfield takes over island](https://www.polygon.com/fortnite-simpsons-season-when-is-where-is-map-bart-treehouse/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
