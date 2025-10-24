@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Hacked Card Shufflers Allegedly Enabled a Mob-Fueled Poker Scam That Rocked the NBA](https://www.wired.com/story/how-hacked-card-shufflers-allegedly-enabled-a-mob-fueled-poker-scam-that-rocked-the-nba/)
- - [Intel’s tick-tock isn’t coming back, and everything else I just learned](https://www.theverge.com/tech/805652/intel-q3-2025-earnings-18a-panther-lake-ai-gpus-annual)
- - [Mustafa Suleyman says Microsoft won&#39;t provide erotica AI services and that &quot;other companies will build that&quot;, after Sam Altman said ChatGPT would offer erotica &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/251023/p51#a251023p51)<!-- TECH:END -->
+ - [How iCloud backups helped expose a mob-and NBA-linked poker cheating scandal](https://appleinsider.com/articles/25/10/24/how-icloud-backups-helped-expose-a-mob-and-nba-linked-poker-cheating-scandal?utm_source=rss)
+ - [US Energy Secretary Chris Wright urges FERC to limit the process for connecting data centers to power grids to 60 days, a process that typically takes years &lpar;Bloomberg&rpar;](http://www.techmeme.com/251023/p53#a251023p53)
+ - [The ‘Surge’ of Troops May Not Come to San Francisco, but the City Is Ready Anyway](https://www.wired.com/story/san-francisco-troops-protests-ice/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
