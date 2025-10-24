@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
- - ⏩ [I am jOrnalism](http://9gag.com/gag/a9yZP0D)
- - 👉 [King fruit](http://9gag.com/gag/a34eL78)<!-- MEMES:END -->
+ - 💣 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - ⏩ [He is genuine shocked](http://9gag.com/gag/aVv4XzP)
+ - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
 
 ---
 
