@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How AVGN 8-bit’s Monsters Ring in the Spooky Season](https://news.xbox.com/en-us/2025/10/23/avgn-8-bits-monsters-ring-in-spooky-season/)
- - [Valve&#39;s latest Counter-Strike 2 update flashbangs entire skins market, headshots speculators, and clutch defuses inflationary market prices](https://www.pcgamer.com/games/fps/valves-latest-counter-strike-2-update-flashbangs-entire-skins-market-headshots-speculators-and-clutch-defuses-inflationary-market-prices/)
- - [Does Chainsaw Man — The Movie: Reze Arc have a post-credits scene?](https://www.polygon.com/chainsaw-man-movie-reze-arc-post-credits-scene/)<!-- GAME:END -->
+ - [The secret hero of Battlefield 6&#39;s next update is a jeep that doesn&#39;t suck](https://www.pcgamer.com/games/fps/the-secret-hero-of-battlefield-6s-next-update-is-a-jeep-that-doesnt-suck/)
+ - [The Outer Worlds 2 release times and preload details](https://www.pcgamer.com/games/rpg/the-outer-worlds-2-release-times-and-preload/)
+ - [How AVGN 8-bit’s Monsters Ring in the Spooky Season](https://news.xbox.com/en-us/2025/10/23/avgn-8-bits-monsters-ring-in-spooky-season/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
