@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - ⏩ [That looks expensive](http://9gag.com/gag/aQzBnLq)
- - 👉 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)<!-- MEMES:END -->
+ - ⏩ [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
+ - 👉 [Finally some good news](http://9gag.com/gag/apRzvrW)<!-- MEMES:END -->
 
 ---
 
