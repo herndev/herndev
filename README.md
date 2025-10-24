@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Keep it or ditch it? Here’s what Pixel 10 Pro Fold owners are deciding](https://www.androidauthority.com/pixel-10-pro-fold-user-feedback-3609816/)
- - [A US judge says Meta lawyers told staff to block or remove parts of internal teen mental health research to limit liability; Meta says no findings were removed &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/251023/p56#a251023p56)
- - [This new Snapdragon 8 Elite Gen 5 mid-ranger embarrasses flagships twice its price](https://www.androidauthority.com/redmi-k90-pro-max-3609810/)<!-- TECH:END -->
+ - [Does Your Internet Connection Feel Slower Than It Should Be? Here’s How to Test It and Use the Result](https://www.cnet.com/home/internet/does-your-internet-connection-feel-slow-heres-how-to-test-it/#ftag=CAD590a51e)
+ - [A US judge says Meta lawyers told staff to block or remove parts of internal teen mental health research to limit liability; Meta says no findings were removed &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/251023/p56#a251023p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
