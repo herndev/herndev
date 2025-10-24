@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Witcher 3&#39;s Quen is the humble shield spell you can&#39;t live without](https://www.polygon.com/the-witcher-3-quen-is-the-humble-shield-spell-you-cant-live-without/)
- - [Next Week on Xbox: New Games for October 27 to 31](https://news.xbox.com/en-us/2025/10/24/next-week-on-xbox-new-games-for-october-27-to-31/)
- - [This Is The Closest We’ve Gotten To A New KPop Demon Hunters Song](https://kotaku.com/kpop-demon-hunters-new-song-ejae-in-another-world-video-2000638832)<!-- GAME:END -->
+ - [Gearing Up for Icarus: Dean Hall Reveals his Survival Tips and More](https://news.xbox.com/en-us/2025/10/24/icarus-dean-hall-interview/)
+ - [Sims 4 YouTubers Abandon EA Creator Program Over Saudi Arabia](https://kotaku.com/sims-4-youtubers-pokemon-legends-z-a-sales-2000638834)
+ - [Microsoft resurrects Clippy in Copilot, presumably because it&#39;s intrusive, doesn&#39;t understand context, and is god damn annoying](https://www.pcgamer.com/software/ai/microsoft-resurrects-clippy-in-copilot-presumably-because-its-intrusive-doesnt-understand-context-and-is-god-damn-annoying/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
