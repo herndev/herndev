@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bloodshed’s Journey from Art Prototype to Xbox Release](https://news.xbox.com/en-us/2025/10/24/bloodsheds-journey-from-art-prototype-to-release/)
- - [Amidst allegations of AI art and complaints about the music, Plants vs. Zombies fans are not happy with the remaster](https://www.pcgamer.com/games/strategy/amidst-allegations-of-ai-art-and-complaints-about-the-music-plants-vs-zombies-fans-are-not-happy-with-the-remaster/)
- - [Vampire: The Masquerade – Bloodlines 2&#39;s biggest mistake is being called Bloodlines 2](https://www.pcgamer.com/games/rpg/vampire-the-masquerade-bloodlines-2s-biggest-mistake-is-being-called-bloodlines-2/)<!-- GAME:END -->
+ - [How to Build Your Perfect Party in The Lonesome Guild](https://news.xbox.com/en-us/2025/10/24/how-to-build-your-perfect-party-in-the-lonesome-guild/)
+ - [Holy Crap, It Looks Like Disney Is Finally Restoring And Releasing The Original Version Of Star Wars](https://kotaku.com/star-wars-original-theatrical-cut-4k-restoration-leaks-screenshot-disney-2027-2000638887)
+ - [It Took Me Eight Years To Discover My Favorite Switch Feature](https://kotaku.com/switch-2-hidden-shortcut-screen-brightness-2000638888)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
