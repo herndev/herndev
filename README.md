@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon 6s Gen 4 revealed: Budget phones just got a gaming, emulation boost](https://www.androidauthority.com/snapdragon-6s-gen-4-3609820/)
- - [Pricempire: after Valve updated the exchange rate of Counter-Strike digital items, the market fell by $1.75B, or 25%, on October 23; in 2024, a gun sold for $1M &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/251024/p1#a251024p1)
- - [Keep it or ditch it? Here’s what Pixel 10 Pro Fold owners are deciding](https://www.androidauthority.com/pixel-10-pro-fold-user-feedback-3609816/)<!-- TECH:END -->
+ - [Samsung allows bootloader unlocking on Galaxy XR after killing it on phones](https://www.androidauthority.com/samsung-galaxy-xr-bootloader-unlocking-3609841/)
+ - [ChatGPT’s Atlas browser is already prepping a post-launch glow-up](https://www.androidauthority.com/chatgpt-atlas-browser-new-features-3609848/)
+ - [Snapdragon 6s Gen 4 revealed: Budget phones just got a gaming, emulation boost](https://www.androidauthority.com/snapdragon-6s-gen-4-3609820/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
