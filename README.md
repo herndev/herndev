@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This video on USB Type-C made by European Parliament goes harder than it has any right to](https://www.pcgamer.com/hardware/this-video-on-usb-type-c-made-by-european-parliament-goes-harder-than-it-has-any-right-to/)
  - [Instruments of Destruction Explodes onto Xbox Series X|S Today](https://news.xbox.com/en-us/2025/10/24/instruments-of-destruction-explodes-onto-xbox-series-xs-today/)
- - [Today&#39;s Wordle clues, hints and answer for October 24 &lpar;#1588&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-24-2025/)
- - [Xbox boss Phil Spencer says &#39;nurturing and protecting creative teams that want to go take risks&#39; is the priority, admits &#39;we don&#39;t always succeed at that&#39;](https://www.pcgamer.com/gaming-industry/xbox-boss-phil-spencer-says-nurturing-and-protecting-creative-teams-that-want-to-go-take-risks-is-the-priority-admits-we-dont-always-succeed-at-that/)<!-- GAME:END -->
+ - [Today&#39;s Wordle clues, hints and answer for October 24 &lpar;#1588&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-24-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
