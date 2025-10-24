@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Phone 2 has Christian roots, but isn&#39;t a &#39;faith-based film&#39;](https://www.polygon.com/black-phone-2-christianity-director-interview-religion-explained/)
- - [Microsoft Gaming Boss Phil Spencer Reveals His Thoughts On Xbox Using AI](https://kotaku.com/microsoft-xbox-ai-development-moderation-phil-spencer-2000638826)
- - [Xbox Elite Series 2 Core Controller Is Selling Fast as Amazon Clears Out Stock at an All-Time Low](https://kotaku.com/xbox-elite-series-2-core-controller-is-selling-fast-as-amazon-clears-out-stock-at-an-all-time-low-2000638568)<!-- GAME:END -->
+ - [Witcher 3&#39;s Quen is the humble shield spell you can&#39;t live without](https://www.polygon.com/the-witcher-3-quen-is-the-humble-shield-spell-you-cant-live-without/)
+ - [Next Week on Xbox: New Games for October 27 to 31](https://news.xbox.com/en-us/2025/10/24/next-week-on-xbox-new-games-for-october-27-to-31/)
+ - [This Is The Closest We’ve Gotten To A New KPop Demon Hunters Song](https://kotaku.com/kpop-demon-hunters-new-song-ejae-in-another-world-video-2000638832)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
