@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Too late](http://9gag.com/gag/axyQ2KM)
- - ⏩ [Your perspective is everything](http://9gag.com/gag/a4Pmd4Z)
- - 👉 [Her `Engrish` is sadly probably better than some of the native speakers in that city.](http://9gag.com/gag/azxoVBz)<!-- MEMES:END -->
+ - 💣 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
+ - ⏩ [I am jOrnalism](http://9gag.com/gag/a9yZP0D)
+ - 👉 [King fruit](http://9gag.com/gag/a34eL78)<!-- MEMES:END -->
 
 ---
 
