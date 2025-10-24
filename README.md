@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snapdragon 6s Gen 4 revealed: Budget phones just got a gaming, emulation boost](https://www.androidauthority.com/snapdragon-6s-gen-4-3609820/)
  - [Pricempire: after Valve updated the exchange rate of Counter-Strike digital items, the market fell by $1.75B, or 25%, on October 23; in 2024, a gun sold for $1M &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/251024/p1#a251024p1)
- - [Keep it or ditch it? Here’s what Pixel 10 Pro Fold owners are deciding](https://www.androidauthority.com/pixel-10-pro-fold-user-feedback-3609816/)
- - [Does Your Internet Connection Feel Slower Than It Should Be? Here’s How to Test It and Use the Result](https://www.cnet.com/home/internet/does-your-internet-connection-feel-slow-heres-how-to-test-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Keep it or ditch it? Here’s what Pixel 10 Pro Fold owners are deciding](https://www.androidauthority.com/pixel-10-pro-fold-user-feedback-3609816/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
