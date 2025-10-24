@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink Mini in the Wild: The Pros and Cons of Satellite Internet, From My Experience](https://www.cnet.com/home/internet/starlink-mini-in-the-wild-the-pros-and-cons-of-satellite-internet-from-my-experience/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Leeds vs. West Ham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-leeds-vs-west-ham-live-from-anywhere/#ftag=CAD590a51e)
- - [Interviews with 23 current and ex-AWS employees and others about AWS&#39; challenges, including intense competition, internal bureaucracy, and lackluster AI efforts &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251024/p15#a251024p15)<!-- TECH:END -->
+ - [Source: President Trump has picked Michael Selig, the chief counsel for the SEC&#39;s crypto task force, to chair the CFTC, amid a crypto push &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/251024/p17#a251024p17)
+ - [Nothing attempts to justify its move to put bloatware on your next phone](https://www.androidauthority.com/nothing-phone-third-party-partner-apps-3610093/)
+ - [With an influx of Meta alums, some OpenAI staffers worry it is adopting Meta&#39;s tactics, like using social media dynamics with Sora and a softening stance on ads &lpar;The Information&rpar;](http://www.techmeme.com/251024/p16#a251024p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
