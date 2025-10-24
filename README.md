@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo: Campaign Evolved launches on PS5 in 2026](https://blog.playstation.com/2025/10/24/halo-campaign-evolved-launches-on-ps5-in-2026/)
- - [Halo Campaign Evolved remake preview: A tricky balancing act for Halo Studios](https://www.polygon.com/halo-campaign-evolved-ce-remake-preview/)
- - [Halo Studios on why Xbox is making Halo: Combat Evolved again](https://www.polygon.com/halo-campaign-evolved-ce-remake-interview/)<!-- GAME:END -->
+ - [Halo’s Worst Level Is Getting Changed In The New PS5 Remake](https://kotaku.com/halos-worst-level-is-getting-changed-in-the-new-ps5-remake-2000638963)
+ - [Tech investor declares &#39;AI games are going to be amazing,&#39; posts an AI-generated &#39;demo&#39; of a god-awful shooter as proof](https://www.pcgamer.com/gaming-industry/tech-investor-declares-ai-games-are-going-to-be-amazing-posts-an-ai-generated-demo-of-a-god-awful-shooter-as-proof/)
+ - [The Outer Worlds 2 interactive maps](https://www.polygon.com/map/the-outer-worlds-2-interactive-maps-free-market-horizon-point-station/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
