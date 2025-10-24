@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to Build Your Perfect Party in The Lonesome Guild](https://news.xbox.com/en-us/2025/10/24/how-to-build-your-perfect-party-in-the-lonesome-guild/)
- - [Holy Crap, It Looks Like Disney Is Finally Restoring And Releasing The Original Version Of Star Wars](https://kotaku.com/star-wars-original-theatrical-cut-4k-restoration-leaks-screenshot-disney-2027-2000638887)
- - [It Took Me Eight Years To Discover My Favorite Switch Feature](https://kotaku.com/switch-2-hidden-shortcut-screen-brightness-2000638888)<!-- GAME:END -->
+ - [Last Halloween&#39;s &#39;spooky&#39; Discord notifications confused so many people that it added a pop-up explaining them this year](https://www.pcgamer.com/hardware/gaming-audio/last-halloweens-spooky-discord-notifications-confused-so-many-people-that-it-added-a-pop-up-explaining-them-this-year/)
+ - [Silent Hill f Actor Looks Completely Freaked Out While Streaming The Game For The First Time](https://kotaku.com/silent-hill-f-shf-hinako-voice-actress-japanese-konatsu-kato-2000638912)
+ - [Escape From Duckov is the latest breakout Steam hit to owe its success to China](https://www.pcgamer.com/games/action/escape-from-duckov-is-the-latest-breakout-steam-hit-to-owe-its-success-to-china/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
