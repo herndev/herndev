@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge says Meta lawyers told staff to block or remove parts of internal teen mental health research to limit liability; Meta says no findings were removed &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/251023/p56#a251023p56)
  - [This new Snapdragon 8 Elite Gen 5 mid-ranger embarrasses flagships twice its price](https://www.androidauthority.com/redmi-k90-pro-max-3609810/)
- - [Apple may turn off App Tracking Transparency in Europe due to &quot;intense lobbying efforts&quot; in Germany and other countries over alleged anticompetitive conduct &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/251023/p55#a251023p55)
- - [Sources: Snap is in talks with investors, including Saudi Arabia&#39;s Public Investment Fund, to raise at least $1B for its AR glasses division &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251023/p54#a251023p54)<!-- TECH:END -->
+ - [Apple may turn off App Tracking Transparency in Europe due to &quot;intense lobbying efforts&quot; in Germany and other countries over alleged anticompetitive conduct &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/251023/p55#a251023p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
