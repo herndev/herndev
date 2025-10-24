@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix shuts down Boss Fight Entertainment, the game studio behind mobile game Squid Game: Unleashed, after acquiring it in March 2022 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251024/p14#a251024p14)
- - [Descend Into a Psychedelic Gothic Nightmare in This Cult Horror Movie](https://www.cnet.com/culture/entertainment/descend-into-a-psychedelic-gothic-nightmare-in-this-cult-horror-movie/#ftag=CAD590a51e)
- - [That Massive AWS Outage Explained: Failures and Fixes Tripping Over Themselves](https://www.cnet.com/tech/services-and-software/amazon-web-services-outage-october-20-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Starlink Mini in the Wild: The Pros and Cons of Satellite Internet, From My Experience](https://www.cnet.com/home/internet/starlink-mini-in-the-wild-the-pros-and-cons-of-satellite-internet-from-my-experience/#ftag=CAD590a51e)
+ - [Premier League Soccer: Stream Leeds vs. West Ham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-leeds-vs-west-ham-live-from-anywhere/#ftag=CAD590a51e)
+ - [Interviews with 23 current and ex-AWS employees and others about AWS&#39; challenges, including intense competition, internal bureaucracy, and lackluster AI efforts &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251024/p15#a251024p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
