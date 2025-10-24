@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Outbreak: Shades of Horror Brings Co-op Survival Horror to Xbox in 2026](https://news.xbox.com/en-us/2025/10/24/2026-release-of-outbreak-shades-of-horror-promises-stunning-new-renderings/)
- - [Six Soapy Hours With PowerWash Simulator 2](https://kotaku.com/powerwash-simulator-2-review-futurlab-impressions-2000638850)
- - [Pokémon TCG Pocket will count Deluxe: ex cards toward original packs...in 2026](https://www.polygon.com/pokmon-tcg-pocket-deluxe-ex-cards-update-2026/)<!-- GAME:END -->
+ - [Bloodshed’s Journey from Art Prototype to Xbox Release](https://news.xbox.com/en-us/2025/10/24/bloodsheds-journey-from-art-prototype-to-release/)
+ - [Amidst allegations of AI art and complaints about the music, Plants vs. Zombies fans are not happy with the remaster](https://www.pcgamer.com/games/strategy/amidst-allegations-of-ai-art-and-complaints-about-the-music-plants-vs-zombies-fans-are-not-happy-with-the-remaster/)
+ - [Vampire: The Masquerade – Bloodlines 2&#39;s biggest mistake is being called Bloodlines 2](https://www.pcgamer.com/games/rpg/vampire-the-masquerade-bloodlines-2s-biggest-mistake-is-being-called-bloodlines-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
