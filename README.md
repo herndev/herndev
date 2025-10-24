@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [3 sets of jumping conclusions](http://9gag.com/gag/aKGnB1j)
- - ⏩ [He is genuine shocked](http://9gag.com/gag/aVv4XzP)
- - 👉 [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)<!-- MEMES:END -->
+ - 💣 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
+ - ⏩ [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
+ - 👉 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)<!-- MEMES:END -->
 
 ---
 
