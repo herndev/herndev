@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based Valthos, which is developing AI tools to detect and prevent AI-enabled bioweapon attacks, raised $30M from OpenAI, Founders Fund, and Lux Capital &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/251024/p10#a251024p10)
- - [Deal: The Ember Mug 2 is my favorite tech gadget, and it’s $60 off!](https://www.androidauthority.com/ember-mug-2-deal-10-3609968/)
- - [The Best Gaming Headsets for Xbox, PS5, Switch, and PC &lpar;2025&rpar;](https://www.wired.com/gallery/best-gaming-headsets/)<!-- TECH:END -->
+ - [Microsoft Outlook is getting an AI overhaul under new leaders](https://www.theverge.com/tech/806162/microsoft-outlook-ai-overhaul-notepad)
+ - [Google says Pixel 10 Pro Fold battery confusion caused by ‘incompatible’ chargers &lpar;Update&rpar;](https://www.androidauthority.com/google-pixel-10-pro-fold-battery-question-mark-3609650/)
+ - [Nike’s inflatable puffer jacket de-puffs to cool you down](https://www.theverge.com/news/806188/nike-therma-fit-air-milano-jacket-inflatable-puffer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
