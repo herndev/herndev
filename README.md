@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have principles!](https://www.reddit.com/r/funny/comments/1oevqze/i_have_principles/)
- - ⏩ [Finally some good news](http://9gag.com/gag/apRzvrW)
- - 👉 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)<!-- MEMES:END -->
+ - 💣 [3 sets of jumping conclusions](http://9gag.com/gag/aKGnB1j)
+ - ⏩ [He is genuine shocked](http://9gag.com/gag/aVv4XzP)
+ - 👉 [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)<!-- MEMES:END -->
 
 ---
 
