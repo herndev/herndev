@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [King fruit](http://9gag.com/gag/a34eL78)
- - ⏩ [Just to make this clear](http://9gag.com/gag/aPAzyqG)
- - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
+ - 💣 [A man was enjoying a quiet coffee with his daughter at Starbucks. Bunch of women thought he was a predator with an underage girl, spread the photos on Facebook,created groups to track him, get his employment details etc, till someone told them that they are father and daughter](http://9gag.com/gag/a9yZLro)
+ - ⏩ [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
+ - 👉 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)<!-- MEMES:END -->
 
 ---
 
