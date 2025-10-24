@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best 360 Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-360-cameras/)
- - [Dispatch offers a rare unique twist on superhero stories](https://www.theverge.com/games/805679/dispatch-review-steam-ps5)
- - [OpenAI made ChatGPT better at sifting through your work or school information](https://www.theverge.com/news/806046/openai-chatgpt-company-knowledge-update)<!-- TECH:END -->
+ - [OpenAI launches a &quot;company knowledge&quot; ChatGPT update to let Business, Enterprise, and Education users search for data in connected apps like Slack and GitHub &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251024/p9#a251024p9)
+ - [DJI’s new Osmo Mobile 8 adds pet tracking and 360-degree camera pans](https://www.theverge.com/news/806093/dji-osmo-mobile-8-smartphone-gimbal-tracking-module)
+ - [Verizon launches Lite home internet for people in limited coverage areas](https://www.theverge.com/news/806083/verizon-lite-home-internet-plan-launch-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
