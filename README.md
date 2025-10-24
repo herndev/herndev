@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The secret hero of Battlefield 6&#39;s next update is a jeep that doesn&#39;t suck](https://www.pcgamer.com/games/fps/the-secret-hero-of-battlefield-6s-next-update-is-a-jeep-that-doesnt-suck/)
- - [The Outer Worlds 2 release times and preload details](https://www.pcgamer.com/games/rpg/the-outer-worlds-2-release-times-and-preload/)
- - [How AVGN 8-bit’s Monsters Ring in the Spooky Season](https://news.xbox.com/en-us/2025/10/23/avgn-8-bits-monsters-ring-in-spooky-season/)<!-- GAME:END -->
+ - [Xbox boss Phil Spencer says &#39;nurturing and protecting creative teams that want to go take risks&#39; is the priority, admits &#39;we don&#39;t always succeed at that&#39;](https://www.pcgamer.com/gaming-industry/xbox-boss-phil-spencer-says-nurturing-and-protecting-creative-teams-that-want-to-go-take-risks-is-the-priority-admits-we-dont-always-succeed-at-that/)
+ - [One Of The Biggest Competitive Pokémon Players Is Taking A Break Because Of Fan Harassment](https://kotaku.com/pokemon-wolfeyvgc-wolfe-glick-youtube-leaving-competitive-2000638677)
+ - [The secret hero of Battlefield 6&#39;s next update is a jeep that doesn&#39;t suck](https://www.pcgamer.com/games/fps/the-secret-hero-of-battlefield-6s-next-update-is-a-jeep-that-doesnt-suck/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
