@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring&#39;s dodge roll deserves to be celebrated](https://www.polygon.com/elden-ring-in-defense-of-the-dodge-roll/)
- - [Obsidian’s Favorite Character Builds for The Outer Worlds 2](https://news.xbox.com/en-us/2025/10/24/obsidians-favorite-character-builds-for-the-outer-worlds-2/)
- - [The Simpsons is Fortnite&#39;s next season as Springfield takes over island](https://www.polygon.com/fortnite-simpsons-season-when-is-where-is-map-bart-treehouse/)<!-- GAME:END -->
+ - [Outbreak: Shades of Horror Brings Co-op Survival Horror to Xbox in 2026](https://news.xbox.com/en-us/2025/10/24/2026-release-of-outbreak-shades-of-horror-promises-stunning-new-renderings/)
+ - [Six Soapy Hours With PowerWash Simulator 2](https://kotaku.com/powerwash-simulator-2-review-futurlab-impressions-2000638850)
+ - [Pokémon TCG Pocket will count Deluxe: ex cards toward original packs...in 2026](https://www.polygon.com/pokmon-tcg-pocket-deluxe-ex-cards-update-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
