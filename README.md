@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Last Halloween&#39;s &#39;spooky&#39; Discord notifications confused so many people that it added a pop-up explaining them this year](https://www.pcgamer.com/hardware/gaming-audio/last-halloweens-spooky-discord-notifications-confused-so-many-people-that-it-added-a-pop-up-explaining-them-this-year/)
- - [Silent Hill f Actor Looks Completely Freaked Out While Streaming The Game For The First Time](https://kotaku.com/silent-hill-f-shf-hinako-voice-actress-japanese-konatsu-kato-2000638912)
- - [Escape From Duckov is the latest breakout Steam hit to owe its success to China](https://www.pcgamer.com/games/action/escape-from-duckov-is-the-latest-breakout-steam-hit-to-owe-its-success-to-china/)<!-- GAME:END -->
+ - [Halo: Campaign Evolved launches on PS5 in 2026](https://blog.playstation.com/2025/10/24/halo-campaign-evolved-launches-on-ps5-in-2026/)
+ - [Halo Campaign Evolved remake preview: A tricky balancing act for Halo Studios](https://www.polygon.com/halo-campaign-evolved-ce-remake-preview/)
+ - [Halo Studios on why Xbox is making Halo: Combat Evolved again](https://www.polygon.com/halo-campaign-evolved-ce-remake-interview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
