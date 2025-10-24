@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
- - ⏩ [He is genuine shocked](http://9gag.com/gag/aVv4XzP)
- - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
+ - 💣 [So happy.](http://9gag.com/gag/aoyA9q3)
+ - ⏩ [Man want only one thing and it&#39;s d!sgusting!](http://9gag.com/gag/a9yZ7K0)
+ - 👉 [Self written joke](http://9gag.com/gag/azxoENN)<!-- MEMES:END -->
 
 ---
 
