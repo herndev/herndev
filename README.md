@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Out of touch -- how the MacBook Pro Touch Bar came and went](https://appleinsider.com/articles/25/10/27/out-of-touch----how-the-macbook-pro-touch-bar-came-and-went?utm_source=rss)
- - [Microsoft&#39;s disclosures on its OpenAI stake are scant, including putting OpenAI-related losses into a $4.7B &quot;other, net&quot; expense line in the FY ended June 30 &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/251027/p11#a251027p11)
- - [Retroid just surprised us with two gaming handhelds, and they might be value kings](https://www.androidauthority.com/retroid-pocket-g2-6-specs-pricing-3610303/)<!-- TECH:END -->
+ - [More of Samsung’s top selling phones are getting One UI 8 in the US](https://www.androidauthority.com/samsung-galaxy-a54-a15-one-ui-8-update-3610333/)
+ - [Inside iMovie for Mac -- far more powerful than it&#39;s given credit for](https://appleinsider.com/articles/25/10/24/inside-imovie-for-mac----far-more-powerful-than-its-given-credit-for?utm_source=rss)
+ - [iPads, Xcode, and Steam: Game development is hard, but gratifying](https://appleinsider.com/articles/25/10/27/ipads-xcode-and-steam-game-development-is-hard-but-gratifying?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
