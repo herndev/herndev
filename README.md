@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why?](http://9gag.com/gag/aGy619z)
- - ⏩ [Back when we had to invent our own fun. Good times](http://9gag.com/gag/adBr7Gd)
- - 👉 [I thought that we are smarter here...](http://9gag.com/gag/a87Qy1Y)<!-- MEMES:END -->
+ - 💣 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
+ - ⏩ [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 👉 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)<!-- MEMES:END -->
 
 ---
 
