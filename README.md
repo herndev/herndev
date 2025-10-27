@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
- - ⏩ [Best glue ever](http://9gag.com/gag/a5Qvnpr)
- - 👉 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)<!-- MEMES:END -->
+ - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - ⏩ [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - 👉 [Deer Friend](http://9gag.com/gag/aE0yBnK)<!-- MEMES:END -->
 
 ---
 
