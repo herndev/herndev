@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Man Has Pig Kidney Removed After Living With It for a Record 9 Months](https://www.wired.com/story/man-has-pig-kidney-removed-after-living-with-it-for-a-record-9-months/)
- - [Sources: SAP is considering a new bid for accounting software company BlackLine, after its previous bid of nearly $4.5B was rejected in June &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/251027/p31#a251027p31)
- - [Here’s how Google might make Messages easier to use with one hand](https://www.androidauthority.com/google-messages-menu-3610512/)<!-- TECH:END -->
+ - [Spotify finally brings video podcasts and music videos to its Apple TV app](https://www.theverge.com/news/807382/spotify-apple-tv-tvos-app-update-music-video-podcasts)
+ - [Vince Gilligan&#39;s &#39;Pluribus&#39; brings Apple TV back to prestige storytelling](https://appleinsider.com/articles/25/10/27/vince-gilligans-pluribus-brings-apple-tv-back-to-prestige-storytelling?utm_source=rss)
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
