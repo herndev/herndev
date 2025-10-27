@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
- - ⏩ [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
- - 👉 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)<!-- MEMES:END -->
+ - 💣 [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - ⏩ [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
+ - 👉 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)<!-- MEMES:END -->
 
 ---
 
