@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for October 27 &lpar;#1591&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-27-2025/)
  - [The GOAT of Elden Ring weapon mods made it so we can actually use the sick golden ghost weapons Margit killed us with so many times](https://www.pcgamer.com/games/rpg/the-goat-of-elden-ring-weapon-mods-made-it-so-we-can-actually-use-the-sick-golden-ghost-weapons-margit-killed-us-with-so-many-times/)
- - [Five new Steam games you probably missed &lpar;October 27, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-october-27-2025/)
- - [Emergency dispatch simulator 911 Operator is free on Steam for a limited time](https://www.pcgamer.com/games/sim/emergency-dispatch-simulator-911-operator-is-free-on-steam-for-a-limited-time/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;October 27, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-october-27-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
