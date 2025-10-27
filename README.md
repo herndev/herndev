@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
- - ⏩ [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
- - 👉 [Jamaica is about to be destroyed with the most powerful recorded hurricane BY FAR ever to touch it&#39;s lands](http://9gag.com/gag/aGy6eMZ)<!-- MEMES:END -->
+ - 💣 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
+ - ⏩ [Why?](http://9gag.com/gag/aGy619z)
+ - 👉 [Back when we had to invent our own fun. Good times](http://9gag.com/gag/adBr7Gd)<!-- MEMES:END -->
 
 ---
 
