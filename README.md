@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AI buildout, surpassing railroads and the internet, moves Big Tech from its successful asset-light model, and prior booms have resulted in overinvestment &lpar;Kai Wu/Sparkline Capital&rpar;](http://www.techmeme.com/251027/p19#a251027p19)
- - [Tantalizing clue hints at Pixelmator Pro and more coming to iPad soon](https://appleinsider.com/articles/25/10/27/tantalizing-clue-hints-at-pixelmator-pro-and-more-coming-to-ipad-soon?utm_source=rss)
- - [The wait for your Galaxy phone’s next big update might have just gotten longer](https://www.androidauthority.com/one-ui-8-5-beta-reportedly-delayed-3610386/)<!-- TECH:END -->
+ - [Threads is getting disappearing posts](https://www.theverge.com/news/806940/threads-disappearing-ghost-posts-launch)
+ - [Apple Wallet&#39;s expansion into US passport support nears launch](https://appleinsider.com/articles/25/10/27/apple-wallets-expansion-into-us-passport-support-nears-launch?utm_source=rss)
+ - [What is your favorite Android app you discovered in 2025?](https://www.androidauthority.com/favorite-android-app-2025-open-thread-3610425/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
