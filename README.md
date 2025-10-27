@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur: Expedition 33 players have an intriguing theory for the upcoming DLC](https://www.polygon.com/clair-obscur-expedition-33-dlc-evil-esquie-clea-theory/)
- - [Wreckreation: An Open World Sandbox Racer that Lets You Build Your World, Your Way](https://news.xbox.com/en-us/2025/10/27/wreckreation-open-world-sandbox-racer-thq-nordic-launch/)
- - [Black Friday gaming chair deals: The best places to park your posterior for the best prices](https://www.pcgamer.com/black-friday-gaming-chair-deals/)<!-- GAME:END -->
+ - [The best horror games to play over Halloween](https://www.pcgamer.com/games/horror/best-halloween-horror-games/)
+ - [Emiru Calls Assault Investigation A ‘Huge Mess’ As Twitch Admits ‘We Failed’](https://kotaku.com/emiru-twitch-dan-clancy-assault-safety-investigation-2000639234)
+ - [Amazon Clears Out 4.5-Star Mini PC for Nearly Nothing Compared to the Mac Mini as Black Friday Nears](https://kotaku.com/amazon-clears-out-4-5-star-mini-pc-for-nearly-nothing-compared-to-the-mac-mini-as-black-friday-nears-2000639089)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
