@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CloverPit is Balatro&#39;s spooky cousin with immaculate Halloween vibes](https://www.polygon.com/cloverpit-balatro-halloween/)
- - [Sedap! A Culinary Adventure from School Project to Full-Fledged Game](https://news.xbox.com/en-us/2025/10/27/sedap-a-culinary-adventure/)
- - [Modders have already patched fast travel into Vampire: The Masquerade – Bloodlines 2, and they might even be able to make its linear detective segments skippable for replays](https://www.pcgamer.com/games/rpg/modders-have-already-patched-fast-travel-into-vampire-the-masquerade-bloodlines-2-and-they-might-even-be-able-to-make-its-linear-detective-segments-skippable-for-replays/)<!-- GAME:END -->
+ - [Beneath Draws on Primal Fears, Classic Games, and Nu-Metal for a Unique Horror FPS](https://news.xbox.com/en-us/2025/10/27/beneath-horror-fps/)
+ - [Star Wars: A New Hope headed to IMAX, but which version is a mystery](https://www.polygon.com/star-wars-a-new-hope-imax-2027-original-cut/)
+ - [HP Drops Another Bestseller, 15.6″ Laptop &lpar;32GB RAM, 1TB SSD&rpar; Now Over 70% Off and Preloaded With Windows 11 Pro](https://kotaku.com/hp-drops-another-bestseller-15-6%e2%80%b3-laptop-32gb-ram-1tb-ssd-now-over-70-off-and-preloaded-with-windows-11-pro-2000638657)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
