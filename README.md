@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Australia sues Microsoft for allegedly misleading ~2.7M Microsoft 365 users into accepting a price hike for Copilot plans while hiding cheaper non-AI options &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/251026/p17#a251026p17)
- - [How building robotic hands that match human dexterity remains a major technical obstacle to deploying humanoid robots in factories and for caregiving jobs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251026/p16#a251026p16)
- - [Employees are increasingly using AI to create ultra-realistic fake expense receipts; AppZen and others attribute the rise to advances in image generation models &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/251026/p15#a251026p15)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Oct. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-oct-27/#ftag=CAD590a51e)
+ - [How building robotic hands that match human dexterity remains a major technical obstacle to deploying humanoid robots in factories and for caregiving jobs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251026/p16#a251026p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
