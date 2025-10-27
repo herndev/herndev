@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
- - ⏩ [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
- - 👉 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)<!-- MEMES:END -->
+ - ⏩ [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 👉 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)<!-- MEMES:END -->
 
 ---
 
