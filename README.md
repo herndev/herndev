@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best horror games to play over Halloween](https://www.pcgamer.com/games/horror/best-halloween-horror-games/)
- - [Emiru Calls Assault Investigation A ‘Huge Mess’ As Twitch Admits ‘We Failed’](https://kotaku.com/emiru-twitch-dan-clancy-assault-safety-investigation-2000639234)
- - [Amazon Clears Out 4.5-Star Mini PC for Nearly Nothing Compared to the Mac Mini as Black Friday Nears](https://kotaku.com/amazon-clears-out-4-5-star-mini-pc-for-nearly-nothing-compared-to-the-mac-mini-as-black-friday-nears-2000639089)<!-- GAME:END -->
+ - [CloverPit is Balatro&#39;s spooky cousin with immaculate Halloween vibes](https://www.polygon.com/cloverpit-balatro-halloween/)
+ - [Sedap! A Culinary Adventure from School Project to Full-Fledged Game](https://news.xbox.com/en-us/2025/10/27/sedap-a-culinary-adventure/)
+ - [Modders have already patched fast travel into Vampire: The Masquerade – Bloodlines 2, and they might even be able to make its linear detective segments skippable for replays](https://www.pcgamer.com/games/rpg/modders-have-already-patched-fast-travel-into-vampire-the-masquerade-bloodlines-2-and-they-might-even-be-able-to-make-its-linear-detective-segments-skippable-for-replays/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
