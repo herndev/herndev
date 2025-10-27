@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what ads on your $2,000 Samsung smart fridge will look like](https://www.theverge.com/report/806797/samsung-family-hub-smart-fridge-ads-opt-out)
- - [The US DOJ&#39;s rigged-poker-game indictment involved hacking DeckMate, a casino-standard, suitcase-sized, $10K+ card shuffling machine, to reveal players&#39; hands &lpar;Molly Schuetz/Bloomberg&rpar;](http://www.techmeme.com/251027/p8#a251027p8)
- - [Japanese fintech JPYC launches a yen-pegged stablecoin, the country&#39;s first, and its issuance platform JPYC EX, targeting $65.4B in circulation in three years &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/251027/p7#a251027p7)<!-- TECH:END -->
+ - [Out of touch -- how the MacBook Pro Touch Bar came and went](https://appleinsider.com/articles/25/10/27/out-of-touch----how-the-macbook-pro-touch-bar-came-and-went?utm_source=rss)
+ - [Microsoft&#39;s disclosures on its OpenAI stake are scant, including putting OpenAI-related losses into a $4.7B &quot;other, net&quot; expense line in the FY ended June 30 &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/251027/p11#a251027p11)
+ - [Retroid just surprised us with two gaming handhelds, and they might be value kings](https://www.androidauthority.com/retroid-pocket-g2-6-specs-pricing-3610303/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
