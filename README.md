@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - ⏩ [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
- - 👉 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)<!-- MEMES:END -->
+ - 💣 [No matter your size, you eat.](http://9gag.com/gag/aD2rxR9)
+ - ⏩ [I like animals and I like good news, so I&#39;m doing a series of posts about how different animals have been saved &lpar;That&#39;s right, I&#39;m bringing the series back&rpar;](http://9gag.com/gag/agm6Xg1)
+ - 👉 [I thought that we are smarter here...](http://9gag.com/gag/a87Qy1Y)<!-- MEMES:END -->
 
 ---
 
