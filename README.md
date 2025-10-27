@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
- - ⏩ [Why?](http://9gag.com/gag/aGy619z)
- - 👉 [Back when we had to invent our own fun. Good times](http://9gag.com/gag/adBr7Gd)<!-- MEMES:END -->
+ - 💣 [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - ⏩ [Best glue ever](http://9gag.com/gag/a5Qvnpr)
+ - 👉 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)<!-- MEMES:END -->
 
 ---
 
