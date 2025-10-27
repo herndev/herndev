@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
- - ⏩ [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
- - 👉 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)<!-- MEMES:END -->
+ - 💣 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
+ - ⏩ [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
+ - 👉 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)<!-- MEMES:END -->
 
 ---
 
