@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: X&#39;s advertising chief John Nitti, who joined in January, has left; X&#39;s CFO Mahmoud Reza Banki left in early October after less than a year in the role &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/251024/p21#a251024p21)
- - [Gemini’s Canvas tool can now turn your doc into a full presentation in seconds](https://www.androidauthority.com/gemini-canvas-presentations-3610150/)
- - [Sources detail how Sam Altman, Jensen Huang, Marc Benioff, and others brokered a call between SF Mayor Daniel Lurie and Trump to stop National Guard deployment &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251024/p20#a251024p20)<!-- TECH:END -->
+ - [Employees are increasingly using AI to create ultra-realistic fake expense receipts; AppZen and others attribute the rise to advances in image generation models &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/251026/p15#a251026p15)
+ - [Artemis: $10B+ was moved through stablecoins in August, up from $6B in February and more than double YoY, following President Trump&#39;s signing of the Genius Act &lpar;Judy Lagrou/Bloomberg&rpar;](http://www.techmeme.com/251026/p14#a251026p14)
+ - [Flare Audio Sonic Lens review: A five-millimeter experiment in over-engineering](https://appleinsider.com/articles/25/10/26/flare-audio-sonic-lens-review-a-five-millimeter-experiment-in-over-engineering?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
