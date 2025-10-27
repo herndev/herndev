@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chainsaw Man movie box office: Sony dominates the weekend with another anime blockbuster](https://www.polygon.com/chainsaw-man-movie-reze-arc-box-office-weekend-premiere/)
- - [Here&#39;s an RTX 5090 that you can water cool, without worry about breaking a $2000 graphics card](https://www.pcgamer.com/hardware/graphics-cards/heres-an-rtx-5090-that-you-can-water-cool-without-worry-about-breaking-a-usd2000-graphics-card/)
- - [Rocky Horror gets a sequel 50 years later in comic form](https://www.polygon.com/rocky-horror-comic-sequel/)<!-- GAME:END -->
+ - [25 years later, Requiem For A Dream is still the scariest non-horror movie ever](https://www.polygon.com/requiem-for-a-dream-25th-anniversary/)
+ - [Psychopomp is one of the best games you can get for under $10 on Steam, and its newly-revealed sequel looks even better](https://www.pcgamer.com/games/horror/psychopomp-is-one-of-the-best-games-you-can-get-for-under-usd10-on-steam-and-its-newly-revealed-sequel-looks-even-better/)
+ - [The Outer Worlds 2 release time in your time zone](https://www.polygon.com/the-outer-worlds-2-release-time-early-access-edt-pdt/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
