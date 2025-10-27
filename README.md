@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [US government uses Halo images in a call to &#39;destroy&#39; immigration, Microsoft declines to comment](https://www.pcgamer.com/games/us-government-uses-halo-images-in-a-call-to-destroy-immigration-microsoft-declines-to-comment/)
- - [Ghost of Yōtei interactive map](https://www.polygon.com/maps/ghost-of-yotei-interactive-map/)
- - [Every Halloween Candy, Ranked From Worst To Best](https://kotaku.com/halloween-candy-ranking-worst-best-list-chocolate-bar-1851679251)<!-- GAME:END -->
+ - [Netflix Is Reportedly Making A Crash Bandicoot Series And He Better Not Talk](https://kotaku.com/netflix-making-crash-bandicoot-animated-series-talking-report-cartoon-2000639396)
+ - [Here&#39;s the Battlefield Redsec release time for your region](https://www.pcgamer.com/games/fps/battlefield-redsec-release-date-launch-times/)
+ - [&#39;Arbitrary Measures&#39; quest walkthrough in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-arbitrary-measures-quest-walkthrough-tristan/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
