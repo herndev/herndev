@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is genuine shocked](http://9gag.com/gag/aVv4XzP)
- - ⏩ [Wth happened?!](http://9gag.com/gag/amoK8Qo)
- - 👉 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)<!-- MEMES:END -->
+ - 💣 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
+ - ⏩ [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
+ - 👉 [Jamaica is about to be destroyed with the most powerful recorded hurricane BY FAR ever to touch it&#39;s lands](http://9gag.com/gag/aGy6eMZ)<!-- MEMES:END -->
 
 ---
 
