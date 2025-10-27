@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
+ - 💣 [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
  - ⏩ [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
- - 👉 [Legend ^_^](http://9gag.com/gag/aoyAOvx)<!-- MEMES:END -->
+ - 👉 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)<!-- MEMES:END -->
 
 ---
 
