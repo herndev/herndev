@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘In Pursuit of Purloined Propaganda’ quest walkthrough in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-in-pursuit-of-purloined-propaganda-quest-science-adventures-quarterly-location/)
- - [Vampire: The Masquerade - Bloodhunt is the only battle royale I ever loved, so naturally it&#39;s going offline for good in April](https://www.pcgamer.com/games/battle-royale/vampire-the-masquerade-bloodhunt-is-the-only-battle-royale-i-ever-loved-so-naturally-its-going-offline-for-good-in-april/)
- - [Fortnite&#39;s The Simpsons season starts this Saturday](https://www.polygon.com/fortnites-simpsons-season-date-confirmed-teaser-trailer/)<!-- GAME:END -->
+ - [US government uses Halo images in a call to &#39;destroy&#39; immigration, Microsoft declines to comment](https://www.pcgamer.com/games/us-government-uses-halo-images-in-a-call-to-destroy-immigration-microsoft-declines-to-comment/)
+ - [Ghost of Yōtei interactive map](https://www.polygon.com/maps/ghost-of-yotei-interactive-map/)
+ - [Every Halloween Candy, Ranked From Worst To Best](https://kotaku.com/halloween-candy-ranking-worst-best-list-chocolate-bar-1851679251)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
