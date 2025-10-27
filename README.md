@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s 2025, and Pixels still don’t seem to deliver notifications on time](https://www.androidauthority.com/google-pixel-notification-delay-3610210/)
- - [Sixty-five countries sign a UN cybercrime treaty to share data and extradite suspects, despite privacy and security concerns from tech companies and activists &lpar;Lien Hoang/Nikkei Asia&rpar;](http://www.techmeme.com/251027/p2#a251027p2)
- - [A look at Cal State&#39;s plans to become an &quot;AI-empowered&quot; university via partnerships with Amazon and a $16.9M deal to provide ChatGPT Edu to students and staff &lpar;New York Times&rpar;](http://www.techmeme.com/251027/p1#a251027p1)<!-- TECH:END -->
+ - [Papers, patents, and tenders show China&#39;s military is integrating DeepSeek and Qwen models in weapons like AI-powered drones, and continues to use Nvidia chips &lpar;Reuters&rpar;](http://www.techmeme.com/251027/p3#a251027p3)
+ - [It’s almost 2026, and Pixels still don’t seem to deliver notifications on time](https://www.androidauthority.com/google-pixel-notification-delay-3610210/)
+ - [Sixty-five countries sign a UN cybercrime treaty to share data and extradite suspects, despite privacy and security concerns from tech companies and activists &lpar;Lien Hoang/Nikkei Asia&rpar;](http://www.techmeme.com/251027/p2#a251027p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
