@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Clinical-grade AI’: a new buzzy AI word that means absolutely nothing](https://www.theverge.com/report/806887/clinical-grade-ai-buzzword)
- - [A look at Live Nation&#39;s Setlist.fm, a wiki-like site with 80M annual users that changed live music by letting users document songs that artists play at concerts &lpar;Marc Hogan/New York Times&rpar;](http://www.techmeme.com/251027/p17#a251027p17)
- - [Analysis: Chinese robotaxi companies like Baidu and WeRide are outnumbering their US rivals with more projects progressing from testing to commercialization &lpar;Linda Lew/Bloomberg&rpar;](http://www.techmeme.com/251027/p16#a251027p16)<!-- TECH:END -->
+ - [The AI buildout, surpassing railroads and the internet, moves Big Tech from its successful asset-light model, and prior booms have resulted in overinvestment &lpar;Kai Wu/Sparkline Capital&rpar;](http://www.techmeme.com/251027/p19#a251027p19)
+ - [Tantalizing clue hints at Pixelmator Pro and more coming to iPad soon](https://appleinsider.com/articles/25/10/27/tantalizing-clue-hints-at-pixelmator-pro-and-more-coming-to-ipad-soon?utm_source=rss)
+ - [The wait for your Galaxy phone’s next big update might have just gotten longer](https://www.androidauthority.com/one-ui-8-5-beta-reportedly-delayed-3610386/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
