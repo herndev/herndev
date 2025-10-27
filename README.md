@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More of Samsung’s top selling phones are getting One UI 8 in the US](https://www.androidauthority.com/samsung-galaxy-a54-a15-one-ui-8-update-3610333/)
- - [Inside iMovie for Mac -- far more powerful than it&#39;s given credit for](https://appleinsider.com/articles/25/10/24/inside-imovie-for-mac----far-more-powerful-than-its-given-credit-for?utm_source=rss)
- - [iPads, Xcode, and Steam: Game development is hard, but gratifying](https://appleinsider.com/articles/25/10/27/ipads-xcode-and-steam-game-development-is-hard-but-gratifying?utm_source=rss)<!-- TECH:END -->
+ - [17 Thoughtful Gifts for Coworkers They&#39;ll Appreciate in 2025](https://www.wired.com/gallery/gifts-for-coworkers/)
+ - [Did YouTube’s algorithm break? This NSFW thumbnail video went viral and got 3.9 million views](https://www.androidauthority.com/youtube-ai-generated-nsfw-thumbnail-video-viral-3610360/)
+ - [OnePlus 15 is here: One step forward, two steps back, but still better than your Galaxy](https://www.androidauthority.com/oneplus-15-launched-3610310/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
