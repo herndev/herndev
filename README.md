@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit’s overhauled app and AI health coach arrive today](https://www.theverge.com/tech/806243/fitbit-ai-health-coach-app-update-preview)
- - [Anthropic expands Claude for Financial Services with a beta Claude for Excel integration, additional data connectors, and new pre-built Agent Skills &lpar;Webb Wright/ZDNET&rpar;](http://www.techmeme.com/251027/p23#a251027p23)
- - [Tesla rehashing old threats to get shareholders to approve Musk’s $1 trillion pay day](https://www.theverge.com/news/806970/tesla-elon-musk-trillion-pay-shareholder-board-letter)<!-- TECH:END -->
+ - [Internal memo: Meta&#39;s head of AI product Nat Friedman says Vishal Shah, who previously led the metaverse unit, is joining his team to lead AI product management &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/251027/p27#a251027p27)
+ - [Record price drop plunges the 45mm Pixel Watch 3 under $200 for the first time](https://www.androidauthority.com/pixel-watch-3-45mm-deal-3610519/)
+ - [LexisNexis CEO says the AI law era is already here](https://www.theverge.com/podcast/807136/lexisnexis-ceo-sean-fitzpatick-ai-lawyer-legal-chatgpt-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
