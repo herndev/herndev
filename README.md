@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No matter your size, you eat.](http://9gag.com/gag/aD2rxR9)
- - ⏩ [I like animals and I like good news, so I&#39;m doing a series of posts about how different animals have been saved &lpar;That&#39;s right, I&#39;m bringing the series back&rpar;](http://9gag.com/gag/agm6Xg1)
- - 👉 [I thought that we are smarter here...](http://9gag.com/gag/a87Qy1Y)<!-- MEMES:END -->
+ - 💣 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
+ - ⏩ [Nice shot](http://9gag.com/gag/awyPQQ1)
+ - 👉 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)<!-- MEMES:END -->
 
 ---
 
