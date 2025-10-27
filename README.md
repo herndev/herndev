@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Real estate agents are using AI tools like AutoReel to replace videographers and stagers, cutting costs but generating distorted or misleading property images &lpar;Kat Tenbarge/Wired&rpar;](http://www.techmeme.com/251027/p6#a251027p6)
- - [Q&amp;A with Bill Ready, who became Pinterest&#39;s CEO in 2022, about changes during his tenure, winning over Gen Z, Pinterest&#39;s business model, AI content, and more &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/251027/p5#a251027p5)
- - [Samsung’s tri-fold may launch very soon, but miss a key market](https://www.androidauthority.com/samsung-galaxy-tri-fold-launch-soon-3610249/)<!-- TECH:END -->
+ - [Here’s what ads on your $2,000 Samsung smart fridge will look like](https://www.theverge.com/report/806797/samsung-family-hub-smart-fridge-ads-opt-out)
+ - [The US DOJ&#39;s rigged-poker-game indictment involved hacking DeckMate, a casino-standard, suitcase-sized, $10K+ card shuffling machine, to reveal players&#39; hands &lpar;Molly Schuetz/Bloomberg&rpar;](http://www.techmeme.com/251027/p8#a251027p8)
+ - [Japanese fintech JPYC launches a yen-pegged stablecoin, the country&#39;s first, and its issuance platform JPYC EX, targeting $65.4B in circulation in three years &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/251027/p7#a251027p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
