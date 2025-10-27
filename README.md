@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify finally brings video podcasts and music videos to its Apple TV app](https://www.theverge.com/news/807382/spotify-apple-tv-tvos-app-update-music-video-podcasts)
- - [Vince Gilligan&#39;s &#39;Pluribus&#39; brings Apple TV back to prestige storytelling](https://appleinsider.com/articles/25/10/27/vince-gilligans-pluribus-brings-apple-tv-back-to-prestige-storytelling?utm_source=rss)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
+ - [Sources: Forge Global, a leading platform for trading stakes in private startups, is exploring a sale, after its stock fell 90% since its 2021 IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/251027/p34#a251027p34)
+ - [GM clarifies that Android Auto will remain available — for now](https://www.androidauthority.com/new-gm-android-auto-statement-3610579/)
+ - [This key Samsung Galaxy XR feature opens up a world of accessories](https://www.androidauthority.com/samsung-galaxy-xr-usbc-3610592/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
