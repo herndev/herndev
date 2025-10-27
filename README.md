@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Forge Global, a leading platform for trading stakes in private startups, is exploring a sale, after its stock fell 90% since its 2021 IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/251027/p34#a251027p34)
- - [GM clarifies that Android Auto will remain available — for now](https://www.androidauthority.com/new-gm-android-auto-statement-3610579/)
- - [This key Samsung Galaxy XR feature opens up a world of accessories](https://www.androidauthority.com/samsung-galaxy-xr-usbc-3610592/)<!-- TECH:END -->
+ - [Chegg plans to cut 388 roles, or about 45% of the workforce, citing the &quot;new realities of AI&quot;, and says executive chairman Dan Rosensweig returns as CEO &lpar;Vallari Srivastava/Reuters&rpar;](http://www.techmeme.com/251027/p37#a251027p37)
+ - [ExxonMobil accuses California of violating its free speech](https://www.theverge.com/news/807357/exxon-lawsuit-california-greenhouse-gas-climate-reporting-laws)
+ - [Toronto-based Wealthsimple, an online investment management service, raised CA$750M co-led by Dragoneer and GIC at a post-money valuation of CA$10B &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/251027/p36#a251027p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
