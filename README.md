@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia sues Microsoft for allegedly misleading ~2.7M Microsoft 365 users into accepting a price hike for Copilot plans while hiding cheaper non-AI options &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/251026/p17#a251026p17)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Oct. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-oct-27/#ftag=CAD590a51e)
- - [How building robotic hands that match human dexterity remains a major technical obstacle to deploying humanoid robots in factories and for caregiving jobs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251026/p16#a251026p16)<!-- TECH:END -->
+ - [It’s 2025, and Pixels still don’t seem to deliver notifications on time](https://www.androidauthority.com/google-pixel-notification-delay-3610210/)
+ - [Sixty-five countries sign a UN cybercrime treaty to share data and extradite suspects, despite privacy and security concerns from tech companies and activists &lpar;Lien Hoang/Nikkei Asia&rpar;](http://www.techmeme.com/251027/p2#a251027p2)
+ - [A look at Cal State&#39;s plans to become an &quot;AI-empowered&quot; university via partnerships with Amazon and a $16.9M deal to provide ChatGPT Edu to students and staff &lpar;New York Times&rpar;](http://www.techmeme.com/251027/p1#a251027p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
