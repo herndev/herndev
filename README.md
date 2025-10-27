@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
- - ⏩ [Nice shot](http://9gag.com/gag/awyPQQ1)
- - 👉 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)<!-- MEMES:END -->
+ - 💣 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - ⏩ [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
+ - 👉 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)<!-- MEMES:END -->
 
 ---
 
