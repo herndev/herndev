@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Meta&#39;s head of AI product Nat Friedman says Vishal Shah, who previously led the metaverse unit, is joining his team to lead AI product management &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/251027/p27#a251027p27)
- - [Record price drop plunges the 45mm Pixel Watch 3 under $200 for the first time](https://www.androidauthority.com/pixel-watch-3-45mm-deal-3610519/)
- - [LexisNexis CEO says the AI law era is already here](https://www.theverge.com/podcast/807136/lexisnexis-ceo-sean-fitzpatick-ai-lawyer-legal-chatgpt-interview)<!-- TECH:END -->
+ - [If you hate Google Maps ads, Apple Maps might not be better for much longer](https://www.androidauthority.com/apple-maps-ads-coming-3610520/)
+ - [The last-gen Kindle is a steal at just $65 refurbished](https://www.theverge.com/tech/807194/kindle-2022-refurbished-deal-sale)
+ - [Samsung is going for Baroque with these Galaxy Buds 4 and Buds 4 Pro codenames](https://www.androidauthority.com/galaxy-buds-4-codenames-3610515/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
