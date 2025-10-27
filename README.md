@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - ⏩ [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
- - 👉 [Deer Friend](http://9gag.com/gag/aE0yBnK)<!-- MEMES:END -->
+ - 💣 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
+ - ⏩ [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 👉 [Staaaairs](http://9gag.com/gag/awyPAXx)<!-- MEMES:END -->
 
 ---
 
