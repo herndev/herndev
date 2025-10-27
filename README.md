@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 27 &lpar;#1591&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-27-2025/)
- - [The GOAT of Elden Ring weapon mods made it so we can actually use the sick golden ghost weapons Margit killed us with so many times](https://www.pcgamer.com/games/rpg/the-goat-of-elden-ring-weapon-mods-made-it-so-we-can-actually-use-the-sick-golden-ghost-weapons-margit-killed-us-with-so-many-times/)
- - [Five new Steam games you probably missed &lpar;October 27, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-october-27-2025/)<!-- GAME:END -->
+ - [Arachnophobia is still one of the best PG horror movies](https://www.polygon.com/arachnophobia-best-pg-horror-movies-steven-spielberg/)
+ - [Lenovo Unloads Ideapad Slim 3 &lpar;i7, 1TB SSD&rpar; Laptop Stock, Now $2,200 Cheaper on Amazon](https://kotaku.com/lenovo-unloads-ideapad-slim-3-i7-1tb-ssd-laptop-stock-now-2200-cheaper-on-amazon-2000639229)
+ - [Battlefield 6 dataminers claim mysterious &#39;granite&#39; files related to this week&#39;s patch could be a shadowdrop for its battle royale mode](https://www.pcgamer.com/games/fps/battlefield-6-dataminers-claim-mysterious-granite-files-related-to-this-weeks-patch-could-be-a-shadowdrop-for-its-battle-royale-mode/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
