@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
- - ⏩ [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 👉 [Staaaairs](http://9gag.com/gag/awyPAXx)<!-- MEMES:END -->
+ - 💣 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - ⏩ [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
+ - 👉 [Tensile Strength of a Steel Rod](http://9gag.com/gag/aD2rxnx)<!-- MEMES:END -->
 
 ---
 
