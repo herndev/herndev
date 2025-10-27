@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Legend ^_^](http://9gag.com/gag/aoyAOvx)
- - ⏩ [Be a good listener](http://9gag.com/gag/avy4GLM)
- - 👉 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)<!-- MEMES:END -->
+ - 💣 [Why?](http://9gag.com/gag/aGy619z)
+ - ⏩ [Back when we had to invent our own fun. Good times](http://9gag.com/gag/adBr7Gd)
+ - 👉 [I thought that we are smarter here...](http://9gag.com/gag/a87Qy1Y)<!-- MEMES:END -->
 
 ---
 
