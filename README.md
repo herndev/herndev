@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [“Every Lane Needs a Purpose” – How Treyarch Crafts Multiplayer Maps for Call of Duty: Black Ops 7](https://news.xbox.com/en-us/2025/10/27/how-treyarch-crafts-multiplayer-maps-call-of-duty-black-ops-7/)
- - [Costco’s 1-Year Membership Now Comes With a Digital Shop Card That Almost Covers the Cost, Making It Basically Free](https://kotaku.com/costcos-1-year-membership-now-comes-with-a-digital-shop-card-that-almost-covers-the-cost-making-it-basically-free-2000639092)
- - [The Outer Worlds 2 dunks on you with a &#39;Consumerism&#39; flaw that secretly makes you stupid if you bought its $100 version for early access: &#39;Promotions and sales have riddled your brain&#39;](https://www.pcgamer.com/games/rpg/the-outer-worlds-2-dunks-on-you-with-a-consumerism-flaw-that-secretly-makes-you-stupid-if-you-bought-its-usd100-version-for-early-access-promotions-and-sales-have-riddled-your-brain/)<!-- GAME:END -->
+ - [Chainsaw Man movie box office: Sony dominates the weekend with another anime blockbuster](https://www.polygon.com/chainsaw-man-movie-reze-arc-box-office-weekend-premiere/)
+ - [Here&#39;s an RTX 5090 that you can water cool, without worry about breaking a $2000 graphics card](https://www.pcgamer.com/hardware/graphics-cards/heres-an-rtx-5090-that-you-can-water-cool-without-worry-about-breaking-a-usd2000-graphics-card/)
+ - [Rocky Horror gets a sequel 50 years later in comic form](https://www.polygon.com/rocky-horror-comic-sequel/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
