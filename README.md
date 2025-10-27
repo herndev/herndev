@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
- - ⏩ [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 💣 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
+ - ⏩ [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
  - 👉 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)<!-- MEMES:END -->
 
 ---
