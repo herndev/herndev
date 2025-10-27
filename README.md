@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix Is Reportedly Making A Crash Bandicoot Series And He Better Not Talk](https://kotaku.com/netflix-making-crash-bandicoot-animated-series-talking-report-cartoon-2000639396)
- - [Here&#39;s the Battlefield Redsec release time for your region](https://www.pcgamer.com/games/fps/battlefield-redsec-release-date-launch-times/)
- - [&#39;Arbitrary Measures&#39; quest walkthrough in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-arbitrary-measures-quest-walkthrough-tristan/)<!-- GAME:END -->
+ - [Beats Pill Selling for Pennies, Amazon Liquidates the Iconic Bluetooth Speaker](https://kotaku.com/beats-pill-selling-for-pennies-amazon-liquidates-the-iconic-bluetooth-speaker-2000639295)
+ - [Apple Drops MacBook Air M4 Price Yet Again, Now Cheaper Than Basic Windows Laptops](https://kotaku.com/apple-drops-macbook-air-m4-price-yet-again-now-cheaper-than-basic-windows-laptops-2000639289)
+ - [Netflix Is Reportedly Making A Crash Bandicoot Series And He Better Not Talk](https://kotaku.com/netflix-making-crash-bandicoot-animated-series-talking-report-cartoon-2000639396)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
