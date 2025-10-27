@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - 💣 [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
  - ⏩ [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
- - 👉 [Tensile Strength of a Steel Rod](http://9gag.com/gag/aD2rxnx)<!-- MEMES:END -->
+ - 👉 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)<!-- MEMES:END -->
 
 ---
 
