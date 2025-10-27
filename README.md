@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [17 Thoughtful Gifts for Coworkers They&#39;ll Appreciate in 2025](https://www.wired.com/gallery/gifts-for-coworkers/)
- - [Did YouTube’s algorithm break? This NSFW thumbnail video went viral and got 3.9 million views](https://www.androidauthority.com/youtube-ai-generated-nsfw-thumbnail-video-viral-3610360/)
- - [OnePlus 15 is here: One step forward, two steps back, but still better than your Galaxy](https://www.androidauthority.com/oneplus-15-launched-3610310/)<!-- TECH:END -->
+ - [‘Clinical-grade AI’: a new buzzy AI word that means absolutely nothing](https://www.theverge.com/report/806887/clinical-grade-ai-buzzword)
+ - [A look at Live Nation&#39;s Setlist.fm, a wiki-like site with 80M annual users that changed live music by letting users document songs that artists play at concerts &lpar;Marc Hogan/New York Times&rpar;](http://www.techmeme.com/251027/p17#a251027p17)
+ - [Analysis: Chinese robotaxi companies like Baidu and WeRide are outnumbering their US rivals with more projects progressing from testing to commercialization &lpar;Linda Lew/Bloomberg&rpar;](http://www.techmeme.com/251027/p16#a251027p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
