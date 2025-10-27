@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you hate Google Maps ads, Apple Maps might not be better for much longer](https://www.androidauthority.com/apple-maps-ads-coming-3610520/)
- - [The last-gen Kindle is a steal at just $65 refurbished](https://www.theverge.com/tech/807194/kindle-2022-refurbished-deal-sale)
- - [Samsung is going for Baroque with these Galaxy Buds 4 and Buds 4 Pro codenames](https://www.androidauthority.com/galaxy-buds-4-codenames-3610515/)<!-- TECH:END -->
+ - [Man Has Pig Kidney Removed After Living With It for a Record 9 Months](https://www.wired.com/story/man-has-pig-kidney-removed-after-living-with-it-for-a-record-9-months/)
+ - [Sources: SAP is considering a new bid for accounting software company BlackLine, after its previous bid of nearly $4.5B was rejected in June &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/251027/p31#a251027p31)
+ - [Here’s how Google might make Messages easier to use with one hand](https://www.androidauthority.com/google-messages-menu-3610512/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
