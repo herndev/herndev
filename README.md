@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Mauro Porcini, who became Samsung&#39;s first Chief Design Officer in April, about creating a &quot;consistent experience&quot; across devices, and more &lpar;Verity Burns/Wired&rpar;](http://www.techmeme.com/251027/p4#a251027p4)
  - [ARMSX2, the future of PS2 emulation on Android, gets first big release](https://www.androidauthority.com/armsx2-emulator-android-major-release-3609901/)
- - [Papers, patents, and tenders show China&#39;s military is integrating DeepSeek and Qwen models in weapons like AI-powered drones, and continues to use Nvidia chips &lpar;Reuters&rpar;](http://www.techmeme.com/251027/p3#a251027p3)
- - [It’s almost 2026, and Pixels still don’t seem to deliver notifications on time](https://www.androidauthority.com/google-pixel-notification-delay-3610210/)<!-- TECH:END -->
+ - [Papers, patents, and tenders show China&#39;s military is integrating DeepSeek and Qwen models in weapons like AI-powered drones, and continues to use Nvidia chips &lpar;Reuters&rpar;](http://www.techmeme.com/251027/p3#a251027p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
