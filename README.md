@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arachnophobia is still one of the best PG horror movies](https://www.polygon.com/arachnophobia-best-pg-horror-movies-steven-spielberg/)
- - [Lenovo Unloads Ideapad Slim 3 &lpar;i7, 1TB SSD&rpar; Laptop Stock, Now $2,200 Cheaper on Amazon](https://kotaku.com/lenovo-unloads-ideapad-slim-3-i7-1tb-ssd-laptop-stock-now-2200-cheaper-on-amazon-2000639229)
- - [Battlefield 6 dataminers claim mysterious &#39;granite&#39; files related to this week&#39;s patch could be a shadowdrop for its battle royale mode](https://www.pcgamer.com/games/fps/battlefield-6-dataminers-claim-mysterious-granite-files-related-to-this-weeks-patch-could-be-a-shadowdrop-for-its-battle-royale-mode/)<!-- GAME:END -->
+ - [Clair Obscur: Expedition 33 players have an intriguing theory for the upcoming DLC](https://www.polygon.com/clair-obscur-expedition-33-dlc-evil-esquie-clea-theory/)
+ - [Wreckreation: An Open World Sandbox Racer that Lets You Build Your World, Your Way](https://news.xbox.com/en-us/2025/10/27/wreckreation-open-world-sandbox-racer-thq-nordic-launch/)
+ - [Black Friday gaming chair deals: The best places to park your posterior for the best prices](https://www.pcgamer.com/black-friday-gaming-chair-deals/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
