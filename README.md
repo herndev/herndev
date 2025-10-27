@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads is getting disappearing posts](https://www.theverge.com/news/806940/threads-disappearing-ghost-posts-launch)
- - [Apple Wallet&#39;s expansion into US passport support nears launch](https://appleinsider.com/articles/25/10/27/apple-wallets-expansion-into-us-passport-support-nears-launch?utm_source=rss)
- - [What is your favorite Android app you discovered in 2025?](https://www.androidauthority.com/favorite-android-app-2025-open-thread-3610425/)<!-- TECH:END -->
+ - [Fitbit’s overhauled app and AI health coach arrive today](https://www.theverge.com/tech/806243/fitbit-ai-health-coach-app-update-preview)
+ - [Anthropic expands Claude for Financial Services with a beta Claude for Excel integration, additional data connectors, and new pre-built Agent Skills &lpar;Webb Wright/ZDNET&rpar;](http://www.techmeme.com/251027/p23#a251027p23)
+ - [Tesla rehashing old threats to get shareholders to approve Musk’s $1 trillion pay day](https://www.theverge.com/news/806970/tesla-elon-musk-trillion-pay-shareholder-board-letter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
