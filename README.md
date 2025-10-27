@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shelby Oaks ending explained: director Chris Stuckman on the big twists](https://www.polygon.com/shelby-oaks-ending-explained-chris-stuckmann-interview/)
- - [The Outer Worlds 2 guides](https://www.polygon.com/the-outer-worlds-2-guides-walkthrough-tips/)
- - [Amazon Is Offloading This 60,000mAh Power Bank for Pennies, Anker’s Stock Is Flying off the Shelves](https://kotaku.com/amazon-is-offloading-this-60000mah-power-bank-for-pennies-ankers-stock-is-flying-off-the-shelves-2000638972)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;October 27, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-october-27-2025/)
+ - [Emergency dispatch simulator 911 Operator is free on Steam for a limited time](https://www.pcgamer.com/games/sim/emergency-dispatch-simulator-911-operator-is-free-on-steam-for-a-limited-time/)
+ - [Europa Universalis lead says design documents stifle creativity: &#39;You end up with a bunch of idea guys who write all the documents and the rest are there to follow&#39;](https://www.pcgamer.com/games/strategy/europa-universalis-lead-says-design-documents-stifle-creativity-you-end-up-with-a-bunch-of-idea-guys-who-write-all-the-documents-and-the-rest-are-there-to-follow/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
