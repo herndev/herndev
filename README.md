@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Back when we had to invent our own fun. Good times](http://9gag.com/gag/adBr7Gd)
- - ⏩ [No matter your size, you eat.](http://9gag.com/gag/aD2rxR9)
- - 👉 [Why?](http://9gag.com/gag/aGy619z)<!-- MEMES:END -->
+ - 💣 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
+ - ⏩ [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
+ - 👉 [Legend ^_^](http://9gag.com/gag/aoyAOvx)<!-- MEMES:END -->
 
 ---
 
