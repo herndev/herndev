@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Substrate, which uses particle acceleration to handle lithography, claiming to solve one of tech&#39;s toughest problems, and aims to compete with ASML &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p27#a251028p27)
- - [Apple reaches $4 trillion market value after surge in iPhone 17 sales](https://appleinsider.com/articles/25/10/28/apple-reaches-4-trillion-market-value-after-surge-in-iphone-17-sales?utm_source=rss)
- - [Circle launches the test version of its Arc blockchain, with Goldman, BlackRock, Apollo, Anthropic, Intercontinental Exchange, and others set to trial it &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/251028/p26#a251028p26)<!-- TECH:END -->
+ - [Truth Social launches Truth Predict, a prediction market platform in partnership with Crypto.com to let users trade on major current events like elections &lpar;Financial Times&rpar;](http://www.techmeme.com/251028/p31#a251028p31)
+ - [Chip changes: How fast will M5 Pro and M5 Max be?](https://appleinsider.com/articles/25/10/28/chip-changes-how-fast-will-m5-pro-and-m5-max-be?utm_source=rss)
+ - [Pixel 10a is looking kind of familiar in these leaked renders](https://www.androidauthority.com/google-pixel-10a-cad-renders-3610833/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
