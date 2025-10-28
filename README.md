@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 2024 games &lpar;and movie&rpar; eligible for the 2025 Game Awards](https://www.polygon.com/goty-game-awards-2024-games-eligible-2025/)
- - [MTG just revealed 68 awesome Avatar: The Last Airbender cards](https://www.polygon.com/mtg-avatar-the-last-airbender-cards-reveal/)
- - [Invincible VS: Fan-Favorites Robot and Monster Girl Join The Lineup](https://news.xbox.com/en-us/2025/10/28/invincible-vs-fan-favorites-robot-and-monster-girl-join-the-lineup/)<!-- GAME:END -->
+ - [33 Immortals Gets a Massive New Update Today](https://news.xbox.com/en-us/2025/10/28/33-immortals-pride-and-temperance-update/)
+ - [Former Halo Devs Call ICE Meme Despicable: ‘A Call To Destroy People Because Of Their Immigration Status Goes Way Too Far’](https://kotaku.com/halo-ice-trump-microsoft-developers-criticism-2000639666)
+ - [Hit Indie Game RV There Yet? Is The Best Way To Destroy A Very Expensive Vehicle](https://kotaku.com/rv-there-yet-steam-coop-indie-physics-puzzle-2000639668)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
