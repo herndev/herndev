@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Caw, caw!](http://9gag.com/gag/aByjxo1)
- - ⏩ [Staaaairs](http://9gag.com/gag/awyPAXx)
- - 👉 [Don&#39;t double tap it](http://9gag.com/gag/amoK79y)<!-- MEMES:END -->
+ - 💣 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
+ - ⏩ [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
+ - 👉 [Good quality tents](http://9gag.com/gag/aE0yxOM)<!-- MEMES:END -->
 
 ---
 
