@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prank](http://9gag.com/gag/aZZoLE3)
- - ⏩ [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 💣 [Magic \u2728](http://9gag.com/gag/a6Z4O19)
+ - ⏩ [Prank](http://9gag.com/gag/aZZoLE3)
  - 👉 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)<!-- MEMES:END -->
 
 ---
