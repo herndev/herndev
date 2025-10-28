@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Breaking Bad creator swears off AI: &#39;No one has held a shotgun to my head and made me do it&#39;](https://www.polygon.com/breaking-bad-vince-gilligan-ai-artificial-intelligence/)
- - [The Melt Mouse isn&#39;t some Dali-esque nightmare, but rather a touchpad and haptic-equipped squeaker with serious Apple vibes](https://www.pcgamer.com/hardware/gaming-mice/hate-buttons-then-the-smooth-touchpad-interface-of-the-melt-mouse-may-be-for-you/)
- - [The Fortnite Simpsons crossover is coming this weekend, with drooling aliens Kang and Kodos beaming players away to another island](https://www.pcgamer.com/games/battle-royale/fortnite-simpsons-start-time-trailer/)<!-- GAME:END -->
+ - [The 2024 games &lpar;and movie&rpar; eligible for the 2025 Game Awards](https://www.polygon.com/goty-game-awards-2024-games-eligible-2025/)
+ - [MTG just revealed 68 awesome Avatar: The Last Airbender cards](https://www.polygon.com/mtg-avatar-the-last-airbender-cards-reveal/)
+ - [Invincible VS: Fan-Favorites Robot and Monster Girl Join The Lineup](https://news.xbox.com/en-us/2025/10/28/invincible-vs-fan-favorites-robot-and-monster-girl-join-the-lineup/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
