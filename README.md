@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chaos Zero Nightmare is a gacha game where you don&#39;t need pulls to have fun](https://www.polygon.com/chaos-zero-nightmare-gacha-game/)
- - [Microsoft won&#39;t touch the Trump Halo memes even as government doubles down](https://www.polygon.com/microsoft-trump-halo-ai-meme-image-white-house-response/)
- - [JBL Clip 5 Bluetooth Speaker Now Costs Next to Nothing as Amazon Clears Shelves Ahead of Black Friday](https://kotaku.com/jbl-clip-5-bluetooth-speaker-now-costs-next-to-nothing-as-it-clears-shelves-ahead-of-black-friday-2000637786)<!-- GAME:END -->
+ - [Breaking Bad creator swears off AI: &#39;No one has held a shotgun to my head and made me do it&#39;](https://www.polygon.com/breaking-bad-vince-gilligan-ai-artificial-intelligence/)
+ - [The Melt Mouse isn&#39;t some Dali-esque nightmare, but rather a touchpad and haptic-equipped squeaker with serious Apple vibes](https://www.pcgamer.com/hardware/gaming-mice/hate-buttons-then-the-smooth-touchpad-interface-of-the-melt-mouse-may-be-for-you/)
+ - [The Fortnite Simpsons crossover is coming this weekend, with drooling aliens Kang and Kodos beaming players away to another island](https://www.pcgamer.com/games/battle-royale/fortnite-simpsons-start-time-trailer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
