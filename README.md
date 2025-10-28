@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China claims it has completed the first phase of construction of the first underwater data center, which is powered by wind energy and cooled by seawater &lpar;Anna Lagos/Wired&rpar;](http://www.techmeme.com/251028/p49#a251028p49)
- - [Samsung may simplify photo cleanup in One UI 8.5](https://www.androidauthority.com/object-eraser-one-ui-8-5-simpler-3610928/)
- - [The 50 Best Shows on HBO Max Right Now &lpar;November 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
+ - [Nothing’s Ear Open earbuds are back under $100 right now](https://www.theverge.com/tech/808321/nothing-ear-open-earbuds-deal-sale)
+ - [Google’s Android app is already preparing for the Samsung tri-fold](https://www.androidauthority.com/samsung-trifold-google-3611041/)
+ - [EA reports Q2 net bookings down 13% YoY to $1.82B, vs. $1.88B est., and says it will no longer issue forward-looking financial guidance due to its $55B sale &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251028/p50#a251028p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
