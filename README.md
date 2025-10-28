@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says it will cut ~14,000 jobs across its corporate workforce, after cutting 27,000 from 2022 to 2023; the company employed 1.55M people globally in June &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251028/p5#a251028p5)
- - [OpenAI offers its cheaper ChatGPT Go plan for free for one year to users in India starting November 4, but did not say how long the offer would remain available &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251028/p4#a251028p4)
- - [Poll: Do you care about Amazon Kindle updates?](https://www.androidauthority.com/amazon-kindle-updates-poll-3610648/)<!-- TECH:END -->
+ - [Sources: Uber plans to invest in the Hong Kong listings of Pony AI and WeRide, deepening its Chinese robotaxi ties, including ~$100M in Pony AI&#39;s share sale &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p11#a251028p11)
+ - [PayPal CEO Alex Chriss says the company signed a deal with OpenAI to let shoppers use PayPal&#39;s digital wallet in ChatGPT to pay for items, starting in 2026 &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/251028/p10#a251028p10)
+ - [Are the OnePlus 15 cameras any good? Here are the first pictures I took](https://www.androidauthority.com/oneplus-15-first-camera-samples-3610420/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
