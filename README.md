@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How many seasons will Pluribus be? Vince Gilligan reveals the answer](https://www.polygon.com/how-many-seasons-will-pluribus-be/)
- - [Mega Rising expansion release time in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-mega-rising-expansion-release-time-date-pdt-edt-cet/)
- - [Today&#39;s Wordle clues, hints and answer for October 28 &lpar;#1592&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-28-2025/)<!-- GAME:END -->
+ - [Out with the old, in with the old: AMD&#39;s still selling Zen 2 and Zen 3+ processors, now under the guise of the Ryzen 10/100 series](https://www.pcgamer.com/hardware/processors/out-with-the-old-in-with-the-old-amds-still-selling-zen-2-and-zen-3-processors-now-under-the-guise-of-the-ryzen-10-100-series/)
+ - [OG Doom legend John Carmack says his Nvidia DGX Spark box has thermal throttling issues, raising doubts over the viability of Nvidia&#39;s AI APU for laptop PCs](https://www.pcgamer.com/hardware/graphics-cards/og-doom-legend-john-carmack-says-his-nvidia-dgx-spark-box-has-thermal-throttling-issues-raising-doubts-over-the-viability-of-nvidias-ai-apu-for-laptop-pcs/)
+ - [All Raise Animals codes for October 2025: Rubies and Corals](https://www.pcgamer.com/roblox/raise-animals-codes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
