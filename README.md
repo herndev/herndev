@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Farewell, Pixel Watch: The OG wearable is getting its last-ever update](https://www.androidauthority.com/pixel-watch-final-update-october-2025-3610673/)
- - [Meta and TikTok say they will comply with Australia&#39;s under-16 social media ban, taking effect on December 10, but warn the landmark law may be hard to enforce &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/251027/p42#a251027p42)
- - [Elon Musk&#39;s Grokipedia Pushes Far-Right Talking Points](https://www.wired.com/story/elon-musk-launches-grokipedia-wikipedia-competitor/)<!-- TECH:END -->
+ - [Google starts rolling out Play Store age verification, mirroring YouTube’s controversial checks](https://www.androidauthority.com/google-play-store-age-verification-rollout-3610677/)
+ - [How to add third-party cards to Apple Wallet app in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-add-third-party-cards-to-apple-wallet-app-in-ios-26?utm_source=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Oct. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
