@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice shot](http://9gag.com/gag/awyPQQ1)
+ - 💣 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
  - ⏩ [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
- - 👉 [Redo of healer](http://9gag.com/gag/a6Z4oBL)<!-- MEMES:END -->
+ - 👉 [Good quality tents](http://9gag.com/gag/aE0yxOM)<!-- MEMES:END -->
 
 ---
 
