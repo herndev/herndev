@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe introduces new AI features for faster video, photo, and design workflows](https://appleinsider.com/articles/25/10/28/adobe-introduces-new-ai-features-for-faster-video-photo-and-design-workflows?utm_source=rss)
- - [You can tell Adobe Express’s new AI assistant to edit your designs for you](https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025)
- - [Photoshop and Premiere Pro’s new AI tools can instantly edit more of your work](https://www.theverge.com/news/807811/adobe-photoshop-lightroom-premiere-pro-ai-max-2025)<!-- TECH:END -->
+ - [MacPaw&#39;s new Moonlock app challenges the myth of virus-proof Macs](https://appleinsider.com/articles/25/10/28/macpaws-new-moonlock-app-challenges-the-myth-of-virus-proof-macs?utm_source=rss)
+ - [Microsoft says it supports the OpenAI board moving to form a public benefit corporation and recapitalization, and now holds a ~$135B OpenAI Group PBC investment &lpar;Microsoft&rpar;](http://www.techmeme.com/251028/p22#a251028p22)
+ - [Spatial connects Apple Vision Pro &amp; iPhone for shared 3D design](https://appleinsider.com/articles/25/10/28/spatial-connects-apple-vision-pro-iphone-for-shared-3d-design?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
