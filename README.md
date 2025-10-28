@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Securitize, a blockchain company that tokenizes investments, files to go public via a SPAC started by Cantor Fitzgerald, valuing Securitize at $1.25B pre-money &lpar;Liz Napolitano/CNBC&rpar;](http://www.techmeme.com/251028/p34#a251028p34)
- - [Older Pixel phones have a major weakness when it comes to UWB tracking](https://www.androidauthority.com/older-pixel-phones-uwb-precision-finding-3610901/)
- - [Nvidia plans to invest $1B in Nokia for a 2.9% stake in the company, an apparent vindication of the Finnish company&#39;s pivot from mobile networking to AI &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/251028/p33#a251028p33)<!-- TECH:END -->
+ - [Looking to save big? Here are 5 AT&amp;T deals I recommend checking out this month](https://www.androidauthority.com/att-deals-november-3610914/)
+ - [What car models and manufacturers support Apple Car Key](https://appleinsider.com/articles/25/10/28/what-car-models-and-manufacturers-support-apple-car-key?utm_source=rss)
+ - [Chip changes: How fast will M5 Pro and M5 Max be?](https://appleinsider.com/articles/25/10/28/chip-changes-how-fast-will-m5-pro-and-m5-max-be?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
