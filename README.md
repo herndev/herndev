@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RedSec: An Epic Free-to-Play Destination Built on Battlefield’s Iconic DNA](https://www.ea.com/games/battlefield/battlefield-6/news/season-1-full-roadmap%20#new_tab)
- - [Netflix&#39;s One Piece series gets a release date](https://www.polygon.com/netflix-one-piece-season-2-release-date-live-action/)
- - [&#39;Humans who create things can beat technology&#39;: Touhou Project creator criticises generative AI despite using generative AI in his own videogame](https://www.pcgamer.com/games/action/humans-who-create-things-can-beat-technology-touhou-project-creator-criticises-generative-ai-despite-using-generative-ai-in-his-own-videogame/)<!-- GAME:END -->
+ - [Chaos Zero Nightmare is a gacha game where you don&#39;t need pulls to have fun](https://www.polygon.com/chaos-zero-nightmare-gacha-game/)
+ - [Microsoft won&#39;t touch the Trump Halo memes even as government doubles down](https://www.polygon.com/microsoft-trump-halo-ai-meme-image-white-house-response/)
+ - [JBL Clip 5 Bluetooth Speaker Now Costs Next to Nothing as Amazon Clears Shelves Ahead of Black Friday](https://kotaku.com/jbl-clip-5-bluetooth-speaker-now-costs-next-to-nothing-as-it-clears-shelves-ahead-of-black-friday-2000637786)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
