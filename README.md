@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - ⏩ [Nice shot](http://9gag.com/gag/awyPQQ1)
- - 👉 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)<!-- MEMES:END -->
+ - ⏩ [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
+ - 👉 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)<!-- MEMES:END -->
 
 ---
 
