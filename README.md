@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Researchers discover that dehydrated mushrooms can function like biological RAM after they&#39;ve been zapped with electricity](https://www.pcgamer.com/hardware/researchers-train-mushrooms-to-function-like-biological-ram-with-90-percent-accuracy-but-thats-not-even-the-wildest-part/)
- - [Vince Gilligan reveals the sci-fi shows and movies that inspired Pluribus](https://www.polygon.com/pluirbus-vince-gilligan-science-fiction-influences/)
- - [A high school in Japan used P.T. to teach an English class, and now I&#39;m jealous that my teachers never let me do that](https://www.pcgamer.com/games/horror/a-high-school-in-japan-used-p-t-to-teach-an-english-class-and-now-im-jealous-that-my-teachers-never-let-me-do-that/)<!-- GAME:END -->
+ - [PUBG creator&#39;s ambitious new survival game has an early access release](https://www.polygon.com/playerunknown-prologue-go-wayback-survival-game-steam-release-date/)
+ - [Forget AirTags, Samsung’s SmartTag 2 &lpar;4-Pack&rpar; Goes for Peanuts Per Tracker](https://kotaku.com/these-samsung-bluetooth-trackers-make-for-wonderful-stocking-stuffers-at-just-16-per-smarttag2-2000639338)
+ - [DDR4 RAM prices continue to surge ahead of DDR5, now averaging $25 per DDR4-3200 module](https://www.pcgamer.com/hardware/memory/ddr4-ram-prices-continue-to-surge-ahead-of-ddr5-now-averaging-usd25-per-ddr4-3200-module/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
