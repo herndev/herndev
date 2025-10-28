@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Out with the old, in with the old: AMD&#39;s still selling Zen 2 and Zen 3+ processors, now under the guise of the Ryzen 10/100 series](https://www.pcgamer.com/hardware/processors/out-with-the-old-in-with-the-old-amds-still-selling-zen-2-and-zen-3-processors-now-under-the-guise-of-the-ryzen-10-100-series/)
- - [OG Doom legend John Carmack says his Nvidia DGX Spark box has thermal throttling issues, raising doubts over the viability of Nvidia&#39;s AI APU for laptop PCs](https://www.pcgamer.com/hardware/graphics-cards/og-doom-legend-john-carmack-says-his-nvidia-dgx-spark-box-has-thermal-throttling-issues-raising-doubts-over-the-viability-of-nvidias-ai-apu-for-laptop-pcs/)
- - [All Raise Animals codes for October 2025: Rubies and Corals](https://www.pcgamer.com/roblox/raise-animals-codes/)<!-- GAME:END -->
+ - [Researchers discover that dehydrated mushrooms can function like biological RAM after they&#39;ve been zapped with electricity](https://www.pcgamer.com/hardware/researchers-train-mushrooms-to-function-like-biological-ram-with-90-percent-accuracy-but-thats-not-even-the-wildest-part/)
+ - [Vince Gilligan reveals the sci-fi shows and movies that inspired Pluribus](https://www.polygon.com/pluirbus-vince-gilligan-science-fiction-influences/)
+ - [A high school in Japan used P.T. to teach an English class, and now I&#39;m jealous that my teachers never let me do that](https://www.pcgamer.com/games/horror/a-high-school-in-japan-used-p-t-to-teach-an-english-class-and-now-im-jealous-that-my-teachers-never-let-me-do-that/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
