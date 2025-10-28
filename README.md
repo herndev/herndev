@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
- - [TikTok&#39;s Fate May Be Decided This Week After Years of Threats and Bans](https://www.cnet.com/news/social-media/tiktoks-fate-may-be-decided-this-week-after-years-of-threats-and-bans/#ftag=CAD590a51e)
- - [Battlefield 6&#39;s Redsec Mode, Coming Tomorrow, Brings Battle Royale Back to the Series](https://www.cnet.com/tech/gaming/battlefield-6s-redsec-mode-coming-tomorrow-brings-battle-royale-back-to-the-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk&#39;s Grokipedia Pushes Far-Right Talking Points](https://www.wired.com/story/elon-musk-launches-grokipedia-wikipedia-competitor/)
+ - [Elon Musk’s Grokipedia contains copied Wikipedia pages](https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied)
+ - [Apple Says a Digital Version of Your Passport Is Coming Soon to iPhones](https://www.cnet.com/tech/services-and-software/apple-says-a-digital-version-of-your-passport-is-coming-soon-to-iphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
