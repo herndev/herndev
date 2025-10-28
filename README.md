@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chegg plans to cut 388 roles, or about 45% of the workforce, citing the &quot;new realities of AI&quot;, and says executive chairman Dan Rosensweig returns as CEO &lpar;Vallari Srivastava/Reuters&rpar;](http://www.techmeme.com/251027/p37#a251027p37)
- - [ExxonMobil accuses California of violating its free speech](https://www.theverge.com/news/807357/exxon-lawsuit-california-greenhouse-gas-climate-reporting-laws)
- - [Toronto-based Wealthsimple, an online investment management service, raised CA$750M co-led by Dragoneer and GIC at a post-money valuation of CA$10B &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/251027/p36#a251027p36)<!-- TECH:END -->
+ - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
+ - [TikTok&#39;s Fate May Be Decided This Week After Years of Threats and Bans](https://www.cnet.com/news/social-media/tiktoks-fate-may-be-decided-this-week-after-years-of-threats-and-bans/#ftag=CAD590a51e)
+ - [Battlefield 6&#39;s Redsec Mode, Coming Tomorrow, Brings Battle Royale Back to the Series](https://www.cnet.com/tech/gaming/battlefield-6s-redsec-mode-coming-tomorrow-brings-battle-royale-back-to-the-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
