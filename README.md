@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NXP reports Q3 revenue down 2% YoY to $3.17B, vs. $3.16B est., automotive revenue flat YoY to $1.83B, and expects above estimates Q4 revenue of $3.20B to $3.40B &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/251028/p1#a251028p1)
  - [Breaking: This is our first real look at Samsung’s tri-fold Galaxy](https://www.androidauthority.com/samsung-galaxy-tri-fold-leak-3610686/)
- - [Google starts rolling out Play Store age verification, mirroring YouTube’s controversial checks](https://www.androidauthority.com/google-play-store-age-verification-rollout-3610677/)
- - [How to add third-party cards to Apple Wallet app in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-add-third-party-cards-to-apple-wallet-app-in-ios-26?utm_source=rss)<!-- TECH:END -->
+ - [Google starts rolling out YouTube-style age checks for Play Store](https://www.androidauthority.com/google-play-store-age-verification-rollout-3610677/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
