@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breaking: This is our first real look at Samsung’s tri-fold Galaxy &lpar;Updated: More images and video!&rpar;](https://www.androidauthority.com/samsung-galaxy-tri-fold-leak-3610686/)
- - [20% Off LG Promo Code &amp; Coupons | October 2025](https://www.wired.com/story/lg-promo-code/)
- - [Home Depot Promo Codes: 10% Off | October 2025](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
+ - [Pluribus&amp;#8217; Vince Gilligan on making shows that ‘attract really smart viewers’](https://www.theverge.com/entertainment/807102/pluribus-vince-gilligan-interview-apple-tv-breaking-bad)
+ - [Samsung finally realizes customers love big upgrades, could double down with the Fold 8](https://www.androidauthority.com/samsung-galaxy-z-fold-8-battery-upgrade-s-pen-3610708/)
+ - [Breaking: This is our first real look at Samsung’s tri-fold Galaxy &lpar;Updated: More images and video!&rpar;](https://www.androidauthority.com/samsung-galaxy-tri-fold-leak-3610686/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
