@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
- - ⏩ [Staaaairs](http://9gag.com/gag/awyPAXx)
- - 👉 [Caw, caw!](http://9gag.com/gag/aByjxo1)<!-- MEMES:END -->
+ - 💣 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
+ - ⏩ [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 👉 [Deer Friend](http://9gag.com/gag/aE0yBnK)<!-- MEMES:END -->
 
 ---
 
