@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing’s Ear Open earbuds are back under $100 right now](https://www.theverge.com/tech/808321/nothing-ear-open-earbuds-deal-sale)
- - [Google’s Android app is already preparing for the Samsung tri-fold](https://www.androidauthority.com/samsung-trifold-google-3611041/)
- - [EA reports Q2 net bookings down 13% YoY to $1.82B, vs. $1.88B est., and says it will no longer issue forward-looking financial guidance due to its $55B sale &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251028/p50#a251028p50)<!-- TECH:END -->
+ - [During Nvidia&#39;s first ever GTC conference in Washington, DC, Jensen Huang praised Trump&#39;s policies and emphasized themes of patriotism and US national interests &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251028/p53#a251028p53)
+ - [This ASUS TUF Gaming Monitor is too good for just $129.99](https://www.androidauthority.com/asus-tuf-gaming-27-inch-monitor-vg279qe5a-deal-3610894/)
+ - [Myanmar shut down a major online scam center on October 21 as part of operations starting in September to curb cross-border online scams and illegal gambling &lpar;Associated Press&rpar;](http://www.techmeme.com/251028/p52#a251028p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
