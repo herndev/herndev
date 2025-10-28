@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey reveals what users feel about OnePlus 15’s display downgrade](https://www.androidauthority.com/oneplus-15-display-downgrade-poll-results-3610720/)
- - [Riyadh-based BNPL startup Tabby completes a secondary share sale of existing shareholders&#39; stakes, valuing it at $4.5B ahead of a possible IPO &lpar;Reuters&rpar;](http://www.techmeme.com/251028/p3#a251028p3)
- - [Pixel Camera finally works again on GrapheneOS — and no downgrade is needed](https://www.androidauthority.com/grapheneos-pixel-camera-crash-fix-3610717/)<!-- TECH:END -->
+ - [Amazon says it will cut ~14,000 jobs across its corporate workforce, after cutting 27,000 from 2022 to 2023; the company employed 1.55M people globally in June &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251028/p5#a251028p5)
+ - [OpenAI offers its cheaper ChatGPT Go plan for free for one year to users in India starting November 4, but did not say how long the offer would remain available &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251028/p4#a251028p4)
+ - [Poll: Do you care about Amazon Kindle updates?](https://www.androidauthority.com/amazon-kindle-updates-poll-3610648/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
