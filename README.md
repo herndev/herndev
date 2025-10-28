@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacPaw&#39;s new Moonlock app challenges the myth of virus-proof Macs](https://appleinsider.com/articles/25/10/28/macpaws-new-moonlock-app-challenges-the-myth-of-virus-proof-macs?utm_source=rss)
- - [Microsoft says it supports the OpenAI board moving to form a public benefit corporation and recapitalization, and now holds a ~$135B OpenAI Group PBC investment &lpar;Microsoft&rpar;](http://www.techmeme.com/251028/p22#a251028p22)
- - [Spatial connects Apple Vision Pro &amp; iPhone for shared 3D design](https://appleinsider.com/articles/25/10/28/spatial-connects-apple-vision-pro-iphone-for-shared-3d-design?utm_source=rss)<!-- TECH:END -->
+ - [A profile of Substrate, which uses particle acceleration to handle lithography, claiming to solve one of tech&#39;s toughest problems, and aims to compete with ASML &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p27#a251028p27)
+ - [Apple reaches $4 trillion market value after surge in iPhone 17 sales](https://appleinsider.com/articles/25/10/28/apple-reaches-4-trillion-market-value-after-surge-in-iphone-17-sales?utm_source=rss)
+ - [Circle launches the test version of its Arc blockchain, with Goldman, BlackRock, Apollo, Anthropic, Intercontinental Exchange, and others set to trial it &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/251028/p26#a251028p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
