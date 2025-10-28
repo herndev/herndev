@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is ditching MMOs and cranking out party games](https://www.theverge.com/news/808332/amazon-gaming-layoffs-mmo-aaa-first-party-games)
- - [The latest Apple TV 4K just received a rare $30 discount](https://www.theverge.com/tech/808082/apple-tv-4k-third-gen-costco-deal-sale)
- - [Android’s Quick Share could soon add a new security check to stop file theft](https://www.androidauthority.com/quick-share-advanced-protection-rumor-3610978/)<!-- TECH:END -->
+ - [China claims it has completed the first phase of construction of the first underwater data center, which is powered by wind energy and cooled by seawater &lpar;Anna Lagos/Wired&rpar;](http://www.techmeme.com/251028/p49#a251028p49)
+ - [Samsung may simplify photo cleanup in One UI 8.5](https://www.androidauthority.com/object-eraser-one-ui-8-5-simpler-3610928/)
+ - [The 50 Best Shows on HBO Max Right Now &lpar;November 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
