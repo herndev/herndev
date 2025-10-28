@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Truth Social launches Truth Predict, a prediction market platform in partnership with Crypto.com to let users trade on major current events like elections &lpar;Financial Times&rpar;](http://www.techmeme.com/251028/p31#a251028p31)
- - [Chip changes: How fast will M5 Pro and M5 Max be?](https://appleinsider.com/articles/25/10/28/chip-changes-how-fast-will-m5-pro-and-m5-max-be?utm_source=rss)
- - [Pixel 10a is looking kind of familiar in these leaked renders](https://www.androidauthority.com/google-pixel-10a-cad-renders-3610833/)<!-- TECH:END -->
+ - [Securitize, a blockchain company that tokenizes investments, files to go public via a SPAC started by Cantor Fitzgerald, valuing Securitize at $1.25B pre-money &lpar;Liz Napolitano/CNBC&rpar;](http://www.techmeme.com/251028/p34#a251028p34)
+ - [Older Pixel phones have a major weakness when it comes to UWB tracking](https://www.androidauthority.com/older-pixel-phones-uwb-precision-finding-3610901/)
+ - [Nvidia plans to invest $1B in Nokia for a 2.9% stake in the company, an apparent vindication of the Finnish company&#39;s pivot from mobile networking to AI &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/251028/p33#a251028p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
