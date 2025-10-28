@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 💣 [No staring at the gym! &lpar;sound needed&rpar;](http://9gag.com/gag/ary9g76)
  - ⏩ [Prank](http://9gag.com/gag/aZZoLE3)
- - 👉 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)<!-- MEMES:END -->
+ - 👉 [Good quality tents](http://9gag.com/gag/aE0yxOM)<!-- MEMES:END -->
 
 ---
 
