@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney is breaking up with Doctor Who](https://www.theverge.com/entertainment/808183/disney-bbc-doctor-who-partnership-ending)
- - [Starlink Halts Service to Myanmar Scam Centers Amid Congressional Probe](https://www.cnet.com/tech/services-and-software/starlink-halts-service-to-myanmar-scam-centers-amid-congressional-probe/#ftag=CAD590a51e)
- - [Nvidia unveils BlueField-4 data processing unit, combining a 64-core Grace CPU and ConnectX-9 SuperNIC for 800 Gbps of network throughput, launching in 2026 &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/251028/p43#a251028p43)<!-- TECH:END -->
+ - [Amazon is ditching MMOs and cranking out party games](https://www.theverge.com/news/808332/amazon-gaming-layoffs-mmo-aaa-first-party-games)
+ - [The latest Apple TV 4K just received a rare $30 discount](https://www.theverge.com/tech/808082/apple-tv-4k-third-gen-costco-deal-sale)
+ - [Android’s Quick Share could soon add a new security check to stop file theft](https://www.androidauthority.com/quick-share-advanced-protection-rumor-3610978/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
