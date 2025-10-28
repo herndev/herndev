@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
+ - 💣 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
  - ⏩ [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
  - 👉 [Prank](http://9gag.com/gag/aZZoLE3)<!-- MEMES:END -->
 
