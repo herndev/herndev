@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looking to save big? Here are 5 AT&amp;T deals I recommend checking out this month](https://www.androidauthority.com/att-deals-november-3610914/)
- - [What car models and manufacturers support Apple Car Key](https://appleinsider.com/articles/25/10/28/what-car-models-and-manufacturers-support-apple-car-key?utm_source=rss)
- - [Chip changes: How fast will M5 Pro and M5 Max be?](https://appleinsider.com/articles/25/10/28/chip-changes-how-fast-will-m5-pro-and-m5-max-be?utm_source=rss)<!-- TECH:END -->
+ - [Disney is breaking up with Doctor Who](https://www.theverge.com/entertainment/808183/disney-bbc-doctor-who-partnership-ending)
+ - [Starlink Halts Service to Myanmar Scam Centers Amid Congressional Probe](https://www.cnet.com/tech/services-and-software/starlink-halts-service-to-myanmar-scam-centers-amid-congressional-probe/#ftag=CAD590a51e)
+ - [Nvidia unveils BlueField-4 data processing unit, combining a 64-core Grace CPU and ConnectX-9 SuperNIC for 800 Gbps of network throughput, launching in 2026 &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/251028/p43#a251028p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
