@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [During Nvidia&#39;s first ever GTC conference in Washington, DC, Jensen Huang praised Trump&#39;s policies and emphasized themes of patriotism and US national interests &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251028/p53#a251028p53)
- - [This ASUS TUF Gaming Monitor is too good for just $129.99](https://www.androidauthority.com/asus-tuf-gaming-27-inch-monitor-vg279qe5a-deal-3610894/)
- - [Myanmar shut down a major online scam center on October 21 as part of operations starting in September to curb cross-border online scams and illegal gambling &lpar;Associated Press&rpar;](http://www.techmeme.com/251028/p52#a251028p52)<!-- TECH:END -->
+ - [YouTube will age-restrict more video game content showing &quot;graphic violence&quot; and stop creators from directing users to gambling sites involving digital goods &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251028/p54#a251028p54)
+ - [Senators propose banning teens from using AI chatbots](https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban)
+ - [YouTube will restrict more content showing &amp;#8216;graphic violence&amp;#8217; in video games](https://www.theverge.com/news/808545/youtube-graphic-video-game-violence-age-restriction)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
