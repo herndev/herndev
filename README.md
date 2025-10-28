@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - ⏩ [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
- - 👉 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)<!-- MEMES:END -->
+ - 💣 [Prank](http://9gag.com/gag/aZZoLE3)
+ - ⏩ [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 👉 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)<!-- MEMES:END -->
 
 ---
 
