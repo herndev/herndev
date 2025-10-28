@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 28 &lpar;#1592&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-28-2025/)
- - [Loulan: The Cursed Sand is coming to PS5](https://blog.playstation.com/2025/10/27/loulan-the-cursed-sand-is-coming-to-ps5/)
- - [Loulan: The Cursed Sand is coming to PS5](https://blog.playstation.com/2025/10/27/loulan-the-cursed-sand-is-coming-to-ps5/)<!-- GAME:END -->
+ - [How many seasons will Pluribus be? Vince Gilligan reveals the answer](https://www.polygon.com/how-many-seasons-will-pluribus-be/)
+ - [Mega Rising expansion release time in Pokémon TCG Pocket](https://www.polygon.com/pokemon-tcg-pocket-mega-rising-expansion-release-time-date-pdt-edt-cet/)
+ - [Today&#39;s Wordle clues, hints and answer for October 28 &lpar;#1592&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-28-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
