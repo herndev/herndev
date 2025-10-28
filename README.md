@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - ⏩ [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
- - 👉 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)<!-- MEMES:END -->
+ - 💣 [Life of keyboard..](http://9gag.com/gag/amoK76d)
+ - ⏩ [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
+ - 👉 [Staaaairs](http://9gag.com/gag/awyPAXx)<!-- MEMES:END -->
 
 ---
 
