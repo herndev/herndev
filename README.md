@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [China #1](http://9gag.com/gag/ae9yMxv)
- - ⏩ [Prank](http://9gag.com/gag/aZZoLE3)
- - 👉 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)<!-- MEMES:END -->
+ - 💣 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
+ - ⏩ [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - 👉 [Prank](http://9gag.com/gag/aZZoLE3)<!-- MEMES:END -->
 
 ---
 
