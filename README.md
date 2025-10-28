@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Prank](http://9gag.com/gag/aZZoLE3)
  - ⏩ [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
- - 👉 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)<!-- MEMES:END -->
+ - 👉 [Magic \u2728](http://9gag.com/gag/a6Z4O19)<!-- MEMES:END -->
 
 ---
 
