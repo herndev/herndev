@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PUBG creator&#39;s ambitious new survival game has an early access release](https://www.polygon.com/playerunknown-prologue-go-wayback-survival-game-steam-release-date/)
- - [Forget AirTags, Samsung’s SmartTag 2 &lpar;4-Pack&rpar; Goes for Peanuts Per Tracker](https://kotaku.com/these-samsung-bluetooth-trackers-make-for-wonderful-stocking-stuffers-at-just-16-per-smarttag2-2000639338)
- - [DDR4 RAM prices continue to surge ahead of DDR5, now averaging $25 per DDR4-3200 module](https://www.pcgamer.com/hardware/memory/ddr4-ram-prices-continue-to-surge-ahead-of-ddr5-now-averaging-usd25-per-ddr4-3200-module/)<!-- GAME:END -->
+ - [RedSec: An Epic Free-to-Play Destination Built on Battlefield’s Iconic DNA](https://www.ea.com/games/battlefield/battlefield-6/news/season-1-full-roadmap%20#new_tab)
+ - [Netflix&#39;s One Piece series gets a release date](https://www.polygon.com/netflix-one-piece-season-2-release-date-live-action/)
+ - [&#39;Humans who create things can beat technology&#39;: Touhou Project creator criticises generative AI despite using generative AI in his own videogame](https://www.pcgamer.com/games/action/humans-who-create-things-can-beat-technology-touhou-project-creator-criticises-generative-ai-despite-using-generative-ai-in-his-own-videogame/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
