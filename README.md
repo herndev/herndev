@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Magic \u2728](http://9gag.com/gag/a6Z4O19)
- - ⏩ [Prank](http://9gag.com/gag/aZZoLE3)
- - 👉 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)<!-- MEMES:END -->
+ - 💣 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - ⏩ [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 👉 [My son’s Halloween costume last year made the school change their costume rules](https://www.reddit.com/r/funny/comments/1oil79y/my_sons_halloween_costume_last_year_made_the/)<!-- MEMES:END -->
 
 ---
 
