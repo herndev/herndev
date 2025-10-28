@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Windows 11 Mini PC Sells for Pennies on Amazon, Now 3x Cheaper Than Mac Mini](https://kotaku.com/this-windows-11-mini-pc-sells-for-pennies-on-amazon-now-3x-cheaper-than-mac-mini-2000639301)
- - [Govee’s Floor Lamp Is Selling for Pocket Change, Amazon Has Zero Profit Margin Left on It](https://kotaku.com/govees-floor-lamp-is-selling-for-pocket-change-amazon-has-zero-profit-margin-left-on-it-2000639420)
- - [I stomped this Chinese Hades clone on my fifth attempt, because broken builds are a feature not a bug](https://www.pcgamer.com/games/roguelike/i-stomped-this-chinese-hades-clone-on-my-fifth-attempt-because-broken-builds-are-a-feature-not-a-bug/)<!-- GAME:END -->
+ - [This 10,000 Pa Robot Vacuum and Mop with 70-Day Self-Emptying Is Selling for Peanuts, Roborock Demolishes the Competition](https://kotaku.com/this-10000-pa-robot-vacuum-and-mop-with-70-day-self-emptying-is-selling-for-peanuts-roborock-demolishes-the-competition-2000639314)
+ - [Civilization 7 will get &#39;one of the most requested features&#39; since launch: The option to play as one civ from start to finish](https://www.pcgamer.com/games/strategy/civilization-7-will-get-one-of-the-most-requested-features-since-launch-the-option-to-play-as-one-civ-from-start-to-finish/)
+ - [This Windows 11 Mini PC Sells for Pennies on Amazon, Now 3x Cheaper Than Mac Mini](https://kotaku.com/this-windows-11-mini-pc-sells-for-pennies-on-amazon-now-3x-cheaper-than-mac-mini-2000639301)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
