@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
- - ⏩ [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 👉 [Deer Friend](http://9gag.com/gag/aE0yBnK)<!-- MEMES:END -->
+ - 💣 [Here we go](http://9gag.com/gag/aLnVgnA)
+ - ⏩ [Caw, caw!](http://9gag.com/gag/aByjxo1)
+ - 👉 [Staaaairs](http://9gag.com/gag/awyPAXx)<!-- MEMES:END -->
 
 ---
 
