@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pluribus&amp;#8217; Vince Gilligan on making shows that ‘attract really smart viewers’](https://www.theverge.com/entertainment/807102/pluribus-vince-gilligan-interview-apple-tv-breaking-bad)
- - [Samsung finally realizes customers love big upgrades, could double down with the Fold 8](https://www.androidauthority.com/samsung-galaxy-z-fold-8-battery-upgrade-s-pen-3610708/)
- - [Breaking: This is our first real look at Samsung’s tri-fold Galaxy &lpar;Updated: More images and video!&rpar;](https://www.androidauthority.com/samsung-galaxy-tri-fold-leak-3610686/)<!-- TECH:END -->
+ - [Survey reveals what users feel about OnePlus 15’s display downgrade](https://www.androidauthority.com/oneplus-15-display-downgrade-poll-results-3610720/)
+ - [Riyadh-based BNPL startup Tabby completes a secondary share sale of existing shareholders&#39; stakes, valuing it at $4.5B ahead of a possible IPO &lpar;Reuters&rpar;](http://www.techmeme.com/251028/p3#a251028p3)
+ - [Pixel Camera finally works again on GrapheneOS — and no downgrade is needed](https://www.androidauthority.com/grapheneos-pixel-camera-crash-fix-3610717/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
