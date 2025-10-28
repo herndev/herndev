@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s Grokipedia Pushes Far-Right Talking Points](https://www.wired.com/story/elon-musk-launches-grokipedia-wikipedia-competitor/)
- - [Elon Musk’s Grokipedia contains copied Wikipedia pages](https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied)
- - [Apple Says a Digital Version of Your Passport Is Coming Soon to iPhones](https://www.cnet.com/tech/services-and-software/apple-says-a-digital-version-of-your-passport-is-coming-soon-to-iphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Farewell, Pixel Watch: The OG wearable is getting its last-ever update](https://www.androidauthority.com/pixel-watch-final-update-october-2025-3610673/)
+ - [Meta and TikTok say they will comply with Australia&#39;s under-16 social media ban, taking effect on December 10, but warn the landmark law may be hard to enforce &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/251027/p42#a251027p42)
+ - [Elon Musk&#39;s Grokipedia Pushes Far-Right Talking Points](https://www.wired.com/story/elon-musk-launches-grokipedia-wikipedia-competitor/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
