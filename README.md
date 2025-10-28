@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [33 Immortals Gets a Massive New Update Today](https://news.xbox.com/en-us/2025/10/28/33-immortals-pride-and-temperance-update/)
- - [Former Halo Devs Call ICE Meme Despicable: ‘A Call To Destroy People Because Of Their Immigration Status Goes Way Too Far’](https://kotaku.com/halo-ice-trump-microsoft-developers-criticism-2000639666)
- - [Hit Indie Game RV There Yet? Is The Best Way To Destroy A Very Expensive Vehicle](https://kotaku.com/rv-there-yet-steam-coop-indie-physics-puzzle-2000639668)<!-- GAME:END -->
+ - [The underrated game scores and soundtracks that deserve more love in 2025](https://www.polygon.com/underrated-video-game-soundtracks-2025/)
+ - [Mouse: P.I. for Hire Is Much More Than It Appears](https://news.xbox.com/en-us/2025/10/28/mouse-pi-for-hire-deep-dive/)
+ - [8 Neat Games We Just Saw At The Fall Xbox Indie Showcase](https://kotaku.com/xbox-game-pass-indie-showcase-survival-horror-friendslop-2000639637)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
