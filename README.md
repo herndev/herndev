@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
- - ⏩ [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
- - 👉 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)<!-- MEMES:END -->
+ - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - ⏩ [Nice shot](http://9gag.com/gag/awyPQQ1)
+ - 👉 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)<!-- MEMES:END -->
 
 ---
 
