@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life of keyboard..](http://9gag.com/gag/amoK76d)
- - ⏩ [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
- - 👉 [Staaaairs](http://9gag.com/gag/awyPAXx)<!-- MEMES:END -->
+ - 💣 [Nice shot](http://9gag.com/gag/awyPQQ1)
+ - ⏩ [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
+ - 👉 [Redo of healer](http://9gag.com/gag/a6Z4oBL)<!-- MEMES:END -->
 
 ---
 
