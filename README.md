@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Loulan: The Cursed Sand is coming to PS5](https://blog.playstation.com/2025/10/27/loulan-the-cursed-sand-is-coming-to-ps5/)
  - [This 10,000 Pa Robot Vacuum and Mop with 70-Day Self-Emptying Is Selling for Peanuts, Roborock Demolishes the Competition](https://kotaku.com/this-10000-pa-robot-vacuum-and-mop-with-70-day-self-emptying-is-selling-for-peanuts-roborock-demolishes-the-competition-2000639314)
- - [Civilization 7 will get &#39;one of the most requested features&#39; since launch: The option to play as one civ from start to finish](https://www.pcgamer.com/games/strategy/civilization-7-will-get-one-of-the-most-requested-features-since-launch-the-option-to-play-as-one-civ-from-start-to-finish/)
- - [This Windows 11 Mini PC Sells for Pennies on Amazon, Now 3x Cheaper Than Mac Mini](https://kotaku.com/this-windows-11-mini-pc-sells-for-pennies-on-amazon-now-3x-cheaper-than-mac-mini-2000639301)<!-- GAME:END -->
+ - [Civilization 7 will get &#39;one of the most requested features&#39; since launch: The option to play as one civ from start to finish](https://www.pcgamer.com/games/strategy/civilization-7-will-get-one-of-the-most-requested-features-since-launch-the-option-to-play-as-one-civ-from-start-to-finish/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
