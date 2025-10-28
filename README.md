@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here we go](http://9gag.com/gag/aLnVgnA)
- - ⏩ [Caw, caw!](http://9gag.com/gag/aByjxo1)
- - 👉 [Staaaairs](http://9gag.com/gag/awyPAXx)<!-- MEMES:END -->
+ - 💣 [China #1](http://9gag.com/gag/ae9yMxv)
+ - ⏩ [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 👉 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)<!-- MEMES:END -->
 
 ---
 
