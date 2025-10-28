@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Uber plans to invest in the Hong Kong listings of Pony AI and WeRide, deepening its Chinese robotaxi ties, including ~$100M in Pony AI&#39;s share sale &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p11#a251028p11)
- - [PayPal CEO Alex Chriss says the company signed a deal with OpenAI to let shoppers use PayPal&#39;s digital wallet in ChatGPT to pay for items, starting in 2026 &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/251028/p10#a251028p10)
- - [Are the OnePlus 15 cameras any good? Here are the first pictures I took](https://www.androidauthority.com/oneplus-15-first-camera-samples-3610420/)<!-- TECH:END -->
+ - [Adobe introduces new AI features for faster video, photo, and design workflows](https://appleinsider.com/articles/25/10/28/adobe-introduces-new-ai-features-for-faster-video-photo-and-design-workflows?utm_source=rss)
+ - [You can tell Adobe Express’s new AI assistant to edit your designs for you](https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025)
+ - [Photoshop and Premiere Pro’s new AI tools can instantly edit more of your work](https://www.theverge.com/news/807811/adobe-photoshop-lightroom-premiere-pro-ai-max-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
