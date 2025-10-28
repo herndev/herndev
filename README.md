@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Beats Pill Selling for Pennies, Amazon Liquidates the Iconic Bluetooth Speaker](https://kotaku.com/beats-pill-selling-for-pennies-amazon-liquidates-the-iconic-bluetooth-speaker-2000639295)
- - [Apple Drops MacBook Air M4 Price Yet Again, Now Cheaper Than Basic Windows Laptops](https://kotaku.com/apple-drops-macbook-air-m4-price-yet-again-now-cheaper-than-basic-windows-laptops-2000639289)
- - [Netflix Is Reportedly Making A Crash Bandicoot Series And He Better Not Talk](https://kotaku.com/netflix-making-crash-bandicoot-animated-series-talking-report-cartoon-2000639396)<!-- GAME:END -->
+ - [This Windows 11 Mini PC Sells for Pennies on Amazon, Now 3x Cheaper Than Mac Mini](https://kotaku.com/this-windows-11-mini-pc-sells-for-pennies-on-amazon-now-3x-cheaper-than-mac-mini-2000639301)
+ - [Govee’s Floor Lamp Is Selling for Pocket Change, Amazon Has Zero Profit Margin Left on It](https://kotaku.com/govees-floor-lamp-is-selling-for-pocket-change-amazon-has-zero-profit-margin-left-on-it-2000639420)
+ - [I stomped this Chinese Hades clone on my fifth attempt, because broken builds are a feature not a bug](https://www.pcgamer.com/games/roguelike/i-stomped-this-chinese-hades-clone-on-my-fifth-attempt-because-broken-builds-are-a-feature-not-a-bug/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
