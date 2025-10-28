@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If your kids won’t eat their greens… the rabbit will 😂](https://www.reddit.com/r/funny/comments/1oibliw/if_your_kids_wont_eat_their_greens_the_rabbit_will/)
- - ⏩ [China #1](http://9gag.com/gag/ae9yMxv)
- - 👉 [Good quality tents](http://9gag.com/gag/aE0yxOM)<!-- MEMES:END -->
+ - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - ⏩ [Prank](http://9gag.com/gag/aZZoLE3)
+ - 👉 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)<!-- MEMES:END -->
 
 ---
 
