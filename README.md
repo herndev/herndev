@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Head Of Microsoft Explains Xbox’s Controversial New Approach To Gaming](https://kotaku.com/microsoft-satya-nadella-xbox-halo-profit-margins-2000639721)
- - [Should you kill or spare Montelli in The Outer Worlds 2?](https://www.polygon.com/outer-worlds-2-montelli-choice-kill-spare/)
- - [GOG’s Fall Sale Is Live And Includes Over 4,000 PC Games](https://kotaku.com/gogs-fall-autumn-sale-2025-best-biggest-deals-pc-games-classics-2000639704)<!-- GAME:END -->
+ - [All Battlefield 6 Season 1 battle pass rewards](https://www.polygon.com/battlefield-6-season-1-battle-pass-rewards-list/)
+ - [Apple Unloads 2025 iPads, Now Cheaper than Most Budget Android Tablets](https://kotaku.com/apple-unloads-2025-ipads-now-cheaper-than-most-budget-android-tablets-2000639562)
+ - [Amazon’s Once Massively Popular MMO Is Going On Life Support](https://kotaku.com/new-world-amazon-mmo-shutting-down-servers-2026-layoffs-new-content-2000639761)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
