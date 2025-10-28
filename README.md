@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NXP reports Q3 revenue down 2% YoY to $3.17B, vs. $3.16B est., automotive revenue flat YoY to $1.83B, and expects above estimates Q4 revenue of $3.20B to $3.40B &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/251028/p1#a251028p1)
- - [Breaking: This is our first real look at Samsung’s tri-fold Galaxy](https://www.androidauthority.com/samsung-galaxy-tri-fold-leak-3610686/)
- - [Google starts rolling out YouTube-style age checks for Play Store](https://www.androidauthority.com/google-play-store-age-verification-rollout-3610677/)<!-- TECH:END -->
+ - [Breaking: This is our first real look at Samsung’s tri-fold Galaxy &lpar;Updated: More images and video!&rpar;](https://www.androidauthority.com/samsung-galaxy-tri-fold-leak-3610686/)
+ - [20% Off LG Promo Code &amp; Coupons | October 2025](https://www.wired.com/story/lg-promo-code/)
+ - [Home Depot Promo Codes: 10% Off | October 2025](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
