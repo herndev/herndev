@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
- - ⏩ [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
+ - 💣 [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
+ - ⏩ [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
  - 👉 [Good quality tents](http://9gag.com/gag/aE0yxOM)<!-- MEMES:END -->
 
 ---
