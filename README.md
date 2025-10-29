@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This magnetic controller brings Game Boy-style controls to your smartphone](https://www.theverge.com/news/809274/abxylute-m4-snap-on-mobile-wireless-smartphone-controller-magnetic-magsafe)
- - [Deal: You have to check out this Hyperkin Cap’n Crunch Controller!](https://www.androidauthority.com/hyperkin-capn-crunch-wireless-bluetooth-controller-deal-3611357/)
- - [Sources: legal AI startup Harvey raised $150M led by a16z at an $8B valuation, up from a $5B valuation in June, bringing its total raised to over $1B &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/251029/p40#a251029p40)<!-- TECH:END -->
+ - [YouTube will try to make even low-quality videos look great on your 4K TV &lpar;Update: Not just TV!&rpar;](https://www.androidauthority.com/youtube-rolls-out-upscaling-and-more-3611301/)
+ - [Save $30 on This All-Clad Nonstick Frying Pan Set](https://www.wired.com/story/all-clad-nonstick-frying-pans-october-2025/)
+ - [Microsoft Outage Brings Down Azure and 365](https://www.cnet.com/tech/services-and-software/microsoft-outage-brings-down-azure-and-365/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
