@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Outer Worlds 2 Is Available Today](https://news.xbox.com/en-us/2025/10/29/the-outer-worlds-2-is-out-now/)
- - [This year&#39;s JRPG remakes keep proving that old games don&#39;t just get by on nostalgia: They&#39;re still just really good games](https://www.pcgamer.com/games/rpg/this-years-jrpg-remakes-keep-proving-that-old-games-dont-just-get-by-on-nostalgia-theyre-still-just-really-good-games/)
- - [How to increase IVs in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-ivs-bottle-caps-hyper-training/)<!-- GAME:END -->
+ - [The Outer Worlds 2&#39;s first big choice is fatally flawed](https://www.polygon.com/the-outer-worlds-2-first-big-choice/)
+ - [Hideo Kojima just found out that Konami turned down the chance to make a Matrix game 26 years ago: &#39;If someone had told me, maybe there could’ve been a way to make it work&#39;](https://www.pcgamer.com/games/hideo-kojima-just-found-out-that-konami-turned-down-the-chance-to-make-a-matrix-game-26-years-ago-if-someone-had-told-me-maybe-there-couldve-been-a-way-to-make-it-work/)
+ - [Natures in Pokémon Legends: Z-A, explained](https://www.polygon.com/pokemon-legends-z-a-plza-natures-change-best/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
