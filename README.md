@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Echo Studio is smaller but mightier](https://www.theverge.com/tech/808520/amazon-echo-studio-2025-review)
- - [Apple spent more than ever lobbying politicians in the EU in 2025](https://appleinsider.com/articles/25/10/29/apple-spent-more-than-ever-lobbying-politicians-in-the-eu-in-2025?utm_source=rss)
- - [YouTube is using AI to upscale videos uploaded at between 240p and 720p to HD on TV screens, but users can opt out, and plans 4K upscaling &quot;in the near future&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251029/p32#a251029p32)<!-- TECH:END -->
+ - [Nvidia is officially a $5 trillion company](https://www.theverge.com/news/809017/nvidia-5-trillion-market-cap-ai)
+ - [Amazon opens Project Rainier, an $11B AI data center on 1,200 acres in Indiana that trains and runs Anthropic&#39;s AI models using 500K+ Amazon Trainium 2 chips &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251029/p35#a251029p35)
+ - [Jamf goes from public to private in $2.2B acquisition deal](https://appleinsider.com/articles/25/10/29/jamf-goes-from-public-to-private-in-22b-acquisition-deal?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
