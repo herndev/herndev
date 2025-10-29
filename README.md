@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI&#39;s restructuring, approved by California&#39;s AG, paves the way for an IPO as soon as 2027; Sam Altman says an IPO is likely but gave no timeframe &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251029/p14#a251029p14)
- - [After Nvidia GTC, Jensen Huang says &quot;I don&#39;t believe we&#39;re in an AI bubble&quot; and that Nvidia expects to sell 20M Blackwell chips, up from 4M Hopper chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/251029/p13#a251029p13)
- - [Android Auto could make life easier with Gemini-based shortcuts &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-gemini-actions-apk-teardown-3611161/)<!-- TECH:END -->
+ - [Amazon, UPS, Target, GM, and other major US companies are laying off tens of thousands of white collar workers, as executives hope AI can handle their workload &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251029/p19#a251029p19)
+ - [Internal memo: Amazon makes &quot;significant role reductions&quot; to its game division and will cut down on big budget titles, as it focuses on Luna and casual games &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/251029/p18#a251029p18)
+ - [vivo OriginOS 6: Three breakthrough technologies take smoothness to the next level](https://www.androidauthority.com/vivo-originos-6-smoothness-3610193/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
