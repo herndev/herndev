@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why is Battlefield 6 so afraid of big maps?](https://www.pcgamer.com/games/fps/why-is-battlefield-6-so-afraid-of-big-maps/)
- - [This 60,000mAh Power Station Is Cheaper than a Budget No-Name Power Bank, Now Selling for Pennies](https://kotaku.com/this-60000mah-power-station-is-cheaper-than-a-budget-no-name-power-bank-now-selling-for-pennies-2000639627)
- - [New World is dead: Amazon ends new content updates following massive layoffs, says &#39;servers will be live through 2026&#39;](https://www.pcgamer.com/games/mmo/new-world-is-dead-amazon-ends-new-content-updates-following-massive-layoffs-says-servers-will-be-live-through-2026/)<!-- GAME:END -->
+ - [The best way to innovate in gaming &#39;is to have good margins,&#39; says Microsoft CEO Satya Nadella, so I guess he&#39;ll be reinvesting his $96.5 million payday back into Xbox any second now](https://www.pcgamer.com/gaming-industry/the-best-way-to-innovate-in-gaming-is-to-have-good-margins-says-microsoft-ceo-satya-nadella-so-i-guess-hell-be-reinvesting-his-usd96-5-million-payday-back-into-xbox-any-second-now/)
+ - [EcoFlow Is Going All In, Now Selling Its 1800W Delta 3 Classic Power Generator for Peanuts](https://kotaku.com/ecoflow-is-going-all-in-now-selling-its-1800w-delta-3-classic-power-generator-for-peanuts-2000639643)
+ - [Seagate 20TB External Hard Drive Now Costs $0.10 per GB, 50% Cheaper than Launch Price](https://kotaku.com/seagate-20tb-external-hard-drive-now-costs-0-10-per-gb-50-cheaper-than-launch-price-2000639636)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
