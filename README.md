@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Freeloading at it&#39;s finest](http://9gag.com/gag/aoyAe1g)
- - ⏩ [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
+ - 💣 [American nightmare](http://9gag.com/gag/aMVDYAM)
+ - ⏩ [Rich people problems](http://9gag.com/gag/avy4znd)
  - 👉 [Prank](http://9gag.com/gag/aZZoLE3)<!-- MEMES:END -->
 
 ---
