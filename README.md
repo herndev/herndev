@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
- - ⏩ [Rowan Atkinson said:](http://9gag.com/gag/apRz2PE)
- - 👉 [Prank](http://9gag.com/gag/aZZoLE3)<!-- MEMES:END -->
+ - 💣 [Prank](http://9gag.com/gag/aZZoLE3)
+ - ⏩ [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
+ - 👉 [China #1](http://9gag.com/gag/ae9yMxv)<!-- MEMES:END -->
 
 ---
 
