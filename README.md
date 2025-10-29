@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sublime Security, which uses AI agents to protect against phishing and other email threats, raised a $150M Series C, bringing its total funding to $240M+ &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/251029/p1#a251029p1)
- - [Withings’ urine scanning health tracker is now available for $350](https://www.theverge.com/news/808381/withings-u-scan-toilet-urine-test-health-nutrio-calci)
- - [Foxconn says it plans to deploy Nvidia&#39;s Isaac GR00T N model of humanoid robots at its factory in Houston, Texas, which produces AI servers for Nvidia &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/251028/p61#a251028p61)<!-- TECH:END -->
+ - [Eli Lilly partners with Nvidia to build what the companies say will be the most powerful supercomputer run by a pharma company, powered by 1,000+ Blackwell GPUs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251029/p3#a251029p3)
+ - [SK Hynix says its DRAM, NAND, and HBM production capacity for next year &quot;has been sold out&quot; and that it would set up a production system to meet OpenAI&#39;s demand &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/251029/p2#a251029p2)
+ - [Exclusive: Android Auto is preparing home screen widgets — here’s your first look](https://www.androidauthority.com/android-auto-home-screen-widgets-3611109/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
