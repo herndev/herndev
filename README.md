@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars: Visions season 3 picks up where The Acolyte left off](https://www.polygon.com/star-wars-visions-season-3-ronin-duel-payback/)
- - [Turning the Moon into The Moon Man’s Playground with Snapchat for The Outer Worlds 2](https://news.xbox.com/en-us/2025/10/29/moon-mans-playground-with-snapchat-the-outer-worlds-2/)
- - [DJI Liquidates Its Mic Mini at a Record Low, Noise Cancelling and HQ Audio Now Cost Peanuts](https://kotaku.com/dji-liquidates-its-mic-mini-at-a-record-low-noise-cancelling-and-hq-audio-now-cost-peanuts-2000639685)<!-- GAME:END -->
+ - [Not content with dominating the market for AI GPUs, Nvidia is turning its attention to QPUs for quantum computing](https://www.pcgamer.com/hardware/graphics-cards/not-content-with-dominating-the-market-for-ai-gpus-nvidia-is-turning-its-attention-to-qpus-for-quantum-computing/)
+ - [YouTube Cracks Down On Skin Gambling And Violent Gaming Videos](https://kotaku.com/youtube-gta-6-gambling-skins-violence-csgo-2000639821)
+ - [One Of Pokémon Legends: Z-A’s Biggest Reveals Is Easy To Miss](https://kotaku.com/pokemon-legends-za-korrina-lucario-az-galar-how-to-get-2000639831)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
