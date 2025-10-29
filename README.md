@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Outer Worlds 2&#39;s first big choice is fatally flawed](https://www.polygon.com/the-outer-worlds-2-first-big-choice/)
- - [Hideo Kojima just found out that Konami turned down the chance to make a Matrix game 26 years ago: &#39;If someone had told me, maybe there could’ve been a way to make it work&#39;](https://www.pcgamer.com/games/hideo-kojima-just-found-out-that-konami-turned-down-the-chance-to-make-a-matrix-game-26-years-ago-if-someone-had-told-me-maybe-there-couldve-been-a-way-to-make-it-work/)
- - [Natures in Pokémon Legends: Z-A, explained](https://www.polygon.com/pokemon-legends-z-a-plza-natures-change-best/)<!-- GAME:END -->
+ - [Microsoft Outage Temporarily Derails Outer Worlds 2 Launch](https://kotaku.com/azure-outage-xbox-game-pass-outer-worlds-2-microsoft-2000639920)
+ - [Outer Worlds 2 temporarily unavailable to purchase on Xbox](https://www.polygon.com/outer-worlds-2-azure-outage-unavailable-xbox-game-pass-pc/)
+ - [30 Years Ago, Homer Entered The Third Dimension](https://kotaku.com/homer-cubed-3d-treehouse-horror-fox-30-years-ago-1995-2000639909)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
