@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Management crisis](https://www.reddit.com/r/funny/comments/1oixnwr/management_crisis/)
- - ⏩ [Freeloading at it&#39;s finest](http://9gag.com/gag/aoyAe1g)
+ - 💣 [Freeloading at it&#39;s finest](http://9gag.com/gag/aoyAe1g)
+ - ⏩ [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
  - 👉 [Prank](http://9gag.com/gag/aZZoLE3)<!-- MEMES:END -->
 
 ---
