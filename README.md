@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best way to innovate in gaming &#39;is to have good margins,&#39; says Microsoft CEO Satya Nadella, so I guess he&#39;ll be reinvesting his $96.5 million payday back into Xbox any second now](https://www.pcgamer.com/gaming-industry/the-best-way-to-innovate-in-gaming-is-to-have-good-margins-says-microsoft-ceo-satya-nadella-so-i-guess-hell-be-reinvesting-his-usd96-5-million-payday-back-into-xbox-any-second-now/)
- - [EcoFlow Is Going All In, Now Selling Its 1800W Delta 3 Classic Power Generator for Peanuts](https://kotaku.com/ecoflow-is-going-all-in-now-selling-its-1800w-delta-3-classic-power-generator-for-peanuts-2000639643)
- - [Seagate 20TB External Hard Drive Now Costs $0.10 per GB, 50% Cheaper than Launch Price](https://kotaku.com/seagate-20tb-external-hard-drive-now-costs-0-10-per-gb-50-cheaper-than-launch-price-2000639636)<!-- GAME:END -->
+ - [Ninja Offloads the 6-in-1 DualZone Air Fryer, Now 50% Off if You Buy on Amazon](https://kotaku.com/ninja-offloads-the-6-in-1-dualzone-air-fryer-now-50-off-if-you-buy-on-amazon-2000639745)
+ - [This 512GB Lenovo Laptop Now Costs $399 Instead of $1,999, Amazon Clears Out Final Stock](https://kotaku.com/this-lenovo-laptop-with-512gb-now-costs-399-instead-of-1999-amazon-clears-out-final-stock-2000639731)
+ - [Forget AirPods, the Galaxy Buds 3 Pro Are Selling for Pennies and Amazon Sold 30K Units](https://kotaku.com/forget-airpods-the-galaxy-buds-3-pro-are-selling-for-pennies-and-amazon-sold-30k-units-2000639654)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
