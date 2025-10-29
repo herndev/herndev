@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&#39;s Wild-Looking Tri-Fold Phone Makes Its Debut at the APEC Summit in S. Korea](https://www.cnet.com/tech/mobile/samsungs-wild-looking-tri-fold-phone-makes-its-debut-at-the-apec-summit-in-s-korea/#ftag=CAD590a51e)
- - [Insta360 X4 Air launches with 8K 360 video at a friendlier price](https://www.androidauthority.com/insta360-x4-air-8k-360-launch-price-3611023/)
- - [KiiBoom Cybrix 29 review: Half a keyboard, all the utility](https://appleinsider.com/articles/25/10/29/kiiboom-cybrix-29-review-half-a-keyboard-all-the-utility?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Francisco Partners is in talks to acquire Jamf, which provides remote device management tools, taking it private; Jamf has a market cap of ~$1.5B &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/251028/p59#a251028p59)
+ - [GitHub updates VS Code with Plan Mode for building step-by-step project approaches, MCP Registry integration, definable project rules via AGENTS.md, and more &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/251028/p58#a251028p58)
+ - [Samsung&#39;s Wild-Looking Tri-Fold Phone Debuts at APEC Summit in South Korea](https://www.cnet.com/tech/mobile/samsungs-wild-looking-tri-fold-phone-debuts-at-apec-summit-in-south-korea/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
