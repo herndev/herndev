@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eli Lilly partners with Nvidia to build what the companies say will be the most powerful supercomputer run by a pharma company, powered by 1,000+ Blackwell GPUs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251029/p3#a251029p3)
- - [SK Hynix says its DRAM, NAND, and HBM production capacity for next year &quot;has been sold out&quot; and that it would set up a production system to meet OpenAI&#39;s demand &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/251029/p2#a251029p2)
- - [Exclusive: Android Auto is preparing home screen widgets — here’s your first look](https://www.androidauthority.com/android-auto-home-screen-widgets-3611109/)<!-- TECH:END -->
+ - [All three major South Korean telcos, SK Telecom, KT Telecom, and now LG Uplus, have reported cybersecurity incidents to the government over the past six months &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/251029/p8#a251029p8)
+ - [Ripple&#39;s shares trade between $135 and $170 in private markets, up ~2x-3x since early 2025, valuing the company at $22B-$30B after several major acquisitions &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/251029/p7#a251029p7)
+ - [NordVPN Coupons and Deals: 77% Off in October 2025](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
