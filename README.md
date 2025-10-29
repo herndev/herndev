@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prank](http://9gag.com/gag/aZZoLE3)
- - ⏩ [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
- - 👉 [American nightmare](http://9gag.com/gag/aMVDYAM)<!-- MEMES:END -->
+ - 💣 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
+ - ⏩ [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
+ - 👉 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)<!-- MEMES:END -->
 
 ---
 
