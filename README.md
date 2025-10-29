@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump administration charges influencer and congressional candidate over ICE protests](https://www.theverge.com/news/809401/kat-abughazaleh-ice-indicted)
- - [Mark Zuckerberg is excited to add more AI content to all your social feeds](https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings)
- - [Google Home’s latest update targets crashes, camera tweaks, and more](https://www.androidauthority.com/google-home-4-2-update-3611478/)<!-- TECH:END -->
+ - [The JBL Tune 520BT sound great, and they are a mere $35.99 right now!](https://www.androidauthority.com/jbl-tune-520bt-headphones-deal-2-3611354/)
+ - [Motorola just shadow-dropped its Galaxy S25 Edge competitor](https://www.androidauthority.com/motorola-edge-70-store-listings-3611469/)
+ - [Microsoft reports Q1 gaming revenue down 2% YoY to $5.51B, Xbox hardware revenue down 29%, and Xbox content and services revenue up 1% &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251029/p57#a251029p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
