@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix reports Q3 revenue up 39% YoY to $17.02B, vs. $17.22B est, operating profit up 62% YoY to $7.92B, a record, boosted by demand for its HBM chips for AI &lpar;CNBC&rpar;](http://www.techmeme.com/251028/p56#a251028p56)
- - [Celebrity video shoutout app Cameo sues OpenAI for trademark infringement, alleging Sora&#39;s &quot;cameo&quot; feature is likely to cause confusion and dilute its brand &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251028/p55#a251028p55)
- - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)<!-- TECH:END -->
+ - [Samsung&#39;s Wild-Looking Tri-Fold Phone Makes Its Debut at the APEC Summit in S. Korea](https://www.cnet.com/tech/mobile/samsungs-wild-looking-tri-fold-phone-makes-its-debut-at-the-apec-summit-in-s-korea/#ftag=CAD590a51e)
+ - [Insta360 X4 Air launches with 8K 360 video at a friendlier price](https://www.androidauthority.com/insta360-x4-air-8k-360-launch-price-3611023/)
+ - [KiiBoom Cybrix 29 review: Half a keyboard, all the utility](https://appleinsider.com/articles/25/10/29/kiiboom-cybrix-29-review-half-a-keyboard-all-the-utility?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
