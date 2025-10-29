@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia is officially a $5 trillion company](https://www.theverge.com/news/809017/nvidia-5-trillion-market-cap-ai)
- - [Amazon opens Project Rainier, an $11B AI data center on 1,200 acres in Indiana that trains and runs Anthropic&#39;s AI models using 500K+ Amazon Trainium 2 chips &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251029/p35#a251029p35)
- - [Jamf goes from public to private in $2.2B acquisition deal](https://appleinsider.com/articles/25/10/29/jamf-goes-from-public-to-private-in-22b-acquisition-deal?utm_source=rss)<!-- TECH:END -->
+ - [Apollo Global reaches a deal to sell AOL to Bending Spoons, sources say in a deal valued at ~$1.5B; AOL has about 30M MAUs across its email and web properties &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251029/p36#a251029p36)
+ - [Tesla’s Cybercab may have a steering wheel after all](https://www.theverge.com/news/809056/tesla-cybercab-steering-wheel-denholm)
+ - [The Nothing Phone 3a Lite is most of the Phone 3a, only cheaper](https://www.androidauthority.com/nothing-phone-3a-lite-released-3611319/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
