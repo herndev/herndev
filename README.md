@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MTG Avatar exclusive preview: More Ally and Shrine cards](https://www.polygon.com/mtg-avatar-previews-spoilers-ally-shrine/)
- - [Battlefield 6 reviews drop to &#39;Mixed&#39; on Steam as players rail against pop-up ads, small maps, and feeling left behind by battle royale](https://www.pcgamer.com/games/fps/battlefield-6-reviews-drop-to-mixed-on-steam-as-players-rail-against-pop-up-ads-small-maps-and-feeling-left-behind-by-battle-royale/)
- - [Outer Worlds 2 director might not have the &#39;intestinal fortitude&#39; to make the game today](https://www.polygon.com/outer-worlds-2-politics-obsidian-interview/)<!-- GAME:END -->
+ - [Should you pick the Crabble Claw or Raptidon Fin for Inez&#39;s graft in Outer Worlds 2?](https://www.polygon.com/outer-worlds-2-inez-graft-choice-crabble-claw-raptidon-fin/)
+ - [List of flaws in The Outer Worlds 2](https://www.polygon.com/outer-world-2-flaws-best-list/)
+ - [Arc Raiders launch times and release date](https://www.pcgamer.com/games/rpg/arc-raiders-launch-times-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
