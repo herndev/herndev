@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Should you pick the Crabble Claw or Raptidon Fin for Inez&#39;s graft in Outer Worlds 2?](https://www.polygon.com/outer-worlds-2-inez-graft-choice-crabble-claw-raptidon-fin/)
- - [List of flaws in The Outer Worlds 2](https://www.polygon.com/outer-world-2-flaws-best-list/)
- - [Arc Raiders launch times and release date](https://www.pcgamer.com/games/rpg/arc-raiders-launch-times-release-date/)<!-- GAME:END -->
+ - [Steam Next Fest’s Most Unlikely Breakout Only Requires A Fraction Of Your Screen And Attention](https://kotaku.com/steam-next-fests-most-unlikely-breakout-only-requires-a-fraction-of-your-screen-and-attention-2000639943)
+ - [The Battlefield 6 Honeymoon Is Over](https://kotaku.com/battlefield-6-season-one-small-map-battle-royale-reactions-negative-review-ea-2000639948)
+ - [US Department of Homeland Security says it won&#39;t stop using videogame memes to stoke anti-immigrant sentiment: &#39;We aren&#39;t slowing down&#39;](https://www.pcgamer.com/games/us-department-of-homeland-security-says-it-wont-stop-using-videogame-memes-to-stoke-anti-immigrant-sentiment-we-arent-slowing-down/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
