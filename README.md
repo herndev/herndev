@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Health now lets you see a doctor without getting out of your bed](https://www.androidauthority.com/samsung-health-telehealth-galaxy-3611164/)
- - [US FEC filings and public statements: a handful of crypto super PACs have amassed ~$263M ahead of the 2026 midterms; Fairshake remains the biggest at $141M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251029/p12#a251029p12)
- - [Android Auto could soon get a long-overdue feature for music lovers, and here’s a look](https://www.androidauthority.com/android-auto-multiple-media-cards-on-dashboard-apk-teardown-3611157/)<!-- TECH:END -->
+ - [Sources: OpenAI&#39;s restructuring, approved by California&#39;s AG, paves the way for an IPO as soon as 2027; Sam Altman says an IPO is likely but gave no timeframe &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251029/p14#a251029p14)
+ - [After Nvidia GTC, Jensen Huang says &quot;I don&#39;t believe we&#39;re in an AI bubble&quot; and that Nvidia expects to sell 20M Blackwell chips, up from 4M Hopper chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/251029/p13#a251029p13)
+ - [Android Auto could make life easier with Gemini-based shortcuts &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-auto-gemini-actions-apk-teardown-3611161/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
