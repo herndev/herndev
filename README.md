@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peace](http://9gag.com/gag/an785YV)
- - ⏩ [Here we go](http://9gag.com/gag/aLnVgnA)
- - 👉 [Why boring is good](http://9gag.com/gag/aByjg0A)<!-- MEMES:END -->
+ - 💣 [Management crisis](https://www.reddit.com/r/funny/comments/1oixnwr/management_crisis/)
+ - ⏩ [Freeloading at it&#39;s finest](http://9gag.com/gag/aoyAe1g)
+ - 👉 [Prank](http://9gag.com/gag/aZZoLE3)<!-- MEMES:END -->
 
 ---
 
