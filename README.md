@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why boring is good](http://9gag.com/gag/aByjg0A)
- - ⏩ [Simple bowling animation](http://9gag.com/gag/aAyqepd)
- - 👉 [After a divorce and many years without a home, i finally can start again to live... Wish me luck, my fellow degenerates.](http://9gag.com/gag/awyPBBr)<!-- MEMES:END -->
+ - 💣 [Magic \u2728](http://9gag.com/gag/a6Z4O19)
+ - ⏩ [Prank](http://9gag.com/gag/aZZoLE3)
+ - 👉 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)<!-- MEMES:END -->
 
 ---
 
