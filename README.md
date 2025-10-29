@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Simpler times](http://9gag.com/gag/a2v97be)
- - ⏩ [Rich people problems](http://9gag.com/gag/avy4znd)
- - 👉 [Prank](http://9gag.com/gag/aZZoLE3)<!-- MEMES:END -->
+ - 💣 [Bro code](http://9gag.com/gag/ayNZeKW)
+ - ⏩ [Double standard from these dumb 304s](http://9gag.com/gag/aVv4058)
+ - 👉 [Elijah Wood Crashing a Wedding at Hobbiton in New Zealand](http://9gag.com/gag/aKGn7Q3)<!-- MEMES:END -->
 
 ---
 
