@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After a divorce and many years without a home, i finally can start again to live... Wish me luck, my fellow degenerates.](http://9gag.com/gag/awyPBBr)
- - ⏩ [A dog was chasing an ambulance carrying its owner. When emergency services noticed the situation, it was taken inside. The dog... Unconditional love...](http://9gag.com/gag/aLnVwEv)
- - 👉 [Never forget Iryna Zarutska](http://9gag.com/gag/agm65wn)<!-- MEMES:END -->
+ - 💣 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
+ - ⏩ [Based razer](http://9gag.com/gag/aW4PxLn)
+ - 👉 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)<!-- MEMES:END -->
 
 ---
 
