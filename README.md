@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rich people problems](http://9gag.com/gag/avy4znd)
- - ⏩ [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
- - 👉 [Based razer](http://9gag.com/gag/aW4PxLn)<!-- MEMES:END -->
+ - 💣 [Why boring is good](http://9gag.com/gag/aByjg0A)
+ - ⏩ [Simple bowling animation](http://9gag.com/gag/aAyqepd)
+ - 👉 [After a divorce and many years without a home, i finally can start again to live... Wish me luck, my fellow degenerates.](http://9gag.com/gag/awyPBBr)<!-- MEMES:END -->
 
 ---
 
