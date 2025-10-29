@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Science](http://9gag.com/gag/a4PmRj6)
- - ⏩ [Prank](http://9gag.com/gag/aZZoLE3)
- - 👉 [Good quality tents](http://9gag.com/gag/aE0yxOM)<!-- MEMES:END -->
+ - 💣 [Peace](http://9gag.com/gag/an785YV)
+ - ⏩ [Here we go](http://9gag.com/gag/aLnVgnA)
+ - 👉 [Why boring is good](http://9gag.com/gag/aByjg0A)<!-- MEMES:END -->
 
 ---
 
