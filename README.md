@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [ET2: The Extra-Terminator](https://www.reddit.com/r/funny/comments/1ojd85s/et2_the_extraterminator/)
- - ⏩ [Never forget Iryna Zarutska](http://9gag.com/gag/agm65wn)
- - 👉 [Bro code](http://9gag.com/gag/ayNZeKW)<!-- MEMES:END -->
+ - 💣 [Prank](http://9gag.com/gag/aZZoLE3)
+ - ⏩ [No context](http://9gag.com/gag/a0ezRyX)
+ - 👉 [Magic \u2728](http://9gag.com/gag/a6Z4O19)<!-- MEMES:END -->
 
 ---
 
