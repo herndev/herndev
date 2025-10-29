@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [eBay reports Q3 revenue up 9% YoY to $2.82B, vs. $2.73B est., GMV up 10% to $20.1B, and forecasts Q4 profit below estimates; EBAY drops 6%+ after hours &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251029/p52#a251029p52)
- - [Alphabet reports Google Cloud Q3 revenue of $15.15B vs. $14.74B est., and raises 2025 capex forecast to $91B-$93B, after projecting $85B in July &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/251029/p51#a251029p51)
- - [How one mountain town hopes AI can help it fight wildfires](https://www.theverge.com/report/809348/ai-fire-detection-vail-hpe-smart-city-platform)<!-- TECH:END -->
+ - [Trump administration charges influencer and congressional candidate over ICE protests](https://www.theverge.com/news/809401/kat-abughazaleh-ice-indicted)
+ - [Mark Zuckerberg is excited to add more AI content to all your social feeds](https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings)
+ - [Google Home’s latest update targets crashes, camera tweaks, and more](https://www.androidauthority.com/google-home-4-2-update-3611478/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
