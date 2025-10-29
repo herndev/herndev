@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wonder what happened in February 2012](http://9gag.com/gag/adBrLK9)
- - ⏩ [Magic \u2728](http://9gag.com/gag/a6Z4O19)
- - 👉 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)<!-- MEMES:END -->
+ - 💣 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
+ - ⏩ [Rowan Atkinson said:](http://9gag.com/gag/apRz2PE)
+ - 👉 [Prank](http://9gag.com/gag/aZZoLE3)<!-- MEMES:END -->
 
 ---
 
