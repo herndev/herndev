@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple joins advisory board for &#39;The Game Awards&#39;](https://appleinsider.com/articles/25/10/29/apple-joins-the-advisory-board-for-the-game-awards?utm_source=rss)
- - [One of the least useful gadgets of 2024 is getting a sequel](https://www.androidauthority.com/rabbit-r1-second-generation-2026-3611375/)
- - [Apple fends off part of AirPods Pro defect lawsuit, judge narrows scope](https://appleinsider.com/articles/25/10/29/apple-fends-off-part-of-airpods-pro-defect-lawsuit-judge-narrows-scope?utm_source=rss)<!-- TECH:END -->
+ - [This magnetic controller brings Game Boy-style controls to your smartphone](https://www.theverge.com/news/809274/abxylute-m4-snap-on-mobile-wireless-smartphone-controller-magnetic-magsafe)
+ - [Deal: You have to check out this Hyperkin Cap’n Crunch Controller!](https://www.androidauthority.com/hyperkin-capn-crunch-wireless-bluetooth-controller-deal-3611357/)
+ - [Sources: legal AI startup Harvey raised $150M led by a16z at an $8B valuation, up from a $5B valuation in June, bringing its total raised to over $1B &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/251029/p40#a251029p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
