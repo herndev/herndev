@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Quest 1 HD-2D makes the original game shine even more](https://www.polygon.com/dragon-quest-1-hd-2d-remake-impressions/)
- - [Arc Raiders is the perfect extraction shooter for newbies](https://www.polygon.com/arc-raiders-preview/)
- - [Best armor to grab early in The Outer Worlds 2](https://www.pcgamer.com/games/rpg/outer-worlds-2-best-armor/)<!-- GAME:END -->
+ - [Indie Selects for October 2025: Games to Get You Through Spooky Season](https://news.xbox.com/en-us/2025/10/29/indie-selects-id-xbox-october-2025/)
+ - [PlayStation Plus November 2025 free games announced for PS5, PS4](https://www.polygon.com/ps-plus-november-2025-free-games-essential/)
+ - [Breath Of The Wild‘s $180+ Vinyl Box Set Is A Test To See If Fans Want Physical Nintendo Soundtracks](https://kotaku.com/breath-of-the-wilds-zelda-record-box-set-price-nintendo-apple-mario-update-switch-2-2000639847)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
