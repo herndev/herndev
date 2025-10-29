@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Prank](http://9gag.com/gag/aZZoLE3)
- - ⏩ [No context](http://9gag.com/gag/a0ezRyX)
- - 👉 [Magic \u2728](http://9gag.com/gag/a6Z4O19)<!-- MEMES:END -->
+ - ⏩ [The realization](http://9gag.com/gag/awyPMKx)
+ - 👉 [No context](http://9gag.com/gag/a0ezRyX)<!-- MEMES:END -->
 
 ---
 
