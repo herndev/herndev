@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [American nightmare](http://9gag.com/gag/aMVDYAM)
- - ⏩ [Rich people problems](http://9gag.com/gag/avy4znd)
- - 👉 [Prank](http://9gag.com/gag/aZZoLE3)<!-- MEMES:END -->
+ - 💣 [Rich people problems](http://9gag.com/gag/avy4znd)
+ - ⏩ [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
+ - 👉 [Based razer](http://9gag.com/gag/aW4PxLn)<!-- MEMES:END -->
 
 ---
 
