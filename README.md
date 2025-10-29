@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam Next Fest’s Most Unlikely Breakout Only Requires A Fraction Of Your Screen And Attention](https://kotaku.com/steam-next-fests-most-unlikely-breakout-only-requires-a-fraction-of-your-screen-and-attention-2000639943)
- - [The Battlefield 6 Honeymoon Is Over](https://kotaku.com/battlefield-6-season-one-small-map-battle-royale-reactions-negative-review-ea-2000639948)
- - [US Department of Homeland Security says it won&#39;t stop using videogame memes to stoke anti-immigrant sentiment: &#39;We aren&#39;t slowing down&#39;](https://www.pcgamer.com/games/us-department-of-homeland-security-says-it-wont-stop-using-videogame-memes-to-stoke-anti-immigrant-sentiment-we-arent-slowing-down/)<!-- GAME:END -->
+ - [Microsoft Offloads Surface Pro &lpar;512GB SSD, X Plus&rpar; at a New Low, Black Friday Starts Early](https://kotaku.com/microsoft-offloads-surface-pro-512gb-ssd-x-plus-at-a-new-low-black-friday-starts-early-2000639973)
+ - [Stand up and yell &#39;PC Gamer!&#39; if you recognize the videogame patent diagrams in our latest quiz!](https://www.pcgamer.com/games/stand-up-and-yell-pc-gamer-if-you-recognize-the-videogame-patent-diagrams-in-our-latest-quiz/)
+ - [A former Intel CEO is all-in on faith-based AI that will &#39;hasten the coming of Christ&#39;s return&#39; and knows his #1 target: &#39;I want Zuck to care&#39;](https://www.pcgamer.com/software/ai/a-former-intel-ceo-is-all-in-on-faith-based-ai-that-will-hasten-the-coming-of-christs-return-and-knows-his-1-target-i-want-zuck-to-care/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
