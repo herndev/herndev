@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prank](http://9gag.com/gag/aZZoLE3)
- - ⏩ [The realization](http://9gag.com/gag/awyPMKx)
- - 👉 [No context](http://9gag.com/gag/a0ezRyX)<!-- MEMES:END -->
+ - 💣 [Simpler times](http://9gag.com/gag/a2v97be)
+ - ⏩ [Rich people problems](http://9gag.com/gag/avy4znd)
+ - 👉 [Prank](http://9gag.com/gag/aZZoLE3)<!-- MEMES:END -->
 
 ---
 
