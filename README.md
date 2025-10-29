@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Minecraft has announced a handful of new mobs coming in the Mounts of Mayhem drop, and horses will finally be able to swim &lpar;which is huge&rpar;](https://www.pcgamer.com/games/survival-crafting/minecraft-has-announced-a-handful-of-new-mobs-coming-in-the-mounts-of-mayhem-drop-and-horses-will-finally-be-able-to-swim-which-is-huge/)
  - [Today&#39;s Wordle clues, hints and answer for October 29 &lpar;#1593&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-29-2025/)
- - [Twitch heard you wanted more vtubers so it signed a deal with the most popular vtuber agency in the world](https://www.pcgamer.com/gaming-industry/twitch-heard-you-wanted-more-vtubers-so-it-signed-a-deal-with-the-most-popular-vtuber-agency-in-the-world/)
- - [Ninja Offloads the 6-in-1 DualZone Air Fryer, Now 50% Off if You Buy on Amazon](https://kotaku.com/ninja-offloads-the-6-in-1-dualzone-air-fryer-now-50-off-if-you-buy-on-amazon-2000639745)<!-- GAME:END -->
+ - [Twitch heard you wanted more vtubers so it signed a deal with the most popular vtuber agency in the world](https://www.pcgamer.com/gaming-industry/twitch-heard-you-wanted-more-vtubers-so-it-signed-a-deal-with-the-most-popular-vtuber-agency-in-the-world/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
