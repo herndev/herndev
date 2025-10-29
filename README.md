@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Vision Pro with M5 is better than the first, but still awfully lonely](https://www.theverge.com/tech/807963/apple-vision-pro-m5-review-specs-release-date)
- - [OnePlus 15 teardown confirms our worst fear: Major camera downgrades](https://www.androidauthority.com/oneplus-15-teardown-3611210/)
- - [PitchBook: Nvidia invested in 59 AI startups in 2025 so far, including 10 in the past two months, surpassing 55 investments in 2024 and 12 investments in 2022 &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/251029/p23#a251029p23)<!-- TECH:END -->
+ - [Grammarly is changing its name to Superhuman](https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch)
+ - [Pixel’s battery problems haven’t gone away — they’re just more expensive now](https://www.androidauthority.com/pixels-battery-problems-2025-3606708/)
+ - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
