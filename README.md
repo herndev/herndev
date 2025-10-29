@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Not content with dominating the market for AI GPUs, Nvidia is turning its attention to QPUs for quantum computing](https://www.pcgamer.com/hardware/graphics-cards/not-content-with-dominating-the-market-for-ai-gpus-nvidia-is-turning-its-attention-to-qpus-for-quantum-computing/)
- - [YouTube Cracks Down On Skin Gambling And Violent Gaming Videos](https://kotaku.com/youtube-gta-6-gambling-skins-violence-csgo-2000639821)
- - [One Of Pokémon Legends: Z-A’s Biggest Reveals Is Easy To Miss](https://kotaku.com/pokemon-legends-za-korrina-lucario-az-galar-how-to-get-2000639831)<!-- GAME:END -->
+ - [Dragon Quest 1 HD-2D makes the original game shine even more](https://www.polygon.com/dragon-quest-1-hd-2d-remake-impressions/)
+ - [Arc Raiders is the perfect extraction shooter for newbies](https://www.polygon.com/arc-raiders-preview/)
+ - [Best armor to grab early in The Outer Worlds 2](https://www.pcgamer.com/games/rpg/outer-worlds-2-best-armor/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
