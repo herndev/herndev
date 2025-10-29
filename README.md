@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grammarly is changing its name to Superhuman](https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch)
- - [Pixel’s battery problems haven’t gone away — they’re just more expensive now](https://www.androidauthority.com/pixels-battery-problems-2025-3606708/)
- - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)<!-- TECH:END -->
+ - [Amazon’s Echo Studio is smaller but mightier](https://www.theverge.com/tech/808520/amazon-echo-studio-2025-review)
+ - [Apple spent more than ever lobbying politicians in the EU in 2025](https://appleinsider.com/articles/25/10/29/apple-spent-more-than-ever-lobbying-politicians-in-the-eu-in-2025?utm_source=rss)
+ - [YouTube is using AI to upscale videos uploaded at between 240p and 720p to HD on TV screens, but users can opt out, and plans 4K upscaling &quot;in the near future&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251029/p32#a251029p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
