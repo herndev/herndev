@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some ad buyers say brands are increasingly spending on Reddit due to the site&#39;s prominence in AI-powered search results and its growing audience &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/251029/p11#a251029p11)
- - [Tell us: What do you think is the best smartphone of 2025?](https://www.androidauthority.com/best-smartphone-2025-open-thread-3600334/)
- - [Google says ‘sideloading isn’t going anywhere,’ F-Droid calls it fake news](https://www.androidauthority.com/google-android-sideloading-claims-misleading-f-droid-3611139/)<!-- TECH:END -->
+ - [Samsung Health now lets you see a doctor without getting out of your bed](https://www.androidauthority.com/samsung-health-telehealth-galaxy-3611164/)
+ - [US FEC filings and public statements: a handful of crypto super PACs have amassed ~$263M ahead of the 2026 midterms; Fairshake remains the biggest at $141M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251029/p12#a251029p12)
+ - [Android Auto could soon get a long-overdue feature for music lovers, and here’s a look](https://www.androidauthority.com/android-auto-multiple-media-cards-on-dashboard-apk-teardown-3611157/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
