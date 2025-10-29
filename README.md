@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prank](http://9gag.com/gag/aZZoLE3)
- - ⏩ [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
- - 👉 [Magic \u2728](http://9gag.com/gag/a6Z4O19)<!-- MEMES:END -->
+ - 💣 [Like father, like son](https://www.reddit.com/r/funny/comments/1oippmi/like_father_like_son/)
+ - ⏩ [Here we go](http://9gag.com/gag/aLnVgnA)
+ - 👉 [Prank](http://9gag.com/gag/aZZoLE3)<!-- MEMES:END -->
 
 ---
 
