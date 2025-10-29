@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft has announced a handful of new mobs coming in the Mounts of Mayhem drop, and horses will finally be able to swim &lpar;which is huge&rpar;](https://www.pcgamer.com/games/survival-crafting/minecraft-has-announced-a-handful-of-new-mobs-coming-in-the-mounts-of-mayhem-drop-and-horses-will-finally-be-able-to-swim-which-is-huge/)
- - [Today&#39;s Wordle clues, hints and answer for October 29 &lpar;#1593&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-29-2025/)
- - [Twitch heard you wanted more vtubers so it signed a deal with the most popular vtuber agency in the world](https://www.pcgamer.com/gaming-industry/twitch-heard-you-wanted-more-vtubers-so-it-signed-a-deal-with-the-most-popular-vtuber-agency-in-the-world/)<!-- GAME:END -->
+ - [Star Wars: Visions season 3 picks up where The Acolyte left off](https://www.polygon.com/star-wars-visions-season-3-ronin-duel-payback/)
+ - [Turning the Moon into The Moon Man’s Playground with Snapchat for The Outer Worlds 2](https://news.xbox.com/en-us/2025/10/29/moon-mans-playground-with-snapchat-the-outer-worlds-2/)
+ - [DJI Liquidates Its Mic Mini at a Record Low, Noise Cancelling and HQ Audio Now Cost Peanuts](https://kotaku.com/dji-liquidates-its-mic-mini-at-a-record-low-noise-cancelling-and-hq-audio-now-cost-peanuts-2000639685)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
