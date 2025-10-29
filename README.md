@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
- - ⏩ [Based razer](http://9gag.com/gag/aW4PxLn)
- - 👉 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)<!-- MEMES:END -->
+ - 💣 [ET2: The Extra-Terminator](https://www.reddit.com/r/funny/comments/1ojd85s/et2_the_extraterminator/)
+ - ⏩ [Never forget Iryna Zarutska](http://9gag.com/gag/agm65wn)
+ - 👉 [Bro code](http://9gag.com/gag/ayNZeKW)<!-- MEMES:END -->
 
 ---
 
