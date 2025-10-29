@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google reveals launch window for Gemini on Google TV Streamer, but we’re still in the dark](https://www.androidauthority.com/gemini-google-tv-streamer-launch-window-3611140/)
- - [A survey of 16K+ creators in eight countries: 86% use creative GenAI tools, 60% use multiple, 48% use them for ideation, and 52% for creating video and more &lpar;Adobe Newsroom&rpar;](http://www.techmeme.com/251029/p10#a251029p10)
- - [USC sues Google in Texas federal court, alleging that Google Earth, Maps, and Google Street View violate its patents for overlaying 2D images onto 3D models &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251029/p9#a251029p9)<!-- TECH:END -->
+ - [Some ad buyers say brands are increasingly spending on Reddit due to the site&#39;s prominence in AI-powered search results and its growing audience &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/251029/p11#a251029p11)
+ - [Tell us: What do you think is the best smartphone of 2025?](https://www.androidauthority.com/best-smartphone-2025-open-thread-3600334/)
+ - [Google says ‘sideloading isn’t going anywhere,’ F-Droid calls it fake news](https://www.androidauthority.com/google-android-sideloading-claims-misleading-f-droid-3611139/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
