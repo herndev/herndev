@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apollo Global reaches a deal to sell AOL to Bending Spoons, sources say in a deal valued at ~$1.5B; AOL has about 30M MAUs across its email and web properties &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251029/p36#a251029p36)
- - [Tesla’s Cybercab may have a steering wheel after all](https://www.theverge.com/news/809056/tesla-cybercab-steering-wheel-denholm)
- - [The Nothing Phone 3a Lite is most of the Phone 3a, only cheaper](https://www.androidauthority.com/nothing-phone-3a-lite-released-3611319/)<!-- TECH:END -->
+ - [Save $40 on this super fast Anker Prime Charger](https://www.androidauthority.com/anker-prime-charger-160w-deal-2-3611358/)
+ - [9 Best Seiko 5 Sports Watches &lpar;2025&rpar;](https://www.wired.com/story/the-best-seiko-5-sports-watches/)
+ - [A massive Microsoft Azure outage is taking down Xbox and 365](https://www.theverge.com/news/809142/microsoft-azure-xbox-365-is-down-outage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
