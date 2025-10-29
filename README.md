@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for October 29 &lpar;#1593&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-29-2025/)
  - [Twitch heard you wanted more vtubers so it signed a deal with the most popular vtuber agency in the world](https://www.pcgamer.com/gaming-industry/twitch-heard-you-wanted-more-vtubers-so-it-signed-a-deal-with-the-most-popular-vtuber-agency-in-the-world/)
- - [Ninja Offloads the 6-in-1 DualZone Air Fryer, Now 50% Off if You Buy on Amazon](https://kotaku.com/ninja-offloads-the-6-in-1-dualzone-air-fryer-now-50-off-if-you-buy-on-amazon-2000639745)
- - [This 512GB Lenovo Laptop Now Costs $399 Instead of $1,999, Amazon Clears Out Final Stock](https://kotaku.com/this-lenovo-laptop-with-512gb-now-costs-399-instead-of-1999-amazon-clears-out-final-stock-2000639731)<!-- GAME:END -->
+ - [Ninja Offloads the 6-in-1 DualZone Air Fryer, Now 50% Off if You Buy on Amazon](https://kotaku.com/ninja-offloads-the-6-in-1-dualzone-air-fryer-now-50-off-if-you-buy-on-amazon-2000639745)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
