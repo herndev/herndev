@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prank](http://9gag.com/gag/aZZoLE3)
- - ⏩ [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
+ - 💣 [Science](http://9gag.com/gag/a4PmRj6)
+ - ⏩ [Prank](http://9gag.com/gag/aZZoLE3)
  - 👉 [Good quality tents](http://9gag.com/gag/aE0yxOM)<!-- MEMES:END -->
 
 ---
