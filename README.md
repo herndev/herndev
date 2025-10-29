@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie Selects for October 2025: Games to Get You Through Spooky Season](https://news.xbox.com/en-us/2025/10/29/indie-selects-id-xbox-october-2025/)
- - [PlayStation Plus November 2025 free games announced for PS5, PS4](https://www.polygon.com/ps-plus-november-2025-free-games-essential/)
- - [Breath Of The Wild‘s $180+ Vinyl Box Set Is A Test To See If Fans Want Physical Nintendo Soundtracks](https://kotaku.com/breath-of-the-wilds-zelda-record-box-set-price-nintendo-apple-mario-update-switch-2-2000639847)<!-- GAME:END -->
+ - [The Outer Worlds 2 Is Available Today](https://news.xbox.com/en-us/2025/10/29/the-outer-worlds-2-is-out-now/)
+ - [This year&#39;s JRPG remakes keep proving that old games don&#39;t just get by on nostalgia: They&#39;re still just really good games](https://www.pcgamer.com/games/rpg/this-years-jrpg-remakes-keep-proving-that-old-games-dont-just-get-by-on-nostalgia-theyre-still-just-really-good-games/)
+ - [How to increase IVs in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-ivs-bottle-caps-hyper-training/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
