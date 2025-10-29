@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon, UPS, Target, GM, and other major US companies are laying off tens of thousands of white collar workers, as executives hope AI can handle their workload &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251029/p19#a251029p19)
- - [Internal memo: Amazon makes &quot;significant role reductions&quot; to its game division and will cut down on big budget titles, as it focuses on Luna and casual games &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/251029/p18#a251029p18)
- - [vivo OriginOS 6: Three breakthrough technologies take smoothness to the next level](https://www.androidauthority.com/vivo-originos-6-smoothness-3610193/)<!-- TECH:END -->
+ - [Apple’s Vision Pro with M5 is better than the first, but still awfully lonely](https://www.theverge.com/tech/807963/apple-vision-pro-m5-review-specs-release-date)
+ - [OnePlus 15 teardown confirms our worst fear: Major camera downgrades](https://www.androidauthority.com/oneplus-15-teardown-3611210/)
+ - [PitchBook: Nvidia invested in 59 AI startups in 2025 so far, including 10 in the past two months, surpassing 55 investments in 2024 and 12 investments in 2022 &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/251029/p23#a251029p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
