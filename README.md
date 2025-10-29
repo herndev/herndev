@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Magic \u2728](http://9gag.com/gag/a6Z4O19)
- - ⏩ [Prank](http://9gag.com/gag/aZZoLE3)
- - 👉 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)<!-- MEMES:END -->
+ - 💣 [Prank](http://9gag.com/gag/aZZoLE3)
+ - ⏩ [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
+ - 👉 [American nightmare](http://9gag.com/gag/aMVDYAM)<!-- MEMES:END -->
 
 ---
 
