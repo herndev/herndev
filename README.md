@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube will try to make even low-quality videos look great on your 4K TV &lpar;Update: Not just TV!&rpar;](https://www.androidauthority.com/youtube-rolls-out-upscaling-and-more-3611301/)
- - [Save $30 on This All-Clad Nonstick Frying Pan Set](https://www.wired.com/story/all-clad-nonstick-frying-pans-october-2025/)
- - [Microsoft Outage Brings Down Azure and 365](https://www.cnet.com/tech/services-and-software/microsoft-outage-brings-down-azure-and-365/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [eBay reports Q3 revenue up 9% YoY to $2.82B, vs. $2.73B est., GMV up 10% to $20.1B, and forecasts Q4 profit below estimates; EBAY drops 6%+ after hours &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251029/p52#a251029p52)
+ - [Alphabet reports Google Cloud Q3 revenue of $15.15B vs. $14.74B est., and raises 2025 capex forecast to $91B-$93B, after projecting $85B in July &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/251029/p51#a251029p51)
+ - [How one mountain town hopes AI can help it fight wildfires](https://www.theverge.com/report/809348/ai-fire-detection-vail-hpe-smart-city-platform)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
