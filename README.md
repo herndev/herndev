@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Outage Temporarily Derails Outer Worlds 2 Launch](https://kotaku.com/azure-outage-xbox-game-pass-outer-worlds-2-microsoft-2000639920)
- - [Outer Worlds 2 temporarily unavailable to purchase on Xbox](https://www.polygon.com/outer-worlds-2-azure-outage-unavailable-xbox-game-pass-pc/)
- - [30 Years Ago, Homer Entered The Third Dimension](https://kotaku.com/homer-cubed-3d-treehouse-horror-fox-30-years-ago-1995-2000639909)<!-- GAME:END -->
+ - [MTG Avatar exclusive preview: More Ally and Shrine cards](https://www.polygon.com/mtg-avatar-previews-spoilers-ally-shrine/)
+ - [Battlefield 6 reviews drop to &#39;Mixed&#39; on Steam as players rail against pop-up ads, small maps, and feeling left behind by battle royale](https://www.pcgamer.com/games/fps/battlefield-6-reviews-drop-to-mixed-on-steam-as-players-rail-against-pop-up-ads-small-maps-and-feeling-left-behind-by-battle-royale/)
+ - [Outer Worlds 2 director might not have the &#39;intestinal fortitude&#39; to make the game today](https://www.polygon.com/outer-worlds-2-politics-obsidian-interview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
