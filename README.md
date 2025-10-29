@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $40 on this super fast Anker Prime Charger](https://www.androidauthority.com/anker-prime-charger-160w-deal-2-3611358/)
- - [9 Best Seiko 5 Sports Watches &lpar;2025&rpar;](https://www.wired.com/story/the-best-seiko-5-sports-watches/)
- - [A massive Microsoft Azure outage is taking down Xbox and 365](https://www.theverge.com/news/809142/microsoft-azure-xbox-365-is-down-outage)<!-- TECH:END -->
+ - [Apple joins advisory board for &#39;The Game Awards&#39;](https://appleinsider.com/articles/25/10/29/apple-joins-the-advisory-board-for-the-game-awards?utm_source=rss)
+ - [One of the least useful gadgets of 2024 is getting a sequel](https://www.androidauthority.com/rabbit-r1-second-generation-2026-3611375/)
+ - [Apple fends off part of AirPods Pro defect lawsuit, judge narrows scope](https://appleinsider.com/articles/25/10/29/apple-fends-off-part-of-airpods-pro-defect-lawsuit-judge-narrows-scope?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
