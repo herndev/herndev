@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game of the Year voters have so much to learn from the Oscars](https://www.polygon.com/game-of-the-year-voting/)
- - [Battlefield 6 players are review bombing Redsec, but not because it&#39;s bad](https://www.polygon.com/battlefield-6-bf6-redsec-review-bomb-steam/)
- - [Arc Raiders Invites Us Into the Extraction Shooter](https://news.xbox.com/en-us/2025/10/30/arc-raiders-preview/)<!-- GAME:END -->
+ - [Apex Legends&#39; niche movement mechanics go mainstream in Season 27](https://www.polygon.com/apex-legends-season-27-amped-release-date-changes/)
+ - [Xbox October Update: ROG Xbox Ally Available Now, Handheld Compatibility Program, and More](https://news.xbox.com/en-us/2025/10/30/xbox-october-update-rog-xbox-ally-available-now/)
+ - [Where to find a dog collar in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-dog-collar-location-train-scrappy/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
