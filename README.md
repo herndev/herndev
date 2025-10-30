@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Simpler times](http://9gag.com/gag/a2v97be)
- - ⏩ [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)
- - 👉 [Everything but work](http://9gag.com/gag/a4PmEVA)<!-- MEMES:END -->
+ - 💣 [Dumb and Dumber on LEGO Ideas - It&#39;s a 1 in a million shot...](https://www.reddit.com/r/funny/comments/1ok1zt4/dumb_and_dumber_on_lego_ideas_its_a_1_in_a/)
+ - ⏩ [Nature is healing](http://9gag.com/gag/adBrg0j)
+ - 👉 [That&#39;s quite an explanation!!](http://9gag.com/gag/amoKvDj)<!-- MEMES:END -->
 
 ---
 
