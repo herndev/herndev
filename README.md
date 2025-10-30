@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Long Island Compromise&#39; drama looks for new home after Apple TV passes](https://appleinsider.com/articles/25/10/30/long-island-compromise-drama-looks-for-new-home-after-apple-tv-passes?utm_source=rss)
- - [China&#39;s Commerce Ministry says it will work with the US to resolve issues related to TikTok, stopping short of saying it agreed to a deal touted by Trump &lpar;Mark Anderson/Bloomberg&rpar;](http://www.techmeme.com/251030/p16#a251030p16)
- - [Google, Meta, and Microsoft collectively spent nearly $80B on AI infrastructure in Q3, dividing the market on whether they can translate huge capex into income &lpar;Financial Times&rpar;](http://www.techmeme.com/251030/p15#a251030p15)<!-- TECH:END -->
+ - [Spec leak for this Nintendo DS clone reveals exactly why it comes in at under $100](https://www.androidauthority.com/anbernic-rg-ds-specs-leak-3611600/)
+ - [After Trump and Xi&#39;s meeting, China says it will suspend its rare earth export controls issued on October 9 for one year, but says nothing about earlier limits &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/251030/p19#a251030p19)
+ - [Creative Stage Pro Review: A Great Soundbar for Small Spaces](https://www.wired.com/review/creative-stage-pro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
