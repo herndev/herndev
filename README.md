@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro code](http://9gag.com/gag/ayNZeKW)
- - ⏩ [Double standard from these dumb 304s](http://9gag.com/gag/aVv4058)
- - 👉 [Elijah Wood Crashing a Wedding at Hobbiton in New Zealand](http://9gag.com/gag/aKGn7Q3)<!-- MEMES:END -->
+ - 💣 [No context](http://9gag.com/gag/a0ezRyX)
+ - ⏩ [The realization](http://9gag.com/gag/awyPMKx)
+ - 👉 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)<!-- MEMES:END -->
 
 ---
 
