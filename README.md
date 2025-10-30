@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - ⏩ [Everything but work](http://9gag.com/gag/a4PmEVA)
- - 👉 [Simpler times](http://9gag.com/gag/a2v97be)<!-- MEMES:END -->
+ - 💣 [Double standard from these dumb 304s](http://9gag.com/gag/aVv4058)
+ - ⏩ [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
+ - 👉 [Rich people problems](http://9gag.com/gag/avy4znd)<!-- MEMES:END -->
 
 ---
 
