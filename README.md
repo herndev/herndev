@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s a sneaky way to cheat Arc Raiders&#39; tutorial to keep your starting pistol and all the loot you find](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-tutorial-trick-keep-starting-pistol/)
- - [Arc Raiders Joins Battlefield 6 In The War Against Goofy Skins](https://kotaku.com/arc-raiders-battlefield-6-skins-silly-cosmetics-crossover-black-ops-7-steam-2000640251)
- - [Should you let the refugees occupy the Exclusion Zone in The Outer Worlds 2?](https://www.polygon.com/outer-worlds-2-exclusion-zone-choice/)<!-- GAME:END -->
+ - [Bugonia ending explained: Is Emma Stone&#39;s character an alien?](https://www.polygon.com/bugonia-ending-explained-spoilers-interview-behind-the-scenes/)
+ - [Roblox, which is being sued by 2 US states for endangering children, earns praise from the US Attorney General Alliance for &#39;promoting safe, more positive digital experiences&#39;](https://www.pcgamer.com/games/roblox-which-is-being-sued-by-2-us-states-for-endangering-children-earns-praise-from-the-us-attorney-general-alliance-for-promoting-safe-more-positive-digital-experiences/)
+ - [17 Excellent Horror Games You Can Play For Free With Game Pass This Halloween](https://kotaku.com/game-pass-horror-halloween-pc-resident-evil-2000640197)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
