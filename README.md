@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No context](http://9gag.com/gag/a0ezRyX)
- - ⏩ [The realization](http://9gag.com/gag/awyPMKx)
- - 👉 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)<!-- MEMES:END -->
+ - 💣 [This pistol is not for the faint of heart](http://9gag.com/gag/aByjmvx)
+ - ⏩ [Simpler times](http://9gag.com/gag/a2v97be)
+ - 👉 [The realization](http://9gag.com/gag/awyPMKx)<!-- MEMES:END -->
 
 ---
 
