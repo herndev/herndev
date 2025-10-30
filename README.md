@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Intel is in early-stage talks to acquire AI chip startup SambaNova, with a deal likely valuing SambaNova below its $5B valuation in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251030/p46#a251030p46)
- - [Amazon reports Q3 ad revenue up 24% YoY to $17.7B, vs. $17.3B est., and subscription services revenue up 11% YoY to $12.6B &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/251030/p45#a251030p45)
- - [Apple iOS 26 leaker&#39;s court filing rolls Jon Prosser under the bus](https://appleinsider.com/articles/25/10/30/apple-ios-26-leakers-court-filing-rolls-jon-prosser-under-the-bus?utm_source=rss)<!-- TECH:END -->
+ - [Historical trend broken, AAPL makes big gains after earnings](https://appleinsider.com/articles/25/10/30/historical-trend-broken-aapl-makes-big-gains-after-earnings?utm_source=rss)
+ - [Filing: Meta plans to raise money through bond offerings worth up to $30B; the company has said its capex next year would be &quot;notably larger&quot; than in 2025 &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251030/p53#a251030p53)
+ - [Tim Cook didn&#39;t have much to say about reports of low iPhone Air sales](https://appleinsider.com/articles/25/10/30/tim-cook-didnt-have-much-to-say-about-reports-of-low-iphone-air-sales?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
