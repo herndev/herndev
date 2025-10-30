@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Affinity&#39;s entire suite goes completely free on Mac with new all-in-one app](https://appleinsider.com/articles/25/10/30/affinitys-entire-suite-goes-completely-free-on-mac-with-new-all-in-one-app?utm_source=rss)
- - [Affinity’s new design platform combines everything into one app](https://www.theverge.com/news/810251/canva-affinity-design-suite-free-app-relaunch)
- - [Apple adds iPhone 17 lineup to its self-repair program](https://appleinsider.com/articles/25/10/30/apple-adds-iphone-17-lineup-to-its-self-repair-program?utm_source=rss)<!-- TECH:END -->
+ - [Canva&amp;#8217;s new &amp;#8216;Creative Operating System&amp;#8217; is actually a marketing workspace](https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch)
+ - [Android 17 could bring full-screen apps to your phone’s always-on display](https://www.androidauthority.com/android-17-aod-min-mode-rumor-3611806/)
+ - [This Android camera heavyweight raises the bar with 200MP telephoto and pro-grade video](https://www.androidauthority.com/vivo-x300-series-200mp-global-launch-3611428/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
