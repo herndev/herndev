@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Everything but work](http://9gag.com/gag/a4PmEVA)
- - ⏩ [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - 👉 [Rich people problems](http://9gag.com/gag/avy4znd)<!-- MEMES:END -->
+ - ⏩ [Simpler times](http://9gag.com/gag/a2v97be)
+ - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
 
 ---
 
