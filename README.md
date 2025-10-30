@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The northern lights tonight from my front door in North Pole, Alaska](http://9gag.com/gag/aPAz72B)
- - ⏩ [Not hiding it, just nobody cares](http://9gag.com/gag/aND8PWb)
- - 👉 [That feeling of validation](http://9gag.com/gag/ayNZMQY)<!-- MEMES:END -->
+ - 💣 [Simpler times](http://9gag.com/gag/a2v97be)
+ - ⏩ [That&#39;s quite an explanation!!](http://9gag.com/gag/amoKvDj)
+ - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
 
 ---
 
