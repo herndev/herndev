@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Thief VR: Legacy of Shadow launches December 4 on PS VR2](https://blog.playstation.com/2025/10/30/thief-vr-legacy-of-shadow-launches-december-4-on-ps-vr2/)
- - [Free Play Days – Call of Duty Black Ops 6 &lpar;MP &amp; Zombies&rpar;, Dragon Ball Xenoverse 2, Dead by Daylight, CATAN, and More](https://news.xbox.com/en-us/2025/10/30/free-play-days-10-30-2025/)
- - [Promising new nanoscale OLED tech makes 1 mm 1080p panels possible, which could usher in an era of ultra-realistic VR, dual-4K AR glasses, tiny projectors and much more](https://www.pcgamer.com/hardware/gaming-monitors/promising-new-nanoscale-oled-tech-makes-1-mm-1080p-panels-possible-which-could-usher-in-an-era-of-ultra-realistic-vr-dual-4k-ar-glasses-tiny-projectors-and-much-more/)<!-- GAME:END -->
+ - [Chainsaw Man and Attack on Titan reveal a dark truth about modern masculinity](https://www.polygon.com/chainsaw-man-vs-attack-on-titan-eren-denji-comparisons-differences/)
+ - [Setting the World Stage for Virtua Fighter’s Return to Xbox](https://news.xbox.com/en-us/2025/10/30/virtua-fighter-revo-world-stage-xbox/)
+ - [Arc Raiders guide: Priority skills, where to loot and more starting tips](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-guide/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
