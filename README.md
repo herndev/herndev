@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Anker Starts Black Friday Early, This 160W 3-Port Compact USB-C Charger Is Selling for Peanuts](https://kotaku.com/anker-starts-black-friday-early-this-160w-3-port-compact-usb-c-charger-is-selling-for-peanuts-2000639985)
- - [If You’re a Serious Gamer, This 15″ Portable Monitor for Consoles Is Selling for Pennies](https://kotaku.com/if-youre-a-serious-gamer-this-15-portable-monitor-for-consoles-is-selling-for-pennies-2000639962)
- - [Microsoft Offloads Surface Pro &lpar;512GB SSD, X Plus&rpar; at a New Low, Black Friday Starts Early](https://kotaku.com/microsoft-offloads-surface-pro-512gb-ssd-x-plus-at-a-new-low-black-friday-starts-early-2000639973)<!-- GAME:END -->
+ - [Samsung Is Dumping Its 512GB microSD Memory Card, Now Selling for Mere Pennies on the Dollar](https://kotaku.com/samsung-is-dumping-its-512gb-microsd-memory-card-now-selling-for-mere-pennies-on-the-dollar-2000640014)
+ - [London Skyline LEGO Set Is Nearly Free, Amazon Slashes Price on 4.8-Rated Build](https://kotaku.com/london-skyline-lego-set-is-nearly-free-amazon-slashes-price-on-4-8-rated-build-2000640003)
+ - [Philips Clears Hue Bulb Starter Kit Stock, Now Selling at All-Time Low for Early Black Friday](https://kotaku.com/philips-clears-hue-bulb-starter-kit-stock-now-selling-at-all-time-low-for-early-black-friday-2000639968)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
