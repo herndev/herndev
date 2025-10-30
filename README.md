@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How quickly the tone changes](https://www.reddit.com/r/funny/comments/1ok3k6v/how_quickly_the_tone_changes/)
- - ⏩ [Worthless nuss](http://9gag.com/gag/azxoMrN)
- - 👉 [Everything but work](http://9gag.com/gag/a4PmEVA)<!-- MEMES:END -->
+ - 💣 [The realization](http://9gag.com/gag/awyPMKx)
+ - ⏩ [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
+ - 👉 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)<!-- MEMES:END -->
 
 ---
 
