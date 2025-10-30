@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RRR director S.S. Rajamouli teases the future of the Bahaabuli series](https://www.polygon.com/ss-rajamouli-baahubali-epic-release/)
- - [Where to find Fireballs in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-fireballs/)
- - [The best Arc Raiders skills you should unlock first](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-best-skills/)<!-- GAME:END -->
+ - [NZXT&#39;s controversial PC rental scheme hit by class action lawsuit claiming the company &#39;defrauded consumers through gross misrepresentations and illegal business practices&#39;](https://www.pcgamer.com/hardware/nzxts-controversial-pc-rental-scheme-hit-by-class-action-lawsuit-claiming-the-company-defrauded-consumers-through-gross-misrepresentations-and-illegal-business-practices/)
+ - [LEGO Kicks Off Black Friday, Star Wars Set with Darth Vader’s Helmet Is Selling for Nearly Nothing](https://kotaku.com/lego-kicks-off-black-friday-star-wars-set-with-darth-vaders-helmet-is-selling-for-nearly-nothing-2000640091)
+ - [The latest Steam beta adds &#39;a suspicious chat warning&#39; when you receive a potentially malicious message, something it probably should have done years ago](https://www.pcgamer.com/hardware/the-latest-steam-beta-adds-a-suspicious-chat-warning-when-you-receive-a-potentially-malicious-message-something-it-probably-should-have-done-years-ago/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
