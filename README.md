@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How the hell is he still alive?](http://9gag.com/gag/aVv4712)
- - ⏩ [It&#39;s over my friend... we can sell crack and cocaine together](http://9gag.com/gag/apRzg8E)
+ - 💣 [It&#39;s over my friend... we can sell crack and cocaine together](http://9gag.com/gag/apRzg8E)
+ - ⏩ [How the hell is he still alive?](http://9gag.com/gag/aVv4712)
  - 👉 [Say again, bro](http://9gag.com/gag/aXPQoWP)<!-- MEMES:END -->
 
 ---
