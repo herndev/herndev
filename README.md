@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chainsaw Man and Attack on Titan reveal a dark truth about modern masculinity](https://www.polygon.com/chainsaw-man-vs-attack-on-titan-eren-denji-comparisons-differences/)
- - [Setting the World Stage for Virtua Fighter’s Return to Xbox](https://news.xbox.com/en-us/2025/10/30/virtua-fighter-revo-world-stage-xbox/)
- - [Arc Raiders guide: Priority skills, where to loot and more starting tips](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-guide/)<!-- GAME:END -->
+ - [Stop what you&#39;re doing and play Fortnite before The Simpsons season](https://www.polygon.com/fortnite-the-simpsons-fortnitemares-power-rangers/)
+ - [Instead of selling its new Halloween skins, Fellowship&#39;s devs are giving them away for free after its &#39;rocky&#39; launch](https://www.pcgamer.com/games/rpg/instead-of-selling-its-new-halloween-skins-fellowships-devs-are-giving-them-away-for-free-after-its-rocky-launch/)
+ - [Star Wars: Visions demonstrates Disney&#39;s problem with anthology shows](https://www.polygon.com/star-wars-visions-anthology-tv/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
