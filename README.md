@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everything but work](http://9gag.com/gag/a4PmEVA)
+ - 💣 [The realization](http://9gag.com/gag/awyPMKx)
  - ⏩ [This pistol is not for the faint of heart](http://9gag.com/gag/aByjmvx)
- - 👉 [The realization](http://9gag.com/gag/awyPMKx)<!-- MEMES:END -->
+ - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
 
 ---
 
