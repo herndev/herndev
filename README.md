@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung Galaxy Watch 7 Drops Below Black Friday Pricing, Guess They’re Cheering for NYC Marathon Runners](https://kotaku.com/samsung-galaxy-watch-7-drops-below-black-friday-pricing-guess-theyre-cheering-for-nyc-marathon-runners-2000635396)
- - [The Stranger Things season 5 trailer is deadly serious](https://www.polygon.com/stranger-things-season-5-trailer/)
- - [This Escape Room Sim Sequel Captures The Madcap Fun Of The Real-World Games](https://kotaku.com/escape-simulator-2-room-interview-pine-studio-2000639908)<!-- GAME:END -->
+ - [Game of the Year voters have so much to learn from the Oscars](https://www.polygon.com/game-of-the-year-voting/)
+ - [Battlefield 6 players are review bombing Redsec, but not because it&#39;s bad](https://www.polygon.com/battlefield-6-bf6-redsec-review-bomb-steam/)
+ - [Arc Raiders Invites Us Into the Extraction Shooter](https://news.xbox.com/en-us/2025/10/30/arc-raiders-preview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
