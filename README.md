@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [NZXT&#39;s controversial PC rental scheme hit by class action lawsuit claiming the company &#39;defrauded consumers through gross misrepresentations and illegal business practices&#39;](https://www.pcgamer.com/hardware/nzxts-controversial-pc-rental-scheme-hit-by-class-action-lawsuit-claiming-the-company-defrauded-consumers-through-gross-misrepresentations-and-illegal-business-practices/)
- - [LEGO Kicks Off Black Friday, Star Wars Set with Darth Vader’s Helmet Is Selling for Nearly Nothing](https://kotaku.com/lego-kicks-off-black-friday-star-wars-set-with-darth-vaders-helmet-is-selling-for-nearly-nothing-2000640091)
- - [The latest Steam beta adds &#39;a suspicious chat warning&#39; when you receive a potentially malicious message, something it probably should have done years ago](https://www.pcgamer.com/hardware/the-latest-steam-beta-adds-a-suspicious-chat-warning-when-you-receive-a-potentially-malicious-message-something-it-probably-should-have-done-years-ago/)<!-- GAME:END -->
+ - [Samsung Galaxy Watch 7 Drops Below Black Friday Pricing, Guess They’re Cheering for NYC Marathon Runners](https://kotaku.com/samsung-galaxy-watch-7-drops-below-black-friday-pricing-guess-theyre-cheering-for-nyc-marathon-runners-2000635396)
+ - [The Stranger Things season 5 trailer is deadly serious](https://www.polygon.com/stranger-things-season-5-trailer/)
+ - [This Escape Room Sim Sequel Captures The Madcap Fun Of The Real-World Games](https://kotaku.com/escape-simulator-2-room-interview-pine-studio-2000639908)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
