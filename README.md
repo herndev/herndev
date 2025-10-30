@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GitHub says TypeScript surpassed Python and JavaScript in August 2025 to become the most used language among its 180M+ developers; India added 5.2M devs in 2025 &lpar;The GitHub Blog&rpar;](http://www.techmeme.com/251030/p4#a251030p4)
  - [KitchenAid Promo Code: 25% Off in November 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Google’s Halloween Doodle lets you play PAC-MAN in spooky style](https://www.androidauthority.com/google-pac-man-halloween-2025-edition-doodle-3611564/)
- - [Sources detail how Binance boosted the Trump family&#39;s World Liberty Financial by facilitating a $2B purchase of USD1 and building its tech ahead of CZ&#39;s pardon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251030/p3#a251030p3)<!-- TECH:END -->
+ - [Google’s Halloween Doodle lets you play PAC-MAN in spooky style](https://www.androidauthority.com/google-pac-man-halloween-2025-edition-doodle-3611564/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
