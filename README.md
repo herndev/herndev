@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with Ursa, a new keycap option for Topre keyboards](https://www.theverge.com/tech/809659/ursa-topre-keycap-hands-on-extras-sale)
- - [Q&amp;A with Logitech CEO Hanneke Faber on software-enabled hardware, prioritizing design, launching about 40 new products each year, AI, tariffs, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/251030/p5#a251030p5)
- - [Samsung’s One UI 8.5 update makes quick settings pop with cleaner, glassier design](https://www.androidauthority.com/samsung-one-ui-8-5-quick-settings-refresh-3611574/)<!-- TECH:END -->
+ - [President Trump says he and Xi Jinping discussed Nvidia and other chipmakers&#39; access to China, and that they didn&#39;t discuss approving sales of Blackwell chips &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/251030/p10#a251030p10)
+ - [TrendForce estimates DRAM in 2026 will bring in over 4x as much revenue as the 2023 trough, reaching a record ~$231B, driven by AI industry demand for HBM chips &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/251030/p9#a251030p9)
+ - [Walmart&#39;s PhonePe raised $600M from General Atlantic at a $14.5B valuation, as the Indian digital payments and financial services company prepares for an IPO &lpar;The Economic Times&rpar;](http://www.techmeme.com/251030/p8#a251030p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
