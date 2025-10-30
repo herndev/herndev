@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI browsers are a cybersecurity time bomb](https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems)
- - [Nothing&#39;s new Lock Glimpse feature on the Phone &lpar;3a&rpar; Lite shows a rotating selection of wallpapers that link to clickbait articles from a company called Vilykke &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/251030/p31#a251030p31)
- - [Threads is giving you more control over your replies](https://www.theverge.com/news/809956/threads-reply-approvals-posts-filter-people-you-follow)<!-- TECH:END -->
+ - [Affinity&#39;s entire suite goes completely free on Mac with new all-in-one app](https://appleinsider.com/articles/25/10/30/affinitys-entire-suite-goes-completely-free-on-mac-with-new-all-in-one-app?utm_source=rss)
+ - [Affinity’s new design platform combines everything into one app](https://www.theverge.com/news/810251/canva-affinity-design-suite-free-app-relaunch)
+ - [Apple adds iPhone 17 lineup to its self-repair program](https://appleinsider.com/articles/25/10/30/apple-adds-iphone-17-lineup-to-its-self-repair-program?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
