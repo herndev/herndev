@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [These Anker True Wireless Earbuds Hit $19 for Early Black Friday, and They Challenge $200 Models](https://kotaku.com/these-anker-true-wireless-earbuds-hit-19-for-early-black-friday-and-they-challenge-200-models-2000640020)
  - [Samsung Is Dumping Its 512GB microSD Memory Card, Now Selling for Mere Pennies on the Dollar](https://kotaku.com/samsung-is-dumping-its-512gb-microsd-memory-card-now-selling-for-mere-pennies-on-the-dollar-2000640014)
- - [London Skyline LEGO Set Is Nearly Free, Amazon Slashes Price on 4.8-Rated Build](https://kotaku.com/london-skyline-lego-set-is-nearly-free-amazon-slashes-price-on-4-8-rated-build-2000640003)
- - [Philips Clears Hue Bulb Starter Kit Stock, Now Selling at All-Time Low for Early Black Friday](https://kotaku.com/philips-clears-hue-bulb-starter-kit-stock-now-selling-at-all-time-low-for-early-black-friday-2000639968)<!-- GAME:END -->
+ - [London Skyline LEGO Set Is Nearly Free, Amazon Slashes Price on 4.8-Rated Build](https://kotaku.com/london-skyline-lego-set-is-nearly-free-amazon-slashes-price-on-4-8-rated-build-2000640003)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
