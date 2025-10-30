@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based Snabbit, which offers a range of on-demand home services, raised a $30M Series C at a $180M valuation, taking its total funding to $55M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251030/p2#a251030p2)
- - [Samsung teases Galaxy S26 with next-gen AI, custom chip, and new camera sensors](https://www.androidauthority.com/samsung-galaxy-s26-spec-confirmation-q3-2025-earnings-3611552/)
- - [Life sciences group Thermo Fisher agrees to acquire PE-owned drug trial software maker Clario for $9.4B in an all-cash deal expected to close by mid-2026 &lpar;Oliver Barnes/Financial Times&rpar;](http://www.techmeme.com/251030/p1#a251030p1)<!-- TECH:END -->
+ - [KitchenAid Promo Code: 25% Off in November 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [Google’s Halloween Doodle lets you play PAC-MAN in spooky style](https://www.androidauthority.com/google-pac-man-halloween-2025-edition-doodle-3611564/)
+ - [Sources detail how Binance boosted the Trump family&#39;s World Liberty Financial by facilitating a $2B purchase of USD1 and building its tech ahead of CZ&#39;s pardon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251030/p3#a251030p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
