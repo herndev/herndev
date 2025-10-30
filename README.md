@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump says he and Xi Jinping discussed Nvidia and other chipmakers&#39; access to China, and that they didn&#39;t discuss approving sales of Blackwell chips &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/251030/p10#a251030p10)
- - [TrendForce estimates DRAM in 2026 will bring in over 4x as much revenue as the 2023 trough, reaching a record ~$231B, driven by AI industry demand for HBM chips &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/251030/p9#a251030p9)
- - [Walmart&#39;s PhonePe raised $600M from General Atlantic at a $14.5B valuation, as the Indian digital payments and financial services company prepares for an IPO &lpar;The Economic Times&rpar;](http://www.techmeme.com/251030/p8#a251030p8)<!-- TECH:END -->
+ - [&#39;Long Island Compromise&#39; drama looks for new home after Apple TV passes](https://appleinsider.com/articles/25/10/30/long-island-compromise-drama-looks-for-new-home-after-apple-tv-passes?utm_source=rss)
+ - [China&#39;s Commerce Ministry says it will work with the US to resolve issues related to TikTok, stopping short of saying it agreed to a deal touted by Trump &lpar;Mark Anderson/Bloomberg&rpar;](http://www.techmeme.com/251030/p16#a251030p16)
+ - [Google, Meta, and Microsoft collectively spent nearly $80B on AI infrastructure in Q3, dividing the market on whether they can translate huge capex into income &lpar;Financial Times&rpar;](http://www.techmeme.com/251030/p15#a251030p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
