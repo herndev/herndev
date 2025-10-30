@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - ⏩ [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
- - 👉 [Rate his pull out game](http://9gag.com/gag/ary9nq0)<!-- MEMES:END -->
+ - 💣 [How the hell is he still alive?](http://9gag.com/gag/aVv4712)
+ - ⏩ [It&#39;s over my friend... we can sell crack and cocaine together](http://9gag.com/gag/apRzg8E)
+ - 👉 [Say again, bro](http://9gag.com/gag/aXPQoWP)<!-- MEMES:END -->
 
 ---
 
