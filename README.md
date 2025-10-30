@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Battlefield 6 locks the best radio station behind a $25 Pro battle pass paywall](https://www.pcgamer.com/games/fps/battlefield-6-locks-the-best-radio-station-behind-a-usd25-pro-battle-pass-paywall/)
  - [The Witcher season 4 review: Liam Hemsworth becomes Geralt in time for The Witcher to fully become an ensemble show where he&#39;s basically supporting cast](https://www.pcgamer.com/movies-tv/the-witcher-season-4-review-liam-hemsworth-becomes-geralt-in-time-for-the-witcher-to-fully-become-an-ensemble-piece-where-hes-basically-supporting-cast/)
- - [&#39;We did it all for you&#39;: New World&#39;s final expansion contains a hidden goodbye from the developers](https://www.pcgamer.com/games/mmo/we-did-it-all-for-you-new-worlds-final-expansion-contains-a-hidden-goodbye-from-the-developers/)
- - [Today&#39;s Wordle clues, hints and answer for October 30 &lpar;#1594&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-30-2025/)<!-- GAME:END -->
+ - [&#39;We did it all for you&#39;: New World&#39;s final expansion contains a hidden goodbye from the developers](https://www.pcgamer.com/games/mmo/we-did-it-all-for-you-new-worlds-final-expansion-contains-a-hidden-goodbye-from-the-developers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
