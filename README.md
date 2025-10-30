@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Double standard from these dumb 304s](http://9gag.com/gag/aVv4058)
- - ⏩ [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - 👉 [Rich people problems](http://9gag.com/gag/avy4znd)<!-- MEMES:END -->
+ - 💣 [Want to share this with you guys\u2014it might not look like much, but it&#39;s 9:45 PM, i got home from work, and my wife had prepared this for me. Deer salami that I made, cheese and butter made by dad on the alp, with bread made by my wife. 20y together and she is still wife material.](http://9gag.com/gag/aPAz30G)
+ - ⏩ [The northern lights tonight from my front door in North Pole, Alaska](http://9gag.com/gag/aPAz72B)
+ - 👉 [Nature is healing](http://9gag.com/gag/adBrg0j)<!-- MEMES:END -->
 
 ---
 
