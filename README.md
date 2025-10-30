@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle clues, hints and answer for October 30 &lpar;#1594&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-30-2025/)
  - [These Anker True Wireless Earbuds Hit $19 for Early Black Friday, and They Challenge $200 Models](https://kotaku.com/these-anker-true-wireless-earbuds-hit-19-for-early-black-friday-and-they-challenge-200-models-2000640020)
- - [Samsung Is Dumping Its 512GB microSD Memory Card, Now Selling for Mere Pennies on the Dollar](https://kotaku.com/samsung-is-dumping-its-512gb-microsd-memory-card-now-selling-for-mere-pennies-on-the-dollar-2000640014)
- - [London Skyline LEGO Set Is Nearly Free, Amazon Slashes Price on 4.8-Rated Build](https://kotaku.com/london-skyline-lego-set-is-nearly-free-amazon-slashes-price-on-4-8-rated-build-2000640003)<!-- GAME:END -->
+ - [Samsung Is Dumping Its 512GB microSD Memory Card, Now Selling for Mere Pennies on the Dollar](https://kotaku.com/samsung-is-dumping-its-512gb-microsd-memory-card-now-selling-for-mere-pennies-on-the-dollar-2000640014)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
