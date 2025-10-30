@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The realization](http://9gag.com/gag/awyPMKx)
- - ⏩ [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
- - 👉 [The internet has ruined my brain](http://9gag.com/gag/ae9yA0O)<!-- MEMES:END -->
+ - 💣 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
+ - ⏩ [Simpler times](http://9gag.com/gag/a2v97be)
+ - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
 
 ---
 
