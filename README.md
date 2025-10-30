@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
- - ⏩ [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
- - 👉 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)<!-- MEMES:END -->
+ - ⏩ [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
+ - 👉 [The realization](http://9gag.com/gag/awyPMKx)<!-- MEMES:END -->
 
 ---
 
