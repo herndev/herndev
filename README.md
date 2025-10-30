@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Universal partners with AI startup Udio after settling copyright suit](https://www.theverge.com/news/809882/universal-music-udio-settlement)
- - [How Android handles Hi-Res audio: An audiophile’s guide to the best sound](https://www.androidauthority.com/android-audiophile-guide-3611225/)
- - [Bugonia is a galaxy brained masterpiece](https://www.theverge.com/entertainment/808993/bugonia-review)<!-- TECH:END -->
+ - [Q&amp;A with Palantir CTO Shyam Sankar on surveillance, AI, the future of war, data, privacy, the US military, ImmigrationOS, the DHS, ICE, the UK&#39;s IDs, and more &lpar;New York Times&rpar;](http://www.techmeme.com/251030/p25#a251030p25)
+ - [No, SNAP Benefits Aren’t Mostly Used by Immigrants](https://www.wired.com/story/disinformation-conspiracy-theories-snap-benefits/)
+ - [Record-low deal: Save $100 on the BLUETTI Elite 30 V2 Power Station](https://www.androidauthority.com/bluetti-elite-30-v2-portable-power-station-3611640/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
