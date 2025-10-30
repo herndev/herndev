@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stop what you&#39;re doing and play Fortnite before The Simpsons season](https://www.polygon.com/fortnite-the-simpsons-fortnitemares-power-rangers/)
- - [Instead of selling its new Halloween skins, Fellowship&#39;s devs are giving them away for free after its &#39;rocky&#39; launch](https://www.pcgamer.com/games/rpg/instead-of-selling-its-new-halloween-skins-fellowships-devs-are-giving-them-away-for-free-after-its-rocky-launch/)
- - [Star Wars: Visions demonstrates Disney&#39;s problem with anthology shows](https://www.polygon.com/star-wars-visions-anthology-tv/)<!-- GAME:END -->
+ - [The Séance of Blake Manor is the surprise Halloween banger of the year](https://www.polygon.com/the-seance-of-blake-manor-impressions/)
+ - [Less than 2 weeks before the launch of its next game, Hyper Light studio Heart Machine reportedly lays off even more employees](https://www.pcgamer.com/gaming-industry/less-than-2-weeks-before-the-launch-of-its-next-game-hyper-light-studio-heart-machine-reportedly-lays-off-even-more-employees/)
+ - [Where to find pets in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-pet-location-how-to-get/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
