@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to shop like a pro during Black Friday and Cyber Monday](https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find)
- - [Sources: Nvidia plans to invest $500M to $1B in AI coding startup Poolside, which is in discussions to raise $2B at a $12B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251030/p38#a251030p38)
- - [Cognition releases SWE-1.5, a new coding model in Windsurf, saying it partnered with Cerebras to serve SWE-1.5 at speeds up to 13x faster than Claude Sonnet 4.5 &lpar;Cognition&rpar;](http://www.techmeme.com/251030/p37#a251030p37)<!-- TECH:END -->
+ - [Sources: Intel is in early-stage talks to acquire AI chip startup SambaNova, with a deal likely valuing SambaNova below its $5B valuation in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251030/p46#a251030p46)
+ - [Amazon reports Q3 ad revenue up 24% YoY to $17.7B, vs. $17.3B est., and subscription services revenue up 11% YoY to $12.6B &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/251030/p45#a251030p45)
+ - [Apple iOS 26 leaker&#39;s court filing rolls Jon Prosser under the bus](https://appleinsider.com/articles/25/10/30/apple-ios-26-leakers-court-filing-rolls-jon-prosser-under-the-bus?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
