@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s over my friend... we can sell crack and cocaine together](http://9gag.com/gag/apRzg8E)
- - ⏩ [How the hell is he still alive?](http://9gag.com/gag/aVv4712)
- - 👉 [Say again, bro](http://9gag.com/gag/aXPQoWP)<!-- MEMES:END -->
+ - 💣 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
+ - ⏩ [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
+ - 👉 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)<!-- MEMES:END -->
 
 ---
 
