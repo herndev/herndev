@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
- - ⏩ [Simpler times](http://9gag.com/gag/a2v97be)
- - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
+ - 💣 [Everything but work](http://9gag.com/gag/a4PmEVA)
+ - ⏩ [This pistol is not for the faint of heart](http://9gag.com/gag/aByjmvx)
+ - 👉 [The realization](http://9gag.com/gag/awyPMKx)<!-- MEMES:END -->
 
 ---
 
