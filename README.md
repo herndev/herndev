@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Séance of Blake Manor is the surprise Halloween banger of the year](https://www.polygon.com/the-seance-of-blake-manor-impressions/)
- - [Less than 2 weeks before the launch of its next game, Hyper Light studio Heart Machine reportedly lays off even more employees](https://www.pcgamer.com/gaming-industry/less-than-2-weeks-before-the-launch-of-its-next-game-hyper-light-studio-heart-machine-reportedly-lays-off-even-more-employees/)
- - [Where to find pets in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-pet-location-how-to-get/)<!-- GAME:END -->
+ - [The creator of your dad&#39;s favorite TV show is writing the Call of Duty movie](https://www.pcgamer.com/movies-tv/the-creator-of-your-dads-favorite-tv-show-is-writing-the-call-of-duty-movie/)
+ - [Fortnite Simpsons mini season release time in your time zone](https://www.polygon.com/fortnite-simpsons-mini-season-release-time-date-edt-pdt/)
+ - [You can now twerk enemies to death in Repo thanks to the big new Monster Update—and it&#39;s free to play this weekend to celebrate](https://www.pcgamer.com/games/horror/you-can-now-twerk-enemies-to-death-in-repo-thanks-to-the-big-new-monster-update-and-its-free-to-play-this-weekend-to-celebrate/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
