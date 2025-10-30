@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UMG partners with AI music generator Udio to launch a subscription service for creating music with licensed songs in 2026, in part to settle a copyright lawsuit &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/251029/p64#a251029p64)
- - [Meta, Google, and Microsoft Triple Down on AI Spending](https://www.wired.com/story/microsoft-google-meta-2025-earnings/)
- - [Disney and YouTube settle their legal dispute over YouTube&#39;s hiring in May of former Disney executive Justin Connolly to be global head of media and sports &lpar;Dominic Patten/Deadline&rpar;](http://www.techmeme.com/251029/p63#a251029p63)<!-- TECH:END -->
+ - [Google updates Play Store policy in the US to let developers link to external app stores and payment options, following the Epic v. Google injunction &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/251029/p65#a251029p65)
+ - [Android 16 QPR2 Beta 3.2 arrives with fix for annoying lock screen clock bug](https://www.androidauthority.com/android-16-qpr2-beta-3-2-3611547/)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Oct. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-oct-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
