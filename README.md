@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dumb and Dumber on LEGO Ideas - It&#39;s a 1 in a million shot...](https://www.reddit.com/r/funny/comments/1ok1zt4/dumb_and_dumber_on_lego_ideas_its_a_1_in_a/)
- - ⏩ [Nature is healing](http://9gag.com/gag/adBrg0j)
- - 👉 [That&#39;s quite an explanation!!](http://9gag.com/gag/amoKvDj)<!-- MEMES:END -->
+ - 💣 [How quickly the tone changes](https://www.reddit.com/r/funny/comments/1ok3k6v/how_quickly_the_tone_changes/)
+ - ⏩ [Worthless nuss](http://9gag.com/gag/azxoMrN)
+ - 👉 [Everything but work](http://9gag.com/gag/a4PmEVA)<!-- MEMES:END -->
 
 ---
 
