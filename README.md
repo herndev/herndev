@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Want to share this with you guys\u2014it might not look like much, but it&#39;s 9:45 PM, i got home from work, and my wife had prepared this for me. Deer salami that I made, cheese and butter made by dad on the alp, with bread made by my wife. 20y together and she is still wife material.](http://9gag.com/gag/aPAz30G)
- - ⏩ [How the hell is he still alive?](http://9gag.com/gag/aVv4712)
- - 👉 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)<!-- MEMES:END -->
+ - 💣 [Everything but work](http://9gag.com/gag/a4PmEVA)
+ - ⏩ [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
+ - 👉 [Rich people problems](http://9gag.com/gag/avy4znd)<!-- MEMES:END -->
 
 ---
 
