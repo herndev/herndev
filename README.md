@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spec leak for this Nintendo DS clone reveals exactly why it comes in at under $100](https://www.androidauthority.com/anbernic-rg-ds-specs-leak-3611600/)
- - [After Trump and Xi&#39;s meeting, China says it will suspend its rare earth export controls issued on October 9 for one year, but says nothing about earlier limits &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/251030/p19#a251030p19)
- - [Creative Stage Pro Review: A Great Soundbar for Small Spaces](https://www.wired.com/review/creative-stage-pro/)<!-- TECH:END -->
+ - [Universal partners with AI startup Udio after settling copyright suit](https://www.theverge.com/news/809882/universal-music-udio-settlement)
+ - [How Android handles Hi-Res audio: An audiophile’s guide to the best sound](https://www.androidauthority.com/android-audiophile-guide-3611225/)
+ - [Bugonia is a galaxy brained masterpiece](https://www.theverge.com/entertainment/808993/bugonia-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
