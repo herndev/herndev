@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Simpler times](http://9gag.com/gag/a2v97be)
- - ⏩ [That&#39;s quite an explanation!!](http://9gag.com/gag/amoKvDj)
- - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
+ - ⏩ [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)
+ - 👉 [Everything but work](http://9gag.com/gag/a4PmEVA)<!-- MEMES:END -->
 
 ---
 
