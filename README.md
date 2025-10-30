@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Reduce Interruptions on iOS 26 and what it does](https://appleinsider.com/inside/ios-18/tips/how-to-use-reduce-interruptions-on-ios-18-and-what-it-does?utm_source=rss)
  - [Google updates Play Store policy in the US to let developers link to external app stores and payment options, following the Epic v. Google injunction &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/251029/p65#a251029p65)
- - [Android 16 QPR2 Beta 3.2 arrives with fix for annoying lock screen clock bug](https://www.androidauthority.com/android-16-qpr2-beta-3-2-3611547/)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Oct. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-oct-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android 16 QPR2 Beta 3.2 arrives with fix for annoying lock screen clock bug](https://www.androidauthority.com/android-16-qpr2-beta-3-2-3611547/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
