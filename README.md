@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bugonia ending explained: Is Emma Stone&#39;s character an alien?](https://www.polygon.com/bugonia-ending-explained-spoilers-interview-behind-the-scenes/)
- - [Roblox, which is being sued by 2 US states for endangering children, earns praise from the US Attorney General Alliance for &#39;promoting safe, more positive digital experiences&#39;](https://www.pcgamer.com/games/roblox-which-is-being-sued-by-2-us-states-for-endangering-children-earns-praise-from-the-us-attorney-general-alliance-for-promoting-safe-more-positive-digital-experiences/)
- - [17 Excellent Horror Games You Can Play For Free With Game Pass This Halloween](https://kotaku.com/game-pass-horror-halloween-pc-resident-evil-2000640197)<!-- GAME:END -->
+ - [If you want to change the appearance of Fortnite&#39;s new Sidekick pets you have to buy them again each time](https://www.pcgamer.com/games/battle-royale/if-you-want-to-change-the-appearance-of-fortnites-new-sidekick-pets-you-have-to-buy-them-again-each-time/)
+ - [Garmin Clears Out Forerunner 255, Now Selling for Peanuts in Early Black Friday Sale](https://kotaku.com/garmin-clears-out-forerunner-255-now-selling-for-peanuts-in-early-black-friday-sale-2000640217)
+ - [Mortal Kombat Legacy Kollection review: good collection, great documentary](https://www.polygon.com/mortal-kombat-legacy-kollection-review-impressions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
