@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everything but work](http://9gag.com/gag/a4PmEVA)
- - ⏩ [Simpler times](http://9gag.com/gag/a2v97be)
- - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
+ - 💣 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
+ - ⏩ [Everything but work](http://9gag.com/gag/a4PmEVA)
+ - 👉 [Simpler times](http://9gag.com/gag/a2v97be)<!-- MEMES:END -->
 
 ---
 
