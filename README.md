@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Offloads Surface Pro &lpar;512GB SSD, X Plus&rpar; at a New Low, Black Friday Starts Early](https://kotaku.com/microsoft-offloads-surface-pro-512gb-ssd-x-plus-at-a-new-low-black-friday-starts-early-2000639973)
- - [Stand up and yell &#39;PC Gamer!&#39; if you recognize the videogame patent diagrams in our latest quiz!](https://www.pcgamer.com/games/stand-up-and-yell-pc-gamer-if-you-recognize-the-videogame-patent-diagrams-in-our-latest-quiz/)
- - [A former Intel CEO is all-in on faith-based AI that will &#39;hasten the coming of Christ&#39;s return&#39; and knows his #1 target: &#39;I want Zuck to care&#39;](https://www.pcgamer.com/software/ai/a-former-intel-ceo-is-all-in-on-faith-based-ai-that-will-hasten-the-coming-of-christs-return-and-knows-his-1-target-i-want-zuck-to-care/)<!-- GAME:END -->
+ - [Anker Starts Black Friday Early, This 160W 3-Port Compact USB-C Charger Is Selling for Peanuts](https://kotaku.com/anker-starts-black-friday-early-this-160w-3-port-compact-usb-c-charger-is-selling-for-peanuts-2000639985)
+ - [If You’re a Serious Gamer, This 15″ Portable Monitor for Consoles Is Selling for Pennies](https://kotaku.com/if-youre-a-serious-gamer-this-15-portable-monitor-for-consoles-is-selling-for-pennies-2000639962)
+ - [Microsoft Offloads Surface Pro &lpar;512GB SSD, X Plus&rpar; at a New Low, Black Friday Starts Early](https://kotaku.com/microsoft-offloads-surface-pro-512gb-ssd-x-plus-at-a-new-low-black-friday-starts-early-2000639973)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
