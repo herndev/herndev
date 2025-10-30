@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoreStory, whose AI platform automates generating documentation for legacy code bases, raised a $32M Series A led by Tribeca, NEA, and SineWave &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/251029/p62#a251029p62)
- - [Samsung reports Q3 revenue up 8.85% YoY to ~$60.5B, vs. ~$60.4B est., and operating profit up 32.9% YoY to ~$8.57B, vs. ~$7.9B est., more than doubling from Q2 &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/251029/p61#a251029p61)
- - [Sources: Consensys, maker of crypto wallet MetaMask, plans to go public, with JPMorgan and Goldman Sachs leading its IPO; Consensys was valued at $7B in 2022 &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/251029/p60#a251029p60)<!-- TECH:END -->
+ - [UMG partners with AI music generator Udio to launch a subscription service for creating music with licensed songs in 2026, in part to settle a copyright lawsuit &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/251029/p64#a251029p64)
+ - [Meta, Google, and Microsoft Triple Down on AI Spending](https://www.wired.com/story/microsoft-google-meta-2025-earnings/)
+ - [Disney and YouTube settle their legal dispute over YouTube&#39;s hiring in May of former Disney executive Justin Connolly to be global head of media and sports &lpar;Dominic Patten/Deadline&rpar;](http://www.techmeme.com/251029/p63#a251029p63)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
