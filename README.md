@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canva&amp;#8217;s new &amp;#8216;Creative Operating System&amp;#8217; is actually a marketing workspace](https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch)
- - [Android 17 could bring full-screen apps to your phone’s always-on display](https://www.androidauthority.com/android-17-aod-min-mode-rumor-3611806/)
- - [This Android camera heavyweight raises the bar with 200MP telephoto and pro-grade video](https://www.androidauthority.com/vivo-x300-series-200mp-global-launch-3611428/)<!-- TECH:END -->
+ - [Google Photos looks ready to finally solve its RAW backup problem](https://www.androidauthority.com/google-photos-raw-backup-2-3611769/)
+ - [iOS 26 leak co-defendant says Jon Prosser paid him $650](https://www.theverge.com/news/810656/apple-jon-prosser-lawsuit-ios-26-leaker-michael-ramacciotti-paid)
+ - [Cellebrite leak highlights how much more secure Pixel phones are with GrapheneOS](https://www.androidauthority.com/cellebrite-leak-google-pixel-grapheneos-security-3611794/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
