@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Historical trend broken, AAPL makes big gains after earnings](https://appleinsider.com/articles/25/10/30/historical-trend-broken-aapl-makes-big-gains-after-earnings?utm_source=rss)
- - [Filing: Meta plans to raise money through bond offerings worth up to $30B; the company has said its capex next year would be &quot;notably larger&quot; than in 2025 &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251030/p53#a251030p53)
- - [Tim Cook didn&#39;t have much to say about reports of low iPhone Air sales](https://appleinsider.com/articles/25/10/30/tim-cook-didnt-have-much-to-say-about-reports-of-low-iphone-air-sales?utm_source=rss)<!-- TECH:END -->
+ - [Apple is probably done releasing Macs in 2025](https://appleinsider.com/articles/25/10/30/apple-is-probably-done-releasing-macs-in-2025?utm_source=rss)
+ - [Tim Cook didn&#39;t have much to say about reports of low iPhone Air sales](https://appleinsider.com/articles/25/10/30/tim-cook-didnt-have-much-to-say-about-reports-of-low-iphone-air-sales?utm_source=rss)
+ - [Historical trend broken, AAPL makes big gains after earnings](https://appleinsider.com/articles/25/10/30/historical-trend-broken-aapl-makes-big-gains-after-earnings?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
