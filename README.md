@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The creator of your dad&#39;s favorite TV show is writing the Call of Duty movie](https://www.pcgamer.com/movies-tv/the-creator-of-your-dads-favorite-tv-show-is-writing-the-call-of-duty-movie/)
- - [Fortnite Simpsons mini season release time in your time zone](https://www.polygon.com/fortnite-simpsons-mini-season-release-time-date-edt-pdt/)
- - [You can now twerk enemies to death in Repo thanks to the big new Monster Update—and it&#39;s free to play this weekend to celebrate](https://www.pcgamer.com/games/horror/you-can-now-twerk-enemies-to-death-in-repo-thanks-to-the-big-new-monster-update-and-its-free-to-play-this-weekend-to-celebrate/)<!-- GAME:END -->
+ - [There&#39;s a sneaky way to cheat Arc Raiders&#39; tutorial to keep your starting pistol and all the loot you find](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-tutorial-trick-keep-starting-pistol/)
+ - [Arc Raiders Joins Battlefield 6 In The War Against Goofy Skins](https://kotaku.com/arc-raiders-battlefield-6-skins-silly-cosmetics-crossover-black-ops-7-steam-2000640251)
+ - [Should you let the refugees occupy the Exclusion Zone in The Outer Worlds 2?](https://www.polygon.com/outer-worlds-2-exclusion-zone-choice/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
