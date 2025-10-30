@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s wireless vertical mouse has never been cheaper at $50](https://www.theverge.com/tech/809926/logitech-lift-webcams-desktop-speakers-nanoleaf-deal-sale)
- - [The Anker 320 Car Charger is a mere $7.99 right now!](https://www.androidauthority.com/anker-320-car-charger-deal-3611638/)
- - [Core Scientific shareholders vote to reject a $9B takeover bid by CoreWeave that proxy advisers said undervalued the data center company &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251030/p28#a251030p28)<!-- TECH:END -->
+ - [AI browsers are a cybersecurity time bomb](https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems)
+ - [Nothing&#39;s new Lock Glimpse feature on the Phone &lpar;3a&rpar; Lite shows a rotating selection of wallpapers that link to clickbait articles from a company called Vilykke &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/251030/p31#a251030p31)
+ - [Threads is giving you more control over your replies](https://www.theverge.com/news/809956/threads-reply-approvals-posts-filter-people-you-follow)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
