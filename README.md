@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Palantir CTO Shyam Sankar on surveillance, AI, the future of war, data, privacy, the US military, ImmigrationOS, the DHS, ICE, the UK&#39;s IDs, and more &lpar;New York Times&rpar;](http://www.techmeme.com/251030/p25#a251030p25)
- - [No, SNAP Benefits Aren’t Mostly Used by Immigrants](https://www.wired.com/story/disinformation-conspiracy-theories-snap-benefits/)
- - [Record-low deal: Save $100 on the BLUETTI Elite 30 V2 Power Station](https://www.androidauthority.com/bluetti-elite-30-v2-portable-power-station-3611640/)<!-- TECH:END -->
+ - [Logitech’s wireless vertical mouse has never been cheaper at $50](https://www.theverge.com/tech/809926/logitech-lift-webcams-desktop-speakers-nanoleaf-deal-sale)
+ - [The Anker 320 Car Charger is a mere $7.99 right now!](https://www.androidauthority.com/anker-320-car-charger-deal-3611638/)
+ - [Core Scientific shareholders vote to reject a $9B takeover bid by CoreWeave that proxy advisers said undervalued the data center company &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251030/p28#a251030p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
