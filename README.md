@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
- - ⏩ [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
+ - 💣 [That&#39;s quite an explanation!!](http://9gag.com/gag/amoKvDj)
+ - ⏩ [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
+ - 👉 [Simpler times](http://9gag.com/gag/a2v97be)<!-- MEMES:END -->
 
 ---
 
