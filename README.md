@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon TCG Pocket finally did something good](https://www.polygon.com/pokemon-tcg-pocket-mega-rising-share-update/)
- - [Full Screen Experience Expands to More Windows 11 Handhelds via Windows Insiders Program](https://blogs.windows.com/windows-insider/2025/10/31/announcing-windows-11-insider-preview-build-26220-7051-dev-beta-channels#new_tab)
- - [Europa Universalis 5 review](https://www.pcgamer.com/games/strategy/europa-universalis-5-review/)<!-- GAME:END -->
+ - [Vote for the best horror game of the year from our 6 nominees](https://www.polygon.com/best-horror-games-of-2025/)
+ - [Japanese patent officials reject one of Nintendo&#39;s Pokémon patent applications for being too similar to ARK, Monster Hunter, and—embarrasingly—Pokémon Go](https://www.pcgamer.com/gaming-industry/japanese-patent-officials-reject-one-of-nintendos-pokemon-patent-applications-for-being-too-similar-to-ark-monster-hunter-and-embarrasingly-pokemon-go/)
+ - [Official PlayStation Podcast Episode 527: Pod x Pit](https://blog.playstation.com/2025/10/31/official-playstation-podcast-episode-527-pod-x-pit/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
