@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEC filing: Snowflake says an executive shared unauthorized financial guidance with an Instagram influencer; an Oct. 26 video interview features CRO Mike Gannon &lpar;Alice Tecotzky/Business Insider&rpar;](http://www.techmeme.com/251030/p59#a251030p59)
- - [Microsoft&amp;#8217;s agent platform play](https://www.theverge.com/tech/809889/github-agent-hq-platform-play-microsoft-jared-palmer-jay-parikh)
- - [Chilkey ND104 review: Extremely solid construction for a mechanical keyboard](https://appleinsider.com/articles/25/10/31/chilkey-nd104-review-extremely-solid-construction-for-a-mechanical-keyboard?utm_source=rss)<!-- TECH:END -->
+ - [Amazon CEO Andy Jassy says the 14,000-person layoffs were due to &quot;culture&quot; and &quot;removing layers&quot; from its internal structure, not really AI or financial factors &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/251030/p60#a251030p60)
+ - [JP Morgan hikes Apple stock target to $305, second increase in a week](https://appleinsider.com/articles/25/10/31/jp-morgan-hikes-apple-stock-target-to-305-second-increase-in-a-week?utm_source=rss)
+ - [Chrome’s latest experiment could change how you start a search](https://www.androidauthority.com/chrome-nano-banana-deep-search-shortcuts-3611886/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
