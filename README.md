@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stellar Blade Dev Weighs In On Controversy About Mocking Small Penises](https://kotaku.com/stellar-blade-shift-up-crab-hand-small-penis-hateful-expression-apology-nikke-2000640487)
- - [Betting Markets Have Decided Silksong Doesn’t Have A Chance In Hell Of Winning Game Of The Year](https://kotaku.com/game-awards-2025-goty-race-polymarket-clair-obscur-2000640468)
- - [HP Drops Early Black Friday Deal, 16″ Gaming Laptop Going for Nearly Free on Amazon](https://kotaku.com/hp-drops-early-black-friday-deal-16-gaming-laptop-going-for-nearly-free-on-amazon-2000640287)<!-- GAME:END -->
+ - [Pokémon TCG Pocket finally did something good](https://www.polygon.com/pokemon-tcg-pocket-mega-rising-share-update/)
+ - [Full Screen Experience Expands to More Windows 11 Handhelds via Windows Insiders Program](https://blogs.windows.com/windows-insider/2025/10/31/announcing-windows-11-insider-preview-build-26220-7051-dev-beta-channels#new_tab)
+ - [Europa Universalis 5 review](https://www.pcgamer.com/games/strategy/europa-universalis-5-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
