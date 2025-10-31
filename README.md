@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mouthwashing Bundle Features 13 Great Horror Games For Just $13](https://kotaku.com/free-horror-games-halloween-bundle-cheap-discount-2000640518)
- - [Where to find Fireballs in Arc Raiders](https://www.polygon.com/arc-raiders-fireballs-burners-location/)
- - [Hazbin Hotel lore explained: Everything to know for season 2 that the show doesn&#39;t tell you](https://www.polygon.com/hazbin-hotel-lore-guide-sinners-hellborn-lucifer/)<!-- GAME:END -->
+ - [The best Xbox Game Pass games to play this weekend &lpar;Oct. 31-Nov. 2 2025&rpar;](https://www.polygon.com/game-pass-games-rec-weekend-oct-31-2025/)
+ - [The Outer Worlds 2 interactive maps](https://www.polygon.com/map/the-outer-worlds-2-interactive-maps-free-market-horizon-point-station/)
+ - [GTA 6 Denies Union Busting After Firing Dozens Of Developers](https://kotaku.com/gta-6-rockstar-games-union-busting-delay-2000640525)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
