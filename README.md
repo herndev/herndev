@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle clues, hints and answer for October 31 &lpar;#1595&rpar;](https://www.pcgamer.com/games/puzzle/wordle-answer-today-october-31-2025/)
- - [Arc Raiders&#39; use of AI highlights the tension and confusion over where machine learning ends and generative AI begins](https://www.pcgamer.com/gaming-industry/arc-raiders-use-of-ai-highlights-the-tension-and-confusion-over-where-machine-learning-ends-and-generative-ai-begins/)
- - [The Horus Heresy books reading order: Where to start and where to stop with Warhammer 40,000&#39;s massive prequel series](https://www.pcgamer.com/games/the-horus-heresy-books-reading-order-where-to-start-and-where-to-stop-with-warhammer-40-000s-massive-prequel-series/)<!-- GAME:END -->
+ - [The Ward, John Carpenter&#39;s final film, deserves to be reclaimed](https://www.polygon.com/john-carpenter-most-underrated-movie-streaming-free-halloween/)
+ - [Where to find a supply drop and call station in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/supply-drop-call-station-location/)
+ - [Game Awards 2025: All Game of the Year front-runners and predictions](https://www.polygon.com/awards/546327/game-of-the-year-game-awards-2025-frontrunners/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
