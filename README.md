@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clear signals, unlike her](http://9gag.com/gag/a0ezZzz)
- - ⏩ [Say again, bro](http://9gag.com/gag/aXPQoWP)
- - 👉 [Fake it till you make it.](http://9gag.com/gag/a4Pm1mQ)<!-- MEMES:END -->
+ - 💣 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - ⏩ [Simpler times](http://9gag.com/gag/a2v97be)
+ - 👉 [Nature is healing](http://9gag.com/gag/adBrg0j)<!-- MEMES:END -->
 
 ---
 
