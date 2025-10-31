@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The solution we never saw coming](http://9gag.com/gag/avy4Qjb)
- - ⏩ [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)
- - 👉 [The cat climbed in to meet her dog friend&#39;s new babies.](http://9gag.com/gag/aoyAKbn)<!-- MEMES:END -->
+ - 💣 [E-scooter that can do 110 km/h &lpar;68 mph&rpar;](http://9gag.com/gag/ayNZN9p)
+ - ⏩ [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 👉 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)<!-- MEMES:END -->
 
 ---
 
