@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is probably done releasing Macs in 2025](https://appleinsider.com/articles/25/10/30/apple-is-probably-done-releasing-macs-in-2025?utm_source=rss)
- - [Tim Cook didn&#39;t have much to say about reports of low iPhone Air sales](https://appleinsider.com/articles/25/10/30/tim-cook-didnt-have-much-to-say-about-reports-of-low-iphone-air-sales?utm_source=rss)
- - [Historical trend broken, AAPL makes big gains after earnings](https://appleinsider.com/articles/25/10/30/historical-trend-broken-aapl-makes-big-gains-after-earnings?utm_source=rss)<!-- TECH:END -->
+ - [Twilio reports Q3 revenue up 15% YoY to $1.3B vs. $1.25B est., forecasts Q4 sales above est., agrees to buy identity platform Stytch; TWLO jumps 8%+ after hours &lpar;Chris Ciaccia/Seeking Alpha&rpar;](http://www.techmeme.com/251030/p57#a251030p57)
+ - [OpenAI starts to sell extra credits for Sora, which currently has a limit of 30 free gens per day; 10 video gens will retail for $4 through Apple&#39;s App Store &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/251030/p56#a251030p56)
+ - [Amazon reports a $9.5B pre-tax gain from its investment in Anthropic, which was included in the company&#39;s non-operating income for Q3 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251030/p55#a251030p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
