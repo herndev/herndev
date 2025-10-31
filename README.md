@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The realization](http://9gag.com/gag/awyPMKx)
- - ⏩ [Nature is healing](http://9gag.com/gag/adBrg0j)
- - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
+ - 💣 [FREDDY KRUEGER - &quot;DREAMER&#39;S PARADISE...&quot; &lpar;GANGSTA’S PARADISE PARODY&rpar;](https://www.reddit.com/r/funny/comments/1okjzlf/freddy_krueger_dreamers_paradise_gangstas/)
+ - ⏩ [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
+ - 👉 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)<!-- MEMES:END -->
 
 ---
 
