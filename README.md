@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Somewhere, in a distant marketing department, someone is trying not to laugh](https://www.reddit.com/r/funny/comments/1okv9xf/somewhere_in_a_distant_marketing_department/)
- - ⏩ [Useless facts.](http://9gag.com/gag/aO8AQ7D)
- - 👉 [Need to go here now. This bench is a dream](http://9gag.com/gag/aPAzZ7G)<!-- MEMES:END -->
+ - 💣 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
+ - ⏩ [Leo just playing himself on screen](http://9gag.com/gag/azxoeyx)
+ - 👉 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)<!-- MEMES:END -->
 
 ---
 
