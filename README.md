@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twilio reports Q3 revenue up 15% YoY to $1.3B vs. $1.25B est., forecasts Q4 sales above est., agrees to buy identity platform Stytch; TWLO jumps 8%+ after hours &lpar;Chris Ciaccia/Seeking Alpha&rpar;](http://www.techmeme.com/251030/p57#a251030p57)
- - [OpenAI starts to sell extra credits for Sora, which currently has a limit of 30 free gens per day; 10 video gens will retail for $4 through Apple&#39;s App Store &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/251030/p56#a251030p56)
- - [Amazon reports a $9.5B pre-tax gain from its investment in Anthropic, which was included in the company&#39;s non-operating income for Q3 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251030/p55#a251030p55)<!-- TECH:END -->
+ - [Microsoft&amp;#8217;s agent platform play](https://www.theverge.com/tech/809889/github-agent-hq-platform-play-microsoft-jared-palmer-jay-parikh)
+ - [Chilkey ND104 review: Extremely solid construction for a mechanical keyboard](https://appleinsider.com/articles/25/10/31/chilkey-nd104-review-extremely-solid-construction-for-a-mechanical-keyboard?utm_source=rss)
+ - [Cloudflare reports Q3 revenue up 31% YoY to $562M, vs. $544.6M est., and forecasts Q4 revenue of $589M, vs. $580M est.; NET jumps 9%+ after hours &lpar;Reinhardt Krause/Investor&#39;s Business ...&rpar;](http://www.techmeme.com/251030/p58#a251030p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
