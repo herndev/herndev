@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [FREDDY KRUEGER - &quot;DREAMER&#39;S PARADISE...&quot; &lpar;GANGSTA’S PARADISE PARODY&rpar;](https://www.reddit.com/r/funny/comments/1okjzlf/freddy_krueger_dreamers_paradise_gangstas/)
- - ⏩ [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
- - 👉 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)<!-- MEMES:END -->
+ - 💣 [Clear signals, unlike her](http://9gag.com/gag/a0ezZzz)
+ - ⏩ [Say again, bro](http://9gag.com/gag/aXPQoWP)
+ - 👉 [Fake it till you make it.](http://9gag.com/gag/a4Pm1mQ)<!-- MEMES:END -->
 
 ---
 
