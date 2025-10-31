@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This leaked OnePlus flagship looks like a better bet than the OnePlus 15](https://www.androidauthority.com/oneplus-15-t-s-small-flagship-leak-3611928/)
- - [Doomscrolling on the go? One UI 8.5 could help save your limited data plan &lpar;APK teardown&rpar;](https://www.androidauthority.com/one-ui-8-5-adaptive-data-saver-apk-teardown-3611924/)
- - [Samsung says it&#39;s partnering with Nvidia to build an &quot;AI Megafactory&quot; and deploy over 50K of Nvidia&#39;s most advanced GPUs to embed AI in its chipmaking process &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251031/p3#a251031p3)<!-- TECH:END -->
+ - [YouTube is revamping its TV app to mimic paid streamers like Netflix, organizing videos by seasons and episodes, blurring the lines between pro and user content &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/251031/p4#a251031p4)
+ - [Want to Stay Active as You Age? These Exercises Can Help](https://www.cnet.com/health/fitness/want-to-stay-active-as-you-age-these-exercises-can-help/#ftag=CAD590a51e)
+ - [This leaked OnePlus flagship looks like a better bet than the OnePlus 15](https://www.androidauthority.com/oneplus-15-t-s-small-flagship-leak-3611928/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
