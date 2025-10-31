@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Govee’s colorful new smart plug could replace your power strip and lamp](https://www.androidauthority.com/govee-smart-plug-outlet-extender-launched-3612068/)
- - [What Apple could buy, instead of spending $3.4 billion on tariffs in 2025](https://appleinsider.com/articles/25/10/31/what-apple-could-buy-instead-of-spending-34-billion-on-tariffs-in-2025?utm_source=rss)
- - [Tether reports that it has generated profits of over $10B during the first three quarters of 2025 and it has issued an additional $17B in USDT during Q3 &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/251031/p16#a251031p16)<!-- TECH:END -->
+ - [Our Favorite Premium TV Is $500 Off](https://www.wired.com/story/lg-g5-oled-deal-1025/)
+ - [Hackers threaten to leak ‘woke’ University of Pennsylvania student data](https://www.theverge.com/news/811600/university-of-pennsylvania-hack-woke)
+ - [Adobe’s experimental AI tool can edit entire videos using one frame](https://www.theverge.com/news/811602/adobe-max-2025-sneaks-projects)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
