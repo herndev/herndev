@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
+ - 💣 [The realization](http://9gag.com/gag/awyPMKx)
  - ⏩ [Nature is healing](http://9gag.com/gag/adBrg0j)
- - 👉 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)<!-- MEMES:END -->
+ - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
 
 ---
 
