@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gloomy Eyes is a Tim Burton film in video game form](https://www.polygon.com/gloomy-eyes-review-spooky-cute-puzzler-halloween/)
- - [How Every Kilometer Tells a Story in Truck Driver: The Dutch Connection](https://news.xbox.com/en-us/2025/10/31/every-kilometer-tells-story-truck-driver-the-dutch-connection/)
- - [Final Fantasy 14 says screw it, you want healers in platemail, you can have them—promises to remove all class and level restrictions on glamour](https://www.pcgamer.com/games/mmo/final-fantasy-14-says-screw-it-you-want-healers-in-platemail-you-can-have-them-promises-to-remove-all-class-and-level-restrictions-on-glamour/)<!-- GAME:END -->
+ - [Stellar Blade Dev Weighs In On Controversy About Mocking Small Penises](https://kotaku.com/stellar-blade-shift-up-crab-hand-small-penis-hateful-expression-apology-nikke-2000640487)
+ - [Betting Markets Have Decided Silksong Doesn’t Have A Chance In Hell Of Winning Game Of The Year](https://kotaku.com/game-awards-2025-goty-race-polymarket-clair-obscur-2000640468)
+ - [HP Drops Early Black Friday Deal, 16″ Gaming Laptop Going for Nearly Free on Amazon](https://kotaku.com/hp-drops-early-black-friday-deal-16-gaming-laptop-going-for-nearly-free-on-amazon-2000640287)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
