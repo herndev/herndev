@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Reviews For Netflix’s Witcher Season 4 Are Pretty Bad](https://kotaku.com/netflix-witcher-season-4-reviews-liam-hemsworth-2000640506)
- - [It’s Halloween Again, Let’s Rank The Best Ghost-Type Pokémon](https://kotaku.com/pokemon-ghost-type-gengar-mimikyu-giratina-yamask-1850968054)
- - [The Arc Raiders roadmap promises a new map in November, a fresh Raider Deck battle pass for December, and more](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-2025-roadmap/)<!-- GAME:END -->
+ - [Mouthwashing Bundle Features 13 Great Horror Games For Just $13](https://kotaku.com/free-horror-games-halloween-bundle-cheap-discount-2000640518)
+ - [Where to find Fireballs in Arc Raiders](https://www.polygon.com/arc-raiders-fireballs-burners-location/)
+ - [Hazbin Hotel lore explained: Everything to know for season 2 that the show doesn&#39;t tell you](https://www.polygon.com/hazbin-hotel-lore-guide-sinners-hellborn-lucifer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
