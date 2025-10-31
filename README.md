@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
- - ⏩ [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 💣 [Giant sandwich in usa](http://9gag.com/gag/aLnVpE5)
+ - ⏩ [Leo just playing himself on screen](http://9gag.com/gag/azxoeyx)
  - 👉 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)<!-- MEMES:END -->
 
 ---
