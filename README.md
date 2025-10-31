@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends: Z-A made the six-Pokémon party completely irrelevant](https://www.polygon.com/pokemon-legends-z-a-plza-six-pokemon-party/)
- - [The Iconic Spider-Man 2 Train Scene Comes to LEGO, Now Selling for Pennies on Amazon](https://kotaku.com/the-iconic-spider-man-2-train-scene-comes-to-lego-now-selling-for-pennies-on-amazon-2000640308)
- - [How to complete A First Foothold in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-a-first-foothold-quest-walkthrough/)<!-- GAME:END -->
+ - [Nearly two decades on, Hellsing Ultimate still reigns as the definitive vampire anime](https://www.polygon.com/hellsing-ultimate-review-vampire-horror-anime/)
+ - [Next Week on Xbox: New Games for November 3 to 7](https://news.xbox.com/en-us/2025/10/31/next-week-on-xbox-new-games-for-november-3-to-7/)
+ - [Amazon Is Offloading Samsung’s SSDs Before Black Friday, 990 EVO Plus Now Going for Peanuts](https://kotaku.com/amazon-is-offloading-samsungs-ssds-before-black-friday-990-evo-plus-now-going-for-peanuts-2000640283)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
