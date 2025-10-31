@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SEC filing: Snowflake says an executive shared unauthorized financial guidance with an Instagram influencer; an Oct. 26 video interview features CRO Mike Gannon &lpar;Alice Tecotzky/Business Insider&rpar;](http://www.techmeme.com/251030/p59#a251030p59)
  - [Microsoft&amp;#8217;s agent platform play](https://www.theverge.com/tech/809889/github-agent-hq-platform-play-microsoft-jared-palmer-jay-parikh)
- - [Chilkey ND104 review: Extremely solid construction for a mechanical keyboard](https://appleinsider.com/articles/25/10/31/chilkey-nd104-review-extremely-solid-construction-for-a-mechanical-keyboard?utm_source=rss)
- - [Cloudflare reports Q3 revenue up 31% YoY to $562M, vs. $544.6M est., and forecasts Q4 revenue of $589M, vs. $580M est.; NET jumps 9%+ after hours &lpar;Reinhardt Krause/Investor&#39;s Business ...&rpar;](http://www.techmeme.com/251030/p58#a251030p58)<!-- TECH:END -->
+ - [Chilkey ND104 review: Extremely solid construction for a mechanical keyboard](https://appleinsider.com/articles/25/10/31/chilkey-nd104-review-extremely-solid-construction-for-a-mechanical-keyboard?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
