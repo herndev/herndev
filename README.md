@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - ⏩ [Simpler times](http://9gag.com/gag/a2v97be)
- - 👉 [Strike](http://9gag.com/gag/axyQoPD)<!-- MEMES:END -->
+ - 💣 [Goal of the Year in 2004 in the Netherlands, Zlatan Ibrahimovi\u0107.](http://9gag.com/gag/axyQBOn)
+ - ⏩ [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
+ - 👉 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)<!-- MEMES:END -->
 
 ---
 
