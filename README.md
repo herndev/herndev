@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pony.ai becomes the first company to receive a citywide robotaxi permit for Shenzhen, allowing self-driving taxis to operate beyond pilot zones &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/251031/p13#a251031p13)
- - [All the records Apple said it broke in Q4 2025](https://appleinsider.com/articles/25/10/30/here-are-all-the-records-apple-said-broke-in-q4-2025-on-the-earnings-call?utm_source=rss)
- - [Bose QuietComfort Ultra headphones drop to record-low price, saving you a whole $100](https://www.androidauthority.com/bose-quietcomfort-ultra-headphones-deal-2-3611979/)<!-- TECH:END -->
+ - [M5 Apple Vision Pro vs. Samsung Galaxy XR: Processing power vs. AI](https://appleinsider.com/inside/apple-vision-pro/vs/m5-apple-vision-pro-vs-samsung-galaxy-xr-processing-power-vs-ai?utm_source=rss)
+ - [These Yaber projector deals are pretty incredible!](https://www.androidauthority.com/yaber-l2s-t2-projector-deals-3611978/)
+ - [In their latest earnings reports, Meta, Alphabet, Microsoft, and Amazon have announced plans to increase their AI spending in 2026 to a combined $400B &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/251031/p14#a251031p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
