@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - ⏩ [Simpler times](http://9gag.com/gag/a2v97be)
- - 👉 [Nature is healing](http://9gag.com/gag/adBrg0j)<!-- MEMES:END -->
+ - 💣 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
+ - ⏩ [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
+ - 👉 [Simpler times](http://9gag.com/gag/a2v97be)<!-- MEMES:END -->
 
 ---
 
