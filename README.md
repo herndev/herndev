@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Giant sandwich in usa](http://9gag.com/gag/aLnVpE5)
- - ⏩ [Leo just playing himself on screen](http://9gag.com/gag/azxoeyx)
- - 👉 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)<!-- MEMES:END -->
+ - 💣 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
+ - ⏩ [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
+ - 👉 [Simpler times](http://9gag.com/gag/a2v97be)<!-- MEMES:END -->
 
 ---
 
