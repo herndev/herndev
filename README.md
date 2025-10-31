@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TD Cowen joins chorus, raises AAPL target to $325](https://appleinsider.com/articles/25/10/31/td-cowen-joins-chorus-raises-aapl-target-to-325?utm_source=rss)
- - [20+ Gifts for Women Who’ve Checked Out of Planet Earth &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-women-who-are-over-this-planet/)
- - [YouTube Music on Wear OS shows signs of Material 3 Expressive revamp](https://www.androidauthority.com/youtube-music-wear-os-material-3-expressive-3611971/)<!-- TECH:END -->
+ - [Historical trend broken, AAPL makes big gains after earnings](https://appleinsider.com/articles/25/10/30/historical-trend-broken-aapl-makes-big-gains-after-earnings?utm_source=rss)
+ - [ESPN, ABC, and other Disney channels go dark on YouTube TV](https://www.theverge.com/news/811316/youtube-tv-disney-channels-pulled-deal-renewal)
+ - [Why your cheap lens protector might be holding back your photos](https://www.androidauthority.com/cheap-camera-lens-protectors-3610412/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
