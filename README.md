@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is revamping its TV app to mimic paid streamers like Netflix, organizing videos by seasons and episodes, blurring the lines between pro and user content &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/251031/p4#a251031p4)
- - [Want to Stay Active as You Age? These Exercises Can Help](https://www.cnet.com/health/fitness/want-to-stay-active-as-you-age-these-exercises-can-help/#ftag=CAD590a51e)
- - [This leaked OnePlus flagship looks like a better bet than the OnePlus 15](https://www.androidauthority.com/oneplus-15-t-s-small-flagship-leak-3611928/)<!-- TECH:END -->
+ - [YouTube TV subscribers pay the price for its fued with Disney](https://www.androidauthority.com/disney-channels-taken-off-youtube-tv-3611944/)
+ - [The US CBP signs a two-year deal with AI logistics company Altana, and will use its platform for real-time trade enforcement, forced labor detection, and more &lpar;Mackenzie Weinger/Axios&rpar;](http://www.techmeme.com/251031/p6#a251031p6)
+ - [Letter: Nexperia suspends supplies of wafers to its Chinese assembly plant, citing a failure to &quot;comply with the agreed contractual payment terms&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251031/p5#a251031p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
