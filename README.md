@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
- - ⏩ [Leo just playing himself on screen](http://9gag.com/gag/azxoeyx)
- - 👉 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)<!-- MEMES:END -->
+ - ⏩ [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 👉 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)<!-- MEMES:END -->
 
 ---
 
