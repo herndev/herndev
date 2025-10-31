@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vote for the best horror game of the year from our 6 nominees](https://www.polygon.com/best-horror-games-of-2025/)
- - [Japanese patent officials reject one of Nintendo&#39;s Pokémon patent applications for being too similar to ARK, Monster Hunter, and—embarrasingly—Pokémon Go](https://www.pcgamer.com/gaming-industry/japanese-patent-officials-reject-one-of-nintendos-pokemon-patent-applications-for-being-too-similar-to-ark-monster-hunter-and-embarrasingly-pokemon-go/)
- - [Official PlayStation Podcast Episode 527: Pod x Pit](https://blog.playstation.com/2025/10/31/official-playstation-podcast-episode-527-pod-x-pit/)<!-- GAME:END -->
+ - [Reviews For Netflix’s Witcher Season 4 Are Pretty Bad](https://kotaku.com/netflix-witcher-season-4-reviews-liam-hemsworth-2000640506)
+ - [It’s Halloween Again, Let’s Rank The Best Ghost-Type Pokémon](https://kotaku.com/pokemon-ghost-type-gengar-mimikyu-giratina-yamask-1850968054)
+ - [The Arc Raiders roadmap promises a new map in November, a fresh Raider Deck battle pass for December, and more](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-2025-roadmap/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
