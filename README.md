@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Black Friday deal: The Apple MacBook Air M2 is just $649!](https://www.androidauthority.com/apple-macbook-air-m2-deal-16-3611980/)
- - [Apple earnings, OLED iPad mini, and Affinity&#39;s new apps, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/31/apple-earnings-oled-ipad-mini-and-affinitys-new-apps-on-the-appleinsider-podcast?utm_source=rss)
- - [Perplexity launches a free AI-powered patent research tool in beta to let users search for patents using natural language queries &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251031/p11#a251031p11)<!-- TECH:END -->
+ - [Pony.ai becomes the first company to receive a citywide robotaxi permit for Shenzhen, allowing self-driving taxis to operate beyond pilot zones &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/251031/p13#a251031p13)
+ - [All the records Apple said it broke in Q4 2025](https://appleinsider.com/articles/25/10/30/here-are-all-the-records-apple-said-broke-in-q4-2025-on-the-earnings-call?utm_source=rss)
+ - [Bose QuietComfort Ultra headphones drop to record-low price, saving you a whole $100](https://www.androidauthority.com/bose-quietcomfort-ultra-headphones-deal-2-3611979/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
