@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 Apple Vision Pro vs. Samsung Galaxy XR: Processing power vs. AI](https://appleinsider.com/inside/apple-vision-pro/vs/m5-apple-vision-pro-vs-samsung-galaxy-xr-processing-power-vs-ai?utm_source=rss)
- - [These Yaber projector deals are pretty incredible!](https://www.androidauthority.com/yaber-l2s-t2-projector-deals-3611978/)
- - [In their latest earnings reports, Meta, Alphabet, Microsoft, and Amazon have announced plans to increase their AI spending in 2026 to a combined $400B &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/251031/p14#a251031p14)<!-- TECH:END -->
+ - [Govee’s colorful new smart plug could replace your power strip and lamp](https://www.androidauthority.com/govee-smart-plug-outlet-extender-launched-3612068/)
+ - [What Apple could buy, instead of spending $3.4 billion on tariffs in 2025](https://appleinsider.com/articles/25/10/31/what-apple-could-buy-instead-of-spending-34-billion-on-tariffs-in-2025?utm_source=rss)
+ - [Tether reports that it has generated profits of over $10B during the first three quarters of 2025 and it has issued an additional $17B in USDT during Q3 &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/251031/p16#a251031p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
