@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [15% Off Dyson Promo Codes | November 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [30% Off Samsung Promo Code | November 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [You’re too old to get why Sam Altman just renamed ChatGPT 6 as ‘GPT 6‑7’](https://www.androidauthority.com/chatgpt-6-7-3611915/)<!-- TECH:END -->
+ - [Samsung says it&#39;s partnering with Nvidia to build an &quot;AI Megafactory&quot; and deploy over 50K of Nvidia&#39;s most advanced GPUs to embed AI in its chipmaking process &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251031/p3#a251031p3)
+ - [Ofcom chief Melanie Dawes warns social media companies to prove their algorithms protect under-18s from seeing harmful content, or face enforcement action &lpar;Dan Thomas/Financial Times&rpar;](http://www.techmeme.com/251031/p2#a251031p2)
+ - [15% Off Dyson Promo Codes | November 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
