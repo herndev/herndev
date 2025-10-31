@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Xbox Game Pass games to play this weekend &lpar;Oct. 31-Nov. 2 2025&rpar;](https://www.polygon.com/game-pass-games-rec-weekend-oct-31-2025/)
- - [The Outer Worlds 2 interactive maps](https://www.polygon.com/map/the-outer-worlds-2-interactive-maps-free-market-horizon-point-station/)
- - [GTA 6 Denies Union Busting After Firing Dozens Of Developers](https://kotaku.com/gta-6-rockstar-games-union-busting-delay-2000640525)<!-- GAME:END -->
+ - [Where to find compression coils for &quot;Hazard a Gas&quot; in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-compression-coil-locations-hazard-gas-where-to-find/)
+ - [Forget the Stinky Gas Generator, Jackery’s 1500W Power Station Is Going for Pennies on Amazon](https://kotaku.com/forget-the-stinky-gas-generator-jackerys-1500w-power-station-is-going-for-pennies-on-amazon-2000640169)
+ - [One Of The Biggest Games In The World Responds To Criticism That Its Dark-Skinned Characters Are ‘Invisible’](https://kotaku.com/love-and-deepspace-dark-skinned-lighting-invisible-2000640537)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
