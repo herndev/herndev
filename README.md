@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a horrible time to become aware of your mortality.](http://9gag.com/gag/aqyBGOM)
- - ⏩ [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
- - 👉 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)<!-- MEMES:END -->
+ - 💣 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
+ - ⏩ [Nature is healing](http://9gag.com/gag/adBrg0j)
+ - 👉 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)<!-- MEMES:END -->
 
 ---
 
