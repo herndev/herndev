@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nature is healing](http://9gag.com/gag/adBrg0j)
- - ⏩ [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - 👉 [The realization](http://9gag.com/gag/awyPMKx)<!-- MEMES:END -->
+ - 💣 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - ⏩ [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
+ - 👉 [Simpler times](http://9gag.com/gag/a2v97be)<!-- MEMES:END -->
 
 ---
 
