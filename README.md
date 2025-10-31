@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
- - ⏩ [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
- - 👉 [The realization](http://9gag.com/gag/awyPMKx)<!-- MEMES:END -->
+ - 💣 [What a horrible time to become aware of your mortality.](http://9gag.com/gag/aqyBGOM)
+ - ⏩ [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
+ - 👉 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)<!-- MEMES:END -->
 
 ---
 
