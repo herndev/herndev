@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Simpler times](http://9gag.com/gag/a2v97be)
- - ⏩ [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
- - 👉 [I found it!](https://www.reddit.com/r/funny/comments/1ol32u6/i_found_it/)<!-- MEMES:END -->
+ - 💣 [Why is it always the white people who are offended by the jokes even the friends don&#39;t mind?](http://9gag.com/gag/a9yZqWD)
+ - ⏩ [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)
+ - 👉 [The solution we never saw coming](http://9gag.com/gag/avy4Qjb)<!-- MEMES:END -->
 
 ---
 
