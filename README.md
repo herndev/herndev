@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft releases an Xbox Full Screen Experience preview for the MSI Claw](https://www.theverge.com/news/811826/microsoft-xbox-full-screen-experience-fse-msi-claw-windows-11-insider)
- - [Archy, which offers AI-powered dental practice management software, raised a $20M Series B led by TCV, bringing its total funding to $47M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251031/p18#a251031p18)
- - [Meta Claims Downloaded Porn at Center of AI Lawsuit Was for ‘Personal Use’](https://www.wired.com/story/meta-claims-downloaded-porn-at-center-of-ai-lawsuit-was-for-personal-use/)<!-- TECH:END -->
+ - [Here are the shipping and return policies for all the big-name retailers](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)
+ - [What Apple could buy, instead of spending $3.4 billion on tariffs in 2025](https://appleinsider.com/articles/25/10/31/what-apple-could-buy-instead-of-spending-34-billion-on-tariffs-in-2025?utm_source=rss)
+ - [Microsoft&#39;s Q1 earnings, showing that it had a $3.1B net loss from its OpenAI stake, imply OpenAI lost $11.5B during the quarter based on Microsoft&#39;s 27% stake &lpar;Matt Rosoff/The Register&rpar;](http://www.techmeme.com/251031/p19#a251031p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
