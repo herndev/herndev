@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Arc Raiders&#39; use of AI highlights the tension and confusion over where machine learning ends and generative AI begins](https://www.pcgamer.com/gaming-industry/arc-raiders-use-of-ai-highlights-the-tension-and-confusion-over-where-machine-learning-ends-and-generative-ai-begins/)
  - [The Horus Heresy books reading order: Where to start and where to stop with Warhammer 40,000&#39;s massive prequel series](https://www.pcgamer.com/games/the-horus-heresy-books-reading-order-where-to-start-and-where-to-stop-with-warhammer-40-000s-massive-prequel-series/)
- - [Anker’s Open-Ear Headphones Slash 53% Off, Now Nearly Free for Early Black Friday](https://kotaku.com/ankers-open-ear-headphones-slash-53-off-now-nearly-free-for-early-black-friday-2000640322)
- - [How to get Stareweed in 99 Nights in the Forest](https://www.pcgamer.com/roblox/99-nights-in-the-forest-stareweed/)<!-- GAME:END -->
+ - [Anker’s Open-Ear Headphones Slash 53% Off, Now Nearly Free for Early Black Friday](https://kotaku.com/ankers-open-ear-headphones-slash-53-off-now-nearly-free-for-early-black-friday-2000640322)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
