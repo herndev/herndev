@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Florida Man](https://www.reddit.com/r/funny/comments/1oku3xr/florida_man/)
- - ⏩ [Everything but work](http://9gag.com/gag/a4PmEVA)
- - 👉 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)<!-- MEMES:END -->
+ - 💣 [Somewhere, in a distant marketing department, someone is trying not to laugh](https://www.reddit.com/r/funny/comments/1okv9xf/somewhere_in_a_distant_marketing_department/)
+ - ⏩ [Useless facts.](http://9gag.com/gag/aO8AQ7D)
+ - 👉 [Need to go here now. This bench is a dream](http://9gag.com/gag/aPAzZ7G)<!-- MEMES:END -->
 
 ---
 
