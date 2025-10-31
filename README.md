@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the shipping and return policies for all the big-name retailers](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)
- - [What Apple could buy, instead of spending $3.4 billion on tariffs in 2025](https://appleinsider.com/articles/25/10/31/what-apple-could-buy-instead-of-spending-34-billion-on-tariffs-in-2025?utm_source=rss)
- - [Microsoft&#39;s Q1 earnings, showing that it had a $3.1B net loss from its OpenAI stake, imply OpenAI lost $11.5B during the quarter based on Microsoft&#39;s 27% stake &lpar;Matt Rosoff/The Register&rpar;](http://www.techmeme.com/251031/p19#a251031p19)<!-- TECH:END -->
+ - [Brian Armstrong deliberately used certain words during Coinbase&#39;s Q3 call to sway $84,000 in bets on Kalshi and Polymarket over which terms would be mentioned &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p20#a251031p20)
+ - [Nancy Mace Curses, Berates Confused Cops in Airport Meltdown: Police Report](https://www.wired.com/story/nancy-mace-berates-cops-airport-meltdown/)
+ - [Samsung is working on a follow-up to its best mid-ranger of 2025](https://www.androidauthority.com/samsung-galaxy-a57-model-number-3612174/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
