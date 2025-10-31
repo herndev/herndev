@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why is it always the white people who are offended by the jokes even the friends don&#39;t mind?](http://9gag.com/gag/a9yZqWD)
+ - 💣 [The solution we never saw coming](http://9gag.com/gag/avy4Qjb)
  - ⏩ [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)
- - 👉 [The solution we never saw coming](http://9gag.com/gag/avy4Qjb)<!-- MEMES:END -->
+ - 👉 [The cat climbed in to meet her dog friend&#39;s new babies.](http://9gag.com/gag/aoyAKbn)<!-- MEMES:END -->
 
 ---
 
