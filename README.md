@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Historical trend broken, AAPL makes big gains after earnings](https://appleinsider.com/articles/25/10/30/historical-trend-broken-aapl-makes-big-gains-after-earnings?utm_source=rss)
- - [ESPN, ABC, and other Disney channels go dark on YouTube TV](https://www.theverge.com/news/811316/youtube-tv-disney-channels-pulled-deal-renewal)
- - [Why your cheap lens protector might be holding back your photos](https://www.androidauthority.com/cheap-camera-lens-protectors-3610412/)<!-- TECH:END -->
+ - [Early Black Friday deal: The Apple MacBook Air M2 is just $649!](https://www.androidauthority.com/apple-macbook-air-m2-deal-16-3611980/)
+ - [Apple earnings, OLED iPad mini, and Affinity&#39;s new apps, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/31/apple-earnings-oled-ipad-mini-and-affinitys-new-apps-on-the-appleinsider-podcast?utm_source=rss)
+ - [Perplexity launches a free AI-powered patent research tool in beta to let users search for patents using natural language queries &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251031/p11#a251031p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
