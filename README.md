@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find compression coils for &quot;Hazard a Gas&quot; in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-compression-coil-locations-hazard-gas-where-to-find/)
- - [Forget the Stinky Gas Generator, Jackery’s 1500W Power Station Is Going for Pennies on Amazon](https://kotaku.com/forget-the-stinky-gas-generator-jackerys-1500w-power-station-is-going-for-pennies-on-amazon-2000640169)
- - [One Of The Biggest Games In The World Responds To Criticism That Its Dark-Skinned Characters Are ‘Invisible’](https://kotaku.com/love-and-deepspace-dark-skinned-lighting-invisible-2000640537)<!-- GAME:END -->
+ - [The proof is undeniable: People will still pay for great shooters](https://www.pcgamer.com/games/fps/the-proof-is-undeniable-people-will-still-pay-for-great-shooters/)
+ - [Here&#39;s everything you can get in Arc Raiders from Twitch Drops and Discord Quests](https://www.pcgamer.com/games/third-person-shooter/heres-everything-you-can-get-in-arc-raiders-from-twitch-drops-and-discord-quests/)
+ - [Seagate 20TB HDD Priced Like Peanuts, Amazon Bottoms Out at $0.01 per GB](https://kotaku.com/seagate-20tb-hdd-priced-like-peanuts-amazon-bottoms-out-at-0-01-per-gb-2000639129)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
