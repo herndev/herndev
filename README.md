@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you want to change the appearance of Fortnite&#39;s new Sidekick pets you have to buy them again each time](https://www.pcgamer.com/games/battle-royale/if-you-want-to-change-the-appearance-of-fortnites-new-sidekick-pets-you-have-to-buy-them-again-each-time/)
- - [Garmin Clears Out Forerunner 255, Now Selling for Peanuts in Early Black Friday Sale](https://kotaku.com/garmin-clears-out-forerunner-255-now-selling-for-peanuts-in-early-black-friday-sale-2000640217)
- - [Mortal Kombat Legacy Kollection review: good collection, great documentary](https://www.polygon.com/mortal-kombat-legacy-kollection-review-impressions/)<!-- GAME:END -->
+ - [If you&#39;re a fan of Blue Prince and the Golden Idol games, this spooky detective mystery has arrived just in time for Halloween](https://www.pcgamer.com/games/adventure/if-youre-a-fan-of-blue-prince-and-the-golden-idol-games-this-spooky-detective-mystery-has-arrived-just-in-time-for-halloween/)
+ - [If You Own an iPhone, This DJI Gimbal Stabilizer Costs Pennies and Films Like Hollywood](https://kotaku.com/if-you-own-an-iphone-this-dji-gimbal-stabilizer-costs-pennies-and-films-like-hollywood-2000640317)
+ - [Dell Quietly Offloads 1TB 16-Inch Laptops, Now Nearly Free at 71% Off on Amazon](https://kotaku.com/dell-quietly-offloads-1tb-16-inch-laptops-now-nearly-free-at-71-off-on-amazon-2000640311)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
