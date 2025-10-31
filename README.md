@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Goal of the Year in 2004 in the Netherlands, Zlatan Ibrahimovi\u0107.](http://9gag.com/gag/axyQBOn)
- - ⏩ [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
+ - 💣 [Florida Man](https://www.reddit.com/r/funny/comments/1oku3xr/florida_man/)
+ - ⏩ [Everything but work](http://9gag.com/gag/a4PmEVA)
  - 👉 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)<!-- MEMES:END -->
 
 ---
