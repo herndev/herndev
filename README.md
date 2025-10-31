@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our Favorite Premium TV Is $500 Off](https://www.wired.com/story/lg-g5-oled-deal-1025/)
- - [Hackers threaten to leak ‘woke’ University of Pennsylvania student data](https://www.theverge.com/news/811600/university-of-pennsylvania-hack-woke)
- - [Adobe’s experimental AI tool can edit entire videos using one frame](https://www.theverge.com/news/811602/adobe-max-2025-sneaks-projects)<!-- TECH:END -->
+ - [Microsoft releases an Xbox Full Screen Experience preview for the MSI Claw](https://www.theverge.com/news/811826/microsoft-xbox-full-screen-experience-fse-msi-claw-windows-11-insider)
+ - [Archy, which offers AI-powered dental practice management software, raised a $20M Series B led by TCV, bringing its total funding to $47M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251031/p18#a251031p18)
+ - [Meta Claims Downloaded Porn at Center of AI Lawsuit Was for ‘Personal Use’](https://www.wired.com/story/meta-claims-downloaded-porn-at-center-of-ai-lawsuit-was-for-personal-use/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
