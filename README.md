@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Ward, John Carpenter&#39;s final film, deserves to be reclaimed](https://www.polygon.com/john-carpenter-most-underrated-movie-streaming-free-halloween/)
- - [Where to find a supply drop and call station in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/supply-drop-call-station-location/)
- - [Game Awards 2025: All Game of the Year front-runners and predictions](https://www.polygon.com/awards/546327/game-of-the-year-game-awards-2025-frontrunners/)<!-- GAME:END -->
+ - [Pokémon Legends: Z-A made the six-Pokémon party completely irrelevant](https://www.polygon.com/pokemon-legends-z-a-plza-six-pokemon-party/)
+ - [The Iconic Spider-Man 2 Train Scene Comes to LEGO, Now Selling for Pennies on Amazon](https://kotaku.com/the-iconic-spider-man-2-train-scene-comes-to-lego-now-selling-for-pennies-on-amazon-2000640308)
+ - [How to complete A First Foothold in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-a-first-foothold-quest-walkthrough/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
