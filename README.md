@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
- - ⏩ [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
- - 👉 [Simpler times](http://9gag.com/gag/a2v97be)<!-- MEMES:END -->
+ - 💣 [Simpler times](http://9gag.com/gag/a2v97be)
+ - ⏩ [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
+ - 👉 [I found it!](https://www.reddit.com/r/funny/comments/1ol32u6/i_found_it/)<!-- MEMES:END -->
 
 ---
 
