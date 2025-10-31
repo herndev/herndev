@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube TV subscribers pay the price for its fued with Disney](https://www.androidauthority.com/disney-channels-taken-off-youtube-tv-3611944/)
- - [The US CBP signs a two-year deal with AI logistics company Altana, and will use its platform for real-time trade enforcement, forced labor detection, and more &lpar;Mackenzie Weinger/Axios&rpar;](http://www.techmeme.com/251031/p6#a251031p6)
- - [Letter: Nexperia suspends supplies of wafers to its Chinese assembly plant, citing a failure to &quot;comply with the agreed contractual payment terms&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251031/p5#a251031p5)<!-- TECH:END -->
+ - [Evercore raises its Apple target price on latest earnings report](https://appleinsider.com/articles/25/10/31/evercore-raises-its-apple-target-price-on-latest-earnings-report?utm_source=rss)
+ - [A bizarre Windows 11 bug duplicates Task Manager instead of closing it](https://www.theverge.com/news/811233/microsoft-windows-11-task-manager-duplicate-bug)
+ - [What Hellen Obiri Packs to Run the NYC Marathon 2025](https://www.wired.com/story/hellen-obiri-starter-pack/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
