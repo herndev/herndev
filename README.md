@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - ⏩ [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
- - 👉 [Simpler times](http://9gag.com/gag/a2v97be)<!-- MEMES:END -->
+ - 💣 [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
+ - ⏩ [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
 
 ---
 
