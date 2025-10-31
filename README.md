@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’re too old to get why Sam Altman just renamed ChatGPT 6 as ‘GPT 6‑7’](https://www.androidauthority.com/chatgpt-6-7-3611915/)
- - [Corporate travel and expense management software maker Navan&#39;s shares fell 20% to $20, valuing it at $5B, after raising $923.1M in its IPO at a $6.2B market cap &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/251031/p1#a251031p1)
- - [Filing: Gloo, a developer of AI tools for Christian churches with ex-Intel CEO Pat Gelsinger as its head of technology, seeks an $873.4M valuation in its US IPO &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/251030/p61#a251030p61)<!-- TECH:END -->
+ - [15% Off Dyson Promo Codes | November 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+ - [30% Off Samsung Promo Code | November 2025](https://www.wired.com/story/samsung-promo-codes/)
+ - [You’re too old to get why Sam Altman just renamed ChatGPT 6 as ‘GPT 6‑7’](https://www.androidauthority.com/chatgpt-6-7-3611915/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
