@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brian Armstrong deliberately used certain words during Coinbase&#39;s Q3 call to sway $84,000 in bets on Kalshi and Polymarket over which terms would be mentioned &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p20#a251031p20)
- - [Nancy Mace Curses, Berates Confused Cops in Airport Meltdown: Police Report](https://www.wired.com/story/nancy-mace-berates-cops-airport-meltdown/)
- - [Samsung is working on a follow-up to its best mid-ranger of 2025](https://www.androidauthority.com/samsung-galaxy-a57-model-number-3612174/)<!-- TECH:END -->
+ - [Sources: Coinbase is in late stage talks to buy stablecoin infra startup BVNK in a ~$2B deal; Coinbase expects to close the deal later this year or early 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p23#a251031p23)
+ - [In its Q3 earnings, Alphabet said the profit included &quot;net gains on equity securities of $10.7B,&quot; in part from a private company, which sources say is Anthropic &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p22#a251031p22)
+ - [YouTube execs flat-out deny claims Biden admin pushed for censorship](https://www.androidauthority.com/youtube-censorship-pressure-3612111/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
