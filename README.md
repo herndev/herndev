@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nearly two decades on, Hellsing Ultimate still reigns as the definitive vampire anime](https://www.polygon.com/hellsing-ultimate-review-vampire-horror-anime/)
- - [Next Week on Xbox: New Games for November 3 to 7](https://news.xbox.com/en-us/2025/10/31/next-week-on-xbox-new-games-for-november-3-to-7/)
- - [Amazon Is Offloading Samsung’s SSDs Before Black Friday, 990 EVO Plus Now Going for Peanuts](https://kotaku.com/amazon-is-offloading-samsungs-ssds-before-black-friday-990-evo-plus-now-going-for-peanuts-2000640283)<!-- GAME:END -->
+ - [Gloomy Eyes is a Tim Burton film in video game form](https://www.polygon.com/gloomy-eyes-review-spooky-cute-puzzler-halloween/)
+ - [How Every Kilometer Tells a Story in Truck Driver: The Dutch Connection](https://news.xbox.com/en-us/2025/10/31/every-kilometer-tells-story-truck-driver-the-dutch-connection/)
+ - [Final Fantasy 14 says screw it, you want healers in platemail, you can have them—promises to remove all class and level restrictions on glamour](https://www.pcgamer.com/games/mmo/final-fantasy-14-says-screw-it-you-want-healers-in-platemail-you-can-have-them-promises-to-remove-all-class-and-level-restrictions-on-glamour/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
