@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Coinbase is in late stage talks to buy stablecoin infra startup BVNK in a ~$2B deal; Coinbase expects to close the deal later this year or early 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p23#a251031p23)
- - [In its Q3 earnings, Alphabet said the profit included &quot;net gains on equity securities of $10.7B,&quot; in part from a private company, which sources say is Anthropic &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p22#a251031p22)
- - [YouTube execs flat-out deny claims Biden admin pushed for censorship](https://www.androidauthority.com/youtube-censorship-pressure-3612111/)<!-- TECH:END -->
+ - [GTA VI developer accused of union busting in mass firings](https://www.theverge.com/news/811999/gta-vi-rockstar-games-union-busting)
+ - [&#39;Frankenstein,&#39; &#39;Being Eddie&#39; and 10 More Must-See Movies on Netflix This November](https://www.cnet.com/tech/services-and-software/frankenstein-being-eddie-and-10-more-must-see-movies-on-netflix-this-november/#ftag=CAD590a51e)
+ - [How to Watch Dodgers vs. Blue Jays World Series Game 6 Today](https://www.cnet.com/tech/services-and-software/how-to-watch-dodgers-vs-blue-jays-world-series-game-6-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
