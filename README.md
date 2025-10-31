@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [E-scooter that can do 110 km/h &lpar;68 mph&rpar;](http://9gag.com/gag/ayNZN9p)
- - ⏩ [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 👉 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)<!-- MEMES:END -->
+ - 💣 [Hummm...](http://9gag.com/gag/aE0yqj9)
+ - ⏩ [E-scooter that can do 110 km/h &lpar;68 mph&rpar;](http://9gag.com/gag/ayNZN9p)
+ - 👉 [Nature is healing](http://9gag.com/gag/adBrg0j)<!-- MEMES:END -->
 
 ---
 
