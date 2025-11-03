@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers find OpenAI&#39;s o1 can analyze languages like a human expert, including inferring the phonological rules of made-up languages without prior knowledge &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/251103/p8#a251103p8)
- - [Q&amp;A with LexisNexis CEO Sean Fitzpatrick on AI reshaping legal workflows, document drafting, attorneys losing their licenses over &quot;sloppy use of AI&quot;, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251103/p7#a251103p7)
- - [Forget Gemini, Google Home users just want the basics to work again](https://www.androidauthority.com/google-home-continued-problems-3612288/)<!-- TECH:END -->
+ - [London is establishing itself as a center for quantitative finance; filings show trading firms XTX, Qube, and Quadrature each made £1B+ revenue in the past year &lpar;Financial Times&rpar;](http://www.techmeme.com/251103/p11#a251103p11)
+ - [The 6 worst Android Auto problems that Google needs to fix](https://www.androidauthority.com/android-auto-problems-google-needs-fix-3609958/)
+ - [When asked about Changpeng Zhao&#39;s pardon on 60 Minutes, President Trump says &quot;I don&#39;t know who he is&quot; and &quot;I heard it was a Biden witch hunt&quot; &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/251103/p10#a251103p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
