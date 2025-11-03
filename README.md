@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Watch keeps screaming ‘stress,’ even though users say they are fine](https://www.androidauthority.com/samsung-galaxy-watch-high-stress-warning-one-ui-8-watch-3612357/)
- - [Looking to save big? Here are 5 T-Mobile deals I recommend checking out this month](https://www.androidauthority.com/t-mobile-deal-recommendations-nov-3610572/)
- - [MongoDB CEO Dev Ittycheria is stepping down after 11 years, replaced by Cloudflare President of Product &amp; Engineering Chirantan Desai, effective November 10 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251103/p21#a251103p21)<!-- TECH:END -->
+ - [Cisco launches Unified Edge, an all-in-one system designed to help retail stores, health care facilities, and factories use AI with a single equipment rack &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251103/p24#a251103p24)
+ - [The Best iPhone Privacy and Security Settings to Change on Your Apple Device &lpar;2025&rpar;](https://www.wired.com/story/iphone-privacy-and-security-settings/)
+ - [As part of the AWS deal, OpenAI says it will immediately begin running workloads on AWS infrastructure, tapping hundreds of thousands of Nvidia GPUs in the US &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251103/p23#a251103p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
