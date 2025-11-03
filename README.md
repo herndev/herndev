@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [arXiv says it will stop accepting computer science papers that haven&#39;t been vetted by an academic journal or a conference, after a surge in AI-generated papers &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/251103/p27#a251103p27)
- - [Save $50 on Apple Watch SE 3 during Amazon&#39;s early Black Friday sale](https://appleinsider.com/articles/25/11/03/save-50-on-apple-watch-se-3-during-amazons-early-black-friday-sale?utm_source=rss)
- - [With the Pixel 10 series, Google’s setting new sales records](https://www.androidauthority.com/google-record-pixel-sales-3612438/)<!-- TECH:END -->
+ - [Do you keep losing things? Take advantage of this Apple AirTag 4-Pack deal!](https://www.androidauthority.com/apple-airtag-4-pack-deal-12-3612421/)
+ - [Indian digital payments company Pine Labs prices its IPO at $2 to $2.5/share, valuing it at $2.9B at the top end of the range, down from a $5B valuation in 2022 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251103/p30#a251103p30)
+ - [Studio Ghibli, Bandai Namco, Square Enix demand OpenAI stop using their content to train AI](https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
