@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crypto bros explain to me after quindecade after launch why Bitcoin will change the world.](http://9gag.com/gag/aVv4ERn)
- - ⏩ [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - 👉 [How many bad decisions can you put in one video?](http://9gag.com/gag/aoyARNx)<!-- MEMES:END -->
+ - 💣 [Fixed it](http://9gag.com/gag/a6Z49Zb)
+ - ⏩ [Ricky Gervais is furious that his billboard is now banned after the mass stabbing in London](http://9gag.com/gag/a2v986e)
+ - 👉 [Guys will see thing like this and just say `Hell yeah`](http://9gag.com/gag/avy41KZ)<!-- MEMES:END -->
 
 ---
 
