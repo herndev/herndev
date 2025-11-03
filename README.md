@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 MacBook Air, iPad, iPhone 17e: Apple&#39;s plans for the first half of 2026](https://appleinsider.com/articles/25/11/02/m5-macbook-air-ipad-iphone-17e-apples-plans-for-the-first-half-of-2026?utm_source=rss)
- - [What goes great with a new phone plan? A free pie, apparently](https://www.androidauthority.com/thanksgiving-pie-promo-3612594/)
- - [‘Eyes-off driving’ is coming, and we’re so not ready](https://www.theverge.com/transportation/812439/eyes-off-driving-level-3-legal-liability-crash)<!-- TECH:END -->
+ - [US federal prosecutors allege that three cybersecurity professionals carried out ransomware attacks on at least five US companies in 2023 using ALPHV ransomware &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/251103/p41#a251103p41)
+ - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)
+ - [No, ChatGPT hasn&amp;#8217;t added a ban on giving legal and health advice](https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
