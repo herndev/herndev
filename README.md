@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pillars of Eternity: New Turn-Based Mode Beta Announced](https://eternity.obsidian.net/eternity/news/eternity/public-beta-for-turn-based-mode#new_tab)
- - [The most dangerous thing in Arc Raiders is a ladder that leads to nowhere: &#39;My whole squad was wiped&#39;](https://www.pcgamer.com/games/third-person-shooter/the-most-dangerous-thing-in-arc-raiders-is-a-ladder-that-leads-to-nowhere-my-whole-squad-was-wiped/)
- - [Why Battlefield 6 Maps Feel So Dang Tiny](https://kotaku.com/battlefield-6-maps-size-small-big-2000640832)<!-- GAME:END -->
+ - [Yakuza 3 remake fans want Goh Hamazaki actor replaced after sexual harassment allegations surface](https://www.polygon.com/yakuza-3-remake-kiwami-teruyuki-kagawa-controversy-sega/)
+ - [Fortnite’s New Simpsons Season Is An Incredible Treat For Fans Of The Show](https://kotaku.com/fortnite-simpsons-mini-season-review-changes-new-map-short-2000640868)
+ - [What time does Honkai: Star Rail version 3.7 release?](https://www.polygon.com/honkai-star-rail-hsr-3-7-maintenance-end/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
