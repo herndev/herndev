@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cisco launches Unified Edge, an all-in-one system designed to help retail stores, health care facilities, and factories use AI with a single equipment rack &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251103/p24#a251103p24)
- - [The Best iPhone Privacy and Security Settings to Change on Your Apple Device &lpar;2025&rpar;](https://www.wired.com/story/iphone-privacy-and-security-settings/)
- - [As part of the AWS deal, OpenAI says it will immediately begin running workloads on AWS infrastructure, tapping hundreds of thousands of Nvidia GPUs in the US &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251103/p23#a251103p23)<!-- TECH:END -->
+ - [The Apple Watch SE 3 is on sale for a record low price of $199](https://www.theverge.com/tech/812446/apple-watch-se-3-amazon-fire-tablet-hd-10-deal-sale)
+ - [Revisit your favorite Nintendo DS games on this affordable Android clamshell](https://www.androidauthority.com/anbernic-rg-ds-launch-3612376/)
+ - [Waymo’s robotaxis are coming to three new cities](https://www.theverge.com/transportation/812440/waymo-san-diego-las-vegas-detroit-robotaxi-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
