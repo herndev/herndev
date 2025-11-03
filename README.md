@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Michael Grimes, a tech banker known for handling Uber and Airbnb&#39;s IPOs, is leading Trump&#39;s new investment accelerator, amid legal and congressional uncertainty &lpar;Politico&rpar;](http://www.techmeme.com/251103/p5#a251103p5)
- - [New leak doubles down on Galaxy S26 Ultra’s improved ergonomics](https://www.androidauthority.com/samsung-galaxy-s26-ultra-rounded-corners-3612303/)
- - [Google Photos and Google Maps will soon get these new icons](https://www.androidauthority.com/google-photos-maps-new-gradient-icon-3612300/)<!-- TECH:END -->
+ - [Researchers find OpenAI&#39;s o1 can analyze languages like a human expert, including inferring the phonological rules of made-up languages without prior knowledge &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/251103/p8#a251103p8)
+ - [Q&amp;A with LexisNexis CEO Sean Fitzpatrick on AI reshaping legal workflows, document drafting, attorneys losing their licenses over &quot;sloppy use of AI&quot;, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251103/p7#a251103p7)
+ - [Forget Gemini, Google Home users just want the basics to work again](https://www.androidauthority.com/google-home-continued-problems-3612288/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
