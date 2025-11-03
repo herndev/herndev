@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hummm...](http://9gag.com/gag/aE0yqj9)
- - ⏩ [E-scooter that can do 110 km/h &lpar;68 mph&rpar;](http://9gag.com/gag/ayNZN9p)
- - 👉 [Nature is healing](http://9gag.com/gag/adBrg0j)<!-- MEMES:END -->
+ - 💣 [That man is a mountain](http://9gag.com/gag/awyP3xW)
+ - ⏩ [Another black day](http://9gag.com/gag/a87QmE1)
+ - 👉 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)<!-- MEMES:END -->
 
 ---
 
