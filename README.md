@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good News](http://9gag.com/gag/aAyq6v9)
- - ⏩ [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 👉 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)<!-- MEMES:END -->
+ - 💣 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - ⏩ [Fail](http://9gag.com/gag/aYQZOvx)
+ - 👉 [Australia](http://9gag.com/gag/aGy689X)<!-- MEMES:END -->
 
 ---
 
