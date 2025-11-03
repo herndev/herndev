@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is Olivia. Ver said she wouldn&#39;t make it for one more year since she has cancer. That was 5 years ago, she turned 16 today, she beat that b*tch ass cancer. Happy birthday to the bestest of girls.](http://9gag.com/gag/avy4e65)
- - ⏩ [Prison rules - my old meme collection](http://9gag.com/gag/adBrOYD)
- - 👉 [Fixed it](http://9gag.com/gag/a6Z49Zb)<!-- MEMES:END -->
+ - 💣 [So I&#39;m not fat, I only got ghost on my back all this time](http://9gag.com/gag/aRB9L7B)
+ - ⏩ [Champaigne for my real friends, real pain for my sham friends.](http://9gag.com/gag/aE0yVR9)
+ - 👉 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)<!-- MEMES:END -->
 
 ---
 
