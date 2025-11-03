@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best true indie games of 2025](https://www.polygon.com/indie-goty-nominations-awards-meaning/)
- - [The Game Awards Needs A Puzzle Category](https://kotaku.com/tga-game-awards-goty-puzzle-mimesis-poe-2000640780)
- - [Where to find olives in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-olive-locations/)<!-- GAME:END -->
+ - [MTG Avatar Bonus Sheet: Imprisoned in the Moon gets the perfect ATLA art](https://www.polygon.com/mtg-avatar-bonus-sheet-spoilers-imprisoned-in-the-moon/)
+ - [Lethal Company developer says the freedom afforded by text adventure design is why his latest game took 10 years to make: &#39;That made it very easy for this project to spiral out of control&#39;](https://www.pcgamer.com/games/horror/lethal-company-developer-says-the-freedom-afforded-by-text-adventure-design-is-why-his-latest-game-took-10-years-to-make-that-made-it-very-easy-for-this-project-to-spiral-out-of-control/)
+ - [Some Super Clever Folks Got Doom Running On A Goddamn Satellite](https://kotaku.com/doom-port-runs-on-satellite-esa-op-sat-ubuntu-2000640805)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
