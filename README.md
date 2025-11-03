@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The proof is undeniable: People will still pay for great shooters](https://www.pcgamer.com/games/fps/the-proof-is-undeniable-people-will-still-pay-for-great-shooters/)
- - [Here&#39;s everything you can get in Arc Raiders from Twitch Drops and Discord Quests](https://www.pcgamer.com/games/third-person-shooter/heres-everything-you-can-get-in-arc-raiders-from-twitch-drops-and-discord-quests/)
- - [Seagate 20TB HDD Priced Like Peanuts, Amazon Bottoms Out at $0.01 per GB](https://kotaku.com/seagate-20tb-hdd-priced-like-peanuts-amazon-bottoms-out-at-0-01-per-gb-2000639129)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;November 3, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-3-2025/)
+ - [This 1TB HP Laptop at 70% Off Is Practically Free, Amazon Adds $299 Bonus Bundle on Top](https://kotaku.com/this-1tb-hp-laptop-at-70-off-is-practically-free-amazon-adds-299-bonus-bundle-on-top-2000640664)
+ - [Dyson V11 Drops to Record Low, Amazon Practically Giving It Away for Pennies](https://kotaku.com/dyson-v11-drops-to-record-low-amazon-practically-giving-it-away-for-pennies-2000640660)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
