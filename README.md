@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s TV Streamer &lpar;4K&rpar; is down to its best price to date ahead of Black Friday](https://www.theverge.com/tech/812562/google-tv-streamer-4k-black-friday-2025-deal-sale)
- - [Apple TV&amp;#8217;s new name now comes with a new sound](https://www.theverge.com/news/812644/apple-tv-sound-video-mnemonic-finneas-rebrand-name-plus)
- - [How Facebook Dating, launched in 2019, has become a surprise hit with 21M+ daily users, vs. Hinge&#39;s ~15M, a sign of how Facebook has been reinventing itself &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/251103/p34#a251103p34)<!-- TECH:END -->
+ - [Soulja Boy is selling the Retroid Pocket Flip 2 as his own gaming handheld](https://www.androidauthority.com/soulja-boy-sells-retroid-pocket-flip-2-clone-3612479/)
+ - [Alleged U Penn hacker claims they’re in it for money, not ‘primarily “anti-DEI”’](https://www.theverge.com/policy/812700/university-pennsylvania-hack-data-sale-dei)
+ - [Save 40% on this awesome Anker 323 Car Charger](https://www.androidauthority.com/anker-323-car-charger-deal-3612419/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
