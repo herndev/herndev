@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)
- - [How Frankenstein’s creature designer found a new look for an iconic monster](https://www.theverge.com/entertainment/811694/netflix-frankenstein-creature-design-interview-mike-hill)
- - [Inside Camera in iOS 26 -- The essentials of iPhone photography](https://appleinsider.com/inside/ios-26/tips/inside-camera-in-ios-26----the-essentials-of-iphone-photography?utm_source=rss)<!-- TECH:END -->
+ - [Galaxy Watch keeps screaming ‘stress,’ even though users say they are fine](https://www.androidauthority.com/samsung-galaxy-watch-high-stress-warning-one-ui-8-watch-3612357/)
+ - [Looking to save big? Here are 5 T-Mobile deals I recommend checking out this month](https://www.androidauthority.com/t-mobile-deal-recommendations-nov-3610572/)
+ - [MongoDB CEO Dev Ittycheria is stepping down after 11 years, replaced by Cloudflare President of Product &amp; Engineering Chirantan Desai, effective November 10 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251103/p21#a251103p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
