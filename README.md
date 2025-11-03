@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Soulja Boy is selling the Retroid Pocket Flip 2 as his own gaming handheld](https://www.androidauthority.com/soulja-boy-sells-retroid-pocket-flip-2-clone-3612479/)
- - [Alleged U Penn hacker claims they’re in it for money, not ‘primarily “anti-DEI”’](https://www.theverge.com/policy/812700/university-pennsylvania-hack-data-sale-dei)
- - [Save 40% on this awesome Anker 323 Car Charger](https://www.androidauthority.com/anker-323-car-charger-deal-3612419/)<!-- TECH:END -->
+ - [Neato shutdown, iRobot potential bankruptcy &amp; more on HomeKit Insider](https://appleinsider.com/articles/25/11/03/neato-shutdown-irobot-potential-bankruptcy-more-on-homekit-insider?utm_source=rss)
+ - [Apple launches the App Store on the web, with dedicated pages for the iPhone, iPad, Mac, TV, Watch, and Vision &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/251103/p37#a251103p37)
+ - [France threatens to ban Shein and refers it to Paris prosecutor after an investigation found that sex dolls &quot;resembling children&quot; were being sold on the site &lpar;Liz Alderman/New York Times&rpar;](http://www.techmeme.com/251103/p36#a251103p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
