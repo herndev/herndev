@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That man is a mountain](http://9gag.com/gag/awyP3xW)
- - ⏩ [Another black day](http://9gag.com/gag/a87QmE1)
- - 👉 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)<!-- MEMES:END -->
+ - 💣 [This is Olivia. Ver said she wouldn&#39;t make it for one more year since she has cancer. That was 5 years ago, she turned 16 today, she beat that b*tch ass cancer. Happy birthday to the bestest of girls.](http://9gag.com/gag/avy4e65)
+ - ⏩ [Prison rules - my old meme collection](http://9gag.com/gag/adBrOYD)
+ - 👉 [Fixed it](http://9gag.com/gag/a6Z49Zb)<!-- MEMES:END -->
 
 ---
 
