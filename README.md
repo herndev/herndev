@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A new biome is coming as an alternative to the Tropics in Peak, but the only downside is you might be attacked by spiders](https://www.pcgamer.com/games/sim/a-new-biome-is-coming-as-an-alternative-to-the-tropics-in-peak-but-the-only-downside-is-you-might-be-attacked-by-spiders/)
- - [Amazon Liquidates RTX 5070 GPUs, Asus Model at New Record Low for Early Black Friday](https://kotaku.com/amazon-liquidates-rtx-5070-gpus-asus-model-at-new-record-low-for-early-black-friday-2000640678)
- - [ASUS Dumps Its 14-Inch Vivobook at 40% Off, Now Cheaper Than Most Budget Laptops](https://kotaku.com/asus-dumps-its-14-inch-vivobook-at-40-off-now-cheaper-than-most-budget-laptops-2000640675)<!-- GAME:END -->
+ - [Nintendo wins suit against streamer who defiantly streamed pirated games early](https://www.polygon.com/nintendo-streamer-lawsuit-win/)
+ - [Battlefield 6 is introducing a casual Breakthrough mode &#39;to create a more relaxed way to play&#39;, making it easier to progress and complete challenges](https://www.pcgamer.com/games/fps/battlefield-6-is-introducing-a-casual-breakthrough-mode-to-create-a-more-relaxed-way-to-play-making-it-easier-to-progress-and-complete-challenges/)
+ - [Our pick for 2024&#39;s best tactics game just got a community pack of featured levels—which ignore the dev&#39;s difficulty balance goals because &#39;our community, god bless em, have no such qualms&#39;](https://www.pcgamer.com/games/rpg/our-pick-for-2024s-best-tactics-game-just-got-a-community-pack-of-featured-levels-which-ignore-the-devs-difficulty-balance-goals-because-our-community-god-bless-em-have-no-such-qualms/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
