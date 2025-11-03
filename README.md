@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher season 4&#39;s haunted swamp set was too realistic for the cast](https://www.polygon.com/the-witcher-season-4-swamp-cast-interview-hemsworth-fishburne/)
- - [Battlefield 6 Data Reveals How Small Its Maps Are Compared To Past Games](https://kotaku.com/battlefield-6-data-confirms-smallest-maps-franchise-ea-fps-bf1-2000640803)
- - [No, Black Ops 7 is not releasing three days early](https://www.polygon.com/black-ops-7-not-releasing-early-vault-edition/)<!-- GAME:END -->
+ - [Pillars of Eternity: New Turn-Based Mode Beta Announced](https://eternity.obsidian.net/eternity/news/eternity/public-beta-for-turn-based-mode#new_tab)
+ - [The most dangerous thing in Arc Raiders is a ladder that leads to nowhere: &#39;My whole squad was wiped&#39;](https://www.pcgamer.com/games/third-person-shooter/the-most-dangerous-thing-in-arc-raiders-is-a-ladder-that-leads-to-nowhere-my-whole-squad-was-wiped/)
+ - [Why Battlefield 6 Maps Feel So Dang Tiny](https://kotaku.com/battlefield-6-maps-size-small-big-2000640832)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
