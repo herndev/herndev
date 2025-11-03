@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AYANEO teases its first gaming phone with the soul of a handheld](https://www.androidauthority.com/ayaneo-phone-3612256/)
- - [Trump says Nvidia&#39;s Blackwell chips would not be available to &quot;other people&quot;; Trump suggested in August he might allow sales of a scaled-down version to China &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/251102/p13#a251102p13)
- - [A look at Palantir&#39;s four-month &quot;Meritocracy Fellowship&quot; for high school graduates, which offers a path to a job at Palantir without a university degree &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/251102/p12#a251102p12)<!-- TECH:END -->
+ - [YouTube TV’s Disney drama just got some users a $60 apology](https://www.androidauthority.com/youtube-tv-10-dollar-credit-disney-channels-3612262/)
+ - [In a reply to Elon Musk&#39;s post of &quot;you stole a non-profit&quot;, Sam Altman says OpenAI&#39;s structure is needed to create &quot;what should be the largest non-profit ever&quot; &lpar;Lauren Edmonds/Business Insider&rpar;](http://www.techmeme.com/251102/p14#a251102p14)
+ - [AYANEO teases its first gaming phone with the soul of a handheld](https://www.androidauthority.com/ayaneo-phone-3612256/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
