@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MLB Slugfest 2003 Jokes Rejected By MLB Are Now Available Online](https://kotaku.com/mlb-slugfest-2003-jokes-rejected-mlb-cut-ps2-xbox-tim-jimmy-2000640898)
- - [Pillars of Eternity&#39;s 10-year anniversary turn-based mode will sidestep the biggest issues I was worried it would have, and you can try it this week](https://www.pcgamer.com/games/rpg/pillars-of-eternitys-10-year-anniversary-turn-based-mode-will-sidestep-the-biggest-issues-i-was-worried-it-would-have-and-you-can-try-it-this-week/)
- - [Ex-Sims Director Says That Same-Sex Relationships Must Remain In The Series After Saudi Arabia Acquisition](https://kotaku.com/sims-4-ea-saudi-arabia-acquisition-gay-relationships-2000640899)<!-- GAME:END -->
+ - [The Simpsons house location in Fortnite](https://www.polygon.com/fortnite-homers-house-location-where-to-find/)
+ - [It sure looks like World of Warcraft is getting its first premium currency after 21 years to monetize player housing in its next expansion](https://www.pcgamer.com/games/world-of-warcraft/it-sure-looks-like-world-of-warcraft-is-getting-its-first-premium-currency-after-21-years-to-monetize-player-housing-in-its-next-expansion/)
+ - [New Fan-Made Courage The Cowardly Dog Game Looks Perfect And Creepy](https://kotaku.com/new-fan-made-courage-the-cowardly-dog-game-perfect-creepy-dreams-ps4-2000640924)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
