@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - ⏩ [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 👉 [What are they doing with these locusts? A grasshopper farm in China. A typical farm produces 100s of thousands of grasshoppers per year.](http://9gag.com/gag/azxoPEb)<!-- MEMES:END -->
+ - 💣 [Crypto bros explain to me after quindecade after launch why Bitcoin will change the world.](http://9gag.com/gag/aVv4ERn)
+ - ⏩ [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - 👉 [How many bad decisions can you put in one video?](http://9gag.com/gag/aoyARNx)<!-- MEMES:END -->
 
 ---
 
