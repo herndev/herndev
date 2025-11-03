@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple Watch SE 3 is on sale for a record low price of $199](https://www.theverge.com/tech/812446/apple-watch-se-3-amazon-fire-tablet-hd-10-deal-sale)
- - [Revisit your favorite Nintendo DS games on this affordable Android clamshell](https://www.androidauthority.com/anbernic-rg-ds-launch-3612376/)
- - [Waymo’s robotaxis are coming to three new cities](https://www.theverge.com/transportation/812440/waymo-san-diego-las-vegas-detroit-robotaxi-launch)<!-- TECH:END -->
+ - [arXiv says it will stop accepting computer science papers that haven&#39;t been vetted by an academic journal or a conference, after a surge in AI-generated papers &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/251103/p27#a251103p27)
+ - [Save $50 on Apple Watch SE 3 during Amazon&#39;s early Black Friday sale](https://appleinsider.com/articles/25/11/03/save-50-on-apple-watch-se-3-during-amazons-early-black-friday-sale?utm_source=rss)
+ - [With the Pixel 10 series, Google’s setting new sales records](https://www.androidauthority.com/google-record-pixel-sales-3612438/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
