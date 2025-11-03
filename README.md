@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So I&#39;m not fat, I only got ghost on my back all this time](http://9gag.com/gag/aRB9L7B)
- - ⏩ [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - 👉 [Fail](http://9gag.com/gag/aYQZOvx)<!-- MEMES:END -->
+ - 💣 [This cafe hires people with Down syndrome not just to work, but to show the world their humanity and break the stigma, one smile at a time](http://9gag.com/gag/a9yZ6Bo)
+ - ⏩ [Prison rules - my old meme collection](http://9gag.com/gag/adBrOYD)
+ - 👉 [Fixed it](http://9gag.com/gag/a6Z49Zb)<!-- MEMES:END -->
 
 ---
 
