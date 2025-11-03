@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London is establishing itself as a center for quantitative finance; filings show trading firms XTX, Qube, and Quadrature each made £1B+ revenue in the past year &lpar;Financial Times&rpar;](http://www.techmeme.com/251103/p11#a251103p11)
- - [The 6 worst Android Auto problems that Google needs to fix](https://www.androidauthority.com/android-auto-problems-google-needs-fix-3609958/)
- - [When asked about Changpeng Zhao&#39;s pardon on 60 Minutes, President Trump says &quot;I don&#39;t know who he is&quot; and &quot;I heard it was a Biden witch hunt&quot; &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/251103/p10#a251103p10)<!-- TECH:END -->
+ - [Proofpoint says it has &quot;high confidence&quot; that hackers are working with organized crime groups to infiltrate trucking and freight companies to steal cargo &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/251103/p16#a251103p16)
+ - [UK iPad users can light up Apple UK headquarters for Christmas](https://appleinsider.com/articles/25/11/03/uk-ipad-users-can-light-up-apple-uk-headquarters-for-christmas?utm_source=rss)
+ - [Hong Kong-based crypto investor Animoca Brands plans to list on the Nasdaq via a reverse merger with Currenc Group, set to close in 2026 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251103/p15#a251103p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
