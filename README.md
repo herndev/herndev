@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu says its Apollo Go robotaxi hit 250,000 weekly orders globally as of October 31, matching Waymo&#39;s 250,000 weekly paid US rides reported in April 2025 &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/251102/p16#a251102p16)
- - [We found a hidden Google Wallet feature that could change the way you commute](https://www.androidauthority.com/google-wallet-express-transit-card-3612267/)
- - [At APEC, Xi Jinping proposed a World Artificial Intelligence Cooperation Organization for global AI regulation; state media says it could be based in Shanghai &lpar;Reuters&rpar;](http://www.techmeme.com/251102/p15#a251102p15)<!-- TECH:END -->
+ - [Sources: Pony AI plans to raise $863M in its November 6 Hong Kong IPO by selling 48.3M shares at ~$17.88 each, below its October 31 Nasdaq close at $18.68 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251103/p2#a251103p2)
+ - [During an interview, Satya Nadella says Microsoft faces a power shortage, not a compute one, which could leave &quot;chips sitting in inventory that I can&#39;t plug in&quot; &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251103/p1#a251103p1)
+ - [Baidu says its Apollo Go robotaxi hit 250,000 weekly orders globally as of October 31, matching Waymo&#39;s 250,000 weekly paid US rides reported in April 2025 &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/251102/p16#a251102p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
