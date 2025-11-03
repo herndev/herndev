@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - ⏩ [Fail](http://9gag.com/gag/aYQZOvx)
- - 👉 [Australia](http://9gag.com/gag/aGy689X)<!-- MEMES:END -->
+ - 💣 [The 80s Hit Different](http://9gag.com/gag/a7oPeqz)
+ - ⏩ [Prison rules - my old meme collection](http://9gag.com/gag/adBrOYD)
+ - 👉 [Fixed it](http://9gag.com/gag/a6Z49Zb)<!-- MEMES:END -->
 
 ---
 
