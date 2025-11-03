@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [1000xResist, a sleeper hit from 2024, is finally on PS5 and Xbox Series X](https://www.polygon.com/1000xresist-ps5-xbox-game-pass-impressions/)
- - [The Most Extraordinary Cosplay Fits Out Of New York Comic Con 2025](https://kotaku.com/cosplay-gallery-new-york-comic-con-kpop-tron-2000640740)
- - [Lenovo IdeaPad with Office 365 and 1TB Selling Cheaper Than No-Name Laptops, Amazon Clears Stock](https://kotaku.com/lenovo-ideapad-with-office-365-and-1tb-selling-cheaper-than-no-name-laptops-amazon-clears-stock-2000640767)<!-- GAME:END -->
+ - [The best true indie games of 2025](https://www.polygon.com/indie-goty-nominations-awards-meaning/)
+ - [The Game Awards Needs A Puzzle Category](https://kotaku.com/tga-game-awards-goty-puzzle-mimesis-poe-2000640780)
+ - [Where to find olives in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-olive-locations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
