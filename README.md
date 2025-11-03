@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Best chips](http://9gag.com/gag/a6Z495e)
- - ⏩ [Champaigne for my real friends, real pain for my sham friends.](http://9gag.com/gag/aE0yVR9)
- - 👉 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)<!-- MEMES:END -->
+ - ⏩ [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
+ - 👉 [Australia](http://9gag.com/gag/aGy689X)<!-- MEMES:END -->
 
 ---
 
