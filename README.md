@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mini PC &lpar;16GB RAM, 512GB SSD&rpar; Hits New Record Low on Amazon, Now 4x Cheaper Than Mac Mini](https://kotaku.com/mini-pc-16gb-ram-512gb-ssd-hits-new-record-low-on-amazon-now-4x-cheaper-than-mac-mini-2000640650)
- - [“It Happens on PS5” campaign captures the unexpected and unforgettable moments PS5 has to offer](https://blog.playstation.com/2025/11/03/it-happens-on-ps5-campaign-captures-the-unexpected-and-unforgettable-moments-ps5-has-to-offer/)
- - [Lone developer shrinks Window 7 down to 69 MB, claims &#39;virtually nothing can run&#39; but that it does actually boot](https://www.pcgamer.com/hardware/lone-developer-shrinks-window-7-down-to-69-mb-claims-virtually-nothing-can-run-but-that-it-does-boot/)<!-- GAME:END -->
+ - [1000xResist, a sleeper hit from 2024, is finally on PS5 and Xbox Series X](https://www.polygon.com/1000xresist-ps5-xbox-game-pass-impressions/)
+ - [The Most Extraordinary Cosplay Fits Out Of New York Comic Con 2025](https://kotaku.com/cosplay-gallery-new-york-comic-con-kpop-tron-2000640740)
+ - [Lenovo IdeaPad with Office 365 and 1TB Selling Cheaper Than No-Name Laptops, Amazon Clears Stock](https://kotaku.com/lenovo-ideapad-with-office-365-and-1tb-selling-cheaper-than-no-name-laptops-amazon-clears-stock-2000640767)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
