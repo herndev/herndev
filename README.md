@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MTG Avatar Bonus Sheet: Imprisoned in the Moon gets the perfect ATLA art](https://www.polygon.com/mtg-avatar-bonus-sheet-spoilers-imprisoned-in-the-moon/)
- - [Lethal Company developer says the freedom afforded by text adventure design is why his latest game took 10 years to make: &#39;That made it very easy for this project to spiral out of control&#39;](https://www.pcgamer.com/games/horror/lethal-company-developer-says-the-freedom-afforded-by-text-adventure-design-is-why-his-latest-game-took-10-years-to-make-that-made-it-very-easy-for-this-project-to-spiral-out-of-control/)
- - [Some Super Clever Folks Got Doom Running On A Goddamn Satellite](https://kotaku.com/doom-port-runs-on-satellite-esa-op-sat-ubuntu-2000640805)<!-- GAME:END -->
+ - [The Witcher season 4&#39;s haunted swamp set was too realistic for the cast](https://www.polygon.com/the-witcher-season-4-swamp-cast-interview-hemsworth-fishburne/)
+ - [Battlefield 6 Data Reveals How Small Its Maps Are Compared To Past Games](https://kotaku.com/battlefield-6-data-confirms-smallest-maps-franchise-ea-fps-bf1-2000640803)
+ - [No, Black Ops 7 is not releasing three days early](https://www.polygon.com/black-ops-7-not-releasing-early-vault-edition/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
