@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Magical witches have a special menu...](http://9gag.com/gag/an78neV)
- - ⏩ [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
- - 👉 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)<!-- MEMES:END -->
+ - 💣 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
+ - ⏩ [Best chips](http://9gag.com/gag/a6Z495e)
+ - 👉 [Australia](http://9gag.com/gag/aGy689X)<!-- MEMES:END -->
 
 ---
 
