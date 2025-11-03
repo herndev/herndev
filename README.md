@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fail](http://9gag.com/gag/aYQZOvx)
+ - 💣 [Ricky Gervais is furious that his billboard is now banned after the mass stabbing in London](http://9gag.com/gag/a2v986e)
  - ⏩ [Good News](http://9gag.com/gag/aAyq6v9)
- - 👉 [Sparta this import into oblivion](http://9gag.com/gag/ajPGLDq)<!-- MEMES:END -->
+ - 👉 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)<!-- MEMES:END -->
 
 ---
 
