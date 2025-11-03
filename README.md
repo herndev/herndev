@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo wins suit against streamer who defiantly streamed pirated games early](https://www.polygon.com/nintendo-streamer-lawsuit-win/)
- - [Battlefield 6 is introducing a casual Breakthrough mode &#39;to create a more relaxed way to play&#39;, making it easier to progress and complete challenges](https://www.pcgamer.com/games/fps/battlefield-6-is-introducing-a-casual-breakthrough-mode-to-create-a-more-relaxed-way-to-play-making-it-easier-to-progress-and-complete-challenges/)
- - [Our pick for 2024&#39;s best tactics game just got a community pack of featured levels—which ignore the dev&#39;s difficulty balance goals because &#39;our community, god bless em, have no such qualms&#39;](https://www.pcgamer.com/games/rpg/our-pick-for-2024s-best-tactics-game-just-got-a-community-pack-of-featured-levels-which-ignore-the-devs-difficulty-balance-goals-because-our-community-god-bless-em-have-no-such-qualms/)<!-- GAME:END -->
+ - [Mini PC &lpar;16GB RAM, 512GB SSD&rpar; Hits New Record Low on Amazon, Now 4x Cheaper Than Mac Mini](https://kotaku.com/mini-pc-16gb-ram-512gb-ssd-hits-new-record-low-on-amazon-now-4x-cheaper-than-mac-mini-2000640650)
+ - [“It Happens on PS5” campaign captures the unexpected and unforgettable moments PS5 has to offer](https://blog.playstation.com/2025/11/03/it-happens-on-ps5-campaign-captures-the-unexpected-and-unforgettable-moments-ps5-has-to-offer/)
+ - [Lone developer shrinks Window 7 down to 69 MB, claims &#39;virtually nothing can run&#39; but that it does actually boot](https://www.pcgamer.com/hardware/lone-developer-shrinks-window-7-down-to-69-mb-claims-virtually-nothing-can-run-but-that-it-does-boot/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
