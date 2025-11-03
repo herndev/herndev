@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [ASUS Dumps Its 14-Inch Vivobook at 40% Off, Now Cheaper Than Most Budget Laptops](https://kotaku.com/asus-dumps-its-14-inch-vivobook-at-40-off-now-cheaper-than-most-budget-laptops-2000640675)
  - [Five new Steam games you probably missed &lpar;November 3, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-3-2025/)
- - [This 1TB HP Laptop at 70% Off Is Practically Free, Amazon Adds $299 Bonus Bundle on Top](https://kotaku.com/this-1tb-hp-laptop-at-70-off-is-practically-free-amazon-adds-299-bonus-bundle-on-top-2000640664)
- - [Dyson V11 Drops to Record Low, Amazon Practically Giving It Away for Pennies](https://kotaku.com/dyson-v11-drops-to-record-low-amazon-practically-giving-it-away-for-pennies-2000640660)<!-- GAME:END -->
+ - [This 1TB HP Laptop at 70% Off Is Practically Free, Amazon Adds $299 Bonus Bundle on Top](https://kotaku.com/this-1tb-hp-laptop-at-70-off-is-practically-free-amazon-adds-299-bonus-bundle-on-top-2000640664)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
