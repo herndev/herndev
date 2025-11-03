@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GTA VI developer accused of union busting in mass firings](https://www.theverge.com/news/811999/gta-vi-rockstar-games-union-busting)
- - [&#39;Frankenstein,&#39; &#39;Being Eddie&#39; and 10 More Must-See Movies on Netflix This November](https://www.cnet.com/tech/services-and-software/frankenstein-being-eddie-and-10-more-must-see-movies-on-netflix-this-november/#ftag=CAD590a51e)
- - [How to Watch Dodgers vs. Blue Jays World Series Game 6 Today](https://www.cnet.com/tech/services-and-software/how-to-watch-dodgers-vs-blue-jays-world-series-game-6-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Keychron Q16 HE 8K Review: Premium ceramic feel is great, just wired is not](https://appleinsider.com/articles/25/11/02/keychron-q16-he-8k-review-premium-ceramic-feel-is-great-just-wired-is-not?utm_source=rss)
+ - [Google says it has removed its AI model Gemma from AI Studio; in a letter to Google, Sen. Blackburn said it fabricated sexual misconduct allegations against her &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/251102/p11#a251102p11)
+ - [Save up to 57% with the best early Black Friday deals on Apple](https://appleinsider.com/articles/25/11/02/save-up-to-57-with-the-best-early-black-friday-deals-on-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
