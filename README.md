@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yakuza 3 remake fans want Goh Hamazaki actor replaced after sexual harassment allegations surface](https://www.polygon.com/yakuza-3-remake-kiwami-teruyuki-kagawa-controversy-sega/)
- - [Fortnite’s New Simpsons Season Is An Incredible Treat For Fans Of The Show](https://kotaku.com/fortnite-simpsons-mini-season-review-changes-new-map-short-2000640868)
- - [What time does Honkai: Star Rail version 3.7 release?](https://www.polygon.com/honkai-star-rail-hsr-3-7-maintenance-end/)<!-- GAME:END -->
+ - [I&#39;m dying way less in Arc Raiders now that I know how healing actually works](https://www.pcgamer.com/games/action/im-dying-way-less-in-arc-raiders-now-that-i-know-how-healing-actually-works/)
+ - [Fortnite fans are riled up over &#39;greedy&#39; sidekick pets](https://www.polygon.com/fortnite-sidekick-vbucks-peels-controversy-appearance-customization/)
+ - [Fortnite&#39;s The Simpsons season is almost perfect but missing one thing](https://www.polygon.com/fortnite-the-simpsons-back-bling-matt-groening/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
