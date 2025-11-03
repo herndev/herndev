@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Do you keep losing things? Take advantage of this Apple AirTag 4-Pack deal!](https://www.androidauthority.com/apple-airtag-4-pack-deal-12-3612421/)
- - [Indian digital payments company Pine Labs prices its IPO at $2 to $2.5/share, valuing it at $2.9B at the top end of the range, down from a $5B valuation in 2022 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251103/p30#a251103p30)
- - [Studio Ghibli, Bandai Namco, Square Enix demand OpenAI stop using their content to train AI](https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement)<!-- TECH:END -->
+ - [Google’s TV Streamer &lpar;4K&rpar; is down to its best price to date ahead of Black Friday](https://www.theverge.com/tech/812562/google-tv-streamer-4k-black-friday-2025-deal-sale)
+ - [Apple TV&amp;#8217;s new name now comes with a new sound](https://www.theverge.com/news/812644/apple-tv-sound-video-mnemonic-finneas-rebrand-name-plus)
+ - [How Facebook Dating, launched in 2019, has become a surprise hit with 21M+ daily users, vs. Hinge&#39;s ~15M, a sign of how Facebook has been reinventing itself &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/251103/p34#a251103p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
