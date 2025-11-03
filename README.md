@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ricky Gervais is furious that his billboard is now banned after the mass stabbing in London](http://9gag.com/gag/a2v986e)
- - ⏩ [Good News](http://9gag.com/gag/aAyq6v9)
- - 👉 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)<!-- MEMES:END -->
+ - 💣 [Good News](http://9gag.com/gag/aAyq6v9)
+ - ⏩ [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
+ - 👉 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)<!-- MEMES:END -->
 
 ---
 
