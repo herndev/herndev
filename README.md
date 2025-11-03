@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Mark Gubrud, who coined the term AGI in a 1997 research paper, which argued that breakthrough technologies will redefine international conflicts &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/251103/p4#a251103p4)
- - [Cologne-based Octonomy, which helps companies deploy AI in complex workflows, raised a $20M seed led by Macquarie Capital, bringing its total raised to $25M &lpar;Amelia Isaacs/Pathfounders&rpar;](http://www.techmeme.com/251103/p3#a251103p3)
- - [Sources: Pony AI plans to raise $863M in its November 6 Hong Kong IPO by selling 48.3M shares at ~$17.88 each, below its October 31 Nasdaq close at $18.68 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251103/p2#a251103p2)<!-- TECH:END -->
+ - [Michael Grimes, a tech banker known for handling Uber and Airbnb&#39;s IPOs, is leading Trump&#39;s new investment accelerator, amid legal and congressional uncertainty &lpar;Politico&rpar;](http://www.techmeme.com/251103/p5#a251103p5)
+ - [New leak doubles down on Galaxy S26 Ultra’s improved ergonomics](https://www.androidauthority.com/samsung-galaxy-s26-ultra-rounded-corners-3612303/)
+ - [Google Photos and Google Maps will soon get these new icons](https://www.androidauthority.com/google-photos-maps-new-gradient-icon-3612300/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
