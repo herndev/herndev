@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This cafe hires people with Down syndrome not just to work, but to show the world their humanity and break the stigma, one smile at a time](http://9gag.com/gag/a9yZ6Bo)
- - ⏩ [Prison rules - my old meme collection](http://9gag.com/gag/adBrOYD)
- - 👉 [Fixed it](http://9gag.com/gag/a6Z49Zb)<!-- MEMES:END -->
+ - 💣 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - ⏩ [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
+ - 👉 [His name is Jenner](http://9gag.com/gag/amoK1W4)<!-- MEMES:END -->
 
 ---
 
