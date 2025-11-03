@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neato shutdown, iRobot potential bankruptcy &amp; more on HomeKit Insider](https://appleinsider.com/articles/25/11/03/neato-shutdown-irobot-potential-bankruptcy-more-on-homekit-insider?utm_source=rss)
- - [Apple launches the App Store on the web, with dedicated pages for the iPhone, iPad, Mac, TV, Watch, and Vision &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/251103/p37#a251103p37)
- - [France threatens to ban Shein and refers it to Paris prosecutor after an investigation found that sex dolls &quot;resembling children&quot; were being sold on the site &lpar;Liz Alderman/New York Times&rpar;](http://www.techmeme.com/251103/p36#a251103p36)<!-- TECH:END -->
+ - [M5 MacBook Air, iPad, iPhone 17e: Apple&#39;s plans for the first half of 2026](https://appleinsider.com/articles/25/11/02/m5-macbook-air-ipad-iphone-17e-apples-plans-for-the-first-half-of-2026?utm_source=rss)
+ - [What goes great with a new phone plan? A free pie, apparently](https://www.androidauthority.com/thanksgiving-pie-promo-3612594/)
+ - [‘Eyes-off driving’ is coming, and we’re so not ready](https://www.theverge.com/transportation/812439/eyes-off-driving-level-3-legal-liability-crash)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
