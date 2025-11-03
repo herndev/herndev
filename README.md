@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So I&#39;m not fat, I only got ghost on my back all this time](http://9gag.com/gag/aRB9L7B)
- - ⏩ [I&#39;m this old](http://9gag.com/gag/ajPG1B1)
- - 👉 [His name is Jenner](http://9gag.com/gag/amoK1W4)<!-- MEMES:END -->
+ - 💣 [His name is Jenner](http://9gag.com/gag/amoK1W4)
+ - ⏩ [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
+ - 👉 [Good News](http://9gag.com/gag/aAyq6v9)<!-- MEMES:END -->
 
 ---
 
