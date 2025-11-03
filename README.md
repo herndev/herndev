@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The 80s Hit Different](http://9gag.com/gag/a7oPeqz)
- - ⏩ [Prison rules - my old meme collection](http://9gag.com/gag/adBrOYD)
- - 👉 [Fixed it](http://9gag.com/gag/a6Z49Zb)<!-- MEMES:END -->
+ - 💣 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - ⏩ [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
+ - 👉 [What are they doing with these locusts? A grasshopper farm in China. A typical farm produces 100s of thousands of grasshoppers per year.](http://9gag.com/gag/azxoPEb)<!-- MEMES:END -->
 
 ---
 
