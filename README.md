@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m dying way less in Arc Raiders now that I know how healing actually works](https://www.pcgamer.com/games/action/im-dying-way-less-in-arc-raiders-now-that-i-know-how-healing-actually-works/)
- - [Fortnite fans are riled up over &#39;greedy&#39; sidekick pets](https://www.polygon.com/fortnite-sidekick-vbucks-peels-controversy-appearance-customization/)
- - [Fortnite&#39;s The Simpsons season is almost perfect but missing one thing](https://www.polygon.com/fortnite-the-simpsons-back-bling-matt-groening/)<!-- GAME:END -->
+ - [MLB Slugfest 2003 Jokes Rejected By MLB Are Now Available Online](https://kotaku.com/mlb-slugfest-2003-jokes-rejected-mlb-cut-ps2-xbox-tim-jimmy-2000640898)
+ - [Pillars of Eternity&#39;s 10-year anniversary turn-based mode will sidestep the biggest issues I was worried it would have, and you can try it this week](https://www.pcgamer.com/games/rpg/pillars-of-eternitys-10-year-anniversary-turn-based-mode-will-sidestep-the-biggest-issues-i-was-worried-it-would-have-and-you-can-try-it-this-week/)
+ - [Ex-Sims Director Says That Same-Sex Relationships Must Remain In The Series After Saudi Arabia Acquisition](https://kotaku.com/sims-4-ea-saudi-arabia-acquisition-gay-relationships-2000640899)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
