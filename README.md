@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - ⏩ [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
+ - 💣 [So I&#39;m not fat, I only got ghost on my back all this time](http://9gag.com/gag/aRB9L7B)
+ - ⏩ [I&#39;m this old](http://9gag.com/gag/ajPG1B1)
  - 👉 [His name is Jenner](http://9gag.com/gag/amoK1W4)<!-- MEMES:END -->
 
 ---
