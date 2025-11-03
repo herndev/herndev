@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [So I&#39;m not fat, I only got ghost on my back all this time](http://9gag.com/gag/aRB9L7B)
- - ⏩ [Champaigne for my real friends, real pain for my sham friends.](http://9gag.com/gag/aE0yVR9)
- - 👉 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)<!-- MEMES:END -->
+ - ⏩ [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - 👉 [Fail](http://9gag.com/gag/aYQZOvx)<!-- MEMES:END -->
 
 ---
 
