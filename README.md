@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His name is Jenner](http://9gag.com/gag/amoK1W4)
- - ⏩ [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 👉 [Good News](http://9gag.com/gag/aAyq6v9)<!-- MEMES:END -->
+ - 💣 [Fail](http://9gag.com/gag/aYQZOvx)
+ - ⏩ [Good News](http://9gag.com/gag/aAyq6v9)
+ - 👉 [Sparta this import into oblivion](http://9gag.com/gag/ajPGLDq)<!-- MEMES:END -->
 
 ---
 
