@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your phone is faking its signal strength, and you can blame Google and your carrier](https://www.androidauthority.com/5g-network-carriers-fake-signal-strength-3612738/)
- - [Nintendo is raising its Switch 2 sales expectations](https://www.theverge.com/news/813025/nintendo-switch-2-sales-september-2025-earnings)
- - [Chainalysis CEO Jonathan Levin says DeFi platforms&#39; rapid growth leaves their users&#39; assets at risk of attack; DefiLlama says $140B+ is held on DeFi protocols &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251104/p3#a251104p3)<!-- TECH:END -->
+ - [How a bunch of hackers freed the Kinect from the Xbox](https://www.theverge.com/tech/812803/hacking-kinect-history)
+ - [The sequel to one of the best camera phones could pack two 200MP cameras &lpar;!&rpar;](https://www.androidauthority.com/vivo-x300-ultra-dual-200mp-camera-leak-3612755/)
+ - [An upcoming Kindle rival could run Android and offer a faster refresh rate](https://www.androidauthority.com/upcoming-kindle-rival-android-faster-refresh-rate-3612668/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
