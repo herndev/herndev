@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arc Raiders is a surprisingly friendly extraction shooter for solo players](https://www.polygon.com/arc-raiders-solo-extraction-shooter-experience/)
- - [Nice Day for Fishing: Creating the World of Epic NPC Man’s Azerim](https://news.xbox.com/en-us/2025/11/04/nice-day-for-fishing-creating-the-world-of-epic-npc-mans-azerim/)
- - [Lord of the Rings Online player accurately recreates Frodo&#39;s journey to Mount Doom in 10-hour YouTube video: &#39;When I saw how perfectly the game followed Tolkien&#39;s imagination, I decided to do it properly&#39;](https://www.pcgamer.com/games/mmo/lord-of-the-rings-online-player-accurately-recreates-frodos-journey-to-mount-doom-in-10-hour-youtube-video-when-i-saw-how-perfectly-the-game-followed-tolkiens-imagination-i-decided-to-do-it-properly/)<!-- GAME:END -->
+ - [Age of Empires IV on PlayStation 5 and Dynasties of the East – Available Now!](https://www.ageofempires.com/news/age-of-empires-iv-on-playstation-5-and-dynasties-of-the-east-available-now/#new_tab)
+ - [Fortnite Tackles The Biggest Simpsons Mystery](https://kotaku.com/fortnite-simpsons-house-layout-mystery-rumpus-room-secret-new-areas-2000641142)
+ - [Xbox Game Pass November 2025: Black Ops 7 and 10 more new additions](https://www.polygon.com/game-pass-additions-removals-november-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
