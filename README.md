@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China offers to cut data center power bills by up to 50% to Alibaba and others, if they use local chips like Huawei&#39;s over foreign ones like Nvidia&#39;s &lpar;Financial Times&rpar;](http://www.techmeme.com/251103/p47#a251103p47)
- - [Samsung Galaxy Z TriFold finally seen in detail, and it’s looking seriously impressive](https://www.androidauthority.com/samsung-galaxy-z-flip-7-up-close-video-3612636/)
- - [Sources: WeRide is set to raise ~$308M in its Hong Kong listing, planning to price shares at ~$3.48, representing a ~4% discount to its Monday Nasdaq close &lpar;Bloomberg&rpar;](http://www.techmeme.com/251103/p46#a251103p46)<!-- TECH:END -->
+ - [How to stream &#39;A Charlie Brown Thanksgiving&#39; for free in 2025](https://appleinsider.com/articles/25/11/04/how-to-stream-a-charlie-brown-thanksgiving-for-free-in-2025?utm_source=rss)
+ - [Grab reports Q3 revenue up 22% YoY to $873M, vs. 869M est., and an adjusted EBITDA of $136M, helped by offerings like group food orders and cheaper shared rides &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/251103/p48#a251103p48)
+ - [YouTube TV users are jumping to this service for their Disney fix &lpar;and more&rpar;](https://www.androidauthority.com/youtube-tv-directv-switch-3612649/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
