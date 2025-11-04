@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: China offers to cut data center power bills by up to 50% to Alibaba and others, if they use local chips like Huawei&#39;s over foreign ones like Nvidia&#39;s &lpar;Financial Times&rpar;](http://www.techmeme.com/251103/p47#a251103p47)
  - [Samsung Galaxy Z TriFold finally seen in detail, and it’s looking seriously impressive](https://www.androidauthority.com/samsung-galaxy-z-flip-7-up-close-video-3612636/)
- - [Sources: WeRide is set to raise ~$308M in its Hong Kong listing, planning to price shares at ~$3.48, representing a ~4% discount to its Monday Nasdaq close &lpar;Bloomberg&rpar;](http://www.techmeme.com/251103/p46#a251103p46)
- - [Windows 11 Previews a Feature That Lets You Share Audio With Another Person&#39;s Device](https://www.cnet.com/tech/mobile/windows-11-previews-a-feature-that-lets-you-share-audio-with-another-persons-device/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: WeRide is set to raise ~$308M in its Hong Kong listing, planning to price shares at ~$3.48, representing a ~4% discount to its Monday Nasdaq close &lpar;Bloomberg&rpar;](http://www.techmeme.com/251103/p46#a251103p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
