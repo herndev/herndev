@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best chips](http://9gag.com/gag/a6Z495e)
- - ⏩ [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
- - 👉 [If You Can&#39;t Reach A Wall, Its Possible To Get Stuck Floating In The Space Station](http://9gag.com/gag/abAKOnO)<!-- MEMES:END -->
+ - 💣 [Why aren&#39;t we funding this?!](http://9gag.com/gag/ary9Zo5)
+ - ⏩ [Prey for me](http://9gag.com/gag/a87QDQZ)
+ - 👉 [My brain refusing to accept how quickly time flies](http://9gag.com/gag/a1mB5q8)<!-- MEMES:END -->
 
 ---
 
