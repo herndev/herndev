@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why aren&#39;t we funding this?!](http://9gag.com/gag/ary9Zo5)
- - ⏩ [Prey for me](http://9gag.com/gag/a87QDQZ)
- - 👉 [My brain refusing to accept how quickly time flies](http://9gag.com/gag/a1mB5q8)<!-- MEMES:END -->
+ - 💣 [1 ATHEIST vs 20 GODS](https://www.reddit.com/r/funny/comments/1oohi04/1_atheist_vs_20_gods/)
+ - ⏩ [Jos\u00e9 Meffre set an incredible speed record of 204.73 km/h on this bicycle in 1962.](http://9gag.com/gag/a4PmNMQ)
+ - 👉 [This boy suddenly has more experience than most 9gaggers](http://9gag.com/gag/a9yZ5MK)<!-- MEMES:END -->
 
 ---
 
