@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo reports Q2 revenue of $3.7B, vs. ~$3B est., and net profit of ~$667M, vs. ~$412M est.; it now expects 19M Switch 2 sales by March 2026, up from 15M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/251104/p1#a251104p1)
- - [This upcoming ‘Air’ phone is looking way too serious for its name](https://www.androidauthority.com/huawei-mate-70-air-serious-leak-3612535/)
- - [First Android, now Quick Share gets a redesign on Windows](https://www.androidauthority.com/quick-share-windows-redesign-ui-3612659/)<!-- TECH:END -->
+ - [Q&amp;A with Lyft CEO David Risher on the company&#39;s turnaround, AI, paying drivers more, Uber, partnership with Tensor for autonomous vehicle tech, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251104/p2#a251104p2)
+ - [It’s something at least: Nothing offers a half-hearted fix to its latest bloatware problem](https://www.androidauthority.com/nothing-phone-3a-bloatware-update-3612682/)
+ - [Nintendo reports Q2 revenue of $3.7B, vs. ~$3B est., and net profit of ~$667M, vs. ~$412M est.; it now expects 19M Switch 2 sales by March 2026, up from 15M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/251104/p1#a251104p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
