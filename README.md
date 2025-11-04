@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube TV says it’s ready to restore Disney channels on this condition](https://www.androidauthority.com/youtube-tv-restore-disney-channels-3612654/)
  - [How to stream &#39;A Charlie Brown Thanksgiving&#39; for free in 2025](https://appleinsider.com/articles/25/11/04/how-to-stream-a-charlie-brown-thanksgiving-for-free-in-2025?utm_source=rss)
- - [Grab reports Q3 revenue up 22% YoY to $873M, vs. 869M est., and an adjusted EBITDA of $136M, helped by offerings like group food orders and cheaper shared rides &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/251103/p48#a251103p48)
- - [YouTube TV users are jumping to this service for their Disney fix &lpar;and more&rpar;](https://www.androidauthority.com/youtube-tv-directv-switch-3612649/)<!-- TECH:END -->
+ - [Grab reports Q3 revenue up 22% YoY to $873M, vs. 869M est., and an adjusted EBITDA of $136M, helped by offerings like group food orders and cheaper shared rides &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/251103/p48#a251103p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
