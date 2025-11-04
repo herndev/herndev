@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It&#39;s Been a Year Since Trump Was Elected. Democrats Still Don&#39;t Get the Internet](https://www.wired.com/story/do-democrats-get-the-internet-yet/)
- - [WhatsApp launches an Apple Watch companion app, letting users get call notifications, read full messages, and record and send voice messages &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251104/p14#a251104p14)
- - [Grab massive Surfshark VPN discounts with Black Friday deals from $1.99/mo](https://appleinsider.com/articles/25/11/04/grab-massive-surfshark-vpn-discounts-with-black-friday-deals-from-199-per-month?utm_source=rss)<!-- TECH:END -->
+ - [Google Maps can tell Polestar 4 drivers when to merge lanes](https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance)
+ - [Spotify says it now has nearly 500K video podcasts and more than 390M users have now streamed a video podcast on its platform, up 54% YoY &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251104/p18#a251104p18)
+ - [Tel Aviv-based Daylight, whose AI-native platform autonomously identifies and contains cyber threats, raised a $33M Series A, bringing its total funding to $40M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251104/p17#a251104p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
