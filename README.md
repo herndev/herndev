@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Predator: Badlands is a lighthearted twist on the brutal sci-fi series](https://www.theverge.com/entertainment/813146/predator-badlands-review)
- - [Google Nest Wi-Fi Pro deal: Supercharge your connection for just $119.95](https://www.androidauthority.com/google-nest-wi-fi-pro-deal-2-3612871/)
- - [Wikipedia co-founder joins editing conflict over the Gaza genocide page](https://www.theverge.com/news/813245/wikipedia-co-founder-jimmy-wales-gaza-genocide)<!-- TECH:END -->
+ - [OpenAI launches its Sora app on Android](https://www.theverge.com/news/813533/openai-sora-android-launch)
+ - [iPhone 18 Pro may get one of these three colors](https://appleinsider.com/articles/25/11/04/iphone-18-pro-may-get-one-of-these-three-colors?utm_source=rss)
+ - [Our Favorite Gaming Headset for Xbox Owners Is Discounted](https://www.wired.com/story/xbox-wireless-headset-deal-1125/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
