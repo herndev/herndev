@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The tech industry came for Steam and whiffed so hard that it&#39;s had to admit that it didn&#39;t even really like making games in the first place](https://www.pcgamer.com/gaming-industry/tech-indurstry-vs-steam/)
- - [My favorite genre of Arc Raiders videos so far is people discovering why Leapers are called that](https://www.pcgamer.com/games/third-person-shooter/my-favorite-genre-of-arc-raiders-videos-so-far-is-people-discovering-why-leapers-are-called-that/)
- - [The Mummy returns with Brendan Fraser, Rachel Weisz for sequel](https://www.polygon.com/new-mummy-movie-brendan-fraser-rachel-weisz/)<!-- GAME:END -->
+ - [All hidden gag locations in Fortnite Simpsons mini season](https://www.polygon.com/fortnite-hidden-gag-locations-milestone-quest/)
+ - [Telltale-style adventures are back: Dispatch has sold more than a million copies in 10 days](https://www.pcgamer.com/games/adventure/telltale-style-adventures-are-back-dispatch-has-sold-more-than-a-million-copies-in-10-days/)
+ - [Rockstar co-founder Dan Houser says there&#39;s a reason the Grand Theft Auto games are always set in US cities: &#39;Guns&#39;](https://www.pcgamer.com/games/action/rockstar-co-founder-dan-houser-says-theres-a-reason-the-grand-theft-auto-games-are-always-set-in-us-cities-guns/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
