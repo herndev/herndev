@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Holiday Cooking Kits and Classes to Delight Every Food Lovers in 2025](https://www.cnet.com/news/best-food-kits-and-experiences/#ftag=CAD590a51e)
  - [YouTube TV says it’s ready to restore Disney channels on this condition](https://www.androidauthority.com/youtube-tv-restore-disney-channels-3612654/)
- - [How to stream &#39;A Charlie Brown Thanksgiving&#39; for free in 2025](https://appleinsider.com/articles/25/11/04/how-to-stream-a-charlie-brown-thanksgiving-for-free-in-2025?utm_source=rss)
- - [Grab reports Q3 revenue up 22% YoY to $873M, vs. 869M est., and an adjusted EBITDA of $136M, helped by offerings like group food orders and cheaper shared rides &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/251103/p48#a251103p48)<!-- TECH:END -->
+ - [How to stream &#39;A Charlie Brown Thanksgiving&#39; for free in 2025](https://appleinsider.com/articles/25/11/04/how-to-stream-a-charlie-brown-thanksgiving-for-free-in-2025?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
