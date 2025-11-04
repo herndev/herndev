@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)
- - ⏩ [It Morphing Time!!](http://9gag.com/gag/avy46qn)
- - 👉 [A valuable lesson](http://9gag.com/gag/adBrQnQ)<!-- MEMES:END -->
+ - 💣 [This boy suddenly has more experience than most 9gaggers](http://9gag.com/gag/a9yZ5MK)
+ - ⏩ [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
+ - 👉 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)<!-- MEMES:END -->
 
 ---
 
