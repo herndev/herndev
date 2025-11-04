@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Simpsons house location in Fortnite](https://www.polygon.com/fortnite-homers-house-location-where-to-find/)
- - [It sure looks like World of Warcraft is getting its first premium currency after 21 years to monetize player housing in its next expansion](https://www.pcgamer.com/games/world-of-warcraft/it-sure-looks-like-world-of-warcraft-is-getting-its-first-premium-currency-after-21-years-to-monetize-player-housing-in-its-next-expansion/)
- - [New Fan-Made Courage The Cowardly Dog Game Looks Perfect And Creepy](https://kotaku.com/new-fan-made-courage-the-cowardly-dog-game-perfect-creepy-dreams-ps4-2000640924)<!-- GAME:END -->
+ - [Apple Has Dropped Its 11-inch iPad a New Record Low, Practically Giving It Away ⚡️](https://kotaku.com/apple-has-dropped-its-11-inch-ipad-a-new-record-low-practically-giving-it-away-2000640860)
+ - [EA will &#39;maintain creative control&#39; under new owners](https://www.polygon.com/ea-creative-control-saudi-arabia-private-equity-new-owners/)
+ - [Arc Raiders studio is returning loot to players who get hosed by cheaters: &#39;We&#39;re committed to building an environment where gameplay is about skill, teamwork, and fun&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-studio-is-returning-loot-to-players-who-get-hosed-by-cheaters-were-committed-to-building-an-environment-where-gameplay-is-about-skill-teamwork-and-fun/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
