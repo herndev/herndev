@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What are the human forms of Hazbin Hotel&#39;s demons?](https://www.polygon.com/video/hazbin-hotel-season-2-demons-human-forms/)
- - [World of Warcraft director says it&#39;s not getting easier in Midnight because it&#39;s coming to consoles: &#39;There&#39;s no reason for us to hide anything about this&#39;](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-director-says-its-not-getting-easier-in-midnight-because-its-coming-to-consoles-theres-no-reason-for-us-to-hide-anything-about-this/)
- - [The Séance of Blake Manor review](https://www.pcgamer.com/games/adventure/the-seance-of-blake-manor-review/)<!-- GAME:END -->
+ - [Now you can be Goku in Minecraft with new Dragon Ball Z DLC](https://www.polygon.com/minecraft-dragon-ball-z-anime-dlc-co-op-fighting-skins/)
+ - [One of the studios NetEase killed earlier this year is back from the dead as an &#39;independent production company,&#39; but its original boss is nowhere to be seen](https://www.pcgamer.com/gaming-industry/one-of-the-studios-netease-killed-earlier-this-year-is-back-from-the-dead-as-an-independent-production-company-but-its-original-boss-is-nowhere-to-be-seen/)
+ - [14 Essential Tips For Getting Started In Arc Raiders](https://kotaku.com/arc-raiders-tips-solo-group-recycle-free-loadout-2000641174)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
