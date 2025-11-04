@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
- - ⏩ [Is this the worst browngrading we\u2019ve seen so far?](http://9gag.com/gag/aO8AZQ2)
- - 👉 [Booked the cheapest hotel he could find in Frankfurt, Germany.](http://9gag.com/gag/ajPGOpw)<!-- MEMES:END -->
+ - 💣 [Parents then vs now](https://www.reddit.com/r/funny/comments/1oo7s1t/parents_then_vs_now/)
+ - ⏩ [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - 👉 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)<!-- MEMES:END -->
 
 ---
 
