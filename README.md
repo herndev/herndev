@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this the worst browngrading we\u2019ve seen so far?](http://9gag.com/gag/aO8AZQ2)
- - ⏩ [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
- - 👉 [Me eating at a 3-star Michelin restaurant](http://9gag.com/gag/aVv4EYO)<!-- MEMES:END -->
+ - 💣 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
+ - ⏩ [Is this the worst browngrading we\u2019ve seen so far?](http://9gag.com/gag/aO8AZQ2)
+ - 👉 [Booked the cheapest hotel he could find in Frankfurt, Germany.](http://9gag.com/gag/ajPGOpw)<!-- MEMES:END -->
 
 ---
 
