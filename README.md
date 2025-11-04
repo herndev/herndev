@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This boy suddenly has more experience than most 9gaggers](http://9gag.com/gag/a9yZ5MK)
- - ⏩ [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
- - 👉 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)<!-- MEMES:END -->
+ - ⏩ [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
+ - 👉 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)<!-- MEMES:END -->
 
 ---
 
