@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Age of Empires IV on PlayStation 5 and Dynasties of the East – Available Now!](https://www.ageofempires.com/news/age-of-empires-iv-on-playstation-5-and-dynasties-of-the-east-available-now/#new_tab)
- - [Fortnite Tackles The Biggest Simpsons Mystery](https://kotaku.com/fortnite-simpsons-house-layout-mystery-rumpus-room-secret-new-areas-2000641142)
- - [Xbox Game Pass November 2025: Black Ops 7 and 10 more new additions](https://www.polygon.com/game-pass-additions-removals-november-2025/)<!-- GAME:END -->
+ - [What are the human forms of Hazbin Hotel&#39;s demons?](https://www.polygon.com/video/hazbin-hotel-season-2-demons-human-forms/)
+ - [World of Warcraft director says it&#39;s not getting easier in Midnight because it&#39;s coming to consoles: &#39;There&#39;s no reason for us to hide anything about this&#39;](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-director-says-its-not-getting-easier-in-midnight-because-its-coming-to-consoles-theres-no-reason-for-us-to-hide-anything-about-this/)
+ - [The Séance of Blake Manor review](https://www.pcgamer.com/games/adventure/the-seance-of-blake-manor-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
