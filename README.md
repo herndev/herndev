@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US federal prosecutors allege that three cybersecurity professionals carried out ransomware attacks on at least five US companies in 2023 using ALPHV ransomware &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/251103/p41#a251103p41)
- - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)
- - [No, ChatGPT hasn&amp;#8217;t added a ban on giving legal and health advice](https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor)<!-- TECH:END -->
+ - [Apple discontinuing support for older Home architecture in February 2026](https://appleinsider.com/articles/25/11/03/apple-discontinuing-support-for-older-home-architecture-in-february-2026?utm_source=rss)
+ - [DeFi protocol Balancer says its V2 Composable Stable Pools suffered an exploit, which security experts estimate resulted in total losses worth about $128M &lpar;Ryan S. Gladwin/Decrypt&rpar;](http://www.techmeme.com/251103/p43#a251103p43)
+ - [Anthropic announces a deal with Cognizant, under which Cognizant will deploy Claude to its 350,000 employees and co-sell Claude models to its business customers &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251103/p42#a251103p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
