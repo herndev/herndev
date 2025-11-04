@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)
- - ⏩ [First day as winter caretaker at this awesome hotel. Going to write a book and spend some family time. Wish me luck guys!](http://9gag.com/gag/ary9Z1B)
- - 👉 [A valuable lesson](http://9gag.com/gag/adBrQnQ)<!-- MEMES:END -->
+ - 💣 [Booked the cheapest hotel he could find in Frankfurt, Germany.](http://9gag.com/gag/ajPGOpw)
+ - ⏩ [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - 👉 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)<!-- MEMES:END -->
 
 ---
 
