@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple discontinuing support for older Home architecture in February 2026](https://appleinsider.com/articles/25/11/03/apple-discontinuing-support-for-older-home-architecture-in-february-2026?utm_source=rss)
- - [DeFi protocol Balancer says its V2 Composable Stable Pools suffered an exploit, which security experts estimate resulted in total losses worth about $128M &lpar;Ryan S. Gladwin/Decrypt&rpar;](http://www.techmeme.com/251103/p43#a251103p43)
- - [Anthropic announces a deal with Cognizant, under which Cognizant will deploy Claude to its 350,000 employees and co-sell Claude models to its business customers &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251103/p42#a251103p42)<!-- TECH:END -->
+ - [Sources: WeRide is set to raise ~$308M in its Hong Kong listing, planning to price shares at ~$3.48, representing a ~4% discount to its Monday Nasdaq close &lpar;Bloomberg&rpar;](http://www.techmeme.com/251103/p46#a251103p46)
+ - [Epomaker MS68 review: Squishy and underwhelming](https://appleinsider.com/articles/25/11/04/epomaker-ms68-review-squishy-and-underwhelming?utm_source=rss)
+ - [Coca-Cola releases upgraded AI-generated ads for 2025 holidays, after finding people didn&#39;t know or care about the use of AI, despite criticism for its 2024 ads &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/251103/p45#a251103p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
