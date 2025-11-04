@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps can tell Polestar 4 drivers when to merge lanes](https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance)
- - [Spotify says it now has nearly 500K video podcasts and more than 390M users have now streamed a video podcast on its platform, up 54% YoY &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251104/p18#a251104p18)
- - [Tel Aviv-based Daylight, whose AI-native platform autonomously identifies and contains cyber threats, raised a $33M Series A, bringing its total funding to $40M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251104/p17#a251104p17)<!-- TECH:END -->
+ - [Predator: Badlands is a lighthearted twist on the brutal sci-fi series](https://www.theverge.com/entertainment/813146/predator-badlands-review)
+ - [Google Nest Wi-Fi Pro deal: Supercharge your connection for just $119.95](https://www.androidauthority.com/google-nest-wi-fi-pro-deal-2-3612871/)
+ - [Wikipedia co-founder joins editing conflict over the Gaza genocide page](https://www.theverge.com/news/813245/wikipedia-co-founder-jimmy-wales-gaza-genocide)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
