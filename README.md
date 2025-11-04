@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Outer Worlds 2&#39;s gear and skill points are far too restrictive](https://www.polygon.com/the-outer-worlds-2-restrictive-gear/)
- - [Baahubali: Eternal War trailer takes an Indian hero into the Spider-verse](https://www.polygon.com/baahubali-eternal-war-trailer-takes-an-indian-hero-into-the-spider-verse/)
- - [How 1000xResist’s Creators Brought it to Life on Xbox](https://news.xbox.com/en-us/2025/11/04/1000xresist-launch/)<!-- GAME:END -->
+ - [Will Clair Obscur: Expedition 33 pull off a Game Awards sweep?](https://www.polygon.com/clair-obscur-expedition-33-game-awards-sweep/)
+ - [Football Manager 26 Is Out Today with Xbox on PC and Console](https://www.xbox.com/en-us/games/store/football-manager-26/9PD0Z90216RJ#new_tab)
+ - [How to use tumble climb in REPO](https://www.polygon.com/repo-tumble-climb-ability-how-to-use/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
