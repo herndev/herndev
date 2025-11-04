@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo’s Messy Palworld Fight Takes An Unexpected Turn](https://kotaku.com/pokemon-patent-summoning-nintendo-palworld-monsters-2000641133)
- - [Give it up for the MCHOSE Ace 68 Turbo, the world&#39;s first 16 kHz keyboard and surely the last word in technological overkill](https://www.pcgamer.com/hardware/gaming-keyboards/give-it-up-for-the-mchose-ace-68-turbo-the-worlds-first-16-khz-keyboard-and-surely-the-last-word-in-technological-overkill/)
- - [One Piece season 3 casts Cole Escola as fan-favorite character](https://www.polygon.com/one-piece-season-3-netflix-cole-escola-bon-clay/)<!-- GAME:END -->
+ - [Arc Raiders is a surprisingly friendly extraction shooter for solo players](https://www.polygon.com/arc-raiders-solo-extraction-shooter-experience/)
+ - [Nice Day for Fishing: Creating the World of Epic NPC Man’s Azerim](https://news.xbox.com/en-us/2025/11/04/nice-day-for-fishing-creating-the-world-of-epic-npc-mans-azerim/)
+ - [Lord of the Rings Online player accurately recreates Frodo&#39;s journey to Mount Doom in 10-hour YouTube video: &#39;When I saw how perfectly the game followed Tolkien&#39;s imagination, I decided to do it properly&#39;](https://www.pcgamer.com/games/mmo/lord-of-the-rings-online-player-accurately-recreates-frodos-journey-to-mount-doom-in-10-hour-youtube-video-when-i-saw-how-perfectly-the-game-followed-tolkiens-imagination-i-decided-to-do-it-properly/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
