@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1 ATHEIST vs 20 GODS](https://www.reddit.com/r/funny/comments/1oohi04/1_atheist_vs_20_gods/)
+ - 💣 [Booked the cheapest hotel he could find in Frankfurt, Germany.](http://9gag.com/gag/ajPGOpw)
  - ⏩ [Jos\u00e9 Meffre set an incredible speed record of 204.73 km/h on this bicycle in 1962.](http://9gag.com/gag/a4PmNMQ)
- - 👉 [This boy suddenly has more experience than most 9gaggers](http://9gag.com/gag/a9yZ5MK)<!-- MEMES:END -->
+ - 👉 [If You Can&#39;t Reach A Wall, Its Possible To Get Stuck Floating In The Space Station](http://9gag.com/gag/abAKOnO)<!-- MEMES:END -->
 
 ---
 
