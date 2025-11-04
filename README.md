@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S26 series could be bad news for your wallet](https://www.androidauthority.com/samsung-galaxy-s26-price-increase-3612699/)
- - [A New Light-Based Cancer Treatment Kills Tumor Cells and Spares Healthy Ones](https://www.wired.com/story/a-new-light-based-cancer-treatment-kills-tumor-cells-and-spares-healthy-ones/)
- - [Exclusive: Here’s your first look at Google Messages’ Nano Banana-powered Remix feature](https://www.androidauthority.com/google-messages-nano-banana-remix-exclusive-demo-3612702/)<!-- TECH:END -->
+ - [Your phone is faking its signal strength, and you can blame Google and your carrier](https://www.androidauthority.com/5g-network-carriers-fake-signal-strength-3612738/)
+ - [Nintendo is raising its Switch 2 sales expectations](https://www.theverge.com/news/813025/nintendo-switch-2-sales-september-2025-earnings)
+ - [Chainalysis CEO Jonathan Levin says DeFi platforms&#39; rapid growth leaves their users&#39; assets at risk of attack; DefiLlama says $140B+ is held on DeFi protocols &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251104/p3#a251104p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
