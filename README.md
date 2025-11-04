@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
- - ⏩ [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - 👉 [It Morphing Time!!](http://9gag.com/gag/avy46qn)<!-- MEMES:END -->
+ - 💣 [Best chips](http://9gag.com/gag/a6Z495e)
+ - ⏩ [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
+ - 👉 [If You Can&#39;t Reach A Wall, Its Possible To Get Stuck Floating In The Space Station](http://9gag.com/gag/abAKOnO)<!-- MEMES:END -->
 
 ---
 
