@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Booked the cheapest hotel he could find in Frankfurt, Germany.](http://9gag.com/gag/ajPGOpw)
- - ⏩ [Jos\u00e9 Meffre set an incredible speed record of 204.73 km/h on this bicycle in 1962.](http://9gag.com/gag/a4PmNMQ)
- - 👉 [If You Can&#39;t Reach A Wall, Its Possible To Get Stuck Floating In The Space Station](http://9gag.com/gag/abAKOnO)<!-- MEMES:END -->
+ - 💣 [My brain refusing to accept how quickly time flies](http://9gag.com/gag/a1mB5q8)
+ - ⏩ [The King](http://9gag.com/gag/aVv4m5v)
+ - 👉 [Prey for me](http://9gag.com/gag/a87QDQZ)<!-- MEMES:END -->
 
 ---
 
