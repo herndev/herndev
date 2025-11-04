@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Match reports Q3 revenue up 2% YoY to $914M, vs. $915M est., net income up 18% to $161M, paying users down 5% to 14.5M, and forecasts Q4 revenue below estimates &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/251104/p34#a251104p34)
- - [Microsoft AI&amp;#8217;s first in-house image generator MAI-Image-1 is now available](https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1)
- - [AMD reports Q3 revenue up 36% YoY to $9.24B, vs. $8.7B est., Data Center revenue up 22% to $4.3B, and forecasts Q4 revenue below the highest projections &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/251104/p33#a251104p33)<!-- TECH:END -->
+ - [The brand-new Apple Watch SE 3 and Watch Ultra 3 are on sale already!](https://www.androidauthority.com/apple-watch-se-3-ultra-3-deals-3612870/)
+ - [Australia broadens its social media ban for under-16s to include Reddit and Kick, which join Facebook, Instagram, Threads, Snapchat, TikTok, X, and YouTube &lpar;Clare Armstrong/ABC&rpar;](http://www.techmeme.com/251104/p37#a251104p37)
+ - [Apple Podcasts is generating automatic links and chapters](https://www.theverge.com/news/813817/apple-podcasts-automatic-links-and-chapters)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
