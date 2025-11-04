@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Will Clair Obscur: Expedition 33 pull off a Game Awards sweep?](https://www.polygon.com/clair-obscur-expedition-33-game-awards-sweep/)
- - [Football Manager 26 Is Out Today with Xbox on PC and Console](https://www.xbox.com/en-us/games/store/football-manager-26/9PD0Z90216RJ#new_tab)
- - [How to use tumble climb in REPO](https://www.polygon.com/repo-tumble-climb-ability-how-to-use/)<!-- GAME:END -->
+ - [Nintendo’s Messy Palworld Fight Takes An Unexpected Turn](https://kotaku.com/pokemon-patent-summoning-nintendo-palworld-monsters-2000641133)
+ - [Give it up for the MCHOSE Ace 68 Turbo, the world&#39;s first 16 kHz keyboard and surely the last word in technological overkill](https://www.pcgamer.com/hardware/gaming-keyboards/give-it-up-for-the-mchose-ace-68-turbo-the-worlds-first-16-khz-keyboard-and-surely-the-last-word-in-technological-overkill/)
+ - [One Piece season 3 casts Cole Escola as fan-favorite character](https://www.polygon.com/one-piece-season-3-netflix-cole-escola-bon-clay/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
