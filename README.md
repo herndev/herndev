@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [United Airlines broke his guitar and refused to pay. So Dave Carroll made a diss track and their stock tanked ~10%, costing the company around $180 million. 🎸📉](https://www.reddit.com/r/funny/comments/1oo9bnn/united_airlines_broke_his_guitar_and_refused_to/)
- - ⏩ [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
- - 👉 [If You Can&#39;t Reach A Wall, Its Possible To Get Stuck Floating In The Space Station](http://9gag.com/gag/abAKOnO)<!-- MEMES:END -->
+ - 💣 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
+ - ⏩ [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
+ - 👉 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)<!-- MEMES:END -->
 
 ---
 
