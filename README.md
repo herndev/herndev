@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Has Dropped Its 11-inch iPad a New Record Low, Practically Giving It Away ⚡️](https://kotaku.com/apple-has-dropped-its-11-inch-ipad-a-new-record-low-practically-giving-it-away-2000640860)
- - [EA will &#39;maintain creative control&#39; under new owners](https://www.polygon.com/ea-creative-control-saudi-arabia-private-equity-new-owners/)
- - [Arc Raiders studio is returning loot to players who get hosed by cheaters: &#39;We&#39;re committed to building an environment where gameplay is about skill, teamwork, and fun&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-studio-is-returning-loot-to-players-who-get-hosed-by-cheaters-were-committed-to-building-an-environment-where-gameplay-is-about-skill-teamwork-and-fun/)<!-- GAME:END -->
+ - [HP 17-Inch Laptop with Ryzen 5 Nearly Free &lpar;71% Off&rpar;, Amazon Clearing Stock for Early Black Friday](https://kotaku.com/hp-17-inch-laptop-with-ryzen-5-nearly-free-71-off-amazon-clearing-stock-for-early-black-friday-2000640936)
+ - [&#39;One of the chillest communities I’ve ever encountered&#39;: Arc Raiders solos are choosing love over war, and it&#39;s beautiful](https://www.pcgamer.com/games/third-person-shooter/one-of-the-chillest-communities-ive-ever-encountered-arc-raiders-is-becoming-the-anti-tarkov-as-solo-players-choose-love-over-war/)
+ - [Apple’s Official Partner Selling Off 24,000mAh Power Bank, Now Going for Mere Pennies](https://kotaku.com/apples-official-partner-selling-off-24000mah-power-bank-now-going-for-mere-pennies-2000640848)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
