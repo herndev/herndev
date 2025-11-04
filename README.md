@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Now you can be Goku in Minecraft with new Dragon Ball Z DLC](https://www.polygon.com/minecraft-dragon-ball-z-anime-dlc-co-op-fighting-skins/)
- - [One of the studios NetEase killed earlier this year is back from the dead as an &#39;independent production company,&#39; but its original boss is nowhere to be seen](https://www.pcgamer.com/gaming-industry/one-of-the-studios-netease-killed-earlier-this-year-is-back-from-the-dead-as-an-independent-production-company-but-its-original-boss-is-nowhere-to-be-seen/)
- - [14 Essential Tips For Getting Started In Arc Raiders](https://kotaku.com/arc-raiders-tips-solo-group-recycle-free-loadout-2000641174)<!-- GAME:END -->
+ - [The tech industry came for Steam and whiffed so hard that it&#39;s had to admit that it didn&#39;t even really like making games in the first place](https://www.pcgamer.com/gaming-industry/tech-indurstry-vs-steam/)
+ - [My favorite genre of Arc Raiders videos so far is people discovering why Leapers are called that](https://www.pcgamer.com/games/third-person-shooter/my-favorite-genre-of-arc-raiders-videos-so-far-is-people-discovering-why-leapers-are-called-that/)
+ - [The Mummy returns with Brendan Fraser, Rachel Weisz for sequel](https://www.polygon.com/new-mummy-movie-brendan-fraser-rachel-weisz/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
