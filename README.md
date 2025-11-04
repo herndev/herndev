@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Windows &#39;update and shut down&#39; reboot glitch finally fixed, saving tiny gaming laptop batteries everywhere](https://www.pcgamer.com/hardware/windows-update-and-shut-down-reboot-glitch-finally-fixed-saving-tiny-gaming-laptop-batteries-everywhere/)
- - [Amazon Clears Out This 20,000mAh 87W 3-Port Power Bank, Now Selling for Pennies](https://kotaku.com/amazon-clears-out-this-20000mah-87w-3-port-power-bank-now-selling-for-pennies-2000641031)
- - [Creepers have no power over you now, someone has made a mod which forces them to ask you for permission before they explode](https://www.pcgamer.com/games/survival-crafting/creepers-have-no-power-over-you-now-someone-has-made-a-mod-which-forces-them-to-ask-you-for-permission-before-they-explode/)<!-- GAME:END -->
+ - [Age of Imprisonment helps the Switch 2 pass its biggest test yet](https://www.polygon.com/hyrule-warriors-age-of-imprisonment-switch-2-performance/)
+ - [Coming to Xbox Game Pass: Call of Duty: Black Ops 7, Winter Burrow, Dead Static Drive, and More](https://news.xbox.com/en-us/2025/11/04/xbox-game-pass-november-2025-wave-1/)
+ - [LEGO Just Released Its Christmas Ornaments Building Set, Amazon Has Already Sold 30K Units](https://kotaku.com/lego-just-released-its-christmas-ornaments-building-set-amazon-has-already-sold-30k-units-2000641049)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
