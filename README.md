@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why I skipped the Galaxy Z Fold 7 for a cheaper alternative](https://www.androidauthority.com/i-skipped-z-fold-7-for-cheaper-fold-6-3612473/)
- - [Google Maps on cars will ‘see’ what lane you’re in to give you better directions](https://www.androidauthority.com/google-maps-live-lane-guidance-3612548/)
- - [Hisense U75QG TV Review: Dazzling Punch, Minimal Compromises](https://www.wired.com/review/hisense-u75qg/)<!-- TECH:END -->
+ - [Jimmy Wales says Wikipedia&#39;s &quot;Gaza genocide&quot; page failed to meet its standards of neutrality; the article is listed as &quot;protected&quot; until 21:47 UTC on November 4 &lpar;Xander Elliards/The National&rpar;](http://www.techmeme.com/251104/p11#a251104p11)
+ - [The T-Mobile credit card is now officially here, but is it worth signing up for?](https://www.androidauthority.com/t-mobile-credit-card-is-here-3612812/)
+ - [The best pet tech you can buy in 2025: Top picks for animal lovers on any budget](https://www.androidauthority.com/best-pet-tech-3592874/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
