@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a bunch of hackers freed the Kinect from the Xbox](https://www.theverge.com/tech/812803/hacking-kinect-history)
- - [The sequel to one of the best camera phones could pack two 200MP cameras &lpar;!&rpar;](https://www.androidauthority.com/vivo-x300-ultra-dual-200mp-camera-leak-3612755/)
- - [An upcoming Kindle rival could run Android and offer a faster refresh rate](https://www.androidauthority.com/upcoming-kindle-rival-android-faster-refresh-rate-3612668/)<!-- TECH:END -->
+ - [Why I skipped the Galaxy Z Fold 7 for a cheaper alternative](https://www.androidauthority.com/i-skipped-z-fold-7-for-cheaper-fold-6-3612473/)
+ - [Google Maps on cars will ‘see’ what lane you’re in to give you better directions](https://www.androidauthority.com/google-maps-live-lane-guidance-3612548/)
+ - [Hisense U75QG TV Review: Dazzling Punch, Minimal Compromises](https://www.wired.com/review/hisense-u75qg/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
