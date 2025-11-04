@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Switch 2 sales pass 10 million in 4 months](https://www.polygon.com/nintendo-switch-2-biggest-console-launch-10-million/)
- - [Legendary FPS maker John Romero delivers the objectively correct answer when voting for the most satisfying weapon in gaming history: &#39;I strongly agree, Mr Romero&#39;](https://www.pcgamer.com/games/fps/legendary-fps-maker-john-romero-delivers-the-objectively-correct-answer-when-voting-for-the-most-satisfying-weapon-in-gaming-history-i-strongly-agree-mr-romero/)
- - [Walmart is finally putting limits on how many Pokémon cards you can buy](https://www.polygon.com/pokemon-walmart-purchase-limits-scalpers/)<!-- GAME:END -->
+ - [Windows &#39;update and shut down&#39; reboot glitch finally fixed, saving tiny gaming laptop batteries everywhere](https://www.pcgamer.com/hardware/windows-update-and-shut-down-reboot-glitch-finally-fixed-saving-tiny-gaming-laptop-batteries-everywhere/)
+ - [Amazon Clears Out This 20,000mAh 87W 3-Port Power Bank, Now Selling for Pennies](https://kotaku.com/amazon-clears-out-this-20000mah-87w-3-port-power-bank-now-selling-for-pennies-2000641031)
+ - [Creepers have no power over you now, someone has made a mod which forces them to ask you for permission before they explode](https://www.pcgamer.com/games/survival-crafting/creepers-have-no-power-over-you-now-someone-has-made-a-mod-which-forces-them-to-ask-you-for-permission-before-they-explode/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
