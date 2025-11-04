@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Budget-Friendly Mac Mini Alternative, This Windows 11 Pro Mini PC Selling for Peanuts at Amazon](https://kotaku.com/budget-friendly-mac-mini-alternative-this-windows-11-pro-mini-pc-selling-for-peanuts-at-amazon-2000640954)
- - [HP 17-Inch Laptop with Ryzen 5 Nearly Free &lpar;71% Off&rpar;, Amazon Clearing Stock for Early Black Friday](https://kotaku.com/hp-17-inch-laptop-with-ryzen-5-nearly-free-71-off-amazon-clearing-stock-for-early-black-friday-2000640936)
- - [&#39;One of the chillest communities I’ve ever encountered&#39;: Arc Raiders solos are choosing love over war, and it&#39;s beautiful](https://www.pcgamer.com/games/third-person-shooter/one-of-the-chillest-communities-ive-ever-encountered-arc-raiders-is-becoming-the-anti-tarkov-as-solo-players-choose-love-over-war/)<!-- GAME:END -->
+ - [Nintendo Switch 2 sales pass 10 million in 4 months](https://www.polygon.com/nintendo-switch-2-biggest-console-launch-10-million/)
+ - [Legendary FPS maker John Romero delivers the objectively correct answer when voting for the most satisfying weapon in gaming history: &#39;I strongly agree, Mr Romero&#39;](https://www.pcgamer.com/games/fps/legendary-fps-maker-john-romero-delivers-the-objectively-correct-answer-when-voting-for-the-most-satisfying-weapon-in-gaming-history-i-strongly-agree-mr-romero/)
+ - [Walmart is finally putting limits on how many Pokémon cards you can buy](https://www.polygon.com/pokemon-walmart-purchase-limits-scalpers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
