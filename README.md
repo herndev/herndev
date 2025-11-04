@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - ⏩ [Australia](http://9gag.com/gag/aGy689X)
- - 👉 [Best chips](http://9gag.com/gag/a6Z495e)<!-- MEMES:END -->
+ - ⏩ [Fixed it](http://9gag.com/gag/a6Z49Zb)
+ - 👉 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)<!-- MEMES:END -->
 
 ---
 
