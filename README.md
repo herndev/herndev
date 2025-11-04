@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
- - ⏩ [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
+ - 💣 [Is this the worst browngrading we\u2019ve seen so far?](http://9gag.com/gag/aO8AZQ2)
+ - ⏩ [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
  - 👉 [Me eating at a 3-star Michelin restaurant](http://9gag.com/gag/aVv4EYO)<!-- MEMES:END -->
 
 ---
