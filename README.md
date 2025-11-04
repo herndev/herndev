@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Lyft CEO David Risher on the company&#39;s turnaround, AI, paying drivers more, Uber, partnership with Tensor for autonomous vehicle tech, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251104/p2#a251104p2)
- - [It’s something at least: Nothing offers a half-hearted fix to its latest bloatware problem](https://www.androidauthority.com/nothing-phone-3a-bloatware-update-3612682/)
- - [Nintendo reports Q2 revenue of $3.7B, vs. ~$3B est., and net profit of ~$667M, vs. ~$412M est.; it now expects 19M Switch 2 sales by March 2026, up from 15M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/251104/p1#a251104p1)<!-- TECH:END -->
+ - [The Galaxy S26 series could be bad news for your wallet](https://www.androidauthority.com/samsung-galaxy-s26-price-increase-3612699/)
+ - [A New Light-Based Cancer Treatment Kills Tumor Cells and Spares Healthy Ones](https://www.wired.com/story/a-new-light-based-cancer-treatment-kills-tumor-cells-and-spares-healthy-ones/)
+ - [Exclusive: Here’s your first look at Google Messages’ Nano Banana-powered Remix feature](https://www.androidauthority.com/google-messages-nano-banana-remix-exclusive-demo-3612702/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
