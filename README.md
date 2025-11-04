@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Booked the cheapest hotel he could find in Frankfurt, Germany.](http://9gag.com/gag/ajPGOpw)
- - ⏩ [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - 👉 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)<!-- MEMES:END -->
+ - 💣 [All the work that women have been doing](http://9gag.com/gag/a9yZvvK)
+ - ⏩ [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)
+ - 👉 [A valuable lesson](http://9gag.com/gag/adBrQnQ)<!-- MEMES:END -->
 
 ---
 
