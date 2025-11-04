@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All the work that women have been doing](http://9gag.com/gag/a9yZvvK)
- - ⏩ [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)
+ - 💣 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)
+ - ⏩ [It Morphing Time!!](http://9gag.com/gag/avy46qn)
  - 👉 [A valuable lesson](http://9gag.com/gag/adBrQnQ)<!-- MEMES:END -->
 
 ---
