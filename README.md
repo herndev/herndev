@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
- - ⏩ [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
- - 👉 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)<!-- MEMES:END -->
+ - 💣 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
+ - ⏩ [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - 👉 [It Morphing Time!!](http://9gag.com/gag/avy46qn)<!-- MEMES:END -->
 
 ---
 
