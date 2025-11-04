@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jimmy Wales says Wikipedia&#39;s &quot;Gaza genocide&quot; page failed to meet its standards of neutrality; the article is listed as &quot;protected&quot; until 21:47 UTC on November 4 &lpar;Xander Elliards/The National&rpar;](http://www.techmeme.com/251104/p11#a251104p11)
- - [The T-Mobile credit card is now officially here, but is it worth signing up for?](https://www.androidauthority.com/t-mobile-credit-card-is-here-3612812/)
- - [The best pet tech you can buy in 2025: Top picks for animal lovers on any budget](https://www.androidauthority.com/best-pet-tech-3592874/)<!-- TECH:END -->
+ - [Goodbye, Assistant: Google prepares to make Gemini your only option](https://www.androidauthority.com/gemini-removes-google-assistant-stub-apk-teardown-3612818/)
+ - [The GOP Civil War Over Nick Fuentes Has Just Begun](https://www.wired.com/story/gop-civil-war-over-nick-fuentes-antisemitism/)
+ - [The 16 Best Advent Calendars &lpar;2025&rpar;: We Opened Every Door](https://www.wired.com/gallery/best-advent-calendar/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
