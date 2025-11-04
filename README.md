@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me eating at a 3-star Michelin restaurant](http://9gag.com/gag/aVv4EYO)
- - ⏩ [Best chips](http://9gag.com/gag/a6Z495e)
- - 👉 [It Morphing Time!!](http://9gag.com/gag/avy46qn)<!-- MEMES:END -->
+ - 💣 [All the work that women have been doing](http://9gag.com/gag/a9yZvvK)
+ - ⏩ [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)
+ - 👉 [First day as winter caretaker at this awesome hotel. Going to write a book and spend some family time. Wish me luck guys!](http://9gag.com/gag/ary9Z1B)<!-- MEMES:END -->
 
 ---
 
