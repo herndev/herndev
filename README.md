@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Z TriFold finally seen in detail, and it’s looking seriously impressive](https://www.androidauthority.com/samsung-galaxy-z-flip-7-up-close-video-3612636/)
  - [Sources: WeRide is set to raise ~$308M in its Hong Kong listing, planning to price shares at ~$3.48, representing a ~4% discount to its Monday Nasdaq close &lpar;Bloomberg&rpar;](http://www.techmeme.com/251103/p46#a251103p46)
- - [Epomaker MS68 review: Squishy and underwhelming](https://appleinsider.com/articles/25/11/04/epomaker-ms68-review-squishy-and-underwhelming?utm_source=rss)
- - [Coca-Cola releases upgraded AI-generated ads for 2025 holidays, after finding people didn&#39;t know or care about the use of AI, despite criticism for its 2024 ads &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/251103/p45#a251103p45)<!-- TECH:END -->
+ - [Windows 11 Previews a Feature That Lets You Share Audio With Another Person&#39;s Device](https://www.cnet.com/tech/mobile/windows-11-previews-a-feature-that-lets-you-share-audio-with-another-persons-device/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
