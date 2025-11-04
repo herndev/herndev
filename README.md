@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deck your house in Govee’s smart string lights, which are cheaper ahead of the holidays](https://www.theverge.com/tech/813488/govee-christmas-lights-2-holidays-2025-deal-sale)
- - [AirPods Live Translation is coming to the EU soon after regulatory delays](https://appleinsider.com/articles/25/11/04/airpods-live-translation-is-coming-to-the-eu-soon-after-regulatory-delays?utm_source=rss)
- - [Perplexity AI accuses Amazon of &quot;bullying&quot; after receiving &quot;an aggressive legal threat&quot; demanding Comet not make purchases on users&#39; behalf &lpar;CNBC&rpar;](http://www.techmeme.com/251104/p29#a251104p29)<!-- TECH:END -->
+ - [Influencers have fractured reality in Portland](https://www.theverge.com/policy/813408/portland-influencers-national-guard-oregon-ninth-circuit)
+ - [New in iOS 26.2: Liquid Glass, News, Podcasts, and Sleep Score changes](https://appleinsider.com/articles/25/11/04/new-in-ios-262-liquid-glass-news-podcasts-and-sleep-score-changes?utm_source=rss)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
