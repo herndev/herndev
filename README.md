@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Age of Imprisonment helps the Switch 2 pass its biggest test yet](https://www.polygon.com/hyrule-warriors-age-of-imprisonment-switch-2-performance/)
- - [Coming to Xbox Game Pass: Call of Duty: Black Ops 7, Winter Burrow, Dead Static Drive, and More](https://news.xbox.com/en-us/2025/11/04/xbox-game-pass-november-2025-wave-1/)
- - [LEGO Just Released Its Christmas Ornaments Building Set, Amazon Has Already Sold 30K Units](https://kotaku.com/lego-just-released-its-christmas-ornaments-building-set-amazon-has-already-sold-30k-units-2000641049)<!-- GAME:END -->
+ - [Outer Worlds 2&#39;s gear and skill points are far too restrictive](https://www.polygon.com/the-outer-worlds-2-restrictive-gear/)
+ - [Baahubali: Eternal War trailer takes an Indian hero into the Spider-verse](https://www.polygon.com/baahubali-eternal-war-trailer-takes-an-indian-hero-into-the-spider-verse/)
+ - [How 1000xResist’s Creators Brought it to Life on Xbox](https://news.xbox.com/en-us/2025/11/04/1000xresist-launch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
