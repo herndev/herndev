@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Parents then vs now](https://www.reddit.com/r/funny/comments/1oo7s1t/parents_then_vs_now/)
- - ⏩ [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - 👉 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)<!-- MEMES:END -->
+ - 💣 [United Airlines broke his guitar and refused to pay. So Dave Carroll made a diss track and their stock tanked ~10%, costing the company around $180 million. 🎸📉](https://www.reddit.com/r/funny/comments/1oo9bnn/united_airlines_broke_his_guitar_and_refused_to/)
+ - ⏩ [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
+ - 👉 [If You Can&#39;t Reach A Wall, Its Possible To Get Stuck Floating In The Space Station](http://9gag.com/gag/abAKOnO)<!-- MEMES:END -->
 
 ---
 
