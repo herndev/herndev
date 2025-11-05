@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Customer engagement service MoEngage raised a $100M Series F led by Goldman Sachs Alternatives, bringing its total funding to $250M as it ramps up AI investment &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251105/p4#a251105p4)
- - [Galaxy S26 Ultra leak reveals how it compares to S25 Ultra, iPhone 17 Pro Max](https://www.androidauthority.com/samsung-galaxy-s26-ultra-ice-universe-renders-3613080/)
- - [Google&#39;s proposed Epic settlement includes reduced app store fees globally and a new program for alternative app stores to become first-class Android citizens &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251105/p3#a251105p3)<!-- TECH:END -->
+ - [Motorola’s Edge 70 is the blueprint for future thin phones](https://www.theverge.com/gadgets/813377/motorola-edge-70-review)
+ - [How ideology-driven AI chatbots like Grok and Gab&#39;s Arya position themselves as alternatives to mainstream chatbots accused of liberal bias &lpar;New York Times&rpar;](http://www.techmeme.com/251105/p10#a251105p10)
+ - [Sources detail a leadership vacuum and staff cuts at the NSA, eroding morale among its analysts and weakening the agency&#39;s long-term cyber capabilities &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/251105/p9#a251105p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
