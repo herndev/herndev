@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Piece&#39;s God Valley flashback proves you shouldn&#39;t believe in legends](https://www.polygon.com/one-piece-chapter-1164-god-valley-flashback-history-lies-truth/)
- - [How Treyarch is Bringing a Rusted Pick-up Truck to Life in Call of Duty: Black Ops 7 Zombies](https://news.xbox.com/en-us/2025/11/05/how-treyarch-bringing-rusted-pick-up-truck-to-life-black-ops-7-zombies/)
- - [One of the biggest streamers on Twitch is trying to take Asmongold and Emiru to court over defamation claims](https://www.pcgamer.com/hardware/streaming/one-of-the-biggest-streamers-on-twitch-is-trying-to-take-asmongold-and-emiru-to-court-over-defamation-claims/)<!-- GAME:END -->
+ - [Join the Pillars of Eternity Public Beta Today!](https://news.xbox.com/en-us/2025/11/05/join-the-pillars-of-eternity-public-beta-today/)
+ - [I Regret To Report ‘Grand Theft Cthulhu’ On Game Pass Just Ain’t Good](https://kotaku.com/grand-theft-cthulhu-gta-dead-static-drive-xbox-game-pass-review-is-it-good-2000641388)
+ - [If You’ve Finally Run Out Of Stuff To Do In Baldur’s Gate 3, How About A New Campaign?](https://kotaku.com/baldurs-gate-3-campaign-fan-mod-path-to-menzoberranzan-2000641395)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
