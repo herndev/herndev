@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
- - ⏩ [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
- - 👉 [Dont try this at home](http://9gag.com/gag/aRB9oV5)<!-- MEMES:END -->
+ - ⏩ [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
+ - 👉 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)<!-- MEMES:END -->
 
 ---
 
