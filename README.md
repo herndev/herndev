@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All hidden gag locations in Fortnite Simpsons mini season](https://www.polygon.com/fortnite-hidden-gag-locations-milestone-quest/)
- - [Telltale-style adventures are back: Dispatch has sold more than a million copies in 10 days](https://www.pcgamer.com/games/adventure/telltale-style-adventures-are-back-dispatch-has-sold-more-than-a-million-copies-in-10-days/)
- - [Rockstar co-founder Dan Houser says there&#39;s a reason the Grand Theft Auto games are always set in US cities: &#39;Guns&#39;](https://www.pcgamer.com/games/action/rockstar-co-founder-dan-houser-says-theres-a-reason-the-grand-theft-auto-games-are-always-set-in-us-cities-guns/)<!-- GAME:END -->
+ - [If you don&#39;t already own XCOM 2 or Midnight Suns for some reason, they&#39;re part of a big Firaxis Steam sale right now along with a bunch of other strategy greats](https://www.pcgamer.com/games/if-you-dont-already-own-xcom-2-or-midnight-suns-for-some-reason-theyre-part-of-a-big-firaxis-steam-sale-right-now-along-with-a-bunch-of-other-strategy-greats/)
+ - [If You’re a Gamer, This Logitech G305 Wireless Mouse Is Selling for Literally Pennies](https://kotaku.com/if-youre-a-gamer-this-logitech-g305-wireless-mouse-is-selling-for-literally-pennies-2000641075)
+ - [Govee Clears Out Its Color Floor Lamp, Now Cheaper Than a Budget Lamp on Amazon](https://kotaku.com/govee-clears-out-its-color-floor-lamp-now-cheaper-than-a-budget-lamp-on-amazon-2000641217)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
