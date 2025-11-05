@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Black Friday deal: M4 MacBook Air drops to $749 &lpar;lowest price ever&rpar;](https://appleinsider.com/articles/25/11/05/early-black-friday-deal-m4-macbook-air-drops-to-749-lowest-price-ever?utm_source=rss)
- - [Apple’s slim M4 MacBook Air is cheaper than ever ahead of Black Friday](https://www.theverge.com/tech/814640/apple-macbook-air-m4-deal-sale)
- - [The AI Data Center Boom Is Warping the US Economy](https://www.wired.com/story/data-center-ai-boom-us-economy-jobs/)<!-- TECH:END -->
+ - [Expect more Apple Immersive Video thanks to streamlined production process](https://appleinsider.com/articles/25/11/05/expect-more-apple-immersive-video-thanks-to-streamlined-production-process?utm_source=rss)
+ - [Qualcomm reports Q4 revenue up 10% to $11.27B, vs. $10.79B est., handsets revenue up 14% to $6.96B, and forecasts Q1 revenue above estimates &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251105/p48#a251105p48)
+ - [Snap announces a deal to distribute Perplexity&#39;s search engine to Snapchat users; Perplexity will pay Snap $400M through a combination of cash and equity &lpar;Bloomberg&rpar;](http://www.techmeme.com/251105/p47#a251105p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
