@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo’s new Store mobile app will let you shop Switch games, earn rewards, and keep up on news](https://www.androidauthority.com/nintendo-store-app-launch-3613249/)
- - [You can keep using your iPad as an Apple Home hub until February](https://www.theverge.com/news/814287/apple-home-new-architecture-update-delay)
- - [This AI smart ring lets you record voice notes with a whisper](https://www.theverge.com/ai-artificial-intelligence/814329/sandbar-stream-ring-ai-wearable)<!-- TECH:END -->
+ - [The hottest trend in speedrunning is flipping a coin](https://www.theverge.com/games/814111/unfair-flips-speedrunning)
+ - [Baseus’ solar-powered dash cam is down to its best price yet](https://www.theverge.com/tech/814368/baseus-primetrip-vd1-pro-dash-cam-deal-sale)
+ - [Zohran Mamdani Just Inherited the NYPD Surveillance State](https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
