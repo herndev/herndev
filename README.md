@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The hottest trend in speedrunning is flipping a coin](https://www.theverge.com/games/814111/unfair-flips-speedrunning)
- - [Baseus’ solar-powered dash cam is down to its best price yet](https://www.theverge.com/tech/814368/baseus-primetrip-vd1-pro-dash-cam-deal-sale)
- - [Zohran Mamdani Just Inherited the NYPD Surveillance State](https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/)<!-- TECH:END -->
+ - [AI Mode button in iPad &amp; iPhone Chrome speeds searches](https://appleinsider.com/articles/25/11/05/ai-mode-button-in-ipad-iphone-chrome-speeds-searches?utm_source=rss)
+ - [A look at Bret Taylor&#39;s AI agent startup Sierra as it launches new products; source: Sierra is on track to exceed $100M in annualized revenue by January 2026 &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/251105/p42#a251105p42)
+ - [Champions League Soccer: Livestream Club Brugge vs. Barcelona Live From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-club-brugge-vs-barcelona-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
