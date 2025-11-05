@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Mode button in iPad &amp; iPhone Chrome speeds searches](https://appleinsider.com/articles/25/11/05/ai-mode-button-in-ipad-iphone-chrome-speeds-searches?utm_source=rss)
- - [A look at Bret Taylor&#39;s AI agent startup Sierra as it launches new products; source: Sierra is on track to exceed $100M in annualized revenue by January 2026 &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/251105/p42#a251105p42)
- - [Champions League Soccer: Livestream Club Brugge vs. Barcelona Live From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-club-brugge-vs-barcelona-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: data center startup Crusoe is arranging an employee share sale involving ~$120M worth of shares that values it at ~$13B, up from $10B+ just weeks ago &lpar;The Information&rpar;](http://www.techmeme.com/251105/p44#a251105p44)
+ - [Wokyis M5 dock review: Mac Plus looks, M4 Mac mini performance](https://appleinsider.com/articles/25/08/04/wokyis-m5-dock-review-mac-plus-looks-m4-mac-mini-performance?utm_source=rss)
+ - [Android inflates your phone’s signal strength, but for good reason &lpar;Updated&rpar;](https://www.androidauthority.com/5g-network-carriers-fake-signal-strength-3612738/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
