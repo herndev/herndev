@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All Amazon Fire TV Stick models are on sale!](https://www.androidauthority.com/amazon-fire-tv-stick-hd-4k-select-plus-max-deals-3613160/)
- - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)
- - [Steam Deck gets the feature we all assumed it already had](https://www.androidauthority.com/steam-deck-display-off-downloads-update-3613191/)<!-- TECH:END -->
+ - [Disney and Fortnite show hints of budding metaverse with new Disneyland game](https://www.theverge.com/games/813723/fortnite-disneyland-game-rush-launch-metaverse)
+ - [Beats Pill deal: Save $50 on the best Apple speaker!](https://www.androidauthority.com/beats-pill-speaker-deal-3613159/)
+ - [The Best Travel Totes for Every Kind of Trip &lpar;2025&rpar;](https://www.wired.com/gallery/best-travel-tote/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
