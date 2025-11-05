@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The King](http://9gag.com/gag/aVv4m5v)
- - ⏩ [My man....](http://9gag.com/gag/aO8ADM3)
- - 👉 [Pure genius](http://9gag.com/gag/abAKx1b)<!-- MEMES:END -->
+ - 💣 [Turns out 9 PM is still the sweet spot](http://9gag.com/gag/abAKWBO)
+ - ⏩ [The King](http://9gag.com/gag/aVv4m5v)
+ - 👉 [My man....](http://9gag.com/gag/aO8ADM3)<!-- MEMES:END -->
 
 ---
 
