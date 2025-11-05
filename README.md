@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps taps Gemini AI to transform into an ‘all-knowing copilot’](https://www.theverge.com/news/813588/google-maps-gemini-ai-chatbot-navigation-directions)
- - [Q&amp;A with Sam Altman on OpenAI&#39;s growth management, delegation, hiring hardware talent, GPT-6 enabling research breakthroughs, societal challenges, and more &lpar;Conversations with Tyler&rpar;](http://www.techmeme.com/251105/p31#a251105p31)
- - [Cloud streaming finally arrives on the PlayStation Portal](https://www.theverge.com/news/814078/playstation-portal-ps5-cloud-streaming)<!-- TECH:END -->
+ - [All Amazon Fire TV Stick models are on sale!](https://www.androidauthority.com/amazon-fire-tv-stick-hd-4k-select-plus-max-deals-3613160/)
+ - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)
+ - [Steam Deck gets the feature we all assumed it already had](https://www.androidauthority.com/steam-deck-display-off-downloads-update-3613191/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
