@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Y&#39;all motherf***ers want a photo](http://9gag.com/gag/axyQb6b)
+ - 💣 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
  - ⏩ [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
- - 👉 [Seeing myself in a mirror after a night out](http://9gag.com/gag/ae9ym5b)<!-- MEMES:END -->
+ - 👉 [Dont try this at home](http://9gag.com/gag/aRB9oV5)<!-- MEMES:END -->
 
 ---
 
