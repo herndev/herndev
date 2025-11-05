@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Chinese government issues guidance requiring new data center projects that have received any state funds to only use domestically-made AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/251105/p21#a251105p21)
- - [Research: AI&#39;s ability to complete long and complex software engineering tasks doubles every 6-7 months, but there is a &quot;messiness tax&quot; for real-world tasks &lpar;Boaz Barak/Windows On Theory&rpar;](http://www.techmeme.com/251105/p20#a251105p20)
- - [A profile of Football Manager game developer Sports Interactive, which has ~280 full-time staff and licenses its scouting data to 40+ teams, as it releases FM26 &lpar;Chris Allnutt/Financial Times&rpar;](http://www.techmeme.com/251105/p19#a251105p19)<!-- TECH:END -->
+ - [We finally have a Nintendo Store app for iOS and Android](https://www.theverge.com/news/814054/nintendo-store-app-ios-android-games-shop)
+ - [Apple demands payment from long-time legal foe Hagens Berman over misconduct](https://appleinsider.com/articles/25/11/05/apple-demands-payment-from-long-time-legal-foe-hagens-berman-over-misconduct?utm_source=rss)
+ - [I used a smart ring for 4 months, and it’s not what I hoped it would be](https://www.androidauthority.com/smart-ring-4-months-disappointments-3612507/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
