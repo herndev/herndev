@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)
- - ⏩ [That&#39;s just peak awkwardness right there](http://9gag.com/gag/aE0yoWM)
- - 👉 [It Morphing Time!!](http://9gag.com/gag/avy46qn)<!-- MEMES:END -->
+ - 💣 [Some still exist](http://9gag.com/gag/aLnVAo6)
+ - ⏩ [Pure genius](http://9gag.com/gag/abAKx1b)
+ - 👉 [The happiest days of your life was when your desktop looked like this](http://9gag.com/gag/a9yZmPW)<!-- MEMES:END -->
 
 ---
 
