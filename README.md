@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have this weird super power that lets me see IQs](http://9gag.com/gag/aPAz84q)
- - ⏩ [Pure genius](http://9gag.com/gag/abAKx1b)
- - 👉 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)<!-- MEMES:END -->
+ - 💣 [It keeps getting better and BETTER and BETTER!](http://9gag.com/gag/aqyB68M)
+ - ⏩ [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
+ - 👉 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)<!-- MEMES:END -->
 
 ---
 
