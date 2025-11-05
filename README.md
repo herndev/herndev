@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Join the Pillars of Eternity Public Beta Today!](https://news.xbox.com/en-us/2025/11/05/join-the-pillars-of-eternity-public-beta-today/)
- - [I Regret To Report ‘Grand Theft Cthulhu’ On Game Pass Just Ain’t Good](https://kotaku.com/grand-theft-cthulhu-gta-dead-static-drive-xbox-game-pass-review-is-it-good-2000641388)
- - [If You’ve Finally Run Out Of Stuff To Do In Baldur’s Gate 3, How About A New Campaign?](https://kotaku.com/baldurs-gate-3-campaign-fan-mod-path-to-menzoberranzan-2000641395)<!-- GAME:END -->
+ - [KPop Demon Hunters 2 Is Happening, Aiming For 2029](https://kotaku.com/kpop-demon-hunters-2-sequel-netflix-release-date-2029-2000641414)
+ - [Fallout 4&#39;s busted VATS system gets fixed, a decade later](https://www.polygon.com/fallout-4-anniversary-edition-vats-shooting-patch-fix/)
+ - [One Of The Most Underrated Roguelikes Of The Past 6 Years Is Just $3 On Switch Right Now](https://kotaku.com/switch-cheap-indie-game-sale-roguelike-metroidvania-2000641389)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
