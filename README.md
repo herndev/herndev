@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic and Google agree to settle their lawsuit and change Android’s fate globally](https://www.theverge.com/policy/813991/epic-google-proposed-settlement)
- - [Google removed 749M URLs linked to Anna&#39;s Archive, a popular shadow library for pirated books, over copyright claims, representing ~5% of all takedown requests &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/251105/p1#a251105p1)
- - [Breaking: Google and Epic propose settlement to end years-long Play Store battle in the US](https://www.androidauthority.com/google-epic-settlement-3613077/)<!-- TECH:END -->
+ - [Customer engagement service MoEngage raised a $100M Series F led by Goldman Sachs Alternatives, bringing its total funding to $250M as it ramps up AI investment &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251105/p4#a251105p4)
+ - [Galaxy S26 Ultra leak reveals how it compares to S25 Ultra, iPhone 17 Pro Max](https://www.androidauthority.com/samsung-galaxy-s26-ultra-ice-universe-renders-3613080/)
+ - [Google&#39;s proposed Epic settlement includes reduced app store fees globally and a new program for alternative app stores to become first-class Android citizens &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251105/p3#a251105p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
