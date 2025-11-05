@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [KPop Demon Hunters 2 Is Happening, Aiming For 2029](https://kotaku.com/kpop-demon-hunters-2-sequel-netflix-release-date-2029-2000641414)
- - [Fallout 4&#39;s busted VATS system gets fixed, a decade later](https://www.polygon.com/fallout-4-anniversary-edition-vats-shooting-patch-fix/)
- - [One Of The Most Underrated Roguelikes Of The Past 6 Years Is Just $3 On Switch Right Now](https://kotaku.com/switch-cheap-indie-game-sale-roguelike-metroidvania-2000641389)<!-- GAME:END -->
+ - [Anticipated indie game Unbeatable delayed one day before release](https://www.polygon.com/unbeatable-game-release-date-delay-december/)
+ - [Marvel Rivals dev teases Rogue and Gambit in patch notes artwork](https://www.polygon.com/marvel-rivals-rogue-gambit-patch-notes/)
+ - [&#39;With A Trace&#39; quest walkthrough in Arc Raiders](https://www.polygon.com/arc-raiders-with-a-trace-quest-walkthrough/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
