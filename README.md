@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some still exist](http://9gag.com/gag/aLnVAo6)
- - ⏩ [Pure genius](http://9gag.com/gag/abAKx1b)
- - 👉 [The happiest days of your life was when your desktop looked like this](http://9gag.com/gag/a9yZmPW)<!-- MEMES:END -->
+ - 💣 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
+ - ⏩ [Just a hug.](http://9gag.com/gag/a6Z4nKN)
+ - 👉 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)<!-- MEMES:END -->
 
 ---
 
