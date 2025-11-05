@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Backs This Anker MacBook Pro Charger, and It’s 5 Times Cheaper on Amazon Than Its Official Site](https://kotaku.com/apple-backs-this-anker-macbook-pro-charger-and-its-5-times-cheaper-on-amazon-than-its-official-site-2000641232)
- - [&#39;In a true RPG, you need to think about what is happening&#39;: RPGs have been coddling us, says Outer Worlds 2 director, who&#39;s glad to see games like Baldur&#39;s Gate 3 let players make mistakes](https://www.pcgamer.com/games/rpg/in-a-true-rpg-you-need-to-think-about-what-is-happening-rpgs-have-been-coddling-us-says-outer-worlds-2-director-whos-glad-to-see-games-like-baldurs-gate-3-let-players-make-mistakes/)
- - [Lenovo ThinkPad With Ryzen 7 Chip Priced Like a Mid-Range Laptop, and It’s Not a Refurb](https://kotaku.com/lenovo-thinkpad-with-ryzen-7-chip-priced-like-a-mid-range-laptop-and-its-not-a-refurb-2000641221)<!-- GAME:END -->
+ - [Segway Offloads Its Safe Ninebot Electric Scooter, Now Selling for the Price of a Basic Budget Model](https://kotaku.com/segway-offloads-its-safe-ninebot-electric-scooter-now-selling-for-the-price-of-a-basic-budget-model-2000641237)
+ - [&lpar;For Southeast Asia&rpar; “It Happens on PS5” campaign captures the unexpected and unforgettable moments PS5 has to offer](https://blog.playstation.com/2025/11/04/20251105-ps5/)
+ - [Bose QuietComfort Ultra Priced Like an Old Model, Amazon Quietly Dumps Its ANC Headphones](https://kotaku.com/bose-quietcomfort-ultra-priced-like-an-old-model-amazon-quietly-dumps-its-anc-headphones-2000641239)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
