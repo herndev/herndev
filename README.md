@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Nintendo Store finally has an app, and it&#39;s hiding a long-requested feature](https://www.polygon.com/nintendo-store-app-launch-game-activity/)
- - [MindsEye loses its free-roam mode, gains a dodge roll, and rebrands itself as &#39;Powered by Arcadia&#39; whatever that means](https://www.pcgamer.com/games/action/mindseye-loses-its-free-roam-mode-gains-a-dodge-roll-and-rebrands-itself-as-powered-by-arcadia-whatever-that-means/)
- - [The Fitbit Charge 6 Can Help You Achieve a Healthier Lifestyle at $60 off](https://kotaku.com/the-fitbit-charge-6-can-help-you-achieve-a-healthier-lifestyle-at-60-off-2000641230)<!-- GAME:END -->
+ - [Ex Microsoft engineer Dave Plummer says &#39;SD cards are lame!&#39; and opts to rescue a 200 lb 14-inch magnetic disc drive from the &#39;80s with just 622 MB of storage](https://www.pcgamer.com/hardware/storage/ex-microsoft-engineer-dave-plummer-says-sd-cards-are-lame-and-opts-to-rescue-a-200-lb-14-inch-magnetic-disc-drive-from-the-80s-with-just-622-mb-of-storage/)
+ - [Steam Deck update enables new low-power mode for downloads](https://www.polygon.com/steam-deck-update-low-power-mode-downloads/)
+ - [Apple&#39;s new web store looks all spiffy, but its devs forgot to do something kinda important: Disable the sourcemaps](https://www.pcgamer.com/hardware/apples-new-web-store-looks-all-spiffy-but-its-devs-forgot-to-do-something-kinda-important-disable-the-sourcemaps/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
