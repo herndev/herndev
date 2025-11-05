@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gorgeous](http://9gag.com/gag/awyPOGW)
+ - 💣 [Just keep quiet ..](http://9gag.com/gag/a1mB2L2)
  - ⏩ [Never ever forget.](http://9gag.com/gag/azxoRZz)
  - 👉 [I mean, you can\u2019t really argue against that, can you?](http://9gag.com/gag/aO8ADL3)<!-- MEMES:END -->
 
