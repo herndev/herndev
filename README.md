@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
- - ⏩ [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)
- - 👉 [Dont try this at home](http://9gag.com/gag/aRB9oV5)<!-- MEMES:END -->
+ - 💣 [Gorgeous](http://9gag.com/gag/awyPOGW)
+ - ⏩ [Never ever forget.](http://9gag.com/gag/azxoRZz)
+ - 👉 [I mean, you can\u2019t really argue against that, can you?](http://9gag.com/gag/aO8ADL3)<!-- MEMES:END -->
 
 ---
 
