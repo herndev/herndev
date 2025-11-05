@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We finally have a Nintendo Store app for iOS and Android](https://www.theverge.com/news/814054/nintendo-store-app-ios-android-games-shop)
- - [Apple demands payment from long-time legal foe Hagens Berman over misconduct](https://appleinsider.com/articles/25/11/05/apple-demands-payment-from-long-time-legal-foe-hagens-berman-over-misconduct?utm_source=rss)
- - [I used a smart ring for 4 months, and it’s not what I hoped it would be](https://www.androidauthority.com/smart-ring-4-months-disappointments-3612507/)<!-- TECH:END -->
+ - [Google Maps taps Gemini AI to transform into an ‘all-knowing copilot’](https://www.theverge.com/news/813588/google-maps-gemini-ai-chatbot-navigation-directions)
+ - [Q&amp;A with Sam Altman on OpenAI&#39;s growth management, delegation, hiring hardware talent, GPT-6 enabling research breakthroughs, societal challenges, and more &lpar;Conversations with Tyler&rpar;](http://www.techmeme.com/251105/p31#a251105p31)
+ - [Cloud streaming finally arrives on the PlayStation Portal](https://www.theverge.com/news/814078/playstation-portal-ps5-cloud-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
