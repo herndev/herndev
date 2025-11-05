@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney and Fortnite show hints of budding metaverse with new Disneyland game](https://www.theverge.com/games/813723/fortnite-disneyland-game-rush-launch-metaverse)
- - [Beats Pill deal: Save $50 on the best Apple speaker!](https://www.androidauthority.com/beats-pill-speaker-deal-3613159/)
- - [The Best Travel Totes for Every Kind of Trip &lpar;2025&rpar;](https://www.wired.com/gallery/best-travel-tote/)<!-- TECH:END -->
+ - [Nintendo’s new Store mobile app will let you shop Switch games, earn rewards, and keep up on news](https://www.androidauthority.com/nintendo-store-app-launch-3613249/)
+ - [You can keep using your iPad as an Apple Home hub until February](https://www.theverge.com/news/814287/apple-home-new-architecture-update-delay)
+ - [This AI smart ring lets you record voice notes with a whisper](https://www.theverge.com/ai-artificial-intelligence/814329/sandbar-stream-ring-ai-wearable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
