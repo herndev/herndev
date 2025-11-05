@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: data center startup Crusoe is arranging an employee share sale involving ~$120M worth of shares that values it at ~$13B, up from $10B+ just weeks ago &lpar;The Information&rpar;](http://www.techmeme.com/251105/p44#a251105p44)
- - [Wokyis M5 dock review: Mac Plus looks, M4 Mac mini performance](https://appleinsider.com/articles/25/08/04/wokyis-m5-dock-review-mac-plus-looks-m4-mac-mini-performance?utm_source=rss)
- - [Android inflates your phone’s signal strength, but for good reason &lpar;Updated&rpar;](https://www.androidauthority.com/5g-network-carriers-fake-signal-strength-3612738/)<!-- TECH:END -->
+ - [Early Black Friday deal: M4 MacBook Air drops to $749 &lpar;lowest price ever&rpar;](https://appleinsider.com/articles/25/11/05/early-black-friday-deal-m4-macbook-air-drops-to-749-lowest-price-ever?utm_source=rss)
+ - [Apple’s slim M4 MacBook Air is cheaper than ever ahead of Black Friday](https://www.theverge.com/tech/814640/apple-macbook-air-m4-deal-sale)
+ - [The AI Data Center Boom Is Warping the US Economy](https://www.wired.com/story/data-center-ai-boom-us-economy-jobs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
