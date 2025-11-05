@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
- - ⏩ [Just a hug.](http://9gag.com/gag/a6Z4nKN)
- - 👉 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)<!-- MEMES:END -->
+ - 💣 [Going to the opposite end of the spectrum](http://9gag.com/gag/abAK4Pp)
+ - ⏩ [My favorite is beech.](http://9gag.com/gag/aW4PnD2)
+ - 👉 [Dont try this at home](http://9gag.com/gag/aRB9oV5)<!-- MEMES:END -->
 
 ---
 
