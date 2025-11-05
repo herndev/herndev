@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Going to the opposite end of the spectrum](http://9gag.com/gag/abAK4Pp)
- - ⏩ [My favorite is beech.](http://9gag.com/gag/aW4PnD2)
- - 👉 [Dont try this at home](http://9gag.com/gag/aRB9oV5)<!-- MEMES:END -->
+ - 💣 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
+ - ⏩ [You can run but you can&#39;t hide](http://9gag.com/gag/aXPQWb2)
+ - 👉 [Just a hug.](http://9gag.com/gag/a6Z4nKN)<!-- MEMES:END -->
 
 ---
 
