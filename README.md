@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout 4‘s Surprise Update Will Make It So VATS No Longer Lies](https://kotaku.com/fallout-4-anniversary-bethesda-update-mods-creation-2000641340)
- - [Amazon threatens legal action against Perplexity over claims of &#39;illegal conduct&#39; and it&#39;s all because of an AI shopping agent](https://www.pcgamer.com/software/ai/amazon-threatens-legal-action-against-perplexity-over-claims-of-illegal-conduct-and-its-all-because-of-an-ai-shopping-agent/)
- - [6 Things We Just Learned From Nintendo About Its Switch 2 Plans](https://kotaku.com/switch-2-mario-galaxy-movie-nintendo-donkey-kong-2000641323)<!-- GAME:END -->
+ - [BlizzCon 2026 ticket sales with early bird pricing announced](https://www.polygon.com/blizzcon-2026-tickets-sale-dates-blizzard/)
+ - [Chun-Li from Street Fighter styles into South Town – How KOF Studio Modified Chun- Li for Fatal Fury: City of the Wolves](https://news.xbox.com/en-us/2025/11/05/fatal-fury-chun-li-launch/)
+ - [Revenge of the Savage Planet director isn&#39;t happy with the sequel&#39;s revenue, despite it bringing in millions of players on Xbox Game Pass: &#39;If you give stuff for free, what you&#39;ve done is told people not to pay for it&#39;](https://www.pcgamer.com/games/action/revenge-of-the-savage-planet-director-isnt-happy-with-the-sequels-revenue-despite-it-bringing-in-millions-of-players-on-xbox-game-pass-if-you-give-stuff-for-free-what-youve-done-is-told-people-not-to-pay-for-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
