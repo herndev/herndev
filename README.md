@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This refugee from Yemen is suing the Netherlands for not letting in his second wife and their five children in &lpar;his first wife and their 8 children are already there&rpar;](http://9gag.com/gag/avy4E8M)
- - ⏩ [The WRONG pronunciation of `cyan.`](http://9gag.com/gag/aZZoQmn)
- - 👉 [My favorite is beech.](http://9gag.com/gag/aW4PnD2)<!-- MEMES:END -->
+ - 💣 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)
+ - ⏩ [That&#39;s just peak awkwardness right there](http://9gag.com/gag/aE0yoWM)
+ - 👉 [It Morphing Time!!](http://9gag.com/gag/avy46qn)<!-- MEMES:END -->
 
 ---
 
