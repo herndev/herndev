@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you don&#39;t already own XCOM 2 or Midnight Suns for some reason, they&#39;re part of a big Firaxis Steam sale right now along with a bunch of other strategy greats](https://www.pcgamer.com/games/if-you-dont-already-own-xcom-2-or-midnight-suns-for-some-reason-theyre-part-of-a-big-firaxis-steam-sale-right-now-along-with-a-bunch-of-other-strategy-greats/)
- - [If You’re a Gamer, This Logitech G305 Wireless Mouse Is Selling for Literally Pennies](https://kotaku.com/if-youre-a-gamer-this-logitech-g305-wireless-mouse-is-selling-for-literally-pennies-2000641075)
- - [Govee Clears Out Its Color Floor Lamp, Now Cheaper Than a Budget Lamp on Amazon](https://kotaku.com/govee-clears-out-its-color-floor-lamp-now-cheaper-than-a-budget-lamp-on-amazon-2000641217)<!-- GAME:END -->
+ - [Apple Backs This Anker MacBook Pro Charger, and It’s 5 Times Cheaper on Amazon Than Its Official Site](https://kotaku.com/apple-backs-this-anker-macbook-pro-charger-and-its-5-times-cheaper-on-amazon-than-its-official-site-2000641232)
+ - [&#39;In a true RPG, you need to think about what is happening&#39;: RPGs have been coddling us, says Outer Worlds 2 director, who&#39;s glad to see games like Baldur&#39;s Gate 3 let players make mistakes](https://www.pcgamer.com/games/rpg/in-a-true-rpg-you-need-to-think-about-what-is-happening-rpgs-have-been-coddling-us-says-outer-worlds-2-director-whos-glad-to-see-games-like-baldurs-gate-3-let-players-make-mistakes/)
+ - [Lenovo ThinkPad With Ryzen 7 Chip Priced Like a Mid-Range Laptop, and It’s Not a Refurb](https://kotaku.com/lenovo-thinkpad-with-ryzen-7-chip-priced-like-a-mid-range-laptop-and-its-not-a-refurb-2000641221)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
