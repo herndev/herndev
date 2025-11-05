@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BlizzCon 2026 ticket sales with early bird pricing announced](https://www.polygon.com/blizzcon-2026-tickets-sale-dates-blizzard/)
- - [Chun-Li from Street Fighter styles into South Town – How KOF Studio Modified Chun- Li for Fatal Fury: City of the Wolves](https://news.xbox.com/en-us/2025/11/05/fatal-fury-chun-li-launch/)
- - [Revenge of the Savage Planet director isn&#39;t happy with the sequel&#39;s revenue, despite it bringing in millions of players on Xbox Game Pass: &#39;If you give stuff for free, what you&#39;ve done is told people not to pay for it&#39;](https://www.pcgamer.com/games/action/revenge-of-the-savage-planet-director-isnt-happy-with-the-sequels-revenue-despite-it-bringing-in-millions-of-players-on-xbox-game-pass-if-you-give-stuff-for-free-what-youve-done-is-told-people-not-to-pay-for-it/)<!-- GAME:END -->
+ - [One Piece&#39;s God Valley flashback proves you shouldn&#39;t believe in legends](https://www.polygon.com/one-piece-chapter-1164-god-valley-flashback-history-lies-truth/)
+ - [How Treyarch is Bringing a Rusted Pick-up Truck to Life in Call of Duty: Black Ops 7 Zombies](https://news.xbox.com/en-us/2025/11/05/how-treyarch-bringing-rusted-pick-up-truck-to-life-black-ops-7-zombies/)
+ - [One of the biggest streamers on Twitch is trying to take Asmongold and Emiru to court over defamation claims](https://www.pcgamer.com/hardware/streaming/one-of-the-biggest-streamers-on-twitch-is-trying-to-take-asmongold-and-emiru-to-court-over-defamation-claims/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
