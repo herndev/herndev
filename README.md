@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK retailer M&amp;S reports a £135.6M profit hit in H1 2025 after a cyber attack in April, which it attributes to DragonForce, and claimed £100M from its insurers &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/251105/p15#a251105p15)
- - [Trump re-nominates billionaire Jared Isaacman to lead NASA](https://www.theverge.com/news/814035/donald-trump-jared-isaacman-nasa-nomination)
- - [Liquid Glass proves that Android app design is still an afterthought](https://www.androidauthority.com/liquid-glass-proves-android-app-design-afterthought-3612843/)<!-- TECH:END -->
+ - [Sources: the Chinese government issues guidance requiring new data center projects that have received any state funds to only use domestically-made AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/251105/p21#a251105p21)
+ - [Research: AI&#39;s ability to complete long and complex software engineering tasks doubles every 6-7 months, but there is a &quot;messiness tax&quot; for real-world tasks &lpar;Boaz Barak/Windows On Theory&rpar;](http://www.techmeme.com/251105/p20#a251105p20)
+ - [A profile of Football Manager game developer Sports Interactive, which has ~280 full-time staff and licenses its scouting data to 40+ teams, as it releases FM26 &lpar;Chris Allnutt/Financial Times&rpar;](http://www.techmeme.com/251105/p19#a251105p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
