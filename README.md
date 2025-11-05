@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
- - ⏩ [Just a hug.](http://9gag.com/gag/a6Z4nKN)
- - 👉 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)<!-- MEMES:END -->
+ - 💣 [Good morning, humans](http://9gag.com/gag/aByjE5D)
+ - ⏩ [Going to the opposite end of the spectrum](http://9gag.com/gag/abAK4Pp)
+ - 👉 [Dont try this at home](http://9gag.com/gag/aRB9oV5)<!-- MEMES:END -->
 
 ---
 
