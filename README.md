@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
- - ⏩ [You can run but you can&#39;t hide](http://9gag.com/gag/aXPQWb2)
- - 👉 [Just a hug.](http://9gag.com/gag/a6Z4nKN)<!-- MEMES:END -->
+ - 💣 [Y&#39;all motherf***ers want a photo](http://9gag.com/gag/axyQb6b)
+ - ⏩ [ZLM! I think the more appropriate term is mortally challenged.](http://9gag.com/gag/an78xpz)
+ - 👉 [... and he&#39;s right.](http://9gag.com/gag/aE0yWd9)<!-- MEMES:END -->
 
 ---
 
