@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex Microsoft engineer Dave Plummer says &#39;SD cards are lame!&#39; and opts to rescue a 200 lb 14-inch magnetic disc drive from the &#39;80s with just 622 MB of storage](https://www.pcgamer.com/hardware/storage/ex-microsoft-engineer-dave-plummer-says-sd-cards-are-lame-and-opts-to-rescue-a-200-lb-14-inch-magnetic-disc-drive-from-the-80s-with-just-622-mb-of-storage/)
- - [Steam Deck update enables new low-power mode for downloads](https://www.polygon.com/steam-deck-update-low-power-mode-downloads/)
- - [Apple&#39;s new web store looks all spiffy, but its devs forgot to do something kinda important: Disable the sourcemaps](https://www.pcgamer.com/hardware/apples-new-web-store-looks-all-spiffy-but-its-devs-forgot-to-do-something-kinda-important-disable-the-sourcemaps/)<!-- GAME:END -->
+ - [Fallout 4‘s Surprise Update Will Make It So VATS No Longer Lies](https://kotaku.com/fallout-4-anniversary-bethesda-update-mods-creation-2000641340)
+ - [Amazon threatens legal action against Perplexity over claims of &#39;illegal conduct&#39; and it&#39;s all because of an AI shopping agent](https://www.pcgamer.com/software/ai/amazon-threatens-legal-action-against-perplexity-over-claims-of-illegal-conduct-and-its-all-because-of-an-ai-shopping-agent/)
+ - [6 Things We Just Learned From Nintendo About Its Switch 2 Plans](https://kotaku.com/switch-2-mario-galaxy-movie-nintendo-donkey-kong-2000641323)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
