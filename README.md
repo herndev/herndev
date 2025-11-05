@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Expect more Apple Immersive Video thanks to streamlined production process](https://appleinsider.com/articles/25/11/05/expect-more-apple-immersive-video-thanks-to-streamlined-production-process?utm_source=rss)
- - [Qualcomm reports Q4 revenue up 10% to $11.27B, vs. $10.79B est., handsets revenue up 14% to $6.96B, and forecasts Q1 revenue above estimates &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251105/p48#a251105p48)
- - [Snap announces a deal to distribute Perplexity&#39;s search engine to Snapchat users; Perplexity will pay Snap $400M through a combination of cash and equity &lpar;Bloomberg&rpar;](http://www.techmeme.com/251105/p47#a251105p47)<!-- TECH:END -->
+ - [Figma reports Q3 revenue up 38% YoY to $274.2M, vs. $265.2M est., adjusted operating margin of 12%, vs. 6.5% est., and forecasts Q4 revenue above estimates &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251105/p54#a251105p54)
+ - [Apple plans to remove Wi-Fi network syncing on Apple Watch in the EU](https://appleinsider.com/articles/25/11/05/apple-plans-to-remove-wi-fi-network-syncing-on-apple-watch-in-the-eu?utm_source=rss)
+ - [Robinhood reports Q3 revenue up 100% YoY to $1.27B, vs. $1.19B est., transaction-based revenue up 129% to $730M, vs. $739M est., and net income up 271% to $556M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251105/p53#a251105p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
