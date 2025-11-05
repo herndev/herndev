@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Anticipated indie game Unbeatable delayed one day before release](https://www.polygon.com/unbeatable-game-release-date-delay-december/)
- - [Marvel Rivals dev teases Rogue and Gambit in patch notes artwork](https://www.polygon.com/marvel-rivals-rogue-gambit-patch-notes/)
- - [&#39;With A Trace&#39; quest walkthrough in Arc Raiders](https://www.polygon.com/arc-raiders-with-a-trace-quest-walkthrough/)<!-- GAME:END -->
+ - [Sonic‘s Latest Outing Is A Grim Fall Guys Knock-Off With $60 Skins](https://kotaku.com/sonics-latest-outing-is-a-grim-fall-guys-knock-off-with-60-skins-2000641427)
+ - [Where to find all high security lockboxes in The Outer Worlds 2](https://www.polygon.com/the-outer-worlds-2-high-security-lockbox-where-to-find-how-to-open/)
+ - [Honkai: Star Rail Amphoreus treasure chest locations and map](https://www.polygon.com/honkai-star-rail-guides/505630/amphoreus-treasure-chests-spirithief-locations-maps/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
