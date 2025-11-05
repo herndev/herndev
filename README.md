@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic‘s Latest Outing Is A Grim Fall Guys Knock-Off With $60 Skins](https://kotaku.com/sonics-latest-outing-is-a-grim-fall-guys-knock-off-with-60-skins-2000641427)
- - [Where to find all high security lockboxes in The Outer Worlds 2](https://www.polygon.com/the-outer-worlds-2-high-security-lockbox-where-to-find-how-to-open/)
- - [Honkai: Star Rail Amphoreus treasure chest locations and map](https://www.polygon.com/honkai-star-rail-guides/505630/amphoreus-treasure-chests-spirithief-locations-maps/)<!-- GAME:END -->
+ - [The Eiffel Tower Is on Sale, Iconic Paris LEGO Set Going for Pennies on Amazon](https://kotaku.com/the-eiffel-tower-is-on-sale-iconic-paris-lego-set-going-for-pennies-on-amazon-2000641360)
+ - [Top Twitch Streamer Sues Emiru And Asmongold For Defamation Over Sexual Assault Allegations](https://kotaku.com/emiru-asmongold-mizkif-defamation-lawsuit-sexual-assault-otk-2000641443)
+ - [Sonic‘s Latest Outing Is A Grim Fall Guys Knock-Off With $60 Skins](https://kotaku.com/sonics-latest-outing-is-a-grim-fall-guys-knock-off-with-60-skins-2000641427)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
