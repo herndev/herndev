@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm Ventures and six Indian VC firms join India Deep Tech Alliance with an additional $850M+ in commitments; Nvidia joins as a strategic technical adviser &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251104/p43#a251104p43)
- - [Qualcomm’s next flagship chip might come in two flavors, just to complicate things further?](https://www.androidauthority.com/snapdragon-8-elite-gen-6-standard-pro-rumor-3612968/)
- - [Google Play Store now lets you buy digital gift cards for Disney, AMC, Starbucks, and more](https://www.androidauthority.com/google-play-store-digital-gift-cards-3613071/)<!-- TECH:END -->
+ - [Epic and Google agree to settle their lawsuit and change Android’s fate globally](https://www.theverge.com/policy/813991/epic-google-proposed-settlement)
+ - [Google removed 749M URLs linked to Anna&#39;s Archive, a popular shadow library for pirated books, over copyright claims, representing ~5% of all takedown requests &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/251105/p1#a251105p1)
+ - [Breaking: Google and Epic propose settlement to end years-long Play Store battle in the US](https://www.androidauthority.com/google-epic-settlement-3613077/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
