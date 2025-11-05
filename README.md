@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Y&#39;all motherf***ers want a photo](http://9gag.com/gag/axyQb6b)
- - ⏩ [ZLM! I think the more appropriate term is mortally challenged.](http://9gag.com/gag/an78xpz)
- - 👉 [... and he&#39;s right.](http://9gag.com/gag/aE0yWd9)<!-- MEMES:END -->
+ - 💣 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
+ - ⏩ [Just a hug.](http://9gag.com/gag/a6Z4nKN)
+ - 👉 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)<!-- MEMES:END -->
 
 ---
 
