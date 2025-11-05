@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Turns out 9 PM is still the sweet spot](http://9gag.com/gag/abAKWBO)
- - ⏩ [The King](http://9gag.com/gag/aVv4m5v)
- - 👉 [My man....](http://9gag.com/gag/aO8ADM3)<!-- MEMES:END -->
+ - 💣 [That&#39;s just peak awkwardness right there](http://9gag.com/gag/aE0yoWM)
+ - ⏩ [This refugee from Yemen is suing the Netherlands for not letting in his second wife and their five children in &lpar;his first wife and their 8 children are already there&rpar;](http://9gag.com/gag/avy4E8M)
+ - 👉 [My favorite is beech.](http://9gag.com/gag/aW4PnD2)<!-- MEMES:END -->
 
 ---
 
