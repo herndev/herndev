@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The brand-new Apple Watch SE 3 and Watch Ultra 3 are on sale already!](https://www.androidauthority.com/apple-watch-se-3-ultra-3-deals-3612870/)
- - [Australia broadens its social media ban for under-16s to include Reddit and Kick, which join Facebook, Instagram, Threads, Snapchat, TikTok, X, and YouTube &lpar;Clare Armstrong/ABC&rpar;](http://www.techmeme.com/251104/p37#a251104p37)
- - [Apple Podcasts is generating automatic links and chapters](https://www.theverge.com/news/813817/apple-podcasts-automatic-links-and-chapters)<!-- TECH:END -->
+ - [Google has a ‘moonshot’ plan for AI data centers in space](https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites)
+ - [This LG StanbyMe 27-Inch Portable Monitor is super cool, and on sale!](https://www.androidauthority.com/lg-stanbyme-27-inch-portable-monitor-deal-2-3612869/)
+ - [The US sanctions eight people and two companies it accused of laundering money obtained from cybercrime and IT worker schemes for the North Korean government &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/251104/p38#a251104p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
