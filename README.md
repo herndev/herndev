@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good morning, humans](http://9gag.com/gag/aByjE5D)
- - ⏩ [Going to the opposite end of the spectrum](http://9gag.com/gag/abAK4Pp)
+ - 💣 [Incredible Armor of 16th Century Knights Explained](http://9gag.com/gag/amoKx82)
+ - ⏩ [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
  - 👉 [Dont try this at home](http://9gag.com/gag/aRB9oV5)<!-- MEMES:END -->
 
 ---
