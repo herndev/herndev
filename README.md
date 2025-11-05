@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How &quot;porno-troll&quot; Strike 3, owner of porn production company Vixen, made millions by filing copyright suits accusing users of illegally downloading its videos &lpar;Tarpley Hitt/The Guardian&rpar;](http://www.techmeme.com/251105/p12#a251105p12)
- - [A profile of Chen Zhi, chairman of Cambodian conglomerate Prince Holding Group, accused by the US and UK of stealing billions of dollars via online scam centers &lpar;Bloomberg&rpar;](http://www.techmeme.com/251105/p11#a251105p11)
- - [Blood Tests for Alzheimer’s Are Here](https://www.wired.com/story/blood-tests-for-alzheimers-have-arrived-but-how-effective-are-they-and-can-they-really-change-patients-lives/)<!-- TECH:END -->
+ - [UK retailer M&amp;S reports a £135.6M profit hit in H1 2025 after a cyber attack in April, which it attributes to DragonForce, and claimed £100M from its insurers &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/251105/p15#a251105p15)
+ - [Trump re-nominates billionaire Jared Isaacman to lead NASA](https://www.theverge.com/news/814035/donald-trump-jared-isaacman-nasa-nomination)
+ - [Liquid Glass proves that Android app design is still an afterthought](https://www.androidauthority.com/liquid-glass-proves-android-app-design-afterthought-3612843/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
