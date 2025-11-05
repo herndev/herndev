@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s Edge 70 is the blueprint for future thin phones](https://www.theverge.com/gadgets/813377/motorola-edge-70-review)
- - [How ideology-driven AI chatbots like Grok and Gab&#39;s Arya position themselves as alternatives to mainstream chatbots accused of liberal bias &lpar;New York Times&rpar;](http://www.techmeme.com/251105/p10#a251105p10)
- - [Sources detail a leadership vacuum and staff cuts at the NSA, eroding morale among its analysts and weakening the agency&#39;s long-term cyber capabilities &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/251105/p9#a251105p9)<!-- TECH:END -->
+ - [How &quot;porno-troll&quot; Strike 3, owner of porn production company Vixen, made millions by filing copyright suits accusing users of illegally downloading its videos &lpar;Tarpley Hitt/The Guardian&rpar;](http://www.techmeme.com/251105/p12#a251105p12)
+ - [A profile of Chen Zhi, chairman of Cambodian conglomerate Prince Holding Group, accused by the US and UK of stealing billions of dollars via online scam centers &lpar;Bloomberg&rpar;](http://www.techmeme.com/251105/p11#a251105p11)
+ - [Blood Tests for Alzheimer’s Are Here](https://www.wired.com/story/blood-tests-for-alzheimers-have-arrived-but-how-effective-are-they-and-can-they-really-change-patients-lives/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
