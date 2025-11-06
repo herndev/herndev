@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
- - ⏩ [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
- - 👉 [Good morning, humans](http://9gag.com/gag/aByjE5D)<!-- MEMES:END -->
+ - 💣 [Stank](http://9gag.com/gag/aZZojmW)
+ - ⏩ [You can run but you can&#39;t hide](http://9gag.com/gag/aXPQWb2)
+ - 👉 [Signs](http://9gag.com/gag/aRB92AB)<!-- MEMES:END -->
 
 ---
 
