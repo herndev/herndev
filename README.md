@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rockstar says it fired dozens of staff last week due to &quot;distributing and discussing confidential information in a public forum&quot;, disputing union allegations &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/251106/p12#a251106p12)
- - [Next iPhone Air may have two rear cameras](https://appleinsider.com/articles/25/11/06/next-iphone-air-may-have-two-rear-cameras?utm_source=rss)
- - [Huawei unveils the ~$590 Mate 70 Air, a 6.6mm thick smartphone set to compete with the $999 iPhone Air, with a 7&quot; display and HarmonyOS, shipping November 11 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p11#a251106p11)<!-- TECH:END -->
+ - [Ikea’s new smart home collection is entirely Matter-compatible](https://www.theverge.com/news/814241/ikea-smart-home-matter-thread-lights-sensors-remote-control)
+ - [Sources and documents: Google plans to build an AI data center on Australia&#39;s remote Christmas Island after signing a cloud deal with its DOD earlier in 2025 &lpar;Kirsty Needham/Reuters&rpar;](http://www.techmeme.com/251106/p16#a251106p16)
+ - [Next iPhone Air may have two rear cameras](https://appleinsider.com/articles/25/11/06/next-iphone-air-may-have-two-rear-cameras?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
