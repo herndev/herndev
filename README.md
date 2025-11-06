@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps could soon let you choose shady streets, literally &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-maps-sun-shade-apk-teardown-3613515/)
- - [Sources, public records, and documents detail TuSimple&#39;s downfall, after it transferred autonomous driving IP to Chinese partners despite a 2022 CFIUS agreement &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](http://www.techmeme.com/251106/p10#a251106p10)
- - [Apple is paying Google $1bn to upgrade Siri with… Gemini](https://www.androidauthority.com/apple-paying-google-billion-siri-gemini-3612708/)<!-- TECH:END -->
+ - [Rockstar says it fired dozens of staff last week due to &quot;distributing and discussing confidential information in a public forum&quot;, disputing union allegations &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/251106/p12#a251106p12)
+ - [Next iPhone Air may have two rear cameras](https://appleinsider.com/articles/25/11/06/next-iphone-air-may-have-two-rear-cameras?utm_source=rss)
+ - [Huawei unveils the ~$590 Mate 70 Air, a 6.6mm thick smartphone set to compete with the $999 iPhone Air, with a 7&quot; display and HarmonyOS, shipping November 11 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p11#a251106p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
