@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First macOS Tahoe 26.2 beta released for developer testing](https://appleinsider.com/articles/25/11/06/first-macos-tahoe-262-beta-released-for-developer-testing?utm_source=rss)
- - [Hot sale: Apple MacBook Air M4 drops to a new record-low price!](https://www.androidauthority.com/apple-macbook-air-m4-deal-17-3613266/)
- - [OpenAI releases a blueprint the company hopes lawmakers will use in crafting safety standards for teens using AI, with five suggestions for AI companies &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/251106/p38#a251106p38)<!-- TECH:END -->
+ - [Senators call on Trump to continue banning Nvidia from selling its best chips in China](https://www.theverge.com/news/815806/senate-resolution-trump-us-ai-technology-china)
+ - [Kuxiu’s magnetic multi-device power bank now has faster 25W wireless charging](https://www.theverge.com/news/815808/kuxiu-k1-ultra-magnetic-magsafe-power-bank-qi2-25w-wireless-charging)
+ - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
