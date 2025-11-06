@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trick or Treat?](http://9gag.com/gag/amoKMjy)
- - ⏩ [Dont try this at home](http://9gag.com/gag/aRB9oV5)
- - 👉 [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)<!-- MEMES:END -->
+ - 💣 [And one for the road...](http://9gag.com/gag/aPAzX1g)
+ - ⏩ [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
+ - 👉 [Good morning, humans](http://9gag.com/gag/aByjE5D)<!-- MEMES:END -->
 
 ---
 
