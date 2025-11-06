@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)
- - ⏩ [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
- - 👉 [Dont try this at home](http://9gag.com/gag/aRB9oV5)<!-- MEMES:END -->
+ - 💣 [Good morning, humans](http://9gag.com/gag/aByjE5D)
+ - ⏩ [Dont ride and text &lpar;credit Boli blog&rpar;](http://9gag.com/gag/adBrezZ)
+ - 👉 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)<!-- MEMES:END -->
 
 ---
 
