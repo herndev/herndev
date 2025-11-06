@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jennifer Hale did not see the twist in Knights of the Old Republic coming either: &#39;I remember just being gobsmacked by this game so many times&#39;](https://www.pcgamer.com/games/rpg/jennifer-hale-did-not-see-the-twist-in-knights-of-the-old-republic-coming-either-i-remember-just-being-gobsmacked-by-this-game-so-many-times/)
- - [Microsoft was apparently so embarrassed by Windows 98&#39;s infamous on-stage Blue Screen of Death it built a new testing room on campus to ensure it would never happen again](https://www.pcgamer.com/software/windows/microsoft-was-apparently-so-embarrassed-by-windows-98s-infamous-on-stage-blue-screen-of-death-it-built-a-new-testing-room-on-campus-to-ensure-it-would-never-happen-again/)
- - [How to call a supply drop in Arc Raiders](https://www.polygon.com/arc-raiders-supply-drop-locations-how-to-call/)<!-- GAME:END -->
+ - [Dell Begins Black Friday with 70% Off This 1TB SSD Windows Laptop, Prime Gets Nearly $2,300 Off](https://kotaku.com/dell-begins-black-friday-with-70-off-this-1tb-ssd-windows-laptop-prime-gets-nearly-2300-off-2000641504)
+ - [Rockstar says the employees it fired were leaking information, but it&#39;s not going to escape union busting accusations that easily](https://www.pcgamer.com/games/grand-theft-auto/rockstar-says-the-employees-it-fired-were-leaking-information-but-its-not-going-to-escape-union-busting-accusations-that-easily/)
+ - [Apple Goes All Out with Black Friday Deal, MacBook Air Crashes to a Brand New Record Low](https://kotaku.com/apple-goes-all-out-with-black-friday-deal-macbook-air-crashes-to-a-brand-new-record-low-2000641489)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
