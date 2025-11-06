@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hyrule Warriors: Age of Imprisonment review: making good use of the Zelda timeline](https://www.polygon.com/hyrule-warriors-age-of-imprisonment-review/)
- - [In a true nightmare scenario, this anticipated indie has been delayed only hours before launch for a &#39;boring and frustrating&#39; reason](https://www.pcgamer.com/games/action/in-a-true-nightmare-scenario-this-anticipated-indie-has-been-delayed-only-hours-before-launch-for-a-boring-and-frustrating-reason/)
- - [Ball x Pit just got a Bug x Fix and all the icons in the encyclopedia are full-color now](https://www.pcgamer.com/games/roguelike/ball-x-pit-just-got-a-bug-x-fix-and-all-the-icons-in-the-encyclopedia-are-full-color-now/)<!-- GAME:END -->
+ - [KPop Demon Hunters 2 might not come until 2029](https://www.polygon.com/kpop-demon-hunters-2-sequel-2029/)
+ - [Arc Raiders review](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-review/)
+ - [PC Gamer magazine&#39;s new issue is on sale now: Heroes of Might and Magic: Olden Era](https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-heroes-of-might-and-magic-olden-era/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
