@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside Kalshi&#39;s NYC HQ on election night, as it handled ~$100M in trades on the mayoral race that day, calling it for Mamdani 36 minutes before any media outlet &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251105/p62#a251105p62)
  - [A profile of OpenAI President Greg Brockman and his role in the company&#39;s $1.4T infrastructure buildout that&#39;s required to reach AGI &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/251105/p61#a251105p61)
- - [Sandbar introduces Stream Ring, an AI-powered smart ring for transcribing audio notes into text via an app, preorder now from $249 and shipping in summer 2026 &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/251105/p60#a251105p60)
- - [Election night at Kalshi HQ](https://www.theverge.com/column/815208/election-night-at-kalshi-hq)<!-- TECH:END -->
+ - [Got Poor Internet Access? Verizon&#39;s New $25 Per Month Internet Plan May Help](https://www.cnet.com/home/internet/got-poor-internet-access-verizons-new-25-per-month-internet-plan-may-help/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
