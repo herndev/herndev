@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KiiBoom Cybrix 16 review: 16 keys, tons of usefulness](https://appleinsider.com/articles/25/11/06/kiiboom-cybrix-16-review-16-keys-tons-of-usefulness?utm_source=rss)
- - [Rode’s all-in-one video production console is now smaller and cheaper](https://www.theverge.com/news/813545/rode-rodecaster-video-s-production-console-audio-switcher)
- - [Sens. Mark Warner and Josh Hawley introduce a bipartisan bill that would require companies and US agencies to submit quarterly reports on AI-related job impacts &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251105/p58#a251105p58)<!-- TECH:END -->
+ - [Election night at Kalshi HQ](https://www.theverge.com/column/815208/election-night-at-kalshi-hq)
+ - [Sources and docs: after Marc Andreessen donated $5M+ to Trump&#39;s 2024 campaign, most CFPB probes have stalled, including three into Andreessen-backed companies &lpar;Jake Pearson/ProPublica&rpar;](http://www.techmeme.com/251105/p59#a251105p59)
+ - [iOS 26.2 beta 1 seemingly pulled for devices using C1 modem](https://appleinsider.com/articles/25/11/06/ios-262-beta-1-seemingly-pulled-for-devices-using-c1-modem?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
