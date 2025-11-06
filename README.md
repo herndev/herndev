@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Things are so bad for Payday 3 at this point, even Crime Boss: Rockay City is making fun of it](https://www.pcgamer.com/games/action/things-are-so-bad-for-payday-3-at-this-point-even-crime-boss-rockay-city-is-making-fun-of-it/)
- - [NetEase closes a fifth Western studio: Just two years after it was founded, Bad Brain Game Studios will shut down for good next week](https://www.pcgamer.com/gaming-industry/netease-closes-a-fifth-western-studio-just-two-years-after-it-was-founded-bad-brain-game-studios-will-shut-down-for-good-next-week/)
- - [Netflix is reportedly turning the best cooking game, Overcooked, into a reality competition, and if it doesn&#39;t get Nicole Byer from Nailed It! to host, I will riot](https://www.pcgamer.com/movies-tv/netflix-is-reportedly-turning-the-best-cooking-game-overcooked-into-a-reality-competition-and-if-it-doesnt-get-nicole-byer-from-nailed-it-to-host-i-will-riot/)<!-- GAME:END -->
+ - [Silent Hill&#39;s Pyramid Head and Castlevania&#39;s Dracula are heading to Dead by Daylight](https://www.polygon.com/dead-by-daylight-silent-hill-castlevania-pyramid-head/)
+ - [Arc Raiders: The Best Skills For Solo And Team Play](https://kotaku.com/arc-raiders-skills-mobility-survival-conditioning-solo-2000641789)
+ - [Take-Two Boss Feels ‘Really Good’ About New GTA 6 Release Date, Which Is What He Said The Last Two Times](https://kotaku.com/gta-6-release-date-delay-ceo-strauss-zelnick-2000641798)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
