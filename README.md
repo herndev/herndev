@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Senators call on Trump to continue banning Nvidia from selling its best chips in China](https://www.theverge.com/news/815806/senate-resolution-trump-us-ai-technology-china)
- - [Kuxiu’s magnetic multi-device power bank now has faster 25W wireless charging](https://www.theverge.com/news/815808/kuxiu-k1-ultra-magnetic-magsafe-power-bank-qi2-25w-wireless-charging)
- - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)<!-- TECH:END -->
+ - [Amazon is testing an AI tool called Kindle Translate that automatically translates books into other languages, for authors that self-publish on the platform &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/251106/p41#a251106p41)
+ - [Expert-Backed Ways to Fix AI Image Hallucinations While Using ChatGPT, Midjourney and More](https://www.cnet.com/tech/services-and-software/expert-backed-ways-to-fix-ai-image-hallucinations-while-using-chatgpt-midjourney-and-more/#ftag=CAD590a51e)
+ - [Sharing YouTube clips in Google Messages may be about to get a lot better](https://www.androidauthority.com/messages-youtube-pip-player-3613751/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
