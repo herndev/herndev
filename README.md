@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Films from YouTube and Google Play are no longer available on Movies Anywhere](https://www.theverge.com/news/815082/movies-anywhere-ends-google-play-youtube-support)
- - [No Monday Night Football? The Ongoing Dispute Between Disney and YouTube TV](https://www.cnet.com/tech/services-and-software/no-monday-night-football-the-ongoing-dispute-between-disney-and-youtube-tv/#ftag=CAD590a51e)
- - [AppLovin reports Q3 revenue up 68% YoY to $1.41B, vs. $1.34B est., and forecasts Q4 revenue and adjusted EBITDA above estimates; APP jumps 6%+ after hours &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/251105/p55#a251105p55)<!-- TECH:END -->
+ - [KiiBoom Cybrix 16 review: 16 keys, tons of usefulness](https://appleinsider.com/articles/25/11/06/kiiboom-cybrix-16-review-16-keys-tons-of-usefulness?utm_source=rss)
+ - [Rode’s all-in-one video production console is now smaller and cheaper](https://www.theverge.com/news/813545/rode-rodecaster-video-s-production-console-audio-switcher)
+ - [Sens. Mark Warner and Josh Hawley introduce a bipartisan bill that would require companies and US agencies to submit quarterly reports on AI-related job impacts &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251105/p58#a251105p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
