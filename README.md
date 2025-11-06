@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just keep quiet ..](http://9gag.com/gag/a1mB2L2)
- - ⏩ [Never ever forget.](http://9gag.com/gag/azxoRZz)
- - 👉 [I mean, you can\u2019t really argue against that, can you?](http://9gag.com/gag/aO8ADL3)<!-- MEMES:END -->
+ - 💣 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
+ - ⏩ [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
+ - 👉 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)<!-- MEMES:END -->
 
 ---
 
