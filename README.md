@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pebblebee’s new trackers are brighter, louder, thinner, and more colorful](https://www.theverge.com/news/814728/pebblebee-clip-card-5-trackers-apple-find-my-google-hub)
- - [Google Messages doubles its pin limit, in case you’re avoiding more than 10 people](https://www.androidauthority.com/google-messages-20-pinned-conversations-3613658/)
- - [Spotify is launching a weekly mini ‘Wrapped’](https://www.theverge.com/news/815521/spotify-listening-stats-weekly-feature-wrapped)<!-- TECH:END -->
+ - [Datadog&#39;s stock jumps 20%+ after reporting Q3 revenue up 28% YoY to $885.7M, above $852.8M est., and forecasting Q4 revenue at $912M-$916M, above $877M est. &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251106/p34#a251106p34)
+ - [Google Finance wants to become your smartest investing assistant with these new features](https://www.androidauthority.com/google-finance-deep-search-kalshi-polymarket-support-3613620/)
+ - [Google Finance offers Gemini AI tools to stock traders](https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
