@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When does Predator: Badlands take place in the Predator/Alien timeline?](https://www.polygon.com/predator-badlands-timeline-explained/)
- - [Great, now even malware is using LLMs to rewrite its code, says Google, as it documents new phase of &#39;AI abuse&#39;](https://www.pcgamer.com/software/ai/great-now-even-malware-is-using-llms-to-rewrite-its-code-says-google-as-it-documents-new-phase-of-ai-abuse/)
- - [You can watch RAM prices going up almost in real-time on Amazon and it&#39;s only likely to get worse](https://www.pcgamer.com/hardware/memory/you-can-watch-ram-prices-going-up-almost-in-real-time-on-amazon-and-its-only-likely-to-get-worse/)<!-- GAME:END -->
+ - [I&#39;m not here to make friends: I will fill you with bullets if I see you in Arc Raiders](https://www.pcgamer.com/games/action/im-not-here-to-make-friends-i-will-fill-you-with-bullets-if-i-see-you-in-arc-raiders/)
+ - [Rockstar co-founder says he&#39;s &#39;less scared than a lot of people&#39; of AI: &#39;If you use it to try and substitute for creativity, it&#39;s going to be really generic&#39;](https://www.pcgamer.com/games/rockstar-co-founder-says-hes-less-scared-than-a-lot-of-people-of-ai-if-you-use-it-to-try-and-substitute-for-creativity-its-going-to-be-really-generic/)
+ - [WoW&#39;s game director says they don&#39;t want combat AddOns to do anything the base UI doesn&#39;t: &#39;The overarching goal of the changes in Midnight is to level the playing field&#39;](https://www.pcgamer.com/games/world-of-warcraft/wows-game-director-says-they-dont-want-combat-addons-to-do-anything-the-base-ui-doesnt-the-overarching-goal-of-the-changes-in-midnight-is-to-level-the-playing-field/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
