@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 15’s massive battery and fast charging are going global](https://www.androidauthority.com/oneplus-15-global-battery-charging-specs-confirmed-3613576/)
- - [Internal documents: Meta projected in December 2024 that 10.1% of its annual ad revenue, or $16B, came from fraudulent ads, including $7B from &quot;higher risk&quot; ads &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/251106/p19#a251106p19)
- - [Galaxy S26 may bring these new camera features, even without major hardware upgrades](https://www.androidauthority.com/galaxy-s26-camera-assistant-improvement-3613557/)<!-- TECH:END -->
+ - [I’m The Verge’s new AV expert, ask me anything!](https://www.theverge.com/tech/814389/im-the-verges-new-av-expert-ama)
+ - [Lego’s first Star Trek set is a $400 Enterprise with Data, Picard, and Worf minifigures](https://www.theverge.com/news/815337/lego-star-trek-uss-enterprise-ncc-1701-d-data-picard-riker-worf-minifigures)
+ - [Thousands of flights in danger of cancellation as FAA announces major cuts](https://www.theverge.com/news/815359/faa-flight-cuts-airport-government-shutdown)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
