@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canon adds a 32-megapixel sensor and 7K video to the new EOS R6 Mark III](https://www.theverge.com/news/814245/canon-eos-r6-mark-iii-mirrorless-camera-price-specs)
- - [Researchers used AI to design functional antibodies from scratch, suggesting that AI tools could speed up antibody discovery without the need for animal testing &lpar;Financial Times&rpar;](http://www.techmeme.com/251106/p1#a251106p1)
- - [Source: Google is in early talks to deepen its strategic investment in Anthropic that could value the AI company at more than $350B &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/251105/p64#a251105p64)<!-- TECH:END -->
+ - [Microsoft built a simulated marketplace to test hundreds of AI agents, finding that businesses could manipulate agents into buying their products and more &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251106/p7#a251106p7)
+ - [Sources: SoftBank explored a potential takeover of Marvell earlier this year to merge it with Arm, in what would have been the chip industry&#39;s largest-ever deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p6#a251106p6)
+ - [Galaxy S26 Ultra cameras leak: Were you really expecting major upgrades?](https://www.androidauthority.com/samsung-galaxy-s26-ultra-camera-hardware-leak-3613449/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
