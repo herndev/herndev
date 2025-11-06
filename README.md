@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
- - ⏩ [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
- - 👉 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)<!-- MEMES:END -->
+ - 💣 [Trick or Treat?](http://9gag.com/gag/amoKMjy)
+ - ⏩ [Good morning, humans](http://9gag.com/gag/aByjE5D)
+ - 👉 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)<!-- MEMES:END -->
 
 ---
 
