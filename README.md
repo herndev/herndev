@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ikea’s new smart home collection is entirely Matter-compatible](https://www.theverge.com/news/814241/ikea-smart-home-matter-thread-lights-sensors-remote-control)
- - [Sources and documents: Google plans to build an AI data center on Australia&#39;s remote Christmas Island after signing a cloud deal with its DOD earlier in 2025 &lpar;Kirsty Needham/Reuters&rpar;](http://www.techmeme.com/251106/p16#a251106p16)
- - [Next iPhone Air may have two rear cameras](https://appleinsider.com/articles/25/11/06/next-iphone-air-may-have-two-rear-cameras?utm_source=rss)<!-- TECH:END -->
+ - [OnePlus 15’s massive battery and fast charging are going global](https://www.androidauthority.com/oneplus-15-global-battery-charging-specs-confirmed-3613576/)
+ - [Internal documents: Meta projected in December 2024 that 10.1% of its annual ad revenue, or $16B, came from fraudulent ads, including $7B from &quot;higher risk&quot; ads &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/251106/p19#a251106p19)
+ - [Galaxy S26 may bring these new camera features, even without major hardware upgrades](https://www.androidauthority.com/galaxy-s26-camera-assistant-improvement-3613557/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
