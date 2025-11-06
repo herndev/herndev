@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Girls vs. Escalator](https://www.reddit.com/r/funny/comments/1oq94qn/girls_vs_escalator/)
- - ⏩ [Called into HR for this observation. Worth it](http://9gag.com/gag/ajPGKMq)
- - 👉 [Japanese kids learning about road safety](http://9gag.com/gag/apRzAjp)<!-- MEMES:END -->
+ - 💣 [My eyes are down here](http://9gag.com/gag/aKGnOgW)
+ - ⏩ [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
+ - 👉 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)<!-- MEMES:END -->
 
 ---
 
