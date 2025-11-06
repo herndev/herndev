@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’m The Verge’s new AV expert, ask me anything!](https://www.theverge.com/tech/814389/im-the-verges-new-av-expert-ama)
- - [Lego’s first Star Trek set is a $400 Enterprise with Data, Picard, and Worf minifigures](https://www.theverge.com/news/815337/lego-star-trek-uss-enterprise-ncc-1701-d-data-picard-riker-worf-minifigures)
- - [Thousands of flights in danger of cancellation as FAA announces major cuts](https://www.theverge.com/news/815359/faa-flight-cuts-airport-government-shutdown)<!-- TECH:END -->
+ - [Ring’s new feature combats security camera notification fatigue](https://www.theverge.com/news/815367/ring-launches-single-event-alerts)
+ - [Previous winners talk about how to win Apple&#39;s Swift Student Challenge](https://appleinsider.com/articles/25/11/06/previous-winners-talk-about-how-to-win-apples-swift-student-challenge?utm_source=rss)
+ - [Fomo, a consumer crypto trading app, raised a $17M Series A led by Benchmark, bringing its total funding to $19M, and reports $20M-$40M in daily trading volume &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/251106/p28#a251106p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
