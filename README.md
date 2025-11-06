@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Figma reports Q3 revenue up 38% YoY to $274.2M, vs. $265.2M est., adjusted operating margin of 12%, vs. 6.5% est., and forecasts Q4 revenue above estimates &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251105/p54#a251105p54)
- - [Apple plans to remove Wi-Fi network syncing on Apple Watch in the EU](https://appleinsider.com/articles/25/11/05/apple-plans-to-remove-wi-fi-network-syncing-on-apple-watch-in-the-eu?utm_source=rss)
- - [Robinhood reports Q3 revenue up 100% YoY to $1.27B, vs. $1.19B est., transaction-based revenue up 129% to $730M, vs. $739M est., and net income up 271% to $556M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251105/p53#a251105p53)<!-- TECH:END -->
+ - [Films from YouTube and Google Play are no longer available on Movies Anywhere](https://www.theverge.com/news/815082/movies-anywhere-ends-google-play-youtube-support)
+ - [No Monday Night Football? The Ongoing Dispute Between Disney and YouTube TV](https://www.cnet.com/tech/services-and-software/no-monday-night-football-the-ongoing-dispute-between-disney-and-youtube-tv/#ftag=CAD590a51e)
+ - [AppLovin reports Q3 revenue up 68% YoY to $1.41B, vs. $1.34B est., and forecasts Q4 revenue and adjusted EBITDA above estimates; APP jumps 6%+ after hours &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/251105/p55#a251105p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
