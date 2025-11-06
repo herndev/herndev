@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dont ride and text &lpar;credit Boli blog&rpar;](http://9gag.com/gag/adBrezZ)
- - ⏩ [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
- - 👉 [Good morning, humans](http://9gag.com/gag/aByjE5D)<!-- MEMES:END -->
+ - 💣 [Never ever forget.](http://9gag.com/gag/azxoRZz)
+ - ⏩ [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
+ - 👉 [I do that in the planetarium bathroom mirror](http://9gag.com/gag/a6Z424L)<!-- MEMES:END -->
 
 ---
 
