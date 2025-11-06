@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [In a true nightmare scenario, this anticipated indie has been delayed only hours before launch for a &#39;boring and frustrating&#39; reason](https://www.pcgamer.com/games/action/in-a-true-nightmare-scenario-this-anticipated-indie-has-been-delayed-only-hours-before-launch-for-a-boring-and-frustrating-reason/)
  - [Ball x Pit just got a Bug x Fix and all the icons in the encyclopedia are full-color now](https://www.pcgamer.com/games/roguelike/ball-x-pit-just-got-a-bug-x-fix-and-all-the-icons-in-the-encyclopedia-are-full-color-now/)
- - [AirTags Are Going for Nearly Free for Early Black Friday, Amazon Has Sold 10K Units Today](https://kotaku.com/airtags-are-going-for-nearly-free-for-early-black-friday-amazon-has-sold-10k-units-today-2000641512)
- - [HP Knocks $1,400 Off This Laptop &lpar;i3, 32GB RAM, 1TB SSD&rpar;, Now Goes for Pocket Change with $299 in Free Accessories](https://kotaku.com/hp-knocks-1400-off-this-laptop-i3-32gb-ram-1tb-ssd-now-goes-for-pocket-change-with-299-in-free-accessories-2000641509)<!-- GAME:END -->
+ - [AirTags Are Going for Nearly Free for Early Black Friday, Amazon Has Sold 10K Units Today](https://kotaku.com/airtags-are-going-for-nearly-free-for-early-black-friday-amazon-has-sold-10k-units-today-2000641512)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
