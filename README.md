@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dispatch&#39;s automatic fail checks are driving me mad](https://www.polygon.com/dispatch-episode-5-automatic-fail-checks-hero-stats/)
- - [One Piece&#39;s creator confirms the divisive &quot;nepo piece&quot; theory is real](https://www.polygon.com/one-piece-two-calendars-timeline-franky-queen-sbs113/)
- - [Pokémon officially going over level 150 is shocking fans](https://www.polygon.com/pokemon-legends-mega-dimension-what-is-level-cap-donuts/)<!-- GAME:END -->
+ - [More of Obsidian’s Favorite Character Builds for The Outer Worlds 2](https://news.xbox.com/en-us/2025/11/06/more-obsidian-favorite-character-builds-outer-worlds-2/)
+ - [A Game of the Year contender is free to play on Steam this weekend](https://www.polygon.com/kingdom-come-deliverance-2-steam-free-weekend/)
+ - [Final Fantasy Publisher Plans To Offload 70 Percent Of QA Work To Generative AI](https://kotaku.com/final-fantasy-gen-ai-square-enix-qa-bugs-2000641688)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
