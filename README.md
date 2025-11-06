@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AI boom is driving coordinated innovation in the US as it builds fabs and energy infrastructure that could have lasting value even if the bubble bursts &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251106/p9#a251106p9)
- - [License plate surveillance company Flock Safety faces bipartisan pressure from lawmakers and local organizers over its data handling and cybersecurity practices &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/251106/p8#a251106p8)
- - [Microsoft built a simulated marketplace to test hundreds of AI agents, finding that businesses could manipulate agents into buying their products and more &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251106/p7#a251106p7)<!-- TECH:END -->
+ - [Sources, public records, and documents detail TuSimple&#39;s downfall, after it transferred autonomous driving IP to Chinese partners despite a 2022 CFIUS agreement &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](http://www.techmeme.com/251106/p10#a251106p10)
+ - [Apple is paying Google $1bn to upgrade Siri with… Gemini](https://www.androidauthority.com/apple-paying-google-billion-siri-gemini-3612708/)
+ - [The AI boom is driving coordinated innovation in the US as it builds fabs and energy infrastructure that could have lasting value even if the bubble bursts &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251106/p9#a251106p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
