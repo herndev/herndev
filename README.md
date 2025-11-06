@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla shareholders approve Elon Musk’s $1 trillion pay package](https://www.theverge.com/news/815892/tesla-shareholder-vote-elon-musk-pay-trillion-robot)
- - [Goodbye, Google Assistant: Gemini is starting to roll out to Android Auto](https://www.androidauthority.com/gemini-rolling-out-to-android-auto-3613763/)
- - [DoorDash&#39;s stock fell 17%+ on Thursday, marking its worst trading day ever, amid concerns over its 2026 spending plans for new products like autonomous delivery &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251106/p44#a251106p44)<!-- TECH:END -->
+ - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
+ - [Meta launches Vibes, its short-form video feed of AI-generated videos, in Europe through the Meta AI app, following its US debut six weeks earlier &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251106/p47#a251106p47)
+ - [Tesla Shareholders Approve Elon Musk’s $1 Trillion Pay Package](https://www.wired.com/story/tesla-shareholders-approve-musk-1-trillion-dollar-pay-package/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
