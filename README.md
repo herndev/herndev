@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft built a simulated marketplace to test hundreds of AI agents, finding that businesses could manipulate agents into buying their products and more &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251106/p7#a251106p7)
- - [Sources: SoftBank explored a potential takeover of Marvell earlier this year to merge it with Arm, in what would have been the chip industry&#39;s largest-ever deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p6#a251106p6)
- - [Galaxy S26 Ultra cameras leak: Were you really expecting major upgrades?](https://www.androidauthority.com/samsung-galaxy-s26-ultra-camera-hardware-leak-3613449/)<!-- TECH:END -->
+ - [The AI boom is driving coordinated innovation in the US as it builds fabs and energy infrastructure that could have lasting value even if the bubble bursts &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251106/p9#a251106p9)
+ - [License plate surveillance company Flock Safety faces bipartisan pressure from lawmakers and local organizers over its data handling and cybersecurity practices &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/251106/p8#a251106p8)
+ - [Microsoft built a simulated marketplace to test hundreds of AI agents, finding that businesses could manipulate agents into buying their products and more &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251106/p7#a251106p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
