@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m not here to make friends: I will fill you with bullets if I see you in Arc Raiders](https://www.pcgamer.com/games/action/im-not-here-to-make-friends-i-will-fill-you-with-bullets-if-i-see-you-in-arc-raiders/)
- - [Rockstar co-founder says he&#39;s &#39;less scared than a lot of people&#39; of AI: &#39;If you use it to try and substitute for creativity, it&#39;s going to be really generic&#39;](https://www.pcgamer.com/games/rockstar-co-founder-says-hes-less-scared-than-a-lot-of-people-of-ai-if-you-use-it-to-try-and-substitute-for-creativity-its-going-to-be-really-generic/)
- - [WoW&#39;s game director says they don&#39;t want combat AddOns to do anything the base UI doesn&#39;t: &#39;The overarching goal of the changes in Midnight is to level the playing field&#39;](https://www.pcgamer.com/games/world-of-warcraft/wows-game-director-says-they-dont-want-combat-addons-to-do-anything-the-base-ui-doesnt-the-overarching-goal-of-the-changes-in-midnight-is-to-level-the-playing-field/)<!-- GAME:END -->
+ - [Weapons&#39; grisly horror effects used entire fire extinguishers full of blood](https://www.polygon.com/weapons-zach-cregger-behind-the-scenes-practical-effects-gladys-death/)
+ - [Samsung Is Clearing Out Its 990 EVO Plus SSDs, All Capacities Now at Record Lows on Amazon](https://kotaku.com/samsung-is-clearing-out-its-990-evo-plus-ssds-all-capacities-now-at-record-lows-on-amazon-2000641522)
+ - [Lego’s New $400 Star Trek Enterprise Will Boldly Take You Back To The ’90s](https://kotaku.com/legos-new-400-star-trek-enterprise-set-price-release-date-mini-figs-2000641658)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
