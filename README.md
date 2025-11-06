@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [When is the free Kirby Air Riders Global Test Ride?](https://www.polygon.com/kirby-air-riders-global-test-ride-time-schedule/)
  - [KPop Demon Hunters 2 might not come until 2029](https://www.polygon.com/kpop-demon-hunters-2-sequel-2029/)
- - [Arc Raiders review](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-review/)
- - [PC Gamer magazine&#39;s new issue is on sale now: Heroes of Might and Magic: Olden Era](https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-heroes-of-might-and-magic-olden-era/)<!-- GAME:END -->
+ - [Arc Raiders review](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
