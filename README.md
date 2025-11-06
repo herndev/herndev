@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)
- - ⏩ [Good morning, humans](http://9gag.com/gag/aByjE5D)
- - 👉 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)<!-- MEMES:END -->
+ - 💣 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
+ - ⏩ [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
+ - 👉 [Good morning, humans](http://9gag.com/gag/aByjE5D)<!-- MEMES:END -->
 
 ---
 
