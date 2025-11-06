@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When is the free Kirby Air Riders Global Test Ride?](https://www.polygon.com/kirby-air-riders-global-test-ride-time-schedule/)
- - [KPop Demon Hunters 2 might not come until 2029](https://www.polygon.com/kpop-demon-hunters-2-sequel-2029/)
- - [Arc Raiders review](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-review/)<!-- GAME:END -->
+ - [25 best Game Pass games on Xbox and PC &lpar;November 2025&rpar;](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox/)
+ - [How to get the Competitive Eating badge in Peak](https://www.pcgamer.com/games/sim/peak-competitive-eating-badge-unlock/)
+ - [How to get the Cryptogastronomy badge in Peak](https://www.pcgamer.com/games/sim/peak-cryptogastronomy-badge-unlock/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
