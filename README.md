@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Things animated midquel Tales from &#39;85 is coming to Netflix in 2026](https://www.polygon.com/stranger-things-tales-from-85-first-look/)
- - [Free Play Days – Kingdom Come: Deliverance II, Wild Bastards, Crime Boss: Rockay City, Trailmakers and Big Helmet Heroes](https://news.xbox.com/en-us/2025/11/06/free-play-days-11-06-2025/)
- - [I&#39;m sorry to break the bad news, but you need to gather a truly massive amount of items and hundreds more in donations before you can reset your skill tree in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-respec-cost/)<!-- GAME:END -->
+ - [Dispatch&#39;s automatic fail checks are driving me mad](https://www.polygon.com/dispatch-episode-5-automatic-fail-checks-hero-stats/)
+ - [One Piece&#39;s creator confirms the divisive &quot;nepo piece&quot; theory is real](https://www.polygon.com/one-piece-two-calendars-timeline-franky-queen-sbs113/)
+ - [Pokémon officially going over level 150 is shocking fans](https://www.polygon.com/pokemon-legends-mega-dimension-what-is-level-cap-donuts/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
