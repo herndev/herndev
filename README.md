@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good morning, humans](http://9gag.com/gag/aByjE5D)
- - ⏩ [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
- - 👉 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)<!-- MEMES:END -->
+ - 💣 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
+ - ⏩ [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)
+ - 👉 [Trick or Treat?](http://9gag.com/gag/amoKMjy)<!-- MEMES:END -->
 
 ---
 
