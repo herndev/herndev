@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is testing an AI tool called Kindle Translate that automatically translates books into other languages, for authors that self-publish on the platform &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/251106/p41#a251106p41)
- - [Expert-Backed Ways to Fix AI Image Hallucinations While Using ChatGPT, Midjourney and More](https://www.cnet.com/tech/services-and-software/expert-backed-ways-to-fix-ai-image-hallucinations-while-using-chatgpt-midjourney-and-more/#ftag=CAD590a51e)
- - [Sharing YouTube clips in Google Messages may be about to get a lot better](https://www.androidauthority.com/messages-youtube-pip-player-3613751/)<!-- TECH:END -->
+ - [Tesla shareholders approve Elon Musk’s $1 trillion pay package](https://www.theverge.com/news/815892/tesla-shareholder-vote-elon-musk-pay-trillion-robot)
+ - [Goodbye, Google Assistant: Gemini is starting to roll out to Android Auto](https://www.androidauthority.com/gemini-rolling-out-to-android-auto-3613763/)
+ - [DoorDash&#39;s stock fell 17%+ on Thursday, marking its worst trading day ever, amid concerns over its 2026 spending plans for new products like autonomous delivery &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251106/p44#a251106p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
