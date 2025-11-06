@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thought you were in the clear on YouTube age verification? Think again](https://www.androidauthority.com/youtube-age-verification-3613674/)
- - [Here’s why I would get the Apple Watch SE 2 on sale instead of the Watch SE 3](https://www.androidauthority.com/apple-watch-se-2-deal-2-3613650/)
- - [Call-Recording App Neon Disappeared Abruptly. Now It&#39;s Back for Another Try](https://www.cnet.com/tech/services-and-software/call-recording-app-neon-disappeared-abruptly-now-its-back-for-another-try/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [First macOS Tahoe 26.2 beta released for developer testing](https://appleinsider.com/articles/25/11/06/first-macos-tahoe-262-beta-released-for-developer-testing?utm_source=rss)
+ - [Hot sale: Apple MacBook Air M4 drops to a new record-low price!](https://www.androidauthority.com/apple-macbook-air-m4-deal-17-3613266/)
+ - [OpenAI releases a blueprint the company hopes lawmakers will use in crafting safety standards for teens using AI, with five suggestions for AI companies &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/251106/p38#a251106p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
