@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good morning, humans](http://9gag.com/gag/aByjE5D)
- - ⏩ [Cool hair](http://9gag.com/gag/aW4PbNK)
- - 👉 [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)<!-- MEMES:END -->
+ - 💣 [Dont ride and text &lpar;credit Boli blog&rpar;](http://9gag.com/gag/adBrezZ)
+ - ⏩ [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
+ - 👉 [Good morning, humans](http://9gag.com/gag/aByjE5D)<!-- MEMES:END -->
 
 ---
 
