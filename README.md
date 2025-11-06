@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Maps could soon let you choose shady streets, literally &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-maps-sun-shade-apk-teardown-3613515/)
  - [Sources, public records, and documents detail TuSimple&#39;s downfall, after it transferred autonomous driving IP to Chinese partners despite a 2022 CFIUS agreement &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](http://www.techmeme.com/251106/p10#a251106p10)
- - [Apple is paying Google $1bn to upgrade Siri with… Gemini](https://www.androidauthority.com/apple-paying-google-billion-siri-gemini-3612708/)
- - [The AI boom is driving coordinated innovation in the US as it builds fabs and energy infrastructure that could have lasting value even if the bubble bursts &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251106/p9#a251106p9)<!-- TECH:END -->
+ - [Apple is paying Google $1bn to upgrade Siri with… Gemini](https://www.androidauthority.com/apple-paying-google-billion-siri-gemini-3612708/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
