@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon gives out Diancie, a mythical that&#39;s been kinda MIA for 9 years](https://www.polygon.com/pokemon-za-mystery-gift-diancie-mega-stone-how-to-get/)
- - [The 10 best Arc Raiders clips from the first week](https://www.polygon.com/arc-raiders-clips-highlights-first-week/)
- - [Fans Are Scared As Pokémon Legends: Z-A’s DLC Breaks One Of The Series’ Oldest Rules](https://kotaku.com/pokemon-legends-za-mega-dimension-dlc-level-cap-100-2000641765)<!-- GAME:END -->
+ - [An Inside Scoop of the Boxes: Lost Fragments Development Process](https://news.xbox.com/en-us/2025/11/06/an-inside-scoop-of-boxes-lost-fragments-development/)
+ - [The Game Awards is skipping its Future Class in 2025](https://www.polygon.com/the-game-awards-future-class-2025/)
+ - [&#39;Fiddling with Fulgurating Fulminations&#39; quest walkthrough in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-fiddling-with-fulgurating-fulminations-quest-walkthrough/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
