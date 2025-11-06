@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [An Inside Scoop of the Boxes: Lost Fragments Development Process](https://news.xbox.com/en-us/2025/11/06/an-inside-scoop-of-boxes-lost-fragments-development/)
- - [The Game Awards is skipping its Future Class in 2025](https://www.polygon.com/the-game-awards-future-class-2025/)
- - [&#39;Fiddling with Fulgurating Fulminations&#39; quest walkthrough in The Outer Worlds 2](https://www.polygon.com/outer-worlds-2-fiddling-with-fulgurating-fulminations-quest-walkthrough/)<!-- GAME:END -->
+ - [Things are so bad for Payday 3 at this point, even Crime Boss: Rockay City is making fun of it](https://www.pcgamer.com/games/action/things-are-so-bad-for-payday-3-at-this-point-even-crime-boss-rockay-city-is-making-fun-of-it/)
+ - [NetEase closes a fifth Western studio: Just two years after it was founded, Bad Brain Game Studios will shut down for good next week](https://www.pcgamer.com/gaming-industry/netease-closes-a-fifth-western-studio-just-two-years-after-it-was-founded-bad-brain-game-studios-will-shut-down-for-good-next-week/)
+ - [Netflix is reportedly turning the best cooking game, Overcooked, into a reality competition, and if it doesn&#39;t get Nicole Byer from Nailed It! to host, I will riot](https://www.pcgamer.com/movies-tv/netflix-is-reportedly-turning-the-best-cooking-game-overcooked-into-a-reality-competition-and-if-it-doesnt-get-nicole-byer-from-nailed-it-to-host-i-will-riot/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
