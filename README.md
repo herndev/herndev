@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)
- - ⏩ [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)
- - 👉 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)<!-- MEMES:END -->
+ - 💣 [Trick or Treat?](http://9gag.com/gag/amoKMjy)
+ - ⏩ [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
+ - 👉 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)<!-- MEMES:END -->
 
 ---
 
