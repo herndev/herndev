@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Google is in early talks to deepen its strategic investment in Anthropic that could value the AI company at more than $350B &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/251105/p64#a251105p64)
- - [Sources: Charles Schwab is expected to announce a deal to acquire Forge Global, a leading platform for trading stakes in private startups, for as much as $600M &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/251105/p63#a251105p63)
- - [Inside Kalshi&#39;s NYC HQ on election night, as it handled ~$100M in trades on the mayoral race that day, calling it for Mamdani 36 minutes before any media outlet &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251105/p62#a251105p62)<!-- TECH:END -->
+ - [Canon adds a 32-megapixel sensor and 7K video to the new EOS R6 Mark III](https://www.theverge.com/news/814245/canon-eos-r6-mark-iii-mirrorless-camera-price-specs)
+ - [Researchers used AI to design functional antibodies from scratch, suggesting that AI tools could speed up antibody discovery without the need for animal testing &lpar;Financial Times&rpar;](http://www.techmeme.com/251106/p1#a251106p1)
+ - [Source: Google is in early talks to deepen its strategic investment in Anthropic that could value the AI company at more than $350B &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/251105/p64#a251105p64)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
