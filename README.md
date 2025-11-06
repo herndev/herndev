@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And one for the road...](http://9gag.com/gag/aPAzX1g)
- - ⏩ [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
- - 👉 [Good morning, humans](http://9gag.com/gag/aByjE5D)<!-- MEMES:END -->
+ - 💣 [Girls vs. Escalator](https://www.reddit.com/r/funny/comments/1oq94qn/girls_vs_escalator/)
+ - ⏩ [Called into HR for this observation. Worth it](http://9gag.com/gag/ajPGKMq)
+ - 👉 [Japanese kids learning about road safety](http://9gag.com/gag/apRzAjp)<!-- MEMES:END -->
 
 ---
 
