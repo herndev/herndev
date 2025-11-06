@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Datadog&#39;s stock jumps 20%+ after reporting Q3 revenue up 28% YoY to $885.7M, above $852.8M est., and forecasting Q4 revenue at $912M-$916M, above $877M est. &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251106/p34#a251106p34)
- - [Google Finance wants to become your smartest investing assistant with these new features](https://www.androidauthority.com/google-finance-deep-search-kalshi-polymarket-support-3613620/)
- - [Google Finance offers Gemini AI tools to stock traders](https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search)<!-- TECH:END -->
+ - [Thought you were in the clear on YouTube age verification? Think again](https://www.androidauthority.com/youtube-age-verification-3613674/)
+ - [Here’s why I would get the Apple Watch SE 2 on sale instead of the Watch SE 3](https://www.androidauthority.com/apple-watch-se-2-deal-2-3613650/)
+ - [Call-Recording App Neon Disappeared Abruptly. Now It&#39;s Back for Another Try](https://www.cnet.com/tech/services-and-software/call-recording-app-neon-disappeared-abruptly-now-its-back-for-another-try/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
