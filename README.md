@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Weapons&#39; grisly horror effects used entire fire extinguishers full of blood](https://www.polygon.com/weapons-zach-cregger-behind-the-scenes-practical-effects-gladys-death/)
- - [Samsung Is Clearing Out Its 990 EVO Plus SSDs, All Capacities Now at Record Lows on Amazon](https://kotaku.com/samsung-is-clearing-out-its-990-evo-plus-ssds-all-capacities-now-at-record-lows-on-amazon-2000641522)
- - [Lego’s New $400 Star Trek Enterprise Will Boldly Take You Back To The ’90s](https://kotaku.com/legos-new-400-star-trek-enterprise-set-price-release-date-mini-figs-2000641658)<!-- GAME:END -->
+ - [Stranger Things animated midquel Tales from &#39;85 is coming to Netflix in 2026](https://www.polygon.com/stranger-things-tales-from-85-first-look/)
+ - [Free Play Days – Kingdom Come: Deliverance II, Wild Bastards, Crime Boss: Rockay City, Trailmakers and Big Helmet Heroes](https://news.xbox.com/en-us/2025/11/06/free-play-days-11-06-2025/)
+ - [I&#39;m sorry to break the bad news, but you need to gather a truly massive amount of items and hundreds more in donations before you can reset your skill tree in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-respec-cost/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
