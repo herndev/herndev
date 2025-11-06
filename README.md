@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Good morning, humans](http://9gag.com/gag/aByjE5D)
- - ⏩ [Dont ride and text &lpar;credit Boli blog&rpar;](http://9gag.com/gag/adBrezZ)
- - 👉 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)<!-- MEMES:END -->
+ - ⏩ [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
+ - 👉 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)<!-- MEMES:END -->
 
 ---
 
