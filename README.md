@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [More of Obsidian’s Favorite Character Builds for The Outer Worlds 2](https://news.xbox.com/en-us/2025/11/06/more-obsidian-favorite-character-builds-outer-worlds-2/)
- - [A Game of the Year contender is free to play on Steam this weekend](https://www.polygon.com/kingdom-come-deliverance-2-steam-free-weekend/)
- - [Final Fantasy Publisher Plans To Offload 70 Percent Of QA Work To Generative AI](https://kotaku.com/final-fantasy-gen-ai-square-enix-qa-bugs-2000641688)<!-- GAME:END -->
+ - [Pokémon gives out Diancie, a mythical that&#39;s been kinda MIA for 9 years](https://www.polygon.com/pokemon-za-mystery-gift-diancie-mega-stone-how-to-get/)
+ - [The 10 best Arc Raiders clips from the first week](https://www.polygon.com/arc-raiders-clips-highlights-first-week/)
+ - [Fans Are Scared As Pokémon Legends: Z-A’s DLC Breaks One Of The Series’ Oldest Rules](https://kotaku.com/pokemon-legends-za-mega-dimension-dlc-level-cap-100-2000641765)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
