@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My eyes are down here](http://9gag.com/gag/aKGnOgW)
- - ⏩ [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
- - 👉 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)<!-- MEMES:END -->
+ - 💣 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
+ - ⏩ [My eyes are down here](http://9gag.com/gag/aKGnOgW)
+ - 👉 [Cameron Diaz dropping wisdom on aging](http://9gag.com/gag/aPAzeOK)<!-- MEMES:END -->
 
 ---
 
