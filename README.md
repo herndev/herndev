@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never ever forget.](http://9gag.com/gag/azxoRZz)
+ - 💣 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
  - ⏩ [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
- - 👉 [I do that in the planetarium bathroom mirror](http://9gag.com/gag/a6Z424L)<!-- MEMES:END -->
+ - 👉 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)<!-- MEMES:END -->
 
 ---
 
