@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [25 best Game Pass games on Xbox and PC &lpar;November 2025&rpar;](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox/)
- - [How to get the Competitive Eating badge in Peak](https://www.pcgamer.com/games/sim/peak-competitive-eating-badge-unlock/)
- - [How to get the Cryptogastronomy badge in Peak](https://www.pcgamer.com/games/sim/peak-cryptogastronomy-badge-unlock/)<!-- GAME:END -->
+ - [When does Predator: Badlands take place in the Predator/Alien timeline?](https://www.polygon.com/predator-badlands-timeline-explained/)
+ - [Great, now even malware is using LLMs to rewrite its code, says Google, as it documents new phase of &#39;AI abuse&#39;](https://www.pcgamer.com/software/ai/great-now-even-malware-is-using-llms-to-rewrite-its-code-says-google-as-it-documents-new-phase-of-ai-abuse/)
+ - [You can watch RAM prices going up almost in real-time on Amazon and it&#39;s only likely to get worse](https://www.pcgamer.com/hardware/memory/you-can-watch-ram-prices-going-up-almost-in-real-time-on-amazon-and-its-only-likely-to-get-worse/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
