@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Eiffel Tower Is on Sale, Iconic Paris LEGO Set Going for Pennies on Amazon](https://kotaku.com/the-eiffel-tower-is-on-sale-iconic-paris-lego-set-going-for-pennies-on-amazon-2000641360)
- - [Top Twitch Streamer Sues Emiru And Asmongold For Defamation Over Sexual Assault Allegations](https://kotaku.com/emiru-asmongold-mizkif-defamation-lawsuit-sexual-assault-otk-2000641443)
- - [Sonic‘s Latest Outing Is A Grim Fall Guys Knock-Off With $60 Skins](https://kotaku.com/sonics-latest-outing-is-a-grim-fall-guys-knock-off-with-60-skins-2000641427)<!-- GAME:END -->
+ - [Jennifer Hale did not see the twist in Knights of the Old Republic coming either: &#39;I remember just being gobsmacked by this game so many times&#39;](https://www.pcgamer.com/games/rpg/jennifer-hale-did-not-see-the-twist-in-knights-of-the-old-republic-coming-either-i-remember-just-being-gobsmacked-by-this-game-so-many-times/)
+ - [Microsoft was apparently so embarrassed by Windows 98&#39;s infamous on-stage Blue Screen of Death it built a new testing room on campus to ensure it would never happen again](https://www.pcgamer.com/software/windows/microsoft-was-apparently-so-embarrassed-by-windows-98s-infamous-on-stage-blue-screen-of-death-it-built-a-new-testing-room-on-campus-to-ensure-it-would-never-happen-again/)
+ - [How to call a supply drop in Arc Raiders](https://www.polygon.com/arc-raiders-supply-drop-locations-how-to-call/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
