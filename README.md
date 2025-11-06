@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill&#39;s Pyramid Head and Castlevania&#39;s Dracula are heading to Dead by Daylight](https://www.polygon.com/dead-by-daylight-silent-hill-castlevania-pyramid-head/)
- - [Arc Raiders: The Best Skills For Solo And Team Play](https://kotaku.com/arc-raiders-skills-mobility-survival-conditioning-solo-2000641789)
- - [Take-Two Boss Feels ‘Really Good’ About New GTA 6 Release Date, Which Is What He Said The Last Two Times](https://kotaku.com/gta-6-release-date-delay-ceo-strauss-zelnick-2000641798)<!-- GAME:END -->
+ - [Does Predator: Badlands have a post-credits scene? How the ending sets up a sequel](https://www.polygon.com/predator-badlands-post-credits-scene-ending-explained/)
+ - [Take-Two boss says &#39;we&#39;ve never regretted&#39; delaying a game following the Grand Theft Auto 6 pushback, says other studios might have better luck if they did the same thing once in a while](https://www.pcgamer.com/games/action/take-two-boss-says-weve-never-regretted-delaying-a-game-following-the-grand-theft-auto-6-pushback-says-other-studios-might-have-better-luck-if-they-did-the-same-thing-once-in-a-while/)
+ - [11 Hyrule Warriors: Age of Imprisonment beginner tips to give you a fighting edge](https://www.polygon.com/hyrule-warriors-age-of-imprisonment-beginner-tips-tricks/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
