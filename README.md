@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring’s new feature combats security camera notification fatigue](https://www.theverge.com/news/815367/ring-launches-single-event-alerts)
- - [Previous winners talk about how to win Apple&#39;s Swift Student Challenge](https://appleinsider.com/articles/25/11/06/previous-winners-talk-about-how-to-win-apples-swift-student-challenge?utm_source=rss)
- - [Fomo, a consumer crypto trading app, raised a $17M Series A led by Benchmark, bringing its total funding to $19M, and reports $20M-$40M in daily trading volume &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/251106/p28#a251106p28)<!-- TECH:END -->
+ - [Pebblebee’s new trackers are brighter, louder, thinner, and more colorful](https://www.theverge.com/news/814728/pebblebee-clip-card-5-trackers-apple-find-my-google-hub)
+ - [Google Messages doubles its pin limit, in case you’re avoiding more than 10 people](https://www.androidauthority.com/google-messages-20-pinned-conversations-3613658/)
+ - [Spotify is launching a weekly mini ‘Wrapped’](https://www.theverge.com/news/815521/spotify-listening-stats-weekly-feature-wrapped)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
