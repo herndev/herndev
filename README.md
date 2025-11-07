@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends: Z-A’s Got A Moment That’s ‘Baby Shoes, Never Worn’ Sad](https://kotaku.com/pokemon-legends-za-trubbish-catch-poke-ball-dance-2000642148)
- - [Critical Role makes changes to Campaign 4 characters that may have big repercussions](https://www.polygon.com/critical-role-campaign-4-character-classes-changes-exemplar-pact-magus/)
- - [Nintendo Is Holding The Line Against A $500 Switch 2 Unless There Are More Tariffs](https://kotaku.com/switch-2-price-hike-nintendo-sale-discount-2000642086)<!-- GAME:END -->
+ - [How to shiny hunt in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-shiny-hunting-reset-how-to/)
+ - [Larian publishing director balks at Square Enix&#39;s push to replace QA workers with AI: &#39;The idea that QA people can be replaced at a large scale is stupid … They are a massively advantageous vibe check&#39;](https://www.pcgamer.com/gaming-industry/larian-publishing-director-balks-at-square-enixs-push-to-replace-qa-workers-with-ai-the-idea-that-qa-people-can-be-replaced-at-a-large-scale-is-stupid-they-are-a-massively-advantageous-vibe-check/)
+ - [All KBBL radio tower locations in Fortnite](https://www.polygon.com/fortnite-kbbl-radio-tower-locations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
