@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mass Effect 5 needs to go AA](https://www.polygon.com/mass-effect-5-double-a-bioware-ea/)
- - [Brawlhalla: 10 Years of Community](https://news.xbox.com/en-us/2025/11/07/brawlhalla-10-years-of-community/)
- - [Fans Are Racing To Decode The Latest Mass Effect 5 Tease](https://kotaku.com/mass-effect-5-n7-day-bioware-blog-teaser-url-krogan-2000642122)<!-- GAME:END -->
+ - [Pokémon Legends: Z-A’s Got A Moment That’s ‘Baby Shoes, Never Worn’ Sad](https://kotaku.com/pokemon-legends-za-trubbish-catch-poke-ball-dance-2000642148)
+ - [Critical Role makes changes to Campaign 4 characters that may have big repercussions](https://www.polygon.com/critical-role-campaign-4-character-classes-changes-exemplar-pact-magus/)
+ - [Nintendo Is Holding The Line Against A $500 Switch 2 Unless There Are More Tariffs](https://kotaku.com/switch-2-price-hike-nintendo-sale-discount-2000642086)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
