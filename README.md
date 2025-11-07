@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit’s food logging is broken right now, but that’s no excuse for a cheat day](https://www.androidauthority.com/fitbit-food-logging-outage-barcode-search-down-3614012/)
- - [YouTube isn’t down, it’s your ad blocker again](https://www.androidauthority.com/youtube-not-down-just-an-ad-blocker-crackdown-3614018/)
- - [Blackmagic’s free camera app can now stream directly to YouTube and Twitch](https://www.theverge.com/news/816516/blackmagic-design-camera-mobile-app-ios-android-streaming-youtube-twitch)<!-- TECH:END -->
+ - [Neobank Mercury says it has hit $650M in annualized revenue, up from $500M by end of 2024, and has been GAAP profitable on net income and EBITDA for three years &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/251107/p22#a251107p22)
+ - [13 Best Deals From the All-Clad Factory Seconds Sale on Kitchen Must-Haves &lpar;2025&rpar;](https://www.wired.com/story/all-clad-sale-october-2025/)
+ - [A Delaware federal jury rules that GoDaddy owes patent owner Express Mobile $170M for violating its rights in website-building technology; GoDaddy will appeal &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251107/p21#a251107p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
