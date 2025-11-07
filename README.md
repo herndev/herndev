@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigabyte Aero X16](https://www.pcgamer.com/hardware/gaming-laptops/gigabyte-aero-x16/)
- - [How to complete Market Correction in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-market-correction-quest-walkthrough/)
- - [Is GTA 6&#39;s delay that bad, compared to GTA 5 and Red Dead Redemption 2?](https://www.polygon.com/gta-6-delay-vs-gta-5-red-dead-redemption-2/)<!-- GAME:END -->
+ - [Vince Gilligan: Pluribus was inspired by &quot;quasi-legit&quot; science and Caribbean fish](https://www.polygon.com/pluribus-hivemind-the-joining-explained/)
+ - [OpenAI&#39;s Sam Altman is not looking for government rescue if things go bad: &#39;Taxpayers should not bail out companies that make bad business decisions&#39;](https://www.pcgamer.com/software/ai/openais-sam-altman-is-not-looking-for-government-rescue-if-things-go-bad-taxpayers-should-not-bail-out-companies-that-make-bad-business-decisions/)
+ - [Arc Raiders clears up the mystery of Trials, explaining the challenges are unfortunately harder than they first appear: &#39;Here&#39;s the 101&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-clears-up-the-mystery-of-trials-explaining-the-challenges-are-unfortunately-harder-than-they-first-appear-heres-the-101/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
