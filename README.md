@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite‘s Next Update Is Its Last As Devs Tease Multiple Games](https://kotaku.com/halo-infinite-no-more-updates-operation-halo-studios-xbox-2000642195)
- - [The Mass Effect TV series will &#39;explore a brand-new story within the universe’s timeline,&#39; BioWare exec says: &#39;It won’t be a retread of Commander Shepard&#39;s story&#39;](https://www.pcgamer.com/games/rpg/the-mass-effect-tv-series-will-explore-a-brand-new-story-within-the-universes-timeline-bioware-exec-says-it-wont-be-a-retread-of-commander-shepards-story/)
- - [Mass Effect is the epitome of a discouraging gaming trend](https://www.polygon.com/mass-effect-space-opera-sci-fi-games/)<!-- GAME:END -->
+ - [Fantastic Four: First Steps, Guillermo del Toro&#39;s Frankenstein, and the best movies on streaming this week](https://www.polygon.com/new-movies-on-streaming-the-fantastic-four-first-steps-frankenstein/)
+ - [Kotaku’s Weekend Guide: 4 Great Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-arc-raiders-bf6-dispatch-dragon-quest-2000642229)
+ - [Where Winds Meet: dive deeper into gameplay and story details](https://blog.playstation.com/2025/11/07/where-winds-meet-dive-deeper-into-gameplay-and-story-details/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
