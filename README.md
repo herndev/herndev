@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The goal and celebration in slomo](http://9gag.com/gag/aoyAYPe)
- - ⏩ [Kowalski, status report!](http://9gag.com/gag/aGy62W6)
- - 👉 [The perfect trilogy, you cant convince me otherwise.](http://9gag.com/gag/aZZozZX)<!-- MEMES:END -->
+ - 💣 [Kowalski, status report!](http://9gag.com/gag/aGy62W6)
+ - ⏩ [Cool hair](http://9gag.com/gag/aW4PbNK)
+ - 👉 [My eyes are down here](http://9gag.com/gag/aKGnOgW)<!-- MEMES:END -->
 
 ---
 
