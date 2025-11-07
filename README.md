@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aLnVd1W)
- - ⏩ [Me every morning before work, gotta go fast](http://9gag.com/gag/ayNZYOr)
- - 👉 [That classic magic](http://9gag.com/gag/a6Z4GVb)<!-- MEMES:END -->
+ - 💣 [Kowalski, status report!](http://9gag.com/gag/aGy62W6)
+ - ⏩ [My eyes are down here](http://9gag.com/gag/aKGnOgW)
+ - 👉 [Ay el amour](http://9gag.com/gag/aoyA8DA)<!-- MEMES:END -->
 
 ---
 
