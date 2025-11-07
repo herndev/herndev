@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leakers just can’t agree if the Galaxy S26 Ultra’s cameras are an upgrade or a downgrade](https://www.androidauthority.com/galaxy-s26-ultra-camera-leak-3613837/)
- - [Gemini on Google Home is here — how’s it working out for you?](https://www.androidauthority.com/gemini-on-google-home-open-thread-3613858/)
- - [I tried to love Gemini Live ahead of its Google Home debut, but I can’t imagine paying for it](https://www.androidauthority.com/google-gemini-live-vs-chatgpt-voice-3612678/)<!-- TECH:END -->
+ - [China is allowing Nexperia to export chips again, according to officials from several auto companies; shares in Wingtech, Nexperia&#39;s Chinese parent, surged 10%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/251107/p8#a251107p8)
+ - [Google, Microsoft, and Meta Have Stopped Publishing Workforce Diversity Data](https://www.wired.com/story/google-microsoft-and-meta-have-stopped-publishing-workforce-diversity-data/)
+ - [Best Base Layer &lpar;2025&rpar;: Ibex, Smartwool, and More](https://www.wired.com/gallery/best-base-layers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
