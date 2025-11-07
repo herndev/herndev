@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to shiny hunt in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-shiny-hunting-reset-how-to/)
- - [Larian publishing director balks at Square Enix&#39;s push to replace QA workers with AI: &#39;The idea that QA people can be replaced at a large scale is stupid … They are a massively advantageous vibe check&#39;](https://www.pcgamer.com/gaming-industry/larian-publishing-director-balks-at-square-enixs-push-to-replace-qa-workers-with-ai-the-idea-that-qa-people-can-be-replaced-at-a-large-scale-is-stupid-they-are-a-massively-advantageous-vibe-check/)
- - [All KBBL radio tower locations in Fortnite](https://www.polygon.com/fortnite-kbbl-radio-tower-locations/)<!-- GAME:END -->
+ - [Attention parents of Roblox kids: I regret to inform you they are making a Grow a Garden movie](https://www.pcgamer.com/movies-tv/attention-parents-of-roblox-kids-i-regret-to-inform-you-they-are-making-a-grow-a-garden-movie/)
+ - [World of Warcraft: Legion Remix players discover infinite power farm that&#39;s so broken it&#39;s lagging the servers](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-legion-remix-players-discover-infinite-power-farm-thats-so-broken-its-lagging-the-servers/)
+ - [Developer Behind Hit 2025 Game Thinks The Response Has Been ‘Too Positive’](https://kotaku.com/ball-x-pit-vampire-survivors-balatro-roguelike-2000642155)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
