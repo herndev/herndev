@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X appears to be sending fake traffic across the web](https://www.theverge.com/news/816451/x-fake-traffic-preloading-links-bluesky-substack)
- - [Samsung’s Frame Pro TV has hit a new all-time low before Black Friday](https://www.theverge.com/tech/816373/samsung-frame-pro-lego-star-wars-advent-calendar-deal-sale)
- - [NotebookLM gets flashcards and quizzes to put your knowledge to the test](https://www.androidauthority.com/notebooklm-flashcards-quizzes-update-3613999/)<!-- TECH:END -->
+ - [Texas sues Roblox for allegedly failing to protect children on its platform](https://www.theverge.com/news/816549/texas-roblox-lawsuit-child-safety)
+ - [Denmark&#39;s government has reached a political agreement to ban social media access for anyone under 15, with a possible parental consent exception from age 13 &lpar;Euronews&rpar;](http://www.techmeme.com/251107/p17#a251107p17)
+ - [BioWare says it&amp;#8217;s &amp;#8216;focused exclusively&amp;#8217; on the next Mass Effect](https://www.theverge.com/news/816555/bioware-mass-effect-5-development-focused-tv-show-amazon-n7-day)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
