@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: Polymarket&#39;s trading volume has been artificially inflated by wash trading, accounting for 25% of all buying and selling over the past three years &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/251107/p10#a251107p10)
- - [Apple Vision Pro, iOS 26, and Google isn&#39;t saving Siri, on the AppleInsider Podcast](https://appleinsider.com/articles/25/11/07/apple-vision-pro-ios-26-and-google-isnt-saving-siri-on-the-appleinsider-podcast?utm_source=rss)
- - [9 Best Leggings of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/the-best-leggings/)<!-- TECH:END -->
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025)
+ - [Tesla rewards Elon Musk’s reality-distortion field](https://www.theverge.com/transportation/816259/tesla-shareholder-elon-musk-pay-package-reality-distortion)
+ - [M5 13-inch iPad Pro review -- minute improvements, but so what?](https://appleinsider.com/articles/25/11/07/m5-13-inch-ipad-pro-review----minute-improvements-but-so-what?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
