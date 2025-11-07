@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A draft shows the European Commission plans to propose a simplification package on Nov. 19 to pause parts of its AI laws amid pressure from Big Tech and the US &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251107/p2#a251107p2)
- - [TikTok Shop says fraudulent sellers are using AI to create fake brands and nonexistent products; TikTok rejected 70M products and banned 700K sellers in H1 2025 &lpar;Dan Whateley/Business Insider&rpar;](http://www.techmeme.com/251107/p1#a251107p1)
- - [Cloudflare warns the US government that site-blocking efforts in Europe and Asia to combat online piracy are creating digital trade barriers for US providers &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/251106/p55#a251106p55)<!-- TECH:END -->
+ - [Western Digital Promo Code: 10% Off](https://www.wired.com/story/western-digital-promo-code/)
+ - [Not everyone gets a free iPhone: AT&amp;T loses fight over misleading ads](https://www.androidauthority.com/att-free-iphone-ad-misleading-3613816/)
+ - [Govee Discount Codes and Deals: 30% Off](https://www.wired.com/story/govee-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
