@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Creative Assembly has revealed unique mechanics for the armies in Total War: Warhammer 3&#39;s Tides of Torment DLC, and their unit rosters too](https://www.pcgamer.com/games/strategy/creative-assembly-has-revealed-unique-mechanics-for-the-armies-in-total-war-warhammer-3s-tides-of-torment-dlc-and-their-unit-rosters-too/)
- - [Anker Dumps Its 10,000 mAh Power Bank for Pennies, 10K Units Already Sold on Amazon](https://kotaku.com/anker-dumps-its-10000-mah-power-bank-for-pennies-10k-units-already-sold-on-amazon-2000641824)
- - [Don&#39;t sleep on the new solarpunk colony sim from devs behind Firewatch, Mini Motorways, Gone Home and more](https://www.pcgamer.com/games/city-builder/dont-sleep-on-the-new-solarpunk-colony-sim-from-devs-behind-firewatch-mini-motorways-gone-home-and-more/)<!-- GAME:END -->
+ - [Mass Effect 2&#39;s nightclub is one of the greatest locations in gaming history](https://www.polygon.com/mass-effect-afterlife-omega-saki-kaska-greatest-location-gaming/)
+ - [Petit Planet is a playlist of cozy gaming&#39;s greatest hits](https://www.polygon.com/petit-planet-beta-impressions-cozy-gaming/)
+ - [Creative Assembly has revealed unique mechanics for the armies in Total War: Warhammer 3&#39;s Tides of Torment DLC, and their unit rosters too](https://www.pcgamer.com/games/strategy/creative-assembly-has-revealed-unique-mechanics-for-the-armies-in-total-war-warhammer-3s-tides-of-torment-dlc-and-their-unit-rosters-too/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
