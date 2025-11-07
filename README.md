@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Western Digital Promo Code: 10% Off](https://www.wired.com/story/western-digital-promo-code/)
- - [Not everyone gets a free iPhone: AT&amp;T loses fight over misleading ads](https://www.androidauthority.com/att-free-iphone-ad-misleading-3613816/)
- - [Govee Discount Codes and Deals: 30% Off](https://www.wired.com/story/govee-discount-code/)<!-- TECH:END -->
+ - [Top Verizon Promo Codes &amp; Deals | November 2025](https://www.wired.com/story/verizon-promo-code/)
+ - [Walmart Promo Codes and Coupons: $10 Off](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
