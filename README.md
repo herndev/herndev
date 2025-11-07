@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Attention parents of Roblox kids: I regret to inform you they are making a Grow a Garden movie](https://www.pcgamer.com/movies-tv/attention-parents-of-roblox-kids-i-regret-to-inform-you-they-are-making-a-grow-a-garden-movie/)
- - [World of Warcraft: Legion Remix players discover infinite power farm that&#39;s so broken it&#39;s lagging the servers](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-legion-remix-players-discover-infinite-power-farm-thats-so-broken-its-lagging-the-servers/)
- - [Developer Behind Hit 2025 Game Thinks The Response Has Been ‘Too Positive’](https://kotaku.com/ball-x-pit-vampire-survivors-balatro-roguelike-2000642155)<!-- GAME:END -->
+ - [Mass Effect is the epitome of a discouraging gaming trend](https://www.polygon.com/mass-effect-space-opera-sci-fi-games/)
+ - [A No Man’s Sky Player Spent 100 Hours Building The Perfect Tribute To A Studio Ghibli Classic](https://kotaku.com/no-mans-sky-nms-bases-totoro-ghibli-miyazaki-2000642179)
+ - [A new Arc Raiders update just fixed a bug where an otherwise underwhelming item could glitch you through walls, so I guess it&#39;s back to being underwhelming](https://www.pcgamer.com/games/third-person-shooter/a-new-arc-raiders-update-just-fixed-a-bug-where-an-otherwise-underwhelming-item-could-glitch-you-through-walls-so-i-guess-its-back-to-being-underwhelming/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
