@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
- - ⏩ [Merry xmass](http://9gag.com/gag/a7oPn3r)
- - 👉 [Ay el amour](http://9gag.com/gag/aoyA8DA)<!-- MEMES:END -->
+ - 💣 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)
+ - ⏩ [I have an idea](http://9gag.com/gag/aQzB2De)
+ - 👉 [Merry xmass](http://9gag.com/gag/a7oPn3r)<!-- MEMES:END -->
 
 ---
 
