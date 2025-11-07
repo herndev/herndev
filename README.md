@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Mass Effect 2&#39;s nightclub is one of the greatest locations in gaming history](https://www.polygon.com/mass-effect-afterlife-omega-saki-kaska-greatest-location-gaming/)
  - [Petit Planet is a playlist of cozy gaming&#39;s greatest hits](https://www.polygon.com/petit-planet-beta-impressions-cozy-gaming/)
- - [Creative Assembly has revealed unique mechanics for the armies in Total War: Warhammer 3&#39;s Tides of Torment DLC, and their unit rosters too](https://www.pcgamer.com/games/strategy/creative-assembly-has-revealed-unique-mechanics-for-the-armies-in-total-war-warhammer-3s-tides-of-torment-dlc-and-their-unit-rosters-too/)
- - [Pluribus review: Apple&#39;s new sci-fi show isn’t the next Severance, but it might be even better](https://www.polygon.com/pluribus-review-apple-tv-severance/)<!-- GAME:END -->
+ - [Creative Assembly has revealed unique mechanics for the armies in Total War: Warhammer 3&#39;s Tides of Torment DLC, and their unit rosters too](https://www.pcgamer.com/games/strategy/creative-assembly-has-revealed-unique-mechanics-for-the-armies-in-total-war-warhammer-3s-tides-of-torment-dlc-and-their-unit-rosters-too/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
