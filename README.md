@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s long game will result in a safe, secure, and ethical AI ecosystem](https://appleinsider.com/articles/25/11/07/apples-long-game-will-result-in-a-safe-secure-and-ethical-ai-ecosystem?utm_source=rss)
- - [6 Best Laptops for College Students &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-laptops-for-college-students/)
- - [Fitbit’s latest experiment lets Pixel Watch users check for early signs of bad health](https://www.androidauthority.com/fitbit-labs-pixel-watch-unusual-vitals-hypetension-risk-alerts-3613887/)<!-- TECH:END -->
+ - [Study: Polymarket&#39;s trading volume has been artificially inflated by wash trading, accounting for 25% of all buying and selling over the past three years &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/251107/p10#a251107p10)
+ - [Apple Vision Pro, iOS 26, and Google isn&#39;t saving Siri, on the AppleInsider Podcast](https://appleinsider.com/articles/25/11/07/apple-vision-pro-ios-26-and-google-isnt-saving-siri-on-the-appleinsider-podcast?utm_source=rss)
+ - [9 Best Leggings of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/the-best-leggings/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
