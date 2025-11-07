@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get ready to do the Silksong release date shuffle all over again: GTA 6&#39;s delay just blew up the whole game industry&#39;s holiday 2026 plans](https://www.pcgamer.com/games/grand-theft-auto/get-ready-to-do-the-silksong-release-date-shuffle-all-over-again-gta-6s-delay-just-blew-up-the-whole-game-industrys-holiday-2026-plans/)
- - [Well, PC gamers, time to make peace with the fact that we probably won&#39;t be playing GTA 6 until, like, 2028 unless we cave in and buy the console version](https://www.pcgamer.com/games/grand-theft-auto/well-pc-gamers-time-to-make-peace-with-the-fact-that-we-probably-wont-be-playing-gta-6-until-like-2028-unless-we-cave-in-and-buy-the-console-version/)
- - [GTA 6 Aiming For ‘Perfection’ As CEO References Past Metacritic Scores Over 95](https://kotaku.com/gta-6-aiming-for-perfection-as-ceo-references-past-metacritic-scores-over-95-2000641842)<!-- GAME:END -->
+ - [Amazon Is Rolling Out Its Black Friday Deals, Powerful 16-inch Gaming Laptop Is Now 71% Off](https://kotaku.com/amazon-is-rolling-out-its-black-friday-deals-powerful-16-inch-gaming-laptop-is-now-71-off-2000641711)
+ - [Jackery Offloads Its 1500W Power Generator at 55% Off, The Ideal Backup for Winter Outages](https://kotaku.com/jackery-offloads-its-1500w-power-generator-at-55-off-the-ideal-backup-for-winter-outages-2000641816)
+ - [Amazon Quietly Offloads the 15.6-inch Yxk Portable Screen, Now Going for Literally Pennies](https://kotaku.com/amazon-quietly-offloads-the-15-6-inch-yxk-portable-screen-now-going-for-literally-pennies-2000641696)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
