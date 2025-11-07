@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unit 42: &quot;commercial grade&quot; spyware called Landfall, likely zero-click, was used in a hacking campaign aimed at Samsung Galaxy phones in the Middle East &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251107/p24#a251107p24)
- - [Best Fiber Internet Providers for November 2025](https://www.cnet.com/home/internet/best-fiber-internet-providers/#ftag=CAD590a51e)
- - [Before You Preorder a $20K Home Robot, There&#39;s Something You Should See](https://www.cnet.com/tech/before-you-preorder-a-20k-home-robot-theres-something-you-should-see/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Survey reveals you can’t live without Disney channels on YouTube TV](https://www.androidauthority.com/youtube-channels-disney-poll-results-3614050/)
+ - [Maybe Peloton is its own worst enemy](https://www.theverge.com/gadgets/816352/peloton-q1-2026-earnings-fitness)
+ - [In a letter on October 27, OpenAI asked the Trump administration to expand a 35% Chips Act tax credit to help lower the cost of AI infrastructure &lpar;Bloomberg&rpar;](http://www.techmeme.com/251107/p26#a251107p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
