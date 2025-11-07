@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China is allowing Nexperia to export chips again, according to officials from several auto companies; shares in Wingtech, Nexperia&#39;s Chinese parent, surged 10%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/251107/p8#a251107p8)
- - [Google, Microsoft, and Meta Have Stopped Publishing Workforce Diversity Data](https://www.wired.com/story/google-microsoft-and-meta-have-stopped-publishing-workforce-diversity-data/)
- - [Best Base Layer &lpar;2025&rpar;: Ibex, Smartwool, and More](https://www.wired.com/gallery/best-base-layers/)<!-- TECH:END -->
+ - [Apple&#39;s long game will result in a safe, secure, and ethical AI ecosystem](https://appleinsider.com/articles/25/11/07/apples-long-game-will-result-in-a-safe-secure-and-ethical-ai-ecosystem?utm_source=rss)
+ - [6 Best Laptops for College Students &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-laptops-for-college-students/)
+ - [Fitbit’s latest experiment lets Pixel Watch users check for early signs of bad health](https://www.androidauthority.com/fitbit-labs-pixel-watch-unusual-vitals-hypetension-risk-alerts-3613887/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
