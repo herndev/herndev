@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mass Effect 2&#39;s nightclub is one of the greatest locations in gaming history](https://www.polygon.com/mass-effect-afterlife-omega-saki-kaska-greatest-location-gaming/)
- - [Petit Planet is a playlist of cozy gaming&#39;s greatest hits](https://www.polygon.com/petit-planet-beta-impressions-cozy-gaming/)
- - [Creative Assembly has revealed unique mechanics for the armies in Total War: Warhammer 3&#39;s Tides of Torment DLC, and their unit rosters too](https://www.pcgamer.com/games/strategy/creative-assembly-has-revealed-unique-mechanics-for-the-armies-in-total-war-warhammer-3s-tides-of-torment-dlc-and-their-unit-rosters-too/)<!-- GAME:END -->
+ - [Gigabyte Aero X16](https://www.pcgamer.com/hardware/gaming-laptops/gigabyte-aero-x16/)
+ - [How to complete Market Correction in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-market-correction-quest-walkthrough/)
+ - [Is GTA 6&#39;s delay that bad, compared to GTA 5 and Red Dead Redemption 2?](https://www.polygon.com/gta-6-delay-vs-gta-5-red-dead-redemption-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
