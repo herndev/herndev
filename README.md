@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas Attorney General Ken Paxton sues Roblox, accusing the company of &quot;flagrantly ignoring&quot; safety laws and calling it a &quot;breeding ground for predators&quot; &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/251107/p7#a251107p7)
- - [Sources: the Netherlands is prepared to drop the ministerial order that gave it control of Nexperia if China allows exports of its critical chips again &lpar;Bloomberg&rpar;](http://www.techmeme.com/251107/p6#a251107p6)
- - [iPhone 18 Pro leak suggests Apple could copy Nothing with this key design choice](https://www.androidauthority.com/iphone-18-pro-design-nothing-3613822/)<!-- TECH:END -->
+ - [Leakers just can’t agree if the Galaxy S26 Ultra’s cameras are an upgrade or a downgrade](https://www.androidauthority.com/galaxy-s26-ultra-camera-leak-3613837/)
+ - [Gemini on Google Home is here — how’s it working out for you?](https://www.androidauthority.com/gemini-on-google-home-open-thread-3613858/)
+ - [I tried to love Gemini Live ahead of its Google Home debut, but I can’t imagine paying for it](https://www.androidauthority.com/google-gemini-live-vs-chatgpt-voice-3612678/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
