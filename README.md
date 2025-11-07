@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey reveals you can’t live without Disney channels on YouTube TV](https://www.androidauthority.com/youtube-channels-disney-poll-results-3614050/)
- - [Maybe Peloton is its own worst enemy](https://www.theverge.com/gadgets/816352/peloton-q1-2026-earnings-fitness)
- - [In a letter on October 27, OpenAI asked the Trump administration to expand a 35% Chips Act tax credit to help lower the cost of AI infrastructure &lpar;Bloomberg&rpar;](http://www.techmeme.com/251107/p26#a251107p26)<!-- TECH:END -->
+ - [France&#39;s Finance Ministry halts the suspension proceedings of Shein that was initiated on November 5 after Shein withdrew illicit products from its platform &lpar;Inti Landauro/Reuters&rpar;](http://www.techmeme.com/251107/p27#a251107p27)
+ - [The Government Shutdown Is a Ticking Cybersecurity Time Bomb](https://www.wired.com/story/the-government-shutdown-is-a-ticking-cybersecurity-time-bomb/)
+ - [NOOK GlowLight 4 lands in Ocean Teal ahead of the e-reader’s next refresh](https://www.androidauthority.com/nook-glowlight-4-ocean-teal-launch-3614108/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
