@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas sues Roblox for allegedly failing to protect children on its platform](https://www.theverge.com/news/816549/texas-roblox-lawsuit-child-safety)
- - [Denmark&#39;s government has reached a political agreement to ban social media access for anyone under 15, with a possible parental consent exception from age 13 &lpar;Euronews&rpar;](http://www.techmeme.com/251107/p17#a251107p17)
- - [BioWare says it&amp;#8217;s &amp;#8216;focused exclusively&amp;#8217; on the next Mass Effect](https://www.theverge.com/news/816555/bioware-mass-effect-5-development-focused-tv-show-amazon-n7-day)<!-- TECH:END -->
+ - [Fitbit’s food logging is broken right now, but that’s no excuse for a cheat day](https://www.androidauthority.com/fitbit-food-logging-outage-barcode-search-down-3614012/)
+ - [YouTube isn’t down, it’s your ad blocker again](https://www.androidauthority.com/youtube-not-down-just-an-ad-blocker-crackdown-3614018/)
+ - [Blackmagic’s free camera app can now stream directly to YouTube and Twitch](https://www.theverge.com/news/816516/blackmagic-design-camera-mobile-app-ios-android-streaming-youtube-twitch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
