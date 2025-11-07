@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8.5’s notification summaries may not be to everyone’s delight](https://www.androidauthority.com/one-ui-8-5-notification-summaries-limitations-3613828/)
- - [Top Verizon Promo Codes &amp; Deals | November 2025](https://www.wired.com/story/verizon-promo-code/)
- - [Walmart Promo Codes and Coupons: $10 Off](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
+ - [Texas Attorney General Ken Paxton sues Roblox, accusing the company of &quot;flagrantly ignoring&quot; safety laws and calling it a &quot;breeding ground for predators&quot; &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/251107/p7#a251107p7)
+ - [Sources: the Netherlands is prepared to drop the ministerial order that gave it control of Nexperia if China allows exports of its critical chips again &lpar;Bloomberg&rpar;](http://www.techmeme.com/251107/p6#a251107p6)
+ - [iPhone 18 Pro leak suggests Apple could copy Nothing with this key design choice](https://www.androidauthority.com/iphone-18-pro-design-nothing-3613822/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
