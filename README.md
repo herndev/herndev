@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV&#39;s &#39;La Decision&#39; turns a presidential scandal into a political thriller](https://appleinsider.com/articles/25/11/07/apple-tvs-la-decision-turns-a-presidential-scandal-into-a-political-thriller?utm_source=rss)
- - [Commonware, which develops open-source code for launching blockchains, raised $25M led by Tempo, a stablecoin-focused blockchain backed by Stripe and Paradigm &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251107/p15#a251107p15)
- - [The Best Gifts for Sleep, as Tested by Our Team](https://www.wired.com/gallery/best-sleep-gifts/)<!-- TECH:END -->
+ - [X appears to be sending fake traffic across the web](https://www.theverge.com/news/816451/x-fake-traffic-preloading-links-bluesky-substack)
+ - [Samsung’s Frame Pro TV has hit a new all-time low before Black Friday](https://www.theverge.com/tech/816373/samsung-frame-pro-lego-star-wars-advent-calendar-deal-sale)
+ - [NotebookLM gets flashcards and quizzes to put your knowledge to the test](https://www.androidauthority.com/notebooklm-flashcards-quizzes-update-3613999/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
