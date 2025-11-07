@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vince Gilligan: Pluribus was inspired by &quot;quasi-legit&quot; science and Caribbean fish](https://www.polygon.com/pluribus-hivemind-the-joining-explained/)
- - [OpenAI&#39;s Sam Altman is not looking for government rescue if things go bad: &#39;Taxpayers should not bail out companies that make bad business decisions&#39;](https://www.pcgamer.com/software/ai/openais-sam-altman-is-not-looking-for-government-rescue-if-things-go-bad-taxpayers-should-not-bail-out-companies-that-make-bad-business-decisions/)
- - [Arc Raiders clears up the mystery of Trials, explaining the challenges are unfortunately harder than they first appear: &#39;Here&#39;s the 101&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-clears-up-the-mystery-of-trials-explaining-the-challenges-are-unfortunately-harder-than-they-first-appear-heres-the-101/)<!-- GAME:END -->
+ - [Mass Effect 5 needs to go AA](https://www.polygon.com/mass-effect-5-double-a-bioware-ea/)
+ - [Brawlhalla: 10 Years of Community](https://news.xbox.com/en-us/2025/11/07/brawlhalla-10-years-of-community/)
+ - [Fans Are Racing To Decode The Latest Mass Effect 5 Tease](https://kotaku.com/mass-effect-5-n7-day-bioware-blog-teaser-url-krogan-2000642122)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
