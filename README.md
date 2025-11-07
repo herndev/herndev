@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nope](http://9gag.com/gag/aW4PDM2)
+ - 💣 [Cool hair](http://9gag.com/gag/aW4PbNK)
  - ⏩ [My eyes are down here](http://9gag.com/gag/aKGnOgW)
  - 👉 [Kowalski, status report!](http://9gag.com/gag/aGy62W6)<!-- MEMES:END -->
 
