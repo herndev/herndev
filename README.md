@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Does Predator: Badlands have a post-credits scene? How the ending sets up a sequel](https://www.polygon.com/predator-badlands-post-credits-scene-ending-explained/)
- - [Take-Two boss says &#39;we&#39;ve never regretted&#39; delaying a game following the Grand Theft Auto 6 pushback, says other studios might have better luck if they did the same thing once in a while](https://www.pcgamer.com/games/action/take-two-boss-says-weve-never-regretted-delaying-a-game-following-the-grand-theft-auto-6-pushback-says-other-studios-might-have-better-luck-if-they-did-the-same-thing-once-in-a-while/)
- - [11 Hyrule Warriors: Age of Imprisonment beginner tips to give you a fighting edge](https://www.polygon.com/hyrule-warriors-age-of-imprisonment-beginner-tips-tricks/)<!-- GAME:END -->
+ - [Get ready to do the Silksong release date shuffle all over again: GTA 6&#39;s delay just blew up the whole game industry&#39;s holiday 2026 plans](https://www.pcgamer.com/games/grand-theft-auto/get-ready-to-do-the-silksong-release-date-shuffle-all-over-again-gta-6s-delay-just-blew-up-the-whole-game-industrys-holiday-2026-plans/)
+ - [Well, PC gamers, time to make peace with the fact that we probably won&#39;t be playing GTA 6 until, like, 2028 unless we cave in and buy the console version](https://www.pcgamer.com/games/grand-theft-auto/well-pc-gamers-time-to-make-peace-with-the-fact-that-we-probably-wont-be-playing-gta-6-until-like-2028-unless-we-cave-in-and-buy-the-console-version/)
+ - [GTA 6 Aiming For ‘Perfection’ As CEO References Past Metacritic Scores Over 95](https://kotaku.com/gta-6-aiming-for-perfection-as-ceo-references-past-metacritic-scores-over-95-2000641842)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
