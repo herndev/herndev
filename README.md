@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neobank Mercury says it has hit $650M in annualized revenue, up from $500M by end of 2024, and has been GAAP profitable on net income and EBITDA for three years &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/251107/p22#a251107p22)
- - [13 Best Deals From the All-Clad Factory Seconds Sale on Kitchen Must-Haves &lpar;2025&rpar;](https://www.wired.com/story/all-clad-sale-october-2025/)
- - [A Delaware federal jury rules that GoDaddy owes patent owner Express Mobile $170M for violating its rights in website-building technology; GoDaddy will appeal &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251107/p21#a251107p21)<!-- TECH:END -->
+ - [Unit 42: &quot;commercial grade&quot; spyware called Landfall, likely zero-click, was used in a hacking campaign aimed at Samsung Galaxy phones in the Middle East &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251107/p24#a251107p24)
+ - [Best Fiber Internet Providers for November 2025](https://www.cnet.com/home/internet/best-fiber-internet-providers/#ftag=CAD590a51e)
+ - [Before You Preorder a $20K Home Robot, There&#39;s Something You Should See](https://www.cnet.com/tech/before-you-preorder-a-20k-home-robot-theres-something-you-should-see/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
