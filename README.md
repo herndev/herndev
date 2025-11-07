@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mass Effect is the epitome of a discouraging gaming trend](https://www.polygon.com/mass-effect-space-opera-sci-fi-games/)
- - [A No Man’s Sky Player Spent 100 Hours Building The Perfect Tribute To A Studio Ghibli Classic](https://kotaku.com/no-mans-sky-nms-bases-totoro-ghibli-miyazaki-2000642179)
- - [A new Arc Raiders update just fixed a bug where an otherwise underwhelming item could glitch you through walls, so I guess it&#39;s back to being underwhelming](https://www.pcgamer.com/games/third-person-shooter/a-new-arc-raiders-update-just-fixed-a-bug-where-an-otherwise-underwhelming-item-could-glitch-you-through-walls-so-i-guess-its-back-to-being-underwhelming/)<!-- GAME:END -->
+ - [Halo Infinite‘s Next Update Is Its Last As Devs Tease Multiple Games](https://kotaku.com/halo-infinite-no-more-updates-operation-halo-studios-xbox-2000642195)
+ - [The Mass Effect TV series will &#39;explore a brand-new story within the universe’s timeline,&#39; BioWare exec says: &#39;It won’t be a retread of Commander Shepard&#39;s story&#39;](https://www.pcgamer.com/games/rpg/the-mass-effect-tv-series-will-explore-a-brand-new-story-within-the-universes-timeline-bioware-exec-says-it-wont-be-a-retread-of-commander-shepards-story/)
+ - [Mass Effect is the epitome of a discouraging gaming trend](https://www.polygon.com/mass-effect-space-opera-sci-fi-games/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
