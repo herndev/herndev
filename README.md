@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025)
- - [Tesla rewards Elon Musk’s reality-distortion field](https://www.theverge.com/transportation/816259/tesla-shareholder-elon-musk-pay-package-reality-distortion)
- - [M5 13-inch iPad Pro review -- minute improvements, but so what?](https://appleinsider.com/articles/25/11/07/m5-13-inch-ipad-pro-review----minute-improvements-but-so-what?utm_source=rss)<!-- TECH:END -->
+ - [Apple TV&#39;s &#39;La Decision&#39; turns a presidential scandal into a political thriller](https://appleinsider.com/articles/25/11/07/apple-tvs-la-decision-turns-a-presidential-scandal-into-a-political-thriller?utm_source=rss)
+ - [Commonware, which develops open-source code for launching blockchains, raised $25M led by Tempo, a stablecoin-focused blockchain backed by Stripe and Paradigm &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251107/p15#a251107p15)
+ - [The Best Gifts for Sleep, as Tested by Our Team](https://www.wired.com/gallery/best-sleep-gifts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
