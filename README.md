@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That classic magic](http://9gag.com/gag/a6Z4GVb)
- - ⏩ [Cute Couple](http://9gag.com/gag/ae9y7QQ)
- - 👉 [So better never open up then](http://9gag.com/gag/a6Z4G1m)<!-- MEMES:END -->
+ - 💣 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
+ - ⏩ [Merry xmass](http://9gag.com/gag/a7oPn3r)
+ - 👉 [Ay el amour](http://9gag.com/gag/aoyA8DA)<!-- MEMES:END -->
 
 ---
 
