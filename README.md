@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Is Rolling Out Its Black Friday Deals, Powerful 16-inch Gaming Laptop Is Now 71% Off](https://kotaku.com/amazon-is-rolling-out-its-black-friday-deals-powerful-16-inch-gaming-laptop-is-now-71-off-2000641711)
- - [Jackery Offloads Its 1500W Power Generator at 55% Off, The Ideal Backup for Winter Outages](https://kotaku.com/jackery-offloads-its-1500w-power-generator-at-55-off-the-ideal-backup-for-winter-outages-2000641816)
- - [Amazon Quietly Offloads the 15.6-inch Yxk Portable Screen, Now Going for Literally Pennies](https://kotaku.com/amazon-quietly-offloads-the-15-6-inch-yxk-portable-screen-now-going-for-literally-pennies-2000641696)<!-- GAME:END -->
+ - [Pluribus review: Apple&#39;s new sci-fi show isn’t the next Severance, but it might be even better](https://www.polygon.com/pluribus-review-apple-tv-severance/)
+ - [Anker Dumps Its 10,000 mAh Power Bank for Pennies, 10K Units Already Sold on Amazon](https://kotaku.com/anker-dumps-its-10000-mah-power-bank-for-pennies-10k-units-already-sold-on-amazon-2000641824)
+ - [Don&#39;t sleep on the new solarpunk colony sim from devs behind Firewatch, Mini Motorways, Gone Home and more](https://www.pcgamer.com/games/city-builder/dont-sleep-on-the-new-solarpunk-colony-sim-from-devs-behind-firewatch-mini-motorways-gone-home-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
