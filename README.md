@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Game Tests If People Know How Much Porn Characters Have On The Internet, And They’re Failing](https://kotaku.com/rule-34-rule34dle-guessing-game-stream-site-where-play-2000642575)
- - [Diablo 4 devs refuse to hint at the next expansion but urge fans to watch The Game Awards this year: &#39;Everyone should be watching it&#39;](https://www.pcgamer.com/games/rpg/diablo-4-devs-refuse-to-hint-at-the-next-expansion-but-urge-fans-to-watch-the-game-awards-this-year-everyone-should-be-watching-it/)
- - [Fortnite teases more Simpsons goodies: Spider-Pig, Homer clones](https://www.polygon.com/the-simpsons-fortnite-homer-clones-moe-frink-spider-pig/)<!-- GAME:END -->
+ - [Nintendo Direct for the Super Mario Galaxy Movie announced](https://www.polygon.com/nintendo-direct-super-mario-galaxy-movie/)
+ - [Diablo 4 In China Censored, Blood And Skeletons Removed](https://kotaku.com/diablo-4-china-censored-blood-skeletons-skulls-censorship-changes-removed-2000642581)
+ - [Silksong&#39;s disastrous Chinese translation has received an official fan-made overhaul, and it&#39;s just been pushed live on PC with Patch 4](https://www.pcgamer.com/games/action/silksongs-disastrous-chinese-translation-has-received-an-official-fan-made-overhaul-and-its-just-been-pushed-live-on-pc-with-patch-4/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
