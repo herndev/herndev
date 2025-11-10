@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nutty Putty cave in VR](http://9gag.com/gag/aLnVNyW)
- - ⏩ [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
- - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
+ - 💣 [From the archives](http://9gag.com/gag/apRzz9p)
+ - ⏩ [Saturn, visible with a telescope in daylight. 2022](http://9gag.com/gag/ary997d)
+ - 👉 [`wE bUiLt ThIs CiTy`](http://9gag.com/gag/ae9yyPO)<!-- MEMES:END -->
 
 ---
 
