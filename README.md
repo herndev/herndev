@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood CEO Vlad Tenev says he aims to give &quot;normal people&quot; exposure to private AI companies via Robinhood Ventures&#39; fund with 5+ &quot;best in class&quot; companies &lpar;Financial Times&rpar;](http://www.techmeme.com/251110/p5#a251110p5)
- - [Lice Checks, Crafts, and Being Touched by Strangers: Inside a Role-Playing ASMR Spa](https://www.wired.com/story/lice-checks-crafts-and-being-touched-by-strangers-inside-a-roleplaying-asmr-spa/)
- - [Baseus’ latest Qi2.2 chargers are smaller, faster, and cheaper for Black Friday](https://www.androidauthority.com/baseus-picogo-qi2-2-chargers-black-friday-3613358/)<!-- TECH:END -->
+ - [Amazon expands its low-cost Haul service to 25 countries and regions globally, rebrands it as Amazon Bazaar in some markets, and plans a two-day sales event &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251110/p10#a251110p10)
+ - [ABI: UK insurers paid out £197M+ in cyber claims in 2024, up from £60M in 2023; malware and ransomware-related claims were 51% of the total, up from 32% in 2023 &lpar;Lee Harris/Financial Times&rpar;](http://www.techmeme.com/251110/p9#a251110p9)
+ - [This rumored Samsung credit card may be the next wallet upgrade for Galaxy fans](https://www.androidauthority.com/samsung-barclays-cobranded-credit-card-rumor-3614313/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
