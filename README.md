@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fantastic Four: First Steps, Guillermo del Toro&#39;s Frankenstein, and the best movies on streaming this week](https://www.polygon.com/new-movies-on-streaming-the-fantastic-four-first-steps-frankenstein/)
- - [Kotaku’s Weekend Guide: 4 Great Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-arc-raiders-bf6-dispatch-dragon-quest-2000642229)
- - [Where Winds Meet: dive deeper into gameplay and story details](https://blog.playstation.com/2025/11/07/where-winds-meet-dive-deeper-into-gameplay-and-story-details/)<!-- GAME:END -->
+ - [How Star Wars Visions: The Bird of Paradise&#39;s director built on the lore of the Force](https://www.polygon.com/star-wars-visions-bird-of-paradise-interview/)
+ - [Funko Pop Is $241 Million In Debt As It Issues Dire Warning](https://kotaku.com/funko-pop-starnger-things-bitty-bankrupt-2000642395)
+ - [The best PlayStation games on PC](https://www.pcgamer.com/games/best-playstation-games-on-pc/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
