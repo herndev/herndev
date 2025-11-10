@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Star Wars Visions: The Bird of Paradise&#39;s director built on the lore of the Force](https://www.polygon.com/star-wars-visions-bird-of-paradise-interview/)
- - [Funko Pop Is $241 Million In Debt As It Issues Dire Warning](https://kotaku.com/funko-pop-starnger-things-bitty-bankrupt-2000642395)
- - [The best PlayStation games on PC](https://www.pcgamer.com/games/best-playstation-games-on-pc/)<!-- GAME:END -->
+ - [How History Inspired the Medicine of Kingdom Come: Deliverance II’s Mysteria Ecclesiae DLC](https://news.xbox.com/en-us/2025/11/10/kingdom-come-deliverance-2-mysteria-ecclesiae-dlc/)
+ - [Bethesda Says Oblivion Remaster Shadow Dropping Was A Successful ‘Test Run’](https://kotaku.com/elder-scrolls-6-tes6-shadow-drop-todd-howard-release-date-fallout-3-2000642434)
+ - [How to complete Straight Record in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-straight-record-switch-locations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
