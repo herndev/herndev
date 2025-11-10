@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Let’s talk about Pluribus](https://www.theverge.com/entertainment/816546/pluribus-apple-tv-book-club-discussion)
- - [I’ve taken a ton of sleep trackers to bed: These are my top picks for 2025](https://www.androidauthority.com/best-sleep-tracker-3573659/)
- - [Orange is the new black? Galaxy S26 Plus leaked renders reveal new look](https://www.androidauthority.com/samsung-galaxy-s26-plus-leaked-renders-3614365/)<!-- TECH:END -->
+ - [Samsung flagship phones were vulnerable to a stealthy data-stealing attack for a year](https://www.androidauthority.com/samsung-galaxy-flagships-landfall-vulnerability-3614343/)
+ - [AirPods 4 fall to record low $84.99 at Amazon before Black Friday](https://appleinsider.com/articles/25/11/10/airpods-4-fall-to-record-low-8499-at-amazon-before-black-friday?utm_source=rss)
+ - [The EPA Is in Chaos](https://www.wired.com/story/environmental-protection-agency-shutdown-chaos/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
