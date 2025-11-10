@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [20 years ago today, the greatest cast of all time was assembled](http://9gag.com/gag/adBrb3M)
- - ⏩ [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
- - 👉 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)<!-- MEMES:END -->
+ - 💣 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
+ - ⏩ [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)
+ - 👉 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)<!-- MEMES:END -->
 
 ---
 
