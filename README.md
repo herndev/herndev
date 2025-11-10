@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [France&#39;s Finance Ministry halts the suspension proceedings of Shein that was initiated on November 5 after Shein withdrew illicit products from its platform &lpar;Inti Landauro/Reuters&rpar;](http://www.techmeme.com/251107/p27#a251107p27)
- - [The Government Shutdown Is a Ticking Cybersecurity Time Bomb](https://www.wired.com/story/the-government-shutdown-is-a-ticking-cybersecurity-time-bomb/)
- - [NOOK GlowLight 4 lands in Ocean Teal ahead of the e-reader’s next refresh](https://www.androidauthority.com/nook-glowlight-4-ocean-teal-launch-3614108/)<!-- TECH:END -->
+ - [Cleveland Guardians&amp;#8217; pitchers indicted for rigging online bets](https://www.theverge.com/news/817425/cleveland-guardians-pitchers-indicted-for-rigging-online-bets)
+ - [Procurement Sciences, whose AI software helps its customers find and build proposals for government contracts, raised a $30M Series B led by Catalyst Investors &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251109/p12#a251109p12)
+ - [You need to listen to this compilation of ‘80s Spanish ambient and electronic music](https://www.theverge.com/column/817417/la-ola-interior-compilation-80s-spanish-ambient-and-electronic-music)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
