@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix might make its own video podcasts](https://www.theverge.com/news/817675/netflix-exclusive-original-podcasts-rumor)
- - [Why I love my OXO kitchen scale](https://www.theverge.com/tech/812853/oxo-kitchen-scale-favorites)
- - [If the US Has to Build Data Centers, Here’s Where They Should Go](https://www.wired.com/story/heres-where-to-build-data-centers-to-keep-emissions-down/)<!-- TECH:END -->
+ - [This Bluetooth Speaker Is Also a Charging Hub, and It’s Discounted to $130](https://www.wired.com/story/jbl-charge-6-deal-1125/)
+ - [Apple’s AirPods 4 just hit their lowest price yet at $85](https://www.theverge.com/tech/817656/apple-airpods-4-early-black-friday-deal-sale)
+ - [The 20 Best Advent Calendars for Christmas 2025](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
