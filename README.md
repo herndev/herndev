@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Draft documents show the European Commission plans to relax some privacy laws, including the GDPR, to boost AI growth and cut red tape for businesses in Europe &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/251109/p17#a251109p17)
- - [YouTube TV is paying up: Here’s how to claim your $20 Disney blackout credit](https://www.androidauthority.com/youtube-tv-disney-20-dollar-credit-payout-3614215/)
- - [EchoTik: TikTok Shop sold an estimated $19B worth of products globally in Q3, nearing eBay&#39;s $20.1B, with US sales accounting for $4B to $4.5B, up 125% QoQ &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/251109/p16#a251109p16)<!-- TECH:END -->
+ - [Apple removes two of the most popular gay dating apps, Blued and Finka, from its App Store in China, citing orders from the country&#39;s Cyberspace Administration &lpar;Wired&rpar;](http://www.techmeme.com/251110/p1#a251110p1)
+ - [Teardown reveals this new Android flagship is hiding an insane cooling system inside!](https://www.androidauthority.com/redmagic-11-pro-jerryrigeverything-cooling-system-3614229/)
+ - [Apple Pulls China’s Top Gay Dating Apps After Government Order](https://www.wired.com/story/apple-removes-gay-dating-apps-china-app-store/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
