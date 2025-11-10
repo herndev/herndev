@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instacart reports Q3 revenue up 10% YoY to $939M, above est., orders up 14% YoY to 83.4M, above 82.9M est., GTV up 10% to $9.1B, and plans a $1.5B share buyback &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251110/p15#a251110p15)
- - [We unboxed the OnePlus 15: Here’s everything inside](https://www.androidauthority.com/oneplus-15-unboxing-video-3614259/)
- - [Asus ProArt P16 Review: The Fastest Windows Laptop](https://www.wired.com/review/asus-proart-p16-2025/)<!-- TECH:END -->
+ - [America’s cybersecurity defenses are cracking](https://www.theverge.com/policy/816882/cisa-cybersecurity-elections-infrastructure-shutdown)
+ - [Tesla is fighting the EV sales slump with short-term rentals](https://www.theverge.com/news/817477/tesla-direct-short-term-ev-rentals-tax-credit)
+ - [Grab plans to invest $60M in remote driving service Vay, potentially rising to $410M within the next year if Vay hits certain milestones, set to close in Q4 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/251110/p18#a251110p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
