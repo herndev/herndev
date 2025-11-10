@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Worst memory](http://9gag.com/gag/a5QvyVE)
+ - 💣 [Nutty Putty cave in VR](http://9gag.com/gag/aLnVNyW)
  - ⏩ [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
  - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
 
