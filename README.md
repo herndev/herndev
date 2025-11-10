@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple AirPods 4 just dropped to a new record-low price, saving you $44!](https://www.androidauthority.com/apple-airpods-4-earbuds-deal-3614450/)
- - [Gemini for TV is coming to Google TV Streamer starting today](https://www.theverge.com/news/817831/gemini-for-tv-google-tv-streamer-roll-out)
- - [iPhone Air 2 won&#39;t be out in 2026, claims questionable report](https://appleinsider.com/articles/25/11/10/iphone-air-2-wont-be-out-in-2026-claims-questionable-report?utm_source=rss)<!-- TECH:END -->
+ - [Neros, which makes low-cost, military FPV drones in the US, raised $75M led by Sequoia, bringing its total funding to $121M, and won a US Army contract &lpar;Farah Stockman/New York Times&rpar;](http://www.techmeme.com/251110/p27#a251110p27)
+ - [Bakkt reports Q3 revenue up 27% YoY to $402.2M and a $23.2M net loss, driven by an accounting charge tied to warrants issued to its investors; BKKT drops 9%+ &lpar;Judy Lagrou/Bloomberg&rpar;](http://www.techmeme.com/251110/p26#a251110p26)
+ - [Deal: The Nightmare Before Christmas Echo Dot bundle is still around!](https://www.androidauthority.com/nightmare-before-christmas-echo-dot-bundle-deal-3614449/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
