@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh shit](http://9gag.com/gag/a5Qvyno)
- - ⏩ [Lol....the way he is shocked you have two flippity flappies](http://9gag.com/gag/a4Pmm4p)
- - 👉 [They treat us as 5 years old kid](http://9gag.com/gag/a2v9jx9)<!-- MEMES:END -->
+ - 💣 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
+ - ⏩ [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
+ - 👉 [That&#39;s what friends are for](http://9gag.com/gag/an788gz)<!-- MEMES:END -->
 
 ---
 
