@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bose’s latest QuietComfort Ultra earbuds are $50 off ahead of Black Friday](https://www.theverge.com/tech/817575/bose-quietcomfort-ultra-earbuds-blink-video-doorbell-bundle-deal-sale)
- - [Samsung Galaxy S26 Plus reappears in renders with a new camera island](https://www.theverge.com/news/817615/samsung-galaxy-s26-plus-renders-design-camera-island)
- - [Another Galaxy Watch model joins Samsung’s One UI 8 beta](https://www.androidauthority.com/samsung-galaxy-watch-5-one-ui-beta-3614405/)<!-- TECH:END -->
+ - [Netflix might make its own video podcasts](https://www.theverge.com/news/817675/netflix-exclusive-original-podcasts-rumor)
+ - [Why I love my OXO kitchen scale](https://www.theverge.com/tech/812853/oxo-kitchen-scale-favorites)
+ - [If the US Has to Build Data Centers, Here’s Where They Should Go](https://www.wired.com/story/heres-where-to-build-data-centers-to-keep-emissions-down/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
