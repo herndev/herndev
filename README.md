@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
- - ⏩ [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)
- - 👉 [Absolutely magical encounter in African wilderness](http://9gag.com/gag/a2v9Gbp)<!-- MEMES:END -->
+ - 💣 [20 years ago today, the greatest cast of all time was assembled](http://9gag.com/gag/adBrb3M)
+ - ⏩ [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
+ - 👉 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)<!-- MEMES:END -->
 
 ---
 
