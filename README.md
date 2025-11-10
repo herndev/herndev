@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How History Inspired the Medicine of Kingdom Come: Deliverance II’s Mysteria Ecclesiae DLC](https://news.xbox.com/en-us/2025/11/10/kingdom-come-deliverance-2-mysteria-ecclesiae-dlc/)
- - [Bethesda Says Oblivion Remaster Shadow Dropping Was A Successful ‘Test Run’](https://kotaku.com/elder-scrolls-6-tes6-shadow-drop-todd-howard-release-date-fallout-3-2000642434)
- - [How to complete Straight Record in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-straight-record-switch-locations/)<!-- GAME:END -->
+ - [Anno 117: Pax Romana is the Caesar of city-building games](https://www.polygon.com/anno-117-pax-romana-review/)
+ - [Goodnight Universe review: getting some real Boss Baby vibes](https://www.polygon.com/goodnight-universe-review/)
+ - [Fallout 4: Anniversary Edition Out Today – The Wasteland is Yours to Explore Again](https://www.xbox.com/en-us/games/store/fallout-4-anniversary-edition/9PFRG44XZCFJ/#new_tab)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
