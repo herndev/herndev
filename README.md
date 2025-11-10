@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A YouGov survey estimates 9% of UK adults, or 4.7M people, watched sports via illegal streams in the six months to October, about 200K people more than in 2023 &lpar;Adam Leventhal/The Athletic&rpar;](http://www.techmeme.com/251110/p4#a251110p4)
- - [The 13 Best Sexy Gifts for Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/best-sexy-gift/)
- - [The Galaxy S26 might close in on Edge territory with key design improvement](https://www.androidauthority.com/samsung-galaxy-s26-thickness-3614266/)<!-- TECH:END -->
+ - [Robinhood CEO Vlad Tenev says he aims to give &quot;normal people&quot; exposure to private AI companies via Robinhood Ventures&#39; fund with 5+ &quot;best in class&quot; companies &lpar;Financial Times&rpar;](http://www.techmeme.com/251110/p5#a251110p5)
+ - [Lice Checks, Crafts, and Being Touched by Strangers: Inside a Role-Playing ASMR Spa](https://www.wired.com/story/lice-checks-crafts-and-being-touched-by-strangers-inside-a-roleplaying-asmr-spa/)
+ - [Baseus’ latest Qi2.2 chargers are smaller, faster, and cheaper for Black Friday](https://www.androidauthority.com/baseus-picogo-qi2-2-chargers-black-friday-3613358/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
