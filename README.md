@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung flagship phones were vulnerable to a stealthy data-stealing attack for a year](https://www.androidauthority.com/samsung-galaxy-flagships-landfall-vulnerability-3614343/)
- - [AirPods 4 fall to record low $84.99 at Amazon before Black Friday](https://appleinsider.com/articles/25/11/10/airpods-4-fall-to-record-low-8499-at-amazon-before-black-friday?utm_source=rss)
- - [The EPA Is in Chaos](https://www.wired.com/story/environmental-protection-agency-shutdown-chaos/)<!-- TECH:END -->
+ - [Bose’s latest QuietComfort Ultra earbuds are $50 off ahead of Black Friday](https://www.theverge.com/tech/817575/bose-quietcomfort-ultra-earbuds-blink-video-doorbell-bundle-deal-sale)
+ - [Samsung Galaxy S26 Plus reappears in renders with a new camera island](https://www.theverge.com/news/817615/samsung-galaxy-s26-plus-renders-design-camera-island)
+ - [Another Galaxy Watch model joins Samsung’s One UI 8 beta](https://www.androidauthority.com/samsung-galaxy-watch-5-one-ui-beta-3614405/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
