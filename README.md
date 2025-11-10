@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
- - ⏩ [India number one](http://9gag.com/gag/adBrdzB)
+ - 💣 [He tried his best](http://9gag.com/gag/a34ee23)
+ - ⏩ [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
  - 👉 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)<!-- MEMES:END -->
 
 ---
