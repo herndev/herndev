@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo&amp;#8217;s upcoming Black Friday sale includes up to $30 off Switch classics](https://www.theverge.com/gadgets/817944/nintendo-switch-2-black-friday-games-amiibo-deal-sale)
- - [This OnePlus phone rumor hints at a refresh rate higher than your gaming monitor](https://www.androidauthority.com/oneplus-refresh-rate-rumor-3614491/)
- - [Apple reportedly doesn’t want you to know Siri will be running partly on Google’s Gemini](https://www.androidauthority.com/apple-disguising-siri-google-gemini-partnership-3614496/)<!-- TECH:END -->
+ - [Siri Shortcuts now works with Samsung SmartThings routines](https://www.theverge.com/news/818054/samsung-smartthings-routines-siri-ios-support)
+ - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)
+ - [CoreWeave reports Q3 revenue up 134% YoY to $1.36B, vs. $1.29B est., and a net loss of $110M, down from $360M a year ago; CRWV is up 164% since its March IPO &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251110/p31#a251110p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
