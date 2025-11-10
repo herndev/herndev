@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They treat us as 5 years old kid](http://9gag.com/gag/a2v9jx9)
- - ⏩ [Oh shit](http://9gag.com/gag/a5Qvyno)
- - 👉 [Bratislava today](http://9gag.com/gag/aPAzdGG)<!-- MEMES:END -->
+ - 💣 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
+ - ⏩ [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
+ - 👉 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)<!-- MEMES:END -->
 
 ---
 
