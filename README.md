@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Selloff in bitcoin and ether is tanking shares of crypto‑treasury companies like Strategy and BitMine; Strategy&#39;s valuation is down from ~$128B in July to ~$70B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251109/p14#a251109p14)
- - [A look at Rigetti Computing and D-Wave Quantum, whose shares have surged over 1,900% in the past year as the potential of quantum computing captivates investors &lpar;Felice Maranz/Bloomberg&rpar;](http://www.techmeme.com/251109/p13#a251109p13)
- - [Cleveland Guardians&amp;#8217; pitchers indicted for rigging online bets](https://www.theverge.com/news/817425/cleveland-guardians-pitchers-indicted-for-rigging-online-bets)<!-- TECH:END -->
+ - [TikTok Shop sold an estimated $19B worth of products globally in Q3, with US sales up 125% compared to Q2, reaching eBay&#39;s scale two years after its US launch &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/251109/p16#a251109p16)
+ - [Financial stress from AI infrastructure spending, overhiring, and recession fears, rather than AI adoption, is likely driving layoffs in the tech sector &lpar;Fast Company&rpar;](http://www.techmeme.com/251109/p15#a251109p15)
+ - [Selloff in bitcoin and ether is tanking shares of crypto‑treasury companies like Strategy and BitMine; Strategy&#39;s valuation is down from ~$128B in July to ~$70B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251109/p14#a251109p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
