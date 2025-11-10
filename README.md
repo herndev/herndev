@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BAT-FAM&#39;s showrunner discusses balancing family and action in the new series](https://www.polygon.com/bat-fam-interview/)
- - [This Is The ‘Easiest’ Field Depot In Arc Raiders](https://kotaku.com/arc-raiders-field-depot-crate-off-radar-down-to-earth-2000642525)
- - [The Team Behind My 2021 Game Of The Year Is Back, And I’m Conflicted](https://kotaku.com/goodnight-universe-review-before-your-eyes-webcam-baby-2000642517)<!-- GAME:END -->
+ - [Battlefield 6&#39;s worst bugs are finally getting the boot this week: Say goodbye to drone hammer flight and unstoppable lock-on missiles](https://www.pcgamer.com/games/fps/battlefield-6s-worst-bugs-are-finally-getting-the-boot-this-week-say-goodbye-to-drone-hammer-flight-and-unstoppable-lock-on-missiles/)
+ - [Arc Raiders surpassed 700,000 concurrent players across all platforms this weekend, and you better believe that most of them were on PC](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-surpassed-700-000-concurrent-players-across-all-platforms-this-weekend-and-you-better-believe-that-most-of-them-were-on-pc/)
+ - [T-Rex No Longer A Shitty Dad After New Jurassic World Evolution 3 Update](https://kotaku.com/jurassic-world-evolution-3-1-1-0-patch-notes-t-rex-fix-juveniles-2000642549)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
