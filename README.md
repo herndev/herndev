@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Mercor CEO Brendan Foody, who says Mercor is creating a new category of work; Mercor hit $500M ARR in September and pays contractors $1.5M daily &lpar;Rya Jetha/The San Francisco Standard&rpar;](http://www.techmeme.com/251110/p2#a251110p2)
- - [New Galaxy S26 leak has good news for availability, bad news for your wallet](https://www.androidauthority.com/samsung-galaxy-s26-early-release-leak-3614250/)
- - [I hope Android copies Apple’s next-gen connectivity features](https://www.androidauthority.com/iphone-satellite-android-phones-3614225/)<!-- TECH:END -->
+ - [A YouGov survey estimates 9% of UK adults, or 4.7M people, watched sports via illegal streams in the six months to October, about 200K people more than in 2023 &lpar;Adam Leventhal/The Athletic&rpar;](http://www.techmeme.com/251110/p4#a251110p4)
+ - [The 13 Best Sexy Gifts for Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/best-sexy-gift/)
+ - [The Galaxy S26 might close in on Edge territory with key design improvement](https://www.androidauthority.com/samsung-galaxy-s26-thickness-3614266/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
