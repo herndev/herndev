@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
- - ⏩ [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)
- - 👉 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)<!-- MEMES:END -->
+ - 💣 [Oh shit](http://9gag.com/gag/a5Qvyno)
+ - ⏩ [Lol....the way he is shocked you have two flippity flappies](http://9gag.com/gag/a4Pmm4p)
+ - 👉 [They treat us as 5 years old kid](http://9gag.com/gag/a2v9jx9)<!-- MEMES:END -->
 
 ---
 
