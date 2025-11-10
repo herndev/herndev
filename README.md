@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
- - ⏩ [India number one](http://9gag.com/gag/adBrdzB)
+ - 💣 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
+ - ⏩ [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)
  - 👉 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)<!-- MEMES:END -->
 
 ---
