@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon expands its low-cost Haul service to 25 countries and regions globally, rebrands it as Amazon Bazaar in some markets, and plans a two-day sales event &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251110/p10#a251110p10)
- - [ABI: UK insurers paid out £197M+ in cyber claims in 2024, up from £60M in 2023; malware and ransomware-related claims were 51% of the total, up from 32% in 2023 &lpar;Lee Harris/Financial Times&rpar;](http://www.techmeme.com/251110/p9#a251110p9)
- - [This rumored Samsung credit card may be the next wallet upgrade for Galaxy fans](https://www.androidauthority.com/samsung-barclays-cobranded-credit-card-rumor-3614313/)<!-- TECH:END -->
+ - [Instacart reports Q3 revenue up 10% YoY to $939M, above est., orders up 14% YoY to 83.4M, above 82.9M est., GTV up 10% to $9.1B, and plans a $1.5B share buyback &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251110/p15#a251110p15)
+ - [We unboxed the OnePlus 15: Here’s everything inside](https://www.androidauthority.com/oneplus-15-unboxing-video-3614259/)
+ - [Asus ProArt P16 Review: The Fastest Windows Laptop](https://www.wired.com/review/asus-proart-p16-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
