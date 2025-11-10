@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple removes two of the most popular gay dating apps, Blued and Finka, from its App Store in China, citing orders from the country&#39;s Cyberspace Administration &lpar;Wired&rpar;](http://www.techmeme.com/251110/p1#a251110p1)
- - [Teardown reveals this new Android flagship is hiding an insane cooling system inside!](https://www.androidauthority.com/redmagic-11-pro-jerryrigeverything-cooling-system-3614229/)
- - [Apple Pulls China’s Top Gay Dating Apps After Government Order](https://www.wired.com/story/apple-removes-gay-dating-apps-china-app-store/)<!-- TECH:END -->
+ - [New Galaxy S26 leak has good news for availability, bad news for your wallet](https://www.androidauthority.com/samsung-galaxy-s26-early-release-leak-3614250/)
+ - [I hope Android copies Apple’s next-gen connectivity features](https://www.androidauthority.com/iphone-satellite-android-phones-3614225/)
+ - [Apple removes two of the most popular gay dating apps, Blued and Finka, from its App Store in China, citing orders from the country&#39;s Cyberspace Administration &lpar;Wired&rpar;](http://www.techmeme.com/251110/p1#a251110p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
