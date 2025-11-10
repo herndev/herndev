@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Official 20W USB-C Charger for iPhone Sells for Pennies, and It Includes a 5-Foot Cable](https://kotaku.com/this-official-20w-usb-c-charger-for-iphone-sells-for-pennies-and-it-includes-a-5-foot-cable-2000642458)
- - [The Switch 2&#39;s best fandom is all about the Kirby hamster](https://www.polygon.com/switch-2-kirby-air-ride-rick-hamster-fans-memes-sakurai/)
- - [Modder builds Windows 98 handheld gaming PC with Intel Pentium inside](https://www.pcgamer.com/hardware/handheld-gaming-pcs/modder-builds-windows-98-handheld-gaming-pc-with-intel-pentium-inside/)<!-- GAME:END -->
+ - [A new Baldur&#39;s Gate 3 mod restores cut dialogue where Withers gets gently bullied by a child](https://www.pcgamer.com/games/baldurs-gate/a-new-baldurs-gate-3-mod-restores-cut-dialogue-where-withers-gets-gently-bullied-by-a-child/)
+ - [Company Used Fake Reddit Posts To Advertise Game, Then Deleted The Evidence](https://kotaku.com/trap-plan-marketing-astroturf-warrobots-fake-reddit-accounts-posts-2000642503)
+ - [A Dispatch sequel is a whole lot more likely now that Dispatch season 1 is such a big hit: &#39;We&#39;re going to have to at least think about season 2 now&#39;](https://www.pcgamer.com/games/adventure/a-dispatch-sequel-is-a-whole-lot-more-likely-now-that-dispatch-season-1-is-such-a-big-hit-were-going-to-have-to-at-least-think-about-season-2-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
