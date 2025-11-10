@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A new Baldur&#39;s Gate 3 mod restores cut dialogue where Withers gets gently bullied by a child](https://www.pcgamer.com/games/baldurs-gate/a-new-baldurs-gate-3-mod-restores-cut-dialogue-where-withers-gets-gently-bullied-by-a-child/)
- - [Company Used Fake Reddit Posts To Advertise Game, Then Deleted The Evidence](https://kotaku.com/trap-plan-marketing-astroturf-warrobots-fake-reddit-accounts-posts-2000642503)
- - [A Dispatch sequel is a whole lot more likely now that Dispatch season 1 is such a big hit: &#39;We&#39;re going to have to at least think about season 2 now&#39;](https://www.pcgamer.com/games/adventure/a-dispatch-sequel-is-a-whole-lot-more-likely-now-that-dispatch-season-1-is-such-a-big-hit-were-going-to-have-to-at-least-think-about-season-2-now/)<!-- GAME:END -->
+ - [BAT-FAM&#39;s showrunner discusses balancing family and action in the new series](https://www.polygon.com/bat-fam-interview/)
+ - [This Is The ‘Easiest’ Field Depot In Arc Raiders](https://kotaku.com/arc-raiders-field-depot-crate-off-radar-down-to-earth-2000642525)
+ - [The Team Behind My 2021 Game Of The Year Is Back, And I’m Conflicted](https://kotaku.com/goodnight-universe-review-before-your-eyes-webcam-baby-2000642517)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
