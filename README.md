@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neros, which makes low-cost, military FPV drones in the US, raised $75M led by Sequoia, bringing its total funding to $121M, and won a US Army contract &lpar;Farah Stockman/New York Times&rpar;](http://www.techmeme.com/251110/p27#a251110p27)
- - [Bakkt reports Q3 revenue up 27% YoY to $402.2M and a $23.2M net loss, driven by an accounting charge tied to warrants issued to its investors; BKKT drops 9%+ &lpar;Judy Lagrou/Bloomberg&rpar;](http://www.techmeme.com/251110/p26#a251110p26)
- - [Deal: The Nightmare Before Christmas Echo Dot bundle is still around!](https://www.androidauthority.com/nightmare-before-christmas-echo-dot-bundle-deal-3614449/)<!-- TECH:END -->
+ - [Nintendo&amp;#8217;s upcoming Black Friday sale includes up to $30 off Switch classics](https://www.theverge.com/gadgets/817944/nintendo-switch-2-black-friday-games-amiibo-deal-sale)
+ - [This OnePlus phone rumor hints at a refresh rate higher than your gaming monitor](https://www.androidauthority.com/oneplus-refresh-rate-rumor-3614491/)
+ - [Apple reportedly doesn’t want you to know Siri will be running partly on Google’s Gemini](https://www.androidauthority.com/apple-disguising-siri-google-gemini-partnership-3614496/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
