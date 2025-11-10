@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Bluetooth Speaker Is Also a Charging Hub, and It’s Discounted to $130](https://www.wired.com/story/jbl-charge-6-deal-1125/)
- - [Apple’s AirPods 4 just hit their lowest price yet at $85](https://www.theverge.com/tech/817656/apple-airpods-4-early-black-friday-deal-sale)
- - [The 20 Best Advent Calendars for Christmas 2025](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Apple AirPods 4 just dropped to a new record-low price, saving you $44!](https://www.androidauthority.com/apple-airpods-4-earbuds-deal-3614450/)
+ - [Gemini for TV is coming to Google TV Streamer starting today](https://www.theverge.com/news/817831/gemini-for-tv-google-tv-streamer-roll-out)
+ - [iPhone Air 2 won&#39;t be out in 2026, claims questionable report](https://appleinsider.com/articles/25/11/10/iphone-air-2-wont-be-out-in-2026-claims-questionable-report?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
