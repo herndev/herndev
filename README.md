@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He tried his best](http://9gag.com/gag/a34ee23)
+ - 💣 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
  - ⏩ [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
- - 👉 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)<!-- MEMES:END -->
+ - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
 
 ---
 
