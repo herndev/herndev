@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6&#39;s worst bugs are finally getting the boot this week: Say goodbye to drone hammer flight and unstoppable lock-on missiles](https://www.pcgamer.com/games/fps/battlefield-6s-worst-bugs-are-finally-getting-the-boot-this-week-say-goodbye-to-drone-hammer-flight-and-unstoppable-lock-on-missiles/)
- - [Arc Raiders surpassed 700,000 concurrent players across all platforms this weekend, and you better believe that most of them were on PC](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-surpassed-700-000-concurrent-players-across-all-platforms-this-weekend-and-you-better-believe-that-most-of-them-were-on-pc/)
- - [T-Rex No Longer A Shitty Dad After New Jurassic World Evolution 3 Update](https://kotaku.com/jurassic-world-evolution-3-1-1-0-patch-notes-t-rex-fix-juveniles-2000642549)<!-- GAME:END -->
+ - [This Game Tests If People Know How Much Porn Characters Have On The Internet, And They’re Failing](https://kotaku.com/rule-34-rule34dle-guessing-game-stream-site-where-play-2000642575)
+ - [Diablo 4 devs refuse to hint at the next expansion but urge fans to watch The Game Awards this year: &#39;Everyone should be watching it&#39;](https://www.pcgamer.com/games/rpg/diablo-4-devs-refuse-to-hint-at-the-next-expansion-but-urge-fans-to-watch-the-game-awards-this-year-everyone-should-be-watching-it/)
+ - [Fortnite teases more Simpsons goodies: Spider-Pig, Homer clones](https://www.polygon.com/the-simpsons-fortnite-homer-clones-moe-frink-spider-pig/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
