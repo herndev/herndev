@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
- - ⏩ [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
- - 👉 [That&#39;s what friends are for](http://9gag.com/gag/an788gz)<!-- MEMES:END -->
+ - 💣 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
+ - ⏩ [India number one](http://9gag.com/gag/adBrdzB)
+ - 👉 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)<!-- MEMES:END -->
 
 ---
 
