@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`I want to give you the opportunity to talk about it` Translation: `I want to give you the opportunity to apologize for your jeans ad`](http://9gag.com/gag/a1mBOzR)
- - ⏩ [Merry xmass](http://9gag.com/gag/a7oPn3r)
- - 👉 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)<!-- MEMES:END -->
+ - 💣 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
+ - ⏩ [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)
+ - 👉 [Absolutely magical encounter in African wilderness](http://9gag.com/gag/a2v9Gbp)<!-- MEMES:END -->
 
 ---
 
