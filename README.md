@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Rigetti Computing and D-Wave Quantum, whose shares have surged over 1,900% in the past year as the potential of quantum computing captivates investors &lpar;Felice Maranz/Bloomberg&rpar;](http://www.techmeme.com/251109/p13#a251109p13)
  - [Cleveland Guardians&amp;#8217; pitchers indicted for rigging online bets](https://www.theverge.com/news/817425/cleveland-guardians-pitchers-indicted-for-rigging-online-bets)
- - [Procurement Sciences, whose AI software helps its customers find and build proposals for government contracts, raised a $30M Series B led by Catalyst Investors &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251109/p12#a251109p12)
- - [You need to listen to this compilation of ‘80s Spanish ambient and electronic music](https://www.theverge.com/column/817417/la-ola-interior-compilation-80s-spanish-ambient-and-electronic-music)<!-- TECH:END -->
+ - [Procurement Sciences, whose AI software helps its customers find and build proposals for government contracts, raised a $30M Series B led by Catalyst Investors &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251109/p12#a251109p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
