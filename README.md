@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [India number one](http://9gag.com/gag/adBrdzB)
- - ⏩ [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
- - 👉 [Win stupid prizes](http://9gag.com/gag/an78WKo)<!-- MEMES:END -->
+ - 💣 [Worst memory](http://9gag.com/gag/a5QvyVE)
+ - ⏩ [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
+ - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
 
 ---
 
