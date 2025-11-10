@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [America’s cybersecurity defenses are cracking](https://www.theverge.com/policy/816882/cisa-cybersecurity-elections-infrastructure-shutdown)
- - [Tesla is fighting the EV sales slump with short-term rentals](https://www.theverge.com/news/817477/tesla-direct-short-term-ev-rentals-tax-credit)
- - [Grab plans to invest $60M in remote driving service Vay, potentially rising to $410M within the next year if Vay hits certain milestones, set to close in Q4 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/251110/p18#a251110p18)<!-- TECH:END -->
+ - [Let’s talk about Pluribus](https://www.theverge.com/entertainment/816546/pluribus-apple-tv-book-club-discussion)
+ - [I’ve taken a ton of sleep trackers to bed: These are my top picks for 2025](https://www.androidauthority.com/best-sleep-tracker-3573659/)
+ - [Orange is the new black? Galaxy S26 Plus leaked renders reveal new look](https://www.androidauthority.com/samsung-galaxy-s26-plus-leaked-renders-3614365/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
