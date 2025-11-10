@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Mercor CEO Brendan Foody, who says Mercor is creating a new category of work; Mercor hit $500M ARR in September and pays contractors $1.5M daily &lpar;Rya Jetha/The San Francisco Standard&rpar;](http://www.techmeme.com/251110/p2#a251110p2)
  - [New Galaxy S26 leak has good news for availability, bad news for your wallet](https://www.androidauthority.com/samsung-galaxy-s26-early-release-leak-3614250/)
- - [I hope Android copies Apple’s next-gen connectivity features](https://www.androidauthority.com/iphone-satellite-android-phones-3614225/)
- - [Apple removes two of the most popular gay dating apps, Blued and Finka, from its App Store in China, citing orders from the country&#39;s Cyberspace Administration &lpar;Wired&rpar;](http://www.techmeme.com/251110/p1#a251110p1)<!-- TECH:END -->
+ - [I hope Android copies Apple’s next-gen connectivity features](https://www.androidauthority.com/iphone-satellite-android-phones-3614225/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
