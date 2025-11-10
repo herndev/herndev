@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
- - ⏩ [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
- - 👉 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)<!-- MEMES:END -->
+ - 💣 [They treat us as 5 years old kid](http://9gag.com/gag/a2v9jx9)
+ - ⏩ [Oh shit](http://9gag.com/gag/a5Qvyno)
+ - 👉 [Bratislava today](http://9gag.com/gag/aPAzdGG)<!-- MEMES:END -->
 
 ---
 
