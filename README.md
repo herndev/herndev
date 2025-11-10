@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Anno 117: Pax Romana is the Caesar of city-building games](https://www.polygon.com/anno-117-pax-romana-review/)
- - [Goodnight Universe review: getting some real Boss Baby vibes](https://www.polygon.com/goodnight-universe-review/)
- - [Fallout 4: Anniversary Edition Out Today – The Wasteland is Yours to Explore Again](https://www.xbox.com/en-us/games/store/fallout-4-anniversary-edition/9PFRG44XZCFJ/#new_tab)<!-- GAME:END -->
+ - [This Official 20W USB-C Charger for iPhone Sells for Pennies, and It Includes a 5-Foot Cable](https://kotaku.com/this-official-20w-usb-c-charger-for-iphone-sells-for-pennies-and-it-includes-a-5-foot-cable-2000642458)
+ - [The Switch 2&#39;s best fandom is all about the Kirby hamster](https://www.polygon.com/switch-2-kirby-air-ride-rick-hamster-fans-memes-sakurai/)
+ - [Modder builds Windows 98 handheld gaming PC with Intel Pentium inside](https://www.pcgamer.com/hardware/handheld-gaming-pcs/modder-builds-windows-98-handheld-gaming-pc-with-intel-pentium-inside/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
