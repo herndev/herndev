@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Married Life Summed Up ?](http://9gag.com/gag/amoKKW9)
- - ⏩ [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
- - 👉 [Amazonian](http://9gag.com/gag/agm6pDg)<!-- MEMES:END -->
+ - 💣 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
+ - ⏩ [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
+ - 👉 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)<!-- MEMES:END -->
 
 ---
 
