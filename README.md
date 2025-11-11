@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From the archives](http://9gag.com/gag/apRzz9p)
- - ⏩ [Saturn, visible with a telescope in daylight. 2022](http://9gag.com/gag/ary997d)
- - 👉 [`wE bUiLt ThIs CiTy`](http://9gag.com/gag/ae9yyPO)<!-- MEMES:END -->
+ - 💣 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
+ - ⏩ [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
+ - 👉 [Win stupid prizes](http://9gag.com/gag/an78WKo)<!-- MEMES:END -->
 
 ---
 
