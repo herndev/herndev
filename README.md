@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
- - ⏩ [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
- - 👉 [Daddy](http://9gag.com/gag/aMVDNQA)<!-- MEMES:END -->
+ - 💣 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
+ - ⏩ [Win stupid prizes](http://9gag.com/gag/an78WKo)
+ - 👉 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)<!-- MEMES:END -->
 
 ---
 
