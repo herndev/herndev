@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Store brings a better way to manage apps across all your devices](https://www.androidauthority.com/google-play-store-uninstall-button-3614548/)
- - [Hackers are abusing Find Hub to track and wipe Android devices](https://www.androidauthority.com/hackers-google-find-hub-wipe-devices-3614535/)
- - [$50 Target Coupon &amp; Promo Codes | November 2025](https://www.wired.com/story/target-promo-code/)<!-- TECH:END -->
+ - [Q&amp;A with Tim Berners-Lee on the future of web, AI, his decentralization startup Inrupt and its open-source web protocol Solid, his new memoir, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251111/p3#a251111p3)
+ - [A major Chrome rival on Android just got a huge extension boost](https://www.androidauthority.com/microsoft-edge-chrome-extensions-upgrade-3614551/)
+ - [Google Play Store brings a better way to manage apps across all your devices](https://www.androidauthority.com/google-play-store-uninstall-button-3614548/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
