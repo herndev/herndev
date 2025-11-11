@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anakin no](http://9gag.com/gag/aByjNQD)
- - ⏩ [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
+ - 💣 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
+ - ⏩ [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
  - 👉 [Daddy](http://9gag.com/gag/aMVDNQA)<!-- MEMES:END -->
 
 ---
