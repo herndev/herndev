@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Gifts for Book Lovers &lpar;2025&rpar;: From E-Readers to Boxed Sets](https://www.wired.com/story/gifts-for-book-lovers/)
- - [The next iPhone Air has reportedly been delayed](https://www.theverge.com/news/817908/apple-iphone-air-second-generation-delayed)
- - [Samsung rolls out its Vision AI Companion, a generative AI-powered upgrade to its Bixby assistant, across its 2025 TV lineup, with support for 10 languages &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251111/p18#a251111p18)<!-- TECH:END -->
+ - [Wyze’s new scale measures segmented body composition with a retractable handle](https://www.theverge.com/news/817826/wyze-smart-scale-ultra-bodyscan-segmented-body-composition-handle-electrodes)
+ - [BlackBerry 10’s spiritual successor could be coming to your Android phone](https://www.androidauthority.com/blackberry-10-successor-android-phones-3614626/)
+ - [Best Hiking Boots &lpar;2025&rpar;: Walking Shoes, Trails, Backpacking](https://www.wired.com/gallery/best-hiking-boots/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
