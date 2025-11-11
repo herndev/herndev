@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I just finished this painting today . It\u2019s an acrylic painting , that I painted . It\u2019s 80x100 cm and I hope you like it .](http://9gag.com/gag/a0ezDYd)
- - ⏩ [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
- - 👉 [Peak experience in the earlier days!!](http://9gag.com/gag/aXPQQ5b)<!-- MEMES:END -->
+ - 💣 [Yup](http://9gag.com/gag/agm6ZOx)
+ - ⏩ [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
+ - 👉 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)<!-- MEMES:END -->
 
 ---
 
