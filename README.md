@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Survive the Alien Swarm in Let Them Come: Onslaught, Out Today](https://news.xbox.com/en-us/2025/11/11/survive-the-alien-swarm-in-let-them-come-onslaught-out-today/)
- - [Fired GTA 6 Devs Aren’t Done Fighting: ‘We Want To Finish What We Were Working On’](https://kotaku.com/grand-theft-auto-6-rockstar-fired-union-workers-legal-2000643030)
- - [Proceeds From Battlefield 6′s Veterans Day Pack Don’t Directly Benefit Vets](https://kotaku.com/proceeds-from-battlefield-6s-veterans-day-pack-dont-directly-benefit-vets-2000643014)<!-- GAME:END -->
+ - [The Running Man never really feels like an Edgar Wright movie](https://www.polygon.com/running-man-2025-review-edgar-wright-stephen-king-glen-powell/)
+ - [Hades II Isn’t A Story—It’s Maintenance](https://kotaku.com/hades-2-story-melinoe-chronos-hecate-is-it-good-2000642943)
+ - [Marvel Rivals is adding a &#39;non-combat map&#39; where players can &#39;hang out, dance, watch videos, read books, and let your imagination run wild&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-adding-a-non-combat-map-where-players-can-hang-out-dance-watch-videos-read-books-and-let-your-imagination-run-wild/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
