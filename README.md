@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peak experience in the earlier days!!](http://9gag.com/gag/aXPQQ5b)
- - ⏩ [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
- - 👉 [I just finished this painting today . It\u2019s an acrylic painting , that I painted . It\u2019s 80x100 cm and I hope you like it .](http://9gag.com/gag/a0ezDYd)<!-- MEMES:END -->
+ - 💣 [Anakin no](http://9gag.com/gag/aByjNQD)
+ - ⏩ [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
+ - 👉 [Daddy](http://9gag.com/gag/aMVDNQA)<!-- MEMES:END -->
 
 ---
 
