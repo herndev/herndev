@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [MSI MPG 271QR X50 QD-OLED gaming monitor review](https://www.pcgamer.com/hardware/gaming-monitors/msi-mpg-271qr-x50-qd-oled-gaming-monitor-review/)
  - [Kinesis Gaming Freestyle Edge RGB Plus review](https://www.pcgamer.com/hardware/gaming-keyboards/kinesis-gaming-freestyle-edge-rgb-plus-review/)
- - [Arc Raiders players crack its &#39;movement tech&#39; wide open by mastering the ledge grab](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-players-crack-its-movement-tech-wide-open-by-mastering-the-ledge-grab/)
- - [Critical Role Campaign 4 finally shows more of Aramán, and it&#39;s a lesson in worldbuilding](https://www.polygon.com/critical-role-campaign-4-episode-5-world-araman-npcs/)<!-- GAME:END -->
+ - [Arc Raiders players crack its &#39;movement tech&#39; wide open by mastering the ledge grab](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-players-crack-its-movement-tech-wide-open-by-mastering-the-ledge-grab/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
