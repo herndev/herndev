@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
- - ⏩ [You died](http://9gag.com/gag/an780vV)
- - 👉 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)<!-- MEMES:END -->
+ - ⏩ [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
+ - 👉 [Give it to me baby, aha, aha...](http://9gag.com/gag/ae9yywj)<!-- MEMES:END -->
 
 ---
 
