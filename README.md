@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
- - ⏩ [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
- - 👉 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)<!-- MEMES:END -->
+ - 💣 [Pyroclastic flow.](http://9gag.com/gag/awyPG6r)
+ - ⏩ [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
+ - 👉 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)<!-- MEMES:END -->
 
 ---
 
