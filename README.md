@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps’ new Power Saving Mode won’t be coming to most Android phones](https://www.androidauthority.com/google-maps-power-saving-mode-pixel-10-3614181/)
- - [Pixel phones are now snitching on scammers in your chat apps](https://www.androidauthority.com/pixel-chat-app-scam-detection-3614116/)
- - [Pixel theme packs are here with ‘Wicked’ wallpapers, icons, sounds, GIFs, and more](https://www.androidauthority.com/google-pixel-theme-packs-launch-3614272/)<!-- TECH:END -->
+ - [This LG 34-inch Curved Smart Monitor is $50 off right now](https://www.androidauthority.com/lg-34-inch-curved-smart-monitor-deal-3614730/)
+ - [Disney is losing over $4 million a day in revenue on the YouTube TV blackout](https://www.theverge.com/news/818542/disney-youtube-tv-blackout-cost)
+ - [Google Photos now fixes your blinks and blurs with Nano Banana’s help](https://www.androidauthority.com/google-photos-ai-updates-3614748/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
