@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds live video sharing with emergency services in November update](https://www.androidauthority.com/google-live-video-emergency-calls-november-2025-play-services-update-3614522/)
- - [Google is cracking down on apps that secretly drain your battery](https://www.androidauthority.com/google-android-apps-wake-lock-battery-drain-3614511/)
- - [Financial documents show Anthropic expects to break even in 2028, while OpenAI projects ~$74B in operating losses that year before turning a profit in 2030 &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/251110/p36#a251110p36)<!-- TECH:END -->
+ - [Sony Q2: revenue up 4.6% YoY to ~$20.3B, net profit up 6.7% to ~$2.02B, says it sold 3.9M PS5 units, and raises annual operating profit forecast 7.5% to ~$9.3B &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/251110/p37#a251110p37)
+ - [Google adds live video sharing to emergency calls in November update](https://www.androidauthority.com/google-live-video-emergency-calls-november-2025-play-services-update-3614522/)
+ - [Google is cracking down on apps that secretly drain your battery](https://www.androidauthority.com/google-android-apps-wake-lock-battery-drain-3614511/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
