@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [November Pixel update isn’t here yet, but Verizon just spilled the details](https://www.androidauthority.com/pixel-november-update-verizon-3614531/)
- - [Sony Q2: revenue up 4.6% YoY to ~$20.3B, net profit up 6.7% to ~$2.02B, says it sold 3.9M PS5 units, and raises annual operating profit forecast 7.5% to ~$9.3B &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/251110/p37#a251110p37)
- - [Google adds live video sharing to emergency calls in November update](https://www.androidauthority.com/google-live-video-emergency-calls-november-2025-play-services-update-3614522/)<!-- TECH:END -->
+ - [T-Mobile stores are rumored to have a ‘big’ meeting of their own later this month](https://www.androidauthority.com/t-mobile-stores-meeting-3614540/)
+ - [1Password Coupon: Score a Free Trial in November](https://www.wired.com/story/1password-coupon/)
+ - [Bengaluru-based digital lending startup Finnable raised about $28.19M in August 2025 co-led by Z47 and TVS Capital, bringing its total raised to about $60.9M &lpar;Alenjith K Johny/The Economic Times&rpar;](http://www.techmeme.com/251111/p1#a251111p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
