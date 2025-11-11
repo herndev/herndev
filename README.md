@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Running Man never really feels like an Edgar Wright movie](https://www.polygon.com/running-man-2025-review-edgar-wright-stephen-king-glen-powell/)
- - [Hades II Isn’t A Story—It’s Maintenance](https://kotaku.com/hades-2-story-melinoe-chronos-hecate-is-it-good-2000642943)
- - [Marvel Rivals is adding a &#39;non-combat map&#39; where players can &#39;hang out, dance, watch videos, read books, and let your imagination run wild&#39;](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-adding-a-non-combat-map-where-players-can-hang-out-dance-watch-videos-read-books-and-let-your-imagination-run-wild/)<!-- GAME:END -->
+ - [Hidden Bunker location in Arc Raiders](https://www.polygon.com/arc-raiders-hidden-bunker-location-puzzle-spaceport/)
+ - [High-Tech Russian Robot Walks On Stage To Rocky Theme Song And Immediately Falls Over](https://kotaku.com/high-tech-russian-robot-rocky-theme-song-falls-over-video-2000643038)
+ - [&#39;I think we&#39;re in the fight of our lives&#39;: Fired Rockstar employees and IWGB are confident the GTA 6 developer will be held accountable for its alleged union busting](https://www.pcgamer.com/games/action/i-think-were-in-the-fight-of-our-lives-fired-rockstar-employees-and-iwgb-are-confident-the-gta-6-developer-will-be-held-accountable-for-its-alleged-union-busting/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
