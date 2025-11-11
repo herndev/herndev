@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [I just finished this painting today . It\u2019s an acrylic painting , that I painted . It\u2019s 80x100 cm and I hope you like it .](http://9gag.com/gag/a0ezDYd)
  - ⏩ [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
- - 👉 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)<!-- MEMES:END -->
+ - 👉 [Peak experience in the earlier days!!](http://9gag.com/gag/aXPQQ5b)<!-- MEMES:END -->
 
 ---
 
