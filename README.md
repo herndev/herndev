@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
- - ⏩ [Daddy](http://9gag.com/gag/aMVDNQA)
+ - 💣 [I just finished this painting today . It\u2019s an acrylic painting , that I painted . It\u2019s 80x100 cm and I hope you like it .](http://9gag.com/gag/a0ezDYd)
+ - ⏩ [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
  - 👉 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)<!-- MEMES:END -->
 
 ---
