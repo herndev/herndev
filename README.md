@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Now You See Me 3 review: Not the sequel we waited for](https://www.polygon.com/now-you-see-me-now-you-dont-review/)
- - [Possessor&lpar;s&rpar; review: Hopelessly lost in a Metroidvania maze](https://www.polygon.com/possessors-review-heart-machine-metroidvania/)
- - [&#39;Every game company is now using AI&#39;: Nexon&#39;s CEO defends the use of generative AI in game development in the wake of Arc Raiders&#39; controversy](https://www.pcgamer.com/games/third-person-shooter/every-game-company-is-now-using-ai-nexons-ceo-defends-the-use-of-generative-ai-in-game-development-in-the-wake-of-arc-raiders-controversy/)<!-- GAME:END -->
+ - [Honoring the Story Behind the Upcoming Call of Duty Endowment Pack this Veterans Day](https://www.callofduty.com/blog/2025/11/call-of-duty-endowment-legacy-pack-veterans-day#new_tab)
+ - [How to complete The Root of the Matter in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-the-root-of-the-matter-room-with-a-great-view/)
+ - [Arc Raiders’ Hidden Bunker Mystery Might Not Be So Mysterious](https://kotaku.com/arc-raiders-hidden-bunker-data-download-trials-2000642994)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
