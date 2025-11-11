@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One of the best unfinished comics of the 2010s is getting the TV adaptation it deserves](https://www.polygon.com/southern-bastards-jason-arron-tv-adaptation-hulu-nia-dacosta/)
- - [&#39;No one truly knows what kind of game will succeed&#39;: Former PlayStation boss says that bigger companies should &#39;invest in smaller, experimental projects&#39; to promote creativity](https://www.pcgamer.com/games/no-one-truly-knows-what-kind-of-game-will-succeed-former-playstation-boss-says-that-bigger-companies-should-invest-in-smaller-experimental-projects-to-promote-creativity/)
- - [I&#39;ve been playing Arc Raiders for over a week and just discovered you can ride the Arcs](https://www.pcgamer.com/games/action/ive-been-playing-arc-raiders-for-over-a-week-and-just-discovered-you-can-ride-the-arcs/)<!-- GAME:END -->
+ - [Where to find Slavek&#39;s purse in Kingdom Come: Deliverance 2](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-purse-location-slavek/)
+ - [How to craft a plague mask in Kingdom Come: Deliverance 2](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-plague-mask-prevention/)
+ - [An Expensive New Legend Of Zelda Lego Set Is Coming Next Year](https://kotaku.com/zelda-lego-ocarina-time-n64-ganon-price-date-2000642945)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
