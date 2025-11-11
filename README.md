@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
- - ⏩ [Win stupid prizes](http://9gag.com/gag/an78WKo)
- - 👉 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)<!-- MEMES:END -->
+ - 💣 [Pyroclastic flow.](http://9gag.com/gag/awyPG6r)
+ - ⏩ [Science be like](http://9gag.com/gag/ajPG3PR)
+ - 👉 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)<!-- MEMES:END -->
 
 ---
 
