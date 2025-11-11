@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This 4K projector is bright, bold, and not for bargain hunters](https://www.androidauthority.com/leica-cine-play-1-plus-launch-3614839/)
- - [FYI: Some emulators on Android have a clever trick to unlock your phone’s performance](https://www.androidauthority.com/android-emulator-hack-3614776/)
- - [CoreWeave closed down 16% after its CEO admitted delays at a data center developer that Jim Cramer implied may be Core Scientific; CORZ closed down 10% &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251111/p35#a251111p35)<!-- TECH:END -->
+ - [SoFi launches SoFi Crypto, saying it&#39;s the first nationally chartered bank in the US to offer crypto trading to consumers &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/251111/p37#a251111p37)
+ - [Android 16 QPR2 Beta 3.3 has a fix for what ails your phone’s lock screen](https://www.androidauthority.com/android-16-qpr2-beta-3-3-3614864/)
+ - [China says the December 2020 theft of 127,272 BTC, now worth ~$13B, from Chinese mining pool LuBian is likely a &quot;state-level hacker operation&quot; led by the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/251111/p36#a251111p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
