@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
- - ⏩ [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
- - 👉 [Win stupid prizes](http://9gag.com/gag/an78WKo)<!-- MEMES:END -->
+ - 💣 [Nutty Putty cave in VR](http://9gag.com/gag/aLnVNyW)
+ - ⏩ [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
+ - 👉 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)<!-- MEMES:END -->
 
 ---
 
