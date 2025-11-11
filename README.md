@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Kinesis Gaming Freestyle Edge RGB Plus review](https://www.pcgamer.com/hardware/gaming-keyboards/kinesis-gaming-freestyle-edge-rgb-plus-review/)
  - [Arc Raiders players crack its &#39;movement tech&#39; wide open by mastering the ledge grab](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-players-crack-its-movement-tech-wide-open-by-mastering-the-ledge-grab/)
- - [Critical Role Campaign 4 finally shows more of Aramán, and it&#39;s a lesson in worldbuilding](https://www.polygon.com/critical-role-campaign-4-episode-5-world-araman-npcs/)
- - [Tavern Keeper&#39;s item design tool is so good one player made a tabletop D&amp;D set where you can actually read the stats on the character sheets](https://www.pcgamer.com/games/sim/tavern-keepers-item-design-tool-is-so-good-one-player-made-a-tabletop-d-and-d-set-where-you-can-actually-read-the-stats-on-the-character-sheets/)<!-- GAME:END -->
+ - [Critical Role Campaign 4 finally shows more of Aramán, and it&#39;s a lesson in worldbuilding](https://www.polygon.com/critical-role-campaign-4-episode-5-world-araman-npcs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
