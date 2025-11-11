@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail is getting new labels to keep track of your bills and travel info &lpar;Updated: Screenshots&rpar;](https://www.androidauthority.com/gmail-bills-travel-labels-3607400/)
- - [SoftBank sold its entire Nvidia stake, or ~32M shares, in October for $5.8B and part of its T-Mobile stake for $9.2B, boosting Q2 profit to $16.2B, above est. &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/251111/p4#a251111p4)
- - [Q&amp;A with Tim Berners-Lee on the future of web, AI, his decentralization startup Inrupt and its open-source web protocol Solid, his new memoir, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251111/p3#a251111p3)<!-- TECH:END -->
+ - [After Galaxy S26 Edge, another top-tier thin phone could be on its way out](https://www.androidauthority.com/apple-iphone-air-2-production-plans-paused-3614594/)
+ - [Asahi says shipment levels are at just 10% of normal after a cyberattack in early October, and it is processing orders manually, ahead of a busy December period &lpar;Bloomberg&rpar;](http://www.techmeme.com/251111/p7#a251111p7)
+ - [A Munich court sides with Germany&#39;s music rights society GEMA in a case against OpenAI, saying OpenAI can&#39;t use song lyrics without a license; OpenAI can appeal &lpar;Reuters&rpar;](http://www.techmeme.com/251111/p6#a251111p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
