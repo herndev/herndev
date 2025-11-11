@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos lets iPhone users edit images by describing changes](https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update)
- - [This Itty-Bitty Flash Drive Offers 1TB That Can Stay Plugged In](https://www.cnet.com/tech/computing/this-itty-bitty-flash-drive-offers-1tb-that-can-stay-plugged-in/#ftag=CAD590a51e)
- - [This Nano Banana 2 leak suggests AI images are about to get way better](https://www.androidauthority.com/google-nano-banana-2-preview-3614702/)<!-- TECH:END -->
+ - [Launch in an F-18 from the USS Nimitz in the new Apple Vision Pro immersive experience](https://appleinsider.com/articles/25/11/11/launch-in-an-f-18-from-the-uss-nimitz-in-the-new-apple-vision-pro-immersive-experience?utm_source=rss)
+ - [Sony says the PlayStation 5 has sold a total of 84.2M units since launch, including 3.9M units sold in Q2, up from 3.8M a year ago &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/251111/p29#a251111p29)
+ - [AI chatbots are helping hide eating disorders and making deepfake ‘thinspiration’](https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
