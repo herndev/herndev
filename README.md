@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI MPG 271QR X50 QD-OLED gaming monitor review](https://www.pcgamer.com/hardware/gaming-monitors/msi-mpg-271qr-x50-qd-oled-gaming-monitor-review/)
- - [Kinesis Gaming Freestyle Edge RGB Plus review](https://www.pcgamer.com/hardware/gaming-keyboards/kinesis-gaming-freestyle-edge-rgb-plus-review/)
- - [Arc Raiders players crack its &#39;movement tech&#39; wide open by mastering the ledge grab](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-players-crack-its-movement-tech-wide-open-by-mastering-the-ledge-grab/)<!-- GAME:END -->
+ - [A Japanese retailer is now restricting PC memory purchases, so is it time to properly panic?](https://www.pcgamer.com/hardware/memory/a-japanese-retailer-is-now-restricting-pc-memory-purchases-so-is-it-time-to-properly-panic/)
+ - [Fallout 4&#39;s Creations Bundle stumbles from the Vault to Mostly Negative reviews, as players lament the pack &#39;does not work&#39; and &#39;made the game buggier&#39;](https://www.pcgamer.com/games/rpg/fallout-4s-creations-bundle-stumbles-from-the-vault-to-mostly-negative-reviews-as-players-lament-the-pack-does-not-work-and-made-the-game-buggier/)
+ - [I&#39;ve found another great loot spot in Arc Raiders—all you have to do is look up](https://www.pcgamer.com/games/third-person-shooter/ive-found-another-great-loot-spot-in-arc-raiders-all-you-have-to-do-is-look-up/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
