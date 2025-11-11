@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You died](http://9gag.com/gag/an780vV)
- - ⏩ [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
- - 👉 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)<!-- MEMES:END -->
+ - 💣 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
+ - ⏩ [You died](http://9gag.com/gag/an780vV)
+ - 👉 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)<!-- MEMES:END -->
 
 ---
 
