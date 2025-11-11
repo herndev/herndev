@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pyroclastic flow.](http://9gag.com/gag/awyPG6r)
+ - 💣 [You died](http://9gag.com/gag/an780vV)
  - ⏩ [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
- - 👉 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)<!-- MEMES:END -->
+ - 👉 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)<!-- MEMES:END -->
 
 ---
 
