@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Things are going according to plan...](http://9gag.com/gag/aGy6qYw)
- - ⏩ [But I being poor have only my memes](http://9gag.com/gag/aW4PAQ3)
- - 👉 [Niceee](http://9gag.com/gag/a4PmB0A)<!-- MEMES:END -->
+ - 💣 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
+ - ⏩ [This is actually genius](http://9gag.com/gag/aW4Peb4)
+ - 👉 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)<!-- MEMES:END -->
 
 ---
 
