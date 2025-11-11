@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wyze’s new scale measures segmented body composition with a retractable handle](https://www.theverge.com/news/817826/wyze-smart-scale-ultra-bodyscan-segmented-body-composition-handle-electrodes)
- - [BlackBerry 10’s spiritual successor could be coming to your Android phone](https://www.androidauthority.com/blackberry-10-successor-android-phones-3614626/)
- - [Best Hiking Boots &lpar;2025&rpar;: Walking Shoes, Trails, Backpacking](https://www.wired.com/gallery/best-hiking-boots/)<!-- TECH:END -->
+ - [Israeli startup Wonderful, which helps companies manage customer-facing AI agents across voice, chat, and email, raised $100M at a $700M valuation &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/251111/p22#a251111p22)
+ - [A Danish court sentences a man for sharing 347+ copyrighted nude scenes on Reddit featuring 100+ actresses and 25TB+ of pirated content via a torrent tracker &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/251111/p21#a251111p21)
+ - [Swipe right to keep: Google One gets a dating app twist for file cleanup](https://www.androidauthority.com/google-one-swipe-ui-for-cleanup-3614669/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
