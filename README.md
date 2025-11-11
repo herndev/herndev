@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
- - ⏩ [This is actually genius](http://9gag.com/gag/aW4Peb4)
- - 👉 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)<!-- MEMES:END -->
+ - 💣 [Married Life Summed Up ?](http://9gag.com/gag/amoKKW9)
+ - ⏩ [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
+ - 👉 [Amazonian](http://9gag.com/gag/agm6pDg)<!-- MEMES:END -->
 
 ---
 
