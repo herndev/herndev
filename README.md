@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
  - ⏩ [This is actually genius](http://9gag.com/gag/aW4Peb4)
- - 👉 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)<!-- MEMES:END -->
+ - 👉 [That&#39;s what friends are for](http://9gag.com/gag/an788gz)<!-- MEMES:END -->
 
 ---
 
