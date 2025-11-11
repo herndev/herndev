@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This LG 34-inch Curved Smart Monitor is $50 off right now](https://www.androidauthority.com/lg-34-inch-curved-smart-monitor-deal-3614730/)
- - [Disney is losing over $4 million a day in revenue on the YouTube TV blackout](https://www.theverge.com/news/818542/disney-youtube-tv-blackout-cost)
- - [Google Photos now fixes your blinks and blurs with Nano Banana’s help](https://www.androidauthority.com/google-photos-ai-updates-3614748/)<!-- TECH:END -->
+ - [Apple&#39;s 1TB M5 MacBook Pro is down to the lowest price ever at Amazon](https://appleinsider.com/articles/25/11/11/apples-1tb-m5-macbook-pro-is-down-to-the-lowest-price-ever-at-amazon?utm_source=rss)
+ - [The Nike x Hyperice Hyperboot Is $200 Off](https://www.wired.com/story/nike-hyperboots-deal-1125/)
+ - [Coinbase confirms that it has called off acquisition talks with stablecoin infra startup BVNK; reports previously put the acquisition price around $2B &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251111/p33#a251111p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
