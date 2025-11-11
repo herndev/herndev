@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The LG G5 takes OLED performance to another level](https://www.theverge.com/tech/817807/lg-g5-oled-tv-review)
- - [A UK judge jails a Chinese woman to 11 years and 8 months in prison for laundering bitcoin linked to a £5B investment scheme in which UK seized 61K bitcoin &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/251111/p26#a251111p26)
- - [Lighter, which operates an Ethereum Layer 2 network and a decentralized exchange to support perpetual futures contracts, raised $68M at a ~$1.5B valuation &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251111/p25#a251111p25)<!-- TECH:END -->
+ - [Google Photos lets iPhone users edit images by describing changes](https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update)
+ - [This Itty-Bitty Flash Drive Offers 1TB That Can Stay Plugged In](https://www.cnet.com/tech/computing/this-itty-bitty-flash-drive-offers-1tb-that-can-stay-plugged-in/#ftag=CAD590a51e)
+ - [This Nano Banana 2 leak suggests AI images are about to get way better](https://www.androidauthority.com/google-nano-banana-2-preview-3614702/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
