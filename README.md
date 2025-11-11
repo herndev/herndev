@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Launch in an F-18 from the USS Nimitz in the new Apple Vision Pro immersive experience](https://appleinsider.com/articles/25/11/11/launch-in-an-f-18-from-the-uss-nimitz-in-the-new-apple-vision-pro-immersive-experience?utm_source=rss)
- - [Sony says the PlayStation 5 has sold a total of 84.2M units since launch, including 3.9M units sold in Q2, up from 3.8M a year ago &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/251111/p29#a251111p29)
- - [AI chatbots are helping hide eating disorders and making deepfake ‘thinspiration’](https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health)<!-- TECH:END -->
+ - [Google Maps’ new Power Saving Mode won’t be coming to most Android phones](https://www.androidauthority.com/google-maps-power-saving-mode-pixel-10-3614181/)
+ - [Pixel phones are now snitching on scammers in your chat apps](https://www.androidauthority.com/pixel-chat-app-scam-detection-3614116/)
+ - [Pixel theme packs are here with ‘Wicked’ wallpapers, icons, sounds, GIFs, and more](https://www.androidauthority.com/google-pixel-theme-packs-launch-3614272/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
