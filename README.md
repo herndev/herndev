@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Ops 7 design director on why ‘WTF moments’ make for bad Call of Duty maps](https://www.polygon.com/black-ops-7-interview-map-design-treyarch-interview/)
- - [Play GTA Online for Free on Xbox Series X|S This Week with Free Play Days](https://news.xbox.com/en-us/2025/11/11/free-play-days-gta-online-xbox-series-xs/)
- - [Welp, says Sony, sure looks like buying Bungie didn&#39;t work out](https://www.pcgamer.com/gaming-industry/welp-says-sony-sure-looks-like-buying-bungie-didnt-work-out/)<!-- GAME:END -->
+ - [How To Survive the Alien Swarm in Let Them Come: Onslaught, Out Today](https://news.xbox.com/en-us/2025/11/11/survive-the-alien-swarm-in-let-them-come-onslaught-out-today/)
+ - [Fired GTA 6 Devs Aren’t Done Fighting: ‘We Want To Finish What We Were Working On’](https://kotaku.com/grand-theft-auto-6-rockstar-fired-union-workers-legal-2000643030)
+ - [Proceeds From Battlefield 6′s Veterans Day Pack Don’t Directly Benefit Vets](https://kotaku.com/proceeds-from-battlefield-6s-veterans-day-pack-dont-directly-benefit-vets-2000643014)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
