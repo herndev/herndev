@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [November Pixel update isn’t here yet, but Verizon just spilled the details](https://www.androidauthority.com/pixel-november-update-verizon-3614531/)
  - [Sony Q2: revenue up 4.6% YoY to ~$20.3B, net profit up 6.7% to ~$2.02B, says it sold 3.9M PS5 units, and raises annual operating profit forecast 7.5% to ~$9.3B &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/251110/p37#a251110p37)
- - [Google adds live video sharing to emergency calls in November update](https://www.androidauthority.com/google-live-video-emergency-calls-november-2025-play-services-update-3614522/)
- - [Google is cracking down on apps that secretly drain your battery](https://www.androidauthority.com/google-android-apps-wake-lock-battery-drain-3614511/)<!-- TECH:END -->
+ - [Google adds live video sharing to emergency calls in November update](https://www.androidauthority.com/google-live-video-emergency-calls-november-2025-play-services-update-3614522/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
