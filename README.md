@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siri Shortcuts now works with Samsung SmartThings routines](https://www.theverge.com/news/818054/samsung-smartthings-routines-siri-ios-support)
- - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)
- - [CoreWeave reports Q3 revenue up 134% YoY to $1.36B, vs. $1.29B est., and a net loss of $110M, down from $360M a year ago; CRWV is up 164% since its March IPO &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251110/p31#a251110p31)<!-- TECH:END -->
+ - [Homepod mini marked as &#39;out of stock&#39; and &#39;discontinued&#39; yet again](https://appleinsider.com/articles/25/11/10/homepod-mini-marked-as-out-of-stock-and-discontinued-yet-again?utm_source=rss)
+ - [Meta introduces Omnilingual Automatic Speech Recognition, a suite of AI models providing automatic speech recognition capabilities for more than 1,600 languages &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251110/p34#a251110p34)
+ - [Sachin Katti, Intel&#39;s CTO and AI officer, says he is leaving the company to join OpenAI; Intel says CEO Lip-Bu Tan will take over its AI efforts &lpar;CRN&rpar;](http://www.techmeme.com/251110/p33#a251110p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
