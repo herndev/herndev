@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Galaxy S26 Edge, another top-tier thin phone could be on its way out](https://www.androidauthority.com/apple-iphone-air-2-production-plans-paused-3614594/)
- - [Asahi says shipment levels are at just 10% of normal after a cyberattack in early October, and it is processing orders manually, ahead of a busy December period &lpar;Bloomberg&rpar;](http://www.techmeme.com/251111/p7#a251111p7)
- - [A Munich court sides with Germany&#39;s music rights society GEMA in a case against OpenAI, saying OpenAI can&#39;t use song lyrics without a license; OpenAI can appeal &lpar;Reuters&rpar;](http://www.techmeme.com/251111/p6#a251111p6)<!-- TECH:END -->
+ - [Sharing images from Gemini just got a tad more complicated](https://www.androidauthority.com/google-gemini-android-image-sharing-3614600/)
+ - [An investor group and AI developer Voltai plan to use AI to design, build, and run a 3GW data center in South Korea, set to cost up to $35B and open in 2028 &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/251111/p12#a251111p12)
+ - [The Best Permanent Outdoor Lights &lpar;2025&rpar;: Govee, Eufy, Lepro](https://www.wired.com/story/should-you-get-permanent-outdoor-lights/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
