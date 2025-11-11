@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
  - ⏩ [Daddy](http://9gag.com/gag/aMVDNQA)
- - 👉 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)<!-- MEMES:END -->
+ - 👉 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)<!-- MEMES:END -->
 
 ---
 
