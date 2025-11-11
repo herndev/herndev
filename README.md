@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 1TB M5 MacBook Pro is down to the lowest price ever at Amazon](https://appleinsider.com/articles/25/11/11/apples-1tb-m5-macbook-pro-is-down-to-the-lowest-price-ever-at-amazon?utm_source=rss)
- - [The Nike x Hyperice Hyperboot Is $200 Off](https://www.wired.com/story/nike-hyperboots-deal-1125/)
- - [Coinbase confirms that it has called off acquisition talks with stablecoin infra startup BVNK; reports previously put the acquisition price around $2B &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251111/p33#a251111p33)<!-- TECH:END -->
+ - [This 4K projector is bright, bold, and not for bargain hunters](https://www.androidauthority.com/leica-cine-play-1-plus-launch-3614839/)
+ - [FYI: Some emulators on Android have a clever trick to unlock your phone’s performance](https://www.androidauthority.com/android-emulator-hack-3614776/)
+ - [CoreWeave closed down 16% after its CEO admitted delays at a data center developer that Jim Cramer implied may be Core Scientific; CORZ closed down 10% &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251111/p35#a251111p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
