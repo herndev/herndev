@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [25 years ago, Red Planet and Mission to Mars competed for the title of biggest Mars flop](https://www.polygon.com/red-planet-mission-to-mars-at-25/)
- - [Call of Duty: Black Ops 7 is bringing back some iconic maps from Black Ops 2 for Endgame: &#39;You might even find a little piece of Hazard&#39;](https://www.pcgamer.com/games/call-of-duty/call-of-duty-black-ops-7-is-bringing-back-some-iconic-maps-from-black-ops-2-for-endgame-you-might-even-find-a-little-piece-of-hazard/)
- - [You need to lug back 1,195 items in Arc Raiders to level up everything, so good luck finding space for it all](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-loot-guide/)<!-- GAME:END -->
+ - [Wizard of Legend 2, the best couch co-op game of 2025, is coming to Switch](https://www.polygon.com/wizard-legend-2-switch-release-date/)
+ - [Lumines Arise review: the cure for our cynical world](https://www.polygon.com/lumines-arise-review/)
+ - [Apple AirPods 4 Suddenly Drop to Almost Free, Early Black Friday Strategy or Just a Clearance Move?](https://kotaku.com/apple-airpods-4-suddenly-drop-to-almost-free-early-black-friday-strategy-or-just-a-clearance-move-2000642500)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
