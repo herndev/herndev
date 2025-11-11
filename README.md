@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto exchange Gemini reports Q3 revenue up 106% YoY to $50.6M, vs. $46.2M est., net loss of $159.5M, up from $90.2M a year ago; GEMI drops 5%+ after hours &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251110/p35#a251110p35)
  - [Homepod mini marked as &#39;out of stock&#39; and &#39;discontinued&#39; yet again](https://appleinsider.com/articles/25/11/10/homepod-mini-marked-as-out-of-stock-and-discontinued-yet-again?utm_source=rss)
- - [Meta introduces Omnilingual Automatic Speech Recognition, a suite of AI models providing automatic speech recognition capabilities for more than 1,600 languages &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251110/p34#a251110p34)
- - [Sachin Katti, Intel&#39;s CTO and AI officer, says he is leaving the company to join OpenAI; Intel says CEO Lip-Bu Tan will take over its AI efforts &lpar;CRN&rpar;](http://www.techmeme.com/251110/p33#a251110p33)<!-- TECH:END -->
+ - [Meta introduces Omnilingual Automatic Speech Recognition, a suite of AI models providing automatic speech recognition capabilities for more than 1,600 languages &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251110/p34#a251110p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
