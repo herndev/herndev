@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
- - ⏩ [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
- - 👉 [Give it to me baby, aha, aha...](http://9gag.com/gag/ae9yywj)<!-- MEMES:END -->
+ - 💣 [Things are going according to plan...](http://9gag.com/gag/aGy6qYw)
+ - ⏩ [But I being poor have only my memes](http://9gag.com/gag/aW4PAQ3)
+ - 👉 [Niceee](http://9gag.com/gag/a4PmB0A)<!-- MEMES:END -->
 
 ---
 
