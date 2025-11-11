@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is actually genius](http://9gag.com/gag/aW4Peb4)
+ - 💣 [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
  - ⏩ [That&#39;s what friends are for](http://9gag.com/gag/an788gz)
- - 👉 [The situation in Italy](http://9gag.com/gag/aGy6qV7)<!-- MEMES:END -->
+ - 👉 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)<!-- MEMES:END -->
 
 ---
 
