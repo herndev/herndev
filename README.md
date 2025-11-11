@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wizard of Legend 2, the best couch co-op game of 2025, is coming to Switch](https://www.polygon.com/wizard-legend-2-switch-release-date/)
- - [Lumines Arise review: the cure for our cynical world](https://www.polygon.com/lumines-arise-review/)
- - [Apple AirPods 4 Suddenly Drop to Almost Free, Early Black Friday Strategy or Just a Clearance Move?](https://kotaku.com/apple-airpods-4-suddenly-drop-to-almost-free-early-black-friday-strategy-or-just-a-clearance-move-2000642500)<!-- GAME:END -->
+ - [One of the best unfinished comics of the 2010s is getting the TV adaptation it deserves](https://www.polygon.com/southern-bastards-jason-arron-tv-adaptation-hulu-nia-dacosta/)
+ - [&#39;No one truly knows what kind of game will succeed&#39;: Former PlayStation boss says that bigger companies should &#39;invest in smaller, experimental projects&#39; to promote creativity](https://www.pcgamer.com/games/no-one-truly-knows-what-kind-of-game-will-succeed-former-playstation-boss-says-that-bigger-companies-should-invest-in-smaller-experimental-projects-to-promote-creativity/)
+ - [I&#39;ve been playing Arc Raiders for over a week and just discovered you can ride the Arcs](https://www.pcgamer.com/games/action/ive-been-playing-arc-raiders-for-over-a-week-and-just-discovered-you-can-ride-the-arcs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
