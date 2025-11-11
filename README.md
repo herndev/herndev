@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sharing images from Gemini just got a tad more complicated](https://www.androidauthority.com/google-gemini-android-image-sharing-3614600/)
- - [An investor group and AI developer Voltai plan to use AI to design, build, and run a 3GW data center in South Korea, set to cost up to $35B and open in 2028 &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/251111/p12#a251111p12)
- - [The Best Permanent Outdoor Lights &lpar;2025&rpar;: Govee, Eufy, Lepro](https://www.wired.com/story/should-you-get-permanent-outdoor-lights/)<!-- TECH:END -->
+ - [The Best Gifts for Book Lovers &lpar;2025&rpar;: From E-Readers to Boxed Sets](https://www.wired.com/story/gifts-for-book-lovers/)
+ - [The next iPhone Air has reportedly been delayed](https://www.theverge.com/news/817908/apple-iphone-air-second-generation-delayed)
+ - [Samsung rolls out its Vision AI Companion, a generative AI-powered upgrade to its Bixby assistant, across its 2025 TV lineup, with support for 10 languages &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251111/p18#a251111p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
