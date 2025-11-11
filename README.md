@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hidden Bunker location in Arc Raiders](https://www.polygon.com/arc-raiders-hidden-bunker-location-puzzle-spaceport/)
- - [High-Tech Russian Robot Walks On Stage To Rocky Theme Song And Immediately Falls Over](https://kotaku.com/high-tech-russian-robot-rocky-theme-song-falls-over-video-2000643038)
- - [&#39;I think we&#39;re in the fight of our lives&#39;: Fired Rockstar employees and IWGB are confident the GTA 6 developer will be held accountable for its alleged union busting](https://www.pcgamer.com/games/action/i-think-were-in-the-fight-of-our-lives-fired-rockstar-employees-and-iwgb-are-confident-the-gta-6-developer-will-be-held-accountable-for-its-alleged-union-busting/)<!-- GAME:END -->
+ - [Elden Ring: Nightreign DLC is hot dropping with new bosses and characters right before the end of the year](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-dlc-is-hot-dropping-with-new-bosses-and-characters-right-before-the-end-of-the-year/)
+ - [Octopath Traveler 0 demo out today on PS5 and PS4](https://blog.playstation.com/2025/11/11/octopath-traveler-0-demo-out-today-on-ps5-and-ps4/)
+ - [Elden Ring Nightreign The Forsaken Hollows DLC launches Dec 4 on PS5 &amp; PS4](https://blog.playstation.com/2025/11/11/elden-ring-nightreign-the-forsaken-hollows-dlc-launches-dec-4-on-ps5-ps4/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
