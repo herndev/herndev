@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israeli startup Wonderful, which helps companies manage customer-facing AI agents across voice, chat, and email, raised $100M at a $700M valuation &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/251111/p22#a251111p22)
- - [A Danish court sentences a man for sharing 347+ copyrighted nude scenes on Reddit featuring 100+ actresses and 25TB+ of pirated content via a torrent tracker &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/251111/p21#a251111p21)
- - [Swipe right to keep: Google One gets a dating app twist for file cleanup](https://www.androidauthority.com/google-one-swipe-ui-for-cleanup-3614669/)<!-- TECH:END -->
+ - [The LG G5 takes OLED performance to another level](https://www.theverge.com/tech/817807/lg-g5-oled-tv-review)
+ - [A UK judge jails a Chinese woman to 11 years and 8 months in prison for laundering bitcoin linked to a £5B investment scheme in which UK seized 61K bitcoin &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/251111/p26#a251111p26)
+ - [Lighter, which operates an Ethereum Layer 2 network and a decentralized exchange to support perpetual futures contracts, raised $68M at a ~$1.5B valuation &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251111/p25#a251111p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
