@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Slavek&#39;s purse in Kingdom Come: Deliverance 2](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-purse-location-slavek/)
- - [How to craft a plague mask in Kingdom Come: Deliverance 2](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-plague-mask-prevention/)
- - [An Expensive New Legend Of Zelda Lego Set Is Coming Next Year](https://kotaku.com/zelda-lego-ocarina-time-n64-ganon-price-date-2000642945)<!-- GAME:END -->
+ - [Now You See Me 3 review: Not the sequel we waited for](https://www.polygon.com/now-you-see-me-now-you-dont-review/)
+ - [Possessor&lpar;s&rpar; review: Hopelessly lost in a Metroidvania maze](https://www.polygon.com/possessors-review-heart-machine-metroidvania/)
+ - [&#39;Every game company is now using AI&#39;: Nexon&#39;s CEO defends the use of generative AI in game development in the wake of Arc Raiders&#39; controversy](https://www.pcgamer.com/games/third-person-shooter/every-game-company-is-now-using-ai-nexons-ceo-defends-the-use-of-generative-ai-in-game-development-in-the-wake-of-arc-raiders-controversy/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
