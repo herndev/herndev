@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Tim Berners-Lee on the future of web, AI, his decentralization startup Inrupt and its open-source web protocol Solid, his new memoir, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251111/p3#a251111p3)
- - [A major Chrome rival on Android just got a huge extension boost](https://www.androidauthority.com/microsoft-edge-chrome-extensions-upgrade-3614551/)
- - [Google Play Store brings a better way to manage apps across all your devices](https://www.androidauthority.com/google-play-store-uninstall-button-3614548/)<!-- TECH:END -->
+ - [Gmail is getting new labels to keep track of your bills and travel info &lpar;Updated: Screenshots&rpar;](https://www.androidauthority.com/gmail-bills-travel-labels-3607400/)
+ - [SoftBank sold its entire Nvidia stake, or ~32M shares, in October for $5.8B and part of its T-Mobile stake for $9.2B, boosting Q2 profit to $16.2B, above est. &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/251111/p4#a251111p4)
+ - [Q&amp;A with Tim Berners-Lee on the future of web, AI, his decentralization startup Inrupt and its open-source web protocol Solid, his new memoir, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251111/p3#a251111p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
