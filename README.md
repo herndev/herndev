@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile stores are rumored to have a ‘big’ meeting of their own later this month](https://www.androidauthority.com/t-mobile-stores-meeting-3614540/)
- - [1Password Coupon: Score a Free Trial in November](https://www.wired.com/story/1password-coupon/)
- - [Bengaluru-based digital lending startup Finnable raised about $28.19M in August 2025 co-led by Z47 and TVS Capital, bringing its total raised to about $60.9M &lpar;Alenjith K Johny/The Economic Times&rpar;](http://www.techmeme.com/251111/p1#a251111p1)<!-- TECH:END -->
+ - [Google Play Store brings a better way to manage apps across all your devices](https://www.androidauthority.com/google-play-store-uninstall-button-3614548/)
+ - [Hackers are abusing Find Hub to track and wipe Android devices](https://www.androidauthority.com/hackers-google-find-hub-wipe-devices-3614535/)
+ - [$50 Target Coupon &amp; Promo Codes | November 2025](https://www.wired.com/story/target-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
