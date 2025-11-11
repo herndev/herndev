@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Honoring the Story Behind the Upcoming Call of Duty Endowment Pack this Veterans Day](https://www.callofduty.com/blog/2025/11/call-of-duty-endowment-legacy-pack-veterans-day#new_tab)
- - [How to complete The Root of the Matter in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-the-root-of-the-matter-room-with-a-great-view/)
- - [Arc Raiders’ Hidden Bunker Mystery Might Not Be So Mysterious](https://kotaku.com/arc-raiders-hidden-bunker-data-download-trials-2000642994)<!-- GAME:END -->
+ - [Black Ops 7 design director on why ‘WTF moments’ make for bad Call of Duty maps](https://www.polygon.com/black-ops-7-interview-map-design-treyarch-interview/)
+ - [Play GTA Online for Free on Xbox Series X|S This Week with Free Play Days](https://news.xbox.com/en-us/2025/11/11/free-play-days-gta-online-xbox-series-xs/)
+ - [Welp, says Sony, sure looks like buying Bungie didn&#39;t work out](https://www.pcgamer.com/gaming-industry/welp-says-sony-sure-looks-like-buying-bungie-didnt-work-out/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
