@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Direct for the Super Mario Galaxy Movie announced](https://www.polygon.com/nintendo-direct-super-mario-galaxy-movie/)
- - [Diablo 4 In China Censored, Blood And Skeletons Removed](https://kotaku.com/diablo-4-china-censored-blood-skeletons-skulls-censorship-changes-removed-2000642581)
- - [Silksong&#39;s disastrous Chinese translation has received an official fan-made overhaul, and it&#39;s just been pushed live on PC with Patch 4](https://www.pcgamer.com/games/action/silksongs-disastrous-chinese-translation-has-received-an-official-fan-made-overhaul-and-its-just-been-pushed-live-on-pc-with-patch-4/)<!-- GAME:END -->
+ - [Critical Role Campaign 4 finally shows more of Aramán, and it&#39;s a lesson in worldbuilding](https://www.polygon.com/critical-role-campaign-4-episode-5-world-araman-npcs/)
+ - [Tavern Keeper&#39;s item design tool is so good one player made a tabletop D&amp;D set where you can actually read the stats on the character sheets](https://www.pcgamer.com/games/sim/tavern-keepers-item-design-tool-is-so-good-one-player-made-a-tabletop-d-and-d-set-where-you-can-actually-read-the-stats-on-the-character-sheets/)
+ - [PC Gamer&#39;s highest review scores of 2025](https://www.pcgamer.com/games/pc-gamers-highest-review-scores-of-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
