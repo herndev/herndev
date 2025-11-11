@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pyroclastic flow.](http://9gag.com/gag/awyPG6r)
- - ⏩ [Science be like](http://9gag.com/gag/ajPG3PR)
- - 👉 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)<!-- MEMES:END -->
+ - 💣 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
+ - ⏩ [This is actually genius](http://9gag.com/gag/aW4Peb4)
+ - 👉 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)<!-- MEMES:END -->
 
 ---
 
