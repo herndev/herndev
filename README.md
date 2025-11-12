@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now buy Sony&#39;s VR controllers for the Apple Vision Pro](https://appleinsider.com/articles/25/11/11/you-can-now-buy-sonys-vr-controllers-for-the-apple-vision-pro?utm_source=rss)
- - [Sony unveils a cheaper, Japan-only PlayStation 5 Digital Edition for ~$350, a ~25% discount, following a similar move by Nintendo with the Switch 2 &lpar;Financial Times&rpar;](http://www.techmeme.com/251111/p39#a251111p39)
- - [Google unveils new features for Pixel phones, including AI-powered notification summaries, notification prioritization, and AI photo edits in Messages &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251111/p38#a251111p38)<!-- TECH:END -->
+ - [Octopath Traveler 0 First Impressions: New Tricks, With a Little Less Soul](https://www.cnet.com/tech/gaming/octopath-traveler-0-first-impressions-new-tricks-with-a-little-less-soul/#ftag=CAD590a51e)
+ - [November Nights Are Dazzling With These Three Meteor Showers. How to Watch Like a Pro](https://www.cnet.com/science/space/november-nights-are-dazzling-with-these-three-meteor-showers-how-to-watch-like-a-pro/#ftag=CAD590a51e)
+ - [Elden Ring Nightreign DLC: The Forsaken Hollows Adds More Classes and Bosses](https://www.cnet.com/tech/gaming/elden-ring-nightreign-dlc-the-forsaken-hollows-adds-more-classes-and-bosses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
