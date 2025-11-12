@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [German chipmaker Infineon reports Q4 revenue up 1% YoY to €3.94B, vs. €3.91B est., a €231M net profit, and expects 2026 sales growth as AI demand keeps booming &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/251112/p5#a251112p5)
- - [Sources: software-focused PE firm Vista plans significant workforce cuts in the coming years as it uses AI to compile presentations, aggregate data, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/251112/p4#a251112p4)
- - [More Than Half of Holiday Tech Shoppers Are Counting on Black Friday Sales to Save Money, CNET Survey Finds](https://www.cnet.com/tech/mobile/more-than-half-of-holiday-tech-shoppers-are-counting-on-black-friday-sales-to-save-money-cnet-survey-finds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [IBM unveils two quantum computers, Loon and Nighthawk, that it says feature unprecedented qubit connectivity designs aiming to enable error-free computations &lpar;Karmela Padavic-Callaghan/New Scientist&rpar;](http://www.techmeme.com/251112/p10#a251112p10)
+ - [January or February? Even leakers can’t agree when the Galaxy S26 will launch](https://www.androidauthority.com/samsung-galaxy-s26-launch-timeline-leak-confusion-3614958/)
+ - [Amazon says it is rolling out a tougher approach to combat illegal sports streaming on Fire TV Stick devices, aiming to block apps that stream pirated content &lpar;Adam Leventhal/The Athletic&rpar;](http://www.techmeme.com/251112/p9#a251112p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
