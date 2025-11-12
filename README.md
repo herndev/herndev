@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tapo’s RV30 Max Plus is the only sub-$200 robovac worth buying](https://www.theverge.com/tech/819085/tapo-rv30-max-plus-robot-vacuum-deal-sale)
- - [Apple launches Digital ID in Apple Wallet, letting iPhone and Apple Watch owners in the US carry a copy of their passport, which can be used at TSA checkpoints &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251112/p30#a251112p30)
- - [Apple launches a Digital ID and says it&amp;#8217;ll be accepted by the TSA](https://www.theverge.com/news/819077/apple-digital-id-launch-tsa)<!-- TECH:END -->
+ - [JBL Charge 6 deal: Our favorite speaker drops to new record-low price!](https://www.androidauthority.com/jbl-charge-6-deal-2-3615058/)
+ - [Valve has stopped manufacturing its Index VR headset](https://www.theverge.com/news/817967/valve-index-vr-headset-stopped-manufacturing-frame)
+ - [How to use an iPhone to take pictures of the Aurora Borealis](https://appleinsider.com/inside/ios-26/tips/how-to-use-an-iphone-to-take-pictures-of-the-aurora-borealis?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
