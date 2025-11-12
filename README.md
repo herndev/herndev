@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elden Ring Nightreign&amp;#8217;s first big DLC arrives in December](https://www.theverge.com/news/818778/elden-ring-nightreign-forsaken-hollows-dlc-launch-date-price)
- - [Sony’s new PlayStation gaming monitor has a charging stand for the DualSense controller](https://www.theverge.com/news/818775/sony-playstation-5-ps5-monitor-qhd-dualsense-controller-charging-hook)
- - [Tel Aviv-based Sweet Security, which helps spot abnormal cloud infrastructure behavior, raised $75M led by Evolution Equity, taking its total funding to $120M &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/251112/p17#a251112p17)<!-- TECH:END -->
+ - [5 things I love about Amazon&amp;#8217;s new Echo Shows — and 3 things I don’t](https://www.theverge.com/tech/818814/amazon-echo-show-11-8-alexa-plus-hands-on)
+ - [The Verge’s 2025 holiday gift guide for teens](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)
+ - [Circle reports Q3 revenue up 66% YoY to $739.8M, USDC in Circulation at quarter end up 108% YoY to $73.7B, and net income up 202% YoY to $214M; CRCL drops 5%+ &lpar;Reuters&rpar;](http://www.techmeme.com/251112/p22#a251112p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
