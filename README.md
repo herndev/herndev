@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Is One Of The Most Clever Novelty Popcorn Buckets I’ve Seen](https://kotaku.com/now-you-see-me-now-you-dont-popcorn-bucket-magic-trick-2000643440)
- - [Alienware’s 2025 Aurora 16 Laptop With NVIDIA RTX 5060 Hits All-Time Low, Hundreds Off Before Black Friday](https://kotaku.com/alienware-takes-21-off-its-16-inch-aurora-laptop-kicking-off-black-friday-celebrations-early-2000643090)
- - [Arc Raiders Publisher Defends Generative AI And Says You Should Assume Everyone’s Using It](https://kotaku.com/arc-raiders-gen-ai-nexon-eurogamer-voices-2000643436)<!-- GAME:END -->
+ - [Backbone Pro​ -​ Xbox Edition: Take Your Gaming Anywhere](https://news.xbox.com/en-us/2025/11/12/backbone-pro-xbox-edition/)
+ - [Samsung Galaxy Tab A9+ Just Hit a Price Apple Would Never Offer, Selling Out Fast After 10K+ Units Sold](https://kotaku.com/snag-the-top-rated-11-inch-samsung-galaxy-tab-a9-for-under-150-with-this-deal-2000643098)
+ - [This new Mac Pro-inspired motherboard standard banishes all power cables for a single connector rated at over 2,000 W](https://www.pcgamer.com/hardware/motherboards/this-new-mac-pro-inspired-motherboard-standard-banishes-all-power-cables-for-a-single-connector-rated-at-over-2-000-w/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
