@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JBL Charge 6 deal: Our favorite speaker drops to new record-low price!](https://www.androidauthority.com/jbl-charge-6-deal-2-3615058/)
- - [Valve has stopped manufacturing its Index VR headset](https://www.theverge.com/news/817967/valve-index-vr-headset-stopped-manufacturing-frame)
- - [How to use an iPhone to take pictures of the Aurora Borealis](https://appleinsider.com/inside/ios-26/tips/how-to-use-an-iphone-to-take-pictures-of-the-aurora-borealis?utm_source=rss)<!-- TECH:END -->
+ - [Gemini Live’s native audio model helps it speak more like a human](https://www.androidauthority.com/gemini-live-native-audio-3615191/)
+ - [OpenAI rolls out GPT-5.1 Instant, &quot;warmer&quot; and &quot;more conversational&quot;, and GPT-5.1 Thinking, &quot;easier to understand and faster&quot;, starting with paid ChatGPT users &lpar;OpenAI&rpar;](http://www.techmeme.com/251112/p36#a251112p36)
+ - [How the Steam Frame compares to other VR headsets](https://www.theverge.com/news/818041/valve-steam-frame-vr-headsets-comparison)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
