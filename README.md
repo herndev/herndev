@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Passports on iPhone arrive with new Digital ID feature](https://appleinsider.com/articles/25/11/12/passports-on-iphone-arrive-with-new-digital-id-feature?utm_source=rss)
- - [B&amp;H&#39;s early Black Friday Apple deals start at just $25.99](https://appleinsider.com/articles/25/11/12/bhs-early-black-friday-apple-deals-start-at-just-2599?utm_source=rss)
- - [OWC&#39;s Helios 5S adds PCI-E to Thunderbolt 5 Macs](https://appleinsider.com/articles/25/11/12/owcs-helios-5s-adds-pci-e-to-thunderbolt-5-macs?utm_source=rss)<!-- TECH:END -->
+ - [Tapo’s RV30 Max Plus is the only sub-$200 robovac worth buying](https://www.theverge.com/tech/819085/tapo-rv30-max-plus-robot-vacuum-deal-sale)
+ - [Apple launches Digital ID in Apple Wallet, letting iPhone and Apple Watch owners in the US carry a copy of their passport, which can be used at TSA checkpoints &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251112/p30#a251112p30)
+ - [Apple launches a Digital ID and says it&amp;#8217;ll be accepted by the TSA](https://www.theverge.com/news/819077/apple-digital-id-launch-tsa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
