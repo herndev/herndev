@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoFi launches SoFi Crypto, saying it&#39;s the first nationally chartered bank in the US to offer crypto trading to consumers &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/251111/p37#a251111p37)
- - [Android 16 QPR2 Beta 3.3 has a fix for what ails your phone’s lock screen](https://www.androidauthority.com/android-16-qpr2-beta-3-3-3614864/)
- - [China says the December 2020 theft of 127,272 BTC, now worth ~$13B, from Chinese mining pool LuBian is likely a &quot;state-level hacker operation&quot; led by the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/251111/p36#a251111p36)<!-- TECH:END -->
+ - [You can now buy Sony&#39;s VR controllers for the Apple Vision Pro](https://appleinsider.com/articles/25/11/11/you-can-now-buy-sonys-vr-controllers-for-the-apple-vision-pro?utm_source=rss)
+ - [Sony unveils a cheaper, Japan-only PlayStation 5 Digital Edition for ~$350, a ~25% discount, following a similar move by Nintendo with the Switch 2 &lpar;Financial Times&rpar;](http://www.techmeme.com/251111/p39#a251111p39)
+ - [Google unveils new features for Pixel phones, including AI-powered notification summaries, notification prioritization, and AI photo edits in Messages &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251111/p38#a251111p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
