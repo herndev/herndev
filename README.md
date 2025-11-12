@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From the archives](http://9gag.com/gag/apRzz9p)
- - ⏩ [Niceee](http://9gag.com/gag/a4PmB0A)
- - 👉 [Rotten Tomatoes scores](http://9gag.com/gag/agm6bLr)<!-- MEMES:END -->
+ - 💣 [You died](http://9gag.com/gag/an780vV)
+ - ⏩ [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
+ - 👉 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)<!-- MEMES:END -->
 
 ---
 
