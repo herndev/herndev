@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EcoFlow Dumps Delta 2 Nearly Free on Amazon, 1800W Portable Power for Peanuts](https://kotaku.com/ecoflow-dumps-delta-2-nearly-free-on-amazon-1800w-portable-power-for-peanuts-2000643078)
- - [Octopath Traveler 0 preview: novelty over tradition](https://www.polygon.com/octopath-traveler-0-preview/)
- - [Dell Quietly Offloads 1TB i7 Laptop on Amazon &lpar;73% off&rpar;, While Official Site Stays Full Price](https://kotaku.com/dell-quietly-offloads-1tb-i7-laptop-on-amazon-73-off-while-official-site-stays-full-price-2000643068)<!-- GAME:END -->
+ - [My new, new favorite deep Windows lore: in 2004 Microsoft got caught shipping Windows XP with audio files made using cracked software](https://www.pcgamer.com/hardware/my-new-new-favorite-deep-windows-lore-in-2004-microsoft-got-caught-shipping-windows-xp-with-audio-files-made-using-cracked-software/)
+ - [This 50-Inch 4K Fire TV Suddenly Drops 40% Off, Amazon Clears Stock for Pocket Change](https://kotaku.com/this-50-inch-4k-fire-tv-suddenly-drops-40-off-amazon-clears-stock-for-pocket-change-2000643083)
+ - [EcoFlow Dumps Delta 2 Nearly Free on Amazon, 1800W Portable Power for Peanuts](https://kotaku.com/ecoflow-dumps-delta-2-nearly-free-on-amazon-1800w-portable-power-for-peanuts-2000643078)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
