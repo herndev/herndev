@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rotten Tomatoes scores](http://9gag.com/gag/agm6bLr)
- - ⏩ [Niceee](http://9gag.com/gag/a4PmB0A)
- - 👉 [Get it ma dudes](http://9gag.com/gag/axyQ8mD)<!-- MEMES:END -->
+ - 💣 [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
+ - ⏩ [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
+ - 👉 [That&#39;s what friends are for](http://9gag.com/gag/an788gz)<!-- MEMES:END -->
 
 ---
 
