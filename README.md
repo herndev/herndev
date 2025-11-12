@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring: Nightreign DLC is hot dropping with new bosses and characters right before the end of the year](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-dlc-is-hot-dropping-with-new-bosses-and-characters-right-before-the-end-of-the-year/)
- - [Octopath Traveler 0 demo out today on PS5 and PS4](https://blog.playstation.com/2025/11/11/octopath-traveler-0-demo-out-today-on-ps5-and-ps4/)
- - [Elden Ring Nightreign The Forsaken Hollows DLC launches Dec 4 on PS5 &amp; PS4](https://blog.playstation.com/2025/11/11/elden-ring-nightreign-the-forsaken-hollows-dlc-launches-dec-4-on-ps5-ps4/)<!-- GAME:END -->
+ - [LEGO Quietly Offloads Obi-Wan Kenobi’s Starfighter, Now Selling for Pocket Change on Amazon](https://kotaku.com/lego-quietly-offloads-obi-wan-kenobis-starfighter-now-selling-for-pocket-change-on-amazon-2000643056)
+ - [Sony Announces Cheaper PS5 That’s Only For Japan](https://kotaku.com/sony-announces-cheaper-ps5-thats-only-for-japan-2000643085)
+ - [State of Play Japan November 2025: all announcements](https://blog.playstation.com/2025/11/11/state-of-play-japan-november-2025-all-announcements/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
