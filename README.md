@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
- - ⏩ [That&#39;s what friends are for](http://9gag.com/gag/an788gz)
- - 👉 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)<!-- MEMES:END -->
+ - 💣 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
+ - ⏩ [This is actually genius](http://9gag.com/gag/aW4Peb4)
+ - 👉 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)<!-- MEMES:END -->
 
 ---
 
