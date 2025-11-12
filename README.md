@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D returns to the Forgotten Realms with Aabria Iyengar’s brutal one-shot](https://www.polygon.com/dnd-actual-play-forgotten-realms-books/)
- - [Star Wars: Master of Evil may finally settle a classic Darth Vader debate](https://www.polygon.com/star-wars-master-of-evil-darth-vader-obi-wan-kenobi/)
- - [Valve wants you to know that the Steam Frame is not the Index 2: &#39;we&#39;re trying to do something new with this&#39;](https://www.pcgamer.com/hardware/vr-hardware/steam-frame-not-index-2/)<!-- GAME:END -->
+ - [RuneScape fans have spoken: &#39;Treasure Hunter&#39; microtransactions will be scrapped in January as &#39;part of a wider transformation across Jagex&#39;](https://www.pcgamer.com/games/mmo/runescape-fans-have-spoken-treasure-hunter-microtransactions-will-be-scrapped-in-january-as-part-of-a-wider-transformation-across-jagex/)
+ - [Foveated streaming is the genius tech behind Valve&#39;s Steam Frame and its seamless wireless gaming performance](https://www.pcgamer.com/hardware/vr-hardware/foveated-streaming-genius-tech/)
+ - [Phil Spencer reminds everyone that Xbox is &#39;one of the largest publishers on Steam&#39; as he congratulates Valve on its new hardware with all the enthusiasm of a man paying his taxes](https://www.pcgamer.com/games/phil-spencer-reminds-everyone-that-xbox-is-one-of-the-largest-publishers-on-steam-as-he-congratulates-valve-on-its-new-hardware-with-all-the-enthusiasm-of-a-man-paying-his-taxes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
