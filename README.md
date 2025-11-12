@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big AI-infused changes are coming to Pixel notifications — are you onboard?](https://www.androidauthority.com/pixel-notification-organizer-open-thread-3614914/)
- - [HBO Max Promo Code: 50% Off | November 2025](https://www.wired.com/story/max-promo-code/)
- - [Foxconn reports Q3 revenue of $66.3B, in line with estimates, net profit up 17% YoY to $1.86B, vs. $1.63B exp., says it expects significant YoY growth in Q4 &lpar;CNBC&rpar;](http://www.techmeme.com/251112/p2#a251112p2)<!-- TECH:END -->
+ - [Kraken co-CEO Arjun Sethi criticizes UK crypto promotion rules requiring clear risk warnings, saying they hinder retail investors by slowing fund movement &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251112/p3#a251112p3)
+ - [Google Home just got faster and smarter, but you’ll need Public Preview to try it](https://www.androidauthority.com/google-home-app-big-update-public-preview-3614911/)
+ - [Best Internet Providers in New York, New York](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
