@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps’ new Power Saving Mode won’t be coming to most Android phones &lpar;Updated&rpar;](https://www.androidauthority.com/google-maps-power-saving-mode-pixel-10-3614181/)
- - [Menulog, acquired by Just Eat in 2015, plans to shut down in Australia on November 26, leaving Uber Eats and DoorDash as the country&#39;s main food delivery apps &lpar;Tegan Jones/SmartCompany&rpar;](http://www.techmeme.com/251111/p44#a251111p44)
- - [Pixel’s November security update brings bug fixes for camera, battery, and emergency calling](https://www.androidauthority.com/pixel-november-2025-security-update-3614888/)<!-- TECH:END -->
+ - [Hydrow Discount Code: Save Up to $150 This Month](https://www.wired.com/story/hydrow-discount-code/)
+ - [20% VistaPrint Coupon &amp; Promo Codes | November 2025](https://www.wired.com/story/vistaprint-coupon-code/)
+ - [This promising Switch emulator now plays more nicely with your Snapdragon 8 Elite phone](https://www.androidauthority.com/citron-switch-emulator-snapdragon-8-elite-3614894/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
