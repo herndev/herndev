@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
- - ⏩ [The situation in Italy](http://9gag.com/gag/aGy6qV7)
- - 👉 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)<!-- MEMES:END -->
+ - 💣 [The future is now](http://9gag.com/gag/a0ezGOL)
+ - ⏩ [Niceee](http://9gag.com/gag/a4PmB0A)
+ - 👉 [Rotten Tomatoes scores](http://9gag.com/gag/agm6bLr)<!-- MEMES:END -->
 
 ---
 
