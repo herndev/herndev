@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
- - ⏩ [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
- - 👉 [That&#39;s what friends are for](http://9gag.com/gag/an788gz)<!-- MEMES:END -->
+ - 💣 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
+ - ⏩ [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
+ - 👉 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)<!-- MEMES:END -->
 
 ---
 
