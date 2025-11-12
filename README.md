@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The PS5/Xbox console war transformed into a race to inferiority](https://www.polygon.com/low-end-consoles-ps5-series-x-anniversary/)
- - [An Arc Raiders player crawled for 15 minutes to an extraction while downed, all thanks to the best game-clutching MK3 augment](https://www.pcgamer.com/games/third-person-shooter/an-arc-raiders-player-crawled-for-15-minutes-to-an-extraction-while-downed-all-thanks-to-the-best-game-clutching-mk3-augment/)
- - [AMD confirms next-gen Zen 6 CPUs to launch in 2026 and &#39;Medusa&#39; APUs to launch in 2027](https://www.pcgamer.com/hardware/processors/amd-confirms-next-gen-zen-6-cpus-to-launch-in-2026-and-medusa-apus-to-launch-in-2027/)<!-- GAME:END -->
+ - [This Is One Of The Most Clever Novelty Popcorn Buckets I’ve Seen](https://kotaku.com/now-you-see-me-now-you-dont-popcorn-bucket-magic-trick-2000643440)
+ - [Alienware’s 2025 Aurora 16 Laptop With NVIDIA RTX 5060 Hits All-Time Low, Hundreds Off Before Black Friday](https://kotaku.com/alienware-takes-21-off-its-16-inch-aurora-laptop-kicking-off-black-friday-celebrations-early-2000643090)
+ - [Arc Raiders Publisher Defends Generative AI And Says You Should Assume Everyone’s Using It](https://kotaku.com/arc-raiders-gen-ai-nexon-eurogamer-voices-2000643436)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
