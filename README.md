@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [LEGO Quietly Offloads Obi-Wan Kenobi’s Starfighter, Now Selling for Pocket Change on Amazon](https://kotaku.com/lego-quietly-offloads-obi-wan-kenobis-starfighter-now-selling-for-pocket-change-on-amazon-2000643056)
- - [Sony Announces Cheaper PS5 That’s Only For Japan](https://kotaku.com/sony-announces-cheaper-ps5-thats-only-for-japan-2000643085)
- - [State of Play Japan November 2025: all announcements](https://blog.playstation.com/2025/11/11/state-of-play-japan-november-2025-all-announcements/)<!-- GAME:END -->
+ - [EcoFlow Dumps Delta 2 Nearly Free on Amazon, 1800W Portable Power for Peanuts](https://kotaku.com/ecoflow-dumps-delta-2-nearly-free-on-amazon-1800w-portable-power-for-peanuts-2000643078)
+ - [Octopath Traveler 0 preview: novelty over tradition](https://www.polygon.com/octopath-traveler-0-preview/)
+ - [Dell Quietly Offloads 1TB i7 Laptop on Amazon &lpar;73% off&rpar;, While Official Site Stays Full Price](https://kotaku.com/dell-quietly-offloads-1tb-i7-laptop-on-amazon-73-off-while-official-site-stays-full-price-2000643068)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
