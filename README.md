@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amazonian](http://9gag.com/gag/agm6pDg)
- - ⏩ [Get it ma dudes](http://9gag.com/gag/axyQ8mD)
- - 👉 [Yes, yes moooooor!](http://9gag.com/gag/a87Q9b6)<!-- MEMES:END -->
+ - 💣 [Can&#39;t a bro travel and eat a Rolex without getting arrested](http://9gag.com/gag/azxovKK)
+ - ⏩ [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
+ - 👉 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)<!-- MEMES:END -->
 
 ---
 
