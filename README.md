@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Maps’ new Power Saving Mode won’t be coming to most Android phones &lpar;Updated&rpar;](https://www.androidauthority.com/google-maps-power-saving-mode-pixel-10-3614181/)
  - [Menulog, acquired by Just Eat in 2015, plans to shut down in Australia on November 26, leaving Uber Eats and DoorDash as the country&#39;s main food delivery apps &lpar;Tegan Jones/SmartCompany&rpar;](http://www.techmeme.com/251111/p44#a251111p44)
- - [Pixel’s November security update brings bug fixes for camera, battery, and emergency calling](https://www.androidauthority.com/pixel-november-2025-security-update-3614888/)
- - [South Korea&#39;s KT Corp. launches a sovereign cloud for Korean enterprises built on Azure, with encrypted in-memory computing and strict local data governance &lpar;Jie Ye-eun/The Korea Herald&rpar;](http://www.techmeme.com/251111/p43#a251111p43)<!-- TECH:END -->
+ - [Pixel’s November security update brings bug fixes for camera, battery, and emergency calling](https://www.androidauthority.com/pixel-november-2025-security-update-3614888/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
