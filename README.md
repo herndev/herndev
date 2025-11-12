@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 and Xbox are fighting to lock players in for life](https://www.polygon.com/ps5-and-xbox-series-x-gaming-ecosystem/)
- - [Crucial BX500 SSD Hits Record Low at $0.07 per GB, Making Storage Feel Practically Free](https://kotaku.com/crucial-bx500-internal-ssd-drops-by-more-than-20-ahead-of-black-friday-2000643470)
- - [Orbital Pathfinder review](https://www.pcgamer.com/hardware/gaming-mice/orbital-pathfinder-review/)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 7 Zombies Is Tapping Into Its Past to Guide Its Future](https://news.xbox.com/en-us/2025/11/12/black-ops-7-zombies-tapping-into-past-guide-its-future/)
+ - [Exclusive: Watch a magical clip from a new animated movie now in theaters](https://www.polygon.com/little-amelie-character-of-rain-exclusive-clip-animated-family-movie/)
+ - [How to complete Power Out in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-power-out/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
