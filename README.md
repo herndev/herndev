@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belkin UltraCharge Pro review: Apple exclusive 25W charging for iPhone &amp; Apple Watch](https://appleinsider.com/articles/25/11/12/belkin-ultracharge-pro-review-apple-exclusive-25w-charging-for-iphone-apple-watch?utm_source=rss)
- - [Google’s new Cameyo trick lets Chromebooks play nice with Windows apps](https://www.androidauthority.com/google-cameyo-chromeos-run-windows-apps-3615162/)
- - [Cisco reports Q1 revenue up 8% YoY to $14.88B, vs. $14.77B est., net income up 5% to $2.86B, and forecasts Q2 revenue above est.; CSCO jumps 5%+ after hours &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251112/p41#a251112p41)<!-- TECH:END -->
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+ - [No more guessing: Google Maps can now tell you if a Tesla Supercharger is available](https://www.androidauthority.com/google-maps-tesla-supercharger-live-availability-3615270/)
+ - [Former Twitter CEO Parag Agrawal&#39;s Parallel Web Systems, which is building tools for AI agents to search the web, raised a $100M Series A at a $740M valuation &lpar;Tom Dotan/Newcomer&rpar;](http://www.techmeme.com/251112/p42#a251112p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
