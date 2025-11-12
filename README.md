@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nova Launcher just got another update despite being ‘dead’](https://www.androidauthority.com/nova-launcher-8-1-6-update-3614883/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 12, #415](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-12-415/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Nov. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-nov-12/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Menulog, acquired by Just Eat in 2015, plans to shut down in Australia on November 26, leaving Uber Eats and DoorDash as the country&#39;s main food delivery apps &lpar;Tegan Jones/SmartCompany&rpar;](http://www.techmeme.com/251111/p44#a251111p44)
+ - [Pixel’s November security update brings bug fixes for camera, battery, and emergency calling](https://www.androidauthority.com/pixel-november-2025-security-update-3614888/)
+ - [South Korea&#39;s KT Corp. launches a sovereign cloud for Korean enterprises built on Azure, with encrypted in-memory computing and strict local data governance &lpar;Jie Ye-eun/The Korea Herald&rpar;](http://www.techmeme.com/251111/p43#a251111p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
