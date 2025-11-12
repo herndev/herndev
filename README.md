@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Live’s native audio model helps it speak more like a human](https://www.androidauthority.com/gemini-live-native-audio-3615191/)
- - [OpenAI rolls out GPT-5.1 Instant, &quot;warmer&quot; and &quot;more conversational&quot;, and GPT-5.1 Thinking, &quot;easier to understand and faster&quot;, starting with paid ChatGPT users &lpar;OpenAI&rpar;](http://www.techmeme.com/251112/p36#a251112p36)
- - [How the Steam Frame compares to other VR headsets](https://www.theverge.com/news/818041/valve-steam-frame-vr-headsets-comparison)<!-- TECH:END -->
+ - [Energy and tech news at UN climate negotiations in Brazil](https://www.theverge.com/news/819192/united-nations-climate-change-conference-brazil-updates)
+ - [Valve returns to the living room with new Steam hardware lineup, and we’re already drooling](https://www.androidauthority.com/new-valve-steam-hardware-3615158/)
+ - [Valve&#39;s Steam Frame features a replaceable battery strap, dual 2160×2160 LCD panels, a Snapdragon 8 Gen 3 chipset, 16GB of RAM, a microSD slot, and weighs 440g &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/251112/p38#a251112p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
