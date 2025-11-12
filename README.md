@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo is hitting the highway — but can it handle the speed?](https://www.theverge.com/news/818552/waymo-highway-california-arizona-robotaxi-challenge)
- - [The ultralight gummy bear power bank just got yanked from Amazon](https://www.theverge.com/news/818906/haribo-gummy-bear-power-bank-amazon-removed)
- - [Anker Laptop Charger 140W drops to new record-low price &lpar;It’s the one I use!&rpar;](https://www.androidauthority.com/anker-laptop-charger-140w-deal-2-3615061/)<!-- TECH:END -->
+ - [Passports on iPhone arrive with new Digital ID feature](https://appleinsider.com/articles/25/11/12/passports-on-iphone-arrive-with-new-digital-id-feature?utm_source=rss)
+ - [B&amp;H&#39;s early Black Friday Apple deals start at just $25.99](https://appleinsider.com/articles/25/11/12/bhs-early-black-friday-apple-deals-start-at-just-2599?utm_source=rss)
+ - [OWC&#39;s Helios 5S adds PCI-E to Thunderbolt 5 Macs](https://appleinsider.com/articles/25/11/12/owcs-helios-5s-adds-pci-e-to-thunderbolt-5-macs?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
