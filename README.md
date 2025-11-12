@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Home Depot Black Friday Deals for 2025](https://www.wired.com/story/black-friday-home-depot-deals-2025-update/)
- - [Insta360’s new accessories turn its Ace Pro 2 into an instant camera](https://www.theverge.com/news/817622/insta360-ace-pro-2-action-camera-pocket-printer-xplorer-grip-pro-kit)
- - [Boston-based Teradar, which aims to launch a solid-state sensor for autonomous cars in 2028 that it says can outperform lidar and radar, raised a $150M Series B &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/251112/p15#a251112p15)<!-- TECH:END -->
+ - [Elden Ring Nightreign&amp;#8217;s first big DLC arrives in December](https://www.theverge.com/news/818778/elden-ring-nightreign-forsaken-hollows-dlc-launch-date-price)
+ - [Sony’s new PlayStation gaming monitor has a charging stand for the DualSense controller](https://www.theverge.com/news/818775/sony-playstation-5-ps5-monitor-qhd-dualsense-controller-charging-hook)
+ - [Tel Aviv-based Sweet Security, which helps spot abnormal cloud infrastructure behavior, raised $75M led by Evolution Equity, taking its total funding to $120M &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/251112/p17#a251112p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
