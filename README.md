@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Energy and tech news at UN climate negotiations in Brazil](https://www.theverge.com/news/819192/united-nations-climate-change-conference-brazil-updates)
- - [Valve returns to the living room with new Steam hardware lineup, and we’re already drooling](https://www.androidauthority.com/new-valve-steam-hardware-3615158/)
- - [Valve&#39;s Steam Frame features a replaceable battery strap, dual 2160×2160 LCD panels, a Snapdragon 8 Gen 3 chipset, 16GB of RAM, a microSD slot, and weighs 440g &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/251112/p38#a251112p38)<!-- TECH:END -->
+ - [Belkin UltraCharge Pro review: Apple exclusive 25W charging for iPhone &amp; Apple Watch](https://appleinsider.com/articles/25/11/12/belkin-ultracharge-pro-review-apple-exclusive-25w-charging-for-iphone-apple-watch?utm_source=rss)
+ - [Google’s new Cameyo trick lets Chromebooks play nice with Windows apps](https://www.androidauthority.com/google-cameyo-chromeos-run-windows-apps-3615162/)
+ - [Cisco reports Q1 revenue up 8% YoY to $14.88B, vs. $14.77B est., net income up 5% to $2.86B, and forecasts Q2 revenue above est.; CSCO jumps 5%+ after hours &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251112/p41#a251112p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
