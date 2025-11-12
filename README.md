@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Backbone Pro​ -​ Xbox Edition: Take Your Gaming Anywhere](https://news.xbox.com/en-us/2025/11/12/backbone-pro-xbox-edition/)
- - [Samsung Galaxy Tab A9+ Just Hit a Price Apple Would Never Offer, Selling Out Fast After 10K+ Units Sold](https://kotaku.com/snag-the-top-rated-11-inch-samsung-galaxy-tab-a9-for-under-150-with-this-deal-2000643098)
- - [This new Mac Pro-inspired motherboard standard banishes all power cables for a single connector rated at over 2,000 W](https://www.pcgamer.com/hardware/motherboards/this-new-mac-pro-inspired-motherboard-standard-banishes-all-power-cables-for-a-single-connector-rated-at-over-2-000-w/)<!-- GAME:END -->
+ - [Avatar: Fire And Ash Is Over Three Hours Long, So Go To The Bathroom First](https://kotaku.com/avatar-3-fire-ash-runtime-revealed-three-hours-long-sega-outer-worlds-2-2000643471)
+ - [New Octopath Traveler 0 Demo Available Today – What Can You Expect?](https://news.xbox.com/en-us/2025/11/12/octopath-traveler-0-demo-available-today/)
+ - [Hang On, Why Is Mario Being Such A Jerk In The Super Mario Galaxy Movie‘s Trailer?](https://kotaku.com/super-mario-galaxy-trailer-bowser-smug-jerk-2000643462)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
