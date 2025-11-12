@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait, you mean I wasn&#39;t supposed to put these in the microwave this whole time](http://9gag.com/gag/ajPGjbw)
- - ⏩ [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
- - 👉 [Women](http://9gag.com/gag/aMVD68X)<!-- MEMES:END -->
+ - 💣 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
+ - ⏩ [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)
+ - 👉 [The situation in Italy](http://9gag.com/gag/aGy6qV7)<!-- MEMES:END -->
 
 ---
 
