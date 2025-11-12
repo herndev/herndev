@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kraken co-CEO Arjun Sethi criticizes UK crypto promotion rules requiring clear risk warnings, saying they hinder retail investors by slowing fund movement &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251112/p3#a251112p3)
- - [Google Home just got faster and smarter, but you’ll need Public Preview to try it](https://www.androidauthority.com/google-home-app-big-update-public-preview-3614911/)
- - [Best Internet Providers in New York, New York](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is trying to take down a group sending you all those spammy texts](https://www.theverge.com/news/818554/google-lighthouse-text-spam-lawsuit)
+ - [Alien is coming back to Earth for a second season](https://www.theverge.com/news/818677/alien-earth-season-2-renewal-noah-hawley-london)
+ - [Snapdragon or Exynos Galaxy S26? Here’s what you’ll get in your market.](https://www.androidauthority.com/samsung-galaxy-s26-exynos-snapdragon-countries-leak-3614927/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
