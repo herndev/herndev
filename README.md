@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RuneScape fans have spoken: &#39;Treasure Hunter&#39; microtransactions will be scrapped in January as &#39;part of a wider transformation across Jagex&#39;](https://www.pcgamer.com/games/mmo/runescape-fans-have-spoken-treasure-hunter-microtransactions-will-be-scrapped-in-january-as-part-of-a-wider-transformation-across-jagex/)
- - [Foveated streaming is the genius tech behind Valve&#39;s Steam Frame and its seamless wireless gaming performance](https://www.pcgamer.com/hardware/vr-hardware/foveated-streaming-genius-tech/)
- - [Phil Spencer reminds everyone that Xbox is &#39;one of the largest publishers on Steam&#39; as he congratulates Valve on its new hardware with all the enthusiasm of a man paying his taxes](https://www.pcgamer.com/games/phil-spencer-reminds-everyone-that-xbox-is-one-of-the-largest-publishers-on-steam-as-he-congratulates-valve-on-its-new-hardware-with-all-the-enthusiasm-of-a-man-paying-his-taxes/)<!-- GAME:END -->
+ - [The Hoarder’s Guide To Managing Your Arc Raiders Inventory](https://kotaku.com/arc-raiders-inventory-full-stash-loadout-crafting-cheat-sheet-2000643629)
+ - [Rockstar faces legal action from UK union after firing more than 30 employees last week: &#39;We are confident that what we’ve seen here is plain and simple union busting&#39;](https://www.pcgamer.com/gaming-industry/rockstar-faces-legal-action-from-uk-union-after-firing-more-than-30-employees-last-week-we-are-confident-that-what-weve-seen-here-is-plain-and-simple-union-busting/)
+ - [Steam Frame already sounds like the VR headset someone should&#39;ve made years ago](https://www.polygon.com/steam-frame-impressions-roundup/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
