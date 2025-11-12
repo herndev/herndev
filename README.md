@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony&#39;s new &#39;PlayStation&#39; gaming monitor is a relatively unexciting 27-inch 1440p model but it does have a DualSense charging hook](https://www.pcgamer.com/hardware/gaming-monitors/sonys-new-playstation-gaming-monitor-is-a-relatively-unexciting-27-inch-1440p-model-but-it-does-have-a-dualsense-charging-hook/)
- - [Coffee Talk will open the doors to its next instalment on March 5, taking us to the series&#39; most exciting location yet](https://www.pcgamer.com/games/sim/coffee-talk-will-open-the-doors-to-its-next-instalment-on-march-5-taking-us-to-the-series-most-exciting-location-yet/)
- - [Where to find light bulbs in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-light-bulb-locations/)<!-- GAME:END -->
+ - [The PS5/Xbox console war transformed into a race to inferiority](https://www.polygon.com/low-end-consoles-ps5-series-x-anniversary/)
+ - [An Arc Raiders player crawled for 15 minutes to an extraction while downed, all thanks to the best game-clutching MK3 augment](https://www.pcgamer.com/games/third-person-shooter/an-arc-raiders-player-crawled-for-15-minutes-to-an-extraction-while-downed-all-thanks-to-the-best-game-clutching-mk3-augment/)
+ - [AMD confirms next-gen Zen 6 CPUs to launch in 2026 and &#39;Medusa&#39; APUs to launch in 2027](https://www.pcgamer.com/hardware/processors/amd-confirms-next-gen-zen-6-cpus-to-launch-in-2026-and-medusa-apus-to-launch-in-2027/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
