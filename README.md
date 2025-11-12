@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Black Ops 7 Zombies Is Tapping Into Its Past to Guide Its Future](https://news.xbox.com/en-us/2025/11/12/black-ops-7-zombies-tapping-into-past-guide-its-future/)
- - [Exclusive: Watch a magical clip from a new animated movie now in theaters](https://www.polygon.com/little-amelie-character-of-rain-exclusive-clip-animated-family-movie/)
- - [How to complete Power Out in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-power-out/)<!-- GAME:END -->
+ - [D&amp;D returns to the Forgotten Realms with Aabria Iyengar’s brutal one-shot](https://www.polygon.com/dnd-actual-play-forgotten-realms-books/)
+ - [Star Wars: Master of Evil may finally settle a classic Darth Vader debate](https://www.polygon.com/star-wars-master-of-evil-darth-vader-obi-wan-kenobi/)
+ - [Valve wants you to know that the Steam Frame is not the Index 2: &#39;we&#39;re trying to do something new with this&#39;](https://www.pcgamer.com/hardware/vr-hardware/steam-frame-not-index-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
