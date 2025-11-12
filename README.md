@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar: Fire And Ash Is Over Three Hours Long, So Go To The Bathroom First](https://kotaku.com/avatar-3-fire-ash-runtime-revealed-three-hours-long-sega-outer-worlds-2-2000643471)
- - [New Octopath Traveler 0 Demo Available Today – What Can You Expect?](https://news.xbox.com/en-us/2025/11/12/octopath-traveler-0-demo-available-today/)
- - [Hang On, Why Is Mario Being Such A Jerk In The Super Mario Galaxy Movie‘s Trailer?](https://kotaku.com/super-mario-galaxy-trailer-bowser-smug-jerk-2000643462)<!-- GAME:END -->
+ - [PS5 and Xbox are fighting to lock players in for life](https://www.polygon.com/ps5-and-xbox-series-x-gaming-ecosystem/)
+ - [Crucial BX500 SSD Hits Record Low at $0.07 per GB, Making Storage Feel Practically Free](https://kotaku.com/crucial-bx500-internal-ssd-drops-by-more-than-20-ahead-of-black-friday-2000643470)
+ - [Orbital Pathfinder review](https://www.pcgamer.com/hardware/gaming-mice/orbital-pathfinder-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
