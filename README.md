@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 things I love about Amazon&amp;#8217;s new Echo Shows — and 3 things I don’t](https://www.theverge.com/tech/818814/amazon-echo-show-11-8-alexa-plus-hands-on)
- - [The Verge’s 2025 holiday gift guide for teens](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)
- - [Circle reports Q3 revenue up 66% YoY to $739.8M, USDC in Circulation at quarter end up 108% YoY to $73.7B, and net income up 202% YoY to $214M; CRCL drops 5%+ &lpar;Reuters&rpar;](http://www.techmeme.com/251112/p22#a251112p22)<!-- TECH:END -->
+ - [Waymo is hitting the highway — but can it handle the speed?](https://www.theverge.com/news/818552/waymo-highway-california-arizona-robotaxi-challenge)
+ - [The ultralight gummy bear power bank just got yanked from Amazon](https://www.theverge.com/news/818906/haribo-gummy-bear-power-bank-amazon-removed)
+ - [Anker Laptop Charger 140W drops to new record-low price &lpar;It’s the one I use!&rpar;](https://www.androidauthority.com/anker-laptop-charger-140w-deal-2-3615061/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
