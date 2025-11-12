@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Alien Earth renewed for season 2](https://www.polygon.com/alien-earth-season-2-renewed/)
  - [My new, new favorite deep Windows lore: in 2004 Microsoft got caught shipping Windows XP with audio files made using cracked software](https://www.pcgamer.com/hardware/my-new-new-favorite-deep-windows-lore-in-2004-microsoft-got-caught-shipping-windows-xp-with-audio-files-made-using-cracked-software/)
- - [This 50-Inch 4K Fire TV Suddenly Drops 40% Off, Amazon Clears Stock for Pocket Change](https://kotaku.com/this-50-inch-4k-fire-tv-suddenly-drops-40-off-amazon-clears-stock-for-pocket-change-2000643083)
- - [EcoFlow Dumps Delta 2 Nearly Free on Amazon, 1800W Portable Power for Peanuts](https://kotaku.com/ecoflow-dumps-delta-2-nearly-free-on-amazon-1800w-portable-power-for-peanuts-2000643078)<!-- GAME:END -->
+ - [This 50-Inch 4K Fire TV Suddenly Drops 40% Off, Amazon Clears Stock for Pocket Change](https://kotaku.com/this-50-inch-4k-fire-tv-suddenly-drops-40-off-amazon-clears-stock-for-pocket-change-2000643083)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
