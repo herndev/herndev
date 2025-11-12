@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alien Earth renewed for season 2](https://www.polygon.com/alien-earth-season-2-renewed/)
- - [My new, new favorite deep Windows lore: in 2004 Microsoft got caught shipping Windows XP with audio files made using cracked software](https://www.pcgamer.com/hardware/my-new-new-favorite-deep-windows-lore-in-2004-microsoft-got-caught-shipping-windows-xp-with-audio-files-made-using-cracked-software/)
- - [This 50-Inch 4K Fire TV Suddenly Drops 40% Off, Amazon Clears Stock for Pocket Change](https://kotaku.com/this-50-inch-4k-fire-tv-suddenly-drops-40-off-amazon-clears-stock-for-pocket-change-2000643083)<!-- GAME:END -->
+ - [Sony&#39;s new &#39;PlayStation&#39; gaming monitor is a relatively unexciting 27-inch 1440p model but it does have a DualSense charging hook](https://www.pcgamer.com/hardware/gaming-monitors/sonys-new-playstation-gaming-monitor-is-a-relatively-unexciting-27-inch-1440p-model-but-it-does-have-a-dualsense-charging-hook/)
+ - [Coffee Talk will open the doors to its next instalment on March 5, taking us to the series&#39; most exciting location yet](https://www.pcgamer.com/games/sim/coffee-talk-will-open-the-doors-to-its-next-instalment-on-march-5-taking-us-to-the-series-most-exciting-location-yet/)
+ - [Where to find light bulbs in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-light-bulb-locations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
