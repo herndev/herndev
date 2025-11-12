@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
- - ⏩ [The situation in Italy](http://9gag.com/gag/aGy6qV7)
- - 👉 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)<!-- MEMES:END -->
+ - ⏩ [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
+ - 👉 [The situation in Italy](http://9gag.com/gag/aGy6qV7)<!-- MEMES:END -->
 
 ---
 
