@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Hoarder’s Guide To Managing Your Arc Raiders Inventory](https://kotaku.com/arc-raiders-inventory-full-stash-loadout-crafting-cheat-sheet-2000643629)
- - [Rockstar faces legal action from UK union after firing more than 30 employees last week: &#39;We are confident that what we’ve seen here is plain and simple union busting&#39;](https://www.pcgamer.com/gaming-industry/rockstar-faces-legal-action-from-uk-union-after-firing-more-than-30-employees-last-week-we-are-confident-that-what-weve-seen-here-is-plain-and-simple-union-busting/)
- - [Steam Frame already sounds like the VR headset someone should&#39;ve made years ago](https://www.polygon.com/steam-frame-impressions-roundup/)<!-- GAME:END -->
+ - [Devs Behind This Year’s Big Superhero Game Regret Cutting Sex Scenes](https://kotaku.com/devs-dispatch-telltale-superhero-game-cut-sex-scenes-romance-2000643646)
+ - [Can you guess the dog? Sink your teeth into our canine quiz!](https://www.pcgamer.com/games/can-you-guess-the-dog-sink-your-teeth-into-our-canine-quiz/)
+ - [How to collect dangerous objects in a donut storm in Fortnite](https://www.polygon.com/fortnite-collect-dangerous-objects-donut-storm/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
