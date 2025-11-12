@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM unveils two quantum computers, Loon and Nighthawk, that it says feature unprecedented qubit connectivity designs aiming to enable error-free computations &lpar;Karmela Padavic-Callaghan/New Scientist&rpar;](http://www.techmeme.com/251112/p10#a251112p10)
- - [January or February? Even leakers can’t agree when the Galaxy S26 will launch](https://www.androidauthority.com/samsung-galaxy-s26-launch-timeline-leak-confusion-3614958/)
- - [Amazon says it is rolling out a tougher approach to combat illegal sports streaming on Fire TV Stick devices, aiming to block apps that stream pirated content &lpar;Adam Leventhal/The Athletic&rpar;](http://www.techmeme.com/251112/p9#a251112p9)<!-- TECH:END -->
+ - [Best Home Depot Black Friday Deals for 2025](https://www.wired.com/story/black-friday-home-depot-deals-2025-update/)
+ - [Insta360’s new accessories turn its Ace Pro 2 into an instant camera](https://www.theverge.com/news/817622/insta360-ace-pro-2-action-camera-pocket-printer-xplorer-grip-pro-kit)
+ - [Boston-based Teradar, which aims to launch a solid-state sensor for autonomous cars in 2028 that it says can outperform lidar and radar, raised a $150M Series B &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/251112/p15#a251112p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
