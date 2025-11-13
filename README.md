@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill f just became way easier as a new patch adds casual difficulty, sped up NG+ runs, and reduces forced combat areas](https://www.pcgamer.com/games/horror/silent-hill-f-just-became-way-easier-as-a-new-patch-adds-casual-difficulty-sped-up-ng-runs-and-reduces-forced-combat-areas/)
- - [Apple&#39;s $230 iPhone-carrying &#39;sock&#39; looks like something you could buy from an Etsy seller for $20, and it&#39;s already splitting the room like a busted seam](https://www.pcgamer.com/hardware/apples-usd230-iphone-carrying-sock-looks-like-something-you-could-buy-from-an-etsy-seller-for-usd20-and-its-already-splitting-the-room-like-a-busted-seam/)
- - [You can beat Arc Raiders&#39; first event in just 45 clicks, and I wish I could tell you that was good](https://www.pcgamer.com/games/third-person-shooter/you-can-beat-arc-raiders-first-event-in-just-45-clicks-and-i-wish-i-could-tell-you-that-was-good/)<!-- GAME:END -->
+ - [Bethesda Promises Patches To Fix The Hot Mess Of Fallout 4‘s Anniversary Edition](https://kotaku.com/fallout-4-patch-anniversary-edition-hot-fix-bethesda-2000643952)
+ - [Blade II may be sillier than Guillermo del Toro&#39;s Frankenstein, but it still makes a good companion piece](https://www.polygon.com/blade-ii-frankenstein-guillermo-del-toro/)
+ - [How to complete Prescriptions of the Past in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-prescriptions-of-the-past/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
