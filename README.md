@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polymarket starts live testing its US exchange, quietly opening to some users, and says it&#39;s fully functional with select users betting on real contracts &lpar;Denitsa Tsekova/Bloomberg&rpar;](http://www.techmeme.com/251113/p2#a251113p2)
- - [Here’s why your Pixel hasn’t received all the new features from the November Pixel Drop yet](https://www.androidauthority.com/google-pixel-drop-slow-rollout-explanation-3615350/)
- - [A deep dive into Microsoft&#39;s AI strategy, including OpenAI, data center investments, neocloud renting, GitHub Copilot, MAI models, and the Maia chip &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/251113/p1#a251113p1)<!-- TECH:END -->
+ - [KitchenAid Promo Code: 50% Off in November 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [20% Off Sephora Promo Code](https://www.wired.com/story/sephora-promo-code/)
+ - [Valve just opened the door to Android games on Steam](https://www.androidauthority.com/valve-android-games-steam-3615355/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
