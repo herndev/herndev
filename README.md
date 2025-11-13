@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Webcams &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-webcams/)
- - [Save up to $250 on smartwatches as the Garmin Black Friday sale goes live!](https://www.androidauthority.com/garmin-smartwatches-black-friday-3615279/)
- - [A look at Indian messaging app Arattai, which officials are backing as a domestic WhatsApp alternative; Arattai maker Zoho says it had 350K sign-ups in October &lpar;Financial Times&rpar;](http://www.techmeme.com/251113/p20#a251113p20)<!-- TECH:END -->
+ - [Apple’s Godzilla show Monarch is back in February](https://www.theverge.com/entertainment/819523/monarch-legacy-of-monsters-season-2-apple-tv-date-trailer)
+ - [Claim that iPhone 16e &#39;failed&#39; Apple&#39;s cheaper lineup plan is ridiculous](https://appleinsider.com/articles/25/11/13/claim-that-iphone-16e-failed-apples-cheaper-lineup-plan-is-ridiculous?utm_source=rss)
+ - [Apple is trying to get permission to appeal UK $2 billion App Store ruling](https://appleinsider.com/articles/25/11/13/apple-is-trying-to-get-permission-to-appeal-uk-2-billion-app-store-ruling?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
