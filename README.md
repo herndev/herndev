@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says all NotebookLM users will get access to Deep Research in the service within a week; users get to choose between two research styles: fast or deep &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/251113/p39#a251113p39)
- - [Stewart Rhodes Relaunched the Oath Keepers. Even Old Oath Keepers Don&#39;t Care](https://www.wired.com/story/stewart-rhodes-relaunched-oath-keepers-militia/)
- - [Google strikes back at scammers enabling those fake ‘stuck package’ texts](https://www.androidauthority.com/google-china-phishing-lawsuit-3615649/)<!-- TECH:END -->
+ - [Where have all the TV cameras gone?](https://www.theverge.com/column/819878/smart-tv-cameras)
+ - [Android 17 is building a new Contacts Picker to keep your address book private](https://www.androidauthority.com/android-17-contacts-picker-rumor-3615741/)
+ - [ESPN isn’t back on YouTube TV yet, but there’s a new sports channel on the way](https://www.androidauthority.com/nbc-sports-network-3615712/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
