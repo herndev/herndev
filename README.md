@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Witnessing this incredible talent is truly inspiring](http://9gag.com/gag/aoyAo02)
- - ⏩ [Yes, yes moooooor!](http://9gag.com/gag/a87Q9b6)
- - 👉 [I am not sure about what&#39;s next](http://9gag.com/gag/aVv4rNK)<!-- MEMES:END -->
+ - 💣 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
+ - ⏩ [Sheesh...](http://9gag.com/gag/azxovBZ)
+ - 👉 [Indian Street Ice Cream....](http://9gag.com/gag/aO8AO3N)<!-- MEMES:END -->
 
 ---
 
