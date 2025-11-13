@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Over half of Arc Raiders players on Steam have barely engaged with PvP, and 19% have never even killed another player](https://www.pcgamer.com/games/third-person-shooter/over-half-of-arc-raiders-players-on-steam-have-barely-engaged-with-pvp-and-19-percent-have-never-even-killed-another-player/)
- - [This Performance Beast From Dell Is 70% Off on Amazon, Now Priced Like a Basic Mid-Range Machine](https://kotaku.com/this-performance-beast-from-dell-is-70-off-on-amazon-now-priced-like-a-basic-mid-range-machine-2000643568)
- - [The Super Mario Galaxy Movie trailer is full of fun Easter eggs](https://www.polygon.com/super-mario-galaxy-movie-trailer-easter-eggs/)<!-- GAME:END -->
+ - [Galaxy Buds 3 Pro With AI Features Are Going for Pennies, Amazon Sets a New All-Time Low](https://kotaku.com/galaxy-buds-3-pro-with-ai-features-are-going-for-pennies-amazon-sets-a-new-all-time-low-2000643596)
+ - [Looks like it&#39;s Tencent&#39;s turn to start turning off the money faucet for Western studios, as Bloodhunt developer Sharkmob says layoffs are coming](https://www.pcgamer.com/gaming-industry/looks-like-its-tencents-turn-to-start-turning-off-the-money-faucet-for-western-studios-as-bloodhunt-developer-sharkmob-says-layoffs-are-coming/)
+ - [Over half of Arc Raiders players on Steam have barely engaged with PvP, and 19% have never even killed another player](https://www.pcgamer.com/games/third-person-shooter/over-half-of-arc-raiders-players-on-steam-have-barely-engaged-with-pvp-and-19-percent-have-never-even-killed-another-player/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
