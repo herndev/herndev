@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satechi’s new puck sticks a bunch of extra ports to the back of your phone](https://www.theverge.com/news/819979/satechi-onthego-7-in-1-multiport-adapter-magsafe-pixelsnap)
- - [Google’s NotebookLM will now do &amp;#8216;deep research&amp;#8217;](https://www.theverge.com/news/820022/google-notebooklm-gemini-deep-research)
- - [Google Play Store rolls out dedicated XR section for apps and games](https://www.androidauthority.com/google-play-store-xr-updates-3615625/)<!-- TECH:END -->
+ - [Google says all NotebookLM users will get access to Deep Research in the service within a week; users get to choose between two research styles: fast or deep &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/251113/p39#a251113p39)
+ - [Stewart Rhodes Relaunched the Oath Keepers. Even Old Oath Keepers Don&#39;t Care](https://www.wired.com/story/stewart-rhodes-relaunched-oath-keepers-militia/)
+ - [Google strikes back at scammers enabling those fake ‘stuck package’ texts](https://www.androidauthority.com/google-china-phishing-lawsuit-3615649/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
