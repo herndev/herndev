@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Cameyo by Google, after acquiring the software virtualization company in June 2024, to help organizations run legacy Windows apps on ChromeOS &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251112/p44#a251112p44)
- - [A Dubai court orders a worldwide freeze on $456M in reserves linked to Justin Sun&#39;s bailout of Techteryx&#39;s TrueUSD, saying there&#39;s evidence of a breach of trust &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/251112/p43#a251112p43)
- - [Starlink Just Rolled Out an Affordable Internet Plan. Let&#39;s See if You Can Actually Get It](https://www.cnet.com/home/internet/starlink-just-rolled-out-an-affordable-internet-plan-lets-see-if-you-can-actually-get-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Satya Nadella says Microsoft has access to &quot;all&quot; of OpenAI&#39;s custom AI chip work and plans to use it to help develop its own in-house chip &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251112/p47#a251112p47)
+ - [Tavus, which develops enterprise AI agents focused on employee recruitment and training, raised a $40M Series B led by CRV &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251112/p46#a251112p46)
+ - [Sony is making a Horizon MMO — here’s the video and details](https://www.theverge.com/news/819657/horizon-steel-frontiers-mmo-sony-ncsoft-playstation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
