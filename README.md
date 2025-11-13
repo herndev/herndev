@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Sheesh...](http://9gag.com/gag/azxovBZ)
- - ⏩ [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
- - 👉 [Amazonian](http://9gag.com/gag/agm6pDg)<!-- MEMES:END -->
+ - ⏩ [Amazonian](http://9gag.com/gag/agm6pDg)
+ - 👉 [Indian Street Ice Cream....](http://9gag.com/gag/aO8AO3N)<!-- MEMES:END -->
 
 ---
 
