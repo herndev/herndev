@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s rare to see a child&#39;s dreams/hobbies/talents being supported by their parents](http://9gag.com/gag/aAyq7qR)
+ - 💣 [The missing plot](http://9gag.com/gag/aAyqAro)
  - ⏩ [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
- - 👉 [It&#39;s Wednesday](http://9gag.com/gag/an78ZMV)<!-- MEMES:END -->
+ - 👉 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)<!-- MEMES:END -->
 
 ---
 
