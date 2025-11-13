@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Mira Murati&#39;s Thinking Machines Lab is in early talks to raise a new round of funding at a roughly $50B valuation, potentially rising to $55B-$60B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251113/p49#a251113p49)
- - [Baidu unveils Ernie 5.0, an AI model to process and generate text, images, audio, and video, claiming it beats GPT-5-High and Gemini 2.5 Pro on some benchmarks &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251113/p48#a251113p48)
- - [Valve wants Half-Life: Alyx to work well standalone on Steam Frame](https://www.theverge.com/news/820503/valve-half-life-alyx-steam-frame-standalone-vr)<!-- TECH:END -->
+ - [21 Best MagSafe Accessories &lpar;2025&rpar;: Qi2 Chargers, Magnetic Wallets, and More](https://www.wired.com/gallery/best-magsafe-accessories/)
+ - [Kensington&#39;s latest docks tap full Thunderbolt 5 power on supported M4 Macs](https://appleinsider.com/articles/25/11/13/kensingtons-latest-docks-tap-full-thunderbolt-5-power-on-supported-m4-macs?utm_source=rss)
+ - [Apple Store app gets Liquid Glass overhaul and a new icon](https://appleinsider.com/articles/25/11/13/apple-store-app-gets-liquid-glass-overhaul-and-a-new-icon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
