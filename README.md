@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox’s Quick Resume feature was quietly Series X’s greatest innovation](https://www.polygon.com/quick-resume-xbox-series-x-generation/)
- - [PlayStation 5’s best gimmick is its wildly innovative controller](https://www.polygon.com/playstation-5-ps5-anniversary-dualsense-controller/)
- - [From Tony Hawk Dreams to BMX Reality: How Legends BMX Was Made by Riders](https://news.xbox.com/en-us/2025/11/13/how-legends-bmx-was-made-by-riders/)<!-- GAME:END -->
+ - [World of Warcraft director &#39;doesn&#39;t expect blind faith&#39; in its plans to unshackle the MMO from popular combat mods: &#39;We take none of this lightly&#39;](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-director-doesnt-expect-blind-faith-in-its-plans-to-unshackle-the-mmo-from-popular-combat-mods-we-take-none-of-this-lightly/)
+ - [A short history of John Romero wishing Sandy Petersen well before nuking his Doom tweets from orbit with ruthless precision](https://www.pcgamer.com/gaming-industry/a-short-history-of-john-romero-wishing-sandy-petersen-well-before-nuking-his-doom-tweets-from-orbit-with-ruthless-precision/)
+ - [Red Dead Redemption coming to Switch 2, PS5, and Xbox Series X with enhancements](https://www.polygon.com/red-dead-redemption-ps5-xbox-nintendo-switch-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
