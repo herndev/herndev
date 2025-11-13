@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KitchenAid Promo Code: 50% Off in November 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [20% Off Sephora Promo Code](https://www.wired.com/story/sephora-promo-code/)
- - [Valve just opened the door to Android games on Steam](https://www.androidauthority.com/valve-android-games-steam-3615355/)<!-- TECH:END -->
+ - [Sources: Alibaba is renaming its AI app Tongyi to &quot;Qwen&quot;, aiming to make it more like ChatGPT, and adding agentic-AI shopping features for platforms like Taobao &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/251113/p5#a251113p5)
+ - [Baidu unveils two AI chips: the M100 for efficient MoE inference, launching in 2026, and the M300 for training super-large multimodal models, coming in 2027 &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/251113/p4#a251113p4)
+ - [KitchenAid Promo Code: 50% Off in November 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
