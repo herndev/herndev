@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where have all the TV cameras gone?](https://www.theverge.com/column/819878/smart-tv-cameras)
- - [Android 17 is building a new Contacts Picker to keep your address book private](https://www.androidauthority.com/android-17-contacts-picker-rumor-3615741/)
- - [ESPN isn’t back on YouTube TV yet, but there’s a new sports channel on the way](https://www.androidauthority.com/nbc-sports-network-3615712/)<!-- TECH:END -->
+ - [A new report claims Verizon will soon cut a staggering 15,000 jobs](https://www.androidauthority.com/verizon-job-cut-3615750/)
+ - [Anthropic details how it measures Claude&amp;#8217;s wokeness](https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai)
+ - [Apple will take a mini commission from mini app developers](https://www.theverge.com/news/820486/apple-mini-app-developers-commission)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
