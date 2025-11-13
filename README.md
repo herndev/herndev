@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [While we eagerly await the second coming of Steam Machines, it&#39;s worth remembering what a gloriously awful mess Valve got itself in over a decade ago](https://www.pcgamer.com/hardware/gaming-pcs/while-we-eagerly-await-the-second-coming-of-steam-machines-its-worth-remembering-what-a-gloriously-awful-mess-valve-got-itself-in-over-a-decade-ago/)
  - [Sony Reveals Secret Horizon MMO That Looks Like Monster Hunter But Isn’t Coming To PS5](https://kotaku.com/horizon-steel-frontiers-mmo-ps5-trailer-2000643663)
- - [Horizon: Steel Frontiers is an MMO based on the PlayStation series, and it&#39;s coming to PC and mobile &lpar;but not PS5&rpar;](https://www.pcgamer.com/games/mmo/horizon-steel-frontiers-is-an-mmo-based-on-the-playstation-series-and-its-coming-to-pc-and-mobile-but-not-ps5/)
- - [Galaxy Buds 3 Pro With AI Features Are Going for Pennies, Amazon Sets a New All-Time Low](https://kotaku.com/galaxy-buds-3-pro-with-ai-features-are-going-for-pennies-amazon-sets-a-new-all-time-low-2000643596)<!-- GAME:END -->
+ - [Horizon: Steel Frontiers is an MMO based on the PlayStation series, and it&#39;s coming to PC and mobile &lpar;but not PS5&rpar;](https://www.pcgamer.com/games/mmo/horizon-steel-frontiers-is-an-mmo-based-on-the-playstation-series-and-its-coming-to-pc-and-mobile-but-not-ps5/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
