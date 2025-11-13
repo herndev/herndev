@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent reports Q3 revenue up 15% YoY to ~$27B, above ~$26.6B est., net profit up 19% YoY to ~$8.9B, above ~$8B est., and domestic game revenue up 15% YoY &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/251113/p7#a251113p7)
- - [Did Your Health Insurance Claim Get Denied? AI Might Be the Culprit -- and the Fix](https://www.cnet.com/tech/services-and-software/did-your-health-insurance-claim-get-denied-ai-might-be-the-culprit-and-the-fix/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 13, #886](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-13-886/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DJI’s Neo 2 selfie drone launches globally, but not in the US](https://www.theverge.com/news/819109/dji-neo-2-selfie-drone-global-launch)
+ - [SMIC reports Q3 revenue up 9.7% YoY to $2.38B, above $2.35B est., and net profit up 29% YoY to $191.8M, above $161.2M est., as analog chip demand rises &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/251113/p15#a251113p15)
+ - [European carmaker officials warn the industry faces &quot;devastating&quot; chip shortages after the Netherlands&#39; Nexperia takeover and is scrambling to find alternatives &lpar;Financial Times&rpar;](http://www.techmeme.com/251113/p14#a251113p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
