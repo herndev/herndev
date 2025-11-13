@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Godzilla show Monarch is back in February](https://www.theverge.com/entertainment/819523/monarch-legacy-of-monsters-season-2-apple-tv-date-trailer)
- - [Claim that iPhone 16e &#39;failed&#39; Apple&#39;s cheaper lineup plan is ridiculous](https://appleinsider.com/articles/25/11/13/claim-that-iphone-16e-failed-apples-cheaper-lineup-plan-is-ridiculous?utm_source=rss)
- - [Apple is trying to get permission to appeal UK $2 billion App Store ruling](https://appleinsider.com/articles/25/11/13/apple-is-trying-to-get-permission-to-appeal-uk-2-billion-app-store-ruling?utm_source=rss)<!-- TECH:END -->
+ - [LinkedIn is making it easier to search for people with AI](https://www.theverge.com/news/819908/linkedin-ai-people-search-launch)
+ - [Sources: xAI has raised $15B, adding $5B to the $10B reported in September, which valued the startup at $200B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251113/p29#a251113p29)
+ - [Watch Google DeepMind’s new AI agent learn to play video games](https://www.theverge.com/tech/819937/google-deepmind-ai-agent-sima-2-agi-video-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
