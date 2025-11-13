@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satya Nadella says Microsoft has access to &quot;all&quot; of OpenAI&#39;s custom AI chip work and plans to use it to help develop its own in-house chip &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251112/p47#a251112p47)
- - [Tavus, which develops enterprise AI agents focused on employee recruitment and training, raised a $40M Series B led by CRV &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251112/p46#a251112p46)
- - [Sony is making a Horizon MMO — here’s the video and details](https://www.theverge.com/news/819657/horizon-steel-frontiers-mmo-sony-ncsoft-playstation)<!-- TECH:END -->
+ - [FanDuel and CME Group plan to launch FanDuel Predicts, a prediction market app, in December, bypassing restrictions in US states where gambling is illegal &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/251112/p49#a251112p49)
+ - [Google says it will allow &quot;experienced users&quot; to install Android apps from unverified developers, following backlash against new sideloading restrictions &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/251112/p48#a251112p48)
+ - [Satya Nadella says Microsoft has access to &quot;all&quot; of OpenAI&#39;s custom AI chip work and plans to use it to help develop its own in-house chip &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251112/p47#a251112p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
