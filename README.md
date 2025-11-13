@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Ops 7 design director wants the M8A1 back in the meta](https://www.polygon.com/black-ops-7-interview-meta-weapon-balancing-m8a1-treyarch/)
- - [This Is Ubisoft’s Weirdest Delay Yet](https://kotaku.com/ubisoft-assassins-creed-far-cry-stock-announcement-delayed-2000644091)
- - [The Turnip Boy devs just announced a sudden left turn into horny territory: A dungeon crawler where you &#39;rizz up&#39; monster girls](https://www.pcgamer.com/games/rpg/the-turnip-boy-devs-just-announced-a-sudden-left-turn-into-horny-territory-a-dungeon-crawler-where-you-rizz-up-monster-girls/)<!-- GAME:END -->
+ - [Xbox’s Quick Resume feature was quietly Series X’s greatest innovation](https://www.polygon.com/quick-resume-xbox-series-x-generation/)
+ - [PlayStation 5’s best gimmick is its wildly innovative controller](https://www.polygon.com/playstation-5-ps5-anniversary-dualsense-controller/)
+ - [From Tony Hawk Dreams to BMX Reality: How Legends BMX Was Made by Riders](https://news.xbox.com/en-us/2025/11/13/how-legends-bmx-was-made-by-riders/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
