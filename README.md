@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new report claims Verizon will soon cut a staggering 15,000 jobs](https://www.androidauthority.com/verizon-job-cut-3615750/)
- - [Anthropic details how it measures Claude&amp;#8217;s wokeness](https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai)
- - [Apple will take a mini commission from mini app developers](https://www.theverge.com/news/820486/apple-mini-app-developers-commission)<!-- TECH:END -->
+ - [Sources: Mira Murati&#39;s Thinking Machines Lab is in early talks to raise a new round of funding at a roughly $50B valuation, potentially rising to $55B-$60B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251113/p49#a251113p49)
+ - [Baidu unveils Ernie 5.0, an AI model to process and generate text, images, audio, and video, claiming it beats GPT-5-High and Gemini 2.5 Pro on some benchmarks &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251113/p48#a251113p48)
+ - [Valve wants Half-Life: Alyx to work well standalone on Steam Frame](https://www.theverge.com/news/820503/valve-half-life-alyx-steam-frame-standalone-vr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
