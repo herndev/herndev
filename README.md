@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve recommends sharing your game library on microSD card between Steam Deck, Steam Frame, and Steam Machine: &#39;They&#39;re fully interoperable, just bring it along with you&#39;](https://www.pcgamer.com/hardware/valve-recommends-sharing-your-game-library-on-sd-card-between-steam-deck-steam-frame-and-steam-machine/)
- - [Here&#39;s the Call of Duty: Black Ops 7 release time for your region](https://www.pcgamer.com/games/call-of-duty/black-ops-7-release-date-launch-times/)
- - [While we eagerly await the second coming of Steam Machines, it&#39;s worth remembering what a gloriously awful mess Valve got itself in over a decade ago](https://www.pcgamer.com/hardware/gaming-pcs/while-we-eagerly-await-the-second-coming-of-steam-machines-its-worth-remembering-what-a-gloriously-awful-mess-valve-got-itself-in-over-a-decade-ago/)<!-- GAME:END -->
+ - [Silent Hill f just became way easier as a new patch adds casual difficulty, sped up NG+ runs, and reduces forced combat areas](https://www.pcgamer.com/games/horror/silent-hill-f-just-became-way-easier-as-a-new-patch-adds-casual-difficulty-sped-up-ng-runs-and-reduces-forced-combat-areas/)
+ - [Apple&#39;s $230 iPhone-carrying &#39;sock&#39; looks like something you could buy from an Etsy seller for $20, and it&#39;s already splitting the room like a busted seam](https://www.pcgamer.com/hardware/apples-usd230-iphone-carrying-sock-looks-like-something-you-could-buy-from-an-etsy-seller-for-usd20-and-its-already-splitting-the-room-like-a-busted-seam/)
+ - [You can beat Arc Raiders&#39; first event in just 45 clicks, and I wish I could tell you that was good](https://www.pcgamer.com/games/third-person-shooter/you-can-beat-arc-raiders-first-event-in-just-45-clicks-and-i-wish-i-could-tell-you-that-was-good/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
