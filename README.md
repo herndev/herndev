@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The PS5 and Series X era promised inclusion, but the reality is more complicated](https://www.polygon.com/ps5-xbox-series-x-accessibility-disability-community/)
- - [Bethesda is &#39;actively investigating&#39; the Fallout 4 problems that Bethesda caused with its latest Fallout 4 update](https://www.pcgamer.com/games/rpg/bethesda-is-actively-investigating-the-fallout-4-problems-that-bethesda-caused-with-its-latest-fallout-4-update/)
- - [Task Manager can no longer become immortal after the most recent Windows update and I&#39;m unreasonably sad about it](https://www.pcgamer.com/software/windows/task-manager-can-no-longer-become-immortal-after-the-most-recent-windows-update-and-im-unreasonably-sad-about-it/)<!-- GAME:END -->
+ - [Nintendo Just Blocked Third-Party Switch 2 Docks And It Sucks](https://kotaku.com/nintendo-just-blocked-third-party-switch-2-docks-and-it-sucks-2000644081)
+ - [Fallout Season 2&#39;s latest trailer includes New Vegas easter eggs like Dinky the T-Rex and the enigmatic head honcho, Mr House](https://www.pcgamer.com/movies-tv/fallout-season-2s-latest-trailer-includes-new-vegas-easter-eggs-like-dinky-the-t-rex-and-the-enigmatic-head-honcho-mr-house/)
+ - [Hazbin Hotel song explainer: The songwriters break down &quot;Vox Populi&quot;](https://www.polygon.com/hazbin-hotel-song-breakdown-vox-populi-interview-lucifer-vox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
