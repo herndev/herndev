@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Devs Behind This Year’s Big Superhero Game Regret Cutting Sex Scenes](https://kotaku.com/devs-dispatch-telltale-superhero-game-cut-sex-scenes-romance-2000643646)
- - [Can you guess the dog? Sink your teeth into our canine quiz!](https://www.pcgamer.com/games/can-you-guess-the-dog-sink-your-teeth-into-our-canine-quiz/)
- - [How to collect dangerous objects in a donut storm in Fortnite](https://www.polygon.com/fortnite-collect-dangerous-objects-donut-storm/)<!-- GAME:END -->
+ - [Over half of Arc Raiders players on Steam have barely engaged with PvP, and 19% have never even killed another player](https://www.pcgamer.com/games/third-person-shooter/over-half-of-arc-raiders-players-on-steam-have-barely-engaged-with-pvp-and-19-percent-have-never-even-killed-another-player/)
+ - [This Performance Beast From Dell Is 70% Off on Amazon, Now Priced Like a Basic Mid-Range Machine](https://kotaku.com/this-performance-beast-from-dell-is-70-off-on-amazon-now-priced-like-a-basic-mid-range-machine-2000643568)
+ - [The Super Mario Galaxy Movie trailer is full of fun Easter eggs](https://www.polygon.com/super-mario-galaxy-movie-trailer-easter-eggs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
