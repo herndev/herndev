@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scientists have identified a black fungus growing on the radioactive remains of the Chernobyl nuclear reactor that appears to have evolved the ability to feed on radiation. The species, Cladosporium sphaerospermum, uses a rare process known as radiosynthesis](http://9gag.com/gag/a5Qvgzr)
- - ⏩ [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
- - 👉 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)<!-- MEMES:END -->
+ - 💣 [It&#39;s Wednesday](http://9gag.com/gag/an78ZMV)
+ - ⏩ [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aXPQ37D)
+ - 👉 [They already know everything their mom wants to teach. Hardware is still developing though.](http://9gag.com/gag/apRzwX9)<!-- MEMES:END -->
 
 ---
 
