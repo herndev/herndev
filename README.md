@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LinkedIn is making it easier to search for people with AI](https://www.theverge.com/news/819908/linkedin-ai-people-search-launch)
- - [Sources: xAI has raised $15B, adding $5B to the $10B reported in September, which valued the startup at $200B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251113/p29#a251113p29)
- - [Watch Google DeepMind’s new AI agent learn to play video games](https://www.theverge.com/tech/819937/google-deepmind-ai-agent-sima-2-agi-video-games)<!-- TECH:END -->
+ - [Satechi’s new puck sticks a bunch of extra ports to the back of your phone](https://www.theverge.com/news/819979/satechi-onthego-7-in-1-multiport-adapter-magsafe-pixelsnap)
+ - [Google’s NotebookLM will now do &amp;#8216;deep research&amp;#8217;](https://www.theverge.com/news/820022/google-notebooklm-gemini-deep-research)
+ - [Google Play Store rolls out dedicated XR section for apps and games](https://www.androidauthority.com/google-play-store-xr-updates-3615625/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
