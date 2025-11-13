@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Just Blocked Third-Party Switch 2 Docks And It Sucks](https://kotaku.com/nintendo-just-blocked-third-party-switch-2-docks-and-it-sucks-2000644081)
- - [Fallout Season 2&#39;s latest trailer includes New Vegas easter eggs like Dinky the T-Rex and the enigmatic head honcho, Mr House](https://www.pcgamer.com/movies-tv/fallout-season-2s-latest-trailer-includes-new-vegas-easter-eggs-like-dinky-the-t-rex-and-the-enigmatic-head-honcho-mr-house/)
- - [Hazbin Hotel song explainer: The songwriters break down &quot;Vox Populi&quot;](https://www.polygon.com/hazbin-hotel-song-breakdown-vox-populi-interview-lucifer-vox/)<!-- GAME:END -->
+ - [Black Ops 7 design director wants the M8A1 back in the meta](https://www.polygon.com/black-ops-7-interview-meta-weapon-balancing-m8a1-treyarch/)
+ - [This Is Ubisoft’s Weirdest Delay Yet](https://kotaku.com/ubisoft-assassins-creed-far-cry-stock-announcement-delayed-2000644091)
+ - [The Turnip Boy devs just announced a sudden left turn into horny territory: A dungeon crawler where you &#39;rizz up&#39; monster girls](https://www.pcgamer.com/games/rpg/the-turnip-boy-devs-just-announced-a-sudden-left-turn-into-horny-territory-a-dungeon-crawler-where-you-rizz-up-monster-girls/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
