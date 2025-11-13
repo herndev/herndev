@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Satya Nadella on business models for AGI, Copilot, Microsoft AI, the hyperscale business, the OpenAI partnership, capex, sovereign AI efforts, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/251112/p55#a251112p55)
- - [An investigation traces how Shanghai-based AI company INF Tech accessed advanced Nvidia chips at an Indonesian data center despite US export controls &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251112/p54#a251112p54)
- - [Google may finally let you boot At a Glance from your Pixel home screen &lpar;Updated: Confirmed&rpar;](https://www.androidauthority.com/pixel-at-a-glance-remove-from-home-screen-option-3614939/)<!-- TECH:END -->
+ - [Polymarket starts live testing its US exchange, quietly opening to some users, and says it&#39;s fully functional with select users betting on real contracts &lpar;Denitsa Tsekova/Bloomberg&rpar;](http://www.techmeme.com/251113/p2#a251113p2)
+ - [Here’s why your Pixel hasn’t received all the new features from the November Pixel Drop yet](https://www.androidauthority.com/google-pixel-drop-slow-rollout-explanation-3615350/)
+ - [A deep dive into Microsoft&#39;s AI strategy, including OpenAI, data center investments, neocloud renting, GitHub Copilot, MAI models, and the Maia chip &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/251113/p1#a251113p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
