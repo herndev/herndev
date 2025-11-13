@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Astro Bot vs. Indiana Jones: Vote on the greatest game of a generation &lpar;so far&rpar;](https://www.polygon.com/xbox-series-x-ps5-greatest-game-finals/)
- - [Free Play Days – Grand Theft Auto Online, Rubber Bandits, Soccer Story, Train Sim World 6: Standard Edition and Wreckfest](https://news.xbox.com/en-us/2025/11/13/free-play-days-11-13-2025/)
- - [Dbrand has teased a render of a Portal companion cube Steam Machine case, so you can... put a case around your case?](https://www.pcgamer.com/hardware/pc-cases/dbrand-has-teased-a-render-of-a-portal-companion-cube-steam-machine-case-so-you-can-put-a-case-around-your-case/)<!-- GAME:END -->
+ - [The PS5 and Series X era promised inclusion, but the reality is more complicated](https://www.polygon.com/ps5-xbox-series-x-accessibility-disability-community/)
+ - [Bethesda is &#39;actively investigating&#39; the Fallout 4 problems that Bethesda caused with its latest Fallout 4 update](https://www.pcgamer.com/games/rpg/bethesda-is-actively-investigating-the-fallout-4-problems-that-bethesda-caused-with-its-latest-fallout-4-update/)
+ - [Task Manager can no longer become immortal after the most recent Windows update and I&#39;m unreasonably sad about it](https://www.pcgamer.com/software/windows/task-manager-can-no-longer-become-immortal-after-the-most-recent-windows-update-and-im-unreasonably-sad-about-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
