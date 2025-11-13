@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)
- - ⏩ [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
+ - 💣 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
+ - ⏩ [Philosophy](http://9gag.com/gag/a4Pmy5m)
  - 👉 [The missing plot](http://9gag.com/gag/aAyqAro)<!-- MEMES:END -->
 
 ---
