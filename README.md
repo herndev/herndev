@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GC AI, which provides in-house corporate legal teams with AI tools for common tasks, raised a $60M Series B led by Scale and Northzone at a $555M valuation &lpar;Sara Merken/Reuters&rpar;](http://www.techmeme.com/251112/p50#a251112p50)
- - [ChatGPT 5.1 is smarter, friendlier, and gets your vibe better than ever](https://www.androidauthority.com/chatgpt-5-1-3615324/)
- - [FanDuel and CME Group plan to launch FanDuel Predicts, a prediction market app, in December, bypassing restrictions in US states where gambling is illegal &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/251112/p49#a251112p49)<!-- TECH:END -->
+ - [US Attorney Jeanine Pirro launches a federal investigative task force to crack down on overseas crime organizations behind crypto scams targeting Americans &lpar;Salvador Rizzo/Washington Post&rpar;](http://www.techmeme.com/251112/p52#a251112p52)
+ - [Google app’s Pinterest-like ‘Images’ feed is now available to everyone in the US](https://www.androidauthority.com/google-images-tab-rollout-3615330/)
+ - [Even Realities&#39; G2 glasses hands-on: lighter than G1, subtle notifications on lens that cross eye line, designed to be a &quot;passive wearable&quot; akin to Apple Watch &lpar;Fernando Silva/9to5Mac&rpar;](http://www.techmeme.com/251112/p51#a251112p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
