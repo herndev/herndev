@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft director &#39;doesn&#39;t expect blind faith&#39; in its plans to unshackle the MMO from popular combat mods: &#39;We take none of this lightly&#39;](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-director-doesnt-expect-blind-faith-in-its-plans-to-unshackle-the-mmo-from-popular-combat-mods-we-take-none-of-this-lightly/)
- - [A short history of John Romero wishing Sandy Petersen well before nuking his Doom tweets from orbit with ruthless precision](https://www.pcgamer.com/gaming-industry/a-short-history-of-john-romero-wishing-sandy-petersen-well-before-nuking-his-doom-tweets-from-orbit-with-ruthless-precision/)
- - [Red Dead Redemption coming to Switch 2, PS5, and Xbox Series X with enhancements](https://www.polygon.com/red-dead-redemption-ps5-xbox-nintendo-switch-2/)<!-- GAME:END -->
+ - [6 of the most popular apps on Steam that aren&#39;t games](https://www.pcgamer.com/gaming-industry/6-of-the-most-popular-apps-on-steam-that-arent-games/)
+ - [Arc Raiders community unlock event, explained](https://www.polygon.com/arc-raiders-breaking-new-ground-staking-our-claim-community-event-merits-north-line/)
+ - [Rockstar is now under pressure from UK Parliament as protests grow and 220 employees demand fired workers be reinstated](https://www.pcgamer.com/games/rockstar-is-now-under-pressure-from-uk-parliament-as-protests-grow-and-220-employees-demand-fired-workers-be-reinstated/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
