@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Witnessing this incredible talent is truly inspiring](http://9gag.com/gag/aoyAo02)
- - ⏩ [I am not sure about what&#39;s next](http://9gag.com/gag/aVv4rNK)
- - 👉 [It&#39;s rare to see a child&#39;s dreams/hobbies/talents being supported by their parents](http://9gag.com/gag/aAyq7qR)<!-- MEMES:END -->
+ - 💣 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
+ - ⏩ [The situation in Italy](http://9gag.com/gag/aGy6qV7)
+ - 👉 [Indian Street Ice Cream....](http://9gag.com/gag/aO8AO3N)<!-- MEMES:END -->
 
 ---
 
