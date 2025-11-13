@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI’s Neo 2 selfie drone launches globally, but not in the US](https://www.theverge.com/news/819109/dji-neo-2-selfie-drone-global-launch)
- - [SMIC reports Q3 revenue up 9.7% YoY to $2.38B, above $2.35B est., and net profit up 29% YoY to $191.8M, above $161.2M est., as analog chip demand rises &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/251113/p15#a251113p15)
- - [European carmaker officials warn the industry faces &quot;devastating&quot; chip shortages after the Netherlands&#39; Nexperia takeover and is scrambling to find alternatives &lpar;Financial Times&rpar;](http://www.techmeme.com/251113/p14#a251113p14)<!-- TECH:END -->
+ - [8 Best Webcams &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-webcams/)
+ - [Save up to $250 on smartwatches as the Garmin Black Friday sale goes live!](https://www.androidauthority.com/garmin-smartwatches-black-friday-3615279/)
+ - [A look at Indian messaging app Arattai, which officials are backing as a domestic WhatsApp alternative; Arattai maker Zoho says it had 350K sign-ups in October &lpar;Financial Times&rpar;](http://www.techmeme.com/251113/p20#a251113p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
