@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The missing plot](http://9gag.com/gag/aAyqAro)
- - ⏩ [Damn he was fcuked up after that](http://9gag.com/gag/ayNZK2V)
- - 👉 [In 2007, a home improvement television show literally blew up this family&#39;s house before rebuilding it.](http://9gag.com/gag/abAKw5O)<!-- MEMES:END -->
+ - 💣 [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)
+ - ⏩ [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
+ - 👉 [The missing plot](http://9gag.com/gag/aAyqAro)<!-- MEMES:END -->
 
 ---
 
