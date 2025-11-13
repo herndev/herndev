@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amazonian](http://9gag.com/gag/agm6pDg)
- - ⏩ [Sheesh...](http://9gag.com/gag/azxovBZ)
- - 👉 [The situation in Italy](http://9gag.com/gag/aGy6qV7)<!-- MEMES:END -->
+ - 💣 [Witnessing this incredible talent is truly inspiring](http://9gag.com/gag/aoyAo02)
+ - ⏩ [Yes, yes moooooor!](http://9gag.com/gag/a87Q9b6)
+ - 👉 [I am not sure about what&#39;s next](http://9gag.com/gag/aVv4rNK)<!-- MEMES:END -->
 
 ---
 
