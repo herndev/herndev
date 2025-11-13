@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s Wednesday](http://9gag.com/gag/an78ZMV)
- - ⏩ [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aXPQ37D)
- - 👉 [They already know everything their mom wants to teach. Hardware is still developing though.](http://9gag.com/gag/apRzwX9)<!-- MEMES:END -->
+ - 💣 [Respecting her decision and doing exactly what she asked. And somehow he was still wrong.](http://9gag.com/gag/aVv48g2)
+ - ⏩ [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
+ - 👉 [The missing plot](http://9gag.com/gag/aAyqAro)<!-- MEMES:END -->
 
 ---
 
