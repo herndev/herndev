@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
  - ⏩ [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
- - 👉 [Amazonian](http://9gag.com/gag/agm6pDg)<!-- MEMES:END -->
+ - 👉 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)<!-- MEMES:END -->
 
 ---
 
