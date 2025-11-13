@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [21 Best MagSafe Accessories &lpar;2025&rpar;: Qi2 Chargers, Magnetic Wallets, and More](https://www.wired.com/gallery/best-magsafe-accessories/)
- - [Kensington&#39;s latest docks tap full Thunderbolt 5 power on supported M4 Macs](https://appleinsider.com/articles/25/11/13/kensingtons-latest-docks-tap-full-thunderbolt-5-power-on-supported-m4-macs?utm_source=rss)
- - [Apple Store app gets Liquid Glass overhaul and a new icon](https://appleinsider.com/articles/25/11/13/apple-store-app-gets-liquid-glass-overhaul-and-a-new-icon?utm_source=rss)<!-- TECH:END -->
+ - [AirPods Pro 3, AirPods Pro 2, &amp; AirPods 4 receive new firmware update](https://appleinsider.com/articles/25/11/13/airpods-pro-3-airpods-pro-2-airpods-4-receive-new-firmware-update?utm_source=rss)
+ - [Sundar Pichai proved to be the &quot;wartime CEO&quot; that Google needed after ChatGPT&#39;s launch, making the company an AI leader, in part by empowering Demis Hassabis &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/251113/p53#a251113p53)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
