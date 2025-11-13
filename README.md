@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
- - ⏩ [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
- - 👉 [Amazonian](http://9gag.com/gag/agm6pDg)<!-- MEMES:END -->
+ - 💣 [Witnessing this incredible talent is truly inspiring](http://9gag.com/gag/aoyAo02)
+ - ⏩ [I am not sure about what&#39;s next](http://9gag.com/gag/aVv4rNK)
+ - 👉 [It&#39;s rare to see a child&#39;s dreams/hobbies/talents being supported by their parents](http://9gag.com/gag/aAyq7qR)<!-- MEMES:END -->
 
 ---
 
