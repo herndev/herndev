@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [No more guessing: Google Maps can now tell you if a Tesla Supercharger is available](https://www.androidauthority.com/google-maps-tesla-supercharger-live-availability-3615270/)
- - [Former Twitter CEO Parag Agrawal&#39;s Parallel Web Systems, which is building tools for AI agents to search the web, raised a $100M Series A at a $740M valuation &lpar;Tom Dotan/Newcomer&rpar;](http://www.techmeme.com/251112/p42#a251112p42)<!-- TECH:END -->
+ - [Google launches Cameyo by Google, after acquiring the software virtualization company in June 2024, to help organizations run legacy Windows apps on ChromeOS &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251112/p44#a251112p44)
+ - [A Dubai court orders a worldwide freeze on $456M in reserves linked to Justin Sun&#39;s bailout of Techteryx&#39;s TrueUSD, saying there&#39;s evidence of a breach of trust &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/251112/p43#a251112p43)
+ - [Starlink Just Rolled Out an Affordable Internet Plan. Let&#39;s See if You Can Actually Get It](https://www.cnet.com/home/internet/starlink-just-rolled-out-an-affordable-internet-plan-lets-see-if-you-can-actually-get-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
