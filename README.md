@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [While we eagerly await the second coming of Steam Machines, it&#39;s worth remembering what a gloriously awful mess Valve got itself in over a decade ago](https://www.pcgamer.com/hardware/gaming-pcs/while-we-eagerly-await-the-second-coming-of-steam-machines-its-worth-remembering-what-a-gloriously-awful-mess-valve-got-itself-in-over-a-decade-ago/)
- - [Sony Reveals Secret Horizon MMO That Looks Like Monster Hunter But Isn’t Coming To PS5](https://kotaku.com/horizon-steel-frontiers-mmo-ps5-trailer-2000643663)
- - [Horizon: Steel Frontiers is an MMO based on the PlayStation series, and it&#39;s coming to PC and mobile &lpar;but not PS5&rpar;](https://www.pcgamer.com/games/mmo/horizon-steel-frontiers-is-an-mmo-based-on-the-playstation-series-and-its-coming-to-pc-and-mobile-but-not-ps5/)<!-- GAME:END -->
+ - [Valve recommends sharing your game library on microSD card between Steam Deck, Steam Frame, and Steam Machine: &#39;They&#39;re fully interoperable, just bring it along with you&#39;](https://www.pcgamer.com/hardware/valve-recommends-sharing-your-game-library-on-sd-card-between-steam-deck-steam-frame-and-steam-machine/)
+ - [Here&#39;s the Call of Duty: Black Ops 7 release time for your region](https://www.pcgamer.com/games/call-of-duty/black-ops-7-release-date-launch-times/)
+ - [While we eagerly await the second coming of Steam Machines, it&#39;s worth remembering what a gloriously awful mess Valve got itself in over a decade ago](https://www.pcgamer.com/hardware/gaming-pcs/while-we-eagerly-await-the-second-coming-of-steam-machines-its-worth-remembering-what-a-gloriously-awful-mess-valve-got-itself-in-over-a-decade-ago/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
