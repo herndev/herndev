@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Horizon: Steel Frontiers is an MMO based on the PlayStation series, and it&#39;s coming to PC and mobile &lpar;but not PS5&rpar;](https://www.pcgamer.com/games/mmo/horizon-steel-frontiers-is-an-mmo-based-on-the-playstation-series-and-its-coming-to-pc-and-mobile-but-not-ps5/)
  - [Galaxy Buds 3 Pro With AI Features Are Going for Pennies, Amazon Sets a New All-Time Low](https://kotaku.com/galaxy-buds-3-pro-with-ai-features-are-going-for-pennies-amazon-sets-a-new-all-time-low-2000643596)
- - [Looks like it&#39;s Tencent&#39;s turn to start turning off the money faucet for Western studios, as Bloodhunt developer Sharkmob says layoffs are coming](https://www.pcgamer.com/gaming-industry/looks-like-its-tencents-turn-to-start-turning-off-the-money-faucet-for-western-studios-as-bloodhunt-developer-sharkmob-says-layoffs-are-coming/)
- - [Over half of Arc Raiders players on Steam have barely engaged with PvP, and 19% have never even killed another player](https://www.pcgamer.com/games/third-person-shooter/over-half-of-arc-raiders-players-on-steam-have-barely-engaged-with-pvp-and-19-percent-have-never-even-killed-another-player/)<!-- GAME:END -->
+ - [Looks like it&#39;s Tencent&#39;s turn to start turning off the money faucet for Western studios, as Bloodhunt developer Sharkmob says layoffs are coming](https://www.pcgamer.com/gaming-industry/looks-like-its-tencents-turn-to-start-turning-off-the-money-faucet-for-western-studios-as-bloodhunt-developer-sharkmob-says-layoffs-are-coming/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
