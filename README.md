@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bethesda Promises Patches To Fix The Hot Mess Of Fallout 4‘s Anniversary Edition](https://kotaku.com/fallout-4-patch-anniversary-edition-hot-fix-bethesda-2000643952)
- - [Blade II may be sillier than Guillermo del Toro&#39;s Frankenstein, but it still makes a good companion piece](https://www.polygon.com/blade-ii-frankenstein-guillermo-del-toro/)
- - [How to complete Prescriptions of the Past in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-prescriptions-of-the-past/)<!-- GAME:END -->
+ - [Astro Bot vs. Indiana Jones: Vote on the greatest game of a generation &lpar;so far&rpar;](https://www.polygon.com/xbox-series-x-ps5-greatest-game-finals/)
+ - [Free Play Days – Grand Theft Auto Online, Rubber Bandits, Soccer Story, Train Sim World 6: Standard Edition and Wreckfest](https://news.xbox.com/en-us/2025/11/13/free-play-days-11-13-2025/)
+ - [Dbrand has teased a render of a Portal companion cube Steam Machine case, so you can... put a case around your case?](https://www.pcgamer.com/hardware/pc-cases/dbrand-has-teased-a-render-of-a-portal-companion-cube-steam-machine-case-so-you-can-put-a-case-around-your-case/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
