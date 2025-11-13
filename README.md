@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
- - ⏩ [The situation in Italy](http://9gag.com/gag/aGy6qV7)
- - 👉 [Indian Street Ice Cream....](http://9gag.com/gag/aO8AO3N)<!-- MEMES:END -->
+ - 💣 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
+ - ⏩ [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
+ - 👉 [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)<!-- MEMES:END -->
 
 ---
 
