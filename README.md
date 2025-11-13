@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy Z TriFold leak reveals massive screen, impressive specs, and unusual design quirk](https://www.androidauthority.com/samsung-galaxy-z-trifold-name-specs-leak-3615411/)
  - [Sources: Alibaba is renaming its AI app Tongyi to &quot;Qwen&quot;, aiming to make it more like ChatGPT, and adding agentic-AI shopping features for platforms like Taobao &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/251113/p5#a251113p5)
- - [Baidu unveils two AI chips: the M100 for efficient MoE inference, launching in 2026, and the M300 for training super-large multimodal models, coming in 2027 &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/251113/p4#a251113p4)
- - [KitchenAid Promo Code: 50% Off in November 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [Baidu unveils two AI chips: the M100 for efficient MoE inference, launching in 2026, and the M300 for training super-large multimodal models, coming in 2027 &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/251113/p4#a251113p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
