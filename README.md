@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Attorney Jeanine Pirro launches a federal investigative task force to crack down on overseas crime organizations behind crypto scams targeting Americans &lpar;Salvador Rizzo/Washington Post&rpar;](http://www.techmeme.com/251112/p52#a251112p52)
- - [Google app’s Pinterest-like ‘Images’ feed is now available to everyone in the US](https://www.androidauthority.com/google-images-tab-rollout-3615330/)
- - [Even Realities&#39; G2 glasses hands-on: lighter than G1, subtle notifications on lens that cross eye line, designed to be a &quot;passive wearable&quot; akin to Apple Watch &lpar;Fernando Silva/9to5Mac&rpar;](http://www.techmeme.com/251112/p51#a251112p51)<!-- TECH:END -->
+ - [Q&amp;A with Satya Nadella on business models for AGI, Copilot, Microsoft AI, the hyperscale business, the OpenAI partnership, capex, sovereign AI efforts, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/251112/p55#a251112p55)
+ - [An investigation traces how Shanghai-based AI company INF Tech accessed advanced Nvidia chips at an Indonesian data center despite US export controls &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251112/p54#a251112p54)
+ - [Google may finally let you boot At a Glance from your Pixel home screen &lpar;Updated: Confirmed&rpar;](https://www.androidauthority.com/pixel-at-a-glance-remove-from-home-screen-option-3614939/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
