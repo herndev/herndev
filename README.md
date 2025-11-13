@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [6 of the most popular apps on Steam that aren&#39;t games](https://www.pcgamer.com/gaming-industry/6-of-the-most-popular-apps-on-steam-that-arent-games/)
- - [Arc Raiders community unlock event, explained](https://www.polygon.com/arc-raiders-breaking-new-ground-staking-our-claim-community-event-merits-north-line/)
- - [Rockstar is now under pressure from UK Parliament as protests grow and 220 employees demand fired workers be reinstated](https://www.pcgamer.com/games/rockstar-is-now-under-pressure-from-uk-parliament-as-protests-grow-and-220-employees-demand-fired-workers-be-reinstated/)<!-- GAME:END -->
+ - [Red Dead Redemption Gets PS5 Upgrade Before RDR 2 Because Life Isn’t Fair](https://kotaku.com/red-dead-redemption-gets-ps5-upgrade-before-rdr-2-because-life-isnt-fair-2000644145)
+ - [Alien: Earth renewed for Season 2, which is a great opportunity to make up for the disappointing end of Season 1](https://www.pcgamer.com/movies-tv/alien-earth-renewed-for-season-2-which-is-a-great-opportunity-to-make-up-for-the-disappointing-end-of-season-1/)
+ - [I can&#39;t live without the Steam Deck&#39;s trackpads anymore, and I hope the Steam Controller forces the competition to adopt them](https://www.pcgamer.com/hardware/game-pads/i-cant-live-without-the-steam-decks-trackpads-anymore-and-i-hope-the-steam-controller-forces-the-competition-to-adopt-them/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
