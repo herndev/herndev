@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Superman, Sinners, and other 4K Blu-rays are just $12.99 ahead of Black Friday](https://www.theverge.com/tech/821035/superman-sinners-4k-blu-ray-black-friday-deal-sale)
- - [ChatGPT is testing group chats in the most chaotic way](https://www.androidauthority.com/chatgpt-group-chats-3616045/)
- - [Amazon unveils $18 Apple AirTag deal, the lowest price ever](https://appleinsider.com/articles/25/11/14/amazon-unveils-18-apple-airtag-deal-the-lowest-price-ever?utm_source=rss)<!-- TECH:END -->
+ - [It’s a fire sale: All Amazon Fire tablets are at record-low prices!](https://www.androidauthority.com/amazon-fire-hd-8-hd-10-max-11-deals-2-3615965/)
+ - [Our Favorite Webcam Is Marked Down by $35](https://www.wired.com/story/logitech-brio-500-deal-1125/)
+ - [WH national security memo: Alibaba provides tech support for China military&#39;s &quot;operations&quot; against targets in the US; Alibaba says it is &quot;complete nonsense&quot; &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/251114/p21#a251114p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
