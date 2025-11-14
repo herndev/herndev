@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Human safari](http://9gag.com/gag/apRzM7M)
- - ⏩ [Probabilities.](http://9gag.com/gag/a6Z462q)
+ - 💣 [Probabilities.](http://9gag.com/gag/a6Z462q)
+ - ⏩ [Unforgettable moments in the history of pop](http://9gag.com/gag/aND8EDK)
  - 👉 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)<!-- MEMES:END -->
 
 ---
