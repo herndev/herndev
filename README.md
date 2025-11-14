@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether CEO Paolo Ardoino says the company plans to expand its lending to commodities traders &quot;dramatically&quot; after extending ~$1.5B worth of credit to the sector &lpar;Bloomberg&rpar;](http://www.techmeme.com/251114/p7#a251114p7)
- - [Exclusive: Google’s take on NameDrop could be coming soon to Android, and here’s your first look](https://www.androidauthority.com/google-contact-gesture-exchange-apk-teardown-3615939/)
- - [Inside Homebrew: How to get the best open source software on Mac, for free](https://appleinsider.com/inside/macos/tips/inside-homebrew-how-to-get-the-best-open-source-software-on-mac-for-free?utm_source=rss)<!-- TECH:END -->
+ - [Baidu stock fell as much as 9.8% in Hong Kong on Friday after its latest AI model Ernie 5.0 fails to impress investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/251114/p12#a251114p12)
+ - [Razer Cobra HyperSpeed: A Basic Gaming Mouse With All You Need](https://www.wired.com/review/razer-cobra-hyperspeed/)
+ - [Valve is making microSD cards the next game cartridges](https://www.theverge.com/games/818602/valve-steam-deck-machine-frame-microsd-card-game-cartridges)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
