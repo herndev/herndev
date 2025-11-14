@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OneTrust, which sells privacy and compliance software and was last valued at $4.5B in 2023, is exploring a sale, possibly to private equity buyers &lpar;The Information&rpar;](http://www.techmeme.com/251113/p56#a251113p56)
- - [A US judge rules that Apple and OpenAI must answer to a lawsuit filed by X and xAI accusing them of conspiring to thwart competition in emerging markets in AI &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/251113/p55#a251113p55)
- - [OpenAI releases GPT-5.1 in the API, featuring a &quot;no-reasoning&quot; mode and extended prompt caching with up to 24-hour retention to generate faster responses &lpar;OpenAI&rpar;](http://www.techmeme.com/251113/p54#a251113p54)<!-- TECH:END -->
+ - [Apple &amp; OpenAI must face baseless xAI lawsuit about alleged anticompetitive collusion](https://appleinsider.com/articles/25/11/14/apple-openai-must-face-baseless-xai-lawsuit-about-alleged-anticompetitive-collusion?utm_source=rss)
+ - [Amazon unveils $18 Apple AirTag deal, the lowest price ever](https://appleinsider.com/articles/25/11/14/amazon-unveils-18-apple-airtag-deal-the-lowest-price-ever?utm_source=rss)
+ - [What insiders anonymously think about the AI race](https://www.theverge.com/column/820664/cerebral-valley-conference-ai-anonymous-survey)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
