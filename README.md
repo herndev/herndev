@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Metroid Prime 4 preview: putting the &#39;Metroid&#39; in &#39;Metroidvania&#39;](https://www.polygon.com/metroid-prime-4-beyond-preview-switch-2/)
- - [Fortnite Crew Comes to Xbox Game Pass Ultimate November 18 – and Fortnite Comes to Xbox on PC](https://news.xbox.com/en-us/2025/11/14/fortnite-crew-xbox-game-pass-ultimate-pc-play-anywhere/)
- - [Dyson Quietly Slashes the V9 Motorbar by 55%, Cheaper Than Any Other Dyson Vacuum Right Now](https://kotaku.com/dysons-cordless-stick-vacuum-comes-down-to-lower-than-half-price-ahead-of-black-friday-2000644141)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for November 17 to 21](https://news.xbox.com/en-us/2025/11/14/next-week-on-xbox-new-games-for-november-17-to-21/)
+ - [Pokémon Legends: Z-A Has A Cheating Problem And Players Are Helpless To Stop It](https://kotaku.com/pokemon-legends-za-hacker-cheater-earthquake-ban-2000644326)
+ - [Forget Apple Watch, Garmin Forerunner 55 GPS Watch Goes for Almost Free After an Early Black Friday Price Cut](https://kotaku.com/amazon-drops-the-garmin-forerunner-55-by-50-all-color-options-are-discounted-2000643994)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
