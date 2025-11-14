@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Black Ops 7 Endgame interactive map](https://www.polygon.com/map/call-of-duty-black-ops-7-endgame-campaign-interactive/)
- - [Black Ops 7 has problems, but Call of Duty recognizes where the wind is blowing: The triumphant return of loose SBMM and persistent lobbies in the FPS](https://www.pcgamer.com/games/fps/black-ops-7-has-problems-but-call-of-duty-recognizes-where-the-wind-is-blowing-the-triumphant-return-of-loose-sbmm-and-persistent-lobbies-in-the-fps/)
- - [New DnD books reveal a bigger problem with the 5e revamp](https://www.polygon.com/dnd-dungeons-dragons-2024-opinion-forgotten-realms/)<!-- GAME:END -->
+ - [Concord, one of the most infamous videogame flops of all time, creeps back to life thanks to fans who have spent months building custom server software](https://www.pcgamer.com/games/fps/concord-one-of-the-most-infamous-videogame-flops-of-all-time-creeps-back-to-life-thanks-to-fans-who-have-spent-months-building-custom-server-software/)
+ - [Escape from Tarkov launch times and release date for 1.0](https://www.pcgamer.com/games/fps/escape-from-tarkov-launch-time-release-date/)
+ - [&#39;I will probably never fully acknowledge whether or not everything has been solved&#39; says Blue Prince creator: &#39;There are certainly mysteries still in the game&#39;](https://www.pcgamer.com/games/puzzle/i-will-probably-never-fully-acknowledge-whether-or-not-everything-has-been-solved-says-blue-prince-creator-there-are-certainly-mysteries-still-in-the-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
