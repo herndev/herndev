@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)
- - ⏩ [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
- - 👉 [The missing plot](http://9gag.com/gag/aAyqAro)<!-- MEMES:END -->
+ - 💣 [The missing plot](http://9gag.com/gag/aAyqAro)
+ - ⏩ [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
+ - 👉 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)<!-- MEMES:END -->
 
 ---
 
