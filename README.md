@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI releases GPT-5.1 in the API, featuring a &quot;no-reasoning&quot; mode and extended prompt caching with up to 24-hour retention to generate faster responses &lpar;OpenAI&rpar;](http://www.techmeme.com/251113/p54#a251113p54)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 14 #621](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-14-621/#ftag=CAD590a51e)
- - [AirPods Pro 3, AirPods Pro 2, &amp; AirPods 4 receive new firmware update](https://appleinsider.com/articles/25/11/13/airpods-pro-3-airpods-pro-2-airpods-4-receive-new-firmware-update?utm_source=rss)<!-- TECH:END -->
+ - [Sources: OneTrust, which sells privacy and compliance software and was last valued at $4.5B in 2023, is exploring a sale, possibly to private equity buyers &lpar;The Information&rpar;](http://www.techmeme.com/251113/p56#a251113p56)
+ - [A US judge rules that Apple and OpenAI must answer to a lawsuit filed by X and xAI accusing them of conspiring to thwart competition in emerging markets in AI &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/251113/p55#a251113p55)
+ - [OpenAI releases GPT-5.1 in the API, featuring a &quot;no-reasoning&quot; mode and extended prompt caching with up to 24-hour retention to generate faster responses &lpar;OpenAI&rpar;](http://www.techmeme.com/251113/p54#a251113p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
