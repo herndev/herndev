@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon and Anthropic support the GAIN AI Act, which would give US buyers first priority on advanced AI chips, joining Microsoft; Nvidia opposes it &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/251113/p59#a251113p59)
- - [Apple &amp; OpenAI must face baseless xAI lawsuit about alleged anticompetitive collusion](https://appleinsider.com/articles/25/11/14/apple-openai-must-face-baseless-xai-lawsuit-about-alleged-anticompetitive-collusion?utm_source=rss)
- - [Google Home’s latest update is all about speed, control, and a sleeker interface](https://www.androidauthority.com/google-home-4-3-update-new-features-improvements-3615829/)<!-- TECH:END -->
+ - [Google finally rolls out Call Recording for Pixel phones worldwide](https://www.androidauthority.com/pixel-call-recording-wider-rollout-3615833/)
+ - [Australia-based AI infrastructure company Firmus raised AU$500M, or ~$325M, tripling its valuation to AU$6B in two months, after raising AU$330M in September &lpar;Tess Bennett/Australian Financial Review&rpar;](http://www.techmeme.com/251113/p60#a251113p60)
+ - [Sources: Amazon and Anthropic support the GAIN AI Act, which would give US buyers first priority on advanced AI chips, joining Microsoft; Nvidia opposes it &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/251113/p59#a251113p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
