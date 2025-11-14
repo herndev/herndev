@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey reveals you’d rather go hands-on than try to troubleshoot with a remote app](https://www.androidauthority.com/remote-support-apps-3616032/)
- - [MLS &amp; Apple TV deal ends in 2029, years ahead of schedule](https://appleinsider.com/articles/25/11/14/mls-apple-tv-deal-ends-in-2029-years-ahead-of-schedule?utm_source=rss)
- - [Internal memo: Meta plans to assess employees on their &quot;AI-driven impact&quot;, which will be a &quot;core expectation&quot; of their performance from 2026 &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/251114/p24#a251114p24)<!-- TECH:END -->
+ - [Meta, TikTok, Google, and YouTube sue California over a new law that prohibits personalized feeds for minors without parental consent, claiming it violates 1A &lpar;Bernie Pazanowski/Bloomberg Law&rpar;](http://www.techmeme.com/251114/p28#a251114p28)
+ - [Filing: Berkshire Hathaway discloses a $4.3B stake in Alphabet in Q3, a surprising move given Warren Buffett&#39;s reluctance toward high-growth, tech-driven stocks &lpar;Yun Li/CNBC&rpar;](http://www.techmeme.com/251114/p27#a251114p27)
+ - [The 19 Best Tried and Tested Gifts for Bird Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-bird-lovers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
