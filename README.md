@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stop losing your stuff! The Apple AirTag is cheaper than ever](https://www.androidauthority.com/apple-airtag-deal-3-3615967/)
- - [CloudX, which uses Anthropic&#39;s Claude to automate mobile ad pricing and inventory optimization for publishers, raised a $30M Series A led by Addition &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/251114/p16#a251114p16)
- - [6 seconds of fame are back: Vine just got a resurrection](https://www.androidauthority.com/vine-resurrection-divine-3615814/)<!-- TECH:END -->
+ - [Sale: Save on these two awesome portable power stations from Anker!](https://www.androidauthority.com/anker-solix-c200-c300-deals-3615966/)
+ - [The Data Center Resistance Has Arrived](https://www.wired.com/story/the-data-center-resistance-has-arrived/)
+ - [Apple’s last-gen AirPods Pro 2 are down to their lowest price to date](https://www.theverge.com/gadgets/821049/apple-airpods-pro-2-walmart-black-friday-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
