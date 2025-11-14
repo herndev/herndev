@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 6 delays are a consequence of GTA 5&#39;s success](https://www.polygon.com/gta-6s-delayed-development-cycle-consequence-gta-5-success/)
- - [Spray Paint Simulator Update with More Colors, Better Flow, Smoother](https://news.xbox.com/en-us/2025/11/14/spray-paint-simulator-update/)
- - [A New Splinter Cell Was In Development Until Ubisoft Spiked It To Make A Live-Service Game](https://kotaku.com/a-new-splinter-cell-was-in-development-until-ubisoft-spiked-it-to-make-a-live-service-game-2000644414)<!-- GAME:END -->
+ - [The best Xbox Game Pass games to play this weekend &lpar;Nov. 14-16, 2025&rpar;](https://www.polygon.com/game-pass-games-rec-weekend-nov-14-2025/)
+ - [Black Ops 7&#39;s launch day Steam player count is significantly lower than last year&#39;s Call of Duty, suggesting Arc Raiders and Battlefield 6 ate a hefty portion of its lunch](https://www.pcgamer.com/games/call-of-duty/black-ops-7s-launch-day-steam-player-count-is-significantly-lower-than-last-years-call-of-duty-suggesting-arc-raiders-and-battlefield-6-ate-a-hefty-portion-of-its-lunch/)
+ - [Sony&#39;s Concord returns, thanks to unofficial custom servers](https://www.polygon.com/concord-custom-servers-pc-ps5-firewalk-studios/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
