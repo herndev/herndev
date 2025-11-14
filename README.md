@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 3, AirPods Pro 2, &amp; AirPods 4 receive new firmware update](https://appleinsider.com/articles/25/11/13/airpods-pro-3-airpods-pro-2-airpods-4-receive-new-firmware-update?utm_source=rss)
- - [Sundar Pichai proved to be the &quot;wartime CEO&quot; that Google needed after ChatGPT&#39;s launch, making the company an AI leader, in part by empowering Demis Hassabis &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/251113/p53#a251113p53)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
+ - [OpenAI releases GPT-5.1 in the API, featuring a &quot;no-reasoning&quot; mode and extended prompt caching with up to 24-hour retention to generate faster responses &lpar;OpenAI&rpar;](http://www.techmeme.com/251113/p54#a251113p54)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 14 #621](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-14-621/#ftag=CAD590a51e)
+ - [AirPods Pro 3, AirPods Pro 2, &amp; AirPods 4 receive new firmware update](https://appleinsider.com/articles/25/11/13/airpods-pro-3-airpods-pro-2-airpods-4-receive-new-firmware-update?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
