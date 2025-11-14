@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hello Kitty Island Adventure&#39;s next update adds a load of content, but I’m mainly excited to turn myself into a frog](https://www.pcgamer.com/games/life-sim/hello-kitty-island-adventures-next-update-adds-a-load-of-content-but-im-mainly-excited-to-turn-myself-into-a-frog/)
- - [Resident Evil Village harkened back to Resident Evil 4, but what about Resident Evil Requiem? &#39;Resident Evil 2&#39;, says producer](https://www.pcgamer.com/games/horror/resident-evil-village-harkened-back-to-resident-evil-4-but-what-about-resident-evil-requiem-resident-evil-2-says-producer/)
- - [Black Ops 7 campaign review: Maybe the worst Call of Duty campaign ever](https://www.polygon.com/black-ops-7-review-campaign/)<!-- GAME:END -->
+ - [A Wall Street Journal investigation claims to have tracked how 2,300 Nvidia Blackwell AI chips made their way to China via an Indonesian telecoms provider](https://www.pcgamer.com/software/ai/a-wall-street-journal-investigation-claims-to-have-tracked-how-2-300-nvidia-blackwell-ai-chips-made-their-way-to-china-via-an-indonesian-telecoms-provider/)
+ - [Your future Steam Machine can also look like a Portal Companion Cube](https://www.polygon.com/steam-machine-portal-companion-cube/)
+ - [Peak&#39;s newest patch update buffs one of the game&#39;s most exploited items, and finally resolves an issue it&#39;s had since launch](https://www.pcgamer.com/games/sim/peaks-newest-patch-update-buffs-one-of-the-games-most-exploited-items-and-finally-resolves-an-issue-its-had-since-launch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
