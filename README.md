@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [MORE POWER](http://9gag.com/gag/a34eXL8)
- - ⏩ [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
- - 👉 [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)<!-- MEMES:END -->
+ - 💣 [We need to try](http://9gag.com/gag/a87Qg5V)
+ - ⏩ [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)
+ - 👉 [...](http://9gag.com/gag/aAyq98o)<!-- MEMES:END -->
 
 ---
 
