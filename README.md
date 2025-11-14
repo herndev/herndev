@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s a fire sale: All Amazon Fire tablets are at record-low prices!](https://www.androidauthority.com/amazon-fire-hd-8-hd-10-max-11-deals-2-3615965/)
- - [Our Favorite Webcam Is Marked Down by $35](https://www.wired.com/story/logitech-brio-500-deal-1125/)
- - [WH national security memo: Alibaba provides tech support for China military&#39;s &quot;operations&quot; against targets in the US; Alibaba says it is &quot;complete nonsense&quot; &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/251114/p21#a251114p21)<!-- TECH:END -->
+ - [Amazon&#39;s early Black Friday M5 MacBook Pro deal delivers lowest price ever at $1,478](https://appleinsider.com/articles/25/11/14/amazons-early-black-friday-m5-macbook-pro-deal-delivers-lowest-price-ever-at-1478?utm_source=rss)
+ - [Samsung’s latest SmartThings hub is faster, smarter, and smaller](https://www.androidauthority.com/samsung-aeotec-smart-home-hub-2-3616063/)
+ - [30 Best Early Black Friday Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
