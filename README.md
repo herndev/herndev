@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sale: Save on these two awesome portable power stations from Anker!](https://www.androidauthority.com/anker-solix-c200-c300-deals-3615966/)
- - [The Data Center Resistance Has Arrived](https://www.wired.com/story/the-data-center-resistance-has-arrived/)
- - [Apple’s last-gen AirPods Pro 2 are down to their lowest price to date](https://www.theverge.com/gadgets/821049/apple-airpods-pro-2-walmart-black-friday-deal-sale)<!-- TECH:END -->
+ - [Superman, Sinners, and other 4K Blu-rays are just $12.99 ahead of Black Friday](https://www.theverge.com/tech/821035/superman-sinners-4k-blu-ray-black-friday-deal-sale)
+ - [ChatGPT is testing group chats in the most chaotic way](https://www.androidauthority.com/chatgpt-group-chats-3616045/)
+ - [Amazon unveils $18 Apple AirTag deal, the lowest price ever](https://appleinsider.com/articles/25/11/14/amazon-unveils-18-apple-airtag-deal-the-lowest-price-ever?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
