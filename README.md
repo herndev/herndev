@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [And the best game of the PS5 and Xbox Series X generation is...](https://www.polygon.com/best-game-ps5-xbox-series-x-generation/)
- - [Assassin’s Creed Mirage: Valley of Memory Update Brings New Missions, New Area to Explore, and More](https://news.xbox.com/en-us/2025/11/14/assassins-creed-mirage-valley-of-memory-update-out-today/)
- - [There’s A Brand New Minecraft Game, But Don’t Get Your Hopes Up](https://kotaku.com/minecraft-blast-microsoft-mojang-king-2000644328)<!-- GAME:END -->
+ - [Arco is a stunning time-travel epic that nails a classic sci-fi trope](https://www.polygon.com/arco-movie-utopias/)
+ - [Building a Trusted Gaming Future: How Security Powers Fair Play](https://news.xbox.com/en-us/2025/11/14/building-a-trusted-gaming-future-how-security-powers-fair-play/)
+ - [&#39;Windows is evolving into an agentic OS&#39; says Windows president in what I can only assume is a bid to make me swap to Linux](https://www.pcgamer.com/software/windows/windows-is-evolving-into-an-agentic-os-says-windows-president-in-what-i-can-only-assume-is-a-bid-to-make-me-swap-to-linux/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
