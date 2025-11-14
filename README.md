@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hello Kitty Island Adventure&#39;s next update adds a load of content, but I’m mainly excited to turn myself into a frog](https://www.pcgamer.com/games/life-sim/hello-kitty-island-adventures-next-update-adds-a-load-of-content-but-im-mainly-excited-to-turn-myself-into-a-frog/)
  - [Resident Evil Village harkened back to Resident Evil 4, but what about Resident Evil Requiem? &#39;Resident Evil 2&#39;, says producer](https://www.pcgamer.com/games/horror/resident-evil-village-harkened-back-to-resident-evil-4-but-what-about-resident-evil-requiem-resident-evil-2-says-producer/)
- - [Black Ops 7 campaign review: Maybe the worst Call of Duty campaign ever](https://www.polygon.com/black-ops-7-review-campaign/)
- - [Players flood back to co-op survival RPG Enshrouded as the new &#39;Wake of the Water&#39; update gets everyone wet](https://www.pcgamer.com/games/survival-crafting/players-flood-back-to-co-op-survival-rpg-enshrouded-as-the-new-wake-of-the-water-update-gets-everyone-wet/)<!-- GAME:END -->
+ - [Black Ops 7 campaign review: Maybe the worst Call of Duty campaign ever](https://www.polygon.com/black-ops-7-review-campaign/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
