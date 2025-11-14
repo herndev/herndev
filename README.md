@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s early Black Friday M5 MacBook Pro deal delivers lowest price ever at $1,478](https://appleinsider.com/articles/25/11/14/amazons-early-black-friday-m5-macbook-pro-deal-delivers-lowest-price-ever-at-1478?utm_source=rss)
- - [Samsung’s latest SmartThings hub is faster, smarter, and smaller](https://www.androidauthority.com/samsung-aeotec-smart-home-hub-2-3616063/)
- - [30 Best Early Black Friday Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-deals-2025/)<!-- TECH:END -->
+ - [Survey reveals you’d rather go hands-on than try to troubleshoot with a remote app](https://www.androidauthority.com/remote-support-apps-3616032/)
+ - [MLS &amp; Apple TV deal ends in 2029, years ahead of schedule](https://appleinsider.com/articles/25/11/14/mls-apple-tv-deal-ends-in-2029-years-ahead-of-schedule?utm_source=rss)
+ - [Internal memo: Meta plans to assess employees on their &quot;AI-driven impact&quot;, which will be a &quot;core expectation&quot; of their performance from 2026 &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/251114/p24#a251114p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
