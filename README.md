@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu stock fell as much as 9.8% in Hong Kong on Friday after its latest AI model Ernie 5.0 fails to impress investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/251114/p12#a251114p12)
- - [Razer Cobra HyperSpeed: A Basic Gaming Mouse With All You Need](https://www.wired.com/review/razer-cobra-hyperspeed/)
- - [Valve is making microSD cards the next game cartridges](https://www.theverge.com/games/818602/valve-steam-deck-machine-frame-microsd-card-game-cartridges)<!-- TECH:END -->
+ - [Deal: Get the Apple AirPods 4 at a record-low price!](https://www.androidauthority.com/apple-airpods-4-deal-2-3615969/)
+ - [A Berlin court rules that Google must pay €465M and €107M to German price comparison sites Idealo and Producto, in damages for market abuse; Google will appeal &lpar;Reuters&rpar;](http://www.techmeme.com/251114/p13#a251114p13)
+ - [Valve made Microsoft&amp;#8217;s dream console](https://www.theverge.com/podcast/820889/vergecast-steam-machines-neo-robot-fire-tv-piracy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
