@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Xbox Game Pass games to play this weekend &lpar;Nov. 14-16, 2025&rpar;](https://www.polygon.com/game-pass-games-rec-weekend-nov-14-2025/)
- - [Black Ops 7&#39;s launch day Steam player count is significantly lower than last year&#39;s Call of Duty, suggesting Arc Raiders and Battlefield 6 ate a hefty portion of its lunch](https://www.pcgamer.com/games/call-of-duty/black-ops-7s-launch-day-steam-player-count-is-significantly-lower-than-last-years-call-of-duty-suggesting-arc-raiders-and-battlefield-6-ate-a-hefty-portion-of-its-lunch/)
- - [Sony&#39;s Concord returns, thanks to unofficial custom servers](https://www.polygon.com/concord-custom-servers-pc-ps5-firewalk-studios/)<!-- GAME:END -->
+ - [Call of Duty: Black Ops 7 Endgame interactive map](https://www.polygon.com/map/call-of-duty-black-ops-7-endgame-campaign-interactive/)
+ - [Black Ops 7 has problems, but Call of Duty recognizes where the wind is blowing: The triumphant return of loose SBMM and persistent lobbies in the FPS](https://www.pcgamer.com/games/fps/black-ops-7-has-problems-but-call-of-duty-recognizes-where-the-wind-is-blowing-the-triumphant-return-of-loose-sbmm-and-persistent-lobbies-in-the-fps/)
+ - [New DnD books reveal a bigger problem with the 5e revamp](https://www.polygon.com/dnd-dungeons-dragons-2024-opinion-forgotten-realms/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
