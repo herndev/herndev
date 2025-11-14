@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Mac Mini M4 Opens Black Friday Season, Now Selling at New Record Low on Amazon](https://kotaku.com/the-mac-mini-m4-opens-black-friday-season-now-selling-at-new-record-low-on-amazon-2000628053)
- - [As Krafton evolves into an &#39;AI-first company&#39;, the boss of the recently acquired Last Epoch studio says he doesn&#39;t think the &#39;doom and gloom&#39; is warranted](https://www.pcgamer.com/games/rpg/as-krafton-evolves-into-an-ai-first-company-the-boss-of-the-recently-acquired-last-epoch-studio-says-he-doesnt-think-the-doom-and-gloom-is-warranted/)
- - [Red Dead Redemption Gets PS5 Upgrade Before RDR 2 Because Life Isn’t Fair](https://kotaku.com/red-dead-redemption-gets-ps5-upgrade-before-rdr-2-because-life-isnt-fair-2000644145)<!-- GAME:END -->
+ - [Players flood back to co-op survival RPG Enshrouded as the new &#39;Wake of the Water&#39; update gets everyone wet](https://www.pcgamer.com/games/survival-crafting/players-flood-back-to-co-op-survival-rpg-enshrouded-as-the-new-wake-of-the-water-update-gets-everyone-wet/)
+ - [The Witcher 3 didn&#39;t originally make you choose between romancing Yennefer or Triss: &#39;This decision was made pretty late&#39;](https://www.pcgamer.com/games/rpg/the-witcher-3-didnt-originally-make-you-choose-between-romancing-yennefer-or-triss-this-decision-was-made-pretty-late/)
+ - [Amazon Offloads Bose Smart Dolby Atmos Soundbar, Now Selling at No-Name Soundbar Prices](https://kotaku.com/amazon-offloads-bose-smart-dolby-atmos-soundbar-now-selling-at-no-name-soundbar-prices-2000644172)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
