@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Amazon and Anthropic support the GAIN AI Act, which would give US buyers first priority on advanced AI chips, joining Microsoft; Nvidia opposes it &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/251113/p59#a251113p59)
  - [Apple &amp; OpenAI must face baseless xAI lawsuit about alleged anticompetitive collusion](https://appleinsider.com/articles/25/11/14/apple-openai-must-face-baseless-xai-lawsuit-about-alleged-anticompetitive-collusion?utm_source=rss)
- - [Amazon unveils $18 Apple AirTag deal, the lowest price ever](https://appleinsider.com/articles/25/11/14/amazon-unveils-18-apple-airtag-deal-the-lowest-price-ever?utm_source=rss)
- - [What insiders anonymously think about the AI race](https://www.theverge.com/column/820664/cerebral-valley-conference-ai-anonymous-survey)<!-- TECH:END -->
+ - [Google Home’s latest update is all about speed, control, and a sleeker interface](https://www.androidauthority.com/google-home-4-3-update-new-features-improvements-3615829/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
