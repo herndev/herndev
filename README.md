@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unforgettable moments in the history of pop](http://9gag.com/gag/aND8EDK)
- - ⏩ [Human safari](http://9gag.com/gag/apRzM7M)
- - 👉 [False advertising.](http://9gag.com/gag/azxowyN)<!-- MEMES:END -->
+ - 💣 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
+ - ⏩ [MORE POWER](http://9gag.com/gag/a34eXL8)
+ - 👉 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)<!-- MEMES:END -->
 
 ---
 
