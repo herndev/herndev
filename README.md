@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arco is a stunning time-travel epic that nails a classic sci-fi trope](https://www.polygon.com/arco-movie-utopias/)
- - [Building a Trusted Gaming Future: How Security Powers Fair Play](https://news.xbox.com/en-us/2025/11/14/building-a-trusted-gaming-future-how-security-powers-fair-play/)
- - [&#39;Windows is evolving into an agentic OS&#39; says Windows president in what I can only assume is a bid to make me swap to Linux](https://www.pcgamer.com/software/windows/windows-is-evolving-into-an-agentic-os-says-windows-president-in-what-i-can-only-assume-is-a-bid-to-make-me-swap-to-linux/)<!-- GAME:END -->
+ - [&#39;This was the wrong path for Destiny&#39;: After 4 months of dwindling players and community outrage, Bungie admits that The Edge of Fate&#39;s bold new vision for Destiny 2 was a mistake](https://www.pcgamer.com/games/fps/this-was-the-wrong-path-for-destiny-after-4-months-of-dwindling-players-and-community-outrage-bungie-admits-that-the-edge-of-fates-bold-new-vision-for-destiny-2-was-a-mistake/)
+ - [Against All Odds, Concord Is Playable Again](https://kotaku.com/concord-servers-delisted-shutdown-revive-fan-modders-2000644390)
+ - [The glorious sound of silence: Researchers have developed the &#39;world&#39;s first spatial active noise cancellation&#39;, which uses the power of a GPU to deaden whole rooms](https://www.pcgamer.com/hardware/the-glorious-sound-of-silence-researchers-have-developed-spatial-noise-cancellation-that-uses-a-gpu-to-power-an-anc-to-clear-out-a-whole-room/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
