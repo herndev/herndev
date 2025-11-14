@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [So jealous: Samsung phones in one major market will get a ton of system utilities](https://www.androidauthority.com/samsung-smart-manager-app-one-ui-8-5-3615852/)
- - [Could you live with Android if the Play Store was your only option?](https://www.androidauthority.com/android-play-store-only-open-thread-3615878/)
- - [PSA: Here’s why your Pixel 6 and Pixel 7 didn’t get Google’s monthly update this November](https://www.androidauthority.com/pixel-november-update-pixel-6-pixel-7-3615867/)<!-- TECH:END -->
+ - [Like it or not, Apple may be shaping the Galaxy S26’s price and design](https://www.androidauthority.com/samsung-galaxy-s26-price-design-influenced-by-iphone-17-leak-3615889/)
+ - [Amazon confirms it is not giving up on Android for Fire TV entirely](https://www.androidauthority.com/amazon-fire-tv-os-vega-os-explanation-3615880/)
+ - [So jealous: Samsung phones in one major market will get a ton of system utilities](https://www.androidauthority.com/samsung-smart-manager-app-one-ui-8-5-3615852/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
