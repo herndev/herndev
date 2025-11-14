@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Love her honesty..](http://9gag.com/gag/aPAzb6n)
- - ⏩ [Ultra advanced knowledge](http://9gag.com/gag/a9yZg8K)
- - 👉 [The lid opener looks like it would survive an atomic bomb blast](http://9gag.com/gag/a6Z40KR)<!-- MEMES:END -->
+ - 💣 [Probabilities.](http://9gag.com/gag/a6Z462q)
+ - ⏩ [MORE POWER](http://9gag.com/gag/a34eXL8)
+ - 👉 [Who had Ubisoft for November?](http://9gag.com/gag/azxo3op)<!-- MEMES:END -->
 
 ---
 
