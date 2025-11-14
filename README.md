@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Counting Renaissance butts in Rome with the Meta Ray-Ban Display](https://www.theverge.com/column/820894/optimizer-meta-ray-ban-display-enterprise-wearables-tourism-renaissance-art)
- - [Bose QuietComfort Ultra headphones plummet to new record-low price](https://www.androidauthority.com/bose-quietcomfort-ultra-headphones-deal-3-3615968/)
- - [Google Call Recording launches on more Pixel phones](https://www.theverge.com/news/820938/google-call-recording-pixel-phone-app-availability)<!-- TECH:END -->
+ - [Stop losing your stuff! The Apple AirTag is cheaper than ever](https://www.androidauthority.com/apple-airtag-deal-3-3615967/)
+ - [CloudX, which uses Anthropic&#39;s Claude to automate mobile ad pricing and inventory optimization for publishers, raised a $30M Series A led by Addition &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/251114/p16#a251114p16)
+ - [6 seconds of fame are back: Vine just got a resurrection](https://www.androidauthority.com/vine-resurrection-divine-3615814/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
