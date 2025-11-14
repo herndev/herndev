@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Wall Street Journal investigation claims to have tracked how 2,300 Nvidia Blackwell AI chips made their way to China via an Indonesian telecoms provider](https://www.pcgamer.com/software/ai/a-wall-street-journal-investigation-claims-to-have-tracked-how-2-300-nvidia-blackwell-ai-chips-made-their-way-to-china-via-an-indonesian-telecoms-provider/)
- - [Your future Steam Machine can also look like a Portal Companion Cube](https://www.polygon.com/steam-machine-portal-companion-cube/)
- - [Peak&#39;s newest patch update buffs one of the game&#39;s most exploited items, and finally resolves an issue it&#39;s had since launch](https://www.pcgamer.com/games/sim/peaks-newest-patch-update-buffs-one-of-the-games-most-exploited-items-and-finally-resolves-an-issue-its-had-since-launch/)<!-- GAME:END -->
+ - [Wuthering Waves Version 2.8 introduces the Chronorift Metropolis](https://blog.playstation.com/2025/11/14/wuthering-waves-version-2-8-introduces-the-chronorift-metropolis/)
+ - [Is Pluribus actually about AI? We asked Vince Gilligan](https://www.polygon.com/pluribus-episode-3-chatgpt-ai-vince-gilligan/)
+ - [Monster Hunter Stories: How the Turn-Based RPG Spin-Off Became a Pillar of the Iconic Action Series](https://news.xbox.com/en-us/2025/11/14/monster-hunter-stories-interview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
