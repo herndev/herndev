@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;This was the wrong path for Destiny&#39;: After 4 months of dwindling players and community outrage, Bungie admits that The Edge of Fate&#39;s bold new vision for Destiny 2 was a mistake](https://www.pcgamer.com/games/fps/this-was-the-wrong-path-for-destiny-after-4-months-of-dwindling-players-and-community-outrage-bungie-admits-that-the-edge-of-fates-bold-new-vision-for-destiny-2-was-a-mistake/)
- - [Against All Odds, Concord Is Playable Again](https://kotaku.com/concord-servers-delisted-shutdown-revive-fan-modders-2000644390)
- - [The glorious sound of silence: Researchers have developed the &#39;world&#39;s first spatial active noise cancellation&#39;, which uses the power of a GPU to deaden whole rooms](https://www.pcgamer.com/hardware/the-glorious-sound-of-silence-researchers-have-developed-spatial-noise-cancellation-that-uses-a-gpu-to-power-an-anc-to-clear-out-a-whole-room/)<!-- GAME:END -->
+ - [Gabe Newell caps off Steam Machine week by taking delivery of a new $500 million superyacht with a submarine garage, on-board hospital and 15 gaming PCs](https://www.pcgamer.com/gaming-industry/gabe-newell-caps-off-steam-machine-week-by-taking-delivery-of-a-new-usd500-million-superyacht-with-a-submarine-garage-on-board-hospital-and-15-gaming-pcs/)
+ - [Activision Responds To Call Of Duty: Black Ops 7‘s AI-Generated Artwork](https://kotaku.com/call-of-duty-black-ops-7-ai-art-activision-statement-blops7-steam-ps5-2000644397)
+ - [Fortnite fans are convinced The Simpsons season has a cheating problem](https://www.polygon.com/fortnite-simpsons-season-cheating-hackers-unban-wave-aimbot/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
