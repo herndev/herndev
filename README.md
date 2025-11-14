@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oracle shares are down nearly 30% in the past month, reversing more than $250B in market value gains following the announcement of its OpenAI deals in September &lpar;Financial Times&rpar;](http://www.techmeme.com/251114/p1#a251114p1)
- - [Amazon tells us what we already knew: It ditched Android because of piracy &lpar;Update: Amazon’s statement&rpar;](https://www.androidauthority.com/amazon-fire-tv-vega-os-3615435/)
- - [How Microsoft, Amazon, Meta, and Google are managing the strain of AI&#39;s increased energy demand with their promises of net-zero carbon emissions &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/251113/p61#a251113p61)<!-- TECH:END -->
+ - [I rode in one of the UK’s first self-driving cars](https://www.theverge.com/report/820324/wayve-driverless-robotaxi-london)
+ - [HelloFresh Coupon Codes: 55% Off + Free Meals - November 2025](https://www.wired.com/story/hellofresh-coupon/)
+ - [Sealy Promo Code: Save $200 on Mattresses in November 2025](https://www.wired.com/story/sealy-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
