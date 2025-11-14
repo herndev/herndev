@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp is launching third-party chat integration in Europe](https://www.theverge.com/news/820858/whatsapp-third-party-messaging-date-eu-e2ee)
- - [Spotify’s new Recaps audiobook tool is here to save you from your own memory failure](https://www.androidauthority.com/spotify-recaps-feature-rollout-3615905/)
- - [Pixel’s ‘Take a Message’ voicemail feature may soon get easier to personalize](https://www.androidauthority.com/google-phone-take-a-message-custom-voicemail-3615912/)<!-- TECH:END -->
+ - [Tether CEO Paolo Ardoino says the company plans to expand its lending to commodities traders &quot;dramatically&quot; after extending ~$1.5B worth of credit to the sector &lpar;Bloomberg&rpar;](http://www.techmeme.com/251114/p7#a251114p7)
+ - [Exclusive: Google’s take on NameDrop could be coming soon to Android, and here’s your first look](https://www.androidauthority.com/google-contact-gesture-exchange-apk-teardown-3615939/)
+ - [Inside Homebrew: How to get the best open source software on Mac, for free](https://appleinsider.com/inside/macos/tips/inside-homebrew-how-to-get-the-best-open-source-software-on-mac-for-free?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
