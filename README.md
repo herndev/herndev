@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These hilarious Galaxy S26 Ultra clones offer unbelievable specs for under $200](https://www.androidauthority.com/samsung-galaxy-s26-ultra-clones-3615899/)
- - [I Cooked an Entire Thanksgiving Dinner With Just Blue Apron Meal Kits. Here&#39;s How It Went](https://www.cnet.com/health/nutrition/cooked-entire-thanksgiving-dinner-blue-apron-meal-kits-how-it-went/#ftag=CAD590a51e)
- - [An interview with Unity CEO Matthew Bromberg on lessons from AOL, the rise of esports, turning around EA&#39;s Star Wars: The Old Republic, Zynga, more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251114/p3#a251114p3)<!-- TECH:END -->
+ - [WhatsApp is launching third-party chat integration in Europe](https://www.theverge.com/news/820858/whatsapp-third-party-messaging-date-eu-e2ee)
+ - [Spotify’s new Recaps audiobook tool is here to save you from your own memory failure](https://www.androidauthority.com/spotify-recaps-feature-rollout-3615905/)
+ - [Pixel’s ‘Take a Message’ voicemail feature may soon get easier to personalize](https://www.androidauthority.com/google-phone-take-a-message-custom-voicemail-3615912/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
