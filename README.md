@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
- - ⏩ [The missing plot](http://9gag.com/gag/aAyqAro)
- - 👉 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)<!-- MEMES:END -->
+ - 💣 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
+ - ⏩ [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)
+ - 👉 [You could see so many emotions on his face, even through the helmet](http://9gag.com/gag/aVv45ry)<!-- MEMES:END -->
 
 ---
 
