@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Players flood back to co-op survival RPG Enshrouded as the new &#39;Wake of the Water&#39; update gets everyone wet](https://www.pcgamer.com/games/survival-crafting/players-flood-back-to-co-op-survival-rpg-enshrouded-as-the-new-wake-of-the-water-update-gets-everyone-wet/)
- - [The Witcher 3 didn&#39;t originally make you choose between romancing Yennefer or Triss: &#39;This decision was made pretty late&#39;](https://www.pcgamer.com/games/rpg/the-witcher-3-didnt-originally-make-you-choose-between-romancing-yennefer-or-triss-this-decision-was-made-pretty-late/)
- - [Amazon Offloads Bose Smart Dolby Atmos Soundbar, Now Selling at No-Name Soundbar Prices](https://kotaku.com/amazon-offloads-bose-smart-dolby-atmos-soundbar-now-selling-at-no-name-soundbar-prices-2000644172)<!-- GAME:END -->
+ - [Resident Evil Village harkened back to Resident Evil 4, but what about Resident Evil Requiem? &#39;Resident Evil 2&#39;, says producer](https://www.pcgamer.com/games/horror/resident-evil-village-harkened-back-to-resident-evil-4-but-what-about-resident-evil-requiem-resident-evil-2-says-producer/)
+ - [Black Ops 7 campaign review: Maybe the worst Call of Duty campaign ever](https://www.polygon.com/black-ops-7-review-campaign/)
+ - [Players flood back to co-op survival RPG Enshrouded as the new &#39;Wake of the Water&#39; update gets everyone wet](https://www.pcgamer.com/games/survival-crafting/players-flood-back-to-co-op-survival-rpg-enshrouded-as-the-new-wake-of-the-water-update-gets-everyone-wet/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
