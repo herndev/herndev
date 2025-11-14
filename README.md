@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scientists have identified a black fungus growing on the radioactive remains of the Chernobyl nuclear reactor that appears to have evolved the ability to feed on radiation. The species, Cladosporium sphaerospermum, uses a rare process known as radiosynthesis](http://9gag.com/gag/a5Qvgzr)
- - ⏩ [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
- - 👉 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)<!-- MEMES:END -->
+ - 💣 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
+ - ⏩ [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
+ - 👉 [Probabilities.](http://9gag.com/gag/a6Z462q)<!-- MEMES:END -->
 
 ---
 
