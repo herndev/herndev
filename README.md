@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Like it or not, Apple may be shaping the Galaxy S26’s price and design](https://www.androidauthority.com/samsung-galaxy-s26-price-design-influenced-by-iphone-17-leak-3615889/)
- - [Amazon confirms it is not giving up on Android for Fire TV entirely](https://www.androidauthority.com/amazon-fire-tv-os-vega-os-explanation-3615880/)
- - [So jealous: Samsung phones in one major market will get a ton of system utilities](https://www.androidauthority.com/samsung-smart-manager-app-one-ui-8-5-3615852/)<!-- TECH:END -->
+ - [These hilarious Galaxy S26 Ultra clones offer unbelievable specs for under $200](https://www.androidauthority.com/samsung-galaxy-s26-ultra-clones-3615899/)
+ - [I Cooked an Entire Thanksgiving Dinner With Just Blue Apron Meal Kits. Here&#39;s How It Went](https://www.cnet.com/health/nutrition/cooked-entire-thanksgiving-dinner-blue-apron-meal-kits-how-it-went/#ftag=CAD590a51e)
+ - [An interview with Unity CEO Matthew Bromberg on lessons from AOL, the rise of esports, turning around EA&#39;s Star Wars: The Old Republic, Zynga, more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251114/p3#a251114p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
