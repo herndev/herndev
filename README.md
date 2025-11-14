@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Love her honesty..](http://9gag.com/gag/aPAzb6n)
- - ⏩ [The lid opener looks like it would survive an atomic bomb blast](http://9gag.com/gag/a6Z40KR)
- - 👉 [Ultra advanced knowledge](http://9gag.com/gag/a9yZg8K)<!-- MEMES:END -->
+ - ⏩ [Ultra advanced knowledge](http://9gag.com/gag/a9yZg8K)
+ - 👉 [The lid opener looks like it would survive an atomic bomb blast](http://9gag.com/gag/a6Z40KR)<!-- MEMES:END -->
 
 ---
 
