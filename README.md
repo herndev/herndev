@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a selfless act by this brave SOB. RIP sir.](http://9gag.com/gag/ajPGe88)
- - ⏩ [Printing pictures from vhs tapes](http://9gag.com/gag/aVv4ymP)
- - 👉 [Just a typical day on the road, nothing to see here](http://9gag.com/gag/a5Qv06V)<!-- MEMES:END -->
+ - 💣 [Human safari](http://9gag.com/gag/apRzM7M)
+ - ⏩ [Probabilities.](http://9gag.com/gag/a6Z462q)
+ - 👉 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)<!-- MEMES:END -->
 
 ---
 
