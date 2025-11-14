@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We need to try](http://9gag.com/gag/a87Qg5V)
- - ⏩ [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)
- - 👉 [...](http://9gag.com/gag/aAyq98o)<!-- MEMES:END -->
+ - 💣 [Human safari](http://9gag.com/gag/apRzM7M)
+ - ⏩ [Unforgettable moments in the history of pop](http://9gag.com/gag/aND8EDK)
+ - 👉 [False advertising.](http://9gag.com/gag/azxowyN)<!-- MEMES:END -->
 
 ---
 
