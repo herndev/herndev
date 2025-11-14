@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Human safari](http://9gag.com/gag/apRzM7M)
- - ⏩ [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)
- - 👉 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)<!-- MEMES:END -->
+ - 💣 [MORE POWER](http://9gag.com/gag/a34eXL8)
+ - ⏩ [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
+ - 👉 [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)<!-- MEMES:END -->
 
 ---
 
