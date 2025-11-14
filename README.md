@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for November 17 to 21](https://news.xbox.com/en-us/2025/11/14/next-week-on-xbox-new-games-for-november-17-to-21/)
- - [Pokémon Legends: Z-A Has A Cheating Problem And Players Are Helpless To Stop It](https://kotaku.com/pokemon-legends-za-hacker-cheater-earthquake-ban-2000644326)
- - [Forget Apple Watch, Garmin Forerunner 55 GPS Watch Goes for Almost Free After an Early Black Friday Price Cut](https://kotaku.com/amazon-drops-the-garmin-forerunner-55-by-50-all-color-options-are-discounted-2000643994)<!-- GAME:END -->
+ - [And the best game of the PS5 and Xbox Series X generation is...](https://www.polygon.com/best-game-ps5-xbox-series-x-generation/)
+ - [Assassin’s Creed Mirage: Valley of Memory Update Brings New Missions, New Area to Explore, and More](https://news.xbox.com/en-us/2025/11/14/assassins-creed-mirage-valley-of-memory-update-out-today/)
+ - [There’s A Brand New Minecraft Game, But Don’t Get Your Hopes Up](https://kotaku.com/minecraft-blast-microsoft-mojang-king-2000644328)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
