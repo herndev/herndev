@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I rode in one of the UK’s first self-driving cars](https://www.theverge.com/report/820324/wayve-driverless-robotaxi-london)
- - [HelloFresh Coupon Codes: 55% Off + Free Meals - November 2025](https://www.wired.com/story/hellofresh-coupon/)
- - [Sealy Promo Code: Save $200 on Mattresses in November 2025](https://www.wired.com/story/sealy-promo-code/)<!-- TECH:END -->
+ - [So jealous: Samsung phones in one major market will get a ton of system utilities](https://www.androidauthority.com/samsung-smart-manager-app-one-ui-8-5-3615852/)
+ - [Could you live with Android if the Play Store was your only option?](https://www.androidauthority.com/android-play-store-only-open-thread-3615878/)
+ - [PSA: Here’s why your Pixel 6 and Pixel 7 didn’t get Google’s monthly update this November](https://www.androidauthority.com/pixel-november-update-pixel-6-pixel-7-3615867/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
