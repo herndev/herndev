@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Get the Apple AirPods 4 at a record-low price!](https://www.androidauthority.com/apple-airpods-4-deal-2-3615969/)
- - [A Berlin court rules that Google must pay €465M and €107M to German price comparison sites Idealo and Producto, in damages for market abuse; Google will appeal &lpar;Reuters&rpar;](http://www.techmeme.com/251114/p13#a251114p13)
- - [Valve made Microsoft&amp;#8217;s dream console](https://www.theverge.com/podcast/820889/vergecast-steam-machines-neo-robot-fire-tv-piracy)<!-- TECH:END -->
+ - [Counting Renaissance butts in Rome with the Meta Ray-Ban Display](https://www.theverge.com/column/820894/optimizer-meta-ray-ban-display-enterprise-wearables-tourism-renaissance-art)
+ - [Bose QuietComfort Ultra headphones plummet to new record-low price](https://www.androidauthority.com/bose-quietcomfort-ultra-headphones-deal-3-3615968/)
+ - [Google Call Recording launches on more Pixel phones](https://www.theverge.com/news/820938/google-call-recording-pixel-phone-app-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
