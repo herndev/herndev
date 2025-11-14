@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gabe Newell caps off Steam Machine week by taking delivery of a new $500 million superyacht with a submarine garage, on-board hospital and 15 gaming PCs](https://www.pcgamer.com/gaming-industry/gabe-newell-caps-off-steam-machine-week-by-taking-delivery-of-a-new-usd500-million-superyacht-with-a-submarine-garage-on-board-hospital-and-15-gaming-pcs/)
- - [Activision Responds To Call Of Duty: Black Ops 7‘s AI-Generated Artwork](https://kotaku.com/call-of-duty-black-ops-7-ai-art-activision-statement-blops7-steam-ps5-2000644397)
- - [Fortnite fans are convinced The Simpsons season has a cheating problem](https://www.polygon.com/fortnite-simpsons-season-cheating-hackers-unban-wave-aimbot/)<!-- GAME:END -->
+ - [GTA 6 delays are a consequence of GTA 5&#39;s success](https://www.polygon.com/gta-6s-delayed-development-cycle-consequence-gta-5-success/)
+ - [Spray Paint Simulator Update with More Colors, Better Flow, Smoother](https://news.xbox.com/en-us/2025/11/14/spray-paint-simulator-update/)
+ - [A New Splinter Cell Was In Development Until Ubisoft Spiked It To Make A Live-Service Game](https://kotaku.com/a-new-splinter-cell-was-in-development-until-ubisoft-spiked-it-to-make-a-live-service-game-2000644414)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
