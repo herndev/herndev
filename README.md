@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Dead Redemption Gets PS5 Upgrade Before RDR 2 Because Life Isn’t Fair](https://kotaku.com/red-dead-redemption-gets-ps5-upgrade-before-rdr-2-because-life-isnt-fair-2000644145)
- - [Alien: Earth renewed for Season 2, which is a great opportunity to make up for the disappointing end of Season 1](https://www.pcgamer.com/movies-tv/alien-earth-renewed-for-season-2-which-is-a-great-opportunity-to-make-up-for-the-disappointing-end-of-season-1/)
- - [I can&#39;t live without the Steam Deck&#39;s trackpads anymore, and I hope the Steam Controller forces the competition to adopt them](https://www.pcgamer.com/hardware/game-pads/i-cant-live-without-the-steam-decks-trackpads-anymore-and-i-hope-the-steam-controller-forces-the-competition-to-adopt-them/)<!-- GAME:END -->
+ - [The Mac Mini M4 Opens Black Friday Season, Now Selling at New Record Low on Amazon](https://kotaku.com/the-mac-mini-m4-opens-black-friday-season-now-selling-at-new-record-low-on-amazon-2000628053)
+ - [As Krafton evolves into an &#39;AI-first company&#39;, the boss of the recently acquired Last Epoch studio says he doesn&#39;t think the &#39;doom and gloom&#39; is warranted](https://www.pcgamer.com/games/rpg/as-krafton-evolves-into-an-ai-first-company-the-boss-of-the-recently-acquired-last-epoch-studio-says-he-doesnt-think-the-doom-and-gloom-is-warranted/)
+ - [Red Dead Redemption Gets PS5 Upgrade Before RDR 2 Because Life Isn’t Fair](https://kotaku.com/red-dead-redemption-gets-ps5-upgrade-before-rdr-2-because-life-isnt-fair-2000644145)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
