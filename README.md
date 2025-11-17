@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese toymaker FoloToy suspends sales of its GPT-4o-powered teddy bear, after researchers found the toy gave kids harmful responses, including sexual content &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/251117/p5#a251117p5)
- - [Sources: AI startup Project Prometheus raised $6.2B, including from Jeff Bezos, who will become co-CEO, his first operational role since leaving Amazon in 2021 &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/251117/p4#a251117p4)
- - [‘Unremovable Israeli spyware’ on your Samsung phone? Here’s what the controversy is all about](https://www.androidauthority.com/samsung-appcloud-spyware-controversy-3616325/)<!-- TECH:END -->
+ - [Wild rumor points to iPhone Fold having a bigger battery than Z Fold 7 and Z Fold 8](https://www.androidauthority.com/apple-iphone-fold-battery-leak-3616344/)
+ - [12 Best Tech Gifts That They&#39;d Actually Want &lpar;2025&rpar;](https://www.wired.com/story/best-tech-gifts/)
+ - [Jeff Bezos will be co-CEO of AI startup Project Prometheus](https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
