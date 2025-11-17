@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Blood of Dawnwalker&#39;s latest gameplay trailer starts out looking like a Witcher spinoff, then the main character starts walking on walls](https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-latest-gameplay-trailer-starts-out-looking-like-a-witcher-spinoff-then-the-main-character-starts-walking-on-walls/)
  - [Five new Steam games you probably missed &lpar;November 17, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-17-2025/)
- - [AirPods Max Alternative, These Bose Ultra Headphones Reach New All-Time Low on Amazon](https://kotaku.com/airpods-max-alternative-these-bose-ultra-headphones-reach-new-all-time-low-on-amazon-2000644687)
- - [The sequel to one of my favorite 3D platformers always had a janky PC port, but a huge fanmade patch just dropped in hopes to fix it](https://www.pcgamer.com/games/action/the-sequel-to-one-of-my-favorite-3d-platformers-always-had-a-janky-pc-port-but-a-huge-fanmade-patch-just-dropped-in-hopes-to-fix-it/)<!-- GAME:END -->
+ - [AirPods Max Alternative, These Bose Ultra Headphones Reach New All-Time Low on Amazon](https://kotaku.com/airpods-max-alternative-these-bose-ultra-headphones-reach-new-all-time-low-on-amazon-2000644687)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
