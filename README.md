@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Mighty Nein review: A zippy detour to get to Vox Machina’s return](https://www.polygon.com/the-mighty-nein-amazon-prime-video-review-no-spoilers/)
- - [The Destoyinator is a data-blitzing coffin that can wipe up to 60 drives at once](https://www.pcgamer.com/hardware/storage/the-destoyinator-is-a-data-blitzing-coffin-that-can-wipe-up-to-60-drives-at-once/)
- - [One Scene In Dispatch Has Ruined The Game For Some Players](https://kotaku.com/dispatch-episode-7-invisigal-locker-scene-sexual-assault-2000644844)<!-- GAME:END -->
+ - [Silent Hill f&#39;s casual mode takes a frustrating approach to difficulty](https://www.polygon.com/silent-hill-f-patch-notes-update-casual-mode-difficulty/)
+ - [Logitech Is Basically Giving Away This USB Gaming Microphone for Nearly Free](https://kotaku.com/logitech-blue-yeti-microphone-just-hit-its-lowest-price-ever-just-ahead-of-black-friday-2000644657)
+ - [Best AK-27 loadout in Black Ops 7](https://www.pcgamer.com/games/call-of-duty/black-ops-7-ak-27-loadout/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
