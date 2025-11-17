@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Partner Preview: See the Latest Games From Our Amazing Third Party Partners This Week](https://news.xbox.com/en-us/2025/11/17/xbox-partner-preview-november-2025-announce/)
- - [Resident Evil Requiem&#39;s producer assures fans that no punches have been pulled with its horror, but will still welcome player feedback: &#39;My mental health is very strong—I am fine to read the comments&#39;](https://www.pcgamer.com/games/horror/resident-evil-requiems-producer-assures-fans-that-no-punches-have-been-pulled-with-its-horror-but-will-still-welcome-player-feedback-my-mental-health-is-very-strong-i-am-fine-to-read-the-comments/)
- - [Bose QuietComfort Ultra Headphones Fall Below Last Black Friday Pricing, Now Almost 2x Cheaper Than AirPods Max](https://kotaku.com/amazons-offering-the-bose-quietcomfort-ultra-bluetooth-headphones-for-two-thirds-its-usual-price-2000644438)<!-- GAME:END -->
+ - [The Mighty Nein review: A zippy detour to get to Vox Machina’s return](https://www.polygon.com/the-mighty-nein-amazon-prime-video-review-no-spoilers/)
+ - [The Destoyinator is a data-blitzing coffin that can wipe up to 60 drives at once](https://www.pcgamer.com/hardware/storage/the-destoyinator-is-a-data-blitzing-coffin-that-can-wipe-up-to-60-drives-at-once/)
+ - [One Scene In Dispatch Has Ruined The Game For Some Players](https://kotaku.com/dispatch-episode-7-invisigal-locker-scene-sexual-assault-2000644844)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
