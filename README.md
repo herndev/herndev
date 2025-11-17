@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Forgotten Realms books are set after Baldur&#39;s Gate 3 and show Karlach found her happy ending, though one jerk wizard also dodged his comeuppance](https://www.pcgamer.com/games/baldurs-gate/the-new-forgotten-realms-books-are-set-after-baldurs-gate-3-and-show-karlach-found-her-happy-ending-though-one-jerk-wizard-also-dodged-his-comeuppance/)
- - [The Blood of Dawnwalker&#39;s latest gameplay trailer starts out looking like a Witcher spinoff, then the main character starts walking on walls](https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-latest-gameplay-trailer-starts-out-looking-like-a-witcher-spinoff-then-the-main-character-starts-walking-on-walls/)
- - [Five new Steam games you probably missed &lpar;November 17, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-17-2025/)<!-- GAME:END -->
+ - [Marvel&#39;s Deadpool VR, as reviewed by Deadpool](https://www.polygon.com/marvels-deadpool-vr-review/)
+ - [ASUS TUF F16 &lpar;2025&rpar; Gaming Laptop With RTX 5050 Just Dropped by Hundreds, Lowest Price Yet for This New Release](https://kotaku.com/amazon-just-slashed-350-off-this-asus-tuf-f16-gaming-laptop-dropping-a-1300-machine-to-its-lowest-price-yet-2000644446)
+ - [Bungie and sci-fi author settle lawsuit over alleged plagiarism of his old Wordpress stories for Destiny 2&#39;s launch campaign](https://www.pcgamer.com/games/fps/bungie-and-sci-fi-author-settle-lawsuit-over-alleged-plagiarism-of-his-old-wordpress-stories-for-destiny-2s-launch-campaign/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
