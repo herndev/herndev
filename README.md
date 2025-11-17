@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [South Africans describing life in South Africa.](http://9gag.com/gag/aByj7WZ)
- - ⏩ [Dad&#39;s got some moves](http://9gag.com/gag/aGy6W20)
- - 👉 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)<!-- MEMES:END -->
+ - 💣 [Pure cinema](http://9gag.com/gag/a6Z4vOq)
+ - ⏩ [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
+ - 👉 [Dad&#39;s got some moves](http://9gag.com/gag/aGy6W20)<!-- MEMES:END -->
 
 ---
 
