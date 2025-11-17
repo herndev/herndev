@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wild rumor points to iPhone Fold having a bigger battery than Z Fold 7 and Z Fold 8](https://www.androidauthority.com/apple-iphone-fold-battery-leak-3616344/)
- - [12 Best Tech Gifts That They&#39;d Actually Want &lpar;2025&rpar;](https://www.wired.com/story/best-tech-gifts/)
- - [Jeff Bezos will be co-CEO of AI startup Project Prometheus](https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup)<!-- TECH:END -->
+ - [Danish startup Flatpay, which facilitates card payments for SMBs, raised €145M at a €1.5B valuation and says it &quot;crossed €100M of ARR in October&quot; &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251117/p9#a251117p9)
+ - [Sources: UK companies and groups tell the UK that a planned ban on paying ransoms to ransomware gangs is unlikely to stop attacks and risks collapsing services &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/251117/p8#a251117p8)
+ - [Early Black Friday steal: Score record 33% savings on the new Skullcandy Push 720 buds](https://www.androidauthority.com/skullcandy-push-720-black-friday-deal-3616062/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
