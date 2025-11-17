@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Concord, one of the most infamous videogame flops of all time, creeps back to life thanks to fans who have spent months building custom server software](https://www.pcgamer.com/games/fps/concord-one-of-the-most-infamous-videogame-flops-of-all-time-creeps-back-to-life-thanks-to-fans-who-have-spent-months-building-custom-server-software/)
- - [Escape from Tarkov launch times and release date for 1.0](https://www.pcgamer.com/games/fps/escape-from-tarkov-launch-time-release-date/)
- - [&#39;I will probably never fully acknowledge whether or not everything has been solved&#39; says Blue Prince creator: &#39;There are certainly mysteries still in the game&#39;](https://www.pcgamer.com/games/puzzle/i-will-probably-never-fully-acknowledge-whether-or-not-everything-has-been-solved-says-blue-prince-creator-there-are-certainly-mysteries-still-in-the-game/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;November 17, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-17-2025/)
+ - [AirPods Max Alternative, These Bose Ultra Headphones Reach New All-Time Low on Amazon](https://kotaku.com/airpods-max-alternative-these-bose-ultra-headphones-reach-new-all-time-low-on-amazon-2000644687)
+ - [The sequel to one of my favorite 3D platformers always had a janky PC port, but a huge fanmade patch just dropped in hopes to fix it](https://www.pcgamer.com/games/action/the-sequel-to-one-of-my-favorite-3d-platformers-always-had-a-janky-pc-port-but-a-huge-fanmade-patch-just-dropped-in-hopes-to-fix-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
