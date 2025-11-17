@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
- - ⏩ [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
- - 👉 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)<!-- MEMES:END -->
+ - 💣 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - ⏩ [Next level of forklift certification.](http://9gag.com/gag/abAKPGO)
+ - 👉 [Cute skunks](http://9gag.com/gag/aAyqWQZ)<!-- MEMES:END -->
 
 ---
 
