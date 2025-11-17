@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Now Brief just got smarter with built-in Nano Banana suggestions](https://www.androidauthority.com/samsung-now-brief-nano-banana-3616330/)
- - [Chinese chipmaker Cambricon&#39;s revenue surged 500%+ in the past year and its stock jumped 765%+ in two years, as China pushes local chips amid US sanctions &lpar;Bloomberg&rpar;](http://www.techmeme.com/251117/p2#a251117p2)
- - [iPhone 18 could forever change when Android flagships are released](https://www.androidauthority.com/apple-iphone-18-release-strategy-android-implications-3616318/)<!-- TECH:END -->
+ - [Chinese toymaker FoloToy suspends sales of its GPT-4o-powered teddy bear, after researchers found the toy gave kids harmful responses, including sexual content &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/251117/p5#a251117p5)
+ - [Sources: AI startup Project Prometheus raised $6.2B, including from Jeff Bezos, who will become co-CEO, his first operational role since leaving Amazon in 2021 &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/251117/p4#a251117p4)
+ - [‘Unremovable Israeli spyware’ on your Samsung phone? Here’s what the controversy is all about](https://www.androidauthority.com/samsung-appcloud-spyware-controversy-3616325/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
