@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Calendar is finally making it easy to give yourself the time you need to get stuff done](https://www.androidauthority.com/google-calendar-task-3616581/)
- - [xAI unveils Grok 4.1, saying it&#39;s 3x less likely to hallucinate compared to its previous models and Grok 4.1 Thinking holds the top spot on LMArena&#39;s Text Arena &lpar;xAI&rpar;](http://www.techmeme.com/251117/p33#a251117p33)
- - [Need a good gaming chair? Check out this Razer Enki X deal!](https://www.androidauthority.com/razer-enki-x-essential-gaming-chair-deal-3616529/)<!-- TECH:END -->
+ - [OpenAI is finally letting employees donate their equity to charity](https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation)
+ - [We hope Google takes a hint from this Apple phone case rumor](https://www.androidauthority.com/iphone-pro-case-with-touch-interface-3616584/)
+ - [SCOTUS declines to hear an appeal by Gesture Technology Partners over the right to challenge expired patents, leaving in place a win for Apple, Google, and LG &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251117/p35#a251117p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
