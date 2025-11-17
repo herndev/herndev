@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AI Mode wants to make custom travel planning cheaper and easier](https://www.androidauthority.com/google-ai-mode-travel-planning-canvas-3616391/)
- - [Google pulled the plug on old Nest thermostats, but not the data mine](https://www.androidauthority.com/unsupported-nest-thermostats-send-google-data-3616455/)
- - [Best early Black Friday iPad deals deliver prices from $299](https://appleinsider.com/articles/25/11/17/best-early-black-friday-ipad-deals-deliver-prices-from-299?utm_source=rss)<!-- TECH:END -->
+ - [Apple Sports brings match results to 20 more European countries](https://appleinsider.com/articles/25/11/17/apple-sports-brings-match-results-to-20-more-european-countries?utm_source=rss)
+ - [Celero, which is developing a chip to enable long-distance connections between AI data centers, raised $140M, including a $100M Series B led by CapitalG &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251117/p23#a251117p23)
+ - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
