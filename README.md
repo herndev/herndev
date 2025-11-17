@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad&#39;s got some moves](http://9gag.com/gag/aGy6W20)
- - ⏩ [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 💣 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
+ - ⏩ [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
  - 👉 [Pure cinema](http://9gag.com/gag/a6Z4vOq)<!-- MEMES:END -->
 
 ---
