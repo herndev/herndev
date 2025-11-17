@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well habibi](http://9gag.com/gag/aPAzO7V)
- - ⏩ [We wuz Romans](http://9gag.com/gag/ae9yXLW)
- - 👉 [Chuck Norris](http://9gag.com/gag/aD2qRjK)<!-- MEMES:END -->
+ - 💣 [Wood cumin cider box.](http://9gag.com/gag/ayNZOqy)
+ - ⏩ [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 👉 [HOLY SHIT THEY F**KIN DIED!](http://9gag.com/gag/a1mB4qR)<!-- MEMES:END -->
 
 ---
 
