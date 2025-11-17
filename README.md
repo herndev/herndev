@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Opera says in the 12 months ending with October, it saw a 88% surge in daily active iOS users across Europe, partly due to the changes mandated by the DMA &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/251114/p30#a251114p30)
- - [Google Play has a new tool for finding where to watch your next show](https://www.androidauthority.com/google-play-where-to-watch-3616154/)
- - [OpenAI says ChatGPT will now ditch em dashes if users tell it to; em dashes have become telltale signs that supposedly signals text written by AI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251114/p29#a251114p29)<!-- TECH:END -->
+ - [Forecasters at the US National Hurricane Center are increasingly leaning on Google&#39;s new DeepMind prediction model, though questions about its methods remain &lpar;Eric Holthaus/The Guardian&rpar;](http://www.techmeme.com/251116/p7#a251116p7)
+ - [You need to listen to the searing noise pop album Forever in Your Heart](https://www.theverge.com/entertainment/821782/you-need-to-listen-to-the-searing-noise-pop-album-forever-in-your-heart)
+ - [Tokyo-based Sakana AI becomes Japan&#39;s most valuable unicorn at a ~$2.6B valuation, following a ~$130M raise from Mitsubishi UFJ Financial and US VC firms &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251116/p6#a251116p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
