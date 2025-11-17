@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Game Awards 2025: When and what time it starts](https://www.polygon.com/game-awards-2025-how-to-watch-when-time-est-pst/)
- - [Helldivers 2 Head Says Arc Raiders’ Use Of AI ‘Makes Gaming Better’](https://kotaku.com/helldivers-2-gen-ai-arc-raiders-brendan-green-2000644914)
- - [The biggest snubs from the 2025 Game Awards nominees](https://www.polygon.com/game-awards-2025-snubs-tga/)<!-- GAME:END -->
+ - [New Survey Says Most Players Around The World Prefer Single-Player Games](https://kotaku.com/new-survey-most-players-around-world-prefer-singleplayer-games-solo-2000644895)
+ - [First live-action Moana trailer looks like a Disney cartoon](https://www.polygon.com/disney-live-action-moana-movie-trailer/)
+ - [Overwatch 2’s Next Hero Is Your New Italian Mommy And Also An Unexpected Throwback](https://kotaku.com/overwatch-2-vendetta-reveal-trailer-cinematic-video-2000644926)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
