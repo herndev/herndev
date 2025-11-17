@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your online reservations are telling restaurants all about you](https://www.theverge.com/report/822110/opentable-ai-assisted-data-restaurants)
- - [Don&#39;t get overwhelmed by spam &amp; scams, remove your personal information from the internet](https://appleinsider.com/articles/25/11/17/dont-get-overwhelmed-by-spam-scams-remove-your-personal-information-from-the-internet?utm_source=rss)
- - [Cloudflare acquires Replicate, which hosts over 50,000 AI models and simplifies AI model deployment via a single API call; Replicate will keep its brand &lpar;Cloudflare&rpar;](http://www.techmeme.com/251117/p25#a251117p25)<!-- TECH:END -->
+ - [Bose’s noise-canceling QuietComfort Headphones are more than 50 percent off](https://www.theverge.com/gadgets/822365/bose-noise-canceling-quietcomfort-headphones-amazon-deal-sale)
+ - [Valve wants to make Steam Deck updates as convenient as updating your phone](https://www.androidauthority.com/steam-deck-docked-updates-3616492/)
+ - [Pinkfong prices its South Korea IPO at ~$26 per share, valuing the company behind Baby Shark Dance, YouTube&#39;s most-watched video with 16.4B views, at ~$375M &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251117/p28#a251117p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
