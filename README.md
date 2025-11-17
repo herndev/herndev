@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel&#39;s Deadpool VR, as reviewed by Deadpool](https://www.polygon.com/marvels-deadpool-vr-review/)
- - [ASUS TUF F16 &lpar;2025&rpar; Gaming Laptop With RTX 5050 Just Dropped by Hundreds, Lowest Price Yet for This New Release](https://kotaku.com/amazon-just-slashed-350-off-this-asus-tuf-f16-gaming-laptop-dropping-a-1300-machine-to-its-lowest-price-yet-2000644446)
- - [Bungie and sci-fi author settle lawsuit over alleged plagiarism of his old Wordpress stories for Destiny 2&#39;s launch campaign](https://www.pcgamer.com/games/fps/bungie-and-sci-fi-author-settle-lawsuit-over-alleged-plagiarism-of-his-old-wordpress-stories-for-destiny-2s-launch-campaign/)<!-- GAME:END -->
+ - [Xbox Partner Preview: See the Latest Games From Our Amazing Third Party Partners This Week](https://news.xbox.com/en-us/2025/11/17/xbox-partner-preview-november-2025-announce/)
+ - [Resident Evil Requiem&#39;s producer assures fans that no punches have been pulled with its horror, but will still welcome player feedback: &#39;My mental health is very strong—I am fine to read the comments&#39;](https://www.pcgamer.com/games/horror/resident-evil-requiems-producer-assures-fans-that-no-punches-have-been-pulled-with-its-horror-but-will-still-welcome-player-feedback-my-mental-health-is-very-strong-i-am-fine-to-read-the-comments/)
+ - [Bose QuietComfort Ultra Headphones Fall Below Last Black Friday Pricing, Now Almost 2x Cheaper Than AirPods Max](https://kotaku.com/amazons-offering-the-bose-quietcomfort-ultra-bluetooth-headphones-for-two-thirds-its-usual-price-2000644438)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
