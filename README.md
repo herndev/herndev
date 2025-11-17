@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Probabilities.](http://9gag.com/gag/a6Z462q)
- - ⏩ [MORE POWER](http://9gag.com/gag/a34eXL8)
- - 👉 [Who had Ubisoft for November?](http://9gag.com/gag/azxo3op)<!-- MEMES:END -->
+ - 💣 [Handsome young man](http://9gag.com/gag/aRB9Y5q)
+ - ⏩ [Sepultura in their prime &lpar;1991&rpar; on their home turf in Belo Horizonte, Brazil. Pure chaos.](http://9gag.com/gag/abAKPx8)
+ - 👉 [Next level of forklift certification.](http://9gag.com/gag/abAKPGO)<!-- MEMES:END -->
 
 ---
 
