@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forecasters at the US National Hurricane Center are increasingly leaning on Google&#39;s new DeepMind prediction model, though questions about its methods remain &lpar;Eric Holthaus/The Guardian&rpar;](http://www.techmeme.com/251116/p7#a251116p7)
- - [You need to listen to the searing noise pop album Forever in Your Heart](https://www.theverge.com/entertainment/821782/you-need-to-listen-to-the-searing-noise-pop-album-forever-in-your-heart)
- - [Tokyo-based Sakana AI becomes Japan&#39;s most valuable unicorn at a ~$2.6B valuation, following a ~$130M raise from Mitsubishi UFJ Financial and US VC firms &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251116/p6#a251116p6)<!-- TECH:END -->
+ - [Sky Sports killed off its female-focused Halo brand after just three days](https://www.theverge.com/news/821807/sky-sports-halo-women-tiktok)
+ - [BNPL use in the US has grown to 91.5M users, with 25% financing groceries, as default rates accelerate and most loans aren&#39;t reported, creating &quot;phantom debt&quot; &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/251116/p8#a251116p8)
+ - [Forecasters at the US National Hurricane Center are increasingly leaning on Google&#39;s new DeepMind prediction model, though questions about its methods remain &lpar;Eric Holthaus/The Guardian&rpar;](http://www.techmeme.com/251116/p7#a251116p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
