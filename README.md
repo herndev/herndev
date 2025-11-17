@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The YouTube TV-Disney dispute is over: Here’s what you’re getting](https://www.androidauthority.com/youtube-tv-disney-new-deal-3616239/)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-17/#ftag=CAD590a51e)
- - [Elon Musk, Jeff Bezos, and Sundar Pichai are exploring future lunar and orbital AI data centers which could offer steady solar power with fewer regulations &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/251116/p9#a251116p9)<!-- TECH:END -->
+ - [Tokyo-based Turing, which is developing an AI model for self-driving vehicles, raised a $99M Series A, sources say at a ~$388M valuation &lpar;Min-Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/251116/p10#a251116p10)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 17, #420](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-17-420/#ftag=CAD590a51e)
+ - [The YouTube TV-Disney dispute is over: Here’s what you’re getting](https://www.androidauthority.com/youtube-tv-disney-new-deal-3616239/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
