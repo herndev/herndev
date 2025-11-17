@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an informal survey of 300+ Cerebral Valley AI Conference attendees asking which $1B+ valuation startup to short, most voted Perplexity, followed by OpenAI &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/251117/p13#a251117p13)
- - [Apple&#39;s future iPhone cases could add touch surfaces beyond the screen](https://appleinsider.com/articles/25/11/17/apples-future-iphone-cases-could-add-touch-surfaces-beyond-the-screen?utm_source=rss)
- - [T-Mobile’s free Pixel 10 deal is back — and it comes with another $130 freebie](https://www.androidauthority.com/t-mobile-free-pixel-10-deal-pixel-buds-2a-3616397/)<!-- TECH:END -->
+ - [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025)
+ - [Secret no more: Android Canary confirms ‘Cinnamon Bun’ is Android 17’s codename](https://www.androidauthority.com/android-17-codename-confirmed-3616448/)
+ - [In with a bang, out in silence -- the end of the Mac Pro](https://appleinsider.com/articles/25/11/17/in-with-a-bang-out-in-silence----the-end-of-the-mac-pro?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
