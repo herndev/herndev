@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Next Apple Watch refresh may not happen until 2028](https://appleinsider.com/articles/25/11/17/next-apple-watch-refresh-may-not-happen-until-2028?utm_source=rss)
- - [Samsung’s Galaxy S25 Ultra gets its Black Friday cut early, and it’s big](https://www.androidauthority.com/samsung-galaxy-s25-ultra-black-friday-deal-3616454/)
- - [Vancouver-based PowerLattice, which makes a power supply chiplet to cut power consumption by 50%+, raised a $25M Series A, taking its total funding to $31M &lpar;Pete Danko/Portland Business Journal&rpar;](http://www.techmeme.com/251117/p18#a251117p18)<!-- TECH:END -->
+ - [Google’s AI Mode wants to make custom travel planning cheaper and easier](https://www.androidauthority.com/google-ai-mode-travel-planning-canvas-3616391/)
+ - [Google pulled the plug on old Nest thermostats, but not the data mine](https://www.androidauthority.com/unsupported-nest-thermostats-send-google-data-3616455/)
+ - [Best early Black Friday iPad deals deliver prices from $299](https://appleinsider.com/articles/25/11/17/best-early-black-friday-ipad-deals-deliver-prices-from-299?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
