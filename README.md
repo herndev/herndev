@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Game Awards 2025 nominees are here, and—surprise—Clair Obscur: Expedition 33 was nominated for every qualifying category](https://www.pcgamer.com/gaming-industry/events-conferences/the-game-awards-nominations-are-here-and-surprise-clair-obscur-expedition-33-was-nominated-for-every-qualifying-category/)
- - [Star Wars just revealed a dark truth about Darth Vader’s fractured psyche](https://www.polygon.com/star-wars-master-of-evil-darth-vader-fractured-psyche/)
- - [All Jujutsu Shenanigans codes for November 2025: Cash and emotes](https://www.pcgamer.com/roblox/jujutsu-shenanigans-codes/)<!-- GAME:END -->
+ - [Arc Raiders physics don&#39;t get better than this one-in-a-million shot of a Queen getting suplexed by a probe](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-physics-dont-get-better-than-this-one-in-a-million-shot-of-a-queen-getting-suplexed-by-a-probe/)
+ - [Bose Revolve+ Bluetooth Speaker Drops to Peanuts, Amazon Pushes Last Stock at 40% Off to Liquidate Fast](https://kotaku.com/bose-revolve-bluetooth-speaker-drops-to-peanuts-amazon-pushes-last-stock-at-40-off-to-liquidate-fast-2000644856)
+ - [A School Is Banning Kids From Singing KPop Demon Hunters Songs](https://kotaku.com/kpop-demon-hunters-songs-list-singing-ban-school-bbc-2000644973)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
