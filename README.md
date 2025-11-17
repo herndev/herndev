@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Handsome young man](http://9gag.com/gag/aRB9Y5q)
- - ⏩ [Sepultura in their prime &lpar;1991&rpar; on their home turf in Belo Horizonte, Brazil. Pure chaos.](http://9gag.com/gag/abAKPx8)
- - 👉 [Next level of forklift certification.](http://9gag.com/gag/abAKPGO)<!-- MEMES:END -->
+ - 💣 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
+ - ⏩ [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 👉 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)<!-- MEMES:END -->
 
 ---
 
