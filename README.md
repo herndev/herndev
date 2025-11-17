@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad&#39;s got some moves](http://9gag.com/gag/aGy6W20)
- - ⏩ [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
- - 👉 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)<!-- MEMES:END -->
+ - 💣 [Well habibi](http://9gag.com/gag/aPAzO7V)
+ - ⏩ [We wuz Romans](http://9gag.com/gag/ae9yXLW)
+ - 👉 [Chuck Norris](http://9gag.com/gag/aD2qRjK)<!-- MEMES:END -->
 
 ---
 
