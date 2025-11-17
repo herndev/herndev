@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - ⏩ [Next level of forklift certification.](http://9gag.com/gag/abAKPGO)
- - 👉 [Cute skunks](http://9gag.com/gag/aAyqWQZ)<!-- MEMES:END -->
+ - ⏩ [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
+ - 👉 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)<!-- MEMES:END -->
 
 ---
 
