@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Survey Says Most Players Around The World Prefer Single-Player Games](https://kotaku.com/new-survey-most-players-around-world-prefer-singleplayer-games-solo-2000644895)
- - [First live-action Moana trailer looks like a Disney cartoon](https://www.polygon.com/disney-live-action-moana-movie-trailer/)
- - [Overwatch 2’s Next Hero Is Your New Italian Mommy And Also An Unexpected Throwback](https://kotaku.com/overwatch-2-vendetta-reveal-trailer-cinematic-video-2000644926)<!-- GAME:END -->
+ - [The Game Awards 2025 nominees are here, and—surprise—Clair Obscur: Expedition 33 was nominated for every qualifying category](https://www.pcgamer.com/gaming-industry/events-conferences/the-game-awards-nominations-are-here-and-surprise-clair-obscur-expedition-33-was-nominated-for-every-qualifying-category/)
+ - [Star Wars just revealed a dark truth about Darth Vader’s fractured psyche](https://www.polygon.com/star-wars-master-of-evil-darth-vader-fractured-psyche/)
+ - [All Jujutsu Shenanigans codes for November 2025: Cash and emotes](https://www.pcgamer.com/roblox/jujutsu-shenanigans-codes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
