@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FT&#39;s Tim Cook retirement story could be a &quot;trial balloon&quot; from people close to him, if Cook makes the decision to leave on a high note after Q1 earnings report &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/251117/p1#a251117p1)
- - [Exclusive: Meet Samsung’s Galaxy Buds 4 Pro with a powerful new feature](https://www.androidauthority.com/samsung-galaxy-buds-4-pro-design-features-leak-3616254/)
- - [Tokyo-based Turing, which is developing an AI model for self-driving vehicles, raised a $99M Series A, sources say at a ~$388M valuation &lpar;Min-Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/251116/p10#a251116p10)<!-- TECH:END -->
+ - [Europe banned new gas cars after 2035 — now it’s reconsidering](https://www.theverge.com/transportation/820398/eu-gas-car-ban-2035-weaken-climate)
+ - [Galaxy S26 series leak tells us just how heavy these phones will be](https://www.androidauthority.com/samsung-galaxy-s26-series-weight-leak-3616301/)
+ - [FT&#39;s Tim Cook retirement story could be a &quot;trial balloon&quot; from people close to him, if Cook makes the decision to leave on a high note after Q1 earnings report &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/251117/p1#a251117p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
