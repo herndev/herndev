@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - ⏩ [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
- - 👉 [Woman rejects a good guy for no reason](http://9gag.com/gag/aoyAr6w)<!-- MEMES:END -->
+ - 💣 [Pure cinema](http://9gag.com/gag/a6Z4vOq)
+ - ⏩ [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
 
 ---
 
