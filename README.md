@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 26.2 may let EU users shift from Siri to other voice assistants](https://appleinsider.com/articles/25/11/17/ios-262-may-let-eu-users-shift-from-siri-to-other-voice-assistants?utm_source=rss)
- - [AT&amp;T and T-Mobile’s feud continues as the Un-Carrier fires back](https://www.androidauthority.com/att-tmobile-feud-ad-3616552/)
- - [PSA: There’s a phishing scam going around in the Samsung Members app](https://www.androidauthority.com/samsung-members-phishing-psa-3616554/)<!-- TECH:END -->
+ - [Google Calendar is finally making it easy to give yourself the time you need to get stuff done](https://www.androidauthority.com/google-calendar-task-3616581/)
+ - [xAI unveils Grok 4.1, saying it&#39;s 3x less likely to hallucinate compared to its previous models and Grok 4.1 Thinking holds the top spot on LMArena&#39;s Text Arena &lpar;xAI&rpar;](http://www.techmeme.com/251117/p33#a251117p33)
+ - [Need a good gaming chair? Check out this Razer Enki X deal!](https://www.androidauthority.com/razer-enki-x-essential-gaming-chair-deal-3616529/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
