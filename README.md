@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - ⏩ [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
- - 👉 [Pure cinema](http://9gag.com/gag/a6Z4vOq)<!-- MEMES:END -->
+ - ⏩ [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
 
 ---
 
