@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk, Jeff Bezos, and Sundar Pichai are exploring future lunar and orbital AI data centers which could offer steady solar power with fewer regulations &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/251116/p9#a251116p9)
- - [It’s happening! YouTube Music is testing a feature everyone has wanted for years.](https://www.androidauthority.com/youtube-music-playlist-search-3616240/)
- - [Sky Sports killed off its female-focused Halo brand after just three days](https://www.theverge.com/news/821807/sky-sports-halo-women-tiktok)<!-- TECH:END -->
+ - [The YouTube TV-Disney dispute is over: Here’s what you’re getting](https://www.androidauthority.com/youtube-tv-disney-new-deal-3616239/)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-17/#ftag=CAD590a51e)
+ - [Elon Musk, Jeff Bezos, and Sundar Pichai are exploring future lunar and orbital AI data centers which could offer steady solar power with fewer regulations &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/251116/p9#a251116p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
