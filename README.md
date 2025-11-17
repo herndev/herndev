@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - ⏩ [Is it true?](http://9gag.com/gag/aE0yexp)
- - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
+ - 💣 [Dad&#39;s got some moves](http://9gag.com/gag/aGy6W20)
+ - ⏩ [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - 👉 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)<!-- MEMES:END -->
 
 ---
 
