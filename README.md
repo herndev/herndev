@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The new Forgotten Realms books are set after Baldur&#39;s Gate 3 and show Karlach found her happy ending, though one jerk wizard also dodged his comeuppance](https://www.pcgamer.com/games/baldurs-gate/the-new-forgotten-realms-books-are-set-after-baldurs-gate-3-and-show-karlach-found-her-happy-ending-though-one-jerk-wizard-also-dodged-his-comeuppance/)
  - [The Blood of Dawnwalker&#39;s latest gameplay trailer starts out looking like a Witcher spinoff, then the main character starts walking on walls](https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-latest-gameplay-trailer-starts-out-looking-like-a-witcher-spinoff-then-the-main-character-starts-walking-on-walls/)
- - [Five new Steam games you probably missed &lpar;November 17, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-17-2025/)
- - [AirPods Max Alternative, These Bose Ultra Headphones Reach New All-Time Low on Amazon](https://kotaku.com/airpods-max-alternative-these-bose-ultra-headphones-reach-new-all-time-low-on-amazon-2000644687)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;November 17, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-november-17-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
