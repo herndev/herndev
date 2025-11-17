@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pure cinema](http://9gag.com/gag/a6Z4vOq)
- - ⏩ [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
+ - 💣 [South Africans describing life in South Africa.](http://9gag.com/gag/aByj7WZ)
+ - ⏩ [Dad&#39;s got some moves](http://9gag.com/gag/aGy6W20)
+ - 👉 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)<!-- MEMES:END -->
 
 ---
 
