@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do not blink...](http://9gag.com/gag/awyPwn8)
- - ⏩ [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 👉 [Just make them bigger](http://9gag.com/gag/a4PmDLp)<!-- MEMES:END -->
+ - 💣 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
+ - ⏩ [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
+ - 👉 [Woman rejects a good guy for no reason](http://9gag.com/gag/aoyAr6w)<!-- MEMES:END -->
 
 ---
 
