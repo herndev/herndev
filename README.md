@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025)
- - [Secret no more: Android Canary confirms ‘Cinnamon Bun’ is Android 17’s codename](https://www.androidauthority.com/android-17-codename-confirmed-3616448/)
- - [In with a bang, out in silence -- the end of the Mac Pro](https://appleinsider.com/articles/25/11/17/in-with-a-bang-out-in-silence----the-end-of-the-mac-pro?utm_source=rss)<!-- TECH:END -->
+ - [Next Apple Watch refresh may not happen until 2028](https://appleinsider.com/articles/25/11/17/next-apple-watch-refresh-may-not-happen-until-2028?utm_source=rss)
+ - [Samsung’s Galaxy S25 Ultra gets its Black Friday cut early, and it’s big](https://www.androidauthority.com/samsung-galaxy-s25-ultra-black-friday-deal-3616454/)
+ - [Vancouver-based PowerLattice, which makes a power supply chiplet to cut power consumption by 50%+, raised a $25M Series A, taking its total funding to $31M &lpar;Pete Danko/Portland Business Journal&rpar;](http://www.techmeme.com/251117/p18#a251117p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
