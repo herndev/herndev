@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill f&#39;s casual mode takes a frustrating approach to difficulty](https://www.polygon.com/silent-hill-f-patch-notes-update-casual-mode-difficulty/)
- - [Logitech Is Basically Giving Away This USB Gaming Microphone for Nearly Free](https://kotaku.com/logitech-blue-yeti-microphone-just-hit-its-lowest-price-ever-just-ahead-of-black-friday-2000644657)
- - [Best AK-27 loadout in Black Ops 7](https://www.pcgamer.com/games/call-of-duty/black-ops-7-ak-27-loadout/)<!-- GAME:END -->
+ - [The Game Awards 2025: When and what time it starts](https://www.polygon.com/game-awards-2025-how-to-watch-when-time-est-pst/)
+ - [Helldivers 2 Head Says Arc Raiders’ Use Of AI ‘Makes Gaming Better’](https://kotaku.com/helldivers-2-gen-ai-arc-raiders-brendan-green-2000644914)
+ - [The biggest snubs from the 2025 Game Awards nominees](https://www.polygon.com/game-awards-2025-snubs-tga/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
