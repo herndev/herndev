@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bose’s noise-canceling QuietComfort Headphones are more than 50 percent off](https://www.theverge.com/gadgets/822365/bose-noise-canceling-quietcomfort-headphones-amazon-deal-sale)
- - [Valve wants to make Steam Deck updates as convenient as updating your phone](https://www.androidauthority.com/steam-deck-docked-updates-3616492/)
- - [Pinkfong prices its South Korea IPO at ~$26 per share, valuing the company behind Baby Shark Dance, YouTube&#39;s most-watched video with 16.4B views, at ~$375M &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251117/p28#a251117p28)<!-- TECH:END -->
+ - [iOS 26.2 may let EU users shift from Siri to other voice assistants](https://appleinsider.com/articles/25/11/17/ios-262-may-let-eu-users-shift-from-siri-to-other-voice-assistants?utm_source=rss)
+ - [AT&amp;T and T-Mobile’s feud continues as the Un-Carrier fires back](https://www.androidauthority.com/att-tmobile-feud-ad-3616552/)
+ - [PSA: There’s a phishing scam going around in the Samsung Members app](https://www.androidauthority.com/samsung-members-phishing-psa-3616554/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
