@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Accidental discharge](http://9gag.com/gag/aGy6P67)
- - ⏩ [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
- - 👉 [What if you miss it?](http://9gag.com/gag/a5QvLDL)<!-- MEMES:END -->
+ - 💣 [I lost](http://9gag.com/gag/aByjDox)
+ - ⏩ [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
+ - 👉 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)<!-- MEMES:END -->
 
 ---
 
