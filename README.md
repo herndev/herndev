@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini 3 gets the power to shape Search results for maximum impact](https://www.androidauthority.com/gemini-3-ai-mode-search-3616829/)
- - [The Analogue 3D is the perfect console for N64 collectors](https://www.theverge.com/games/822849/analogue-3d-review-n64)
- - [Edtech startup Physics Wallah closed up 44% in its Indian IPO, giving it a ~$5B market cap; it was last valued at $2.8B in 2024 when it raised a $210M Series B &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251118/p26#a251118p26)<!-- TECH:END -->
+ - [Microsoft launches Agent 365, a new framework to let businesses deploy and manage AI agents like human employees, with dashboards showing telemetry and alerts &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251118/p35#a251118p35)
+ - [The Apple Watch Series 11 has plunged to a record low price](https://www.theverge.com/tech/823052/apple-watch-series-11-onn-4k-pro-deal-sale)
+ - [Meta Chief Revenue Officer John Hegeman is leaving, after 17 years at Meta; Clara Shih, who joined in November 2024 to lead its Business AI unit, is exiting &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251118/p34#a251118p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
