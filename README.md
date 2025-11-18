@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps on Android Auto is making it easier to find the right EV stations for you](https://www.androidauthority.com/google-maps-android-auto-charging-filters-3616491/)
- - [14 Best Fitness Trackers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)
- - [Steam Machine and Steam Frame: your questions answered](https://www.theverge.com/games/820293/steam-machine-frame-hardware-faq)<!-- TECH:END -->
+ - [Zoox will let public riders use its robotaxis in San Francisco](https://www.theverge.com/news/822096/zoox-robotaxi-sf-waitlist-rides)
+ - [Wyze’s budget-friendly smart lock gets a Wi-Fi upgrade without a price increase](https://www.theverge.com/news/822276/wyze-lock-bolt-v2-wifi-bluetooth-smart-door-lock)
+ - [Sony is taking $100 off its PS5 consoles for Black Friday](https://www.theverge.com/news/822851/sony-ps5-playstation-black-friday-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
