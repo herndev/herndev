@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
  - ⏩ [I lost](http://9gag.com/gag/aByjDox)
- - 👉 [Is it true?](http://9gag.com/gag/aE0yexp)<!-- MEMES:END -->
+ - 👉 [Pure cinema](http://9gag.com/gag/a6Z4vOq)<!-- MEMES:END -->
 
 ---
 
