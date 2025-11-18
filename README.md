@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is getting Translate ready to be the killer app for smart glasses](https://www.androidauthority.com/google-translate-preps-xr-changes-3616845/)
- - [Sundar Pichai sees dot-com bubble parallels: ‘I expect AI to be the same’](https://www.androidauthority.com/sundar-pichai-ai-bubble-3616866/)
- - [The AYANEO Pocket VERT is hiding an exciting new feature beneath its surface](https://www.androidauthority.com/ayaneo-pocket-vert-touchpad-3616887/)<!-- TECH:END -->
+ - [Apple Watch Series 11 drops to all-time low $349 with early Black Friday deals](https://appleinsider.com/articles/25/11/18/apple-watch-series-11-drops-to-all-time-low-349-with-early-black-friday-deals?utm_source=rss)
+ - [This Quest 3S Bundle Is $50 Off and Includes a Game and Gift Card](https://www.wired.com/story/meta-quest-3s-walking-dead-deal-1125/)
+ - [London thieves snatching iPhones, but &#39;don&#39;t want no Samsung&#39;](https://appleinsider.com/articles/25/11/18/london-thieves-snatching-iphones-but-dont-want-no-samsung?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
