@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 26: How to view 2D photos as 3D Spatial Scenes on iPhone](https://appleinsider.com/inside/ipados-26/tips/ios-26-how-to-view-2d-photos-as-3d-spatial-scenes-on-iphone?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Nov. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-nov-18/#ftag=CAD590a51e)
- - [Pixel 10 Pro just pulled off a narrow victory against iPhone 17 family](https://www.androidauthority.com/pixel-10-pro-vs-iphone-17-wi-fi-speeds-3616613/)<!-- TECH:END -->
+ - [Berlin-based Peec AI, which helps brands manage visibility in AI-powered search results, raised a $21M Series A led by Singular at a $100M+ valuation &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251118/p1#a251118p1)
+ - [Google just gave Pixel Weather and Maps a massive forecasting boost](https://www.androidauthority.com/google-weathernext-2-pixel-weather-google-maps-3616629/)
+ - [iOS 26: How to view 2D photos as 3D Spatial Scenes on iPhone](https://appleinsider.com/inside/ipados-26/tips/ios-26-how-to-view-2d-photos-as-3d-spatial-scenes-on-iphone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
