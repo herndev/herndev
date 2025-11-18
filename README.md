@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - 💣 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
  - ⏩ [I lost](http://9gag.com/gag/aByjDox)
- - 👉 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)<!-- MEMES:END -->
+ - 👉 [Udh Senin lagi aj...](http://9gag.com/gag/azxoNyp)<!-- MEMES:END -->
 
 ---
 
