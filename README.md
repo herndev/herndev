@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Maxima, whose AI platform automates accounting tasks like reconciliation and journal entry, raised $41M in seed and Series A rounds at a $143M valuation &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/251118/p46#a251118p46)
- - [Thieves are returning Android phones because they ‘don’t want no Samsung’](https://www.androidauthority.com/thieves-returning-android-phones-3616921/)
- - [Windows 11 Copilot AI hands-on: despite Microsoft advertising the feature as able to &quot;understand you&quot;, it delivers inconsistent and often incorrect responses &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/251118/p45#a251118p45)<!-- TECH:END -->
+ - [YouTube is testing a new way for sharing videos with your friends](https://www.androidauthority.com/youtube-direct-messaging-experiment-3616988/)
+ - [Kraken raised $200M at a $20B valuation, after raising $600M at a $15B valuation in Sept.; prior to the two rounds, Kraken raised only $27M in venture capital &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251118/p49#a251118p49)
+ - [EPA fines Apple $261,000 to settle hazardous waste complaint](https://appleinsider.com/articles/25/11/18/epa-files-apple-261000-to-settle-hazardous-waste-complaint?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
