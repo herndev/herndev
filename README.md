@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Amazon Liquidates Bose Headphones at 50% Off, Now Cheaper Than Mid-Range No-Name Models](https://kotaku.com/amazon-liquidates-bose-headphones-at-50-off-now-cheaper-than-mid-range-no-name-models-2000644975)
  - [Amazon’s TV Soundbar Gets Double Price Cuts in Just Days, Now Going for Pocket Change](https://kotaku.com/amazons-tv-soundbar-gets-double-price-cuts-in-just-days-now-going-for-pocket-change-2000644969)
- - [Legendary game designer, programmer, Space Invaders champion, and LGBTQ trailblazer Rebecca Heineman has died](https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/)
- - [OK, for real though, what&#39;s the chance of a Half-Life 3 announcement happening soon? Here&#39;s what we know](https://www.pcgamer.com/games/fps/half-life-3-rumors-poll-2025/)<!-- GAME:END -->
+ - [Legendary game designer, programmer, Space Invaders champion, and LGBTQ trailblazer Rebecca Heineman has died](https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
