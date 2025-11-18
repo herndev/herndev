@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ae9yvnj)
- - ⏩ [This comment is peak internet humor](http://9gag.com/gag/aByjDrx)
- - 👉 [U.S. has Trump university!](http://9gag.com/gag/azxo63b)<!-- MEMES:END -->
+ - 💣 [I lost](http://9gag.com/gag/aByjDox)
+ - ⏩ [Pure cinema](http://9gag.com/gag/a6Z4vOq)
+ - 👉 [What if you miss it?](http://9gag.com/gag/a5QvLDL)<!-- MEMES:END -->
 
 ---
 
