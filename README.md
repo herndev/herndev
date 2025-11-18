@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The joys of camping](http://9gag.com/gag/ae9qj5j)
- - ⏩ [She&#39;s freaking out lmfao](http://9gag.com/gag/aW4eBm2)
- - 👉 [Older wifu material\u2026](http://9gag.com/gag/aByjDpO)<!-- MEMES:END -->
+ - 💣 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
+ - ⏩ [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - 👉 [What if you miss it?](http://9gag.com/gag/a5QvLDL)<!-- MEMES:END -->
 
 ---
 
