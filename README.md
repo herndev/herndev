@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 11 drops to all-time low $349 with early Black Friday deals](https://appleinsider.com/articles/25/11/18/apple-watch-series-11-drops-to-all-time-low-349-with-early-black-friday-deals?utm_source=rss)
- - [This Quest 3S Bundle Is $50 Off and Includes a Game and Gift Card](https://www.wired.com/story/meta-quest-3s-walking-dead-deal-1125/)
- - [London thieves snatching iPhones, but &#39;don&#39;t want no Samsung&#39;](https://appleinsider.com/articles/25/11/18/london-thieves-snatching-iphones-but-dont-want-no-samsung?utm_source=rss)<!-- TECH:END -->
+ - [Maxima, whose AI platform automates accounting tasks like reconciliation and journal entry, raised $41M in seed and Series A rounds at a $143M valuation &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/251118/p46#a251118p46)
+ - [Thieves are returning Android phones because they ‘don’t want no Samsung’](https://www.androidauthority.com/thieves-returning-android-phones-3616921/)
+ - [Windows 11 Copilot AI hands-on: despite Microsoft advertising the feature as able to &quot;understand you&quot;, it delivers inconsistent and often incorrect responses &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/251118/p45#a251118p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
