@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Ring founder Jamie Siminoff on returning to Amazon post-burnout, his goal to &quot;zero out crime&quot;, privacy and the &quot;surveillance panopticon&quot;, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251118/p3#a251118p3)
  - [Squarespace Promo Codes: 10% Off | November 2025](https://www.wired.com/story/squarespace-promo-code/)
- - [The Exynos-powered Galaxy S26 phones could be cheaper &lpar;but not for us&rpar;](https://www.androidauthority.com/samsung-exynos-galaxy-s26-cheaper-3616633/)
- - [$100 Off Shark Promo Code | November 2025](https://www.wired.com/story/shark-promo-code/)<!-- TECH:END -->
+ - [The Exynos-powered Galaxy S26 phones could be cheaper &lpar;but not for us&rpar;](https://www.androidauthority.com/samsung-exynos-galaxy-s26-cheaper-3616633/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
