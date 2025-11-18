@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arc Raiders physics don&#39;t get better than this one-in-a-million shot of a Queen getting suplexed by a probe](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-physics-dont-get-better-than-this-one-in-a-million-shot-of-a-queen-getting-suplexed-by-a-probe/)
- - [Bose Revolve+ Bluetooth Speaker Drops to Peanuts, Amazon Pushes Last Stock at 40% Off to Liquidate Fast](https://kotaku.com/bose-revolve-bluetooth-speaker-drops-to-peanuts-amazon-pushes-last-stock-at-40-off-to-liquidate-fast-2000644856)
- - [A School Is Banning Kids From Singing KPop Demon Hunters Songs](https://kotaku.com/kpop-demon-hunters-songs-list-singing-ban-school-bbc-2000644973)<!-- GAME:END -->
+ - [My favorite horror game of 2025 sounds like a literal nightmare because its composer sampled the creaking of an old house and  a metal saw scraping &#39;an instrument that sounded horrifying yet could have been made in feudal Japan&#39;](https://www.pcgamer.com/games/horror/my-favorite-horror-game-of-2025-sounds-like-a-literal-nightmare-because-its-composer-sampled-the-creaking-of-an-old-house-and-a-metal-saw-scraping-an-instrument-that-sounded-horrifying-yet-could-have-been-made-in-feudal-japan/)
+ - [Krafton CEO allegedly asked ChatGPT to help him find a way out of paying Subnautica 2 devs their bonuses because he wanted to avoid the &#39;professional embarrassment&#39; of being seen as a &#39;pushover&#39;](https://www.pcgamer.com/gaming-industry/krafton-ceo-allegedly-asked-chatgpt-to-help-him-find-a-way-out-of-paying-subnautica-2-devs-their-bonuses-because-he-wanted-to-avoid-the-professional-embarrassment-of-being-seen-as-a-pushover/)
+ - [Portable Gaming 15-Inch Display Is Going for Mere Pennies, Amazon Already Sold 10K Units at This Record Low](https://kotaku.com/portable-gaming-15-inch-display-is-going-for-mere-pennies-amazon-already-sold-10k-units-at-this-record-low-2000644965)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
