@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [KPop Demon Hunters is getting its own Macy&#39;s Thanksgiving Day balloons — check out the pictures](https://www.polygon.com/kpop-demon-hunters-macys-thanksgiving-balloons-pictures/)
- - [Amazon Liquidates Bose Headphones at 50% Off, Now Cheaper Than Mid-Range No-Name Models](https://kotaku.com/amazon-liquidates-bose-headphones-at-50-off-now-cheaper-than-mid-range-no-name-models-2000644975)
- - [Amazon’s TV Soundbar Gets Double Price Cuts in Just Days, Now Going for Pocket Change](https://kotaku.com/amazons-tv-soundbar-gets-double-price-cuts-in-just-days-now-going-for-pocket-change-2000644969)<!-- GAME:END -->
+ - [This Dune: The Graphic Novel box set makes a perfect holiday gift](https://www.polygon.com/dune-the-graphic-novel-abrams-comicarts-boxed-set/)
+ - [If The Game Awards honored the best video game remakes, these would be our nominees](https://www.polygon.com/game-awards-best-remakes-category/)
+ - [Go Big with The SpongeBob Movie Limited Edition Xbox Controllers](https://news.xbox.com/en-us/2025/11/18/spongebob-movie-limited-edition-xbox-controllers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
