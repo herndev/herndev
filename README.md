@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Industrial designer &amp; iPhone Air video narrator departs Apple for AI startup](https://appleinsider.com/articles/25/11/18/industrial-designer-iphone-air-video-narrator-departs-apple-for-ai-startup?utm_source=rss)
- - [Sources: Mira Murati&#39;s Thinking Machines Lab is in talks with potential investors to raise about $5B and is aiming for a valuation of at least $50B &lpar;The Information&rpar;](http://www.techmeme.com/251117/p38#a251117p38)
- - [How Do You Pronounce Elon Musk&#39;s Son&#39;s Name, &#39;X Æ A-12&#39;?](https://www.cnet.com/tech/how-to-pronounce-elon-musk-sons-name-x-ae-a-12/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pixel 10 Pro just pulled off a narrow victory against iPhone 17 family](https://www.androidauthority.com/pixel-10-pro-vs-iphone-17-wi-fi-speeds-3616613/)
+ - [Sources: Databricks is in talks to raise money at a valuation of more than $130B, up about 30% from September when it raised a $1B Series K at a $100B valuation &lpar;The Information&rpar;](http://www.techmeme.com/251117/p39#a251117p39)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 18 #625](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-18-625/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
