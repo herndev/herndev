@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Ring founder Jamie Siminoff on returning to Amazon post-burnout, his goal to &quot;zero out crime&quot;, privacy and the &quot;surveillance panopticon&quot;, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251118/p3#a251118p3)
- - [Squarespace Promo Codes: 10% Off | November 2025](https://www.wired.com/story/squarespace-promo-code/)
- - [The Exynos-powered Galaxy S26 phones could be cheaper &lpar;but not for us&rpar;](https://www.androidauthority.com/samsung-exynos-galaxy-s26-cheaper-3616633/)<!-- TECH:END -->
+ - [OnePlus 15R to arrive soon with a surprise accomplice](https://www.androidauthority.com/oneplus-15r-watch-teaser-3616646/)
+ - [The 39 Best Shows on Apple TV, WIRED’s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [Q&amp;A with Ring founder Jamie Siminoff on returning to Amazon post-burnout, his goal to &quot;zero out crime&quot;, privacy and the &quot;surveillance panopticon&quot;, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251118/p3#a251118p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
