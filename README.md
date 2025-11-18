@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI is finally letting employees donate their equity to charity](https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation)
- - [We hope Google takes a hint from this Apple phone case rumor](https://www.androidauthority.com/iphone-pro-case-with-touch-interface-3616584/)
- - [SCOTUS declines to hear an appeal by Gesture Technology Partners over the right to challenge expired patents, leaving in place a win for Apple, Google, and LG &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251117/p35#a251117p35)<!-- TECH:END -->
+ - [New in iOS 26.2 beta 3: AirDrop codes, EU Siri changes, visual tweaks](https://appleinsider.com/articles/25/11/17/new-in-ios-262-beta-3-airdrop-codes-eu-siri-changes-visual-tweaks?utm_source=rss)
+ - [iOS 26.2 may let EU users shift from Siri to other voice assistants [u]](https://appleinsider.com/articles/25/11/17/ios-262-may-let-eu-users-shift-from-siri-to-other-voice-assistants?utm_source=rss)
+ - [iOS 26.2 Side button virtual assistant settings were actually meant for Japan](https://appleinsider.com/articles/25/11/17/ios-262-side-button-virtual-assistant-settings-were-actually-meant-for-japan?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
