@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No, The Game Awards Aren’t Rigged](https://kotaku.com/shroud-claims-game-awards-rigged-arc-raiders-snub-valve-steam-machine-2000645093)
- - [GameStop workers say its Trade Anything Day will be a huge mess](https://www.polygon.com/gamestop-trade-anything-promo-credit-workers-customers/)
- - [This AirTag 4-Pack Deal Makes Each Tag Feel Practically Free, Apple’s Clearing Stock Early to Avoid the Black Friday Rush](https://kotaku.com/amazon-drops-the-apple-airtag-4-pack-to-just-65-each-going-for-16-today-2000644835)<!-- GAME:END -->
+ - [Counter-Strike 2 modders surprise drop an excellent Halo 3 multiplayer pack, accidentally proving how badly Valve has squandered Source 2](https://www.pcgamer.com/games/fps/counter-strike-2-modders-surprise-drop-an-excellent-halo-3-multiplayer-pack-accidentally-proving-how-badly-valve-has-squandered-source-2/)
+ - [Stephen King&#39;s The Running Man has a smarter ending than either movie](https://www.polygon.com/stephen-king-the-running-man-book-vs-film-ending-explained/)
+ - [Megabonk Dev Officially Withdraws It From The Game Awards](https://kotaku.com/megabonk-dev-officially-withdraws-it-from-the-game-awards-2000645270)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
