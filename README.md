@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [KPop Demon Hunters is getting its own Macy&#39;s Thanksgiving Day balloons — check out the pictures](https://www.polygon.com/kpop-demon-hunters-macys-thanksgiving-balloons-pictures/)
  - [Amazon Liquidates Bose Headphones at 50% Off, Now Cheaper Than Mid-Range No-Name Models](https://kotaku.com/amazon-liquidates-bose-headphones-at-50-off-now-cheaper-than-mid-range-no-name-models-2000644975)
- - [Amazon’s TV Soundbar Gets Double Price Cuts in Just Days, Now Going for Pocket Change](https://kotaku.com/amazons-tv-soundbar-gets-double-price-cuts-in-just-days-now-going-for-pocket-change-2000644969)
- - [Legendary game designer, programmer, Space Invaders champion, and LGBTQ trailblazer Rebecca Heineman has died](https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/)<!-- GAME:END -->
+ - [Amazon’s TV Soundbar Gets Double Price Cuts in Just Days, Now Going for Pocket Change](https://kotaku.com/amazons-tv-soundbar-gets-double-price-cuts-in-just-days-now-going-for-pocket-change-2000644969)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
