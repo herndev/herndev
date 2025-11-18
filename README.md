@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What&#39;s in the Box turns Seven meme into a Netflix game show](https://www.polygon.com/netflixs-whats-in-the-box-game-show-has-so-much-potential/)
- - [Analogue 3D review: The best, coolest way to play N64 games in 4K](https://www.polygon.com/analogue-3d-review-n64-retro-console-4k-tv-play/)
- - [Demonschool review: This Persona-like RPG needs remedial classes](https://www.polygon.com/demonschool-review/)<!-- GAME:END -->
+ - [No, The Game Awards Aren’t Rigged](https://kotaku.com/shroud-claims-game-awards-rigged-arc-raiders-snub-valve-steam-machine-2000645093)
+ - [GameStop workers say its Trade Anything Day will be a huge mess](https://www.polygon.com/gamestop-trade-anything-promo-credit-workers-customers/)
+ - [This AirTag 4-Pack Deal Makes Each Tag Feel Practically Free, Apple’s Clearing Stock Early to Avoid the Black Friday Rush](https://kotaku.com/amazon-drops-the-apple-airtag-4-pack-to-just-65-each-going-for-16-today-2000644835)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
