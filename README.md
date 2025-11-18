@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Dune: The Graphic Novel box set makes a perfect holiday gift](https://www.polygon.com/dune-the-graphic-novel-abrams-comicarts-boxed-set/)
- - [If The Game Awards honored the best video game remakes, these would be our nominees](https://www.polygon.com/game-awards-best-remakes-category/)
- - [Go Big with The SpongeBob Movie Limited Edition Xbox Controllers](https://news.xbox.com/en-us/2025/11/18/spongebob-movie-limited-edition-xbox-controllers/)<!-- GAME:END -->
+ - [What&#39;s in the Box turns Seven meme into a Netflix game show](https://www.polygon.com/netflixs-whats-in-the-box-game-show-has-so-much-potential/)
+ - [Analogue 3D review: The best, coolest way to play N64 games in 4K](https://www.polygon.com/analogue-3d-review-n64-retro-console-4k-tv-play/)
+ - [Demonschool review: This Persona-like RPG needs remedial classes](https://www.polygon.com/demonschool-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
