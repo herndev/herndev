@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I lost](http://9gag.com/gag/aByjDox)
- - ⏩ [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
+ - 💣 [Accidental discharge](http://9gag.com/gag/aGy6P67)
+ - ⏩ [I lost](http://9gag.com/gag/aByjDox)
  - 👉 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)<!-- MEMES:END -->
 
 ---
