@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
- - ⏩ [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 👉 [I lost](http://9gag.com/gag/aByjDox)<!-- MEMES:END -->
+ - 💣 [The joys of camping](http://9gag.com/gag/ae9qj5j)
+ - ⏩ [She&#39;s freaking out lmfao](http://9gag.com/gag/aW4eBm2)
+ - 👉 [Older wifu material\u2026](http://9gag.com/gag/aByjDpO)<!-- MEMES:END -->
 
 ---
 
