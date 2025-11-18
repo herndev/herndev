@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft launches Agent 365, a new framework to let businesses deploy and manage AI agents like human employees, with dashboards showing telemetry and alerts &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251118/p35#a251118p35)
- - [The Apple Watch Series 11 has plunged to a record low price](https://www.theverge.com/tech/823052/apple-watch-series-11-onn-4k-pro-deal-sale)
- - [Meta Chief Revenue Officer John Hegeman is leaving, after 17 years at Meta; Clara Shih, who joined in November 2024 to lead its Business AI unit, is exiting &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251118/p34#a251118p34)<!-- TECH:END -->
+ - [Google is getting Translate ready to be the killer app for smart glasses](https://www.androidauthority.com/google-translate-preps-xr-changes-3616845/)
+ - [Sundar Pichai sees dot-com bubble parallels: ‘I expect AI to be the same’](https://www.androidauthority.com/sundar-pichai-ai-bubble-3616866/)
+ - [The AYANEO Pocket VERT is hiding an exciting new feature beneath its surface](https://www.androidauthority.com/ayaneo-pocket-vert-touchpad-3616887/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
