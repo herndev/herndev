@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wood cumin cider box.](http://9gag.com/gag/ayNZOqy)
- - ⏩ [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
- - 👉 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)<!-- MEMES:END -->
+ - 💣 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - ⏩ [What if you miss it?](http://9gag.com/gag/a5QvLDL)
+ - 👉 [Wood cumin cider box.](http://9gag.com/gag/ayNZOqy)<!-- MEMES:END -->
 
 ---
 
