@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu reports Q3 revenue down 7% YoY to ~$4.4B, its biggest quarterly revenue decline ever, and a ~$1.5B net loss, as the search giant battles falling usership &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/251118/p6#a251118p6)
- - [The UK CMA opens probes into StubHub, Viagogo, and others over allegedly deceptive online pricing practices; the UK plans to ban above face value ticket resales &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/251118/p5#a251118p5)
- - [I hated the Galaxy Buds 3 Pro design, but the Buds 4 Pro might win me back](https://www.androidauthority.com/hated-galaxy-buds-3-pro-design-buds-4-pro-win-me-back-3616442/)<!-- TECH:END -->
+ - [PDD, which owns Pinduoduo and Temu, reports Q3 revenue up 9% YoY to ~$15.2B, above ~$15.1B est., and net income up 17% YoY to ~$4.1B, as it weathers US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/251118/p12#a251118p12)
+ - [Sundar Pichai says there is some &quot;irrationality&quot; in the AI boom, the industry can &quot;overshoot&quot; in investment cycles, and &quot;no company is going to be immune&quot; &lpar;Faisal Islam/BBC&rpar;](http://www.techmeme.com/251118/p11#a251118p11)
+ - [Liquid Glass or Material 3 Expressive? Survey reveals landslide winner.](https://www.androidauthority.com/liquid-glass-material-3-expressive-poll-results-3616694/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
