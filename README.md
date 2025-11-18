@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Industrial designer &amp; iPhone Air video narrator departs Apple for AI startup](https://appleinsider.com/articles/25/11/18/industrial-designer-iphone-air-video-narrator-departs-apple-for-ai-startup?utm_source=rss)
  - [Sources: Mira Murati&#39;s Thinking Machines Lab is in talks with potential investors to raise about $5B and is aiming for a valuation of at least $50B &lpar;The Information&rpar;](http://www.techmeme.com/251117/p38#a251117p38)
- - [Artificial Analysis announces AA-Omniscience, a benchmark for knowledge and hallucination across 40+ topics; Claude 4.1 Opus takes first place in its key metric &lpar;@artificialanlys&rpar;](http://www.techmeme.com/251117/p37#a251117p37)<!-- TECH:END -->
+ - [How Do You Pronounce Elon Musk&#39;s Son&#39;s Name, &#39;X Æ A-12&#39;?](https://www.cnet.com/tech/how-to-pronounce-elon-musk-sons-name-x-ae-a-12/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
