@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - ⏩ [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 👉 [Really?](http://9gag.com/gag/aVv4nzv)<!-- MEMES:END -->
+ - 💣 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
+ - ⏩ [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 👉 [I lost](http://9gag.com/gag/aByjDox)<!-- MEMES:END -->
 
 ---
 
