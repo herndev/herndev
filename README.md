@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - ⏩ [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 👉 [Wood cumin cider box.](http://9gag.com/gag/ayNZOqy)<!-- MEMES:END -->
+ - 💣 [Wood cumin cider box.](http://9gag.com/gag/ayNZOqy)
+ - ⏩ [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - 👉 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)<!-- MEMES:END -->
 
 ---
 
