@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
- - ⏩ [I lost](http://9gag.com/gag/aByjDox)
- - 👉 [Udh Senin lagi aj...](http://9gag.com/gag/azxoNyp)<!-- MEMES:END -->
+ - ⏩ [What if you miss it?](http://9gag.com/gag/a5QvLDL)
+ - 👉 [I lost](http://9gag.com/gag/aByjDox)<!-- MEMES:END -->
 
 ---
 
