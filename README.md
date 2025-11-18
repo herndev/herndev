@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is testing a new way for sharing videos with your friends](https://www.androidauthority.com/youtube-direct-messaging-experiment-3616988/)
- - [Kraken raised $200M at a $20B valuation, after raising $600M at a $15B valuation in Sept.; prior to the two rounds, Kraken raised only $27M in venture capital &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251118/p49#a251118p49)
- - [EPA fines Apple $261,000 to settle hazardous waste complaint](https://appleinsider.com/articles/25/11/18/epa-files-apple-261000-to-settle-hazardous-waste-complaint?utm_source=rss)<!-- TECH:END -->
+ - [Cloudflare outages aren’t a matter of if — but when](https://www.theverge.com/news/823562/cloudflare-outage-wake-up-call-websites)
+ - [The US DOE will provide Constellation with a $1B loan to restart the Three Mile Island nuclear plant; the output will be sold to Microsoft under a 20-year deal &lpar;Costas Paris/Wall Street Journal&rpar;](http://www.techmeme.com/251118/p51#a251118p51)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
