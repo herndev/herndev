@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based Peec AI, which helps brands manage visibility in AI-powered search results, raised a $21M Series A led by Singular at a $100M+ valuation &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251118/p1#a251118p1)
- - [Google just gave Pixel Weather and Maps a massive forecasting boost](https://www.androidauthority.com/google-weathernext-2-pixel-weather-google-maps-3616629/)
- - [iOS 26: How to view 2D photos as 3D Spatial Scenes on iPhone](https://appleinsider.com/inside/ipados-26/tips/ios-26-how-to-view-2d-photos-as-3d-spatial-scenes-on-iphone?utm_source=rss)<!-- TECH:END -->
+ - [Squarespace Promo Codes: 10% Off | November 2025](https://www.wired.com/story/squarespace-promo-code/)
+ - [The Exynos-powered Galaxy S26 phones could be cheaper &lpar;but not for us&rpar;](https://www.androidauthority.com/samsung-exynos-galaxy-s26-cheaper-3616633/)
+ - [$100 Off Shark Promo Code | November 2025](https://www.wired.com/story/shark-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
