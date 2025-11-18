@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is it true?](http://9gag.com/gag/aE0yexp)
- - ⏩ [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 👉 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)<!-- MEMES:END -->
+ - 💣 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ae9yvnj)
+ - ⏩ [This comment is peak internet humor](http://9gag.com/gag/aByjDrx)
+ - 👉 [U.S. has Trump university!](http://9gag.com/gag/azxo63b)<!-- MEMES:END -->
 
 ---
 
