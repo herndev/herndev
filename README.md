@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PDD, which owns Pinduoduo and Temu, reports Q3 revenue up 9% YoY to ~$15.2B, above ~$15.1B est., and net income up 17% YoY to ~$4.1B, as it weathers US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/251118/p12#a251118p12)
- - [Sundar Pichai says there is some &quot;irrationality&quot; in the AI boom, the industry can &quot;overshoot&quot; in investment cycles, and &quot;no company is going to be immune&quot; &lpar;Faisal Islam/BBC&rpar;](http://www.techmeme.com/251118/p11#a251118p11)
- - [Liquid Glass or Material 3 Expressive? Survey reveals landslide winner.](https://www.androidauthority.com/liquid-glass-material-3-expressive-poll-results-3616694/)<!-- TECH:END -->
+ - [Google Maps on Android Auto is making it easier to find the right EV stations for you](https://www.androidauthority.com/google-maps-android-auto-charging-filters-3616491/)
+ - [14 Best Fitness Trackers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)
+ - [Steam Machine and Steam Frame: your questions answered](https://www.theverge.com/games/820293/steam-machine-frame-hardware-faq)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
