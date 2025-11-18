@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I lost](http://9gag.com/gag/aByjDox)
- - ⏩ [Pure cinema](http://9gag.com/gag/a6Z4vOq)
- - 👉 [What if you miss it?](http://9gag.com/gag/a5QvLDL)<!-- MEMES:END -->
+ - 💣 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - ⏩ [I lost](http://9gag.com/gag/aByjDox)
+ - 👉 [Is it true?](http://9gag.com/gag/aE0yexp)<!-- MEMES:END -->
 
 ---
 
