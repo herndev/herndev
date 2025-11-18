@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GlobalFoundries acquires Advanced Micro Foundry, a Singapore-based silicon photonics foundry, for an undisclosed sum, and plans a new R&amp;D center in Singapore &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251118/p4#a251118p4)
- - [Texting in bed? Google could soon fix this annoying Messages bug](https://www.androidauthority.com/google-messages-gallery-ui-auto-rotate-bug-fix-apk-teardown-3616673/)
- - [Le Wand Lick 3-in-1 Review: Three Times the Pleasure](https://www.wired.com/review/le-wand-lick-3-in-1/)<!-- TECH:END -->
+ - [Baidu reports Q3 revenue down 7% YoY to ~$4.4B, its biggest quarterly revenue decline ever, and a ~$1.5B net loss, as the search giant battles falling usership &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/251118/p6#a251118p6)
+ - [The UK CMA opens probes into StubHub, Viagogo, and others over allegedly deceptive online pricing practices; the UK plans to ban above face value ticket resales &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/251118/p5#a251118p5)
+ - [I hated the Galaxy Buds 3 Pro design, but the Buds 4 Pro might win me back](https://www.androidauthority.com/hated-galaxy-buds-3-pro-design-buds-4-pro-win-me-back-3616442/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
