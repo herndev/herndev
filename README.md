@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Counter-Strike 2 modders surprise drop an excellent Halo 3 multiplayer pack, accidentally proving how badly Valve has squandered Source 2](https://www.pcgamer.com/games/fps/counter-strike-2-modders-surprise-drop-an-excellent-halo-3-multiplayer-pack-accidentally-proving-how-badly-valve-has-squandered-source-2/)
- - [Stephen King&#39;s The Running Man has a smarter ending than either movie](https://www.polygon.com/stephen-king-the-running-man-book-vs-film-ending-explained/)
- - [Megabonk Dev Officially Withdraws It From The Game Awards](https://kotaku.com/megabonk-dev-officially-withdraws-it-from-the-game-awards-2000645270)<!-- GAME:END -->
+ - [Microsoft Warns That Windows 11 AI Might Install Malware On Your PC](https://kotaku.com/microsoft-warns-that-windows-11-ai-might-install-malware-on-your-pc-2000645293)
+ - [Apple&#39;s 1991 Macintosh shipped with a bug that should&#39;ve stopped it from booting, but no one ever knew because an undocumented CPU trick &#39;almost too crazy to be true&#39; miraculously made it work](https://www.pcgamer.com/hardware/apples-1991-macintosh-shipped-with-a-bug-that-shouldve-stopped-it-from-booting-but-no-one-ever-knew-because-an-undocumented-cpu-trick-almost-too-crazy-to-be-true-miraculously-made-it-work/)
+ - [Rust&#39;s &#39;Pivot or Die&#39; update was meant to shake up the meta, but it&#39;s a nightmare for solo survivors that leaves me no choice but to die](https://www.pcgamer.com/games/survival-crafting/rusts-pivot-or-die-update-was-meant-to-shake-up-the-meta-but-its-a-nightmare-for-solo-survivors-that-leaves-me-no-choice-but-to-die/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
