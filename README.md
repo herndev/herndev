@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoox will let public riders use its robotaxis in San Francisco](https://www.theverge.com/news/822096/zoox-robotaxi-sf-waitlist-rides)
- - [Wyze’s budget-friendly smart lock gets a Wi-Fi upgrade without a price increase](https://www.theverge.com/news/822276/wyze-lock-bolt-v2-wifi-bluetooth-smart-door-lock)
- - [Sony is taking $100 off its PS5 consoles for Black Friday](https://www.theverge.com/news/822851/sony-ps5-playstation-black-friday-deals)<!-- TECH:END -->
+ - [The best Christmas gifts for gamers and movie lovers](https://www.theverge.com/gadgets/780850/gaming-entertainment-gifts-ideas-2025)
+ - [How titanium 3D printing is used to make Apple Watch &amp; iPhone Air](https://appleinsider.com/articles/25/11/18/how-titanium-3d-printing-is-used-to-make-apple-watch-iphone-air?utm_source=rss)
+ - [Cloudflare CTO Dane Knecht says &quot;we failed our customers and the broader Internet&quot; when a Cloudflare issue &quot;impacted large amounts of traffic that rely on us&quot; &lpar;Dane Knecht/@dok2001&rpar;](http://www.techmeme.com/251118/p22#a251118p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
