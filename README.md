@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I lost](http://9gag.com/gag/aByjDox)
- - ⏩ [Is it true?](http://9gag.com/gag/aE0yexp)
+ - 💣 [Accidental discharge](http://9gag.com/gag/aGy6P67)
+ - ⏩ [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
  - 👉 [What if you miss it?](http://9gag.com/gag/a5QvLDL)<!-- MEMES:END -->
 
 ---
