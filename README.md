@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10 Pro just pulled off a narrow victory against iPhone 17 family](https://www.androidauthority.com/pixel-10-pro-vs-iphone-17-wi-fi-speeds-3616613/)
- - [Sources: Databricks is in talks to raise money at a valuation of more than $130B, up about 30% from September when it raised a $1B Series K at a $100B valuation &lpar;The Information&rpar;](http://www.techmeme.com/251117/p39#a251117p39)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 18 #625](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-18-625/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 26: How to view 2D photos as 3D Spatial Scenes on iPhone](https://appleinsider.com/inside/ipados-26/tips/ios-26-how-to-view-2d-photos-as-3d-spatial-scenes-on-iphone?utm_source=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Nov. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-nov-18/#ftag=CAD590a51e)
+ - [Pixel 10 Pro just pulled off a narrow victory against iPhone 17 family](https://www.androidauthority.com/pixel-10-pro-vs-iphone-17-wi-fi-speeds-3616613/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
