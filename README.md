@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Warns That Windows 11 AI Might Install Malware On Your PC](https://kotaku.com/microsoft-warns-that-windows-11-ai-might-install-malware-on-your-pc-2000645293)
- - [Apple&#39;s 1991 Macintosh shipped with a bug that should&#39;ve stopped it from booting, but no one ever knew because an undocumented CPU trick &#39;almost too crazy to be true&#39; miraculously made it work](https://www.pcgamer.com/hardware/apples-1991-macintosh-shipped-with-a-bug-that-shouldve-stopped-it-from-booting-but-no-one-ever-knew-because-an-undocumented-cpu-trick-almost-too-crazy-to-be-true-miraculously-made-it-work/)
- - [Rust&#39;s &#39;Pivot or Die&#39; update was meant to shake up the meta, but it&#39;s a nightmare for solo survivors that leaves me no choice but to die](https://www.pcgamer.com/games/survival-crafting/rusts-pivot-or-die-update-was-meant-to-shake-up-the-meta-but-its-a-nightmare-for-solo-survivors-that-leaves-me-no-choice-but-to-die/)<!-- GAME:END -->
+ - [Half-Life fans are in a frenzy over the prospect of a Half-Life 3 announcement that there&#39;s &lpar;almost&rpar; no good reason to believe is happening](https://www.pcgamer.com/games/fps/half-life-fans-are-in-a-frenzy-over-the-prospect-of-a-half-life-3-announcement-that-theres-almost-no-good-reason-to-believe-is-happening/)
+ - [Despite &#39;Mixed&#39; Steam reviews and a touch of AI slop, strategy city builder Anno 117: Pax Romana has the best launch in series history](https://www.pcgamer.com/games/city-builder/despite-mixed-steam-reviews-and-a-touch-of-ai-slop-strategy-city-builder-anno-117-pax-romana-has-the-best-launch-in-series-history/)
+ - [Fallout Star Walton Goggins Must Need Money Bad](https://kotaku.com/fallout-star-walton-goggins-walmart-ad-xmas-christmas-grinch-2000645299)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
