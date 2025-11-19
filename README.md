@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
- - ⏩ [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
- - 👉 [What if you miss it?](http://9gag.com/gag/a5QvLDL)<!-- MEMES:END -->
+ - 💣 [Why do women live longer](http://9gag.com/gag/agmprnq)
+ - ⏩ [Udh Senin lagi aj...](http://9gag.com/gag/azxoNyp)
+ - 👉 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)<!-- MEMES:END -->
 
 ---
 
