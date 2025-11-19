@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a lawsuit, California-based TP-Link says Netgear orchestrated a smear by planting false claims with journalists and influencers about TP-Link&#39;s China ties &lpar;Bloomberg&rpar;](http://www.techmeme.com/251118/p57#a251118p57)
- - [Cloudflare says the November 18 outage was caused by a change to one of its &quot;database systems&#39; permissions&quot;, not by &quot;malicious activity of any kind&quot; &lpar;Matthew Prince/Cloudflare&rpar;](http://www.techmeme.com/251118/p56#a251118p56)
- - [Anthropic&#39;s Claude Sonnet 4.5, Haiku 4.5, and Opus 4.1 are now available in public preview in Microsoft Foundry for Azure customers &lpar;Anthropic&rpar;](http://www.techmeme.com/251118/p55#a251118p55)<!-- TECH:END -->
+ - [Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT](https://www.theverge.com/news/823711/cloudflare-outage-postmortem)
+ - [Google admits Gemini for Home has a hilariously bizarre bug](https://www.androidauthority.com/gemini-for-home-definiton-bug-3617170/)
+ - [HidrateSpark Pro 2 review: motivational drinking with lights, chimes, &amp; Find My](https://appleinsider.com/articles/25/11/19/hidratespark-pro-2-review-motivational-drinking-with-lights-chimes-find-my?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
