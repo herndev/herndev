@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
- - ⏩ [She&#39;s met her match](http://9gag.com/gag/abALX0O)
- - 👉 [\u201cEncephalitis lethargica remains one of the most haunting medical mysteries of the twentieth century, a disease that swept across the world and then vanished as suddenly as it appeared.\u201d](http://9gag.com/gag/azxvgMq)<!-- MEMES:END -->
+ - 💣 [The sheer confidence is insane](http://9gag.com/gag/aLnOKBW)
+ - ⏩ [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
+ - 👉 [She&#39;s met her match](http://9gag.com/gag/abALX0O)<!-- MEMES:END -->
 
 ---
 
