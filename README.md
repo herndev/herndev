@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The sheer confidence is insane](http://9gag.com/gag/aLnOKBW)
- - ⏩ [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
- - 👉 [She&#39;s met her match](http://9gag.com/gag/abALX0O)<!-- MEMES:END -->
+ - 💣 [I don&#39;t understand a word he&#39;s saying, but I think I know what he means....](http://9gag.com/gag/abALXGr)
+ - ⏩ [This is how you do a ventriloquist act](http://9gag.com/gag/aE0jdLp)
+ - 👉 [Details matter](http://9gag.com/gag/ayNm76W)<!-- MEMES:END -->
 
 ---
 
