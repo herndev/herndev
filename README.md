@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lmfao these people..what&#39;s the manager gonna do? Give him a timeout? Ground him?](http://9gag.com/gag/aXPm0Ng)
- - ⏩ [Another wife to the college](http://9gag.com/gag/aLnO63A)
- - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
+ - 💣 [The owner came up with a working way to make his dog lose weight.](http://9gag.com/gag/aW4e0Qx)
+ - ⏩ [Intrusive thoughts won](http://9gag.com/gag/axyeN4n)
+ - 👉 [Finally washing away all my problems](http://9gag.com/gag/a9y4d71)<!-- MEMES:END -->
 
 ---
 
