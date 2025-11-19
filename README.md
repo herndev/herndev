@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
- - ⏩ [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 👉 [Is it true?](http://9gag.com/gag/aE0yexp)<!-- MEMES:END -->
+ - ⏩ [She&#39;s met her match](http://9gag.com/gag/abALX0O)
+ - 👉 [Another wife to the college](http://9gag.com/gag/aLnO63A)<!-- MEMES:END -->
 
 ---
 
