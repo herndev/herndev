@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kirby Air Riders Reviews Are Mostly Happy With The Pink Blob’s Racing Return](https://kotaku.com/kirby-air-riders-reviews-nintendo-switch-2-2000645412)
- - [Best gaming monitors in 2025: the pixel-perfect panels I&#39;d buy myself](https://www.pcgamer.com/best-gaming-monitor/)
- - [This 2-meter tall statue of Hatsune Miku is actually a gaming PC—the gaming PC of my dreams, that is](https://www.pcgamer.com/hardware/this-2-meter-tall-statue-of-hatsune-miku-is-actually-a-gaming-pc-the-gaming-pc-of-my-dreams-that-is/)<!-- GAME:END -->
+ - [Metroid Prime 4: Beyond’s talkative NPCs aren’t as surprising as you think](https://www.polygon.com/metroid-prime-4-beyond-myles-mackenzie-npcs/)
+ - [If You Own an iPhone, Amazon Gives You 2 Free AirTags for Black Friday](https://kotaku.com/if-you-own-an-iphone-amazon-gives-you-2-free-airtags-for-black-friday-2000645425)
+ - [Meta Quest 3S Deal Just Went Off the Deep End, the VR Headset Has Never Been This Cheap](https://kotaku.com/amazon-takes-17-off-the-meta-quest-3s-just-ahead-of-black-friday-2000645225)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
