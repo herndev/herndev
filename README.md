@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Ops 7 multiplayer review: the game Black Ops 6 should&#39;ve been](https://www.polygon.com/black-ops-7-multiplayer-review/)
- - [Why The Internet Thinks Half-Life 3 Is Being Announced Today](https://kotaku.com/half-life-3-timeline-hype-leaks-clues-explained-release-date-november-trailer-2000645448)
- - [The DCU won&#39;t make room for Pierce Brosnan&#39;s Doctor Fate and I&#39;m crushed](https://www.polygon.com/james-gunn-rumors-pierce-brosnan-doctor-fate-return-debunked/)<!-- GAME:END -->
+ - [Building a Vibe: The Making of Delta Force’s Newest Map, Monument](https://news.xbox.com/en-us/2025/11/19/making-of-delta-forces-newest-map-monument/)
+ - [Geoff Keighley denies he&#39;s hiding Half-Life 3 in his Steam wishlist, posts a screenshot to prove it, nobody believes him, and I&#39;m starting to wonder if he&#39;s just messing with us](https://www.pcgamer.com/games/fps/geoff-keighley-denies-hes-hiding-half-life-3-in-his-steam-wishlist-posts-a-screenshot-to-prove-it-nobody-believes-him-and-im-starting-to-wonder-if-hes-just-messing-with-us/)
+ - [How to travel distance under the effect of tomatoes in Fortnite](https://www.polygon.com/fortnite-travel-distance-under-effect-tomatoes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
