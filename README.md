@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is letting users control how much AI content they see](https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics)
- - [After comparing Google’s Gemini 3 vs GPT-5.1, I still prefer ChatGPT for this one reason](https://www.androidauthority.com/gemini-3-vs-chatgpt-5-1-3617285/)
- - [Ubisoft says it will release results for the fiscal first half before trading opens on November 21, after unexpectedly postponing their publication last week &lpar;Bloomberg&rpar;](http://www.techmeme.com/251119/p25#a251119p25)<!-- TECH:END -->
+ - [Cook controversially dines with Saudi Crown Prince at White House](https://appleinsider.com/articles/25/11/19/cook-controversially-dines-with-saudi-crown-prince-at-white-house?utm_source=rss)
+ - [Europe&amp;#8217;s cookie nightmare is crumbling](https://www.theverge.com/news/823788/europe-cookie-prompt-browser-changes-proposal)
+ - [Meta warns of significant difficulties in identifying and removing underage users as it prepares for Australia&#39;s under-16 social media ban, set for December 10 &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/251119/p27#a251119p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
