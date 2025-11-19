@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cook controversially dines with Saudi Crown Prince at White House](https://appleinsider.com/articles/25/11/19/cook-controversially-dines-with-saudi-crown-prince-at-white-house?utm_source=rss)
- - [Europe&amp;#8217;s cookie nightmare is crumbling](https://www.theverge.com/news/823788/europe-cookie-prompt-browser-changes-proposal)
- - [Meta warns of significant difficulties in identifying and removing underage users as it prepares for Australia&#39;s under-16 social media ban, set for December 10 &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/251119/p27#a251119p27)<!-- TECH:END -->
+ - [Demonschool channels Buffy and Persona for delightfully demonic RPG action](https://www.theverge.com/games-review/770090/demonschool-review-switch-xbox-ps5)
+ - [The US Will Prioritize Visa Processing for Fans With World Cup Tickets](https://www.wired.com/story/the-us-will-prioritize-visa-processing-for-fans-with-world-cup-tickets/)
+ - [Samsung user loses life after Galaxy phone fails to reach emergency hotline](https://www.androidauthority.com/samsung-used-dies-australia-outdated-phone-3617246/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
