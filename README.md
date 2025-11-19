@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Demonschool channels Buffy and Persona for delightfully demonic RPG action](https://www.theverge.com/games-review/770090/demonschool-review-switch-xbox-ps5)
- - [The US Will Prioritize Visa Processing for Fans With World Cup Tickets](https://www.wired.com/story/the-us-will-prioritize-visa-processing-for-fans-with-world-cup-tickets/)
- - [Samsung user loses life after Galaxy phone fails to reach emergency hotline](https://www.androidauthority.com/samsung-used-dies-australia-outdated-phone-3617246/)<!-- TECH:END -->
+ - [Gemini 3 hands-on: a fundamental improvement on daily use, extremely fast, Antigravity IDE is a powerful launch product, and its personality is terse and direct &lpar;matt shumer&rpar;](http://www.techmeme.com/251119/p32#a251119p32)
+ - [Watch how Apple 3D prints Watches by blasting powdered titanium with lasers](https://www.theverge.com/news/823988/apple-watch-3d-printing-process)
+ - [Gemini co-lead Oriol Vinyals says Gemini 3&#39;s gains come from better pre-training and post-training, contradicting the idea that pre-training gains are falling &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251119/p31#a251119p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
