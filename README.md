@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT](https://www.theverge.com/news/823711/cloudflare-outage-postmortem)
- - [Google admits Gemini for Home has a hilariously bizarre bug](https://www.androidauthority.com/gemini-for-home-definiton-bug-3617170/)
- - [HidrateSpark Pro 2 review: motivational drinking with lights, chimes, &amp; Find My](https://appleinsider.com/articles/25/11/19/hidratespark-pro-2-review-motivational-drinking-with-lights-chimes-find-my?utm_source=rss)<!-- TECH:END -->
+ - [New Pixel update means your RCS messages might be visible to your boss](https://www.androidauthority.com/rcs-message-archival-pixel-phones-3617174/)
+ - [A look at Inception Point AI, whose podcast network makes 3,000 AI-made podcasts per week and has 400K subs; an episode needs only 20 listeners to turn a profit &lpar;Tess Patton/The Wrap&rpar;](http://www.techmeme.com/251118/p58#a251118p58)
+ - [Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT](https://www.theverge.com/news/823711/cloudflare-outage-postmortem)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
