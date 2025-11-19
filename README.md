@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok will let users choose how much AI-generated content appears in their For You feed and plans to add more advanced labeling tech for AI-content &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251119/p2#a251119p2)
- - [UK online grocer Ocado&#39;s stock closed down 17.4% on November 18 after its US partner Kroger said it would close three automated warehouses in January 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/251119/p1#a251119p1)
- - [This Nintendo DS emulator finally plays nicely with DSi games](https://www.androidauthority.com/melonds-emulator-1-1-update-dsi-games-3617179/)<!-- TECH:END -->
+ - [Pebble founder accused of ‘stealing’ developer community’s work &lpar;Update: Founder’s response&rpar;](https://www.androidauthority.com/pebble-developers-controversy-3616735/)
+ - [Purple Promo Codes and Deals: Up to 30% Off](https://www.wired.com/story/purple-promo-code/)
+ - [TikTok is rolling out new digital well-being features like an affirmation journal and says it will also give users badges for limiting their daily screen time &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251119/p4#a251119p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
