@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Behind the Scenes of the Baadlands – Goat Simulator 3’s Next Major Expansion](https://news.xbox.com/en-us/2025/11/19/behind-the-scenes-goat-simulator-3-next-expansion/)
- - [The internet as we know it emerged out of the Protocol Wars, which is as nerdy as it sounds but also somehow involved the Pentagon](https://www.pcgamer.com/hardware/networking/the-internet-as-we-know-it-emerged-out-of-the-protocol-wars-which-is-as-nerdy-as-it-sounds-but-also-somehow-involved-the-pentagon/)
- - [AMD finally gives its AI-enhanced FSR &#39;Redstone&#39; upscaling tech a December 10 launch date](https://www.pcgamer.com/hardware/graphics-cards/amd-finally-gives-its-ai-enhanced-fsr-redstone-upscaling-tech-a-december-10-launch-date/)<!-- GAME:END -->
+ - [Black Ops 7 multiplayer review: the game Black Ops 6 should&#39;ve been](https://www.polygon.com/black-ops-7-multiplayer-review/)
+ - [Why The Internet Thinks Half-Life 3 Is Being Announced Today](https://kotaku.com/half-life-3-timeline-hype-leaks-clues-explained-release-date-november-trailer-2000645448)
+ - [The DCU won&#39;t make room for Pierce Brosnan&#39;s Doctor Fate and I&#39;m crushed](https://www.polygon.com/james-gunn-rumors-pierce-brosnan-doctor-fate-return-debunked/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
