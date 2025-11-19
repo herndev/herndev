@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6′s New Map Is So Good I Can’t Stop Playing It](https://kotaku.com/battlefield-6s-new-map-review-good-eastwood-big-large-ps5-pc-2000645547)
- - [&#39;Keep dying to goose pls help&#39;: Where Winds Meet players are being chased around by demonic geese](https://www.pcgamer.com/games/mmo/keep-dying-to-goose-pls-help-where-winds-meet-players-are-being-chased-around-by-demonic-geese/)
- - [After Krafton denied its CEO consulted with ChatGPT on the Subnautica 2 mess, Krafton CEO says he consulted with ChatGPT on the Subnautica 2 mess](https://www.pcgamer.com/games/after-krafton-denied-its-ceo-consulted-with-chatgpt-on-the-subnautica-2-mess-krafton-ceo-says-he-consulted-with-chatgpt-on-the-subnautica-2-mess/)<!-- GAME:END -->
+ - [After Downdetector itself went down, someone made a Downdetector Downdetector, and then someone made a Downdetector Downdetector Downdetector, and then…](https://www.pcgamer.com/software/platforms/after-downdetector-itself-went-down-someone-made-a-downdetector-downdetector-and-then-someone-made-a-downdetector-downdetector-downdetector-and-then/)
+ - [Black Ops 7′s Best Part Won’t Be Locked Behind Its Worst Part For Much Longer](https://kotaku.com/black-ops-7s-best-part-wont-be-locked-behind-its-worst-part-for-much-longer-2000645605)
+ - [Do you recognize what game titles these letters are from? Let&#39;s get alphabetical in our latest quiz!](https://www.pcgamer.com/games/do-you-recognize-what-game-titles-these-letters-are-from-lets-get-alphabetical-in-our-latest-quiz/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
