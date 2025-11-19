@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Plants vs. Zombies: Replanted adds a great quality-of-life feature from the console port: a sun vacuum](https://www.pcgamer.com/games/strategy/plants-vs-zombies-replanted-adds-a-great-quality-of-life-feature-from-the-console-port-a-sun-vacuum/)
- - [&lpar;For Southeast Asia&rpar; PlayStation’s Black Friday Deals 2025](https://blog.playstation.com/2025/11/18/20251119-bf/)
- - [&lpar;For Southeast Asia&rpar; PlayStation’s Black Friday Deals 2025](https://blog.playstation.com/2025/11/18/20251119-bf/)<!-- GAME:END -->
+ - [Kirby Air Riders review: an above-and-beyond sequel to a nostalgic smash hit](https://www.polygon.com/kirby-air-riders-review/)
+ - [This $150 controller from Honeycomb Aeronautical has not one, not two, not three, but four integrated Throttle Levers for the flight sim sickos](https://www.pcgamer.com/hardware/game-pads/this-usd150-controller-from-honeycomb-aeronautical-has-not-one-not-two-not-three-but-four-integrated-throttle-levers-for-the-flight-sim-sickos/)
+ - [AMD is the hardware of choice for France&#39;s first &#39;AI factory&#39; supercomputer](https://www.pcgamer.com/hardware/amd-is-the-hardware-of-choice-for-frances-first-ai-factory-supercomputer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
