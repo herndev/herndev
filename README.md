@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Building a Vibe: The Making of Delta Force’s Newest Map, Monument](https://news.xbox.com/en-us/2025/11/19/making-of-delta-forces-newest-map-monument/)
- - [Geoff Keighley denies he&#39;s hiding Half-Life 3 in his Steam wishlist, posts a screenshot to prove it, nobody believes him, and I&#39;m starting to wonder if he&#39;s just messing with us](https://www.pcgamer.com/games/fps/geoff-keighley-denies-hes-hiding-half-life-3-in-his-steam-wishlist-posts-a-screenshot-to-prove-it-nobody-believes-him-and-im-starting-to-wonder-if-hes-just-messing-with-us/)
- - [How to travel distance under the effect of tomatoes in Fortnite](https://www.polygon.com/fortnite-travel-distance-under-effect-tomatoes/)<!-- GAME:END -->
+ - [Valve&#39;s Steam Machine could remove the hassle from PC gaming](https://www.polygon.com/steam-machine-gaming-pc-shopping/)
+ - [How Friendship and Duality Are at the Heart of SpongeBob SquarePants: Titans of the Tide](https://news.xbox.com/en-us/2025/11/19/friendship-and-duality-heart-of-spongebob-squarepants-titans-of-the-tide/)
+ - [Fans Are Fixing One Of Pokémon Legends: Z-A‘s Ugliest Mega Evolutions](https://kotaku.com/pokemon-legends-za-mega-feraligatr-totodile-art-redesign-2000645515)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
