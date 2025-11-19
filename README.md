@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare outages aren’t a matter of if — but when](https://www.theverge.com/news/823562/cloudflare-outage-wake-up-call-websites)
- - [The US DOE will provide Constellation with a $1B loan to restart the Three Mile Island nuclear plant; the output will be sold to Microsoft under a 20-year deal &lpar;Costas Paris/Wall Street Journal&rpar;](http://www.techmeme.com/251118/p51#a251118p51)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
+ - [The Jeep Recon lives](https://www.theverge.com/news/822340/jeep-recon-ev-specs-range-price)
+ - [The Apple deals worth shopping before Black Friday &lpar;and the discounts to expect&rpar;](https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025)
+ - [Republicans are looking for a way to bring back the AI moratorium](https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
