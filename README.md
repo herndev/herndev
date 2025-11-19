@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [40 Best Early Black Friday Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-deals-2025-1/)
- - [An ingenious Apple Service hoax is convincing users their account is under attack](https://appleinsider.com/articles/25/11/19/an-ingenious-apple-service-hoax-is-convincing-users-their-account-is-under-attack?utm_source=rss)
- - [OpenAI unveils GPT-5.1-Codex-Max, saying it is &quot;significantly better&quot; at &quot;long-horizon reasoning&quot; and is the first model it has trained for Windows environments &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/251119/p42#a251119p42)<!-- TECH:END -->
+ - [Yann LeCun is departing Meta; sources: Meta plans to partner with LeCun on his new startup, which will be focused on world models &lpar;Bloomberg&rpar;](http://www.techmeme.com/251119/p47#a251119p47)
+ - [I’m out of reasons to recommend Apple’s M1 MacBook Air, even at $600](https://www.theverge.com/gadgets/824237/m4-macbook-air-apple-m1-laptop-black-friday-deal-sale)
+ - [T-Mobile customers will soon have to pay for their Apple TV ‘On Us’ perk](https://www.androidauthority.com/t-mobile-apple-tv-fee-3617504/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
