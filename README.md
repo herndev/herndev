@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another wife to the college](http://9gag.com/gag/aLnO63A)
- - ⏩ [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
- - 👉 [She&#39;s freaking out lmfao](http://9gag.com/gag/aW4eBm2)<!-- MEMES:END -->
+ - 💣 [This is how you do a ventriloquist act](http://9gag.com/gag/aE0jdLp)
+ - ⏩ [I don&#39;t understand a word he&#39;s saying, but I think I know what he means....](http://9gag.com/gag/abALXGr)
+ - 👉 [They are trying to off us](http://9gag.com/gag/awy901D)<!-- MEMES:END -->
 
 ---
 
