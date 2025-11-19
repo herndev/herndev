@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Warner Music settles its suit with AI startup Udio, which is planning a service that lets users create songs from licensed tracks of artists who opt-in &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/251119/p38#a251119p38)
- - [Perplexity plans to roll out a free agentic shopping product for US users next week in partnership with PayPal &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251119/p37#a251119p37)
- - [Elon Musk says xAI plans to develop a 500 megawatt data center in Saudi Arabia with state-backed AI startup Humain; the data center will rely on Nvidia chips &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/251119/p36#a251119p36)<!-- TECH:END -->
+ - [Future Google TV devices might come with a solar-powered remote](https://www.theverge.com/news/824255/google-tv-reference-remote-solar-power-epishine-ohsung-electronics)
+ - [Will a ‘Wicked’ fan please explain what is going on in Google’s new Pixel animation?](https://www.androidauthority.com/wicked-iphone-video-3617470/)
+ - [OpenAI announces ChatGPT for Teachers, designed for K-12 educators and school districts, and says it will be free to K-12 educators in the US through June 2027 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251119/p41#a251119p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
