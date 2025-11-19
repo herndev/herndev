@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why do women live longer](http://9gag.com/gag/agmprnq)
- - ⏩ [Udh Senin lagi aj...](http://9gag.com/gag/azxoNyp)
- - 👉 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)<!-- MEMES:END -->
+ - 💣 [Another wife to the college](http://9gag.com/gag/aLnO63A)
+ - ⏩ [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
+ - 👉 [She&#39;s freaking out lmfao](http://9gag.com/gag/aW4eBm2)<!-- MEMES:END -->
 
 ---
 
