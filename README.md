@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Huawei&#39;s efforts to build an independent Chinese chip supply chain; through vehicles like Hubble, it has invested in 60+ chip companies since 2019 &lpar;Itsuro Fujino/Nikkei Asia&rpar;](http://www.techmeme.com/251119/p9#a251119p9)
- - [Gemini may soon offer a richer split-screen experience, but only on specific devices](https://www.androidauthority.com/google-gemini-split-screen-foldables-tablets-3617194/)
- - [A look at Tsinghua University, which leads China&#39;s AI innovation, with 4,986 AI patents between 2005 and 2024, alumni behind startups like DeepSeek, and more &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/251119/p8#a251119p8)<!-- TECH:END -->
+ - [CEIP study: 87 of the top 100 Chinese AI researchers who were working in the US in 2019 are still doing research at US universities or companies in 2025 &lpar;New York Times&rpar;](http://www.techmeme.com/251119/p14#a251119p14)
+ - [AI, my unexpected daily travel companion](https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero)
+ - [UK bank Lloyds agrees to acquire UK startup Curve, which offers digital wallets, in a deal set to close in H1 2026; Sky News reported Lloyds is set to pay £120M &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/251119/p13#a251119p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
