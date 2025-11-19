@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Another wife to the college](http://9gag.com/gag/aLnO63A)
  - ⏩ [She&#39;s met her match](http://9gag.com/gag/abALX0O)
- - 👉 [Sydney Sweeney and Alexandra shipp](http://9gag.com/gag/a2vAzW9)<!-- MEMES:END -->
+ - 👉 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)<!-- MEMES:END -->
 
 ---
 
