@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Laptop prices in 1989](http://9gag.com/gag/aXPmbE2)
- - ⏩ [Didn&#39;t realise how much force a bumble bee&#39;s wings produced until now.](http://9gag.com/gag/adBWNxV)
- - 👉 [Finally washing away all my problems](http://9gag.com/gag/a9y4d71)<!-- MEMES:END -->
+ - 💣 [Security guy, a man of integrity tried to save the player&#39;s life](http://9gag.com/gag/azxvbBm)
+ - ⏩ [The `Superbowl Streaker` was a Las Vegas local who placed a bet that there would be a streaker during Super Bowl LV, he ran on the field by himself and cashed out with $374,000 and a $1000 fine](http://9gag.com/gag/ayNm7yy)
+ - 👉 [Seriously what the hell is she even saying?](http://9gag.com/gag/avyB0PW)<!-- MEMES:END -->
 
 ---
 
