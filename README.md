@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Jeep Recon lives](https://www.theverge.com/news/822340/jeep-recon-ev-specs-range-price)
- - [The Apple deals worth shopping before Black Friday &lpar;and the discounts to expect&rpar;](https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025)
- - [Republicans are looking for a way to bring back the AI moratorium](https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise)<!-- TECH:END -->
+ - [In a lawsuit, California-based TP-Link says Netgear orchestrated a smear by planting false claims with journalists and influencers about TP-Link&#39;s China ties &lpar;Bloomberg&rpar;](http://www.techmeme.com/251118/p57#a251118p57)
+ - [Cloudflare says the November 18 outage was caused by a change to one of its &quot;database systems&#39; permissions&quot;, not by &quot;malicious activity of any kind&quot; &lpar;Matthew Prince/Cloudflare&rpar;](http://www.techmeme.com/251118/p56#a251118p56)
+ - [Anthropic&#39;s Claude Sonnet 4.5, Haiku 4.5, and Opus 4.1 are now available in public preview in Microsoft Foundry for Azure customers &lpar;Anthropic&rpar;](http://www.techmeme.com/251118/p55#a251118p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
