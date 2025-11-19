@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gaming: Time Well Spent](https://news.xbox.com/en-us/2025/11/19/xbox-culture-of-play-report-gaming-survey/)
- - [How to unlock Tigger in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-tigger-unlock/)
- - [The best way to level your horse in Disney Dreamlight Valley isn&#39;t through daily gifts, it&#39;s by creating a shoddy obstacle course](https://www.pcgamer.com/games/life-sim/the-best-way-to-level-your-horse-in-disney-dreamlight-valley-isnt-through-daily-gifts-its-by-creating-a-shoddy-obstacle-course/)<!-- GAME:END -->
+ - [Behind the Scenes of the Baadlands – Goat Simulator 3’s Next Major Expansion](https://news.xbox.com/en-us/2025/11/19/behind-the-scenes-goat-simulator-3-next-expansion/)
+ - [The internet as we know it emerged out of the Protocol Wars, which is as nerdy as it sounds but also somehow involved the Pentagon](https://www.pcgamer.com/hardware/networking/the-internet-as-we-know-it-emerged-out-of-the-protocol-wars-which-is-as-nerdy-as-it-sounds-but-also-somehow-involved-the-pentagon/)
+ - [AMD finally gives its AI-enhanced FSR &#39;Redstone&#39; upscaling tech a December 10 launch date](https://www.pcgamer.com/hardware/graphics-cards/amd-finally-gives-its-ai-enhanced-fsr-redstone-upscaling-tech-a-december-10-launch-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
