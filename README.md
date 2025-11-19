@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Newly Revealed Version Of One Of KPop Demon Hunters’ Most Popular Songs Is Messing With My Head](https://kotaku.com/kpop-demon-hunters-your-idol-saja-boys-demo-rumi-ejae-2000645529)
- - [Deborah Ann Woll talks Tales From Woodcreek&#39;s DIY-heavy approach to D&amp;D props](https://www.polygon.com/deborah-ann-woll-tales-from-woodcreek-interview/)
- - [Deadpool VR Is A Game For Deadpool Fans And Nobody Else](https://kotaku.com/deadpool-vr-is-a-game-for-deadpool-fans-and-nobody-else-2000645514)<!-- GAME:END -->
+ - [Does The Mighty Nein have a Star Wars problem?](https://www.polygon.com/the-mighty-nein-canon-prime-video-campaign-2-critical-role/)
+ - [Roblox&#39;s selfie verification is a preview of our internet future](https://www.polygon.com/roblox-age-verification-id-check-user-issues-child-safety/)
+ - [The 21 Best Games For The Xbox Series X/S](https://kotaku.com/the-best-games-for-the-xbox-series-x-and-s-1845727745)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
