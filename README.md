@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The owner came up with a working way to make his dog lose weight.](http://9gag.com/gag/aW4e0Qx)
- - ⏩ [Intrusive thoughts won](http://9gag.com/gag/axyeN4n)
+ - 💣 [Laptop prices in 1989](http://9gag.com/gag/aXPmbE2)
+ - ⏩ [Didn&#39;t realise how much force a bumble bee&#39;s wings produced until now.](http://9gag.com/gag/adBWNxV)
  - 👉 [Finally washing away all my problems](http://9gag.com/gag/a9y4d71)<!-- MEMES:END -->
 
 ---
