@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I lost](http://9gag.com/gag/aByjDox)
+ - 💣 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
  - ⏩ [Another wife to the college](http://9gag.com/gag/aLnO63A)
  - 👉 [She&#39;s met her match](http://9gag.com/gag/abALX0O)<!-- MEMES:END -->
 
