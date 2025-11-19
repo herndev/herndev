@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who knew static electricity could be so useful](http://9gag.com/gag/a6Zer0N)
- - ⏩ [The Look](http://9gag.com/gag/aD2qAw9)
- - 👉 [Family brings home an orange kitten to help mother cat heal after losing her kitten](http://9gag.com/gag/aZZ4b56)<!-- MEMES:END -->
+ - 💣 [Not again!](http://9gag.com/gag/aZZ4qBp)
+ - ⏩ [She&#39;s met her match](http://9gag.com/gag/abALX0O)
+ - 👉 [I lost](http://9gag.com/gag/aByjDox)<!-- MEMES:END -->
 
 ---
 
