@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kirby Air Riders review: an above-and-beyond sequel to a nostalgic smash hit](https://www.polygon.com/kirby-air-riders-review/)
- - [This $150 controller from Honeycomb Aeronautical has not one, not two, not three, but four integrated Throttle Levers for the flight sim sickos](https://www.pcgamer.com/hardware/game-pads/this-usd150-controller-from-honeycomb-aeronautical-has-not-one-not-two-not-three-but-four-integrated-throttle-levers-for-the-flight-sim-sickos/)
- - [AMD is the hardware of choice for France&#39;s first &#39;AI factory&#39; supercomputer](https://www.pcgamer.com/hardware/amd-is-the-hardware-of-choice-for-frances-first-ai-factory-supercomputer/)<!-- GAME:END -->
+ - [Five things I always tell people before they buy a new gaming PC](https://www.pcgamer.com/hardware/gaming-pcs/five-things-i-always-tell-people-before-they-buy-a-new-gaming-pc/)
+ - [Five things I always tell people before they buy their first gaming mouse](https://www.pcgamer.com/hardware/five-things-i-wish-id-known-before-buying-my-first-gaming-mouse/)
+ - [Cloudflare apologises for &#39;the pain we caused the Internet&#39; and admits a file size error brought down large parts of the web yesterday, not a malicious cyberattack](https://www.pcgamer.com/hardware/cloudflare-apologises-for-the-pain-we-caused-the-internet-and-admits-a-file-size-error-brought-down-large-parts-of-the-web-yesterday-not-a-malicious-cyberattack/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
