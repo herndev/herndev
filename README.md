@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yann LeCun is departing Meta; sources: Meta plans to partner with LeCun on his new startup, which will be focused on world models &lpar;Bloomberg&rpar;](http://www.techmeme.com/251119/p47#a251119p47)
- - [I’m out of reasons to recommend Apple’s M1 MacBook Air, even at $600](https://www.theverge.com/gadgets/824237/m4-macbook-air-apple-m1-laptop-black-friday-deal-sale)
- - [T-Mobile customers will soon have to pay for their Apple TV ‘On Us’ perk](https://www.androidauthority.com/t-mobile-apple-tv-fee-3617504/)<!-- TECH:END -->
+ - [Google’s new Scholar Labs search uses AI to find relevant studies](https://www.theverge.com/news/823213/google-scholar-labs-ai-search)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;November 19&rpar;](https://www.androidauthority.com/wallpaper-wednesday-november-19-2025-3614881/)
+ - [Nvidia reports Q3 revenue up 62% YoY to $57.01B, vs. $54.92B est., Data Center revenue up 66% to $51.2B, and net income up 65% to $31.9B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251119/p51#a251119p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
