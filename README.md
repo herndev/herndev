@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Darktide&#39;s second new class is the Hive Scum, its first dual-wielder and drug fiend](https://www.pcgamer.com/games/fps/darktides-second-new-class-is-the-hive-scum-its-first-dual-wielder-and-drug-fiend/)
  - [Half-Life fans are in a frenzy over the prospect of a Half-Life 3 announcement that there&#39;s &lpar;almost&rpar; no good reason to believe is happening](https://www.pcgamer.com/games/fps/half-life-fans-are-in-a-frenzy-over-the-prospect-of-a-half-life-3-announcement-that-theres-almost-no-good-reason-to-believe-is-happening/)
- - [Despite &#39;Mixed&#39; Steam reviews and a touch of AI slop, strategy city builder Anno 117: Pax Romana has the best launch in series history](https://www.pcgamer.com/games/city-builder/despite-mixed-steam-reviews-and-a-touch-of-ai-slop-strategy-city-builder-anno-117-pax-romana-has-the-best-launch-in-series-history/)
- - [Fallout Star Walton Goggins Must Need Money Bad](https://kotaku.com/fallout-star-walton-goggins-walmart-ad-xmas-christmas-grinch-2000645299)<!-- GAME:END -->
+ - [Despite &#39;Mixed&#39; Steam reviews and a touch of AI slop, strategy city builder Anno 117: Pax Romana has the best launch in series history](https://www.pcgamer.com/games/city-builder/despite-mixed-steam-reviews-and-a-touch-of-ai-slop-strategy-city-builder-anno-117-pax-romana-has-the-best-launch-in-series-history/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
