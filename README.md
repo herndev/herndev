@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU&#39;s General Court dismisses Amazon&#39;s request to remove its designation as a Very Large Online Platform under the DSA; platforms with 45M+ users qualify &lpar;Reuters&rpar;](http://www.techmeme.com/251119/p21#a251119p21)
- - [Crypto miners like IREN are pivoting to AI data centers amid the AI boom; IREN&#39;s stock, down to ~$1 in 2022, is up 300% in 2025, giving it a $13B+ market cap &lpar;Jennifer Hiller/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p20#a251119p20)
- - [Google Maps makes it easier to recall the places you visited &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-maps-your-recent-places-3589969/)<!-- TECH:END -->
+ - [TikTok is letting users control how much AI content they see](https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics)
+ - [After comparing Google’s Gemini 3 vs GPT-5.1, I still prefer ChatGPT for this one reason](https://www.androidauthority.com/gemini-3-vs-chatgpt-5-1-3617285/)
+ - [Ubisoft says it will release results for the fiscal first half before trading opens on November 21, after unexpectedly postponing their publication last week &lpar;Bloomberg&rpar;](http://www.techmeme.com/251119/p25#a251119p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
