@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuaishou reports Q3 revenue up 14% YoY to ~$5B and net profit up 37% YoY to ~$632M, above ~$588M est., driven by ad growth and its Kling AI video generator &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p16#a251119p16)
- - [Theft protection could get a big boost with One UI 8.5 &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-one-ui-8-5-identity-check-upgrade-3617235/)
- - [Snapdragon 8 Gen 5 is launching soon, and OnePlus gets first dibs](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-5-launch-date-oneplus-ace-6t-15r-3617215/)<!-- TECH:END -->
+ - [The EU&#39;s General Court dismisses Amazon&#39;s request to remove its designation as a Very Large Online Platform under the DSA; platforms with 45M+ users qualify &lpar;Reuters&rpar;](http://www.techmeme.com/251119/p21#a251119p21)
+ - [Crypto miners like IREN are pivoting to AI data centers amid the AI boom; IREN&#39;s stock, down to ~$1 in 2022, is up 300% in 2025, giving it a $13B+ market cap &lpar;Jennifer Hiller/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p20#a251119p20)
+ - [Google Maps makes it easier to recall the places you visited &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-maps-your-recent-places-3589969/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
