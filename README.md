@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve&#39;s Steam Machine could remove the hassle from PC gaming](https://www.polygon.com/steam-machine-gaming-pc-shopping/)
- - [How Friendship and Duality Are at the Heart of SpongeBob SquarePants: Titans of the Tide](https://news.xbox.com/en-us/2025/11/19/friendship-and-duality-heart-of-spongebob-squarepants-titans-of-the-tide/)
- - [Fans Are Fixing One Of Pokémon Legends: Z-A‘s Ugliest Mega Evolutions](https://kotaku.com/pokemon-legends-za-mega-feraligatr-totodile-art-redesign-2000645515)<!-- GAME:END -->
+ - [A Newly Revealed Version Of One Of KPop Demon Hunters’ Most Popular Songs Is Messing With My Head](https://kotaku.com/kpop-demon-hunters-your-idol-saja-boys-demo-rumi-ejae-2000645529)
+ - [Deborah Ann Woll talks Tales From Woodcreek&#39;s DIY-heavy approach to D&amp;D props](https://www.polygon.com/deborah-ann-woll-tales-from-woodcreek-interview/)
+ - [Deadpool VR Is A Game For Deadpool Fans And Nobody Else](https://kotaku.com/deadpool-vr-is-a-game-for-deadpool-fans-and-nobody-else-2000645514)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
