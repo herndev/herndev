@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPadOS 26: How to use Quick Notes or take a screenshot with a swipe](https://appleinsider.com/inside/ipados-26/tips/ipados-26-how-to-use-quick-notes-or-take-a-screenshot-with-a-swipe?utm_source=rss)
  - [New Pixel update means your RCS messages might be visible to your boss](https://www.androidauthority.com/rcs-message-archival-pixel-phones-3617174/)
- - [A look at Inception Point AI, whose podcast network makes 3,000 AI-made podcasts per week and has 400K subs; an episode needs only 20 listeners to turn a profit &lpar;Tess Patton/The Wrap&rpar;](http://www.techmeme.com/251118/p58#a251118p58)
- - [Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT](https://www.theverge.com/news/823711/cloudflare-outage-postmortem)<!-- TECH:END -->
+ - [A look at Inception Point AI, whose podcast network makes 3,000 AI-made podcasts per week and has 400K subs; an episode needs only 20 listeners to turn a profit &lpar;Tess Patton/The Wrap&rpar;](http://www.techmeme.com/251118/p58#a251118p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
