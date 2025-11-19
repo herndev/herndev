@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini 3 hands-on: a fundamental improvement on daily use, extremely fast, Antigravity IDE is a powerful launch product, and its personality is terse and direct &lpar;matt shumer&rpar;](http://www.techmeme.com/251119/p32#a251119p32)
- - [Watch how Apple 3D prints Watches by blasting powdered titanium with lasers](https://www.theverge.com/news/823988/apple-watch-3d-printing-process)
- - [Gemini co-lead Oriol Vinyals says Gemini 3&#39;s gains come from better pre-training and post-training, contradicting the idea that pre-training gains are falling &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251119/p31#a251119p31)<!-- TECH:END -->
+ - [Samsung XR smart glasses leak reveals connectivity details, transition lenses, and more](https://www.androidauthority.com/samsung-smart-glasses-model-number-3617389/)
+ - [Gemini’s getting maybe its most useful upgrade yet: spotting AI-made content](https://www.androidauthority.com/gemini-synthid-3617378/)
+ - [Alphabet&#39;s stock rose as much as 6.9% on Wednesday, its biggest gain since early September, amid a wave of glowing reviews for Gemini 3 &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/251119/p34#a251119p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
