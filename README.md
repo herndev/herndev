@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five things I always tell people before they buy a new gaming PC](https://www.pcgamer.com/hardware/gaming-pcs/five-things-i-always-tell-people-before-they-buy-a-new-gaming-pc/)
- - [Five things I always tell people before they buy their first gaming mouse](https://www.pcgamer.com/hardware/five-things-i-wish-id-known-before-buying-my-first-gaming-mouse/)
- - [Cloudflare apologises for &#39;the pain we caused the Internet&#39; and admits a file size error brought down large parts of the web yesterday, not a malicious cyberattack](https://www.pcgamer.com/hardware/cloudflare-apologises-for-the-pain-we-caused-the-internet-and-admits-a-file-size-error-brought-down-large-parts-of-the-web-yesterday-not-a-malicious-cyberattack/)<!-- GAME:END -->
+ - [Kirby Air Riders Reviews Are Mostly Happy With The Pink Blob’s Racing Return](https://kotaku.com/kirby-air-riders-reviews-nintendo-switch-2-2000645412)
+ - [Best gaming monitors in 2025: the pixel-perfect panels I&#39;d buy myself](https://www.pcgamer.com/best-gaming-monitor/)
+ - [This 2-meter tall statue of Hatsune Miku is actually a gaming PC—the gaming PC of my dreams, that is](https://www.pcgamer.com/hardware/this-2-meter-tall-statue-of-hatsune-miku-is-actually-a-gaming-pc-the-gaming-pc-of-my-dreams-that-is/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
