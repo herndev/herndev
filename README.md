@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung XR smart glasses leak reveals connectivity details, transition lenses, and more](https://www.androidauthority.com/samsung-smart-glasses-model-number-3617389/)
- - [Gemini’s getting maybe its most useful upgrade yet: spotting AI-made content](https://www.androidauthority.com/gemini-synthid-3617378/)
- - [Alphabet&#39;s stock rose as much as 6.9% on Wednesday, its biggest gain since early September, amid a wave of glowing reviews for Gemini 3 &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/251119/p34#a251119p34)<!-- TECH:END -->
+ - [Sources: Warner Music settles its suit with AI startup Udio, which is planning a service that lets users create songs from licensed tracks of artists who opt-in &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/251119/p38#a251119p38)
+ - [Perplexity plans to roll out a free agentic shopping product for US users next week in partnership with PayPal &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251119/p37#a251119p37)
+ - [Elon Musk says xAI plans to develop a 500 megawatt data center in Saudi Arabia with state-backed AI startup Humain; the data center will rely on Nvidia chips &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/251119/p36#a251119p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
