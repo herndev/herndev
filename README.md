@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Metroid Prime 4: Beyond’s talkative NPCs aren’t as surprising as you think](https://www.polygon.com/metroid-prime-4-beyond-myles-mackenzie-npcs/)
- - [If You Own an iPhone, Amazon Gives You 2 Free AirTags for Black Friday](https://kotaku.com/if-you-own-an-iphone-amazon-gives-you-2-free-airtags-for-black-friday-2000645425)
- - [Meta Quest 3S Deal Just Went Off the Deep End, the VR Headset Has Never Been This Cheap](https://kotaku.com/amazon-takes-17-off-the-meta-quest-3s-just-ahead-of-black-friday-2000645225)<!-- GAME:END -->
+ - [Gaming: Time Well Spent](https://news.xbox.com/en-us/2025/11/19/xbox-culture-of-play-report-gaming-survey/)
+ - [How to unlock Tigger in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-tigger-unlock/)
+ - [The best way to level your horse in Disney Dreamlight Valley isn&#39;t through daily gifts, it&#39;s by creating a shoddy obstacle course](https://www.pcgamer.com/games/life-sim/the-best-way-to-level-your-horse-in-disney-dreamlight-valley-isnt-through-daily-gifts-its-by-creating-a-shoddy-obstacle-course/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
