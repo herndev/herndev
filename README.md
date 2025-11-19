@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Does The Mighty Nein have a Star Wars problem?](https://www.polygon.com/the-mighty-nein-canon-prime-video-campaign-2-critical-role/)
- - [Roblox&#39;s selfie verification is a preview of our internet future](https://www.polygon.com/roblox-age-verification-id-check-user-issues-child-safety/)
- - [The 21 Best Games For The Xbox Series X/S](https://kotaku.com/the-best-games-for-the-xbox-series-x-and-s-1845727745)<!-- GAME:END -->
+ - [Battlefield 6′s New Map Is So Good I Can’t Stop Playing It](https://kotaku.com/battlefield-6s-new-map-review-good-eastwood-big-large-ps5-pc-2000645547)
+ - [&#39;Keep dying to goose pls help&#39;: Where Winds Meet players are being chased around by demonic geese](https://www.pcgamer.com/games/mmo/keep-dying-to-goose-pls-help-where-winds-meet-players-are-being-chased-around-by-demonic-geese/)
+ - [After Krafton denied its CEO consulted with ChatGPT on the Subnautica 2 mess, Krafton CEO says he consulted with ChatGPT on the Subnautica 2 mess](https://www.pcgamer.com/games/after-krafton-denied-its-ceo-consulted-with-chatgpt-on-the-subnautica-2-mess-krafton-ceo-says-he-consulted-with-chatgpt-on-the-subnautica-2-mess/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
