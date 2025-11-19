@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future Google TV devices might come with a solar-powered remote](https://www.theverge.com/news/824255/google-tv-reference-remote-solar-power-epishine-ohsung-electronics)
- - [Will a ‘Wicked’ fan please explain what is going on in Google’s new Pixel animation?](https://www.androidauthority.com/wicked-iphone-video-3617470/)
- - [OpenAI announces ChatGPT for Teachers, designed for K-12 educators and school districts, and says it will be free to K-12 educators in the US through June 2027 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251119/p41#a251119p41)<!-- TECH:END -->
+ - [40 Best Early Black Friday Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-deals-2025-1/)
+ - [An ingenious Apple Service hoax is convincing users their account is under attack](https://appleinsider.com/articles/25/11/19/an-ingenious-apple-service-hoax-is-convincing-users-their-account-is-under-attack?utm_source=rss)
+ - [OpenAI unveils GPT-5.1-Codex-Max, saying it is &quot;significantly better&quot; at &quot;long-horizon reasoning&quot; and is the first model it has trained for Windows environments &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/251119/p42#a251119p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
