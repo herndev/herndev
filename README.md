@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not again!](http://9gag.com/gag/aZZ4qBp)
- - ⏩ [Another wife to the college](http://9gag.com/gag/aLnO63A)
- - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
+ - 💣 [Another wife to the college](http://9gag.com/gag/aLnO63A)
+ - ⏩ [She&#39;s met her match](http://9gag.com/gag/abALX0O)
+ - 👉 [Sydney Sweeney and Alexandra shipp](http://9gag.com/gag/a2vAzW9)<!-- MEMES:END -->
 
 ---
 
