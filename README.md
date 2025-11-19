@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Plants vs. Zombies: Replanted adds a great quality-of-life feature from the console port: a sun vacuum](https://www.pcgamer.com/games/strategy/plants-vs-zombies-replanted-adds-a-great-quality-of-life-feature-from-the-console-port-a-sun-vacuum/)
  - [&lpar;For Southeast Asia&rpar; PlayStation’s Black Friday Deals 2025](https://blog.playstation.com/2025/11/18/20251119-bf/)
- - [Darktide&#39;s second new class is the Hive Scum, its first dual-wielder and drug fiend](https://www.pcgamer.com/games/fps/darktides-second-new-class-is-the-hive-scum-its-first-dual-wielder-and-drug-fiend/)
- - [Half-Life fans are in a frenzy over the prospect of a Half-Life 3 announcement that there&#39;s &lpar;almost&rpar; no good reason to believe is happening](https://www.pcgamer.com/games/fps/half-life-fans-are-in-a-frenzy-over-the-prospect-of-a-half-life-3-announcement-that-theres-almost-no-good-reason-to-believe-is-happening/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation’s Black Friday Deals 2025](https://blog.playstation.com/2025/11/18/20251119-bf/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
