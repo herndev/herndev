@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new Scholar Labs search uses AI to find relevant studies](https://www.theverge.com/news/823213/google-scholar-labs-ai-search)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;November 19&rpar;](https://www.androidauthority.com/wallpaper-wednesday-november-19-2025-3614881/)
- - [Nvidia reports Q3 revenue up 62% YoY to $57.01B, vs. $54.92B est., Data Center revenue up 66% to $51.2B, and net income up 65% to $31.9B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251119/p51#a251119p51)<!-- TECH:END -->
+ - [Netflix signs a three year deal to stream MLB live events and games](https://www.theverge.com/news/824513/mlb-netflix-nbc-peacock-espn)
+ - [Sources: the US Commerce Department plans to approve the sale of up to 35K of Nvidia&#39;s GB300 servers or their equivalents to G42 and Humain each &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251119/p53#a251119p53)
+ - [Yeti Vs Host Modern: Which Insulated Serving Dishes Are the Best?](https://www.wired.com/story/the-best-insulated-serving-dishes-for-your-next-dinner-party/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
