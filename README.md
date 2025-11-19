@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CEIP study: 87 of the top 100 Chinese AI researchers who were working in the US in 2019 are still doing research at US universities or companies in 2025 &lpar;New York Times&rpar;](http://www.techmeme.com/251119/p14#a251119p14)
- - [AI, my unexpected daily travel companion](https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero)
- - [UK bank Lloyds agrees to acquire UK startup Curve, which offers digital wallets, in a deal set to close in H1 2026; Sky News reported Lloyds is set to pay £120M &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/251119/p13#a251119p13)<!-- TECH:END -->
+ - [Kuaishou reports Q3 revenue up 14% YoY to ~$5B and net profit up 37% YoY to ~$632M, above ~$588M est., driven by ad growth and its Kling AI video generator &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p16#a251119p16)
+ - [Theft protection could get a big boost with One UI 8.5 &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-one-ui-8-5-identity-check-upgrade-3617235/)
+ - [Snapdragon 8 Gen 5 is launching soon, and OnePlus gets first dibs](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-5-launch-date-oneplus-ace-6t-15r-3617215/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
