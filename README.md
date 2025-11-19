@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Accidental discharge](http://9gag.com/gag/aGy6P67)
- - ⏩ [Another wife to the college](http://9gag.com/gag/aLnO63A)
- - 👉 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)<!-- MEMES:END -->
+ - 💣 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
+ - ⏩ [What if you miss it?](http://9gag.com/gag/a5QvLDL)
+ - 👉 [Is it true?](http://9gag.com/gag/aE0yexp)<!-- MEMES:END -->
 
 ---
 
