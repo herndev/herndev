@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is wednesday my dudes](http://9gag.com/gag/agmp00W)
- - ⏩ [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)
+ - 💣 [Best Google Doodle ever!](http://9gag.com/gag/aW4eZyq)
+ - ⏩ [It is wednesday my dudes](http://9gag.com/gag/agmp00W)
  - 👉 [You can only see it once](http://9gag.com/gag/awy90m1)<!-- MEMES:END -->
 
 ---
