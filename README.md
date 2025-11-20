@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
- - ⏩ [Worth a medal](http://9gag.com/gag/aNDGozG)
- - 👉 [This world seems funny](http://9gag.com/gag/ae9q3pm)<!-- MEMES:END -->
+ - 💣 [Man only want one thing and it&#39;s disgusting.](http://9gag.com/gag/ae9q3ZO)
+ - ⏩ [It`s wednesday my degens :&rpar;](http://9gag.com/gag/aYQvb5O)
+ - 👉 [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)<!-- MEMES:END -->
 
 ---
 
