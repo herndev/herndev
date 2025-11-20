@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Govee Dumps Color Floor Lamps, Now Selling at New All-Time Low for Prime Members](https://kotaku.com/govee-dumps-color-floor-lamps-now-selling-at-new-all-time-low-for-prime-members-2000645559)
- - [I became a full-time paramedic for strangers in Arc Raiders, and ended up showered with more rare loot than I could carry](https://www.pcgamer.com/games/third-person-shooter/i-became-a-full-time-paramedic-for-strangers-in-arc-raiders-and-ended-up-showered-with-more-rare-loot-than-i-could-carry/)
- - [LG’s Ultrafine 27-Inch 4K Monitor Sells for Peanuts, Amazon Dumps Stock With Zero Margin](https://kotaku.com/lgs-ultrafine-27-inch-4k-monitor-sells-for-peanuts-amazon-dumps-stock-with-zero-margin-2000645574)<!-- GAME:END -->
+ - [How to unlock all machines in Kirby Air Riders](https://www.polygon.com/kirby-air-riders-unlock-all-machines-vehicles-legendary/)
+ - [How to unlock every character in Kirby Air Riders](https://www.polygon.com/kirby-air-riders-character-list-unlock-all-colors-requirements/)
+ - [12 Kirby Air Riders beginner&#39;s tips to help you get started](https://www.polygon.com/kirby-air-riders-beginners-tips-tricks-city-trial-road-trip/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
