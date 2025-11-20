@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Function Health, a health tracking tech company, raised a $298M Series B led by Redpoint Ventures at a $2.5B valuation, bringing its total funding to $350M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/251119/p61#a251119p61)
- - [This new USB stick promises to end your smart home chaos for just $49](https://www.androidauthority.com/home-assistant-connect-zbt-2-3617640/)
- - [Australia vs. England Livestream: How to Watch 1st Test Ashes Cricket From Anywhere for Free](https://www.cnet.com/tech/services-and-software/australia-vs-england-livestream-how-to-watch-1st-test-ashes-cricket-from-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US judge sentences William Lonergan Hill, a co-founder of crypto mixer Samourai Wallet, to four years in prison for laundering $200M+ in illegal transactions &lpar;Miles J. Herszenhorn/Bloomberg&rpar;](http://www.techmeme.com/251119/p62#a251119p62)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Nov. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-nov-20/#ftag=CAD590a51e)
+ - [Function Health, a health tracking tech company, raised a $298M Series B led by Redpoint Ventures at a $2.5B valuation, bringing its total funding to $350M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/251119/p61#a251119p61)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
