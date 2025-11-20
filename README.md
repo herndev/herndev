@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are we that old bro?](http://9gag.com/gag/aAyLRA0)
+ - 💣 [Another wife to the college](http://9gag.com/gag/aLnO63A)
  - ⏩ [Ask the professor](http://9gag.com/gag/a4PBKyy)
- - 👉 [She&#39;s met her match](http://9gag.com/gag/abALX0O)<!-- MEMES:END -->
+ - 👉 [What a talent......](http://9gag.com/gag/a6ZedZ8)<!-- MEMES:END -->
 
 ---
 
