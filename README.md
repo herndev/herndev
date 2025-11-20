@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where Winds Meet has the most buckwild &#39;mounts&#39; I&#39;ve ever seen: Getting chased by jaguars, standing on a goose, or just cranking a normal run animation to turbo-speed](https://www.pcgamer.com/games/mmo/where-winds-meet-has-the-most-buckwild-mounts-ive-ever-seen-getting-chased-by-jaguars-standing-on-a-goose-or-just-cranking-a-normal-run-animation-to-turbo-speed/)
- - [Amazon Turns Beats Solo 4 Into Apple’s Cheapest Headphone for Black Friday](https://kotaku.com/beats-solo-4-headphones-2000645533)
- - [Naked Homer Breaks Fortnite‘s No-Nipple Rule](https://kotaku.com/simpsons-fortnite-naked-homer-skin-leak-nipples-2000645750)<!-- GAME:END -->
+ - [Free on the Epic Games Store this week: Godzilla Voxel Wars and Zoeti](https://www.polygon.com/epic-games-store-free-games-november-20-godzilla/)
+ - [Gerard Butler gets his Silo moment in new Greenland 2 footage](https://www.polygon.com/greenland-2-migration-exclusive-clip-footage/)
+ - [Free Play Days – Nowhere Prophet, One Piece: Pirate Warriors 4, For the King II, Wildgate and more](https://news.xbox.com/en-us/2025/11/20/free-play-days-11-20-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
