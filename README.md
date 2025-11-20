@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Are we that old bro?](http://9gag.com/gag/aAyLRA0)
- - ⏩ [Marvel Father](http://9gag.com/gag/ayNmEGX)
- - 👉 [Ask the professor](http://9gag.com/gag/a4PBKyy)<!-- MEMES:END -->
+ - ⏩ [Ask the professor](http://9gag.com/gag/a4PBKyy)
+ - 👉 [She&#39;s met her match](http://9gag.com/gag/abALX0O)<!-- MEMES:END -->
 
 ---
 
