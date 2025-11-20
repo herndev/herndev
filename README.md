@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [With Marvel Rivals&#39; Gambit, NetEase is still taking inspiration from Blizzard](https://www.polygon.com/marvel-rivals-gambit-kit-overwatch-2-wuyang/)
- - [Humble Bundle&#39;s Map Making Mega Bundle is a must-have for virtual tabletop gamers](https://www.polygon.com/humble-bundle-map-making-mega-bundle/)
- - [Rumors about The Sims 4 remastered are probably bunk, but we already know EA is quietly cooking up some unified multi-platform Sims Hub](https://www.pcgamer.com/games/the-sims/rumors-about-the-sims-4-remastered-are-probably-bunk-but-we-already-know-ea-is-quietly-cooking-up-some-unified-multi-platform-sims-hub/)<!-- GAME:END -->
+ - [Expedition 33 Star Uses Award Speech To Say What Everyone’s Thinking](https://kotaku.com/expedition-33-verso-actor-ben-starr-speech-awards-layoffs-2000645930)
+ - [Golden Joystick Awards 2025 winners announced, with Clair Obscur getting GOTY](https://www.polygon.com/golden-joystick-awards-winners-2025-clair-obscur-goty/)
+ - [In October 2025, a full 205 months after the ill-fated life sim Spore first launched, someone walked into a store, found an old DVD copy on a shelf, and bought it](https://www.pcgamer.com/games/sim/in-october-2025-a-full-205-months-after-the-ill-fated-life-sim-spore-first-launched-someone-walked-into-a-store-found-an-old-dvd-copy-on-a-shelf-and-bought-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
