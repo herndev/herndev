@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bethesda’s $300 Pip-Boy 3000 replica can measure &lpar;harmless&rpar; radiation](https://www.theverge.com/news/825283/bethesda-wand-company-fallout-3-new-vegas-pip-boy-3000-replica)
- - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025)
- - [Apple&#39;s F1 streaming partner is excited about the future and benefits for fans](https://appleinsider.com/articles/25/11/20/apples-f1-streaming-partner-is-excited-about-the-future-and-benefits-for-fans?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft&amp;#8217;s AI-powered copy and paste can now use on-device AI](https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai)
+ - [Oura wants to take Samsung to court over the Galaxy Ring](https://www.androidauthority.com/oura-lawsuit-against-samsung-over-galaxy-ring-3618221/)
+ - [Meta&amp;#8217;s Hyperscape is ready to turn your real living room into a VR hangout](https://www.theverge.com/news/825705/meta-hyperscape-social-links-capture-scan-metaverse)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
