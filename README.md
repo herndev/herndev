@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell UltraSharp 32 6K Monitor review: Cross-platform productivity champion](https://appleinsider.com/articles/25/11/20/dell-ultrasharp-32-6k-monitor-review-cross-platform-productivity-champion?utm_source=rss)
- - [Nvidia CEO Dismisses Concerns of an AI Bubble. Investors Remain Skeptical](https://www.wired.com/story/nvidia-third-quarter-2026-earnings/)
- - [Palo Alto Networks reports Q1 revenue up 16% YoY to $2.47B, vs. $2.46B est., forecasts Q2 revenue in line with est., and agrees to buy Chronosphere for $3.35B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251119/p57#a251119p57)<!-- TECH:END -->
+ - [Gloo, which develops AI tools for Christian churches and counts Pat Gelsinger as executive chair, closed up 1% in its Nasdaq debut after raising $73M in its IPO &lpar;George Steer/Financial Times&rpar;](http://www.techmeme.com/251119/p60#a251119p60)
+ - [Sources: UMG, WMG, and Sony Music have licensed their works to Klay, which is building a streaming service that will let users remake songs using AI tools &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/251119/p59#a251119p59)
+ - [Trump Takes Aim at State AI Laws in Draft Executive Order](https://www.wired.com/story/trump-prepares-executive-order-challenging-state-ai-laws/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
