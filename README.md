@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S23 Ultra convinced me yearly upgrades just aren’t worth it anymore](https://www.androidauthority.com/galaxy-s23-ultra-vs-yearly-phone-upgrades-3614708/)
- - [Pick up the Samsung Galaxy Watch Ultra with $100 Black Friday savings](https://www.androidauthority.com/samsung-galaxy-watch-ultra-black-friday-deal-3617456/)
- - [Analysis: YouTube&#39;s top conservative podcasters drive a boom in host-read ads targeting right-wing audiences; nearly 91% of 876 episodes had political ads &lpar;Bloomberg&rpar;](http://www.techmeme.com/251120/p17#a251120p17)<!-- TECH:END -->
+ - [CSA&#39;s Chris LaPre gets candid about camera support in Matter 1.5](https://appleinsider.com/articles/25/11/20/csas-chris-lapre-gets-candid-about-camera-support-in-matter-15?utm_source=rss)
+ - [Major Matter 1.5 update official, finally delivering camera support &amp; more](https://appleinsider.com/articles/25/11/20/major-matter-15-update-official-finally-delivering-camera-support-more?utm_source=rss)
+ - [Google Meet update shuts the door on gatecrashers once and for all](https://www.androidauthority.com/google-meet-link-update-recurring-event-3617879/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
