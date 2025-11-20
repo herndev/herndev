@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boox Palma 2 Pro review: one step forward, one step back](https://www.theverge.com/tech/823873/boox-palma-2-pro-review)
- - [Stuut, which connects to CRM and other systems to automate management of accounts receivable, raised a $29.5M Series A led by a16z &lpar;Charlie Fink/Forbes&rpar;](http://www.techmeme.com/251120/p34#a251120p34)
- - [AI dictation startup Wispr Flow raised $25M, after raising a $30M Series A in June, taking its total funding to $81M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251120/p33#a251120p33)<!-- TECH:END -->
+ - [Gemini starts rolling out to Android Auto users globally: Here’s everything it can do](https://www.androidauthority.com/gemini-android-auto-global-rollout-features-availability-3617789/)
+ - [New Chromebooks will come with a year of Nvidia&amp;#8217;s cloud gaming &amp;#8216;fast pass&amp;#8217;](https://www.theverge.com/news/824940/chromebooks-nvidia-geforce-now-fast-pass-free-year)
+ - [Google’s Gemini is now on Android Auto](https://www.theverge.com/news/825008/googles-gemini-is-now-on-android-auto)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
