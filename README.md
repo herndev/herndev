@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley has left Miraland for a new collab, and it looks a little sus](https://www.pcgamer.com/games/action/stardew-valley-has-left-miraland-for-a-new-collab-and-it-looks-a-little-sus/)
- - [Big AI companies and the people that supply big AI companies are once again investing billions of dollars in one another: this time, Nvidia, Microsoft and Anthropic](https://www.pcgamer.com/software/ai/big-ai-companies-and-the-people-that-supply-big-ai-companies-are-once-again-investing-billions-of-dollars-in-one-another-this-time-nvidia-microsoft-and-anthropic/)
- - [How to unlock all machines in Kirby Air Riders](https://www.polygon.com/kirby-air-riders-unlock-all-machines-vehicles-legendary/)<!-- GAME:END -->
+ - [Fortnite’s About To Get Its Weirdest Crossover Ever](https://kotaku.com/fortnite-kill-bill-yukis-revenge-lost-chapter-tarantino-2000645687)
+ - [Treyarch is opening up Call of Duty: Black Ops 7&#39;s Endgame extraction shooter to everyone after realising that most people probably won&#39;t finish the campaign](https://www.pcgamer.com/games/call-of-duty/treyarch-is-opening-up-call-of-duty-black-ops-7s-endgame-extraction-shooter-to-everyone-after-realising-that-most-people-probably-wont-finish-the-campaign/)
+ - [I spent years on a journalism degree to tell you Homer&#39;s nipples have leaked in Fortnite](https://www.pcgamer.com/games/battle-royale/i-spent-years-on-a-journalism-degree-to-tell-you-homers-nipples-have-leaked-in-fortnite/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
