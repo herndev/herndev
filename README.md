@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can only see it once](http://9gag.com/gag/awy90m1)
- - ⏩ [It is wednesday my dudes](http://9gag.com/gag/agmp00W)
- - 👉 [Man only want one thing and it&#39;s disgusting.](http://9gag.com/gag/ae9q3ZO)<!-- MEMES:END -->
+ - 💣 [Ask the professor](http://9gag.com/gag/a4PBKyy)
+ - ⏩ [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
+ - 👉 [What a talent......](http://9gag.com/gag/a6ZedZ8)<!-- MEMES:END -->
 
 ---
 
