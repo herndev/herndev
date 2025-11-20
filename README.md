@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to unlock all machines in Kirby Air Riders](https://www.polygon.com/kirby-air-riders-unlock-all-machines-vehicles-legendary/)
- - [How to unlock every character in Kirby Air Riders](https://www.polygon.com/kirby-air-riders-character-list-unlock-all-colors-requirements/)
- - [12 Kirby Air Riders beginner&#39;s tips to help you get started](https://www.polygon.com/kirby-air-riders-beginners-tips-tricks-city-trial-road-trip/)<!-- GAME:END -->
+ - [Stardew Valley has left Miraland for a new collab, and it looks a little sus](https://www.pcgamer.com/games/action/stardew-valley-has-left-miraland-for-a-new-collab-and-it-looks-a-little-sus/)
+ - [Big AI companies and the people that supply big AI companies are once again investing billions of dollars in one another: this time, Nvidia, Microsoft and Anthropic](https://www.pcgamer.com/software/ai/big-ai-companies-and-the-people-that-supply-big-ai-companies-are-once-again-investing-billions-of-dollars-in-one-another-this-time-nvidia-microsoft-and-anthropic/)
+ - [How to unlock all machines in Kirby Air Riders](https://www.polygon.com/kirby-air-riders-unlock-all-machines-vehicles-legendary/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
