@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another wife to the college](http://9gag.com/gag/aLnO63A)
- - ⏩ [Ask the professor](http://9gag.com/gag/a4PBKyy)
- - 👉 [Are we that old bro?](http://9gag.com/gag/aAyLRA0)<!-- MEMES:END -->
+ - 💣 [Are we that old bro?](http://9gag.com/gag/aAyLRA0)
+ - ⏩ [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
+ - 👉 [Why bother anymore?](http://9gag.com/gag/aMV01O1)<!-- MEMES:END -->
 
 ---
 
