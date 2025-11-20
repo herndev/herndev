@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire Crawlers is a new roguelike deckbuilder from the developer of Vampire Survivors](https://www.polygon.com/vampire-crawlers-vampire-survivors-developer-deckbuilder-announcement/)
- - [Ugreen Dumps Its 65W USB-C Wall Charger With 4 Ports, Now Going for Pocket Change](https://kotaku.com/ugreen-dumps-its-65w-usb-c-wall-charger-with-4-ports-now-going-for-pocket-change-2000645791)
- - [Vampire Survivors is getting a deckbuilding dungeon crawler spin-off that looks purpose built to annihilate your free time](https://www.pcgamer.com/games/roguelike/vampire-survivors-is-getting-a-deckbuilding-dungeon-crawler-spin-off-that-looks-purpose-built-to-annihilate-your-free-time/)<!-- GAME:END -->
+ - [Monster Handgun Wrecking Everyone In Arc Raiders Has Been Put In Nerf Jail](https://kotaku.com/arc-raiders-embark-studios-1-3-0-venerator-wall-key-2000645901)
+ - [Open-World RPG Where Winds Meet Has It All: Evil Geese, AI Chatbots, And A $40,000 Skin](https://kotaku.com/where-winds-meet-game-reddit-steam-reviews-2000645900)
+ - [The Game Awards needs to add a Best Horror Game category](https://www.polygon.com/game-awards-best-horror-game-category/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
