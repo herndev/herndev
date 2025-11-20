@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey shows big batteries continue to win the battle against thin phones](https://www.androidauthority.com/smartphone-battery-vs-thin-design-survey-results-3617658/)
- - [Two years later, Google Photos may finally gain this cool iOS photo trick](https://www.androidauthority.com/google-photos-to-sticker-testing-on-android-3617732/)
- - [Tell us: What is the best phone for casual users in 2025?](https://www.androidauthority.com/best-phone-casual-users-open-thread-3617760/)<!-- TECH:END -->
+ - [Q&amp;A with former Xbox boss Peter Moore on the Xbox 360 launch, his new book Game Changer, competition with Sony, the origins of the modern console war, and more &lpar;Robert Purchese/Eurogamer.net&rpar;](http://www.techmeme.com/251120/p7#a251120p7)
+ - [Your next Google TV box might have this cool solar-powered remote](https://www.androidauthority.com/google-tv-box-solar-powered-remote-3617747/)
+ - [Amazon Black Friday Apple Watch Ultra 2 deal: Now $599 &lpar;lowest price ever&rpar;](https://appleinsider.com/articles/25/11/20/amazon-black-friday-apple-watch-ultra-2-deal-now-599-lowest-price-ever?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
