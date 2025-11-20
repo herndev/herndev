@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a talent......](http://9gag.com/gag/a6ZedZ8)
- - ⏩ [The benefit of fasting](http://9gag.com/gag/ae9q31O)
- - 👉 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)<!-- MEMES:END -->
+ - 💣 [Seriously what the hell is she even saying?](http://9gag.com/gag/avyB0PW)
+ - ⏩ [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
+ - 👉 [This world seems funny](http://9gag.com/gag/ae9q3pm)<!-- MEMES:END -->
 
 ---
 
