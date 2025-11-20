@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [LEGO Goes Big on Harry Potter With Major Deal, Hogwarts Castle Set Now Costs Pocket Change](https://kotaku.com/lego-goes-big-on-harry-potter-with-major-deal-hogwarts-castle-set-now-costs-pocket-change-2000645553)
- - [Apple Dumps 13-Inch iPad Pro M4 at New Record Low, Now More Tempting Than Pricey M5 Models](https://kotaku.com/apple-dumps-13-inch-ipad-pro-m4-at-new-record-low-now-more-tempting-than-pricey-m5-models-2000645564)
- - [Marathon cinematic director Alberto Mielgo says the 8-minute reveal video was not made with AI and frankly he can&#39;t believe he even has to say that](https://www.pcgamer.com/software/ai/marathon-cinematic-director-alberto-mielgo-says-the-8-minute-reveal-video-was-not-made-with-ai-and-frankly-he-cant-believe-he-even-has-to-say-that/)<!-- GAME:END -->
+ - [Govee Dumps Color Floor Lamps, Now Selling at New All-Time Low for Prime Members](https://kotaku.com/govee-dumps-color-floor-lamps-now-selling-at-new-all-time-low-for-prime-members-2000645559)
+ - [I became a full-time paramedic for strangers in Arc Raiders, and ended up showered with more rare loot than I could carry](https://www.pcgamer.com/games/third-person-shooter/i-became-a-full-time-paramedic-for-strangers-in-arc-raiders-and-ended-up-showered-with-more-rare-loot-than-i-could-carry/)
+ - [LG’s Ultrafine 27-Inch 4K Monitor Sells for Peanuts, Amazon Dumps Stock With Zero Margin](https://kotaku.com/lgs-ultrafine-27-inch-4k-monitor-sells-for-peanuts-amazon-dumps-stock-with-zero-margin-2000645574)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
