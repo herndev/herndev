@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Security guy, a man of integrity tried to save the player&#39;s life](http://9gag.com/gag/azxvbBm)
- - ⏩ [The `Superbowl Streaker` was a Las Vegas local who placed a bet that there would be a streaker during Super Bowl LV, he ran on the field by himself and cashed out with $374,000 and a $1000 fine](http://9gag.com/gag/ayNm7yy)
- - 👉 [Seriously what the hell is she even saying?](http://9gag.com/gag/avyB0PW)<!-- MEMES:END -->
+ - ⏩ [Why bother anymore?](http://9gag.com/gag/aMV01O1)
+ - 👉 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)<!-- MEMES:END -->
 
 ---
 
