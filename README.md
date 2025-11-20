@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&amp;#8217;s AI-powered copy and paste can now use on-device AI](https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai)
- - [Oura wants to take Samsung to court over the Galaxy Ring](https://www.androidauthority.com/oura-lawsuit-against-samsung-over-galaxy-ring-3618221/)
- - [Meta&amp;#8217;s Hyperscape is ready to turn your real living room into a VR hangout](https://www.theverge.com/news/825705/meta-hyperscape-social-links-capture-scan-metaverse)<!-- TECH:END -->
+ - [Holiday savings: Anker SOLIX C300 drops to $199.99](https://www.androidauthority.com/anker-solix-c300-power-station-deal-3618289/)
+ - [Apple AirPods Pro 3 hit new record-low price only two months after launch](https://www.androidauthority.com/apple-airpods-pro-3-deal-3618138/)
+ - [Four Indicted In Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China](https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
