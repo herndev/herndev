@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile users will no longer get free Apple TV subscriptions](https://appleinsider.com/articles/25/11/19/t-mobile-users-will-no-longer-get-free-apple-tv-subscriptions?utm_source=rss)
- - [A draft EO shows President Trump plans to grant the federal government sole power to regulate AI and create an &quot;AI Litigation Task Force&quot; overseen by the AG &lpar;Tina Nguyen/The Verge&rpar;](http://www.techmeme.com/251119/p55#a251119p55)
- - [Humain partners with Adobe and Qualcomm to develop AI tools for Arabic content, using Adobe&#39;s Firefly Foundry to build AI models and Qualcomm chips to run them &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251119/p54#a251119p54)<!-- TECH:END -->
+ - [Dell UltraSharp 32 6K Monitor review: Cross-platform productivity champion](https://appleinsider.com/articles/25/11/20/dell-ultrasharp-32-6k-monitor-review-cross-platform-productivity-champion?utm_source=rss)
+ - [Nvidia CEO Dismisses Concerns of an AI Bubble. Investors Remain Skeptical](https://www.wired.com/story/nvidia-third-quarter-2026-earnings/)
+ - [Palo Alto Networks reports Q1 revenue up 16% YoY to $2.47B, vs. $2.46B est., forecasts Q2 revenue in line with est., and agrees to buy Chronosphere for $3.35B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251119/p57#a251119p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
