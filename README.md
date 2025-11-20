@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Expedition 33 Star Uses Award Speech To Say What Everyone’s Thinking](https://kotaku.com/expedition-33-verso-actor-ben-starr-speech-awards-layoffs-2000645930)
- - [Golden Joystick Awards 2025 winners announced, with Clair Obscur getting GOTY](https://www.polygon.com/golden-joystick-awards-winners-2025-clair-obscur-goty/)
- - [In October 2025, a full 205 months after the ill-fated life sim Spore first launched, someone walked into a store, found an old DVD copy on a shelf, and bought it](https://www.pcgamer.com/games/sim/in-october-2025-a-full-205-months-after-the-ill-fated-life-sim-spore-first-launched-someone-walked-into-a-store-found-an-old-dvd-copy-on-a-shelf-and-bought-it/)<!-- GAME:END -->
+ - [Govee 200ft Outdoor Lights Pro Drops 40% on Amazon, Now Cheaper Than Budget Home Lighting](https://kotaku.com/govee-200ft-outdoor-lights-pro-drops-40-on-amazon-now-cheaper-than-budget-home-lighting-2000645934)
+ - [I switched to zero sugar energy drinks in 2025 and now tracking down Call of Duty double XP is more annoying and less tasty](https://www.pcgamer.com/games/fps/i-switched-to-zero-sugar-energy-drinks-in-2025-and-now-tracking-down-call-of-duty-double-xp-is-more-annoying-and-less-tasty/)
+ - [We Saw 12 Games During The Latest Xbox Showcase And Some Of Them Definitely Have My Attention Now](https://kotaku.com/xbox-showcase-november-2025-reanimal-trailer-free-demo-2000645835)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
