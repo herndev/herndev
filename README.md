@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday with Xbox: Our Biggest Season of Deals Returns, Including 2000+ Games on Sale](https://news.xbox.com/en-us/2025/11/20/xbox-black-friday-2025-sale-deals/)
- - [Google Is Practically Giving Away the Pixel Watch 4, Zero-Margin Black Friday Play on a 2025 Smartwatch](https://kotaku.com/google-is-practically-giving-away-the-pixel-watch-4-zero-margin-black-friday-play-on-a-2025-smartwatch-2000645603)
- - [Seagate’s External Hard Drive Drops to a New Record Low, Amazon Clears Out the 4TB Option](https://kotaku.com/seagates-external-hard-drive-drops-to-a-new-record-low-amazon-clears-out-the-4tb-option-2000645709)<!-- GAME:END -->
+ - [Where Winds Meet has the most buckwild &#39;mounts&#39; I&#39;ve ever seen: Getting chased by jaguars, standing on a goose, or just cranking a normal run animation to turbo-speed](https://www.pcgamer.com/games/mmo/where-winds-meet-has-the-most-buckwild-mounts-ive-ever-seen-getting-chased-by-jaguars-standing-on-a-goose-or-just-cranking-a-normal-run-animation-to-turbo-speed/)
+ - [Amazon Turns Beats Solo 4 Into Apple’s Cheapest Headphone for Black Friday](https://kotaku.com/beats-solo-4-headphones-2000645533)
+ - [Naked Homer Breaks Fortnite‘s No-Nipple Rule](https://kotaku.com/simpsons-fortnite-naked-homer-skin-leak-nipples-2000645750)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
