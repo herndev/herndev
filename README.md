@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M4 Mac mini plunges to $479 as Amazon issues Black Friday price drops](https://appleinsider.com/articles/25/11/20/apples-m4-mac-mini-plunges-to-479-as-amazon-issues-black-friday-price-drops?utm_source=rss)
- - [Google made Quick Share compatible with AirDrop without Apple’s help](https://www.androidauthority.com/quick-share-airdrop-compatible-without-apple-3618067/)
- - [Allen Institute for AI, or Ai2, unveils Olmo 3 models that it says outperform open models like Stanford&#39;s Marin and commercial open-weight models like Llama 3.1 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251120/p43#a251120p43)<!-- TECH:END -->
+ - [Android Quick Share on Pixel 10 can AirDrop to iPhones](https://appleinsider.com/articles/25/11/20/android-quick-share-on-pixel-10-can-airdrop-to-iphones?utm_source=rss)
+ - [Subaru’s bringing Android Automotive and a Snapdragon chip to the 2026 Outback](https://www.androidauthority.com/subaru-android-automotive-3618089/)
+ - [OpenAI says GPT-5 has demonstrated the ability to accelerate scientific research workflows but can&#39;t run projects or solve scientific problems autonomously &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/251120/p45#a251120p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
