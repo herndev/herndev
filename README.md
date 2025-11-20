@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best Google Doodle ever!](http://9gag.com/gag/aW4eZyq)
+ - 💣 [You can only see it once](http://9gag.com/gag/awy90m1)
  - ⏩ [It is wednesday my dudes](http://9gag.com/gag/agmp00W)
- - 👉 [You can only see it once](http://9gag.com/gag/awy90m1)<!-- MEMES:END -->
+ - 👉 [Man only want one thing and it&#39;s disgusting.](http://9gag.com/gag/ae9q3ZO)<!-- MEMES:END -->
 
 ---
 
