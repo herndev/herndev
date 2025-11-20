@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After Downdetector itself went down, someone made a Downdetector Downdetector, and then someone made a Downdetector Downdetector Downdetector, and then…](https://www.pcgamer.com/software/platforms/after-downdetector-itself-went-down-someone-made-a-downdetector-downdetector-and-then-someone-made-a-downdetector-downdetector-downdetector-and-then/)
- - [Black Ops 7′s Best Part Won’t Be Locked Behind Its Worst Part For Much Longer](https://kotaku.com/black-ops-7s-best-part-wont-be-locked-behind-its-worst-part-for-much-longer-2000645605)
- - [Do you recognize what game titles these letters are from? Let&#39;s get alphabetical in our latest quiz!](https://www.pcgamer.com/games/do-you-recognize-what-game-titles-these-letters-are-from-lets-get-alphabetical-in-our-latest-quiz/)<!-- GAME:END -->
+ - [LEGO Goes Big on Harry Potter With Major Deal, Hogwarts Castle Set Now Costs Pocket Change](https://kotaku.com/lego-goes-big-on-harry-potter-with-major-deal-hogwarts-castle-set-now-costs-pocket-change-2000645553)
+ - [Apple Dumps 13-Inch iPad Pro M4 at New Record Low, Now More Tempting Than Pricey M5 Models](https://kotaku.com/apple-dumps-13-inch-ipad-pro-m4-at-new-record-low-now-more-tempting-than-pricey-m5-models-2000645564)
+ - [Marathon cinematic director Alberto Mielgo says the 8-minute reveal video was not made with AI and frankly he can&#39;t believe he even has to say that](https://www.pcgamer.com/software/ai/marathon-cinematic-director-alberto-mielgo-says-the-8-minute-reveal-video-was-not-made-with-ai-and-frankly-he-cant-believe-he-even-has-to-say-that/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
