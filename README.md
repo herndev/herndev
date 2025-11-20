@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with former Xbox boss Peter Moore on the Xbox 360 launch, his new book Game Changer, competition with Sony, the origins of the modern console war, and more &lpar;Robert Purchese/Eurogamer.net&rpar;](http://www.techmeme.com/251120/p7#a251120p7)
- - [Your next Google TV box might have this cool solar-powered remote](https://www.androidauthority.com/google-tv-box-solar-powered-remote-3617747/)
- - [Amazon Black Friday Apple Watch Ultra 2 deal: Now $599 &lpar;lowest price ever&rpar;](https://appleinsider.com/articles/25/11/20/amazon-black-friday-apple-watch-ultra-2-deal-now-599-lowest-price-ever?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Chinese investment firm Capital Today bought ByteDance shares at a $480B valuation after a bidding war; ByteDance had a $330B valuation in September &lpar;Dong Cao/Bloomberg&rpar;](http://www.techmeme.com/251120/p11#a251120p11)
+ - [Sources: Salesforce&#39;s Slack tells customers in China, Hong Kong, Macau, and Taiwan that they must migrate their accounts to partner Alibaba before February &lpar;The Information&rpar;](http://www.techmeme.com/251120/p10#a251120p10)
+ - [Rare Black Friday offer: Sonos Ace headphones drop to just $279](https://www.androidauthority.com/black-friday-offer-sonos-ace-headphones-deal-3617341/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
