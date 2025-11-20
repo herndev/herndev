@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Handgun Wrecking Everyone In Arc Raiders Has Been Put In Nerf Jail](https://kotaku.com/arc-raiders-embark-studios-1-3-0-venerator-wall-key-2000645901)
- - [Open-World RPG Where Winds Meet Has It All: Evil Geese, AI Chatbots, And A $40,000 Skin](https://kotaku.com/where-winds-meet-game-reddit-steam-reviews-2000645900)
- - [The Game Awards needs to add a Best Horror Game category](https://www.polygon.com/game-awards-best-horror-game-category/)<!-- GAME:END -->
+ - [With Marvel Rivals&#39; Gambit, NetEase is still taking inspiration from Blizzard](https://www.polygon.com/marvel-rivals-gambit-kit-overwatch-2-wuyang/)
+ - [Humble Bundle&#39;s Map Making Mega Bundle is a must-have for virtual tabletop gamers](https://www.polygon.com/humble-bundle-map-making-mega-bundle/)
+ - [Rumors about The Sims 4 remastered are probably bunk, but we already know EA is quietly cooking up some unified multi-platform Sims Hub](https://www.pcgamer.com/games/the-sims/rumors-about-the-sims-4-remastered-are-probably-bunk-but-we-already-know-ea-is-quietly-cooking-up-some-unified-multi-platform-sims-hub/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
