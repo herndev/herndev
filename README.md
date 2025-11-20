@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This cheap Android gaming handheld is my new favorite PSP replacement](https://www.androidauthority.com/mangmi-air-x-review-3606910/)
- - [Brendan Carr’s FCC launches probe into BBC’s Trump edit](https://www.theverge.com/news/824913/bbc-pbs-npr-probe-trump-speech-news-distortion-fcc-brendan-carr)
- - [Verizon is laying off over 13,000 workers](https://www.theverge.com/news/824970/verizon-layoffs-13-percent-employees)<!-- TECH:END -->
+ - [Google&amp;#8217;s Nano Banana AI image model goes Pro and is free to try](https://www.theverge.com/news/824785/google-nano-banana-pro-try-free-examples-prices)
+ - [Eufy’s E28 robot vacuum is a favorite of ours, and it just got a massive Black Friday price cut](https://www.androidauthority.com/eufy-e28-robot-vacuum-black-friday-deal-3617538/)
+ - [Sunday Robotics unveils Memo, a fully autonomous home robot capable of tasks like making espresso and loading dishwashers, set to launch in beta in 2026 &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251120/p30#a251120p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
