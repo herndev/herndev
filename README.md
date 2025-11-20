@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [40% Off Chewy Promo Code | November 2025](https://www.wired.com/story/chewy-promo-code/)
- - [China&#39;s transport, logistics, and ride-hailing sectors are accelerating the mass adoption of autonomous vehicles, threatening the jobs of millions of drivers &lpar;Edward White/Financial Times&rpar;](http://www.techmeme.com/251120/p6#a251120p6)
- - [How the AI Act became a case study for critics who say the EU puts regulation ahead of innovation, as the European Commission postpones a key part of the law &lpar;Financial Times&rpar;](http://www.techmeme.com/251120/p5#a251120p5)<!-- TECH:END -->
+ - [Survey shows big batteries continue to win the battle against thin phones](https://www.androidauthority.com/smartphone-battery-vs-thin-design-survey-results-3617658/)
+ - [Two years later, Google Photos may finally gain this cool iOS photo trick](https://www.androidauthority.com/google-photos-to-sticker-testing-on-android-3617732/)
+ - [Tell us: What is the best phone for casual users in 2025?](https://www.androidauthority.com/best-phone-casual-users-open-thread-3617760/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
