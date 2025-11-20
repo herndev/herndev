@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another wife to the college](http://9gag.com/gag/aLnO63A)
+ - 💣 [What a talent......](http://9gag.com/gag/a6ZedZ8)
  - ⏩ [Ask the professor](http://9gag.com/gag/a4PBKyy)
- - 👉 [What a talent......](http://9gag.com/gag/a6ZedZ8)<!-- MEMES:END -->
+ - 👉 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)<!-- MEMES:END -->
 
 ---
 
