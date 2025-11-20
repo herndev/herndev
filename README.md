@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gloo, which develops AI tools for Christian churches and counts Pat Gelsinger as executive chair, closed up 1% in its Nasdaq debut after raising $73M in its IPO &lpar;George Steer/Financial Times&rpar;](http://www.techmeme.com/251119/p60#a251119p60)
- - [Sources: UMG, WMG, and Sony Music have licensed their works to Klay, which is building a streaming service that will let users remake songs using AI tools &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/251119/p59#a251119p59)
- - [Trump Takes Aim at State AI Laws in Draft Executive Order](https://www.wired.com/story/trump-prepares-executive-order-challenging-state-ai-laws/)<!-- TECH:END -->
+ - [Function Health, a health tracking tech company, raised a $298M Series B led by Redpoint Ventures at a $2.5B valuation, bringing its total funding to $350M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/251119/p61#a251119p61)
+ - [This new USB stick promises to end your smart home chaos for just $49](https://www.androidauthority.com/home-assistant-connect-zbt-2-3617640/)
+ - [Australia vs. England Livestream: How to Watch 1st Test Ashes Cricket From Anywhere for Free](https://www.cnet.com/tech/services-and-software/australia-vs-england-livestream-how-to-watch-1st-test-ashes-cricket-from-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
