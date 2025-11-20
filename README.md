@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini starts rolling out to Android Auto users globally: Here’s everything it can do](https://www.androidauthority.com/gemini-android-auto-global-rollout-features-availability-3617789/)
- - [New Chromebooks will come with a year of Nvidia&amp;#8217;s cloud gaming &amp;#8216;fast pass&amp;#8217;](https://www.theverge.com/news/824940/chromebooks-nvidia-geforce-now-fast-pass-free-year)
- - [Google’s Gemini is now on Android Auto](https://www.theverge.com/news/825008/googles-gemini-is-now-on-android-auto)<!-- TECH:END -->
+ - [Apple&#39;s M4 Mac mini plunges to $479 as Amazon issues Black Friday price drops](https://appleinsider.com/articles/25/11/20/apples-m4-mac-mini-plunges-to-479-as-amazon-issues-black-friday-price-drops?utm_source=rss)
+ - [Google made Quick Share compatible with AirDrop without Apple’s help](https://www.androidauthority.com/quick-share-airdrop-compatible-without-apple-3618067/)
+ - [Allen Institute for AI, or Ai2, unveils Olmo 3 models that it says outperform open models like Stanford&#39;s Marin and commercial open-weight models like Llama 3.1 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251120/p43#a251120p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
