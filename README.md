@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite’s About To Get Its Weirdest Crossover Ever](https://kotaku.com/fortnite-kill-bill-yukis-revenge-lost-chapter-tarantino-2000645687)
- - [Treyarch is opening up Call of Duty: Black Ops 7&#39;s Endgame extraction shooter to everyone after realising that most people probably won&#39;t finish the campaign](https://www.pcgamer.com/games/call-of-duty/treyarch-is-opening-up-call-of-duty-black-ops-7s-endgame-extraction-shooter-to-everyone-after-realising-that-most-people-probably-wont-finish-the-campaign/)
- - [I spent years on a journalism degree to tell you Homer&#39;s nipples have leaked in Fortnite](https://www.pcgamer.com/games/battle-royale/i-spent-years-on-a-journalism-degree-to-tell-you-homers-nipples-have-leaked-in-fortnite/)<!-- GAME:END -->
+ - [Black Friday with Xbox: Our Biggest Season of Deals Returns, Including 2000+ Games on Sale](https://news.xbox.com/en-us/2025/11/20/xbox-black-friday-2025-sale-deals/)
+ - [Google Is Practically Giving Away the Pixel Watch 4, Zero-Margin Black Friday Play on a 2025 Smartwatch](https://kotaku.com/google-is-practically-giving-away-the-pixel-watch-4-zero-margin-black-friday-play-on-a-2025-smartwatch-2000645603)
+ - [Seagate’s External Hard Drive Drops to a New Record Low, Amazon Clears Out the 4TB Option](https://kotaku.com/seagates-external-hard-drive-drops-to-a-new-record-low-amazon-clears-out-the-4tb-option-2000645709)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
