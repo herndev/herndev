@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can get up to 30 percent off Sonos speakers and soundbars right now](https://www.theverge.com/tech/823523/sonos-black-friday-deals-soundbar-speaker-sale-2025)
- - [Motorola might already sell a phone in Pantone’s 2026 Color of the Year](https://www.androidauthority.com/motorola-pantone-2026-color-3618158/)
- - [OpenAI is launching group chats in ChatGPT](https://www.theverge.com/news/825544/openai-chatgpt-group-chats-launch)<!-- TECH:END -->
+ - [Bethesda’s $300 Pip-Boy 3000 replica can measure &lpar;harmless&rpar; radiation](https://www.theverge.com/news/825283/bethesda-wand-company-fallout-3-new-vegas-pip-boy-3000-replica)
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025)
+ - [Apple&#39;s F1 streaming partner is excited about the future and benefits for fans](https://appleinsider.com/articles/25/11/20/apples-f1-streaming-partner-is-excited-about-the-future-and-benefits-for-fans?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
