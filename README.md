@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 sales are so good, they might threaten Call of Duty](https://www.polygon.com/battlefield-6-october-sales-2025-year-records-black-ops-7-steam-reviews/)
- - [Crucial P510 SSD With Heatsink Deal Makes Storage Cost Pennies, PC and PS5 Upgrades Feel Basically Free](https://kotaku.com/unlock-crazy-fast-load-times-on-your-gaming-pc-or-upgrade-your-ps5-storage-by-2tb-with-this-crucial-internal-ssd-for-60-off-2000645621)
- - [Kirby Air Riders Players Wasted No Time Creating Unhinged Vehicles](https://kotaku.com/kirby-air-riders-custom-vehicle-designs-market-best-2000645836)<!-- GAME:END -->
+ - [Vampire Crawlers is a new roguelike deckbuilder from the developer of Vampire Survivors](https://www.polygon.com/vampire-crawlers-vampire-survivors-developer-deckbuilder-announcement/)
+ - [Ugreen Dumps Its 65W USB-C Wall Charger With 4 Ports, Now Going for Pocket Change](https://kotaku.com/ugreen-dumps-its-65w-usb-c-wall-charger-with-4-ports-now-going-for-pocket-change-2000645791)
+ - [Vampire Survivors is getting a deckbuilding dungeon crawler spin-off that looks purpose built to annihilate your free time](https://www.pcgamer.com/games/roguelike/vampire-survivors-is-getting-a-deckbuilding-dungeon-crawler-spin-off-that-looks-purpose-built-to-annihilate-your-free-time/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
