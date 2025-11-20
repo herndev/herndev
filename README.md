@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
- - ⏩ [This world seems funny](http://9gag.com/gag/ae9q3pm)
- - 👉 [What a talent......](http://9gag.com/gag/a6ZedZ8)<!-- MEMES:END -->
+ - 💣 [It is wednesday my dudes](http://9gag.com/gag/agmp00W)
+ - ⏩ [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)
+ - 👉 [You can only see it once](http://9gag.com/gag/awy90m1)<!-- MEMES:END -->
 
 ---
 
