@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Quick Share on Pixel 10 can AirDrop to iPhones](https://appleinsider.com/articles/25/11/20/android-quick-share-on-pixel-10-can-airdrop-to-iphones?utm_source=rss)
- - [Subaru’s bringing Android Automotive and a Snapdragon chip to the 2026 Outback](https://www.androidauthority.com/subaru-android-automotive-3618089/)
- - [OpenAI says GPT-5 has demonstrated the ability to accelerate scientific research workflows but can&#39;t run projects or solve scientific problems autonomously &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/251120/p45#a251120p45)<!-- TECH:END -->
+ - [You can get up to 30 percent off Sonos speakers and soundbars right now](https://www.theverge.com/tech/823523/sonos-black-friday-deals-soundbar-speaker-sale-2025)
+ - [Motorola might already sell a phone in Pantone’s 2026 Color of the Year](https://www.androidauthority.com/motorola-pantone-2026-color-3618158/)
+ - [OpenAI is launching group chats in ChatGPT](https://www.theverge.com/news/825544/openai-chatgpt-group-chats-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
