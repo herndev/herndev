@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are we that old bro?](http://9gag.com/gag/aAyLRA0)
+ - 💣 [Ask the professor](http://9gag.com/gag/a4PBKyy)
  - ⏩ [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
- - 👉 [Why bother anymore?](http://9gag.com/gag/aMV01O1)<!-- MEMES:END -->
+ - 👉 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)<!-- MEMES:END -->
 
 ---
 
