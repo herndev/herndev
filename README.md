@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix signs a three year deal to stream MLB live events and games](https://www.theverge.com/news/824513/mlb-netflix-nbc-peacock-espn)
- - [Sources: the US Commerce Department plans to approve the sale of up to 35K of Nvidia&#39;s GB300 servers or their equivalents to G42 and Humain each &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251119/p53#a251119p53)
- - [Yeti Vs Host Modern: Which Insulated Serving Dishes Are the Best?](https://www.wired.com/story/the-best-insulated-serving-dishes-for-your-next-dinner-party/)<!-- TECH:END -->
+ - [T-Mobile users will no longer get free Apple TV subscriptions](https://appleinsider.com/articles/25/11/19/t-mobile-users-will-no-longer-get-free-apple-tv-subscriptions?utm_source=rss)
+ - [A draft EO shows President Trump plans to grant the federal government sole power to regulate AI and create an &quot;AI Litigation Task Force&quot; overseen by the AG &lpar;Tina Nguyen/The Verge&rpar;](http://www.techmeme.com/251119/p55#a251119p55)
+ - [Humain partners with Adobe and Qualcomm to develop AI tools for Arabic content, using Adobe&#39;s Firefly Foundry to build AI models and Qualcomm chips to run them &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251119/p54#a251119p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
