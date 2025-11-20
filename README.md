@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&amp;#8217;s Nano Banana AI image model goes Pro and is free to try](https://www.theverge.com/news/824785/google-nano-banana-pro-try-free-examples-prices)
- - [Eufy’s E28 robot vacuum is a favorite of ours, and it just got a massive Black Friday price cut](https://www.androidauthority.com/eufy-e28-robot-vacuum-black-friday-deal-3617538/)
- - [Sunday Robotics unveils Memo, a fully autonomous home robot capable of tasks like making espresso and loading dishwashers, set to launch in beta in 2026 &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251120/p30#a251120p30)<!-- TECH:END -->
+ - [Boox Palma 2 Pro review: one step forward, one step back](https://www.theverge.com/tech/823873/boox-palma-2-pro-review)
+ - [Stuut, which connects to CRM and other systems to automate management of accounts receivable, raised a $29.5M Series A led by a16z &lpar;Charlie Fink/Forbes&rpar;](http://www.techmeme.com/251120/p34#a251120p34)
+ - [AI dictation startup Wispr Flow raised $25M, after raising a $30M Series A in June, taking its total funding to $81M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251120/p33#a251120p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
