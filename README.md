@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NordVPN Coupons and Deals: 77% Off in November 2025](https://www.wired.com/story/nordvpn-coupon/)
- - [Filing: Nvidia says it plans to rent $26B worth of servers over the next six years, doubling the cloud spending commitments it disclosed three months ago &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/251120/p2#a251120p2)
- - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in November](https://www.wired.com/story/att-promo-code/)<!-- TECH:END -->
+ - [40% Off Chewy Promo Code | November 2025](https://www.wired.com/story/chewy-promo-code/)
+ - [China&#39;s transport, logistics, and ride-hailing sectors are accelerating the mass adoption of autonomous vehicles, threatening the jobs of millions of drivers &lpar;Edward White/Financial Times&rpar;](http://www.techmeme.com/251120/p6#a251120p6)
+ - [How the AI Act became a case study for critics who say the EU puts regulation ahead of innovation, as the European Commission postpones a key part of the law &lpar;Financial Times&rpar;](http://www.techmeme.com/251120/p5#a251120p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
