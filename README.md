@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ask the professor](http://9gag.com/gag/a4PBKyy)
- - ⏩ [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
- - 👉 [What a talent......](http://9gag.com/gag/a6ZedZ8)<!-- MEMES:END -->
+ - 💣 [What a talent......](http://9gag.com/gag/a6ZedZ8)
+ - ⏩ [The benefit of fasting](http://9gag.com/gag/ae9q31O)
+ - 👉 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)<!-- MEMES:END -->
 
 ---
 
