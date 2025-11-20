@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free on the Epic Games Store this week: Godzilla Voxel Wars and Zoeti](https://www.polygon.com/epic-games-store-free-games-november-20-godzilla/)
- - [Gerard Butler gets his Silo moment in new Greenland 2 footage](https://www.polygon.com/greenland-2-migration-exclusive-clip-footage/)
- - [Free Play Days – Nowhere Prophet, One Piece: Pirate Warriors 4, For the King II, Wildgate and more](https://news.xbox.com/en-us/2025/11/20/free-play-days-11-20-2025/)<!-- GAME:END -->
+ - [Battlefield 6 sales are so good, they might threaten Call of Duty](https://www.polygon.com/battlefield-6-october-sales-2025-year-records-black-ops-7-steam-reviews/)
+ - [Crucial P510 SSD With Heatsink Deal Makes Storage Cost Pennies, PC and PS5 Upgrades Feel Basically Free](https://kotaku.com/unlock-crazy-fast-load-times-on-your-gaming-pc-or-upgrade-your-ps5-storage-by-2tb-with-this-crucial-internal-ssd-for-60-off-2000645621)
+ - [Kirby Air Riders Players Wasted No Time Creating Unhinged Vehicles](https://kotaku.com/kirby-air-riders-custom-vehicle-designs-market-best-2000645836)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
