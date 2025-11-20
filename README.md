@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese investment firm Capital Today bought ByteDance shares at a $480B valuation after a bidding war; ByteDance had a $330B valuation in September &lpar;Dong Cao/Bloomberg&rpar;](http://www.techmeme.com/251120/p11#a251120p11)
- - [Sources: Salesforce&#39;s Slack tells customers in China, Hong Kong, Macau, and Taiwan that they must migrate their accounts to partner Alibaba before February &lpar;The Information&rpar;](http://www.techmeme.com/251120/p10#a251120p10)
- - [Rare Black Friday offer: Sonos Ace headphones drop to just $279](https://www.androidauthority.com/black-friday-offer-sonos-ace-headphones-deal-3617341/)<!-- TECH:END -->
+ - [The Galaxy S23 Ultra convinced me yearly upgrades just aren’t worth it anymore](https://www.androidauthority.com/galaxy-s23-ultra-vs-yearly-phone-upgrades-3614708/)
+ - [Pick up the Samsung Galaxy Watch Ultra with $100 Black Friday savings](https://www.androidauthority.com/samsung-galaxy-watch-ultra-black-friday-deal-3617456/)
+ - [Analysis: YouTube&#39;s top conservative podcasters drive a boom in host-read ads targeting right-wing audiences; nearly 91% of 876 episodes had political ads &lpar;Bloomberg&rpar;](http://www.techmeme.com/251120/p17#a251120p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
