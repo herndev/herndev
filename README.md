@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CSA&#39;s Chris LaPre gets candid about camera support in Matter 1.5](https://appleinsider.com/articles/25/11/20/csas-chris-lapre-gets-candid-about-camera-support-in-matter-15?utm_source=rss)
- - [Major Matter 1.5 update official, finally delivering camera support &amp; more](https://appleinsider.com/articles/25/11/20/major-matter-15-update-official-finally-delivering-camera-support-more?utm_source=rss)
- - [Google Meet update shuts the door on gatecrashers once and for all](https://www.androidauthority.com/google-meet-link-update-recurring-event-3617879/)<!-- TECH:END -->
+ - [This cheap Android gaming handheld is my new favorite PSP replacement](https://www.androidauthority.com/mangmi-air-x-review-3606910/)
+ - [Brendan Carr’s FCC launches probe into BBC’s Trump edit](https://www.theverge.com/news/824913/bbc-pbs-npr-probe-trump-speech-news-distortion-fcc-brendan-carr)
+ - [Verizon is laying off over 13,000 workers](https://www.theverge.com/news/824970/verizon-layoffs-13-percent-employees)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
