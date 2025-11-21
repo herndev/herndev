@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Budget Noise-Canceling Headphones Under $100 for 2025](https://www.cnet.com/tech/mobile/best-budget-noise-canceling-headphones-under-100/#ftag=CAD590a51e)
- - [Apple AirPods 4 fall to record low $79.99 during Amazon&#39;s Black Friday sale](https://appleinsider.com/articles/25/11/20/apple-airpods-4-fall-to-record-low-7999-during-amazons-black-friday-sale?utm_source=rss)
- - [Holiday savings: Anker SOLIX C300 drops to $199.99](https://www.androidauthority.com/anker-solix-c300-power-station-deal-3618289/)<!-- TECH:END -->
+ - [Skip the giant TV, these Roku TV projectors are on sale for Black Friday](https://www.androidauthority.com/aurzen-roku-tv-projectors-black-friday-3618315/)
+ - [OpenAI partners with Foxconn to design and develop data center server racks to be manufactured in the US; Foxconn will produce cabling, power systems, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251120/p53#a251120p53)
+ - [Grok&#39;s chatbot on X says Elon Musk is superior at almost anything, including drinking urine; Musk says Grok was &quot;manipulated by adversarial prompting&quot; &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/251120/p52#a251120p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
