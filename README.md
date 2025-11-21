@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
- - ⏩ [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
- - 👉 [This guy got arrested](http://9gag.com/gag/aNDGeoG)<!-- MEMES:END -->
+ - 💣 [This world seems funny](http://9gag.com/gag/ae9q3pm)
+ - ⏩ [This is too accurate](http://9gag.com/gag/aqyVZWj)
+ - 👉 [What a talent......](http://9gag.com/gag/a6ZedZ8)<!-- MEMES:END -->
 
 ---
 
