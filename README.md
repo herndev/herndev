@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dust off that GoldenEye cart: Analogue 3D orders are returning soon](https://www.androidauthority.com/analogue-3d-orders-3618758/)
- - [Activists Are Using &#39;Fortnite&#39; to Fight Back Against ICE](https://www.wired.com/story/activists-are-using-fortnite-to-fight-back-against-ice/)
- - [Skip the Lines and Shop These 85+ Early Black Friday Deals From Apple, Sony, Samsung and More](https://www.cnet.com/deals/early-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Judge wants to fix Google’s ad tech monopoly before it’s too late](https://www.theverge.com/news/826796/google-ad-tech-closing-arguments)
+ - [Anthropic finds that LLMs trained to &quot;reward hack&quot; by cheating on coding tasks show even more misaligned behavior, including sabotaging AI-safety research &lpar;Anthropic&rpar;](http://www.techmeme.com/251121/p28#a251121p28)
+ - [T-Mobile Tuesdays may drop its coziest freebie yet](https://www.androidauthority.com/t-mobile-tuesday-blanket-freebie-3618772/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
