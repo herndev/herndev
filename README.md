@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI nutrition tracking stinks](https://www.theverge.com/column/825219/optimizer-ai-nutrition-tracking-wellness)
- - [Google&#39;s new &#39;Wicked&#39;-inspired ad takes another swing at the iPhone](https://appleinsider.com/articles/25/11/21/googles-new-wicked-inspired-ad-takes-another-swing-at-the-iphone?utm_source=rss)
- - [Best early Black Friday Mac mini deals deliver up to $1,145 off](https://appleinsider.com/articles/25/11/19/best-early-black-friday-mac-mini-deals-deliver-up-to-1145-off?utm_source=rss)<!-- TECH:END -->
+ - [Sorcero, which makes AI agents for pharmaceutical companies to market new medications, raised a $42.5M Series B, bringing its total funding to $59M &lpar;Katherine Davis/Axios&rpar;](http://www.techmeme.com/251121/p16#a251121p16)
+ - [Black Friday 2025: The best early deals on phones, wearables, and a lot more](https://www.androidauthority.com/best-deals-black-friday-2025-3616230/)
+ - [Apple&#39;s M4 Mac mini with 24GB RAM, 512GB SSD drops to $869 today](https://appleinsider.com/articles/25/11/21/apples-m4-mac-mini-with-24gb-ram-512gb-ssd-drops-to-869-today?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
