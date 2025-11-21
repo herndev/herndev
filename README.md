@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I signed up for Trump Mobile two weeks ago and I still don’t have my SIM](https://www.theverge.com/tech/825190/trump-mobile-service-customer-care-sim)
- - [Q&amp;A with Roblox co-founder and CEO David Baszucki on using face scans to verify age, having a chat function on Roblox, AI content moderation at scale, and more &lpar;New York Times&rpar;](http://www.techmeme.com/251121/p13#a251121p13)
- - [Best AI video upscaling app: Enhance video quality to 4K on Mac](https://appleinsider.com/articles/25/11/21/best-ai-video-upscaling-app-enhance-video-quality-to-4k-on-mac?utm_source=rss)<!-- TECH:END -->
+ - [AI nutrition tracking stinks](https://www.theverge.com/column/825219/optimizer-ai-nutrition-tracking-wellness)
+ - [Google&#39;s new &#39;Wicked&#39;-inspired ad takes another swing at the iPhone](https://appleinsider.com/articles/25/11/21/googles-new-wicked-inspired-ad-takes-another-swing-at-the-iphone?utm_source=rss)
+ - [Best early Black Friday Mac mini deals deliver up to $1,145 off](https://appleinsider.com/articles/25/11/19/best-early-black-friday-mac-mini-deals-deliver-up-to-1145-off?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
