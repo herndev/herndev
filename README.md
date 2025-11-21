@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Husbands be like](http://9gag.com/gag/apRnB2B)
- - ⏩ [This world seems funny](http://9gag.com/gag/ae9q3pm)
- - 👉 [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)<!-- MEMES:END -->
+ - 💣 [Grandad had it easy, we&#39;re just trying to survive](http://9gag.com/gag/aYQvwnv)
+ - ⏩ [Damn boys](http://9gag.com/gag/aD2q3Yx)
+ - 👉 [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)<!-- MEMES:END -->
 
 ---
 
