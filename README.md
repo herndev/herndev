@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Pixel 10 Pro Goes Cheaper Than Last Year’s 9 Pro, Amazon Crushes Google on Black Friday Deals](https://kotaku.com/new-pixel-10-pro-goes-cheaper-than-last-years-9-pro-amazon-crushes-google-on-black-friday-deals-2000646123)
- - [Predator: Badlands&#39; original ending was much shorter and simpler](https://www.polygon.com/predator-badlands-original-ending-behind-the-scenes-interview/)
- - [Nioh 3 hands-on report](https://blog.playstation.com/2025/11/21/nioh-3-hands-on-report/)<!-- GAME:END -->
+ - [Ex-Witcher 3 devs re-reveal shooter after first announcement flops](https://www.polygon.com/war-mechanic-re-reveal-chronospace-fps-crafting-sim-survival-exploration/)
+ - [Football Manager 26 Console: 7 Tips For New and Returning Players](https://news.xbox.com/en-us/2025/11/21/football-manager-26-console-tips-guide/)
+ - [A gang war has erupted in Arc Raiders, and a victor is already emerging as Ninja joins the Bungulators: &#39;I am not declaring war or picking sides against somebody whose AFK stream gets more viewers than me&#39;](https://www.pcgamer.com/games/third-person-shooter/a-gang-war-has-erupted-in-arc-raiders-and-a-victor-is-already-emerging-as-ninja-joins-the-bungulators-i-am-not-declaring-war-or-picking-sides-against-somebody-whose-afk-stream-gets-more-viewers-than-me/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
