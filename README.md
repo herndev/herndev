@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeon Master University offers immersive training with industry pros](https://www.polygon.com/dungeon-master-university-keith-baker-monte-cook/)
- - [Gearbox finally fixes Borderlands 4&#39;s infuriating class mod drops and snore-inducing Wildcards—oh, and its first DLC is now free](https://www.pcgamer.com/games/fps/gearbox-finally-fixes-borderlands-4s-infuriating-class-mod-drops-and-snore-inducing-wildcards-oh-and-its-first-dlc-is-now-free/)
- - [Grok AI temporarily so sycophantic it claims Elon Musk is the best at drinking pee, and other things I&#39;m not going to put in a headline, you can&#39;t make me](https://www.pcgamer.com/software/ai/grok-ai-temporarily-so-sycophantic-it-claims-elon-musk-is-the-best-at-drinking-pee-and-other-things-im-not-going-to-put-in-a-headline-you-cant-make-me/)<!-- GAME:END -->
+ - [New Pixel 10 Pro Goes Cheaper Than Last Year’s 9 Pro, Amazon Crushes Google on Black Friday Deals](https://kotaku.com/new-pixel-10-pro-goes-cheaper-than-last-years-9-pro-amazon-crushes-google-on-black-friday-deals-2000646123)
+ - [Predator: Badlands&#39; original ending was much shorter and simpler](https://www.polygon.com/predator-badlands-original-ending-behind-the-scenes-interview/)
+ - [Nioh 3 hands-on report](https://blog.playstation.com/2025/11/21/nioh-3-hands-on-report/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
