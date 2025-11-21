@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit’s next feature could help you conquer pre-doctor visit anxiety &lpar;Updated: Announced&rpar;](https://www.androidauthority.com/google-fitbit-plan-for-care-apk-teardown-3617858/)
- - [Google’s Nano Banana Pro generates excellent conspiracy fuel](https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel)
- - [Nothing plans to become the second Android brand to challenge Apple’s AirDrop advantage](https://www.androidauthority.com/nothing-phone-apple-airdrop-support-3618446/)<!-- TECH:END -->
+ - [Inside Files - How to manage files like a pro on iPhone, iPad, and Apple Vision Pro](https://appleinsider.com/inside/ipados-26/tips/inside-files---how-to-manage-files-like-a-pro-on-iphone-ipad-and-apple-vision-pro?utm_source=rss)
+ - [Apple’s Most Overlooked App Just Got a Lot Better](https://www.wired.com/story/apple-shortcuts-just-got-a-lot-better/)
+ - [Hot deal: Score 40% savings on the Fitbit Versa 4 in the Black Friday sale](https://www.androidauthority.com/fitbit-versa-4-black-friday-deal-3618291/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
