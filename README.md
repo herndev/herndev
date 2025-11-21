@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Holiday savings: Anker SOLIX C300 drops to $199.99](https://www.androidauthority.com/anker-solix-c300-power-station-deal-3618289/)
- - [Apple AirPods Pro 3 hit new record-low price only two months after launch](https://www.androidauthority.com/apple-airpods-pro-3-deal-3618138/)
- - [Four Indicted In Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China](https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/)<!-- TECH:END -->
+ - [Best Budget Noise-Canceling Headphones Under $100 for 2025](https://www.cnet.com/tech/mobile/best-budget-noise-canceling-headphones-under-100/#ftag=CAD590a51e)
+ - [Apple AirPods 4 fall to record low $79.99 during Amazon&#39;s Black Friday sale](https://appleinsider.com/articles/25/11/20/apple-airpods-4-fall-to-record-low-7999-during-amazons-black-friday-sale?utm_source=rss)
+ - [Holiday savings: Anker SOLIX C300 drops to $199.99](https://www.androidauthority.com/anker-solix-c300-power-station-deal-3618289/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
