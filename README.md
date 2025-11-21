@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Grandad had it easy, we&#39;re just trying to survive](http://9gag.com/gag/aYQvwnv)
- - ⏩ [Damn boys](http://9gag.com/gag/aD2q3Yx)
- - 👉 [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)<!-- MEMES:END -->
+ - 💣 [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)
+ - ⏩ [The benefit of fasting](http://9gag.com/gag/ae9q31O)
+ - 👉 [Seagull vs crow accuracy contest](http://9gag.com/gag/azxvE9z)<!-- MEMES:END -->
 
 ---
 
