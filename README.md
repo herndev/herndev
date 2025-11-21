@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify makes it way easier to ditch other music services](https://www.androidauthority.com/spotify-tunemymusic-integration-3618391/)
- - [After 10 years, Google Photos may be getting this basic UI feature](https://www.androidauthority.com/google-photos-editor-theme-3618363/)
- - [Foxconn Chair Young Liu says the company will spend $2B to $3B per year in AI in the next three to five years and is discussing potential investments with Japan &lpar;Reuters&rpar;](http://www.techmeme.com/251121/p7#a251121p7)<!-- TECH:END -->
+ - [Upgrade your entertainment with the Google TV Streamer 4K, now only $74.99](https://www.androidauthority.com/google-tv-streamer-4k-deal-3618139/)
+ - [This new PS2 emulator for Android will soon get online multiplayer support](https://www.androidauthority.com/ps2-emulator-android-online-multiplayer-3618370/)
+ - [What tech are you buying this Black Friday?](https://www.androidauthority.com/black-friday-budget-open-thread-3618400/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
