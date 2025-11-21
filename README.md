@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tineco Goes Nuts, Floor One S5 Wet Dry Vacuum and Mop Now 42% Off Original Price](https://kotaku.com/tineco-goes-nuts-floor-one-s5-wet-dry-vacuum-and-mop-now-42-off-original-price-2000645964)
- - [Skip GoPro, This Insta360 8K 360° Action Camera Drops to New Record Low on Amazon](https://kotaku.com/skip-gopro-this-insta360-8k-360-action-camera-drops-to-new-record-low-on-amazon-2000645958)
- - [This 14-in-1 USB-C Hub Goes Nearly Free on Amazon, Anker Dumps Final Units for Black Friday](https://kotaku.com/this-14-in-1-usb-c-hub-goes-nearly-free-on-amazon-anker-dumps-final-units-for-black-friday-2000645975)<!-- GAME:END -->
+ - [Dungeon Master University offers immersive training with industry pros](https://www.polygon.com/dungeon-master-university-keith-baker-monte-cook/)
+ - [Gearbox finally fixes Borderlands 4&#39;s infuriating class mod drops and snore-inducing Wildcards—oh, and its first DLC is now free](https://www.pcgamer.com/games/fps/gearbox-finally-fixes-borderlands-4s-infuriating-class-mod-drops-and-snore-inducing-wildcards-oh-and-its-first-dlc-is-now-free/)
+ - [Grok AI temporarily so sycophantic it claims Elon Musk is the best at drinking pee, and other things I&#39;m not going to put in a headline, you can&#39;t make me](https://www.pcgamer.com/software/ai/grok-ai-temporarily-so-sycophantic-it-claims-elon-musk-is-the-best-at-drinking-pee-and-other-things-im-not-going-to-put-in-a-headline-you-cant-make-me/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
