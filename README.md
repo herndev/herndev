@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos is fixing its mistake and finally bringing back this missing tool](https://www.androidauthority.com/google-photos-perspective-3618673/)
- - [MediaWorld Accidentally Sold iPads for 15 Euros. Then It Asked for Them Back](https://www.wired.com/story/mediaworld-accidentally-sold-ipads-for-euro15-then-it-asked-for-them-back/)
- - [Pranksters Recreated a Working Version of Jeffrey Epstein’s Gmail Inbox](https://www.wired.com/story/pranksters-recreated-a-working-version-of-jeffrey-epstein-gmail-inbox/)<!-- TECH:END -->
+ - [Google TV looks great at 300 inches thanks to this laser projector](https://www.androidauthority.com/jmgo-n3-4k-uhd-triple-laser-projector-3618742/)
+ - [Nothing’s Android 16 update puts a progress bar on the back of your phone](https://www.theverge.com/news/826648/nothing-android-16-live-updates-glyph)
+ - [In Kirby Air Riders, expression is more fun than racing](https://www.theverge.com/games/826488/kirby-air-riders-nintendo-switch-2-vehicle-customization)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
