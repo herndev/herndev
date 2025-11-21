@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Game Awards are overdue for a board game category](https://www.polygon.com/the-game-awards-tga-overdue-for-board-game-category/)
- - [Next Week on Xbox: New Games for November 24 to 28](https://news.xbox.com/en-us/2025/11/21/next-week-on-xbox-new-games-for-november-24-to-28/)
- - [Samsung 9100 PRO SSD Hits $0.13 per GB, Basically a Loss-Margin Black Friday Giveaway](https://kotaku.com/boost-storage-with-the-samsung-9100-pro-1tb-ssd-at-a-32-discount-2000645810)<!-- GAME:END -->
+ - [Nightdive Explains How Outlaws Set the Standard for Western Games](https://news.xbox.com/en-us/2025/11/21/nightdive-outlaws-remaster/)
+ - [Roblox CEO Makes Utter Fool Of Himself In Car-Crash Interview Over Child Safety](https://kotaku.com/roblox-new-york-times-interview-baszucki-2000646174)
+ - [Alienware Aurora 16 Gaming Laptop With RTX 5050 GPU Gets Cleared Out at an All-Time Low for Black Friday](https://kotaku.com/alienware-aurora-16-gaming-laptop-with-rtx-5050-gpu-gets-cleared-out-at-an-all-time-low-for-black-friday-2000645928)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
