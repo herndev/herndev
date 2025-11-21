@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have a nice day](http://9gag.com/gag/azxvEbx)
- - ⏩ [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
- - 👉 [What a talent......](http://9gag.com/gag/a6ZedZ8)<!-- MEMES:END -->
+ - 💣 [Security guy, a man of integrity tried to save the player&#39;s life](http://9gag.com/gag/azxvbBm)
+ - ⏩ [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)
+ - 👉 [Bro,just reject me next time.](http://9gag.com/gag/aryDeBy)<!-- MEMES:END -->
 
 ---
 
