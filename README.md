@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex-Witcher 3 devs re-reveal shooter after first announcement flops](https://www.polygon.com/war-mechanic-re-reveal-chronospace-fps-crafting-sim-survival-exploration/)
- - [Football Manager 26 Console: 7 Tips For New and Returning Players](https://news.xbox.com/en-us/2025/11/21/football-manager-26-console-tips-guide/)
- - [A gang war has erupted in Arc Raiders, and a victor is already emerging as Ninja joins the Bungulators: &#39;I am not declaring war or picking sides against somebody whose AFK stream gets more viewers than me&#39;](https://www.pcgamer.com/games/third-person-shooter/a-gang-war-has-erupted-in-arc-raiders-and-a-victor-is-already-emerging-as-ninja-joins-the-bungulators-i-am-not-declaring-war-or-picking-sides-against-somebody-whose-afk-stream-gets-more-viewers-than-me/)<!-- GAME:END -->
+ - [The Game Awards are overdue for a board game category](https://www.polygon.com/the-game-awards-tga-overdue-for-board-game-category/)
+ - [Next Week on Xbox: New Games for November 24 to 28](https://news.xbox.com/en-us/2025/11/21/next-week-on-xbox-new-games-for-november-24-to-28/)
+ - [Samsung 9100 PRO SSD Hits $0.13 per GB, Basically a Loss-Margin Black Friday Giveaway](https://kotaku.com/boost-storage-with-the-samsung-9100-pro-1tb-ssd-at-a-32-discount-2000645810)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
