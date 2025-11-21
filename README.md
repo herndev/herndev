@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sorcero, which makes AI agents for pharmaceutical companies to market new medications, raised a $42.5M Series B, bringing its total funding to $59M &lpar;Katherine Davis/Axios&rpar;](http://www.techmeme.com/251121/p16#a251121p16)
- - [Black Friday 2025: The best early deals on phones, wearables, and a lot more](https://www.androidauthority.com/best-deals-black-friday-2025-3616230/)
- - [Apple&#39;s M4 Mac mini with 24GB RAM, 512GB SSD drops to $869 today](https://appleinsider.com/articles/25/11/21/apples-m4-mac-mini-with-24gb-ram-512gb-ssd-drops-to-869-today?utm_source=rss)<!-- TECH:END -->
+ - [This smart table lamp combines JBL sound with cool lighting, and it’s 25% off](https://www.androidauthority.com/govee-table-lamp-2-pro-x-sound-by-jbl-deal-3618609/)
+ - [The inevitable has happened: Ads on Google Search’s AI Mode are here](https://www.androidauthority.com/google-search-ai-mode-ads-3618562/)
+ - [Sources: Kalshi told investors that its trading volume grew six times in the last six months and it is on an annualized pace for $600M to $700M in net revenue &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/251121/p20#a251121p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
