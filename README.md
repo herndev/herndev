@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV looks great at 300 inches thanks to this laser projector](https://www.androidauthority.com/jmgo-n3-4k-uhd-triple-laser-projector-3618742/)
- - [Nothing’s Android 16 update puts a progress bar on the back of your phone](https://www.theverge.com/news/826648/nothing-android-16-live-updates-glyph)
- - [In Kirby Air Riders, expression is more fun than racing](https://www.theverge.com/games/826488/kirby-air-riders-nintendo-switch-2-vehicle-customization)<!-- TECH:END -->
+ - [Dust off that GoldenEye cart: Analogue 3D orders are returning soon](https://www.androidauthority.com/analogue-3d-orders-3618758/)
+ - [Activists Are Using &#39;Fortnite&#39; to Fight Back Against ICE](https://www.wired.com/story/activists-are-using-fortnite-to-fight-back-against-ice/)
+ - [Skip the Lines and Shop These 85+ Early Black Friday Deals From Apple, Sony, Samsung and More](https://www.cnet.com/deals/early-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
