@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upgrade your movie nights: XGIMI MoGo 4 on sale for the first time](https://www.androidauthority.com/xgimi-mogo-4-portable-projector-deal-3618607/)
- - [Bret Taylor says his AI agent startup Sierra has hit $100M in ARR, after launching in February 2024, up from about $20M this time last year &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251121/p21#a251121p21)
- - [Google Chat is borrowing this handy shortcut from YouTube](https://www.androidauthority.com/google-chat-previews-3618599/)<!-- TECH:END -->
+ - [Sony&amp;#8217;s PlayStation Portal just got a rare discount for Black Friday](https://www.theverge.com/gadgets/825985/sony-playstation-portal-black-friday-deal-sale-2025)
+ - [Gemini’s new interactive images turn diagrams into deep-dive tools](https://www.androidauthority.com/gemini-interactive-images-3618646/)
+ - [Google confirms hackers stole Salesforce-stored data from 200+ companies via a supply chain hack involving Gainsight, which provides a customer support platform &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251121/p23#a251121p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
