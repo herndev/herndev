@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nightdive Explains How Outlaws Set the Standard for Western Games](https://news.xbox.com/en-us/2025/11/21/nightdive-outlaws-remaster/)
- - [Roblox CEO Makes Utter Fool Of Himself In Car-Crash Interview Over Child Safety](https://kotaku.com/roblox-new-york-times-interview-baszucki-2000646174)
- - [Alienware Aurora 16 Gaming Laptop With RTX 5050 GPU Gets Cleared Out at an All-Time Low for Black Friday](https://kotaku.com/alienware-aurora-16-gaming-laptop-with-rtx-5050-gpu-gets-cleared-out-at-an-all-time-low-for-black-friday-2000645928)<!-- GAME:END -->
+ - [Why wasn&#39;t Sword of the Sea nominated for 2025&#39;s Game Awards?](https://www.polygon.com/sword-of-the-sea-the-game-awards-snub/)
+ - [Sonos Era 100 Falls to New Record Low, Now Cheaper Than Speakers With Mediocre Sound Quality](https://kotaku.com/sonos-era-100-falls-to-new-record-low-now-cheaper-than-speakers-with-mediocre-sound-quality-2000646231)
+ - [25 great Steam games you probably missed in 2025⁠—from freebies to $40](https://www.pcgamer.com/games/25-great-steam-games-you-probably-missed-in-2025-from-freebies-to-usd40/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
