@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone really did their homework figuring out ways to make the four kinds of bending from Avatar: The Last Airbender work in Magic: The Gathering](https://www.pcgamer.com/games/card-games/someone-really-did-their-homework-figuring-out-ways-to-make-the-four-kinds-of-bending-from-avatar-the-last-airbender-work-in-magic-the-gathering/)
- - [Seagate 22TB External Hard Drive Drops 60%, Amazon Clears Stock for Black Friday](https://kotaku.com/seagate-22tb-external-hard-drive-drops-60-amazon-clears-stock-for-black-friday-2000645970)
- - [Reviews be damned, The Witcher voice actor Doug Cockle thinks Liam Hemsworth &#39;holds up pretty well&#39; as Geralt in Netflix&#39;s television series: &#39;I think he&#39;s done a fantastic job&#39;](https://www.pcgamer.com/movies-tv/reviews-be-damned-the-witcher-voice-actor-doug-cockle-thinks-liam-hemsworth-holds-up-pretty-well-as-geralt-in-netflixs-television-series-i-think-hes-done-a-fantastic-job/)<!-- GAME:END -->
+ - [Skip GoPro, This Insta360 8K 360° Action Camera Drops to New Record Low on Amazon](https://kotaku.com/skip-gopro-this-insta360-8k-360-action-camera-drops-to-new-record-low-on-amazon-2000645958)
+ - [This 14-in-1 USB-C Hub Goes Nearly Free on Amazon, Anker Dumps Final Units for Black Friday](https://kotaku.com/this-14-in-1-usb-c-hub-goes-nearly-free-on-amazon-anker-dumps-final-units-for-black-friday-2000645975)
+ - [We used to be a society &lpar;with a good Windows Task Manager icon&rpar;](https://www.pcgamer.com/software/windows/we-used-to-be-a-society-with-a-good-windows-task-manager-icon/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
