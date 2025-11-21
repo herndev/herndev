@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AirDrop integration isn’t just one-way, iPhones can beam files to Android too](https://www.androidauthority.com/iphone-android-airdrop-quick-share-support-3618326/)
- - [Skip the giant TV, these Roku TV projectors are on sale for Black Friday](https://www.androidauthority.com/aurzen-roku-tv-projectors-black-friday-3618315/)
- - [OpenAI partners with Foxconn to design and develop data center server racks to be manufactured in the US; Foxconn will produce cabling, power systems, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251120/p53#a251120p53)<!-- TECH:END -->
+ - [Filings: Meta&#39;s board agreed to a $190M settlement with investors over claims that Zuckerberg and other board members mishandled the Cambridge Analytica scandal &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/251120/p54#a251120p54)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Nov. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-nov-21/#ftag=CAD590a51e)
+ - [Google’s AirDrop integration isn’t just one-way, iPhones can beam files to Android too](https://www.androidauthority.com/iphone-android-airdrop-quick-share-support-3618326/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
