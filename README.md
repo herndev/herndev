@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Govee 200ft Outdoor Lights Pro Drops 40% on Amazon, Now Cheaper Than Budget Home Lighting](https://kotaku.com/govee-200ft-outdoor-lights-pro-drops-40-on-amazon-now-cheaper-than-budget-home-lighting-2000645934)
- - [I switched to zero sugar energy drinks in 2025 and now tracking down Call of Duty double XP is more annoying and less tasty](https://www.pcgamer.com/games/fps/i-switched-to-zero-sugar-energy-drinks-in-2025-and-now-tracking-down-call-of-duty-double-xp-is-more-annoying-and-less-tasty/)
- - [We Saw 12 Games During The Latest Xbox Showcase And Some Of Them Definitely Have My Attention Now](https://kotaku.com/xbox-showcase-november-2025-reanimal-trailer-free-demo-2000645835)<!-- GAME:END -->
+ - [Someone really did their homework figuring out ways to make the four kinds of bending from Avatar: The Last Airbender work in Magic: The Gathering](https://www.pcgamer.com/games/card-games/someone-really-did-their-homework-figuring-out-ways-to-make-the-four-kinds-of-bending-from-avatar-the-last-airbender-work-in-magic-the-gathering/)
+ - [Seagate 22TB External Hard Drive Drops 60%, Amazon Clears Stock for Black Friday](https://kotaku.com/seagate-22tb-external-hard-drive-drops-60-amazon-clears-stock-for-black-friday-2000645970)
+ - [Reviews be damned, The Witcher voice actor Doug Cockle thinks Liam Hemsworth &#39;holds up pretty well&#39; as Geralt in Netflix&#39;s television series: &#39;I think he&#39;s done a fantastic job&#39;](https://www.pcgamer.com/movies-tv/reviews-be-damned-the-witcher-voice-actor-doug-cockle-thinks-liam-hemsworth-holds-up-pretty-well-as-geralt-in-netflixs-television-series-i-think-hes-done-a-fantastic-job/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
