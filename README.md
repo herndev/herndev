@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This smart table lamp combines JBL sound with cool lighting, and it’s 25% off](https://www.androidauthority.com/govee-table-lamp-2-pro-x-sound-by-jbl-deal-3618609/)
- - [The inevitable has happened: Ads on Google Search’s AI Mode are here](https://www.androidauthority.com/google-search-ai-mode-ads-3618562/)
- - [Sources: Kalshi told investors that its trading volume grew six times in the last six months and it is on an annualized pace for $600M to $700M in net revenue &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/251121/p20#a251121p20)<!-- TECH:END -->
+ - [Upgrade your movie nights: XGIMI MoGo 4 on sale for the first time](https://www.androidauthority.com/xgimi-mogo-4-portable-projector-deal-3618607/)
+ - [Bret Taylor says his AI agent startup Sierra has hit $100M in ARR, after launching in February 2024, up from about $20M this time last year &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251121/p21#a251121p21)
+ - [Google Chat is borrowing this handy shortcut from YouTube](https://www.androidauthority.com/google-chat-previews-3618599/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
