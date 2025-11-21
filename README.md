@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Straight to Hell](http://9gag.com/gag/apRnvoD)
- - ⏩ [Night before a day off hits different](http://9gag.com/gag/azxvVDj)
- - 👉 [This is too accurate](http://9gag.com/gag/aqyVZWj)<!-- MEMES:END -->
+ - 💣 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
+ - ⏩ [What a talent......](http://9gag.com/gag/a6ZedZ8)
+ - 👉 [Husbands be like](http://9gag.com/gag/apRnB2B)<!-- MEMES:END -->
 
 ---
 
