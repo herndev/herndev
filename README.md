@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Genshin Impact Company Just Revealed Another New Game And It’s Basically Anime Control](https://kotaku.com/varsapura-trailer-anime-horror-genshin-impact-2000646294)
- - [Poets are now cybersecurity threats: Researchers used &#39;adversarial poetry&#39; to jailbreak AI and it worked 62% of the time](https://www.pcgamer.com/software/ai/poets-are-now-cybersecurity-threats-researchers-used-adversarial-poetry-to-jailbreak-ai-and-it-worked-62-percent-of-the-time/)
- - [Complete list of Road Trip checklist missions in Kirby Air Riders](https://www.polygon.com/kirby-air-riders-road-trip-checklist-all-complete-rewards/)<!-- GAME:END -->
+ - [Analogue 3D, the best way to play N64 games, is coming back in stock](https://www.polygon.com/analogue-3d-n64-console-price-in-stock-order/)
+ - [The best Xbox Game Pass games to play this weekend &lpar;Nov. 21-23 2025&rpar;](https://www.polygon.com/game-pass-games-rec-weekend-nov-21-2025/)
+ - [Wicked: For Good solves Wicked&#39;s big Wizard of Oz problem](https://www.polygon.com/wicked-for-good-wizard-of-oz-cynthia-erivo/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
