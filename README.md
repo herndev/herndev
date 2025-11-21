@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony&amp;#8217;s PlayStation Portal just got a rare discount for Black Friday](https://www.theverge.com/gadgets/825985/sony-playstation-portal-black-friday-deal-sale-2025)
- - [Gemini’s new interactive images turn diagrams into deep-dive tools](https://www.androidauthority.com/gemini-interactive-images-3618646/)
- - [Google confirms hackers stole Salesforce-stored data from 200+ companies via a supply chain hack involving Gainsight, which provides a customer support platform &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251121/p23#a251121p23)<!-- TECH:END -->
+ - [Google Photos is fixing its mistake and finally bringing back this missing tool](https://www.androidauthority.com/google-photos-perspective-3618673/)
+ - [MediaWorld Accidentally Sold iPads for 15 Euros. Then It Asked for Them Back](https://www.wired.com/story/mediaworld-accidentally-sold-ipads-for-euro15-then-it-asked-for-them-back/)
+ - [Pranksters Recreated a Working Version of Jeffrey Epstein’s Gmail Inbox](https://www.wired.com/story/pranksters-recreated-a-working-version-of-jeffrey-epstein-gmail-inbox/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
