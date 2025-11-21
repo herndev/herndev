@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)
- - ⏩ [The benefit of fasting](http://9gag.com/gag/ae9q31O)
- - 👉 [Seagull vs crow accuracy contest](http://9gag.com/gag/azxvE9z)<!-- MEMES:END -->
+ - 💣 [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)
+ - ⏩ [Husbands be like](http://9gag.com/gag/apRnB2B)
+ - 👉 [Have a nice day](http://9gag.com/gag/azxvEbx)<!-- MEMES:END -->
 
 ---
 
