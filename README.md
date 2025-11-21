@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings: Meta&#39;s board agreed to a $190M settlement with investors over claims that Zuckerberg and other board members mishandled the Cambridge Analytica scandal &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/251120/p54#a251120p54)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Nov. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-nov-21/#ftag=CAD590a51e)
- - [Google’s AirDrop integration isn’t just one-way, iPhones can beam files to Android too](https://www.androidauthority.com/iphone-android-airdrop-quick-share-support-3618326/)<!-- TECH:END -->
+ - [AI-driven crowdsourced hedge fund Numerai raised a $30M Series C led by university endowments, with Paul Tudor Jones also participating, at a $500M valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251120/p58#a251120p58)
+ - [Taiwan&#39;s minister Wu Cheng-wen says the US won&#39;t impose &quot;punishing&quot; tariffs on Taiwan, after a &quot;consensus&quot; that Taiwan would support the US chip industry &lpar;Financial Times&rpar;](http://www.techmeme.com/251120/p57#a251120p57)
+ - [X ends its 2023 lawsuit against law firm Wachtell to recover most of the $90M fee the firm received for defeating Musk&#39;s bid to exit his $44B Twitter buyout &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/251120/p56#a251120p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
