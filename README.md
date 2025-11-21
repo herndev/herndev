@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Analogue 3D, the best way to play N64 games, is coming back in stock](https://www.polygon.com/analogue-3d-n64-console-price-in-stock-order/)
- - [The best Xbox Game Pass games to play this weekend &lpar;Nov. 21-23 2025&rpar;](https://www.polygon.com/game-pass-games-rec-weekend-nov-21-2025/)
- - [Wicked: For Good solves Wicked&#39;s big Wizard of Oz problem](https://www.polygon.com/wicked-for-good-wizard-of-oz-cynthia-erivo/)<!-- GAME:END -->
+ - [Microsoft&#39;s head of AI doesn&#39;t understand why people don&#39;t like AI, and I don&#39;t understand why he doesn&#39;t understand because it&#39;s pretty obvious](https://www.pcgamer.com/software/ai/microsofts-head-of-ai-doesnt-understand-why-people-dont-like-ai-and-i-dont-understand-why-he-doesnt-understand-because-its-pretty-obvious/)
+ - [Activision Isn’t Celebrating Call Of Duty: Black Ops 7‘s Launch The Way It Normally Does](https://kotaku.com/call-of-duty-black-ops-7-player-count-battlefield-6-2000646316)
+ - [Kotaku’s Weekend Guide: 3 Cool Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-octopath-0-morsels-arc-raiders-2000646314)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
