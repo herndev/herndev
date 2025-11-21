@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
- - ⏩ [What a talent......](http://9gag.com/gag/a6ZedZ8)
- - 👉 [Husbands be like](http://9gag.com/gag/apRnB2B)<!-- MEMES:END -->
+ - 💣 [Have a nice day](http://9gag.com/gag/azxvEbx)
+ - ⏩ [Husbands be like](http://9gag.com/gag/apRnB2B)
+ - 👉 [The benefit of fasting](http://9gag.com/gag/ae9q31O)<!-- MEMES:END -->
 
 ---
 
