@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Security guy, a man of integrity tried to save the player&#39;s life](http://9gag.com/gag/azxvbBm)
- - ⏩ [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)
- - 👉 [Bro,just reject me next time.](http://9gag.com/gag/aryDeBy)<!-- MEMES:END -->
+ - 💣 [Damn boys](http://9gag.com/gag/aD2q3Yx)
+ - ⏩ [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)
+ - 👉 [The benefit of fasting](http://9gag.com/gag/ae9q31O)<!-- MEMES:END -->
 
 ---
 
