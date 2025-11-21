@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have a nice day](http://9gag.com/gag/azxvEbx)
- - ⏩ [Husbands be like](http://9gag.com/gag/apRnB2B)
- - 👉 [The benefit of fasting](http://9gag.com/gag/ae9q31O)<!-- MEMES:END -->
+ - 💣 [Husbands be like](http://9gag.com/gag/apRnB2B)
+ - ⏩ [This is too accurate](http://9gag.com/gag/aqyVZWj)
+ - 👉 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)<!-- MEMES:END -->
 
 ---
 
