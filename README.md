@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upgrade your entertainment with the Google TV Streamer 4K, now only $74.99](https://www.androidauthority.com/google-tv-streamer-4k-deal-3618139/)
- - [This new PS2 emulator for Android will soon get online multiplayer support](https://www.androidauthority.com/ps2-emulator-android-online-multiplayer-3618370/)
- - [What tech are you buying this Black Friday?](https://www.androidauthority.com/black-friday-budget-open-thread-3618400/)<!-- TECH:END -->
+ - [Fitbit’s next feature could help you conquer pre-doctor visit anxiety &lpar;Updated: Announced&rpar;](https://www.androidauthority.com/google-fitbit-plan-for-care-apk-teardown-3617858/)
+ - [Google’s Nano Banana Pro generates excellent conspiracy fuel](https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel)
+ - [Nothing plans to become the second Android brand to challenge Apple’s AirDrop advantage](https://www.androidauthority.com/nothing-phone-apple-airdrop-support-3618446/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
