@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro,just reject me next time.](http://9gag.com/gag/aryDeBy)
- - ⏩ [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)
- - 👉 [The benefit of fasting](http://9gag.com/gag/ae9q31O)<!-- MEMES:END -->
+ - 💣 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
+ - ⏩ [The whole squad is there](https://www.reddit.com/r/funny/comments/1p2nqty/the_whole_squad_is_there/)
+ - 👉 [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)<!-- MEMES:END -->
 
 ---
 
