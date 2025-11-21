@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [40....love](http://9gag.com/gag/azxvExm)
- - ⏩ [Man only want one thing and it&#39;s disgusting.](http://9gag.com/gag/ae9q3ZO)
- - 👉 [It`s wednesday my degens :&rpar;](http://9gag.com/gag/aYQvb5O)<!-- MEMES:END -->
+ - 💣 [Have a nice day](http://9gag.com/gag/azxvEbx)
+ - ⏩ [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
+ - 👉 [What a talent......](http://9gag.com/gag/a6ZedZ8)<!-- MEMES:END -->
 
 ---
 
