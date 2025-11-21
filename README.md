@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why wasn&#39;t Sword of the Sea nominated for 2025&#39;s Game Awards?](https://www.polygon.com/sword-of-the-sea-the-game-awards-snub/)
- - [Sonos Era 100 Falls to New Record Low, Now Cheaper Than Speakers With Mediocre Sound Quality](https://kotaku.com/sonos-era-100-falls-to-new-record-low-now-cheaper-than-speakers-with-mediocre-sound-quality-2000646231)
- - [25 great Steam games you probably missed in 2025⁠—from freebies to $40](https://www.pcgamer.com/games/25-great-steam-games-you-probably-missed-in-2025-from-freebies-to-usd40/)<!-- GAME:END -->
+ - [D&amp;D’s new Forgotten Realms books deliver a solid Rime of the Frostmaiden sequel](https://www.polygon.com/dnd-forgotten-realms-adventures-faerun-icewind-dale-rime-frostmaiden/)
+ - [Spikeball Smash Brings the Party to Xbox Today](https://news.xbox.com/en-us/2025/11/21/spikeball-smash-brings-the-party-to-xbox-today/)
+ - [Samsung Is Going Nuts, 990 Pro 2TB SSD Going for Pennies When You Buy on Amazon](https://kotaku.com/samsung-is-going-nuts-990-pro-2tb-ssd-going-for-pennies-when-you-buy-on-amazon-2000646246)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
