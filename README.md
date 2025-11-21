@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI-driven crowdsourced hedge fund Numerai raised a $30M Series C led by university endowments, with Paul Tudor Jones also participating, at a $500M valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251120/p58#a251120p58)
- - [Taiwan&#39;s minister Wu Cheng-wen says the US won&#39;t impose &quot;punishing&quot; tariffs on Taiwan, after a &quot;consensus&quot; that Taiwan would support the US chip industry &lpar;Financial Times&rpar;](http://www.techmeme.com/251120/p57#a251120p57)
- - [X ends its 2023 lawsuit against law firm Wachtell to recover most of the $90M fee the firm received for defeating Musk&#39;s bid to exit his $44B Twitter buyout &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/251120/p56#a251120p56)<!-- TECH:END -->
+ - [Meta rolls out link sharing to let users invite up to eight people into their Hyperscape virtual rooms via a Quest 3 or 3S headset, or the Horizon mobile app &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251121/p4#a251121p4)
+ - [Samsung names mobile chief TM Roh as co-CEO and DX division head; Roh was serving as consumer business acting head since April after co-CEO Han Jong-Hee&#39;s death &lpar;Heekyong Yang/Reuters&rpar;](http://www.techmeme.com/251121/p3#a251121p3)
+ - [Internal memo: Sam Altman told OpenAI employees last month that Google&#39;s recent progress in AI could &quot;create some temporary economic headwinds for our company&quot; &lpar;The Information&rpar;](http://www.techmeme.com/251121/p2#a251121p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
