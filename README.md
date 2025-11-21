@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)
- - ⏩ [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
- - 👉 [Husbands be like](http://9gag.com/gag/apRnB2B)<!-- MEMES:END -->
+ - 💣 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
+ - ⏩ [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)
+ - 👉 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)<!-- MEMES:END -->
 
 ---
 
