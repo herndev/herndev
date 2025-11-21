@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
- - ⏩ [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)
- - 👉 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)<!-- MEMES:END -->
+ - 💣 [A timelapse of sleeping seals](http://9gag.com/gag/apRnBM9)
+ - ⏩ [Have a nice day](http://9gag.com/gag/azxvEbx)
+ - 👉 [Just minding your own business](http://9gag.com/gag/aLnOBAW)<!-- MEMES:END -->
 
 ---
 
