@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s AirDrop integration isn’t just one-way, iPhones can beam files to Android too](https://www.androidauthority.com/iphone-android-airdrop-quick-share-support-3618326/)
  - [Skip the giant TV, these Roku TV projectors are on sale for Black Friday](https://www.androidauthority.com/aurzen-roku-tv-projectors-black-friday-3618315/)
- - [OpenAI partners with Foxconn to design and develop data center server racks to be manufactured in the US; Foxconn will produce cabling, power systems, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251120/p53#a251120p53)
- - [Grok&#39;s chatbot on X says Elon Musk is superior at almost anything, including drinking urine; Musk says Grok was &quot;manipulated by adversarial prompting&quot; &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/251120/p52#a251120p52)<!-- TECH:END -->
+ - [OpenAI partners with Foxconn to design and develop data center server racks to be manufactured in the US; Foxconn will produce cabling, power systems, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251120/p53#a251120p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
