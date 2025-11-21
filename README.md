@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D’s new Forgotten Realms books deliver a solid Rime of the Frostmaiden sequel](https://www.polygon.com/dnd-forgotten-realms-adventures-faerun-icewind-dale-rime-frostmaiden/)
- - [Spikeball Smash Brings the Party to Xbox Today](https://news.xbox.com/en-us/2025/11/21/spikeball-smash-brings-the-party-to-xbox-today/)
- - [Samsung Is Going Nuts, 990 Pro 2TB SSD Going for Pennies When You Buy on Amazon](https://kotaku.com/samsung-is-going-nuts-990-pro-2tb-ssd-going-for-pennies-when-you-buy-on-amazon-2000646246)<!-- GAME:END -->
+ - [The Genshin Impact Company Just Revealed Another New Game And It’s Basically Anime Control](https://kotaku.com/varsapura-trailer-anime-horror-genshin-impact-2000646294)
+ - [Poets are now cybersecurity threats: Researchers used &#39;adversarial poetry&#39; to jailbreak AI and it worked 62% of the time](https://www.pcgamer.com/software/ai/poets-are-now-cybersecurity-threats-researchers-used-adversarial-poetry-to-jailbreak-ai-and-it-worked-62-percent-of-the-time/)
+ - [Complete list of Road Trip checklist missions in Kirby Air Riders](https://www.polygon.com/kirby-air-riders-road-trip-checklist-all-complete-rewards/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
