@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)
- - ⏩ [Husbands be like](http://9gag.com/gag/apRnB2B)
- - 👉 [Have a nice day](http://9gag.com/gag/azxvEbx)<!-- MEMES:END -->
+ - 💣 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
+ - ⏩ [What a talent......](http://9gag.com/gag/a6ZedZ8)
+ - 👉 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)<!-- MEMES:END -->
 
 ---
 
