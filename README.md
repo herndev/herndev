@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Files - How to manage files like a pro on iPhone, iPad, and Apple Vision Pro](https://appleinsider.com/inside/ipados-26/tips/inside-files---how-to-manage-files-like-a-pro-on-iphone-ipad-and-apple-vision-pro?utm_source=rss)
- - [Apple’s Most Overlooked App Just Got a Lot Better](https://www.wired.com/story/apple-shortcuts-just-got-a-lot-better/)
- - [Hot deal: Score 40% savings on the Fitbit Versa 4 in the Black Friday sale](https://www.androidauthority.com/fitbit-versa-4-black-friday-deal-3618291/)<!-- TECH:END -->
+ - [Archetype, which builds AI to interpret sensor data from the physical world, raised a $35M Series A and launches tools to build and deploy physical agents &lpar;Grace Priscilla Teo/Tech in Asia&rpar;](http://www.techmeme.com/251121/p12#a251121p12)
+ - [13 Best Kids Headphones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-kids-headphones/)
+ - [AirDropping stuff from a Pixel phone rules so much](https://www.theverge.com/tech/825696/pixel-10-pro-airdrop-quick-share-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
