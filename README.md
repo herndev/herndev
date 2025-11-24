@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mammoth Tusk Restoration](http://9gag.com/gag/awy9ng1)
+ - 💣 [Peace Plan?](http://9gag.com/gag/an70bW5)
  - ⏩ [Are You This Old ?](http://9gag.com/gag/aO8nzBr)
  - 👉 [It tracks](http://9gag.com/gag/a87vyM1)<!-- MEMES:END -->
 
