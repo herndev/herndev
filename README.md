@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It could happen to anyone..](http://9gag.com/gag/a9y473j)
- - ⏩ [WOMP WOMP](http://9gag.com/gag/avyBPME)
- - 👉 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)<!-- MEMES:END -->
+ - 💣 [The beacons are lit](http://9gag.com/gag/a1m8X4G)
+ - ⏩ [Prayz da lawd](http://9gag.com/gag/aKGXVVW)
+ - 👉 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)<!-- MEMES:END -->
 
 ---
 
