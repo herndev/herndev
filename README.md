@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft&#39;s head of AI doesn&#39;t understand why people don&#39;t like AI, and I don&#39;t understand why he doesn&#39;t understand because it&#39;s pretty obvious](https://www.pcgamer.com/software/ai/microsofts-head-of-ai-doesnt-understand-why-people-dont-like-ai-and-i-dont-understand-why-he-doesnt-understand-because-its-pretty-obvious/)
- - [Activision Isn’t Celebrating Call Of Duty: Black Ops 7‘s Launch The Way It Normally Does](https://kotaku.com/call-of-duty-black-ops-7-player-count-battlefield-6-2000646316)
- - [Kotaku’s Weekend Guide: 3 Cool Games We Can’t Wait To Get Back To](https://kotaku.com/kotaku-games-to-play-octopath-0-morsels-arc-raiders-2000646314)<!-- GAME:END -->
+ - [Sonos Offloads Era 300 at Zero Margin, Dolby Atmos Rival to Devialet Hits Pocket Change Pricing](https://kotaku.com/sonos-offloads-era-300-at-zero-margin-dolby-atmos-speaker-that-destroys-competitors-hits-pocket-change-2000646735)
+ - [Anker Selling 30W Power Bank for Pocket Change, 10,000mAh Battery Pack Now Costs Almost Free](https://kotaku.com/anker-selling-30w-power-bank-for-pocket-change-10000mah-battery-pack-now-costs-almost-free-2000646730)
+ - [Mac Mini Has a Budget Twin Now, 512GB Mini PC Selling for Pennies That Makes Apple Look Greedy](https://kotaku.com/mac-mini-has-a-budget-twin-now-512gb-mini-pc-selling-for-pennies-that-makes-apple-look-greedy-2000646726)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
