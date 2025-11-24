@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to Derry just revealed a character from It that&#39;s been under our nose the whole time](https://www.polygon.com/welcome-to-derry-episode-5-ingrid-mrs-kersh-madeleine-stowe/)
- - [Two Point Museum lets you run wild in its biggest &lpar;and hairiest&rpar; DLC to date and you can sink your claws in for free this week](https://www.pcgamer.com/games/two-point-museum-lets-you-run-wild-in-its-biggest-and-hairiest-dlc-to-date-and-you-can-sink-your-claws-in-for-free-this-week/)
- - [The $4,000 limited edition Asus ROG Matrix RTX 5090, rated to 800 W, is officially out and oh it&#39;s sold out already never mind](https://www.pcgamer.com/hardware/graphics-cards/the-usd4-000-limited-edition-asus-rog-matrix-rtx-5090-rated-to-800-w-is-officially-out-and-oh-its-sold-out-already-never-mind/)<!-- GAME:END -->
+ - [Apple Breaks Its Own Pricing Rules, AirPods Max Hits a Wild Black Friday Low](https://kotaku.com/apple-breaks-its-own-pricing-rules-airpods-max-hits-a-wild-black-friday-low-2000646662)
+ - [GameStop Is Threatening Pokémon Scalpers With Lifetime Bans If They Catch Them Weighing Packs](https://kotaku.com/pokemon-scalpers-tcg-gamestop-weigh-scale-lifetime-ban-2000646859)
+ - [Arc Raiders&#39; basic weapons are way too strong, and it&#39;s starting to overshadow even its legendary guns](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-basic-weapons-are-way-too-strong-and-its-starting-to-overshadow-even-its-legendary-guns/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
