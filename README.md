@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonos Offloads Era 300 at Zero Margin, Dolby Atmos Rival to Devialet Hits Pocket Change Pricing](https://kotaku.com/sonos-offloads-era-300-at-zero-margin-dolby-atmos-speaker-that-destroys-competitors-hits-pocket-change-2000646735)
- - [Anker Selling 30W Power Bank for Pocket Change, 10,000mAh Battery Pack Now Costs Almost Free](https://kotaku.com/anker-selling-30w-power-bank-for-pocket-change-10000mah-battery-pack-now-costs-almost-free-2000646730)
- - [Mac Mini Has a Budget Twin Now, 512GB Mini PC Selling for Pennies That Makes Apple Look Greedy](https://kotaku.com/mac-mini-has-a-budget-twin-now-512gb-mini-pc-selling-for-pennies-that-makes-apple-look-greedy-2000646726)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 is &#39;an inspiration&#39; for CD Projekt, but it&#39;s all-in on big open worlds: &#39;We are definitely not going to make a game like Larian did&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3-is-an-inspiration-for-cd-projekt-but-its-all-in-on-big-open-worlds-we-are-definitely-not-going-to-make-a-game-like-larian-did/)
+ - [HP Went Full Liquidation on 17″ Laptop &lpar;i5, 32GB RAM, 1TB SSD&rpar;, 71% Off Turns $3K Into Pocket Change](https://kotaku.com/hp-went-full-liquidation-on-17-laptop-i5-32gb-ram-1tb-ssd-71-off-turns-3k-into-pocket-change-2000646751)
+ - [Roborock Qrevo CurvX Drops to All-Time Low, 22,000Pa Beast With Auto Hot Water Cleaning Falls to Record Pricing](https://kotaku.com/roborock-qrevo-curvx-drops-to-all-time-low-22000pa-beast-with-auto-hot-water-cleaning-falls-to-record-pricing-2000646746)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
