@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google prepares to scrub Assistant in favor of Gemini from even more settings](https://www.androidauthority.com/hey-google-voice-match-assistant-branding-scrubbed-3618897/)
- - [Narwal Black Friday: Enjoy massive discounts on Narwal’s latest robot vacuums and wet-and-dry handhelds](https://www.androidauthority.com/narwal-black-friday-2025-3612973/)
- - [A look at New Save Collective, a group of gamers and activists roleplaying ICE raids in Fortnite and GTA 5 to prepare for real-world situations &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/251124/p3#a251124p3)<!-- TECH:END -->
+ - [Ubisoft says Tencent&#39;s €1.16B investment in Vantage Studios, set to reduce its debt, is complete, giving Tencent a 26% stake in Vantage and valuing it at €3.8B &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/251124/p4#a251124p4)
+ - [Looks like OnePlus phones and smartwatches are experiencing some bad weather](https://www.androidauthority.com/oneplus-weather-app-issue-3618945/)
+ - [21 Best Gifts for Coffee Lovers &lpar;2025&rpar;: Drips, Pours, and Shots](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
