@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic prices Claude Opus 4.5 at $5/1M input and $25/1M output tokens, much cheaper than Opus 4.1 at $15/$75 but still pricier than GPT-5.1 and Gemini 3 Pro &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251124/p34#a251124p34)
- - [Anthropic says Claude Opus 4.5 is &quot;harder to trick with prompt injection than any other frontier model in the industry&quot; but isn&#39;t &quot;immune&quot; to such attacks &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/251124/p33#a251124p33)
- - [Signal’s secure message backups arrive on iOS](https://www.theverge.com/news/828091/signal-secure-backups-ios-launch)<!-- TECH:END -->
+ - [Sources: Paris-based Pennylane, which makes accounting software, is discussing a $200M investment led by TCV at a $4.25B valuation, up from €2B in April &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/251124/p36#a251124p36)
+ - [Google trims the fat off Home Brief, delivers Gemini for Home bug fixes](https://www.androidauthority.com/gemini-for-home-fixes-and-improvements-3619133/)
+ - [Black Friday streaming deals slash Disney Plus, Max, Hulu, Paramount Plus, Apple TV to as low as $2.99/mo](https://appleinsider.com/articles/25/11/24/black-friday-streaming-deals-slash-disney-plus-max-hulu-paramount-plus-apple-tv-to-as-low-as-299mo?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
