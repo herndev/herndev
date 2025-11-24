@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey reveals why Google’s Wicked Pixel Drop was a total letdown](https://www.androidauthority.com/november-pixel-drop-wicked-poll-results-3618873/)
- - [Europe Is Bending the Knee to the US on Tech Policy](https://www.wired.com/story/europe-bends-us-digital-policies-eu-ai-act/)
- - [Save 40% on any Plex Pass with Black Friday &amp; Cyber Monday deals](https://appleinsider.com/articles/25/11/24/save-40-on-any-plex-pass-with-black-friday-cyber-monday-deals?utm_source=rss)<!-- TECH:END -->
+ - [OnePlus 15R: This could be our first official look at the sub-flagship king](https://www.androidauthority.com/oneplus-15r-first-look-3618870/)
+ - [Q&amp;A with Z.ai Director of Product Zixuan Li on Chinese AI models embracing open source, attracting global users for its GLM model, training on memes, and more &lpar;ChinaTalk&rpar;](http://www.techmeme.com/251124/p2#a251124p2)
+ - [OnePlus 15 proves it’s the toughest flagship you can actually buy](https://www.androidauthority.com/oneplus-15-durability-test-3618909/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
