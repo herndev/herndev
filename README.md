@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jealous of Pixel’s new AirDrop trick? Qualcomm hints it’s coming to many more Android phones](https://www.androidauthority.com/qualcomm-snapdragon-airdrop-quick-share-support-3618833/)
- - [Changes to CISA have left some states without support during elections; California said CISA provided little support during the Nov. 4 election on redistricting &lpar;Associated Press&rpar;](http://www.techmeme.com/251123/p17#a251123p17)
- - [DOGE is no more, and in its wake, only chaos](https://www.theverge.com/news/827390/doge-is-no-more-and-in-its-wake-only-chaos)<!-- TECH:END -->
+ - [OPM Director Scott Kupor earlier this month said DOGE &quot;doesn&#39;t exist&quot; and OPM took over many of its functions, eight months before DOGE was set to close &lpar;Courtney Rozen/Reuters&rpar;](http://www.techmeme.com/251123/p19#a251123p19)
+ - [Interviews with current and former OpenAI employees detail how updates that made ChatGPT more appealing to boost growth sent some users into delusional spirals &lpar;New York Times&rpar;](http://www.techmeme.com/251123/p18#a251123p18)
+ - [Jealous of Pixel’s new AirDrop trick? Qualcomm hints it’s coming to many more Android phones](https://www.androidauthority.com/qualcomm-snapdragon-airdrop-quick-share-support-3618833/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
