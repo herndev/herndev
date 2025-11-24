@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A timelapse of sleeping seals](http://9gag.com/gag/apRnBM9)
- - ⏩ [Have a nice day](http://9gag.com/gag/azxvEbx)
- - 👉 [Just minding your own business](http://9gag.com/gag/aLnOBAW)<!-- MEMES:END -->
+ - 💣 [This is awkward.](http://9gag.com/gag/an701qB)
+ - ⏩ [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
+ - 👉 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)<!-- MEMES:END -->
 
 ---
 
