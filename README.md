@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always The Simpsons....](http://9gag.com/gag/aByb8RQ)
- - ⏩ [Peace Plan?](http://9gag.com/gag/an70bW5)
- - 👉 [A random brazilian 9gagger yesterday at the Oasis concert. Alone and browsing 9gag instead of socializing and enjoying the concert! A true veteran! Cheers mate and I hope you see yourself](http://9gag.com/gag/a1m8b1R)<!-- MEMES:END -->
+ - 💣 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
+ - ⏩ [South Park like interaction\u2026 Except it\u2019s not](http://9gag.com/gag/aryDO8K)
+ - 👉 [OK I understand why hurricanes don\u2019t ever cross the equator, but why don\u2019t they touch down in South America?](http://9gag.com/gag/aPAV9mg)<!-- MEMES:END -->
 
 ---
 
