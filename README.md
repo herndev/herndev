@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Breaks Its Own Pricing Rules, AirPods Max Hits a Wild Black Friday Low](https://kotaku.com/apple-breaks-its-own-pricing-rules-airpods-max-hits-a-wild-black-friday-low-2000646662)
- - [GameStop Is Threatening Pokémon Scalpers With Lifetime Bans If They Catch Them Weighing Packs](https://kotaku.com/pokemon-scalpers-tcg-gamestop-weigh-scale-lifetime-ban-2000646859)
- - [Arc Raiders&#39; basic weapons are way too strong, and it&#39;s starting to overshadow even its legendary guns](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-basic-weapons-are-way-too-strong-and-its-starting-to-overshadow-even-its-legendary-guns/)<!-- GAME:END -->
+ - [Even Charlie Cox thinks his Game Awards nomination for Expedition 33 is misplaced](https://www.polygon.com/clair-obscur-expedition-33-charlie-cox-gustave-game-awards-nomination/)
+ - [What it&#39;s like to work from home in Skyrim VR](https://www.polygon.com/skyrim-vr-working-from-home/)
+ - [Steam Awards&#39; GOTY nominations are live and really fun](https://www.polygon.com/steam-goty-awards-nominations-fan-votes-troll-winter-sale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
