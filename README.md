@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Game development diary: Planning failures and the fyre festival of game expos](https://appleinsider.com/articles/25/11/24/game-development-diary-planning-failures-and-the-fyre-festival-of-game-expos?utm_source=rss)
- - [The future is now: TCL CSOT sets the benchmark for display technologies at DTC 2025](https://www.androidauthority.com/tcl-csot-dtc-2025-3618240/)
- - [Internal documents: Amazon&#39;s data center operations total 900+ facilities in 50+ countries, including AWS colocation facilities, higher than commonly understood &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251124/p15#a251124p15)<!-- TECH:END -->
+ - [Segway Navimow Black Friday: Enjoy massive discounts and upgrade your lawn care](https://www.androidauthority.com/segway-navimow-black-friday-3618847/)
+ - [iPhone Fold nears mass production, screen crease issue rumored to be solved](https://appleinsider.com/articles/25/11/24/iphone-fold-nears-mass-production-screen-crease-issue-rumored-to-be-solved?utm_source=rss)
+ - [NYC-based Opti, an enterprise identity security service that uses AI to analyze user, system, and access relationships, raised a $20M seed led by YL Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251124/p17#a251124p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
