@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad runner](http://9gag.com/gag/aLnO9yM)
- - ⏩ [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
- - 👉 [A California restaurant was shut down after viral video showed a worker tossing raw meat onto the pavement behind the building.](http://9gag.com/gag/adBW7EN)<!-- MEMES:END -->
+ - 💣 [Valve, the creator of Steam and iconic games like Half-Life, Dota 2, Counter-Strike, Portal, Left 4 Dead etc., generated $17 billion in revenue in 2025 with a workforce of roughly 336 employees, amounting to over $50 million in revenue per employee.](http://9gag.com/gag/abALzXv)
+ - ⏩ [Bad runner](http://9gag.com/gag/aLnO9yM)
+ - 👉 [Frodo the Grey](http://9gag.com/gag/aVv9qPw)<!-- MEMES:END -->
 
 ---
 
