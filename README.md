@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jony Ive and Sam Altman say they finally have an AI hardware prototype](https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman)
- - [Zombies, Run! isn’t headed for the grave after all](https://www.theverge.com/gadgets/827575/zombies-run-six-to-start-fitness-gaming)
- - [CNN&#39;s Apple News feed goes dark while contract talks continue](https://appleinsider.com/articles/25/11/24/cnns-apple-news-feed-goes-dark-while-contract-talks-continue?utm_source=rss)<!-- TECH:END -->
+ - [Philips Hue from founding to now with George Yianni on HomeKit Insider](https://appleinsider.com/articles/25/11/24/philips-hue-from-founding-to-now-with-george-yianni-on-homekit-insider?utm_source=rss)
+ - [Get ready for a foldable iPhone that costs as much as a 16-inch MacBook Pro](https://appleinsider.com/articles/25/11/24/get-ready-for-a-foldable-iphone-that-costs-as-much-as-a-16-inch-macbook-pro?utm_source=rss)
+ - [Sources: Shopify salespeople engaged in a sales fraud scheme inflating deal values for over a year, leading to internal investigations in mid-2024 and firings &lpar;Aleksandra Sagan/The Logic&rpar;](http://www.techmeme.com/251124/p23#a251124p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
