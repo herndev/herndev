@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She can fix me.](http://9gag.com/gag/aoyG1N2)
- - ⏩ [How many reps, yes](http://9gag.com/gag/an701mn)
- - 👉 [Winter](http://9gag.com/gag/apRnp0b)<!-- MEMES:END -->
+ - 💣 [Bad runner](http://9gag.com/gag/aLnO9yM)
+ - ⏩ [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
+ - 👉 [A California restaurant was shut down after viral video showed a worker tossing raw meat onto the pavement behind the building.](http://9gag.com/gag/adBW7EN)<!-- MEMES:END -->
 
 ---
 
