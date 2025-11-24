@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&amp;#8216;Holy shit’: Gemini 3 is winning the AI race — for now](https://www.theverge.com/report/827555/google-gemini-3-is-winning-the-ai-race-for-now)
- - [French lawsuit again turns Apple&#39;s App Store fees into a high-stakes legal test](https://appleinsider.com/articles/25/11/24/french-lawsuit-again-turns-apples-app-store-fees-into-a-high-stakes-legal-test?utm_source=rss)
- - [What Kilian Jornet Packs to Climb Every 14er in the Mountain West in 31 days](https://www.wired.com/story/kilian-jornets-mountain-conquering-starter-pack/)<!-- TECH:END -->
+ - [Jony Ive and Sam Altman say they finally have an AI hardware prototype](https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman)
+ - [Zombies, Run! isn’t headed for the grave after all](https://www.theverge.com/gadgets/827575/zombies-run-six-to-start-fitness-gaming)
+ - [CNN&#39;s Apple News feed goes dark while contract talks continue](https://appleinsider.com/articles/25/11/24/cnns-apple-news-feed-goes-dark-while-contract-talks-continue?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
