@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Even Charlie Cox thinks his Game Awards nomination for Expedition 33 is misplaced](https://www.polygon.com/clair-obscur-expedition-33-charlie-cox-gustave-game-awards-nomination/)
- - [What it&#39;s like to work from home in Skyrim VR](https://www.polygon.com/skyrim-vr-working-from-home/)
- - [Steam Awards&#39; GOTY nominations are live and really fun](https://www.polygon.com/steam-goty-awards-nominations-fan-votes-troll-winter-sale/)<!-- GAME:END -->
+ - [&#39;Most of the innovation in gaming has happened on PC&#39; says EVE Online studio boss: &#39;When I love a game, it&#39;s so deeply PC&#39;](https://www.pcgamer.com/games/mmo/most-of-the-innovation-in-gaming-has-happened-on-pc-says-eve-online-studio-boss-when-i-love-a-game-its-so-deeply-pc/)
+ - [Soulless Robot Olaf Will Haunt Disney Theme Park In Search Of Friendship](https://kotaku.com/frozen-olaf-character-roams-disney-parks-2026-2000647055)
+ - [Kotaku Asks: What’s Your Perfect Thanksgiving Plate?](https://kotaku.com/whats-the-best-thanksgiving-food-2000647025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
