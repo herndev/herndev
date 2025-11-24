@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The beacons are lit](http://9gag.com/gag/a1m8X4G)
- - ⏩ [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
- - 👉 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)<!-- MEMES:END -->
+ - 💣 [She can fix me.](http://9gag.com/gag/aoyG1N2)
+ - ⏩ [How many reps, yes](http://9gag.com/gag/an701mn)
+ - 👉 [Winter](http://9gag.com/gag/apRnp0b)<!-- MEMES:END -->
 
 ---
 
