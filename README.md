@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Paris-based Pennylane, which makes accounting software, is discussing a $200M investment led by TCV at a $4.25B valuation, up from €2B in April &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/251124/p36#a251124p36)
- - [Google trims the fat off Home Brief, delivers Gemini for Home bug fixes](https://www.androidauthority.com/gemini-for-home-fixes-and-improvements-3619133/)
- - [Black Friday streaming deals slash Disney Plus, Max, Hulu, Paramount Plus, Apple TV to as low as $2.99/mo](https://appleinsider.com/articles/25/11/24/black-friday-streaming-deals-slash-disney-plus-max-hulu-paramount-plus-apple-tv-to-as-low-as-299mo?utm_source=rss)<!-- TECH:END -->
+ - [Chrome is bringing another of its best desktop tab tools to Android](https://www.androidauthority.com/chrome-tab-pin-android-3619211/)
+ - [President Trump signs an EO establishing the &quot;Genesis Mission&quot; to boost AI research and shorten discovery timelines &quot;from years to days or even hours&quot; &lpar;Axios&rpar;](http://www.techmeme.com/251124/p40#a251124p40)
+ - [T-Mobile and Verizon employees are up in arms over upcoming changes](https://www.androidauthority.com/t-mobile-verizon-employees-3618619/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
