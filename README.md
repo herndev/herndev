@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grindr ends talks on a $3.46B take-private deal by shareholders Ray Zage and James Lu, who own 60%+ of Grindr, citing uncertainty over the deal&#39;s financing &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/251124/p27#a251124p27)
- - [Google’s new ‘Aluminium OS’ project brings Android to PC: Here’s what we know](https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/)
- - [Microsoft unveils Fara-7B, its first agentic SLM designed for computer use, available as an experimental release on Hugging Face and Microsoft Foundry &lpar;Ben Dickson/VentureBeat&rpar;](http://www.techmeme.com/251124/p26#a251124p26)<!-- TECH:END -->
+ - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)
+ - [Black Friday drops the XGIMI Vibe One projector to its lowest price at $199](https://www.androidauthority.com/xgimi-vibe-one-projector-deal-3619128/)
+ - [Hackintosh enjoying its last hurrah, now supporting macOS Tahoe](https://appleinsider.com/articles/25/11/24/hackintosh-enjoying-its-last-hurrah-now-supporting-macos-tahoe?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
