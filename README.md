@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The beacons are lit](http://9gag.com/gag/a1m8X4G)
- - ⏩ [It could happen to anyone..](http://9gag.com/gag/a9y473j)
- - 👉 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)<!-- MEMES:END -->
+ - 💣 [Mammoth Tusk Restoration](http://9gag.com/gag/awy9ng1)
+ - ⏩ [Are You This Old ?](http://9gag.com/gag/aO8nzBr)
+ - 👉 [It tracks](http://9gag.com/gag/a87vyM1)<!-- MEMES:END -->
 
 ---
 
