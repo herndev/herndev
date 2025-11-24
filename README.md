@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is awkward.](http://9gag.com/gag/an701qB)
- - ⏩ [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
- - 👉 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)<!-- MEMES:END -->
+ - 💣 [It could happen to anyone..](http://9gag.com/gag/a9y473j)
+ - ⏩ [WOMP WOMP](http://9gag.com/gag/avyBPME)
+ - 👉 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)<!-- MEMES:END -->
 
 ---
 
