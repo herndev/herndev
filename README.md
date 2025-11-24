@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not stop for a school bus.](http://9gag.com/gag/ajP3qz1)
- - ⏩ [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
- - 👉 [Frodo the Grey](http://9gag.com/gag/aVv9qPw)<!-- MEMES:END -->
+ - 💣 [Lowcost cosplay](http://9gag.com/gag/a87vypV)
+ - ⏩ [Climber removes his harness to take a picture](http://9gag.com/gag/azxv80K)
+ - 👉 [Little wisdom](http://9gag.com/gag/adBW7ZV)<!-- MEMES:END -->
 
 ---
 
