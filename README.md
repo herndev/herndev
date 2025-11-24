@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
- - ⏩ [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)
- - 👉 [I swear Opm animation is getting worst](http://9gag.com/gag/aRB8j3G)<!-- MEMES:END -->
+ - 💣 [Not stop for a school bus.](http://9gag.com/gag/ajP3qz1)
+ - ⏩ [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
+ - 👉 [Frodo the Grey](http://9gag.com/gag/aVv9qPw)<!-- MEMES:END -->
 
 ---
 
