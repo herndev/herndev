@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Valve, the creator of Steam and iconic games like Half-Life, Dota 2, Counter-Strike, Portal, Left 4 Dead etc., generated $17 billion in revenue in 2025 with a workforce of roughly 336 employees, amounting to over $50 million in revenue per employee.](http://9gag.com/gag/abALzXv)
- - ⏩ [Bad runner](http://9gag.com/gag/aLnO9yM)
- - 👉 [Frodo the Grey](http://9gag.com/gag/aVv9qPw)<!-- MEMES:END -->
+ - 💣 [Prayz da lawd](http://9gag.com/gag/aKGXVVW)
+ - ⏩ [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)
+ - 👉 [When she saw the cosplay of her childhood dreams. Disneyland](http://9gag.com/gag/a87v8qZ)<!-- MEMES:END -->
 
 ---
 
