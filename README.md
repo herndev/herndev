@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you hear a chopper flying low, but you can&#39;t locate it.](http://9gag.com/gag/axyeDwp)
- - ⏩ [The beacons are lit](http://9gag.com/gag/a1m8X4G)
- - 👉 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)<!-- MEMES:END -->
+ - 💣 [Frodo the Grey](http://9gag.com/gag/aVv9qPw)
+ - ⏩ [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
+ - 👉 [Not stop for a school bus.](http://9gag.com/gag/ajP3qz1)<!-- MEMES:END -->
 
 ---
 
