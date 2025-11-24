@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
- - ⏩ [South Park like interaction\u2026 Except it\u2019s not](http://9gag.com/gag/aryDO8K)
- - 👉 [OK I understand why hurricanes don\u2019t ever cross the equator, but why don\u2019t they touch down in South America?](http://9gag.com/gag/aPAV9mg)<!-- MEMES:END -->
+ - ⏩ [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)
+ - 👉 [I swear Opm animation is getting worst](http://9gag.com/gag/aRB8j3G)<!-- MEMES:END -->
 
 ---
 
