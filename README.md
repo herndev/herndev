@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aqara&amp;#8217;s $99 Wi-Fi smart lock is a good-looking budget option](https://www.theverge.com/news/827784/aqara-wifi-b50-smart-lock-lowes-budget-friendly)
- - [Samsung leans into changing trends with its own TikTok Shop](https://www.androidauthority.com/samsung-tiktok-shop-3619044/)
- - [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025)<!-- TECH:END -->
+ - [Grindr ends talks on a $3.46B take-private deal by shareholders Ray Zage and James Lu, who own 60%+ of Grindr, citing uncertainty over the deal&#39;s financing &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/251124/p27#a251124p27)
+ - [Google’s new ‘Aluminium OS’ project brings Android to PC: Here’s what we know](https://www.androidauthority.com/aluminium-os-android-for-pcs-3619092/)
+ - [Microsoft unveils Fara-7B, its first agentic SLM designed for computer use, available as an experimental release on Hugging Face and Microsoft Foundry &lpar;Ben Dickson/VentureBeat&rpar;](http://www.techmeme.com/251124/p26#a251124p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
