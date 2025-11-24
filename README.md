@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Frodo the Grey](http://9gag.com/gag/aVv9qPw)
- - ⏩ [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
- - 👉 [Not stop for a school bus.](http://9gag.com/gag/ajP3qz1)<!-- MEMES:END -->
+ - 💣 [The beacons are lit](http://9gag.com/gag/a1m8X4G)
+ - ⏩ [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
+ - 👉 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)<!-- MEMES:END -->
 
 ---
 
