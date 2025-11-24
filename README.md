@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)
- - [Black Friday drops the XGIMI Vibe One projector to its lowest price at $199](https://www.androidauthority.com/xgimi-vibe-one-projector-deal-3619128/)
- - [Hackintosh enjoying its last hurrah, now supporting macOS Tahoe](https://appleinsider.com/articles/25/11/24/hackintosh-enjoying-its-last-hurrah-now-supporting-macos-tahoe?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic prices Claude Opus 4.5 at $5/1M input and $25/1M output tokens, much cheaper than Opus 4.1 at $15/$75 but still pricier than GPT-5.1 and Gemini 3 Pro &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251124/p34#a251124p34)
+ - [Anthropic says Claude Opus 4.5 is &quot;harder to trick with prompt injection than any other frontier model in the industry&quot; but isn&#39;t &quot;immune&quot; to such attacks &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/251124/p33#a251124p33)
+ - [Signal’s secure message backups arrive on iOS](https://www.theverge.com/news/828091/signal-secure-backups-ios-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
