@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPM Director Scott Kupor earlier this month said DOGE &quot;doesn&#39;t exist&quot; and OPM took over many of its functions, eight months before DOGE was set to close &lpar;Courtney Rozen/Reuters&rpar;](http://www.techmeme.com/251123/p19#a251123p19)
- - [Interviews with current and former OpenAI employees detail how updates that made ChatGPT more appealing to boost growth sent some users into delusional spirals &lpar;New York Times&rpar;](http://www.techmeme.com/251123/p18#a251123p18)
- - [Jealous of Pixel’s new AirDrop trick? Qualcomm hints it’s coming to many more Android phones](https://www.androidauthority.com/qualcomm-snapdragon-airdrop-quick-share-support-3618833/)<!-- TECH:END -->
+ - [YouTuber exposes the most censored and surveilled Android phones in the world](https://www.androidauthority.com/north-korean-smartphones-3618863/)
+ - [Apple&#39;s DMA compliance isn&#39;t &quot;malicious&quot;, but an effort to balance Apple&#39;s privacy focus with the EU&#39;s mandate, as iOS 26.2 iPhone/Watch Wi-Fi sync changes show &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/251124/p1#a251124p1)
+ - [OPM Director Scott Kupor earlier this month said DOGE &quot;doesn&#39;t exist&quot; and OPM took over many of its functions, eight months before DOGE was set to close &lpar;Courtney Rozen/Reuters&rpar;](http://www.techmeme.com/251123/p19#a251123p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
