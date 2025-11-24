@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peace Plan?](http://9gag.com/gag/an70bW5)
- - ⏩ [Are You This Old ?](http://9gag.com/gag/aO8nzBr)
- - 👉 [It tracks](http://9gag.com/gag/a87vyM1)<!-- MEMES:END -->
+ - 💣 [Frodo the Grey](http://9gag.com/gag/aVv9qPw)
+ - ⏩ [The beacons are lit](http://9gag.com/gag/a1m8X4G)
+ - 👉 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)<!-- MEMES:END -->
 
 ---
 
