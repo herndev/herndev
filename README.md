@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Segway Navimow Black Friday: Enjoy massive discounts and upgrade your lawn care](https://www.androidauthority.com/segway-navimow-black-friday-3618847/)
- - [iPhone Fold nears mass production, screen crease issue rumored to be solved](https://appleinsider.com/articles/25/11/24/iphone-fold-nears-mass-production-screen-crease-issue-rumored-to-be-solved?utm_source=rss)
- - [NYC-based Opti, an enterprise identity security service that uses AI to analyze user, system, and access relationships, raised a $20M seed led by YL Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251124/p17#a251124p17)<!-- TECH:END -->
+ - [&amp;#8216;Holy shit’: Gemini 3 is winning the AI race — for now](https://www.theverge.com/report/827555/google-gemini-3-is-winning-the-ai-race-for-now)
+ - [French lawsuit again turns Apple&#39;s App Store fees into a high-stakes legal test](https://appleinsider.com/articles/25/11/24/french-lawsuit-again-turns-apples-app-store-fees-into-a-high-stakes-legal-test?utm_source=rss)
+ - [What Kilian Jornet Packs to Climb Every 14er in the Mountain West in 31 days](https://www.wired.com/story/kilian-jornets-mountain-conquering-starter-pack/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
