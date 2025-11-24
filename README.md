@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 15R: This could be our first official look at the sub-flagship king](https://www.androidauthority.com/oneplus-15r-first-look-3618870/)
- - [Q&amp;A with Z.ai Director of Product Zixuan Li on Chinese AI models embracing open source, attracting global users for its GLM model, training on memes, and more &lpar;ChinaTalk&rpar;](http://www.techmeme.com/251124/p2#a251124p2)
- - [OnePlus 15 proves it’s the toughest flagship you can actually buy](https://www.androidauthority.com/oneplus-15-durability-test-3618909/)<!-- TECH:END -->
+ - [Google prepares to scrub Assistant in favor of Gemini from even more settings](https://www.androidauthority.com/hey-google-voice-match-assistant-branding-scrubbed-3618897/)
+ - [Narwal Black Friday: Enjoy massive discounts on Narwal’s latest robot vacuums and wet-and-dry handhelds](https://www.androidauthority.com/narwal-black-friday-2025-3612973/)
+ - [A look at New Save Collective, a group of gamers and activists roleplaying ICE raids in Fortnite and GTA 5 to prepare for real-world situations &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/251124/p3#a251124p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
