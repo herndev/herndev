@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge wants to fix Google’s ad tech monopoly before it’s too late](https://www.theverge.com/news/826796/google-ad-tech-closing-arguments)
- - [Anthropic finds that LLMs trained to &quot;reward hack&quot; by cheating on coding tasks show even more misaligned behavior, including sabotaging AI-safety research &lpar;Anthropic&rpar;](http://www.techmeme.com/251121/p28#a251121p28)
- - [T-Mobile Tuesdays may drop its coziest freebie yet](https://www.androidauthority.com/t-mobile-tuesday-blanket-freebie-3618772/)<!-- TECH:END -->
+ - [Major insurers have recently sought permission from US regulators to offer policies excluding liabilities tied to businesses deploying AI chatbots and agents &lpar;Financial Times&rpar;](http://www.techmeme.com/251123/p16#a251123p16)
+ - [About This Account reveals the scale of X’s foreign troll problem](https://www.theverge.com/news/827298/about-this-account-reveals-the-scale-of-xs-foreign-troll-problem)
+ - [Flexion, which is building a full autonomy stack for humanoid robots, raised a $50M Series A from DST Global Partners, NVentures, and others, after a $7M+ seed &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251123/p15#a251123p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
