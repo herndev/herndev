@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ubisoft says Tencent&#39;s €1.16B investment in Vantage Studios, set to reduce its debt, is complete, giving Tencent a 26% stake in Vantage and valuing it at €3.8B &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/251124/p4#a251124p4)
- - [Looks like OnePlus phones and smartwatches are experiencing some bad weather](https://www.androidauthority.com/oneplus-weather-app-issue-3618945/)
- - [21 Best Gifts for Coffee Lovers &lpar;2025&rpar;: Drips, Pours, and Shots](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2025/)<!-- TECH:END -->
+ - [Why college students prefer News Daddy over The New York Times](https://www.theverge.com/cs/features/818380/college-students-news-sources-tiktok-instagram-newsdaddy)
+ - [OpenAI confirms Andrea Vallone, the head of an OpenAI safety research team that works on ChatGPT&#39;s mental health responses, is set to leave at the end of 2025 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251124/p9#a251124p9)
+ - [The 5 Best Bread Makers for Homemade Loaves &lpar;2025&rpar;](https://www.wired.com/gallery/best-bread-makers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
