@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philips Hue from founding to now with George Yianni on HomeKit Insider](https://appleinsider.com/articles/25/11/24/philips-hue-from-founding-to-now-with-george-yianni-on-homekit-insider?utm_source=rss)
- - [Get ready for a foldable iPhone that costs as much as a 16-inch MacBook Pro](https://appleinsider.com/articles/25/11/24/get-ready-for-a-foldable-iphone-that-costs-as-much-as-a-16-inch-macbook-pro?utm_source=rss)
- - [Sources: Shopify salespeople engaged in a sales fraud scheme inflating deal values for over a year, leading to internal investigations in mid-2024 and firings &lpar;Aleksandra Sagan/The Logic&rpar;](http://www.techmeme.com/251124/p23#a251124p23)<!-- TECH:END -->
+ - [Aqara&amp;#8217;s $99 Wi-Fi smart lock is a good-looking budget option](https://www.theverge.com/news/827784/aqara-wifi-b50-smart-lock-lowes-budget-friendly)
+ - [Samsung leans into changing trends with its own TikTok Shop](https://www.androidauthority.com/samsung-tiktok-shop-3619044/)
+ - [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
