@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 is &#39;an inspiration&#39; for CD Projekt, but it&#39;s all-in on big open worlds: &#39;We are definitely not going to make a game like Larian did&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3-is-an-inspiration-for-cd-projekt-but-its-all-in-on-big-open-worlds-we-are-definitely-not-going-to-make-a-game-like-larian-did/)
- - [HP Went Full Liquidation on 17″ Laptop &lpar;i5, 32GB RAM, 1TB SSD&rpar;, 71% Off Turns $3K Into Pocket Change](https://kotaku.com/hp-went-full-liquidation-on-17-laptop-i5-32gb-ram-1tb-ssd-71-off-turns-3k-into-pocket-change-2000646751)
- - [Roborock Qrevo CurvX Drops to All-Time Low, 22,000Pa Beast With Auto Hot Water Cleaning Falls to Record Pricing](https://kotaku.com/roborock-qrevo-curvx-drops-to-all-time-low-22000pa-beast-with-auto-hot-water-cleaning-falls-to-record-pricing-2000646746)<!-- GAME:END -->
+ - [Welcome to Derry just revealed a character from It that&#39;s been under our nose the whole time](https://www.polygon.com/welcome-to-derry-episode-5-ingrid-mrs-kersh-madeleine-stowe/)
+ - [Two Point Museum lets you run wild in its biggest &lpar;and hairiest&rpar; DLC to date and you can sink your claws in for free this week](https://www.pcgamer.com/games/two-point-museum-lets-you-run-wild-in-its-biggest-and-hairiest-dlc-to-date-and-you-can-sink-your-claws-in-for-free-this-week/)
+ - [The $4,000 limited edition Asus ROG Matrix RTX 5090, rated to 800 W, is officially out and oh it&#39;s sold out already never mind](https://www.pcgamer.com/hardware/graphics-cards/the-usd4-000-limited-edition-asus-rog-matrix-rtx-5090-rated-to-800-w-is-officially-out-and-oh-its-sold-out-already-never-mind/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
