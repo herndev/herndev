@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why college students prefer News Daddy over The New York Times](https://www.theverge.com/cs/features/818380/college-students-news-sources-tiktok-instagram-newsdaddy)
- - [OpenAI confirms Andrea Vallone, the head of an OpenAI safety research team that works on ChatGPT&#39;s mental health responses, is set to leave at the end of 2025 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251124/p9#a251124p9)
- - [The 5 Best Bread Makers for Homemade Loaves &lpar;2025&rpar;](https://www.wired.com/gallery/best-bread-makers/)<!-- TECH:END -->
+ - [Game development diary: Planning failures and the fyre festival of game expos](https://appleinsider.com/articles/25/11/24/game-development-diary-planning-failures-and-the-fyre-festival-of-game-expos?utm_source=rss)
+ - [The future is now: TCL CSOT sets the benchmark for display technologies at DTC 2025](https://www.androidauthority.com/tcl-csot-dtc-2025-3618240/)
+ - [Internal documents: Amazon&#39;s data center operations total 900+ facilities in 50+ countries, including AWS colocation facilities, higher than commonly understood &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251124/p15#a251124p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
