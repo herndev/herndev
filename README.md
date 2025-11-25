@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Govee Christmas LED Lights Go for Peanuts, Holiday Decor Basically Comes Free Thanks to Exceptionally Low Black Friday Pricing](https://kotaku.com/light-your-outdoors-up-with-the-govee-christmas-lights-2-for-just-130-today-2000647131)
- - [This Balatro-inspired stock-trading roguelike marks the first time I&#39;ve ever screwed up in a deckbuilder by making my deck too good](https://www.pcgamer.com/games/roguelike/this-balatro-inspired-stock-trading-roguelike-marks-the-first-time-ive-ever-screwed-up-in-a-deckbuilder-by-making-my-deck-too-good/)
- - [Amazon Goes Final Clearance on Anker iPhone Charger, Basically Giving It Away for Free at This Point](https://kotaku.com/amazon-goes-final-clearance-on-anker-iphone-charger-basically-giving-it-away-for-free-at-this-point-2000647203)<!-- GAME:END -->
+ - [Quantic Dream&#39;s MOBA Spellcasters Chronicles is like playing an RTS League of Legends](https://www.polygon.com/spellcasters-chronicles-preview-quantic-dream-moba/)
+ - [Xbox November Update: Gaming Copilot Available on Mobile, Full Screen Experience Out Now, and More](https://news.xbox.com/en-us/2025/11/25/xbox-november-update-gaming-copilot-full-screen-experience/)
+ - [Steam&#39;s first Black Friday sale is really good](https://www.polygon.com/steam-black-friday-sale-what-to-buy-valve-dates-discount/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
