@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tile Mate 4-Pack Hits Record Low, iPhone and Android Users Get Four Trackers for One AirTag Money](https://kotaku.com/tile-mate-4-pack-hits-record-low-iphone-and-android-users-get-four-trackers-for-one-airtag-money-2000647050)
  - [Live-action Far Cry TV series starring It&#39;s Always Sunny&#39;s Rob Mac will mimic the games&#39; standalone format, with each season given &#39;a new setting following a new cast of characters&#39;](https://www.pcgamer.com/movies-tv/live-action-far-cry-tv-series-starring-its-always-sunnys-rob-mac-will-mimic-the-games-standalone-format-with-each-season-given-a-new-setting-following-a-new-cast-of-characters/)
- - [Amazon Sells eufy Solar Camera at Break-Even, 50% Off Means No Profit Just to Offload Stock](https://kotaku.com/amazon-sells-eufy-solar-camera-at-break-even-50-off-means-no-profit-just-to-offload-stock-2000647046)
- - [Cat God Ranch: Deck-Building Meets Animal Ranch Management](https://news.xbox.com/en-us/2025/11/24/cat-god-ranch-deck-building-ranch-management/)<!-- GAME:END -->
+ - [Amazon Sells eufy Solar Camera at Break-Even, 50% Off Means No Profit Just to Offload Stock](https://kotaku.com/amazon-sells-eufy-solar-camera-at-break-even-50-off-means-no-profit-just-to-offload-stock-2000647046)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
