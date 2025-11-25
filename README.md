@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poland probes Apple again over App Tracking Transparency rules](https://appleinsider.com/articles/25/11/25/poland-probes-apple-again-over-app-tracking-transparency-rules?utm_source=rss)
- - [Can you really improve game performance with a spoof emulator?](https://www.androidauthority.com/spoof-emulator-test-3618505/)
- - [9 Best Speakers for Kids &lpar;2025&rpar;: Smart, Bluetooth, and Offline Speakers](https://www.wired.com/gallery/best-kids-speakers/)<!-- TECH:END -->
+ - [One of our favorite Switch 2 controllers is 20 percent off right now](https://www.theverge.com/gadgets/827225/8bitdo-ultimate-2-bluetooth-controller-black-friday-deal-sale-2025)
+ - [Singapore orders block of iMessage scams that fake government addresses](https://appleinsider.com/articles/25/11/25/singapore-orders-block-of-imessage-scams-that-fake-government-addresses?utm_source=rss)
+ - [Black Friday 2025: The best deals on phones, wearables, and a lot more](https://www.androidauthority.com/best-deals-black-friday-2025-3616230/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
