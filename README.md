@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No comment](http://9gag.com/gag/aVv9q1O)
- - ⏩ [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
- - 👉 [South Park like interaction\u2026 Except it\u2019s not](http://9gag.com/gag/aryDO8K)<!-- MEMES:END -->
+ - 💣 [Lowcost cosplay](http://9gag.com/gag/a87vypV)
+ - ⏩ [Climber removes his harness to take a picture](http://9gag.com/gag/azxv80K)
+ - 👉 [Valve, the creator of Steam and iconic games like Half-Life, Dota 2, Counter-Strike, Portal, Left 4 Dead etc., generated $17 billion in revenue in 2025 with a workforce of roughly 336 employees, amounting to over $50 million in revenue per employee.](http://9gag.com/gag/abALzXv)<!-- MEMES:END -->
 
 ---
 
