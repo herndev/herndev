@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Young Suns, a Cozy New Life-sim in Space, Soars into Game Preview](https://news.xbox.com/en-us/2025/11/25/young-suns-game-preview-launch/)
- - [The first thing Bungie asked LucasFilm about its Star Wars-themed Destiny 2 expansion was: &quot;What is the bad version of this?&quot;](https://www.pcgamer.com/games/fps/the-first-thing-bungie-asked-lucasfilm-about-its-star-wars-themed-destiny-2-expansion-was-what-is-the-bad-version-of-this/)
- - [Knives Out 3 director Rian Johnson keeps raising his difficulty level](https://www.polygon.com/wake-up-dead-man-knives-out-director-rian-johnson-interview/)<!-- GAME:END -->
+ - [Despite Krafton ownership, Last Epoch dev won&#39;t charge for its first expansion and isn&#39;t pivoting to AI: &#39;To be clear, our development approach is not changing&#39;](https://www.pcgamer.com/games/rpg/despite-krafton-ownership-last-epoch-dev-wont-charge-for-its-first-expansion-and-isnt-pivoting-to-ai-to-be-clear-our-development-approach-is-not-changing/)
+ - [Elden Ring Nightreign&#39;s DLC Scholar class is cooler than it sounds](https://www.polygon.com/elden-ring-nightreign-forsaken-hollows-dlc-scholar-nightfarer-gameplay/)
+ - [After its &#39;make FPS great again&#39; controversy, Splitgate 2 is relaunching with a humbler tone: &#39;The goal is to grow over time, not aim for a massive splash on day 1&#39;](https://www.pcgamer.com/games/fps/after-its-make-fps-great-again-controversy-splitgate-2-is-relaunching-with-a-humbler-tone-the-goal-is-to-grow-over-time-not-aim-for-a-massive-splash-on-day-1/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
