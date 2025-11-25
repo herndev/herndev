@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our favorite ways to survive Thanksgiving](https://www.theverge.com/gadgets/824092/thanksgiving-food-tech-help-favorite)
- - [The geek&amp;#8217;s guide to running faster](https://www.theverge.com/podcast/828616/running-tech-gear-motion-smoothing-vergecast)
- - [TikTok Shop expands into luxury retail, offering items such as Hermes&#39; $11,000 handbags, primarily sold by secondhand resellers using AI to verify authenticity &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/251125/p15#a251125p15)<!-- TECH:END -->
+ - [Circle to Search now lets you have deeper conversations about what’s on your screen](https://www.androidauthority.com/circle-to-search-ai-mode-image-results-3619414/)
+ - [The Kodak Snapic A1 is a $99 film camera that makes double exposures easy](https://www.theverge.com/news/828648/reto-kodak-snapic-a1-35mm-film-camera-double-exposure)
+ - [Kraken launches a Mastercard-powered debit card with 1% cashback and multi-asset spending in the UK and EU as part of a global rollout of its Krak money app &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/251125/p16#a251125p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
