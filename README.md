@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not stop for a school bus.](http://9gag.com/gag/ajP3qz1)
- - ⏩ [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)
- - 👉 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)<!-- MEMES:END -->
+ - 💣 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
+ - ⏩ [A real Messi fan](http://9gag.com/gag/aNDGz6w)
+ - 👉 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)<!-- MEMES:END -->
 
 ---
 
