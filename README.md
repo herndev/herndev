@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of our favorite Switch 2 controllers is 20 percent off right now](https://www.theverge.com/gadgets/827225/8bitdo-ultimate-2-bluetooth-controller-black-friday-deal-sale-2025)
- - [Singapore orders block of iMessage scams that fake government addresses](https://appleinsider.com/articles/25/11/25/singapore-orders-block-of-imessage-scams-that-fake-government-addresses?utm_source=rss)
- - [Black Friday 2025: The best deals on phones, wearables, and a lot more](https://www.androidauthority.com/best-deals-black-friday-2025-3616230/)<!-- TECH:END -->
+ - [Our favorite ways to survive Thanksgiving](https://www.theverge.com/gadgets/824092/thanksgiving-food-tech-help-favorite)
+ - [The geek&amp;#8217;s guide to running faster](https://www.theverge.com/podcast/828616/running-tech-gear-motion-smoothing-vergecast)
+ - [TikTok Shop expands into luxury retail, offering items such as Hermes&#39; $11,000 handbags, primarily sold by secondhand resellers using AI to verify authenticity &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/251125/p15#a251125p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
