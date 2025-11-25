@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A real Messi fan](http://9gag.com/gag/aNDGz6w)
- - ⏩ [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
- - 👉 [Those puppies are adorable](http://9gag.com/gag/aYQv427)<!-- MEMES:END -->
+ - 💣 [Happy Tuesday......](http://9gag.com/gag/avyBObE)
+ - ⏩ [The lying truth](http://9gag.com/gag/an70jdn)
+ - 👉 [Hi nice to marry you](http://9gag.com/gag/aRB81mA)<!-- MEMES:END -->
 
 ---
 
