@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lowcost cosplay](http://9gag.com/gag/a87vypV)
- - ⏩ [Climber removes his harness to take a picture](http://9gag.com/gag/azxv80K)
- - 👉 [This Little Caesars employee is a legend](http://9gag.com/gag/aqyVbvL)<!-- MEMES:END -->
+ - 💣 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
+ - ⏩ [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
+ - 👉 [Those puppies are adorable](http://9gag.com/gag/aYQv427)<!-- MEMES:END -->
 
 ---
 
