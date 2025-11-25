@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Palworld levels up the violence with Ultrakill collab in December](https://www.polygon.com/palworld-ultrakill-collab-december/)
- - [Hulu is getting a Far Cry TV series from the creators of Alien: Earth and It’s Always Sunny in Philadelphia](https://www.polygon.com/far-cry-tv-series-hulu-alien-earth/)
- - [Microsoft spits in God&#39;s face with Xbox-style Crocs that cost $80 and the sum total of your dignity](https://www.pcgamer.com/gaming-industry/microsoft-spits-in-gods-face-with-xbox-style-crocs-that-cost-usd80-and-the-sum-total-of-your-dignity/)<!-- GAME:END -->
+ - [Lenovo Legion 9i Gen 10 review](https://www.pcgamer.com/hardware/gaming-laptops/lenovo-legion-9i-gen-10-review/)
+ - [Insta360 Shows No Mercy on X5, 360° 8K Action Cam Now Selling for Less Than Basic Action Cams](https://kotaku.com/insta360-shows-no-mercy-on-x5-360-8k-action-cam-now-selling-for-less-than-basic-action-cams-2000647178)
+ - [Dell Clears Out the 2025 Laptop at 80% Off as Remaining Stock Runs Low, Redragon Wireless Keyboard and Mouse Included](https://kotaku.com/amazon-shaves-a-whopping-80-off-the-15-inch-dell-inspiron-3530-but-the-discount-ends-soon-2000647081)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
