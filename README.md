@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chrome for Android could soon get a new layer of location privacy](https://www.androidauthority.com/chrome-for-android-approximate-location-for-individual-websites-3619276/)
  - [How to use Plex on Mac to create your own personal streaming service](https://appleinsider.com/articles/22/06/26/how-to-use-plex-on-mac-to-create-your-own-personal-streaming-service?utm_source=rss)
- - [Google is starting to bridge OpenAI&#39;s product moat, like with Gemini&#39;s &quot;dynamic view&quot; option, which converts a text answer into an interactive, visual output &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/251124/p50#a251124p50)
- - [Exclusive Black Friday MacBook Air, MacBook Pro &amp; Mac mini deals start at just $679](https://appleinsider.com/articles/25/11/25/exclusive-black-friday-macbook-air-macbook-pro-mac-mini-deals-start-at-just-679?utm_source=rss)<!-- TECH:END -->
+ - [Google is starting to bridge OpenAI&#39;s product moat, like with Gemini&#39;s &quot;dynamic view&quot; option, which converts a text answer into an interactive, visual output &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/251124/p50#a251124p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
