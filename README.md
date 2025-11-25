@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle to Search now lets you have deeper conversations about what’s on your screen](https://www.androidauthority.com/circle-to-search-ai-mode-image-results-3619414/)
- - [The Kodak Snapic A1 is a $99 film camera that makes double exposures easy](https://www.theverge.com/news/828648/reto-kodak-snapic-a1-35mm-film-camera-double-exposure)
- - [Kraken launches a Mastercard-powered debit card with 1% cashback and multi-asset spending in the UK and EU as part of a global rollout of its Krak money app &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/251125/p16#a251125p16)<!-- TECH:END -->
+ - [Polymarket says it received an amended US CFTC designation, letting it operate a prediction market in the US with a fully regulated exchange structure &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/251125/p19#a251125p19)
+ - [YouTube users are reporting that some common features have gone MIA](https://www.androidauthority.com/youtube-missing-dates-and-sub-tab-3619426/)
+ - [Cerrion, which develops AI video agents that detect and resolve production line issues in real time, raised an $18M Series A led by Creandum &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251125/p18#a251125p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
