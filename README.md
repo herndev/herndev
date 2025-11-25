@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Quantic Dream&#39;s MOBA Spellcasters Chronicles is like playing an RTS League of Legends](https://www.polygon.com/spellcasters-chronicles-preview-quantic-dream-moba/)
- - [Xbox November Update: Gaming Copilot Available on Mobile, Full Screen Experience Out Now, and More](https://news.xbox.com/en-us/2025/11/25/xbox-november-update-gaming-copilot-full-screen-experience/)
- - [Steam&#39;s first Black Friday sale is really good](https://www.polygon.com/steam-black-friday-sale-what-to-buy-valve-dates-discount/)<!-- GAME:END -->
+ - [Disney&#39;s Zootopia 2 tackles tough issues with humor and heart](https://www.polygon.com/zootopia-2-review-disney/)
+ - [Steam games are increasingly getting cheaper, data shows](https://www.polygon.com/steam-game-price-median-sales-console-aaa-data-trends-cheap/)
+ - [This Dog Heals Better Than Most Of My Marvel Rivals Teammates](https://kotaku.com/marvel-rivals-dog-healer-twitch-streamer-2000647271)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
