@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
- - ⏩ [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
- - 👉 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)<!-- MEMES:END -->
+ - 💣 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
+ - ⏩ [Wholesome](http://9gag.com/gag/a87v8je)
+ - 👉 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)<!-- MEMES:END -->
 
 ---
 
