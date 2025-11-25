@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
- - ⏩ [Wholesome](http://9gag.com/gag/a87v8je)
- - 👉 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)<!-- MEMES:END -->
+ - 💣 [Lowcost cosplay](http://9gag.com/gag/a87vypV)
+ - ⏩ [Climber removes his harness to take a picture](http://9gag.com/gag/azxv80K)
+ - 👉 [This Little Caesars employee is a legend](http://9gag.com/gag/aqyVbvL)<!-- MEMES:END -->
 
 ---
 
