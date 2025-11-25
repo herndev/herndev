@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Most of the innovation in gaming has happened on PC&#39; says EVE Online studio boss: &#39;When I love a game, it&#39;s so deeply PC&#39;](https://www.pcgamer.com/games/mmo/most-of-the-innovation-in-gaming-has-happened-on-pc-says-eve-online-studio-boss-when-i-love-a-game-its-so-deeply-pc/)
- - [Soulless Robot Olaf Will Haunt Disney Theme Park In Search Of Friendship](https://kotaku.com/frozen-olaf-character-roams-disney-parks-2026-2000647055)
- - [Kotaku Asks: What’s Your Perfect Thanksgiving Plate?](https://kotaku.com/whats-the-best-thanksgiving-food-2000647025)<!-- GAME:END -->
+ - [Live-action Far Cry TV series starring It&#39;s Always Sunny&#39;s Rob Mac will mimic the games&#39; standalone format, with each season given &#39;a new setting following a new cast of characters&#39;](https://www.pcgamer.com/movies-tv/live-action-far-cry-tv-series-starring-its-always-sunnys-rob-mac-will-mimic-the-games-standalone-format-with-each-season-given-a-new-setting-following-a-new-cast-of-characters/)
+ - [Amazon Sells eufy Solar Camera at Break-Even, 50% Off Means No Profit Just to Offload Stock](https://kotaku.com/amazon-sells-eufy-solar-camera-at-break-even-50-off-means-no-profit-just-to-offload-stock-2000647046)
+ - [Cat God Ranch: Deck-Building Meets Animal Ranch Management](https://news.xbox.com/en-us/2025/11/24/cat-god-ranch-deck-building-ranch-management/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
