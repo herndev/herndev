@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lenovo Legion 9i Gen 10 review](https://www.pcgamer.com/hardware/gaming-laptops/lenovo-legion-9i-gen-10-review/)
- - [Insta360 Shows No Mercy on X5, 360° 8K Action Cam Now Selling for Less Than Basic Action Cams](https://kotaku.com/insta360-shows-no-mercy-on-x5-360-8k-action-cam-now-selling-for-less-than-basic-action-cams-2000647178)
- - [Dell Clears Out the 2025 Laptop at 80% Off as Remaining Stock Runs Low, Redragon Wireless Keyboard and Mouse Included](https://kotaku.com/amazon-shaves-a-whopping-80-off-the-15-inch-dell-inspiron-3530-but-the-discount-ends-soon-2000647081)<!-- GAME:END -->
+ - [New ROG Xbox Ally Updates: Default Game Profiles Available in Preview](https://news.xbox.com/en-us/2025/11/25/new-rog-xbox-ally-updates-default-game-profiles-available-in-preview/)
+ - [Magic: The Gathering&#39;s original art director says one of its most famous expansions was a protest against the Satanic Panic: &#39;I was getting really tired of the judgmental, holier-than-thou attitude coming from a lot of conservative so-called Christians&#39;](https://www.pcgamer.com/games/card-games/magic-the-gatherings-original-art-director-says-one-of-its-most-famous-expansions-was-a-protest-against-the-satanic-panic-i-was-getting-really-tired-of-the-judgmental-holier-than-thou-attitude-coming-from-a-lot-of-conservative-so-called-christians/)
+ - [Game Awards 2025: All Game of the Year nominees and predictions](https://www.polygon.com/awards/546327/game-of-the-year-game-awards-2025-frontrunners/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
