@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome is bringing another of its best desktop tab tools to Android](https://www.androidauthority.com/chrome-tab-pin-android-3619211/)
- - [President Trump signs an EO establishing the &quot;Genesis Mission&quot; to boost AI research and shorten discovery timelines &quot;from years to days or even hours&quot; &lpar;Axios&rpar;](http://www.techmeme.com/251124/p40#a251124p40)
- - [T-Mobile and Verizon employees are up in arms over upcoming changes](https://www.androidauthority.com/t-mobile-verizon-employees-3618619/)<!-- TECH:END -->
+ - [UN climate negotiations burned up and then fizzled out](https://www.theverge.com/report/828270/un-climate-change-negotiations-fizzle)
+ - [Epson’s Bose-backed Google TV projectors hit their best prices yet](https://www.androidauthority.com/epson-lifestudio-projectors-black-friday-3619165/)
+ - [Pro-AI super PAC Leading the Future launches a $10M media campaign to push Congress to craft a national AI policy that will override a patchwork of state laws &lpar;CNBC&rpar;](http://www.techmeme.com/251124/p45#a251124p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
