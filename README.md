@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ewoks: The Battle for Endor proves Star Wars always had a junky TV side](https://www.polygon.com/the-ewoks-battle-for-endor-at-40-star-wars/)
- - [Best X9 Maverick loadout in Black Ops 7](https://www.pcgamer.com/games/call-of-duty/black-ops-7-x9-maverick-loadout/)
- - [Despite Krafton ownership, Last Epoch dev won&#39;t charge for its first expansion and isn&#39;t pivoting to AI: &#39;To be clear, our development approach is not changing&#39;](https://www.pcgamer.com/games/rpg/despite-krafton-ownership-last-epoch-dev-wont-charge-for-its-first-expansion-and-isnt-pivoting-to-ai-to-be-clear-our-development-approach-is-not-changing/)<!-- GAME:END -->
+ - [Dispatch’s Best Scene Almost Looked A Lot Different](https://kotaku.com/dispatch-episode-5-bar-fight-scene-making-of-song-prism-2000647373)
+ - [The Battlefield 6 free trial is live, and if you&#39;re new to the scene EA has a detailed guide to get you started](https://www.pcgamer.com/games/fps/the-battlefield-6-free-trial-is-live-and-if-youre-new-to-the-scene-ea-has-a-detailed-guide-to-get-you-started/)
+ - [Enormous mod Elden Ring Reforged refreshes and rebalances every inch of the game, works with Seamless Co-op, and even throws in a Crackdown orb-style scavenger hunt](https://www.pcgamer.com/games/rpg/enormous-mod-elden-ring-reforged-refreshes-and-rebalances-every-inch-of-the-game-works-with-seamless-co-op-and-even-throws-in-a-crackdown-orb-style-scavenger-hunt/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
