@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New ROG Xbox Ally Updates: Default Game Profiles Available in Preview](https://news.xbox.com/en-us/2025/11/25/new-rog-xbox-ally-updates-default-game-profiles-available-in-preview/)
- - [Magic: The Gathering&#39;s original art director says one of its most famous expansions was a protest against the Satanic Panic: &#39;I was getting really tired of the judgmental, holier-than-thou attitude coming from a lot of conservative so-called Christians&#39;](https://www.pcgamer.com/games/card-games/magic-the-gatherings-original-art-director-says-one-of-its-most-famous-expansions-was-a-protest-against-the-satanic-panic-i-was-getting-really-tired-of-the-judgmental-holier-than-thou-attitude-coming-from-a-lot-of-conservative-so-called-christians/)
- - [Game Awards 2025: All Game of the Year nominees and predictions](https://www.polygon.com/awards/546327/game-of-the-year-game-awards-2025-frontrunners/)<!-- GAME:END -->
+ - [Govee Christmas LED Lights Go for Peanuts, Holiday Decor Basically Comes Free Thanks to Exceptionally Low Black Friday Pricing](https://kotaku.com/light-your-outdoors-up-with-the-govee-christmas-lights-2-for-just-130-today-2000647131)
+ - [This Balatro-inspired stock-trading roguelike marks the first time I&#39;ve ever screwed up in a deckbuilder by making my deck too good](https://www.pcgamer.com/games/roguelike/this-balatro-inspired-stock-trading-roguelike-marks-the-first-time-ive-ever-screwed-up-in-a-deckbuilder-by-making-my-deck-too-good/)
+ - [Amazon Goes Final Clearance on Anker iPhone Charger, Basically Giving It Away for Free at This Point](https://kotaku.com/amazon-goes-final-clearance-on-anker-iphone-charger-basically-giving-it-away-for-free-at-this-point-2000647203)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
