@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 Apple Vision Pro vs. Steam Frame: Spatial computing vs. VR gaming](https://appleinsider.com/inside/apple-vision-pro/vs/m5-apple-vision-pro-vs-steam-frame-spatial-computing-vs-vr-gaming?utm_source=rss)
- - [MLB&#39;s Angels could face massive damages because DEA won&#39;t return an iPad](https://appleinsider.com/articles/25/11/25/mlbs-angels-could-face-massive-damages-because-dea-wont-return-an-ipad?utm_source=rss)
- - [Warner Music Group partners with Suno to offer AI likenesses of its artists](https://www.theverge.com/news/829189/warner-music-group-suno-ai-licensing-deal)<!-- TECH:END -->
+ - [Grab the Google Pixel 10 Pro at its lowest price ever](https://www.androidauthority.com/google-pixel-10-pro-deal-2-3619478/)
+ - [HP reports Q4 revenue up 4% YoY to $14.6B, forecasts FY 2026 profit below est., and plans to cut 4,000-6,000 jobs through FY 2028; HPQ drops 5%+ after hours &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251125/p30#a251125p30)
+ - [The best cases for iPhone 17 Pro &amp; iPhone 17 Pro Max](https://appleinsider.com/articles/25/11/25/the-best-cases-for-iphone-17-pro-iphone-17-pro-max?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
