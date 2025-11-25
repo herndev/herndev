@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s One UI 8.5 beta finally surfaces for Galaxy S25 series](https://www.androidauthority.com/one-ui-8-5-beta-galaxy-s25-test-build-3619351/)
  - [YouTube is testing a custom feed that lets you finally fix your messy home page](https://www.androidauthority.com/youtube-custom-feed-3619342/)
- - [Looks like OnePlus phones and smartwatches are experiencing some bad weather &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/oneplus-weather-app-issue-3618945/)
- - [Poland&#39;s antitrust office UOKiK is probing whether Apple&#39;s ATT limits third-party data collection in mobile ads while giving Apple&#39;s own ads service an edge &lpar;Anna Wlodarczak-Semczuk/Reuters&rpar;](http://www.techmeme.com/251125/p5#a251125p5)<!-- TECH:END -->
+ - [Looks like OnePlus phones and smartwatches are experiencing some bad weather &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/oneplus-weather-app-issue-3618945/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
