@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dispatch’s Best Scene Almost Looked A Lot Different](https://kotaku.com/dispatch-episode-5-bar-fight-scene-making-of-song-prism-2000647373)
- - [The Battlefield 6 free trial is live, and if you&#39;re new to the scene EA has a detailed guide to get you started](https://www.pcgamer.com/games/fps/the-battlefield-6-free-trial-is-live-and-if-youre-new-to-the-scene-ea-has-a-detailed-guide-to-get-you-started/)
- - [Enormous mod Elden Ring Reforged refreshes and rebalances every inch of the game, works with Seamless Co-op, and even throws in a Crackdown orb-style scavenger hunt](https://www.pcgamer.com/games/rpg/enormous-mod-elden-ring-reforged-refreshes-and-rebalances-every-inch-of-the-game-works-with-seamless-co-op-and-even-throws-in-a-crackdown-orb-style-scavenger-hunt/)<!-- GAME:END -->
+ - [GTA 6, Algorithms, And AI Are Colliding In The Worst Way](https://kotaku.com/gta-6-trailer-leak-fake-ai-youtube-google-2000647395)
+ - [SanDisk Makes Zero-Profit Play on 2TB SSD, Flagship Storage Drops to Pennies on Amazon](https://kotaku.com/sandisk-makes-zero-profit-play-on-2tb-ssd-flagship-storage-drops-to-pennies-on-amazon-2000647292)
+ - [Every Battlefield 6 Map Ranked From Worst To Best](https://kotaku.com/every-battlefield-6-map-ranked-from-worst-to-best-2000647370)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
