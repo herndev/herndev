@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
- - ⏩ [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
- - 👉 [Those puppies are adorable](http://9gag.com/gag/aYQv427)<!-- MEMES:END -->
+ - 💣 [He said ‘I do’ but his handshake said ‘nice to meet you’](https://www.reddit.com/r/funny/comments/1p6g47n/he_said_i_do_but_his_handshake_said_nice_to_meet/)
+ - ⏩ [Italian man ‘dressed as dead mother in order to claim her pension’](https://www.reddit.com/r/funny/comments/1p6g3hy/italian_man_dressed_as_dead_mother_in_order_to/)
+ - 👉 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)<!-- MEMES:END -->
 
 ---
 
