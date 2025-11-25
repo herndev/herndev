@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)
- - ⏩ [Helping a friend out](http://9gag.com/gag/agmpX9r)
- - 👉 [Clean](http://9gag.com/gag/a34zQEr)<!-- MEMES:END -->
+ - 💣 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
+ - ⏩ [Those puppies are adorable](http://9gag.com/gag/aYQv427)
+ - 👉 [Man of culture](http://9gag.com/gag/aGyreMz)<!-- MEMES:END -->
 
 ---
 
