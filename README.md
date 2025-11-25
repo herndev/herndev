@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab the Google Pixel 10 Pro at its lowest price ever](https://www.androidauthority.com/google-pixel-10-pro-deal-2-3619478/)
- - [HP reports Q4 revenue up 4% YoY to $14.6B, forecasts FY 2026 profit below est., and plans to cut 4,000-6,000 jobs through FY 2028; HPQ drops 5%+ after hours &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251125/p30#a251125p30)
- - [The best cases for iPhone 17 Pro &amp; iPhone 17 Pro Max](https://appleinsider.com/articles/25/11/25/the-best-cases-for-iphone-17-pro-iphone-17-pro-max?utm_source=rss)<!-- TECH:END -->
+ - [Character.AI launches Stories, which lets users create interactive fiction and is the company&#39;s &quot;first new format created specifically&quot; for users under 18 &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/251125/p31#a251125p31)
+ - [Black Friday streaming deals slash Disney Plus, Max, Hulu, Paramount Plus, Apple TV to as low as $2.99/mo](https://appleinsider.com/articles/25/11/24/black-friday-streaming-deals-slash-disney-plus-max-hulu-paramount-plus-apple-tv-to-as-low-as-299mo?utm_source=rss)
+ - [Fubo Loses NBCUniversal Channels, Putting Your NBA Games in Jeopardy](https://www.cnet.com/tech/services-and-software/fubo-loses-nbcuniversal-channels-putting-your-nba-games-in-jeopardy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
