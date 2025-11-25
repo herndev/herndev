@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polymarket says it received an amended US CFTC designation, letting it operate a prediction market in the US with a fully regulated exchange structure &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/251125/p19#a251125p19)
- - [YouTube users are reporting that some common features have gone MIA](https://www.androidauthority.com/youtube-missing-dates-and-sub-tab-3619426/)
- - [Cerrion, which develops AI video agents that detect and resolve production line issues in real time, raised an $18M Series A led by Creandum &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251125/p18#a251125p18)<!-- TECH:END -->
+ - [Paxos acquires Fordefi, a New York-based startup that helps customers store their digital assets, for $100M+; PitchBook: Fordefi was last valued at $83M &lpar;Fortune&rpar;](http://www.techmeme.com/251125/p22#a251125p22)
+ - [Q&amp;A with Ilya Sutskever about model jaggedness, why we are moving beyond the &quot;age of scaling&quot;, SSI&#39;s plan to straight-shot superintelligence, AGI, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/251125/p21#a251125p21)
+ - [Apple TV&#39;s &#39;The Hunt&#39; may have been pulled because of plagarism](https://appleinsider.com/articles/25/11/25/apple-tvs-the-hunt-may-have-been-pulled-because-of-plagarism?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
