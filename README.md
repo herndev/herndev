@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC files a trade secret lawsuit against Intel executive Lo Wen-jen, alleging a high likelihood he leaked secrets after a two-decade career at TSMC &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/251125/p6#a251125p6)
- - [11 Best Down Comforters &lpar;2025&rpar;, Tested in Our Homes in Every Season](https://www.wired.com/gallery/best-down-comforters/)
- - [Don’t buy a new Qi2 charger if you have these Pixel phones](https://www.androidauthority.com/dont-buy-qi2-charger-for-older-pixels-3617408/)<!-- TECH:END -->
+ - [Large language mistake](https://www.theverge.com/ai-artificial-intelligence/827820/large-language-models-ai-intelligence-neuroscience-problems)
+ - [A look at how tech executives use &quot;delay, deny, and deflect&quot; when pressed on user safety and what it means for journalism, as shame loses power over public life &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/251125/p11#a251125p11)
+ - [The Best Mushroom Coffee, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-mushroom-coffee/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
