@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The thrills of reeling in a fish](http://9gag.com/gag/aZZ4meV)
- - ⏩ [A real Messi fan](http://9gag.com/gag/aNDGz6w)
- - 👉 [Those puppies are adorable](http://9gag.com/gag/aYQv427)<!-- MEMES:END -->
+ - 💣 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)
+ - ⏩ [Helping a friend out](http://9gag.com/gag/agmpX9r)
+ - 👉 [Clean](http://9gag.com/gag/a34zQEr)<!-- MEMES:END -->
 
 ---
 
