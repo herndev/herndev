@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s November 21 labor law has granted legal status to millions of gig workers, but benefits are unclear and access to social security remains elusive &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251125/p2#a251125p2)
- - [Internal memo: Amazon asks engineers to use its in-house AI coding assistant Kiro over third-party tools like Cursor, aiming to gather feedback for improvement &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/251125/p1#a251125p1)
- - [Spotify Wrapped 2025 page goes live, could drop as early as next week!](https://www.androidauthority.com/spotify-wrapped-2025-release-teaser-3619284/)<!-- TECH:END -->
+ - [20% Off LG Promo Code &amp; Coupons | November 2025](https://www.wired.com/story/lg-promo-code/)
+ - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)
+ - [India&#39;s November 21 labor law has granted legal status to millions of gig workers, but benefits are unclear and access to social security remains elusive &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251125/p2#a251125p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
