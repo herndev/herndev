@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
- - ⏩ [Those puppies are adorable](http://9gag.com/gag/aYQv427)
- - 👉 [Man of culture](http://9gag.com/gag/aGyreMz)<!-- MEMES:END -->
+ - 💣 [To be worse than...](http://9gag.com/gag/aPAV9LR)
+ - ⏩ [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
+ - 👉 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)<!-- MEMES:END -->
 
 ---
 
