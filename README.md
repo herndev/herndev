@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paxos acquires Fordefi, a New York-based startup that helps customers store their digital assets, for $100M+; PitchBook: Fordefi was last valued at $83M &lpar;Fortune&rpar;](http://www.techmeme.com/251125/p22#a251125p22)
- - [Q&amp;A with Ilya Sutskever about model jaggedness, why we are moving beyond the &quot;age of scaling&quot;, SSI&#39;s plan to straight-shot superintelligence, AGI, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/251125/p21#a251125p21)
- - [Apple TV&#39;s &#39;The Hunt&#39; may have been pulled because of plagarism](https://appleinsider.com/articles/25/11/25/apple-tvs-the-hunt-may-have-been-pulled-because-of-plagarism?utm_source=rss)<!-- TECH:END -->
+ - [Families of October 7 victims sue Binance and Changpeng Zhao in US federal court, alleging Binance facilitated millions in payments to Hamas after October 7 &lpar;Financial Times&rpar;](http://www.techmeme.com/251125/p24#a251125p24)
+ - [Alienware Aurora Gaming Desktop Review: Great Value](https://www.wired.com/review/alienware-aurora-gaming-desktop/)
+ - [Wyze’s new security camera watches your yard from inside your home](https://www.theverge.com/news/829005/wyze-window-security-cam-hd-enhanced-night-vision)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
