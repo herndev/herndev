@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)
- - ⏩ [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
+ - 💣 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
+ - ⏩ [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
  - 👉 [Those puppies are adorable](http://9gag.com/gag/aYQv427)<!-- MEMES:END -->
 
 ---
