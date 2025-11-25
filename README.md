@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at NY&#39;s RAISE Act, requiring AI companies to publish safety protocols and disclose serious incidents, as its co-sponsor is targeted by a pro-AI super PAC &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251125/p4#a251125p4)
- - [A job listing shows Google is developing a new Android-based &quot;Aluminium OS&quot; that is &quot;built with AI at the core&quot;, potentially as a ChromeOS replacement for PCs &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/251125/p3#a251125p3)
- - [Theragun Alternatives: All the Best Budget Massage Guns You Can Buy in 2025](https://www.cnet.com/health/fitness/best-budget-massage-guns/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube is testing a custom feed that lets you finally fix your messy home page](https://www.androidauthority.com/youtube-custom-feed-3619342/)
+ - [Looks like OnePlus phones and smartwatches are experiencing some bad weather &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/oneplus-weather-app-issue-3618945/)
+ - [Poland&#39;s antitrust office UOKiK is probing whether Apple&#39;s ATT limits third-party data collection in mobile ads while giving Apple&#39;s own ads service an edge &lpar;Anna Wlodarczak-Semczuk/Reuters&rpar;](http://www.techmeme.com/251125/p5#a251125p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
