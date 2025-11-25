@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Large language mistake](https://www.theverge.com/ai-artificial-intelligence/827820/large-language-models-ai-intelligence-neuroscience-problems)
- - [A look at how tech executives use &quot;delay, deny, and deflect&quot; when pressed on user safety and what it means for journalism, as shame loses power over public life &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/251125/p11#a251125p11)
- - [The Best Mushroom Coffee, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-mushroom-coffee/)<!-- TECH:END -->
+ - [Poland probes Apple again over App Tracking Transparency rules](https://appleinsider.com/articles/25/11/25/poland-probes-apple-again-over-app-tracking-transparency-rules?utm_source=rss)
+ - [Can you really improve game performance with a spoof emulator?](https://www.androidauthority.com/spoof-emulator-test-3618505/)
+ - [9 Best Speakers for Kids &lpar;2025&rpar;: Smart, Bluetooth, and Offline Speakers](https://www.wired.com/gallery/best-kids-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
