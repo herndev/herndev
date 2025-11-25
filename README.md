@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy Tuesday......](http://9gag.com/gag/avyBObE)
- - ⏩ [The lying truth](http://9gag.com/gag/an70jdn)
- - 👉 [Hi nice to marry you](http://9gag.com/gag/aRB81mA)<!-- MEMES:END -->
+ - 💣 [The thrills of reeling in a fish](http://9gag.com/gag/aZZ4meV)
+ - ⏩ [A real Messi fan](http://9gag.com/gag/aNDGz6w)
+ - 👉 [Those puppies are adorable](http://9gag.com/gag/aYQv427)<!-- MEMES:END -->
 
 ---
 
