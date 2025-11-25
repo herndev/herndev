@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s One UI 8.5 beta finally surfaces for Galaxy S25 series](https://www.androidauthority.com/one-ui-8-5-beta-galaxy-s25-test-build-3619351/)
- - [YouTube is testing a custom feed that lets you finally fix your messy home page](https://www.androidauthority.com/youtube-custom-feed-3619342/)
- - [Looks like OnePlus phones and smartwatches are experiencing some bad weather &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/oneplus-weather-app-issue-3618945/)<!-- TECH:END -->
+ - [TSMC files a trade secret lawsuit against Intel executive Lo Wen-jen, alleging a high likelihood he leaked secrets after a two-decade career at TSMC &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/251125/p6#a251125p6)
+ - [11 Best Down Comforters &lpar;2025&rpar;, Tested in Our Homes in Every Season](https://www.wired.com/gallery/best-down-comforters/)
+ - [Don’t buy a new Qi2 charger if you have these Pixel phones](https://www.androidauthority.com/dont-buy-qi2-charger-for-older-pixels-3617408/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
