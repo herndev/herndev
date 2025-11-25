@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UN climate negotiations burned up and then fizzled out](https://www.theverge.com/report/828270/un-climate-change-negotiations-fizzle)
- - [Epson’s Bose-backed Google TV projectors hit their best prices yet](https://www.androidauthority.com/epson-lifestudio-projectors-black-friday-3619165/)
- - [Pro-AI super PAC Leading the Future launches a $10M media campaign to push Congress to craft a national AI policy that will override a patchwork of state laws &lpar;CNBC&rpar;](http://www.techmeme.com/251124/p45#a251124p45)<!-- TECH:END -->
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [Investors have pulled $3.5B from US-listed bitcoin ETFs so far in November, almost equaling the previous monthly record for outflows of $3.6B set in February &lpar;Bloomberg&rpar;](http://www.techmeme.com/251124/p48#a251124p48)
+ - [SmartWings smart roller shades review: bring in natural light to your Apple Home](https://appleinsider.com/articles/25/11/25/smartwings-smart-roller-shades-review-bring-in-natural-light-to-your-apple-home?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
