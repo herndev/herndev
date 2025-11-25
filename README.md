@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A real Messi fan](http://9gag.com/gag/aNDGz6w)
- - ⏩ [Those puppies are adorable](http://9gag.com/gag/aYQv427)
- - 👉 [To be worse than...](http://9gag.com/gag/aPAV9LR)<!-- MEMES:END -->
+ - 💣 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
+ - ⏩ [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
+ - 👉 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)<!-- MEMES:END -->
 
 ---
 
