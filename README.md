@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney&#39;s Zootopia 2 tackles tough issues with humor and heart](https://www.polygon.com/zootopia-2-review-disney/)
- - [Steam games are increasingly getting cheaper, data shows](https://www.polygon.com/steam-game-price-median-sales-console-aaa-data-trends-cheap/)
- - [This Dog Heals Better Than Most Of My Marvel Rivals Teammates](https://kotaku.com/marvel-rivals-dog-healer-twitch-streamer-2000647271)<!-- GAME:END -->
+ - [Step Inside a Horror Experience That Knows Your Fears in A.I.L.A, Out Today](https://news.xbox.com/en-us/2025/11/25/step-inside-a-horror-experience-that-knows-your-fears-in-a-i-l-a-out-today/)
+ - [Steam’s Black Friday Sale Features A Lot Of Great 2025 Games You Still Don’t Have Time To Play](https://kotaku.com/steams-first-black-friday-sale-best-biggest-deals-new-games-battlefield-borderlands-2000647275)
+ - [Wicked: For Good Is Taking The Popcorn Bucket Craze Too Damn Far](https://kotaku.com/wicked-for-good-popcorn-buckets-theaters-music-box-song-2000647297)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
