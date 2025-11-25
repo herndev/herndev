@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lowcost cosplay](http://9gag.com/gag/a87vypV)
- - ⏩ [Climber removes his harness to take a picture](http://9gag.com/gag/azxv80K)
- - 👉 [Little wisdom](http://9gag.com/gag/adBW7ZV)<!-- MEMES:END -->
+ - 💣 [No comment](http://9gag.com/gag/aVv9q1O)
+ - ⏩ [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
+ - 👉 [South Park like interaction\u2026 Except it\u2019s not](http://9gag.com/gag/aryDO8K)<!-- MEMES:END -->
 
 ---
 
