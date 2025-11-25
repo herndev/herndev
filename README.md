@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warner Music and AI music generator Suno strike a deal, settling previous litigation; Suno will launch licensed AI models and will acquire WMG&#39;s Songkick &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/251125/p25#a251125p25)
- - [Black Friday Brings A Truly Great iPad Deal](https://www.wired.com/story/apple-ipad-black-friday-deal-2025/)
- - [The Motorola Razr Ultra just got even cheaper, hitting a new record-low price!](https://www.androidauthority.com/motorola-razr-ultra-deal-5-3619480/)<!-- TECH:END -->
+ - [M5 Apple Vision Pro vs. Steam Frame: Spatial computing vs. VR gaming](https://appleinsider.com/inside/apple-vision-pro/vs/m5-apple-vision-pro-vs-steam-frame-spatial-computing-vs-vr-gaming?utm_source=rss)
+ - [MLB&#39;s Angels could face massive damages because DEA won&#39;t return an iPad](https://appleinsider.com/articles/25/11/25/mlbs-angels-could-face-massive-damages-because-dea-wont-return-an-ipad?utm_source=rss)
+ - [Warner Music Group partners with Suno to offer AI likenesses of its artists](https://www.theverge.com/news/829189/warner-music-group-suno-ai-licensing-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
