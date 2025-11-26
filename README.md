@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to become number one smartphone maker globally through 2029](https://appleinsider.com/articles/25/11/26/apple-to-become-number-one-smartphone-maker-globally-through-2029?utm_source=rss)
- - [ChatGPT’s Voice Mode moves into chats for faster, more natural conversations](https://www.androidauthority.com/chatgpt-voice-mode-in-chat-3619633/)
- - [Charm.io: TikTok Shop reached $10B+ in US sales across 600K creators between January and October, up from $5B YoY; global sales are on par with eBay&#39;s &lpar;Emmett Lindner/New York Times&rpar;](http://www.techmeme.com/251125/p38#a251125p38)<!-- TECH:END -->
+ - [Aggressive traders on Robinhood, whose stock has more than tripled in 2025, are central to the company&#39;s success, as critics liken the environment to a casino &lpar;Hannah Erin Lang/Wall Street Journal&rpar;](http://www.techmeme.com/251126/p3#a251126p3)
+ - [As Microsoft accelerates its AI buildout in rural Wisconsin, one community&#39;s vocal opposition led the company to withdraw plans for a proposed data center site &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251126/p2#a251126p2)
+ - [MIT and Hugging Face study: the share of downloads of Chinese-made open AI models rose to 17% in the past year, surpassing US developers&#39; 15.8% share, a first &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/251126/p1#a251126p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
