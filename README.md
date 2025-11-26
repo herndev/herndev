@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First there was nothing, then there was Hoto and Fanttik](https://www.theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok)
- - [In recent months, DDR4 and DDR5 RAM and SSD prices surged dramatically due to an ongoing AI chip shortage and panic buying; some RAM kits now cost 3x as much &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/251126/p16#a251126p16)
- - [Google Contacts’ Expressive redesign may have an annoying drawback](https://www.androidauthority.com/google-contacts-vcf-sharing-material-expressive-3619722/)<!-- TECH:END -->
+ - [iPad mini with OLED expected to arrive by the end of 2026](https://appleinsider.com/articles/25/11/26/ipad-mini-with-oled-expected-to-arrive-by-the-end-of-2026?utm_source=rss)
+ - [ChatGPT and Copilot are being booted out of WhatsApp](https://www.theverge.com/news/829808/chatgpt-copilot-ai-llm-leaving-whatsapp-meta)
+ - [12 Best Computer Monitors &lpar;2025&rpar;: Budget, OLED, 4K, and More](https://www.wired.com/gallery/best-computer-monitors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
