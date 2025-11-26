@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite Battlefield 6&#39;s server browser utterly failing at its one job, good things are happening in Portal](https://www.pcgamer.com/games/fps/despite-battlefield-6s-server-browser-utterly-failing-at-its-one-job-good-things-are-happening-in-portal/)
- - [DJI Lost Its Mind on Mic Mini, Premium Wireless Transmitter Crashes to All-Time Low on Amazon](https://kotaku.com/dji-lost-its-mind-on-mic-mini-premium-wireless-transmitter-crashes-to-all-time-low-on-amazon-2000647310)
- - [Seagate 22TB Hard Drive Cut 55% Off, Giant Storage Cheaper Than Tiny 4TB Budget Drives](https://kotaku.com/seagate-22tb-hard-drive-cut-55-off-giant-storage-cheaper-than-tiny-4tb-budget-drives-2000647391)<!-- GAME:END -->
+ - [Samsung T7 SSD Goes for Pocket Change Now, 2TB Drive Selling 68% Off Original Price](https://kotaku.com/samsung-t7-ssd-goes-for-pocket-change-now-2tb-drive-selling-68-off-original-price-2000647374)
+ - [Amazon Offloads 65W 3-Port Block Charger, 2-Pack Selling for 4x Cheaper Than One Apple Charger](https://kotaku.com/amazon-offloads-65w-3-port-block-charger-2-pack-selling-for-4x-cheaper-than-one-apple-charger-2000647316)
+ - [Sony Goes Zero-Profit on WH-1000XM5, 2x Cheaper Than AirPods Max and Bose](https://kotaku.com/sony-goes-zero-profit-on-wh-1000xm5-2x-cheaper-than-airpods-max-and-bose-2000647400)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
