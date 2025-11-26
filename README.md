@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’re buying a Frame TV? It’s okay to cheap out a little](https://www.theverge.com/tech/829002/youre-buying-a-frame-tv-its-okay-to-cheap-out-a-little)
- - [Forget Aluminium, is Android ready to lead Google’s PC push as is?](https://www.androidauthority.com/aluminium-android-pc-open-thread-3619832/)
- - [iPad mini with OLED expected to arrive by the end of 2026](https://appleinsider.com/articles/25/11/26/ipad-mini-with-oled-expected-to-arrive-by-the-end-of-2026?utm_source=rss)<!-- TECH:END -->
+ - [Spotify’s new playlist experiment takes a page out of the IFTTT playbook](https://www.androidauthority.com/spotify-experiment-prompt-playlist-3619796/)
+ - [Apple&#39;s 1976 formation papers could fetch $4 million at auction](https://appleinsider.com/articles/25/11/26/apples-1976-formation-papers-could-fetch-4-million-at-auction?utm_source=rss)
+ - [The EU says its regulators asked Shein for documents on measures to prevent the exposure of minors to inappropriate content and the circulation of illegal items &lpar;Jenny Che/Bloomberg&rpar;](http://www.techmeme.com/251126/p21#a251126p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
