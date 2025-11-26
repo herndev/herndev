@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU Parliament backs a report that sets a 16+ age limit for accessing social media without parental consent and holds CEOs personally liable for violations &lpar;Eliza Gkritsi/Politico&rpar;](http://www.techmeme.com/251126/p26#a251126p26)
- - [Portable and powerful: Razer Orochi V2 mouse hits sub-$30 for Black Friday](https://www.androidauthority.com/razer-orochi-v2-mouse-deal-3619916/)
- - [Italy&#39;s competition regulator says it is scrutinizing a Meta policy excluding rival AI chatbots from WhatsApp, broadening the scope of a probe started in July &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/251126/p25#a251126p25)<!-- TECH:END -->
+ - [Record-low price: Soundcore Q11i headphones at $29.99](https://www.androidauthority.com/soundcore-q11i-wireless-over-ear-bluetooth-headphones-deal-3619914/)
+ - [Campbell&amp;#8217;s fired the VP recorded saying its meat &amp;#8216;came from a 3D printer&amp;#8217;](https://www.theverge.com/news/829516/campbells-3d-printed-chicken-soup)
+ - [Save $900 on Sony&#39;s Best Mirrorless Camera With This Early Black Friday Deal &lpar;2025&rpar;](https://www.wired.com/story/sony-a7rv-black-friday-deal-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
