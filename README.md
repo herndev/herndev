@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s new playlist experiment takes a page out of the IFTTT playbook](https://www.androidauthority.com/spotify-experiment-prompt-playlist-3619796/)
- - [Apple&#39;s 1976 formation papers could fetch $4 million at auction](https://appleinsider.com/articles/25/11/26/apples-1976-formation-papers-could-fetch-4-million-at-auction?utm_source=rss)
- - [The EU says its regulators asked Shein for documents on measures to prevent the exposure of minors to inappropriate content and the circulation of illegal items &lpar;Jenny Che/Bloomberg&rpar;](http://www.techmeme.com/251126/p21#a251126p21)<!-- TECH:END -->
+ - [EU member states agree a position on draft child protection legislation without forcing Big Tech to find and remove CSAM; states now negotiate with EU lawmakers &lpar;Reuters&rpar;](http://www.techmeme.com/251126/p22#a251126p22)
+ - [Critically acclaimed puzzle game &#39;Blue Prince&#39; coming to Mac App Store soon](https://appleinsider.com/articles/25/11/26/critically-acclaimed-puzzle-game-blue-prince-coming-to-mac-app-store-soon?utm_source=rss)
+ - [What the leaked AI executive order tells us about the Big Tech power grab](https://www.theverge.com/column/829938/leaked-ai-executive-order-analysis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
