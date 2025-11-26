@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People have been accusing JC Staff of using AI for their animation. They are factually wrong.](http://9gag.com/gag/azxv1bp)
- - ⏩ [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
- - 👉 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)<!-- MEMES:END -->
+ - 💣 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)
+ - ⏩ [Your motivation for the week](http://9gag.com/gag/a5Q9nVL)
+ - 👉 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)<!-- MEMES:END -->
 
 ---
 
