@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How fg get away with this lol](http://9gag.com/gag/abALrnB)
- - ⏩ [9th century female torso from india](http://9gag.com/gag/awy9o44)
- - 👉 [Don&#39;t be the first one to sleep.....](http://9gag.com/gag/axyezE2)<!-- MEMES:END -->
+ - 💣 [Cool it yo](http://9gag.com/gag/a5Q9R5O)
+ - ⏩ [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
 
 ---
 
