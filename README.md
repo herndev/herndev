@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shop Torras iPhone 17 cases during Black Friday &amp; get free gifts, big discounts](https://appleinsider.com/articles/25/11/26/shop-torras-iphone-17-cases-during-black-friday-get-free-gifts-big-discounts?utm_source=rss)
- - [Keep your Kindle safe and portable with this new dedicated crossbody](https://www.androidauthority.com/amazon-launches-kindle-sling-bag-3620008/)
- - [S&amp;P downgrades the ability of Tether&#39;s USDT to maintain its peg to the US dollar to &quot;weak&quot;, the lowest rating, citing exposure to high-risk assets such as BTC &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/251126/p28#a251126p28)<!-- TECH:END -->
+ - [Strong iPhone 17 sales may push Apple ahead of Samsung this year](https://www.theverge.com/news/831048/apple-iphone-17-samsung-galaxy-s25-top-sales-2025)
+ - [Black Friday deals: Save up to 52% on monitor upgrades for your Mac](https://appleinsider.com/articles/25/11/26/black-friday-deals-save-up-to-52-on-monitor-upgrades-for-your-mac?utm_source=rss)
+ - [These prebuilt PCs are about to cost more due to rising RAM prices](https://www.theverge.com/news/831032/cyberpowerpc-maingear-ram-price-increases-pc-gaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
