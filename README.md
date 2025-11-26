@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Roborock Saros 10R Crashes $600 Off, 22,000 Pa Suction With Self-Emptying Station Hits All-Time Low](https://kotaku.com/roborock-saros-10r-crashes-600-off-22000-pa-suction-with-self-emptying-station-hits-all-time-low-2000647321)
  - [Samsung T7 SSD Goes for Pocket Change Now, 2TB Drive Selling 68% Off Original Price](https://kotaku.com/samsung-t7-ssd-goes-for-pocket-change-now-2tb-drive-selling-68-off-original-price-2000647374)
- - [Amazon Offloads 65W 3-Port Block Charger, 2-Pack Selling for 4x Cheaper Than One Apple Charger](https://kotaku.com/amazon-offloads-65w-3-port-block-charger-2-pack-selling-for-4x-cheaper-than-one-apple-charger-2000647316)
- - [Sony Goes Zero-Profit on WH-1000XM5, 2x Cheaper Than AirPods Max and Bose](https://kotaku.com/sony-goes-zero-profit-on-wh-1000xm5-2x-cheaper-than-airpods-max-and-bose-2000647400)<!-- GAME:END -->
+ - [Amazon Offloads 65W 3-Port Block Charger, 2-Pack Selling for 4x Cheaper Than One Apple Charger](https://kotaku.com/amazon-offloads-65w-3-port-block-charger-2-pack-selling-for-4x-cheaper-than-one-apple-charger-2000647316)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
