@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fire Max 11 Tablet Now Costs Pocket Change, Amazon Goes Zero Profit on Its Own Tablet](https://kotaku.com/fire-max-11-tablet-now-costs-pocket-change-amazon-goes-zero-profit-on-its-own-tablet-2000647543)
- - [Seagate Xbox Expansion Card Drops to $0.09 per GB, Making It One of the Cheapest Console Storage Upgrades Ever This Black Friday](https://kotaku.com/seagates-4tb-xbox-expansion-card-sees-a-massive-120-discount-for-black-friday-2000647359)
- - [Sony Quietly Moves PS5 Slim at All-Time Low via Amazon, Subtle Black Friday Approach](https://kotaku.com/sony-quietly-moves-ps5-slim-at-all-time-low-via-amazon-subtle-black-friday-approach-2000647533)<!-- GAME:END -->
+ - [Ten years after its release, The Good Dinosaur looks weirder and better than ever](https://www.polygon.com/pixar-the-good-dinosaur-movie-best-mistake/)
+ - [Xbox Cloud Gaming with Game Pass Up 45%, Now Available in Nearly 30 Countries](https://news.xbox.com/en-us/2025/11/26/xbox-cloud-gaming-expansion-india-brazil-argentina-countries/)
+ - [Nintendo Switch Online update adds Battletoads, Kid Icarus 2 and more](https://www.polygon.com/nintendo-switch-online-new-november-2025-battletoads-kid-icarus/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
