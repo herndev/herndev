@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Good enough is good enough: Survey shows Pixel Launcher packs everything users need](https://www.androidauthority.com/pixel-launcher-features-poll-results-3619661/)
- - [Malaysia&#39;s Johor state, which has approved 51 data centre projects as of November, stops approvals for new low-tier data centers citing high water consumption &lpar;The Star&rpar;](http://www.techmeme.com/251126/p11#a251126p11)
- - [Snapdragon 8 Gen 5 vs 8 Elite Gen 5: What’s the difference?](https://www.androidauthority.com/snapdragon-8-gen-5-vs-8-elite-gen-5-3618967/)<!-- TECH:END -->
+ - [New Plex update means you need a pass for remote viewing on your TV](https://www.androidauthority.com/plex-remote-viewing-restriction-roku-tv-3619768/)
+ - [Didi reports Q3 revenue up 8.6% YoY to ~$8.28B and a ~$211M net income, up from ~$127M in Q3 2024; international revenue up 35% YoY to ~$558M with a ~$240M loss &lpar;Reuters&rpar;](http://www.techmeme.com/251126/p13#a251126p13)
+ - [10 Best Pillows: Tested For Side, Back, and Stomach Sleepers &lpar;2025&rpar;](https://www.wired.com/gallery/best-pillows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
