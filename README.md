@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fanttik&amp;#8217;s portable tire inflator has hit an all-time low for Black Friday](https://www.theverge.com/gadgets/829971/fanttik-x8-tire-inflator-black-friday-deal-sale)
- - [Here’s when Samsung’s public One UI 8.5 beta may finally get underway](https://www.androidauthority.com/one-ui-8-5-beta-date-3619893/)
- - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)<!-- TECH:END -->
+ - [Enjoy exceptional 54% discount on Sony WH-1000XM4 headphones now](https://www.androidauthority.com/sony-wh-1000xm4-headphones-deal-3-3619918/)
+ - [Microsoft’s latest 13-inch Surface Laptop is down to $549.99, a new record low price](https://www.theverge.com/gadgets/830182/microsoft-surface-laptop-black-friday-2025-deal-sale)
+ - [Apple faces new lawsuit over alleged use of conflict minerals](https://appleinsider.com/articles/25/11/26/apple-faces-new-lawsuit-over-alleged-use-of-conflict-minerals?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
