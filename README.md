@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hi nice to marry you](http://9gag.com/gag/aRB81mA)
- - ⏩ [Who?](http://9gag.com/gag/aKGXxG1)
- - 👉 [I would if I were in good shape.](http://9gag.com/gag/aAyLxn0)<!-- MEMES:END -->
+ - 💣 [To be worse than...](http://9gag.com/gag/aPAV9LR)
+ - ⏩ [Man of culture](http://9gag.com/gag/aGyreMz)
+ - 👉 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)<!-- MEMES:END -->
 
 ---
 
