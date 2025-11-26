@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
- - ⏩ [Those puppies are adorable](http://9gag.com/gag/aYQv427)
- - 👉 [A real Messi fan](http://9gag.com/gag/aNDGz6w)<!-- MEMES:END -->
+ - 💣 [People have been accusing JC Staff of using AI for their animation. They are factually wrong.](http://9gag.com/gag/azxv1bp)
+ - ⏩ [How is this possible?](http://9gag.com/gag/a34zKQ3)
+ - 👉 [To be worse than...](http://9gag.com/gag/aPAV9LR)<!-- MEMES:END -->
 
 ---
 
