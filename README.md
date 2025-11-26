@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [To be worse than...](http://9gag.com/gag/aPAV9LR)
- - ⏩ [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
+ - ⏩ [Your motivation for the week](http://9gag.com/gag/a5Q9nVL)
  - 👉 [Those puppies are adorable](http://9gag.com/gag/aYQv427)<!-- MEMES:END -->
 
 ---
