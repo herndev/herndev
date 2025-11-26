@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat this week&#39;s Trials in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-trials/)
- - [Intel&#39;s next-gen Panther Lake CPU pops up in Geekbench with decent but not exactly spectacular benchmark numbers](https://www.pcgamer.com/hardware/processors/intels-next-gen-panther-lake-cpu-pops-up-in-geekbench-with-decent-but-not-exactly-spectacular-benchmark-numbers/)
- - [Embracer Group sells publisher Arc Games and Star Trek Online developer Cryptic Studios, but once again clings on to the publishing rights for Remnant 2](https://www.pcgamer.com/gaming-industry/embracer-group-sells-publisher-arc-games-and-star-trek-online-developer-cryptic-studios-but-once-again-clings-on-to-the-publishing-rights-for-remnant-2/)<!-- GAME:END -->
+ - [Apple Quietly Sent Amazon Thousands of iPads to Clear, WiFi Model Now Selling at All-Time Low](https://kotaku.com/apple-quietly-sent-amazon-thousands-of-ipads-to-clear-wifi-model-now-selling-at-all-time-low-2000647529)
+ - [Stranger Things season 5 is best when it’s at its silliest](https://www.polygon.com/stranger-things-season-5-review-spoiler-free/)
+ - [Winter Burrow review: winter&#39;s coziest game is also a heartfelt story of survival](https://www.polygon.com/winter-burrow-cozy-game-impressions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
