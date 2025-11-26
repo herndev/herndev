@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To be worse than...](http://9gag.com/gag/aPAV9LR)
- - ⏩ [Your motivation for the week](http://9gag.com/gag/a5Q9nVL)
- - 👉 [Those puppies are adorable](http://9gag.com/gag/aYQv427)<!-- MEMES:END -->
+ - 💣 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
+ - ⏩ [To be worse than...](http://9gag.com/gag/aPAV9LR)
+ - 👉 [Your motivation for the week](http://9gag.com/gag/a5Q9nVL)<!-- MEMES:END -->
 
 ---
 
