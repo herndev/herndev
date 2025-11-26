@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Quietly Sent Amazon Thousands of iPads to Clear, WiFi Model Now Selling at All-Time Low](https://kotaku.com/apple-quietly-sent-amazon-thousands-of-ipads-to-clear-wifi-model-now-selling-at-all-time-low-2000647529)
- - [Stranger Things season 5 is best when it’s at its silliest](https://www.polygon.com/stranger-things-season-5-review-spoiler-free/)
- - [Winter Burrow review: winter&#39;s coziest game is also a heartfelt story of survival](https://www.polygon.com/winter-burrow-cozy-game-impressions/)<!-- GAME:END -->
+ - [Fire Max 11 Tablet Now Costs Pocket Change, Amazon Goes Zero Profit on Its Own Tablet](https://kotaku.com/fire-max-11-tablet-now-costs-pocket-change-amazon-goes-zero-profit-on-its-own-tablet-2000647543)
+ - [Seagate Xbox Expansion Card Drops to $0.09 per GB, Making It One of the Cheapest Console Storage Upgrades Ever This Black Friday](https://kotaku.com/seagates-4tb-xbox-expansion-card-sees-a-massive-120-discount-for-black-friday-2000647359)
+ - [Sony Quietly Moves PS5 Slim at All-Time Low via Amazon, Subtle Black Friday Approach](https://kotaku.com/sony-quietly-moves-ps5-slim-at-all-time-low-via-amazon-subtle-black-friday-approach-2000647533)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
