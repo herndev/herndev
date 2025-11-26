@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Record-low price: Soundcore Q11i headphones at $29.99](https://www.androidauthority.com/soundcore-q11i-wireless-over-ear-bluetooth-headphones-deal-3619914/)
- - [Campbell&amp;#8217;s fired the VP recorded saying its meat &amp;#8216;came from a 3D printer&amp;#8217;](https://www.theverge.com/news/829516/campbells-3d-printed-chicken-soup)
- - [Save $900 on Sony&#39;s Best Mirrorless Camera With This Early Black Friday Deal &lpar;2025&rpar;](https://www.wired.com/story/sony-a7rv-black-friday-deal-2025/)<!-- TECH:END -->
+ - [Shop Torras iPhone 17 cases during Black Friday &amp; get free gifts, big discounts](https://appleinsider.com/articles/25/11/26/shop-torras-iphone-17-cases-during-black-friday-get-free-gifts-big-discounts?utm_source=rss)
+ - [Keep your Kindle safe and portable with this new dedicated crossbody](https://www.androidauthority.com/amazon-launches-kindle-sling-bag-3620008/)
+ - [S&amp;P downgrades the ability of Tether&#39;s USDT to maintain its peg to the US dollar to &quot;weak&quot;, the lowest rating, citing exposure to high-risk assets such as BTC &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/251126/p28#a251126p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
