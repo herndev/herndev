@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
- - ⏩ [Not having Malevola romance option was the only thing I didn&#39;t like about Dispatch](http://9gag.com/gag/aGyrZ57)
- - 👉 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)<!-- MEMES:END -->
+ - 💣 [Something about Slayer](http://9gag.com/gag/aQzDR2W)
+ - ⏩ [Clean](http://9gag.com/gag/a34zQEr)
+ - 👉 [Do it for your future self](http://9gag.com/gag/a6ZeNrL)<!-- MEMES:END -->
 
 ---
 
