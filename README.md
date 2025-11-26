@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad mini with OLED expected to arrive by the end of 2026](https://appleinsider.com/articles/25/11/26/ipad-mini-with-oled-expected-to-arrive-by-the-end-of-2026?utm_source=rss)
- - [ChatGPT and Copilot are being booted out of WhatsApp](https://www.theverge.com/news/829808/chatgpt-copilot-ai-llm-leaving-whatsapp-meta)
- - [12 Best Computer Monitors &lpar;2025&rpar;: Budget, OLED, 4K, and More](https://www.wired.com/gallery/best-computer-monitors/)<!-- TECH:END -->
+ - [You’re buying a Frame TV? It’s okay to cheap out a little](https://www.theverge.com/tech/829002/youre-buying-a-frame-tv-its-okay-to-cheap-out-a-little)
+ - [Forget Aluminium, is Android ready to lead Google’s PC push as is?](https://www.androidauthority.com/aluminium-android-pc-open-thread-3619832/)
+ - [iPad mini with OLED expected to arrive by the end of 2026](https://appleinsider.com/articles/25/11/26/ipad-mini-with-oled-expected-to-arrive-by-the-end-of-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
