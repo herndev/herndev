@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie Selects for November 2025 &lpar;and More Cool Things!&rpar;](https://news.xbox.com/en-us/2025/11/26/indie-selects-id-xbox-november-2025/)
- - [Apple Quietly Offloads AirPods 4 at 47% Off, Now Cheaper Than No-Name Budget Earbuds](https://kotaku.com/apple-quietly-offloads-airpods-4-at-47-off-now-cheaper-than-no-name-budget-earbuds-2000647608)
- - [Dispatch&#39;s Mr. Whiskey is a leftover from the game&#39;s Pokémon-style origins](https://www.polygon.com/dispatch-mr-whiskey-origins/)<!-- GAME:END -->
+ - [Housing in World of Warcraft Is Giving Players a Huge Creative Suite to Make Azeroth Their Own](https://news.xbox.com/en-us/2025/11/26/world-of-warcraft-housing-interview/)
+ - [Best Warden 308 loadout in Black Ops 7](https://www.polygon.com/black-ops-7-bo7-warden-308-loadout-best-build-code/)
+ - [Galaxy Princess Zorana is like if you made BG3 passive checks into a whole game, a great tale of political intrigue, and will give you like 4,000 ways to die embarrassingly](https://www.pcgamer.com/games/visual-novel/galaxy-princess-zorana-is-like-if-you-made-bg3-passive-checks-into-a-whole-game-a-great-tale-of-political-intrigue-and-will-give-you-like-4-000-ways-to-die-embarrassingly/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
