@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Plex update means you need a pass for remote viewing on your TV](https://www.androidauthority.com/plex-remote-viewing-restriction-roku-tv-3619768/)
- - [Didi reports Q3 revenue up 8.6% YoY to ~$8.28B and a ~$211M net income, up from ~$127M in Q3 2024; international revenue up 35% YoY to ~$558M with a ~$240M loss &lpar;Reuters&rpar;](http://www.techmeme.com/251126/p13#a251126p13)
- - [10 Best Pillows: Tested For Side, Back, and Stomach Sleepers &lpar;2025&rpar;](https://www.wired.com/gallery/best-pillows/)<!-- TECH:END -->
+ - [First there was nothing, then there was Hoto and Fanttik](https://www.theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok)
+ - [In recent months, DDR4 and DDR5 RAM and SSD prices surged dramatically due to an ongoing AI chip shortage and panic buying; some RAM kits now cost 3x as much &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/251126/p16#a251126p16)
+ - [Google Contacts’ Expressive redesign may have an annoying drawback](https://www.androidauthority.com/google-contacts-vcf-sharing-material-expressive-3619722/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
