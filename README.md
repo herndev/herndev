@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aggressive traders on Robinhood, whose stock has more than tripled in 2025, are central to the company&#39;s success, as critics liken the environment to a casino &lpar;Hannah Erin Lang/Wall Street Journal&rpar;](http://www.techmeme.com/251126/p3#a251126p3)
- - [As Microsoft accelerates its AI buildout in rural Wisconsin, one community&#39;s vocal opposition led the company to withdraw plans for a proposed data center site &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251126/p2#a251126p2)
- - [MIT and Hugging Face study: the share of downloads of Chinese-made open AI models rose to 17% in the past year, surpassing US developers&#39; 15.8% share, a first &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/251126/p1#a251126p1)<!-- TECH:END -->
+ - [Uber’s robotaxi service in UAE now includes fully driverless vehicles](https://www.theverge.com/news/828685/uber-weride-robotaxi-fully-driverless-uae)
+ - [watchTowr: 80K+ sensitive credentials were found via publicly accessible &quot;Recent Links&quot; pages on online code formatting tools JSONFormatter and CodeBeautify &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251126/p5#a251126p5)
+ - [Snapdragon 8 Gen 5 brings major upgrades for affordable flagships, but one downgrade](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-5-launch-3618923/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
