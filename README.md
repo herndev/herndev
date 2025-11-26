@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enjoy exceptional 54% discount on Sony WH-1000XM4 headphones now](https://www.androidauthority.com/sony-wh-1000xm4-headphones-deal-3-3619918/)
- - [Microsoft’s latest 13-inch Surface Laptop is down to $549.99, a new record low price](https://www.theverge.com/gadgets/830182/microsoft-surface-laptop-black-friday-2025-deal-sale)
- - [Apple faces new lawsuit over alleged use of conflict minerals](https://appleinsider.com/articles/25/11/26/apple-faces-new-lawsuit-over-alleged-use-of-conflict-minerals?utm_source=rss)<!-- TECH:END -->
+ - [Hot deals: Plaud Note and NotePin AI voice recorders drop to record-low prices!](https://www.androidauthority.com/plaud-note-notepin-ai-voice-recorder-deals-3619917/)
+ - [Get ready for Super Fast Charging 3.0: One UI 8.5 code teases speed upgrade](https://www.androidauthority.com/super-fast-charging-3-0-3619931/)
+ - [In an October 7 letter, the Pentagon informed lawmakers that Alibaba, Baidu, and BYD should be added to a list of companies that aid the Chinese military &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/251126/p24#a251126p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
