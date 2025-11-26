@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dedication to the hustle is next level](http://9gag.com/gag/aW4e184)
- - ⏩ [Those puppies are adorable](http://9gag.com/gag/aYQv427)
- - 👉 [Man of culture](http://9gag.com/gag/aGyreMz)<!-- MEMES:END -->
+ - 💣 [Who?](http://9gag.com/gag/aKGXxG1)
+ - ⏩ [Hi nice to marry you](http://9gag.com/gag/aRB81mA)
+ - 👉 [Night parking solo](http://9gag.com/gag/ayNmB1b)<!-- MEMES:END -->
 
 ---
 
