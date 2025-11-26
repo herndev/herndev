@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ten years after its release, The Good Dinosaur looks weirder and better than ever](https://www.polygon.com/pixar-the-good-dinosaur-movie-best-mistake/)
- - [Xbox Cloud Gaming with Game Pass Up 45%, Now Available in Nearly 30 Countries](https://news.xbox.com/en-us/2025/11/26/xbox-cloud-gaming-expansion-india-brazil-argentina-countries/)
- - [Nintendo Switch Online update adds Battletoads, Kid Icarus 2 and more](https://www.polygon.com/nintendo-switch-online-new-november-2025-battletoads-kid-icarus/)<!-- GAME:END -->
+ - [Indie Selects for November 2025 &lpar;and More Cool Things!&rpar;](https://news.xbox.com/en-us/2025/11/26/indie-selects-id-xbox-november-2025/)
+ - [Apple Quietly Offloads AirPods 4 at 47% Off, Now Cheaper Than No-Name Budget Earbuds](https://kotaku.com/apple-quietly-offloads-airpods-4-at-47-off-now-cheaper-than-no-name-budget-earbuds-2000647608)
+ - [Dispatch&#39;s Mr. Whiskey is a leftover from the game&#39;s Pokémon-style origins](https://www.polygon.com/dispatch-mr-whiskey-origins/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
