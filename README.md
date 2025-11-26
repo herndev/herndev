@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something about Slayer](http://9gag.com/gag/aQzDR2W)
- - ⏩ [Clean](http://9gag.com/gag/a34zQEr)
- - 👉 [Do it for your future self](http://9gag.com/gag/a6ZeNrL)<!-- MEMES:END -->
+ - 💣 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
+ - ⏩ [Those puppies are adorable](http://9gag.com/gag/aYQv427)
+ - 👉 [A real Messi fan](http://9gag.com/gag/aNDGz6w)<!-- MEMES:END -->
 
 ---
 
