@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU member states agree a position on draft child protection legislation without forcing Big Tech to find and remove CSAM; states now negotiate with EU lawmakers &lpar;Reuters&rpar;](http://www.techmeme.com/251126/p22#a251126p22)
- - [Critically acclaimed puzzle game &#39;Blue Prince&#39; coming to Mac App Store soon](https://appleinsider.com/articles/25/11/26/critically-acclaimed-puzzle-game-blue-prince-coming-to-mac-app-store-soon?utm_source=rss)
- - [What the leaked AI executive order tells us about the Big Tech power grab](https://www.theverge.com/column/829938/leaked-ai-executive-order-analysis)<!-- TECH:END -->
+ - [Fanttik&amp;#8217;s portable tire inflator has hit an all-time low for Black Friday](https://www.theverge.com/gadgets/829971/fanttik-x8-tire-inflator-black-friday-deal-sale)
+ - [Here’s when Samsung’s public One UI 8.5 beta may finally get underway](https://www.androidauthority.com/one-ui-8-5-beta-date-3619893/)
+ - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
