@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 6, Algorithms, And AI Are Colliding In The Worst Way](https://kotaku.com/gta-6-trailer-leak-fake-ai-youtube-google-2000647395)
- - [SanDisk Makes Zero-Profit Play on 2TB SSD, Flagship Storage Drops to Pennies on Amazon](https://kotaku.com/sandisk-makes-zero-profit-play-on-2tb-ssd-flagship-storage-drops-to-pennies-on-amazon-2000647292)
- - [Every Battlefield 6 Map Ranked From Worst To Best](https://kotaku.com/every-battlefield-6-map-ranked-from-worst-to-best-2000647370)<!-- GAME:END -->
+ - [Despite Battlefield 6&#39;s server browser utterly failing at its one job, good things are happening in Portal](https://www.pcgamer.com/games/fps/despite-battlefield-6s-server-browser-utterly-failing-at-its-one-job-good-things-are-happening-in-portal/)
+ - [DJI Lost Its Mind on Mic Mini, Premium Wireless Transmitter Crashes to All-Time Low on Amazon](https://kotaku.com/dji-lost-its-mind-on-mic-mini-premium-wireless-transmitter-crashes-to-all-time-low-on-amazon-2000647310)
+ - [Seagate 22TB Hard Drive Cut 55% Off, Giant Storage Cheaper Than Tiny 4TB Budget Drives](https://kotaku.com/seagate-22tb-hard-drive-cut-55-off-giant-storage-cheaper-than-tiny-4tb-budget-drives-2000647391)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
