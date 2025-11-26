@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chloe Kim prepares for the 2026 Winter Olympics in Mario Kart World](https://www.polygon.com/chloe-kim-mario-kart-nintendo-store/)
- - [This Persona-like RPG credits its creators in a revolutionary way](https://www.polygon.com/demonschool-rpg-persona-credits-developer-studio-work/)
- - [EcoFlow Decided Profit Doesn’t Matter, 1800W Power Station Hits New All-Time Low for Winter Backup](https://kotaku.com/ecoflow-decided-profit-doesnt-matter-1800w-power-station-hits-new-all-time-low-for-winter-backup-2000647635)<!-- GAME:END -->
+ - [Golden Joysticks voting stats signal Clair Obscur sweep at The Game Awards](https://www.polygon.com/golden-joysticks-2025-voting-data-clair-obscur-game-awards/)
+ - [Dark Souls + Morrowind + The Doom Engine = One Of 2025’s Coolest Shooters](https://kotaku.com/dark-souls-morrowind-doom-engine-mohtra-review-pc-steam-fps-boomer-shooter-2000647667)
+ - [Despite getting delayed, Paralives looks like it&#39;s avoiding Inzoi&#39;s biggest flaw](https://www.pcgamer.com/games/life-sim/despite-getting-delayed-paralives-looks-like-its-avoiding-inzois-biggest-flaw/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
