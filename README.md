@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
- - ⏩ [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
- - 👉 [Those puppies are adorable](http://9gag.com/gag/aYQv427)<!-- MEMES:END -->
+ - 💣 [Hi nice to marry you](http://9gag.com/gag/aRB81mA)
+ - ⏩ [Who?](http://9gag.com/gag/aKGXxG1)
+ - 👉 [I would if I were in good shape.](http://9gag.com/gag/aAyLxn0)<!-- MEMES:END -->
 
 ---
 
