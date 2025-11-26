@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Golden Joysticks voting stats signal Clair Obscur sweep at The Game Awards](https://www.polygon.com/golden-joysticks-2025-voting-data-clair-obscur-game-awards/)
- - [Dark Souls + Morrowind + The Doom Engine = One Of 2025’s Coolest Shooters](https://kotaku.com/dark-souls-morrowind-doom-engine-mohtra-review-pc-steam-fps-boomer-shooter-2000647667)
- - [Despite getting delayed, Paralives looks like it&#39;s avoiding Inzoi&#39;s biggest flaw](https://www.pcgamer.com/games/life-sim/despite-getting-delayed-paralives-looks-like-its-avoiding-inzois-biggest-flaw/)<!-- GAME:END -->
+ - [Wizards delays MTG&#39;s Monster Hunter Secret Lair following fan backlash](https://www.polygon.com/magic-mtg-monster-hunter-secret-lair-delay/)
+ - [Marvel Rivals’ New Mode Sounds Like The Stuff That Crashes Your PC](https://kotaku.com/marvel-rivals-new-18-36-player-mode-annihilation-trailer-2000647688)
+ - [Epic boss Tim Sweeney thinks stores like Steam should stop labelling games as being made with AI: &#39;It makes no sense,&#39; he says, because &#39;AI will be involved in nearly all future production&#39;](https://www.pcgamer.com/software/ai/epic-boss-tim-sweeney-thinks-stores-like-steam-should-stop-labelling-games-as-being-made-with-ai-it-makes-no-sense-he-says-because-ai-will-be-involved-in-nearly-all-future-production/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
