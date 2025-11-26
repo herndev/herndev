@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: a new network of super PACs plans to raise ~$50M to counter the Leading the Future super PAC and back candidates who prioritize AI regulations &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/251125/p36#a251125p36)
- - [iPhone Fold Will Be Crease-Less and Cost $2,400, Report Says](https://www.cnet.com/tech/mobile/iphone-fold-will-be-crease-less-and-cost-2400-report-says/#ftag=CAD590a51e)
- - [Hands on with Kuxiu&#39;s range of 25W Qi2.2 MagSafe chargers](https://appleinsider.com/articles/25/11/26/hands-on-with-kuxius-range-of-25w-qi22-magsafe-chargers?utm_source=rss)<!-- TECH:END -->
+ - [This Google TV streaming stick is just $9 for Black Friday, and it comes with free Apple trials](https://www.androidauthority.com/walmart-onn-full-hd-google-tv-streaming-stick-black-friday-deal-3619618/)
+ - [Foxconn plans to spend another $569M through 2029 to expand its Mount Pleasant, WI AI server manufacturing site, adding to $717M invested through 2024 &lpar;Joe Schulz/WPR&rpar;](http://www.techmeme.com/251125/p37#a251125p37)
+ - [Best Outdoor String Lights for 2025: Illuminate Your Balcony, Patio, Backyard and More](https://www.cnet.com/news/best-outdoor-string-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
