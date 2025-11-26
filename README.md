@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Embracer Group sells publisher Arc Games and Star Trek Online developer Cryptic Studios, but once again clings on to the publishing rights for Remnant 2](https://www.pcgamer.com/gaming-industry/embracer-group-sells-publisher-arc-games-and-star-trek-online-developer-cryptic-studios-but-once-again-clings-on-to-the-publishing-rights-for-remnant-2/)
  - [Roborock Saros 10R Crashes $600 Off, 22,000 Pa Suction With Self-Emptying Station Hits All-Time Low](https://kotaku.com/roborock-saros-10r-crashes-600-off-22000-pa-suction-with-self-emptying-station-hits-all-time-low-2000647321)
- - [Samsung T7 SSD Goes for Pocket Change Now, 2TB Drive Selling 68% Off Original Price](https://kotaku.com/samsung-t7-ssd-goes-for-pocket-change-now-2tb-drive-selling-68-off-original-price-2000647374)
- - [Amazon Offloads 65W 3-Port Block Charger, 2-Pack Selling for 4x Cheaper Than One Apple Charger](https://kotaku.com/amazon-offloads-65w-3-port-block-charger-2-pack-selling-for-4x-cheaper-than-one-apple-charger-2000647316)<!-- GAME:END -->
+ - [Samsung T7 SSD Goes for Pocket Change Now, 2TB Drive Selling 68% Off Original Price](https://kotaku.com/samsung-t7-ssd-goes-for-pocket-change-now-2tb-drive-selling-68-off-original-price-2000647374)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
