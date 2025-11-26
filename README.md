@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who?](http://9gag.com/gag/aKGXxG1)
- - ⏩ [Hi nice to marry you](http://9gag.com/gag/aRB81mA)
+ - 💣 [Hi nice to marry you](http://9gag.com/gag/aRB81mA)
+ - ⏩ [...](http://9gag.com/gag/amoO73j)
  - 👉 [Night parking solo](http://9gag.com/gag/ayNmB1b)<!-- MEMES:END -->
 
 ---
