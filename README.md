@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2 months after being acquired by private equity, Splash Damage is making major layoffs so it can &#39;remain agile,&#39; even though it hasn&#39;t released a game since 2020](https://www.pcgamer.com/gaming-industry/2-months-after-being-acquired-by-private-equity-splash-damage-is-making-major-layoffs-so-it-can-remain-agile-even-though-it-hasnt-released-a-game-since-2020/)
- - [Monster Hunter Fans Just Made Magic: The Gathering Do Something Unprecedented](https://kotaku.com/monster-hunter-mtg-magic-the-gathering-secret-lair-superdrop-2000647703)
- - [Wizards delays MTG&#39;s Monster Hunter Secret Lair following fan backlash](https://www.polygon.com/magic-mtg-monster-hunter-secret-lair-delay/)<!-- GAME:END -->
+ - [Cyberpunk 2077 Is Keeping CD Projekt Red Funded As It Breaks A Witcher 3 Record](https://kotaku.com/cyberpunk-2-sales-witcher-4-cdpr-2000647747)
+ - [Govee Offloads Full Inventory of Smart Table Lamps to Amazon, Now at All-Time Low Price](https://kotaku.com/govee-offloads-full-inventory-of-smart-table-lamps-to-amazon-now-at-all-time-low-price-2000647721)
+ - [Sean Murray just crushed my hopes of playing Light No Fire anytime soon by describing the dev team as &#39;tiny&#39; and working &#39;in the background&#39; at Hello Games](https://www.pcgamer.com/games/survival-crafting/sean-murray-just-crushed-my-hopes-of-playing-light-no-fire-anytime-soon-by-by-describing-the-dev-team-as-tiny-and-working-in-the-background-at-hello-games/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
