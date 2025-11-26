@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Housing in World of Warcraft Is Giving Players a Huge Creative Suite to Make Azeroth Their Own](https://news.xbox.com/en-us/2025/11/26/world-of-warcraft-housing-interview/)
- - [Best Warden 308 loadout in Black Ops 7](https://www.polygon.com/black-ops-7-bo7-warden-308-loadout-best-build-code/)
- - [Galaxy Princess Zorana is like if you made BG3 passive checks into a whole game, a great tale of political intrigue, and will give you like 4,000 ways to die embarrassingly](https://www.pcgamer.com/games/visual-novel/galaxy-princess-zorana-is-like-if-you-made-bg3-passive-checks-into-a-whole-game-a-great-tale-of-political-intrigue-and-will-give-you-like-4-000-ways-to-die-embarrassingly/)<!-- GAME:END -->
+ - [Chloe Kim prepares for the 2026 Winter Olympics in Mario Kart World](https://www.polygon.com/chloe-kim-mario-kart-nintendo-store/)
+ - [This Persona-like RPG credits its creators in a revolutionary way](https://www.polygon.com/demonschool-rpg-persona-credits-developer-studio-work/)
+ - [EcoFlow Decided Profit Doesn’t Matter, 1800W Power Station Hits New All-Time Low for Winter Backup](https://kotaku.com/ecoflow-decided-profit-doesnt-matter-1800w-power-station-hits-new-all-time-low-for-winter-backup-2000647635)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
