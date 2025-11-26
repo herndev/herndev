@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How an indirect prompt injection can manipulate Google&#39;s Antigravity IDE to invoke a malicious browser subagent and exfiltrate data; Google is working on a fix &lpar;PromptArmor&rpar;](http://www.techmeme.com/251125/p33#a251125p33)
- - [Campbell’s promises its soups are not made with 3D printed meat](https://www.theverge.com/news/829516/campbells-3d-printed-chicken-soup)
- - [Nvidia says it is &quot;delighted by Google&#39;s success&quot; but &quot;Nvidia is a generation ahead&quot;, after a report that Meta could use Google&#39;s TPUs in its data centers &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251125/p32#a251125p32)<!-- TECH:END -->
+ - [Sources: a new network of super PACs plans to raise ~$50M to counter the Leading the Future super PAC and back candidates who prioritize AI regulations &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/251125/p36#a251125p36)
+ - [Hands on with Kuxiu&#39;s range of 25W Qi2.2 MagSafe chargers](https://appleinsider.com/articles/25/11/26/hands-on-with-kuxius-range-of-25w-qi22-magsafe-chargers?utm_source=rss)
+ - [Filing: OpenAI denies liability in a suit alleging ChatGPT gave info about suicide methods to a 16-year-old who died by suicide, arguing he misused the chatbot &lpar;Angela Yang/NBC News&rpar;](http://www.techmeme.com/251125/p35#a251125p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
