@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Sportable co-founders Dugald Macdonald and Peter Husemeyer on their sensor-based sports tech that generates data for teams, leagues, and broadcasters &lpar;Samuel Agini/Financial Times&rpar;](http://www.techmeme.com/251126/p7#a251126p7)
- - [Android 16 QPR2’s massive color upgrade could also be a good news for widgets](https://www.androidauthority.com/android-16-qpr2-widget-colors-3619680/)
- - [Some food bloggers warn Google&#39;s AI Overviews and AI food pics are burying their real, tested recipes, setting home cooks up for disaster this Thanksgiving &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p6#a251126p6)<!-- TECH:END -->
+ - [Good enough is good enough: Survey shows Pixel Launcher packs everything users need](https://www.androidauthority.com/pixel-launcher-features-poll-results-3619661/)
+ - [Malaysia&#39;s Johor state, which has approved 51 data centre projects as of November, stops approvals for new low-tier data centers citing high water consumption &lpar;The Star&rpar;](http://www.techmeme.com/251126/p11#a251126p11)
+ - [Snapdragon 8 Gen 5 vs 8 Elite Gen 5: What’s the difference?](https://www.androidauthority.com/snapdragon-8-gen-5-vs-8-elite-gen-5-3618967/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
