@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [People have been accusing JC Staff of using AI for their animation. They are factually wrong.](http://9gag.com/gag/azxv1bp)
- - ⏩ [How is this possible?](http://9gag.com/gag/a34zKQ3)
- - 👉 [To be worse than...](http://9gag.com/gag/aPAV9LR)<!-- MEMES:END -->
+ - ⏩ [9th century female torso from india](http://9gag.com/gag/awy9o44)
+ - 👉 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)<!-- MEMES:END -->
 
 ---
 
