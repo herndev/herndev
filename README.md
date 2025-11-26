@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To be worse than...](http://9gag.com/gag/aPAV9LR)
- - ⏩ [Man of culture](http://9gag.com/gag/aGyreMz)
- - 👉 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)<!-- MEMES:END -->
+ - 💣 [Dedication to the hustle is next level](http://9gag.com/gag/aW4e184)
+ - ⏩ [Those puppies are adorable](http://9gag.com/gag/aYQv427)
+ - 👉 [Man of culture](http://9gag.com/gag/aGyreMz)<!-- MEMES:END -->
 
 ---
 
