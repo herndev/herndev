@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot deals: Plaud Note and NotePin AI voice recorders drop to record-low prices!](https://www.androidauthority.com/plaud-note-notepin-ai-voice-recorder-deals-3619917/)
- - [Get ready for Super Fast Charging 3.0: One UI 8.5 code teases speed upgrade](https://www.androidauthority.com/super-fast-charging-3-0-3619931/)
- - [In an October 7 letter, the Pentagon informed lawmakers that Alibaba, Baidu, and BYD should be added to a list of companies that aid the Chinese military &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/251126/p24#a251126p24)<!-- TECH:END -->
+ - [The EU Parliament backs a report that sets a 16+ age limit for accessing social media without parental consent and holds CEOs personally liable for violations &lpar;Eliza Gkritsi/Politico&rpar;](http://www.techmeme.com/251126/p26#a251126p26)
+ - [Portable and powerful: Razer Orochi V2 mouse hits sub-$30 for Black Friday](https://www.androidauthority.com/razer-orochi-v2-mouse-deal-3619916/)
+ - [Italy&#39;s competition regulator says it is scrutinizing a Meta policy excluding rival AI chatbots from WhatsApp, broadening the scope of a probe started in July &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/251126/p25#a251126p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
