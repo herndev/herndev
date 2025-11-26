@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber’s robotaxi service in UAE now includes fully driverless vehicles](https://www.theverge.com/news/828685/uber-weride-robotaxi-fully-driverless-uae)
- - [watchTowr: 80K+ sensitive credentials were found via publicly accessible &quot;Recent Links&quot; pages on online code formatting tools JSONFormatter and CodeBeautify &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251126/p5#a251126p5)
- - [Snapdragon 8 Gen 5 brings major upgrades for affordable flagships, but one downgrade](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-5-launch-3618923/)<!-- TECH:END -->
+ - [Some food bloggers warn Google&#39;s AI Overviews and AI food pics are burying their real, tested recipes, setting home cooks up for disaster this Thanksgiving &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p6#a251126p6)
+ - [Finally, WhatsApp is working on the one status tool users actually need &lpar;APK teardown&rpar;](https://www.androidauthority.com/whatsapp-status-save-as-draft-apk-teardown-3619668/)
+ - [OnePlus Promo Code: $70 Off | November 2025](https://www.wired.com/story/oneplus-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
