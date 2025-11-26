@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Charm.io: TikTok Shop reached $10B+ in US sales across 600K creators between January and October, up from $5B YoY; global sales are on par with eBay&#39;s &lpar;Emmett Lindner/New York Times&rpar;](http://www.techmeme.com/251125/p38#a251125p38)
  - [This Google TV streaming stick is just $9 for Black Friday, and it comes with free Apple trials](https://www.androidauthority.com/walmart-onn-full-hd-google-tv-streaming-stick-black-friday-deal-3619618/)
- - [Foxconn plans to spend another $569M through 2029 to expand its Mount Pleasant, WI AI server manufacturing site, adding to $717M invested through 2024 &lpar;Joe Schulz/WPR&rpar;](http://www.techmeme.com/251125/p37#a251125p37)
- - [Best Outdoor String Lights for 2025: Illuminate Your Balcony, Patio, Backyard and More](https://www.cnet.com/news/best-outdoor-string-lights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Foxconn plans to spend another $569M through 2029 to expand its Mount Pleasant, WI AI server manufacturing site, adding to $717M invested through 2024 &lpar;Joe Schulz/WPR&rpar;](http://www.techmeme.com/251125/p37#a251125p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
