@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wizards delays MTG&#39;s Monster Hunter Secret Lair following fan backlash](https://www.polygon.com/magic-mtg-monster-hunter-secret-lair-delay/)
- - [Marvel Rivals’ New Mode Sounds Like The Stuff That Crashes Your PC](https://kotaku.com/marvel-rivals-new-18-36-player-mode-annihilation-trailer-2000647688)
- - [Epic boss Tim Sweeney thinks stores like Steam should stop labelling games as being made with AI: &#39;It makes no sense,&#39; he says, because &#39;AI will be involved in nearly all future production&#39;](https://www.pcgamer.com/software/ai/epic-boss-tim-sweeney-thinks-stores-like-steam-should-stop-labelling-games-as-being-made-with-ai-it-makes-no-sense-he-says-because-ai-will-be-involved-in-nearly-all-future-production/)<!-- GAME:END -->
+ - [2 months after being acquired by private equity, Splash Damage is making major layoffs so it can &#39;remain agile,&#39; even though it hasn&#39;t released a game since 2020](https://www.pcgamer.com/gaming-industry/2-months-after-being-acquired-by-private-equity-splash-damage-is-making-major-layoffs-so-it-can-remain-agile-even-though-it-hasnt-released-a-game-since-2020/)
+ - [Monster Hunter Fans Just Made Magic: The Gathering Do Something Unprecedented](https://kotaku.com/monster-hunter-mtg-magic-the-gathering-secret-lair-superdrop-2000647703)
+ - [Wizards delays MTG&#39;s Monster Hunter Secret Lair following fan backlash](https://www.polygon.com/magic-mtg-monster-hunter-secret-lair-delay/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
