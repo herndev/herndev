@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)
- - ⏩ [Your motivation for the week](http://9gag.com/gag/a5Q9nVL)
- - 👉 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)<!-- MEMES:END -->
+ - 💣 [Something about Slayer](http://9gag.com/gag/aQzDR2W)
+ - ⏩ [Clean](http://9gag.com/gag/a34zQEr)
+ - 👉 [Do it for your future self](http://9gag.com/gag/a6ZeNrL)<!-- MEMES:END -->
 
 ---
 
