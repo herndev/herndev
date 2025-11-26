@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People have been accusing JC Staff of using AI for their animation. They are factually wrong.](http://9gag.com/gag/azxv1bp)
+ - 💣 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
  - ⏩ [9th century female torso from india](http://9gag.com/gag/awy9o44)
- - 👉 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)<!-- MEMES:END -->
+ - 👉 [How fg get away with this lol](http://9gag.com/gag/abALrnB)<!-- MEMES:END -->
 
 ---
 
