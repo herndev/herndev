@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s best Black Friday Apple deals slash prices to as low as $9.88](https://appleinsider.com/articles/25/11/27/amazons-best-black-friday-apple-deals-slash-prices-to-as-low-as-988?utm_source=rss)
- - [Best MacBook Pro Black Friday deals drop prices to as low as $1,399 for M5 14-inch](https://appleinsider.com/articles/25/11/27/best-macbook-pro-black-friday-deals-drop-prices-to-as-low-as-1399-for-m5-14-inch?utm_source=rss)
- - [Google Maps is making sure you ‘know before you go’ on this holiday weekend’s travels](https://www.androidauthority.com/know-before-you-go-3620311/)<!-- TECH:END -->
+ - [Germany-based Quantum Systems, which sells surveillance drones that are being used by Ukraine, raised €180M, tripling its valuation to €3B since May &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251127/p21#a251127p21)
+ - [Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 28, #901](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-28-901/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
