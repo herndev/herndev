@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel Watch not measuring walks correctly? It could all come down to stride](https://www.androidauthority.com/smartwatch-walk-distance-3620289/)
  - [Philips Hue’s Festavia string lights are up to $158 off just in time for Christmas](https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025)
- - [Score a WYZE Cam v4 2-pack for less than $40 in this Black Friday special](https://www.androidauthority.com/wyze-cam-v4-black-friday-deal-3620018/)
- - [EU lawmakers agree on new rules that hold platforms like Meta and TikTok liable for financial scams that have been reported, requiring them to compensate banks &lpar;Politico&rpar;](http://www.techmeme.com/251127/p18#a251127p18)<!-- TECH:END -->
+ - [How Microsoft’s developers are using AI](https://www.theverge.com/tech/831379/microsoft-developer-ai-usage-stats-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
