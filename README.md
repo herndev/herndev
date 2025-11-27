@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung Quietly Supplies Amazon Millions of Galaxy Buds 3 Pro to Clear Stock, Now at New All-Time Low](https://kotaku.com/samsung-quietly-supplies-amazon-millions-of-galaxy-buds-3-pro-to-clear-stock-now-at-new-all-time-low-2000647746)
- - [Pokémon Go Tour 2026 heads to Kalos](https://www.polygon.com/pokemon-go-tour-2026-kalos-event/)
- - [OpenAI says teen&#39;s &#39;misuse&#39; of ChatGPT is to blame for his suicide, because he broke the TOU: &#39;users must comply with OpenAI&#39;s Usage Policies, which prohibit the use of ChatGPT for suicide or self-harm&#39;](https://www.pcgamer.com/software/ai/openai-says-teens-misuse-of-chatgpt-is-to-blame-for-his-suicide-because-he-broke-the-tou-users-must-comply-with-openais-usage-policies-which-prohibit-the-use-of-chatgpt-for-suicide-or-self-harm/)<!-- GAME:END -->
+ - [Zootopia 2 creators address the post-credits scene and Zootopia 3](https://www.polygon.com/zootopia-2-post-credits-scene-explained-director-interview-sequel/)
+ - [Fitbit Adopts Zero-Profit Play on Charge 6 Fitness Tracker This Black Friday, Selling at New All-Time Low](https://kotaku.com/fitbit-adopts-zero-profit-play-on-charge-6-fitness-tracker-this-black-friday-selling-at-new-all-time-low-2000647751)
+ - [Samsung Quietly Supplies Amazon Millions of Galaxy Buds 3 Pro to Clear Stock, Now at New All-Time Low](https://kotaku.com/samsung-quietly-supplies-amazon-millions-of-galaxy-buds-3-pro-to-clear-stock-now-at-new-all-time-low-2000647746)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
