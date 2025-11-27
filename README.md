@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [9th century female torso from india](http://9gag.com/gag/awy9o44)
- - ⏩ [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
- - 👉 [Bros got a point](http://9gag.com/gag/adBW8jD)<!-- MEMES:END -->
+ - ⏩ [Bros got a point](http://9gag.com/gag/adBW8jD)
+ - 👉 [Escape](http://9gag.com/gag/aoyGMx3)<!-- MEMES:END -->
 
 ---
 
