@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: the Gathering&#39;s Monster Hunter reveal went so poorly that the whole thing is delayed: &#39;Back to the drawing board&#39;](https://www.pcgamer.com/games/card-games/magic-the-gatherings-monster-hunter-reveal-went-so-poorly-that-the-whole-thing-is-delayed-back-to-the-drawing-board/)
- - [Assassin&#39;s Creed Shadows has no plans for more expansions like Claws of Awaji, a first for the series in its modern form](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-has-no-plans-for-more-expansions-like-claws-of-awaji-a-first-for-the-series-in-its-modern-form/)
- - [This rat-obsessed strategy shooter makes you look at a pair of furry testicles before every mission, and you&#39;ve got to respect that](https://www.pcgamer.com/games/strategy/this-rat-obsessed-strategy-shooter-makes-you-look-at-a-pair-of-furry-testicles-before-every-mission-and-youve-got-to-respect-that/)<!-- GAME:END -->
+ - [Surprise surprise, people are still in no hurry to switch to Windows 11, Dell reveals](https://www.pcgamer.com/software/windows/surprise-surprise-people-are-still-in-no-hurry-to-switch-to-windows-11-dell-reveals/)
+ - [Alienware 16 Aurora Gaming Laptop Was Pricier Than a MacBook Air at Launch, Now Black Friday Makes It Even Cheaper Than One](https://kotaku.com/treat-yourself-or-a-gamer-in-your-life-with-the-16-inch-alienware-aurora-gaming-laptop-while-its-discounted-2000648026)
+ - [I ranked Arc Raiders skins based on how likely I am to shoot them on sight, and I&#39;ve become the thing I swore to destroy](https://www.pcgamer.com/games/third-person-shooter/i-ranked-arc-raiders-skins-based-on-how-likely-i-am-to-shoot-them-on-sight-and-ive-become-the-thing-i-swore-to-destroy/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
