@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Surprise surprise, people are still in no hurry to switch to Windows 11, Dell reveals](https://www.pcgamer.com/software/windows/surprise-surprise-people-are-still-in-no-hurry-to-switch-to-windows-11-dell-reveals/)
- - [Alienware 16 Aurora Gaming Laptop Was Pricier Than a MacBook Air at Launch, Now Black Friday Makes It Even Cheaper Than One](https://kotaku.com/treat-yourself-or-a-gamer-in-your-life-with-the-16-inch-alienware-aurora-gaming-laptop-while-its-discounted-2000648026)
- - [I ranked Arc Raiders skins based on how likely I am to shoot them on sight, and I&#39;ve become the thing I swore to destroy](https://www.pcgamer.com/games/third-person-shooter/i-ranked-arc-raiders-skins-based-on-how-likely-i-am-to-shoot-them-on-sight-and-ive-become-the-thing-i-swore-to-destroy/)<!-- GAME:END -->
+ - [What My Video Game Family Is Bringing To Thanksgiving](https://kotaku.com/what-my-video-game-family-is-bringing-to-thanksgiving-1845758556)
+ - [LEGO Goes Full Liquidation on Santa’s Sleigh Set, Now Selling at Zero Profit to Clear Before Christmas](https://kotaku.com/lego-goes-full-liquidation-on-santas-sleigh-set-now-selling-at-zero-profit-to-clear-before-christmas-2000648144)
+ - [Where is Maurice&#39;s Black Market Vending Machine in Borderlands 4](https://www.polygon.com/borderlands-4-maurices-black-market-vending-legendary-machine-location/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
