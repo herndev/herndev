@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It was worth it if he gets to hit](http://9gag.com/gag/awy9AX1)
- - ⏩ [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)
- - 👉 [**What kind of question is that?**](http://9gag.com/gag/axye1XK)<!-- MEMES:END -->
+ - 💣 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - ⏩ [Just Asking](http://9gag.com/gag/agmp5Wq)
+ - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
 
 ---
 
