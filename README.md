@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Joachim Trier finds his place](https://www.theverge.com/entertainment/830079/sentimental-value-joachim-trier-interview)
- - [Amazon just undercut Samsung’s Black Friday price on the Galaxy Z Fold 7](https://www.androidauthority.com/samsung-galaxy-z-fold-7-amazon-deal-3620242/)
- - [Top 10 Black Friday deals you can get today](https://www.androidauthority.com/black-friday-2025-deals-now-3619631/)<!-- TECH:END -->
+ - [How to help your parents with their tech over the holidays](https://www.theverge.com/tech/827812/tech-support-family-thanksgiving-how-to)
+ - [Google’s fix for the worst part of setting up a new Android phone is actually working](https://www.androidauthority.com/google-restore-credentials-success-story-3620253/)
+ - [Why can’t ChatGPT tell time?](https://www.theverge.com/report/829137/openai-chatgpt-time-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
