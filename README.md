@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Step aside, Doom: Mad lad plays Minecraft using a receipt printer for reasons known only to him and God](https://www.pcgamer.com/games/survival-crafting/step-aside-doom-mad-lad-plays-minecraft-using-a-receipt-printer-for-reasons-known-only-to-him-and-god/)
- - [Fortnite&#39;s Kill Bill collaboration censors the Pussy Wagon, because I guess you can&#39;t say &#39;Pussy Wagon&#39; in Fortnite](https://www.pcgamer.com/games/battle-royale/fortnites-kill-bill-collaboration-censors-the-pussy-wagon-because-i-guess-you-cant-say-pussy-wagon-in-fortnite/)
- - [The ZX Spectrum is one of the most iconic PCs of all time, and it could be making a fun LEGO-based comeback](https://www.pcgamer.com/hardware/the-zx-spectrum-is-one-of-the-most-iconic-pcs-of-all-time-and-it-could-be-making-a-fun-lego-based-comeback/)<!-- GAME:END -->
+ - [Amazon Quietly Dumps Thousands of iRobot Vacuums, Roomba 105 Now Going for All-Time Low](https://kotaku.com/amazon-quietly-dumps-thousands-of-irobot-vacuums-roomba-105-now-going-for-all-time-low-2000648154)
+ - [Clair Obscur creative director says he knew the game was going to be &#39;cool,&#39; but he really didn&#39;t expect it to be so &#39;big&#39;](https://www.pcgamer.com/games/rpg/clair-obscur-creative-director-says-he-knew-the-game-was-going-to-be-cool-but-he-really-didnt-expect-it-to-be-so-big/)
+ - [Samsung 65″ OLED S90F TV Hits All-Time Low, 2025 Model Now Cheaper Than Last Year’s Version](https://kotaku.com/samsung-65-oled-s90f-tv-hits-all-time-low-2025-model-now-cheaper-than-last-years-version-2000648184)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
