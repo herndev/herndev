@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s best Black Friday Apple deals slash prices to as low as $9.88](https://appleinsider.com/articles/25/11/27/amazons-best-black-friday-apple-deals-slash-prices-to-as-low-as-988?utm_source=rss)
- - [Black Friday 2025: The best deals on phones, wearables, and a lot more](https://www.androidauthority.com/best-deals-black-friday-2025-3616230/)
- - [Let’s play roulette: Samsung Galaxy S25 Ultra showing different awesome deals for different people!](https://www.androidauthority.com/samsung-galaxy-s25-ultra-deal-17-3619476/)<!-- TECH:END -->
+ - [Surprising price cut on Apple Mac Mini: $479 for Black Friday](https://www.androidauthority.com/apple-mac-mini-m4-deal-6-3620315/)
+ - [Dreame’s X40 Ultra is arguably the best robovac deal you can grab for Black Friday](https://www.theverge.com/gadgets/829006/dreame-x40-ultra-black-friday-2025-deal-sale)
+ - [Amazon&#39;s best Black Friday Apple deals slash prices to as low as $9.88](https://appleinsider.com/articles/25/11/27/amazons-best-black-friday-apple-deals-slash-prices-to-as-low-as-988?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
