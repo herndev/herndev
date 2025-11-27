@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GameCube achievements are finally available on Android, but there’s a catch](https://www.androidauthority.com/gamecube-retroachievements-dolphin-android-3619881/)
- - [OpenAI says a Mixpanel security incident on November 9 let a hacker access API account names and more, but not ChatGPT data, and it terminated its Mixpanel use &lpar;OpenAI&rpar;](http://www.techmeme.com/251127/p10#a251127p10)
- - [Best Side-Sleeper Mattress 2025: Picked by a Sleep Science Coach](https://www.wired.com/gallery/best-mattress-for-side-sleepers/)<!-- TECH:END -->
+ - [Apple’s first foldable iPhone could outprice every Android rival by a mile](https://www.androidauthority.com/apple-foldable-iphone-high-price-rumor-3620173/)
+ - [Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025/)
+ - [Jefferies: Tether, which said it held 116 tons of gold in September, is &quot;the largest holder of gold outside central banks&quot;, buying 26 tons in Q3 and 24 in Q2 &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/251127/p12#a251127p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
