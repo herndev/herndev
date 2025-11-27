@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
- - ⏩ [Just Asking](http://9gag.com/gag/agmp5Wq)
+ - 💣 [Just Asking](http://9gag.com/gag/agmp5Wq)
+ - ⏩ [You need to see this again degenerates. F u and see u tmrw](http://9gag.com/gag/axye9Db)
  - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
 
 ---
