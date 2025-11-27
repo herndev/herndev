@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You need to see this again degenerates. F u and see u tmrw](http://9gag.com/gag/axye9Db)
- - ⏩ [Just Asking](http://9gag.com/gag/agmp5Wq)
- - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
+ - 💣 [People have been accusing JC Staff of using AI for their animation. They are factually wrong.](http://9gag.com/gag/azxv1bp)
+ - ⏩ [Disney now failing at their reverse move too.](http://9gag.com/gag/aByb0QD)
+ - 👉 [9th century female torso from india](http://9gag.com/gag/awy9o44)<!-- MEMES:END -->
 
 ---
 
