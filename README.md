@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t be the first one to sleep.....](http://9gag.com/gag/axyezE2)
- - ⏩ [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
- - 👉 [How fg get away with this lol](http://9gag.com/gag/abALrnB)<!-- MEMES:END -->
+ - 💣 [Not having Malevola romance option was the only thing I didn&#39;t like about Dispatch](http://9gag.com/gag/aGyrZ57)
+ - ⏩ [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
 
 ---
 
