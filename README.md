@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kevin Costner&#39;s Waterworld makes for an incredible theme park stunt show](https://www.polygon.com/universals-waterworld-stunt-show-kevin-costner/)
- - [Heavy Rain is David Cage&#39;s best worst game](https://www.polygon.com/heavy-rain-is-a-hot-mess-turkey-day/)
- - [Fallout: New Vegas is a masterpiece, despite its awful launch](https://www.polygon.com/fallout-new-vegas-buggy-launch-masterpiece/)<!-- GAME:END -->
+ - [Beats Studio Pro Now 3x Cheaper Than AirPods Max, Apple Makes Zero Profit Play on Beats](https://kotaku.com/beats-studio-pro-now-3x-cheaper-than-airpods-max-apple-makes-zero-profit-play-on-beats-2000648084)
+ - [20 Incredible, Innovative Indie Games To Wishlist This Thanksgiving](https://kotaku.com/indie-games-steam-wishlist-thanksgaming-2025-2000648051)
+ - [I&#39;ve just learned you can shimmy along walls in Arc Raiders, and now I&#39;m determined to find a practical use for it](https://www.pcgamer.com/games/third-person-shooter/ive-just-learned-you-can-shimmy-along-walls-in-arc-raiders-and-now-im-determined-to-find-a-practical-use-for-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
