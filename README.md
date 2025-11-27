@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to Hellfire Club is the perfect D&amp;D entry for Stranger Things fans](https://www.polygon.com/welcome-to-hellfire-club-dnd-stranger-things-review/)
- - [This lo-fi roguelike deckbuilder is like if someone made a version of Slay the Spire for when you&#39;ve got a hangover](https://www.pcgamer.com/games/roguelike/this-lo-fi-roguelike-deckbuilder-is-like-if-someone-made-a-version-of-slay-the-spire-for-when-youve-got-a-hangover/)
- - [Poll: Should RPGs always provide a transmog system, or should we be forced to live with our fashion crimes?](https://www.pcgamer.com/games/rpg/poll-should-rpgs-always-provide-a-transmog-system-or-should-we-be-forced-to-live-with-our-fashion-crimes/)<!-- GAME:END -->
+ - [The games we&#39;re most thankful for this Thanksgiving](https://www.polygon.com/games-were-thankful-for/)
+ - [Bootstrap Island, a realistic survival adventure, comes to PS VR2 next year](https://blog.playstation.com/2025/11/27/bootstrap-island-a-realistic-survival-adventure-comes-to-ps-vr2-next-year/)
+ - [Obsidian says The Outer Worlds 2 isn&#39;t a deliberate critique of capitalism, which is even more ridiculous than the time Fallout&#39;s co-creator said that isn&#39;t either](https://www.pcgamer.com/games/rpg/obsidian-says-the-outer-worlds-2-isnt-a-deliberate-critique-of-capitalism-which-is-even-more-ridiculous-than-the-time-fallouts-co-creator-said-that-isnt-either/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
