@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How fg get away with this lol](http://9gag.com/gag/abALrnB)
- - ⏩ [Not having Malevola romance option was the only thing I didn&#39;t like about Dispatch](http://9gag.com/gag/aGyrZ57)
- - 👉 [People have been accusing JC Staff of using AI for their animation. They are factually wrong.](http://9gag.com/gag/azxv1bp)<!-- MEMES:END -->
+ - 💣 [Don&#39;t be the first one to sleep.....](http://9gag.com/gag/axyezE2)
+ - ⏩ [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
+ - 👉 [How fg get away with this lol](http://9gag.com/gag/abALrnB)<!-- MEMES:END -->
 
 ---
 
