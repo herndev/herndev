@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The ZX Spectrum is one of the most iconic PCs of all time, and it could be making a fun LEGO-based comeback](https://www.pcgamer.com/hardware/the-zx-spectrum-is-one-of-the-most-iconic-pcs-of-all-time-and-it-could-be-making-a-fun-lego-based-comeback/)
- - [What time does the Fortnite Zero Hour Chapter Finale live event start?](https://www.polygon.com/fortnite-zero-hour-chapter-finale-live-event-start-time/)
- - [What My Video Game Family Is Bringing To Thanksgiving](https://kotaku.com/what-my-video-game-family-is-bringing-to-thanksgiving-1845758556)<!-- GAME:END -->
+ - [Step aside, Doom: Mad lad plays Minecraft using a receipt printer for reasons known only to him and God](https://www.pcgamer.com/games/survival-crafting/step-aside-doom-mad-lad-plays-minecraft-using-a-receipt-printer-for-reasons-known-only-to-him-and-god/)
+ - [Fortnite&#39;s Kill Bill collaboration censors the Pussy Wagon, because I guess you can&#39;t say &#39;Pussy Wagon&#39; in Fortnite](https://www.pcgamer.com/games/battle-royale/fortnites-kill-bill-collaboration-censors-the-pussy-wagon-because-i-guess-you-cant-say-pussy-wagon-in-fortnite/)
+ - [The ZX Spectrum is one of the most iconic PCs of all time, and it could be making a fun LEGO-based comeback](https://www.pcgamer.com/hardware/the-zx-spectrum-is-one-of-the-most-iconic-pcs-of-all-time-and-it-could-be-making-a-fun-lego-based-comeback/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
