@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find the missing kids in 99 Nights in the Forest](https://www.pcgamer.com/games/roblox/99-nights-in-the-forest-missing-kid-locations/)
- - [Zootopia 2 creators address the post-credits scene and Zootopia 3](https://www.polygon.com/zootopia-2-post-credits-scene-explained-director-interview-sequel/)
- - [Fitbit Adopts Zero-Profit Play on Charge 6 Fitness Tracker This Black Friday, Selling at New All-Time Low](https://kotaku.com/fitbit-adopts-zero-profit-play-on-charge-6-fitness-tracker-this-black-friday-selling-at-new-all-time-low-2000647751)<!-- GAME:END -->
+ - [Popular MTG promo program will end after 17 years](https://www.polygon.com/mtg-buy-a-box-promo-ends-wizards-lorwyn/)
+ - [Square Enix&#39;s Black Friday deals have FF7 Rebirth at 50% off](https://www.polygon.com/square-enix-black-friday-deals-ff7-rebirth/)
+ - [Fortnite&#39;s The Simpsons season is one of the best in ages—here are 4 things Epic should learn from it](https://www.pcgamer.com/games/battle-royale/fortnites-the-simpsons-season-is-one-of-the-best-in-ages-here-are-4-things-epic-should-learn-from-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
