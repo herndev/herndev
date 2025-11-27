@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The games we&#39;re most thankful for this Thanksgiving](https://www.polygon.com/games-were-thankful-for/)
- - [Bootstrap Island, a realistic survival adventure, comes to PS VR2 next year](https://blog.playstation.com/2025/11/27/bootstrap-island-a-realistic-survival-adventure-comes-to-ps-vr2-next-year/)
- - [Obsidian says The Outer Worlds 2 isn&#39;t a deliberate critique of capitalism, which is even more ridiculous than the time Fallout&#39;s co-creator said that isn&#39;t either](https://www.pcgamer.com/games/rpg/obsidian-says-the-outer-worlds-2-isnt-a-deliberate-critique-of-capitalism-which-is-even-more-ridiculous-than-the-time-fallouts-co-creator-said-that-isnt-either/)<!-- GAME:END -->
+ - [Kevin Costner&#39;s Waterworld makes for an incredible theme park stunt show](https://www.polygon.com/universals-waterworld-stunt-show-kevin-costner/)
+ - [Heavy Rain is David Cage&#39;s best worst game](https://www.polygon.com/heavy-rain-is-a-hot-mess-turkey-day/)
+ - [Fallout: New Vegas is a masterpiece, despite its awful launch](https://www.polygon.com/fallout-new-vegas-buggy-launch-masterpiece/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
