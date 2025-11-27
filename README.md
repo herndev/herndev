@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to help your parents with their tech over the holidays](https://www.theverge.com/tech/827812/tech-support-family-thanksgiving-how-to)
- - [Google’s fix for the worst part of setting up a new Android phone is actually working](https://www.androidauthority.com/google-restore-credentials-success-story-3620253/)
- - [Why can’t ChatGPT tell time?](https://www.theverge.com/report/829137/openai-chatgpt-time-date)<!-- TECH:END -->
+ - [A humanoid robot-shaped bubble is forming, China warns](https://www.theverge.com/news/831451/china-humanoid-robotics-bubble)
+ - [Best Black Friday iPhone deals: Save up to $1,899 on iPhone 17 Pro, Apple Watch, iPad bundle; iPhone Air as low as $0/mo](https://appleinsider.com/articles/25/11/27/best-black-friday-iphone-deals-save-up-to-1899-on-iphone-17-pro-apple-watch-ipad-bundle-iphone-air-as-low-as-0mo?utm_source=rss)
+ - [Analysis: since 2023, data center power demands have delayed 15 coal plants&#39; retirements; the Trump administration has ordered two power plants to remain open &lpar;Ariel Wittenberg/Politico&rpar;](http://www.techmeme.com/251127/p16#a251127p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
