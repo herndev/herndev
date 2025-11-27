@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What My Video Game Family Is Bringing To Thanksgiving](https://kotaku.com/what-my-video-game-family-is-bringing-to-thanksgiving-1845758556)
- - [LEGO Goes Full Liquidation on Santa’s Sleigh Set, Now Selling at Zero Profit to Clear Before Christmas](https://kotaku.com/lego-goes-full-liquidation-on-santas-sleigh-set-now-selling-at-zero-profit-to-clear-before-christmas-2000648144)
- - [Where is Maurice&#39;s Black Market Vending Machine in Borderlands 4](https://www.polygon.com/borderlands-4-maurices-black-market-vending-legendary-machine-location/)<!-- GAME:END -->
+ - [The ZX Spectrum is one of the most iconic PCs of all time, and it could be making a fun LEGO-based comeback](https://www.pcgamer.com/hardware/the-zx-spectrum-is-one-of-the-most-iconic-pcs-of-all-time-and-it-could-be-making-a-fun-lego-based-comeback/)
+ - [What time does the Fortnite Zero Hour Chapter Finale live event start?](https://www.polygon.com/fortnite-zero-hour-chapter-finale-live-event-start-time/)
+ - [What My Video Game Family Is Bringing To Thanksgiving](https://kotaku.com/what-my-video-game-family-is-bringing-to-thanksgiving-1845758556)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
