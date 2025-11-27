@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Beats Studio Pro Now 3x Cheaper Than AirPods Max, Apple Makes Zero Profit Play on Beats](https://kotaku.com/beats-studio-pro-now-3x-cheaper-than-airpods-max-apple-makes-zero-profit-play-on-beats-2000648084)
- - [20 Incredible, Innovative Indie Games To Wishlist This Thanksgiving](https://kotaku.com/indie-games-steam-wishlist-thanksgaming-2025-2000648051)
- - [I&#39;ve just learned you can shimmy along walls in Arc Raiders, and now I&#39;m determined to find a practical use for it](https://www.pcgamer.com/games/third-person-shooter/ive-just-learned-you-can-shimmy-along-walls-in-arc-raiders-and-now-im-determined-to-find-a-practical-use-for-it/)<!-- GAME:END -->
+ - [Free Play Days – Hypnospace Outlaw, Let’s Build a Zoo, Biped 2, Hammerwatch 2 and The First Berserker: Khazan](https://news.xbox.com/en-us/2025/11/27/free-play-days-11-27-2025/)
+ - [WD 14TB External Hard Drive Restocks at $0.01 per GB, Proving Margin Isn’t the Plan for Storage Deals This Black Friday](https://kotaku.com/amazon-takes-23-off-the-massive-20tb-wd-external-hard-drive-but-not-for-long-2000646687)
+ - [Original Yakuza 0&#39;s getting delisted from Steam on December 8, but you can tuck away a GOG copy for 45% off right now](https://www.pcgamer.com/games/action/original-yakuza-0s-getting-delisted-from-steam-on-december-8-but-you-can-tuck-away-a-gog-copy-for-45-percent-off-right-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
