@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Point One Navigation, which develops precise location tech, raised a $35M Series C led by Khosla Ventures, a source says at a post-money valuation of $230M &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/251126/p34#a251126p34)
- - [Happy Thanksgiving 2025 from AppleInsider](https://appleinsider.com/articles/25/11/27/happy-thanksgiving-2025-from-appleinsider?utm_source=rss)
- - [Google Maps’ Pixel 10-exclusive power saving mode is now rolling out widely](https://www.androidauthority.com/google-maps-power-saving-mode-rollout-3620065/)<!-- TECH:END -->
+ - [20% Off LG Promo Code &amp; Coupons | November 2025](https://www.wired.com/story/lg-promo-code/)
+ - [Watch out, Samsung: Sony reveals its first 200MP camera, and it might be a big upgrade](https://www.androidauthority.com/sony-lyt-901-200mp-camera-3620090/)
+ - [San Francisco Compute, which provides a marketplace for AI computing capacity, raised a $40M Series A led by DCVC and Wing Venture Capital at a $300M valuation &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/251127/p2#a251127p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
