@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A humanoid robot-shaped bubble is forming, China warns](https://www.theverge.com/news/831451/china-humanoid-robotics-bubble)
- - [Best Black Friday iPhone deals: Save up to $1,899 on iPhone 17 Pro, Apple Watch, iPad bundle; iPhone Air as low as $0/mo](https://appleinsider.com/articles/25/11/27/best-black-friday-iphone-deals-save-up-to-1899-on-iphone-17-pro-apple-watch-ipad-bundle-iphone-air-as-low-as-0mo?utm_source=rss)
- - [Analysis: since 2023, data center power demands have delayed 15 coal plants&#39; retirements; the Trump administration has ordered two power plants to remain open &lpar;Ariel Wittenberg/Politico&rpar;](http://www.techmeme.com/251127/p16#a251127p16)<!-- TECH:END -->
+ - [Philips Hue’s Festavia string lights are up to $158 off just in time for Christmas](https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025)
+ - [Score a WYZE Cam v4 2-pack for less than $40 in this Black Friday special](https://www.androidauthority.com/wyze-cam-v4-black-friday-deal-3620018/)
+ - [EU lawmakers agree on new rules that hold platforms like Meta and TikTok liable for financial scams that have been reported, requiring them to compensate banks &lpar;Politico&rpar;](http://www.techmeme.com/251127/p18#a251127p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
