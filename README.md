@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People have been accusing JC Staff of using AI for their animation. They are factually wrong.](http://9gag.com/gag/azxv1bp)
- - ⏩ [Not having Malevola romance option was the only thing I didn&#39;t like about Dispatch](http://9gag.com/gag/aGyrZ57)
- - 👉 [9th century female torso from india](http://9gag.com/gag/awy9o44)<!-- MEMES:END -->
+ - 💣 [It was worth it if he gets to hit](http://9gag.com/gag/awy9AX1)
+ - ⏩ [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)
+ - 👉 [**What kind of question is that?**](http://9gag.com/gag/axye1XK)<!-- MEMES:END -->
 
 ---
 
