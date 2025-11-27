@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Happy Thanksgiving 2025 from AppleInsider](https://appleinsider.com/articles/25/11/27/happy-thanksgiving-2025-from-appleinsider?utm_source=rss)
  - [Google Maps’ Pixel 10-exclusive power saving mode is now rolling out widely](https://www.androidauthority.com/google-maps-power-saving-mode-rollout-3620065/)
- - [Coverbase, an AI procurement and risk platform provider, raised a $16.5M Series A led by Canapi Ventures, bringing its total funding to $20M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251126/p33#a251126p33)
- - [Blackstone invests $50M into compliance agent-focused Norm Ai, which is launching an independent law firm offering &quot;AI-native legal services&quot; &lpar;Norm Ai&rpar;](http://www.techmeme.com/251126/p32#a251126p32)<!-- TECH:END -->
+ - [Coverbase, an AI procurement and risk platform provider, raised a $16.5M Series A led by Canapi Ventures, bringing its total funding to $20M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251126/p33#a251126p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
