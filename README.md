@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ServiceNow is in advanced talks to buy corporate data management and security startup Veza for $1B+ in a deal as early as next week &lpar;The Information&rpar;](http://www.techmeme.com/251126/p31#a251126p31)
- - [The best Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [Intel denies allegations in a TSMC lawsuit that VP Wei-Jen Lo likely leaked trade secrets after retiring from TSMC and joining Intel &lpar;Reuters&rpar;](http://www.techmeme.com/251126/p30#a251126p30)<!-- TECH:END -->
+ - [Google Maps’ Pixel 10-exclusive power saving mode is now rolling out widely](https://www.androidauthority.com/google-maps-power-saving-mode-rollout-3620065/)
+ - [Coverbase, an AI procurement and risk platform provider, raised a $16.5M Series A led by Canapi Ventures, bringing its total funding to $20M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251126/p33#a251126p33)
+ - [Blackstone invests $50M into compliance agent-focused Norm Ai, which is launching an independent law firm offering &quot;AI-native legal services&quot; &lpar;Norm Ai&rpar;](http://www.techmeme.com/251126/p32#a251126p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
