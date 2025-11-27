@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The value of cross expertise collaboration](http://9gag.com/gag/aW4eERn)
+ - 💣 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
  - ⏩ [How is this possible?](http://9gag.com/gag/a34zKQ3)
- - 👉 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)<!-- MEMES:END -->
+ - 👉 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)<!-- MEMES:END -->
 
 ---
 
