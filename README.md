@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 Is Keeping CD Projekt Red Funded As It Breaks A Witcher 3 Record](https://kotaku.com/cyberpunk-2-sales-witcher-4-cdpr-2000647747)
- - [Govee Offloads Full Inventory of Smart Table Lamps to Amazon, Now at All-Time Low Price](https://kotaku.com/govee-offloads-full-inventory-of-smart-table-lamps-to-amazon-now-at-all-time-low-price-2000647721)
- - [Sean Murray just crushed my hopes of playing Light No Fire anytime soon by describing the dev team as &#39;tiny&#39; and working &#39;in the background&#39; at Hello Games](https://www.pcgamer.com/games/survival-crafting/sean-murray-just-crushed-my-hopes-of-playing-light-no-fire-anytime-soon-by-by-describing-the-dev-team-as-tiny-and-working-in-the-background-at-hello-games/)<!-- GAME:END -->
+ - [OpenAI says teen&#39;s &#39;misuse&#39; of ChatGPT is to blame for his suicide, because he broke the TOU: &#39;users must comply with OpenAI&#39;s Usage Policies, which prohibit the use of ChatGPT for suicide or self-harm&#39;](https://www.pcgamer.com/software/ai/openai-says-teens-misuse-of-chatgpt-is-to-blame-for-his-suicide-because-he-broke-the-tou-users-must-comply-with-openais-usage-policies-which-prohibit-the-use-of-chatgpt-for-suicide-or-self-harm/)
+ - [Sony Goes Zero Profit on DualSense Edge Controller, Pro Gamers Can Snag It at All-Time Low](https://kotaku.com/sony-goes-zero-profit-on-dualsense-edge-controller-pro-gamers-can-snag-it-at-all-time-low-2000647737)
+ - [Can you order these games by their release date? Get chrono-logical in our latest quiz!](https://www.pcgamer.com/games/can-you-order-these-games-by-their-release-date-get-chrono-logical-in-our-latest-quiz/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
