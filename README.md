@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
- - ⏩ [How is this possible?](http://9gag.com/gag/a34zKQ3)
- - 👉 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)<!-- MEMES:END -->
+ - 💣 [Mexican budget fireworks...](http://9gag.com/gag/azxv93z)
+ - ⏩ [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 👉 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)<!-- MEMES:END -->
 
 ---
 
