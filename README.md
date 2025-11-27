@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Popular MTG promo program will end after 17 years](https://www.polygon.com/mtg-buy-a-box-promo-ends-wizards-lorwyn/)
- - [Square Enix&#39;s Black Friday deals have FF7 Rebirth at 50% off](https://www.polygon.com/square-enix-black-friday-deals-ff7-rebirth/)
- - [Fortnite&#39;s The Simpsons season is one of the best in ages—here are 4 things Epic should learn from it](https://www.pcgamer.com/games/battle-royale/fortnites-the-simpsons-season-is-one-of-the-best-in-ages-here-are-4-things-epic-should-learn-from-it/)<!-- GAME:END -->
+ - [Welcome to Hellfire Club is the perfect D&amp;D entry for Stranger Things fans](https://www.polygon.com/welcome-to-hellfire-club-dnd-stranger-things-review/)
+ - [This lo-fi roguelike deckbuilder is like if someone made a version of Slay the Spire for when you&#39;ve got a hangover](https://www.pcgamer.com/games/roguelike/this-lo-fi-roguelike-deckbuilder-is-like-if-someone-made-a-version-of-slay-the-spire-for-when-youve-got-a-hangover/)
+ - [Poll: Should RPGs always provide a transmog system, or should we be forced to live with our fashion crimes?](https://www.pcgamer.com/games/rpg/poll-should-rpgs-always-provide-a-transmog-system-or-should-we-be-forced-to-live-with-our-fashion-crimes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
