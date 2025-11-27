@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [OpenAI says teen&#39;s &#39;misuse&#39; of ChatGPT is to blame for his suicide, because he broke the TOU: &#39;users must comply with OpenAI&#39;s Usage Policies, which prohibit the use of ChatGPT for suicide or self-harm&#39;](https://www.pcgamer.com/software/ai/openai-says-teens-misuse-of-chatgpt-is-to-blame-for-his-suicide-because-he-broke-the-tou-users-must-comply-with-openais-usage-policies-which-prohibit-the-use-of-chatgpt-for-suicide-or-self-harm/)
- - [Sony Goes Zero Profit on DualSense Edge Controller, Pro Gamers Can Snag It at All-Time Low](https://kotaku.com/sony-goes-zero-profit-on-dualsense-edge-controller-pro-gamers-can-snag-it-at-all-time-low-2000647737)
- - [Can you order these games by their release date? Get chrono-logical in our latest quiz!](https://www.pcgamer.com/games/can-you-order-these-games-by-their-release-date-get-chrono-logical-in-our-latest-quiz/)<!-- GAME:END -->
+ - [Samsung Quietly Supplies Amazon Millions of Galaxy Buds 3 Pro to Clear Stock, Now at New All-Time Low](https://kotaku.com/samsung-quietly-supplies-amazon-millions-of-galaxy-buds-3-pro-to-clear-stock-now-at-new-all-time-low-2000647746)
+ - [Pokémon Go Tour 2026 heads to Kalos](https://www.polygon.com/pokemon-go-tour-2026-kalos-event/)
+ - [OpenAI says teen&#39;s &#39;misuse&#39; of ChatGPT is to blame for his suicide, because he broke the TOU: &#39;users must comply with OpenAI&#39;s Usage Policies, which prohibit the use of ChatGPT for suicide or self-harm&#39;](https://www.pcgamer.com/software/ai/openai-says-teens-misuse-of-chatgpt-is-to-blame-for-his-suicide-because-he-broke-the-tou-users-must-comply-with-openais-usage-policies-which-prohibit-the-use-of-chatgpt-for-suicide-or-self-harm/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
