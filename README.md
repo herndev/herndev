@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People have been accusing JC Staff of using AI for their animation. They are factually wrong.](http://9gag.com/gag/azxv1bp)
- - ⏩ [Disney now failing at their reverse move too.](http://9gag.com/gag/aByb0QD)
- - 👉 [9th century female torso from india](http://9gag.com/gag/awy9o44)<!-- MEMES:END -->
+ - 💣 [Just Asking](http://9gag.com/gag/agmp5Wq)
+ - ⏩ [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 👉 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)<!-- MEMES:END -->
 
 ---
 
