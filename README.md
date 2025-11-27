@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Point One Navigation, which develops precise location tech, raised a $35M Series C led by Khosla Ventures, a source says at a post-money valuation of $230M &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/251126/p34#a251126p34)
  - [Happy Thanksgiving 2025 from AppleInsider](https://appleinsider.com/articles/25/11/27/happy-thanksgiving-2025-from-appleinsider?utm_source=rss)
- - [Google Maps’ Pixel 10-exclusive power saving mode is now rolling out widely](https://www.androidauthority.com/google-maps-power-saving-mode-rollout-3620065/)
- - [Coverbase, an AI procurement and risk platform provider, raised a $16.5M Series A led by Canapi Ventures, bringing its total funding to $20M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251126/p33#a251126p33)<!-- TECH:END -->
+ - [Google Maps’ Pixel 10-exclusive power saving mode is now rolling out widely](https://www.androidauthority.com/google-maps-power-saving-mode-rollout-3620065/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
