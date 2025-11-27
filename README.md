@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Hypnospace Outlaw, Let’s Build a Zoo, Biped 2, Hammerwatch 2 and The First Berserker: Khazan](https://news.xbox.com/en-us/2025/11/27/free-play-days-11-27-2025/)
- - [WD 14TB External Hard Drive Restocks at $0.01 per GB, Proving Margin Isn’t the Plan for Storage Deals This Black Friday](https://kotaku.com/amazon-takes-23-off-the-massive-20tb-wd-external-hard-drive-but-not-for-long-2000646687)
- - [Original Yakuza 0&#39;s getting delisted from Steam on December 8, but you can tuck away a GOG copy for 45% off right now](https://www.pcgamer.com/games/action/original-yakuza-0s-getting-delisted-from-steam-on-december-8-but-you-can-tuck-away-a-gog-copy-for-45-percent-off-right-now/)<!-- GAME:END -->
+ - [Magic: the Gathering&#39;s Monster Hunter reveal went so poorly that the whole thing is delayed: &#39;Back to the drawing board&#39;](https://www.pcgamer.com/games/card-games/magic-the-gatherings-monster-hunter-reveal-went-so-poorly-that-the-whole-thing-is-delayed-back-to-the-drawing-board/)
+ - [Assassin&#39;s Creed Shadows has no plans for more expansions like Claws of Awaji, a first for the series in its modern form](https://www.pcgamer.com/games/assassins-creed/assassins-creed-shadows-has-no-plans-for-more-expansions-like-claws-of-awaji-a-first-for-the-series-in-its-modern-form/)
+ - [This rat-obsessed strategy shooter makes you look at a pair of furry testicles before every mission, and you&#39;ve got to respect that](https://www.pcgamer.com/games/strategy/this-rat-obsessed-strategy-shooter-makes-you-look-at-a-pair-of-furry-testicles-before-every-mission-and-youve-got-to-respect-that/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
