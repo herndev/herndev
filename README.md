@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just Asking](http://9gag.com/gag/agmp5Wq)
- - ⏩ [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 👉 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)<!-- MEMES:END -->
+ - 💣 [Bros got a point](http://9gag.com/gag/adBW8jD)
+ - ⏩ [It was worth it if he gets to hit](http://9gag.com/gag/awy9AX1)
+ - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
 
 ---
 
