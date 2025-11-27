@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s first foldable iPhone could outprice every Android rival by a mile](https://www.androidauthority.com/apple-foldable-iphone-high-price-rumor-3620173/)
- - [Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025/)
- - [Jefferies: Tether, which said it held 116 tons of gold in September, is &quot;the largest holder of gold outside central banks&quot;, buying 26 tons in Q3 and 24 in Q2 &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/251127/p12#a251127p12)<!-- TECH:END -->
+ - [Capture every detail with this year’s Ring Wired Doorbell Plus Black Friday sale](https://www.androidauthority.com/ring-wired-doorbell-plus-deal-3619255/)
+ - [China’s Alibaba giant enters the smart glasses race with removable batteries](https://www.theverge.com/news/831354/alibaba-quark-smart-glasses)
+ - [The Dell 14 Plus Just Hit a New Rock Bottom Price &lpar;2025&rpar;](https://www.wired.com/story/dell-14-plus-black-friday-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
