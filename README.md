@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)
- - ⏩ [The value of cross expertise collaboration](http://9gag.com/gag/aW4eERn)
- - 👉 [Cop arrested man and caused him to miss his daughter&#39;s graduation because she was offended by his attitude](http://9gag.com/gag/a9y4nRZ)<!-- MEMES:END -->
+ - 💣 [9th century female torso from india](http://9gag.com/gag/awy9o44)
+ - ⏩ [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 👉 [Bros got a point](http://9gag.com/gag/adBW8jD)<!-- MEMES:END -->
 
 ---
 
