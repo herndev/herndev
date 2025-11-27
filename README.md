@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mexican budget fireworks...](http://9gag.com/gag/azxv93z)
- - ⏩ [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
- - 👉 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)<!-- MEMES:END -->
+ - 💣 [How fg get away with this lol](http://9gag.com/gag/abALrnB)
+ - ⏩ [Not having Malevola romance option was the only thing I didn&#39;t like about Dispatch](http://9gag.com/gag/aGyrZ57)
+ - 👉 [People have been accusing JC Staff of using AI for their animation. They are factually wrong.](http://9gag.com/gag/azxv1bp)<!-- MEMES:END -->
 
 ---
 
