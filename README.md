@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Clover Security, whose AI agents plug into developer platforms like GitHub to predict and detect security flaws, raised $36M led by Notable Capital and Team8 &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/251127/p6#a251127p6)
  - [20% Off LG Promo Code &amp; Coupons | November 2025](https://www.wired.com/story/lg-promo-code/)
- - [Watch out, Samsung: Sony reveals its first 200MP camera, and it might be a big upgrade](https://www.androidauthority.com/sony-lyt-901-200mp-camera-3620090/)
- - [San Francisco Compute, which provides a marketplace for AI computing capacity, raised a $40M Series A led by DCVC and Wing Venture Capital at a $300M valuation &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/251127/p2#a251127p2)<!-- TECH:END -->
+ - [1Password Coupon: Score a Free Trial in November](https://www.wired.com/story/1password-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
