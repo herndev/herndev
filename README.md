@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Capture every detail with this year’s Ring Wired Doorbell Plus Black Friday sale](https://www.androidauthority.com/ring-wired-doorbell-plus-deal-3619255/)
- - [China’s Alibaba giant enters the smart glasses race with removable batteries](https://www.theverge.com/news/831354/alibaba-quark-smart-glasses)
- - [The Dell 14 Plus Just Hit a New Rock Bottom Price &lpar;2025&rpar;](https://www.wired.com/story/dell-14-plus-black-friday-2025/)<!-- TECH:END -->
+ - [Joachim Trier finds his place](https://www.theverge.com/entertainment/830079/sentimental-value-joachim-trier-interview)
+ - [Amazon just undercut Samsung’s Black Friday price on the Galaxy Z Fold 7](https://www.androidauthority.com/samsung-galaxy-z-fold-7-amazon-deal-3620242/)
+ - [Top 10 Black Friday deals you can get today](https://www.androidauthority.com/black-friday-2025-deals-now-3619631/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
