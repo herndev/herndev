@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ServiceNow is in advanced talks to buy corporate data management and security startup Veza for $1B+ in a deal as early as next week &lpar;The Information&rpar;](http://www.techmeme.com/251126/p31#a251126p31)
  - [The best Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [Intel denies allegations in a TSMC lawsuit that VP Wei-Jen Lo likely leaked trade secrets after retiring from TSMC and joining Intel &lpar;Reuters&rpar;](http://www.techmeme.com/251126/p30#a251126p30)
- - [The best Black Friday deals we’ve found on TVs, laptops, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)<!-- TECH:END -->
+ - [Intel denies allegations in a TSMC lawsuit that VP Wei-Jen Lo likely leaked trade secrets after retiring from TSMC and joining Intel &lpar;Reuters&rpar;](http://www.techmeme.com/251126/p30#a251126p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
