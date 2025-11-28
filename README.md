@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
- - ⏩ [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)
- - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
+ - 💣 [Peaceful culture](http://9gag.com/gag/aE0jpQG)
+ - ⏩ [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
+ - 👉 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)<!-- MEMES:END -->
 
 ---
 
