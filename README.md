@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big Black Friday deals on Roborock robot vacuum &amp; mops offer up to 62% off](https://appleinsider.com/articles/25/11/28/big-black-friday-deals-on-roborock-robot-vacuum-mops-offer-up-to-62-off?utm_source=rss)
- - [Samsung’s tri-fold may be cheaper than expected, but don’t celebrate yet](https://www.androidauthority.com/samsung-tri-fold-foldable-new-price-leak-3620378/)
- - [Gemini 3 Pro is so good, Google had to tighten free tier limits to keep up](https://www.androidauthority.com/gemini-3-pro-high-demand-free-tier-limit-3620382/)<!-- TECH:END -->
+ - [A big YouTube TV overhaul with cheaper packages may be in the works](https://www.androidauthority.com/youtube-tv-cheaper-packages-3620407/)
+ - [The Galaxy S27 Ultra could use the same camera as the… Galaxy S23 Ultra](https://www.androidauthority.com/galaxy-s27-ultra-camera-old-samsung-sensor-3620387/)
+ - [The EC says it got notification from Apple that Apple Ads and Apple Maps likely meet DMA thresholds; Apple says the services should not be called &quot;gatekeepers&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251128/p7#a251128p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
