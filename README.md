@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Revived survival RPG Hytale already has a release date after springing back to life, but the owner is reminding everyone the game &#39;isn&#39;t good yet&#39;](https://www.pcgamer.com/games/survival-crafting/revived-survival-rpg-hytale-already-has-a-release-date-after-springing-back-to-life-but-the-owner-is-reminding-everyone-the-game-isnt-good-yet/)
- - [I freed myself from my organizational sins by simply sticking my desk clutter where I don&#39;t have to see it, and you can do the same with this $9 Black Friday deal on nano tape](https://www.pcgamer.com/hardware/i-freed-myself-from-my-organizational-sins-by-simply-sticking-my-desk-clutter-where-i-dont-have-to-see-it-and-you-can-do-the-same-with-this-usd9-black-friday-deal-on-nano-tape/)
- - [How to watch The Lost Chapter: Yuki&#39;s Revenge in Fortnite](https://www.polygon.com/fortnite-the-lost-chapter-yukis-revenge-how-to-watch-premiere/)<!-- GAME:END -->
+ - [Team Cherry may not attend The Game Awards even though Silksong is nominated for GOTY, but they&#39;re pretty sure a different &#39;exceptional and broadly palatable&#39; game will win](https://www.pcgamer.com/games/action/team-cherry-may-not-attend-the-game-awards-even-though-silksong-is-nominated-for-goty-but-theyre-pretty-sure-a-different-exceptional-and-broadly-palatable-game-will-win/)
+ - [LG 48″ OLED evo C4 Series Gets “Hidden Price” on Amazon, 45% Off Price Violates LG’s Display Rules](https://kotaku.com/lg-48-oled-evo-c4-series-gets-hidden-price-on-amazon-45-off-price-violates-lgs-display-rules-2000648469)
+ - [Silksong devs felt they didn&#39;t &#39;have a lot of control&#39; over its release date and sympathize with all the games that were delayed to avoid it: &#39;To some extent that probably is unfortunate&#39;](https://www.pcgamer.com/games/action/silksong-devs-felt-they-didnt-have-a-lot-of-control-over-its-release-date-and-sympathize-with-all-the-games-that-were-delayed-to-avoid-it-to-some-extent-that-probably-is-unfortunate/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
