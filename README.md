@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Future Is Bright](http://9gag.com/gag/ae9qgmq)
- - ⏩ [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)
- - 👉 [They can be amazed](http://9gag.com/gag/aMV0KEW)<!-- MEMES:END -->
+ - 💣 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
+ - ⏩ [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
+ - 👉 [Escape](http://9gag.com/gag/aoyGMx3)<!-- MEMES:END -->
 
 ---
 
