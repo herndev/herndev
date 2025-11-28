@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday deal: Save 30% on the LG StanbyMe portable touch-screen display](https://www.androidauthority.com/lg-stanbyme-portable-monitor-3620625/)
- - [Disney Plus, Hulu, and HBO Max are all over 60 percent off for Black Friday](https://www.theverge.com/gadgets/829306/best-black-friday-streaming-deals-hulu-disney-plus-paramount-hbo-max-2025)
- - [Apple Watch Series 11 drops to $339 with Black Friday deal](https://appleinsider.com/articles/25/11/27/apple-watch-series-11-drops-to-339-with-thanksgiving-deal?utm_source=rss)<!-- TECH:END -->
+ - [DJI ban: how the world&amp;#8217;s biggest dronemaker is getting shoved out of the US](https://www.theverge.com/news/831241/dji-ban-us-trump-fcc-customs-import-ndaa)
+ - [The Best Black Friday Beauty Deals, WIRED Approved &lpar;2025&rpar;](https://www.wired.com/story/black-friday-beauty-deals-2025/)
+ - [The best sub-$400 phone just dropped below $285 for the first time](https://www.androidauthority.com/motorola-moto-g-stylus-2025-deal-3620691/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
