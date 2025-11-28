@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wise policeman](http://9gag.com/gag/a4PBE86)
- - ⏩ [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)
- - 👉 [Technologia](http://9gag.com/gag/ae9qAPp)<!-- MEMES:END -->
+ - 💣 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
+ - ⏩ [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)
+ - 👉 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)<!-- MEMES:END -->
 
 ---
 
