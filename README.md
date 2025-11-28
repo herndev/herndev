@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&#39;s data center partners are set to rack up nearly $100B in debt; sources say banks may lend another $38B to Oracle and Vantage to build more OpenAI sites &lpar;Financial Times&rpar;](http://www.techmeme.com/251128/p2#a251128p2)
- - [Survey reveals no one will miss ChromeOS as Google prepares its successor](https://www.androidauthority.com/chromeos-vs-aluminiumos-survey-results-3620349/)
- - [I Learned Every Photographer Needs These 3 Types of Cameras](https://www.cnet.com/tech/computing/i-learned-every-photographer-needs-these-three-types-of-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pixel 10’s Quick Share update for AirDrop has an annoying Wi-Fi bug](https://www.androidauthority.com/google-pixel-10-quick-share-airdrop-wi-fi-bug-3620357/)
+ - [Black Friday Deal Zone discounts M4 MacBook Air by up to $350, new record low prices](https://appleinsider.com/articles/25/11/28/black-friday-deal-zone-discounts-m4-macbook-air-by-up-to-350-new-record-low-prices?utm_source=rss)
+ - [Nexperia warns customers face impending production halts and urges its Chinese unit to reengage, says it hadn&#39;t got &quot;any meaningful response&quot; despite outreach &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251128/p4#a251128p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
