@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Think before you share](http://9gag.com/gag/aoyGMEA)
- - ⏩ [One of the best pieces of story telling I have seen in a stand up](http://9gag.com/gag/avyB59M)
+ - 💣 [One of the best pieces of story telling I have seen in a stand up](http://9gag.com/gag/avyB59M)
+ - ⏩ [Think before you share](http://9gag.com/gag/aoyGMEA)
  - 👉 [I believe him](http://9gag.com/gag/aLnOp4g)<!-- MEMES:END -->
 
 ---
