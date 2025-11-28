@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
- - ⏩ [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)
- - 👉 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)<!-- MEMES:END -->
+ - 💣 [Wise policeman](http://9gag.com/gag/a4PBE86)
+ - ⏩ [A game made with passion and love 10 years ago in 2015. No in-game purchases, free main game quality, 2 free DLCs and a free next-gen upgrade.](http://9gag.com/gag/avyBAqM)
+ - 👉 [Technologia](http://9gag.com/gag/ae9qAPp)<!-- MEMES:END -->
 
 ---
 
