@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
- - ⏩ [Escape](http://9gag.com/gag/aoyGMx3)
- - 👉 [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)<!-- MEMES:END -->
+ - 💣 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
+ - ⏩ [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)
+ - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
 
 ---
 
