@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [HP Forgot How Math Works, 15.6″ 512GB Laptop Drops 72% From $2K to Almost Nothing](https://kotaku.com/hp-forgot-how-math-works-15-6-512gb-laptop-drops-72-from-2k-to-almost-nothing-2000648161)
- - [Philips Skipped Profit on Hue Smart Bulbs, 3-Pack Color Lights Now Cost What Basic Bulbs Do](https://kotaku.com/philips-skipped-profit-on-hue-smart-bulbs-3-pack-color-lights-now-cost-what-basic-bulbs-do-2000648180)
- - [Amazon Quietly Dumps Thousands of iRobot Vacuums, Roomba 105 Now Going for All-Time Low](https://kotaku.com/amazon-quietly-dumps-thousands-of-irobot-vacuums-roomba-105-now-going-for-all-time-low-2000648154)<!-- GAME:END -->
+ - [Ring-a-ding-ding! A Fallout: New Vegas beta full of cut content has been unearthed](https://www.pcgamer.com/games/rpg/ring-a-ding-ding-a-fallout-new-vegas-beta-full-of-cut-content-has-been-unearthed/)
+ - [Apple Runs Secret iPad Air Sale on Amazon, Best Apple Tablet Now Going for All-Time Low](https://kotaku.com/apple-quietly-ditches-ipad-air-pride-on-amazon-own-site-still-pretends-nothing-changed-2000648171)
+ - [Amazon Gave Up on Fire 10-Inch HD Tablet, Own Hardware Burned With Zero Margin](https://kotaku.com/amazon-gave-up-on-fire-10-inch-hd-tablet-own-hardware-burned-with-zero-margin-2000648193)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
