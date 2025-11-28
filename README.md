@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve covered Black Friday deals for ten years, ask me anything](https://www.theverge.com/gadgets/829295/black-friday-ama)
- - [Tim Cook isn&#39;t retiring in 2026, Pixel gets an iPhone feature, &amp; accessibility talk on the AppleInsider Podcast](https://appleinsider.com/articles/25/11/28/tim-cook-isnt-retiring-in-2026-pixel-gets-an-iphone-feature-accessibility-talk-on-the-appleinsider-podcast?utm_source=rss)
- - [Motorola’s next Ultra flagship might not use Qualcomm’s fastest chip after all](https://www.androidauthority.com/motorola-edge-70-ultra-snapdragon-8-gen-5-3620436/)<!-- TECH:END -->
+ - [The 150 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
+ - [Your Pixel Pro camera has a lesser-known viewfinder trick you may have missed](https://www.androidauthority.com/google-pixel-pro-camera-focus-peaking-viewfinder-3620506/)
+ - [Sora and Nano Banana Pro throttled amid soaring demand](https://www.theverge.com/news/831760/openai-google-rate-limit-sora-nano-banana-pro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
