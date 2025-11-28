@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A big YouTube TV overhaul with cheaper packages may be in the works](https://www.androidauthority.com/youtube-tv-cheaper-packages-3620407/)
- - [The Galaxy S27 Ultra could use the same camera as the… Galaxy S23 Ultra](https://www.androidauthority.com/galaxy-s27-ultra-camera-old-samsung-sensor-3620387/)
- - [The EC says it got notification from Apple that Apple Ads and Apple Maps likely meet DMA thresholds; Apple says the services should not be called &quot;gatekeepers&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251128/p7#a251128p7)<!-- TECH:END -->
+ - [Black Friday Deals Live 2025: We&#39;re Tracking Discounts, Trends, and More](https://www.wired.com/live/black-friday-live-25/)
+ - [Black Friday deals: Stay safe on the road this holiday season, with up to 50% off on Botslab’s dashcams](https://www.androidauthority.com/botslab-black-friday-2025-3620360/)
+ - [CME Group says trading on its markets, including the S&amp;P 500 and Nasdaq, was halted on November 28 due to a cooling issue at CyrusOne&#39;s data centers &lpar;Reuters&rpar;](http://www.techmeme.com/251128/p8#a251128p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
