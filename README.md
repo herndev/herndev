@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Motorola, which spun out its struggling smartphone business in 2011, successfully refocused on critical communication equipment, giving it a $60B market cap &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/251127/p23#a251127p23)
  - [B&amp;H Black Friday sale takes up to $550 off MacBook Pro, Mac Studio, Mac mini, iPad](https://appleinsider.com/articles/25/11/27/bh-black-friday-sale-takes-up-to-550-off-macbook-pro-mac-studio-mac-mini-ipad?utm_source=rss)
- - [Tim Sweeney says it &quot;makes no sense&quot; for stores like Steam to label games that are made using AI, since AI &quot;will be involved in nearly all future production&quot; &lpar;Alex Forbes-Calvin/GamesIndustry.biz&rpar;](http://www.techmeme.com/251127/p22#a251127p22)
- - [The DualSense Edge has fallen to one of the lowest we’ve seen for Black Friday](https://www.theverge.com/gadgets/822252/sony-dualsense-edge-controller-black-friday-deal-sale-2025)<!-- TECH:END -->
+ - [Tim Sweeney says it &quot;makes no sense&quot; for stores like Steam to label games that are made using AI, since AI &quot;will be involved in nearly all future production&quot; &lpar;Alex Forbes-Calvin/GamesIndustry.biz&rpar;](http://www.techmeme.com/251127/p22#a251127p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
