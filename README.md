@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Motorola, which spun out its struggling smartphone business in 2011, successfully refocused on critical communication equipment, giving it a $60B market cap &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/251127/p23#a251127p23)
- - [The Best Smart-Home Gifts for the Holidays 2025](https://www.cnet.com/home/smart-home/best-smart-home-gifts/#ftag=CAD590a51e)
- - [Best Google Smart-Home Devices in 2025](https://www.cnet.com/home/smart-home/best-google-smart-home-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Vietnam&#39;s recent Huawei and ZTE 5G equipment deals bolster its ties with China following US tariffs, but could undermine US trust in Vietnam&#39;s networks &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/251127/p24#a251127p24)
+ - [Save $330 on Apple&#39;s loaded 15-inch MacBook Air &lpar;M4, 32GB RAM, 1TB&rpar; for Black Friday](https://appleinsider.com/articles/25/11/28/save-330-on-apples-loaded-15-inch-macbook-air-m4-32gb-ram-1tb-for-black-friday?utm_source=rss)
+ - [The 5 Best Sunrise Alarm Clocks and How to Choose One](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
