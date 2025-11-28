@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of the best pieces of story telling I have seen in a stand up](http://9gag.com/gag/avyB59M)
- - ⏩ [Think before you share](http://9gag.com/gag/aoyGMEA)
- - 👉 [I believe him](http://9gag.com/gag/aLnOp4g)<!-- MEMES:END -->
+ - 💣 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
+ - ⏩ [9th century female torso from india](http://9gag.com/gag/awy9o44)
+ - 👉 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)<!-- MEMES:END -->
 
 ---
 
