@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Last Epoch players turn on the action RPG for announcing a paid DLC class, tanking its Steam reviews: &#39;go play Path of Exile instead&#39;](https://www.pcgamer.com/games/rpg/last-epoch-players-turn-on-the-action-rpg-for-announcing-a-paid-dlc-class-tanking-its-steam-reviews-go-play-path-of-exile-instead/)
- - [Ring-a-ding-ding! A Fallout: New Vegas beta full of cut content has been unearthed](https://www.pcgamer.com/games/rpg/ring-a-ding-ding-a-fallout-new-vegas-beta-full-of-cut-content-has-been-unearthed/)
- - [Apple Runs Secret iPad Air Sale on Amazon, Best Apple Tablet Now Going for All-Time Low](https://kotaku.com/apple-quietly-ditches-ipad-air-pride-on-amazon-own-site-still-pretends-nothing-changed-2000648171)<!-- GAME:END -->
+ - [Black Friday brings 4K and Blu-ray deals you can&#39;t ignore](https://www.polygon.com/black-friday-4k-blu-ray-dvd-deals/)
+ - [Adventure Time showrunner explains what that wild Fionna and Cake death means for the lore](https://www.polygon.com/fionna-and-cake-episode-6-death-explained/)
+ - [Planet of Lana II – Expanding the Story for an Ambitious Sequel](https://news.xbox.com/en-us/2025/11/28/planet-of-lana-2-story-explained/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
