@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to change your appearance in Where Winds Meet](https://www.polygon.com/where-winds-meet-how-to-change-appearance/)
- - [&#39;Echoes of Old Battles&#39; quest walkthrough in Where Winds Meet](https://www.polygon.com/where-winds-meet-echoes-of-old-battles-wall-puzzle-quest-walkthrough/)
- - [Forget JBL, Sony Goes Into Clearance Mode With Its Travel Speaker as Remaining Stock Runs Low](https://kotaku.com/take-34-off-the-sony-srs-xb100s-speaker-that-brings-life-to-your-favorite-music-2000648189)<!-- GAME:END -->
+ - [Riftbound: Spiritforged Jayce Champion card exclusive reveal](https://www.polygon.com/riftbound-spiritforged-jayce-man-progress-reveal/)
+ - [Amazon Fire TV Cube Price Falls Below Profit Lines, Plus It’s 2× Faster Than the Fire TV Stick 4K Max](https://kotaku.com/amazons-fire-tv-cube-is-2x-faster-than-the-fire-tv-stick-4k-max-and-can-be-yours-now-for-just-90-2000647768)
+ - [&#39;The prices will continue to rise&#39;: Better get your new gaming PC or system upgrades now because this problem isn&#39;t getting any better, says Maingear&#39;s CEO](https://www.pcgamer.com/hardware/the-prices-will-continue-to-rise-better-get-your-new-gaming-pc-or-system-upgrades-now-because-this-problem-isnt-getting-any-better-says-maingears-ceo/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
