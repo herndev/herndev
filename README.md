@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for December 1 to 5](https://news.xbox.com/en-us/2025/11/28/next-week-on-xbox-new-games-for-december-1-to-5/)
- - [Dyson’s Heater and Fan Combo Hits a 40% Black Friday Low, Practically a Christmas Gift for an All-Season Appliance](https://kotaku.com/dyson-just-slashed-its-hotcool-am09-jet-focus-heater-and-fan-by-200-practically-giving-it-away-2000648205)
- - [The Cherry era of keyboards might be at an end as the company pulls the plug on German manufacturing after a $23 million loss](https://www.pcgamer.com/hardware/gaming-keyboards/the-cherry-era-might-be-at-an-end-as-the-company-pulls-the-plug-on-german-manufacturing-and-plans-a-big-sell-off/)<!-- GAME:END -->
+ - [How to change your appearance in Where Winds Meet](https://www.polygon.com/where-winds-meet-how-to-change-appearance/)
+ - [&#39;Echoes of Old Battles&#39; quest walkthrough in Where Winds Meet](https://www.polygon.com/where-winds-meet-echoes-of-old-battles-wall-puzzle-quest-walkthrough/)
+ - [Forget JBL, Sony Goes Into Clearance Mode With Its Travel Speaker as Remaining Stock Runs Low](https://kotaku.com/take-34-off-the-sony-srs-xb100s-speaker-that-brings-life-to-your-favorite-music-2000648189)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
