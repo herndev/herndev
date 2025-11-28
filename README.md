@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ModRetro recreated the N64 controller for its M64 console](https://www.theverge.com/news/831498/modretro-m64-console-4k-fpga-nintendo-64-clone)
- - [The Best Black Friday Pod Coffee Maker Deals, According to a Daily User &lpar;2025&rpar;](https://www.wired.com/story/best-pod-coffee-maker-black-friday-deals-2025/)
- - [Made in the USA: Intel foundries may get used for Apple&#39;s M7 processor](https://appleinsider.com/articles/25/11/28/made-in-the-usa-intel-foundries-may-get-used-for-apples-m7-processor?utm_source=rss)<!-- TECH:END -->
+ - [Best MacBook Pro Black Friday deals drop prices to as low as $1,349 for M5 14-inch](https://appleinsider.com/articles/25/11/27/best-macbook-pro-black-friday-deals-drop-prices-to-as-low-as-1399-for-m5-14-inch?utm_source=rss)
+ - [Google withdraws its 2024 EU antitrust complaint against Microsoft over Azure licensing, after the EU launched a probe into Azure and AWS under the DMA &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/251128/p16#a251128p16)
+ - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
