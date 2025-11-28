@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
- - ⏩ [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
- - 👉 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)<!-- MEMES:END -->
+ - 💣 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
+ - ⏩ [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 👉 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)<!-- MEMES:END -->
 
 ---
 
