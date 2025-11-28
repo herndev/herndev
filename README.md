@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Black Friday Phone Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-phone-deals-2025/)
- - [12 Best Black Friday Gaming Deals &lpar;2025&rpar;: PS5 Pro, Viture Glasses, and More](https://www.wired.com/story/best-black-friday-gaming-deals/)
- - [French President Emmanuel Macron criticizes the EU for being too slow to act on probes into Big Tech companies, attributing the delay to US pressure against DSA &lpar;Politico&rpar;](http://www.techmeme.com/251128/p13#a251128p13)<!-- TECH:END -->
+ - [ModRetro recreated the N64 controller for its M64 console](https://www.theverge.com/news/831498/modretro-m64-console-4k-fpga-nintendo-64-clone)
+ - [The Best Black Friday Pod Coffee Maker Deals, According to a Daily User &lpar;2025&rpar;](https://www.wired.com/story/best-pod-coffee-maker-black-friday-deals-2025/)
+ - [Made in the USA: Intel foundries may get used for Apple&#39;s M7 processor](https://appleinsider.com/articles/25/11/28/made-in-the-usa-intel-foundries-may-get-used-for-apples-m7-processor?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
