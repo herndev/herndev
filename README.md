@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Dungeons &amp; Dragons Black Friday deals include 5e&#39;s greatest adventures](https://www.polygon.com/dungeons-dragons-dnd-black-friday-deals/)
- - [Forget Nintendo, Nex Motion Gaming Console Hits All-Time Low as Amazon Clears Out the Remaining Stock After 80K+ Sold](https://kotaku.com/turn-your-living-room-into-a-playground-with-the-nex-playground-while-its-discounted-by-20-2000648449)
- - [Garry&#39;s mod successor s&amp;box goes open source and even opens up the finances, Garry says: &#39;Valve gave me my chance, I&#39;m already rich, I don&#39;t want to f*ck anyone over&#39;](https://www.pcgamer.com/gaming-industry/garrys-mod-successor-s-and-box-goes-open-source-and-even-opens-up-the-finances-garry-says-valve-gave-me-my-chance-im-already-rich-i-dont-want-to-f-ck-anyone-over/)<!-- GAME:END -->
+ - [Revived survival RPG Hytale already has a release date after springing back to life, but the owner is reminding everyone the game &#39;isn&#39;t good yet&#39;](https://www.pcgamer.com/games/survival-crafting/revived-survival-rpg-hytale-already-has-a-release-date-after-springing-back-to-life-but-the-owner-is-reminding-everyone-the-game-isnt-good-yet/)
+ - [I freed myself from my organizational sins by simply sticking my desk clutter where I don&#39;t have to see it, and you can do the same with this $9 Black Friday deal on nano tape](https://www.pcgamer.com/hardware/i-freed-myself-from-my-organizational-sins-by-simply-sticking-my-desk-clutter-where-i-dont-have-to-see-it-and-you-can-do-the-same-with-this-usd9-black-friday-deal-on-nano-tape/)
+ - [How to watch The Lost Chapter: Yuki&#39;s Revenge in Fortnite](https://www.polygon.com/fortnite-the-lost-chapter-yukis-revenge-how-to-watch-premiere/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
