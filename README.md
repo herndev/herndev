@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peaceful culture](http://9gag.com/gag/aE0jpQG)
- - ⏩ [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
- - 👉 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)<!-- MEMES:END -->
+ - 💣 [In Norway, speedbumps are called fartshumper](https://www.reddit.com/r/funny/comments/1p8yayq/in_norway_speedbumps_are_called_fartshumper/)
+ - ⏩ [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
+ - 👉 [How Comedy Feels Sometimes](https://www.reddit.com/r/funny/comments/1p8yar9/how_comedy_feels_sometimes/)<!-- MEMES:END -->
 
 ---
 
