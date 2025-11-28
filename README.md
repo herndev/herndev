@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 15 just cleared the biggest roadblock to US availability](https://www.androidauthority.com/oneplus-15-us-launch-fcc-certification-3620373/)
- - [Getty CEO Craig Peters says Getty may rethink its UK presence if the CMA blocks its Shutterstock deal, arguing the CMA is overlooking AI&#39;s impact on imaging &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/251128/p5#a251128p5)
- - [Best Black Friday Headphone Deals &lpar;2025&rpar;: Apple, Sony and More](https://www.wired.com/story/black-friday-headphone-deals-2025/)<!-- TECH:END -->
+ - [Big Black Friday deals on Roborock robot vacuum &amp; mops offer up to 62% off](https://appleinsider.com/articles/25/11/28/big-black-friday-deals-on-roborock-robot-vacuum-mops-offer-up-to-62-off?utm_source=rss)
+ - [Samsung’s tri-fold may be cheaper than expected, but don’t celebrate yet](https://www.androidauthority.com/samsung-tri-fold-foldable-new-price-leak-3620378/)
+ - [Gemini 3 Pro is so good, Google had to tighten free tier limits to keep up](https://www.androidauthority.com/gemini-3-pro-high-demand-free-tier-limit-3620382/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
