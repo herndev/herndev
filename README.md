@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9th century female torso from india](http://9gag.com/gag/awy9o44)
- - ⏩ [Bros got a point](http://9gag.com/gag/adBW8jD)
- - 👉 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)<!-- MEMES:END -->
+ - 💣 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
+ - ⏩ [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 👉 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)<!-- MEMES:END -->
 
 ---
 
