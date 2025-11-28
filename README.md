@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Norway, speedbumps are called fartshumper](https://www.reddit.com/r/funny/comments/1p8yayq/in_norway_speedbumps_are_called_fartshumper/)
- - ⏩ [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
- - 👉 [How Comedy Feels Sometimes](https://www.reddit.com/r/funny/comments/1p8yar9/how_comedy_feels_sometimes/)<!-- MEMES:END -->
+ - 💣 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
+ - ⏩ [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
+ - 👉 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)<!-- MEMES:END -->
 
 ---
 
