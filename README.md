@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wise policeman](http://9gag.com/gag/a4PBE86)
- - ⏩ [Thanks to whoever edited this](http://9gag.com/gag/aAyLbn0)
- - 👉 [Autotune was invented in 1997. Singers before 1997:](http://9gag.com/gag/amoOP84)<!-- MEMES:END -->
+ - 💣 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
+ - ⏩ [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
+ - 👉 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)<!-- MEMES:END -->
 
 ---
 
