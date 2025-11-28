@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday Deals Live 2025: We&#39;re Tracking Discounts, Trends, and More](https://www.wired.com/live/black-friday-live-25/)
- - [Black Friday deals: Stay safe on the road this holiday season, with up to 50% off on Botslab’s dashcams](https://www.androidauthority.com/botslab-black-friday-2025-3620360/)
- - [CME Group says trading on its markets, including the S&amp;P 500 and Nasdaq, was halted on November 28 due to a cooling issue at CyrusOne&#39;s data centers &lpar;Reuters&rpar;](http://www.techmeme.com/251128/p8#a251128p8)<!-- TECH:END -->
+ - [I’ve covered Black Friday deals for ten years, ask me anything](https://www.theverge.com/gadgets/829295/black-friday-ama)
+ - [Tim Cook isn&#39;t retiring in 2026, Pixel gets an iPhone feature, &amp; accessibility talk on the AppleInsider Podcast](https://appleinsider.com/articles/25/11/28/tim-cook-isnt-retiring-in-2026-pixel-gets-an-iphone-feature-accessibility-talk-on-the-appleinsider-podcast?utm_source=rss)
+ - [Motorola’s next Ultra flagship might not use Qualcomm’s fastest chip after all](https://www.androidauthority.com/motorola-edge-70-ultra-snapdragon-8-gen-5-3620436/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
