@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two friends meet each other after 20 years](http://9gag.com/gag/a2vA72E)
- - ⏩ [Wise policeman](http://9gag.com/gag/a4PBE86)
- - 👉 [Autotune was invented in 1997. Singers before 1997:](http://9gag.com/gag/amoOP84)<!-- MEMES:END -->
+ - 💣 [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)
+ - ⏩ [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
+ - 👉 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)<!-- MEMES:END -->
 
 ---
 
