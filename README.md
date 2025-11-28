@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - ⏩ [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
- - 👉 [The word is Kakistocracy in case you are asking why](http://9gag.com/gag/aMV0x9G)<!-- MEMES:END -->
+ - 💣 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
+ - ⏩ [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)
+ - 👉 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)<!-- MEMES:END -->
 
 ---
 
