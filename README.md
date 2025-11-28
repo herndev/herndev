@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Riftbound: Spiritforged Jayce Champion card exclusive reveal](https://www.polygon.com/riftbound-spiritforged-jayce-man-progress-reveal/)
- - [Amazon Fire TV Cube Price Falls Below Profit Lines, Plus It’s 2× Faster Than the Fire TV Stick 4K Max](https://kotaku.com/amazons-fire-tv-cube-is-2x-faster-than-the-fire-tv-stick-4k-max-and-can-be-yours-now-for-just-90-2000647768)
- - [&#39;The prices will continue to rise&#39;: Better get your new gaming PC or system upgrades now because this problem isn&#39;t getting any better, says Maingear&#39;s CEO](https://www.pcgamer.com/hardware/the-prices-will-continue-to-rise-better-get-your-new-gaming-pc-or-system-upgrades-now-because-this-problem-isnt-getting-any-better-says-maingears-ceo/)<!-- GAME:END -->
+ - [How to increase vitality in Where Winds Meet](https://www.polygon.com/where-winds-meet-vitality-how-to-increase/)
+ - [Anker 65W Nano Charger Price Collapses, Cheaper Than Last Black Friday as Stock Gets Dumped](https://kotaku.com/top-all-your-essentials-in-one-go-with-the-3-port-65w-anker-usb-c-charger-for-just-24-2000648212)
+ - [Forget Expensive OLED TVs, 4K Fire TV on Black Friday Sale Does the Job for 97% of People](https://kotaku.com/forget-expensive-oled-tvs-4k-fire-tv-on-black-friday-sale-does-the-job-for-97-of-people-2000648430)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
