@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Temasek is in talks to buy a ~5% stake in Quest Global, in a deal that values the engineering services company at $4.6B in the lead-up to its India IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/251128/p12#a251128p12)
- - [Best Black Friday deals: Save up to $550 on Apple Watch, AirPods, AirTag, iPad, MacBook, Mac mini](https://appleinsider.com/articles/25/11/28/best-black-friday-deals-save-up-to-550-on-apple-watch-airpods-airtag-ipad-macbook-mac-mini?utm_source=rss)
- - [iRobot’s Black Friday deals drop feature-packed robot vacs to as low as $149](https://www.androidauthority.com/irobot-roomba-black-friday-deals-3620331/)<!-- TECH:END -->
+ - [10 Best Black Friday Phone Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-phone-deals-2025/)
+ - [12 Best Black Friday Gaming Deals &lpar;2025&rpar;: PS5 Pro, Viture Glasses, and More](https://www.wired.com/story/best-black-friday-gaming-deals/)
+ - [French President Emmanuel Macron criticizes the EU for being too slow to act on probes into Big Tech companies, attributing the delay to US pressure against DSA &lpar;Politico&rpar;](http://www.techmeme.com/251128/p13#a251128p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
