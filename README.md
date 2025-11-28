@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
- - ⏩ [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
- - 👉 [Bros got a point](http://9gag.com/gag/adBW8jD)<!-- MEMES:END -->
+ - 💣 [Think before you share](http://9gag.com/gag/aoyGMEA)
+ - ⏩ [One of the best pieces of story telling I have seen in a stand up](http://9gag.com/gag/avyB59M)
+ - 👉 [I believe him](http://9gag.com/gag/aLnOp4g)<!-- MEMES:END -->
 
 ---
 
