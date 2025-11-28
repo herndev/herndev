@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
- - ⏩ [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 👉 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)<!-- MEMES:END -->
+ - 💣 [The Future Is Bright](http://9gag.com/gag/ae9qgmq)
+ - ⏩ [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)
+ - 👉 [They can be amazed](http://9gag.com/gag/aMV0KEW)<!-- MEMES:END -->
 
 ---
 
