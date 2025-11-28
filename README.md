@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Last Epoch players turn on the action RPG for announcing a paid DLC class, tanking its Steam reviews: &#39;go play Path of Exile instead&#39;](https://www.pcgamer.com/games/rpg/last-epoch-players-turn-on-the-action-rpg-for-announcing-a-paid-dlc-class-tanking-its-steam-reviews-go-play-path-of-exile-instead/)
  - [Ring-a-ding-ding! A Fallout: New Vegas beta full of cut content has been unearthed](https://www.pcgamer.com/games/rpg/ring-a-ding-ding-a-fallout-new-vegas-beta-full-of-cut-content-has-been-unearthed/)
- - [Apple Runs Secret iPad Air Sale on Amazon, Best Apple Tablet Now Going for All-Time Low](https://kotaku.com/apple-quietly-ditches-ipad-air-pride-on-amazon-own-site-still-pretends-nothing-changed-2000648171)
- - [Amazon Gave Up on Fire 10-Inch HD Tablet, Own Hardware Burned With Zero Margin](https://kotaku.com/amazon-gave-up-on-fire-10-inch-hd-tablet-own-hardware-burned-with-zero-margin-2000648193)<!-- GAME:END -->
+ - [Apple Runs Secret iPad Air Sale on Amazon, Best Apple Tablet Now Going for All-Time Low](https://kotaku.com/apple-quietly-ditches-ipad-air-pride-on-amazon-own-site-still-pretends-nothing-changed-2000648171)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
