@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to increase vitality in Where Winds Meet](https://www.polygon.com/where-winds-meet-vitality-how-to-increase/)
- - [Anker 65W Nano Charger Price Collapses, Cheaper Than Last Black Friday as Stock Gets Dumped](https://kotaku.com/top-all-your-essentials-in-one-go-with-the-3-port-65w-anker-usb-c-charger-for-just-24-2000648212)
- - [Forget Expensive OLED TVs, 4K Fire TV on Black Friday Sale Does the Job for 97% of People](https://kotaku.com/forget-expensive-oled-tvs-4k-fire-tv-on-black-friday-sale-does-the-job-for-97-of-people-2000648430)<!-- GAME:END -->
+ - [Garry&#39;s mod successor s&amp;box goes open source and even opens up the finances, Garry says: &#39;Valve gave me my chance, I&#39;m already rich, I don&#39;t want to f*ck anyone over&#39;](https://www.pcgamer.com/gaming-industry/garrys-mod-successor-s-and-box-goes-open-source-and-even-opens-up-the-finances-garry-says-valve-gave-me-my-chance-im-already-rich-i-dont-want-to-f-ck-anyone-over/)
+ - [Microsoft Goes More Aggressive Than Apple as Surface Pro 2-in-1 Drops to a Budget-PC Low](https://kotaku.com/microsoft-goes-more-aggressive-than-apple-as-surface-pro-2-in-1-drops-to-a-budget-pc-low-2000648444)
+ - [Kindle Paperwhite Drops to Record Low, E-Reader Now Cheaper Than Buying a Few Physical Books](https://kotaku.com/kindle-paperwhite-drops-to-record-low-e-reader-now-cheaper-than-buying-a-few-physical-books-2000648434)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
