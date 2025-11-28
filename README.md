@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Quietly Dumps Thousands of iRobot Vacuums, Roomba 105 Now Going for All-Time Low](https://kotaku.com/amazon-quietly-dumps-thousands-of-irobot-vacuums-roomba-105-now-going-for-all-time-low-2000648154)
- - [Clair Obscur creative director says he knew the game was going to be &#39;cool,&#39; but he really didn&#39;t expect it to be so &#39;big&#39;](https://www.pcgamer.com/games/rpg/clair-obscur-creative-director-says-he-knew-the-game-was-going-to-be-cool-but-he-really-didnt-expect-it-to-be-so-big/)
- - [Samsung 65″ OLED S90F TV Hits All-Time Low, 2025 Model Now Cheaper Than Last Year’s Version](https://kotaku.com/samsung-65-oled-s90f-tv-hits-all-time-low-2025-model-now-cheaper-than-last-years-version-2000648184)<!-- GAME:END -->
+ - [HP Forgot How Math Works, 15.6″ 512GB Laptop Drops 72% From $2K to Almost Nothing](https://kotaku.com/hp-forgot-how-math-works-15-6-512gb-laptop-drops-72-from-2k-to-almost-nothing-2000648161)
+ - [Philips Skipped Profit on Hue Smart Bulbs, 3-Pack Color Lights Now Cost What Basic Bulbs Do](https://kotaku.com/philips-skipped-profit-on-hue-smart-bulbs-3-pack-color-lights-now-cost-what-basic-bulbs-do-2000648180)
+ - [Amazon Quietly Dumps Thousands of iRobot Vacuums, Roomba 105 Now Going for All-Time Low](https://kotaku.com/amazon-quietly-dumps-thousands-of-irobot-vacuums-roomba-105-now-going-for-all-time-low-2000648154)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
