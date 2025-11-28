@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10’s Quick Share update for AirDrop has an annoying Wi-Fi bug](https://www.androidauthority.com/google-pixel-10-quick-share-airdrop-wi-fi-bug-3620357/)
- - [Black Friday Deal Zone discounts M4 MacBook Air by up to $350, new record low prices](https://appleinsider.com/articles/25/11/28/black-friday-deal-zone-discounts-m4-macbook-air-by-up-to-350-new-record-low-prices?utm_source=rss)
- - [Nexperia warns customers face impending production halts and urges its Chinese unit to reengage, says it hadn&#39;t got &quot;any meaningful response&quot; despite outreach &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251128/p4#a251128p4)<!-- TECH:END -->
+ - [OnePlus 15 just cleared the biggest roadblock to US availability](https://www.androidauthority.com/oneplus-15-us-launch-fcc-certification-3620373/)
+ - [Getty CEO Craig Peters says Getty may rethink its UK presence if the CMA blocks its Shutterstock deal, arguing the CMA is overlooking AI&#39;s impact on imaging &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/251128/p5#a251128p5)
+ - [Best Black Friday Headphone Deals &lpar;2025&rpar;: Apple, Sony and More](https://www.wired.com/story/black-friday-headphone-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
