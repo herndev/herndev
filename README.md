@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
- - ⏩ [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)
- - 👉 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)<!-- MEMES:END -->
+ - 💣 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
+ - ⏩ [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
+ - 👉 [Bros got a point](http://9gag.com/gag/adBW8jD)<!-- MEMES:END -->
 
 ---
 
