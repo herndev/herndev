@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Garry&#39;s mod successor s&amp;box goes open source and even opens up the finances, Garry says: &#39;Valve gave me my chance, I&#39;m already rich, I don&#39;t want to f*ck anyone over&#39;](https://www.pcgamer.com/gaming-industry/garrys-mod-successor-s-and-box-goes-open-source-and-even-opens-up-the-finances-garry-says-valve-gave-me-my-chance-im-already-rich-i-dont-want-to-f-ck-anyone-over/)
- - [Microsoft Goes More Aggressive Than Apple as Surface Pro 2-in-1 Drops to a Budget-PC Low](https://kotaku.com/microsoft-goes-more-aggressive-than-apple-as-surface-pro-2-in-1-drops-to-a-budget-pc-low-2000648444)
- - [Kindle Paperwhite Drops to Record Low, E-Reader Now Cheaper Than Buying a Few Physical Books](https://kotaku.com/kindle-paperwhite-drops-to-record-low-e-reader-now-cheaper-than-buying-a-few-physical-books-2000648434)<!-- GAME:END -->
+ - [Best Dungeons &amp; Dragons Black Friday deals include 5e&#39;s greatest adventures](https://www.polygon.com/dungeons-dragons-dnd-black-friday-deals/)
+ - [Forget Nintendo, Nex Motion Gaming Console Hits All-Time Low as Amazon Clears Out the Remaining Stock After 80K+ Sold](https://kotaku.com/turn-your-living-room-into-a-playground-with-the-nex-playground-while-its-discounted-by-20-2000648449)
+ - [Garry&#39;s mod successor s&amp;box goes open source and even opens up the finances, Garry says: &#39;Valve gave me my chance, I&#39;m already rich, I don&#39;t want to f*ck anyone over&#39;](https://www.pcgamer.com/gaming-industry/garrys-mod-successor-s-and-box-goes-open-source-and-even-opens-up-the-finances-garry-says-valve-gave-me-my-chance-im-already-rich-i-dont-want-to-f-ck-anyone-over/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
