@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday brings 4K and Blu-ray deals you can&#39;t ignore](https://www.polygon.com/black-friday-4k-blu-ray-dvd-deals/)
- - [Adventure Time showrunner explains what that wild Fionna and Cake death means for the lore](https://www.polygon.com/fionna-and-cake-episode-6-death-explained/)
- - [Planet of Lana II – Expanding the Story for an Ambitious Sequel](https://news.xbox.com/en-us/2025/11/28/planet-of-lana-2-story-explained/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for December 1 to 5](https://news.xbox.com/en-us/2025/11/28/next-week-on-xbox-new-games-for-december-1-to-5/)
+ - [Dyson’s Heater and Fan Combo Hits a 40% Black Friday Low, Practically a Christmas Gift for an All-Season Appliance](https://kotaku.com/dyson-just-slashed-its-hotcool-am09-jet-focus-heater-and-fan-by-200-practically-giving-it-away-2000648205)
+ - [The Cherry era of keyboards might be at an end as the company pulls the plug on German manufacturing after a $23 million loss](https://www.pcgamer.com/hardware/gaming-keyboards/the-cherry-era-might-be-at-an-end-as-the-company-pulls-the-plug-on-german-manufacturing-and-plans-a-big-sell-off/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
