@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Tessan’s 140W Universal Travel Adapter has hit a new all-time low](https://www.theverge.com/gadgets/831748/tessan-universal-travel-adapter-black-friday-deal-sale)
- - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
+ - [Sources: Temasek is in talks to buy a ~5% stake in Quest Global, in a deal that values the engineering services company at $4.6B in the lead-up to its India IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/251128/p12#a251128p12)
+ - [Best Black Friday deals: Save up to $550 on Apple Watch, AirPods, AirTag, iPad, MacBook, Mac mini](https://appleinsider.com/articles/25/11/28/best-black-friday-deals-save-up-to-550-on-apple-watch-airpods-airtag-ipad-macbook-mac-mini?utm_source=rss)
+ - [iRobot’s Black Friday deals drop feature-packed robot vacs to as low as $149](https://www.androidauthority.com/irobot-roomba-black-friday-deals-3620331/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
