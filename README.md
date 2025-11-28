@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 150 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
- - [Your Pixel Pro camera has a lesser-known viewfinder trick you may have missed](https://www.androidauthority.com/google-pixel-pro-camera-focus-peaking-viewfinder-3620506/)
- - [Sora and Nano Banana Pro throttled amid soaring demand](https://www.theverge.com/news/831760/openai-google-rate-limit-sora-nano-banana-pro)<!-- TECH:END -->
+ - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [Tessan’s 140W Universal Travel Adapter has hit a new all-time low](https://www.theverge.com/gadgets/831748/tessan-universal-travel-adapter-black-friday-deal-sale)
+ - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
