@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday Live 2025: We&#39;re Tracking Discounts, Trends, and More](https://www.wired.com/live/black-friday-live-25/)
- - [Discover the lowest price on the Apple iPad 11-inch!](https://www.androidauthority.com/apple-ipad-11-inch-a16-deal-3620626/)
- - [Best Vacuum Cleaner Black Friday Deals &lpar;2025&rpar;: Dyson, Bissell, Eufy](https://www.wired.com/story/vacuum-cleaner-black-friday-deals/)<!-- TECH:END -->
+ - [Black Friday deal: Save 30% on the LG StanbyMe portable touch-screen display](https://www.androidauthority.com/lg-stanbyme-portable-monitor-3620625/)
+ - [Disney Plus, Hulu, and HBO Max are all over 60 percent off for Black Friday](https://www.theverge.com/gadgets/829306/best-black-friday-streaming-deals-hulu-disney-plus-paramount-hbo-max-2025)
+ - [Apple Watch Series 11 drops to $339 with Black Friday deal](https://appleinsider.com/articles/25/11/27/apple-watch-series-11-drops-to-339-with-thanksgiving-deal?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
