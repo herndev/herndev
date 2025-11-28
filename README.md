@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI ban: how the world&amp;#8217;s biggest dronemaker is getting shoved out of the US](https://www.theverge.com/news/831241/dji-ban-us-trump-fcc-customs-import-ndaa)
- - [The Best Black Friday Beauty Deals, WIRED Approved &lpar;2025&rpar;](https://www.wired.com/story/black-friday-beauty-deals-2025/)
- - [The best sub-$400 phone just dropped below $285 for the first time](https://www.androidauthority.com/motorola-moto-g-stylus-2025-deal-3620691/)<!-- TECH:END -->
+ - [You can get a four-pack of AirTags for just over $60, the lowest price ever](https://www.theverge.com/gadgets/832483/black-friday-apple-airtags-deal-sale-2025)
+ - [Disney Plus &amp; Hulu bundle drops to $4.99/mo for Black Friday &amp; Cyber Monday](https://appleinsider.com/articles/25/11/28/disney-plus-hulu-bundle-drops-to-499mo-for-black-friday-cyber-monday?utm_source=rss)
+ - [Black Friday 2025: The best deals on phones, wearables, and a lot more](https://www.androidauthority.com/best-deals-black-friday-2025-3616230/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
