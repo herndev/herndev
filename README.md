@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [75% cute and 85% charisma](http://9gag.com/gag/aE0jMWo)
- - ⏩ [Kiss revealed their faces without makeup with the song Lick it up 1983](http://9gag.com/gag/a6ZeZgA)
- - 👉 [Before](http://9gag.com/gag/avyB1xq)<!-- MEMES:END -->
+ - 💣 [One life gone](https://www.reddit.com/r/funny/comments/1pbjovs/one_life_gone/)
+ - ⏩ [Bot-lickers](http://9gag.com/gag/a34z5Le)
+ - 👉 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)<!-- MEMES:END -->
 
 ---
 
