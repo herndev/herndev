@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hazbin Hotel&#39;s season 3 villain is &quot;someone who&#39;s been built-up as an antihero.&quot;](https://www.polygon.com/video/hazbin-hotel-season-3-villain-tease/)
- - [Switching to a leverless fighting game controller is the smartest thing I ever did, and one of the best in the biz is at its lowest-ever price](https://www.pcgamer.com/hardware/controllers/switching-to-a-leverless-fighting-game-controller-is-the-smartest-thing-i-ever-did-and-one-of-the-best-in-the-biz-is-at-its-lowest-ever-price/)
- - [All I&#39;ve bought this Cyber Monday are 2 boring ethernet cables and this exceptional comic book bundle](https://www.pcgamer.com/hardware/all-ive-bought-this-cyber-monday-are-2-boring-ethernet-cables-and-this-exceptional-comic-book-bundle/)<!-- GAME:END -->
+ - [Designed for Xbox: Your Gift Guide to Must-Have Xbox Accessories This Holiday](https://news.xbox.com/en-us/2025/12/01/xbox-accessories-holiday-gift-guide-designed-for-xbox/)
+ - [Obojima Tales from the Tall Grass: Cyber Monday sale discounts the D&amp;D campaign by 20%](https://www.polygon.com/dnd-beyond-cyber-monday-deals-obojima-ghibli/)
+ - [Amazon Offloads 10,000mAh 45W 3-Port Charger at Record Low, Tiny Power Bank Now Dirt Cheap](https://kotaku.com/amazon-offloads-10000mah-45w-3-port-charger-at-record-low-tiny-power-bank-now-dirt-cheap-2000649111)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
