@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home users are forcing Gemini on their devices with this URL hack](https://www.androidauthority.com/google-home-force-gemini-url-trick-3620768/)
- - [US startups are increasingly adopting Chinese open source AI models, as some capabilities of Chinese models start to catch up with those of frontier US labs &lpar;NBC News&rpar;](http://www.techmeme.com/251130/p13#a251130p13)
- - [The best Cyber Monday deals on Apple MacBooks, AirTags, iPads, and more](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)<!-- TECH:END -->
+ - [That popular YouTube alternative on Android TV was secretly distributing infected builds](https://www.androidauthority.com/smarttube-malware-fix-3620773/)
+ - [Amazon&#39;s best AirPods 4 ANC deal is back in stock at $99 for Cyber Monday](https://appleinsider.com/articles/25/12/01/amazons-best-airpods-4-anc-deal-is-back-in-stock-at-99-for-cyber-monday?utm_source=rss)
+ - [Here are 50 standout deals under $100 we’re eyeing for Cyber Monday](https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
