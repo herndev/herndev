@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how you track helicopter blades apparently](http://9gag.com/gag/avyByMq)
- - ⏩ [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - 👉 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)<!-- MEMES:END -->
+ - 💣 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
+ - ⏩ [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
+ - 👉 [Bot-lickers](http://9gag.com/gag/a34z5Le)<!-- MEMES:END -->
 
 ---
 
