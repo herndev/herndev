@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
- - ⏩ [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - 👉 [Modders are the savior](http://9gag.com/gag/azxvxWB)<!-- MEMES:END -->
+ - 💣 [75% cute and 85% charisma](http://9gag.com/gag/aE0jMWo)
+ - ⏩ [Kiss revealed their faces without makeup with the song Lick it up 1983](http://9gag.com/gag/a6ZeZgA)
+ - 👉 [Before](http://9gag.com/gag/avyB1xq)<!-- MEMES:END -->
 
 ---
 
