@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Digital Notebook Cyber Monday Sales &lpar;2025&rpar;: ReMarkable, Kobo, Kindle](https://www.wired.com/story/digital-notebook-cyber-monday-sales/)
- - [Car sharing service Zipcar UK plans to shut down after London extended its Congestion Charge to EVs; Zipcar had losses of £11.7M in 2024 vs. £364,000 in 2023 &lpar;Simon Hunt/City A.M.&rpar;](http://www.techmeme.com/251201/p20#a251201p20)
- - [Apple’s smallest iPad just got its biggest price cut for Cyber Monday](https://www.theverge.com/gadgets/834850/apple-ipad-mini-cyber-monday-deal-sale-2025)<!-- TECH:END -->
+ - [A look at ElevenLabs, as ~50% of its $193M in trailing 12-month revenue now comes from corporates, like Cisco, and ~50% from YouTubers, podcasters, and authors &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/251201/p22#a251201p22)
+ - [The Nintendo Switch 2 got its first-ever discount during Cyber Monday](https://www.theverge.com/gadgets/834775/nintendo-switch-2-walmart-cyber-monday-deal-sale)
+ - [Best Apple Cyber Monday Deals: Save up to $1,899 on iPhone, Apple Watch, iPad, AirPods, Mac](https://appleinsider.com/articles/25/11/30/best-apple-cyber-monday-deals-save-up-to-1899-on-iphone-apple-watch-ipad-airpods-mac?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
