@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Need help](http://9gag.com/gag/agmpQK1)
- - ⏩ [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
- - 👉 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)<!-- MEMES:END -->
+ - 💣 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
+ - ⏩ [Modders are the savior](http://9gag.com/gag/azxvxWB)
+ - 👉 [Bot-lickers](http://9gag.com/gag/a34z5Le)<!-- MEMES:END -->
 
 ---
 
