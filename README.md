@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One life gone](https://www.reddit.com/r/funny/comments/1pbjovs/one_life_gone/)
- - ⏩ [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - 👉 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)<!-- MEMES:END -->
+ - 💣 [Bot-lickers](http://9gag.com/gag/a34z5Le)
+ - ⏩ [Instant Regret!](http://9gag.com/gag/aGyrLXK)
+ - 👉 [Before](http://9gag.com/gag/avyB1xq)<!-- MEMES:END -->
 
 ---
 
