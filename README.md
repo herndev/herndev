@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prague’s City Center Sparkles, Buzzes, and Burns at the Signal Festival](https://www.wired.com/story/prague-signal-festival-report/)
- - [30% Off Canon Promo Codes | December 2025](https://www.wired.com/story/canon-promo-code/)
- - [China&#39;s central bank reaffirmed its stance on crypto, calling virtual currency activity illegal and saying stablecoins fail KYC and anti-money-laundering rules &lpar;Reuters&rpar;](http://www.techmeme.com/251201/p2#a251201p2)<!-- TECH:END -->
+ - [The AI boom has led to high demand and more pay for the construction workers that build data centers; a trade group says there is a shortage of ~439K workers &lpar;Te-Ping Chen/Wall Street Journal&rpar;](http://www.techmeme.com/251201/p3#a251201p3)
+ - [This country just banned Android phones for military officers, recommends only iPhones](https://www.androidauthority.com/israel-idf-android-ban-officers-iphone-use-3620788/)
+ - [20 Best Cyber Monday TV Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-tv-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
