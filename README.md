@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wise policeman](http://9gag.com/gag/a4PBE86)
- - ⏩ [A game made with passion and love 10 years ago in 2015. No in-game purchases, free main game quality, 2 free DLCs and a free next-gen upgrade.](http://9gag.com/gag/avyBAqM)
- - 👉 [Technologia](http://9gag.com/gag/ae9qAPp)<!-- MEMES:END -->
+ - 💣 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
+ - ⏩ [Modders are the savior](http://9gag.com/gag/azxvxWB)
+ - 👉 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)<!-- MEMES:END -->
 
 ---
 
