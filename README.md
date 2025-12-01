@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Megabonk gets back into The Game Awards despite dev pulling out](https://www.polygon.com/megabonk-game-awards-fan-vote-players-choice-category-ballot-vedinad/)
- - [Extraction Shooter Player Puts Down Guns And Starts Selling Fruit Instead](https://kotaku.com/arc-raiders-trade-fruit-loot-scrappy-lemons-mushrooms-2000649233)
- - [The 11 Elden Ring: Nightreign DLC features that would surprise and delight the biggest FromSoftware fans](https://www.pcgamer.com/games/rpg/the-11-elden-ring-nightreign-dlc-features-that-would-surprise-and-delight-the-biggest-fromsoftware-fans/)<!-- GAME:END -->
+ - [The Helldivers Movie Just Found Its Perfect Director](https://kotaku.com/helldivers-movie-sony-director-justin-lin-fast-and-furious-star-trek-2000649269)
+ - [Mystery Sonic the Hedgehog spinoff movie coming in 2028](https://www.polygon.com/sonic-the-hedgehog-movie-2028/)
+ - [&#39;We&#39;re so back&#39;: After withdrawing from The Game Awards in November, Megabonk is back in the fight in the Players&#39; Voice category](https://www.pcgamer.com/games/roguelike/were-so-back-after-withdrawing-from-the-game-awards-in-november-megabonk-is-back-in-the-fight-in-the-players-voice-category/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
