@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Designed for Xbox: Your Gift Guide to Must-Have Xbox Accessories This Holiday](https://news.xbox.com/en-us/2025/12/01/xbox-accessories-holiday-gift-guide-designed-for-xbox/)
- - [Obojima Tales from the Tall Grass: Cyber Monday sale discounts the D&amp;D campaign by 20%](https://www.polygon.com/dnd-beyond-cyber-monday-deals-obojima-ghibli/)
- - [Amazon Offloads 10,000mAh 45W 3-Port Charger at Record Low, Tiny Power Bank Now Dirt Cheap](https://kotaku.com/amazon-offloads-10000mah-45w-3-port-charger-at-record-low-tiny-power-bank-now-dirt-cheap-2000649111)<!-- GAME:END -->
+ - [DJI Clears Osmo Action 5 Pro for Cyber Monday, Action Camera Rival to GoPro Hits All-Time Low](https://kotaku.com/dji-clears-osmo-action-5-pro-for-cyber-monday-action-camera-rival-to-gopro-hits-all-time-low-2000649129)
+ - [It: Welcome to Derry episode 6 just gave us an excellent Pennywise lore dump](https://www.polygon.com/it-welcome-to-derry-pennywise-origin-mrs-kersh-episode-6/)
+ - [Hooray, Microsoft is making File Explorer faster, but it&#39;s still slower than Windows 10 and consumes more RAM. Boo](https://www.pcgamer.com/software/windows/hooray-microsoft-is-making-file-explorer-faster-but-its-still-slower-than-windows-10-and-consumes-more-ram-boo/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
