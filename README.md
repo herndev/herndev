@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Roborock Q7 Max+ With 9 Weeks Self-Empty Crashes to Record Low, Cyber Monday Goes Zero Profit for Final Clearance](https://kotaku.com/roborock-q7-max-with-9-weeks-self-empty-crashes-to-record-low-cyber-monday-goes-zero-profit-for-final-clearance-2000648933)
- - [MacBooks Survived Black Friday and Apple Went Even Lower, New Record Low for Cyber Monday](https://kotaku.com/macbooks-survived-black-friday-and-apple-went-even-lower-new-record-low-for-cyber-monday-2000648940)
- - [All character locations in Fortnite Chapter 7 Season 1](https://www.polygon.com/fortnite-character-locations-specialist-chapter-7-c7s1/)<!-- GAME:END -->
+ - [Fortnite&#39;s latest live event drew in 10.5 million players to see Godzilla, Hatsune Miku, Homer Simpson, and countless other characters fight a giant squid man](https://www.pcgamer.com/games/third-person-shooter/fortnites-latest-live-event-drew-in-10-5-million-players-to-see-godzilla-hatsune-miku-homer-simpson-and-countless-other-characters-fight-a-giant-squid-man/)
+ - [Five new Steam games you probably missed &lpar;December 1, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-december-1-2025/)
+ - [Amazon Clears Out AirPods Pro 3 for Cyber Monday, Liquidates Black Friday Leftovers at Record Low Price](https://kotaku.com/amazon-clears-out-airpods-pro-3-for-cyber-monday-liquidates-black-friday-leftovers-at-record-low-price-2000648949)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
