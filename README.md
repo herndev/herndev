@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [DJI Clears Osmo Action 5 Pro for Cyber Monday, Action Camera Rival to GoPro Hits All-Time Low](https://kotaku.com/dji-clears-osmo-action-5-pro-for-cyber-monday-action-camera-rival-to-gopro-hits-all-time-low-2000649129)
- - [It: Welcome to Derry episode 6 just gave us an excellent Pennywise lore dump](https://www.polygon.com/it-welcome-to-derry-pennywise-origin-mrs-kersh-episode-6/)
- - [Hooray, Microsoft is making File Explorer faster, but it&#39;s still slower than Windows 10 and consumes more RAM. Boo](https://www.pcgamer.com/software/windows/hooray-microsoft-is-making-file-explorer-faster-but-its-still-slower-than-windows-10-and-consumes-more-ram-boo/)<!-- GAME:END -->
+ - [Rockstar animator posts unseen GTA 6 clips in demo footage which is immediately nuked, but the internet just does not forget](https://www.pcgamer.com/games/grand-theft-auto/rockstar-animator-posts-unseen-gta-6-clips-in-demo-footage-which-is-immediately-nuked-but-the-internet-just-does-not-forget/)
+ - [Amazon’s board game deals are the best Black Friday sales in years](https://www.polygon.com/black-friday-2025/475495/best-board-game-deals/)
+ - [It&#39;s not just RAM—SSDs could soon cost way more too, and it&#39;s all downhill from here](https://www.pcgamer.com/hardware/ssds/its-not-just-ram-ssds-could-soon-cost-way-more-too-and-its-all-downhill-from-here/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
