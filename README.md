@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Apple Watch Series 11 Cyber Monday deal: New low price of $329](https://appleinsider.com/articles/25/12/01/best-apple-watch-series-11-cyber-monday-deal-new-low-price-of-329?utm_source=rss)
- - [OpenAI takes a stake in Thrive Capital&#39;s Thrive Holdings and plans to embed AI agents in its companies, which already includes an accounting and IT business &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251201/p12#a251201p12)
- - [The Nintendo Switch 2 is $50 off at Walmart during Cyber Monday](https://www.theverge.com/gadgets/834775/nintendo-switch-2-walmart-cyber-monday-deal-sale)<!-- TECH:END -->
+ - [Why IBM CEO Arvind Krishna is still hiring humans in the AI era](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing)
+ - [An analysis of Crunchbase and PitchBook data: in 2025 so far, 80+ tech startups reached $1B valuations, many of them focused on AI with exceptions like Kalshi &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251201/p14#a251201p14)
+ - [Mystery Samsung device might actually be the rumored wide-screen Fold 8](https://www.androidauthority.com/samsung-sm-f971-wide-screen-fold-8-leak-3620912/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
