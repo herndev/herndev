@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Animaj, a startup in Disney&#39;s Accelerator Program, uses AI to drastically speed up the animation process, while also claiming to let artists stay in control &lpar;Corinne Reichert/CNET&rpar;](http://www.techmeme.com/251130/p14#a251130p14)
  - [That popular YouTube alternative on Android TV was secretly distributing infected builds](https://www.androidauthority.com/smarttube-malware-fix-3620773/)
- - [Amazon&#39;s best AirPods 4 ANC deal is back in stock at $99 for Cyber Monday](https://appleinsider.com/articles/25/12/01/amazons-best-airpods-4-anc-deal-is-back-in-stock-at-99-for-cyber-monday?utm_source=rss)
- - [Here are 50 standout deals under $100 we’re eyeing for Cyber Monday](https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 1, #434](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-1-434/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
