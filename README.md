@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyber Monday Deal Zone slashes $300 off M5 MacBook Pro with 24GB RAM](https://appleinsider.com/articles/25/12/01/cyber-monday-deal-zone-slashes-300-off-m5-macbook-pro-with-24gb-ram?utm_source=rss)
- - [New York becomes the first US state to require retailers to disclose use of algorithmic pricing tied to personal data; 10+ states are considering similar bills &lpar;Tim Balk/New York Times&rpar;](http://www.techmeme.com/251201/p1#a251201p1)
- - [Google Messages is making SIM switching while texting a little less painful](https://www.androidauthority.com/google-messages-sim-switcher-new-workflow-3620777/)<!-- TECH:END -->
+ - [Prague’s City Center Sparkles, Buzzes, and Burns at the Signal Festival](https://www.wired.com/story/prague-signal-festival-report/)
+ - [30% Off Canon Promo Codes | December 2025](https://www.wired.com/story/canon-promo-code/)
+ - [China&#39;s central bank reaffirmed its stance on crypto, calling virtual currency activity illegal and saying stablecoins fail KYC and anti-money-laundering rules &lpar;Reuters&rpar;](http://www.techmeme.com/251201/p2#a251201p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
