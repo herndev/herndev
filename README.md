@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Galaxy S26 Ultra wallpapers give us our first hint at which colors to expect](https://www.androidauthority.com/galaxy-s26-ultra-wallpapers-leaked-3620812/)
- - [14 Best Cyber Monday Headphone Deals &lpar;2025&rpar;: Apple, Sony, and Bose](https://www.wired.com/story/cyber-monday-headphone-deals-2025/)
- - [HSBC signs a deal with Mistral to access Mistral&#39;s AI models and collaborate on developing new models for internal use, as big banks rush to adopt generative AI &lpar;Ortenca Aliaj/Financial Times&rpar;](http://www.techmeme.com/251201/p5#a251201p5)<!-- TECH:END -->
+ - [German AI startup Black Forest Labs, which develops the open-source Flux image models, raised $300M at a $3.25B valuation, up from $1B in September 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/251201/p7#a251201p7)
+ - [The Best Apple Cyber Monday Deals &lpar;2025&rpar;](https://www.wired.com/story/apple-cyber-monday-deals-2025/)
+ - [32 Best Cyber Monday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-tech-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
