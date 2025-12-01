@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - ⏩ [Instant Regret!](http://9gag.com/gag/aGyrLXK)
- - 👉 [Before](http://9gag.com/gag/avyB1xq)<!-- MEMES:END -->
+ - 💣 [This is how you track helicopter blades apparently](http://9gag.com/gag/avyByMq)
+ - ⏩ [Kiss revealed their faces without makeup with the song Lick it up 1983](http://9gag.com/gag/a6ZeZgA)
+ - 👉 [Modders are the savior](http://9gag.com/gag/azxvxWB)<!-- MEMES:END -->
 
 ---
 
