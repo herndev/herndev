@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at ElevenLabs, as ~50% of its $193M in trailing 12-month revenue now comes from corporates, like Cisco, and ~50% from YouTubers, podcasters, and authors &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/251201/p22#a251201p22)
- - [The Nintendo Switch 2 got its first-ever discount during Cyber Monday](https://www.theverge.com/gadgets/834775/nintendo-switch-2-walmart-cyber-monday-deal-sale)
- - [Best Apple Cyber Monday Deals: Save up to $1,899 on iPhone, Apple Watch, iPad, AirPods, Mac](https://appleinsider.com/articles/25/11/30/best-apple-cyber-monday-deals-save-up-to-1899-on-iphone-apple-watch-ipad-airpods-mac?utm_source=rss)<!-- TECH:END -->
+ - [This $5 Kindle page-turning remote is all I’m buying for Cyber Monday](https://www.theverge.com/gadgets/834864/kindle-remote-page-turner-cyber-monday-deal-sale-2025)
+ - [Memo: Adam Mosseri asks Instagram US staff to return to office five days a week, starting February; sources: it&#39;s the first such RTO mandate for a big Meta unit &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251201/p23#a251201p23)
+ - [Samsung One UI leak reveals upcoming Galaxy Buds 4 design](https://www.androidauthority.com/samsung-galaxy-buds-4-look-3621013/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
