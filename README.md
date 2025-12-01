@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
- - ⏩ [Modders are the savior](http://9gag.com/gag/azxvxWB)
- - 👉 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)<!-- MEMES:END -->
+ - 💣 [Need help](http://9gag.com/gag/agmpQK1)
+ - ⏩ [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
+ - 👉 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)<!-- MEMES:END -->
 
 ---
 
