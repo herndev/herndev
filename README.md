@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rockstar animator posts unseen GTA 6 clips in demo footage which is immediately nuked, but the internet just does not forget](https://www.pcgamer.com/games/grand-theft-auto/rockstar-animator-posts-unseen-gta-6-clips-in-demo-footage-which-is-immediately-nuked-but-the-internet-just-does-not-forget/)
- - [Amazon’s board game deals are the best Black Friday sales in years](https://www.polygon.com/black-friday-2025/475495/best-board-game-deals/)
- - [It&#39;s not just RAM—SSDs could soon cost way more too, and it&#39;s all downhill from here](https://www.pcgamer.com/hardware/ssds/its-not-just-ram-ssds-could-soon-cost-way-more-too-and-its-all-downhill-from-here/)<!-- GAME:END -->
+ - [A Terrible AI Song About Charlie Kirk Is Infecting The Internet](https://kotaku.com/we-are-charlie-kirk-song-ai-videos-memes-kirkify-jokes-2000649211)
+ - [Konami veterans say they had to resurrect Metal Gear because no-one&#39;s getting any younger, are they: &#39;Given our age… now was the time&#39;](https://www.pcgamer.com/games/action/konami-veterans-say-they-had-to-resurrect-metal-gear-because-no-ones-getting-any-younger-are-they-given-our-age-now-was-the-time/)
+ - [Fortnite&#39;s new rolling is as busted as it is great](https://www.polygon.com/fornite-rolling-ragdoll-down-but-not-out-glitch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
