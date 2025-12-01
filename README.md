@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Cyber Monday Soundbar Deals](https://www.wired.com/story/cyber-monday-soundbar-deals-2025/)
- - [Shopify suffers an outage, leaving some merchants unable to log in or access POS systems, and says it has fixed an issue and is seeing signs of recovery &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251201/p24#a251201p24)
- - [The Meta Quest 3S VR Headset Is the Cheapest It&#39;s Ever Been &lpar;2025&rpar;](https://www.wired.com/story/meta-quest-3s-deal-cyber-monday-2025/)<!-- TECH:END -->
+ - [14 Best Cyber Monday Laptop Deals &lpar;2025&rpar;: MacBooks, Gaming Laptops, and More](https://www.wired.com/story/best-cyber-monday-laptop-deals-2025/)
+ - [Google exec confirms ‘huge investment’ underway for Gemini app UX overhaul](https://www.androidauthority.com/gemini-app-ui-big-revamp-3621046/)
+ - [Lowest price alert: Samsung Galaxy Watch 8 drops to $249.99](https://www.androidauthority.com/samsung-galaxy-watch-8-deal-2-3621064/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
