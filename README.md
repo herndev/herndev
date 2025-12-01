@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
- - ⏩ [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - 👉 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)<!-- MEMES:END -->
+ - 💣 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
+ - ⏩ [Mommy Issues](http://9gag.com/gag/aAyLQZL)
+ - 👉 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)<!-- MEMES:END -->
 
 ---
 
