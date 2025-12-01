@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [German AI startup Black Forest Labs, which develops the open-source Flux image models, raised $300M at a $3.25B valuation, up from $1B in September 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/251201/p7#a251201p7)
- - [The Best Apple Cyber Monday Deals &lpar;2025&rpar;](https://www.wired.com/story/apple-cyber-monday-deals-2025/)
- - [32 Best Cyber Monday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-tech-deals-2025/)<!-- TECH:END -->
+ - [Welcome to fandom’s AI clout economy](https://www.theverge.com/ai-artificial-intelligence/830876/influencers-anti-ai-deepfakes-fandom-economy)
+ - [Netflix quietly removes support for casting from its mobile app to most modern TVs and streaming devices, including Chromecast, regardless of subscription plan &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/251201/p10#a251201p10)
+ - [Zillow property listings no longer show risk of fires, floods, and storms](https://www.theverge.com/news/834715/zillow-removes-flood-fire-risk-scores-home-listings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
