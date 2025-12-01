@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
+ - 💣 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)
  - ⏩ [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - 👉 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)<!-- MEMES:END -->
+ - 👉 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)<!-- MEMES:END -->
 
 ---
 
