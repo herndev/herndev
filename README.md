@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [15 years later, a heroic modder has finally added video poker to Fallout: New Vegas](https://www.pcgamer.com/games/rpg/15-years-later-a-heroic-modder-has-finally-added-video-poker-to-fallout-new-vegas/)
- - [Teamfight Tactics Set 16: Lore and Legends release time](https://www.polygon.com/teamfight-tactics-tft-set-16-lore-legends-release-time-na-euw-eune-oce/)
- - [Ubisoft’s Becoming The King Of Switch 2 Ports](https://kotaku.com/assassins-creed-shadows-switch-2-port-gameplay-comparison-ps5-xbox-fps-ubisoft-2000649204)<!-- GAME:END -->
+ - [Earthbending from MTG&#39;s Avatar crossover finds its kryptonite in a 20-year-old card](https://www.polygon.com/mtg-avatar-earthbending-counter-eradicate/)
+ - [Brian David-Marshall&#39;s Cataclysm Arcade fixes one of the biggest problems with TCGs](https://www.polygon.com/cataclysm-arcade-preview-brian-david-marshall/)
+ - [The Switch 2 Mario Kart World Bundle Just Got A Surprise Discount](https://kotaku.com/switch-2-sale-cyber-monday-mario-kart-world-walmart-amazon-2000649232)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
