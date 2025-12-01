@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Team Cherry may not attend The Game Awards even though Silksong is nominated for GOTY, but they&#39;re pretty sure a different &#39;exceptional and broadly palatable&#39; game will win](https://www.pcgamer.com/games/action/team-cherry-may-not-attend-the-game-awards-even-though-silksong-is-nominated-for-goty-but-theyre-pretty-sure-a-different-exceptional-and-broadly-palatable-game-will-win/)
- - [LG 48″ OLED evo C4 Series Gets “Hidden Price” on Amazon, 45% Off Price Violates LG’s Display Rules](https://kotaku.com/lg-48-oled-evo-c4-series-gets-hidden-price-on-amazon-45-off-price-violates-lgs-display-rules-2000648469)
- - [Silksong devs felt they didn&#39;t &#39;have a lot of control&#39; over its release date and sympathize with all the games that were delayed to avoid it: &#39;To some extent that probably is unfortunate&#39;](https://www.pcgamer.com/games/action/silksong-devs-felt-they-didnt-have-a-lot-of-control-over-its-release-date-and-sympathize-with-all-the-games-that-were-delayed-to-avoid-it-to-some-extent-that-probably-is-unfortunate/)<!-- GAME:END -->
+ - [Roborock Q7 Max+ With 9 Weeks Self-Empty Crashes to Record Low, Cyber Monday Goes Zero Profit for Final Clearance](https://kotaku.com/roborock-q7-max-with-9-weeks-self-empty-crashes-to-record-low-cyber-monday-goes-zero-profit-for-final-clearance-2000648933)
+ - [MacBooks Survived Black Friday and Apple Went Even Lower, New Record Low for Cyber Monday](https://kotaku.com/macbooks-survived-black-friday-and-apple-went-even-lower-new-record-low-for-cyber-monday-2000648940)
+ - [All character locations in Fortnite Chapter 7 Season 1](https://www.polygon.com/fortnite-character-locations-specialist-chapter-7-c7s1/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
