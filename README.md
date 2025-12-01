@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [75% cute and 85% charisma](http://9gag.com/gag/aE0jMWo)
- - ⏩ [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 👉 [Bot-lickers](http://9gag.com/gag/a34z5Le)<!-- MEMES:END -->
+ - 💣 [Bot-lickers](http://9gag.com/gag/a34z5Le)
+ - ⏩ [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
+ - 👉 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)<!-- MEMES:END -->
 
 ---
 
