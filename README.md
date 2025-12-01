@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can save up to $100 on Seagate’s Xbox Expansion Cards for Cyber Monday](https://www.theverge.com/gadgets/834745/seagate-storage-expansion-card-xbox-series-x-s-cyber-monday-deal-sale-2025)
- - [12 Best Cyber Monday Home Security Deals 2025](https://www.wired.com/story/cyber-monday-home-security-deals-2025/)
- - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)<!-- TECH:END -->
+ - [Get a fantastic 55-inch OLED in your home for $900 on Cyber Monday](https://www.theverge.com/gadgets/834390/lg-b5-oled-tv-cyber-monday-deal-sale-2025)
+ - [The ping pong movie is very stressful](https://www.theverge.com/entertainment/828746/marty-supreme-movie-review)
+ - [Tutor Intelligence, which makes AI-powered warehouse robots, raised a $34M Series A led by Union Square Ventures, bringing its total funding to $42M &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/251201/p19#a251201p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
