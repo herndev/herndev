@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why IBM CEO Arvind Krishna is still hiring humans in the AI era](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing)
- - [An analysis of Crunchbase and PitchBook data: in 2025 so far, 80+ tech startups reached $1B valuations, many of them focused on AI with exceptions like Kalshi &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251201/p14#a251201p14)
- - [Mystery Samsung device might actually be the rumored wide-screen Fold 8](https://www.androidauthority.com/samsung-sm-f971-wide-screen-fold-8-leak-3620912/)<!-- TECH:END -->
+ - [You can save up to $100 on Seagate’s Xbox Expansion Cards for Cyber Monday](https://www.theverge.com/gadgets/834745/seagate-storage-expansion-card-xbox-series-x-s-cyber-monday-deal-sale-2025)
+ - [12 Best Cyber Monday Home Security Deals 2025](https://www.wired.com/story/cyber-monday-home-security-deals-2025/)
+ - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
