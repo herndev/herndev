@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Terrible AI Song About Charlie Kirk Is Infecting The Internet](https://kotaku.com/we-are-charlie-kirk-song-ai-videos-memes-kirkify-jokes-2000649211)
- - [Konami veterans say they had to resurrect Metal Gear because no-one&#39;s getting any younger, are they: &#39;Given our age… now was the time&#39;](https://www.pcgamer.com/games/action/konami-veterans-say-they-had-to-resurrect-metal-gear-because-no-ones-getting-any-younger-are-they-given-our-age-now-was-the-time/)
- - [Fortnite&#39;s new rolling is as busted as it is great](https://www.polygon.com/fornite-rolling-ragdoll-down-but-not-out-glitch/)<!-- GAME:END -->
+ - [15 years later, a heroic modder has finally added video poker to Fallout: New Vegas](https://www.pcgamer.com/games/rpg/15-years-later-a-heroic-modder-has-finally-added-video-poker-to-fallout-new-vegas/)
+ - [Teamfight Tactics Set 16: Lore and Legends release time](https://www.polygon.com/teamfight-tactics-tft-set-16-lore-legends-release-time-na-euw-eune-oce/)
+ - [Ubisoft’s Becoming The King Of Switch 2 Ports](https://kotaku.com/assassins-creed-shadows-switch-2-port-gameplay-comparison-ps5-xbox-fps-ubisoft-2000649204)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
