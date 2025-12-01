@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey reveals you haven’t given this crazy new Gemini feature a chance](https://www.androidauthority.com/google-marketing-gemini-feature-survey-results-3620888/)
- - [Best Apple Cyber Monday Deals: Save up to $1,899 on iPhone, Apple Watch, iPad, AirPods, Mac](https://appleinsider.com/articles/25/11/30/best-apple-cyber-monday-deals-save-up-to-1899-on-iphone-apple-watch-ipad-airpods-mac?utm_source=rss)
- - [The Best Cyber Monday Beauty Deals, WIRED Approved &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-beauty-deals-2025/)<!-- TECH:END -->
+ - [Best Apple Watch Series 11 Cyber Monday deal: New low price of $329](https://appleinsider.com/articles/25/12/01/best-apple-watch-series-11-cyber-monday-deal-new-low-price-of-329?utm_source=rss)
+ - [OpenAI takes a stake in Thrive Capital&#39;s Thrive Holdings and plans to embed AI agents in its companies, which already includes an accounting and IT business &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251201/p12#a251201p12)
+ - [The Nintendo Switch 2 is $50 off at Walmart during Cyber Monday](https://www.theverge.com/gadgets/834775/nintendo-switch-2-walmart-cyber-monday-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
