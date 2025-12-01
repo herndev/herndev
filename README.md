@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Cyber Monday Laptop Deals &lpar;2025&rpar;: MacBooks, Gaming Laptops, and More](https://www.wired.com/story/best-cyber-monday-laptop-deals-2025/)
- - [Google exec confirms ‘huge investment’ underway for Gemini app UX overhaul](https://www.androidauthority.com/gemini-app-ui-big-revamp-3621046/)
- - [Lowest price alert: Samsung Galaxy Watch 8 drops to $249.99](https://www.androidauthority.com/samsung-galaxy-watch-8-deal-2-3621064/)<!-- TECH:END -->
+ - [We found 25 great laptop deals you can still grab for Cyber Monday](https://www.theverge.com/gadgets/835403/cyber-monday-laptop-deals-macbook-chromebook-surface-2025)
+ - [Apple&#39;s head of AI John Giannandrea is retiring](https://appleinsider.com/articles/25/12/01/head-of-ai-and-ml-john-giannandrea-is-retiring-from-apple?utm_source=rss)
+ - [Apple AI chief steps down following Siri setbacks](https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
