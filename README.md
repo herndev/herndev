@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyber Monday Mac mini deals drop M4 models to as low as $479](https://appleinsider.com/articles/25/11/28/cyber-monday-mac-mini-deals-drop-m4-models-to-as-low-as-479?utm_source=rss)
- - [Black Friday deals that are most popular with Verge readers](https://www.theverge.com/gadgets/830017/black-friday-ipod-favorite-deals-sales)
- - [DeepSeek says its new DeepSeekMath-V2 model got gold-medal level status on the International Mathematical Olympiad 2025 and Chinese Mathematical Olympiad 2024 &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/251128/p19#a251128p19)<!-- TECH:END -->
+ - [Our favorite laptops from Apple, Razer, HP, and others are over $500 for Cyber Monday](https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025)
+ - [Best MacBook Air Cyber Monday deals knock up to $600 off, prices from $549](https://appleinsider.com/articles/25/11/30/best-macbook-air-cyber-monday-deals-knock-up-to-600-off-prices-from-549?utm_source=rss)
+ - [Data centers in Oregon might be helping to drive an increase in cancer and miscarriages](https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
