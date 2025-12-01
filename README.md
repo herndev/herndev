@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025)
- - [Q&amp;A with ex-Intel CEO Pat Gelsinger on the &quot;decay&quot; at Intel, the Chip Act&#39;s terrible execution, the irony of Lip-Bu Tan broadly following his strategy, and more &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/251130/p12#a251130p12)
- - [Anker’s Laptop Power Bank is  $32 off for Cyber Monday, its biggest discount yet](https://www.theverge.com/gadgets/834269/anker-laptop-power-bank-cyber-monday-deal-sale-2025)<!-- TECH:END -->
+ - [Google Home users are forcing Gemini on their devices with this URL hack](https://www.androidauthority.com/google-home-force-gemini-url-trick-3620768/)
+ - [US startups are increasingly adopting Chinese open source AI models, as some capabilities of Chinese models start to catch up with those of frontier US labs &lpar;NBC News&rpar;](http://www.techmeme.com/251130/p13#a251130p13)
+ - [The best Cyber Monday deals on Apple MacBooks, AirTags, iPads, and more](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
