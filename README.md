@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Earthbending from MTG&#39;s Avatar crossover finds its kryptonite in a 20-year-old card](https://www.polygon.com/mtg-avatar-earthbending-counter-eradicate/)
- - [Brian David-Marshall&#39;s Cataclysm Arcade fixes one of the biggest problems with TCGs](https://www.polygon.com/cataclysm-arcade-preview-brian-david-marshall/)
- - [The Switch 2 Mario Kart World Bundle Just Got A Surprise Discount](https://kotaku.com/switch-2-sale-cyber-monday-mario-kart-world-walmart-amazon-2000649232)<!-- GAME:END -->
+ - [Megabonk gets back into The Game Awards despite dev pulling out](https://www.polygon.com/megabonk-game-awards-fan-vote-players-choice-category-ballot-vedinad/)
+ - [Extraction Shooter Player Puts Down Guns And Starts Selling Fruit Instead](https://kotaku.com/arc-raiders-trade-fruit-loot-scrappy-lemons-mushrooms-2000649233)
+ - [The 11 Elden Ring: Nightreign DLC features that would surprise and delight the biggest FromSoftware fans](https://www.pcgamer.com/games/rpg/the-11-elden-ring-nightreign-dlc-features-that-would-surprise-and-delight-the-biggest-fromsoftware-fans/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
