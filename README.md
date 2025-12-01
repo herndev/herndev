@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Animaj, a startup in Disney&#39;s Accelerator Program, uses AI to drastically speed up the animation process, while also claiming to let artists stay in control &lpar;Corinne Reichert/CNET&rpar;](http://www.techmeme.com/251130/p14#a251130p14)
- - [That popular YouTube alternative on Android TV was secretly distributing infected builds](https://www.androidauthority.com/smarttube-malware-fix-3620773/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 1, #434](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-1-434/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cyber Monday Deal Zone slashes $300 off M5 MacBook Pro with 24GB RAM](https://appleinsider.com/articles/25/12/01/cyber-monday-deal-zone-slashes-300-off-m5-macbook-pro-with-24gb-ram?utm_source=rss)
+ - [New York becomes the first US state to require retailers to disclose use of algorithmic pricing tied to personal data; 10+ states are considering similar bills &lpar;Tim Balk/New York Times&rpar;](http://www.techmeme.com/251201/p1#a251201p1)
+ - [Google Messages is making SIM switching while texting a little less painful](https://www.androidauthority.com/google-messages-sim-switcher-new-workflow-3620777/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
