@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This $5 Kindle page-turning remote is all I’m buying for Cyber Monday](https://www.theverge.com/gadgets/834864/kindle-remote-page-turner-cyber-monday-deal-sale-2025)
- - [Memo: Adam Mosseri asks Instagram US staff to return to office five days a week, starting February; sources: it&#39;s the first such RTO mandate for a big Meta unit &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251201/p23#a251201p23)
- - [Samsung One UI leak reveals upcoming Galaxy Buds 4 design](https://www.androidauthority.com/samsung-galaxy-buds-4-look-3621013/)<!-- TECH:END -->
+ - [The Best Cyber Monday Soundbar Deals](https://www.wired.com/story/cyber-monday-soundbar-deals-2025/)
+ - [Shopify suffers an outage, leaving some merchants unable to log in or access POS systems, and says it has fixed an issue and is seeing signs of recovery &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251201/p24#a251201p24)
+ - [The Meta Quest 3S VR Headset Is the Cheapest It&#39;s Ever Been &lpar;2025&rpar;](https://www.wired.com/story/meta-quest-3s-deal-cyber-monday-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
