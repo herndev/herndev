@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AI boom has led to high demand and more pay for the construction workers that build data centers; a trade group says there is a shortage of ~439K workers &lpar;Te-Ping Chen/Wall Street Journal&rpar;](http://www.techmeme.com/251201/p3#a251201p3)
- - [This country just banned Android phones for military officers, recommends only iPhones](https://www.androidauthority.com/israel-idf-android-ban-officers-iphone-use-3620788/)
- - [20 Best Cyber Monday TV Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-tv-deals-2025/)<!-- TECH:END -->
+ - [Leaked Galaxy S26 Ultra wallpapers give us our first hint at which colors to expect](https://www.androidauthority.com/galaxy-s26-ultra-wallpapers-leaked-3620812/)
+ - [14 Best Cyber Monday Headphone Deals &lpar;2025&rpar;: Apple, Sony, and Bose](https://www.wired.com/story/cyber-monday-headphone-deals-2025/)
+ - [HSBC signs a deal with Mistral to access Mistral&#39;s AI models and collaborate on developing new models for internal use, as big banks rush to adopt generative AI &lpar;Ortenca Aliaj/Financial Times&rpar;](http://www.techmeme.com/251201/p5#a251201p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
