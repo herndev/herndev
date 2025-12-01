@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro already banned from every pysco movie](http://9gag.com/gag/ae9q4wW)
- - ⏩ [Mommy Issues](http://9gag.com/gag/aAyLQZL)
- - 👉 [World first lighter](http://9gag.com/gag/aQzDvVz)<!-- MEMES:END -->
+ - 💣 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)
+ - ⏩ [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
+ - 👉 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)<!-- MEMES:END -->
 
 ---
 
