@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite&#39;s latest live event drew in 10.5 million players to see Godzilla, Hatsune Miku, Homer Simpson, and countless other characters fight a giant squid man](https://www.pcgamer.com/games/third-person-shooter/fortnites-latest-live-event-drew-in-10-5-million-players-to-see-godzilla-hatsune-miku-homer-simpson-and-countless-other-characters-fight-a-giant-squid-man/)
- - [Five new Steam games you probably missed &lpar;December 1, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-december-1-2025/)
- - [Amazon Clears Out AirPods Pro 3 for Cyber Monday, Liquidates Black Friday Leftovers at Record Low Price](https://kotaku.com/amazon-clears-out-airpods-pro-3-for-cyber-monday-liquidates-black-friday-leftovers-at-record-low-price-2000648949)<!-- GAME:END -->
+ - [Persona-adjacent turn-based tactics RPG Demonschool just got its second big patch, seems like now is the time to dive in](https://www.pcgamer.com/games/rpg/persona-adjacent-turn-based-tactics-rpg-demonschool-just-got-its-second-big-patch-seems-like-now-is-the-time-to-dive-in/)
+ - [Amazon Goes Full Liquidation on Fitbit Charge 6, Now at Record Low for Cyber Monday](https://kotaku.com/amazon-goes-full-liquidation-on-fitbit-charge-6-now-at-record-low-for-cyber-monday-2000648957)
+ - [Fortnite players are accusing it of using AI-generated art: &#39;I&#39;m done with this game&#39;](https://www.pcgamer.com/games/battle-royale/fortnite-players-are-accusing-it-of-using-ai-generated-art-im-done-with-this-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
