@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches AWS AI Factories to deploy AWS infrastructure, including AWS Trainium chips and Nvidia GPUs, in customers&#39; data centers &lpar;Georgia Butler/DatacenterDynamics&rpar;](http://www.techmeme.com/251202/p40#a251202p40)
- - [A profile of Dario Amodei and Anthropic, which is on track to hit a nearly $10B annualized run rate by the end of 2025, more than 10x what it generated in 2024 &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/251202/p39#a251202p39)
- - [Apple Music Replay 2025 is back with new listening stats](https://www.theverge.com/news/836613/apple-music-replay-2025-listening-stats-launch)<!-- TECH:END -->
+ - [Cyber Monday Apple deals have been extended, grab prices from $10.99](https://appleinsider.com/articles/25/12/02/cyber-monday-apple-deals-have-been-extended-grab-prices-from-1099?utm_source=rss)
+ - [Israeli startup Zafran, an AI-native threat exposure management service, raised a $60M Series C led by Menlo Ventures, bringing its total funding to $130M &lpar;Globes&rpar;](http://www.techmeme.com/251202/p44#a251202p44)
+ - [Premier League Soccer: Stream Fulham vs. Manchester City Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-fulham-vs-manchester-city-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
