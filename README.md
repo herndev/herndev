@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - ⏩ [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
- - 👉 [Bot-lickers](http://9gag.com/gag/a34z5Le)<!-- MEMES:END -->
+ - ⏩ [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)
+ - 👉 [This is how you track helicopter blades apparently](http://9gag.com/gag/avyByMq)<!-- MEMES:END -->
 
 ---
 
