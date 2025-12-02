@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - ⏩ [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
- - 👉 [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)<!-- MEMES:END -->
+ - 💣 [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
+ - ⏩ [A Picture i took on the way to my workplace.](http://9gag.com/gag/awy91Ay)
+ - 👉 [When you are an English teacher](http://9gag.com/gag/awy937R)<!-- MEMES:END -->
 
 ---
 
