@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We found 25 great laptop deals you can still grab for Cyber Monday](https://www.theverge.com/gadgets/835403/cyber-monday-laptop-deals-macbook-chromebook-surface-2025)
- - [Apple&#39;s head of AI John Giannandrea is retiring](https://appleinsider.com/articles/25/12/01/head-of-ai-and-ml-john-giannandrea-is-retiring-from-apple?utm_source=rss)
- - [Apple AI chief steps down following Siri setbacks](https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri)<!-- TECH:END -->
+ - [My favorite TVs, streaming devices, and soundbars are still up to 50% off for Cyber Monday](https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday)
+ - [The Apple Watch Series 11 is $70 off, beating its Black Friday price](https://www.theverge.com/gadgets/835083/cyber-monday-apple-watch-series-11-deal-sale-2025)
+ - [B&amp;H&#39;s Cyber Monday sale slashes up to $500 off MacBook Pro, Air, Mac Studio, Mac mini](https://appleinsider.com/articles/25/12/01/bhs-cyber-monday-sale-slashes-up-to-500-off-macbook-pro-air-mac-studio-mac-mini?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
