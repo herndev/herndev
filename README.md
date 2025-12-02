@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hazbin Hotel composers say Fallout Boy&#39;s Patrick Stump had an unusual request](https://www.polygon.com/video/hazbin-hotel-patrick-stump-fallout-boy-song/)
- - [Artist At The Center Of Marathon’/i&gt;s Plagiarism Scandal Says Bungie Has Made Things Right](https://kotaku.com/marathon-bungie-antireal-art-plagiarism-extraction-2000649685)
- - [Sabrina Carpenter Just Showed Halo And Pokémon How Easy It Is To Stand Up To Fascists](https://kotaku.com/sabrina-carpenter-ice-video-juno-song-response-trump-2000649672)<!-- GAME:END -->
+ - [Lost Twins 2 Water Update Offers Challenging New Puzzles and Improved Gameplay](https://news.xbox.com/en-us/2025/12/02/lost-twins-2-water-update/)
+ - [GameStop celebrates $30k trade-in by calling its critics &quot;trolls&quot;](https://www.polygon.com/gamestop-trade-in-values-prices-money-pokemon-card-gengar-psa-10/)
+ - [The Marathon art theft debacle has been &#39;resolved to my satisfaction,&#39; according to the artist Bungie stole from](https://www.pcgamer.com/games/fps/the-marathon-art-theft-debacle-has-been-resolved-to-my-satisfaction-according-to-the-artist-bungie-stole-from/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
