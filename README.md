@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyber Monday Apple deals have been extended, grab prices from $10.99](https://appleinsider.com/articles/25/12/02/cyber-monday-apple-deals-have-been-extended-grab-prices-from-1099?utm_source=rss)
- - [Israeli startup Zafran, an AI-native threat exposure management service, raised a $60M Series C led by Menlo Ventures, bringing its total funding to $130M &lpar;Globes&rpar;](http://www.techmeme.com/251202/p44#a251202p44)
- - [Premier League Soccer: Stream Fulham vs. Manchester City Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-fulham-vs-manchester-city-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [From urgent calls to scam detection, here is what Google is bringing to all Androids](https://www.androidauthority.com/google-app-feature-upgrades-december-2025-3621292/)
+ - [Google just made connecting hearing aids as easy as Pixel Buds](https://www.androidauthority.com/google-accessibility-fast-pair-hearing-aids-3621351/)
+ - [Gboard voice input is getting a major usability upgrade from Smart Dictation with Gemini](https://www.androidauthority.com/smart-dictation-gemini-3621374/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
