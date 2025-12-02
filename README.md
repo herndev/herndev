@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Metroid Prime 4 excels when it&amp;#8217;s actually being Metroid](https://www.theverge.com/games/835325/metroid-prime-4-review-nintendo-switch)
- - [Some of the stuff we bought during Black Friday and Cyber Monday](https://www.theverge.com/gadgets/835160/black-friday-cyber-monday-deals-staff-shopping)
- - [Apple will reportedly refuse India&amp;#8217;s order to preinstall a government app](https://www.theverge.com/news/836384/apple-india-sanchar-saathi-app-response)<!-- TECH:END -->
+ - [Barcelona-based Titan OS, which provides a smart TV operating system to TV makers like Philips and JVC, raised a €50M Series A led by Highland Europe &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251202/p28#a251202p28)
+ - [AT&amp;T customers affected by 2024 breach qualify for even more than expected](https://www.androidauthority.com/att-2024-breach-final-terms-3621341/)
+ - [Some of our favorite Cyber Monday deals are still kicking](https://www.theverge.com/gadgets/835113/best-cyber-monday-deals-still-available-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
