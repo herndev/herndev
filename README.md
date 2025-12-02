@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AILA review: The latest &#39;evil AI&#39; game misses the mark on a cool concept](https://www.polygon.com/aila-review/)
- - [Coming to Xbox Game Pass: Mortal Kombat 1, Death Howl, Dome Keeper, Routine, and More](https://news.xbox.com/en-us/2025/12/02/xbox-game-pass-december-2025/)
- - [Hideo Kojima Is Making His Disney Debut In Zootopia 2](https://kotaku.com/hideo-kojima-zootopia-2-voice-japanese-dub-paul-mole-2000649590)<!-- GAME:END -->
+ - [Metroid Prime 4: Beyond review: Samus’ disjointed adventure has its bright spots](https://www.polygon.com/metroid-prime-4-beyond-review/)
+ - [You Can Finally Get Mewtwo In Pokémon Legends: Z-A For Free](https://kotaku.com/pokemon-legends-za-mewtwo-mega-evolution-stones-quest-2000649609)
+ - [GameStop’s Pokémon Card Loot Box Program Just Led To A Record-Breaking $30,000 Trade-In](https://kotaku.com/gamestop-power-pack-pokemon-tcg-trade-in-gengar-2000649582)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
