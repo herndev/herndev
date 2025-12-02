@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Verge-approved gifts are still available for up to 60 percent off for Cyber Monday](https://www.theverge.com/gadgets/833050/cyber-monday-2025-gift-ideas-deal-sale)
- - [First Galaxy Z TriFold hands-on video shows major strengths and weaknesses](https://www.androidauthority.com/samsung-galaxy-z-trifold-hands-on-video-3621144/)
- - [Here are 50+ Cyber Monday deals you can still get for $100 or less](https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025)<!-- TECH:END -->
+ - [Google, with its structural advantages, is a threat for both OpenAI and Nvidia; OpenAI has a real moat with 800M+ ChatGPT users, but needs an advertising model &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251201/p37#a251201p37)
+ - [Sources: Marvell is in advanced talks to buy chip startup Celestial AI in a cash-and-stock deal that could top $5B; Celestial was valued at $2.5B in March 2025 &lpar;The Information&rpar;](http://www.techmeme.com/251201/p36#a251201p36)
+ - [Internal memo: OpenAI CEO Sam Altman declares a &quot;code red&quot; to shift more resources into improving ChatGPT amid rising competition, delaying other plans like ads &lpar;The Information&rpar;](http://www.techmeme.com/251201/p35#a251201p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
