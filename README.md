@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life in a nutshell, right](http://9gag.com/gag/azxvKAj)
- - ⏩ [It helps](http://9gag.com/gag/a5Q9wyq)
- - 👉 [For some reason, those feelings always happen when this happens.](http://9gag.com/gag/aKGX9A3)<!-- MEMES:END -->
+ - 💣 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
+ - ⏩ [A fitting end](http://9gag.com/gag/abAL4PB)
+ - 👉 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)<!-- MEMES:END -->
 
 ---
 
