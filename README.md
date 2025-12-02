@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Complete list of City Trial checklist missions in Kirby Air Riders](https://www.polygon.com/kirby-air-riders-city-trial-checklist-missions-complete-list-rewards/)
- - [Stranger Things 5 sets a new record for Netflix](https://www.polygon.com/stranger-things-5-netflix-viewer-record/)
- - [SpongeBob SquarePants is coming to The Sims 4](https://www.polygon.com/the-sims-4-spongebob-squarepants-kits-announcement/)<!-- GAME:END -->
+ - [Skate Players Upset About New Update That Makes Everyone Look Like A Stoner](https://kotaku.com/skate-season-2-update-skin-tone-changes-tired-stoners-character-changes-2000649710)
+ - [CD Projekt winds up Cyberpunk 2077 fans with fifth anniversary post, then cruelly breaks their hearts: &#39;We’re not teasing anything&#39;](https://www.pcgamer.com/games/rpg/cd-projekt-winds-up-cyberpunk-2077-fans-with-fifth-anniversary-post-then-cruelly-breaks-their-hearts-were-not-teasing-anything/)
+ - [Complete list of City Trial checklist missions in Kirby Air Riders](https://www.polygon.com/kirby-air-riders-city-trial-checklist-missions-complete-list-rewards/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
