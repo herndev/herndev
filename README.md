@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
- - ⏩ [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 👉 [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)<!-- MEMES:END -->
+ - 💣 [Seatle police says they arrest a criminal 3 times and warned judge of his violence, yet the judge still repeatedly released him until he caused a shooting](http://9gag.com/gag/aBybLQ1)
+ - ⏩ [Meta](http://9gag.com/gag/aBybLnz)
+ - 👉 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)<!-- MEMES:END -->
 
 ---
 
