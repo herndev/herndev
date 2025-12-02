@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At a Tokyo forum, Masayoshi Son says he &quot;was crying&quot; over SoftBank selling its $5.83B Nvidia stake but &quot;I just had more need for money to invest in OpenAI&quot; &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/251202/p14#a251202p14)
- - [Google might soon show your phone’s IMEI on the lock screen, but should you be worried?](https://www.androidauthority.com/google-personal-safety-imei-on-lock-screen-apk-teardown-3621253/)
- - [OpenAI declares ‘code red’ as Google catches up in AI race](https://www.theverge.com/news/836212/openai-code-red-chatgpt)<!-- TECH:END -->
+ - [Discord now lets users buy, wishlist, and gift in-game cosmetic items directly within its platform, starting with a store within Marvel Rivals&#39; Discord server &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/251202/p17#a251202p17)
+ - [Discord now lets you buy and gift video game skins](https://www.theverge.com/news/835385/discord-shop-marvel-rivals-gifting-wishlist)
+ - [Apple pushes back on India&#39;s iPhone security app install order](https://appleinsider.com/articles/25/12/02/apple-pushes-back-on-indias-iphone-security-app-install-order?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
