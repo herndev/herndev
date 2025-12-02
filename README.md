@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Updated Android Security Bulletin sets stage for a hefty December 2025 security patch](https://www.androidauthority.com/december-2025-android-security-bulletin-3621152/)
- - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)
- - [Trade data shows South Korea&#39;s chip exports rose 38.5% YoY to a record $17.26B in November, driven by strong data center demand and higher memory prices &lpar;Reuters&rpar;](http://www.techmeme.com/251202/p4#a251202p4)<!-- TECH:END -->
+ - [The Galaxy Z TriFold is all set for the US market with these offers](https://www.androidauthority.com/galaxy-z-trifold-us-availability-offers-3621193/)
+ - [CANI files a CA ballot measure to let an oversight board review and undo nonprofit conversions in science and tech since Jan. 2024, indirectly targeting OpenAI &lpar;Keach Hagey/Wall Street Journal&rpar;](http://www.techmeme.com/251202/p6#a251202p6)
+ - [Sources: Apple doesn&#39;t plan to comply with India&#39;s mandate to preload a state-owned cyber safety app on iPhones and will raise its concerns with New Delhi &lpar;Reuters&rpar;](http://www.techmeme.com/251202/p5#a251202p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
