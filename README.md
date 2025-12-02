@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [POV](http://9gag.com/gag/ajP37yq)
- - ⏩ [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - 👉 [Bot-lickers](http://9gag.com/gag/a34z5Le)<!-- MEMES:END -->
+ - 💣 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
+ - ⏩ [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
+ - 👉 [When you are an English teacher](http://9gag.com/gag/awy937R)<!-- MEMES:END -->
 
 ---
 
