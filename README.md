@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - ⏩ [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - 👉 [Coming home from college and forgetting how to dress for family events](http://9gag.com/gag/aoyG3ee)<!-- MEMES:END -->
+ - 💣 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
+ - ⏩ [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
+ - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
 
 ---
 
