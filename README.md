@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Recorder app update tweaks a key audio feature](https://www.androidauthority.com/googles-recorder-app-update-tweaks-a-key-audio-feature-3621211/)
- - [UK pension funds are cutting exposure to US equities over worries about growing concentration in a few tech stocks and a potential bubble in the AI sector &lpar;Financial Times&rpar;](http://www.techmeme.com/251202/p8#a251202p8)
- - [An interview with IBM CEO Arvind Krishna on why there&#39;s no AI bubble, his view that Watson&#39;s healthcare push was &quot;inappropriate&quot;, IBM&#39;s quantum bet, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251202/p7#a251202p7)<!-- TECH:END -->
+ - [Polymarket&#39;s Ukraine war betting, based on ISW&#39;s map, generated $1M+ in volume for &quot;Will Russia capture Myrnohrad?&quot;; an &quot;unauthorized&quot; map edit resolved the bet &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/251202/p10#a251202p10)
+ - [Wish your Game Boy was huge and played PS2 games? Meet the RG 477V](https://www.androidauthority.com/anbernic-rg-477v-announced-3621250/)
+ - [Americans express fear and negativity toward AI, often relying on bad arguments like water usage, a stark contrast with Asia and Europe&#39;s relative positivity &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/251202/p9#a251202p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
