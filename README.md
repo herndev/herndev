@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Michael and Susan Dell say they will deposit $250 in individual investment accounts for 25M kids, totaling $6.25B, comparing the gift to Dell&#39;s direct model &lpar;Nicholas Kulish/New York Times&rpar;](http://www.techmeme.com/251202/p21#a251202p21)
- - [South Korean police arrest four over hacking 120K home security cameras, whose footage was used to make sexually exploitative material; one person made ~$12K &lpar;John Yoon/New York Times&rpar;](http://www.techmeme.com/251202/p20#a251202p20)
- - [Chinese short-video company Kuaishou launches Kling Video O1, saying it is the first multimodal AI model to unify video generation, editing, and post-production &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/251202/p19#a251202p19)<!-- TECH:END -->
+ - [Metroid Prime 4 excels when it&amp;#8217;s actually being Metroid](https://www.theverge.com/games/835325/metroid-prime-4-review-nintendo-switch)
+ - [Some of the stuff we bought during Black Friday and Cyber Monday](https://www.theverge.com/gadgets/835160/black-friday-cyber-monday-deals-staff-shopping)
+ - [Apple will reportedly refuse India&amp;#8217;s order to preinstall a government app](https://www.theverge.com/news/836384/apple-india-sanchar-saathi-app-response)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
