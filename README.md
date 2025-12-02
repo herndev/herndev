@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Barcelona-based Titan OS, which provides a smart TV operating system to TV makers like Philips and JVC, raised a €50M Series A led by Highland Europe &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251202/p28#a251202p28)
- - [AT&amp;T customers affected by 2024 breach qualify for even more than expected](https://www.androidauthority.com/att-2024-breach-final-terms-3621341/)
- - [Some of our favorite Cyber Monday deals are still kicking](https://www.theverge.com/gadgets/835113/best-cyber-monday-deals-still-available-2025)<!-- TECH:END -->
+ - [Amazon launches AWS AI Factories to deploy AWS infrastructure, including AWS Trainium chips and Nvidia GPUs, in customers&#39; data centers &lpar;Georgia Butler/DatacenterDynamics&rpar;](http://www.techmeme.com/251202/p40#a251202p40)
+ - [A profile of Dario Amodei and Anthropic, which is on track to hit a nearly $10B annualized run rate by the end of 2025, more than 10x what it generated in 2024 &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/251202/p39#a251202p39)
+ - [Apple Music Replay 2025 is back with new listening stats](https://www.theverge.com/news/836613/apple-music-replay-2025-listening-stats-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
