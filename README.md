@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coming home from college and forgetting how to dress for family events](http://9gag.com/gag/aoyG3ee)
- - ⏩ [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
- - 👉 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)<!-- MEMES:END -->
+ - 💣 [Bot-lickers](http://9gag.com/gag/a34z5Le)
+ - ⏩ [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
+ - 👉 [Coming home from college and forgetting how to dress for family events](http://9gag.com/gag/aoyG3ee)<!-- MEMES:END -->
 
 ---
 
