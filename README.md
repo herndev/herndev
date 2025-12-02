@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - ⏩ [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)
- - 👉 [This is how you track helicopter blades apparently](http://9gag.com/gag/avyByMq)<!-- MEMES:END -->
+ - 💣 [Modders are the savior](http://9gag.com/gag/azxvxWB)
+ - ⏩ [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
+ - 👉 [Kiss revealed their faces without makeup with the song Lick it up 1983](http://9gag.com/gag/a6ZeZgA)<!-- MEMES:END -->
 
 ---
 
