@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The PC game releases we&#39;re most excited about in December](https://www.pcgamer.com/games/pc-game-releases-december-2025/)
  - [&lpar;For Southeast Asia&rpar; Step into a new adventure with the upcoming DualSense Wireless Controller – Genshin Impact Limited Edition](https://blog.playstation.com/2025/12/01/20251201-genshincontroller/)
- - [&lpar;For Southeast Asia&rpar; Step into a new adventure with the upcoming DualSense Wireless Controller – Genshin Impact Limited Edition](https://blog.playstation.com/2025/12/01/20251201-genshincontroller/)
- - [Sometimes, an FPS really is better with a controller](https://www.pcgamer.com/games/fps/sometimes-an-fps-really-is-better-with-a-controller/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Step into a new adventure with the upcoming DualSense Wireless Controller – Genshin Impact Limited Edition](https://blog.playstation.com/2025/12/01/20251201-genshincontroller/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
