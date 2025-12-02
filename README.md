@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Hive Scum build in Warhammer 40K: Darktide](https://www.pcgamer.com/games/fps/warhammer-40k-darktide-hive-scum-build-best/)
- - [The PC game releases we&#39;re most excited about in December](https://www.pcgamer.com/games/pc-game-releases-december-2025/)
- - [&lpar;For Southeast Asia&rpar; Step into a new adventure with the upcoming DualSense Wireless Controller – Genshin Impact Limited Edition](https://blog.playstation.com/2025/12/01/20251201-genshincontroller/)<!-- GAME:END -->
+ - [Nintendo Switch OLED With Joy-Con Falls to a Clearance-Level Low as Amazon Has Only Limited Grade-A Renewed Units Left](https://kotaku.com/nintendo-switch-oled-with-joy-con-falls-to-a-clearance-level-low-as-amazon-has-only-limited-grade-a-renewed-units-left-2000649255)
+ - [Dipshit Derek: Stranger Things season 5&#39;s best character exposes the show&#39;s biggest problem](https://www.polygon.com/stranger-things-season-5-dipshit-derek/)
+ - [Memory crisis and sky-high DRAM prices could run past 2028 as Samsung and SK Hynix opt to &#39;minimize the risk of oversupply&#39;](https://www.pcgamer.com/hardware/memory/memory-crisis-and-sky-high-dram-prices-could-run-past-2028-as-samsung-and-sk-hynix-opt-to-minimize-the-risk-of-oversupply/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
