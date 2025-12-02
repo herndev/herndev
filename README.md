@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
- - ⏩ [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - 👉 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)<!-- MEMES:END -->
+ - 💣 [Internet Immediately Finds Gun a Dumb TikToker Threw Off Bridge - apologies for posting shitter but i thought you&#39;d appreciate the story](http://9gag.com/gag/aAyLKgZ)
+ - ⏩ [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
+ - 👉 [A Picture i took on the way to my workplace.](http://9gag.com/gag/awy91Ay)<!-- MEMES:END -->
 
 ---
 
