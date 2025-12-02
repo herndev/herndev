@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Modders are the savior](http://9gag.com/gag/azxvxWB)
+ - 💣 [75% cute and 85% charisma](http://9gag.com/gag/aE0jMWo)
  - ⏩ [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 👉 [Kiss revealed their faces without makeup with the song Lick it up 1983](http://9gag.com/gag/a6ZeZgA)<!-- MEMES:END -->
+ - 👉 [Gonna be honest here, I\u2019d rather not](http://9gag.com/gag/aMV0dpR)<!-- MEMES:END -->
 
 ---
 
