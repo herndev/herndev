@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia announces Alpamayo-R1, an AI model for autonomous driving research, and calls it the &quot;first industry-scale open reasoning vision language action model&quot; &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/251202/p2#a251202p2)
- - [Texas AG Ken Paxton says he is investigating Shein to determine whether it violated state laws on unethical labor practices and the sale of unsafe products &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/251202/p1#a251202p1)
- - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)<!-- TECH:END -->
+ - [Updated Android Security Bulletin sets stage for a hefty December 2025 security patch](https://www.androidauthority.com/december-2025-android-security-bulletin-3621152/)
+ - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)
+ - [Trade data shows South Korea&#39;s chip exports rose 38.5% YoY to a record $17.26B in November, driven by strong data center demand and higher memory prices &lpar;Reuters&rpar;](http://www.techmeme.com/251202/p4#a251202p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
