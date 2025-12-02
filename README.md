@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s bet that AI benchmarks don’t matter](https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter)
- - [Silicon Valley is rallying behind a guy who sucks](https://www.theverge.com/column/836932/david-sacks-new-york-times-white-house)
- - [December’s Pixel update is here and it smashes dozens of bugs](https://www.androidauthority.com/december-2025-pixel-update-3621533/)<!-- TECH:END -->
+ - [The Polaroid Flip, my favorite retro instant camera, is cheaper than ever](https://www.theverge.com/gadgets/836984/polaroid-flip-cyber-week-2025-deal-sale)
+ - [Marvell announces a deal to buy Celestial AI for at least $3.25B, expected to close in Q1 2026; the price can rise to $5.5B if Celestial hits revenue targets &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251202/p54#a251202p54)
+ - [Netflix Bans Streaming From Your Phone to Your TV](https://www.cnet.com/tech/services-and-software/netflix-bans-streaming-from-your-phone-to-your-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
