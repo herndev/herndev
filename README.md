@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Racism is also not only tolerate, but expected...](http://9gag.com/gag/aqyV8jL)
- - ⏩ [IMMIGRANTS lose their citizenships in Nordic countries, if you sympathize with the country you claim to have escaped from :&rpar;](http://9gag.com/gag/aRB8MyM)
- - 👉 [Life in a nutshell, right](http://9gag.com/gag/azxvKAj)<!-- MEMES:END -->
+ - 💣 [Life in a nutshell, right](http://9gag.com/gag/azxvKAj)
+ - ⏩ [It helps](http://9gag.com/gag/a5Q9wyq)
+ - 👉 [For some reason, those feelings always happen when this happens.](http://9gag.com/gag/aKGX9A3)<!-- MEMES:END -->
 
 ---
 
