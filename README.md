@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From urgent calls to scam detection, here is what Google is bringing to all Androids](https://www.androidauthority.com/google-app-feature-upgrades-december-2025-3621292/)
- - [Google just made connecting hearing aids as easy as Pixel Buds](https://www.androidauthority.com/google-accessibility-fast-pair-hearing-aids-3621351/)
- - [Gboard voice input is getting a major usability upgrade from Smart Dictation with Gemini](https://www.androidauthority.com/smart-dictation-gemini-3621374/)<!-- TECH:END -->
+ - [Roborock’s powerful Saros 10 robovac is still at its lowest price ever](https://www.theverge.com/gadgets/836687/roborock-saros-10-cyber-week-2025-deal-sale)
+ - [The Switch 2 is still on sale at multiple retailers if you missed out during Cyber Monday](https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal)
+ - [The 157 Best Cyber Week Deals—Save up to 57% Off Gear We Love](https://www.wired.com/story/cyber-monday-deals-2025-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
