@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [75% cute and 85% charisma](http://9gag.com/gag/aE0jMWo)
- - ⏩ [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 👉 [Gonna be honest here, I\u2019d rather not](http://9gag.com/gag/aMV0dpR)<!-- MEMES:END -->
+ - 💣 [POV](http://9gag.com/gag/ajP37yq)
+ - ⏩ [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
+ - 👉 [Mahhamed explained in less than 2 minutes](http://9gag.com/gag/aMV0BG6)<!-- MEMES:END -->
 
 ---
 
