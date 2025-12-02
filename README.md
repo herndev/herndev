@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout 76: Burning Springs Expansion Out Today, Adding New Locations, Quests, and The Ghoul](https://fallout.bethesda.net/en/article/7H7bDc4y2k9IAcK8wRlXsk/fallout-76-burning-springs-play-now#new_tab)
- - [Pokémon Go &#39;Journey to Paldea&#39; event guide](https://www.polygon.com/pokemon-go-journey-to-paldea-guide-nacli-research-collection-challenge/)
- - [Andy Weir says Martian 2 won&#39;t happen, but Project Hail Mary movie is his next step](https://www.polygon.com/the-martian-writer-wont-write-a-sequel-because-hes-busy-outrunning-science/)<!-- GAME:END -->
+ - [Hazbin Hotel composers say Fallout Boy&#39;s Patrick Stump had an unusual request](https://www.polygon.com/video/hazbin-hotel-patrick-stump-fallout-boy-song/)
+ - [Artist At The Center Of Marathon’/i&gt;s Plagiarism Scandal Says Bungie Has Made Things Right](https://kotaku.com/marathon-bungie-antireal-art-plagiarism-extraction-2000649685)
+ - [Sabrina Carpenter Just Showed Halo And Pokémon How Easy It Is To Stand Up To Fascists](https://kotaku.com/sabrina-carpenter-ice-video-juno-song-response-trump-2000649672)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
