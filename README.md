@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
- - ⏩ [He is likely to be deported](http://9gag.com/gag/avyBWdM)
- - 👉 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)<!-- MEMES:END -->
+ - 💣 [POV](http://9gag.com/gag/ajP37yq)
+ - ⏩ [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
+ - 👉 [Bot-lickers](http://9gag.com/gag/a34z5Le)<!-- MEMES:END -->
 
 ---
 
