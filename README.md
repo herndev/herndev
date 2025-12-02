@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
- - ⏩ [A Picture i took on the way to my workplace.](http://9gag.com/gag/awy91Ay)
- - 👉 [When you are an English teacher](http://9gag.com/gag/awy937R)<!-- MEMES:END -->
+ - 💣 [Coming home from college and forgetting how to dress for family events](http://9gag.com/gag/aoyG3ee)
+ - ⏩ [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
+ - 👉 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)<!-- MEMES:END -->
 
 ---
 
