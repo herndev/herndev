@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Max’s &#39;Mad Men&#39; Barf Scene Proves ‘Remastered’ Doesn’t Mean ‘Better’](https://www.wired.com/story/hbo-maxs-mad-men-barf-scene-proves-remastered-doesnt-mean-better/)
- - [Google TV is hopping on the year-end recap bandwagon](https://www.androidauthority.com/google-tv-best-of-2025-3621528/)
- - [Helldivers 2&amp;#8217;s new &amp;#8216;slim&amp;#8217; version saves 131GB of space on your drive](https://www.theverge.com/news/836948/helldivers-2-file-size-decrease)<!-- TECH:END -->
+ - [Amazon’s bet that AI benchmarks don’t matter](https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter)
+ - [Silicon Valley is rallying behind a guy who sucks](https://www.theverge.com/column/836932/david-sacks-new-york-times-white-house)
+ - [December’s Pixel update is here and it smashes dozens of bugs](https://www.androidauthority.com/december-2025-pixel-update-3621533/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
