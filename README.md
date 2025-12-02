@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My favorite TVs, streaming devices, and soundbars are still up to 50% off for Cyber Monday](https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday)
- - [The Apple Watch Series 11 is $70 off, beating its Black Friday price](https://www.theverge.com/gadgets/835083/cyber-monday-apple-watch-series-11-deal-sale-2025)
- - [B&amp;H&#39;s Cyber Monday sale slashes up to $500 off MacBook Pro, Air, Mac Studio, Mac mini](https://appleinsider.com/articles/25/12/01/bhs-cyber-monday-sale-slashes-up-to-500-off-macbook-pro-air-mac-studio-mac-mini?utm_source=rss)<!-- TECH:END -->
+ - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
+ - [The 171 Best Cyber Monday Deals—Save Up to 57% Off Gear We Love](https://www.wired.com/story/cyber-monday-deals-2025/)
+ - [Move over, tablets: Samsung launches its triple-screen Galaxy Z TriFold](https://www.androidauthority.com/galaxy-z-trifold-launch-3621111/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
