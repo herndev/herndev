@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roborock’s powerful Saros 10 robovac is still at its lowest price ever](https://www.theverge.com/gadgets/836687/roborock-saros-10-cyber-week-2025-deal-sale)
- - [The Switch 2 is still on sale at multiple retailers if you missed out during Cyber Monday](https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal)
- - [The 157 Best Cyber Week Deals—Save up to 57% Off Gear We Love](https://www.wired.com/story/cyber-monday-deals-2025-1/)<!-- TECH:END -->
+ - [HBO Max’s &#39;Mad Men&#39; Barf Scene Proves ‘Remastered’ Doesn’t Mean ‘Better’](https://www.wired.com/story/hbo-maxs-mad-men-barf-scene-proves-remastered-doesnt-mean-better/)
+ - [Google TV is hopping on the year-end recap bandwagon](https://www.androidauthority.com/google-tv-best-of-2025-3621528/)
+ - [Helldivers 2&amp;#8217;s new &amp;#8216;slim&amp;#8217; version saves 131GB of space on your drive](https://www.theverge.com/news/836948/helldivers-2-file-size-decrease)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
