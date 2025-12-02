@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)
- - ⏩ [Meta](http://9gag.com/gag/aBybLnz)
- - 👉 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)<!-- MEMES:END -->
+ - 💣 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
+ - ⏩ [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
+ - 👉 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)<!-- MEMES:END -->
 
 ---
 
