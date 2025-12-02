@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord now lets users buy, wishlist, and gift in-game cosmetic items directly within its platform, starting with a store within Marvel Rivals&#39; Discord server &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/251202/p17#a251202p17)
- - [Discord now lets you buy and gift video game skins](https://www.theverge.com/news/835385/discord-shop-marvel-rivals-gifting-wishlist)
- - [Apple pushes back on India&#39;s iPhone security app install order](https://appleinsider.com/articles/25/12/02/apple-pushes-back-on-indias-iphone-security-app-install-order?utm_source=rss)<!-- TECH:END -->
+ - [Michael and Susan Dell say they will deposit $250 in individual investment accounts for 25M kids, totaling $6.25B, comparing the gift to Dell&#39;s direct model &lpar;Nicholas Kulish/New York Times&rpar;](http://www.techmeme.com/251202/p21#a251202p21)
+ - [South Korean police arrest four over hacking 120K home security cameras, whose footage was used to make sexually exploitative material; one person made ~$12K &lpar;John Yoon/New York Times&rpar;](http://www.techmeme.com/251202/p20#a251202p20)
+ - [Chinese short-video company Kuaishou launches Kling Video O1, saying it is the first multimodal AI model to unify video generation, editing, and post-production &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/251202/p19#a251202p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
