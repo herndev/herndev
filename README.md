@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
- - [The 171 Best Cyber Monday Deals—Save Up to 57% Off Gear We Love](https://www.wired.com/story/cyber-monday-deals-2025/)
- - [Move over, tablets: Samsung launches its triple-screen Galaxy Z TriFold](https://www.androidauthority.com/galaxy-z-trifold-launch-3621111/)<!-- TECH:END -->
+ - [Move over, tablets: Samsung finally launches its Galaxy Z TriFold &lpar;Updated: Pricing&rpar;](https://www.androidauthority.com/galaxy-z-trifold-launch-3621111/)
+ - [The Trump administration agrees to inject up to $150M in xLight, which develops lasers for EUV machines and has Pat Gelsinger on its board, for an equity stake &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251201/p33#a251201p33)
+ - [Govee’s latest RGB-equipped speaker is 25 percent off for Cyber Monday](https://www.theverge.com/gadgets/835187/govee-table-lamp-2-pro-x-jbl-speaker-cyber-monday-deal-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
