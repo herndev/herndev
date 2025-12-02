@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hela: A Co-Op Adventure for Every Kind of Player](https://news.xbox.com/en-us/2025/12/02/hela-a-co-op-adventure-for-every-kind-of-player/)
- - [The Forge codes for December 2025: Free rerolls and Luck Totems](https://www.pcgamer.com/roblox/the-forge-codes/)
- - [I Have No Idea Who Would Actually Want This $300 Stranger Things Set](https://kotaku.com/stranger-things-season-5-creel-house-lego-set-price-minifigs-netflix-2000649698)<!-- GAME:END -->
+ - [Complete list of City Trial checklist missions in Kirby Air Riders](https://www.polygon.com/kirby-air-riders-city-trial-checklist-missions-complete-list-rewards/)
+ - [Stranger Things 5 sets a new record for Netflix](https://www.polygon.com/stranger-things-5-netflix-viewer-record/)
+ - [SpongeBob SquarePants is coming to The Sims 4](https://www.polygon.com/the-sims-4-spongebob-squarepants-kits-announcement/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
