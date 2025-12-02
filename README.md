@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with IBM CEO Arvind Krishna on why there&#39;s no AI bubble, his view that Watson&#39;s healthcare push was &quot;inappropriate&quot;, IBM&#39;s quantum bet, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251202/p7#a251202p7)
- - [The Galaxy Z TriFold is all set for the US market with these offers](https://www.androidauthority.com/galaxy-z-trifold-us-availability-offers-3621193/)
- - [CANI files a CA ballot measure to let an oversight board review and undo nonprofit conversions in science and tech since Jan. 2024, indirectly targeting OpenAI &lpar;Keach Hagey/Wall Street Journal&rpar;](http://www.techmeme.com/251202/p6#a251202p6)<!-- TECH:END -->
+ - [Google’s Recorder app update tweaks a key audio feature](https://www.androidauthority.com/googles-recorder-app-update-tweaks-a-key-audio-feature-3621211/)
+ - [UK pension funds are cutting exposure to US equities over worries about growing concentration in a few tech stocks and a potential bubble in the AI sector &lpar;Financial Times&rpar;](http://www.techmeme.com/251202/p8#a251202p8)
+ - [An interview with IBM CEO Arvind Krishna on why there&#39;s no AI bubble, his view that Watson&#39;s healthcare push was &quot;inappropriate&quot;, IBM&#39;s quantum bet, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251202/p7#a251202p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
