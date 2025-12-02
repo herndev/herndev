@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
  - ⏩ [He is likely to be deported](http://9gag.com/gag/avyBWdM)
- - 👉 [75% cute and 85% charisma](http://9gag.com/gag/aE0jMWo)<!-- MEMES:END -->
+ - 👉 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)<!-- MEMES:END -->
 
 ---
 
