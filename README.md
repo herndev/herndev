@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Switch OLED With Joy-Con Falls to a Clearance-Level Low as Amazon Has Only Limited Grade-A Renewed Units Left](https://kotaku.com/nintendo-switch-oled-with-joy-con-falls-to-a-clearance-level-low-as-amazon-has-only-limited-grade-a-renewed-units-left-2000649255)
- - [Dipshit Derek: Stranger Things season 5&#39;s best character exposes the show&#39;s biggest problem](https://www.polygon.com/stranger-things-season-5-dipshit-derek/)
- - [Memory crisis and sky-high DRAM prices could run past 2028 as Samsung and SK Hynix opt to &#39;minimize the risk of oversupply&#39;](https://www.pcgamer.com/hardware/memory/memory-crisis-and-sky-high-dram-prices-could-run-past-2028-as-samsung-and-sk-hynix-opt-to-minimize-the-risk-of-oversupply/)<!-- GAME:END -->
+ - [AILA review: The latest &#39;evil AI&#39; game misses the mark on a cool concept](https://www.polygon.com/aila-review/)
+ - [Coming to Xbox Game Pass: Mortal Kombat 1, Death Howl, Dome Keeper, Routine, and More](https://news.xbox.com/en-us/2025/12/02/xbox-game-pass-december-2025/)
+ - [Hideo Kojima Is Making His Disney Debut In Zootopia 2](https://kotaku.com/hideo-kojima-zootopia-2-voice-japanese-dub-paul-mole-2000649590)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
