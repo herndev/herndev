@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [POV](http://9gag.com/gag/ajP37yq)
- - ⏩ [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - 👉 [Mahhamed explained in less than 2 minutes](http://9gag.com/gag/aMV0BG6)<!-- MEMES:END -->
+ - 💣 [Gonna be honest here, I\u2019d rather not](http://9gag.com/gag/aMV0dpR)
+ - ⏩ [Mahhamed explained in less than 2 minutes](http://9gag.com/gag/aMV0BG6)
+ - 👉 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)<!-- MEMES:END -->
 
 ---
 
