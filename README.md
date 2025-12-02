@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
- - ⏩ [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
- - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
+ - 💣 [Racism is also not only tolerate, but expected...](http://9gag.com/gag/aqyV8jL)
+ - ⏩ [IMMIGRANTS lose their citizenships in Nordic countries, if you sympathize with the country you claim to have escaped from :&rpar;](http://9gag.com/gag/aRB8MyM)
+ - 👉 [Life in a nutshell, right](http://9gag.com/gag/azxvKAj)<!-- MEMES:END -->
 
 ---
 
