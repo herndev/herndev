@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
- - ⏩ [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
- - 👉 [When you are an English teacher](http://9gag.com/gag/awy937R)<!-- MEMES:END -->
+ - 💣 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
+ - ⏩ [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
+ - 👉 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)<!-- MEMES:END -->
 
 ---
 
