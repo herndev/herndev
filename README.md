@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [When is the Black Ops 7 Season 1 release time?](https://www.polygon.com/black-ops-7-bo7-season-1-update-release-time-est-pst/)
- - [Valve&#39;s Steam Machine has one big advantage over the old Steam Box](https://www.polygon.com/valve-steam-machine-differences-steam-box-steamos-linux-proton/)
- - [Judas developers Ghost Story Games discuss the origins of its main character](https://blog.playstation.com/2025/12/02/judas-developers-ghost-story-games-discuss-the-origins-of-its-main-character/)<!-- GAME:END -->
+ - [Fallout 76: Burning Springs Expansion Out Today, Adding New Locations, Quests, and The Ghoul](https://fallout.bethesda.net/en/article/7H7bDc4y2k9IAcK8wRlXsk/fallout-76-burning-springs-play-now#new_tab)
+ - [Pokémon Go &#39;Journey to Paldea&#39; event guide](https://www.polygon.com/pokemon-go-journey-to-paldea-guide-nacli-research-collection-challenge/)
+ - [Andy Weir says Martian 2 won&#39;t happen, but Project Hail Mary movie is his next step](https://www.polygon.com/the-martian-writer-wont-write-a-sequel-because-hes-busy-outrunning-science/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
