@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [21 months and 5,000 hours in, this long-term OLED monitor burn-in test finds that panel degradation slows after six months](https://www.pcgamer.com/hardware/gaming-monitors/21-months-and-5-000-hours-in-this-long-term-oled-monitor-burn-in-test-finds-that-panel-degradation-slows-after-six-months/)
- - [Helldivers 2 cuts its install size from &#39;~154GB to ~23GB&#39; in a beta you can opt into now, defeating liberty-hating storage reqs with &#39;no functional differences&#39; between versions](https://www.pcgamer.com/games/action/helldivers-2-cuts-its-install-size-from-154gb-to-23gb-in-a-beta-you-can-opt-into-now-defeating-liberty-hating-storage-reqs-with-no-functional-differences-between-versions/)
- - [Hideo Kojima has a cameo in Zootopia 2](https://www.polygon.com/zootopia-2-hideo-kojima-josh-gad/)<!-- GAME:END -->
+ - [When is the Black Ops 7 Season 1 release time?](https://www.polygon.com/black-ops-7-bo7-season-1-update-release-time-est-pst/)
+ - [Valve&#39;s Steam Machine has one big advantage over the old Steam Box](https://www.polygon.com/valve-steam-machine-differences-steam-box-steamos-linux-proton/)
+ - [Judas developers Ghost Story Games discuss the origins of its main character](https://blog.playstation.com/2025/12/02/judas-developers-ghost-story-games-discuss-the-origins-of-its-main-character/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
