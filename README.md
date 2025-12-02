@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polymarket&#39;s Ukraine war betting, based on ISW&#39;s map, generated $1M+ in volume for &quot;Will Russia capture Myrnohrad?&quot;; an &quot;unauthorized&quot; map edit resolved the bet &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/251202/p10#a251202p10)
- - [Wish your Game Boy was huge and played PS2 games? Meet the RG 477V](https://www.androidauthority.com/anbernic-rg-477v-announced-3621250/)
- - [Americans express fear and negativity toward AI, often relying on bad arguments like water usage, a stark contrast with Asia and Europe&#39;s relative positivity &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/251202/p9#a251202p9)<!-- TECH:END -->
+ - [At a Tokyo forum, Masayoshi Son says he &quot;was crying&quot; over SoftBank selling its $5.83B Nvidia stake but &quot;I just had more need for money to invest in OpenAI&quot; &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/251202/p14#a251202p14)
+ - [Google might soon show your phone’s IMEI on the lock screen, but should you be worried?](https://www.androidauthority.com/google-personal-safety-imei-on-lock-screen-apk-teardown-3621253/)
+ - [OpenAI declares ‘code red’ as Google catches up in AI race](https://www.theverge.com/news/836212/openai-code-red-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
