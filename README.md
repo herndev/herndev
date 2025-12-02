@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with IBM CEO Arvind Krishna on why there&#39;s no AI bubble, his view that Watson&#39;s healthcare push was &quot;inappropriate&quot;, IBM&#39;s quantum bet, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251202/p7#a251202p7)
  - [The Galaxy Z TriFold is all set for the US market with these offers](https://www.androidauthority.com/galaxy-z-trifold-us-availability-offers-3621193/)
- - [CANI files a CA ballot measure to let an oversight board review and undo nonprofit conversions in science and tech since Jan. 2024, indirectly targeting OpenAI &lpar;Keach Hagey/Wall Street Journal&rpar;](http://www.techmeme.com/251202/p6#a251202p6)
- - [Sources: Apple doesn&#39;t plan to comply with India&#39;s mandate to preload a state-owned cyber safety app on iPhones and will raise its concerns with New Delhi &lpar;Reuters&rpar;](http://www.techmeme.com/251202/p5#a251202p5)<!-- TECH:END -->
+ - [CANI files a CA ballot measure to let an oversight board review and undo nonprofit conversions in science and tech since Jan. 2024, indirectly targeting OpenAI &lpar;Keach Hagey/Wall Street Journal&rpar;](http://www.techmeme.com/251202/p6#a251202p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
