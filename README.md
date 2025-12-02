@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost Twins 2 Water Update Offers Challenging New Puzzles and Improved Gameplay](https://news.xbox.com/en-us/2025/12/02/lost-twins-2-water-update/)
- - [GameStop celebrates $30k trade-in by calling its critics &quot;trolls&quot;](https://www.polygon.com/gamestop-trade-in-values-prices-money-pokemon-card-gengar-psa-10/)
- - [The Marathon art theft debacle has been &#39;resolved to my satisfaction,&#39; according to the artist Bungie stole from](https://www.pcgamer.com/games/fps/the-marathon-art-theft-debacle-has-been-resolved-to-my-satisfaction-according-to-the-artist-bungie-stole-from/)<!-- GAME:END -->
+ - [Hela: A Co-Op Adventure for Every Kind of Player](https://news.xbox.com/en-us/2025/12/02/hela-a-co-op-adventure-for-every-kind-of-player/)
+ - [The Forge codes for December 2025: Free rerolls and Luck Totems](https://www.pcgamer.com/roblox/the-forge-codes/)
+ - [I Have No Idea Who Would Actually Want This $300 Stranger Things Set](https://kotaku.com/stranger-things-season-5-creel-house-lego-set-price-minifigs-netflix-2000649698)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
