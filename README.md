@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Metroid Prime 4: Beyond review: Samus’ disjointed adventure has its bright spots](https://www.polygon.com/metroid-prime-4-beyond-review/)
- - [You Can Finally Get Mewtwo In Pokémon Legends: Z-A For Free](https://kotaku.com/pokemon-legends-za-mewtwo-mega-evolution-stones-quest-2000649609)
- - [GameStop’s Pokémon Card Loot Box Program Just Led To A Record-Breaking $30,000 Trade-In](https://kotaku.com/gamestop-power-pack-pokemon-tcg-trade-in-gengar-2000649582)<!-- GAME:END -->
+ - [21 months and 5,000 hours in, this long-term OLED monitor burn-in test finds that panel degradation slows after six months](https://www.pcgamer.com/hardware/gaming-monitors/21-months-and-5-000-hours-in-this-long-term-oled-monitor-burn-in-test-finds-that-panel-degradation-slows-after-six-months/)
+ - [Helldivers 2 cuts its install size from &#39;~154GB to ~23GB&#39; in a beta you can opt into now, defeating liberty-hating storage reqs with &#39;no functional differences&#39; between versions](https://www.pcgamer.com/games/action/helldivers-2-cuts-its-install-size-from-154gb-to-23gb-in-a-beta-you-can-opt-into-now-defeating-liberty-hating-storage-reqs-with-no-functional-differences-between-versions/)
+ - [Hideo Kojima has a cameo in Zootopia 2](https://www.polygon.com/zootopia-2-hideo-kojima-josh-gad/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
