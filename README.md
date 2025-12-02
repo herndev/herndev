@@ -32,7 +32,7 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Helldivers Movie Just Found Its Perfect Director](https://kotaku.com/helldivers-movie-sony-director-justin-lin-fast-and-furious-star-trek-2000649269)
+ - [The Helldivers Movie Just Found The Perfect Director](https://kotaku.com/helldivers-movie-sony-director-justin-lin-fast-and-furious-star-trek-2000649269)
  - [Mystery Sonic the Hedgehog spinoff movie coming in 2028](https://www.polygon.com/sonic-the-hedgehog-movie-2028/)
  - [&#39;We&#39;re so back&#39;: After withdrawing from The Game Awards in November, Megabonk is back in the fight in the Players&#39; Voice category](https://www.pcgamer.com/games/roguelike/were-so-back-after-withdrawing-from-the-game-awards-in-november-megabonk-is-back-in-the-fight-in-the-players-voice-category/)<!-- GAME:END -->
 
