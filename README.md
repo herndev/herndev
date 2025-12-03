@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
- - ⏩ [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
- - 👉 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)<!-- MEMES:END -->
+ - 💣 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)
+ - ⏩ [No need subtitle](http://9gag.com/gag/ajP3L9g)
+ - 👉 [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)<!-- MEMES:END -->
 
 ---
 
