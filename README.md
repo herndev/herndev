@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google seems to have nuked another useful Google Home feature](https://www.androidauthority.com/google-call-home-quietly-gone-3621613/)
- - [This Wear OS app makes it easy to transfer files and sideload watch faces](https://www.androidauthority.com/wear-apk-install-app-3621609/)
- - [Google is replacing Discover news headlines with laughably awful AI-generated titles](https://www.androidauthority.com/google-discover-ai-headlines-3621603/)<!-- TECH:END -->
+ - [7 things we still don’t know about the Samsung Galaxy Z TriFold](https://www.androidauthority.com/samsung-galaxy-z-trifold-things-we-dont-know-3621348/)
+ - [A look at startups like AGI and Plato, which build replicas of websites to let AI agents learn to navigate and complete specific tasks, like booking flights &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/251203/p10#a251203p10)
+ - [Google seems to have nuked another useful Google Home feature](https://www.androidauthority.com/google-call-home-quietly-gone-3621613/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
