@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [DUI](http://9gag.com/gag/aAyLK50)
- - ⏩ [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
- - 👉 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)<!-- MEMES:END -->
+ - 💣 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
+ - ⏩ [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - 👉 [DUI](http://9gag.com/gag/aAyLK50)<!-- MEMES:END -->
 
 ---
 
