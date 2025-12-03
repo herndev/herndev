@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No need subtitle](http://9gag.com/gag/ajP3L9g)
- - ⏩ [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
- - 👉 [DUI](http://9gag.com/gag/aAyLK50)<!-- MEMES:END -->
+ - 💣 [A plan so brilliant... My genius frightens me sometimes](http://9gag.com/gag/an702pB)
+ - ⏩ [World first lighter](http://9gag.com/gag/aQzDvVz)
+ - 👉 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)<!-- MEMES:END -->
 
 ---
 
