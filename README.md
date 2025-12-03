@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s human interface design chief Alan Dye poached by Meta](https://appleinsider.com/articles/25/12/03/apples-human-interface-design-chief-alan-dye-poached-by-meta?utm_source=rss)
- - [Trusted for years, the Samsung 15W Wireless Charger is 41% off!](https://www.androidauthority.com/samsung-15w-wireless-charger-deal-3621908/)
- - [Netflix sells game studio Spry Fox back to its co-founders, David Edery and Daniel Cook; the streamer has shrunk its six-studio gaming operation down to three &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/251203/p34#a251203p34)<!-- TECH:END -->
+ - [Deals: High-quality NOCO XGrid charger and cable hit record-low prices!](https://www.androidauthority.com/noco-xgrid-x140-xc3-deals-3621907/)
+ - [Anthropic&amp;#8217;s AI bubble &amp;#8216;YOLO&amp;#8217; warning](https://www.theverge.com/column/837779/anthropic-ai-bubble-warning)
+ - [Google just made automating your thankless work tasks even easier](https://www.androidauthority.com/google-workspace-studio-3621898/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
