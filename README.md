@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s in-call scam protection goes live in the US to stop screen-sharing fraud](https://www.androidauthority.com/android-in-call-scam-protection-us-expansion-3621618/)
- - [An unsettling indie game about horses keeps getting banned from stores](https://www.theverge.com/news/837278/horses-banned-steam-epic-games-store)
- - [Five different AI browsers have the same problem](https://www.theverge.com/tech/837287/five-different-ai-browsers-have-the-same-problem)<!-- TECH:END -->
+ - [Don’t wait for the Galaxy Z TriFold, buy this other Samsung foldable right now instead](https://www.androidauthority.com/galaxy-z-fold-7-over-galaxy-trifold-3621509/)
+ - [Garmin releases its fitness-focused version of Wrapped, but not everyone gets it](https://www.androidauthority.com/garmin-connect-rundown-behind-paywall-3621839/)
+ - [Anyone can try to edit Grokipedia 0.2 but Grok is running the show](https://www.theverge.com/report/837431/grokipedia-update-editing-mess)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
