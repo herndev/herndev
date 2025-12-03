@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: High-quality NOCO XGrid charger and cable hit record-low prices!](https://www.androidauthority.com/noco-xgrid-x140-xc3-deals-3621907/)
- - [Anthropic&amp;#8217;s AI bubble &amp;#8216;YOLO&amp;#8217; warning](https://www.theverge.com/column/837779/anthropic-ai-bubble-warning)
- - [Google just made automating your thankless work tasks even easier](https://www.androidauthority.com/google-workspace-studio-3621898/)<!-- TECH:END -->
+ - [Record-low price alert: Apple AirPods 4 with ANC $80 off!](https://www.androidauthority.com/apple-airpods-4-with-anc-deal-2-3621906/)
+ - [HBO Max: The 30 Absolute Best TV Shows to Watch](https://www.cnet.com/culture/entertainment/best-tv-shows-on-hbo-max-dec-2025/#ftag=CAD590a51e)
+ - [I Brought Retro Games Back to Life the AI Way, Thanks to Gemini Vibe Coding](https://www.cnet.com/tech/services-and-software/the-most-fun-ive-ever-had-with-ai-is-vibe-coding-retro-video-games-heres-how-i-did-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
