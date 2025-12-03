@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)
- - ⏩ [No need subtitle](http://9gag.com/gag/ajP3L9g)
- - 👉 [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)<!-- MEMES:END -->
+ - 💣 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)
+ - ⏩ [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
+ - 👉 [DUI](http://9gag.com/gag/aAyLK50)<!-- MEMES:END -->
 
 ---
 
