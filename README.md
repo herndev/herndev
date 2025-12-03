@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 things we still don’t know about the Samsung Galaxy Z TriFold](https://www.androidauthority.com/samsung-galaxy-z-trifold-things-we-dont-know-3621348/)
- - [A look at startups like AGI and Plato, which build replicas of websites to let AI agents learn to navigate and complete specific tasks, like booking flights &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/251203/p10#a251203p10)
- - [Google seems to have nuked another useful Google Home feature](https://www.androidauthority.com/google-call-home-quietly-gone-3621613/)<!-- TECH:END -->
+ - [Here’s everything that could be coming with Samsung’s next big update for Galaxy phones](https://www.androidauthority.com/samsung-one-ui-8-5-leaked-changelog-3621667/)
+ - [HBO Max&#39;s 4K Mad Men re-release had multiple errors, including lacking post-production edits in some scenes; a source says Lionsgate delivered the wrong 4K file &lpar;Tony Maglio/The Hollywood Reporter&rpar;](http://www.techmeme.com/251203/p11#a251203p11)
+ - [Survey reveals why wallpapers apps could have a hard time succeeding](https://www.androidauthority.com/wallpaper-apps-survey-3621652/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
