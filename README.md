@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&#39;s nonprofit foundation announces it&#39;s awarding $40.5M in grants this year to 208 nonprofits across the US; the nonprofit donated only $7.5M in 2024 &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251203/p30#a251203p30)
- - [Release candidates of iOS 26.2, macOS 26.2 now available](https://appleinsider.com/articles/25/12/03/release-candidates-of-ios-262-macos-262-now-available?utm_source=rss)
- - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [Here are my 25 favorite deals from REI’s Cyber Week sale](https://www.theverge.com/gadgets/837519/best-rei-cyber-week-sale-2025-deals)
+ - [Apple interface design chief Alan Dye is leaving the company; sources: Dye will join Meta as chief design officer on Dec. 31 and report to CTO Andrew Bosworth &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251203/p32#a251203p32)
+ - [Best Robot Vacuums: Our Latest Lab Testing Reveals Surprising New Contenders](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
