@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well said, lady](http://9gag.com/gag/apRnPeB)
- - ⏩ [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
- - 👉 [A fitting end](http://9gag.com/gag/abAL4PB)<!-- MEMES:END -->
+ - 💣 [A fitting end](http://9gag.com/gag/abAL4PB)
+ - ⏩ [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - 👉 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)<!-- MEMES:END -->
 
 ---
 
