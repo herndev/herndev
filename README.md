@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Valve executive Pierre-Loup Griffais, who helped build SteamOS and the Steam Deck, on quietly funding open-source tech to play Windows games on Arm &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251203/p20#a251203p20)
- - [The Color of Your Sponge Matters. Here&#39;s How to Choose the Right One](https://www.cnet.com/news/the-color-of-your-sponge-matters-heres-how-to-choose-the-right-one/#ftag=CAD590a51e)
- - [Spotify unveils 2025&#39;s top 50 most popular US podcasts, led by The Joe Rogan Experience for the fifth consecutive year; 24 of the top 50 now offer video content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251203/p19#a251203p19)<!-- TECH:END -->
+ - [The Galaxy Z TriFold looks amazing, but I still have one big concern](https://www.androidauthority.com/samsung-galaxy-z-trifold-big-concern-3621334/)
+ - [Anyone want to buy a car that drives itself?](https://www.theverge.com/transportation/837014/autonomous-vehicle-privately-owned-who-wants)
+ - [Amazon says Alexa Plus can find that movie scene you&amp;#8217;re thinking about](https://www.theverge.com/news/837156/amazon-fire-tv-alexa-plus-skip-to-scene)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
