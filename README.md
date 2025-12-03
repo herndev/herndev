@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bose Flex Bluetooth Speaker Drops to All-Time Low on Amazon, Now Cheaper Than Budget Options](https://kotaku.com/bose-flex-bluetooth-speaker-drops-to-all-time-low-on-amazon-now-cheaper-than-budget-options-2000650056)
- - [Marvel Cosmic Invasion review](https://www.pcgamer.com/games/action/marvel-cosmic-invasion-review/)
- - [Avowed says sorry gang, no fall update this year, but to make up for it the devs are rolling together a bunch of features into a ball and putting them out in February](https://www.pcgamer.com/games/rpg/avowed-says-sorry-gang-no-fall-update-this-year-but-to-make-up-for-it-the-devs-are-rolling-together-a-bunch-of-features-into-a-ball-and-putting-them-out-in-february/)<!-- GAME:END -->
+ - [Magic&#39;s Stranger Things Secret Lair set the gold standard for crossovers](https://www.polygon.com/magic-the-gathering-mtg-stranger-things-secret-lair-universes-beyond/)
+ - [Nightdive Explains How the Game’s Original Source Code Transformed Blood: Refreshed Supply](https://news.xbox.com/en-us/2025/12/03/blood-refreshed-supply-source-code/)
+ - [Ready or Not 2: Here I Come&#39;s trailer shows the murderous games will continue in 2026](https://www.polygon.com/ready-or-not-2-here-i-come-trailer-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
