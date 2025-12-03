@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
- - ⏩ [It&#39;s sad but many jobs don&#39;t allow people to sit. Especially people working in restaurants and other customer services jobs.](http://9gag.com/gag/a7om0Wr)
- - 👉 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)<!-- MEMES:END -->
+ - 💣 [It&#39;s sad but many jobs don&#39;t allow people to sit. Especially people working in restaurants and other customer services jobs.](http://9gag.com/gag/a7om0Wr)
+ - ⏩ [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
+ - 👉 [DUI](http://9gag.com/gag/aAyLK50)<!-- MEMES:END -->
 
 ---
 
