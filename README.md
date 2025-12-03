@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon pulls AI anime dubs after fan backlash](https://www.polygon.com/amazon-prime-video-ai-english-dubs-banana-fish-no-game-no-life-zero-pet-anime/)
- - [No Games For Genocide Wants You To Boycott Xbox](https://kotaku.com/no-games-for-genocide-xbox-microsoft-boycott-palestine-2000650175)
- - [Everything You Need To Know About Elden Ring Nightreign‘s DLC](https://kotaku.com/nightreigh-forsaken-hollows-dlc-launch-time-patch-notes-2000650150)<!-- GAME:END -->
+ - [The RAM crisis is just getting started: Micron makes the &#39;difficult decision&#39; to abandon the consumer memory business to focus on supplying AI data centers](https://www.pcgamer.com/hardware/the-ram-crisis-is-just-getting-started-micron-makes-the-difficult-decision-to-abandon-the-consumer-memory-business-to-focus-on-supplying-ai-data-centers/)
+ - [2025’s Hit SWAT Sim Gets Free Trial On PS5 And Xbox](https://kotaku.com/ready-or-not-free-trial-xbox-ps5-full-progress-carry-over-when-void-swat-2000650182)
+ - [Nintendo Switch 2 Mario Kart World bundle is still on sale for $50 off](https://www.polygon.com/nintendo-switch-2-bundle-mario-kart-world-walmart-cyber-monday-sale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
