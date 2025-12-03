@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
- - ⏩ [A fitting end](http://9gag.com/gag/abAL4PB)
- - 👉 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)<!-- MEMES:END -->
+ - 💣 [A fitting end](http://9gag.com/gag/abAL4PB)
+ - ⏩ [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
+ - 👉 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)<!-- MEMES:END -->
 
 ---
 
