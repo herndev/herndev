@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Latest viral Game Awards tease could be teasing any videogame with hellish imagery from the last 70 years of the medium, but it&#39;s probably Elder Scrolls Online](https://www.pcgamer.com/gaming-industry/latest-viral-game-awards-tease-could-be-teasing-any-videogame-with-hellish-imagery-from-the-last-70-years-of-the-medium-but-its-probably-elder-scrolls-online/)
  - [It turns out Saudi Arabia will own 93.4 percent of EA if the buyout goes through, which is effectively all of it](https://www.pcgamer.com/gaming-industry/it-turns-out-saudi-arabia-will-own-93-4-percent-of-ea-if-the-buyout-goes-through-which-is-effectively-all-of-it/)
- - [This year&#39;s Digimon Story Time Stranger may have looked like a traditional JRPG, but its commitment to raising weird little guys gave it an anarchic, constantly surprising energy that Pokémon couldn&#39;t match](https://www.pcgamer.com/games/rpg/this-years-digimon-story-time-stranger-may-have-looked-like-a-traditional-jrpg-but-its-commitment-to-raising-weird-little-guys-gave-it-an-anarchic-constantly-surprising-energy-that-pokemon-couldnt-match/)
- - [Surprise! Saudi Arabia Will Own 93 Percent Of EA When The Deal Is Done](https://kotaku.com/ea-saudi-arabia-ownership-trump-jared-kushner-2000649726)<!-- GAME:END -->
+ - [This year&#39;s Digimon Story Time Stranger may have looked like a traditional JRPG, but its commitment to raising weird little guys gave it an anarchic, constantly surprising energy that Pokémon couldn&#39;t match](https://www.pcgamer.com/games/rpg/this-years-digimon-story-time-stranger-may-have-looked-like-a-traditional-jrpg-but-its-commitment-to-raising-weird-little-guys-gave-it-an-anarchic-constantly-surprising-energy-that-pokemon-couldnt-match/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
