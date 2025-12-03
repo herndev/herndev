@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Latest viral Game Awards tease could be teasing any videogame with hellish imagery from the last 70 years of the medium, but it&#39;s probably Elder Scrolls Online](https://www.pcgamer.com/gaming-industry/latest-viral-game-awards-tease-could-be-teasing-any-videogame-with-hellish-imagery-from-the-last-70-years-of-the-medium-but-its-probably-elder-scrolls-online/)
- - [It turns out Saudi Arabia will own 93.4 percent of EA if the buyout goes through, which is effectively all of it](https://www.pcgamer.com/gaming-industry/it-turns-out-saudi-arabia-will-own-93-4-percent-of-ea-if-the-buyout-goes-through-which-is-effectively-all-of-it/)
- - [This year&#39;s Digimon Story Time Stranger may have looked like a traditional JRPG, but its commitment to raising weird little guys gave it an anarchic, constantly surprising energy that Pokémon couldn&#39;t match](https://www.pcgamer.com/games/rpg/this-years-digimon-story-time-stranger-may-have-looked-like-a-traditional-jrpg-but-its-commitment-to-raising-weird-little-guys-gave-it-an-anarchic-constantly-surprising-energy-that-pokemon-couldnt-match/)<!-- GAME:END -->
+ - [HP Offloads Its 5-Star Laptop Bundle at 75% Off &lpar;32GB RAM, 1TB SSD&rpar; in aPost-Cyber Monday Rush, Far Cheaper Than Black Friday](https://kotaku.com/hp-offloads-its-5-star-laptop-bundle-at-75-off-32gb-ram-1tb-ssd-in-a-post-cyber-monday-rush-far-cheaper-than-black-friday-2000650003)
+ - [Girls’ Frontline 2: Exilium’s Anniversary Bash Is All About Huge Rewards and Hot New Features](https://kotaku.com/girls-frontline-2-exiliums-anniversary-bash-is-all-about-huge-rewards-and-hot-new-features-2000646724)
+ - [One-Punch Man season 3 production issues, explained](https://www.polygon.com/one-punch-man-season-3-disaster-jc-staff-schedule/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
