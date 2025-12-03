@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Eternity ending, explained: The director answers the big questions](https://www.polygon.com/eternity-ending-explained-director-david-freyne-interview/)
- - [Introducing Call of Duty: Mobile Season 11 — 6th Anniversary](https://www.callofduty.com/blog/2025/11/call-of-duty-mobile-season-11-6th-anniversary-dmz-recon-street-fighter-battle-pass/#new_tab)
- - [Clair Obscur: Expedition 33 had a huge launch on Xbox Game Pass](https://www.polygon.com/clair-obscur-expedition-33-xbox-game-pass-record-2025/)<!-- GAME:END -->
+ - [Amazon pulls AI anime dubs after fan backlash](https://www.polygon.com/amazon-prime-video-ai-english-dubs-banana-fish-no-game-no-life-zero-pet-anime/)
+ - [No Games For Genocide Wants You To Boycott Xbox](https://kotaku.com/no-games-for-genocide-xbox-microsoft-boycott-palestine-2000650175)
+ - [Everything You Need To Know About Elden Ring Nightreign‘s DLC](https://kotaku.com/nightreigh-forsaken-hollows-dlc-launch-time-patch-notes-2000650150)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
