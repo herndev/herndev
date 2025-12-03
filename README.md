@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [DUI](http://9gag.com/gag/aAyLK50)
+ - 💣 [French f**ker](http://9gag.com/gag/apRnPjn)
  - ⏩ [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
- - 👉 [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)<!-- MEMES:END -->
+ - 👉 [Way better than twilight](http://9gag.com/gag/aAyLExd)<!-- MEMES:END -->
 
 ---
 
