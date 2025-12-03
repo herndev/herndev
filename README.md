@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s sad but many jobs don&#39;t allow people to sit. Especially people working in restaurants and other customer services jobs.](http://9gag.com/gag/a7om0Wr)
- - ⏩ [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
- - 👉 [DUI](http://9gag.com/gag/aAyLK50)<!-- MEMES:END -->
+ - 💣 [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
+ - ⏩ [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
+ - 👉 [A fitting end](http://9gag.com/gag/abAL4PB)<!-- MEMES:END -->
 
 ---
 
