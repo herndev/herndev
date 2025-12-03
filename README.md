@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t wait for the Galaxy Z TriFold, buy this other Samsung foldable right now instead](https://www.androidauthority.com/galaxy-z-fold-7-over-galaxy-trifold-3621509/)
- - [Garmin releases its fitness-focused version of Wrapped, but not everyone gets it](https://www.androidauthority.com/garmin-connect-rundown-behind-paywall-3621839/)
- - [Anyone can try to edit Grokipedia 0.2 but Grok is running the show](https://www.theverge.com/report/837431/grokipedia-update-editing-mess)<!-- TECH:END -->
+ - [OpenAI&#39;s nonprofit foundation announces it&#39;s awarding $40.5M in grants this year to 208 nonprofits across the US; the nonprofit donated only $7.5M in 2024 &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251203/p30#a251203p30)
+ - [Release candidates of iOS 26.2, macOS 26.2 now available](https://appleinsider.com/articles/25/12/03/release-candidates-of-ios-262-macos-262-now-available?utm_source=rss)
+ - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
