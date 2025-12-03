@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [HP Offloads Its 5-Star Laptop Bundle at 75% Off &lpar;32GB RAM, 1TB SSD&rpar; in aPost-Cyber Monday Rush, Far Cheaper Than Black Friday](https://kotaku.com/hp-offloads-its-5-star-laptop-bundle-at-75-off-32gb-ram-1tb-ssd-in-a-post-cyber-monday-rush-far-cheaper-than-black-friday-2000650003)
- - [Girls’ Frontline 2: Exilium’s Anniversary Bash Is All About Huge Rewards and Hot New Features](https://kotaku.com/girls-frontline-2-exiliums-anniversary-bash-is-all-about-huge-rewards-and-hot-new-features-2000646724)
- - [One-Punch Man season 3 production issues, explained](https://www.polygon.com/one-punch-man-season-3-disaster-jc-staff-schedule/)<!-- GAME:END -->
+ - [Aeon Flux at 20: How a sci-fi mess turned Charlize Theron into an action star](https://www.polygon.com/aeon-flux-20-years-later-charlize-theron-karyn-kusama/)
+ - [Clair Obscur: Expedition 33 Is the Biggest New Third-Party Game Launch on Xbox Game Pass of 2025](https://news.xbox.com/en-us/2025/12/03/clair-obscur-expedition-33-game-pass-biggest-launch/)
+ - [Cloudflare says DDoS attacks have multiplied to 1.7x last year&#39;s count and at points there&#39;s been about one attempt every second](https://www.pcgamer.com/software/security/cloudflare-says-ddos-attacks-have-multiplied-to-1-7x-last-years-count-and-at-points-theres-been-about-one-attempt-every-second/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
