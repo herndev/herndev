@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bryan Johnson Has Discovered Shrooms, and He Really Wants You to Know It](https://www.wired.com/story/bryan-johnson-shrooms-livestream-trip/)
- - [The Nightmare Before Chirstmas Echo Dot bundles are cheaper than ever!](https://www.androidauthority.com/nightmare-before-chirstmas-echo-dot-bundle-deal-3621570/)
- - [Arizona AG Kris Mayes sues Temu for allegedly stealing customers&#39; data, including their physical location, and counterfeiting local brands &lpar;Sejal Govindarao/Associated Press&rpar;](http://www.techmeme.com/251202/p55#a251202p55)<!-- TECH:END -->
+ - [How to stream &#39;A Charlie Brown Christmas&#39; for free in 2025](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-stream-a-charlie-brown-christmas-for-free-in-2025?utm_source=rss)
+ - [Sources: Anthropic has tapped a law firm to begin work on its IPO, which could come as soon as 2026, and has held preliminary talks with big investment banks &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/251202/p58#a251202p58)
+ - [Check Point is raising $1.5B from the sale of a five-year zero-coupon convertible bond; proceeds will go toward buying back as much as $225M of stock &lpar;Bloomberg&rpar;](http://www.techmeme.com/251202/p57#a251202p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
