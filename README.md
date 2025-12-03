@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Mighty Nein&#39;s Caleb has Critical Role&#39;s darkest backstory](https://www.polygon.com/the-mighty-nein-episode-5-caleb-story-dark/)
- - [Clair Obscur: Expedition 33 interview - &#39;We went really over the top&#39;](https://www.polygon.com/clair-obscur-expedition-33-interview-sandfall-interactive/)
- - [Glorious GMBK 75% review](https://www.pcgamer.com/hardware/gaming-keyboards/glorious-gmbk-75-percent-review/)<!-- GAME:END -->
+ - [Eternity ending, explained: The director answers the big questions](https://www.polygon.com/eternity-ending-explained-director-david-freyne-interview/)
+ - [Introducing Call of Duty: Mobile Season 11 — 6th Anniversary](https://www.callofduty.com/blog/2025/11/call-of-duty-mobile-season-11-6th-anniversary-dmz-recon-street-fighter-battle-pass/#new_tab)
+ - [Clair Obscur: Expedition 33 had a huge launch on Xbox Game Pass](https://www.polygon.com/clair-obscur-expedition-33-xbox-game-pass-record-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
