@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [French f**ker](http://9gag.com/gag/apRnPjn)
- - ⏩ [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
- - 👉 [Way better than twilight](http://9gag.com/gag/aAyLExd)<!-- MEMES:END -->
+ - 💣 [Cultural enrichment](http://9gag.com/gag/amoOmA6)
+ - ⏩ [I hope 9gag won&#39;t delete this, it&#39;s funny](http://9gag.com/gag/aPAVodw)
+ - 👉 [No need subtitle](http://9gag.com/gag/ajP3L9g)<!-- MEMES:END -->
 
 ---
 
