@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)
- - ⏩ [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
+ - 💣 [No need subtitle](http://9gag.com/gag/ajP3L9g)
+ - ⏩ [Japan is now a pvp server](http://9gag.com/gag/aYQvOvq)
  - 👉 [DUI](http://9gag.com/gag/aAyLK50)<!-- MEMES:END -->
 
 ---
