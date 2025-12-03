@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z TriFold looks amazing, but I still have one big concern](https://www.androidauthority.com/samsung-galaxy-z-trifold-big-concern-3621334/)
- - [Anyone want to buy a car that drives itself?](https://www.theverge.com/transportation/837014/autonomous-vehicle-privately-owned-who-wants)
- - [Amazon says Alexa Plus can find that movie scene you&amp;#8217;re thinking about](https://www.theverge.com/news/837156/amazon-fire-tv-alexa-plus-skip-to-scene)<!-- TECH:END -->
+ - [How to see all the books you read in 2025 with Apple Books](https://appleinsider.com/inside/apple-services/tips/how-to-see-all-the-books-you-read-in-2025-with-apple-books?utm_source=rss)
+ - [It’s both good news and bad news for Samsung Galaxy Buds 4 and Buds 4 Pro battery life](https://www.androidauthority.com/galaxy-buds-4-battery-3621754/)
+ - [MLS puts Apple&#39;s iPhone 17 Pro to work as a broadcast camera](https://appleinsider.com/articles/25/12/03/mls-puts-apples-iphone-17-pro-to-work-as-a-broadcast-camera?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
