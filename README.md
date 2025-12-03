@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube says it will comply with Australia&#39;s social media ban for under-16s, after rejecting its inclusion in the crackdown and calling the regulation &quot;rushed&quot; &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/251202/p61#a251202p61)
  - [Google quietly restores a lost Pixel unlocking convenience with latest Android 16 update](https://www.androidauthority.com/pixel-screen-off-fingerprint-unlock-restored-3621578/)
- - [After a backlash, India says its pre-installed cybersecurity app is optional for users, who &quot;have complete freedom to activate, or delete the app at any time&quot; &lpar;Shruti Srivastava/Bloomberg&rpar;](http://www.techmeme.com/251202/p60#a251202p60)
- - [Filing: JD.com&#39;s JingDong Industrials, or JDi, a supply chain technology and services provider in China, aims to raise up to ~$420M in its Hong Kong IPO &lpar;Reuters&rpar;](http://www.techmeme.com/251202/p59#a251202p59)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Dec. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-dec-3/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
