@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Aeon Flux at 20: How a sci-fi mess turned Charlize Theron into an action star](https://www.polygon.com/aeon-flux-20-years-later-charlize-theron-karyn-kusama/)
- - [Clair Obscur: Expedition 33 Is the Biggest New Third-Party Game Launch on Xbox Game Pass of 2025](https://news.xbox.com/en-us/2025/12/03/clair-obscur-expedition-33-game-pass-biggest-launch/)
- - [Cloudflare says DDoS attacks have multiplied to 1.7x last year&#39;s count and at points there&#39;s been about one attempt every second](https://www.pcgamer.com/software/security/cloudflare-says-ddos-attacks-have-multiplied-to-1-7x-last-years-count-and-at-points-theres-been-about-one-attempt-every-second/)<!-- GAME:END -->
+ - [Bose Flex Bluetooth Speaker Drops to All-Time Low on Amazon, Now Cheaper Than Budget Options](https://kotaku.com/bose-flex-bluetooth-speaker-drops-to-all-time-low-on-amazon-now-cheaper-than-budget-options-2000650056)
+ - [Marvel Cosmic Invasion review](https://www.pcgamer.com/games/action/marvel-cosmic-invasion-review/)
+ - [Avowed says sorry gang, no fall update this year, but to make up for it the devs are rolling together a bunch of features into a ball and putting them out in February](https://www.pcgamer.com/games/rpg/avowed-says-sorry-gang-no-fall-update-this-year-but-to-make-up-for-it-the-devs-are-rolling-together-a-bunch-of-features-into-a-ball-and-putting-them-out-in-february/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
