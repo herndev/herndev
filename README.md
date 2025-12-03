@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google quietly restores a lost Pixel unlocking convenience with latest Android 16 update](https://www.androidauthority.com/pixel-screen-off-fingerprint-unlock-restored-3621578/)
  - [After a backlash, India says its pre-installed cybersecurity app is optional for users, who &quot;have complete freedom to activate, or delete the app at any time&quot; &lpar;Shruti Srivastava/Bloomberg&rpar;](http://www.techmeme.com/251202/p60#a251202p60)
- - [Filing: JD.com&#39;s JingDong Industrials, or JDi, a supply chain technology and services provider in China, aims to raise up to ~$420M in its Hong Kong IPO &lpar;Reuters&rpar;](http://www.techmeme.com/251202/p59#a251202p59)
- - [How to stream &#39;A Charlie Brown Christmas&#39; for free in 2025](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-stream-a-charlie-brown-christmas-for-free-in-2025?utm_source=rss)<!-- TECH:END -->
+ - [Filing: JD.com&#39;s JingDong Industrials, or JDi, a supply chain technology and services provider in China, aims to raise up to ~$420M in its Hong Kong IPO &lpar;Reuters&rpar;](http://www.techmeme.com/251202/p59#a251202p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
