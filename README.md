@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s everything that could be coming with Samsung’s next big update for Galaxy phones](https://www.androidauthority.com/samsung-one-ui-8-5-leaked-changelog-3621667/)
- - [HBO Max&#39;s 4K Mad Men re-release had multiple errors, including lacking post-production edits in some scenes; a source says Lionsgate delivered the wrong 4K file &lpar;Tony Maglio/The Hollywood Reporter&rpar;](http://www.techmeme.com/251203/p11#a251203p11)
- - [Survey reveals why wallpapers apps could have a hard time succeeding](https://www.androidauthority.com/wallpaper-apps-survey-3621652/)<!-- TECH:END -->
+ - [AI Forensics: 354 AI-focused TikTok accounts pushed 43K posts made with GenAI tools that hit 4.5B views, including posts with anti-immigrant and sexual material &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/251203/p14#a251203p14)
+ - [I had ‘smartphone pinky,’ but these 7 tricks helped me stop the pain](https://www.androidauthority.com/smartphone-pinky-stop-pain-tips-fixes-3621277/)
+ - [Vinci, which uses AI simulations to accelerate chip and other hardware design, raised a $36M Series A led by Xora Innovation, taking its total funding to $46M &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/251203/p13#a251203p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
