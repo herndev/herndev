@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Skate Players Upset About New Update That Makes Everyone Look Like A Stoner](https://kotaku.com/skate-season-2-update-skin-tone-changes-tired-stoners-character-changes-2000649710)
- - [CD Projekt winds up Cyberpunk 2077 fans with fifth anniversary post, then cruelly breaks their hearts: &#39;We’re not teasing anything&#39;](https://www.pcgamer.com/games/rpg/cd-projekt-winds-up-cyberpunk-2077-fans-with-fifth-anniversary-post-then-cruelly-breaks-their-hearts-were-not-teasing-anything/)
- - [Complete list of City Trial checklist missions in Kirby Air Riders](https://www.polygon.com/kirby-air-riders-city-trial-checklist-missions-complete-list-rewards/)<!-- GAME:END -->
+ - [Surprise! Saudi Arabia Will Own 93 Percent Of EA When The Deal Is Done](https://kotaku.com/ea-saudi-arabia-ownership-trump-jared-kushner-2000649726)
+ - [Here&#39;s the Elden Ring Nightreign: The Forsaken Hollows release time for your region](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-the-forsaken-hollows-release-date-times/)
+ - [Like a Dragon creators won&#39;t buckle to mainstream western tastes: &#39;people start making strange things when they misunderstand what their business is supposed to be&#39;](https://www.pcgamer.com/games/action/like-a-dragon-creators-wont-buckle-to-mainstream-western-tastes-people-start-making-strange-things-when-they-misunderstand-what-their-business-is-supposed-to-be/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
