@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A plan so brilliant... My genius frightens me sometimes](http://9gag.com/gag/an702pB)
- - ⏩ [World first lighter](http://9gag.com/gag/aQzDvVz)
- - 👉 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)<!-- MEMES:END -->
+ - 💣 [Hard one](http://9gag.com/gag/a0eD02q)
+ - ⏩ [A plan so brilliant... My genius frightens me sometimes](http://9gag.com/gag/an702pB)
+ - 👉 [World first lighter](http://9gag.com/gag/aQzDvVz)<!-- MEMES:END -->
 
 ---
 
