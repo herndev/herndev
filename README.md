@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hard one](http://9gag.com/gag/a0eD02q)
- - ⏩ [A plan so brilliant... My genius frightens me sometimes](http://9gag.com/gag/an702pB)
+ - 💣 [A plan so brilliant... My genius frightens me sometimes](http://9gag.com/gag/an702pB)
+ - ⏩ [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)
  - 👉 [World first lighter](http://9gag.com/gag/aQzDvVz)<!-- MEMES:END -->
 
 ---
