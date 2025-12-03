@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The RAM crisis is just getting started: Micron makes the &#39;difficult decision&#39; to abandon the consumer memory business to focus on supplying AI data centers](https://www.pcgamer.com/hardware/the-ram-crisis-is-just-getting-started-micron-makes-the-difficult-decision-to-abandon-the-consumer-memory-business-to-focus-on-supplying-ai-data-centers/)
- - [2025’s Hit SWAT Sim Gets Free Trial On PS5 And Xbox](https://kotaku.com/ready-or-not-free-trial-xbox-ps5-full-progress-carry-over-when-void-swat-2000650182)
- - [Nintendo Switch 2 Mario Kart World bundle is still on sale for $50 off](https://www.polygon.com/nintendo-switch-2-bundle-mario-kart-world-walmart-cyber-monday-sale/)<!-- GAME:END -->
+ - [Eberron: Forge of the Artificer makes D&amp;D&#39;s coolest class even better](https://www.polygon.com/dungeons-dragons-eberron-forge-of-the-artificer-review/)
+ - [Russia bans Roblox over extremist content and &#39;LGBT propaganda&#39;](https://www.pcgamer.com/games/russia-bans-roblox-over-extremist-content-and-lgbt-propaganda/)
+ - [Ron Gilbert canceled his Zelda-inspired RPG, in part because a good publisher is hard to come by these days: &#39;It&#39;s like they have formulas that they apply to games to try to figure out how much money they could make&#39;](https://www.pcgamer.com/games/rpg/ron-gilbert-canceled-his-zelda-inspired-rpg-in-part-because-a-good-publisher-is-hard-to-come-by-these-days-its-like-they-have-formulas-that-they-apply-to-games-to-try-to-figure-out-how-much-money-they-could-make/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
