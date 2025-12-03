@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Half of US states now require users to upload IDs or biometric data to access pornographic content, as Missouri became the 25th state to enact such a law &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/251203/p9#a251203p9)
- - [Copper demand is being boosted by AI data centers, which require 27-33 tonnes per MW, over 2x that of conventional data centers, according to miner Grupo México &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/251203/p8#a251203p8)
- - [London-based Sokin, which develops tech for B2B cross-border payments, raised a $50M Series B led by Prysm Capital at a $300M valuation &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/251203/p7#a251203p7)<!-- TECH:END -->
+ - [Google seems to have nuked another useful Google Home feature](https://www.androidauthority.com/google-call-home-quietly-gone-3621613/)
+ - [This Wear OS app makes it easy to transfer files and sideload watch faces](https://www.androidauthority.com/wear-apk-install-app-3621609/)
+ - [Google is replacing Discover news headlines with laughably awful AI-generated titles](https://www.androidauthority.com/google-discover-ai-headlines-3621603/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
