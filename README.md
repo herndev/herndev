@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to see all the books you read in 2025 with Apple Books](https://appleinsider.com/inside/apple-services/tips/how-to-see-all-the-books-you-read-in-2025-with-apple-books?utm_source=rss)
- - [It’s both good news and bad news for Samsung Galaxy Buds 4 and Buds 4 Pro battery life](https://www.androidauthority.com/galaxy-buds-4-battery-3621754/)
- - [MLS puts Apple&#39;s iPhone 17 Pro to work as a broadcast camera](https://appleinsider.com/articles/25/12/03/mls-puts-apples-iphone-17-pro-to-work-as-a-broadcast-camera?utm_source=rss)<!-- TECH:END -->
+ - [Android’s in-call scam protection goes live in the US to stop screen-sharing fraud](https://www.androidauthority.com/android-in-call-scam-protection-us-expansion-3621618/)
+ - [An unsettling indie game about horses keeps getting banned from stores](https://www.theverge.com/news/837278/horses-banned-steam-epic-games-store)
+ - [Five different AI browsers have the same problem](https://www.theverge.com/tech/837287/five-different-ai-browsers-have-the-same-problem)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
