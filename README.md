@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A plan so brilliant... My genius frightens me sometimes](http://9gag.com/gag/an702pB)
- - ⏩ [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)
- - 👉 [World first lighter](http://9gag.com/gag/aQzDvVz)<!-- MEMES:END -->
+ - 💣 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
+ - ⏩ [It&#39;s sad but many jobs don&#39;t allow people to sit. Especially people working in restaurants and other customer services jobs.](http://9gag.com/gag/a7om0Wr)
+ - 👉 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)<!-- MEMES:END -->
 
 ---
 
