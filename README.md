@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic&#39;s Stranger Things Secret Lair set the gold standard for crossovers](https://www.polygon.com/magic-the-gathering-mtg-stranger-things-secret-lair-universes-beyond/)
- - [Nightdive Explains How the Game’s Original Source Code Transformed Blood: Refreshed Supply](https://news.xbox.com/en-us/2025/12/03/blood-refreshed-supply-source-code/)
- - [Ready or Not 2: Here I Come&#39;s trailer shows the murderous games will continue in 2026](https://www.polygon.com/ready-or-not-2-here-i-come-trailer-2026/)<!-- GAME:END -->
+ - [The Mighty Nein&#39;s Caleb has Critical Role&#39;s darkest backstory](https://www.polygon.com/the-mighty-nein-episode-5-caleb-story-dark/)
+ - [Clair Obscur: Expedition 33 interview - &#39;We went really over the top&#39;](https://www.polygon.com/clair-obscur-expedition-33-interview-sandfall-interactive/)
+ - [Glorious GMBK 75% review](https://www.pcgamer.com/hardware/gaming-keyboards/glorious-gmbk-75-percent-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
