@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
- - ⏩ [DUI](http://9gag.com/gag/aAyLK50)
+ - 💣 [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - ⏩ [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
  - 👉 [A fitting end](http://9gag.com/gag/abAL4PB)<!-- MEMES:END -->
 
 ---
