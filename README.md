@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Forensics: 354 AI-focused TikTok accounts pushed 43K posts made with GenAI tools that hit 4.5B views, including posts with anti-immigrant and sexual material &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/251203/p14#a251203p14)
- - [I had ‘smartphone pinky,’ but these 7 tricks helped me stop the pain](https://www.androidauthority.com/smartphone-pinky-stop-pain-tips-fixes-3621277/)
- - [Vinci, which uses AI simulations to accelerate chip and other hardware design, raised a $36M Series A led by Xora Innovation, taking its total funding to $46M &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/251203/p13#a251203p13)<!-- TECH:END -->
+ - [Spotify unveils 2025&#39;s top 50 most popular US podcasts, led by The Joe Rogan Experience for the fifth consecutive year; 24 of the top 50 now offer video content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251203/p19#a251203p19)
+ - [Spotify releases Wrapped 2025, adding features like Wrapped Party, its first live interactive experience, a Top Song Quiz, Listening Age, and Wrapped Clubs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251203/p18#a251203p18)
+ - [Spotify Wrapped 2025 brings your friends in on the fun with Wrapped Party](https://www.androidauthority.com/spotify-wrapped-2025-3621496/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
