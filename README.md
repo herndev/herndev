@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of Waymo&#39;s data covering ~100M driverless miles across four US cities: Waymo cars have far lower crash rates per million miles than human drivers &lpar;Jonathan Slotkin/New York Times&rpar;](http://www.techmeme.com/251203/p5#a251203p5)
- - [Waymo&#39;s self-driving cars appear to be bending traffic laws and growing impatient with pedestrians as the company seeks to make them &quot;confidently assertive&quot; &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/251203/p4#a251203p4)
- - [30% VistaPrint Coupon &amp; Promo Codes | December 2025](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
+ - [Half of US states now require users to upload IDs or biometric data to access pornographic content, as Missouri became the 25th state to enact such a law &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/251203/p9#a251203p9)
+ - [Copper demand is being boosted by AI data centers, which require 27-33 tonnes per MW, over 2x that of conventional data centers, according to miner Grupo México &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/251203/p8#a251203p8)
+ - [London-based Sokin, which develops tech for B2B cross-border payments, raised a $50M Series B led by Prysm Capital at a $300M valuation &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/251203/p7#a251203p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
