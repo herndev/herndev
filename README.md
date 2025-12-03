@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Surprise! Saudi Arabia Will Own 93 Percent Of EA When The Deal Is Done](https://kotaku.com/ea-saudi-arabia-ownership-trump-jared-kushner-2000649726)
- - [Here&#39;s the Elden Ring Nightreign: The Forsaken Hollows release time for your region](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-the-forsaken-hollows-release-date-times/)
- - [Like a Dragon creators won&#39;t buckle to mainstream western tastes: &#39;people start making strange things when they misunderstand what their business is supposed to be&#39;](https://www.pcgamer.com/games/action/like-a-dragon-creators-wont-buckle-to-mainstream-western-tastes-people-start-making-strange-things-when-they-misunderstand-what-their-business-is-supposed-to-be/)<!-- GAME:END -->
+ - [It turns out Saudi Arabia will own 93.4 percent of EA if the buyout goes through, which is effectively all of it](https://www.pcgamer.com/gaming-industry/it-turns-out-saudi-arabia-will-own-93-4-percent-of-ea-if-the-buyout-goes-through-which-is-effectively-all-of-it/)
+ - [This year&#39;s Digimon Story Time Stranger may have looked like a traditional JRPG, but its commitment to raising weird little guys gave it an anarchic, constantly surprising energy that Pokémon couldn&#39;t match](https://www.pcgamer.com/games/rpg/this-years-digimon-story-time-stranger-may-have-looked-like-a-traditional-jrpg-but-its-commitment-to-raising-weird-little-guys-gave-it-an-anarchic-constantly-surprising-energy-that-pokemon-couldnt-match/)
+ - [Surprise! Saudi Arabia Will Own 93 Percent Of EA When The Deal Is Done](https://kotaku.com/ea-saudi-arabia-ownership-trump-jared-kushner-2000649726)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
