@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
- - ⏩ [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)
- - 👉 [Way better than twilight](http://9gag.com/gag/aAyLExd)<!-- MEMES:END -->
+ - 💣 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
+ - ⏩ [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
 
 ---
 
