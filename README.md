@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Eberron: Forge of the Artificer makes D&amp;D&#39;s coolest class even better](https://www.polygon.com/dungeons-dragons-eberron-forge-of-the-artificer-review/)
- - [Russia bans Roblox over extremist content and &#39;LGBT propaganda&#39;](https://www.pcgamer.com/games/russia-bans-roblox-over-extremist-content-and-lgbt-propaganda/)
- - [Ron Gilbert canceled his Zelda-inspired RPG, in part because a good publisher is hard to come by these days: &#39;It&#39;s like they have formulas that they apply to games to try to figure out how much money they could make&#39;](https://www.pcgamer.com/games/rpg/ron-gilbert-canceled-his-zelda-inspired-rpg-in-part-because-a-good-publisher-is-hard-to-come-by-these-days-its-like-they-have-formulas-that-they-apply-to-games-to-try-to-figure-out-how-much-money-they-could-make/)<!-- GAME:END -->
+ - [GTA 4 Is 17 Years Old But Looks Practically Next-Gen Thanks To A New Mod](https://kotaku.com/gta-4-grand-theft-auto-iv-rtx-remix-mod-download-comparison-pc-2000650202)
+ - [GameStop gives someone a historic $30,000 trade-in payout for an ultra-rare Pokémon card, then takes aim at the &#39;trolls&#39; for some reason](https://www.pcgamer.com/games/card-games/gamestop-gives-someone-a-historic-usd30-000-trade-in-payout-for-an-ultra-rare-pokemon-card-then-takes-aim-at-the-trolls-for-some-reason/)
+ - [Finance Bro Thinks It Would Be Cool To Turn Your Entire Life Into The Stock Market](https://kotaku.com/finance-bro-thinks-it-would-be-cool-to-turn-your-entire-life-into-the-stock-market-2000650201)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
