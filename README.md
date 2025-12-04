@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
- - ⏩ [DUI](http://9gag.com/gag/aAyLK50)
+ - ⏩ [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
  - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
 
 ---
