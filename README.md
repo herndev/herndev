@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
- - ⏩ [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - 👉 [They found activity? That&#39;s more shocking](http://9gag.com/gag/a9y42bW)<!-- MEMES:END -->
+ - ⏩ [DUI](http://9gag.com/gag/aAyLK50)
+ - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
 
 ---
 
