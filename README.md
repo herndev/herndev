@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pixel 10 Drops to Record Low Only 3 Months After Launch, Now Cheaper Than Mid-Range Android Phones](https://kotaku.com/pixel-10-drops-to-record-low-only-3-months-after-launch-now-cheaper-than-mid-range-android-phones-2000650110)
  - [A weird, never-released NES horror JRPG no one knew about 2 years ago is now translated and fully playable](https://www.pcgamer.com/games/horror/a-weird-never-released-nes-horror-jrpg-no-one-knew-about-2-years-ago-is-now-translated-and-fully-playable/)
- - [Our newest quiz should be a cakewalk: All you gotta do is name the game each cake is from!](https://www.pcgamer.com/games/our-newest-quiz-should-be-a-cakewalk-all-you-gotta-do-is-name-the-game-each-cake-is-from/)
- - [Bose Headphones Stuck at Cyber Monday Price, Amazon Never Raised It to Clear Stock Out](https://kotaku.com/bose-headphones-stuck-at-cyber-monday-price-amazon-never-raised-it-to-clear-stock-out-2000650104)<!-- GAME:END -->
+ - [Our newest quiz should be a cakewalk: All you gotta do is name the game each cake is from!](https://www.pcgamer.com/games/our-newest-quiz-should-be-a-cakewalk-all-you-gotta-do-is-name-the-game-each-cake-is-from/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
