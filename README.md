@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A fitting end](http://9gag.com/gag/abAL4PB)
- - ⏩ [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
- - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
+ - 💣 [I am surprise his pc still boots with a ddr3 ram.. 8k monitor does not mean high end pc..](http://9gag.com/gag/amoOmyd)
+ - ⏩ [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)
+ - 👉 [A fitting end](http://9gag.com/gag/abAL4PB)<!-- MEMES:END -->
 
 ---
 
