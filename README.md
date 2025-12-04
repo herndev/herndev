@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It Took 19 Years But We’re Finally Getting Total War: Medieval 3](https://kotaku.com/it-took-19-years-but-were-finally-getting-total-war-medieval-3-2000650612)
- - [Magic&#39;s Final Fantasy 1 Scene Box goes all in on D&amp;D-inspired Party mechanics](https://www.polygon.com/magic-final-fantasy-1-scene-box-legendary-commander/)
- - [All amiibo unlocks and rewards in Metroid Prime 4: Beyond](https://www.polygon.com/metroid-prime-4-amiibo-unlocks-rewards/)<!-- GAME:END -->
+ - [High on Life 2&#39;s skateboard went from &#39;dumb idea&#39; to being so good the team &#39;designed everything else around it&#39;](https://www.pcgamer.com/gaming-industry/events-conferences/high-on-life-2s-skateboard-went-from-dumb-idea-to-being-so-good-the-team-designed-everything-else-around-it/)
+ - [Witness gargantuan mech fights in this desert survival game that&#39;s giving The Electric State meets Death Stranding](https://www.pcgamer.com/gaming-industry/events-conferences/witness-gargantuan-mech-fights-in-this-desert-survival-game-thats-giving-the-electric-state-meets-death-stranding/)
+ - [Elven colony sim DarkSwitch just got an official release date, so buckle up for cable cars and airships as you erect your treeside utopia](https://www.pcgamer.com/gaming-industry/events-conferences/elven-colony-sim-darkswitch-just-got-an-official-release-date-so-buckle-up-for-cable-cars-and-airships-as-you-erect-your-treeside-utopia/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
