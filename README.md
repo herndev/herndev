@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some people are feeding their private medical information into chatbots like ChatGPT and Gemini, only to receive generalized or inaccurate diagnoses in response &lpar;Maggie Astor/New York Times&rpar;](http://www.techmeme.com/251204/p7#a251204p7)
- - [One of Circle to Search’s key features is getting continuous scrolling on Pixels](https://www.androidauthority.com/circle-to-search-continous-translation-3621994/)
- - [Google’s 2025 search recap is here, and the top results might surprise you](https://www.androidauthority.com/google-year-in-search-2025-3621989/)<!-- TECH:END -->
+ - [Google DeepMind&#39;s mechanistic interpretability team details why it shifted from fully reverse-engineering neural nets to a focus on &quot;pragmatic interpretability&quot; &lpar;AI Alignment Forum&rpar;](http://www.techmeme.com/251204/p10#a251204p10)
+ - [BNP Paribas says it is joining nine other European banks including ING, UniCredit, and CaixaBank developing a euro-pegged stablecoin in a JV called Qivalis &lpar;CoinDesk&rpar;](http://www.techmeme.com/251204/p9#a251204p9)
+ - [Sources: SoftBank agrees to sell a large portion of its stake in InMobi back to the Indian mobile ad company for ~$250M, reducing its holding to &lt;10% from 30%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/251204/p8#a251204p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
