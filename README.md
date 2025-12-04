@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [HP Laptop With Solid Daily Specs at 81% Off, Amazon Skipped Black Friday and Goes Record Low Now](https://kotaku.com/hp-laptop-with-solid-daily-specs-at-81-off-amazon-skipped-black-friday-and-goes-record-low-now-2000650092)
- - [GTA 4 Is 17 Years Old But Looks Practically Next-Gen Thanks To A New Mod](https://kotaku.com/gta-4-grand-theft-auto-iv-rtx-remix-mod-download-comparison-pc-2000650202)
- - [GameStop gives someone a historic $30,000 trade-in payout for an ultra-rare Pokémon card, then takes aim at the &#39;trolls&#39; for some reason](https://www.pcgamer.com/games/card-games/gamestop-gives-someone-a-historic-usd30-000-trade-in-payout-for-an-ultra-rare-pokemon-card-then-takes-aim-at-the-trolls-for-some-reason/)<!-- GAME:END -->
+ - [iRobot Roomba at 50% Off, Now Cheaper Than Basic Stick Vacuums but Only on Amazon](https://kotaku.com/irobot-roomba-at-50-off-now-cheaper-than-basic-stick-vacuums-but-only-on-amazon-2000650099)
+ - [How to unlock Undertaker in Elden Ring Nightreign](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-unlock-undertaker/)
+ - [How to unlock Scholar in Elden Ring Nightreign](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-unlock-scholar/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
