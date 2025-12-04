@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to beat Carvex in Metroid Prime 4](https://www.polygon.com/metroid-prime-4-carvex-boss-how-to-beat/)
- - [How to get Psychic Boots and walk on psychic platforms in Metroid Prime 4](https://www.polygon.com/metroid-prime-4-psychic-platforms-space-boots-how-to-get/)
- - [Pixel 10 Drops to Record Low Only 3 Months After Launch, Now Cheaper Than Mid-Range Android Phones](https://kotaku.com/pixel-10-drops-to-record-low-only-3-months-after-launch-now-cheaper-than-mid-range-android-phones-2000650110)<!-- GAME:END -->
+ - [8 Metroid Prime 4: Beyond beginner&#39;s tips to give you an ESP-ecially good start](https://www.polygon.com/metroid-prime-4-beyond-beginner-tips-tricks/)
+ - [Where to find town upgrades in Octopath Traveler 0](https://www.polygon.com/octopath-traveler-0-town-upgrades-recipes-blueprint-where-to-find/)
+ - [All original Octopath Traveler companion locations in Octopath Traveler 0](https://www.polygon.com/octopath-traveler-0-original-game-companions-locations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
