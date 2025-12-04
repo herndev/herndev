@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s new color Kindle Scribe launches on December 10th](https://www.theverge.com/news/838282/amazon-kindle-scribe-colorsoft-release-date)
- - [ByteDance and DeepSeek Are Placing Very Different AI Bets](https://www.wired.com/story/deepseek-goes-high-while-bytedance-goes-wide/)
- - [Apple announces its 2025 App Store Award winners and names visual planner Tiimo as the iPhone App of the Year; many of the winning apps have AI integrations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251204/p33#a251204p33)<!-- TECH:END -->
+ - [Your Pixel 9 can now add music to Google Recorder sessions](https://www.androidauthority.com/pixel-9-recorder-3622246/)
+ - [Russia&#39;s Roskomnadzor says it has blocked FaceTime in Russia, claiming the service is being used to organise and &quot;carry out terrorist attacks in the country&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251204/p37#a251204p37)
+ - [Sources: Polymarket has recruited staff for a market making team that could face off against its customers; Kalshi&#39;s similar unit exposed Kalshi to criticism &lpar;Bloomberg&rpar;](http://www.techmeme.com/251204/p36#a251204p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
