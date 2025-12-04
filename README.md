@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Workspace Studio, a no-code tool to create, design, manage, and share AI agents, for users on Business and Enterprise Workspace plans &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251203/p39#a251203p39)
- - [Mark Zuckerberg announces a new creative studio in Meta&#39;s Reality Labs led by Alan Dye, who will be joined by Apple design lead Billy Sorrentino &lpar;Mark Zuckerberg/@zuck@threads.com&rpar;](http://www.techmeme.com/251203/p38#a251203p38)
- - [BMW iX3 first drive: a ‘New Class’ is in session](https://www.theverge.com/transportation/837394/bmw-ix3-first-drive-neue-klasse-specs-price)<!-- TECH:END -->
+ - [Snowflake and Anthropic announce a multi-year $200M deal to make Anthropic&#39;s Claude models available on Snowflake and deploy AI agents across enterprises &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/251203/p44#a251203p44)
+ - [Antigravity’s 360-degree drone is here to help you forget DJI](https://www.theverge.com/news/837922/antigravity-360-us-release-price-best-buy)
+ - [The US DOJ has indicted two Virginia brothers, Muneeb and Sohaib Akhter, for allegedly deleting 96 US government databases while working as Opexus contractors &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/251203/p43#a251203p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
