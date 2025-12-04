@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind&#39;s mechanistic interpretability team details why it shifted from fully reverse-engineering neural nets to a focus on &quot;pragmatic interpretability&quot; &lpar;AI Alignment Forum&rpar;](http://www.techmeme.com/251204/p10#a251204p10)
- - [BNP Paribas says it is joining nine other European banks including ING, UniCredit, and CaixaBank developing a euro-pegged stablecoin in a JV called Qivalis &lpar;CoinDesk&rpar;](http://www.techmeme.com/251204/p9#a251204p9)
- - [Sources: SoftBank agrees to sell a large portion of its stake in InMobi back to the Indian mobile ad company for ~$250M, reducing its holding to &lt;10% from 30%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/251204/p8#a251204p8)<!-- TECH:END -->
+ - [You’re probably not using these 7 Google Pixel camera settings, and that’s a mistake](https://www.androidauthority.com/hidden-google-pixel-camera-settings-3620687/)
+ - [Jimmy Wales says Wikimedia is working with Big Tech on AI deals similar to Google and reader donations are &quot;not to subsidize OpenAI costing us a ton of money&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251204/p13#a251204p13)
+ - [Google Fi’s big RCS upgrade lands at last, with a small catch](https://www.androidauthority.com/google-fi-web-rcs-support-3621999/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
