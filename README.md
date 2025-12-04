@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic’s quest to study the negative effects of AI is under pressure](https://www.theverge.com/podcast/838023/anthropic-societal-impact-trump-woke-ai-interview)
- - [A profile of AI hearing aid startup Fortell, which has raised $150M so far and is targeting affluent clients in NYC with a $6,800 device that uses a custom chip &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/251204/p29#a251204p29)
- - [Russia bans Roblox over &amp;#8216;LGBT propaganda&amp;#8217; and &amp;#8216;extremist&amp;#8217; content](https://www.theverge.com/news/838101/russia-roblox-ban-extremist-content-lgbt-propaganda)<!-- TECH:END -->
+ - [AI chatbots can be wooed into crimes with poetry](https://www.theverge.com/report/838167/ai-chatbots-can-be-wooed-into-crimes-with-poetry)
+ - [OnePlus 15 launches US preorders after delayed FCC clearance](https://www.theverge.com/news/838017/oneplus-15-preorders-us)
+ - [Espionage thriller &#39;Tehran&#39; sneaks back onto Apple TV in January](https://appleinsider.com/articles/25/12/04/espionage-thriller-tehran-sneaks-back-onto-apple-tv-in-january?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
