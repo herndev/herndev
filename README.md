@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well well well ...](http://9gag.com/gag/a0eDn3B)
- - ⏩ [Best examples?](http://9gag.com/gag/axyePZb)
- - 👉 [It&#39;s SIR!!!](http://9gag.com/gag/a9y48PL)<!-- MEMES:END -->
+ - 💣 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - ⏩ [The hardest english word to pronounce](http://9gag.com/gag/ajP3xMp)
+ - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
 
 ---
 
