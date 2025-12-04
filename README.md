@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [8 Metroid Prime 4: Beyond beginner&#39;s tips to give you an ESP-ecially good start](https://www.polygon.com/metroid-prime-4-beyond-beginner-tips-tricks/)
- - [Where to find town upgrades in Octopath Traveler 0](https://www.polygon.com/octopath-traveler-0-town-upgrades-recipes-blueprint-where-to-find/)
- - [All original Octopath Traveler companion locations in Octopath Traveler 0](https://www.polygon.com/octopath-traveler-0-original-game-companions-locations/)<!-- GAME:END -->
+ - [Kingdom is finally available to read digitally on the Shonen Jump app](https://www.polygon.com/kingdom-manga-read-online-shonen-jump-app/)
+ - [PC Gamer magazine&#39;s new issue is on sale now: Dinolords](https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-dinolords/)
+ - [8 Metroid Prime 4: Beyond beginner&#39;s tips to give you an ESP-ecially good start](https://www.polygon.com/metroid-prime-4-beyond-beginner-tips-tricks/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
