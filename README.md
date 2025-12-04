@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chip giants&#39; efforts to turn Phoenix into a US hub may hinge on training local workers; an estimated 115K local chip jobs are set to be created in four years &lpar;Peter S. Goodman/New York Times&rpar;](http://www.techmeme.com/251204/p17#a251204p17)
- - [Documents: Foxconn&#39;s subsidiaries and China&#39;s Luxshare plan expansions in Vietnam to boost gaming device production, reinforcing Vietnam&#39;s supply chain role &lpar;Reuters&rpar;](http://www.techmeme.com/251204/p16#a251204p16)
- - [The vivo X300 Pro is a camera phone champ with a key weakness](https://www.androidauthority.com/vivo-x300-pro-review-3609620/)<!-- TECH:END -->
+ - [The EU says it is gathering information and feedback from ~200 stakeholders on Google&#39;s offer to fix alleged antitrust violations linked to its ad tech business &lpar;Bloomberg&rpar;](http://www.techmeme.com/251204/p22#a251204p22)
+ - [A Startup Says It Has Found a Hidden Source of Geothermal Energy](https://www.wired.com/story/startup-found-hidden-source-geothermal-energy/)
+ - [University of Virginia professor Ken Ono, one of the world&#39;s most prominent mathematicians, joins AI startup Axiom Math, which is building an &quot;AI mathematician&quot; &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/251204/p21#a251204p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
