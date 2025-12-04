@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom is finally available to read digitally on the Shonen Jump app](https://www.polygon.com/kingdom-manga-read-online-shonen-jump-app/)
- - [PC Gamer magazine&#39;s new issue is on sale now: Dinolords](https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-dinolords/)
- - [8 Metroid Prime 4: Beyond beginner&#39;s tips to give you an ESP-ecially good start](https://www.polygon.com/metroid-prime-4-beyond-beginner-tips-tricks/)<!-- GAME:END -->
+ - [One Piece 1167 rewrites Shanks&#39; character in an intriguing way](https://www.polygon.com/one-piece-chapter-1167-shanks-origins-shamrock-figarland/)
+ - [How to complete The Great Hollow event in Elden Ring Nightreign and break the crystal curse](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-great-hollow-crystal-curse/)
+ - [Vivienne Medrano explains the two planets in Hazbin Hotel](https://www.polygon.com/video/vivziepop-hazbin-hotel-planets-explained/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
