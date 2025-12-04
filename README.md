@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to break Viewros Amber in Metroid Prime 4: Beyond](https://www.polygon.com/metroid-prime-4-viewros-amber-how-to-break/)
- - [How KPop Demon Hunters&#39; lead singer knew &#39;Golden&#39; would be a hit](https://www.polygon.com/kpop-demon-hunters-golden-history/)
- - [Metroid Prime 4’s mysterious villain Sylux, explained](https://www.polygon.com/metroid-prime-4-beyond-sylux-explained/)<!-- GAME:END -->
+ - [Sims 4 SpongeBob Kits review: Movie tie-in slop or under the sea fun?](https://www.polygon.com/sims-4-spongebob-kits-review/)
+ - [Xbox Partners With ESPN for First-Ever College Football Xbox Bowl on December 18](https://bit.ly/3Y2PICB#new_tab)
+ - [The Batman 2 could bring back a legendary villain with Scarlett Johansson](https://www.polygon.com/the-batman-part-2-scarlet-johansson-phantasm/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
