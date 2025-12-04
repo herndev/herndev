@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU says it is gathering information and feedback from ~200 stakeholders on Google&#39;s offer to fix alleged antitrust violations linked to its ad tech business &lpar;Bloomberg&rpar;](http://www.techmeme.com/251204/p22#a251204p22)
- - [A Startup Says It Has Found a Hidden Source of Geothermal Energy](https://www.wired.com/story/startup-found-hidden-source-geothermal-energy/)
- - [University of Virginia professor Ken Ono, one of the world&#39;s most prominent mathematicians, joins AI startup Axiom Math, which is building an &quot;AI mathematician&quot; &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/251204/p21#a251204p21)<!-- TECH:END -->
+ - [New Android malware sneak-wipes your bank account: Here’s how to avoid getting robbed](https://www.androidauthority.com/android-banking-malware-albiriox-3622063/)
+ - [Taiwan&#39;s interior ministry announces a one-year ban on access to Chinese social media app Xiaohongshu, aka RedNote, citing 1,700+ fraud cases since 2024 &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/251204/p26#a251204p26)
+ - [The EU expects to launch a formal bidding process for its AI gigafactories in early 2026 and close it in summer 2026, as the bloc seeks to catch up with the US &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/251204/p25#a251204p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
