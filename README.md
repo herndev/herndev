@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s true](http://9gag.com/gag/aBybPnZ)
- - ⏩ [He put his paw on the button and won&#39;t let go](http://9gag.com/gag/a87veX6)
- - 👉 [Just wanted to share some positive message. Now excuse me, I am going to suck some like a good OP would.](http://9gag.com/gag/avyBEPn)<!-- MEMES:END -->
+ - 💣 [A fitting end](http://9gag.com/gag/abAL4PB)
+ - ⏩ [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 👉 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)<!-- MEMES:END -->
 
 ---
 
