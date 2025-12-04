@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Databricks co-founder Andy Konwinski, who pivoted from Jehovah&#39;s Witness to helping solve &quot;species-level&quot; problems by funding AI research &lpar;Biz Carson/Bloomberg&rpar;](http://www.techmeme.com/251203/p49#a251203p49)
  - [Samsung’s mysterious ‘First Look’ event in January teases major reveals](https://www.androidauthority.com/samsung-first-look-event-ces-2026-3621969/)
- - [The Trump administration orders enhanced vetting of H-1B applicants and their families for past work in &quot;censorship&quot;, including fact-checking and online safety &lpar;Humeyra Pamuk/Reuters&rpar;](http://www.techmeme.com/251203/p48#a251203p48)
- - [Seattle-based Gradial, which makes AI tools that automate enterprise marketing workflows, raised a $35M Series B led by VMG Partners at a $350M valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/251203/p47#a251203p47)<!-- TECH:END -->
+ - [The Trump administration orders enhanced vetting of H-1B applicants and their families for past work in &quot;censorship&quot;, including fact-checking and online safety &lpar;Humeyra Pamuk/Reuters&rpar;](http://www.techmeme.com/251203/p48#a251203p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
