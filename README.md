@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
- - ⏩ [DUI](http://9gag.com/gag/aAyLK50)
- - 👉 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)<!-- MEMES:END -->
+ - 💣 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
+ - ⏩ [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
+ - 👉 [They found activity? That&#39;s more shocking](http://9gag.com/gag/a9y42bW)<!-- MEMES:END -->
 
 ---
 
