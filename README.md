@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Pixel 9 can now add music to Google Recorder sessions](https://www.androidauthority.com/pixel-9-recorder-3622246/)
- - [Russia&#39;s Roskomnadzor says it has blocked FaceTime in Russia, claiming the service is being used to organise and &quot;carry out terrorist attacks in the country&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251204/p37#a251204p37)
- - [Sources: Polymarket has recruited staff for a market making team that could face off against its customers; Kalshi&#39;s similar unit exposed Kalshi to criticism &lpar;Bloomberg&rpar;](http://www.techmeme.com/251204/p36#a251204p36)<!-- TECH:END -->
+ - [Microsoft is quietly walking back its diversity efforts](https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad)
+ - [AMD CEO Lisa Su Says Concerns About an AI Bubble Are Overblown](https://www.wired.com/story/big-interview-event-lisa-su-amd/)
+ - [Microsoft will increase prices for commercial Office subscriptions on July 1, 2026, including a 33% jump for front-line worker plans like Microsoft 365 F1 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251204/p39#a251204p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
