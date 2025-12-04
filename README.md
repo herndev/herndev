@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just wanted to share some positive message. Now excuse me, I am going to suck some like a good OP would.](http://9gag.com/gag/avyBEPn)
- - ⏩ [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)
- - 👉 [Great success](http://9gag.com/gag/aMV0zgM)<!-- MEMES:END -->
+ - 💣 [Well well well ...](http://9gag.com/gag/a0eDn3B)
+ - ⏩ [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - 👉 [Well said, lady](http://9gag.com/gag/apRnPeB)<!-- MEMES:END -->
 
 ---
 
