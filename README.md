@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta does not plan to abandon building the metaverse, and expects to shift the savings from the layoffs into investments in its AR glasses &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/251204/p43#a251204p43)
- - [Google rolls out Gemini 3 Deep Think to Google AI Ultra subscribers in the Gemini app, after saying in November it needed &quot;extra time for safety evaluations&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251204/p42#a251204p42)
- - [Best LED Masks of 2025, FDA Cleared for Red Light Therapy](https://www.cnet.com/health/best-led-face-masks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple executive shuffle continues with Lisa Jackson and Kate Adams retiring](https://appleinsider.com/articles/25/12/04/apple-executive-shuffle-continues-with-lisa-jackson-and-kate-adams-retiring?utm_source=rss)
+ - [Pentagon’s Signalgate report finds Pete Hegseth violated military policies](https://www.theverge.com/news/838582/signalgate-pentagon-oig-report-pete-hegseth)
+ - [Anthropic’s Daniela Amodei Believes the Market Will Reward Safe AI](https://www.wired.com/story/big-interview-event-daniela-amodei-anthropic/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
