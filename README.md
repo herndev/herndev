@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reverse uno card](http://9gag.com/gag/axyeOpb)
- - ⏩ [A fitting end](http://9gag.com/gag/abAL4PB)
- - 👉 [Well said, lady](http://9gag.com/gag/apRnPeB)<!-- MEMES:END -->
+ - 💣 [A fitting end](http://9gag.com/gag/abAL4PB)
+ - ⏩ [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 👉 [French f**ker](http://9gag.com/gag/apRnPjn)<!-- MEMES:END -->
 
 ---
 
