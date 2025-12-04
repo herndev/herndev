@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Android malware sneak-wipes your bank account: Here’s how to avoid getting robbed](https://www.androidauthority.com/android-banking-malware-albiriox-3622063/)
- - [Taiwan&#39;s interior ministry announces a one-year ban on access to Chinese social media app Xiaohongshu, aka RedNote, citing 1,700+ fraud cases since 2024 &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/251204/p26#a251204p26)
- - [The EU expects to launch a formal bidding process for its AI gigafactories in early 2026 and close it in summer 2026, as the bloc seeks to catch up with the US &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/251204/p25#a251204p25)<!-- TECH:END -->
+ - [Anthropic’s quest to study the negative effects of AI is under pressure](https://www.theverge.com/podcast/838023/anthropic-societal-impact-trump-woke-ai-interview)
+ - [A profile of AI hearing aid startup Fortell, which has raised $150M so far and is targeting affluent clients in NYC with a $6,800 device that uses a custom chip &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/251204/p29#a251204p29)
+ - [Russia bans Roblox over &amp;#8216;LGBT propaganda&amp;#8217; and &amp;#8216;extremist&amp;#8217; content](https://www.theverge.com/news/838101/russia-roblox-ban-extremist-content-lgbt-propaganda)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
