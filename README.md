@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout stars share the pros and cons of wearing power armor](https://www.polygon.com/fallout-cast-wearing-power-armor/)
- - [Amazon Dumps PlayStation Portal Handheld Stock, Still at Black Friday Record Low for PS5 Owners Only](https://kotaku.com/playstation-portal-remote-player-drops-past-black-friday-price-now-at-record-low-if-you-own-a-ps5-2000650490)
- - [Apple Watch SE 3 Gets Cleared Out at All-Time Low, Practically Renewed-Level Pricing for Its Latest Smartwatch](https://kotaku.com/apple-watch-se-3-gets-cleared-out-at-all-time-low-practically-renewed-level-pricing-for-its-latest-smartwatch-2000650254)<!-- GAME:END -->
+ - [Crafting a Relatable Sci-Fi Horror World in Routine, Out Today on Xbox](https://news.xbox.com/en-us/2025/12/04/routine-launch/)
+ - [Let It Die: Inferno Dev Gets Shockingly Transparent About Using Gen AI As Fans Fight Over Microtransactions And PVP](https://kotaku.com/let-it-die-inferno-ai-pvp-steam-review-2000650503)
+ - [Where to find rusted gears in Arc Raiders](https://www.polygon.com/arc-raiders-rusted-gears-location-where-to-find/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
