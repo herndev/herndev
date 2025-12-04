@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple executive shuffle continues with Lisa Jackson and Kate Adams retiring](https://appleinsider.com/articles/25/12/04/apple-executive-shuffle-continues-with-lisa-jackson-and-kate-adams-retiring?utm_source=rss)
- - [Pentagon’s Signalgate report finds Pete Hegseth violated military policies](https://www.theverge.com/news/838582/signalgate-pentagon-oig-report-pete-hegseth)
- - [Anthropic’s Daniela Amodei Believes the Market Will Reward Safe AI](https://www.wired.com/story/big-interview-event-daniela-amodei-anthropic/)<!-- TECH:END -->
+ - [TBPN signs a partnership with the NYSE, giving the video podcast the same on-floor access enjoyed by major financial networks such as CNBC &lpar;Sam Becker/Fast Company&rpar;](http://www.techmeme.com/251204/p47#a251204p47)
+ - [Proton’s latest addition takes aim at Google Sheets and Excel](https://www.androidauthority.com/proton-sheets-launched-3622419/)
+ - [Apple announces even more major executive turnover](https://www.theverge.com/news/838712/apple-policy-lead-lisa-jackson-retiring)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
