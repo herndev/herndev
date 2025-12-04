@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [iRobot Roomba at 50% Off, Now Cheaper Than Basic Stick Vacuums but Only on Amazon](https://kotaku.com/irobot-roomba-at-50-off-now-cheaper-than-basic-stick-vacuums-but-only-on-amazon-2000650099)
- - [How to unlock Undertaker in Elden Ring Nightreign](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-unlock-undertaker/)
- - [How to unlock Scholar in Elden Ring Nightreign](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-unlock-scholar/)<!-- GAME:END -->
+ - [A weird, never-released NES horror JRPG no one knew about 2 years ago is now translated and fully playable](https://www.pcgamer.com/games/horror/a-weird-never-released-nes-horror-jrpg-no-one-knew-about-2-years-ago-is-now-translated-and-fully-playable/)
+ - [Our newest quiz should be a cakewalk: All you gotta do is name the game each cake is from!](https://www.pcgamer.com/games/our-newest-quiz-should-be-a-cakewalk-all-you-gotta-do-is-name-the-game-each-cake-is-from/)
+ - [Bose Headphones Stuck at Cyber Monday Price, Amazon Never Raised It to Clear Stock Out](https://kotaku.com/bose-headphones-stuck-at-cyber-monday-price-amazon-never-raised-it-to-clear-stock-out-2000650104)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
