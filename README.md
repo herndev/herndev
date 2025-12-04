@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI chatbots can be wooed into crimes with poetry](https://www.theverge.com/report/838167/ai-chatbots-can-be-wooed-into-crimes-with-poetry)
- - [OnePlus 15 launches US preorders after delayed FCC clearance](https://www.theverge.com/news/838017/oneplus-15-preorders-us)
- - [Espionage thriller &#39;Tehran&#39; sneaks back onto Apple TV in January](https://appleinsider.com/articles/25/12/04/espionage-thriller-tehran-sneaks-back-onto-apple-tv-in-january?utm_source=rss)<!-- TECH:END -->
+ - [Amazon’s new color Kindle Scribe launches on December 10th](https://www.theverge.com/news/838282/amazon-kindle-scribe-colorsoft-release-date)
+ - [ByteDance and DeepSeek Are Placing Very Different AI Bets](https://www.wired.com/story/deepseek-goes-high-while-bytedance-goes-wide/)
+ - [Apple announces its 2025 App Store Award winners and names visual planner Tiimo as the iPhone App of the Year; many of the winning apps have AI integrations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251204/p33#a251204p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
