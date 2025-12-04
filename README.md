@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No need subtitle](http://9gag.com/gag/ajP3L9g)
- - ⏩ [A fitting end](http://9gag.com/gag/abAL4PB)
- - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
+ - 💣 [DUI](http://9gag.com/gag/aAyLK50)
+ - ⏩ [French f**ker](http://9gag.com/gag/apRnPjn)
+ - 👉 [My New Favorite Sport.](http://9gag.com/gag/an70EBE)<!-- MEMES:END -->
 
 ---
 
