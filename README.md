@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crafting a Relatable Sci-Fi Horror World in Routine, Out Today on Xbox](https://news.xbox.com/en-us/2025/12/04/routine-launch/)
- - [Let It Die: Inferno Dev Gets Shockingly Transparent About Using Gen AI As Fans Fight Over Microtransactions And PVP](https://kotaku.com/let-it-die-inferno-ai-pvp-steam-review-2000650503)
- - [Where to find rusted gears in Arc Raiders](https://www.polygon.com/arc-raiders-rusted-gears-location-where-to-find/)<!-- GAME:END -->
+ - [Free Play Days – Bassmaster Fishing, Destiny 2, Everspace 2, Descenders, Astria Ascending and Way of the Hunter](https://news.xbox.com/en-us/2025/12/04/free-play-days-12-04-2025/)
+ - [Banjo-Kazooie Fan Project Inside Sony’s Abandoned Game Maker Looks Surprisingly Great](https://kotaku.com/new-banjo-kazooie-sequel-remake-game-built-in-dreams-impressive-2000650541)
+ - [Pokémon Go shiny Keldeo &#39;Pony Tales&#39; Masterwork Research quest steps](https://www.polygon.com/pokemon-go-shiny-keldeo-pony-tales-masterwork-research-quest-steps/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
