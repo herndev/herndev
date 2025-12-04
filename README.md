@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sims 4 SpongeBob Kits review: Movie tie-in slop or under the sea fun?](https://www.polygon.com/sims-4-spongebob-kits-review/)
- - [Xbox Partners With ESPN for First-Ever College Football Xbox Bowl on December 18](https://bit.ly/3Y2PICB#new_tab)
- - [The Batman 2 could bring back a legendary villain with Scarlett Johansson](https://www.polygon.com/the-batman-part-2-scarlet-johansson-phantasm/)<!-- GAME:END -->
+ - [It Took 19 Years But We’re Finally Getting Total War: Medieval 3](https://kotaku.com/it-took-19-years-but-were-finally-getting-total-war-medieval-3-2000650612)
+ - [Magic&#39;s Final Fantasy 1 Scene Box goes all in on D&amp;D-inspired Party mechanics](https://www.polygon.com/magic-final-fantasy-1-scene-box-legendary-commander/)
+ - [All amiibo unlocks and rewards in Metroid Prime 4: Beyond](https://www.polygon.com/metroid-prime-4-amiibo-unlocks-rewards/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
