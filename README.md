@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - ⏩ [DUI](http://9gag.com/gag/aAyLK50)
- - 👉 [My New Favorite Sport.](http://9gag.com/gag/an70EBE)<!-- MEMES:END -->
+ - 💣 [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - ⏩ [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - 👉 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)<!-- MEMES:END -->
 
 ---
 
