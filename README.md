@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Russia Bans Roblox For The Worst Possible Reason](https://kotaku.com/russia-bans-roblox-lgbtq-roskomnadzor-2000650125)
- - [Samsung 2025 B-Series Soundbar Is Now Cheaper Than Budget Earbuds as It Still Holds Its Black Friday Low Price](https://kotaku.com/samsung-b-series-soundbar-2025-black-friday-low-cheaper-than-budget-earbuds-2000650185)
- - [PlayStation Store: November 2025’s top downloads](https://blog.playstation.com/2025/12/04/playstation-store-november-2025s-top-downloads/)<!-- GAME:END -->
+ - [Fallout stars share the pros and cons of wearing power armor](https://www.polygon.com/fallout-cast-wearing-power-armor/)
+ - [Amazon Dumps PlayStation Portal Handheld Stock, Still at Black Friday Record Low for PS5 Owners Only](https://kotaku.com/playstation-portal-remote-player-drops-past-black-friday-price-now-at-record-low-if-you-own-a-ps5-2000650490)
+ - [Apple Watch SE 3 Gets Cleared Out at All-Time Low, Practically Renewed-Level Pricing for Its Latest Smartwatch](https://kotaku.com/apple-watch-se-3-gets-cleared-out-at-all-time-low-practically-renewed-level-pricing-for-its-latest-smartwatch-2000650254)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
