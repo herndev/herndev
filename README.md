@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - 💣 [Well said, lady](http://9gag.com/gag/apRnPeB)
  - ⏩ [The hardest english word to pronounce](http://9gag.com/gag/ajP3xMp)
  - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
 
