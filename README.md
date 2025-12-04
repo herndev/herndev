@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Metroid Prime 4 doesn&amp;#8217;t stand up to Nintendo&amp;#8217;s best](https://www.theverge.com/games/838428/metroid-prime-4-analysis-open-world-nintendo)
- - [Pixel 10’s always-on display has been acting up since the December update](https://www.androidauthority.com/pixel-10-always-on-display-flicker-3622356/)
- - [FBI Says DC Pipe Bomb Suspect Brian Cole Kept Buying Bomb Parts After January 6](https://www.wired.com/story/fbi-says-dc-pipe-bomb-suspect-brian-cole-kept-buying-bomb-parts-after-jan-6/)<!-- TECH:END -->
+ - [Sources: Meta does not plan to abandon building the metaverse, and expects to shift the savings from the layoffs into investments in its AR glasses &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/251204/p43#a251204p43)
+ - [Google rolls out Gemini 3 Deep Think to Google AI Ultra subscribers in the Gemini app, after saying in November it needed &quot;extra time for safety evaluations&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251204/p42#a251204p42)
+ - [Best LED Masks of 2025, FDA Cleared for Red Light Therapy](https://www.cnet.com/health/best-led-face-masks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
