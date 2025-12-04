@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based CRM unicorn Brevo, formerly known as Sendinblue, raised €500M and says it surpassed €200M in ARR in 2025 &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251204/p2#a251204p2)
- - [Exclusive: This is your first look at the upcoming face editor in Google Photos](https://www.androidauthority.com/google-photos-touch-up-face-editor-first-look-3621974/)
- - [Sources: the European Commission plans a new antitrust probe into Meta over its rollout of AI features in WhatsApp; the probe will not fall under the DMA &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251204/p1#a251204p1)<!-- TECH:END -->
+ - [The OnePlus 15R’s doppelganger just launched with sub-flagship specs](https://www.androidauthority.com/oneplus-15r-ace-6t-launch-3621979/)
+ - [Horizon Quantum, which aims to list on Nasdaq via a SPAC in Q1 2026, claims it is the first private company to deploy a commercial quantum computer in Singapore &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/251204/p4#a251204p4)
+ - [Apple replacing Alan Dye with Stephen Lemay may fix Jony Ive&#39;s mistake by restoring the Jobsian &quot;design is how it works&quot; ethos in Apple&#39;s UI design &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/251204/p3#a251204p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
