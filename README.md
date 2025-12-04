@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Bassmaster Fishing, Destiny 2, Everspace 2, Descenders, Astria Ascending and Way of the Hunter](https://news.xbox.com/en-us/2025/12/04/free-play-days-12-04-2025/)
- - [Banjo-Kazooie Fan Project Inside Sony’s Abandoned Game Maker Looks Surprisingly Great](https://kotaku.com/new-banjo-kazooie-sequel-remake-game-built-in-dreams-impressive-2000650541)
- - [Pokémon Go shiny Keldeo &#39;Pony Tales&#39; Masterwork Research quest steps](https://www.polygon.com/pokemon-go-shiny-keldeo-pony-tales-masterwork-research-quest-steps/)<!-- GAME:END -->
+ - [How to break Viewros Amber in Metroid Prime 4: Beyond](https://www.polygon.com/metroid-prime-4-viewros-amber-how-to-break/)
+ - [How KPop Demon Hunters&#39; lead singer knew &#39;Golden&#39; would be a hit](https://www.polygon.com/kpop-demon-hunters-golden-history/)
+ - [Metroid Prime 4’s mysterious villain Sylux, explained](https://www.polygon.com/metroid-prime-4-beyond-sylux-explained/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
