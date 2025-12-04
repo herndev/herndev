@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
- - ⏩ [A fitting end](http://9gag.com/gag/abAL4PB)
- - 👉 [My New Favorite Sport.](http://9gag.com/gag/an70EBE)<!-- MEMES:END -->
+ - 💣 [A fitting end](http://9gag.com/gag/abAL4PB)
+ - ⏩ [Helldivers 2 optimized from 154GB down to just 23GB.](http://9gag.com/gag/a9y48RW)
+ - 👉 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)<!-- MEMES:END -->
 
 ---
 
