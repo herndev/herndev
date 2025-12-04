@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Databricks co-founder Andy Konwinski, who pivoted from Jehovah&#39;s Witness to helping solve &quot;species-level&quot; problems by funding AI research &lpar;Biz Carson/Bloomberg&rpar;](http://www.techmeme.com/251203/p49#a251203p49)
- - [Samsung’s mysterious ‘First Look’ event in January teases major reveals](https://www.androidauthority.com/samsung-first-look-event-ces-2026-3621969/)
- - [The Trump administration orders enhanced vetting of H-1B applicants and their families for past work in &quot;censorship&quot;, including fact-checking and online safety &lpar;Humeyra Pamuk/Reuters&rpar;](http://www.techmeme.com/251203/p48#a251203p48)<!-- TECH:END -->
+ - [OpenAI is testing training LLMs to produce &quot;confessions&quot;, or self-report how they carried out a task and own up to bad behavior, like appearing to lie or cheat &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/251203/p51#a251203p51)
+ - [Nvidia says its GB200 Blackwell AI servers boost performance 10x compared to H200 servers for MoE models like Moonshot&#39;s Kimi K2 Thinking and DeepSeek&#39;s R1 &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251203/p50#a251203p50)
+ - [A profile of Databricks co-founder Andy Konwinski, who pivoted from Jehovah&#39;s Witness to helping solve &quot;species-level&quot; problems by funding AI research &lpar;Biz Carson/Bloomberg&rpar;](http://www.techmeme.com/251203/p49#a251203p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
