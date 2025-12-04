@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is quietly walking back its diversity efforts](https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad)
- - [AMD CEO Lisa Su Says Concerns About an AI Bubble Are Overblown](https://www.wired.com/story/big-interview-event-lisa-su-amd/)
- - [Microsoft will increase prices for commercial Office subscriptions on July 1, 2026, including a 33% jump for front-line worker plans like Microsoft 365 F1 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251204/p39#a251204p39)<!-- TECH:END -->
+ - [Metroid Prime 4 doesn&amp;#8217;t stand up to Nintendo&amp;#8217;s best](https://www.theverge.com/games/838428/metroid-prime-4-analysis-open-world-nintendo)
+ - [Pixel 10’s always-on display has been acting up since the December update](https://www.androidauthority.com/pixel-10-always-on-display-flicker-3622356/)
+ - [FBI Says DC Pipe Bomb Suspect Brian Cole Kept Buying Bomb Parts After January 6](https://www.wired.com/story/fbi-says-dc-pipe-bomb-suspect-brian-cole-kept-buying-bomb-parts-after-jan-6/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
