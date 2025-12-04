@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well it is what it is](http://9gag.com/gag/aBybEjz)
- - ⏩ [The woman who drove a snowplow through a pro-Palestinian demonstration blocking a street in Toronto was found not guilty and received only a one-day suspension from her job.](http://9gag.com/gag/aBybPPx)
- - 👉 [It&#39;s true](http://9gag.com/gag/aBybPnZ)<!-- MEMES:END -->
+ - 💣 [No need subtitle](http://9gag.com/gag/ajP3L9g)
+ - ⏩ [A fitting end](http://9gag.com/gag/abAL4PB)
+ - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
 
 ---
 
