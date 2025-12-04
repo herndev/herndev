@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pixel 10 Drops to Record Low Only 3 Months After Launch, Now Cheaper Than Mid-Range Android Phones](https://kotaku.com/pixel-10-drops-to-record-low-only-3-months-after-launch-now-cheaper-than-mid-range-android-phones-2000650110)
- - [A weird, never-released NES horror JRPG no one knew about 2 years ago is now translated and fully playable](https://www.pcgamer.com/games/horror/a-weird-never-released-nes-horror-jrpg-no-one-knew-about-2-years-ago-is-now-translated-and-fully-playable/)
- - [Our newest quiz should be a cakewalk: All you gotta do is name the game each cake is from!](https://www.pcgamer.com/games/our-newest-quiz-should-be-a-cakewalk-all-you-gotta-do-is-name-the-game-each-cake-is-from/)<!-- GAME:END -->
+ - [How to beat Carvex in Metroid Prime 4](https://www.polygon.com/metroid-prime-4-carvex-boss-how-to-beat/)
+ - [How to get Psychic Boots and walk on psychic platforms in Metroid Prime 4](https://www.polygon.com/metroid-prime-4-psychic-platforms-space-boots-how-to-get/)
+ - [Pixel 10 Drops to Record Low Only 3 Months After Launch, Now Cheaper Than Mid-Range Android Phones](https://kotaku.com/pixel-10-drops-to-record-low-only-3-months-after-launch-now-cheaper-than-mid-range-android-phones-2000650110)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
