@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’re probably not using these 7 Google Pixel camera settings, and that’s a mistake](https://www.androidauthority.com/hidden-google-pixel-camera-settings-3620687/)
- - [Jimmy Wales says Wikimedia is working with Big Tech on AI deals similar to Google and reader donations are &quot;not to subsidize OpenAI costing us a ton of money&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251204/p13#a251204p13)
- - [Google Fi’s big RCS upgrade lands at last, with a small catch](https://www.androidauthority.com/google-fi-web-rcs-support-3621999/)<!-- TECH:END -->
+ - [Chip giants&#39; efforts to turn Phoenix into a US hub may hinge on training local workers; an estimated 115K local chip jobs are set to be created in four years &lpar;Peter S. Goodman/New York Times&rpar;](http://www.techmeme.com/251204/p17#a251204p17)
+ - [Documents: Foxconn&#39;s subsidiaries and China&#39;s Luxshare plan expansions in Vietnam to boost gaming device production, reinforcing Vietnam&#39;s supply chain role &lpar;Reuters&rpar;](http://www.techmeme.com/251204/p16#a251204p16)
+ - [The vivo X300 Pro is a camera phone champ with a key weakness](https://www.androidauthority.com/vivo-x300-pro-review-3609620/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
