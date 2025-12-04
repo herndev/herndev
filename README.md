@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Springs, Eternal is the first full-sized game from Gone Home co-creator Steve Gaynor after the rest of Fullbright broke off](https://www.pcgamer.com/gaming-industry/events-conferences/springs-eternal-is-the-first-full-sized-game-from-gone-home-co-creator-steve-gaynor-after-the-rest-of-fullbright-broke-off/)
- - [Splitgate 2 is dead, long live Splitgate: Arena Reloaded—the shooter&#39;s back-to-the-basics relaunch is coming December 17](https://www.pcgamer.com/gaming-industry/events-conferences/splitgate-2-is-dead-long-live-splitgate-arena-reloaded-the-shooters-back-to-the-basics-relaunch-is-coming-december-17/)
- - [Battle very, very sad bosses in The Relic: First Guardian, a Witcher-like RPG rooted in Korean folklore](https://www.pcgamer.com/gaming-industry/events-conferences/battle-very-very-sad-bosses-in-the-relic-first-guardian-a-witcher-like-rpg-rooted-in-korean-folklore/)<!-- GAME:END -->
+ - [13 Jujutsu Kaisen episodes to rewatch before JJK: Execution and the Culling Game arc](https://www.polygon.com/jujutsu-kaisen-execution-best-jjk-episodes-to-watch/)
+ - [Eidos Montreal lays off more employees, internal projects reportedly cancelled as the studio shifts focus to support work](https://www.pcgamer.com/gaming-industry/eidos-montreal-lays-off-more-employees-internal-projects-reportedly-cancelled-as-the-studio-shifts-focus-to-support-work/)
+ - [Garmin Plays Zero Profit With Forerunner 165, Now Selling OLED Watch at New Record Low](https://kotaku.com/garmin-plays-zero-profit-with-forerunner-165-now-selling-oled-watch-at-new-record-low-2000650527)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
