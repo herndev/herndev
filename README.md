@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well said, lady](http://9gag.com/gag/apRnPeB)
- - ⏩ [The hardest english word to pronounce](http://9gag.com/gag/ajP3xMp)
+ - 💣 [The hardest english word to pronounce](http://9gag.com/gag/ajP3xMp)
+ - ⏩ [Well said, lady](http://9gag.com/gag/apRnPeB)
  - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
 
 ---
