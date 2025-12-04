@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [DUI](http://9gag.com/gag/aAyLK50)
- - ⏩ [French f**ker](http://9gag.com/gag/apRnPjn)
+ - 💣 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
+ - ⏩ [DUI](http://9gag.com/gag/aAyLK50)
  - 👉 [My New Favorite Sport.](http://9gag.com/gag/an70EBE)<!-- MEMES:END -->
 
 ---
