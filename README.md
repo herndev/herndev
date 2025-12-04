@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thoughts on AI progress and why AI labs&#39; actions hint at a worldview in which AI models will continue to fare poorly at generalization and on-the-job learning &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/251204/p6#a251204p6)
- - [In an interview, Dario Amodei suggests some AI companies are taking on too much risk by &quot;YOLO-ing&quot; and committing to spend hundreds of billions on data centers &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251204/p5#a251204p5)
- - [The OnePlus 15R’s doppelganger just launched with sub-flagship specs](https://www.androidauthority.com/oneplus-15r-ace-6t-launch-3621979/)<!-- TECH:END -->
+ - [Some people are feeding their private medical information into chatbots like ChatGPT and Gemini, only to receive generalized or inaccurate diagnoses in response &lpar;Maggie Astor/New York Times&rpar;](http://www.techmeme.com/251204/p7#a251204p7)
+ - [One of Circle to Search’s key features is getting continuous scrolling on Pixels](https://www.androidauthority.com/circle-to-search-continous-translation-3621994/)
+ - [Google’s 2025 search recap is here, and the top results might surprise you](https://www.androidauthority.com/google-year-in-search-2025-3621989/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
