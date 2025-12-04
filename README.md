@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Piece 1167 rewrites Shanks&#39; character in an intriguing way](https://www.polygon.com/one-piece-chapter-1167-shanks-origins-shamrock-figarland/)
- - [How to complete The Great Hollow event in Elden Ring Nightreign and break the crystal curse](https://www.pcgamer.com/games/rpg/elden-ring-nightreign-great-hollow-crystal-curse/)
- - [Vivienne Medrano explains the two planets in Hazbin Hotel](https://www.polygon.com/video/vivziepop-hazbin-hotel-planets-explained/)<!-- GAME:END -->
+ - [Russia Bans Roblox For The Worst Possible Reason](https://kotaku.com/russia-bans-roblox-lgbtq-roskomnadzor-2000650125)
+ - [Samsung 2025 B-Series Soundbar Is Now Cheaper Than Budget Earbuds as It Still Holds Its Black Friday Low Price](https://kotaku.com/samsung-b-series-soundbar-2025-black-friday-low-cheaper-than-budget-earbuds-2000650185)
+ - [PlayStation Store: November 2025’s top downloads](https://blog.playstation.com/2025/12/04/playstation-store-november-2025s-top-downloads/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
