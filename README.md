@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign&#39;s Forsaken Hollows DLC is magical and terrifying](https://www.polygon.com/elden-ring-nightreign-forsaken-hollows-gameplay-map-mysteries/)
- - [Dragon Age Day Comes And Goes In Complete Silence Just One Year After Veilguard](https://kotaku.com/dragon-age-the-veilguard-day-bioware-layoffs-december-4-2000650888)
- - [Let It Die: Inferno promises it used AI &#39;that observes copyright laws&#39; and isn&#39;t &#39;modeled after any human performers,&#39; so please don&#39;t be mad at it](https://www.pcgamer.com/games/roguelike/let-it-die-inferno-promises-it-used-ai-that-observes-copyright-laws-and-isnt-modeled-after-any-human-performers-so-please-dont-be-mad-at-it/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for December 8 to 12](https://news.xbox.com/en-us/2025/12/05/next-week-on-xbox-new-games-for-december-8-to-12/)
+ - [Fallout co-creator Tim Cain is out of &#39;semi-retirement&#39; and back at Obsidian](https://www.pcgamer.com/gaming-industry/fallout-co-creator-tim-cain-is-out-of-retirement-and-back-at-obsidian/)
+ - [Splitgate 2 Launched, Flopped, Unlaunched, Relaunched, And Renamed All In The Same Year](https://kotaku.com/splitgate-2-arena-shooter-beta-1047-games-2000650903)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
