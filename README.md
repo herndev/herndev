@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perfectly balanced..](http://9gag.com/gag/a87v236)
- - ⏩ [Well said, lady](http://9gag.com/gag/apRnPeB)
- - 👉 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)<!-- MEMES:END -->
+ - 💣 [Just a friendly reminder to know your limits when playing party games](http://9gag.com/gag/an70DZ5)
+ - ⏩ [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
+ - 👉 [Perfectly balanced..](http://9gag.com/gag/a87v236)<!-- MEMES:END -->
 
 ---
 
