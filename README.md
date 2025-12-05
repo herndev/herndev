@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s My Files might soon know when you’re on vacation — and act on it](https://www.androidauthority.com/samsung-one-ui-my-files-vacation-storage-apk-teardown-3622581/)
- - [Alan Dye &amp; John Giannandrea are leaving Apple on this week&#39;s AppleInsider Podcast](https://appleinsider.com/articles/25/12/05/alan-dye-john-giannandrea-are-leaving-apple-on-this-weeks-appleinsider-podcast?utm_source=rss)
- - [Your Pixel phone can now be used as a webcam for the Nintendo Switch 2](https://www.androidauthority.com/pixel-phone-as-switch-2-webcam-3622443/)<!-- TECH:END -->
+ - [Netflix beats Apple to buy Warner Bros](https://appleinsider.com/articles/25/12/05/netflix-beats-apple-to-buy-warner-bros?utm_source=rss)
+ - [Meta strikes multiyear commercial AI data deals with news publishers, including CNN and Fox News, to provide real-time answers for its Meta AI chatbot &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251205/p16#a251205p16)
+ - [In the press release announcing the deal, Netflix says it &quot;expects to maintain Warner Bros.&#39; current operations..., including theatrical releases for films&quot; &lpar;Tony Maglio/The Hollywood Reporter&rpar;](http://www.techmeme.com/251205/p15#a251205p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
