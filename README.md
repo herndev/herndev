@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pine, which offers an AI agent to automate digital chores, like making calls, handling emails, and operating software to complete tasks, raised a $25M Series A &lpar;FinSMEs&rpar;](http://www.techmeme.com/251204/p54#a251204p54)
- - [Physicist Steve Hsu says he has published a peer-reviewed theoretical physics paper whose main idea came from GPT-5 &lpar;Steve Hsu/@hsu_steve&rpar;](http://www.techmeme.com/251204/p53#a251204p53)
- - [Check Out Highlights From WIRED’s 2025 Big Interview Event](https://www.wired.com/story/the-big-interview-2025-recap/)<!-- TECH:END -->
+ - [How to buy a used Mac and not get ripped off](https://appleinsider.com/articles/25/12/05/how-to-buy-a-used-mac-and-not-get-ripped-off?utm_source=rss)
+ - [US and Canadian authorities warn that Chinese hackers are using the Brickstorm malware to install backdoor access within unnamed government and IT entities &lpar;A.J. Vicens/Reuters&rpar;](http://www.techmeme.com/251204/p55#a251204p55)
+ - [Pine, which offers an AI agent to automate digital chores, like making calls, handling emails, and operating software to complete tasks, raised a $25M Series A &lpar;FinSMEs&rpar;](http://www.techmeme.com/251204/p54#a251204p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
