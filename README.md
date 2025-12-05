@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Behind the scenes on Pluribus with Samba Schutte — as James Bond](https://www.polygon.com/pluribus-episode-6-samba-schutte-interview-james-bond-scene/)
- - [GTA 5 character makes a surprise return in GTA Online update](https://www.polygon.com/gta5-michael-de-santa-gta-online-update-safehouse-in-the-hills/)
- - [Brandon Sanderson unveils new Cosmere novel, The Fires of December](https://www.polygon.com/brandon-sanderson-new-cosmere-novel-the-fires-of-december/)<!-- GAME:END -->
+ - [Mysterious missile defense game PVKK named one of our most anticipated games in this year&#39;s PC Gaming Show: Most Wanted](https://www.pcgamer.com/gaming-industry/events-conferences/pvkk-is-our-20th-most-wanted-game-and-this-new-trailer-shows-how-unquestioningly-following-orders-can-lead-to-shooting-down-santa-claus/)
+ - [Here’s Why You’re &lpar;Probably&rpar; Not Finding Blueprints In Arc Raiders](https://kotaku.com/arc-raiders-blueprint-locations-night-raid-map-2000650966)
+ - [A New Postal Game Was Announced, Then Canceled Over AI Slop, Within Just 48 Hours](https://kotaku.com/postal-bullet-paradise-running-with-scissors-ai-canceled-2000650949)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
