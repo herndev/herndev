@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung just leaked Galaxy S26 series designs via its software](https://www.androidauthority.com/samsung-galaxy-s26-series-designs-software-3622475/)
- - [Android 16 QPR2 secret: How to turn off your Pixel’s annoying background blur](https://www.androidauthority.com/google-pixel-how-turn-off-background-blur-android-16-qpr2-3621871/)
- - [Japan faces bottlenecks in data center construction due to labor shortages and more; DC Byte says Japan&#39;s capacity has tripled to 6.8 GW in the past five years &lpar;Tsubasa Suruga/Nikkei Asia&rpar;](http://www.techmeme.com/251205/p9#a251205p9)<!-- TECH:END -->
+ - [The EU fines X €120M for breaching online content rules, the first fine under the DSA, citing issues including the deceptive design of its blue checkmarks &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/251205/p12#a251205p12)
+ - [Quick settings overhaul, floating pill buttons, and more leaked for Samsung’s next phone update](https://www.androidauthority.com/one-ui-8-5-leaked-build-features-3622472/)
+ - [Your Samsung phone may soon read your PDFs before you do](https://www.androidauthority.com/samsung-one-ui-my-files-short-summary-apk-teardown-3622518/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
