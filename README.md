@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s top holiday deals: AirPods 4 ANC $99, $450 off iPad Pro, Apple Watch $199, Mac from $499, more](https://appleinsider.com/articles/25/12/05/amazons-top-holiday-deals-airpods-4-anc-99-450-off-ipad-pro-apple-watch-199-mac-from-499-more?utm_source=rss)
- - [Time to check your old Assistant speaker — more third-party models are getting Gemini](https://www.androidauthority.com/gemini-third-party-speakers-displays-3622891/)
- - [A mysterious YouTube Music glitch is leaving offline songs unplayable](https://www.androidauthority.com/youtube-music-offline-downloads-not-playing-3622901/)<!-- TECH:END -->
+ - [A US judge rules Google must renegotiate annually any contract that makes its search engine or AI app the default on smartphones and other devices &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p32#a251205p32)
+ - [Forget the Galaxy Z TriFold, another major brand could launch its own model](https://www.androidauthority.com/xiaomi-trifold-certification-3622924/)
+ - [WIRED Roundup: DOGE Isn’t Dead, Facebook Dating Is Real, and Amazon’s AI Ambitions](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-doge-facebook-dating-amazon-artificial-intelligence/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
