@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [LEGO Holds Star Wars Jango Fett’s Starship at Its Black Friday Low to Move Holiday Stock](https://kotaku.com/lego-holds-star-wars-jango-fetts-starship-at-its-black-friday-low-to-move-holiday-stock-2000650845)
- - [Pluribus episode 6 explained: Vince Gilligan talks HDP, John Cena, and more](https://www.polygon.com/pluribus-episode-6-explained-vince-gilligan-interview/)
- - [The TV show based on Total War was tricking us all along: &#39;It&#39;s kind of embarrassing, but it&#39;s television&#39;](https://www.pcgamer.com/games/strategy/the-tv-show-based-on-total-war-was-tricking-us-all-along-its-kind-of-embarrassing-but-its-television/)<!-- GAME:END -->
+ - [Elden Ring Nightreign&#39;s Forsaken Hollows DLC is magical and terrifying](https://www.polygon.com/elden-ring-nightreign-forsaken-hollows-gameplay-map-mysteries/)
+ - [Dragon Age Day Comes And Goes In Complete Silence Just One Year After Veilguard](https://kotaku.com/dragon-age-the-veilguard-day-bioware-layoffs-december-4-2000650888)
+ - [Let It Die: Inferno promises it used AI &#39;that observes copyright laws&#39; and isn&#39;t &#39;modeled after any human performers,&#39; so please don&#39;t be mad at it](https://www.pcgamer.com/games/roguelike/let-it-die-inferno-promises-it-used-ai-that-observes-copyright-laws-and-isnt-modeled-after-any-human-performers-so-please-dont-be-mad-at-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
