@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [13 Jujutsu Kaisen episodes to rewatch before JJK: Execution and the Culling Game arc](https://www.polygon.com/jujutsu-kaisen-execution-best-jjk-episodes-to-watch/)
- - [Eidos Montreal lays off more employees, internal projects reportedly cancelled as the studio shifts focus to support work](https://www.pcgamer.com/gaming-industry/eidos-montreal-lays-off-more-employees-internal-projects-reportedly-cancelled-as-the-studio-shifts-focus-to-support-work/)
- - [Garmin Plays Zero Profit With Forerunner 165, Now Selling OLED Watch at New Record Low](https://kotaku.com/garmin-plays-zero-profit-with-forerunner-165-now-selling-oled-watch-at-new-record-low-2000650527)<!-- GAME:END -->
+ - [Oh no, all of Reddit&#39;s NFTs are disappearing in less than 30 days, someone do something](https://www.pcgamer.com/games/oh-no-all-of-reddits-nfts-are-disappearing-in-less-than-30-days-someone-do-something/)
+ - [Samsung Never Turned Off Black Friday Deal on Galaxy Tab S10+, Still Selling at All-Time Low Price](https://kotaku.com/samsung-never-turned-off-black-friday-deal-on-galaxy-tab-s10-still-selling-at-all-time-low-price-2000650535)
+ - [Hytale won&#39;t be on Steam when it launches into early access: Developers want to focus on the game, not &#39;on negative reviews from players that aren&#39;t as well-informed yet about what we are doing&#39;](https://www.pcgamer.com/games/survival-crafting/hytale-wont-be-on-steam-when-it-launches-into-early-access-developers-want-to-focus-on-the-game-not-on-negative-reviews-from-players-that-arent-as-well-informed-yet-about-what-we-are-doing/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
