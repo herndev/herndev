@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - ⏩ [Happens to everyone pal](http://9gag.com/gag/agmp2Zw)
- - 👉 [The council of men approves](http://9gag.com/gag/avyBv8q)<!-- MEMES:END -->
+ - 💣 [Happens to everyone pal](http://9gag.com/gag/agmp2Zw)
+ - ⏩ [Takes a lot of work to make crack](http://9gag.com/gag/a2vAb2Y)
+ - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
 
 ---
 
