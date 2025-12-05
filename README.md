@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to save in Metroid Prime 4: Beyond](https://www.polygon.com/metroid-prime-4-how-to-save/)
- - [Magic: The Gathering&#39;s Avatar crossover needs a Legend of Korra Secret Lair](https://www.polygon.com/magic-the-gathering-avatar-legend-of-korra-secret-lair-superdrop/)
- - [What to expect from The Game Awards 2025: What&#39;s rumored to be there, what&#39;s already confirmed, and what we think is taking home GOTY](https://www.pcgamer.com/gaming-industry/what-to-expect-from-the-game-awards-2025-whats-rumored-to-be-there-whats-already-confirmed-and-what-we-think-is-taking-home-goty/)<!-- GAME:END -->
+ - [The best Xbox Game Pass games to play this weekend &lpar;Dec. 5-7 2025&rpar;](https://www.polygon.com/game-pass-games-rec-weekend-dec-5-2025/)
+ - [Marvel Is So Out Of Ideas It’s Bringing Avengers: Endgame Back To Theaters](https://kotaku.com/avengers-endgame-rerelease-movie-theater-tickets-doomsday-2000651023)
+ - [The 100 Nights of Hero movie sanitizes the comic&#39;s daring fairy tale](https://www.polygon.com/100-nights-of-hero-movie-vs-comic-adaptation-queer-fairy-tale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
