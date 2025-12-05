@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Food is not a drug, but that cheese pull is addictive](http://9gag.com/gag/aE0jDBo)
- - ⏩ [Do I need new tyres, or can these bad boys roll a bit longer?](http://9gag.com/gag/aqyVWGR)
- - 👉 [The council of men approves](http://9gag.com/gag/avyBv8q)<!-- MEMES:END -->
+ - 💣 [Prediction Machine](http://9gag.com/gag/a34zWd3)
+ - ⏩ [Food is not a drug, but that cheese pull is addictive](http://9gag.com/gag/aE0jDBo)
+ - 👉 [Do I need new tyres, or can these bad boys roll a bit longer?](http://9gag.com/gag/aqyVWGR)<!-- MEMES:END -->
 
 ---
 
