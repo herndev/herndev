@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix beats Apple to buy Warner Bros](https://appleinsider.com/articles/25/12/05/netflix-beats-apple-to-buy-warner-bros?utm_source=rss)
- - [Meta strikes multiyear commercial AI data deals with news publishers, including CNN and Fox News, to provide real-time answers for its Meta AI chatbot &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251205/p16#a251205p16)
- - [In the press release announcing the deal, Netflix says it &quot;expects to maintain Warner Bros.&#39; current operations..., including theatrical releases for films&quot; &lpar;Tony Maglio/The Hollywood Reporter&rpar;](http://www.techmeme.com/251205/p15#a251205p15)<!-- TECH:END -->
+ - [13 years later, the bold and terrifying sci-fi game Routine is finally here](https://www.theverge.com/entertainment/838639/routine-sci-fi-horror-game-development)
+ - [Welcome to the wellness surveillance state](https://www.theverge.com/column/838872/optimizer-wellness-surveillance-state-oura-withings)
+ - [Google may have quietly fixed this frustrating Pixel gesture](https://www.androidauthority.com/google-pixel-quick-tap-gesture-improvement-3622638/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
