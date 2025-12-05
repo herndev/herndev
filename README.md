@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - ⏩ [French f**ker](http://9gag.com/gag/apRnPjn)
- - 👉 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)<!-- MEMES:END -->
+ - ⏩ [He looks happy](http://9gag.com/gag/aZZ4jy9)
+ - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
 
 ---
 
