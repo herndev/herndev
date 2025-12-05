@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Dreamlight Valley&#39;s new Dream Team feature will drastically improve life in the valley, and I cannot wait to beg my friends for resources](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valleys-new-dream-team-feature-will-drastically-improve-life-in-the-valley-and-i-cannot-wait-to-beg-my-friends-for-resources/)
- - [The next update for The Outlast Trials features a terrifying new enemy and map that might be the thing that scares me so much I can&#39;t play anymore](https://www.pcgamer.com/games/horror/the-next-update-for-the-outlast-trials-features-a-terrifying-new-enemy-and-map-that-might-be-the-thing-that-scares-me-so-much-i-cant-play-anymore/)
- - [During Nvidia&#39;s formative years, its CEO reckons it &#39;had a mission statement for a company that has no chance of success&#39; but it was fine because Sega&#39;s CEO thought &#39;Jensen was a young man he liked&#39;](https://www.pcgamer.com/hardware/graphics-cards/during-nvidias-formative-years-its-ceo-reckons-it-had-a-mission-statement-for-a-company-that-has-no-chance-of-success-but-it-was-fine-because-segas-ceo-thought-jensen-was-a-young-man-he-liked/)<!-- GAME:END -->
+ - [Who is Yuta Okkotsu? Jujutsu Kaisen: Execution&#39;s surprising villain, explained](https://www.polygon.com/yuta-okkotsu-explained-jujutsu-kaisen-execution-season-3/)
+ - [How to Buy a Digital Game as a Gift This Holiday](https://news.xbox.com/en-us/2025/12/05/how-to-buy-a-digital-game-as-a-gift-this-holiday-2025/)
+ - [Todd Howard says that the Fallout franchise is &#39;a cautionary tale&#39;, and that &#39;that world before the bombs fall&#39; is what makes it so special](https://www.pcgamer.com/games/fallout/todd-howard-says-that-the-fallout-franchise-is-a-cautionary-tale-and-that-that-world-before-the-bombs-fall-is-what-makes-it-so-special/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
