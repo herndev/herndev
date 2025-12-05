@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A review of LinkedIn profiles shows dozens of Apple staffers with expertise in audio, watch design, robotics, and more have joined OpenAI in recent months &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/251205/p1#a251205p1)
- - [Google debuts Titans, an architecture combining RNN speed with transformer performance for real-time learning, able to scale effectively to a 2M+ context window &lpar;Google Research&rpar;](http://www.techmeme.com/251204/p58#a251204p58)
- - [The NHTSA asks Waymo about its self-driving vehicles illegally passing school buses, including 19 times in Texas this year, as part of a probe opened in October &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/251204/p57#a251204p57)<!-- TECH:END -->
+ - [New leak lends more weight to Galaxy S26 series with built-in magnets](https://www.androidauthority.com/samsung-qi2-wireless-charger-galaxy-s26-3622450/)
+ - [Researchers claim that prompts framed as riddle-like poems could skirt AI chatbots&#39; safety features designed to block production of explicit or harmful content &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251205/p4#a251205p4)
+ - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
