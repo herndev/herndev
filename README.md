@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 38 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)
- - [Polish lawmakers fail to override the president&#39;s veto on a crypto assets regulation bill; Poland is the last EU country not to adopt EU&#39;s crypto regulation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p21#a251205p21)
- - [The New York Times sues Perplexity for producing ‘verbatim’ copies of its work](https://www.theverge.com/news/839006/new-york-times-perplexity-lawsuit-copyright)<!-- TECH:END -->
+ - [Dozens of staffers quit Apple, leaving behind only 164,000](https://appleinsider.com/articles/25/12/05/dozens-of-staffers-quit-apple-leaving-behind-only-164000?utm_source=rss)
+ - [OpenAI’s GPT-5.2 ‘code red’ response to Google is coming next week](https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response)
+ - [Wikipedia is getting in on the yearly wrapped game](https://www.theverge.com/news/838989/wikipedia-year-in-review-2025-wrapped)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
