@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Undocking](http://9gag.com/gag/a34zbK1)
- - ⏩ [Posting memes I found on my smartphone until I get bored or die #1339](http://9gag.com/gag/aD2qO59)
- - 👉 [LoTR](http://9gag.com/gag/aO8nPVr)<!-- MEMES:END -->
+ - 💣 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
+ - ⏩ [LoTR](http://9gag.com/gag/aO8nPVr)
+ - 👉 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
 
 ---
 
