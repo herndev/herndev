@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Govee Liquidates TV Backlight for More Immersive Movies, Now Selling at Record Low on Amazon](https://kotaku.com/govee-liquidates-tv-backlight-for-more-immersive-movies-now-selling-at-record-low-on-amazon-2000650582)
- - [Ditch Your PS5 Slim, PlayStation 5 Pro at New Record Low If You Want to Play at Pro Level](https://kotaku.com/ditch-your-ps5-slim-playstation-5-pro-at-new-record-low-if-you-want-to-play-at-pro-level-2000650592)
- - [AMD Quietly Offloads Ryzen 9 9950X via Amazon, Now at All-Time Low Long After Black Friday Ended](https://kotaku.com/amd-quietly-offloads-ryzen-9-9950x-via-amazon-now-at-all-time-low-long-after-black-friday-ended-2000650568)<!-- GAME:END -->
+ - [During Nvidia&#39;s formative years, its CEO reckons it &#39;had a mission statement for a company that has no chance of success&#39; but it was fine because Sega&#39;s CEO thought &#39;Jensen was a young man he liked&#39;](https://www.pcgamer.com/hardware/graphics-cards/during-nvidias-formative-years-its-ceo-reckons-it-had-a-mission-statement-for-a-company-that-has-no-chance-of-success-but-it-was-fine-because-segas-ceo-thought-jensen-was-a-young-man-he-liked/)
+ - [Yep, Cloudflare was just down. Again](https://www.pcgamer.com/hardware/yep-cloudflare-was-just-down-again/)
+ - [Govee Liquidates TV Backlight for More Immersive Movies, Now Selling at Record Low on Amazon](https://kotaku.com/govee-liquidates-tv-backlight-for-more-immersive-movies-now-selling-at-record-low-on-amazon-2000650582)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
