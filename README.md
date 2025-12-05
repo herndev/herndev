@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oh no, all of Reddit&#39;s NFTs are disappearing in less than 30 days, someone do something](https://www.pcgamer.com/games/oh-no-all-of-reddits-nfts-are-disappearing-in-less-than-30-days-someone-do-something/)
- - [Samsung Never Turned Off Black Friday Deal on Galaxy Tab S10+, Still Selling at All-Time Low Price](https://kotaku.com/samsung-never-turned-off-black-friday-deal-on-galaxy-tab-s10-still-selling-at-all-time-low-price-2000650535)
- - [Hytale won&#39;t be on Steam when it launches into early access: Developers want to focus on the game, not &#39;on negative reviews from players that aren&#39;t as well-informed yet about what we are doing&#39;](https://www.pcgamer.com/games/survival-crafting/hytale-wont-be-on-steam-when-it-launches-into-early-access-developers-want-to-focus-on-the-game-not-on-negative-reviews-from-players-that-arent-as-well-informed-yet-about-what-we-are-doing/)<!-- GAME:END -->
+ - [Ditch Your PS5 Slim, PlayStation 5 Pro at New Record Low If You Want to Play at Pro Level](https://kotaku.com/ditch-your-ps5-slim-playstation-5-pro-at-new-record-low-if-you-want-to-play-at-pro-level-2000650592)
+ - [AMD Quietly Offloads Ryzen 9 9950X via Amazon, Now at All-Time Low Long After Black Friday Ended](https://kotaku.com/amd-quietly-offloads-ryzen-9-9950x-via-amazon-now-at-all-time-low-long-after-black-friday-ended-2000650568)
+ - [Samsung Needs to Hit Year-End Goals, Goes 54% Off on 32″ Odyssey Curved Monitor](https://kotaku.com/samsung-needs-to-hit-year-end-goals-goes-54-off-on-32-odyssey-curved-monitor-2000650598)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
