@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TBPN signs a partnership with the NYSE, giving the video podcast the same on-floor access enjoyed by major financial networks such as CNBC &lpar;Sam Becker/Fast Company&rpar;](http://www.techmeme.com/251204/p47#a251204p47)
- - [Proton’s latest addition takes aim at Google Sheets and Excel](https://www.androidauthority.com/proton-sheets-launched-3622419/)
- - [Apple announces even more major executive turnover](https://www.theverge.com/news/838712/apple-policy-lead-lisa-jackson-retiring)<!-- TECH:END -->
+ - [Two studies suggest AI chatbots can shift political views more effectively than TV campaign ads, especially by presenting many claims, regardless of accuracy &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/251204/p48#a251204p48)
+ - [San Francisco Mayor Daniel Lurie: Past Leaders Took the City ‘for Granted’](https://www.wired.com/story/big-interview-event-mayor-daniel-lurie/)
+ - [Trump Wants to Trade Fuel Economy for Cheaper Cars. But It Might Not Work](https://www.wired.com/story/trump-fuel-economy-standards-rollback-might-not-work/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
