@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - 💣 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
  - ⏩ [Perfectly balanced..](http://9gag.com/gag/a87v236)
- - 👉 [Should we tell her?](http://9gag.com/gag/aryDZwV)<!-- MEMES:END -->
+ - 👉 [Do this in bed before sleeping.](http://9gag.com/gag/aNDGV8r)<!-- MEMES:END -->
 
 ---
 
