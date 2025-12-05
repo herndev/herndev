@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He looks happy](http://9gag.com/gag/aZZ4jy9)
- - ⏩ [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - 👉 [Perfectly balanced..](http://9gag.com/gag/a87v236)<!-- MEMES:END -->
+ - 💣 [Food is not a drug, but that cheese pull is addictive](http://9gag.com/gag/aE0jDBo)
+ - ⏩ [Do I need new tyres, or can these bad boys roll a bit longer?](http://9gag.com/gag/aqyVWGR)
+ - 👉 [The council of men approves](http://9gag.com/gag/avyBv8q)<!-- MEMES:END -->
 
 ---
 
