@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two studies suggest AI chatbots can shift political views more effectively than TV campaign ads, especially by presenting many claims, regardless of accuracy &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/251204/p48#a251204p48)
- - [San Francisco Mayor Daniel Lurie: Past Leaders Took the City ‘for Granted’](https://www.wired.com/story/big-interview-event-mayor-daniel-lurie/)
- - [Trump Wants to Trade Fuel Economy for Cheaper Cars. But It Might Not Work](https://www.wired.com/story/trump-fuel-economy-standards-rollback-might-not-work/)<!-- TECH:END -->
+ - [Docusign reports Q3 revenue up 8% YoY to $818.4M, vs. $807.1M est., and forecasts Q4 revenue below estimates; DOCU drops 6%+ after hours &lpar;Arvelisse Bonilla Ramos/Bloomberg&rpar;](http://www.techmeme.com/251204/p52#a251204p52)
+ - [Chinese AI chipmaker Moore Threads raised ~$1.13B in the year&#39;s second-largest onshore IPO, valuing it at ~$7.6B, with the retail portion oversubscribed 2,750x &lpar;Bloomberg&rpar;](http://www.techmeme.com/251204/p51#a251204p51)
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
