@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - ⏩ [He looks happy](http://9gag.com/gag/aZZ4jy9)
- - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
+ - 💣 [He looks happy](http://9gag.com/gag/aZZ4jy9)
+ - ⏩ [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
+ - 👉 [Perfectly balanced..](http://9gag.com/gag/a87v236)<!-- MEMES:END -->
 
 ---
 
