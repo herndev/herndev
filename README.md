@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft finally has a better looking Run dialog for Windows 11](https://www.theverge.com/news/838798/microsoft-windows-11-run-dialog-new-ui-dark-mode)
- - [New Samsung One UI 8.5 leak hints at a bigger redesign than we first thought](https://www.androidauthority.com/samsung-one-ui-8-5-redesign-system-app-3622468/)
- - [Cloudflare took down large swathes of the internet… again](https://www.androidauthority.com/cloudflare-down-december-2025-3622495/)<!-- TECH:END -->
+ - [Samsung just leaked Galaxy S26 series designs via its software](https://www.androidauthority.com/samsung-galaxy-s26-series-designs-software-3622475/)
+ - [Android 16 QPR2 secret: How to turn off your Pixel’s annoying background blur](https://www.androidauthority.com/google-pixel-how-turn-off-background-blur-android-16-qpr2-3621871/)
+ - [Japan faces bottlenecks in data center construction due to labor shortages and more; DC Byte says Japan&#39;s capacity has tripled to 6.8 GW in the past five years &lpar;Tsubasa Suruga/Nikkei Asia&rpar;](http://www.techmeme.com/251205/p9#a251205p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
