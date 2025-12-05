@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Xbox Game Pass games to play this weekend &lpar;Dec. 5-7 2025&rpar;](https://www.polygon.com/game-pass-games-rec-weekend-dec-5-2025/)
- - [Marvel Is So Out Of Ideas It’s Bringing Avengers: Endgame Back To Theaters](https://kotaku.com/avengers-endgame-rerelease-movie-theater-tickets-doomsday-2000651023)
- - [The 100 Nights of Hero movie sanitizes the comic&#39;s daring fairy tale](https://www.polygon.com/100-nights-of-hero-movie-vs-comic-adaptation-queer-fairy-tale/)<!-- GAME:END -->
+ - [Tron: Ares, Mission Impossible: The Final Reckoning, and the best movies on streaming this week](https://www.polygon.com/tron-ares-mission-impossible-the-final-reckoning-and-every-movie-new-to-streaming-this-weekend/)
+ - [Metroid Prime 4 Players Are Discovering The Game Is Filled With Vagina Doors](https://kotaku.com/metroid-prime-4-players-discovering-vagina-vulva-doors-2000651050)
+ - [Actor Cary-Hiroyuki Tagawa, known for his iconic depiction of Mortal Kombat villain Shang Tsung, has died](https://www.pcgamer.com/games/actor-cary-hiroyuki-tagawa-known-for-his-iconic-depiction-of-mortal-kombat-villain-shang-tsung-has-died/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
