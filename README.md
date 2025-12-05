@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docusign reports Q3 revenue up 8% YoY to $818.4M, vs. $807.1M est., and forecasts Q4 revenue below estimates; DOCU drops 6%+ after hours &lpar;Arvelisse Bonilla Ramos/Bloomberg&rpar;](http://www.techmeme.com/251204/p52#a251204p52)
- - [Chinese AI chipmaker Moore Threads raised ~$1.13B in the year&#39;s second-largest onshore IPO, valuing it at ~$7.6B, with the retail portion oversubscribed 2,750x &lpar;Bloomberg&rpar;](http://www.techmeme.com/251204/p51#a251204p51)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)<!-- TECH:END -->
+ - [Physicist Steve Hsu says he has published a peer-reviewed theoretical physics paper whose main idea came from GPT-5 &lpar;Steve Hsu/@hsu_steve&rpar;](http://www.techmeme.com/251204/p53#a251204p53)
+ - [Check Out Highlights From WIRED’s 2025 Big Interview Event](https://www.wired.com/story/the-big-interview-2025-recap/)
+ - [Checking Your Phone in the Bathroom Might Be Doing More Harm Than You Think](https://www.cnet.com/tech/mobile/study-reveals-doomscrolling-while-using-the-bathroom-has-a-hidden-risk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
