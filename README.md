@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome can now autofill details from your Google account](https://www.theverge.com/news/838987/google-chrome-android-ios-desktop-autofill-account-wallet)
- - [The Best Deals From the Silk &amp; Snow Cyber Week Sale &lpar;2025&rpar;](https://www.wired.com/story/silk-snow-deals-2025/)
- - [This popular carrier will soon offer an all-inclusive membership with flagship hardware and more](https://www.androidauthority.com/us-mobile-special-membership-3622751/)<!-- TECH:END -->
+ - [Pantone’s ‘Cloud Dancer’ color party is a recession indicator](https://www.theverge.com/design/839364/pantones-cloud-dancer-color-of-the-year-party)
+ - [Rumor suggests Intel could finally manufacture iPhone chips](https://appleinsider.com/articles/25/12/05/rumor-suggests-intel-could-finally-manufacture-iphone-chips?utm_source=rss)
+ - [Sources: SpaceX has told investors and financial institution representatives that it is aiming for an IPO in the second half of 2026 &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/251205/p28#a251205p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
