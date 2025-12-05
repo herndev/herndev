@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chamberlain blocks smart home integrations with its garage door openers — again](https://www.theverge.com/tech/839294/chamberlain-myq-garage-door-opener-update-blocks-aftermarket-controllers)
- - [Horses, the Most Controversial Game of the Year, Doesn’t Live Up to the Hype](https://www.wired.com/story/horses-the-most-controversial-game-of-the-year-doesnt-live-up-to-the-hype/)
- - [Star Wars’ original theatrical cut returns to theaters in 2027](https://www.theverge.com/news/839434/disney-star-wars-original-theatrical-cut-theaters-release-date)<!-- TECH:END -->
+ - [Amazon&#39;s top holiday deals: AirPods 4 ANC $99, $450 off iPad Pro, Apple Watch $199, Mac from $499, more](https://appleinsider.com/articles/25/12/05/amazons-top-holiday-deals-airpods-4-anc-99-450-off-ipad-pro-apple-watch-199-mac-from-499-more?utm_source=rss)
+ - [Time to check your old Assistant speaker — more third-party models are getting Gemini](https://www.androidauthority.com/gemini-third-party-speakers-displays-3622891/)
+ - [A mysterious YouTube Music glitch is leaving offline songs unplayable](https://www.androidauthority.com/youtube-music-offline-downloads-not-playing-3622901/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
