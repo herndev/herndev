@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dozens of staffers quit Apple, leaving behind only 164,000](https://appleinsider.com/articles/25/12/05/dozens-of-staffers-quit-apple-leaving-behind-only-164000?utm_source=rss)
- - [OpenAI’s GPT-5.2 ‘code red’ response to Google is coming next week](https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response)
- - [Wikipedia is getting in on the yearly wrapped game](https://www.theverge.com/news/838989/wikipedia-year-in-review-2025-wrapped)<!-- TECH:END -->
+ - [9 Best Lubes &lpar;2025&rpar;: Water-Based, Silicone, Natural Oils](https://www.wired.com/gallery/best-lubes/)
+ - [Apple CEO succession discussion enters new realm of rampant speculation](https://appleinsider.com/articles/25/12/05/apple-ceo-succession-discussion-enters-new-realm-of-rampant-speculation?utm_source=rss)
+ - [OnePlus 15R will pack a battery that easily puts the Galaxy S25 Ultra to shame](https://www.androidauthority.com/oneplus-15r-largest-battery-3622720/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
