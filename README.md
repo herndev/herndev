@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for December 8 to 12](https://news.xbox.com/en-us/2025/12/05/next-week-on-xbox-new-games-for-december-8-to-12/)
- - [Fallout co-creator Tim Cain is out of &#39;semi-retirement&#39; and back at Obsidian](https://www.pcgamer.com/gaming-industry/fallout-co-creator-tim-cain-is-out-of-retirement-and-back-at-obsidian/)
- - [Splitgate 2 Launched, Flopped, Unlaunched, Relaunched, And Renamed All In The Same Year](https://kotaku.com/splitgate-2-arena-shooter-beta-1047-games-2000650903)<!-- GAME:END -->
+ - [Behind the scenes on Pluribus with Samba Schutte — as James Bond](https://www.polygon.com/pluribus-episode-6-samba-schutte-interview-james-bond-scene/)
+ - [GTA 5 character makes a surprise return in GTA Online update](https://www.polygon.com/gta5-michael-de-santa-gta-online-update-safehouse-in-the-hills/)
+ - [Brandon Sanderson unveils new Cosmere novel, The Fires of December](https://www.polygon.com/brandon-sanderson-new-cosmere-novel-the-fires-of-december/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
