@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
- - ⏩ [Neck stiff or pain? Do this now.](http://9gag.com/gag/aKGXYG6)
- - 👉 [He looks happy](http://9gag.com/gag/aZZ4jy9)<!-- MEMES:END -->
+ - 💣 [LoTR](http://9gag.com/gag/aO8nPVr)
+ - ⏩ [He looks happy](http://9gag.com/gag/aZZ4jy9)
+ - 👉 [Neck stiff or pain? Do this now.](http://9gag.com/gag/aKGXYG6)<!-- MEMES:END -->
 
 ---
 
