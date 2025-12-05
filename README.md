@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pine, which offers an AI agent to automate digital chores, like making calls, handling emails, and operating software to complete tasks, raised a $25M Series A &lpar;FinSMEs&rpar;](http://www.techmeme.com/251204/p54#a251204p54)
  - [Physicist Steve Hsu says he has published a peer-reviewed theoretical physics paper whose main idea came from GPT-5 &lpar;Steve Hsu/@hsu_steve&rpar;](http://www.techmeme.com/251204/p53#a251204p53)
- - [Check Out Highlights From WIRED’s 2025 Big Interview Event](https://www.wired.com/story/the-big-interview-2025-recap/)
- - [Checking Your Phone in the Bathroom Might Be Doing More Harm Than You Think](https://www.cnet.com/tech/mobile/study-reveals-doomscrolling-while-using-the-bathroom-has-a-hidden-risk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Check Out Highlights From WIRED’s 2025 Big Interview Event](https://www.wired.com/story/the-big-interview-2025-recap/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
