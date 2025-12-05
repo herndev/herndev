@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 years later, the bold and terrifying sci-fi game Routine is finally here](https://www.theverge.com/entertainment/838639/routine-sci-fi-horror-game-development)
- - [Welcome to the wellness surveillance state](https://www.theverge.com/column/838872/optimizer-wellness-surveillance-state-oura-withings)
- - [Google may have quietly fixed this frustrating Pixel gesture](https://www.androidauthority.com/google-pixel-quick-tap-gesture-improvement-3622638/)<!-- TECH:END -->
+ - [The 38 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)
+ - [Polish lawmakers fail to override the president&#39;s veto on a crypto assets regulation bill; Poland is the last EU country not to adopt EU&#39;s crypto regulation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p21#a251205p21)
+ - [The New York Times sues Perplexity for producing ‘verbatim’ copies of its work](https://www.theverge.com/news/839006/new-york-times-perplexity-lawsuit-copyright)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
