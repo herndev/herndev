@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happens to everyone pal](http://9gag.com/gag/agmp2Zw)
- - ⏩ [Takes a lot of work to make crack](http://9gag.com/gag/a2vAb2Y)
- - 👉 [Best examples?](http://9gag.com/gag/axyePZb)<!-- MEMES:END -->
+ - 💣 [LoTR](http://9gag.com/gag/aO8nPVr)
+ - ⏩ [He looks happy](http://9gag.com/gag/aZZ4jy9)
+ - 👉 [Neck stiff or pain? Do this now.](http://9gag.com/gag/aKGXYG6)<!-- MEMES:END -->
 
 ---
 
