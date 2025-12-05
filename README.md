@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: WBD begins exclusive talks with Netflix to sell its film and TV studios and HBO Max; Netflix is offering a $5B breakup fee if the deal isn&#39;t approved &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p8#a251205p8)
- - [Netflix wins the bidding war for Warner Bros.](https://www.theverge.com/news/838781/netflix-warner-bros-discover-bids-buyout)
- - [A look at Microsoft Excel&#39;s evolution, as it remains the most widely used spreadsheet software with 500M paying users despite competition from Google and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p7#a251205p7)<!-- TECH:END -->
+ - [Microsoft finally has a better looking Run dialog for Windows 11](https://www.theverge.com/news/838798/microsoft-windows-11-run-dialog-new-ui-dark-mode)
+ - [New Samsung One UI 8.5 leak hints at a bigger redesign than we first thought](https://www.androidauthority.com/samsung-one-ui-8-5-redesign-system-app-3622468/)
+ - [Cloudflare took down large swathes of the internet… again](https://www.androidauthority.com/cloudflare-down-december-2025-3622495/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
