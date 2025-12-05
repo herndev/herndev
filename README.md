@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Lubes &lpar;2025&rpar;: Water-Based, Silicone, Natural Oils](https://www.wired.com/gallery/best-lubes/)
- - [Apple CEO succession discussion enters new realm of rampant speculation](https://appleinsider.com/articles/25/12/05/apple-ceo-succession-discussion-enters-new-realm-of-rampant-speculation?utm_source=rss)
- - [OnePlus 15R will pack a battery that easily puts the Galaxy S25 Ultra to shame](https://www.androidauthority.com/oneplus-15r-largest-battery-3622720/)<!-- TECH:END -->
+ - [Chrome can now autofill details from your Google account](https://www.theverge.com/news/838987/google-chrome-android-ios-desktop-autofill-account-wallet)
+ - [The Best Deals From the Silk &amp; Snow Cyber Week Sale &lpar;2025&rpar;](https://www.wired.com/story/silk-snow-deals-2025/)
+ - [This popular carrier will soon offer an all-inclusive membership with flagship hardware and more](https://www.androidauthority.com/us-mobile-special-membership-3622751/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
