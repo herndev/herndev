@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pantone’s ‘Cloud Dancer’ color party is a recession indicator](https://www.theverge.com/design/839364/pantones-cloud-dancer-color-of-the-year-party)
- - [Rumor suggests Intel could finally manufacture iPhone chips](https://appleinsider.com/articles/25/12/05/rumor-suggests-intel-could-finally-manufacture-iphone-chips?utm_source=rss)
- - [Sources: SpaceX has told investors and financial institution representatives that it is aiming for an IPO in the second half of 2026 &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/251205/p28#a251205p28)<!-- TECH:END -->
+ - [Chamberlain blocks smart home integrations with its garage door openers — again](https://www.theverge.com/tech/839294/chamberlain-myq-garage-door-opener-update-blocks-aftermarket-controllers)
+ - [Horses, the Most Controversial Game of the Year, Doesn’t Live Up to the Hype](https://www.wired.com/story/horses-the-most-controversial-game-of-the-year-doesnt-live-up-to-the-hype/)
+ - [Star Wars’ original theatrical cut returns to theaters in 2027](https://www.theverge.com/news/839434/disney-star-wars-original-theatrical-cut-theaters-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
