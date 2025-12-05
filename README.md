@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mysterious missile defense game PVKK named one of our most anticipated games in this year&#39;s PC Gaming Show: Most Wanted](https://www.pcgamer.com/gaming-industry/events-conferences/pvkk-is-our-20th-most-wanted-game-and-this-new-trailer-shows-how-unquestioningly-following-orders-can-lead-to-shooting-down-santa-claus/)
- - [Here’s Why You’re &lpar;Probably&rpar; Not Finding Blueprints In Arc Raiders](https://kotaku.com/arc-raiders-blueprint-locations-night-raid-map-2000650966)
- - [A New Postal Game Was Announced, Then Canceled Over AI Slop, Within Just 48 Hours](https://kotaku.com/postal-bullet-paradise-running-with-scissors-ai-canceled-2000650949)<!-- GAME:END -->
+ - [How to save in Metroid Prime 4: Beyond](https://www.polygon.com/metroid-prime-4-how-to-save/)
+ - [Magic: The Gathering&#39;s Avatar crossover needs a Legend of Korra Secret Lair](https://www.polygon.com/magic-the-gathering-avatar-legend-of-korra-secret-lair-superdrop/)
+ - [What to expect from The Game Awards 2025: What&#39;s rumored to be there, what&#39;s already confirmed, and what we think is taking home GOTY](https://www.pcgamer.com/gaming-industry/what-to-expect-from-the-game-awards-2025-whats-rumored-to-be-there-whats-already-confirmed-and-what-we-think-is-taking-home-goty/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
