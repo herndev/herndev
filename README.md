@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Who is Yuta Okkotsu? Jujutsu Kaisen: Execution&#39;s surprising villain, explained](https://www.polygon.com/yuta-okkotsu-explained-jujutsu-kaisen-execution-season-3/)
- - [How to Buy a Digital Game as a Gift This Holiday](https://news.xbox.com/en-us/2025/12/05/how-to-buy-a-digital-game-as-a-gift-this-holiday-2025/)
- - [Todd Howard says that the Fallout franchise is &#39;a cautionary tale&#39;, and that &#39;that world before the bombs fall&#39; is what makes it so special](https://www.pcgamer.com/games/fallout/todd-howard-says-that-the-fallout-franchise-is-a-cautionary-tale-and-that-that-world-before-the-bombs-fall-is-what-makes-it-so-special/)<!-- GAME:END -->
+ - [LEGO Holds Star Wars Jango Fett’s Starship at Its Black Friday Low to Move Holiday Stock](https://kotaku.com/lego-holds-star-wars-jango-fetts-starship-at-its-black-friday-low-to-move-holiday-stock-2000650845)
+ - [Pluribus episode 6 explained: Vince Gilligan talks HDP, John Cena, and more](https://www.polygon.com/pluribus-episode-6-explained-vince-gilligan-interview/)
+ - [The TV show based on Total War was tricking us all along: &#39;It&#39;s kind of embarrassing, but it&#39;s television&#39;](https://www.pcgamer.com/games/strategy/the-tv-show-based-on-total-war-was-tricking-us-all-along-its-kind-of-embarrassing-but-its-television/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
