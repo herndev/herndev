@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU fines X €120M for breaching online content rules, the first fine under the DSA, citing issues including the deceptive design of its blue checkmarks &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/251205/p12#a251205p12)
- - [Quick settings overhaul, floating pill buttons, and more leaked for Samsung’s next phone update](https://www.androidauthority.com/one-ui-8-5-leaked-build-features-3622472/)
- - [Your Samsung phone may soon read your PDFs before you do](https://www.androidauthority.com/samsung-one-ui-my-files-short-summary-apk-teardown-3622518/)<!-- TECH:END -->
+ - [Samsung’s My Files might soon know when you’re on vacation — and act on it](https://www.androidauthority.com/samsung-one-ui-my-files-vacation-storage-apk-teardown-3622581/)
+ - [Alan Dye &amp; John Giannandrea are leaving Apple on this week&#39;s AppleInsider Podcast](https://appleinsider.com/articles/25/12/05/alan-dye-john-giannandrea-are-leaving-apple-on-this-weeks-appleinsider-podcast?utm_source=rss)
+ - [Your Pixel phone can now be used as a webcam for the Nintendo Switch 2](https://www.androidauthority.com/pixel-phone-as-switch-2-webcam-3622443/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
