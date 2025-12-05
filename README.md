@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [It\u2019s always the Aussies.](http://9gag.com/gag/abALxBX)
- - ⏩ [Perfectly balanced..](http://9gag.com/gag/a87v236)
- - 👉 [Her cooking skills are unmatched](http://9gag.com/gag/aQzD2Gz)<!-- MEMES:END -->
+ - ⏩ [Happens to everyone pal](http://9gag.com/gag/agmp2Zw)
+ - 👉 [The council of men approves](http://9gag.com/gag/avyBv8q)<!-- MEMES:END -->
 
 ---
 
