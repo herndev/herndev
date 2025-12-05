@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prediction Machine](http://9gag.com/gag/a34zWd3)
- - ⏩ [Food is not a drug, but that cheese pull is addictive](http://9gag.com/gag/aE0jDBo)
- - 👉 [Do I need new tyres, or can these bad boys roll a bit longer?](http://9gag.com/gag/aqyVWGR)<!-- MEMES:END -->
+ - 💣 [Well said, lady](http://9gag.com/gag/apRnPeB)
+ - ⏩ [Perfectly balanced..](http://9gag.com/gag/a87v236)
+ - 👉 [Should we tell her?](http://9gag.com/gag/aryDZwV)<!-- MEMES:END -->
 
 ---
 
