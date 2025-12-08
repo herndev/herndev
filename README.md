@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
- - ⏩ [Respect](http://9gag.com/gag/a5Q9xZr)
- - 👉 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)<!-- MEMES:END -->
+ - 💣 [Its crazy to me that the right way to preserve paper posters... involves soap and water...](http://9gag.com/gag/aqyVdVM)
+ - ⏩ [When you come home happy from your fulfilling work](http://9gag.com/gag/a6ZexR9)
+ - 👉 [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)<!-- MEMES:END -->
 
 ---
 
