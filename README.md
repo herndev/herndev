@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lenovo Ryzen 5 Gaming Laptop Drops 65% to a Budget-Tablet Low After Holding Its Price All Season Long](https://kotaku.com/lenovo-ryzen-5-gaming-laptop-drops-65-to-a-budget-tablet-low-after-holding-its-price-all-season-long-2000651210)
- - [Dungeons &amp; Dragons &lpar;2000&rpar; was a passion project turned cinematic disaster](https://www.polygon.com/dungeons-dragons-movie-2000-retrospective-disaster/)
- - [Beyerdynamic DT 270 Pro review](https://www.pcgamer.com/hardware/earbuds-headphones/beyerdynamic-dt-270-pro-review/)<!-- GAME:END -->
+ - [Starsand Island is a warm, familiar farming sim hug that comes with all of the weird jank that seems to haunt 3D cosy games](https://www.pcgamer.com/games/sim/starsand-island-is-a-warm-familiar-farming-sim-hug-that-comes-with-all-of-the-weird-jank-that-seems-to-haunt-3d-cosy-games/)
+ - [Bose QuietComfort Headphones Hold a 49% Off Record Low, Now Over 3× Cheaper Than AirPods Max](https://kotaku.com/bose-quietcomfort-headphones-hold-a-49-off-record-low-now-over-3x-cheaper-than-airpods-max-2000651206)
+ - [Tekken boss Katsuhiro Harada to leave Bandai Namco after more than 30 years](https://www.polygon.com/tekken-boss-katsuhiro-harada-leaves-bandai-namco-techno-mix/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
