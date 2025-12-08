@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Skateboarding is better in hell](https://www.theverge.com/games/840004/skate-story-review-switch-steam-ps5)
- - [Apple Car Key is coming to Rivian&#39;s electric vehicles, no sign of CarPlay](https://appleinsider.com/articles/25/12/08/apple-car-key-is-coming-to-rivians-electric-vehicles-no-sign-of-carplay?utm_source=rss)
- - [NextEra Energy expands its partnership with Google Cloud to develop data centre campuses across the US and secures 2.5+ GW of clean energy contracts from Meta &lpar;Vallari Srivastava/Reuters&rpar;](http://www.techmeme.com/251208/p24#a251208p24)<!-- TECH:END -->
+ - [I tried Google’s 3 new Android XR glasses prototypes, and they’re incredible](https://www.androidauthority.com/android-xr-glasses-prototypes-3622952/)
+ - [Project Aura puts the Galaxy XR experience into a pair of lightweight glasses](https://www.androidauthority.com/xreal-project-aura-showcase-3623190/)
+ - [Google’s big XR push kicks off with three different types of smart glasses](https://www.androidauthority.com/google-android-xr-headset-roadmap-3623062/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
