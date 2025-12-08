@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Does the term ‘sideloading’ upset you?](https://www.androidauthority.com/android-sideloading-open-thread-3623088/)
- - [Users of ByteDance&#39;s agentic AI phone Nubia M153 report that its Doubao assistant is blocked or limited by Tencent&#39;s WeChat, Alibaba&#39;s Taobao, and other apps &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/251208/p10#a251208p10)
- - [Samsung’s next update could make managing morning alarms much easier](https://www.androidauthority.com/samsung-one-ui-now-bar-clock-app-support-voice-recorder-redesign-3623072/)<!-- TECH:END -->
+ - [Stop, Shop, and Scroll](https://www.theverge.com/cs/features/836456/influencers-tiktok-debt-shopaganda)
+ - [Wedbush raises its Apple price target to $350 over AI expectations and staff changes](https://appleinsider.com/articles/25/12/08/wedbush-raises-its-apple-price-target-to-350-over-ai-expectations-and-staff-changes?utm_source=rss)
+ - [Infinix × PUBG MOBILE: A New Era of Esports Resonance from Africa](https://www.androidauthority.com/infinix-x-pubg-mobile-esports-africa-3622434/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
