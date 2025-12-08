@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Protecting Play: The Defense Matrix of Overwatch 2](https://news.xbox.com/en-us/2025/12/08/overwatch-2-defense-matrix-cheating-fair-play/)
- - [Watch Pokémon And Yu-Gi-Oh’s Heroes Duke It Out In A Pure ’90s Nostalgia Bomb](https://kotaku.com/death-battle-ash-ketchum-pokemon-yugi-moto-yugioh-video-2000651417)
- - [Hideo Kojima says Death Stranding was &#39;too unique&#39;, OD&#39;s going to be &#39;completely different&#39;, but Physint&#39;s an espionage game so &#39;you can make it in your sleep&#39;](https://www.pcgamer.com/games/hideo-kojima-says-death-stranding-was-too-unique-ods-going-to-be-completely-different-but-physints-an-espionage-game-so-you-can-make-it-in-your-sleep/)<!-- GAME:END -->
+ - [Skate Story review: a fine skating game with a big message about art](https://www.polygon.com/skate-story-gets-that-skateboarding-is-art/)
+ - [The PC Gamer gift guide: Our favorite hardware](https://www.pcgamer.com/hardware/the-pc-gamer-gift-guide-our-favorite-hardware/)
+ - [Sheetz&#39;s new gamer program entices players with rewards](https://www.polygon.com/sheetz-launches/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
