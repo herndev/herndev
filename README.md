@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
- - ⏩ [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
- - 👉 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)<!-- MEMES:END -->
+ - 💣 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
+ - ⏩ [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
+ - 👉 [Respect](http://9gag.com/gag/a5Q9xZr)<!-- MEMES:END -->
 
 ---
 
