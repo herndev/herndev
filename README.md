@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Skate Story review: a fine skating game with a big message about art](https://www.polygon.com/skate-story-gets-that-skateboarding-is-art/)
- - [The PC Gamer gift guide: Our favorite hardware](https://www.pcgamer.com/hardware/the-pc-gamer-gift-guide-our-favorite-hardware/)
- - [Sheetz&#39;s new gamer program entices players with rewards](https://www.polygon.com/sheetz-launches/)<!-- GAME:END -->
+ - [7 Things To Know Before Playing Metroid Prime 4: Beyond](https://kotaku.com/seven-things-to-know-before-playing-metroid-prime-4-beyond-switch-2-guide-2000651384)
+ - [A Sneak Peek at “Samurai Space Opera” Sol Shogunate Coming to Xbox](https://news.xbox.com/en-us/2025/12/08/sneak-peek-at-sol-shogunate/)
+ - [Nightreign&#39;s Forsaken Hollows DLC makes Elden Ring: Shadow of the Erdtree seem easy](https://www.polygon.com/elden-ring-nightreign-forsaken-hollows-dlc-difficulty-balancers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
