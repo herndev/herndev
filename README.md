@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Frieren: Beyond Journey&#39;s End season 2 gets a release date](https://www.polygon.com/frieren-season-2-release-date-january-2026/)
  - [There&#39;s a mod that lets you play Hades 1 in Hades 2](https://www.pcgamer.com/games/action/theres-a-mod-that-lets-you-play-hades-1-in-hades-2/)
- - [Statistics prove everyone is T-posing for dominance in Elden Ring Nightreign, the feared Bell Bearing Hunter is only the fourth-deadliest field boss, and nobody plays Guardian](https://www.pcgamer.com/games/roguelike/statistics-prove-everyone-is-t-posing-for-dominance-in-elden-ring-nightreign-the-feared-bell-bearing-hunter-is-only-the-fourth-deadliest-field-boss-and-nobody-plays-guardian/)
- - [Team Fortress 2 Classic is now Team Fortress 2 Classified, has been delayed to January 30: &#39;it wouldn&#39;t be an authentic TF2 experience without a bit of Valve time&#39;](https://www.pcgamer.com/games/fps/team-fortress-2-classic-is-now-team-fortress-2-classified-has-been-delayed-to-january-30-it-wouldnt-be-an-authentic-tf2-experience-without-a-bit-of-valve-time/)<!-- GAME:END -->
+ - [Statistics prove everyone is T-posing for dominance in Elden Ring Nightreign, the feared Bell Bearing Hunter is only the fourth-deadliest field boss, and nobody plays Guardian](https://www.pcgamer.com/games/roguelike/statistics-prove-everyone-is-t-posing-for-dominance-in-elden-ring-nightreign-the-feared-bell-bearing-hunter-is-only-the-fourth-deadliest-field-boss-and-nobody-plays-guardian/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
