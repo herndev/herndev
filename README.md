@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role Campaign 4&#39;s new D&amp;D house rules drastically improve combat for the players](https://www.polygon.com/critical-role-campaign-4-episode-8-house-rules-combat/)
- - [Tailored Realities preview: Brandon Sanderson&#39;s new short story collection dives into science fiction](https://www.polygon.com/brandon-sanderson-tailored-realities-excerpt/)
- - [Skate Story review](https://www.pcgamer.com/games/sports/skate-story-review/)<!-- GAME:END -->
+ - [Protecting Play: The Defense Matrix of Overwatch 2](https://news.xbox.com/en-us/2025/12/08/overwatch-2-defense-matrix-cheating-fair-play/)
+ - [Watch Pokémon And Yu-Gi-Oh’s Heroes Duke It Out In A Pure ’90s Nostalgia Bomb](https://kotaku.com/death-battle-ash-ketchum-pokemon-yugi-moto-yugioh-video-2000651417)
+ - [Hideo Kojima says Death Stranding was &#39;too unique&#39;, OD&#39;s going to be &#39;completely different&#39;, but Physint&#39;s an espionage game so &#39;you can make it in your sleep&#39;](https://www.pcgamer.com/games/hideo-kojima-says-death-stranding-was-too-unique-ods-going-to-be-completely-different-but-physints-an-espionage-game-so-you-can-make-it-in-your-sleep/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
