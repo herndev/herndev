@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Letterboxd plans to launch its Video Store film rental platform on December 10, offering curated indie titles in 23 countries, including the US, UK, and France &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251208/p36#a251208p36)
- - [Pebble teaser hints at a mystery launch happening tomorrow](https://www.androidauthority.com/new-pebble-smartwatch-teaser-3623280/)
- - [Want the Best Way to Brew Coffee? Use This Expert-Approved Method](https://www.cnet.com/news/best-way-brew-coffee/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [President Trump says the US will allow Nvidia to ship H200 chips to &quot;approved customers&quot; in China and elsewhere, and that Xi Jinping &quot;responded positively&quot; &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/251208/p38#a251208p38)
+ - [Trump Says He&#39;ll Sign Executive Order Preempting State AI Regulations](https://www.cnet.com/tech/services-and-software/trump-executive-order-preempts-state-ai-regulations/#ftag=CAD590a51e)
+ - [Your YouTube Recap personality might be rarer than you think](https://www.androidauthority.com/how-rare-youtube-recap-personality-3623345/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
