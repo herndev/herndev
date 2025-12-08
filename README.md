@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Police in Edmonton, Canada partner with Axon to test body cameras with AI facial recognition, and say the results will be verified by human officers &lpar;Associated Press&rpar;](http://www.techmeme.com/251208/p7#a251208p7)
- - [Google says Gemini 3 Pro sets new vision AI benchmark records, including in complex visual reasoning, beating Claude Opus 4.5 and GPT-5.1 in some categories &lpar;Rohan Doshi/The Keyword&rpar;](http://www.techmeme.com/251208/p6#a251208p6)
- - [An interview with 10 Kenyan AI annotators shows Chinese companies hire data labelers via opaque middleman networks and WhatsApp groups to avoid accountability &lpar;Rest of World&rpar;](http://www.techmeme.com/251208/p5#a251208p5)<!-- TECH:END -->
+ - [Does the term ‘sideloading’ upset you?](https://www.androidauthority.com/android-sideloading-open-thread-3623088/)
+ - [Users of ByteDance&#39;s agentic AI phone Nubia M153 report that its Doubao assistant is blocked or limited by Tencent&#39;s WeChat, Alibaba&#39;s Taobao, and other apps &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/251208/p10#a251208p10)
+ - [Samsung’s next update could make managing morning alarms much easier](https://www.androidauthority.com/samsung-one-ui-now-bar-clock-app-support-voice-recorder-redesign-3623072/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
