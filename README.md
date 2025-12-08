@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at an &quot;etiquette camp&quot; for young founders in San Francisco, which teaches them how to dress, act, and talk, amid shifting expectations for tech founders &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/251207/p15#a251207p15)
  - [Impressions from a test ride in London in a car using Wayve&#39;s self-driving tech; Wayve has raised $1.3B since launch and is testing cars with Level 2+ autonomy &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/251207/p14#a251207p14)
- - [You need to watch the modern horror masterpiece, His House](https://www.theverge.com/entertainment/839753/watch-modern-horror-masterpiece-his-house)
- - [President Trump says Netflix&#39;s planned acquisition of WBD will have &quot;to go through a process&quot; and he will be personally involved in the decision-making process &lpar;Bloomberg&rpar;](http://www.techmeme.com/251207/p13#a251207p13)<!-- TECH:END -->
+ - [You need to watch the modern horror masterpiece, His House](https://www.theverge.com/entertainment/839753/watch-modern-horror-masterpiece-his-house)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
