@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Respect](http://9gag.com/gag/a5Q9xZr)
- - ⏩ [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
- - 👉 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)<!-- MEMES:END -->
+ - ⏩ [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
+ - 👉 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)<!-- MEMES:END -->
 
 ---
 
