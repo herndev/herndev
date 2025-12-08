@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: IBM is in advanced talks to buy data streaming software maker Confluent for ~$11B, above its market value of ~$8B as of December 5 close &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/251207/p16#a251207p16)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 8, #441](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-8-441/#ftag=CAD590a51e)
- - [Nothing reportedly halts Nothing OS 4.0 rollout for ‘urgent fix’](https://www.androidauthority.com/nothing-os-4-0-rollout-paused-3623014/)<!-- TECH:END -->
+ - [Here’s your first look at the slick animation for Android’s NameDrop-style contact sharing feature](https://www.androidauthority.com/android-name-drop-contact-sharing-animation-3623020/)
+ - [How &quot;cash to crypto&quot; swaps allow users everywhere to convert national currencies to stablecoins and then debit cards, avoiding financial oversight and sanctions &lpar;Aaron Krolik/New York Times&rpar;](http://www.techmeme.com/251208/p1#a251208p1)
+ - [Sources: IBM is in advanced talks to buy data streaming software maker Confluent for ~$11B, above its market value of ~$8B as of December 5 close &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/251207/p16#a251207p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
