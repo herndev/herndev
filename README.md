@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
  - ⏩ [Respect](http://9gag.com/gag/a5Q9xZr)
- - 👉 [Something About Market Caps](http://9gag.com/gag/aYQvR52)<!-- MEMES:END -->
+ - 👉 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)<!-- MEMES:END -->
 
 ---
 
