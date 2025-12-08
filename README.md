@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At an ocean aquarium, a man kept smoking even after staff tried to stop him](http://9gag.com/gag/aYQvn4O)
- - ⏩ [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
- - 👉 [Not a single lie was spoken](http://9gag.com/gag/ajP3dbp)<!-- MEMES:END -->
+ - 💣 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
+ - ⏩ [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
+ - 👉 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)<!-- MEMES:END -->
 
 ---
 
