@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)
- - ⏩ [She&#39;s a vampire, but I can&#39;t prove it\u2026](http://9gag.com/gag/aAyLZzL)
- - 👉 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)<!-- MEMES:END -->
+ - 💣 [At an ocean aquarium, a man kept smoking even after staff tried to stop him](http://9gag.com/gag/aYQvn4O)
+ - ⏩ [I wouldn&#39;t expect any less](http://9gag.com/gag/an70V0B)
+ - 👉 [Not a single lie was spoken](http://9gag.com/gag/ajP3dbp)<!-- MEMES:END -->
 
 ---
 
