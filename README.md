@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starsand Island is a warm, familiar farming sim hug that comes with all of the weird jank that seems to haunt 3D cosy games](https://www.pcgamer.com/games/sim/starsand-island-is-a-warm-familiar-farming-sim-hug-that-comes-with-all-of-the-weird-jank-that-seems-to-haunt-3d-cosy-games/)
- - [Bose QuietComfort Headphones Hold a 49% Off Record Low, Now Over 3× Cheaper Than AirPods Max](https://kotaku.com/bose-quietcomfort-headphones-hold-a-49-off-record-low-now-over-3x-cheaper-than-airpods-max-2000651206)
- - [Tekken boss Katsuhiro Harada to leave Bandai Namco after more than 30 years](https://www.polygon.com/tekken-boss-katsuhiro-harada-leaves-bandai-namco-techno-mix/)<!-- GAME:END -->
+ - [Bose Extends Its Clearance Push From Headphones to Home Speakers, Leaving Zero Margin Behind](https://kotaku.com/bose-extends-its-clearance-push-from-headphones-to-home-speakers-leaving-zero-margin-behind-2000651213)
+ - [Tekken Director Katsuhiro Harada Is Leaving Bandai Namco After 31 Years](https://kotaku.com/tekken-director-bandai-namco-katsuhiro-harada-leaves-2000651368)
+ - [LEGO Pushes Star Wars Millennium Falcon to a Record Low to Offload the Last Remaining Stock Before Christmas](https://kotaku.com/lego-pushes-star-wars-millennium-falcon-to-a-record-low-to-offload-the-last-remaining-stock-before-christmas-2000651151)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
