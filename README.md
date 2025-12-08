@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stop, Shop, and Scroll](https://www.theverge.com/cs/features/836456/influencers-tiktok-debt-shopaganda)
- - [Wedbush raises its Apple price target to $350 over AI expectations and staff changes](https://appleinsider.com/articles/25/12/08/wedbush-raises-its-apple-price-target-to-350-over-ai-expectations-and-staff-changes?utm_source=rss)
- - [Infinix × PUBG MOBILE: A New Era of Esports Resonance from Africa](https://www.androidauthority.com/infinix-x-pubg-mobile-esports-africa-3622434/)<!-- TECH:END -->
+ - [Black strap gives hope for new Apple Vision Pro colors](https://appleinsider.com/articles/25/12/08/black-strap-gives-hope-for-new-apple-vision-pro-colors?utm_source=rss)
+ - [How the creator economy destroyed the internet](https://www.theverge.com/cs/features/810002/influencers-creator-economy-special-series)
+ - [Apple Manufacturing Academy goes nationwide with new online training](https://appleinsider.com/articles/25/12/08/apple-manufacturing-academy-goes-nationwide-with-new-online-training?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
