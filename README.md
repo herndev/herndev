@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase reopens app registration in India after an over-two-year pause, letting users make crypto-to-crypto trades, and plans to open up crypto buying in 2026 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251208/p4#a251208p4)
- - [Inside the creation of AI actress Tilly Norwood, which included 2,000 iterations; Particle6, its creator, says it has ~60 NDAs for projects involving Tilly &lpar;Ellen Gamerman/Wall Street Journal&rpar;](http://www.techmeme.com/251208/p3#a251208p3)
- - [OnePlus temporarily pulls AI tool after censorship claims](https://www.androidauthority.com/oneplus-ai-writer-censorship-technical-issue-3623046/)<!-- TECH:END -->
+ - [Police in Edmonton, Canada partner with Axon to test body cameras with AI facial recognition, and say the results will be verified by human officers &lpar;Associated Press&rpar;](http://www.techmeme.com/251208/p7#a251208p7)
+ - [Google says Gemini 3 Pro sets new vision AI benchmark records, including in complex visual reasoning, beating Claude Opus 4.5 and GPT-5.1 in some categories &lpar;Rohan Doshi/The Keyword&rpar;](http://www.techmeme.com/251208/p6#a251208p6)
+ - [An interview with 10 Kenyan AI annotators shows Chinese companies hire data labelers via opaque middleman networks and WhatsApp groups to avoid accountability &lpar;Rest of World&rpar;](http://www.techmeme.com/251208/p5#a251208p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
