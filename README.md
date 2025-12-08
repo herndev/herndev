@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Trump says Netflix&#39;s planned acquisition of WBD will have &quot;to go through a process&quot; and he will be personally involved in the decision-making process &lpar;Bloomberg&rpar;](http://www.techmeme.com/251207/p13#a251207p13)
  - [An interview with Headspace CEO Tom Pickett on its AI chatbot Ebb, which he insists isn&#39;t for serious mental health issues, Ebb&#39;s upgrade to voice, and more &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/251207/p12#a251207p12)
- - [Netflix CEO made a visit to the White House before buying Warner Bros.](https://www.theverge.com/news/839749/netflix-ceo-visit-white-house-warner-bros)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 8, #911](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-8-911/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix CEO made a visit to the White House before buying Warner Bros.](https://www.theverge.com/news/839749/netflix-ceo-visit-white-house-warner-bros)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
