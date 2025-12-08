@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
- - ⏩ [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
- - 👉 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)<!-- MEMES:END -->
+ - 💣 [Not a single lie was spoken](http://9gag.com/gag/ajP3dbp)
+ - ⏩ [I like the southern accent](http://9gag.com/gag/aLnONQv)
+ - 👉 [Shocking footage of 7.5 magnitude earthquake in Japan](http://9gag.com/gag/a34zp97)<!-- MEMES:END -->
 
 ---
 
