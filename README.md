@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Square’s product chief on the death of the penny and the future of money](https://www.theverge.com/podcast/839062/square-product-chief-willem-ave-block-jack-dorsey-ai-bitcoin-crypto)
- - [Apple Fitness+ expands to 28 new countries with AI dubbing](https://appleinsider.com/articles/25/12/08/apple-fitness-expands-to-28-new-countries-with-ai-dubbing?utm_source=rss)
- - [Paramount launches a hostile $108 billion bid to snatch Warner from Netflix](https://www.theverge.com/news/839813/paramount-skydance-warner-bros-discovery-hostile-takeover-bid)<!-- TECH:END -->
+ - [The Verge subscription turns one](https://www.theverge.com/bulletin/839889/the-verge-subscription-turns-one)
+ - [Sources: Skild AI, which develops a foundational model for robots, is in talks to raise $1B+ from SoftBank and Nvidia at a $14B valuation, up from $4.7B in July &lpar;Reuters&rpar;](http://www.techmeme.com/251208/p21#a251208p21)
+ - [Aqara Siri integration, Chamberlain goes anti-smart home, and two new reviews on HomeKit Insider](https://appleinsider.com/articles/25/12/08/aqara-siri-integration-chamberlain-goes-anti-smart-home-and-two-new-reviews-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
