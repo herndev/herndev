@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
+ - 💣 [Shocking footage of 7.5 magnitude earthquake in Japan](http://9gag.com/gag/a34zp97)
  - ⏩ [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
- - 👉 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)<!-- MEMES:END -->
+ - 👉 [Didn&#39;t even know it has a name](http://9gag.com/gag/aAyLZQg)<!-- MEMES:END -->
 
 ---
 
