@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black strap gives hope for new Apple Vision Pro colors](https://appleinsider.com/articles/25/12/08/black-strap-gives-hope-for-new-apple-vision-pro-colors?utm_source=rss)
- - [How the creator economy destroyed the internet](https://www.theverge.com/cs/features/810002/influencers-creator-economy-special-series)
- - [Apple Manufacturing Academy goes nationwide with new online training](https://appleinsider.com/articles/25/12/08/apple-manufacturing-academy-goes-nationwide-with-new-online-training?utm_source=rss)<!-- TECH:END -->
+ - [Segway’s new Myon e-bike will straddle past and future](https://www.theverge.com/news/839169/segway-myon-ebike-teaser-ces-radar)
+ - [India&#39;s Tata Electronics signs up Intel as the first prospective client for its upcoming chip facilities; Tata is investing ~$14B to build in Gujarat and Assam &lpar;Nandan Mandayam/Reuters&rpar;](http://www.techmeme.com/251208/p16#a251208p16)
+ - [Light up your house the right way this holiday season with Philips Hue](https://www.androidauthority.com/philips-hue-deals-3622996/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
