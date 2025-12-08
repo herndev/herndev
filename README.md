@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried Google’s 3 new Android XR glasses prototypes, and they’re incredible](https://www.androidauthority.com/android-xr-glasses-prototypes-3622952/)
- - [Project Aura puts the Galaxy XR experience into a pair of lightweight glasses](https://www.androidauthority.com/xreal-project-aura-showcase-3623190/)
- - [Google’s big XR push kicks off with three different types of smart glasses](https://www.androidauthority.com/google-android-xr-headset-roadmap-3623062/)<!-- TECH:END -->
+ - [Android Canary’s December build has arrived for the biggest Pixel enthusiasts](https://www.androidauthority.com/android-canary-2512-3623286/)
+ - [Samsung&#39;s Galaxy XR gets beta support for Google&#39;s realistic avatar system for video calls, a Travel Mode, and a built-in PC remote desktop feature &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/251208/p30#a251208p30)
+ - [For the First Time, Mutations in a Single Gene Have Been Linked to Mental Illness](https://www.wired.com/story/mutations-in-a-single-gene-have-been-linked-to-mental-illness/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
