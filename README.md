@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Canary’s December build has arrived for the biggest Pixel enthusiasts](https://www.androidauthority.com/android-canary-2512-3623286/)
- - [Samsung&#39;s Galaxy XR gets beta support for Google&#39;s realistic avatar system for video calls, a Travel Mode, and a built-in PC remote desktop feature &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/251208/p30#a251208p30)
- - [For the First Time, Mutations in a Single Gene Have Been Linked to Mental Illness](https://www.wired.com/story/mutations-in-a-single-gene-have-been-linked-to-mental-illness/)<!-- TECH:END -->
+ - [Anthropic launches a Slack integration for Claude Code, expanding on the existing Claude app for Slack, launching in beta as a research preview &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/251208/p35#a251208p35)
+ - [Apple and Google&#39;s iPhone-Android switching update starts to roll out](https://appleinsider.com/articles/25/12/08/apple-and-googles-iphone-android-switching-update-starts-to-roll-out?utm_source=rss)
+ - [Australian age-check law pulls Apple deeper into platform governance](https://appleinsider.com/articles/25/12/08/australian-age-check-law-pulls-apple-deeper-into-platform-governance?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
