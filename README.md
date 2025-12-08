@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [There&#39;s a mod that lets you play Hades 1 in Hades 2](https://www.pcgamer.com/games/action/theres-a-mod-that-lets-you-play-hades-1-in-hades-2/)
  - [Statistics prove everyone is T-posing for dominance in Elden Ring Nightreign, the feared Bell Bearing Hunter is only the fourth-deadliest field boss, and nobody plays Guardian](https://www.pcgamer.com/games/roguelike/statistics-prove-everyone-is-t-posing-for-dominance-in-elden-ring-nightreign-the-feared-bell-bearing-hunter-is-only-the-fourth-deadliest-field-boss-and-nobody-plays-guardian/)
- - [Team Fortress 2 Classic is now Team Fortress 2 Classified, has been delayed to January 30: &#39;it wouldn&#39;t be an authentic TF2 experience without a bit of Valve time&#39;](https://www.pcgamer.com/games/fps/team-fortress-2-classic-is-now-team-fortress-2-classified-has-been-delayed-to-january-30-it-wouldnt-be-an-authentic-tf2-experience-without-a-bit-of-valve-time/)
- - [Five new Steam games you probably missed &lpar;December 8, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-december-8-2025/)<!-- GAME:END -->
+ - [Team Fortress 2 Classic is now Team Fortress 2 Classified, has been delayed to January 30: &#39;it wouldn&#39;t be an authentic TF2 experience without a bit of Valve time&#39;](https://www.pcgamer.com/games/fps/team-fortress-2-classic-is-now-team-fortress-2-classified-has-been-delayed-to-january-30-it-wouldnt-be-an-authentic-tf2-experience-without-a-bit-of-valve-time/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
