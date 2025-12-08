@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout executive producer confirms season 3 should start filming next summer: &#39;We&#39;ll see if that all comes together&#39;](https://www.pcgamer.com/games/fallout/fallout-executive-producer-confirms-season-3-should-start-filming-next-summer-well-see-if-that-all-comes-together/)
- - [Celebrate 25 years of one of the best strategy series in gaming with our tricky Total War quiz](https://www.pcgamer.com/games/strategy/celebrate-25-years-of-one-of-the-best-strategy-series-in-gaming-with-our-tricky-total-war-quiz/)
- - [Overwatch 2 Season 20 release time and roadmap](https://www.pcgamer.com/games/fps/overwatch-2-season-20-release-date-roadmap/)<!-- GAME:END -->
+ - [Lenovo Ryzen 5 Gaming Laptop Drops 65% to a Budget-Tablet Low After Holding Its Price All Season Long](https://kotaku.com/lenovo-ryzen-5-gaming-laptop-drops-65-to-a-budget-tablet-low-after-holding-its-price-all-season-long-2000651210)
+ - [Dungeons &amp; Dragons &lpar;2000&rpar; was a passion project turned cinematic disaster](https://www.polygon.com/dungeons-dragons-movie-2000-retrospective-disaster/)
+ - [Beyerdynamic DT 270 Pro review](https://www.pcgamer.com/hardware/earbuds-headphones/beyerdynamic-dt-270-pro-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
