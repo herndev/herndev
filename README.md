@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To everyone who\u2019s been broken and still stands \u2014 You are the quiet heroes of this world.You\u2019re stronger than everything that tried to stop you](http://9gag.com/gag/aPAVXLq)
- - ⏩ [LoTR](http://9gag.com/gag/aO8nPVr)
- - 👉 [Bankai](http://9gag.com/gag/abAL2Ep)<!-- MEMES:END -->
+ - 💣 [I was there... I dit it](http://9gag.com/gag/avyBDdX)
+ - ⏩ [Okay Computer Programmers Start coding We Need This Now](http://9gag.com/gag/avyBDXO)
+ - 👉 [Its crazy to me that the right way to preserve paper posters... involves soap and water...](http://9gag.com/gag/aqyVdVM)<!-- MEMES:END -->
 
 ---
 
