@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was there... I dit it](http://9gag.com/gag/avyBDdX)
- - ⏩ [Okay Computer Programmers Start coding We Need This Now](http://9gag.com/gag/avyBDXO)
- - 👉 [Its crazy to me that the right way to preserve paper posters... involves soap and water...](http://9gag.com/gag/aqyVdVM)<!-- MEMES:END -->
+ - 💣 [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
+ - ⏩ [I never go to the movies anyway](http://9gag.com/gag/an70dV0)
+ - 👉 [Respect](http://9gag.com/gag/a5Q9xZr)<!-- MEMES:END -->
 
 ---
 
