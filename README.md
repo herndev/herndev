@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Overwatch 2 Season 20 release time and roadmap](https://www.pcgamer.com/games/fps/overwatch-2-season-20-release-date-roadmap/)
  - [Frieren: Beyond Journey&#39;s End season 2 gets a release date](https://www.polygon.com/frieren-season-2-release-date-january-2026/)
- - [There&#39;s a mod that lets you play Hades 1 in Hades 2](https://www.pcgamer.com/games/action/theres-a-mod-that-lets-you-play-hades-1-in-hades-2/)
- - [Statistics prove everyone is T-posing for dominance in Elden Ring Nightreign, the feared Bell Bearing Hunter is only the fourth-deadliest field boss, and nobody plays Guardian](https://www.pcgamer.com/games/roguelike/statistics-prove-everyone-is-t-posing-for-dominance-in-elden-ring-nightreign-the-feared-bell-bearing-hunter-is-only-the-fourth-deadliest-field-boss-and-nobody-plays-guardian/)<!-- GAME:END -->
+ - [There&#39;s a mod that lets you play Hades 1 in Hades 2](https://www.pcgamer.com/games/action/theres-a-mod-that-lets-you-play-hades-1-in-hades-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
