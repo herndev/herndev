@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Pathway, a startup developing an alternative to the transformer, aims to use its Dragon Hatchling architecture to create a new class of adaptive AI systems &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/251208/p2#a251208p2)
- - [The upcoming Motion Cues feature for Pixels just got a new name &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-motion-cues-pixels-new-name-apk-teardown-3623023/)
- - [30% Off Samsung Promo Code | December 2025](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
+ - [Coinbase reopens app registration in India after an over-two-year pause, letting users make crypto-to-crypto trades, and plans to open up crypto buying in 2026 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251208/p4#a251208p4)
+ - [Inside the creation of AI actress Tilly Norwood, which included 2,000 iterations; Particle6, its creator, says it has ~60 NDAs for projects involving Tilly &lpar;Ellen Gamerman/Wall Street Journal&rpar;](http://www.techmeme.com/251208/p3#a251208p3)
+ - [OnePlus temporarily pulls AI tool after censorship claims](https://www.androidauthority.com/oneplus-ai-writer-censorship-technical-issue-3623046/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
