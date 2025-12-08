@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Respect](http://9gag.com/gag/a5Q9xZr)
+ - 💣 [We need intolerance more than ever](http://9gag.com/gag/avyBD0X)
  - ⏩ [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
- - 👉 [I never go to the movies anyway](http://9gag.com/gag/an70dV0)<!-- MEMES:END -->
+ - 👉 [Respect](http://9gag.com/gag/a5Q9xZr)<!-- MEMES:END -->
 
 ---
 
