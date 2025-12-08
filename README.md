@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does The Finals Season 9 start?](https://www.polygon.com/the-finals-season-9-release-time-start/)
- - [Stranger Things Fans Blame Netflix For The Bad Dialogue In Season 5](https://kotaku.com/stranger-things-5-bad-dialogue-clips-video-will-mike-2000651378)
- - [Paramount tries to kill Netflix Warner Bros. deal](https://www.polygon.com/paramount-netflix-warner-bros-hostile-takeover/)<!-- GAME:END -->
+ - [Critical Role Campaign 4&#39;s new D&amp;D house rules drastically improve combat for the players](https://www.polygon.com/critical-role-campaign-4-episode-8-house-rules-combat/)
+ - [Tailored Realities preview: Brandon Sanderson&#39;s new short story collection dives into science fiction](https://www.polygon.com/brandon-sanderson-tailored-realities-excerpt/)
+ - [Skate Story review](https://www.pcgamer.com/games/sports/skate-story-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
