@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;December 8, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-december-8-2025/)
- - [Gaming collectible purveyor iam8bit is suing publisher Skybound over alleged fraud related to cat sim Stray](https://www.pcgamer.com/games/adventure/gaming-collectible-purveyor-iam8bit-is-suing-publisher-skybound-over-alleged-fraud-related-to-cat-sim-stray/)
- - [The creator of popular animated short The Backwater Gospel is making an FPS inspired by &#39;Half-Life and the golden age of narrative first person shooters&#39;](https://www.pcgamer.com/games/fps/the-creator-of-popular-animated-short-the-backwater-gospel-is-making-an-fps-inspired-by-half-life-and-the-golden-age-of-narrative-first-person-shooters/)<!-- GAME:END -->
+ - [Statistics prove everyone is T-posing for dominance in Elden Ring Nightreign, the feared Bell Bearing Hunter is only the fourth-deadliest field boss, and nobody plays Guardian](https://www.pcgamer.com/games/roguelike/statistics-prove-everyone-is-t-posing-for-dominance-in-elden-ring-nightreign-the-feared-bell-bearing-hunter-is-only-the-fourth-deadliest-field-boss-and-nobody-plays-guardian/)
+ - [Team Fortress 2 Classic is now Team Fortress 2 Classified, has been delayed to January 30: &#39;it wouldn&#39;t be an authentic TF2 experience without a bit of Valve time&#39;](https://www.pcgamer.com/games/fps/team-fortress-2-classic-is-now-team-fortress-2-classified-has-been-delayed-to-january-30-it-wouldnt-be-an-authentic-tf2-experience-without-a-bit-of-valve-time/)
+ - [Five new Steam games you probably missed &lpar;December 8, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-december-8-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
