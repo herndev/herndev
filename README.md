@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 Season 20 release time and roadmap](https://www.pcgamer.com/games/fps/overwatch-2-season-20-release-date-roadmap/)
- - [Frieren: Beyond Journey&#39;s End season 2 gets a release date](https://www.polygon.com/frieren-season-2-release-date-january-2026/)
- - [There&#39;s a mod that lets you play Hades 1 in Hades 2](https://www.pcgamer.com/games/action/theres-a-mod-that-lets-you-play-hades-1-in-hades-2/)<!-- GAME:END -->
+ - [Fallout executive producer confirms season 3 should start filming next summer: &#39;We&#39;ll see if that all comes together&#39;](https://www.pcgamer.com/games/fallout/fallout-executive-producer-confirms-season-3-should-start-filming-next-summer-well-see-if-that-all-comes-together/)
+ - [Celebrate 25 years of one of the best strategy series in gaming with our tricky Total War quiz](https://www.pcgamer.com/games/strategy/celebrate-25-years-of-one-of-the-best-strategy-series-in-gaming-with-our-tricky-total-war-quiz/)
+ - [Overwatch 2 Season 20 release time and roadmap](https://www.pcgamer.com/games/fps/overwatch-2-season-20-release-date-roadmap/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
