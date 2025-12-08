@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge rules Google must renegotiate annually any contract that makes its search engine or AI app the default on smartphones and other devices &lpar;Bloomberg&rpar;](http://www.techmeme.com/251205/p32#a251205p32)
- - [Forget the Galaxy Z TriFold, another major brand could launch its own model](https://www.androidauthority.com/xiaomi-trifold-certification-3622924/)
- - [WIRED Roundup: DOGE Isn’t Dead, Facebook Dating Is Real, and Amazon’s AI Ambitions](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-doge-facebook-dating-amazon-artificial-intelligence/)<!-- TECH:END -->
+ - [An interview with Headspace CEO Tom Pickett on its AI chatbot Ebb, which he insists isn&#39;t for serious mental health issues, Ebb&#39;s upgrade to voice, and more &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/251207/p12#a251207p12)
+ - [Netflix CEO made a visit to the White House before buying Warner Bros.](https://www.theverge.com/news/839749/netflix-ceo-visit-white-house-warner-bros)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 8, #911](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-8-911/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
