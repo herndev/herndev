@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Segway’s new Myon e-bike will straddle past and future](https://www.theverge.com/news/839169/segway-myon-ebike-teaser-ces-radar)
- - [India&#39;s Tata Electronics signs up Intel as the first prospective client for its upcoming chip facilities; Tata is investing ~$14B to build in Gujarat and Assam &lpar;Nandan Mandayam/Reuters&rpar;](http://www.techmeme.com/251208/p16#a251208p16)
- - [Light up your house the right way this holiday season with Philips Hue](https://www.androidauthority.com/philips-hue-deals-3622996/)<!-- TECH:END -->
+ - [Square’s product chief on the death of the penny and the future of money](https://www.theverge.com/podcast/839062/square-product-chief-willem-ave-block-jack-dorsey-ai-bitcoin-crypto)
+ - [Apple Fitness+ expands to 28 new countries with AI dubbing](https://appleinsider.com/articles/25/12/08/apple-fitness-expands-to-28-new-countries-with-ai-dubbing?utm_source=rss)
+ - [Paramount launches a hostile $108 billion bid to snatch Warner from Netflix](https://www.theverge.com/news/839813/paramount-skydance-warner-bros-discovery-hostile-takeover-bid)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
