@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge subscription turns one](https://www.theverge.com/bulletin/839889/the-verge-subscription-turns-one)
- - [Sources: Skild AI, which develops a foundational model for robots, is in talks to raise $1B+ from SoftBank and Nvidia at a $14B valuation, up from $4.7B in July &lpar;Reuters&rpar;](http://www.techmeme.com/251208/p21#a251208p21)
- - [Aqara Siri integration, Chamberlain goes anti-smart home, and two new reviews on HomeKit Insider](https://appleinsider.com/articles/25/12/08/aqara-siri-integration-chamberlain-goes-anti-smart-home-and-two-new-reviews-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
+ - [Skateboarding is better in hell](https://www.theverge.com/games/840004/skate-story-review-switch-steam-ps5)
+ - [Apple Car Key is coming to Rivian&#39;s electric vehicles, no sign of CarPlay](https://appleinsider.com/articles/25/12/08/apple-car-key-is-coming-to-rivians-electric-vehicles-no-sign-of-carplay?utm_source=rss)
+ - [NextEra Energy expands its partnership with Google Cloud to develop data centre campuses across the US and secures 2.5+ GW of clean energy contracts from Meta &lpar;Vallari Srivastava/Reuters&rpar;](http://www.techmeme.com/251208/p24#a251208p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
