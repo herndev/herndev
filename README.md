@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s your first look at the slick animation for Android’s NameDrop-style contact sharing feature](https://www.androidauthority.com/android-name-drop-contact-sharing-animation-3623020/)
- - [How &quot;cash to crypto&quot; swaps allow users everywhere to convert national currencies to stablecoins and then debit cards, avoiding financial oversight and sanctions &lpar;Aaron Krolik/New York Times&rpar;](http://www.techmeme.com/251208/p1#a251208p1)
- - [Sources: IBM is in advanced talks to buy data streaming software maker Confluent for ~$11B, above its market value of ~$8B as of December 5 close &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/251207/p16#a251207p16)<!-- TECH:END -->
+ - [How Pathway, a startup developing an alternative to the transformer, aims to use its Dragon Hatchling architecture to create a new class of adaptive AI systems &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/251208/p2#a251208p2)
+ - [The upcoming Motion Cues feature for Pixels just got a new name &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-motion-cues-pixels-new-name-apk-teardown-3623023/)
+ - [30% Off Samsung Promo Code | December 2025](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
