@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How i meet your mother](http://9gag.com/gag/adBW44j)
- - ⏩ [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
- - 👉 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)<!-- MEMES:END -->
+ - 💣 [I just find it amazing how we went from stone age humans to be able to do this with sand](http://9gag.com/gag/a87vQb6)
+ - ⏩ [Bamboozled](http://9gag.com/gag/a5Q9vMN)
+ - 👉 [True](http://9gag.com/gag/a2vAAWp)<!-- MEMES:END -->
 
 ---
 
