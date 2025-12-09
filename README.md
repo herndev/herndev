@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US CFTC launches a pilot program allowing BTC, ETH, and USDC to be used as collateral in US derivatives markets &lpar;CoinDesk&rpar;](http://www.techmeme.com/251208/p40#a251208p40)
- - [Netflix will continue licensing Warner Bros. hits to Apple TV](https://appleinsider.com/articles/25/12/08/netflix-will-continue-licensing-warner-bros-hits-to-apple-tv?utm_source=rss)
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [US lawmakers remove provisions in the National Defense Authorization Act for 2026 that would have ensured military members&#39; right to repair their own equipment &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/251208/p43#a251208p43)
+ - [Best Battery Life Laptops of 2025](https://www.cnet.com/tech/computing/best-battery-life-laptop/#ftag=CAD590a51e)
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
