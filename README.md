@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An overview of AI in 2025, including arguments for and against above-trend model capabilities growth, the state of evals, and the safety of reasoning models &lpar;Gavin Leech/LessWrong&rpar;](http://www.techmeme.com/251209/p4#a251209p4)
- - [Google and Apple team up to make switching between Android and iPhone easier &lpar;Updated&rpar;](https://www.androidauthority.com/google-apple-android-iphone-switching-3623422/)
- - [AI browsers, still far from making legacy browsers obsolete, are forcing web developers to rethink whether they are designing websites for humans or for robots &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251209/p3#a251209p3)<!-- TECH:END -->
+ - [Q&amp;A with Square product chief Willem Avé on Block&#39;s restructuring in 2024, AI automation, investing in crypto, the Lightning Network, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251209/p5#a251209p5)
+ - [This smartphone adds a microSD slot, removable battery, and more, but removes… Android?](https://www.androidauthority.com/new-jolla-phone-3623421/)
+ - [Pixel 10 users are facing another major display bug after the December update](https://www.androidauthority.com/pixel-10-display-unresponsive-bug-3623438/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
