@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Repair shop simulator ReStory will finally let me live out my dream of being an electronic tinkerer without having to destroy my own belongings first](https://www.pcgamer.com/games/sim/repair-shop-simulator-restory-will-finally-let-me-live-out-my-dream-of-being-an-electronic-tinkerer-without-having-to-destroy-my-own-belongings-first/)
- - [I love a weird dating sim, and the trailer for bug dating simulator CatchMaker might take the cake](https://www.pcgamer.com/games/sim/i-love-a-weird-dating-sim-and-the-trailer-for-bug-dating-simulator-catchmaker-might-take-the-cake/)
- - [Find Your Words will challenge you to develop connections without dialogue in a bright summer camp, and yes, it looks like you can birdwatch](https://www.pcgamer.com/games/adventure/find-your-words-will-challenge-you-to-develop-connections-without-dialogue-in-a-bright-summer-camp-and-yes-it-looks-like-you-can-birdwatch/)<!-- GAME:END -->
+ - [Senior Bethesda dev says the Fallout show works because Todd Howard wouldn&#39;t let the usual &#39;videogame directors&#39; touch it: &#39;We want the best director, the best showrunner possible&#39;](https://www.pcgamer.com/movies-tv/senior-bethesda-dev-says-the-fallout-show-works-because-todd-howard-wouldnt-let-the-usual-videogame-directors-touch-it-we-want-the-best-director-the-best-showrunner-possible/)
+ - [Battlefield 6 Winter Offensive update introduces annoying stuttering issue that&#39;s apparently fixed by turning off your Steam friends list](https://www.pcgamer.com/games/fps/battlefield-6-winter-offensive-update-introduces-annoying-stuttering-issue-thats-apparently-fixed-by-turning-off-your-steam-friends-list/)
+ - [Gooner Gacha Game Abandons Steam Launch After Refusing To Make Changes](https://kotaku.com/browndust2-nsfw-gacha-game-steam-release-cancel-policy-2000651817)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
