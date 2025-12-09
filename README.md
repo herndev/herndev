@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AirPods Pro 3 are back to their lowest price ahead of the holidays](https://www.theverge.com/gadgets/841059/apple-airpods-pro-3-silent-hill-f-deal-sale)
- - [Instagram appears to be generating often misleading SEO-style headlines and long descriptions for users&#39; Instagram posts, appearing in Google Search results &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/251209/p39#a251209p39)
- - [Take $35 off the Anker Laptop Charger 140W](https://www.androidauthority.com/anker-laptop-charger-140w-deal-5-3622790/)<!-- TECH:END -->
+ - [Sources: SpaceX plans an IPO in mid-to-late 2026, seeking to raise far above $30B and targeting a ~$1.5T valuation, potentially making it the largest IPO ever &lpar;Bloomberg&rpar;](http://www.techmeme.com/251209/p41#a251209p41)
+ - [IKEA’s new smart home devices are already starting to pop up in the US](https://www.androidauthority.com/ikea-smart-sensors-available-in-us-3623759/)
+ - [Blowout deals: 15-inch MacBook Air 512GB slashed to $999 &lpar;save up to $600&rpar;](https://appleinsider.com/articles/25/12/09/blowout-deals-15-inch-macbook-air-512gb-slashed-to-999-save-up-to-600?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
