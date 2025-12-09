@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The International Committee of the Red Cross, which runs major research archives, warned that AI models are fabricating research papers, journals, and archives &lpar;Dan Vergano/Scientific American&rpar;](http://www.techmeme.com/251208/p50#a251208p50)
- - [Your Google Play Points might be hiding a secret $200 Pixel 10 Pro discount](https://www.androidauthority.com/google-play-points-pixel-10-pro-200-dollar-discount-3623406/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 9, #442](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-9-442/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google confirms Pixel 9 Pro display faults, announces free repairs](https://www.androidauthority.com/google-pixel-9-pro-extended-repair-program-3623411/)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Dec. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-dec-9/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 9, #1634](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-9-1634/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
