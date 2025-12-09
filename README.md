@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How i meet your mother](http://9gag.com/gag/adBW44j)
- - ⏩ [It&#39;s a trap](http://9gag.com/gag/axyenOD)
- - 👉 [Seriously though?](http://9gag.com/gag/amoOdDV)<!-- MEMES:END -->
+ - 💣 [Old meme of the year. Shooting stars](http://9gag.com/gag/aKGXX6Q)
+ - ⏩ [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
+ - 👉 [Oi mate](http://9gag.com/gag/aKGXX8b)<!-- MEMES:END -->
 
 ---
 
