@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The war on disinformation is a losing battle](https://www.theverge.com/features/839853/disinformation-wars-censorship-right-wing)
- - [I upgraded to the Pixel 10 Pro XL for better battery life, and I’m… confused?!](https://www.androidauthority.com/upgraded-pixel-10-pro-xl-battery-life-failed-3622310/)
- - [Dutch media: ASML has sold parts to a subsidiary of a Chinese army supplier, per Chinese import and export data; ASML says it can&#39;t confirm the report &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/251209/p12#a251209p12)<!-- TECH:END -->
+ - [iFixit’s new app is ready to take the lead on repairs with its FixBot AI assistant](https://www.androidauthority.com/ifixit-fixbot-3623365/)
+ - [Anthropic and Accenture sign a three-year deal to sell AI services to businesses; the deal makes Accenture one of Anthropic&#39;s top three enterprise clients &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251209/p14#a251209p14)
+ - [How to Shop for a Mechanical Keyboard &lpar;2025&rpar;: Switches, Materials, and Layouts Explained](https://www.wired.com/story/how-to-shop-for-a-mechanical-keyboard/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
