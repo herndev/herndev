@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms Pixel 9 Pro display faults, announces free repairs](https://www.androidauthority.com/google-pixel-9-pro-extended-repair-program-3623411/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Dec. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-dec-9/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 9, #1634](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-9-1634/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: CEO Sam Altman said OpenAI plans to end &quot;code red&quot; after releasing a model in January 2026 with improved image generation, speed, and personality &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251208/p53#a251208p53)
+ - [Google says Gemini won’t get ads — at least not yet](https://www.androidauthority.com/google-gemini-ads-3623415/)
+ - [Scientists at NeurIPS, which drew a record 26,000 attendees this year, say key questions about how AI models work and how to measure them remain unresolved &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/251208/p52#a251208p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
