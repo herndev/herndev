@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Square product chief Willem Avé on Block&#39;s restructuring in 2024, AI automation, investing in crypto, the Lightning Network, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251209/p5#a251209p5)
- - [This smartphone adds a microSD slot, removable battery, and more, but removes… Android?](https://www.androidauthority.com/new-jolla-phone-3623421/)
- - [Pixel 10 users are facing another major display bug after the December update](https://www.androidauthority.com/pixel-10-display-unresponsive-bug-3623438/)<!-- TECH:END -->
+ - [You can now download the One UI 8.5 beta on your Samsung phone, here’s how](https://www.androidauthority.com/samsung-one-ui-8-5-beta-download-how-to-3623185/)
+ - [Here’s how Google and Apple could improve Android-iPhone data transfers &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-iphone-transfer-new-data-types-apk-teardown-3623446/)
+ - [The European Commission opens an investigation into Google to assess possible anticompetitive conduct by Google in &quot;the use of online content for AI purposes&quot; &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251209/p7#a251209p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
