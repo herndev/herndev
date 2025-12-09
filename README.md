@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now download the One UI 8.5 beta on your Samsung phone, here’s how](https://www.androidauthority.com/samsung-one-ui-8-5-beta-download-how-to-3623185/)
- - [Here’s how Google and Apple could improve Android-iPhone data transfers &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-iphone-transfer-new-data-types-apk-teardown-3623446/)
- - [The European Commission opens an investigation into Google to assess possible anticompetitive conduct by Google in &quot;the use of online content for AI purposes&quot; &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251209/p7#a251209p7)<!-- TECH:END -->
+ - [Samsung Health will arm you with noise-warning tools to save your hearing](https://www.androidauthority.com/samsung-health-noise-3623305/)
+ - [RAM is ruining everything](https://www.theverge.com/report/839506/ram-shortage-price-increases-pc-gaming-smartphones)
+ - [As Australia prepares to enact the world&#39;s first under-16 social media ban on December 10, a look at the implications, reaction from parents and teens, and more &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/251209/p9#a251209p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
