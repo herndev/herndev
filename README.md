@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Moonlighter 2 and Silksong composer reveals the process of &#39;hand drawing&#39; video game music](https://www.polygon.com/moonlighter-2-soundtrack-christopher-larkin/)
- - [The best weapon against getting downed by another player in Arc Raiders is actually psychological warfare](https://www.pcgamer.com/games/third-person-shooter/the-best-weapon-against-getting-downed-by-another-player-in-arc-raiders-is-actually-psychological-warfare/)
- - [Arc Raiders&#39; expedition exclusive &#39;patchwork&#39; cosmetic rumors divides players](https://www.polygon.com/arc-raiders-expedition-cosmetic-patchwork/)<!-- GAME:END -->
+ - [Fortnite can&#39;t cut surfing after chapter 7, we need it forever](https://www.polygon.com/fortnites-chapter-7-surfing-better-battle-bus/)
+ - [Resident Evil Requiem leak confirms Leon is in the game](https://www.polygon.com/leon-kennedy-in-resident-evil-requiem/)
+ - [This Might Be The Worst Thing Overwatch 2 Has Ever Done](https://kotaku.com/overwatch-2-soldier-76-6-7-emote-season-20-release-date-2000651668)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
