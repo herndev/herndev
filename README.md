@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I just find it amazing how we went from stone age humans to be able to do this with sand](http://9gag.com/gag/a87vQb6)
- - ⏩ [Bamboozled](http://9gag.com/gag/a5Q9vMN)
- - 👉 [True](http://9gag.com/gag/a2vAAWp)<!-- MEMES:END -->
+ - 💣 [It&#39;s a trap](http://9gag.com/gag/axyenOD)
+ - ⏩ [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
+ - 👉 [Seriously though?](http://9gag.com/gag/amoOdDV)<!-- MEMES:END -->
 
 ---
 
