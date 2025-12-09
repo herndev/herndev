@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get netherite horse armor in Minecraft](https://www.pcgamer.com/games/survival-crafting/minecraft-netherite-horse-armor-crafting-recipe/)
- - [How to craft and use a spear in Minecraft](https://www.pcgamer.com/games/survival-crafting/minecraft-spear-crafting-recipe/)
- - [How to find and tame a Nautilus in Minecraft](https://www.pcgamer.com/games/survival-crafting/minecraft-nautilus-location/)<!-- GAME:END -->
+ - [Philips and AOC announce the &#39;world&#39;s first&#39; 1,000 Hz dual-mode gaming monitors](https://www.pcgamer.com/hardware/gaming-monitors/philips-and-aoc-announce-the-worlds-first-1-000-hz-dual-mode-gaming-monitors/)
+ - [When will Zootopia 2 be streaming on Disney Plus? Everything you need to know](https://www.polygon.com/disney-zootopia-2-streaming/)
+ - [How to get netherite horse armor in Minecraft](https://www.pcgamer.com/games/survival-crafting/minecraft-netherite-horse-armor-crafting-recipe/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
