@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: after the Netflix-WBD deal was announced, Larry Ellison called President Trump about how the transaction would hurt competition &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251208/p48#a251208p48)
  - [The US FDA qualifies the first AI drug development tool, AIM-NASH, to help doctors assess a severe form of fatty liver disease in drug trials &lpar;Sahil Pandey/Reuters&rpar;](http://www.techmeme.com/251208/p47#a251208p47)
- - [David Sacks says AI preemption won&#39;t apply to state laws on child safety, communities won&#39;t be forced to host data centers they don&#39;t want, and more &lpar;David Sacks/@davidsacks&rpar;](http://www.techmeme.com/251208/p46#a251208p46)
- - [President Trump says the &quot;same approach&quot; used to let Nvidia ship H200 chips to China will also apply to &quot;AMD, Intel, and other GREAT American Companies&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251208/p45#a251208p45)<!-- TECH:END -->
+ - [David Sacks says AI preemption won&#39;t apply to state laws on child safety, communities won&#39;t be forced to host data centers they don&#39;t want, and more &lpar;David Sacks/@davidsacks&rpar;](http://www.techmeme.com/251208/p46#a251208p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
