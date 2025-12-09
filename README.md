@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos can make you custom highlight videos with its upgraded video editor](https://www.androidauthority.com/google-photos-video-editor-redesign-3623797/)
- - [Source: Trump allowed Nvidia to sell H200s to China after concluding the move carried a lower security risk as Huawei offers systems with comparable performance &lpar;Bloomberg&rpar;](http://www.techmeme.com/251209/p43#a251209p43)
- - [Report suggests foldables might surge in 2026 as Apple joins the race](https://appleinsider.com/articles/25/12/09/report-suggests-foldables-might-surge-in-2026-as-apple-joins-the-race?utm_source=rss)<!-- TECH:END -->
+ - [PSA: The best Apple AirPods 4 with ANC deal is still around!](https://www.androidauthority.com/apple-airpods-4-with-anc-deal-3-3623830/)
+ - [Somehow, this AI-generated McDonald&amp;#8217;s ad about hating Christmas was a flop](https://www.theverge.com/news/841220/mcdonalds-ai-generated-christmas-ad)
+ - [Report: SpaceX is expected to make around $15B in revenue in 2025, increasing to between $22B and $24B in 2026, with the majority coming from Starlink &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/251209/p47#a251209p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
