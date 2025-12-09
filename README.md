@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Health will arm you with noise-warning tools to save your hearing](https://www.androidauthority.com/samsung-health-noise-3623305/)
- - [RAM is ruining everything](https://www.theverge.com/report/839506/ram-shortage-price-increases-pc-gaming-smartphones)
- - [As Australia prepares to enact the world&#39;s first under-16 social media ban on December 10, a look at the implications, reaction from parents and teens, and more &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/251209/p9#a251209p9)<!-- TECH:END -->
+ - [The war on disinformation is a losing battle](https://www.theverge.com/features/839853/disinformation-wars-censorship-right-wing)
+ - [I upgraded to the Pixel 10 Pro XL for better battery life, and I’m… confused?!](https://www.androidauthority.com/upgraded-pixel-10-pro-xl-battery-life-failed-3622310/)
+ - [Dutch media: ASML has sold parts to a subsidiary of a Chinese army supplier, per Chinese import and export data; ASML says it can&#39;t confirm the report &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/251209/p12#a251209p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
