@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The world of Cyberpunk 2077 and Edgerunners returns to tabletop in new TCG](https://www.polygon.com/cyberpunk-2077-tcg-reveal-trading-card-game/)
- - [The Art of Fighting’s Kingpin Returns to South Town in Fatal Fury: City of the Wolves](https://news.xbox.com/en-us/2025/12/09/fatal-fury-cotw-mr-big/)
- - [Arc Raiders&#39; expeditions reward &#39;gear fear&#39; — and that&#39;s a mistake](https://www.polygon.com/arc-raiders-gear-fear-expeditions/)<!-- GAME:END -->
+ - [3… 2… 1… ID@Xbox Indie Selects Demo Fest Starts Now!](https://news.xbox.com/en-us/2025/12/09/xbox-indie-selects-demo-fest-starts-now/)
+ - [How to remote trade in Pokémon Go](https://www.polygon.com/pokemon-go-remote-trade-how-to-forever-friends/)
+ - [After 2 hours playing this Spore-inspired roguelike, I&#39;ve evolved into the best possible animal: a giant cow that grows apples on its bottom](https://www.pcgamer.com/games/roguelike/after-2-hours-playing-this-spore-inspired-roguelike-ive-evolved-into-the-best-possible-animal-a-giant-cow-that-grows-apples-on-its-bottom/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
