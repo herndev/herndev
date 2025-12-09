@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft killed the promising Perfect Dark reboot, but Take-Two has snapped up its leads for a new 2K studio](https://www.pcgamer.com/gaming-industry/microsoft-killed-the-promising-perfect-dark-reboot-but-take-two-has-snapped-up-its-leads-for-a-new-2k-studio/)
- - [Windows 3.1 included a red and yellow &#39;Hot Dog Stand&#39; color scheme so garish it was long assumed to be a joke, so I tracked down Microsoft&#39;s original UI designer to get the true story](https://www.pcgamer.com/software/windows/windows-3-1-included-a-red-and-yellow-hot-dog-stand-color-scheme-so-garish-it-was-long-assumed-to-be-a-joke-so-i-tracked-down-the-original-designer-to-get-the-true-story/)
- - [How to get Stone in The Forge](https://www.pcgamer.com/roblox/the-forge-how-to-get-stone/)<!-- GAME:END -->
+ - [How to craft and use a spear in Minecraft](https://www.pcgamer.com/games/survival-crafting/minecraft-spear-crafting-recipe/)
+ - [How to find and tame a Nautilus in Minecraft](https://www.pcgamer.com/games/survival-crafting/minecraft-nautilus-location/)
+ - [Microsoft killed the promising Perfect Dark reboot, but Take-Two has snapped up its leads for a new 2K studio](https://www.pcgamer.com/gaming-industry/microsoft-killed-the-promising-perfect-dark-reboot-but-take-two-has-snapped-up-its-leads-for-a-new-2k-studio/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
