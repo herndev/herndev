@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [3… 2… 1… ID@Xbox Indie Selects Demo Fest Starts Now!](https://news.xbox.com/en-us/2025/12/09/xbox-indie-selects-demo-fest-starts-now/)
- - [How to remote trade in Pokémon Go](https://www.polygon.com/pokemon-go-remote-trade-how-to-forever-friends/)
- - [After 2 hours playing this Spore-inspired roguelike, I&#39;ve evolved into the best possible animal: a giant cow that grows apples on its bottom](https://www.pcgamer.com/games/roguelike/after-2-hours-playing-this-spore-inspired-roguelike-ive-evolved-into-the-best-possible-animal-a-giant-cow-that-grows-apples-on-its-bottom/)<!-- GAME:END -->
+ - [What’s Coming in 2026 for Age of Empires and Age of Mythology](https://www.ageofempires.com/news/whats-coming-in-2026-for-age-of-empires-and-age-of-mythology/#new_tab)
+ - [Geoff Keighley Talks Game Awards: ‘Lots Of Games Get Sold’](https://kotaku.com/geoff-keighley-game-awards-sales-balatro-clair-obscur-2000651728)
+ - [Amazon Multiplayer Game Reportedly Got 10x Fewer Players Than It Was Hoping For](https://kotaku.com/king-meat-glowmade-layoffs-keighley-mrbeast-trailer-2000651722)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
