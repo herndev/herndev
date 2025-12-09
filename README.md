@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iFixit app returns to App Store with AI guidance &amp; unnecessary battery warnings](https://appleinsider.com/articles/25/12/09/ifixit-app-returns-to-the-app-store-with-ai-guidance-and-battery-warnings?utm_source=rss)
- - [An EssilorLuxottica independent board director says Meta now holds an &quot;at least 3%&quot; stake in the Ray-Ban maker, and possibly up to 5%, confirming media reports &lpar;Mathieu Rosemain/Reuters&rpar;](http://www.techmeme.com/251209/p28#a251209p28)
- - [Your Pixel Watch just got smarter, more efficient Smart Replies](https://www.androidauthority.com/pixel-watch-smarter-smart-replies-3623537/)<!-- TECH:END -->
+ - [Apple Arcade&#39;s &#39;Sneaky Sasquatch&#39; hides in Apple Stores for holiday fun](https://appleinsider.com/articles/25/12/09/apple-arcades-sneaky-sasquatch-hides-in-apple-stores-for-holiday-fun?utm_source=rss)
+ - [Sources: OpenAI has become more guarded about publishing research on AI&#39;s economic harms, prompting at least two economic research staffers to leave &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251209/p33#a251209p33)
+ - [Google’s working to build AI Mode right into Chrome](https://www.androidauthority.com/chrome-canary-google-ai-mode-3623722/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
