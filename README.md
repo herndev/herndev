@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: CEO Sam Altman said OpenAI plans to end &quot;code red&quot; after releasing a model in January 2026 with improved image generation, speed, and personality &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251208/p53#a251208p53)
- - [Google says Gemini won’t get ads — at least not yet](https://www.androidauthority.com/google-gemini-ads-3623415/)
- - [Scientists at NeurIPS, which drew a record 26,000 attendees this year, say key questions about how AI models work and how to measure them remain unresolved &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/251208/p52#a251208p52)<!-- TECH:END -->
+ - [Apple Watch Ultra 2 plunges to $549 on Amazon, best price ever](https://appleinsider.com/articles/25/12/09/apple-watch-ultra-2-plunges-to-549-on-amazon-best-price-ever?utm_source=rss)
+ - [The future of AI development could resemble the rivalry between iOS and Android, with China&#39;s AI approach closer to Google&#39;s open and customizable Android OS &lpar;Kai-Fu Lee/Financial Times&rpar;](http://www.techmeme.com/251209/p2#a251209p2)
+ - [Google and Apple team up to make switching between Android and iPhone easier](https://www.androidauthority.com/google-apple-android-iphone-switching-3623422/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
