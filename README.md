@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pebble’s new wearable wants you to reconsider what a ‘smart ring’ should do](https://www.androidauthority.com/pebble-index-01-announced-3623631/)
- - [Ford taps Renault for help building cheap EVs in Europe](https://www.theverge.com/news/840632/ford-renault-cheap-ev-europe)
- - [Google will repair Pixel 9 Pro phones with display issues](https://www.theverge.com/news/840622/google-pixel-9-pro-xl-display-issues-repair-program-fold-extended-warranty)<!-- TECH:END -->
+ - [Mistral launches Devstral 2, a coding model with 123B parameters requiring at least four H100 GPUs, and a 24B parameter Devstral Small for local deployment &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251209/p24#a251209p24)
+ - [Wikimedia Foundation names Bernadette Meehan, who was the US Ambassador to Chile from 2022 to 2025, as its new CEO &lpar;Deborah Mary Sophia/Reuters&rpar;](http://www.techmeme.com/251209/p23#a251209p23)
+ - [Saviynt, an identity and access management service focused on &quot;human and nonhuman&quot; identity controls, raised a $700M Series B led by KKR at a $3B valuation &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/251209/p22#a251209p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
