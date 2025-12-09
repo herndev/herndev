@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Senior Bethesda dev says the Fallout show works because Todd Howard wouldn&#39;t let the usual &#39;videogame directors&#39; touch it: &#39;We want the best director, the best showrunner possible&#39;](https://www.pcgamer.com/movies-tv/senior-bethesda-dev-says-the-fallout-show-works-because-todd-howard-wouldnt-let-the-usual-videogame-directors-touch-it-we-want-the-best-director-the-best-showrunner-possible/)
- - [Battlefield 6 Winter Offensive update introduces annoying stuttering issue that&#39;s apparently fixed by turning off your Steam friends list](https://www.pcgamer.com/games/fps/battlefield-6-winter-offensive-update-introduces-annoying-stuttering-issue-thats-apparently-fixed-by-turning-off-your-steam-friends-list/)
- - [Gooner Gacha Game Abandons Steam Launch After Refusing To Make Changes](https://kotaku.com/browndust2-nsfw-gacha-game-steam-release-cancel-policy-2000651817)<!-- GAME:END -->
+ - [A Disney director spent 3 years animating this beautiful short on his own](https://www.polygon.com/disney-director-aaron-blaise-snow-bear-short/)
+ - [Anker Solix 2000W Power Station Goes Super Low on Amazon, Winter Blackout Season Just Got Less Scary](https://kotaku.com/anker-solix-2000w-power-station-goes-super-low-on-amazon-winter-blackout-season-just-got-less-scary-2000651723)
+ - [&#39;Rethinking the survival genre&#39;: In this post-apocalyptic adventure, &#39;your body tells you what’s going on&#39; instead of stamina and hunger meters](https://www.pcgamer.com/games/survival-crafting/rethinking-the-survival-genre-in-this-post-apocalyptic-adventure-your-body-tells-you-whats-going-on-instead-of-stamina-and-hunger-meters/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
