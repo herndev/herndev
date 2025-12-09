@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite&#39;s Percy Jackson: Siege of Monsters is beefier than the average creative map](https://www.polygon.com/fortnite-percy-jackson-island-siege-monsters-island-code/)
- - [Bellwright Maiden Voyage Trailer](https://www.polygon.com/video/bellwright-maiden-voyage-trailer/)
- - [Bellwright’s Biggest Update Yet Adds An Expansive New Map To The Game](https://www.polygon.com/bellwrights-biggest-update-new-map/)<!-- GAME:END -->
+ - [Repair shop simulator ReStory will finally let me live out my dream of being an electronic tinkerer without having to destroy my own belongings first](https://www.pcgamer.com/games/sim/repair-shop-simulator-restory-will-finally-let-me-live-out-my-dream-of-being-an-electronic-tinkerer-without-having-to-destroy-my-own-belongings-first/)
+ - [I love a weird dating sim, and the trailer for bug dating simulator CatchMaker might take the cake](https://www.pcgamer.com/games/sim/i-love-a-weird-dating-sim-and-the-trailer-for-bug-dating-simulator-catchmaker-might-take-the-cake/)
+ - [Find Your Words will challenge you to develop connections without dialogue in a bright summer camp, and yes, it looks like you can birdwatch](https://www.pcgamer.com/games/adventure/find-your-words-will-challenge-you-to-develop-connections-without-dialogue-in-a-bright-summer-camp-and-yes-it-looks-like-you-can-birdwatch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
