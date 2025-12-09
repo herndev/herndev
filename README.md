@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not a single lie was spoken](http://9gag.com/gag/ajP3dbp)
- - ⏩ [I like the southern accent](http://9gag.com/gag/aLnONQv)
- - 👉 [Shocking footage of 7.5 magnitude earthquake in Japan](http://9gag.com/gag/a34zp97)<!-- MEMES:END -->
+ - 💣 [Bamboozled](http://9gag.com/gag/a5Q9vMN)
+ - ⏩ [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)
+ - 👉 [What&#39;s that song or album that does it for you? Looking for decent song suggestions.](http://9gag.com/gag/a1m8xew)<!-- MEMES:END -->
 
 ---
 
