@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s that song or album that does it for you? Looking for decent song suggestions.](http://9gag.com/gag/a1m8xew)
- - ⏩ [We are Sydney Sweeney](http://9gag.com/gag/a4PBrPd)
+ - 💣 [How i meet your mother](http://9gag.com/gag/adBW44j)
+ - ⏩ [Beyond the Aquila Rift. One of the finest examples of how a science fiction should be told..](http://9gag.com/gag/azxvDMx)
  - 👉 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)<!-- MEMES:END -->
 
 ---
