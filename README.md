@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [7 Things To Know Before Playing Metroid Prime 4: Beyond](https://kotaku.com/seven-things-to-know-before-playing-metroid-prime-4-beyond-switch-2-guide-2000651384)
- - [A Sneak Peek at “Samurai Space Opera” Sol Shogunate Coming to Xbox](https://news.xbox.com/en-us/2025/12/08/sneak-peek-at-sol-shogunate/)
- - [Nightreign&#39;s Forsaken Hollows DLC makes Elden Ring: Shadow of the Erdtree seem easy](https://www.polygon.com/elden-ring-nightreign-forsaken-hollows-dlc-difficulty-balancers/)<!-- GAME:END -->
+ - [1981’s coolest animated series deserves a He-Man style reboot](https://www.polygon.com/80s-cartoon-reboot-blackstar-star-wars-he-man/)
+ - [The Battle Of The Translucent N64s Has Arrived](https://kotaku.com/analogue-3d-color-n64-modretro-palmer-luckey-2000651467)
+ - [Volt Forge interactive map in Metroid Prime 4: Beyond](https://www.polygon.com/map/metroid-prime-4-beyond-volt-forge-interactive-map/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
