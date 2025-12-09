@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iFixit’s new app is ready to take the lead on repairs with its FixBot AI assistant](https://www.androidauthority.com/ifixit-fixbot-3623365/)
- - [Anthropic and Accenture sign a three-year deal to sell AI services to businesses; the deal makes Accenture one of Anthropic&#39;s top three enterprise clients &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251209/p14#a251209p14)
- - [How to Shop for a Mechanical Keyboard &lpar;2025&rpar;: Switches, Materials, and Layouts Explained](https://www.wired.com/story/how-to-shop-for-a-mechanical-keyboard/)<!-- TECH:END -->
+ - [You can now text photos directly to Aura&amp;#8217;s digital picture frames](https://www.theverge.com/news/840142/aura-text-to-frame-digital-picture-frame-share-photos)
+ - [Unreleased 30-year old Mac OS for CHRP can run on your 20-year-old Mac](https://appleinsider.com/articles/25/12/09/unreleased-30-year-old-mac-os-for-chrp-can-run-on-your-20-year-old-mac?utm_source=rss)
+ - [This $69 gaming handheld runs Linux and Android, but there’s a big catch](https://www.androidauthority.com/abxylute-e1-announcement-3623567/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
