@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Philips and AOC announce the &#39;world&#39;s first&#39; 1,000 Hz dual-mode gaming monitors](https://www.pcgamer.com/hardware/gaming-monitors/philips-and-aoc-announce-the-worlds-first-1-000-hz-dual-mode-gaming-monitors/)
- - [When will Zootopia 2 be streaming on Disney Plus? Everything you need to know](https://www.polygon.com/disney-zootopia-2-streaming/)
- - [How to get netherite horse armor in Minecraft](https://www.pcgamer.com/games/survival-crafting/minecraft-netherite-horse-armor-crafting-recipe/)<!-- GAME:END -->
+ - [Bose SoundLink Max Speaker Restock Drops Cheaper Than Black Friday in a December Clearance Move](https://kotaku.com/bose-soundlink-max-speaker-restock-drops-cheaper-than-black-friday-in-a-december-clearance-move-2000651067)
+ - [Did It: Welcome to Derry just ruin Stephen King&#39;s timeline?](https://www.polygon.com/it-welcome-to-derry-episode-7-timeline/)
+ - [Netflix’s ‘Stranger Things’ Is Coming to Microsoft Flight Simulator 2024](https://news.xbox.com/en-us/2025/12/09/netflix-stranger-things-coming-to-microsoft-flight-simulator-2024/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
