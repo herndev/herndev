@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a trap](http://9gag.com/gag/axyenOD)
- - ⏩ [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)
+ - 💣 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
+ - ⏩ [Idiocracy is an American documentary](http://9gag.com/gag/axyenD1)
  - 👉 [Seriously though?](http://9gag.com/gag/amoOdDV)<!-- MEMES:END -->
 
 ---
