@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bamboozled](http://9gag.com/gag/a5Q9vMN)
- - ⏩ [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)
- - 👉 [What&#39;s that song or album that does it for you? Looking for decent song suggestions.](http://9gag.com/gag/a1m8xew)<!-- MEMES:END -->
+ - 💣 [What&#39;s that song or album that does it for you? Looking for decent song suggestions.](http://9gag.com/gag/a1m8xew)
+ - ⏩ [We are Sydney Sweeney](http://9gag.com/gag/a4PBrPd)
+ - 👉 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)<!-- MEMES:END -->
 
 ---
 
