@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite can&#39;t cut surfing after chapter 7, we need it forever](https://www.polygon.com/fortnites-chapter-7-surfing-better-battle-bus/)
- - [Resident Evil Requiem leak confirms Leon is in the game](https://www.polygon.com/leon-kennedy-in-resident-evil-requiem/)
- - [This Might Be The Worst Thing Overwatch 2 Has Ever Done](https://kotaku.com/overwatch-2-soldier-76-6-7-emote-season-20-release-date-2000651668)<!-- GAME:END -->
+ - [The world of Cyberpunk 2077 and Edgerunners returns to tabletop in new TCG](https://www.polygon.com/cyberpunk-2077-tcg-reveal-trading-card-game/)
+ - [The Art of Fighting’s Kingpin Returns to South Town in Fatal Fury: City of the Wolves](https://news.xbox.com/en-us/2025/12/09/fatal-fury-cotw-mr-big/)
+ - [Arc Raiders&#39; expeditions reward &#39;gear fear&#39; — and that&#39;s a mistake](https://www.polygon.com/arc-raiders-gear-fear-expeditions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
