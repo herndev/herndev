@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bose SoundLink Max Speaker Restock Drops Cheaper Than Black Friday in a December Clearance Move](https://kotaku.com/bose-soundlink-max-speaker-restock-drops-cheaper-than-black-friday-in-a-december-clearance-move-2000651067)
- - [Did It: Welcome to Derry just ruin Stephen King&#39;s timeline?](https://www.polygon.com/it-welcome-to-derry-episode-7-timeline/)
- - [Netflix’s ‘Stranger Things’ Is Coming to Microsoft Flight Simulator 2024](https://news.xbox.com/en-us/2025/12/09/netflix-stranger-things-coming-to-microsoft-flight-simulator-2024/)<!-- GAME:END -->
+ - [Moonlighter 2 and Silksong composer reveals the process of &#39;hand drawing&#39; video game music](https://www.polygon.com/moonlighter-2-soundtrack-christopher-larkin/)
+ - [The best weapon against getting downed by another player in Arc Raiders is actually psychological warfare](https://www.pcgamer.com/games/third-person-shooter/the-best-weapon-against-getting-downed-by-another-player-in-arc-raiders-is-actually-psychological-warfare/)
+ - [Arc Raiders&#39; expedition exclusive &#39;patchwork&#39; cosmetic rumors divides players](https://www.polygon.com/arc-raiders-expedition-cosmetic-patchwork/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
