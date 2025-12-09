@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mistral launches Devstral 2, a coding model with 123B parameters requiring at least four H100 GPUs, and a 24B parameter Devstral Small for local deployment &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251209/p24#a251209p24)
- - [Wikimedia Foundation names Bernadette Meehan, who was the US Ambassador to Chile from 2022 to 2025, as its new CEO &lpar;Deborah Mary Sophia/Reuters&rpar;](http://www.techmeme.com/251209/p23#a251209p23)
- - [Saviynt, an identity and access management service focused on &quot;human and nonhuman&quot; identity controls, raised a $700M Series B led by KKR at a $3B valuation &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/251209/p22#a251209p22)<!-- TECH:END -->
+ - [iFixit app returns to App Store with AI guidance &amp; unnecessary battery warnings](https://appleinsider.com/articles/25/12/09/ifixit-app-returns-to-the-app-store-with-ai-guidance-and-battery-warnings?utm_source=rss)
+ - [An EssilorLuxottica independent board director says Meta now holds an &quot;at least 3%&quot; stake in the Ray-Ban maker, and possibly up to 5%, confirming media reports &lpar;Mathieu Rosemain/Reuters&rpar;](http://www.techmeme.com/251209/p28#a251209p28)
+ - [Your Pixel Watch just got smarter, more efficient Smart Replies](https://www.androidauthority.com/pixel-watch-smarter-smart-replies-3623537/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
