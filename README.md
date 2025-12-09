@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 QPR2 removes this handy way to save pictures from apps](https://www.androidauthority.com/qpr2-recents-screen-3623672/)
- - [Nothing&amp;#8217;s community-designed Phone 3A adds some color and matching dice](https://www.theverge.com/news/841019/nothing-phone-3a-community-edition)
- - [Want to leave the Pixel beta? You can now safely jump to stable Android 16 QPR2](https://www.androidauthority.com/leave-android-beta-without-data-wipe-3623702/)<!-- TECH:END -->
+ - [The AirPods Pro 3 are back to their lowest price ahead of the holidays](https://www.theverge.com/gadgets/841059/apple-airpods-pro-3-silent-hill-f-deal-sale)
+ - [Instagram appears to be generating often misleading SEO-style headlines and long descriptions for users&#39; Instagram posts, appearing in Google Search results &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/251209/p39#a251209p39)
+ - [Take $35 off the Anker Laptop Charger 140W](https://www.androidauthority.com/anker-laptop-charger-140w-deal-5-3622790/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
