@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SpaceX plans an IPO in mid-to-late 2026, seeking to raise far above $30B and targeting a ~$1.5T valuation, potentially making it the largest IPO ever &lpar;Bloomberg&rpar;](http://www.techmeme.com/251209/p41#a251209p41)
- - [IKEA’s new smart home devices are already starting to pop up in the US](https://www.androidauthority.com/ikea-smart-sensors-available-in-us-3623759/)
- - [Blowout deals: 15-inch MacBook Air 512GB slashed to $999 &lpar;save up to $600&rpar;](https://appleinsider.com/articles/25/12/09/blowout-deals-15-inch-macbook-air-512gb-slashed-to-999-save-up-to-600?utm_source=rss)<!-- TECH:END -->
+ - [Google Photos can make you custom highlight videos with its upgraded video editor](https://www.androidauthority.com/google-photos-video-editor-redesign-3623797/)
+ - [Source: Trump allowed Nvidia to sell H200s to China after concluding the move carried a lower security risk as Huawei offers systems with comparable performance &lpar;Bloomberg&rpar;](http://www.techmeme.com/251209/p43#a251209p43)
+ - [Report suggests foldables might surge in 2026 as Apple joins the race](https://appleinsider.com/articles/25/12/09/report-suggests-foldables-might-surge-in-2026-as-apple-joins-the-race?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
