@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Arcade&#39;s &#39;Sneaky Sasquatch&#39; hides in Apple Stores for holiday fun](https://appleinsider.com/articles/25/12/09/apple-arcades-sneaky-sasquatch-hides-in-apple-stores-for-holiday-fun?utm_source=rss)
- - [Sources: OpenAI has become more guarded about publishing research on AI&#39;s economic harms, prompting at least two economic research staffers to leave &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251209/p33#a251209p33)
- - [Google’s working to build AI Mode right into Chrome](https://www.androidauthority.com/chrome-canary-google-ai-mode-3623722/)<!-- TECH:END -->
+ - [Android 16 QPR2 removes this handy way to save pictures from apps](https://www.androidauthority.com/qpr2-recents-screen-3623672/)
+ - [Nothing&amp;#8217;s community-designed Phone 3A adds some color and matching dice](https://www.theverge.com/news/841019/nothing-phone-3a-community-edition)
+ - [Want to leave the Pixel beta? You can now safely jump to stable Android 16 QPR2](https://www.androidauthority.com/leave-android-beta-without-data-wipe-3623702/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
