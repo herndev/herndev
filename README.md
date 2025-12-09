@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now text photos directly to Aura&amp;#8217;s digital picture frames](https://www.theverge.com/news/840142/aura-text-to-frame-digital-picture-frame-share-photos)
- - [Unreleased 30-year old Mac OS for CHRP can run on your 20-year-old Mac](https://appleinsider.com/articles/25/12/09/unreleased-30-year-old-mac-os-for-chrp-can-run-on-your-20-year-old-mac?utm_source=rss)
- - [This $69 gaming handheld runs Linux and Android, but there’s a big catch](https://www.androidauthority.com/abxylute-e1-announcement-3623567/)<!-- TECH:END -->
+ - [Pebble’s new wearable wants you to reconsider what a ‘smart ring’ should do](https://www.androidauthority.com/pebble-index-01-announced-3623631/)
+ - [Ford taps Renault for help building cheap EVs in Europe](https://www.theverge.com/news/840632/ford-renault-cheap-ev-europe)
+ - [Google will repair Pixel 9 Pro phones with display issues](https://www.theverge.com/news/840622/google-pixel-9-pro-xl-display-issues-repair-program-fold-extended-warranty)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
