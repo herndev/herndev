@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How i meet your mother](http://9gag.com/gag/adBW44j)
- - ⏩ [Beyond the Aquila Rift. One of the finest examples of how a science fiction should be told..](http://9gag.com/gag/azxvDMx)
- - 👉 [Here goes Simpsons lemon memes](http://9gag.com/gag/axyeA4b)<!-- MEMES:END -->
+ - 💣 [Looks expensive](http://9gag.com/gag/aAyLqDR)
+ - ⏩ [How i meet your mother](http://9gag.com/gag/adBW44j)
+ - 👉 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)<!-- MEMES:END -->
 
 ---
 
