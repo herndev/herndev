@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bamboozled](http://9gag.com/gag/a5Q9vMN)
- - ⏩ [Looks expensive](http://9gag.com/gag/aAyLqDR)
- - 👉 [Turning trash collection into an Olympic sport](http://9gag.com/gag/aoyGqO0)<!-- MEMES:END -->
+ - 💣 [They had us in the first half, not gonna lie](http://9gag.com/gag/amoOdK6)
+ - ⏩ [We are Sydney Sweeney](http://9gag.com/gag/a4PBrPd)
+ - 👉 [How i meet your mother](http://9gag.com/gag/adBW44j)<!-- MEMES:END -->
 
 ---
 
