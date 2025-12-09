@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to get netherite horse armor in Minecraft](https://www.pcgamer.com/games/survival-crafting/minecraft-netherite-horse-armor-crafting-recipe/)
  - [How to craft and use a spear in Minecraft](https://www.pcgamer.com/games/survival-crafting/minecraft-spear-crafting-recipe/)
- - [How to find and tame a Nautilus in Minecraft](https://www.pcgamer.com/games/survival-crafting/minecraft-nautilus-location/)
- - [Microsoft killed the promising Perfect Dark reboot, but Take-Two has snapped up its leads for a new 2K studio](https://www.pcgamer.com/gaming-industry/microsoft-killed-the-promising-perfect-dark-reboot-but-take-two-has-snapped-up-its-leads-for-a-new-2k-studio/)<!-- GAME:END -->
+ - [How to find and tame a Nautilus in Minecraft](https://www.pcgamer.com/games/survival-crafting/minecraft-nautilus-location/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
