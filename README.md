@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [1981’s coolest animated series deserves a He-Man style reboot](https://www.polygon.com/80s-cartoon-reboot-blackstar-star-wars-he-man/)
- - [The Battle Of The Translucent N64s Has Arrived](https://kotaku.com/analogue-3d-color-n64-modretro-palmer-luckey-2000651467)
- - [Volt Forge interactive map in Metroid Prime 4: Beyond](https://www.polygon.com/map/metroid-prime-4-beyond-volt-forge-interactive-map/)<!-- GAME:END -->
+ - [Microsoft killed the promising Perfect Dark reboot, but Take-Two has snapped up its leads for a new 2K studio](https://www.pcgamer.com/gaming-industry/microsoft-killed-the-promising-perfect-dark-reboot-but-take-two-has-snapped-up-its-leads-for-a-new-2k-studio/)
+ - [Windows 3.1 included a red and yellow &#39;Hot Dog Stand&#39; color scheme so garish it was long assumed to be a joke, so I tracked down Microsoft&#39;s original UI designer to get the true story](https://www.pcgamer.com/software/windows/windows-3-1-included-a-red-and-yellow-hot-dog-stand-color-scheme-so-garish-it-was-long-assumed-to-be-a-joke-so-i-tracked-down-the-original-designer-to-get-the-true-story/)
+ - [How to get Stone in The Forge](https://www.pcgamer.com/roblox/the-forge-how-to-get-stone/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
