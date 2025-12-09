@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s Coming in 2026 for Age of Empires and Age of Mythology](https://www.ageofempires.com/news/whats-coming-in-2026-for-age-of-empires-and-age-of-mythology/#new_tab)
- - [Geoff Keighley Talks Game Awards: ‘Lots Of Games Get Sold’](https://kotaku.com/geoff-keighley-game-awards-sales-balatro-clair-obscur-2000651728)
- - [Amazon Multiplayer Game Reportedly Got 10x Fewer Players Than It Was Hoping For](https://kotaku.com/king-meat-glowmade-layoffs-keighley-mrbeast-trailer-2000651722)<!-- GAME:END -->
+ - [Fortnite&#39;s Percy Jackson: Siege of Monsters is beefier than the average creative map](https://www.polygon.com/fortnite-percy-jackson-island-siege-monsters-island-code/)
+ - [Bellwright Maiden Voyage Trailer](https://www.polygon.com/video/bellwright-maiden-voyage-trailer/)
+ - [Bellwright’s Biggest Update Yet Adds An Expansive New Map To The Game](https://www.polygon.com/bellwrights-biggest-update-new-map/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
