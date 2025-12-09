@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: after the Netflix-WBD deal was announced, Larry Ellison called President Trump about how the transaction would hurt competition &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251208/p48#a251208p48)
- - [The US FDA qualifies the first AI drug development tool, AIM-NASH, to help doctors assess a severe form of fatty liver disease in drug trials &lpar;Sahil Pandey/Reuters&rpar;](http://www.techmeme.com/251208/p47#a251208p47)
- - [David Sacks says AI preemption won&#39;t apply to state laws on child safety, communities won&#39;t be forced to host data centers they don&#39;t want, and more &lpar;David Sacks/@davidsacks&rpar;](http://www.techmeme.com/251208/p46#a251208p46)<!-- TECH:END -->
+ - [The International Committee of the Red Cross, which runs major research archives, warned that AI models are fabricating research papers, journals, and archives &lpar;Dan Vergano/Scientific American&rpar;](http://www.techmeme.com/251208/p50#a251208p50)
+ - [Your Google Play Points might be hiding a secret $200 Pixel 10 Pro discount](https://www.androidauthority.com/google-play-points-pixel-10-pro-200-dollar-discount-3623406/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 9, #442](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-9-442/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
