@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dunjungle Leaps Onto Xbox Series X|S! How the Monkey Evolved](https://news.xbox.com/en-us/2025/12/10/dunjungle-evolution/)
- - [JJK Execution review: Mappa doesn&#39;t fix that season 2 fight, but it&#39;s still worth watching](https://www.polygon.com/jujutsu-kaisen-execution-review/)
- - [This Lenovo 15″ Laptop With Good Everyday Specs Drops 75% Off, But Only on Amazon Not Official Site](https://kotaku.com/this-lenovo-15-laptop-with-good-everyday-specs-drops-75-off-but-only-on-amazon-not-official-site-2000652164)<!-- GAME:END -->
+ - [Dust Bunny review: Bryan Fuller and Mads Mikkelsen are at their best on the big screen](https://www.polygon.com/dust-bunny-brings-the-best-of-hannibal-and-bryan-fuller-to-the-silver-screen/)
+ - [Why We Added a Cozy-Life MMO to a Battle Royale in Super Animal World](https://news.xbox.com/en-us/2025/12/10/super-animal-royale-mmo/)
+ - [Magic&#39;s Marvel Super Heroes set reveal exposes wild combos for Hulk cards](https://www.polygon.com/mtg-magic-the-gathering-marvel-super-heroes-incredible-hulk-combos/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
