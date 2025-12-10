@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stellantis partners with Estonian ride-hailing service Bolt, which serves 200M+ riders, to test Level 4 driverless vans across Europe in 2026 &lpar;Romolo Tosiani/Reuters&rpar;](http://www.techmeme.com/251209/p56#a251209p56)
- - [Boom&#39;s move to modify its supersonic engine to power AI data centers is another example of industrial capacity being repurposed to serve the AI supply chain &lpar;Bloomberg&rpar;](http://www.techmeme.com/251209/p55#a251209p55)
- - [Citi lifts Apple stock target following strong iPhone sales](https://appleinsider.com/articles/25/12/10/citi-lifts-apple-stock-target-following-strong-iphone-sales?utm_source=rss)<!-- TECH:END -->
+ - [Five years in, is Nothing moving in the right direction?](https://www.androidauthority.com/nothing-in-2025-open-thread-3623500/)
+ - [Galaxy S26 leak reveals Samsung’s big move into magnetic accessories](https://www.androidauthority.com/samsung-galaxy-s26-magnetic-accessories-3623853/)
+ - [DEEP Robotics, a Hangzhou-based startup that builds quadruped and humanoid robots, raised a $70M Series C to expand R&amp;D and production capacity &lpar;Danielle Popov/South China Morning Post&rpar;](http://www.techmeme.com/251209/p57#a251209p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
