@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
+ - 💣 [How to deal with oversized children throwing tantrum](http://9gag.com/gag/aMV00ox)
  - ⏩ [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
  - 👉 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)<!-- MEMES:END -->
 
