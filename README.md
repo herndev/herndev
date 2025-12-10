@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A day in the life of Apex Legends esports king ImperialHal](https://www.polygon.com/apex-legends-imperialhal-interview-2025/)
- - [Brave the Wasteland With New Fallout Pip-Boy Controllers](https://news.xbox.com/en-us/2025/12/10/fallout-pip-boy-xbox-controller-design-lab/)
- - [Samsung’s 32-Inch Odyssey Curved Monitor Hits Record Low, Amazon Goes Zero Profit for Gamers](https://kotaku.com/samsungs-32-inch-odyssey-curved-monitor-hits-record-low-amazon-goes-zero-profit-for-gamers-2000652124)<!-- GAME:END -->
+ - [Noctua fans, rejoice: You can finally colour-match your 3D printed creations to that iconic colour scheme using official 3D printing filaments](https://www.pcgamer.com/hardware/noctua-fans-rejoice-you-can-finally-colour-match-your-3d-printed-creations-to-that-iconic-colour-scheme-using-official-3d-printing-filaments/)
+ - [This 15″ Portable Monitor Goes Zero Margin on Amazon, Now Cheaper Than No-Name Generic Fixed Screen](https://kotaku.com/this-15-portable-monitor-goes-zero-margin-on-amazon-now-cheaper-than-no-name-generic-fixed-screen-2000652145)
+ - [Skyrim On Switch 2 Is 53GB, Still Locked To 30FPS, And Players Report Terrible Input Lag](https://kotaku.com/skyrim-elder-scrolls-switch-2-port-60fps-30fps-compare-price-input-lag-fix-patch-2000652156)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
