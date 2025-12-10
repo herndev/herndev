@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Apple Cash stickers add color &amp; personality to quick payments](https://appleinsider.com/articles/25/12/10/new-apple-cash-stickers-add-color-personality-to-quick-payments?utm_source=rss)
- - [Samsung Health will soon drop some of its services: Here’s what you’re losing](https://www.androidauthority.com/samsung-health-app-losing-programs-3624085/)
- - [Tim Cook met with US lawmakers in a closed-door meeting to lobby against provisions in pending legislation that would require app stores to verify users&#39; ages &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p47#a251210p47)<!-- TECH:END -->
+ - [Sources: ByteDance and Alibaba have asked Nvidia about placing large orders for H200 chips after Trump&#39;s export approval, as they remain concerned about supply &lpar;Reuters&rpar;](http://www.techmeme.com/251210/p49#a251210p49)
+ - [Looking for rechargeable batteries? Here’s a sweet deal on an Energizer bundle](https://www.androidauthority.com/energizer-rechargeable-batteries-deal-3624165/)
+ - [I couldn&amp;#8217;t fix it with iFixit’s AI FixBot](https://www.theverge.com/ai-artificial-intelligence/841252/ifixit-fixbot-hands-on-ai-chatbot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
