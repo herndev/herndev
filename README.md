@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s got some new ways to highlight the news sources you care about most](https://www.androidauthority.com/news-subscriptions-3624056/)
- - [Your Android phone can now stream live video to 911 to save your life](https://www.androidauthority.com/android-emergency-live-video-3623953/)
- - [Google says it will link to more sources in AI Mode](https://www.theverge.com/news/841603/google-ai-mode-source-links-web-guide)<!-- TECH:END -->
+ - [Holiday Mac mini price war slashes desktops to as low as $479](https://appleinsider.com/articles/25/12/10/holiday-mac-mini-price-war-slashes-desktops-to-as-low-as-479?utm_source=rss)
+ - [Google unveils Emergency Live Video, similar to iOS&#39; Emergency SOS Live Video, letting US users on Android 8 or later to share live video with 911 responders &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251210/p45#a251210p45)
+ - [The 27 best gifts for travelers who are always on the move](https://www.theverge.com/gadgets/799419/best-gifts-for-travelers-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
