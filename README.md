@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China added AI chips from Chinese groups to its government-approved list of suppliers for the first time, before Trump&#39;s move to allow Nvidia exports &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/251209/p54#a251209p54)
- - [Take an Amazon Echo Dot Max home at a record-low price](https://www.androidauthority.com/amazon-echo-dot-max-deal-3623829/)
- - [Sources: at a November meeting in the Oval Office, Jensen Huang told President Trump that a flurry of state AI laws could cause the US to lose the AI race &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251209/p53#a251209p53)<!-- TECH:END -->
+ - [Citi lifts Apple stock target following strong iPhone sales](https://appleinsider.com/articles/25/12/10/citi-lifts-apple-stock-target-following-strong-iphone-sales?utm_source=rss)
+ - [The AI industry’s biggest week: Google’s rise, RL mania, and a party boat](https://www.theverge.com/column/841207/ai-neurips-2025)
+ - [Silicon Valley Is All About the Hard Sell These Days](https://www.wired.com/story/sam-altman-jimmy-fallon-silicon-valley-hard-sell/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
