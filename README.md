@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Metroid Prime 4 is the Dragon Age Veilguard of Metroid](https://www.polygon.com/metroid-prime-4-is-the-dragon-age-veilguard-of-metroid/)
- - [Google is under investigation in the EU to find out whether it imposes unfair terms on content creators for AI](https://www.pcgamer.com/hardware/google-is-under-investigation-in-the-eu-to-find-out-whether-it-imposes-unfair-terms-on-content-creators-for-ai/)
- - [Activision Admits Call Of Duty: Black Ops 7 Isn’t Good Enough](https://kotaku.com/call-of-duty-black-ops-7-sales-activision-2000652111)<!-- GAME:END -->
+ - [Microsoft wants to make Windows &#39;the best place to game—no matter where you play&#39; but Linux and Valve&#39;s SteamOS have other ideas](https://www.pcgamer.com/software/windows/microsoft-wants-to-make-windows-the-best-place-to-game-no-matter-where-you-play-but-linux-and-valves-steamos-have-other-ideas/)
+ - [Seagate’s 8TB External Hard Drive at Under $0.02 per GB Is Practically the Cheapest Data Storage Available](https://kotaku.com/seagates-8tb-external-hard-drive-at-under-0-02-per-gb-is-practically-the-cheapest-data-storage-available-2000651777)
+ - [What a dizzying new spy thriller took from Satoshi Kon&#39;s Millennium Actress](https://www.polygon.com/reflection-dead-diamond-spy-thriller-satoshi-kon-millennium-actress/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
