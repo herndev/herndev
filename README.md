@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Noctua fans, rejoice: You can finally colour-match your 3D printed creations to that iconic colour scheme using official 3D printing filaments](https://www.pcgamer.com/hardware/noctua-fans-rejoice-you-can-finally-colour-match-your-3d-printed-creations-to-that-iconic-colour-scheme-using-official-3d-printing-filaments/)
- - [This 15″ Portable Monitor Goes Zero Margin on Amazon, Now Cheaper Than No-Name Generic Fixed Screen](https://kotaku.com/this-15-portable-monitor-goes-zero-margin-on-amazon-now-cheaper-than-no-name-generic-fixed-screen-2000652145)
- - [Skyrim On Switch 2 Is 53GB, Still Locked To 30FPS, And Players Report Terrible Input Lag](https://kotaku.com/skyrim-elder-scrolls-switch-2-port-60fps-30fps-compare-price-input-lag-fix-patch-2000652156)<!-- GAME:END -->
+ - [Dunjungle Leaps Onto Xbox Series X|S! How the Monkey Evolved](https://news.xbox.com/en-us/2025/12/10/dunjungle-evolution/)
+ - [JJK Execution review: Mappa doesn&#39;t fix that season 2 fight, but it&#39;s still worth watching](https://www.polygon.com/jujutsu-kaisen-execution-review/)
+ - [This Lenovo 15″ Laptop With Good Everyday Specs Drops 75% Off, But Only on Amazon Not Official Site](https://kotaku.com/this-lenovo-15-laptop-with-good-everyday-specs-drops-75-off-but-only-on-amazon-not-official-site-2000652164)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
