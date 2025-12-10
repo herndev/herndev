@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft wants to make Windows &#39;the best place to game—no matter where you play&#39; but Linux and Valve&#39;s SteamOS have other ideas](https://www.pcgamer.com/software/windows/microsoft-wants-to-make-windows-the-best-place-to-game-no-matter-where-you-play-but-linux-and-valves-steamos-have-other-ideas/)
- - [Seagate’s 8TB External Hard Drive at Under $0.02 per GB Is Practically the Cheapest Data Storage Available](https://kotaku.com/seagates-8tb-external-hard-drive-at-under-0-02-per-gb-is-practically-the-cheapest-data-storage-available-2000651777)
- - [What a dizzying new spy thriller took from Satoshi Kon&#39;s Millennium Actress](https://www.polygon.com/reflection-dead-diamond-spy-thriller-satoshi-kon-millennium-actress/)<!-- GAME:END -->
+ - [The Temple of Elemental Evil returns on Steam with big changes and fixes](https://www.polygon.com/temple-elemental-evil-dungeons-dragons-pc-game-remake-steam/)
+ - [Roborock Q7 M5+ Hits New Record Low, Amazon Goes Zero Profit Play for Christmas Clearance](https://kotaku.com/roborock-q7-m5-hits-new-record-low-amazon-goes-zero-profit-play-for-christmas-clearance-2000652112)
+ - [ASUS Goes Full Clearance on Its Gaming Laptop as the TUF F16 With RTX 4050 Hits a New Record Low](https://kotaku.com/asus-goes-full-clearance-on-its-gaming-laptop-as-the-tuf-f16-with-rtx-4050-hits-a-new-record-low-2000651800)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
