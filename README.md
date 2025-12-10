@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10a leak reveals key specs via Verizon listing](https://www.androidauthority.com/google-pixel-10a-verizon-certification-leak-3623943/)
- - [Documents and former US government officials detail ICE&#39;s digital surveillance capabilities, amid a drive to deport 1M people in President Trump&#39;s first year &lpar;Peter Andringa/Financial Times&rpar;](http://www.techmeme.com/251210/p15#a251210p15)
- - [An interview with Tencent Games Global CEO Michelle Liu, whose hands-on dealmaking approach generated $10B in international gaming revenue over the past year &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p14#a251210p14)<!-- TECH:END -->
+ - [The US CBP proposes vetting five years of social media history for travelers from the UK, France, Germany, and more; the current system only requires basic info &lpar;Christine Chung/New York Times&rpar;](http://www.techmeme.com/251210/p17#a251210p17)
+ - [The latest Pixel Camera update makes a welcome UI change](https://www.androidauthority.com/google-pixel-camera-update-ui-change-3623921/)
+ - [The One UI 8.5 beta turned my Samsung phone into an iPhone](https://www.androidauthority.com/one-ui-8-5-turned-my-samsung-phone-into-iphone-3623645/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
