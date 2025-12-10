@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to deal with oversized children throwing tantrum](http://9gag.com/gag/aMV00ox)
- - ⏩ [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
- - 👉 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)<!-- MEMES:END -->
+ - 💣 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
+ - ⏩ [How to deal with oversized children throwing tantrum](http://9gag.com/gag/aMV00ox)
+ - 👉 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)<!-- MEMES:END -->
 
 ---
 
