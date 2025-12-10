@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oi mate](http://9gag.com/gag/aKGXX8b)
+ - 💣 [Diversity](http://9gag.com/gag/aNDGXAw)
  - ⏩ [4th dimension explained](http://9gag.com/gag/aE0jj2G)
- - 👉 [Sometimes you have to learn it the hard way](http://9gag.com/gag/aNDGXm0)<!-- MEMES:END -->
+ - 👉 [Baby it\u2019s cold outside](http://9gag.com/gag/aBybbGZ)<!-- MEMES:END -->
 
 ---
 
