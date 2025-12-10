@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese state-backed chipmaker Hygon, which makes server CPUs, calls off merger with its top shareholder and server maker Sugon; the merger was announced in May &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/251210/p7#a251210p7)
- - [Nintendo&#39;s shares slid as much as 4.7% on December 10 to their lowest level since May, amid concerns that rising memory chip prices will erode its profit &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p6#a251210p6)
- - [Ofcom: UK porn traffic has now settled at a &quot;lower level&quot; since the start of age checks; VPN users rose to a peak of 1.4M in mid-August and now stand at 900K &lpar;The Guardian&rpar;](http://www.techmeme.com/251210/p5#a251210p5)<!-- TECH:END -->
+ - [Survey of 1,458 US teens: 64% use AI chatbots, and 28% use them daily; 59% say they use ChatGPT, 23% Gemini, 20% Meta AI, 14% Copilot, and 9% Character.ai &lpar;Pew Research Center&rpar;](http://www.techmeme.com/251210/p12#a251210p12)
+ - [Nexperia&#39;s former CEO Frans Scheper says Wingtech, which bought the Dutch chipmaker in 2019, quickly plotted to send Nexperia&#39;s research and IP to China &lpar;New York Times&rpar;](http://www.techmeme.com/251210/p11#a251210p11)
+ - [The European Commission says Apple and Google&#39;s Android-iPhone data transfer tool, which will be available globally, is an example of the benefits of the DMA &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/251210/p10#a251210p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
