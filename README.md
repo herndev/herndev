@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: The best Apple AirPods 4 with ANC deal is still around!](https://www.androidauthority.com/apple-airpods-4-with-anc-deal-3-3623830/)
- - [Somehow, this AI-generated McDonald&amp;#8217;s ad about hating Christmas was a flop](https://www.theverge.com/news/841220/mcdonalds-ai-generated-christmas-ad)
- - [Report: SpaceX is expected to make around $15B in revenue in 2025, increasing to between $22B and $24B in 2026, with the majority coming from Starlink &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/251209/p47#a251209p47)<!-- TECH:END -->
+ - [European Commission credits DMA for upcoming iPhone-Android switching tools](https://appleinsider.com/articles/25/12/09/european-commission-credits-dma-for-upcoming-iphone-android-switching-tools?utm_source=rss)
+ - [Crunchyroll announces it is shutting down its free ad-supported streaming option on December 31; Crunchyroll subscriptions start at $7.99/month or $79.99/year &lpar;Luke Bouma/Cord Cutters News&rpar;](http://www.techmeme.com/251209/p49#a251209p49)
+ - [Google adds new pinch and wrist gestures to the Pixel Watch 4 and says Watch 3 and Watch 4 will now use an on-device Gemma-based AI model for Smart Replies &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251209/p48#a251209p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
