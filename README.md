@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US CBP proposes vetting five years of social media history for travelers from the UK, France, Germany, and more; the current system only requires basic info &lpar;Christine Chung/New York Times&rpar;](http://www.techmeme.com/251210/p17#a251210p17)
- - [The latest Pixel Camera update makes a welcome UI change](https://www.androidauthority.com/google-pixel-camera-update-ui-change-3623921/)
- - [The One UI 8.5 beta turned my Samsung phone into an iPhone](https://www.androidauthority.com/one-ui-8-5-turned-my-samsung-phone-into-iphone-3623645/)<!-- TECH:END -->
+ - [This unreleased Galaxy Z TriFold prototype was probably meant to be a secret &lpar;Update: It’s ‘Nothing special’&rpar;](https://www.androidauthority.com/samsung-galaxy-z-trifold-unreleased-3623458/)
+ - [Sources: this fall, Alexandr Wang told people that he disagreed with top Meta execs like Chris Cox and Andrew Bosworth, including on using Instagram data for AI &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/251210/p22#a251210p22)
+ - [Google Discover could soon borrow this experimental feature from YouTube](https://www.androidauthority.com/google-discover-custom-feed-chatbot-apk-teardown-3623978/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
