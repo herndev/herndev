@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Holiday Mac mini price war slashes desktops to as low as $479](https://appleinsider.com/articles/25/12/10/holiday-mac-mini-price-war-slashes-desktops-to-as-low-as-479?utm_source=rss)
- - [Google unveils Emergency Live Video, similar to iOS&#39; Emergency SOS Live Video, letting US users on Android 8 or later to share live video with 911 responders &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251210/p45#a251210p45)
- - [The 27 best gifts for travelers who are always on the move](https://www.theverge.com/gadgets/799419/best-gifts-for-travelers-2025)<!-- TECH:END -->
+ - [New Apple Cash stickers add color &amp; personality to quick payments](https://appleinsider.com/articles/25/12/10/new-apple-cash-stickers-add-color-personality-to-quick-payments?utm_source=rss)
+ - [Samsung Health will soon drop some of its services: Here’s what you’re losing](https://www.androidauthority.com/samsung-health-app-losing-programs-3624085/)
+ - [Tim Cook met with US lawmakers in a closed-door meeting to lobby against provisions in pending legislation that would require app stores to verify users&#39; ages &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p47#a251210p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
