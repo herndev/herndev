@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
- - ⏩ [How to deal with oversized children throwing tantrum](http://9gag.com/gag/aMV00ox)
- - 👉 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)<!-- MEMES:END -->
+ - 💣 [How to deal with oversized children throwing tantrum](http://9gag.com/gag/aMV00ox)
+ - ⏩ [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
+ - 👉 [Wedding drinking is all about pacing yourself, don&#39;t peak to early.](http://9gag.com/gag/aYQvvXV)<!-- MEMES:END -->
 
 ---
 
