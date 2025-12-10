@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The wheel is gone but the mission continues](https://www.reddit.com/r/funny/comments/1pirsrd/the_wheel_is_gone_but_the_mission_continues/)
- - ⏩ [Blasting the GOAT full Vol and letting the music do the rest.](https://www.reddit.com/r/funny/comments/1pirdsk/blasting_the_goat_full_vol_and_letting_the_music/)
- - 👉 [My Reddit feed really answered one meme with the next](https://www.reddit.com/r/memes/comments/1piqaxk/my_reddit_feed_really_answered_one_meme_with_the/)<!-- MEMES:END -->
+ - 💣 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
+ - ⏩ [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 👉 [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)<!-- MEMES:END -->
 
 ---
 
