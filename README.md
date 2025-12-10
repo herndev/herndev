@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Homey’s flagship smart home hub just got a key spec bump](https://www.androidauthority.com/homey-pro-2026-upgrade-3623984/)
- - [OpenAI hires Slack’s CEO as its chief revenue officer](https://www.theverge.com/news/841540/openai-slack-ceo-denise-dresser-chief-revenue-officer)
- - [The Verge picks the standout tech of 2025](https://www.theverge.com/featured-video/841319/the-verge-standout-tech-2025)<!-- TECH:END -->
+ - [No one knows what to call these things](https://www.theverge.com/gadgets/841536/smart-glasses-ai-glasses-xr-ar-headsets-terminology-wearables)
+ - [There are no good outcomes for the Warner Bros. sale](https://www.theverge.com/streaming/841581/warner-bros-netflix-paramount-skydance-ellison-hostile-bid)
+ - [The Pixel Watch 4 is getting new one-handed gestures and better smart replies](https://www.theverge.com/news/841514/pixel-watch-4-gestures-pinch-control-wrist-turn-dismiss-enhaced-smart-replies)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
