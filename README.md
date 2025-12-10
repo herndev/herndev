@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
- - ⏩ [Banana 🍌](https://www.reddit.com/r/funny/comments/1pj26p5/banana/)
+ - 💣 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - ⏩ [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
  - 👉 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)<!-- MEMES:END -->
 
 ---
