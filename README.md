@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Disney director spent 3 years animating this beautiful short on his own](https://www.polygon.com/disney-director-aaron-blaise-snow-bear-short/)
- - [Anker Solix 2000W Power Station Goes Super Low on Amazon, Winter Blackout Season Just Got Less Scary](https://kotaku.com/anker-solix-2000w-power-station-goes-super-low-on-amazon-winter-blackout-season-just-got-less-scary-2000651723)
- - [&#39;Rethinking the survival genre&#39;: In this post-apocalyptic adventure, &#39;your body tells you what’s going on&#39; instead of stamina and hunger meters](https://www.pcgamer.com/games/survival-crafting/rethinking-the-survival-genre-in-this-post-apocalyptic-adventure-your-body-tells-you-whats-going-on-instead-of-stamina-and-hunger-meters/)<!-- GAME:END -->
+ - [Ignore the Mini 4 Pro, New DJI Mini 5 Pro Bundle With 3 Batteries Drops to New All-Time Low](https://kotaku.com/ignore-the-mini-4-pro-new-dji-mini-5-pro-bundle-with-3-batteries-drops-to-new-all-time-low-2000651747)
+ - [&#39;We actually didn’t attribute any value&#39; to Warner&#39;s game studios, Netflix boss says about the acquisition deal: &#39;They’re relatively minor compared to the grand scheme of things&#39;](https://www.pcgamer.com/gaming-industry/we-actually-didnt-attribute-any-value-to-warners-game-studios-netflix-boss-says-about-the-acquisition-deal-theyre-relatively-minor-compared-to-the-grand-scheme-of-things/)
+ - [Sony Slashes PlayStation VR2 to Black Friday Low, Now Cheaper Than Meta Quest 3S and Perfect for PS5 Owners](https://kotaku.com/sony-slashes-playstation-vr2-to-black-friday-low-now-cheaper-than-meta-quest-3s-and-perfect-for-ps5-owners-2000651740)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
