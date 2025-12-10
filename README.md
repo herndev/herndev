@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google is set to be hit with a potentially large EU fine in Q1 2026 if it does not do more to ensure Google Play complies with EU competition rules &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/251210/p53#a251210p53)
- - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
- - [OpenAI says the cyber capabilities of its frontier AI models are accelerating and warns that upcoming models are likely to pose a &quot;high&quot; risk &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251210/p52#a251210p52)<!-- TECH:END -->
+ - [This Baseus power bank doubles as a hotspot, and it’s 20% off](https://www.androidauthority.com/baseus-energeek-gx11-mobile-hotspot-power-bank-deal-3624164/)
+ - [ChatGPT was 2025&#39;s most downloaded free app in the US iOS App Store, up from No. 4 in 2024, followed by Threads, Google, TikTok, WhatsApp, and Instagram &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251210/p57#a251210p57)
+ - [Google puts the pedal to the metal on Gemini for Home rollout](https://www.androidauthority.com/google-speeds-up-gemini-for-home-rollout-3624181/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
