@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Temple of Elemental Evil returns on Steam with big changes and fixes](https://www.polygon.com/temple-elemental-evil-dungeons-dragons-pc-game-remake-steam/)
- - [Roborock Q7 M5+ Hits New Record Low, Amazon Goes Zero Profit Play for Christmas Clearance](https://kotaku.com/roborock-q7-m5-hits-new-record-low-amazon-goes-zero-profit-play-for-christmas-clearance-2000652112)
- - [ASUS Goes Full Clearance on Its Gaming Laptop as the TUF F16 With RTX 4050 Hits a New Record Low](https://kotaku.com/asus-goes-full-clearance-on-its-gaming-laptop-as-the-tuf-f16-with-rtx-4050-hits-a-new-record-low-2000651800)<!-- GAME:END -->
+ - [A day in the life of Apex Legends esports king ImperialHal](https://www.polygon.com/apex-legends-imperialhal-interview-2025/)
+ - [Brave the Wasteland With New Fallout Pip-Boy Controllers](https://news.xbox.com/en-us/2025/12/10/fallout-pip-boy-xbox-controller-design-lab/)
+ - [Samsung’s 32-Inch Odyssey Curved Monitor Hits Record Low, Amazon Goes Zero Profit for Gamers](https://kotaku.com/samsungs-32-inch-odyssey-curved-monitor-hits-record-low-amazon-goes-zero-profit-for-gamers-2000652124)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
