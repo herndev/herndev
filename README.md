@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boom&#39;s move to modify its supersonic engine to power AI data centers is another example of industrial capacity being repurposed to serve the AI supply chain &lpar;Bloomberg&rpar;](http://www.techmeme.com/251209/p55#a251209p55)
  - [Citi lifts Apple stock target following strong iPhone sales](https://appleinsider.com/articles/25/12/10/citi-lifts-apple-stock-target-following-strong-iphone-sales?utm_source=rss)
- - [The AI industry’s biggest week: Google’s rise, RL mania, and a party boat](https://www.theverge.com/column/841207/ai-neurips-2025)
- - [Silicon Valley Is All About the Hard Sell These Days](https://www.wired.com/story/sam-altman-jimmy-fallon-silicon-valley-hard-sell/)<!-- TECH:END -->
+ - [The AI industry’s biggest week: Google’s rise, RL mania, and a party boat](https://www.theverge.com/column/841207/ai-neurips-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
