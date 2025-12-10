@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [European Commission credits DMA for upcoming iPhone-Android switching tools](https://appleinsider.com/articles/25/12/09/european-commission-credits-dma-for-upcoming-iphone-android-switching-tools?utm_source=rss)
- - [Crunchyroll announces it is shutting down its free ad-supported streaming option on December 31; Crunchyroll subscriptions start at $7.99/month or $79.99/year &lpar;Luke Bouma/Cord Cutters News&rpar;](http://www.techmeme.com/251209/p49#a251209p49)
- - [Google adds new pinch and wrist gestures to the Pixel Watch 4 and says Watch 3 and Watch 4 will now use an on-device Gemma-based AI model for Smart Replies &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251209/p48#a251209p48)<!-- TECH:END -->
+ - [Sources: China added AI chips from Chinese groups to its government-approved list of suppliers for the first time, before Trump&#39;s move to allow Nvidia exports &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/251209/p54#a251209p54)
+ - [Take an Amazon Echo Dot Max home at a record-low price](https://www.androidauthority.com/amazon-echo-dot-max-deal-3623829/)
+ - [Sources: at a November meeting in the Oval Office, Jensen Huang told President Trump that a flurry of state AI laws could cause the US to lose the AI race &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251209/p53#a251209p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
