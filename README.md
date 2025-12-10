@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - ⏩ [Too much Action Films](http://9gag.com/gag/aE0jNLe)
- - 👉 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)<!-- MEMES:END -->
+ - 💣 [Oi mate](http://9gag.com/gag/aKGXX8b)
+ - ⏩ [4th dimension explained](http://9gag.com/gag/aE0jj2G)
+ - 👉 [Sometimes you have to learn it the hard way](http://9gag.com/gag/aNDGXm0)<!-- MEMES:END -->
 
 ---
 
