@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No one knows what to call these things](https://www.theverge.com/gadgets/841536/smart-glasses-ai-glasses-xr-ar-headsets-terminology-wearables)
- - [There are no good outcomes for the Warner Bros. sale](https://www.theverge.com/streaming/841581/warner-bros-netflix-paramount-skydance-ellison-hostile-bid)
- - [The Pixel Watch 4 is getting new one-handed gestures and better smart replies](https://www.theverge.com/news/841514/pixel-watch-4-gestures-pinch-control-wrist-turn-dismiss-enhaced-smart-replies)<!-- TECH:END -->
+ - [Google’s got some new ways to highlight the news sources you care about most](https://www.androidauthority.com/news-subscriptions-3624056/)
+ - [Your Android phone can now stream live video to 911 to save your life](https://www.androidauthority.com/android-emergency-live-video-3623953/)
+ - [Google says it will link to more sources in AI Mode](https://www.theverge.com/news/841603/google-ai-mode-source-links-web-guide)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
