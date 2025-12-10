@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Tencent Games Global CEO Michelle Liu, whose hands-on dealmaking approach generated $10B in international gaming revenue over the past year &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p14#a251210p14)
- - [Cambridge, UK-based Nu Quantum, which builds networking infrastructure to link and scale quantum computers, raised a $60M Series A led by National Grid Partners &lpar;Isabella Ward/Bloomberg&rpar;](http://www.techmeme.com/251210/p13#a251210p13)
- - [2026 could finally be the year when foldables become mainstream](https://www.androidauthority.com/foldable-sales-grow-30-percent-2026-3623917/)<!-- TECH:END -->
+ - [Pixel 10a leak reveals key specs via Verizon listing](https://www.androidauthority.com/google-pixel-10a-verizon-certification-leak-3623943/)
+ - [Documents and former US government officials detail ICE&#39;s digital surveillance capabilities, amid a drive to deport 1M people in President Trump&#39;s first year &lpar;Peter Andringa/Financial Times&rpar;](http://www.techmeme.com/251210/p15#a251210p15)
+ - [An interview with Tencent Games Global CEO Michelle Liu, whose hands-on dealmaking approach generated $10B in international gaming revenue over the past year &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p14#a251210p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
