@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 may finally add the native App Lock feature Pixel users have been waiting for](https://www.androidauthority.com/android-17-app-lock-rumor-3623814/)
- - [Aurora will have ‘hundreds’ of driverless trucks on the road by the end of 2026, CEO says](https://www.theverge.com/transportation/841067/aurora-autonomous-truck-chris-urmson-interview)
- - [AMD FSR Redstone is an exciting and confusing upgrade for Radeon PC gamers](https://www.theverge.com/games/841342/amd-fsr-redstone-is-an-exciting-and-confusing-upgrade-for-radeon-pc-gamers)<!-- TECH:END -->
+ - [Homey’s flagship smart home hub just got a key spec bump](https://www.androidauthority.com/homey-pro-2026-upgrade-3623984/)
+ - [OpenAI hires Slack’s CEO as its chief revenue officer](https://www.theverge.com/news/841540/openai-slack-ceo-denise-dresser-chief-revenue-officer)
+ - [The Verge picks the standout tech of 2025](https://www.theverge.com/featured-video/841319/the-verge-standout-tech-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
