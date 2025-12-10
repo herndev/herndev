@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 💣 [She is lying out of her ASS right now](http://9gag.com/gag/avyBBqd)
  - ⏩ [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
- - 👉 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)<!-- MEMES:END -->
+ - 👉 [4th dimension explained](http://9gag.com/gag/aE0jj2G)<!-- MEMES:END -->
 
 ---
 
