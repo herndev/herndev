@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fifth Apple Store in India to open on December 11](https://appleinsider.com/articles/25/12/10/fifth-apple-store-in-india-to-open-on-december-11?utm_source=rss)
- - [Adobe launches free ChatGPT-integrated apps for Photoshop, Acrobat, and Express on desktop, the web, and iOS, after OpenAI added app integrations in October &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251210/p29#a251210p29)
- - [Best Base Layers &lpar;2025&rpar;: Ibex, Smartwool, and More](https://www.wired.com/gallery/best-base-layers/)<!-- TECH:END -->
+ - [Android 17 may finally add the native App Lock feature Pixel users have been waiting for](https://www.androidauthority.com/android-17-app-lock-rumor-3623814/)
+ - [Aurora will have ‘hundreds’ of driverless trucks on the road by the end of 2026, CEO says](https://www.theverge.com/transportation/841067/aurora-autonomous-truck-chris-urmson-interview)
+ - [AMD FSR Redstone is an exciting and confusing upgrade for Radeon PC gamers](https://www.theverge.com/games/841342/amd-fsr-redstone-is-an-exciting-and-confusing-upgrade-for-radeon-pc-gamers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
