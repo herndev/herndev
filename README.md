@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Five years in, is Nothing moving in the right direction?](https://www.androidauthority.com/nothing-in-2025-open-thread-3623500/)
- - [Galaxy S26 leak reveals Samsung’s big move into magnetic accessories](https://www.androidauthority.com/samsung-galaxy-s26-magnetic-accessories-3623853/)
- - [DEEP Robotics, a Hangzhou-based startup that builds quadruped and humanoid robots, raised a $70M Series C to expand R&amp;D and production capacity &lpar;Danielle Popov/South China Morning Post&rpar;](http://www.techmeme.com/251209/p57#a251209p57)<!-- TECH:END -->
+ - [Sources: Nvidia has privately demonstrated its unreleased location verification tech in recent months, which could show the country its chips are operating in &lpar;Reuters&rpar;](http://www.techmeme.com/251210/p3#a251210p3)
+ - [Microsoft Research, Providence, and UW develop the GigaTIME AI model, aiming to perform tumor analysis in a fraction of the time and cost of existing methods &lpar;Lisa Stiffler/GeekWire&rpar;](http://www.techmeme.com/251210/p2#a251210p2)
+ - [Bengaluru-based e-commerce platform Meesho opened up 54% in its stock market debut, giving the company a ~$8.4B market cap after raising ~$603M in its India IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p1#a251210p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
