@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - ⏩ [No more bald 9gaggers!](http://9gag.com/gag/aryD9g0)
- - 👉 [Steve Carell left the office after season 7 because his contract ended but the real reason is complex, he said he wanted to focus on his family but turns out NBC never renewed his contract due to leadership change. Moral Lesson, Companies are never loyal...](http://9gag.com/gag/azxvDVm)<!-- MEMES:END -->
+ - ⏩ [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
+ - 👉 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)<!-- MEMES:END -->
 
 ---
 
