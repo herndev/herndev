@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Forge—Tips for beginner miners, crafting recipes, and picking your next equipment upgrades](https://www.pcgamer.com/roblox/the-forge-tips/)
  - [Steam&#39;s latest cozy game has a fascinating backstory: Not only is it a PS1 game that predates the &#39;cozy&#39; era, but it&#39;s only officially available in English thanks to fan translators](https://www.pcgamer.com/games/puzzle/steams-latest-cozy-game-has-a-fascinating-backstory-not-only-is-it-a-ps1-game-that-predates-the-cozy-era-but-its-only-officially-available-in-english-thanks-to-fan-translators/)
- - [From today, Australian teens and children under 16 can&#39;t sign-up to Twitch and 9 other social media platforms, as world-first ban takes effect](https://www.pcgamer.com/gaming-industry/from-today-australian-teens-and-children-under-16-cant-sign-up-to-twitch-and-9-other-social-media-platforms-as-world-first-ban-takes-effect/)
- - [Lenovo Gaming Laptop With Solid Specs &lpar;40GB DDR5, 1TB SSD&rpar; Drops 70% Off, Amazon Goes Zero Profit to Dump Stock](https://kotaku.com/lenovo-gaming-laptop-with-solid-specs-40gb-ddr5-1tb-ssd-drops-70-off-amazon-goes-zero-profit-to-dump-stock-2000651754)<!-- GAME:END -->
+ - [From today, Australian teens and children under 16 can&#39;t sign-up to Twitch and 9 other social media platforms, as world-first ban takes effect](https://www.pcgamer.com/gaming-industry/from-today-australian-teens-and-children-under-16-cant-sign-up-to-twitch-and-9-other-social-media-platforms-as-world-first-ban-takes-effect/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
