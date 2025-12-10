@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia has privately demonstrated its unreleased location verification tech in recent months, which could show the country its chips are operating in &lpar;Reuters&rpar;](http://www.techmeme.com/251210/p3#a251210p3)
- - [Microsoft Research, Providence, and UW develop the GigaTIME AI model, aiming to perform tumor analysis in a fraction of the time and cost of existing methods &lpar;Lisa Stiffler/GeekWire&rpar;](http://www.techmeme.com/251210/p2#a251210p2)
- - [Bengaluru-based e-commerce platform Meesho opened up 54% in its stock market debut, giving the company a ~$8.4B market cap after raising ~$603M in its India IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p1#a251210p1)<!-- TECH:END -->
+ - [Chinese state-backed chipmaker Hygon, which makes server CPUs, calls off merger with its top shareholder and server maker Sugon; the merger was announced in May &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/251210/p7#a251210p7)
+ - [Nintendo&#39;s shares slid as much as 4.7% on December 10 to their lowest level since May, amid concerns that rising memory chip prices will erode its profit &lpar;Bloomberg&rpar;](http://www.techmeme.com/251210/p6#a251210p6)
+ - [Ofcom: UK porn traffic has now settled at a &quot;lower level&quot; since the start of age checks; VPN users rose to a peak of 1.4M in mid-August and now stand at 900K &lpar;The Guardian&rpar;](http://www.techmeme.com/251210/p5#a251210p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
