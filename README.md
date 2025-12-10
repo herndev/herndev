@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals is turning up the heat with a new busted hero who can steal powers from her enemies to create shields, heal, and turn invisible](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-turning-up-the-heat-with-a-new-busted-hero-who-can-steal-powers-from-her-enemies-to-create-shields-heal-and-turn-invisible/)
- - [The Forge—Tips for beginner miners, crafting recipes, and picking your next equipment upgrades](https://www.pcgamer.com/roblox/the-forge-tips/)
- - [Steam&#39;s latest cozy game has a fascinating backstory: Not only is it a PS1 game that predates the &#39;cozy&#39; era, but it&#39;s only officially available in English thanks to fan translators](https://www.pcgamer.com/games/puzzle/steams-latest-cozy-game-has-a-fascinating-backstory-not-only-is-it-a-ps1-game-that-predates-the-cozy-era-but-its-only-officially-available-in-english-thanks-to-fan-translators/)<!-- GAME:END -->
+ - [Metroid Prime 4 is the Dragon Age Veilguard of Metroid](https://www.polygon.com/metroid-prime-4-is-the-dragon-age-veilguard-of-metroid/)
+ - [Google is under investigation in the EU to find out whether it imposes unfair terms on content creators for AI](https://www.pcgamer.com/hardware/google-is-under-investigation-in-the-eu-to-find-out-whether-it-imposes-unfair-terms-on-content-creators-for-ai/)
+ - [Activision Admits Call Of Duty: Black Ops 7 Isn’t Good Enough](https://kotaku.com/call-of-duty-black-ops-7-sales-activision-2000652111)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
