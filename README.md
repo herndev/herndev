@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ignore the Mini 4 Pro, New DJI Mini 5 Pro Bundle With 3 Batteries Drops to New All-Time Low](https://kotaku.com/ignore-the-mini-4-pro-new-dji-mini-5-pro-bundle-with-3-batteries-drops-to-new-all-time-low-2000651747)
- - [&#39;We actually didn’t attribute any value&#39; to Warner&#39;s game studios, Netflix boss says about the acquisition deal: &#39;They’re relatively minor compared to the grand scheme of things&#39;](https://www.pcgamer.com/gaming-industry/we-actually-didnt-attribute-any-value-to-warners-game-studios-netflix-boss-says-about-the-acquisition-deal-theyre-relatively-minor-compared-to-the-grand-scheme-of-things/)
- - [Sony Slashes PlayStation VR2 to Black Friday Low, Now Cheaper Than Meta Quest 3S and Perfect for PS5 Owners](https://kotaku.com/sony-slashes-playstation-vr2-to-black-friday-low-now-cheaper-than-meta-quest-3s-and-perfect-for-ps5-owners-2000651740)<!-- GAME:END -->
+ - [From today, Australian teens and children under 16 can&#39;t sign-up to Twitch and 9 other social media platforms, as world-first ban takes effect](https://www.pcgamer.com/gaming-industry/from-today-australian-teens-and-children-under-16-cant-sign-up-to-twitch-and-9-other-social-media-platforms-as-world-first-ban-takes-effect/)
+ - [Lenovo Gaming Laptop With Solid Specs &lpar;40GB DDR5, 1TB SSD&rpar; Drops 70% Off, Amazon Goes Zero Profit to Dump Stock](https://kotaku.com/lenovo-gaming-laptop-with-solid-specs-40gb-ddr5-1tb-ssd-drops-70-off-amazon-goes-zero-profit-to-dump-stock-2000651754)
+ - [Arc Raiders&#39; big winter update is coming next week, Embark teases new temperature mechanic](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-big-winter-update-is-coming-next-week-embark-teases-new-temperature-mechanic/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
