@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
- - ⏩ [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
- - 👉 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)<!-- MEMES:END -->
+ - 💣 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
+ - ⏩ [Banana 🍌](https://www.reddit.com/r/funny/comments/1pj26p5/banana/)
+ - 👉 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)<!-- MEMES:END -->
 
 ---
 
