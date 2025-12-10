@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This unreleased Galaxy Z TriFold prototype was probably meant to be a secret &lpar;Update: It’s ‘Nothing special’&rpar;](https://www.androidauthority.com/samsung-galaxy-z-trifold-unreleased-3623458/)
- - [Sources: this fall, Alexandr Wang told people that he disagreed with top Meta execs like Chris Cox and Andrew Bosworth, including on using Instagram data for AI &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/251210/p22#a251210p22)
- - [Google Discover could soon borrow this experimental feature from YouTube](https://www.androidauthority.com/google-discover-custom-feed-chatbot-apk-teardown-3623978/)<!-- TECH:END -->
+ - [Fifth Apple Store in India to open on December 11](https://appleinsider.com/articles/25/12/10/fifth-apple-store-in-india-to-open-on-december-11?utm_source=rss)
+ - [Adobe launches free ChatGPT-integrated apps for Photoshop, Acrobat, and Express on desktop, the web, and iOS, after OpenAI added app integrations in October &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251210/p29#a251210p29)
+ - [Best Base Layers &lpar;2025&rpar;: Ibex, Smartwool, and More](https://www.wired.com/gallery/best-base-layers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
