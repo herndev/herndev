@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Months of Testing Smart Rings, This Is the Only One I Think You Should Buy](https://www.cnet.com/health/fitness/best-smart-ring/#ftag=CAD590a51e)
- - [The 6 Best Parent Tech Devices We Swear By for Raising Kids](https://www.cnet.com/health/parenting/best-parent-tech-devices-raising-kids/#ftag=CAD590a51e)
- - [Can’t make phone calls via Gemini on your Pixel? You’re not alone.](https://www.androidauthority.com/phone-calls-gemini-pixel-not-working-3624255/)<!-- TECH:END -->
+ - [Tired of ads in your notifications? How to use One UI 8.5’s secret feature to block them](https://www.androidauthority.com/samsung-one-ui-8-5-block-app-notifications-excessive-ads-how-to-3623359/)
+ - [AYANEO’s first gaming phone is a beautiful tribute to the Xperia Play](https://www.androidauthority.com/ayaneo-pocket-play-announcement-3624283/)
+ - [Ayaneo’s first Android phone looks like a return of the Xperia Play](https://www.theverge.com/news/842243/ayaneo-pocket-play-gaming-phone-android-sony-xperia-play)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
