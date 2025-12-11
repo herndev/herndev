@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
- - ⏩ [Childhood dream achieved!](http://9gag.com/gag/aO8nnL3)
- - 👉 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)<!-- MEMES:END -->
+ - 💣 [And fans are furious](http://9gag.com/gag/an703X0)
+ - ⏩ [Well, well, well](http://9gag.com/gag/ajP3v4w)
+ - 👉 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)<!-- MEMES:END -->
 
 ---
 
