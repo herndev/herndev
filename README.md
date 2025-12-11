@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: 15 TikTok accounts posting AI videos of sexualized underage girls have nearly 300K followers and 2M+ likes; TikTok says 14 accounts don&#39;t violate rules &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/251211/p21#a251211p21)
- - [Latest macOS malware uses trusted search &amp; AI to dupe users](https://appleinsider.com/articles/25/12/11/latest-macos-malware-uses-trusted-search-ai-to-dupe-users?utm_source=rss)
- - [It took Google four years to fix the Pixel Watch’s terrible screenshots](https://www.androidauthority.com/pixel-watch-terrible-screenshots-fixed-3624369/)<!-- TECH:END -->
+ - [AT&amp;#038;T’s new home security system is powered by Google Home and Abode](https://www.theverge.com/news/842307/att-connected-life-smart-home-security-google-price)
+ - [Disney sends Google a cease-and-desist, accusing Google of copyright infringement on a &quot;massive scale&quot; and using AI to &quot;exploit and distribute&quot; the content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251211/p24#a251211p24)
+ - [T-Mobile is giving away free lines again, but not everyone is invited](https://www.androidauthority.com/t-mobile-free-line-promo-dec-2025-3624433/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
