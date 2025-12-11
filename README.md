@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Saudi Arabia](http://9gag.com/gag/amoOOyv)
- - ⏩ [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
- - 👉 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)<!-- MEMES:END -->
+ - 💣 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - ⏩ [That was an O o moment](http://9gag.com/gag/awy9Dq1)
+ - 👉 [How to deal with oversized children throwing tantrum](http://9gag.com/gag/aMV00ox)<!-- MEMES:END -->
 
 ---
 
