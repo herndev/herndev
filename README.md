@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The First Supergirl Trailer Has A Great Line About What Makes Her Different From Superman](https://kotaku.com/supergirl-trailer-jason-momoa-lobo-argo-city-2000652693)
- - [How to evolve Clobbopus in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-za-plza-evolve-clobbopus-grapploct-requirements/)
- - [Side Mission 144 &#39;Imitation is the Sincerest Form of Flattery&#39; walkthrough in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-za-plza-side-mission-144-imitation-highest-form-of-flattery-walkthrough/)<!-- GAME:END -->
+ - [The Game Awards live coverage: Every reveal and announcement as it happens](https://www.pcgamer.com/gaming-industry/live/news/the-game-awards-live-coverage/)
+ - [Cultic Review](https://www.pcgamer.com/games/fps/cultic-review/)
+ - [The First Supergirl Trailer Has A Great Line About What Makes Her Different From Superman](https://kotaku.com/supergirl-trailer-jason-momoa-lobo-argo-city-2000652693)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
