@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon now offers same-day perishable grocery delivery in 2,300+ US markets and has expanded the service&#39;s grocery offerings by 30%+ since its August launch &lpar;Peyton Bigora/Grocery Dive&rpar;](http://www.techmeme.com/251210/p59#a251210p59)
- - [US May Demand 5 Years of Social Media History From Incoming Tourists](https://www.cnet.com/tech/services-and-software/us-may-demand-5-years-of-social-media-history-from-incoming-tourists/#ftag=CAD590a51e)
- - [Google rolls out Preferred Sources globally, letting users customize &quot;top stories&quot; in Search, and launches highlighted links from users&#39; news subscriptions &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/251210/p58#a251210p58)<!-- TECH:END -->
+ - [Spotify will begin testing a feature that lets a user write a prompt for a playlist and receive a unique set of songs based on the user&#39;s earlier behavior &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251210/p61#a251210p61)
+ - [Donald Trump reminds the entire world he has no idea what 6G means](https://www.theverge.com/policy/842087/trump-does-not-understand-6g-5g)
+ - [Trump could introduce ‘mandatory’ social media reviews for travelers](https://www.theverge.com/news/842129/trump-admin-us-cbp-social-media-history-travelers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
