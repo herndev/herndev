@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;#038;T’s new home security system is powered by Google Home and Abode](https://www.theverge.com/news/842307/att-connected-life-smart-home-security-google-price)
- - [Disney sends Google a cease-and-desist, accusing Google of copyright infringement on a &quot;massive scale&quot; and using AI to &quot;exploit and distribute&quot; the content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251211/p24#a251211p24)
- - [T-Mobile is giving away free lines again, but not everyone is invited](https://www.androidauthority.com/t-mobile-free-line-promo-dec-2025-3624433/)<!-- TECH:END -->
+ - [33 practical smart home gifts that make everyday life a little easier](https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025)
+ - [LI.FI, which provides businesses with price comparisons of crypto exchange rates and bridging fees, raised $29M, bringing its total funding to ~$52M &lpar;Carlos Garcia/Fortune&rpar;](http://www.techmeme.com/251211/p26#a251211p26)
+ - [Sen. Ed Markey wants media companies to fight for the First Amendment](https://www.theverge.com/podcast/842340/trump-ai-tiktok-democracy-carr-first-amendment-ed-markey)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
