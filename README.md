@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US appeals court upholds a contempt ruling in Epic v. Apple but says Apple can charge commissions on external links, with the rate to be set by a lower court &lpar;Bloomberg&rpar;](http://www.techmeme.com/251211/p44#a251211p44)
- - [Epic is letting you grab this critically acclaimed roguelite for free](https://www.androidauthority.com/epic-games-store-free-dead-cells-3624566/)
- - [Deal: The Narwal Freo Pro robot vacuum is way too awesome for just $379](https://www.androidauthority.com/narwal-freo-pro-robot-vacuum-and-mop-combo-deal-3624538/)<!-- TECH:END -->
+ - [Appeals court amends order to let Apple resume third-party commissions](https://appleinsider.com/articles/25/12/11/appeals-court-amends-order-to-let-apple-resume-third-party-commissions?utm_source=rss)
+ - [Can’t open YouTube or YouTube TV on your NVIDIA Shield TV? You’re not alone](https://www.androidauthority.com/nvidia-shield-tv-youtube-issues-3624610/)
+ - [New York&amp;#8217;s new law forces advertisers to say when they&amp;#8217;re using AI avatars](https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
