@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
- - ⏩ [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
- - 👉 [Saudi Arabia](http://9gag.com/gag/amoOOyv)<!-- MEMES:END -->
+ - 💣 [Saudi Arabia](http://9gag.com/gag/amoOOyv)
+ - ⏩ [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)
+ - 👉 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)<!-- MEMES:END -->
 
 ---
 
