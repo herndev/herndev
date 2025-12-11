@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
- - ⏩ [Well, well, well](http://9gag.com/gag/ajP3v4w)
- - 👉 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)<!-- MEMES:END -->
+ - 💣 [The joker kinda got a point](http://9gag.com/gag/aPAVLyP)
+ - ⏩ [The failure of an officer trying to make it.](http://9gag.com/gag/ayNmAjV)
+ - 👉 [That was an O o moment](http://9gag.com/gag/awy9Dq1)<!-- MEMES:END -->
 
 ---
 
