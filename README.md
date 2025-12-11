@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google DeepMind plans to open its &quot;first automated science laboratory&quot; in the UK in 2026, focused on using AI tools to develop new materials for chips and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/251210/p67#a251210p67)
  - [Sources: the US is working on a settlement that could see ZTE pay $1B+ over alleged foreign bribery from 2018 and earlier; a deal would require China&#39;s approval &lpar;Reuters&rpar;](http://www.techmeme.com/251210/p66#a251210p66)
- - [Sei partners with Xiaomi to pre-install its crypto wallet and discovery app on all new Xiaomi phones sold outside mainland China and the US, starting in 2026 &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/251210/p65#a251210p65)
- - [Is This the Moment? Scientists Detect a Signal That Might Be Dark Matter](https://www.cnet.com/science/space/the-invisible-becomes-visible-scientists-may-have-finally-seen-dark-matter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Give the Gift of Convenience With the Best Smart-Home Gifts for 2025](https://www.cnet.com/home/smart-home/best-smart-home-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
