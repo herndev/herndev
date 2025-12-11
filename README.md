@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its Wednesday my dudes](http://9gag.com/gag/ajP3v0G)
- - ⏩ [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)
- - 👉 [Server malfunction](http://9gag.com/gag/a9y4wD1)<!-- MEMES:END -->
+ - 💣 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)
+ - ⏩ [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
+ - 👉 [In America, if you rape two kids and sentenced to 78 years jail, you can walk free if your Dad knows the judge. When the cops arrested him his mother had the nerve to say \u201cwhat a horrible thing for a kid to go through\u201d](http://9gag.com/gag/a5Q9gyE)<!-- MEMES:END -->
 
 ---
 
