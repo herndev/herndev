@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Appeals court amends order to let Apple resume third-party commissions](https://appleinsider.com/articles/25/12/11/appeals-court-amends-order-to-let-apple-resume-third-party-commissions?utm_source=rss)
- - [Can’t open YouTube or YouTube TV on your NVIDIA Shield TV? You’re not alone](https://www.androidauthority.com/nvidia-shield-tv-youtube-issues-3624610/)
- - [New York&amp;#8217;s new law forces advertisers to say when they&amp;#8217;re using AI avatars](https://www.theverge.com/news/842848/new-york-law-ai-advertisements-sag-aftra-labor)<!-- TECH:END -->
+ - [Google brings Gemini’s Chrome integration to iPhone and iPad](https://www.theverge.com/news/842987/google-gemini-chrome-ios)
+ - [Tim Cook’s lobbying hangs over a key kids online safety vote](https://www.theverge.com/policy/842993/kids-online-safety-markup-energy-commerce-tim-cook-apple)
+ - [Amazon Prime Video pulls AI-powered recaps after Fallout flub](https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
