@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - ⏩ [That was an O o moment](http://9gag.com/gag/awy9Dq1)
- - 👉 [How to deal with oversized children throwing tantrum](http://9gag.com/gag/aMV00ox)<!-- MEMES:END -->
+ - 💣 [Being likable is a skill you gotta master](http://9gag.com/gag/aVv949n)
+ - ⏩ [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
+ - 👉 [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)<!-- MEMES:END -->
 
 ---
 
