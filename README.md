@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [American McGee&#39;s Alice just turned 25, but the trilogy will never be complete](https://www.polygon.com/american-mcgees-alice-25th-anniversary/)
- - [Free Play Days – The Hunter: Call of the Wild, Spirittea and The Dungeon of Naheulbeuk: The Amulet of Chaos](https://news.xbox.com/en-us/2025/12/11/free-play-days-12-11-2025/)
- - [Pokémon Go &#39;Well Armed&#39; event guide](https://www.polygon.com/pokemon-go-well-armed-event-clobbopus-global-challenge-spawns/)<!-- GAME:END -->
+ - [New Tomb Raider Game Details Leak And It Looks Like A Reboot](https://kotaku.com/new-tomb-raider-game-details-leak-and-it-looks-like-a-reboot-2000652612)
+ - [Lobo! Jason Momoa&#39;s new DCU character in the Supergirl trailer, explained](https://www.polygon.com/supergirl-trailer-who-is-lobo-jason-momoa/)
+ - [Braniac confirmed? Supergirl trailer shows us &#39;Kandor in a bottle&#39; amid Superman 2 rumors](https://www.polygon.com/supergirl-trailer-brainiac-kandor-explained/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
