@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Being likable is a skill you gotta master](http://9gag.com/gag/aVv949n)
+ - 💣 [That was an O o moment](http://9gag.com/gag/awy9Dq1)
  - ⏩ [It&#39;s only a debate if you let their crocodile tears affect you &lpar;would&rpar;](http://9gag.com/gag/ae9qyEp)
- - 👉 [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)<!-- MEMES:END -->
+ - 👉 [A student refuses to shake hand with the teacher because she is a women. But the teacher has a spine and fires back.](http://9gag.com/gag/aoyGGem)<!-- MEMES:END -->
 
 ---
 
