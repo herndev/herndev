@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rockstar now says fired employees were let go because they revealed &#39;specific game features from upcoming and unannounced titles&#39; in a public forum](https://www.pcgamer.com/games/rockstar-now-says-fired-employees-were-let-go-because-they-revealed-specific-game-features-from-upcoming-and-unannounced-titles-in-a-public-forum/)
- - [Boss spawn locations in Fortnite Chapter 7 Season 1](https://www.polygon.com/fortnite-chapter-7-boss-spawn-locations/)
- - [Amazon’s Fallout Season 1 Recap Is Inaccurate AI Bullshit](https://kotaku.com/amazons-fallout-season-1-recap-is-inaccurate-ai-wrong-slop-2000652678)<!-- GAME:END -->
+ - [The First Supergirl Trailer Has A Great Line About What Makes Her Different From Superman](https://kotaku.com/supergirl-trailer-jason-momoa-lobo-argo-city-2000652693)
+ - [How to evolve Clobbopus in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-za-plza-evolve-clobbopus-grapploct-requirements/)
+ - [Side Mission 144 &#39;Imitation is the Sincerest Form of Flattery&#39; walkthrough in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-za-plza-side-mission-144-imitation-highest-form-of-flattery-walkthrough/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
