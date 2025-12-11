@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shares of JD.com&#39;s JingDong Industrials, a supply chain tech and services provider, opened down 7.8% after the company raised ~$383M in its Hong Kong IPO &lpar;Reuters&rpar;](http://www.techmeme.com/251211/p1#a251211p1)
  - [Spotify is testing a new feature that puts you in charge of its algorithm](https://www.androidauthority.com/spotify-prompted-playlist-3624227/)
- - [Operation Bluebird, a Virginia-based startup, has petitioned the USPTO to acquire the &quot;abandoned&quot; Twitter trademark and launch its own social network &lpar;Cyrus Farivar/Ars Technica&rpar;](http://www.techmeme.com/251210/p69#a251210p69)
- - [Attorneys general urge Apple and other tech giants to curb harmful AI outputs](https://appleinsider.com/articles/25/12/11/attorneys-general-urge-apple-and-other-tech-giants-to-curb-harmful-ai-outputs?utm_source=rss)<!-- TECH:END -->
+ - [Operation Bluebird, a Virginia-based startup planning a &quot;Twitter.new&quot; social network, has petitioned the USPTO to cancel X Corp.&#39;s &quot;abandoned&quot; trademarks &lpar;Cyrus Farivar/Ars Technica&rpar;](http://www.techmeme.com/251210/p69#a251210p69)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
