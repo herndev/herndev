@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AI video game NPCs don&#39;t have nearly enough safeguards, as Stellar Cafe shows](https://www.polygon.com/stellar-cafe-impressions/)
- - [D&amp;D alternative Draw Steel raises $1.5 million on BackerKit](https://www.polygon.com/draw-steel-crack-the-sun-backerkit/)
- - [Meta Ray-Ban &lpar;Gen 1&rpar; Gets Cleared Out for Less Than Regular Sunglasses, Even Though They’re Smart AI Glasses](https://kotaku.com/meta-ray-ban-gen-1-gets-cleared-out-for-less-than-regular-sunglasses-even-though-theyre-smart-ai-glasses-2000652301)<!-- GAME:END -->
+ - [American McGee&#39;s Alice just turned 25, but the trilogy will never be complete](https://www.polygon.com/american-mcgees-alice-25th-anniversary/)
+ - [Free Play Days – The Hunter: Call of the Wild, Spirittea and The Dungeon of Naheulbeuk: The Amulet of Chaos](https://news.xbox.com/en-us/2025/12/11/free-play-days-12-11-2025/)
+ - [Pokémon Go &#39;Well Armed&#39; event guide](https://www.polygon.com/pokemon-go-well-armed-event-clobbopus-global-challenge-spawns/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
