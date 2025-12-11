@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jennifer Lawrence and Josh Hutcherson will appear as Katniss and Peeta in The Hunger Games prequel](https://www.polygon.com/the-hunger-games-prequel-sunrise-on-the-reaping-katniss-peeta/)
- - [These glorious little animations offer the best visual explanation of the benefits of SSDs over hard drives I&#39;ve ever seen](https://www.pcgamer.com/hardware/storage/these-glorious-little-animations-offer-the-best-visual-explanation-of-the-benefits-of-ssds-over-hard-drives-ive-ever-seen/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for December: Assassin’s Creed Mirage, Wo Long: Fallen Dynasty, Skate Story and more](https://blog.playstation.com/2025/12/10/20251211-psplus/)<!-- GAME:END -->
+ - [WD 6TB External Hard Drive Hits $0.02 per GB After Falling Even Lower Than Black Friday in an Early Christmas Deal](https://kotaku.com/wd-6tb-external-hard-drive-hits-0-02-per-gb-after-falling-even-lower-than-black-friday-in-an-early-christmas-deal-2000652312)
+ - [New Monster Hunter Wilds Update 4 and Monster Hunter Stories 3 details](https://blog.playstation.com/2025/12/11/new-monster-hunter-wilds-update-4-and-monster-hunter-stories-3-details/)
+ - [Archenemy: Joe Manganiello&#39;s dark superhero movie deserves another shot](https://www.polygon.com/archenemy-movie-5-year-anniversary-joe-manganiello-adam-egypt-mortimer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
