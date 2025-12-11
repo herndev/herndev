@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: in recent months, Tencent aggressively hired AI researchers from ByteDance, including offering to double their salaries, and reorganized its AI team &lpar;The Information&rpar;](http://www.techmeme.com/251211/p18#a251211p18)
- - [The liquid-cooled Super X is the wildest gaming tablet-laptop hybrid yet](https://www.androidauthority.com/onexplayer-super-x-launch-3624338/)
- - [6 Best Costco TVs That We’ve Tried and Recommend &lpar;2025&rpar;](https://www.wired.com/gallery/best-costco-tvs/)<!-- TECH:END -->
+ - [Study: 15 TikTok accounts posting AI videos of sexualized underage girls have nearly 300K followers and 2M+ likes; TikTok says 14 accounts don&#39;t violate rules &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/251211/p21#a251211p21)
+ - [Latest macOS malware uses trusted search &amp; AI to dupe users](https://appleinsider.com/articles/25/12/11/latest-macos-malware-uses-trusted-search-ai-to-dupe-users?utm_source=rss)
+ - [It took Google four years to fix the Pixel Watch’s terrible screenshots](https://www.androidauthority.com/pixel-watch-terrible-screenshots-fixed-3624369/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
