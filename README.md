@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dust Bunny review: Bryan Fuller and Mads Mikkelsen are at their best on the big screen](https://www.polygon.com/dust-bunny-brings-the-best-of-hannibal-and-bryan-fuller-to-the-silver-screen/)
- - [Why We Added a Cozy-Life MMO to a Battle Royale in Super Animal World](https://news.xbox.com/en-us/2025/12/10/super-animal-royale-mmo/)
- - [Magic&#39;s Marvel Super Heroes set reveal exposes wild combos for Hulk cards](https://www.polygon.com/mtg-magic-the-gathering-marvel-super-heroes-incredible-hulk-combos/)<!-- GAME:END -->
+ - [Ashes of Creation early access launch times and release date](https://www.pcgamer.com/games/mmo/ashes-of-creation-launch-time-release-date/)
+ - [Think you&#39;re S.P.E.C.I.A.L.? See if you can pass our Fallout Season 1 quiz!](https://www.pcgamer.com/movies-tv/think-youre-s-p-e-c-i-a-l-see-if-you-can-pass-our-fallout-season-1-quiz/)
+ - [Which games might get premiere trailers at Game Awards 2025](https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
