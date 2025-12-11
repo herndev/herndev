@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wedding drinking is all about pacing yourself, don&#39;t peak to early.](http://9gag.com/gag/aYQvvXV)
- - ⏩ [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
- - 👉 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)<!-- MEMES:END -->
+ - 💣 [Linux is okay i guess, the community sucks](http://9gag.com/gag/an7008B)
+ - ⏩ [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
+ - 👉 [Saudi Arabia](http://9gag.com/gag/amoOOyv)<!-- MEMES:END -->
 
 ---
 
