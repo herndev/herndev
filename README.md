@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lmao](http://9gag.com/gag/a9y44xL)
- - ⏩ [That was an O o moment](http://9gag.com/gag/awy9Dq1)
- - 👉 [And fans are furious](http://9gag.com/gag/an703X0)<!-- MEMES:END -->
+ - 💣 [Server malfunction](http://9gag.com/gag/a9y4wD1)
+ - ⏩ [Being likable is a skill you gotta master](http://9gag.com/gag/aVv949n)
+ - 👉 [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)<!-- MEMES:END -->
 
 ---
 
