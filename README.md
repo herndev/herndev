@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The winter 2026 anime season will be the best in decades](https://www.polygon.com/anime-winter-2026-season-best-frieren-jujutsu-kaisen/)
- - [New Magic: The Gathering infinite combo is just making The Hulk step on caltrops over and over until he&#39;s mad enough to win](https://www.pcgamer.com/games/card-games/new-magic-the-gathering-infinite-combo-is-just-making-the-hulk-step-on-caltrops-over-and-over-until-hes-mad-enough-to-win/)
- - [UGREEN’s 6-in-1 Steam Deck Dock Falls to Record Low, Works With ROG Ally X, Legion Go, MacBook, and More](https://kotaku.com/ugreens-6-in-1-steam-deck-dock-falls-to-record-low-works-with-rog-ally-x-legion-go-macbook-and-more-2000652271)<!-- GAME:END -->
+ - [AI video game NPCs don&#39;t have nearly enough safeguards, as Stellar Cafe shows](https://www.polygon.com/stellar-cafe-impressions/)
+ - [D&amp;D alternative Draw Steel raises $1.5 million on BackerKit](https://www.polygon.com/draw-steel-crack-the-sun-backerkit/)
+ - [Meta Ray-Ban &lpar;Gen 1&rpar; Gets Cleared Out for Less Than Regular Sunglasses, Even Though They’re Smart AI Glasses](https://kotaku.com/meta-ray-ban-gen-1-gets-cleared-out-for-less-than-regular-sunglasses-even-though-theyre-smart-ai-glasses-2000652301)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
