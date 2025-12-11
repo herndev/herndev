@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Comcast cable boxes are getting Amazon Luna cloud gaming](https://www.theverge.com/news/842201/amazon-luna-comcast-xfinity-rogers-cable-boxes)
- - [OpenAI’s GPT-5.2 is its latest front in the agentic AI battle](https://www.theverge.com/ai-artificial-intelligence/842529/openai-gpt-5-2-new-model-chatgpt)
- - [Google DeepMind launches an enhanced Gemini Deep Research agent accessible to developers via its new Interactions API, along with a new DeepSearchQA benchmark &lpar;The Keyword&rpar;](http://www.techmeme.com/251211/p33#a251211p33)<!-- TECH:END -->
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [Doxers Posing as Cops Are Tricking Big Tech Firms Into Sharing People&#39;s Private Data](https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/)
+ - [OpenAI says GPT‑5.2 Thinking beats or ties industry professionals on 70.9% of GDPval knowledge work tasks, delivering outputs at &gt;11x the speed and &lt;1% the cost &lpar;OpenAI&rpar;](http://www.techmeme.com/251211/p39#a251211p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
