@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite returns to the Google Play Store in the US following a US District Court injunction; Google and Epic announced a settlement last week &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/251211/p43#a251211p43)
- - [Remember Google Stadia? Steam finally made its gamepad worth rescuing](https://www.theverge.com/games/829631/save-google-stadia-gamepad-steam-deadline)
- - [Bob Iger says the OpenAI deal &quot;does not in any way represent a threat to the creators at all&quot; because it doesn&#39;t include name, likeness, or character voices &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251211/p42#a251211p42)<!-- TECH:END -->
+ - [A US appeals court upholds a contempt ruling in Epic v. Apple but says Apple can charge commissions on external links, with the rate to be set by a lower court &lpar;Bloomberg&rpar;](http://www.techmeme.com/251211/p44#a251211p44)
+ - [Epic is letting you grab this critically acclaimed roguelite for free](https://www.androidauthority.com/epic-games-store-free-dead-cells-3624566/)
+ - [Deal: The Narwal Freo Pro robot vacuum is way too awesome for just $379](https://www.androidauthority.com/narwal-freo-pro-robot-vacuum-and-mop-combo-deal-3624538/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
