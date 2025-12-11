@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Server malfunction](http://9gag.com/gag/a9y4wD1)
- - ⏩ [Being likable is a skill you gotta master](http://9gag.com/gag/aVv949n)
- - 👉 [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)<!-- MEMES:END -->
+ - 💣 [Its Wednesday my dudes](http://9gag.com/gag/ajP3v0G)
+ - ⏩ [Neckflexin Netflix](http://9gag.com/gag/aO8nOKv)
+ - 👉 [Server malfunction](http://9gag.com/gag/a9y4wD1)<!-- MEMES:END -->
 
 ---
 
