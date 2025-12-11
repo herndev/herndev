@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney accuses Google of copyright infringement on a ‘massive scale’ following deal with OpenAI](https://www.theverge.com/news/842573/disney-google-copyright-infringement-cease-and-desist)
- - [The OpenAI deal gives Disney a fair amount of oversight and control over how its IP is used, including a joint steering committee to monitor user creations &lpar;Axios&rpar;](http://www.techmeme.com/251211/p30#a251211p30)
- - [WhatsApp is trying to reinvent voicemail](https://www.theverge.com/news/842485/whatsapp-voice-mail-video-message-call-feature)<!-- TECH:END -->
+ - [Comcast cable boxes are getting Amazon Luna cloud gaming](https://www.theverge.com/news/842201/amazon-luna-comcast-xfinity-rogers-cable-boxes)
+ - [OpenAI’s GPT-5.2 is its latest front in the agentic AI battle](https://www.theverge.com/ai-artificial-intelligence/842529/openai-gpt-5-2-new-model-chatgpt)
+ - [Google DeepMind launches an enhanced Gemini Deep Research agent accessible to developers via its new Interactions API, along with a new DeepSearchQA benchmark &lpar;The Keyword&rpar;](http://www.techmeme.com/251211/p33#a251211p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
