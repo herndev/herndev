@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shares of JD.com&#39;s JingDong Industrials, a supply chain tech and services provider, opened down 7.8% after the company raised ~$383M in its Hong Kong IPO &lpar;Reuters&rpar;](http://www.techmeme.com/251211/p1#a251211p1)
- - [Spotify is testing a new feature that puts you in charge of its algorithm](https://www.androidauthority.com/spotify-prompted-playlist-3624227/)
- - [Operation Bluebird, a Virginia-based startup planning a &quot;Twitter.new&quot; social network, has petitioned the USPTO to cancel X Corp.&#39;s &quot;abandoned&quot; trademarks &lpar;Cyrus Farivar/Ars Technica&rpar;](http://www.techmeme.com/251210/p69#a251210p69)<!-- TECH:END -->
+ - [The best Galaxy phones for most people could launch earlier than expected](https://www.androidauthority.com/samsung-mid-range-phones-earlier-launch-3624233/)
+ - [T-Mobile calls out AT&amp;T for messing up its own customer experience &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/att-verizon-t-life-app-block-3621835/)
+ - [US investors are boosting Chinese AI-related tech stocks and adding cash to ETFs tracking China&#39;s tech sector, as US lawmakers push for tighter capital curbs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251211/p3#a251211p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
