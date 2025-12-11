@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI faces a wrongful death lawsuit from the estate of an 83-year-old woman killed by her son who had engaged in delusion-filled conversations with ChatGPT &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/251211/p11#a251211p11)
- - [Samsung just grabbed this great Pixel feature for Now Bar](https://www.androidauthority.com/samsung-one-ui-8-5-now-bar-now-brief-updates-3624287/)
- - [This Exynos 2600 feature might keep future Snapdragon chips from running hot](https://www.androidauthority.com/samsung-exynos-2600-heat-technology-snapdragon-3624279/)<!-- TECH:END -->
+ - [Amazon is loosening its grip on Kindle book downloads, if only slightly](https://www.androidauthority.com/amazon-is-loosening-its-grip-on-kindle-book-downloads-if-only-slightly-3624342/)
+ - [Runware, which operates a developer tool platform that generates images, video, and audio in real-time, raised a $50M Series A, taking its total funding to $66M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251211/p14#a251211p14)
+ - [Gemini could change how you read books on your phone](https://www.androidauthority.com/google-play-books-ask-gemini-apk-teardown-3624252/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
