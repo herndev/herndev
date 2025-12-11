@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [33 practical smart home gifts that make everyday life a little easier](https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025)
- - [LI.FI, which provides businesses with price comparisons of crypto exchange rates and bridging fees, raised $29M, bringing its total funding to ~$52M &lpar;Carlos Garcia/Fortune&rpar;](http://www.techmeme.com/251211/p26#a251211p26)
- - [Sen. Ed Markey wants media companies to fight for the First Amendment](https://www.theverge.com/podcast/842340/trump-ai-tiktok-democracy-carr-first-amendment-ed-markey)<!-- TECH:END -->
+ - [Disney accuses Google of copyright infringement on a ‘massive scale’ following deal with OpenAI](https://www.theverge.com/news/842573/disney-google-copyright-infringement-cease-and-desist)
+ - [The OpenAI deal gives Disney a fair amount of oversight and control over how its IP is used, including a joint steering committee to monitor user creations &lpar;Axios&rpar;](http://www.techmeme.com/251211/p30#a251211p30)
+ - [WhatsApp is trying to reinvent voicemail](https://www.theverge.com/news/842485/whatsapp-voice-mail-video-message-call-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
