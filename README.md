@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Tomb Raider Game Details Leak And It Looks Like A Reboot](https://kotaku.com/new-tomb-raider-game-details-leak-and-it-looks-like-a-reboot-2000652612)
- - [Lobo! Jason Momoa&#39;s new DCU character in the Supergirl trailer, explained](https://www.polygon.com/supergirl-trailer-who-is-lobo-jason-momoa/)
- - [Braniac confirmed? Supergirl trailer shows us &#39;Kandor in a bottle&#39; amid Superman 2 rumors](https://www.polygon.com/supergirl-trailer-brainiac-kandor-explained/)<!-- GAME:END -->
+ - [Rockstar now says fired employees were let go because they revealed &#39;specific game features from upcoming and unannounced titles&#39; in a public forum](https://www.pcgamer.com/games/rockstar-now-says-fired-employees-were-let-go-because-they-revealed-specific-game-features-from-upcoming-and-unannounced-titles-in-a-public-forum/)
+ - [Boss spawn locations in Fortnite Chapter 7 Season 1](https://www.polygon.com/fortnite-chapter-7-boss-spawn-locations/)
+ - [Amazon’s Fallout Season 1 Recap Is Inaccurate AI Bullshit](https://kotaku.com/amazons-fallout-season-1-recap-is-inaccurate-ai-wrong-slop-2000652678)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
