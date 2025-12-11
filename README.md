@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [WD 6TB External Hard Drive Hits $0.02 per GB After Falling Even Lower Than Black Friday in an Early Christmas Deal](https://kotaku.com/wd-6tb-external-hard-drive-hits-0-02-per-gb-after-falling-even-lower-than-black-friday-in-an-early-christmas-deal-2000652312)
- - [New Monster Hunter Wilds Update 4 and Monster Hunter Stories 3 details](https://blog.playstation.com/2025/12/11/new-monster-hunter-wilds-update-4-and-monster-hunter-stories-3-details/)
- - [Archenemy: Joe Manganiello&#39;s dark superhero movie deserves another shot](https://www.polygon.com/archenemy-movie-5-year-anniversary-joe-manganiello-adam-egypt-mortimer/)<!-- GAME:END -->
+ - [The winter 2026 anime season will be the best in decades](https://www.polygon.com/anime-winter-2026-season-best-frieren-jujutsu-kaisen/)
+ - [New Magic: The Gathering infinite combo is just making The Hulk step on caltrops over and over until he&#39;s mad enough to win](https://www.pcgamer.com/games/card-games/new-magic-the-gathering-infinite-combo-is-just-making-the-hulk-step-on-caltrops-over-and-over-until-hes-mad-enough-to-win/)
+ - [UGREEN’s 6-in-1 Steam Deck Dock Falls to Record Low, Works With ROG Ally X, Legion Go, MacBook, and More](https://kotaku.com/ugreens-6-in-1-steam-deck-dock-falls-to-record-low-works-with-rog-ally-x-legion-go-macbook-and-more-2000652271)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
