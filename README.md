@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Doxers Posing as Cops Are Tricking Big Tech Firms Into Sharing People&#39;s Private Data](https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/)
- - [OpenAI says GPT‑5.2 Thinking beats or ties industry professionals on 70.9% of GDPval knowledge work tasks, delivering outputs at &gt;11x the speed and &lt;1% the cost &lpar;OpenAI&rpar;](http://www.techmeme.com/251211/p39#a251211p39)<!-- TECH:END -->
+ - [Fortnite returns to the Google Play Store in the US following a US District Court injunction; Google and Epic announced a settlement last week &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/251211/p43#a251211p43)
+ - [Remember Google Stadia? Steam finally made its gamepad worth rescuing](https://www.theverge.com/games/829631/save-google-stadia-gamepad-steam-deadline)
+ - [Bob Iger says the OpenAI deal &quot;does not in any way represent a threat to the creators at all&quot; because it doesn&#39;t include name, likeness, or character voices &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251211/p42#a251211p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
