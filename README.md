@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Microsoft analysis of 37.5M Copilot conversations from January-September 2025 finds health-related topics dominated users&#39; questions, and more &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/251210/p68#a251210p68)
- - [PSA: Don’t install One UI 8.5 on your Galaxy S25 if you love your Good Lock modules](https://www.androidauthority.com/samsung-one-ui-8-5-good-lock-not-working-3624220/)
- - [Google DeepMind plans to open its &quot;first automated science laboratory&quot; in the UK in 2026, focused on using AI tools to develop new materials for chips and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/251210/p67#a251210p67)<!-- TECH:END -->
+ - [Spotify is testing a new feature that puts you in charge of its algorithm](https://www.androidauthority.com/spotify-prompted-playlist-3624227/)
+ - [Operation Bluebird, a Virginia-based startup, has petitioned the USPTO to acquire the &quot;abandoned&quot; Twitter trademark and launch its own social network &lpar;Cyrus Farivar/Ars Technica&rpar;](http://www.techmeme.com/251210/p69#a251210p69)
+ - [Attorneys general urge Apple and other tech giants to curb harmful AI outputs](https://appleinsider.com/articles/25/12/11/attorneys-general-urge-apple-and-other-tech-giants-to-curb-harmful-ai-outputs?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
