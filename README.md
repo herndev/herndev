@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify will begin testing a feature that lets a user write a prompt for a playlist and receive a unique set of songs based on the user&#39;s earlier behavior &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251210/p61#a251210p61)
- - [Donald Trump reminds the entire world he has no idea what 6G means](https://www.theverge.com/policy/842087/trump-does-not-understand-6g-5g)
- - [Trump could introduce ‘mandatory’ social media reviews for travelers](https://www.theverge.com/news/842129/trump-admin-us-cbp-social-media-history-travelers)<!-- TECH:END -->
+ - [Standalone sports, news, and entertainment packages coming to YouTube TV](https://appleinsider.com/articles/25/12/11/standalone-sports-news-and-entertainment-packages-coming-to-youtube-tv?utm_source=rss)
+ - [A group of state AGs sent a letter to Meta, Microsoft, Google, Apple, and others warning their chatbots&#39; &quot;delusional outputs&quot; could be violating state laws &lpar;Courtney Rozen/Reuters&rpar;](http://www.techmeme.com/251210/p64#a251210p64)
+ - [The US CFTC grants crypto exchange Gemini a DCM license, allowing it to launch its prediction markets platform Gemini Titan &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/251210/p63#a251210p63)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
