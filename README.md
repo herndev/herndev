@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tired of ads in your notifications? How to use One UI 8.5’s secret feature to block them](https://www.androidauthority.com/samsung-one-ui-8-5-block-app-notifications-excessive-ads-how-to-3623359/)
- - [AYANEO’s first gaming phone is a beautiful tribute to the Xperia Play](https://www.androidauthority.com/ayaneo-pocket-play-announcement-3624283/)
- - [Ayaneo’s first Android phone looks like a return of the Xperia Play](https://www.theverge.com/news/842243/ayaneo-pocket-play-gaming-phone-android-sony-xperia-play)<!-- TECH:END -->
+ - [OpenAI faces a wrongful death lawsuit from the estate of an 83-year-old woman killed by her son who had engaged in delusion-filled conversations with ChatGPT &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/251211/p11#a251211p11)
+ - [Samsung just grabbed this great Pixel feature for Now Bar](https://www.androidauthority.com/samsung-one-ui-8-5-now-bar-now-brief-updates-3624287/)
+ - [This Exynos 2600 feature might keep future Snapdragon chips from running hot](https://www.androidauthority.com/samsung-exynos-2600-heat-technology-snapdragon-3624279/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
