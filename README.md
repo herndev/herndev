@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is loosening its grip on Kindle book downloads, if only slightly](https://www.androidauthority.com/amazon-is-loosening-its-grip-on-kindle-book-downloads-if-only-slightly-3624342/)
- - [Runware, which operates a developer tool platform that generates images, video, and audio in real-time, raised a $50M Series A, taking its total funding to $66M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251211/p14#a251211p14)
- - [Gemini could change how you read books on your phone](https://www.androidauthority.com/google-play-books-ask-gemini-apk-teardown-3624252/)<!-- TECH:END -->
+ - [Sources: in recent months, Tencent aggressively hired AI researchers from ByteDance, including offering to double their salaries, and reorganized its AI team &lpar;The Information&rpar;](http://www.techmeme.com/251211/p18#a251211p18)
+ - [The liquid-cooled Super X is the wildest gaming tablet-laptop hybrid yet](https://www.androidauthority.com/onexplayer-super-x-launch-3624338/)
+ - [6 Best Costco TVs That We’ve Tried and Recommend &lpar;2025&rpar;](https://www.wired.com/gallery/best-costco-tvs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
