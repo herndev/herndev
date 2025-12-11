@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The joker kinda got a point](http://9gag.com/gag/aPAVLyP)
- - ⏩ [The failure of an officer trying to make it.](http://9gag.com/gag/ayNmAjV)
- - 👉 [That was an O o moment](http://9gag.com/gag/awy9Dq1)<!-- MEMES:END -->
+ - 💣 [Sleeping on the driving](http://9gag.com/gag/aMV00zV)
+ - ⏩ [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
+ - 👉 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)<!-- MEMES:END -->
 
 ---
 
