@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
- - ⏩ [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
- - 👉 [Well, well, well](http://9gag.com/gag/ajP3v4w)<!-- MEMES:END -->
+ - 💣 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)
+ - ⏩ [Russell Crowe is not a big fan of Gladiator 2](http://9gag.com/gag/a1m8g0R)
+ - 👉 [Every time I hear a recording of my voice](http://9gag.com/gag/aE0j5eN)<!-- MEMES:END -->
 
 ---
 
