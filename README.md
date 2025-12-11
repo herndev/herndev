@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with investor Gavin Baker of Atreides Management on the economics of AI, data centers in space, mistakes SaaS companies are making in adopting AI, and more &lpar;Patrick O&#39;Shaughnessy/Invest Like The Best on YouTube&rpar;](http://www.techmeme.com/251211/p9#a251211p9)
- - [Unacademy CEO Gaurav Munjal says the Indian edtech startup&#39;s valuation has fallen from its $3.5B peak three years ago to less than $500M, and confirms M&amp;A talks &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251211/p8#a251211p8)
- - [A look at Model Context Protocol and how it went from a passion project made by Anthropic employees to an industry standard shared through the Linux Foundation &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/251211/p7#a251211p7)<!-- TECH:END -->
+ - [After Months of Testing Smart Rings, This Is the Only One I Think You Should Buy](https://www.cnet.com/health/fitness/best-smart-ring/#ftag=CAD590a51e)
+ - [The 6 Best Parent Tech Devices We Swear By for Raising Kids](https://www.cnet.com/health/parenting/best-parent-tech-devices-raising-kids/#ftag=CAD590a51e)
+ - [Can’t make phone calls via Gemini on your Pixel? You’re not alone.](https://www.androidauthority.com/phone-calls-gemini-pixel-not-working-3624255/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
