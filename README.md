@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
- - ⏩ [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
- - 👉 [Get you a girl who reads her Bible](http://9gag.com/gag/aQzDK9W)<!-- MEMES:END -->
+ - 💣 [A worse fate for humanity has been averted!!](http://9gag.com/gag/a34zgB3)
+ - ⏩ [Dog sledding under the northern lights and a full moon is a dream come true](http://9gag.com/gag/aByb59x)
+ - 👉 [Who needs fire safety when you have christmas spirit](http://9gag.com/gag/aBybz7D)<!-- MEMES:END -->
 
 ---
 
