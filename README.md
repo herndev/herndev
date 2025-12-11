@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Plus Game Catalog for December: Assassin’s Creed Mirage, Wo Long: Fallen Dynasty, Skate Story and more](https://blog.playstation.com/2025/12/10/20251211-psplus/)
  - [Ashes of Creation early access launch times and release date](https://www.pcgamer.com/games/mmo/ashes-of-creation-launch-time-release-date/)
- - [Think you&#39;re S.P.E.C.I.A.L.? See if you can pass our Fallout Season 1 quiz!](https://www.pcgamer.com/movies-tv/think-youre-s-p-e-c-i-a-l-see-if-you-can-pass-our-fallout-season-1-quiz/)
- - [Which games might get premiere trailers at Game Awards 2025](https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/)<!-- GAME:END -->
+ - [Think you&#39;re S.P.E.C.I.A.L.? See if you can pass our Fallout Season 1 quiz!](https://www.pcgamer.com/movies-tv/think-youre-s-p-e-c-i-a-l-see-if-you-can-pass-our-fallout-season-1-quiz/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
