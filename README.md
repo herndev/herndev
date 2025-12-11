@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, well, well](http://9gag.com/gag/ajP3v4w)
- - ⏩ [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
- - 👉 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)<!-- MEMES:END -->
+ - 💣 [Who needs fire safety when you have christmas spirit](http://9gag.com/gag/aBybz7D)
+ - ⏩ [Microsoft and its little lies](http://9gag.com/gag/aE0j5Xo)
+ - 👉 [Good Doggo](http://9gag.com/gag/a6ZeRN2)<!-- MEMES:END -->
 
 ---
 
