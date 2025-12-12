@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Game Awards live coverage: Every reveal and announcement as it happens](https://www.pcgamer.com/gaming-industry/live/news/the-game-awards-live-coverage/)
- - [Cultic Review](https://www.pcgamer.com/games/fps/cultic-review/)
- - [The First Supergirl Trailer Has A Great Line About What Makes Her Different From Superman](https://kotaku.com/supergirl-trailer-jason-momoa-lobo-argo-city-2000652693)<!-- GAME:END -->
+ - [Star Wars: Fate of the Old Republic announced from former Mass Effect dev](https://www.polygon.com/star-wars-fate-of-the-old-republic-casey-hudson-the-game-awards/)
+ - [The Maker Of Baldur’s Gate 3 Reveals Its Next RPG](https://kotaku.com/divinity-original-sin-3-rpg-trailer-larian-bg4-game-awards-2000652714)
+ - [After 21 years, Knights of the Old Republic&#39;s original director is returning to the series for Fate of the Old Republic](https://www.pcgamer.com/games/rpg/after-21-years-knights-of-the-old-republics-original-director-is-returning-to-the-series-for-fate-of-the-old-republic/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
