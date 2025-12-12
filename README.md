@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump signs an executive order aimed at preempting a growing number of state AI laws, saying &quot;we want to have one central source of approval&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251211/p49#a251211p49)
- - [Frieda McFadden&#39;s psychological thriller &#39;The Teacher&#39; comes to Apple TV](https://appleinsider.com/articles/25/12/11/frieda-mcfaddens-psychological-thriller-the-teacher-comes-to-apple-tv?utm_source=rss)
- - [New US OMB guidance states that LLMs procured by federal agencies must comply with two &quot;unbiased AI principles&quot;: &quot;truth-seeking&quot; and &quot;ideological neutrality&quot; &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/251211/p48#a251211p48)<!-- TECH:END -->
+ - [Trump signs AI executive order pushing to ban state laws](https://www.theverge.com/ai-artificial-intelligence/841817/trump-signs-ai-executive-order-pushing-to-ban-state-laws)
+ - [On OpenAI&#39;s 10th anniversary, Sam Altman reflects on &quot;a decade of breakthroughs, learnings, and the path toward AGI that benefits all of humanity&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/251211/p51#a251211p51)
+ - [Trump Signs Executive Order That Threatens to Punish States for Passing AI Laws](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
