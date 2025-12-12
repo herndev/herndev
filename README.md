@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many games from The Game Awards are now on sale](https://www.theverge.com/gadgets/843459/game-awards-playstation-nintendo-pc-games-deal-sale)
- - [We&amp;#8217;re still talking about the Trump phone](https://www.theverge.com/gadgets/843498/trump-phone)
- - [This free Android app made me love reading again, one sentence at a time](https://www.androidauthority.com/seriatim-reader-3624859/)<!-- TECH:END -->
+ - [The TCL QM9K is an excellent flagship TV, but I’m not sure who it’s for](https://www.theverge.com/tech/843074/tcl-qm9k-mini-led-tv-review)
+ - [Don’t look now, but another IKEA smart home device just became available in the US](https://www.androidauthority.com/ikea-temperature-humidity-sensor-us-availability-3624922/)
+ - [Google is finally fixing the most annoying thing about wireless ADB](https://www.androidauthority.com/android-wireless-adb-auto-reconnect-3624945/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
