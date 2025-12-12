@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Street Fighter Movie Looks Surprisingly Good In Its First Trailer](https://kotaku.com/street-fighter-movie-trailer-cast-release-date-2000652775)
- - [The Legacy of Lara Croft Continues in Two New Tomb Raider Games](https://news.xbox.com/en-us/2025/12/11/tomb-raider-catalyst-and-legacy-of-atlantis-reveal/)
- - [LEGO Batman: Legacy of the Dark Knight out May 29, 2026 on PS5](https://blog.playstation.com/2025/12/11/lego-batman-legacy-of-the-dark-knight-out-may-29-2026-on-ps5/)<!-- GAME:END -->
+ - [Open world RPG shooter No Law is going straight on my wishlist after its Game Awards reveal—we spoke to the devs to find out more](https://www.pcgamer.com/games/fps/open-world-rpg-shooter-no-law-is-going-straight-on-my-wishlist-after-its-game-awards-reveal-we-spoke-to-the-devs-to-find-out-more/)
+ - [New cyberpunk shooter No Law revealed at The Game Awards](https://www.polygon.com/no-law-the-game-awards-trailer-neon-giant-cyberpunk/)
+ - [That sick-looking first person sci-fi game at The Game Awards is actually the sequel to Sons of the Forest](https://www.pcgamer.com/games/survival-crafting/that-sick-looking-first-person-sci-fi-game-at-the-game-awards-is-actually-the-sequel-to-sons-of-the-forest/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
