@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tomb Raider announces two new games](https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis)
- - [A look at French indie game studio Sandfall Interactive, whose critically-acclaimed Clair Obscur: Expedition 33 sold 5M+ copies with a budget of less than $10M &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/251211/p53#a251211p53)
- - [Google’s new browser experiment turns your open tabs into custom apps](https://www.androidauthority.com/google-disco-gentabs-experiment-3624665/)<!-- TECH:END -->
+ - [Reddit files a lawsuit against Australia over its social media ban for under-16s, saying the ban &quot;infringes the implied freedom of political communication&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251211/p55#a251211p55)
+ - [In his EO, Trump orders US AG Pam Bondi to create an &quot;AI Litigation Task Force&quot; that meets regularly with David Sacks to challenge &quot;inconsistent&quot; state AI laws &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/251211/p54#a251211p54)
+ - [Tomb Raider announces two new games](https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
