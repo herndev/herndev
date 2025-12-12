@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyone&#39;s arguing about whether Divinity will be turn-based or an ARPG, and I&#39;m not sure why because the answer seems obvious](https://www.pcgamer.com/games/rpg/everyones-arguing-about-whether-divinity-will-be-turn-based-or-an-arpg-and-im-not-sure-why-because-the-answer-seems-obvious/)
- - [Galaxy Watch 8 Classic Returns to All-Time Low as Samsung Rolls Out Another Surprise Clearance on Its Smartwatch Before Christmas](https://kotaku.com/galaxy-watch-8-classic-returns-to-all-time-low-as-samsung-rolls-out-another-surprise-clearance-on-its-smartwatch-before-christmas-2000652757)
- - [Wake Up Dead Man has a surprising connection to Star Wars, Rian Johnson reveals](https://www.polygon.com/wake-up-dead-man-last-jedi-shared-themes-rian-johnson-interview/)<!-- GAME:END -->
+ - [Warframe creative director dishes on the romanceable nun Marie Leroux](https://www.polygon.com/warframe-old-peace-marie-leroux/)
+ - [Lego Batman: Legacy of the Dark Knight Captures Iconic Eras of Batman, Pre-Order Today](https://news.xbox.com/en-us/2025/12/12/lego-batman-legacy-of-the-dark-knight-pre-order-today/)
+ - [Kirby’s Air Riders Gets A Big Balance Update But Don’t Expect Sakurai To Keep Tinkering](https://kotaku.com/kirby-air-riders-balance-patch-notes-dlc-sakurai-smash-bros-2000653001)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
