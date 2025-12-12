@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Intel tested chipmaking tools this year from CA-based ACM Research, which has deep China ties; ACM&#39;s two overseas units were targeted by US sanctions &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p3#a251212p3)
- - [GPT-5.2 models match GPT-5 and 5.1 with a 400K context window and 128K max output tokens, but have a newer knowledge cutoff of Aug. 31, 2025 vs. Sept. 30, 2024 &lpar;Simon Willison/Simon Willison&#39;s Newsletter&rpar;](http://www.techmeme.com/251212/p2#a251212p2)
- - [Surprise: Samsung has a new camera sensor for its next flagships after all](https://www.androidauthority.com/samsung-new-camera-sensor-global-shutter-3624680/)<!-- TECH:END -->
+ - [Evolved Novelties Pleasure Puff Inflatable Rabbit Review: A-Spot Stimulation](https://www.wired.com/review/evolved-novelties-pleasure-puff-inflatable-rabbit/)
+ - [Google’s making a silly and annoying change to how you uninstall system app updates](https://www.androidauthority.com/google-play-store-uninstall-button-2-3624705/)
+ - [Google Account settings are too complicated. Here’s how Google plans to fix it](https://www.androidauthority.com/google-account-management-chat-interface-3624729/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
