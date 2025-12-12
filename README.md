@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We found 70 stocking stuffers under $100 that are actually useful](https://www.theverge.com/gadgets/843079/best-stocking-stuffers-christmas-ideas-2025)
- - [Gemini is getting even better at handling natural conversations](https://www.androidauthority.com/gemini-conversation-quality-3625020/)
- - [PSA: You Can Play Diablo 4&#39;s Paladin Today, if You Preorder the Upcoming Expansion](https://www.cnet.com/tech/gaming/diablo-4-announces-lord-of-hatred-expansion-paladin/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple spends $216 million on two office buildings in Cupertino](https://appleinsider.com/articles/25/12/12/apple-spends-216-million-on-two-office-buildings-in-cupertino?utm_source=rss)
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025)
+ - [The long shot](https://www.theverge.com/entertainment/842881/resurrection-bi-gan-interview-tracking-shot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
