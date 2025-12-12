@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends: Z-A – Mega Dimension: The Kotaku Review](https://kotaku.com/pokemon-legends-za-mega-dimension-review-dlc-raichu-2000653106)
- - [Lorwyn Eclipse set previews include major hints about Magic: The Gathering characters](https://www.polygon.com/lorwyn-eclipsed-previews-short-stories/)
- - [The new voice of Lara Croft is a veteran of Cyberpunk 2077, Lies of P, Dragon Age, Assassin&#39;s Creed, and a whole bunch more](https://www.pcgamer.com/games/action/the-new-voice-of-lara-croft-is-a-veteran-of-cyberpunk-2077-lies-of-p-dragon-age-assassins-creed-and-a-whole-bunch-more/)<!-- GAME:END -->
+ - [Knives Out 3, Chainsaw Man, and the best movies on streaming this week](https://www.polygon.com/new-movies-on-streaming-knives-out-chainsaw-man-movie/)
+ - [Hogwarts Legacy goes free for the first time to kick off the Epic Games Store&#39;s 2025 Holiday Sale](https://www.pcgamer.com/games/hogwarts-legacy-goes-free-for-the-first-time-to-kick-off-the-epic-games-stores-2025-holiday-sale/)
+ - [Everything We Know About Divinity, Larian’s Most Ambitious RPG Yet](https://kotaku.com/divinity-larian-trailer-turn-based-rpg-release-date-2000653105)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
