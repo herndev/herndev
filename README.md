@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Last of Us co-director Bruce Straley explains why he left Naughty Dog 8 years ago](https://www.polygon.com/bruce-straley-naughty-dog-exit-interview/)
  - [How to access the &#39;Thank You&#39; update in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-thank-you-update-versos-drafts-dlc/)
- - [Thank You for An Unforgettable Year with Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2025/12/11/clair-obscur-expedition-33-versos-drafts/)
- - [The 5 biggest announcements and trailers from The Game Awards 2025](https://www.pcgamer.com/gaming-industry/events-conferences/the-game-awards-2025-announcements-trailers/)<!-- GAME:END -->
+ - [Thank You for An Unforgettable Year with Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2025/12/11/clair-obscur-expedition-33-versos-drafts/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
