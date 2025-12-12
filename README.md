@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 40 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)
- - [Sources: X reported $752M in Q3 revenue, up 17% YoY, a net loss of $577.4M, and EBITDA of ~$454M, up 16%; revenue for the first nine months of 2025 was $2B+ &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/251212/p20#a251212p20)
- - [Hisense’s CanvasTV is a great Samsung Frame TV alternative at nearly half off](https://www.theverge.com/gadgets/843667/hisense-s7n-canvas-tv-tomtoc-fancycase-g05-slim-case-deal-sale)<!-- TECH:END -->
+ - [33 practical smart home gifts that make everyday life a little easier](https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025)
+ - [Google expands Google Translate&#39;s live speech translation from Pixel Buds to any headphones, supporting 70+ languages, in beta on compatible Android phones &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251212/p22#a251212p22)
+ - [Director found guilty of scamming Netflix out of $11 million](https://www.theverge.com/news/843923/hollywood-director-netflix-conviction-fraud-carl-rinsch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
