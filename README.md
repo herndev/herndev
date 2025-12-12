@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember when apps had personality](http://9gag.com/gag/aAyL56Z)
- - ⏩ [That&#39;s one proud grandpa right there.](http://9gag.com/gag/amoOZGj)
- - 👉 [Aussie kids after today&#39;s social media ban](http://9gag.com/gag/aD2q5MN)<!-- MEMES:END -->
+ - 💣 [FUERA](http://9gag.com/gag/aMV05G1)
+ - ⏩ [Well, well, well](http://9gag.com/gag/ajP3v4w)
+ - 👉 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)<!-- MEMES:END -->
 
 ---
 
