@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I quit all my AI fitness plans, and I feel free](https://www.theverge.com/column/843420/optimizer-fitness-ai-coaching-plans-quitting-runna-peloton-iq-fitbit-ai)
- - [Trump&#39;s AI EO directs federal agencies to look into withholding federal funding for states that introduce &quot;burdensome&quot; AI regulations &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/251212/p13#a251212p13)
- - [[Thread] Substack quietly added a feature that forced subscribers to download the app to read full newsletters but say they&#39;ve rolled it back after complaints &lpar;Gergely Orosz/@gergelyorosz&rpar;](http://www.techmeme.com/251212/p12#a251212p12)<!-- TECH:END -->
+ - [Many games from The Game Awards are now on sale](https://www.theverge.com/gadgets/843459/game-awards-playstation-nintendo-pc-games-deal-sale)
+ - [We&amp;#8217;re still talking about the Trump phone](https://www.theverge.com/gadgets/843498/trump-phone)
+ - [This free Android app made me love reading again, one sentence at a time](https://www.androidauthority.com/seriatim-reader-3624859/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
