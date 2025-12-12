@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Warhammer 40,000 is totally real, so we&#39;ve created a wishlist to send to the Emperor](https://www.pcgamer.com/games/strategy/total-war-warhammer-40-000-is-totally-real-so-weve-created-a-wishlist-to-send-to-the-emperor/)
- - [Devil May Cry season 2 release date: Dante and Vergil return in 2026](https://www.polygon.com/netflix-devil-may-cry-season-2-release-date/)
- - [The Last of Us co-director Bruce Straley explains why he left Naughty Dog 8 years ago](https://www.polygon.com/bruce-straley-naughty-dog-exit-interview/)<!-- GAME:END -->
+ - [Everyone&#39;s arguing about whether Divinity will be turn-based or an ARPG, and I&#39;m not sure why because the answer seems obvious](https://www.pcgamer.com/games/rpg/everyones-arguing-about-whether-divinity-will-be-turn-based-or-an-arpg-and-im-not-sure-why-because-the-answer-seems-obvious/)
+ - [Galaxy Watch 8 Classic Returns to All-Time Low as Samsung Rolls Out Another Surprise Clearance on Its Smartwatch Before Christmas](https://kotaku.com/galaxy-watch-8-classic-returns-to-all-time-low-as-samsung-rolls-out-another-surprise-clearance-on-its-smartwatch-before-christmas-2000652757)
+ - [Wake Up Dead Man has a surprising connection to Star Wars, Rian Johnson reveals](https://www.polygon.com/wake-up-dead-man-last-jedi-shared-themes-rian-johnson-interview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
