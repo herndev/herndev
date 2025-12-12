@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Control’s action-RPG sequel launches in 2026](https://www.theverge.com/entertainment/841950/control-resonant-sequel-announce-ps5-xbox-steam)
- - [xAI partners with El Salvador to deploy Grok across 5,000+ public schools, reaching 1M+ students in an &quot;AI-powered education program&quot; over the next two years &lpar;Dara Kerr/The Guardian&rpar;](http://www.techmeme.com/251211/p52#a251211p52)
- - [The next Star Wars game is the spiritual successor to Knights of the Old Republic](https://www.theverge.com/games/843188/star-wars-fate-of-the-old-republic-casey-hudson)<!-- TECH:END -->
+ - [Tomb Raider announces two new games](https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis)
+ - [A look at French indie game studio Sandfall Interactive, whose critically-acclaimed Clair Obscur: Expedition 33 sold 5M+ copies with a budget of less than $10M &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/251211/p53#a251211p53)
+ - [Google’s new browser experiment turns your open tabs into custom apps](https://www.androidauthority.com/google-disco-gentabs-experiment-3624665/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
