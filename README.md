@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My defense of a $40 cable paperweight – I’m sorry](https://www.theverge.com/tech/843386/review-cable-paperweight-native-union-weighter)
- - [Papua New Guinea says Google will build three subsea cables for the country, a $120M effort funded by Australia, amid China&#39;s rising influence in the region &lpar;Kirsty Needham/Reuters&rpar;](http://www.techmeme.com/251212/p5#a251212p5)
- - [Does Red-Light Therapy Work? &lpar;2025&rpar;](https://www.wired.com/story/does-red-light-therapy-work/)<!-- TECH:END -->
+ - [Blame AI: Phone specs could go backward in 2026](https://www.androidauthority.com/smartphone-ram-spec-downgrade-rumor-3624814/)
+ - [FileMaker Pro -- the massive hit no one realises is Apple&#39;s](https://appleinsider.com/articles/25/12/12/filemaker-pro----the-massive-hit-no-one-realises-is-apples?utm_source=rss)
+ - [Baseus Inspire XH1 Headphones Review: Affordable Excellence](https://www.wired.com/review/baseus-inspire-xh1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
