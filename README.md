@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Evolved Novelties Pleasure Puff Inflatable Rabbit Review: A-Spot Stimulation](https://www.wired.com/review/evolved-novelties-pleasure-puff-inflatable-rabbit/)
- - [Google’s making a silly and annoying change to how you uninstall system app updates](https://www.androidauthority.com/google-play-store-uninstall-button-2-3624705/)
- - [Google Account settings are too complicated. Here’s how Google plans to fix it](https://www.androidauthority.com/google-account-management-chat-interface-3624729/)<!-- TECH:END -->
+ - [Meet JMGO’s newest, delightfully compact, ultra-short-throw laser projector](https://www.androidauthority.com/jmgo-03-launch-3624625/)
+ - [Taiwan opens its largest AI supercomputing data center using Nvidia&#39;s Blackwell chips, a major effort in its push for sovereign AI and chip industry innovation &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251212/p4#a251212p4)
+ - [Survey reveals huge vote of confidence for Pixel 11 months before launch](https://www.androidauthority.com/google-pixel-11-best-phone-2026-poll-result-3624711/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
