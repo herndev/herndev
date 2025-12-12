@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google brings Gemini’s Chrome integration to iPhone and iPad](https://www.theverge.com/news/842987/google-gemini-chrome-ios)
- - [Tim Cook’s lobbying hangs over a key kids online safety vote](https://www.theverge.com/policy/842993/kids-online-safety-markup-energy-commerce-tim-cook-apple)
- - [Amazon Prime Video pulls AI-powered recaps after Fallout flub](https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap)<!-- TECH:END -->
+ - [President Trump signs an executive order aimed at preempting a growing number of state AI laws, saying &quot;we want to have one central source of approval&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251211/p49#a251211p49)
+ - [Frieda McFadden&#39;s psychological thriller &#39;The Teacher&#39; comes to Apple TV](https://appleinsider.com/articles/25/12/11/frieda-mcfaddens-psychological-thriller-the-teacher-comes-to-apple-tv?utm_source=rss)
+ - [New US OMB guidance states that LLMs procured by federal agencies must comply with two &quot;unbiased AI principles&quot;: &quot;truth-seeking&quot; and &quot;ideological neutrality&quot; &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/251211/p48#a251211p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
