@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warframe creative director dishes on the romanceable nun Marie Leroux](https://www.polygon.com/warframe-old-peace-marie-leroux/)
- - [Lego Batman: Legacy of the Dark Knight Captures Iconic Eras of Batman, Pre-Order Today](https://news.xbox.com/en-us/2025/12/12/lego-batman-legacy-of-the-dark-knight-pre-order-today/)
- - [Kirby’s Air Riders Gets A Big Balance Update But Don’t Expect Sakurai To Keep Tinkering](https://kotaku.com/kirby-air-riders-balance-patch-notes-dlc-sakurai-smash-bros-2000653001)<!-- GAME:END -->
+ - [Influencers review: a horror-thriller designed to give other movies FOMO](https://www.polygon.com/influencers-review-shudder-horror-thriller-sequel/)
+ - [Next Week on Xbox: New Games for December 15 to 19](https://news.xbox.com/en-us/2025/12/12/next-week-on-xbox-new-games-for-december-15-to-19/)
+ - [OpenAI is now 10 years old, but how well has its mission statement to &#39;benefit all humanity&#39; aged?](https://www.pcgamer.com/software/ai/openai-is-now-10-years-old-but-how-well-has-its-mission-statement-to-benefit-all-humanity-aged/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
