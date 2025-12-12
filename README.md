@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A presidential refresher on wireless terminology, courtesy of Trump Mobile](https://www.theverge.com/tech/842937/trump-mobile-4g5g-4k-explainer)
- - [Switzerland launches a preliminary investigation into whether Apple&#39;s terms for granting third-party access to NFC tech on iPhones violate its antitrust laws &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/251212/p10#a251212p10)
- - [Inside FileMaker Pro -- the massive hit few realize is Apple&#39;s](https://appleinsider.com/articles/25/12/12/filemaker-pro----the-massive-hit-no-one-realises-is-apples?utm_source=rss)<!-- TECH:END -->
+ - [I quit all my AI fitness plans, and I feel free](https://www.theverge.com/column/843420/optimizer-fitness-ai-coaching-plans-quitting-runna-peloton-iq-fitbit-ai)
+ - [Trump&#39;s AI EO directs federal agencies to look into withholding federal funding for states that introduce &quot;burdensome&quot; AI regulations &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/251212/p13#a251212p13)
+ - [[Thread] Substack quietly added a feature that forced subscribers to download the app to read full newsletters but say they&#39;ve rolled it back after complaints &lpar;Gergely Orosz/@gergelyorosz&rpar;](http://www.techmeme.com/251212/p12#a251212p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
