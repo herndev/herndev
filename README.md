@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything We Know About Star Wars: Fate Of The Old Republic](https://kotaku.com/everything-we-know-about-star-wars-fate-of-the-old-republic-release-date-trailer-2000653076)
- - [Yes, IO Interactive really scanned Lenny Kravitz&#39;s incredible sculpted abs for his 007 First Light character model](https://www.pcgamer.com/games/action/yes-io-interactive-really-scanned-lenny-kravitzs-incredible-sculpted-abs-for-his-007-first-light-character-model/)
- - [The Game Awards’ Big ‘One More Thing’ Reveal Didn’t Go Over Well](https://kotaku.com/game-awards-trailers-recap-highguard-titanfall-apex-2000653088)<!-- GAME:END -->
+ - [Pokémon Legends: Z-A – Mega Dimension: The Kotaku Review](https://kotaku.com/pokemon-legends-za-mega-dimension-review-dlc-raichu-2000653106)
+ - [Lorwyn Eclipse set previews include major hints about Magic: The Gathering characters](https://www.polygon.com/lorwyn-eclipsed-previews-short-stories/)
+ - [The new voice of Lara Croft is a veteran of Cyberpunk 2077, Lies of P, Dragon Age, Assassin&#39;s Creed, and a whole bunch more](https://www.pcgamer.com/games/action/the-new-voice-of-lara-croft-is-a-veteran-of-cyberpunk-2077-lies-of-p-dragon-age-assassins-creed-and-a-whole-bunch-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
