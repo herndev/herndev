@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [33 practical smart home gifts that make everyday life a little easier](https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025)
- - [Google expands Google Translate&#39;s live speech translation from Pixel Buds to any headphones, supporting 70+ languages, in beta on compatible Android phones &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251212/p22#a251212p22)
- - [Director found guilty of scamming Netflix out of $11 million](https://www.theverge.com/news/843923/hollywood-director-netflix-conviction-fraud-carl-rinsch)<!-- TECH:END -->
+ - [Amazon Prime Video pulls its AI recaps, which it began testing in November, for Fallout, Bosch, and other shows after users noticed errors in the Fallout recaps &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251212/p25#a251212p25)
+ - [$1B for AI Slop? Why Disney Is Spending Big and Bringing Its Iconic Characters to OpenAI](https://www.cnet.com/tech/services-and-software/disneys-1b-deal-with-openai-will-bring-iconic-characters-to-sora-ai-videos/#ftag=CAD590a51e)
+ - [Android could soon track your medical symptoms in Health Connect](https://www.androidauthority.com/android-health-connect-medical-symptoms-rumor-3625006/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
