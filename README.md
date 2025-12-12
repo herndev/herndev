@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [FUERA](http://9gag.com/gag/aMV05G1)
- - ⏩ [Well, well, well](http://9gag.com/gag/ajP3v4w)
- - 👉 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)<!-- MEMES:END -->
+ - 💣 [Aussie kids after today&#39;s social media ban](http://9gag.com/gag/aD2q5MN)
+ - ⏩ [Note to self, stop giving the prisoners Lego](http://9gag.com/gag/avyBjzn)
+ - 👉 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)<!-- MEMES:END -->
 
 ---
 
