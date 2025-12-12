@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aussie kids after today&#39;s social media ban](http://9gag.com/gag/aD2q5MN)
- - ⏩ [Note to self, stop giving the prisoners Lego](http://9gag.com/gag/avyBjzn)
- - 👉 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)<!-- MEMES:END -->
+ - 💣 [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)
+ - ⏩ [Mom pick me up, there is a girl here](http://9gag.com/gag/aW4e503)
+ - 👉 [Well, well, well](http://9gag.com/gag/ajP3v4w)<!-- MEMES:END -->
 
 ---
 
