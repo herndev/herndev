@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Video pulls its AI recaps, which it began testing in November, for Fallout, Bosch, and other shows after users noticed errors in the Fallout recaps &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251212/p25#a251212p25)
- - [$1B for AI Slop? Why Disney Is Spending Big and Bringing Its Iconic Characters to OpenAI](https://www.cnet.com/tech/services-and-software/disneys-1b-deal-with-openai-will-bring-iconic-characters-to-sora-ai-videos/#ftag=CAD590a51e)
- - [Android could soon track your medical symptoms in Health Connect](https://www.androidauthority.com/android-health-connect-medical-symptoms-rumor-3625006/)<!-- TECH:END -->
+ - [We found 70 stocking stuffers under $100 that are actually useful](https://www.theverge.com/gadgets/843079/best-stocking-stuffers-christmas-ideas-2025)
+ - [Gemini is getting even better at handling natural conversations](https://www.androidauthority.com/gemini-conversation-quality-3625020/)
+ - [PSA: You Can Play Diablo 4&#39;s Paladin Today, if You Preorder the Upcoming Expansion](https://www.cnet.com/tech/gaming/diablo-4-announces-lord-of-hatred-expansion-paladin/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
