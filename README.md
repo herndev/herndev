@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blame AI: Phone specs could go backward in 2026](https://www.androidauthority.com/smartphone-ram-spec-downgrade-rumor-3624814/)
- - [FileMaker Pro -- the massive hit no one realises is Apple&#39;s](https://appleinsider.com/articles/25/12/12/filemaker-pro----the-massive-hit-no-one-realises-is-apples?utm_source=rss)
- - [Baseus Inspire XH1 Headphones Review: Affordable Excellence](https://www.wired.com/review/baseus-inspire-xh1/)<!-- TECH:END -->
+ - [A presidential refresher on wireless terminology, courtesy of Trump Mobile](https://www.theverge.com/tech/842937/trump-mobile-4g5g-4k-explainer)
+ - [Switzerland launches a preliminary investigation into whether Apple&#39;s terms for granting third-party access to NFC tech on iPhones violate its antitrust laws &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/251212/p10#a251212p10)
+ - [Inside FileMaker Pro -- the massive hit few realize is Apple&#39;s](https://appleinsider.com/articles/25/12/12/filemaker-pro----the-massive-hit-no-one-realises-is-apples?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
