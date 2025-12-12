@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anne Hathaway](http://9gag.com/gag/aAyL9po)
- - ⏩ [I&#39;d let her ruin my life](http://9gag.com/gag/a7omg6x)
- - 👉 [Thank you for your service \ud83d\udd96\ud83c\udffe](http://9gag.com/gag/a4PBgOA)<!-- MEMES:END -->
+ - 💣 [Remember when apps had personality](http://9gag.com/gag/aAyL56Z)
+ - ⏩ [That&#39;s one proud grandpa right there.](http://9gag.com/gag/amoOZGj)
+ - 👉 [Aussie kids after today&#39;s social media ban](http://9gag.com/gag/aD2q5MN)<!-- MEMES:END -->
 
 ---
 
