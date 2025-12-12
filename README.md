@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sealzilla](http://9gag.com/gag/aE0j5Ve)
- - ⏩ [Living legend just won gold again](http://9gag.com/gag/ayNmw68)
- - 👉 [That damn smile](http://9gag.com/gag/axyewAW)<!-- MEMES:END -->
+ - 💣 [Anesthesia is a hell of a truth serum sometimes](http://9gag.com/gag/a0eDqLL)
+ - ⏩ [It took me a minute one this one](http://9gag.com/gag/a4PBgzw)
+ - 👉 [I mean ...](http://9gag.com/gag/awy9jd1)<!-- MEMES:END -->
 
 ---
 
