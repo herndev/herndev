@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The TCL QM9K is an excellent flagship TV, but I’m not sure who it’s for](https://www.theverge.com/tech/843074/tcl-qm9k-mini-led-tv-review)
- - [Don’t look now, but another IKEA smart home device just became available in the US](https://www.androidauthority.com/ikea-temperature-humidity-sensor-us-availability-3624922/)
- - [Google is finally fixing the most annoying thing about wireless ADB](https://www.androidauthority.com/android-wireless-adb-auto-reconnect-3624945/)<!-- TECH:END -->
+ - [The 40 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)
+ - [Sources: X reported $752M in Q3 revenue, up 17% YoY, a net loss of $577.4M, and EBITDA of ~$454M, up 16%; revenue for the first nine months of 2025 was $2B+ &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/251212/p20#a251212p20)
+ - [Hisense’s CanvasTV is a great Samsung Frame TV alternative at nearly half off](https://www.theverge.com/gadgets/843667/hisense-s7n-canvas-tv-tomtoc-fancycase-g05-slim-case-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
