@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)
- - ⏩ [Mom pick me up, there is a girl here](http://9gag.com/gag/aW4e503)
- - 👉 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)<!-- MEMES:END -->
+ - 💣 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
+ - ⏩ [Well, well, well](http://9gag.com/gag/ajP3v4w)
+ - 👉 [Thank you for your service \ud83d\udd96\ud83c\udffe](http://9gag.com/gag/a4PBgOA)<!-- MEMES:END -->
 
 ---
 
