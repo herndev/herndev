@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mega Man Is Finally Back In A New 2D Adventure](https://kotaku.com/mega-man-dual-override-trailer-capcom-2000652829)
- - [Hogwarts Legacy is free now on PC via the Epic Games Store](https://www.polygon.com/hogwarts-legacy-epic-games-store-free-game-the-game-awards-december-11-2025/)
- - [Here Are All Of The 2025 Game Award Winners &lpar;And Losers&rpar;](https://kotaku.com/game-awards-2025-tga-winners-losers-who-won-game-of-the-year-clair-obscur-2000652261)<!-- GAME:END -->
+ - [Thank You for An Unforgettable Year with Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2025/12/11/clair-obscur-expedition-33-versos-drafts/)
+ - [The 5 biggest announcements and trailers from The Game Awards 2025](https://www.pcgamer.com/gaming-industry/events-conferences/the-game-awards-2025-announcements-trailers/)
+ - [Clair Obscur: Expedition 33 takes home an absurd 9 wins at The Game Awards, more than Baldur&#39;s Gate 3 in 2023](https://www.pcgamer.com/games/clair-obscur-expedition-33-takes-home-an-absurd-9-wins-at-the-game-awards-more-than-baldurs-gate-3-in-2023/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
