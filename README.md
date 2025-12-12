@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet JMGO’s newest, delightfully compact, ultra-short-throw laser projector](https://www.androidauthority.com/jmgo-03-launch-3624625/)
- - [Taiwan opens its largest AI supercomputing data center using Nvidia&#39;s Blackwell chips, a major effort in its push for sovereign AI and chip industry innovation &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251212/p4#a251212p4)
- - [Survey reveals huge vote of confidence for Pixel 11 months before launch](https://www.androidauthority.com/google-pixel-11-best-phone-2026-poll-result-3624711/)<!-- TECH:END -->
+ - [We went hands-on with the Galaxy Z TriFold. Here’s the good &lpar;and the bad&rpar;](https://www.androidauthority.com/samsung-galaxy-z-trifold-hands-on-3624467/)
+ - [Pixel 9 Pro Fold is finally getting a camera feature it should have had from the start](https://www.androidauthority.com/pixel-9-pro-fold-camera-preview-3624750/)
+ - [Tried and tested: The most frequent tech gifts I’ve given over the years](https://www.androidauthority.com/my-most-frequent-tech-gifts-3623529/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
