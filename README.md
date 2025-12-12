@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Open world RPG shooter No Law is going straight on my wishlist after its Game Awards reveal—we spoke to the devs to find out more](https://www.pcgamer.com/games/fps/open-world-rpg-shooter-no-law-is-going-straight-on-my-wishlist-after-its-game-awards-reveal-we-spoke-to-the-devs-to-find-out-more/)
- - [New cyberpunk shooter No Law revealed at The Game Awards](https://www.polygon.com/no-law-the-game-awards-trailer-neon-giant-cyberpunk/)
- - [That sick-looking first person sci-fi game at The Game Awards is actually the sequel to Sons of the Forest](https://www.pcgamer.com/games/survival-crafting/that-sick-looking-first-person-sci-fi-game-at-the-game-awards-is-actually-the-sequel-to-sons-of-the-forest/)<!-- GAME:END -->
+ - [Mega Man Is Finally Back In A New 2D Adventure](https://kotaku.com/mega-man-dual-override-trailer-capcom-2000652829)
+ - [Hogwarts Legacy is free now on PC via the Epic Games Store](https://www.polygon.com/hogwarts-legacy-epic-games-store-free-game-the-game-awards-december-11-2025/)
+ - [Here Are All Of The 2025 Game Award Winners &lpar;And Losers&rpar;](https://kotaku.com/game-awards-2025-tga-winners-losers-who-won-game-of-the-year-clair-obscur-2000652261)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
