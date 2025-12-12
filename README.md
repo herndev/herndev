@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering positions Jace as the real villain, but I don&#39;t want him to come back](https://www.polygon.com/mtg-jace-return-not-dead-lorwyn-story/)
- - [Erangel: Subzero — A New Chapter of Survival Arrives in PUBG This December](https://news.xbox.com/en-us/2025/12/12/pubg-erangel-sub-zero/)
- - [The Street Fighter Movie Is Going To Be Way Weirder Than You Think](https://kotaku.com/street-fighter-movie-trailer-game-awares-eric-andre-2000653027)<!-- GAME:END -->
+ - [The Game Awards 2025 overlooked Warframe again, but Digital Extreme doesn&#39;t care](https://www.polygon.com/game-awards-2025-warframe-overlooked-digital-extremes/)
+ - [HP Adds Another 80% Off Laptop as Holiday Clearance Deals Continue on Amazon, Not Listed on Official Site](https://kotaku.com/hp-adds-another-80-off-laptop-as-holiday-clearance-deals-continue-on-amazon-not-listed-on-official-site-2000651632)
+ - [Divinity&#39;s trailer is cool, but I suspect Larian&#39;s body-horror Burning Man splatfest doesn&#39;t set an accurate tone for the full game—and if I&#39;m right, it&#39;ll be weird that it&#39;s happened twice](https://www.pcgamer.com/games/rpg/divinitys-trailer-is-cool-but-i-suspect-larians-body-horror-burning-man-splatfest-doesnt-set-an-accurate-tone-for-the-full-game-and-if-im-right-itll-be-weird-that-its-happened-twice/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
