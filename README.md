@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last Of Us Co-Director’s New Game Couldn’t Be More Different](https://kotaku.com/the-last-of-us-co-directors-new-game-couldnt-be-more-different-2000653042)
- - [How to make the Omega Old-Fashioned Donut in Pokémon Legends: Z-A — Mega Dimension](https://www.polygon.com/pokemon-legends-za-plza-omega-old-fashioned-donut-recipe-berries-groudon/)
- - [Clair Obscur&#39;s Game Awards sweep is gaming&#39;s A24 Oscar moment](https://www.polygon.com/game-of-the-year-goty-game-awards-clair-obscur-a24-oscars/)<!-- GAME:END -->
+ - [Kingdom Come: Deliverance 2 devs tweet &#39;Blame the French!&#39; after losing every Game Awards category to Clair Obscur, but it was in good fun: They partied together after](https://www.pcgamer.com/gaming-industry/events-conferences/kingdom-come-deliverance-2-devs-tweet-blame-the-french-after-losing-every-game-awards-category-to-clair-obscur-but-it-was-in-good-fun-they-partied-together-after/)
+ - [The Okami Account Just Murdered Someone](https://kotaku.com/okami-game-awards-fable-street-fighter-evangelion-2000653066)
+ - [Internet not convinced it should care about another PvP hero shooter, collective eye-roll plunges big Game Awards finale reveal into a YouTube dislikes hole](https://www.pcgamer.com/games/fps/internet-not-convinced-it-should-care-about-another-pvp-hero-shooter-collective-eye-roll-plunges-big-game-awards-finale-reveal-into-a-youtube-dislikes-hole/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
