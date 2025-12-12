@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars: Fate of the Old Republic announced from former Mass Effect dev](https://www.polygon.com/star-wars-fate-of-the-old-republic-casey-hudson-the-game-awards/)
- - [The Maker Of Baldur’s Gate 3 Reveals Its Next RPG](https://kotaku.com/divinity-original-sin-3-rpg-trailer-larian-bg4-game-awards-2000652714)
- - [After 21 years, Knights of the Old Republic&#39;s original director is returning to the series for Fate of the Old Republic](https://www.pcgamer.com/games/rpg/after-21-years-knights-of-the-old-republics-original-director-is-returning-to-the-series-for-fate-of-the-old-republic/)<!-- GAME:END -->
+ - [The Street Fighter Movie Looks Surprisingly Good In Its First Trailer](https://kotaku.com/street-fighter-movie-trailer-cast-release-date-2000652775)
+ - [The Legacy of Lara Croft Continues in Two New Tomb Raider Games](https://news.xbox.com/en-us/2025/12/11/tomb-raider-catalyst-and-legacy-of-atlantis-reveal/)
+ - [LEGO Batman: Legacy of the Dark Knight out May 29, 2026 on PS5](https://blog.playstation.com/2025/12/11/lego-batman-legacy-of-the-dark-knight-out-may-29-2026-on-ps5/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
