@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple spends $216 million on two office buildings in Cupertino](https://appleinsider.com/articles/25/12/12/apple-spends-216-million-on-two-office-buildings-in-cupertino?utm_source=rss)
- - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025)
- - [The long shot](https://www.theverge.com/entertainment/842881/resurrection-bi-gan-interview-tracking-shot)<!-- TECH:END -->
+ - [New Amazon Echo Show 8 and 11 drop back to their record-low prices](https://www.androidauthority.com/amazon-echo-show-8-11-deals-3624983/)
+ - [TP-Link Deco BE14000 review: more capable whole-home tri-band mesh Wi-Fi 7](https://appleinsider.com/articles/25/12/12/tp-link-deco-be14000-review-more-capable-whole-home-tri-band-mesh-wi-fi-7?utm_source=rss)
+ - [Tether submits an all-cash offer to acquire a 65.4% stake in Italian soccer club Juventus, says it will invest €1B in the club if the acquisition is completed &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p29#a251212p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
