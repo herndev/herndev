@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Sweeney: the Ninth Circuit&#39;s decision on Epic v. Apple contempt ruling appeal &quot;completely shuts down&quot; App Store rules allowing Apple to collect &quot;junk fees&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251211/p56#a251211p56)
- - [Reddit files a lawsuit against Australia over its social media ban for under-16s, saying the ban &quot;infringes the implied freedom of political communication&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251211/p55#a251211p55)
- - [In his EO, Trump orders US AG Pam Bondi to create an &quot;AI Litigation Task Force&quot; that meets regularly with David Sacks to challenge &quot;inconsistent&quot; state AI laws &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/251211/p54#a251211p54)<!-- TECH:END -->
+ - [An interview with Nikita Bier, who wants to lure journalists back to X with a rebuilt recommendation algorithm with no keyword suppression or manual downranking &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251212/p1#a251212p1)
+ - [A second screen for selfies? This iPhone case is something Android makers should steal](https://www.androidauthority.com/selfix-case-second-screen-3624677/)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Dec. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-dec-12/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
