@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump signs AI executive order pushing to ban state laws](https://www.theverge.com/ai-artificial-intelligence/841817/trump-signs-ai-executive-order-pushing-to-ban-state-laws)
- - [On OpenAI&#39;s 10th anniversary, Sam Altman reflects on &quot;a decade of breakthroughs, learnings, and the path toward AGI that benefits all of humanity&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/251211/p51#a251211p51)
- - [Trump Signs Executive Order That Threatens to Punish States for Passing AI Laws](https://www.wired.com/story/trump-signs-executive-order-ai-state-laws/)<!-- TECH:END -->
+ - [Control’s action-RPG sequel launches in 2026](https://www.theverge.com/entertainment/841950/control-resonant-sequel-announce-ps5-xbox-steam)
+ - [xAI partners with El Salvador to deploy Grok across 5,000+ public schools, reaching 1M+ students in an &quot;AI-powered education program&quot; over the next two years &lpar;Dara Kerr/The Guardian&rpar;](http://www.techmeme.com/251211/p52#a251211p52)
+ - [The next Star Wars game is the spiritual successor to Knights of the Old Republic](https://www.theverge.com/games/843188/star-wars-fate-of-the-old-republic-casey-hudson)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
