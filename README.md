@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last of Us co-director Bruce Straley explains why he left Naughty Dog 8 years ago](https://www.polygon.com/bruce-straley-naughty-dog-exit-interview/)
- - [How to access the &#39;Thank You&#39; update in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-thank-you-update-versos-drafts-dlc/)
- - [Thank You for An Unforgettable Year with Clair Obscur: Expedition 33](https://news.xbox.com/en-us/2025/12/11/clair-obscur-expedition-33-versos-drafts/)<!-- GAME:END -->
+ - [Total War: Warhammer 40,000 is totally real, so we&#39;ve created a wishlist to send to the Emperor](https://www.pcgamer.com/games/strategy/total-war-warhammer-40-000-is-totally-real-so-weve-created-a-wishlist-to-send-to-the-emperor/)
+ - [Devil May Cry season 2 release date: Dante and Vergil return in 2026](https://www.polygon.com/netflix-devil-may-cry-season-2-release-date/)
+ - [The Last of Us co-director Bruce Straley explains why he left Naughty Dog 8 years ago](https://www.polygon.com/bruce-straley-naughty-dog-exit-interview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
