@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Influencers review: a horror-thriller designed to give other movies FOMO](https://www.polygon.com/influencers-review-shudder-horror-thriller-sequel/)
- - [Next Week on Xbox: New Games for December 15 to 19](https://news.xbox.com/en-us/2025/12/12/next-week-on-xbox-new-games-for-december-15-to-19/)
- - [OpenAI is now 10 years old, but how well has its mission statement to &#39;benefit all humanity&#39; aged?](https://www.pcgamer.com/software/ai/openai-is-now-10-years-old-but-how-well-has-its-mission-statement-to-benefit-all-humanity-aged/)<!-- GAME:END -->
+ - [Magic: The Gathering positions Jace as the real villain, but I don&#39;t want him to come back](https://www.polygon.com/mtg-jace-return-not-dead-lorwyn-story/)
+ - [Erangel: Subzero — A New Chapter of Survival Arrives in PUBG This December](https://news.xbox.com/en-us/2025/12/12/pubg-erangel-sub-zero/)
+ - [The Street Fighter Movie Is Going To Be Way Weirder Than You Think](https://kotaku.com/street-fighter-movie-trailer-game-awares-eric-andre-2000653027)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
