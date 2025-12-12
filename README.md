@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s a big girl.](http://9gag.com/gag/adBWzmj)
- - ⏩ [In America, if you rape two kids and sentenced to 78 years jail, you can walk free if your Dad knows the judge. When the cops arrested him his mother had the nerve to say \u201cwhat a horrible thing for a kid to go through\u201d](http://9gag.com/gag/a5Q9gyE)
- - 👉 [Is this true? Never have any girl friend](http://9gag.com/gag/aMV0516)<!-- MEMES:END -->
+ - 💣 [Good Doggo](http://9gag.com/gag/a6ZeRN2)
+ - ⏩ [It is now](http://9gag.com/gag/aW4e3qx)
+ - 👉 [Santa found your wishlist](http://9gag.com/gag/aGyr4gw)<!-- MEMES:END -->
 
 ---
 
