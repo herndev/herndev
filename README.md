@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Come: Deliverance 2 devs tweet &#39;Blame the French!&#39; after losing every Game Awards category to Clair Obscur, but it was in good fun: They partied together after](https://www.pcgamer.com/gaming-industry/events-conferences/kingdom-come-deliverance-2-devs-tweet-blame-the-french-after-losing-every-game-awards-category-to-clair-obscur-but-it-was-in-good-fun-they-partied-together-after/)
- - [The Okami Account Just Murdered Someone](https://kotaku.com/okami-game-awards-fable-street-fighter-evangelion-2000653066)
- - [Internet not convinced it should care about another PvP hero shooter, collective eye-roll plunges big Game Awards finale reveal into a YouTube dislikes hole](https://www.pcgamer.com/games/fps/internet-not-convinced-it-should-care-about-another-pvp-hero-shooter-collective-eye-roll-plunges-big-game-awards-finale-reveal-into-a-youtube-dislikes-hole/)<!-- GAME:END -->
+ - [Everything We Know About Star Wars: Fate Of The Old Republic](https://kotaku.com/everything-we-know-about-star-wars-fate-of-the-old-republic-release-date-trailer-2000653076)
+ - [Yes, IO Interactive really scanned Lenny Kravitz&#39;s incredible sculpted abs for his 007 First Light character model](https://www.pcgamer.com/games/action/yes-io-interactive-really-scanned-lenny-kravitzs-incredible-sculpted-abs-for-his-007-first-light-character-model/)
+ - [The Game Awards’ Big ‘One More Thing’ Reveal Didn’t Go Over Well](https://kotaku.com/game-awards-trailers-recap-highguard-titanfall-apex-2000653088)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
