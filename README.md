@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We went hands-on with the Galaxy Z TriFold. Here’s the good &lpar;and the bad&rpar;](https://www.androidauthority.com/samsung-galaxy-z-trifold-hands-on-3624467/)
- - [Pixel 9 Pro Fold is finally getting a camera feature it should have had from the start](https://www.androidauthority.com/pixel-9-pro-fold-camera-preview-3624750/)
- - [Tried and tested: The most frequent tech gifts I’ve given over the years](https://www.androidauthority.com/my-most-frequent-tech-gifts-3623529/)<!-- TECH:END -->
+ - [My defense of a $40 cable paperweight – I’m sorry](https://www.theverge.com/tech/843386/review-cable-paperweight-native-union-weighter)
+ - [Papua New Guinea says Google will build three subsea cables for the country, a $120M effort funded by Australia, amid China&#39;s rising influence in the region &lpar;Kirsty Needham/Reuters&rpar;](http://www.techmeme.com/251212/p5#a251212p5)
+ - [Does Red-Light Therapy Work? &lpar;2025&rpar;](https://www.wired.com/story/does-red-light-therapy-work/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
