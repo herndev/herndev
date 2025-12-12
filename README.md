@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never underestimate the power of an ankle lock. This is why you tap immediately](http://9gag.com/gag/axye8AK)
- - ⏩ [Well, well, well](http://9gag.com/gag/ajP3v4w)
- - 👉 [Thank you for your service \ud83d\udd96\ud83c\udffe](http://9gag.com/gag/a4PBgOA)<!-- MEMES:END -->
+ - 💣 [WTF US Forces seize a Venezuelan oil tanker](http://9gag.com/gag/aD2q9yO)
+ - ⏩ [Waffle house employees are built different, they dont play around](http://9gag.com/gag/apRn7e9)
+ - 👉 [Well, well, well](http://9gag.com/gag/ajP3v4w)<!-- MEMES:END -->
 
 ---
 
