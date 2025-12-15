@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musicians are getting really tired of this AI clone ‘bullshit’](https://www.theverge.com/report/844454/musicians-tired-of-ai-clones)
- - [UK wants iPhones to require age verification for any nude images](https://appleinsider.com/articles/25/12/15/uk-wants-iphones-to-require-age-verification-for-any-nude-images?utm_source=rss)
- - [All-screen display for 20th anniversary iPhone gets closer to production](https://appleinsider.com/articles/25/12/15/all-screen-display-for-20th-anniversary-iphone-gets-closer-to-production?utm_source=rss)<!-- TECH:END -->
+ - [I tested a 5K monitor that’s over $1,000 less than Apple’s Studio Display: It’s good enough](https://www.theverge.com/gadgets/842650/5k-monitor-ktc-h27p3-mac-os-review)
+ - [Apple Car Key support appears imminent for Toyota vehicles](https://appleinsider.com/articles/25/12/15/apple-car-key-support-appears-imminent-for-toyota-vehicles?utm_source=rss)
+ - [Internal documents: Meta earned $18B+ in annual ad sales from China in 2024, making up 10%+ of its global revenue, with $3B+ linked to fraudulent ads like scams &lpar;Reuters&rpar;](http://www.techmeme.com/251215/p20#a251215p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
