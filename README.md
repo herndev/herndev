@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DTCC: credit default swaps tied to a handful of US tech groups have climbed 90% since early September, as investors seek ways to protect against an AI debt bust &lpar;Financial Times&rpar;](http://www.techmeme.com/251215/p9#a251215p9)
- - [Google Maps in Gemini just got way smarter at finding your next favorite spot](https://www.androidauthority.com/google-maps-in-gemini-visual-upgrade-3625207/)
- - [London-based PolyAI, which makes call center AI voice assistants, raised an $86M Series D led by Georgian, Hedosophia, and Khosla, after raising $50M in 2024 &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/251215/p8#a251215p8)<!-- TECH:END -->
+ - [Feeding the machine](https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies)
+ - [Teneo survey of 350 public-company CEOs: 68% plan to spend more on AI in 2026 than in 2025, &lt;50% of AI projects generated more returns than their cost, and more &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/251215/p13#a251215p13)
+ - [Analysis: Tata, Infosys, and Cognizant are set to bear the brunt of Trump&#39;s $100K H-1B fee; from 2020 to 2024, 93% of Infosys&#39; H-1B hires would have had to pay &lpar;Bloomberg&rpar;](http://www.techmeme.com/251215/p12#a251215p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
