@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Not Everyone Is Excited That Leon Is Back In Resident Evil Requiem](https://kotaku.com/resident-evil-requiem-leon-kennedy-grace-playable-split-2000653406)
- - [Tomb Raider: Catalyst is the start of a new chapter for Lara Croft](https://www.polygon.com/tomb-raider-catalyst-developer-interview-crystal-dynamics/)
- - [It: Welcome to Derry ending and post-credits scene explained: How it changes Pennywise canon](https://www.polygon.com/it-welcome-to-derry-season-1-finale-spoilers-beverly-sophia-lillis/)<!-- GAME:END -->
+ - [Adventure Time creator reveals how Super Smash Bros. inspired his new project](https://www.polygon.com/the-elephant-pendleton-ward-video-games/)
+ - [Destiny 2 Equilibrium loot table: All weapons, armor, and what drops where](https://www.pcgamer.com/games/fps/destiny-2-equilibrium-loot-table/)
+ - [Terminator 2 Finally Has The Incredible Video Game Adaptation It’s Always Deserved](https://kotaku.com/terminator-2d-no-fate-review-steam-switch-ps5-2000653418)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
