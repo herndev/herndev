@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That 70s vibe](http://9gag.com/gag/a2vAebE)
- - ⏩ [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
- - 👉 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)<!-- MEMES:END -->
+ - 💣 [When he realizes..](http://9gag.com/gag/agmpMxn)
+ - ⏩ [That 70s vibe](http://9gag.com/gag/a2vAebE)
+ - 👉 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)<!-- MEMES:END -->
 
 ---
 
