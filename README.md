@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Feeding the machine](https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies)
- - [Teneo survey of 350 public-company CEOs: 68% plan to spend more on AI in 2026 than in 2025, &lt;50% of AI projects generated more returns than their cost, and more &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/251215/p13#a251215p13)
- - [Analysis: Tata, Infosys, and Cognizant are set to bear the brunt of Trump&#39;s $100K H-1B fee; from 2020 to 2024, 93% of Infosys&#39; H-1B hires would have had to pay &lpar;Bloomberg&rpar;](http://www.techmeme.com/251215/p12#a251215p12)<!-- TECH:END -->
+ - [Memo: Greg Peters and Ted Sarandos lay out Netflix&#39;s WBD case, moving to quell concerns about job losses and the end of theater releases, after Paramount&#39;s bid &lpar;Rose Henderson/Bloomberg&rpar;](http://www.techmeme.com/251215/p17#a251215p17)
+ - [Berlin-based Mirelo, whose AI models can interpret video content to add matching sound effects, raised a $41M seed led by Index and a16z, after a $3M pre-seed &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251215/p16#a251215p16)
+ - [Tech whistleblowers like Yaël Eisenstat say coming forward has unexpectedly derailed their lives and careers; Meta is in litigation with Sarah Wynn-Williams &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/251215/p15#a251215p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
