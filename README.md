@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some human&#39;s mind works in a magical way](http://9gag.com/gag/aD2qeww)
- - ⏩ [Good Doggo](http://9gag.com/gag/a6ZeRN2)
- - 👉 [It is now](http://9gag.com/gag/aW4e3qx)<!-- MEMES:END -->
+ - 💣 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
+ - ⏩ [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
+ - 👉 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)<!-- MEMES:END -->
 
 ---
 
