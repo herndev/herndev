@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [Google Search has a subtle new way to push you toward AI Mode](https://www.androidauthority.com/google-search-file-upload-plus-button-3625370/)
- - [GM is adding native Apple Music to select vehicles, and rolls out support for digital keys, after it started phasing out CarPlay in 2023 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251215/p31#a251215p31)<!-- TECH:END -->
+ - [The US FTC, along with 21 states and DC, files an amended complaint against Uber, alleging deceptive billing and cancellation practices related to Uber One &lpar;Reuters&rpar;](http://www.techmeme.com/251215/p33#a251215p33)
+ - [iPhone Fold Touch ID rumor appears again, suggesting Face ID too thick](https://appleinsider.com/articles/25/12/15/iphone-fold-touch-id-rumor-appears-again-suggesting-face-id-too-thick?utm_source=rss)
+ - [Apple&#39;s 2026 executive shuffle is only the beginning as Cook nears retirement](https://appleinsider.com/articles/25/12/15/apples-2026-executive-shuffle-is-only-the-beginning-as-cook-nears-retirement?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
