@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Amazon Echo Show 8 and 11 drop back to their record-low prices](https://www.androidauthority.com/amazon-echo-show-8-11-deals-3624983/)
- - [TP-Link Deco BE14000 review: more capable whole-home tri-band mesh Wi-Fi 7](https://appleinsider.com/articles/25/12/12/tp-link-deco-be14000-review-more-capable-whole-home-tri-band-mesh-wi-fi-7?utm_source=rss)
- - [Tether submits an all-cash offer to acquire a 65.4% stake in Italian soccer club Juventus, says it will invest €1B in the club if the acquisition is completed &lpar;Reuters&rpar;](http://www.techmeme.com/251212/p29#a251212p29)<!-- TECH:END -->
+ - [You need to listen to Sudan Archives&amp;#8217; violin opus for the club](https://www.theverge.com/entertainment/844447/sudan-archives-the-bpm)
+ - [How Skövde, a small Swedish city of 58,000, built a local video game ecosystem via a degree for game developers at University of Skövde and a startup incubator &lpar;Ralph Jones/The Guardian&rpar;](http://www.techmeme.com/251214/p16#a251214p16)
+ - [A look at the efforts to open private markets, where shares of startups like OpenAI trade, to small investors, and the opportunities and risks they bring &lpar;Corrie Driebusch/Wall Street Journal&rpar;](http://www.techmeme.com/251214/p15#a251214p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
