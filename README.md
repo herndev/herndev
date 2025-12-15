@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s killing off its dark web report because users didn’t know what to do with it](https://www.androidauthority.com/google-dark-web-reports-3625323/)
- - [Tim Cook is only the seventh highest earning CEO in America](https://appleinsider.com/articles/25/12/15/tim-cook-is-only-the-seventh-highest-earning-ceo-in-america?utm_source=rss)
- - [LG smart TV owners say a webOS update pinned Microsoft Copilot to TV home screens, with no apparent way to remove the app; LG unveiled an AI TV strategy at CES &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251215/p21#a251215p21)<!-- TECH:END -->
+ - [Tesla robotaxis spotted on public roads without safety monitors](https://www.theverge.com/news/844616/tesla-robotaxis-spotted-on-public-roads-without-safety-monitors)
+ - [Fallout season 2 is streaming one day early](https://www.theverge.com/news/844684/fallout-season-2-premiere-streaming-amazon-prime-video)
+ - [Nvidia announces it has acquired SchedMD, the developer of Slurm, an open-source workload management system for HPC and AI &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251215/p25#a251215p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
