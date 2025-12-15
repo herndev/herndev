@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [That 70s vibe](http://9gag.com/gag/a2vAebE)
- - ⏩ [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 👉 [Maybe im weak minded..but, i just cant anymore](http://9gag.com/gag/agmpWV6)<!-- MEMES:END -->
+ - ⏩ [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
+ - 👉 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)<!-- MEMES:END -->
 
 ---
 
