@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
- - ⏩ [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
- - 👉 [Scammers Be Careful](http://9gag.com/gag/aryDQ9V)<!-- MEMES:END -->
+ - 💣 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
+ - ⏩ [Is it possible](http://9gag.com/gag/ayNmbb8)
+ - 👉 [\u201cThe cutscene couldn\u2019t be that important.\u201d Right after:](http://9gag.com/gag/aW4erRd)<!-- MEMES:END -->
 
 ---
 
