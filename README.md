@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to make the Delta Old-Fashioned Donut in Pokémon Legends: Z-A — Mega Dimension](https://www.polygon.com/pokemon-legends-za-plza-delta-old-fashioned-donut-recipe-berries-rayquaza/)
- - [Everyone who thought Diablo 4&#39;s original villain made some good points will be happy to know she&#39;s coming back in its next expansion as an ally](https://www.pcgamer.com/games/rpg/everyone-who-thought-diablo-4s-original-villain-made-some-good-points-will-be-happy-to-know-shes-coming-back-in-its-next-expansion-as-an-ally/)
- - [Pokémon Legends: Z-A — Mega Dimension DLC review](https://www.polygon.com/pokemon-legends-z-a-mega-dimension-dlc-review/)<!-- GAME:END -->
+ - [Lords Of The Fallen 2 Dev Promises Sexy Women But Fans Just Want Better Soulslike Gameplay](https://kotaku.com/lords-fallen-2-trailer-free-update-coop-soulslike-2000653471)
+ - [ROG Strix G16 Laptop With RTX 5070, 1TB SSD and Ryzen 9 Hits New Low, Amazon Cuts All Profit Margin](https://kotaku.com/rog-strix-g16-laptop-with-rtx-5070-1tb-ssd-and-ryzen-9-hits-new-low-amazon-cuts-all-profit-margin-2000653501)
+ - [Fallout Season 2 Will Start Streaming Early](https://kotaku.com/fallout-s2-streaming-prime-when-netflix-2000653513)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
