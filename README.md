@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [LEGO Expands Its Star Wars Starship Clearance, The Dark Falcon Hits a Record Low After the Millennium Falcon](https://kotaku.com/lego-expands-its-star-wars-starship-clearance-the-dark-falcon-hits-a-record-low-after-the-millennium-falcon-2000653383)
- - [Arc Raiders devs are uplifted by how kind players have been to one another, but admit &#39;we&#39;re way worse people than the community&#39; when it comes to engaging in PvP](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-devs-are-uplifted-by-how-kind-players-have-been-to-one-another-but-admit-were-way-worse-people-than-the-community-when-it-comes-to-engaging-in-pvp/)
- - [Samsung Clears Out G50D Odyssey Gaming Monitor at 42% Off, the 32″ Model Is Now Cheaper Than the 27″](https://kotaku.com/samsung-clears-out-g50d-odyssey-gaming-monitor-at-42-off-the-32%e2%80%b3-model-is-now-cheaper-than-the-27%e2%80%b3-2000653260)<!-- GAME:END -->
+ - [Not Everyone Is Excited That Leon Is Back In Resident Evil Requiem](https://kotaku.com/resident-evil-requiem-leon-kennedy-grace-playable-split-2000653406)
+ - [Tomb Raider: Catalyst is the start of a new chapter for Lara Croft](https://www.polygon.com/tomb-raider-catalyst-developer-interview-crystal-dynamics/)
+ - [It: Welcome to Derry ending and post-credits scene explained: How it changes Pennywise canon](https://www.polygon.com/it-welcome-to-derry-season-1-finale-spoilers-beverly-sophia-lillis/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
