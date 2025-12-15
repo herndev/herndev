@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested a 5K monitor that’s over $1,000 less than Apple’s Studio Display: It’s good enough](https://www.theverge.com/gadgets/842650/5k-monitor-ktc-h27p3-mac-os-review)
- - [Apple Car Key support appears imminent for Toyota vehicles](https://appleinsider.com/articles/25/12/15/apple-car-key-support-appears-imminent-for-toyota-vehicles?utm_source=rss)
- - [Internal documents: Meta earned $18B+ in annual ad sales from China in 2024, making up 10%+ of its global revenue, with $3B+ linked to fraudulent ads like scams &lpar;Reuters&rpar;](http://www.techmeme.com/251215/p20#a251215p20)<!-- TECH:END -->
+ - [Google’s killing off its dark web report because users didn’t know what to do with it](https://www.androidauthority.com/google-dark-web-reports-3625323/)
+ - [Tim Cook is only the seventh highest earning CEO in America](https://appleinsider.com/articles/25/12/15/tim-cook-is-only-the-seventh-highest-earning-ceo-in-america?utm_source=rss)
+ - [LG smart TV owners say a webOS update pinned Microsoft Copilot to TV home screens, with no apparent way to remove the app; LG unveiled an AI TV strategy at CES &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251215/p21#a251215p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
