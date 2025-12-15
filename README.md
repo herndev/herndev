@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will let you tell Discover what you want to see](https://www.androidauthority.com/google-discover-tailor-your-feed-experiment-3625403/)
- - [How crypto entrepreneur Bill Zanker helped Trump and Melania launch memecoins; as of December 10, $TRUMP was down 92% since its peak and $MELANIA was down 99% &lpar;Bloomberg&rpar;](http://www.techmeme.com/251215/p34#a251215p34)
- - [The PS5, PlayStation Portal, and Sony’s DualSense are still on sale for a limited time](https://www.theverge.com/gadgets/844698/sony-ps5-playstation-portal-dualsense-controller-deal-sale-2025)<!-- TECH:END -->
+ - [Game development diary: Sound, music, and schedule speed bumps](https://appleinsider.com/articles/25/12/15/game-development-diary-sound-music-and-schedule-speed-bumps?utm_source=rss)
+ - [New in iOS 26.3: Android transfer settings, third-party notification forwarding](https://appleinsider.com/articles/25/12/15/new-in-ios-263-android-transfer-settings-third-party-notification-forwarding?utm_source=rss)
+ - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
