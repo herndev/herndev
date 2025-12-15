@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2025 Update](http://9gag.com/gag/ajP3p3G)
- - ⏩ [Maybe we should follow in their footsteps](http://9gag.com/gag/aYQv9Aw)
- - 👉 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)<!-- MEMES:END -->
+ - 💣 [I just leave this here.](http://9gag.com/gag/aGyrXYw)
+ - ⏩ [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
+ - 👉 [Maybe im weak minded..but, i just cant anymore](http://9gag.com/gag/agmpWV6)<!-- MEMES:END -->
 
 ---
 
