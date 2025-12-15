@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 10 Worst Games Of 2025 According To Metacritic](https://kotaku.com/the-10-worst-games-of-2025-according-to-metacritic-mindseye-fire-emblem-glover-2000653114)
- - [Xbox Gets Philosophical About Trying To Raise The Price Of Games](https://kotaku.com/xbox-game-pass-prices-outer-worlds-2-2000653442)
- - [&#39;Leon isn&#39;t just handsome&#39;: Resident Evil Requiem devs gush about how great our favourite Resi character is, but do warn that this game will push him &#39;to his limits more than ever before&#39;](https://www.pcgamer.com/games/resident-evil/leon-isnt-just-handsome-resident-evil-requiem-devs-gush-about-how-great-our-favourite-resi-character-is-but-do-warn-that-this-game-will-push-him-to-his-limits-more-than-ever-before/)<!-- GAME:END -->
+ - [Celebrate the Season with EA Play’s Holiday Picks](https://news.xbox.com/en-us/2025/12/15/ea-play-december-2025/)
+ - [Countdown Sale: Save $100 on the ROG Xbox Ally, Up to 60% on 1,000+ Games, and More](https://blogs.windows.com/devices/2025/11/20/2025-windows-11-pc-holiday-buying-guide-best-devices-and-deals/#new_tab)
+ - [Roblox ban sparks protests in Russia](https://www.pcgamer.com/games/roblox-ban-sparks-protests-in-russia/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
