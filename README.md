@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
- - ⏩ [Is it possible](http://9gag.com/gag/ayNmbb8)
- - 👉 [\u201cThe cutscene couldn\u2019t be that important.\u201d Right after:](http://9gag.com/gag/aW4erRd)<!-- MEMES:END -->
+ - 💣 [Ah yes... the pigeon chopper 5000...](http://9gag.com/gag/aE0jLVM)
+ - ⏩ [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)
+ - 👉 [2025 Update](http://9gag.com/gag/ajP3p3G)<!-- MEMES:END -->
 
 ---
 
