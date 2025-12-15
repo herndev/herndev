@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How UAE&#39;s growing interest in crypto drew Michael Saylor, Changpeng Zhao and other crypto executives to Abu Dhabi, hoping to secure deals with Emirati investors &lpar;Angus Berwick/Wall Street Journal&rpar;](http://www.techmeme.com/251214/p19#a251214p19)
- - [An interview with Marcos Galperin, CEO of MercadoLibre, which has a $105B market cap, on his upcoming resignation, MercadoLibre&#39;s rivalry with Amazon, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251214/p18#a251214p18)
- - [iRobot files for Chapter 11 bankruptcy after reaching a restructuring support agreement to hand control to its secured lender and key supplier, Shenzhen Picea &lpar;Bloomberg&rpar;](http://www.techmeme.com/251214/p17#a251214p17)<!-- TECH:END -->
+ - [Investigation: after Trump&#39;s return to office, the SEC eased up on or dismissed 60%+ of ongoing crypto cases, including ones involving Trump-linked companies &lpar;New York Times&rpar;](http://www.techmeme.com/251214/p20#a251214p20)
+ - [Waze may be finally catching up to Google Maps with this highly-requested feature](https://www.androidauthority.com/waze-traffic-lights-support-3625151/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 15, #448](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-15-448/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
