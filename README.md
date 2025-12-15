@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kirby Air Riders&#39; team will disband after final balance adjustments](https://www.polygon.com/kirby-air-riders-no-dlc-dev-team-disbanding/)
- - [MSI MEG X870E Godlike X Edition review](https://www.pcgamer.com/hardware/motherboards/msi-meg-x870e-godlike-x-edition-review/)
- - [Fallout: New Vegas modders are having a field day restoring cut content found in the recently leaked beta](https://www.pcgamer.com/games/fallout/fallout-new-vegas-modders-are-having-a-field-day-restoring-cut-content-found-in-the-recently-leaked-beta/)<!-- GAME:END -->
+ - [Samsung Clears Out G50D Odyssey Gaming Monitor at 42% Off, the 32″ Model Is Now Cheaper Than the 27″](https://kotaku.com/samsung-clears-out-g50d-odyssey-gaming-monitor-at-42-off-the-32%e2%80%b3-model-is-now-cheaper-than-the-27%e2%80%b3-2000653260)
+ - [30 years ago, Heat brought De Niro and Pacino together in unexpected ways](https://www.polygon.com/heat-pacino-deniro-mann-at-30/)
+ - [The State Of Xbox And Game Pass In 2025](https://kotaku.com/the-state-of-xbox-and-game-pass-in-2025-2000651807)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
