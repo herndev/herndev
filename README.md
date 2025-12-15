@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When he realizes..](http://9gag.com/gag/agmpMxn)
+ - 💣 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
  - ⏩ [That 70s vibe](http://9gag.com/gag/a2vAebE)
  - 👉 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)<!-- MEMES:END -->
 
