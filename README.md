@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout: New Vegas&#39; Mr. House was based on Howard Hughes, but the game&#39;s lead writer says his sense of the character &#39;has changed as we&#39;ve seen the rise of Silicon Valley would-be messiahs&#39;](https://www.pcgamer.com/games/fallout/fallout-new-vegas-mr-house-was-based-on-howard-hughes-but-the-games-lead-writer-says-his-sense-of-the-character-has-changed-as-weve-seen-the-rise-of-silicon-valley-would-be-messiahs/)
- - [Clair Obscur: Expedition 33 gets another GOTY nomination at NY Game Awards](https://www.polygon.com/new-york-game-awards-goty-nominations-clair-obscur/)
- - [All silk spool fragment locations in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-spool-fragment-locations/)<!-- GAME:END -->
+ - [How to make the Delta Old-Fashioned Donut in Pokémon Legends: Z-A — Mega Dimension](https://www.polygon.com/pokemon-legends-za-plza-delta-old-fashioned-donut-recipe-berries-rayquaza/)
+ - [Everyone who thought Diablo 4&#39;s original villain made some good points will be happy to know she&#39;s coming back in its next expansion as an ally](https://www.pcgamer.com/games/rpg/everyone-who-thought-diablo-4s-original-villain-made-some-good-points-will-be-happy-to-know-shes-coming-back-in-its-next-expansion-as-an-ally/)
+ - [Pokémon Legends: Z-A — Mega Dimension DLC review](https://www.polygon.com/pokemon-legends-z-a-mega-dimension-dlc-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
