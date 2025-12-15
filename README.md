@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cadillac and Chevy are getting native Apple Music](https://www.theverge.com/transportation/844697/gm-cadillac-chevy-apple-music-native)
- - [Verizon retroactively changed its unlock policy, so one user successfully sues the carrier](https://www.androidauthority.com/verizon-retroactive-policy-change-3625348/)
- - [Mexico-based fintech Plata raised up to $500M in a financing deal arranged by Nomura Securities International, as it moves toward becoming a full-fledged bank &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/251215/p28#a251215p28)<!-- TECH:END -->
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+ - [Google Search has a subtle new way to push you toward AI Mode](https://www.androidauthority.com/google-search-file-upload-plus-button-3625370/)
+ - [GM is adding native Apple Music to select vehicles, and rolls out support for digital keys, after it started phasing out CarPlay in 2023 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251215/p31#a251215p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
