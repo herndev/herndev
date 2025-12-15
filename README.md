@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini could soon stop wasting your time on basic questions, and that’s great news](https://www.androidauthority.com/gemini-deep-thinking-skip-button-3625192/)
- - [US volunteer fire departments are scrambling to find software amid shrinking options and higher costs, as companies backed by private equity dominate the market &lpar;Mike Baker/New York Times&rpar;](http://www.techmeme.com/251215/p6#a251215p6)
- - [Starlink and Chinese satellites nearly collided last week](https://www.theverge.com/news/844502/starlink-and-chinese-satellites-nearly-collided-last-week)<!-- TECH:END -->
+ - [DTCC: credit default swaps tied to a handful of US tech groups have climbed 90% since early September, as investors seek ways to protect against an AI debt bust &lpar;Financial Times&rpar;](http://www.techmeme.com/251215/p9#a251215p9)
+ - [Google Maps in Gemini just got way smarter at finding your next favorite spot](https://www.androidauthority.com/google-maps-in-gemini-visual-upgrade-3625207/)
+ - [London-based PolyAI, which makes call center AI voice assistants, raised an $86M Series D led by Georgian, Hedosophia, and Khosla, after raising $50M in 2024 &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/251215/p8#a251215p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
