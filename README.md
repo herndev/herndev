@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill f&#39;s lead actor was worried her first stream of the game would &#39;end with an apology press conference,&#39; but she ended up loving it and got millions of viewers](https://www.pcgamer.com/games/horror/silent-hill-fs-lead-actor-was-worried-her-first-stream-of-the-game-would-end-with-an-apology-press-conference-but-she-ended-up-loving-it-and-got-millions-of-viewers/)
- - [Peak just added an in-game concert starring rapper bbno$, but it&#39;s gone tomorrow](https://www.pcgamer.com/games/adventure/peak-just-added-an-in-game-concert-starring-rapper-bbno-usd-but-its-gone-tomorrow/)
- - [RPG dev pushes back against Steam review AI accusations: &#39;We poured years of our lives into this game and only worked with real human artists on everything&#39;](https://www.pcgamer.com/games/rpg/rpg-dev-pushes-back-against-steam-review-ai-accusations-we-poured-years-of-our-lives-into-this-game-and-only-worked-with-real-human-artists-on-everything/)<!-- GAME:END -->
+ - [Fallout: New Vegas modders are having a field day restoring cut content found in the recently leaked beta](https://www.pcgamer.com/games/fallout/fallout-new-vegas-modders-are-having-a-field-day-restoring-cut-content-found-in-the-recently-leaked-beta/)
+ - [It: Welcome to Derry season 2: Cast, plot, timeline, and release date theories](https://www.polygon.com/it-welcome-to-derry-season-2-everything-we-know-so-far/)
+ - [Off the back of Divinity&#39;s new trailer Divinity: Original Sin 2 just shot back up the Steam charts, have fun in Fort Joy everybody](https://www.pcgamer.com/games/rpg/off-the-back-of-divinitys-new-trailer-divinity-original-sin-2-just-shot-back-up-the-steam-charts-have-fun-in-fort-joy-everybody/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
