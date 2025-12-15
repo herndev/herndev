@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M4 MacBook Air with 24GB RAM plunges to $899 with free 2-day shipping](https://appleinsider.com/articles/25/12/15/apples-m4-macbook-air-with-24gb-ram-plunges-to-899-with-free-2-day-shipping?utm_source=rss)
- - [How Nvidia&#39;s lobbying efforts grew after Howard Lutnick brokered Jensen Huang&#39;s access to Trump, ending with the president&#39;s approval of the H200 sales to China &lpar;Financial Times&rpar;](http://www.techmeme.com/251215/p2#a251215p2)
- - [iRobot files for bankruptcy](https://www.theverge.com/news/844460/irobot-files-for-bankruptcy)<!-- TECH:END -->
+ - [Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)
+ - [AI image generators like Nano Banana have increased realism by mimicking phone camera traits in contrast, exposure, and sharpening to avoid the uncanny valley &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/251215/p3#a251215p3)
+ - [Spotify may finally let you tone down those distracting animations &lpar;APK teardown&rpar;](https://www.androidauthority.com/spotify-reduce-animations-apk-teardown-3625183/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
