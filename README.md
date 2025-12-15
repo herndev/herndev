@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That recoil hit different](http://9gag.com/gag/adBWEgZ)
- - ⏩ [Hot pocket.](http://9gag.com/gag/amoO3Zj)
- - 👉 [Maybe im weak minded..but, i just cant anymore](http://9gag.com/gag/agmpWV6)<!-- MEMES:END -->
+ - 💣 [Maybe im weak minded..but, i just cant anymore](http://9gag.com/gag/agmpWV6)
+ - ⏩ [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
+ - 👉 [Which anime though](http://9gag.com/gag/aryDjLX)<!-- MEMES:END -->
 
 ---
 
