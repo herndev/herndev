@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla robotaxis spotted on public roads without safety monitors](https://www.theverge.com/news/844616/tesla-robotaxis-spotted-on-public-roads-without-safety-monitors)
- - [Fallout season 2 is streaming one day early](https://www.theverge.com/news/844684/fallout-season-2-premiere-streaming-amazon-prime-video)
- - [Nvidia announces it has acquired SchedMD, the developer of Slurm, an open-source workload management system for HPC and AI &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251215/p25#a251215p25)<!-- TECH:END -->
+ - [Cadillac and Chevy are getting native Apple Music](https://www.theverge.com/transportation/844697/gm-cadillac-chevy-apple-music-native)
+ - [Verizon retroactively changed its unlock policy, so one user successfully sues the carrier](https://www.androidauthority.com/verizon-retroactive-policy-change-3625348/)
+ - [Mexico-based fintech Plata raised up to $500M in a financing deal arranged by Nomura Securities International, as it moves toward becoming a full-fledged bank &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/251215/p28#a251215p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
