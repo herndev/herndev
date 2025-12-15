@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who is Picea Robotics, Roomba’s new owner?](https://www.theverge.com/news/844474/who-is-picea-robotics-company-owns-irobot)
- - [AI image generators like Nano Banana have increased realism by mimicking phone camera traits in contrast, exposure, and sharpening to avoid the uncanny valley &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/251215/p3#a251215p3)
- - [Spotify may finally let you tone down those distracting animations &lpar;APK teardown&rpar;](https://www.androidauthority.com/spotify-reduce-animations-apk-teardown-3625183/)<!-- TECH:END -->
+ - [Gemini could soon stop wasting your time on basic questions, and that’s great news](https://www.androidauthority.com/gemini-deep-thinking-skip-button-3625192/)
+ - [US volunteer fire departments are scrambling to find software amid shrinking options and higher costs, as companies backed by private equity dominate the market &lpar;Mike Baker/New York Times&rpar;](http://www.techmeme.com/251215/p6#a251215p6)
+ - [Starlink and Chinese satellites nearly collided last week](https://www.theverge.com/news/844502/starlink-and-chinese-satellites-nearly-collided-last-week)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
