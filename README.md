@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate the Season with EA Play’s Holiday Picks](https://news.xbox.com/en-us/2025/12/15/ea-play-december-2025/)
- - [Countdown Sale: Save $100 on the ROG Xbox Ally, Up to 60% on 1,000+ Games, and More](https://blogs.windows.com/devices/2025/11/20/2025-windows-11-pc-holiday-buying-guide-best-devices-and-deals/#new_tab)
- - [Roblox ban sparks protests in Russia](https://www.pcgamer.com/games/roblox-ban-sparks-protests-in-russia/)<!-- GAME:END -->
+ - [Fallout: New Vegas&#39; Mr. House was based on Howard Hughes, but the game&#39;s lead writer says his sense of the character &#39;has changed as we&#39;ve seen the rise of Silicon Valley would-be messiahs&#39;](https://www.pcgamer.com/games/fallout/fallout-new-vegas-mr-house-was-based-on-howard-hughes-but-the-games-lead-writer-says-his-sense-of-the-character-has-changed-as-weve-seen-the-rise-of-silicon-valley-would-be-messiahs/)
+ - [Clair Obscur: Expedition 33 gets another GOTY nomination at NY Game Awards](https://www.polygon.com/new-york-game-awards-goty-nominations-clair-obscur/)
+ - [All silk spool fragment locations in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-spool-fragment-locations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
