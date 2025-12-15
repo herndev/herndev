@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe im weak minded..but, i just cant anymore](http://9gag.com/gag/agmpWV6)
- - ⏩ [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
- - 👉 [Which anime though](http://9gag.com/gag/aryDjLX)<!-- MEMES:END -->
+ - 💣 [That 70s vibe](http://9gag.com/gag/a2vAebE)
+ - ⏩ [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
+ - 👉 [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)<!-- MEMES:END -->
 
 ---
 
