@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ah yes... the pigeon chopper 5000...](http://9gag.com/gag/aE0jLVM)
- - ⏩ [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)
- - 👉 [2025 Update](http://9gag.com/gag/ajP3p3G)<!-- MEMES:END -->
+ - 💣 [10/10 would wife and yes, simping, I do not even know her name.](http://9gag.com/gag/a1m8GvD)
+ - ⏩ [2025 Update](http://9gag.com/gag/ajP3p3G)
+ - 👉 [Maybe we should follow in their footsteps](http://9gag.com/gag/aYQv9Aw)<!-- MEMES:END -->
 
 ---
 
