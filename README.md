@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [MSI MEG X870E Godlike X Edition review](https://www.pcgamer.com/hardware/motherboards/msi-meg-x870e-godlike-x-edition-review/)
  - [Fallout: New Vegas modders are having a field day restoring cut content found in the recently leaked beta](https://www.pcgamer.com/games/fallout/fallout-new-vegas-modders-are-having-a-field-day-restoring-cut-content-found-in-the-recently-leaked-beta/)
- - [It: Welcome to Derry season 2: Cast, plot, timeline, and release date theories](https://www.polygon.com/it-welcome-to-derry-season-2-everything-we-know-so-far/)
- - [Off the back of Divinity&#39;s new trailer Divinity: Original Sin 2 just shot back up the Steam charts, have fun in Fort Joy everybody](https://www.pcgamer.com/games/rpg/off-the-back-of-divinitys-new-trailer-divinity-original-sin-2-just-shot-back-up-the-steam-charts-have-fun-in-fort-joy-everybody/)<!-- GAME:END -->
+ - [It: Welcome to Derry season 2: Cast, plot, timeline, and release date theories](https://www.polygon.com/it-welcome-to-derry-season-2-everything-we-know-so-far/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
