@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Kirby Air Riders&#39; team will disband after final balance adjustments](https://www.polygon.com/kirby-air-riders-no-dlc-dev-team-disbanding/)
  - [MSI MEG X870E Godlike X Edition review](https://www.pcgamer.com/hardware/motherboards/msi-meg-x870e-godlike-x-edition-review/)
- - [Fallout: New Vegas modders are having a field day restoring cut content found in the recently leaked beta](https://www.pcgamer.com/games/fallout/fallout-new-vegas-modders-are-having-a-field-day-restoring-cut-content-found-in-the-recently-leaked-beta/)
- - [It: Welcome to Derry season 2: Cast, plot, timeline, and release date theories](https://www.polygon.com/it-welcome-to-derry-season-2-everything-we-know-so-far/)<!-- GAME:END -->
+ - [Fallout: New Vegas modders are having a field day restoring cut content found in the recently leaked beta](https://www.pcgamer.com/games/fallout/fallout-new-vegas-modders-are-having-a-field-day-restoring-cut-content-found-in-the-recently-leaked-beta/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
