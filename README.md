@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
- - ⏩ [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
+ - ⏩ [That 70s vibe](http://9gag.com/gag/a2vAebE)
  - 👉 [Such a nice lady!](http://9gag.com/gag/awy9RR1)<!-- MEMES:END -->
 
 ---
