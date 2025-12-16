@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is bait](http://9gag.com/gag/a5Q9mZV)
- - ⏩ [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - 👉 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)<!-- MEMES:END -->
+ - 💣 [Run b!tch.. run...! It&#39;s a Trap.!](http://9gag.com/gag/aKGy48g)
+ - ⏩ [Ordinary Mongolian Child](http://9gag.com/gag/agmpRx6)
+ - 👉 [That kick!](http://9gag.com/gag/amoyq5j)<!-- MEMES:END -->
 
 ---
 
