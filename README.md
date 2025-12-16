@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [iPad mini 8 rumored to use the iPhone 18 A20 Pro chip](https://appleinsider.com/articles/25/12/16/ipad-mini-8-now-believed-to-use-the-iphone-18-a20-pro-chip?utm_source=rss)
- - [Visa says it will allow US banks to settle transactions using Circle&#39;s USDC stablecoin over Solana, the US&#39; first full deployment of a stablecoin settlement &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251216/p11#a251216p11)<!-- TECH:END -->
+ - [Moto G Power 2026 lands with a beefier battery for your budget buck](https://www.androidauthority.com/moto-g-power-2026-announced-3625545/)
+ - [Avatar: Fire and Ash is a gorgeous spectacle of titanic proportions](https://www.theverge.com/entertainment/844731/avatar-fire-and-ash-review)
+ - [Fallout’s goofy apocalypse gets serious in season 2](https://www.theverge.com/entertainment/844926/fallout-season-2-review-amazon-prime-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
