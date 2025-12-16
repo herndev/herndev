@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Roomba invented the home robot — and lost the future](https://www.theverge.com/tech/844964/how-irobot-invented-the-roomba-and-lost-the-future-of-home-robotics)
- - [Intel appoints Robin Colwell, deputy assistant to President Trump and deputy director of the National Economic Council, as its head of government affairs &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251215/p37#a251215p37)
- - [Apple TV adds Google Cast streaming, but only on Android](https://www.theverge.com/news/844867/apple-tv-google-cast-android)<!-- TECH:END -->
+ - [The best Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
+ - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
+ - [PayPal says it has filed applications to establish PayPal Bank to provide loans more efficiently to US small businesses and reduce its reliance on third parties &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/251215/p40#a251215p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
