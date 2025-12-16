@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
  - ⏩ [Such a nice lady!](http://9gag.com/gag/awy9RR1)
- - 👉 [KABOOM?](http://9gag.com/gag/aO8ngg3)<!-- MEMES:END -->
+ - 👉 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)<!-- MEMES:END -->
 
 ---
 
