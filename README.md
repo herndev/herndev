@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lords Of The Fallen 2 Dev Promises Sexy Women But Fans Just Want Better Soulslike Gameplay](https://kotaku.com/lords-fallen-2-trailer-free-update-coop-soulslike-2000653471)
- - [ROG Strix G16 Laptop With RTX 5070, 1TB SSD and Ryzen 9 Hits New Low, Amazon Cuts All Profit Margin](https://kotaku.com/rog-strix-g16-laptop-with-rtx-5070-1tb-ssd-and-ryzen-9-hits-new-low-amazon-cuts-all-profit-margin-2000653501)
- - [Fallout Season 2 Will Start Streaming Early](https://kotaku.com/fallout-s2-streaming-prime-when-netflix-2000653513)<!-- GAME:END -->
+ - [Dell i7 1TB Laptop Rated 5/5 Stars Drops 73% Off on Amazon, Crashes to All-Time Low With $200 Bonus Pack](https://kotaku.com/dell-i7-1tb-laptop-rated-5-5-stars-drops-73-off-on-amazon-crashes-to-all-time-low-with-200-bonus-pack-2000653526)
+ - [Amazon Hits Mini PCs Hard, Apple’s Newest Mac Mini at Record Low Price Makes Mid-Range Options Obsolete](https://kotaku.com/amazon-hits-mini-pcs-hard-apples-newest-mac-mini-at-record-low-price-makes-mid-range-options-obsolete-2000653505)
+ - [Lords Of The Fallen 2 Dev Promises Sexy Women But Fans Just Want Better Soulslike Gameplay](https://kotaku.com/lords-fallen-2-trailer-free-update-coop-soulslike-2000653471)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
