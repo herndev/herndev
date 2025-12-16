@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
- - ⏩ [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
- - 👉 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)<!-- MEMES:END -->
+ - 💣 [Watching this sand art is so satisfying](http://9gag.com/gag/ae9qLRB)
+ - ⏩ [The window has now aids](http://9gag.com/gag/a0eDmbz)
+ - 👉 [Such a nice lady!](http://9gag.com/gag/awy9RR1)<!-- MEMES:END -->
 
 ---
 
