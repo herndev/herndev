@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
- - ⏩ [That 70s vibe](http://9gag.com/gag/a2vAebE)
- - 👉 [Such a nice lady!](http://9gag.com/gag/awy9RR1)<!-- MEMES:END -->
+ - 💣 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
+ - ⏩ [How stupid can you be???](http://9gag.com/gag/adBWZqQ)
+ - 👉 [KABOOM?](http://9gag.com/gag/aO8ngg3)<!-- MEMES:END -->
 
 ---
 
