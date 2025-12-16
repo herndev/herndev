@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me trying to quit smoking](http://9gag.com/gag/azxvNBx)
- - ⏩ [Christian Bale, what a legend](http://9gag.com/gag/amoOEKV)
- - 👉 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)<!-- MEMES:END -->
+ - 💣 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
+ - ⏩ [Such a nice lady!](http://9gag.com/gag/awy9RR1)
+ - 👉 [KABOOM?](http://9gag.com/gag/aO8ngg3)<!-- MEMES:END -->
 
 ---
 
