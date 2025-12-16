@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources say Monzo CEO TS Anil, who announced his exit and handover to ex-Googler Diana Layfield in October, was pushed out by the board over an IPO timing clash &lpar;Financial Times&rpar;](http://www.techmeme.com/251216/p2#a251216p2)
- - [Shares in Chinese companies critical to AI infrastructure surged in 2025, with CATL up 45% and Sungrow up 130%, as exports boost margins despite Trump&#39;s tariffs &lpar;William Sandlund/Financial Times&rpar;](http://www.techmeme.com/251216/p1#a251216p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 16, #449](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-16-449/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hoka Coupon Codes: 10% Off | December 2025](https://www.wired.com/story/hoka-coupon-code/)
+ - [60% HP Discount Codes &amp; Coupons December 2025](https://www.wired.com/story/hp-coupon-code/)
+ - [50% Off Chewy Promo Code | December 2025](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
