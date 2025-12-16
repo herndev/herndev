@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Astarion actor Neil Newbon doesn&#39;t get why games like Arc Raiders using &#39;dull as hell&#39; AI for voice work don&#39;t &#39;go back and actually redo the lines with actors&#39; once they make it big](https://www.pcgamer.com/gaming-industry/game-development/astarion-actor-neil-newbon-doesnt-get-why-games-like-arc-raiders-using-dull-as-hell-ai-for-voice-work-dont-go-back-and-actually-redo-the-lines-with-actors-once-they-make-it-big/)
- - [How to complete A Toxic Trail in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-a-toxic-trail-walkthrough/)
- - [All Universal Tower Defense codes for December 2025: Gems and Trait Rerolls](https://www.pcgamer.com/games/roblox/universal-tower-defense-codes/)<!-- GAME:END -->
+ - [Samsung Drops Its microSD Card Below $0.13 per GB for Holidays, the Cheapest Nintendo Switch Storage Upgrade](https://kotaku.com/samsung-drops-its-microsd-card-below-0-13-per-gb-for-holidays-the-cheapest-nintendo-switch-storage-upgrade-2000653790)
+ - [The State Of PlayStation In 2025](https://kotaku.com/playstation-5-2025-ghost-yotei-sales-plus-price-hike-2000653527)
+ - [How to complete Paving the Way in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-paving-the-way-enelica-building/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
