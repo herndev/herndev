@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vote for our Reader’s Choice Award for the best phone of 2025! &lpar;Semi-Finals&rpar;](https://www.androidauthority.com/best-phone-2025-readers-choice-voting-3625005/)
- - [China approves two cars from state-owned automakers with Level 3 autonomous capabilities, the first such approvals; the cars can drive in Chongqing and Beijing &lpar;Reuters&rpar;](http://www.techmeme.com/251216/p5#a251216p5)
- - [I Cooked All of Blue Apron’s Holiday Feast Meal Kits. Here’s What I Loved &lpar;and Didn’t&rpar;](https://www.cnet.com/health/nutrition/blue-apron-holiday-meal-kits-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources and a memo: Amazon plans to cut 370 jobs, or ~8.5% of its 4,370 employees, at its European HQ in Luxembourg, the country&#39;s biggest layoffs in 20 years &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/251216/p9#a251216p9)
+ - [VW plans to end vehicle production at its Dresden plant, which opened in 2001, and convert it into a research hub focused on AI, robotics, and chip design &lpar;Gregory Schmidt/New York Times&rpar;](http://www.techmeme.com/251216/p8#a251216p8)
+ - [Survey shows you’re very keen on this smartphone that doesn’t run Android &lpar;or iOS&rpar;](https://www.androidauthority.com/android-ios-sailfish-phone-poll-results-3624830/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
