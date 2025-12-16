@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - ⏩ [When he realizes..](http://9gag.com/gag/agmpMxn)
- - 👉 [KABOOM?](http://9gag.com/gag/aO8ngg3)<!-- MEMES:END -->
+ - 💣 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
+ - ⏩ [Gg well played](http://9gag.com/gag/awy9qz8)
+ - 👉 [Missing out, on what the world has to offer](http://9gag.com/gag/ayNmOrX)<!-- MEMES:END -->
 
 ---
 
