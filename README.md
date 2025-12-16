@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - ⏩ [Such a nice lady!](http://9gag.com/gag/awy9RR1)
- - 👉 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)<!-- MEMES:END -->
+ - 💣 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
+ - ⏩ [When he realizes..](http://9gag.com/gag/agmpMxn)
+ - 👉 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)<!-- MEMES:END -->
 
 ---
 
