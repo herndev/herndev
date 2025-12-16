@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Run b!tch.. run...! It&#39;s a Trap.!](http://9gag.com/gag/aKGy48g)
- - ⏩ [Ordinary Mongolian Child](http://9gag.com/gag/agmpRx6)
- - 👉 [That kick!](http://9gag.com/gag/amoyq5j)<!-- MEMES:END -->
+ - 💣 [That kick!](http://9gag.com/gag/amoyq5j)
+ - ⏩ [It ain&#39;t much, but it&#39;s a good start](http://9gag.com/gag/azxz7om)
+ - 👉 [Can you build a house for me](http://9gag.com/gag/axyepeK)<!-- MEMES:END -->
 
 ---
 
