@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
- - ⏩ [KABOOM?](http://9gag.com/gag/aO8ngg3)
- - 👉 [How stupid can you be???](http://9gag.com/gag/adBWZqQ)<!-- MEMES:END -->
+ - 💣 [Me trying to quit smoking](http://9gag.com/gag/azxvNBx)
+ - ⏩ [Christian Bale, what a legend](http://9gag.com/gag/amoOEKV)
+ - 👉 [I&#39;ve never seen copper come out the ground like that](http://9gag.com/gag/aO8nX7M)<!-- MEMES:END -->
 
 ---
 
