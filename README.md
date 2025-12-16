@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox December Update: Xbox Mobile App Updates, Bluetooth Low Energy &lpar;LE&rpar; Audio Support, and More](https://news.xbox.com/en-us/2025/12/16/xbox-december-2025-update-mobile-app-updates-audio-support/)
- - [MMO Black Desert is free on Steam for a limited time](https://www.polygon.com/black-desert-mmorpg-free-steam-games/)
- - [Oh God, There Was Once Even More Talking In Metroid Prime 4](https://kotaku.com/metroid-prime-4-npcs-dialogue-cut-content-nintendo-2000653846)<!-- GAME:END -->
+ - [Strange Jigsaws review: the best puzzle game everyone missed in 2025](https://www.polygon.com/strange-jigsaws-best-puzzle-game-hidden-gem-missed/)
+ - [Guided by the Light: The Paladin Joins Diablo IV](https://news.xbox.com/en-us/2025/12/16/diablo-iv-paladin-class-lord-of-hatred/)
+ - [&#39;The Clean Dream&#39; quest walkthrough in Arc Raiders](https://www.polygon.com/arc-raiders-the-clean-dream-quest-walkthrough/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
