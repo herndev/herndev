@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [British girl at train station](http://9gag.com/gag/ae9qXrq)
+ - 💣 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
  - ⏩ [2025 Update](http://9gag.com/gag/ajP3p3G)
- - 👉 [The window has now aids](http://9gag.com/gag/a0eDmbz)<!-- MEMES:END -->
+ - 👉 [KABOOM?](http://9gag.com/gag/aO8ngg3)<!-- MEMES:END -->
 
 ---
 
