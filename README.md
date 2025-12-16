@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3 developer Larian defends itself as fans react to generative AI use: &#39;I&#39;m not entirely sure we are the ideal target for the level of scorn&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3-developer-larian-defends-itself-as-fans-react-to-generative-ai-use-im-not-entirely-sure-we-are-the-ideal-target-for-the-level-of-scorn/)
- - [Larian’s AI Use Has Even Baldur’s Gate 3 Diehards Speaking Out](https://kotaku.com/larian-baldurs-gate-3-divinity-ai-swen-vincke-reaction-2000653934)
- - [Magic: The Gathering Avatar Beginner Box is the perfect gift for new players](https://www.polygon.com/magic-the-gathering-avatar-beginner-box-review/)<!-- GAME:END -->
+ - [All Mega Evolutions and Mega Stone locations in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-mega-evolutions-list-stones-locations/)
+ - [There&#39;s a new Arc Raiders outfit you can only get by playing Embark&#39;s other game, The Finals](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-the-finals-outfit/)
+ - [Steam Replay 2025 is live: I spent half my gaming time this year in Bongo Cat, and I regret nothing](https://www.pcgamer.com/games/steam-replay-2025-is-live-i-spent-half-my-gaming-time-this-year-in-bongo-cat-and-i-regret-nothing/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
