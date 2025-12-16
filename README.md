@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering Avatar Beginner Box is the perfect gift for new players](https://www.polygon.com/magic-the-gathering-avatar-beginner-box-review/)
- - [Get a head start on Fallout Season 2: the new Fallout Shelter update adds The Ghoul, Lucy, and Maximus in a Vault under New Vegas](https://www.pcgamer.com/games/fallout/get-a-head-start-on-fallout-season-2-the-new-fallout-shelter-update-adds-the-ghoul-lucy-and-maximus-in-a-vault-under-new-vegas/)
- - [Dead Island 3 is aiming for release in 2028, which means it&#39;ll take 7 years less to make than Dead Island 2](https://www.pcgamer.com/games/action/dead-island-3-is-aiming-for-release-in-2028-which-means-itll-take-7-years-less-to-make-than-dead-island-2/)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 developer Larian defends itself as fans react to generative AI use: &#39;I&#39;m not entirely sure we are the ideal target for the level of scorn&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3-developer-larian-defends-itself-as-fans-react-to-generative-ai-use-im-not-entirely-sure-we-are-the-ideal-target-for-the-level-of-scorn/)
+ - [Larian’s AI Use Has Even Baldur’s Gate 3 Diehards Speaking Out](https://kotaku.com/larian-baldurs-gate-3-divinity-ai-swen-vincke-reaction-2000653934)
+ - [Magic: The Gathering Avatar Beginner Box is the perfect gift for new players](https://www.polygon.com/magic-the-gathering-avatar-beginner-box-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
