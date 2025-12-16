@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon partners with payments startup Slope to offer loans of up to $5M to merchants selling on its platform, using Amazon sales data for candidate selection &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251216/p31#a251216p31)
- - [Google is adding granular Wi-Fi controls for shared Android devices](https://www.androidauthority.com/android-stop-sharing-wifi-networks-3625730/)
- - [Grindr Goes ‘AI-First’ as It Strives to Be an ‘Everything App for the Gay Guy’](https://www.wired.com/story/grindr-ai-first-era-everything-app-for-the-gay-guy/)<!-- TECH:END -->
+ - [DJI Power 2000 Power Station drops back to Black Friday prices](https://www.androidauthority.com/dji-power-2000-power-station-deal-3625652/)
+ - [Hong Kong-based RedotPay, a fintech focused on stablecoin-based payments, raised a $107M Series B led by Goodwater Capital, bringing its total raised to ~$200M &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/251216/p32#a251216p32)
+ - [The Best Streaming Bundles and Streaming Deals of December 2025](https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
