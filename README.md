@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bose QuietComfort Ultra Drops to New All-Time Low, Now Cheaper Than Basic QuietComfort Model​](https://kotaku.com/bose-quietcomfort-ultra-drops-to-new-all-time-low-now-cheaper-than-basic-quietcomfort-model-2000653515)
- - [Surprise! Hollow Knight: Silksong&#39;s getting an expansion promising &#39;new areas, bosses, tools, and more&#39; next year](https://www.pcgamer.com/games/action/surprise-hollow-knight-silksongs-getting-an-expansion-promising-new-areas-bosses-tools-and-more-next-year/)
- - [Sonos Era 100 Bluetooth and WiFi Speaker Drops to Record Low Price, Amazon Offloads Last Units Before Christmas](https://kotaku.com/sonos-era-100-bluetooth-and-wifi-speaker-drops-to-record-low-price-amazon-offloads-last-units-before-christmas-2000653537)<!-- GAME:END -->
+ - [Silksong has sold more than 7 million copies in 3 months—and no, that&#39;s not counting Game Pass](https://www.pcgamer.com/games/action/silksong-has-sold-more-than-7-million-copies-in-3-months-and-no-thats-not-counting-game-pass/)
+ - [Hollow Knight: Silksong DLC is coming in 2026](https://www.polygon.com/hollow-knight-silksong-free-dlc-sea-of-sorrow-expansion/)
+ - [Bose QuietComfort Ultra Drops to New All-Time Low, Now Cheaper Than Basic QuietComfort Model​](https://kotaku.com/bose-quietcomfort-ultra-drops-to-new-all-time-low-now-cheaper-than-basic-quietcomfort-model-2000653515)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
