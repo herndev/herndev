@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&amp;#8217;s Kindle Scribe Colorsoft won&amp;#8217;t replace your notebook — or your Kindle](https://www.theverge.com/tech/844673/amazon-kindle-scribe-colorsoft-review-ereader-eink-tablet)
- - [Apple spent $1.1 billion on more California office space in 2025](https://appleinsider.com/articles/25/12/16/apple-spent-11-billion-on-more-california-office-space-in-2025?utm_source=rss)
- - [iPhone will do pretty well in 2026, as RAM prices hammer the smartphone industry](https://appleinsider.com/articles/25/12/16/iphone-will-do-pretty-well-in-2026-as-ram-prices-hammer-the-smartphone-industry?utm_source=rss)<!-- TECH:END -->
+ - [Instagram is putting Reels on your TV](https://www.theverge.com/news/845124/instagram-reels-tv-app)
+ - [Grab Apple&#39;s iPad 11 for $279, with delivery as soon as today](https://appleinsider.com/articles/25/12/16/grab-apples-ipad-11-for-279-with-delivery-as-soon-as-today?utm_source=rss)
+ - [Texas is suing all of the big TV makers for spying on what you watch](https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
