@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI Power 2000 Power Station drops back to Black Friday prices](https://www.androidauthority.com/dji-power-2000-power-station-deal-3625652/)
- - [Hong Kong-based RedotPay, a fintech focused on stablecoin-based payments, raised a $107M Series B led by Goodwater Capital, bringing its total raised to ~$200M &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/251216/p32#a251216p32)
- - [The Best Streaming Bundles and Streaming Deals of December 2025](https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/)<!-- TECH:END -->
+ - [App developers escalate EU fight over Apple&#39;s App Store fees](https://appleinsider.com/articles/25/12/16/app-developers-escalate-eu-fight-over-apples-app-store-fees?utm_source=rss)
+ - [Perplexity updates its iPad app to improve multitasking and focus on research tools, part of a push to add business customers, after launching Comet on Android &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251216/p34#a251216p34)
+ - [A vague study on Nazi bots created chaos in the Taylor Swift fan universe](https://www.theverge.com/report/845725/taylor-swift-gudea-report-rolling-stone-social-media-discourse-bots)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
