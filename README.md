@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google wants its AI assistant CC to replace your morning scroll](https://www.theverge.com/news/845280/google-cc-morning-briefing-gemini-ai-agent)
- - [What 1,000 pages of documents tell us about DOGE](https://www.theverge.com/policy/845063/fcc-doge-foia-brendan-carr-senate-hearing)
- - [Event software company Cvent acquires video content platform Goldcast; source: Cvent paid just under $300M to acquire Goldcast, which had raised around $38M &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251216/p23#a251216p23)<!-- TECH:END -->
+ - [Samsung’s next camera innovation could be a Galaxy S9 throwback](https://www.androidauthority.com/samsung-variable-aperture-rumor-3625696/)
+ - [Google launches CC, an experimental AI assistant that delivers a personalized daily &quot;Your Day Ahead&quot; briefing email based on users&#39; emails and calendar &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251216/p29#a251216p29)
+ - [Deal: This super thin power strip is only $16.13 right now!](https://www.androidauthority.com/hopow-power-strip-surge-protector-deal-3625653/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
