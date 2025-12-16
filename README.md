@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moto G Power 2026 lands with a beefier battery for your budget buck](https://www.androidauthority.com/moto-g-power-2026-announced-3625545/)
- - [Avatar: Fire and Ash is a gorgeous spectacle of titanic proportions](https://www.theverge.com/entertainment/844731/avatar-fire-and-ash-review)
- - [Fallout’s goofy apocalypse gets serious in season 2](https://www.theverge.com/entertainment/844926/fallout-season-2-review-amazon-prime-video)<!-- TECH:END -->
+ - [Amazon&amp;#8217;s Kindle Scribe Colorsoft won&amp;#8217;t replace your notebook — or your Kindle](https://www.theverge.com/tech/844673/amazon-kindle-scribe-colorsoft-review-ereader-eink-tablet)
+ - [Apple spent $1.1 billion on more California office space in 2025](https://appleinsider.com/articles/25/12/16/apple-spent-11-billion-on-more-california-office-space-in-2025?utm_source=rss)
+ - [iPhone will do pretty well in 2026, as RAM prices hammer the smartphone industry](https://appleinsider.com/articles/25/12/16/iphone-will-do-pretty-well-in-2026-as-ram-prices-hammer-the-smartphone-industry?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
