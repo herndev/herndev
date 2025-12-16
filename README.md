@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Mega Evolutions and Mega Stone locations in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-mega-evolutions-list-stones-locations/)
- - [There&#39;s a new Arc Raiders outfit you can only get by playing Embark&#39;s other game, The Finals](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-the-finals-outfit/)
- - [Steam Replay 2025 is live: I spent half my gaming time this year in Bongo Cat, and I regret nothing](https://www.pcgamer.com/games/steam-replay-2025-is-live-i-spent-half-my-gaming-time-this-year-in-bongo-cat-and-i-regret-nothing/)<!-- GAME:END -->
+ - [Anker SOLIX C1000 at Record Low for Christmas on Amazon, Charge 10 Devices With 2,000W Output at Once](https://kotaku.com/anker-solix-c1000-at-record-low-for-christmas-on-amazon-charge-10-devices-with-2000w-output-at-once-2000653967)
+ - [BG3 studio Larian is using AI to make Divinity, but there&#39;s nuance CEO says](https://www.polygon.com/divinity-larian-studios-generative-ai-swen-vincke/)
+ - [The Elder Scrolls 6 is &#39;progressing very well,&#39; Todd Howard says: Everyone wishes it could go faster, but &#39;it’s a process that we want to get right&#39;](https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-progressing-very-well-todd-howard-says-everyone-wishes-it-could-go-faster-but-its-a-process-that-we-want-to-get-right/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
