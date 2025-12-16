@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coaches got some moves too](http://9gag.com/gag/aryDPdp)
- - ⏩ [Ordinary Mongolian Child](http://9gag.com/gag/agmpRx6)
- - 👉 [That kick!](http://9gag.com/gag/amoyq5j)<!-- MEMES:END -->
+ - 💣 [This is bait](http://9gag.com/gag/a5Q9mZV)
+ - ⏩ [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
+ - 👉 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)<!-- MEMES:END -->
 
 ---
 
