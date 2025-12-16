@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [2026 is already shaping up to be a bad year to buy a new smartphone](https://www.androidauthority.com/smartphone-forecast-2026-counterpoint-research-3625489/)
  - [This laptop is powered by your Samsung phone, and it just got a big upgrade](https://www.androidauthority.com/nexdock-sixth-generation-samsung-dex-3625481/)
- - [How the rise of AI has divided Hollywood, as some oppose the use of the technology while others say they are exploring ways to utilize AI tools &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/251216/p3#a251216p3)
- - [Hoka Coupon Codes: 10% Off | December 2025](https://www.wired.com/story/hoka-coupon-code/)<!-- TECH:END -->
+ - [How the rise of AI has divided Hollywood, as some oppose the use of the technology while others say they are exploring ways to utilize AI tools &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/251216/p3#a251216p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
