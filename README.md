@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold and more: Apple could release seven iPhone models per year by 2027](https://appleinsider.com/articles/25/12/16/iphone-fold-and-more-apple-could-release-seven-iphone-models-per-year-by-2027?utm_source=rss)
- - [A look at Apple&#39;s iPhone roadmap; sources say the iPhone 18 Pro lineup will get under-screen Face ID, and the front camera will move to the top-left corner &lpar;The Information&rpar;](http://www.techmeme.com/251216/p20#a251216p20)
- - [Act quickly: Get a $100 Uber eGift Card for $85](https://www.androidauthority.com/uber-egift-card-deal-3624981/)<!-- TECH:END -->
+ - [Google wants its AI assistant CC to replace your morning scroll](https://www.theverge.com/news/845280/google-cc-morning-briefing-gemini-ai-agent)
+ - [What 1,000 pages of documents tell us about DOGE](https://www.theverge.com/policy/845063/fcc-doge-foia-brendan-carr-senate-hearing)
+ - [Event software company Cvent acquires video content platform Goldcast; source: Cvent paid just under $300M to acquire Goldcast, which had raised around $38M &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251216/p23#a251216p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
