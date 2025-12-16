@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources and a memo: Amazon plans to cut 370 jobs, or ~8.5% of its 4,370 employees, at its European HQ in Luxembourg, the country&#39;s biggest layoffs in 20 years &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/251216/p9#a251216p9)
- - [VW plans to end vehicle production at its Dresden plant, which opened in 2001, and convert it into a research hub focused on AI, robotics, and chip design &lpar;Gregory Schmidt/New York Times&rpar;](http://www.techmeme.com/251216/p8#a251216p8)
- - [Survey shows you’re very keen on this smartphone that doesn’t run Android &lpar;or iOS&rpar;](https://www.androidauthority.com/android-ios-sailfish-phone-poll-results-3624830/)<!-- TECH:END -->
+ - [15 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
+ - [iPad mini 8 rumored to use the iPhone 18 A20 Pro chip](https://appleinsider.com/articles/25/12/16/ipad-mini-8-now-believed-to-use-the-iphone-18-a20-pro-chip?utm_source=rss)
+ - [Visa says it will allow US banks to settle transactions using Circle&#39;s USDC stablecoin over Solana, the US&#39; first full deployment of a stablecoin settlement &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251216/p11#a251216p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
