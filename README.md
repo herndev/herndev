@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [App developers escalate EU fight over Apple&#39;s App Store fees](https://appleinsider.com/articles/25/12/16/app-developers-escalate-eu-fight-over-apples-app-store-fees?utm_source=rss)
- - [Perplexity updates its iPad app to improve multitasking and focus on research tools, part of a push to add business customers, after launching Comet on Android &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251216/p34#a251216p34)
- - [A vague study on Nazi bots created chaos in the Taylor Swift fan universe](https://www.theverge.com/report/845725/taylor-swift-gudea-report-rolling-stone-social-media-discourse-bots)<!-- TECH:END -->
+ - [Samsung’s 2026 Micro RGB LED TVs can actually fit in your living room](https://www.theverge.com/news/845760/samsung-micro-rgb-led-ces-2026)
+ - [Sources: Waymo is in discussions to raise more than $15B at a valuation near $100B, in a round led by Alphabet; an October 2024 round valued Waymo at above $45B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251216/p35#a251216p35)
+ - [‘Twitter never left:’ X sues Operation Bluebird for trademark infringement](https://www.theverge.com/news/845882/x-corp-operation-bluebird-twitter-lawsuit-trademark-infringement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
