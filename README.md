@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel announces Alias: Red Band, a new miniseries starring Jessica Jones](https://www.polygon.com/jessica-jones-alias-red-band-marvel-comics-exclusive-announcement/)
- - [Larian Studios Leaning Into Generative AI Despite Internal Pushback: ‘Everyone At The Company Is More Or Less OK With The Way We’re Using It’](https://kotaku.com/larian-studios-gen-ai-divinity-bg3-2000653850)
- - [Amazon Clears Out a Ryzen 7 Mini PC at a Record Low as a Mac Mini Alternative and Windows Backup](https://kotaku.com/amazon-clears-out-a-ryzen-7-mini-pc-at-a-record-low-as-a-mac-mini-alternative-and-windows-backup-2000653574)<!-- GAME:END -->
+ - [Xbox December Update: Xbox Mobile App Updates, Bluetooth Low Energy &lpar;LE&rpar; Audio Support, and More](https://news.xbox.com/en-us/2025/12/16/xbox-december-2025-update-mobile-app-updates-audio-support/)
+ - [MMO Black Desert is free on Steam for a limited time](https://www.polygon.com/black-desert-mmorpg-free-steam-games/)
+ - [Oh God, There Was Once Even More Talking In Metroid Prime 4](https://kotaku.com/metroid-prime-4-npcs-dialogue-cut-content-nintendo-2000653846)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
