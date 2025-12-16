@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dell i7 1TB Laptop Rated 5/5 Stars Drops 73% Off on Amazon, Crashes to All-Time Low With $200 Bonus Pack](https://kotaku.com/dell-i7-1tb-laptop-rated-5-5-stars-drops-73-off-on-amazon-crashes-to-all-time-low-with-200-bonus-pack-2000653526)
- - [Amazon Hits Mini PCs Hard, Apple’s Newest Mac Mini at Record Low Price Makes Mid-Range Options Obsolete](https://kotaku.com/amazon-hits-mini-pcs-hard-apples-newest-mac-mini-at-record-low-price-makes-mid-range-options-obsolete-2000653505)
- - [Lords Of The Fallen 2 Dev Promises Sexy Women But Fans Just Want Better Soulslike Gameplay](https://kotaku.com/lords-fallen-2-trailer-free-update-coop-soulslike-2000653471)<!-- GAME:END -->
+ - [Bose QuietComfort Ultra Drops to New All-Time Low, Now Cheaper Than Basic QuietComfort Model​](https://kotaku.com/bose-quietcomfort-ultra-drops-to-new-all-time-low-now-cheaper-than-basic-quietcomfort-model-2000653515)
+ - [Surprise! Hollow Knight: Silksong&#39;s getting an expansion promising &#39;new areas, bosses, tools, and more&#39; next year](https://www.pcgamer.com/games/action/surprise-hollow-knight-silksongs-getting-an-expansion-promising-new-areas-bosses-tools-and-more-next-year/)
+ - [Sonos Era 100 Bluetooth and WiFi Speaker Drops to Record Low Price, Amazon Offloads Last Units Before Christmas](https://kotaku.com/sonos-era-100-bluetooth-and-wifi-speaker-drops-to-record-low-price-amazon-offloads-last-units-before-christmas-2000653537)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
