@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Strange Jigsaws review: the best puzzle game everyone missed in 2025](https://www.polygon.com/strange-jigsaws-best-puzzle-game-hidden-gem-missed/)
- - [Guided by the Light: The Paladin Joins Diablo IV](https://news.xbox.com/en-us/2025/12/16/diablo-iv-paladin-class-lord-of-hatred/)
- - [&#39;The Clean Dream&#39; quest walkthrough in Arc Raiders](https://www.polygon.com/arc-raiders-the-clean-dream-quest-walkthrough/)<!-- GAME:END -->
+ - [Official Xbox Podcast | Final Fantasy VII Remake Intergrade with Naoki Hamaguchi](https://www.youtube.com/watch?v=UhtAGtC-hds#new_tab)
+ - [How to catch Zeraora in Pokémon Legends: Z-A — Mega Dimension](https://www.polygon.com/pokemon-legends-za-plza-zeraora-plasma-glazed-donut-unlock-mission-requirements/)
+ - [Best Druid leveling build in Path of Exile 2](https://www.polygon.com/path-of-exile-2-poe2-leveling-wolf-druid/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
