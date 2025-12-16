@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
- - ⏩ [2025 Update](http://9gag.com/gag/ajP3p3G)
- - 👉 [KABOOM?](http://9gag.com/gag/aO8ngg3)<!-- MEMES:END -->
+ - 💣 [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
+ - ⏩ [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
+ - 👉 [Such a nice lady!](http://9gag.com/gag/awy9RR1)<!-- MEMES:END -->
 
 ---
 
