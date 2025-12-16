@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That kick!](http://9gag.com/gag/amoyq5j)
- - ⏩ [It ain&#39;t much, but it&#39;s a good start](http://9gag.com/gag/azxz7om)
- - 👉 [Can you build a house for me](http://9gag.com/gag/axyepeK)<!-- MEMES:END -->
+ - 💣 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
+ - ⏩ [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
+ - 👉 [Boooom head shot](http://9gag.com/gag/awyDNGD)<!-- MEMES:END -->
 
 ---
 
