@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung Drops Its microSD Card Below $0.13 per GB for Holidays, the Cheapest Nintendo Switch Storage Upgrade](https://kotaku.com/samsung-drops-its-microsd-card-below-0-13-per-gb-for-holidays-the-cheapest-nintendo-switch-storage-upgrade-2000653790)
- - [The State Of PlayStation In 2025](https://kotaku.com/playstation-5-2025-ghost-yotei-sales-plus-price-hike-2000653527)
- - [How to complete Paving the Way in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-paving-the-way-enelica-building/)<!-- GAME:END -->
+ - [Marvel announces Alias: Red Band, a new miniseries starring Jessica Jones](https://www.polygon.com/jessica-jones-alias-red-band-marvel-comics-exclusive-announcement/)
+ - [Larian Studios Leaning Into Generative AI Despite Internal Pushback: ‘Everyone At The Company Is More Or Less OK With The Way We’re Using It’](https://kotaku.com/larian-studios-gen-ai-divinity-bg3-2000653850)
+ - [Amazon Clears Out a Ryzen 7 Mini PC at a Record Low as a Mac Mini Alternative and Windows Backup](https://kotaku.com/amazon-clears-out-a-ryzen-7-mini-pc-at-a-record-low-as-a-mac-mini-alternative-and-windows-backup-2000653574)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
