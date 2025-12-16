@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I still like big smoke tho](http://9gag.com/gag/a87vrje)
- - ⏩ [Wish they all could speak English like this](http://9gag.com/gag/aAyLovo)
- - 👉 [Shake hands with yourself](http://9gag.com/gag/abALPdL)<!-- MEMES:END -->
+ - 💣 [Coaches got some moves too](http://9gag.com/gag/aryDPdp)
+ - ⏩ [Ordinary Mongolian Child](http://9gag.com/gag/agmpRx6)
+ - 👉 [That kick!](http://9gag.com/gag/amoyq5j)<!-- MEMES:END -->
 
 ---
 
