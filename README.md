@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [KABOOM?](http://9gag.com/gag/aO8ngg3)
- - ⏩ [This was a washing machine feature](http://9gag.com/gag/a7omQ2e)
- - 👉 [When he realizes..](http://9gag.com/gag/agmpMxn)<!-- MEMES:END -->
+ - 💣 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
+ - ⏩ [Useful protection gear demonstrated by the CEO](http://9gag.com/gag/aPAV5NQ)
+ - 👉 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)<!-- MEMES:END -->
 
 ---
 
