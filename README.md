@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
- - ⏩ [Gg well played](http://9gag.com/gag/awy9qz8)
- - 👉 [Missing out, on what the world has to offer](http://9gag.com/gag/ayNmOrX)<!-- MEMES:END -->
+ - 💣 [Classic british](http://9gag.com/gag/aBybq1N)
+ - ⏩ [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
+ - 👉 [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)<!-- MEMES:END -->
 
 ---
 
