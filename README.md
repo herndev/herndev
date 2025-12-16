@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silksong has sold more than 7 million copies in 3 months—and no, that&#39;s not counting Game Pass](https://www.pcgamer.com/games/action/silksong-has-sold-more-than-7-million-copies-in-3-months-and-no-thats-not-counting-game-pass/)
- - [Hollow Knight: Silksong DLC is coming in 2026](https://www.polygon.com/hollow-knight-silksong-free-dlc-sea-of-sorrow-expansion/)
- - [Bose QuietComfort Ultra Drops to New All-Time Low, Now Cheaper Than Basic QuietComfort Model​](https://kotaku.com/bose-quietcomfort-ultra-drops-to-new-all-time-low-now-cheaper-than-basic-quietcomfort-model-2000653515)<!-- GAME:END -->
+ - [Kim Kardashian joins Fortnite with a skin so good it might break the internet](https://www.polygon.com/fortnite-kim-kardashian-icon-skins-chapter-7/)
+ - [Anthropic reveals that as few as &#39;250 malicious documents&#39; are all it takes to poison an LLM&#39;s training data, regardless of model size](https://www.pcgamer.com/software/ai/anthropic-reveals-that-as-few-as-250-malicious-documents-are-all-it-takes-to-poison-an-llms-training-data-regardless-of-model-size/)
+ - [Silksong has sold more than 7 million copies in 3 months—and no, that&#39;s not counting Game Pass](https://www.pcgamer.com/games/action/silksong-has-sold-more-than-7-million-copies-in-3-months-and-no-thats-not-counting-game-pass/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
