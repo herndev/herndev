@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official Xbox Podcast | Final Fantasy VII Remake Intergrade with Naoki Hamaguchi](https://www.youtube.com/watch?v=UhtAGtC-hds#new_tab)
- - [How to catch Zeraora in Pokémon Legends: Z-A — Mega Dimension](https://www.polygon.com/pokemon-legends-za-plza-zeraora-plasma-glazed-donut-unlock-mission-requirements/)
- - [Best Druid leveling build in Path of Exile 2](https://www.polygon.com/path-of-exile-2-poe2-leveling-wolf-druid/)<!-- GAME:END -->
+ - [Magic: The Gathering Avatar Beginner Box is the perfect gift for new players](https://www.polygon.com/magic-the-gathering-avatar-beginner-box-review/)
+ - [Get a head start on Fallout Season 2: the new Fallout Shelter update adds The Ghoul, Lucy, and Maximus in a Vault under New Vegas](https://www.pcgamer.com/games/fallout/get-a-head-start-on-fallout-season-2-the-new-fallout-shelter-update-adds-the-ghoul-lucy-and-maximus-in-a-vault-under-new-vegas/)
+ - [Dead Island 3 is aiming for release in 2028, which means it&#39;ll take 7 years less to make than Dead Island 2](https://www.pcgamer.com/games/action/dead-island-3-is-aiming-for-release-in-2028-which-means-itll-take-7-years-less-to-make-than-dead-island-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
