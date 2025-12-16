@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When he realizes..](http://9gag.com/gag/agmpMxn)
- - ⏩ [Such a nice lady!](http://9gag.com/gag/awy9RR1)
- - 👉 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)<!-- MEMES:END -->
+ - 💣 [I still like big smoke tho](http://9gag.com/gag/a87vrje)
+ - ⏩ [Wish they all could speak English like this](http://9gag.com/gag/aAyLovo)
+ - 👉 [Shake hands with yourself](http://9gag.com/gag/abALPdL)<!-- MEMES:END -->
 
 ---
 
