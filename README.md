@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s next camera innovation could be a Galaxy S9 throwback](https://www.androidauthority.com/samsung-variable-aperture-rumor-3625696/)
- - [Google launches CC, an experimental AI assistant that delivers a personalized daily &quot;Your Day Ahead&quot; briefing email based on users&#39; emails and calendar &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251216/p29#a251216p29)
- - [Deal: This super thin power strip is only $16.13 right now!](https://www.androidauthority.com/hopow-power-strip-surge-protector-deal-3625653/)<!-- TECH:END -->
+ - [Amazon partners with payments startup Slope to offer loans of up to $5M to merchants selling on its platform, using Amazon sales data for candidate selection &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251216/p31#a251216p31)
+ - [Google is adding granular Wi-Fi controls for shared Android devices](https://www.androidauthority.com/android-stop-sharing-wifi-networks-3625730/)
+ - [Grindr Goes ‘AI-First’ as It Strives to Be an ‘Everything App for the Gay Guy’](https://www.wired.com/story/grindr-ai-first-era-everything-app-for-the-gay-guy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
