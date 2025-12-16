@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
- - [PayPal says it has filed applications to establish PayPal Bank to provide loans more efficiently to US small businesses and reduce its reliance on third parties &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/251215/p40#a251215p40)<!-- TECH:END -->
+ - [Sources: the US has paused a tech trade deal with the UK, signed in September, over disagreements about the UK&#39;s digital regulations and food safety rules &lpar;New York Times&rpar;](http://www.techmeme.com/251215/p43#a251215p43)
+ - [Silksong is getting a free expansion next year](https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2)
+ - [Allen Institute for AI launches Bolmo 7B and Bolmo 1B, claiming they are &quot;the first fully open byte-level language models&quot;, built on its Olmo 3 models &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/251215/p42#a251215p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
