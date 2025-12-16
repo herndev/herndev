@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kim Kardashian joins Fortnite with a skin so good it might break the internet](https://www.polygon.com/fortnite-kim-kardashian-icon-skins-chapter-7/)
- - [Anthropic reveals that as few as &#39;250 malicious documents&#39; are all it takes to poison an LLM&#39;s training data, regardless of model size](https://www.pcgamer.com/software/ai/anthropic-reveals-that-as-few-as-250-malicious-documents-are-all-it-takes-to-poison-an-llms-training-data-regardless-of-model-size/)
- - [Silksong has sold more than 7 million copies in 3 months—and no, that&#39;s not counting Game Pass](https://www.pcgamer.com/games/action/silksong-has-sold-more-than-7-million-copies-in-3-months-and-no-thats-not-counting-game-pass/)<!-- GAME:END -->
+ - [Astarion actor Neil Newbon doesn&#39;t get why games like Arc Raiders using &#39;dull as hell&#39; AI for voice work don&#39;t &#39;go back and actually redo the lines with actors&#39; once they make it big](https://www.pcgamer.com/gaming-industry/game-development/astarion-actor-neil-newbon-doesnt-get-why-games-like-arc-raiders-using-dull-as-hell-ai-for-voice-work-dont-go-back-and-actually-redo-the-lines-with-actors-once-they-make-it-big/)
+ - [How to complete A Toxic Trail in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-a-toxic-trail-walkthrough/)
+ - [All Universal Tower Defense codes for December 2025: Gems and Trait Rerolls](https://www.pcgamer.com/games/roblox/universal-tower-defense-codes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
