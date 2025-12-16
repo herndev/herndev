@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Watching this sand art is so satisfying](http://9gag.com/gag/ae9qLRB)
- - ⏩ [The window has now aids](http://9gag.com/gag/a0eDmbz)
- - 👉 [Such a nice lady!](http://9gag.com/gag/awy9RR1)<!-- MEMES:END -->
+ - 💣 [British girl at train station](http://9gag.com/gag/ae9qXrq)
+ - ⏩ [2025 Update](http://9gag.com/gag/ajP3p3G)
+ - 👉 [The window has now aids](http://9gag.com/gag/a0eDmbz)<!-- MEMES:END -->
 
 ---
 
