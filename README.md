@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to evolve Inkay in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-inkay-evolve-malamar-how-to/)
- - [Why you need to watch The Shining before It: Welcome to Derry](https://www.polygon.com/it-welcome-derry-stephen-king-movie-the-shining/)
- - [You can play Call of Duty: Black Ops 7 for free for a limited time](https://www.polygon.com/call-of-duty-black-ops-7-multiplayer-zombies-free-to-play-steam/)<!-- GAME:END -->
+ - [Pokécology, the Pokémon ecology book, is getting localized in North America](https://www.polygon.com/pokecology-pokemon-ecology-book-release-date-english-pre-order/)
+ - [‘Godfather Of BioWare Design’ Steps Down At The Studio Making An Ambitious Successor To Mass Effect](https://kotaku.com/exodus-rpg-bioware-james-ohlen-wizards-hasbro-2000654313)
+ - [Here Are 10 Great RPGs You Can Add To Your Collection For Surprisingly Cheap](https://kotaku.com/rpg-sale-cheap-ff12-kingdom-come-2-ps5-switch-2000653958)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
