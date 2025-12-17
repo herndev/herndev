@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Feds say US big tech is targeted by unfair regulations overseas](https://appleinsider.com/articles/25/12/16/feds-say-us-big-tech-is-being-targed-by-unfair-regulations-overseas?utm_source=rss)
- - [Source: Tencent tells staff that Yao Shunyu, an ex-OpenAI researcher who joined in September, is now its chief AI scientist, reporting to President Martin Lau &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/251217/p20#a251217p20)
- - [Tesla misled customers about self-driving features, judge rules](https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv)<!-- TECH:END -->
+ - [17 Best Stocking Stuffers &lpar;2025&rpar;: Unique and Unconventional](https://www.wired.com/gallery/best-stocking-stuffers/)
+ - [In 2025, wearables made a hard pivot to AI](https://www.theverge.com/gadgets/838876/2025-ai-wearables-smart-glasses-pendants-fitness)
+ - [Not just electronics - Food packaging &amp; medical firms are getting on-site help from Apple](https://appleinsider.com/articles/25/12/17/not-just-electronics---food-packaging-medical-firms-are-getting-on-site-help-from-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
