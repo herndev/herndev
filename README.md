@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s AGI team lead Rohit Prasad is leaving at the end of 2025; AWS SVP Peter DeSantis will lead a group combining AI, silicon, and quantum computing teams &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251217/p39#a251217p39)
- - [The Oscars are moving from ABC to YouTube -- in 2029](https://appleinsider.com/articles/25/12/17/the-oscars-are-moving-from-abc-to-youtube----in-2029?utm_source=rss)
- - [Sharing audio on a Google Meet call just got a lot easier](https://www.androidauthority.com/google-meet-device-audio-sharing-3626112/)<!-- TECH:END -->
+ - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
+ - [In a proposed settlement, the US FTC says crypto bridge Nomad must repay victims of a 2022 cyberattack that led to $186M worth of funds being stolen &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/251217/p40#a251217p40)
+ - [Deal: The Yaber L2s projector is too awesome for just $101.98!](https://www.androidauthority.com/yaber-projector-l2s-home-cinema-deal-2-3626137/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
