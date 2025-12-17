@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete Groundbreaking in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-groundbreaking-walkthrough/)
- - [Terminator: Survivors delayed indefinitely, axes multiplayer](https://www.polygon.com/terminator-survivors-delay-multiplayer-cancelled-announcement/)
- - [How to Ensure a Fun, Safe and Welcoming Gaming Experience for Your Kids on Xbox This Holiday Season](https://news.xbox.com/en-us/2025/12/17/xbox-family-settings-holiday-2025/)<!-- GAME:END -->
+ - [How to complete Deciphering the Data in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-deciphering-the-data/)
+ - [ASUS Extends GPU Clearance as RTX 5070 at All-Time Low Price Sell Out Faster Than Expected](https://kotaku.com/asus-extends-gpu-clearance-as-rtx-5070-at-all-time-low-price-sell-out-faster-than-expected-2000653926)
+ - [Rob Reiner unlocked Stephen King’s humanity — and his own career — in Stand By Me](https://www.polygon.com/rob-reiner-stand-by-me-stephen-king/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
