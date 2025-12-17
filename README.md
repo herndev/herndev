@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring Nightreign&#39;s Scholar class gets even better in big new update](https://www.polygon.com/elden-ring-nightreign-scholar-103-patch-notes-update-class-changes/)
- - [When does Winterfest 2025 start in Fortnite?](https://www.polygon.com/fortnite-winterfest-2025-start-release-time-pst-est/)
- - [The Best RPGs of 2025](https://kotaku.com/best-rpgs-2025-clair-obscur-avowed-assassins-creed-2000654194)<!-- GAME:END -->
+ - [Invincible VS: Extended Look at Brand-New Character, Ella Mental](https://news.xbox.com/en-us/2025/12/17/invincible-vs-ella-mental/)
+ - [Clair Obscur’s Free DLC Is Curb Stomping Even Its Best Players](https://kotaku.com/clair-obscur-dlc-free-update-boss-fights-endless-tower-2000654227)
+ - [Meta puts third-party VR headsets using Horizon OS on indefinite pause &#39;to focus on building the world-class first-party hardware and software needed to advance the VR market&#39;](https://www.pcgamer.com/hardware/vr-hardware/meta-puts-third-party-vr-headsets-using-horizon-os-on-indefinite-pause-to-focus-on-building-the-world-class-first-party-hardware-and-software-needed-to-advance-the-vr-market/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
