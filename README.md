@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
- - ⏩ [Failed hard](http://9gag.com/gag/aNDGyp3)
- - 👉 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)<!-- MEMES:END -->
+ - 💣 [Damn, that&#39;s interesting](http://9gag.com/gag/aGyqY07)
+ - ⏩ [This is how women dress whenever they want to be just friends](http://9gag.com/gag/aVv8j9M)
+ - 👉 [Failed hard](http://9gag.com/gag/aNDGyp3)<!-- MEMES:END -->
 
 ---
 
