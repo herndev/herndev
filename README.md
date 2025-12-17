@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A location shown in Fallout Season 2 Episode 1 got me pointing at the screen like Leo—and it has nothing to do with New Vegas](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-1-locations/)
- - [Every Fallout season 2 Easter egg so far](https://www.polygon.com/fallout-season-2-easter-egg-show/)
- - [Fallout Season 2 Episode 1 recap: &#39;The world may end, but progress marches on&#39;](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-1-recap-the-world-may-end-but-progress-marches-on/)<!-- GAME:END -->
+ - [Terminator: Survivors delayed indefinitely, axes multiplayer](https://www.polygon.com/terminator-survivors-delay-multiplayer-cancelled-announcement/)
+ - [How to Ensure a Fun, Safe and Welcoming Gaming Experience for Your Kids on Xbox This Holiday Season](https://news.xbox.com/en-us/2025/12/17/xbox-family-settings-holiday-2025/)
+ - [A location shown in Fallout Season 2 Episode 1 got me pointing at the screen like Leo—and it has nothing to do with New Vegas](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-1-locations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
