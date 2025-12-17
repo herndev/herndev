@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Amazon is in talks to invest $10B+ in OpenAI at a $500B+ valuation, with OpenAI using AWS Trainium chips; Microsoft keeps rights to sell OpenAI models &lpar;The Information&rpar;](http://www.techmeme.com/251216/p40#a251216p40)
  - [Apple has made it much easier to replace the battery in a 14-inch MacBook Pro](https://appleinsider.com/articles/25/12/17/apple-has-made-it-much-easier-to-replace-the-battery-in-a-14-inch-macbook-pro?utm_source=rss)
- - [Sources: Apple is in preliminary talks with India&#39;s CG Semi, which offers chip assembly and testing services, to assemble and package chips for the iPhone &lpar;Dia Rekhi/The Economic Times&rpar;](http://www.techmeme.com/251216/p39#a251216p39)
- - [Even Trump’s chief of staff was ‘aghast’ at Elon Musk’s deadly USAID cuts](https://www.theverge.com/policy/846054/elon-musk-susie-wiles-doge-usaid)<!-- TECH:END -->
+ - [Sources: Apple is in preliminary talks with India&#39;s CG Semi, which offers chip assembly and testing services, to assemble and package chips for the iPhone &lpar;Dia Rekhi/The Economic Times&rpar;](http://www.techmeme.com/251216/p39#a251216p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
