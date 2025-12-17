@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
  - ⏩ [Failed hard](http://9gag.com/gag/aNDGyp3)
- - 👉 [Good job!](http://9gag.com/gag/aNDXmDK)<!-- MEMES:END -->
+ - 👉 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)<!-- MEMES:END -->
 
 ---
 
