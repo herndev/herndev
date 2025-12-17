@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil‘s ‘Impossible’ Game Boy Port Appears Online And It’s 98 Percent Complete](https://kotaku.com/resident-evils-game-boy-dispatch-switch-2-2000654239)
- - [Arc Raiders’ Cold Snap Update Really Juiced The Blueprint Economy](https://kotaku.com/arc-raiders-cold-snap-update-blueprint-drop-rate-2000654257)
- - [Everything You Need To Know About Animal Crossing: New Horizons’ Big Free Update](https://kotaku.com/everything-you-need-to-know-animal-crossing-kappn-update-switch-2-2000654252)<!-- GAME:END -->
+ - [How to evolve Inkay in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-inkay-evolve-malamar-how-to/)
+ - [Why you need to watch The Shining before It: Welcome to Derry](https://www.polygon.com/it-welcome-derry-stephen-king-movie-the-shining/)
+ - [You can play Call of Duty: Black Ops 7 for free for a limited time](https://www.polygon.com/call-of-duty-black-ops-7-multiplayer-zombies-free-to-play-steam/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
