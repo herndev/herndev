@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good job!](http://9gag.com/gag/aNDXmDK)
- - ⏩ [Boooom head shot](http://9gag.com/gag/awyDNGD)
- - 👉 [KABOOM?](http://9gag.com/gag/aO8ngg3)<!-- MEMES:END -->
+ - 💣 [Ordinary Mongolian Child](http://9gag.com/gag/agmpRx6)
+ - ⏩ [Can you build a house for me](http://9gag.com/gag/axyepeK)
+ - 👉 [I&#39;m today&#39;s society I think they should.](http://9gag.com/gag/aLn36L6)<!-- MEMES:END -->
 
 ---
 
