@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snapdragon 8 Elite Gen 5 or 10,000mAh battery? You won’t have to choose with this phone.](https://www.androidauthority.com/snapdragon-8-elite-gen-5-10000mah-phone-3625923/)
  - [More than 500 writers, actors, and technologists launch the Creators Coalition on AI to push standards for how AI is trained and used across creative industries &lpar;Chris Gardner/The Hollywood Reporter&rpar;](http://www.techmeme.com/251217/p8#a251217p8)
- - [Sources: Disney has been hesitant to license its IP to Roblox because it doesn&#39;t consider it a safe platform, bucking the trend followed by Netflix and others &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251217/p7#a251217p7)
- - [TeamLease Digital: Global Capability Centers in India have grown tech headcount to ~2M from 1.2M in 2022, rising 18%-27% YoY, compared to 4%-6% at IT companies &lpar;Tanya Pandey/The Economic Times&rpar;](http://www.techmeme.com/251217/p6#a251217p6)<!-- TECH:END -->
+ - [Sources: Disney has been hesitant to license its IP to Roblox because it doesn&#39;t consider it a safe platform, bucking the trend followed by Netflix and others &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251217/p7#a251217p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
