@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic&#39;s Fallout crossover was a major turning point for Universes Beyond](https://www.polygon.com/fallout-magic-the-gathering-commander-decks-design-secrets/)
- - [9 Fallout: New Vegas beginner&#39;s tips to help you get started](https://www.polygon.com/fallout-new-vegas-beginners-guide/)
- - [Best SPECIAL starting stats to pick in Fallout: New Vegas](https://www.polygon.com/fallout-new-vegas-best-special-starting-stats/)<!-- GAME:END -->
+ - [Fallout season 2 isn&#39;t actually a New Vegas adaptation](https://www.polygon.com/fallout-tv-show-s2e1-mr-house-new-vegas-similarities/)
+ - [LEGO Rescues Your Christmas Gifts, Harry Potter Hogwarts Castle at Price That Crushes All Other Sets](https://kotaku.com/lego-rescues-your-christmas-gifts-harry-potter-hogwarts-castle-at-price-that-crushes-all-other-sets-2000654166)
+ - [It’s Horrifying Just How Little Time Steam Users Spend Playing New Games](https://kotaku.com/its-horrifying-just-how-little-time-steam-users-spend-playing-new-games-2000654158)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
