@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Giant snowman being constructed in Qunli music park in China](http://9gag.com/gag/a879d2p)
- - ⏩ [Christmas Bober](http://9gag.com/gag/a7omjje)
- - 👉 [The collector](http://9gag.com/gag/amoyqb9)<!-- MEMES:END -->
+ - 💣 [The collector](http://9gag.com/gag/amoyqb9)
+ - ⏩ [Giant snowman being constructed in Qunli music park in China](http://9gag.com/gag/a879d2p)
+ - 👉 [Grandpa living his best life, taking naps in the middle of his onion field](http://9gag.com/gag/aYQBN72)<!-- MEMES:END -->
 
 ---
 
