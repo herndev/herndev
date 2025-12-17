@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapdragon 8 Elite Gen 5 or 10,000mAh battery? You won’t have to choose with this phone.](https://www.androidauthority.com/snapdragon-8-elite-gen-5-10000mah-phone-3625923/)
- - [More than 500 writers, actors, and technologists launch the Creators Coalition on AI to push standards for how AI is trained and used across creative industries &lpar;Chris Gardner/The Hollywood Reporter&rpar;](http://www.techmeme.com/251217/p8#a251217p8)
- - [Sources: Disney has been hesitant to license its IP to Roblox because it doesn&#39;t consider it a safe platform, bucking the trend followed by Netflix and others &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251217/p7#a251217p7)<!-- TECH:END -->
+ - [The Marshall Islands unveils a national UBI scheme that offers payments of ~$200 per quarter to every resident citizen via stablecoin or traditional currency &lpar;Prianka Srinivasan/The Guardian&rpar;](http://www.techmeme.com/251217/p11#a251217p11)
+ - [New Galaxy Ring update promises to fix your battery life frustrations](https://www.androidauthority.com/galaxy-ring-firmware-update-battery-stability-3625953/)
+ - [Pixel’s search bar is changing again, and it doesn’t feel like an upgrade](https://www.androidauthority.com/google-pixel-search-bar-change-3625951/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
