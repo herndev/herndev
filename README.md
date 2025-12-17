@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vote for our Reader’s Choice Award for the best phone of 2025! &lpar;Finals&rpar;](https://www.androidauthority.com/vote-for-our-readers-choice-award-for-the-best-phone-of-2025-semi-finals-3625851/)
- - [PSA: The impressive Sony WH-1000XM6 headphones are still $61.99 off](https://www.androidauthority.com/sony-wh-1000xm6-headphones-deal-3-3625650/)
- - [Xiaomi releases MiMo-V2-Flash, an open-weight MoE model with 309B total and 15B active parameters, saying it excels in reasoning, coding, and agentic scenarios &lpar;Xiaomi Mimo&rpar;](http://www.techmeme.com/251216/p36#a251216p36)<!-- TECH:END -->
+ - [Even Trump’s chief of staff was ‘aghast’ at Elon Musk’s deadly USAID cuts](https://www.theverge.com/policy/846054/elon-musk-susie-wiles-doge-usaid)
+ - [Arcade1Up isn&amp;#8217;t dead, maybe](https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade)
+ - [Sources: New York-based data security startup Cyera is raising $400M led by Blackstone, valuing the company at $9B, up from $6B in June &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/251216/p38#a251216p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
