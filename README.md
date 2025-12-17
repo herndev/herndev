@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
- - ⏩ [Boooom head shot](http://9gag.com/gag/awyDNGD)
- - 👉 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)<!-- MEMES:END -->
+ - 💣 [Boooom head shot](http://9gag.com/gag/awyDNGD)
+ - ⏩ [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)
+ - 👉 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)<!-- MEMES:END -->
 
 ---
 
