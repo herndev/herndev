@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [17 Best Stocking Stuffers &lpar;2025&rpar;: Unique and Unconventional](https://www.wired.com/gallery/best-stocking-stuffers/)
- - [In 2025, wearables made a hard pivot to AI](https://www.theverge.com/gadgets/838876/2025-ai-wearables-smart-glasses-pendants-fitness)
- - [Not just electronics - Food packaging &amp; medical firms are getting on-site help from Apple](https://appleinsider.com/articles/25/12/17/not-just-electronics---food-packaging-medical-firms-are-getting-on-site-help-from-apple?utm_source=rss)<!-- TECH:END -->
+ - [The Verge’s 2025 in review](https://www.theverge.com/entertainment/842852/https-www-theverge-com-tech-841025-2025-review-games-streaming-politics)
+ - [iPhone 17 Pro review three months later: Still fresh](https://appleinsider.com/articles/25/12/17/iphone-17-pro-review-three-months-later-still-fresh?utm_source=rss)
+ - [15 Best Food Gifts, as Tested by Our Tastebuds &lpar;2025&rpar;](https://www.wired.com/gallery/best-food-gifts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
