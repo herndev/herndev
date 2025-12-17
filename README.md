@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s 2026 Micro RGB LED TVs can actually fit in your living room](https://www.theverge.com/news/845760/samsung-micro-rgb-led-ces-2026)
- - [Sources: Waymo is in discussions to raise more than $15B at a valuation near $100B, in a round led by Alphabet; an October 2024 round valued Waymo at above $45B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251216/p35#a251216p35)
- - [‘Twitter never left:’ X sues Operation Bluebird for trademark infringement](https://www.theverge.com/news/845882/x-corp-operation-bluebird-twitter-lawsuit-trademark-infringement)<!-- TECH:END -->
+ - [Vote for our Reader’s Choice Award for the best phone of 2025! &lpar;Finals&rpar;](https://www.androidauthority.com/vote-for-our-readers-choice-award-for-the-best-phone-of-2025-semi-finals-3625851/)
+ - [PSA: The impressive Sony WH-1000XM6 headphones are still $61.99 off](https://www.androidauthority.com/sony-wh-1000xm6-headphones-deal-3-3625650/)
+ - [Xiaomi releases MiMo-V2-Flash, an open-weight MoE model with 309B total and 15B active parameters, saying it excels in reasoning, coding, and agentic scenarios &lpar;Xiaomi Mimo&rpar;](http://www.techmeme.com/251216/p36#a251216p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
