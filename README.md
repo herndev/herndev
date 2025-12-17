@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Got 16 hours to kill? Streamers subject Samsung Galaxy Z Trifold to epic endurance test](https://www.androidauthority.com/trifold-endurance-test-3626164/)
- - [A UK family and a US family sue Meta for the alleged wrongful deaths of their teenage sons, who died by suicide after falling victim to sextortion on Instagram &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/251217/p43#a251217p43)
- - [Meta pauses third-party Horizon VR headsets program](https://www.theverge.com/news/846762/meta-vr-headsets-third-party-program-horizon-os)<!-- TECH:END -->
+ - [Ergatta Luxe Water Rower review: delivering a powerful, low-impact workout for big budgets](https://appleinsider.com/articles/25/12/17/ergatta-luxe-water-rower-review-delivering-a-powerful-low-impact-workout-for-big-budgets?utm_source=rss)
+ - [Meta is testing limiting Facebook professional accounts and Pages to posting just two links per month, unless they subscribe to $14.99+/month Meta Verified &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251217/p46#a251217p46)
+ - [Don’t look now, but your Pixel may be getting a surprise update](https://www.androidauthority.com/second-december-pixel-update-3626186/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
