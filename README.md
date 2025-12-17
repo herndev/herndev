@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boooom head shot](http://9gag.com/gag/awyDNGD)
- - ⏩ [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)
- - 👉 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)<!-- MEMES:END -->
+ - 💣 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
+ - ⏩ [It&#39;s Monday again](http://9gag.com/gag/aYQvzwx)
+ - 👉 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)<!-- MEMES:END -->
 
 ---
 
