@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good job!](http://9gag.com/gag/aNDXmDK)
- - ⏩ [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
- - 👉 [Boooom head shot](http://9gag.com/gag/awyDNGD)<!-- MEMES:END -->
+ - 💣 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)
+ - ⏩ [Boooom head shot](http://9gag.com/gag/awyDNGD)
+ - 👉 [Such a nice lady!](http://9gag.com/gag/awy9RR1)<!-- MEMES:END -->
 
 ---
 
