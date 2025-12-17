@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to complete Groundbreaking in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-groundbreaking-walkthrough/)
  - [Terminator: Survivors delayed indefinitely, axes multiplayer](https://www.polygon.com/terminator-survivors-delay-multiplayer-cancelled-announcement/)
- - [How to Ensure a Fun, Safe and Welcoming Gaming Experience for Your Kids on Xbox This Holiday Season](https://news.xbox.com/en-us/2025/12/17/xbox-family-settings-holiday-2025/)
- - [A location shown in Fallout Season 2 Episode 1 got me pointing at the screen like Leo—and it has nothing to do with New Vegas](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-1-locations/)<!-- GAME:END -->
+ - [How to Ensure a Fun, Safe and Welcoming Gaming Experience for Your Kids on Xbox This Holiday Season](https://news.xbox.com/en-us/2025/12/17/xbox-family-settings-holiday-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
