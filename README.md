@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even Trump’s chief of staff was ‘aghast’ at Elon Musk’s deadly USAID cuts](https://www.theverge.com/policy/846054/elon-musk-susie-wiles-doge-usaid)
- - [Arcade1Up isn&amp;#8217;t dead, maybe](https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade)
- - [Sources: New York-based data security startup Cyera is raising $400M led by Blackstone, valuing the company at $9B, up from $6B in June &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/251216/p38#a251216p38)<!-- TECH:END -->
+ - [Apple has made it much easier to replace the battery in a 14-inch MacBook Pro](https://appleinsider.com/articles/25/12/17/apple-has-made-it-much-easier-to-replace-the-battery-in-a-14-inch-macbook-pro?utm_source=rss)
+ - [Sources: Apple is in preliminary talks with India&#39;s CG Semi, which offers chip assembly and testing services, to assemble and package chips for the iPhone &lpar;Dia Rekhi/The Economic Times&rpar;](http://www.techmeme.com/251216/p39#a251216p39)
+ - [Even Trump’s chief of staff was ‘aghast’ at Elon Musk’s deadly USAID cuts](https://www.theverge.com/policy/846054/elon-musk-susie-wiles-doge-usaid)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
