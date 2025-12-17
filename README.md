@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout season 2 isn&#39;t actually a New Vegas adaptation](https://www.polygon.com/fallout-tv-show-s2e1-mr-house-new-vegas-similarities/)
- - [LEGO Rescues Your Christmas Gifts, Harry Potter Hogwarts Castle at Price That Crushes All Other Sets](https://kotaku.com/lego-rescues-your-christmas-gifts-harry-potter-hogwarts-castle-at-price-that-crushes-all-other-sets-2000654166)
- - [It’s Horrifying Just How Little Time Steam Users Spend Playing New Games](https://kotaku.com/its-horrifying-just-how-little-time-steam-users-spend-playing-new-games-2000654158)<!-- GAME:END -->
+ - [Helldivers 2 x Killzone – Two Eras Unite for One Legendary Warbond](https://news.xbox.com/en-us/2025/12/17/helldivers-2-killzone/)
+ - [It has taken Final Fantasy 14 players no time at all to form a cult around this glitched level 1 mob with no name or purpose](https://www.pcgamer.com/games/final-fantasy/it-has-taken-final-fantasy-14-players-no-time-at-all-to-form-a-cult-around-this-glitched-level-1-mob-with-no-name-or-purpose/)
+ - [Where to find candle holders in Arc Raiders](https://www.polygon.com/arc-raiders-candle-holders-location-where-to-find/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
