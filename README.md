@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout&#39;s Justin Theroux drops a hint for a possible New Vegas character cameo that&#39;s got me pumping my fist](https://www.pcgamer.com/movies-tv/fallouts-justin-theroux-drops-a-hint-for-a-possible-new-vegas-character-cameo-thats-got-me-pumping-my-fist/)
- - [Best D&amp;D gifts for Dungeon Masters, players, and newcomers](https://www.polygon.com/best-dnd-gifts-dungeons-and-dragons-2025/)
- - [Twitch’s Controversial, Gambling-Heavy Rival Just Got An App On Xbox](https://kotaku.com/xbox-kick-app-streaming-gambling-stake-twitch-2000654234)<!-- GAME:END -->
+ - [Resident Evil‘s ‘Impossible’ Game Boy Port Appears Online And It’s 98 Percent Complete](https://kotaku.com/resident-evils-game-boy-dispatch-switch-2-2000654239)
+ - [Arc Raiders’ Cold Snap Update Really Juiced The Blueprint Economy](https://kotaku.com/arc-raiders-cold-snap-update-blueprint-drop-rate-2000654257)
+ - [Everything You Need To Know About Animal Crossing: New Horizons’ Big Free Update](https://kotaku.com/everything-you-need-to-know-animal-crossing-kappn-update-switch-2-2000654252)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
