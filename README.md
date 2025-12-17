@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete Deciphering the Data in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-deciphering-the-data/)
- - [ASUS Extends GPU Clearance as RTX 5070 at All-Time Low Price Sell Out Faster Than Expected](https://kotaku.com/asus-extends-gpu-clearance-as-rtx-5070-at-all-time-low-price-sell-out-faster-than-expected-2000653926)
- - [Rob Reiner unlocked Stephen King’s humanity — and his own career — in Stand By Me](https://www.polygon.com/rob-reiner-stand-by-me-stephen-king/)<!-- GAME:END -->
+ - [Magic&#39;s Fallout crossover was a major turning point for Universes Beyond](https://www.polygon.com/fallout-magic-the-gathering-commander-decks-design-secrets/)
+ - [9 Fallout: New Vegas beginner&#39;s tips to help you get started](https://www.polygon.com/fallout-new-vegas-beginners-guide/)
+ - [Best SPECIAL starting stats to pick in Fallout: New Vegas](https://www.polygon.com/fallout-new-vegas-best-special-starting-stats/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
