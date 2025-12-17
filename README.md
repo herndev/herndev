@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
- - [In a proposed settlement, the US FTC says crypto bridge Nomad must repay victims of a 2022 cyberattack that led to $186M worth of funds being stolen &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/251217/p40#a251217p40)
- - [Deal: The Yaber L2s projector is too awesome for just $101.98!](https://www.androidauthority.com/yaber-projector-l2s-home-cinema-deal-2-3626137/)<!-- TECH:END -->
+ - [You can snag a pair of the Beats Solo 4 headphones for under $100 right now](https://www.theverge.com/gadgets/846609/beats-solo-4-wireless-headphones-deal-sale-2025)
+ - [Amazon has a new leader for its &amp;#8216;AGI&amp;#8217; group as it plays catch-up on AI](https://www.theverge.com/news/846721/amazon-new-agi-leader-peter-desantis-rohit-prasad)
+ - [Pornhub is being extorted by ShinyHunters after the search and watch history of its Premium members was reportedly stolen in a recent Mixpanel data breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/251217/p41#a251217p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
