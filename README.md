@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The collector](http://9gag.com/gag/amoyqb9)
- - ⏩ [Giant snowman being constructed in Qunli music park in China](http://9gag.com/gag/a879d2p)
- - 👉 [Grandpa living his best life, taking naps in the middle of his onion field](http://9gag.com/gag/aYQBN72)<!-- MEMES:END -->
+ - 💣 [Failed hard](http://9gag.com/gag/aNDGyp3)
+ - ⏩ [KABOOM?](http://9gag.com/gag/aO8ngg3)
+ - 👉 [\u201cit\u2019s just a game npc\u201d the npc:](http://9gag.com/gag/a4P8pWv)<!-- MEMES:END -->
 
 ---
 
