@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now use your Pixel Watch to track down your missing phone](https://www.androidauthority.com/smartwatch-find-hub-3626058/)
- - [Jimmy Wales trusts the process](https://www.theverge.com/tech/846184/jimmy-wales-trusts-the-process)
- - [Gemini 3 Flash is priced at $0.50 per 1M input tokens and $3 per 1M output tokens, compared to Gemini 2.5 Flash&#39;s $0.30 per 1M input and $2.5 per 1M output &lpar;Tulsee Doshi/The Keyword&rpar;](http://www.techmeme.com/251217/p36#a251217p36)<!-- TECH:END -->
+ - [Tesla would have to rein in FSD under new Democratic bill](https://www.theverge.com/news/846387/level-2-operational-design-domain-markey-bill)
+ - [The Academy signs a multi-year deal that will give YouTube the exclusive global rights to the Oscars, beginning in 2029 and running through 2033 &lpar;Scott Feinberg/The Hollywood Reporter&rpar;](http://www.techmeme.com/251217/p38#a251217p38)
+ - [Billionaires want data centers everywhere, including space](https://www.theverge.com/ai-artificial-intelligence/845453/space-data-centers-astronomers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
