@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla would have to rein in FSD under new Democratic bill](https://www.theverge.com/news/846387/level-2-operational-design-domain-markey-bill)
- - [The Academy signs a multi-year deal that will give YouTube the exclusive global rights to the Oscars, beginning in 2029 and running through 2033 &lpar;Scott Feinberg/The Hollywood Reporter&rpar;](http://www.techmeme.com/251217/p38#a251217p38)
- - [Billionaires want data centers everywhere, including space](https://www.theverge.com/ai-artificial-intelligence/845453/space-data-centers-astronomers)<!-- TECH:END -->
+ - [Amazon&#39;s AGI team lead Rohit Prasad is leaving at the end of 2025; AWS SVP Peter DeSantis will lead a group combining AI, silicon, and quantum computing teams &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251217/p39#a251217p39)
+ - [The Oscars are moving from ABC to YouTube -- in 2029](https://appleinsider.com/articles/25/12/17/the-oscars-are-moving-from-abc-to-youtube----in-2029?utm_source=rss)
+ - [Sharing audio on a Google Meet call just got a lot easier](https://www.androidauthority.com/google-meet-device-audio-sharing-3626112/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
