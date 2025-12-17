@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI&amp;#8217;s water and electricity use soars in 2025](https://www.theverge.com/news/845831/ai-chips-data-center-power-water)
- - [Morgan Stanley raises Apple stock target to $315, citing incredible 2026](https://appleinsider.com/articles/25/12/17/morgan-stanley-raises-apple-stock-target-to-315-citing-incredible-2026?utm_source=rss)
- - [Google sues the Chinese-speaking cybercriminal group known as Darcula, behind an alleged US text message phishing ring, in the US, seeking a restraining order &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/251217/p33#a251217p33)<!-- TECH:END -->
+ - [You can now use your Pixel Watch to track down your missing phone](https://www.androidauthority.com/smartwatch-find-hub-3626058/)
+ - [Jimmy Wales trusts the process](https://www.theverge.com/tech/846184/jimmy-wales-trusts-the-process)
+ - [Gemini 3 Flash is priced at $0.50 per 1M input tokens and $3 per 1M output tokens, compared to Gemini 2.5 Flash&#39;s $0.30 per 1M input and $2.5 per 1M output &lpar;Tulsee Doshi/The Keyword&rpar;](http://www.techmeme.com/251217/p36#a251217p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
