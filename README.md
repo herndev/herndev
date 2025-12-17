@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When he realizes..](http://9gag.com/gag/agmpMxn)
- - ⏩ [Good job!](http://9gag.com/gag/aNDXmDK)
- - 👉 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)<!-- MEMES:END -->
+ - 💣 [Failed hard](http://9gag.com/gag/aNDGyp3)
+ - ⏩ [Gg well played](http://9gag.com/gag/awy9qz8)
+ - 👉 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)<!-- MEMES:END -->
 
 ---
 
