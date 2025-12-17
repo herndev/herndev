@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Judge can&#39;t belive his eys](http://9gag.com/gag/aByM9M2)
- - ⏩ [Failed hard](http://9gag.com/gag/aNDGyp3)
- - 👉 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)<!-- MEMES:END -->
+ - 💣 [The collector](http://9gag.com/gag/amoyqb9)
+ - ⏩ [Christmas Bober](http://9gag.com/gag/a7omjje)
+ - 👉 [Grandpa living his best life, taking naps in the middle of his onion field](http://9gag.com/gag/aYQBN72)<!-- MEMES:END -->
 
 ---
 
