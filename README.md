@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Giant snowman being constructed in Qunli music park in China](http://9gag.com/gag/a879d2p)
- - ⏩ [Grandpa living his best life, taking naps in the middle of his onion field](http://9gag.com/gag/aYQBN72)
- - 👉 [It ain&#39;t much, but it&#39;s a good start](http://9gag.com/gag/azxz7om)<!-- MEMES:END -->
+ - 💣 [Judge can&#39;t belive his eys](http://9gag.com/gag/aByM9M2)
+ - ⏩ [Failed hard](http://9gag.com/gag/aNDGyp3)
+ - 👉 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)<!-- MEMES:END -->
 
 ---
 
