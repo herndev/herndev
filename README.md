@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Failed hard](http://9gag.com/gag/aNDGyp3)
- - ⏩ [Gg well played](http://9gag.com/gag/awy9qz8)
- - 👉 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)<!-- MEMES:END -->
+ - 💣 [When he realizes..](http://9gag.com/gag/agmpMxn)
+ - ⏩ [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
+ - 👉 [Failed hard](http://9gag.com/gag/aNDGyp3)<!-- MEMES:END -->
 
 ---
 
