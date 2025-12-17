@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arc Raiders players say blueprint drop rates have exploded after Cold Snap update: &#39;Blueprints everywhere!&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-players-say-blueprint-drop-rates-have-exploded-after-cold-snap-update-blueprints-everywhere/)
- - [Ditch Your Old Soundbar for Good, Sonos Beam Hits Record Low One Week Before Christmas on Amazon](https://kotaku.com/ditch-your-old-soundbar-for-good-sonos-beam-hits-record-low-one-week-before-christmas-on-amazon-2000653981)
- - [Todd Howard says he&#39;s been offered &#39;a whole bunch&#39; of cameos in the Fallout show but won&#39;t be tempted: &#39;I don&#39;t want to distract&#39;](https://www.pcgamer.com/games/fallout/todd-howard-says-hes-been-offered-a-whole-bunch-of-cameos-in-the-fallout-show-but-wont-be-tempted-i-dont-want-to-distract/)<!-- GAME:END -->
+ - [A location shown in Fallout Season 2 Episode 1 got me pointing at the screen like Leo—and it has nothing to do with New Vegas](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-1-locations/)
+ - [Every Fallout season 2 Easter egg so far](https://www.polygon.com/fallout-season-2-easter-egg-show/)
+ - [Fallout Season 2 Episode 1 recap: &#39;The world may end, but progress marches on&#39;](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-1-recap-the-world-may-end-but-progress-marches-on/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
