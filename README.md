@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [99 Nights in the Forest Christmas update—Everything to know about the elves, candy canes, and weekly updates](https://www.pcgamer.com/roblox/99-nights-in-the-forest-christmas-update/)
- - [Sony Offloads DualSense Edge at Record Low, Pro Gamers Get Elite Controller at Casual Gamer Price](https://kotaku.com/sony-offloads-dualsense-edge-at-record-low-pro-gamers-get-elite-controller-at-casual-gamer-price-2000653974)
- - [There&#39;s more to Horses than the Steam ban: The controversial horror game is a great example of how games can effectively borrow from film, and how they can also stumble](https://www.pcgamer.com/games/horror/theres-more-to-horses-than-the-steam-ban-the-controversial-horror-game-is-a-great-example-of-how-games-can-effectively-borrow-from-film-and-how-they-can-also-stumble/)<!-- GAME:END -->
+ - [Arc Raiders players say blueprint drop rates have exploded after Cold Snap update: &#39;Blueprints everywhere!&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-players-say-blueprint-drop-rates-have-exploded-after-cold-snap-update-blueprints-everywhere/)
+ - [Ditch Your Old Soundbar for Good, Sonos Beam Hits Record Low One Week Before Christmas on Amazon](https://kotaku.com/ditch-your-old-soundbar-for-good-sonos-beam-hits-record-low-one-week-before-christmas-on-amazon-2000653981)
+ - [Todd Howard says he&#39;s been offered &#39;a whole bunch&#39; of cameos in the Fallout show but won&#39;t be tempted: &#39;I don&#39;t want to distract&#39;](https://www.pcgamer.com/games/fallout/todd-howard-says-hes-been-offered-a-whole-bunch-of-cameos-in-the-fallout-show-but-wont-be-tempted-i-dont-want-to-distract/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
