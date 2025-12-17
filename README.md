@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When he realizes..](http://9gag.com/gag/agmpMxn)
- - ⏩ [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
- - 👉 [Failed hard](http://9gag.com/gag/aNDGyp3)<!-- MEMES:END -->
+ - 💣 [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
+ - ⏩ [Boooom head shot](http://9gag.com/gag/awyDNGD)
+ - 👉 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)<!-- MEMES:END -->
 
 ---
 
