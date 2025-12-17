@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Let’s talk about Fallout season 2](https://www.theverge.com/tech/845526/fallout-season-2-discussion-theories)
- - [Netflix&amp;#8217;s next big TV game is FIFA soccer](https://www.theverge.com/news/845965/netflix-fifa-soccer-football-game-tv-delphi-interactive-world-cup)
- - [OnePlus 15R review: unbeatable battery life, beatable value](https://www.theverge.com/tech/846012/oneplus-15r-review-battery-camera-performance)<!-- TECH:END -->
+ - [AI&amp;#8217;s water and electricity use soars in 2025](https://www.theverge.com/news/845831/ai-chips-data-center-power-water)
+ - [Morgan Stanley raises Apple stock target to $315, citing incredible 2026](https://appleinsider.com/articles/25/12/17/morgan-stanley-raises-apple-stock-target-to-315-citing-incredible-2026?utm_source=rss)
+ - [Google sues the Chinese-speaking cybercriminal group known as Darcula, behind an alleged US text message phishing ring, in the US, seeking a restraining order &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/251217/p33#a251217p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
