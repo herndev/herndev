@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mega Starmie Makes Its Pokémon Anime Debut, And Why Is It Oiled Up Like That?](https://kotaku.com/pokemon-horizons-anime-mega-starmie-friede-episode-2000654235)
- - [Kingdom Come: Deliverance 2 is PC Gamer&#39;s GOTY because it &#39;trusts&#39; players and takes them seriously, says Warhorse co-founder: &#39;I think you can only eat so much popcorn&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-is-pc-gamers-goty-because-it-trusts-players-and-takes-them-seriously-says-warhorse-co-founder-i-think-you-can-only-eat-so-much-popcorn/)
- - [One Gun Guy is a rad 2D retro platformer that&#39;s free on Steam](https://www.polygon.com/one-gun-guy-is-free-on-steam/)<!-- GAME:END -->
+ - [Fallout&#39;s Justin Theroux drops a hint for a possible New Vegas character cameo that&#39;s got me pumping my fist](https://www.pcgamer.com/movies-tv/fallouts-justin-theroux-drops-a-hint-for-a-possible-new-vegas-character-cameo-thats-got-me-pumping-my-fist/)
+ - [Best D&amp;D gifts for Dungeon Masters, players, and newcomers](https://www.polygon.com/best-dnd-gifts-dungeons-and-dragons-2025/)
+ - [Twitch’s Controversial, Gambling-Heavy Rival Just Got An App On Xbox](https://kotaku.com/xbox-kick-app-streaming-gambling-stake-twitch-2000654234)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
