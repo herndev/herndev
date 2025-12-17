@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Find Hub will finally start taking proper advantage of Google Maps](https://www.androidauthority.com/find-hub-maps-3625771/)
- - [Crypto exchange HashKey closed flat in its Hong Kong debut, after rising as much as 6.6% before falling 8.4% intraday, amid a weakness in digital assets &lpar;Reuters&rpar;](http://www.techmeme.com/251217/p16#a251217p16)
- - [Sources: top Monzo shareholders, including Accel and Iconiq, are pushing to oust the fintech&#39;s Chair Gary Hoffman after the surprise departure of CEO TS Anil &lpar;Financial Times&rpar;](http://www.techmeme.com/251217/p15#a251217p15)<!-- TECH:END -->
+ - [Feds say US big tech is targeted by unfair regulations overseas](https://appleinsider.com/articles/25/12/16/feds-say-us-big-tech-is-being-targed-by-unfair-regulations-overseas?utm_source=rss)
+ - [Source: Tencent tells staff that Yao Shunyu, an ex-OpenAI researcher who joined in September, is now its chief AI scientist, reporting to President Martin Lau &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/251217/p20#a251217p20)
+ - [Tesla misled customers about self-driving features, judge rules](https://www.theverge.com/news/846152/tesla-autopilot-marketing-deceptive-california-dmv)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
