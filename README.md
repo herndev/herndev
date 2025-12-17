@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
- - ⏩ [It&#39;s Monday again](http://9gag.com/gag/aYQvzwx)
- - 👉 [The alpha didn&#39;t even have to bark one single bit](http://9gag.com/gag/a9y43mL)<!-- MEMES:END -->
+ - 💣 [Giant snowman being constructed in Qunli music park in China](http://9gag.com/gag/a879d2p)
+ - ⏩ [Grandpa living his best life, taking naps in the middle of his onion field](http://9gag.com/gag/aYQBN72)
+ - 👉 [It ain&#39;t much, but it&#39;s a good start](http://9gag.com/gag/azxz7om)<!-- MEMES:END -->
 
 ---
 
