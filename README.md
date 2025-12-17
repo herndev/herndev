@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Marshall Islands unveils a national UBI scheme that offers payments of ~$200 per quarter to every resident citizen via stablecoin or traditional currency &lpar;Prianka Srinivasan/The Guardian&rpar;](http://www.techmeme.com/251217/p11#a251217p11)
- - [New Galaxy Ring update promises to fix your battery life frustrations](https://www.androidauthority.com/galaxy-ring-firmware-update-battery-stability-3625953/)
- - [Pixel’s search bar is changing again, and it doesn’t feel like an upgrade](https://www.androidauthority.com/google-pixel-search-bar-change-3625951/)<!-- TECH:END -->
+ - [Find Hub will finally start taking proper advantage of Google Maps](https://www.androidauthority.com/find-hub-maps-3625771/)
+ - [Crypto exchange HashKey closed flat in its Hong Kong debut, after rising as much as 6.6% before falling 8.4% intraday, amid a weakness in digital assets &lpar;Reuters&rpar;](http://www.techmeme.com/251217/p16#a251217p16)
+ - [Sources: top Monzo shareholders, including Accel and Iconiq, are pushing to oust the fintech&#39;s Chair Gary Hoffman after the surprise departure of CEO TS Anil &lpar;Financial Times&rpar;](http://www.techmeme.com/251217/p15#a251217p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
