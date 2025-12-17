@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This is our best look yet at Motorola’s first ‘Signature’ phone](https://www.androidauthority.com/motorola-signature-leak-3625884/)
  - [Adaptive Security, which uses AI to simulate social engineering attacks and help companies prevent them, raised an $81M Series B led by Bain Capital Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251216/p41#a251216p41)
- - [How to stop your iPhone alarm from going off without sound in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-stop-your-iphone-alarm-from-going-off-without-sound-in-ios-26?utm_source=rss)
- - [You can now build AI-powered mini apps directly from Gemini](https://www.androidauthority.com/gemini-opal-mini-apps-3625879/)<!-- TECH:END -->
+ - [How to stop your iPhone alarm from going off without sound in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-stop-your-iphone-alarm-from-going-off-without-sound-in-ios-26?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
