@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2 x Killzone – Two Eras Unite for One Legendary Warbond](https://news.xbox.com/en-us/2025/12/17/helldivers-2-killzone/)
- - [It has taken Final Fantasy 14 players no time at all to form a cult around this glitched level 1 mob with no name or purpose](https://www.pcgamer.com/games/final-fantasy/it-has-taken-final-fantasy-14-players-no-time-at-all-to-form-a-cult-around-this-glitched-level-1-mob-with-no-name-or-purpose/)
- - [Where to find candle holders in Arc Raiders](https://www.polygon.com/arc-raiders-candle-holders-location-where-to-find/)<!-- GAME:END -->
+ - [Elden Ring Nightreign&#39;s Scholar class gets even better in big new update](https://www.polygon.com/elden-ring-nightreign-scholar-103-patch-notes-update-class-changes/)
+ - [When does Winterfest 2025 start in Fortnite?](https://www.polygon.com/fortnite-winterfest-2025-start-release-time-pst-est/)
+ - [The Best RPGs of 2025](https://kotaku.com/best-rpgs-2025-clair-obscur-avowed-assassins-creed-2000654194)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
