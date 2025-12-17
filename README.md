@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Invincible VS: Extended Look at Brand-New Character, Ella Mental](https://news.xbox.com/en-us/2025/12/17/invincible-vs-ella-mental/)
- - [Clair Obscur’s Free DLC Is Curb Stomping Even Its Best Players](https://kotaku.com/clair-obscur-dlc-free-update-boss-fights-endless-tower-2000654227)
- - [Meta puts third-party VR headsets using Horizon OS on indefinite pause &#39;to focus on building the world-class first-party hardware and software needed to advance the VR market&#39;](https://www.pcgamer.com/hardware/vr-hardware/meta-puts-third-party-vr-headsets-using-horizon-os-on-indefinite-pause-to-focus-on-building-the-world-class-first-party-hardware-and-software-needed-to-advance-the-vr-market/)<!-- GAME:END -->
+ - [Mega Starmie Makes Its Pokémon Anime Debut, And Why Is It Oiled Up Like That?](https://kotaku.com/pokemon-horizons-anime-mega-starmie-friede-episode-2000654235)
+ - [Kingdom Come: Deliverance 2 is PC Gamer&#39;s GOTY because it &#39;trusts&#39; players and takes them seriously, says Warhorse co-founder: &#39;I think you can only eat so much popcorn&#39;](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-is-pc-gamers-goty-because-it-trusts-players-and-takes-them-seriously-says-warhorse-co-founder-i-think-you-can-only-eat-so-much-popcorn/)
+ - [One Gun Guy is a rad 2D retro platformer that&#39;s free on Steam](https://www.polygon.com/one-gun-guy-is-free-on-steam/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
