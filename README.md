@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Such a nice lady!](http://9gag.com/gag/awy9RR1)
- - ⏩ [Cocaine honey y\u2019all](http://9gag.com/gag/awy9RPy)
- - 👉 [Boooom head shot](http://9gag.com/gag/awyDNGD)<!-- MEMES:END -->
+ - 💣 [Guessing he was a navy pilot.](http://9gag.com/gag/a34z9dN)
+ - ⏩ [Refugee snuck into a wrong truck in Turkiye. Instead of Europe, He went to Russia instead](http://9gag.com/gag/aAyLoZo)
+ - 👉 [Good job!](http://9gag.com/gag/aNDXmDK)<!-- MEMES:END -->
 
 ---
 
