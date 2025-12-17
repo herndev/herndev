@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Failed hard](http://9gag.com/gag/aNDGyp3)
- - ⏩ [KABOOM?](http://9gag.com/gag/aO8ngg3)
- - 👉 [\u201cit\u2019s just a game npc\u201d the npc:](http://9gag.com/gag/a4P8pWv)<!-- MEMES:END -->
+ - 💣 [Women just aren&#39;t as efficient as men are.](http://9gag.com/gag/a1m84DR)
+ - ⏩ [Failed hard](http://9gag.com/gag/aNDGyp3)
+ - 👉 [Good job!](http://9gag.com/gag/aNDXmDK)<!-- MEMES:END -->
 
 ---
 
