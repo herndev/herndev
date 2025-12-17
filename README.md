@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is partnering with Singapore-based K-ID to add its AgeKey age-verification tech to Meta apps, with plans to roll it out across multiple countries in 2026 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/251217/p2#a251217p2)
- - [Chinese AI chipmaker MetaX&#39;s shares jumped as much as 755% in its Shanghai debut after a heavily oversubscribed $585.8M IPO, pushing its market cap past $42B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251217/p1#a251217p1)
- - [This is our best look yet at Motorola’s first ‘Signature’ phone](https://www.androidauthority.com/motorola-signature-leak-3625884/)<!-- TECH:END -->
+ - [Customer engagement service MoEngage raised $180M in a follow-on Series F, split into a $57M primary and $123M secondary round, weeks after raising $100M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251217/p5#a251217p5)
+ - [Android TV just made free content impossible to miss](https://www.androidauthority.com/android-tv-discover-replacement-free-tab-3625908/)
+ - [It’s taken a while, but this key NotebookLM feature is finally available for all](https://www.androidauthority.com/notebooklm-chat-history-rollout-3625900/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
