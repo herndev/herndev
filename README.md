@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Anker SOLIX C1000 at Record Low for Christmas on Amazon, Charge 10 Devices With 2,000W Output at Once](https://kotaku.com/anker-solix-c1000-at-record-low-for-christmas-on-amazon-charge-10-devices-with-2000w-output-at-once-2000653967)
- - [BG3 studio Larian is using AI to make Divinity, but there&#39;s nuance CEO says](https://www.polygon.com/divinity-larian-studios-generative-ai-swen-vincke/)
- - [The Elder Scrolls 6 is &#39;progressing very well,&#39; Todd Howard says: Everyone wishes it could go faster, but &#39;it’s a process that we want to get right&#39;](https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-progressing-very-well-todd-howard-says-everyone-wishes-it-could-go-faster-but-its-a-process-that-we-want-to-get-right/)<!-- GAME:END -->
+ - [99 Nights in the Forest Christmas update—Everything to know about the elves, candy canes, and weekly updates](https://www.pcgamer.com/roblox/99-nights-in-the-forest-christmas-update/)
+ - [Sony Offloads DualSense Edge at Record Low, Pro Gamers Get Elite Controller at Casual Gamer Price](https://kotaku.com/sony-offloads-dualsense-edge-at-record-low-pro-gamers-get-elite-controller-at-casual-gamer-price-2000653974)
+ - [There&#39;s more to Horses than the Steam ban: The controversial horror game is a great example of how games can effectively borrow from film, and how they can also stumble](https://www.pcgamer.com/games/horror/theres-more-to-horses-than-the-steam-ban-the-controversial-horror-game-is-a-great-example-of-how-games-can-effectively-borrow-from-film-and-how-they-can-also-stumble/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
