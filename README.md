@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2025 in review](https://www.theverge.com/entertainment/842852/https-www-theverge-com-tech-841025-2025-review-games-streaming-politics)
- - [iPhone 17 Pro review three months later: Still fresh](https://appleinsider.com/articles/25/12/17/iphone-17-pro-review-three-months-later-still-fresh?utm_source=rss)
- - [15 Best Food Gifts, as Tested by Our Tastebuds &lpar;2025&rpar;](https://www.wired.com/gallery/best-food-gifts/)<!-- TECH:END -->
+ - [Let’s talk about Fallout season 2](https://www.theverge.com/tech/845526/fallout-season-2-discussion-theories)
+ - [Netflix&amp;#8217;s next big TV game is FIFA soccer](https://www.theverge.com/news/845965/netflix-fifa-soccer-football-game-tv-delphi-interactive-world-cup)
+ - [OnePlus 15R review: unbeatable battery life, beatable value](https://www.theverge.com/tech/846012/oneplus-15r-review-battery-camera-performance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
