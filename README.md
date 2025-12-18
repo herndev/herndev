@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple opens iOS to third-party app stores in Japan](https://www.theverge.com/news/847149/apple-third-party-app-stores-payment-processing-ios-japan)
- - [Apple says it will roll out more App Store ads in 2026 &quot;to increase opportunity in search results&quot;; Apple&#39;s website says 800M+ users visit the App Store weekly &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/251218/p20#a251218p20)
- - [Your Samsung phone will soon make it easier to quickly adjust this key camera setting](https://www.androidauthority.com/samsung-one-ui-8-5-beta-camera-slider-3626272/)<!-- TECH:END -->
+ - [North Korean hackers stole a record $2.02B in crypto in 2025, a 51% YoY rise that takes its cumulative stolen total to $6.75B; individual wallet hacks hit 158K &lpar;Chainalysis&rpar;](http://www.techmeme.com/251218/p26#a251218p26)
+ - [Trump Media is merging with a nuclear fusion company](https://www.theverge.com/news/847159/trump-media-tae-technologies-merger-nuclear-fusion)
+ - [Stockholm-based vibe coding startup Lovable raised $330M led by CapitalG and Menlo Ventures at a $6.6B valuation, up from $1.8B after raising $200M in July &lpar;Niko Gallogly/New York Times&rpar;](http://www.techmeme.com/251218/p25#a251218p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
