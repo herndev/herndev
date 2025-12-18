@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Javier](http://9gag.com/gag/aQzKqv7)
- - ⏩ [Relatable](http://9gag.com/gag/aAy7Rbg)
- - 👉 [The Earth&#39;s rotation is truly amazing](http://9gag.com/gag/aXPz0RV)<!-- MEMES:END -->
+ - 💣 [Happy birthday](http://9gag.com/gag/agmby8n)
+ - ⏩ [Tinkerbell actress at Disneyland](http://9gag.com/gag/aqyO94Z)
+ - 👉 [Why Asians have to make everything about Kung Fu](http://9gag.com/gag/aYQBNm0)<!-- MEMES:END -->
 
 ---
 
