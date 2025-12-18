@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10 finally gets its long-promised GPU driver upgrade, but the real test starts now](https://www.androidauthority.com/pixel-10-gpu-update-android-16-qpr3-beta-1-3626234/)
- - [Google continues its desktop push by letting Android 16 QPR3 cast external displays](https://www.androidauthority.com/android-16-qpr3-cast-external-displays-3626239/)
- - [Paying for YouTube Premium? Google’s giving you 40% off the Pixel 10 series](https://www.androidauthority.com/youtube-premium-pixel-10-discount-3626217/)<!-- TECH:END -->
+ - [How Apple is helping filmmakers and developers create immersive media for the Vision Pro and share best practices &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/251217/p52#a251217p52)
+ - [Sony&amp;#8217;s legal battle against Tencent&amp;#8217;s Horizon ‘clone’ is already over](https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement)
+ - [OpenAI opens app submissions for review and publication in ChatGPT, where users can discover or search for apps in a new app directory &lpar;OpenAI&rpar;](http://www.techmeme.com/251217/p51#a251217p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
