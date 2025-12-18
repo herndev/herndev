@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube terminates Screen Culture and KH Studio, two large channels that used AI to create fake movie trailers; the platform earlier suspended the channels&#39; ads &lpar;Jake Kanter/Deadline&rpar;](http://www.techmeme.com/251218/p44#a251218p44)
- - [LG forced a Copilot web app onto its TVs but will let you delete it](https://www.theverge.com/news/847685/lg-copilot-web-app-delete)
- - [Google&amp;#8217;s Gemini app can check videos to see if they were made with Google AI](https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos)<!-- TECH:END -->
+ - [OpenAI and Anthropic will start predicting when users are underage](https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude)
+ - [France charges a crew member of an Italian passenger ferry for allegedly infecting the ship with a remote access tool on behalf of a foreign power &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251218/p45#a251218p45)
+ - [Hot deal: Sony WH-1000XM5 at record-low price, plus free earbuds!](https://www.androidauthority.com/sony-wh-1000xm5-free-earbuds-deal-3626524/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
