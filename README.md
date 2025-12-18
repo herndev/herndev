@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Happy birthday](http://9gag.com/gag/agmby8n)
- - ⏩ [Tinkerbell actress at Disneyland](http://9gag.com/gag/aqyO94Z)
- - 👉 [Why Asians have to make everything about Kung Fu](http://9gag.com/gag/aYQBNm0)<!-- MEMES:END -->
+ - ⏩ [Javier](http://9gag.com/gag/aQzKqv7)
+ - 👉 [Cerro El Cono: a strange and mystical mountain deep in the Amazon](http://9gag.com/gag/aoy6zL0)<!-- MEMES:END -->
 
 ---
 
