@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good job!](http://9gag.com/gag/aNDXmDK)
- - ⏩ [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
- - 👉 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)<!-- MEMES:END -->
+ - 💣 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
+ - ⏩ [Good job!](http://9gag.com/gag/aNDXmDK)
+ - 👉 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)<!-- MEMES:END -->
 
 ---
 
