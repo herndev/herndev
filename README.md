@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Helldivers 2: Festival of Reckoning launches Dec 18](https://blog.playstation.com/2025/12/18/helldivers-2-festival-of-reckoning-launches-dec-18/)
- - [Hands on with Board, the $700 video board game console aimed at PlayStation fans](https://www.polygon.com/board-game-console-review/)
- - [Despite being banned from Steam and Epic, horror game Horses sells 18,000 copies—and while that&#39;s enough to pay loans and royalties, it&#39;s not enough for a new game](https://www.pcgamer.com/games/horror/despite-being-banned-from-steam-and-epic-horror-game-horses-sells-18-000-copies-and-while-thats-enough-to-pay-loans-and-royalties-its-not-enough-for-a-new-game/)<!-- GAME:END -->
+ - [PS Blog Game of the Year 2025: The Winners](https://blog.playstation.com/2025/12/18/ps-blog-game-of-the-year-2025-the-winners/)
+ - [With Total War: Warhammer 40,000, Creative Assembly is resurrecting a 16-year-old experiment, which didn&#39;t exactly go to plan last time](https://www.pcgamer.com/games/strategy/with-total-war-warhammer-40-000-creative-assembly-is-resurrecting-a-16-year-old-experiment-which-didnt-exactly-go-to-plan-last-time/)
+ - [Microsoft Does Final Price Cut of Year on Xbox Controllers, Nearly 50% Off and Makes Sony’s Look Overpriced](https://kotaku.com/microsoft-does-final-price-cut-of-year-on-xbox-controllers-nearly-50-off-and-makes-sonys-look-overpriced-2000654527)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
