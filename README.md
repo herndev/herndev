@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Javier](http://9gag.com/gag/aQzKqv7)
- - ⏩ [Damn, that&#39;s interesting](http://9gag.com/gag/aGyqY07)
- - 👉 [Playing with a blue-ringed octopus is a death wish](http://9gag.com/gag/aByMREN)<!-- MEMES:END -->
+ - 💣 [Relatable](http://9gag.com/gag/aAy7Rbg)
+ - ⏩ [Happy birthday](http://9gag.com/gag/agmby8n)
+ - 👉 [The Earth&#39;s rotation is truly amazing](http://9gag.com/gag/aXPz0RV)<!-- MEMES:END -->
 
 ---
 
