@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘All chaos and panic’: Nilay answers your burning Decoder questions](https://www.theverge.com/podcast/846750/decoder-mailbag-qa-nilay-patel-interview-2025)
- - [ANBERNIC’s Game Boy-style handheld finally gets a launch date — and it’s very soon](https://www.androidauthority.com/anbernic-rg-477v-price-launch-date-3626397/)
- - [T-Mobile Says You Can Switch in Just 15 Minutes. I Tested That Claim](https://www.wired.com/story/i-tested-t-mobile-15-minute-switch-carriers/)<!-- TECH:END -->
+ - [How to use ChatGPT with Apple Music when search comes up short](https://appleinsider.com/inside/apple-music/tips/how-to-use-chatgpt-with-apple-music-when-search-comes-up-short?utm_source=rss)
+ - [Endra, whose AI tools automate mechanical, electrical, and plumbing design for commercial buildings, raised a $20M seed led by Notion &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/251218/p30#a251218p30)
+ - [Microsoft&amp;#8217;s holiday Copilot ad is wrapped in empty promises](https://www.theverge.com/report/847056/microsoft-copilot-ai-vision-pc-assistant-christmas-holiday-ad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
