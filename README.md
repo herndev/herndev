@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cerro El Cono: a strange and mystical mountain deep in the Amazon](http://9gag.com/gag/aoy6zL0)
- - ⏩ [The Marvels Of Modern Medical Science](http://9gag.com/gag/aqyO92Y)
- - 👉 [Tinkerbell actress at Disneyland](http://9gag.com/gag/aqyO94Z)<!-- MEMES:END -->
+ - 💣 [Javier](http://9gag.com/gag/aQzKqv7)
+ - ⏩ [Relatable](http://9gag.com/gag/aAy7Rbg)
+ - 👉 [The Earth&#39;s rotation is truly amazing](http://9gag.com/gag/aXPz0RV)<!-- MEMES:END -->
 
 ---
 
