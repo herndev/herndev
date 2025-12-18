@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [DJI Is Unloading More Than Drones as the Osmo Pocket 3 Vlogging Camera Hits a Record Low](https://kotaku.com/dji-is-unloading-more-than-drones-as-the-osmo-pocket-3-vlogging-camera-hits-a-record-low-2000654332)
- - [World War Z x The Walking Dead lurches onto PS5 &amp; PS4 In January](https://blog.playstation.com/2025/12/18/world-war-z-x-the-walking-dead-lurches-onto-ps5-ps4-in-january/)
- - [The Force Awakens at 10: Its greatest sin has nothing to do with Star Wars](https://www.polygon.com/star-wars-the-force-awakens-legacy-sequels/)<!-- GAME:END -->
+ - [Helldivers 2: Festival of Reckoning launches Dec 18](https://blog.playstation.com/2025/12/18/helldivers-2-festival-of-reckoning-launches-dec-18/)
+ - [Hands on with Board, the $700 video board game console aimed at PlayStation fans](https://www.polygon.com/board-game-console-review/)
+ - [Despite being banned from Steam and Epic, horror game Horses sells 18,000 copies—and while that&#39;s enough to pay loans and royalties, it&#39;s not enough for a new game](https://www.pcgamer.com/games/horror/despite-being-banned-from-steam-and-epic-horror-game-horses-sells-18-000-copies-and-while-thats-enough-to-pay-loans-and-royalties-its-not-enough-for-a-new-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
