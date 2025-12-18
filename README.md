@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exynos 2600 specs leak: Will some Galaxy S26 models be miles behind?](https://www.androidauthority.com/exynos-2600-specs-leak-3626254/)
- - [Wall Street clearinghouse DTCC selects the Canton Network blockchain as a real-world asset tokenization partner after receiving a No-Action Letter from the SEC &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/251218/p2#a251218p2)
- - [India-listed RRP Semiconductor&#39;s stock surged 55,000%+ in the 20 months through Dec. 17, despite negative revenue; source: India&#39;s SEBI is examining the surge &lpar;Chiranjivi Chakraborty/Bloomberg&rpar;](http://www.techmeme.com/251218/p1#a251218p1)<!-- TECH:END -->
+ - [Sources: Pinduoduo and Temu owner PDD fires dozens following a fistfight between employees and Chinese officials probing fraudulent deliveries on its platform &lpar;Bloomberg&rpar;](http://www.techmeme.com/251218/p8#a251218p8)
+ - [Tim Sweeney says Fortnite will not return to iOS in Japan in 2025, as Apple is &quot;charging a competition-crushing 21% junk fee on third-party in-app payments&quot; &lpar;Tim Sweeney/@timsweeneyepic&rpar;](http://www.techmeme.com/251218/p7#a251218p7)
+ - [In a letter, Rocket Internet minority shareholder Scherzer &amp; Co accuses the company of marking down startup valuations to buy out backers at &quot;bargain prices&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251218/p6#a251218p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
