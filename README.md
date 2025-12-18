@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wikiflix offers up the classics for all to enjoy: 4,000 public domain movies from the last 100 years—and I want games to get the same treatment](https://www.pcgamer.com/hardware/wikiflix-offers-up-the-classics-for-all-to-enjoy-4-000-public-domain-movies-from-the-last-100-years-and-i-want-games-to-get-the-same-treatment/)
- - [Welcome to Your New ROG Xbox Ally: Essential Tips for Getting Started](https://news.xbox.com/en-us/2025/12/18/rog-xbox-ally-handheld-essential-tips-getting-started/)
- - [Analyst firm says the games market is expected to reach a record-breaking $197 billion by the end of 2025, &#39;driven primarily by stronger-than-expected performance on PC and mobile&#39;](https://www.pcgamer.com/gaming-industry/analyst-firm-says-the-games-market-is-expected-to-reach-a-record-breaking-usd197-billion-by-the-end-of-2025-driven-primarily-by-stronger-than-expected-performance-on-pc-and-mobile/)<!-- GAME:END -->
+ - [DJI Is Unloading More Than Drones as the Osmo Pocket 3 Vlogging Camera Hits a Record Low](https://kotaku.com/dji-is-unloading-more-than-drones-as-the-osmo-pocket-3-vlogging-camera-hits-a-record-low-2000654332)
+ - [World War Z x The Walking Dead lurches onto PS5 &amp; PS4 In January](https://blog.playstation.com/2025/12/18/world-war-z-x-the-walking-dead-lurches-onto-ps5-ps4-in-january/)
+ - [The Force Awakens at 10: Its greatest sin has nothing to do with Star Wars](https://www.polygon.com/star-wars-the-force-awakens-legacy-sequels/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
