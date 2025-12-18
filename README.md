@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New third-party iOS App Stores in Japan preserve user privacy, child safety](https://appleinsider.com/articles/25/12/18/new-third-party-ios-app-stores-in-japan-preserve-user-privacy-child-safety?utm_source=rss)
- - [LG and Dolby partner to release the first FlexConnect soundbar](https://www.theverge.com/news/846608/lg-dolby-flexconnect-speakers-ces-2026)
- - [Sources: US FTC is probing Instacart&#39;s AI pricing tool, after a study showed different prices for the same items at the same stores; CART drops 8%+ after hours &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/251217/p49#a251217p49)<!-- TECH:END -->
+ - [Android 16 QPR3 finally lets you see exactly which app is tracking your location](https://www.androidauthority.com/android-16-qpr3-location-indicator-3626212/)
+ - [Apple unveils iOS changes in Japan to comply with local law, including alternative app stores and payment options, a new fee structure, and new default controls &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/251217/p50#a251217p50)
+ - [Here’s every new feature for Pixel phones in Android 16 QPR3 Beta 1](https://www.androidauthority.com/android-16-qpr3-beta-1-features-3625332/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
