@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS Blog Game of the Year 2025: The Winners](https://blog.playstation.com/2025/12/18/ps-blog-game-of-the-year-2025-the-winners/)
- - [With Total War: Warhammer 40,000, Creative Assembly is resurrecting a 16-year-old experiment, which didn&#39;t exactly go to plan last time](https://www.pcgamer.com/games/strategy/with-total-war-warhammer-40-000-creative-assembly-is-resurrecting-a-16-year-old-experiment-which-didnt-exactly-go-to-plan-last-time/)
- - [Microsoft Does Final Price Cut of Year on Xbox Controllers, Nearly 50% Off and Makes Sony’s Look Overpriced](https://kotaku.com/microsoft-does-final-price-cut-of-year-on-xbox-controllers-nearly-50-off-and-makes-sonys-look-overpriced-2000654527)<!-- GAME:END -->
+ - [Haha, You Clowns season 2 confirmed! Adult Swim renews the &#39;radically heartfelt&#39; cartoon](https://www.polygon.com/haha-you-clowns-season-2-renewed-adult-swim/)
+ - [From Our Worlds to Yours: Thank You for an Incredible 2025](https://news.xbox.com/en-us/2025/12/18/xbox-bethesda-blizzard-activision-king-2025-games-thank-you/)
+ - [The 9 best quests in Fallout history](https://www.pcgamer.com/games/rpg/the-9-best-quests-in-fallout-history/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
