@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat’s new Quick Cut stitches a video together for you](https://www.theverge.com/news/846905/snap-snapchat-quick-cut-video-editor)
- - [Billionaire Jared Isaacman confirmed as new head of NASA](https://www.theverge.com/news/846903/billionaire-jared-isaacman-confirmed-as-new-head-of-nasa)
- - [Coinbase is rolling out stock trading, more advanced trading tools, prediction markets via Kalshi, and more, amid a push to be a one-stop financial app &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251217/p47#a251217p47)<!-- TECH:END -->
+ - [New third-party iOS App Stores in Japan preserve user privacy, child safety](https://appleinsider.com/articles/25/12/18/new-third-party-ios-app-stores-in-japan-preserve-user-privacy-child-safety?utm_source=rss)
+ - [LG and Dolby partner to release the first FlexConnect soundbar](https://www.theverge.com/news/846608/lg-dolby-flexconnect-speakers-ces-2026)
+ - [Sources: US FTC is probing Instacart&#39;s AI pricing tool, after a study showed different prices for the same items at the same stores; CART drops 8%+ after hours &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/251217/p49#a251217p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
