@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ergatta Luxe Water Rower review: delivering a powerful, low-impact workout for big budgets](https://appleinsider.com/articles/25/12/17/ergatta-luxe-water-rower-review-delivering-a-powerful-low-impact-workout-for-big-budgets?utm_source=rss)
- - [Meta is testing limiting Facebook professional accounts and Pages to posting just two links per month, unless they subscribe to $14.99+/month Meta Verified &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251217/p46#a251217p46)
- - [Don’t look now, but your Pixel may be getting a surprise update](https://www.androidauthority.com/second-december-pixel-update-3626186/)<!-- TECH:END -->
+ - [Snapchat’s new Quick Cut stitches a video together for you](https://www.theverge.com/news/846905/snap-snapchat-quick-cut-video-editor)
+ - [Billionaire Jared Isaacman confirmed as new head of NASA](https://www.theverge.com/news/846903/billionaire-jared-isaacman-confirmed-as-new-head-of-nasa)
+ - [Coinbase is rolling out stock trading, more advanced trading tools, prediction markets via Kalshi, and more, amid a push to be a one-stop financial app &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251217/p47#a251217p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
