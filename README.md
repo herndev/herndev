@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tebra, which offers practice management tools for private healthcare providers, raised $250M led by Hildred, mostly in equity, to accelerate its AI capabilities &lpar;FinSMEs&rpar;](http://www.techmeme.com/251217/p54#a251217p54)
- - [Sources: General Intuition, which trains AI agents in spatial reasoning, is in late-stage talks to raise several hundred million dollars at a $2B+ valuation &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251217/p53#a251217p53)
- - [The ChatGPT app store is here](https://www.theverge.com/news/847067/openai-app-store-directory-sdk-chatgpt)<!-- TECH:END -->
+ - [Exynos 2600 specs leak: Will some Galaxy S26 models be miles behind?](https://www.androidauthority.com/exynos-2600-specs-leak-3626254/)
+ - [Wall Street clearinghouse DTCC selects the Canton Network blockchain as a real-world asset tokenization partner after receiving a No-Action Letter from the SEC &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/251218/p2#a251218p2)
+ - [India-listed RRP Semiconductor&#39;s stock surged 55,000%+ in the 20 months through Dec. 17, despite negative revenue; source: India&#39;s SEBI is examining the surge &lpar;Chiranjivi Chakraborty/Bloomberg&rpar;](http://www.techmeme.com/251218/p1#a251218p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
