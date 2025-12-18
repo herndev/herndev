@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use ChatGPT with Apple Music when search comes up short](https://appleinsider.com/inside/apple-music/tips/how-to-use-chatgpt-with-apple-music-when-search-comes-up-short?utm_source=rss)
- - [Endra, whose AI tools automate mechanical, electrical, and plumbing design for commercial buildings, raised a $20M seed led by Notion &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/251218/p30#a251218p30)
- - [Microsoft&amp;#8217;s holiday Copilot ad is wrapped in empty promises](https://www.theverge.com/report/847056/microsoft-copilot-ai-vision-pc-assistant-christmas-holiday-ad)<!-- TECH:END -->
+ - [26 practical smart home gifts that make everyday life a little easier](https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025)
+ - [Netflix&amp;#8217;s growing live TV ambitions now have a host](https://www.theverge.com/news/847394/netflix-espn-elle-duncan-live-tv-ambitions)
+ - [Edison, which last month released AI tool Kosmos to speed up and automate complex scientific hypothesis generation, raised $70M at a $250M valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/251218/p32#a251218p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
