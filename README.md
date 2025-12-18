@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy birthday](http://9gag.com/gag/agmby8n)
- - ⏩ [Damn, that&#39;s interesting](http://9gag.com/gag/aGyqY07)
- - 👉 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)<!-- MEMES:END -->
+ - 💣 [Damn, that&#39;s interesting](http://9gag.com/gag/aGyqY07)
+ - ⏩ [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)
+ - 👉 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)<!-- MEMES:END -->
 
 ---
 
