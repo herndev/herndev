@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Pinduoduo and Temu owner PDD fires dozens following a fistfight between employees and Chinese officials probing fraudulent deliveries on its platform &lpar;Bloomberg&rpar;](http://www.techmeme.com/251218/p8#a251218p8)
- - [Tim Sweeney says Fortnite will not return to iOS in Japan in 2025, as Apple is &quot;charging a competition-crushing 21% junk fee on third-party in-app payments&quot; &lpar;Tim Sweeney/@timsweeneyepic&rpar;](http://www.techmeme.com/251218/p7#a251218p7)
- - [In a letter, Rocket Internet minority shareholder Scherzer &amp; Co accuses the company of marking down startup valuations to buy out backers at &quot;bargain prices&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251218/p6#a251218p6)<!-- TECH:END -->
+ - [Filing: Sony and Tencent reach a &quot;confidential settlement&quot; over Tencent&#39;s Light of Motiram, a game that Sony alleged was a &quot;slavish clone&quot; of its Horizon series &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251218/p11#a251218p11)
+ - [Never mind the S26 Ultra, this eagerly anticipated Ultra phone is launching next week](https://www.androidauthority.com/xiaomi-17-ultra-launch-confirmed-3626261/)
+ - [Kuxiu’s S3 MagSafe power bank is bigger and better and probably won’t explode](https://www.theverge.com/reviews/846094/kuxiu-s3-solid-state-power-bank-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
