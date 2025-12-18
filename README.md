@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marathon Art Director Leaves Bungie Just Months Before Launch](https://kotaku.com/marathon-art-director-joseph-cross-leaves-bungie-2000654665)
- - [Where to find Tomo&#39;s lost cat in The Forge](https://www.pcgamer.com/roblox/the-forge-lost-cat-quest/)
- - [How to start Act 3 in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-act-3-requirements-silk-and-soul-how-to-start/)<!-- GAME:END -->
+ - [We&#39;re hitting peak saturation for first person dungeon crawlers, but Queen&#39;s Domain stands apart from the crowd](https://www.pcgamer.com/games/rpg/were-hitting-peak-saturation-for-first-person-dungeon-crawlers-but-queens-domain-stands-apart-from-the-crowd/)
+ - [Naughty Dog developers reportedly hit with mandatory overtime to finish an internal demo for its upcoming sci-fi game Intergalactic: The Heretic Prophet](https://www.pcgamer.com/games/naughty-dog-developers-reportedly-hit-with-mandatory-overtime-to-finish-an-internal-demo-for-its-upcoming-sci-fi-game-intergalactic-the-heretic-prophet/)
+ - [This birdwatching take on Pokémon Snap says my awful Junco photography is worth $6000 and I&#39;m not about to argue](https://www.pcgamer.com/games/sim/this-birdwatching-take-on-pokemon-snap-says-my-awful-junco-photography-is-worth-usd6000-and-im-not-about-to-argue/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
