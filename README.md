@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)
- - ⏩ [Business days](http://9gag.com/gag/ayNA5pb)
- - 👉 [Decided to become an artist](http://9gag.com/gag/awyDbRR)<!-- MEMES:END -->
+ - 💣 [Show me what you got!](http://9gag.com/gag/aAy7YyR)
+ - ⏩ [Epic transformation](http://9gag.com/gag/a2vVN9w)
+ - 👉 [You had none job.](http://9gag.com/gag/apRXo98)<!-- MEMES:END -->
 
 ---
 
