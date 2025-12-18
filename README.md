@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games CEO slams Japanese App Store &#39;junk fees&#39; following App Store tweaks](https://appleinsider.com/articles/25/12/18/epic-games-ceo-slams-japanese-app-store-junk-fees-following-app-store-tweaks?utm_source=rss)
- - [Imprint, which helps retailers like Brooks Brothers offer co-branded credit cards and manage loyalty programs, raised $150M led by Khosla at a $1.2B valuation &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/251218/p27#a251218p27)
- - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)<!-- TECH:END -->
+ - [‘All chaos and panic’: Nilay answers your burning Decoder questions](https://www.theverge.com/podcast/846750/decoder-mailbag-qa-nilay-patel-interview-2025)
+ - [ANBERNIC’s Game Boy-style handheld finally gets a launch date — and it’s very soon](https://www.androidauthority.com/anbernic-rg-477v-price-launch-date-3626397/)
+ - [T-Mobile Says You Can Switch in Just 15 Minutes. I Tested That Claim](https://www.wired.com/story/i-tested-t-mobile-15-minute-switch-carriers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
