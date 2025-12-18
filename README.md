@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn, that&#39;s interesting](http://9gag.com/gag/aGyqY07)
+ - 💣 [You had none job.](http://9gag.com/gag/apRXo98)
  - ⏩ [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
  - 👉 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)<!-- MEMES:END -->
 
