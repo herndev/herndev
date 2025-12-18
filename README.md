@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Epic transformation](http://9gag.com/gag/a2vVN9w)
- - ⏩ [Javier](http://9gag.com/gag/aQzKqv7)
- - 👉 [How to save The Netherlands](http://9gag.com/gag/aqyOmDM)<!-- MEMES:END -->
+ - 💣 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)
+ - ⏩ [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
+ - 👉 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)<!-- MEMES:END -->
 
 ---
 
