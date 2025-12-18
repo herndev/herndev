@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI and Anthropic will start predicting when users are underage](https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude)
- - [France charges a crew member of an Italian passenger ferry for allegedly infecting the ship with a remote access tool on behalf of a foreign power &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251218/p45#a251218p45)
- - [Hot deal: Sony WH-1000XM5 at record-low price, plus free earbuds!](https://www.androidauthority.com/sony-wh-1000xm5-free-earbuds-deal-3626524/)<!-- TECH:END -->
+ - [Memo: the TikTok US deal is set to close on Jan. 22; terms include retraining the recommendation algorithm on US user data and Oracle overseeing data protection &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251218/p49#a251218p49)
+ - [Internal memo: TikTok has signed a deal to sell its US unit; Oracle, Silver Lake, MGX will collectively own 45% of the US entity, and ByteDance will retain ~20% &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251218/p48#a251218p48)
+ - [Threads wants to be the app you can’t wait to open in the morning](https://www.theverge.com/column/847806/head-of-threads-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
