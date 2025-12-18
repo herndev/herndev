@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix hires ESPN anchor Elle Duncan as its first on-air host for live sports and cultural events; she has appeared on SportsCenter, College GameDay, and more &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251218/p36#a251218p36)
- - [The Ultra-Realistic AI Face Swapping Platform Driving Romance Scams](https://www.wired.com/story/the-ultra-realistic-ai-face-swapping-platform-driving-romance-scams/)
- - [Android 16 QPR3 introduces over 160 new emoji: Here’s every single one of them](https://www.androidauthority.com/android-16-qpr3-new-emoji-3626480/)<!-- TECH:END -->
+ - [You can now start customizing your Wear OS watch face with Androidify bots](https://www.androidauthority.com/androidify-wear-os-3626507/)
+ - [OpenAI releases GPT‑5.2-Codex, with improvements on long-horizon work through context compaction, stronger performance on large code changes, and more &lpar;OpenAI&rpar;](http://www.techmeme.com/251218/p38#a251218p38)
+ - [30 great gift ideas that should arrive in time for Christmas](https://www.theverge.com/gadgets/846378/best-last-minute-gifts-ideas-airpods-pro-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
