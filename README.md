@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Show me what you got!](http://9gag.com/gag/aAy7YyR)
+ - 💣 [You had none job.](http://9gag.com/gag/apRXo98)
  - ⏩ [Epic transformation](http://9gag.com/gag/a2vVN9w)
- - 👉 [You had none job.](http://9gag.com/gag/apRXo98)<!-- MEMES:END -->
+ - 👉 [&#39;sup, human?](http://9gag.com/gag/aO8OyMD)<!-- MEMES:END -->
 
 ---
 
