@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy birthday](http://9gag.com/gag/agmby8n)
- - ⏩ [Javier](http://9gag.com/gag/aQzKqv7)
- - 👉 [Cerro El Cono: a strange and mystical mountain deep in the Amazon](http://9gag.com/gag/aoy6zL0)<!-- MEMES:END -->
+ - 💣 [Javier](http://9gag.com/gag/aQzKqv7)
+ - ⏩ [Damn, that&#39;s interesting](http://9gag.com/gag/aGyqY07)
+ - 👉 [Epic transformation](http://9gag.com/gag/a2vVN9w)<!-- MEMES:END -->
 
 ---
 
