@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Haha, You Clowns season 2 confirmed! Adult Swim renews the &#39;radically heartfelt&#39; cartoon](https://www.polygon.com/haha-you-clowns-season-2-renewed-adult-swim/)
- - [From Our Worlds to Yours: Thank You for an Incredible 2025](https://news.xbox.com/en-us/2025/12/18/xbox-bethesda-blizzard-activision-king-2025-games-thank-you/)
- - [The 9 best quests in Fallout history](https://www.pcgamer.com/games/rpg/the-9-best-quests-in-fallout-history/)<!-- GAME:END -->
+ - [Marathon Art Director Leaves Bungie Just Months Before Launch](https://kotaku.com/marathon-art-director-joseph-cross-leaves-bungie-2000654665)
+ - [Where to find Tomo&#39;s lost cat in The Forge](https://www.pcgamer.com/roblox/the-forge-lost-cat-quest/)
+ - [How to start Act 3 in Hollow Knight: Silksong](https://www.polygon.com/hollow-knight-silksong-act-3-requirements-silk-and-soul-how-to-start/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
