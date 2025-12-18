@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now start customizing your Wear OS watch face with Androidify bots](https://www.androidauthority.com/androidify-wear-os-3626507/)
- - [OpenAI releases GPT‑5.2-Codex, with improvements on long-horizon work through context compaction, stronger performance on large code changes, and more &lpar;OpenAI&rpar;](http://www.techmeme.com/251218/p38#a251218p38)
- - [30 great gift ideas that should arrive in time for Christmas](https://www.theverge.com/gadgets/846378/best-last-minute-gifts-ideas-airpods-pro-deal-sale)<!-- TECH:END -->
+ - [Amazon rolls out Alexa+ on the web to early access users, with chat functionality, smart home controls, file management, and cross-device conversations &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251218/p40#a251218p40)
+ - [Don&#39;t Miss This Kindle Sale: Paperwhite, Colorsoft, and Accessories](https://www.wired.com/story/last-minute-christmas-kindle-sales/)
+ - [Sources: Armadin, launched by Mandiant&#39;s founder Kevin Mandia to fight AI hacking, raised a $24M seed and is in talks to raise $100M+ at a $600M+ valuation &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251218/p39#a251218p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
