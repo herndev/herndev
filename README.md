@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC Chairman Brendan Carr tells a Senate committee the FCC &quot;is not an independent agency&quot;; the agency removed &quot;independent agency&quot; from its site as he testified &lpar;Axios&rpar;](http://www.techmeme.com/251218/p15#a251218p15)
- - [Google’s making an annoying change to how you uninstall system app updates &lpar;Updated: Reverted back&rpar;](https://www.androidauthority.com/google-play-store-uninstall-button-2-3624705/)
- - [An in-depth look at a recent research paper that offered a roadmap to the viability of 3D HBM-on-GPU integration for improved AI performance and utilization &lpar;More Than Moore&rpar;](http://www.techmeme.com/251218/p14#a251218p14)<!-- TECH:END -->
+ - [Sources: Yann LeCun is in early talks to raise €500M for his startup at a ~€3B valuation, and plans to name Alexandre LeBrun as CEO, ahead of a January launch &lpar;Financial Times&rpar;](http://www.techmeme.com/251218/p16#a251218p16)
+ - [Pumped Hydro Energy Storage Is Having a Renaissance](https://www.wired.com/story/pumped-hydro-energy-storage-is-having-a-renaissance/)
+ - [As an Android fan, here’s why the iPhone 17 was 2025’s most important smartphone](https://www.androidauthority.com/iphone-17-2025-most-important-smartphone-android-fan-why-3626021/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
