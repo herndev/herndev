@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 QPR3 finally lets you see exactly which app is tracking your location](https://www.androidauthority.com/android-16-qpr3-location-indicator-3626212/)
- - [Apple unveils iOS changes in Japan to comply with local law, including alternative app stores and payment options, a new fee structure, and new default controls &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/251217/p50#a251217p50)
- - [Here’s every new feature for Pixel phones in Android 16 QPR3 Beta 1](https://www.androidauthority.com/android-16-qpr3-beta-1-features-3625332/)<!-- TECH:END -->
+ - [Pixel 10 finally gets its long-promised GPU driver upgrade, but the real test starts now](https://www.androidauthority.com/pixel-10-gpu-update-android-16-qpr3-beta-1-3626234/)
+ - [Google continues its desktop push by letting Android 16 QPR3 cast external displays](https://www.androidauthority.com/android-16-qpr3-cast-external-displays-3626239/)
+ - [Paying for YouTube Premium? Google’s giving you 40% off the Pixel 10 series](https://www.androidauthority.com/youtube-premium-pixel-10-discount-3626217/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
