@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
- - ⏩ [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)
+ - 💣 [A fumble I\u2019ll regret forever](http://9gag.com/gag/a4P8K2y)
+ - ⏩ [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
  - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
 
 ---
