@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Yann LeCun is in early talks to raise €500M for his startup at a ~€3B valuation, and plans to name Alexandre LeBrun as CEO, ahead of a January launch &lpar;Financial Times&rpar;](http://www.techmeme.com/251218/p16#a251218p16)
- - [Pumped Hydro Energy Storage Is Having a Renaissance](https://www.wired.com/story/pumped-hydro-energy-storage-is-having-a-renaissance/)
- - [As an Android fan, here’s why the iPhone 17 was 2025’s most important smartphone](https://www.androidauthority.com/iphone-17-2025-most-important-smartphone-android-fan-why-3626021/)<!-- TECH:END -->
+ - [Apple opens iOS to third-party app stores in Japan](https://www.theverge.com/news/847149/apple-third-party-app-stores-payment-processing-ios-japan)
+ - [Apple says it will roll out more App Store ads in 2026 &quot;to increase opportunity in search results&quot;; Apple&#39;s website says 800M+ users visit the App Store weekly &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/251218/p20#a251218p20)
+ - [Your Samsung phone will soon make it easier to quickly adjust this key camera setting](https://www.androidauthority.com/samsung-one-ui-8-5-beta-camera-slider-3626272/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
