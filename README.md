@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Analyst firm says the games market is expected to reach a record-breaking $197 billion by the end of 2025, &#39;driven primarily by stronger-than-expected performance on PC and mobile&#39;](https://www.pcgamer.com/gaming-industry/analyst-firm-says-the-games-market-is-expected-to-reach-a-record-breaking-usd197-billion-by-the-end-of-2025-driven-primarily-by-stronger-than-expected-performance-on-pc-and-mobile/)
- - [Pokécology, the Pokémon ecology book, is getting localized in North America](https://www.polygon.com/pokecology-pokemon-ecology-book-release-date-english-pre-order/)
- - [‘Godfather Of BioWare Design’ Steps Down At The Studio Making An Ambitious Successor To Mass Effect](https://kotaku.com/exodus-rpg-bioware-james-ohlen-wizards-hasbro-2000654313)<!-- GAME:END -->
+ - [Wikiflix offers up the classics for all to enjoy: 4,000 public domain movies from the last 100 years—and I want games to get the same treatment](https://www.pcgamer.com/hardware/wikiflix-offers-up-the-classics-for-all-to-enjoy-4-000-public-domain-movies-from-the-last-100-years-and-i-want-games-to-get-the-same-treatment/)
+ - [Welcome to Your New ROG Xbox Ally: Essential Tips for Getting Started](https://news.xbox.com/en-us/2025/12/18/rog-xbox-ally-handheld-essential-tips-getting-started/)
+ - [Analyst firm says the games market is expected to reach a record-breaking $197 billion by the end of 2025, &#39;driven primarily by stronger-than-expected performance on PC and mobile&#39;](https://www.pcgamer.com/gaming-industry/analyst-firm-says-the-games-market-is-expected-to-reach-a-record-breaking-usd197-billion-by-the-end-of-2025-driven-primarily-by-stronger-than-expected-performance-on-pc-and-mobile/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
