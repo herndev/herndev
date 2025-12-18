@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Analyst firm says the games market is expected to reach a record-breaking $197 billion by the end of 2025, &#39;driven primarily by stronger-than-expected performance on PC and mobile&#39;](https://www.pcgamer.com/gaming-industry/analyst-firm-says-the-games-market-is-expected-to-reach-a-record-breaking-usd197-billion-by-the-end-of-2025-driven-primarily-by-stronger-than-expected-performance-on-pc-and-mobile/)
  - [Pokécology, the Pokémon ecology book, is getting localized in North America](https://www.polygon.com/pokecology-pokemon-ecology-book-release-date-english-pre-order/)
- - [‘Godfather Of BioWare Design’ Steps Down At The Studio Making An Ambitious Successor To Mass Effect](https://kotaku.com/exodus-rpg-bioware-james-ohlen-wizards-hasbro-2000654313)
- - [Here Are 10 Great RPGs You Can Add To Your Collection For Surprisingly Cheap](https://kotaku.com/rpg-sale-cheap-ff12-kingdom-come-2-ps5-switch-2000653958)<!-- GAME:END -->
+ - [‘Godfather Of BioWare Design’ Steps Down At The Studio Making An Ambitious Successor To Mass Effect](https://kotaku.com/exodus-rpg-bioware-james-ohlen-wizards-hasbro-2000654313)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
