@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You had none job.](http://9gag.com/gag/apRXo98)
- - ⏩ [Epic transformation](http://9gag.com/gag/a2vVN9w)
- - 👉 [&#39;sup, human?](http://9gag.com/gag/aO8OyMD)<!-- MEMES:END -->
+ - 💣 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)
+ - ⏩ [Business days](http://9gag.com/gag/ayNA5pb)
+ - 👉 [Mother taking her baby girl for a stroll](http://9gag.com/gag/a6ZzmQm)<!-- MEMES:END -->
 
 ---
 
