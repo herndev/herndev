@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Relatable](http://9gag.com/gag/aAy7Rbg)
- - ⏩ [Happy birthday](http://9gag.com/gag/agmby8n)
- - 👉 [The Earth&#39;s rotation is truly amazing](http://9gag.com/gag/aXPz0RV)<!-- MEMES:END -->
+ - ⏩ [The Earth&#39;s rotation is truly amazing](http://9gag.com/gag/aXPz0RV)
+ - 👉 [Happy birthday](http://9gag.com/gag/agmby8n)<!-- MEMES:END -->
 
 ---
 
