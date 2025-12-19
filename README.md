@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sick of fake AI movie trailers on YouTube? There’s good news](https://www.androidauthority.com/youtube-ai-movie-trailer-channel-bansa-3626861/)
- - [Netflix acquires avatar creation platform Ready Player Me to let its subscribers carry their personas and fandoms across games; the startup raised $72M &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251219/p18#a251219p18)
- - [Australians will be soon able to use their Apple Watch hypertension notifications](https://appleinsider.com/articles/25/12/19/australians-will-be-soon-able-to-use-their-apple-watch-hypertension-notifications?utm_source=rss)<!-- TECH:END -->
+ - [Neural Concept, whose 3D product design software uses deep learning to help cut development times, raised a $100M Series C, bringing its total funding to $130M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251219/p19#a251219p19)
+ - [Netflix is acquiring an avatar company as it moves into party games](https://www.theverge.com/news/848252/netflix-avatar-company-ready-player-me-acquisition)
+ - [Don’t expect Trump Media’s nuclear fusion power plant to generate electricity soon](https://www.theverge.com/report/848205/nuclear-fusion-energy-trump-media-tae)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
