@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
- - ⏩ [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
- - 👉 [Business days](http://9gag.com/gag/ayNA5pb)<!-- MEMES:END -->
+ - 💣 [Epic transformation](http://9gag.com/gag/a2vVN9w)
+ - ⏩ [Work smarter, not harder](http://9gag.com/gag/abAoy0E)
+ - 👉 [Hope she feels okay now](http://9gag.com/gag/aPA0voV)<!-- MEMES:END -->
 
 ---
 
