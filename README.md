@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bose’s first-gen QC Ultra headphones just hit their lowest price to date](https://www.theverge.com/gadgets/846881/bose-quietcomfort-ultra-headphones-first-gen-deal-sale-2025)
- - [A Paris court rejects a French government request to suspend Shein in the country after finding illegal weapons and child-like sex dolls for sale on the site &lpar;Associated Press&rpar;](http://www.techmeme.com/251219/p17#a251219p17)
- - [Who owns Trump Mobile?](https://www.theverge.com/tech/848029/trump-mobile-ownership-structure-licensing)<!-- TECH:END -->
+ - [Sick of fake AI movie trailers on YouTube? There’s good news](https://www.androidauthority.com/youtube-ai-movie-trailer-channel-bansa-3626861/)
+ - [Netflix acquires avatar creation platform Ready Player Me to let its subscribers carry their personas and fandoms across games; the startup raised $72M &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251219/p18#a251219p18)
+ - [Australians will be soon able to use their Apple Watch hypertension notifications](https://appleinsider.com/articles/25/12/19/australians-will-be-soon-able-to-use-their-apple-watch-hypertension-notifications?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
