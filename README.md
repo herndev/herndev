@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)
- - ⏩ [Business days](http://9gag.com/gag/ayNA5pb)
- - 👉 [Mother taking her baby girl for a stroll](http://9gag.com/gag/a6ZzmQm)<!-- MEMES:END -->
+ - 💣 [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
+ - ⏩ [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
+ - 👉 [Business days](http://9gag.com/gag/ayNA5pb)<!-- MEMES:END -->
 
 ---
 
