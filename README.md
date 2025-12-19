@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Fold 8 camera specs leak, and Samsung’s finally on an upgrade streak](https://www.androidauthority.com/samsung-galaxy-z-fold-8-camera-specs-leak-3626630/)
- - [Ring Promo Codes and Discounts: Up to 50% Off](https://www.wired.com/story/ring-promo-code/)
- - [Save With a 15% Off Dyson Promo Code](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [Is that video fake? Gemini’s new update aims to solve the AI slop problem](https://www.androidauthority.com/gemini-video-synthid-detection-3626640/)
+ - [A Starlink satellite seems to have exploded](https://www.theverge.com/news/847891/a-starlink-satellite-seems-to-have-exploded)
+ - [Galaxy Z Fold 8 camera specs leak, and Samsung’s finally on an upgrade streak](https://www.androidauthority.com/samsung-galaxy-z-fold-8-camera-specs-leak-3626630/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
