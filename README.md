@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - ⏩ [Ooops](http://9gag.com/gag/aPA04GB)
- - 👉 [Business days](http://9gag.com/gag/ayNA5pb)<!-- MEMES:END -->
+ - 💣 [Business days](http://9gag.com/gag/ayNA5pb)
+ - ⏩ [Testing romance novels](http://9gag.com/gag/a879Y8e)
+ - 👉 [Ooops](http://9gag.com/gag/aPA04GB)<!-- MEMES:END -->
 
 ---
 
