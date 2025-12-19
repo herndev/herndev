@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [That Time I Got Reincarnated as a Slime season 4 gets a huge update](https://www.polygon.com/that-time-i-got-reincarnated-as-a-slime-season-4-release-date-update/)
- - [Switch 2 Dev Explains Why It’s Ditching Game Key Cards Thanks To Nintendo](https://kotaku.com/switch-2-dev-explains-why-its-ditching-game-key-cards-thanks-to-nintendo-2000654878)
- - [Avatar has eclipsed Star Wars as a family saga](https://www.polygon.com/avatar-vs-star-wars-family-themes-luke-darth-vader-jake-sully/)<!-- GAME:END -->
+ - [Today’s Wordle Made The Internet Crash Out](https://kotaku.com/wordle-word-of-the-day-today-december-19-myrrh-2000654888)
+ - [A major overhaul of League of Legends is reportedly coming in 2027: &#39;Once we&#39;re done, it should be the best time ever to get your friends into League&#39;](https://www.pcgamer.com/games/moba/a-major-overhaul-of-league-of-legends-is-reportedly-coming-in-2027-once-were-done-it-should-be-the-best-time-ever-to-get-your-friends-into-league/)
+ - [The best Xbox Game Pass games to play this weekend &lpar;Dec. 19-21 2025&rpar;](https://www.polygon.com/game-pass-games-rec-weekend-dec-19-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
