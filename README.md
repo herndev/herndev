@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - ⏩ [Innocent casualty](http://9gag.com/gag/aE0bGqo)
+ - ⏩ [Ooops](http://9gag.com/gag/aPA04GB)
  - 👉 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)<!-- MEMES:END -->
 
 ---
