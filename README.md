@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Work smarter, not harder](http://9gag.com/gag/abAoy0E)
- - ⏩ [Epic transformation](http://9gag.com/gag/a2vVN9w)
- - 👉 [I found it, S7 E8](http://9gag.com/gag/avyVZNZ)<!-- MEMES:END -->
+ - 💣 [Testing romance novels](http://9gag.com/gag/a879Y8e)
+ - ⏩ [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
+ - 👉 [Business days](http://9gag.com/gag/ayNA5pb)<!-- MEMES:END -->
 
 ---
 
