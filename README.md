@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today’s Wordle Made The Internet Crash Out](https://kotaku.com/wordle-word-of-the-day-today-december-19-myrrh-2000654888)
- - [A major overhaul of League of Legends is reportedly coming in 2027: &#39;Once we&#39;re done, it should be the best time ever to get your friends into League&#39;](https://www.pcgamer.com/games/moba/a-major-overhaul-of-league-of-legends-is-reportedly-coming-in-2027-once-were-done-it-should-be-the-best-time-ever-to-get-your-friends-into-league/)
- - [The best Xbox Game Pass games to play this weekend &lpar;Dec. 19-21 2025&rpar;](https://www.polygon.com/game-pass-games-rec-weekend-dec-19-2025/)<!-- GAME:END -->
+ - [The Running Man, One Battle After Another, and the best movies on streaming this week](https://www.polygon.com/new-movies-on-streaming-the-running-man-now-you-see-me-now-you-dont/)
+ - [Appalachia interactive map in Fallout 76](https://www.polygon.com/map/fallout-76-interactive-map-appalachia/)
+ - [Today’s Wordle Made The Internet Crash Out](https://kotaku.com/wordle-word-of-the-day-today-december-19-myrrh-2000654888)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
