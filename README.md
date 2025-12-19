@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Sam Altman&#39;s Merge Labs, which seeks to read brain activity using ultrasound, is being spun out of LA-based nonprofit Forest Neurotech &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/251219/p20#a251219p20)
- - [Deal: Get a $100 DoorDash eGift Card for just $85](https://www.androidauthority.com/doordash-egift-card-deal-3626521/)
- - [Scammers in China Are Using AI-Generated Images to Get Refunds](https://www.wired.com/story/scammers-in-china-are-using-ai-generated-images-to-get-refunds/)<!-- TECH:END -->
+ - [Google sues web scraper for sucking up search results ‘at an astonishing scale’](https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi)
+ - [California reaches a $50M settlement with Meta to resolve claims that Facebook users were misled about their ability to limit who could see personal details &lpar;The San Francisco Standard&rpar;](http://www.techmeme.com/251219/p22#a251219p22)
+ - [Google sues data scraping company SerpApi, alleging it used millions of fake search requests to access copyrighted content and sold it to third parties &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251219/p21#a251219p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
