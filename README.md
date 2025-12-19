@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Outbreak: Shades of Horror Gifts Co-op Festive Frights on Xbox Series X|S Today](https://news.xbox.com/en-us/2025/12/19/outbreak-shades-of-horror-gifts-co-op-festive-frights-on-xbox-series-xs-today/)
- - [Where to find the Bard&#39;s lost guitar in The Forge](https://www.pcgamer.com/roblox/the-forge-bards-lost-guitar-location/)
- - [Palmer Luckey’s Retro Gaming Company Is Selling A Game Boy Made Of The Same Metal As Attack Drones](https://kotaku.com/modretro-anduril-chromatic-attack-drone-metal-luckey-2000654868)<!-- GAME:END -->
+ - [Avatar has eclipsed Star Wars as a family saga](https://www.polygon.com/avatar-vs-star-wars-family-themes-luke-darth-vader-jake-sully/)
+ - [Epic ritually humiliates another Fortnite fraudster who was stealing and selling accounts](https://www.pcgamer.com/games/epic-ritually-humiliates-another-fortnite-fraudster-who-was-stealing-and-selling-accounts/)
+ - [Outbreak: Shades of Horror Gifts Co-op Festive Frights on Xbox Series X|S Today](https://news.xbox.com/en-us/2025/12/19/outbreak-shades-of-horror-gifts-co-op-festive-frights-on-xbox-series-xs-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
