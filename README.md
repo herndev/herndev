@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)
- - ⏩ [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
- - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
+ - 💣 [That girl is more composed than any adult I know](http://9gag.com/gag/aXPzpMV)
+ - ⏩ [A very tired owl at sea, comes to rest](http://9gag.com/gag/a2vVYOD)
+ - 👉 [Learn this and do it with your wife on her most stressful days, and your days will be less stressful.](http://9gag.com/gag/aKGyPEj)<!-- MEMES:END -->
 
 ---
 
