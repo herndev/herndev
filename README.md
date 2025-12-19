@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - ⏩ [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
+ - ⏩ [Ooops](http://9gag.com/gag/aPA04GB)
  - 👉 [Business days](http://9gag.com/gag/ayNA5pb)<!-- MEMES:END -->
 
 ---
