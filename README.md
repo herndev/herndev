@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You had none job.](http://9gag.com/gag/apRXo98)
+ - 💣 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)
  - ⏩ [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
  - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
 
