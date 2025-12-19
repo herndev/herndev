@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - ⏩ [Ooops](http://9gag.com/gag/aPA04GB)
- - 👉 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)<!-- MEMES:END -->
+ - 💣 [Completely normal phenomenon](http://9gag.com/gag/a7oB51L)
+ - ⏩ [Innocent casualty](http://9gag.com/gag/aE0bGqo)
+ - 👉 [Online gaming addict, finally checked out of a hotel in China after a two-year-long stay](http://9gag.com/gag/azxzEyp)<!-- MEMES:END -->
 
 ---
 
