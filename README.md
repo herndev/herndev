@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Final Cut Pro -- Apple&#39;s superb video editing suite and a huge mistake](https://appleinsider.com/articles/25/12/19/inside-final-cut-pro----apples-superb-video-editing-suite-and-a-huge-mistake?utm_source=rss)
- - [Want a Steam Deck 2? This leaked Lenovo Legion Go 2 variant could be for you](https://www.androidauthority.com/lenovo-legion-go-steamos-3626720/)
- - [YouTube is changing how the Dislike button works on Shorts](https://www.androidauthority.com/youtube-shorts-dislike-not-interested-button-3626782/)<!-- TECH:END -->
+ - [Six or seven iPhones a year, new iMac Pro, and low-cost MacBooks on the AppleInsider Podcast](https://appleinsider.com/articles/25/12/19/six-or-seven-iphones-a-year-new-imac-pro-and-low-cost-macbooks-on-the-appleinsider-podcast?utm_source=rss)
+ - [Sources: China is retrofitting older models of ASML&#39;s DUV machines to produce advanced smartphone and AI chips, exposing cracks in US-led export controls &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/251219/p9#a251219p9)
+ - [This streaming service will hit premium users with ads as soon as they open the app](https://www.androidauthority.com/peacock-premium-arrival-ads-3626767/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
