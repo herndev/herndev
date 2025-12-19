@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The wellness wild west is back on its bullshit with unapproved weight loss drugs](https://www.theverge.com/column/846406/optimizer-wellness-wild-west-glp-3-retatrutide)
- - [Brendan Carr is a dummy](https://www.theverge.com/podcast/848012/brendan-carr-fcc-dummy-free-speech-vergecast)
- - [Google Cloud and Palo Alto Networks strike a deal that a source says is Google Cloud&#39;s largest security services deal &quot;approaching $10B&quot; over several years &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/251219/p12#a251219p12)<!-- TECH:END -->
+ - [One of the last annoying side effects of the YouTube–Disney row is now fixed](https://www.androidauthority.com/google-youtube-movies-anywhere-return-3626831/)
+ - [Get Apple&#39;s 15-inch MacBook Air M4 for just $949 with delivery by Christmas](https://appleinsider.com/articles/25/12/19/get-apples-15-inch-macbook-air-m4-for-just-949-with-delivery-by-christmas?utm_source=rss)
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
