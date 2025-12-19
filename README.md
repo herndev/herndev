@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google sues web scraper for sucking up search results ‘at an astonishing scale’](https://www.theverge.com/news/848365/google-scraper-lawsuit-serpapi)
- - [California reaches a $50M settlement with Meta to resolve claims that Facebook users were misled about their ability to limit who could see personal details &lpar;The San Francisco Standard&rpar;](http://www.techmeme.com/251219/p22#a251219p22)
- - [Google sues data scraping company SerpApi, alleging it used millions of fake search requests to access copyrighted content and sold it to third parties &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251219/p21#a251219p21)<!-- TECH:END -->
+ - [The Delaware Supreme Court rules that Elon Musk&#39;s 2018 Tesla CEO pay package, worth around $56B when it vested, must be restored, ending a years-long fight &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251219/p25#a251219p25)
+ - [Samsung’s Galaxy Z Flip could be Exynos-only for the second straight year](https://www.androidauthority.com/samsung-galaxy-z-flip-8-exynos-rumor-3626906/)
+ - [We found 80 stocking stuffers under $100 that are actually useful](https://www.theverge.com/gadgets/843079/best-stocking-stuffers-christmas-ideas-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
