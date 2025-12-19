@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pennsylvania&#39;s Supreme Court rules that police can get Google search data without a warrant; an expert warns it may encourage warrantless searches nationwide &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251218/p51#a251218p51)
- - [The TikTok US sale is finally happening](https://www.theverge.com/news/847858/tiktok-sale-deal-memo-january-close)
- - [Mistral launches Mistral OCR 3, featuring improvements in processing forms, scanned documents, complex tables, and handwriting, priced at $2 per 1,000 pages &lpar;Mistral AI&rpar;](http://www.techmeme.com/251218/p50#a251218p50)<!-- TECH:END -->
+ - [Asus ProArt PA32QCV Display review: Big screen for big creative work](https://appleinsider.com/articles/25/12/19/asus-proart-pa32qcv-display-review-big-screen-for-big-creative-work?utm_source=rss)
+ - [Sources: Riot Games is working on a major overhaul of League of Legends, internally called League Next, for 2027; Riot confirms a big update is in the works &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/251218/p52#a251218p52)
+ - [Hot Damn! New Study Finds That Cursing Can Actually Improve Your Workout](https://www.cnet.com/science/swearing-cursing-improves-your-workout-study-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
