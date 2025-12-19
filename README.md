@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Ooops](http://9gag.com/gag/aPA04GB)
  - ⏩ [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - 👉 [Man approaching a pack of wolves in Yellowstone National Park.](http://9gag.com/gag/avyVgpd)<!-- MEMES:END -->
+ - 👉 [Pls never change](http://9gag.com/gag/aPA0yDw)<!-- MEMES:END -->
 
 ---
 
