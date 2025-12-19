@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump signs the annual defense bill with provisions authorizing the president to screen and restrict US financing of Chinese tech companies &lpar;Anvee Bhutani/Wall Street Journal&rpar;](http://www.techmeme.com/251218/p57#a251218p57)
  - [Samsung announces Exynos 2600: World’s first 2nm smartphone chip that might power the Galaxy S26](https://www.androidauthority.com/samsung-exynos-2600-announced-3626595/)
- - [Q&amp;A with Sam Altman on OpenAI&#39;s &quot;code red&quot; call, enterprise strategy, product ambitions, IPO plans, ChatGPT&#39;s personalization plans, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/251218/p56#a251218p56)
- - [The US Senate confirms FDIC acting chairman Travis Hill to lead the agency, which regulates stablecoin issuers and impacts how the crypto industry is banked &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/251218/p55#a251218p55)<!-- TECH:END -->
+ - [Q&amp;A with Sam Altman on OpenAI&#39;s &quot;code red&quot; call, enterprise strategy, product ambitions, IPO plans, ChatGPT&#39;s personalization plans, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/251218/p56#a251218p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
