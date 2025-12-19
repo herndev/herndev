@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - ⏩ [Innocent casualty](http://9gag.com/gag/aE0bGqo)
- - 👉 [Online gaming addict, finally checked out of a hotel in China after a two-year-long stay](http://9gag.com/gag/azxzEyp)<!-- MEMES:END -->
+ - 💣 [You had none job.](http://9gag.com/gag/apRXo98)
+ - ⏩ [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
+ - 👉 [Innocent casualty](http://9gag.com/gag/aE0bGqo)<!-- MEMES:END -->
 
 ---
 
