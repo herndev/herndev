@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Six or seven iPhones a year, new iMac Pro, and low-cost MacBooks on the AppleInsider Podcast](https://appleinsider.com/articles/25/12/19/six-or-seven-iphones-a-year-new-imac-pro-and-low-cost-macbooks-on-the-appleinsider-podcast?utm_source=rss)
- - [Sources: China is retrofitting older models of ASML&#39;s DUV machines to produce advanced smartphone and AI chips, exposing cracks in US-led export controls &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/251219/p9#a251219p9)
- - [This streaming service will hit premium users with ads as soon as they open the app](https://www.androidauthority.com/peacock-premium-arrival-ads-3626767/)<!-- TECH:END -->
+ - [The wellness wild west is back on its bullshit with unapproved weight loss drugs](https://www.theverge.com/column/846406/optimizer-wellness-wild-west-glp-3-retatrutide)
+ - [Brendan Carr is a dummy](https://www.theverge.com/podcast/848012/brendan-carr-fcc-dummy-free-speech-vergecast)
+ - [Google Cloud and Palo Alto Networks strike a deal that a source says is Google Cloud&#39;s largest security services deal &quot;approaching $10B&quot; over several years &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/251219/p12#a251219p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
