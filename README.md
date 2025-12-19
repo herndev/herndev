@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Business days](http://9gag.com/gag/ayNA5pb)
- - ⏩ [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - 👉 [Ooops](http://9gag.com/gag/aPA04GB)<!-- MEMES:END -->
+ - 💣 [Testing romance novels](http://9gag.com/gag/a879Y8e)
+ - ⏩ [Innocent casualty](http://9gag.com/gag/aE0bGqo)
+ - 👉 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)<!-- MEMES:END -->
 
 ---
 
