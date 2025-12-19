@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is that video fake? Gemini’s new update aims to solve the AI slop problem](https://www.androidauthority.com/gemini-video-synthid-detection-3626640/)
- - [A Starlink satellite seems to have exploded](https://www.theverge.com/news/847891/a-starlink-satellite-seems-to-have-exploded)
- - [Galaxy Z Fold 8 camera specs leak, and Samsung’s finally on an upgrade streak](https://www.androidauthority.com/samsung-galaxy-z-fold-8-camera-specs-leak-3626630/)<!-- TECH:END -->
+ - [Meta&#39;s head of Threads Connor Hayes says that fediverse compatibility isn&#39;t a priority for its current roadmap, but it is something that it&#39;s &quot;maintaining&quot; &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251219/p3#a251219p3)
+ - [One year on, many Android users still can’t use audio in their cars properly](https://www.androidauthority.com/google-pixel-android-car-bluetooth-audio-bug-3626636/)
+ - [Is that video fake? Gemini’s new update aims to solve the AI slop problem](https://www.androidauthority.com/gemini-video-synthid-detection-3626640/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
