@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pluribus episode 8 answered the series&#39; biggest question. Vince Gilligan explains.](https://www.polygon.com/pluribus-episode-8-recap-reveal-vince-gilligan-interview/)
- - [Getting Started with Xbox Cloud Gaming](https://news.xbox.com/en-us/2025/12/19/getting-started-with-xbox-cloud-gaming/)
- - [3 months before launch, Marathon art director Joseph Cross departs from Bungie: &#39;I&#39;m incredibly proud of the visual world we built&#39;](https://www.pcgamer.com/games/fps/marathon-art-director-joseph-cross-has-departed-bungie-im-incredibly-proud-of-the-visual-world-we-built/)<!-- GAME:END -->
+ - [Outbreak: Shades of Horror Gifts Co-op Festive Frights on Xbox Series X|S Today](https://news.xbox.com/en-us/2025/12/19/outbreak-shades-of-horror-gifts-co-op-festive-frights-on-xbox-series-xs-today/)
+ - [Where to find the Bard&#39;s lost guitar in The Forge](https://www.pcgamer.com/roblox/the-forge-bards-lost-guitar-location/)
+ - [Palmer Luckey’s Retro Gaming Company Is Selling A Game Boy Made Of The Same Metal As Attack Drones](https://kotaku.com/modretro-anduril-chromatic-attack-drone-metal-luckey-2000654868)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
