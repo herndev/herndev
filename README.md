@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar has eclipsed Star Wars as a family saga](https://www.polygon.com/avatar-vs-star-wars-family-themes-luke-darth-vader-jake-sully/)
- - [Epic ritually humiliates another Fortnite fraudster who was stealing and selling accounts](https://www.pcgamer.com/games/epic-ritually-humiliates-another-fortnite-fraudster-who-was-stealing-and-selling-accounts/)
- - [Outbreak: Shades of Horror Gifts Co-op Festive Frights on Xbox Series X|S Today](https://news.xbox.com/en-us/2025/12/19/outbreak-shades-of-horror-gifts-co-op-festive-frights-on-xbox-series-xs-today/)<!-- GAME:END -->
+ - [That Time I Got Reincarnated as a Slime season 4 gets a huge update](https://www.polygon.com/that-time-i-got-reincarnated-as-a-slime-season-4-release-date-update/)
+ - [Switch 2 Dev Explains Why It’s Ditching Game Key Cards Thanks To Nintendo](https://kotaku.com/switch-2-dev-explains-why-its-ditching-game-key-cards-thanks-to-nintendo-2000654878)
+ - [Avatar has eclipsed Star Wars as a family saga](https://www.polygon.com/avatar-vs-star-wars-family-themes-luke-darth-vader-jake-sully/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
