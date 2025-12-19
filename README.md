@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Epic transformation](http://9gag.com/gag/a2vVN9w)
- - ⏩ [Work smarter, not harder](http://9gag.com/gag/abAoy0E)
- - 👉 [Hope she feels okay now](http://9gag.com/gag/aPA0voV)<!-- MEMES:END -->
+ - 💣 [Five out of six scientists agree this is safe](http://9gag.com/gag/aLn3QRW)
+ - ⏩ [When impatience literally blows up in your face](http://9gag.com/gag/aO8OKeN)
+ - 👉 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)<!-- MEMES:END -->
 
 ---
 
