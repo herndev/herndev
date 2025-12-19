@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Delaware Supreme Court rules that Elon Musk&#39;s 2018 Tesla CEO pay package, worth around $56B when it vested, must be restored, ending a years-long fight &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251219/p25#a251219p25)
- - [Samsung’s Galaxy Z Flip could be Exynos-only for the second straight year](https://www.androidauthority.com/samsung-galaxy-z-flip-8-exynos-rumor-3626906/)
- - [We found 80 stocking stuffers under $100 that are actually useful](https://www.theverge.com/gadgets/843079/best-stocking-stuffers-christmas-ideas-2025)<!-- TECH:END -->
+ - [The Samsung Odyssey Ark is the most impressive monitor, and it’s over half off!](https://www.androidauthority.com/samsung-odyssey-ark-55-inch-monitor-deal-3626896/)
+ - [Did a publisher’s slip-up reveal smaller Switch 2 cartridges?](https://www.theverge.com/news/848462/nintendo-switch-2-smaller-cartridges-inin-games)
+ - [Gemini isn’t replacing Google Assistant on Android just yet](https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
