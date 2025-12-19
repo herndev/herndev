@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 50 best games of 2025](https://www.polygon.com/best-games-2025/)
- - [Brennan&#39;s latest trick on Critical Role is actually one he&#39;s done before—breaking with D&amp;D tradition to let players choose when they level up, instead of just after they&#39;ve taken a really good nap](https://www.pcgamer.com/games/rpg/brennans-latest-trick-on-critical-role-is-actually-one-hes-done-before-breaking-with-d-and-d-tradition-to-let-players-choose-when-they-level-up-instead-of-just-after-theyve-taken-a-really-good-nap/)
- - [Clair Obscur, Blue Prince, and more: Indie Game Awards 2025 full winners list](https://www.polygon.com/indie-game-awards-2025-winners-list/)<!-- GAME:END -->
+ - [Anker Goes on Clearance With Its Power Bank, the New 20,100mAh Charger Drops to Its Lowest Price](https://kotaku.com/anker-goes-on-clearance-with-its-power-bank-the-new-20100mah-charger-drops-to-its-lowest-price-2000654681)
+ - [The 15 Best Christmas Songs Ever](https://kotaku.com/best-christmas-songs-ever-top-15-santa-2000654678)
+ - [2025 was the year the bottom fell out of the Marvel Cinematic Universe](https://www.polygon.com/2025-marvel-cinematic-universe-box-office/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
