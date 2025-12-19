@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s head of Threads Connor Hayes says that fediverse compatibility isn&#39;t a priority for its current roadmap, but it is something that it&#39;s &quot;maintaining&quot; &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251219/p3#a251219p3)
- - [One year on, many Android users still can’t use audio in their cars properly](https://www.androidauthority.com/google-pixel-android-car-bluetooth-audio-bug-3626636/)
- - [Is that video fake? Gemini’s new update aims to solve the AI slop problem](https://www.androidauthority.com/gemini-video-synthid-detection-3626640/)<!-- TECH:END -->
+ - [Coinbase sues Connecticut, Illinois and Michigan over state attempts to regulate prediction markets, arguing that they fall under the jurisdiction of the CFTC &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251219/p5#a251219p5)
+ - [Sources: UK officials believe China was behind the October cyber attack on the UK&#39;s Foreign Office, which aimed to access tens of thousands of sensitive files &lpar;Financial Times&rpar;](http://www.techmeme.com/251219/p4#a251219p4)
+ - [Your favorite ChatGPT chats may soon be much easier to access on Android](https://www.androidauthority.com/chatgpt-android-homescreen-shortcuts-3626682/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
