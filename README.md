@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Anker Goes on Clearance With Its Power Bank, the New 20,100mAh Charger Drops to Its Lowest Price](https://kotaku.com/anker-goes-on-clearance-with-its-power-bank-the-new-20100mah-charger-drops-to-its-lowest-price-2000654681)
- - [The 15 Best Christmas Songs Ever](https://kotaku.com/best-christmas-songs-ever-top-15-santa-2000654678)
- - [2025 was the year the bottom fell out of the Marvel Cinematic Universe](https://www.polygon.com/2025-marvel-cinematic-universe-box-office/)<!-- GAME:END -->
+ - [Assassin&#39;s Creed Shadows didn&#39;t win at the Game Awards, but Ubisoft still considers it a victory](https://www.polygon.com/assassins-creed-shadows-accessibility-interview/)
+ - [DJI Mini 3 4K Drops to Record Low, 2x Cheaper Than New DJI Drone and Costs What No-Name Options Do](https://kotaku.com/dji-mini-3-4k-drops-to-record-low-2x-cheaper-than-new-dji-drone-and-costs-what-no-name-options-do-2000654817)
+ - [Xbox Goes No-Margin on Its Wireless Gaming Controller, Elite Series 2 Core Drops to an All-Time Low to Compete With Playstation](https://kotaku.com/xbox-goes-no-margin-on-its-wireless-gaming-controller-elite-series-2-core-drops-to-an-all-time-low-to-compete-with-playstation-2000654709)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
