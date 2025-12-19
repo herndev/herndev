@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`BuT tHeN yOu HaVe To PaY fOr SoMeOnE eLsE&#39;s KiD`](http://9gag.com/gag/aW4A03Z)
- - ⏩ [Epic transformation](http://9gag.com/gag/a2vVN9w)
- - 👉 [Hope she feels okay now](http://9gag.com/gag/aPA0voV)<!-- MEMES:END -->
+ - 💣 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
+ - ⏩ [I dio miss the old days](http://9gag.com/gag/a0eG9gq)
+ - 👉 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)<!-- MEMES:END -->
 
 ---
 
