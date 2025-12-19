@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Days after launching their first indie game, everyone responsible for publishing it was laid off: &#39;We had a Slack channel with everyone in it, and then you see them leaving one by one&#39;](https://www.pcgamer.com/gaming-industry/days-after-launching-their-first-indie-game-everyone-responsible-for-publishing-it-was-laid-off-we-had-a-slack-channel-with-everyone-in-it-and-then-you-see-them-leaving-one-by-one/)
  - [We&#39;re hitting peak saturation for first person dungeon crawlers, but Queen&#39;s Domain stands apart from the crowd](https://www.pcgamer.com/games/rpg/were-hitting-peak-saturation-for-first-person-dungeon-crawlers-but-queens-domain-stands-apart-from-the-crowd/)
- - [Naughty Dog developers reportedly hit with mandatory overtime to finish an internal demo for its upcoming sci-fi game Intergalactic: The Heretic Prophet](https://www.pcgamer.com/games/naughty-dog-developers-reportedly-hit-with-mandatory-overtime-to-finish-an-internal-demo-for-its-upcoming-sci-fi-game-intergalactic-the-heretic-prophet/)
- - [This birdwatching take on Pokémon Snap says my awful Junco photography is worth $6000 and I&#39;m not about to argue](https://www.pcgamer.com/games/sim/this-birdwatching-take-on-pokemon-snap-says-my-awful-junco-photography-is-worth-usd6000-and-im-not-about-to-argue/)<!-- GAME:END -->
+ - [Naughty Dog developers reportedly hit with mandatory overtime to finish an internal demo for its upcoming sci-fi game Intergalactic: The Heretic Prophet](https://www.pcgamer.com/games/naughty-dog-developers-reportedly-hit-with-mandatory-overtime-to-finish-an-internal-demo-for-its-upcoming-sci-fi-game-intergalactic-the-heretic-prophet/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
