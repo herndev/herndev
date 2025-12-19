@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of the last annoying side effects of the YouTube–Disney row is now fixed](https://www.androidauthority.com/google-youtube-movies-anywhere-return-3626831/)
- - [Get Apple&#39;s 15-inch MacBook Air M4 for just $949 with delivery by Christmas](https://appleinsider.com/articles/25/12/19/get-apples-15-inch-macbook-air-m4-for-just-949-with-delivery-by-christmas?utm_source=rss)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
+ - [Bose’s first-gen QC Ultra headphones just hit their lowest price to date](https://www.theverge.com/gadgets/846881/bose-quietcomfort-ultra-headphones-first-gen-deal-sale-2025)
+ - [A Paris court rejects a French government request to suspend Shein in the country after finding illegal weapons and child-like sex dolls for sale on the site &lpar;Associated Press&rpar;](http://www.techmeme.com/251219/p17#a251219p17)
+ - [Who owns Trump Mobile?](https://www.theverge.com/tech/848029/trump-mobile-ownership-structure-licensing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
