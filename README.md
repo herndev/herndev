@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can&#39;t fall asleep](http://9gag.com/gag/ary0eq0)
- - ⏩ [I dio miss the old days](http://9gag.com/gag/a0eG9gq)
- - 👉 [A very good English teacher, aham...](http://9gag.com/gag/azxzbZj)<!-- MEMES:END -->
+ - 💣 [Work smarter, not harder](http://9gag.com/gag/abAoy0E)
+ - ⏩ [Epic transformation](http://9gag.com/gag/a2vVN9w)
+ - 👉 [I found it, S7 E8](http://9gag.com/gag/avyVZNZ)<!-- MEMES:END -->
 
 ---
 
