@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The administrator winding down Do Kwon&#39;s Terraform Labs sues Jump Trading for $4B, alleging it unlawfully profited from and contributed to Terraform&#39;s collapse &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/251219/p1#a251219p1)
- - [Trump signs the annual defense bill with provisions authorizing the president to screen and restrict US financing of Chinese tech companies &lpar;Anvee Bhutani/Wall Street Journal&rpar;](http://www.techmeme.com/251218/p57#a251218p57)
- - [Samsung announces Exynos 2600: World’s first 2nm smartphone chip that might power the Galaxy S26](https://www.androidauthority.com/samsung-exynos-2600-announced-3626595/)<!-- TECH:END -->
+ - [NotebookLM just gained a big feature for more digestible insights](https://www.androidauthority.com/notebooklm-data-table-support-3626612/)
+ - [Samsung unveils the Exynos 2600, the world&#39;s first smartphone SoC built on a 2nm Gate-All-Around process, expected to power some Galaxy S26 and S26 Plus models &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/251219/p2#a251219p2)
+ - [The administrator winding down Do Kwon&#39;s Terraform Labs sues Jump Trading for $4B, alleging it unlawfully profited from and contributed to Terraform&#39;s collapse &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/251219/p1#a251219p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
