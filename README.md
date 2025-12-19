@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best anime shows and movies of 2025, ranked](https://www.polygon.com/the-best-anime-of-2025-mha-solo-leveling-dandadan-demon-slayer/)
- - [The Journey of BlazBlue Entropy Effect X](https://news.xbox.com/en-us/2025/12/19/the-journey-of-blazblue-entropy-effect-x/)
- - [Steve Rogers is back in Avengers: Doomsday&#39;s first teaser](https://www.polygon.com/chris-evans-steve-rogers-avengers-doomsday-teaser/)<!-- GAME:END -->
+ - [Who is Fern? Fionna and Cake resurrects Adventure Time&#39;s most tragic villain](https://www.polygon.com/fionna-and-cake-episode-9-character-explained/)
+ - [All wild zones in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-wild-zones-list-unlock/)
+ - [The New Voice Of Lara Croft Is Dreading A Repeat Of Perfect Dark](https://kotaku.com/lara-croft-tomb-raider-remake-voice-actor-2000654843)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
