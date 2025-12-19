@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Who is Fern? Fionna and Cake resurrects Adventure Time&#39;s most tragic villain](https://www.polygon.com/fionna-and-cake-episode-9-character-explained/)
- - [All wild zones in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-wild-zones-list-unlock/)
- - [The New Voice Of Lara Croft Is Dreading A Repeat Of Perfect Dark](https://kotaku.com/lara-croft-tomb-raider-remake-voice-actor-2000654843)<!-- GAME:END -->
+ - [Pluribus episode 8 answered the series&#39; biggest question. Vince Gilligan explains.](https://www.polygon.com/pluribus-episode-8-recap-reveal-vince-gilligan-interview/)
+ - [Getting Started with Xbox Cloud Gaming](https://news.xbox.com/en-us/2025/12/19/getting-started-with-xbox-cloud-gaming/)
+ - [3 months before launch, Marathon art director Joseph Cross departs from Bungie: &#39;I&#39;m incredibly proud of the visual world we built&#39;](https://www.pcgamer.com/games/fps/marathon-art-director-joseph-cross-has-departed-bungie-im-incredibly-proud-of-the-visual-world-we-built/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
