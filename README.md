@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Avatar Game Is So Good, They Don’t Need to Make the Movies Anymore](https://www.wired.com/story/the-avatar-video-game-is-so-good-they-dont-need-to-make-the-movies/)
- - [iPhone Fold vs Galaxy Z Fold 7: Leaked dimensions reveal a battle of shapes](https://www.androidauthority.com/apple-iphone-fold-leaked-dimensions-schematics-3626689/)
- - [5 Android phones you should buy instead of the OnePlus 15R](https://www.androidauthority.com/oneplus-15r-alternatives-3626158/)<!-- TECH:END -->
+ - [Inside Final Cut Pro -- Apple&#39;s superb video editing suite and a huge mistake](https://appleinsider.com/articles/25/12/19/inside-final-cut-pro----apples-superb-video-editing-suite-and-a-huge-mistake?utm_source=rss)
+ - [Want a Steam Deck 2? This leaked Lenovo Legion Go 2 variant could be for you](https://www.androidauthority.com/lenovo-legion-go-steamos-3626720/)
+ - [YouTube is changing how the Dislike button works on Shorts](https://www.androidauthority.com/youtube-shorts-dislike-not-interested-button-3626782/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
