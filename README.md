@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Clair Obscur, Blue Prince, and more: Indie Game Awards 2025 full winners list](https://www.polygon.com/indie-game-awards-2025-winners-list/)
- - [Apple Goes to Record Low on AirPods Pro 3 via Amazon, Now Cheaper Than Your Old Pro 2](https://kotaku.com/apple-goes-to-record-low-on-airpods-pro-3-via-amazon-now-cheaper-than-your-old-pro-2-2000654722)
- - [Days after launching their first indie game, everyone responsible for publishing it was laid off: &#39;We had a Slack channel with everyone in it, and then you see them leaving one by one&#39;](https://www.pcgamer.com/gaming-industry/days-after-launching-their-first-indie-game-everyone-responsible-for-publishing-it-was-laid-off-we-had-a-slack-channel-with-everyone-in-it-and-then-you-see-them-leaving-one-by-one/)<!-- GAME:END -->
+ - [The 50 best games of 2025](https://www.polygon.com/best-games-2025/)
+ - [Brennan&#39;s latest trick on Critical Role is actually one he&#39;s done before—breaking with D&amp;D tradition to let players choose when they level up, instead of just after they&#39;ve taken a really good nap](https://www.pcgamer.com/games/rpg/brennans-latest-trick-on-critical-role-is-actually-one-hes-done-before-breaking-with-d-and-d-tradition-to-let-players-choose-when-they-level-up-instead-of-just-after-theyve-taken-a-really-good-nap/)
+ - [Clair Obscur, Blue Prince, and more: Indie Game Awards 2025 full winners list](https://www.polygon.com/indie-game-awards-2025-winners-list/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
