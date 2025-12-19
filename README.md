@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase sues Connecticut, Illinois and Michigan over state attempts to regulate prediction markets, arguing that they fall under the jurisdiction of the CFTC &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251219/p5#a251219p5)
- - [Sources: UK officials believe China was behind the October cyber attack on the UK&#39;s Foreign Office, which aimed to access tens of thousands of sensitive files &lpar;Financial Times&rpar;](http://www.techmeme.com/251219/p4#a251219p4)
- - [Your favorite ChatGPT chats may soon be much easier to access on Android](https://www.androidauthority.com/chatgpt-android-homescreen-shortcuts-3626682/)<!-- TECH:END -->
+ - [The Avatar Game Is So Good, They Don’t Need to Make the Movies Anymore](https://www.wired.com/story/the-avatar-video-game-is-so-good-they-dont-need-to-make-the-movies/)
+ - [iPhone Fold vs Galaxy Z Fold 7: Leaked dimensions reveal a battle of shapes](https://www.androidauthority.com/apple-iphone-fold-leaked-dimensions-schematics-3626689/)
+ - [5 Android phones you should buy instead of the OnePlus 15R](https://www.androidauthority.com/oneplus-15r-alternatives-3626158/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
