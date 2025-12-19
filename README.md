@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus ProArt PA32QCV Display review: Big screen for big creative work](https://appleinsider.com/articles/25/12/19/asus-proart-pa32qcv-display-review-big-screen-for-big-creative-work?utm_source=rss)
- - [Sources: Riot Games is working on a major overhaul of League of Legends, internally called League Next, for 2027; Riot confirms a big update is in the works &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/251218/p52#a251218p52)
- - [Hot Damn! New Study Finds That Cursing Can Actually Improve Your Workout](https://www.cnet.com/science/swearing-cursing-improves-your-workout-study-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US Senate confirms FDIC acting chairman Travis Hill to lead the agency, which regulates stablecoin issuers and impacts how the crypto industry is banked &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/251218/p55#a251218p55)
+ - [US investors to close deal on 50% ownership of TikTok January 22](https://appleinsider.com/articles/25/12/19/us-investors-to-close-deal-on-50-ownership-of-tiktok-january-22?utm_source=rss)
+ - [The US Senate confirms Trump pick Michael Selig as chairman of the CFTC, as lawmakers consider legislation to give the agency more control over digital assets &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/251218/p54#a251218p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
