@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Damon and Baby preview: A devilishly good top-down shooter](https://www.polygon.com/damon-and-baby-preview/)
- - [JBL Breaks Its Pricing Rules on the Clip 5 Speaker, Basically Giving It Away as a Christmas Deal](https://kotaku.com/jbl-breaks-its-pricing-rules-on-the-clip-5-speaker-basically-giving-it-away-as-a-christmas-deal-2000654316)
- - [This New Version Of KPop Demon Hunters’ Best Song Has An Incredible, Surprising Twist](https://kotaku.com/kpop-demon-hunters-what-it-sounds-like-demo-ejae-free-2000654832)<!-- GAME:END -->
+ - [The best anime shows and movies of 2025, ranked](https://www.polygon.com/the-best-anime-of-2025-mha-solo-leveling-dandadan-demon-slayer/)
+ - [The Journey of BlazBlue Entropy Effect X](https://news.xbox.com/en-us/2025/12/19/the-journey-of-blazblue-entropy-effect-x/)
+ - [Steve Rogers is back in Avengers: Doomsday&#39;s first teaser](https://www.polygon.com/chris-evans-steve-rogers-avengers-doomsday-teaser/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
