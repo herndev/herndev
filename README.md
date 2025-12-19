@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin&#39;s Creed Shadows didn&#39;t win at the Game Awards, but Ubisoft still considers it a victory](https://www.polygon.com/assassins-creed-shadows-accessibility-interview/)
- - [DJI Mini 3 4K Drops to Record Low, 2x Cheaper Than New DJI Drone and Costs What No-Name Options Do](https://kotaku.com/dji-mini-3-4k-drops-to-record-low-2x-cheaper-than-new-dji-drone-and-costs-what-no-name-options-do-2000654817)
- - [Xbox Goes No-Margin on Its Wireless Gaming Controller, Elite Series 2 Core Drops to an All-Time Low to Compete With Playstation](https://kotaku.com/xbox-goes-no-margin-on-its-wireless-gaming-controller-elite-series-2-core-drops-to-an-all-time-low-to-compete-with-playstation-2000654709)<!-- GAME:END -->
+ - [Damon and Baby preview: A devilishly good top-down shooter](https://www.polygon.com/damon-and-baby-preview/)
+ - [JBL Breaks Its Pricing Rules on the Clip 5 Speaker, Basically Giving It Away as a Christmas Deal](https://kotaku.com/jbl-breaks-its-pricing-rules-on-the-clip-5-speaker-basically-giving-it-away-as-a-christmas-deal-2000654316)
+ - [This New Version Of KPop Demon Hunters’ Best Song Has An Incredible, Surprising Twist](https://kotaku.com/kpop-demon-hunters-what-it-sounds-like-demo-ejae-free-2000654832)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
