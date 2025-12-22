@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo resumes robotaxi service in San Francisco after a blackout, and says most active trips were completed before vehicles returned to depots or pulled over &lpar;CNBC&rpar;](http://www.techmeme.com/251221/p18#a251221p18)
- - [Uber plans to trial driverless taxis in London using Baidu&#39;s Apollo Go RT6 robotaxis, starting in H1 2026 with services available by the end of 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251221/p17#a251221p17)
- - [The internet just made a 300TB copy of Spotify!](https://www.androidauthority.com/spotify-annas-archive-3627023/)<!-- TECH:END -->
+ - [Adam Mosseri says &quot;maybe we&#39;ll need&quot; premium longform video for Instagram, and that TikTok&#39;s US sale turmoil has given Meta time to retune algorithms &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/251222/p1#a251222p1)
+ - [Google’s Gemini is about to make its home appliance debut](https://www.androidauthority.com/google-gemini-home-appliances-3627029/)
+ - [Waymo resumes robotaxi service in San Francisco after a blackout, and says most active trips were completed before vehicles returned to depots or pulled over &lpar;CNBC&rpar;](http://www.techmeme.com/251221/p18#a251221p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
