@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Send help?](http://9gag.com/gag/aQzK91K)
- - ⏩ [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
- - 👉 [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)<!-- MEMES:END -->
+ - 💣 [Out of all the people, I didn&#39;t think he would be in the files. I really used to look up to him.](http://9gag.com/gag/azxzA4p)
+ - ⏩ [Send help?](http://9gag.com/gag/aQzK91K)
+ - 👉 [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)<!-- MEMES:END -->
 
 ---
 
