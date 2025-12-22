@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The internet just made a 300TB copy of Spotify! &lpar;Updated: Spotify reaction&rpar;](https://www.androidauthority.com/spotify-annas-archive-3627023/)
- - [Google&#39;s TPUs and Gemini are competitive but Nvidia&#39;s and OpenAI&#39;s first-mover advantage makes their lead seem durable, and Google faces the innovator&#39;s dilemma &lpar;SiliconANGLE&rpar;](http://www.techmeme.com/251222/p6#a251222p6)
- - [Breaking: The second One UI 8.5 beta is now rolling out](https://www.androidauthority.com/second-samsung-one-ui-8-5-beta-3627032/)<!-- TECH:END -->
+ - [OnePlus may be crafting a ‘people’s phone’ with a massive 9,000mAh battery](https://www.androidauthority.com/oneplus-volkswagen-9000-mah-leak-3627115/)
+ - [Some Galaxy S26 models might be more power-hungry in one area](https://www.androidauthority.com/samsung-galaxy-s26-exynos-modem-design-3627085/)
+ - [Another Android gaming handheld feels the impact of soaring RAM costs](https://www.androidauthority.com/retroid-pocket-6-lost-early-bird-price-ram-cost-3627138/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
