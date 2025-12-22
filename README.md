@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two 200MP cameras and a 10x camera! This is the Ultra phone to end all Ultra phones.](https://www.androidauthority.com/ultra-phone-10x-camera-200mp-3627039/)
- - [Q&amp;A with iRobot co-founder Colin Angle on the company&#39;s Chapter 11 bankruptcy, regulatory pressure that killed Amazon&#39;s deal, his new robotics startup, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/251222/p2#a251222p2)
- - [Grab Apple&#39;s M4 MacBook Air for $749, laptops start at just $429](https://appleinsider.com/articles/25/12/17/grab-apples-m4-macbook-air-for-749-laptops-start-at-just-409?utm_source=rss)<!-- TECH:END -->
+ - [Waiting for Galaxy S26? You’ll have to keep waiting](https://www.androidauthority.com/samsung-galaxy-s26-market-release-rumor-3627052/)
+ - [A look at stablecoin-powered neobanks like Rizon and Dakota that are offering dollar-denominated digital banking services to customers worldwide &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251222/p3#a251222p3)
+ - [Android Auto’s music player is about to look a lot more expressive](https://www.androidauthority.com/android-auto-wavy-progress-bar-apk-teardown-3627067/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
