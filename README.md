@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pls never change](http://9gag.com/gag/aPA0yDw)
- - ⏩ [Testing romance novels](http://9gag.com/gag/a879Y8e)
- - 👉 [In 1916, during World War I, Romania sent its gold treasury to Moscow, for protection. 91.48 tons of bullion and gold coin. For over 100 years, the russians pretend like it never happened.](http://9gag.com/gag/aRBGgWQ)<!-- MEMES:END -->
+ - 💣 [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
+ - ⏩ [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
+ - 👉 [If they new, they would suicide themselves](http://9gag.com/gag/aAy7P1p)<!-- MEMES:END -->
 
 ---
 
