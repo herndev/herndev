@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin does cultural diplomacy in a dive bar](https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar)
- - [The Justice Department Just Released More Epstein Files](https://www.wired.com/story/the-justice-department-just-released-more-epstein-files/)
- - [iPhone XS, iPhone XR, Apple TV HD get critical security updates](https://appleinsider.com/articles/25/12/22/iphone-xs-iphone-xr-apple-tv-hd-get-critical-security-updates?utm_source=rss)<!-- TECH:END -->
+ - [Call of Duty, Titanfall developer Vince Zampella has died at age 55](https://www.theverge.com/news/849297/vince-zampella-dies-call-of-duty-titanfall-respawn-battlefield)
+ - [Vince Zampella, former CEO of Infinity Ward, the studio behind Call of Duty, died Sunday at 55 in a single-car crash in Southern California &lpar;NBC Los Angeles&rpar;](http://www.techmeme.com/251222/p22#a251222p22)
+ - [Find Hub is finally starting to take proper advantage of Google Maps &lpar;Updated&rpar;](https://www.androidauthority.com/find-hub-maps-3625771/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
