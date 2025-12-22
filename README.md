@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Running Man, One Battle After Another, and the best movies on streaming this week](https://www.polygon.com/new-movies-on-streaming-the-running-man-now-you-see-me-now-you-dont/)
- - [Appalachia interactive map in Fallout 76](https://www.polygon.com/map/fallout-76-interactive-map-appalachia/)
- - [Today’s Wordle Made The Internet Crash Out](https://kotaku.com/wordle-word-of-the-day-today-december-19-myrrh-2000654888)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;December 22, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-december-22-2025/)
+ - [You might think reimagining Washington DC as a nuclear hellscape for Fallout 3 would have been grim, but it made the lead designer want to set the next game in his hometown: &#39;It&#39;s just kind of fun to blow things up&#39;](https://www.pcgamer.com/games/fallout/you-might-think-reimagining-washington-dc-as-a-nuclear-hellscape-for-fallout-3-would-have-been-grim-but-it-made-the-lead-designer-want-to-set-the-next-game-in-his-hometown-its-just-kind-of-fun-to-blow-things-up/)
+ - [There&#39;s a Transformers XCOM-like on Steam, and it&#39;s on sale for 90% off before it gets delisted](https://www.pcgamer.com/games/strategy/theres-a-transformers-xcom-like-on-steam-and-its-on-sale-for-90-percent-off-before-it-gets-delisted/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
