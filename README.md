@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new CES teaser does not feature the hardware you were hoping for](https://www.androidauthority.com/samsung-ces-teaser-3627284/)
- - [The Beats Studio Pro headphones are $200 off today](https://www.theverge.com/gadgets/849065/beats-headphones-pixel-10-paperwhite-deals-sales)
- - [Samsung’s latest One UI 8.5 beta brings back missing camera features](https://www.androidauthority.com/samsung-one-ui-8-5-camera-features-3627297/)<!-- TECH:END -->
+ - [Italy&#39;s competition watchdog fines Apple €98.6M, saying the company&#39;s ATT rules are &quot;disproportionate&quot; and &quot;harmful&quot; to app developers and advertisers &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/251222/p18#a251222p18)
+ - [Sources: Erebor, Palmer Luckey&#39;s digital bank, raised $350M led by Lux Capital at a $4.35B post-money valuation; it secured FDIC approval last week &lpar;Axios&rpar;](http://www.techmeme.com/251222/p17#a251222p17)
+ - [Netflix doesn&amp;#8217;t stream its &amp;#8216;Originals&amp;#8217; forever, here are some that may leave in 2026](https://www.theverge.com/news/849044/netflix-original-leaving-streaming-platform-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
