@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Switch emulator just got a big performance-focused update](https://www.androidauthority.com/eden-switch-emulator-v-0-0-4-3627246/)
- - [The Doomsday Glacier Is Getting Closer and Closer to Irreversible Collapse](https://www.wired.com/story/the-doomsday-glacier-is-getting-closer-and-closer-to-irreversible-collapse/)
- - [Upcoming Android handheld with a premium 7-inch OLED pairs exciting specs with a tempting color](https://www.androidauthority.com/mangmi-pocket-max-retro-gaming-premium-7-inch-oled-3627182/)<!-- TECH:END -->
+ - [Chipwrecked](https://www.theverge.com/ai-artificial-intelligence/848988/nvidia-chip-loans-coreweave-gpu-debt-ai-neocloud)
+ - [Apple COO Sabih Khan tells China the company is committed to long-term partnerships](https://appleinsider.com/articles/25/12/22/apple-coo-sabih-khan-tells-china-the-company-is-committed-to-long-term-partnerships?utm_source=rss)
+ - [Resideo&#39;s Scott Harkins talks about the new Honeywell Home X8S on HomeKit Insider](https://appleinsider.com/articles/25/12/22/resideos-scott-harkins-talks-about-the-new-honeywell-home-x8s-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
