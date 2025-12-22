@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HelloFresh Meal Kit&#39;s Discount Code for December 2025 Unlocks a Free Zwilling Knife](https://www.wired.com/story/hellofresh-zwilling-chef-knife-deal/)
- - [Sources: Nvidia&#39;s DGX Cloud is merging with the engineering unit, pivoting from selling cloud services to enterprises to supporting internal AI development &lpar;The Information&rpar;](http://www.techmeme.com/251222/p23#a251222p23)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 23, #1648](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-23-1648/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Coinbase agrees to acquire prediction markets startup The Clearing Company for an undisclosed sum; the startup was founded in 2025 and raised a $15M seed &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/251222/p24#a251222p24)
+ - [Echo Auto $14.99 deal: Alexa, let’s go on a road trip](https://www.androidauthority.com/amazon-echo-auto-deal-4-3627319/)
+ - [6 Best Dehumidifiers to Keep Your Home Mold-Free &lpar;2026&rpar;](https://www.wired.com/gallery/best-dehumidifier/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
