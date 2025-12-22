@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)
- - ⏩ [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
- - 👉 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)<!-- MEMES:END -->
+ - 💣 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
+ - ⏩ [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
+ - 👉 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)<!-- MEMES:END -->
 
 ---
 
