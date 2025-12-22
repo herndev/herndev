@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waiting for Galaxy S26? You’ll have to keep waiting](https://www.androidauthority.com/samsung-galaxy-s26-market-release-rumor-3627052/)
- - [A look at stablecoin-powered neobanks like Rizon and Dakota that are offering dollar-denominated digital banking services to customers worldwide &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251222/p3#a251222p3)
- - [Android Auto’s music player is about to look a lot more expressive](https://www.androidauthority.com/android-auto-wavy-progress-bar-apk-teardown-3627067/)<!-- TECH:END -->
+ - [The internet just made a 300TB copy of Spotify! &lpar;Updated: Spotify reaction&rpar;](https://www.androidauthority.com/spotify-annas-archive-3627023/)
+ - [Google&#39;s TPUs and Gemini are competitive but Nvidia&#39;s and OpenAI&#39;s first-mover advantage makes their lead seem durable, and Google faces the innovator&#39;s dilemma &lpar;SiliconANGLE&rpar;](http://www.techmeme.com/251222/p6#a251222p6)
+ - [Breaking: The second One UI 8.5 beta is now rolling out](https://www.androidauthority.com/second-samsung-one-ui-8-5-beta-3627032/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
