@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Carol’s board game collection in Pluribus is terrible. We’re here to help.](https://www.polygon.com/pluribus-episode-8-board-game-recommendations/)
- - [Since everyone got mad about yellow paint again this year, here are 5 alternatives I propose to help players find their way around in 2026](https://www.pcgamer.com/games/since-everyone-got-mad-about-yellow-paint-again-this-year-here-are-5-alternatives-i-propose-to-help-players-find-their-way-around-in-2026/)
- - [This Ryzen 5 PRO Mini PC Crashes to a Record Low in a Year-End Clearance After Staying Full Price on Black Friday](https://kotaku.com/this-ryzen-5-pro-mini-pc-crashes-to-a-record-low-in-a-year-end-clearance-after-staying-full-price-on-black-friday-2000655004)<!-- GAME:END -->
+ - [I was the ‘Penis and Vagina’ movie quote kid from Kindergarten Cop](https://www.polygon.com/kindergarten-cop-penis-vagina-kid-interview/)
+ - [An indie dev worried about being seen as a ripoff after discovering a game similar to the one they were making, but then the original dev responded: &#39;Don&#39;t be discouraged&#39;](https://www.pcgamer.com/games/an-indie-dev-worried-about-being-seen-as-a-ripoff-after-discovering-a-game-similar-to-the-one-they-were-making-but-then-the-original-dev-responded-dont-be-discouraged/)
+ - [Xbox Wireless Controllers &lpar;Special Editions&rpar; Join the Clearance Lineup at an All-Time Low as Microsoft Goes Beyond Basic Colors](https://kotaku.com/xbox-wireless-controllers-special-editions-join-the-clearance-lineup-at-an-all-time-low-as-microsoft-goes-beyond-basic-colors-2000655065)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
