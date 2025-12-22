@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everybody Loves Fortnite’s Kim Kardashian Skin](https://kotaku.com/kim-kardashian-fortnite-skin-item-shop-most-used-2000655163)
- - [The Great Flood is Netflix&#39;s newest K-brand top movie](https://www.polygon.com/netflix-the-great-flood-korean-sci-fi-disaster-movie/)
- - [Marshall Goes Warehouse Clearance on Home Speakers, Stanmore III Hits a Record Low](https://kotaku.com/marshall-goes-warehouse-clearance-on-home-speakers-stanmore-iii-hits-a-record-low-2000655051)<!-- GAME:END -->
+ - [30 years later, Mel Brooks&#39; Dracula satire is still his weirdest misfire](https://www.polygon.com/dracula-dead-and-loving-it-mel-brooks-worst-comedy-retropective/)
+ - [2K Games chokes out another WWE game just 2 years after launch](https://www.pcgamer.com/games/sports/2k-games-chokes-out-another-wwe-game-just-2-years-after-launch/)
+ - [The ill-starred Perfect Dark reboot had &#39;entire chapters&#39; completed before cancellation, says Joanna Dark&#39;s voice actor, who &#39;did not see it coming… it was devastating&#39;](https://www.pcgamer.com/games/fps/the-ill-starred-perfect-dark-reboot-had-entire-chapters-completed-before-cancellation-says-joanna-darks-voice-actor-who-did-not-see-it-coming-it-was-devastating/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
