@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus may be crafting a ‘people’s phone’ with a massive 9,000mAh battery](https://www.androidauthority.com/oneplus-volkswagen-9000-mah-leak-3627115/)
- - [Some Galaxy S26 models might be more power-hungry in one area](https://www.androidauthority.com/samsung-galaxy-s26-exynos-modem-design-3627085/)
- - [Another Android gaming handheld feels the impact of soaring RAM costs](https://www.androidauthority.com/retroid-pocket-6-lost-early-bird-price-ram-cost-3627138/)<!-- TECH:END -->
+ - [This 4K projector that we love is now below its Black Friday price at $700 off](https://www.androidauthority.com/dangbei-dbox02-pro-4k-projector-deal-3627193/)
+ - [Investigation: internal Binance files show it failed to stop hundreds of millions in crypto from flowing through suspicious accounts, even after a 2023 US deal &lpar;Financial Times&rpar;](http://www.techmeme.com/251222/p10#a251222p10)
+ - [This upcoming top-tier Android phone proves you don’t need four cameras to be a flagship](https://www.androidauthority.com/xiaomi-17-ultra-official-teaser-3627084/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
