@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fortnite has quickly pulled its latest accolades trailer after letting a saucy foreplay reference slip through the cracks](https://www.pcgamer.com/games/battle-royale/fortnite-has-quickly-pulled-its-latest-accolades-trailer-after-letting-a-saucy-foreplay-reference-slip-through-the-cracks/)
  - [Jump Festa 2026: All the major anime announcements](https://www.polygon.com/jump-festa-2026-all-announcements-one-piece-jjk-mha-bleach-black-clover/)
- - [Obsidian&#39;s Josh Sawyer leads the charge of RPG fans playfully roasting Stranger Things for its D&amp;D rule flubs: &#39;The oldheads are going to catch all these things&#39;](https://www.pcgamer.com/movies-tv/obsidians-josh-sawyer-leads-the-charge-of-rpg-fans-playfully-roasting-stranger-things-for-its-d-and-d-rule-flubs-the-oldheads-are-going-to-catch-all-these-things/)
- - [Five new Steam games you probably missed &lpar;December 22, 2025&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-december-22-2025/)<!-- GAME:END -->
+ - [Obsidian&#39;s Josh Sawyer leads the charge of RPG fans playfully roasting Stranger Things for its D&amp;D rule flubs: &#39;The oldheads are going to catch all these things&#39;](https://www.pcgamer.com/movies-tv/obsidians-josh-sawyer-leads-the-charge-of-rpg-fans-playfully-roasting-stranger-things-for-its-d-and-d-rule-flubs-the-oldheads-are-going-to-catch-all-these-things/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
