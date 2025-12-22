@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This 4K projector that we love is now below its Black Friday price at $700 off](https://www.androidauthority.com/dangbei-dbox02-pro-4k-projector-deal-3627193/)
- - [Investigation: internal Binance files show it failed to stop hundreds of millions in crypto from flowing through suspicious accounts, even after a 2023 US deal &lpar;Financial Times&rpar;](http://www.techmeme.com/251222/p10#a251222p10)
- - [This upcoming top-tier Android phone proves you don’t need four cameras to be a flagship](https://www.androidauthority.com/xiaomi-17-ultra-official-teaser-3627084/)<!-- TECH:END -->
+ - [Paramount says Larry Ellison &quot;agreed to provide an irrevocable personal guarantee of $40.4B&quot; for its WBD bid, after WBD&#39;s board raised concerns about the offer &lpar;Sara Salinas/CNBC&rpar;](http://www.techmeme.com/251222/p14#a251222p14)
+ - [Don&#39;t expect big changes in the iPhone 18 Pro design](https://appleinsider.com/articles/25/12/22/dont-expect-big-changes-in-the-iphone-18-pro-design?utm_source=rss)
+ - [Investigation: in 22 US states, Uber approves drivers with many types of convictions, such as violent felonies, that are over seven years old to keep costs low &lpar;Emily Steel/New York Times&rpar;](http://www.techmeme.com/251222/p13#a251222p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
