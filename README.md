@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Call of Duty, Titanfall developer Vince Zampella has died at age 55](https://www.theverge.com/news/849297/vince-zampella-dies-call-of-duty-titanfall-respawn-battlefield)
- - [Vince Zampella, former CEO of Infinity Ward, the studio behind Call of Duty, died Sunday at 55 in a single-car crash in Southern California &lpar;NBC Los Angeles&rpar;](http://www.techmeme.com/251222/p22#a251222p22)
- - [Find Hub is finally starting to take proper advantage of Google Maps &lpar;Updated&rpar;](https://www.androidauthority.com/find-hub-maps-3625771/)<!-- TECH:END -->
+ - [HelloFresh Meal Kit&#39;s Discount Code for December 2025 Unlocks a Free Zwilling Knife](https://www.wired.com/story/hellofresh-zwilling-chef-knife-deal/)
+ - [Sources: Nvidia&#39;s DGX Cloud is merging with the engineering unit, pivoting from selling cloud services to enterprises to supporting internal AI development &lpar;The Information&rpar;](http://www.techmeme.com/251222/p23#a251222p23)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 23, #1648](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-23-1648/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
