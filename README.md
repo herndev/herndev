@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just smile](http://9gag.com/gag/aPA0BwG)
- - ⏩ [Bend Your Stress](http://9gag.com/gag/azxz85j)
+ - 💣 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
+ - ⏩ [Just smile](http://9gag.com/gag/aPA0BwG)
  - 👉 [Truth is spoken](http://9gag.com/gag/a5QArLo)<!-- MEMES:END -->
 
 ---
