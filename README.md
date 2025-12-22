@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
- - ⏩ [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)
- - 👉 [If they new, they would suicide themselves](http://9gag.com/gag/aAy7P1p)<!-- MEMES:END -->
+ - 💣 [You get what you deserve](http://9gag.com/gag/ary0KP0)
+ - ⏩ [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
+ - 👉 [I bet David Copperfield wishes he could make this disappear.](http://9gag.com/gag/a879M4Z)<!-- MEMES:END -->
 
 ---
 
