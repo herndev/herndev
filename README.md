@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The year&#39;s best soccer games weren&#39;t just Fifa and Football Manager](https://www.polygon.com/soccer-games-2025-despelote-rematch-pup-champs-eafc/)
- - [JBL Grip Just Became the Cheapest Speaker With a Christmas Discount, Beating Black Friday Pricing and Shipping Before 2026](https://kotaku.com/jbl-grip-just-became-the-cheapest-speaker-with-a-christmas-discount-beating-black-friday-pricing-and-shipping-before-2026-2000654889)
- - [Blue Prince is &#39;the result of 8 years of development, fuelled my imagination and creativity&#39; not AI says publisher](https://www.pcgamer.com/games/puzzle/blue-prince-is-the-result-of-8-years-of-development-fuelled-my-imagination-and-creativity-not-ai-says-publisher/)<!-- GAME:END -->
+ - [Carol’s board game collection in Pluribus is terrible. We’re here to help.](https://www.polygon.com/pluribus-episode-8-board-game-recommendations/)
+ - [Since everyone got mad about yellow paint again this year, here are 5 alternatives I propose to help players find their way around in 2026](https://www.pcgamer.com/games/since-everyone-got-mad-about-yellow-paint-again-this-year-here-are-5-alternatives-i-propose-to-help-players-find-their-way-around-in-2026/)
+ - [This Ryzen 5 PRO Mini PC Crashes to a Record Low in a Year-End Clearance After Staying Full Price on Black Friday](https://kotaku.com/this-ryzen-5-pro-mini-pc-crashes-to-a-record-low-in-a-year-end-clearance-after-staying-full-price-on-black-friday-2000655004)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
