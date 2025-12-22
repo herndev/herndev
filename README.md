@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Odyssey Ark is the most impressive monitor, and it’s over half off!](https://www.androidauthority.com/samsung-odyssey-ark-55-inch-monitor-deal-3626896/)
- - [Did a publisher’s slip-up reveal smaller Switch 2 cartridges?](https://www.theverge.com/news/848462/nintendo-switch-2-smaller-cartridges-inin-games)
- - [Gemini isn’t replacing Google Assistant on Android just yet](https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026)<!-- TECH:END -->
+ - [A look at military tech startup Shield AI, recently valued at $5.6B, and its new CEO Gary Steele, who aims to grow annual revenue from $300M to $1B by 2028 &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/251221/p14#a251221p14)
+ - [A group of PE firms led by Permira and Warburg Pincus agrees to buy Clearwater Analytics, in a deal valuing the financial software maker at $8.4B including debt &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/251221/p13#a251221p13)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 22, #925](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-22-925/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
