@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite has quickly pulled its latest accolades trailer after letting a saucy foreplay reference slip through the cracks](https://www.pcgamer.com/games/battle-royale/fortnite-has-quickly-pulled-its-latest-accolades-trailer-after-letting-a-saucy-foreplay-reference-slip-through-the-cracks/)
- - [Jump Festa 2026: All the major anime announcements](https://www.polygon.com/jump-festa-2026-all-announcements-one-piece-jjk-mha-bleach-black-clover/)
- - [Obsidian&#39;s Josh Sawyer leads the charge of RPG fans playfully roasting Stranger Things for its D&amp;D rule flubs: &#39;The oldheads are going to catch all these things&#39;](https://www.pcgamer.com/movies-tv/obsidians-josh-sawyer-leads-the-charge-of-rpg-fans-playfully-roasting-stranger-things-for-its-d-and-d-rule-flubs-the-oldheads-are-going-to-catch-all-these-things/)<!-- GAME:END -->
+ - [Apple Offloads AirTags at a Record Low, Not Just AirPods and MacBooks in a Surprise Year-End Clearance](https://kotaku.com/apple-offloads-airtags-at-a-record-low-not-just-airpods-and-macbooks-in-a-surprise-year-end-clearance-2000655042)
+ - [The 10 best sci-fi and fantasy movies of 2025, ranked](https://www.polygon.com/the-10-best-science-fiction-and-fantasy-movies-of-2025/)
+ - [Behind the scenes of Lumines Arise with Enhance](https://blog.playstation.com/2025/12/22/behind-the-scenes-of-lumines-arise-with-enhance/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
