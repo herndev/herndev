@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [30 years later, Mel Brooks&#39; Dracula satire is still his weirdest misfire](https://www.polygon.com/dracula-dead-and-loving-it-mel-brooks-worst-comedy-retropective/)
- - [2K Games chokes out another WWE game just 2 years after launch](https://www.pcgamer.com/games/sports/2k-games-chokes-out-another-wwe-game-just-2-years-after-launch/)
- - [The ill-starred Perfect Dark reboot had &#39;entire chapters&#39; completed before cancellation, says Joanna Dark&#39;s voice actor, who &#39;did not see it coming… it was devastating&#39;](https://www.pcgamer.com/games/fps/the-ill-starred-perfect-dark-reboot-had-entire-chapters-completed-before-cancellation-says-joanna-darks-voice-actor-who-did-not-see-it-coming-it-was-devastating/)<!-- GAME:END -->
+ - [Steam user asks devs to fix game, gets blasted for pirating it](https://www.polygon.com/steam-game-piracy-farthest-frontier-city-builder-fan/)
+ - [Report: Vince Zampella, Battlefield Boss And Call Of Duty Co-Creator, Killed In Car Crash](https://kotaku.com/report-vince-zampella-battlefield-boss-and-call-of-duty-co-creator-killed-in-car-crash-2000655216)
+ - [World of Warcraft: Midnight&#39;s new solo-friendly Prey mode will have bosses attacking you out of nowhere: &#39;There&#39;s going to be some really mean stuff that we&#39;re going to do to you&#39;](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnights-new-solo-friendly-prey-mode-will-have-bosses-attacking-you-out-of-nowhere-theres-going-to-be-some-really-mean-stuff-that-were-going-to-do-to-you/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
