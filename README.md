@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indie Game Awards retracts Expedition 33 prizes due to generative AI](https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro)
- - [Save $300 on M4 MacBook Air with 24GB RAM, 1TB SSD - now just $1,299](https://appleinsider.com/articles/25/12/22/save-300-on-m4-macbook-air-with-24gb-ram-1tb-ssd---now-just-1299?utm_source=rss)
- - [FanDuel and CME Group launch a prediction market app called FanDuel Predicts in five US states, just days after DraftKings rolled out a similar product &lpar;Denitsa Tsekova/Bloomberg&rpar;](http://www.techmeme.com/251222/p19#a251222p19)<!-- TECH:END -->
+ - [Bitcoin does cultural diplomacy in a dive bar](https://www.theverge.com/policy/849133/pubkey-dc-opening-bitcoin-bar)
+ - [The Justice Department Just Released More Epstein Files](https://www.wired.com/story/the-justice-department-just-released-more-epstein-files/)
+ - [iPhone XS, iPhone XR, Apple TV HD get critical security updates](https://appleinsider.com/articles/25/12/22/iphone-xs-iphone-xr-apple-tv-hd-get-critical-security-updates?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
