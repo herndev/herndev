@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The internet just made a 300TB copy of Spotify!](https://www.androidauthority.com/spotify-annas-archive-3627023/)
- - [Honey: all the news about PayPal’s alleged scam coupon app](https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees)
- - [Some experts in the human-computer interaction field say making AI chatbots act humanlike creates cognitive dissonance for users over how much to trust them &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/251221/p16#a251221p16)<!-- TECH:END -->
+ - [Waymo resumes robotaxi service in San Francisco after a blackout, and says most active trips were completed before vehicles returned to depots or pulled over &lpar;CNBC&rpar;](http://www.techmeme.com/251221/p18#a251221p18)
+ - [Uber plans to trial driverless taxis in London using Baidu&#39;s Apollo Go RT6 robotaxis, starting in H1 2026 with services available by the end of 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251221/p17#a251221p17)
+ - [The internet just made a 300TB copy of Spotify!](https://www.androidauthority.com/spotify-annas-archive-3627023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
