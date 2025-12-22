@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pirate activist group Anna&#39;s Archive says it scraped 86M music files and 256M rows of track metadata from Spotify, and releases them in ~300TB of torrent files &lpar;Mitchell Peters/Billboard&rpar;](http://www.techmeme.com/251221/p15#a251221p15)
- - [A look at military tech startup Shield AI, recently valued at $5.6B, and its new CEO Gary Steele, who aims to grow annual revenue from $300M to $1B by 2028 &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/251221/p14#a251221p14)
- - [A group of PE firms led by Permira and Warburg Pincus agrees to buy Clearwater Analytics, in a deal valuing the financial software maker at $8.4B including debt &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/251221/p13#a251221p13)<!-- TECH:END -->
+ - [Some experts in the human-computer interaction field say making AI chatbots act humanlike creates cognitive dissonance for users over how much to trust them &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/251221/p16#a251221p16)
+ - [Samsung’s wide foldable leak hints at a pre-emptive strike on Apple](https://www.androidauthority.com/samsung-wide-foldable-design-specs-leak-3627018/)
+ - [Frozen Waymos backed up San Francisco traffic during a widespread power outage](https://www.theverge.com/news/848843/waymo-san-francisco-power-outage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
