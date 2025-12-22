@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
- - ⏩ [Just smile](http://9gag.com/gag/aPA0BwG)
- - 👉 [Truth is spoken](http://9gag.com/gag/a5QArLo)<!-- MEMES:END -->
+ - 💣 [If they new, they would suicide themselves](http://9gag.com/gag/aAy7P1p)
+ - ⏩ [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)
+ - 👉 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)<!-- MEMES:END -->
 
 ---
 
