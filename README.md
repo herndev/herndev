@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty creator Vince Zampella killed in car crash](https://www.polygon.com/respawn-vince-zampella-death-call-of-duty-battlefield-ea/)
- - [Why Anaconda&#39;s director made a reboot: &#39;There was no room for fun anymore&#39;](https://www.polygon.com/anaconda-2025-director-interview/)
- - [Vince Zampella, the co-founder of Infinity Ward and head of Battlefield, dies in car crash](https://www.pcgamer.com/games/vince-zampella-the-co-founder-of-infinity-ward-and-head-of-battlefield-dies-in-car-crash/)<!-- GAME:END -->
+ - [Swen Vincke warns Divinity newcomers that they probably shouldn&#39;t play the early games in the series: &#39;They&#39;re a bit outdated by now,&#39; which is putting it very mildly](https://www.pcgamer.com/games/rpg/swen-vincke-warns-divinity-newcomers-that-they-probably-shouldnt-play-the-early-games-in-the-series-theyre-a-bit-outdated-by-now-which-is-putting-it-very-mildly/)
+ - [I played dozens of retro games this year, and these are the ones I still whole-heartedly recommend going into 2026](https://www.pcgamer.com/games/i-played-dozens-of-retro-games-this-year-and-these-are-the-ones-i-still-whole-heartedly-recommend-going-into-2026/)
+ - [PlayStation holiday sale has great deals on PS4 and PS5 games](https://www.polygon.com/playstation-holiday-sale-2025-ps4-ps5-deals/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
