@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bless her heart](http://9gag.com/gag/aVv8qDd)
- - ⏩ [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)
- - 👉 [Out of all the people, I didn&#39;t think he would be in the files. I really used to look up to him.](http://9gag.com/gag/azxzA4p)<!-- MEMES:END -->
+ - 💣 [First day on earth?](http://9gag.com/gag/azxzqRj)
+ - ⏩ [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
+ - 👉 [Send help?](http://9gag.com/gag/aQzK91K)<!-- MEMES:END -->
 
 ---
 
