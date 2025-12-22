@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chipwrecked](https://www.theverge.com/ai-artificial-intelligence/848988/nvidia-chip-loans-coreweave-gpu-debt-ai-neocloud)
- - [Apple COO Sabih Khan tells China the company is committed to long-term partnerships](https://appleinsider.com/articles/25/12/22/apple-coo-sabih-khan-tells-china-the-company-is-committed-to-long-term-partnerships?utm_source=rss)
- - [Resideo&#39;s Scott Harkins talks about the new Honeywell Home X8S on HomeKit Insider](https://appleinsider.com/articles/25/12/22/resideos-scott-harkins-talks-about-the-new-honeywell-home-x8s-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
+ - [Samsung’s new CES teaser does not feature the hardware you were hoping for](https://www.androidauthority.com/samsung-ces-teaser-3627284/)
+ - [The Beats Studio Pro headphones are $200 off today](https://www.theverge.com/gadgets/849065/beats-headphones-pixel-10-paperwhite-deals-sales)
+ - [Samsung’s latest One UI 8.5 beta brings back missing camera features](https://www.androidauthority.com/samsung-one-ui-8-5-camera-features-3627297/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
