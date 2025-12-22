@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
- - ⏩ [So odd. Yesterday&#39;s Epstein file release included this photo, a drawer with photos in it, including these. And today, it has quietly vanished from the doj&#39;s website. And, it is of trump in both photos. Full sized photo in comments.](http://9gag.com/gag/aVv8eVK)
- - 👉 [Found this... And I agree](http://9gag.com/gag/a4P8jVp)<!-- MEMES:END -->
+ - 💣 [What a goal, pure class](http://9gag.com/gag/aKGy2PQ)
+ - ⏩ [Wall-E reference is perfect for this](http://9gag.com/gag/aByMw9z)
+ - 👉 [Bend Your Stress](http://9gag.com/gag/azxz85j)<!-- MEMES:END -->
 
 ---
 
