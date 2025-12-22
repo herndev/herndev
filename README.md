@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 10 best adventure games of 2025](https://www.polygon.com/best-adventure-games-2025/)
- - [Get Cozy with Co-op This Holiday Season – 14 Mega Multiplayer Picks on Xbox](https://news.xbox.com/en-us/2025/12/22/xbox-multiplayer-coop-games-holiday-2025/)
- - [Dreamcast Web Browsing Is Dead Over 25 Years Later Thanks To Google](https://kotaku.com/dreamcast-web-browsing-is-dead-over-25-years-later-thanks-to-google-2000655137)<!-- GAME:END -->
+ - [Everybody Loves Fortnite’s Kim Kardashian Skin](https://kotaku.com/kim-kardashian-fortnite-skin-item-shop-most-used-2000655163)
+ - [The Great Flood is Netflix&#39;s newest K-brand top movie](https://www.polygon.com/netflix-the-great-flood-korean-sci-fi-disaster-movie/)
+ - [Marshall Goes Warehouse Clearance on Home Speakers, Stanmore III Hits a Record Low](https://kotaku.com/marshall-goes-warehouse-clearance-on-home-speakers-stanmore-iii-hits-a-record-low-2000655051)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
