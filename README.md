@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
- - ⏩ [My wife said i shouldnt get any ideas](http://9gag.com/gag/aVv8eMw)
- - 👉 [The record that still hasn\u2019t been broken after 30 years](http://9gag.com/gag/a5QArMV)<!-- MEMES:END -->
+ - 💣 [Just smile](http://9gag.com/gag/aPA0BwG)
+ - ⏩ [Bend Your Stress](http://9gag.com/gag/azxz85j)
+ - 👉 [Truth is spoken](http://9gag.com/gag/a5QArLo)<!-- MEMES:END -->
 
 ---
 
