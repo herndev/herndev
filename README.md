@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Offloads AirTags at a Record Low, Not Just AirPods and MacBooks in a Surprise Year-End Clearance](https://kotaku.com/apple-offloads-airtags-at-a-record-low-not-just-airpods-and-macbooks-in-a-surprise-year-end-clearance-2000655042)
- - [The 10 best sci-fi and fantasy movies of 2025, ranked](https://www.polygon.com/the-10-best-science-fiction-and-fantasy-movies-of-2025/)
- - [Behind the scenes of Lumines Arise with Enhance](https://blog.playstation.com/2025/12/22/behind-the-scenes-of-lumines-arise-with-enhance/)<!-- GAME:END -->
+ - [The year&#39;s best soccer games weren&#39;t just Fifa and Football Manager](https://www.polygon.com/soccer-games-2025-despelote-rematch-pup-champs-eafc/)
+ - [JBL Grip Just Became the Cheapest Speaker With a Christmas Discount, Beating Black Friday Pricing and Shipping Before 2026](https://kotaku.com/jbl-grip-just-became-the-cheapest-speaker-with-a-christmas-discount-beating-black-friday-pricing-and-shipping-before-2026-2000654889)
+ - [Blue Prince is &#39;the result of 8 years of development, fuelled my imagination and creativity&#39; not AI says publisher](https://www.pcgamer.com/games/puzzle/blue-prince-is-the-result-of-8-years-of-development-fuelled-my-imagination-and-creativity-not-ai-says-publisher/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
