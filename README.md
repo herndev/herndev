@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I was the ‘Penis and Vagina’ movie quote kid from Kindergarten Cop](https://www.polygon.com/kindergarten-cop-penis-vagina-kid-interview/)
- - [An indie dev worried about being seen as a ripoff after discovering a game similar to the one they were making, but then the original dev responded: &#39;Don&#39;t be discouraged&#39;](https://www.pcgamer.com/games/an-indie-dev-worried-about-being-seen-as-a-ripoff-after-discovering-a-game-similar-to-the-one-they-were-making-but-then-the-original-dev-responded-dont-be-discouraged/)
- - [Xbox Wireless Controllers &lpar;Special Editions&rpar; Join the Clearance Lineup at an All-Time Low as Microsoft Goes Beyond Basic Colors](https://kotaku.com/xbox-wireless-controllers-special-editions-join-the-clearance-lineup-at-an-all-time-low-as-microsoft-goes-beyond-basic-colors-2000655065)<!-- GAME:END -->
+ - [The 10 best adventure games of 2025](https://www.polygon.com/best-adventure-games-2025/)
+ - [Get Cozy with Co-op This Holiday Season – 14 Mega Multiplayer Picks on Xbox](https://news.xbox.com/en-us/2025/12/22/xbox-multiplayer-coop-games-holiday-2025/)
+ - [Dreamcast Web Browsing Is Dead Over 25 Years Later Thanks To Google](https://kotaku.com/dreamcast-web-browsing-is-dead-over-25-years-later-thanks-to-google-2000655137)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
