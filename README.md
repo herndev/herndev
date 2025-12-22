@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam user asks devs to fix game, gets blasted for pirating it](https://www.polygon.com/steam-game-piracy-farthest-frontier-city-builder-fan/)
- - [Report: Vince Zampella, Battlefield Boss And Call Of Duty Co-Creator, Killed In Car Crash](https://kotaku.com/report-vince-zampella-battlefield-boss-and-call-of-duty-co-creator-killed-in-car-crash-2000655216)
- - [World of Warcraft: Midnight&#39;s new solo-friendly Prey mode will have bosses attacking you out of nowhere: &#39;There&#39;s going to be some really mean stuff that we&#39;re going to do to you&#39;](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnights-new-solo-friendly-prey-mode-will-have-bosses-attacking-you-out-of-nowhere-theres-going-to-be-some-really-mean-stuff-that-were-going-to-do-to-you/)<!-- GAME:END -->
+ - [Call of Duty creator Vince Zampella killed in car crash](https://www.polygon.com/respawn-vince-zampella-death-call-of-duty-battlefield-ea/)
+ - [Why Anaconda&#39;s director made a reboot: &#39;There was no room for fun anymore&#39;](https://www.polygon.com/anaconda-2025-director-interview/)
+ - [Vince Zampella, the co-founder of Infinity Ward and head of Battlefield, dies in car crash](https://www.pcgamer.com/games/vince-zampella-the-co-founder-of-infinity-ward-and-head-of-battlefield-dies-in-car-crash/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
