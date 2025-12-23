@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That must have been a relief](http://9gag.com/gag/amoy7qd)
+ - 💣 [German precision](http://9gag.com/gag/a9yeAbW)
  - ⏩ [First day on earth?](http://9gag.com/gag/azxzqRj)
- - 👉 [Send help?](http://9gag.com/gag/aQzK91K)<!-- MEMES:END -->
+ - 👉 [Observe, this can save your life someday.](http://9gag.com/gag/a4P8G0v)<!-- MEMES:END -->
 
 ---
 
