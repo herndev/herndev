@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 16 made me fall back in love with split-screen and app pairs](https://www.androidauthority.com/android-16-love-split-screen-app-pairs-3626384/)
- - [These rumored Galaxy S26 camera upgrades are looking increasingly likely](https://www.androidauthority.com/galaxy-s26-camera-features-3627388/)
- - [Chinese automakers delay plans to mass-produce self-driving vehicles as Beijing becomes more cautious, after a fatal Xiaomi crash in March caused public concern &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/251223/p8#a251223p8)<!-- TECH:END -->
+ - [I Tried Samsung&#39;s Galaxy Z TriFold and Z Fold 7. Here&#39;s How the Foldable Phones Differ](https://www.cnet.com/tech/mobile/samsung-galaxy-z-trifold-vs-galaxy-z-fold-7/#ftag=CAD590a51e)
+ - [Global RAM Shortage Will Raise Smartphone Prices in 2026, Analysts Say -- But How Much?](https://www.cnet.com/tech/mobile/global-ram-shortage-will-raise-smartphone-prices-in-2026-analysts-say-but-how-much/#ftag=CAD590a51e)
+ - [I Wish Apple Would Steal These Android Camera Features for the iPhone 18 Pro](https://www.cnet.com/tech/mobile/i-want-apple-to-steal-these-android-camera-features-for-the-iphone-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
