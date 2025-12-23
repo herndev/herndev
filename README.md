@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Tried Samsung&#39;s Galaxy Z TriFold and Z Fold 7. Here&#39;s How the Foldable Phones Differ](https://www.cnet.com/tech/mobile/samsung-galaxy-z-trifold-vs-galaxy-z-fold-7/#ftag=CAD590a51e)
- - [Global RAM Shortage Will Raise Smartphone Prices in 2026, Analysts Say -- But How Much?](https://www.cnet.com/tech/mobile/global-ram-shortage-will-raise-smartphone-prices-in-2026-analysts-say-but-how-much/#ftag=CAD590a51e)
- - [I Wish Apple Would Steal These Android Camera Features for the iPhone 18 Pro](https://www.cnet.com/tech/mobile/i-want-apple-to-steal-these-android-camera-features-for-the-iphone-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How AI broke the smart home in 2025](https://www.theverge.com/tech/845958/ai-smart-home-broken)
+ - [Android Auto might soon let you cast media right to your car](https://www.androidauthority.com/android-auto-google-cast-support-leak-3627535/)
+ - [Malware bypassed macOS Gatekeeper by abusing Apple&#39;s notarization proccess](https://appleinsider.com/articles/25/12/23/malware-bypassed-macos-gatekeeper-by-abusing-apples-notarization-proccess?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
