@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doesn&#39;t even care](http://9gag.com/gag/aD2LxZx)
- - ⏩ [Save Ariana Grande](http://9gag.com/gag/a0eG5vz)
- - 👉 [First day on earth?](http://9gag.com/gag/azxzqRj)<!-- MEMES:END -->
+ - 💣 [Observe, this can save your life someday.](http://9gag.com/gag/a4P8G0v)
+ - ⏩ [9gaggers even internet is down](http://9gag.com/gag/aKGyDb3)
+ - 👉 [For the boys](http://9gag.com/gag/aqyO11P)<!-- MEMES:END -->
 
 ---
 
