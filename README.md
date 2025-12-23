@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Animal Crossing: Wild World is still the best in the series, 20 years later](https://www.polygon.com/animal-crossing-wild-world-20th-anniversary/)
- - [Where to find Bulbasaur, Charmander, and Squirtle in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-where-to-find-kanto-starters/)
- - [Turns out that Fallout: New Vegas beta stuffed with cut content also contains early versions of the DLCs with some big differences](https://www.pcgamer.com/games/fallout/turns-out-that-fallout-new-vegas-beta-stuffed-with-cut-content-also-contains-early-versions-of-the-dlcs-with-some-big-differences/)<!-- GAME:END -->
+ - [Mario Kart World wasn’t the only must-play kart racer of 2025](https://www.polygon.com/2025-kart-racing-video-games/)
+ - [Esophaguys: How The New Update Takes Players to the Necks-Level](https://news.xbox.com/en-us/2025/12/23/esophaguys-new-update/)
+ - [Jujutsu Zero codes for December 2025](https://www.polygon.com/jujutsu-zero-codes-list-rewards/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
