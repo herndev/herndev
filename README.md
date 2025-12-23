@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Score a Kindle reader deal: Most are on sale!](https://www.androidauthority.com/amazon-kindle-paperwhite-colorsoft-scribe-deals-3627318/)
- - [The FCC’s foreign drone ban is here](https://www.theverge.com/news/849460/fcc-foreign-drone-ban-dji-congress-deadline)
- - [Kargo, which uses cameras and sensors to inspect pallets in a warehouse and provide accurate inventory data, raised a $42M Series B led by Avenir &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/251222/p26#a251222p26)<!-- TECH:END -->
+ - [The US FCC bans imports, marketing, and sales of new foreign-made drones and components, including from China&#39;s DJI and Autel, citing national security concerns &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/251222/p28#a251222p28)
+ - [The internet just made a 300TB copy of Spotify! &lpar;Updated: New Spotify statement&rpar;](https://www.androidauthority.com/spotify-annas-archive-3627023/)
+ - [Sources: ByteDance has made preliminary plans to spend ¥160B, or ~$23B, in AI capex in 2026, up from ¥150B in 2025, and has budgeted ~$12.07B for AI processors &lpar;Financial Times&rpar;](http://www.techmeme.com/251222/p27#a251222p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
