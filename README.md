@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
- - ⏩ [Doesn&#39;t even care](http://9gag.com/gag/aD2LxZx)
- - 👉 [No freak](http://9gag.com/gag/avyVGOn)<!-- MEMES:END -->
+ - 💣 [No freak](http://9gag.com/gag/avyVGOn)
+ - ⏩ [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
+ - 👉 [Send help?](http://9gag.com/gag/aQzK91K)<!-- MEMES:END -->
 
 ---
 
