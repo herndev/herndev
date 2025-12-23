@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First day on earth?](http://9gag.com/gag/azxzqRj)
- - ⏩ [German precision](http://9gag.com/gag/a9yeAbW)
- - 👉 [Observe, this can save your life someday.](http://9gag.com/gag/a4P8G0v)<!-- MEMES:END -->
+ - 💣 [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
+ - ⏩ [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
+ - 👉 [Send help?](http://9gag.com/gag/aQzK91K)<!-- MEMES:END -->
 
 ---
 
