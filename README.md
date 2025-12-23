@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Haha, You Clowns interview: Joe Cappa talks season 2 plans and that wild finale](https://www.polygon.com/haha-you-clowns-season-1-finale-joe-cappa-interview/)
- - [Anker’s USB-C Charging Station &lpar;250W, 6-Port&rpar; Gets a Surprise Christmas Price Drop, Lowest Price Ever This Holiday Season](https://kotaku.com/ankers-usb-c-charging-station-250w-6-port-gets-a-surprise-christmas-price-drop-lowest-price-ever-this-holiday-season-2000655257)
- - [Avengers: Doomsday trailer now online, confirming Captain America&#39;s return](https://www.polygon.com/avengers-doomsday-trailer-1-steve-rogers-marvel-chris-evans/)<!-- GAME:END -->
+ - [Animal Crossing: Wild World is still the best in the series, 20 years later](https://www.polygon.com/animal-crossing-wild-world-20th-anniversary/)
+ - [Where to find Bulbasaur, Charmander, and Squirtle in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-where-to-find-kanto-starters/)
+ - [Turns out that Fallout: New Vegas beta stuffed with cut content also contains early versions of the DLCs with some big differences](https://www.pcgamer.com/games/fallout/turns-out-that-fallout-new-vegas-beta-stuffed-with-cut-content-also-contains-early-versions-of-the-dlcs-with-some-big-differences/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
