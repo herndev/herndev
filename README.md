@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These great digital gifts will arrive just in time for Christmas](https://www.theverge.com/gadgets/848999/best-digital-gift-ideas-online-cards-subscriptions-2025)
- - [NYPD Sued Over Possible Records Collected Through Muslim Spying Program](https://www.wired.com/story/nypd-sued-over-possible-records-collected-through-muslim-spying-program/)
- - [Amazon’s Kindle Scribe Colorsoft is about to get some fresh competition from TCL](https://www.androidauthority.com/tcl-note-a1-3627574/)<!-- TECH:END -->
+ - [This weird Pixel bug could ruin your holiday vacation photos](https://www.androidauthority.com/google-pixel-missing-photos-3627620/)
+ - [007 First Light&amp;#8217;s release date gets shaken up](https://www.theverge.com/news/849810/james-bond-007-first-light-release-date-delay)
+ - [A federal judge grants a temporary injunction blocking a Texas law requiring mobile app stores to verify users&#39; ages from taking effect on January 1 &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/251223/p20#a251223p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
