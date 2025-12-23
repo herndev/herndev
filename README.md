@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Send help?](http://9gag.com/gag/aQzK91K)
- - ⏩ [There&#39;s nothing civil here](http://9gag.com/gag/a7oBr2r)
- - 👉 [No freak](http://9gag.com/gag/avyVGOn)<!-- MEMES:END -->
+ - 💣 [No freak](http://9gag.com/gag/avyVGOn)
+ - ⏩ [Who thought it was a good idea to hire this person](http://9gag.com/gag/aO8Od36)
+ - 👉 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)<!-- MEMES:END -->
 
 ---
 
