@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Best Video Game Characters Of 2025](https://kotaku.com/the-best-video-game-characters-of-2025-2000655443)
  - [Exodus preview: Archetype team gets real nerdy about its new RPG](https://www.polygon.com/exodus-preview-narrative-story/)
- - [The games industry pays tribute to the late Vince Zampella: &#39;Thank you, Vince—You were one of the good ones&#39;](https://www.pcgamer.com/gaming-industry/games-industry-titans-pay-tribute-to-the-late-vince-zampella-thank-you-vince-you-were-one-of-the-good-ones/)
- - [007 First Light, IO Interactive&#39;s James Bond game, is delayed &#39;to ensure the experience meets the level of quality you players deserve on day one&#39;](https://www.pcgamer.com/games/action/007-first-light-io-interactives-james-bond-game-is-delayed-to-ensure-the-experience-meets-the-level-of-quality-you-players-deserve-on-day-one/)<!-- GAME:END -->
+ - [The games industry pays tribute to the late Vince Zampella: &#39;Thank you, Vince—You were one of the good ones&#39;](https://www.pcgamer.com/gaming-industry/games-industry-titans-pay-tribute-to-the-late-vince-zampella-thank-you-vince-you-were-one-of-the-good-ones/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
