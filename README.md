@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Who thought it was a good idea to hire this person](http://9gag.com/gag/aO8Od36)
- - ⏩ [First day on earth?](http://9gag.com/gag/azxzqRj)
- - 👉 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)<!-- MEMES:END -->
+ - ⏩ [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
+ - 👉 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)<!-- MEMES:END -->
 
 ---
 
