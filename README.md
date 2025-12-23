@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wonder Woman 1984 at 5: The DCEU&#39;s biggest flop is better than you remember](https://www.polygon.com/wonder-woman-1984-dceu-5-year-anniversary/)
- - [Injection π23 Tabula Rasa Brings Classic Survival Horror to Xbox Series X|S](https://news.xbox.com/en-us/2025/12/23/injection-%cf%8023-tabula-rasa-brings-classic-survival-horror/)
- - [James Bond Game Delayed 3 Months, Snagging GTA 6′s Old Spot](https://kotaku.com/james-bond-game-delayed-release-date-hitman-2000655417)<!-- GAME:END -->
+ - [Exodus preview: Archetype team gets real nerdy about its new RPG](https://www.polygon.com/exodus-preview-narrative-story/)
+ - [The games industry pays tribute to the late Vince Zampella: &#39;Thank you, Vince—You were one of the good ones&#39;](https://www.pcgamer.com/gaming-industry/games-industry-titans-pay-tribute-to-the-late-vince-zampella-thank-you-vince-you-were-one-of-the-good-ones/)
+ - [007 First Light, IO Interactive&#39;s James Bond game, is delayed &#39;to ensure the experience meets the level of quality you players deserve on day one&#39;](https://www.pcgamer.com/games/action/007-first-light-io-interactives-james-bond-game-is-delayed-to-ensure-the-experience-meets-the-level-of-quality-you-players-deserve-on-day-one/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
