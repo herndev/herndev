@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belkin’s camera grip power bank is a few upgrades away from being a must-have](https://www.theverge.com/gadgets/847321/belkin-stage-powergrip-wireless-power-bank-hands-on)
- - [One last holiday hurrah for the $50 off deal on the Switch 2](https://www.theverge.com/gadgets/849552/switch-2-bundle-gaming-ps5-holiday-deal-sale)
- - [iPad Pro &amp; Nintendo Switch 2 are perfect companions with a portable dock](https://appleinsider.com/articles/25/12/23/ipad-pro-nintendo-switch-2-are-perfect-companions-with-a-portable-dock?utm_source=rss)<!-- TECH:END -->
+ - [Lemon Slice, which launched a 20B-parameter model that creates digital avatars for AI agents, streaming video at 20 FPS on a single GPU, raised a $10.5M seed &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251223/p18#a251223p18)
+ - [Apple&#39;s AI team is bigger than reported &amp; strategy reinforced with latest restructure](https://appleinsider.com/articles/25/12/23/apples-ai-team-is-bigger-than-reported-strategy-reinforced-with-latest-restructure?utm_source=rss)
+ - [DOJ appears to bungle Epstein Files redactions](https://www.theverge.com/news/849639/epstein-files-doj-redactions-links)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
