@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marissa Mayer&#39;s new startup Dazzle, which is building next-gen AI personal assistants, raised an $8M seed at a $35M valuation and plans to exit stealth in 2026 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251223/p21#a251223p21)
- - [We found 30 great gifts that are on sale and will arrive in time for Christmas](https://www.theverge.com/gadgets/846378/best-last-minute-gifts-ideas-airpods-pro-deal-sale)
- - [Samsung&amp;#8217;s 2026 gaming monitors promise 6K, 3D, and up to 1,040Hz](https://www.theverge.com/news/849850/samsung-odyssey-gaming-monitors-6k-3d-ces-2026)<!-- TECH:END -->
+ - [The Pixel 10, our favorite Android phone, is nearly 50 percent off right now](https://www.theverge.com/gadgets/836995/google-pixel-10-pro-xl-amazon-deal-sale-2025)
+ - [Save $100 on the Sonos Era 300, a smart speaker that actually sounds amazing](https://www.androidauthority.com/sonos-era-300-smart-speaker-deal-3627610/)
+ - [Android Automotive will let you PIN-lock apps to keep them private from passengers](https://www.androidauthority.com/android-automotive-sensitive-app-protection-3627645/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
