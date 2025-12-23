@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First day on earth?](http://9gag.com/gag/azxzqRj)
- - ⏩ [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
- - 👉 [German precision](http://9gag.com/gag/a9yeAbW)<!-- MEMES:END -->
+ - 💣 [That must have been a relief](http://9gag.com/gag/amoy7qd)
+ - ⏩ [First day on earth?](http://9gag.com/gag/azxzqRj)
+ - 👉 [Send help?](http://9gag.com/gag/aQzK91K)<!-- MEMES:END -->
 
 ---
 
