@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s how you save....](http://9gag.com/gag/aqyOr8Y)
- - ⏩ [Send help?](http://9gag.com/gag/aQzK91K)
- - 👉 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)<!-- MEMES:END -->
+ - 💣 [Send help?](http://9gag.com/gag/aQzK91K)
+ - ⏩ [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
+ - 👉 [No freak](http://9gag.com/gag/avyVGOn)<!-- MEMES:END -->
 
 ---
 
