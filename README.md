@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [No freak](http://9gag.com/gag/avyVGOn)
- - ⏩ [Bless her heart](http://9gag.com/gag/aVv8qDd)
- - 👉 [First day on earth?](http://9gag.com/gag/azxzqRj)<!-- MEMES:END -->
+ - ⏩ [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)
+ - 👉 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)<!-- MEMES:END -->
 
 ---
 
