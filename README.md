@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI broke the smart home in 2025](https://www.theverge.com/tech/845958/ai-smart-home-broken)
- - [Android Auto might soon let you cast media right to your car](https://www.androidauthority.com/android-auto-google-cast-support-leak-3627535/)
- - [Malware bypassed macOS Gatekeeper by abusing Apple&#39;s notarization proccess](https://appleinsider.com/articles/25/12/23/malware-bypassed-macos-gatekeeper-by-abusing-apples-notarization-proccess?utm_source=rss)<!-- TECH:END -->
+ - [Apple agrees to third-party App Store alternatives in Brazil](https://appleinsider.com/articles/25/12/23/apple-agrees-to-third-party-app-store-alternatives-in-brazil?utm_source=rss)
+ - [The Vergecast RAM Holiday Spec-tacular](https://www.theverge.com/podcast/849551/ram-explainer-holiday-spectacular-vergecast)
+ - [The US says it will take action against China&#39;s chip industry, setting new tariffs on chips from China from June 23, 2026; they have 0% duties currently &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/251223/p14#a251223p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
