@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
- - ⏩ [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
- - 👉 [No freak](http://9gag.com/gag/avyVGOn)<!-- MEMES:END -->
+ - 💣 [Coffee doesn\u2019t give you energy, it blocks tiredness](http://9gag.com/gag/a2vV4ep)
+ - ⏩ [The drone&#39;s dramatic water landing, complete with a duck-filled audience](http://9gag.com/gag/aVv83vd)
+ - 👉 [Who&#39;s your Daddy](http://9gag.com/gag/aXPzYA9)<!-- MEMES:END -->
 
 ---
 
