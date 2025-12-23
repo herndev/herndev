@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
- - ⏩ [The Lion, The Witch, and the Audacity of This .......](http://9gag.com/gag/a5QAZpo)
- - 👉 [Send help?](http://9gag.com/gag/aQzK91K)<!-- MEMES:END -->
+ - 💣 [There&#39;s nothing civil here](http://9gag.com/gag/a7oBr2r)
+ - ⏩ [Send help?](http://9gag.com/gag/aQzK91K)
+ - 👉 [Just a man enjoying the view](http://9gag.com/gag/aPA0Boq)<!-- MEMES:END -->
 
 ---
 
