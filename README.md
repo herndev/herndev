@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who thought it was a good idea to hire this person](http://9gag.com/gag/aO8Od36)
- - ⏩ [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
- - 👉 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)<!-- MEMES:END -->
+ - 💣 [No freak](http://9gag.com/gag/avyVGOn)
+ - ⏩ [Bless her heart](http://9gag.com/gag/aVv8qDd)
+ - 👉 [First day on earth?](http://9gag.com/gag/azxzqRj)<!-- MEMES:END -->
 
 ---
 
