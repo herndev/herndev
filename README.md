@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI details efforts to secure its ChatGPT Atlas browser against prompt injection attacks, including building an &quot;LLM-based automated attacker&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251222/p25#a251222p25)
- - [The ‘Epstein’s Suicide’ Video in the Latest DOJ Release Isn’t What It Seems](https://www.wired.com/story/the-epsteins-suicide-video-in-the-latest-doj-release-isnt-what-it-seems/)
- - [How to Get a Free PC Game Every Day From the Epic Games Store](https://www.cnet.com/tech/gaming/how-to-get-a-free-pc-game-every-day-from-the-epic-games-store/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Score a Kindle reader deal: Most are on sale!](https://www.androidauthority.com/amazon-kindle-paperwhite-colorsoft-scribe-deals-3627318/)
+ - [The FCC’s foreign drone ban is here](https://www.theverge.com/news/849460/fcc-foreign-drone-ban-dji-congress-deadline)
+ - [Kargo, which uses cameras and sensors to inspect pallets in a warehouse and provide accurate inventory data, raised a $42M Series B led by Avenir &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/251222/p26#a251222p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
