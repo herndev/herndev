@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HK shares of Chinese short-video app Kuaishou fell as much as 6% to ~$8, lowest since November 21, after the company was hit by a cyberattack on December 22 &lpar;Reuters&rpar;](http://www.techmeme.com/251223/p2#a251223p2)
  - [Sources reveal inconsistencies in Megaspeed&#39;s chip inventory, as the US probes the Singapore AI startup over alleged Chinese ownership and Nvidia chip smuggling &lpar;Bloomberg&rpar;](http://www.techmeme.com/251223/p1#a251223p1)
- - [iPad Pro &amp; Nintendo Switch 2 are perfect companions with a portable dock](https://appleinsider.com/articles/25/12/23/ipad-pro-nintendo-switch-2-are-perfect-companions-with-a-portable-dock?utm_source=rss)
- - [Hisense wants laser projection to be your next big-screen upgrade](https://www.androidauthority.com/hisense-announces-xr10-px4-pro-projectors-3627438/)<!-- TECH:END -->
+ - [iPad Pro &amp; Nintendo Switch 2 are perfect companions with a portable dock](https://appleinsider.com/articles/25/12/23/ipad-pro-nintendo-switch-2-are-perfect-companions-with-a-portable-dock?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
