@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best JRPGs of 2025](https://www.polygon.com/best-jrpgs-2025/)
- - [Acer Predator Orion 7000 review](https://www.pcgamer.com/hardware/gaming-pcs/acer-predator-orion-7000-review/)
- - [Battlefield 6 Is Scrambling To Address AI Accusations Over Double-Barreled Gun](https://kotaku.com/battlefield-6-ai-stickers-cosmetics-bundle-2000655167)<!-- GAME:END -->
+ - [Marvel Rivals wants to go big for 2026, and the team has &#39;already planned more than a year ahead&#39;](https://www.pcgamer.com/games/action/marvel-rivals-wants-to-go-big-for-2026-and-the-team-has-already-planned-more-than-a-year-ahead/)
+ - [The now-settled KOTOR 2 lawsuit saw accusations of demonic possession and the plaintiffs&#39; lawyer hitting back at Aspyr with Lil Wayne lyrics: &#39;Okay you&#39;re a goon, but what&#39;s a goon to a Goblin? Nothin. Nothin. You ain&#39;t scaring nothing.&#39;](https://www.pcgamer.com/games/rpg/the-now-settled-kotor-2-lawsuit-saw-accusations-of-demonic-possession-and-the-plaintiffs-lawyer-hitting-back-at-aspyr-with-lil-wayne-lyrics-okay-youre-a-goon-but-whats-a-goon-to-a-goblin-nothin-nothin-you-aint-scaring-nothing/)
+ - [Acer Predator Orion 3000 review](https://www.pcgamer.com/hardware/gaming-pcs/acer-predator-orion-3000-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
