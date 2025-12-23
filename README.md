@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixels and iPhones have plenty in common, and a lot of you don’t know about it](https://www.androidauthority.com/pixels-iphones-samsungs-manufacturing-poll-3627461/)
- - [Gemini could finally fix its cluttered interface with these changes](https://www.androidauthority.com/gemini-new-input-box-apk-teardown-3627472/)
- - [World first: This Ultra phone will raise the bar with 200MP continuous optical zoom](https://www.androidauthority.com/200mp-continuous-zoom-camera-phone-3627466/)<!-- TECH:END -->
+ - [The European Commission says Apple will bring AirPods-like pairing and iPhone notification access to third-party devices under the DMA in iOS 26.3 in 2026 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/251223/p7#a251223p7)
+ - [DJI faces extinction in the US with FCC’s ban on new drone sales](https://www.androidauthority.com/us-foreign-drone-ban-dji-3627494/)
+ - [Dometic makes a better portable water faucet](https://www.theverge.com/tech/848916/dometic-recon-360-water-pump-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
