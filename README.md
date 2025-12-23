@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Electronic Arts shareholders vote overwhelmingly in favor of Saudi-led takeover](https://www.pcgamer.com/gaming-industry/electronic-arts-shareholders-vote-overwhelmingly-in-favor-of-saudi-led-takeover/)
  - [Hollow Knight: Silksong player discovers Hornet&#39;s taunt does damage, proceeds to spend hours trying to beat every boss with it: &#39;This is like watching Sisyphus push the boulder and win&#39;](https://www.pcgamer.com/games/action/hollow-knight-silksong-player-discovers-hornets-taunt-does-damage-proceeds-to-spend-hours-trying-to-beat-every-boss-with-it-this-is-like-watching-sisyphus-push-the-boulder-and-win/)
- - [Like a good ol&#39; southern potluck, South of Midnight had me going back to play for seconds, and then thirds, thanks to all its little details](https://www.pcgamer.com/games/action/like-a-good-ol-southern-potluck-south-of-midnight-had-me-going-back-to-play-for-seconds-and-then-thirds-thanks-to-all-its-little-details/)
- - [Why PBA Pro Bowling 2026 Hits for Bowlers and Casual Gamers Alike](https://news.xbox.com/en-us/2025/12/23/pba-pro-bowling-2026-hits-for-bowlers-and-casual-gamers-alike/)<!-- GAME:END -->
+ - [Like a good ol&#39; southern potluck, South of Midnight had me going back to play for seconds, and then thirds, thanks to all its little details](https://www.pcgamer.com/games/action/like-a-good-ol-southern-potluck-south-of-midnight-had-me-going-back-to-play-for-seconds-and-then-thirds-thanks-to-all-its-little-details/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
