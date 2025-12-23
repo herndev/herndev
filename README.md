@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple agrees to third-party App Store alternatives in Brazil](https://appleinsider.com/articles/25/12/23/apple-agrees-to-third-party-app-store-alternatives-in-brazil?utm_source=rss)
- - [The Vergecast RAM Holiday Spec-tacular](https://www.theverge.com/podcast/849551/ram-explainer-holiday-spectacular-vergecast)
- - [The US says it will take action against China&#39;s chip industry, setting new tariffs on chips from China from June 23, 2026; they have 0% duties currently &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/251223/p14#a251223p14)<!-- TECH:END -->
+ - [Belkin’s camera grip power bank is a few upgrades away from being a must-have](https://www.theverge.com/gadgets/847321/belkin-stage-powergrip-wireless-power-bank-hands-on)
+ - [One last holiday hurrah for the $50 off deal on the Switch 2](https://www.theverge.com/gadgets/849552/switch-2-bundle-gaming-ps5-holiday-deal-sale)
+ - [iPad Pro &amp; Nintendo Switch 2 are perfect companions with a portable dock](https://appleinsider.com/articles/25/12/23/ipad-pro-nintendo-switch-2-are-perfect-companions-with-a-portable-dock?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
