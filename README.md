@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Kart World wasn’t the only must-play kart racer of 2025](https://www.polygon.com/2025-kart-racing-video-games/)
- - [Esophaguys: How The New Update Takes Players to the Necks-Level](https://news.xbox.com/en-us/2025/12/23/esophaguys-new-update/)
- - [Jujutsu Zero codes for December 2025](https://www.polygon.com/jujutsu-zero-codes-list-rewards/)<!-- GAME:END -->
+ - [Wonder Woman 1984 at 5: The DCEU&#39;s biggest flop is better than you remember](https://www.polygon.com/wonder-woman-1984-dceu-5-year-anniversary/)
+ - [Injection π23 Tabula Rasa Brings Classic Survival Horror to Xbox Series X|S](https://news.xbox.com/en-us/2025/12/23/injection-%cf%8023-tabula-rasa-brings-classic-survival-horror/)
+ - [James Bond Game Delayed 3 Months, Snagging GTA 6′s Old Spot](https://kotaku.com/james-bond-game-delayed-release-date-hitman-2000655417)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
