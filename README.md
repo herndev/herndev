@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Series X Is Back in Stock at an All-Time Low for Another Clearance Push, While PlayStation Stays Sold Out](https://kotaku.com/xbox-series-x-is-back-in-stock-at-an-all-time-low-for-another-clearance-push-while-playstation-stays-sold-out-2000655323)
- - [The 10 best horror TV shows of 2025, ranked](https://www.polygon.com/best-horror-tv-shows-2025/)
- - [LEGO Clears Out the Creative Brick Box at Nearly 50% Off After 80K+ Sold, Build Anything You Want This Holiday](https://kotaku.com/lego-clears-out-the-creative-brick-box-at-nearly-50-off-after-80k-sold-build-anything-you-want-this-holiday-2000655247)<!-- GAME:END -->
+ - [EA Shareholders Approve Over-Inflated $55 Billion Sale To Saudi Arabia](https://kotaku.com/ea-shareholders-approve-55bn-sale-saudi-arabia-trump-2000655342)
+ - [Forget Marshall and JBL, Bose SoundLink Max Bluetooth Speakers Go on Clearance at a Record Low](https://kotaku.com/forget-marshall-and-jbl-bose-soundlink-max-bluetooth-speakers-go-on-clearance-at-a-record-low-2000655272)
+ - [Xbox Series X Is Back in Stock at an All-Time Low for Another Clearance Push, While PlayStation Stays Sold Out](https://kotaku.com/xbox-series-x-is-back-in-stock-at-an-all-time-low-for-another-clearance-push-while-playstation-stays-sold-out-2000655323)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
