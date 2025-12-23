@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources reveal inconsistencies in Megaspeed&#39;s chip inventory, as the US probes the Singapore AI startup over alleged Chinese ownership and Nvidia chip smuggling &lpar;Bloomberg&rpar;](http://www.techmeme.com/251223/p1#a251223p1)
  - [iPad Pro &amp; Nintendo Switch 2 are perfect companions with a portable dock](https://appleinsider.com/articles/25/12/23/ipad-pro-nintendo-switch-2-are-perfect-companions-with-a-portable-dock?utm_source=rss)
- - [Hisense wants laser projection to be your next big-screen upgrade](https://www.androidauthority.com/hisense-announces-xr10-px4-pro-projectors-3627438/)
- - [The Pentagon partners with xAI to embed the company&#39;s frontier AI systems, based on the Grok family of models, directly into GenAI.mil as soon as early 2026 &lpar;Bonny Chu/Fox News&rpar;](http://www.techmeme.com/251222/p29#a251222p29)<!-- TECH:END -->
+ - [Hisense wants laser projection to be your next big-screen upgrade](https://www.androidauthority.com/hisense-announces-xr10-px4-pro-projectors-3627438/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
