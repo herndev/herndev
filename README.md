@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Save Ariana Grande](http://9gag.com/gag/a0eG5vz)
- - ⏩ [Doesn&#39;t even care](http://9gag.com/gag/aD2LxZx)
- - 👉 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)<!-- MEMES:END -->
+ - 💣 [Doesn&#39;t even care](http://9gag.com/gag/aD2LxZx)
+ - ⏩ [Save Ariana Grande](http://9gag.com/gag/a0eG5vz)
+ - 👉 [First day on earth?](http://9gag.com/gag/azxzqRj)<!-- MEMES:END -->
 
 ---
 
