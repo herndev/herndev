@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Send help?](http://9gag.com/gag/aQzK91K)
- - ⏩ [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)
+ - ⏩ [There&#39;s nothing civil here](http://9gag.com/gag/a7oBr2r)
  - 👉 [No freak](http://9gag.com/gag/avyVGOn)<!-- MEMES:END -->
 
 ---
