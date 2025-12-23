@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals wants to go big for 2026, and the team has &#39;already planned more than a year ahead&#39;](https://www.pcgamer.com/games/action/marvel-rivals-wants-to-go-big-for-2026-and-the-team-has-already-planned-more-than-a-year-ahead/)
- - [The now-settled KOTOR 2 lawsuit saw accusations of demonic possession and the plaintiffs&#39; lawyer hitting back at Aspyr with Lil Wayne lyrics: &#39;Okay you&#39;re a goon, but what&#39;s a goon to a Goblin? Nothin. Nothin. You ain&#39;t scaring nothing.&#39;](https://www.pcgamer.com/games/rpg/the-now-settled-kotor-2-lawsuit-saw-accusations-of-demonic-possession-and-the-plaintiffs-lawyer-hitting-back-at-aspyr-with-lil-wayne-lyrics-okay-youre-a-goon-but-whats-a-goon-to-a-goblin-nothin-nothin-you-aint-scaring-nothing/)
- - [Acer Predator Orion 3000 review](https://www.pcgamer.com/hardware/gaming-pcs/acer-predator-orion-3000-review/)<!-- GAME:END -->
+ - [Xbox Series X Is Back in Stock at an All-Time Low for Another Clearance Push, While PlayStation Stays Sold Out](https://kotaku.com/xbox-series-x-is-back-in-stock-at-an-all-time-low-for-another-clearance-push-while-playstation-stays-sold-out-2000655323)
+ - [The 10 best horror TV shows of 2025, ranked](https://www.polygon.com/best-horror-tv-shows-2025/)
+ - [LEGO Clears Out the Creative Brick Box at Nearly 50% Off After 80K+ Sold, Build Anything You Want This Holiday](https://kotaku.com/lego-clears-out-the-creative-brick-box-at-nearly-50-off-after-80k-sold-build-anything-you-want-this-holiday-2000655247)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
