@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German precision](http://9gag.com/gag/a9yeAbW)
- - ⏩ [First day on earth?](http://9gag.com/gag/azxzqRj)
+ - 💣 [First day on earth?](http://9gag.com/gag/azxzqRj)
+ - ⏩ [German precision](http://9gag.com/gag/a9yeAbW)
  - 👉 [Observe, this can save your life someday.](http://9gag.com/gag/a4P8G0v)<!-- MEMES:END -->
 
 ---
