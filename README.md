@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 6 Is Scrambling To Address AI Accusations Over Double-Barreled Gun](https://kotaku.com/battlefield-6-ai-stickers-cosmetics-bundle-2000655167)
- - [Swen Vincke warns Divinity newcomers that they probably shouldn&#39;t play the early games in the series: &#39;They&#39;re a bit outdated by now,&#39; which is putting it very mildly](https://www.pcgamer.com/games/rpg/swen-vincke-warns-divinity-newcomers-that-they-probably-shouldnt-play-the-early-games-in-the-series-theyre-a-bit-outdated-by-now-which-is-putting-it-very-mildly/)
- - [I played dozens of retro games this year, and these are the ones I still whole-heartedly recommend going into 2026](https://www.pcgamer.com/games/i-played-dozens-of-retro-games-this-year-and-these-are-the-ones-i-still-whole-heartedly-recommend-going-into-2026/)<!-- GAME:END -->
+ - [The best JRPGs of 2025](https://www.polygon.com/best-jrpgs-2025/)
+ - [Acer Predator Orion 7000 review](https://www.pcgamer.com/hardware/gaming-pcs/acer-predator-orion-7000-review/)
+ - [Battlefield 6 Is Scrambling To Address AI Accusations Over Double-Barreled Gun](https://kotaku.com/battlefield-6-ai-stickers-cosmetics-bundle-2000655167)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
