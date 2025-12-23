@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 10, our favorite Android phone, is nearly 50 percent off right now](https://www.theverge.com/gadgets/836995/google-pixel-10-pro-xl-amazon-deal-sale-2025)
- - [Save $100 on the Sonos Era 300, a smart speaker that actually sounds amazing](https://www.androidauthority.com/sonos-era-300-smart-speaker-deal-3627610/)
- - [Android Automotive will let you PIN-lock apps to keep them private from passengers](https://www.androidauthority.com/android-automotive-sensitive-app-protection-3627645/)<!-- TECH:END -->
+ - [Hate the new Pixel home screen search UI? Here’s how to bring the old one back](https://www.androidauthority.com/bring-back-old-pixel-launcher-search-ui-3627674/)
+ - [PSA: You can still score a Google Pixel 10 Pro Fold at jut $1,399](https://www.androidauthority.com/google-pixel-10-pro-fold-deal-5-3627609/)
+ - [Texas judge says Apple doesn&#39;t have to check App Store ages](https://appleinsider.com/articles/25/12/23/texas-judge-says-apple-doesnt-have-to-check-app-store-ages?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
