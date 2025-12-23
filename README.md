@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There&#39;s nothing civil here](http://9gag.com/gag/a7oBr2r)
+ - 💣 [That&#39;s how you save....](http://9gag.com/gag/aqyOr8Y)
  - ⏩ [Send help?](http://9gag.com/gag/aQzK91K)
- - 👉 [Just a man enjoying the view](http://9gag.com/gag/aPA0Boq)<!-- MEMES:END -->
+ - 👉 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)<!-- MEMES:END -->
 
 ---
 
