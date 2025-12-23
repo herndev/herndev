@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No freak](http://9gag.com/gag/avyVGOn)
- - ⏩ [Never bring a small stick to a big stick fight](http://9gag.com/gag/a5QAbxo)
+ - 💣 [Save Ariana Grande](http://9gag.com/gag/a0eG5vz)
+ - ⏩ [Doesn&#39;t even care](http://9gag.com/gag/aD2LxZx)
  - 👉 [Prostitution with extra steps](http://9gag.com/gag/aE0bRAo)<!-- MEMES:END -->
 
 ---
