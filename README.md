@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [First day on earth?](http://9gag.com/gag/azxzqRj)
- - ⏩ [Imagine Falling Down there.](http://9gag.com/gag/aYQBKgO)
- - 👉 [Send help?](http://9gag.com/gag/aQzK91K)<!-- MEMES:END -->
+ - ⏩ [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
+ - 👉 [German precision](http://9gag.com/gag/a9yeAbW)<!-- MEMES:END -->
 
 ---
 
