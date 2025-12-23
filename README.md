@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The European Commission says Apple will bring AirPods-like pairing and iPhone notification access to third-party devices under the DMA in iOS 26.3 in 2026 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/251223/p7#a251223p7)
- - [DJI faces extinction in the US with FCC’s ban on new drone sales](https://www.androidauthority.com/us-foreign-drone-ban-dji-3627494/)
- - [Dometic makes a better portable water faucet](https://www.theverge.com/tech/848916/dometic-recon-360-water-pump-review)<!-- TECH:END -->
+ - [Android 16 made me fall back in love with split-screen and app pairs](https://www.androidauthority.com/android-16-love-split-screen-app-pairs-3626384/)
+ - [These rumored Galaxy S26 camera upgrades are looking increasingly likely](https://www.androidauthority.com/galaxy-s26-camera-features-3627388/)
+ - [Chinese automakers delay plans to mass-produce self-driving vehicles as Beijing becomes more cautious, after a fatal Xiaomi crash in March caused public concern &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/251223/p8#a251223p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
