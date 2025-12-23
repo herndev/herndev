@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Shareholders Approve Over-Inflated $55 Billion Sale To Saudi Arabia](https://kotaku.com/ea-shareholders-approve-55bn-sale-saudi-arabia-trump-2000655342)
- - [Forget Marshall and JBL, Bose SoundLink Max Bluetooth Speakers Go on Clearance at a Record Low](https://kotaku.com/forget-marshall-and-jbl-bose-soundlink-max-bluetooth-speakers-go-on-clearance-at-a-record-low-2000655272)
- - [Xbox Series X Is Back in Stock at an All-Time Low for Another Clearance Push, While PlayStation Stays Sold Out](https://kotaku.com/xbox-series-x-is-back-in-stock-at-an-all-time-low-for-another-clearance-push-while-playstation-stays-sold-out-2000655323)<!-- GAME:END -->
+ - [Haha, You Clowns interview: Joe Cappa talks season 2 plans and that wild finale](https://www.polygon.com/haha-you-clowns-season-1-finale-joe-cappa-interview/)
+ - [Anker’s USB-C Charging Station &lpar;250W, 6-Port&rpar; Gets a Surprise Christmas Price Drop, Lowest Price Ever This Holiday Season](https://kotaku.com/ankers-usb-c-charging-station-250w-6-port-gets-a-surprise-christmas-price-drop-lowest-price-ever-this-holiday-season-2000655257)
+ - [Avengers: Doomsday trailer now online, confirming Captain America&#39;s return](https://www.polygon.com/avengers-doomsday-trailer-1-steve-rogers-marvel-chris-evans/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
