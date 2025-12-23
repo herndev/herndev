@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US companies sold $1.7T of investment-grade bonds in 2025, nearing the $1.8T 2020 record, driven by AI infrastructure borrowing; Goldman says AI makes up ~30% &lpar;Kate Duguid/Financial Times&rpar;](http://www.techmeme.com/251223/p4#a251223p4)
- - [Groupon Promo Codes: 50% Off in January 2026](https://www.wired.com/story/groupon-promo-code/)
- - [Galaxy A37, A57 camera specs leak: A big upgrade for the cheaper phone](https://www.androidauthority.com/samsung-galaxy-a37-galaxy-a57-camera-specs-leak-3627453/)<!-- TECH:END -->
+ - [Pixels and iPhones have plenty in common, and a lot of you don’t know about it](https://www.androidauthority.com/pixels-iphones-samsungs-manufacturing-poll-3627461/)
+ - [Gemini could finally fix its cluttered interface with these changes](https://www.androidauthority.com/gemini-new-input-box-apk-teardown-3627472/)
+ - [World first: This Ultra phone will raise the bar with 200MP continuous optical zoom](https://www.androidauthority.com/200mp-continuous-zoom-camera-phone-3627466/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
