@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Video Game Characters Of 2025](https://kotaku.com/the-best-video-game-characters-of-2025-2000655443)
- - [Exodus preview: Archetype team gets real nerdy about its new RPG](https://www.polygon.com/exodus-preview-narrative-story/)
- - [The games industry pays tribute to the late Vince Zampella: &#39;Thank you, Vince—You were one of the good ones&#39;](https://www.pcgamer.com/gaming-industry/games-industry-titans-pay-tribute-to-the-late-vince-zampella-thank-you-vince-you-were-one-of-the-good-ones/)<!-- GAME:END -->
+ - [Hollow Knight: Silksong player discovers Hornet&#39;s taunt does damage, proceeds to spend hours trying to beat every boss with it: &#39;This is like watching Sisyphus push the boulder and win&#39;](https://www.pcgamer.com/games/action/hollow-knight-silksong-player-discovers-hornets-taunt-does-damage-proceeds-to-spend-hours-trying-to-beat-every-boss-with-it-this-is-like-watching-sisyphus-push-the-boulder-and-win/)
+ - [Like a good ol&#39; southern potluck, South of Midnight had me going back to play for seconds, and then thirds, thanks to all its little details](https://www.pcgamer.com/games/action/like-a-good-ol-southern-potluck-south-of-midnight-had-me-going-back-to-play-for-seconds-and-then-thirds-thanks-to-all-its-little-details/)
+ - [Why PBA Pro Bowling 2026 Hits for Bowlers and Casual Gamers Alike](https://news.xbox.com/en-us/2025/12/23/pba-pro-bowling-2026-hits-for-bowlers-and-casual-gamers-alike/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
