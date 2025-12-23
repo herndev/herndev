@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hate the new Pixel home screen search UI? Here’s how to bring the old one back](https://www.androidauthority.com/bring-back-old-pixel-launcher-search-ui-3627674/)
- - [PSA: You can still score a Google Pixel 10 Pro Fold at jut $1,399](https://www.androidauthority.com/google-pixel-10-pro-fold-deal-5-3627609/)
- - [Texas judge says Apple doesn&#39;t have to check App Store ages](https://appleinsider.com/articles/25/12/23/texas-judge-says-apple-doesnt-have-to-check-app-store-ages?utm_source=rss)<!-- TECH:END -->
+ - [The US is imposing visa restrictions on five Europeans, including Thierry Breton, accusing them of pressuring US tech companies to censor certain US viewpoints &lpar;Fatima Hussein/Associated Press&rpar;](http://www.techmeme.com/251223/p22#a251223p22)
+ - [Check your stocking: Google just released Android 16 QPR3 Beta 1.1](https://www.androidauthority.com/android-16-qpr3-beta-1-1-3627665/)
+ - [&#39;Pluribus&#39; Release Schedule: When Does the Season Finale Come Out?](https://www.cnet.com/tech/services-and-software/pluribus-episode-release-schedule-apple-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
