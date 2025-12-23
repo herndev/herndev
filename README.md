@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pentagon partners with xAI to embed the company&#39;s frontier AI systems, based on the Grok family of models, directly into GenAI.mil as soon as early 2026 &lpar;Bonny Chu/Fox News&rpar;](http://www.techmeme.com/251222/p29#a251222p29)
  - [The US FCC bans imports, marketing, and sales of new foreign-made drones and components, including from China&#39;s DJI and Autel, citing national security concerns &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/251222/p28#a251222p28)
- - [The internet just made a 300TB copy of Spotify! &lpar;Updated: New Spotify statement&rpar;](https://www.androidauthority.com/spotify-annas-archive-3627023/)
- - [Sources: ByteDance has made preliminary plans to spend ¥160B, or ~$23B, in AI capex in 2026, up from ¥150B in 2025, and has budgeted ~$12.07B for AI processors &lpar;Financial Times&rpar;](http://www.techmeme.com/251222/p27#a251222p27)<!-- TECH:END -->
+ - [The internet just made a 300TB copy of Spotify! &lpar;Updated: New Spotify statement&rpar;](https://www.androidauthority.com/spotify-annas-archive-3627023/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
