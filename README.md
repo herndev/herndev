@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Surprise Pokémon Leak Reveals Fresh Clues About The New Gen 10 Games](https://kotaku.com/pokemon-gen-10-wind-wave-map-leak-pikachu-professor-2000655613)
  - [Twas the day before Christmas and Steam is having some serious issues](https://www.pcgamer.com/games/twas-the-day-before-christmas-and-steam-is-down/)
- - [Best movement in 2025 video games: Silksong, Baby Steps, and more](https://www.polygon.com/best-video-game-movement-2025/)
- - [Three shining examples of brilliant PC game development in 2025](https://www.pcgamer.com/hardware/three-shining-examples-of-brilliant-pc-game-development-in-2025/)<!-- GAME:END -->
+ - [Best movement in 2025 video games: Silksong, Baby Steps, and more](https://www.polygon.com/best-video-game-movement-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
