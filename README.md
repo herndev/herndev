@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JBL Bar 500MK2 Review: A Fantastic Soundbar System](https://www.wired.com/review/jbl-bar-500-mk2/)
- - [Sony’s souped-up PlayStation 5 Pro is $100 off for the rest of today](https://www.theverge.com/gadgets/684281/sony-playstation-5-ps5-pro-christmas-deal-sale-2025)
- - [Samsung moves closer to producing iPhone 18 camera sensors in Texas](https://appleinsider.com/articles/25/12/24/samsung-moves-closer-to-producing-iphone-18-camera-sensors-in-texas?utm_source=rss)<!-- TECH:END -->
+ - [Leaker battle: iPhone Air 2 will ship in 2026, and not wait until 2027](https://appleinsider.com/articles/25/12/24/leaker-battle-iphone-air-2-will-ship-in-2026-and-not-wait-until-2027?utm_source=rss)
+ - [Tired of BlueStacks ads? There’s now a subscription to remove them](https://www.androidauthority.com/bluestacks-prime-launched-3627851/)
+ - [Beijing-based DP Technology, which develops AI tools used by researchers for tasks like computer-aided drug design and battery design, raised a ~$114M Series C &lpar;Eunice Xu/South China Morning Post&rpar;](http://www.techmeme.com/251224/p13#a251224p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
