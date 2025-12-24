@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fallout season 2&#39;s second episode arrives at the best Wasteland location to date as Todd Howard praises the show for taking &#39;such amazing care to treat locations with this obsessive authenticity&#39;](https://www.pcgamer.com/games/fallout/fallout-season-2s-second-episode-arrives-at-the-best-wasteland-location-to-date-as-todd-howard-praises-the-show-for-taking-such-amazing-care-to-treat-locations-with-this-obsessive-authenticity/)
  - [Pluribus creator Vince Gilligan knows how the show ends](https://www.polygon.com/how-will-pluribus-end-vince-gilligan-interview/)
- - [Wait, there was a new live-action Witcher movie? Starring Dolph Lundgren? On Netflix? In October?](https://www.pcgamer.com/movies-tv/wait-there-was-a-new-live-action-witcher-movie-starring-dolph-lundgren-on-netflix-in-october/)
- - [Polish analyst adds fuel to rumors that The Witcher 3 will get new DLC in 2026 to set up The Witcher 4](https://www.pcgamer.com/games/rpg/polish-analyst-adds-fuel-to-rumors-that-the-witcher-3-will-get-new-dlc-in-2026-to-set-up-the-witcher-4/)<!-- GAME:END -->
+ - [Wait, there was a new live-action Witcher movie? Starring Dolph Lundgren? On Netflix? In October?](https://www.pcgamer.com/movies-tv/wait-there-was-a-new-live-action-witcher-movie-starring-dolph-lundgren-on-netflix-in-october/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
