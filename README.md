@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pluribus creator Vince Gilligan knows how the show ends](https://www.polygon.com/how-will-pluribus-end-vince-gilligan-interview/)
  - [Wait, there was a new live-action Witcher movie? Starring Dolph Lundgren? On Netflix? In October?](https://www.pcgamer.com/movies-tv/wait-there-was-a-new-live-action-witcher-movie-starring-dolph-lundgren-on-netflix-in-october/)
- - [Polish analyst adds fuel to rumors that The Witcher 3 will get new DLC in 2026 to set up The Witcher 4](https://www.pcgamer.com/games/rpg/polish-analyst-adds-fuel-to-rumors-that-the-witcher-3-will-get-new-dlc-in-2026-to-set-up-the-witcher-4/)
- - [Newly Dubbed Mario Fan Video Perfectly Lampoons AAA Gaming](https://kotaku.com/mario-parody-viral-voice-actor-ue5-instagram-2000655479)<!-- GAME:END -->
+ - [Polish analyst adds fuel to rumors that The Witcher 3 will get new DLC in 2026 to set up The Witcher 4](https://www.pcgamer.com/games/rpg/polish-analyst-adds-fuel-to-rumors-that-the-witcher-3-will-get-new-dlc-in-2026-to-set-up-the-witcher-4/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
