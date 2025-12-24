@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia agrees to a licensing deal with Groq; CEO Jonathan Ross and other top executives will join Nvidia; Groq says it will continue operating independently &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/251224/p17#a251224p17)
  - [Merry Christmas and happy holidays from AppleInsider](https://appleinsider.com/articles/25/12/24/merry-christmas-and-happy-holidays-from-appleinsider?utm_source=rss)
- - [The best classic iPad board games to play with your family &amp; friends](https://appleinsider.com/articles/25/12/24/the-best-classic-ipad-board-games-to-play-with-your-family-friends?utm_source=rss)
- - [You may finally be able to change your old, embarrassing Gmail address](https://www.androidauthority.com/change-gmail-address-3627889/)<!-- TECH:END -->
+ - [Christmas Eve Gaming Crushed as Steam Goes Offline](https://www.cnet.com/tech/gaming/christmas-eve-gaming-crushed-as-steam-goes-offline/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
