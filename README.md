@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia tested Intel&#39;s 18A to make chips but stopped moving forward; interviews with 20+ people describe how dealmaker Lip-Bu Tan gave Intel a lifeline &lpar;Reuters&rpar;](http://www.techmeme.com/251224/p10#a251224p10)
- - [The Best Desk Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-desk-accessories/)
- - [AST launches its largest-ever satellite from India, hosting the BlueBird Block-2, the first in a series of deployments to challenge SpaceX in satellite internet &lpar;Sana Pashankar/Bloomberg&rpar;](http://www.techmeme.com/251224/p9#a251224p9)<!-- TECH:END -->
+ - [YouTube TV is getting $20 cheaper for select users thanks to a new partnership](https://www.androidauthority.com/verizon-youtube-tv-perk-3627801/)
+ - [In 2025, AI became a lightning rod for gamers and developers](https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025)
+ - [25 Work From Home Gift Ideas](https://www.wired.com/gallery/work-from-home-gift-ideas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
