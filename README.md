@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
- - ⏩ [This is what we needed](http://9gag.com/gag/an73MDn)
- - 👉 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)<!-- MEMES:END -->
+ - 💣 [A women being rescued by cops from angry mob in Bangladesh. Details are not known if she was a Hindu girl or a women who accidentally exposed her part that gave them a boner](http://9gag.com/gag/an73MbE)
+ - ⏩ [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
+ - 👉 [Nice watches it is](http://9gag.com/gag/aXPzYd6)<!-- MEMES:END -->
 
 ---
 
