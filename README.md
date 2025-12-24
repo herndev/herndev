@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Magearna in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-magearna-side-mission-195-requirements/)
- - [How to respec in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-respect-guide-recoats/)
- - [Every Fallout season 2 Easter egg so far](https://www.polygon.com/fallout-season-2-easter-egg-show/)<!-- GAME:END -->
+ - [After one year, D&amp;D 2024 still doesn’t know what it wants to be](https://www.polygon.com/dnd-2024-review-first-year-dungeons-dragons/)
+ - [RIP The Art Of The Old Christmas Time Video Game Commercial](https://kotaku.com/remembering-christmas-time-video-game-commercials-1840545976)
+ - [Dell Pushes 15.6″ Laptop Into Clearance at 78% Off &lpar;Ryzen 7, 16GB RAM, 1TB SSD&rpar; to Rival HP Windows PC Deals](https://kotaku.com/dell-pushes-15-6-laptop-into-clearance-at-78-off-ryzen-7-16gb-ram-1tb-ssd-to-rival-hp-windows-pc-deals-2000655477)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
