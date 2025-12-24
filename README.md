@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China&#39;s AI regulations, which require chatbots to pass a 2,000-question ideological test, have spawned specialized agencies that help AI companies pass &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/251224/p1#a251224p1)
- - [HCLSoftware, a subsidiary of Indian IT company HCLTech, agrees to acquire business intelligence company Jaspersoft from Cloud Software Group for $240M in cash &lpar;Urvi Malvania/Financial Express&rpar;](http://www.techmeme.com/251223/p29#a251223p29)
- - [Waymo, which paused its service during blackouts in San Francisco on December 20, says it is updating its fleet to improve navigation during widespread outages &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251223/p28#a251223p28)<!-- TECH:END -->
+ - [Bitcoin miners retooling data centers for AI have boosted their stocks; the CoinShares Bitcoin Mining ETF is up about 90% YTD even as bitcoin has slumped &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/251224/p3#a251224p3)
+ - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
+ - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
