@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - ⏩ [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)
- - 👉 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)<!-- MEMES:END -->
+ - 💣 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
+ - ⏩ [Reese Witherspoon&#39;s daughter looks more like Reese Witherspoon than Reese Witherspoon](http://9gag.com/gag/aRBG12B)
+ - 👉 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)<!-- MEMES:END -->
 
 ---
 
