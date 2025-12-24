@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She looks like she\u2019s gonna ask a historian if King Arthur came a lot.](http://9gag.com/gag/abAoYwO)
- - ⏩ [There&#39;s no such thing as a female superhero](http://9gag.com/gag/a879oMY)
- - 👉 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)<!-- MEMES:END -->
+ - 💣 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
+ - ⏩ [First day on earth?](http://9gag.com/gag/azxzqRj)
+ - 👉 [Nice watches it is](http://9gag.com/gag/aXPzYd6)<!-- MEMES:END -->
 
 ---
 
