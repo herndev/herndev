@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Got really lucky. Very blessed.](http://9gag.com/gag/a0eGbVv)
- - ⏩ [Nice watches it is](http://9gag.com/gag/aXPzYd6)
- - 👉 [Because an instant screencap button was TOO perfect.](http://9gag.com/gag/axy8z2n)<!-- MEMES:END -->
+ - 💣 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
+ - ⏩ [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)
+ - 👉 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)<!-- MEMES:END -->
 
 ---
 
