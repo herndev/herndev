@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
- - ⏩ [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
- - 👉 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)<!-- MEMES:END -->
+ - 💣 [Japanese children learn the hard way...](http://9gag.com/gag/ary0G15)
+ - ⏩ [More time, less adventure](http://9gag.com/gag/aByM0oQ)
+ - 👉 [Good job](http://9gag.com/gag/a1mnQE6)<!-- MEMES:END -->
 
 ---
 
