@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube TV is getting $20 cheaper for select users thanks to a new partnership](https://www.androidauthority.com/verizon-youtube-tv-perk-3627801/)
- - [In 2025, AI became a lightning rod for gamers and developers](https://www.theverge.com/entertainment/848368/gen-ai-video-games-2025)
- - [25 Work From Home Gift Ideas](https://www.wired.com/gallery/work-from-home-gift-ideas/)<!-- TECH:END -->
+ - [The EU warns of possible action after the US imposes travel bans on five Europeans, saying it will defend its &quot;regulatory autonomy against unjustified measures&quot; &lpar;Lorne Cook/Associated Press&rpar;](http://www.techmeme.com/251224/p11#a251224p11)
+ - [How to Choose a Computer Monitor &lpar;2025&rpar;: Everything You Need to Know](https://www.wired.com/story/how-to-choose-a-computer-monitor/)
+ - [The best shows and movies to stream on Netflix in 2025](https://www.theverge.com/entertainment/845388/netflix-best-shows-movies-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
