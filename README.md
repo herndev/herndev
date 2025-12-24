@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best game for Zelda fans in 2025 is Pipistrello and the Cursed Yoyo](https://www.polygon.com/zelda-like-game-pipistrello-cursed-yoyo-steam-switch-ps5-xbox/)
  - [Amazon Goes Clearance on E-Readers, Kindle Paperwhite Signature Edition &lpar;32GB&rpar; Hits an All-Time Low](https://kotaku.com/amazon-goes-clearance-on-e-readers-kindle-paperwhite-signature-edition-32gb-hits-an-all-time-low-2000655512)
- - [Terminator 2D: No Fate is the best Terminator since T2](https://www.polygon.com/terminator-2d-no-fate-impressions/)
- - [The 10 Biggest Gaming Disappointments Of 2025](https://kotaku.com/the-10-biggest-gaming-disappointments-worst-news-game-key-cards-gta-6-delay-2000655356)<!-- GAME:END -->
+ - [Terminator 2D: No Fate is the best Terminator since T2](https://www.polygon.com/terminator-2d-no-fate-impressions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
