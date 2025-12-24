@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Italy&#39;s antitrust authority orders Meta to suspend contractual terms that bar rival AI chatbots from WhatsApp; Meta calls the decision &quot;fundamentally flawed&quot; &lpar;Elvira Pollina/Reuters&rpar;](http://www.techmeme.com/251224/p8#a251224p8)
- - [S Pen support could return to Galaxy Fold, but not on the phone you want it to](https://www.androidauthority.com/galaxy-fold-s-pen-revival-3627712/)
- - [The Pixel 10 Pro Fold was a flop, and 2026 is Google’s last chance to fix it](https://www.androidauthority.com/2026-google-last-chance-fix-pixel-foldables-3627391/)<!-- TECH:END -->
+ - [Sources: Nvidia tested Intel&#39;s 18A to make chips but stopped moving forward; interviews with 20+ people describe how dealmaker Lip-Bu Tan gave Intel a lifeline &lpar;Reuters&rpar;](http://www.techmeme.com/251224/p10#a251224p10)
+ - [The Best Desk Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-desk-accessories/)
+ - [AST launches its largest-ever satellite from India, hosting the BlueBird Block-2, the first in a series of deployments to challenge SpaceX in satellite internet &lpar;Sana Pashankar/Bloomberg&rpar;](http://www.techmeme.com/251224/p9#a251224p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
