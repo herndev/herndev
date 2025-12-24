@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU warns of possible action after the US imposes travel bans on five Europeans, saying it will defend its &quot;regulatory autonomy against unjustified measures&quot; &lpar;Lorne Cook/Associated Press&rpar;](http://www.techmeme.com/251224/p11#a251224p11)
- - [How to Choose a Computer Monitor &lpar;2025&rpar;: Everything You Need to Know](https://www.wired.com/story/how-to-choose-a-computer-monitor/)
- - [The best shows and movies to stream on Netflix in 2025](https://www.theverge.com/entertainment/845388/netflix-best-shows-movies-2025)<!-- TECH:END -->
+ - [Sony’s souped-up PlayStation 5 Pro is $100 off for the rest of today](https://www.theverge.com/gadgets/684281/sony-playstation-5-ps5-pro-christmas-deal-sale-2025)
+ - [Samsung moves closer to producing iPhone 18 camera sensors in Texas](https://appleinsider.com/articles/25/12/24/samsung-moves-closer-to-producing-iphone-18-camera-sensors-in-texas?utm_source=rss)
+ - [Sources: OpenAI staff discussed prioritizing sponsored content in ChatGPT when users ask relevant queries and created mockups with ads in sidebars or as pop-ups &lpar;The Information&rpar;](http://www.techmeme.com/251224/p12#a251224p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
