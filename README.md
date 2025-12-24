@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US is imposing visa restrictions on five Europeans, including Thierry Breton, accusing them of pressuring US tech companies to censor certain US viewpoints &lpar;Fatima Hussein/Associated Press&rpar;](http://www.techmeme.com/251223/p22#a251223p22)
- - [Check your stocking: Google just released Android 16 QPR3 Beta 1.1](https://www.androidauthority.com/android-16-qpr3-beta-1-1-3627665/)
- - [&#39;Pluribus&#39; Release Schedule: When Does the Season Finale Come Out?](https://www.cnet.com/tech/services-and-software/pluribus-episode-release-schedule-apple-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Robot vacuum deal: The ECOVACS Deebot T30S Combo is special, and it’s getting affordable!](https://www.androidauthority.com/ecovacs-deebot-t30s-combo-deal-2-3627608/)
+ - [Fleet management software provider Motive files for a US IPO, reporting a $138.5M net loss on $327.3M in revenue for the nine months ended September 30 &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/251223/p23#a251223p23)
+ - [Maingear&#39;s Opening Salvo for PC Memory Shortage: Supply Your Own](https://www.cnet.com/tech/computing/maingears-opening-salvo-for-pc-memory-shortage-supply-your-own/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
