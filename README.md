@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coffee doesn\u2019t give you energy, it blocks tiredness](http://9gag.com/gag/a2vV4ep)
+ - 💣 [Clippy was right](http://9gag.com/gag/azxz9jm)
  - ⏩ [The drone&#39;s dramatic water landing, complete with a duck-filled audience](http://9gag.com/gag/aVv83vd)
- - 👉 [Clippy was right](http://9gag.com/gag/azxz9jm)<!-- MEMES:END -->
+ - 👉 [Who&#39;s your Daddy](http://9gag.com/gag/aXPzYA9)<!-- MEMES:END -->
 
 ---
 
