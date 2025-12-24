@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robot vacuum deal: The ECOVACS Deebot T30S Combo is special, and it’s getting affordable!](https://www.androidauthority.com/ecovacs-deebot-t30s-combo-deal-2-3627608/)
- - [Fleet management software provider Motive files for a US IPO, reporting a $138.5M net loss on $327.3M in revenue for the nine months ended September 30 &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/251223/p23#a251223p23)
- - [Maingear&#39;s Opening Salvo for PC Memory Shortage: Supply Your Own](https://www.cnet.com/tech/computing/maingears-opening-salvo-for-pc-memory-shortage-supply-your-own/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Trump administration says it will replace the lottery program used to grant H-1B visas with a &quot;weighted&quot; system that prioritizes higher-paid individuals &lpar;Aime Williams/Financial Times&rpar;](http://www.techmeme.com/251223/p25#a251223p25)
+ - [Beyerdynamic Aventho 300 review: Vanilla, for better and worse](https://appleinsider.com/articles/25/12/24/beyerdynamic-aventho-300-review-vanilla-for-better-and-worse?utm_source=rss)
+ - [Best Internet Providers in Boston, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-boston-ma/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
