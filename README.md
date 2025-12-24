@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: India raises concerns about the misuse of Indian phone numbers on WhatsApp, which banned 9.8M Indian accounts per month on average in 2025 to October &lpar;Kiran Rathee/The Economic Times&rpar;](http://www.techmeme.com/251224/p6#a251224p6)
- - [A look at the growing reliance of US data centers and the Pentagon on Chinese batteries, a dependence increasingly viewed as a national security threat &lpar;New York Times&rpar;](http://www.techmeme.com/251224/p5#a251224p5)
- - [Makers Will Have Better Tools and Tech in 2026, and I Couldn&#39;t Be More Excited](https://www.cnet.com/tech/computing/2026-great-year-for-makers-predictions-for-3d-printing-laser-engravers-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Italy&#39;s antitrust authority orders Meta to suspend contractual terms that bar rival AI chatbots from WhatsApp; Meta calls the decision &quot;fundamentally flawed&quot; &lpar;Elvira Pollina/Reuters&rpar;](http://www.techmeme.com/251224/p8#a251224p8)
+ - [S Pen support could return to Galaxy Fold, but not on the phone you want it to](https://www.androidauthority.com/galaxy-fold-s-pen-revival-3627712/)
+ - [The Pixel 10 Pro Fold was a flop, and 2026 is Google’s last chance to fix it](https://www.androidauthority.com/2026-google-last-chance-fix-pixel-foldables-3627391/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
