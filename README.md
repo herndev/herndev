@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After one year, D&amp;D 2024 still doesn’t know what it wants to be](https://www.polygon.com/dnd-2024-review-first-year-dungeons-dragons/)
- - [RIP The Art Of The Old Christmas Time Video Game Commercial](https://kotaku.com/remembering-christmas-time-video-game-commercials-1840545976)
- - [Dell Pushes 15.6″ Laptop Into Clearance at 78% Off &lpar;Ryzen 7, 16GB RAM, 1TB SSD&rpar; to Rival HP Windows PC Deals](https://kotaku.com/dell-pushes-15-6-laptop-into-clearance-at-78-off-ryzen-7-16gb-ram-1tb-ssd-to-rival-hp-windows-pc-deals-2000655477)<!-- GAME:END -->
+ - [Nex Playground, 2025&#39;s hottest toy, is still buyable at Christmas with a twist](https://www.polygon.com/nex-playground-where-buy-hottest-toy-christmas-2025/)
+ - [Clair Obscur Director Says Everything In Its Games ‘Will Be Made By Humans’ Moving Forward](https://kotaku.com/clair-obscur-2-gen-ai-awards-sandfall-interactive-2000655599)
+ - [Intel&#39;s &#39;Serpent Lake&#39; rumoured to be its first chip developed in collaboration with Nvidia](https://www.pcgamer.com/hardware/processors/intels-serpent-lake-is-rumoured-to-be-its-first-chip-developed-in-collaboration-with-nvidia/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
