@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaker battle: iPhone Air 2 will ship in 2026, and not wait until 2027](https://appleinsider.com/articles/25/12/24/leaker-battle-iphone-air-2-will-ship-in-2026-and-not-wait-until-2027?utm_source=rss)
- - [Tired of BlueStacks ads? There’s now a subscription to remove them](https://www.androidauthority.com/bluestacks-prime-launched-3627851/)
- - [Beijing-based DP Technology, which develops AI tools used by researchers for tasks like computer-aided drug design and battery design, raised a ~$114M Series C &lpar;Eunice Xu/South China Morning Post&rpar;](http://www.techmeme.com/251224/p13#a251224p13)<!-- TECH:END -->
+ - [Anker’s beefy Laptop Power Bank has returned to its Black Friday low](https://www.theverge.com/gadgets/849637/anker-laptop-power-bank-xbox-series-x-deal-sale)
+ - [New photos show upcoming OnePlus Turbo in the flesh](https://www.androidauthority.com/oneplus-turbo-photos-leaked-3627879/)
+ - [Tim Cook doubles Nike stake to $6M, Wall Street takes notice](https://appleinsider.com/articles/25/12/24/tim-cook-doubles-nike-stake-to-6m-wall-street-takes-notice?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
