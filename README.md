@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: India raises concerns about the misuse of Indian phone numbers on WhatsApp, which banned 9.8M Indian accounts per month on average in 2025 to October &lpar;Kiran Rathee/The Economic Times&rpar;](http://www.techmeme.com/251224/p6#a251224p6)
  - [A look at the growing reliance of US data centers and the Pentagon on Chinese batteries, a dependence increasingly viewed as a national security threat &lpar;New York Times&rpar;](http://www.techmeme.com/251224/p5#a251224p5)
- - [Yes, that is a real rotary zoom ring on this Leica Edition Ultra phone](https://www.androidauthority.com/xiaomi-17-ultra-leica-edition-teaser-3627705/)
- - [That’s not fair: Fairphone 4 owners report new update bricks their phone](https://www.androidauthority.com/fairphone-4-bricked-update-3627690/)<!-- TECH:END -->
+ - [Makers Will Have Better Tools and Tech in 2026, and I Couldn&#39;t Be More Excited](https://www.cnet.com/tech/computing/2026-great-year-for-makers-predictions-for-3d-printing-laser-engravers-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
