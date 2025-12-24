@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate the holidays the way Saint Nick intended, by blasting through hordes of enemies in the best Christmas-themed FPS mods](https://www.pcgamer.com/games/fps/celebrate-the-holidays-the-way-saint-nick-intended-by-blasting-through-hordes-of-enemies-in-the-best-christmas-themed-fps-mods/)
- - [Fallout season 2&#39;s second episode arrives at the best Wasteland location to date as Todd Howard praises the show for taking &#39;such amazing care to treat locations with this obsessive authenticity&#39;](https://www.pcgamer.com/games/fallout/fallout-season-2s-second-episode-arrives-at-the-best-wasteland-location-to-date-as-todd-howard-praises-the-show-for-taking-such-amazing-care-to-treat-locations-with-this-obsessive-authenticity/)
- - [Pluribus creator Vince Gilligan knows how the show ends](https://www.polygon.com/how-will-pluribus-end-vince-gilligan-interview/)<!-- GAME:END -->
+ - [Amazon Goes Clearance on E-Readers, Kindle Paperwhite Signature Edition &lpar;32GB&rpar; Hits an All-Time Low](https://kotaku.com/amazon-goes-clearance-on-e-readers-kindle-paperwhite-signature-edition-32gb-hits-an-all-time-low-2000655512)
+ - [Terminator 2D: No Fate is the best Terminator since T2](https://www.polygon.com/terminator-2d-no-fate-impressions/)
+ - [The 10 Biggest Gaming Disappointments Of 2025](https://kotaku.com/the-10-biggest-gaming-disappointments-worst-news-game-key-cards-gta-6-delay-2000655356)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
