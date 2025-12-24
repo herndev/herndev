@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
- - ⏩ [Reese Witherspoon&#39;s daughter looks more like Reese Witherspoon than Reese Witherspoon](http://9gag.com/gag/aRBG12B)
- - 👉 [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)<!-- MEMES:END -->
+ - 💣 [Stay safe](http://9gag.com/gag/awyDXqQ)
+ - ⏩ [Go sports!](http://9gag.com/gag/aW4AEox)
+ - 👉 [Haha, classic](http://9gag.com/gag/aAy732L)<!-- MEMES:END -->
 
 ---
 
