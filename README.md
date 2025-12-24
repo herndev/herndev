@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pluribus finale showed there&amp;#8217;s a lot more to the story](https://www.theverge.com/entertainment/848379/pluribus-review-season-1-finale)
- - [YouTube dominates daytime TV streaming, with 6.3M viewers at 11am in October on average, above Netflix&#39;s 2.8M, per Nielsen; prime-time viewership is more even &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/251224/p4#a251224p4)
- - [You can now get 50% off Google’s AI Pro plan with Nano Banana Pro &lpar;but there’s a catch&rpar;](https://www.androidauthority.com/google-ai-pro-plan-deal-3627694/)<!-- TECH:END -->
+ - [A look at the growing reliance of US data centers and the Pentagon on Chinese batteries, a dependence increasingly viewed as a national security threat &lpar;New York Times&rpar;](http://www.techmeme.com/251224/p5#a251224p5)
+ - [Yes, that is a real rotary zoom ring on this Leica Edition Ultra phone](https://www.androidauthority.com/xiaomi-17-ultra-leica-edition-teaser-3627705/)
+ - [That’s not fair: Fairphone 4 owners report new update bricks their phone](https://www.androidauthority.com/fairphone-4-bricked-update-3627690/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
