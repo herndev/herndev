@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
- - ⏩ [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
- - 👉 [Nice watches it is](http://9gag.com/gag/aXPzYd6)<!-- MEMES:END -->
+ - 💣 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
+ - ⏩ [First day on earth?](http://9gag.com/gag/azxzqRj)
+ - 👉 [She looks like she\u2019s gonna ask a historian if King Arthur came a lot.](http://9gag.com/gag/abAoYwO)<!-- MEMES:END -->
 
 ---
 
