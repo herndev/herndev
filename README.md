@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)
- - ⏩ [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)
- - 👉 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)<!-- MEMES:END -->
+ - 💣 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
+ - ⏩ [Because an instant screencap button was TOO perfect.](http://9gag.com/gag/axy8z2n)
+ - 👉 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)<!-- MEMES:END -->
 
 ---
 
