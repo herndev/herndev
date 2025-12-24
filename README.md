@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best game for Zelda fans in 2025 is Pipistrello and the Cursed Yoyo](https://www.polygon.com/zelda-like-game-pipistrello-cursed-yoyo-steam-switch-ps5-xbox/)
- - [Amazon Goes Clearance on E-Readers, Kindle Paperwhite Signature Edition &lpar;32GB&rpar; Hits an All-Time Low](https://kotaku.com/amazon-goes-clearance-on-e-readers-kindle-paperwhite-signature-edition-32gb-hits-an-all-time-low-2000655512)
- - [Terminator 2D: No Fate is the best Terminator since T2](https://www.polygon.com/terminator-2d-no-fate-impressions/)<!-- GAME:END -->
+ - [How to get Magearna in Pokémon Legends: Z-A](https://www.polygon.com/pokemon-legends-z-a-plza-magearna-side-mission-195-requirements/)
+ - [How to respec in Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-respect-guide-recoats/)
+ - [Every Fallout season 2 Easter egg so far](https://www.polygon.com/fallout-season-2-easter-egg-show/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
