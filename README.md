@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s the latest on Google’s work to enhance Android backups](https://www.androidauthority.com/android-backup-features-3627874/)
  - [Anker’s beefy Laptop Power Bank has returned to its Black Friday low](https://www.theverge.com/gadgets/849637/anker-laptop-power-bank-xbox-series-x-deal-sale)
- - [New photos show upcoming OnePlus Turbo in the flesh](https://www.androidauthority.com/oneplus-turbo-photos-leaked-3627879/)
- - [Tim Cook doubles Nike stake to $6M, Wall Street takes notice](https://appleinsider.com/articles/25/12/24/tim-cook-doubles-nike-stake-to-6m-wall-street-takes-notice?utm_source=rss)<!-- TECH:END -->
+ - [Octopath Traveler 0 Review: A Solid JRPG Dragged Down by Forgettable Characters](https://www.cnet.com/tech/gaming/octopath-traveler-0-review-a-solid-jrpg-dragged-down-by-forgettable-characters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
