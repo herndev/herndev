@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The drone&#39;s dramatic water landing, complete with a duck-filled audience](http://9gag.com/gag/aVv83vd)
- - ⏩ [Who&#39;s your Daddy](http://9gag.com/gag/aXPzYA9)
- - 👉 [Japanese children learn the hard way...](http://9gag.com/gag/ary0G15)<!-- MEMES:END -->
+ - 💣 [Funneling money around](http://9gag.com/gag/aQzK3R8)
+ - ⏩ [I just want a better life, Poland do not let me.](http://9gag.com/gag/aoy6OBx)
+ - 👉 [Its got electrolytes but not much else](http://9gag.com/gag/aPA0jBq)<!-- MEMES:END -->
 
 ---
 
