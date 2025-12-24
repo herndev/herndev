@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nex Playground, 2025&#39;s hottest toy, is still buyable at Christmas with a twist](https://www.polygon.com/nex-playground-where-buy-hottest-toy-christmas-2025/)
- - [Clair Obscur Director Says Everything In Its Games ‘Will Be Made By Humans’ Moving Forward](https://kotaku.com/clair-obscur-2-gen-ai-awards-sandfall-interactive-2000655599)
- - [Intel&#39;s &#39;Serpent Lake&#39; rumoured to be its first chip developed in collaboration with Nvidia](https://www.pcgamer.com/hardware/processors/intels-serpent-lake-is-rumoured-to-be-its-first-chip-developed-in-collaboration-with-nvidia/)<!-- GAME:END -->
+ - [Three shining examples of brilliant PC game development in 2025](https://www.pcgamer.com/hardware/three-shining-examples-of-brilliant-pc-game-development-in-2025/)
+ - [Blade director reassures suffering fans with soothing words: &#39;Please be patient, it will be a special game&#39;](https://www.pcgamer.com/games/action/blade-director-reassures-suffering-fans-with-soothing-words-please-be-patient-it-will-be-a-special-game/)
+ - [Legend of Zelda speedrunner completes four-day 100% marathon](https://www.polygon.com/legend-of-zelda-speedrunner-marathon-100-run-nukie/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
