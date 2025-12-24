@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JBL Bar 500MK2 Review: A Fantastic Soundbar System](https://www.wired.com/review/jbl-bar-500-mk2/)
  - [Sony’s souped-up PlayStation 5 Pro is $100 off for the rest of today](https://www.theverge.com/gadgets/684281/sony-playstation-5-ps5-pro-christmas-deal-sale-2025)
- - [Samsung moves closer to producing iPhone 18 camera sensors in Texas](https://appleinsider.com/articles/25/12/24/samsung-moves-closer-to-producing-iphone-18-camera-sensors-in-texas?utm_source=rss)
- - [Sources: OpenAI staff discussed prioritizing sponsored content in ChatGPT when users ask relevant queries and created mockups with ads in sidebars or as pop-ups &lpar;The Information&rpar;](http://www.techmeme.com/251224/p12#a251224p12)<!-- TECH:END -->
+ - [Samsung moves closer to producing iPhone 18 camera sensors in Texas](https://appleinsider.com/articles/25/12/24/samsung-moves-closer-to-producing-iphone-18-camera-sensors-in-texas?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
