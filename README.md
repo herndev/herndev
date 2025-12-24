@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who&#39;s your Daddy](http://9gag.com/gag/aXPzYA9)
- - ⏩ [Japanese children learn the hard way...](http://9gag.com/gag/ary0G15)
- - 👉 [The drone&#39;s dramatic water landing, complete with a duck-filled audience](http://9gag.com/gag/aVv83vd)<!-- MEMES:END -->
+ - 💣 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
+ - ⏩ [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
+ - 👉 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)<!-- MEMES:END -->
 
 ---
 
