@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
- - ⏩ [Because an instant screencap button was TOO perfect.](http://9gag.com/gag/axy8z2n)
- - 👉 [`Have you tried confidence?`](http://9gag.com/gag/aKGyDzj)<!-- MEMES:END -->
+ - 💣 [The drone&#39;s dramatic water landing, complete with a duck-filled audience](http://9gag.com/gag/aVv83vd)
+ - ⏩ [Who&#39;s your Daddy](http://9gag.com/gag/aXPzYA9)
+ - 👉 [Japanese children learn the hard way...](http://9gag.com/gag/ary0G15)<!-- MEMES:END -->
 
 ---
 
