@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: China&#39;s AI regulations, which require chatbots to pass a 2,000-question ideological test, have spawned specialized agencies that help AI companies pass &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/251224/p1#a251224p1)
  - [HCLSoftware, a subsidiary of Indian IT company HCLTech, agrees to acquire business intelligence company Jaspersoft from Cloud Software Group for $240M in cash &lpar;Urvi Malvania/Financial Express&rpar;](http://www.techmeme.com/251223/p29#a251223p29)
- - [Waymo, which paused its service during blackouts in San Francisco on December 20, says it is updating its fleet to improve navigation during widespread outages &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251223/p28#a251223p28)
- - [South Korean prosecutors allege China&#39;s CXMT mass-produced 10nm-class DRAM using leaked Samsung tech, indicting 10 employees who previously worked for Samsung &lpar;Heo Kyungjun/The Asia Business Daily&rpar;](http://www.techmeme.com/251223/p27#a251223p27)<!-- TECH:END -->
+ - [Waymo, which paused its service during blackouts in San Francisco on December 20, says it is updating its fleet to improve navigation during widespread outages &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251223/p28#a251223p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
