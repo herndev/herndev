@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clippy was right](http://9gag.com/gag/azxz9jm)
- - ⏩ [The drone&#39;s dramatic water landing, complete with a duck-filled audience](http://9gag.com/gag/aVv83vd)
- - 👉 [Who&#39;s your Daddy](http://9gag.com/gag/aXPzYA9)<!-- MEMES:END -->
+ - 💣 [Got really lucky. Very blessed.](http://9gag.com/gag/a0eGbVv)
+ - ⏩ [Nice watches it is](http://9gag.com/gag/aXPzYd6)
+ - 👉 [Because an instant screencap button was TOO perfect.](http://9gag.com/gag/axy8z2n)<!-- MEMES:END -->
 
 ---
 
