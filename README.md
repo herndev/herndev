@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe an Underwear Salesgirl](http://9gag.com/gag/aD2LxGd)
- - ⏩ [First day on earth?](http://9gag.com/gag/azxzqRj)
- - 👉 [Nice watches it is](http://9gag.com/gag/aXPzYd6)<!-- MEMES:END -->
+ - 💣 [Watching this log fight the whirlpool is the most satisfying thing you&#39;ll see today](http://9gag.com/gag/aQzK1e7)
+ - ⏩ [Cthulu is pleased](http://9gag.com/gag/aGyqZ3G)
+ - 👉 [That&#39;s not how main character syndrome works](http://9gag.com/gag/azxzX2K)<!-- MEMES:END -->
 
 ---
 
