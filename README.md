@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 games were weird in 2025, and that&#39;s what made it great](https://www.polygon.com/switch-2-games-lineup-2025/)
- - [What free games are on Epic Games Store today &lpar;Dec. 25&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
- - [A massive D&amp;D loot table rewrote my entire campaign](https://www.polygon.com/dnd-dungeons-dragons-loot-table-dm-tpk-tips/)<!-- GAME:END -->
+ - [The Revenant at 10: Leonardo Dicaprio&#39;s divisive Oscar-winner is better than you remember](https://www.polygon.com/how-about-some-reverence-for-the-revenant/)
+ - [2025 might have been the year for Linux gaming, but there&#39;s still a way to go until I switch from Windows](https://www.pcgamer.com/software/linux/2025-might-have-been-the-year-for-linux-gaming-but-theres-still-a-way-to-go-until-i-switch-from-windows/)
+ - [Switch 2 games were weird in 2025, and that&#39;s what made it great](https://www.polygon.com/switch-2-games-lineup-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
