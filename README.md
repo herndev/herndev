@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
- - ⏩ [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 👉 [Parents in Nordic countries put babies outside in winter for better sleep.](http://9gag.com/gag/aVv80nO)<!-- MEMES:END -->
+ - 💣 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - ⏩ [Nice watches it is](http://9gag.com/gag/aXPzYd6)
+ - 👉 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)<!-- MEMES:END -->
 
 ---
 
