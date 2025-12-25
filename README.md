@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amber&#39;s best tech in 2025: Apple TV, mesh Wi-Fi, and an eBike](https://appleinsider.com/articles/25/12/25/ambers-best-tech-in-2025-apple-tv-mesh-wi-fi-and-an-ebike?utm_source=rss)
- - [A look at Detroit&#39;s Apple Developer Academy, launched after the BLM protests, which spends $20K per student, nearly 2x the budget of local community colleges &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/251225/p5#a251225p5)
- - [I bought this cute USB-C router on a whim, and it’s now my favorite tech purchase of 2025](https://www.androidauthority.com/glinet-beryl-ax-travel-router-3625513/)<!-- TECH:END -->
+ - [7 smartphone trends I wish would die in 2026](https://www.androidauthority.com/7-smartphone-trends-die-2026-3624290/)
+ - [Hollywood cozied up to AI in 2025 and had nothing good to show for it](https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025)
+ - [How to Set Up a Smartphone for Elderly Loved Ones](https://www.wired.com/story/how-to-set-up-smartphone-for-parents-grandparents/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
