@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)
- - ⏩ [Top reporter](http://9gag.com/gag/aD2Lgvx)
+ - 💣 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
+ - ⏩ [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
  - 👉 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)<!-- MEMES:END -->
 
 ---
