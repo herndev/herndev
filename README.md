@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 smartphone trends I wish would die in 2026](https://www.androidauthority.com/7-smartphone-trends-die-2026-3624290/)
- - [Hollywood cozied up to AI in 2025 and had nothing good to show for it](https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025)
- - [How to Set Up a Smartphone for Elderly Loved Ones](https://www.wired.com/story/how-to-set-up-smartphone-for-parents-grandparents/)<!-- TECH:END -->
+ - [I re-created Google&amp;#8217;s cute Gemini ad with my own kid&amp;#8217;s stuffie, and I wish I hadn&amp;#8217;t](https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial)
+ - [A look at the humans employed to rescue robotaxis; Waymo uses the Honk app to pay $20 to $24 to manually close robotaxi doors and $60 to $80 to tow its cars &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/251225/p6#a251225p6)
+ - [7 smartphone trends I wish would die in 2026](https://www.androidauthority.com/7-smartphone-trends-die-2026-3624290/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
