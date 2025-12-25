@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a $200 Fake Fireplace From Home Depot Soothed My Soul](https://www.wired.com/story/turbro-suburbs-fireplace-rave-2025/)
- - [We Tested 87 Face Sunscreens and These Are the Best for Year-Round Sun Protection](https://www.cnet.com/health/personal-care/best-sunscreen-for-face/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 25 #662](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-25-662/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amber&#39;s best tech in 2025: Apple TV, mesh Wi-Fi, and an eBike](https://appleinsider.com/articles/25/12/25/ambers-best-tech-in-2025-apple-tv-mesh-wi-fi-and-an-ebike?utm_source=rss)
+ - [A look at Detroit&#39;s Apple Developer Academy, launched after the BLM protests, which spends $20K per student, nearly 2x the budget of local community colleges &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/251225/p5#a251225p5)
+ - [I bought this cute USB-C router on a whim, and it’s now my favorite tech purchase of 2025](https://www.androidauthority.com/glinet-beryl-ax-travel-router-3625513/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
