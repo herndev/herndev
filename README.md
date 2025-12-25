@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
- - ⏩ [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
- - 👉 [My time has come](http://9gag.com/gag/aW4AEgq)<!-- MEMES:END -->
+ - 💣 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)
+ - ⏩ [Top reporter](http://9gag.com/gag/aD2Lgvx)
+ - 👉 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)<!-- MEMES:END -->
 
 ---
 
