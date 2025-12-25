@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A massive D&amp;D loot table rewrote my entire campaign](https://www.polygon.com/dnd-dungeons-dragons-loot-table-dm-tpk-tips/)
- - [How Anaconda&#39;s pee joke came to be: &#39;This is not a job for adult humans&#39;](https://www.polygon.com/anaconda-pee-scene-2025-steve-zahn/)
- - [System Shock 2: 25th Anniversary Edition is the absolute gold standard of remasters](https://www.pcgamer.com/games/sim/system-shock-2-25th-anniversary-edition-is-the-absolute-gold-standard-of-remasters/)<!-- GAME:END -->
+ - [Switch 2 games were weird in 2025, and that&#39;s what made it great](https://www.polygon.com/switch-2-games-lineup-2025/)
+ - [What free games are on Epic Games Store today &lpar;Dec. 25&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
+ - [A massive D&amp;D loot table rewrote my entire campaign](https://www.polygon.com/dnd-dungeons-dragons-loot-table-dm-tpk-tips/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
