@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PitchBook: crypto M&amp;A hit $8.6B across 267 deals in 2025 vs. $2.17B in 2024; 11 crypto IPOs raised $14.6B worldwide, up from $310M from four IPOs in 2024 &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251225/p4#a251225p4)
  - [Tuft &amp; Needle Promo Codes: 20% Off | December 2025](https://www.wired.com/story/tuft-and-needle-promo-code/)
- - [How Larry Ellison is helping his son David build a media empire, including making the case to Trump for why Paramount, not Netflix, should acquire WBD &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/251225/p3#a251225p3)
- - [Sealy Promo Code: Save $200 on Mattresses This Month](https://www.wired.com/story/sealy-promo-code/)<!-- TECH:END -->
+ - [How Larry Ellison is helping his son David build a media empire, including making the case to Trump for why Paramount, not Netflix, should acquire WBD &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/251225/p3#a251225p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
