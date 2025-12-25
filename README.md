@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Seattle, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-seattle-wa/#ftag=CAD590a51e)
  - [Chinese humanoid robot startup Galbot raised over $300M led by China Mobile&#39;s industry investment fund at a $3B valuation, bringing its total funding to $800M &lpar;Eudora Wang/DealStreetAsia&rpar;](http://www.techmeme.com/251224/p18#a251224p18)
- - [Best No-Contract Internet Providers for December 2025](https://www.cnet.com/home/internet/best-no-contract-internet-providers/#ftag=CAD590a51e)
- - [Best Prepaid Phone Plans for 2025](https://www.cnet.com/tech/mobile/best-prepaid-phone-plan/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best No-Contract Internet Providers for December 2025](https://www.cnet.com/home/internet/best-no-contract-internet-providers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
