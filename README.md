@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Top reporter](http://9gag.com/gag/aD2Lgvx)
- - ⏩ [Charlie dies. Erika:](http://9gag.com/gag/ae9E5xj)
- - 👉 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)<!-- MEMES:END -->
+ - ⏩ [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 👉 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)<!-- MEMES:END -->
 
 ---
 
