@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam has been down all Christmas Eve — here&#39;s the issue](https://www.polygon.com/is-steam-down-error-status-loading-winter-sale/)
- - [Pluribus episode 9 just confirmed a chilling new detail about the hivemind](https://www.polygon.com/pluribus-finale-reveals-all-about-the-hivemind/)
- - [Clair Obscur Expedition 33 beginner’s tips before you start](https://www.polygon.com/clair-obscur-expedition-33-guides/562096/beginners-tips-before-starting/)<!-- GAME:END -->
+ - [Apple Quietly Drops the Beats Studio Pro by 49% to Offload ANC Headphone Stock](https://kotaku.com/apple-quietly-drops-the-beats-studio-pro-by-49-to-offload-anc-headphone-stock-2000655539)
+ - [The 10 Best Gaming Surprises Of 2025](https://kotaku.com/the-10-best-gaming-surprises-of-2025-star-wars-fortnite-silksong-elden-ring-2000655408)
+ - [Learn more than you ever wanted to know about the weird world of Santa games on Steam in our Christmas quiz!](https://www.pcgamer.com/games/learn-more-than-you-ever-wanted-to-know-about-the-weird-world-of-santa-games-on-steam-in-our-christmas-quiz/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
