@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Top reporter](http://9gag.com/gag/aD2Lgvx)
- - ⏩ [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 👉 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)<!-- MEMES:END -->
+ - 💣 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
+ - ⏩ [Shock and disbelief](http://9gag.com/gag/an7358L)
+ - 👉 [Based Santa](http://9gag.com/gag/an73QQz)<!-- MEMES:END -->
 
 ---
 
