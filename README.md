@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
- - ⏩ [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - 👉 [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)<!-- MEMES:END -->
+ - 💣 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
+ - ⏩ [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
+ - 👉 [Loyalty is key](http://9gag.com/gag/aZZKLnp)<!-- MEMES:END -->
 
 ---
 
