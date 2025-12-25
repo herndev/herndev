@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Haha, classic](http://9gag.com/gag/aAy732L)
- - ⏩ [Stay safe](http://9gag.com/gag/awyDXqQ)
- - 👉 [When you\u2019re starting losing it](http://9gag.com/gag/a5QAREq)<!-- MEMES:END -->
+ - 💣 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
+ - ⏩ [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
+ - 👉 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)<!-- MEMES:END -->
 
 ---
 
