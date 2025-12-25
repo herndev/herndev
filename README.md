@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi unveils $999+ 17 Ultra in China with three rear cameras, including a 50MP 1&quot; sensor and a 200MP periscope lens; Leica edition gets a mechanical zoom ring &lpar;Siddharth/GSMArena.com&rpar;](http://www.techmeme.com/251225/p9#a251225p9)
  - [The best advanced iPad board game ports for the strategy gamer in your life](https://appleinsider.com/articles/25/12/25/the-best-advanced-ipad-board-game-ports-for-the-strategy-gamer-in-your-life?utm_source=rss)
- - [AI sector minted 50+ new billionaires in 2025; Crunchbase: investors poured $200B+ into AI startups in 2025, or about 50% of global funding, up from 34% in 2024 &lpar;Alicia Park/Forbes&rpar;](http://www.techmeme.com/251225/p8#a251225p8)
- - [Tesla&#39;s robotaxi service in Austin significantly trails Waymo, deploying an estimated 30 cars with safety drivers, vs. Waymo&#39;s 200 cars without human monitors &lpar;Jack Ewing/New York Times&rpar;](http://www.techmeme.com/251225/p7#a251225p7)<!-- TECH:END -->
+ - [AI sector minted 50+ new billionaires in 2025; Crunchbase: investors poured $200B+ into AI startups in 2025, or about 50% of global funding, up from 34% in 2024 &lpar;Alicia Park/Forbes&rpar;](http://www.techmeme.com/251225/p8#a251225p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
