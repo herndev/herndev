@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go sports!](http://9gag.com/gag/aW4AEox)
- - ⏩ [Haha, classic](http://9gag.com/gag/aAy732L)
- - 👉 [Stay safe](http://9gag.com/gag/awyDXqQ)<!-- MEMES:END -->
+ - 💣 [Haha, classic](http://9gag.com/gag/aAy732L)
+ - ⏩ [Stay safe](http://9gag.com/gag/awyDXqQ)
+ - 👉 [When you\u2019re starting losing it](http://9gag.com/gag/a5QAREq)<!-- MEMES:END -->
 
 ---
 
