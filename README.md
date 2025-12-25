@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Quietly Drops the Beats Studio Pro by 49% to Offload ANC Headphone Stock](https://kotaku.com/apple-quietly-drops-the-beats-studio-pro-by-49-to-offload-anc-headphone-stock-2000655539)
- - [The 10 Best Gaming Surprises Of 2025](https://kotaku.com/the-10-best-gaming-surprises-of-2025-star-wars-fortnite-silksong-elden-ring-2000655408)
- - [Learn more than you ever wanted to know about the weird world of Santa games on Steam in our Christmas quiz!](https://www.pcgamer.com/games/learn-more-than-you-ever-wanted-to-know-about-the-weird-world-of-santa-games-on-steam-in-our-christmas-quiz/)<!-- GAME:END -->
+ - [The PS1 Grinch game’s creepy ending will haunt your holidays forever](https://www.polygon.com/grinch-game-playstation-ending/)
+ - [The best games environments in 2025](https://www.polygon.com/best-games-environments-2025/)
+ - [Tavern Keeper is the management sim of my dreams, and the best thing I&#39;ve played in early access in 2025](https://www.pcgamer.com/games/sim/tavern-keeper-is-the-management-sim-of-my-dreams-and-the-best-thing-ive-played-in-early-access-in-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
