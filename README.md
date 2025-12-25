@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tuft &amp; Needle Promo Codes: 20% Off | December 2025](https://www.wired.com/story/tuft-and-needle-promo-code/)
  - [How Larry Ellison is helping his son David build a media empire, including making the case to Trump for why Paramount, not Netflix, should acquire WBD &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/251225/p3#a251225p3)
- - [Sealy Promo Code: Save $200 on Mattresses This Month](https://www.wired.com/story/sealy-promo-code/)
- - [Sources: Nvidia&#39;s licensing deal with Groq, which has raised ~$1.8B, includes payouts to Groq&#39;s key execs and investors, including BlackRock and Tiger Global &lpar;The Information&rpar;](http://www.techmeme.com/251225/p2#a251225p2)<!-- TECH:END -->
+ - [Sealy Promo Code: Save $200 on Mattresses This Month](https://www.wired.com/story/sealy-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
