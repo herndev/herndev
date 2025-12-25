@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Skinny Cat.brwn](http://9gag.com/gag/an73M7V)
- - ⏩ [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
- - 👉 [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)<!-- MEMES:END -->
+ - 💣 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - ⏩ [And there it is. Straight from the files.](http://9gag.com/gag/aByMgPN)
+ - 👉 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)<!-- MEMES:END -->
 
 ---
 
