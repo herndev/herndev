@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
- - ⏩ [Hand breaking doesn&#39;t work](http://9gag.com/gag/a6ZzKpA)
- - 👉 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)<!-- MEMES:END -->
+ - 💣 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - ⏩ [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 👉 [Nice watches it is](http://9gag.com/gag/aXPzYd6)<!-- MEMES:END -->
 
 ---
 
