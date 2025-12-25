@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
- - ⏩ [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
- - 👉 [Brazil is not for beginners](http://9gag.com/gag/aGyqgp6)<!-- MEMES:END -->
+ - 💣 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
+ - ⏩ [Hand breaking doesn&#39;t work](http://9gag.com/gag/a6ZzKpA)
+ - 👉 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)<!-- MEMES:END -->
 
 ---
 
