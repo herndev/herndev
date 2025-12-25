@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
- - ⏩ [That&#39;s what a healthy society can look like...](http://9gag.com/gag/avyV8gn)
- - 👉 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)<!-- MEMES:END -->
+ - 💣 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - ⏩ [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
+ - 👉 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)<!-- MEMES:END -->
 
 ---
 
