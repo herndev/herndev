@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pluribus episode 9 just confirmed a chilling new detail about the hivemind](https://www.polygon.com/pluribus-finale-reveals-all-about-the-hivemind/)
  - [Clair Obscur Expedition 33 beginner’s tips before you start](https://www.polygon.com/clair-obscur-expedition-33-guides/562096/beginners-tips-before-starting/)
- - [Surprise Pokémon Leak Reveals Fresh Clues About The New Gen 10 Games](https://kotaku.com/pokemon-gen-10-wind-wave-map-leak-pikachu-professor-2000655613)
- - [Twas the day before Christmas and Steam is having some serious issues](https://www.pcgamer.com/games/twas-the-day-before-christmas-and-steam-is-down/)<!-- GAME:END -->
+ - [Surprise Pokémon Leak Reveals Fresh Clues About The New Gen 10 Games](https://kotaku.com/pokemon-gen-10-wind-wave-map-leak-pikachu-professor-2000655613)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
