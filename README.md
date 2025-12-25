@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - ⏩ [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
- - 👉 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)<!-- MEMES:END -->
+ - 💣 [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
+ - ⏩ [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - 👉 [Parents in Nordic countries put babies outside in winter for better sleep.](http://9gag.com/gag/aVv80nO)<!-- MEMES:END -->
 
 ---
 
