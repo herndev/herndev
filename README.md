@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice watches it is](http://9gag.com/gag/aXPzYd6)
- - ⏩ [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 👉 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)<!-- MEMES:END -->
+ - 💣 [Top reporter](http://9gag.com/gag/aD2Lgvx)
+ - ⏩ [Charlie dies. Erika:](http://9gag.com/gag/ae9E5xj)
+ - 👉 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)<!-- MEMES:END -->
 
 ---
 
