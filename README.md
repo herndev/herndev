@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow.. Doing these things all day long is crazy...](http://9gag.com/gag/aLn3ggz)
- - ⏩ [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
- - 👉 [Loyalty is key](http://9gag.com/gag/aZZKLnp)<!-- MEMES:END -->
+ - 💣 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
+ - ⏩ [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)
+ - 👉 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)<!-- MEMES:END -->
 
 ---
 
