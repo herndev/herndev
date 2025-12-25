@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [A Klaus relationship](http://9gag.com/gag/aQzKRpe)
- - ⏩ [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
+ - ⏩ [That&#39;s what a healthy society can look like...](http://9gag.com/gag/avyV8gn)
  - 👉 [Go to thailand they said, it will be fun they said](http://9gag.com/gag/a9yeKKW)<!-- MEMES:END -->
 
 ---
