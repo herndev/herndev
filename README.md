@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)
- - ⏩ [Nice watches it is](http://9gag.com/gag/aXPzYd6)
- - 👉 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)<!-- MEMES:END -->
+ - 💣 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)
+ - ⏩ [Where is the PRNDL?](http://9gag.com/gag/amoyB36)
+ - 👉 [Brazil is not for beginners](http://9gag.com/gag/aGyqgp6)<!-- MEMES:END -->
 
 ---
 
