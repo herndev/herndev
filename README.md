@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can feel this clip](http://9gag.com/gag/a4P83m1)
- - ⏩ [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
- - 👉 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)<!-- MEMES:END -->
+ - 💣 [Give me your best Websites](http://9gag.com/gag/a4P8EYA)
+ - ⏩ [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
+ - 👉 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)<!-- MEMES:END -->
 
 ---
 
