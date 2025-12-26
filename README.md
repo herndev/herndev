@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Give me your best Websites](http://9gag.com/gag/a4P8EYA)
- - ⏩ [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
- - 👉 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)<!-- MEMES:END -->
+ - 💣 [Daddy you know so much](http://9gag.com/gag/aByMm3D)
+ - ⏩ [The breakfast hasn&#39;t been delivered on schedule](http://9gag.com/gag/aPA03dQ)
+ - 👉 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)<!-- MEMES:END -->
 
 ---
 
