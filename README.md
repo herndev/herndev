@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - ⏩ [Trump is mentioned over 600 times in the redacted Epstein files.](http://9gag.com/gag/a5QAWqr)
- - 👉 [I dont know what to feel](http://9gag.com/gag/a4P81KZ)<!-- MEMES:END -->
+ - 💣 [Give me your best Websites](http://9gag.com/gag/a4P8EYA)
+ - ⏩ [I dont know what to feel](http://9gag.com/gag/a4P81KZ)
+ - 👉 [Trump is mentioned over 600 times in the redacted Epstein files.](http://9gag.com/gag/a5QAWqr)<!-- MEMES:END -->
 
 ---
 
