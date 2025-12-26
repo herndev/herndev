@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)
- - ⏩ [I can feel this clip](http://9gag.com/gag/a4P83m1)
- - 👉 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)<!-- MEMES:END -->
+ - 💣 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
+ - ⏩ [I hate my neighbors!](http://9gag.com/gag/amoyg0o)
+ - 👉 [I can feel this clip](http://9gag.com/gag/a4P83m1)<!-- MEMES:END -->
 
 ---
 
