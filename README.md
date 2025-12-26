@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Save $70 on the Jackery Explorer 240D Power Bank](https://www.androidauthority.com/jackery-explorer-240d-power-bank-deal-2-3627939/)
- - [Amazon slashes $250 off M4 MacBook Air models, prices from $749](https://appleinsider.com/articles/25/12/26/amazon-slashes-250-off-m4-macbook-air-models-prices-from-749?utm_source=rss)
- - [Coinbase says a former customer service agent was arrested in India, following a May breach where hackers bribed contractors to access sensitive customer data &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/251226/p11#a251226p11)<!-- TECH:END -->
+ - [This deal on the Samsung Galaxy Watch Ultra &lpar;2025&rpar; is crazy good!](https://www.androidauthority.com/samsung-galaxy-watch-ultra-2025-deal-2-3627938/)
+ - [NY Gov. Kathy Hochul signs a law requiring social platforms with features like autoplay and addictive feeds to show mental health warning labels for young users &lpar;Felix Day/WRGB&rpar;](http://www.techmeme.com/251226/p12#a251226p12)
+ - [Today&#39;s Wordle Hints, Answer and Help for Dec. 27, #1,652](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-27-1652/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
