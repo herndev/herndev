@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Abyss explained: Stranger Things reveals the true nature of the Upside Down with another D&amp;D reference](https://www.polygon.com/stranger-things-season-5-abyss-dungeons-and-dragons-explainer/)
- - [Wizards vs sorcerers: Stranger Things season 5 hinges on the difference](https://www.polygon.com/dungeons-and-dragons-spellcasters-sorcerer-stranger-things-season-5/)
- - [The Revenant at 10: Leonardo Dicaprio&#39;s divisive Oscar-winner is better than you remember](https://www.polygon.com/how-about-some-reverence-for-the-revenant/)<!-- GAME:END -->
+ - [Govee LED Cylinder Floor Lamp Drops to Its Lowest Price to Clear Out Remaining Stock](https://kotaku.com/govee-led-cylinder-floor-lamp-drops-to-its-lowest-price-to-clear-out-remaining-stock-2000655263)
+ - [Stranger Things spinoffs: The Duffer brothers say they&#39;re ‘heavily involved’](https://www.polygon.com/stranger-things-season-5-interview-duffers/)
+ - [Apple AirPods Pro 3 Are Now Cheaper Than Pro 2, Clearing Out Latest Stock at Record Low Before 2026](https://kotaku.com/apple-airpods-pro-3-are-now-cheaper-than-pro-2-clearing-out-latest-stock-at-record-low-before-2026-2000655269)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
