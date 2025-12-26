@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sleep Number P6 Smart Bed Review: Advanced and Adaptive](https://www.wired.com/review/sleep-number-p6-smart-bed/)
- - [US Trade Dominance Will Soon Begin to Crack](https://www.wired.com/story/us-trade-dominance-will-begin-to-crack/)
- - [Internal documents: Instagram execs have waged an aggressive campaign to win back teens, boosting teen-friendly influencers, adjusting its algorithm, and more &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/251226/p5#a251226p5)<!-- TECH:END -->
+ - [Chinese government data: shipments of foreign-branded mobile phones, primarily iPhones, rose 128.4% YoY in November 2025 to 6.93M units &lpar;Reuters&rpar;](http://www.techmeme.com/251226/p6#a251226p6)
+ - [My 7 wishes for Android phones in 2026](https://www.androidauthority.com/my-wishes-android-phones-2026-3619871/)
+ - [How to buy a refurbished iPhone without getting burned](https://appleinsider.com/articles/25/12/26/how-to-buy-a-refurbished-iphone-without-getting-burned?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
