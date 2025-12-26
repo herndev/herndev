@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 10 best sci-fi and fantasy movies of 2025, ranked](https://www.polygon.com/best-science-fiction-fantasy-movies-of-2025/)
- - [DJI Slashes the Osmo Gimbal Stabilizer to a Record Low Following Drone Clearance Deals](https://kotaku.com/dji-slashes-the-osmo-gimbal-stabilizer-to-a-record-low-following-drone-clearance-deals-2000655254)
- - [Zelda: ToTK on Switch 2 was my 2025 GOTY](https://www.polygon.com/tears-of-the-kingdom-switch-2-goty-2025/)<!-- GAME:END -->
+ - [Ninja games defined the best gaming trend in 2025](https://www.polygon.com/best-ninja-games-2025/)
+ - [Metroid Prime 4 Devs Explain How They Got Stuck With An Open-World Hub](https://kotaku.com/metroid-prime-4-devs-retro-stuck-open-world-hub-motorcycle-design-2000655694)
+ - [I Think The Mega Dimension DLC Might’ve Made My Pokémon Stupid](https://kotaku.com/pokemon-legends-za-mega-dimension-attack-pathing-bug-2000655683)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
