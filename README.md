@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Iconic Scooby-Doo star Matthew Lillard&#39;s advice for the next Shaggy](https://www.polygon.com/scooby-doo-matthew-lillard-netflix-live-action-shaggy/)
- - [GGMods is a kind of gaming mods platform kicking off with a contest](https://www.polygon.com/why-ggmods-is-building-a-new-home-for-the-underground-developerartist/)
- - [Nicolas Cage&#39;s Madden looks like 2026&#39;s best video game movie](https://www.polygon.com/madden-nfl-movie-trailer-nicolas-cage-release-date/)<!-- GAME:END -->
+ - [Professor Layton Boss Wants People To Stop Demonizing Generative AI](https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721)
+ - [A Giant Lord Of The Rings Minas Tirith Lego Set Rumored To Cost Over $600](https://kotaku.com/lord-rings-lego-minas-tirith-price-release-date-2000655729)
+ - [Persona 5: The Phantom X had a hard time doing away with the series&#39; iconic calendar system: &#39;It was very difficult to convince the team&#39;](https://www.pcgamer.com/games/rpg/persona-5-the-phantom-x-had-a-hard-time-doing-away-with-the-series-iconic-calendar-system-it-was-very-difficult-to-convince-the-team/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
