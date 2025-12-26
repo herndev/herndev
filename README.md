@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Chinese government data: shipments of foreign-branded mobile phones, primarily iPhones, rose 128.4% YoY in November 2025 to 6.93M units &lpar;Reuters&rpar;](http://www.techmeme.com/251226/p6#a251226p6)
- - [My 7 wishes for Android phones in 2026](https://www.androidauthority.com/my-wishes-android-phones-2026-3619871/)
- - [How to buy a refurbished iPhone without getting burned](https://appleinsider.com/articles/25/12/26/how-to-buy-a-refurbished-iphone-without-getting-burned?utm_source=rss)<!-- TECH:END -->
+ - [Want to Try Film Photography? Here Are the Analog Cameras You Should Buy](https://www.cnet.com/tech/computing/want-to-try-film-photography-here-are-the-analog-cameras-you-should-buy/#ftag=CAD590a51e)
+ - [NFL Week 17: How To Watch Texans vs. Chargers, Eagles vs. Bills and More Games From Anywhere](https://www.cnet.com/tech/services-and-software/nfl-week-17-how-to-watch-texans-vs-chargers-eagles-vs-bills-and-more-games-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
