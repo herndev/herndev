@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ch1nese tourists in japan](http://9gag.com/gag/azxz90B)
- - ⏩ [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
- - 👉 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)<!-- MEMES:END -->
+ - 💣 [Meredith&#39;s dating philosophy is unmatched](http://9gag.com/gag/aO8O7ev)
+ - ⏩ [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
+ - 👉 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)<!-- MEMES:END -->
 
 ---
 
