@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 💣 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)
  - ⏩ [I can feel this clip](http://9gag.com/gag/a4P83m1)
- - 👉 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)<!-- MEMES:END -->
+ - 👉 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)<!-- MEMES:END -->
 
 ---
 
