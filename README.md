@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese government data: shipments of foreign-branded mobile phones, primarily iPhones, rose 128.4% YoY in November 2025 to 6.93M units &lpar;Reuters&rpar;](http://www.techmeme.com/251226/p6#a251226p6)
- - [Want to Try Film Photography? Here Are the Analog Cameras You Should Buy](https://www.cnet.com/tech/computing/want-to-try-film-photography-here-are-the-analog-cameras-you-should-buy/#ftag=CAD590a51e)
- - [NFL Week 17: How To Watch Texans vs. Chargers, Eagles vs. Bills and More Games From Anywhere](https://www.cnet.com/tech/services-and-software/nfl-week-17-how-to-watch-texans-vs-chargers-eagles-vs-bills-and-more-games-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 10 best shows to stream on Amazon Prime Video from 2025](https://www.theverge.com/entertainment/846767/amazon-prime-video-best-shows-2025)
+ - [This AI video enhancer for Mac fixes blur, reduces noise, and upscales to 4K](https://appleinsider.com/articles/25/12/26/this-ai-video-enhancer-for-mac-fixes-blur-reduces-noise-and-upscales-to-4k?utm_source=rss)
+ - [Sergey Brin thought he had his Steve Jobs moment with the failed Google Glass](https://appleinsider.com/articles/25/12/26/sergey-brin-thought-he-had-his-steve-jobs-moment-with-the-failed-google-glass?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
