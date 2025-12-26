@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Charlie dies. Erika:](http://9gag.com/gag/ae9E5xj)
- - ⏩ [Top reporter](http://9gag.com/gag/aD2Lgvx)
- - 👉 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)<!-- MEMES:END -->
+ - 💣 [The breakfast hasn&#39;t been delivered on schedule](http://9gag.com/gag/aPA03dQ)
+ - ⏩ [Daddy you know so much](http://9gag.com/gag/aByMm3D)
+ - 👉 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)<!-- MEMES:END -->
 
 ---
 
