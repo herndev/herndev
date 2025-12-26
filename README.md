@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Relax after a holiday feast by joining us for a nostalgic tour of old Japanese game mags that blurred the lines between analogue and digital](https://www.pcgamer.com/games/relax-after-a-holiday-feast-by-joining-us-for-a-nostalgic-tour-of-old-japanese-game-mags-that-blurred-the-lines-between-analogue-and-digital/)
  - [Pluribus&#39; existential art question, answered by Vince Gilligan and Rhea Seehorn](https://www.polygon.com/does-the-hivemind-in-pluribus-appreciate-art-vince-gilligan/)
- - [&#39;It was definitely interesting&#39;: Persona 5: The Phantom X developer was surprised that people outside of Japan were &#39;cheering&#39; for the Subway Slammer](https://www.pcgamer.com/games/rpg/it-was-definitely-interesting-persona-5-the-phantom-x-developer-was-surprised-that-people-outside-of-japan-were-cheering-for-the-subway-slammer/)
- - [PC gaming has a pricing problem, and the memory crisis is compounding it in a way that&#39;s utterly heartbreaking for our hobby](https://www.pcgamer.com/hardware/pc-gaming-has-a-pricing-problem-and-the-memory-crisis-is-compounding-it-in-a-way-thats-utterly-heartbreaking-for-our-hobby/)<!-- GAME:END -->
+ - [&#39;It was definitely interesting&#39;: Persona 5: The Phantom X developer was surprised that people outside of Japan were &#39;cheering&#39; for the Subway Slammer](https://www.pcgamer.com/games/rpg/it-was-definitely-interesting-persona-5-the-phantom-x-developer-was-surprised-that-people-outside-of-japan-were-cheering-for-the-subway-slammer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
