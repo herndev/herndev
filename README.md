@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Refinitiv: AI infrastructure companies borrowed $100B+ in 2025; small companies face higher interest rates given investor wariness over unproven AI businesses &lpar;Joe Rennison/New York Times&rpar;](http://www.techmeme.com/251226/p9#a251226p9)
- - [New LG GM9 5K mini LED display adopts AI scaling, anti-blooming tech](https://appleinsider.com/articles/25/12/26/new-lg-gm9-5k-mini-led-display-adopts-ai-scaling-anti-blooming-tech?utm_source=rss)
- - [Cyberpunk 2077: Ultimate Edition and other Switch games are up to 50 percent off](https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off)<!-- TECH:END -->
+ - [Pixel 8 gets an unexpected camera update for the holidays](https://www.androidauthority.com/google-pixel-8-panorama-mode-ui-3627929/)
+ - [“Just One More Chapter” and Other Lies: 25 Books CNET Staff Are Reading Over the Holiday Break](https://www.cnet.com/deals/cnet-holiday-reading-list/#ftag=CAD590a51e)
+ - [Vibe Coding as a Non-Coder: 6 Ways I Found to Have More Fun and Better Luck Creating With AI](https://www.cnet.com/tech/services-and-software/vibe-coding-as-a-non-coder-6-ways-i-found-to-have-more-fun-and-better-luck-creating-with-ai/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
