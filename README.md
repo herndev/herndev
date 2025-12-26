@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The breakfast hasn&#39;t been delivered on schedule](http://9gag.com/gag/aPA03dQ)
- - ⏩ [Daddy you know so much](http://9gag.com/gag/aByMm3D)
- - 👉 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)<!-- MEMES:END -->
+ - 💣 [I can feel this clip](http://9gag.com/gag/a4P83m1)
+ - ⏩ [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)
+ - 👉 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)<!-- MEMES:END -->
 
 ---
 
