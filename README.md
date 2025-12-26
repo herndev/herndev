@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
- - ⏩ [Top reporter](http://9gag.com/gag/aD2Lgvx)
- - 👉 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)<!-- MEMES:END -->
+ - 💣 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - ⏩ [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
+ - 👉 [Profile pic vs reality](http://9gag.com/gag/a34DRpQ)<!-- MEMES:END -->
 
 ---
 
