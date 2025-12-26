@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As startups flood the market with AI shopping agents, Amazon is playing defense by blocking agents&#39; access to its site and investing heavily in its own tools &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251225/p13#a251225p13)
- - [Best Family Phone Plans for 2025](https://www.cnet.com/tech/mobile/best-family-phone-plan/#ftag=CAD590a51e)
- - [A US judge temporarily blocks the Trump administration from detaining CCDH CEO Imran Ahmed, one of the Europeans the US barred on claims of promoting censorship &lpar;Aishvarya Kavi/New York Times&rpar;](http://www.techmeme.com/251225/p12#a251225p12)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 26, #459](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-26-459/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Dec. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-dec-26/#ftag=CAD590a51e)
+ - [As startups flood the market with AI shopping agents, Amazon is playing defense by blocking agents&#39; access to its site and investing heavily in its own tools &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251225/p13#a251225p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
