@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ninja games defined the best gaming trend in 2025](https://www.polygon.com/best-ninja-games-2025/)
- - [Metroid Prime 4 Devs Explain How They Got Stuck With An Open-World Hub](https://kotaku.com/metroid-prime-4-devs-retro-stuck-open-world-hub-motorcycle-design-2000655694)
- - [I Think The Mega Dimension DLC Might’ve Made My Pokémon Stupid](https://kotaku.com/pokemon-legends-za-mega-dimension-attack-pathing-bug-2000655683)<!-- GAME:END -->
+ - [Iconic Scooby-Doo star Matthew Lillard&#39;s advice for the next Shaggy](https://www.polygon.com/scooby-doo-matthew-lillard-netflix-live-action-shaggy/)
+ - [GGMods is a kind of gaming mods platform kicking off with a contest](https://www.polygon.com/why-ggmods-is-building-a-new-home-for-the-underground-developerartist/)
+ - [Nicolas Cage&#39;s Madden looks like 2026&#39;s best video game movie](https://www.polygon.com/madden-nfl-movie-trailer-nicolas-cage-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
