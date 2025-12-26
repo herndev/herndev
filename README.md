@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Glazing finish](http://9gag.com/gag/a2vV7WE)
- - ⏩ [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 👉 [Flash for free lemonade](http://9gag.com/gag/aAy7GML)<!-- MEMES:END -->
+ - 💣 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - ⏩ [I can feel this clip](http://9gag.com/gag/a4P83m1)
+ - 👉 [`There is no evidence...`](http://9gag.com/gag/aNDXgOK)<!-- MEMES:END -->
 
 ---
 
