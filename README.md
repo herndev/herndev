@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can feel this clip](http://9gag.com/gag/a4P83m1)
- - ⏩ [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - 👉 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)<!-- MEMES:END -->
+ - 💣 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - ⏩ [Can&#39;t agree more](http://9gag.com/gag/aPA030q)
+ - 👉 [I can feel this clip](http://9gag.com/gag/a4P83m1)<!-- MEMES:END -->
 
 ---
 
