@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Family Phone Plans for 2025](https://www.cnet.com/tech/mobile/best-family-phone-plan/#ftag=CAD590a51e)
  - [A US judge temporarily blocks the Trump administration from detaining CCDH CEO Imran Ahmed, one of the Europeans the US barred on claims of promoting censorship &lpar;Aishvarya Kavi/New York Times&rpar;](http://www.techmeme.com/251225/p12#a251225p12)
- - [An interview with Citizen Lab founder Ronald Deibert about the US adopting authoritarian digital practices, the research group&#39;s accomplishments, and more &lpar;Finian Hazen/MIT Technology Review&rpar;](http://www.techmeme.com/251225/p11#a251225p11)
- - [Deal alert: AirPods Pro 3 are back on sale for $199 &lpar;$50 off&rpar;](https://appleinsider.com/articles/25/12/25/deal-alert-airpods-pro-3-are-back-on-sale-for-199-50-off?utm_source=rss)<!-- TECH:END -->
+ - [An interview with Citizen Lab founder Ronald Deibert about the US adopting authoritarian digital practices, the research group&#39;s accomplishments, and more &lpar;Finian Hazen/MIT Technology Review&rpar;](http://www.techmeme.com/251225/p11#a251225p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
