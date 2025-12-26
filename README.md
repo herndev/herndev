@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can feel this clip](http://9gag.com/gag/a4P83m1)
- - ⏩ [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
- - 👉 [Give me your best Websites](http://9gag.com/gag/a4P8EYA)<!-- MEMES:END -->
+ - 💣 [Don&#39;t do it......... DON&#39;T DO IT........ DON&#39;T-!](http://9gag.com/gag/azxzmyK)
+ - ⏩ [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 👉 [Tony breaking the character](http://9gag.com/gag/aXPzrjD)<!-- MEMES:END -->
 
 ---
 
