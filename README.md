@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The breakfast hasn&#39;t been delivered on schedule](http://9gag.com/gag/aPA03dQ)
- - ⏩ [Daddy you know so much](http://9gag.com/gag/aByMm3D)
- - 👉 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)<!-- MEMES:END -->
+ - 💣 [I can feel this clip](http://9gag.com/gag/a4P83m1)
+ - ⏩ [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 👉 [The X&#39;mas joy](http://9gag.com/gag/a9yenBZ)<!-- MEMES:END -->
 
 ---
 
