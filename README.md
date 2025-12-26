@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Daddy you know so much](http://9gag.com/gag/aByMm3D)
- - ⏩ [The breakfast hasn&#39;t been delivered on schedule](http://9gag.com/gag/aPA03dQ)
- - 👉 [Aaaaaahhhh](http://9gag.com/gag/aE0bp1M)<!-- MEMES:END -->
+ - 💣 [Top reporter](http://9gag.com/gag/aD2Lgvx)
+ - ⏩ [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
+ - 👉 [Avatar 3](http://9gag.com/gag/an73g4E)<!-- MEMES:END -->
 
 ---
 
