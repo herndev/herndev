@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This deal on the Samsung Galaxy Watch Ultra &lpar;2025&rpar; is crazy good!](https://www.androidauthority.com/samsung-galaxy-watch-ultra-2025-deal-2-3627938/)
- - [NY Gov. Kathy Hochul signs a law requiring social platforms with features like autoplay and addictive feeds to show mental health warning labels for young users &lpar;Felix Day/WRGB&rpar;](http://www.techmeme.com/251226/p12#a251226p12)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 27, #1,652](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-27-1652/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Five FaZe Clan influencers exit after failed contract talks with new management; Matt Kalish, who invested $10M, calls FaZe&#39;s current structure &quot;unsustainable&quot; &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/251226/p13#a251226p13)
+ - [Rare deal on the Google Pixel Buds Pro 2 saves you 28%](https://www.androidauthority.com/google-pixel-buds-pro-2-deal-3-3627937/)
+ - [Trump’s war on offshore wind faces another lawsuit](https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
