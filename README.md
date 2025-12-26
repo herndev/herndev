@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Super cute UGREEN Uno 30W Charger hits new record-low price](https://www.androidauthority.com/ugreen-uno-30w-charger-deal-2-3627607/)
  - [Rodeo is an app for making plans with friends you already have](https://www.theverge.com/news/850398/rodeo-hinge-social-app-friends)
- - [Federal records show ICE has increased its surveillance tech spending to $300M+ under Trump, as the White House lowered privacy guardrails around citizens&#39; data &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/251226/p10#a251226p10)
- - [Wes Hilliard&#39;s best tech in 2025: Apple Vision Pro, Invites, &amp; e-bikes](https://appleinsider.com/articles/25/12/26/wes-hilliards-best-tech-in-2025-apple-vision-pro-invites-e-bikes?utm_source=rss)<!-- TECH:END -->
+ - [Federal records show ICE has increased its surveillance tech spending to $300M+ under Trump, as the White House lowered privacy guardrails around citizens&#39; data &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/251226/p10#a251226p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
