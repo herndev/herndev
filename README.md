@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 8 gets an unexpected camera update for the holidays](https://www.androidauthority.com/google-pixel-8-panorama-mode-ui-3627929/)
- - [“Just One More Chapter” and Other Lies: 25 Books CNET Staff Are Reading Over the Holiday Break](https://www.cnet.com/deals/cnet-holiday-reading-list/#ftag=CAD590a51e)
- - [Vibe Coding as a Non-Coder: 6 Ways I Found to Have More Fun and Better Luck Creating With AI](https://www.cnet.com/tech/services-and-software/vibe-coding-as-a-non-coder-6-ways-i-found-to-have-more-fun-and-better-luck-creating-with-ai/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rodeo is an app for making plans with friends you already have](https://www.theverge.com/news/850398/rodeo-hinge-social-app-friends)
+ - [Federal records show ICE has increased its surveillance tech spending to $300M+ under Trump, as the White House lowered privacy guardrails around citizens&#39; data &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/251226/p10#a251226p10)
+ - [Wes Hilliard&#39;s best tech in 2025: Apple Vision Pro, Invites, &amp; e-bikes](https://appleinsider.com/articles/25/12/26/wes-hilliards-best-tech-in-2025-apple-vision-pro-invites-e-bikes?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
