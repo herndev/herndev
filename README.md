@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Revenant at 10: Leonardo Dicaprio&#39;s divisive Oscar-winner is better than you remember](https://www.polygon.com/how-about-some-reverence-for-the-revenant/)
- - [2025 might have been the year for Linux gaming, but there&#39;s still a way to go until I switch from Windows](https://www.pcgamer.com/software/linux/2025-might-have-been-the-year-for-linux-gaming-but-theres-still-a-way-to-go-until-i-switch-from-windows/)
- - [Switch 2 games were weird in 2025, and that&#39;s what made it great](https://www.polygon.com/switch-2-games-lineup-2025/)<!-- GAME:END -->
+ - [The Abyss explained: Stranger Things reveals the true nature of the Upside Down with another D&amp;D reference](https://www.polygon.com/stranger-things-season-5-abyss-dungeons-and-dragons-explainer/)
+ - [Wizards vs sorcerers: Stranger Things season 5 hinges on the difference](https://www.polygon.com/dungeons-and-dragons-spellcasters-sorcerer-stranger-things-season-5/)
+ - [The Revenant at 10: Leonardo Dicaprio&#39;s divisive Oscar-winner is better than you remember](https://www.polygon.com/how-about-some-reverence-for-the-revenant/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
