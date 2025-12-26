@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Things&#39; episode 8 had the entire cast crying, star says](https://www.polygon.com/noah-schnapp-stranger-things-season-5-interview/)
- - [Peak devs were ready to go &#39;into vacation mode&#39; after releasing it, but then it sold 1M copies in the first week: &#39;That quickly became a pipe dream&#39;](https://www.pcgamer.com/games/survival-crafting/peak-devs-were-ready-to-go-into-vacation-mode-after-releasing-it-but-then-it-sold-1m-copies-in-the-first-week-that-quickly-became-a-pipe-dream/)
- - [I spent 2025 digging through all the word game roguelikes flooding Steam to see if any could capture Balatro’s magic—here are the highly scientific results](https://www.pcgamer.com/games/roguelike/i-spent-2025-digging-through-all-the-word-game-roguelikes-flooding-steam-to-see-if-any-could-capture-balatros-magic-here-are-the-highly-scientific-results/)<!-- GAME:END -->
+ - [There Are Still Some Surprisingly Good Deals On A Few Killer Switch Games Right Now](https://kotaku.com/switch-eshop-discounts-rpg-roguelike-indie-2000655765)
+ - [Action RPG players will exploit anything in the name of efficiency, which is why Path of Exile 2 players are locking themselves in the campaign for profit](https://www.pcgamer.com/games/rpg/action-rpg-players-will-exploit-anything-in-the-name-of-efficiency-which-is-why-path-of-exile-2-players-are-locking-themselves-in-the-campaign-for-profit/)
+ - [Every Time Todd Howard Has Talked About Fallout 5](https://kotaku.com/every-time-todd-howard-has-talked-about-fallout-5-2000655749)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
