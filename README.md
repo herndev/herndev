@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every episode of the iconic series The X-Files is about to stream for free](https://www.polygon.com/xfiles-streaming-free-pluto-announcement/)
- - [PlayStation 2025 year in review: PS5 printed money during a quiet year](https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/)
- - [We&#39;re living in the new golden age of 2D beat-&#39;em-ups—but the best one released this year had one foot in a different genre entirely](https://www.pcgamer.com/games/roguelike/were-living-in-the-new-golden-age-of-2d-beat-em-ups-but-the-best-one-released-this-year-had-one-foot-in-a-different-genre-entirely/)<!-- GAME:END -->
+ - [30 years ago, 12 Monkeys warned us about global pandemics and information overload](https://www.polygon.com/terry-gilliam-12-monkeys-30-anniversary/)
+ - [2025 was a great year for ninja and samurai games on PlayStation](https://blog.playstation.com/2025/12/29/2025-was-a-great-year-for-ninja-and-samurai-games-on-playstation/)
+ - [Witcher 3 DLC Would Make The Wait For Witcher 4 Slightly More Bearable](https://kotaku.com/witcher-3-dlc-ciri-geralt-sequel-cdpr-2000655922)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
