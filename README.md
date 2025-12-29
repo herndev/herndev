@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Forget about Galaxy S26: Samsung could pull an Apple for the Galaxy S28’s GPU](https://www.androidauthority.com/samsung-custom-gpu-galaxy-s28-3628005/)
  - [Sources and a memo: the US DOJ is using a novel reading of a federal anti-fraud law to probe contractors, including Google and Verizon, over their DEI programs &lpar;Lydia Wheeler/Wall Street Journal&rpar;](http://www.techmeme.com/251229/p1#a251229p1)
- - [Big Tech got almost everything it wanted from President Trump, as he backs policies that allow the industry to grow unfettered, worrying some conservatives &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/251228/p12#a251228p12)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Big Tech got almost everything it wanted from President Trump, as he backs policies that allow the industry to grow unfettered, worrying some conservatives &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/251228/p12#a251228p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
