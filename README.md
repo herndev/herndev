@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RPG fans melt down over &quot;Clair Obscur: Expedition 33-like&quot; claim](https://www.polygon.com/clair-obscur-expedition-33-like-legend-sword-and-fairy-4-remake/)
- - [What The Internet Keeps Getting Wrong About The Most Famous Quote From Star Wars: The Last Jedi](https://kotaku.com/star-wars-last-jedi-kylo-ren-quote-rian-johnson-2000655969)
- - [GOG crawls out from under CD Projekt Red with a new owner and teases &#39;ambitious&#39; plans for classic game &#39;rescue missions&#39; starting next year](https://www.pcgamer.com/gaming-industry/gog-crawls-out-from-under-cd-projekt-red-with-a-new-owner-and-teases-ambitious-plans-for-classic-game-rescue-missions-starting-next-year/)<!-- GAME:END -->
+ - [GTA 5 Voice Actor Has Been Swatted So Many Times The Cops Know His Name](https://kotaku.com/gta-5-voice-actor-ned-luke-swatted-police-live-streaming-twitch-2000655992)
+ - [Monster Hunter Wilds Is One Of Steam’s Best-Selling Games Of 2025 Despite Being One Of The Year’s Worst PC Ports](https://kotaku.com/steam-top-selling-2025-monster-hunter-wilds-pc-performance-digital-foundry-2000655990)
+ - [Pokémon Legends: Z-A Leak Is A Fascinating Look At The Game We Didn’t Get](https://kotaku.com/pokemon-legends-za-leak-video-old-build-teraleak-window-2000655988)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
