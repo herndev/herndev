@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Home Chef Promo Code: 50% Off](https://www.wired.com/story/home-chef-promo-code/)
  - [Forget about Galaxy S26: Samsung could pull an Apple for the Galaxy S28’s GPU](https://www.androidauthority.com/samsung-custom-gpu-galaxy-s28-3628005/)
- - [Sources and a memo: the US DOJ is using a novel reading of a federal anti-fraud law to probe contractors, including Google and Verizon, over their DEI programs &lpar;Lydia Wheeler/Wall Street Journal&rpar;](http://www.techmeme.com/251229/p1#a251229p1)
- - [Big Tech got almost everything it wanted from President Trump, as he backs policies that allow the industry to grow unfettered, worrying some conservatives &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/251228/p12#a251228p12)<!-- TECH:END -->
+ - [Sources and a memo: the US DOJ is using a novel reading of a federal anti-fraud law to probe contractors, including Google and Verizon, over their DEI programs &lpar;Lydia Wheeler/Wall Street Journal&rpar;](http://www.techmeme.com/251229/p1#a251229p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
