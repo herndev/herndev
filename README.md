@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beautiful](http://9gag.com/gag/an73RNn)
+ - 💣 [The imbalance](http://9gag.com/gag/a7oB8Ow)
  - ⏩ [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
- - 👉 [Minnesota](http://9gag.com/gag/aRBG4R5)<!-- MEMES:END -->
+ - 👉 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)<!-- MEMES:END -->
 
 ---
 
