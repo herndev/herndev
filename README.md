@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
- - ⏩ [Community members shocked and wondering why their publicly funded grocery store became like that after 2 years](http://9gag.com/gag/aqyOR2M)
- - 👉 [Friendship among girls are just fake and toxic, full of backstabbing here and there](http://9gag.com/gag/apRX3jE)<!-- MEMES:END -->
+ - 💣 [The imbalance](http://9gag.com/gag/a7oB8Ow)
+ - ⏩ [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
+ - 👉 [Community members shocked and wondering why their publicly funded grocery store became like that after 2 years](http://9gag.com/gag/aqyOR2M)<!-- MEMES:END -->
 
 ---
 
