@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Big Tech got almost everything it wanted from President Trump, as he backs policies that allow the industry to grow unfettered, worrying some conservatives &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/251228/p12#a251228p12)
  - [How tech worker activism has grown more cautious as companies crack down and once-privileged workers realize they don&#39;t have much leverage &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/251228/p11#a251228p11)
- - [LG announces new UltraGear evo gaming monitors with AI upscaling](https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling)
- - [Year-end price war: Apple&#39;s 1TB M5 MacBook Pro drops to $1,649](https://appleinsider.com/articles/25/12/28/year-end-price-war-apples-1tb-m5-macbook-pro-drops-to-1649?utm_source=rss)<!-- TECH:END -->
+ - [LG announces new UltraGear evo gaming monitors with AI upscaling](https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
