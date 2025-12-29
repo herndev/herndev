@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Android phone can double up as a travel router and bypass hotel Wi-Fi limits, here’s how](https://www.androidauthority.com/android-wifi-sharing-3628072/)
- - [ACCA, the world&#39;s largest accounting body, says it is ending remote exams to combat a rise in students cheating by using AI tools when taking tests &lpar;Ellesheva Kissin/Financial Times&rpar;](http://www.techmeme.com/251229/p10#a251229p10)
- - [iMP Tech Mini Arcade Pro Review: A Nintendo Switch Arcade Cabinet](https://www.wired.com/review/imp-mini-arcade-pro/)<!-- TECH:END -->
+ - [Apple assembly partner victim of a supply chain cyberattack](https://appleinsider.com/articles/25/12/29/apple-assembly-partner-victim-of-a-supply-chain-cyberattack?utm_source=rss)
+ - [SoftBank agrees to acquire NYSE-listed DigitalBridge, a private equity firm that invests in data centers and digital infrastructure operators, for $4B in cash &lpar;Bloomberg&rpar;](http://www.techmeme.com/251229/p12#a251229p12)
+ - [Amber&#39;s ever-unchanging desk setup: low tech, but not no tech](https://appleinsider.com/articles/25/12/29/ambers-ever-unchanging-desk-setup-low-tech-but-not-no-tech?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
