@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Home Chef Promo Code: 50% Off](https://www.wired.com/story/home-chef-promo-code/)
- - [Forget about Galaxy S26: Samsung could pull an Apple for the Galaxy S28’s GPU](https://www.androidauthority.com/samsung-custom-gpu-galaxy-s28-3628005/)
- - [Sources and a memo: the US DOJ is using a novel reading of a federal anti-fraud law to probe contractors, including Google and Verizon, over their DEI programs &lpar;Lydia Wheeler/Wall Street Journal&rpar;](http://www.techmeme.com/251229/p1#a251229p1)<!-- TECH:END -->
+ - [The Galaxy Z TriFold costs $2,400, but Samsung might still be losing money](https://www.androidauthority.com/samsung-galaxy-z-trifold-profit-loss-3628015/)
+ - [Since the GENIUS Act&#39;s passage in July, the total value of stablecoins circulating rose from ~$250B to $300B+, as they become the &quot;respectable&quot; face of crypto &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/251229/p2#a251229p2)
+ - [First OnePlus Turbo 6 teaser confirms key specs, including massive battery and superfast display](https://www.androidauthority.com/oneplus-turbo-6-6v-official-teaser-3628009/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
