@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Five FaZe Clan influencers exit after failed contract talks with new management; Matt Kalish, who invested $10M, calls FaZe&#39;s current structure &quot;unsustainable&quot; &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/251226/p13#a251226p13)
- - [Rare deal on the Google Pixel Buds Pro 2 saves you 28%](https://www.androidauthority.com/google-pixel-buds-pro-2-deal-3-3627937/)
- - [Trump’s war on offshore wind faces another lawsuit](https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center)<!-- TECH:END -->
+ - [How tech worker activism has grown more cautious as companies crack down and once-privileged workers realize they don&#39;t have much leverage &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/251228/p11#a251228p11)
+ - [LG announces new UltraGear evo gaming monitors with AI upscaling](https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling)
+ - [Year-end price war: Apple&#39;s 1TB M5 MacBook Pro drops to $1,649](https://appleinsider.com/articles/25/12/28/year-end-price-war-apples-1tb-m5-macbook-pro-drops-to-1649?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
