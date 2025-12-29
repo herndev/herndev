@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z TriFold costs $2,400, but Samsung might still be losing money](https://www.androidauthority.com/samsung-galaxy-z-trifold-profit-loss-3628015/)
- - [Since the GENIUS Act&#39;s passage in July, the total value of stablecoins circulating rose from ~$250B to $300B+, as they become the &quot;respectable&quot; face of crypto &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/251229/p2#a251229p2)
- - [First OnePlus Turbo 6 teaser confirms key specs, including massive battery and superfast display](https://www.androidauthority.com/oneplus-turbo-6-6v-official-teaser-3628009/)<!-- TECH:END -->
+ - [A Kapwing study of the 15,000 top YouTube channels finds 278 of them have only posted AI-generated &quot;slop&quot; videos, amassing 63B+ views and 221M+ subscribers &lpar;Aisha Down/The Guardian&rpar;](http://www.techmeme.com/251229/p4#a251229p4)
+ - [Sources: SoftBank is in advanced talks to buy NYSE-listed DigitalBridge, a private equity firm that invests in data centers and digital infrastructure operators &lpar;Bloomberg&rpar;](http://www.techmeme.com/251229/p3#a251229p3)
+ - [The Galaxy Z TriFold costs $2,400, but Samsung might still be losing money](https://www.androidauthority.com/samsung-galaxy-z-trifold-profit-loss-3628015/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
