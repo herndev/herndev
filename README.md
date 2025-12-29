@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget dual-screen gaming handhelds; it’s foldable-screen time](https://www.androidauthority.com/foldable-screen-gaming-3628157/)
- - [Deal: The ARK Uno wireless charger is made of wood, and it is at an all-time low price!](https://www.androidauthority.com/ark-uno-solid-wood-wireless-charger-deal-3628171/)
- - [How Japan&#39;s viral horse racing game Umamusume, developed by Cygames, passed 30M downloads in Asia, spurring anime adaptations, concerts, and new racetrack fans &lpar;Katria Alampay/Bloomberg&rpar;](http://www.techmeme.com/251229/p16#a251229p16)<!-- TECH:END -->
+ - [&#39;Pluribus&#39; bomb drops: studio notes changed the finale &amp; Tim Cook&#39;s cookies](https://appleinsider.com/articles/25/12/29/pluribus-bomb-drops-studio-notes-changed-the-finale-tim-cooks-cookies?utm_source=rss)
+ - [Super portable BLUETTI Elite 10 Mini Portable Power Station drops to record-low price](https://www.androidauthority.com/bluetti-elite-10-mini-portable-power-station-deal-3628170/)
+ - [A look at the rift in the Democratic party over AI and data centers, as pro-business Democrats oppose the fiery, anti-AI politics of the progressive wing &lpar;Calder McHugh/Politico&rpar;](http://www.techmeme.com/251229/p17#a251229p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
