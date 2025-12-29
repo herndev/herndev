@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget AirPods Max, Beats Solo 4 Bluetooth Headphones Crash to a Record Low After 10K+ Units Sold](https://kotaku.com/forget-airpods-max-beats-solo-4-bluetooth-headphones-crash-to-a-record-low-after-10k-units-sold-2000655752)
- - [Samsung Clears Out Galaxy Tab A9+ at All-Time Low, Now the Budget Tablet Alternative to Apple iPad](https://kotaku.com/samsung-clears-out-galaxy-tab-a9-at-all-time-low-now-the-budget-tablet-alternative-to-apple-ipad-2000655755)
- - [PC Gamer Hardware Awards: The best gaming headset of 2025](https://www.pcgamer.com/hardware/gaming-headsets/pc-gamer-hardware-awards-the-best-gaming-headset-of-2025/)<!-- GAME:END -->
+ - [Every episode of the iconic series The X-Files is about to stream for free](https://www.polygon.com/xfiles-streaming-free-pluto-announcement/)
+ - [PlayStation 2025 year in review: PS5 printed money during a quiet year](https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/)
+ - [We&#39;re living in the new golden age of 2D beat-&#39;em-ups—but the best one released this year had one foot in a different genre entirely](https://www.pcgamer.com/games/roguelike/were-living-in-the-new-golden-age-of-2d-beat-em-ups-but-the-best-one-released-this-year-had-one-foot-in-a-different-genre-entirely/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
