@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
- - ⏩ [Who gave this guys driver licenses](http://9gag.com/gag/a5QA6zG)
- - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
+ - 💣 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
+ - ⏩ [Damn, nature..](http://9gag.com/gag/a6Zz9OL)
+ - 👉 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)<!-- MEMES:END -->
 
 ---
 
