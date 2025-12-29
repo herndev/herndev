@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She really does look like the whole cast](http://9gag.com/gag/a5QAVrr)
- - ⏩ [With an instructor like that you can&#39;t go wrong](http://9gag.com/gag/ayNAqMy)
- - 👉 [Bruh](http://9gag.com/gag/aByMZGA)<!-- MEMES:END -->
+ - 💣 [The imbalance](http://9gag.com/gag/a7oB8Ow)
+ - ⏩ [If you haven&#39;t seen what girls before the internet, here it is](http://9gag.com/gag/azxzxQN)
+ - 👉 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)<!-- MEMES:END -->
 
 ---
 
