@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos is coming to Samsung TVs in 2026](https://www.theverge.com/news/850594/samsung-tv-google-photos-integration-2026)
- - [Coupang says it is offering $1B+ in compensation to all 33.7M customers affected by South Korea&#39;s biggest-ever data breach, after an ex-staffer accessed data &lpar;Shinhye Kang/Bloomberg&rpar;](http://www.techmeme.com/251229/p7#a251229p7)
- - [Samsung reveals modem that could power some Galaxy S26 models, and here’s what’s new](https://www.androidauthority.com/samsung-exynos-modem-5410-galaxy-s26-3628035/)<!-- TECH:END -->
+ - [Your Android phone can double up as a travel router and bypass hotel Wi-Fi limits, here’s how](https://www.androidauthority.com/android-wifi-sharing-3628072/)
+ - [ACCA, the world&#39;s largest accounting body, says it is ending remote exams to combat a rise in students cheating by using AI tools when taking tests &lpar;Ellesheva Kissin/Financial Times&rpar;](http://www.techmeme.com/251229/p10#a251229p10)
+ - [iMP Tech Mini Arcade Pro Review: A Nintendo Switch Arcade Cabinet](https://www.wired.com/review/imp-mini-arcade-pro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
