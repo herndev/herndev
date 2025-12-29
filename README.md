@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The imbalance](http://9gag.com/gag/a7oB8Ow)
- - ⏩ [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
- - 👉 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)<!-- MEMES:END -->
+ - 💣 [She really does look like the whole cast](http://9gag.com/gag/a5QAVrr)
+ - ⏩ [With an instructor like that you can&#39;t go wrong](http://9gag.com/gag/ayNAqMy)
+ - 👉 [Bruh](http://9gag.com/gag/aByMZGA)<!-- MEMES:END -->
 
 ---
 
