@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Automatic Pizza Vending Machine In The Detroit Airport: The Kotaku Review](https://kotaku.com/automatic-pizza-vending-machine-detroit-airport-the-kotaku-review-pizza-cat-2000655797)
- - [Kotaku’s Weekend Guide: 5 Great Games We Can’t Wait To Get Back To](https://kotaku.com/best-rpggame-recommendations-dec-26-2025-2000655786)
- - [There Are Still Some Surprisingly Good Deals On A Few Killer Switch Games Right Now](https://kotaku.com/switch-eshop-discounts-rpg-roguelike-indie-2000655765)<!-- GAME:END -->
+ - [Avatar 4 without James Cameron? Only person could take over.](https://www.polygon.com/avatar-4-director-james-cameron-replacement-chloe-zhao/)
+ - [2025’s best video game remakes and remasters](https://www.polygon.com/best-video-game-remakes-remasters-rereleases/)
+ - [Well, this year&#39;s graphics card launches were a right shitshow, eh?](https://www.pcgamer.com/hardware/graphics-cards/well-this-years-graphics-card-launches-were-a-right-shitshow-eh/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
