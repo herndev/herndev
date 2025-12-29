@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [30 years ago, 12 Monkeys warned us about global pandemics and information overload](https://www.polygon.com/terry-gilliam-12-monkeys-30-anniversary/)
- - [2025 was a great year for ninja and samurai games on PlayStation](https://blog.playstation.com/2025/12/29/2025-was-a-great-year-for-ninja-and-samurai-games-on-playstation/)
- - [Witcher 3 DLC Would Make The Wait For Witcher 4 Slightly More Bearable](https://kotaku.com/witcher-3-dlc-ciri-geralt-sequel-cdpr-2000655922)<!-- GAME:END -->
+ - [RPG fans melt down over &quot;Clair Obscur: Expedition 33-like&quot; claim](https://www.polygon.com/clair-obscur-expedition-33-like-legend-sword-and-fairy-4-remake/)
+ - [What The Internet Keeps Getting Wrong About The Most Famous Quote From Star Wars: The Last Jedi](https://kotaku.com/star-wars-last-jedi-kylo-ren-quote-rian-johnson-2000655969)
+ - [GOG crawls out from under CD Projekt Red with a new owner and teases &#39;ambitious&#39; plans for classic game &#39;rescue missions&#39; starting next year](https://www.pcgamer.com/gaming-industry/gog-crawls-out-from-under-cd-projekt-red-with-a-new-owner-and-teases-ambitious-plans-for-classic-game-rescue-missions-starting-next-year/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
