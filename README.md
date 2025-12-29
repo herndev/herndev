@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 4 series rises from the ashes with Android 16 from LineageOS](https://www.androidauthority.com/google-pixel-4-android-16-lineageos-23-3628045/)
- - [Google Photos is finally coming to TVs — but not the Android ones](https://www.androidauthority.com/google-photos-samsung-tv-integration-3628040/)
- - [The Most Dangerous People on the Internet in 2025](https://www.wired.com/story/most-dangerous-people-on-the-internet-2025/)<!-- TECH:END -->
+ - [Google Photos is coming to Samsung TVs in 2026](https://www.theverge.com/news/850594/samsung-tv-google-photos-integration-2026)
+ - [Coupang says it is offering $1B+ in compensation to all 33.7M customers affected by South Korea&#39;s biggest-ever data breach, after an ex-staffer accessed data &lpar;Shinhye Kang/Bloomberg&rpar;](http://www.techmeme.com/251229/p7#a251229p7)
+ - [Samsung reveals modem that could power some Galaxy S26 models, and here’s what’s new](https://www.androidauthority.com/samsung-exynos-modem-5410-galaxy-s26-3628035/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
