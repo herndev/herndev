@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wise words from a Thai marketplace woman](http://9gag.com/gag/aqyOnxQ)
- - ⏩ [Tony breaking the character](http://9gag.com/gag/aXPzrjD)
- - 👉 [Can&#39;t agree more](http://9gag.com/gag/aPA030q)<!-- MEMES:END -->
+ - 💣 [Yu-Gi-Oh matches be like](http://9gag.com/gag/a879AqQ)
+ - ⏩ [Special talent](http://9gag.com/gag/an73OzV)
+ - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
 
 ---
 
