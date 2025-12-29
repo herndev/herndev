@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The imbalance](http://9gag.com/gag/a7oB8Ow)
- - ⏩ [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
- - 👉 [Community members shocked and wondering why their publicly funded grocery store became like that after 2 years](http://9gag.com/gag/aqyOR2M)<!-- MEMES:END -->
+ - ⏩ [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)
+ - 👉 [Speech lvl 100 Delusion lvl 100](http://9gag.com/gag/a1mn7bD)<!-- MEMES:END -->
 
 ---
 
