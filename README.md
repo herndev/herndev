@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Pluribus&#39; bomb drops: studio notes changed the finale &amp; Tim Cook&#39;s cookies](https://appleinsider.com/articles/25/12/29/pluribus-bomb-drops-studio-notes-changed-the-finale-tim-cooks-cookies?utm_source=rss)
- - [Super portable BLUETTI Elite 10 Mini Portable Power Station drops to record-low price](https://www.androidauthority.com/bluetti-elite-10-mini-portable-power-station-deal-3628170/)
- - [A look at the rift in the Democratic party over AI and data centers, as pro-business Democrats oppose the fiery, anti-AI politics of the progressive wing &lpar;Calder McHugh/Politico&rpar;](http://www.techmeme.com/251229/p17#a251229p17)<!-- TECH:END -->
+ - [Limited-edition AirTags, gift cards up for grabs in Apple&#39;s New Year sale in Japan](https://appleinsider.com/articles/25/12/29/limited-edition-airtags-gift-cards-up-for-grabs-in-apples-new-year-sale-in-japan?utm_source=rss)
+ - [How diamonds are being converted to quantum sensors by inserting tiny imperfections, opening up potential uses in medicine, brain-computer interfaces, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/251229/p18#a251229p18)
+ - [Hot deal: Garmin inReach Messenger Satellite Communicator cheaper than ever!](https://www.androidauthority.com/garmin-inreach-messenger-handheld-satellite-communicator-deal-3628169/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
