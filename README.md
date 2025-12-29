@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
- - ⏩ [The imbalance](http://9gag.com/gag/a7oB8Ow)
+ - ⏩ [Who gave this guys driver licenses](http://9gag.com/gag/a5QA6zG)
  - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
 
 ---
