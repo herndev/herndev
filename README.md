@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Year-end deal: Save $400 on this M4 Max 16-inch MacBook Pro](https://appleinsider.com/articles/25/12/29/year-end-deal-save-400-on-this-m4-max-16-inch-macbook-pro?utm_source=rss)
- - [How to tweak your online platform algorithms](https://www.theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms)
- - [Roborock CES teaser features a robot vacuum’s greatest enemy: stairs](https://www.androidauthority.com/stair-climbing-vacuum-3628134/)<!-- TECH:END -->
+ - [Turn your PC into a Super Nintendo with Epilogue&amp;#8217;s new USB dock](https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator)
+ - [Michał Kiciński, co-founder of CD Projekt and DRM-free digital games store GOG, has acquired 100% of the shares in GOG from CD Projekt &lpar;Vikki Blake/Eurogamer.net&rpar;](http://www.techmeme.com/251229/p15#a251229p15)
+ - [Year-end deal: Save $400 on this M4 Max 16-inch MacBook Pro](https://appleinsider.com/articles/25/12/29/year-end-deal-save-400-on-this-m4-max-16-inch-macbook-pro?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
