@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Minnesota](http://9gag.com/gag/aRBG4R5)
- - ⏩ [Ninety nine souls-za!](http://9gag.com/gag/ary0Agp)
- - 👉 [It&#39;s not much it&#39;s honest work](http://9gag.com/gag/apRXD2E)<!-- MEMES:END -->
+ - 💣 [Community members shocked and wondering why their publicly funded grocery store became like that after 2 years](http://9gag.com/gag/aqyOR2M)
+ - ⏩ [Damn, nature..](http://9gag.com/gag/a6Zz9OL)
+ - 👉 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)<!-- MEMES:END -->
 
 ---
 
