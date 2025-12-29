@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats’ new Powerbeats Fit earbuds are down to $180](https://www.theverge.com/gadgets/850705/beats-pixel-watch-apple-pencil-sales-deal)
- - [China&#39;s SMIC plans to acquire the remaining 49% stake in its SMNC unit for ~$5.8B, making the unit wholly owned; SMNC focuses on 12&quot; integrated circuit wafers &lpar;Reuters&rpar;](http://www.techmeme.com/251229/p14#a251229p14)
- - [This experimental camera can focus on everything at once](https://www.theverge.com/news/850689/camera-focal-lens-technology-research)<!-- TECH:END -->
+ - [Year-end deal: Save $400 on this M4 Max 16-inch MacBook Pro](https://appleinsider.com/articles/25/12/29/year-end-deal-save-400-on-this-m4-max-16-inch-macbook-pro?utm_source=rss)
+ - [How to tweak your online platform algorithms](https://www.theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms)
+ - [Roborock CES teaser features a robot vacuum’s greatest enemy: stairs](https://www.androidauthority.com/stair-climbing-vacuum-3628134/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
