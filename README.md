@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Kapwing study of the 15,000 top YouTube channels finds 278 of them have only posted AI-generated &quot;slop&quot; videos, amassing 63B+ views and 221M+ subscribers &lpar;Aisha Down/The Guardian&rpar;](http://www.techmeme.com/251229/p4#a251229p4)
- - [Sources: SoftBank is in advanced talks to buy NYSE-listed DigitalBridge, a private equity firm that invests in data centers and digital infrastructure operators &lpar;Bloomberg&rpar;](http://www.techmeme.com/251229/p3#a251229p3)
- - [The Galaxy Z TriFold costs $2,400, but Samsung might still be losing money](https://www.androidauthority.com/samsung-galaxy-z-trifold-profit-loss-3628015/)<!-- TECH:END -->
+ - [The Pixel 4 series rises from the ashes with Android 16 from LineageOS](https://www.androidauthority.com/google-pixel-4-android-16-lineageos-23-3628045/)
+ - [Google Photos is finally coming to TVs — but not the Android ones](https://www.androidauthority.com/google-photos-samsung-tv-integration-3628040/)
+ - [The Most Dangerous People on the Internet in 2025](https://www.wired.com/story/most-dangerous-people-on-the-internet-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
