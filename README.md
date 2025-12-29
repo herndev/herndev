@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
- - ⏩ [Speech lvl 100 Delusion lvl 100](http://9gag.com/gag/a1mn7bD)
- - 👉 [Special talent](http://9gag.com/gag/an73OzV)<!-- MEMES:END -->
+ - 💣 [Speech lvl 100 Delusion lvl 100](http://9gag.com/gag/a1mn7bD)
+ - ⏩ [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
+ - 👉 [The imbalance](http://9gag.com/gag/a7oB8Ow)<!-- MEMES:END -->
 
 ---
 
