@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Community members shocked and wondering why their publicly funded grocery store became like that after 2 years](http://9gag.com/gag/aqyOR2M)
  - ⏩ [Special talent](http://9gag.com/gag/an73OzV)
- - 👉 [Yu-Gi-Oh matches be like](http://9gag.com/gag/a879AqQ)<!-- MEMES:END -->
+ - 👉 [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)<!-- MEMES:END -->
 
 ---
 
