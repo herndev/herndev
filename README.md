@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Review of Samsung&#39;s Galaxy Z TriFold: sturdy but poor camera performance and has some unique design flaws that make it even less polished than regular foldables &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/251230/p15#a251230p15)
- - [You have three hours to save $200 on the XGIMI MoGo 4 Laser projector](https://www.androidauthority.com/xgimi-mogo-4-laser-portable-projector-deal-2-3628526/)
- - [Ford insists it will continue to support Apple CarPlay](https://appleinsider.com/articles/25/12/30/ford-insists-it-will-continue-to-support-apple-carplay?utm_source=rss)<!-- TECH:END -->
+ - [DJI Osmo Pocket 3 deal: Save $270 and upgrade your video clips](https://www.androidauthority.com/dji-osmo-pocket-3-deal-2-3628525/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 31, #934](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-31-934/#ftag=CAD590a51e)
+ - [Photoshop Has a Lot of AI. This Is Your Guide to the Tools Worth Exploring](https://www.cnet.com/tech/services-and-software/the-best-new-ai-features-in-photoshop-and-how-to-use-them-like-a-pro/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
