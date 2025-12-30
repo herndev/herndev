@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clark can’t handle these high winds](https://www.reddit.com/r/funny/comments/1pzv21l/clark_cant_handle_these_high_winds/)
- - ⏩ [A doggo had trouble socializing with other dogs at the park. No one paid attention to him until a little doggo introduced him to the group.](http://9gag.com/gag/aQzKQBe)
- - 👉 [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)<!-- MEMES:END -->
+ - 💣 [Facts hurt](http://9gag.com/gag/ajPjLY0)
+ - ⏩ [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)
+ - 👉 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)<!-- MEMES:END -->
 
 ---
 
