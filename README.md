@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S26 Ultra could get a pro-level camera upgrade with these new Camera Assistant features](https://www.androidauthority.com/one-ui-camera-assistant-video-softening-autofocus-settings-apk-teardown-3628277/)
- - [7 Best Digital Notebooks &lpar;2026&rpar;: reMarkable, Kobo, Kindle](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
- - [Sources, PitchBook data, and news reports: the founders of Perplexity, Figure AI, Safe Superintelligence, Harvey, and others joined the nine-figure club in 2025 &lpar;Natallie Rocha/New York Times&rpar;](http://www.techmeme.com/251230/p5#a251230p5)<!-- TECH:END -->
+ - [Free speech’s great leap backwards](https://www.theverge.com/policy/849841/trump-immigration-social-media-free-speech)
+ - [Marko&#39;s best tech of 2025 -- iPad Pro, and an unexpected MacBook Pro](https://appleinsider.com/articles/25/12/30/markos-best-tech-of-2025----ipad-pro-and-an-unexpected-macbook-pro?utm_source=rss)
+ - [Commodore 64 Ultimate Review: An Astonishing Remake](https://www.wired.com/review/commodore-64-ultimate/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
