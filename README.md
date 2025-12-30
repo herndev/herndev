@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My ma is dedicated to not work!](https://www.reddit.com/r/funny/comments/1pzs17n/my_ma_is_dedicated_to_not_work/)
- - ⏩ [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
- - 👉 [Never touch another man without permission](http://9gag.com/gag/a34D528)<!-- MEMES:END -->
+ - 💣 [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)
+ - ⏩ [A doggo had trouble socializing with other dogs at the park. No one paid attention to him until a little doggo introduced him to the group.](http://9gag.com/gag/aQzKQBe)
+ - 👉 [Sports games just sucks in general](http://9gag.com/gag/aMV6PD6)<!-- MEMES:END -->
 
 ---
 
