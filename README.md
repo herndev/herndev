@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rainbow Six Siege servers are back after hackers randomly doled out bans, unbans, rare skins and &#39;billions&#39; in in-game currency](https://www.pcgamer.com/games/fps/rainbow-six-siege-servers-are-back-after-hackers-randomly-doled-out-bans-unbans-rare-skins-and-billions-in-in-game-currency/)
- - [The Best Video Game Moments Of 2025](https://kotaku.com/best-video-game-moments-scenes-2025-clair-obscur-ending-2000655769)
- - [GTA 5 Voice Actor Has Been Swatted So Many Times The Cops Know His Name](https://kotaku.com/gta-5-voice-actor-ned-luke-swatted-police-live-streaming-twitch-2000655992)<!-- GAME:END -->
+ - [None of us are at good at action RPGs as the Path of Exile 2 player who beat one of its toughest bosses without any gear: &#39;What did I just witness?&#39;](https://www.pcgamer.com/games/rpg/none-of-us-are-at-good-at-action-rpgs-as-the-path-of-exile-2-player-who-beat-one-of-its-toughest-bosses-without-any-gear-what-did-i-just-witness/)
+ - [Fallen Aces&#39;s second episode won&#39;t be out this year, but it will feature a first-person car chase with a tommy gun in both hands and a foot-operated steering wheel](https://www.pcgamer.com/games/fps/fallen-acess-second-episode-wont-be-out-this-year-but-it-will-feature-a-first-person-car-chase-with-a-tommy-gun-in-both-hands-and-a-foot-operated-steering-wheel/)
+ - [Ryan Coogler&#39;s X-Files reboot coming before Black Panther 3](https://www.polygon.com/ryan-coogler-x-files-reboot-cast-premise/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
