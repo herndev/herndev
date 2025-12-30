@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon fans keep some seriously weird stuff in their TCG boxes](https://www.polygon.com/pokemon-tcg-trading-card-box-tin-meme-trend/)
- - [This sequel to a classic NES beat &#39;em up is about to be delisted from Steam, but you can get it for a few bucks in the meantime: &#39;The delisting process is currently underway&#39;](https://www.pcgamer.com/games/action/this-sequel-to-a-classic-nes-beat-em-up-is-about-to-be-delisted-from-steam-but-you-can-get-it-for-a-few-bucks-in-the-meantime-the-delisting-process-is-currently-underway/)
- - [I can tell World of Warcraft&#39;s player housing is going well by the amount of Star Wars stuff this one player keeps building](https://www.pcgamer.com/games/world-of-warcraft/i-can-tell-world-of-warcrafts-player-housing-is-going-well-by-the-amount-of-star-wars-stuff-this-one-player-keeps-building/)<!-- GAME:END -->
+ - [Eric Barone makes $125,000 donation to the C# framework Stardew Valley uses, as well as &#39;an ongoing monthly commitment&#39; in what the team behind it calls an &#39;extraordinary show of support&#39;](https://www.pcgamer.com/games/eric-barone-makes-usd125-000-donation-to-the-c-framework-stardew-valley-uses-as-well-as-an-ongoing-monthly-commitment-in-what-the-team-behind-it-calls-an-extraordinary-show-of-support/)
+ - [This indie WarioWare-like released a teaser just to show off its &#39;game over&#39; music, and after hearing it, I can see why](https://www.pcgamer.com/games/this-indie-warioware-like-released-a-teaser-just-to-show-off-its-game-over-music-and-after-hearing-it-i-can-see-why/)
+ - [Pokémon fans keep some seriously weird stuff in their TCG boxes](https://www.polygon.com/pokemon-tcg-trading-card-box-tin-meme-trend/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
