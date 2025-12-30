@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
- - ⏩ [Damn, nature..](http://9gag.com/gag/a6Zz9OL)
- - 👉 [For Android users](http://9gag.com/gag/aZZKno6)<!-- MEMES:END -->
+ - 💣 [I mean so many slots were empty](http://9gag.com/gag/an73nDB)
+ - ⏩ [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
+ - 👉 [Special talent](http://9gag.com/gag/an73OzV)<!-- MEMES:END -->
 
 ---
 
