@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This New Legend Of Zelda: Breath Of The Wild VR Mod Is Awesome](https://kotaku.com/this-new-legend-of-zelda-breath-of-the-wild-vr-mod-is-awesome-2000656152)
- - [Jujutsu Zero codes for December 2025](https://www.polygon.com/jujutsu-zero-codes-list-rewards/)
- - [Steam&#39;s best selling PC games list show 2025 was wild](https://www.polygon.com/steam-best-selling-pc-games-2025/)<!-- GAME:END -->
+ - [Pokémon fans keep some seriously weird stuff in their TCG boxes](https://www.polygon.com/pokemon-tcg-trading-card-box-tin-meme-trend/)
+ - [This sequel to a classic NES beat &#39;em up is about to be delisted from Steam, but you can get it for a few bucks in the meantime: &#39;The delisting process is currently underway&#39;](https://www.pcgamer.com/games/action/this-sequel-to-a-classic-nes-beat-em-up-is-about-to-be-delisted-from-steam-but-you-can-get-it-for-a-few-bucks-in-the-meantime-the-delisting-process-is-currently-underway/)
+ - [I can tell World of Warcraft&#39;s player housing is going well by the amount of Star Wars stuff this one player keeps building](https://www.pcgamer.com/games/world-of-warcraft/i-can-tell-world-of-warcrafts-player-housing-is-going-well-by-the-amount-of-star-wars-stuff-this-one-player-keeps-building/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
