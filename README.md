@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering&#39;s 25 best cards of 2025, ranked](https://www.polygon.com/best-magic-the-gathering-cards-of-2025/)
- - [Beautiful Clair Obscur Expedition 33 fanart reimagines the game in HD-2D](https://www.polygon.com/clair-obscur-expedition-33-hd-pixel-art/)
- - [Zack Zwiezen’s Top 10 Games Of 2025](https://kotaku.com/zack-zwiezens-top-10-games-of-2025-2000656033)<!-- GAME:END -->
+ - [The 10 worst movies of 2025, according to Metacritic](https://www.polygon.com/worst-movies-of-2025-metacritic/)
+ - [2025 was Fortnite&#39;s most topsy-turvy year ever with soaring peaks, miserable lows, and a raging AI debate](https://www.pcgamer.com/games/battle-royale/2025-was-fortnites-most-topsy-turvy-year-ever-with-soaring-peaks-miserable-lows-and-a-raging-ai-debate/)
+ - [Excuse Me, But What The Hell Is This?](https://kotaku.com/goat-trailer-fart-joke-jackass-sony-zootopia-funny-teaser-2000656133)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
