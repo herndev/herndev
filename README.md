@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Andrew&#39;s best tech in 2025: Aqara G5 Pro, 25W Qi2.2, &amp; Anker laptop battery](https://appleinsider.com/articles/25/12/30/andrews-best-tech-in-2025-aqara-g5-pro-25w-qi22-anker-laptop-battery?utm_source=rss)
- - [Two cybersecurity employees plead guilty to carrying out ransomware attacks](https://www.theverge.com/news/851467/cybersecurity-employees-plead-guilty-alphv-blackcat-ransomware)
- - [Two ex-staffers of cybersecurity incident response companies Sygnia and DigitalMint plead guilty to targeting US companies in 2023&#39;s BlackCat ransomware attacks &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251230/p13#a251230p13)<!-- TECH:END -->
+ - [IDC expects shipments of PCs could shrink by up to 9% YoY in 2026 due to global memory shortages, as demand from AI data centers continues to outstrip supply &lpar;Zak Killian/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251230/p14#a251230p14)
+ - [Here’s a stunning deal on the GRECELL 240W Portable Power Station](https://www.androidauthority.com/grecell-240w-portable-power-station-deal-3628167/)
+ - [Galaxy S26 dummy units show Samsung borrowing design cues from these 2025 models](https://www.androidauthority.com/samsung-galaxy-s26-dummy-units-3628547/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
