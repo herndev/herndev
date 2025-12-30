@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For Android users](http://9gag.com/gag/aZZKno6)
- - ⏩ [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
- - 👉 [Special talent](http://9gag.com/gag/an73OzV)<!-- MEMES:END -->
+ - 💣 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
+ - ⏩ [Good, they&#39;ve got concrete](http://9gag.com/gag/aByM6Q2)
+ - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
 
 ---
 
