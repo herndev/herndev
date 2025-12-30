@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
- - ⏩ [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 👉 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)<!-- MEMES:END -->
+ - 💣 [My ma is dedicated to not work!](https://www.reddit.com/r/funny/comments/1pzs17n/my_ma_is_dedicated_to_not_work/)
+ - ⏩ [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
+ - 👉 [Never touch another man without permission](http://9gag.com/gag/a34D528)<!-- MEMES:END -->
 
 ---
 
