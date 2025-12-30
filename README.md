@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone could never: The Galaxy S26 Ultra could fix lens flare, yellow skin tones](https://www.androidauthority.com/samsung-galaxy-s26-ultra-lens-flare-3628234/)
- - [Sources: the US has granted an annual license to Samsung and SK Hynix to ship their chip manufacturing equipment to their facilities in China for 2026 &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/251230/p2#a251230p2)
- - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fast delivery apps like Blinkit, Zepto, and Swiggy are expanding into India&#39;s Tier 2 and Tier 3 cities, driven by rising incomes and cheap smartphones and data &lpar;Bloomberg&rpar;](http://www.techmeme.com/251230/p3#a251230p3)
+ - [Samsung ‘Brain Health’ could launch soon to detect early signs of dementia](https://www.androidauthority.com/samsung-brain-health-service-ces-3628241/)
+ - [The Amazfit Active Max Is Built For the Long Run &lpar;Literally&rpar;](https://www.cnet.com/tech/mobile/the-amazfit-active-max-is-built-for-the-long-run-literally/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
