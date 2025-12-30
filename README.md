@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta agrees to acquire Singapore-based startup Manus, which makes an AI agent it sells to SMBs; Manus said in December its annual revenue run rate was $125M+ &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251229/p19#a251229p19)
- - [Save $520 on the Samsung Galaxy Z Fold 7 with upgraded storage](https://www.androidauthority.com/samsung-galaxy-z-fold-7-512gb-deal-3628168/)
- - [Limited-edition AirTags, gift cards up for grabs in Apple&#39;s New Year sale in Japan](https://appleinsider.com/articles/25/12/29/limited-edition-airtags-gift-cards-up-for-grabs-in-apples-new-year-sale-in-japan?utm_source=rss)<!-- TECH:END -->
+ - [Meta says it will continue to operate and sell the Manus service, and Manus&#39; talent will join Meta to deliver agents across Meta products, including Meta AI &lpar;Meta&rpar;](http://www.techmeme.com/251229/p21#a251229p21)
+ - [UK-based Octopus Energy reaches a deal to sell about $1B of equity in Kraken Technologies, its tech spin-off, at an $8.65B valuation to a syndicate of investors &lpar;Financial Times&rpar;](http://www.techmeme.com/251229/p20#a251229p20)
+ - [Amazon slashes Apple Watch Series 11 to $299 heading into the new year](https://appleinsider.com/articles/25/12/29/amazon-slashes-apple-watch-series-11-to-299-heading-into-the-new-year?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
