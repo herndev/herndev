@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here\u2019s a video from Moscow, where hundreds of thousands of Muslims gathered in the streets to perform Eid prayers. This was russia last year. Not Paris, Rome, London or Berlin - Moscow](http://9gag.com/gag/aQzKgRz)
- - ⏩ [Who gave this guys driver licenses](http://9gag.com/gag/a5QA6zG)
- - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
+ - 💣 [Who gave this guys driver licenses](http://9gag.com/gag/a5QA6zG)
+ - ⏩ [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
+ - 👉 [Live your dream](http://9gag.com/gag/agmb1dn)<!-- MEMES:END -->
 
 ---
 
