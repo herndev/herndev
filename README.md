@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [None of us are at good at action RPGs as the Path of Exile 2 player who beat one of its toughest bosses without any gear: &#39;What did I just witness?&#39;](https://www.pcgamer.com/games/rpg/none-of-us-are-at-good-at-action-rpgs-as-the-path-of-exile-2-player-who-beat-one-of-its-toughest-bosses-without-any-gear-what-did-i-just-witness/)
- - [Fallen Aces&#39;s second episode won&#39;t be out this year, but it will feature a first-person car chase with a tommy gun in both hands and a foot-operated steering wheel](https://www.pcgamer.com/games/fps/fallen-acess-second-episode-wont-be-out-this-year-but-it-will-feature-a-first-person-car-chase-with-a-tommy-gun-in-both-hands-and-a-foot-operated-steering-wheel/)
- - [Ryan Coogler&#39;s X-Files reboot coming before Black Panther 3](https://www.polygon.com/ryan-coogler-x-files-reboot-cast-premise/)<!-- GAME:END -->
+ - [Stranger Things X TMNT is still an underrated crossover event](https://www.polygon.com/stranger-things-tmnt-comic-crossover/)
+ - [Logan Paul Talks About Pokémon Cards Like He’s Running A Ponzi Scheme](https://kotaku.com/logan-paul-most-valuable-pokemon-card-auction-2000656107)
+ - [Avengers: Doomsday trailer teases Thor&#39;s return &lpar;with Love&rpar;](https://www.polygon.com/avengers-doomsday-trailer-2-thor-marvel/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
