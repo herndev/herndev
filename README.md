@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - ⏩ [Never touch another man without permission](http://9gag.com/gag/a34D528)
- - 👉 [DEI &amp; ESG quotas fulfilled](http://9gag.com/gag/a2vV85p)<!-- MEMES:END -->
+ - ⏩ [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
+ - 👉 [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)<!-- MEMES:END -->
 
 ---
 
