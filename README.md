@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Satya Nadella is focused on the increasing AI competition from Amazon and Google; Microsoft Deputy CTO Dee Templeton says Nadella is in &quot;founder mode&quot; &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/251230/p4#a251230p4)
- - [China Will Tax Contraceptives in a Bid to Improve Birth Rates](https://www.wired.com/story/china-to-tax-contraceptives/)
- - [The massive Pocket Max adds a modular twist we haven’t seen on Android handhelds before](https://www.androidauthority.com/mangmi-pocket-max-android-handheld-modular-magnetic-buttons-3628266/)<!-- TECH:END -->
+ - [Galaxy S26 Ultra could get a pro-level camera upgrade with these new Camera Assistant features](https://www.androidauthority.com/one-ui-camera-assistant-video-softening-autofocus-settings-apk-teardown-3628277/)
+ - [7 Best Digital Notebooks &lpar;2026&rpar;: reMarkable, Kobo, Kindle](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
+ - [Sources, PitchBook data, and news reports: the founders of Perplexity, Figure AI, Safe Superintelligence, Harvey, and others joined the nine-figure club in 2025 &lpar;Natallie Rocha/New York Times&rpar;](http://www.techmeme.com/251230/p5#a251230p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
