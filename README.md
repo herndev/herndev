@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fast delivery apps like Blinkit, Zepto, and Swiggy are expanding into India&#39;s Tier 2 and Tier 3 cities, driven by rising incomes and cheap smartphones and data &lpar;Bloomberg&rpar;](http://www.techmeme.com/251230/p3#a251230p3)
- - [Samsung ‘Brain Health’ could launch soon to detect early signs of dementia](https://www.androidauthority.com/samsung-brain-health-service-ces-3628241/)
- - [The Amazfit Active Max Is Built For the Long Run &lpar;Literally&rpar;](https://www.cnet.com/tech/mobile/the-amazfit-active-max-is-built-for-the-long-run-literally/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Satya Nadella is focused on the increasing AI competition from Amazon and Google; Microsoft Deputy CTO Dee Templeton says Nadella is in &quot;founder mode&quot; &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/251230/p4#a251230p4)
+ - [China Will Tax Contraceptives in a Bid to Improve Birth Rates](https://www.wired.com/story/china-to-tax-contraceptives/)
+ - [The massive Pocket Max adds a modular twist we haven’t seen on Android handhelds before](https://www.androidauthority.com/mangmi-pocket-max-android-handheld-modular-magnetic-buttons-3628266/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
