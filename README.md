@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Driven by the AI boom, chipmakers posted $400B+ in sales in 2025; FactSet projects revenue for Nvidia, Intel, Broadcom, AMD, and Qualcomm to reach $538B in 2026 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251229/p22#a251229p22)
  - [LG is announcing its own Frame-style TV at CES](https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026)
- - [One UI 8 on the Galaxy Watch 4 Classic is turning a fan favorite into a frustrating mess](https://www.androidauthority.com/samsung-galaxy-watch-4-classic-sensors-failing-3628205/)
- - [Monday Night Football: How to Watch Rams vs. Falcons Tonight for Free](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-rams-vs-falcons-tonight-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [One UI 8 on the Galaxy Watch 4 Classic is turning a fan favorite into a frustrating mess](https://www.androidauthority.com/samsung-galaxy-watch-4-classic-sensors-failing-3628205/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
