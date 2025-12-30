@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - ⏩ [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
- - 👉 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)<!-- MEMES:END -->
+ - 💣 [This is Shiba-san, the legendary Shiba Inu who `worked` at Suzuki Tobacco Shop in Tokyo. He&#39;d slide open the window to greet customers, accept pets, and even show off cucumbers. Drew visitors worldwide until retiring in 2015. What a dedicated good boy. \u2764\ufe0f](http://9gag.com/gag/aE0bAde)
+ - ⏩ [Instincts never lie](http://9gag.com/gag/aLn3ePP)
+ - 👉 [My fighters name is clown baby](http://9gag.com/gag/apRX6mD)<!-- MEMES:END -->
 
 ---
 
