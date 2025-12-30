@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam&#39;s best selling PC games list show 2025 was wild](https://www.polygon.com/steam-best-selling-pc-games-2025/)
- - [Marvel Rivals&#39; Lady Loki costume revealed, confirmed not to be Hela skin](https://www.polygon.com/marvel-rivals-lady-loki-skin-trailer-release-date/)
- - [Some of my favorite childhood platformers are free on Epic for today only, and they&#39;ve all been updated for better crossplay with Steam owners](https://www.pcgamer.com/games/action/some-of-my-favorite-childhood-platformers-are-free-on-epic-for-today-only-and-theyve-all-been-updated-for-better-crossplay-with-steam-owners/)<!-- GAME:END -->
+ - [This New Legend Of Zelda: Breath Of The Wild VR Mod Is Awesome](https://kotaku.com/this-new-legend-of-zelda-breath-of-the-wild-vr-mod-is-awesome-2000656152)
+ - [Jujutsu Zero codes for December 2025](https://www.polygon.com/jujutsu-zero-codes-list-rewards/)
+ - [Steam&#39;s best selling PC games list show 2025 was wild](https://www.polygon.com/steam-best-selling-pc-games-2025/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
