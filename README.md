@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Friendslop&#39; dominated 2025 by proving time and time again that graphics are overrated](https://www.pcgamer.com/games/friendslop-dominated-2025-by-proving-time-and-time-again-that-graphics-are-overrated/)
- - [17 Of The Year’s Biggest PS5 Games Are Up To 50 Percent Off](https://kotaku.com/ps5-deals-soulslike-rpg-goty-discount-sale-2000656129)
- - [ASUS Clears Out Prime Graphics Card, GeForce RTX 5060 Gets Even Cheaper Overnight After Another Price Drop](https://kotaku.com/asus-clears-out-prime-graphics-card-geforce-rtx-5060-gets-even-cheaper-overnight-after-another-price-drop-2000656038)<!-- GAME:END -->
+ - [Steam&#39;s best selling PC games list show 2025 was wild](https://www.polygon.com/steam-best-selling-pc-games-2025/)
+ - [Marvel Rivals&#39; Lady Loki costume revealed, confirmed not to be Hela skin](https://www.polygon.com/marvel-rivals-lady-loki-skin-trailer-release-date/)
+ - [Some of my favorite childhood platformers are free on Epic for today only, and they&#39;ve all been updated for better crossplay with Steam owners](https://www.pcgamer.com/games/action/some-of-my-favorite-childhood-platformers-are-free-on-epic-for-today-only-and-theyve-all-been-updated-for-better-crossplay-with-steam-owners/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
