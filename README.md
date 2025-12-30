@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Things X TMNT is still an underrated crossover event](https://www.polygon.com/stranger-things-tmnt-comic-crossover/)
- - [Logan Paul Talks About Pokémon Cards Like He’s Running A Ponzi Scheme](https://kotaku.com/logan-paul-most-valuable-pokemon-card-auction-2000656107)
- - [Avengers: Doomsday trailer teases Thor&#39;s return &lpar;with Love&rpar;](https://www.polygon.com/avengers-doomsday-trailer-2-thor-marvel/)<!-- GAME:END -->
+ - [Magic: The Gathering&#39;s 25 best cards of 2025, ranked](https://www.polygon.com/best-magic-the-gathering-cards-of-2025/)
+ - [Beautiful Clair Obscur Expedition 33 fanart reimagines the game in HD-2D](https://www.polygon.com/clair-obscur-expedition-33-hd-pixel-art/)
+ - [Zack Zwiezen’s Top 10 Games Of 2025](https://kotaku.com/zack-zwiezens-top-10-games-of-2025-2000656033)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
