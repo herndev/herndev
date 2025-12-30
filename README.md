@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Canon EOS R6 Mark III is great, but this lens is amazing](https://www.theverge.com/gadgets/850602/canon-eos-r6-mark-iii-rf-45mm-12-camera-lens-impressions-review)
- - [China&#39;s draft AI rules have measures to protect kids, like time limits and parental consent, ban gambling promotion content, and add suicide chats restrictions &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/251230/p8#a251230p8)
- - [I Tested the Huawei Pura X: This Wide-Screen Flip Phone Is Refreshing and Fun](https://www.cnet.com/tech/mobile/i-tested-the-huawei-pura-x-this-wide-screen-flip-phone-is-refreshing-and-fun/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Early buyers of this high-end Android handheld now face a multi-month wait](https://www.androidauthority.com/konkr-pocket-fit-elite-shipping-delay-3628373/)
+ - [Zombie Roombas still Matter to HomeKit with support upgrades](https://appleinsider.com/articles/25/12/30/zombie-roombas-still-matter-to-homekit-with-support-upgrades?utm_source=rss)
+ - [This fridge-friendly E Ink photo frame might be the answer to your bloated camera roll](https://www.androidauthority.com/picpak-color-e-ink-photo-frame-3628360/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
