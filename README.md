@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - ⏩ [DEI &amp; ESG quotas fulfilled](http://9gag.com/gag/a2vV85p)
- - 👉 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)<!-- MEMES:END -->
+ - 💣 [DEI &amp; ESG quotas fulfilled](http://9gag.com/gag/a2vV85p)
+ - ⏩ [Never touch another man without permission](http://9gag.com/gag/a34D528)
+ - 👉 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)<!-- MEMES:END -->
 
 ---
 
