@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I mean so many slots were empty](http://9gag.com/gag/an73nDB)
- - ⏩ [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
- - 👉 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)<!-- MEMES:END -->
+ - 💣 [For Android users](http://9gag.com/gag/aZZKno6)
+ - ⏩ [Isn&#39;t dangerous?](http://9gag.com/gag/an73Oxn)
+ - 👉 [Special talent](http://9gag.com/gag/an73OzV)<!-- MEMES:END -->
 
 ---
 
