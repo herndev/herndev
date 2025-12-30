@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Eight season seven episode kill the franchise.](http://9gag.com/gag/agmbOxW)
- - ⏩ [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 👉 [Never touch another man without permission](http://9gag.com/gag/a34D528)<!-- MEMES:END -->
+ - ⏩ [Never touch another man without permission](http://9gag.com/gag/a34D528)
+ - 👉 [Facts hurt](http://9gag.com/gag/ajPjLY0)<!-- MEMES:END -->
 
 ---
 
