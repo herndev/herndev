@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early buyers of this high-end Android handheld now face a multi-month wait](https://www.androidauthority.com/konkr-pocket-fit-elite-shipping-delay-3628373/)
- - [Zombie Roombas still Matter to HomeKit with support upgrades](https://appleinsider.com/articles/25/12/30/zombie-roombas-still-matter-to-homekit-with-support-upgrades?utm_source=rss)
- - [This fridge-friendly E Ink photo frame might be the answer to your bloated camera roll](https://www.androidauthority.com/picpak-color-e-ink-photo-frame-3628360/)<!-- TECH:END -->
+ - [GameSir put a tiny force feedback steering wheel on its new Swift Drive controller](https://www.theverge.com/news/851259/gamesir-switch-turbo-drive-controller-steering-wheel-wireless-force-feedback)
+ - [Anker’s portable backup battery is an even better investment now it’s nearly half off](https://www.theverge.com/gadgets/851016/anker-521-powerhouse-google-tv-streamer-4k-deal-sale)
+ - [The FCC has probably killed a plan to improve smart home security](https://www.theverge.com/news/851271/cyber-trust-mark-program-lead-administrator-withdraws)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
