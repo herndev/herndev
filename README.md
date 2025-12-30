@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 10 worst movies of 2025, according to Metacritic](https://www.polygon.com/worst-movies-of-2025-metacritic/)
- - [2025 was Fortnite&#39;s most topsy-turvy year ever with soaring peaks, miserable lows, and a raging AI debate](https://www.pcgamer.com/games/battle-royale/2025-was-fortnites-most-topsy-turvy-year-ever-with-soaring-peaks-miserable-lows-and-a-raging-ai-debate/)
- - [Excuse Me, But What The Hell Is This?](https://kotaku.com/goat-trailer-fart-joke-jackass-sony-zootopia-funny-teaser-2000656133)<!-- GAME:END -->
+ - [&#39;Friendslop&#39; dominated 2025 by proving time and time again that graphics are overrated](https://www.pcgamer.com/games/friendslop-dominated-2025-by-proving-time-and-time-again-that-graphics-are-overrated/)
+ - [17 Of The Year’s Biggest PS5 Games Are Up To 50 Percent Off](https://kotaku.com/ps5-deals-soulslike-rpg-goty-discount-sale-2000656129)
+ - [ASUS Clears Out Prime Graphics Card, GeForce RTX 5060 Gets Even Cheaper Overnight After Another Price Drop](https://kotaku.com/asus-clears-out-prime-graphics-card-geforce-rtx-5060-gets-even-cheaper-overnight-after-another-price-drop-2000656038)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
