@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI Osmo Pocket 3 deal: Save $270 and upgrade your video clips](https://www.androidauthority.com/dji-osmo-pocket-3-deal-2-3628525/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 31, #934](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-31-934/#ftag=CAD590a51e)
- - [Photoshop Has a Lot of AI. This Is Your Guide to the Tools Worth Exploring](https://www.cnet.com/tech/services-and-software/the-best-new-ai-features-in-photoshop-and-how-to-use-them-like-a-pro/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Andrew O&#39;Hara&#39;s 2025 desk setup: A full studio with ample storage and power](https://appleinsider.com/articles/25/12/30/andrew-oharas-2025-desk-setup-a-full-studio-with-ample-storage-and-power?utm_source=rss)
+ - [A reflection on AI advances in the past decade and how scaling and time-horizon trends might point to far greater capabilities in the decade ahead &lpar;Zhengdong Wang&rpar;](http://www.techmeme.com/251230/p16#a251230p16)
+ - [OpenAI’s mysterious hardware project could be a… pen?](https://www.androidauthority.com/openai-jony-ive-hardware-pen-3628586/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
