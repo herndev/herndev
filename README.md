@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - ⏩ [Never touch another man without permission](http://9gag.com/gag/a34D528)
- - 👉 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)<!-- MEMES:END -->
+ - ⏩ [DEI &amp; ESG quotas fulfilled](http://9gag.com/gag/a2vV85p)
+ - 👉 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)<!-- MEMES:END -->
 
 ---
 
