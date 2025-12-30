@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I mean so many slots were empty](http://9gag.com/gag/an73nDB)
- - ⏩ [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
- - 👉 [Special talent](http://9gag.com/gag/an73OzV)<!-- MEMES:END -->
+ - ⏩ [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)
+ - 👉 [Light refraction - Air lets you see, water doesn\u2019t.](http://9gag.com/gag/a87967p)<!-- MEMES:END -->
 
 ---
 
