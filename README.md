@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eight season seven episode kill the franchise.](http://9gag.com/gag/agmbOxW)
- - ⏩ [Never touch another man without permission](http://9gag.com/gag/a34D528)
- - 👉 [Facts hurt](http://9gag.com/gag/ajPjLY0)<!-- MEMES:END -->
+ - 💣 [Facts hurt](http://9gag.com/gag/ajPjLY0)
+ - ⏩ [What are the downsides of this?](http://9gag.com/gag/aMV6dMP)
+ - 👉 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)<!-- MEMES:END -->
 
 ---
 
