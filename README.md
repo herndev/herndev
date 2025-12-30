@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Live your dream](http://9gag.com/gag/agmb1dn)
- - ⏩ [Eight season seven episode kill the franchise.](http://9gag.com/gag/agmbOxW)
- - 👉 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)<!-- MEMES:END -->
+ - 💣 [Eight season seven episode kill the franchise.](http://9gag.com/gag/agmbOxW)
+ - ⏩ [Facts hurt](http://9gag.com/gag/ajPjLY0)
+ - 👉 [Never touch another man without permission](http://9gag.com/gag/a34D528)<!-- MEMES:END -->
 
 ---
 
