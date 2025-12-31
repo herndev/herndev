@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [GTA 6 was supposed to be 2025&#39;s GOTY — here&#39;s what happened instead](https://www.polygon.com/2025-no-gta-6-rockstar-games/)
  - [The most surprising cozy game trend this year was the desktop pet renaissance](https://www.pcgamer.com/games/the-most-surprising-cozy-game-trend-this-year-was-the-desktop-pet-renaissance/)
- - [Fallout Season 2 Episode 3 recap: &#39;All that remains of America is its overwhelming failure&#39;](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-3-recap/)
- - [The State Of The Nintendo Switch 2 In 2025](https://kotaku.com/nintendo-switch-2-review-metroid-prime-4-pokemon-2000656188)<!-- GAME:END -->
+ - [Fallout Season 2 Episode 3 recap: &#39;All that remains of America is its overwhelming failure&#39;](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-3-recap/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
