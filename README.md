@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holiday](http://9gag.com/gag/aByMPzD)
- - ⏩ [Single](http://9gag.com/gag/a2vV0Zp)
- - 👉 [I would rage the shit out of her](http://9gag.com/gag/a4P8zoA)<!-- MEMES:END -->
+ - 💣 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
+ - ⏩ [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
+ - 👉 [Holiday](http://9gag.com/gag/aByMPzD)<!-- MEMES:END -->
 
 ---
 
