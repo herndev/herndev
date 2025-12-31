@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s the kind of girl you go on a first date and feel completely comfortable with and have a great time.](http://9gag.com/gag/a879mBY)
+ - 💣 [Single](http://9gag.com/gag/a2vV0Zp)
  - ⏩ [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
  - 👉 [That little girl...](http://9gag.com/gag/azxzO1B)<!-- MEMES:END -->
 
