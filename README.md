@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
- - ⏩ [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
- - 👉 [Holiday](http://9gag.com/gag/aByMPzD)<!-- MEMES:END -->
+ - 💣 [Oops Netflix did it again](http://9gag.com/gag/ary0XPp)
+ - ⏩ [Thank you Christopher Lee for Saruman](http://9gag.com/gag/aZZKQ7V)
+ - 👉 [It&#39;s TT, push-up for the day.](http://9gag.com/gag/ayNAWoy)<!-- MEMES:END -->
 
 ---
 
