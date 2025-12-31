@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Andrew O&#39;Hara&#39;s 2025 desk setup: A full studio with ample storage and power](https://appleinsider.com/articles/25/12/30/andrew-oharas-2025-desk-setup-a-full-studio-with-ample-storage-and-power?utm_source=rss)
- - [A reflection on AI advances in the past decade and how scaling and time-horizon trends might point to far greater capabilities in the decade ahead &lpar;Zhengdong Wang&rpar;](http://www.techmeme.com/251230/p16#a251230p16)
- - [OpenAI’s mysterious hardware project could be a… pen?](https://www.androidauthority.com/openai-jony-ive-hardware-pen-3628586/)<!-- TECH:END -->
+ - [Filing: Chinese AI startup MiniMax seeks to raise up to ~$538.5M in a Hong Kong IPO, offering 25.4M shares at a price range of ~$19.40 to ~$21.20 per share &lpar;Shivangi Lahiri/Reuters&rpar;](http://www.techmeme.com/251230/p19#a251230p19)
+ - [The US Treasury has lifted sanctions on three executives tied to spyware maker Intellexa, reversing a designation imposed by the Biden administration in 2024 &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251230/p18#a251230p18)
+ - [Elon Musk says xAI bought a third building called &quot;MACROHARDRR&quot;, reportedly adjacent to Colossus 2, that will take the company&#39;s training compute to almost 2GW &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251230/p17#a251230p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
