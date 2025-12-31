@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 6 was supposed to be 2025&#39;s GOTY — here&#39;s what happened instead](https://www.polygon.com/2025-no-gta-6-rockstar-games/)
- - [The most surprising cozy game trend this year was the desktop pet renaissance](https://www.pcgamer.com/games/the-most-surprising-cozy-game-trend-this-year-was-the-desktop-pet-renaissance/)
- - [Fallout Season 2 Episode 3 recap: &#39;All that remains of America is its overwhelming failure&#39;](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-3-recap/)<!-- GAME:END -->
+ - [Meta Quest 3S Drops Back to Black Friday Pricing, Now the Cheapest Premium VR Headset](https://kotaku.com/meta-quest-3s-drops-back-to-black-friday-pricing-now-the-cheapest-premium-vr-headset-2000656221)
+ - [Fallout season 2&#39;s treatment of Caesar&#39;s Legion reveals a larger New Vegas problem](https://www.polygon.com/fallouts-season-2-caesars-legion-new-vegas-problem/)
+ - [Together is now streaming on Hulu, and it might make or break your relationship](https://www.polygon.com/together-movie-hulu-recommendation/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
