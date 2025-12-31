@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia has approached TSMC to ramp up H200 chip production; Chinese companies have placed orders for 2M+ H200 chips for 2026, while Nvidia holds 700K &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p10#a251231p10)
- - [Filing: China&#39;s top DRAM maker CXMT plans to raise $4.2B in a Shanghai IPO; CXMT held a 4% global share in Q2 2025 and targets HBM production by the end of 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p9#a251231p9)
- - [&#39;Stranger Things 5&#39; Volume 3: When Does the Series Finale Premiere?](https://www.cnet.com/tech/services-and-software/stranger-things-5-volume-3-finale-release-date-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chrome for Android is fixing its most annoying Reading mode problem](https://www.androidauthority.com/chrome-for-android-is-reading-mode-redesign-3628818/)
+ - [Seriously, Google? Uncensored porn still appears on YouTube.](https://www.androidauthority.com/uncensored-porn-pics-youtube-3628807/)
+ - [Sources: Nvidia has approached TSMC to ramp up H200 chip production; Chinese companies have placed orders for 2M+ H200 chips for 2026, while Nvidia holds 700K &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p10#a251231p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
