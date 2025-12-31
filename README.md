@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC says the US government has granted the company an annual license to import US chip manufacturing equipment to its facilities in Nanjing, China &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p19#a251231p19)
- - [Internal docs reveal Meta&#39;s tactics to fend off pressure to crack down on scammers, including efforts to make scam ads &quot;not findable&quot; for regulators and others &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/251231/p18#a251231p18)
- - [Today&#39;s Wordle Hints, Answer and Help for Jan. 1, #1,657](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-1-1657/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram](https://www.theverge.com/news/852124/adam-mosseri-ai-images-video-instagram)
+ - [Thiel Capital opens an office in Miami, as Peter Thiel and others reportedly look to cut ties with California over a proposed ballot measure to tax billionaires &lpar;Biz Carson/Bloomberg&rpar;](http://www.techmeme.com/251231/p20#a251231p20)
+ - [TSMC says the US government has granted the company an annual license to import US chip manufacturing equipment to its facilities in Nanjing, China &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p19#a251231p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
