@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dealroom: 76 European deep tech and life sciences companies spun out from universities reached $1B valuations or $100M in revenue in 2025, or both &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251231/p12#a251231p12)
- - [How and why the famous &#39;1984&#39; ad was really first shown in 1983](https://appleinsider.com/articles/25/12/31/how-and-why-the-famous-1984-ad-was-really-first-shown-in-1983?utm_source=rss)
- - [How we worked in 2025: William&#39;s desk and wide monitor](https://appleinsider.com/articles/25/12/31/how-we-worked-in-2025-williams-desk-and-wide-monitor?utm_source=rss)<!-- TECH:END -->
+ - [There may be something big coming to Apple Fitness+ in 2026](https://appleinsider.com/articles/25/12/31/there-may-be-something-big-coming-to-apple-fitness-in-2026?utm_source=rss)
+ - [Killing in the name of… nothing](https://www.theverge.com/policy/849609/charlie-kirk-shooting-ideology-literacy-politics)
+ - [We&#39;re Kicking Off 2026 With a Supermoon. When to See It](https://www.cnet.com/science/space/the-new-year-will-kick-off-with-a-supermoon-heres-when-to-see-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
