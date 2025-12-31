@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Starting this moment is when little Johnny stopped playing with his toys and started playing with his left hand](http://9gag.com/gag/abAoOD9)
- - ⏩ [I heard you like big, javelin-throwing girls](http://9gag.com/gag/aE0bA6n)
- - 👉 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)<!-- MEMES:END -->
+ - 💣 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
+ - ⏩ [Facts hurt](http://9gag.com/gag/ajPjLY0)
+ - 👉 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)<!-- MEMES:END -->
 
 ---
 
