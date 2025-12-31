@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
- - ⏩ [Facts hurt](http://9gag.com/gag/ajPjLY0)
+ - 💣 [Holiday](http://9gag.com/gag/aByMPzD)
+ - ⏩ [Single](http://9gag.com/gag/a2vV0Zp)
  - 👉 [I would rage the shit out of her](http://9gag.com/gag/a4P8zoA)<!-- MEMES:END -->
 
 ---
