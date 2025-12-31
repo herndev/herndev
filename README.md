@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
- - ⏩ [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - 👉 [I posted this a few months ago, but I recently saw a video online of an idiot attempting this. So, this is just a reminder.](http://9gag.com/gag/aQzKQdq)<!-- MEMES:END -->
+ - ⏩ [Single](http://9gag.com/gag/a2vV0Zp)
+ - 👉 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)<!-- MEMES:END -->
 
 ---
 
