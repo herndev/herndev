@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are you ready for 2026?](http://9gag.com/gag/ae9Ex2p)
- - ⏩ [Life , may we be guided to the Tr\u00fbth of it](http://9gag.com/gag/a0eGnLd)
- - 👉 [I&#39;m going to open a daycare](http://9gag.com/gag/amoymzy)<!-- MEMES:END -->
+ - 💣 [Holiday](http://9gag.com/gag/aByMPzD)
+ - ⏩ [That little girl...](http://9gag.com/gag/azxzO1B)
+ - 👉 [Public transport in `Modern London..](http://9gag.com/gag/a6ZzBP9)<!-- MEMES:END -->
 
 ---
 
