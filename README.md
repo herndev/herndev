@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That makes two of us](http://9gag.com/gag/a9ye5gL)
- - ⏩ [Oops Netflix did it again](http://9gag.com/gag/ary0XPp)
- - 👉 [Thank you Christopher Lee for Saruman](http://9gag.com/gag/aZZKQ7V)<!-- MEMES:END -->
+ - 💣 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
+ - ⏩ [Facts hurt](http://9gag.com/gag/ajPjLY0)
+ - 👉 [I would rage the shit out of her](http://9gag.com/gag/a4P8zoA)<!-- MEMES:END -->
 
 ---
 
