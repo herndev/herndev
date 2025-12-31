@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab Apple&#39;s M4 15-inch MacBook Air for just $999 before the year ends](https://appleinsider.com/articles/25/12/31/grab-apples-m4-15-inch-macbook-air-for-just-999-before-the-year-ends?utm_source=rss)
- - [Want to Get Fit This Year? These Are the Best Fitness Trackers of 2026](https://www.cnet.com/health/fitness/best-fitness-tracker/#ftag=CAD590a51e)
- - [Trump Media, owner of Truth Social, plans to distribute a new token to shareholders with partner Crypto.com, expected to operate on the Cronos blockchain &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/251231/p14#a251231p14)<!-- TECH:END -->
+ - [Intel MacBook Air, Apple Watch Series 5, iPhone 11 Pro now vintage](https://appleinsider.com/articles/25/12/31/intel-macbook-air-apple-watch-series-5-iphone-11-pro-now-vintage?utm_source=rss)
+ - [Stadia controllers need to be updated for Bluetooth by today — except, not really](https://www.androidauthority.com/stadia-bluetooth-upgrade-3628926/)
+ - [Sources: Uber is in talks to acquire the parking space reservation app SpotHero; the parking app was last valued at $290M &lpar;The Information&rpar;](http://www.techmeme.com/251231/p15#a251231p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
