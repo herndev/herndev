@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - ⏩ [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)
+ - 💣 [Starting this moment is when little Johnny stopped playing with his toys and started playing with his left hand](http://9gag.com/gag/abAoOD9)
+ - ⏩ [I heard you like big, javelin-throwing girls](http://9gag.com/gag/aE0bA6n)
  - 👉 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)<!-- MEMES:END -->
 
 ---
