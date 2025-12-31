@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There may be something big coming to Apple Fitness+ in 2026](https://appleinsider.com/articles/25/12/31/there-may-be-something-big-coming-to-apple-fitness-in-2026?utm_source=rss)
- - [Killing in the name of… nothing](https://www.theverge.com/policy/849609/charlie-kirk-shooting-ideology-literacy-politics)
- - [We&#39;re Kicking Off 2026 With a Supermoon. When to See It](https://www.cnet.com/science/space/the-new-year-will-kick-off-with-a-supermoon-heres-when-to-see-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Net neutrality was back, until it wasn’t](https://www.theverge.com/report/851629/net-neutrality-fcc-retrospective-2025)
+ - [Leaked video shows the Galaxy S26 Ultra’s new camera island](https://www.theverge.com/news/851931/samsung-galaxy-236-ultra-video-photo-leak)
+ - [The best Apple Home devices that launched in 2025 -- tested](https://appleinsider.com/articles/25/12/31/the-best-apple-home-devices-that-launched-in-2025----tested?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
