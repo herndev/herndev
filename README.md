@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Single](http://9gag.com/gag/a2vV0Zp)
+ - 💣 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
  - ⏩ [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
- - 👉 [That little girl...](http://9gag.com/gag/azxzO1B)<!-- MEMES:END -->
+ - 👉 [Engineering Students Build &#39;Popsicle Bridge&#39; That Can Hold 430kg Load...](http://9gag.com/gag/aO8ODX3)<!-- MEMES:END -->
 
 ---
 
