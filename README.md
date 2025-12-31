@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
- - ⏩ [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
- - 👉 [Finally some good news](http://9gag.com/gag/a6Zz5ZL)<!-- MEMES:END -->
+ - 💣 [Are you ready for 2026?](http://9gag.com/gag/ae9Ex2p)
+ - ⏩ [Life , may we be guided to the Tr\u00fbth of it](http://9gag.com/gag/a0eGnLd)
+ - 👉 [I&#39;m going to open a daycare](http://9gag.com/gag/amoymzy)<!-- MEMES:END -->
 
 ---
 
