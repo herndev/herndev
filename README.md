@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s the kind of girl you go on a first date and feel completely comfortable with and have a great time.](http://9gag.com/gag/a879mBY)
- - ⏩ [Reject simping... Embrace Architecture!](http://9gag.com/gag/aE0boQN)
- - 👉 [I heard you like big, javelin-throwing girls](http://9gag.com/gag/aE0bA6n)<!-- MEMES:END -->
+ - 💣 [I would rage the shit out of her](http://9gag.com/gag/a4P8zoA)
+ - ⏩ [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
+ - 👉 [Holiday](http://9gag.com/gag/aByMPzD)<!-- MEMES:END -->
 
 ---
 
