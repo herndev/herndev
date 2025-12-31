@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel MacBook Air, Apple Watch Series 5, iPhone 11 Pro now vintage](https://appleinsider.com/articles/25/12/31/intel-macbook-air-apple-watch-series-5-iphone-11-pro-now-vintage?utm_source=rss)
- - [Stadia controllers need to be updated for Bluetooth by today — except, not really](https://www.androidauthority.com/stadia-bluetooth-upgrade-3628926/)
- - [Sources: Uber is in talks to acquire the parking space reservation app SpotHero; the parking app was last valued at $290M &lpar;The Information&rpar;](http://www.techmeme.com/251231/p15#a251231p15)<!-- TECH:END -->
+ - [Filing: Chinese AI chip startup Biren raises ~$717M in its Hong Kong IPO; institutional and retail tranches were oversubscribed ~26x and ~2,348x, respectively &lpar;Himanshi Akhand/Reuters&rpar;](http://www.techmeme.com/251231/p17#a251231p17)
+ - [A bug is messing up watch faces on Pixel Watch and Galaxy Watch models](https://www.androidauthority.com/pixel-watch-galaxy-watch-wear-os-6-face-bug-3628935/)
+ - [Unsealed documents detail a US operation that stopped the alleged smuggling of $160M worth of Nvidia H100 and H200 GPUs to China between Oct. 2024 and May 2025 &lpar;CNBC&rpar;](http://www.techmeme.com/251231/p16#a251231p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
