@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facts hurt](http://9gag.com/gag/ajPjLY0)
- - ⏩ [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)
+ - 💣 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)
+ - ⏩ [Who gave this guys driver licenses](http://9gag.com/gag/a5QA6zG)
  - 👉 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)<!-- MEMES:END -->
 
 ---
