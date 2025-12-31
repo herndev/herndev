@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fallout Season 2 Episode 3 recap: &#39;All that remains of America is its overwhelming failure&#39;](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-3-recap/)
  - [The State Of The Nintendo Switch 2 In 2025](https://kotaku.com/nintendo-switch-2-review-metroid-prime-4-pokemon-2000656188)
- - [Eric Barone makes $125,000 donation to the C# framework Stardew Valley uses, as well as &#39;an ongoing monthly commitment&#39; in what the team behind it calls an &#39;extraordinary show of support&#39;](https://www.pcgamer.com/games/eric-barone-makes-usd125-000-donation-to-the-c-framework-stardew-valley-uses-as-well-as-an-ongoing-monthly-commitment-in-what-the-team-behind-it-calls-an-extraordinary-show-of-support/)
- - [This indie WarioWare-like released a teaser just to show off its &#39;game over&#39; music, and after hearing it, I can see why](https://www.pcgamer.com/games/this-indie-warioware-like-released-a-teaser-just-to-show-off-its-game-over-music-and-after-hearing-it-i-can-see-why/)<!-- GAME:END -->
+ - [Eric Barone makes $125,000 donation to the C# framework Stardew Valley uses, as well as &#39;an ongoing monthly commitment&#39; in what the team behind it calls an &#39;extraordinary show of support&#39;](https://www.pcgamer.com/games/eric-barone-makes-usd125-000-donation-to-the-c-framework-stardew-valley-uses-as-well-as-an-ongoing-monthly-commitment-in-what-the-team-behind-it-calls-an-extraordinary-show-of-support/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
