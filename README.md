@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Manus distanced itself from its Chinese roots to court US investors; a source says Meta&#39;s $2.5B deal includes a $500M retention pool for Manus&#39; employees &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251231/p2#a251231p2)
- - [Japanese NAND flash memory maker Kioxia is up 500%+ in 2025 so far, outperforming all other MSCI World Index members, after its Tokyo IPO debut in December 2024 &lpar;Alice French/Bloomberg&rpar;](http://www.techmeme.com/251231/p1#a251231p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 31, #464](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-31-464/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese AI firms are leading a wave of IPOs in Hong Kong, where at least 25 companies debuted in December 2025, the busiest month for deals since November 2019 &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/251231/p6#a251231p6)
+ - [Filing: Chinese chip designer OmniVision Integrated Circuits seeks to raise up to ~$617M in a Hong Kong IPO; HKEX: Hong Kong IPOs have raised ~$36B in 2025 &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/251231/p5#a251231p5)
+ - [Sources: bids for GroqCloud, Groq&#39;s AI inference platform, are expected to exceed $1B after Nvidia&#39;s $20B non-exclusive licensing agreement with Groq &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/251231/p4#a251231p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
