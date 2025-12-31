@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can you guess which games these bizarre 2025 patch notes are from?](https://www.pcgamer.com/games/can-you-guess-which-games-these-bizarre-2025-patch-notes-are-from/)
- - [As 2025 draws to a close, test your knowledge of another packed 12 months for PC gaming with our big end of year quiz](https://www.pcgamer.com/games/as-2025-draws-to-a-close-test-your-knowledge-of-another-packed-12-months-for-pc-gaming-with-our-big-end-of-year-quiz/)
- - [Meta Quest 3S Drops Back to Black Friday Pricing, Now the Cheapest Premium VR Headset](https://kotaku.com/meta-quest-3s-drops-back-to-black-friday-pricing-now-the-cheapest-premium-vr-headset-2000656221)<!-- GAME:END -->
+ - [The most-played video games of 2025 for Polygon&#39;s writers and editors](https://www.polygon.com/most-played-games-2025/)
+ - [ChatGPT Is Already Exploring Bold New Ways To Sell You Out](https://kotaku.com/chatgpt-is-already-exploring-bold-new-ways-to-be-completely-useless-2000656223)
+ - [Sony Goes Clearance on WH-1000XM5 as These Noise Canceling Headphones Drop to a Record Low, No Need for Budget Earbuds](https://kotaku.com/sony-goes-clearance-on-wh-1000xm5-as-these-noise-canceling-headphones-drop-to-a-record-low-no-need-for-budget-earbuds-2000656215)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
