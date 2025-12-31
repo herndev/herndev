@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There are only about 100,000 Somalis in Minnesota, yet they have made the state unlivable for the six million law-abiding citizens.](http://9gag.com/gag/aD2LnDw)
+ - 💣 [Facts hurt](http://9gag.com/gag/ajPjLY0)
  - ⏩ [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)
- - 👉 [I love this sport \u2026 whatever it\u2019s called](http://9gag.com/gag/aD2Ln9x)<!-- MEMES:END -->
+ - 👉 [Henry Cavill&#39;s beard in Mission Impossible is legendary](http://9gag.com/gag/agmb7Br)<!-- MEMES:END -->
 
 ---
 
