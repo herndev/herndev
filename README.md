@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the AI data center boom boosted Caterpillar&#39;s power and energy unit; generator sales are up 28% YoY through Sept. 2025, after growing 22% to $7.8B in 2024 &lpar;Bob Tita/Wall Street Journal&rpar;](http://www.techmeme.com/251231/p11#a251231p11)
- - [AI-Powered Dating Is All Hype. IRL Cruising Is the Future](https://www.wired.com/story/expired-tired-wired-ai-powered-dating/)
- - [Fears Mount That US Federal Cybersecurity Is Stagnating—or Worse](https://www.wired.com/story/expired-tired-wired-federal-cybersecurity/)<!-- TECH:END -->
+ - [Dealroom: 76 European deep tech and life sciences companies spun out from universities reached $1B valuations or $100M in revenue in 2025, or both &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251231/p12#a251231p12)
+ - [How and why the famous &#39;1984&#39; ad was really first shown in 1983](https://appleinsider.com/articles/25/12/31/how-and-why-the-famous-1984-ad-was-really-first-shown-in-1983?utm_source=rss)
+ - [How we worked in 2025: William&#39;s desk and wide monitor](https://appleinsider.com/articles/25/12/31/how-we-worked-in-2025-williams-desk-and-wide-monitor?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
