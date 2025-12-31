@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Net neutrality was back, until it wasn’t](https://www.theverge.com/report/851629/net-neutrality-fcc-retrospective-2025)
- - [Leaked video shows the Galaxy S26 Ultra’s new camera island](https://www.theverge.com/news/851931/samsung-galaxy-236-ultra-video-photo-leak)
- - [The best Apple Home devices that launched in 2025 -- tested](https://appleinsider.com/articles/25/12/31/the-best-apple-home-devices-that-launched-in-2025----tested?utm_source=rss)<!-- TECH:END -->
+ - [Survey confirms: You don’t need any ‘elite’ chip for your next phone](https://www.androidauthority.com/snapdragon-8-gen-5-poll-3628582/)
+ - [2025&#39;s Best Home Security Cameras That Don&#39;t Require Subscriptions](https://www.cnet.com/home/security/best-home-security-cameras-without-subscriptions/#ftag=CAD590a51e)
+ - [Net neutrality was back, until it wasn’t](https://www.theverge.com/report/851629/net-neutrality-fcc-retrospective-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
