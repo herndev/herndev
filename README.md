@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Engineering Students Build &#39;Popsicle Bridge&#39; That Can Hold 430kg Load...](http://9gag.com/gag/aO8ODX3)
- - ⏩ [I can fix her](http://9gag.com/gag/abAo4OO)
- - 👉 [Holiday](http://9gag.com/gag/aByMPzD)<!-- MEMES:END -->
+ - 💣 [Error 1, brain not found](http://9gag.com/gag/aW4ALVA)
+ - ⏩ [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
+ - 👉 [Finally some good news](http://9gag.com/gag/a6Zz5ZL)<!-- MEMES:END -->
 
 ---
 
