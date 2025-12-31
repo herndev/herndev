@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome for Android is fixing its most annoying Reading mode problem](https://www.androidauthority.com/chrome-for-android-is-reading-mode-redesign-3628818/)
- - [Seriously, Google? Uncensored porn still appears on YouTube.](https://www.androidauthority.com/uncensored-porn-pics-youtube-3628807/)
- - [Sources: Nvidia has approached TSMC to ramp up H200 chip production; Chinese companies have placed orders for 2M+ H200 chips for 2026, while Nvidia holds 700K &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p10#a251231p10)<!-- TECH:END -->
+ - [I can’t stand this Google Photos feature anymore](https://www.androidauthority.com/google-photos-locked-folder-feature-3628813/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Dec. 31 #668](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-dec-31-668/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Dec. 31, #934](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-dec-31-934/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
