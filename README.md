@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy NEW YEAR!](http://9gag.com/gag/aO8O9RM)
- - ⏩ [Yes you](http://9gag.com/gag/aE0boLG)
- - 👉 [It&#39;s TT, push-up for the day.](http://9gag.com/gag/ayNAWoy)<!-- MEMES:END -->
+ - 💣 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
+ - ⏩ [I can fix her](http://9gag.com/gag/abAo4OO)
+ - 👉 [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)<!-- MEMES:END -->
 
 ---
 
