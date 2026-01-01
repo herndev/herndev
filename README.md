@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s TT, push-up for the day.](http://9gag.com/gag/ayNAWoy)
- - ⏩ [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
- - 👉 [Knock knock](http://9gag.com/gag/aMV6nyW)<!-- MEMES:END -->
+ - 💣 [That little girl...](http://9gag.com/gag/azxzO1B)
+ - ⏩ [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
+ - 👉 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)<!-- MEMES:END -->
 
 ---
 
