@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
- - ⏩ [I can fix her](http://9gag.com/gag/abAo4OO)
- - 👉 [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)<!-- MEMES:END -->
+ - 💣 [Happy NEW YEAR!](http://9gag.com/gag/aO8O9RM)
+ - ⏩ [Yes you](http://9gag.com/gag/aE0boLG)
+ - 👉 [Happy new year f**kers!! It\u2019s been a ride, alone, shitty job and no life but at least I have you guys](http://9gag.com/gag/ajPjZA1)<!-- MEMES:END -->
 
 ---
 
