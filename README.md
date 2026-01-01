@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
- - ⏩ [When you thought it became alive after adding that last piece](http://9gag.com/gag/abAo4zb)
+ - 💣 [I can fix her](http://9gag.com/gag/abAo4OO)
+ - ⏩ [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)
  - 👉 [That little girl...](http://9gag.com/gag/azxzO1B)<!-- MEMES:END -->
 
 ---
