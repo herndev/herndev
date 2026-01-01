@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hundreds of megawatts of new data center capacity are being planned in Vernon, a city near LA, which is a key US-Asia cable-linking hub and is becoming crowded &lpar;Nilesh Christopher/Los Angeles Times&rpar;](http://www.techmeme.com/260101/p7#a260101p7)
- - [Here’s What It’s Like to Use Acuity Scheduling for Your Business or Side Hustle &lpar;2026&rpar;](https://www.wired.com/story/acuity-scheduling/)
- - [Sources: SpaceX, OpenAI, and Anthropic could IPO in 2026; those three deals alone would exceed the total proceeds from roughly 200 US IPOs in 2025 &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260101/p6#a260101p6)<!-- TECH:END -->
+ - [I Tested Popular Functional Coffee Add-Ins for a Week Each &lpar;2026&rpar;](https://www.wired.com/gallery/best-functional-coffee-add-ins/)
+ - [How to Make It Through Cold and Flu Season](https://www.wired.com/story/cold-and-flu-prevention-treatment-tips/)
+ - [Strava used to be my favorite running app, but now I can’t stand it](https://www.androidauthority.com/strava-no-longer-favorite-app-3626886/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
