@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Carolyn Petit’s Top 5 Games Of 2025](https://kotaku.com/best-games-2025-despelote-terminator-2d-absolum-pac-man-shadow-labyrinth-blippo-2000656278)
- - [The 10 best manga I read in 2025 &lpar;that you&#39;ve probably never heard of&rpar;](https://www.polygon.com/best-underrated-manga-2025/)
- - [Here are 2025&#39;s six highest rated hardware, enjoying tippy-top review scores—plus six dishonorable mentions](https://www.pcgamer.com/hardware/here-are-2025s-six-highest-rated-hardware-enjoying-tippy-top-review-scores-plus-six-dishonorable-mentions/)<!-- GAME:END -->
+ - [Anker Goes Big for 2026 With 59% Off Power Station Bundle Including Expansion Batteries and Solar Panels](https://kotaku.com/anker-goes-big-for-2026-with-59-off-power-station-bundle-including-expansion-batteries-and-solar-panels-2000656218)
+ - [New movies on Netflix: 10 horror, sci-fi, and fantasy films streaming on January 1, 2026](https://www.polygon.com/new-movies-on-netflix-january-2026/)
+ - [I&#39;m brave enough to say it: Linux is good now, and if you want to feel like you actually own your PC, make 2026 the year of Linux on &lpar;your&rpar; desktop](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
