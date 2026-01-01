@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 20 most anticipated new anime of 2026](https://www.polygon.com/the-most-anticipated-anime-of-2026/)
- - [Twin Peaks actor Matthew Lillard reflects on working with David Lynch](https://www.polygon.com/matthew-lillard-twin-peaks-the-return-david-lynch-interview/)
- - [2025 was the year friendslop reigned, and so many low-cost ways to have fun with your pals couldn&#39;t have come at a better time](https://www.pcgamer.com/games/2025-was-the-year-friendslop-reigned-and-so-many-low-cost-ways-to-have-fun-with-your-pals-couldnt-have-come-at-a-better-time/)<!-- GAME:END -->
+ - [Zohran Mamdani&#39;s win made Promise Mascot Agency the most relevant game of 2025](https://www.polygon.com/mamdani-grassroots-campaigning-promise-mascot-agency/)
+ - [What free games are on Epic Games Store today &lpar;Dec. 31&rpar;?](https://www.polygon.com/epic-games-store-free-games-december-2025/)
+ - [The 20 most anticipated new anime of 2026](https://www.polygon.com/the-most-anticipated-anime-of-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
