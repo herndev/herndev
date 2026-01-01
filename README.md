@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;Happy Gloom Year!&#39;: The new Gloomwood update is out, and it includes the game&#39;s &#39;largest, most vertical open area&#39; yet](https://www.pcgamer.com/games/fps/happy-gloom-year-the-new-gloomwood-update-is-out-and-it-includes-the-games-largest-most-vertical-open-area-yet/)
  - [Stranger Things ending explained: Vecna, the Mindflayer, and a cathartic series finale](https://www.polygon.com/stranger-things-ending-explained-season-5-finale-mind-flayer-vecna/)
- - [Pluribus lead Rhea Seehorn&#39;s career began as the &#39;tutorial sorceress&#39; in a Magic The Gathering PC game from 1997](https://www.pcgamer.com/games/card-games/pluribus-lead-rhea-seehorns-career-began-as-the-tutorial-sorceress-in-a-magic-the-gathering-pc-game-from-1997/)
- - [Dispatch sold over 3 million copies in 2025, and only around five percent of players beat the game without romancing anyone](https://www.pcgamer.com/games/adventure/dispatch-sold-over-3-million-copies-in-2025-and-only-around-five-percent-of-players-beat-the-game-without-romancing-anyone/)<!-- GAME:END -->
+ - [Pluribus lead Rhea Seehorn&#39;s career began as the &#39;tutorial sorceress&#39; in a Magic The Gathering PC game from 1997](https://www.pcgamer.com/games/card-games/pluribus-lead-rhea-seehorns-career-began-as-the-tutorial-sorceress-in-a-magic-the-gathering-pc-game-from-1997/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
