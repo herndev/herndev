@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FBI says fraudsters bilked Americans out of $333.5M via bitcoin ATM scams from January through November 2025, up from roughly $250M in 2024 &lpar;Lucien Bruggeman/ABC News&rpar;](http://www.techmeme.com/251231/p21#a251231p21)
  - [You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram](https://www.theverge.com/news/852124/adam-mosseri-ai-images-video-instagram)
- - [Thiel Capital opens an office in Miami, as Peter Thiel and others reportedly look to cut ties with California over a proposed ballot measure to tax billionaires &lpar;Biz Carson/Bloomberg&rpar;](http://www.techmeme.com/251231/p20#a251231p20)
- - [TSMC says the US government has granted the company an annual license to import US chip manufacturing equipment to its facilities in Nanjing, China &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p19#a251231p19)<!-- TECH:END -->
+ - [Thiel Capital opens an office in Miami, as Peter Thiel and others reportedly look to cut ties with California over a proposed ballot measure to tax billionaires &lpar;Biz Carson/Bloomberg&rpar;](http://www.techmeme.com/251231/p20#a251231p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
