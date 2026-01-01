@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the rise of AI companion apps; a researcher counts 206 such apps on the App Store and 253 on Google Play, with 220M+ total downloads as of July 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260101/p8#a260101p8)
- - [These are my picks for the best mobile games of 2025 that you should play in 2026](https://www.androidauthority.com/best-mobile-games-2025-3627568/)
- - [AI Labor Is Boring. AI Lust Is Big Business](https://www.wired.com/story/expired-tired-wired-sexy-chatbots/)<!-- TECH:END -->
+ - [What sky high RAM prices mean for your next smartphone?](https://www.androidauthority.com/ram-shortage-prices-explained-3626017/)
+ - [4 Best Smart Scales &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-scales/)
+ - [How to Watch Georgia vs. Ole Miss: Start Time, TV Channel for Sugar Bowl CFP Quarterfinal](https://www.cnet.com/tech/services-and-software/how-to-watch-georgia-vs-ole-miss-start-time-tv-channel-for-sugar-bowl-cfp-quarterfinal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
