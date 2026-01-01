@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet the new tech laws of 2026](https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair)
- - [3 apps I’m actually using to keep my New Year’s resolutions](https://www.androidauthority.com/new-years-resolutions-apps-2026-3628951/)
- - [Tech startups have started to offer nicotine pouches as a free perk to employees, as some claim the products help them focus despite health hazards &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/260101/p9#a260101p9)<!-- TECH:END -->
+ - [Why You Might Still Need a Landline, Even in 2026](https://www.cnet.com/tech/mobile/why-you-may-still-need-your-landline/#ftag=CAD590a51e)
+ - [Sources: OpenAI ramped up efforts to improve its audio AI models, in preparation for its AI-powered personal device, which is expected to be largely audio-based &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/260101/p10#a260101p10)
+ - [Prime Video: The 30 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-to-watch-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
