@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
- - ⏩ [Holiday](http://9gag.com/gag/aByMPzD)
- - 👉 [I can fix her](http://9gag.com/gag/abAo4OO)<!-- MEMES:END -->
+ - 💣 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
+ - ⏩ [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)
+ - 👉 [Happy New Year!](http://9gag.com/gag/aE0bDzp)<!-- MEMES:END -->
 
 ---
 
