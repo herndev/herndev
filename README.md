@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [William&#39;s best tech in 2025: Mac Studio, iPad Pro, and so much from Elgato](https://appleinsider.com/articles/26/01/01/williams-best-tech-in-2025-mac-studio-ipad-pro-and-so-much-from-elgato?utm_source=rss)
- - [What sky high RAM prices mean for your next smartphone?](https://www.androidauthority.com/ram-shortage-prices-explained-3626017/)
- - [4 Best Smart Scales &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-scales/)<!-- TECH:END -->
+ - [Meet the new tech laws of 2026](https://www.theverge.com/policy/851664/new-tech-internet-laws-us-2026-ai-privacy-repair)
+ - [3 apps I’m actually using to keep my New Year’s resolutions](https://www.androidauthority.com/new-years-resolutions-apps-2026-3628951/)
+ - [Tech startups have started to offer nicotine pouches as a free perk to employees, as some claim the products help them focus despite health hazards &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/260101/p9#a260101p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
