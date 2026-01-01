@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
- - ⏩ [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
- - 👉 [Holiday](http://9gag.com/gag/aByMPzD)<!-- MEMES:END -->
+ - 💣 [Lost Chance](http://9gag.com/gag/aNDXBw6)
+ - ⏩ [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
+ - 👉 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)<!-- MEMES:END -->
 
 ---
 
