@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI automation can fulfill Thomas Piketty&#39;s predictions on rising economic inequality, and why highly progressive taxes on capital can help slow the spiral &lpar;Philosopher Count&rpar;](http://www.techmeme.com/260101/p14#a260101p14)
- - [Desk tours: Wesley Hilliard&#39;s iPad-centric workflows fully replace the Mac mini](https://appleinsider.com/articles/26/01/01/desk-tours-wesley-hilliards-ipad-centric-workflows-fully-replace-the-mac-mini?utm_source=rss)
- - [A look at US tech laws rolling out in 2026, including California&#39;s SB 53 AI transparency law and Virginia&#39;s new social media limits for minors, effective today &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/260101/p13#a260101p13)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 2 #670](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-2-670/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 2, #936](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-2-936/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 2, #1658](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-2-1658/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
