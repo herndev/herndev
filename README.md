@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
- - ⏩ [That little girl...](http://9gag.com/gag/azxzO1B)
- - 👉 [She want Ice ?](http://9gag.com/gag/avyVxeM)<!-- MEMES:END -->
+ - 💣 [Holiday](http://9gag.com/gag/aByMPzD)
+ - ⏩ [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
+ - 👉 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)<!-- MEMES:END -->
 
 ---
 
