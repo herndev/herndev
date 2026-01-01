@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holiday](http://9gag.com/gag/aByMPzD)
- - ⏩ [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
- - 👉 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)<!-- MEMES:END -->
+ - 💣 [It&#39;s TT, push-up for the day.](http://9gag.com/gag/ayNAWoy)
+ - ⏩ [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
+ - 👉 [Knock knock](http://9gag.com/gag/aMV6nyW)<!-- MEMES:END -->
 
 ---
 
