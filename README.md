@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 20 most anticipated new anime of 2026](https://www.polygon.com/the-most-anticipated-anime-of-2026/)
  - [Twin Peaks actor Matthew Lillard reflects on working with David Lynch](https://www.polygon.com/matthew-lillard-twin-peaks-the-return-david-lynch-interview/)
- - [Apple Watch Series 11 Crashes to Record Low to Wind Down Its 2025 Smartwatch Lineup](https://kotaku.com/apple-watch-series-11-crashes-to-record-low-to-wind-down-its-2025-smartwatch-lineup-2000656173)
- - [Do you know your Doom from your Dune? Put your sci-fi knowledge to the test in our first quiz of 2026!](https://www.pcgamer.com/games/do-you-know-your-doom-from-your-dune-put-your-sci-fi-knowledge-to-the-test-in-our-first-quiz-of-2026/)<!-- GAME:END -->
+ - [2025 was the year friendslop reigned, and so many low-cost ways to have fun with your pals couldn&#39;t have come at a better time](https://www.pcgamer.com/games/2025-was-the-year-friendslop-reigned-and-so-many-low-cost-ways-to-have-fun-with-your-pals-couldnt-have-come-at-a-better-time/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
