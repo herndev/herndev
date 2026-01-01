@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dispatch sold over 3 million copies in 2025, and only around five percent of players beat the game without romancing anyone](https://www.pcgamer.com/games/adventure/dispatch-sold-over-3-million-copies-in-2025-and-only-around-five-percent-of-players-beat-the-game-without-romancing-anyone/)
  - [Betty Boop, Blondie, and a slew of Mickey Mouse cartoons are entering the public domain, so let&#39;s hope for something better than bargain bin horror games](https://www.pcgamer.com/games/betty-boop-blondie-and-a-slew-of-mickey-mouse-cartoons-are-entering-the-public-domain-so-lets-hope-for-something-better-than-bargain-bin-horror-games/)
- - [CES 2026: From new Intel chips to far too much AI, here&#39;s everything we expect to see](https://www.pcgamer.com/hardware/ces-2026-from-new-intel-chips-to-far-too-much-ai-heres-everything-we-expect-to-see/)
- - [Zohran Mamdani&#39;s win made Promise Mascot Agency the most relevant game of 2025](https://www.polygon.com/mamdani-grassroots-campaigning-promise-mascot-agency/)<!-- GAME:END -->
+ - [CES 2026: From new Intel chips to far too much AI, here&#39;s everything we expect to see](https://www.pcgamer.com/hardware/ces-2026-from-new-intel-chips-to-far-too-much-ai-heres-everything-we-expect-to-see/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
