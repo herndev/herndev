@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That little girl...](http://9gag.com/gag/azxzO1B)
- - ⏩ [Holiday](http://9gag.com/gag/aByMPzD)
+ - 💣 [Trying to eat dinner in Italy](http://9gag.com/gag/ajPjxKG)
+ - ⏩ [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
  - 👉 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)<!-- MEMES:END -->
 
 ---
