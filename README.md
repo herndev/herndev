@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can fix her](http://9gag.com/gag/abAo4OO)
- - ⏩ [Small woman can be useful for others things too? How can we imagine?](http://9gag.com/gag/amoym7X)
- - 👉 [That little girl...](http://9gag.com/gag/azxzO1B)<!-- MEMES:END -->
+ - 💣 [Happy NEW YEAR!](http://9gag.com/gag/aO8O9RM)
+ - ⏩ [Yes you](http://9gag.com/gag/aE0boLG)
+ - 👉 [It&#39;s TT, push-up for the day.](http://9gag.com/gag/ayNAWoy)<!-- MEMES:END -->
 
 ---
 
