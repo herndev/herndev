@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
+ - 💣 [What happened in 1971?](http://9gag.com/gag/aoy6xq0)
  - ⏩ [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
- - 👉 [Trying to eat dinner in Italy](http://9gag.com/gag/ajPjxKG)<!-- MEMES:END -->
+ - 👉 [Holiday](http://9gag.com/gag/aByMPzD)<!-- MEMES:END -->
 
 ---
 
