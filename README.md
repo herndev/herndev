@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk says Neuralink plans to start &quot;high-volume production&quot; of brain-computer interface devices and move to a fully automated surgical procedure in 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p23#a251231p23)
  - [Adam Mosseri details trends shaping Instagram and says it&#39;ll be more practical to authenticate real media than label AI, as AI gets better at imitating reality &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251231/p22#a251231p22)
- - [Happy New Year 2026 from AppleInsider](https://appleinsider.com/articles/26/01/01/happy-new-year-2026-from-appleinsider?utm_source=rss)
- - [The FBI says fraudsters bilked Americans out of $333.5M via bitcoin ATM scams from January through November 2025, up from roughly $250M in 2024 &lpar;Lucien Bruggeman/ABC News&rpar;](http://www.techmeme.com/251231/p21#a251231p21)<!-- TECH:END -->
+ - [Happy New Year 2026 from AppleInsider](https://appleinsider.com/articles/26/01/01/happy-new-year-2026-from-appleinsider?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
