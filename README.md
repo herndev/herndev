@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How AI labs are deploying on-site gas generators for power as the US electric grid struggles to keep pace with the growing demands of AI infrastructure &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/251231/p24#a251231p24)
  - [Elon Musk says Neuralink plans to start &quot;high-volume production&quot; of brain-computer interface devices and move to a fully automated surgical procedure in 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/251231/p23#a251231p23)
- - [Adam Mosseri details trends shaping Instagram and says it&#39;ll be more practical to authenticate real media than label AI, as AI gets better at imitating reality &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251231/p22#a251231p22)
- - [Happy New Year 2026 from AppleInsider](https://appleinsider.com/articles/26/01/01/happy-new-year-2026-from-appleinsider?utm_source=rss)<!-- TECH:END -->
+ - [Adam Mosseri details trends shaping Instagram and says it&#39;ll be more practical to authenticate real media than label AI, as AI gets better at imitating reality &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251231/p22#a251231p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
