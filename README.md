@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Tested Popular Functional Coffee Add-Ins for a Week Each &lpar;2026&rpar;](https://www.wired.com/gallery/best-functional-coffee-add-ins/)
- - [How to Make It Through Cold and Flu Season](https://www.wired.com/story/cold-and-flu-prevention-treatment-tips/)
- - [Strava used to be my favorite running app, but now I can’t stand it](https://www.androidauthority.com/strava-no-longer-favorite-app-3626886/)<!-- TECH:END -->
+ - [A look at the rise of AI companion apps; a researcher counts 206 such apps on the App Store and 253 on Google Play, with 220M+ total downloads as of July 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260101/p8#a260101p8)
+ - [These are my picks for the best mobile games of 2025 that you should play in 2026](https://www.androidauthority.com/best-mobile-games-2025-3627568/)
+ - [AI Labor Is Boring. AI Lust Is Big Business](https://www.wired.com/story/expired-tired-wired-sexy-chatbots/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
