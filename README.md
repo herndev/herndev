@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holiday](http://9gag.com/gag/aByMPzD)
- - ⏩ [That little girl...](http://9gag.com/gag/azxzO1B)
- - 👉 [Public transport in `Modern London..](http://9gag.com/gag/a6ZzBP9)<!-- MEMES:END -->
+ - 💣 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
+ - ⏩ [Holiday](http://9gag.com/gag/aByMPzD)
+ - 👉 [I can fix her](http://9gag.com/gag/abAo4OO)<!-- MEMES:END -->
 
 ---
 
