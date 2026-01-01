@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPad mini 7 is on sale for $399 as Amazon launches 2026 deals](https://appleinsider.com/articles/26/01/01/apples-ipad-mini-7-is-on-sale-for-399-as-amazon-launches-2026-deals?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Jan. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-jan-1/#ftag=CAD590a51e)
- - [How AI labs are deploying on-site gas generators for power as the US electric grid struggles to keep pace with the growing demands of AI infrastructure &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/251231/p24#a251231p24)<!-- TECH:END -->
+ - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in January](https://www.wired.com/story/att-promo-code/)
+ - [Report: China-based Moonshot AI, maker of Kimi models, raised a $500M Series C at a $4.3B valuation led by IDG Capital, with Alibaba and Tencent participating &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/260101/p3#a260101p3)
+ - [Newegg Promo Code: 10% Off in January 2026](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
