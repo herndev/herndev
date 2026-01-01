@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [That little girl...](http://9gag.com/gag/azxzO1B)
- - ⏩ [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
- - 👉 [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)<!-- MEMES:END -->
+ - ⏩ [Holiday](http://9gag.com/gag/aByMPzD)
+ - 👉 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)<!-- MEMES:END -->
 
 ---
 
