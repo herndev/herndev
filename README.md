@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG announces the &amp;#8216;world’s lightest 17-inch RTX laptop&amp;#8217;](https://www.theverge.com/news/852628/lg-gram-pro-17-16-laptop-2026-ces)
- - [Fender’s first wireless headphones have a long-lasting, replaceable battery](https://www.theverge.com/news/850879/fender-mix-wireless-headphones-bluetooth-modular-replaceable-battery)
- - [Fender’s new Bluetooth speakers can play audio from four sources simultaneously](https://www.theverge.com/gadgets/850912/fender-audio-elie-bluetooth-portable-wireless-speakers-four-inputs-simultaneous)<!-- TECH:END -->
+ - [This smart fridge wants to solve the hassle of grocery shopping](https://www.theverge.com/news/851934/ge-appliances-smart-fridge-barcode-scanner-tablet)
+ - [Battlefront MacBook Air takes a shelling in Ukraine and keeps on working](https://appleinsider.com/articles/26/01/02/battlefront-macbook-air-takes-a-shelling-in-ukraine-and-keeps-on-working?utm_source=rss)
+ - [If you want to stick to New Years health resolutions, wear that Apple Watch](https://appleinsider.com/articles/26/01/02/if-you-want-to-stick-to-new-years-health-resolutions-wear-that-apple-watch?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
