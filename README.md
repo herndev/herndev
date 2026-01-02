@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic](https://www.wired.com/gallery/best-meal-kit-services-1/)
- - [Here&#39;s How Long You Should Walk Every Day to Prevent Back Pain](https://www.wired.com/story/heres-how-long-you-should-walk-every-day-to-prevent-back-pain/)
- - [This privacy-first smartphone draws a hard line between trusted apps and everything else](https://www.androidauthority.com/punkt-mc03-privacy-smartphone-ces-2026-3628905/)<!-- TECH:END -->
+ - [LG announces the &amp;#8216;world’s lightest 17-inch RTX laptop&amp;#8217;](https://www.theverge.com/news/852628/lg-gram-pro-17-16-laptop-2026-ces)
+ - [Fender’s first wireless headphones have a long-lasting, replaceable battery](https://www.theverge.com/news/850879/fender-mix-wireless-headphones-bluetooth-modular-replaceable-battery)
+ - [Fender’s new Bluetooth speakers can play audio from four sources simultaneously](https://www.theverge.com/gadgets/850912/fender-audio-elie-bluetooth-portable-wireless-speakers-four-inputs-simultaneous)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
