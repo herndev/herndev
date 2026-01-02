@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Google Pixel Buds Pro 2 Drop to All-Time Low to Start the New Year, Now Priced Like Older Models Despite Being 2025’s Latest ANC Earbuds](https://kotaku.com/google-pixel-buds-pro-2-drop-to-all-time-low-to-start-the-new-year-now-priced-like-older-models-despite-being-2025s-latest-anc-earbuds-2000656364)
- - [Marvel’s Next Big Show Finally Has A Trailer Well Worth Watching](https://kotaku.com/marvels-wonder-man-trailer-ben-kingsley-disney-plus-2000656416)
- - [Apple Keeps the M5 iPad Pro at Its Year-End Clearance Pricing, Extending the Lowest Deal Into the New Year](https://kotaku.com/apple-keeps-the-m5-ipad-pro-at-its-year-end-clearance-pricing-extending-the-lowest-deal-into-the-new-year-2000656226)<!-- GAME:END -->
+ - [Apple&#39;s 2026 Neuromancer show would be much better as a cyberpunk anime](https://www.polygon.com/apples-neuromancer-show-should-be-an-anime/)
+ - [What the Montauk reference in the Stranger Things finale means](https://www.polygon.com/stranger-things-finale-montauk-easter-egg/)
+ - [ASUS Goes All-In on Gaming Handheld Console, ROG Xbox Ally 7″ Hits a Record Low as 2026 Begins](https://kotaku.com/asus-goes-all-in-on-gaming-handheld-console-rog-xbox-ally-7-hits-a-record-low-as-2026-begins-2000656361)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
