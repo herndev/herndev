@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
- - ⏩ [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)
- - 👉 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)<!-- MEMES:END -->
+ - 💣 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)
+ - ⏩ [The owner&#39;s response is legendary](http://9gag.com/gag/a34DbYN)
+ - 👉 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)<!-- MEMES:END -->
 
 ---
 
