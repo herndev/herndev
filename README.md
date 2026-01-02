@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I guess Thomas didn&#39;t make millions from writing](http://9gag.com/gag/a6ZzpO2)
- - ⏩ [Nuck Chorris](http://9gag.com/gag/abAoBPL)
- - 👉 [Love the dog just sitting there and be like `oh, he&#39;s at it again`...](http://9gag.com/gag/a4P82eA)<!-- MEMES:END -->
+ - 💣 [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
+ - ⏩ [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
+ - 👉 [Works, every time!](http://9gag.com/gag/agmb2vW)<!-- MEMES:END -->
 
 ---
 
