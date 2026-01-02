@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holiday](http://9gag.com/gag/aByMPzD)
- - ⏩ [Mexican businessman Alberto Prieto assassinated by the cartel for refusing to pay protection fee. His Lamborghini Urus was roughly shot 200 times.](http://9gag.com/gag/aE0bWqo)
- - 👉 [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aQzK23e)
+ - ⏩ [Engineering comedy](http://9gag.com/gag/aPA0QLV)
+ - 👉 [Love the dog just sitting there and be like `oh, he&#39;s at it again`...](http://9gag.com/gag/a4P82eA)<!-- MEMES:END -->
 
 ---
 
