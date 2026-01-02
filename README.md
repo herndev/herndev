@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aQzK23e)
- - ⏩ [Engineering comedy](http://9gag.com/gag/aPA0QLV)
- - 👉 [Love the dog just sitting there and be like `oh, he&#39;s at it again`...](http://9gag.com/gag/a4P82eA)<!-- MEMES:END -->
+ - 💣 [Surely there must be some kind of headline here](http://9gag.com/gag/a9ye8Q0)
+ - ⏩ [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)
+ - 👉 [Holiday](http://9gag.com/gag/aByMPzD)<!-- MEMES:END -->
 
 ---
 
