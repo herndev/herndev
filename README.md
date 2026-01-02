@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX plans to lower its Starlink satellites from orbiting at ~550km to ~480km in 2026 to improve space safety and reduce the likelihood of debris collisions &lpar;Rishabh Jaiswal/Reuters&rpar;](http://www.techmeme.com/260101/p16#a260101p16)
- - [Warm Milk Not Cutting It? Give Your Sleep a Glow-Up With These Science-Backed Sips](https://www.cnet.com/health/sleep/a-warm-glass-of-milk-and-other-drinks-that-ease-you-to-sleep/#ftag=CAD590a51e)
- - [Best Standing Desks of 2026](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung’s fan-favorite portable projector just got a bright refresh](https://www.androidauthority.com/samsung-freestyle-plus-launch-3628991/)
+ - [Baidu&#39;s AI chip unit Kunlunxin confidentially files for a Hong Kong IPO, paving the way for a spin-off; a recent fundraising reportedly valued it at ~$3B &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/260101/p17#a260101p17)
+ - [SpaceX plans to lower its Starlink satellites from orbiting at ~550km to ~480km in 2026 to improve space safety and reduce the likelihood of debris collisions &lpar;Rishabh Jaiswal/Reuters&rpar;](http://www.techmeme.com/260101/p16#a260101p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
