@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple&#39;s 2026 Neuromancer show would be much better as a cyberpunk anime](https://www.polygon.com/apples-neuromancer-show-should-be-an-anime/)
- - [What the Montauk reference in the Stranger Things finale means](https://www.polygon.com/stranger-things-finale-montauk-easter-egg/)
- - [ASUS Goes All-In on Gaming Handheld Console, ROG Xbox Ally 7″ Hits a Record Low as 2026 Begins](https://kotaku.com/asus-goes-all-in-on-gaming-handheld-console-rog-xbox-ally-7-hits-a-record-low-as-2026-begins-2000656361)<!-- GAME:END -->
+ - [All the big new video games in January 2026](https://www.polygon.com/january-2026-new-video-games/)
+ - [Baba is News: One of the best puzzle games of the last decade just got a major update seven years after release](https://www.pcgamer.com/games/puzzle/baba-is-news-one-of-the-best-puzzle-games-of-the-last-decade-just-got-a-major-update-seven-years-after-release/)
+ - [2025: The Kotaku Review](https://kotaku.com/2025-review-ea-gaza-microsoft-trump-2000656422)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
