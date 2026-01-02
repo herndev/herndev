@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung adds much needed brightness to its Freestyle projector](https://www.theverge.com/news/852545/samsung-adds-much-needed-brightness-to-its-freestyle-projector)
- - [Petkit’s first automatic wet food feeder keeps track of how much your pet eats](https://www.theverge.com/news/850992/petkit-ai-camera-yumshare-daily-feast-automatic-wet-food-feeder-eversweet-ultra-fountain)
- - [How Nokia has reinvented itself for the AI revolution by expanding into cloud services, data centers, and optical networks, and by partnering with Nvidia &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260102/p1#a260102p1)<!-- TECH:END -->
+ - [SpaceX will lower Starlink satellites to reduce collision risk](https://www.theverge.com/news/852570/spacex-will-lower-starlink-satellites-to-reduce-collision-risk)
+ - [How Meta&#39;s Reels became a hit, with a $50B+ annual run rate; Sensor Tower: users spend 27 minutes/day on Instagram Reels, 21 on YouTube Shorts, and 44 on TikTok &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/260102/p2#a260102p2)
+ - [Samsung adds much needed brightness to its Freestyle projector](https://www.theverge.com/news/852545/samsung-adds-much-needed-brightness-to-its-freestyle-projector)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
