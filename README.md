@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
- - ⏩ [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
+ - ⏩ [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
  - 👉 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)<!-- MEMES:END -->
 
 ---
