@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Things star talks fan theories, character deaths, and getting &#39;covered in goop&#39;](https://www.polygon.com/stranger-things-finale-gaten-matarazzo-interview/)
- - [Microsoft Tells Piggies To Stop Calling It AI Slop](https://kotaku.com/microsoft-ai-slop-satya-nadella-2000656473)
- - [Lego fans keep building Nintendo&#39;s Game Boy set wrong](https://www.polygon.com/lego-nintendo-game-boy-set-cartridge-mistake-indent-piece-center/)<!-- GAME:END -->
+ - [Ex-Elder Scrolls Online Boss Breaks Silence On Game Cancelation That Drove Him From Microsoft](https://kotaku.com/elder-scrolls-online-project-blackbird-shooter-rpg-canceled-microsoft-2000656493)
+ - [PlayStation Plus Subscribers Are Back To Just Three Free Games This Month](https://kotaku.com/ps-plus-jan-2026-free-monthly-games-core-keeper-2000656495)
+ - [Dungeons &amp; Dragons creative team hires game designer James Haeck](https://www.polygon.com/dungeons-dragons-dnd-2026-james-haeck-senior-game-designer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
