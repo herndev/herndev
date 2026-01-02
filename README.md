@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft CEO Satya Nadella is now blogging about AI slop](https://www.theverge.com/news/852630/microsoft-ceo-satya-nadella-scratchpad-blog-ai-slop-comments)
- - [xAI&#39;s Grok says &quot;lapses in safeguards&quot; led it to create sexualized images of minors in response to user prompts on X; the images have been taken down &lpar;Bloomberg&rpar;](http://www.techmeme.com/260102/p6#a260102p6)
- - [Raymond James has restarted Apple coverage, and isn&#39;t impressed](https://appleinsider.com/articles/26/01/02/raymond-james-has-restarted-apple-coverage-and-isnt-impressed?utm_source=rss)<!-- TECH:END -->
+ - [HomePods are not snooping on radio stations you listen to](https://appleinsider.com/articles/26/01/02/homepods-are-not-snooping-on-radio-stations-you-listen-to?utm_source=rss)
+ - [Here’s a look at how the Galaxy S26 Ultra’s new Privacy Display feature will work](https://www.androidauthority.com/galaxy-s26-ultra-privacy-display-animations-3629016/)
+ - [These are the best MacBook Air deals for January 2026 - save up to $600](https://appleinsider.com/articles/26/01/02/these-are-the-best-macbook-air-deals-for-january-2026---save-up-to-600?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
