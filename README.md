@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This scene hits differently after 10+ years of marriage](http://9gag.com/gag/aVv8ZKd)
- - ⏩ [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
+ - 💣 [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)
+ - ⏩ [That little girl...](http://9gag.com/gag/azxzO1B)
  - 👉 [She want Ice ?](http://9gag.com/gag/avyVxeM)<!-- MEMES:END -->
 
 ---
