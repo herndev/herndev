@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India orders X to fix Grok to block the generation of obscene content, giving it 72 hours to submit an action-taken report or risk losing &quot;safe harbor&quot; immunity &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260102/p11#a260102p11)
- - [Filing: OpenAI President and co-founder Greg Brockman donated $25M to Trump&#39;s super PAC, MAGA Inc., in H2 2025; Crypto.com operator Foris DAX donated $20M &lpar;Bill Allison/Bloomberg&rpar;](http://www.techmeme.com/260102/p10#a260102p10)
- - [iPhone 18 A20 may cost Apple about double per chip what A19 does](https://appleinsider.com/articles/26/01/02/iphone-18-a20-may-cost-apple-about-double-per-chip-what-a19-does?utm_source=rss)<!-- TECH:END -->
+ - [Grok is undressing anyone, including minors](https://www.theverge.com/news/853191/grok-explicit-bikini-pictures-minors)
+ - [Billion-dollar Bitcoin hacker Ilya Lichtenstein thanks Trump for early prison release](https://www.theverge.com/news/853160/ilya-lichtenstein-released-razzlekhan-bitcoin-hack)
+ - [India orders X to fix Grok to block the generation of obscene content, giving it 72 hours to submit an action-taken report or risk losing &quot;safe harbor&quot; immunity &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260102/p11#a260102p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
