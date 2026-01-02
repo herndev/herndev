@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Teens dad for the win!. Who snitched?](http://9gag.com/gag/aoy6Lpx)
- - ⏩ [Broccoli Molecule Kills 90% of Cavity Bacteria](http://9gag.com/gag/aNDX4ov)
- - 👉 [It appeared suddenly and moved fast, making it hard to identify clearly. Such sightings are often explained as space rocks, satellites, or shadows caused by camera focus and distance. Because the Moon has no atmosphere, even small objects or light effects can look unusual.](http://9gag.com/gag/an73Eno)<!-- MEMES:END -->
+ - 💣 [No hesitation](http://9gag.com/gag/ajPjKVQ)
+ - ⏩ [I need this for reasons](http://9gag.com/gag/a34Dbp7)
+ - 👉 [And the `Apple Intelligence`&lpar;AI&rpar; being: &lpar;&lpar;battery capacity - charge state&rpar; / charging current&rpar; x 1.2](http://9gag.com/gag/a879KV1)<!-- MEMES:END -->
 
 ---
 
