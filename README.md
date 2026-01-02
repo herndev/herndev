@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It appeared suddenly and moved fast, making it hard to identify clearly. Such sightings are often explained as space rocks, satellites, or shadows caused by camera focus and distance. Because the Moon has no atmosphere, even small objects or light effects can look unusual.](http://9gag.com/gag/an73Eno)
- - ⏩ [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)
- - 👉 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)<!-- MEMES:END -->
+ - 💣 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)
+ - ⏩ [Happy New Year 2026!!!](http://9gag.com/gag/a34D2EN)
+ - 👉 [Happy New Year!](http://9gag.com/gag/aE0bDzp)<!-- MEMES:END -->
 
 ---
 
