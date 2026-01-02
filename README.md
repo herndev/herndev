@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
- - ⏩ [Poor little Joey has nowhere to go](http://9gag.com/gag/aAy72VL)
- - 👉 [Works, every time!](http://9gag.com/gag/agmb2vW)<!-- MEMES:END -->
+ - 💣 [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)
+ - ⏩ [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
+ - 👉 [That little girl...](http://9gag.com/gag/azxzO1B)<!-- MEMES:END -->
 
 ---
 
