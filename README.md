@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering teams up with the Jim Henson Company for Lorwyn Eclipsed](https://www.polygon.com/magic-the-gathering-lorwyn-eclipsed-jim-henson-company-puppet-trailer-preview/)
- - [Former Elder Scrolls Online chief confirms Microsoft&#39;s 2025 bloodbath drove his departure from ZeniMax: &#39;Project Blackbird was the game I had waited my entire career to create&#39;](https://www.pcgamer.com/games/mmo/former-elder-scrolls-online-chief-confirms-microsofts-2025-bloodbath-drove-his-departure-from-zenimax-project-blackbird-was-the-game-i-had-waited-my-entire-career-to-create/)
- - [Genshin Impact version &#39;Luna 4&#39; &lpar;6.3&rpar; livestream codes](https://www.polygon.com/genshin-impact-version-luna-4-6-3-livestream-code-redeem/)<!-- GAME:END -->
+ - [Forget what you heard, there&#39;s plenty of PC hardware to be excited about in 2026](https://www.pcgamer.com/hardware/forget-what-you-heard-theres-plenty-of-pc-hardware-to-be-excited-about-in-2026/)
+ - [Silent Hill 2 Remake dev Bloober Team kicks off 2026 by giving us 45 days to figure out what &#39;RemoSdNeulSerorehsoOvamCeyerd&#39; is](https://www.pcgamer.com/games/horror/silent-hill-2-remake-dev-bloober-team-kicks-off-2026-by-giving-us-45-days-to-figure-out-what-remosdneulserorehsoovamceyerd-is/)
+ - [&#39;There&#39;s a lot of cool things that, if you think too hard about it, they should never have worked&#39;: Fallout 3&#39;s pathfinding system had to be completely reworked over several months to account for Liberty Prime, but it was worth it because he&#39;s &#39;awesome&#39;](https://www.pcgamer.com/games/fallout/theres-a-lot-of-cool-things-that-if-you-think-too-hard-about-it-they-should-never-have-worked-fallout-3s-pathfinding-system-had-to-be-completely-reworked-over-several-months-to-account-for-liberty-prime-but-it-was-worth-it-because-hes-awesome/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
