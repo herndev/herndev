@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)
+ - 💣 [This is what happens when you work as a team](http://9gag.com/gag/aYQBAjO)
  - ⏩ [Lieutenant Dan are we.](http://9gag.com/gag/aPA0eqq)
- - 👉 [That little girl...](http://9gag.com/gag/azxzO1B)<!-- MEMES:END -->
+ - 👉 [Look at all these Americans flocking to the Brooklyn Bridge for a fake fireworks show\u2026](http://9gag.com/gag/aLn3X4V)<!-- MEMES:END -->
 
 ---
 
