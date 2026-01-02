@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trump phone just missed another release date](https://www.theverge.com/news/851151/trump-phone-missed-another-release-date)
- - [The last Intel MacBook Air is now vintage](https://appleinsider.com/articles/25/12/31/intel-macbook-air-apple-watch-series-5-iphone-11-pro-now-vintage?utm_source=rss)
- - [How Docker can help you run apps on your Mac](https://appleinsider.com/inside/macos/tips/how-docker-can-help-you-run-apps-on-your-mac?utm_source=rss)<!-- TECH:END -->
+ - [10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic](https://www.wired.com/gallery/best-meal-kit-services-1/)
+ - [Here&#39;s How Long You Should Walk Every Day to Prevent Back Pain](https://www.wired.com/story/heres-how-long-you-should-walk-every-day-to-prevent-back-pain/)
+ - [This privacy-first smartphone draws a hard line between trusted apps and everything else](https://www.androidauthority.com/punkt-mc03-privacy-smartphone-ces-2026-3628905/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
