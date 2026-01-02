@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Back pain? Do this before bed.](http://9gag.com/gag/an73E4q)
- - ⏩ [That little girl...](http://9gag.com/gag/azxzO1B)
- - 👉 [She want Ice ?](http://9gag.com/gag/avyVxeM)<!-- MEMES:END -->
+ - 💣 [I guess Thomas didn&#39;t make millions from writing](http://9gag.com/gag/a6ZzpO2)
+ - ⏩ [Dream job](http://9gag.com/gag/aGyqAPG)
+ - 👉 [Love the dog just sitting there and be like `oh, he&#39;s at it again`...](http://9gag.com/gag/a4P82eA)<!-- MEMES:END -->
 
 ---
 
