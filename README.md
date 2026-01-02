@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget what you heard, there&#39;s plenty of PC hardware to be excited about in 2026](https://www.pcgamer.com/hardware/forget-what-you-heard-theres-plenty-of-pc-hardware-to-be-excited-about-in-2026/)
- - [Silent Hill 2 Remake dev Bloober Team kicks off 2026 by giving us 45 days to figure out what &#39;RemoSdNeulSerorehsoOvamCeyerd&#39; is](https://www.pcgamer.com/games/horror/silent-hill-2-remake-dev-bloober-team-kicks-off-2026-by-giving-us-45-days-to-figure-out-what-remosdneulserorehsoovamceyerd-is/)
- - [&#39;There&#39;s a lot of cool things that, if you think too hard about it, they should never have worked&#39;: Fallout 3&#39;s pathfinding system had to be completely reworked over several months to account for Liberty Prime, but it was worth it because he&#39;s &#39;awesome&#39;](https://www.pcgamer.com/games/fallout/theres-a-lot-of-cool-things-that-if-you-think-too-hard-about-it-they-should-never-have-worked-fallout-3s-pathfinding-system-had-to-be-completely-reworked-over-several-months-to-account-for-liberty-prime-but-it-was-worth-it-because-hes-awesome/)<!-- GAME:END -->
+ - [How I Fell Back In Love With Minecraft After 10 Years Away](https://kotaku.com/minecraft-donut-smp-server-farm-notch-2000656412)
+ - [The 12 Best Video Games Of 2025](https://kotaku.com/the-12-best-video-games-of-2025-2000656161)
+ - [We Bury the Dead review: An acoustic cover of 28 Years Later](https://www.polygon.com/we-bury-the-dead-review-zombie-movie-daisy-ridley/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
