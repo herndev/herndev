@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX will lower Starlink satellites to reduce collision risk](https://www.theverge.com/news/852570/spacex-will-lower-starlink-satellites-to-reduce-collision-risk)
- - [How Meta&#39;s Reels became a hit, with a $50B+ annual run rate; Sensor Tower: users spend 27 minutes/day on Instagram Reels, 21 on YouTube Shorts, and 44 on TikTok &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/260102/p2#a260102p2)
- - [Samsung adds much needed brightness to its Freestyle projector](https://www.theverge.com/news/852545/samsung-adds-much-needed-brightness-to-its-freestyle-projector)<!-- TECH:END -->
+ - [The Trump phone just missed another release date](https://www.theverge.com/news/851151/trump-phone-missed-another-release-date)
+ - [The last Intel MacBook Air is now vintage](https://appleinsider.com/articles/25/12/31/intel-macbook-air-apple-watch-series-5-iphone-11-pro-now-vintage?utm_source=rss)
+ - [How Docker can help you run apps on your Mac](https://appleinsider.com/inside/macos/tips/how-docker-can-help-you-run-apps-on-your-mac?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
