@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HomePods are not snooping on radio stations you listen to](https://appleinsider.com/articles/26/01/02/homepods-are-not-snooping-on-radio-stations-you-listen-to?utm_source=rss)
- - [Here’s a look at how the Galaxy S26 Ultra’s new Privacy Display feature will work](https://www.androidauthority.com/galaxy-s26-ultra-privacy-display-animations-3629016/)
- - [These are the best MacBook Air deals for January 2026 - save up to $600](https://appleinsider.com/articles/26/01/02/these-are-the-best-macbook-air-deals-for-january-2026---save-up-to-600?utm_source=rss)<!-- TECH:END -->
+ - [iPhone 18 A20 may cost Apple about double per chip what A19 does](https://appleinsider.com/articles/26/01/02/iphone-18-a20-may-cost-apple-about-double-per-chip-what-a19-does?utm_source=rss)
+ - [Uber rewrote its UK driver contracts to act as an agent rather than a supplier of taxi services outside London, to avoid UK&#39;s new 20% &quot;taxi tax&quot; on total fares &lpar;Simon Goodley/The Guardian&rpar;](http://www.techmeme.com/260102/p9#a260102p9)
+ - [HomePods are not snooping on radio stations you listen to](https://appleinsider.com/articles/26/01/02/homepods-are-not-snooping-on-radio-stations-you-listen-to?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
