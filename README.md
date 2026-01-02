@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer magazine&#39;s new issue is on sale now: Fallout Special](https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-fallout-special/)
  - [30 big new movies releasing in 2026 that will make or break the year](https://www.polygon.com/new-movies-2026-calendar/)
- - [All Genshin Impact 6.3 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-6-3-livestream/)
- - [Tabletop Simulator announces a free 2.0 update that includes a UI overhaul and a marketplace for paid mods](https://www.pcgamer.com/games/sim/tabletop-simulator-announces-a-free-2-0-update-that-includes-a-ui-overhaul-and-a-marketplace-for-paid-mods/)<!-- GAME:END -->
+ - [All Genshin Impact 6.3 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-6-3-livestream/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
