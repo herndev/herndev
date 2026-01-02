@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung adds much needed brightness to its Freestyle projector](https://www.theverge.com/news/852545/samsung-adds-much-needed-brightness-to-its-freestyle-projector)
  - [Petkit’s first automatic wet food feeder keeps track of how much your pet eats](https://www.theverge.com/news/850992/petkit-ai-camera-yumshare-daily-feast-automatic-wet-food-feeder-eversweet-ultra-fountain)
- - [How Nokia has reinvented itself for the AI revolution by expanding into cloud services, data centers, and optical networks, and by partnering with Nvidia &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260102/p1#a260102p1)
- - [20% Off Brooks Promo Code &amp; Deals for January 2026](https://www.wired.com/story/brooks-promo-code/)<!-- TECH:END -->
+ - [How Nokia has reinvented itself for the AI revolution by expanding into cloud services, data centers, and optical networks, and by partnering with Nvidia &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260102/p1#a260102p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
