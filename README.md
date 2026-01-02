@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer magazine&#39;s new issue is on sale now: Fallout Special](https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-fallout-special/)
- - [30 big new movies releasing in 2026 that will make or break the year](https://www.polygon.com/new-movies-2026-calendar/)
- - [All Genshin Impact 6.3 livestream codes](https://www.pcgamer.com/games/rpg/genshin-impact-codes-6-3-livestream/)<!-- GAME:END -->
+ - [2026 gaming predictions: GTA 6 chaos, Steam Machine impact, and more](https://www.polygon.com/video-game-predictions-2026-steam-machine-gta6/)
+ - [The city builders of 2026 will let us build in some wild places, including a Pokémon-style world filled with collectible creatures](https://www.pcgamer.com/games/city-builder/the-city-builders-of-2026-will-let-us-build-in-some-wild-places-including-a-pokemon-style-world-filled-with-collectible-creatures/)
+ - [Kill the algorithm in your head: Let&#39;s set up RSS readers and get news we actually want in 2026](https://www.pcgamer.com/software/kill-the-algorithm-in-your-head-lets-set-up-rss-readers-and-get-news-we-actually-want-in-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
