@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese AI chip startup Biren surged as much as 119% in its Hong Kong debut, after raising ~$717M in an IPO priced at ~$2.52 per share &lpar;Bloomberg&rpar;](http://www.techmeme.com/260101/p19#a260101p19)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-2/#ftag=CAD590a51e)
- - [How Arizona is training talent for its growing chip industry as suppliers fear tighter US immigration policy; Arizona has drawn $200B+ in investments since 2020 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260101/p18#a260101p18)<!-- TECH:END -->
+ - [How Nokia has reinvented itself for the AI revolution by expanding into cloud services, data centers, and optical networks, and by partnering with Nvidia &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260102/p1#a260102p1)
+ - [20% Off Brooks Promo Code &amp; Deals for January 2026](https://www.wired.com/story/brooks-promo-code/)
+ - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
