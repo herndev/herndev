@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I guess Thomas didn&#39;t make millions from writing](http://9gag.com/gag/a6ZzpO2)
- - ⏩ [Dream job](http://9gag.com/gag/aGyqAPG)
- - 👉 [Love the dog just sitting there and be like `oh, he&#39;s at it again`...](http://9gag.com/gag/a4P82eA)<!-- MEMES:END -->
+ - 💣 [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
+ - ⏩ [That little girl...](http://9gag.com/gag/azxzO1B)
+ - 👉 [Somalian Daycare mom panics on live TV after reading fraud is bad from her script. What crazy is people cheering her like a hero. What a clown world](http://9gag.com/gag/a9ye2q6)<!-- MEMES:END -->
 
 ---
 
