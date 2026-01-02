@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Petkit’s first automatic wet food feeder keeps track of how much your pet eats](https://www.theverge.com/news/850992/petkit-ai-camera-yumshare-daily-feast-automatic-wet-food-feeder-eversweet-ultra-fountain)
  - [How Nokia has reinvented itself for the AI revolution by expanding into cloud services, data centers, and optical networks, and by partnering with Nvidia &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260102/p1#a260102p1)
- - [20% Off Brooks Promo Code &amp; Deals for January 2026](https://www.wired.com/story/brooks-promo-code/)
- - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)<!-- TECH:END -->
+ - [20% Off Brooks Promo Code &amp; Deals for January 2026](https://www.wired.com/story/brooks-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
