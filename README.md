@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex-Elder Scrolls Online Boss Breaks Silence On Game Cancelation That Drove Him From Microsoft](https://kotaku.com/elder-scrolls-online-project-blackbird-shooter-rpg-canceled-microsoft-2000656493)
- - [PlayStation Plus Subscribers Are Back To Just Three Free Games This Month](https://kotaku.com/ps-plus-jan-2026-free-monthly-games-core-keeper-2000656495)
- - [Dungeons &amp; Dragons creative team hires game designer James Haeck](https://www.polygon.com/dungeons-dragons-dnd-2026-james-haeck-senior-game-designer/)<!-- GAME:END -->
+ - [The PC game releases we&#39;re most excited about in January](https://www.pcgamer.com/games/pc-game-release-dates-january-2026/)
+ - [&#39;It&#39;s a damn miracle we were able to salvage Hytale,&#39; original co-founder and new owner Simon Collins-Laflamme says: After years in development at Riot, &#39;it was barely playable&#39;](https://www.pcgamer.com/games/adventure/its-a-damn-miracle-we-were-able-to-salvage-hytale-original-co-founder-and-new-owner-simon-collins-laflamme-says-after-years-in-development-at-riot-it-was-barely-playable/)
+ - [Ex-Elder Scrolls Online Boss Breaks Silence On Game Cancelation That Drove Him From Microsoft](https://kotaku.com/elder-scrolls-online-project-blackbird-shooter-rpg-canceled-microsoft-2000656493)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
