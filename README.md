@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the big new video games in January 2026](https://www.polygon.com/january-2026-new-video-games/)
- - [Baba is News: One of the best puzzle games of the last decade just got a major update seven years after release](https://www.pcgamer.com/games/puzzle/baba-is-news-one-of-the-best-puzzle-games-of-the-last-decade-just-got-a-major-update-seven-years-after-release/)
- - [2025: The Kotaku Review](https://kotaku.com/2025-review-ea-gaza-microsoft-trump-2000656422)<!-- GAME:END -->
+ - [Magic: The Gathering teams up with the Jim Henson Company for Lorwyn Eclipsed](https://www.polygon.com/magic-the-gathering-lorwyn-eclipsed-jim-henson-company-puppet-trailer-preview/)
+ - [Former Elder Scrolls Online chief confirms Microsoft&#39;s 2025 bloodbath drove his departure from ZeniMax: &#39;Project Blackbird was the game I had waited my entire career to create&#39;](https://www.pcgamer.com/games/mmo/former-elder-scrolls-online-chief-confirms-microsofts-2025-bloodbath-drove-his-departure-from-zenimax-project-blackbird-was-the-game-i-had-waited-my-entire-career-to-create/)
+ - [Genshin Impact version &#39;Luna 4&#39; &lpar;6.3&rpar; livestream codes](https://www.polygon.com/genshin-impact-version-luna-4-6-3-livestream-code-redeem/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
