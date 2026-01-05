@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here we go](http://9gag.com/gag/a1mnw6w)
- - ⏩ [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
- - 👉 [100% winning rate](http://9gag.com/gag/apRXV8E)<!-- MEMES:END -->
+ - 💣 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
+ - ⏩ [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)
+ - 👉 [7 and you?](http://9gag.com/gag/aAy7m8g)<!-- MEMES:END -->
 
 ---
 
