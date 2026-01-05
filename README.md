@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OneDrive really out here deleting files like it&#39;s a game](http://9gag.com/gag/axy8Q9Y)
- - ⏩ [A fatigue all around the world](http://9gag.com/gag/aO8OjGE)
- - 👉 [Happily socialising before the first cup of coffee is a sign of a psychopath](http://9gag.com/gag/amoyKxo)<!-- MEMES:END -->
+ - 💣 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
+ - ⏩ [Vuvuzela](http://9gag.com/gag/apRXjqM)
+ - 👉 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)<!-- MEMES:END -->
 
 ---
 
