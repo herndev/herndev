@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Repo Man: Paul Thomas Anderson&#39;s favorite sci-fi movie is a cult classic that will rewire your brain](https://www.polygon.com/paul-thomas-anderson-movie-marathon-repo-man/)
- - [Kingdom Come: Deliverance 2 nearly had a San-Andreas-like Fat Henry system that would have let you create Bohemia&#39;s chunkiest boy, and forced you to wear clothes that fit to boot](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-nearly-had-a-san-andreas-like-fat-henry-system-that-would-have-let-you-create-bohemias-chunkiest-boy-and-forced-you-to-wear-clothes-that-fit-to-boot/)
- - [My Hero Academia gives fans a fresh look at an older Deku](https://www.polygon.com/mha-hero-academia-new-look-timeskip-deku-anime-return/)<!-- GAME:END -->
+ - [Xbox to Bring Cloud Gaming to Select Hisense and V homeOS-powered Smart TVs](https://news.xbox.com/en-us/2026/01/05/xbox-bring-cloud-gaming-select-hisense-homeos-powered-smart-tvs/)
+ - [Thermaltake&#39;s collaboration PC case with a French artist is so lovely it makes me want to finally start that mini PC build](https://www.pcgamer.com/hardware/pc-cases/thermaltakes-collaboration-pc-case-with-a-french-artist-is-so-lovely-it-makes-me-want-to-finally-start-that-mini-pc-build/)
+ - [CES 2026: all the upcoming releases and announcements a PC gamer should know about](https://www.pcgamer.com/hardware/live/news/ces-2026-announcements/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
