@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BirdBuddy 2 mini smart feeder films wildlife with a 2K camera](https://appleinsider.com/articles/26/01/05/birdbuddy-2-mini-smart-feeder-films-wildlife-with-a-2k-camera?utm_source=rss)
- - [New MagSafe power banks &amp; iPhone SSDs headline BMX&#39;s CES 2026 lineup](https://appleinsider.com/articles/26/01/05/new-magsafe-power-banks-iphone-ssds-headline-bmxs-ces-2026-lineup?utm_source=rss)
- - [Snapdragon X2 Plus announced with big performance and battery life gains](https://www.androidauthority.com/qualcomm-snapdragon-x2-plus-3627235/)<!-- TECH:END -->
+ - [At $50 off, the Shokz OpenRun Pro helps you stick to your new year’s goals](https://www.theverge.com/tech/855202/shokz-openrun-pro-bone-conduction-headphones-deal-sale)
+ - [Asus’s new OLED gaming monitors will have sharper text and more accurate colors](https://www.theverge.com/tech/855247/asus-oled-gaming-monitors-rgb-stripe-ces-2026)
+ - [Pioneer has the first Dolby Atmos Spatial Audio CarPlay system](https://appleinsider.com/articles/26/01/05/pioneer-has-the-first-dolby-atmos-spatial-audio-carplay-system?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
