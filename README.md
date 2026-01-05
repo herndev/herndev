@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends players worldwide couldn&#39;t login for hours because Riot forgot to renew the client&#39;s SSL certificate—just like it did 10 years ago](https://www.pcgamer.com/games/moba/league-of-legends-players-worldwide-couldnt-login-for-hours-because-riot-forgot-to-renew-the-clients-ssl-certificate-just-like-it-did-10-years-ago/)
- - [Lego reveals new Star Wars sets powered by &quot;Smart Play&quot; tech at CES 2026](https://www.polygon.com/lego-smart-play-star-wars-sets-minifigures/)
- - [MTG&#39;s Lorwyn Eclipsed debut is an existential rock opera with puppets](https://www.polygon.com/lorwyn-eclipsed-jim-henson-company-rock-opera-breakdown/)<!-- GAME:END -->
+ - [Stranger Things Fans Are Convinced There’s A Secret Episode That Will ‘Fix’ Disappointing Finale](https://kotaku.com/stranger-things-secret-finale-conformity-gate-explained-2000656704)
+ - [Vampire Survivors Remade In Hytale Shows Why So Many Players Are Hyped For The Minecraft Rival](https://kotaku.com/hytale-vampire-survivors-mod-early-access-steam-minecraft-2000656708)
+ - [League of Legends players worldwide couldn&#39;t login for hours because Riot forgot to renew the client&#39;s SSL certificate—just like it did 10 years ago](https://www.pcgamer.com/games/moba/league-of-legends-players-worldwide-couldnt-login-for-hours-because-riot-forgot-to-renew-the-clients-ssl-certificate-just-like-it-did-10-years-ago/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
