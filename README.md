@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satya Nadella says the industry needs to move past slop-vs-sophistication arguments and view AI as a cognitive amplifier, not a human substitute &lpar;Satya Nadella/sn scratchpad&rpar;](http://www.techmeme.com/260105/p3#a260105p3)
- - [Samsung could finally ditch its lazy camera strategy for the Galaxy S27 Ultra](https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-refresh-leak-3629330/)
- - [Zombie or phoenix? The Galaxy S26 Edge seemingly rises again after being proclaimed dead](https://www.androidauthority.com/galaxy-s26-edge-back-from-dead-3629326/)<!-- TECH:END -->
+ - [Samsung updates its TVs to add new AI features, including a Sound Controller feature to independently adjust the volume of dialogue, music, or sound effects &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260105/p5#a260105p5)
+ - [5 of the best new Android apps you need to try this January](https://www.androidauthority.com/best-new-android-apps-january-2026-3627094/)
+ - [A Chinese hospital says Alibaba&#39;s PANDA AI tool has analyzed 180,000 CT scans and detected ~24 pancreatic cancer cases since its deployment in November 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/260105/p4#a260105p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
