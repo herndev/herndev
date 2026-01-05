@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia has struggled to monetize its Omniverse software and the company shuttered the Omniverse Cloud service in August 2025 due to lack of demand &lpar;The Information&rpar;](http://www.techmeme.com/260105/p23#a260105p23)
- - [Lego announces Smart Brick, the &amp;#8216;most significant evolution&amp;#8217; in 50 years](https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years)
- - [That viral Reddit post about food delivery apps was an AI scam](https://www.theverge.com/news/855328/viral-reddit-delivery-app-ai-scam)<!-- TECH:END -->
+ - [Hunter Fan Company has a new lineup of Matter accessories for your whole home at CES 2026](https://appleinsider.com/articles/26/01/05/hunter-fan-company-has-a-new-lineup-of-matter-accessories-for-your-whole-home-at-ces-2026?utm_source=rss)
+ - [Motorola Teases New Razr Folding Phone With &#39;Boundary-Breaking Camera System&#39;](https://www.cnet.com/tech/mobile/motorola-razr-fold-phone-tease-ces-2026/#ftag=CAD590a51e)
+ - [CNET First Look: Bosch’s New Feature-Packed Cordless Vacuums Are Designed to Take On Dyson and Shark](https://www.cnet.com/home/kitchen-and-household/i-used-boschs-new-feature-packed-cordless-vacuums-designed-to-take-on-dyson-and-shark-ces-2026/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
