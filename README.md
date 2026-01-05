@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A mystery that went unnoticed for 7 years has Red Dead Redemption 2 players working furiously to make the connection between spiderwebs, telegraph poles, guitars, and maybe even Grand Theft Auto 5](https://www.pcgamer.com/games/action/a-mystery-that-went-unnoticed-for-7-years-has-red-dead-redemption-2-players-working-furiously-to-make-the-connection-between-spiderwebs-telegraph-poles-guitars-and-maybe-even-grand-theft-auto-5/)
- - [Lego Fit A Whole-Ass Computer Inside A Single Brick To Make Star Wars Sounds](https://kotaku.com/lego-smart-play-brick-star-wars-march-interactive-sets-2000656727)
- - [MSI&#39;s monstrous 1000 W watercooled RTX 5090 has been designed to &#39;completely ignore the concepts of balance in favour of extremes&#39;, apparently](https://www.pcgamer.com/hardware/graphics-cards/msis-monstrous-1000-w-watercooled-rtx-5090-has-been-designed-to-completely-ignore-the-concepts-of-balance-in-favour-of-extremes-apparently/)<!-- GAME:END -->
+ - [The last 5 years have all kicked off with a huge co-op hit on Steam, and this sci-fi survival game from the makers of Green Hell might be 2026&#39;s ticket](https://www.pcgamer.com/games/survival-crafting/the-last-5-years-have-all-kicked-off-with-a-huge-co-op-hit-on-steam-and-this-sci-fi-survival-game-from-the-makers-of-green-hell-might-be-2026s-ticket/)
+ - [Great Games, Bad Times: Everything You Need To Know About 2025](https://kotaku.com/2025-best-games-characters-surprises-metacritic-2000656702)
+ - [Jack Black Regrets Being A Jerk When Pixar Asked Him To Be In The Incredibles](https://kotaku.com/the-incredibles-jack-black-regrets-passing-on-syndrome-villian-role-pixar-2000656750)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
