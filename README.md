@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New 8BitDo FlipPad is a minimalist controller for iPhone gamers](https://appleinsider.com/articles/26/01/05/new-8bitdo-flippad-is-a-minimalist-controller-for-iphone-gamers?utm_source=rss)
- - [Sources: Alibaba&#39;s Amap will soon launch an AI tool to let restaurants render 3D images by just uploading videos or photos, in a bid to compete with Meituan &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/260105/p12#a260105p12)
- - [Breaking: Galaxy S25 series gets third One UI 8.5 beta release](https://www.androidauthority.com/samsung-one-ui-8-5-third-beta-3629438/)<!-- TECH:END -->
+ - [JBL expands open-ear lineup with new buds coming to the US in March](https://www.theverge.com/tech/852021/jbl-open-ear-earbuds-ces-2026)
+ - [JBL expands Endurance workout line with four new earbuds](https://www.theverge.com/tech/853331/jbl-endurance-workout-earbuds-ces-2026)
+ - [Shure&#39;s MV88 Microphone revival plugs into iPhone USB-C port](https://appleinsider.com/articles/26/01/05/shures-mv88-microphone-revival-plugs-into-iphone-usb-c-port?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
