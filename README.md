@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Braille Label Printer Helps Blind Friends and Family Grab the Right Pill Bottle](https://www.cnet.com/tech/this-braille-label-printer-helps-blind-friends-and-family-grab-the-right-pill-bottle/#ftag=CAD590a51e)
- - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)
- - [Hisense Shrinks $30,000 Tech into Smaller TVs for 2026](https://www.cnet.com/tech/home-entertainment/hisense-shrinks-30000-tech-into-smaller-tvs-for-2026/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung’s latest Galaxy Book 6 series pairs Intel’s latest Panther Lake with RTX 50 series GPUs](https://www.androidauthority.com/galaxy-book-6-pro-ultra-launch-ces-2026-3629430/)
+ - [Lego’s Smart Bricks aren’t just an experiment — and they aren’t just for kids](https://www.theverge.com/tech/855584/lego-smart-bricks-interview-julia-goldin)
+ - [Nvidia launches Vera Rubin AI computing platform at CES 2026](https://www.theverge.com/tech/855412/nvidia-launches-vera-rubin-ai-computing-platform-at-ces-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
