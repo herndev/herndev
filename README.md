@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Those chunts are up to something again...](http://9gag.com/gag/aKGyne3)
- - ⏩ [Here we go](http://9gag.com/gag/a1mnw6w)
- - 👉 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)<!-- MEMES:END -->
+ - ⏩ [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
+ - 👉 [Screw me.](http://9gag.com/gag/a0eGWoB)<!-- MEMES:END -->
 
 ---
 
