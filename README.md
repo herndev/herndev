@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung updates its TVs to add new AI features, including a Sound Controller feature to independently adjust the volume of dialogue, music, or sound effects &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260105/p5#a260105p5)
- - [5 of the best new Android apps you need to try this January](https://www.androidauthority.com/best-new-android-apps-january-2026-3627094/)
- - [A Chinese hospital says Alibaba&#39;s PANDA AI tool has analyzed 180,000 CT scans and detected ~24 pancreatic cancer cases since its deployment in November 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/260105/p4#a260105p4)<!-- TECH:END -->
+ - [Sources: Shanghai-based AI startup MiniMax plans to price its Hong Kong IPO at ~$21, the top of its marketed range, and will stop taking orders a day early &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/260105/p9#a260105p9)
+ - [The Galaxy S26 series could be getting a price hike, but not for everyone](https://www.androidauthority.com/galaxy-s26-more-expensive-3629364/)
+ - [Foxconn reports Q4 revenue up 22% YoY to ~$82.7B, above ~$77B est., and record December revenue up 31.8% YoY to ~$27.5B, driven by AI and networking demand &lpar;Reuters&rpar;](http://www.techmeme.com/260105/p8#a260105p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
