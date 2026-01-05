@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC game releases we&#39;re most excited about in January](https://www.pcgamer.com/games/pc-game-release-dates-january-2026/)
- - [&#39;It&#39;s a damn miracle we were able to salvage Hytale,&#39; original co-founder and new owner Simon Collins-Laflamme says: After years in development at Riot, &#39;it was barely playable&#39;](https://www.pcgamer.com/games/adventure/its-a-damn-miracle-we-were-able-to-salvage-hytale-original-co-founder-and-new-owner-simon-collins-laflamme-says-after-years-in-development-at-riot-it-was-barely-playable/)
- - [Ex-Elder Scrolls Online Boss Breaks Silence On Game Cancelation That Drove Him From Microsoft](https://kotaku.com/elder-scrolls-online-project-blackbird-shooter-rpg-canceled-microsoft-2000656493)<!-- GAME:END -->
+ - [Predator: Badlands is the Disneyfication of an iconic sci-fi horror franchise](https://www.polygon.com/predator-badlands-review/)
+ - [Arc Raiders dev says it uses &#39;aggression-based matchmaking&#39; to pair bloodthirsty, PvP-minded players with each other](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-dev-says-it-uses-aggression-based-matchmaking-to-pair-bloodthirsty-pvp-minded-players-with-each-other/)
+ - [Fallout designer Tim Cain reckons his subsequent 3 projects were buggy games &#39;or, as people called them, flawed masterpieces&#39; because &#39;we had a lot of feature ideas, we did not edit ourselves at all, and we were a small team&#39;](https://www.pcgamer.com/games/rpg/fallout-designer-tim-cain-reckons-his-subsequent-3-projects-were-buggy-games-or-as-people-called-them-flawed-masterpieces-because-we-had-a-lot-of-feature-ideas-we-did-not-edit-ourselves-at-all-and-we-were-a-small-team/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
