@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget just projecting — This new all-in-one box is a complete cinema for your living room](https://www.androidauthority.com/nebula-p1i-and-x1-pro-announcement-3625667/)
- - [Transform your charging with Anker&#39;s new lineup at CES 2026](https://appleinsider.com/articles/26/01/05/transform-your-charging-with-ankers-new-lineup-at-ces-2026?utm_source=rss)
- - [The best gear and gadgets from CES Unveiled 2026](https://appleinsider.com/articles/26/01/05/the-best-gear-and-gadgets-from-ces-unveiled-2026?utm_source=rss)<!-- TECH:END -->
+ - [BirdBuddy 2 mini smart feeder films wildlife with a 2K camera](https://appleinsider.com/articles/26/01/05/birdbuddy-2-mini-smart-feeder-films-wildlife-with-a-2k-camera?utm_source=rss)
+ - [New MagSafe power banks &amp; iPhone SSDs headline BMX&#39;s CES 2026 lineup](https://appleinsider.com/articles/26/01/05/new-magsafe-power-banks-iphone-ssds-headline-bmxs-ces-2026-lineup?utm_source=rss)
+ - [Snapdragon X2 Plus announced with big performance and battery life gains](https://www.androidauthority.com/qualcomm-snapdragon-x2-plus-3627235/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
