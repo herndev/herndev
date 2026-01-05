@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
- - ⏩ [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)
- - 👉 [7 and you?](http://9gag.com/gag/aAy7m8g)<!-- MEMES:END -->
+ - 💣 [That was personal](http://9gag.com/gag/aKGyLQ3)
+ - ⏩ [A fatigue all around the world](http://9gag.com/gag/aO8OjGE)
+ - 👉 [That&#39;s all folks](http://9gag.com/gag/ae9Eddm)<!-- MEMES:END -->
 
 ---
 
