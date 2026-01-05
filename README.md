@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happily socialising before the first cup of coffee is a sign of a psychopath](http://9gag.com/gag/amoyKxo)
- - ⏩ [Screw me.](http://9gag.com/gag/a0eGWoB)
- - 👉 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)<!-- MEMES:END -->
+ - 💣 [Screw me.](http://9gag.com/gag/a0eGWoB)
+ - ⏩ [Happily socialising before the first cup of coffee is a sign of a psychopath](http://9gag.com/gag/amoyKxo)
+ - 👉 [Blind npc...](http://9gag.com/gag/ae9EdEB)<!-- MEMES:END -->
 
 ---
 
