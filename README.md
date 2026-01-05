@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Will Jujutsu Kaisen season 3 be the biggest anime of 2026?](https://www.polygon.com/biggest-anime-2026-jujutsu-kaisen-season-3/)
- - [In 2025, Monster Hunter fell prey to profit](https://www.pcgamer.com/games/action/in-2025-monster-hunter-fell-prey-to-profit/)
- - [ASUS TUF 27″ Gaming Monitor Drops to All-Time Low to Compete With Samsung Odyssey](https://kotaku.com/asus-tuf-27-gaming-monitor-drops-to-all-time-low-to-compete-with-samsung-odyssey-2000656520)<!-- GAME:END -->
+ - [The names of some of the most popular SSDs are changing so their new owner Sandisk now gets the glory](https://www.pcgamer.com/hardware/ssds/the-names-of-some-of-the-most-popular-ssds-are-changing-so-their-new-owner-sandisk-now-gets-the-glory/)
+ - [Silksong Finally Takes Home A ‘Best Game’ Award As Steam Breaks An All-Time Record](https://kotaku.com/silksong-goty-award-steam-clair-obscur-snub-2000656667)
+ - [&#39;There is a bit of pressure&#39;: Clair Obscur: Expedition 33 devs will stay true to themselves for their next game despite expectations—&#39;we need to trust our instincts&#39;](https://www.pcgamer.com/games/rpg/there-is-a-bit-of-pressure-clair-obscur-expedition-33-devs-will-stay-true-to-themselves-for-their-next-game-despite-expectations-we-need-to-trust-our-instincts/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
