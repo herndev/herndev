@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was personal](http://9gag.com/gag/aKGyLQ3)
- - ⏩ [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
- - 👉 [We&#39;re not even a week into 2026!](http://9gag.com/gag/ajPjddp)<!-- MEMES:END -->
+ - 💣 [Here we go](http://9gag.com/gag/a1mnw6w)
+ - ⏩ [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
+ - 👉 [100% winning rate](http://9gag.com/gag/apRXV8E)<!-- MEMES:END -->
 
 ---
 
