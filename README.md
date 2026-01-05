@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aaaaaa, sh!t, that was close](http://9gag.com/gag/ary0zj7)
- - ⏩ [Before and after](http://9gag.com/gag/aAy7N2p)
- - 👉 [100% winning rate](http://9gag.com/gag/apRXV8E)<!-- MEMES:END -->
+ - 💣 [Job of an elementary teacher. - This is from the Philippines.](http://9gag.com/gag/avyVmQE)
+ - ⏩ [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)
+ - 👉 [Before and after](http://9gag.com/gag/aAy7N2p)<!-- MEMES:END -->
 
 ---
 
