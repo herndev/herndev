@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Job of an elementary teacher. - This is from the Philippines.](http://9gag.com/gag/avyVmQE)
- - ⏩ [Just 5 hours ago, Chinese officials arrived in Venezuela for talks with President Maduro.](http://9gag.com/gag/a9yeBXm)
- - 👉 [Before and after](http://9gag.com/gag/aAy7N2p)<!-- MEMES:END -->
+ - 💣 [That was personal](http://9gag.com/gag/aKGyLQ3)
+ - ⏩ [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
+ - 👉 [We&#39;re not even a week into 2026!](http://9gag.com/gag/ajPjddp)<!-- MEMES:END -->
 
 ---
 
