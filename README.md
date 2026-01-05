@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Comparing ChatGPT&#39;s mini-apps with native iOS apps: some like Uber, OpenTable, and TripAdvisor fell short with frequent error messages, but Instacart did well &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/260102/p15#a260102p15)
- - [On top of nonconsensual porn images, X users seem to be using Grok to alter images to depict real women being sexually abused, humiliated, hurt, and even killed &lpar;Maggie Harrison Dupré/Futurism&rpar;](http://www.techmeme.com/260102/p14#a260102p14)
- - [Mumbai-based Knight Fintech, which builds core infrastructure connecting banks, lenders, platforms, and borrowers, raised $23.6M led by Accel &lpar;The Economic Times&rpar;](http://www.techmeme.com/260102/p13#a260102p13)<!-- TECH:END -->
+ - [Lutron&#39;s new wooden shades work with Apple Home and tilt with the sun](https://appleinsider.com/articles/26/01/05/lutrons-new-wooden-shades-work-with-apple-home-and-tilt-with-the-sun?utm_source=rss)
+ - [Mammotion’s flagship robot lawnmower now uses lidar to map your yard](https://www.theverge.com/news/850763/mammotion-luba-3-awd-robot-lawnmower-lidar-ces-2026)
+ - [Lockin’s new vein-scanning smart lock has a video doorbell and recharges wirelessly](https://www.theverge.com/tech/851239/lockin-v7-max-optical-wireless-palm-vein-smart-lock-video-doorbell)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
