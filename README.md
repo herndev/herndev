@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Improve your health with Withings new Body Scan 2 &#39;longevity station&#39;](https://appleinsider.com/articles/26/01/05/improve-your-health-with-withings-new-body-scan-2-longevity-station?utm_source=rss)
- - [Withings thinks of its latest smart scale as a ‘longevity station’](https://www.theverge.com/tech/850005/ces-2026-withings-body-scan-2-smart-scale-longevity-tech-health)
- - [The Shure MV88 USB-C stereo mic mounts directly to your phone](https://www.theverge.com/tech/852938/shure-mv88-usb-c-stereo-mic-ces-2026)<!-- TECH:END -->
+ - [The new Ultraloq smart lock uses both your face and your palm to let you in](https://www.theverge.com/tech/853844/ultraloq-ces-smart-lock-face-palm-reading)
+ - [Ikea’s new $4 USB-C charger is cheaper than Apple’s and Anker’s](https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-5/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
