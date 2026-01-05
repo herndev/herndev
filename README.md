@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TCL’s NXTPAPER 70 Pro wants to make your excessive screen-on time as pleasant as possible](https://www.androidauthority.com/tcl-nxtpaper-70-pro-3628483/)
- - [Charge your iPhone in style with Twelve South&#39;s new Napa leather valet station](https://appleinsider.com/articles/26/01/05/charge-your-iphone-in-style-with-twelve-souths-new-napa-leather-valet-station?utm_source=rss)
- - [ROG XREAL R1 AR glasses put a 240Hz gaming monitor right on your face](https://www.androidauthority.com/rog-xreal-r1-ar-glasses-3629066/)<!-- TECH:END -->
+ - [Kwikset&#39;s new Aura Reach Matter smart lock installs simply &amp; is cost-effective](https://appleinsider.com/articles/26/01/05/kwiksets-new-aura-reach-matter-smart-lock-installs-simply-is-cost-effective?utm_source=rss)
+ - [TCL unveils the €339 70 Pro phone, with a 6.9&quot; NXTPaper 4.0 display and a paper-like textured finish, and the $549 Note A1 NXTPaper, an 11.5&quot; Remarkable rival &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/260105/p18#a260105p18)
+ - [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
