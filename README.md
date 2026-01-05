@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Works, every time!](http://9gag.com/gag/agmb2vW)
- - ⏩ [This is what happens when Iron is heated above its Curie Point &lpar;770\u00b0C&rpar; Credi](http://9gag.com/gag/aRBGovq)
- - 👉 [Switzerland bar fire: verified photo by Sky News.](http://9gag.com/gag/aPA01XR)<!-- MEMES:END -->
+ - 💣 [Do you know the Muffin Man?](http://9gag.com/gag/avyVXAn)
+ - ⏩ [The hero](http://9gag.com/gag/aE0bQZo)
+ - 👉 [Is it legally OK?](http://9gag.com/gag/a879zMd)<!-- MEMES:END -->
 
 ---
 
