@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox to Bring Cloud Gaming to Select Hisense and V homeOS-powered Smart TVs](https://news.xbox.com/en-us/2026/01/05/xbox-bring-cloud-gaming-select-hisense-homeos-powered-smart-tvs/)
- - [Thermaltake&#39;s collaboration PC case with a French artist is so lovely it makes me want to finally start that mini PC build](https://www.pcgamer.com/hardware/pc-cases/thermaltakes-collaboration-pc-case-with-a-french-artist-is-so-lovely-it-makes-me-want-to-finally-start-that-mini-pc-build/)
- - [CES 2026: all the upcoming releases and announcements a PC gamer should know about](https://www.pcgamer.com/hardware/live/news/ces-2026-announcements/)<!-- GAME:END -->
+ - [League of Legends players worldwide couldn&#39;t login for hours because Riot forgot to renew the client&#39;s SSL certificate—just like it did 10 years ago](https://www.pcgamer.com/games/moba/league-of-legends-players-worldwide-couldnt-login-for-hours-because-riot-forgot-to-renew-the-clients-ssl-certificate-just-like-it-did-10-years-ago/)
+ - [Lego reveals new Star Wars sets powered by &quot;Smart Play&quot; tech at CES 2026](https://www.polygon.com/lego-smart-play-star-wars-sets-minifigures/)
+ - [MTG&#39;s Lorwyn Eclipsed debut is an existential rock opera with puppets](https://www.polygon.com/lorwyn-eclipsed-jim-henson-company-rock-opera-breakdown/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
