@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PwC&#39;s US boss Paul Griggs says PwC decided to &quot;lean in&quot; to crypto work after years of taking a more cautious stance, following Trump&#39;s embrace of digital assets &lpar;Stephen Foley/Financial Times&rpar;](http://www.techmeme.com/260104/p13#a260104p13)
- - [Shut the fridge door!](https://www.theverge.com/tech/853758/shut-the-fridge-door)
- - [LG’s Wallpaper OLED TV returns to CES, and it’s wafer thin](https://www.theverge.com/tech/853886/lgs-wallpaper-oled-tv-returns-to-ces-and-its-wafer-thin)<!-- TECH:END -->
+ - [Starlink says it is providing free broadband service to new and existing customers in Venezuela through February 3, 2026 &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260104/p14#a260104p14)
+ - [I just want to keep unfolding the Samsung Z Trifold](https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on)
+ - [Samsung just unveiled a 130-inch Micro RGB TV with color tech we’ve never seen before](https://www.androidauthority.com/samsung-130-inch-micro-rgb-tv-launch-3629259/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
