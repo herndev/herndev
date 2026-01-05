@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Things Fans Are Convinced There’s A Secret Episode That Will ‘Fix’ Disappointing Finale](https://kotaku.com/stranger-things-secret-finale-conformity-gate-explained-2000656704)
- - [Vampire Survivors Remade In Hytale Shows Why So Many Players Are Hyped For The Minecraft Rival](https://kotaku.com/hytale-vampire-survivors-mod-early-access-steam-minecraft-2000656708)
- - [League of Legends players worldwide couldn&#39;t login for hours because Riot forgot to renew the client&#39;s SSL certificate—just like it did 10 years ago](https://www.pcgamer.com/games/moba/league-of-legends-players-worldwide-couldnt-login-for-hours-because-riot-forgot-to-renew-the-clients-ssl-certificate-just-like-it-did-10-years-ago/)<!-- GAME:END -->
+ - [In a truly galaxy-brained rebrand, Microsoft Office is now the &#39;Microsoft 365 Copilot app,&#39; but Copilot is also still the name of the AI assistant](https://www.pcgamer.com/software/windows/in-a-truly-galaxy-brained-rebrand-microsoft-office-is-now-the-microsoft-365-copilot-app-but-copilot-is-also-still-the-name-of-the-ai-assistant/)
+ - [MTG just revealed more than 40 new Lorwyn Eclipsed cards &lpar;including a powerful Planeswalker&rpar;](https://www.polygon.com/mtg-magic-the-gathering-lorwyn-eclipsed-reveal-new-card-spoilers/)
+ - [Some Anthem Players Say EA Is Already Blocking Them From Playing The Game A Week Before It Shuts Down](https://kotaku.com/anthem-shutdown-download-bioware-ea-pc-app-play-2000656725)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
