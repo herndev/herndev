@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s all folks](http://9gag.com/gag/ae9Eddm)
+ - 💣 [Rio&#39;s New Year&#39;s Eve drone show was absolutely breathtaking](http://9gag.com/gag/aAy7mqL)
  - ⏩ [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
- - 👉 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)<!-- MEMES:END -->
+ - 👉 [Before and after](http://9gag.com/gag/aAy7N2p)<!-- MEMES:END -->
 
 ---
 
