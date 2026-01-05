@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JBL expands open-ear lineup with new buds coming to the US in March](https://www.theverge.com/tech/852021/jbl-open-ear-earbuds-ces-2026)
- - [JBL expands Endurance workout line with four new earbuds](https://www.theverge.com/tech/853331/jbl-endurance-workout-earbuds-ces-2026)
- - [Shure&#39;s MV88 Microphone revival plugs into iPhone USB-C port](https://appleinsider.com/articles/26/01/05/shures-mv88-microphone-revival-plugs-into-iphone-usb-c-port?utm_source=rss)<!-- TECH:END -->
+ - [TCL’s NXTPAPER 70 Pro wants to make your excessive screen-on time as pleasant as possible](https://www.androidauthority.com/tcl-nxtpaper-70-pro-3628483/)
+ - [Charge your iPhone in style with Twelve South&#39;s new Napa leather valet station](https://appleinsider.com/articles/26/01/05/charge-your-iphone-in-style-with-twelve-souths-new-napa-leather-valet-station?utm_source=rss)
+ - [ROG XREAL R1 AR glasses put a 240Hz gaming monitor right on your face](https://www.androidauthority.com/rog-xreal-r1-ar-glasses-3629066/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
