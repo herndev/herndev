@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
- - ⏩ [Vuvuzela](http://9gag.com/gag/apRXjqM)
- - 👉 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)<!-- MEMES:END -->
+ - ⏩ [Screw me.](http://9gag.com/gag/a0eGWoB)
+ - 👉 [Here we go](http://9gag.com/gag/a1mnw6w)<!-- MEMES:END -->
 
 ---
 
