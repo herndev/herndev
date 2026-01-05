@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Before and after](http://9gag.com/gag/aAy7N2p)
- - ⏩ [A fatigue all around the world](http://9gag.com/gag/aO8OjGE)
- - 👉 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)<!-- MEMES:END -->
+ - 💣 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
+ - ⏩ [Blind npc...](http://9gag.com/gag/ae9EdEB)
+ - 👉 [Safe mode activated](http://9gag.com/gag/apRXjwW)<!-- MEMES:END -->
 
 ---
 
