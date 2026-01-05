@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Miss BlackBerry? This new Android phone brings a keyboard, headphone jack, more](https://www.androidauthority.com/clicks-communicator-phone-3629279/)
- - [Taiwan says China&#39;s cyberattacks on its hospitals, banks, energy, and other infrastructure rose 6% YoY in 2025 to an average of 2.63M attacks a day &lpar;Yimou Lee/Reuters&rpar;](http://www.techmeme.com/260105/p2#a260105p2)
- - [This robot companion is a cameraman for your pet](https://www.theverge.com/tech/854457/frontierx-vex-aura-robots-companions-pets)<!-- TECH:END -->
+ - [Satya Nadella says the industry needs to move past slop-vs-sophistication arguments and view AI as a cognitive amplifier, not a human substitute &lpar;Satya Nadella/sn scratchpad&rpar;](http://www.techmeme.com/260105/p3#a260105p3)
+ - [Samsung could finally ditch its lazy camera strategy for the Galaxy S27 Ultra](https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-refresh-leak-3629330/)
+ - [Zombie or phoenix? The Galaxy S26 Edge seemingly rises again after being proclaimed dead](https://www.androidauthority.com/galaxy-s26-edge-back-from-dead-3629326/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
