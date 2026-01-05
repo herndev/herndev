@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dust Bunny review: Bryan Fuller and Mads Mikkelsen are at their best on the big screen](https://www.polygon.com/dust-bunny-brings-best-of-hannibal-and-bryan-fuller-to-the-silver-screen/)
  - [Predator: Badlands is the Disneyfication of an iconic sci-fi horror franchise](https://www.polygon.com/predator-badlands-review/)
- - [Arc Raiders dev says it uses &#39;aggression-based matchmaking&#39; to pair bloodthirsty, PvP-minded players with each other](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-dev-says-it-uses-aggression-based-matchmaking-to-pair-bloodthirsty-pvp-minded-players-with-each-other/)
- - [Fallout designer Tim Cain reckons his subsequent 3 projects were buggy games &#39;or, as people called them, flawed masterpieces&#39; because &#39;we had a lot of feature ideas, we did not edit ourselves at all, and we were a small team&#39;](https://www.pcgamer.com/games/rpg/fallout-designer-tim-cain-reckons-his-subsequent-3-projects-were-buggy-games-or-as-people-called-them-flawed-masterpieces-because-we-had-a-lot-of-feature-ideas-we-did-not-edit-ourselves-at-all-and-we-were-a-small-team/)<!-- GAME:END -->
+ - [Arc Raiders dev says it uses &#39;aggression-based matchmaking&#39; to pair bloodthirsty, PvP-minded players with each other](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-dev-says-it-uses-aggression-based-matchmaking-to-pair-bloodthirsty-pvp-minded-players-with-each-other/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
