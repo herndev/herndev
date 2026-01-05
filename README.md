@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dust Bunny review: Bryan Fuller and Mads Mikkelsen are at their best on the big screen](https://www.polygon.com/dust-bunny-brings-best-of-hannibal-and-bryan-fuller-to-the-silver-screen/)
- - [Predator: Badlands is the Disneyfication of an iconic sci-fi horror franchise](https://www.polygon.com/predator-badlands-review/)
- - [Arc Raiders dev says it uses &#39;aggression-based matchmaking&#39; to pair bloodthirsty, PvP-minded players with each other](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-dev-says-it-uses-aggression-based-matchmaking-to-pair-bloodthirsty-pvp-minded-players-with-each-other/)<!-- GAME:END -->
+ - [Amazon Offloads This Ryzen 7 Mini PC at Its Lowest Price &lpar;32GB RAM, 1TB SSD&rpar;, Cheaper Alternative to the Mac Mini](https://kotaku.com/amazon-offloads-this-ryzen-7-mini-pc-at-its-lowest-price-32gb-ram-1tb-ssd-cheaper-alternative-to-the-mac-mini-2000656576)
+ - [Next Star Wars movie: Can The Mandalorian and Grogu save the franchise in 2026?](https://www.polygon.com/star-wars-2026-movies/)
+ - [DJI’s Flagship Drone Joins the Clearance Lineup, Tri-Camera Mavic 4 Pro With RC 2 Drops to an All-Time Low](https://kotaku.com/djis-flagship-drone-joins-the-clearance-lineup-tri-camera-mavic-4-pro-with-rc-2-drops-to-an-all-time-low-2000656507)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
