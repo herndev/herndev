@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Limited-edition Year of the Horse AirPods Pro 3 go on sale in China](https://appleinsider.com/articles/26/01/05/limited-edition-year-of-the-horse-airpods-pro-3-go-on-sale-in-china?utm_source=rss)
- - [Narwal’s New Robot Vacuum at CES Promises Massively Improved Object Avoidance, But I Have My Doubts](https://www.cnet.com/home/smart-home/narwals-new-robot-vacuum-at-ces-promises-massively-improved-object-avoidance-but-i-have-my-doubts/#ftag=CAD590a51e)
- - [Lego unveils the Smart Play platform, with a brick powered by a custom chip that connects to compatible minifigures and tags for interactive lights and sounds &lpar;Jeremy White/Wired&rpar;](http://www.techmeme.com/260105/p25#a260105p25)<!-- TECH:END -->
+ - [This Braille Label Printer Helps Blind Friends and Family Grab the Right Pill Bottle](https://www.cnet.com/tech/this-braille-label-printer-helps-blind-friends-and-family-grab-the-right-pill-bottle/#ftag=CAD590a51e)
+ - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)
+ - [Hisense Shrinks $30,000 Tech into Smaller TVs for 2026](https://www.cnet.com/tech/home-entertainment/hisense-shrinks-30000-tech-into-smaller-tvs-for-2026/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
