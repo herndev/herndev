@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kwikset&#39;s new Aura Reach Matter smart lock installs simply &amp; is cost-effective](https://appleinsider.com/articles/26/01/05/kwiksets-new-aura-reach-matter-smart-lock-installs-simply-is-cost-effective?utm_source=rss)
- - [TCL unveils the €339 70 Pro phone, with a 6.9&quot; NXTPaper 4.0 display and a paper-like textured finish, and the $549 Note A1 NXTPaper, an 11.5&quot; Remarkable rival &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/260105/p18#a260105p18)
- - [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)<!-- TECH:END -->
+ - [Forget just projecting — This new all-in-one box is a complete cinema for your living room](https://www.androidauthority.com/nebula-p1i-and-x1-pro-announcement-3625667/)
+ - [Transform your charging with Anker&#39;s new lineup at CES 2026](https://appleinsider.com/articles/26/01/05/transform-your-charging-with-ankers-new-lineup-at-ces-2026?utm_source=rss)
+ - [The best gear and gadgets from CES Unveiled 2026](https://appleinsider.com/articles/26/01/05/the-best-gear-and-gadgets-from-ces-unveiled-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
