@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was personal](http://9gag.com/gag/aKGyLQ3)
- - ⏩ [A fatigue all around the world](http://9gag.com/gag/aO8OjGE)
- - 👉 [That&#39;s all folks](http://9gag.com/gag/ae9Eddm)<!-- MEMES:END -->
+ - 💣 [That&#39;s all folks](http://9gag.com/gag/ae9Eddm)
+ - ⏩ [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
+ - 👉 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)<!-- MEMES:END -->
 
 ---
 
