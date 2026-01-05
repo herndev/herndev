@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Offloads This Ryzen 7 Mini PC at Its Lowest Price &lpar;32GB RAM, 1TB SSD&rpar;, Cheaper Alternative to the Mac Mini](https://kotaku.com/amazon-offloads-this-ryzen-7-mini-pc-at-its-lowest-price-32gb-ram-1tb-ssd-cheaper-alternative-to-the-mac-mini-2000656576)
- - [Next Star Wars movie: Can The Mandalorian and Grogu save the franchise in 2026?](https://www.polygon.com/star-wars-2026-movies/)
- - [DJI’s Flagship Drone Joins the Clearance Lineup, Tri-Camera Mavic 4 Pro With RC 2 Drops to an All-Time Low](https://kotaku.com/djis-flagship-drone-joins-the-clearance-lineup-tri-camera-mavic-4-pro-with-rc-2-drops-to-an-all-time-low-2000656507)<!-- GAME:END -->
+ - [It&#39;s a perfect time to revisit the God of War studio&#39;s awesome debut game](https://www.polygon.com/god-of-war-studio-kinetica-sequel-revival/)
+ - [Maybe the Real Code Vein II is the Friends We Make Along the Way](https://news.xbox.com/en-us/2026/01/05/code-vein-ii-preview/)
+ - [Playing Code Vein 2 made me wonder why more soulslikes don&#39;t have guns, even if I could do with a bit less anime melodrama](https://www.pcgamer.com/games/action/playing-code-vein-2-made-me-wonder-why-more-soulslikes-dont-have-guns-even-if-i-could-do-with-a-bit-less-anime-melodrama/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
