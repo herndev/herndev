@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)
- - ⏩ [Blind npc...](http://9gag.com/gag/ae9EdEB)
- - 👉 [Safe mode activated](http://9gag.com/gag/apRXjwW)<!-- MEMES:END -->
+ - 💣 [Aaaaaa, sh!t, that was close](http://9gag.com/gag/ary0zj7)
+ - ⏩ [Vuvuzela](http://9gag.com/gag/apRXjqM)
+ - 👉 [Blind npc...](http://9gag.com/gag/ae9EdEB)<!-- MEMES:END -->
 
 ---
 
