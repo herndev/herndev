@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lutron&#39;s new wooden shades work with Apple Home and tilt with the sun](https://appleinsider.com/articles/26/01/05/lutrons-new-wooden-shades-work-with-apple-home-and-tilt-with-the-sun?utm_source=rss)
- - [Mammotion’s flagship robot lawnmower now uses lidar to map your yard](https://www.theverge.com/news/850763/mammotion-luba-3-awd-robot-lawnmower-lidar-ces-2026)
- - [Lockin’s new vein-scanning smart lock has a video doorbell and recharges wirelessly](https://www.theverge.com/tech/851239/lockin-v7-max-optical-wireless-palm-vein-smart-lock-video-doorbell)<!-- TECH:END -->
+ - [Improve your health with Withings new Body Scan 2 &#39;longevity station&#39;](https://appleinsider.com/articles/26/01/05/improve-your-health-with-withings-new-body-scan-2-longevity-station?utm_source=rss)
+ - [Withings thinks of its latest smart scale as a ‘longevity station’](https://www.theverge.com/tech/850005/ces-2026-withings-body-scan-2-smart-scale-longevity-tech-health)
+ - [The Shure MV88 USB-C stereo mic mounts directly to your phone](https://www.theverge.com/tech/852938/shure-mv88-usb-c-stereo-mic-ces-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
