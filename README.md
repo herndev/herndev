@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Archaeologist Khaled Al-Asaad dedicated his life to the excavation and preservation of Palmyra, a UNESCO World Heritage Site. After enduring weeks of torture, he was beheaded by ISIS for refusing to reveal the location of ancient artifacts. He died a hero of heritage protection.](http://9gag.com/gag/ayNAVrV)
- - ⏩ [Bullet dodged.](http://9gag.com/gag/amoyboo)
- - 👉 [Habibi](http://9gag.com/gag/aYQBZpx)<!-- MEMES:END -->
+ - 💣 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
+ - ⏩ [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
+ - 👉 [Bad ride](http://9gag.com/gag/ayNAZjq)<!-- MEMES:END -->
 
 ---
 
