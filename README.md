@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In a truly galaxy-brained rebrand, Microsoft Office is now the &#39;Microsoft 365 Copilot app,&#39; but Copilot is also still the name of the AI assistant](https://www.pcgamer.com/software/windows/in-a-truly-galaxy-brained-rebrand-microsoft-office-is-now-the-microsoft-365-copilot-app-but-copilot-is-also-still-the-name-of-the-ai-assistant/)
- - [MTG just revealed more than 40 new Lorwyn Eclipsed cards &lpar;including a powerful Planeswalker&rpar;](https://www.polygon.com/mtg-magic-the-gathering-lorwyn-eclipsed-reveal-new-card-spoilers/)
- - [Some Anthem Players Say EA Is Already Blocking Them From Playing The Game A Week Before It Shuts Down](https://kotaku.com/anthem-shutdown-download-bioware-ea-pc-app-play-2000656725)<!-- GAME:END -->
+ - [A mystery that went unnoticed for 7 years has Red Dead Redemption 2 players working furiously to make the connection between spiderwebs, telegraph poles, guitars, and maybe even Grand Theft Auto 5](https://www.pcgamer.com/games/action/a-mystery-that-went-unnoticed-for-7-years-has-red-dead-redemption-2-players-working-furiously-to-make-the-connection-between-spiderwebs-telegraph-poles-guitars-and-maybe-even-grand-theft-auto-5/)
+ - [Lego Fit A Whole-Ass Computer Inside A Single Brick To Make Star Wars Sounds](https://kotaku.com/lego-smart-play-brick-star-wars-march-interactive-sets-2000656727)
+ - [MSI&#39;s monstrous 1000 W watercooled RTX 5090 has been designed to &#39;completely ignore the concepts of balance in favour of extremes&#39;, apparently](https://www.pcgamer.com/hardware/graphics-cards/msis-monstrous-1000-w-watercooled-rtx-5090-has-been-designed-to-completely-ignore-the-concepts-of-balance-in-favour-of-extremes-apparently/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
