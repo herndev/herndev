@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Ultraloq smart lock uses both your face and your palm to let you in](https://www.theverge.com/tech/853844/ultraloq-ces-smart-lock-face-palm-reading)
- - [Ikea’s new $4 USB-C charger is cheaper than Apple’s and Anker’s](https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PwC&#39;s US boss Paul Griggs says PwC decided to &quot;lean in&quot; to crypto work after years of taking a more cautious stance, following Trump&#39;s embrace of digital assets &lpar;Stephen Foley/Financial Times&rpar;](http://www.techmeme.com/260104/p13#a260104p13)
+ - [Shut the fridge door!](https://www.theverge.com/tech/853758/shut-the-fridge-door)
+ - [LG’s Wallpaper OLED TV returns to CES, and it’s wafer thin](https://www.theverge.com/tech/853886/lgs-wallpaper-oled-tv-returns-to-ces-and-its-wafer-thin)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
