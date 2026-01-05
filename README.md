@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rome - the cradle of western architecture and culture.](http://9gag.com/gag/aO8ONnD)
- - ⏩ [You know what](http://9gag.com/gag/a879Qqp)
- - 👉 [Finally someone said it](http://9gag.com/gag/aD2LNBx)<!-- MEMES:END -->
+ - 💣 [Happily socialising before the first cup of coffee is a sign of a psychopath](http://9gag.com/gag/amoyKxo)
+ - ⏩ [Screw me.](http://9gag.com/gag/a0eGWoB)
+ - 👉 [It&#39;s just a conspiracy theory](http://9gag.com/gag/a879X63)<!-- MEMES:END -->
 
 ---
 
