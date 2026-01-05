@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s a perfect time to revisit the God of War studio&#39;s awesome debut game](https://www.polygon.com/god-of-war-studio-kinetica-sequel-revival/)
- - [Maybe the Real Code Vein II is the Friends We Make Along the Way](https://news.xbox.com/en-us/2026/01/05/code-vein-ii-preview/)
- - [Playing Code Vein 2 made me wonder why more soulslikes don&#39;t have guns, even if I could do with a bit less anime melodrama](https://www.pcgamer.com/games/action/playing-code-vein-2-made-me-wonder-why-more-soulslikes-dont-have-guns-even-if-i-could-do-with-a-bit-less-anime-melodrama/)<!-- GAME:END -->
+ - [Will Jujutsu Kaisen season 3 be the biggest anime of 2026?](https://www.polygon.com/biggest-anime-2026-jujutsu-kaisen-season-3/)
+ - [In 2025, Monster Hunter fell prey to profit](https://www.pcgamer.com/games/action/in-2025-monster-hunter-fell-prey-to-profit/)
+ - [ASUS TUF 27″ Gaming Monitor Drops to All-Time Low to Compete With Samsung Odyssey](https://kotaku.com/asus-tuf-27-gaming-monitor-drops-to-all-time-low-to-compete-with-samsung-odyssey-2000656520)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
