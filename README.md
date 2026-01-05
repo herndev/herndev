@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you know the Muffin Man?](http://9gag.com/gag/avyVXAn)
- - ⏩ [The hero](http://9gag.com/gag/aE0bQZo)
- - 👉 [Is it legally OK?](http://9gag.com/gag/a879zMd)<!-- MEMES:END -->
+ - 💣 [Skater trying to get dizzy](http://9gag.com/gag/axy84RD)
+ - ⏩ [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
+ - 👉 [Before and after](http://9gag.com/gag/aAy7N2p)<!-- MEMES:END -->
 
 ---
 
