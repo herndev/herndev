@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Shanghai-based AI startup MiniMax plans to price its Hong Kong IPO at ~$21, the top of its marketed range, and will stop taking orders a day early &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/260105/p9#a260105p9)
- - [The Galaxy S26 series could be getting a price hike, but not for everyone](https://www.androidauthority.com/galaxy-s26-more-expensive-3629364/)
- - [Foxconn reports Q4 revenue up 22% YoY to ~$82.7B, above ~$77B est., and record December revenue up 31.8% YoY to ~$27.5B, driven by AI and networking demand &lpar;Reuters&rpar;](http://www.techmeme.com/260105/p8#a260105p8)<!-- TECH:END -->
+ - [New 8BitDo FlipPad is a minimalist controller for iPhone gamers](https://appleinsider.com/articles/26/01/05/new-8bitdo-flippad-is-a-minimalist-controller-for-iphone-gamers?utm_source=rss)
+ - [Sources: Alibaba&#39;s Amap will soon launch an AI tool to let restaurants render 3D images by just uploading videos or photos, in a bid to compete with Meituan &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/260105/p12#a260105p12)
+ - [Breaking: Galaxy S25 series gets third One UI 8.5 beta release](https://www.androidauthority.com/samsung-one-ui-8-5-third-beta-3629438/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
