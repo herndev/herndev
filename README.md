@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We got a real-world early look at the smartphone with a built-in camera gimbal](https://www.androidauthority.com/honor-robot-phone-first-look-3629287/)
  - [Samsung upgrades its Family Hub refrigerators with AI features, such as voice control to open and close the door and Gemini-powered AI Vision to track inventory &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/260105/p1#a260105p1)
- - [Birdbuddy’s new smart feeders aim to make spotting birds easier, even for beginners](https://www.theverge.com/gadgets/850488/birdbuddy-2-mini-ces-2026)
- - [Samsung co-CEO TM Roh says the company has rolled out Gemini-powered AI features to ~400M mobile devices by 2025, and aims to boost the figure to 800M in 2026 &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/260104/p15#a260104p15)<!-- TECH:END -->
+ - [Birdbuddy’s new smart feeders aim to make spotting birds easier, even for beginners](https://www.theverge.com/gadgets/850488/birdbuddy-2-mini-ces-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
