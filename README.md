@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aaaaaa, sh!t, that was close](http://9gag.com/gag/ary0zj7)
- - ⏩ [Vuvuzela](http://9gag.com/gag/apRXjqM)
- - 👉 [Blind npc...](http://9gag.com/gag/ae9EdEB)<!-- MEMES:END -->
+ - 💣 [Rome - the cradle of western architecture and culture.](http://9gag.com/gag/aO8ONnD)
+ - ⏩ [You know what](http://9gag.com/gag/a879Qqp)
+ - 👉 [Finally someone said it](http://9gag.com/gag/aD2LNBx)<!-- MEMES:END -->
 
 ---
 
