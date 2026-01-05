@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The names of some of the most popular SSDs are changing so their new owner Sandisk now gets the glory](https://www.pcgamer.com/hardware/ssds/the-names-of-some-of-the-most-popular-ssds-are-changing-so-their-new-owner-sandisk-now-gets-the-glory/)
- - [Silksong Finally Takes Home A ‘Best Game’ Award As Steam Breaks An All-Time Record](https://kotaku.com/silksong-goty-award-steam-clair-obscur-snub-2000656667)
- - [&#39;There is a bit of pressure&#39;: Clair Obscur: Expedition 33 devs will stay true to themselves for their next game despite expectations—&#39;we need to trust our instincts&#39;](https://www.pcgamer.com/games/rpg/there-is-a-bit-of-pressure-clair-obscur-expedition-33-devs-will-stay-true-to-themselves-for-their-next-game-despite-expectations-we-need-to-trust-our-instincts/)<!-- GAME:END -->
+ - [Repo Man: Paul Thomas Anderson&#39;s favorite sci-fi movie is a cult classic that will rewire your brain](https://www.polygon.com/paul-thomas-anderson-movie-marathon-repo-man/)
+ - [Kingdom Come: Deliverance 2 nearly had a San-Andreas-like Fat Henry system that would have let you create Bohemia&#39;s chunkiest boy, and forced you to wear clothes that fit to boot](https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-2-nearly-had-a-san-andreas-like-fat-henry-system-that-would-have-let-you-create-bohemias-chunkiest-boy-and-forced-you-to-wear-clothes-that-fit-to-boot/)
+ - [My Hero Academia gives fans a fresh look at an older Deku](https://www.polygon.com/mha-hero-academia-new-look-timeskip-deku-anime-return/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
