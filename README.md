@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For you, corporate degenerates](http://9gag.com/gag/aLn3Wq5)
- - ⏩ [Totally get it, who wouldn&#39;t want a Winona forever tattoo](http://9gag.com/gag/aW4AR43)
+ - 💣 [Aaaaaa, sh!t, that was close](http://9gag.com/gag/ary0zj7)
+ - ⏩ [Before and after](http://9gag.com/gag/aAy7N2p)
  - 👉 [100% winning rate](http://9gag.com/gag/apRXV8E)<!-- MEMES:END -->
 
 ---
