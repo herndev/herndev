@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Screw me.](http://9gag.com/gag/a0eGWoB)
- - ⏩ [Happily socialising before the first cup of coffee is a sign of a psychopath](http://9gag.com/gag/amoyKxo)
- - 👉 [Blind npc...](http://9gag.com/gag/ae9EdEB)<!-- MEMES:END -->
+ - 💣 [OneDrive really out here deleting files like it&#39;s a game](http://9gag.com/gag/axy8Q9Y)
+ - ⏩ [A fatigue all around the world](http://9gag.com/gag/aO8OjGE)
+ - 👉 [Happily socialising before the first cup of coffee is a sign of a psychopath](http://9gag.com/gag/amoyKxo)<!-- MEMES:END -->
 
 ---
 
