@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD teases its next-generation CDNA 6-based MI500 AI chips built on a 2nm node, claiming 1,000x performance gains over predecessors, launching in 2027 &lpar;Reuters&rpar;](http://www.techmeme.com/260106/p5#a260106p5)
- - [As RAM costs drive up prices, this budget-friendly phone challenges the need for a flagship](https://www.androidauthority.com/xiaomi-redmi-note-15-5g-3628321/)
- - [Amazon rips off Google TV with latest Fire TV redesign](https://www.androidauthority.com/amazon-copies-google-tv-fire-tv-redesign-3629706/)<!-- TECH:END -->
+ - [These open-ear buds actually have decent noise reduction](https://www.theverge.com/tech/853290/shokz-open-fit-pro-hands-on-ces-2026-headphones-wearables)
+ - [This desktop charger turns your iPhone into a robotic AI assistant](https://www.theverge.com/tech/856077/yoona-deskmate-iphone-robot-companion-ai-assistant)
+ - [Nvidia announces native apps for its GeForce NOW cloud gaming service for select Linux distributions and Amazon Fire TV sticks, available in early 2026 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260106/p6#a260106p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
