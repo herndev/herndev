@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Asus reveals a Hideo Kojima-themed ROG Flow Z13 at CES 2026](https://www.polygon.com/hideo-kojima-rog-flow-z13-kjp-announced/)
  - [Asus ROG Xreal R1 glasses are built for hardcore gamers](https://www.polygon.com/asus-rog-xreal-r1-glasses-ces-2026/)
- - [Cyberpunk 2 director says there&#39;d be no point in giving players more time with Jackie in Cyberpunk 2077: &#39;It&#39;s like saying we should spend more time on Tatooine with farmer Luke before he got involved with all this Jedi stuff&#39;](https://www.pcgamer.com/games/rpg/cyberpunk-2-director-says-thered-be-no-point-in-giving-players-more-time-with-jackie-in-cyberpunk-2077-its-like-saying-we-should-spend-more-time-on-tatooine-with-farmer-luke-before-he-got-involved-with-all-this-jedi-stuff/)
- - [&#39;I&#39;m a medieval otaku, after all&#39;: Legendary Final Fantasy composer Nobuo Uematsu says FF9&#39;s soundtrack is some of his best work—even if it&#39;s more popular overseas](https://www.pcgamer.com/games/rpg/im-a-medieval-otaku-after-all-legendary-final-fantasy-composer-nobuo-uematsu-says-ff9s-soundtrack-is-some-of-his-best-work-even-if-its-more-popular-overseas/)<!-- GAME:END -->
+ - [Cyberpunk 2 director says there&#39;d be no point in giving players more time with Jackie in Cyberpunk 2077: &#39;It&#39;s like saying we should spend more time on Tatooine with farmer Luke before he got involved with all this Jedi stuff&#39;](https://www.pcgamer.com/games/rpg/cyberpunk-2-director-says-thered-be-no-point-in-giving-players-more-time-with-jackie-in-cyberpunk-2077-its-like-saying-we-should-spend-more-time-on-tatooine-with-farmer-luke-before-he-got-involved-with-all-this-jedi-stuff/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
