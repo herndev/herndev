@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
- - ⏩ [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
- - 👉 [Bad ride](http://9gag.com/gag/ayNAZjq)<!-- MEMES:END -->
+ - 💣 [Bad ride](http://9gag.com/gag/ayNAZjq)
+ - ⏩ [Safe mode activated](http://9gag.com/gag/apRXjwW)
+ - 👉 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)<!-- MEMES:END -->
 
 ---
 
