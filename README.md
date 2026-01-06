@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
- - ⏩ [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
- - 👉 [Bad ride](http://9gag.com/gag/ayNAZjq)<!-- MEMES:END -->
+ - 💣 [Before and after](http://9gag.com/gag/aAy7N2p)
+ - ⏩ [Bad ride](http://9gag.com/gag/ayNAZjq)
+ - 👉 [Safe mode activated](http://9gag.com/gag/apRXjwW)<!-- MEMES:END -->
 
 ---
 
