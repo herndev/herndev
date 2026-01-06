@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hostel at 20: The horror movie&#39;s legacy is so much more than &#39;torture porn&#39;](https://www.polygon.com/hostel-20-year-anniversary-eli-roth-torture-porn-horror/)
- - [Rockstar still hasn&#39;t offered a convincing reason for firing over 30 GTA 6 developers](https://www.pcgamer.com/gaming-industry/rockstar-still-hasnt-offered-a-convincing-reason-for-firing-over-30-gta-6-developers/)
- - [&#39;Not bad for a dead game&#39;: Palworld managed to get four nominations in Steam&#39;s Best of 2025 Awards, including 2nd place for most played game](https://www.pcgamer.com/games/survival-crafting/not-bad-for-a-dead-game-palworld-managed-to-get-four-nominations-in-2025s-steam-awards-including-2nd-place-for-most-played-game/)<!-- GAME:END -->
+ - [Stranger Things returns with new chapter in Dead by Daylight](https://www.polygon.com/stranger-things-dead-by-daylight-chapter-2-vecna-eleven/)
+ - [Best ways to get food in StarRupture](https://www.pcgamer.com/games/survival-crafting/star-rupture-food-calories/)
+ - [Best ways to get water in StarRupture](https://www.pcgamer.com/games/survival-crafting/star-rupture-water-hydration/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
