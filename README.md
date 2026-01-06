@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avengers: Doomsday trailer 4 leaks, shows Wakanda-F4 meeting](https://www.polygon.com/avengers-doomsday-trailer-4-wakandans-fantastic-four-namor/)
- - [Embark boss says Arc Raiders $40 price was inspired by the likes of Helldivers 2: &#39;We&#39;d rather make people feel like it&#39;s totally worth 40 bucks&#39;](https://www.pcgamer.com/games/third-person-shooter/embark-boss-says-arc-raiders-usd40-price-was-inspired-by-the-likes-of-helldivers-2-wed-rather-make-people-feel-like-its-totally-worth-40-bucks/)
- - [A major Star Wars power shift is upon us, but Dave Filoni has the Force to pull it off](https://www.polygon.com/lucasfilm-kathleen-kennedy-dave-filoni-star-wars/)<!-- GAME:END -->
+ - [Amazon Prime free PC games for January 2026 announced](https://www.polygon.com/amazon-prime-gaming-free-games-january-2026/)
+ - [MTV Simulator Features 25,000+ Music Videos And Is Very Cool](https://kotaku.com/mtv-simulator-features-25000-music-videos-and-is-very-cool-2000657223)
+ - [Magic just revealed its Lorwyn Eclipsed precon decklists, and they&#39;re both shockingly powerful](https://www.polygon.com/mtg-lorwyn-eclipsed-commander-decks-decklists-spoiler-reveal/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
