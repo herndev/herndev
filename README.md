@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad ride](http://9gag.com/gag/ayNAZjq)
- - ⏩ [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
- - 👉 [Old Man making vlog about his hobby](http://9gag.com/gag/ayNAVwy)<!-- MEMES:END -->
+ - 💣 [New year&#39;s resolution, pushups, gradualy](http://9gag.com/gag/a9ye4ro)
+ - ⏩ [This is so wholesome, what a beautiful gift](http://9gag.com/gag/ae9EqO5)
+ - 👉 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)<!-- MEMES:END -->
 
 ---
 
