@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Luxurious Headphones Are Almost Half Off](https://www.wired.com/story/bowers-wilkins-px8-deal-126/)
- - [The biggest Nvidia announcements at CES 2026](https://www.theverge.com/tech/856439/nvidia-ces-2026-announcements-roundup)
- - [Save $250 on Apple&#39;s M4 MacBook Air with 32GB RAM](https://appleinsider.com/articles/26/01/06/save-250-on-apples-m4-macbook-air-with-32gb-ram?utm_source=rss)<!-- TECH:END -->
+ - [Meet the Pocket Taco, your next retro mobile gaming controller](https://www.androidauthority.com/gamesir-pocket-taco-mobile-gaming-controller-3630022/)
+ - [Internal memo: Hark, the new AI lab from Figure AI CEO Brett Adcock, backed by $100M of his own capital, has hired 30+ engineers from Apple, Meta, and others &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/260106/p34#a260106p34)
+ - [The Inevitable Rise of the Art TV](https://www.wired.com/story/art-frame-tv-trends/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
