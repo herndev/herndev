@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Road-side Shawarma codes in January 2026 for free revives](https://www.pcgamer.com/roblox/roadside-shawarma-codes/)
- - [Escape From Tarkov Dev Trolls Players By Making Its Impossible Ending Even More Brutal](https://kotaku.com/escape-from-tarkov-ending-boat-choice-terminal-2000657207)
- - [Dropout releases new trailer for Um, Actually season 11](https://www.polygon.com/dropout-um-actually-season-11-trailer/)<!-- GAME:END -->
+ - [Avengers: Doomsday trailer 4 leaks, shows Wakanda-F4 meeting](https://www.polygon.com/avengers-doomsday-trailer-4-wakandans-fantastic-four-namor/)
+ - [Embark boss says Arc Raiders $40 price was inspired by the likes of Helldivers 2: &#39;We&#39;d rather make people feel like it&#39;s totally worth 40 bucks&#39;](https://www.pcgamer.com/games/third-person-shooter/embark-boss-says-arc-raiders-usd40-price-was-inspired-by-the-likes-of-helldivers-2-wed-rather-make-people-feel-like-its-totally-worth-40-bucks/)
+ - [A major Star Wars power shift is upon us, but Dave Filoni has the Force to pull it off](https://www.polygon.com/lucasfilm-kathleen-kennedy-dave-filoni-star-wars/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
