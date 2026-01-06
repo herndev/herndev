@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fantasy FPS Where You Shoot Skeletons To Stop The Game From Crashing Looks Incredible](https://kotaku.com/fantasy-fps-where-you-shoot-skeletons-to-stop-the-game-from-crashing-looks-incredible-2000657233)
- - [&#39;The game isn&#39;t about shooting other players&#39;: Embark CEO says Arc Raiders is unlikely to get a PvP leaderboard because the devs &#39;don&#39;t necessarily want to foster that kind of gameplay&#39;](https://www.pcgamer.com/games/third-person-shooter/the-game-isnt-about-shooting-other-players-embark-ceo-says-arc-raiders-is-unlikely-to-get-a-pvp-leaderboard-because-the-devs-dont-necessarily-want-to-foster-that-kind-of-gameplay/)
- - [The Joker movie DC didn&#39;t want you to see streams for free on Tubi this month](https://www.polygon.com/the-peoples-joker-streaming-tubi-january-2026/)<!-- GAME:END -->
+ - [An AI ‘Ghost’ That Plays Games For You Is The Inevitable Endpoint Of Where This Is All Headed](https://kotaku.com/sony-patent-ai-ghost-ps5-megabonk-2000657230)
+ - [Amazon’s Very Good 4K UHD Blu-Ray Deal Is Back And Better](https://kotaku.com/amazons-4k-uhd-blu-ray-deal-33-3-movies-sale-best-movies-list-2000657244)
+ - [Cut Fallout: New Vegas Ending Shows Yes Man Was Even More Sinister Than He Appeared](https://kotaku.com/fallout-new-vegas-ending-cut-content-yes-man-2000657243)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
