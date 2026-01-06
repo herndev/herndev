@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Anime Fighting Simulator: Endless codes for January 2026: Chikara and Yen](https://www.pcgamer.com/roblox/anime-fighting-simulator-endless-codes/)
- - [The Asus ROG Zephyrus G16 redesign is spoiling for a rematch against the Razer Blade 16, featuring a beefy RTX 5090 and improved cooling](https://www.pcgamer.com/hardware/gaming-laptops/the-asus-rog-zephyrus-g16-redesign-is-spoiling-for-a-rematch-against-the-razer-blade-16-featuring-a-beefy-rtx-5090-and-improved-cooling/)
- - [Dell resurrects XPS brand with slick new laptop that&#39;s smaller than a MacBook Air, lasts 40 hours and relies on Intel&#39;s Panther Lake chip for gaming grunt](https://www.pcgamer.com/hardware/gaming-laptops/dell-resurrects-xps-brand-with-slick-new-laptop-thats-smaller-than-a-macbook-air-lasts-40-hours-and-relies-on-intels-panther-lake-chip-for-gaming-grunt/)<!-- GAME:END -->
+ - [CyberPower PC unveils &#39;elegant&#39; new case with three dedicated knobs on the side purely to adjust colours and I think I&#39;m a bit smitten](https://www.pcgamer.com/hardware/pc-cases/cyberpower-pc-unveils-elegant-new-case-with-three-dedicated-knobs-on-the-side-purely-to-adjust-colours-and-i-think-im-a-bit-smitten/)
+ - [Anker Portable Power Station Drops 64%, SOLIX F1500 Can Charge 13 Devices at Once With a 10-Year Lifespan](https://kotaku.com/anker-portable-power-station-drops-64-solix-f1500-can-charge-13-devices-at-once-with-a-10-year-lifespan-2000657097)
+ - [Lego&#39;s smart new 2x4 Smart Brick packs a custom ASIC, speaker, and synthesiser created by &#39;an expert team from the worlds of video gaming, computing... and more&#39;](https://www.pcgamer.com/hardware/legos-smart-new-2x4-smart-brick-packs-a-custom-asic-speaker-and-synthesiser-created-by-an-expert-team-from-the-worlds-of-video-gaming-computing-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
