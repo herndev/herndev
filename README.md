@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s latest Galaxy Book 6 series pairs Intel’s latest Panther Lake with RTX 50 series GPUs](https://www.androidauthority.com/galaxy-book-6-pro-ultra-launch-ces-2026-3629430/)
- - [Lego’s Smart Bricks aren’t just an experiment — and they aren’t just for kids](https://www.theverge.com/tech/855584/lego-smart-bricks-interview-julia-goldin)
- - [Nvidia launches Vera Rubin AI computing platform at CES 2026](https://www.theverge.com/tech/855412/nvidia-launches-vera-rubin-ai-computing-platform-at-ces-2026)<!-- TECH:END -->
+ - [Asus finally gives its ROG Zephyrus Duo gaming laptop the true dual screens it deserves](https://www.theverge.com/news/851827/asus-rog-zephyrus-duo-dual-screen-gaming-laptop-ces-2026)
+ - [Intel details its 2nm 18A-process Panther Lake chips, showing major performance gains; laptops with Panther Lake Core Ultra Series 3 chips will debut on Jan. 27 &lpar;Michael Justin Allen Sexton/PCMag&rpar;](http://www.techmeme.com/260105/p30#a260105p30)
+ - [Dell brings back XPS branding with the new XPS 14 and 16 laptops, which address some complaints about the previous XPS design but lack dedicated GPU support &lpar;Rich Woods/XDA Developers&rpar;](http://www.techmeme.com/260105/p29#a260105p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
