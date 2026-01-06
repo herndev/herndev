@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Things returns with new chapter in Dead by Daylight](https://www.polygon.com/stranger-things-dead-by-daylight-chapter-2-vecna-eleven/)
- - [Best ways to get food in StarRupture](https://www.pcgamer.com/games/survival-crafting/star-rupture-food-calories/)
- - [Best ways to get water in StarRupture](https://www.pcgamer.com/games/survival-crafting/star-rupture-water-hydration/)<!-- GAME:END -->
+ - [Resident Evil 9&#39;s prequels reveal Alyssa Ashcroft&#39;s intriguing backstory](https://www.polygon.com/resident-evil-requiem-re9-prequels-outbreak-alyssa-ashcroft/)
+ - [Star Wars and Resident Evil give Xbox Game Pass a strong 2026 start](https://www.polygon.com/xbox-game-pass-january-2026-new-star-wars-outlaws-resident-evil/)
+ - [GTA 6 could wreak havoc on the 2026 game release schedule](https://www.polygon.com/gta-6-release-date-2026-aaa-games-schedule/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
