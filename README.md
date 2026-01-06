@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
- - ⏩ [Tongue tricks](http://9gag.com/gag/aO8OAXE)
- - 👉 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)<!-- MEMES:END -->
+ - ⏩ [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
+ - 👉 [Safe mode activated](http://9gag.com/gag/apRXjwW)<!-- MEMES:END -->
 
 ---
 
