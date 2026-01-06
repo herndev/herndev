@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia looks to further eradicate motion blur with new G-Sync Pulsar improvements for &#39;4x the effective motion clarity&#39;](https://www.pcgamer.com/hardware/gaming-monitors/nvidia-looks-to-further-eradicate-motion-blur-with-new-g-sync-pulsar-improvements-for-4x-the-effective-motion-clarity/)
- - [Dell&#39;s CES 2026 chat was the most pleasingly un-AI briefing I&#39;ve had in maybe 5 years](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
- - [Intel says its graphics drivers are now &#39;light years ahead of where we were a few years ago&#39;, and they&#39;ll need to be if it&#39;s going to tempt gamers towards its new iGPUs](https://www.pcgamer.com/hardware/processors/intel-says-its-graphics-drivers-are-now-light-years-ahead-of-where-we-were-a-few-years-ago-and-theyll-need-to-be-if-its-going-to-tempt-gamers-towards-its-new-igpus/)<!-- GAME:END -->
+ - [All Anime Fighting Simulator: Endless codes for January 2026: Chikara and Yen](https://www.pcgamer.com/roblox/anime-fighting-simulator-endless-codes/)
+ - [The Asus ROG Zephyrus G16 redesign is spoiling for a rematch against the Razer Blade 16, featuring a beefy RTX 5090 and improved cooling](https://www.pcgamer.com/hardware/gaming-laptops/the-asus-rog-zephyrus-g16-redesign-is-spoiling-for-a-rematch-against-the-razer-blade-16-featuring-a-beefy-rtx-5090-and-improved-cooling/)
+ - [Dell resurrects XPS brand with slick new laptop that&#39;s smaller than a MacBook Air, lasts 40 hours and relies on Intel&#39;s Panther Lake chip for gaming grunt](https://www.pcgamer.com/hardware/gaming-laptops/dell-resurrects-xps-brand-with-slick-new-laptop-thats-smaller-than-a-macbook-air-lasts-40-hours-and-relies-on-intels-panther-lake-chip-for-gaming-grunt/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
