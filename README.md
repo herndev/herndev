@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A simple fix for the interface-breaking bug on YouTube Clips](https://appleinsider.com/articles/26/01/06/a-simple-fix-for-the-interface-breaking-bug-on-youtube-clips?utm_source=rss)
- - [AMD unveils Ryzen AI 400 Series AI PC chips with 12 CPU cores, claiming 1.3x faster multitasking and 1.7x faster content creation than rivals &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/260105/p39#a260105p39)
- - [Jensen Huang says Nvidia&#39;s Vera Rubin chips are in &quot;full production&quot;; Nvidia says Rubin can train some LLMs with roughly one-fourth the chips Blackwell needs &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/260105/p38#a260105p38)<!-- TECH:END -->
+ - [Emerson’s SmartVoice devices follow verbal instructions without Wi-Fi or a hub](https://www.theverge.com/tech/850919/smart-appliance-emerson-smartvoice-ces)
+ - [Samsung just showed a foldable screen with no crease, and it looks unreal!](https://www.androidauthority.com/samsung-foldable-crease-less-display-3629699/)
+ - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
