@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin finally adds native food tracking, but you’ll have to pay for it](https://www.androidauthority.com/garmin-connect-nutrition-tracking-feature-3629846/)
- - [OnePlus 16 leak hints at a new ‘Pro’ or ‘Ultra’ model to rival the best of Android](https://www.androidauthority.com/oneplus-16-pro-ultra-leak-3629852/)
- - [Apple Sainte-Catherine to open in Montreal on January 16](https://appleinsider.com/articles/26/01/06/apple-sainte-catherine-to-open-in-montreal-on-january-16?utm_source=rss)<!-- TECH:END -->
+ - [Two new uGreen NASync storage systems have on-device AI](https://appleinsider.com/articles/26/01/06/two-new-ugreen-nasync-storage-systems-have-on-device-ai?utm_source=rss)
+ - [Ugreen is expanding into AI-powered smart home surveillance](https://www.theverge.com/tech/846789/ugree-syncare-indoor-outdoor-cameras-ai-doorbell)
+ - [Chamberlain’s new smart lock will lock your door and shut your garage upon spotting a stranger](https://www.theverge.com/news/851622/chamberlain-myq-secure-view-smart-lock-ces-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
