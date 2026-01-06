@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Emerson’s SmartVoice devices follow verbal instructions without Wi-Fi or a hub](https://www.theverge.com/tech/850919/smart-appliance-emerson-smartvoice-ces)
- - [Samsung just showed a foldable screen with no crease, and it looks unreal!](https://www.androidauthority.com/samsung-foldable-crease-less-display-3629699/)
- - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysts expect Samsung&#39;s Q4 operating profit to jump 160% YoY to ~$11.7B, driven by a severe global shortage of memory chips amid booming AI demand &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/260106/p2#a260106p2)
+ - [No console, no problem: Xbox Game Pass is coming to Google TV this year](https://www.androidauthority.com/google-tv-xbox-game-pass-3629709/)
+ - [Telegram bonds worth $500M are frozen in Russia under western sanctions; filings: its H1 2025 revenue rose 65% YoY to $870M, driven by $300M from Toncoin deals &lpar;Financial Times&rpar;](http://www.techmeme.com/260106/p1#a260106p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
