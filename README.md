@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [They Made A $300 Rumble Pack For Your Taint](https://kotaku.com/mor-taint-bandage-rumble-pack-sex-ejaculation-orgasm-app-2000657182)
- - [Roblox Player Performs Speedrunning Forensics To Uncover Fraud And Win Back World Record](https://kotaku.com/roblox-fall-guys-speedrun-world-record-fraud-2000657154)
- - [Phison&#39;s E37T controller could make PCIe 5.0 SSDs faster, cooler and *get this* slightly less pricey](https://www.pcgamer.com/hardware/ssds/phisons-e37t-memory-controller-could-make-pcie-5-ssds-faster-cooler-and-get-this-slightly-less-pricey/)<!-- GAME:END -->
+ - [All Road-side Shawarma codes in January 2026 for free revives](https://www.pcgamer.com/roblox/roadside-shawarma-codes/)
+ - [Escape From Tarkov Dev Trolls Players By Making Its Impossible Ending Even More Brutal](https://kotaku.com/escape-from-tarkov-ending-boat-choice-terminal-2000657207)
+ - [Dropout releases new trailer for Um, Actually season 11](https://www.polygon.com/dropout-um-actually-season-11-trailer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
