@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No, Microsoft didn’t rebrand Office to Microsoft 365 Copilot](https://www.theverge.com/tech/856149/microsoft-365-office-rebrand-copilot)
- - [Singapore-based data center operator DayOne raised a $2B Series C led by Coatue to build hyperscale campuses in Lahti and Kouvola, Finland, and elsewhere &lpar;Reuters&rpar;](http://www.techmeme.com/260106/p8#a260106p8)
- - [6 Best Gym Bags for Every Workout and Commute &lpar;2026&rpar;](https://www.wired.com/story/best-gym-bags/)<!-- TECH:END -->
+ - [Garmin finally adds native food tracking, but you’ll have to pay for it](https://www.androidauthority.com/garmin-connect-nutrition-tracking-feature-3629846/)
+ - [OnePlus 16 leak hints at a new ‘Pro’ or ‘Ultra’ model to rival the best of Android](https://www.androidauthority.com/oneplus-16-pro-ultra-leak-3629852/)
+ - [Apple Sainte-Catherine to open in Montreal on January 16](https://appleinsider.com/articles/26/01/06/apple-sainte-catherine-to-open-in-montreal-on-january-16?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
