@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These open-ear buds actually have decent noise reduction](https://www.theverge.com/tech/853290/shokz-open-fit-pro-hands-on-ces-2026-headphones-wearables)
- - [This desktop charger turns your iPhone into a robotic AI assistant](https://www.theverge.com/tech/856077/yoona-deskmate-iphone-robot-companion-ai-assistant)
- - [Nvidia announces native apps for its GeForce NOW cloud gaming service for select Linux distributions and Amazon Fire TV sticks, available in early 2026 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260106/p6#a260106p6)<!-- TECH:END -->
+ - [This free feature helps make stolen Bosch e-bikes unsellable](https://www.theverge.com/tech/856120/this-free-feature-helps-make-stolen-bosch-e-bikes-unsellable)
+ - [Even if AI could take over every job, humans will invent new work for themselves, because we value human effort and connection, not just output &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260106/p7#a260106p7)
+ - [Samsung’s upcoming Galaxy Buds 4 Pro may arrive in a special fruity color](https://www.androidauthority.com/samsung-galaxy-buds-4-pro-color-leak-3629731/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
