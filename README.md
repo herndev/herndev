@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roborock launches its first robot lawn mower in the US](https://www.theverge.com/news/851696/roborock-launches-its-first-robot-lawnmower-in-the-us)
- - [Roborock’s new Saros 20 robot vacuum cleaners got a climbing upgrade](https://www.theverge.com/news/852702/roborock-saros-20-sonic-ces-2026)
- - [Your future color E-Ink wall gallery just got even bigger](https://www.androidauthority.com/inkposter-a1-size-tela-duna-launch-3628998/)<!-- TECH:END -->
+ - [Gemini has entered the projector chat](https://www.androidauthority.com/epson-projectors-google-tv-gemini-3628323/)
+ - [Power bank feature creep is out of control](https://www.theverge.com/tech/856225/power-banks-are-the-latest-victims-of-feature-creep)
+ - [Intricuit&#39;s Magic Screen adds touch support to the MacBook Pro display](https://appleinsider.com/articles/26/01/06/intricuits-magic-screen-adds-touch-support-to-the-macbook-pro-display?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
