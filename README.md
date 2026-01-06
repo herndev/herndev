@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
- - ⏩ [Bad ride](http://9gag.com/gag/ayNAZjq)
- - 👉 [Safe mode activated](http://9gag.com/gag/apRXjwW)<!-- MEMES:END -->
+ - 💣 [Demonstration of the ancient Carnyx, a wind instrument of the Iron Age Celts, used in warfare among other things. Ideal instrument for intimidating opponents.](http://9gag.com/gag/aE0bjzO)
+ - ⏩ [Habibi](http://9gag.com/gag/aYQBZpx)
+ - 👉 [New year&#39;s resolution, pushups, gradualy](http://9gag.com/gag/a9ye4ro)<!-- MEMES:END -->
 
 ---
 
