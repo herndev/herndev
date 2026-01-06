@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer is making an AI anime waifu hologram for your desk](https://www.theverge.com/tech/854705/razer-ai-anime-waifu-hologram-desk)
- - [American Airlines is adding free AT&amp;#038;T Wi-Fi to all its planes](https://www.theverge.com/news/855838/american-airlines-free-att-wifi-speed)
- - [Don’t want to pay for YouTube Premium? Morphe picks up where Revanced left off.](https://www.androidauthority.com/morphe-youtube-revanced-3629859/)<!-- TECH:END -->
+ - [Razer plans to invest $600M in AI over &quot;the next couple of years&quot;, as the gaming peripherals maker unveils new AI products like headphones with built-in cameras &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/260106/p17#a260106p17)
+ - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)
+ - [Ring revamps its home sensors, including door, window, and break glass sensors built on the Amazon Sidewalk protocol, and expands the protocol internationally &lpar;Daniel Cooper/Engadget&rpar;](http://www.techmeme.com/260106/p16#a260106p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
