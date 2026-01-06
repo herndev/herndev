@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysts expect Samsung&#39;s Q4 operating profit to jump 160% YoY to ~$11.7B, driven by a severe global shortage of memory chips amid booming AI demand &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/260106/p2#a260106p2)
- - [No console, no problem: Xbox Game Pass is coming to Google TV this year](https://www.androidauthority.com/google-tv-xbox-game-pass-3629709/)
- - [Telegram bonds worth $500M are frozen in Russia under western sanctions; filings: its H1 2025 revenue rose 65% YoY to $870M, driven by $300M from Toncoin deals &lpar;Financial Times&rpar;](http://www.techmeme.com/260106/p1#a260106p1)<!-- TECH:END -->
+ - [AMD teases its next-generation CDNA 6-based MI500 AI chips built on a 2nm node, claiming 1,000x performance gains over predecessors, launching in 2027 &lpar;Reuters&rpar;](http://www.techmeme.com/260106/p5#a260106p5)
+ - [As RAM costs drive up prices, this budget-friendly phone challenges the need for a flagship](https://www.androidauthority.com/xiaomi-redmi-note-15-5g-3628321/)
+ - [Amazon rips off Google TV with latest Fire TV redesign](https://www.androidauthority.com/amazon-copies-google-tv-fire-tv-redesign-3629706/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
