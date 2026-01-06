@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Klipsch is getting back into the hi-fi headphone game](https://www.theverge.com/tech/854158/klipsch-is-getting-back-into-the-hi-fi-headphone-game)
- - [Vancouver-based quantum computing startup Photonic raised CA$180M led by Planet First Partners, bringing its total funding to CA$375M &lpar;Madison McLauchlan/BetaKit&rpar;](http://www.techmeme.com/260106/p20#a260106p20)
- - [OWC&#39;s 2-meter Thunderbolt 5 cable delivers full-speed performance at longer distances](https://appleinsider.com/articles/26/01/06/owcs-2-meter-thunderbolt-5-cable-delivers-full-speed-performance-at-longer-distances?utm_source=rss)<!-- TECH:END -->
+ - [Roborock launches its first robot lawn mower in the US](https://www.theverge.com/news/851696/roborock-launches-its-first-robot-lawnmower-in-the-us)
+ - [Roborock’s new Saros 20 robot vacuum cleaners got a climbing upgrade](https://www.theverge.com/news/852702/roborock-saros-20-sonic-ces-2026)
+ - [Your future color E-Ink wall gallery just got even bigger](https://www.androidauthority.com/inkposter-a1-size-tela-duna-launch-3628998/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
