@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The last 5 years have all kicked off with a huge co-op hit on Steam, and this sci-fi survival game from the makers of Green Hell might be 2026&#39;s ticket](https://www.pcgamer.com/games/survival-crafting/the-last-5-years-have-all-kicked-off-with-a-huge-co-op-hit-on-steam-and-this-sci-fi-survival-game-from-the-makers-of-green-hell-might-be-2026s-ticket/)
- - [Great Games, Bad Times: Everything You Need To Know About 2025](https://kotaku.com/2025-best-games-characters-surprises-metacritic-2000656702)
- - [Jack Black Regrets Being A Jerk When Pixar Asked Him To Be In The Incredibles](https://kotaku.com/the-incredibles-jack-black-regrets-passing-on-syndrome-villian-role-pixar-2000656750)<!-- GAME:END -->
+ - [Asus ROG Xreal R1 glasses are built for hardcore gamers](https://www.polygon.com/asus-rog-xreal-r1-glasses-ces-2026/)
+ - [Cyberpunk 2 director says there&#39;d be no point in giving players more time with Jackie in Cyberpunk 2077: &#39;It&#39;s like saying we should spend more time on Tatooine with farmer Luke before he got involved with all this Jedi stuff&#39;](https://www.pcgamer.com/games/rpg/cyberpunk-2-director-says-thered-be-no-point-in-giving-players-more-time-with-jackie-in-cyberpunk-2077-its-like-saying-we-should-spend-more-time-on-tatooine-with-farmer-luke-before-he-got-involved-with-all-this-jedi-stuff/)
+ - [&#39;I&#39;m a medieval otaku, after all&#39;: Legendary Final Fantasy composer Nobuo Uematsu says FF9&#39;s soundtrack is some of his best work—even if it&#39;s more popular overseas](https://www.pcgamer.com/games/rpg/im-a-medieval-otaku-after-all-legendary-final-fantasy-composer-nobuo-uematsu-says-ff9s-soundtrack-is-some-of-his-best-work-even-if-its-more-popular-overseas/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
