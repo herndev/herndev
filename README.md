@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CyberPower PC unveils &#39;elegant&#39; new case with three dedicated knobs on the side purely to adjust colours and I think I&#39;m a bit smitten](https://www.pcgamer.com/hardware/pc-cases/cyberpower-pc-unveils-elegant-new-case-with-three-dedicated-knobs-on-the-side-purely-to-adjust-colours-and-i-think-im-a-bit-smitten/)
- - [Anker Portable Power Station Drops 64%, SOLIX F1500 Can Charge 13 Devices at Once With a 10-Year Lifespan](https://kotaku.com/anker-portable-power-station-drops-64-solix-f1500-can-charge-13-devices-at-once-with-a-10-year-lifespan-2000657097)
- - [Lego&#39;s smart new 2x4 Smart Brick packs a custom ASIC, speaker, and synthesiser created by &#39;an expert team from the worlds of video gaming, computing... and more&#39;](https://www.pcgamer.com/hardware/legos-smart-new-2x4-smart-brick-packs-a-custom-asic-speaker-and-synthesiser-created-by-an-expert-team-from-the-worlds-of-video-gaming-computing-and-more/)<!-- GAME:END -->
+ - [Romeo Is a Dead Man is a chaotic and funny sci-fi adventure](https://www.polygon.com/romeo-is-a-dead-man-preview-impressions-sci-fi-adventure/)
+ - [Qualcomm unveils the Snapdragon X2 Plus, with up to 35% more single-core CPU performance and 29% faster GPUs than X Plus chips](https://www.pcgamer.com/hardware/processors/qualcomm-unveils-the-snapdragon-x2-plus-with-up-to-35-percent-more-single-core-cpu-performance-and-29-percent-faster-gpus-than-x-plus-chips/)
+ - [Apple iPad &lpar;11″, A16 Chip&rpar; Holds Its Holiday Clearance Price With Extended New Year Deals](https://kotaku.com/apple-ipad-11-a16-chip-holds-its-holiday-clearance-price-with-extended-new-year-deals-2000657109)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
