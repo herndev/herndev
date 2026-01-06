@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Bad ride](http://9gag.com/gag/ayNAZjq)
- - ⏩ [Safe mode activated](http://9gag.com/gag/apRXjwW)
- - 👉 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)<!-- MEMES:END -->
+ - ⏩ [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
+ - 👉 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)<!-- MEMES:END -->
 
 ---
 
