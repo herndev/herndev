@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happily socialising before the first cup of coffee is a sign of a psychopath](http://9gag.com/gag/amoyKxo)
- - ⏩ [This is so wholesome, what a beautiful gift](http://9gag.com/gag/ae9EqO5)
- - 👉 [New year&#39;s resolution, pushups, gradualy](http://9gag.com/gag/a9ye4ro)<!-- MEMES:END -->
+ - 💣 [Bad ride](http://9gag.com/gag/ayNAZjq)
+ - ⏩ [Safe mode activated](http://9gag.com/gag/apRXjwW)
+ - 👉 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)<!-- MEMES:END -->
 
 ---
 
