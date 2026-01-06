@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer plans to invest $600M in AI over &quot;the next couple of years&quot;, as the gaming peripherals maker unveils new AI products like headphones with built-in cameras &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/260106/p17#a260106p17)
- - [CES 2026 Live: Big TVs, Robots, AI Pets and More Kick Off Tech&#39;s Big Show](https://www.cnet.com/tech/ces-2026-news-live-updates/#ftag=CAD590a51e)
- - [Ring revamps its home sensors, including door, window, and break glass sensors built on the Amazon Sidewalk protocol, and expands the protocol internationally &lpar;Daniel Cooper/Engadget&rpar;](http://www.techmeme.com/260106/p16#a260106p16)<!-- TECH:END -->
+ - [Klipsch is getting back into the hi-fi headphone game](https://www.theverge.com/tech/854158/klipsch-is-getting-back-into-the-hi-fi-headphone-game)
+ - [Vancouver-based quantum computing startup Photonic raised CA$180M led by Planet First Partners, bringing its total funding to CA$375M &lpar;Madison McLauchlan/BetaKit&rpar;](http://www.techmeme.com/260106/p20#a260106p20)
+ - [OWC&#39;s 2-meter Thunderbolt 5 cable delivers full-speed performance at longer distances](https://appleinsider.com/articles/26/01/06/owcs-2-meter-thunderbolt-5-cable-delivers-full-speed-performance-at-longer-distances?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
