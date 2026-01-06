@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The taint bandaid has evolved into the taint zapper](https://www.theverge.com/tech/855841/ces-2026-mor-morari-inc-taint-zapper-sex-tech-wearables)
- - [Nvidia says it&#39;s seeing &quot;strong&quot; demand from China for its H200 chips but is awaiting approvals from both Washington and Beijing before sales could begin &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260105/p36#a260105p36)
- - [Apple&#39;s macOS Tahoe adds icons to every menu item, resulting in menus that are hard to use and go against the long-standing Macintosh Human Interface Guidelines &lpar;Niki Tonsky/tonsky.me&rpar;](http://www.techmeme.com/260105/p35#a260105p35)<!-- TECH:END -->
+ - [Find My comes to Moft&#39;s new magnetic iPhone accessories](https://appleinsider.com/articles/26/01/06/find-my-comes-to-mofts-new-magnetic-iphone-accessories?utm_source=rss)
+ - [Keychron packs CES 2026 with upgraded Q and V series mechanical keyboards](https://appleinsider.com/articles/26/01/06/keychron-packs-ces-2026-with-upgraded-q-and-v-series-mechanical-keyboards?utm_source=rss)
+ - [The Vivoo FlowPad turns menstrual pads into an at-home hormone test](https://www.theverge.com/tech/849643/ces-2026-vivoo-flowpad-menstrual-pad-hormones-wearable-health)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
