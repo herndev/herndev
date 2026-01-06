@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
- - ⏩ [Wait... What?!](http://9gag.com/gag/axy88jD)
- - 👉 [I&#39;m not risking it, happy little onion has my full attention](http://9gag.com/gag/aNDX8g3)<!-- MEMES:END -->
+ - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
+ - ⏩ [FAFO Indian edition](http://9gag.com/gag/apRXXPB)
+ - 👉 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)<!-- MEMES:END -->
 
 ---
 
