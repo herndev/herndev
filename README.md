@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Habibi](http://9gag.com/gag/aYQBZpx)
- - ⏩ [`Do as I do`](http://9gag.com/gag/aPA0zMQ)
- - 👉 [Happily socialising before the first cup of coffee is a sign of a psychopath](http://9gag.com/gag/amoyKxo)<!-- MEMES:END -->
+ - 💣 [OneDrive really out here deleting files like it&#39;s a game](http://9gag.com/gag/axy8Q9Y)
+ - ⏩ [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
+ - 👉 [Bad ride](http://9gag.com/gag/ayNAZjq)<!-- MEMES:END -->
 
 ---
 
