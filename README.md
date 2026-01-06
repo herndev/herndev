@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Romeo Is a Dead Man is a chaotic and funny sci-fi adventure](https://www.polygon.com/romeo-is-a-dead-man-preview-impressions-sci-fi-adventure/)
- - [Qualcomm unveils the Snapdragon X2 Plus, with up to 35% more single-core CPU performance and 29% faster GPUs than X Plus chips](https://www.pcgamer.com/hardware/processors/qualcomm-unveils-the-snapdragon-x2-plus-with-up-to-35-percent-more-single-core-cpu-performance-and-29-percent-faster-gpus-than-x-plus-chips/)
- - [Apple iPad &lpar;11″, A16 Chip&rpar; Holds Its Holiday Clearance Price With Extended New Year Deals](https://kotaku.com/apple-ipad-11-a16-chip-holds-its-holiday-clearance-price-with-extended-new-year-deals-2000657109)<!-- GAME:END -->
+ - [Hostel at 20: The horror movie&#39;s legacy is so much more than &#39;torture porn&#39;](https://www.polygon.com/hostel-20-year-anniversary-eli-roth-torture-porn-horror/)
+ - [Rockstar still hasn&#39;t offered a convincing reason for firing over 30 GTA 6 developers](https://www.pcgamer.com/gaming-industry/rockstar-still-hasnt-offered-a-convincing-reason-for-firing-over-30-gta-6-developers/)
+ - [&#39;Not bad for a dead game&#39;: Palworld managed to get four nominations in Steam&#39;s Best of 2025 Awards, including 2nd place for most played game](https://www.pcgamer.com/games/survival-crafting/not-bad-for-a-dead-game-palworld-managed-to-get-four-nominations-in-2025s-steam-awards-including-2nd-place-for-most-played-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
