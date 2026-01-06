@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rokid’s new smart glasses might be the best Ray-Ban Meta alternative &lpar;for now&rpar;](https://www.androidauthority.com/rokid-ai-glasses-style-3628246/)
- - [Mooncool TK1 Folding Electric Trike review: good first e-trike, if simple &amp; expensive](https://appleinsider.com/articles/26/01/06/mooncool-tk1-folding-electric-trike-review-good-first-e-trike-if-simple-expensive?utm_source=rss)
- - [Nvidia announces the Alpamayo family of AI models, tools, and datasets for AVs, and details a collaboration with Mercedes-Benz on its first full-stack AV effort &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/260105/p32#a260105p32)<!-- TECH:END -->
+ - [The taint bandaid has evolved into the taint zapper](https://www.theverge.com/tech/855841/ces-2026-mor-morari-inc-taint-zapper-sex-tech-wearables)
+ - [Nvidia says it&#39;s seeing &quot;strong&quot; demand from China for its H200 chips but is awaiting approvals from both Washington and Beijing before sales could begin &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260105/p36#a260105p36)
+ - [Apple&#39;s macOS Tahoe adds icons to every menu item, resulting in menus that are hard to use and go against the long-standing Macintosh Human Interface Guidelines &lpar;Niki Tonsky/tonsky.me&rpar;](http://www.techmeme.com/260105/p35#a260105p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
