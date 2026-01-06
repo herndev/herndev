@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Influencer content is fuel for an internet-obsessed administration](https://www.theverge.com/tech/856948/nick-shirley-minnesota-daycare-fraud-influencer-media-cycle)
- - [Mobileye is acquiring Israeli humanoid robot startup Mentee Robotics in a cash-and-stock deal valued at $900M; Mentee was founded in 2022 and has raised $50M &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/260106/p35#a260106p35)<!-- TECH:END -->
+ - [Jake Sullivan is furious that Trump destroyed his AI foreign policy](https://www.theverge.com/policy/856815/jake-sullivan-interview-ai-chips-nvidia-trump)
+ - [Google VP confirms not all Chromebooks will be able to migrate to Aluminium OS](https://www.androidauthority.com/google-reaffirms-continued-chrome-os-support-3630060/)
+ - [Grok Is Pushing AI ‘Undressing’ Mainstream](https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
