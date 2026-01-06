@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad ride](http://9gag.com/gag/ayNAZjq)
- - ⏩ [Safe mode activated](http://9gag.com/gag/apRXjwW)
- - 👉 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)<!-- MEMES:END -->
+ - 💣 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
+ - ⏩ [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
+ - 👉 [Safe mode activated](http://9gag.com/gag/apRXjwW)<!-- MEMES:END -->
 
 ---
 
