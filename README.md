@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini has entered the projector chat](https://www.androidauthority.com/epson-projectors-google-tv-gemini-3628323/)
- - [Power bank feature creep is out of control](https://www.theverge.com/tech/856225/power-banks-are-the-latest-victims-of-feature-creep)
- - [Intricuit&#39;s Magic Screen adds touch support to the MacBook Pro display](https://appleinsider.com/articles/26/01/06/intricuits-magic-screen-adds-touch-support-to-the-macbook-pro-display?utm_source=rss)<!-- TECH:END -->
+ - [AI moves into the real world as companion robots and pets](https://www.theverge.com/news/856207/ces-2026-trend-ai-companion-robot-pet)
+ - [Google and XREAL are doubling down on their Android XR partnership](https://www.androidauthority.com/google-xreal-android-xr-hardware-partnership-3630000/)
+ - [Nvidia brings its G-Sync Pulsar tech to four monitors, which reduces motion blur by using a &quot;rolling scan&quot; scheme that briefly pulses the monitors&#39; backlight &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/260106/p29#a260106p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
