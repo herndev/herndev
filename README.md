@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Prime free PC games for January 2026 announced](https://www.polygon.com/amazon-prime-gaming-free-games-january-2026/)
- - [MTV Simulator Features 25,000+ Music Videos And Is Very Cool](https://kotaku.com/mtv-simulator-features-25000-music-videos-and-is-very-cool-2000657223)
- - [Magic just revealed its Lorwyn Eclipsed precon decklists, and they&#39;re both shockingly powerful](https://www.polygon.com/mtg-lorwyn-eclipsed-commander-decks-decklists-spoiler-reveal/)<!-- GAME:END -->
+ - [Fantasy FPS Where You Shoot Skeletons To Stop The Game From Crashing Looks Incredible](https://kotaku.com/fantasy-fps-where-you-shoot-skeletons-to-stop-the-game-from-crashing-looks-incredible-2000657233)
+ - [&#39;The game isn&#39;t about shooting other players&#39;: Embark CEO says Arc Raiders is unlikely to get a PvP leaderboard because the devs &#39;don&#39;t necessarily want to foster that kind of gameplay&#39;](https://www.pcgamer.com/games/third-person-shooter/the-game-isnt-about-shooting-other-players-embark-ceo-says-arc-raiders-is-unlikely-to-get-a-pvp-leaderboard-because-the-devs-dont-necessarily-want-to-foster-that-kind-of-gameplay/)
+ - [The Joker movie DC didn&#39;t want you to see streams for free on Tubi this month](https://www.polygon.com/the-peoples-joker-streaming-tubi-january-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
