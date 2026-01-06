@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This free feature helps make stolen Bosch e-bikes unsellable](https://www.theverge.com/tech/856120/this-free-feature-helps-make-stolen-bosch-e-bikes-unsellable)
- - [Even if AI could take over every job, humans will invent new work for themselves, because we value human effort and connection, not just output &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260106/p7#a260106p7)
- - [Samsung’s upcoming Galaxy Buds 4 Pro may arrive in a special fruity color](https://www.androidauthority.com/samsung-galaxy-buds-4-pro-color-leak-3629731/)<!-- TECH:END -->
+ - [Is this the folding iPhone&amp;#8217;s creaseless display?](https://www.theverge.com/news/856141/samsung-display-creaseless-panel-foldable-iphone-ces)
+ - [YouTube Music is getting flooded with AI slop, and paid users are fuming](https://www.androidauthority.com/youtube-music-ai-slop-recommendation-issues-3629759/)
+ - [This free feature helps make stolen Bosch e-bikes unsellable](https://www.theverge.com/tech/856120/this-free-feature-helps-make-stolen-bosch-e-bikes-unsellable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
