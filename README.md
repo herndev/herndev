@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
- - ⏩ [Bad ride](http://9gag.com/gag/ayNAZjq)
- - 👉 [Fatigue](http://9gag.com/gag/a9yeV56)<!-- MEMES:END -->
+ - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
+ - ⏩ [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
+ - 👉 [Bad ride](http://9gag.com/gag/ayNAZjq)<!-- MEMES:END -->
 
 ---
 
