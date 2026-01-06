@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus finally gives its ROG Zephyrus Duo gaming laptop the true dual screens it deserves](https://www.theverge.com/news/851827/asus-rog-zephyrus-duo-dual-screen-gaming-laptop-ces-2026)
- - [Intel details its 2nm 18A-process Panther Lake chips, showing major performance gains; laptops with Panther Lake Core Ultra Series 3 chips will debut on Jan. 27 &lpar;Michael Justin Allen Sexton/PCMag&rpar;](http://www.techmeme.com/260105/p30#a260105p30)
- - [Dell brings back XPS branding with the new XPS 14 and 16 laptops, which address some complaints about the previous XPS design but lack dedicated GPU support &lpar;Rich Woods/XDA Developers&rpar;](http://www.techmeme.com/260105/p29#a260105p29)<!-- TECH:END -->
+ - [Rokid’s new smart glasses might be the best Ray-Ban Meta alternative &lpar;for now&rpar;](https://www.androidauthority.com/rokid-ai-glasses-style-3628246/)
+ - [Mooncool TK1 Folding Electric Trike review: good first e-trike, if simple &amp; expensive](https://appleinsider.com/articles/26/01/06/mooncool-tk1-folding-electric-trike-review-good-first-e-trike-if-simple-expensive?utm_source=rss)
+ - [Nvidia announces the Alpamayo family of AI models, tools, and datasets for AVs, and details a collaboration with Mercedes-Benz on its first full-stack AV effort &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/260105/p32#a260105p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
