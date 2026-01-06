@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI moves into the real world as companion robots and pets](https://www.theverge.com/news/856207/ces-2026-trend-ai-companion-robot-pet)
- - [Google and XREAL are doubling down on their Android XR partnership](https://www.androidauthority.com/google-xreal-android-xr-hardware-partnership-3630000/)
- - [Nvidia brings its G-Sync Pulsar tech to four monitors, which reduces motion blur by using a &quot;rolling scan&quot; scheme that briefly pulses the monitors&#39; backlight &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/260106/p29#a260106p29)<!-- TECH:END -->
+ - [These Luxurious Headphones Are Almost Half Off](https://www.wired.com/story/bowers-wilkins-px8-deal-126/)
+ - [The biggest Nvidia announcements at CES 2026](https://www.theverge.com/tech/856439/nvidia-ces-2026-announcements-roundup)
+ - [Save $250 on Apple&#39;s M4 MacBook Air with 32GB RAM](https://appleinsider.com/articles/26/01/06/save-250-on-apples-m4-macbook-air-with-32gb-ram?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
