@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 9&#39;s prequels reveal Alyssa Ashcroft&#39;s intriguing backstory](https://www.polygon.com/resident-evil-requiem-re9-prequels-outbreak-alyssa-ashcroft/)
- - [Star Wars and Resident Evil give Xbox Game Pass a strong 2026 start](https://www.polygon.com/xbox-game-pass-january-2026-new-star-wars-outlaws-resident-evil/)
- - [GTA 6 could wreak havoc on the 2026 game release schedule](https://www.polygon.com/gta-6-release-date-2026-aaa-games-schedule/)<!-- GAME:END -->
+ - [They Made A $300 Rumble Pack For Your Taint](https://kotaku.com/mor-taint-bandage-rumble-pack-sex-ejaculation-orgasm-app-2000657182)
+ - [Roblox Player Performs Speedrunning Forensics To Uncover Fraud And Win Back World Record](https://kotaku.com/roblox-fall-guys-speedrun-world-record-fraud-2000657154)
+ - [Phison&#39;s E37T controller could make PCIe 5.0 SSDs faster, cooler and *get this* slightly less pricey](https://www.pcgamer.com/hardware/ssds/phisons-e37t-memory-controller-could-make-pcie-5-ssds-faster-cooler-and-get-this-slightly-less-pricey/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
