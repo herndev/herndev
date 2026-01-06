@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Find My comes to Moft&#39;s new magnetic iPhone accessories](https://appleinsider.com/articles/26/01/06/find-my-comes-to-mofts-new-magnetic-iphone-accessories?utm_source=rss)
- - [Keychron packs CES 2026 with upgraded Q and V series mechanical keyboards](https://appleinsider.com/articles/26/01/06/keychron-packs-ces-2026-with-upgraded-q-and-v-series-mechanical-keyboards?utm_source=rss)
- - [The Vivoo FlowPad turns menstrual pads into an at-home hormone test](https://www.theverge.com/tech/849643/ces-2026-vivoo-flowpad-menstrual-pad-hormones-wearable-health)<!-- TECH:END -->
+ - [A simple fix for the interface-breaking bug on YouTube Clips](https://appleinsider.com/articles/26/01/06/a-simple-fix-for-the-interface-breaking-bug-on-youtube-clips?utm_source=rss)
+ - [AMD unveils Ryzen AI 400 Series AI PC chips with 12 CPU cores, claiming 1.3x faster multitasking and 1.7x faster content creation than rivals &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/260105/p39#a260105p39)
+ - [Jensen Huang says Nvidia&#39;s Vera Rubin chips are in &quot;full production&quot;; Nvidia says Rubin can train some LLMs with roughly one-fourth the chips Blackwell needs &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/260105/p38#a260105p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
