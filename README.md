@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is this the folding iPhone&amp;#8217;s creaseless display?](https://www.theverge.com/news/856141/samsung-display-creaseless-panel-foldable-iphone-ces)
- - [YouTube Music is getting flooded with AI slop, and paid users are fuming](https://www.androidauthority.com/youtube-music-ai-slop-recommendation-issues-3629759/)
- - [This free feature helps make stolen Bosch e-bikes unsellable](https://www.theverge.com/tech/856120/this-free-feature-helps-make-stolen-bosch-e-bikes-unsellable)<!-- TECH:END -->
+ - [No, Microsoft didn’t rebrand Office to Microsoft 365 Copilot](https://www.theverge.com/tech/856149/microsoft-365-office-rebrand-copilot)
+ - [Singapore-based data center operator DayOne raised a $2B Series C led by Coatue to build hyperscale campuses in Lahti and Kouvola, Finland, and elsewhere &lpar;Reuters&rpar;](http://www.techmeme.com/260106/p8#a260106p8)
+ - [6 Best Gym Bags for Every Workout and Commute &lpar;2026&rpar;](https://www.wired.com/story/best-gym-bags/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
