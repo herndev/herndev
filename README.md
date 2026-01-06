@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Safe mode activated](http://9gag.com/gag/apRXjwW)
- - ⏩ [FAFO Indian edition](http://9gag.com/gag/apRXXPB)
- - 👉 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)<!-- MEMES:END -->
+ - 💣 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
+ - ⏩ [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
+ - 👉 [Old Man making vlog about his hobby](http://9gag.com/gag/ayNAVwy)<!-- MEMES:END -->
 
 ---
 
