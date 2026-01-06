@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia looks to further eradicate motion blur with new G-Sync Pulsar improvements for &#39;4x the effective motion clarity&#39;](https://www.pcgamer.com/hardware/gaming-monitors/nvidia-looks-to-further-eradicate-motion-blur-with-new-g-sync-pulsar-improvements-for-4x-the-effective-motion-clarity/)
  - [Dell&#39;s CES 2026 chat was the most pleasingly un-AI briefing I&#39;ve had in maybe 5 years](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
- - [Intel says its graphics drivers are now &#39;light years ahead of where we were a few years ago&#39;, and they&#39;ll need to be if it&#39;s going to tempt gamers towards its new iGPUs](https://www.pcgamer.com/hardware/processors/intel-says-its-graphics-drivers-are-now-light-years-ahead-of-where-we-were-a-few-years-ago-and-theyll-need-to-be-if-its-going-to-tempt-gamers-towards-its-new-igpus/)
- - [Intel&#39;s new top-end Core Ultra Series 3 mobile chips promise up to 77% faster iGPU gaming performance than Lunar Lake, and come with a whole host of friends](https://www.pcgamer.com/hardware/processors/intels-new-top-end-core-ultra-series-3-mobile-chips-promise-up-to-77-percent-faster-igpu-gaming-performance-than-lunar-lake-and-come-with-a-whole-host-of-friends/)<!-- GAME:END -->
+ - [Intel says its graphics drivers are now &#39;light years ahead of where we were a few years ago&#39;, and they&#39;ll need to be if it&#39;s going to tempt gamers towards its new iGPUs](https://www.pcgamer.com/hardware/processors/intel-says-its-graphics-drivers-are-now-light-years-ahead-of-where-we-were-a-few-years-ago-and-theyll-need-to-be-if-its-going-to-tempt-gamers-towards-its-new-igpus/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
