@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Things star Joe Keery&#39;s twisted 2020 thriller is blowing up on streaming](https://www.polygon.com/spree-joe-keery-movie-streaming-free-tubi/)
- - [Coyote vs. ACME is equal parts “courtroom drama” and “buddy comedy,” says voice actor Eric Bauza](https://www.polygon.com/voice-actor-eric-bauza-says-coyote-vs-acme-is-equal-parts-courtroom-drama-and-buddy-comedy/)
- - [Enjoy Discord While You Can](https://kotaku.com/gta-6-discord-union-rockstar-leaks-2000657761)<!-- GAME:END -->
+ - [Forgotten Realms creator Ed Greenwood on RealmsBound’s new approach to D&amp;D](https://www.polygon.com/dnd-realmsbound-forgotten-realms-2026/)
+ - [South Park&#39;s Fortnite crossover is full of deep cuts &lpar;and mech suits&rpar;](https://www.polygon.com/fortnite-south-park-event-skins-sidekicks-trailer/)
+ - [The Full South Park Trailer For Fortnite Has Already Leaked Featuring Cartmanland, Towelie, And More](https://kotaku.com/south-park-fortnite-trailer-leak-cartman-towlie-butters-2000657792)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
