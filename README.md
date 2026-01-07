@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GWI: LinkedIn&#39;s 2025 revenue rose to $17B from $7B in 2020 as users doubled to 1.3B; 4.7% of US users checked more than once per day in 2025, from 3.9% in 2020 &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p9#a260107p9)
- - [YouTube’s long unskippable ads may have finally met their match](https://www.androidauthority.com/youtube-unskippable-ads-rules-vietnam-3630307/)
- - [Forget massive TVs: These new 4K projectors are built for performance and Dolby Vision Gaming](https://www.androidauthority.com/awol-vision-aetherion-max-pro-projectors-3630301/)<!-- TECH:END -->
+ - [Chinese AI startups Zhipu and MiniMax are set to go public in Hong Kong on January 8 and 9, respectively; MiniMax has 210M+ users, and Zhipu has 8,000+ clients &lpar;Bloomberg&rpar;](http://www.techmeme.com/260107/p10#a260107p10)
+ - [Deal: Score massive $140 savings on the 2024 Kindle Scribe](https://www.androidauthority.com/deal-2024-kindle-scribe-3630390/)
+ - [This GaN-powered Qi2.2 charging station wants to replace your power strip, speaker, and desk hub](https://www.androidauthority.com/pisen-idock-charging-station-ces-2026-3630372/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
