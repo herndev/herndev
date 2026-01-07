@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Therabody Promo Codes: 15% Off January 2026](https://www.wired.com/story/therabody-promo-code/)
- - [Tuft &amp; Needle Promo Codes: 20% Off | January 2026](https://www.wired.com/story/tuft-and-needle-promo-code/)
- - [20% Off Home Depot Promo Code](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
+ - [A look at Kalshi and Polymarket&#39;s lucrative shift toward sports, as high-profile real-world bets raise questions about access, integrity, and US CFTC regulation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260107/p8#a260107p8)
+ - [As data center development pressures power grids, officials have proposed requiring data centers to power down or switch to a backup when blackout risks rise &lpar;Katherine Blunt/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p7#a260107p7)
+ - [Achieve Your Goals in 2026 With These 5 Expert Tips](https://www.cnet.com/health/never-too-late-new-years-resolution-tips-reaching-your-goals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
