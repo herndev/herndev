@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forgotten Realms creator Ed Greenwood on RealmsBound’s new approach to D&amp;D](https://www.polygon.com/dnd-realmsbound-forgotten-realms-2026/)
- - [South Park&#39;s Fortnite crossover is full of deep cuts &lpar;and mech suits&rpar;](https://www.polygon.com/fortnite-south-park-event-skins-sidekicks-trailer/)
- - [The Full South Park Trailer For Fortnite Has Already Leaked Featuring Cartmanland, Towelie, And More](https://kotaku.com/south-park-fortnite-trailer-leak-cartman-towlie-butters-2000657792)<!-- GAME:END -->
+ - [Path of Exile 2 players suffer the consequences of dealing illegal amounts of damage as boss shrugs off a 95M-damage hit](https://www.pcgamer.com/games/rpg/path-of-exile-2-players-suffer-the-consequences-of-dealing-illegal-amounts-of-damage-as-boss-shrugs-off-a-95m-damage-hit/)
+ - [Diablo 4&#39;s Paladin and Season 11 make it better than ever](https://www.polygon.com/diablo-4-paladin-season-11-impressions/)
+ - [I Finally Understand Why People Don’t Finish Games They Love](https://kotaku.com/pokemon-legends-za-mega-dimension-how-long-to-beat-2000657800)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
