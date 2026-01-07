@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How folder emoji &amp; customization works in macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-folder-emoji-customization-works-in-macos-tahoe?utm_source=rss)
- - [Ring camera owners are getting some major upgrades in 2026](https://www.androidauthority.com/ring-camera-upgrades-2026-3630132/)
- - [Intel is planning a custom Panther Lake CPU for handheld PCs](https://www.theverge.com/tech/857252/intel-handheld-gaming-pc-panther-lake-custom-cpu)<!-- TECH:END -->
+ - [Filing: Larry Page moved assets out of California ahead of the proposed CA wealth tax, meeting an end-of-2025 deadline; a source said he has left the state &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/260106/p43#a260106p43)
+ - [Motorola unveils the Razr Fold, its first book-style foldable phone, with a 6.6&quot; front display and an 8.1&quot; 2K LTPO inner screen, expected to launch this summer &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260106/p42#a260106p42)
+ - [CES 2026 Live: All the New AI Devices, Home Tech, Robots, Audio, Cars and Computing](https://www.cnet.com/news-live/ces-2026-news-live-updates/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
