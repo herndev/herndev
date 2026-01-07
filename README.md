@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox now requires an age check if you want to chat](https://www.theverge.com/news/856696/roblox-age-check-estimation-chat)
- - [Filing: Samsung plans to acquire $1.73B of its stock for employee and executive compensation, as part of a performance-linked scheme introduced in October 2025 &lpar;Kyu-seok Shim/Reuters&rpar;](http://www.techmeme.com/260107/p14#a260107p14)
- - [Google could soon let you play paid Android games for free &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-try-before-you-buy-apk-teardown-3630383/)<!-- TECH:END -->
+ - [Memo: JPMorgan&#39;s asset management unit cuts ties with proxy advisory firms to use its AI-powered Proxy IQ platform to assist on US votes, an industry first &lpar;Jack Pitcher/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p20#a260107p20)
+ - [Future iPhones may utilize multi-spectral cameras for Apple Intelligence](https://appleinsider.com/articles/26/01/07/future-iphones-may-utilize-multi-spectral-cameras-for-apple-intelligence?utm_source=rss)
+ - [London-based data center company GTR raised $1.5B from KKR and ~$400M from Oak Hill to develop its facilities in England, Barcelona, Zurich, and Tel Aviv &lpar;Financial Times&rpar;](http://www.techmeme.com/260107/p19#a260107p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
