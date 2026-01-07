@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only reason I miss summer is](http://9gag.com/gag/a2vVAQw)
- - ⏩ [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
- - 👉 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)<!-- MEMES:END -->
+ - 💣 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
+ - ⏩ [Me with my produce every single time](http://9gag.com/gag/aW4Aedd)
+ - 👉 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)<!-- MEMES:END -->
 
 ---
 
