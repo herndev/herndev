@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
- - ⏩ [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
+ - 💣 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
+ - ⏩ [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
  - 👉 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)<!-- MEMES:END -->
 
 ---
