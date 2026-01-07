@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ninja Luxe Cafe Premier Espresso Machine Review: Beginner’s Luck](https://www.wired.com/review/luxe-cafe-premier-series-automatic-espresso-machine/)
- - [Spotify adds real-time listening activity to Messages, with group chats coming soon](https://www.androidauthority.com/spotify-messages-listening-activity-request-to-jam-3630507/)
- - [As Trump and Big Tech aim to build SMRs to win the AI race, a look at the issues they face; none of the 50 SMRs under development have a US operating license &lpar;Jamie Smyth/Financial Times&rpar;](http://www.techmeme.com/260107/p22#a260107p22)<!-- TECH:END -->
+ - [Polymarket agrees to its first media partnership to supply Dow Jones outlets, including the WSJ and Barron&#39;s, with real-time prediction market trading data &lpar;Katherine Doherty/Bloomberg&rpar;](http://www.techmeme.com/260107/p27#a260107p27)
+ - [Breville Luxe Brewer Review &lpar;2025&rpar;: Good Drip, Real Cold Brew](https://www.wired.com/review/breville-luxe-brewer-drip-coffeemaker/)
+ - [T-Mobile’s new Better Value Plan promises value its rivals can’t beat, but will it deliver?](https://www.androidauthority.com/t-mobile-better-value-plan-3630522/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
