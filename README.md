@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
- - ⏩ [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
- - 👉 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)<!-- MEMES:END -->
+ - 💣 [Tongue tricks](http://9gag.com/gag/aO8OAXE)
+ - ⏩ [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)
+ - 👉 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)<!-- MEMES:END -->
 
 ---
 
