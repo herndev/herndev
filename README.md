@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sony patents AI-powered &#39;ghost&#39; that shows you how to get past videogame obstacles, and can even play the hard bits for you](https://www.pcgamer.com/gaming-industry/sony-patents-ai-powered-ghost-that-shows-you-how-to-get-past-videogame-obstacles-and-can-even-play-the-hard-bits-for-you/)
  - [We might have a new contender for the best handheld gaming PC, because Lenovo&#39;s just announced a SteamOS version of its mega Legion Go 2](https://www.pcgamer.com/hardware/handheld-gaming-pcs/we-might-have-a-new-contender-for-the-best-handheld-gaming-pc-because-lenovos-just-announced-a-steamos-version-of-its-mega-legion-go-2/)
- - [Amazon&#39;s live-action Tomb Raider show announces the rest of its cast, including Sigourney Weaver and Jason Isaacs](https://www.pcgamer.com/movies-tv/amazons-live-action-tomb-raider-show-announces-the-rest-of-its-cast-including-sigourney-weaver-and-jason-isaacs/)
- - [It&#39;s not weird to want a generative AI disclosure on games](https://www.pcgamer.com/software/ai/its-not-weird-to-want-a-generative-ai-disclosure-on-games/)<!-- GAME:END -->
+ - [Amazon&#39;s live-action Tomb Raider show announces the rest of its cast, including Sigourney Weaver and Jason Isaacs](https://www.pcgamer.com/movies-tv/amazons-live-action-tomb-raider-show-announces-the-rest-of-its-cast-including-sigourney-weaver-and-jason-isaacs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
