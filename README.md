@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve seen Nvidia&#39;s G-Sync Pulsar in action and it&#39;s kinda ruined all other gaming monitors for me](https://www.pcgamer.com/hardware/gaming-monitors/ive-seen-nvidias-g-sync-pulsar-in-action-and-its-kinda-ruined-all-other-gaming-monitors-for-me/)
- - [Sony patents AI-powered &#39;ghost&#39; that shows you how to get past videogame obstacles, and can even play the hard bits for you](https://www.pcgamer.com/gaming-industry/sony-patents-ai-powered-ghost-that-shows-you-how-to-get-past-videogame-obstacles-and-can-even-play-the-hard-bits-for-you/)
- - [We might have a new contender for the best handheld gaming PC, because Lenovo&#39;s just announced a SteamOS version of its mega Legion Go 2](https://www.pcgamer.com/hardware/handheld-gaming-pcs/we-might-have-a-new-contender-for-the-best-handheld-gaming-pc-because-lenovos-just-announced-a-steamos-version-of-its-mega-legion-go-2/)<!-- GAME:END -->
+ - [Lenovo&#39;s Las Vegas Sphere event delivered an absolute barrage of AI announcements, but at least we got this, err, FIFA-themed Legion gaming laptop](https://www.pcgamer.com/hardware/gaming-laptops/lenovos-las-vegas-sphere-event-delivered-an-absolute-barrage-of-ai-announcements-but-at-least-we-got-this-err-fifa-themed-legion-gaming-laptop/)
+ - [Fallout Season 2 Episode 4 recap: &#39;More matching jackets&#39;](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-4-recap-more-matching-jackets/)
+ - [I&#39;ve seen Nvidia&#39;s G-Sync Pulsar in action and it&#39;s kinda ruined all other gaming monitors for me](https://www.pcgamer.com/hardware/gaming-monitors/ive-seen-nvidias-g-sync-pulsar-in-action-and-its-kinda-ruined-all-other-gaming-monitors-for-me/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
