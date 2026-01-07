@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the huge data center buildout is heating up local politics in US towns across red and blue states on issues like water, electricity, and noise &lpar;Evan Halper/Washington Post&rpar;](http://www.techmeme.com/260106/p39#a260106p39)
- - [Let there be light! Wireless light-based Li-Fi looks to solve some of Wi-Fi’s problems](https://www.androidauthority.com/purelifi-ces-3630084/)
- - [Samsung and Intel&amp;#8217;s OLED tech makes HDR easier on laptop battery life](https://www.theverge.com/news/857229/samsung-display-intel-oled-smartpower-hdr)<!-- TECH:END -->
+ - [Lenovo is building an AI assistant that ‘can act on your behalf’](https://www.theverge.com/column/857053/lenovo-ai-assistant-qira)
+ - [Lenovo introduces Qira, a system-level, cross-device AI assistant for both its computers and Motorola smartphones, arriving later this quarter &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/260106/p41#a260106p41)
+ - [Sources: Chinese officials are reviewing Meta&#39;s purchase of Manus for possible technology export control violations &lpar;Financial Times&rpar;](http://www.techmeme.com/260106/p40#a260106p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
