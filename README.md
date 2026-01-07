@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wolfenstein 3 Is In The Works From Indiana Jones And The New Colossus Developers MachineGames](https://kotaku.com/wolfenstein-3-in-development-machinegames-bethesda-2000657758)
- - [Amazon&#39;s Fallout website is counting down to something, and fans are hoping the long-awaited Fallout 3 remaster &lpar;or maybe even New Vegas&rpar; is finally on the way](https://www.pcgamer.com/movies-tv/amazons-fallout-website-is-counting-down-to-something-and-fans-are-hoping-the-long-awaited-fallout-3-remaster-or-maybe-even-new-vegas-is-finally-on-the-way/)
- - [Disneyland Line Cutter Beats Up Dad In Front Of Family](https://kotaku.com/disneyland-line-cutter-beats-up-dad-in-front-of-family-2000657760)<!-- GAME:END -->
+ - [Stranger Things star Joe Keery&#39;s twisted 2020 thriller is blowing up on streaming](https://www.polygon.com/spree-joe-keery-movie-streaming-free-tubi/)
+ - [Coyote vs. ACME is equal parts “courtroom drama” and “buddy comedy,” says voice actor Eric Bauza](https://www.polygon.com/voice-actor-eric-bauza-says-coyote-vs-acme-is-equal-parts-courtroom-drama-and-buddy-comedy/)
+ - [Enjoy Discord While You Can](https://kotaku.com/gta-6-discord-union-rockstar-leaks-2000657761)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
