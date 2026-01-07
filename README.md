@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polymarket agrees to its first media partnership to supply Dow Jones outlets, including the WSJ and Barron&#39;s, with real-time prediction market trading data &lpar;Katherine Doherty/Bloomberg&rpar;](http://www.techmeme.com/260107/p27#a260107p27)
- - [Breville Luxe Brewer Review &lpar;2025&rpar;: Good Drip, Real Cold Brew](https://www.wired.com/review/breville-luxe-brewer-drip-coffeemaker/)
- - [T-Mobile’s new Better Value Plan promises value its rivals can’t beat, but will it deliver?](https://www.androidauthority.com/t-mobile-better-value-plan-3630522/)<!-- TECH:END -->
+ - [T-Mobile just announced its first fee increase of the year: Here’s what is changing](https://www.androidauthority.com/t-mobile-fee-increase-3630587/)
+ - [L’Oréal’s new LED face masks address all my issues with this category](https://www.theverge.com/tech/857164/ces-2026-hands-on-loreal)
+ - [Toilet cameras and musical lollipops: The weird side of CES 2026](https://appleinsider.com/articles/26/01/07/toilet-cameras-and-musical-lollipops-the-weird-side-of-ces-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
