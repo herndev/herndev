@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The demo of Flock Around has made me realise I don&#39;t have the skills to be a wildlife photographer, but I&#39;d certainly give it my best shot](https://www.pcgamer.com/games/sim/the-demo-of-flock-around-has-made-me-realise-i-dont-have-the-skills-to-be-a-wildlife-photographer-but-id-certainly-give-it-my-best-shot/)
  - [Lenovo&#39;s Las Vegas Sphere event delivered an absolute barrage of AI announcements, but at least we got this, err, FIFA-themed Legion gaming laptop](https://www.pcgamer.com/hardware/gaming-laptops/lenovos-las-vegas-sphere-event-delivered-an-absolute-barrage-of-ai-announcements-but-at-least-we-got-this-err-fifa-themed-legion-gaming-laptop/)
- - [Fallout Season 2 Episode 4 recap: &#39;More matching jackets&#39;](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-4-recap-more-matching-jackets/)
- - [I&#39;ve seen Nvidia&#39;s G-Sync Pulsar in action and it&#39;s kinda ruined all other gaming monitors for me](https://www.pcgamer.com/hardware/gaming-monitors/ive-seen-nvidias-g-sync-pulsar-in-action-and-its-kinda-ruined-all-other-gaming-monitors-for-me/)<!-- GAME:END -->
+ - [Fallout Season 2 Episode 4 recap: &#39;More matching jackets&#39;](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-4-recap-more-matching-jackets/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
