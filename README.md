@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: JPMorgan&#39;s asset management unit cuts ties with proxy advisory firms to use its AI-powered Proxy IQ platform to assist on US votes, an industry first &lpar;Jack Pitcher/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p20#a260107p20)
- - [Future iPhones may utilize multi-spectral cameras for Apple Intelligence](https://appleinsider.com/articles/26/01/07/future-iphones-may-utilize-multi-spectral-cameras-for-apple-intelligence?utm_source=rss)
- - [London-based data center company GTR raised $1.5B from KKR and ~$400M from Oak Hill to develop its facilities in England, Barcelona, Zurich, and Tel Aviv &lpar;Financial Times&rpar;](http://www.techmeme.com/260107/p19#a260107p19)<!-- TECH:END -->
+ - [Beatbot’s AquaSense X shows how far robotic pool care has come at CES 2026](https://www.androidauthority.com/beatbot-aquasense-x-sora-70-3628299/)
+ - [Ikea is expanding its Matter support to two stylish lamps](https://www.theverge.com/tech/853143/ikea-smart-home-matter-varmblixt-donut-color-changing-pendant-lamp)
+ - [Netflix is bringing back some big franchises in 2026](https://www.theverge.com/streaming/856756/netflix-2026-releases-bridgerton-one-piece-3-body)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
