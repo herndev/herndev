@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me with my produce every single time](http://9gag.com/gag/aW4Aedd)
- - ⏩ [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
- - 👉 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)<!-- MEMES:END -->
+ - 💣 [Tongue tricks](http://9gag.com/gag/aO8OAXE)
+ - ⏩ [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
+ - 👉 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)<!-- MEMES:END -->
 
 ---
 
