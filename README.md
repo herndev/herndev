@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Say when](http://9gag.com/gag/aqyOO1R)
- - ⏩ [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
- - 👉 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)<!-- MEMES:END -->
+ - 💣 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
+ - ⏩ [Say when](http://9gag.com/gag/aqyOO1R)
+ - 👉 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)<!-- MEMES:END -->
 
 ---
 
