@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Path of Exile 2 players suffer the consequences of dealing illegal amounts of damage as boss shrugs off a 95M-damage hit](https://www.pcgamer.com/games/rpg/path-of-exile-2-players-suffer-the-consequences-of-dealing-illegal-amounts-of-damage-as-boss-shrugs-off-a-95m-damage-hit/)
- - [Diablo 4&#39;s Paladin and Season 11 make it better than ever](https://www.polygon.com/diablo-4-paladin-season-11-impressions/)
- - [I Finally Understand Why People Don’t Finish Games They Love](https://kotaku.com/pokemon-legends-za-mega-dimension-how-long-to-beat-2000657800)<!-- GAME:END -->
+ - [PlayStation’s YouTube Channel Shares The Good News About Ebola Village, Which Definitely Isn’t A Bad Resident Evil Knock-Off](https://kotaku.com/resident-evil-ebola-village-ps5-trailer-youtube-steam-2000657809)
+ - [Call of Duty: Black Ops 7 and Call of Duty: Warzone Season 01 Reloaded: All You Need to Know](https://www.callofduty.com/blog/2026/01/call-of-duty-black-ops-7-warzone-season-01-reloaded#new_tab)
+ - [More than 8 years after The New Colossus, a new Wolfenstein game is reportedly in the works at MachineGames](https://www.pcgamer.com/games/fps/more-than-8-years-after-the-new-colossus-a-new-wolfenstein-game-is-reportedly-in-the-works-at-machinegames/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
