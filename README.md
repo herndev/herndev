@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BloodRayne just turned 20, but its awfulness is forever](https://www.polygon.com/20-years-ago-bloodrayne-helped-kill-off-the-january-movie-as-we-know-it/)
- - [Nvidia&#39;s Jensen Huang has a clear vision for the future of its gaming GPUs and is going to be all about neural rendering: &#39;It is basically DLSS. That’s the way graphics ought to be&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidias-jensen-huang-has-a-clear-vision-for-the-future-of-its-gaming-gpus-and-is-going-to-be-all-about-neural-rendering-it-is-basically-dlss-thats-the-way-graphics-ought-to-be/)
- - [Every Fallout season 2 Easter egg so far](https://www.polygon.com/fallout-season-2-easter-egg-show/)<!-- GAME:END -->
+ - [Xbox Game Pass tiers have gotten way more confusing than necessary](https://www.polygon.com/xbox-game-pass-tiers-pricing-2026/)
+ - [There is a Scooby Doo chibi anime in the works](https://www.polygon.com/scooby-doo-gokko-anime-warner-bros/)
+ - [9 years after it aired, fans discover a Dr Who episode absolutely copy-pasted a Skyrim dragon PNG from a wiki for some background VFX](https://www.pcgamer.com/games/the-elder-scrolls/9-years-after-it-aired-fans-discover-a-dr-who-episode-absolutely-copy-pasted-a-skyrim-dragon-png-from-a-wiki-for-some-background-vfx/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
