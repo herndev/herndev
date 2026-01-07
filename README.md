@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Larry Page moved assets out of California ahead of the proposed CA wealth tax, meeting an end-of-2025 deadline; a source said he has left the state &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/260106/p43#a260106p43)
- - [Motorola unveils the Razr Fold, its first book-style foldable phone, with a 6.6&quot; front display and an 8.1&quot; 2K LTPO inner screen, expected to launch this summer &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260106/p42#a260106p42)
- - [CES 2026 Live: All the New AI Devices, Home Tech, Robots, Audio, Cars and Computing](https://www.cnet.com/news-live/ces-2026-news-live-updates/)<!-- TECH:END -->
+ - [China unveils rules banning major platforms like Alibaba from forcing merchants into discounts or practices seen as disrupting market order, effective February &lpar;Bloomberg&rpar;](http://www.techmeme.com/260107/p1#a260107p1)
+ - [Home Chef Promo Code: 50% Off](https://www.wired.com/story/home-chef-promo-code/)
+ - [That Google Play settlement email you just got is very real](https://www.androidauthority.com/google-play-store-settlement-email-3630167/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
