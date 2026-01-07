@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
- - ⏩ [Say when](http://9gag.com/gag/aqyOO1R)
- - 👉 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)<!-- MEMES:END -->
+ - 💣 [Say when](http://9gag.com/gag/aqyOO1R)
+ - ⏩ [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
+ - 👉 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)<!-- MEMES:END -->
 
 ---
 
