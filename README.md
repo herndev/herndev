@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
- - ⏩ [Tongue tricks](http://9gag.com/gag/aO8OAXE)
- - 👉 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)<!-- MEMES:END -->
+ - 💣 [Collect three Bottle](http://9gag.com/gag/a6ZzzPL)
+ - ⏩ [This is exactly what technology is meant for.](http://9gag.com/gag/aGyqrWG)
+ - 👉 [`I didn&#39;t do nothing` - said woman who tried to trip cops chasing shoplifters](http://9gag.com/gag/aRBGGz7)<!-- MEMES:END -->
 
 ---
 
