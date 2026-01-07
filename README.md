@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cambodia extradites Chen Zhi, the chairman of online scam conglomerate Prince Group, to China; in October, the US DOJ seized $12B in bitcoin belonging to Chen &lpar;Gabriele Steinhauser/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p30#a260107p30)
- - [US judge hits Samsung with restraining order over ‘spying on’ smart TV users](https://www.androidauthority.com/samsung-smart-tv-spying-allegations-3630608/)
- - [Remember the Stock Image Catalog Freepik? Its Makeover for the AI Era Is Ready](https://www.cnet.com/tech/services-and-software/stock-image-catalog-freepik-makeover-for-the-ai-era/)<!-- TECH:END -->
+ - [Samsung&amp;#8217;s Ballie robot is probably never coming out](https://www.theverge.com/news/857864/samsung-ballie-robot-shelved-ces-2026)
+ - [AI Models Are Starting to Learn by Asking Themselves Questions](https://www.wired.com/story/ai-models-keep-learning-after-training-research/)
+ - [OpenAI launches ChatGPT Health, encouraging users to connect their medical records](https://www.theverge.com/ai-artificial-intelligence/857640/openai-launches-chatgpt-health-connect-medical-records)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
