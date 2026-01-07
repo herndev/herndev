@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China unveils rules banning major platforms like Alibaba from forcing merchants into discounts or practices seen as disrupting market order, effective February &lpar;Bloomberg&rpar;](http://www.techmeme.com/260107/p1#a260107p1)
- - [Home Chef Promo Code: 50% Off](https://www.wired.com/story/home-chef-promo-code/)
- - [That Google Play settlement email you just got is very real](https://www.androidauthority.com/google-play-store-settlement-email-3630167/)<!-- TECH:END -->
+ - [Therabody Promo Codes: 15% Off January 2026](https://www.wired.com/story/therabody-promo-code/)
+ - [Tuft &amp; Needle Promo Codes: 20% Off | January 2026](https://www.wired.com/story/tuft-and-needle-promo-code/)
+ - [20% Off Home Depot Promo Code](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
