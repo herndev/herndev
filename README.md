@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What happened?](http://9gag.com/gag/a7oBmgb)
- - ⏩ [Jim Carrey just being Jim Carrey on set](http://9gag.com/gag/aO8OnZE)
+ - 💣 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)
+ - ⏩ [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)
  - 👉 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)<!-- MEMES:END -->
 
 ---
