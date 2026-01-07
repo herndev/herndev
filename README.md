@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Muslims panic after learning the Quran is Zionist](http://9gag.com/gag/a7oB6Xm)
+ - 💣 [Me with my produce every single time](http://9gag.com/gag/aW4Aedd)
  - ⏩ [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
- - 👉 [Safe mode activated](http://9gag.com/gag/apRXjwW)<!-- MEMES:END -->
+ - 👉 [This is how you do comedy](http://9gag.com/gag/ayNAZAb)<!-- MEMES:END -->
 
 ---
 
