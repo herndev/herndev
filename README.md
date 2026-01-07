@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tongue tricks](http://9gag.com/gag/aO8OAXE)
- - ⏩ [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
- - 👉 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)<!-- MEMES:END -->
+ - 💣 [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
+ - ⏩ [Tongue tricks](http://9gag.com/gag/aO8OAXE)
+ - 👉 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)<!-- MEMES:END -->
 
 ---
 
