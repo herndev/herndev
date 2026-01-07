@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
+ - 💣 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
  - ⏩ [Tongue tricks](http://9gag.com/gag/aO8OAXE)
- - 👉 [Is this p*rn or just the most polite arrest ever?](http://9gag.com/gag/aoy6o8n)<!-- MEMES:END -->
+ - 👉 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)<!-- MEMES:END -->
 
 ---
 
