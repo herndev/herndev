@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Game Pass tiers have gotten way more confusing than necessary](https://www.polygon.com/xbox-game-pass-tiers-pricing-2026/)
- - [There is a Scooby Doo chibi anime in the works](https://www.polygon.com/scooby-doo-gokko-anime-warner-bros/)
- - [9 years after it aired, fans discover a Dr Who episode absolutely copy-pasted a Skyrim dragon PNG from a wiki for some background VFX](https://www.pcgamer.com/games/the-elder-scrolls/9-years-after-it-aired-fans-discover-a-dr-who-episode-absolutely-copy-pasted-a-skyrim-dragon-png-from-a-wiki-for-some-background-vfx/)<!-- GAME:END -->
+ - [Sentenced to Be a Hero is Jamie Lannister’s Kingslayer arc — with a magical twist](https://www.polygon.com/sentenced-to-be-a-hero-jamie-lannister-kingslayer-arc-game-of-thrones/)
+ - [Over 1000 Classic PC Games Are Dirt Cheap On GOG Right Now](https://kotaku.com/over-1000-classic-pc-games-are-dirt-cheap-on-gog-right-now-2000657731)
+ - [This Year, We’re Leveling Up with Indie Games: Indie Selects for January](https://news.xbox.com/en-us/2026/01/07/indie-selects-january-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
