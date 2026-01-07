@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jake Sullivan is furious that Trump destroyed his AI foreign policy](https://www.theverge.com/policy/856815/jake-sullivan-interview-ai-chips-nvidia-trump)
- - [Google VP confirms not all Chromebooks will be able to migrate to Aluminium OS](https://www.androidauthority.com/google-reaffirms-continued-chrome-os-support-3630060/)
- - [Grok Is Pushing AI ‘Undressing’ Mainstream](https://www.wired.com/story/grok-is-pushing-ai-undressing-mainstream/)<!-- TECH:END -->
+ - [Sources: Discord has filed confidentially for an IPO, working with Goldman Sachs and JPMorgan Chase &lpar;Bloomberg&rpar;](http://www.techmeme.com/260106/p38#a260106p38)
+ - [This is probably the iPhone Fold&#39;s crease-proof display](https://appleinsider.com/articles/26/01/06/this-is-probably-the-iphone-folds-crease-proof-screen?utm_source=rss)
+ - [Brands complain Amazon&#39;s &quot;Buy for Me&quot; AI-powered shopping tool features their products on Amazon without permission and shows descriptions with errors &lpar;Allison Smith/Modern Retail&rpar;](http://www.techmeme.com/260106/p37#a260106p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
