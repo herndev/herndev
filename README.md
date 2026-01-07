@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese AI startups Zhipu and MiniMax are set to go public in Hong Kong on January 8 and 9, respectively; MiniMax has 210M+ users, and Zhipu has 8,000+ clients &lpar;Bloomberg&rpar;](http://www.techmeme.com/260107/p10#a260107p10)
- - [Deal: Score massive $140 savings on the 2024 Kindle Scribe](https://www.androidauthority.com/deal-2024-kindle-scribe-3630390/)
- - [This GaN-powered Qi2.2 charging station wants to replace your power strip, speaker, and desk hub](https://www.androidauthority.com/pisen-idock-charging-station-ces-2026-3630372/)<!-- TECH:END -->
+ - [Roblox now requires an age check if you want to chat](https://www.theverge.com/news/856696/roblox-age-check-estimation-chat)
+ - [Filing: Samsung plans to acquire $1.73B of its stock for employee and executive compensation, as part of a performance-linked scheme introduced in October 2025 &lpar;Kyu-seok Shim/Reuters&rpar;](http://www.techmeme.com/260107/p14#a260107p14)
+ - [Google could soon let you play paid Android games for free &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-play-store-try-before-you-buy-apk-teardown-3630383/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
