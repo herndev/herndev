@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sentenced to Be a Hero is Jamie Lannister’s Kingslayer arc — with a magical twist](https://www.polygon.com/sentenced-to-be-a-hero-jamie-lannister-kingslayer-arc-game-of-thrones/)
- - [Over 1000 Classic PC Games Are Dirt Cheap On GOG Right Now](https://kotaku.com/over-1000-classic-pc-games-are-dirt-cheap-on-gog-right-now-2000657731)
- - [This Year, We’re Leveling Up with Indie Games: Indie Selects for January](https://news.xbox.com/en-us/2026/01/07/indie-selects-january-2026/)<!-- GAME:END -->
+ - [Wolfenstein 3 Is In The Works From Indiana Jones And The New Colossus Developers MachineGames](https://kotaku.com/wolfenstein-3-in-development-machinegames-bethesda-2000657758)
+ - [Amazon&#39;s Fallout website is counting down to something, and fans are hoping the long-awaited Fallout 3 remaster &lpar;or maybe even New Vegas&rpar; is finally on the way](https://www.pcgamer.com/movies-tv/amazons-fallout-website-is-counting-down-to-something-and-fans-are-hoping-the-long-awaited-fallout-3-remaster-or-maybe-even-new-vegas-is-finally-on-the-way/)
+ - [Disneyland Line Cutter Beats Up Dad In Front Of Family](https://kotaku.com/disneyland-line-cutter-beats-up-dad-in-front-of-family-2000657760)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
