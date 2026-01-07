@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: JPMorgan Chase has reached a deal to take over the Apple credit card program from Goldman Sachs; JPMorgan plans to launch a new Apple savings account &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260107/p34#a260107p34)
- - [Election Deniers Think the Venezuela Attack Is All About 2020](https://www.wired.com/story/election-deniers-think-venezuela-attack-about-2020-election/)
- - [Apple loses Safari designer Marco Triverio to The Browser Company](https://appleinsider.com/articles/26/01/07/apple-loses-safari-designer-marco-triverio-to-the-browser-company?utm_source=rss)<!-- TECH:END -->
+ - [ChatGPT Health will help you get prepared for that doctor’s appointment](https://www.androidauthority.com/openai-announces-chatgpt-health-3630694/)
+ - [Alphabet surpassed Apple in market cap for the first time since 2019 after its shares closed up 2.5% on Wednesday, valuing it at $3.89T vs. Apple&#39;s $3.85T &lpar;Barron&#39;s Online&rpar;](http://www.techmeme.com/260107/p36#a260107p36)
+ - [Survey shows most of you don’t like Remix in Google Messages](https://www.androidauthority.com/google-messages-remix-poll-results-3630713/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
