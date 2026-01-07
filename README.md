@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [HP Goes Full Clearance on Its Laptop at 50% Off, This Latest Touchscreen PC Drops to an All-Time Low](https://kotaku.com/hp-goes-full-clearance-on-its-laptop-at-50-off-this-latest-touchscreen-pc-drops-to-an-all-time-low-2000657281)
- - [How to write like Brandon Sanderson, according to Brandon Sanderson](https://www.polygon.com/brandon-sanderson-writing-tips-productivity-finish-a-novel/)
- - [Audeze slams out the new planar magnetic Maxwell 2 headset with 16 improvements over the original and still-brilliant design](https://www.pcgamer.com/hardware/gaming-headsets/audeze-slams-out-the-new-planar-magnetic-maxwell-2-headset-with-16-improvements-over-the-original-and-still-brilliant-design/)<!-- GAME:END -->
+ - [The Switch 2 2026 lineup could be bigger than expected](https://www.polygon.com/nintendo-switch-2-2026-games/)
+ - [Between bots calling themselves &#39;Mecha-Hitler&#39; and 95% of businesses realising they don&#39;t know the point of AI, 2025 was the year the tech lost its shine even for the most blinkered execs](https://www.pcgamer.com/software/ai/between-bots-calling-themselves-mecha-hitler-and-95-percent-of-businesses-realising-they-dont-know-the-point-of-ai-2025-was-the-year-the-tech-lost-its-shine-even-for-the-most-blinkered-execs/)
+ - [AMD may resurrect some older CPUs to help users dodge the worst of the RAM crisis](https://www.pcgamer.com/hardware/processors/amd-may-resurrect-some-older-cpus-to-help-users-dodge-the-worst-of-the-ram-crisis/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
