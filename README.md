@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation’s YouTube Channel Shares The Good News About Ebola Village, Which Definitely Isn’t A Bad Resident Evil Knock-Off](https://kotaku.com/resident-evil-ebola-village-ps5-trailer-youtube-steam-2000657809)
- - [Call of Duty: Black Ops 7 and Call of Duty: Warzone Season 01 Reloaded: All You Need to Know](https://www.callofduty.com/blog/2026/01/call-of-duty-black-ops-7-warzone-season-01-reloaded#new_tab)
- - [More than 8 years after The New Colossus, a new Wolfenstein game is reportedly in the works at MachineGames](https://www.pcgamer.com/games/fps/more-than-8-years-after-the-new-colossus-a-new-wolfenstein-game-is-reportedly-in-the-works-at-machinegames/)<!-- GAME:END -->
+ - [Where to find the Stator blueprint in StarRupture](https://www.pcgamer.com/games/survival-crafting/where-to-find-the-stator-blueprint-in-starrupture/)
+ - [Europe&#39;s PEGI game rating website leaks a new Life is Strange game, and it sure sounds like Max and Chloe are getting back together](https://www.pcgamer.com/games/adventure/europes-pegi-game-rating-website-leaks-a-new-life-is-strange-game-and-it-sure-sounds-like-max-and-chloe-are-getting-back-together/)
+ - [PS5 Hyperpop covers and DualSense add a blast of neon to your console](https://www.polygon.com/ps5-new-dualsense-colors-covers-hyperpop-price-preorder/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
