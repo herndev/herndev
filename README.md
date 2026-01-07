@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel and Samsung team up to cut OLED power consumption by up to 22% with HDR content](https://www.pcgamer.com/hardware/gaming-monitors/intel-and-samsung-team-up-to-cut-oled-power-consumption-by-up-to-22-percent-with-hdr-content/)
- - [InWin&#39;s latest &#39;signature&#39; case looks not unlike a futuristic egg but requires more than a simple crack to open](https://www.pcgamer.com/hardware/pc-cases/inwins-latest-signature-case-looks-not-unlike-a-futuristic-egg-but-requires-more-than-a-simple-crack-to-open/)
- - [How to generate and connect power in StarRupture](https://www.pcgamer.com/games/survival-crafting/star-rupture-power/)<!-- GAME:END -->
+ - [HP Goes Full Clearance on Its Laptop at 50% Off, This Latest Touchscreen PC Drops to an All-Time Low](https://kotaku.com/hp-goes-full-clearance-on-its-laptop-at-50-off-this-latest-touchscreen-pc-drops-to-an-all-time-low-2000657281)
+ - [How to write like Brandon Sanderson, according to Brandon Sanderson](https://www.polygon.com/brandon-sanderson-writing-tips-productivity-finish-a-novel/)
+ - [Audeze slams out the new planar magnetic Maxwell 2 headset with 16 improvements over the original and still-brilliant design](https://www.pcgamer.com/hardware/gaming-headsets/audeze-slams-out-the-new-planar-magnetic-maxwell-2-headset-with-16-improvements-over-the-original-and-still-brilliant-design/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
