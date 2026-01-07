@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beatbot’s AquaSense X shows how far robotic pool care has come at CES 2026](https://www.androidauthority.com/beatbot-aquasense-x-sora-70-3628299/)
- - [Ikea is expanding its Matter support to two stylish lamps](https://www.theverge.com/tech/853143/ikea-smart-home-matter-varmblixt-donut-color-changing-pendant-lamp)
- - [Netflix is bringing back some big franchises in 2026](https://www.theverge.com/streaming/856756/netflix-2026-releases-bridgerton-one-piece-3-body)<!-- TECH:END -->
+ - [Ninja Luxe Cafe Premier Espresso Machine Review: Beginner’s Luck](https://www.wired.com/review/luxe-cafe-premier-series-automatic-espresso-machine/)
+ - [Spotify adds real-time listening activity to Messages, with group chats coming soon](https://www.androidauthority.com/spotify-messages-listening-activity-request-to-jam-3630507/)
+ - [As Trump and Big Tech aim to build SMRs to win the AI race, a look at the issues they face; none of the 50 SMRs under development have a US operating license &lpar;Jamie Smyth/Financial Times&rpar;](http://www.techmeme.com/260107/p22#a260107p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
