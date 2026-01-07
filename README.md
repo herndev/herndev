@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&amp;#8217;s Ballie robot is probably never coming out](https://www.theverge.com/news/857864/samsung-ballie-robot-shelved-ces-2026)
- - [AI Models Are Starting to Learn by Asking Themselves Questions](https://www.wired.com/story/ai-models-keep-learning-after-training-research/)
- - [OpenAI launches ChatGPT Health, encouraging users to connect their medical records](https://www.theverge.com/ai-artificial-intelligence/857640/openai-launches-chatgpt-health-connect-medical-records)<!-- TECH:END -->
+ - [CES 2026 just saw a game-changing 3D printer with multi-material and color abilities](https://www.androidauthority.com/atomform-palette-300-3d-printer-3630645/)
+ - [OpenAI unveils ChatGPT Health, which lets users import medical records and other data from health apps into ChatGPT, available to a small group via a waitlist &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260107/p33#a260107p33)
+ - [L’Oréal’s latest flat iron uses infrared light to make hair styling much faster](https://www.theverge.com/tech/857801/loreal-light-straight-ces-2026-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
