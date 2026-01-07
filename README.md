@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT Health will help you get prepared for that doctor’s appointment](https://www.androidauthority.com/openai-announces-chatgpt-health-3630694/)
- - [Alphabet surpassed Apple in market cap for the first time since 2019 after its shares closed up 2.5% on Wednesday, valuing it at $3.89T vs. Apple&#39;s $3.85T &lpar;Barron&#39;s Online&rpar;](http://www.techmeme.com/260107/p36#a260107p36)
- - [Survey shows most of you don’t like Remix in Google Messages](https://www.androidauthority.com/google-messages-remix-poll-results-3630713/)<!-- TECH:END -->
+ - [Apple Card moving to Chase as issuer, confirms Apple](https://appleinsider.com/articles/26/01/07/apple-card-moving-to-chase-as-issuer-confirms-apple?utm_source=rss)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [CES 2026: Narwal’s latest flagship vacuum robot headlines its next-generation smart cleaning product lineup](https://www.androidauthority.com/ces-2026-narwal-3630537/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
