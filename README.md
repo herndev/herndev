@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Collect three Bottle](http://9gag.com/gag/a6ZzzPL)
- - ⏩ [This is exactly what technology is meant for.](http://9gag.com/gag/aGyqrWG)
- - 👉 [`I didn&#39;t do nothing` - said woman who tried to trip cops chasing shoplifters](http://9gag.com/gag/aRBGGz7)<!-- MEMES:END -->
+ - 💣 [Jim Carrey just being Jim Carrey on set](http://9gag.com/gag/aO8OnZE)
+ - ⏩ [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
+ - 👉 [The only reason I miss summer is](http://9gag.com/gag/a2vVAQw)<!-- MEMES:END -->
 
 ---
 
