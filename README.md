@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile just announced its first fee increase of the year: Here’s what is changing](https://www.androidauthority.com/t-mobile-fee-increase-3630587/)
- - [L’Oréal’s new LED face masks address all my issues with this category](https://www.theverge.com/tech/857164/ces-2026-hands-on-loreal)
- - [Toilet cameras and musical lollipops: The weird side of CES 2026](https://appleinsider.com/articles/26/01/07/toilet-cameras-and-musical-lollipops-the-weird-side-of-ces-2026?utm_source=rss)<!-- TECH:END -->
+ - [Cambodia extradites Chen Zhi, the chairman of online scam conglomerate Prince Group, to China; in October, the US DOJ seized $12B in bitcoin belonging to Chen &lpar;Gabriele Steinhauser/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p30#a260107p30)
+ - [US judge hits Samsung with restraining order over ‘spying on’ smart TV users](https://www.androidauthority.com/samsung-smart-tv-spying-allegations-3630608/)
+ - [Remember the Stock Image Catalog Freepik? Its Makeover for the AI Era Is Ready](https://www.cnet.com/tech/services-and-software/stock-image-catalog-freepik-makeover-for-the-ai-era/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
