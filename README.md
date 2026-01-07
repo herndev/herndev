@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Discord has filed confidentially for an IPO, working with Goldman Sachs and JPMorgan Chase &lpar;Bloomberg&rpar;](http://www.techmeme.com/260106/p38#a260106p38)
- - [This is probably the iPhone Fold&#39;s crease-proof display](https://appleinsider.com/articles/26/01/06/this-is-probably-the-iphone-folds-crease-proof-screen?utm_source=rss)
- - [Brands complain Amazon&#39;s &quot;Buy for Me&quot; AI-powered shopping tool features their products on Amazon without permission and shows descriptions with errors &lpar;Allison Smith/Modern Retail&rpar;](http://www.techmeme.com/260106/p37#a260106p37)<!-- TECH:END -->
+ - [How the huge data center buildout is heating up local politics in US towns across red and blue states on issues like water, electricity, and noise &lpar;Evan Halper/Washington Post&rpar;](http://www.techmeme.com/260106/p39#a260106p39)
+ - [Let there be light! Wireless light-based Li-Fi looks to solve some of Wi-Fi’s problems](https://www.androidauthority.com/purelifi-ces-3630084/)
+ - [Samsung and Intel&amp;#8217;s OLED tech makes HDR easier on laptop battery life](https://www.theverge.com/news/857229/samsung-display-intel-oled-smartpower-hdr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
