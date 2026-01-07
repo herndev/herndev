@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Switch 2 2026 lineup could be bigger than expected](https://www.polygon.com/nintendo-switch-2-2026-games/)
- - [Between bots calling themselves &#39;Mecha-Hitler&#39; and 95% of businesses realising they don&#39;t know the point of AI, 2025 was the year the tech lost its shine even for the most blinkered execs](https://www.pcgamer.com/software/ai/between-bots-calling-themselves-mecha-hitler-and-95-percent-of-businesses-realising-they-dont-know-the-point-of-ai-2025-was-the-year-the-tech-lost-its-shine-even-for-the-most-blinkered-execs/)
- - [AMD may resurrect some older CPUs to help users dodge the worst of the RAM crisis](https://www.pcgamer.com/hardware/processors/amd-may-resurrect-some-older-cpus-to-help-users-dodge-the-worst-of-the-ram-crisis/)<!-- GAME:END -->
+ - [BloodRayne just turned 20, but its awfulness is forever](https://www.polygon.com/20-years-ago-bloodrayne-helped-kill-off-the-january-movie-as-we-know-it/)
+ - [Nvidia&#39;s Jensen Huang has a clear vision for the future of its gaming GPUs and is going to be all about neural rendering: &#39;It is basically DLSS. That’s the way graphics ought to be&#39;](https://www.pcgamer.com/hardware/graphics-cards/nvidias-jensen-huang-has-a-clear-vision-for-the-future-of-its-gaming-gpus-and-is-going-to-be-all-about-neural-rendering-it-is-basically-dlss-thats-the-way-graphics-ought-to-be/)
+ - [Every Fallout season 2 Easter egg so far](https://www.polygon.com/fallout-season-2-easter-egg-show/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
