@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The demo of Flock Around has made me realise I don&#39;t have the skills to be a wildlife photographer, but I&#39;d certainly give it my best shot](https://www.pcgamer.com/games/sim/the-demo-of-flock-around-has-made-me-realise-i-dont-have-the-skills-to-be-a-wildlife-photographer-but-id-certainly-give-it-my-best-shot/)
- - [Lenovo&#39;s Las Vegas Sphere event delivered an absolute barrage of AI announcements, but at least we got this, err, FIFA-themed Legion gaming laptop](https://www.pcgamer.com/hardware/gaming-laptops/lenovos-las-vegas-sphere-event-delivered-an-absolute-barrage-of-ai-announcements-but-at-least-we-got-this-err-fifa-themed-legion-gaming-laptop/)
- - [Fallout Season 2 Episode 4 recap: &#39;More matching jackets&#39;](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-4-recap-more-matching-jackets/)<!-- GAME:END -->
+ - [Intel and Samsung team up to cut OLED power consumption by up to 22% with HDR content](https://www.pcgamer.com/hardware/gaming-monitors/intel-and-samsung-team-up-to-cut-oled-power-consumption-by-up-to-22-percent-with-hdr-content/)
+ - [InWin&#39;s latest &#39;signature&#39; case looks not unlike a futuristic egg but requires more than a simple crack to open](https://www.pcgamer.com/hardware/pc-cases/inwins-latest-signature-case-looks-not-unlike-a-futuristic-egg-but-requires-more-than-a-simple-crack-to-open/)
+ - [How to generate and connect power in StarRupture](https://www.pcgamer.com/games/survival-crafting/star-rupture-power/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
