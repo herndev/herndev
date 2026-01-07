@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel is planning a custom Panther Lake CPU for handheld PCs](https://www.theverge.com/tech/857252/intel-handheld-gaming-pc-panther-lake-custom-cpu)
- - [Lenovo is building an AI assistant that ‘can act on your behalf’](https://www.theverge.com/column/857053/lenovo-ai-assistant-qira)
- - [Lenovo introduces Qira, a system-level, cross-device AI assistant for both its computers and Motorola smartphones, arriving later this quarter &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/260106/p41#a260106p41)<!-- TECH:END -->
+ - [How folder emoji &amp; customization works in macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-folder-emoji-customization-works-in-macos-tahoe?utm_source=rss)
+ - [Ring camera owners are getting some major upgrades in 2026](https://www.androidauthority.com/ring-camera-upgrades-2026-3630132/)
+ - [Intel is planning a custom Panther Lake CPU for handheld PCs](https://www.theverge.com/tech/857252/intel-handheld-gaming-pc-panther-lake-custom-cpu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
