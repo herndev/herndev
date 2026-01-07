@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We may all need this in the upcoming WW3. Also, now I have to play it again.](http://9gag.com/gag/aPA0zoB)
- - ⏩ [Proud &lpar;again&rpar; to be an EU citizen:](http://9gag.com/gag/a2vV9pw)
- - 👉 [Tongue tricks](http://9gag.com/gag/aO8OAXE)<!-- MEMES:END -->
+ - 💣 [What happened?](http://9gag.com/gag/a7oBmgb)
+ - ⏩ [Jim Carrey just being Jim Carrey on set](http://9gag.com/gag/aO8OnZE)
+ - 👉 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)<!-- MEMES:END -->
 
 ---
 
