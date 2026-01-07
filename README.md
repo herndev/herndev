@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)
- - ⏩ [The only reason I miss summer is](http://9gag.com/gag/a2vVAQw)
- - 👉 [Learning French , What five years of learning will get you, but hey! I&#39;ve got to practice my skills.](http://9gag.com/gag/adBMW9d)<!-- MEMES:END -->
+ - 💣 [Jim Carrey just being Jim Carrey on set](http://9gag.com/gag/aO8OnZE)
+ - ⏩ [Tongue tricks](http://9gag.com/gag/aO8OAXE)
+ - 👉 [He Makes Squatters Regret Their Choice](http://9gag.com/gag/an730Ez)<!-- MEMES:END -->
 
 ---
 
