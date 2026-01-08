@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volvo touts EX60’s range and charging speed ahead of official debut](https://www.theverge.com/transportation/857933/volvo-ex60-range-charging-speed-megacasting-battery)
- - [Your Android-powered car will get faster updates thanks to Qualcomm](https://www.androidauthority.com/android-automotive-google-qualcomm-3630860/)
- - [Sources: China plans to approve some imports of Nvidia&#39;s H200 chips as soon as Q1 2026 while still barring them from military use and critical infrastructure &lpar;John Liu/Bloomberg&rpar;](http://www.techmeme.com/260108/p10#a260108p10)<!-- TECH:END -->
+ - [Bad with directions? Here’s how Google Maps on Android XR could help you never get lost again](https://www.androidauthority.com/google-maps-android-xr-navigation-gemini-3630887/)
+ - [Samsung concludes Galaxy Ring investigation after swelling sent user to hospital](https://www.androidauthority.com/samsung-galaxy-ring-investigation-verdict-3630897/)
+ - [Volvo touts EX60’s range and charging speed ahead of official debut](https://www.theverge.com/transportation/857933/volvo-ex60-range-charging-speed-megacasting-battery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
