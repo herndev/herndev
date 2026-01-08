@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES 2026: Segway Navimow’s latest robotic lawn mowers are “drop and mow” ready](https://www.androidauthority.com/ces-2026-segway-navimow-3630171/)
- - [Sources: China&#39;s Salt Typhoon accessed the emails of staff on powerful US House committees, detected last December, and intercepted senior US officials&#39; calls &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/260108/p14#a260108p14)
- - [This Is the Blood Glucose Monitor We’ve Been Waiting For](https://www.wired.com/story/blood-glucose-monitor-preevnt-isaac/)<!-- TECH:END -->
+ - [America’s new era of energy imperialism is about more than oil](https://www.theverge.com/report/857978/trump-venezuela-greenland-oil-mineral-energy-imperialism)
+ - [India fights Apple&#39;s attempts to reduce a potential $38 billion fine](https://appleinsider.com/articles/26/01/08/india-fights-apples-attempts-to-reduce-a-potential-38-billion-fine?utm_source=rss)
+ - [Roku founder and CEO Anthony Wood predicts &quot;we&#39;ll see the first 100% AI-generated hit movie&quot; within three years and discusses Roku&#39;s new $3/month Howdy streamer &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/260108/p16#a260108p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
