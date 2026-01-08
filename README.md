@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
- - ⏩ [Based](http://9gag.com/gag/avyVqzM)
- - 👉 [Demolish the pillar](http://9gag.com/gag/aD2LLBw)<!-- MEMES:END -->
+ - 💣 [It&#39;s Wednesday my dudes](http://9gag.com/gag/aGyq5y7)
+ - ⏩ [The good old days when computer lab was the highlight of the week](http://9gag.com/gag/aE0b5Ke)
+ - 👉 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)<!-- MEMES:END -->
 
 ---
 
