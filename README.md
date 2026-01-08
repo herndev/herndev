@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Cyera researchers detail Ni8mare, a critical RCE flaw that lets hackers access local instances of the n8n workflow automation platform, impacting ~100K servers &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260107/p43#a260107p43)
  - [Best Peloton Alternatives to Kickstart Your 2026 Fitness Goals](https://www.cnet.com/health/fitness/best-peloton-alternatives-if-youre-looking-for-other-solid-choices/)
- - [I Just Had a 10 Minute Conversation in Polish &lpar;I Don&#39;t Speak Any Polish&rpar;](https://www.cnet.com/tech/ces-2026-vasco-language-translator/)<!-- TECH:END -->
+ - [I Just Had a 10-Minute Conversation in Polish &lpar;I Don&#39;t Speak Any Polish&rpar;](https://www.cnet.com/tech/ces-2026-vasco-language-translator/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
