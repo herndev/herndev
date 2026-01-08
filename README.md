@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is quietly making the Pixel Launcher faster with a new shortcut](https://www.androidauthority.com/pixel-launcher-app-opening-shortcut-rollout-3630852/)
  - [How to turn emails, webpages &amp; notes into Reminders with Apple Intelligence](https://appleinsider.com/articles/26/01/08/how-to-turn-emails-webpages-notes-into-reminders-with-apple-intelligence?utm_source=rss)
- - [Sources: OpenAI last fall set aside RSUs worth 10% of the company, which was valued in October at $500B; it has already awarded about $80B in vested equity &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260107/p44#a260107p44)
- - [Samsung is borrowing a neat Pixel lock screen trick for One UI 8.5](https://www.androidauthority.com/samsung-one-ui-8-5-lock-screen-weather-effect-3630836/)<!-- TECH:END -->
+ - [Sources: OpenAI last fall set aside RSUs worth 10% of the company, which was valued in October at $500B; it has already awarded about $80B in vested equity &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260107/p44#a260107p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
