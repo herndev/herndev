@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Say when](http://9gag.com/gag/aqyOO1R)
- - ⏩ [Her name was Iryna Zarutska.](http://9gag.com/gag/aMV65d1)
- - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
+ - 💣 [Not AI. It&#39;s A series of photos put together. Camera man didn&#39;t survive this time. Full story in comments](http://9gag.com/gag/a9ye0Kj)
+ - ⏩ [Based](http://9gag.com/gag/avyVqzM)
+ - 👉 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)<!-- MEMES:END -->
 
 ---
 
