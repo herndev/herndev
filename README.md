@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watchdog sides with AT&amp;T in false advertising dispute with T-Mobile](https://www.androidauthority.com/att-nad-t-mobile-3631100/)
- - [All the Best Pet Tech That Stood Out at CES 2026](https://www.cnet.com/home/kitchen-and-household/all-the-best-pet-tech-that-stood-out-at-ces-2026/)
- - [Source: a few weeks before Grok started &quot;digitally undressing&quot; people, Elon Musk expressed frustration over guardrails on Grok&#39;s image and video generator &lpar;Hadas Gold/CNN&rpar;](http://www.techmeme.com/260108/p37#a260108p37)<!-- TECH:END -->
+ - [Sources: UK-based cloud provider Nscale is in talks to raise about $2B, after raising more than $1.5B across a pair of rounds in September and October &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/260108/p42#a260108p42)
+ - [OpenAI is rolling out a HIPAA-compliant version of ChatGPT for clinicians to assist with medical reasoning and administrative tasks, at Cedars-Sinai and others &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260108/p41#a260108p41)
+ - [iOS 26.3 and macOS Tahoe 26.3 betas get second background security updates](https://appleinsider.com/articles/26/01/08/ios-263-and-macos-tahoe-263-betas-get-second-background-security-updates?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
