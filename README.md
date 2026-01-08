@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Holy Crap, Look At This Freaking Game About Giant Fantasy Mechs](https://kotaku.com/vampire-survivors-armored-core-vital-shell-mechs-2000658252)
- - [Arc Raiders has a cheater problem, but Embarks says &#39;significant changes&#39; are coming to detection and ban systems](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-has-a-cheater-problem-but-embarks-says-significant-changes-are-coming-to-detection-and-ban-systems/)
- - [All White Nevron locations in Clair Obscur Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-white-nevron-locations-kill-spare/)<!-- GAME:END -->
+ - [&#39;I f**king hate gen AI art,&#39; Hooded Horse chief says: &#39;If we&#39;re publishing the game, no f**king AI assets&#39;](https://www.pcgamer.com/software/ai/i-f-king-hate-gen-ai-art-hooded-horse-chief-says-if-were-publishing-the-game-no-f-king-ai-assets/)
+ - [2025’s Underrated RPG Avowed Will Come To PS5 With A Big Update](https://kotaku.com/avowed-ps5-port-new-game-plus-update-races-2000658274)
+ - [How to get mushrooms in Schedule 1](https://www.pcgamer.com/games/sim/schedule-1-how-to-get-shrooms/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
