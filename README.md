@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
- - ⏩ [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
- - 👉 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)<!-- MEMES:END -->
+ - 💣 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
+ - ⏩ [It&#39;s Wednesday my dudes](http://9gag.com/gag/aGyq5y7)
+ - 👉 [What a good boy](http://9gag.com/gag/ajPj4Qq)<!-- MEMES:END -->
 
 ---
 
