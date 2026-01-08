@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s Wednesday my dudes](http://9gag.com/gag/aGyq5y7)
- - ⏩ [The good old days when computer lab was the highlight of the week](http://9gag.com/gag/aE0b5Ke)
- - 👉 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)<!-- MEMES:END -->
+ - 💣 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
+ - ⏩ [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
+ - 👉 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)<!-- MEMES:END -->
 
 ---
 
