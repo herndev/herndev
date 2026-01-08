@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Say when](http://9gag.com/gag/aqyOO1R)
- - ⏩ [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
- - 👉 [What a good boy](http://9gag.com/gag/ajPj4Qq)<!-- MEMES:END -->
+ - 💣 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
+ - ⏩ [Based](http://9gag.com/gag/avyVqzM)
+ - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
 
 ---
 
