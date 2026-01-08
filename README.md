@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honor steps up to the big leagues with the Magic 8 Pro](https://www.theverge.com/gadgets/854163/honor-magic-8-pro-review)
- - [Is this the world’s first solid-state battery?](https://www.theverge.com/transportation/858514/is-this-the-worlds-first-solid-state-battery)
- - [Nintendo is bringing its cute My Mario collection to the US next month](https://www.theverge.com/tech/858587/nintendo-my-mario-apparal-toys-book-mobile-app)<!-- TECH:END -->
+ - [Satechi’s new Slim EX keyboards have a replaceable battery](https://www.theverge.com/tech/856666/satechi-slim-ex-keyboards-removable-battery-ces-2026)
+ - [A profile of Apple SVP John Ternus, the head of hardware engineering, who sources say is the front-runner to succeed Tim Cook, who wants to reduce his workload &lpar;New York Times&rpar;](http://www.techmeme.com/260108/p31#a260108p31)
+ - [FIFA says parts of 2026 World Cup soccer games will be broadcast live on TikTok and some creators will get access to press conferences and training sessions &lpar;Jessica Hopkins/The Athletic&rpar;](http://www.techmeme.com/260108/p30#a260108p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
