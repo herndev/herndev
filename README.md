@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google makes Help Me Write, AI email summaries, and Suggested Replies free to all Gmail users; the features required a Google AI Pro or Ultra subscription &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260108/p22#a260108p22)
- - [Google rolls out an AI Inbox view for Gmail, showing users to-dos and summaries of topics rather than a traditional email list, first for US &quot;trusted testers&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260108/p21#a260108p21)
- - [Google drops the paywall on Gmail’s most useful new tools](https://www.androidauthority.com/gmail-ai-features-free-for-everyone-3630905/)<!-- TECH:END -->
+ - [The best TVs of CES 2026](https://www.theverge.com/tech/858366/the-best-tvs-of-ces-2026)
+ - [Android’s time zone change notification might not leave you guessing anymore](https://www.androidauthority.com/android-time-zone-change-notification-update-3630961/)
+ - [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
