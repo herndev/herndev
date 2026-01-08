@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
+ - 💣 [Her name was Iryna Zarutska.](http://9gag.com/gag/aMV65d1)
  - ⏩ [Based](http://9gag.com/gag/avyVqzM)
- - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
+ - 👉 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)<!-- MEMES:END -->
 
 ---
 
