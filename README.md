@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It has to be seen by everyone.](http://9gag.com/gag/ary0Lo7)
- - ⏩ [Denmark is ready!](http://9gag.com/gag/axy8rPW)
- - 👉 [Only talking to you, technically](http://9gag.com/gag/an73oyn)<!-- MEMES:END -->
+ - 💣 [What a good boy](http://9gag.com/gag/ajPj4Qq)
+ - ⏩ [Not AI. It&#39;s A series of photos put together. Camera man didn&#39;t survive this time. Full story in comments](http://9gag.com/gag/a9ye0Kj)
+ - 👉 [Rabid fox](http://9gag.com/gag/a8799rY)<!-- MEMES:END -->
 
 ---
 
