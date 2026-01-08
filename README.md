@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Obex director made a Lynchian thriller more informed by Zelda than movies](https://www.polygon.com/obex-2026-video-game-movie-behind-the-scenes/)
- - [Change the course of history in Rewind 99, a nostalgia-infused retail sim where you&#39;ll fight back against streaming services as the last remaining video rental store on the planet](https://www.pcgamer.com/games/sim/change-the-course-of-history-in-rewind-99-a-nostalgia-infused-retail-sim-where-youll-fight-back-against-streaming-services-as-the-last-remaining-video-rental-store-on-the-planet/)
- - [Life is Strange: Reunion rumors sound like bad fanfiction](https://www.polygon.com/life-is-strange-reunion-max-and-chloe-square-enix/)<!-- GAME:END -->
+ - [The Leaked Synopsis Of The Next Life Is Strange Has Me Worried](https://kotaku.com/life-is-strange-5-reunion-chloe-max-summary-plot-leak-2000658198)
+ - [Suika Game Planet is a whole new world of fruit merging](https://www.polygon.com/suika-game-planet-impressions/)
+ - [GameStop shutters hundreds of stores as CEO gambles on $35B payday](https://www.polygon.com/gamestop-closing-stores-as-ceo-payday/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
