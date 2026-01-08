@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyera researchers detail Ni8mare, a critical RCE flaw that lets hackers access local instances of the n8n workflow automation platform, impacting ~100K servers &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260107/p43#a260107p43)
- - [Best Peloton Alternatives to Kickstart Your 2026 Fitness Goals](https://www.cnet.com/health/fitness/best-peloton-alternatives-if-youre-looking-for-other-solid-choices/)
- - [I Just Had a 10-Minute Conversation in Polish &lpar;I Don&#39;t Speak Any Polish&rpar;](https://www.cnet.com/tech/ces-2026-vasco-language-translator/)<!-- TECH:END -->
+ - [How to turn emails, webpages &amp; notes into Reminders with Apple Intelligence](https://appleinsider.com/articles/26/01/08/how-to-turn-emails-webpages-notes-into-reminders-with-apple-intelligence?utm_source=rss)
+ - [Sources: OpenAI last fall set aside RSUs worth 10% of the company, which was valued in October at $500B; it has already awarded about $80B in vested equity &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260107/p44#a260107p44)
+ - [Samsung is borrowing a neat Pixel lock screen trick for One UI 8.5](https://www.androidauthority.com/samsung-one-ui-8-5-lock-screen-weather-effect-3630836/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
