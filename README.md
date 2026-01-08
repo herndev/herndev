@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based](http://9gag.com/gag/avyVqzM)
- - ⏩ [Can someone explain why Stevie Wonder wears a watch?](http://9gag.com/gag/a5QAAXq)
+ - 💣 [How Much To Break Your Principles?](http://9gag.com/gag/aAy7Ang)
+ - ⏩ [New Update!! Tank Doggo population in India in 2025: 3323](http://9gag.com/gag/aMV65xP)
  - 👉 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)<!-- MEMES:END -->
 
 ---
