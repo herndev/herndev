@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford’s AI voice assistant is coming later this year, L3 driving in 2028](https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026)
- - [Chase is taking over Apple&amp;#8217;s credit card](https://www.theverge.com/news/858170/apple-card-jpmorgan-chase-sachs)
- - [Trump family&#39;s World Liberty Financial says its entity World Liberty Trust has applied for a US banking license, which would let it issue the USD1 stablecoin &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p39#a260107p39)<!-- TECH:END -->
+ - [AirVersa AP2 Air Purifier review: Compact Apple Home air purifier with Thread](https://appleinsider.com/articles/26/01/08/airversa-ap2-air-purifier-review-compact-apple-home-air-purifier-with-thread?utm_source=rss)
+ - [Disney Plus is getting vertical video](https://www.theverge.com/tech/858277/disney-plus-vertical-video)
+ - [Ford plans to launch an AI voice assistant on its apps this year before expanding to its vehicles in 2027, and aims to debut Level 3 autonomous driving in 2028 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260107/p42#a260107p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
