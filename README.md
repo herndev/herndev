@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Bose Noise-Canceling Earbuds Are $50 Off](https://www.wired.com/story/bose-quietcomfort-ultra-earbuds-deal-126/)
- - [Sources: OpenAI has been slow to expand in-app checkouts for ChatGPT as the startup and its partners Shopify and Stripe struggle to standardize merchant data &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/260108/p34#a260108p34)
- - [AI Devices Are Coming. Will Your Favorite Apps Be Along for the Ride?](https://www.wired.com/story/openai-amazon-operating-system-ai-apps-ads/)<!-- TECH:END -->
+ - [Watchdog sides with AT&amp;T in false advertising dispute with T-Mobile](https://www.androidauthority.com/att-nad-t-mobile-3631100/)
+ - [All the Best Pet Tech That Stood Out at CES 2026](https://www.cnet.com/home/kitchen-and-household/all-the-best-pet-tech-that-stood-out-at-ces-2026/)
+ - [Source: a few weeks before Grok started &quot;digitally undressing&quot; people, Elon Musk expressed frustration over guardrails on Grok&#39;s image and video generator &lpar;Hadas Gold/CNN&rpar;](http://www.techmeme.com/260108/p37#a260108p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
