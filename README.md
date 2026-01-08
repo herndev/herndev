@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is giving its search filters a big shake-up](https://www.androidauthority.com/youtube-search-filter-update-3631125/)
+ - [I Watched a Drone Pick Up a Robot Vacuum and &lpar;Sort Of&rpar; Carry It Up the Stairs at CES 2026](https://www.cnet.com/home/kitchen-and-household/watched-drone-pick-up-robot-vacuum-carry-it-up-the-stairs-ces-2026/)
  - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [Why a Chinese Robot Vacuum Company Spun Off Not One but 2 EV Brands](https://www.wired.com/story/made-in-china-what-chinese-companies-showed-off-at-ces/)<!-- TECH:END -->
+ - [Behind the Scenes of Disneyland&#39;s New 3D-Printed Prop Canoe on the Jungle Cruise](https://www.cnet.com/tech/computing/disney-3d-printed-polymer-prop-canoe-jungle-cruise/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
