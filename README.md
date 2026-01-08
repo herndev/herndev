@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first Android Canary release of 2026 is here!](https://www.androidauthority.com/android-canary-january-2026-3630876/)
- - [Peacock Promo Codes: 16% Off January 2026](https://www.wired.com/story/peacock-promo-code/)
- - [Samsung says Ballie, a robot announced six years ago but never released, is an &quot;active innovation platform&quot; within the company helping inform other products &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260108/p6#a260108p6)<!-- TECH:END -->
+ - [Volvo touts EX60’s range and charging speed ahead of official debut](https://www.theverge.com/transportation/857933/volvo-ex60-range-charging-speed-megacasting-battery)
+ - [Your Android-powered car will get faster updates thanks to Qualcomm](https://www.androidauthority.com/android-automotive-google-qualcomm-3630860/)
+ - [Sources: China plans to approve some imports of Nvidia&#39;s H200 chips as soon as Q1 2026 while still barring them from military use and critical infrastructure &lpar;John Liu/Bloomberg&rpar;](http://www.techmeme.com/260108/p10#a260108p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
