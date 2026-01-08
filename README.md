@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based](http://9gag.com/gag/avyVqzM)
- - ⏩ [Just a routine check, nothing to see here](http://9gag.com/gag/aYQB6Lq)
- - 👉 [Im jealous](http://9gag.com/gag/aE0b59o)<!-- MEMES:END -->
+ - 💣 [Her name was Iryna Zarutska.](http://9gag.com/gag/aMV65d1)
+ - ⏩ [Based](http://9gag.com/gag/avyVqzM)
+ - 👉 [Say when](http://9gag.com/gag/aqyOO1R)<!-- MEMES:END -->
 
 ---
 
