@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her name was Iryna Zarutska.](http://9gag.com/gag/aMV65d1)
+ - 💣 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
  - ⏩ [Based](http://9gag.com/gag/avyVqzM)
- - 👉 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)<!-- MEMES:END -->
+ - 👉 [Demolish the pillar](http://9gag.com/gag/aD2LLBw)<!-- MEMES:END -->
 
 ---
 
