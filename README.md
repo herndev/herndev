@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satechi’s new Slim EX keyboards have a replaceable battery](https://www.theverge.com/tech/856666/satechi-slim-ex-keyboards-removable-battery-ces-2026)
- - [A profile of Apple SVP John Ternus, the head of hardware engineering, who sources say is the front-runner to succeed Tim Cook, who wants to reduce his workload &lpar;New York Times&rpar;](http://www.techmeme.com/260108/p31#a260108p31)
- - [FIFA says parts of 2026 World Cup soccer games will be broadcast live on TikTok and some creators will get access to press conferences and training sessions &lpar;Jessica Hopkins/The Athletic&rpar;](http://www.techmeme.com/260108/p30#a260108p30)<!-- TECH:END -->
+ - [The MAGA-approved video of an ICE killing](https://www.theverge.com/tech/858710/minneapolis-ice-shooting-trump-video-footage-social-media)
+ - [AliveCor takes another loss in ongoing Apple Watch sensor legal battle](https://appleinsider.com/articles/26/01/08/alivecor-takes-another-loss-in-ongoing-apple-watch-sensor-legal-battle?utm_source=rss)
+ - [AirPods Pro 3 dip to $199.99 during Amazon&#39;s January sale](https://appleinsider.com/articles/26/01/08/airpods-pro-3-dip-to-19999-during-amazons-january-sale?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
