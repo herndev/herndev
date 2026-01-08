@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Embark CEO says &#39;it would be fun&#39; to have an Arc Raiders TV show or movie after receiving multiple offers, but it&#39;s not in the cards right now](https://www.pcgamer.com/games/third-person-shooter/embark-ceo-says-it-would-be-fun-to-have-an-arc-raiders-tv-show-or-movie-after-receiving-multiple-offers-but-its-not-in-the-cards-right-now/)
- - [Arc Raider&#39;s defining feature, according to Embark&#39;s CEO, is all the odd player interactions: &#39;We did not expect people to take on roles of Defender of the Swamp&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-defining-feature-according-to-embarks-ceo-is-all-the-odd-player-interactions-we-did-not-expect-people-to-take-on-roles-of-defender-of-the-swamp/)
- - [Todd Howard didn&#39;t want Deathclaws to be &#39;just another creature&#39; in Fallout Season 2, and from I&#39;ve seen so far they&#39;re just as terrifying as I remember](https://www.pcgamer.com/games/fallout/todd-howard-didnt-want-deathclaws-to-be-just-another-creature-in-fallout-season-2-and-from-ive-seen-so-far-theyre-just-as-terrifying-as-i-remember/)<!-- GAME:END -->
+ - [Minecraft teases its first drop of 2026, and it might finally be the thing that stops me from being a passive mob killing machine](https://www.pcgamer.com/games/survival-crafting/minecraft-teases-its-first-drop-of-2026-and-it-might-finally-be-the-thing-that-stops-me-from-being-a-passive-mob-killing-machine/)
+ - [Embark CEO says Arc Raiders &#39;should do more with the trading part of the game&#39; and he&#39;s right](https://www.pcgamer.com/games/action/embark-ceo-says-arc-raiders-should-do-more-with-the-trading-part-of-the-game-and-hes-right/)
+ - [Embark CEO says &#39;it would be fun&#39; to have an Arc Raiders TV show or movie after receiving multiple offers, but it&#39;s not in the cards right now](https://www.pcgamer.com/games/third-person-shooter/embark-ceo-says-it-would-be-fun-to-have-an-arc-raiders-tv-show-or-movie-after-receiving-multiple-offers-but-its-not-in-the-cards-right-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
