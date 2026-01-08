@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Update your MyAsus software now because there&#39;s a fix for a nasty hack that could easily ruin your day](https://www.pcgamer.com/hardware/motherboards/update-your-myasus-software-now-because-theres-a-fix-for-a-nasty-hack-that-could-easily-ruin-your-day/)
- - [One Game Publisher Is Pushing Back Against AI Art With Contracts That Ban It: ‘It’s Cancerous’](https://kotaku.com/hooded-horse-gen-ai-art-ban-4x-strategy-steam-2000658179)
- - [Star Wars Starfighter Movie Includes A Lightsaber Scene Shot By Tom Cruise](https://kotaku.com/star-wars-starfighter-lightsaber-jedi-tom-cruise-shot-scene-levy-deadpool-2000658194)<!-- GAME:END -->
+ - [Switch 2 Had A Rough Christmas Despite A Big Launch-Year Line-Up](https://kotaku.com/switch-2-christmas-holiday-sales-down-europe-uk-us-nintendo-2000658223)
+ - [FF7 Rebirth Director Explains The Mini-Game Bloat](https://kotaku.com/final-fantasy-7-rebirth-minigames-remake-trilogy-3-game-2000658234)
+ - [After promising Black Ops 7 skins would &#39;feel authentic to Call of Duty and its setting,&#39; Fallout has arrived in Call of Duty](https://www.pcgamer.com/games/fps/after-promising-black-ops-7-skins-would-feel-authentic-to-call-of-duty-and-its-setting-fallout-has-arrived-in-call-of-duty/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
