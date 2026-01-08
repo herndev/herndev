@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Phasmophobia developer Kinetic Games announces its next phase](https://www.polygon.com/phasmophobia-kinetic-publishing-indie-games-announcement/)
- - [Legend of Heroes: Trails Beyond the Horizon review](https://www.polygon.com/trails-beyond-the-horizon-review/)
- - [Developer_Direct Returns January 22: Watch Fable, Forza Horizon 6, and Beast of Reincarnation Gameplay, Direct from the Studios](https://news.xbox.com/en-us/2026/01/08/xbox-developer-direct-2026/)<!-- GAME:END -->
+ - [MTG might go even further than Universes Beyond in 2026](https://www.polygon.com/mtg-2026-schedule-universes-beyond-preview/)
+ - [Intel had the most exciting product launch at CES 2026 and I absolutely wasn&#39;t expecting that](https://www.pcgamer.com/hardware/gaming-laptops/intel-had-the-most-exciting-product-launch-at-ces-2026-and-i-absolutely-wasnt-expecting-that/)
+ - [Xbox Developer Direct games showcase announced for January 2026](https://www.polygon.com/xbox-showcase-2026-developer-direct-january-date-time/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
