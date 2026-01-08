@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Replit co-founder Amjad Masad, who was shunned in investor circles for his criticism of Israel&#39;s war in Gaza before Replit&#39;s AI agent took off &lpar;Margaux MacColl/The San Francisco ...&rpar;](http://www.techmeme.com/260108/p12#a260108p12)
- - [China says it will investigate Meta&#39;s $2B Manus acquisition to assess compliance with laws on export controls, tech import and export, and overseas investment &lpar;CNBC&rpar;](http://www.techmeme.com/260108/p11#a260108p11)
- - [RayNeo Air 4 Pro brings world’s first HDR10 AR display to your face](https://www.androidauthority.com/rayneo-air-4-pro-launch-3630910/)<!-- TECH:END -->
+ - [CES 2026: Segway Navimow’s latest robotic lawn mowers are “drop and mow” ready](https://www.androidauthority.com/ces-2026-segway-navimow-3630171/)
+ - [Sources: China&#39;s Salt Typhoon accessed the emails of staff on powerful US House committees, detected last December, and intercepted senior US officials&#39; calls &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/260108/p14#a260108p14)
+ - [This Is the Blood Glucose Monitor We’ve Been Waiting For](https://www.wired.com/story/blood-glucose-monitor-preevnt-isaac/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
