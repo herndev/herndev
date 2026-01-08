@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The MAGA-approved video of an ICE killing](https://www.theverge.com/tech/858710/minneapolis-ice-shooting-trump-video-footage-social-media)
- - [AliveCor takes another loss in ongoing Apple Watch sensor legal battle](https://appleinsider.com/articles/26/01/08/alivecor-takes-another-loss-in-ongoing-apple-watch-sensor-legal-battle?utm_source=rss)
- - [AirPods Pro 3 dip to $199.99 during Amazon&#39;s January sale](https://appleinsider.com/articles/26/01/08/airpods-pro-3-dip-to-19999-during-amazons-january-sale?utm_source=rss)<!-- TECH:END -->
+ - [These Bose Noise-Canceling Earbuds Are $50 Off](https://www.wired.com/story/bose-quietcomfort-ultra-earbuds-deal-126/)
+ - [Sources: OpenAI has been slow to expand in-app checkouts for ChatGPT as the startup and its partners Shopify and Stripe struggle to standardize merchant data &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/260108/p34#a260108p34)
+ - [AI Devices Are Coming. Will Your Favorite Apps Be Along for the Ride?](https://www.wired.com/story/openai-amazon-operating-system-ai-apps-ads/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
