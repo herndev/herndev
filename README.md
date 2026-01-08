@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her name was Iryna Zarutska.](http://9gag.com/gag/aMV65d1)
- - ⏩ [Based](http://9gag.com/gag/avyVqzM)
- - 👉 [Say when](http://9gag.com/gag/aqyOO1R)<!-- MEMES:END -->
+ - 💣 [Say when](http://9gag.com/gag/aqyOO1R)
+ - ⏩ [What is a turnaround?](http://9gag.com/gag/a5QAA1q)
+ - 👉 [What a good boy](http://9gag.com/gag/ajPj4Qq)<!-- MEMES:END -->
 
 ---
 
