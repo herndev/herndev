@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MTG might go even further than Universes Beyond in 2026](https://www.polygon.com/mtg-2026-schedule-universes-beyond-preview/)
- - [Intel had the most exciting product launch at CES 2026 and I absolutely wasn&#39;t expecting that](https://www.pcgamer.com/hardware/gaming-laptops/intel-had-the-most-exciting-product-launch-at-ces-2026-and-i-absolutely-wasnt-expecting-that/)
- - [Xbox Developer Direct games showcase announced for January 2026](https://www.polygon.com/xbox-showcase-2026-developer-direct-january-date-time/)<!-- GAME:END -->
+ - [Obex director made a Lynchian thriller more informed by Zelda than movies](https://www.polygon.com/obex-2026-video-game-movie-behind-the-scenes/)
+ - [Change the course of history in Rewind 99, a nostalgia-infused retail sim where you&#39;ll fight back against streaming services as the last remaining video rental store on the planet](https://www.pcgamer.com/games/sim/change-the-course-of-history-in-rewind-99-a-nostalgia-infused-retail-sim-where-youll-fight-back-against-streaming-services-as-the-last-remaining-video-rental-store-on-the-planet/)
+ - [Life is Strange: Reunion rumors sound like bad fanfiction](https://www.polygon.com/life-is-strange-reunion-max-and-chloe-square-enix/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
