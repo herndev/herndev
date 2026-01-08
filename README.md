@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Im jealous](http://9gag.com/gag/aE0b59o)
- - ⏩ [Is that the consequence of his own actions ?](http://9gag.com/gag/aZZKKzn)
- - 👉 [Say when](http://9gag.com/gag/aqyOO1R)<!-- MEMES:END -->
+ - 💣 [Based](http://9gag.com/gag/avyVqzM)
+ - ⏩ [Just a routine check, nothing to see here](http://9gag.com/gag/aYQB6Lq)
+ - 👉 [Im jealous](http://9gag.com/gag/aE0b59o)<!-- MEMES:END -->
 
 ---
 
