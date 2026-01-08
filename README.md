@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best TVs of CES 2026](https://www.theverge.com/tech/858366/the-best-tvs-of-ces-2026)
- - [Android’s time zone change notification might not leave you guessing anymore](https://www.androidauthority.com/android-time-zone-change-notification-update-3630961/)
- - [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)<!-- TECH:END -->
+ - [You can score a refurbished Sonos Arc SL soundbar for just $320](https://www.theverge.com/gadgets/858486/sonos-arc-sl-microsd-express-apple-charger-google-pixel-fold-deal-sale)
+ - [The PC market braces for an AI-driven storm](https://www.theverge.com/tech/858505/pc-market-ram-nand-ssd-gpu-pricing-notepad)
+ - [Roborock unveils app updates, CES 2026 robot vacuum &amp; mop lineup to automate home care](https://appleinsider.com/articles/26/01/08/roborock-unveils-app-updates-ces-2026-robot-vacuum-mop-lineup-to-automate-home-care?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
