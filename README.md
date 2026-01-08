@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is quietly making the Pixel Launcher faster with a new shortcut](https://www.androidauthority.com/pixel-launcher-app-opening-shortcut-rollout-3630852/)
- - [How to turn emails, webpages &amp; notes into Reminders with Apple Intelligence](https://appleinsider.com/articles/26/01/08/how-to-turn-emails-webpages-notes-into-reminders-with-apple-intelligence?utm_source=rss)
- - [Sources: OpenAI last fall set aside RSUs worth 10% of the company, which was valued in October at $500B; it has already awarded about $80B in vested equity &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260107/p44#a260107p44)<!-- TECH:END -->
+ - [Grok&#39;s website and app are being used to produce extremely graphic, sometimes violent, sexual imagery of adults that is far more explicit than images on X &lpar;Wired&rpar;](http://www.techmeme.com/260108/p2#a260108p2)
+ - [Jealous of Pixel 10’s AirDrop trick? Pixel 9 is getting it too with latest Android Canary build](https://www.androidauthority.com/pixel-9-airdrop-quick-share-support-android-canary-3630861/)
+ - [Chinese AI company Zhipu opened up 3.3% in its Hong Kong trading debut after raising ~$558M in its IPO at a valuation of about $6.55B &lpar;Yantoultra Ngui/Reuters&rpar;](http://www.techmeme.com/260108/p1#a260108p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
