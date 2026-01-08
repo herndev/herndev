@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Is About To Reach Potentially Life-Threatening Levels Of Cute](https://kotaku.com/minecraft-baby-animals-spring-drop-cuteness-2000658124)
- - [AirPods 4 Hit a Record Low to Kick Off New Year Deals, Now Apple’s Cheapest Earbuds](https://kotaku.com/airpods-4-hit-a-record-low-to-kick-off-new-year-deals-now-apples-cheapest-earbuds-2000657839)
- - [Greenland 2: How Children of Men inspired Gerard Butler&#39;s new post-apocalyptic thriller](https://www.polygon.com/greenland-2-migration-director-interview/)<!-- GAME:END -->
+ - [Phasmophobia developer Kinetic Games announces its next phase](https://www.polygon.com/phasmophobia-kinetic-publishing-indie-games-announcement/)
+ - [Legend of Heroes: Trails Beyond the Horizon review](https://www.polygon.com/trails-beyond-the-horizon-review/)
+ - [Developer_Direct Returns January 22: Watch Fable, Forza Horizon 6, and Beast of Reincarnation Gameplay, Direct from the Studios](https://news.xbox.com/en-us/2026/01/08/xbox-developer-direct-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
