@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Embark CEO says &#39;it would be fun&#39; to have an Arc Raiders TV show or movie after receiving multiple offers, but it&#39;s not in the cards right now](https://www.pcgamer.com/games/third-person-shooter/embark-ceo-says-it-would-be-fun-to-have-an-arc-raiders-tv-show-or-movie-after-receiving-multiple-offers-but-its-not-in-the-cards-right-now/)
  - [Arc Raider&#39;s defining feature, according to Embark&#39;s CEO, is all the odd player interactions: &#39;We did not expect people to take on roles of Defender of the Swamp&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-defining-feature-according-to-embarks-ceo-is-all-the-odd-player-interactions-we-did-not-expect-people-to-take-on-roles-of-defender-of-the-swamp/)
- - [Todd Howard didn&#39;t want Deathclaws to be &#39;just another creature&#39; in Fallout Season 2, and from I&#39;ve seen so far they&#39;re just as terrifying as I remember](https://www.pcgamer.com/games/fallout/todd-howard-didnt-want-deathclaws-to-be-just-another-creature-in-fallout-season-2-and-from-ive-seen-so-far-theyre-just-as-terrifying-as-i-remember/)
- - [Intel says it&#39;s shipped &#39;slightly north&#39; of 100 million AI PCs, which equates to roughly four &#39;ZOPS&#39;, or &#39;Zetta OPS&#39; of AI processing power](https://www.pcgamer.com/hardware/processors/intel-says-its-shipped-slightly-north-of-100-million-ai-pcs-which-equates-to-roughly-four-zops-or-zetta-ops-of-ai-processing-power/)<!-- GAME:END -->
+ - [Todd Howard didn&#39;t want Deathclaws to be &#39;just another creature&#39; in Fallout Season 2, and from I&#39;ve seen so far they&#39;re just as terrifying as I remember](https://www.pcgamer.com/games/fallout/todd-howard-didnt-want-deathclaws-to-be-just-another-creature-in-fallout-season-2-and-from-ive-seen-so-far-theyre-just-as-terrifying-as-i-remember/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
