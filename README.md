@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The latest Magic: The Gathering trailer is a puppet musical fever dream by The Jim Henson Company](https://www.pcgamer.com/games/card-games/the-latest-magic-the-gathering-trailer-is-a-puppet-musical-fever-dream-by-the-jim-henson-company/)
  - [&lpar;For Southeast Asia&rpar; Revealing the Hyperpop Collection with three new designs for PS5 accessories, launching this March](https://blog.playstation.com/2026/01/07/20260108-hyperpop/)
- - [Minecraft block or luxury paint color? Can you tell which is which?](https://www.pcgamer.com/games/minecraft-block-or-luxury-paint-color-can-you-tell-which-is-which/)
- - [Okay Asus, you&#39;ve intrigued me: The ROG Zephyrus Duo might finally convince me that dual screen laptops are a good idea](https://www.pcgamer.com/hardware/gaming-laptops/okay-asus-youve-intrigued-me-the-rog-zephyrus-duo-might-finally-convince-me-that-dual-screen-laptops-are-a-good-idea/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Revealing the Hyperpop Collection with three new designs for PS5 accessories, launching this March](https://blog.playstation.com/2026/01/07/20260108-hyperpop/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
