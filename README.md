@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the Stator blueprint in StarRupture](https://www.pcgamer.com/games/survival-crafting/where-to-find-the-stator-blueprint-in-starrupture/)
- - [Europe&#39;s PEGI game rating website leaks a new Life is Strange game, and it sure sounds like Max and Chloe are getting back together](https://www.pcgamer.com/games/adventure/europes-pegi-game-rating-website-leaks-a-new-life-is-strange-game-and-it-sure-sounds-like-max-and-chloe-are-getting-back-together/)
- - [PS5 Hyperpop covers and DualSense add a blast of neon to your console](https://www.polygon.com/ps5-new-dualsense-colors-covers-hyperpop-price-preorder/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Revealing the Hyperpop Collection with three new designs for PS5 accessories, launching this March](https://blog.playstation.com/2026/01/07/20260108-hyperpop/)
+ - [Minecraft block or luxury paint color? Can you tell which is which?](https://www.pcgamer.com/games/minecraft-block-or-luxury-paint-color-can-you-tell-which-is-which/)
+ - [Okay Asus, you&#39;ve intrigued me: The ROG Zephyrus Duo might finally convince me that dual screen laptops are a good idea](https://www.pcgamer.com/hardware/gaming-laptops/okay-asus-youve-intrigued-me-the-rog-zephyrus-duo-might-finally-convince-me-that-dual-screen-laptops-are-a-good-idea/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
