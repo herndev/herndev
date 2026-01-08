@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [America’s new era of energy imperialism is about more than oil](https://www.theverge.com/report/857978/trump-venezuela-greenland-oil-mineral-energy-imperialism)
- - [India fights Apple&#39;s attempts to reduce a potential $38 billion fine](https://appleinsider.com/articles/26/01/08/india-fights-apples-attempts-to-reduce-a-potential-38-billion-fine?utm_source=rss)
- - [Roku founder and CEO Anthony Wood predicts &quot;we&#39;ll see the first 100% AI-generated hit movie&quot; within three years and discusses Roku&#39;s new $3/month Howdy streamer &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/260108/p16#a260108p16)<!-- TECH:END -->
+ - [Google makes Help Me Write, AI email summaries, and Suggested Replies free to all Gmail users; the features required a Google AI Pro or Ultra subscription &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260108/p22#a260108p22)
+ - [Google rolls out an AI Inbox view for Gmail, showing users to-dos and summaries of topics rather than a traditional email list, first for US &quot;trusted testers&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260108/p21#a260108p21)
+ - [Google drops the paywall on Gmail’s most useful new tools](https://www.androidauthority.com/gmail-ai-features-free-for-everyone-3630905/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
