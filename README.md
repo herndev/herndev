@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Video should go into the Museum of Modern Art](http://9gag.com/gag/aByMM5Q)
- - ⏩ [Just a routine check, nothing to see here](http://9gag.com/gag/aYQB6Lq)
+ - 💣 [Can someone explain why Stevie Wonder wears a watch?](http://9gag.com/gag/a5QAAXq)
+ - ⏩ [Say when](http://9gag.com/gag/aqyOO1R)
  - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
 
 ---
