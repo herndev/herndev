@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bad with directions? Here’s how Google Maps on Android XR could help you never get lost again](https://www.androidauthority.com/google-maps-android-xr-navigation-gemini-3630887/)
- - [Samsung concludes Galaxy Ring investigation after swelling sent user to hospital](https://www.androidauthority.com/samsung-galaxy-ring-investigation-verdict-3630897/)
- - [Volvo touts EX60’s range and charging speed ahead of official debut](https://www.theverge.com/transportation/857933/volvo-ex60-range-charging-speed-megacasting-battery)<!-- TECH:END -->
+ - [A profile of Replit co-founder Amjad Masad, who was shunned in investor circles for his criticism of Israel&#39;s war in Gaza before Replit&#39;s AI agent took off &lpar;Margaux MacColl/The San Francisco ...&rpar;](http://www.techmeme.com/260108/p12#a260108p12)
+ - [China says it will investigate Meta&#39;s $2B Manus acquisition to assess compliance with laws on export controls, tech import and export, and overseas investment &lpar;CNBC&rpar;](http://www.techmeme.com/260108/p11#a260108p11)
+ - [RayNeo Air 4 Pro brings world’s first HDR10 AR display to your face](https://www.androidauthority.com/rayneo-air-4-pro-launch-3630910/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
