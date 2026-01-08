@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel says it&#39;s shipped &#39;slightly north&#39; of 100 million AI PCs, which equates to roughly four &#39;ZOPS&#39;, or &#39;Zetta OPS&#39; of AI processing power](https://www.pcgamer.com/hardware/processors/intel-says-its-shipped-slightly-north-of-100-million-ai-pcs-which-equates-to-roughly-four-zops-or-zetta-ops-of-ai-processing-power/)
- - [The Asus Micro-OLED AR gaming glasses might be the weirdest thing I&#39;ve ever tested at CES, and that&#39;s saying something](https://www.pcgamer.com/hardware/vr-hardware/the-asus-micro-oled-ar-gaming-glasses-might-be-the-weirdest-thing-ive-ever-tested-at-ces-and-thats-saying-something/)
- - [I did some quick and dirty testing of the Intel Arc B390 iGPU in Intel&#39;s new top-end Core Ultra chip and I&#39;m pretty impressed](https://www.pcgamer.com/hardware/processors/i-did-some-quick-and-dirty-testing-of-the-intel-arc-b390-igpu-in-intels-new-top-end-core-ultra-chips-and-im-pretty-impressed/)<!-- GAME:END -->
+ - [Arc Raider&#39;s defining feature, according to Embark&#39;s CEO, is all the odd player interactions: &#39;We did not expect people to take on roles of Defender of the Swamp&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-defining-feature-according-to-embarks-ceo-is-all-the-odd-player-interactions-we-did-not-expect-people-to-take-on-roles-of-defender-of-the-swamp/)
+ - [Todd Howard didn&#39;t want Deathclaws to be &#39;just another creature&#39; in Fallout Season 2, and from I&#39;ve seen so far they&#39;re just as terrifying as I remember](https://www.pcgamer.com/games/fallout/todd-howard-didnt-want-deathclaws-to-be-just-another-creature-in-fallout-season-2-and-from-ive-seen-so-far-theyre-just-as-terrifying-as-i-remember/)
+ - [Intel says it&#39;s shipped &#39;slightly north&#39; of 100 million AI PCs, which equates to roughly four &#39;ZOPS&#39;, or &#39;Zetta OPS&#39; of AI processing power](https://www.pcgamer.com/hardware/processors/intel-says-its-shipped-slightly-north-of-100-million-ai-pcs-which-equates-to-roughly-four-zops-or-zetta-ops-of-ai-processing-power/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
