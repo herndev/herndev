@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: UK-based cloud provider Nscale is in talks to raise about $2B, after raising more than $1.5B across a pair of rounds in September and October &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/260108/p42#a260108p42)
- - [OpenAI is rolling out a HIPAA-compliant version of ChatGPT for clinicians to assist with medical reasoning and administrative tasks, at Cedars-Sinai and others &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260108/p41#a260108p41)
- - [iOS 26.3 and macOS Tahoe 26.3 betas get second background security updates](https://appleinsider.com/articles/26/01/08/ios-263-and-macos-tahoe-263-betas-get-second-background-security-updates?utm_source=rss)<!-- TECH:END -->
+ - [YouTube is giving its search filters a big shake-up](https://www.androidauthority.com/youtube-search-filter-update-3631125/)
+ - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
+ - [Why a Chinese Robot Vacuum Company Spun Off Not One but 2 EV Brands](https://www.wired.com/story/made-in-china-what-chinese-companies-showed-off-at-ces/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
