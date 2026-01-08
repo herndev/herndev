@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How Much To Break Your Principles?](http://9gag.com/gag/aAy7Ang)
- - ⏩ [New Update!! Tank Doggo population in India in 2025: 3323](http://9gag.com/gag/aMV65xP)
- - 👉 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)<!-- MEMES:END -->
+ - 💣 [Im jealous](http://9gag.com/gag/aE0b59o)
+ - ⏩ [Is that the consequence of his own actions ?](http://9gag.com/gag/aZZKKzn)
+ - 👉 [Say when](http://9gag.com/gag/aqyOO1R)<!-- MEMES:END -->
 
 ---
 
