@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can score a refurbished Sonos Arc SL soundbar for just $320](https://www.theverge.com/gadgets/858486/sonos-arc-sl-microsd-express-apple-charger-google-pixel-fold-deal-sale)
- - [The PC market braces for an AI-driven storm](https://www.theverge.com/tech/858505/pc-market-ram-nand-ssd-gpu-pricing-notepad)
- - [Roborock unveils app updates, CES 2026 robot vacuum &amp; mop lineup to automate home care](https://appleinsider.com/articles/26/01/08/roborock-unveils-app-updates-ces-2026-robot-vacuum-mop-lineup-to-automate-home-care?utm_source=rss)<!-- TECH:END -->
+ - [Honor steps up to the big leagues with the Magic 8 Pro](https://www.theverge.com/gadgets/854163/honor-magic-8-pro-review)
+ - [Is this the world’s first solid-state battery?](https://www.theverge.com/transportation/858514/is-this-the-worlds-first-solid-state-battery)
+ - [Nintendo is bringing its cute My Mario collection to the US next month](https://www.theverge.com/tech/858587/nintendo-my-mario-apparal-toys-book-mobile-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
