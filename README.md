@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How Much To Break Your Principles?](http://9gag.com/gag/aAy7Ang)
- - ⏩ [Dances with smurfs](http://9gag.com/gag/aD2LLN7)
- - 👉 [Movement is still there](http://9gag.com/gag/a9ye0jD)<!-- MEMES:END -->
+ - 💣 [Based](http://9gag.com/gag/avyVqzM)
+ - ⏩ [Can someone explain why Stevie Wonder wears a watch?](http://9gag.com/gag/a5QAAXq)
+ - 👉 [Dances with smurfs](http://9gag.com/gag/aD2LLN7)<!-- MEMES:END -->
 
 ---
 
