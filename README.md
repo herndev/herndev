@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Leaked Synopsis Of The Next Life Is Strange Has Me Worried](https://kotaku.com/life-is-strange-5-reunion-chloe-max-summary-plot-leak-2000658198)
- - [Suika Game Planet is a whole new world of fruit merging](https://www.polygon.com/suika-game-planet-impressions/)
- - [GameStop shutters hundreds of stores as CEO gambles on $35B payday](https://www.polygon.com/gamestop-closing-stores-as-ceo-payday/)<!-- GAME:END -->
+ - [Update your MyAsus software now because there&#39;s a fix for a nasty hack that could easily ruin your day](https://www.pcgamer.com/hardware/motherboards/update-your-myasus-software-now-because-theres-a-fix-for-a-nasty-hack-that-could-easily-ruin-your-day/)
+ - [One Game Publisher Is Pushing Back Against AI Art With Contracts That Ban It: ‘It’s Cancerous’](https://kotaku.com/hooded-horse-gen-ai-art-ban-4x-strategy-steam-2000658179)
+ - [Star Wars Starfighter Movie Includes A Lightsaber Scene Shot By Tom Cruise](https://kotaku.com/star-wars-starfighter-lightsaber-jedi-tom-cruise-shot-scene-levy-deadpool-2000658194)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
