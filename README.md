@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Asus is now implementing &#39;strategic price adjustments&#39; and retailers are already hiking prices for laptops from other brands](https://www.pcgamer.com/hardware/asus-is-now-implementing-strategic-price-adjustments-and-retailers-are-already-hiking-prices-for-laptops-from-other-brands/)
  - [Minecraft teases its first drop of 2026, and it might finally be the thing that stops me from being a passive mob killing machine](https://www.pcgamer.com/games/survival-crafting/minecraft-teases-its-first-drop-of-2026-and-it-might-finally-be-the-thing-that-stops-me-from-being-a-passive-mob-killing-machine/)
- - [Embark CEO says Arc Raiders &#39;should do more with the trading part of the game&#39; and he&#39;s right](https://www.pcgamer.com/games/action/embark-ceo-says-arc-raiders-should-do-more-with-the-trading-part-of-the-game-and-hes-right/)
- - [Embark CEO says &#39;it would be fun&#39; to have an Arc Raiders TV show or movie after receiving multiple offers, but it&#39;s not in the cards right now](https://www.pcgamer.com/games/third-person-shooter/embark-ceo-says-it-would-be-fun-to-have-an-arc-raiders-tv-show-or-movie-after-receiving-multiple-offers-but-its-not-in-the-cards-right-now/)<!-- GAME:END -->
+ - [Embark CEO says Arc Raiders &#39;should do more with the trading part of the game&#39; and he&#39;s right](https://www.pcgamer.com/games/action/embark-ceo-says-arc-raiders-should-do-more-with-the-trading-part-of-the-game-and-hes-right/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
