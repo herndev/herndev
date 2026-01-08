@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Office colleagues really know how to make a birthday memorable](http://9gag.com/gag/aAy757Z)
- - ⏩ [What a good boy](http://9gag.com/gag/ajPj4Qq)
- - 👉 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)<!-- MEMES:END -->
+ - 💣 [It has to be seen by everyone.](http://9gag.com/gag/ary0Lo7)
+ - ⏩ [Denmark is ready!](http://9gag.com/gag/axy8rPW)
+ - 👉 [Only talking to you, technically](http://9gag.com/gag/an73oyn)<!-- MEMES:END -->
 
 ---
 
