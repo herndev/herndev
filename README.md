@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirVersa AP2 Air Purifier review: Compact Apple Home air purifier with Thread](https://appleinsider.com/articles/26/01/08/airversa-ap2-air-purifier-review-compact-apple-home-air-purifier-with-thread?utm_source=rss)
- - [Disney Plus is getting vertical video](https://www.theverge.com/tech/858277/disney-plus-vertical-video)
- - [Ford plans to launch an AI voice assistant on its apps this year before expanding to its vehicles in 2027, and aims to debut Level 3 autonomous driving in 2028 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260107/p42#a260107p42)<!-- TECH:END -->
+ - [Cyera researchers detail Ni8mare, a critical RCE flaw that lets hackers access local instances of the n8n workflow automation platform, impacting ~100K servers &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260107/p43#a260107p43)
+ - [Best Peloton Alternatives to Kickstart Your 2026 Fitness Goals](https://www.cnet.com/health/fitness/best-peloton-alternatives-if-youre-looking-for-other-solid-choices/)
+ - [I Just Had a 10 Minute Conversation in Polish &lpar;I Don&#39;t Speak Any Polish&rpar;](https://www.cnet.com/tech/ces-2026-vasco-language-translator/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
