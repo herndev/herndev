@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Card moving to Chase as issuer, confirms Apple](https://appleinsider.com/articles/26/01/07/apple-card-moving-to-chase-as-issuer-confirms-apple?utm_source=rss)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [CES 2026: Narwal’s latest flagship vacuum robot headlines its next-generation smart cleaning product lineup](https://www.androidauthority.com/ces-2026-narwal-3630537/)<!-- TECH:END -->
+ - [Ford’s AI voice assistant is coming later this year, L3 driving in 2028](https://www.theverge.com/transportation/857400/ford-ai-assistant-level-3-automation-ces-2026)
+ - [Chase is taking over Apple&amp;#8217;s credit card](https://www.theverge.com/news/858170/apple-card-jpmorgan-chase-sachs)
+ - [Trump family&#39;s World Liberty Financial says its entity World Liberty Trust has applied for a US banking license, which would let it issue the USD1 stablecoin &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260107/p39#a260107p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
