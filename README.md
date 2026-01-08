@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can someone explain why Stevie Wonder wears a watch?](http://9gag.com/gag/a5QAAXq)
- - ⏩ [Chair of Austria&#39;s NATO Enlargement Committee:](http://9gag.com/gag/aAy7AE9)
- - 👉 [What is a turnaround?](http://9gag.com/gag/a5QAA1q)<!-- MEMES:END -->
+ - 💣 [A silent own is the best](http://9gag.com/gag/aLn33KA)
+ - ⏩ [Her name was Iryna Zarutska.](http://9gag.com/gag/aMV65d1)
+ - 👉 [Chair of Austria&#39;s NATO Enlargement Committee:](http://9gag.com/gag/aAy7AE9)<!-- MEMES:END -->
 
 ---
 
