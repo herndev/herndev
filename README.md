@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Switch 2 Had A Rough Christmas Despite A Big Launch-Year Line-Up](https://kotaku.com/switch-2-christmas-holiday-sales-down-europe-uk-us-nintendo-2000658223)
- - [FF7 Rebirth Director Explains The Mini-Game Bloat](https://kotaku.com/final-fantasy-7-rebirth-minigames-remake-trilogy-3-game-2000658234)
- - [After promising Black Ops 7 skins would &#39;feel authentic to Call of Duty and its setting,&#39; Fallout has arrived in Call of Duty](https://www.pcgamer.com/games/fps/after-promising-black-ops-7-skins-would-feel-authentic-to-call-of-duty-and-its-setting-fallout-has-arrived-in-call-of-duty/)<!-- GAME:END -->
+ - [Holy Crap, Look At This Freaking Game About Giant Fantasy Mechs](https://kotaku.com/vampire-survivors-armored-core-vital-shell-mechs-2000658252)
+ - [Arc Raiders has a cheater problem, but Embarks says &#39;significant changes&#39; are coming to detection and ban systems](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-has-a-cheater-problem-but-embarks-says-significant-changes-are-coming-to-detection-and-ban-systems/)
+ - [All White Nevron locations in Clair Obscur Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-white-nevron-locations-kill-spare/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
