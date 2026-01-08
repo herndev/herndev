@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel says it&#39;s shipped &#39;slightly north&#39; of 100 million AI PCs, which equates to roughly four &#39;ZOPS&#39;, or &#39;Zetta OPS&#39; of AI processing power](https://www.pcgamer.com/hardware/processors/intel-says-its-shipped-slightly-north-of-100-million-ai-pcs-which-equates-to-roughly-four-zops-or-zetta-ops-of-ai-processing-power/)
  - [The Asus Micro-OLED AR gaming glasses might be the weirdest thing I&#39;ve ever tested at CES, and that&#39;s saying something](https://www.pcgamer.com/hardware/vr-hardware/the-asus-micro-oled-ar-gaming-glasses-might-be-the-weirdest-thing-ive-ever-tested-at-ces-and-thats-saying-something/)
- - [I did some quick and dirty testing of the Intel Arc B390 iGPU in Intel&#39;s new top-end Core Ultra chip and I&#39;m pretty impressed](https://www.pcgamer.com/hardware/processors/i-did-some-quick-and-dirty-testing-of-the-intel-arc-b390-igpu-in-intels-new-top-end-core-ultra-chips-and-im-pretty-impressed/)
- - [The latest Magic: The Gathering trailer is a puppet musical fever dream by The Jim Henson Company](https://www.pcgamer.com/games/card-games/the-latest-magic-the-gathering-trailer-is-a-puppet-musical-fever-dream-by-the-jim-henson-company/)<!-- GAME:END -->
+ - [I did some quick and dirty testing of the Intel Arc B390 iGPU in Intel&#39;s new top-end Core Ultra chip and I&#39;m pretty impressed](https://www.pcgamer.com/hardware/processors/i-did-some-quick-and-dirty-testing-of-the-intel-arc-b390-igpu-in-intels-new-top-end-core-ultra-chips-and-im-pretty-impressed/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
