@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grok&#39;s website and app are being used to produce extremely graphic, sometimes violent, sexual imagery of adults that is far more explicit than images on X &lpar;Wired&rpar;](http://www.techmeme.com/260108/p2#a260108p2)
- - [Jealous of Pixel 10’s AirDrop trick? Pixel 9 is getting it too with latest Android Canary build](https://www.androidauthority.com/pixel-9-airdrop-quick-share-support-android-canary-3630861/)
- - [Chinese AI company Zhipu opened up 3.3% in its Hong Kong trading debut after raising ~$558M in its IPO at a valuation of about $6.55B &lpar;Yantoultra Ngui/Reuters&rpar;](http://www.techmeme.com/260108/p1#a260108p1)<!-- TECH:END -->
+ - [The first Android Canary release of 2026 is here!](https://www.androidauthority.com/android-canary-january-2026-3630876/)
+ - [Peacock Promo Codes: 16% Off January 2026](https://www.wired.com/story/peacock-promo-code/)
+ - [Samsung says Ballie, a robot announced six years ago but never released, is an &quot;active innovation platform&quot; within the company helping inform other products &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260108/p6#a260108p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
