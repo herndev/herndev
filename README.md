@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
- - ⏩ [What a good boy](http://9gag.com/gag/ajPj4Qq)
- - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
+ - 💣 [Western european mind cannot comprehend this](http://9gag.com/gag/a9yeGwo)
+ - ⏩ [Not AI. It&#39;s A series of photos put together. Camera man didn&#39;t survive this time. Full story in comments](http://9gag.com/gag/a9ye0Kj)
+ - 👉 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)<!-- MEMES:END -->
 
 ---
 
