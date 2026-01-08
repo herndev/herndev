@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus is now implementing &#39;strategic price adjustments&#39; and retailers are already hiking prices for laptops from other brands](https://www.pcgamer.com/hardware/asus-is-now-implementing-strategic-price-adjustments-and-retailers-are-already-hiking-prices-for-laptops-from-other-brands/)
- - [Minecraft teases its first drop of 2026, and it might finally be the thing that stops me from being a passive mob killing machine](https://www.pcgamer.com/games/survival-crafting/minecraft-teases-its-first-drop-of-2026-and-it-might-finally-be-the-thing-that-stops-me-from-being-a-passive-mob-killing-machine/)
- - [Embark CEO says Arc Raiders &#39;should do more with the trading part of the game&#39; and he&#39;s right](https://www.pcgamer.com/games/action/embark-ceo-says-arc-raiders-should-do-more-with-the-trading-part-of-the-game-and-hes-right/)<!-- GAME:END -->
+ - [Minecraft Is About To Reach Potentially Life-Threatening Levels Of Cute](https://kotaku.com/minecraft-baby-animals-spring-drop-cuteness-2000658124)
+ - [AirPods 4 Hit a Record Low to Kick Off New Year Deals, Now Apple’s Cheapest Earbuds](https://kotaku.com/airpods-4-hit-a-record-low-to-kick-off-new-year-deals-now-apples-cheapest-earbuds-2000657839)
+ - [Greenland 2: How Children of Men inspired Gerard Butler&#39;s new post-apocalyptic thriller](https://www.polygon.com/greenland-2-migration-director-interview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
