@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Family group activity!](http://9gag.com/gag/aD2L9Xd)
- - ⏩ [It&#39;s Wednesday my dudes](http://9gag.com/gag/aGyq5y7)
- - 👉 [What a good boy](http://9gag.com/gag/ajPj4Qq)<!-- MEMES:END -->
+ - 💣 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
+ - ⏩ [What a good boy](http://9gag.com/gag/ajPj4Qq)
+ - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
 
 ---
 
