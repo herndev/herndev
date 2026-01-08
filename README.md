@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A silent own is the best](http://9gag.com/gag/aLn33KA)
+ - 💣 [Say when](http://9gag.com/gag/aqyOO1R)
  - ⏩ [Her name was Iryna Zarutska.](http://9gag.com/gag/aMV65d1)
- - 👉 [Chair of Austria&#39;s NATO Enlargement Committee:](http://9gag.com/gag/aAy7AE9)<!-- MEMES:END -->
+ - 👉 [Family group activity!](http://9gag.com/gag/aD2L9Xd)<!-- MEMES:END -->
 
 ---
 
