@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We know what they did to RAM prices.](http://9gag.com/gag/aW4A3N6)
- - ⏩ [And hopefully the last](http://9gag.com/gag/a9yexdZ)
- - 👉 [There\u2019s a special kind of silence when someone realizes, \u201cdamn\u2026 he was right.\u201d](http://9gag.com/gag/aZZKOPn)<!-- MEMES:END -->
+ - 💣 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
+ - ⏩ [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 👉 [Here you go buddy](http://9gag.com/gag/aVv8pLO)<!-- MEMES:END -->
 
 ---
 
