@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)
- - [Inside Preview in iOS 26 - how to edit PDFs, sign documents, and scan files](https://appleinsider.com/inside/ios-26/tips/inside-preview-in-ios-26---how-to-edit-pdfs-sign-documents-and-scan-files?utm_source=rss)
- - [Rain, which helps businesses issue stablecoin-linked Visa cards, raised a $250M Series C led by ICONIQ at a $1.95B valuation, bringing total funding to $338M+ &lpar;Pragyan Kalita/Reuters&rpar;](http://www.techmeme.com/260109/p11#a260109p11)<!-- TECH:END -->
+ - [CES 2026 was awash in bodily fluids](https://www.theverge.com/tech/859132/optimizer-ces-2026-metabolism-bodily-fluids-health-tech-wearables)
+ - [Don&#39;t believe all the rumors you hear about Apple&#39;s 20th-anniversary iPhone](https://appleinsider.com/articles/26/01/09/dont-believe-all-the-rumors-you-hear-about-apples-20th-anniversary-iphone?utm_source=rss)
+ - [Steve Jobs unveiled the first iPhone on this day in 2007](https://appleinsider.com/articles/26/01/09/when-apple-introduced-the-iphone-on-jan-9-2007-it-was-the-ultimate-computer-for-the-rest-of-us?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
