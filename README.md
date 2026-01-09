@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Democrats ask Apple and Google to remove X’s undressing bot from their app stores](https://www.theverge.com/news/859631/democrats-x-grok-apple-google-app-store)
- - [Google Photos may finally let you choose when your pictures are backed up](https://www.androidauthority.com/google-photos-backup-schedule-3631410/)
- - [Ray-Ban Meta smart glasses can now single out a voice in a nosy crowd](https://www.androidauthority.com/ray-ban-meta-conversation-focus-3631424/)<!-- TECH:END -->
+ - [Senators tell Apple to remove X &amp; Grok from App Store because of AI-generated child porn](https://appleinsider.com/articles/26/01/09/senators-tell-apple-to-remove-x-grok-from-app-store-because-of-ai-generated-child-porn?utm_source=rss)
+ - [The first sets with Lego’s new Smart Brick are now available for preorder](https://www.theverge.com/tech/859525/lego-smart-brick-play-system-now-available-preorder-star-wars-sets)
+ - [Baldur&amp;#8217;s Gate 3 studio says it won&amp;#8217;t use AI for concept art or writing](https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
