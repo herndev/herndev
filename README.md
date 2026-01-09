@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Senators tell Apple to remove X &amp; Grok from App Store because of AI-generated child porn](https://appleinsider.com/articles/26/01/09/senators-tell-apple-to-remove-x-grok-from-app-store-because-of-ai-generated-child-porn?utm_source=rss)
- - [The first sets with Lego’s new Smart Brick are now available for preorder](https://www.theverge.com/tech/859525/lego-smart-brick-play-system-now-available-preorder-star-wars-sets)
- - [Baldur&amp;#8217;s Gate 3 studio says it won&amp;#8217;t use AI for concept art or writing](https://www.theverge.com/games/859551/baldurs-gate-3-larian-studios-gen-ai-concept-art-reddit-ama)<!-- TECH:END -->
+ - [Meta expands nuclear power ambitions to include Bill Gates&amp;#8217; startup](https://www.theverge.com/news/859751/meta-nuclear-energy-plant-agreements-ai-data-centers)
+ - [The UK government says X restricting Grok&#39;s image creation to paid users is insulting as it just makes the ability to generate unlawful images a premium service &lpar;The Guardian&rpar;](http://www.techmeme.com/260109/p16#a260109p16)
+ - [Legendary classic Macintosh game &#39;Dark Castle&#39; is coming back to the Mac](https://appleinsider.com/articles/26/01/09/legendary-classic-macintosh-game-dark-castle-is-coming-back-to-the-mac?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
