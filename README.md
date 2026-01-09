@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only talking to you, technically](http://9gag.com/gag/an73oyn)
- - ⏩ [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
- - 👉 [Nature is beautiful...](http://9gag.com/gag/adBMzBM)<!-- MEMES:END -->
+ - 💣 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
+ - ⏩ [Family group activity!](http://9gag.com/gag/aD2L9Xd)
+ - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
 
 ---
 
