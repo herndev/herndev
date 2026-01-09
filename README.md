@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Lambda, which rents access to AI chips and is backed by Nvidia, is in talks to raise $350M+ led by Mubadala Capital, ahead of an IPO planned for H2 2026 &lpar;The Information&rpar;](http://www.techmeme.com/260108/p50#a260108p50)
- - [ICE Agent Who Reportedly Shot Renee Good Was a Firearms Trainer, Per Testimony](https://www.wired.com/story/ice-agent-jonathan-ross-renee-good-shooting-firearms-trainer-testimony/)
- - [Seattle-based Spangle AI, which makes AI tools for online retailers to build custom storefronts, raised a $15M Series A led by NewRoad at a $100M valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/260108/p49#a260108p49)<!-- TECH:END -->
+ - [Chinese AI startup MiniMax jumped as much as 54% in its Hong Kong debut on Friday, after raising ~$619M in its IPO priced at ~$21.17 per share &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/260108/p51#a260108p51)
+ - [How to bring back Launchpad on macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-bring-back-launchpad-on-macos-tahoe?utm_source=rss)
+ - [Source: Lambda, which rents access to AI chips and is backed by Nvidia, is in talks to raise $350M+ led by Mubadala Capital, ahead of an IPO planned for H2 2026 &lpar;The Information&rpar;](http://www.techmeme.com/260108/p50#a260108p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
