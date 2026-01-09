@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alien: Isolation&#39;s Xenomorph reveal is a masterclass in quiet terror](https://www.polygon.com/alien-isolation-xenomorph-cutscene/)
- - [Kingdom Come Deliverance 2 Boss Says Only ‘Terminally Online Culture Warriors’ Care About Controversies](https://kotaku.com/kingdom-come-deliverance-2-boss-terminally-online-culture-warriors-controveries-gay-repersenation-2000658501)
- - [GameStop&#39;s future in turmoil as estimated 400 stores close in 2026](https://www.polygon.com/gamestop-retail-store-closures-2026/)<!-- GAME:END -->
+ - [Greenland 2 ending explained: Director breaks down [SPOILERS] death and pitches a wild sequel](https://www.polygon.com/greenland-2-ending-explained/)
+ - [Galaxy Quest is streaming for free on Tubi — and it&#39;s never been more relevant](https://www.polygon.com/galaxy-quest-watch-free-tubi-stream/)
+ - [Elon Musk’s Bot Lies About Locking Deepfake Nudity Factory Behind A Paywall](https://kotaku.com/elon-musk-grok-ai-deepfakes-undressed-images-2000658486)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
