@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
- - ⏩ [@ahaja007 you were looking for this.](http://9gag.com/gag/a9ye0dD)
- - 👉 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)<!-- MEMES:END -->
+ - 💣 [Only talking to you, technically](http://9gag.com/gag/an73oyn)
+ - ⏩ [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
+ - 👉 [Nature is beautiful...](http://9gag.com/gag/adBMzBM)<!-- MEMES:END -->
 
 ---
 
