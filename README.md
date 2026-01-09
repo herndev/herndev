@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
  - ⏩ [What a good boy](http://9gag.com/gag/ajPj4Qq)
- - 👉 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)<!-- MEMES:END -->
+ - 👉 [Chad Clanker](http://9gag.com/gag/a5QAOPV)<!-- MEMES:END -->
 
 ---
 
