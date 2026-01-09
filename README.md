@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [GTA 6 speculation mutates into delay &#39;rumor,&#39; leading to anxious fans and a prediction market betting frenzy for no good reason](https://www.pcgamer.com/games/grand-theft-auto/casual-gta-6-speculation-mutates-into-delay-rumor-leading-to-anxious-fans-and-prediction-market-frenzy-for-no-good-reason/)
  - [&#39;I f**king hate gen AI art,&#39; Hooded Horse chief says: &#39;If we&#39;re publishing the game, no f**king AI assets&#39;](https://www.pcgamer.com/software/ai/i-f-king-hate-gen-ai-art-hooded-horse-chief-says-if-were-publishing-the-game-no-f-king-ai-assets/)
- - [2025’s Underrated RPG Avowed Will Come To PS5 With A Big Update](https://kotaku.com/avowed-ps5-port-new-game-plus-update-races-2000658274)
- - [How to get mushrooms in Schedule 1](https://www.pcgamer.com/games/sim/schedule-1-how-to-get-shrooms/)<!-- GAME:END -->
+ - [2025’s Underrated RPG Avowed Will Come To PS5 With A Big Update](https://kotaku.com/avowed-ps5-port-new-game-plus-update-races-2000658274)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
