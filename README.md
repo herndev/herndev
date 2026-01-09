@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Office colleagues really know how to make a birthday memorable](http://9gag.com/gag/aAy757Z)
- - ⏩ [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 👉 [Not AI. It&#39;s A series of photos put together. Camera man didn&#39;t survive this time. Full story in comments](http://9gag.com/gag/a9ye0Kj)<!-- MEMES:END -->
+ - 💣 [Best Boi](http://9gag.com/gag/awyDWKQ)
+ - ⏩ [Creeping Death](http://9gag.com/gag/an73orL)
+ - 👉 [Only talking to you, technically](http://9gag.com/gag/an73oyn)<!-- MEMES:END -->
 
 ---
 
