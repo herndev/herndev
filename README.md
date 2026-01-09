@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Artemis Analytics: total stablecoin transaction volumes rose 72% YoY to a record $33T in 2025, led by Circle&#39;s USDC at $18.3T and Tether&#39;s USDT at $13.3T &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260109/p1#a260109p1)
  - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-9/)
- - [Chinese AI startup MiniMax jumped as much as 54% in its Hong Kong debut on Friday, after raising ~$619M in its IPO priced at ~$21.17 per share &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/260108/p51#a260108p51)
- - [How to bring back Launchpad on macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-bring-back-launchpad-on-macos-tahoe?utm_source=rss)<!-- TECH:END -->
+ - [Chinese AI startup MiniMax jumped as much as 54% in its Hong Kong debut on Friday, after raising ~$619M in its IPO priced at ~$21.17 per share &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/260108/p51#a260108p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
