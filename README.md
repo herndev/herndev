@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Greenland 2 ending explained: Director breaks down [SPOILERS] death and pitches a wild sequel](https://www.polygon.com/greenland-2-ending-explained/)
- - [Galaxy Quest is streaming for free on Tubi — and it&#39;s never been more relevant](https://www.polygon.com/galaxy-quest-watch-free-tubi-stream/)
- - [Elon Musk’s Bot Lies About Locking Deepfake Nudity Factory Behind A Paywall](https://kotaku.com/elon-musk-grok-ai-deepfakes-undressed-images-2000658486)<!-- GAME:END -->
+ - [Over half of The Sims development team is working on The Sims 4 and &#39;the next evolution&#39; so I guess it&#39;s time to start speculating again](https://www.pcgamer.com/games/the-sims/over-half-of-the-sims-development-team-is-working-on-the-sims-4-and-the-next-evolution-so-i-guess-its-time-to-start-speculating-again/)
+ - [Divinity&#39;s reveal trailer was brutal and dark for a reason, Larian&#39;s writing director says: &#39;We want to give players the opportunity to be the light in that darkness&#39;](https://www.pcgamer.com/games/rpg/divinitys-reveal-trailer-was-brutal-and-dark-for-a-reason-larians-writing-director-says-we-want-to-give-players-the-opportunity-to-be-the-light-in-that-darkness/)
+ - [It&#39;s not the news we wanted but it&#39;s what we expected: EA has finally admitted Project Rene is a &#39;mobile-first&#39; game](https://www.pcgamer.com/games/the-sims/its-not-the-news-we-wanted-but-its-what-we-expected-ea-has-finally-admitted-project-rene-is-a-mobile-first-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
