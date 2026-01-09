@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Solawave Wand Fans: Don&#39;t Miss This Buy One, Get One Free Sale](https://www.wired.com/story/solawave-wand-fans-this-buy-one-get-one-free-deal-is-for-you/)
- - [Tim Cook and Sundar Pichai are cowards](https://www.theverge.com/policy/859902/apple-google-run-by-cowards)
- - [An Android Auto bug is messing up messaging for some users](https://www.androidauthority.com/android-auto-messaging-reply-bug-3631521/)<!-- TECH:END -->
+ - [X accuses music publishers of &amp;#8216;weaponizing&amp;#8217; DMCA takedowns](https://www.theverge.com/news/860013/x-nmpa-music-publishers-dmca-antitrust-lawsuit)
+ - [This company could help bring Auracast to an iPhone near you](https://www.theverge.com/tech/860010/atitan-bluetooth-auracast-transceiver-ces-2026)
+ - [AI is coming for collectibles next](https://www.theverge.com/tech/859994/ai-collectibles-funko-pops-amiibo-buddyo-heymates-ces-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
