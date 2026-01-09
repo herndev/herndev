@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A16z captured 18%+ of all US venture capital allocated in 2025 and now manages $90B in assets, vs Sequoia Capital&#39;s $56B and General Catalyst&#39;s $43B &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260109/p13#a260109p13)
- - [You can break apart and share this 10K power bank like a KitKat bar](https://www.theverge.com/tech/859493/nimble-champ-stack-10k-power-bank-shareable)
- - [X Didn&#39;t Fix Grok&#39;s ‘Undressing’ Problem. It Just Makes People Pay for It](https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/)<!-- TECH:END -->
+ - [Democrats ask Apple and Google to remove X’s undressing bot from their app stores](https://www.theverge.com/news/859631/democrats-x-grok-apple-google-app-store)
+ - [Google Photos may finally let you choose when your pictures are backed up](https://www.androidauthority.com/google-photos-backup-schedule-3631410/)
+ - [Ray-Ban Meta smart glasses can now single out a voice in a nosy crowd](https://www.androidauthority.com/ray-ban-meta-conversation-focus-3631424/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
