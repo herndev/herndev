@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The legend](http://9gag.com/gag/ayNAb2r)
- - ⏩ [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 💣 [Is this the perfect time for the second amendment?](http://9gag.com/gag/aByM5N1)
+ - ⏩ [The legend](http://9gag.com/gag/ayNAb2r)
  - 👉 [Shut her down real quick](http://9gag.com/gag/amoy484)<!-- MEMES:END -->
 
 ---
