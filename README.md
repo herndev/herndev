@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best racing games coming in 2026](https://www.polygon.com/racing-games-preview-2026/)
- - [Would You Pay Over $1,000 For A Steam Machine?](https://kotaku.com/steam-machine-price-leak-division-3-fable-ps5-2000658489)
- - [Tetris creator says the Rubik&#39;s cube is &#39;the symbol of modern civilisation&#39; and we should send them into space](https://www.pcgamer.com/games/tetris-creator-says-the-rubiks-cube-is-the-symbol-of-modern-civilisation-and-we-should-send-them-into-space/)<!-- GAME:END -->
+ - [Alien: Isolation&#39;s Xenomorph reveal is a masterclass in quiet terror](https://www.polygon.com/alien-isolation-xenomorph-cutscene/)
+ - [Kingdom Come Deliverance 2 Boss Says Only ‘Terminally Online Culture Warriors’ Care About Controversies](https://kotaku.com/kingdom-come-deliverance-2-boss-terminally-online-culture-warriors-controveries-gay-repersenation-2000658501)
+ - [GameStop&#39;s future in turmoil as estimated 400 stores close in 2026](https://www.polygon.com/gamestop-retail-store-closures-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
