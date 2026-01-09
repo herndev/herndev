@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [a16z raises over $15B across five new funds, including $6.75B for its fifth growth fund and $3B for unspecified &quot;other venture strategies&quot; &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/260109/p8#a260109p8)
- - [No, Grok hasn&amp;#8217;t paywalled its deepfake image feature](https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting)
- - [Reality still matters](https://www.theverge.com/policy/859055/minneapolis-renee-good-ice-shooting)<!-- TECH:END -->
+ - [The best tech announced at CES 2026 so far](https://www.theverge.com/tech/854159/ces-2026-best-tech-gadgets-smartphones-appliances-robots-tvs-ai-smart-home)
+ - [Inside Preview in iOS 26 - how to edit PDFs, sign documents, and scan files](https://appleinsider.com/inside/ios-26/tips/inside-preview-in-ios-26---how-to-edit-pdfs-sign-documents-and-scan-files?utm_source=rss)
+ - [Rain, which helps businesses issue stablecoin-linked Visa cards, raised a $250M Series C led by ICONIQ at a $1.95B valuation, bringing total funding to $338M+ &lpar;Pragyan Kalita/Reuters&rpar;](http://www.techmeme.com/260109/p11#a260109p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
