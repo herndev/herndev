@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shut her down real quick](http://9gag.com/gag/amoy484)
- - ⏩ [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
- - 👉 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)<!-- MEMES:END -->
+ - 💣 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
+ - ⏩ [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
+ - 👉 [What the duck](http://9gag.com/gag/a879xZO)<!-- MEMES:END -->
 
 ---
 
