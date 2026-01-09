@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Game Pass games with amazing intro sequences](https://www.polygon.com/best-xbox-game-pass-games-rec-weekend-jan-9-2026/)
- - [Mothership Is A New Website About Gender And Games Which Feels Like A Radical Thing To Launch In 2026 But Shouldn’t Be](https://kotaku.com/mothership-is-a-new-website-about-gender-and-games-which-feels-like-a-radical-thing-to-launch-in-2026-but-shouldnt-be-2000658510)
- - [GameStop CEO Aims For $35 Billion Payout As Stores Close By The Hundreds](https://kotaku.com/gamestop-ceo-stores-closing-payout-ryan-cohen-2000658532)<!-- GAME:END -->
+ - [Tron 3 and a new Predator are finally streaming this weekend](https://www.polygon.com/new-movies-to-watch-tron-ares-predator-badlands-january-9-2026/)
+ - [Baldur&#39;s Gate 3&#39;s lead writer hopes we won&#39;t want to save scum in Divinity: &#39;Our ambition is certainly to make failure more interesting&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3s-lead-writer-hopes-we-wont-want-to-save-scum-in-divinity-our-ambition-is-certainly-to-make-failure-more-interesting/)
+ - [Valve spent 2025 ripping apart Deadlock and putting it back together, and it delivered better live service than most live service games](https://www.pcgamer.com/games/moba/state-of-deadlock-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
