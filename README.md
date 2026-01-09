@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another major Android brand could steal Apple’s wide Fold thunder](https://www.androidauthority.com/oppo-find-n6-n7-foldable-launch-leak-3631300/)
- - [Galaxy phones are finally getting Google Play system updates again, with a big catch](https://www.androidauthority.com/samsung-roll-out-google-play-system-updates-3631291/)
- - [Gain Momentum With These 7 Simple Wellness Resolutions and Conquer 2026](https://www.cnet.com/health/try-these-7-new-years-wellness-resolutions-that-youll-actually-stick-to/)<!-- TECH:END -->
+ - [Microsoft is making it much easier to add hyperlinks in Word docs](https://www.theverge.com/news/859288/microsoft-word-hyperlinks-new-shortcut)
+ - [This is our first look at how Samsung will save Bixby](https://www.androidauthority.com/samsung-bixby-integration-with-perplexity-3631324/)
+ - [Fans blow. Could tiny speakers be a smarter way to cool down devices?](https://www.androidauthority.com/xmems-coolilng-3630848/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
