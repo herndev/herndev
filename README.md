@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
+ - 💣 [The legend](http://9gag.com/gag/ayNAb2r)
  - ⏩ [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 👉 [Here you go buddy](http://9gag.com/gag/aVv8pLO)<!-- MEMES:END -->
+ - 👉 [Shut her down real quick](http://9gag.com/gag/amoy484)<!-- MEMES:END -->
 
 ---
 
