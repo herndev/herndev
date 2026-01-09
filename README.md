@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best Boi](http://9gag.com/gag/awyDWKQ)
- - ⏩ [Creeping Death](http://9gag.com/gag/an73orL)
- - 👉 [Only talking to you, technically](http://9gag.com/gag/an73oyn)<!-- MEMES:END -->
+ - 💣 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
+ - ⏩ [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
+ - 👉 [This happens in USA a lot. Employee caught sharing customer\u2019s credit card information with her friend via facetime!](http://9gag.com/gag/a879Nyp)<!-- MEMES:END -->
 
 ---
 
