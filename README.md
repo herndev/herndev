@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Movie quiz: Can you guess the first shots of these famous franchises?](https://www.polygon.com/movie-franchise-first-frames-quiz/)
- - [Elder Scrolls fans are taking it well after Microsoft says it&#39;s a &#39;big year for games ending in 6&#39; ahead of its upcoming Xbox Direct showcase: &#39;I&#39;m practically living off hopium and copium at this point&#39;](https://www.pcgamer.com/games/rpg/elder-scrolls-fans-are-taking-it-well-after-microsoft-says-its-a-big-year-for-games-ending-in-6-ahead-of-its-upcoming-xbox-direct-showcase-im-practically-living-off-hopium-and-copium-at-this-point/)
- - [The Conspiracy That Todd Howard Hates Fallout: New Vegas Is Absurd](https://kotaku.com/todd-howard-doesnt-hate-fallout-new-vegas-season-2-canon-rumors-true-2000657238)<!-- GAME:END -->
+ - [The best racing games coming in 2026](https://www.polygon.com/racing-games-preview-2026/)
+ - [Would You Pay Over $1,000 For A Steam Machine?](https://kotaku.com/steam-machine-price-leak-division-3-fable-ps5-2000658489)
+ - [Tetris creator says the Rubik&#39;s cube is &#39;the symbol of modern civilisation&#39; and we should send them into space](https://www.pcgamer.com/games/tetris-creator-says-the-rubiks-cube-is-the-symbol-of-modern-civilisation-and-we-should-send-them-into-space/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
