@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based](http://9gag.com/gag/avyVqzM)
- - ⏩ [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
- - 👉 [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)<!-- MEMES:END -->
+ - 💣 [Only talking to you, technically](http://9gag.com/gag/an73oyn)
+ - ⏩ [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
+ - 👉 [Best Boi](http://9gag.com/gag/awyDWKQ)<!-- MEMES:END -->
 
 ---
 
