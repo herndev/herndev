@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons &amp; Dragons is primed for a major reinvention in 2026](https://www.polygon.com/dnd-dungeons-dragons-2026-preview/)
- - [Next Week on Xbox: New Games for January 12 to 16](https://news.xbox.com/en-us/2026/01/09/next-week-on-xbox-new-games-for-january-12-to-16/)
- - [Samsung Goes All-In on Odyssey Gaming Monitors, 32″ G50D Series Hits an All-Time Low at 42% Off](https://kotaku.com/samsung-goes-all-in-on-odyssey-gaming-monitors-32-g50d-series-hits-an-all-time-low-at-42-off-2000658292)<!-- GAME:END -->
+ - [Expedition 33 gave its twist away in the opening minutes](https://www.polygon.com/clair-obscur-expedition-33-prologue-twist-paintress/)
+ - [Hit isekai KonoSuba teases anime announcement for 10th anniversary celebrations](https://www.polygon.com/konosuba-10th-anniversary-announcements-season-4/)
+ - [15 Things We Just Learned About Divinity](https://kotaku.com/divinity-rpg-larian-bg3-loot-coop-2000658437)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
