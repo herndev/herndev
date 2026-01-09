@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Omdia: global humanoid robot shipments rose more than 5x YoY in 2025 to ~13K units; China accounted for the vast majority, led by AgiBot shipping ~5,168 units &lpar;Bloomberg&rpar;](http://www.techmeme.com/260109/p3#a260109p3)
- - [Chinese humanoid robotics companies dominated CES 2026, but a wide gap remains between choreographed demonstrations and real-world deployment &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260109/p2#a260109p2)
- - [NZXT Discount Codes: 50% Off in January 2026](https://www.wired.com/story/nzxt-discount-code/)<!-- TECH:END -->
+ - [Another major Android brand could steal Apple’s wide Fold thunder](https://www.androidauthority.com/oppo-find-n6-n7-foldable-launch-leak-3631300/)
+ - [Galaxy phones are finally getting Google Play system updates again, with a big catch](https://www.androidauthority.com/samsung-roll-out-google-play-system-updates-3631291/)
+ - [X limits Grok&#39;s image generation and editing to paying subscribers after widespread outcry over its use to create sexually explicit and violent imagery &lpar;Helena Horton/The Guardian&rpar;](http://www.techmeme.com/260109/p4#a260109p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
