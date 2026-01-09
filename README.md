@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
- - ⏩ [Zero shame](http://9gag.com/gag/avyVKpZ)
- - 👉 [A muntjac deer fights a rhino in Wroclaw Zoo](http://9gag.com/gag/an73om5)<!-- MEMES:END -->
+ - 💣 [Shut her down real quick](http://9gag.com/gag/amoy484)
+ - ⏩ [Creative parents and medicine](http://9gag.com/gag/a6Zz6MA)
+ - 👉 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)<!-- MEMES:END -->
 
 ---
 
