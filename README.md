@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is making it much easier to add hyperlinks in Word docs](https://www.theverge.com/news/859288/microsoft-word-hyperlinks-new-shortcut)
- - [This is our first look at how Samsung will save Bixby](https://www.androidauthority.com/samsung-bixby-integration-with-perplexity-3631324/)
- - [Fans blow. Could tiny speakers be a smarter way to cool down devices?](https://www.androidauthority.com/xmems-coolilng-3630848/)<!-- TECH:END -->
+ - [The Verge Awards at CES 2026](https://www.theverge.com/tech/858494/ces-2026-best-new-tech-tv-car-wearable)
+ - [Evercore raises its Apple price target to $330 on iPhone 17 demand](https://appleinsider.com/articles/26/01/09/evercore-raises-its-apple-price-target-to-330-on-iphone-17-demand?utm_source=rss)
+ - [Meta strikes a 20-year deal to buy 2,600+ MW of nuclear power from Vistra, and announces deals to back new reactor projects from TerraPower and Oklo &lpar;Jennifer Hiller/Wall Street Journal&rpar;](http://www.techmeme.com/260109/p6#a260109p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
