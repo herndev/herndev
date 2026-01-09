@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best Boi](http://9gag.com/gag/awyDWKQ)
- - ⏩ [A muntjac deer fights a rhino in Wroclaw Zoo](http://9gag.com/gag/an73om5)
- - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
+ - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - ⏩ [What a good boy](http://9gag.com/gag/ajPj4Qq)
+ - 👉 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)<!-- MEMES:END -->
 
 ---
 
