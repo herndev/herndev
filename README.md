@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 6 speculation mutates into delay &#39;rumor,&#39; leading to anxious fans and a prediction market betting frenzy for no good reason](https://www.pcgamer.com/games/grand-theft-auto/casual-gta-6-speculation-mutates-into-delay-rumor-leading-to-anxious-fans-and-prediction-market-frenzy-for-no-good-reason/)
- - [&#39;I f**king hate gen AI art,&#39; Hooded Horse chief says: &#39;If we&#39;re publishing the game, no f**king AI assets&#39;](https://www.pcgamer.com/software/ai/i-f-king-hate-gen-ai-art-hooded-horse-chief-says-if-were-publishing-the-game-no-f-king-ai-assets/)
- - [2025’s Underrated RPG Avowed Will Come To PS5 With A Big Update](https://kotaku.com/avowed-ps5-port-new-game-plus-update-races-2000658274)<!-- GAME:END -->
+ - [Fire Emblem: Path of Radiance comes to the Nintendo Switch 2](https://www.polygon.com/fire-emblem-path-of-radiance-nintendo-switch-classics/)
+ - [Seems like everyone forgot the &#39;Consumer&#39; part of the Consumer Electronics Show this year](https://www.pcgamer.com/hardware/seems-like-everyone-forgot-the-consumer-part-of-the-consumer-electronics-show-this-year/)
+ - [Linux researcher and developer says &#39;there are bugs in your kernel right now that won&#39;t be found for years. I know because I analyzed 125,183 of them&#39;](https://www.pcgamer.com/software/linux/linux-researcher-and-developer-says-there-are-bugs-in-your-kernel-right-now-that-wont-be-found-for-years-i-know-because-i-analyzed-125-183-of-them/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
