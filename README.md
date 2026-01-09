@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only talking to you, technically](http://9gag.com/gag/an73oyn)
- - ⏩ [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
- - 👉 [Best Boi](http://9gag.com/gag/awyDWKQ)<!-- MEMES:END -->
+ - 💣 [What a good boy](http://9gag.com/gag/ajPj4Qq)
+ - ⏩ [Not AI. It&#39;s A series of photos put together. Camera man didn&#39;t survive this time. Full story in comments](http://9gag.com/gag/a9ye0Kj)
+ - 👉 [@ahaja007 you were looking for this.](http://9gag.com/gag/a9ye0dD)<!-- MEMES:END -->
 
 ---
 
