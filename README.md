@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Expedition 33 gave its twist away in the opening minutes](https://www.polygon.com/clair-obscur-expedition-33-prologue-twist-paintress/)
- - [Hit isekai KonoSuba teases anime announcement for 10th anniversary celebrations](https://www.polygon.com/konosuba-10th-anniversary-announcements-season-4/)
- - [15 Things We Just Learned About Divinity](https://kotaku.com/divinity-rpg-larian-bg3-loot-coop-2000658437)<!-- GAME:END -->
+ - [Movie quiz: Can you guess the first shots of these famous franchises?](https://www.polygon.com/movie-franchise-first-frames-quiz/)
+ - [Elder Scrolls fans are taking it well after Microsoft says it&#39;s a &#39;big year for games ending in 6&#39; ahead of its upcoming Xbox Direct showcase: &#39;I&#39;m practically living off hopium and copium at this point&#39;](https://www.pcgamer.com/games/rpg/elder-scrolls-fans-are-taking-it-well-after-microsoft-says-its-a-big-year-for-games-ending-in-6-ahead-of-its-upcoming-xbox-direct-showcase-im-practically-living-off-hopium-and-copium-at-this-point/)
+ - [The Conspiracy That Todd Howard Hates Fallout: New Vegas Is Absurd](https://kotaku.com/todd-howard-doesnt-hate-fallout-new-vegas-season-2-canon-rumors-true-2000657238)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
