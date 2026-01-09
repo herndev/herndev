@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
- - ⏩ [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
- - 👉 [What the duck](http://9gag.com/gag/a879xZO)<!-- MEMES:END -->
+ - 💣 [What a good boy](http://9gag.com/gag/ajPj4Qq)
+ - ⏩ [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 👉 [Upvote the frog king and he will give you great news by next Wednesday](http://9gag.com/gag/amoyZEy)<!-- MEMES:END -->
 
 ---
 
