@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
- - ⏩ [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
- - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
+ - ⏩ [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - 👉 [A muntjac deer fights a rhino in Wroclaw Zoo](http://9gag.com/gag/an73om5)<!-- MEMES:END -->
 
 ---
 
