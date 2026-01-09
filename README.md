@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI and kids safety group Common Sense Media partner to consolidate competing measures for a California ballot initiative meant to protect kids from chatbots &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260109/p20#a260109p20)
- - [This semi-secret Lego Smart Brick feature gives it even more potential](https://www.theverge.com/tech/859740/this-semi-secret-lego-smart-brick-feature-gives-it-even-more-potential)
- - [Did you know that Gmail has emoji reactions?](https://www.theverge.com/news/859865/gmail-emoji-reaction-workspace-rollout-default)<!-- TECH:END -->
+ - [Solawave Wand Fans: Don&#39;t Miss This Buy One, Get One Free Sale](https://www.wired.com/story/solawave-wand-fans-this-buy-one-get-one-free-deal-is-for-you/)
+ - [Tim Cook and Sundar Pichai are cowards](https://www.theverge.com/policy/859902/apple-google-run-by-cowards)
+ - [An Android Auto bug is messing up messaging for some users](https://www.androidauthority.com/android-auto-messaging-reply-bug-3631521/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
