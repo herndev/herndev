@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
- - ⏩ [Family group activity!](http://9gag.com/gag/aD2L9Xd)
+ - 💣 [People are just lazy nowadays](http://9gag.com/gag/apRXM0n)
+ - ⏩ [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
  - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
 
 ---
