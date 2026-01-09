@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile takes the crown for best overall experience in latest Opensignal tests](https://www.androidauthority.com/t-mobile-opensignal-mobile-experience-awards-3631499/)
- - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [Apple confirms February 10 deadline for Home architecture upgrade](https://appleinsider.com/articles/26/01/09/apple-confirms-february-10-deadline-for-home-architecture-upgrade?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI and kids safety group Common Sense Media partner to consolidate competing measures for a California ballot initiative meant to protect kids from chatbots &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260109/p20#a260109p20)
+ - [This semi-secret Lego Smart Brick feature gives it even more potential](https://www.theverge.com/tech/859740/this-semi-secret-lego-smart-brick-feature-gives-it-even-more-potential)
+ - [Did you know that Gmail has emoji reactions?](https://www.theverge.com/news/859865/gmail-emoji-reaction-workspace-rollout-default)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
