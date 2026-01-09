@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [Another major Android brand could steal Apple’s wide Fold thunder](https://www.androidauthority.com/oppo-find-n6-n7-foldable-launch-leak-3631300/)
  - [Galaxy phones are finally getting Google Play system updates again, with a big catch](https://www.androidauthority.com/samsung-roll-out-google-play-system-updates-3631291/)
- - [X limits Grok&#39;s image generation and editing to paying subscribers after widespread outcry over its use to create sexually explicit and violent imagery &lpar;Helena Horton/The Guardian&rpar;](http://www.techmeme.com/260109/p4#a260109p4)<!-- TECH:END -->
+ - [Gain Momentum With These 7 Simple Wellness Resolutions and Conquer 2026](https://www.cnet.com/health/try-these-7-new-years-wellness-resolutions-that-youll-actually-stick-to/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
