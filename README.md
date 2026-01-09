@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel&#39;s new handheld gaming chip rumoured to be called &#39;Core G3 Extreme&#39; and rocks a full-spec Xe3 iGPU with 12 graphics cores](https://www.pcgamer.com/hardware/processors/intels-new-handheld-gaming-chip-rumoured-to-be-called-core-g3-extreme-and-rocks-a-full-spec-xe3-igpu-with-12-graphics-cores/)
  - [Fire Emblem: Path of Radiance comes to the Nintendo Switch 2](https://www.polygon.com/fire-emblem-path-of-radiance-nintendo-switch-classics/)
- - [Seems like everyone forgot the &#39;Consumer&#39; part of the Consumer Electronics Show this year](https://www.pcgamer.com/hardware/seems-like-everyone-forgot-the-consumer-part-of-the-consumer-electronics-show-this-year/)
- - [Linux researcher and developer says &#39;there are bugs in your kernel right now that won&#39;t be found for years. I know because I analyzed 125,183 of them&#39;](https://www.pcgamer.com/software/linux/linux-researcher-and-developer-says-there-are-bugs-in-your-kernel-right-now-that-wont-be-found-for-years-i-know-because-i-analyzed-125-183-of-them/)<!-- GAME:END -->
+ - [Seems like everyone forgot the &#39;Consumer&#39; part of the Consumer Electronics Show this year](https://www.pcgamer.com/hardware/seems-like-everyone-forgot-the-consumer-part-of-the-consumer-electronics-show-this-year/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
