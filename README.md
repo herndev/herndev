@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
- - ⏩ [Shut her down real quick](http://9gag.com/gag/amoy484)
- - 👉 [Zero shame](http://9gag.com/gag/avyVKpZ)<!-- MEMES:END -->
+ - 💣 [Zero shame](http://9gag.com/gag/avyVKpZ)
+ - ⏩ [Lana Rhoades when it was cool](http://9gag.com/gag/ayNAw4W)
+ - 👉 [What a good boy](http://9gag.com/gag/ajPj4Qq)<!-- MEMES:END -->
 
 ---
 
