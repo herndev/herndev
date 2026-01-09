@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s new handheld gaming chip rumoured to be called &#39;Core G3 Extreme&#39; and rocks a full-spec Xe3 iGPU with 12 graphics cores](https://www.pcgamer.com/hardware/processors/intels-new-handheld-gaming-chip-rumoured-to-be-called-core-g3-extreme-and-rocks-a-full-spec-xe3-igpu-with-12-graphics-cores/)
- - [Fire Emblem: Path of Radiance comes to the Nintendo Switch 2](https://www.polygon.com/fire-emblem-path-of-radiance-nintendo-switch-classics/)
- - [Seems like everyone forgot the &#39;Consumer&#39; part of the Consumer Electronics Show this year](https://www.pcgamer.com/hardware/seems-like-everyone-forgot-the-consumer-part-of-the-consumer-electronics-show-this-year/)<!-- GAME:END -->
+ - [Dungeons &amp; Dragons is primed for a major reinvention in 2026](https://www.polygon.com/dnd-dungeons-dragons-2026-preview/)
+ - [Next Week on Xbox: New Games for January 12 to 16](https://news.xbox.com/en-us/2026/01/09/next-week-on-xbox-new-games-for-january-12-to-16/)
+ - [Samsung Goes All-In on Odyssey Gaming Monitors, 32″ G50D Series Hits an All-Time Low at 42% Off](https://kotaku.com/samsung-goes-all-in-on-odyssey-gaming-monitors-32-g50d-series-hits-an-all-time-low-at-42-off-2000658292)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
