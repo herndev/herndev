@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Watched a Drone Pick Up a Robot Vacuum and &lpar;Sort Of&rpar; Carry It Up the Stairs at CES 2026](https://www.cnet.com/home/kitchen-and-household/watched-drone-pick-up-robot-vacuum-carry-it-up-the-stairs-ces-2026/)
- - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)
- - [Behind the Scenes of Disneyland&#39;s New 3D-Printed Prop Canoe on the Jungle Cruise](https://www.cnet.com/tech/computing/disney-3d-printed-polymer-prop-canoe-jungle-cruise/)<!-- TECH:END -->
+ - [Pioneer Sphera is bringing Dolby Atmos in cars to the people](https://www.theverge.com/tech/858858/pioneer-sphera-ces-2026)
+ - [Earnings for Apple&#39;s expected best quarter yet will be reported on January 29, 2026](https://appleinsider.com/articles/26/01/08/earnings-for-apples-expected-best-quarter-yet-will-be-reported-on-january-29-2026?utm_source=rss)
+ - [CES 2026 Live: Best of Show, Rollable Display Concepts, AI Toys and Dancing Robots](https://www.cnet.com/news-live/ces-2026-news-live-updates/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
