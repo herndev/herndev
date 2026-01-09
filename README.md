@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seattle-based Spangle AI, which makes AI tools for online retailers to build custom storefronts, raised a $15M Series A led by NewRoad at a $100M valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/260108/p49#a260108p49)
- - [I Got Up Close and Personal With Boston Dynamics&#39; New Atlas Robot](https://www.cnet.com/tech/computing/i-got-up-close-and-personal-with-boston-dynamics-new-atlas-robot-at-ces-2026/)
- - [These Are the Most Head-Turning TVs of CES 2026](https://www.cnet.com/tech/home-entertainment/these-are-the-head-turning-tvs-of-2026/)<!-- TECH:END -->
+ - [Source: Lambda, which rents access to AI chips and is backed by Nvidia, is in talks to raise $350M+ led by Mubadala Capital, ahead of an IPO planned for H2 2026 &lpar;The Information&rpar;](http://www.techmeme.com/260108/p50#a260108p50)
+ - [ICE Agent Who Reportedly Shot Renee Good Was a Firearms Trainer, Per Testimony](https://www.wired.com/story/ice-agent-jonathan-ross-renee-good-shooting-firearms-trainer-testimony/)
+ - [Seattle-based Spangle AI, which makes AI tools for online retailers to build custom storefronts, raised a $15M Series A led by NewRoad at a $100M valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/260108/p49#a260108p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
