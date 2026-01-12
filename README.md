@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first three Lego Pokémon sets launch in February and include a $650 diorama](https://www.theverge.com/tech/860511/lego-pokemon-pikachu-poke-ball-eevee-venusaur-charizard-blastoise)
+ - [DJI’s mobile selfie stick / tripod / stabilizer will track you automatically for its lowest price of $103](https://www.theverge.com/gadgets/860590/dji-mobile-7p-gimbal-stabilizer-anker-341-usb-power-strip-deal-sale)
  - [Google Gemini tech will be used in the all-new Siri after major Apple AI deal](https://appleinsider.com/articles/26/01/12/google-gemini-tech-will-be-used-in-the-all-new-siri-after-major-apple-ai-deal?utm_source=rss)
- - [As fans threaten a boycott, AYANEO reveals a ‘Service Improvement Plan’ to turn things around](https://www.androidauthority.com/ayaneo-service-improvement-plan-3631725/)<!-- TECH:END -->
+ - [World Liberty Financial launches World Liberty Markets, letting users lend and borrow digital assets among one another, supporting its own token USD1 and others &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/260112/p24#a260112p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
