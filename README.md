@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources and filings: Peter Thiel donated $3M to a group to beat California&#39;s wealth tax, the first of several expected major donations by tech leaders in 2026 &lpar;New York Times&rpar;](http://www.techmeme.com/260112/p9#a260112p9)
- - [Google Wallet may finally add Aadhaar card support alongside a new split-style FAB &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-aadhaar-card-support-apk-teardown-3631656/)
- - [Meta says it shut down nearly 550K accounts in Australia to comply with its under-16 social media ban, including 330K Instagram and 173K Facebook accounts &lpar;Nasteho Said/Bloomberg&rpar;](http://www.techmeme.com/260112/p8#a260112p8)<!-- TECH:END -->
+ - [&#39;The Studio&#39; and &#39;Pluribus&#39; win at the Golden Globes awards](https://appleinsider.com/articles/26/01/12/the-studio-and-pluribus-win-at-the-golden-globes-awards?utm_source=rss)
+ - [PSA: Here’s why you shouldn’t let strangers with smart glasses use your phone](https://www.androidauthority.com/psa-imei-scam-smart-glasses-3631671/)
+ - [Ofcom opens an investigation under the OSA into Grok over the sexualized deepfakes of women and kids being generated on X and threatens it with a ban or a fine &lpar;Financial Times&rpar;](http://www.techmeme.com/260112/p12#a260112p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
