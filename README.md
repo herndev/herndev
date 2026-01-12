@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
- - ⏩ [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - 👉 [We live in a society](http://9gag.com/gag/aMV6R6X)<!-- MEMES:END -->
+ - 💣 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
+ - ⏩ [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
+ - 👉 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)<!-- MEMES:END -->
 
 ---
 
