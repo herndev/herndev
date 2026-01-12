@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
- - ⏩ [Do the cat!](http://9gag.com/gag/a9ye3p0)
- - 👉 [POV- Realizing on the way home that was NOT a normal brownie.](http://9gag.com/gag/aAy7nzR)<!-- MEMES:END -->
+ - 💣 [Serves you right](http://9gag.com/gag/adBMme2)
+ - ⏩ [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
+ - 👉 [Japanese probe .......](http://9gag.com/gag/a34DoMv)<!-- MEMES:END -->
 
 ---
 
