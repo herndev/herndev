@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mashhad has fallen](http://9gag.com/gag/a4P8Dod)
- - ⏩ [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
+ - 💣 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
+ - ⏩ [Mashhad has fallen](http://9gag.com/gag/a4P8Dod)
  - 👉 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)<!-- MEMES:END -->
 
 ---
