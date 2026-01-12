@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite projections of memory shortages for PCs and phones, producers like Micron will proceed cautiously in adding new capacity, mindful of past downcycles &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260111/p23#a260111p23)
- - [Got a random Instagram password reset email? Here’s what actually happened](https://www.androidauthority.com/instagram-password-reset-email-3631588/)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-12/)<!-- TECH:END -->
+ - [Your Galaxy phone is about to get very strange](https://www.androidauthority.com/samsung-galaxy-stranger-things-season-5-themes-wallpapers-3631593/)
+ - [Price war: Save $300 on Apple&#39;s 1TB 14-inch MacBook Pro with 20-core GPU](https://appleinsider.com/articles/26/01/12/price-war-save-300-on-apples-1tb-14-inch-macbook-pro-with-20-core-gpu?utm_source=rss)
+ - [Despite projections of memory shortages for PCs and phones, producers like Micron will proceed cautiously in adding new capacity, mindful of past downcycles &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260111/p23#a260111p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
