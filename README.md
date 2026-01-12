@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X accuses music publishers of &amp;#8216;weaponizing&amp;#8217; DMCA takedowns](https://www.theverge.com/news/860013/x-nmpa-music-publishers-dmca-antitrust-lawsuit)
- - [This company could help bring Auracast to an iPhone near you](https://www.theverge.com/tech/860010/atitan-bluetooth-auracast-transceiver-ces-2026)
- - [AI is coming for collectibles next](https://www.theverge.com/tech/859994/ai-collectibles-funko-pops-amiibo-buddyo-heymates-ces-2026)<!-- TECH:END -->
+ - [A profile of SpaceX president Gwynne Shotwell, who has worked at the company since 2002, and is known as a customer emissary and Musk translator &lpar;Micah Maidenberg/Wall Street Journal&rpar;](http://www.techmeme.com/260111/p21#a260111p21)
+ - [You need to listen to Billy Woods’ horrorcore masterpiece for the A24 crowd](https://www.theverge.com/column/860372/billy-woods-horrorcore-masterpiece-golliwog-a24)
+ - [Anthropic announces Claude for Healthcare to offer HIPAA-ready tools for providers, insurers, and consumers, and expands its life sciences offerings &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/260111/p20#a260111p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
