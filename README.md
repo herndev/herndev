@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qatar and UAE will join the Pax Silica coalition on January 12 and 15, respectively, expanding the US-led effort to secure AI and semiconductor supply chains &lpar;Jarrett Renshaw/Reuters&rpar;](http://www.techmeme.com/260111/p22#a260111p22)
- - [A profile of SpaceX president Gwynne Shotwell, who has worked at the company since 2002, and is known as a customer emissary and Musk translator &lpar;Micah Maidenberg/Wall Street Journal&rpar;](http://www.techmeme.com/260111/p21#a260111p21)
- - [You need to listen to Billy Woods’ horrorcore masterpiece for the A24 crowd](https://www.theverge.com/column/860372/billy-woods-horrorcore-masterpiece-golliwog-a24)<!-- TECH:END -->
+ - [Despite projections of memory shortages for PCs and phones, producers like Micron will proceed cautiously in adding new capacity, mindful of past downcycles &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260111/p23#a260111p23)
+ - [Got a random Instagram password reset email? Here’s what actually happened](https://www.androidauthority.com/instagram-password-reset-email-3631588/)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-12/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
