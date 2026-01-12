@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus might have cancelled two eagerly anticipated flagships](https://www.androidauthority.com/oneplus-open-2-canceled-leak-3631611/)
- - [President Trump says &quot;we may speak to Elon&quot; about using Starlink to restore the internet in Iran, after the state imposed an internet blackout amid protests &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/260112/p3#a260112p3)
- - [The Galaxy S26 series might finally make 24MP photos worth using](https://www.androidauthority.com/samsung-galaxy-s26-24mp-shooting-details-3631600/)<!-- TECH:END -->
+ - [CES 2026: how some companies are trying to make their AI products cute and relatable, from Lenovo&#39;s chatty motorized laptop to Sharp&#39;s ChatGPT-powered Poketomo &lpar;Chris Velazco/Washington Post&rpar;](http://www.techmeme.com/260112/p4#a260112p4)
+ - [Google Photos may finally add a long-awaited video playback feature](https://www.androidauthority.com/google-photos-video-playback-speed-apk-teardown-3631639/)
+ - [Galaxy S27 Ultra leak brings primary camera upgrade into focus](https://www.androidauthority.com/galaxy-s27-ultra-primary-camera-leak-3631634/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
