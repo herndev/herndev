@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [GTA 6 is basically a PS5 exclusive at this point](https://www.polygon.com/gta-6-ps5-exclusive-sony-playstation-xbox-microsoft-ads-marketing/)
  - [Three massive isekai anime titles will air in summer 2026](https://www.polygon.com/best-isekai-anime-streaming-2026/)
- - [10 Mysterious Games To Check Out In Steam’s Detective Fest](https://kotaku.com/steam-detective-fest-mystery-investigation-indie-pc-2000658918)
- - [Evil Dead Rise director Lee Cronin&#39;s The Mummy looks terrifying](https://www.polygon.com/lee-cronin-the-mummy-movie-trailer/)<!-- GAME:END -->
+ - [10 Mysterious Games To Check Out In Steam’s Detective Fest](https://kotaku.com/steam-detective-fest-mystery-investigation-indie-pc-2000658918)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
