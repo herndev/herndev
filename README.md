@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 6 is basically a PS5 exclusive at this point](https://www.polygon.com/gta-6-ps5-exclusive-sony-playstation-xbox-microsoft-ads-marketing/)
- - [Three massive isekai anime titles will air in summer 2026](https://www.polygon.com/best-isekai-anime-streaming-2026/)
- - [10 Mysterious Games To Check Out In Steam’s Detective Fest](https://kotaku.com/steam-detective-fest-mystery-investigation-indie-pc-2000658918)<!-- GAME:END -->
+ - [All Devil Hunter codes for January 2026: Extra fiend and clan rerolls](https://www.pcgamer.com/roblox/devil-hunter-codes/)
+ - [A Steam Sale’s Background Art Was Filled With Hidden Free Game Codes](https://kotaku.com/steam-sale-team-17-hidden-codes-free-games-deal-secret-artwork-2000658974)
+ - [GTA 6 is basically a PS5 exclusive at this point](https://www.polygon.com/gta-6-ps5-exclusive-sony-playstation-xbox-microsoft-ads-marketing/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
