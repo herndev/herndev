@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GoFundMe Ignores Own Rules by Hosting a Legal-Defense Fund for the ICE Agent Who Killed Renee Good](https://www.wired.com/story/gofundme-ice-jonathan-ross-renee-good-fundraiser/)
- - [Democrats should reject tech influence to win elections, Warren says](https://www.theverge.com/news/860706/democrats-elections-big-tech-influence-senator-warren)
- - [Second developer betas for iOS 26.3, macOS Tahoe 26.3 have arrived](https://appleinsider.com/articles/26/01/12/second-developer-betas-for-ios-263-macos-tahoe-263-have-arrived?utm_source=rss)<!-- TECH:END -->
+ - [The Stranger Things behind-the-scenes doc is a lot more boring than a secret episode](https://www.theverge.com/entertainment/860692/one-last-adventure-the-making-of-stranger-things-5-netflix-review)
+ - [iOS 26 adoption isn&#39;t record-breaking, but reports of extremely low rates are flawed](https://appleinsider.com/articles/26/01/12/ios-26-adoption-isnt-record-breaking-but-reports-of-extremely-low-rates-are-flawed?utm_source=rss)
+ - [Apple&#39;s Mac mini dips to $499, plus save $150 on M4 Pro desktop with coupon](https://appleinsider.com/articles/26/01/12/apples-mac-mini-dips-to-499-plus-save-150-on-m4-pro-desktop-with-coupon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
