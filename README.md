@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Studio&#39; and &#39;Pluribus&#39; win at the Golden Globes awards](https://appleinsider.com/articles/26/01/12/the-studio-and-pluribus-win-at-the-golden-globes-awards?utm_source=rss)
- - [PSA: Here’s why you shouldn’t let strangers with smart glasses use your phone](https://www.androidauthority.com/psa-imei-scam-smart-glasses-3631671/)
- - [Ofcom opens an investigation under the OSA into Grok over the sexualized deepfakes of women and kids being generated on X and threatens it with a ban or a fine &lpar;Financial Times&rpar;](http://www.techmeme.com/260112/p12#a260112p12)<!-- TECH:END -->
+ - [Half price iPhone 13 battery replacement is probably only for China](https://appleinsider.com/articles/26/01/12/half-price-iphone-13-battery-replacement-reportedly-offered-for-users-in-china?utm_source=rss)
+ - [Apple&#39;s utter silence about AI-generated child porn on X is appalling yet unsurprising](https://appleinsider.com/articles/26/01/12/apples-utter-silence-about-ai-generated-child-porn-on-x-is-appalling-yet-unsurprising?utm_source=rss)
+ - [Inside Preview in iOS 26 - how to edit PDFs, sign documents, and scan files](https://appleinsider.com/inside/ios-26/tips/inside-preview-in-ios-26---how-to-edit-pdfs-sign-documents-and-scan-files?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
