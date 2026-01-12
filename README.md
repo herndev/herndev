@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tricky Ticks](http://9gag.com/gag/abAo9jr)
- - ⏩ [Pretty cool](http://9gag.com/gag/aW4AKnZ)
- - 👉 [Speed of Light](http://9gag.com/gag/a34DVo5)<!-- MEMES:END -->
+ - 💣 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
+ - ⏩ [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
+ - 👉 [Serves you right](http://9gag.com/gag/adBMme2)<!-- MEMES:END -->
 
 ---
 
