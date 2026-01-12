@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)
- - ⏩ [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
- - 👉 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)<!-- MEMES:END -->
+ - 💣 [Tricky Ticks](http://9gag.com/gag/abAo9jr)
+ - ⏩ [Pretty cool](http://9gag.com/gag/aW4AKnZ)
+ - 👉 [Speed of Light](http://9gag.com/gag/a34DVo5)<!-- MEMES:END -->
 
 ---
 
