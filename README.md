@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s so funny it&#39;s painful](http://9gag.com/gag/ae9EvmB)
- - ⏩ [Serves you right](http://9gag.com/gag/adBMme2)
- - 👉 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)<!-- MEMES:END -->
+ - 💣 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
+ - ⏩ [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
+ - 👉 [Serves you right](http://9gag.com/gag/adBMme2)<!-- MEMES:END -->
 
 ---
 
