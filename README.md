@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [KPop Demon Hunters beats Demon Slayer at the Golden Globes](https://www.polygon.com/kpop-demon-hunters-beats-demon-slayer-golden-globes/)
  - [Anthem players log in to say goodbye to the game they loved before it&#39;s gone forever: &#39;Strong alone, stronger together&#39;](https://www.pcgamer.com/games/action/anthem-players-log-in-to-say-goodbye-to-the-game-they-loved-before-its-gone-forever-strong-alone-stronger-together/)
- - [The sound of this one specific bird from Age of Empires keeps haunting me through pop songs, movies, and across other games](https://www.pcgamer.com/games/the-sound-of-this-one-specific-bird-from-age-of-empires-keeps-haunting-me-through-pop-songs-movies-and-across-other-games/)
- - [Five new Steam games you probably missed &lpar;January 12, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-12-2026/)<!-- GAME:END -->
+ - [The sound of this one specific bird from Age of Empires keeps haunting me through pop songs, movies, and across other games](https://www.pcgamer.com/games/the-sound-of-this-one-specific-bird-from-age-of-empires-keeps-haunting-me-through-pop-songs-movies-and-across-other-games/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
