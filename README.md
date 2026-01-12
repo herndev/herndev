@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)
- - ⏩ [Japanese probe .......](http://9gag.com/gag/a34DoMv)
- - 👉 [Serves you right](http://9gag.com/gag/adBMme2)<!-- MEMES:END -->
+ - 💣 [\u202e\u202e\u202e](http://9gag.com/gag/aNDXx3A)
+ - ⏩ [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
+ - 👉 [Do the cat!](http://9gag.com/gag/a9ye3p0)<!-- MEMES:END -->
 
 ---
 
