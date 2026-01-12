@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Naver, the largest South Korean buyer of Nvidia chips, is pitching its AI cloud services as an alternative for countries reluctant to use US or Chinese services &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/260111/p24#a260111p24)
- - [Your Galaxy phone is about to get very strange](https://www.androidauthority.com/samsung-galaxy-stranger-things-season-5-themes-wallpapers-3631593/)
- - [Price war: Save $300 on Apple&#39;s 1TB 14-inch MacBook Pro with 20-core GPU](https://appleinsider.com/articles/26/01/12/price-war-save-300-on-apples-1tb-14-inch-macbook-pro-with-20-core-gpu?utm_source=rss)<!-- TECH:END -->
+ - [Galaxy S25 series is doing something Samsung phones almost never do](https://www.androidauthority.com/samsung-galaxy-s25-sales-spike-3631598/)
+ - [Chinese AI executives say China is unlikely to eclipse the US in the AI race anytime soon, citing limited resources and US chip export curbs as key constraints &lpar;Bloomberg&rpar;](http://www.techmeme.com/260112/p1#a260112p1)
+ - [Naver, the largest South Korean buyer of Nvidia chips, is pitching its AI cloud services as an alternative for countries reluctant to use US or Chinese services &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/260111/p24#a260111p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
