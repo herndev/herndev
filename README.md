@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
- - ⏩ [Mashhad has fallen](http://9gag.com/gag/a4P8Dod)
- - 👉 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)<!-- MEMES:END -->
+ - 💣 [\u202e\u202e\u202e](http://9gag.com/gag/aNDXx3A)
+ - ⏩ [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
+ - 👉 [Serves you right](http://9gag.com/gag/adBMme2)<!-- MEMES:END -->
 
 ---
 
