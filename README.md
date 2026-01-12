@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forgotten Realms&#39; creator has the perfect antidote to modern D&amp;D&#39;s big problem](https://www.polygon.com/forgotten-realms-creator-ed-greenwood-dnd-problem-realmsbound/)
- - [Steam defies RAM-ageddon and the AI-pocalypse to smash through a new concurrent user record, and I&#39;ll see you back here in like 4 months when it somehow does it again](https://www.pcgamer.com/software/platforms/steam-defies-ram-ageddon-and-the-ai-pocalypse-to-smash-through-a-new-concurrent-user-record-and-ill-see-you-back-here-in-like-4-months-when-it-somehow-does-it-again/)
- - [Nvidia CEO Jensun Huang critiques &#39;well respected people who have painted a doomer narrative&#39; around AI right after saying &#39;I guess someday we will have God AI&#39;](https://www.pcgamer.com/software/ai/nvidia-ceo-jensun-huang-critiques-well-respected-people-who-have-painted-a-doomer-narrative-around-ai-right-after-saying-i-guess-someday-we-will-have-god-ai/)<!-- GAME:END -->
+ - [Netflix&#39;s One Piece isn&#39;t afraid of going big with VFX in new season 2 trailer](https://www.polygon.com/netflix-one-piece-season-2-trailer-baroque-works/)
+ - [Resident Evil Requiem looks nothing like Village, and that’s a good thing](https://www.polygon.com/resident-evil-requiem-looks-nothing-like-village/)
+ - [The Pokémon Lego Sets Are Incredible And Expensive](https://kotaku.com/pokemon-lego-sets-release-date-price-pikachu-charizard-2000658895)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
