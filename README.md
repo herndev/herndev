@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)
- - ⏩ [It&#39;s so funny it&#39;s painful](http://9gag.com/gag/ae9EvmB)
- - 👉 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)<!-- MEMES:END -->
+ - 💣 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
+ - ⏩ [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
+ - 👉 [Do you remember, when Arnold was on The View, and he said the problem is `ILLEGAL` immigrants, and they gently tried to stop him live? Pepperidge Farm remembers...](http://9gag.com/gag/an73L1n)<!-- MEMES:END -->
 
 ---
 
