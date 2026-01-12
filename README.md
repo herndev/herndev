@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
- - ⏩ [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)
- - 👉 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)<!-- MEMES:END -->
+ - 💣 [Don&#39;t you dare joke about this](http://9gag.com/gag/azxz05q)
+ - ⏩ [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
+ - 👉 [We live in a society](http://9gag.com/gag/aMV6R6X)<!-- MEMES:END -->
 
 ---
 
