@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jackery Is Offloading the Explorer 300 Portable Power Station at an All-Time Low, Priced Like Small Power Banks](https://kotaku.com/jackery-is-offloading-the-explorer-300-portable-power-station-at-an-all-time-low-priced-like-small-power-banks-2000658283)
- - [There’s one really good reason Beast Wars: Transformers needs a reboot in 2026](https://www.polygon.com/beast-wars-reboot-2026/)
- - [Hytale launch times and release date](https://www.pcgamer.com/games/survival-crafting/hytale-launch-time-release-date/)<!-- GAME:END -->
+ - [Forgotten Realms&#39; creator has the perfect antidote to modern D&amp;D&#39;s big problem](https://www.polygon.com/forgotten-realms-creator-ed-greenwood-dnd-problem-realmsbound/)
+ - [Steam defies RAM-ageddon and the AI-pocalypse to smash through a new concurrent user record, and I&#39;ll see you back here in like 4 months when it somehow does it again](https://www.pcgamer.com/software/platforms/steam-defies-ram-ageddon-and-the-ai-pocalypse-to-smash-through-a-new-concurrent-user-record-and-ill-see-you-back-here-in-like-4-months-when-it-somehow-does-it-again/)
+ - [Nvidia CEO Jensun Huang critiques &#39;well respected people who have painted a doomer narrative&#39; around AI right after saying &#39;I guess someday we will have God AI&#39;](https://www.pcgamer.com/software/ai/nvidia-ceo-jensun-huang-critiques-well-respected-people-who-have-painted-a-doomer-narrative-around-ai-right-after-saying-i-guess-someday-we-will-have-god-ai/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
