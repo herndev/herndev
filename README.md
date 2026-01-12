@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Anthem players log in to say goodbye to the game they loved before it&#39;s gone forever: &#39;Strong alone, stronger together&#39;](https://www.pcgamer.com/games/action/anthem-players-log-in-to-say-goodbye-to-the-game-they-loved-before-its-gone-forever-strong-alone-stronger-together/)
  - [The sound of this one specific bird from Age of Empires keeps haunting me through pop songs, movies, and across other games](https://www.pcgamer.com/games/the-sound-of-this-one-specific-bird-from-age-of-empires-keeps-haunting-me-through-pop-songs-movies-and-across-other-games/)
- - [Five new Steam games you probably missed &lpar;January 12, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-12-2026/)
- - [A dev on Minecraft-like Hytale has already used its creative tools to make a homebrew side-scroller](https://www.pcgamer.com/games/survival-crafting/a-dev-on-minecraft-like-hytale-has-already-used-its-creative-tools-to-make-a-homebrew-side-scroller/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;January 12, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-12-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
