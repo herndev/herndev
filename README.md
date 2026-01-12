@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Michael Saylor&#39;s Strategy bought 13,627 bitcoin for ~$1.25B between January 5 and 11, taking its total holdings to 687,410, and boosts its USD reserve to $2.25B &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/260112/p15#a260112p15)
- - [Meta appoints Dina Powell McCormick, a prominent banking executive and former Republican official, as president and vice chair, reporting to Mark Zuckerberg &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260112/p14#a260112p14)
- - [Galaxy Z Flip 8 camera specs might look a little too familiar](https://www.androidauthority.com/samsung-galaxy-z-flip-8-camera-specs-leak-3631750/)<!-- TECH:END -->
+ - [These XR glasses are the only way I want to watch movies from now on](https://www.androidauthority.com/viture-the-beast-hands-on-3631118/)
+ - [Apple&#39;s record-breaking year for Services is a preview for earnings](https://appleinsider.com/articles/26/01/12/apples-record-breaking-year-for-services-is-a-preview-for-earnings?utm_source=rss)
+ - [Crypto custody company BitGo aims to raise up to $201M in its IPO on the NYSE at an up to $1.96B valuation, selling 11.8M shares at $15 to $17 per share &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/260112/p17#a260112p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
