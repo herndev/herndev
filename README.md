@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u202e\u202e\u202e](http://9gag.com/gag/aNDXx3A)
- - ⏩ [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
- - 👉 [Cool guy](http://9gag.com/gag/a4P8eAd)<!-- MEMES:END -->
+ - 💣 [4 years of therapy in one minute](http://9gag.com/gag/a4P8e1Q)
+ - ⏩ [Japanese probe .......](http://9gag.com/gag/a34DoMv)
+ - 👉 [Serves you right](http://9gag.com/gag/adBMme2)<!-- MEMES:END -->
 
 ---
 
