@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam dev is deleting his own game after realizing AI is bad](https://www.polygon.com/steam-dev-deleting-own-game-generative-ai/)
- - [Indie dev is delisting his AI game from Steam because his new girlfriend convinced him it&#39;s evil: &#39;The game existing in its current form is a disgrace to all game makers and players&#39;](https://www.pcgamer.com/games/indie-dev-is-delisting-his-ai-game-from-steam-because-his-new-girlfriend-convinced-him-its-evil-the-game-existing-in-its-current-form-is-a-disgrace-to-all-game-makers-and-players/)
- - [Pokéman fans say Lego&#39;s expensive Pikachu set is a monstrosity](https://www.polygon.com/lego-pikachu-pokemon-price-fan-reaction-price-mega-blok-eevee/)<!-- GAME:END -->
+ - [Peter Molyneux&#39;s final game is coming in April: &#39;Masters of Albion is the culmination of my life’s work,&#39; he says, not that he&#39;s overhyping it or anything](https://www.pcgamer.com/games/strategy/peter-molyneuxs-final-game-is-coming-in-april-masters-of-albion-is-the-culmination-of-my-lifes-work-he-says-not-that-hes-overhyping-it-or-anything/)
+ - [&#39;Steam is winning with its ease of use,&#39; GOG&#39;s new owner says, but he&#39;s not interested in picking a fight: &#39;I think much can be done in GOG without losing its core values and the way it operates&#39;](https://www.pcgamer.com/games/steam-is-winning-with-its-ease-of-use-gogs-new-owner-says-but-hes-not-interested-in-picking-a-fight-i-think-much-can-be-done-in-gog-without-losing-its-core-values-and-the-way-it-operates/)
+ - [Embark dispels myths about Arc Raiders&#39; aggression-based matchmaking: &#39;We don&#39;t make any value or moral judgments … it&#39;s a bit of a blunt instrument&#39;](https://www.pcgamer.com/games/third-person-shooter/embark-dispels-myths-about-arc-raiders-aggression-based-matchmaking-we-dont-make-any-value-or-moral-judgments-its-a-bit-of-a-blunt-instrument/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
