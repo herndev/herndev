@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Stranger Things behind-the-scenes doc is a lot more boring than a secret episode](https://www.theverge.com/entertainment/860692/one-last-adventure-the-making-of-stranger-things-5-netflix-review)
- - [iOS 26 adoption isn&#39;t record-breaking, but reports of extremely low rates are flawed](https://appleinsider.com/articles/26/01/12/ios-26-adoption-isnt-record-breaking-but-reports-of-extremely-low-rates-are-flawed?utm_source=rss)
- - [Apple&#39;s Mac mini dips to $499, plus save $150 on M4 Pro desktop with coupon](https://appleinsider.com/articles/26/01/12/apples-mac-mini-dips-to-499-plus-save-150-on-m4-pro-desktop-with-coupon?utm_source=rss)<!-- TECH:END -->
+ - [Google Nest Wi-Fi Pro plummets to new record-low price!](https://www.androidauthority.com/google-nest-wi-fi-pro-deal-3-3628524/)
+ - [Sources: Meta plans to lay off ~10% of its 15,000-person Reality Labs division, disproportionately affecting those working on VR headsets and Horizon Worlds &lpar;New York Times&rpar;](http://www.techmeme.com/260112/p31#a260112p31)
+ - [Protect Your iPhone From Potential Attacks by Downloading iOS 26.2 Now](https://www.cnet.com/tech/services-and-software/ios-26-2-release-liquid-glass-reminders-safety-alerts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
