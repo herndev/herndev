@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The sound of this one specific bird from Age of Empires keeps haunting me through pop songs, movies, and across other games](https://www.pcgamer.com/games/the-sound-of-this-one-specific-bird-from-age-of-empires-keeps-haunting-me-through-pop-songs-movies-and-across-other-games/)
  - [Five new Steam games you probably missed &lpar;January 12, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-12-2026/)
- - [A dev on Minecraft-like Hytale has already used its creative tools to make a homebrew side-scroller](https://www.pcgamer.com/games/survival-crafting/a-dev-on-minecraft-like-hytale-has-already-used-its-creative-tools-to-make-a-homebrew-side-scroller/)
- - [Warhammer World, Games Workshop&#39;s pub-slash-hobby store celebrating the venerable wargame, is coming to the US](https://www.pcgamer.com/games/board-games/warhammer-world-games-workshops-pub-slash-hobby-store-celebrating-the-venerable-wargame-is-coming-to-the-us/)<!-- GAME:END -->
+ - [A dev on Minecraft-like Hytale has already used its creative tools to make a homebrew side-scroller](https://www.pcgamer.com/games/survival-crafting/a-dev-on-minecraft-like-hytale-has-already-used-its-creative-tools-to-make-a-homebrew-side-scroller/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
