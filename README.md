@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These XR glasses are the only way I want to watch movies from now on](https://www.androidauthority.com/viture-the-beast-hands-on-3631118/)
- - [Apple&#39;s record-breaking year for Services is a preview for earnings](https://appleinsider.com/articles/26/01/12/apples-record-breaking-year-for-services-is-a-preview-for-earnings?utm_source=rss)
- - [Crypto custody company BitGo aims to raise up to $201M in its IPO on the NYSE at an up to $1.96B valuation, selling 11.8M shares at $15 to $17 per share &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/260112/p17#a260112p17)<!-- TECH:END -->
+ - [The first three Lego Pokémon sets launch in February and include a $650 diorama](https://www.theverge.com/tech/860511/lego-pokemon-pikachu-poke-ball-eevee-venusaur-charizard-blastoise)
+ - [Google Gemini tech will be used in the all-new Siri after major Apple AI deal](https://appleinsider.com/articles/26/01/12/google-gemini-tech-will-be-used-in-the-all-new-siri-after-major-apple-ai-deal?utm_source=rss)
+ - [As fans threaten a boycott, AYANEO reveals a ‘Service Improvement Plan’ to turn things around](https://www.androidauthority.com/ayaneo-service-improvement-plan-3631725/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
