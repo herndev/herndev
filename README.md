@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Nest Wi-Fi Pro plummets to new record-low price!](https://www.androidauthority.com/google-nest-wi-fi-pro-deal-3-3628524/)
- - [Sources: Meta plans to lay off ~10% of its 15,000-person Reality Labs division, disproportionately affecting those working on VR headsets and Horizon Worlds &lpar;New York Times&rpar;](http://www.techmeme.com/260112/p31#a260112p31)
- - [Protect Your iPhone From Potential Attacks by Downloading iOS 26.2 Now](https://www.cnet.com/tech/services-and-software/ios-26-2-release-liquid-glass-reminders-safety-alerts/)<!-- TECH:END -->
+ - [Verizon and AT&amp;T argue the FCC’s fines are unconstitutional as is, Supreme Court will step in](https://www.androidauthority.com/supreme-court-verizon-att-3631934/)
+ - [Forget M1, M4 is the dominant Apple Silicon chip on Steam](https://appleinsider.com/articles/26/01/12/forget-m1-m4-is-the-dominant-apple-silicon-chip-on-steam?utm_source=rss)
+ - [OpenAI acquires Torch, a one-year-old AI healthcare app that aggregates and analyzes medical records; source: OpenAI is paying $100M in equity &lpar;Laura Mandaro/The Information&rpar;](http://www.techmeme.com/260112/p33#a260112p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
