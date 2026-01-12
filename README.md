@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fanatical bundle lets you snag 3 Fallout games, Disco Elysium, a ton of Steamworld, and more for roughly $3 a pop](https://www.pcgamer.com/games/fanatical-bundle-lets-you-snag-3-fallout-games-disco-elysium-a-ton-of-steamworld-and-more-for-roughly-usd3-a-pop/)
- - [Intel&#39;s &#39;Big Battlemage&#39; GPU did not appear at CES but the rumours just won&#39;t go away](https://www.pcgamer.com/hardware/graphics-cards/intels-big-battlemage-gpu-did-not-appear-at-ces-but-the-rumours-just-wont-go-away/)
- - [All Heartopia codes for January 2026: Moonlight Crystals and Materials](https://www.pcgamer.com/games/heartopia-codes/)<!-- GAME:END -->
+ - [Jackery Is Offloading the Explorer 300 Portable Power Station at an All-Time Low, Priced Like Small Power Banks](https://kotaku.com/jackery-is-offloading-the-explorer-300-portable-power-station-at-an-all-time-low-priced-like-small-power-banks-2000658283)
+ - [There’s one really good reason Beast Wars: Transformers needs a reboot in 2026](https://www.polygon.com/beast-wars-reboot-2026/)
+ - [Hytale launch times and release date](https://www.pcgamer.com/games/survival-crafting/hytale-launch-time-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
