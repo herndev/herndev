@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix&#39;s One Piece isn&#39;t afraid of going big with VFX in new season 2 trailer](https://www.polygon.com/netflix-one-piece-season-2-trailer-baroque-works/)
- - [Resident Evil Requiem looks nothing like Village, and that’s a good thing](https://www.polygon.com/resident-evil-requiem-looks-nothing-like-village/)
- - [The Pokémon Lego Sets Are Incredible And Expensive](https://kotaku.com/pokemon-lego-sets-release-date-price-pikachu-charizard-2000658895)<!-- GAME:END -->
+ - [Donkey Kong Bananza fans need to check out Big Hops](https://www.polygon.com/big-hops-impressions-donkey-kong-bananza/)
+ - [Fortnite‘s Steal The Brainrot Will Now Subject Millions Of Kids To Grim Microtransactions And Gambling](https://kotaku.com/fortnite-steal-the-brainrot-gambling-vbucks-2000658885)
+ - [Arc Raiders is finally dishing out bans for cheaters, but some players think the punishment is too lenient: &#39;Anyone with cheats active just gets non-stop arc spawning on them&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-finally-dishing-out-bans-for-cheaters-but-some-players-think-the-punishment-is-too-lenient-anyone-with-cheats-active-just-gets-non-stop-arc-spawning-on-them/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
