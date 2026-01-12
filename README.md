@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI’s mobile selfie stick / tripod / stabilizer will track you automatically for its lowest price of $103](https://www.theverge.com/gadgets/860590/dji-mobile-7p-gimbal-stabilizer-anker-341-usb-power-strip-deal-sale)
- - [Google Gemini tech will be used in the all-new Siri after major Apple AI deal](https://appleinsider.com/articles/26/01/12/google-gemini-tech-will-be-used-in-the-all-new-siri-after-major-apple-ai-deal?utm_source=rss)
- - [World Liberty Financial launches World Liberty Markets, letting users lend and borrow digital assets among one another, supporting its own token USD1 and others &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/260112/p24#a260112p24)<!-- TECH:END -->
+ - [Anker goes big with new whole home backup system](https://www.theverge.com/news/860392/anker-goes-big-with-new-whole-home-backup-system)
+ - [&#39;SnowRunner&#39; on Mac crashes, not getting any new updates or content](https://appleinsider.com/articles/26/01/12/snowrunner-on-mac-crashes-not-getting-any-new-updates-or-content?utm_source=rss)
+ - [Livestream FA Cup Soccer: Watch Liverpool vs. Barnsley From Anywhere](https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-liverpool-vs-barnsley-from-anywhere/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
