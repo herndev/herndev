@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus might have cancelled two eagerly anticipated flagships](https://www.androidauthority.com/oneplus-open-2-canceled-leak-3631611/)
  - [President Trump says &quot;we may speak to Elon&quot; about using Starlink to restore the internet in Iran, after the state imposed an internet blackout amid protests &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/260112/p3#a260112p3)
- - [The Galaxy S26 series might finally make 24MP photos worth using](https://www.androidauthority.com/samsung-galaxy-s26-24mp-shooting-details-3631600/)
- - [A profile of China&#39;s CXMT, whose $4.2B IPO goal would rank among the century&#39;s biggest chip debuts, as the memory chip maker faces US and South Korean curbs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260112/p2#a260112p2)<!-- TECH:END -->
+ - [The Galaxy S26 series might finally make 24MP photos worth using](https://www.androidauthority.com/samsung-galaxy-s26-24mp-shooting-details-3631600/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
