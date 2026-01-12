@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
- - ⏩ [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)
- - 👉 [Serves you right](http://9gag.com/gag/adBMme2)<!-- MEMES:END -->
+ - 💣 [It&#39;s so funny it&#39;s painful](http://9gag.com/gag/ae9EvmB)
+ - ⏩ [Serves you right](http://9gag.com/gag/adBMme2)
+ - 👉 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)<!-- MEMES:END -->
 
 ---
 
