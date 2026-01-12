@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this the perfect time for the second amendment?](http://9gag.com/gag/aByM5N1)
- - ⏩ [The legend](http://9gag.com/gag/ayNAb2r)
- - 👉 [Shut her down real quick](http://9gag.com/gag/amoy484)<!-- MEMES:END -->
+ - 💣 [How do seals sleep underwater](http://9gag.com/gag/ary0Yod)
+ - ⏩ [Like a scene straight out of The Office.](http://9gag.com/gag/ayNAGXq)
+ - 👉 [Surely the engineer is watching live.](http://9gag.com/gag/an736Zo)<!-- MEMES:END -->
 
 ---
 
