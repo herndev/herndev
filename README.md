@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Donkey Kong Bananza fans need to check out Big Hops](https://www.polygon.com/big-hops-impressions-donkey-kong-bananza/)
- - [Fortnite‘s Steal The Brainrot Will Now Subject Millions Of Kids To Grim Microtransactions And Gambling](https://kotaku.com/fortnite-steal-the-brainrot-gambling-vbucks-2000658885)
- - [Arc Raiders is finally dishing out bans for cheaters, but some players think the punishment is too lenient: &#39;Anyone with cheats active just gets non-stop arc spawning on them&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-finally-dishing-out-bans-for-cheaters-but-some-players-think-the-punishment-is-too-lenient-anyone-with-cheats-active-just-gets-non-stop-arc-spawning-on-them/)<!-- GAME:END -->
+ - [D&amp;D alternative Draw Steel raises $2.6 million in crowdfunding](https://www.polygon.com/draw-steel-crack-the-sun-crowdfunding/)
+ - [Micron says it&#39;s not to blame for its high memory prices: &#39;There&#39;s just not enough supply to go around&#39;](https://www.pcgamer.com/hardware/memory/micron-says-its-not-to-blame-for-its-high-memory-prices-theres-just-not-enough-supply-to-go-around/)
+ - [It looks like even power supplies and CPU coolers are set to rise in price, but AI isn&#39;t to blame this time](https://www.pcgamer.com/hardware/it-looks-like-even-power-supplies-and-cpu-coolers-are-set-to-rise-in-price-but-ai-isnt-to-blame-this-time/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
