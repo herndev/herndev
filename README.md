@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [KPop Demon Hunters beats Demon Slayer at the Golden Globes](https://www.polygon.com/kpop-demon-hunters-beats-demon-slayer-golden-globes/)
- - [Anthem players log in to say goodbye to the game they loved before it&#39;s gone forever: &#39;Strong alone, stronger together&#39;](https://www.pcgamer.com/games/action/anthem-players-log-in-to-say-goodbye-to-the-game-they-loved-before-its-gone-forever-strong-alone-stronger-together/)
- - [The sound of this one specific bird from Age of Empires keeps haunting me through pop songs, movies, and across other games](https://www.pcgamer.com/games/the-sound-of-this-one-specific-bird-from-age-of-empires-keeps-haunting-me-through-pop-songs-movies-and-across-other-games/)<!-- GAME:END -->
+ - [Fanatical bundle lets you snag 3 Fallout games, Disco Elysium, a ton of Steamworld, and more for roughly $3 a pop](https://www.pcgamer.com/games/fanatical-bundle-lets-you-snag-3-fallout-games-disco-elysium-a-ton-of-steamworld-and-more-for-roughly-usd3-a-pop/)
+ - [Intel&#39;s &#39;Big Battlemage&#39; GPU did not appear at CES but the rumours just won&#39;t go away](https://www.pcgamer.com/hardware/graphics-cards/intels-big-battlemage-gpu-did-not-appear-at-ces-but-the-rumours-just-wont-go-away/)
+ - [All Heartopia codes for January 2026: Moonlight Crystals and Materials](https://www.pcgamer.com/games/heartopia-codes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
