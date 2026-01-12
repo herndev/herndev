@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tron 3 and a new Predator are finally streaming this weekend](https://www.polygon.com/new-movies-to-watch-tron-ares-predator-badlands-january-9-2026/)
- - [Baldur&#39;s Gate 3&#39;s lead writer hopes we won&#39;t want to save scum in Divinity: &#39;Our ambition is certainly to make failure more interesting&#39;](https://www.pcgamer.com/games/rpg/baldurs-gate-3s-lead-writer-hopes-we-wont-want-to-save-scum-in-divinity-our-ambition-is-certainly-to-make-failure-more-interesting/)
- - [Valve spent 2025 ripping apart Deadlock and putting it back together, and it delivered better live service than most live service games](https://www.pcgamer.com/games/moba/state-of-deadlock-2026/)<!-- GAME:END -->
+ - [A dev on Minecraft-like Hytale has already used its creative tools to make a homebrew side-scroller](https://www.pcgamer.com/games/survival-crafting/a-dev-on-minecraft-like-hytale-has-already-used-its-creative-tools-to-make-a-homebrew-side-scroller/)
+ - [Warhammer World, Games Workshop&#39;s pub-slash-hobby store celebrating the venerable wargame, is coming to the US](https://www.pcgamer.com/games/board-games/warhammer-world-games-workshops-pub-slash-hobby-store-celebrating-the-venerable-wargame-is-coming-to-the-us/)
+ - [&#39;Don’t toil away on the things that don’t really matter&#39;: Peak creator says its rapid development cycle has &#39;proved that there are definitely different, but maybe better ways to make games&#39;](https://www.pcgamer.com/games/adventure/dont-toil-away-on-the-things-that-dont-really-matter-peak-creator-says-its-rapid-development-cycle-has-proved-that-there-are-definitely-different-but-maybe-better-ways-to-make-games/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
