@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D alternative Draw Steel raises $2.6 million in crowdfunding](https://www.polygon.com/draw-steel-crack-the-sun-crowdfunding/)
- - [Micron says it&#39;s not to blame for its high memory prices: &#39;There&#39;s just not enough supply to go around&#39;](https://www.pcgamer.com/hardware/memory/micron-says-its-not-to-blame-for-its-high-memory-prices-theres-just-not-enough-supply-to-go-around/)
- - [It looks like even power supplies and CPU coolers are set to rise in price, but AI isn&#39;t to blame this time](https://www.pcgamer.com/hardware/it-looks-like-even-power-supplies-and-cpu-coolers-are-set-to-rise-in-price-but-ai-isnt-to-blame-this-time/)<!-- GAME:END -->
+ - [Anthem shutdown prompts fans to share their love and regrets](https://www.polygon.com/anthem-shutdown-community-final-moments-bioware-ea/)
+ - [&#39;Um, as a favor, if you buy a new one, please sell your gaming PC to our company&#39; says Tokyo-based computer store as it offers &#39;pretty high prices&#39;](https://www.pcgamer.com/hardware/gaming-pcs/um-as-a-favor-if-you-buy-a-new-one-please-sell-your-gaming-pc-to-our-company-says-tokyo-based-computer-store-as-it-offers-pretty-high-prices/)
+ - [One modder has already got Doom running inside the voxel-sandbox Hytale, and it&#39;s not even out yet: It plays &#39;a bit like a broken keyboard&#39;](https://www.pcgamer.com/games/survival-crafting/one-modder-has-already-got-doom-running-inside-the-voxel-sandbox-hytale-and-its-not-even-out-yet-it-plays-a-bit-like-a-broken-keyboard/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
