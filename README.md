@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u202e\u202e\u202e](http://9gag.com/gag/aNDXx3A)
- - ⏩ [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
- - 👉 [Do the cat!](http://9gag.com/gag/a9ye3p0)<!-- MEMES:END -->
+ - 💣 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
+ - ⏩ [Do the cat!](http://9gag.com/gag/a9ye3p0)
+ - 👉 [POV- Realizing on the way home that was NOT a normal brownie.](http://9gag.com/gag/aAy7nzR)<!-- MEMES:END -->
 
 ---
 
