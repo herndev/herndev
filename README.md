@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Serves you right](http://9gag.com/gag/adBMme2)
- - ⏩ [A swatch or yer fanny](http://9gag.com/gag/avyV3bZ)
- - 👉 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)<!-- MEMES:END -->
+ - 💣 [\u202e\u202e\u202e](http://9gag.com/gag/aNDXx3A)
+ - ⏩ [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
+ - 👉 [Cool guy](http://9gag.com/gag/a4P8eAd)<!-- MEMES:END -->
 
 ---
 
