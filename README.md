@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon and AT&amp;T argue the FCC’s fines are unconstitutional as is, Supreme Court will step in](https://www.androidauthority.com/supreme-court-verizon-att-3631934/)
- - [Forget M1, M4 is the dominant Apple Silicon chip on Steam](https://appleinsider.com/articles/26/01/12/forget-m1-m4-is-the-dominant-apple-silicon-chip-on-steam?utm_source=rss)
- - [OpenAI acquires Torch, a one-year-old AI healthcare app that aggregates and analyzes medical records; source: OpenAI is paying $100M in equity &lpar;Laura Mandaro/The Information&rpar;](http://www.techmeme.com/260112/p33#a260112p33)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 13, #477](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-13-477/)
+ - [Minnesota Sues to Stop ICE ‘Invasion’](https://www.wired.com/story/minnesota-sues-to-stop-ice-invasion/)
+ - [New Autistic Barbie Comes With Noise-Canceling Headphones, Fidget Spinner, AAC Tablet](https://www.cnet.com/tech/autistic-barbie-noise-canceling-headphones-tablet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
