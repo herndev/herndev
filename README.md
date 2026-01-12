@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Devil Hunter codes for January 2026: Extra fiend and clan rerolls](https://www.pcgamer.com/roblox/devil-hunter-codes/)
- - [A Steam Sale’s Background Art Was Filled With Hidden Free Game Codes](https://kotaku.com/steam-sale-team-17-hidden-codes-free-games-deal-secret-artwork-2000658974)
- - [GTA 6 is basically a PS5 exclusive at this point](https://www.polygon.com/gta-6-ps5-exclusive-sony-playstation-xbox-microsoft-ads-marketing/)<!-- GAME:END -->
+ - [Steam dev is deleting his own game after realizing AI is bad](https://www.polygon.com/steam-dev-deleting-own-game-generative-ai/)
+ - [Indie dev is delisting his AI game from Steam because his new girlfriend convinced him it&#39;s evil: &#39;The game existing in its current form is a disgrace to all game makers and players&#39;](https://www.pcgamer.com/games/indie-dev-is-delisting-his-ai-game-from-steam-because-his-new-girlfriend-convinced-him-its-evil-the-game-existing-in-its-current-form-is-a-disgrace-to-all-game-makers-and-players/)
+ - [Pokéman fans say Lego&#39;s expensive Pikachu set is a monstrosity](https://www.polygon.com/lego-pikachu-pokemon-price-fan-reaction-price-mega-blok-eevee/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
