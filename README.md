@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit’s AI coach has completely changed my workouts](https://www.androidauthority.com/fitbit-ai-coach-3630732/)
- - [Trump’s fundraisers asked Microsoft for its White House ballroom donation](https://www.theverge.com/news/859578/trump-white-house-ballroom-microsoft-amazon-donations)
- - [Google’s new checkout protocol lets you buy products without leaving your search results](https://www.androidauthority.com/google-universal-commerce-protocol-announcement-3631662/)<!-- TECH:END -->
+ - [Sources and filings: Peter Thiel donated $3M to a group to beat California&#39;s wealth tax, the first of several expected major donations by tech leaders in 2026 &lpar;New York Times&rpar;](http://www.techmeme.com/260112/p9#a260112p9)
+ - [Google Wallet may finally add Aadhaar card support alongside a new split-style FAB &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-wallet-aadhaar-card-support-apk-teardown-3631656/)
+ - [Meta says it shut down nearly 550K accounts in Australia to comply with its under-16 social media ban, including 330K Instagram and 173K Facebook accounts &lpar;Nasteho Said/Bloomberg&rpar;](http://www.techmeme.com/260112/p8#a260112p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
