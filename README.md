@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker goes big with new whole home backup system](https://www.theverge.com/news/860392/anker-goes-big-with-new-whole-home-backup-system)
- - [&#39;SnowRunner&#39; on Mac crashes, not getting any new updates or content](https://appleinsider.com/articles/26/01/12/snowrunner-on-mac-crashes-not-getting-any-new-updates-or-content?utm_source=rss)
- - [Livestream FA Cup Soccer: Watch Liverpool vs. Barnsley From Anywhere](https://www.cnet.com/tech/services-and-software/livestream-fa-cup-soccer-watch-liverpool-vs-barnsley-from-anywhere/)<!-- TECH:END -->
+ - [GoFundMe Ignores Own Rules by Hosting a Legal-Defense Fund for the ICE Agent Who Killed Renee Good](https://www.wired.com/story/gofundme-ice-jonathan-ross-renee-good-fundraiser/)
+ - [Democrats should reject tech influence to win elections, Warren says](https://www.theverge.com/news/860706/democrats-elections-big-tech-influence-senator-warren)
+ - [Second developer betas for iOS 26.3, macOS Tahoe 26.3 have arrived](https://appleinsider.com/articles/26/01/12/second-developer-betas-for-ios-263-macos-tahoe-263-have-arrived?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
