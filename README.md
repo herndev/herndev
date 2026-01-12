@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
- - ⏩ [Mashhad has fallen](http://9gag.com/gag/a4P8Dod)
- - 👉 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)<!-- MEMES:END -->
+ - 💣 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
+ - ⏩ [Japanese probe .......](http://9gag.com/gag/a34DoMv)
+ - 👉 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)<!-- MEMES:END -->
 
 ---
 
