@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CES 2026: how some companies are trying to make their AI products cute and relatable, from Lenovo&#39;s chatty motorized laptop to Sharp&#39;s ChatGPT-powered Poketomo &lpar;Chris Velazco/Washington Post&rpar;](http://www.techmeme.com/260112/p4#a260112p4)
- - [Google Photos may finally add a long-awaited video playback feature](https://www.androidauthority.com/google-photos-video-playback-speed-apk-teardown-3631639/)
- - [Galaxy S27 Ultra leak brings primary camera upgrade into focus](https://www.androidauthority.com/galaxy-s27-ultra-primary-camera-leak-3631634/)<!-- TECH:END -->
+ - [Fitbit’s AI coach has completely changed my workouts](https://www.androidauthority.com/fitbit-ai-coach-3630732/)
+ - [Trump’s fundraisers asked Microsoft for its White House ballroom donation](https://www.theverge.com/news/859578/trump-white-house-ballroom-microsoft-amazon-donations)
+ - [Google’s new checkout protocol lets you buy products without leaving your search results](https://www.androidauthority.com/google-universal-commerce-protocol-announcement-3631662/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
