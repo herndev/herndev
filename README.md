@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Peter Molyneux&#39;s final game is coming in April: &#39;Masters of Albion is the culmination of my life’s work,&#39; he says, not that he&#39;s overhyping it or anything](https://www.pcgamer.com/games/strategy/peter-molyneuxs-final-game-is-coming-in-april-masters-of-albion-is-the-culmination-of-my-lifes-work-he-says-not-that-hes-overhyping-it-or-anything/)
- - [&#39;Steam is winning with its ease of use,&#39; GOG&#39;s new owner says, but he&#39;s not interested in picking a fight: &#39;I think much can be done in GOG without losing its core values and the way it operates&#39;](https://www.pcgamer.com/games/steam-is-winning-with-its-ease-of-use-gogs-new-owner-says-but-hes-not-interested-in-picking-a-fight-i-think-much-can-be-done-in-gog-without-losing-its-core-values-and-the-way-it-operates/)
- - [Embark dispels myths about Arc Raiders&#39; aggression-based matchmaking: &#39;We don&#39;t make any value or moral judgments … it&#39;s a bit of a blunt instrument&#39;](https://www.pcgamer.com/games/third-person-shooter/embark-dispels-myths-about-arc-raiders-aggression-based-matchmaking-we-dont-make-any-value-or-moral-judgments-its-a-bit-of-a-blunt-instrument/)<!-- GAME:END -->
+ - [Dude Will Delete AI-Generated Game From Steam After New Girlfriend Convinces Him AI Sucks](https://kotaku.com/dude-will-delete-ai-generated-game-from-steam-after-new-girlfriend-convinces-him-ai-sucks-2000659024)
+ - [Anthem is finally, officially dead](https://www.pcgamer.com/games/third-person-shooter/anthem-is-finally-officially-dead/)
+ - [The Last of Us Part 2 Multiplayer Mod Is A Busted But Beautiful Look At What Might Have Been](https://kotaku.com/last-of-us-2-online-mod-multiplayer-pvp-2000659021)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
