@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it’s working to fix the bug screwing up your volume keys](https://www.androidauthority.com/android-select-to-speak-bug-3632218/)
- - [Polygon buys crypto startups Coinme and Sequence for a total of $250M+, as it seeks to bolster its stablecoin and fintech infrastructure and compete with Stripe &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260113/p44#a260113p44)
- - [YouTube’s latest UI tweak has commenters seeing red](https://www.androidauthority.com/youtube-comments-red-3632195/)<!-- TECH:END -->
+ - [Nothing Headphone &lpar;1&rpar; and Nothing Ear &lpar;3&rpar; drop to record-low prices](https://www.androidauthority.com/nothing-headphone-1-nothing-ear-3-deals-3632167/)
+ - [President Trump renominates Sean Plankey to be the next director of CISA, which has been running without a full-time chief since Trump&#39;s return to office &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260113/p48#a260113p48)
+ - [WeatherTech founder might be the newest US consumer protection official](https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
