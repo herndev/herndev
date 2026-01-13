@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [$100 Off Shark Promo Code | This January](https://www.wired.com/story/shark-promo-code/)
- - [B&amp;H Photo Promo Codes and Deals This January](https://www.wired.com/story/bh-photo-coupon/)
- - [Design Within Reach Promo Codes: 30% Off | January 2026](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
+ - [A look at WhatsApp&#39;s enormous global reach and influence, and how the messaging app became the dominant platform for everyday conversation worldwide &lpar;Sam Knight/New Yorker&rpar;](http://www.techmeme.com/260113/p4#a260113p4)
+ - [Hoka Coupon Codes: 10% Off | January 2026](https://www.wired.com/story/hoka-coupon-code/)
+ - [50% Off Verizon Promo Codes | January 2026](https://www.wired.com/story/verizon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
