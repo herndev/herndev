@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Even after its success, Embark design lead is still lukewarm on AI usage for Arc Raiders: &#39;I don&#39;t think it&#39;s fallen any way or the other&#39;](https://www.pcgamer.com/games/third-person-shooter/even-after-its-success-embark-design-lead-is-still-lukewarm-on-ai-usage-for-arc-raiders-i-dont-think-its-fallen-any-way-or-the-other/)
- - [PC shipments grew in 2025 but the market &#39;will be far different in 12 months given how quickly the memory situation is evolving&#39;](https://www.pcgamer.com/hardware/gaming-pcs/pc-shipments-grew-in-2025-but-the-market-will-be-far-different-in-12-months-given-how-quickly-the-memory-situation-is-evolving/)
- - [Arc Raiders has officially nerfed two of the strongest weapons, the Trigger Nade and the Kettle, as previous stats created &#39;an unfair dynamic that favours using 3rd party software&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-has-officially-nerfed-two-of-the-strongest-weapons-the-trigger-nade-and-the-kettle-as-previous-stats-created-an-unfair-dynamic-that-favours-using-3rd-party-software/)<!-- GAME:END -->
+ - [Steam’s Big New Zombie Game Is Tense, But Comes At A Bad Time](https://kotaku.com/steams-big-new-zombie-game-is-tense-but-comes-at-a-bad-time-2000658992)
+ - [D&amp;D Dungeon Masters like Mercer and Woll on how to make memorable NPC introductions](https://www.polygon.com/dnd-npcs-tips-matt-mercer-deborah-ann-woll/)
+ - [HP’s 15.6″ Laptop at Nearly 60% Off Comes With Windows 11 Pro and Microsoft Office, Priced Like a Budget Tablet](https://kotaku.com/this-hp-laptop-at-nearly-60-off-comes-with-windows-11-pro-and-microsoft-office-priced-like-a-budget-tablet-2000659048)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
