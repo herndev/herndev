@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix will invest ~$12.9B to build an advanced chip packaging plant in South Korea to meet rising memory chip demand, targeting completion by the end of 2027 &lpar;Reuters&rpar;](http://www.techmeme.com/260112/p38#a260112p38)
- - [These Lego Sets Let You Catch Pokemon in a Whole New Way](https://www.cnet.com/culture/entertainment/these-lego-sets-let-you-catch-pokemon-in-a-whole-new-way/)
- - [Trump says Microsoft will &quot;ensure&quot; Americans don&#39;t face higher bills due to data centers&#39; power use and Big Tech must &quot;pay their own way&quot; for their data centers &lpar;Business Insider&rpar;](http://www.techmeme.com/260112/p37#a260112p37)<!-- TECH:END -->
+ - [A late-2025 amendment to California&#39;s wealth tax proposal treats founder control as ownership, a move that could end founder-controlled startups in the state &lpar;Mike Solana/Pirate Wires&rpar;](http://www.techmeme.com/260112/p39#a260112p39)
+ - [Transport Your Dungeons &amp; Dragons Hero Off the Page With This Tabletop Gadget](https://www.cnet.com/tech/gaming/transport-your-dungeons-dragons-hero-off-the-page-with-this-tabletop-gadget/)
+ - [SK Hynix will invest ~$12.9B to build an advanced chip packaging plant in South Korea to meet rising memory chip demand, targeting completion by the end of 2027 &lpar;Reuters&rpar;](http://www.techmeme.com/260112/p38#a260112p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
