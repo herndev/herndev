@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates Veo so videos finally fit phone screens](https://www.androidauthority.com/google-veo-vertical-video-output-3632187/)
- - [Gemini is adding new interactive elements to its weather forecasts](https://www.androidauthority.com/gemini-weather-3632145/)
- - [Deal: Get the small XGIMI Vibe One projector for a small price!](https://www.androidauthority.com/xgimi-vibe-one-portable-projector-deal-3631918/)<!-- TECH:END -->
+ - [The Bone Temple turns 28 Years Later into a terrifying crisis of faith](https://www.theverge.com/entertainment/859756/28-years-later-the-bone-temple-review)
+ - [Pixelmator is dead, long live Pixelmator Pro](https://appleinsider.com/articles/26/01/13/pixelmator-is-dead-long-live-pixelmator-pro?utm_source=rss)
+ - [Senate passes a bill that would let nonconsensual deepfake victims sue](https://www.theverge.com/news/861531/defiance-act-senate-passage-deepfakes-grok)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
