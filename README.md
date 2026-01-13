@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nitric acid leak in Cape Town South Africa](http://9gag.com/gag/a7ogvDr)
- - ⏩ [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)
- - 👉 [Oops...](http://9gag.com/gag/agm93QW)<!-- MEMES:END -->
+ - 💣 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
+ - ⏩ [Oops...](http://9gag.com/gag/agm93QW)
+ - 👉 [Opening a street camera....](http://9gag.com/gag/a34gvq7)<!-- MEMES:END -->
 
 ---
 
