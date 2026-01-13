@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deepgram, which is building enterprise voice-recognition tech, raised a $130M Series C led by AVP at a $1.3B valuation, taking its total funding to $215M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260113/p20#a260113p20)
- - [How Lego’s Smart Brick works](https://www.theverge.com/podcast/861148/lego-smart-brick-claude-code-vergecast)
- - [Microsoft changes its data center approach, pledging to pay its power costs, reject tax breaks, and replenish more water than it uses, amid local opposition &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260113/p19#a260113p19)<!-- TECH:END -->
+ - [Sources: CoinGecko, a prominent crypto market data and analytics company, is considering a sale at a ~$500M valuation, after starting the sales process in 2025 &lpar;Will Canny/CoinDesk&rpar;](http://www.techmeme.com/260113/p26#a260113p26)
+ - [We tried CES 2026’s best and weirdest products, ask us anything!](https://www.theverge.com/tech/859914/the-verge-ces-2026-after-show-ama)
+ - [Sources: Meta and EssilorLuxottica are discussing potentially doubling Ray-Ban Meta production to 20M+ units by the end of 2026 and possibly as high as 30M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260113/p25#a260113p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
