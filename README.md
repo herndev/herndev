@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit Outage on Tuesday: Here&#39;s What&#39;s Happening](https://www.cnet.com/tech/services-and-software/reddit-outage-jan-13-2026/)
- - [Verizon gets FCC permission to end 60-day phone unlocking rule](https://www.theverge.com/news/861349/verizon-fcc-phone-unlocking-60-day-requirement-waived)
- - [A look at Confer, an open-source AI assistant project from Signal creator Moxie Marlinspike that is designed to provide end-to-end encryption for AI chats &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/260113/p35#a260113p35)<!-- TECH:END -->
+ - [Everything Is Content for the ‘Clicktatorship’](https://www.wired.com/story/everything-is-content-for-the-clicktatorship/)
+ - [Roblox’s AI-Powered Age Verification Is a Complete Mess](https://www.wired.com/story/robloxs-ai-powered-age-verification-is-a-complete-mess/)
+ - [Fitbit and Strava may be tracking more than your run](https://www.androidauthority.com/fitness-app-data-collection-report-3632108/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
