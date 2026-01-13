@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at WhatsApp&#39;s enormous global reach and influence, and how the messaging app became the dominant platform for everyday conversation worldwide &lpar;Sam Knight/New Yorker&rpar;](http://www.techmeme.com/260113/p4#a260113p4)
- - [Hoka Coupon Codes: 10% Off | January 2026](https://www.wired.com/story/hoka-coupon-code/)
- - [50% Off Verizon Promo Codes | January 2026](https://www.wired.com/story/verizon-promo-code/)<!-- TECH:END -->
+ - [Researchers at OpenAI, Anthropic, and others are studying LLMs like living things, not just software, to uncover some of their secrets for the first time &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260113/p5#a260113p5)
+ - [Samsung extends its six-year update policy to its cheapest 5G phone](https://www.androidauthority.com/samsung-a07-5g-six-years-updates-3631814/)
+ - [PSA: Hate the Ask button in Google Photos? You can get rid of it easily](https://www.androidauthority.com/google-photos-ask-button-disable-3631979/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
