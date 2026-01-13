@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Frieren season 2 review: The flawless anime you desperately need in your life right now](https://www.polygon.com/frieren-season-2-episode-1-review-impressions/)
- - [Free on Steam: Initial D-inspired racing game Initial Drift Online](https://www.polygon.com/steam-free-racing-game-initial-drift-online/)
- - [Deadpool&#39;s role in Marvel Rivals is totally unique](https://www.polygon.com/marvel-rivals-deadpool-role-trailer/)<!-- GAME:END -->
+ - [28 Years Later The Bone Temple review: Nia Dacosta succeeds, and then some](https://www.polygon.com/bone-temple-review-bone-temple-review/)
+ - [Hytale surges to the most-watched game on Twitch, attracting over 420,000 viewers with its long-awaited launch](https://www.pcgamer.com/games/survival-crafting/hytale-surges-to-the-most-watched-game-on-twitch-attracting-over-420-000-viewers-with-its-long-awaited-launch/)
+ - [Larry Hryb, better known as Xbox hype man Major Nelson, has been laid off from Unity less than 2 years after joining the company](https://www.pcgamer.com/gaming-industry/larry-hryb-better-known-as-xbox-hype-man-major-nelson-has-been-laid-off-from-unity-less-than-2-years-after-joining-the-company/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
