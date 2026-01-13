@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poll: Have you ever used Pixel support? How has your experience been?](https://www.androidauthority.com/google-pixel-support-experience-poll-3631982/)
  - [Researchers at OpenAI, Anthropic, and others are studying LLMs like living things, not just software, to uncover some of their secrets for the first time &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260113/p5#a260113p5)
- - [Samsung extends its six-year update policy to its cheapest 5G phone](https://www.androidauthority.com/samsung-a07-5g-six-years-updates-3631814/)
- - [PSA: Hate the Ask button in Google Photos? You can get rid of it easily](https://www.androidauthority.com/google-photos-ask-button-disable-3631979/)<!-- TECH:END -->
+ - [Samsung extends its six-year update policy to its cheapest 5G phone](https://www.androidauthority.com/samsung-a07-5g-six-years-updates-3631814/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
