@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PJM, the nonprofit operator for a 13-state power grid across the US, expects 4.8% average annual power growth over the next decade driven by the AI boom &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260113/p7#a260113p7)
- - [Samsung just abandoned this mini-game you never heard of, but there’s good news](https://www.androidauthority.com/samung-gaming-hub-removes-mini-game-3631991/)
- - [The US House passes a bipartisan bill to expand US export controls to restrict Chinese companies&#39; remote access to US AI chips from data centers outside China &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/260113/p6#a260113p6)<!-- TECH:END -->
+ - [Interviews with Spotify founder Daniel Ek on his CEO exit, and new co-CEOs Gustav Söderström and Alex Norström, who face algorithmic fatigue and angry artists &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/260113/p11#a260113p11)
+ - [Warhammer maker Games Workshop says it banned its staff from using AI in its content or designs and it is taking a &quot;very cautious&quot; approach to protect its IP &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/260113/p10#a260113p10)
+ - [US foldable phones just took a turn for the worse](https://www.androidauthority.com/us-foldable-phones-just-took-turn-for-worse-3631859/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
