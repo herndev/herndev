@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Driverless delivery vans have become a total meme](http://9gag.com/gag/aPA0OLK)
  - ⏩ [Are we there yet?](http://9gag.com/gag/a9yeQ8j)
- - 👉 [Happiness](http://9gag.com/gag/aGyvKLX)<!-- MEMES:END -->
+ - 👉 [Without.....](http://9gag.com/gag/an73pMn)<!-- MEMES:END -->
 
 ---
 
