@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
- - ⏩ [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
- - 👉 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)<!-- MEMES:END -->
+ - 💣 [Press F for respect.](http://9gag.com/gag/azxz6yK)
+ - ⏩ [Shot of a lifetime, captured from a car window](http://9gag.com/gag/a7oBj5z)
+ - 👉 [Driverless delivery vans have become a total meme](http://9gag.com/gag/aPA0OLK)<!-- MEMES:END -->
 
 ---
 
