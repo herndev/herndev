@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Bone Temple turns 28 Years Later into a terrifying crisis of faith](https://www.theverge.com/entertainment/859756/28-years-later-the-bone-temple-review)
- - [Pixelmator is dead, long live Pixelmator Pro](https://appleinsider.com/articles/26/01/13/pixelmator-is-dead-long-live-pixelmator-pro?utm_source=rss)
- - [Senate passes a bill that would let nonconsensual deepfake victims sue](https://www.theverge.com/news/861531/defiance-act-senate-passage-deepfakes-grok)<!-- TECH:END -->
+ - [Google says it’s working to fix the bug screwing up your volume keys](https://www.androidauthority.com/android-select-to-speak-bug-3632218/)
+ - [Polygon buys crypto startups Coinme and Sequence for a total of $250M+, as it seeks to bolster its stablecoin and fintech infrastructure and compete with Stripe &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260113/p44#a260113p44)
+ - [YouTube’s latest UI tweak has commenters seeing red](https://www.androidauthority.com/youtube-comments-red-3632195/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
