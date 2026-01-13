@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old but gold.](http://9gag.com/gag/aKGyrN1)
- - ⏩ [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
- - 👉 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)<!-- MEMES:END -->
+ - 💣 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
+ - ⏩ [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
+ - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
 
 ---
 
