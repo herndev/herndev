@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The JLab JBuds Mini are only $33.99, and they are pretty good!](https://www.androidauthority.com/jlab-jbuds-mini-deal-3631919/)
  - [How to import and export Markdown with Apple Notes in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-import-and-export-markdown-with-apple-notes-in-ios-26?utm_source=rss)
- - [Chinese chipmaker GigaDevice rose 54% in its Hong Kong debut after raising ~$600M in its IPO, and reported H1 2025 profit of ~$84M, up 14% from H2 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260112/p41#a260112p41)
- - [Verizon just got permission to keep your phone locked for longer](https://www.androidauthority.com/verizon-60-days-unlock-ending-3631962/)<!-- TECH:END -->
+ - [Chinese chipmaker GigaDevice rose 54% in its Hong Kong debut after raising ~$600M in its IPO, and reported H1 2025 profit of ~$84M, up 14% from H2 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260112/p41#a260112p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
