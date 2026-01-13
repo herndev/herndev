@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The JLab JBuds Mini are only $33.99, and they are pretty good!](https://www.androidauthority.com/jlab-jbuds-mini-deal-3631919/)
- - [How to import and export Markdown with Apple Notes in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-import-and-export-markdown-with-apple-notes-in-ios-26?utm_source=rss)
- - [Chinese chipmaker GigaDevice rose 54% in its Hong Kong debut after raising ~$600M in its IPO, and reported H1 2025 profit of ~$84M, up 14% from H2 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260112/p41#a260112p41)<!-- TECH:END -->
+ - [Viral ‘Are You Dead?’ iOS app checks if you’re alive, but Android users aren’t missing out](https://www.androidauthority.com/are-you-dead-app-android-alternatives-3631966/)
+ - [The NYC token, launched by ex-New York City Mayor Eric Adams on January 12, saw its market cap drop from ~$600M to ~$100M after suspicious liquidity activity &lpar;Decrypt&rpar;](http://www.techmeme.com/260113/p2#a260113p2)
+ - [Sources: Balderton cashed out ~$2B of its Revolut stake in the past year, turning an early £1M bet into a historic European VC win; its fifth fund returned 25x &lpar;Financial Times&rpar;](http://www.techmeme.com/260113/p1#a260113p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
