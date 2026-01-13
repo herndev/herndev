@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
- - ⏩ [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
- - 👉 [Walk it off like a boss](http://9gag.com/gag/avyq26W)<!-- MEMES:END -->
+ - 💣 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
+ - ⏩ [Walk it off like a boss](http://9gag.com/gag/avyq26W)
+ - 👉 [You hear that Donald?](http://9gag.com/gag/aqyM45M)<!-- MEMES:END -->
 
 ---
 
