@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Have you ever used Pixel support? How has your experience been?](https://www.androidauthority.com/google-pixel-support-experience-poll-3631982/)
- - [Researchers at OpenAI, Anthropic, and others are studying LLMs like living things, not just software, to uncover some of their secrets for the first time &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260113/p5#a260113p5)
- - [Samsung extends its six-year update policy to its cheapest 5G phone](https://www.androidauthority.com/samsung-a07-5g-six-years-updates-3631814/)<!-- TECH:END -->
+ - [PJM, the nonprofit operator for a 13-state power grid across the US, expects 4.8% average annual power growth over the next decade driven by the AI boom &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260113/p7#a260113p7)
+ - [Samsung just abandoned this mini-game you never heard of, but there’s good news](https://www.androidauthority.com/samung-gaming-hub-removes-mini-game-3631991/)
+ - [The US House passes a bipartisan bill to expand US export controls to restrict Chinese companies&#39; remote access to US AI chips from data centers outside China &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/260113/p6#a260113p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
