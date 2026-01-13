@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dude Will Delete AI-Generated Game From Steam After New Girlfriend Convinces Him AI Sucks](https://kotaku.com/dude-will-delete-ai-generated-game-from-steam-after-new-girlfriend-convinces-him-ai-sucks-2000659024)
- - [Anthem is finally, officially dead](https://www.pcgamer.com/games/third-person-shooter/anthem-is-finally-officially-dead/)
- - [The Last of Us Part 2 Multiplayer Mod Is A Busted But Beautiful Look At What Might Have Been](https://kotaku.com/last-of-us-2-online-mod-multiplayer-pvp-2000659021)<!-- GAME:END -->
+ - [TikTok hit Quarantine Zone finally launched today and made the mistake of giving me a large medical hammer](https://www.pcgamer.com/games/sim/tiktok-hit-quarantine-zone-finally-launched-today-and-made-the-mistake-of-giving-me-a-large-medical-hammer/)
+ - [Blue Prince, the best game of 2025 &lpar;don&#39;t check our GOTY just trust me&rpar; is on sale on Steam for under $20 for the first time](https://www.pcgamer.com/games/puzzle/blue-prince-the-best-game-of-2025-dont-check-our-goty-just-trust-me-is-on-sale-on-steam-for-under-usd20-for-the-first-time/)
+ - [Dude Will Delete AI-Generated Game From Steam After New Girlfriend Convinces Him AI Sucks](https://kotaku.com/dude-will-delete-ai-generated-game-from-steam-after-new-girlfriend-convinces-him-ai-sucks-2000659024)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
