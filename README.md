@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Personal finance app Betterment says an individual accessed certain systems to send fake crypto scam notification and believes the person accessed user info &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/260112/p36#a260112p36)
- - [No, Google Gemini will not be taking over your iPhone, Apple Intelligence, or Siri](https://appleinsider.com/articles/26/01/12/no-google-gemini-will-not-be-taking-over-your-iphone-apple-intelligence-or-siri?utm_source=rss)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 13, #477](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-13-477/)<!-- TECH:END -->
+ - [SK Hynix will invest ~$12.9B to build an advanced chip packaging plant in South Korea to meet rising memory chip demand, targeting completion by the end of 2027 &lpar;Reuters&rpar;](http://www.techmeme.com/260112/p38#a260112p38)
+ - [Trump says Microsoft will &quot;ensure&quot; Americans don&#39;t face higher bills due to data centers&#39; power use and Big Tech must &quot;pay their own way&quot; for their data centers &lpar;Business Insider&rpar;](http://www.techmeme.com/260112/p37#a260112p37)
+ - [Cloudflare Says Winter Olympics Cybersecurity Is at Risk in Spat With Italian Regulators](https://www.cnet.com/tech/services-and-software/cloudflare-says-winter-olympics-cybersecurity-is-at-risk-in-spat-with-italian-regulators/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
