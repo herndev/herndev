@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
- - ⏩ [Walk it off like a boss](http://9gag.com/gag/avyq26W)
- - 👉 [Cool guy](http://9gag.com/gag/a4P8eAd)<!-- MEMES:END -->
+ - 💣 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
+ - ⏩ [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
+ - 👉 [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)<!-- MEMES:END -->
 
 ---
 
