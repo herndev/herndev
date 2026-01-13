@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with Spotify founder Daniel Ek on his CEO exit, and new co-CEOs Gustav Söderström and Alex Norström, who face algorithmic fatigue and angry artists &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/260113/p11#a260113p11)
- - [Warhammer maker Games Workshop says it banned its staff from using AI in its content or designs and it is taking a &quot;very cautious&quot; approach to protect its IP &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/260113/p10#a260113p10)
- - [US foldable phones just took a turn for the worse](https://www.androidauthority.com/us-foldable-phones-just-took-turn-for-worse-3631859/)<!-- TECH:END -->
+ - [Salesforce makes Slack&#39;s new AI-powered Slackbot generally available, helping users answer workflow questions, draft documents, schedule meetings, and more &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/260113/p17#a260113p17)
+ - [Urevo SpaceWalk 5L Walking Pad Review: Compact and Affordable](https://www.wired.com/review/urevo-spacewalk-5l-walking-pad/)
+ - [Insta360’s face-tracking webcams get bigger sensors and more expensive](https://www.theverge.com/tech/860616/insta360-link-2-2c-pro-face-tracking-webcam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
