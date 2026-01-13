@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrowdStrike acquires Israel-based browser security startup Seraphic, a source says for around $400M; Seraphic has raised around $37M in total &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260113/p28#a260113p28)
- - [The Pixel 10a could be launching surprisingly soon](https://www.androidauthority.com/google-pixel-10a-release-february-3632073/)
- - [Pages, Numbers, and Keynote are still &lpar;mostly&rpar; free, but we don&#39;t like the trend](https://appleinsider.com/articles/26/01/13/pages-numbers-and-keynote-are-still-mostly-free-but-we-dont-like-the-trend?utm_source=rss)<!-- TECH:END -->
+ - [Google Translate wants to give you more control with alternative translations](https://www.androidauthority.com/translate-show-alternatives-3632048/)
+ - [Leaked Pixel 10a render looks like the genuine article](https://www.androidauthority.com/leaked-pixel-10a-render-looks-like-the-genuine-article-3632109/)
+ - [Google’s Veo now turns portrait images into vertical AI videos](https://www.theverge.com/news/861257/google-veo-3-1-ai-video-ingredients-vertical-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
