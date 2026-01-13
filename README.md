@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
+ - 💣 [And it keeps making billions...](http://9gag.com/gag/aO8EK93)
  - ⏩ [Walk it off like a boss](http://9gag.com/gag/avyq26W)
  - 👉 [You hear that Donald?](http://9gag.com/gag/aqyM45M)<!-- MEMES:END -->
 
