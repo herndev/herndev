@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Larian&#39;s main focus for Divinity is &#39;to see how far we can push the diversity of companions&#39; so intra-NPC relationships can feel more natural and complex](https://www.pcgamer.com/games/rpg/larians-main-focus-for-divinity-is-to-see-how-far-we-can-push-the-diversity-of-companions-so-intra-npc-relationships-can-feel-more-natural-and-complex/)
- - [GOG’s New &lpar;Old&rpar; Boss Reaffirms Anti-DRM Commitment, Even If It Costs Sales](https://kotaku.com/gog-anti-drm-cd-projekt-witcher-3-cyberpunk-2000659280)
- - [Arc Raiders has surpassed 12 million players worldwide: &#39;a milestone we owe entirely to the players&#39;, and to celebrate, Embark is handing out a free golden pickaxe](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-has-surpassed-12-million-players-worldwide-a-milestone-we-owe-entirely-to-the-players-and-to-celebrate-embark-is-handing-out-a-free-golden-pickaxe/)<!-- GAME:END -->
+ - [Star Wars Outlaws Arrives on Game Pass – Here’s What’s New, and Why You Should Give It A Try](https://news.xbox.com/en-us/2026/01/13/star-wars-outlaws-game-pass-whats-new/)
+ - [Wrestling the Steam &#39;Goliath,&#39; pulling a Nightdive, and seeing off vulture capital: GOG chats the risks and opportunities of its future as a company without CD Projekt](https://www.pcgamer.com/software/platforms/wrestling-the-steam-goliath-pulling-a-nightdive-and-seeing-off-vulture-capital-gog-chats-the-risks-and-opportunities-of-its-future-as-a-company-without-cd-projekt/)
+ - [Multiple Meta-Owned Game Studios Hit With Layoffs](https://kotaku.com/meta-game-quest-vr-facebook-deadpool-sanzaru-twisted-pixel-layoffs-2000659376)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
