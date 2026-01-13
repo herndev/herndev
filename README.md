@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [8 beginner&#39;s tips to know before starting Divinity: Original Sin 2](https://www.polygon.com/divinity-original-sin-2-dos2-beginner-tips/)
- - [Steam dev says kids can&#39;t beat game because they don&#39;t know how to send email](https://www.polygon.com/after-hours-dev-says-players-cant-write-email/)
- - [How to play with friends in Hytale](https://www.pcgamer.com/games/survival-crafting/hytale-multiplayer-server/)<!-- GAME:END -->
+ - [How to play online with friends in Hytale](https://www.polygon.com/hytale-multiplayer-online-play-with-friends-how-to/)
+ - [A Bunch More Gameplay Just Leaked From That Canceled Nolanverse Batman Game](https://kotaku.com/dark-knight-aaa-open-world-batman-game-canceled-nolan-trilogy-wb-2000659402)
+ - [Judge denies interim pay for fired Rockstar employees, but the decision &#39;does nothing to suggest that Rockstar will not be found guilty of unfair dismissal when the case goes to trial,&#39; union says](https://www.pcgamer.com/games/judge-denies-interim-pay-for-fired-rockstar-employees-but-the-decision-does-nothing-to-suggest-that-rockstar-will-not-be-found-guilty-of-unfair-dismissal-when-the-case-goes-to-trial-union-says/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
