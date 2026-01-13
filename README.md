@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He will be remembered](http://9gag.com/gag/aKGybZ6)
- - ⏩ [Opening a street camera....](http://9gag.com/gag/a34gvq7)
- - 👉 [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)<!-- MEMES:END -->
+ - 💣 [Nitric acid leak in Cape Town South Africa](http://9gag.com/gag/a7ogvDr)
+ - ⏩ [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)
+ - 👉 [Oops...](http://9gag.com/gag/agm93QW)<!-- MEMES:END -->
 
 ---
 
