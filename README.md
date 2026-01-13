@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Outlaws Arrives on Game Pass – Here’s What’s New, and Why You Should Give It A Try](https://news.xbox.com/en-us/2026/01/13/star-wars-outlaws-game-pass-whats-new/)
- - [Wrestling the Steam &#39;Goliath,&#39; pulling a Nightdive, and seeing off vulture capital: GOG chats the risks and opportunities of its future as a company without CD Projekt](https://www.pcgamer.com/software/platforms/wrestling-the-steam-goliath-pulling-a-nightdive-and-seeing-off-vulture-capital-gog-chats-the-risks-and-opportunities-of-its-future-as-a-company-without-cd-projekt/)
- - [Multiple Meta-Owned Game Studios Hit With Layoffs](https://kotaku.com/meta-game-quest-vr-facebook-deadpool-sanzaru-twisted-pixel-layoffs-2000659376)<!-- GAME:END -->
+ - [8 beginner&#39;s tips to know before starting Divinity: Original Sin 2](https://www.polygon.com/divinity-original-sin-2-dos2-beginner-tips/)
+ - [Steam dev says kids can&#39;t beat game because they don&#39;t know how to send email](https://www.polygon.com/after-hours-dev-says-players-cant-write-email/)
+ - [How to play with friends in Hytale](https://www.pcgamer.com/games/survival-crafting/hytale-multiplayer-server/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
