@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Translate wants to give you more control with alternative translations](https://www.androidauthority.com/translate-show-alternatives-3632048/)
- - [Leaked Pixel 10a render looks like the genuine article](https://www.androidauthority.com/leaked-pixel-10a-render-looks-like-the-genuine-article-3632109/)
- - [Google’s Veo now turns portrait images into vertical AI videos](https://www.theverge.com/news/861257/google-veo-3-1-ai-video-ingredients-vertical-update)<!-- TECH:END -->
+ - [Reddit Outage on Tuesday: Here&#39;s What&#39;s Happening](https://www.cnet.com/tech/services-and-software/reddit-outage-jan-13-2026/)
+ - [Verizon gets FCC permission to end 60-day phone unlocking rule](https://www.theverge.com/news/861349/verizon-fcc-phone-unlocking-60-day-requirement-waived)
+ - [A look at Confer, an open-source AI assistant project from Signal creator Moxie Marlinspike that is designed to provide end-to-end encryption for AI chats &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/260113/p35#a260113p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
