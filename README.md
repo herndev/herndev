@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [28 Years Later The Bone Temple review: Nia Dacosta succeeds, and then some](https://www.polygon.com/bone-temple-review-bone-temple-review/)
- - [Hytale surges to the most-watched game on Twitch, attracting over 420,000 viewers with its long-awaited launch](https://www.pcgamer.com/games/survival-crafting/hytale-surges-to-the-most-watched-game-on-twitch-attracting-over-420-000-viewers-with-its-long-awaited-launch/)
- - [Larry Hryb, better known as Xbox hype man Major Nelson, has been laid off from Unity less than 2 years after joining the company](https://www.pcgamer.com/gaming-industry/larry-hryb-better-known-as-xbox-hype-man-major-nelson-has-been-laid-off-from-unity-less-than-2-years-after-joining-the-company/)<!-- GAME:END -->
+ - [Stellar Blade Dev Believes ‘One Person Can Perform The Work Of 100 People’ With AI](https://kotaku.com/stellar-blade-2-gen-ai-shift-up-sequel-2000659439)
+ - [&quot;We do not allow AI-generated content,&quot; Games Workshop CEO says](https://www.polygon.com/warhammer-ai-games-workshop-ceo-kevin-rountree/)
+ - [An absolute madman has recreated the Windows 8 UI—for Linux](https://www.pcgamer.com/software/windows/an-absolute-madman-has-recreated-the-windows-8-ui-for-linux/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
