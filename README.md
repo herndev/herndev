@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
- - ⏩ [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
- - 👉 [Cool guy](http://9gag.com/gag/a4P8eAd)<!-- MEMES:END -->
+ - 💣 [Press F for respect.](http://9gag.com/gag/azxz6yK)
+ - ⏩ [Shot of a lifetime, captured from a car window](http://9gag.com/gag/a7oBj5z)
+ - 👉 [Are we there yet?](http://9gag.com/gag/a9yeQ8j)<!-- MEMES:END -->
 
 ---
 
