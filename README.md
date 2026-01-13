@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A late-2025 amendment to California&#39;s wealth tax proposal treats founder control as ownership, a move that could end founder-controlled startups in the state &lpar;Mike Solana/Pirate Wires&rpar;](http://www.techmeme.com/260112/p39#a260112p39)
- - [Transport Your Dungeons &amp; Dragons Hero Off the Page With This Tabletop Gadget](https://www.cnet.com/tech/gaming/transport-your-dungeons-dragons-hero-off-the-page-with-this-tabletop-gadget/)
- - [SK Hynix will invest ~$12.9B to build an advanced chip packaging plant in South Korea to meet rising memory chip demand, targeting completion by the end of 2027 &lpar;Reuters&rpar;](http://www.techmeme.com/260112/p38#a260112p38)<!-- TECH:END -->
+ - [How to import and export Markdown with Apple Notes in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-import-and-export-markdown-with-apple-notes-in-ios-26?utm_source=rss)
+ - [Chinese chipmaker GigaDevice rose 54% in its Hong Kong debut after raising ~$600M in its IPO, and reported H1 2025 profit of ~$84M, up 14% from H2 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260112/p41#a260112p41)
+ - [Verizon just got permission to keep your phone locked for longer](https://www.androidauthority.com/verizon-60-days-unlock-ending-3631962/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
