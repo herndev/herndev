@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: CoinGecko, a prominent crypto market data and analytics company, is considering a sale at a ~$500M valuation, after starting the sales process in 2025 &lpar;Will Canny/CoinDesk&rpar;](http://www.techmeme.com/260113/p26#a260113p26)
- - [We tried CES 2026’s best and weirdest products, ask us anything!](https://www.theverge.com/tech/859914/the-verge-ces-2026-after-show-ama)
- - [Sources: Meta and EssilorLuxottica are discussing potentially doubling Ray-Ban Meta production to 20M+ units by the end of 2026 and possibly as high as 30M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260113/p25#a260113p25)<!-- TECH:END -->
+ - [CrowdStrike acquires Israel-based browser security startup Seraphic, a source says for around $400M; Seraphic has raised around $37M in total &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260113/p28#a260113p28)
+ - [The Pixel 10a could be launching surprisingly soon](https://www.androidauthority.com/google-pixel-10a-release-february-3632073/)
+ - [Pages, Numbers, and Keynote are still &lpar;mostly&rpar; free, but we don&#39;t like the trend](https://appleinsider.com/articles/26/01/13/pages-numbers-and-keynote-are-still-mostly-free-but-we-dont-like-the-trend?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
