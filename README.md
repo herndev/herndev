@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
- - ⏩ [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
- - 👉 [Walk it off like a boss](http://9gag.com/gag/avyq26W)<!-- MEMES:END -->
+ - 💣 [Without.....](http://9gag.com/gag/an73pMn)
+ - ⏩ [Walk it off like a boss](http://9gag.com/gag/avyq26W)
+ - 👉 [Sounds right to me.](http://9gag.com/gag/aGyqPZX)<!-- MEMES:END -->
 
 ---
 
