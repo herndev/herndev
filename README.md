@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
- - ⏩ [Even Japanese are sick of it](http://9gag.com/gag/ae9EoRm)
- - 👉 [Orca spears the fvck out of a sunfish and makes it explode](http://9gag.com/gag/apRXyoW)<!-- MEMES:END -->
+ - 💣 [POV- Realizing on the way home that was NOT a normal brownie.](http://9gag.com/gag/aAy7nzR)
+ - ⏩ [Press F for respect.](http://9gag.com/gag/azxz6yK)
+ - 👉 [Shot of a lifetime, captured from a car window](http://9gag.com/gag/a7oBj5z)<!-- MEMES:END -->
 
 ---
 
