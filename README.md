@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce makes Slack&#39;s new AI-powered Slackbot generally available, helping users answer workflow questions, draft documents, schedule meetings, and more &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/260113/p17#a260113p17)
- - [Urevo SpaceWalk 5L Walking Pad Review: Compact and Affordable](https://www.wired.com/review/urevo-spacewalk-5l-walking-pad/)
- - [Insta360’s face-tracking webcams get bigger sensors and more expensive](https://www.theverge.com/tech/860616/insta360-link-2-2c-pro-face-tracking-webcam)<!-- TECH:END -->
+ - [Deepgram, which is building enterprise voice-recognition tech, raised a $130M Series C led by AVP at a $1.3B valuation, taking its total funding to $215M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260113/p20#a260113p20)
+ - [How Lego’s Smart Brick works](https://www.theverge.com/podcast/861148/lego-smart-brick-claude-code-vergecast)
+ - [Microsoft changes its data center approach, pledging to pay its power costs, reject tax breaks, and replenish more water than it uses, amid local opposition &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260113/p19#a260113p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
