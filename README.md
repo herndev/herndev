@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online Players Keep Making Charlie Kirk Assassination Missions And Rockstar Keeps Deleting Them](https://kotaku.com/gta-online-charlie-kirk-killing-assassination-missions-rockstar-deleting-censor-block-2000659038)
- - [TikTok hit Quarantine Zone finally launched today and made the mistake of giving me a large medical hammer](https://www.pcgamer.com/games/sim/tiktok-hit-quarantine-zone-finally-launched-today-and-made-the-mistake-of-giving-me-a-large-medical-hammer/)
- - [Blue Prince, the best game of 2025 &lpar;don&#39;t check our GOTY just trust me&rpar; is on sale on Steam for under $20 for the first time](https://www.pcgamer.com/games/puzzle/blue-prince-the-best-game-of-2025-dont-check-our-goty-just-trust-me-is-on-sale-on-steam-for-under-usd20-for-the-first-time/)<!-- GAME:END -->
+ - [Even after its success, Embark design lead is still lukewarm on AI usage for Arc Raiders: &#39;I don&#39;t think it&#39;s fallen any way or the other&#39;](https://www.pcgamer.com/games/third-person-shooter/even-after-its-success-embark-design-lead-is-still-lukewarm-on-ai-usage-for-arc-raiders-i-dont-think-its-fallen-any-way-or-the-other/)
+ - [PC shipments grew in 2025 but the market &#39;will be far different in 12 months given how quickly the memory situation is evolving&#39;](https://www.pcgamer.com/hardware/gaming-pcs/pc-shipments-grew-in-2025-but-the-market-will-be-far-different-in-12-months-given-how-quickly-the-memory-situation-is-evolving/)
+ - [Arc Raiders has officially nerfed two of the strongest weapons, the Trigger Nade and the Kettle, as previous stats created &#39;an unfair dynamic that favours using 3rd party software&#39;](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-has-officially-nerfed-two-of-the-strongest-weapons-the-trigger-nade-and-the-kettle-as-previous-stats-created-an-unfair-dynamic-that-favours-using-3rd-party-software/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
