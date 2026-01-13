@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [POV- Realizing on the way home that was NOT a normal brownie.](http://9gag.com/gag/aAy7nzR)
- - ⏩ [Press F for respect.](http://9gag.com/gag/azxz6yK)
- - 👉 [Shot of a lifetime, captured from a car window](http://9gag.com/gag/a7oBj5z)<!-- MEMES:END -->
+ - 💣 [Japanese probe .......](http://9gag.com/gag/a34DoMv)
+ - ⏩ [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)
+ - 👉 [Cool guy](http://9gag.com/gag/a4P8eAd)<!-- MEMES:END -->
 
 ---
 
