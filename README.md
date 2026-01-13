@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Really healthy behavior](http://9gag.com/gag/aO8Ogj3)
- - ⏩ [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
- - 👉 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)<!-- MEMES:END -->
+ - 💣 [Driverless delivery vans have become a total meme](http://9gag.com/gag/aPA0OLK)
+ - ⏩ [Are we there yet?](http://9gag.com/gag/a9yeQ8j)
+ - 👉 [Happiness](http://9gag.com/gag/aGyvKLX)<!-- MEMES:END -->
 
 ---
 
