@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Without.....](http://9gag.com/gag/an73pMn)
- - ⏩ [Walk it off like a boss](http://9gag.com/gag/avyq26W)
- - 👉 [Sounds right to me.](http://9gag.com/gag/aGyqPZX)<!-- MEMES:END -->
+ - 💣 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
+ - ⏩ [Sounds right to me.](http://9gag.com/gag/aGyqPZX)
+ - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
 
 ---
 
