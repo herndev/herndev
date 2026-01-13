@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to play online with friends in Hytale](https://www.polygon.com/hytale-multiplayer-online-play-with-friends-how-to/)
- - [A Bunch More Gameplay Just Leaked From That Canceled Nolanverse Batman Game](https://kotaku.com/dark-knight-aaa-open-world-batman-game-canceled-nolan-trilogy-wb-2000659402)
- - [Judge denies interim pay for fired Rockstar employees, but the decision &#39;does nothing to suggest that Rockstar will not be found guilty of unfair dismissal when the case goes to trial,&#39; union says](https://www.pcgamer.com/games/judge-denies-interim-pay-for-fired-rockstar-employees-but-the-decision-does-nothing-to-suggest-that-rockstar-will-not-be-found-guilty-of-unfair-dismissal-when-the-case-goes-to-trial-union-says/)<!-- GAME:END -->
+ - [Frieren season 2 review: The flawless anime you desperately need in your life right now](https://www.polygon.com/frieren-season-2-episode-1-review-impressions/)
+ - [Free on Steam: Initial D-inspired racing game Initial Drift Online](https://www.polygon.com/steam-free-racing-game-initial-drift-online/)
+ - [Deadpool&#39;s role in Marvel Rivals is totally unique](https://www.polygon.com/marvel-rivals-deadpool-role-trailer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
