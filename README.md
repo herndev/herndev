@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything Is Content for the ‘Clicktatorship’](https://www.wired.com/story/everything-is-content-for-the-clicktatorship/)
- - [Roblox’s AI-Powered Age Verification Is a Complete Mess](https://www.wired.com/story/robloxs-ai-powered-age-verification-is-a-complete-mess/)
- - [Fitbit and Strava may be tracking more than your run](https://www.androidauthority.com/fitness-app-data-collection-report-3632108/)<!-- TECH:END -->
+ - [Google updates Veo so videos finally fit phone screens](https://www.androidauthority.com/google-veo-vertical-video-output-3632187/)
+ - [Gemini is adding new interactive elements to its weather forecasts](https://www.androidauthority.com/gemini-weather-3632145/)
+ - [Deal: Get the small XGIMI Vibe One projector for a small price!](https://www.androidauthority.com/xgimi-vibe-one-portable-projector-deal-3631918/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
