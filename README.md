@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam’s Big New Zombie Game Is Tense, But Comes At A Bad Time](https://kotaku.com/steams-big-new-zombie-game-is-tense-but-comes-at-a-bad-time-2000658992)
- - [D&amp;D Dungeon Masters like Mercer and Woll on how to make memorable NPC introductions](https://www.polygon.com/dnd-npcs-tips-matt-mercer-deborah-ann-woll/)
- - [HP’s 15.6″ Laptop at Nearly 60% Off Comes With Windows 11 Pro and Microsoft Office, Priced Like a Budget Tablet](https://kotaku.com/this-hp-laptop-at-nearly-60-off-comes-with-windows-11-pro-and-microsoft-office-priced-like-a-budget-tablet-2000659048)<!-- GAME:END -->
+ - [Larian&#39;s main focus for Divinity is &#39;to see how far we can push the diversity of companions&#39; so intra-NPC relationships can feel more natural and complex](https://www.pcgamer.com/games/rpg/larians-main-focus-for-divinity-is-to-see-how-far-we-can-push-the-diversity-of-companions-so-intra-npc-relationships-can-feel-more-natural-and-complex/)
+ - [GOG’s New &lpar;Old&rpar; Boss Reaffirms Anti-DRM Commitment, Even If It Costs Sales](https://kotaku.com/gog-anti-drm-cd-projekt-witcher-3-cyberpunk-2000659280)
+ - [Arc Raiders has surpassed 12 million players worldwide: &#39;a milestone we owe entirely to the players&#39;, and to celebrate, Embark is handing out a free golden pickaxe](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-has-surpassed-12-million-players-worldwide-a-milestone-we-owe-entirely-to-the-players-and-to-celebrate-embark-is-handing-out-a-free-golden-pickaxe/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
