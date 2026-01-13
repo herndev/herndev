@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And it keeps making billions...](http://9gag.com/gag/aO8EK93)
- - ⏩ [Walk it off like a boss](http://9gag.com/gag/avyq26W)
- - 👉 [You hear that Donald?](http://9gag.com/gag/aqyM45M)<!-- MEMES:END -->
+ - 💣 [He will be remembered](http://9gag.com/gag/aKGybZ6)
+ - ⏩ [Opening a street camera....](http://9gag.com/gag/a34gvq7)
+ - 👉 [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)<!-- MEMES:END -->
 
 ---
 
