@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Viral ‘Are You Dead?’ iOS app checks if you’re alive, but Android users aren’t missing out](https://www.androidauthority.com/are-you-dead-app-android-alternatives-3631966/)
- - [The NYC token, launched by ex-New York City Mayor Eric Adams on January 12, saw its market cap drop from ~$600M to ~$100M after suspicious liquidity activity &lpar;Decrypt&rpar;](http://www.techmeme.com/260113/p2#a260113p2)
- - [Sources: Balderton cashed out ~$2B of its Revolut stake in the past year, turning an early £1M bet into a historic European VC win; its fifth fund returned 25x &lpar;Financial Times&rpar;](http://www.techmeme.com/260113/p1#a260113p1)<!-- TECH:END -->
+ - [$100 Off Shark Promo Code | This January](https://www.wired.com/story/shark-promo-code/)
+ - [B&amp;H Photo Promo Codes and Deals This January](https://www.wired.com/story/bh-photo-coupon/)
+ - [Design Within Reach Promo Codes: 30% Off | January 2026](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
