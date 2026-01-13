@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
- - ⏩ [Sounds right to me.](http://9gag.com/gag/aGyqPZX)
- - 👉 [Polish girls visit Taj Mahal](http://9gag.com/gag/aW4AVKK)<!-- MEMES:END -->
+ - 💣 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)
+ - ⏩ [Walk it off like a boss](http://9gag.com/gag/avyq26W)
+ - 👉 [Cool guy](http://9gag.com/gag/a4P8eAd)<!-- MEMES:END -->
 
 ---
 
