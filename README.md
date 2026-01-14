@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
- - ⏩ [He will be remembered](http://9gag.com/gag/aKGybZ6)
- - 👉 [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)<!-- MEMES:END -->
+ - 💣 [Opening a street camera....](http://9gag.com/gag/a34gvq7)
+ - ⏩ [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)
+ - 👉 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)<!-- MEMES:END -->
 
 ---
 
