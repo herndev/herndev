@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung shifts Gaming Hub focus toward discovery and social tools](https://www.androidauthority.com/samsung-gaming-hub-update-3632016/)
- - [Honda relaunching Acura RDX as a next-gen two-motor hybrid](https://www.theverge.com/news/861413/honda-acura-rdx-two-motor-hybrid-base-station-rv)
- - [Nvidia’s new app update includes DLSS 4.5 and more Control Panel features](https://www.theverge.com/news/861640/nvidia-dlss-4-5-app-update-available-download)<!-- TECH:END -->
+ - [Belgian startup Aikido Security, which offers automated security guardrails for developers, raised $60M led by DST Global at a $1B valuation &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/260114/p34#a260114p34)
+ - [Source: Microsoft quietly becomes one of Anthropic&#39;s top clients and was recently on pace to spend nearly $500M/year for Anthropic to power Microsoft products &lpar;The Information&rpar;](http://www.techmeme.com/260114/p33#a260114p33)
+ - [54 of the Best TV Shows on Netflix That Will Keep You Entertained](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
