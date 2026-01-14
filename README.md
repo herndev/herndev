@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
- - ⏩ [R. I. P Scott Adams](http://9gag.com/gag/aD29AQx)
- - 👉 [Japanese probe .......](http://9gag.com/gag/a34DoMv)<!-- MEMES:END -->
+ - 💣 [Oops...](http://9gag.com/gag/agm93QW)
+ - ⏩ [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
+ - 👉 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)<!-- MEMES:END -->
 
 ---
 
