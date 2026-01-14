@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $44 on this powerful 160W Anker Prime Charger](https://www.androidauthority.com/anker-prime-charger-160w-3-ports-gan-deal-3632166/)
- - [First Apple Immersive NBA Lakers game available for free viewing on Apple Vision Pro](https://appleinsider.com/articles/26/01/13/first-apple-immersive-nba-lakers-game-available-for-free-viewing-on-apple-vision-pro?utm_source=rss)
- - [The Fight on Capitol Hill to Make It Easier to Fix Your Car](https://www.wired.com/story/repair-act-us-house-legislation-right-to-repair-your-car/)<!-- TECH:END -->
+ - [Holistic Resilience, a US group that helps Iranians secure internet access, says SpaceX has waived Starlink subscription fees amid a days-long internet blackout &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/260113/p54#a260113p54)
+ - [GameSir X5s controller review: A bargain basement way ditch touch controls](https://appleinsider.com/articles/26/01/14/gamesir-x5s-controller-review-a-bargain-basement-way-ditch-touch-controls?utm_source=rss)
+ - [Defense Unicorns, which provides open-source air-gapped software to the US DOD, raised a $136M Series B led by Bain Capital, bringing its valuation to $1B+ &lpar;Aishwarya Jain/Reuters&rpar;](http://www.techmeme.com/260113/p53#a260113p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
