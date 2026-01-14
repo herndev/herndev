@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Make any curtains smart with the SwitchBot Curtain 3 and save $25](https://www.androidauthority.com/switchbot-curtain-3-deal-3632165/)
- - [Save Big on One of Our Favorite Desk Lamps from Lume Cube](https://www.wired.com/story/lume-edge-light-deal-126/)
- - [Compared: Apple Creator Studio vs Adobe Creative Cloud Pro](https://appleinsider.com/inside/apple-services/vs/compared-apple-creator-studio-vs-adobe-creative-cloud-pro?utm_source=rss)<!-- TECH:END -->
+ - [Novee, which utilizes proprietary AI models to perform automated penetration testing, emerges from stealth with a $43M Series A and an $8.5M seed &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260114/p48#a260114p48)
+ - [Your Gemini history is getting more manageable with this ‘My Stuff’ update](https://www.androidauthority.com/gemini-my-stuff-categories-2-3632477/)
+ - [Amazon didn’t have to go far to find its live-action Kratos](https://www.theverge.com/games/862089/god-of-war-kratos-casting-amazone-prime-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
