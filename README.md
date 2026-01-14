@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Goodbye kidney](http://9gag.com/gag/aQzbPq7)
- - ⏩ [Smart title](http://9gag.com/gag/a34gvoQ)
- - 👉 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)<!-- MEMES:END -->
+ - 💣 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
+ - ⏩ [Goodbye kidney](http://9gag.com/gag/aQzbPq7)
+ - 👉 [She&#39;s obsessed with her.](http://9gag.com/gag/aQzb6ww)<!-- MEMES:END -->
 
 ---
 
