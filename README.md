@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pittsburgh-based Skild AI, which makes robotics foundation models, raised a $1.4B Series C at a $14B valuation, up from $4.5B after raising $300M in June 2025 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260114/p30#a260114p30)
- - [Airbnb hires Meta executive Ahmad Al-Dahle, who led generative AI and the Llama team after working at Apple, as its CTO, as it aims to integrate AI in its app &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260114/p29#a260114p29)
- - [Polymarket is hosting a growing number of contracts related to military conflicts, including China invading Taiwan; possible US strikes in Iran has $18M+ volume &lpar;Denitsa Tsekova/Bloomberg&rpar;](http://www.techmeme.com/260114/p28#a260114p28)<!-- TECH:END -->
+ - [Samsung shifts Gaming Hub focus toward discovery and social tools](https://www.androidauthority.com/samsung-gaming-hub-update-3632016/)
+ - [Honda relaunching Acura RDX as a next-gen two-motor hybrid](https://www.theverge.com/news/861413/honda-acura-rdx-two-motor-hybrid-base-station-rv)
+ - [Nvidia’s new app update includes DLSS 4.5 and more Control Panel features](https://www.theverge.com/news/861640/nvidia-dlss-4-5-app-update-available-download)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
