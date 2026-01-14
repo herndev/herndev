@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Saudi Arabia&#39;s PIF is transferring ~$12B worth of gaming company shares, including Nintendo, to Savvy Games; PIF transferred 11M Take-Two shares in December &lpar;Bloomberg&rpar;](http://www.techmeme.com/260114/p6#a260114p6)
- - [How smuggled Starlink receivers and customized software let some Iranians evade a near-total internet blackout as the regime brutally cracked down on protesters &lpar;Financial Times&rpar;](http://www.techmeme.com/260114/p5#a260114p5)
- - [$50 Target Promo Code &amp; Coupons | January 2026](https://www.wired.com/story/target-promo-code/)<!-- TECH:END -->
+ - [Elon Musk says Tesla will stop selling FSD after February 14 and will offer it only as a monthly subscription; FSD is already available for $99 per month &lpar;Danny Lee/Bloomberg&rpar;](http://www.techmeme.com/260114/p11#a260114p11)
+ - [WithCoverage, which replaces traditional insurance brokers with its AI-based flat-fee risk management model, raised a $42M Series B led by Sequoia and Khosla &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260114/p10#a260114p10)
+ - [Sources: Chinese officials told customs agents that Nvidia H200 chips are barred from China and instructed local tech companies not to buy them unless necessary &lpar;Reuters&rpar;](http://www.techmeme.com/260114/p9#a260114p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
