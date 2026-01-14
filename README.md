@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam has finally got rid of those goddamn clown awards](https://www.pcgamer.com/software/platforms/steam-has-finally-got-rid-of-those-goddamn-clown-awards/)
- - [How to get pets in Heartopia](https://www.pcgamer.com/games/life-sim/heartopia-pets-unlock/)
- - [Fallout Season 2 episode 5 finally mentions Forced Evolutionary Virus, an integral part of the Wasteland and the source of the Super Mutants](https://www.pcgamer.com/games/fallout/fallout-season-2-episode-5-finally-mentions-forced-evolutionary-virus-an-integral-part-of-the-wasteland-and-the-source-of-the-super-mutants/)<!-- GAME:END -->
+ - [Rockstar bans &#39;Charlie Kirk&#39; in user-created GTA Online missions](https://www.polygon.com/rockstar-bans-charlie-kirk-gta-online-missions/)
+ - [Framework &#39;held off as long as we could&#39; but just cranked up prices of its Desktops and Mainboards](https://www.pcgamer.com/hardware/memory/framework-held-off-as-long-as-we-could-but-just-cranked-up-prices-of-its-desktops-and-mainboards/)
+ - [Animal Crossing: New Horizons 3.0 update is out early](https://www.polygon.com/animal-crossing-new-horizons-update-release/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
