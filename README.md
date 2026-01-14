@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Music marketplace Bandcamp bypasses AI disclosures and obtuse policies to announce a wholesale ban on AI slop](https://www.pcgamer.com/gaming-industry/music-marketplace-bandcamp-bypasses-ai-disclosures-and-obtuse-policies-to-announce-a-wholesale-ban-on-ai-slop/)
  - [ARG developer finds out his email hint system doesn&#39;t work anymore because young people don&#39;t know how to use email](https://www.pcgamer.com/games/puzzle/arg-developer-finds-out-his-email-hint-system-doesnt-work-anymore-because-young-people-dont-know-how-to-use-email/)
- - [How to repair in Hytale](https://www.pcgamer.com/games/survival-crafting/hytale-how-to-repair/)
- - [Games Workshop says its senior managers aren&#39;t excited about AI, prohibits its use and laments that it&#39;s &#39;included on our phones or laptops whether we like it or not&#39;](https://www.pcgamer.com/software/ai/games-workshop-says-its-senior-managers-arent-excited-about-ai-prohibits-its-use-and-laments-that-its-included-on-our-phones-or-laptops-whether-we-like-it-or-not/)<!-- GAME:END -->
+ - [How to repair in Hytale](https://www.pcgamer.com/games/survival-crafting/hytale-how-to-repair/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
