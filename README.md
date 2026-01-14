@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forgotten Realms creator Ed Greenwood’s best advice for building a D&amp;D world](https://www.polygon.com/dnd-forgotten-realms-ed-greenwood-homebrew-worldbuilding-tips-advice/)
- - [Battlefield 6 Is Trying To Do Too Much](https://kotaku.com/battlefield-6-s2-delay-big-map-redsec-2000659771)
- - [How to get softwood planks in Hytale](https://www.pcgamer.com/games/survival-crafting/hytale-softwood-planks/)<!-- GAME:END -->
+ - [How to get copper in Hytale](https://www.polygon.com/hytale-copper-how-to-get-find-ore-location/)
+ - [Anker P20i Wireless Earbuds Are 50% Off on Amazon, Apple Is Facing Real Competition](https://kotaku.com/anker-p20i-wireless-earbuds-are-50-off-on-amazon-apple-is-facing-real-competition-2000659247)
+ - [Demon Slayer director addresses AI use in anime](https://www.polygon.com/demon-slayer-infinity-train-ai-ufotable-aniplex/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
