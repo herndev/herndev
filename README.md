@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
- - ⏩ [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
- - 👉 [Oh No ..what does this mean?](http://9gag.com/gag/a0egvKn)<!-- MEMES:END -->
+ - ⏩ [Remember this individual? In all honesty good for her &amp; wishing her the best to come](http://9gag.com/gag/aRBWwR5)
+ - 👉 [Opening a street camera....](http://9gag.com/gag/a34gvq7)<!-- MEMES:END -->
 
 ---
 
