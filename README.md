@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Headphone &lpar;1&rpar; and Nothing Ear &lpar;3&rpar; drop to record-low prices](https://www.androidauthority.com/nothing-headphone-1-nothing-ear-3-deals-3632167/)
- - [President Trump renominates Sean Plankey to be the next director of CISA, which has been running without a full-time chief since Trump&#39;s return to office &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260113/p48#a260113p48)
- - [WeatherTech founder might be the newest US consumer protection official](https://www.theverge.com/news/861560/weathertech-founder-david-macneil-federal-trade-commission)<!-- TECH:END -->
+ - [Save $44 on this powerful 160W Anker Prime Charger](https://www.androidauthority.com/anker-prime-charger-160w-3-ports-gan-deal-3632166/)
+ - [First Apple Immersive NBA Lakers game available for free viewing on Apple Vision Pro](https://appleinsider.com/articles/26/01/13/first-apple-immersive-nba-lakers-game-available-for-free-viewing-on-apple-vision-pro?utm_source=rss)
+ - [The Fight on Capitol Hill to Make It Easier to Fix Your Car](https://www.wired.com/story/repair-act-us-house-legislation-right-to-repair-your-car/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
