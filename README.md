@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belgian startup Aikido Security, which offers automated security guardrails for developers, raised $60M led by DST Global at a $1B valuation &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/260114/p34#a260114p34)
- - [Source: Microsoft quietly becomes one of Anthropic&#39;s top clients and was recently on pace to spend nearly $500M/year for Anthropic to power Microsoft products &lpar;The Information&rpar;](http://www.techmeme.com/260114/p33#a260114p33)
- - [54 of the Best TV Shows on Netflix That Will Keep You Entertained](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix/)<!-- TECH:END -->
+ - [Gemini can now remember your life, not just answer questions](https://www.androidauthority.com/google-gemini-personal-intelligence-rollout-3632287/)
+ - [Google’s Gemini AI will use what it knows about you from Gmail, Search, and YouTube](https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos)
+ - [Apple Vision Pro owners will get a great assortment of classic arcade games in VR soon](https://appleinsider.com/articles/26/01/14/apple-vision-pro-owners-will-get-a-great-assortment-of-classic-arcade-games-in-vr-soon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
