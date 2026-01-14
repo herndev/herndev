@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Goodbye kidney](http://9gag.com/gag/aQzbPq7)
- - ⏩ [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
+ - 💣 [His kids are probably 9gag users.](http://9gag.com/gag/aE0Kvjn)
+ - ⏩ [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
  - 👉 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)<!-- MEMES:END -->
 
 ---
