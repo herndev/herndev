@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Novee, which utilizes proprietary AI models to perform automated penetration testing, emerges from stealth with a $43M Series A and an $8.5M seed &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260114/p48#a260114p48)
- - [Your Gemini history is getting more manageable with this ‘My Stuff’ update](https://www.androidauthority.com/gemini-my-stuff-categories-2-3632477/)
- - [Amazon didn’t have to go far to find its live-action Kratos](https://www.theverge.com/games/862089/god-of-war-kratos-casting-amazone-prime-video)<!-- TECH:END -->
+ - [Verizon’s wireless network is down for many people nationwide](https://www.theverge.com/news/861956/verizon-is-down-outage-cell-wireless-service-sos-mode)
+ - [Naya Connect is a modular mechanical keyboard system for the indecisive](https://www.theverge.com/news/862123/naya-connect-modular-mechanical-keyboard-kickstarter)
+ - [Samsung Galaxy Watch Ultra &lpar;2025&rpar; deal: Record-low price drops even lower!](https://www.androidauthority.com/samsung-galaxy-watch-ultra-2025-deal-3-3632487/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
