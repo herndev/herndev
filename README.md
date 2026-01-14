@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Music marketplace Bandcamp bypasses AI disclosures and obtuse policies to announce a wholesale ban on AI slop](https://www.pcgamer.com/gaming-industry/music-marketplace-bandcamp-bypasses-ai-disclosures-and-obtuse-policies-to-announce-a-wholesale-ban-on-ai-slop/)
- - [ARG developer finds out his email hint system doesn&#39;t work anymore because young people don&#39;t know how to use email](https://www.pcgamer.com/games/puzzle/arg-developer-finds-out-his-email-hint-system-doesnt-work-anymore-because-young-people-dont-know-how-to-use-email/)
- - [How to repair in Hytale](https://www.pcgamer.com/games/survival-crafting/hytale-how-to-repair/)<!-- GAME:END -->
+ - [Fallout Season 2 episode 5 finally mentions Forced Evolutionary Virus, an integral part of the Wasteland and the source of the Super Mutants](https://www.pcgamer.com/games/fallout/fallout-season-2-episode-5-finally-mentions-forced-evolutionary-virus-an-integral-part-of-the-wasteland-and-the-source-of-the-super-mutants/)
+ - [Fallout Season 2 Episode 5 recap: &#39;Another player at the table&#39;](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-5-recap-another-player-at-the-table/)
+ - [Music marketplace Bandcamp bypasses AI disclosures and obtuse policies to announce a wholesale ban on AI slop](https://www.pcgamer.com/gaming-industry/music-marketplace-bandcamp-bypasses-ai-disclosures-and-obtuse-policies-to-announce-a-wholesale-ban-on-ai-slop/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
