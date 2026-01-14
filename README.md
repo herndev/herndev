@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to repair in Hytale](https://www.pcgamer.com/games/survival-crafting/hytale-how-to-repair/)
  - [Games Workshop says its senior managers aren&#39;t excited about AI, prohibits its use and laments that it&#39;s &#39;included on our phones or laptops whether we like it or not&#39;](https://www.pcgamer.com/software/ai/games-workshop-says-its-senior-managers-arent-excited-about-ai-prohibits-its-use-and-laments-that-its-included-on-our-phones-or-laptops-whether-we-like-it-or-not/)
- - [Hytale&#39;s developer warned us the adventure sandbox &#39;isn&#39;t good yet,&#39; but it already feels pretty good to me](https://www.pcgamer.com/games/survival-crafting/hytales-developer-warned-us-the-adventure-sandbox-isnt-good-yet-but-it-already-feels-pretty-good-to-me/)
- - [Meta is closing 3 VR studios and laying off roughly 10% of Reality Labs as it shifts focus from the metaverse to AI wearables, it&#39;s next sure-fire, can&#39;t-miss idea](https://www.pcgamer.com/software/ai/meta-is-closing-3-vr-studios-and-laying-off-roughly-10-percent-of-reality-labs-as-it-shifts-focus-from-the-metaverse-to-ai-wearables-its-next-sure-fire-cant-miss-idea/)<!-- GAME:END -->
+ - [Hytale&#39;s developer warned us the adventure sandbox &#39;isn&#39;t good yet,&#39; but it already feels pretty good to me](https://www.pcgamer.com/games/survival-crafting/hytales-developer-warned-us-the-adventure-sandbox-isnt-good-yet-but-it-already-feels-pretty-good-to-me/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
