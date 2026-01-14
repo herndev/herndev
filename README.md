@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus CEO faces arrest warrant in Taiwan amid major probe](https://www.androidauthority.com/oneplus-ceo-pete-lau-arrest-warrant-taiwan-3632246/)
- - [Matthew McConaughey has secured eight trademarks of himself from the USPTO in the past several months to protect his likeness and voice from unauthorized AI use &lpar;Ben Fritz/Wall Street Journal&rpar;](http://www.techmeme.com/260113/p57#a260113p57)
- - [How to master the Camera app on iPhone Air](https://appleinsider.com/articles/26/01/14/how-to-master-the-camera-app-on-iphone-air?utm_source=rss)<!-- TECH:END -->
+ - [Z.ai releases GLM-Image, an open-source multimodal AI model trained on Huawei chips that it says is China&#39;s first to be fully trained using domestic chips &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260114/p2#a260114p2)
+ - [Checkr, which offers employee background checks, says its revenue grew to $800M, up 14% from 2024, amid a surge in AI-generated CVs and fake financial documents &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260114/p1#a260114p1)
+ - [OnePlus CEO faces arrest warrant in Taiwan amid major probe](https://www.androidauthority.com/oneplus-ceo-pete-lau-arrest-warrant-taiwan-3632246/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
