@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese chip designer Montage, a Shanghai-listed company valued at $22B, plans a Hong Kong IPO that could raise $900M+, backed by Alibaba and JPMorgan &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/260114/p25#a260114p25)
- - [Sources: Chinese authorities told domestic companies to stop using cybersecurity software made by ~12 US and Israeli companies due to national security concerns &lpar;Reuters&rpar;](http://www.techmeme.com/260114/p24#a260114p24)
- - [Samsung’s One UI 8.5 finally offers the wild unlock animations we’ve been waiting for](https://www.androidauthority.com/samsung-lockstar-custom-unlock-animations-3632333/)<!-- TECH:END -->
+ - [Pittsburgh-based Skild AI, which makes robotics foundation models, raised a $1.4B Series C at a $14B valuation, up from $4.5B after raising $300M in June 2025 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260114/p30#a260114p30)
+ - [Airbnb hires Meta executive Ahmad Al-Dahle, who led generative AI and the Llama team after working at Apple, as its CTO, as it aims to integrate AI in its app &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260114/p29#a260114p29)
+ - [Polymarket is hosting a growing number of contracts related to military conflicts, including China invading Taiwan; possible US strikes in Iran has $18M+ volume &lpar;Denitsa Tsekova/Bloomberg&rpar;](http://www.techmeme.com/260114/p28#a260114p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
