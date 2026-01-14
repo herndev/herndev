@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 reasons why the Pixel 10a might release a lot sooner than expected](https://www.androidauthority.com/google-pixel-10a-early-release-date-rumors-why-3632060/)
- - [In South Korea&#39;s competition to develop an indigenous AI model, three of the five finalists used foreign open-source code, which they argue is practical &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/260114/p18#a260114p18)
- - [Highlights from IEDM 2025: 3D NAND is suddenly relevant again, interconnect metals beyond copper are emerging, 2D materials that could replace silicon, and more &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/260114/p17#a260114p17)<!-- TECH:END -->
+ - [This tiny, e-ink Android phone is the minimalist gadget I’ve been waiting for](https://www.androidauthority.com/mudita-kompakt-hands-on-ces-2026-3631800/)
+ - [The Galaxy S26 could save you from double-booking yourself](https://www.androidauthority.com/samsung-galaxy-s26-double-book-feature-3632312/)
+ - [US Big Tech companies have been on an energy-related hiring spree; Workforce.AI says Microsoft has hired 570+ people with energy-related expertise since 2022 &lpar;Tasmin Lockwood/CNBC&rpar;](http://www.techmeme.com/260114/p20#a260114p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
