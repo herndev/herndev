@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His kids are probably 9gag users.](http://9gag.com/gag/aE0Kvjn)
- - ⏩ [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
+ - 💣 [Smart title](http://9gag.com/gag/a34gvoQ)
+ - ⏩ [Walk it off like a boss](http://9gag.com/gag/avyq26W)
  - 👉 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)<!-- MEMES:END -->
 
 ---
