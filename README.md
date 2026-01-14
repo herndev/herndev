@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [British Humour: No Laugh Track Required &lpar;not amurican humor&rpar;](http://9gag.com/gag/a2vgzYY)
- - ⏩ [R. I. P Scott Adams](http://9gag.com/gag/aD29AQx)
- - 👉 [Does all the husband faces this issue?](http://9gag.com/gag/a6Zgr5R)<!-- MEMES:END -->
+ - 💣 [Walk it off like a boss](http://9gag.com/gag/avyq26W)
+ - ⏩ [He will be remembered](http://9gag.com/gag/aKGybZ6)
+ - 👉 [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)<!-- MEMES:END -->
 
 ---
 
