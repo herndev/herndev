@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [R. I. P Scott Adams](http://9gag.com/gag/aD29AQx)
- - ⏩ [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
- - 👉 [Japanese probe .......](http://9gag.com/gag/a34DoMv)<!-- MEMES:END -->
+ - 💣 [Oops...](http://9gag.com/gag/agm93QW)
+ - ⏩ [Japanese probe .......](http://9gag.com/gag/a34DoMv)
+ - 👉 [Opening a street camera....](http://9gag.com/gag/a34gvq7)<!-- MEMES:END -->
 
 ---
 
