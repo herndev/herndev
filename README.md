@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spider-Juan. Pedro parque.](http://9gag.com/gag/aMV71PA)
- - ⏩ [The best way to leave](http://9gag.com/gag/aryEvVK)
- - 👉 [From shelter life to living his best life](http://9gag.com/gag/aQzb60w)<!-- MEMES:END -->
+ - 💣 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
+ - ⏩ [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
+ - 👉 [Oh No ..what does this mean?](http://9gag.com/gag/a0egvKn)<!-- MEMES:END -->
 
 ---
 
