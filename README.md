@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
- - ⏩ [Goodbye kidney](http://9gag.com/gag/aQzbPq7)
- - 👉 [She&#39;s obsessed with her.](http://9gag.com/gag/aQzb6ww)<!-- MEMES:END -->
+ - 💣 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
+ - ⏩ [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
+ - 👉 [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)<!-- MEMES:END -->
 
 ---
 
