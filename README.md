@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini can now remember your life, not just answer questions](https://www.androidauthority.com/google-gemini-personal-intelligence-rollout-3632287/)
- - [Google’s Gemini AI will use what it knows about you from Gmail, Search, and YouTube](https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos)
- - [Apple Vision Pro owners will get a great assortment of classic arcade games in VR soon](https://appleinsider.com/articles/26/01/14/apple-vision-pro-owners-will-get-a-great-assortment-of-classic-arcade-games-in-vr-soon?utm_source=rss)<!-- TECH:END -->
+ - [iPhone Fold&#39;s titanium &amp; Liquid Metal rumors just won&#39;t go away](https://appleinsider.com/articles/26/01/14/iphone-folds-titanium-liquid-metal-rumors-just-wont-go-away?utm_source=rss)
+ - [Bundesliga Soccer Livestream: How to Watch Köln vs. Bayern Munich](https://www.cnet.com/tech/services-and-software/bundesliga-soccer-livestream-how-to-watch-koln-vs-bayern-munich/)
+ - [Samsung Internet for PC expands browser availability to everyone](https://www.androidauthority.com/samsung-internet-for-pc-expands-availability-3632380/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
