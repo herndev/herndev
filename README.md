@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s obsessed with her.](http://9gag.com/gag/aQzb6ww)
- - ⏩ [Remember this individual? In all honesty good for her &amp; wishing her the best to come](http://9gag.com/gag/aRBWwR5)
- - 👉 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)<!-- MEMES:END -->
+ - 💣 [Spider-Juan. Pedro parque.](http://9gag.com/gag/aMV71PA)
+ - ⏩ [The best way to leave](http://9gag.com/gag/aryEvVK)
+ - 👉 [From shelter life to living his best life](http://9gag.com/gag/aQzb60w)<!-- MEMES:END -->
 
 ---
 
