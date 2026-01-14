@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says Tesla will stop selling FSD after February 14 and will offer it only as a monthly subscription; FSD is already available for $99 per month &lpar;Danny Lee/Bloomberg&rpar;](http://www.techmeme.com/260114/p11#a260114p11)
- - [WithCoverage, which replaces traditional insurance brokers with its AI-based flat-fee risk management model, raised a $42M Series B led by Sequoia and Khosla &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260114/p10#a260114p10)
- - [Sources: Chinese officials told customs agents that Nvidia H200 chips are barred from China and instructed local tech companies not to buy them unless necessary &lpar;Reuters&rpar;](http://www.techmeme.com/260114/p9#a260114p9)<!-- TECH:END -->
+ - [An interview with IMG President Adam Kelly on streaming platforms&#39; increasing share of sports media rights, live sports as an antidote to AI content, and more &lpar;Josh Noble/Financial Times&rpar;](http://www.techmeme.com/260114/p15#a260114p15)
+ - [Hate the Ask feature in Google Photos? Too bad, Google is doubling down on it.](https://www.androidauthority.com/google-photos-ask-moments-apk-teardown-3632279/)
+ - [Q&amp;A with Reid Hoffman on wanting Silicon Valley to speak out against the Trump administration, AI regulation, the role of AI in art and creativity, and more &lpar;Katie Drummond/Wired&rpar;](http://www.techmeme.com/260114/p14#a260114p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
