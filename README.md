@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon wireless outage leaves iPhones stuck in SOS across the U.S.](https://appleinsider.com/articles/26/01/14/verizon-wireless-outage-leaves-iphones-stuck-in-sos-across-the-us?utm_source=rss)
- - [Bose’s first-gen QC Ultra headphones have returned to their best price to date](https://www.theverge.com/gadgets/861286/bose-quietcomfort-ultra-headphones-steam-detective-fest-sale-deal)
- - [Netflix’s first original podcasts star Pete Davidson and Michael Irvin](https://www.theverge.com/news/861971/netflix-original-podcasts-pete-davidson-michael-irvin)<!-- TECH:END -->
+ - [Make any curtains smart with the SwitchBot Curtain 3 and save $25](https://www.androidauthority.com/switchbot-curtain-3-deal-3632165/)
+ - [Save Big on One of Our Favorite Desk Lamps from Lume Cube](https://www.wired.com/story/lume-edge-light-deal-126/)
+ - [Compared: Apple Creator Studio vs Adobe Creative Cloud Pro](https://appleinsider.com/inside/apple-services/vs/compared-apple-creator-studio-vs-adobe-creative-cloud-pro?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
