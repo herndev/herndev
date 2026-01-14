@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This tiny, e-ink Android phone is the minimalist gadget I’ve been waiting for](https://www.androidauthority.com/mudita-kompakt-hands-on-ces-2026-3631800/)
- - [The Galaxy S26 could save you from double-booking yourself](https://www.androidauthority.com/samsung-galaxy-s26-double-book-feature-3632312/)
- - [US Big Tech companies have been on an energy-related hiring spree; Workforce.AI says Microsoft has hired 570+ people with energy-related expertise since 2022 &lpar;Tasmin Lockwood/CNBC&rpar;](http://www.techmeme.com/260114/p20#a260114p20)<!-- TECH:END -->
+ - [Sources: Chinese chip designer Montage, a Shanghai-listed company valued at $22B, plans a Hong Kong IPO that could raise $900M+, backed by Alibaba and JPMorgan &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/260114/p25#a260114p25)
+ - [Sources: Chinese authorities told domestic companies to stop using cybersecurity software made by ~12 US and Israeli companies due to national security concerns &lpar;Reuters&rpar;](http://www.techmeme.com/260114/p24#a260114p24)
+ - [Samsung’s One UI 8.5 finally offers the wild unlock animations we’ve been waiting for](https://www.androidauthority.com/samsung-lockstar-custom-unlock-animations-3632333/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
