@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Z.ai releases GLM-Image, an open-source multimodal AI model trained on Huawei chips that it says is China&#39;s first to be fully trained using domestic chips &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260114/p2#a260114p2)
- - [Checkr, which offers employee background checks, says its revenue grew to $800M, up 14% from 2024, amid a surge in AI-generated CVs and fake financial documents &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260114/p1#a260114p1)
- - [OnePlus CEO faces arrest warrant in Taiwan amid major probe](https://www.androidauthority.com/oneplus-ceo-pete-lau-arrest-warrant-taiwan-3632246/)<!-- TECH:END -->
+ - [Saudi Arabia&#39;s PIF is transferring ~$12B worth of gaming company shares, including Nintendo, to Savvy Games; PIF transferred 11M Take-Two shares in December &lpar;Bloomberg&rpar;](http://www.techmeme.com/260114/p6#a260114p6)
+ - [How smuggled Starlink receivers and customized software let some Iranians evade a near-total internet blackout as the regime brutally cracked down on protesters &lpar;Financial Times&rpar;](http://www.techmeme.com/260114/p5#a260114p5)
+ - [$50 Target Promo Code &amp; Coupons | January 2026](https://www.wired.com/story/target-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
