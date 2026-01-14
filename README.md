@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oops...](http://9gag.com/gag/agm93QW)
- - ⏩ [She&#39;s got good core strength](http://9gag.com/gag/aE0bePp)
- - 👉 [Jeffrey Epstein&#39;s Windows product key](http://9gag.com/gag/ae9EX4W)<!-- MEMES:END -->
+ - 💣 [Remember this individual? In all honesty good for her &amp; wishing her the best to come](http://9gag.com/gag/aRBWwR5)
+ - ⏩ [Sh*t is on fire, yo!](http://9gag.com/gag/azxz62m)
+ - 👉 [Japanese probe .......](http://9gag.com/gag/a34DoMv)<!-- MEMES:END -->
 
 ---
 
