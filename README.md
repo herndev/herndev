@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon’s wireless network is down for many people nationwide](https://www.theverge.com/news/861956/verizon-is-down-outage-cell-wireless-service-sos-mode)
- - [Naya Connect is a modular mechanical keyboard system for the indecisive](https://www.theverge.com/news/862123/naya-connect-modular-mechanical-keyboard-kickstarter)
- - [Samsung Galaxy Watch Ultra &lpar;2025&rpar; deal: Record-low price drops even lower!](https://www.androidauthority.com/samsung-galaxy-watch-ultra-2025-deal-3-3632487/)<!-- TECH:END -->
+ - [Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet](https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/)
+ - [Hot deal: The amazing Samsung Odyssey Ark 55-inch monitor is cheaper than ever!](https://www.androidauthority.com/samsung-odyssey-ark-55-inch-monitor-deal-2-3632486/)
+ - [Android 16 QPR3 Beta 2 is here with fixes for battery drain and device freezes](https://www.androidauthority.com/android-16-qpr3-beta-2-rollout-3632561/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
