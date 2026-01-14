@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
- - ⏩ [Remember this individual? In all honesty good for her &amp; wishing her the best to come](http://9gag.com/gag/aRBWwR5)
- - 👉 [Opening a street camera....](http://9gag.com/gag/a34gvq7)<!-- MEMES:END -->
+ - 💣 [Goodbye kidney](http://9gag.com/gag/aQzbPq7)
+ - ⏩ [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
+ - 👉 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)<!-- MEMES:END -->
 
 ---
 
