@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stellar Blade Dev Believes ‘One Person Can Perform The Work Of 100 People’ With AI](https://kotaku.com/stellar-blade-2-gen-ai-shift-up-sequel-2000659439)
- - [&quot;We do not allow AI-generated content,&quot; Games Workshop CEO says](https://www.polygon.com/warhammer-ai-games-workshop-ceo-kevin-rountree/)
- - [An absolute madman has recreated the Windows 8 UI—for Linux](https://www.pcgamer.com/software/windows/an-absolute-madman-has-recreated-the-windows-8-ui-for-linux/)<!-- GAME:END -->
+ - [Meta is closing 3 VR studios and laying off roughly 10% of Reality Labs as it shifts focus from the metaverse to AI wearables, it&#39;s next sure-fire, can&#39;t-miss idea](https://www.pcgamer.com/software/ai/meta-is-closing-3-vr-studios-and-laying-off-roughly-10-percent-of-reality-labs-as-it-shifts-focus-from-the-metaverse-to-ai-wearables-its-next-sure-fire-cant-miss-idea/)
+ - [From the Po Valley to the Deep: Building Italian Horror with Loan Shark](https://news.xbox.com/en-us/2026/01/13/building-italian-horror-with-loan-shark/)
+ - [How to get iron in Hytale](https://www.pcgamer.com/games/survival-crafting/hytale-iron-location/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
