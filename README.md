@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)
- - ⏩ [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
- - 👉 [Remember this individual? In all honesty good for her &amp; wishing her the best to come](http://9gag.com/gag/aRBWwR5)<!-- MEMES:END -->
+ - 💣 [Backstory of Lara croft over the years](http://9gag.com/gag/aKGZ47g)
+ - ⏩ [Opening a street camera....](http://9gag.com/gag/a34gvq7)
+ - 👉 [She&#39;s obsessed with her.](http://9gag.com/gag/aQzb6ww)<!-- MEMES:END -->
 
 ---
 
