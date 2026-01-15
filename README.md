@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite an incredibly tough 2025 for ZeniMax, The Elder Scrolls Online&#39;s leadership is hopeful: &#39;We&#39;ve definitely got our eyes on the future, because this is our home&#39;](https://www.pcgamer.com/games/mmo/despite-an-incredibly-tough-2025-for-zenimax-the-elder-scrolls-onlines-leadership-is-hopeful-weve-definitely-got-our-eyes-on-the-future-because-this-is-our-home/)
- - [Avatar creators announce new series following Last Airbender&#39;s favorite characters](https://www.polygon.com/avatar-the-kyoshi-warriors-dark-horse-comics/)
- - [Marvel Rivals Season 6 release date, Deadpool abilities, and more](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-season-6-release-date-deadpool/)<!-- GAME:END -->
+ - [Welcome To Backlog Week At Kotaku](https://kotaku.com/welcome-to-backlog-week-at-kotaku-2000659862)
+ - [The most popular anime of the 2026 winter season isn&#39;t what you&#39;d expect](https://www.polygon.com/most-popular-anime-winter-2026-january-15/)
+ - [Claim your place among motorcycle legends in Ride 6 career](https://blog.playstation.com/2026/01/15/claim-your-place-among-motorcycle-legends-in-ride-6-career/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
