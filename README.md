@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CoinDesk Data: Binance&#39;s market share of spot crypto trading fell to 25% in December, its lowest since 2021, and it is also losing ground in derivatives trading &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/260114/p58#a260114p58)
  - [Verizon wireless outage leaves iPhones stuck in SOS across the U.S.](https://appleinsider.com/articles/26/01/14/verizon-wireless-outage-leaves-iphones-stuck-in-sos-across-the-us?utm_source=rss)
- - [Project Eleven, which builds tools to prepare blockchains for post-quantum threats, raised a $20M Series A led by Castle Island at a $120M post-money valuation &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/260114/p57#a260114p57)
- - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
+ - [Massive Verizon Outage Across US Could Be Affecting 2 Million &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/verizon-outage-january-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
