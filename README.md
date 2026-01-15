@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get copper in Hytale](https://www.polygon.com/hytale-copper-how-to-get-find-ore-location/)
- - [Anker P20i Wireless Earbuds Are 50% Off on Amazon, Apple Is Facing Real Competition](https://kotaku.com/anker-p20i-wireless-earbuds-are-50-off-on-amazon-apple-is-facing-real-competition-2000659247)
- - [Demon Slayer director addresses AI use in anime](https://www.polygon.com/demon-slayer-infinity-train-ai-ufotable-aniplex/)<!-- GAME:END -->
+ - [Quarantine Zone has been patched so now you can actually detect people smuggling hand grenades in their butts](https://www.pcgamer.com/games/sim/quarantine-zone-has-been-patched-so-now-you-can-actually-detect-people-smuggling-hand-grenades-in-their-butts/)
+ - [How well do you know classic videogame cheats? See if you can answer these 10 tricky questions](https://www.pcgamer.com/games/how-well-do-you-know-classic-videogame-cheats-see-if-you-can-answer-these-10-tricky-questions/)
+ - [&#39;I consider it a millennial shooter&#39;: The FPS dev making hit shooters by leaning into &#39;2007-core&#39;](https://www.pcgamer.com/games/fps/i-consider-it-a-millennial-shooter-the-fps-dev-making-hit-shooters-by-leaning-into-2007-core/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
