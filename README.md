@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wild how in nature, they&#39;re intelligent-sadistic killer-super predators, but when they encounter people they just observe for a moment and move on.](http://9gag.com/gag/azxybZq)
- - ⏩ [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
- - 👉 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)<!-- MEMES:END -->
+ - 💣 [Sidekick](http://9gag.com/gag/aKGZg63)
+ - ⏩ [Where does these idiots think that ChatGPT steals its data from?](http://9gag.com/gag/a2vgNne)
+ - 👉 [6.9](http://9gag.com/gag/awyjb7R)<!-- MEMES:END -->
 
 ---
 
