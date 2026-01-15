@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And it keeps making billions...](http://9gag.com/gag/aO8EK93)
- - ⏩ [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)
- - 👉 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)<!-- MEMES:END -->
+ - 💣 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
+ - ⏩ [Where does these idiots think that ChatGPT steals its data from?](http://9gag.com/gag/a2vgNne)
+ - 👉 [6.9](http://9gag.com/gag/awyjb7R)<!-- MEMES:END -->
 
 ---
 
