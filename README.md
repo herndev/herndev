@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech Workers Are Condemning ICE Even as Their CEOs Stay Quiet](https://www.wired.com/story/backlash-against-ice-policing-tactics-grows-in-silicon-valley/)
- - [Hot deal: The amazing Samsung Odyssey Ark 55-inch monitor is cheaper than ever!](https://www.androidauthority.com/samsung-odyssey-ark-55-inch-monitor-deal-2-3632486/)
- - [Android 16 QPR3 Beta 2 is here with fixes for battery drain and device freezes](https://www.androidauthority.com/android-16-qpr3-beta-2-rollout-3632561/)<!-- TECH:END -->
+ - [Don’t keep buying batteries! Get this Energizer Recharge Pro bundle instead](https://www.androidauthority.com/energizer-recharge-pro-with-4-rechargeable-batteries-3632485/)
+ - [Apple AI research shows how MLLMs understand, generate, search for images](https://appleinsider.com/articles/26/01/14/apple-ai-research-shows-how-mllms-understand-generate-search-for-images?utm_source=rss)
+ - [Coinbase pulls support from the US Senate&#39;s crypto market structure bill ahead of a key vote; CEO Brian Armstrong says there are &quot;too many issues&quot; with the bill &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/260114/p52#a260114p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
