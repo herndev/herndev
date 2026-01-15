@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon wireless outage left iPhones stuck in SOS across the U.S.](https://appleinsider.com/articles/26/01/14/verizon-wireless-outage-leaves-iphones-stuck-in-sos-across-the-us?utm_source=rss)
- - [ChatGPT Translate is here to take on Google Translate, but the battle is just beginning](https://www.androidauthority.com/chatgpt-translate-3632584/)
- - [CoinDesk Data: Binance&#39;s market share of spot crypto trading fell to 25% in December, its lowest since 2021, and it is also losing ground in derivatives trading &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/260114/p58#a260114p58)<!-- TECH:END -->
+ - [GlobalFoundries agrees to acquire Synopsys&#39; ARC processor IP business, which includes ARC-V &lpar;RISC-V&rpar; and ARC CPU IP, and integrate it into its MIPS business &lpar;Nitin Dahad/EE Times&rpar;](http://www.techmeme.com/260115/p1#a260115p1)
+ - [Android 16 QPR3 Beta 2 quietly rolls out a Recents menu downgrade](https://www.androidauthority.com/android-16-qpr3-beta-2-recents-menu-downgrade-3632589/)
+ - [Bengaluru-based edtech startup Emversity raised a $30M Series A led by Premji Invest, sources say at a $120M post-money valuation, up from $60M in April 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260114/p60#a260114p60)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
