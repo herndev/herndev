@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
- - ⏩ [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)
- - 👉 [The glitch got me.](http://9gag.com/gag/aE0KG7o)<!-- MEMES:END -->
+ - 💣 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
+ - ⏩ [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
+ - 👉 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)<!-- MEMES:END -->
 
 ---
 
