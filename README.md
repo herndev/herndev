@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s always funnier with daddy](http://9gag.com/gag/aryEeAB)
- - ⏩ [How kindly they give way to someone walking uphill.](http://9gag.com/gag/aVvrWPw)
- - 👉 [Six weeks later, met again](http://9gag.com/gag/abADybL)<!-- MEMES:END -->
+ - 💣 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
+ - ⏩ [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
+ - 👉 [How do you do that in high heels??](http://9gag.com/gag/avyq0eq)<!-- MEMES:END -->
 
 ---
 
