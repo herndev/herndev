@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I spent a year on Linux and forgot to miss Windows](https://www.theverge.com/features/861968/year-using-linux)
- - [Setapp Mobile EU app store, CleanMyMac Business both close down for good](https://appleinsider.com/articles/26/01/15/setapp-mobile-eu-app-store-cleanmymac-business-both-close-down-for-good?utm_source=rss)
- - [Researchers discover WhisperPair, a set of vulnerabilities in Google&#39;s Fast Pair protocol affecting 17 audio device models from 10 brands; Google has patched &lpar;Wired&rpar;](http://www.techmeme.com/260115/p31#a260115p31)<!-- TECH:END -->
+ - [How to download Android 16 QPR3 Beta 2 on your Pixel right now](https://www.androidauthority.com/android-16-qpr3-beta-2-how-download-3632565/)
+ - [The Sony Bravia 8 II is a TV enthusiast’s dream](https://www.theverge.com/tech/862340/sony-bravia-8-ii-tv-review)
+ - [3DS emulation on Android is now better than ever, thanks to Azahar’s biggest update yet](https://www.androidauthority.com/azahar-release-2124-3632740/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
