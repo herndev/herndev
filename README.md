@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
+ - 💣 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
  - ⏩ [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)
- - 👉 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)<!-- MEMES:END -->
+ - 👉 [He&#39;s just probably Doing Work &amp; gaming at the same time.](http://9gag.com/gag/aXP30ov)<!-- MEMES:END -->
 
 ---
 
