@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blockchain-based lender Figure unveils the On-Chain Public Equity Network to issue, trade, and lend stocks natively on a blockchain, not as tokenized replicas &lpar;Kyle Baird/The Block&rpar;](http://www.techmeme.com/260115/p7#a260115p7)
- - [Is Samsung deliberately restricting third-party UWB tags on its phones?](https://www.androidauthority.com/samsung-restrict-third-party-uwb-tracker-tags-3632599/)
- - [Google is exploring a much better way to build batteries into phones](https://www.androidauthority.com/google-battery-design-patent-3632608/)<!-- TECH:END -->
+ - [Appfigures: global consumer spending in mobile apps on the App Store and Google Play rose 21.6% YoY to $155.8B in 2025, but app downloads dropped 2.7% to 106.9B &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260115/p10#a260115p10)
+ - [Microsoft agrees to buy a record 2.85M soil carbon credits from Indigo Carbon linked to regenerative US agriculture; a source values the deal at $171M-$228M &lpar;Reuters&rpar;](http://www.techmeme.com/260115/p9#a260115p9)
+ - [Hong Kong-based WeLab, which operates two digital banks in Hong Kong and Indonesia, raised $220M in equity and debt from HSBC, Prudential Hong Kong, and others &lpar;Denise Wee/Bloomberg&rpar;](http://www.techmeme.com/260115/p8#a260115p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
