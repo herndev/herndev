@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
+ - 💣 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
  - ⏩ [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)
- - 👉 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)<!-- MEMES:END -->
+ - 👉 [The &#39;90s was an insane decade](http://9gag.com/gag/amoQNM9)<!-- MEMES:END -->
 
 ---
 
