@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s one big benefit to Hytale not being on Steam: its refund policy is way better than Valve&#39;s](https://www.pcgamer.com/games/survival-crafting/heres-one-big-benefit-to-hytale-not-being-on-steam-its-refund-policy-is-way-better-than-valves/)
- - [Quarantine Zone has been patched so now you can actually detect people smuggling hand grenades in their butts](https://www.pcgamer.com/games/sim/quarantine-zone-has-been-patched-so-now-you-can-actually-detect-people-smuggling-hand-grenades-in-their-butts/)
- - [How well do you know classic videogame cheats? See if you can answer these 10 tricky questions](https://www.pcgamer.com/games/how-well-do-you-know-classic-videogame-cheats-see-if-you-can-answer-these-10-tricky-questions/)<!-- GAME:END -->
+ - [Disco Elysium had so much text it broke the branching narrative software: &#39;we were writing too much&#39;](https://www.pcgamer.com/games/rpg/disco-elysium-had-so-much-text-it-broke-the-branching-narrative-software-we-were-writing-too-much/)
+ - [With only 2,300 hours to go until a full Ecco the Dolphin reveal, new details emerge about the forthcoming reboot](https://www.pcgamer.com/games/action/with-only-2-300-hours-to-go-until-a-full-ecco-the-dolphin-reveal-new-details-emerge-about-the-forthcoming-reboot/)
+ - [Here&#39;s one big benefit to Hytale not being on Steam: its refund policy is way better than Valve&#39;s](https://www.pcgamer.com/games/survival-crafting/heres-one-big-benefit-to-hytale-not-being-on-steam-its-refund-policy-is-way-better-than-valves/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
