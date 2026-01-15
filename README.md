@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There&#39;s a new Apple monitor imminent, but what it will be is anybody&#39;s guess](https://appleinsider.com/articles/26/01/15/theres-a-new-apple-monitor-imminent-but-what-it-will-be-is-anybodys-guess?utm_source=rss)
- - [Apple lost the AI race — now the real challenge starts](https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini)
- - [Why ICE Can Kill With Impunity](https://www.wired.com/story/why-ice-can-kill-with-impunity/)<!-- TECH:END -->
+ - [Andrea Vallone, who left OpenAI in November as the head of its safety research team, joins Anthropic&#39;s alignment team &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260115/p44#a260115p44)
+ - [Amazon’s New World: Aeternum MMO will shut down next year](https://www.theverge.com/news/862892/amazon-new-world-aeternum-mmo-servers-shut-down-delisted)
+ - [Elon Musk’s Grok ‘Undressing’ Problem Isn’t Fixed](https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
