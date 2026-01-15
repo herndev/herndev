@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney Plus &amp; Hulu bundle drops to $9.99 for a month, best streaming deal of 2026](https://appleinsider.com/articles/26/01/15/disney-plus-hulu-bundle-drops-to-999-for-a-month-best-streaming-deal-of-2026?utm_source=rss)
- - [X revises its developer API policies to &quot;no longer allow apps that reward users for posting on X &lpar;aka &quot;infofi&quot;&rpar;&quot;, amid a backlash about growing AI slop on X &lpar;André Beganski/Decrypt&rpar;](http://www.techmeme.com/260115/p38#a260115p38)
- - [Microsoft is closing its employee library and cutting back on subscriptions](https://www.theverge.com/tech/862531/microsoft-library-closure-transition-changes-notepad)<!-- TECH:END -->
+ - [Equal1, which was spun out from University College Dublin, raised $60M to deploy its new quantum server for data centers, bringing its total funding to $85M &lpar;Ciara O&#39;Brien/The Irish Times&rpar;](http://www.techmeme.com/260115/p41#a260115p41)
+ - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
+ - [Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works](https://www.wired.com/story/anthropic-claude-cowork-agent/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
