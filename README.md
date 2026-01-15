@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The next Subway Surfers game comes out in February](https://www.theverge.com/news/861594/subway-surfers-city-release-date-ios-android)
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Brain-computer interface startup Merge Labs, which Sam Altman co-founded, raised $252M from OpenAI, Bain Capital, and others &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/260115/p34#a260115p34)<!-- TECH:END -->
+ - [Disney Plus &amp; Hulu bundle drops to $9.99 for a month, best streaming deal of 2026](https://appleinsider.com/articles/26/01/15/disney-plus-hulu-bundle-drops-to-999-for-a-month-best-streaming-deal-of-2026?utm_source=rss)
+ - [X revises its developer API policies to &quot;no longer allow apps that reward users for posting on X &lpar;aka &quot;infofi&quot;&rpar;&quot;, amid a backlash about growing AI slop on X &lpar;André Beganski/Decrypt&rpar;](http://www.techmeme.com/260115/p38#a260115p38)
+ - [Microsoft is closing its employee library and cutting back on subscriptions](https://www.theverge.com/tech/862531/microsoft-library-closure-transition-changes-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
