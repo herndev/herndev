@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the news that’s fit to WhatsApp](https://www.theverge.com/news/862076/documented-immigration-reporting-whatsapp-wechat-nextdoor)
- - [Grok now bans all undressing images -- where it&#39;s forced to](https://appleinsider.com/articles/26/01/15/grok-now-bans-all-undressing-images----where-its-forced-to?utm_source=rss)
- - [Wikimedia celebrates Wikipedia&#39;s 25th anniversary, marking its growth from 100 pages to 65M+ articles with nearly 15B monthly views, and releases a docuseries &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260115/p23#a260115p23)<!-- TECH:END -->
+ - [First look: Here’s how Android’s Intrusion Logging feature for tracking data breaches works](https://www.androidauthority.com/android-intrusion-logging-first-look-3632690/)
+ - [India&#39;s Supreme Court rules Tiger Global&#39;s $1.6B Flipkart stake sale to Walmart in 2018 is subject to taxes, a ruling that may shape future cross-border deals &lpar;Reuters&rpar;](http://www.techmeme.com/260115/p28#a260115p28)
+ - [9 Best Blind Boxes—Bag Charms, Plush Pendants, and More &lpar;2026&rpar;](https://www.wired.com/gallery/best-blind-boxes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
