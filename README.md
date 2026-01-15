@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s going on with the missing Trump phone? Lawmakers demand answers](https://www.androidauthority.com/trump-mobile-t1-phone-ftc-letter-3632939/)
- - [Take an Extra $50 Off My Favorite Mattress With This Code](https://www.wired.com/story/nolah-evolution-hybrid-mattress-sale-2026/)
- - [What&#39;s New at Disneyland and Disney World in 2026? Rides, Lands, Ticket Deals and More Updates](https://www.cnet.com/tech/whats-coming-to-disney-world-and-disneyland-new-rides-lands-and-attractions-in-2026/)<!-- TECH:END -->
+ - [&#39;Fat Fingers&#39; May Have Caused Verizon&#39;s Network Outage, According to Analyst](https://www.cnet.com/tech/mobile/fat-fingers-may-have-caused-verizons-network-outage-according-to-analyst/)
+ - [Google agrees to pay $8.25M to settle a class-action lawsuit alleging its AdMob SDK illegally collected data from children under age 13 &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/260115/p49#a260115p49)
+ - [Natural Cycles launches wristband to replace thermometers for its FDA-cleared birth control app](https://www.theverge.com/news/863046/natural-cycles-wristband-digital-birth-control)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
