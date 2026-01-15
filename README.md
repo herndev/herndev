@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC projects capital spending in 2026 at between $52B and $56B, up 25%+ from 2025, and forecasts ~30% YoY revenue growth in 2026, both above analyst estimates &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p13#a260115p13)
- - [Scientists say that AI has become a powerful and rapidly improving research tool, and that whether it is generating ideas on its own is, for now, a moot point &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260115/p12#a260115p12)
- - [Chinese chipmaker SpacemiT, whose RISC-V-based K1 chip is used in industrial systems, robotics, edge computing, and AI devices, raised an ~$86M Series B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p11#a260115p11)<!-- TECH:END -->
+ - [If Android killed widgets tomorrow, I wouldn’t miss them](https://www.androidauthority.com/if-android-killed-widgets-i-wouldnt-miss-them-3631838/)
+ - [WitnessAI, which intercepts employees&#39; custom GenAI models usage and applies safeguards, raised $58M led by Sound Ventures, taking its total funding to $85M &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/260115/p18#a260115p18)
+ - [The Wikimedia Foundation says Microsoft, Meta, Amazon, Perplexity, and Mistral joined Wikimedia Enterprise to get &quot;tuned&quot; API access; Google is already a member &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260115/p17#a260115p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
