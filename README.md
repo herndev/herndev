@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China is drafting rules for Nvidia H200 purchases, limiting how many chips local companies can buy and requiring them to justify the need &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260115/p3#a260115p3)
- - [A source close to Thinking Machines alleged that ex-CTO Barret Zoph, who is returning to OpenAI, had shared confidential company information with competitors &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260115/p2#a260115p2)
- - [GlobalFoundries agrees to acquire Synopsys&#39; ARC processor IP business, which includes ARC-V &lpar;RISC-V&rpar; and ARC CPU IP, and integrate it into its MIPS business &lpar;Nitin Dahad/EE Times&rpar;](http://www.techmeme.com/260115/p1#a260115p1)<!-- TECH:END -->
+ - [Blockchain-based lender Figure unveils the On-Chain Public Equity Network to issue, trade, and lend stocks natively on a blockchain, not as tokenized replicas &lpar;Kyle Baird/The Block&rpar;](http://www.techmeme.com/260115/p7#a260115p7)
+ - [Is Samsung deliberately restricting third-party UWB tags on its phones?](https://www.androidauthority.com/samsung-restrict-third-party-uwb-tracker-tags-3632599/)
+ - [Google is exploring a much better way to build batteries into phones](https://www.androidauthority.com/google-battery-design-patent-3632608/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
