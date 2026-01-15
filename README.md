@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GlobalFoundries agrees to acquire Synopsys&#39; ARC processor IP business, which includes ARC-V &lpar;RISC-V&rpar; and ARC CPU IP, and integrate it into its MIPS business &lpar;Nitin Dahad/EE Times&rpar;](http://www.techmeme.com/260115/p1#a260115p1)
- - [Android 16 QPR3 Beta 2 quietly rolls out a Recents menu downgrade](https://www.androidauthority.com/android-16-qpr3-beta-2-recents-menu-downgrade-3632589/)
- - [Bengaluru-based edtech startup Emversity raised a $30M Series A led by Premji Invest, sources say at a $120M post-money valuation, up from $60M in April 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260114/p60#a260114p60)<!-- TECH:END -->
+ - [Sources: China is drafting rules for Nvidia H200 purchases, limiting how many chips local companies can buy and requiring them to justify the need &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260115/p3#a260115p3)
+ - [A source close to Thinking Machines alleged that ex-CTO Barret Zoph, who is returning to OpenAI, had shared confidential company information with competitors &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260115/p2#a260115p2)
+ - [GlobalFoundries agrees to acquire Synopsys&#39; ARC processor IP business, which includes ARC-V &lpar;RISC-V&rpar; and ARC CPU IP, and integrate it into its MIPS business &lpar;Nitin Dahad/EE Times&rpar;](http://www.techmeme.com/260115/p1#a260115p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
