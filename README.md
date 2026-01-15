@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
  - ⏩ [Really the only way I&#39;d consider team driving is with a life partner. Your life is in their hands, and their smell is in your nose 24/7](http://9gag.com/gag/a9ywbND)
- - 👉 [He&#39;s just probably Doing Work &amp; gaming at the same time.](http://9gag.com/gag/aXP30ov)<!-- MEMES:END -->
+ - 👉 [The glitch got me.](http://9gag.com/gag/aE0KG7o)<!-- MEMES:END -->
 
 ---
 
