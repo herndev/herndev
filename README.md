@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Avatar creators announce new series following Last Airbender&#39;s favorite characters](https://www.polygon.com/avatar-the-kyoshi-warriors-dark-horse-comics/)
  - [Marvel Rivals Season 6 release date, Deadpool abilities, and more](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-season-6-release-date-deadpool/)
- - [6 things to know before starting The Legend of Heroes: Trails Beyond the Horizon](https://www.polygon.com/trails-beyond-the-horizon-beginners-tips-guide/)
- - [Disco Elysium had so much text it broke the branching narrative software: &#39;we were writing too much&#39;](https://www.pcgamer.com/games/rpg/disco-elysium-had-so-much-text-it-broke-the-branching-narrative-software-we-were-writing-too-much/)<!-- GAME:END -->
+ - [6 things to know before starting The Legend of Heroes: Trails Beyond the Horizon](https://www.polygon.com/trails-beyond-the-horizon-beginners-tips-guide/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
