@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome To Backlog Week At Kotaku](https://kotaku.com/welcome-to-backlog-week-at-kotaku-2000659862)
- - [The most popular anime of the 2026 winter season isn&#39;t what you&#39;d expect](https://www.polygon.com/most-popular-anime-winter-2026-january-15/)
- - [Claim your place among motorcycle legends in Ride 6 career](https://blog.playstation.com/2026/01/15/claim-your-place-among-motorcycle-legends-in-ride-6-career/)<!-- GAME:END -->
+ - [The JRPG veteran responsible for Persona and Megami Tensei is working on a &#39;school life RPG&#39; with the Neptunia series studio](https://www.pcgamer.com/games/rpg/the-jrpg-veteran-responsible-for-persona-and-megami-tensei-is-working-on-a-school-life-rpg-with-the-neptunia-series-studio/)
+ - [Fatal Fury fans accuse new City of the Wolves trailer of being filled with AI slop: &#39;All that Saudi money and can&#39;t pay someone a couple bucks to make real s**t&#39;](https://www.pcgamer.com/games/fighting/fatal-fury-fans-accuse-new-city-of-the-wolves-trailer-of-being-filled-with-ai-slop-all-that-saudi-money-and-cant-pay-someone-a-couple-bucks-to-make-real-s-t/)
+ - [Here&#39;s our first look at Sophie Turner as Lara Croft in the upcoming Tomb Raider show](https://www.pcgamer.com/movies-tv/heres-our-first-look-at-sophie-turner-as-lara-croft-in-the-upcoming-tomb-raider-show/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
