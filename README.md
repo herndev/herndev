@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Projector deal: XGIMI Elfin Flip Plus hits new record-low price!](https://www.androidauthority.com/xgimi-elfin-flip-plus-portable-projector-deal-3632811/)
- - [Sources: Replit is in advanced discussions to raise about $400M in a new round of funding that would roughly triple its valuation to $9B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p46#a260115p46)
- - [Krafton is trying to find its next PUBG](https://www.theverge.com/news/862922/krafton-next-pubg-franchise)<!-- TECH:END -->
+ - [What’s going on with the missing Trump phone? Lawmakers demand answers](https://www.androidauthority.com/trump-mobile-t1-phone-ftc-letter-3632939/)
+ - [Take an Extra $50 Off My Favorite Mattress With This Code](https://www.wired.com/story/nolah-evolution-hybrid-mattress-sale-2026/)
+ - [What&#39;s New at Disneyland and Disney World in 2026? Rides, Lands, Ticket Deals and More Updates](https://www.cnet.com/tech/whats-coming-to-disney-world-and-disneyland-new-rides-lands-and-attractions-in-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
