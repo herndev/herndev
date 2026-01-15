@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Despite an incredibly tough 2025 for ZeniMax, The Elder Scrolls Online&#39;s leadership is hopeful: &#39;We&#39;ve definitely got our eyes on the future, because this is our home&#39;](https://www.pcgamer.com/games/mmo/despite-an-incredibly-tough-2025-for-zenimax-the-elder-scrolls-onlines-leadership-is-hopeful-weve-definitely-got-our-eyes-on-the-future-because-this-is-our-home/)
  - [Avatar creators announce new series following Last Airbender&#39;s favorite characters](https://www.polygon.com/avatar-the-kyoshi-warriors-dark-horse-comics/)
- - [Marvel Rivals Season 6 release date, Deadpool abilities, and more](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-season-6-release-date-deadpool/)
- - [6 things to know before starting The Legend of Heroes: Trails Beyond the Horizon](https://www.polygon.com/trails-beyond-the-horizon-beginners-tips-guide/)<!-- GAME:END -->
+ - [Marvel Rivals Season 6 release date, Deadpool abilities, and more](https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-season-6-release-date-deadpool/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
