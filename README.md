@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Andrea Vallone, who left OpenAI in November as the head of its safety research team, joins Anthropic&#39;s alignment team &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260115/p44#a260115p44)
- - [Amazon’s New World: Aeternum MMO will shut down next year](https://www.theverge.com/news/862892/amazon-new-world-aeternum-mmo-servers-shut-down-delisted)
- - [Elon Musk’s Grok ‘Undressing’ Problem Isn’t Fixed](https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/)<!-- TECH:END -->
+ - [Projector deal: XGIMI Elfin Flip Plus hits new record-low price!](https://www.androidauthority.com/xgimi-elfin-flip-plus-portable-projector-deal-3632811/)
+ - [Sources: Replit is in advanced discussions to raise about $400M in a new round of funding that would roughly triple its valuation to $9B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p46#a260115p46)
+ - [Krafton is trying to find its next PUBG](https://www.theverge.com/news/862922/krafton-next-pubg-franchise)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
