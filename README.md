@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If Android killed widgets tomorrow, I wouldn’t miss them](https://www.androidauthority.com/if-android-killed-widgets-i-wouldnt-miss-them-3631838/)
- - [WitnessAI, which intercepts employees&#39; custom GenAI models usage and applies safeguards, raised $58M led by Sound Ventures, taking its total funding to $85M &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/260115/p18#a260115p18)
- - [The Wikimedia Foundation says Microsoft, Meta, Amazon, Perplexity, and Mistral joined Wikimedia Enterprise to get &quot;tuned&quot; API access; Google is already a member &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260115/p17#a260115p17)<!-- TECH:END -->
+ - [All the news that’s fit to WhatsApp](https://www.theverge.com/news/862076/documented-immigration-reporting-whatsapp-wechat-nextdoor)
+ - [Grok now bans all undressing images -- where it&#39;s forced to](https://appleinsider.com/articles/26/01/15/grok-now-bans-all-undressing-images----where-its-forced-to?utm_source=rss)
+ - [Wikimedia celebrates Wikipedia&#39;s 25th anniversary, marking its growth from 100 pages to 65M+ articles with nearly 15B monthly views, and releases a docuseries &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260115/p23#a260115p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
