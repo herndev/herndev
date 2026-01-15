@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trump gives the middle finger to a Ford employee who yells `pedophile protector`](http://9gag.com/gag/a1mgvG8)
- - ⏩ [What men do just for some laughs](http://9gag.com/gag/amoQX6X)
- - 👉 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)<!-- MEMES:END -->
+ - 💣 [It&#39;s always funnier with daddy](http://9gag.com/gag/aryEeAB)
+ - ⏩ [How kindly they give way to someone walking uphill.](http://9gag.com/gag/aVvrWPw)
+ - 👉 [Six weeks later, met again](http://9gag.com/gag/abADybL)<!-- MEMES:END -->
 
 ---
 
