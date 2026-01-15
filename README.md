@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to download Android 16 QPR3 Beta 2 on your Pixel right now](https://www.androidauthority.com/android-16-qpr3-beta-2-how-download-3632565/)
- - [The Sony Bravia 8 II is a TV enthusiast’s dream](https://www.theverge.com/tech/862340/sony-bravia-8-ii-tv-review)
- - [3DS emulation on Android is now better than ever, thanks to Azahar’s biggest update yet](https://www.androidauthority.com/azahar-release-2124-3632740/)<!-- TECH:END -->
+ - [The next Subway Surfers game comes out in February](https://www.theverge.com/news/861594/subway-surfers-city-release-date-ios-android)
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [Brain-computer interface startup Merge Labs, which Sam Altman co-founded, raised $252M from OpenAI, Bain Capital, and others &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/260115/p34#a260115p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
