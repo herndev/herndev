@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Thinking Machines parts ways with CTO Barret Zoph, with Soumith Chintala taking over the role; sources say the termination is due to &quot;unethical conduct&quot; &lpar;Kylie Robison/@kyliebytes&rpar;](http://www.techmeme.com/260114/p56#a260114p56)
- - [X claims it has stopped Grok from undressing people, but of course it hasn’t](https://www.theverge.com/news/862372/x-grok-ai-policy-update-deepfake-bikini-poses)<!-- TECH:END -->
+ - [Verizon wireless outage leaves iPhones stuck in SOS across the U.S.](https://appleinsider.com/articles/26/01/14/verizon-wireless-outage-leaves-iphones-stuck-in-sos-across-the-us?utm_source=rss)
+ - [Project Eleven, which builds tools to prepare blockchains for post-quantum threats, raised a $20M Series A led by Castle Island at a $120M post-money valuation &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/260114/p57#a260114p57)
+ - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
