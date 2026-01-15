@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First look: Here’s how Android’s Intrusion Logging feature for tracking data breaches works](https://www.androidauthority.com/android-intrusion-logging-first-look-3632690/)
- - [India&#39;s Supreme Court rules Tiger Global&#39;s $1.6B Flipkart stake sale to Walmart in 2018 is subject to taxes, a ruling that may shape future cross-border deals &lpar;Reuters&rpar;](http://www.techmeme.com/260115/p28#a260115p28)
- - [9 Best Blind Boxes—Bag Charms, Plush Pendants, and More &lpar;2026&rpar;](https://www.wired.com/gallery/best-blind-boxes/)<!-- TECH:END -->
+ - [I spent a year on Linux and forgot to miss Windows](https://www.theverge.com/features/861968/year-using-linux)
+ - [Setapp Mobile EU app store, CleanMyMac Business both close down for good](https://appleinsider.com/articles/26/01/15/setapp-mobile-eu-app-store-cleanmymac-business-both-close-down-for-good?utm_source=rss)
+ - [Researchers discover WhisperPair, a set of vulnerabilities in Google&#39;s Fast Pair protocol affecting 17 audio device models from 10 brands; Google has patched &lpar;Wired&rpar;](http://www.techmeme.com/260115/p31#a260115p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
