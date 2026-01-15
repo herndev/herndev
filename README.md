@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Equal1, which was spun out from University College Dublin, raised $60M to deploy its new quantum server for data centers, bringing its total funding to $85M &lpar;Ciara O&#39;Brien/The Irish Times&rpar;](http://www.techmeme.com/260115/p41#a260115p41)
- - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
- - [Hands On With Anthropic’s Claude Cowork, an AI Agent That Actually Works](https://www.wired.com/story/anthropic-claude-cowork-agent/)<!-- TECH:END -->
+ - [There&#39;s a new Apple monitor imminent, but what it will be is anybody&#39;s guess](https://appleinsider.com/articles/26/01/15/theres-a-new-apple-monitor-imminent-but-what-it-will-be-is-anybodys-guess?utm_source=rss)
+ - [Apple lost the AI race — now the real challenge starts](https://www.theverge.com/tech/861957/google-apple-ai-deal-iphone-gemini)
+ - [Why ICE Can Kill With Impunity](https://www.wired.com/story/why-ice-can-kill-with-impunity/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
