@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Asus and MSI have now both clarified the RTX 5070 Ti hasn&#39;t received an end-of-life status](https://www.pcgamer.com/hardware/graphics-cards/asus-and-msi-have-now-both-clarified-the-rtx-5070-ti-hasnt-received-an-end-of-life-status/)
  - [&lpar;For Southeast Asia&rpar; Nine quick-hit games to play, included with PlayStation Plus](https://blog.playstation.com/2026/01/15/20260116-quickhit/)
- - [&lpar;For Southeast Asia&rpar; Nine quick-hit games to play, included with PlayStation Plus](https://blog.playstation.com/2026/01/15/20260116-quickhit/)
- - [Yakuza Kiwami 3 preview: RGG wants to reframe the clunkiest Yakuza game](https://www.polygon.com/yakuza-kiwami-3-dark-ties-preview/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Nine quick-hit games to play, included with PlayStation Plus](https://blog.playstation.com/2026/01/15/20260116-quickhit/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
