@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam&#39;s most prolific hater has reviewed nearly 20,000 games](https://www.polygon.com/steam-obey-the-first-who-is-negative-review-indie-2d-valve/)
- - [Killer Whale review: A micro-thriller that should be better &lpar;or worse&rpar;](https://www.polygon.com/killer-whale-review-best-micro-thrillers/)
- - [Ubisoft Says ‘Don’t Worry’ As Division 3 Boss Heads To Battlefield After Previously Denying He Was Leaving](https://kotaku.com/division-3-ubisoft-julian-gerighty-leaving-battlefield-2000660601)<!-- GAME:END -->
+ - [Animal Crossing: New Horizons 3.0 upgrades Kapp&#39;n Tours](https://www.polygon.com/animal-crossing-new-horizons-acnh-update-kappn-boat-tours/)
+ - [World of Warcraft&#39;s housing is one of the game&#39;s biggest swings yet](https://www.polygon.com/world-of-warcraft-housing-early-access/)
+ - [Keeping Classics Alive: Arcade Archives Reaches 500 Titles with Space Invaders](https://news.xbox.com/en-us/2026/01/16/arcade-archives-500-space-invaders/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
