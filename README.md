@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI releases a cheaper ChatGPT subscription](https://www.theverge.com/news/863466/openai-chatgpt-go-global-release)
- - [Visible offers customers $5 off their next bill for Verizon disruption](https://www.androidauthority.com/visible-offers-customers-5-off-their-next-bill-for-verizon-disruption-3633269/)
- - [Vietnam&#39;s military-run telecom company Viettel begins construction of the country&#39;s first chip plant, with trial production expected to start by late 2027 &lpar;Phuong Nguyen/Reuters&rpar;](http://www.techmeme.com/260116/p15#a260116p15)<!-- TECH:END -->
+ - [This awesome Jackery Explorer 240D Power Bank is 33% off right now!](https://www.androidauthority.com/jackery-explorer-240d-power-bank-deal-3-3632810/)
+ - [Here’s how Google’s getting ready for Android’s upcoming sideloading restrictions](https://www.androidauthority.com/install-without-verifying-3633199/)
+ - [AYANEO’s fancy Game Boy-like handheld is arriving earlier than expected](https://www.androidauthority.com/ayaneo-pocket-vert-new-ship-date-3633223/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
