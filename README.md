@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They be like that](http://9gag.com/gag/a87NY9Z)
- - ⏩ [Dab](http://9gag.com/gag/apR70xE)
- - 👉 [I&#39;ve reached my limit, won&#39;t buy it](http://9gag.com/gag/a7ogygr)<!-- MEMES:END -->
+ - 💣 [Thank me Later REMASTERED 2026 version](http://9gag.com/gag/apR7BL5)
+ - ⏩ [Big step](http://9gag.com/gag/aXP3pOz)
+ - 👉 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)<!-- MEMES:END -->
 
 ---
 
