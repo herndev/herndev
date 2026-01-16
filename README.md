@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Meta shifts resources away from its Supernatural VR fitness service, users mourn the loss of a community built around the platform and its coaches &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/260115/p50#a260115p50)
- - [Grok undressed the mother of one of Elon Musk’s kids — and now she’s suing](https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit)
- - [Dave Filoni takes charge of Star Wars as new president of Lucasfilm](https://www.theverge.com/entertainment/863065/dave-filoni-lucasfilm-president-star-wars)<!-- TECH:END -->
+ - [Total global VC funding to fintech startups totaled $51.8B in 2025, up 27% YoY and above pre-pandemic totals, but much lower than 2021&#39;s peak of $141.6B &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260115/p52#a260115p52)
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Ashley St. Clair, mother of one of Elon Musk&#39;s children, sues xAI, alleging Grok refused to stop making sexualized deepfakes of her, amid custody disputes &lpar;Peter Senzamici/New York Post&rpar;](http://www.techmeme.com/260115/p51#a260115p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
