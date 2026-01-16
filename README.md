@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [&lpar;For Southeast Asia&rpar; Nine quick-hit games to play, included with PlayStation Plus](https://blog.playstation.com/2026/01/15/20260116-quickhit/)
- - [Yakuza Kiwami 3 preview: RGG wants to reframe the clunkiest Yakuza game](https://www.polygon.com/yakuza-kiwami-3-dark-ties-preview/)
- - [Yakuza Kiwami 3 &amp; Dark Ties hands-on report](https://blog.playstation.com/2026/01/15/yakuza-kiwami-3-dark-ties-hands-on-report/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Nine quick-hit games to play, included with PlayStation Plus](https://blog.playstation.com/2026/01/15/20260116-quickhit/)
+ - [Yakuza Kiwami 3 preview: RGG wants to reframe the clunkiest Yakuza game](https://www.polygon.com/yakuza-kiwami-3-dark-ties-preview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
