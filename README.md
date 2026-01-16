@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
- - ⏩ [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
- - 👉 [Things that never will happen](http://9gag.com/gag/aXP3peD)<!-- MEMES:END -->
+ - 💣 [You know](http://9gag.com/gag/awyj7oy)
+ - ⏩ [Things that never will happen](http://9gag.com/gag/aXP3peD)
+ - 👉 [We need more asylums](http://9gag.com/gag/a34g3M5)<!-- MEMES:END -->
 
 ---
 
