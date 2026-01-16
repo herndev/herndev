@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First vivo and OPPO, now another Android brand will offer an external camera lens](https://www.androidauthority.com/major-android-brand-external-lens-3633058/)
- - [Cloudflare acquires AI data marketplace Human Native for an undisclosed sum, aiming to create a new system where AI developers pay creators for training content &lpar;Davis Giangiulio/CNBC&rpar;](http://www.techmeme.com/260116/p6#a260116p6)
- - [Italy&#39;s competition regulator opens two investigations into Microsoft&#39;s Activision Blizzard over sales practices it claims were &quot;misleading and aggressive&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260116/p5#a260116p5)<!-- TECH:END -->
+ - [nVidia is squeezing out Apple for TSMC foundry capacity](https://appleinsider.com/articles/26/01/16/nvidia-is-squeezing-out-apple-for-tsmc-foundry-capacity?utm_source=rss)
+ - [From charming to consumer corporation -- how Apple has branded itself over the years.](https://appleinsider.com/articles/26/01/16/from-charming-to-consumer-corporation----how-apple-has-branded-itself-over-the-years?utm_source=rss)
+ - [9 Best Wi-Fi Routers of 2026 for Working, Gaming, and Streaming](https://www.wired.com/gallery/best-wifi-routers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
