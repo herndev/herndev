@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
- - ⏩ [They be like that](http://9gag.com/gag/a87NY9Z)
- - 👉 [Dab](http://9gag.com/gag/apR70xE)<!-- MEMES:END -->
+ - 💣 [Thats how it goes](http://9gag.com/gag/a6ZgdnA)
+ - ⏩ [QF time](http://9gag.com/gag/a7ogKeq)
+ - 👉 [Be Steve Irwin](http://9gag.com/gag/amoQ8vy)<!-- MEMES:END -->
 
 ---
 
