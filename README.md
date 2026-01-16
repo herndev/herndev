@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lorwyn Eclipsed draft guide: Why Mirrorform is the best card in the new MTG set](https://www.polygon.com/lorwyn-eclipsed-draft-sealed-limited-best-card-mirrorform/)
- - [Escape from Ever After: When Storybooks Meet Corporate Hell](https://news.xbox.com/en-us/2026/01/16/escape-from-ever-after/)
- - [I don&#39;t know why everyone&#39;s suddenly making games inspired by Spore, but this roguelike twin-stick shooter might be the best attempt yet at realising the lost potential of the cell stage](https://www.pcgamer.com/games/roguelike/i-dont-know-why-everyones-suddenly-making-games-inspired-by-spore-but-this-roguelike-twin-stick-shooter-might-be-the-best-attempt-yet-at-realising-the-lost-potential-of-the-cell-stage/)<!-- GAME:END -->
+ - [The Confession review: a spicy horror story made from an odd recipe](https://www.polygon.com/the-confession-review-2026-horror-movie/)
+ - [Quarantine Zone: The Last Check review](https://www.pcgamer.com/games/sim/quarantine-zone-the-last-check-review/)
+ - [How to get voidhearts in Hytale](https://www.polygon.com/hytale-voidhearts-how-to-get-find-location/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
