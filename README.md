@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Like a glove](http://9gag.com/gag/a4PgL9m)
- - ⏩ [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
- - 👉 [Dab](http://9gag.com/gag/apR70xE)<!-- MEMES:END -->
+ - 💣 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
+ - ⏩ [Like a glove](http://9gag.com/gag/a4PgL9m)
+ - 👉 [I&#39;ve reached my limit, won&#39;t buy it](http://9gag.com/gag/a7ogygr)<!-- MEMES:END -->
 
 ---
 
