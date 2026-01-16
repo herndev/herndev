@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus and MSI have now both clarified the RTX 5070 Ti hasn&#39;t received an end-of-life status](https://www.pcgamer.com/hardware/graphics-cards/asus-and-msi-have-now-both-clarified-the-rtx-5070-ti-hasnt-received-an-end-of-life-status/)
- - [&lpar;For Southeast Asia&rpar; Nine quick-hit games to play, included with PlayStation Plus](https://blog.playstation.com/2026/01/15/20260116-quickhit/)
- - [&lpar;For Southeast Asia&rpar; Nine quick-hit games to play, included with PlayStation Plus](https://blog.playstation.com/2026/01/15/20260116-quickhit/)<!-- GAME:END -->
+ - [Steam&#39;s most prolific hater has reviewed nearly 20,000 games](https://www.polygon.com/steam-obey-the-first-who-is-negative-review-indie-2d-valve/)
+ - [Killer Whale review: A micro-thriller that should be better &lpar;or worse&rpar;](https://www.polygon.com/killer-whale-review-best-micro-thrillers/)
+ - [Ubisoft Says ‘Don’t Worry’ As Division 3 Boss Heads To Battlefield After Previously Denying He Was Leaving](https://kotaku.com/division-3-ubisoft-julian-gerighty-leaving-battlefield-2000660601)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
