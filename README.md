@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20% Off Brooks Promo Code &amp; Deals for January 2026](https://www.wired.com/story/brooks-promo-code/)
  - [30% VistaPrint Coupon &amp; Promo Codes | January 2026](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Google is this close to letting you change your Gmail email address](https://www.androidauthority.com/gmail-change-email-address-closer-3632987/)
- - [A profile of Wikipedia as it faces challenges, including attacks from Elon Musk and the far right, reduced traffic due to AI, and legal challenges in India &lpar;Darren Loucaides/Financial Times&rpar;](http://www.techmeme.com/260116/p3#a260116p3)<!-- TECH:END -->
+ - [Google is this close to letting you change your Gmail email address](https://www.androidauthority.com/gmail-change-email-address-closer-3632987/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
