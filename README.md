@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here we go: OpenAI CEO Sam Altman once called it a &#39;last resort&#39;, but ChatGPT is about to get stuffed with ads](https://www.pcgamer.com/software/ai/here-we-go-openai-ceo-sam-altman-once-called-it-a-last-resort-but-chatgpt-is-about-to-get-stuffed-with-ads/)
- - [The Legend Of Zelda Movie Will Stream Exclusively On Netflix Once It Leaves Theaters](https://kotaku.com/zelda-movie-netflix-streaming-trailer-release-date-2000660665)
- - [Epic Games updates Fortnite island&#39;s gambling rules](https://www.polygon.com/fortnite-epic-games-creative-microtransactions-gambling-update/)<!-- GAME:END -->
+ - [The Toxic Avenger, The Running Man, and The Black Phone 2 are finally streaming this weekend](https://www.polygon.com/new-movies-to-watch-toxic-avenger-running-man-january-15-2026/)
+ - [Steam updates AI disclosure form to specify that it&#39;s focused on AI-generated content that is &#39;consumed by players,&#39; not efficiency tools used behind the scenes](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/)
+ - [Foxhole, the war MMO with months-long battles fought by thousands of real players, is evolving once again with planes, bombers, and paratroopers](https://www.pcgamer.com/games/mmo/foxhole-the-war-mmo-with-months-long-battles-fought-by-thousands-of-real-players-is-evolving-once-again-with-planes-bombers-and-paratroopers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
