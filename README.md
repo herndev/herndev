@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
- - ⏩ [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
+ - 💣 [Like a glove](http://9gag.com/gag/a4PgL9m)
+ - ⏩ [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
  - 👉 [Dab](http://9gag.com/gag/apR70xE)<!-- MEMES:END -->
 
 ---
