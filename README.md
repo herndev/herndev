@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump and Mid-Atlantic governors want tech companies to pay for new power plants](https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump)
- - [Some top California Democrats join Governor Gavin Newsom in opposing a ballot initiative led by a healthcare union seeking a one-time 5% tax on $1B+ in assets &lpar;Bloomberg&rpar;](http://www.techmeme.com/260116/p21#a260116p21)
- - [Widgets in Android 16 QPR3 Beta 2 are getting easier to resize](https://www.androidauthority.com/widget-resizing-3633307/)<!-- TECH:END -->
+ - [Claude Code represents a &quot;ChatGPT moment repeated&quot; and an &quot;extinction-level event&quot; for horizontal software companies focused on human-oriented consumption &lpar;Doug OLaughlin/Fabricated Knowledge&rpar;](http://www.techmeme.com/260116/p23#a260116p23)
+ - [Looking for a high-end gaming monitor on sale? Samsung has two options!](https://www.androidauthority.com/samsung-odyssey-g9-g95c-49-inch-curved-gaming-monitor-samsung-odyssey-ark-55-inch-monitor-deals-3633284/)
+ - [Our Favorite Compact Power Station Is on Sale for 33% Off](https://www.wired.com/story/jackery-explorer-300-plus-deal-126/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
