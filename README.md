@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This awesome Jackery Explorer 240D Power Bank is 33% off right now!](https://www.androidauthority.com/jackery-explorer-240d-power-bank-deal-3-3632810/)
- - [Here’s how Google’s getting ready for Android’s upcoming sideloading restrictions](https://www.androidauthority.com/install-without-verifying-3633199/)
- - [AYANEO’s fancy Game Boy-like handheld is arriving earlier than expected](https://www.androidauthority.com/ayaneo-pocket-vert-new-ship-date-3633223/)<!-- TECH:END -->
+ - [Check out this ASUS ROG Rapture Wi-Fi 6E Gaming Router deal!](https://www.androidauthority.com/asus-rog-rapture-wi-fi-6e-gaming-router-deal-3633285/)
+ - [ChatGPT’s best paid plan finally comes to the US for the cost of a sandwich](https://www.androidauthority.com/chatgpt-go-global-launch-3633299/)
+ - [Google brings its AI videomaker to Workspace users](https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
