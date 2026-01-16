@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [UK police chief resigns over AI intel embarrassment, blames &#39;political and media frenzy&#39; rather than his force&#39;s failure to fact check Copilot](https://www.pcgamer.com/software/ai/uk-police-chief-resigns-over-ai-intel-embarrassment-blames-political-and-media-frenzy-rather-than-his-forces-failure-to-fact-check-copilot/)
- - [Everything We Know About Resident Evil Requiem](https://kotaku.com/resident-evil-requiem-9-capcom-grace-leon-2000632633)
- - [D&amp;D Mystic Subclasses Unearthed Arcana revives disruptive hybrid magic options](https://www.polygon.com/dnd-unearthed-arcana-mystic-subclasses-breakdown/)<!-- GAME:END -->
+ - [Here we go: OpenAI CEO Sam Altman once called it a &#39;last resort&#39;, but ChatGPT is about to get stuffed with ads](https://www.pcgamer.com/software/ai/here-we-go-openai-ceo-sam-altman-once-called-it-a-last-resort-but-chatgpt-is-about-to-get-stuffed-with-ads/)
+ - [The Legend Of Zelda Movie Will Stream Exclusively On Netflix Once It Leaves Theaters](https://kotaku.com/zelda-movie-netflix-streaming-trailer-release-date-2000660665)
+ - [Epic Games updates Fortnite island&#39;s gambling rules](https://www.polygon.com/fortnite-epic-games-creative-microtransactions-gambling-update/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
