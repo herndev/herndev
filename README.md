@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iPhone 18 Pro &amp; iPhone Fold specs detailed in report](https://appleinsider.com/articles/26/01/16/apples-iphone-18-pro-iphone-fold-specs-detailed-in-report?utm_source=rss)
  - [YouTube revises policy to allow full monetization of nongraphic videos on sensitive issues including abortion, self-harm, suicide, and domestic and sexual abuse &lpar;Sam Gutelle/Tubefilter&rpar;](http://www.techmeme.com/260115/p54#a260115p54)
- - [Meta has discontinued its metaverse for work, too](https://www.theverge.com/tech/863209/meta-has-discontinued-its-metaverse-for-work-too)
- - [The best Sonos speakers to buy in 2026](https://www.theverge.com/tech/652171/best-sonos-speakers)<!-- TECH:END -->
+ - [Meta has discontinued its metaverse for work, too](https://www.theverge.com/tech/863209/meta-has-discontinued-its-metaverse-for-work-too)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
