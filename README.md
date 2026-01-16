@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
- - ⏩ [They be like that](http://9gag.com/gag/a87NY9Z)
- - 👉 [Kevin Hart](http://9gag.com/gag/aAyAVxL)<!-- MEMES:END -->
+ - 💣 [God wants this](http://9gag.com/gag/aNDMZwv)
+ - ⏩ [And now it&#39;s time for the French language](http://9gag.com/gag/aD2938x)
+ - 👉 [Thats how it goes](http://9gag.com/gag/a6ZgdnA)<!-- MEMES:END -->
 
 ---
 
