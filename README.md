@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The studio behind the best metroidvania of 2021 has a new game coming out next month—and I&#39;m dropping everything to play it](https://www.pcgamer.com/games/action/the-studio-behind-the-best-metroidvania-of-2021-has-a-new-game-coming-out-next-month-and-im-dropping-everything-to-play-it/)
  - [28 Years Later: The Bone Temple&#39;s ending, explained](https://www.polygon.com/28-years-later-the-bone-temple-ending-explained-post-credits-scene/)
- - [Embark dev teases Arc Raiders 2026 roadmap with &#39;multiple maps coming this year&#39; that span &#39;a spectrum of size&#39;](https://www.pcgamer.com/games/third-person-shooter/embark-dev-teases-arc-raiders-2026-roadmap-with-multiple-maps-coming-this-year-that-span-a-spectrum-of-size/)
- - [Dawn of War 4&#39;s combat director goes even further than the original game&#39;s sync-kill animations: &#39;I don&#39;t think any RTS has really done anything like this in the past&#39;](https://www.pcgamer.com/games/rts/dawn-of-war-4s-combat-director-goes-even-further-than-the-original-games-sync-kill-animations-i-dont-think-any-rts-has-really-done-anything-like-this-in-the-past/)<!-- GAME:END -->
+ - [Embark dev teases Arc Raiders 2026 roadmap with &#39;multiple maps coming this year&#39; that span &#39;a spectrum of size&#39;](https://www.pcgamer.com/games/third-person-shooter/embark-dev-teases-arc-raiders-2026-roadmap-with-multiple-maps-coming-this-year-that-span-a-spectrum-of-size/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
