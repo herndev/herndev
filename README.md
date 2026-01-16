@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
+ - 💣 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
  - ⏩ [Kevin Hart](http://9gag.com/gag/aAyAVxL)
- - 👉 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)<!-- MEMES:END -->
+ - 👉 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)<!-- MEMES:END -->
 
 ---
 
