@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unsealed docs from Elon Musk&#39;s OpenAI lawsuit, set for a jury trial on April 27, show Sutskever&#39;s concerns about treating open-source AI as a &quot;side show&quot;, more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/260116/p11#a260116p11)
  - [This 3D-scanned insole is another example of placebo tech](https://www.theverge.com/column/863144/optimizer-groov-insoles-shoes-wearables-wellness-placebo-tech)
- - [Gemini, privacy, and the new Apple Creator Studio on the AppleInsider Podcast](https://appleinsider.com/articles/26/01/16/gemini-privacy-and-the-new-apple-creator-studio-on-the-appleinsider-podcast?utm_source=rss)
- - [DoorDash Chief Revenue Officer Lee Brown is departing the delivery app company after less than six months; long-term VP Shanna Prevé will become CRO &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260116/p10#a260116p10)<!-- TECH:END -->
+ - [Gemini, privacy, and the new Apple Creator Studio on the AppleInsider Podcast](https://appleinsider.com/articles/26/01/16/gemini-privacy-and-the-new-apple-creator-studio-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
