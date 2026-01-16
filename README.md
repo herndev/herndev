@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The JRPG veteran responsible for Persona and Megami Tensei is working on a &#39;school life RPG&#39; with the Neptunia series studio](https://www.pcgamer.com/games/rpg/the-jrpg-veteran-responsible-for-persona-and-megami-tensei-is-working-on-a-school-life-rpg-with-the-neptunia-series-studio/)
- - [Fatal Fury fans accuse new City of the Wolves trailer of being filled with AI slop: &#39;All that Saudi money and can&#39;t pay someone a couple bucks to make real s**t&#39;](https://www.pcgamer.com/games/fighting/fatal-fury-fans-accuse-new-city-of-the-wolves-trailer-of-being-filled-with-ai-slop-all-that-saudi-money-and-cant-pay-someone-a-couple-bucks-to-make-real-s-t/)
- - [Here&#39;s our first look at Sophie Turner as Lara Croft in the upcoming Tomb Raider show](https://www.pcgamer.com/movies-tv/heres-our-first-look-at-sophie-turner-as-lara-croft-in-the-upcoming-tomb-raider-show/)<!-- GAME:END -->
+ - [28 Years Later: The Bone Temple&#39;s ending, explained](https://www.polygon.com/28-years-later-the-bone-temple-ending-explained-post-credits-scene/)
+ - [Embark dev teases Arc Raiders 2026 roadmap with &#39;multiple maps coming this year&#39; that span &#39;a spectrum of size&#39;](https://www.pcgamer.com/games/third-person-shooter/embark-dev-teases-arc-raiders-2026-roadmap-with-multiple-maps-coming-this-year-that-span-a-spectrum-of-size/)
+ - [Dawn of War 4&#39;s combat director goes even further than the original game&#39;s sync-kill animations: &#39;I don&#39;t think any RTS has really done anything like this in the past&#39;](https://www.pcgamer.com/games/rts/dawn-of-war-4s-combat-director-goes-even-further-than-the-original-games-sync-kill-animations-i-dont-think-any-rts-has-really-done-anything-like-this-in-the-past/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
