@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wild how in nature, they&#39;re intelligent-sadistic killer-super predators, but when they encounter people they just observe for a moment and move on.](http://9gag.com/gag/azxybZq)
- - ⏩ [They be like that](http://9gag.com/gag/a87NY9Z)
- - 👉 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)<!-- MEMES:END -->
+ - 💣 [Kevin Hart](http://9gag.com/gag/aAyAVxL)
+ - ⏩ [Dab](http://9gag.com/gag/apR70xE)
+ - 👉 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)<!-- MEMES:END -->
 
 ---
 
