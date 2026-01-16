@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know](http://9gag.com/gag/awyj7oy)
- - ⏩ [Things that never will happen](http://9gag.com/gag/aXP3peD)
- - 👉 [We need more asylums](http://9gag.com/gag/a34g3M5)<!-- MEMES:END -->
+ - 💣 [Good news everyone.](http://9gag.com/gag/a5QgPWo)
+ - ⏩ [Thank me Later REMASTERED 2026 version](http://9gag.com/gag/apR7BL5)
+ - 👉 [Such realistic cosplay](http://9gag.com/gag/ayNrd8r)<!-- MEMES:END -->
 
 ---
 
