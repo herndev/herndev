@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dab](http://9gag.com/gag/apR70xE)
- - ⏩ [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
+ - 💣 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
+ - ⏩ [RIP Star Trek](http://9gag.com/gag/a7og7Dx)
  - 👉 [Things that never will happen](http://9gag.com/gag/aXP3peD)<!-- MEMES:END -->
 
 ---
