@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thats how it goes](http://9gag.com/gag/a6ZgdnA)
- - ⏩ [QF time](http://9gag.com/gag/a7ogKeq)
- - 👉 [Be Steve Irwin](http://9gag.com/gag/amoQ8vy)<!-- MEMES:END -->
+ - 💣 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
+ - ⏩ [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
+ - 👉 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)<!-- MEMES:END -->
 
 ---
 
