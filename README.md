@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Claude Code represents a &quot;ChatGPT moment repeated&quot; and an &quot;extinction-level event&quot; for horizontal software companies focused on human-oriented consumption &lpar;Doug OLaughlin/Fabricated Knowledge&rpar;](http://www.techmeme.com/260116/p23#a260116p23)
- - [Looking for a high-end gaming monitor on sale? Samsung has two options!](https://www.androidauthority.com/samsung-odyssey-g9-g95c-49-inch-curved-gaming-monitor-samsung-odyssey-ark-55-inch-monitor-deals-3633284/)
- - [Our Favorite Compact Power Station Is on Sale for 33% Off](https://www.wired.com/story/jackery-explorer-300-plus-deal-126/)<!-- TECH:END -->
+ - [The Campaign to Destroy Renee Good](https://www.wired.com/story/the-campaign-to-destroy-renee-good/)
+ - [Google is appealing a judge’s search monopoly ruling](https://www.theverge.com/news/863710/google-search-antitrust-monopoly-appeal)
+ - [EarFun Air Pro 4 Plus deal: Great earbuds that won’t cost an arm and a leg!](https://www.androidauthority.com/earfun-air-pro-4-plus-deal-3633283/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
