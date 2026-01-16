@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check out this ASUS ROG Rapture Wi-Fi 6E Gaming Router deal!](https://www.androidauthority.com/asus-rog-rapture-wi-fi-6e-gaming-router-deal-3633285/)
- - [ChatGPT’s best paid plan finally comes to the US for the cost of a sandwich](https://www.androidauthority.com/chatgpt-go-global-launch-3633299/)
- - [Google brings its AI videomaker to Workspace users](https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace)<!-- TECH:END -->
+ - [Trump and Mid-Atlantic governors want tech companies to pay for new power plants](https://www.theverge.com/news/863620/data-centers-ai-power-auction-trump)
+ - [Some top California Democrats join Governor Gavin Newsom in opposing a ballot initiative led by a healthcare union seeking a one-time 5% tax on $1B+ in assets &lpar;Bloomberg&rpar;](http://www.techmeme.com/260116/p21#a260116p21)
+ - [Widgets in Android 16 QPR3 Beta 2 are getting easier to resize](https://www.androidauthority.com/widget-resizing-3633307/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
