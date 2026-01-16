@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which smartphone trend should die in 2026? Survey reveals an interesting answer.](https://www.androidauthority.com/smartphone-trend-die-2026-poll-results-3632731/)
- - [MediaTek reveals ‘new’ Snapdragon 8 Gen 5 rival, but it shouldn’t have bothered](https://www.androidauthority.com/mediatek-dimensity-9500s-8500-launched-3633019/)
- - [Nothing’s $50 million wild concept phone has three screens and a Kevlar body](https://www.androidauthority.com/nothing-kevlar-wrapped-triple-screen-phone-3633028/)<!-- TECH:END -->
+ - [First vivo and OPPO, now another Android brand will offer an external camera lens](https://www.androidauthority.com/major-android-brand-external-lens-3633058/)
+ - [Cloudflare acquires AI data marketplace Human Native for an undisclosed sum, aiming to create a new system where AI developers pay creators for training content &lpar;Davis Giangiulio/CNBC&rpar;](http://www.techmeme.com/260116/p6#a260116p6)
+ - [Italy&#39;s competition regulator opens two investigations into Microsoft&#39;s Activision Blizzard over sales practices it claims were &quot;misleading and aggressive&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260116/p5#a260116p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
