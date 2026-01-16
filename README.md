@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing’s $50 million wild concept phone has three screens and a Kevlar body](https://www.androidauthority.com/nothing-kevlar-wrapped-triple-screen-phone-3633028/)
- - [This new mid-range phone put some flagships to shame in JerryRigEverything durability test](https://www.androidauthority.com/mid-range-phone-jerryrigeverything-durability-test-3633009/)
- - [Google is finally copying this Apple Watch feature for its Pixel Watch](https://www.androidauthority.com/pixel-watch-left-behind-notification-3633004/)<!-- TECH:END -->
+ - [Which smartphone trend should die in 2026? Survey reveals an interesting answer.](https://www.androidauthority.com/smartphone-trend-die-2026-poll-results-3632731/)
+ - [MediaTek reveals ‘new’ Snapdragon 8 Gen 5 rival, but it shouldn’t have bothered](https://www.androidauthority.com/mediatek-dimensity-9500s-8500-launched-3633019/)
+ - [Nothing’s $50 million wild concept phone has three screens and a Kevlar body](https://www.androidauthority.com/nothing-kevlar-wrapped-triple-screen-phone-3633028/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
