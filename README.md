@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 1TB M5 MacBook Pro hits $1,599 with new B&amp;H Photo deal](https://appleinsider.com/articles/26/01/16/apples-1tb-m5-macbook-pro-hits-1599-with-new-bh-photo-deal?utm_source=rss)
- - [X, Grok Outage Reports Spike and Then Subside](https://www.cnet.com/news-live/x-grok-outage-reports-friday-jan-16-2026/)
- - [Canada is going to start importing Chinese EVs — will the US follow?](https://www.theverge.com/transportation/863393/canada-china-ev-import-trade-deal-us-trump-tariffs)<!-- TECH:END -->
+ - [OpenAI releases a cheaper ChatGPT subscription](https://www.theverge.com/news/863466/openai-chatgpt-go-global-release)
+ - [Visible offers customers $5 off their next bill for Verizon disruption](https://www.androidauthority.com/visible-offers-customers-5-off-their-next-bill-for-verizon-disruption-3633269/)
+ - [Vietnam&#39;s military-run telecom company Viettel begins construction of the country&#39;s first chip plant, with trial production expected to start by late 2027 &lpar;Phuong Nguyen/Reuters&rpar;](http://www.techmeme.com/260116/p15#a260116p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
