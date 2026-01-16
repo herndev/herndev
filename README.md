@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Animal Crossing: New Horizons 3.0 upgrades Kapp&#39;n Tours](https://www.polygon.com/animal-crossing-new-horizons-acnh-update-kappn-boat-tours/)
- - [World of Warcraft&#39;s housing is one of the game&#39;s biggest swings yet](https://www.polygon.com/world-of-warcraft-housing-early-access/)
- - [Keeping Classics Alive: Arcade Archives Reaches 500 Titles with Space Invaders](https://news.xbox.com/en-us/2026/01/16/arcade-archives-500-space-invaders/)<!-- GAME:END -->
+ - [Lorwyn Eclipsed draft guide: Why Mirrorform is the best card in the new MTG set](https://www.polygon.com/lorwyn-eclipsed-draft-sealed-limited-best-card-mirrorform/)
+ - [Escape from Ever After: When Storybooks Meet Corporate Hell](https://news.xbox.com/en-us/2026/01/16/escape-from-ever-after/)
+ - [I don&#39;t know why everyone&#39;s suddenly making games inspired by Spore, but this roguelike twin-stick shooter might be the best attempt yet at realising the lost potential of the cell stage](https://www.pcgamer.com/games/roguelike/i-dont-know-why-everyones-suddenly-making-games-inspired-by-spore-but-this-roguelike-twin-stick-shooter-might-be-the-best-attempt-yet-at-realising-the-lost-potential-of-the-cell-stage/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
