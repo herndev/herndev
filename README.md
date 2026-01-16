@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is finally copying this Apple Watch feature for its Pixel Watch](https://www.androidauthority.com/pixel-watch-left-behind-notification-3633004/)
  - [20% Off Brooks Promo Code &amp; Deals for January 2026](https://www.wired.com/story/brooks-promo-code/)
- - [30% VistaPrint Coupon &amp; Promo Codes | January 2026](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Google is this close to letting you change your Gmail email address](https://www.androidauthority.com/gmail-change-email-address-closer-3632987/)<!-- TECH:END -->
+ - [30% VistaPrint Coupon &amp; Promo Codes | January 2026](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
