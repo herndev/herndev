@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The studio behind the best metroidvania of 2021 has a new game coming out next month—and I&#39;m dropping everything to play it](https://www.pcgamer.com/games/action/the-studio-behind-the-best-metroidvania-of-2021-has-a-new-game-coming-out-next-month-and-im-dropping-everything-to-play-it/)
- - [28 Years Later: The Bone Temple&#39;s ending, explained](https://www.polygon.com/28-years-later-the-bone-temple-ending-explained-post-credits-scene/)
- - [Embark dev teases Arc Raiders 2026 roadmap with &#39;multiple maps coming this year&#39; that span &#39;a spectrum of size&#39;](https://www.pcgamer.com/games/third-person-shooter/embark-dev-teases-arc-raiders-2026-roadmap-with-multiple-maps-coming-this-year-that-span-a-spectrum-of-size/)<!-- GAME:END -->
+ - [Yakuza Kiwami 3 preview: RGG wants to reframe the clunkiest Yakuza game](https://www.polygon.com/yakuza-kiwami-3-dark-ties-preview/)
+ - [Yakuza Kiwami 3 includes the first official emulation of 2 bizarro Sega arcade games, including one like Crazy Taxi but you&#39;re racing an ambulance to the hospital before a patient bleeds to death](https://www.pcgamer.com/games/action/yakuza-kiwami-3-includes-the-first-official-emulation-of-2-bizarro-sega-arcade-games-including-one-like-crazy-taxi-but-youre-racing-an-ambulance-to-the-hospital-before-a-patient-bleeds-to-death/)
+ - [Yakuza Kiwami 3&#39;s new expansion basically turns it into a breakneck roguelite dungeon crawl, complete with random drops and goofy sidekicks](https://www.pcgamer.com/games/action/yakuza-kiwami-3s-new-expansion-basically-turns-it-into-a-breakneck-roguelite-dungeon-crawl-complete-with-random-drops-and-goofy-sidekicks/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
