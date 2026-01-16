@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone 18 Pro &amp; iPhone Fold specs detailed in report](https://appleinsider.com/articles/26/01/16/apples-iphone-18-pro-iphone-fold-specs-detailed-in-report?utm_source=rss)
- - [YouTube revises policy to allow full monetization of nongraphic videos on sensitive issues including abortion, self-harm, suicide, and domestic and sexual abuse &lpar;Sam Gutelle/Tubefilter&rpar;](http://www.techmeme.com/260115/p54#a260115p54)
- - [Meta has discontinued its metaverse for work, too](https://www.theverge.com/tech/863209/meta-has-discontinued-its-metaverse-for-work-too)<!-- TECH:END -->
+ - [Meta will discontinue Workrooms, its VR space for workers, on February 16; Quest headsets and Horizon services will not be sold to businesses as of February 20 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260115/p56#a260115p56)
+ - [Sources: Trump and several state governors agree to direct grid operator PJM to hold an auction for tech companies to fund new power plants due to AI demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/260115/p55#a260115p55)
+ - [Apple&#39;s iPhone 18 Pro &amp; iPhone Fold specs detailed in report](https://appleinsider.com/articles/26/01/16/apples-iphone-18-pro-iphone-fold-specs-detailed-in-report?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
