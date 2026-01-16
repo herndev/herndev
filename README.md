@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They be like that](http://9gag.com/gag/a87NY9Z)
- - ⏩ [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
- - 👉 [Kevin Hart](http://9gag.com/gag/aAyAVxL)<!-- MEMES:END -->
+ - 💣 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)
+ - ⏩ [They be like that](http://9gag.com/gag/a87NY9Z)
+ - 👉 [Dab](http://9gag.com/gag/apR70xE)<!-- MEMES:END -->
 
 ---
 
