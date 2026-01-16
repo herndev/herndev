@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Fat Fingers&#39; May Have Caused Verizon&#39;s Network Outage, According to Analyst](https://www.cnet.com/tech/mobile/fat-fingers-may-have-caused-verizons-network-outage-according-to-analyst/)
- - [Google agrees to pay $8.25M to settle a class-action lawsuit alleging its AdMob SDK illegally collected data from children under age 13 &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/260115/p49#a260115p49)
- - [Natural Cycles launches wristband to replace thermometers for its FDA-cleared birth control app](https://www.theverge.com/news/863046/natural-cycles-wristband-digital-birth-control)<!-- TECH:END -->
+ - [As Meta shifts resources away from its Supernatural VR fitness service, users mourn the loss of a community built around the platform and its coaches &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/260115/p50#a260115p50)
+ - [Grok undressed the mother of one of Elon Musk’s kids — and now she’s suing](https://www.theverge.com/news/863097/ashley-st-clair-elon-musk-grok-undressing-lawsuit)
+ - [Dave Filoni takes charge of Star Wars as new president of Lucasfilm](https://www.theverge.com/entertainment/863065/dave-filoni-lucasfilm-president-star-wars)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
