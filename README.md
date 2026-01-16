@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Dab](http://9gag.com/gag/apR70xE)
- - ⏩ [Like a glove](http://9gag.com/gag/a4PgL9m)
+ - ⏩ [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
  - 👉 [Things that never will happen](http://9gag.com/gag/aXP3peD)<!-- MEMES:END -->
 
 ---
