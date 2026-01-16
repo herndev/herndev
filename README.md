@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Confession review: a spicy horror story made from an odd recipe](https://www.polygon.com/the-confession-review-2026-horror-movie/)
- - [Quarantine Zone: The Last Check review](https://www.pcgamer.com/games/sim/quarantine-zone-the-last-check-review/)
- - [How to get voidhearts in Hytale](https://www.polygon.com/hytale-voidhearts-how-to-get-find-location/)<!-- GAME:END -->
+ - [UK police chief resigns over AI intel embarrassment, blames &#39;political and media frenzy&#39; rather than his force&#39;s failure to fact check Copilot](https://www.pcgamer.com/software/ai/uk-police-chief-resigns-over-ai-intel-embarrassment-blames-political-and-media-frenzy-rather-than-his-forces-failure-to-fact-check-copilot/)
+ - [Everything We Know About Resident Evil Requiem](https://kotaku.com/resident-evil-requiem-9-capcom-grace-leon-2000632633)
+ - [D&amp;D Mystic Subclasses Unearthed Arcana revives disruptive hybrid magic options](https://www.polygon.com/dnd-unearthed-arcana-mystic-subclasses-breakdown/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
