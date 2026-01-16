@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I asked Gemini Guided Learning to make me a better marketer and it’s working](https://www.androidauthority.com/ai-learning-gemini-guided-learning-3632159/)
- - [Worst to best: All the major Android skins, ranked](https://www.androidauthority.com/android-skins-ranked-3456185/)
- - [‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI](https://www.theverge.com/column/863319/highlights-musk-v-altman-openai)<!-- TECH:END -->
+ - [This 3D-scanned insole is another example of placebo tech](https://www.theverge.com/column/863144/optimizer-groov-insoles-shoes-wearables-wellness-placebo-tech)
+ - [Gemini, privacy, and the new Apple Creator Studio on the AppleInsider Podcast](https://appleinsider.com/articles/26/01/16/gemini-privacy-and-the-new-apple-creator-studio-on-the-appleinsider-podcast?utm_source=rss)
+ - [DoorDash Chief Revenue Officer Lee Brown is departing the delivery app company after less than six months; long-term VP Shanna Prevé will become CRO &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260116/p10#a260116p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
