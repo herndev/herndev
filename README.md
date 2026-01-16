@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [nVidia is squeezing out Apple for TSMC foundry capacity](https://appleinsider.com/articles/26/01/16/nvidia-is-squeezing-out-apple-for-tsmc-foundry-capacity?utm_source=rss)
- - [From charming to consumer corporation -- how Apple has branded itself over the years.](https://appleinsider.com/articles/26/01/16/from-charming-to-consumer-corporation----how-apple-has-branded-itself-over-the-years?utm_source=rss)
- - [9 Best Wi-Fi Routers of 2026 for Working, Gaming, and Streaming](https://www.wired.com/gallery/best-wifi-routers/)<!-- TECH:END -->
+ - [I asked Gemini Guided Learning to make me a better marketer and it’s working](https://www.androidauthority.com/ai-learning-gemini-guided-learning-3632159/)
+ - [Worst to best: All the major Android skins, ranked](https://www.androidauthority.com/android-skins-ranked-3456185/)
+ - [‘Sideshow’ concerns and billionaire dreams: What I learned from Elon Musk’s lawsuit against OpenAI](https://www.theverge.com/column/863319/highlights-musk-v-altman-openai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
