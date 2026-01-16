@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
- - ⏩ [Like a glove](http://9gag.com/gag/a4PgL9m)
+ - 💣 [They be like that](http://9gag.com/gag/a87NY9Z)
+ - ⏩ [Dab](http://9gag.com/gag/apR70xE)
  - 👉 [I&#39;ve reached my limit, won&#39;t buy it](http://9gag.com/gag/a7ogygr)<!-- MEMES:END -->
 
 ---
