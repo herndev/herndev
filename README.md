@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
- - ⏩ [Well Well Well. How the turntable](http://9gag.com/gag/aNDMon6)
- - 👉 [Sprich deutsch...](http://9gag.com/gag/awyjb4y)<!-- MEMES:END -->
+ - ⏩ [Sprich deutsch...](http://9gag.com/gag/awyjb4y)
+ - 👉 [Dab](http://9gag.com/gag/apR70xE)<!-- MEMES:END -->
 
 ---
 
