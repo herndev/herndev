@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
- - ⏩ [Kevin Hart](http://9gag.com/gag/aAyAVxL)
+ - 💣 [What is succed un life ?](http://9gag.com/gag/abADb0p)
+ - ⏩ [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
  - 👉 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)<!-- MEMES:END -->
 
 ---
