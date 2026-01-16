@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank me Later REMASTERED 2026 version](http://9gag.com/gag/apR7BL5)
- - ⏩ [Big step](http://9gag.com/gag/aXP3pOz)
- - 👉 [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)<!-- MEMES:END -->
+ - 💣 [Dab](http://9gag.com/gag/apR70xE)
+ - ⏩ [Like a glove](http://9gag.com/gag/a4PgL9m)
+ - 👉 [Things that never will happen](http://9gag.com/gag/aXP3peD)<!-- MEMES:END -->
 
 ---
 
