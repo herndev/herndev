@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Like a glove](http://9gag.com/gag/a4PgL9m)
- - ⏩ [They be like that](http://9gag.com/gag/a87NY9Z)
- - 👉 [CGI money was spent](http://9gag.com/gag/aYQ6wOw)<!-- MEMES:END -->
+ - 💣 [They be like that](http://9gag.com/gag/a87NY9Z)
+ - ⏩ [The HR department is a mystery to us all](http://9gag.com/gag/aD29m4O)
+ - 👉 [Kevin Hart](http://9gag.com/gag/aAyAVxL)<!-- MEMES:END -->
 
 ---
 
