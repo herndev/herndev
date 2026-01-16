@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kevin Hart](http://9gag.com/gag/aAyAVxL)
- - ⏩ [Dab](http://9gag.com/gag/apR70xE)
- - 👉 [What men do just for some laughs](http://9gag.com/gag/amoQX6X)<!-- MEMES:END -->
+ - 💣 [Boost your reading speed and unlock your brain&#39;s full potential](http://9gag.com/gag/ayNr5VW)
+ - ⏩ [Every tourist hopes that this stone will not fall off today.](http://9gag.com/gag/azxyE5b)
+ - 👉 [Maybe not a good move](http://9gag.com/gag/aqyMZR7)<!-- MEMES:END -->
 
 ---
 
