@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A second US Sphere could come to Maryland](https://www.theverge.com/tech/864192/sphere-entertainment-mini-venue-maryland-national-harbor)
- - [Voice search in the Google app is leaning hard into the Gemini aesthetic](https://www.androidauthority.com/google-voice-search-refresh-3633701/)
- - [The super fun UGREEN Uno 30W charger is at a record-low price!](https://www.androidauthority.com/ugreen-uno-30w-deal-3633699/)<!-- TECH:END -->
+ - [How much can a city take?](https://www.theverge.com/policy/864195/minneapolis-ice-invasion-organizing-immigration)
+ - [You have 20 hours to save $50 on the Amazon Kindle Colorsoft](https://www.androidauthority.com/amazon-kindle-colorsoft-deal-4-3633697/)
+ - [Anthropic&#39;s Claude Cowork launch has revived fears about disruption that weighed on SaaS stocks in 2025; Morgan Stanley SaaS index is down 15% so far in 2026 &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/260119/p22#a260119p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
