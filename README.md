@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Things we do for money](http://9gag.com/gag/avyqrq5)
- - ⏩ [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)
- - 👉 [No title](http://9gag.com/gag/abADzrO)<!-- MEMES:END -->
+ - 💣 [Legit](http://9gag.com/gag/aZZXmgz)
+ - ⏩ [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
+ - 👉 [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)<!-- MEMES:END -->
 
 ---
 
