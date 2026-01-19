@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
- - ⏩ [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 👉 [Honesty](http://9gag.com/gag/a6ZgVN8)<!-- MEMES:END -->
+ - ⏩ [Honesty](http://9gag.com/gag/a6ZgVN8)
+ - 👉 [Extra Protein](http://9gag.com/gag/aGyveEG)<!-- MEMES:END -->
 
 ---
 
