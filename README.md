@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RuneScape&#39;s 2026 roadmap reveals the biggest region in the game&#39;s history](https://www.polygon.com/runescape-roadmap-2026-havenhythe/)
- - [A stupid Windows 11 requirement makes Asus&#39; simple new Wi-Fi motherboard feature a winner](https://www.pcgamer.com/hardware/motherboards/a-stupid-windows-11-requirement-makes-asus-simple-new-wi-fi-motherboard-feature-a-winner/)
- - [One of my most anticipated games for 2026 is a little sandbox puzzle game that plays like the lovechild of Unpacking and PowerWash Simulator](https://www.pcgamer.com/games/sim/one-of-my-most-anticipated-games-for-2026-is-a-little-sandbox-puzzle-game-that-plays-like-the-lovechild-of-unpacking-and-powerwash-simulator/)<!-- GAME:END -->
+ - [The guy who discovered South Park&#39;s creators was shocked by the new season as you were](https://www.polygon.com/brian-graden-south-park-interview-matt-stone-trey-parker-donald-trump/)
+ - [Amazon Goes on a Power Bank Clearance, INIU 10,000mAh Portable Charger Is Now Cheap Enough to Buy a Few](https://kotaku.com/amazon-goes-on-a-power-bank-clearance-iniu-10000mah-portable-charger-is-now-cheap-enough-to-buy-a-few-2000659471)
+ - [Micron signs a deal to acquire a chip foundry in Taiwan for $1.8 billion, though it won&#39;t make a dent in the memory supply crisis until 2027 at the earliest](https://www.pcgamer.com/hardware/memory/micron-signs-a-deal-to-acquire-a-chip-foundry-in-taiwan-for-usd1-8-billion-though-it-wont-make-a-dent-in-the-memory-supply-crisis-until-2027-at-the-earliest/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
