@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thinking about getting YouTube TV? Google just made it way cheaper to try](https://www.androidauthority.com/youtube-tv-limited-time-offer-new-subscribers-3633475/)
- - [Meta&#39;s VR layoffs may help the industry long term, as most affected roles focused on first-party content and games that competed with the broader ecosystem &lpar;Palmer Luckey/@palmerluckey&rpar;](http://www.techmeme.com/260119/p1#a260119p1)
- - [A look at the business and geopolitical considerations behind TSMC&#39;s international expansion, as Taiwan commits to spend $250B+ in the US in a trade deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260118/p16#a260118p16)<!-- TECH:END -->
+ - [The Race to Build the DeepSeek of Europe Is On](https://www.wired.com/story/europe-race-us-deepseek-sovereign-ai/)
+ - [Shenzhen-based UBTech signed deals to supply its Walker S2 humanoid robots to Airbus and Texas Instruments, and says it aims to produce 10,000+ units in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260119/p2#a260119p2)
+ - [Thinking about getting YouTube TV? Google just made it way cheaper to try](https://www.androidauthority.com/youtube-tv-limited-time-offer-new-subscribers-3633475/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
