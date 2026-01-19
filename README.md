@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PSA - If you want a copy of the original Yakuza 3 PC remaster without also paying for 6 other games, you&#39;d better snap it up soon](https://www.pcgamer.com/games/action/psa-if-you-want-a-copy-of-the-original-yakuza-3-pc-remaster-without-also-paying-for-6-other-games-youd-better-snap-it-up-soon/)
- - [E33 finally lost at the New York Game Awards &lpar;but not GOTY&rpar;](https://www.polygon.com/new-york-game-awards-2025-winners-goty/)
- - [A Knight of the Seven Kingdoms cut one major poop gag &lpar;but kept the rest&rpar;](https://www.polygon.com/knight-of-the-seven-kingdoms-poop-joke-cut-interview/)<!-- GAME:END -->
+ - [RuneScape&#39;s 2026 roadmap reveals the biggest region in the game&#39;s history](https://www.polygon.com/runescape-roadmap-2026-havenhythe/)
+ - [A stupid Windows 11 requirement makes Asus&#39; simple new Wi-Fi motherboard feature a winner](https://www.pcgamer.com/hardware/motherboards/a-stupid-windows-11-requirement-makes-asus-simple-new-wi-fi-motherboard-feature-a-winner/)
+ - [One of my most anticipated games for 2026 is a little sandbox puzzle game that plays like the lovechild of Unpacking and PowerWash Simulator](https://www.pcgamer.com/games/sim/one-of-my-most-anticipated-games-for-2026-is-a-little-sandbox-puzzle-game-that-plays-like-the-lovechild-of-unpacking-and-powerwash-simulator/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
