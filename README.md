@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Campaign to Destroy Renee Good](https://www.wired.com/story/the-campaign-to-destroy-renee-good/)
- - [Google is appealing a judge’s search monopoly ruling](https://www.theverge.com/news/863710/google-search-antitrust-monopoly-appeal)
- - [EarFun Air Pro 4 Plus deal: Great earbuds that won’t cost an arm and a leg!](https://www.androidauthority.com/earfun-air-pro-4-plus-deal-3633283/)<!-- TECH:END -->
+ - [Similarweb: Claude&#39;s web audience more than doubled in December 2025 compared with December 2024, as many coders spent their holiday breaks on a &quot;Claude bender&quot; &lpar;Bradley Olson/Wall Street Journal&rpar;](http://www.techmeme.com/260118/p14#a260118p14)
+ - [Today&#39;s Wordle Hints, Answer and Help for Jan. 19, #1675](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-jan-19-1675/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Jan. 19 #687](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-jan-19-687/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
