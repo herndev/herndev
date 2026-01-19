@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
+ - 💣 [Things we do for money](http://9gag.com/gag/avyqrq5)
  - ⏩ [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)
- - 👉 [Good day to you too, chicken](http://9gag.com/gag/a6ZgV4R)<!-- MEMES:END -->
+ - 👉 [No title](http://9gag.com/gag/abADzrO)<!-- MEMES:END -->
 
 ---
 
