@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The next One UI beta for Galaxy S25 is around the corner, and here’s what it could bring](https://www.androidauthority.com/samsung-one-ui-8-5-beta-galaxy-s25-3633533/)
- - [Threads overtakes X on mobile, but still lags far behind](https://www.theverge.com/news/864099/threads-overtakes-x-daily-mobile-ios-android-users)
- - [Q&amp;A with FedEx CEO Raj Subramaniam, only the second CEO in the company&#39;s history, on humanoid robots, automation, AI, drones, US-China trade tensions, and more &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/260119/p9#a260119p9)<!-- TECH:END -->
+ - [When forecasting a MacBook Pro release date, use order delays &amp; software releases cautiously](https://appleinsider.com/articles/26/01/19/when-forecasting-a-macbook-pro-release-date-use-order-delays-software-releases-cautiously?utm_source=rss)
+ - [Are DJI Drones Still Banned? &lpar;2026&rpar;](https://www.wired.com/story/whats-going-on-with-the-dji-drone-ban/)
+ - [Sources: Microsoft is preparing to launch a session-based ad-supported Xbox Cloud Gaming tier in 2026; users note Xbox Cloud Gaming now references &quot;ad support&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/260119/p13#a260119p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
