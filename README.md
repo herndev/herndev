@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The guy who discovered South Park&#39;s creators was shocked by the new season as you were](https://www.polygon.com/brian-graden-south-park-interview-matt-stone-trey-parker-donald-trump/)
- - [Amazon Goes on a Power Bank Clearance, INIU 10,000mAh Portable Charger Is Now Cheap Enough to Buy a Few](https://kotaku.com/amazon-goes-on-a-power-bank-clearance-iniu-10000mah-portable-charger-is-now-cheap-enough-to-buy-a-few-2000659471)
- - [Micron signs a deal to acquire a chip foundry in Taiwan for $1.8 billion, though it won&#39;t make a dent in the memory supply crisis until 2027 at the earliest](https://www.pcgamer.com/hardware/memory/micron-signs-a-deal-to-acquire-a-chip-foundry-in-taiwan-for-usd1-8-billion-though-it-wont-make-a-dent-in-the-memory-supply-crisis-until-2027-at-the-earliest/)<!-- GAME:END -->
+ - [Mio: Memories in Orbit: 2026&#39;s best Metroidvania &lpar;already&rpar;](https://www.polygon.com/mio-memories-in-orbit-review/)
+ - [New Marathon Story Trailer Leaks Final Release Date](https://kotaku.com/marathon-release-date-trailer-leak-bungie-2000660975)
+ - [The 15-year-old star of 28 Years Later: The Bone Temple wants to see his character in Dead by Daylight](https://www.pcgamer.com/games/horror/the-15-year-old-star-of-28-years-later-the-bone-temple-wants-to-see-his-character-in-dead-by-daylight/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
