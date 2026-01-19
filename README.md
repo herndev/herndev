@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mio: Memories in Orbit: 2026&#39;s best Metroidvania &lpar;already&rpar;](https://www.polygon.com/mio-memories-in-orbit-review/)
- - [New Marathon Story Trailer Leaks Final Release Date](https://kotaku.com/marathon-release-date-trailer-leak-bungie-2000660975)
- - [The 15-year-old star of 28 Years Later: The Bone Temple wants to see his character in Dead by Daylight](https://www.pcgamer.com/games/horror/the-15-year-old-star-of-28-years-later-the-bone-temple-wants-to-see-his-character-in-dead-by-daylight/)<!-- GAME:END -->
+ - [Modder Blasts ‘Corpo Logic’ Over Cyberpunk 2077 VR Takedown](https://kotaku.com/cyberpunk-2077-vr-mod-baldurs-gate-3-takedown-2000660987)
+ - [Edea, Possessed Sorceress MTG decklist: A secret Edge of Eternities Commander deck](https://www.polygon.com/edea-possessed-sorceress-commander-decklist-mtg/)
+ - [How to get cobalt in Hytale](https://www.pcgamer.com/games/survival-crafting/hytale-cobalt-ore-location/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
