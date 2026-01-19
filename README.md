@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
- - ⏩ [I would watch it](http://9gag.com/gag/aXP3A3z)
- - 👉 [Widening your audience while shrinking your fan base.](http://9gag.com/gag/a9ywAqZ)<!-- MEMES:END -->
+ - 💣 [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)
+ - ⏩ [Honesty](http://9gag.com/gag/a6ZgVN8)
+ - 👉 [Laryngoscopy](http://9gag.com/gag/abAD6QO)<!-- MEMES:END -->
 
 ---
 
