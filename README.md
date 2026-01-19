@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK government will take a £25M stake in Octopus Energy&#39;s tech spin-off Kraken, last valued at $8.65B, in an effort to encourage Kraken to list in London &lpar;Financial Times&rpar;](http://www.techmeme.com/260119/p21#a260119p21)
- - [Refresh your Mac desktop with monitor deals of up to $300 off](https://appleinsider.com/articles/26/01/19/refresh-your-mac-desktop-with-monitor-deals-of-up-to-300-off?utm_source=rss)
- - [Google Calendar is making it harder to lose track of all your multiple calendars](https://www.androidauthority.com/google-calender-show-secondary-calendars-3633674/)<!-- TECH:END -->
+ - [A second US Sphere could come to Maryland](https://www.theverge.com/tech/864192/sphere-entertainment-mini-venue-maryland-national-harbor)
+ - [Voice search in the Google app is leaning hard into the Gemini aesthetic](https://www.androidauthority.com/google-voice-search-refresh-3633701/)
+ - [The super fun UGREEN Uno 30W charger is at a record-low price!](https://www.androidauthority.com/ugreen-uno-30w-deal-3633699/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
