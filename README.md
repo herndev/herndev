@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good news everyone.](http://9gag.com/gag/a5QgPWo)
- - ⏩ [Thank me Later REMASTERED 2026 version](http://9gag.com/gag/apR7BL5)
- - 👉 [Such realistic cosplay](http://9gag.com/gag/ayNrd8r)<!-- MEMES:END -->
+ - 💣 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
+ - ⏩ [I would watch it](http://9gag.com/gag/aXP3A3z)
+ - 👉 [Widening your audience while shrinking your fan base.](http://9gag.com/gag/a9ywAqZ)<!-- MEMES:END -->
 
 ---
 
