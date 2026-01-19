@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
- - ⏩ [Honesty](http://9gag.com/gag/a6ZgVN8)
- - 👉 [Hmmmm !!](http://9gag.com/gag/avyqG35)<!-- MEMES:END -->
+ - 💣 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
+ - ⏩ [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 👉 [Any thoughts?](http://9gag.com/gag/aNDM1Bw)<!-- MEMES:END -->
 
 ---
 
