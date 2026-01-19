@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The memory shortage that is spiking RAM prices is now expanding to the broader PC market, driving price hikes for GPUs, high-capacity SSDs, and hard drives &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/260119/p3#a260119p3)
- - [Share links on Google Messages? Google is working on a feature for you](https://www.androidauthority.com/google-messages-link-copy-url-3633480/)
- - [Your Pixel 10 could soon get a lot smarter thanks to a major Magic Cue expansion](https://www.androidauthority.com/google-pixel-10-magic-cue-wallet-tasks-integration-apk-teardown-3633483/)<!-- TECH:END -->
+ - [Capturing the Moment a White Dwarf Exploded](https://www.wired.com/story/capturing-the-moment-a-white-dwarf-exploded/)
+ - [Because of Taylor Swift, I Tried an Acupressure Mat. Now I Can’t Live Without It](https://www.cnet.com/health/taylor-swift-i-tried-acupressure-mat/)
+ - [Sources: political appointees at the US CISA blocked Acting Director Madhu Gottumukkala&#39;s attempt to oust the agency&#39;s Chief Information Officer Robert Costello &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260119/p5#a260119p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
