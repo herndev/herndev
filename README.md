@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)
- - ⏩ [Honesty](http://9gag.com/gag/a6ZgVN8)
- - 👉 [Laryngoscopy](http://9gag.com/gag/abAD6QO)<!-- MEMES:END -->
+ - 💣 [Beginning to Believe](http://9gag.com/gag/ae9zYbj)
+ - ⏩ [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)
+ - 👉 [Good day to you too, chicken](http://9gag.com/gag/a6ZgV4R)<!-- MEMES:END -->
 
 ---
 
