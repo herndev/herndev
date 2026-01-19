@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [When forecasting a MacBook Pro release date, use order delays &amp; software releases cautiously](https://appleinsider.com/articles/26/01/19/when-forecasting-a-macbook-pro-release-date-use-order-delays-software-releases-cautiously?utm_source=rss)
- - [Are DJI Drones Still Banned? &lpar;2026&rpar;](https://www.wired.com/story/whats-going-on-with-the-dji-drone-ban/)
- - [Sources: Microsoft is preparing to launch a session-based ad-supported Xbox Cloud Gaming tier in 2026; users note Xbox Cloud Gaming now references &quot;ad support&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/260119/p13#a260119p13)<!-- TECH:END -->
+ - [Animal Crossing: New Horizons added just enough to suck me back in](https://www.theverge.com/games/863747/animal-crossing-new-horizons-update-3-0-switch-2-quality-of-life)
+ - [NYSE plans to use its tech that matches buyers and sellers, alongside blockchain networks, to facilitate real-time trading of tokenized securities in 2026 &lpar;Katherine Doherty/Bloomberg&rpar;](http://www.techmeme.com/260119/p15#a260119p15)
+ - [New Pixel 10a leak reveals launch date and some good news on pricing](https://www.androidauthority.com/google-pixel-10a-pricing-availability-leak-3633563/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
