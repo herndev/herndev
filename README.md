@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI executive Chris Lehane says the company is &quot;on track&quot; to unveil its first device in the &quot;latter part&quot; of 2026; reports suggest it will be a wearable &lpar;Axios&rpar;](http://www.techmeme.com/260119/p18#a260119p18)
- - [Gamers love AI in game dev — they just don&amp;#8217;t know it yet, says Razer&amp;#8217;s CEO](https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview)
- - [This 5-foot lamp is a supersized tribute to the world’s most iconic pen](https://www.theverge.com/tech/864127/seletti-bic-ballpoint-pen-pendant-lamp-maison-objet)<!-- TECH:END -->
+ - [OnePlus 13 update expands bypass charging and upgrades photo editing](https://www.androidauthority.com/oneplus-13-oxygenos-update-january-3633619/)
+ - [Bungie’s Marathon shooter launches on March 5th](https://www.theverge.com/news/864146/bungie-marathon-release-date-march-5th-price)
+ - [The UK Gambling Commission says Meta is letting illegal gambling sites advertise on Facebook and Instagram, calling its ad library a &quot;window into criminality&quot; &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/260119/p19#a260119p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
