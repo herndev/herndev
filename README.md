@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Velcro, What a rip off...](http://9gag.com/gag/a6Zgo8e)
- - ⏩ [China&#39;s ceramic artists](http://9gag.com/gag/agm9XY6)
- - 👉 [Holz](http://9gag.com/gag/aVvr3mw)<!-- MEMES:END -->
+ - 💣 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
+ - ⏩ [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
+ - 👉 [Extra Protein](http://9gag.com/gag/aGyveEG)<!-- MEMES:END -->
 
 ---
 
