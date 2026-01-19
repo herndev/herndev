@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 13 update expands bypass charging and upgrades photo editing](https://www.androidauthority.com/oneplus-13-oxygenos-update-january-3633619/)
- - [Bungie’s Marathon shooter launches on March 5th](https://www.theverge.com/news/864146/bungie-marathon-release-date-march-5th-price)
- - [The UK Gambling Commission says Meta is letting illegal gambling sites advertise on Facebook and Instagram, calling its ad library a &quot;window into criminality&quot; &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/260119/p19#a260119p19)<!-- TECH:END -->
+ - [Sources: Seoul-based AI chip designer FuriosaAI seeks to raise a $300M-$500M Series D to fund mass production of its 2nd-gen RNGD chip and is eyeing a 2027 IPO &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260119/p20#a260119p20)
+ - [After years of rumors, Face ID without Dynamic Island may come to iPhone 18](https://appleinsider.com/articles/26/01/19/after-years-of-rumors-face-id-without-dynamic-island-may-come-to-iphone-18?utm_source=rss)
+ - [Quick Share is crashing on Android 16 QPR3 Beta 2; are you affected?](https://www.androidauthority.com/quick-share-qpr3-beta-2-3633603/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
