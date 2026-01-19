@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How much can a city take?](https://www.theverge.com/policy/864195/minneapolis-ice-invasion-organizing-immigration)
- - [You have 20 hours to save $50 on the Amazon Kindle Colorsoft](https://www.androidauthority.com/amazon-kindle-colorsoft-deal-4-3633697/)
- - [Anthropic&#39;s Claude Cowork launch has revived fears about disruption that weighed on SaaS stocks in 2025; Morgan Stanley SaaS index is down 15% so far in 2026 &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/260119/p22#a260119p22)<!-- TECH:END -->
+ - [This new retro handheld keeps the Game Boy look, but modernizes the controls](https://www.androidauthority.com/trimui-brick-pro-teaser-3633744/)
+ - [How to use an iPhone to take pictures of the Aurora Borealis](https://appleinsider.com/inside/ios-26/tips/how-to-use-an-iphone-to-take-pictures-of-the-aurora-borealis?utm_source=rss)
+ - [Hot deal: Samsung Galaxy S25 FE drops to its lowest price ever](https://www.androidauthority.com/samsung-galaxy-s25-fe-deal-3-3633696/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
