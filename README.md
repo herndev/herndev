@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI executive Chris Lehane says the company is &quot;on track&quot; to unveil its first device in the &quot;latter part&quot; of 2026; reports suggest it will be a wearable &lpar;Axios&rpar;](http://www.techmeme.com/260119/p18#a260119p18)
  - [Gamers love AI in game dev — they just don&amp;#8217;t know it yet, says Razer&amp;#8217;s CEO](https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview)
- - [This 5-foot lamp is a supersized tribute to the world’s most iconic pen](https://www.theverge.com/tech/864127/seletti-bic-ballpoint-pen-pendant-lamp-maison-objet)
- - [Dynamic Island will move &amp; get really tiny, if a leaker who&#39;s being sued by Apple is right](https://appleinsider.com/articles/26/01/19/dynamic-island-will-move-get-really-tiny-if-a-leaker-whos-being-sued-by-apple-is-right?utm_source=rss)<!-- TECH:END -->
+ - [This 5-foot lamp is a supersized tribute to the world’s most iconic pen](https://www.theverge.com/tech/864127/seletti-bic-ballpoint-pen-pendant-lamp-maison-objet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
