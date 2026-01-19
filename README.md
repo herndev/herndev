@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Toxic Avenger, The Running Man, and The Black Phone 2 are finally streaming this weekend](https://www.polygon.com/new-movies-to-watch-toxic-avenger-running-man-january-15-2026/)
- - [Steam updates AI disclosure form to specify that it&#39;s focused on AI-generated content that is &#39;consumed by players,&#39; not efficiency tools used behind the scenes](https://www.pcgamer.com/software/ai/steam-updates-ai-disclosure-form-to-specify-that-its-focused-on-ai-generated-content-that-is-consumed-by-players-not-efficiency-tools-used-behind-the-scenes/)
- - [Foxhole, the war MMO with months-long battles fought by thousands of real players, is evolving once again with planes, bombers, and paratroopers](https://www.pcgamer.com/games/mmo/foxhole-the-war-mmo-with-months-long-battles-fought-by-thousands-of-real-players-is-evolving-once-again-with-planes-bombers-and-paratroopers/)<!-- GAME:END -->
+ - [Game of Thrones interactive map of Westeros, Essos, and more](https://www.polygon.com/game-of-thrones-interactive-map-westeros/)
+ - [Hero shooter Highguard reportedly didn&#39;t even pay for the Game Awards slot that&#39;s earned it so much preemptive hate—the showrunners thought it deserved the spotlight](https://www.pcgamer.com/games/fps/hero-shooter-highguard-reportedly-didnt-even-pay-for-the-game-awards-slot-thats-earned-it-so-much-preemptive-hate-the-showrunners-thought-it-deserved-the-spotlight/)
+ - [Wikipedia turns 25, still boasting zero ads and over 7 billion visitors per month despite the rise of AI and threats of government repression](https://www.pcgamer.com/gaming-industry/wikipedia-turns-25-still-boasting-zero-ads-and-over-7-billion-visitors-per-month-despite-the-rise-of-ai-and-threats-of-government-repression/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
