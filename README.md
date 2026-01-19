@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honesty](http://9gag.com/gag/a6ZgVN8)
- - ⏩ [Legit](http://9gag.com/gag/aZZXmgz)
- - 👉 [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)<!-- MEMES:END -->
+ - 💣 [I would watch it](http://9gag.com/gag/aXP3A3z)
+ - ⏩ [I was there, it is true](http://9gag.com/gag/ae9zbgj)
+ - 👉 [Honesty](http://9gag.com/gag/a6ZgVN8)<!-- MEMES:END -->
 
 ---
 
