@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I would watch it](http://9gag.com/gag/aXP3A3z)
- - ⏩ [I was there, it is true](http://9gag.com/gag/ae9zbgj)
- - 👉 [Honesty](http://9gag.com/gag/a6ZgVN8)<!-- MEMES:END -->
+ - 💣 [Honesty](http://9gag.com/gag/a6ZgVN8)
+ - ⏩ [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 👉 [Laryngoscopy](http://9gag.com/gag/abAD6QO)<!-- MEMES:END -->
 
 ---
 
