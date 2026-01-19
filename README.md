@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I restarted using Apple Watch after two years and can’t believe I ever quit](https://www.androidauthority.com/returned-to-smartwatches-after-two-years-3633112/)
- - [Sources: after five Thinking Machines staff left, investors are rattled, potentially impacting fundraising; two researchers quit via Slack during an all-hands &lpar;The Information&rpar;](http://www.techmeme.com/260119/p7#a260119p7)
- - [Chinese smartphone shipments fell 1.6% YoY in Q4 2025 and 0.6% YoY for 2025 due to weak demand, rising prices, and memory shortages; iPhone shipments rose 28% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/260119/p6#a260119p6)<!-- TECH:END -->
+ - [The next One UI beta for Galaxy S25 is around the corner, and here’s what it could bring](https://www.androidauthority.com/samsung-one-ui-8-5-beta-galaxy-s25-3633533/)
+ - [Threads overtakes X on mobile, but still lags far behind](https://www.theverge.com/news/864099/threads-overtakes-x-daily-mobile-ios-android-users)
+ - [Q&amp;A with FedEx CEO Raj Subramaniam, only the second CEO in the company&#39;s history, on humanoid robots, automation, AI, drones, US-China trade tensions, and more &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/260119/p9#a260119p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
