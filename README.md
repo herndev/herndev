@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google confirms ‘high-friction’ sideloading flow is coming to Android](https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/)
  - [Orange is NOT the new black as Galaxy S26 Ultra colors leak without it](https://www.androidauthority.com/samsung-galaxy-s26-ultra-colors-leak-3633454/)
- - [OpenAI CFO Sarah Friar says the company&#39;s compute grew from 0.2 GW in 2023 to ~1.9 GW in 2025 and annualized revenue grew from $2B in 2023 to $20B+ in 2025 &lpar;Sarah Friar/OpenAI&rpar;](http://www.techmeme.com/260118/p15#a260118p15)
- - [Similarweb: Claude&#39;s web audience more than doubled in December 2025 compared with December 2024, as many coders spent their holiday breaks on a &quot;Claude bender&quot; &lpar;Bradley Olson/Wall Street Journal&rpar;](http://www.techmeme.com/260118/p14#a260118p14)<!-- TECH:END -->
+ - [OpenAI CFO Sarah Friar says the company&#39;s compute grew from 0.2 GW in 2023 to ~1.9 GW in 2025 and annualized revenue grew from $2B in 2023 to $20B+ in 2025 &lpar;Sarah Friar/OpenAI&rpar;](http://www.techmeme.com/260118/p15#a260118p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
