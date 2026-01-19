@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What is the Blackfyre Rebellion and why is it important to A Knight of the Seven Kingdoms?](https://www.polygon.com/blackfyre-rebellion-explainer-knight-of-the-seven-kingdoms/)
- - [Five new Steam games you probably missed &lpar;January 19, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-january-19-2026/)
- - [Game of Thrones interactive map of Westeros, Essos, and more](https://www.polygon.com/game-of-thrones-interactive-map-westeros/)<!-- GAME:END -->
+ - [E33 finally lost at the New York Game Awards &lpar;but not GOTY&rpar;](https://www.polygon.com/new-york-game-awards-2025-winners-goty/)
+ - [A Knight of the Seven Kingdoms cut one major poop gag &lpar;but kept the rest&rpar;](https://www.polygon.com/knight-of-the-seven-kingdoms-poop-joke-cut-interview/)
+ - [What is the Blackfyre Rebellion and why is it important to A Knight of the Seven Kingdoms?](https://www.polygon.com/blackfyre-rebellion-explainer-knight-of-the-seven-kingdoms/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
