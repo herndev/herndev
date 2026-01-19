@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PSA - If you want a copy of the original Yakuza 3 PC remaster without also paying for 6 other games, you&#39;d better snap it up soon](https://www.pcgamer.com/games/action/psa-if-you-want-a-copy-of-the-original-yakuza-3-pc-remaster-without-also-paying-for-6-other-games-youd-better-snap-it-up-soon/)
  - [E33 finally lost at the New York Game Awards &lpar;but not GOTY&rpar;](https://www.polygon.com/new-york-game-awards-2025-winners-goty/)
- - [A Knight of the Seven Kingdoms cut one major poop gag &lpar;but kept the rest&rpar;](https://www.polygon.com/knight-of-the-seven-kingdoms-poop-joke-cut-interview/)
- - [What is the Blackfyre Rebellion and why is it important to A Knight of the Seven Kingdoms?](https://www.polygon.com/blackfyre-rebellion-explainer-knight-of-the-seven-kingdoms/)<!-- GAME:END -->
+ - [A Knight of the Seven Kingdoms cut one major poop gag &lpar;but kept the rest&rpar;](https://www.polygon.com/knight-of-the-seven-kingdoms-poop-joke-cut-interview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
