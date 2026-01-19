@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
- - ⏩ [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
- - 👉 [Extra Protein](http://9gag.com/gag/aGyveEG)<!-- MEMES:END -->
+ - ⏩ [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 👉 [No title](http://9gag.com/gag/abADzrO)<!-- MEMES:END -->
 
 ---
 
