@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
- - ⏩ [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)
- - 👉 [Things we do for money](http://9gag.com/gag/avyqrq5)<!-- MEMES:END -->
+ - 💣 [Honesty](http://9gag.com/gag/a6ZgVN8)
+ - ⏩ [Laryngoscopy](http://9gag.com/gag/abAD6QO)
+ - 👉 [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)<!-- MEMES:END -->
 
 ---
 
