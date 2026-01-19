@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Honesty](http://9gag.com/gag/a6ZgVN8)
- - ⏩ [Laryngoscopy](http://9gag.com/gag/abAD6QO)
+ - ⏩ [Legit](http://9gag.com/gag/aZZXmgz)
  - 👉 [This travel hack is gonna get you places... like bankruptcy court](http://9gag.com/gag/a7ogdxw)<!-- MEMES:END -->
 
 ---
