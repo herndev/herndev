@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Laryngoscopy](http://9gag.com/gag/abAD6QO)
- - ⏩ [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 👉 [Any thoughts?](http://9gag.com/gag/aNDM1Bw)<!-- MEMES:END -->
+ - 💣 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
+ - ⏩ [Laryngoscopy](http://9gag.com/gag/abAD6QO)
+ - 👉 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)<!-- MEMES:END -->
 
 ---
 
