@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modder Blasts ‘Corpo Logic’ Over Cyberpunk 2077 VR Takedown](https://kotaku.com/cyberpunk-2077-vr-mod-baldurs-gate-3-takedown-2000660987)
- - [Edea, Possessed Sorceress MTG decklist: A secret Edge of Eternities Commander deck](https://www.polygon.com/edea-possessed-sorceress-commander-decklist-mtg/)
- - [How to get cobalt in Hytale](https://www.pcgamer.com/games/survival-crafting/hytale-cobalt-ore-location/)<!-- GAME:END -->
+ - [Mystery Team on Blu-ray: This Donald Glover cult classic is finally getting its due](https://www.polygon.com/mystery-team-blu-ray-recommendation/)
+ - [The DockFrame is a USB-C hub compatible with Framework&#39;s modular, hot swappable kit so you always have just what you need](https://www.pcgamer.com/hardware/the-dockframe-is-a-usb-c-hub-compatible-with-frameworks-modular-hot-swappable-kit-so-you-always-have-just-what-you-need/)
+ - [XGIMI MoGo 4 Laser projector review](https://www.pcgamer.com/hardware/gaming-monitors/xgimi-mogo-4-laser-projector-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
