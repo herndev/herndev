@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new retro handheld keeps the Game Boy look, but modernizes the controls](https://www.androidauthority.com/trimui-brick-pro-teaser-3633744/)
- - [How to use an iPhone to take pictures of the Aurora Borealis](https://appleinsider.com/inside/ios-26/tips/how-to-use-an-iphone-to-take-pictures-of-the-aurora-borealis?utm_source=rss)
- - [Hot deal: Samsung Galaxy S25 FE drops to its lowest price ever](https://www.androidauthority.com/samsung-galaxy-s25-fe-deal-3-3633696/)<!-- TECH:END -->
+ - [The UK launches a consultation on whether to ban under-16s from using social media, alongside restrictions on addictive app features like infinite scrolling &lpar;Kiran Stacey/The Guardian&rpar;](http://www.techmeme.com/260119/p24#a260119p24)
+ - [Q&amp;A with Razer CEO Min-Liang Tan on the use of AI in game development, the gaming community&#39;s pushback against AI, partnering with Grok, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260119/p23#a260119p23)
+ - [This new retro handheld keeps the Game Boy look, but modernizes the controls](https://www.androidauthority.com/trimui-brick-pro-teaser-3633744/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
