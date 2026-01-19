@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Pixel 10 could soon get a lot smarter thanks to a major Magic Cue expansion](https://www.androidauthority.com/google-pixel-10-magic-cue-wallet-tasks-integration-apk-teardown-3633483/)
- - [The Race to Build the DeepSeek of Europe Is On](https://www.wired.com/story/europe-race-us-deepseek-sovereign-ai/)
- - [Shenzhen-based UBTech signed deals to supply its Walker S2 humanoid robots to Airbus and Texas Instruments, and says it aims to produce 10,000+ units in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260119/p2#a260119p2)<!-- TECH:END -->
+ - [The memory shortage that is spiking RAM prices is now expanding to the broader PC market, driving price hikes for GPUs, high-capacity SSDs, and hard drives &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/260119/p3#a260119p3)
+ - [Share links on Google Messages? Google is working on a feature for you](https://www.androidauthority.com/google-messages-link-copy-url-3633480/)
+ - [Your Pixel 10 could soon get a lot smarter thanks to a major Magic Cue expansion](https://www.androidauthority.com/google-pixel-10-magic-cue-wallet-tasks-integration-apk-teardown-3633483/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
