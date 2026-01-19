@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Animal Crossing: New Horizons added just enough to suck me back in](https://www.theverge.com/games/863747/animal-crossing-new-horizons-update-3-0-switch-2-quality-of-life)
- - [NYSE plans to use its tech that matches buyers and sellers, alongside blockchain networks, to facilitate real-time trading of tokenized securities in 2026 &lpar;Katherine Doherty/Bloomberg&rpar;](http://www.techmeme.com/260119/p15#a260119p15)
- - [New Pixel 10a leak reveals launch date and some good news on pricing](https://www.androidauthority.com/google-pixel-10a-pricing-availability-leak-3633563/)<!-- TECH:END -->
+ - [Gamers love AI in game dev — they just don&amp;#8217;t know it yet, says Razer&amp;#8217;s CEO](https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview)
+ - [This 5-foot lamp is a supersized tribute to the world’s most iconic pen](https://www.theverge.com/tech/864127/seletti-bic-ballpoint-pen-pendant-lamp-maison-objet)
+ - [Dynamic Island will move &amp; get really tiny, if a leaker who&#39;s being sued by Apple is right](https://appleinsider.com/articles/26/01/19/dynamic-island-will-move-get-really-tiny-if-a-leaker-whos-being-sued-by-apple-is-right?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
