@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Realme promises days of battery from its 10,001mAh phone](https://www.theverge.com/news/864254/realme-promises-days-of-battery-from-its-10001mah-phone)
- - [A look at South Korea&#39;s Independent AI Foundation Model competition, which aims to find the best homegrown AI models, in a bid to compete with the US and China &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260120/p4#a260120p4)
- - [Verizon’s $20 outage payout has scammers working overtime](https://www.androidauthority.com/verizon-outage-credit-scam-warning-3633800/)<!-- TECH:END -->
+ - [I upgraded to Gemini for Google Home, but I almost regret it for these two reasons](https://www.androidauthority.com/gemini-for-google-home-impressions-3633043/)
+ - [This Android-based tablet blends a paper-like display with app support](https://www.androidauthority.com/hannspree-lumo-launch-3633829/)
+ - [Realme promises days of battery from its 10,001mAh phone](https://www.theverge.com/news/864254/realme-promises-days-of-battery-from-its-10001mah-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
