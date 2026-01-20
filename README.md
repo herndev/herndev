@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Portugal orders Polymarket to stop operations and blocks it in the country after heavy activity tied to its recent presidential election, with €110M+ in volume &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/260120/p18#a260120p18)
- - [These are the best secure email services I recommend in 2026](https://www.androidauthority.com/best-secure-email-services-3632700/)
- - [Tiles, complications, apps, notifications? What’s your go-to smartwatch interaction?](https://www.androidauthority.com/smartwatch-interaction-open-thread-3633834/)<!-- TECH:END -->
+ - [How BYD beat Tesla](https://www.theverge.com/podcast/864314/byd-tesla-china-evs-vergecast)
+ - [Apple&#39;s earnings won&#39;t be dented by RAM price rises yet, says Evercore](https://appleinsider.com/articles/26/01/20/apples-earnings-wont-be-dented-by-ram-price-rises-yet-says-evercore?utm_source=rss)
+ - [We’ve just lost our best chance at the next great compact phone](https://www.androidauthority.com/rip-compact-asus-zenfone-3633630/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
