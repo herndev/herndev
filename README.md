@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - 💣 [I was there, it is true](http://9gag.com/gag/ae9zbgj)
  - ⏩ [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
- - 👉 [Extra Protein](http://9gag.com/gag/aGyveEG)<!-- MEMES:END -->
+ - 👉 [White Male Privilege](http://9gag.com/gag/aRBW1e2)<!-- MEMES:END -->
 
 ---
 
