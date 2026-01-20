@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s CEO says tariffs are starting to ‘creep into’ pricing](https://www.theverge.com/news/864390/amazon-ceo-andy-jassy-tariffs-creep-into-pricing)
- - [One leaker sticks with 2026 iPhone Air update claim, the rest disagree](https://appleinsider.com/articles/26/01/20/one-leaker-sticks-with-2026-iphone-air-update-claim-the-rest-disagree?utm_source=rss)
- - [How BYD beat Tesla](https://www.theverge.com/podcast/864314/byd-tesla-china-evs-vergecast)<!-- TECH:END -->
+ - [Substack challenger Beehiiv expects to nearly double its annual revenue to $50M in 2026; it now has over 40,000 MAUs, including nearly 15,000 paying subscribers &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/260120/p23#a260120p23)
+ - [Google’s Phone app keeps turning sideways, and users are confused again](https://www.androidauthority.com/google-phone-app-landscape-ui-rotation-3633937/)
+ - [Corsair’s wired Hall effect gaming keyboard is cheaper than ever](https://www.theverge.com/gadgets/864339/corsair-hall-effect-gaming-keyboard-resident-evil-requiem-surface-laptop-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
