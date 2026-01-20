@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Extra Protein](http://9gag.com/gag/aGyveEG)
- - ⏩ [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
- - 👉 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)<!-- MEMES:END -->
+ - 💣 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - ⏩ [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 👉 [No title](http://9gag.com/gag/abADzrO)<!-- MEMES:END -->
 
 ---
 
