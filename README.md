@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honesty](http://9gag.com/gag/a6ZgVN8)
- - ⏩ [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
- - 👉 [Extra Protein](http://9gag.com/gag/aGyveEG)<!-- MEMES:END -->
+ - 💣 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
+ - ⏩ [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 👉 [White Male Privilege](http://9gag.com/gag/aRBW1e2)<!-- MEMES:END -->
 
 ---
 
