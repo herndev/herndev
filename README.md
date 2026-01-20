@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How BYD beat Tesla](https://www.theverge.com/podcast/864314/byd-tesla-china-evs-vergecast)
- - [Apple&#39;s earnings won&#39;t be dented by RAM price rises yet, says Evercore](https://appleinsider.com/articles/26/01/20/apples-earnings-wont-be-dented-by-ram-price-rises-yet-says-evercore?utm_source=rss)
- - [We’ve just lost our best chance at the next great compact phone](https://www.androidauthority.com/rip-compact-asus-zenfone-3633630/)<!-- TECH:END -->
+ - [Amazon’s CEO says tariffs are starting to ‘creep into’ pricing](https://www.theverge.com/news/864390/amazon-ceo-andy-jassy-tariffs-creep-into-pricing)
+ - [One leaker sticks with 2026 iPhone Air update claim, the rest disagree](https://appleinsider.com/articles/26/01/20/one-leaker-sticks-with-2026-iphone-air-update-claim-the-rest-disagree?utm_source=rss)
+ - [How BYD beat Tesla](https://www.theverge.com/podcast/864314/byd-tesla-china-evs-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
