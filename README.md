@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RULE #1 CARDIO.](http://9gag.com/gag/ajPvXmg)
- - ⏩ [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 👉 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)<!-- MEMES:END -->
+ - 💣 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
+ - ⏩ [Holz](http://9gag.com/gag/aVvr3mw)
+ - 👉 [The Observer Effect in Real Life](http://9gag.com/gag/aGyvjd0)<!-- MEMES:END -->
 
 ---
 
