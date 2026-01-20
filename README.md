@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new policy change makes the prepaid phone experience worse for some carriers](https://www.androidauthority.com/policy-change-verizon-brands-3633932/)
- - [Apple under legal attack over fall detection tech](https://appleinsider.com/articles/26/01/20/apple-under-legal-attack-over-fall-detection-tech?utm_source=rss)
- - [Setapp Mobile, one of the first alt iOS app stores launched in 2024 after the EU&#39;s DMA, plans to shut down, blaming &quot;still-evolving and complex business terms&quot; &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/260120/p25#a260120p25)<!-- TECH:END -->
+ - [Netflix adds a real-time voting feature for its Star Search reboot, available on mobile, smart TVs, and streaming devices, but not on a browser &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260120/p28#a260120p28)
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Demis Hassabis says Chinese AI companies are about six months behind leading western labs and the response to DeepSeek&#39;s R1 was a &quot;massive overreaction&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260120/p27#a260120p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
