@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Rivals Promises A Crackdown On The Recent Epidemic Of ‘Lord Farming’](https://kotaku.com/marvel-rivals-s6-lord-farming-proficiency-detection-2000661005)
- - [League of Legends MMO shows signs of life as Riot adds a former World of Warcraft lead producer to its roster](https://www.pcgamer.com/games/mmo/league-of-legends-mmo-shows-signs-of-life-as-riot-adds-a-former-world-of-warcraft-lead-producer-to-its-roster/)
- - [Mystery Team on Blu-ray: This Donald Glover cult classic is finally getting its due](https://www.polygon.com/mystery-team-blu-ray-recommendation/)<!-- GAME:END -->
+ - [Marathon&#39;s full voice cast includes talent from Deus Ex, Baldur&#39;s Gate 3, Clair Obscur: Expedition 33, Red Dead Redemption and loads more](https://www.pcgamer.com/games/fps/marathons-full-voice-cast-includes-talent-behind-deus-ex-baldurs-gate-3-clair-obscur-expedition-33-red-dead-redemption-and-lots-more/)
+ - [Cyberpunk 2077 VR mod disappears after mod maker decides he&#39;d rather take it down than make it free](https://www.pcgamer.com/games/vr/cyberpunk-2077-vr-mod-disappears-after-mod-maker-decides-hed-rather-take-it-down-than-make-it-free/)
+ - [Devs recall &#39;sweating bullets&#39; at showing The Beatles Rock Band to the actual Beatles, and &#39;tough customer&#39; Yoko Ono making sure they made John Lennon a &#39;balls out rock and roll god not giving a f**k&#39;](https://www.pcgamer.com/games/devs-recall-sweating-bullets-at-showing-the-beatles-rock-band-to-the-actual-beatles-and-tough-customer-yoko-ono-making-sure-they-made-john-lennon-a-balls-out-rock-and-roll-god-not-giving-a-f-k/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
