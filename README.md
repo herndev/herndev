@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
- - ⏩ [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 👉 [No title](http://9gag.com/gag/abADzrO)<!-- MEMES:END -->
+ - 💣 [The Observer Effect in Real Life](http://9gag.com/gag/aGyvjd0)
+ - ⏩ [Velcro, What a rip off...](http://9gag.com/gag/a6Zgo8e)
+ - 👉 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)<!-- MEMES:END -->
 
 ---
 
