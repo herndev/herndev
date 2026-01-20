@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ski trip without women, yes, very sad...](http://9gag.com/gag/aYQ6Ye7)
- - ⏩ [Me trying to get my friends to hang out on a cold winter night](http://9gag.com/gag/amoQ2Zj)
- - 👉 [Golden era](http://9gag.com/gag/amoQ7jj)<!-- MEMES:END -->
+ - 💣 [Golden era](http://9gag.com/gag/amoQ7jj)
+ - ⏩ [Wendy&#39;s with the mic drop](http://9gag.com/gag/aqyMKDM)
+ - 👉 [Only Aoe2 nerds read titles](http://9gag.com/gag/aO8E0AN)<!-- MEMES:END -->
 
 ---
 
