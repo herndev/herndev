@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get storm leather in Hytale](https://www.polygon.com/hytale-storm-leather-how-to-get/)
- - [Razer CEO Can’t Get Out Of His Own Way In Car Crash Interview On AI](https://kotaku.com/razer-ava-ai-grok-interview-slop-motoko-2000661233)
- - [What times does Arknights: Endfield release in your time zone?](https://www.polygon.com/arknights-endfield-release-time-date-edt-pdt/)<!-- GAME:END -->
+ - [Hitman&#39;s getting cross-progression as IOI limbers up for that co-op mode it announced last year](https://www.pcgamer.com/games/action/hitmans-getting-cross-progression-as-ioi-limbers-up-for-that-co-op-mode-it-announced-last-year/)
+ - [Who made the better Tomb Raider: Angelina Jolie or Alicia Vikander?](https://www.polygon.com/tomb-raider-movies-revisited/)
+ - [Game Pass Continues A Killer New Year With Two More Epic Games](https://kotaku.com/xbox-game-pass-space-marine-2-death-stranding-2000661277)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
