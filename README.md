@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roland’s Go:Mixer Studio turns your phone into a mobile music studio](https://www.theverge.com/entertainment/864095/roland-gomixer-studio-namm)
- - [Exclusive: Spotify is testing a wild new feature that finally syncs paper books with audiobooks](https://www.androidauthority.com/spotify-page-match-3633793/)
- - [Sources: ByteDance boosted its cloud offering via more sales hires and lower prices; IDC: it had 13% of China&#39;s AI cloud market in H1 2025, behind Alibaba&#39;s 23% &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/260120/p3#a260120p3)<!-- TECH:END -->
+ - [Realme promises days of battery from its 10,001mAh phone](https://www.theverge.com/news/864254/realme-promises-days-of-battery-from-its-10001mah-phone)
+ - [A look at South Korea&#39;s Independent AI Foundation Model competition, which aims to find the best homegrown AI models, in a bid to compete with the US and China &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260120/p4#a260120p4)
+ - [Verizon’s $20 outage payout has scammers working overtime](https://www.androidauthority.com/verizon-outage-credit-scam-warning-3633800/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
