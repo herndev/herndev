@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I upgraded to Gemini for Google Home, but I almost regret it for these two reasons](https://www.androidauthority.com/gemini-for-google-home-impressions-3633043/)
- - [This Android-based tablet blends a paper-like display with app support](https://www.androidauthority.com/hannspree-lumo-launch-3633829/)
- - [Realme promises days of battery from its 10,001mAh phone](https://www.theverge.com/news/864254/realme-promises-days-of-battery-from-its-10001mah-phone)<!-- TECH:END -->
+ - [Sources: China broadens its probe into Temu owner PDD, dispatching 100+ investigators to its Shanghai HQ, after staff exchanged physical blows with regulators &lpar;John Liu/Bloomberg&rpar;](http://www.techmeme.com/260120/p7#a260120p7)
+ - [The Samsung Galaxy A56 5G is a decent $500 phone, but that’s not enough](https://www.androidauthority.com/samsung-galaxy-a56-5g-review-3622394/)
+ - [PE firm Everstone combines India&#39;s Wingify, which helps A/B test sites, and France&#39;s AB Tasty, which improves e-commerce UX; Everstone bought Wingify for $200M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260120/p6#a260120p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
