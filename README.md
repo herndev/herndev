@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic details the &quot;Assistant Axis&quot;, a pattern of neural activity in language models that governs their default identity and helpful behavior &lpar;Anthropic&rpar;](http://www.techmeme.com/260119/p27#a260119p27)
- - [The UK Treasury committee says the government and Bank of England&#39;s &quot;wait-and-see approach&quot; to AI risks in the financial sector poses &quot;serious harm&quot; to the UK &lpar;Kalyeena Makortoff/The Guardian&rpar;](http://www.techmeme.com/260119/p26#a260119p26)
- - [8Bitdo Retro C64 Mechanical Keyboard review: Nostalgia and features combined](https://appleinsider.com/articles/26/01/20/8bitdo-retro-c64-mechanical-keyboard-review-nostalgia-and-features-combined?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-20/)
+ - [New OnePlus updates can permanently lock your phone’s software future](https://www.androidauthority.com/oneplus-arb-protection-3633783/)
+ - [Anthropic details the &quot;Assistant Axis&quot;, a pattern of neural activity in language models that governs their default identity and helpful behavior &lpar;Anthropic&rpar;](http://www.techmeme.com/260119/p27#a260119p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
