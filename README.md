@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cursor&#39;s recent experiment involved running hundreds of AI agents for nearly a week to build a web browser, writing 1M+ lines of code across 1,000 files &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260119/p25#a260119p25)
  - [The UK launches a consultation on whether to ban under-16s from using social media, alongside restrictions on addictive app features like infinite scrolling &lpar;Kiran Stacey/The Guardian&rpar;](http://www.techmeme.com/260119/p24#a260119p24)
- - [Q&amp;A with Razer CEO Min-Liang Tan on the use of AI in game development, the gaming community&#39;s pushback against AI, partnering with Grok, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260119/p23#a260119p23)
- - [This new retro handheld keeps the Game Boy look, but modernizes the controls](https://www.androidauthority.com/trimui-brick-pro-teaser-3633744/)<!-- TECH:END -->
+ - [Best Vitamins and Supplements for Women in 2026](https://www.cnet.com/health/nutrition/best-vitamins-and-supplements-for-women/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
