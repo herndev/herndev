@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Life is Strange: Reunion Finally Brings Max and Chloe Back Together](https://news.xbox.com/en-us/2026/01/20/life-is-strange-reunion-reveal/)
- - [Patlabor EZY film trilogy gets release dates as new trailer drops](https://www.polygon.com/patlabor-ezy-movie-trilogy-trailer-release-dates/)
- - [Samsung Drops Galaxy Tab A9+ to a Record Low to Clear Out Older Tablets, No Need to Look for Budget Brands](https://kotaku.com/samsung-drops-galaxy-tab-a9-to-a-record-low-to-clear-out-older-tablets-no-need-to-look-for-budget-brands-2000659054)<!-- GAME:END -->
+ - [Ex-BioWare Dev Disputes The Idea That It Shouldn’t Have Made Anthem](https://kotaku.com/anthem-bioware-mark-darrah-interview-rpg-shutdown-2000661337)
+ - [Jump into the Biggest THQ Nordic &amp; Handy Games Sale Yet, Running Until February 2](https://news.xbox.com/en-us/2026/01/20/thq-nordic-handy-games-sale-2026/)
+ - [Life Is Strange Reunion revealed, reunites Max and Chloe](https://www.polygon.com/life-is-strange-reunion-reveal-trailer-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
