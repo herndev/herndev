@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
- - ⏩ [Extra Protein](http://9gag.com/gag/aGyveEG)
- - 👉 [No title](http://9gag.com/gag/abADzrO)<!-- MEMES:END -->
+ - 💣 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
+ - ⏩ [I love pizza, but who tf slice a pizza like that???](http://9gag.com/gag/aoyoObn)
+ - 👉 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)<!-- MEMES:END -->
 
 ---
 
