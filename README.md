@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple FaceTime Eye Contact feature hit by patent troll in EU court](https://appleinsider.com/articles/26/01/20/apple-facetime-eye-contact-feature-hit-by-patent-troll-in-eu-court?utm_source=rss)
- - [The only decent free phone plan is now taking a turn for the worse](https://www.androidauthority.com/helium-free-phone-plan-3634020/)
- - [Sources: AI inference startup Baseten raised $300M led by IVP and CapitalG at a $5B valuation, more than doubling its valuation; Nvidia invested $150M &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260120/p31#a260120p31)<!-- TECH:END -->
+ - [Filings from Elon Musk&#39;s OpenAI lawsuit detail Microsoft&#39;s decade-long relationship with OpenAI, including plans for a new subsidiary during Sam Altman&#39;s firing &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260120/p33#a260120p33)
+ - [The 40 Best Shows on Apple TV, WIRED’s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [‘Veronika’ Is the First Cow Known to Use a Tool](https://www.wired.com/story/veronika-is-the-first-cow-known-to-use-a-tool/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
