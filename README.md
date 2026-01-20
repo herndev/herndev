@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
- - ⏩ [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 💣 [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - ⏩ [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
  - 👉 [White Male Privilege](http://9gag.com/gag/aRBW1e2)<!-- MEMES:END -->
 
 ---
