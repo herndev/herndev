@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic details the &quot;Assistant Axis&quot;, a pattern of neural activity in language models that governs their default identity and helpful behavior &lpar;Anthropic&rpar;](http://www.techmeme.com/260119/p27#a260119p27)
  - [The UK Treasury committee says the government and Bank of England&#39;s &quot;wait-and-see approach&quot; to AI risks in the financial sector poses &quot;serious harm&quot; to the UK &lpar;Kalyeena Makortoff/The Guardian&rpar;](http://www.techmeme.com/260119/p26#a260119p26)
- - [8Bitdo Retro C64 Mechanical Keyboard review: Nostalgia and features combined](https://appleinsider.com/articles/26/01/20/8bitdo-retro-c64-mechanical-keyboard-review-nostalgia-and-features-combined?utm_source=rss)
- - [Cursor&#39;s recent experiment involved running hundreds of AI agents for nearly a week to build a web browser, writing 1M+ lines of code across 1,000 files &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260119/p25#a260119p25)<!-- TECH:END -->
+ - [8Bitdo Retro C64 Mechanical Keyboard review: Nostalgia and features combined](https://appleinsider.com/articles/26/01/20/8bitdo-retro-c64-mechanical-keyboard-review-nostalgia-and-features-combined?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
