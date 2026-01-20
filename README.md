@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
- - ⏩ [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
- - 👉 [Extra Protein](http://9gag.com/gag/aGyveEG)<!-- MEMES:END -->
+ - 💣 [Ski trip without women, yes, very sad...](http://9gag.com/gag/aYQ6Ye7)
+ - ⏩ [Me trying to get my friends to hang out on a cold winter night](http://9gag.com/gag/amoQ2Zj)
+ - 👉 [Golden era](http://9gag.com/gag/amoQ7jj)<!-- MEMES:END -->
 
 ---
 
