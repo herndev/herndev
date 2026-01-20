@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Golden era](http://9gag.com/gag/amoQ7jj)
- - ⏩ [Wendy&#39;s with the mic drop](http://9gag.com/gag/aqyMKDM)
- - 👉 [Only Aoe2 nerds read titles](http://9gag.com/gag/aO8E0AN)<!-- MEMES:END -->
+ - 💣 [Look at the way he looks at her, there is more to it, he knew what he was doing from the jump](http://9gag.com/gag/aoyoeLg)
+ - ⏩ [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
+ - 👉 [White Male Privilege](http://9gag.com/gag/aRBW1e2)<!-- MEMES:END -->
 
 ---
 
