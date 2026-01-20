@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hitman&#39;s getting cross-progression as IOI limbers up for that co-op mode it announced last year](https://www.pcgamer.com/games/action/hitmans-getting-cross-progression-as-ioi-limbers-up-for-that-co-op-mode-it-announced-last-year/)
- - [Who made the better Tomb Raider: Angelina Jolie or Alicia Vikander?](https://www.polygon.com/tomb-raider-movies-revisited/)
- - [Game Pass Continues A Killer New Year With Two More Epic Games](https://kotaku.com/xbox-game-pass-space-marine-2-death-stranding-2000661277)<!-- GAME:END -->
+ - [Life is Strange: Reunion Finally Brings Max and Chloe Back Together](https://news.xbox.com/en-us/2026/01/20/life-is-strange-reunion-reveal/)
+ - [Patlabor EZY film trilogy gets release dates as new trailer drops](https://www.polygon.com/patlabor-ezy-movie-trilogy-trailer-release-dates/)
+ - [Samsung Drops Galaxy Tab A9+ to a Record Low to Clear Out Older Tablets, No Need to Look for Budget Brands](https://kotaku.com/samsung-drops-galaxy-tab-a9-to-a-record-low-to-clear-out-older-tablets-no-need-to-look-for-budget-brands-2000659054)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
