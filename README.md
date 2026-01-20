@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is ok if youu don\u2019t like this. I thought it was funny, she mudered her with the simplest of answers.](http://9gag.com/gag/aE0KB8N)
- - ⏩ [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
- - 👉 [Extra Protein](http://9gag.com/gag/aGyveEG)<!-- MEMES:END -->
+ - 💣 [The Canadian Premier League final in Ottawa was played in -8\u00b0C weather, with snow repeatedly interrupting the match and requiring the lines to be cleared every 15 minutes. A truly crazy game.](http://9gag.com/gag/a9ywp9D)
+ - ⏩ [Holz](http://9gag.com/gag/aVvr3mw)
+ - 👉 [The Observer Effect in Real Life](http://9gag.com/gag/aGyvjd0)<!-- MEMES:END -->
 
 ---
 
