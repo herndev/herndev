@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta VP of Public Policy Simon Milner, the company&#39;s most senior Asia-Pacific policy executive, plans to leave after 14 years to retire from full-time work &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/260120/p11#a260120p11)
- - [No top left camera for iPhone 18 Pro, but a smaller Dynamic Island](https://appleinsider.com/articles/26/01/20/no-top-left-camera-for-iphone-18-pro-but-a-smaller-dynamic-island?utm_source=rss)
- - [Sources: Baidu&#39;s Ernie Assistant passes 200M MAUs, as competition intensifies among Chinese tech giants in AI; Ernie is linked to apps like JD.com and Meituan &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260120/p10#a260120p10)<!-- TECH:END -->
+ - [Portugal orders Polymarket to stop operations and blocks it in the country after heavy activity tied to its recent presidential election, with €110M+ in volume &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/260120/p18#a260120p18)
+ - [These are the best secure email services I recommend in 2026](https://www.androidauthority.com/best-secure-email-services-3632700/)
+ - [Tiles, complications, apps, notifications? What’s your go-to smartwatch interaction?](https://www.androidauthority.com/smartwatch-interaction-open-thread-3633834/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
