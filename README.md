@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pune-based supply chain robotics startup Unbox Robotics raised a $28M Series B in a mix of primary and secondary capital, after raising $15M in earlier rounds &lpar;Anjali Jain/Inc42 Media&rpar;](http://www.techmeme.com/260120/p2#a260120p2)
- - [This upcoming Android phone claims to last a whole week with its 10,001mAh battery](https://www.androidauthority.com/realme-p4-power-launch-with-big-battery-3633571/)
- - [xAI has faced a growing outcry from global regulators over Grok&#39;s generation of non-consensual explicit photos, but has faced little regulatory action in the US &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/260120/p1#a260120p1)<!-- TECH:END -->
+ - [Roland’s Go:Mixer Studio turns your phone into a mobile music studio](https://www.theverge.com/entertainment/864095/roland-gomixer-studio-namm)
+ - [Exclusive: Spotify is testing a wild new feature that finally syncs paper books with audiobooks](https://www.androidauthority.com/spotify-page-match-3633793/)
+ - [Sources: ByteDance boosted its cloud offering via more sales hires and lower prices; IDC: it had 13% of China&#39;s AI cloud market in H1 2025, behind Alibaba&#39;s 23% &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/260120/p3#a260120p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
