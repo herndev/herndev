@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex-BioWare Dev Disputes The Idea That It Shouldn’t Have Made Anthem](https://kotaku.com/anthem-bioware-mark-darrah-interview-rpg-shutdown-2000661337)
- - [Jump into the Biggest THQ Nordic &amp; Handy Games Sale Yet, Running Until February 2](https://news.xbox.com/en-us/2026/01/20/thq-nordic-handy-games-sale-2026/)
- - [Life Is Strange Reunion revealed, reunites Max and Chloe](https://www.polygon.com/life-is-strange-reunion-reveal-trailer-release-date/)<!-- GAME:END -->
+ - [New Witcher 3 Online Mod Lets You Hang Together With Friends](https://kotaku.com/new-witcher-3-online-mod-lets-you-hang-together-with-friends-2000661320)
+ - [Lorcana 2026 roadmap: Winterspell, Wilds Unknown, and Attack of the Vine](https://www.polygon.com/disney-lorcana-2026-roadmap-sets-winterspell-wilds-unknown-attack-of-the-vine-pixar/)
+ - [Elon Musk and Stephen Miller’s culture war against Star Trek: Starfleet Academy is built on ignorance](https://www.polygon.com/star-trek-starfleet-academy-elon-musk-stephen-miller-woke/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
