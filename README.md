@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
- - ⏩ [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
- - 👉 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)<!-- MEMES:END -->
+ - 💣 [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)
+ - ⏩ [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - 👉 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)<!-- MEMES:END -->
 
 ---
 
