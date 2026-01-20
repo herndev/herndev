@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
- - ⏩ [Holz](http://9gag.com/gag/aVvr3mw)
- - 👉 [The Observer Effect in Real Life](http://9gag.com/gag/aGyvjd0)<!-- MEMES:END -->
+ - 💣 [Legit](http://9gag.com/gag/aZZXmgz)
+ - ⏩ [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
+ - 👉 [White Male Privilege](http://9gag.com/gag/aRBW1e2)<!-- MEMES:END -->
 
 ---
 
