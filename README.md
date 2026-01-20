@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Extra Protein](http://9gag.com/gag/aGyveEG)
+ - 💣 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
  - ⏩ [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
- - 👉 [White Male Privilege](http://9gag.com/gag/aRBW1e2)<!-- MEMES:END -->
+ - 👉 [Extra Protein](http://9gag.com/gag/aGyveEG)<!-- MEMES:END -->
 
 ---
 
