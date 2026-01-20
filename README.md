@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk and Sam Altman clashed on X after Musk shared a post about a man who committed a murder-suicide following delusional conversations with ChatGPT &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/260120/p39#a260120p39)
- - [ChatGPT is rolling out YouTube-style age prediction](https://www.androidauthority.com/chatgpt-age-prediction-3634063/)
- - [Netflix&#39;s ad revenue hit $1.5B in 2025, up by more than 2.5x vs. 2024, and viewing hours grew 2% YoY in H2, driven by a 9% rise in viewing of branded originals &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/260120/p38#a260120p38)<!-- TECH:END -->
+ - [Trump admin admits DOGE employees had access to off-limits Social Security data](https://www.theverge.com/news/864643/doge-social-security-data-misuse)
+ - [Netflix will revamp its mobile UI this year](https://www.theverge.com/news/864646/netflix-mobile-ui-revamp-design-vertical-video)
+ - [Demis Hassabis says there aren&#39;t &quot;any plans&quot; to put ads in Gemini and, in response to OpenAI testing ads, says &quot;maybe they feel they need to make more revenue&quot; &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260120/p42#a260120p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
