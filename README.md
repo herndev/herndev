@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings from Elon Musk&#39;s OpenAI lawsuit detail Microsoft&#39;s decade-long relationship with OpenAI, including plans for a new subsidiary during Sam Altman&#39;s firing &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260120/p33#a260120p33)
- - [The 40 Best Shows on Apple TV, WIRED’s Picks &lpar;January 2026&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [‘Veronika’ Is the First Cow Known to Use a Tool](https://www.wired.com/story/veronika-is-the-first-cow-known-to-use-a-tool/)<!-- TECH:END -->
+ - [The US DOJ says at least two DOGE employees accessed Social Security data that was off-limits under a court ruling and shared agency data on third-party servers &lpar;April Rubin/Axios&rpar;](http://www.techmeme.com/260120/p36#a260120p36)
+ - [Nova Launcher’s new owner might offer a version with ads](https://www.theverge.com/news/864585/nova-launcher-instabridge-acquisition-owner-ads)
+ - [The US FTC plans to appeal to revive its case accusing Meta of bolstering an illegal monopoly by acquiring Instagram and WhatsApp; Meta won the case in 2025 &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/260120/p35#a260120p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
