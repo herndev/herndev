@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix adds a real-time voting feature for its Star Search reboot, available on mobile, smart TVs, and streaming devices, but not on a browser &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260120/p28#a260120p28)
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Demis Hassabis says Chinese AI companies are about six months behind leading western labs and the response to DeepSeek&#39;s R1 was a &quot;massive overreaction&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260120/p27#a260120p27)<!-- TECH:END -->
+ - [Apple FaceTime Eye Contact feature hit by patent troll in EU court](https://appleinsider.com/articles/26/01/20/apple-facetime-eye-contact-feature-hit-by-patent-troll-in-eu-court?utm_source=rss)
+ - [The only decent free phone plan is now taking a turn for the worse](https://www.androidauthority.com/helium-free-phone-plan-3634020/)
+ - [Sources: AI inference startup Baseten raised $300M led by IVP and CapitalG at a $5B valuation, more than doubling its valuation; Nvidia invested $150M &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260120/p31#a260120p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
