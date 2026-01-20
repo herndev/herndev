@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
- - ⏩ [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - 💣 [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
+ - ⏩ [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)
  - 👉 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)<!-- MEMES:END -->
 
 ---
