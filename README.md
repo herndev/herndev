@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump admin admits DOGE employees had access to off-limits Social Security data](https://www.theverge.com/news/864643/doge-social-security-data-misuse)
- - [Netflix will revamp its mobile UI this year](https://www.theverge.com/news/864646/netflix-mobile-ui-revamp-design-vertical-video)
- - [Demis Hassabis says there aren&#39;t &quot;any plans&quot; to put ads in Gemini and, in response to OpenAI testing ads, says &quot;maybe they feel they need to make more revenue&quot; &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260120/p42#a260120p42)<!-- TECH:END -->
+ - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
+ - [X says it has open sourced its &quot;core recommendation system&quot; on GitHub and that the system &quot;ranks everything using a Grok-based transformer model&quot; &lpar;Lucas Ropek/TechCrunch&rpar;](http://www.techmeme.com/260120/p45#a260120p45)
+ - [Drone delivery startup Zipline raised $600M+, boosting its valuation to $7.6B, and says it has now completed 2M+ commercial deliveries of 20M different items &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/260120/p44#a260120p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
