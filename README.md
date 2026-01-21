@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
- - ⏩ [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
- - 👉 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)<!-- MEMES:END -->
+ - 💣 [Look at the way he looks at her, there is more to it, he knew what he was doing from the jump](http://9gag.com/gag/aoyoeLg)
+ - ⏩ [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
 
 ---
 
