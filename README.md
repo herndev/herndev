@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interesting shirt](http://9gag.com/gag/ajPv95x)
- - ⏩ [Mom treating son to the wildest ride of his life](http://9gag.com/gag/adBAKrV)
- - 👉 [Your partners will thank you](http://9gag.com/gag/a4PgR26)<!-- MEMES:END -->
+ - 💣 [Listen to wednesday Frog people.](http://9gag.com/gag/aPAL7Pg)
+ - ⏩ [Every.damn.day](http://9gag.com/gag/a6ZgKG2)
+ - 👉 [Interesting shirt](http://9gag.com/gag/ajPv95x)<!-- MEMES:END -->
 
 ---
 
