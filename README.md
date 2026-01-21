@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I wish every Android app looked as good as this one](https://www.androidauthority.com/android-app-design-3631537/)
- - [Survey reveals which Android phone brand you thought had the best 2025](https://www.androidauthority.com/best-android-phone-oem-2025-poll-result-3634045/)
- - [AT&amp;T wants to fix your terrible stadium 5G, even if you have Verizon or T-Mobile](https://www.androidauthority.com/att-turbo-live-announced-3634154/)<!-- TECH:END -->
+ - [Burritos from Heaven: Are drones the future of delivery?](https://www.theverge.com/tech/864601/zipline-drone-delivery-food-takeout-texas)
+ - [What a Sony and TCL partnership means for the future of TVs](https://www.theverge.com/tech/864745/sony-tcl-tvs-partnership-explained)
+ - [At Davos, Meta CTO Andrew Bosworth says Superintelligence Labs delivered its first high-profile AI models internally this month and the models are &quot;very good&quot; &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/260121/p17#a260121p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
