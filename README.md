@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s Cyberspace Administration requires firms to file their AI tools in a public algorithm registry, creating a detailed map of the country&#39;s AI ecosystem &lpar;Yi-Ling Liu/Wired&rpar;](http://www.techmeme.com/260120/p53#a260120p53)
- - [Apple services outage hit Apple TV, Maps, &amp; App Store](https://appleinsider.com/articles/26/01/21/apple-services-outage-hits-apple-tv-maps-app-store?utm_source=rss)
- - [Android 16 beta continues to crash popular work apps, and Google has no fix yet &lpar;Updated: Potential fix&rpar;](https://www.androidauthority.com/android-16-qpr-3-beta-microsoft-office-crash-3633859/)<!-- TECH:END -->
+ - [This Gemini Calendar trick turns a simple invite into a privacy nightmare](https://www.androidauthority.com/gemini-google-calendar-exploit-3634125/)
+ - [The Gates Foundation and OpenAI plan to invest $50M to use AI to ease the impact of chronic staff shortages in 1,000 primary health clinics in Africa by 2028 &lpar;Financial Times&rpar;](http://www.techmeme.com/260121/p3#a260121p3)
+ - [Apple wins dismissal of parts of a class action alleging it violated CA privacy law by collecting user data from its apps despite users believing they opted out &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/260121/p2#a260121p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
