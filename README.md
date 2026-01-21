@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A programmer estimates his typical day of coding with Claude Code is equivalent to running the dishwasher an extra time, much more energy than a &quot;median query&quot; &lpar;Simon P. Couch&rpar;](http://www.techmeme.com/260121/p8#a260121p8)
- - [Galaxy Digital plans to launch a hedge fund in Q1 2026 investing up to 30% in crypto tokens and the rest in financial stocks; sources say it has raised $100M &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/260121/p7#a260121p7)
- - [Bengaluru-based Amagi, an ad tools provider for broadcast and streaming TV, fell below its listing price in its India market debut after raising $196M in an IPO &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260121/p6#a260121p6)<!-- TECH:END -->
+ - [As Taiwanese chipmakers push localization to secure supply chains, suppliers to the steel, plastics, and display industries are moving into Taiwan&#39;s chip sector &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/260121/p9#a260121p9)
+ - [Want a QWERTY phone in 2026? Here’s a Clicks Communicator rival you shouldn’t miss](https://www.androidauthority.com/unihertz-titan-2-elite-qwerty-android-phone-3634132/)
+ - [This upcoming Ultra flagship was spotted with an insane 300mm telephoto lens extender](https://www.androidauthority.com/oppo-find-x9-ultra-300mm-telephoto-extender-leak-3634135/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
