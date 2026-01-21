@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blue Origin unveils TeraWave, a satellite communications network for enterprise, data center, and government customers, and plans to begin deployment in Q4 2027 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260121/p43#a260121p43)
- - [This time it&#39;ll work: Apple rumored to be developing a wearable AI pin](https://appleinsider.com/articles/26/01/21/this-time-itll-work-apple-rumored-to-be-developing-a-wearable-ai-pin?utm_source=rss)
- - [Neynar, a startup focused on decentralized social media infrastructure, is acquiring Ethereum-based social media project Farcaster from R&amp;D firm Merkle &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/260121/p42#a260121p42)<!-- TECH:END -->
+ - [Sources: Sam Altman has been meeting with top investors in the Middle East, looking to raise at least $50B for OpenAI at a valuation of about $750B to $830B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260121/p46#a260121p46)
+ - [Apple still the world&#39;s most valuable brand in 2026 according to updated ranking](https://appleinsider.com/articles/26/01/21/apple-still-the-worlds-most-valuable-brand-in-2026-according-to-updated-ranking?utm_source=rss)
+ - [Memo: Barret Zoph, the Thinking Machines Lab cofounder who rejoined OpenAI last week, will lead OpenAI&#39;s enterprise push, as part of a broader reorganization &lpar;The Information&rpar;](http://www.techmeme.com/260121/p45#a260121p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
