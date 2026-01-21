@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Listen to wednesday Frog people.](http://9gag.com/gag/aPAL7Pg)
- - ⏩ [Every.damn.day](http://9gag.com/gag/a6ZgKG2)
- - 👉 [Interesting shirt](http://9gag.com/gag/ajPv95x)<!-- MEMES:END -->
+ - 💣 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
+ - ⏩ [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
+ - 👉 [Never underestimate the quiet ones](http://9gag.com/gag/aVvrYm8)<!-- MEMES:END -->
 
 ---
 
