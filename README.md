@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)
+ - 💣 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
  - ⏩ [White Male Privilege](http://9gag.com/gag/aRBW1e2)
  - 👉 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)<!-- MEMES:END -->
 
