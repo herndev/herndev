@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [League Of Legends Fighting Game Finally Hits Consoles But PS5 Players Say It Needs More Work](https://kotaku.com/2xko-ps5-league-legends-fighting-game-issues-2000661845)
- - [Masters of the Universe trailer teases He-Man, Battle Cat, and more](https://www.polygon.com/masters-of-the-universe-movie-trailer-prince-adam-he-man-cringer/)
- - [The ALGS Championship made me fall in love with esports](https://www.polygon.com/apex-legends-global-series-championship-made-me-love-esports/)<!-- GAME:END -->
+ - [Can a single screenshot predict a Steam game&#39;s success? Kind of!](https://www.polygon.com/steam-game-screenshot-sales-popularity-neural-network-data-valve/)
+ - [The new Hana-Kimi anime fails to live up to its iconic 30-year legacy](https://www.polygon.com/the-new-hana-kimi-anime-fails-to-live-up-to-its-iconic-30-year-legacy/)
+ - [&#39;Everyone will be able to try Marathon&#39; before launch as Bungie takes a second, sharper stab at reviving the iconic series as an extraction shooter in a post-Arc Raiders world](https://www.pcgamer.com/games/fps/everyone-will-be-able-to-try-marathon-before-launch-as-bungie-takes-a-second-sharper-stab-at-reviving-the-iconic-series-as-an-extraction-shooter-in-a-post-arc-raiders-world/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
