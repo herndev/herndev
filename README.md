@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
- - ⏩ [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
- - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
+ - 💣 [White Male Privilege](http://9gag.com/gag/aRBW1e2)
+ - ⏩ [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
+ - 👉 [Look at the way he looks at her, there is more to it, he knew what he was doing from the jump](http://9gag.com/gag/aoyoeLg)<!-- MEMES:END -->
 
 ---
 
