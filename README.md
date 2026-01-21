@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)
- - ⏩ [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
- - 👉 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)<!-- MEMES:END -->
+ - 💣 [Be untired and happy!](http://9gag.com/gag/aMV7YxA)
+ - ⏩ [Yes, we sacrifice those CDs to the god Nero](http://9gag.com/gag/aoyo5Gn)
+ - 👉 [White people hiking vs black people hiking](http://9gag.com/gag/a4PgRqm)<!-- MEMES:END -->
 
 ---
 
