@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This smartphone runs Android, Linux, and even Windows 11](https://www.androidauthority.com/nexphone-3634049/)
- - [MAGA’s ‘Manifest Destiny’ Coalition Has Arrived](https://www.wired.com/story/maga-manifest-destiny-coalition/)
- - [Micron Megafab Project Faces a New Hurdle as Activists Seek a Benefits Deal](https://www.wired.com/story/micron-chip-fab-community-benefits-agreement/)<!-- TECH:END -->
+ - [Meta plans to expand ads on Threads to all users globally starting next week; Threads began testing ads in the US and Japan a year ago &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260121/p33#a260121p33)
+ - [I relied on my Lenovo Smart Clock’s touch controls for lights — now they’re gone](https://www.androidauthority.com/lenovo-smart-clock-light-control-3634274/)
+ - [ElevenLabs made an AI album to plug its music generator](https://www.theverge.com/news/864843/elevenlabs-ai-music-eleven-album-release)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
