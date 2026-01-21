@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My managers show me this clip to complain about his secretaries&#39; dressing. But I see nothing&#39;s wrong here, they are fully clothed, polite and beautiful](http://9gag.com/gag/aE0Kggx)
- - ⏩ [Never forget](http://9gag.com/gag/aRBW0q2)
- - 👉 [Trained](http://9gag.com/gag/aGyvg45)<!-- MEMES:END -->
+ - 💣 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
+ - ⏩ [Morale is going down my lord...](http://9gag.com/gag/avyqOg5)
+ - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
 
 ---
 
