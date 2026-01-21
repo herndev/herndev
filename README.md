@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Burritos from Heaven: Are drones the future of delivery?](https://www.theverge.com/tech/864601/zipline-drone-delivery-food-takeout-texas)
- - [What a Sony and TCL partnership means for the future of TVs](https://www.theverge.com/tech/864745/sony-tcl-tvs-partnership-explained)
- - [At Davos, Meta CTO Andrew Bosworth says Superintelligence Labs delivered its first high-profile AI models internally this month and the models are &quot;very good&quot; &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/260121/p17#a260121p17)<!-- TECH:END -->
+ - [OpenEvidence, which is building &quot;ChatGPT for doctors&quot;, raised $250M led by Thrive and DST at a $12B valuation, up from $6B in October and $1B in February 2025 &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/260121/p23#a260121p23)
+ - [Salt Lake City-based Zanskar, which uses AI to find overlooked geothermal fields to boost US electricity supply, raised $115M, taking its total funding to $180M &lpar;Benoît Morenne/Wall Street Journal&rpar;](http://www.techmeme.com/260121/p22#a260121p22)
+ - [Sensor Tower: consumers spent $85B on apps globally in 2025, up 21% YoY, and, in a first, more money went on non-game mobile apps than on games, driven by GenAI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260121/p21#a260121p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
