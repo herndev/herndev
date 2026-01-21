@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look at the way he looks at her, there is more to it, he knew what he was doing from the jump](http://9gag.com/gag/aoyoeLg)
- - ⏩ [White Male Privilege](http://9gag.com/gag/aRBW1e2)
- - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
+ - 💣 [Trained](http://9gag.com/gag/aGyvg45)
+ - ⏩ [White people hiking vs black people hiking](http://9gag.com/gag/a4PgRqm)
+ - 👉 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)<!-- MEMES:END -->
 
 ---
 
