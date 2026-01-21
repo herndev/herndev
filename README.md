@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI chip startup SambaNova is seeking to raise $300M to $500M after talks to sell the company to Intel for about $1.6B, including debt, stalled &lpar;Bloomberg&rpar;](http://www.techmeme.com/260121/p41#a260121p41)
+ - [Blue Origin unveils TeraWave, a satellite communications network for enterprise, data center, and government customers, and plans to begin deployment in Q4 2027 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260121/p43#a260121p43)
  - [This time it&#39;ll work: Apple rumored to be developing a wearable AI pin](https://appleinsider.com/articles/26/01/21/this-time-itll-work-apple-rumored-to-be-developing-a-wearable-ai-pin?utm_source=rss)
- - [Nothing’s Essential Space gets more useful by recognizing the connections between all your stuff](https://www.androidauthority.com/nothing-essential-space-related-captures-3634379/)<!-- TECH:END -->
+ - [Neynar, a startup focused on decentralized social media infrastructure, is acquiring Ethereum-based social media project Farcaster from R&amp;D firm Merkle &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/260121/p42#a260121p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
