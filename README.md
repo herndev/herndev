@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple gets a partial win in iPhone user privacy lawsuit, but not on merit](https://appleinsider.com/articles/26/01/21/apple-gets-a-partial-win-in-iphone-user-privacy-lawsuit-but-not-on-merit?utm_source=rss)
- - [YouTube TV will launch custom multiview and channel packages ‘soon’](https://www.theverge.com/news/864566/youtube-tv-custom-multiview-channel-packages)
- - [YouTubers will be able to make Shorts with their own AI likenesses](https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026)<!-- TECH:END -->
+ - [Ozempic maker&#39;s &#39;I&#39;m a Mac&#39; ripoff is painfully unfunny](https://appleinsider.com/articles/26/01/21/ozempic-maker-launches-the-latest-painfully-unfunny-im-a-mac-ripoff?utm_source=rss)
+ - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)
+ - [Adobe updates Acrobat to add new AI features, including presentation generation, file editing, and creating podcast summaries from docs stored in Adobe Spaces &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260121/p30#a260121p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
