@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US and China Are Collaborating More Closely on AI Than You Think](https://www.wired.com/story/us-china-collaboration-neurips-papers/)
- - [ElevenLabs launches an album of original tracks made by artists like Liza Minnelli and Art Garfunkel in &quot;collaboration&quot; with its Eleven Music AI model &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260121/p36#a260121p36)
- - [Google is testing a colorful new feature for Search](https://www.androidauthority.com/google-search-color-your-search-3634340/)<!-- TECH:END -->
+ - [Sources: Apple plans to revamp Siri this fall in iOS 27 and macOS 27 by turning it into the company&#39;s first AI chatbot, replacing the current Siri interface &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260121/p39#a260121p39)
+ - [Future Apple product plans may be at risk following Luxshare hack](https://appleinsider.com/articles/26/01/21/future-apple-product-plans-may-be-at-risk-following-luxshare-hack?utm_source=rss)
+ - [Apple Park employees are testing two new AI chatbots](https://appleinsider.com/articles/26/01/21/apple-park-employees-are-being-tasked-to-test-two-new-ai-assistants?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
