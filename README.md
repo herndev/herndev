@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ozempic maker&#39;s &#39;I&#39;m a Mac&#39; ripoff is painfully unfunny](https://appleinsider.com/articles/26/01/21/ozempic-maker-launches-the-latest-painfully-unfunny-im-a-mac-ripoff?utm_source=rss)
- - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)
- - [Adobe updates Acrobat to add new AI features, including presentation generation, file editing, and creating podcast summaries from docs stored in Adobe Spaces &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260121/p30#a260121p30)<!-- TECH:END -->
+ - [This smartphone runs Android, Linux, and even Windows 11](https://www.androidauthority.com/nexphone-3634049/)
+ - [MAGA’s ‘Manifest Destiny’ Coalition Has Arrived](https://www.wired.com/story/maga-manifest-destiny-coalition/)
+ - [Micron Megafab Project Faces a New Hurdle as Activists Seek a Benefits Deal](https://www.wired.com/story/micron-chip-fab-community-benefits-agreement/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
