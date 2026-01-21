@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns](https://www.wired.com/story/surveillance-and-ice-are-driving-patients-away-from-medical-care-report-warns/)
- - [Sony’s latest earbuds clip onto your ear like jewelry](https://www.androidauthority.com/sony-linkbuds-clip-launched-3634306/)
- - [Ubisoft cancels six games and delays others amid a restructuring into five genre-specific &quot;creative houses&quot;; it expects net bookings of ~€1.5B for FY 2025-2026 &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/260121/p35#a260121p35)<!-- TECH:END -->
+ - [The US and China Are Collaborating More Closely on AI Than You Think](https://www.wired.com/story/us-china-collaboration-neurips-papers/)
+ - [ElevenLabs launches an album of original tracks made by artists like Liza Minnelli and Art Garfunkel in &quot;collaboration&quot; with its Eleven Music AI model &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260121/p36#a260121p36)
+ - [Google is testing a colorful new feature for Search](https://www.androidauthority.com/google-search-color-your-search-3634340/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
