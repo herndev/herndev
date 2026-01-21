@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Barret Zoph says Thinking Machines Lab fired him only after learning he was leaving, and at no time did the company cite his performance or unethical conduct &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260120/p51#a260120p51)
- - [Is OnePlus being dismantled? New report raises serious questions &lpar;Updated: Official statement&rpar;](https://www.androidauthority.com/oneplus-shutdown-3633948/)
- - [One year in, Big Tech has out-maneuvered MAGA populists](https://www.theverge.com/column/864759/big-tech-trump-one-year-in)<!-- TECH:END -->
+ - [China&#39;s Cyberspace Administration requires firms to file their AI tools in a public algorithm registry, creating a detailed map of the country&#39;s AI ecosystem &lpar;Yi-Ling Liu/Wired&rpar;](http://www.techmeme.com/260120/p53#a260120p53)
+ - [Apple services outage hit Apple TV, Maps, &amp; App Store](https://appleinsider.com/articles/26/01/21/apple-services-outage-hits-apple-tv-maps-app-store?utm_source=rss)
+ - [Android 16 beta continues to crash popular work apps, and Google has no fix yet &lpar;Updated: Potential fix&rpar;](https://www.androidauthority.com/android-16-qpr-3-beta-microsoft-office-crash-3633859/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
