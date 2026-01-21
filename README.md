@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interesting shirt](http://9gag.com/gag/ajPv95x)
- - ⏩ [Every.damn.day](http://9gag.com/gag/a6ZgKG2)
- - 👉 [Greenland&#39;s been trolling the US.](http://9gag.com/gag/a87NGLQ)<!-- MEMES:END -->
+ - 💣 [Never underestimate the quiet ones](http://9gag.com/gag/aVvrYm8)
+ - ⏩ [Your partners will thank you](http://9gag.com/gag/a4PgR26)
+ - 👉 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)<!-- MEMES:END -->
 
 ---
 
