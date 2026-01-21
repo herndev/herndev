@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)
- - ⏩ [Interesting shirt](http://9gag.com/gag/ajPv95x)
- - 👉 [Never underestimate the quiet ones](http://9gag.com/gag/aVvrYm8)<!-- MEMES:END -->
+ - ⏩ [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
+ - 👉 [Interesting shirt](http://9gag.com/gag/ajPv95x)<!-- MEMES:END -->
 
 ---
 
