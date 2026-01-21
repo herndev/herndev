@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Witcher 3 Online Mod Lets You Hang Together With Friends](https://kotaku.com/new-witcher-3-online-mod-lets-you-hang-together-with-friends-2000661320)
- - [Lorcana 2026 roadmap: Winterspell, Wilds Unknown, and Attack of the Vine](https://www.polygon.com/disney-lorcana-2026-roadmap-sets-winterspell-wilds-unknown-attack-of-the-vine-pixar/)
- - [Elon Musk and Stephen Miller’s culture war against Star Trek: Starfleet Academy is built on ignorance](https://www.polygon.com/star-trek-starfleet-academy-elon-musk-stephen-miller-woke/)<!-- GAME:END -->
+ - [Microsoft CEO warns that we must &#39;do something useful&#39; with AI or they&#39;ll lose &#39;social permission&#39; to burn electricity on it](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
+ - [The best platformers on PC](https://www.pcgamer.com/best-platformers/)
+ - [Tips for Taking on Iconic League of Legends Champions in 2XKO, Available Today for Xbox](https://news.xbox.com/en-us/2026/01/20/tips-league-of-legends-champions-in-2xko/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
