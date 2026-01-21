@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic responds to director Gore Verbinski&#39;s claims that Unreal Engine is making movie CGI worse: &#39;aesthetic and craft comes from artists, not software&#39;](https://www.pcgamer.com/movies-tv/epic-responds-to-director-gore-verbinskis-claims-that-unreal-engine-is-making-movie-cgi-worse-aesthetic-and-craft-comes-from-artists-not-software/)
- - [This Is The Worst Part Of Borderlands 4](https://kotaku.com/loot-capsules-pods-borderlands-4-worst-part-help-why-bad-gearbox-2000661916)
- - [My 5 favorite &#39;cozy&#39; games that don&#39;t actually look like cozy games](https://www.pcgamer.com/games/my-5-favorite-cozy-games-that-dont-actually-look-like-cozy-games/)<!-- GAME:END -->
+ - [Man Allegedly Pretending To Be An ICE Agent Broke Into A House And Tried To Steal A PlayStation](https://kotaku.com/fake-ice-agent-criminal-pretending-break-in-steal-ps5-playstation-teen-punch-crime-2000661943)
+ - [Ubisoft&#39;s cancellations-and-closures announcement sparks major union backlash against CEO Yves Guillemot, and the inevitable call for a strike: &#39;Perhaps he needs to be reminded that it is his employees who make the games&#39;](https://www.pcgamer.com/gaming-industry/ubisofts-cancellations-and-closures-announcement-sparks-major-union-backlash-against-ceo-yves-guillemot-and-the-inevitable-call-for-a-strike-perhaps-he-needs-to-be-reminded-that-it-is-his-employees-who-make-the-games/)
+ - [WoW&#39;s pre-Midnight patch slams players with massive fashion costs as the overhauled transmog system makes outfitting your alts absurdly expensive: &#39;Feels like they hired a mobile game monetization consultant&#39;](https://www.pcgamer.com/games/world-of-warcraft/wows-pre-midnight-patch-slams-players-with-massive-fashion-costs-as-the-overhauled-transmog-system-makes-outfitting-your-alts-absurdly-expensive-feels-like-they-hired-a-mobile-game-monetization-consultant/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
