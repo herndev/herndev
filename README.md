@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
- - ⏩ [Guess some things just aren&#39;t taught anymore](http://9gag.com/gag/a5QgnOO)
+ - 💣 [Look at the way he looks at her, there is more to it, he knew what he was doing from the jump](http://9gag.com/gag/aoyoeLg)
+ - ⏩ [Your partners will thank you](http://9gag.com/gag/a4PgR26)
  - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
 
 ---
