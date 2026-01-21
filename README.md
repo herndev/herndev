@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crimson Desert secures a March release date as the ambitious Frankenstein&#39;s monster of open world fantasy games goes gold](https://www.pcgamer.com/games/action/crimson-desert-secures-a-march-release-date-as-the-ambitious-frankensteins-monster-of-open-world-fantasy-games-goes-gold/)
- - [Anthem subreddit gets a new lease on life as modder shows the game running without EA&#39;s servers: &#39;We didn&#39;t realize how much demand there&#39;d still be for this forum to keep discussions going&#39;](https://www.pcgamer.com/games/third-person-shooter/anthem-subreddit-gets-a-new-lease-on-life-as-modder-shows-the-game-running-without-eas-servers-we-didnt-realize-how-much-demand-thered-still-be-for-this-forum-to-keep-discussions-going/)
- - [Battlefield 6 Will Bring Back A Classic Big Map But Not For Season 2](https://kotaku.com/battlefield-6-announce-classic-big-map-returning-season-two-details-2000661857)<!-- GAME:END -->
+ - [My 5 favorite &#39;cozy&#39; games that don&#39;t actually look like cozy games](https://www.pcgamer.com/games/my-5-favorite-cozy-games-that-dont-actually-look-like-cozy-games/)
+ - [The ALGS Championship&#39;s underdog winner, Oblivion, just made esports history](https://www.polygon.com/apex-legends-globa-series-monsoon-interview/)
+ - [How A Headline Gets Written At Kotaku: Battlefield 6 Edition](https://kotaku.com/how-a-headline-gets-written-at-kotaku-battlefield-6-edition-2000661912)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
