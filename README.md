@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Taiwanese chipmakers push localization to secure supply chains, suppliers to the steel, plastics, and display industries are moving into Taiwan&#39;s chip sector &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/260121/p9#a260121p9)
- - [Want a QWERTY phone in 2026? Here’s a Clicks Communicator rival you shouldn’t miss](https://www.androidauthority.com/unihertz-titan-2-elite-qwerty-android-phone-3634132/)
- - [This upcoming Ultra flagship was spotted with an insane 300mm telephoto lens extender](https://www.androidauthority.com/oppo-find-x9-ultra-300mm-telephoto-extender-leak-3634135/)<!-- TECH:END -->
+ - [The iPhone 18 Pro is already putting 2026 Android phones to shame](https://www.androidauthority.com/iphone-18-pro-already-putting-2026-android-phones-shame-3633944/)
+ - [Gemini now helps you prep for SATs with free mock tests](https://www.androidauthority.com/google-gemini-sat-prep-test-3634160/)
+ - [As Taiwanese chipmakers push localization to secure supply chains, suppliers to the steel, plastics, and display industries are moving into Taiwan&#39;s chip sector &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/260121/p9#a260121p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
