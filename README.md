@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Multiple Apple services, including Apple TV, the App Store, and iCloud have been experiencing outages since 6:48 PM ET, according to Apple&#39;s system status page &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/260120/p50#a260120p50)
  - [Analysis: the Trump family has generated about $1.4B from crypto projects since Trump&#39;s inauguration a year ago, making up about one-fifth of their fortune &lpar;Bloomberg&rpar;](http://www.techmeme.com/260120/p49#a260120p49)
- - [Apple services outage hits Apple TV, Maps, &amp; App Store](https://appleinsider.com/articles/26/01/21/apple-services-outage-hits-apple-tv-maps-app-store?utm_source=rss)
- - [G42 CEO Peng Xiao says AI chip shipments from Nvidia, AMD, and Cerebras are set to arrive in the UAE within the next few months, as the UAE builds a 200MW hub &lpar;Bloomberg&rpar;](http://www.techmeme.com/260120/p48#a260120p48)<!-- TECH:END -->
+ - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
