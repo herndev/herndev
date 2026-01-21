@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Gemini Calendar trick turns a simple invite into a privacy nightmare](https://www.androidauthority.com/gemini-google-calendar-exploit-3634125/)
- - [The Gates Foundation and OpenAI plan to invest $50M to use AI to ease the impact of chronic staff shortages in 1,000 primary health clinics in Africa by 2028 &lpar;Financial Times&rpar;](http://www.techmeme.com/260121/p3#a260121p3)
- - [Apple wins dismissal of parts of a class action alleging it violated CA privacy law by collecting user data from its apps despite users believing they opted out &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/260121/p2#a260121p2)<!-- TECH:END -->
+ - [Bengaluru-based Amagi, an ad tools provider for broadcast and streaming TV, fell below its listing price in its India market debut after raising $196M in an IPO &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260121/p6#a260121p6)
+ - [Sealy Promo Code: Save $200 on Mattresses This Month](https://www.wired.com/story/sealy-promo-code/)
+ - [Thoma Bravo co-founder Orlando Bravo says the slump in software company valuations over threat of AI-driven disruption is creating a &quot;huge buying opportunity&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260121/p5#a260121p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
