@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never underestimate the quiet ones](http://9gag.com/gag/aVvrYm8)
- - ⏩ [Interesting shirt](http://9gag.com/gag/ajPv95x)
- - 👉 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)<!-- MEMES:END -->
+ - 💣 [Interesting shirt](http://9gag.com/gag/ajPv95x)
+ - ⏩ [Never underestimate the quiet ones](http://9gag.com/gag/aVvrYm8)
+ - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
 
 ---
 
