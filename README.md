@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trained](http://9gag.com/gag/aGyvg45)
- - ⏩ [White people hiking vs black people hiking](http://9gag.com/gag/a4PgRqm)
- - 👉 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)<!-- MEMES:END -->
+ - 💣 [Interesting shirt](http://9gag.com/gag/ajPv95x)
+ - ⏩ [Mom treating son to the wildest ride of his life](http://9gag.com/gag/adBAKrV)
+ - 👉 [Your partners will thank you](http://9gag.com/gag/a4PgR26)<!-- MEMES:END -->
 
 ---
 
