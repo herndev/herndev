@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Arknights: Endfield launch times and release date](https://www.pcgamer.com/games/rpg/arknights-endfield-launch-time-release-date/)
  - [Microsoft CEO warns that we must &#39;do something useful&#39; with AI or they&#39;ll lose &#39;social permission&#39; to burn electricity on it](https://www.pcgamer.com/software/ai/microsoft-ceo-warns-that-we-must-do-something-useful-with-ai-or-theyll-lose-social-permission-to-burn-electricity-on-it/)
- - [The best platformers on PC](https://www.pcgamer.com/best-platformers/)
- - [Tips for Taking on Iconic League of Legends Champions in 2XKO, Available Today for Xbox](https://news.xbox.com/en-us/2026/01/20/tips-league-of-legends-champions-in-2xko/)<!-- GAME:END -->
+ - [The best platformers on PC](https://www.pcgamer.com/best-platformers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
