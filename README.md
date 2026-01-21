@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans to revamp Siri this fall in iOS 27 and macOS 27 by turning it into the company&#39;s first AI chatbot, replacing the current Siri interface &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260121/p39#a260121p39)
- - [Future Apple product plans may be at risk following Luxshare hack](https://appleinsider.com/articles/26/01/21/future-apple-product-plans-may-be-at-risk-following-luxshare-hack?utm_source=rss)
- - [Apple Park employees are testing two new AI chatbots](https://appleinsider.com/articles/26/01/21/apple-park-employees-are-being-tasked-to-test-two-new-ai-assistants?utm_source=rss)<!-- TECH:END -->
+ - [Sources: AI chip startup SambaNova is seeking to raise $300M to $500M after talks to sell the company to Intel for about $1.6B, including debt, stalled &lpar;Bloomberg&rpar;](http://www.techmeme.com/260121/p41#a260121p41)
+ - [This time it&#39;ll work: Apple rumored to be developing a wearable AI pin](https://appleinsider.com/articles/26/01/21/this-time-itll-work-apple-rumored-to-be-developing-a-wearable-ai-pin?utm_source=rss)
+ - [Nothing’s Essential Space gets more useful by recognizing the connections between all your stuff](https://www.androidauthority.com/nothing-essential-space-related-captures-3634379/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
