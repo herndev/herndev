@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta plans to expand ads on Threads to all users globally starting next week; Threads began testing ads in the US and Japan a year ago &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260121/p33#a260121p33)
- - [I relied on my Lenovo Smart Clock’s touch controls for lights — now they’re gone](https://www.androidauthority.com/lenovo-smart-clock-light-control-3634274/)
- - [ElevenLabs made an AI album to plug its music generator](https://www.theverge.com/news/864843/elevenlabs-ai-music-eleven-album-release)<!-- TECH:END -->
+ - [Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns](https://www.wired.com/story/surveillance-and-ice-are-driving-patients-away-from-medical-care-report-warns/)
+ - [Sony’s latest earbuds clip onto your ear like jewelry](https://www.androidauthority.com/sony-linkbuds-clip-launched-3634306/)
+ - [Ubisoft cancels six games and delays others amid a restructuring into five genre-specific &quot;creative houses&quot;; it expects net bookings of ~€1.5B for FY 2025-2026 &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/260121/p35#a260121p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
