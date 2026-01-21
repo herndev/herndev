@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
- - ⏩ [White Male Privilege](http://9gag.com/gag/aRBW1e2)
- - 👉 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)<!-- MEMES:END -->
+ - 💣 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
+ - ⏩ [Guess some things just aren&#39;t taught anymore](http://9gag.com/gag/a5QgnOO)
+ - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
 
 ---
 
