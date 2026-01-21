@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
- - [X says it has open sourced its &quot;core recommendation system&quot; on GitHub and that the system &quot;ranks everything using a Grok-based transformer model&quot; &lpar;Lucas Ropek/TechCrunch&rpar;](http://www.techmeme.com/260120/p45#a260120p45)
- - [Drone delivery startup Zipline raised $600M+, boosting its valuation to $7.6B, and says it has now completed 2M+ commercial deliveries of 20M different items &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/260120/p44#a260120p44)<!-- TECH:END -->
+ - [G42 CEO Peng Xiao says AI chip shipments from Nvidia, AMD, and Cerebras are set to arrive in the UAE within the next few months, as the UAE builds a 200MW hub &lpar;Bloomberg&rpar;](http://www.techmeme.com/260120/p48#a260120p48)
+ - [French court says Apple App Tracking Transparency function can stay](https://appleinsider.com/articles/26/01/21/french-court-says-apple-app-tracking-transparency-function-can-stay?utm_source=rss)
+ - [Sources: Applied Compute, which lets companies customize models with their own data, is in talks to raise funding at a $1.3B valuation, up from $500M in October &lpar;The Information&rpar;](http://www.techmeme.com/260120/p47#a260120p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
