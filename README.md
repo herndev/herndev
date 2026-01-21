@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My 5 favorite &#39;cozy&#39; games that don&#39;t actually look like cozy games](https://www.pcgamer.com/games/my-5-favorite-cozy-games-that-dont-actually-look-like-cozy-games/)
- - [The ALGS Championship&#39;s underdog winner, Oblivion, just made esports history](https://www.polygon.com/apex-legends-globa-series-monsoon-interview/)
- - [How A Headline Gets Written At Kotaku: Battlefield 6 Edition](https://kotaku.com/how-a-headline-gets-written-at-kotaku-battlefield-6-edition-2000661912)<!-- GAME:END -->
+ - [Epic responds to director Gore Verbinski&#39;s claims that Unreal Engine is making movie CGI worse: &#39;aesthetic and craft comes from artists, not software&#39;](https://www.pcgamer.com/movies-tv/epic-responds-to-director-gore-verbinskis-claims-that-unreal-engine-is-making-movie-cgi-worse-aesthetic-and-craft-comes-from-artists-not-software/)
+ - [This Is The Worst Part Of Borderlands 4](https://kotaku.com/loot-capsules-pods-borderlands-4-worst-part-help-why-bad-gearbox-2000661916)
+ - [My 5 favorite &#39;cozy&#39; games that don&#39;t actually look like cozy games](https://www.pcgamer.com/games/my-5-favorite-cozy-games-that-dont-actually-look-like-cozy-games/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
