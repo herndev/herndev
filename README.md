@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 18 Pro is already putting 2026 Android phones to shame](https://www.androidauthority.com/iphone-18-pro-already-putting-2026-android-phones-shame-3633944/)
- - [Gemini now helps you prep for SATs with free mock tests](https://www.androidauthority.com/google-gemini-sat-prep-test-3634160/)
- - [As Taiwanese chipmakers push localization to secure supply chains, suppliers to the steel, plastics, and display industries are moving into Taiwan&#39;s chip sector &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/260121/p9#a260121p9)<!-- TECH:END -->
+ - [I wish every Android app looked as good as this one](https://www.androidauthority.com/android-app-design-3631537/)
+ - [Survey reveals which Android phone brand you thought had the best 2025](https://www.androidauthority.com/best-android-phone-oem-2025-poll-result-3634045/)
+ - [AT&amp;T wants to fix your terrible stadium 5G, even if you have Verizon or T-Mobile](https://www.androidauthority.com/att-turbo-live-announced-3634154/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
