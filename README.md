@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can a single screenshot predict a Steam game&#39;s success? Kind of!](https://www.polygon.com/steam-game-screenshot-sales-popularity-neural-network-data-valve/)
- - [The new Hana-Kimi anime fails to live up to its iconic 30-year legacy](https://www.polygon.com/the-new-hana-kimi-anime-fails-to-live-up-to-its-iconic-30-year-legacy/)
- - [&#39;Everyone will be able to try Marathon&#39; before launch as Bungie takes a second, sharper stab at reviving the iconic series as an extraction shooter in a post-Arc Raiders world](https://www.pcgamer.com/games/fps/everyone-will-be-able-to-try-marathon-before-launch-as-bungie-takes-a-second-sharper-stab-at-reviving-the-iconic-series-as-an-extraction-shooter-in-a-post-arc-raiders-world/)<!-- GAME:END -->
+ - [Crimson Desert secures a March release date as the ambitious Frankenstein&#39;s monster of open world fantasy games goes gold](https://www.pcgamer.com/games/action/crimson-desert-secures-a-march-release-date-as-the-ambitious-frankensteins-monster-of-open-world-fantasy-games-goes-gold/)
+ - [Anthem subreddit gets a new lease on life as modder shows the game running without EA&#39;s servers: &#39;We didn&#39;t realize how much demand there&#39;d still be for this forum to keep discussions going&#39;](https://www.pcgamer.com/games/third-person-shooter/anthem-subreddit-gets-a-new-lease-on-life-as-modder-shows-the-game-running-without-eas-servers-we-didnt-realize-how-much-demand-thered-still-be-for-this-forum-to-keep-discussions-going/)
+ - [Battlefield 6 Will Bring Back A Classic Big Map But Not For Season 2](https://kotaku.com/battlefield-6-announce-classic-big-map-returning-season-two-details-2000661857)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
