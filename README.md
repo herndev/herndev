@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be untired and happy!](http://9gag.com/gag/aMV7YxA)
- - ⏩ [Yes, we sacrifice those CDs to the god Nero](http://9gag.com/gag/aoyo5Gn)
- - 👉 [White people hiking vs black people hiking](http://9gag.com/gag/a4PgRqm)<!-- MEMES:END -->
+ - 💣 [These two are the real MVPs](http://9gag.com/gag/a1mgQP6)
+ - ⏩ [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
+ - 👉 [Knee pain will be a thing of the past](http://9gag.com/gag/aD29xex)<!-- MEMES:END -->
 
 ---
 
