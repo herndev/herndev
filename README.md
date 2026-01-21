@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your partners will thank you](http://9gag.com/gag/a4PgR26)
- - ⏩ [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
- - 👉 [Never underestimate the quiet ones](http://9gag.com/gag/aVvrYm8)<!-- MEMES:END -->
+ - 💣 [Interesting shirt](http://9gag.com/gag/ajPv95x)
+ - ⏩ [Every.damn.day](http://9gag.com/gag/a6ZgKG2)
+ - 👉 [Greenland&#39;s been trolling the US.](http://9gag.com/gag/a87NGLQ)<!-- MEMES:END -->
 
 ---
 
