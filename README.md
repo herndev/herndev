@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox Developer Direct 2026: the biggest games and announcements](https://www.theverge.com/games/865573/xbox-developer-direct-2026-the-biggest-games-and-announcements)
- - [ICE Agents Are ‘Doxing’ Themselves](https://www.wired.com/story/ice-agents-are-doxing-themselves/)
- - [Substack launches its Substack TV app for Apple TV and Google TV in beta for free and paid subscribers, with access matched to their current subscription levels &lpar;On Substack&rpar;](http://www.techmeme.com/260122/p38#a260122p38)<!-- TECH:END -->
+ - [Fable is coming to PS5 when it finally launches this fall](https://www.theverge.com/news/865305/fable-xbox-playground-games-developer-direct-2026-ps5-pc)
+ - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
+ - [One of Our Favorite Smart Plugs for Apple Users Is $15 Off](https://www.wired.com/story/meross-smart-plug-deal-126/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
