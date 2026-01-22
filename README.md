@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey: over 40% of executives said AI saved them more than eight hours per week, while two-thirds of non-management staff said they saved less than two hours &lpar;Lindsay Ellis/Wall Street Journal&rpar;](http://www.techmeme.com/260122/p6#a260122p6)
- - [eBay Coupon Codes and Deals: Up to 60% Off Select Items](https://www.wired.com/story/ebay-coupon-code/)
- - [20% Off LG Promo Code &amp; Coupons | January 2026](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
+ - [Q&amp;A with recently departed OpenAI VP of Research Jerry Tworek, who claims OpenAI&#39;s shift toward more conservative ways made high-risk, pioneering work harder &lpar;Core Memory&rpar;](http://www.techmeme.com/260122/p8#a260122p8)
+ - [Your T-Mobile bill is going up for the second time in a year](https://www.androidauthority.com/t-mobile-fee-hike-january-2026-3634446/)
+ - [$100 Off Shark Promo Code | This January](https://www.wired.com/story/shark-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
