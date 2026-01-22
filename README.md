@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried out Mint’s home internet service to find out if it’s actually worth it](https://www.androidauthority.com/minternet-service-3632100/)
- - [Hate Your iPhone&#39;s New Liquid Glass Design in iOS 26? Here&#39;s How to Change It](https://www.cnet.com/tech/services-and-software/apple-iphone-ios-26-1-liquid-glass-design-change/)
- - [Add These Superfoods to Your Diet for Strong and Healthy Kidneys](https://www.cnet.com/health/nutrition/kidney-friendly-superfoods-to-add-to-your-grocery-list/)<!-- TECH:END -->
+ - [Samsung confirms Galaxy Watch bug is breaking Do Not Disturb, but here’s a fix](https://www.androidauthority.com/samsung-galaxy-watches-dnd-bug-fix-3634506/)
+ - [The Galaxy A57 proves Samsung gave up on its flagship Galaxy S phones](https://www.androidauthority.com/galaxy-a57-proves-samsung-gave-up-on-flagship-galaxy-s-phones-3634267/)
+ - [NYT and CCDH analysis: Grok created and shared 1.8M+ sexualized images of women between December 31 and January 8, after Elon Musk promoted the feature on X &lpar;New York Times&rpar;](http://www.techmeme.com/260122/p16#a260122p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
