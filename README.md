@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BitGo raises $212.8M in its US IPO at $18 per share, above the marketed range of $15 to $17 per share, giving it a market value of about $2.1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260121/p51#a260121p51)
  - [Here’s how Spotify pulled off a legal ambush to stop that 300TB dump of stolen music](https://www.androidauthority.com/spotify-vs-annas-archive-3634415/)
- - [xAI engineer Sulaiman Ghori says he has &quot;left&quot; the company days after appearing on a podcast last week where he claimed that xAI had been skirting regulations &lpar;AJ Dellinger/Gizmodo&rpar;](http://www.techmeme.com/260121/p50#a260121p50)
- - [Marketing tech startup Applecart raised $100M in a minority funding round led by Blackstone&#39;s growth equity business, a source says at a ~$700M valuation &lpar;Myles Miller/Bloomberg&rpar;](http://www.techmeme.com/260121/p49#a260121p49)<!-- TECH:END -->
+ - [xAI engineer Sulaiman Ghori says he has &quot;left&quot; the company days after appearing on a podcast last week where he claimed that xAI had been skirting regulations &lpar;AJ Dellinger/Gizmodo&rpar;](http://www.techmeme.com/260121/p50#a260121p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
