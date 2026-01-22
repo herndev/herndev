@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Sherlock Holmes Chapter One, South Park: Snow Day, This War of Mine: Final Cut and Cult of the Lamb](https://news.xbox.com/en-us/2026/01/22/free-play-days-01-22-2026/)
- - [Samsung Galaxy S26 Is Coming, and the S25 FE Gets Cleared Out at a Record Low Even Though It’s Still a New Smartphone](https://kotaku.com/samsung-galaxy-s26-is-coming-and-the-s25-fe-gets-cleared-out-at-a-record-low-even-though-its-still-a-new-smartphone-2000661977)
- - [Starfleet Academy’s War College shouldn’t be a joke](https://www.polygon.com/starfleet-academy-war-college-analysis/)<!-- GAME:END -->
+ - [Epic Games CEO Says Everyone Wins With ‘More Options’ While Alan Wake 2 Still Isn’t On Steam](https://kotaku.com/alan-wake-2-steam-epic-games-publishing-deal-tim-sweeney-2000662259)
+ - [007 First Light: Everything We Know About The Hitman Devs’ James Bond Game](https://kotaku.com/everything-we-know-about-007-first-light-hitman-ioi-ps5-xbox-release-date-2000662247)
+ - [Anker Goes Full Liquidation on Docking Stations, Its 14-Port 160W Dock Crashes to an All-Time Low](https://kotaku.com/anker-goes-full-liquidation-on-docking-stations-its-14-port-160w-dock-crashes-to-an-all-time-low-2000661988)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
