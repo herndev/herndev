@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Man Allegedly Pretending To Be An ICE Agent Broke Into A House And Tried To Steal A PlayStation](https://kotaku.com/fake-ice-agent-criminal-pretending-break-in-steal-ps5-playstation-teen-punch-crime-2000661943)
- - [Ubisoft&#39;s cancellations-and-closures announcement sparks major union backlash against CEO Yves Guillemot, and the inevitable call for a strike: &#39;Perhaps he needs to be reminded that it is his employees who make the games&#39;](https://www.pcgamer.com/gaming-industry/ubisofts-cancellations-and-closures-announcement-sparks-major-union-backlash-against-ceo-yves-guillemot-and-the-inevitable-call-for-a-strike-perhaps-he-needs-to-be-reminded-that-it-is-his-employees-who-make-the-games/)
- - [WoW&#39;s pre-Midnight patch slams players with massive fashion costs as the overhauled transmog system makes outfitting your alts absurdly expensive: &#39;Feels like they hired a mobile game monetization consultant&#39;](https://www.pcgamer.com/games/world-of-warcraft/wows-pre-midnight-patch-slams-players-with-massive-fashion-costs-as-the-overhauled-transmog-system-makes-outfitting-your-alts-absurdly-expensive-feels-like-they-hired-a-mobile-game-monetization-consultant/)<!-- GAME:END -->
+ - [&#39;There is a world beyond Embervale&#39;: Enshrouded dev diary paves the way to 1.0 in fall of 2026, says &#39;development will continue for years to come&#39;](https://www.pcgamer.com/games/survival-crafting/enshrouded-2026-roadmap-and-fall-release-window/)
+ - [Don&#39;t call it a layoff: Ubisoft issues a full return-to-office order for all employees as it confirms more studio closures are coming](https://www.pcgamer.com/gaming-industry/dont-call-it-a-layoff-ubisoft-issues-a-full-return-to-office-order-for-all-employees-as-it-confirms-more-studio-closures-are-coming/)
+ - [As Ubisoft struggles to get games out the door, it&#39;s investing even more into generative AI](https://www.pcgamer.com/gaming-industry/game-development/as-ubisoft-struggles-to-get-games-out-the-door-its-investing-even-more-into-generative-ai/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
