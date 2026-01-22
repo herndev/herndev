@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;There is a world beyond Embervale&#39;: Enshrouded dev diary paves the way to 1.0 in fall of 2026, says &#39;development will continue for years to come&#39;](https://www.pcgamer.com/games/survival-crafting/enshrouded-2026-roadmap-and-fall-release-window/)
- - [Don&#39;t call it a layoff: Ubisoft issues a full return-to-office order for all employees as it confirms more studio closures are coming](https://www.pcgamer.com/gaming-industry/dont-call-it-a-layoff-ubisoft-issues-a-full-return-to-office-order-for-all-employees-as-it-confirms-more-studio-closures-are-coming/)
- - [As Ubisoft struggles to get games out the door, it&#39;s investing even more into generative AI](https://www.pcgamer.com/gaming-industry/game-development/as-ubisoft-struggles-to-get-games-out-the-door-its-investing-even-more-into-generative-ai/)<!-- GAME:END -->
+ - [How to transmit power to the Protocol Resonance Tower in Arknights: Endfield](https://www.pcgamer.com/games/rpg/arknights-endfield-transmit-power-relay-tower-valley-reboot/)
+ - [How to use Protocol Dataloggers in Arknights: Endfield](https://www.pcgamer.com/games/rpg/arknights-endfield-protocol-datalogger-balloon-men/)
+ - [Arknights: Endfield tier list and best characters](https://www.pcgamer.com/games/rpg/arknights-endfield-tier-list-best-characters/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
