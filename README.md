@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: the top US tech companies spent $109M on DC lobbying in 2025, topping $100M for the first time; Meta spent $26.29M, Amazon $17.78M, and Google $13.1M &lpar;Bloomberg&rpar;](http://www.techmeme.com/260122/p46#a260122p46)
- - [Google Home is making it simpler to add new devices](https://www.androidauthority.com/google-home-updated-device-setup-3634717/)
- - [Ring claims it&amp;#8217;s not giving ICE access to its cameras](https://www.theverge.com/news/866003/ring-ice-camera-access-flock)<!-- TECH:END -->
+ - [Epic and Google have a secret $800 million Unreal Engine and services deal](https://www.theverge.com/policy/866140/epic-google-fortnite-android-unreal-deal-antitrust-settlement)
+ - [Capital One agrees to acquire Brex, which specializes in tech to administer corporate credit cards, expenses, and rewards, for $5.15B in cash and stock &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260122/p48#a260122p48)
+ - [Sen. Markey questions OpenAI about ‘deceptive advertising’ in ChatGPT](https://www.theverge.com/news/865854/senator-ed-markey-ai-companies-chatbots-advertising)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
