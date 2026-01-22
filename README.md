@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In response to Epic CEO Tim Sweeney waging war on Steam, Larian&#39;s publishing lead says, &#39;Giving everyone everything for free might bump numbers but doesn&#39;t create a viable storefront&#39;](https://www.pcgamer.com/software/platforms/in-response-to-epic-ceo-tim-sweeney-waging-war-on-steam-larians-publishing-lead-says-giving-everyone-everything-for-free-might-bump-numbers-but-doesnt-create-a-viable-storefront/)
- - [Netflix new anime movie Cosmic Princess Kaguya! is missing one key thing](https://www.polygon.com/cosmic-princess-kaguya-review-anime-netflix/)
- - [There&#39;s a multiplayer mod for The Witcher 3 so you can turn one of the finest singleplayer RPGs of all time into an MMO instead](https://www.pcgamer.com/games/rpg/theres-a-multiplayer-mod-for-the-witcher-3-so-you-can-turn-one-of-the-finest-singleplayer-rpgs-of-all-time-into-an-mmo-instead/)<!-- GAME:END -->
+ - [The Fallout cast discusses morality and survival in the Wasteland](https://www.polygon.com/fallout-season-2-morality-interview/)
+ - [Ubisoft Shares Tumble To Awful Lows Following Yesterday’s Cancellation Announcements](https://kotaku.com/ubisoft-share-price-crash-prince-of-persia-ai-2000662169)
+ - [Blizzard has teased new Overwatch survey skins, and the usual suspects aren&#39;t shy about hogging the concept collections](https://www.pcgamer.com/games/fps/overwatch-survey-skins-january-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
