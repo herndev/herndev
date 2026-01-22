@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Incident report regrets? Google Maps prepares a much-needed fix](https://www.androidauthority.com/google-maps-delete-incident-reports-apk-teardown-3634453/)
- - [Samsung admits liability in exploded Galaxy S25 Plus case, user says &lpar;Updated: Verified&rpar;](https://www.androidauthority.com/samsung-galaxy-s25-plus-explosion-case-3634441/)
- - [Q&amp;A with recently departed OpenAI VP of Research Jerry Tworek, who claims OpenAI&#39;s shift toward more conservative ways made high-risk, pioneering work harder &lpar;Core Memory&rpar;](http://www.techmeme.com/260122/p8#a260122p8)<!-- TECH:END -->
+ - [It’s time to give up on Motorola smartwatches](https://www.androidauthority.com/motorola-smartwatches-are-done-3631530/)
+ - [Stop Rinsing After Brushing Your Teeth. Here&#39;s Why](https://www.cnet.com/health/personal-care/why-stop-rinsing-after-brushing-teeth/)
+ - [South Korea&#39;s Kospi stock index breaks through the record 5,000 level, driven by chip stocks, led by Samsung, up ~3X, and SK Hynix, up ~4x, in the past year &lpar;Daniel Tudor/Financial Times&rpar;](http://www.techmeme.com/260122/p9#a260122p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
