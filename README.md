@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Fallout cast discusses morality and survival in the Wasteland](https://www.polygon.com/fallout-season-2-morality-interview/)
- - [Ubisoft Shares Tumble To Awful Lows Following Yesterday’s Cancellation Announcements](https://kotaku.com/ubisoft-share-price-crash-prince-of-persia-ai-2000662169)
- - [Blizzard has teased new Overwatch survey skins, and the usual suspects aren&#39;t shy about hogging the concept collections](https://www.pcgamer.com/games/fps/overwatch-survey-skins-january-2026/)<!-- GAME:END -->
+ - [Samsung’s Nintendo Switch 2–Optimized microSD Card Crashes to Its Lowest Price at Under $0.16 per GB](https://kotaku.com/samsungs-nintendo-switch-2-optimized-microsd-card-crashes-to-its-lowest-price-at-under-0-16-per-gb-2000661937)
+ - [Behold the future of PC gaming: Upscaled 77p potatovision—and it&#39;s not quite as awful as you imagine](https://www.pcgamer.com/hardware/graphics-cards/behold-the-future-of-pc-gaming-upscaled-77p-potatovision-and-its-not-quite-as-awful-as-you-imagine/)
+ - [Today’s Xbox Developer Direct Expected To Confirm May Release For Forza Horizon 6](https://kotaku.com/xbox-developer-direct-time-youtube-fable-forza-game-freak-2000662194)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
