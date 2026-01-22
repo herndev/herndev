@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tired of Spotify’s mixes? Prompted Playlist lets you generate new ones on the fly](https://www.androidauthority.com/spotify-prompted-playlist-us-canada-3634387/)
- - [Best Nintendo Switch 2 Accessories &lpar;2026&rpar;: Controllers, Cases, and More](https://www.wired.com/gallery/best-switch-2-accessories/)
- - [1Password is introducing a new phishing prevention feature](https://www.theverge.com/tech/864980/1password-security-phishing-attack-prevention-password-browser-extension-scammers)<!-- TECH:END -->
+ - [Waymo launches its robotaxi service in Miami, its sixth market, initially covering a 60-square-mile area, and partners with Moove for fleet management &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260122/p26#a260122p26)
+ - [This plugin uses Wikipedia&amp;#8217;s AI-spotting guide to make AI writing sound more human](https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill)
+ - [Animations in the Play Store looking different? You might be seeing this M3E change](https://www.androidauthority.com/google-play-store-expressive-download-animations-3634541/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
