@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo launches its robotaxi service in Miami, its sixth market, initially covering a 60-square-mile area, and partners with Moove for fleet management &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260122/p26#a260122p26)
- - [This plugin uses Wikipedia&amp;#8217;s AI-spotting guide to make AI writing sound more human](https://www.theverge.com/news/865627/wikipedia-ai-slop-guide-anthropic-claude-skill)
- - [Animations in the Play Store looking different? You might be seeing this M3E change](https://www.androidauthority.com/google-play-store-expressive-download-animations-3634541/)<!-- TECH:END -->
+ - [Google Search now knows what you did last summer, thanks to Gmail and Photos integration](https://www.androidauthority.com/google-search-ai-mode-personal-intelligence-3634488/)
+ - [Google Search AI Mode can use Gmail and Photos to get to know you](https://www.theverge.com/news/865548/google-ai-mode-search-personal-intelligence-update)
+ - [Cambio, creator of AI-powered commercial real estate software for institutional investors, raised an $18M Series A led by Maverick Ventures at a $100M valuation &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260122/p30#a260122p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
