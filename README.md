@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MTG TMNT’s best Commander could come from Final Fantasy](https://www.polygon.com/mtg-tmnt-leaks-prerelease-jenova-ancient-calamity-commander-deck/)
- - [Samsung Drops the Galaxy Tab S10 Lite With Its Biggest Discount of the Year While iPad Prices Stay Frozen](https://kotaku.com/samsung-drops-the-galaxy-tab-s10-lite-with-its-biggest-discount-of-the-year-while-ipad-prices-stay-frozen-2000661993)
- - [All active Arknights: Endfield codes for free items](https://www.polygon.com/arknights-endfield-codes-redeem-how-to/)<!-- GAME:END -->
+ - [Free Play Days – Sherlock Holmes Chapter One, South Park: Snow Day, This War of Mine: Final Cut and Cult of the Lamb](https://news.xbox.com/en-us/2026/01/22/free-play-days-01-22-2026/)
+ - [Samsung Galaxy S26 Is Coming, and the S25 FE Gets Cleared Out at a Record Low Even Though It’s Still a New Smartphone](https://kotaku.com/samsung-galaxy-s26-is-coming-and-the-s25-fe-gets-cleared-out-at-a-record-low-even-though-its-still-a-new-smartphone-2000661977)
+ - [Starfleet Academy’s War College shouldn’t be a joke](https://www.polygon.com/starfleet-academy-war-college-analysis/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
