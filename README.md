@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
- - ⏩ [Equal pay:](http://9gag.com/gag/a0egNgX)
- - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
+ - 💣 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
+ - ⏩ [Strong independent women from Netflix VS how it would be](http://9gag.com/gag/awyjoE8)
+ - 👉 [Equal pay:](http://9gag.com/gag/a0egNgX)<!-- MEMES:END -->
 
 ---
 
