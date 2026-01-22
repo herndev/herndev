@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [There&#39;s a multiplayer mod for The Witcher 3 so you can turn one of the finest singleplayer RPGs of all time into an MMO instead](https://www.pcgamer.com/games/rpg/theres-a-multiplayer-mod-for-the-witcher-3-so-you-can-turn-one-of-the-finest-singleplayer-rpgs-of-all-time-into-an-mmo-instead/)
  - [How to transmit power to the Protocol Resonance Tower in Arknights: Endfield](https://www.pcgamer.com/games/rpg/arknights-endfield-transmit-power-relay-tower-valley-reboot/)
- - [How to use Protocol Dataloggers in Arknights: Endfield](https://www.pcgamer.com/games/rpg/arknights-endfield-protocol-datalogger-balloon-men/)
- - [Arknights: Endfield tier list and best characters](https://www.pcgamer.com/games/rpg/arknights-endfield-tier-list-best-characters/)<!-- GAME:END -->
+ - [How to use Protocol Dataloggers in Arknights: Endfield](https://www.pcgamer.com/games/rpg/arknights-endfield-protocol-datalogger-balloon-men/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
