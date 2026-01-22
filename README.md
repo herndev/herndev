@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every.damn.day](http://9gag.com/gag/a6ZgKG2)
+ - 💣 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
  - ⏩ [Interesting shirt](http://9gag.com/gag/ajPv95x)
- - 👉 [Title](http://9gag.com/gag/aZZX0Rn)<!-- MEMES:END -->
+ - 👉 [Your partners will thank you](http://9gag.com/gag/a4PgR26)<!-- MEMES:END -->
 
 ---
 
