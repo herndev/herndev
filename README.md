@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Developer Direct games showcase announced for January 2026](https://www.polygon.com/xbox-showcase-2026-developer-direct-january-date-time/)
- - [Marvel Rivals $40K tourney organizer admits Widow switch ban was wrong](https://www.polygon.com/marvel-rivals-kingsman265-zazzastack-black-widow-basim-apology/)
- - [Anti-Extremism Game Accidentally Spawns Far-Right ‘Cute Goth E-Girl’ Meme](https://kotaku.com/anime-goth-egirl-meme-alt-right-visual-novel-2000662271)<!-- GAME:END -->
+ - [Hyperkin&#39;s new Infinakore Fender Telecaster guitar controller is a 3D-printing dream come true](https://www.polygon.com/hyperkin-drakong-infinakore-fender-telecasater-guitar-controller/)
+ - [Double Fine reveals surprise new game Kiln at Xbox Developer Direct](https://www.polygon.com/kiln-double-fine-game-release-date-xbox-developer-direct/)
+ - [Fable Reboot Features ‘Seamless’ Open World And Is Launching This Fall](https://kotaku.com/fable-reboot-features-seamless-open-world-and-is-launching-this-fall-2000662295)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
