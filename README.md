@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China Lunar New Year discounts arrive, in profoundly limited quantities](https://appleinsider.com/articles/26/01/22/china-lunar-new-year-discounts-arrive-in-profoundly-limited-quantities?utm_source=rss)
- - [How Apple nearly chickened out and came close to not airing the legendary &quot;1984&quot; ad](https://appleinsider.com/articles/26/01/22/how-apple-nearly-chickened-out-and-nearly-didnt-run-its-famous-1984-ad?utm_source=rss)
- - [Austin-based Neurophos, which develops a photon-based &quot;Optical Processing Unit&quot; to replace GPUs in AI training, raised $110M led by Bill Gates&#39; Gates Frontier &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/260122/p21#a260122p21)<!-- TECH:END -->
+ - [Tired of Spotify’s mixes? Prompted Playlist lets you generate new ones on the fly](https://www.androidauthority.com/spotify-prompted-playlist-us-canada-3634387/)
+ - [Best Nintendo Switch 2 Accessories &lpar;2026&rpar;: Controllers, Cases, and More](https://www.wired.com/gallery/best-switch-2-accessories/)
+ - [1Password is introducing a new phishing prevention feature](https://www.theverge.com/tech/864980/1password-security-phishing-attack-prevention-password-browser-extension-scammers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
