@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marketing tech startup Applecart raised $100M in a minority funding round led by Blackstone&#39;s growth equity business, a source says at a ~$700M valuation &lpar;Myles Miller/Bloomberg&rpar;](http://www.techmeme.com/260121/p49#a260121p49)
- - [Anker Nano Charger with display review: New travel charger knows your iPhone](https://appleinsider.com/articles/26/01/22/anker-nano-charger-with-display-review-new-travel-charger-knows-your-iphone?utm_source=rss)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 22, #486](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-22-486/)<!-- TECH:END -->
+ - [Here’s how Spotify pulled off a legal ambush to stop that 300TB dump of stolen music](https://www.androidauthority.com/spotify-vs-annas-archive-3634415/)
+ - [xAI engineer Sulaiman Ghori says he has &quot;left&quot; the company days after appearing on a podcast last week where he claimed that xAI had been skirting regulations &lpar;AJ Dellinger/Gizmodo&rpar;](http://www.techmeme.com/260121/p50#a260121p50)
+ - [Marketing tech startup Applecart raised $100M in a minority funding round led by Blackstone&#39;s growth equity business, a source says at a ~$700M valuation &lpar;Myles Miller/Bloomberg&rpar;](http://www.techmeme.com/260121/p49#a260121p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
