@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wrinkly old karen learns to mind her own bidness :&rpar;](http://9gag.com/gag/ae9z54B)
- - ⏩ [Strong independent women from Netflix VS how it would be](http://9gag.com/gag/awyjoE8)
- - 👉 [Equal pay:](http://9gag.com/gag/a0egNgX)<!-- MEMES:END -->
+ - 💣 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)
+ - ⏩ [A poker bot farm where multiple bots sit at the same table and share their cards to collude against humans](http://9gag.com/gag/ajPv9y1)
+ - 👉 [Your partners will thank you](http://9gag.com/gag/a4PgR26)<!-- MEMES:END -->
 
 ---
 
