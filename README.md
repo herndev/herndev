@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Meet will soon roll out this Gemini feature to more users](https://www.androidauthority.com/ask-gemini-in-google-meet-expansion-3634585/)
- - [Sony announces its first turntables in years](https://www.theverge.com/news/865333/sony-new-turntables-2026)
- - [Telly only had 35,000 TVs in people’s homes last fall](https://www.theverge.com/column/865645/telly-units)<!-- TECH:END -->
+ - [Xbox Developer Direct 2026: the biggest games and announcements](https://www.theverge.com/games/865573/xbox-developer-direct-2026-the-biggest-games-and-announcements)
+ - [ICE Agents Are ‘Doxing’ Themselves](https://www.wired.com/story/ice-agents-are-doxing-themselves/)
+ - [Substack launches its Substack TV app for Apple TV and Google TV in beta for free and paid subscribers, with access matched to their current subscription levels &lpar;On Substack&rpar;](http://www.techmeme.com/260122/p38#a260122p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
