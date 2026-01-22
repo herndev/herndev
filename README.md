@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s a multiplayer mod for The Witcher 3 so you can turn one of the finest singleplayer RPGs of all time into an MMO instead](https://www.pcgamer.com/games/rpg/theres-a-multiplayer-mod-for-the-witcher-3-so-you-can-turn-one-of-the-finest-singleplayer-rpgs-of-all-time-into-an-mmo-instead/)
- - [How to transmit power to the Protocol Resonance Tower in Arknights: Endfield](https://www.pcgamer.com/games/rpg/arknights-endfield-transmit-power-relay-tower-valley-reboot/)
- - [How to use Protocol Dataloggers in Arknights: Endfield](https://www.pcgamer.com/games/rpg/arknights-endfield-protocol-datalogger-balloon-men/)<!-- GAME:END -->
+ - [In response to Epic CEO Tim Sweeney waging war on Steam, Larian&#39;s publishing lead says, &#39;Giving everyone everything for free might bump numbers but doesn&#39;t create a viable storefront&#39;](https://www.pcgamer.com/software/platforms/in-response-to-epic-ceo-tim-sweeney-waging-war-on-steam-larians-publishing-lead-says-giving-everyone-everything-for-free-might-bump-numbers-but-doesnt-create-a-viable-storefront/)
+ - [Netflix new anime movie Cosmic Princess Kaguya! is missing one key thing](https://www.polygon.com/cosmic-princess-kaguya-review-anime-netflix/)
+ - [There&#39;s a multiplayer mod for The Witcher 3 so you can turn one of the finest singleplayer RPGs of all time into an MMO instead](https://www.pcgamer.com/games/rpg/theres-a-multiplayer-mod-for-the-witcher-3-so-you-can-turn-one-of-the-finest-singleplayer-rpgs-of-all-time-into-an-mmo-instead/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
