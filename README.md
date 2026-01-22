@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s time to give up on Motorola smartwatches](https://www.androidauthority.com/motorola-smartwatches-are-done-3631530/)
- - [Stop Rinsing After Brushing Your Teeth. Here&#39;s Why](https://www.cnet.com/health/personal-care/why-stop-rinsing-after-brushing-teeth/)
- - [South Korea&#39;s Kospi stock index breaks through the record 5,000 level, driven by chip stocks, led by Samsung, up ~3X, and SK Hynix, up ~4x, in the past year &lpar;Daniel Tudor/Financial Times&rpar;](http://www.techmeme.com/260122/p9#a260122p9)<!-- TECH:END -->
+ - [I tried out Mint’s home internet service to find out if it’s actually worth it](https://www.androidauthority.com/minternet-service-3632100/)
+ - [Hate Your iPhone&#39;s New Liquid Glass Design in iOS 26? Here&#39;s How to Change It](https://www.cnet.com/tech/services-and-software/apple-iphone-ios-26-1-liquid-glass-design-change/)
+ - [Add These Superfoods to Your Diet for Strong and Healthy Kidneys](https://www.cnet.com/health/nutrition/kidney-friendly-superfoods-to-add-to-your-grocery-list/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
