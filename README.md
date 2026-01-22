@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Today, the EU parliament voted to officially freeze the trade agreement with the US, the Danish pension fund announced the selling of all US treasuries by month-end and NATO officials decided to curb the intelligence sharing with the US. Winning much?](http://9gag.com/gag/amoQvX4)
- - ⏩ [No shame at all](http://9gag.com/gag/a6ZgK7R)
- - 👉 [Interesting shirt](http://9gag.com/gag/ajPv95x)<!-- MEMES:END -->
+ - 💣 [Every.damn.day](http://9gag.com/gag/a6ZgKG2)
+ - ⏩ [Interesting shirt](http://9gag.com/gag/ajPv95x)
+ - 👉 [Title](http://9gag.com/gag/aZZX0Rn)<!-- MEMES:END -->
 
 ---
 
