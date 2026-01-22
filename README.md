@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Accountability, zero](http://9gag.com/gag/axyKMKn)
- - ⏩ [LOL](http://9gag.com/gag/aKGZmdO)
- - 👉 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)<!-- MEMES:END -->
+ - 💣 [Don&#39;t mind if I do..](http://9gag.com/gag/a2vg181)
+ - ⏩ [I hate when this happens](http://9gag.com/gag/a0egZDq)
+ - 👉 [`You can&#39;t defeat me!.` `No, I know. But he can!`](http://9gag.com/gag/a1mg132)<!-- MEMES:END -->
 
 ---
 
