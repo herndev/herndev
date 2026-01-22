@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My friends are dead because you lied !](http://9gag.com/gag/aYQ6yNV)
- - ⏩ [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)
- - 👉 [Perfect loop?](http://9gag.com/gag/aD29dY9)<!-- MEMES:END -->
+ - 💣 [Not sure if i should laugh or be sad](http://9gag.com/gag/aByz2EN)
+ - ⏩ [I hate when this happens](http://9gag.com/gag/a0egZDq)
+ - 👉 [Jacket potato \u21161](http://9gag.com/gag/aGyvpnK)<!-- MEMES:END -->
 
 ---
 
