@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blue Origin’s Starlink rival TeraWave promises 6 terabit satellite internet](https://www.theverge.com/news/865282/blue-origin-terawave-satellite-6tb)
- - [Layoffs hit Vimeo for the second time since September 2025, when it laid off 10% of its workforce; Bending Spoons acquired Vimeo for around $1.38B in November &lpar;Business Insider&rpar;](http://www.techmeme.com/260121/p47#a260121p47)
- - [NYT Games Expands Its Puzzle Empire With Scrabble-Like Crossplay](https://www.cnet.com/tech/services-and-software/nyt-games-expands-its-puzzle-empire-with-scrabble-like-crossplay/)<!-- TECH:END -->
+ - [Anker Nano Charger with display review: New travel charger knows your iPhone](https://appleinsider.com/articles/26/01/22/anker-nano-charger-with-display-review-new-travel-charger-knows-your-iphone?utm_source=rss)
+ - [X unveils Bluesky-like &quot;Starterpacks&quot; to help users find accounts that match their interests, curated by X and rolling out in the coming weeks &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260121/p48#a260121p48)
+ - [Best Unlimited Data Plans for 2026](https://www.cnet.com/tech/mobile/best-unlimited-data-plan/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
