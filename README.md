@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)
- - ⏩ [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)
- - 👉 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)<!-- MEMES:END -->
+ - 💣 [My friends are dead because you lied !](http://9gag.com/gag/aYQ6yNV)
+ - ⏩ [She&#39;s a keeper, not those influencers asking for six figures](http://9gag.com/gag/a7ogwze)
+ - 👉 [Perfect loop?](http://9gag.com/gag/aD29dY9)<!-- MEMES:END -->
 
 ---
 
