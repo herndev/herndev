@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LiveKit, which offers tools for building voice, video, and physical AI models, including for ChatGPT&#39;s voice mode, raised a $100M Series C at a $1B valuation &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260122/p44#a260122p44)
- - [The state attorneys general are as mad as you are](https://www.theverge.com/policy/865882/democratic-state-attorney-general-rayfield-ellison)
- - [John Ternus solidifies his role as Apple CEO-apparent amid design team shakeup](https://appleinsider.com/articles/26/01/22/apples-john-ternus-solidifies-his-role-as-ceo-apparent-amid-design-team-shakeup?utm_source=rss)<!-- TECH:END -->
+ - [Analysis: the top US tech companies spent $109M on DC lobbying in 2025, topping $100M for the first time; Meta spent $26.29M, Amazon $17.78M, and Google $13.1M &lpar;Bloomberg&rpar;](http://www.techmeme.com/260122/p46#a260122p46)
+ - [Google Home is making it simpler to add new devices](https://www.androidauthority.com/google-home-updated-device-setup-3634717/)
+ - [Ring claims it&amp;#8217;s not giving ICE access to its cameras](https://www.theverge.com/news/866003/ring-ice-camera-access-flock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
