@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My friends are dead because you lied !](http://9gag.com/gag/aYQ6yNV)
- - ⏩ [Your partners will thank you](http://9gag.com/gag/a4PgR26)
- - 👉 [Peaceful life - a meme from the past but nothing has changed](http://9gag.com/gag/aryEVeX)<!-- MEMES:END -->
+ - 💣 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
+ - ⏩ [Accountability, zero](http://9gag.com/gag/axyKMKn)
+ - 👉 [Your partners will thank you](http://9gag.com/gag/a4PgR26)<!-- MEMES:END -->
 
 ---
 
