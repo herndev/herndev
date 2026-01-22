@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic Games CEO Says Everyone Wins With ‘More Options’ While Alan Wake 2 Still Isn’t On Steam](https://kotaku.com/alan-wake-2-steam-epic-games-publishing-deal-tim-sweeney-2000662259)
- - [007 First Light: Everything We Know About The Hitman Devs’ James Bond Game](https://kotaku.com/everything-we-know-about-007-first-light-hitman-ioi-ps5-xbox-release-date-2000662247)
- - [Anker Goes Full Liquidation on Docking Stations, Its 14-Port 160W Dock Crashes to an All-Time Low](https://kotaku.com/anker-goes-full-liquidation-on-docking-stations-its-14-port-160w-dock-crashes-to-an-all-time-low-2000661988)<!-- GAME:END -->
+ - [Xbox Developer Direct games showcase announced for January 2026](https://www.polygon.com/xbox-showcase-2026-developer-direct-january-date-time/)
+ - [Marvel Rivals $40K tourney organizer admits Widow switch ban was wrong](https://www.polygon.com/marvel-rivals-kingsman265-zazzastack-black-widow-basim-apology/)
+ - [Anti-Extremism Game Accidentally Spawns Far-Right ‘Cute Goth E-Girl’ Meme](https://kotaku.com/anime-goth-egirl-meme-alt-right-visual-novel-2000662271)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
