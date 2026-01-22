@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung confirms Galaxy Watch bug is breaking Do Not Disturb, but here’s a fix](https://www.androidauthority.com/samsung-galaxy-watches-dnd-bug-fix-3634506/)
- - [The Galaxy A57 proves Samsung gave up on its flagship Galaxy S phones](https://www.androidauthority.com/galaxy-a57-proves-samsung-gave-up-on-flagship-galaxy-s-phones-3634267/)
- - [NYT and CCDH analysis: Grok created and shared 1.8M+ sexualized images of women between December 31 and January 8, after Elon Musk promoted the feature on X &lpar;New York Times&rpar;](http://www.techmeme.com/260122/p16#a260122p16)<!-- TECH:END -->
+ - [China Lunar New Year discounts arrive, in profoundly limited quantities](https://appleinsider.com/articles/26/01/22/china-lunar-new-year-discounts-arrive-in-profoundly-limited-quantities?utm_source=rss)
+ - [How Apple nearly chickened out and came close to not airing the legendary &quot;1984&quot; ad](https://appleinsider.com/articles/26/01/22/how-apple-nearly-chickened-out-and-nearly-didnt-run-its-famous-1984-ad?utm_source=rss)
+ - [Austin-based Neurophos, which develops a photon-based &quot;Optical Processing Unit&quot; to replace GPUs in AI training, raised $110M led by Bill Gates&#39; Gates Frontier &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/260122/p21#a260122p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
