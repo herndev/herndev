@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung’s Nintendo Switch 2–Optimized microSD Card Crashes to Its Lowest Price at Under $0.16 per GB](https://kotaku.com/samsungs-nintendo-switch-2-optimized-microsd-card-crashes-to-its-lowest-price-at-under-0-16-per-gb-2000661937)
- - [Behold the future of PC gaming: Upscaled 77p potatovision—and it&#39;s not quite as awful as you imagine](https://www.pcgamer.com/hardware/graphics-cards/behold-the-future-of-pc-gaming-upscaled-77p-potatovision-and-its-not-quite-as-awful-as-you-imagine/)
- - [Today’s Xbox Developer Direct Expected To Confirm May Release For Forza Horizon 6](https://kotaku.com/xbox-developer-direct-time-youtube-fable-forza-game-freak-2000662194)<!-- GAME:END -->
+ - [Final Fantasy VII Remake Intergrade Is Available on Xbox Today](https://www.xbox.com/en-US/games/store/final-fantasy-vii-remake-intergrade/9NRQVQ7ZRM7Z/0010#new_tab)
+ - [KPop Demon Hunters snags two Oscars nominations](https://www.polygon.com/kpop-demon-hunters-oscars-2026-nominations/)
+ - [New Anime Gacha Game Shuts Off PayPal Purchases After Charging Random Amounts Up To $3,300](https://kotaku.com/arknights-endfield-paypal-glitch-bug-charge-battle-pass-2000662206)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
