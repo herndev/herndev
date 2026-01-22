@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marketing tech startup Applecart raised $100M in a minority funding round led by Blackstone&#39;s growth equity business, a source says at a ~$700M valuation &lpar;Myles Miller/Bloomberg&rpar;](http://www.techmeme.com/260121/p49#a260121p49)
  - [Anker Nano Charger with display review: New travel charger knows your iPhone](https://appleinsider.com/articles/26/01/22/anker-nano-charger-with-display-review-new-travel-charger-knows-your-iphone?utm_source=rss)
- - [X unveils Bluesky-like &quot;Starterpacks&quot; to help users find accounts that match their interests, curated by X and rolling out in the coming weeks &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260121/p48#a260121p48)
- - [Best Unlimited Data Plans for 2026](https://www.cnet.com/tech/mobile/best-unlimited-data-plan/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 22, #486](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-22-486/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
