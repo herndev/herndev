@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search now knows what you did last summer, thanks to Gmail and Photos integration](https://www.androidauthority.com/google-search-ai-mode-personal-intelligence-3634488/)
- - [Google Search AI Mode can use Gmail and Photos to get to know you](https://www.theverge.com/news/865548/google-ai-mode-search-personal-intelligence-update)
- - [Cambio, creator of AI-powered commercial real estate software for institutional investors, raised an $18M Series A led by Maverick Ventures at a $100M valuation &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260122/p30#a260122p30)<!-- TECH:END -->
+ - [Google Meet will soon roll out this Gemini feature to more users](https://www.androidauthority.com/ask-gemini-in-google-meet-expansion-3634585/)
+ - [Sony announces its first turntables in years](https://www.theverge.com/news/865333/sony-new-turntables-2026)
+ - [Telly only had 35,000 TVs in people’s homes last fall](https://www.theverge.com/column/865645/telly-units)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
