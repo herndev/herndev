@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Did Google Home just break your smart lights? Here’s what’s going on](https://www.androidauthority.com/google-home-devices-lights-showing-offline-3634420/)
  - [The US House Committee on Foreign Affairs approves a bipartisan bill that calls for arms-sale style congressional oversight of advanced AI chip exports &lpar;Bloomberg&rpar;](http://www.techmeme.com/260122/p1#a260122p1)
- - [Hundreds of creatives warn against an AI slop future](https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists)
- - [Sources: Anthropic projected a 40% gross margin from selling AI to companies and devs in 2025, down from earlier estimates of 50% due to higher inference costs &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260121/p53#a260121p53)<!-- TECH:END -->
+ - [Hundreds of creatives warn against an AI slop future](https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
