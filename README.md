@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy VII Remake Intergrade Is Available on Xbox Today](https://www.xbox.com/en-US/games/store/final-fantasy-vii-remake-intergrade/9NRQVQ7ZRM7Z/0010#new_tab)
- - [KPop Demon Hunters snags two Oscars nominations](https://www.polygon.com/kpop-demon-hunters-oscars-2026-nominations/)
- - [New Anime Gacha Game Shuts Off PayPal Purchases After Charging Random Amounts Up To $3,300](https://kotaku.com/arknights-endfield-paypal-glitch-bug-charge-battle-pass-2000662206)<!-- GAME:END -->
+ - [MTG TMNT’s best Commander could come from Final Fantasy](https://www.polygon.com/mtg-tmnt-leaks-prerelease-jenova-ancient-calamity-commander-deck/)
+ - [Samsung Drops the Galaxy Tab S10 Lite With Its Biggest Discount of the Year While iPad Prices Stay Frozen](https://kotaku.com/samsung-drops-the-galaxy-tab-s10-lite-with-its-biggest-discount-of-the-year-while-ipad-prices-stay-frozen-2000661993)
+ - [All active Arknights: Endfield codes for free items](https://www.polygon.com/arknights-endfield-codes-redeem-how-to/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
