@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Accountability, zero](http://9gag.com/gag/axyKMKn)
+ - 💣 [Equal pay:](http://9gag.com/gag/a0egNgX)
  - ⏩ [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
- - 👉 [A special informative message](http://9gag.com/gag/ae9zA6B)<!-- MEMES:END -->
+ - 👉 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)<!-- MEMES:END -->
 
 ---
 
