@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game of Thrones failed the Night King, and I’m still mad about it](https://www.polygon.com/game-of-thrones-night-king-still-angry/)
- - [Blumhouse&#39;s bloody BioShock-inspired Crisol gets release date](https://www.polygon.com/blumhouse-games-crisol-theater-idols-release-date/)
- - [Building a perfect Snowboy in Animal Crossing is torture](https://www.polygon.com/animal-crossing-new-horizons-snowboy-torture/)<!-- GAME:END -->
+ - [Snowpiercer&#39;s icy arm-amputation scene still gives me nightmares](https://www.polygon.com/snowpiercer-arm-amputation-scene-best-body-horror/)
+ - [Metroid Prime 4: Beyond&#39;s Ice Belt is one of the series&#39; finest moments](https://www.polygon.com/metroid-prime-4-ice-belt-alien/)
+ - [Next Week on Xbox: New Games for January 26 to 30](https://news.xbox.com/en-us/2026/01/23/next-week-on-xbox-new-games-for-january-26-to-30/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
