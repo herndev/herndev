@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
- - ⏩ [Legend, both of them](http://9gag.com/gag/awyjz7y)
- - 👉 [This man is a legend already](http://9gag.com/gag/aMV7K1P)<!-- MEMES:END -->
+ - 💣 [He is ready](http://9gag.com/gag/amoQgZV)
+ - ⏩ [Perfect loop?](http://9gag.com/gag/aD29dY9)
+ - 👉 [Happy friendship day, whenever it is..](http://9gag.com/gag/a87NqYO)<!-- MEMES:END -->
 
 ---
 
