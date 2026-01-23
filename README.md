@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hyperkin&#39;s new Infinakore Fender Telecaster guitar controller is a 3D-printing dream come true](https://www.polygon.com/hyperkin-drakong-infinakore-fender-telecasater-guitar-controller/)
- - [Double Fine reveals surprise new game Kiln at Xbox Developer Direct](https://www.polygon.com/kiln-double-fine-game-release-date-xbox-developer-direct/)
- - [Fable Reboot Features ‘Seamless’ Open World And Is Launching This Fall](https://kotaku.com/fable-reboot-features-seamless-open-world-and-is-launching-this-fall-2000662295)<!-- GAME:END -->
+ - [FF7 Remake Part 3 will include an &#39;enhanced&#39; version of Queen&#39;s Blood](https://www.polygon.com/final-fantasy-7-remake-part-3-queens-blood-interview/)
+ - [Fable has 1,000 &#39;handcrafted&#39; NPCs, and you can apparently marry every single one of them](https://www.pcgamer.com/games/rpg/fable-has-1-000-handcrafted-npcs-and-you-can-apparently-marry-every-single-one-of-them/)
+ - [Forza Horizon 6: Everything We Know About The Open-World Racing Game Set In Japan](https://kotaku.com/forza-horizon-6-everything-we-know-xbox-biggest-map-online-play-ps5-release-date-2000662346)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
