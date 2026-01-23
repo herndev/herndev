@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s secret $800 million Epic partnership is a massive plot twist in the Android antitrust saga](https://www.androidauthority.com/google-vs-epic-ends-with-new-business-deal-3634798/)
- - [Anthropic details how it had to redesign its take-home test for hiring performance engineers as Claude kept defeating it, and releases the original test &lpar;Anthropic&rpar;](http://www.techmeme.com/260123/p9#a260123p9)
- - [Beware: New Android malware uses AI to sneakily commit ad fraud on your phone](https://www.androidauthority.com/android-ai-malware-for-fraud-3634770/)<!-- TECH:END -->
+ - [I made Now Brief useful for a day, and it was more effort than it was worth](https://www.androidauthority.com/made-now-brief-useful-not-wroth-it-3631992/)
+ - [Malaysia lifted its temporary ban on Elon Musk&#39;s Grok AI chatbot after xAI added safety measures; Grok remains subject to continuous monitoring by authorities &lpar;Anisah Shukry/Bloomberg&rpar;](http://www.techmeme.com/260123/p10#a260123p10)
+ - [Google Photos could soon TikTok-ify your video feed](https://www.androidauthority.com/google-photos-related-video-vertical-feed-3634785/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
