@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may use Intel for some iPhone chips, but not its most advanced silicon](https://appleinsider.com/articles/26/01/23/apple-may-use-intel-for-some-iphone-chips-but-not-its-most-advanced-silicon?utm_source=rss)
- - [Beware: New Android malware uses AI to sneakily commit ad fraud on your phone &lpar;Update&rpar;](https://www.androidauthority.com/android-ai-malware-for-fraud-3634770/)
- - [Google’s killing off the best Gmail feature you never knew about](https://www.androidauthority.com/google-gmail-shutting-down-gmailify-3634924/)<!-- TECH:END -->
+ - [Bought a Belkin power bank in the past decade? You may have some cash coming your way](https://www.androidauthority.com/belkin-power-bank-settlement-3634955/)
+ - [Does this headline even matter? Google Discover is writing its own with AI](https://www.androidauthority.com/google-discover-ai-headlines-2-3634962/)
+ - [Epic hypocrisy -- Google gets $800 million in &#39;Fortnite&#39; antitrust settlement](https://appleinsider.com/articles/26/01/23/epic-hypocrisy----google-gets-800-million-in-fortnite-antitrust-settlement?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
