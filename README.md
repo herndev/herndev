@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A special informative message](http://9gag.com/gag/ae9zA6B)
- - ⏩ [Legend, both of them](http://9gag.com/gag/awyjz7y)
- - 👉 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)<!-- MEMES:END -->
+ - 💣 [Absolutely incredible items](http://9gag.com/gag/agm9gGK)
+ - ⏩ [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
+ - 👉 [Accountability, zero](http://9gag.com/gag/axyKMKn)<!-- MEMES:END -->
 
 ---
 
