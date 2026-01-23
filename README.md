@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The TikTok deal is done, finally](https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx)
- - [Ring can verify videos now, but that might not help you with most AI fakes](https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification)
- - [Beyond Good and Evil 2 somehow survived the purge at Ubisoft](https://www.theverge.com/games/866439/beyond-good-and-evil-2-somehow-survived-the-purge-at-ubisoft)<!-- TECH:END -->
+ - [TikTok&#39;s new majority US-owned JV includes investors Oracle, Silver Lake, and Abu Dhabi&#39;s MGX, each holding 15%, and Dell Family Office; ByteDance retains 19.9% &lpar;Financial Times&rpar;](http://www.techmeme.com/260122/p55#a260122p55)
+ - [Adam Presser, previously TikTok&#39;s head of operations and trust and safety, will be the CEO of TikTok USDS Joint Venture; TikTok CEO Shou Chew will be a director &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260122/p54#a260122p54)
+ - [EC &amp; Apple play the blame game with MacPaw alternative app store failure](https://appleinsider.com/articles/26/01/23/ec-apple-play-the-blame-game-with-macpaw-alternative-app-store-failure?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
