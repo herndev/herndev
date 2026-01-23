@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Snowpiercer&#39;s icy arm-amputation scene still gives me nightmares](https://www.polygon.com/snowpiercer-arm-amputation-scene-best-body-horror/)
- - [Metroid Prime 4: Beyond&#39;s Ice Belt is one of the series&#39; finest moments](https://www.polygon.com/metroid-prime-4-ice-belt-alien/)
- - [Next Week on Xbox: New Games for January 26 to 30](https://news.xbox.com/en-us/2026/01/23/next-week-on-xbox-new-games-for-january-26-to-30/)<!-- GAME:END -->
+ - [D&amp;D’s Rime of the Frostmaiden is a masterclass in sandbox adventure design](https://www.polygon.com/dnd-chris-perkins-rime-of-the-frostmaiden-interview-design/)
+ - [Fatal Fury: City of the Wolves Season 2 is here! Legend Edition Drops and Kim Jae Hoon Leads the Charge!](https://news.xbox.com/en-us/2026/01/23/fatal-fury-cotw-season-2/)
+ - [Dragon Ball Genkidamatsuri: How to watch the 40th anniversary Dragon Ball event](https://www.polygon.com/dragon-ball-genkidamatsuri-english-stream-how-to-watch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
