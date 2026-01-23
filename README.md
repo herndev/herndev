@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beware: New Android malware uses AI to sneakily commit ad fraud on your phone](https://www.androidauthority.com/android-ai-malware-for-fraud-3634770/)
- - [Sources: Revolut scrapped plans to buy a US lender and will instead apply for a US banking license, betting Trump&#39;s lighter touch on approvals will be faster &lpar;Financial Times&rpar;](http://www.techmeme.com/260123/p8#a260123p8)
- - [How Anthropic, OpenAI, and Google are testing AI models by having them play Pokémon Blue on Twitch to track a model&#39;s ability to reason and make decisions &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/260123/p7#a260123p7)<!-- TECH:END -->
+ - [Google’s secret $800 million Epic partnership is a massive plot twist in the Android antitrust saga](https://www.androidauthority.com/google-vs-epic-ends-with-new-business-deal-3634798/)
+ - [Anthropic details how it had to redesign its take-home test for hiring performance engineers as Claude kept defeating it, and releases the original test &lpar;Anthropic&rpar;](http://www.techmeme.com/260123/p9#a260123p9)
+ - [Beware: New Android malware uses AI to sneakily commit ad fraud on your phone](https://www.androidauthority.com/android-ai-malware-for-fraud-3634770/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
