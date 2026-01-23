@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel Nova Lake CPUs on track for late 2026 as exec downplays shuffling capacity to meet datacenter demand: &#39;We have important customers in both datacenter and client and that needs to be our priority&#39;](https://www.pcgamer.com/hardware/processors/intel-nova-lake-cpus-on-track-for-late-2026-as-exec-downplays-shuffling-capacity-to-meet-datacenter-demand-we-have-important-customers-in-both-datacenter-and-client-and-that-needs-to-be-our-priority/)
  - [Wonder Man review: A Marvel must-watch for everyone but MCU fans](https://www.polygon.com/wonder-man-review-mcu-best-show-marvel-spotlight/)
- - [Finally, another Armored Core instalment just surprise dropped on Steam, but you&#39;ll need to have the patience of a saint to play it](https://www.pcgamer.com/games/action/finally-another-armored-core-instalment-just-surprise-dropped-on-steam-but-youll-need-to-have-the-patience-of-a-saint-to-play-it/)
- - [Fable reboot devs aren&#39;t trying to make a Lionhead game, but one important hallmark will carry over because &#39;kicking chickens is classic Fable&#39;](https://www.pcgamer.com/games/rpg/fable-reboot-devs-arent-trying-to-make-a-lionhead-game-but-one-important-hallmark-will-carry-over-because-kicking-chickens-is-classic-fable/)<!-- GAME:END -->
+ - [Finally, another Armored Core instalment just surprise dropped on Steam, but you&#39;ll need to have the patience of a saint to play it](https://www.pcgamer.com/games/action/finally-another-armored-core-instalment-just-surprise-dropped-on-steam-but-youll-need-to-have-the-patience-of-a-saint-to-play-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
