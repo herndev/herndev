@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D’s Rime of the Frostmaiden is a masterclass in sandbox adventure design](https://www.polygon.com/dnd-chris-perkins-rime-of-the-frostmaiden-interview-design/)
- - [Fatal Fury: City of the Wolves Season 2 is here! Legend Edition Drops and Kim Jae Hoon Leads the Charge!](https://news.xbox.com/en-us/2026/01/23/fatal-fury-cotw-season-2/)
- - [Dragon Ball Genkidamatsuri: How to watch the 40th anniversary Dragon Ball event](https://www.polygon.com/dragon-ball-genkidamatsuri-english-stream-how-to-watch/)<!-- GAME:END -->
+ - [The 10 best sci-fi ice planets, ranked](https://www.polygon.com/best-ice-planets-in-science-fiction-ranked/)
+ - [Share of the Week – Clair Obscur: Expedition 33 – Portraits](https://blog.playstation.com/2026/01/23/share-of-the-week-clair-obscur-expedition-33-portraits/)
+ - [Embark reveals Arc Raiders&#39; next four major monthly updates, which it calls the &#39;Escalation&#39; phase, teasing new matchmaking, machines, and our first new map in months](https://www.pcgamer.com/games/third-person-shooter/embark-reveals-arc-raiders-next-four-major-monthly-updates-which-it-calls-the-escalation-phase-teasing-new-matchmaking-machines-and-our-first-new-map-in-months/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
