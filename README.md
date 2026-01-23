@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I asked Garry Newman if he really was going to rename s&amp;box as Garry&#39;s mod 2 after an overwhelming poll and he joked &#39;people are d*ckheads&#39;](https://www.pcgamer.com/gaming-industry/i-asked-garry-newman-if-he-really-was-going-to-rename-s-and-box-as-garrys-mod-2-after-an-overwhelming-poll-and-he-joked-people-are-d-ckheads/)
- - [Where to get aketine in Arknights: Endfield](https://www.polygon.com/arknights-endfield-aketine-location-factory-build/)
- - [Harvester is quintessential FMV horror at its best](https://www.polygon.com/fmv-harvester-brilliantly-and-brutally-critiques-censorship/)<!-- GAME:END -->
+ - [Exploring the Wilderness of Over the Hill on Xbox Series X|S](https://news.xbox.com/en-us/2026/01/23/the-wilderness-of-over-the-hill-on-xbox-series-xs/)
+ - [Xbox Exec Struggles To Explain Why Fable Is Coming To PS5 Day One, But Not Forza Horizon 6](https://kotaku.com/xbox-forza-horizon-6-ps5-delay-launch-fable-reboot-2000662665)
+ - [A Pokémon Store Was Robbed At Gunpoint, But It’s Only Made Its Community Stronger](https://kotaku.com/pokemon-store-poke-court-nyc-manhattan-robbery-donation-2000662652)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
