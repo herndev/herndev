@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Legend, both of them](http://9gag.com/gag/awyjz7y)
- - ⏩ [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)
+ - 💣 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
+ - ⏩ [Legend, both of them](http://9gag.com/gag/awyjz7y)
  - 👉 [But wait there is more](http://9gag.com/gag/aE0Kqgx)<!-- MEMES:END -->
 
 ---
