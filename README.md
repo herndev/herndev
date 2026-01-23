@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Prep for This Weekend’s Big Winter Storm: Power, Heat, and Underwear](https://www.wired.com/story/how-to-prep-for-a-winter-storm/)
- - [What to expect from the spring 2027 iPhone 18: A20, 12GB of RAM, and more](https://appleinsider.com/articles/26/01/23/what-to-expect-from-the-spring-2027-iphone-18-a20-12gb-of-ram-and-more?utm_source=rss)
- - [Flash deal: Apple&#39;s M5 MacBook Pro dips to $1,429 with coupon](https://appleinsider.com/articles/26/01/23/flash-deal-apples-m5-macbook-pro-dips-to-1429-with-coupon?utm_source=rss)<!-- TECH:END -->
+ - [The secret is out on the OnePlus 15T’s camera specs](https://www.androidauthority.com/oneplus-15t-new-camera-details-3635017/)
+ - [Sources: the US DOJ opened a criminal probe and sent out grand-jury subpoenas in recent weeks over allegations that Deel recruited a spy inside rival Rippling &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/260123/p27#a260123p27)
+ - [Trump Mobile touts an ‘Ultra’ version of the phone you still don’t have yet](https://www.androidauthority.com/trump-mobile-t1-ultra-phone-comment-3635009/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
