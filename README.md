@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 10 best sci-fi ice planets, ranked](https://www.polygon.com/best-ice-planets-in-science-fiction-ranked/)
- - [Share of the Week – Clair Obscur: Expedition 33 – Portraits](https://blog.playstation.com/2026/01/23/share-of-the-week-clair-obscur-expedition-33-portraits/)
- - [Embark reveals Arc Raiders&#39; next four major monthly updates, which it calls the &#39;Escalation&#39; phase, teasing new matchmaking, machines, and our first new map in months](https://www.pcgamer.com/games/third-person-shooter/embark-reveals-arc-raiders-next-four-major-monthly-updates-which-it-calls-the-escalation-phase-teasing-new-matchmaking-machines-and-our-first-new-map-in-months/)<!-- GAME:END -->
+ - [More Than A Remake: How Screamer is Reviving the Spirit of Retro Arcade Racers](https://news.xbox.com/en-us/2026/01/23/screamer-is-reviving-retro-arcade-racers/)
+ - [Made That Controller For You Boss, Added A Heartbeat Sensor And Built-In Screen Just Like You Asked](https://kotaku.com/made-that-controller-for-you-boss-added-a-heartbeat-sensor-and-built-in-screen-just-like-you-asked-2000662633)
+ - [Microsoft Windows 365 goes down the day after Microsoft celebrates &#39;reimagining the PC as a cloud service that streams a Cloud PC&#39;](https://www.pcgamer.com/hardware/microsoft-windows-365-goes-down-the-day-after-microsoft-celebrates-reimagining-the-pc-as-a-cloud-service-that-streams-a-cloud-pc/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
