@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [More Than A Remake: How Screamer is Reviving the Spirit of Retro Arcade Racers](https://news.xbox.com/en-us/2026/01/23/screamer-is-reviving-retro-arcade-racers/)
- - [Made That Controller For You Boss, Added A Heartbeat Sensor And Built-In Screen Just Like You Asked](https://kotaku.com/made-that-controller-for-you-boss-added-a-heartbeat-sensor-and-built-in-screen-just-like-you-asked-2000662633)
- - [Microsoft Windows 365 goes down the day after Microsoft celebrates &#39;reimagining the PC as a cloud service that streams a Cloud PC&#39;](https://www.pcgamer.com/hardware/microsoft-windows-365-goes-down-the-day-after-microsoft-celebrates-reimagining-the-pc-as-a-cloud-service-that-streams-a-cloud-pc/)<!-- GAME:END -->
+ - [SkiFree is the retro Windows PC game with a terrifying Yeti monster](https://www.polygon.com/ski-free-windows-96-pc-game-yeti/)
+ - [More than 40 US Democrats call for a &#39;thorough investigation&#39; of EA&#39;s Saudi-led buyout over risks of layoffs, studio closures, and &#39;coordinated anti-labor practices&#39;](https://www.pcgamer.com/gaming-industry/more-than-40-us-democrats-call-for-a-thorough-investigation-of-eas-saudi-led-buyout-over-risks-of-layoffs-studio-closures-and-coordinated-anti-labor-practices/)
+ - [Official PlayStation Podcast Episode 532: Refreshed, Rejuvenated](https://blog.playstation.com/2026/01/23/official-playstation-podcast-episode-532-refreshed-rejuvenated/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
