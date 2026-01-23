@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bought a Belkin power bank in the past decade? You may have some cash coming your way](https://www.androidauthority.com/belkin-power-bank-settlement-3634955/)
- - [Does this headline even matter? Google Discover is writing its own with AI](https://www.androidauthority.com/google-discover-ai-headlines-2-3634962/)
- - [Epic hypocrisy -- Google gets $800 million in &#39;Fortnite&#39; antitrust settlement](https://appleinsider.com/articles/26/01/23/epic-hypocrisy----google-gets-800-million-in-fortnite-antitrust-settlement?utm_source=rss)<!-- TECH:END -->
+ - [Apple Cash Instant Transfers will cost more for faster withdrawals](https://appleinsider.com/articles/26/01/23/apple-cash-instant-transfers-will-cost-more-for-faster-withdrawals?utm_source=rss)
+ - [Meta is stopping teens from chatting with its AI characters](https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version)
+ - [Sources: Richard Socher&#39;s Recursive is in talks to raise hundreds of millions at a $4B pre-money valuation to build self-improving superintelligent AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/260123/p25#a260123p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
