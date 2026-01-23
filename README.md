@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is ready](http://9gag.com/gag/amoQgZV)
- - ⏩ [Perfect loop?](http://9gag.com/gag/aD29dY9)
- - 👉 [Happy friendship day, whenever it is..](http://9gag.com/gag/a87NqYO)<!-- MEMES:END -->
+ - 💣 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
+ - ⏩ [Accountability, zero](http://9gag.com/gag/axyKMKn)
+ - 👉 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)<!-- MEMES:END -->
 
 ---
 
