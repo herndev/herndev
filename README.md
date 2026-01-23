@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)
+ - 💣 [Legend, both of them](http://9gag.com/gag/awyjz7y)
  - ⏩ [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
  - 👉 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)<!-- MEMES:END -->
 
