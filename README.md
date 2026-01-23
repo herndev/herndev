@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Equal pay:](http://9gag.com/gag/a0egNgX)
- - ⏩ [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
- - 👉 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)<!-- MEMES:END -->
+ - 💣 [`You can&#39;t defeat me!.` `No, I know. But he can!`](http://9gag.com/gag/a1mg132)
+ - ⏩ [A Snow Angel](http://9gag.com/gag/aO8EQR6)
+ - 👉 [Honest Suggestion](http://9gag.com/gag/amoQgBV)<!-- MEMES:END -->
 
 ---
 
