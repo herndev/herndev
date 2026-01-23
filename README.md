@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple accuses the European Commission of &quot;political delay tactics&quot;, as the EC seems to be preparing to blame Apple for the shutdown of the Setapp app store &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260122/p51#a260122p51)
- - [The App Store will have even more ads in March 2026, starting with the UK](https://appleinsider.com/articles/26/01/22/the-app-store-will-have-even-more-ads-in-march-2026-starting-with-the-uk?utm_source=rss)
- - [Samsung’s smallest Frame TVs have fallen to their lowest prices to date](https://www.theverge.com/gadgets/866298/samsung-frame-tv-2025-43-50-inch-qled-woot-deal-sale)<!-- TECH:END -->
+ - [The TikTok deal is done, finally](https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx)
+ - [Ring can verify videos now, but that might not help you with most AI fakes](https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification)
+ - [Beyond Good and Evil 2 somehow survived the purge at Ubisoft](https://www.theverge.com/games/866439/beyond-good-and-evil-2-somehow-survived-the-purge-at-ubisoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
