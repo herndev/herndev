@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marshall’s new hub connects to multiple Bluetooth speakers without pairing](https://www.theverge.com/tech/866640/marshall-music-streaming-hub-heddon-bluetooth-auracast-speakers)
- - [Today only, you can buy the AirPods Pro 3 for less than $200](https://www.theverge.com/gadgets/866710/apple-airpods-pro-3-super-mario-bros-deal-sale)
- - [This Galaxy Z Fold 8 rival will have a surprisingly early launch](https://www.androidauthority.com/honor-magic-v6-robot-phone-launch-date-3634907/)<!-- TECH:END -->
+ - [Apple may use Intel for some iPhone chips, but not its most advanced silicon](https://appleinsider.com/articles/26/01/23/apple-may-use-intel-for-some-iphone-chips-but-not-its-most-advanced-silicon?utm_source=rss)
+ - [Beware: New Android malware uses AI to sneakily commit ad fraud on your phone &lpar;Update&rpar;](https://www.androidauthority.com/android-ai-malware-for-fraud-3634770/)
+ - [Google’s killing off the best Gmail feature you never knew about](https://www.androidauthority.com/google-gmail-shutting-down-gmailify-3634924/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
