@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Equal pay:](http://9gag.com/gag/a0egNgX)
- - ⏩ [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
- - 👉 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)<!-- MEMES:END -->
+ - 💣 [A special informative message](http://9gag.com/gag/ae9zA6B)
+ - ⏩ [Legend, both of them](http://9gag.com/gag/awyjz7y)
+ - 👉 [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)<!-- MEMES:END -->
 
 ---
 
