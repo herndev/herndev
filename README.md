@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
- - ⏩ [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
- - 👉 [This man is a legend already](http://9gag.com/gag/aMV7K1P)<!-- MEMES:END -->
+ - 💣 [How to deal with a bully](http://9gag.com/gag/aByzd8N)
+ - ⏩ [He is ready](http://9gag.com/gag/amoQgZV)
+ - 👉 [Perfect loop?](http://9gag.com/gag/aD29dY9)<!-- MEMES:END -->
 
 ---
 
