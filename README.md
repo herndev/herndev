@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s in no hurry to get 14A all tooled up: &#39;It does not make sense to build out significant capacity there until we know that we have the customers that will accept that demand&#39;](https://www.pcgamer.com/hardware/processors/intels-in-no-hurry-to-get-14a-all-tooled-up-it-does-not-make-sense-to-build-out-significant-capacity-there-until-we-know-that-we-have-the-customers-that-will-accept-that-demand/)
- - [Google Clears Out Last Year’s Gemini Smartphone as Pixel 9a Crashes to Its Lowest Price Ever](https://kotaku.com/google-clears-out-last-years-gemini-smartphone-as-pixel-9a-crashes-to-its-lowest-price-ever-2000662401)
- - [AMD Ryzen 7 Just Dropped Again Overnight to 43% Off After the Ryzen 9 Clearance Deal on Amazon](https://kotaku.com/amd-ryzen-7-just-dropped-again-overnight-to-43-off-after-the-ryzen-9-clearance-deal-on-amazon-2000662387)<!-- GAME:END -->
+ - [Game of Thrones failed the Night King, and I’m still mad about it](https://www.polygon.com/game-of-thrones-night-king-still-angry/)
+ - [Blumhouse&#39;s bloody BioShock-inspired Crisol gets release date](https://www.polygon.com/blumhouse-games-crisol-theater-idols-release-date/)
+ - [Building a perfect Snowboy in Animal Crossing is torture](https://www.polygon.com/animal-crossing-new-horizons-snowboy-torture/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
