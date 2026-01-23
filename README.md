@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel Nova Lake CPUs on track for late 2026 as exec downplays shuffling capacity to meet datacenter demand: &#39;We have important customers in both datacenter and client and that needs to be our priority&#39;](https://www.pcgamer.com/hardware/processors/intel-nova-lake-cpus-on-track-for-late-2026-as-exec-downplays-shuffling-capacity-to-meet-datacenter-demand-we-have-important-customers-in-both-datacenter-and-client-and-that-needs-to-be-our-priority/)
- - [Wonder Man review: A Marvel must-watch for everyone but MCU fans](https://www.polygon.com/wonder-man-review-mcu-best-show-marvel-spotlight/)
- - [Finally, another Armored Core instalment just surprise dropped on Steam, but you&#39;ll need to have the patience of a saint to play it](https://www.pcgamer.com/games/action/finally-another-armored-core-instalment-just-surprise-dropped-on-steam-but-youll-need-to-have-the-patience-of-a-saint-to-play-it/)<!-- GAME:END -->
+ - [Intel&#39;s in no hurry to get 14A all tooled up: &#39;It does not make sense to build out significant capacity there until we know that we have the customers that will accept that demand&#39;](https://www.pcgamer.com/hardware/processors/intels-in-no-hurry-to-get-14a-all-tooled-up-it-does-not-make-sense-to-build-out-significant-capacity-there-until-we-know-that-we-have-the-customers-that-will-accept-that-demand/)
+ - [Google Clears Out Last Year’s Gemini Smartphone as Pixel 9a Crashes to Its Lowest Price Ever](https://kotaku.com/google-clears-out-last-years-gemini-smartphone-as-pixel-9a-crashes-to-its-lowest-price-ever-2000662401)
+ - [AMD Ryzen 7 Just Dropped Again Overnight to 43% Off After the Ryzen 9 Clearance Deal on Amazon](https://kotaku.com/amd-ryzen-7-just-dropped-again-overnight-to-43-off-after-the-ryzen-9-clearance-deal-on-amazon-2000662387)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
