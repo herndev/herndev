@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Equal pay:](http://9gag.com/gag/a0egNgX)
- - ⏩ [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
- - 👉 [But wait there is more](http://9gag.com/gag/aE0Kqgx)<!-- MEMES:END -->
+ - ⏩ [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
+ - 👉 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)<!-- MEMES:END -->
 
 ---
 
