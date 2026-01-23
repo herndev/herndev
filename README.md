@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
- - ⏩ [Accountability, zero](http://9gag.com/gag/axyKMKn)
- - 👉 [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)<!-- MEMES:END -->
+ - 💣 [Wait till the weebs and lemmings find out about immigration laws in Japan lulz](http://9gag.com/gag/aVvrxLO)
+ - ⏩ [Art of the Highest Form](http://9gag.com/gag/ayNr2zY)
+ - 👉 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)<!-- MEMES:END -->
 
 ---
 
