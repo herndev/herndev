@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Ledger is working with banks on a US IPO that could value the French cryptocurrency company at more than $4B; it was valued at $1.5B in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/260123/p17#a260123p17)
- - [Influencers are pushing suspicious peptides. How much are you willing to risk?](https://www.theverge.com/column/866577/optimizer-peptides-compounding-pharmacies-glp-3-retatrutide-influencers-wellness-wild-west)
- - [Dock Your M4 Mac mini into this 32-inch 4K touchscreen monitor](https://appleinsider.com/articles/26/01/23/dock-your-m4-mac-mini-into-this-32-inch-touchscreen-monitor?utm_source=rss)<!-- TECH:END -->
+ - [Cubby, which makes software for self-storage operators, raised a $63M Series A led by Growth Equity at Goldman Sachs Alternatives &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260123/p19#a260123p19)
+ - [Why this winter storm will likely be a wild one](https://www.theverge.com/science/866624/winter-storm-forecast-drivers-climate)
+ - [The end of the Sony era in TVs](https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
