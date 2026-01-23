@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Wait till the weebs and lemmings find out about immigration laws in Japan lulz](http://9gag.com/gag/aVvrxLO)
- - ⏩ [Art of the Highest Form](http://9gag.com/gag/ayNr2zY)
+ - ⏩ [Sho ronery](http://9gag.com/gag/amoQorj)
  - 👉 [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)<!-- MEMES:END -->
 
 ---
