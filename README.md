@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another popular Android brand is making its own Bluetooth and UWB smart tag](https://www.androidauthority.com/xiaomi-tag-leak-bluetooth-tracker-3634822/)
- - [Google invests an undisclosed sum in Sakana AI, valued at $2.6B in November 2025, to boost Gemini&#39;s presence in Japan; Sakana AI gains access to Google&#39;s LLMs &lpar;Min-Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/260123/p11#a260123p11)
- - [I’ve been a OnePlus fan for 12 years, but this latest update is my breaking point](https://www.androidauthority.com/oneplus-fan-modding-bootloader-changes-breaking-point-3634505/)<!-- TECH:END -->
+ - [“It sounded like popcorn”: Inside a Galaxy S25 Plus fire, and what to learn from it](https://www.androidauthority.com/samsung-galaxy-s25-plus-fire-user-experience-learnings-3634743/)
+ - [Lenovo LOQ 15 Review: The Best Gaming Laptop Under $1,000](https://www.wired.com/review/lenovo-loq-15/)
+ - [How Chinese tech companies navigate geopolitical tensions: TikTok and Manus adopted a &quot;China shedding&quot; strategy, while Shein and Meituan seek non-US growth &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/260123/p13#a260123p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
