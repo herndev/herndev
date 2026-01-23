@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
- - ⏩ [Legend, both of them](http://9gag.com/gag/awyjz7y)
- - 👉 [The F00F bug was worse..](http://9gag.com/gag/aE0Kpm9)<!-- MEMES:END -->
+ - 💣 [The F00F bug was worse..](http://9gag.com/gag/aE0Kpm9)
+ - ⏩ [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
+ - 👉 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)<!-- MEMES:END -->
 
 ---
 
