@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to deal with a bully](http://9gag.com/gag/aByzd8N)
- - ⏩ [He is ready](http://9gag.com/gag/amoQgZV)
- - 👉 [Perfect loop?](http://9gag.com/gag/aD29dY9)<!-- MEMES:END -->
+ - 💣 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
+ - ⏩ [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
+ - 👉 [David Gordon, a little known american author who somehow in 2011, his book become really big in Japan. Won three literary awards and even got a movie. Look how confused he was](http://9gag.com/gag/aW4yjVn)<!-- MEMES:END -->
 
 ---
 
