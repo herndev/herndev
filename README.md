@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Absolutely incredible items](http://9gag.com/gag/agm9gGK)
+ - 💣 [So we&#39;re all just furries huh](http://9gag.com/gag/a5QgERN)
  - ⏩ [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
- - 👉 [Accountability, zero](http://9gag.com/gag/axyKMKn)<!-- MEMES:END -->
+ - 👉 [This man is a legend already](http://9gag.com/gag/aMV7K1P)<!-- MEMES:END -->
 
 ---
 
