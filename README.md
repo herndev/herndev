@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I made Now Brief useful for a day, and it was more effort than it was worth](https://www.androidauthority.com/made-now-brief-useful-not-wroth-it-3631992/)
- - [Malaysia lifted its temporary ban on Elon Musk&#39;s Grok AI chatbot after xAI added safety measures; Grok remains subject to continuous monitoring by authorities &lpar;Anisah Shukry/Bloomberg&rpar;](http://www.techmeme.com/260123/p10#a260123p10)
- - [Google Photos could soon TikTok-ify your video feed](https://www.androidauthority.com/google-photos-related-video-vertical-feed-3634785/)<!-- TECH:END -->
+ - [Another popular Android brand is making its own Bluetooth and UWB smart tag](https://www.androidauthority.com/xiaomi-tag-leak-bluetooth-tracker-3634822/)
+ - [Google invests an undisclosed sum in Sakana AI, valued at $2.6B in November 2025, to boost Gemini&#39;s presence in Japan; Sakana AI gains access to Google&#39;s LLMs &lpar;Min-Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/260123/p11#a260123p11)
+ - [I’ve been a OnePlus fan for 12 years, but this latest update is my breaking point](https://www.androidauthority.com/oneplus-fan-modding-bootloader-changes-breaking-point-3634505/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
