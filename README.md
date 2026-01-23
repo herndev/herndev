@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`You can&#39;t defeat me!.` `No, I know. But he can!`](http://9gag.com/gag/a1mg132)
- - ⏩ [A Snow Angel](http://9gag.com/gag/aO8EQR6)
- - 👉 [Honest Suggestion](http://9gag.com/gag/amoQgBV)<!-- MEMES:END -->
+ - 💣 [Equal pay:](http://9gag.com/gag/a0egNgX)
+ - ⏩ [Bro found a diamond in search of gold](http://9gag.com/gag/aYQ6rEx)
+ - 👉 [But wait there is more](http://9gag.com/gag/aE0Kqgx)<!-- MEMES:END -->
 
 ---
 
