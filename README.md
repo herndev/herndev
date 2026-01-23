@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still protecting her](http://9gag.com/gag/azxyeyK)
- - ⏩ [This is the only daily reminder I need](http://9gag.com/gag/aRBWr3A)
- - 👉 [Grandpa&#39;s got a secret stash and grandma&#39;s not having it](http://9gag.com/gag/aAyAGR0)<!-- MEMES:END -->
+ - 💣 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)
+ - ⏩ [Legend, both of them](http://9gag.com/gag/awyjz7y)
+ - 👉 [The F00F bug was worse..](http://9gag.com/gag/aE0Kpm9)<!-- MEMES:END -->
 
 ---
 
