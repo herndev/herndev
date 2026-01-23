@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Exploring the Wilderness of Over the Hill on Xbox Series X|S](https://news.xbox.com/en-us/2026/01/23/the-wilderness-of-over-the-hill-on-xbox-series-xs/)
- - [Xbox Exec Struggles To Explain Why Fable Is Coming To PS5 Day One, But Not Forza Horizon 6](https://kotaku.com/xbox-forza-horizon-6-ps5-delay-launch-fable-reboot-2000662665)
- - [A Pokémon Store Was Robbed At Gunpoint, But It’s Only Made Its Community Stronger](https://kotaku.com/pokemon-store-poke-court-nyc-manhattan-robbery-donation-2000662652)<!-- GAME:END -->
+ - [Why Pro MTB Athlete Matt Jones Set Out to Create an Authentic Open-World MTB Game](https://news.xbox.com/en-us/2026/01/23/matt-jones-set-out-to-create-an-authentic-open-world-mtb-game/)
+ - [Careful, This City-Builder Starring Cute Mice And Evil Royal Cats Might Suck Away All Your Free Time](https://kotaku.com/whiskerwood-city-builder-mice-cats-timberton-factorio-indie-steam-early-access-2000662691)
+ - [&#39;Came for the combat, stayed to be a factory worker&#39;: Anime gacha game players are discovering they were born to be factory builders in Arknights: Endfield](https://www.pcgamer.com/games/action/came-for-the-combat-stayed-to-be-a-factory-worker-anime-gacha-game-players-are-discovering-they-were-born-to-be-factory-builders-in-arknights-endfield/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
