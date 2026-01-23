@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [“It sounded like popcorn”: Inside a Galaxy S25 Plus fire, and what to learn from it](https://www.androidauthority.com/samsung-galaxy-s25-plus-fire-user-experience-learnings-3634743/)
- - [Lenovo LOQ 15 Review: The Best Gaming Laptop Under $1,000](https://www.wired.com/review/lenovo-loq-15/)
- - [How Chinese tech companies navigate geopolitical tensions: TikTok and Manus adopted a &quot;China shedding&quot; strategy, while Shein and Meituan seek non-US growth &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/260123/p13#a260123p13)<!-- TECH:END -->
+ - [A major Pixel-exclusive security feature could be the Galaxy S26’s secret weapon](https://www.androidauthority.com/samsung-galaxy-s26-google-phone-scam-detection-apk-teardown-3634854/)
+ - [Apple Pay fees that don&#39;t cost the consumer a dime at center of $2 billion lawsuit](https://appleinsider.com/articles/26/01/23/apple-pay-fees-that-dont-cost-the-consumer-a-dime-at-center-of-2-billion-lawsuit?utm_source=rss)
+ - [Google Photos wants you to star in your own memes](https://www.androidauthority.com/google-photos-me-meme-rollout-3634849/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
