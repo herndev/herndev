@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Finally, another Armored Core instalment just surprise dropped on Steam, but you&#39;ll need to have the patience of a saint to play it](https://www.pcgamer.com/games/action/finally-another-armored-core-instalment-just-surprise-dropped-on-steam-but-youll-need-to-have-the-patience-of-a-saint-to-play-it/)
  - [Fable reboot devs aren&#39;t trying to make a Lionhead game, but one important hallmark will carry over because &#39;kicking chickens is classic Fable&#39;](https://www.pcgamer.com/games/rpg/fable-reboot-devs-arent-trying-to-make-a-lionhead-game-but-one-important-hallmark-will-carry-over-because-kicking-chickens-is-classic-fable/)
- - [After Hytale subreddit goes &#39;full panic mode,&#39; dev assures players the new patch &#39;is NOT the magic system&#39; that&#39;s coming in the full game](https://www.pcgamer.com/games/survival-crafting/after-hytale-subreddit-goes-full-panic-mode-dev-assures-players-the-new-patch-is-not-the-magic-system-thats-coming-in-the-full-game/)
- - [FF7 Remake Part 3 will include an &#39;enhanced&#39; version of Queen&#39;s Blood](https://www.polygon.com/final-fantasy-7-remake-part-3-queens-blood-interview/)<!-- GAME:END -->
+ - [After Hytale subreddit goes &#39;full panic mode,&#39; dev assures players the new patch &#39;is NOT the magic system&#39; that&#39;s coming in the full game](https://www.pcgamer.com/games/survival-crafting/after-hytale-subreddit-goes-full-panic-mode-dev-assures-players-the-new-patch-is-not-the-magic-system-thats-coming-in-the-full-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
