@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [SkiFree is the retro Windows PC game with a terrifying Yeti monster](https://www.polygon.com/ski-free-windows-96-pc-game-yeti/)
- - [More than 40 US Democrats call for a &#39;thorough investigation&#39; of EA&#39;s Saudi-led buyout over risks of layoffs, studio closures, and &#39;coordinated anti-labor practices&#39;](https://www.pcgamer.com/gaming-industry/more-than-40-us-democrats-call-for-a-thorough-investigation-of-eas-saudi-led-buyout-over-risks-of-layoffs-studio-closures-and-coordinated-anti-labor-practices/)
- - [Official PlayStation Podcast Episode 532: Refreshed, Rejuvenated](https://blog.playstation.com/2026/01/23/official-playstation-podcast-episode-532-refreshed-rejuvenated/)<!-- GAME:END -->
+ - [I asked Garry Newman if he really was going to rename s&amp;box as Garry&#39;s mod 2 after an overwhelming poll and he joked &#39;people are d*ckheads&#39;](https://www.pcgamer.com/gaming-industry/i-asked-garry-newman-if-he-really-was-going-to-rename-s-and-box-as-garrys-mod-2-after-an-overwhelming-poll-and-he-joked-people-are-d-ckheads/)
+ - [Where to get aketine in Arknights: Endfield](https://www.polygon.com/arknights-endfield-aketine-location-factory-build/)
+ - [Harvester is quintessential FMV horror at its best](https://www.polygon.com/fmv-harvester-brilliantly-and-brutally-critiques-censorship/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
