@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China&#39;s review of Meta&#39;s Manus deal was spurred by what officials called &quot;selling young crops&quot;, a concern over cross-border transfer of emerging tech &lpar;Financial Times&rpar;](http://www.techmeme.com/260123/p2#a260123p2)
- - [Netflix co-CEO Greg Peters expects Netflix to win WBD, says Paramount&#39;s bid &quot;doesn&#39;t pass the sniff test&quot; and a &quot;very small&quot; number of WBD holders backed it &lpar;Financial Times&rpar;](http://www.techmeme.com/260123/p1#a260123p1)
- - [&#39;Is Microsoft Down?&#39; Outlook and Teams Go Dark in Widespread Outage](https://www.cnet.com/tech/is-microsoft-down-outlook-and-teams-go-dark-in-widespread-outage/)<!-- TECH:END -->
+ - [Bengaluru-based digital payments startup Juspay raised $50M, in a mix of primary and secondary investments, from WestBridge Capital at a $1.2B valuation &lpar;The Economic Times&rpar;](http://www.techmeme.com/260123/p6#a260123p6)
+ - [iPhone 18 Pro Max smaller Dynamic Island dimensions detailed in new leak](https://appleinsider.com/articles/26/01/23/smaller-dynamic-island-shown-in-leakers-concept-for-iphone-18-pro-max?utm_source=rss)
+ - [Samsung admits liability in exploded Galaxy S25 Plus case, user claims &lpar;Updated: New Statement&rpar;](https://www.androidauthority.com/samsung-galaxy-s25-plus-explosion-case-3634441/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
