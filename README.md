@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cubby, which makes software for self-storage operators, raised a $63M Series A led by Growth Equity at Goldman Sachs Alternatives &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260123/p19#a260123p19)
- - [Why this winter storm will likely be a wild one](https://www.theverge.com/science/866624/winter-storm-forecast-drivers-climate)
- - [The end of the Sony era in TVs](https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast)<!-- TECH:END -->
+ - [Marshall’s new hub connects to multiple Bluetooth speakers without pairing](https://www.theverge.com/tech/866640/marshall-music-streaming-hub-heddon-bluetooth-auracast-speakers)
+ - [Today only, you can buy the AirPods Pro 3 for less than $200](https://www.theverge.com/gadgets/866710/apple-airpods-pro-3-super-mario-bros-deal-sale)
+ - [This Galaxy Z Fold 8 rival will have a surprisingly early launch](https://www.androidauthority.com/honor-magic-v6-robot-phone-launch-date-3634907/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
