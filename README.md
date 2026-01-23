@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A major Pixel-exclusive security feature could be the Galaxy S26’s secret weapon](https://www.androidauthority.com/samsung-galaxy-s26-google-phone-scam-detection-apk-teardown-3634854/)
- - [Apple Pay fees that don&#39;t cost the consumer a dime at center of $2 billion lawsuit](https://appleinsider.com/articles/26/01/23/apple-pay-fees-that-dont-cost-the-consumer-a-dime-at-center-of-2-billion-lawsuit?utm_source=rss)
- - [Google Photos wants you to star in your own memes](https://www.androidauthority.com/google-photos-me-meme-rollout-3634849/)<!-- TECH:END -->
+ - [Sources: Ledger is working with banks on a US IPO that could value the French cryptocurrency company at more than $4B; it was valued at $1.5B in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/260123/p17#a260123p17)
+ - [Influencers are pushing suspicious peptides. How much are you willing to risk?](https://www.theverge.com/column/866577/optimizer-peptides-compounding-pharmacies-glp-3-retatrutide-influencers-wellness-wild-west)
+ - [Dock Your M4 Mac mini into this 32-inch 4K touchscreen monitor](https://appleinsider.com/articles/26/01/23/dock-your-m4-mac-mini-into-this-32-inch-touchscreen-monitor?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
