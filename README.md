@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)
- - ⏩ [Drive it like you stole it.](http://9gag.com/gag/ae9zZRQ)
- - 👉 [I mean yah sure](http://9gag.com/gag/ayNr4bV)<!-- MEMES:END -->
+ - 💣 [HandGrip](http://9gag.com/gag/axyK3Y2)
+ - ⏩ [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)
+ - 👉 [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)<!-- MEMES:END -->
 
 ---
 
