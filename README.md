@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men only want one thing](http://9gag.com/gag/abAD4VX)
- - ⏩ [Old but gold](http://9gag.com/gag/aO8EDBM)
- - 👉 [Useful Tips](http://9gag.com/gag/ae9zVxj)<!-- MEMES:END -->
+ - 💣 [No brother](http://9gag.com/gag/a9yw53j)
+ - ⏩ [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)
+ - 👉 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)<!-- MEMES:END -->
 
 ---
 
