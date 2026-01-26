@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)
+ - 💣 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
  - ⏩ [Better call Saul](http://9gag.com/gag/ae9zZnq)
- - 👉 [Robbing Child&#39;s underwear.??](http://9gag.com/gag/aLnozZv)<!-- MEMES:END -->
+ - 👉 [RIPig](http://9gag.com/gag/aoyoV72)<!-- MEMES:END -->
 
 ---
 
