@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Highguard launch times and release date](https://www.pcgamer.com/games/fps/highguard-launch-time-release-date/)
  - [MTG Marvel Super Heroes Commander deck leaks suggest more to come](https://www.polygon.com/mtg-marvel-super-heroes-set-commander-deck-leaks/)
- - [The next Dead by Daylight chapter will feature character designs selected by the community, and voting is already open](https://www.pcgamer.com/games/horror/the-next-dead-by-daylight-chapter-will-feature-character-designs-selected-by-the-community-and-voting-is-already-open/)
- - [Old School Runescape ignored the rules for 25 years — and it&#39;s not even close to dead yet](https://www.polygon.com/old-school-runescape-design-director-kieren-charles-interview/)<!-- GAME:END -->
+ - [The next Dead by Daylight chapter will feature character designs selected by the community, and voting is already open](https://www.pcgamer.com/games/horror/the-next-dead-by-daylight-chapter-will-feature-character-designs-selected-by-the-community-and-voting-is-already-open/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
