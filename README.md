@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Third iOS 26.3, macOS Tahoe 26.3 developer betas are available to download](https://appleinsider.com/articles/26/01/26/third-ios-263-macos-tahoe-263-developer-betas-are-available-to-download?utm_source=rss)
- - [Galaxy A57 images reveal a shockingly thin frame and lavender hue](https://www.androidauthority.com/samsung-galaxy-a57-tenaa-listing-3635303/)
- - [TikTok Data Center Outage Triggers Trust Crisis for New US Owners](https://www.wired.com/story/tiktok-ice-videos-censorship-allegations-algorithm/)<!-- TECH:END -->
+ - [StepFun, a Chinese AI startup that develops LLMs and has partnered with automaker Geely and smartphone brands like Oppo and Honor, raised a ~$717M Series B+ &lpar;Eudora Wang/DealStreetAsia&rpar;](http://www.techmeme.com/260126/p40#a260126p40)
+ - [X faces EU investigation over Grok’s sexualized deepfakes](https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation)
+ - [Tim Cook attending a private White House screening of the documentary Melania hours after ICE killed a man suggests horrible judgment, or worse, cowardice &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/260126/p39#a260126p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
