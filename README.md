@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HandGrip](http://9gag.com/gag/axyK3Y2)
- - ⏩ [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)
- - 👉 [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)<!-- MEMES:END -->
+ - 💣 [In Feb 2022, this NFT image was sold for $23 millions. And here I am giving to you degenerates for free](http://9gag.com/gag/a87N6KV)
+ - ⏩ [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
+ - 👉 [Holyf**k they arent kidding bois](http://9gag.com/gag/a87N6w1)<!-- MEMES:END -->
 
 ---
 
