@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RIPig](http://9gag.com/gag/aoyoV72)
- - ⏩ [HandGrip](http://9gag.com/gag/axyK3Y2)
- - 👉 [Rate my wi-fi setup](http://9gag.com/gag/aO8EZEN)<!-- MEMES:END -->
+ - 💣 [The future is now old men](http://9gag.com/gag/adBAOdZ)
+ - ⏩ [Sign me up for this job, sounds like a dream](http://9gag.com/gag/avyqez5)
+ - 👉 [HandGrip](http://9gag.com/gag/axyK3Y2)<!-- MEMES:END -->
 
 ---
 
