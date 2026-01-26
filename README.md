@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [First Hours Of Highguard Plagued By Technical Issues And PC Performance Problems](https://kotaku.com/highguard-launch-pc-ps5-free-to-play-servers-is-it-good-titanfall-apex-2000663135)
  - [Christopher Nolan&#39;s Al Pacino/Robin Williams thriller is deeply underrated](https://www.polygon.com/insomnia-underrated-christopher-nolan-al-pacino-robin-williams/)
- - [The Animal Crossing: New Horizons community has a major AI slop problem](https://www.polygon.com/animal-crossing-new-horizons-ai-slop-aesthetic/)
- - [TR-49 Is A Stunningly Good Game That Strikes At The Heart Of Everything That’s Wrong Right Now](https://kotaku.com/tr-49-review-inkle-indie-steam-pc-obra-dinn-her-story-2000662798)<!-- GAME:END -->
+ - [The Animal Crossing: New Horizons community has a major AI slop problem](https://www.polygon.com/animal-crossing-new-horizons-ai-slop-aesthetic/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
