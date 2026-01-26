@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
- - ⏩ [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
- - 👉 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)<!-- MEMES:END -->
+ - ⏩ [RIPig](http://9gag.com/gag/aoyoV72)
+ - 👉 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)<!-- MEMES:END -->
 
 ---
 
