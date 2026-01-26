@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Entropy, a decentralized crypto custodian that raised a $25M seed led by a16z in June 2022, is shutting down after &quot;several pivots, and two rounds of layoffs&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260126/p1#a260126p1)
- - [New Galaxy S26 leak reveals a long-overdue storage upgrade for cheapest S26](https://www.androidauthority.com/samsung-galaxy-s26-series-colors-storage-leak-128gb-3635096/)
- - [Sources: Samsung enters the final qualification phase to supply its HBM4 chips to Nvidia, and targets mass production in February; Samsung&#39;s shares jumped 3.2% &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260125/p11#a260125p11)<!-- TECH:END -->
+ - [Manufacturers say that AI is fundamentally changing how some new products are created, finding unexpected solutions and reducing R&amp;D time from weeks to days &lpar;John Keilman/Wall Street Journal&rpar;](http://www.techmeme.com/260126/p2#a260126p2)
+ - [Intel’s Panther Lake Chips Aren’t Just Good—They Beat Apple&#39;s M5](https://www.wired.com/story/intel-panther-lake-core-ultra-series-3-review/)
+ - [Entropy, a decentralized crypto custodian that raised a $25M seed led by a16z in June 2022, is shutting down after &quot;several pivots, and two rounds of layoffs&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260126/p1#a260126p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
