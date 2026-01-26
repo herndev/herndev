@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android phones you should buy instead of the Samsung Galaxy A56](https://www.androidauthority.com/samsung-galaxy-a56-5g-alternatives-3634693/)
- - [London-based enterprise AI video startup Synthesia raised a $200M Series E led by GV at a $4B valuation, up from $2.1B after raising $180M in January 2025 &lpar;Nat Rubio-Licht/The Deep View&rpar;](http://www.techmeme.com/260126/p3#a260126p3)
- - [Manufacturers say that AI is fundamentally changing how some new products are created, finding unexpected solutions and reducing R&amp;D time from weeks to days &lpar;John Keilman/Wall Street Journal&rpar;](http://www.techmeme.com/260126/p2#a260126p2)<!-- TECH:END -->
+ - [Siri is getting Gemini superpowers, and that could be awful for Android](https://www.androidauthority.com/siri-gemini-integration-could-be-awful-android-3634513/)
+ - [Chinese autonomous trucking company DeepWay raised ~$173M ahead of its planned Hong Kong IPO, filed in November 2025; DeepWay reported ~$215M in H1 2025 revenue &lpar;Dong Cao/Bloomberg&rpar;](http://www.techmeme.com/260126/p6#a260126p6)
+ - [Quantum computing company IonQ acquires US chipmaker SkyWater for ~$1.8B, paying $35/share, in IonQ&#39;s biggest deal yet; SkyWater will operate as a subsidiary &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/260126/p5#a260126p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
