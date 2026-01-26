@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t fall for fake listings when buying a retro Android gaming handheld](https://www.androidauthority.com/ayn-gaming-handheld-scams-3635164/)
- - [The EU Commission says WhatsApp&#39;s Channels fall under the DSA&#39;s Very Large Online Platform rules, joining Instagram and Facebook, requiring it to address risks &lpar;Anupriya Datta/Euractiv&rpar;](http://www.techmeme.com/260126/p24#a260126p24)
- - [Experian’s tech chief defends credit scores: ‘We’re not Palantir’](https://www.theverge.com/podcast/866751/experian-ceo-alex-lintner-credit-scores-ai-privacy-interview)<!-- TECH:END -->
+ - [A powerful AMD gaming desktop is hundreds off at Costco](https://www.theverge.com/gadgets/867754/asus-desktop-pc-stream-deck-lg-oled-animal-crossing-deal-sale)
+ - [Microsoft’s latest AI chip goes head-to-head with Amazon and Google](https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement)
+ - [Sources: the US DOT plans to use Gemini to draft federal regulations, cutting the process to just 30 days; the DOT used it to draft a still-unpublished FAA rule &lpar;Jesse Coburn/ProPublica&rpar;](http://www.techmeme.com/260126/p25#a260126p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
