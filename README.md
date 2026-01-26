@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Better call Saul](http://9gag.com/gag/ae9zZnq)
- - ⏩ [Holyf**k they arent kidding bois](http://9gag.com/gag/a87N6w1)
- - 👉 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)<!-- MEMES:END -->
+ - 💣 [Did she want that in football fields per second units?](http://9gag.com/gag/a1mgDYG)
+ - ⏩ [Drive it like you stole it.](http://9gag.com/gag/ae9zZRQ)
+ - 👉 [The engineering of roman aqueducts explained](http://9gag.com/gag/a34g0V7)<!-- MEMES:END -->
 
 ---
 
