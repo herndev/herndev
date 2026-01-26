@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did she want that in football fields per second units?](http://9gag.com/gag/a1mgDYG)
- - ⏩ [Drive it like you stole it.](http://9gag.com/gag/ae9zZRQ)
- - 👉 [The engineering of roman aqueducts explained](http://9gag.com/gag/a34g0V7)<!-- MEMES:END -->
+ - 💣 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
+ - ⏩ [My last hope](http://9gag.com/gag/aVvro0n)
+ - 👉 [RIPig](http://9gag.com/gag/aoyoV72)<!-- MEMES:END -->
 
 ---
 
