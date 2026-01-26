@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upwind Security, which filters out false security alerts in cloud apps to let security teams address actual risks, raised a $250M Series B at a ~$1.5B valuation &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/260126/p28#a260126p28)
- - [YouTube is experimenting with paywalling this popular free feature](https://www.androidauthority.com/youtube-premium-playback-speed-experiment-3635209/)
- - [Internal chats show how social media companies discussed teen engagement](https://www.theverge.com/policy/867845/meta-youtube-snap-tiktok-social-media-trials-documents)<!-- TECH:END -->
+ - [Tattle TV has turned a Hitchcock classic into a vertical video ‘microdrama’](https://www.theverge.com/entertainment/867844/tattle-tv-the-lodger-hitchcock)
+ - [MCP unites Claude chat with apps like Slack, Figma, and Canva](https://www.theverge.com/news/867673/claude-mcp-app-interactive-slack-figma-canva)
+ - [Bluetooth and Wi-Fi suddenly dead? Pixel update may be crippling some phones](https://www.androidauthority.com/pixel-update-broken-3635213/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
