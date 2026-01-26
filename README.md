@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google agrees to pay $68M to settle a class action lawsuit claiming that Google Assistant inappropriately recorded private conversations on users&#39; devices &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260126/p36#a260126p36)
- - [Here’s an early look at how app lock and other Android 17 changes are coming together](https://www.androidauthority.com/app-lock-3635239/)
- - [Somewhat ironically, Verizon is declared the most reliable network in new report](https://www.androidauthority.com/somewhat-ironically-verizon-is-declared-the-most-reliable-network-in-new-report-3635245/)<!-- TECH:END -->
+ - [Third iOS 26.3, macOS Tahoe 26.3 developer betas are available to download](https://appleinsider.com/articles/26/01/26/third-ios-263-macos-tahoe-263-developer-betas-are-available-to-download?utm_source=rss)
+ - [Galaxy A57 images reveal a shockingly thin frame and lavender hue](https://www.androidauthority.com/samsung-galaxy-a57-tenaa-listing-3635303/)
+ - [TikTok Data Center Outage Triggers Trust Crisis for New US Owners](https://www.wired.com/story/tiktok-ice-videos-censorship-allegations-algorithm/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
