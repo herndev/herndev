@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tattle TV has turned a Hitchcock classic into a vertical video ‘microdrama’](https://www.theverge.com/entertainment/867844/tattle-tv-the-lodger-hitchcock)
- - [MCP unites Claude chat with apps like Slack, Figma, and Canva](https://www.theverge.com/news/867673/claude-mcp-app-interactive-slack-figma-canva)
- - [Bluetooth and Wi-Fi suddenly dead? Pixel update may be crippling some phones](https://www.androidauthority.com/pixel-update-broken-3635213/)<!-- TECH:END -->
+ - [AirTag refresh prompts mass updates of older iOS, iPadOS versions](https://appleinsider.com/articles/26/01/26/airtag-refresh-prompts-mass-updates-of-older-ios-ipados-versions?utm_source=rss)
+ - [Shares of Zoom jump 10%+ after analysts at Baird estimated that Zoom&#39;s 2023 investment in Anthropic could be worth $2B to $4B, depending on dilution &lpar;Nate Wolf/Barron&#39;s Online&rpar;](http://www.techmeme.com/260126/p34#a260126p34)
+ - [YouTube Music finally syncs playback across devices the way it should have all along](https://www.androidauthority.com/youtube-music-cross-device-playback-sync-3635250/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
