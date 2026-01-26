@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The F00F bug was worse..](http://9gag.com/gag/aE0Kpm9)
- - ⏩ [Japan\u2019s 2,000-year-old monarchy currently depends on one teenage boy](http://9gag.com/gag/aByznQN)
- - 👉 [No more Carrot misinformation](http://9gag.com/gag/aoyoyy2)<!-- MEMES:END -->
+ - 💣 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)
+ - ⏩ [Here We Goo `National Guard presence confirmed in Minneapolis`](http://9gag.com/gag/aMV7meM)
+ - 👉 [Next-generation immigrants](http://9gag.com/gag/aNDMLg0)<!-- MEMES:END -->
 
 ---
 
