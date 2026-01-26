@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - ⏩ [My last hope](http://9gag.com/gag/aVvro0n)
- - 👉 [RIPig](http://9gag.com/gag/aoyoV72)<!-- MEMES:END -->
+ - 💣 [Holyf**k they arent kidding bois](http://9gag.com/gag/a87N6w1)
+ - ⏩ [The future is now old men](http://9gag.com/gag/adBAOdZ)
+ - 👉 [My last hope](http://9gag.com/gag/aVvro0n)<!-- MEMES:END -->
 
 ---
 
