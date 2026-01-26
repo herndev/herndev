@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Highguard launch times and release date](https://www.pcgamer.com/games/fps/highguard-launch-time-release-date/)
- - [MTG Marvel Super Heroes Commander deck leaks suggest more to come](https://www.polygon.com/mtg-marvel-super-heroes-set-commander-deck-leaks/)
- - [The next Dead by Daylight chapter will feature character designs selected by the community, and voting is already open](https://www.pcgamer.com/games/horror/the-next-dead-by-daylight-chapter-will-feature-character-designs-selected-by-the-community-and-voting-is-already-open/)<!-- GAME:END -->
+ - [Christopher Nolan&#39;s Al Pacino/Robin Williams thriller is deeply underrated](https://www.polygon.com/insomnia-underrated-christopher-nolan-al-pacino-robin-williams/)
+ - [The Animal Crossing: New Horizons community has a major AI slop problem](https://www.polygon.com/animal-crossing-new-horizons-ai-slop-aesthetic/)
+ - [TR-49 Is A Stunningly Good Game That Strikes At The Heart Of Everything That’s Wrong Right Now](https://kotaku.com/tr-49-review-inkle-indie-steam-pc-obra-dinn-her-story-2000662798)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
