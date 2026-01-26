@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
+ - 💣 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)
  - ⏩ [RIPig](http://9gag.com/gag/aoyoV72)
- - 👉 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)<!-- MEMES:END -->
+ - 👉 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)<!-- MEMES:END -->
 
 ---
 
