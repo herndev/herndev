@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Apple Maps - How to get the most out of your iPhone&#39;s navigation app](https://appleinsider.com/inside/apple-maps/tips/inside-apple-maps---how-to-get-the-most-out-of-your-iphones-navigation-app?utm_source=rss)
- - [JP Morgan hikes AAPL target to $315 over iPhone 18 expectations](https://appleinsider.com/articles/26/01/26/jp-morgan-hikes-aapl-target-to-315-over-iphone-18-expectations?utm_source=rss)
- - [TSMC&#39;s conservative capex approach is resulting in supply-demand imbalances and foregone revenue, and hyperscalers must build up Samsung or Intel as its rivals &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260126/p16#a260126p16)<!-- TECH:END -->
+ - [As tech CEOs stay silent after two fatal shootings, 450+ workers at Google, Meta, OpenAI, Amazon, and others urge CEOs to cancel any ICE contracts and speak out &lpar;Axios&rpar;](http://www.techmeme.com/260126/p19#a260126p19)
+ - [As Marvel pivots back to the Avengers, Wonder Man goes its own way](https://www.theverge.com/entertainment/866197/wonder-man-review-mcu-disney-plus)
+ - [Intel Panther Lake laptop CPU review: call it a comeback](https://www.theverge.com/tech/867214/intel-core-ultra-x9-panther-lake-388h-laptop-cpu-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
