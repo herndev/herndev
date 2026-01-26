@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Feb 2022, this NFT image was sold for $23 millions. And here I am giving to you degenerates for free](http://9gag.com/gag/a87N6KV)
- - ⏩ [Is it too much to ask](http://9gag.com/gag/aW4y7RZ)
- - 👉 [Holyf**k they arent kidding bois](http://9gag.com/gag/a87N6w1)<!-- MEMES:END -->
+ - 💣 [My last hope](http://9gag.com/gag/aVvro0n)
+ - ⏩ [RIPig](http://9gag.com/gag/aoyoV72)
+ - 👉 [Superhero Origin story](http://9gag.com/gag/a4PgNKZ)<!-- MEMES:END -->
 
 ---
 
