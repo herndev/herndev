@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Better call Saul](http://9gag.com/gag/ae9zZnq)
- - ⏩ [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - 👉 [Holyf**k they arent kidding bois](http://9gag.com/gag/a87N6w1)<!-- MEMES:END -->
+ - 💣 [That&#39;s bizarre and a turn-off, actually](http://9gag.com/gag/apR73GD)
+ - ⏩ [Better call Saul](http://9gag.com/gag/ae9zZnq)
+ - 👉 [Robbing Child&#39;s underwear.??](http://9gag.com/gag/aLnozZv)<!-- MEMES:END -->
 
 ---
 
