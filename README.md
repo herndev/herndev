@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)
- - ⏩ [RIPig](http://9gag.com/gag/aoyoV72)
- - 👉 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)<!-- MEMES:END -->
+ - 💣 [Superhero Origin story](http://9gag.com/gag/a4PgNKZ)
+ - ⏩ [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
+ - 👉 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)<!-- MEMES:END -->
 
 ---
 
