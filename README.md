@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My last hope](http://9gag.com/gag/aVvro0n)
- - ⏩ [RIPig](http://9gag.com/gag/aoyoV72)
- - 👉 [Superhero Origin story](http://9gag.com/gag/a4PgNKZ)<!-- MEMES:END -->
+ - 💣 [RIPig](http://9gag.com/gag/aoyoV72)
+ - ⏩ [HandGrip](http://9gag.com/gag/axyK3Y2)
+ - 👉 [Rate my wi-fi setup](http://9gag.com/gag/aO8EZEN)<!-- MEMES:END -->
 
 ---
 
