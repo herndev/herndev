@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - ⏩ [Better call Saul](http://9gag.com/gag/ae9zZnq)
- - 👉 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)<!-- MEMES:END -->
+ - 💣 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
+ - ⏩ [Welcome To Minnesota Walmart .](http://9gag.com/gag/a87N6zV)
+ - 👉 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)<!-- MEMES:END -->
 
 ---
 
