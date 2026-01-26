@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siri is getting Gemini superpowers, and that could be awful for Android](https://www.androidauthority.com/siri-gemini-integration-could-be-awful-android-3634513/)
- - [Chinese autonomous trucking company DeepWay raised ~$173M ahead of its planned Hong Kong IPO, filed in November 2025; DeepWay reported ~$215M in H1 2025 revenue &lpar;Dong Cao/Bloomberg&rpar;](http://www.techmeme.com/260126/p6#a260126p6)
- - [Quantum computing company IonQ acquires US chipmaker SkyWater for ~$1.8B, paying $35/share, in IonQ&#39;s biggest deal yet; SkyWater will operate as a subsidiary &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/260126/p5#a260126p5)<!-- TECH:END -->
+ - [Baseus Nomos NH21: Keep your desk clutter-free and all devices powered!](https://www.androidauthority.com/baseus-nomos-nh21-3634927/)
+ - [Ricursive, founded by ex-Google researchers to automate advanced chip design, raised $335M from Sequoia, Radical, Lightspeed, and others at a $4B valuation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260126/p12#a260126p12)
+ - [Did the Pixel Weather app let you down during the snowstorm? You’re not alone.](https://www.androidauthority.com/pixel-weather-app-snowstorm-forecasts-3635109/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
