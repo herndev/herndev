@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Superhero Origin story](http://9gag.com/gag/a4PgNKZ)
- - ⏩ [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
- - 👉 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)<!-- MEMES:END -->
+ - 💣 [Men only want one thing](http://9gag.com/gag/abAD4VX)
+ - ⏩ [Old but gold](http://9gag.com/gag/aO8EDBM)
+ - 👉 [Useful Tips](http://9gag.com/gag/ae9zVxj)<!-- MEMES:END -->
 
 ---
 
