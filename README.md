@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [First Hours Of Highguard Plagued By Technical Issues And PC Performance Problems](https://kotaku.com/highguard-launch-pc-ps5-free-to-play-servers-is-it-good-titanfall-apex-2000663135)
- - [Christopher Nolan&#39;s Al Pacino/Robin Williams thriller is deeply underrated](https://www.polygon.com/insomnia-underrated-christopher-nolan-al-pacino-robin-williams/)
- - [The Animal Crossing: New Horizons community has a major AI slop problem](https://www.polygon.com/animal-crossing-new-horizons-ai-slop-aesthetic/)<!-- GAME:END -->
+ - [The next Arc Raiders update adds Solo vs Squad matchmaking for PvP masochists and an exciting new map condition: Birds](https://www.pcgamer.com/games/third-person-shooter/the-next-arc-raiders-update-adds-solo-vs-squad-matchmaking-for-pvp-masochists-and-an-exciting-new-map-condition-birds/)
+ - [DrDisrespect Lies About Being Invited To Highguard Preview Event](https://kotaku.com/drdisrespect-lies-about-being-invited-to-highguard-preview-event-2000663184)
+ - [Knight of the Seven Kingdoms&#39; only female character got extra help from GRRM](https://www.polygon.com/george-rr-martin-knight-of-the-seven-kingdoms-tanselle-advice/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
