@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
- - ⏩ [Welcome To Minnesota Walmart .](http://9gag.com/gag/a87N6zV)
- - 👉 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)<!-- MEMES:END -->
+ - 💣 [Water returning to the dry riverbed, a beautiful sight from horseback](http://9gag.com/gag/a6Zgnq8)
+ - ⏩ [The curse is lifted](http://9gag.com/gag/aGyvnqw)
+ - 👉 [Jean-Claude Van Damme with the love of his life](http://9gag.com/gag/aXP34A2)<!-- MEMES:END -->
 
 ---
 
