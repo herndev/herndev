@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - ⏩ [Sign me up for this job, sounds like a dream](http://9gag.com/gag/avyqez5)
- - 👉 [HandGrip](http://9gag.com/gag/axyK3Y2)<!-- MEMES:END -->
+ - 💣 [The mystery machine](http://9gag.com/gag/aoyoW7w)
+ - ⏩ [The future is now old men](http://9gag.com/gag/adBAOdZ)
+ - 👉 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)<!-- MEMES:END -->
 
 ---
 
