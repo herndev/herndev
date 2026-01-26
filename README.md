@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New Zealand&#39;s got a high-tech solution for hornets. Who knew pest control could be so fascinating](http://9gag.com/gag/aYQ6GMq)
- - ⏩ [Here We Goo `National Guard presence confirmed in Minneapolis`](http://9gag.com/gag/aMV7meM)
- - 👉 [Next-generation immigrants](http://9gag.com/gag/aNDMLg0)<!-- MEMES:END -->
+ - 💣 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)
+ - ⏩ [Drive it like you stole it.](http://9gag.com/gag/ae9zZRQ)
+ - 👉 [I mean yah sure](http://9gag.com/gag/ayNr4bV)<!-- MEMES:END -->
 
 ---
 
