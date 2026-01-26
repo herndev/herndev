@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [MTG Marvel Super Heroes Commander deck leaks suggest more to come](https://www.polygon.com/mtg-marvel-super-heroes-set-commander-deck-leaks/)
  - [The next Dead by Daylight chapter will feature character designs selected by the community, and voting is already open](https://www.pcgamer.com/games/horror/the-next-dead-by-daylight-chapter-will-feature-character-designs-selected-by-the-community-and-voting-is-already-open/)
- - [Old School Runescape ignored the rules for 25 years — and it&#39;s not even close to dead yet](https://www.polygon.com/old-school-runescape-design-director-kieren-charles-interview/)
- - [Former Marathon art director says &#39;what I could control, I feel really good about&#39; in the face of pre-release animosity: &#39;You can&#39;t take that away from me&#39;](https://www.pcgamer.com/games/fps/former-marathon-art-director-says-what-i-could-control-i-feel-really-good-about-in-the-face-of-pre-release-animosity-you-cant-take-that-away-from-me/)<!-- GAME:END -->
+ - [Old School Runescape ignored the rules for 25 years — and it&#39;s not even close to dead yet](https://www.polygon.com/old-school-runescape-design-director-kieren-charles-interview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
