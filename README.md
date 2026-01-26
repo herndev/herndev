@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A powerful AMD gaming desktop is hundreds off at Costco](https://www.theverge.com/gadgets/867754/asus-desktop-pc-stream-deck-lg-oled-animal-crossing-deal-sale)
- - [Microsoft’s latest AI chip goes head-to-head with Amazon and Google](https://www.theverge.com/news/867670/microsoft-maia-200-ai-chip-announcement)
- - [Sources: the US DOT plans to use Gemini to draft federal regulations, cutting the process to just 30 days; the DOT used it to draft a still-unpublished FAA rule &lpar;Jesse Coburn/ProPublica&rpar;](http://www.techmeme.com/260126/p25#a260126p25)<!-- TECH:END -->
+ - [Upwind Security, which filters out false security alerts in cloud apps to let security teams address actual risks, raised a $250M Series B at a ~$1.5B valuation &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/260126/p28#a260126p28)
+ - [YouTube is experimenting with paywalling this popular free feature](https://www.androidauthority.com/youtube-premium-playback-speed-experiment-3635209/)
+ - [Internal chats show how social media companies discussed teen engagement](https://www.theverge.com/policy/867845/meta-youtube-snap-tiktok-social-media-trials-documents)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
