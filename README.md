@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Uncanny Valley’: Donald Trump’s Davos Drama, AI Midterms, and ChatGPT’s Last Resort](https://www.wired.com/story/uncanny-valley-podcast-trump-davos-ice-ai-midterms-chatgpt-ads/)
- - [US Judge Rules ICE Raids Require Judicial Warrants, Contradicting Secret ICE Memo](https://www.wired.com/story/us-judge-rules-ice-raids-require-judicial-warrants-contradicting-secret-ice-memo/)
- - [Source: Greenoaks, one of Brex&#39;s top investors, will return twice its investment after Capital One&#39;s Brex acquisition for $5.15B in a half-cash, half-stock deal &lpar;The Information&rpar;](http://www.techmeme.com/260123/p29#a260123p29)<!-- TECH:END -->
+ - [Many AI founders now find it necessary to raise at valuations requiring absolute domination of the field; Brex, once valued at $12B, shows the downsides of this &lpar;Jason Lemkin/SaaStr&rpar;](http://www.techmeme.com/260125/p9#a260125p9)
+ - [A profile of Mercor, which pays about $2M daily to ~30K experts training AI models at $95/hour on average, with roles like radiologists earning up to $375/hour &lpar;Bethan Staton/Financial Times&rpar;](http://www.techmeme.com/260125/p8#a260125p8)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Jan. 26 #960](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-jan-26-960/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
