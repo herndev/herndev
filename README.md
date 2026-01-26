@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Samsung enters the final qualification phase to supply its HBM4 chips to Nvidia, and targets mass production in February; Samsung&#39;s shares jumped 3.2% &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260125/p11#a260125p11)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Jan. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-jan-26/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 26, #490](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-26-490/)<!-- TECH:END -->
+ - [Entropy, a decentralized crypto custodian that raised a $25M seed led by a16z in June 2022, is shutting down after &quot;several pivots, and two rounds of layoffs&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260126/p1#a260126p1)
+ - [New Galaxy S26 leak reveals a long-overdue storage upgrade for cheapest S26](https://www.androidauthority.com/samsung-galaxy-s26-series-colors-storage-leak-128gb-3635096/)
+ - [Sources: Samsung enters the final qualification phase to supply its HBM4 chips to Nvidia, and targets mass production in February; Samsung&#39;s shares jumped 3.2% &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260125/p11#a260125p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
