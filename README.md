@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As tech CEOs stay silent after two fatal shootings, 450+ workers at Google, Meta, OpenAI, Amazon, and others urge CEOs to cancel any ICE contracts and speak out &lpar;Axios&rpar;](http://www.techmeme.com/260126/p19#a260126p19)
- - [As Marvel pivots back to the Avengers, Wonder Man goes its own way](https://www.theverge.com/entertainment/866197/wonder-man-review-mcu-disney-plus)
- - [Intel Panther Lake laptop CPU review: call it a comeback](https://www.theverge.com/tech/867214/intel-core-ultra-x9-panther-lake-388h-laptop-cpu-review)<!-- TECH:END -->
+ - [Don’t fall for fake listings when buying a retro Android gaming handheld](https://www.androidauthority.com/ayn-gaming-handheld-scams-3635164/)
+ - [The EU Commission says WhatsApp&#39;s Channels fall under the DSA&#39;s Very Large Online Platform rules, joining Instagram and Facebook, requiring it to address risks &lpar;Anupriya Datta/Euractiv&rpar;](http://www.techmeme.com/260126/p24#a260126p24)
+ - [Experian’s tech chief defends credit scores: ‘We’re not Palantir’](https://www.theverge.com/podcast/866751/experian-ceo-alex-lintner-credit-scores-ai-privacy-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
