@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cosmic Princess Kaguya! and The SpongeBob Movie are finally streaming this weekend](https://www.polygon.com/new-movies-to-watch-spongebob-cosmic-princess-kaguya-january-23-2026/)
- - [The Last Train: Baquedano Turns a Ride Home into a Nightmare](https://news.xbox.com/en-us/2026/01/23/the-last-train-baquedano-turns-a-ride-home-into-a-nightmare/)
- - [Mass Effect boss Michael Gamble is looking for a production director for the next game in the series: &#39;They’ll report to me and it’s gonna be awesome&#39;](https://www.pcgamer.com/games/rpg/mass-effect-boss-michael-gamble-is-looking-for-a-production-director-for-the-next-game-in-the-series-theyll-report-to-me-and-its-gonna-be-awesome/)<!-- GAME:END -->
+ - [The next Dead by Daylight chapter will feature character designs selected by the community, and voting is already open](https://www.pcgamer.com/games/horror/the-next-dead-by-daylight-chapter-will-feature-character-designs-selected-by-the-community-and-voting-is-already-open/)
+ - [Old School Runescape ignored the rules for 25 years — and it&#39;s not even close to dead yet](https://www.polygon.com/old-school-runescape-design-director-kieren-charles-interview/)
+ - [Former Marathon art director says &#39;what I could control, I feel really good about&#39; in the face of pre-release animosity: &#39;You can&#39;t take that away from me&#39;](https://www.pcgamer.com/games/fps/former-marathon-art-director-says-what-i-could-control-i-feel-really-good-about-in-the-face-of-pre-release-animosity-you-cant-take-that-away-from-me/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
