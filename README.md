@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The mystery machine](http://9gag.com/gag/aoyoW7w)
- - ⏩ [The future is now old men](http://9gag.com/gag/adBAOdZ)
+ - 💣 [Better call Saul](http://9gag.com/gag/ae9zZnq)
+ - ⏩ [Holyf**k they arent kidding bois](http://9gag.com/gag/a87N6w1)
  - 👉 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)<!-- MEMES:END -->
 
 ---
