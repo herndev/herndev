@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is the word for 10 points?](http://9gag.com/gag/axyK3KD)
+ - 💣 [The future is now old men](http://9gag.com/gag/adBAOdZ)
  - ⏩ [Better call Saul](http://9gag.com/gag/ae9zZnq)
- - 👉 [RIPig](http://9gag.com/gag/aoyoV72)<!-- MEMES:END -->
+ - 👉 [Am I the only one who constantly forgets that song is Swedish?](http://9gag.com/gag/amoQ1Gj)<!-- MEMES:END -->
 
 ---
 
