@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirTag refresh prompts mass updates of older iOS, iPadOS versions](https://appleinsider.com/articles/26/01/26/airtag-refresh-prompts-mass-updates-of-older-ios-ipados-versions?utm_source=rss)
- - [Shares of Zoom jump 10%+ after analysts at Baird estimated that Zoom&#39;s 2023 investment in Anthropic could be worth $2B to $4B, depending on dilution &lpar;Nate Wolf/Barron&#39;s Online&rpar;](http://www.techmeme.com/260126/p34#a260126p34)
- - [YouTube Music finally syncs playback across devices the way it should have all along](https://www.androidauthority.com/youtube-music-cross-device-playback-sync-3635250/)<!-- TECH:END -->
+ - [OpenAI’s president is a Trump mega-donor](https://www.theverge.com/ai-artificial-intelligence/867947/openai-president-greg-brockman-trump-super-pac)
+ - [Wikimedia data puts iOS 26 adoption at ~50% in January vs. iOS 18&#39;s 72% in 2025 as Apple slows auto-updates; Statcounter showed 15% after missing Safari changes &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/260126/p35#a260126p35)
+ - [Redditors Are Mounting a Resistance Against ICE](https://www.wired.com/story/redditors-are-mounting-a-resistance-against-ice/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
