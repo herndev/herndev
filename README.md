@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Summize, which uses AI to let in-house legal teams manage contract workflows within apps like Slack, raised $50M, bringing its total funding to $65M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260127/p26#a260127p26)
- - [WhatsApp launches Strict Account Settings, a high-security mode to protect high-risk users like journalists and public figures from sophisticated cyberattacks &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260127/p25#a260127p25)
- - [Yahoo launches Scout, an AI answer engine powered by Claude, in beta for US users on desktop and mobile, and joins Microsoft&#39;s Publisher Content Marketplace &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/260127/p24#a260127p24)<!-- TECH:END -->
+ - [TikTok settles a California lawsuit ahead of a landmark social media addiction trial; Snap recently settled the suit, while Meta and YouTube remain defendants &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260127/p33#a260127p33)
+ - [Google just made it even harder for thieves to access your Android device](https://www.androidauthority.com/android-theft-protection-upgrades-3635461/)
+ - [Continuity Camera lands Apple in legal trouble for &#39;Sherlocking&#39; Camo](https://appleinsider.com/articles/26/01/27/continuity-camera-lands-apple-in-legal-trouble-for-sherlocking-camo?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
