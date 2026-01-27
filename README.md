@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ooooffff](http://9gag.com/gag/avyqe3d)
- - ⏩ [Ubisoft Developers when they learned their CEO cancelled Prince of Persia Remake after it was 99% complete](http://9gag.com/gag/aoyo42e)
- - 👉 [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)<!-- MEMES:END -->
+ - 💣 [Choose](http://9gag.com/gag/azxyGAb)
+ - ⏩ [Mid level oof](http://9gag.com/gag/amoQxNy)
+ - 👉 [Italians trying to find Italy on a map is a whole mood](http://9gag.com/gag/aByzEON)<!-- MEMES:END -->
 
 ---
 
