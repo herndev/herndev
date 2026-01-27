@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Google TV update cleans up your home screen with two key changes](https://www.androidauthority.com/google-tv-report-history-youtube-video-thumbnail-fix-3635379/)
- - [Your Belkin Wemo smart home device could stop working this week: Here’s what to do about it](https://www.androidauthority.com/belkin-wemo-smart-home-shut-down-3635362/)
- - [MSI&#39;s Panther Lake Laptop Delivers on Intel&#39;s Promise of Power Plus Efficiency](https://www.cnet.com/tech/computing/msis-panther-lake-laptop-delivers-on-intels-promise-of-power-plus-efficiency/)<!-- TECH:END -->
+ - [Goodbye, Google Discover: I finally found the best use case for AI browsers](https://www.androidauthority.com/perplexity-comet-android-google-news-3634470/)
+ - [Google Messages on Wear OS could soon add two features you’ve been waiting for](https://www.androidauthority.com/google-messages-wear-os-emoji-reactions-mark-as-read-apk-teardown-3635384/)
+ - [New Google TV update cleans up your home screen with two key changes](https://www.androidauthority.com/google-tv-report-history-youtube-video-thumbnail-fix-3635379/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
