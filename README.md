@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [StepFun, a Chinese AI startup that develops LLMs and has partnered with automaker Geely and smartphone brands like Oppo and Honor, raised a ~$717M Series B+ &lpar;Eudora Wang/DealStreetAsia&rpar;](http://www.techmeme.com/260126/p40#a260126p40)
- - [X faces EU investigation over Grok’s sexualized deepfakes](https://www.theverge.com/news/868239/x-grok-sexualized-deepfakes-eu-investigation)
- - [Tim Cook attending a private White House screening of the documentary Melania hours after ICE killed a man suggests horrible judgment, or worse, cowardice &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/260126/p39#a260126p39)<!-- TECH:END -->
+ - [Apple C-series modem enables new privacy-focused limit precise location feature](https://appleinsider.com/articles/26/01/26/apple-c-series-modem-enables-new-privacy-focused-limit-precise-location-feature?utm_source=rss)
+ - [Meta says it will test new paid subscriptions that give people access to exclusive features on its apps and plans to scale Manus as part of those offerings &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260126/p41#a260126p41)
+ - [Gemini in Google Calendar is getting so good at scheduling meetings, interns will be out of work](https://www.androidauthority.com/google-calender-gemini-suggesting-meeting-times-3635336/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
