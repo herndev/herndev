@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Privacy-focused MVNO Cape, which has raised $61M from a16z and others, launches across the US following a March 2025 beta, offering a $99 monthly plan &lpar;Steven Melendez/Fast Company&rpar;](http://www.techmeme.com/260127/p48#a260127p48)
- - [Can you believe the Yaber Projector L2s is only $102 right now?!](https://www.androidauthority.com/yaber-projector-l2s-home-cinema-deal-3-3635324/)
- - [One UI 8.5 will give Now Bar a function it should’ve had a while ago](https://www.androidauthority.com/samsung-now-bar-missed-calls-3635654/)<!-- TECH:END -->
+ - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [Don’t scan another unknown QR code without running it by this threat detector](https://www.androidauthority.com/mcafee-scam-detector-update-qr-code-scam-3635696/)
+ - [Sources: the interim director of CISA, Madhu Gottumukkala, triggered automated security warnings last summer by uploading sensitive documents to ChatGPT &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260127/p49#a260127p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
