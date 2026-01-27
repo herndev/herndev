@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple C-series modem enables new privacy-focused limit precise location feature](https://appleinsider.com/articles/26/01/26/apple-c-series-modem-enables-new-privacy-focused-limit-precise-location-feature?utm_source=rss)
- - [Meta says it will test new paid subscriptions that give people access to exclusive features on its apps and plans to scale Manus as part of those offerings &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260126/p41#a260126p41)
- - [Gemini in Google Calendar is getting so good at scheduling meetings, interns will be out of work](https://www.androidauthority.com/google-calender-gemini-suggesting-meeting-times-3635336/)<!-- TECH:END -->
+ - [The US Army signs a $5.6B, 10-year contract with Salesforce to speed up outdated practices; as part of the deal, military recruiters will get access to Slack &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260126/p45#a260126p45)
+ - [Audio-Technica ATH-R50x headphones review: Open-backed music to my ears](https://appleinsider.com/articles/26/01/27/audio-technica-ath-r50x-headphones-review-open-backed-music-to-my-ears?utm_source=rss)
+ - [YC updated its website to remove Canada from its list of approved jurisdictions for incorporation, leaving the US, Cayman Islands, and Singapore as options &lpar;Murad Hemmadi/The Logic&rpar;](http://www.techmeme.com/260126/p44#a260126p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
