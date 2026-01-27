@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [UK shopping experience](http://9gag.com/gag/a6Zg5v9)
- - ⏩ [Don&#39;t tell the ICE](http://9gag.com/gag/amoQx8X)
- - 👉 [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)<!-- MEMES:END -->
+ - 💣 [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)
+ - ⏩ [Damm](http://9gag.com/gag/ae9zxdj)
+ - 👉 [Ma&#39;am](http://9gag.com/gag/aPALe4G)<!-- MEMES:END -->
 
 ---
 
