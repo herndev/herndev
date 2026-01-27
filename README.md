@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TR-49, one of 2026&#39;s first great games, was inspired by fake news](https://www.polygon.com/inkle-tr-49-2026-puzzle-game/)
- - [KPop Demon Hunters American Girl dolls are here, and they&#39;re terrifying](https://www.polygon.com/kpop-demon-hunters-american-girl-dolls-are-here-and-theyre-terrifying/)
- - [Highguard Removes Text From Steam Linking It To The Creators Of Titanfall](https://kotaku.com/highguard-removes-text-from-steam-linking-it-to-the-creators-of-titanfall-2000663557)<!-- GAME:END -->
+ - [North Korea&#39;s crypto thieving went into overdrive in 2025, with one firm estimating it&#39;s responsible for roughly 60% of the $3.4 billion stolen in total](https://www.pcgamer.com/gaming-industry/north-koreas-crypto-thieving-went-into-overdrive-in-2025-with-one-firm-estimating-its-responsible-for-roughly-60-percent-of-the-usd3-4-billion-stolen-in-total/)
+ - [Geoff Keighley Forced To Declare He Has No Financial Stake In Highguard As He’s Swarmed By Unhinged Haters](https://kotaku.com/geoff-keighley-highguard-game-awards-trailer-hate-2000663574)
+ - [New Street Fighter 6 Energy Drink Proves How Far We’ve Strayed From God’s Light](https://kotaku.com/street-fighter-6-energy-drink-trading-cards-2000663519)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
