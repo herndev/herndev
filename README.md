@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
- - ⏩ [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)
+ - 💣 [Again](http://9gag.com/gag/a1mg048)
+ - ⏩ [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
  - 👉 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)<!-- MEMES:END -->
 
 ---
