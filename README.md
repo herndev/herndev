@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)
- - ⏩ [Damm](http://9gag.com/gag/ae9zxdj)
- - 👉 [Ma&#39;am](http://9gag.com/gag/aPALe4G)<!-- MEMES:END -->
+ - 💣 [UK shopping experience](http://9gag.com/gag/a6Zg5v9)
+ - ⏩ [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)
+ - 👉 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)<!-- MEMES:END -->
 
 ---
 
