@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The next Arc Raiders update adds Solo vs Squad matchmaking for PvP masochists and an exciting new map condition: Birds](https://www.pcgamer.com/games/third-person-shooter/the-next-arc-raiders-update-adds-solo-vs-squad-matchmaking-for-pvp-masochists-and-an-exciting-new-map-condition-birds/)
- - [DrDisrespect Lies About Being Invited To Highguard Preview Event](https://kotaku.com/drdisrespect-lies-about-being-invited-to-highguard-preview-event-2000663184)
- - [Knight of the Seven Kingdoms&#39; only female character got extra help from GRRM](https://www.polygon.com/george-rr-martin-knight-of-the-seven-kingdoms-tanselle-advice/)<!-- GAME:END -->
+ - [Highguard is fine when you don&#39;t have an internet in your ear telling you it&#39;s nasty](https://www.pcgamer.com/games/fps/highguard-is-fine-when-you-dont-have-an-internet-in-your-ear-telling-you-its-nasty/)
+ - [Hytale update adds a new weapon for summoning undead hordes, but keep your early access expectations in check](https://www.pcgamer.com/games/survival-crafting/hytale-update-adds-a-new-weapon-for-summoning-undead-hordes-but-keep-your-early-access-expectations-in-check/)
+ - [Try the New Xbox Cloud Gaming Web Experience — Now in Public Preview](https://news.xbox.com/en-us/2026/01/26/try-the-new-xbox-cloud-gaming-web-experience-now-in-public-preview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
