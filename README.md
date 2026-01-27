@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese-language crypto laundering networks processed ~$16.1B in 2025, or $44M per day on average across 1,799+ wallets, representing 20% of laundering activity &lpar;Chainalysis&rpar;](http://www.techmeme.com/260127/p12#a260127p12)
- - [This Humanoid Is Ready to Bring You a Toothbrush](https://www.wired.com/story/humanoid-robot-butler-sprout-fauna/)
- - [We asked you how Google should improve Pixel batteries, and the results say it all](https://www.androidauthority.com/google-solved-pixel-battery-life-poll-results-3635466/)<!-- TECH:END -->
+ - [Here’s why OnePlus bricked your phone when you tried downgrading it](https://www.androidauthority.com/oneplus-brick-phones-statement-3635475/)
+ - [EU warns Google: Gemini cannot be the only AI with deep Android integration](https://www.androidauthority.com/google-dma-android-ai-search-data-proceedings-3635493/)
+ - [Internal Slack message: Sam Altman tells OpenAI staff that &quot;What&#39;s happening with ICE is going too far&quot; and he hopes President Trump &quot;will rise to this moment&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/260127/p15#a260127p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
