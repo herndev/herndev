@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Don’t scan another unknown QR code without running it by this threat detector](https://www.androidauthority.com/mcafee-scam-detector-update-qr-code-scam-3635696/)
- - [Sources: the interim director of CISA, Madhu Gottumukkala, triggered automated security warnings last summer by uploading sensitive documents to ChatGPT &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260127/p49#a260127p49)<!-- TECH:END -->
+ - [Seagate reports Q2 revenue up 22% YoY to $2.83B, vs. $2.73B est., forecasts Q3 results above estimates on strong data storage demand; STX jumps 8%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260127/p52#a260127p52)
+ - [The winter storm tested power grids straining to accommodate AI data centers](https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm)
+ - [Apple TV comedy &#39;Shrinking&#39; renewed for a fourth season](https://appleinsider.com/articles/26/01/27/apple-tv-comedy-shrinking-renewed-for-a-fourth-season?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
