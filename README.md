@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RIPig](http://9gag.com/gag/aoyoV72)
- - ⏩ [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)
- - 👉 [When you enjoy your job ^^](http://9gag.com/gag/ayNr6rY)<!-- MEMES:END -->
+ - 💣 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
+ - ⏩ [When you enjoy your job ^^](http://9gag.com/gag/ayNr6rY)
+ - 👉 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)<!-- MEMES:END -->
 
 ---
 
