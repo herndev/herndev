@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [North Korea&#39;s crypto thieving went into overdrive in 2025, with one firm estimating it&#39;s responsible for roughly 60% of the $3.4 billion stolen in total](https://www.pcgamer.com/gaming-industry/north-koreas-crypto-thieving-went-into-overdrive-in-2025-with-one-firm-estimating-its-responsible-for-roughly-60-percent-of-the-usd3-4-billion-stolen-in-total/)
- - [Geoff Keighley Forced To Declare He Has No Financial Stake In Highguard As He’s Swarmed By Unhinged Haters](https://kotaku.com/geoff-keighley-highguard-game-awards-trailer-hate-2000663574)
- - [New Street Fighter 6 Energy Drink Proves How Far We’ve Strayed From God’s Light](https://kotaku.com/street-fighter-6-energy-drink-trading-cards-2000663519)<!-- GAME:END -->
+ - [PlayStation’s Spider-Man Calls For Blocking ICE Funding After Brutal Minnesota Killing](https://kotaku.com/ps5-spider-man-yuri-lowenthal-ice-alex-pretti-2000663563)
+ - [1978 &#39;shockumentary&#39; Faces of Death gets a 2026 remake, starring Charlie XCX](https://www.polygon.com/faces-of-death-2026-trailer-charlie-xcx/)
+ - [$900 million lawsuit accusing Steam of overcharging gamers in the UK and &#39;abusing a dominant market position&#39; will proceed after Valve loses appeal against it](https://www.pcgamer.com/gaming-industry/usd900-million-lawsuit-accusing-steam-of-overcharging-gamers-in-the-uk-and-abusing-a-dominant-market-position-will-proceed-after-valve-loses-appeal-against-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
