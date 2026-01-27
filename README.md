@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung seemingly considered a camera button on Galaxy S26. Would you want one?](https://www.androidauthority.com/samsung-galaxy-s26-camera-button-3635357/)
- - [An interview with OpenAI for Science head Kevin Weil on the team&#39;s mission, why LLMs can&#39;t come up with game-changing discoveries yet, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260127/p3#a260127p3)
- - [TikTok US says it doesn&#39;t &quot;have rules against sharing the name Epstein in direct messages&quot; and is &quot;investigating why some users are experiencing issues&quot; &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/260127/p2#a260127p2)<!-- TECH:END -->
+ - [New Google TV update cleans up your home screen with two key changes](https://www.androidauthority.com/google-tv-report-history-youtube-video-thumbnail-fix-3635379/)
+ - [Your Belkin Wemo smart home device could stop working this week: Here’s what to do about it](https://www.androidauthority.com/belkin-wemo-smart-home-shut-down-3635362/)
+ - [MSI&#39;s Panther Lake Laptop Delivers on Intel&#39;s Promise of Power Plus Efficiency](https://www.cnet.com/tech/computing/msis-panther-lake-laptop-delivers-on-intels-promise-of-power-plus-efficiency/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
