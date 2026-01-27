@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation’s Spider-Man Calls For Blocking ICE Funding After Brutal Minnesota Killing](https://kotaku.com/ps5-spider-man-yuri-lowenthal-ice-alex-pretti-2000663563)
- - [1978 &#39;shockumentary&#39; Faces of Death gets a 2026 remake, starring Charlie XCX](https://www.polygon.com/faces-of-death-2026-trailer-charlie-xcx/)
- - [$900 million lawsuit accusing Steam of overcharging gamers in the UK and &#39;abusing a dominant market position&#39; will proceed after Valve loses appeal against it](https://www.pcgamer.com/gaming-industry/usd900-million-lawsuit-accusing-steam-of-overcharging-gamers-in-the-uk-and-abusing-a-dominant-market-position-will-proceed-after-valve-loses-appeal-against-it/)<!-- GAME:END -->
+ - [Roblox comments on ongoing missing child case and the statement is, uh, not great](https://www.pcgamer.com/games/roblox-comments-on-ongoing-missing-child-case-and-the-statement-is-uh-not-great/)
+ - [The Highguard launch is off to a rocky start, with low Steam reviews and concurrents](https://www.polygon.com/highguard-launch-rocky-start/)
+ - [Magic reveals nine new Commander decks for Strixhaven and Marvel Super Heroes](https://www.polygon.com/mtg-secrets-of-strixhaven-marvel-super-heroes-commander-decks-precons-announced/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
