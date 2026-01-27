@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok US says it doesn&#39;t &quot;have rules against sharing the name Epstein in direct messages&quot; and is &quot;investigating why some users are experiencing issues&quot; &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/260127/p2#a260127p2)
- - [10% Dell Coupon Codes | January 2026](https://www.wired.com/story/dell-coupon-code/)
- - [20% Off TurboTax Service Codes | January 2026](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
+ - [Samsung seemingly considered a camera button on Galaxy S26. Would you want one?](https://www.androidauthority.com/samsung-galaxy-s26-camera-button-3635357/)
+ - [An interview with OpenAI for Science head Kevin Weil on the team&#39;s mission, why LLMs can&#39;t come up with game-changing discoveries yet, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260127/p3#a260127p3)
+ - [TikTok US says it doesn&#39;t &quot;have rules against sharing the name Epstein in direct messages&quot; and is &quot;investigating why some users are experiencing issues&quot; &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/260127/p2#a260127p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
