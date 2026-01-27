@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp&amp;#8217;s new &amp;#8216;lockdown&amp;#8217; settings add another layer of protection against cyberattacks](https://www.theverge.com/news/868722/whatsapp-strict-account-settings-cyberattacks)
- - [DeepSeek launches DeepSeek-OCR 2, an upgraded optical character recognition model that replaces OpenAI-developed CLIP framework with Alibaba&#39;s Qwen2-0.5b &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/260127/p37#a260127p37)
- - [Continuity Camera lands Apple in legal trouble for &#39;Sherlocking&#39; Camo](https://appleinsider.com/articles/26/01/27/continuity-camera-lands-apple-in-legal-trouble-for-sherlocking-camo?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Anthropic is set to raise about $20B led by Singapore&#39;s GIC and Coatue, double the amount it had targeted, at a $350B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260127/p42#a260127p42)
+ - [Amazon shutters all of its physical Go and Fresh stores](https://www.theverge.com/news/868800/amazon-go-and-fresh-stores-closed)
+ - [These Feature-Packed Earbuds Are Less Than $50](https://www.wired.com/story/anker-soundcore-a40-deal-126/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
