@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic is set to raise about $20B led by Singapore&#39;s GIC and Coatue, double the amount it had targeted, at a $350B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260127/p42#a260127p42)
- - [Amazon shutters all of its physical Go and Fresh stores](https://www.theverge.com/news/868800/amazon-go-and-fresh-stores-closed)
- - [These Feature-Packed Earbuds Are Less Than $50](https://www.wired.com/story/anker-soundcore-a40-deal-126/)<!-- TECH:END -->
+ - [Latest Galaxy S26 rumor has us wondering about launch colors](https://www.androidauthority.com/samsung-galaxy-s26-color-leaks-3635665/)
+ - [Apple AirPods Pro 3 drop to record-low price!](https://www.androidauthority.com/apple-airpods-pro-3-deal-3-3635325/)
+ - [Apple releases iOS 12.5.8 for the iPhone 5s and iPhone 6, extending software support for these devices to 13 and 12 years after their respective launches &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/260127/p45#a260127p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
