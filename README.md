@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete A Prime Specimen in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-a-prime-specimen-deforester/)
- - [Pokémon Go &#39;Into the Depths&#39; event guide](https://www.polygon.com/pokemon-go-into-the-depths-event-glimmet-timed-research/)
- - [Valve Fails To Get $900m Class Action Lawsuit Over Pricing Thrown Out](https://kotaku.com/valve-class-action-lawsuit-steam-uk-ruling-2000663481)<!-- GAME:END -->
+ - [Devolver follows Reigns: Game of Thrones with a new Witcher game](https://www.polygon.com/reigns-the-witcher-impressions/)
+ - [Get ready to battle bruxae and swipe sorceresses in Reigns: The Witcher, out next month](https://www.pcgamer.com/games/card-games/get-ready-to-battle-bruxae-and-swipe-sorceresses-in-reigns-the-witcher-out-next-month/)
+ - [Nearly 20 years ago, the makers of Age of Empires tried to make a Halo MMO, and then the studio closed: &#39;I still feel like no-one has really done the action MMO I see in my mind&#39;](https://www.pcgamer.com/games/mmo/nearly-20-years-ago-the-makers-of-age-of-empires-tried-to-make-a-halo-mmo-and-then-the-studio-closed-i-still-feel-like-no-one-has-really-done-the-action-mmo-i-see-in-my-mind/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
