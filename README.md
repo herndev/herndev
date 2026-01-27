@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roland’s TR-1000 is the ultimate drum machine](https://www.theverge.com/tech/867819/roland-tr-1000-drum-machine-review)
- - [Documents: a whistleblower details the Boshang scam compound in Laos that defrauded victims of ~$2.2M over 11 weeks and utilized a system of worker debt bondage &lpar;Wired&rpar;](http://www.techmeme.com/260127/p8#a260127p8)
- - [5 important lessons I learned from testing Qi2 chargers on the Pixel 10](https://www.androidauthority.com/5-important-lessons-i-learned-testing-qi2-chargers-on-pixel-10-3634605/)<!-- TECH:END -->
+ - [Chinese-language crypto laundering networks processed ~$16.1B in 2025, or $44M per day on average across 1,799+ wallets, representing 20% of laundering activity &lpar;Chainalysis&rpar;](http://www.techmeme.com/260127/p12#a260127p12)
+ - [This Humanoid Is Ready to Bring You a Toothbrush](https://www.wired.com/story/humanoid-robot-butler-sprout-fauna/)
+ - [We asked you how Google should improve Pixel batteries, and the results say it all](https://www.androidauthority.com/google-solved-pixel-battery-life-poll-results-3635466/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
