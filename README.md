@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RIPig](http://9gag.com/gag/aoyoV72)
- - ⏩ [Priorities might differ](http://9gag.com/gag/aNDMvXw)
- - 👉 [Who will win?!](http://9gag.com/gag/aPALPqG)<!-- MEMES:END -->
+ - 💣 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)
+ - ⏩ [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)
+ - 👉 [Gotta start the habits from young](http://9gag.com/gag/adBAxe9)<!-- MEMES:END -->
 
 ---
 
