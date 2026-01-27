@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Devolver follows Reigns: Game of Thrones with a new Witcher game](https://www.polygon.com/reigns-the-witcher-impressions/)
- - [Get ready to battle bruxae and swipe sorceresses in Reigns: The Witcher, out next month](https://www.pcgamer.com/games/card-games/get-ready-to-battle-bruxae-and-swipe-sorceresses-in-reigns-the-witcher-out-next-month/)
- - [Nearly 20 years ago, the makers of Age of Empires tried to make a Halo MMO, and then the studio closed: &#39;I still feel like no-one has really done the action MMO I see in my mind&#39;](https://www.pcgamer.com/games/mmo/nearly-20-years-ago-the-makers-of-age-of-empires-tried-to-make-a-halo-mmo-and-then-the-studio-closed-i-still-feel-like-no-one-has-really-done-the-action-mmo-i-see-in-my-mind/)<!-- GAME:END -->
+ - [TR-49, one of 2026&#39;s first great games, was inspired by fake news](https://www.polygon.com/inkle-tr-49-2026-puzzle-game/)
+ - [KPop Demon Hunters American Girl dolls are here, and they&#39;re terrifying](https://www.polygon.com/kpop-demon-hunters-american-girl-dolls-are-here-and-theyre-terrifying/)
+ - [Highguard Removes Text From Steam Linking It To The Creators Of Titanfall](https://kotaku.com/highguard-removes-text-from-steam-linking-it-to-the-creators-of-titanfall-2000663557)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
