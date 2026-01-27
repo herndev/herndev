@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Goodbye, Google Discover: I finally found the best use case for AI browsers](https://www.androidauthority.com/perplexity-comet-android-google-news-3634470/)
- - [Google Messages on Wear OS could soon add two features you’ve been waiting for](https://www.androidauthority.com/google-messages-wear-os-emoji-reactions-mark-as-read-apk-teardown-3635384/)
- - [New Google TV update cleans up your home screen with two key changes](https://www.androidauthority.com/google-tv-report-history-youtube-video-thumbnail-fix-3635379/)<!-- TECH:END -->
+ - [I ditched Notion for this simple app to reclaim my focus](https://www.androidauthority.com/i-ditched-notion-for-ia-writer-3634472/)
+ - [The EU gives Google a six-month deadline to lift technical barriers to rival AI search assistants on Android and give key data to other search engine providers &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/260127/p6#a260127p6)
+ - [Instagram, Facebook, and WhatsApp will test premium subscriptions](https://www.theverge.com/news/868439/meta-premium-subscription-ai-facebook-instagram-whatsapp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
