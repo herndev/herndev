@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sleep well](http://9gag.com/gag/aByzEP1)
- - ⏩ [Jean-Claude Van Damme with the love of his life](http://9gag.com/gag/aXP34A2)
- - 👉 [Choose](http://9gag.com/gag/azxyGAb)<!-- MEMES:END -->
+ - 💣 [RIPig](http://9gag.com/gag/aoyoV72)
+ - ⏩ [Priorities might differ](http://9gag.com/gag/aNDMvXw)
+ - 👉 [Who will win?!](http://9gag.com/gag/aPALPqG)<!-- MEMES:END -->
 
 ---
 
