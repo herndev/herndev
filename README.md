@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [RIPig](http://9gag.com/gag/aoyoV72)
- - ⏩ [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
- - 👉 [The future is now old men](http://9gag.com/gag/adBAOdZ)<!-- MEMES:END -->
+ - ⏩ [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)
+ - 👉 [When you enjoy your job ^^](http://9gag.com/gag/ayNr6rY)<!-- MEMES:END -->
 
 ---
 
