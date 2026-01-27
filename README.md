@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Micron plans to invest $24B over the next decade to build a 700,000 square foot memory chip facility in Singapore, with wafer output starting in H2 2028 &lpar;Reuters&rpar;](http://www.techmeme.com/260127/p1#a260127p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 27, #491](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-27-491/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-27/)
- - [California Gov. Gavin Newsom says he will launch a review into whether TikTok is violating state law by censoring content critical of President Donald Trump &lpar;Tyler Katzenberger/Politico&rpar;](http://www.techmeme.com/260126/p46#a260126p46)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-27/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
