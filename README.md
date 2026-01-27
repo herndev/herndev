@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Choose](http://9gag.com/gag/azxyGAb)
- - ⏩ [Mid level oof](http://9gag.com/gag/amoQxNy)
- - 👉 [Italians trying to find Italy on a map is a whole mood](http://9gag.com/gag/aByzEON)<!-- MEMES:END -->
+ - 💣 [FAFO](http://9gag.com/gag/aryEqqp)
+ - ⏩ [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
+ - 👉 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)<!-- MEMES:END -->
 
 ---
 
