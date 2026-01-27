@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)
- - ⏩ [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - 👉 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)<!-- MEMES:END -->
+ - 💣 [RIPig](http://9gag.com/gag/aoyoV72)
+ - ⏩ [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
+ - 👉 [The future is now old men](http://9gag.com/gag/adBAOdZ)<!-- MEMES:END -->
 
 ---
 
