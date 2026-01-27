@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Roblox comments on ongoing missing child case and the statement is, uh, not great](https://www.pcgamer.com/games/roblox-comments-on-ongoing-missing-child-case-and-the-statement-is-uh-not-great/)
- - [The Highguard launch is off to a rocky start, with low Steam reviews and concurrents](https://www.polygon.com/highguard-launch-rocky-start/)
- - [Magic reveals nine new Commander decks for Strixhaven and Marvel Super Heroes](https://www.polygon.com/mtg-secrets-of-strixhaven-marvel-super-heroes-commander-decks-precons-announced/)<!-- GAME:END -->
+ - [Batman: Arkham Parody Perfectly Captures The Horror And Absurdity Of Living In Gotham](https://kotaku.com/batman-arkham-parody-perfectly-captures-the-horror-and-absurdity-of-living-in-gotham-2000663597)
+ - [Baldur&#39;s Gate 3 modder adds legally distinct Poké Balls so you can &#39;capture non-player characters inside a ball and free them later &lpar;or don&#39;t&rpar;&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-modder-adds-legally-distinct-poke-balls-so-you-can-capture-non-player-characters-inside-a-ball-and-free-them-later-or-dont/)
+ - [All Tap Simulator codes for January 2026: Tokens, potions, and crystals](https://www.pcgamer.com/roblox/tap-simulator-codes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
