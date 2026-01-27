@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No brother](http://9gag.com/gag/a9yw53j)
- - ⏩ [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)
- - 👉 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)<!-- MEMES:END -->
+ - 💣 [How to tell if there are alligators in the water in Louisiana](http://9gag.com/gag/aRBWzwq)
+ - ⏩ [The future is now old men](http://9gag.com/gag/adBAOdZ)
+ - 👉 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)<!-- MEMES:END -->
 
 ---
 
