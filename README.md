@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s why OnePlus bricked your phone when you tried downgrading it](https://www.androidauthority.com/oneplus-brick-phones-statement-3635475/)
- - [EU warns Google: Gemini cannot be the only AI with deep Android integration](https://www.androidauthority.com/google-dma-android-ai-search-data-proceedings-3635493/)
- - [Internal Slack message: Sam Altman tells OpenAI staff that &quot;What&#39;s happening with ICE is going too far&quot; and he hopes President Trump &quot;will rise to this moment&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/260127/p15#a260127p15)<!-- TECH:END -->
+ - [Pornhub parent Aylo says it will restrict UK users from February 2, after six months of complying with the UK&#39;s OSA; users who verified their ages can login &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/260127/p20#a260127p20)
+ - [Tesla’s robotaxis are cheaper than Waymo, but the wait times are longer](https://www.theverge.com/news/867934/tesla-waymo-robotaxi-price-comparison-uber-lyft-obi)
+ - [Yahoo Scout looks like a more web-friendly take on AI search](https://www.theverge.com/ai-artificial-intelligence/868374/yahoo-scout-looks-like-a-more-web-friendly-take-on-ai-search)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
