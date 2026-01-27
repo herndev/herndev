@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Batman: Arkham Parody Perfectly Captures The Horror And Absurdity Of Living In Gotham](https://kotaku.com/batman-arkham-parody-perfectly-captures-the-horror-and-absurdity-of-living-in-gotham-2000663597)
- - [Baldur&#39;s Gate 3 modder adds legally distinct Poké Balls so you can &#39;capture non-player characters inside a ball and free them later &lpar;or don&#39;t&rpar;&#39;](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-modder-adds-legally-distinct-poke-balls-so-you-can-capture-non-player-characters-inside-a-ball-and-free-them-later-or-dont/)
- - [All Tap Simulator codes for January 2026: Tokens, potions, and crystals](https://www.pcgamer.com/roblox/tap-simulator-codes/)<!-- GAME:END -->
+ - [Grounded 2&#39;s first major content update delivers a new biome, bugs, a sweet new mount, and a really big snake](https://www.pcgamer.com/games/survival-crafting/grounded-2s-first-major-content-update-delivers-a-new-biome-bugs-a-sweet-new-mount-and-a-really-big-snake/)
+ - [How to get a Dawntrail &lpar;Phantom&rpar; relic weapon in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601664/dawntrail-relic-weapon-phantom-steps-upgrade-requirements/)
+ - [How to get to the Garden in Grounded 2](https://www.polygon.com/grounded-2-garden-location-toxic-tangle/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
