@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest Galaxy S26 rumor has us wondering about launch colors](https://www.androidauthority.com/samsung-galaxy-s26-color-leaks-3635665/)
- - [Apple AirPods Pro 3 drop to record-low price!](https://www.androidauthority.com/apple-airpods-pro-3-deal-3-3635325/)
- - [Apple releases iOS 12.5.8 for the iPhone 5s and iPhone 6, extending software support for these devices to 13 and 12 years after their respective launches &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/260127/p45#a260127p45)<!-- TECH:END -->
+ - [Privacy-focused MVNO Cape, which has raised $61M from a16z and others, launches across the US following a March 2025 beta, offering a $99 monthly plan &lpar;Steven Melendez/Fast Company&rpar;](http://www.techmeme.com/260127/p48#a260127p48)
+ - [Can you believe the Yaber Projector L2s is only $102 right now?!](https://www.androidauthority.com/yaber-projector-l2s-home-cinema-deal-3-3635324/)
+ - [One UI 8.5 will give Now Bar a function it should’ve had a while ago](https://www.androidauthority.com/samsung-now-bar-missed-calls-3635654/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
