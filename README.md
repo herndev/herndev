@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pornhub parent Aylo says it will restrict UK users from February 2, after six months of complying with the UK&#39;s OSA; users who verified their ages can login &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/260127/p20#a260127p20)
- - [Tesla’s robotaxis are cheaper than Waymo, but the wait times are longer](https://www.theverge.com/news/867934/tesla-waymo-robotaxi-price-comparison-uber-lyft-obi)
- - [Yahoo Scout looks like a more web-friendly take on AI search](https://www.theverge.com/ai-artificial-intelligence/868374/yahoo-scout-looks-like-a-more-web-friendly-take-on-ai-search)<!-- TECH:END -->
+ - [Summize, which uses AI to let in-house legal teams manage contract workflows within apps like Slack, raised $50M, bringing its total funding to $65M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260127/p26#a260127p26)
+ - [WhatsApp launches Strict Account Settings, a high-security mode to protect high-risk users like journalists and public figures from sophisticated cyberattacks &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260127/p25#a260127p25)
+ - [Yahoo launches Scout, an AI answer engine powered by Claude, in beta for US users on desktop and mobile, and joins Microsoft&#39;s Publisher Content Marketplace &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/260127/p24#a260127p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
