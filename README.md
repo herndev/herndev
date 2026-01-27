@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hey, as long as it works...](http://9gag.com/gag/a87N0Kd)
- - ⏩ [When you enjoy your job ^^](http://9gag.com/gag/ayNr6rY)
- - 👉 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)<!-- MEMES:END -->
+ - 💣 [Men only want one thing](http://9gag.com/gag/abAD4VX)
+ - ⏩ [Water returning to the dry riverbed, a beautiful sight from horseback](http://9gag.com/gag/a6Zgnq8)
+ - 👉 [Choose](http://9gag.com/gag/azxyGAb)<!-- MEMES:END -->
 
 ---
 
