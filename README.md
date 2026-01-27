@@ -39,8 +39,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok settles a California lawsuit ahead of a landmark social media addiction trial; Snap recently settled the suit, while Meta and YouTube remain defendants &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260127/p33#a260127p33)
- - [Google just made it even harder for thieves to access your Android device](https://www.androidauthority.com/android-theft-protection-upgrades-3635461/)
+ - [WhatsApp&amp;#8217;s new &amp;#8216;lockdown&amp;#8217; settings add another layer of protection against cyberattacks](https://www.theverge.com/news/868722/whatsapp-strict-account-settings-cyberattacks)
+ - [DeepSeek launches DeepSeek-OCR 2, an upgraded optical character recognition model that replaces OpenAI-developed CLIP framework with Alibaba&#39;s Qwen2-0.5b &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/260127/p37#a260127p37)
  - [Continuity Camera lands Apple in legal trouble for &#39;Sherlocking&#39; Camo](https://appleinsider.com/articles/26/01/27/continuity-camera-lands-apple-in-legal-trouble-for-sherlocking-camo?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
