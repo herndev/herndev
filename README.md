@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Again](http://9gag.com/gag/a1mg048)
- - ⏩ [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
- - 👉 [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)<!-- MEMES:END -->
+ - 💣 [Representative Artistic Ensemble of the Polish Army](http://9gag.com/gag/an7ZEr0)
+ - ⏩ [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)
+ - 👉 [Damm](http://9gag.com/gag/ae9zxdj)<!-- MEMES:END -->
 
 ---
 
