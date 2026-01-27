@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [FAFO](http://9gag.com/gag/aryEqqp)
- - ⏩ [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
- - 👉 [Well done dogg. Well done](http://9gag.com/gag/avyqEXM)<!-- MEMES:END -->
+ - 💣 [Nahhh\u2026](http://9gag.com/gag/aNDMQ3r)
+ - ⏩ [Ser\u00e1 una noche de trabajo duro](http://9gag.com/gag/a5QgwxN)
+ - 👉 [FAFO](http://9gag.com/gag/aryEqqp)<!-- MEMES:END -->
 
 ---
 
