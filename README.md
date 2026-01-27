@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who will win?!](http://9gag.com/gag/aPALPqG)
- - ⏩ [The future is now old men](http://9gag.com/gag/adBAOdZ)
- - 👉 [Makeup is a lie](http://9gag.com/gag/axyKve2)<!-- MEMES:END -->
+ - 💣 [Fell for the oldest trick in the book](http://9gag.com/gag/awyjLoB)
+ - ⏩ [Ladies and Gentlemen, welcome to my 3rd world pvp server, using an rpg to assassinate a mayor in broad daylight](http://9gag.com/gag/azxyPNz)
+ - 👉 [The future is now old men](http://9gag.com/gag/adBAOdZ)<!-- MEMES:END -->
 
 ---
 
