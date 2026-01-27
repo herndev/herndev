@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California Gov. Gavin Newsom says he will launch a review into whether TikTok is violating state law by censoring content critical of President Donald Trump &lpar;Tyler Katzenberger/Politico&rpar;](http://www.techmeme.com/260126/p46#a260126p46)
- - [All the ways TikTok is broken: here’s what’s real and what’s not](https://www.theverge.com/news/868379/tiktok-us-trump-oracle-broken-rumors-power-outage)
- - [The US Army signs a $5.6B, 10-year contract with Salesforce to speed up outdated practices; as part of the deal, military recruiters will get access to Slack &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260126/p45#a260126p45)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Jan. 27, #491](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-jan-27-491/)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Jan. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-jan-27/)
+ - [California Gov. Gavin Newsom says he will launch a review into whether TikTok is violating state law by censoring content critical of President Donald Trump &lpar;Tyler Katzenberger/Politico&rpar;](http://www.techmeme.com/260126/p46#a260126p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
