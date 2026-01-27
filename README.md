@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout 76&#39;s new Burning Springs update is packed with locations inspired by Amazon&#39;s Fallout season 2, so you don&#39;t have to just play New Vegas to keep the good times going](https://www.pcgamer.com/games/fallout/fallout-76s-new-burning-springs-update-is-packed-with-locations-inspired-by-amazons-fallout-season-2-so-you-dont-have-to-just-play-new-vegas-to-keep-the-good-times-going/)
- - [Ubisoft Really Doesn’t Want You To See Its Canceled Prince Of Persia Remake](https://kotaku.com/prince-of-persia-sands-of-time-art-leak-canceled-remake-2000663501)
- - [Lorcana shows what Magic’s Universes Beyond is missing](https://www.polygon.com/lorcana-shift-mechanic-universes-beyond-mechanic/)<!-- GAME:END -->
+ - [How to complete A Prime Specimen in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-a-prime-specimen-deforester/)
+ - [Pokémon Go &#39;Into the Depths&#39; event guide](https://www.polygon.com/pokemon-go-into-the-depths-event-glimmet-timed-research/)
+ - [Valve Fails To Get $900m Class Action Lawsuit Over Pricing Thrown Out](https://kotaku.com/valve-class-action-lawsuit-steam-uk-ruling-2000663481)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
