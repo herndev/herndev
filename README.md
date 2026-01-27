@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I ditched Notion for this simple app to reclaim my focus](https://www.androidauthority.com/i-ditched-notion-for-ia-writer-3634472/)
- - [The EU gives Google a six-month deadline to lift technical barriers to rival AI search assistants on Android and give key data to other search engine providers &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/260127/p6#a260127p6)
- - [Instagram, Facebook, and WhatsApp will test premium subscriptions](https://www.theverge.com/news/868439/meta-premium-subscription-ai-facebook-instagram-whatsapp)<!-- TECH:END -->
+ - [Roland’s TR-1000 is the ultimate drum machine](https://www.theverge.com/tech/867819/roland-tr-1000-drum-machine-review)
+ - [Documents: a whistleblower details the Boshang scam compound in Laos that defrauded victims of ~$2.2M over 11 weeks and utilized a system of worker debt bondage &lpar;Wired&rpar;](http://www.techmeme.com/260127/p8#a260127p8)
+ - [5 important lessons I learned from testing Qi2 chargers on the Pixel 10](https://www.androidauthority.com/5-important-lessons-i-learned-testing-qi2-chargers-on-pixel-10-3634605/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
