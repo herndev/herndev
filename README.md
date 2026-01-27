@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men only want one thing](http://9gag.com/gag/abAD4VX)
- - ⏩ [Water returning to the dry riverbed, a beautiful sight from horseback](http://9gag.com/gag/a6Zgnq8)
- - 👉 [Choose](http://9gag.com/gag/azxyGAb)<!-- MEMES:END -->
+ - 💣 [Choose](http://9gag.com/gag/azxyGAb)
+ - ⏩ [Makeup is a lie](http://9gag.com/gag/axyKve2)
+ - 👉 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)<!-- MEMES:END -->
 
 ---
 
