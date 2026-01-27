@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadlock&#39;s next character fan vote has been won by the littlest guy around, Rem: &#39;May god have mercy on us all&#39;](https://www.pcgamer.com/games/moba/deadlocks-next-character-fan-vote-has-been-won-by-the-littlest-guy-around-rem-may-god-have-mercy-on-us-all/)
- - [Instead of difficulty, Obsidian designer Josh Sawyer thinks in terms of 3 RPG player archetypes: &#39;What are they trying to get out of this game?&#39;](https://www.pcgamer.com/games/rpg/instead-of-difficulty-obsidian-designer-josh-sawyer-thinks-in-terms-of-3-rpg-player-archetypes-what-are-they-trying-to-get-out-of-this-game/)
- - [Highguard is fine when you don&#39;t have an internet in your ear telling you it&#39;s nasty](https://www.pcgamer.com/games/fps/highguard-is-fine-when-you-dont-have-an-internet-in-your-ear-telling-you-its-nasty/)<!-- GAME:END -->
+ - [Fallout 76&#39;s new Burning Springs update is packed with locations inspired by Amazon&#39;s Fallout season 2, so you don&#39;t have to just play New Vegas to keep the good times going](https://www.pcgamer.com/games/fallout/fallout-76s-new-burning-springs-update-is-packed-with-locations-inspired-by-amazons-fallout-season-2-so-you-dont-have-to-just-play-new-vegas-to-keep-the-good-times-going/)
+ - [Ubisoft Really Doesn’t Want You To See Its Canceled Prince Of Persia Remake](https://kotaku.com/prince-of-persia-sands-of-time-art-leak-canceled-remake-2000663501)
+ - [Lorcana shows what Magic’s Universes Beyond is missing](https://www.polygon.com/lorcana-shift-mechanic-universes-beyond-mechanic/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
