@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)
- - ⏩ [That will be a great 1.5 years journey!](http://9gag.com/gag/a34g8R8)
- - 👉 [Ma&#39;am](http://9gag.com/gag/aPALe4G)<!-- MEMES:END -->
+ - 💣 [Sleep well](http://9gag.com/gag/aByzEP1)
+ - ⏩ [Bravo.](http://9gag.com/gag/a9yw21m)
+ - 👉 [FAFO](http://9gag.com/gag/aryEqqp)<!-- MEMES:END -->
 
 ---
 
