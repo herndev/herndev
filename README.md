@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I used Claude to vibe-code my wildly overcomplicated smart home](https://www.theverge.com/report/869318/claude-vibe-coding-home-assistant-smart-home)
- - [The entry-level Samsung Galaxy Buds FE are on sale for $30 off right now](https://www.theverge.com/gadgets/868870/samsung-galaxy-buds-fe-kindle-paperwhite-deal-sale)
- - [Nano Banana just hit the wall and landed in E Ink](https://www.androidauthority.com/switchbot-ai-art-frame-launch-3636105/)<!-- TECH:END -->
+ - [Windows 11 is getting close to resuming your Android apps like Apple Handoff](https://www.androidauthority.com/windows-11-cross-device-resume-preview-channel-3636114/)
+ - [Meta Reports Fourth Quarter and Full Year 2025 Results &lpar;Meta&rpar;](http://www.techmeme.com/260128/p49#a260128p49)
+ - [Crypto PAC Fairshake expanded its war chest to $193M by the end of last year, up from $141M in July; Ripple gave $25M, and a16z gave $24M in H2 2025 &lpar;Emily Wilkins/CNBC&rpar;](http://www.techmeme.com/260128/p48#a260128p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
