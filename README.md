@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at &quot;neolabs&quot; such as Safe Superintelligence and Humans&amp;, which give priority to long-term AI R&amp;D over immediate profits; dozens have become unicorns &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260128/p9#a260128p9)
- - [Are you excited or worried about Android 17’s blurry future?](https://www.androidauthority.com/android-17-blur-open-thread-3635820/)
- - [YouTube TV just borrowed a handy YouTube feature that fixes DVR frustration](https://www.androidauthority.com/youtube-tv-dvr-update-3635811/)<!-- TECH:END -->
+ - [Q&amp;A with James Wu on leaving his role as DJI&#39;s chief scientist to found FJDynamics to build robots for labor intensive sectors like agriculture and construction &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/260128/p10#a260128p10)
+ - [Nothing Phone 4a Pro leak suggests improved IP rating, and that’s good news](https://www.androidauthority.com/nothing-phone-4a-pro-ip-rating-battery-leak-3635817/)
+ - [A look at &quot;neolabs&quot; such as Safe Superintelligence and Humans&amp;, which give priority to long-term AI R&amp;D over immediate profits; dozens have become unicorns &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260128/p9#a260128p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
