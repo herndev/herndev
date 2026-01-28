@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android updates explained: Betas, Canary builds, and what you should use](https://www.androidauthority.com/android-release-cycle-explained-3633955/)
- - [Momentum Works: the GMV of the online food delivery market in Southeast Asia&#39;s six biggest economies grew 18% YoY to $22.7B in 2025, and Grab accounted for 55% &lpar;Dylan Loh/Nikkei Asia&rpar;](http://www.techmeme.com/260128/p15#a260128p15)
- - [Samsung says it will introduce a display feature for the Galaxy S26 series that improves &quot;privacy at a pixel level&quot; to protect users from &quot;shoulder surfing&quot; &lpar;Abhijeet Mishra/SamMobile&rpar;](http://www.techmeme.com/260128/p14#a260128p14)<!-- TECH:END -->
+ - [I did the math: You absolutely should not buy the $2,900 Galaxy Z TriFold](https://www.androidauthority.com/i-did-the-math-absolutely-dont-buy-galaxy-z-trifold-3635281/)
+ - [A North Atlantic Right Whale Baby Boom Is On—but the Species Remains at Risk](https://www.wired.com/story/a-north-atlantic-right-whale-baby-boom-is-on-but-the-species-remains-at-risk/)
+ - [Self-driving truck startup Waabi is teaming up with Uber on robotaxis](https://www.theverge.com/news/868535/waabi-robotaxi-uber-fundraising-self-driving-truck)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
