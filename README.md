@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I did the math: You absolutely should not buy the $2,900 Galaxy Z TriFold](https://www.androidauthority.com/i-did-the-math-absolutely-dont-buy-galaxy-z-trifold-3635281/)
- - [A North Atlantic Right Whale Baby Boom Is On—but the Species Remains at Risk](https://www.wired.com/story/a-north-atlantic-right-whale-baby-boom-is-on-but-the-species-remains-at-risk/)
- - [Self-driving truck startup Waabi is teaming up with Uber on robotaxis](https://www.theverge.com/news/868535/waabi-robotaxi-uber-fundraising-self-driving-truck)<!-- TECH:END -->
+ - [Grok is the most antisemitic chatbot according to the ADL](https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk)
+ - [iPhone 18 Pro could get a teleconverter for greater zoom](https://appleinsider.com/articles/26/01/28/iphone-18-pro-could-get-a-teleconverter-for-greater-zoom?utm_source=rss)
+ - [I spent $16 on a small waterproof Ikea speaker and the battery life is honestly ridiculous](https://www.androidauthority.com/ikea-vappeby-waterproof-bluetooth-shower-speaker-3635505/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
