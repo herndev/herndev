@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can someone please help bro?!](http://9gag.com/gag/a5QgjXy)
- - ⏩ [Carbonara](http://9gag.com/gag/aByzXYO)
- - 👉 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)<!-- MEMES:END -->
+ - 💣 [That&#39;s the proper reaction of any adult person.](http://9gag.com/gag/aVvr23O)
+ - ⏩ [Go outside they said. It will be fun they said.](http://9gag.com/gag/azxyYgK)
+ - 👉 [He deserves it.](http://9gag.com/gag/aAyAXEE)<!-- MEMES:END -->
 
 ---
 
