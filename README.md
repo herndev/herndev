@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My son gets his game from the best teachers](http://9gag.com/gag/a34gWyQ)
- - ⏩ [These sodium street lights giving me pure nostalgia](http://9gag.com/gag/axyKRpW)
- - 👉 [Not all heroes wear capes, some just jump into rivers](http://9gag.com/gag/aRBW2E2)<!-- MEMES:END -->
+ - 💣 [So\u2026 about that joke!](http://9gag.com/gag/avyqRxX)
+ - ⏩ [FAFO](http://9gag.com/gag/aryEqqp)
+ - 👉 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)<!-- MEMES:END -->
 
 ---
 
