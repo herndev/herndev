@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [While Samsung and Crucial SSDs Hold Steady, Kingston’s Portable Drive Hits a New Low](https://kotaku.com/while-samsung-and-crucial-ssds-hold-steady-kingstons-portable-drive-hits-a-new-low-2000663605)
- - [Send Help proves Sam Raimi should never make another superhero film](https://www.polygon.com/sam-raimi-superhero-movies-send-help/)
- - [Bethesda&#39;s former Elder Scrolls loremaster won&#39;t tell us where The Elder Scrolls 6 is set, but the team originally agreed on it way back in the Fallout 4 days](https://www.pcgamer.com/games/the-elder-scrolls/bethesdas-former-elder-scrolls-loremaster-wont-tell-us-where-the-elder-scrolls-6-is-set-but-the-team-originally-agreed-on-it-way-back-in-the-fallout-4-days/)<!-- GAME:END -->
+ - [Don’t Stop GirlyPop Is A Wild-Looking Shooter That Isn’t Much Fun To Play](https://kotaku.com/dont-stop-girlypop-is-a-wild-looking-shooter-that-isnt-much-fun-to-play-2000663619)
+ - [Gran Turismo 7 Update 1.67 out today,  Online Qualifiers Jan 31](https://blog.playstation.com/2026/01/28/gran-turismo-7-update-1-67-out-today-online-qualifiers-jan-31/)
+ - [Don&#39;t Stop, Girlypop! review: the best Doom clone in years](https://www.polygon.com/dont-stop-girlypop-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
