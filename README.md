@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys when we cook](http://9gag.com/gag/ayNr1zq)
- - ⏩ [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)
- - 👉 [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)<!-- MEMES:END -->
+ - 💣 [Bravo.](http://9gag.com/gag/a9yw21m)
+ - ⏩ [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)
+ - 👉 [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)<!-- MEMES:END -->
 
 ---
 
