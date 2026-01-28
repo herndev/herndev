@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Wonder Man has one big problem: It&#39;s a Surf Dracula show](https://www.polygon.com/wonder-man-marvel-show-surf-dracula/)
- - [Scott Pilgrim Ex, a spiritual sequel to the anime, gets a long-awaited release date](https://www.polygon.com/scott-pilgrim-ex-release-date-trailer/)
- - [Memory chip specialist SK Hynix reports record-breaking profits but doesn&#39;t have a word to say about almost anything apart from AI](https://www.pcgamer.com/hardware/memory/memory-chip-specialist-sk-hynix-reports-record-breaking-profits-but-doesnt-have-a-word-to-say-about-almost-anything-apart-from-ai/)<!-- GAME:END -->
+ - [RAMpocalypse be damned, I&#39;ve tested a range of games to see if slow DDR5 will ruin my gaming experience](https://www.pcgamer.com/hardware/memory/rampocalypse-be-damned-ive-tested-a-range-of-games-to-see-if-slow-ddr5-will-ruin-my-gaming-experience/)
+ - [Turns out the best way to succeed in this new mech vs kaiju roguelike deckbuilder is just to jump up and down on your enemies&#39; heads like a 200 ton Mario](https://www.pcgamer.com/games/roguelike/turns-out-the-best-way-to-succeed-in-this-new-mech-vs-kaiju-roguelike-deckbuilder-is-just-to-jump-up-and-down-on-your-enemies-heads-like-a-200-ton-mario/)
+ - [Helldivers 2&#39;s next Warbond has a hammer that explodes in your face, and it&#39;s about the most Helldivers thing I&#39;ve ever seen—also, the Cyborgs are back for round 2](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-next-warbond-has-a-hammer-that-explodes-in-your-face-and-its-about-the-most-helldivers-thing-ive-ever-seen-also-the-cyborgs-are-back-for-round-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
