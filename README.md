@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is spending millions to convince people that data centers are cool and you like them](https://www.theverge.com/news/869008/meta-data-centers-ad-campaign)
- - [Moltbot, the AI agent that &amp;#8216;actually does things,&amp;#8217; is tech’s new obsession](https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent)
- - [AdImpact: Meta spent $6.4M in November and December 2025 to run TV ads in eight US state capitals and DC, aiming to change negative opinions about data centers &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/260127/p53#a260127p53)<!-- TECH:END -->
+ - [Internal documents from 2025: Microsoft expects its annual water consumption to reach 28B liters by 2030, up from 7.9B liters in 2020 and 10.4B liters in 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/260127/p56#a260127p56)
+ - [The crypto bill is falling apart in Congress](https://www.theverge.com/column/868941/clarity-act-congress-shutdown)
+ - [Paolo Ardoino says Tether now holds ~140 tons of gold, worth ~$23B, has been buying one to two tons a week, and plans to keep doing so for the next few months &lpar;Jack Ryan/Bloomberg&rpar;](http://www.techmeme.com/260127/p55#a260127p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
