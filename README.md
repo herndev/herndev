@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Baldur&#39;s Gate 3 mod restores more than 100 conversations and 1,000 lines of voiced dialogue from the early access version previously lost in the ethereal plane](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-mod-restores-more-than-100-conversations-and-1-000-lines-of-voiced-dialogue-from-the-early-access-version-previously-lost-in-the-ethereal-plane/)
  - [What&#39;s the next step in these adventure game puzzles?](https://www.pcgamer.com/games/adventure/whats-the-next-step-in-these-adventure-game-puzzles/)
- - [Fallout Season 2 Episode 7 recap: &#39;Don&#39;t think of them as human beings, think of them as Americans&#39;](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-7-recap-dont-think-of-them-as-human-beings-think-of-them-as-americans/)
- - [Wonder Man: Exploring the MCU hero&#39;s comic book origins and powers](https://www.polygon.com/wonder-man-marvel-superhero-comic-book-origins-explained/)<!-- GAME:END -->
+ - [Fallout Season 2 Episode 7 recap: &#39;Don&#39;t think of them as human beings, think of them as Americans&#39;](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-7-recap-dont-think-of-them-as-human-beings-think-of-them-as-americans/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
