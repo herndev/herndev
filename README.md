@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seagate reports Q2 revenue up 22% YoY to $2.83B, vs. $2.73B est., forecasts Q3 results above estimates on strong data storage demand; STX jumps 8%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260127/p52#a260127p52)
- - [The winter storm tested power grids straining to accommodate AI data centers](https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm)
- - [Apple TV comedy &#39;Shrinking&#39; renewed for a fourth season](https://appleinsider.com/articles/26/01/27/apple-tv-comedy-shrinking-renewed-for-a-fourth-season?utm_source=rss)<!-- TECH:END -->
+ - [Meta is spending millions to convince people that data centers are cool and you like them](https://www.theverge.com/news/869008/meta-data-centers-ad-campaign)
+ - [Moltbot, the AI agent that &amp;#8216;actually does things,&amp;#8217; is tech’s new obsession](https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent)
+ - [AdImpact: Meta spent $6.4M in November and December 2025 to run TV ads in eight US state capitals and DC, aiming to change negative opinions about data centers &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/260127/p53#a260127p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
