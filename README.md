@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Pluribus&#39; leads Apple TV Writers Guild Awards with 4 of 9 nominations](https://appleinsider.com/articles/26/01/28/pluribus-leads-apple-tv-writers-guild-awards-with-4-of-9-nominations?utm_source=rss)
- - [Memo: Tim Cook told employees that he is &quot;heartbroken by the events in Minneapolis&quot; and calls for a &quot;deescalation&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260127/p58#a260127p58)
- - [Amazon appears to mistakenly alert some AWS employees about planned layoffs in an email invite to a Wednesday &quot;Project Dawn&quot; meeting about company efficiency &lpar;Business Insider&rpar;](http://www.techmeme.com/260127/p57#a260127p57)<!-- TECH:END -->
+ - [Sources: Anthropic raises its revenue forecasts to $18B in 2026, $55B in 2027, and $148B in 2029, delaying its cash flow positive expectations by a year to 2028 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260127/p59#a260127p59)
+ - [EU warns Google: Gemini cannot be the only AI with deep Android integration &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/google-dma-android-ai-search-data-proceedings-3635493/)
+ - [Apple CEO Tim Cook &#39;heartbroken&#39; after repeated ICE killings in Minneapolis](https://appleinsider.com/articles/26/01/28/apple-ceo-tim-cook-heartbroken-after-repeated-ice-killings-in-minneapolis?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
