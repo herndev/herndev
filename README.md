@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic raises its revenue forecasts to $18B in 2026, $55B in 2027, and $148B in 2029, delaying its cash flow positive expectations by a year to 2028 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260127/p59#a260127p59)
- - [EU warns Google: Gemini cannot be the only AI with deep Android integration &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/google-dma-android-ai-search-data-proceedings-3635493/)
- - [Apple CEO Tim Cook &#39;heartbroken&#39; after repeated ICE killings in Minneapolis](https://appleinsider.com/articles/26/01/28/apple-ceo-tim-cook-heartbroken-after-repeated-ice-killings-in-minneapolis?utm_source=rss)<!-- TECH:END -->
+ - [Sources: C3.ai is in talks to merge with Automation Anywhere, which would go public in the deal; C3.ai&#39;s market cap is now ~$1.7B, a tenth of its 2020 valuation &lpar;The Information&rpar;](http://www.techmeme.com/260128/p1#a260128p1)
+ - [Sources: China approved its first batch of Nvidia H200 chips for import, covering several hundred thousand units, during Jensen Huang&#39;s visit to China this week &lpar;Reuters&rpar;](http://www.techmeme.com/260127/p61#a260127p61)
+ - [Amazon partners with Harris Farm to offer fresh food delivery in Australia for the first time, starting in inner Sydney, free for Prime members on AU$100 orders &lpar;Carrie LaFrenz/Australian Financial Review&rpar;](http://www.techmeme.com/260127/p60#a260127p60)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
