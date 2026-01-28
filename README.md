@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony breaking tradition? WF-1000XM6 leak hints at a change for this year’s premium earbuds](https://www.androidauthority.com/sony-wf-1000xm6-third-color-3635979/)
- - [AirTag 2 has a thinner motherboard, bigger speaker coil, and lots of glue](https://appleinsider.com/articles/26/01/28/airtag-2-has-a-thinner-motherboard-bigger-speaker-coil-and-lots-of-glue?utm_source=rss)
- - [TikTok’s new privacy policy is raising alarms: Here’s how to delete your account right now](https://www.androidauthority.com/how-to-delete-tiktok-account-3635952/)<!-- TECH:END -->
+ - [Chrome will borrow Gemini’s cross-app powers in upcoming agentic upgrade](https://www.androidauthority.com/google-chrome-agent-gemini-personal-intelligence-3635848/)
+ - [Chrome’s latest feature lets you put your web browsing on autopilot](https://www.androidauthority.com/chrome-auto-browse-3635682/)
+ - [Following UK CMA&#39;s proposals, Google says it is exploring controls to let websites opt out of AI Overviews and AI Mode &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](http://www.techmeme.com/260128/p42#a260128p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
