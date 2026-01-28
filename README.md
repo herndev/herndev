@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft reports Azure Q2 revenue up 39% YoY, vs. 38.8% est.; Microsoft cloud&#39;s contracted backlog grew 110% to $625B, ~45% of which was driven by OpenAI alone &lpar;Reuters&rpar;](http://www.techmeme.com/260128/p57#a260128p57)
- - [PaleBlueDot, which operates a GPU capacity marketplace and designs GPU clusters for enterprises, raised a $150M Series B led by B Capital at a $1B+ valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/260128/p56#a260128p56)
- - [Here’s an early look at Samsung’s premium cases for the Galaxy S26 Ultra](https://www.androidauthority.com/samsung-galaxy-s26-ultra-kindsuit-cases-leak-3636161/)<!-- TECH:END -->
+ - [Tesla discontinuing Model S and Model X to make room for robots](https://www.theverge.com/transportation/869872/tesla-model-s-model-x-discontinue-optimus-robot-factory)
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
+ - [ServiceNow reports Q4 revenue up 20.5% YoY to $3.57B, vs. $3.53B est., and subscription revenue up 21% YoY to $3.47B; NOW drops ~3% after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260128/p59#a260128p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
