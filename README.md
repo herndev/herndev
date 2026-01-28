@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome will borrow Gemini’s cross-app powers in upcoming agentic upgrade](https://www.androidauthority.com/google-chrome-agent-gemini-personal-intelligence-3635848/)
- - [Chrome’s latest feature lets you put your web browsing on autopilot](https://www.androidauthority.com/chrome-auto-browse-3635682/)
- - [Following UK CMA&#39;s proposals, Google says it is exploring controls to let websites opt out of AI Overviews and AI Mode &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](http://www.techmeme.com/260128/p42#a260128p42)<!-- TECH:END -->
+ - [Remember: Cancel Final Cut Pro iPad subscriptions when you set up Apple Creator Studio](https://appleinsider.com/inside/final-cut-pro/tips/remember-cancel-final-cut-pro-ipad-subscriptions-when-you-set-up-apple-creator-studio?utm_source=rss)
+ - [Gas is expensive: Save with this Shell Gift Card deal!](https://www.androidauthority.com/50-shell-gift-card-deal-3636075/)
+ - [Google updates Gemini in Chrome with a new side panel, an auto browse feature that can navigate pages and take actions for AI Pro and AI Ultra users, and more &lpar;Kyle Kucharski/ZDNET&rpar;](http://www.techmeme.com/260128/p43#a260128p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
