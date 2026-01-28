@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Maybe I should just buy Factorio? I&#39;d like Arknights: Endfield a lot more if it would stop trying to be Genshin Impact and just let me build](https://www.pcgamer.com/games/action/maybe-i-should-just-buy-factorio-id-like-arknights-endfield-a-lot-more-if-it-would-stop-trying-to-be-genshin-impact-and-just-let-me-build/)
  - [Grounded 2&#39;s first major content update delivers a new biome, bugs, a sweet new mount, and a really big snake](https://www.pcgamer.com/games/survival-crafting/grounded-2s-first-major-content-update-delivers-a-new-biome-bugs-a-sweet-new-mount-and-a-really-big-snake/)
- - [How to get a Dawntrail &lpar;Phantom&rpar; relic weapon in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601664/dawntrail-relic-weapon-phantom-steps-upgrade-requirements/)
- - [How to get to the Garden in Grounded 2](https://www.polygon.com/grounded-2-garden-location-toxic-tangle/)<!-- GAME:END -->
+ - [How to get a Dawntrail &lpar;Phantom&rpar; relic weapon in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601664/dawntrail-relic-weapon-phantom-steps-upgrade-requirements/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
