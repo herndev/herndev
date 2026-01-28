@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, the FPS I keep asking for: Deep combat, classic modes, and an honest-to-god server browser](https://www.pcgamer.com/games/fps/finally-the-fps-i-keep-asking-for-deep-combat-classic-modes-and-an-honest-to-god-server-browser/)
- - [A Steam game made by 4 people did what Facebook&#39;s billions couldn&#39;t](https://www.polygon.com/steam-on-together-coworking-game-meta-vr-popular-releases-charts/)
- - [Scott Pilgrim EX Just Skyrocketed To The Top Of My Winter Game List](https://kotaku.com/scott-pilgrim-ex-release-date-trailer-2000663831)<!-- GAME:END -->
+ - [The call goes out for a &#39;massive international strike&#39; at Ubisoft: &#39;We are treated like children who need to be supervised, while our management gets away with lies and breaking the law&#39;](https://www.pcgamer.com/gaming-industry/the-call-goes-out-for-a-massive-international-strike-at-ubisoft-we-are-treated-like-children-who-need-to-be-supervised-while-our-management-gets-away-with-lies-and-breaking-the-law/)
+ - [Sorry if this jinxes it, but the latest Monster Hunter Wilds performance improvement patch seems like it actually improved performance](https://www.pcgamer.com/games/action/sorry-if-this-jinxes-it-but-the-latest-monster-hunter-wilds-performance-improvement-patch-seems-like-it-actually-improved-performance/)
+ - [Is Dave Filoni bringing Darth Talon back to Star Wars canon?](https://www.polygon.com/star-wars-darth-talon-maul-shadow-lord/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
