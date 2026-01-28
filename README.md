@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Fallout season 2 Easter egg so far](https://www.polygon.com/fallout-season-2-easter-egg-show/)
- - [Highguard devs detail roadmap that corrects for Apex Legends mistakes](https://www.polygon.com/highguard-roadmap-apex-legends-live-service-plan/)
- - [Indie Selects Anniversary Celebration – Our Yearly Selects, a Huge Indie Sale, and Xbox Dynamic Backgrounds](https://news.xbox.com/en-us/2026/01/28/indie-selects-anniversary/)<!-- GAME:END -->
+ - [Kingdom Come: Deliverance Will Get A Much Needed ‘Next-Gen’ Upgrade Eight Years Later](https://kotaku.com/kingdom-come-deliverance-ps5-upgrade-2000663837)
+ - [Highguard interactive maps](https://www.polygon.com/map/highguard-interactive-maps/)
+ - [This Skyrim follower mod puts Bethesda&#39;s characters to shame](https://www.polygon.com/skyrim-follower-mod-feris-lydia-dialogue-options-fan-bethesda/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
