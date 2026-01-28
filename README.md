@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Remember: Cancel Final Cut Pro iPad subscriptions when you set up Apple Creator Studio](https://appleinsider.com/inside/final-cut-pro/tips/remember-cancel-final-cut-pro-ipad-subscriptions-when-you-set-up-apple-creator-studio?utm_source=rss)
- - [Gas is expensive: Save with this Shell Gift Card deal!](https://www.androidauthority.com/50-shell-gift-card-deal-3636075/)
- - [Google updates Gemini in Chrome with a new side panel, an auto browse feature that can navigate pages and take actions for AI Pro and AI Ultra users, and more &lpar;Kyle Kucharski/ZDNET&rpar;](http://www.techmeme.com/260128/p43#a260128p43)<!-- TECH:END -->
+ - [I used Claude to vibe-code my wildly overcomplicated smart home](https://www.theverge.com/report/869318/claude-vibe-coding-home-assistant-smart-home)
+ - [The entry-level Samsung Galaxy Buds FE are on sale for $30 off right now](https://www.theverge.com/gadgets/868870/samsung-galaxy-buds-fe-kindle-paperwhite-deal-sale)
+ - [Nano Banana just hit the wall and landed in E Ink](https://www.androidauthority.com/switchbot-ai-art-frame-launch-3636105/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
