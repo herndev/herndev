@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beyond Meat’s protein soda might be its last chance and best hope](https://www.theverge.com/science/869209/beyond-meat-immerse-protein-soda)
- - [Slice, which uses AI agents to encode tax policies and legal rules across 60+ countries, raised a $25M Series A led by Insight, taking its total funding to $32M &lpar;Mary Ann Azevedo/This Week in Fintech&rpar;](http://www.techmeme.com/260128/p38#a260128p38)
- - [Expect strong iPhone 17 demand, AI talk in Apple&#39;s Q1 results call](https://appleinsider.com/articles/26/01/28/expect-strong-iphone-17-demand-ai-talk-in-apples-q1-results-call?utm_source=rss)<!-- TECH:END -->
+ - [Sony breaking tradition? WF-1000XM6 leak hints at a change for this year’s premium earbuds](https://www.androidauthority.com/sony-wf-1000xm6-third-color-3635979/)
+ - [AirTag 2 has a thinner motherboard, bigger speaker coil, and lots of glue](https://appleinsider.com/articles/26/01/28/airtag-2-has-a-thinner-motherboard-bigger-speaker-coil-and-lots-of-glue?utm_source=rss)
+ - [TikTok’s new privacy policy is raising alarms: Here’s how to delete your account right now](https://www.androidauthority.com/how-to-delete-tiktok-account-3635952/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
