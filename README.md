@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11 is getting close to resuming your Android apps like Apple Handoff](https://www.androidauthority.com/windows-11-cross-device-resume-preview-channel-3636114/)
- - [Meta Reports Fourth Quarter and Full Year 2025 Results &lpar;Meta&rpar;](http://www.techmeme.com/260128/p49#a260128p49)
- - [Crypto PAC Fairshake expanded its war chest to $193M by the end of last year, up from $141M in July; Ripple gave $25M, and a16z gave $24M in H2 2025 &lpar;Emily Wilkins/CNBC&rpar;](http://www.techmeme.com/260128/p48#a260128p48)<!-- TECH:END -->
+ - [Microsoft reports Azure Q2 revenue up 39% YoY, vs. 38.8% est.; Microsoft cloud&#39;s contracted backlog grew 110% to $625B, ~45% of which was driven by OpenAI alone &lpar;Reuters&rpar;](http://www.techmeme.com/260128/p57#a260128p57)
+ - [PaleBlueDot, which operates a GPU capacity marketplace and designs GPU clusters for enterprises, raised a $150M Series B led by B Capital at a $1B+ valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/260128/p56#a260128p56)
+ - [Here’s an early look at Samsung’s premium cases for the Galaxy S26 Ultra](https://www.androidauthority.com/samsung-galaxy-s26-ultra-kindsuit-cases-leak-3636161/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
