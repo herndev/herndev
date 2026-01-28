@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Whistleblower Initiative says OpenAI recently updated its whistleblower policy, addressing 8 of 13 recommendations and going further than Anthropic&#39;s policy &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/260128/p4#a260128p4)
- - [Sources: Elon Musk has proposed timing SpaceX&#39;s IPO with a rare planetary alignment and his June birthday; SpaceX seeks as much as $50B at a ~$1.5T valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260128/p3#a260128p3)
- - [Sources: Nvidia has allocated ~70% of its 2026 HBM4 demand to SK hynix; Counterpoint estimates SK hynix will account for 54% of the global HBM4 market in 2026 &lpar;Kang Yoon-seung/Yonhap News Agency&rpar;](http://www.techmeme.com/260128/p2#a260128p2)<!-- TECH:END -->
+ - [Sources: Google&#39;s &quot;cease and desist&quot; letter forces Kantar and Barb to halt UK TV measurement service comparing YouTube viewership with linear TV and streamers &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/260128/p7#a260128p7)
+ - [Google just gave us an accidental first look at Android’s PC future](https://www.androidauthority.com/google-aluminium-os-first-look-bug-report-3635801/)
+ - [ASML reports Q4 bookings of €13.2B, beating analyst estimates of €6.32B, and projects its 2026 full-year sales of between €34B and €39B, compared with €35B est. &lpar;Reuters&rpar;](http://www.techmeme.com/260128/p6#a260128p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
