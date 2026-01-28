@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with James Wu on leaving his role as DJI&#39;s chief scientist to found FJDynamics to build robots for labor intensive sectors like agriculture and construction &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/260128/p10#a260128p10)
- - [Nothing Phone 4a Pro leak suggests improved IP rating, and that’s good news](https://www.androidauthority.com/nothing-phone-4a-pro-ip-rating-battery-leak-3635817/)
- - [A look at &quot;neolabs&quot; such as Safe Superintelligence and Humans&amp;, which give priority to long-term AI R&amp;D over immediate profits; dozens have become unicorns &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260128/p9#a260128p9)<!-- TECH:END -->
+ - [Android updates explained: Betas, Canary builds, and what you should use](https://www.androidauthority.com/android-release-cycle-explained-3633955/)
+ - [Momentum Works: the GMV of the online food delivery market in Southeast Asia&#39;s six biggest economies grew 18% YoY to $22.7B in 2025, and Grab accounted for 55% &lpar;Dylan Loh/Nikkei Asia&rpar;](http://www.techmeme.com/260128/p15#a260128p15)
+ - [Samsung says it will introduce a display feature for the Galaxy S26 series that improves &quot;privacy at a pixel level&quot; to protect users from &quot;shoulder surfing&quot; &lpar;Abhijeet Mishra/SamMobile&rpar;](http://www.techmeme.com/260128/p14#a260128p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
