@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sleep well](http://9gag.com/gag/aByzEP1)
- - ⏩ [Bravo.](http://9gag.com/gag/a9yw21m)
- - 👉 [FAFO](http://9gag.com/gag/aryEqqp)<!-- MEMES:END -->
+ - 💣 [Bravo.](http://9gag.com/gag/a9yw21m)
+ - ⏩ [FAFO](http://9gag.com/gag/aryEqqp)
+ - 👉 [Martyn got no chill. &lpar;removed the laughing emoji according to 9gag tradition&rpar;](http://9gag.com/gag/ayNrRyX)<!-- MEMES:END -->
 
 ---
 
