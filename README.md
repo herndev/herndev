@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The call goes out for a &#39;massive international strike&#39; at Ubisoft: &#39;We are treated like children who need to be supervised, while our management gets away with lies and breaking the law&#39;](https://www.pcgamer.com/gaming-industry/the-call-goes-out-for-a-massive-international-strike-at-ubisoft-we-are-treated-like-children-who-need-to-be-supervised-while-our-management-gets-away-with-lies-and-breaking-the-law/)
- - [Sorry if this jinxes it, but the latest Monster Hunter Wilds performance improvement patch seems like it actually improved performance](https://www.pcgamer.com/games/action/sorry-if-this-jinxes-it-but-the-latest-monster-hunter-wilds-performance-improvement-patch-seems-like-it-actually-improved-performance/)
- - [Is Dave Filoni bringing Darth Talon back to Star Wars canon?](https://www.polygon.com/star-wars-darth-talon-maul-shadow-lord/)<!-- GAME:END -->
+ - [10 Tips To Know Before You Start Playing Code Vein 2](https://kotaku.com/code-vein-2-tips-beginner-blood-codes-weapons-2000663875)
+ - [Dimension 20: Gladlands&#39; cast on surviving the apocalypse with kindness](https://www.polygon.com/dimension-20-gladlands-interview-apocalypse/)
+ - [Target Employee Shows In Real Time How Tech Prices Are Going Up, Up, Up](https://kotaku.com/target-employee-shows-pc-game-memory-part-price-increases-shortage-ram-ssd-2000663863)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
