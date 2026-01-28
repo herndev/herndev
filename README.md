@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Creator Studio review: Incredible value for most creative pros](https://appleinsider.com/articles/26/01/28/apple-creator-studio-review-incredible-value-for-most-creative-pros?utm_source=rss)
- - [AMD Ryzen 7 9850X3D CPU Review: Gaming’s Best Chip](https://www.wired.com/review/amd-ryzen-7-9850x3d/)
- - [The Best Ski Helmets, Editor Tested and Reviewed &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-ski-helmets/)<!-- TECH:END -->
+ - [Adaptive6, which treats cloud cost inefficiencies as security vulnerabilities to help companies cut bills, raised a $28M Series A, for $44M in total funding &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260128/p37#a260128p37)
+ - [My favorite folding phone is the one that doesn’t exist yet](https://www.theverge.com/tech/869084/folding-phone-google-pixel-10-pro-samsung-galaxy-z-fold-7)
+ - [This fanny pack robot helped me walk miles](https://www.theverge.com/tech/869109/fanny-pack-exoskeleton-wirobotics-wim-s-ces-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
