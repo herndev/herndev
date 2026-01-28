@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nerds](http://9gag.com/gag/apR7bXB)
- - ⏩ [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)
- - 👉 [That will be a great 1.5 years journey!](http://9gag.com/gag/a34g8R8)<!-- MEMES:END -->
+ - 💣 [Eyes are bigger than your stomach](http://9gag.com/gag/aXP3WBb)
+ - ⏩ [That&#39;s how it is in life](http://9gag.com/gag/aE0KWwe)
+ - 👉 [What should it be called.... Wrong Answers only](http://9gag.com/gag/aW4yb74)<!-- MEMES:END -->
 
 ---
 
