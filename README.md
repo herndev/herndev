@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal documents from 2025: Microsoft expects its annual water consumption to reach 28B liters by 2030, up from 7.9B liters in 2020 and 10.4B liters in 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/260127/p56#a260127p56)
- - [The crypto bill is falling apart in Congress](https://www.theverge.com/column/868941/clarity-act-congress-shutdown)
- - [Paolo Ardoino says Tether now holds ~140 tons of gold, worth ~$23B, has been buying one to two tons a week, and plans to keep doing so for the next few months &lpar;Jack Ryan/Bloomberg&rpar;](http://www.techmeme.com/260127/p55#a260127p55)<!-- TECH:END -->
+ - [&#39;Pluribus&#39; leads Apple TV Writers Guild Awards with 4 of 9 nominations](https://appleinsider.com/articles/26/01/28/pluribus-leads-apple-tv-writers-guild-awards-with-4-of-9-nominations?utm_source=rss)
+ - [Memo: Tim Cook told employees that he is &quot;heartbroken by the events in Minneapolis&quot; and calls for a &quot;deescalation&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260127/p58#a260127p58)
+ - [Amazon appears to mistakenly alert some AWS employees about planned layoffs in an email invite to a Wednesday &quot;Project Dawn&quot; meeting about company efficiency &lpar;Business Insider&rpar;](http://www.techmeme.com/260127/p57#a260127p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
