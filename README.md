@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google&#39;s &quot;cease and desist&quot; letter forces Kantar and Barb to halt UK TV measurement service comparing YouTube viewership with linear TV and streamers &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/260128/p7#a260128p7)
- - [Google just gave us an accidental first look at Android’s PC future](https://www.androidauthority.com/google-aluminium-os-first-look-bug-report-3635801/)
- - [ASML reports Q4 bookings of €13.2B, beating analyst estimates of €6.32B, and projects its 2026 full-year sales of between €34B and €39B, compared with €35B est. &lpar;Reuters&rpar;](http://www.techmeme.com/260128/p6#a260128p6)<!-- TECH:END -->
+ - [A look at &quot;neolabs&quot; such as Safe Superintelligence and Humans&amp;, which give priority to long-term AI R&amp;D over immediate profits; dozens have become unicorns &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260128/p9#a260128p9)
+ - [Are you excited or worried about Android 17’s blurry future?](https://www.androidauthority.com/android-17-blur-open-thread-3635820/)
+ - [YouTube TV just borrowed a handy YouTube feature that fixes DVR frustration](https://www.androidauthority.com/youtube-tv-dvr-update-3635811/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
