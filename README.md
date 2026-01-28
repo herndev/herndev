@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Come: Deliverance Will Get A Much Needed ‘Next-Gen’ Upgrade Eight Years Later](https://kotaku.com/kingdom-come-deliverance-ps5-upgrade-2000663837)
- - [Highguard interactive maps](https://www.polygon.com/map/highguard-interactive-maps/)
- - [This Skyrim follower mod puts Bethesda&#39;s characters to shame](https://www.polygon.com/skyrim-follower-mod-feris-lydia-dialogue-options-fan-bethesda/)<!-- GAME:END -->
+ - [Finally, the FPS I keep asking for: Deep combat, classic modes, and an honest-to-god server browser](https://www.pcgamer.com/games/fps/finally-the-fps-i-keep-asking-for-deep-combat-classic-modes-and-an-honest-to-god-server-browser/)
+ - [A Steam game made by 4 people did what Facebook&#39;s billions couldn&#39;t](https://www.polygon.com/steam-on-together-coworking-game-meta-vr-popular-releases-charts/)
+ - [Scott Pilgrim EX Just Skyrocketed To The Top Of My Winter Game List](https://kotaku.com/scott-pilgrim-ex-release-date-trailer-2000663831)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
