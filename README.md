@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grok is the most antisemitic chatbot according to the ADL](https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk)
- - [iPhone 18 Pro could get a teleconverter for greater zoom](https://appleinsider.com/articles/26/01/28/iphone-18-pro-could-get-a-teleconverter-for-greater-zoom?utm_source=rss)
- - [I spent $16 on a small waterproof Ikea speaker and the battery life is honestly ridiculous](https://www.androidauthority.com/ikea-vappeby-waterproof-bluetooth-shower-speaker-3635505/)<!-- TECH:END -->
+ - [The next iPhone could use a telephoto extender to out-zoom Galaxy phones](https://www.androidauthority.com/apple-telephoto-extender-iphone-18-pro-3635871/)
+ - [Sony Bravia 5 Review: An Excellent Mid-Tier TV for Cinephiles](https://www.wired.com/review/sony-bravia-5/)
+ - [Apple&#39;s utter silence about AI-generated child porn on X is appalling yet unsurprising](https://appleinsider.com/articles/26/01/12/apples-utter-silence-about-ai-generated-child-porn-on-x-is-appalling-yet-unsurprising?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
