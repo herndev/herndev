@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So\u2026 about that joke!](http://9gag.com/gag/avyqRxX)
- - ⏩ [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)
- - 👉 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)<!-- MEMES:END -->
+ - 💣 [Guys when we cook](http://9gag.com/gag/ayNr1zq)
+ - ⏩ [That&#39;s the proper reaction of any adult person.](http://9gag.com/gag/aVvr23O)
+ - 👉 [Go outside they said. It will be fun they said.](http://9gag.com/gag/azxyYgK)<!-- MEMES:END -->
 
 ---
 
