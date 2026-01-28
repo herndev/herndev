@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The next iPhone could use a telephoto extender to out-zoom Galaxy phones](https://www.androidauthority.com/apple-telephoto-extender-iphone-18-pro-3635871/)
- - [Sony Bravia 5 Review: An Excellent Mid-Tier TV for Cinephiles](https://www.wired.com/review/sony-bravia-5/)
- - [Apple&#39;s utter silence about AI-generated child porn on X is appalling yet unsurprising](https://appleinsider.com/articles/26/01/12/apples-utter-silence-about-ai-generated-child-porn-on-x-is-appalling-yet-unsurprising?utm_source=rss)<!-- TECH:END -->
+ - [Apple Creator Studio review: Incredible value for most creative pros](https://appleinsider.com/articles/26/01/28/apple-creator-studio-review-incredible-value-for-most-creative-pros?utm_source=rss)
+ - [AMD Ryzen 7 9850X3D CPU Review: Gaming’s Best Chip](https://www.wired.com/review/amd-ryzen-7-9850x3d/)
+ - [The Best Ski Helmets, Editor Tested and Reviewed &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-ski-helmets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
