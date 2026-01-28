@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Maybe I should just buy Factorio? I&#39;d like Arknights: Endfield a lot more if it would stop trying to be Genshin Impact and just let me build](https://www.pcgamer.com/games/action/maybe-i-should-just-buy-factorio-id-like-arknights-endfield-a-lot-more-if-it-would-stop-trying-to-be-genshin-impact-and-just-let-me-build/)
- - [Grounded 2&#39;s first major content update delivers a new biome, bugs, a sweet new mount, and a really big snake](https://www.pcgamer.com/games/survival-crafting/grounded-2s-first-major-content-update-delivers-a-new-biome-bugs-a-sweet-new-mount-and-a-really-big-snake/)
- - [How to get a Dawntrail &lpar;Phantom&rpar; relic weapon in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/601664/dawntrail-relic-weapon-phantom-steps-upgrade-requirements/)<!-- GAME:END -->
+ - [The game that coined the term &#39;visual novel&#39; just got its first-ever fan translation for its 30th anniversary](https://www.pcgamer.com/games/visual-novel/the-game-that-coined-the-term-visual-novel-just-got-its-first-ever-fan-translation-for-its-30th-anniversary/)
+ - [Terraria&#39;s ginormous, 3 years in the making 1.4.5 update is live—a full 15 years after the game was deemed finished](https://www.pcgamer.com/games/survival-crafting/terrarias-ginormous-3-years-in-the-making-1-4-5-update-is-live-a-full-15-years-after-the-game-was-deemed-finished/)
+ - [Trains are taking over the survival genre: there are a half-dozen survival base-builders on rails coming in 2026](https://www.pcgamer.com/games/survival-crafting/trains-are-taking-over-the-survival-genre-there-are-a-half-dozen-survival-base-builders-on-rails-coming-in-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
