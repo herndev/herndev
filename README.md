@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RAMpocalypse be damned, I&#39;ve tested a range of games to see if slow DDR5 will ruin my gaming experience](https://www.pcgamer.com/hardware/memory/rampocalypse-be-damned-ive-tested-a-range-of-games-to-see-if-slow-ddr5-will-ruin-my-gaming-experience/)
- - [Turns out the best way to succeed in this new mech vs kaiju roguelike deckbuilder is just to jump up and down on your enemies&#39; heads like a 200 ton Mario](https://www.pcgamer.com/games/roguelike/turns-out-the-best-way-to-succeed-in-this-new-mech-vs-kaiju-roguelike-deckbuilder-is-just-to-jump-up-and-down-on-your-enemies-heads-like-a-200-ton-mario/)
- - [Helldivers 2&#39;s next Warbond has a hammer that explodes in your face, and it&#39;s about the most Helldivers thing I&#39;ve ever seen—also, the Cyborgs are back for round 2](https://www.pcgamer.com/games/third-person-shooter/helldivers-2s-next-warbond-has-a-hammer-that-explodes-in-your-face-and-its-about-the-most-helldivers-thing-ive-ever-seen-also-the-cyborgs-are-back-for-round-2/)<!-- GAME:END -->
+ - [Every Fallout season 2 Easter egg so far](https://www.polygon.com/fallout-season-2-easter-egg-show/)
+ - [Highguard devs detail roadmap that corrects for Apex Legends mistakes](https://www.polygon.com/highguard-roadmap-apex-legends-live-service-plan/)
+ - [Indie Selects Anniversary Celebration – Our Yearly Selects, a Huge Indie Sale, and Xbox Dynamic Backgrounds](https://news.xbox.com/en-us/2026/01/28/indie-selects-anniversary/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
