@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Don’t Stop GirlyPop Is A Wild-Looking Shooter That Isn’t Much Fun To Play](https://kotaku.com/dont-stop-girlypop-is-a-wild-looking-shooter-that-isnt-much-fun-to-play-2000663619)
- - [Gran Turismo 7 Update 1.67 out today,  Online Qualifiers Jan 31](https://blog.playstation.com/2026/01/28/gran-turismo-7-update-1-67-out-today-online-qualifiers-jan-31/)
- - [Don&#39;t Stop, Girlypop! review: the best Doom clone in years](https://www.polygon.com/dont-stop-girlypop-review/)<!-- GAME:END -->
+ - [Marvel’s Wonder Man has one big problem: It&#39;s a Surf Dracula show](https://www.polygon.com/wonder-man-marvel-show-surf-dracula/)
+ - [Scott Pilgrim Ex, a spiritual sequel to the anime, gets a long-awaited release date](https://www.polygon.com/scott-pilgrim-ex-release-date-trailer/)
+ - [Memory chip specialist SK Hynix reports record-breaking profits but doesn&#39;t have a word to say about almost anything apart from AI](https://www.pcgamer.com/hardware/memory/memory-chip-specialist-sk-hynix-reports-record-breaking-profits-but-doesnt-have-a-word-to-say-about-almost-anything-apart-from-ai/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
