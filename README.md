@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys when we cook](http://9gag.com/gag/ayNr1zq)
- - ⏩ [That&#39;s the proper reaction of any adult person.](http://9gag.com/gag/aVvr23O)
- - 👉 [Go outside they said. It will be fun they said.](http://9gag.com/gag/azxyYgK)<!-- MEMES:END -->
+ - 💣 [Just a casual day of rock climbing until a bear decides to join the party](http://9gag.com/gag/aAyAXKE)
+ - ⏩ [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)
+ - 👉 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)<!-- MEMES:END -->
 
 ---
 
