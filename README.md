@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete The League in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-the-league-kiosk-location/)
- - [Google says a WinRAR exploit for Windows is in &#39;widespread&#39; use by government-backed threat actors &#39;linked to Russia and China&#39;](https://www.pcgamer.com/software/security/google-says-a-winrar-exploit-for-windows-is-in-widespread-use-by-government-backed-threat-actors-linked-to-russia-and-china/)
- - [Razer launches Synapse Web for browser-based peripheral management, but it&#39;s very limited and buggy right now in beta](https://www.pcgamer.com/hardware/gaming-keyboards/razer-launches-synapse-web-for-browser-based-peripheral-management-but-its-very-limited-and-buggy-right-now-in-beta/)<!-- GAME:END -->
+ - [While Samsung and Crucial SSDs Hold Steady, Kingston’s Portable Drive Hits a New Low](https://kotaku.com/while-samsung-and-crucial-ssds-hold-steady-kingstons-portable-drive-hits-a-new-low-2000663605)
+ - [Send Help proves Sam Raimi should never make another superhero film](https://www.polygon.com/sam-raimi-superhero-movies-send-help/)
+ - [Bethesda&#39;s former Elder Scrolls loremaster won&#39;t tell us where The Elder Scrolls 6 is set, but the team originally agreed on it way back in the Fallout 4 days](https://www.pcgamer.com/games/the-elder-scrolls/bethesdas-former-elder-scrolls-loremaster-wont-tell-us-where-the-elder-scrolls-6-is-set-but-the-team-originally-agreed-on-it-way-back-in-the-fallout-4-days/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
