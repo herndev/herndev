@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nerds](http://9gag.com/gag/apR7bXB)
- - ⏩ [Guys when we cook](http://9gag.com/gag/ayNr1zq)
- - 👉 [Jean-Claude Van Damme with the love of his life](http://9gag.com/gag/aXP34A2)<!-- MEMES:END -->
+ - 💣 [Guys when we cook](http://9gag.com/gag/ayNr1zq)
+ - ⏩ [Will death coasters be enough to beat the wrath of Ra?](http://9gag.com/gag/an7ZvEB)
+ - 👉 [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)<!-- MEMES:END -->
 
 ---
 
