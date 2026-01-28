@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One of the strangest point &#39;n&#39; click adventures of the &#39;90s is getting a modern &#39;restoration&#39; for Steam, making it easily playable for the first time this century](https://www.pcgamer.com/games/adventure/one-of-the-strangest-point-n-click-adventures-of-the-90s-is-getting-a-modern-restoration-for-steam-making-it-easily-playable-for-the-first-time-this-century/)
- - [Baldur&#39;s Gate 3 mod restores more than 100 conversations and 1,000 lines of voiced dialogue from the early access version previously lost in the ethereal plane](https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-mod-restores-more-than-100-conversations-and-1-000-lines-of-voiced-dialogue-from-the-early-access-version-previously-lost-in-the-ethereal-plane/)
- - [What&#39;s the next step in these adventure game puzzles?](https://www.pcgamer.com/games/adventure/whats-the-next-step-in-these-adventure-game-puzzles/)<!-- GAME:END -->
+ - [How to complete The League in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-the-league-kiosk-location/)
+ - [Google says a WinRAR exploit for Windows is in &#39;widespread&#39; use by government-backed threat actors &#39;linked to Russia and China&#39;](https://www.pcgamer.com/software/security/google-says-a-winrar-exploit-for-windows-is-in-widespread-use-by-government-backed-threat-actors-linked-to-russia-and-china/)
+ - [Razer launches Synapse Web for browser-based peripheral management, but it&#39;s very limited and buggy right now in beta](https://www.pcgamer.com/hardware/gaming-keyboards/razer-launches-synapse-web-for-browser-based-peripheral-management-but-its-very-limited-and-buggy-right-now-in-beta/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
