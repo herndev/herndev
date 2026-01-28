@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The game that coined the term &#39;visual novel&#39; just got its first-ever fan translation for its 30th anniversary](https://www.pcgamer.com/games/visual-novel/the-game-that-coined-the-term-visual-novel-just-got-its-first-ever-fan-translation-for-its-30th-anniversary/)
- - [Terraria&#39;s ginormous, 3 years in the making 1.4.5 update is live—a full 15 years after the game was deemed finished](https://www.pcgamer.com/games/survival-crafting/terrarias-ginormous-3-years-in-the-making-1-4-5-update-is-live-a-full-15-years-after-the-game-was-deemed-finished/)
- - [Trains are taking over the survival genre: there are a half-dozen survival base-builders on rails coming in 2026](https://www.pcgamer.com/games/survival-crafting/trains-are-taking-over-the-survival-genre-there-are-a-half-dozen-survival-base-builders-on-rails-coming-in-2026/)<!-- GAME:END -->
+ - [What&#39;s the next step in these adventure game puzzles?](https://www.pcgamer.com/games/adventure/whats-the-next-step-in-these-adventure-game-puzzles/)
+ - [Fallout Season 2 Episode 7 recap: &#39;Don&#39;t think of them as human beings, think of them as Americans&#39;](https://www.pcgamer.com/movies-tv/fallout-season-2-episode-7-recap-dont-think-of-them-as-human-beings-think-of-them-as-americans/)
+ - [Wonder Man: Exploring the MCU hero&#39;s comic book origins and powers](https://www.polygon.com/wonder-man-marvel-superhero-comic-book-origins-explained/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
