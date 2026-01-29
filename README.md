@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s the proper reaction of any adult person.](http://9gag.com/gag/aVvr23O)
- - ⏩ [Tesla coil fly trap](http://9gag.com/gag/a2vgL5p)
- - 👉 [He deserves it.](http://9gag.com/gag/aAyAXEE)<!-- MEMES:END -->
+ - 💣 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
+ - ⏩ [Carbonara](http://9gag.com/gag/aByzXYO)
+ - 👉 [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)<!-- MEMES:END -->
 
 ---
 
