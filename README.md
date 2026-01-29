@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung and SK Hynix executives say they expect global memory supply shortages will persist until 2027 due to AI demand, after the companies reported earnings &lpar;Kim Jaewon/Nikkei Asia&rpar;](http://www.techmeme.com/260129/p18#a260129p18)
- - [This thin and light gaming phone picks up where ASUS left off](https://www.androidauthority.com/redmagic-11-air-launch-3635889/)
- - [Best Open Earbuds &lpar;2026&rpar;: Bose, Soundcore, and More](https://www.wired.com/gallery/best-open-ear-buds/)<!-- TECH:END -->
+ - [Crypto exchange Bybit plans to offer banking services via &quot;MyBank&quot; accounts that can hold USD and other currencies, set to launch in February pending approvals &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/260129/p23#a260129p23)
+ - [You may not have the Creator Studio iWork apps installed on your Mac yet](https://appleinsider.com/inside/iwork/tips/you-may-not-have-the-creator-studio-iwork-apps-installed-on-your-mac-yet?utm_source=rss)
+ - [Sources: ByteDance and Alibaba both plan to release flagship AI models around China&#39;s mid-February Lunar New Year holiday, including ByteDance&#39;s Doubao 2.0 &lpar;The Information&rpar;](http://www.techmeme.com/260129/p22#a260129p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
