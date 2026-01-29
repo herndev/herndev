@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reports Q4 revenue up 24% YoY to ~$65.6B, vs. ~$65.28B est., and operating profit up 200%+ to ~$14.06B, driven by memory chip price surge and HBM demand &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260128/p67#a260128p67)
- - [Google Agrees to Pay $135M in Huge Android Data-Harvesting Settlement](https://www.cnet.com/tech/mobile/google-agrees-to-pay-135m-in-huge-android-data-harvesting-settlement/)
- - [Google says it took legal action to take down dozens of domains and disrupt the residential proxy network of Chinese company Ipidea, widely used by bad actors &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/260128/p66#a260128p66)<!-- TECH:END -->
+ - [Google agrees to pay $135M to settle a proposed class action lawsuit alleging that the tech giant programmed Android to illegally collect users&#39; cellular data &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260128/p70#a260128p70)
+ - [The UK&#39;s Advertising Standards Authority bans some Coinbase ads, finding them &quot;irresponsible&quot; for suggesting crypto as a solution to the cost of living crisis &lpar;Tom Knowles/The Guardian&rpar;](http://www.techmeme.com/260128/p69#a260128p69)
+ - [LinkedIn&#39;s Q2 revenue rose 11% YoY, topping $5B for the first time, giving LinkedIn an annual run rate of $20B+; Satya Nadella said paid video ads grew 30% YoY &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260128/p68#a260128p68)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
