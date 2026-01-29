@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S26 series case leaks suggest magnet lovers will be spoiled for choice](https://www.androidauthority.com/samsung-galaxy-s26-series-cases-leak-magnets-3636220/)
- - [Security researchers warn Moltbot, previously Clawdbot, requires a specialist skillset to use safely, as data exposure risks persist even when set up correctly &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/260129/p6#a260129p6)
- - [A federal judge in Virginia ruled that Norfolk&#39;s use of ~200 Flock automated license plate scanners is constitutional and doesn&#39;t violate the Fourth Amendment &lpar;Cyrus Farivar/Ars Technica&rpar;](http://www.techmeme.com/260129/p5#a260129p5)<!-- TECH:END -->
+ - [The US construction industry is adopting AI tools to improve project management and support site managers and foremen; IDC says 60% of firms use some form of AI &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/260129/p8#a260129p8)
+ - [A look at Amazon&#39;s and Walmart&#39;s differing approaches to agentic AI shopping; Similarweb: Walmart doubled its share of AI referrals in the US to 32.5% in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260129/p7#a260129p7)
+ - [Google takes down massive shady network that was secretly running on millions of Android phones](https://www.androidauthority.com/google-ipidea-takedown-3636232/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
