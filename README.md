@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is in talks to raise up to $30B from Nvidia, less than $10B from Microsoft, and $10B-$20B from Amazon as part of a $100B funding round &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260128/p71#a260128p71)
- - [How to view translated lyrics in Apple Music](https://appleinsider.com/inside/ios-26/tips/how-to-view-translated-lyrics-in-apple-music?utm_source=rss)
- - [Samsung confirms AR glasses with multimodal AI capabilities are coming this year](https://www.androidauthority.com/samsung-ar-glasses-launch-timeline-3636208/)<!-- TECH:END -->
+ - [Job listings show that DeepSeek hopes to broaden its AI offerings with a search engine capable of supporting multiple languages and more emphasis on agents &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260128/p73#a260128p73)
+ - [Samsung reveals its 2026 smartphone roadmap, starting with the Galaxy S26 series](https://www.androidauthority.com/samsung-2026-smartphone-roadmap-3636205/)
+ - [US-based AI startup Arcee releases Trinity Large, a 400B-parameter open-weight model that it says compares to Meta&#39;s Llama 4 Maverick 400B on some benchmarks &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260128/p72#a260128p72)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
