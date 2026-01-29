@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo says a robotaxi struck a child at 6MPH near an elementary school in Santa Monica on January 23, resulting in minor injuries; the NHTSA opens a probe &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260129/p27#a260129p27)
- - [Galaxy Watch 4 wrecked by One UI 8 update? Samsung just rolled out a fix for that](https://www.androidauthority.com/galaxy-watch-4-one-ui-8-update-fix-3636272/)
- - [Waymo says it hopes to launch its London robotaxi service as soon as September, after an April pilot; the UK government plans to change regulations in H2 2026 &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/260129/p26#a260129p26)<!-- TECH:END -->
+ - [GameNative now supports Epic Games on Android — here’s how it works](https://www.androidauthority.com/gamenative-epic-games-store-3636353/)
+ - [Netflix is eating Hollywood — because it has to](https://www.theverge.com/podcast/869464/netflix-warner-bros-discovery-deal-paramount-skydance-hollywood-streaming-future)
+ - [Sen. Warren pushes Altman for guarantee OpenAI isn’t seeking government bailout](https://www.theverge.com/news/869983/elizabeth-warren-openai-sam-altman-bailout-letter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
