@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel users rejoice: January 2026 update is finally reaching your phones](https://www.androidauthority.com/pixel-january-2026-update-rolling-out-3636263/)
- - [Google Photos might finally fix its most annoying search problem](https://www.androidauthority.com/google-photos-ask-photos-search-toggle-apk-teardown-3636245/)
- - [The US construction industry is adopting AI tools to improve project management and support site managers and foremen; IDC says 60% of firms use some form of AI &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/260129/p8#a260129p8)<!-- TECH:END -->
+ - [Jones Lang LaSalle projects Malaysia&#39;s operational data center capacity to increase from ~1,025 MW at the end of 2025 to ~2,100 MW by the end of 2026 &lpar;Norman Goh/Nikkei Asia&rpar;](http://www.techmeme.com/260129/p9#a260129p9)
+ - [I destroyed my phone in my sleep — what’s your most embarrassing tech fail?](https://www.androidauthority.com/destroyed-my-phone-embarrassing-tech-fail-open-thread-3633418/)
+ - [Your next smartphone will be faster in 2026, but it’ll likely cost you a lot more](https://www.androidauthority.com/smartphone-soc-shipments-declining-in-2026-3636273/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
