@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo 3DS emulation on Android just got a lot less confusing thanks to a simple update](https://www.androidauthority.com/azahar-3ds-emulator-file-3636485/)
- - [Apple acquires Q.ai, whose tech can analyze facial expressions and could enable non-verbal discussions with AI assistants; sources: the deal values Q.ai at ~$2B &lpar;Financial Times&rpar;](http://www.techmeme.com/260129/p35#a260129p35)
- - [Spotify&amp;#8217;s new group chats share music with everyone in your circle](https://www.theverge.com/news/870288/spotify-group-chats-direct-messaging-expansion)<!-- TECH:END -->
+ - [A Yann LeCun–Linked Startup Charts a New Path to AGI](https://www.wired.com/story/logical-intelligence-yann-lecun-startup-chart-new-course-agi/)
+ - [Planning to trade in your old foldable for the Galaxy Z TriFold? Don’t count on it](https://www.androidauthority.com/samsung-galaxy-z-trifold-no-trade-in-3636514/)
+ - [Source: SpaceX and xAI are in talks to merge ahead of a planned IPO this year; under the proposed deal, shares of xAI would be exchanged for shares in SpaceX &lpar;Reuters&rpar;](http://www.techmeme.com/260129/p39#a260129p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
