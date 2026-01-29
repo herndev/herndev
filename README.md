@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Tips To Know Before You Start Playing Code Vein 2](https://kotaku.com/code-vein-2-tips-beginner-blood-codes-weapons-2000663875)
- - [Dimension 20: Gladlands&#39; cast on surviving the apocalypse with kindness](https://www.polygon.com/dimension-20-gladlands-interview-apocalypse/)
- - [Target Employee Shows In Real Time How Tech Prices Are Going Up, Up, Up](https://kotaku.com/target-employee-shows-pc-game-memory-part-price-increases-shortage-ram-ssd-2000663863)<!-- GAME:END -->
+ - [There&#39;s a turn-based tactics game about the eternal war between tea and coffee, and you can get it for free: &#39;We&#39;ve made enough money from the game&#39;](https://www.pcgamer.com/games/strategy/theres-a-turn-based-tactics-game-about-the-eternal-war-between-tea-and-coffee-and-you-can-get-it-for-free-weve-made-enough-money-from-the-game/)
+ - [Atom Zombie Smasher, a 15-year-old game, just got updated out of the blue on Steam](https://www.pcgamer.com/games/strategy/atom-zombie-smasher-a-15-year-old-game-just-got-updated-out-of-the-blue-on-steam/)
+ - [BabyTuber Thumbnails Are The Best](https://kotaku.com/baby-youtuber-gaming-thumbnails-2000663918)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
