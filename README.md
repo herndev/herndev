@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I newt it](http://9gag.com/gag/a1mgErG)
- - ⏩ [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
- - 👉 [Carbonara](http://9gag.com/gag/aByzXYO)<!-- MEMES:END -->
+ - 💣 [Modern problems require modern solutions](http://9gag.com/gag/aZZXz5X)
+ - ⏩ [Carbonara](http://9gag.com/gag/aByzXYO)
+ - 👉 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)<!-- MEMES:END -->
 
 ---
 
