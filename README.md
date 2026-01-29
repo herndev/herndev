@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s the proper reaction of any adult person.](http://9gag.com/gag/aVvr23O)
- - ⏩ [Tesla coil fly trap](http://9gag.com/gag/a2vgL5p)
- - 👉 [He deserves it.](http://9gag.com/gag/aAyAXEE)<!-- MEMES:END -->
+ - 💣 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
+ - ⏩ [Carbonara](http://9gag.com/gag/aByzXYO)
+ - 👉 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)<!-- MEMES:END -->
 
 ---
 
