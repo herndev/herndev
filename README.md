@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [An Arc Raiders player recycled 109 Venators after it was accidentally nerfed for a day, prompting the question: &#39;Who tf has room for 109 vennys?&#39;](https://www.pcgamer.com/games/third-person-shooter/an-arc-raiders-player-recycled-109-venators-after-it-was-accidentally-nerfed-for-a-day-prompting-the-question-who-tf-has-room-for-109-vennys/)
  - [&#39;We can fix the internet&#39; says Tim Berners-Lee—just don&#39;t ask what he thinks about AI](https://www.pcgamer.com/software/ai/we-can-fix-the-internet-says-tim-berners-lee-just-dont-ask-what-he-thinks-about-ai/)
- - [Here&#39;s when Code Vein 2 launches in your timezone](https://www.pcgamer.com/games/rpg/code-vein-2-launch-time-release-date/)
- - [Nioh 3 just got a Steam demo, and given Team Ninja&#39;s history I&#39;m surprised how well it runs on my aging rig](https://www.pcgamer.com/games/action/nioh-3-just-got-a-steam-demo-and-given-team-ninjas-history-im-surprised-how-well-it-runs-on-my-aging-rig/)<!-- GAME:END -->
+ - [Here&#39;s when Code Vein 2 launches in your timezone](https://www.pcgamer.com/games/rpg/code-vein-2-launch-time-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
