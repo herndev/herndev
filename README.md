@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a casual day of rock climbing until a bear decides to join the party](http://9gag.com/gag/aAyAXKE)
- - ⏩ [Can someone please help bro?!](http://9gag.com/gag/a5QgjXy)
- - 👉 [I newt it](http://9gag.com/gag/a1mgErG)<!-- MEMES:END -->
+ - 💣 [That&#39;s the proper reaction of any adult person.](http://9gag.com/gag/aVvr23O)
+ - ⏩ [Tesla coil fly trap](http://9gag.com/gag/a2vgL5p)
+ - 👉 [He deserves it.](http://9gag.com/gag/aAyAXEE)<!-- MEMES:END -->
 
 ---
 
