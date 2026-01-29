@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)
- - ⏩ [Carbonara](http://9gag.com/gag/aByzXYO)
- - 👉 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)<!-- MEMES:END -->
+ - ⏩ [Can someone please help bro?!](http://9gag.com/gag/a5QgjXy)
+ - 👉 [Introvert comfort zone.](http://9gag.com/gag/aYQ6A3O)<!-- MEMES:END -->
 
 ---
 
