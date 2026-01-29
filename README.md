@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [These Final Fantasy Games Are Really Cheap And DRM-Free](https://kotaku.com/final-fantasy-gog-drm-sale-cheap-2000664153)
- - [Resident Evil Requiem interview: Chainsaws, reinvented zombies, fear balancing, and more](https://blog.playstation.com/2026/01/29/resident-evil-requiem-interview-chainsaws-reinvented-zombies-fear-balancing-and-more/)
- - [Varanasi sets a release date for SS Rajamouli&#39;s mysterious new movie](https://www.polygon.com/varanasi-release-date-2027-ss-rajamouli/)<!-- GAME:END -->
+ - [Everything in The Sims 4 Royalty &amp; Legacy: Dynasty gameplay trailer](https://www.polygon.com/the-sims-4-royalty-and-legacy-expansion-pack-dynasty-trailer/)
+ - [The Oscar nominee Arco holds out hope for the post-post-apocalypse](https://www.polygon.com/arco-review-oscar-nominated-best-animated-feature/)
+ - [Sea of Thieves Becomes a Webtoon Comic Series – and Webtoon Benefits Come to Xbox Game Pass](https://news.xbox.com/en-us/2026/01/29/sea-of-thieves-becomes-a-webtoon-comic-series/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
