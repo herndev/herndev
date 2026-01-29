@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla discontinuing Model S and Model X to make room for robots](https://www.theverge.com/transportation/869872/tesla-model-s-model-x-discontinue-optimus-robot-factory)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [ServiceNow reports Q4 revenue up 20.5% YoY to $3.57B, vs. $3.53B est., and subscription revenue up 21% YoY to $3.47B; NOW drops ~3% after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260128/p59#a260128p59)<!-- TECH:END -->
+ - [Halide co-founder Sebastiaan de With is joining Apple&amp;#8217;s design team](https://www.theverge.com/tech/869926/apple-hires-sebastiaan-de-with-design-team-halide-lux)
+ - [Sources: OpenAI is considering using biometric verification like World&#39;s eyeball scanning Orb for its planned social network to ensure its users are real people &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/260128/p61#a260128p61)
+ - [Brandon Sanderson&#39;s Cosmere universe coming to Apple TV](https://appleinsider.com/articles/26/01/28/brandon-sandersons-cosmere-universe-coming-to-apple-tv?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
