@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
- - ⏩ [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)
- - 👉 [Bro didn&#39;t sign up for this. `What do you mean what do you mean??!!`](http://9gag.com/gag/amoQpZd)<!-- MEMES:END -->
+ - 💣 [Imagine having the best Franchise and still gets bankrupt....](http://9gag.com/gag/a7ogN2w)
+ - ⏩ [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
+ - 👉 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)<!-- MEMES:END -->
 
 ---
 
