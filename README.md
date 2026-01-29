@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Job listings show that DeepSeek hopes to broaden its AI offerings with a search engine capable of supporting multiple languages and more emphasis on agents &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260128/p73#a260128p73)
- - [Samsung reveals its 2026 smartphone roadmap, starting with the Galaxy S26 series](https://www.androidauthority.com/samsung-2026-smartphone-roadmap-3636205/)
- - [US-based AI startup Arcee releases Trinity Large, a 400B-parameter open-weight model that it says compares to Meta&#39;s Llama 4 Maverick 400B on some benchmarks &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260128/p72#a260128p72)<!-- TECH:END -->
+ - [New York-based Sword Health, which develops AI-powered tech for managing pain and offers remote physical therapy, agrees to acquire rival Kaia Health for $285M &lpar;Henrique Almeida/Bloomberg&rpar;](http://www.techmeme.com/260129/p2#a260129p2)
+ - [15% Off Dyson Promo Code | February 2026](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+ - [30% Off Samsung Promo Code | February 2026](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
