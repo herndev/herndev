@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Halide co-founder Sebastiaan de With is joining Apple&amp;#8217;s design team](https://www.theverge.com/tech/869926/apple-hires-sebastiaan-de-with-design-team-halide-lux)
- - [Sources: OpenAI is considering using biometric verification like World&#39;s eyeball scanning Orb for its planned social network to ensure its users are real people &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/260128/p61#a260128p61)
- - [Brandon Sanderson&#39;s Cosmere universe coming to Apple TV](https://appleinsider.com/articles/26/01/28/brandon-sandersons-cosmere-universe-coming-to-apple-tv?utm_source=rss)<!-- TECH:END -->
+ - [In Meta&#39;s Q4 earnings call, Mark Zuckerberg says it plans to start shipping new models and products throughout 2026 and hints at &quot;agentic shopping tools&quot; &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260128/p64#a260128p64)
+ - [Satya Nadella says Windows 11 reached 1B users during Q2, growing over 45% YoY and at a faster rate than Windows 10 did &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260128/p63#a260128p63)
+ - [Sebastiaan de With, co-founder of the iPhone camera app Halide who previously freelanced for Apple, says he has joined Apple&#39;s Human Interface Design team &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/260128/p62#a260128p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
