@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jones Lang LaSalle projects Malaysia&#39;s operational data center capacity to increase from ~1,025 MW at the end of 2025 to ~2,100 MW by the end of 2026 &lpar;Norman Goh/Nikkei Asia&rpar;](http://www.techmeme.com/260129/p9#a260129p9)
- - [I destroyed my phone in my sleep — what’s your most embarrassing tech fail?](https://www.androidauthority.com/destroyed-my-phone-embarrassing-tech-fail-open-thread-3633418/)
- - [Your next smartphone will be faster in 2026, but it’ll likely cost you a lot more](https://www.androidauthority.com/smartphone-soc-shipments-declining-in-2026-3636273/)<!-- TECH:END -->
+ - [Google Lens is prepping some improvements to how you select photos for analysis](https://www.androidauthority.com/lens-select-photos-3636155/)
+ - [Survey shows you’re tired of Samsung’s lazy approach to Galaxy S phones](https://www.androidauthority.com/samsung-galaxy-s-upgrades-poll-results-3636244/)
+ - [Tesla plans to scrap its premium S and X models and convert its California factory into an Optimus manufacturing hub, as Elon Musk refocuses on robotics and AI &lpar;Financial Times&rpar;](http://www.techmeme.com/260129/p14#a260129p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
