@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So\u2026 about that joke!](http://9gag.com/gag/avyqRxX)
- - ⏩ [Just a casual day of rock climbing until a bear decides to join the party](http://9gag.com/gag/aAyAXKE)
+ - 💣 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)
+ - ⏩ [So\u2026 about that joke!](http://9gag.com/gag/avyqRxX)
  - 👉 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)<!-- MEMES:END -->
 
 ---
