@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Yann LeCun–Linked Startup Charts a New Path to AGI](https://www.wired.com/story/logical-intelligence-yann-lecun-startup-chart-new-course-agi/)
- - [Planning to trade in your old foldable for the Galaxy Z TriFold? Don’t count on it](https://www.androidauthority.com/samsung-galaxy-z-trifold-no-trade-in-3636514/)
- - [Source: SpaceX and xAI are in talks to merge ahead of a planned IPO this year; under the proposed deal, shares of xAI would be exchanged for shares in SpaceX &lpar;Reuters&rpar;](http://www.techmeme.com/260129/p39#a260129p39)<!-- TECH:END -->
+ - [Elon Musk’s SpaceX and xAI might merge into one company](https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger)
+ - [Need more AC outlets? Save 38% on this Anker power strip!](https://www.androidauthority.com/anker-wall-charger-300j-outlet-extender-deal-3636520/)
+ - [Apple’s second biggest acquisition ever is an AI company that listens to ‘silent speech’](https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
