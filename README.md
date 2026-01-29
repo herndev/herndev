@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Save Kittens And Blast Away Demons In This New $15 FPS](https://kotaku.com/meowgun-review-boomer-shooter-retro-fps-cats-quake-2000664236)
- - [Jujutsu Kaisen season 3 episode 5 explained: Cursed corpses, Hakari, and more](https://www.polygon.com/jujutsu-kaisen-season-3-episode-5-future-epic-showdown-yuji-hakari/)
- - [Rainbow Six Siege&#39;s next operator is, and I swear this is real, Solid Snake](https://www.pcgamer.com/games/fps/rainbow-six-sieges-next-operator-is-and-i-swear-this-is-real-solid-snake/)<!-- GAME:END -->
+ - [Borderlands 4 Reminds Fans It’s Alive In 2026](https://kotaku.com/borderlands-4-2026-road-map-updates-cross-save-new-loot-dlc-level-cap-increase-2000664254)
+ - [No Rest For The Wicked Will Cost As Much As Baldur’s Gate 3 When It Leaves Early Access: ‘I’m Not Trying To Do Any FOMO Marketing Here’](https://kotaku.com/no-rest-wicked-co-op-free-steam-sale-early-access-ps5-2000664252)
+ - [One third of US games industry workers were laid off in the last 2 years, GDC survey says](https://www.pcgamer.com/gaming-industry/one-third-of-us-games-industry-workers-were-laid-off-in-the-last-2-years-gdc-survey-says/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
