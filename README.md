@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple just had a record-breaking iPhone quarter](https://www.theverge.com/news/870319/apple-iphone-best-revenue-ai-q1-2026)
- - [Apple reports Q1 revenue from Services, which includes the App Store, Apple Pay, Apple TV, Apple Music, and iCloud, up 14% YoY to $30B, in line with estimates &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260129/p48#a260129p48)
- - [Apple is resurgent in China with unexpected iPhone 17 sales domination](https://appleinsider.com/articles/26/01/29/apple-is-resurgent-in-china-with-unexpected-iphone-17-sales-domination?utm_source=rss)<!-- TECH:END -->
+ - [Sources: SpaceX is considering a potential merger with Tesla, an idea some investors are pushing, while separately exploring a tie-up between SpaceX and xAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/260129/p50#a260129p50)
+ - [Apple is resurgent in China with unexpected iPhone 17 sales domination](https://appleinsider.com/articles/26/01/29/apple-is-resurgent-in-china-with-unexpected-iphone-17-sales-domination?utm_source=rss)
+ - [Memory cost explosion won&#39;t hurt Apple too badly in Q2, may sting in Q3](https://appleinsider.com/articles/26/01/29/memory-cost-explosion-wont-hurt-apple-too-badly-in-q2-may-sting-in-q3?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
