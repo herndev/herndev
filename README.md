@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
- - ⏩ [I newt it](http://9gag.com/gag/a1mgErG)
- - 👉 [If youve ever wondered what Morgan Freeman sounded when he is young, here he is in 1971](http://9gag.com/gag/amoQRm6)<!-- MEMES:END -->
+ - 💣 [Imagine having the best Franchise and still gets bankrupt....](http://9gag.com/gag/a7ogN2w)
+ - ⏩ [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
+ - 👉 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)<!-- MEMES:END -->
 
 ---
 
