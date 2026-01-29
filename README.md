@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Lens is prepping some improvements to how you select photos for analysis](https://www.androidauthority.com/lens-select-photos-3636155/)
- - [Survey shows you’re tired of Samsung’s lazy approach to Galaxy S phones](https://www.androidauthority.com/samsung-galaxy-s-upgrades-poll-results-3636244/)
- - [Tesla plans to scrap its premium S and X models and convert its California factory into an Optimus manufacturing hub, as Elon Musk refocuses on robotics and AI &lpar;Financial Times&rpar;](http://www.techmeme.com/260129/p14#a260129p14)<!-- TECH:END -->
+ - [Samsung and SK Hynix executives say they expect global memory supply shortages will persist until 2027 due to AI demand, after the companies reported earnings &lpar;Kim Jaewon/Nikkei Asia&rpar;](http://www.techmeme.com/260129/p18#a260129p18)
+ - [This thin and light gaming phone picks up where ASUS left off](https://www.androidauthority.com/redmagic-11-air-launch-3635889/)
+ - [Best Open Earbuds &lpar;2026&rpar;: Bose, Soundcore, and More](https://www.wired.com/gallery/best-open-ear-buds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
