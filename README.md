@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US construction industry is adopting AI tools to improve project management and support site managers and foremen; IDC says 60% of firms use some form of AI &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/260129/p8#a260129p8)
- - [A look at Amazon&#39;s and Walmart&#39;s differing approaches to agentic AI shopping; Similarweb: Walmart doubled its share of AI referrals in the US to 32.5% in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260129/p7#a260129p7)
- - [Google takes down massive shady network that was secretly running on millions of Android phones](https://www.androidauthority.com/google-ipidea-takedown-3636232/)<!-- TECH:END -->
+ - [Pixel users rejoice: January 2026 update is finally reaching your phones](https://www.androidauthority.com/pixel-january-2026-update-rolling-out-3636263/)
+ - [Google Photos might finally fix its most annoying search problem](https://www.androidauthority.com/google-photos-ask-photos-search-toggle-apk-teardown-3636245/)
+ - [The US construction industry is adopting AI tools to improve project management and support site managers and foremen; IDC says 60% of firms use some form of AI &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/260129/p8#a260129p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
