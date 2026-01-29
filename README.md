@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can find Code Vein 2&#39;s best early-game weapons almost immediately, letting you breeze through MagMell Island](https://www.pcgamer.com/games/rpg/code-vein-2-best-early-weapons/)
- - [Black Ops 7 Season 2 is massive, and it&#39;s bringing back Titanfall&#39;s most infamous weapon](https://www.polygon.com/black-ops-7-season-2-reveal/)
- - [Roxxon causes trouble in Wonder Man and throughout MCU history](https://www.polygon.com/roxxon-wonder-man-mcu-explainer/)<!-- GAME:END -->
+ - [Amazon Prime&#39;s next comic book adaptation is Sex Criminals starring Kumail Nanjiani](https://www.polygon.com/amazon-prime-video-sex-criminals-adaptation-matt-fraction/)
+ - [I Hate This Place: How a Comic Shaped an Entire Visual Style](https://news.xbox.com/en-us/2026/01/29/i-hate-this-place-how-a-comic-shaped-an-entire-visual-style/)
+ - [Highguard 1.0.4 patch notes add FOV slider, toggle options, and improved video settings](https://www.polygon.com/highguard-patch-notes-104-update/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
