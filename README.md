@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s the proper reaction of any adult person.](http://9gag.com/gag/aVvr23O)
- - ⏩ [Go outside they said. It will be fun they said.](http://9gag.com/gag/azxyYgK)
- - 👉 [He deserves it.](http://9gag.com/gag/aAyAXEE)<!-- MEMES:END -->
+ - 💣 [So\u2026 about that joke!](http://9gag.com/gag/avyqRxX)
+ - ⏩ [Just a casual day of rock climbing until a bear decides to join the party](http://9gag.com/gag/aAyAXKE)
+ - 👉 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)<!-- MEMES:END -->
 
 ---
 
