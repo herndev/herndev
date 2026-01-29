@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based Sword Health, which develops AI-powered tech for managing pain and offers remote physical therapy, agrees to acquire rival Kaia Health for $285M &lpar;Henrique Almeida/Bloomberg&rpar;](http://www.techmeme.com/260129/p2#a260129p2)
- - [15% Off Dyson Promo Code | February 2026](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [30% Off Samsung Promo Code | February 2026](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
+ - [Galaxy S26 series case leaks suggest magnet lovers will be spoiled for choice](https://www.androidauthority.com/samsung-galaxy-s26-series-cases-leak-magnets-3636220/)
+ - [Security researchers warn Moltbot, previously Clawdbot, requires a specialist skillset to use safely, as data exposure risks persist even when set up correctly &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/260129/p6#a260129p6)
+ - [A federal judge in Virginia ruled that Norfolk&#39;s use of ~200 Flock automated license plate scanners is constitutional and doesn&#39;t violate the Fourth Amendment &lpar;Cyrus Farivar/Ars Technica&rpar;](http://www.techmeme.com/260129/p5#a260129p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
