@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine having the best Franchise and still gets bankrupt....](http://9gag.com/gag/a7ogN2w)
- - ⏩ [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
+ - 💣 [Revulsion](http://9gag.com/gag/aKGZKej)
+ - ⏩ [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)
  - 👉 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)<!-- MEMES:END -->
 
 ---
