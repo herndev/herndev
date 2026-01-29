@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
- - ⏩ [Give him a name](http://9gag.com/gag/ayNrRRp)
- - 👉 [Carbonara](http://9gag.com/gag/aByzXYO)<!-- MEMES:END -->
+ - 💣 [CATL, the world&#39;s largest battery maker, launches sodium batteries: extremely durable, stable at \u201340\u00b0C, much cheaper than lithium &lpar;5x&rpar;, safer,10,000 charge cycles, requires no nickel or cobalt...](http://9gag.com/gag/ae9zmzj)
+ - ⏩ [Carbonara](http://9gag.com/gag/aByzXYO)
+ - 👉 [This is what this world needs boys](http://9gag.com/gag/avyqd8X)<!-- MEMES:END -->
 
 ---
 
