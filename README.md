@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Clears Out the Steam Deck Dock, UGREEN’s 9-in-1 USB-C Docking Station Goes Below Black Friday Pricing](https://kotaku.com/amazon-clears-out-the-steam-deck-dock-ugreens-9-in-1-usb-c-docking-station-goes-below-black-friday-pricing-2000663956)
- - [Disney Afternoon Collection gets a Switch upgrade with one game you can&#39;t miss](https://www.polygon.com/disney-afternoon-collection-goof-trip-switch-2-release-date-trailer/)
- - [Cairn review: This rock cilmbing game is as intense as a Soulslike](https://www.polygon.com/cairn-review/)<!-- GAME:END -->
+ - [These Final Fantasy Games Are Really Cheap And DRM-Free](https://kotaku.com/final-fantasy-gog-drm-sale-cheap-2000664153)
+ - [Resident Evil Requiem interview: Chainsaws, reinvented zombies, fear balancing, and more](https://blog.playstation.com/2026/01/29/resident-evil-requiem-interview-chainsaws-reinvented-zombies-fear-balancing-and-more/)
+ - [Varanasi sets a release date for SS Rajamouli&#39;s mysterious new movie](https://www.polygon.com/varanasi-release-date-2027-ss-rajamouli/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
