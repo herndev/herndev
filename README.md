@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [DJI Drops the Mini 4K Drone to a Record Low After a Second Price Cut, Cheap Enough to Skip the No-Name Drones](https://kotaku.com/dji-drops-the-mini-4k-drone-to-a-record-low-after-a-second-price-cut-cheap-enough-to-skip-the-no-name-drones-2000663935)
- - [Dragon Quest VII Reimagined interview: hand-crafted dolls, overhauled UI, nostalgia, and more](https://blog.playstation.com/2026/01/29/dragon-quest-vii-reimagined-interview-hand-crafted-dolls-overhauled-ui-nostalgia-and-more/)
- - [All the Kung Fu Panda movies are good family films, but Kung Fu Panda 3 is made especially for dads](https://www.polygon.com/kung-fu-panda-3-anniversary-dads/)<!-- GAME:END -->
+ - [Amazon Clears Out the Steam Deck Dock, UGREEN’s 9-in-1 USB-C Docking Station Goes Below Black Friday Pricing](https://kotaku.com/amazon-clears-out-the-steam-deck-dock-ugreens-9-in-1-usb-c-docking-station-goes-below-black-friday-pricing-2000663956)
+ - [Disney Afternoon Collection gets a Switch upgrade with one game you can&#39;t miss](https://www.polygon.com/disney-afternoon-collection-goof-trip-switch-2-release-date-trailer/)
+ - [Cairn review: This rock cilmbing game is as intense as a Soulslike](https://www.polygon.com/cairn-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
