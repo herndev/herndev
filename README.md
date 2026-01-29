@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Prime&#39;s next comic book adaptation is Sex Criminals starring Kumail Nanjiani](https://www.polygon.com/amazon-prime-video-sex-criminals-adaptation-matt-fraction/)
- - [I Hate This Place: How a Comic Shaped an Entire Visual Style](https://news.xbox.com/en-us/2026/01/29/i-hate-this-place-how-a-comic-shaped-an-entire-visual-style/)
- - [Highguard 1.0.4 patch notes add FOV slider, toggle options, and improved video settings](https://www.polygon.com/highguard-patch-notes-104-update/)<!-- GAME:END -->
+ - [Mighty No. 9 studio Comcept, which somehow still existed, is now officially dead and buried](https://www.pcgamer.com/games/mighty-no-9-studio-comcept-which-somehow-still-existed-is-now-officially-dead-and-buried/)
+ - [RuneScape: Dragonwilds’ Dowdun Reach expansion looks st of Souls games](https://www.polygon.com/runescape-dragonwilds-dowdun-reach/)
+ - [Starfleet Academy just reimagined Klingons as polyamorous refugees](https://www.polygon.com/starfleet-academy-klingons-reimagined-vox-in-excelso/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
