@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything in The Sims 4 Royalty &amp; Legacy: Dynasty gameplay trailer](https://www.polygon.com/the-sims-4-royalty-and-legacy-expansion-pack-dynasty-trailer/)
- - [The Oscar nominee Arco holds out hope for the post-post-apocalypse](https://www.polygon.com/arco-review-oscar-nominated-best-animated-feature/)
- - [Sea of Thieves Becomes a Webtoon Comic Series – and Webtoon Benefits Come to Xbox Game Pass](https://news.xbox.com/en-us/2026/01/29/sea-of-thieves-becomes-a-webtoon-comic-series/)<!-- GAME:END -->
+ - [You can find Code Vein 2&#39;s best early-game weapons almost immediately, letting you breeze through MagMell Island](https://www.pcgamer.com/games/rpg/code-vein-2-best-early-weapons/)
+ - [Black Ops 7 Season 2 is massive, and it&#39;s bringing back Titanfall&#39;s most infamous weapon](https://www.polygon.com/black-ops-7-season-2-reveal/)
+ - [Roxxon causes trouble in Wonder Man and throughout MCU history](https://www.polygon.com/roxxon-wonder-man-mcu-explainer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
