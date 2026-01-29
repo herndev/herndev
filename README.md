@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
- - ⏩ [Carbonara](http://9gag.com/gag/aByzXYO)
- - 👉 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)<!-- MEMES:END -->
+ - ⏩ [Give him a name](http://9gag.com/gag/ayNrRRp)
+ - 👉 [Carbonara](http://9gag.com/gag/aByzXYO)<!-- MEMES:END -->
 
 ---
 
