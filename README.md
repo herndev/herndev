@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s when Code Vein 2 launches in your timezone](https://www.pcgamer.com/games/rpg/code-vein-2-launch-time-release-date/)
  - [Nioh 3 just got a Steam demo, and given Team Ninja&#39;s history I&#39;m surprised how well it runs on my aging rig](https://www.pcgamer.com/games/action/nioh-3-just-got-a-steam-demo-and-given-team-ninjas-history-im-surprised-how-well-it-runs-on-my-aging-rig/)
- - [There&#39;s a turn-based tactics game about the eternal war between tea and coffee, and you can get it for free: &#39;We&#39;ve made enough money from the game&#39;](https://www.pcgamer.com/games/strategy/theres-a-turn-based-tactics-game-about-the-eternal-war-between-tea-and-coffee-and-you-can-get-it-for-free-weve-made-enough-money-from-the-game/)
- - [Atom Zombie Smasher, a 15-year-old game, just got updated out of the blue on Steam](https://www.pcgamer.com/games/strategy/atom-zombie-smasher-a-15-year-old-game-just-got-updated-out-of-the-blue-on-steam/)<!-- GAME:END -->
+ - [There&#39;s a turn-based tactics game about the eternal war between tea and coffee, and you can get it for free: &#39;We&#39;ve made enough money from the game&#39;](https://www.pcgamer.com/games/strategy/theres-a-turn-based-tactics-game-about-the-eternal-war-between-tea-and-coffee-and-you-can-get-it-for-free-weve-made-enough-money-from-the-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
