@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
- - ⏩ [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
- - 👉 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)<!-- MEMES:END -->
+ - 💣 [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
+ - ⏩ [Imagine having the best Franchise and still gets bankrupt....](http://9gag.com/gag/a7ogN2w)
+ - 👉 [We could call it...Good Australia](http://9gag.com/gag/ae9z2dW)<!-- MEMES:END -->
 
 ---
 
