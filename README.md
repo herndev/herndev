@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft is focusing on fixing the core issues of Windows 11 over the coming months after persistent bugs, ads, and bloatware eroded user trust &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260129/p44#a260129p44)
- - [Sources: Amazon is in talks to invest up to $50B in OpenAI, which is seeking up to $100B in new capital, a round that could value it at as much as $830B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260129/p43#a260129p43)
- - [Grubhub plans to remove delivery and service fees on restaurant orders over $50 starting Feb. 2; Grubhub&#39;s US market share fell to ~4% in 2025 from 10% in 2023 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260129/p42#a260129p42)<!-- TECH:END -->
+ - [Apple just had a record-breaking iPhone quarter](https://www.theverge.com/news/870319/apple-iphone-best-revenue-ai-q1-2026)
+ - [Apple reports Q1 revenue from Services, which includes the App Store, Apple Pay, Apple TV, Apple Music, and iCloud, up 14% YoY to $30B, in line with estimates &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260129/p48#a260129p48)
+ - [Apple is resurgent in China with unexpected iPhone 17 sales domination](https://appleinsider.com/articles/26/01/29/apple-is-resurgent-in-china-with-unexpected-iphone-17-sales-domination?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
