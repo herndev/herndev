@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine having the best Franchise and still gets bankrupt....](http://9gag.com/gag/a7ogN2w)
+ - 💣 [I newt it](http://9gag.com/gag/a1mgErG)
  - ⏩ [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
- - 👉 [A newly constructed 4-lane bridge will suddenly change to 2-lane in Mumbai, India](http://9gag.com/gag/aByzGBx)<!-- MEMES:END -->
+ - 👉 [Carbonara](http://9gag.com/gag/aByzXYO)<!-- MEMES:END -->
 
 ---
 
