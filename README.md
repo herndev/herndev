@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Darren Aronofsky’s AI Movie Is As Bad As It Sounds: ‘Slop About The Forming Of The Country That Is About To Crumble’](https://kotaku.com/darren-aronofskys-ai-movie-is-as-bad-as-it-sounds-slop-about-the-forming-of-the-country-that-is-about-to-crumble-2000664225)
- - [Google’s New AI Tool Had No Problem Making Bad Rip-Offs Of Mario And Zelda](https://kotaku.com/google-ai-genai-nintendo-zelda-breath-wild-mario-64-project-genie-2000664227)
- - [Nintendo blocking Tomodachi Life images, explained](https://www.polygon.com/tomodachi-life-living-the-dream-image-sharing-block-nintendo/)<!-- GAME:END -->
+ - [Save Kittens And Blast Away Demons In This New $15 FPS](https://kotaku.com/meowgun-review-boomer-shooter-retro-fps-cats-quake-2000664236)
+ - [Jujutsu Kaisen season 3 episode 5 explained: Cursed corpses, Hakari, and more](https://www.polygon.com/jujutsu-kaisen-season-3-episode-5-future-epic-showdown-yuji-hakari/)
+ - [Rainbow Six Siege&#39;s next operator is, and I swear this is real, Solid Snake](https://www.pcgamer.com/games/fps/rainbow-six-sieges-next-operator-is-and-i-swear-this-is-real-solid-snake/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
