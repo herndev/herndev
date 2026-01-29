@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mighty No. 9 studio Comcept, which somehow still existed, is now officially dead and buried](https://www.pcgamer.com/games/mighty-no-9-studio-comcept-which-somehow-still-existed-is-now-officially-dead-and-buried/)
- - [RuneScape: Dragonwilds’ Dowdun Reach expansion looks st of Souls games](https://www.polygon.com/runescape-dragonwilds-dowdun-reach/)
- - [Starfleet Academy just reimagined Klingons as polyamorous refugees](https://www.polygon.com/starfleet-academy-klingons-reimagined-vox-in-excelso/)<!-- GAME:END -->
+ - [Darren Aronofsky’s AI Movie Is As Bad As It Sounds: ‘Slop About The Forming Of The Country That Is About To Crumble’](https://kotaku.com/darren-aronofskys-ai-movie-is-as-bad-as-it-sounds-slop-about-the-forming-of-the-country-that-is-about-to-crumble-2000664225)
+ - [Google’s New AI Tool Had No Problem Making Bad Rip-Offs Of Mario And Zelda](https://kotaku.com/google-ai-genai-nintendo-zelda-breath-wild-mario-64-project-genie-2000664227)
+ - [Nintendo blocking Tomodachi Life images, explained](https://www.polygon.com/tomodachi-life-living-the-dream-image-sharing-block-nintendo/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
