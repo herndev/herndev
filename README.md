@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto exchange Bybit plans to offer banking services via &quot;MyBank&quot; accounts that can hold USD and other currencies, set to launch in February pending approvals &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/260129/p23#a260129p23)
- - [You may not have the Creator Studio iWork apps installed on your Mac yet](https://appleinsider.com/inside/iwork/tips/you-may-not-have-the-creator-studio-iwork-apps-installed-on-your-mac-yet?utm_source=rss)
- - [Sources: ByteDance and Alibaba both plan to release flagship AI models around China&#39;s mid-February Lunar New Year holiday, including ByteDance&#39;s Doubao 2.0 &lpar;The Information&rpar;](http://www.techmeme.com/260129/p22#a260129p22)<!-- TECH:END -->
+ - [Waymo says a robotaxi struck a child at 6MPH near an elementary school in Santa Monica on January 23, resulting in minor injuries; the NHTSA opens a probe &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260129/p27#a260129p27)
+ - [Galaxy Watch 4 wrecked by One UI 8 update? Samsung just rolled out a fix for that](https://www.androidauthority.com/galaxy-watch-4-one-ui-8-update-fix-3636272/)
+ - [Waymo says it hopes to launch its London robotaxi service as soon as September, after an April pilot; the UK government plans to change regulations in H2 2026 &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/260129/p26#a260129p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
