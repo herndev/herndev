@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Talos, which develops digital asset trading infrastructure, raised a $45M extension from Robinhood and others to its $105M Series B, at a $1.5B valuation &lpar;Will Canny/CoinDesk&rpar;](http://www.techmeme.com/260129/p31#a260129p31)
- - [The rise of the slopagandist](https://www.theverge.com/news/869824/right-wing-influencers-nick-shirley-slopaganda)
- - [Does your Google Photos app look different today? Here’s what’s changed](https://www.androidauthority.com/google-photos-memories-carousel-redesign-3636414/)<!-- TECH:END -->
+ - [A coalition of music publishers, including UMG, filed a second lawsuit against Anthropic, seeking $3B over allegations of copyright infringement of 20k+ songs &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/260129/p33#a260129p33)
+ - [An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account](https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/)
+ - [Half of developers think gen AI is bad for the gaming industry](https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
