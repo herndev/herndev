@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A coalition of music publishers, including UMG, filed a second lawsuit against Anthropic, seeking $3B over allegations of copyright infringement of 20k+ songs &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/260129/p33#a260129p33)
- - [An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account](https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/)
- - [Half of developers think gen AI is bad for the gaming industry](https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey)<!-- TECH:END -->
+ - [Nintendo 3DS emulation on Android just got a lot less confusing thanks to a simple update](https://www.androidauthority.com/azahar-3ds-emulator-file-3636485/)
+ - [Apple acquires Q.ai, whose tech can analyze facial expressions and could enable non-verbal discussions with AI assistants; sources: the deal values Q.ai at ~$2B &lpar;Financial Times&rpar;](http://www.techmeme.com/260129/p35#a260129p35)
+ - [Spotify&amp;#8217;s new group chats share music with everyone in your circle](https://www.theverge.com/news/870288/spotify-group-chats-direct-messaging-expansion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
