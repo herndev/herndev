@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [An Arc Raiders player recycled 109 Venators after it was accidentally nerfed for a day, prompting the question: &#39;Who tf has room for 109 vennys?&#39;](https://www.pcgamer.com/games/third-person-shooter/an-arc-raiders-player-recycled-109-venators-after-it-was-accidentally-nerfed-for-a-day-prompting-the-question-who-tf-has-room-for-109-vennys/)
- - [&#39;We can fix the internet&#39; says Tim Berners-Lee—just don&#39;t ask what he thinks about AI](https://www.pcgamer.com/software/ai/we-can-fix-the-internet-says-tim-berners-lee-just-dont-ask-what-he-thinks-about-ai/)
- - [Here&#39;s when Code Vein 2 launches in your timezone](https://www.pcgamer.com/games/rpg/code-vein-2-launch-time-release-date/)<!-- GAME:END -->
+ - [DJI Drops the Mini 4K Drone to a Record Low After a Second Price Cut, Cheap Enough to Skip the No-Name Drones](https://kotaku.com/dji-drops-the-mini-4k-drone-to-a-record-low-after-a-second-price-cut-cheap-enough-to-skip-the-no-name-drones-2000663935)
+ - [Dragon Quest VII Reimagined interview: hand-crafted dolls, overhauled UI, nostalgia, and more](https://blog.playstation.com/2026/01/29/dragon-quest-vii-reimagined-interview-hand-crafted-dolls-overhauled-ui-nostalgia-and-more/)
+ - [All the Kung Fu Panda movies are good family films, but Kung Fu Panda 3 is made especially for dads](https://www.polygon.com/kung-fu-panda-3-anniversary-dads/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
