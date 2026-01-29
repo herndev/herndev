@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google agrees to pay $135M to settle a proposed class action lawsuit alleging that the tech giant programmed Android to illegally collect users&#39; cellular data &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260128/p70#a260128p70)
- - [The UK&#39;s Advertising Standards Authority bans some Coinbase ads, finding them &quot;irresponsible&quot; for suggesting crypto as a solution to the cost of living crisis &lpar;Tom Knowles/The Guardian&rpar;](http://www.techmeme.com/260128/p69#a260128p69)
- - [LinkedIn&#39;s Q2 revenue rose 11% YoY, topping $5B for the first time, giving LinkedIn an annual run rate of $20B+; Satya Nadella said paid video ads grew 30% YoY &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260128/p68#a260128p68)<!-- TECH:END -->
+ - [Sources: OpenAI is in talks to raise up to $30B from Nvidia, less than $10B from Microsoft, and $10B-$20B from Amazon as part of a $100B funding round &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260128/p71#a260128p71)
+ - [How to view translated lyrics in Apple Music](https://appleinsider.com/inside/ios-26/tips/how-to-view-translated-lyrics-in-apple-music?utm_source=rss)
+ - [Samsung confirms AR glasses with multimodal AI capabilities are coming this year](https://www.androidauthority.com/samsung-ar-glasses-launch-timeline-3636208/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
