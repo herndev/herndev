@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GameNative now supports Epic Games on Android — here’s how it works](https://www.androidauthority.com/gamenative-epic-games-store-3636353/)
- - [Netflix is eating Hollywood — because it has to](https://www.theverge.com/podcast/869464/netflix-warner-bros-discovery-deal-paramount-skydance-hollywood-streaming-future)
- - [Sen. Warren pushes Altman for guarantee OpenAI isn’t seeking government bailout](https://www.theverge.com/news/869983/elizabeth-warren-openai-sam-altman-bailout-letter)<!-- TECH:END -->
+ - [Talos, which develops digital asset trading infrastructure, raised a $45M extension from Robinhood and others to its $105M Series B, at a $1.5B valuation &lpar;Will Canny/CoinDesk&rpar;](http://www.techmeme.com/260129/p31#a260129p31)
+ - [The rise of the slopagandist](https://www.theverge.com/news/869824/right-wing-influencers-nick-shirley-slopaganda)
+ - [Does your Google Photos app look different today? Here’s what’s changed](https://www.androidauthority.com/google-photos-memories-carousel-redesign-3636414/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
