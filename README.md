@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crosak: Tips, Tricks, and Secrets of a Multi-Gravity Play-Dough Universe](https://news.xbox.com/en-us/2026/01/30/crosak-tips-tricks-and-secrets/)
- - [Highguard Devs Make A Big Change As Player Count Nosedives](https://kotaku.com/highguard-big-update-free-shooter-future-patch-notes-wildlight-2000664584)
- - [The Internet Reacts To The Death Of Catherine O’Hara](https://kotaku.com/catherine-ohara-death-died-reaction-tmz-pedro-pascal-2000664620)<!-- GAME:END -->
+ - [Best new Xbox Game Pass games to play this weekend &lpar;Jan. 30-Feb. 1&rpar;](https://www.polygon.com/best-xbox-game-pass-january-additions-jan-30/)
+ - [Apex Legends end Nintendo Switch support this summer](https://www.polygon.com/apex-legends-to-end-switch-support/)
+ - [Shelter review: Jason Statham delivers yet again](https://www.polygon.com/shelter-review-jason-statham/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
