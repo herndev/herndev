@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
- - ⏩ [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)
- - 👉 [This dude is something else](http://9gag.com/gag/aZZXz2V)<!-- MEMES:END -->
+ - ⏩ [He was just released for SA then he goes and SA a female detective .](http://9gag.com/gag/abADRNE)
+ - 👉 [I would binge watch the whole season.](http://9gag.com/gag/azxyQ2z)<!-- MEMES:END -->
 
 ---
 
