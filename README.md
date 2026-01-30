@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
- - ⏩ [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)
- - 👉 [Xd](http://9gag.com/gag/ayNrvKW)<!-- MEMES:END -->
+ - 💣 [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)
+ - ⏩ [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
+ - 👉 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)<!-- MEMES:END -->
 
 ---
 
