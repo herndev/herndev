@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Phasmophobia&#39;s roadmap includes evidence of a 1.0 launch in 2026: a player character overhaul, new event, and Horror 2.0](https://www.pcgamer.com/games/horror/phasmophobias-roadmap-includes-evidence-of-a-1-0-launch-in-2026-the-player-character-overhaul-a-new-event-and-horror-2-0/)
- - [Fallout 76 is free to play until Feb 5, but if you want that sick NCR power armor from the Fallout show, it&#39;s gonna cost you](https://www.pcgamer.com/games/fallout/fallout-76-is-free-to-play-until-feb-5-but-if-you-want-that-sick-ncr-power-armor-from-the-fallout-show-its-gonna-cost-you/)
- - [Over 50% of game developers now think generative AI is bad for the industry, a dramatic increase from just 2 years ago: &#39;I&#39;d rather quit the industry than use generative AI&#39;](https://www.pcgamer.com/gaming-industry/more-than-half-of-game-developers-now-think-generative-ai-is-bad-for-the-industry-a-dramatic-increase-from-just-2-years-ago-id-rather-quit-the-industry-than-use-generative-ai/)<!-- GAME:END -->
+ - [Microsoft says the Windows 11 boot failure bug is linked to another buggy update: &#39;This issue can occur on devices that failed to install the December 2025 security update and were left in an improper state&#39;](https://www.pcgamer.com/software/windows/microsoft-says-the-windows-11-boot-failure-bug-is-linked-to-another-buggy-update-this-issue-can-occur-on-devices-that-failed-to-install-the-december-2025-security-update-and-were-left-in-an-improper-state/)
+ - [Deadlock players have chosen Graves, the goth girl, as the second new character to be added, beating out unicorn lady and demon boy](https://www.pcgamer.com/games/moba/deadlock-players-have-chosen-graves-the-goth-girl-as-the-second-new-character-to-be-added-beating-out-unicorn-lady-and-demon-boy/)
+ - [Phasmophobia&#39;s roadmap includes evidence of a 1.0 launch in 2026: a player character overhaul, new event, and Horror 2.0](https://www.pcgamer.com/games/horror/phasmophobias-roadmap-includes-evidence-of-a-1-0-launch-in-2026-the-player-character-overhaul-a-new-event-and-horror-2-0/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
