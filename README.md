@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best new Xbox Game Pass games to play this weekend &lpar;Jan. 30-Feb. 1&rpar;](https://www.polygon.com/best-xbox-game-pass-january-additions-jan-30/)
- - [Apex Legends end Nintendo Switch support this summer](https://www.polygon.com/apex-legends-to-end-switch-support/)
- - [Shelter review: Jason Statham delivers yet again](https://www.polygon.com/shelter-review-jason-statham/)<!-- GAME:END -->
+ - [Zootopia 2, Anaconda, Greenland 2, and everything new to stream this weekend](https://www.polygon.com/new-movies-to-watch-zootopia-2-anaconda-greenland-2-january-30-2026/)
+ - [Where to find brittle quartzite for brittle whetstone in Grounded 2](https://www.polygon.com/grounded-2-brittle-quartzite-locations-leather-where-to-find-whetstone/)
+ - [I&#39;ve already put 10 hours into this upcoming RPG&#39;s demo because it has the best combat I&#39;ve seen outside a FromSoft game](https://www.pcgamer.com/games/rpg/ive-already-put-10-hours-into-this-upcoming-rpgs-demo-because-it-has-the-best-combat-ive-seen-outside-a-fromsoft-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
