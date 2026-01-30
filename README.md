@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is the third base again?](http://9gag.com/gag/a0egMQd)
- - ⏩ [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
- - 👉 [It\u2019s super effective](http://9gag.com/gag/amoQRQ4)<!-- MEMES:END -->
+ - 💣 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)
+ - ⏩ [This dude is something else](http://9gag.com/gag/aZZXz2V)
+ - 👉 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)<!-- MEMES:END -->
 
 ---
 
