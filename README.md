@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just trying to show off her costume](http://9gag.com/gag/aZZXzZz)
- - ⏩ [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
- - 👉 [This dude is something else](http://9gag.com/gag/aZZXz2V)<!-- MEMES:END -->
+ - 💣 [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)
+ - ⏩ [Marble clock](http://9gag.com/gag/ayNrYOY)
+ - 👉 [I miss my junior days. And my senior days as well](http://9gag.com/gag/avyq91b)<!-- MEMES:END -->
 
 ---
 
