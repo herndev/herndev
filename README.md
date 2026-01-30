@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No title](http://9gag.com/gag/aNDMjQb)
- - ⏩ [I&#39;m beginning to see a pattern here](http://9gag.com/gag/a0egwNL)
- - 👉 [When the filter is too accurate](http://9gag.com/gag/an7ZV2b)<!-- MEMES:END -->
+ - 💣 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
+ - ⏩ [This sh*t can&#39;t be real right?](http://9gag.com/gag/a1mgOK2)
+ - 👉 [This dude is something else](http://9gag.com/gag/aZZXz2V)<!-- MEMES:END -->
 
 ---
 
