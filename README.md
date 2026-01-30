@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don Lemon has been arrested for covering an anti-ICE protest](https://www.theverge.com/policy/870765/don-lemon-arrest-ice-protest)
- - [Cold weather in Florida is pushing back the Artemis II launch](https://www.theverge.com/science/870767/nasa-artemis-ii-mission-launch-delay-sls-space-launch-system-orion-moon)
- - [Analysts caught flat-footed as iPhone supply, not demand, capped growth](https://appleinsider.com/articles/26/01/30/analysts-caught-flat-footed-as-iphone-supply-not-demand-capped-growth?utm_source=rss)<!-- TECH:END -->
+ - [Poetiq, which leverages existing LLMs to create &quot;expert agents&quot; for specific tasks, and spent just $40K to achieve high ARC-AGI-2 scores, raised a $45.8M seed &lpar;Ian Krietzberg/Puck&rpar;](http://www.techmeme.com/260130/p15#a260130p15)
+ - [This DIY kit turned my favorite mechanical keyboard into my favorite electrocapacitive keyboard](https://www.theverge.com/tech/868153/dynacap-diy-electrocapacitive-keyboard-hands-on)
+ - [Could the Galaxy S26 really be as feather-light as latest leak claims?](https://www.androidauthority.com/samsung-galaxy-s26-renders-specs-lightweight-3636880/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
