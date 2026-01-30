@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
- - ⏩ [This sh*t can&#39;t be real right?](http://9gag.com/gag/a1mgOK2)
+ - ⏩ [It kinda looks like one of those moment where I would say I usually don&#39;t run, so if you see me running. You should probably run too](http://9gag.com/gag/axyK4O1)
  - 👉 [This dude is something else](http://9gag.com/gag/aZZXz2V)<!-- MEMES:END -->
 
 ---
