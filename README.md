@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The team behind vivo’s add-on camera lens just made a 10x lens for iPhones](https://www.androidauthority.com/the-team-behind-vivos-add-on-camera-lens-just-made-a-10x-lens-for-iphones-3636613/)
  - [Google&#39;s experience in India has become a proving ground to scale AI in education, as the country accounts for the highest global usage of Gemini for learning &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260130/p1#a260130p1)
- - [It’s unofficially official: Galaxy Unpacked date revealed in leaked Samsung teaser](https://www.androidauthority.com/samsung-galaxy-unpacked-2026-date-leak-3636609/)
- - [Filing: Chinese AI chipmaker Axera aims to raise up to ~$379.2M in a Hong Kong IPO, offering 104.9M shares at ~$3.61 each; trading expected to start February 10 &lpar;Reuters&rpar;](http://www.techmeme.com/260129/p61#a260129p61)<!-- TECH:END -->
+ - [It’s unofficially official: Galaxy Unpacked date revealed in leaked Samsung teaser](https://www.androidauthority.com/samsung-galaxy-unpacked-2026-date-leak-3636609/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
