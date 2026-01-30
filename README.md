@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Speed](https://blog.playstation.com/2026/01/30/share-of-the-week-speed/)
- - [Apex Legends is still a mainstream obsession in Japan, 7 years after launch](https://www.polygon.com/apex-legends-japan-fandom-popularity-algs-sapporo/)
- - [World War Z x The Walking Dead Lurches onto Xbox Today](https://news.xbox.com/en-us/2026/01/30/world-war-z-x-walking-dead/)<!-- GAME:END -->
+ - [Crimson Desert is reaching RPG hype levels up there with Skyrim](https://www.polygon.com/what-is-crimson-desert-rpg-open-world-ps5-xbox-release-date-trailer-overview/)
+ - [Superman’s new fusion pays tribute to his many Dragon Ball Z ties](https://www.polygon.com/dc-ko-3-superman-shazam-fusion-goku-dragon-ball/)
+ - [Legendary Persona ‘Demon Designer’ Will Port 3,600 AI-Generated Cards To His New Switch Game](https://kotaku.com/persona-metaphor-refantazio-kazuma-kaneko-card-game-ai-art-tsukuyomi-2000664583)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
