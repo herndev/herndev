@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SpaceX generated about $8B in EBITDA on $15B to $16B of revenue last year; Starlink accounted for about 50% to 80% of the total revenue &lpar;Reuters&rpar;](http://www.techmeme.com/260130/p26#a260130p26)
- - [Hands-on with Google&#39;s Auto Browse for Chrome: it performs multistep tasks noticeably better than similar tools but struggles with complex tasks &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260130/p25#a260130p25)
- - [Verizon added over half a million new lines during the last three months of 2025](https://www.androidauthority.com/verizon-adds-half-million-3636946/)<!-- TECH:END -->
+ - [A look at the clash between Coinbase and Wall Street over the Clarity Act and whether crypto exchanges can offer stablecoin &quot;rewards&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260130/p27#a260130p27)
+ - [The latest Android color E Ink tablet is coming for your laptop](https://www.androidauthority.com/bigme-b10-tablet-launch-3637013/)
+ - [Right-Wing Gun Enthusiasts and Extremists Are Working Overtime to Justify Alex Pretti’s Killing](https://www.wired.com/story/right-wing-gun-enthusiasts-and-extremists-are-working-overtime-to-justify-alex-prettis-killing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
