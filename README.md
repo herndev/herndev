@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Melania documentary creators say its big price tag wasn&amp;#8217;t bribery](https://www.theverge.com/entertainment/870713/melania-amazon-documentary-bribe-accusations)
- - [Can Apple&#39;s New AirTag Track How Many Fans Tim Cook Just Lost?](https://www.cnet.com/tech/mobile/can-apples-new-airtag-track-how-many-fans-tim-cook-just-lost/)
- - [Super Bowl 2026 Ads Are Trickling Out. Here&#39;s a First Look at Teasers](https://www.cnet.com/tech/services-and-software/super-bowl-2026-ads-first-look-teasers/)<!-- TECH:END -->
+ - [The Best Soundbars We’ve Tested: Sonos, Sony, Bose, and More](https://www.wired.com/gallery/best-soundbars/)
+ - [Oura CEO Tom Hale says the company has no plans to abandon its subscription model, even as rivals experiment with cheaper hardware and no recurring fees &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260130/p9#a260130p9)
+ - [Gemini’s new sidebar in Chrome is surprisingly helpful but I found its limits](https://www.androidauthority.com/gemini-in-chrome-sidebar-test-3636732/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
