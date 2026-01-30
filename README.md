@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We finally heard from Trump Mobile… and they immediately ghosted us](https://www.theverge.com/tech/870934/trump-mobile-executive-team-don-hendrickson)
- - [Google Contacts is modernizing the contact sharing interface](https://www.androidauthority.com/google-contacts-contact-sharing-ui-3636935/)
- - [Dyson’s powerful 360 Vis Nav robot vacuum is nearly 75 percent off today](https://www.theverge.com/gadgets/870256/dyson-360-vis-nav-robot-vacuum-lego-lotr-balrog-deal-sale)<!-- TECH:END -->
+ - [Google turns up the volume with special music-themed rewards for Play Points members](https://www.androidauthority.com/google-play-points-music-themed-rewards-3636939/)
+ - [Anthropic details how NASA engineers used Claude to plot out the route for Perseverance rover to navigate a ~400 meter path on the Martian surface &lpar;Anthropic&rpar;](http://www.techmeme.com/260130/p22#a260130p22)
+ - [3 Great Heated Blanket Deals on My Favorite Affordable Models](https://www.wired.com/story/heated-blanket-deals-january-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
