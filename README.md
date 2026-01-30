@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AirPods 4 With ANC Carry the Biggest Discount in Apple’s Earbuds Lineup, Now at Its Lowest Price of the Year](https://kotaku.com/airpods-4-with-anc-carry-the-biggest-discount-in-apples-earbuds-lineup-now-at-an-all-time-low-2000664296)
- - [You can now view the Computer History Museum&#39;s collection from the comfort of your own home, and it&#39;s full of retro blasts from the past](https://www.pcgamer.com/hardware/you-can-now-view-the-computer-history-museums-collection-from-the-comfort-of-your-own-home-and-its-full-of-retro-blasts-from-the-past/)
- - [Anthropic&#39;s apparently starting to learn that it can&#39;t have its cake and eat it when it comes to working with the military](https://www.pcgamer.com/software/ai/anthropics-apparently-starting-to-learn-that-it-cant-have-its-cake-and-eat-it-when-it-comes-to-working-with-the-military/)<!-- GAME:END -->
+ - [Samsung Moves Odyssey Curved Gaming Monitor Into Clearance, 49″ G93SC Series Hits an All-Time Low](https://kotaku.com/samsung-moves-odyssey-curved-gaming-monitor-into-clearance-49-g93sc-series-hits-an-all-time-low-2000664187)
+ - [Wonder Man&#39;s villain was &#39;right about everything,&#39; actor says](https://www.polygon.com/wonder-man-arian-moayed-interview/)
+ - [Amazon Clears Out 45W Nintendo Switch Charger at Record Low, Compatible With Switch Lite and Steam Deck](https://kotaku.com/amazon-clears-out-45w-nintendo-switch-charger-at-record-low-compatible-with-switch-lite-and-steam-deck-2000664238)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
