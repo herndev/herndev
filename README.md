@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
- - ⏩ [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)
- - 👉 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)<!-- MEMES:END -->
+ - 💣 [What is the third base again?](http://9gag.com/gag/a0egMQd)
+ - ⏩ [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
+ - 👉 [It\u2019s super effective](http://9gag.com/gag/amoQRQ4)<!-- MEMES:END -->
 
 ---
 
