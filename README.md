@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)
- - ⏩ [Veronica Belmont - Cthulhu fan](http://9gag.com/gag/aGyvOjn)
- - 👉 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)<!-- MEMES:END -->
+ - 💣 [Ever wondered how electric motors are manufactured?](http://9gag.com/gag/a4Pgw0Z)
+ - ⏩ [Difference between men and women](http://9gag.com/gag/aQzbONe)
+ - 👉 [I miss my junior days. And my senior days as well](http://9gag.com/gag/avyq91b)<!-- MEMES:END -->
 
 ---
 
