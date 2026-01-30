@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This dude is something else](http://9gag.com/gag/aZZXz2V)
- - ⏩ [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
- - 👉 [That&#39;s one way to deal with paranormal](http://9gag.com/gag/aQzbOz2)<!-- MEMES:END -->
+ - 💣 [No title](http://9gag.com/gag/aNDMjQb)
+ - ⏩ [I&#39;m beginning to see a pattern here](http://9gag.com/gag/a0egwNL)
+ - 👉 [When the filter is too accurate](http://9gag.com/gag/an7ZV2b)<!-- MEMES:END -->
 
 ---
 
