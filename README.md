@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poetiq, which leverages existing LLMs to create &quot;expert agents&quot; for specific tasks, and spent just $40K to achieve high ARC-AGI-2 scores, raised a $45.8M seed &lpar;Ian Krietzberg/Puck&rpar;](http://www.techmeme.com/260130/p15#a260130p15)
- - [This DIY kit turned my favorite mechanical keyboard into my favorite electrocapacitive keyboard](https://www.theverge.com/tech/868153/dynacap-diy-electrocapacitive-keyboard-hands-on)
- - [Could the Galaxy S26 really be as feather-light as latest leak claims?](https://www.androidauthority.com/samsung-galaxy-s26-renders-specs-lightweight-3636880/)<!-- TECH:END -->
+ - [Bluesky releases its first transparency report: users rose 60% in 2025 to 41.2M, including AT Protocol accounts; moderation reports from users grew 54% to 9.97M &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260130/p16#a260130p16)
+ - [Apple could have used Claude to power a future Siri, but Anthropic got greedy](https://appleinsider.com/articles/26/01/30/apple-could-have-used-claude-to-power-a-future-siri-but-anthropic-got-greedy?utm_source=rss)
+ - [ICE invades Minnesota and Minnesotans fight back](https://www.theverge.com/policy/870315/ice-invades-minnesota-and-minnesotans-fight-back)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
