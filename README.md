@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Pentagon is clashing with Anthropic over safeguards limiting the use of its tech to target weapons autonomously and conduct domestic surveillance &lpar;Reuters&rpar;](http://www.techmeme.com/260129/p53#a260129p53)
- - [The EFF is publicly shaming tech companies for dragging their feet on privacy](https://www.androidauthority.com/eff-encrypt-it-already-campaign-3636596/)
- - [Sources: special agents with the US Commerce Department investigated claims by ex-Meta contractors that Meta staff had &quot;unfettered&quot; access to WhatsApp messages &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/260129/p52#a260129p52)<!-- TECH:END -->
+ - [Apple expects Q2 revenue to grow 13% to 16% YoY, vs. 10% est.; it&#39;s currently constrained by iPhone processor supply and expects memory costs to rise after Q2 &lpar;Reuters&rpar;](http://www.techmeme.com/260129/p56#a260129p56)
+ - [Hot sale: Two hot Narwal robot vacuum deals for different budgets](https://www.androidauthority.com/narwal-freo-z-ultra-freo-pro-deals-3636518/)
+ - [OpenAI plans to retire several models from ChatGPT on February 13, including GPT‑4o, GPT‑4.1, and o4-mini, saying only 0.1% of users still choose GPT-4o &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260129/p55#a260129p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
