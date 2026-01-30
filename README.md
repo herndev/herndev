@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SpaceX is considering a potential merger with Tesla, an idea some investors are pushing, while separately exploring a tie-up between SpaceX and xAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/260129/p50#a260129p50)
- - [Apple is resurgent in China with unexpected iPhone 17 sales domination](https://appleinsider.com/articles/26/01/29/apple-is-resurgent-in-china-with-unexpected-iphone-17-sales-domination?utm_source=rss)
- - [Memory cost explosion won&#39;t hurt Apple too badly in Q2, may sting in Q3](https://appleinsider.com/articles/26/01/29/memory-cost-explosion-wont-hurt-apple-too-badly-in-q2-may-sting-in-q3?utm_source=rss)<!-- TECH:END -->
+ - [Sources: the Pentagon is clashing with Anthropic over safeguards limiting the use of its tech to target weapons autonomously and conduct domestic surveillance &lpar;Reuters&rpar;](http://www.techmeme.com/260129/p53#a260129p53)
+ - [The EFF is publicly shaming tech companies for dragging their feet on privacy](https://www.androidauthority.com/eff-encrypt-it-already-campaign-3636596/)
+ - [Sources: special agents with the US Commerce Department investigated claims by ex-Meta contractors that Meta staff had &quot;unfettered&quot; access to WhatsApp messages &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/260129/p52#a260129p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
