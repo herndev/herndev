@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google turns up the volume with special music-themed rewards for Play Points members](https://www.androidauthority.com/google-play-points-music-themed-rewards-3636939/)
- - [Anthropic details how NASA engineers used Claude to plot out the route for Perseverance rover to navigate a ~400 meter path on the Martian surface &lpar;Anthropic&rpar;](http://www.techmeme.com/260130/p22#a260130p22)
- - [3 Great Heated Blanket Deals on My Favorite Affordable Models](https://www.wired.com/story/heated-blanket-deals-january-2026/)<!-- TECH:END -->
+ - [Bundle deal: Pay only half the price for the Ring Battery Doorbell and Outdoor Cam Plus](https://www.androidauthority.com/ring-battery-doorbell-outdoor-cam-plus-deal-3636928/)
+ - [Sonos’ Super Bowl sale knocks hundreds off its audio gear](https://www.theverge.com/gadgets/871054/sonos-super-bowl-deal-sale-era-beam-arc-ultra-sub)
+ - [Some AI researchers have left Apple but that won&#39;t affect Siri&#39;s big upgrade](https://appleinsider.com/articles/26/01/30/some-ai-researchers-have-left-apple-but-that-wont-affect-siris-big-upgrade?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
