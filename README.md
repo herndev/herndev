@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can finally buy Samsung’s $2,899 Galaxy Z TriFold in the US. Will you?](https://www.androidauthority.com/galaxy-z-trifold-sale-us-3636753/)
- - [Sources: Granola, which makes an AI-based note-taking app, aims to raise $100M+ led by Index Ventures at a $1B+ valuation, up from a $250M valuation in May 2025 &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260130/p11#a260130p11)
- - [Who’s afraid of the new TikTok?](https://www.theverge.com/tech/870543/tiktok-us-ownership-oracle-algorithm-trust)<!-- TECH:END -->
+ - [Don Lemon has been arrested for covering an anti-ICE protest](https://www.theverge.com/policy/870765/don-lemon-arrest-ice-protest)
+ - [Cold weather in Florida is pushing back the Artemis II launch](https://www.theverge.com/science/870767/nasa-artemis-ii-mission-launch-delay-sls-space-launch-system-orion-moon)
+ - [Analysts caught flat-footed as iPhone supply, not demand, capped growth](https://appleinsider.com/articles/26/01/30/analysts-caught-flat-footed-as-iphone-supply-not-demand-capped-growth?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
