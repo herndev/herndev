@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Soundbars We’ve Tested: Sonos, Sony, Bose, and More](https://www.wired.com/gallery/best-soundbars/)
- - [Oura CEO Tom Hale says the company has no plans to abandon its subscription model, even as rivals experiment with cheaper hardware and no recurring fees &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260130/p9#a260130p9)
- - [Gemini’s new sidebar in Chrome is surprisingly helpful but I found its limits](https://www.androidauthority.com/gemini-in-chrome-sidebar-test-3636732/)<!-- TECH:END -->
+ - [You can finally buy Samsung’s $2,899 Galaxy Z TriFold in the US. Will you?](https://www.androidauthority.com/galaxy-z-trifold-sale-us-3636753/)
+ - [Sources: Granola, which makes an AI-based note-taking app, aims to raise $100M+ led by Index Ventures at a $1B+ valuation, up from a $250M valuation in May 2025 &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260130/p11#a260130p11)
+ - [Who’s afraid of the new TikTok?](https://www.theverge.com/tech/870543/tiktok-us-ownership-oracle-algorithm-trust)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
