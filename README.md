@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I have a new smart home fear: Getting locked IN](https://www.androidauthority.com/smart-lock-fears-3634816/)
- - [The small film that answers the big questions](https://www.theverge.com/entertainment/870138/hlynur-palmason-the-love-that-remains-interview)
- - [New leak reveals more details for some of this year’s most anticipated Android flagships](https://www.androidauthority.com/oppo-find-x9-ultra-find-n6-colors-global-launch-leak-3636737/)<!-- TECH:END -->
+ - [Melania documentary creators say its big price tag wasn&amp;#8217;t bribery](https://www.theverge.com/entertainment/870713/melania-amazon-documentary-bribe-accusations)
+ - [Can Apple&#39;s New AirTag Track How Many Fans Tim Cook Just Lost?](https://www.cnet.com/tech/mobile/can-apples-new-airtag-track-how-many-fans-tim-cook-just-lost/)
+ - [Super Bowl 2026 Ads Are Trickling Out. Here&#39;s a First Look at Teasers](https://www.cnet.com/tech/services-and-software/super-bowl-2026-ads-first-look-teasers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
