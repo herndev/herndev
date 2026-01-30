@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve Tested 1,000+ Sex Toys. These 8 Are What I Always Recommend](https://www.wired.com/gallery/i-have-tested-1000-sex-toys-these-8-are-what-i-always-recommend/)
- - [This upcoming rugged phone doubles as a 1080p projector](https://www.androidauthority.com/8849-tank-x-launch-3636654/)
- - [Google TV’s new update is making it easier to find free-to-play shows and movies](https://www.androidauthority.com/google-tv-update-free-to-play-shows-and-movies-3636636/)<!-- TECH:END -->
+ - [Here’s why I ditched the ‘everything app’ and switched back to Google Keep](https://www.androidauthority.com/why-i-ditched-notion-for-google-keep-3635125/)
+ - [Sources: China has given DeepSeek approval to buy Nvidia&#39;s H200 AI chips but imposes regulatory conditions, which are still being finalized &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/260130/p3#a260130p3)
+ - [The FCC wants frustrated customers to snitch on Verizon after its massive outage](https://www.androidauthority.com/fcc-probe-on-verizon-outage-3636682/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
