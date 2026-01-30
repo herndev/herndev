@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft is apparently now going to focus on &#39;improving system performance, reliability, and the overall experience of Windows&#39; which is better than more AI](https://www.pcgamer.com/software/windows/microsoft-is-apparently-now-going-to-focus-on-improving-system-performance-reliability-and-the-overall-experience-of-windows-which-is-better-than-more-ai/)
- - [Ernie Hudson interview: From losing Ghostbusters to getting Toy Story 5](https://www.polygon.com/ernie-hudson-voiceover-career-ghostbusters-cyborg-transformers-toy-story/)
- - [People of Note Welcomes Joe Zieja, Erika Ishii, Debra Wilson and More to the Cast!](https://news.xbox.com/en-us/2026/01/30/people-of-note-cast-mashup/)<!-- GAME:END -->
+ - [Share of the Week: Speed](https://blog.playstation.com/2026/01/30/share-of-the-week-speed/)
+ - [Apex Legends is still a mainstream obsession in Japan, 7 years after launch](https://www.polygon.com/apex-legends-japan-fandom-popularity-algs-sapporo/)
+ - [World War Z x The Walking Dead Lurches onto Xbox Today](https://news.xbox.com/en-us/2026/01/30/world-war-z-x-walking-dead/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
