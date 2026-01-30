@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
- - ⏩ [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
+ - ⏩ [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)
  - 👉 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)<!-- MEMES:END -->
 
 ---
