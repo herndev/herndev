@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Full frontal male nudity is having a major mainstream media moment](https://www.polygon.com/big-dongs-month-knight-seven-kingdoms-28-years-later-bone-temple-pitt/)
- - [Pokémon Ascended Heroes Is Out And One Card Is Already Going For Over $1,000](https://kotaku.com/pokemon-ascendant-heroes-mega-gengar-ex-2000664572)
- - [WWE 2K26 gets CM Punk on the cover, new battle passes, and Switch 2 mouse controls](https://www.polygon.com/wwe-2k26-cm-punk-ringside-pass-switch-2-release-date/)<!-- GAME:END -->
+ - [Why WWE 2K26 is the Right Time to Bring CM Punk’s Story Back to WWE Video Games](https://news.xbox.com/en-us/2026/01/30/wwe-2k26-cm-punk-back-to-wwe-video-games/)
+ - [Jujutsu Kaisen episode 52 review: a cinematic masterpiece](https://www.polygon.com/jujutsu-kaisen-season-3-episode-52-passion-anime-rotoscoped-sequence/)
+ - [Full frontal male nudity is having a major mainstream media moment](https://www.polygon.com/big-dongs-month-knight-seven-kingdoms-28-years-later-bone-temple-pitt/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
