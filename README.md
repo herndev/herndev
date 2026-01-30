@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Lord of the Rings proves fantasy movies don&#39;t need to be accurate, just faithful](https://www.polygon.com/lord-of-the-rings-movies-council-of-elrond-scene/)
  - [Microsoft says the Windows 11 boot failure bug is linked to another buggy update: &#39;This issue can occur on devices that failed to install the December 2025 security update and were left in an improper state&#39;](https://www.pcgamer.com/software/windows/microsoft-says-the-windows-11-boot-failure-bug-is-linked-to-another-buggy-update-this-issue-can-occur-on-devices-that-failed-to-install-the-december-2025-security-update-and-were-left-in-an-improper-state/)
- - [Deadlock players have chosen Graves, the goth girl, as the second new character to be added, beating out unicorn lady and demon boy](https://www.pcgamer.com/games/moba/deadlock-players-have-chosen-graves-the-goth-girl-as-the-second-new-character-to-be-added-beating-out-unicorn-lady-and-demon-boy/)
- - [Phasmophobia&#39;s roadmap includes evidence of a 1.0 launch in 2026: a player character overhaul, new event, and Horror 2.0](https://www.pcgamer.com/games/horror/phasmophobias-roadmap-includes-evidence-of-a-1-0-launch-in-2026-the-player-character-overhaul-a-new-event-and-horror-2-0/)<!-- GAME:END -->
+ - [Deadlock players have chosen Graves, the goth girl, as the second new character to be added, beating out unicorn lady and demon boy](https://www.pcgamer.com/games/moba/deadlock-players-have-chosen-graves-the-goth-girl-as-the-second-new-character-to-be-added-beating-out-unicorn-lady-and-demon-boy/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
