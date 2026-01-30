@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)
- - ⏩ [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
- - 👉 [This dude is something else](http://9gag.com/gag/aZZXz2V)<!-- MEMES:END -->
+ - 💣 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
+ - ⏩ [2003 Grand Final! RTS vs RTS.](http://9gag.com/gag/awyjYXB)
+ - 👉 [Xd](http://9gag.com/gag/ayNrvKW)<!-- MEMES:END -->
 
 ---
 
