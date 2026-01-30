@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This sh*t can&#39;t be real right?](http://9gag.com/gag/a1mgOK2)
- - ⏩ [This dude is something else](http://9gag.com/gag/aZZXz2V)
- - 👉 [That&#39;s one way to deal with paranormal](http://9gag.com/gag/aQzbOz2)<!-- MEMES:END -->
+ - 💣 [TRUMP: `There&#39;s so much talk about how we&#39;re going to drive housing prices down. I don&#39;t want to drive housing prices down. I want to drive housing prices up for people that own their homes, and they can be assured that what&#39;s going to happen`](http://9gag.com/gag/azxyQMK)
+ - ⏩ [This sh*t can&#39;t be real right?](http://9gag.com/gag/a1mgOK2)
+ - 👉 [When you do useless moves just to show off](http://9gag.com/gag/aQzbOE2)<!-- MEMES:END -->
 
 ---
 
