@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These 7 Workout Apps Make Exercising at Home Easy in 2026](https://www.cnet.com/health/fitness/best-workout-apps/)
  - [The US government finalized forfeiture of $400M+ tied to Helix crypto mixer last week; Helix operator Larry Dean Harmon was sentenced to three years in 2024 &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/260130/p2#a260130p2)
- - [Spotify might bring back a feature everyone loved till 2018 &lpar;APK teardown&rpar;](https://www.androidauthority.com/spotify-editable-usernames-3636618/)
- - [The team behind vivo’s add-on camera lens just made a 10x lens for iPhones](https://www.androidauthority.com/the-team-behind-vivos-add-on-camera-lens-just-made-a-10x-lens-for-iphones-3636613/)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Jan. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-jan-30/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
