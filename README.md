@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Lord of the Rings proves fantasy movies don&#39;t need to be accurate, just faithful](https://www.polygon.com/lord-of-the-rings-movies-council-of-elrond-scene/)
- - [Microsoft says the Windows 11 boot failure bug is linked to another buggy update: &#39;This issue can occur on devices that failed to install the December 2025 security update and were left in an improper state&#39;](https://www.pcgamer.com/software/windows/microsoft-says-the-windows-11-boot-failure-bug-is-linked-to-another-buggy-update-this-issue-can-occur-on-devices-that-failed-to-install-the-december-2025-security-update-and-were-left-in-an-improper-state/)
- - [Deadlock players have chosen Graves, the goth girl, as the second new character to be added, beating out unicorn lady and demon boy](https://www.pcgamer.com/games/moba/deadlock-players-have-chosen-graves-the-goth-girl-as-the-second-new-character-to-be-added-beating-out-unicorn-lady-and-demon-boy/)<!-- GAME:END -->
+ - [AirPods 4 With ANC Carry the Biggest Discount in Apple’s Earbuds Lineup, Now at Its Lowest Price of the Year](https://kotaku.com/airpods-4-with-anc-carry-the-biggest-discount-in-apples-earbuds-lineup-now-at-an-all-time-low-2000664296)
+ - [You can now view the Computer History Museum&#39;s collection from the comfort of your own home, and it&#39;s full of retro blasts from the past](https://www.pcgamer.com/hardware/you-can-now-view-the-computer-history-museums-collection-from-the-comfort-of-your-own-home-and-its-full-of-retro-blasts-from-the-past/)
+ - [Anthropic&#39;s apparently starting to learn that it can&#39;t have its cake and eat it when it comes to working with the military](https://www.pcgamer.com/software/ai/anthropics-apparently-starting-to-learn-that-it-cant-have-its-cake-and-eat-it-when-it-comes-to-working-with-the-military/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
