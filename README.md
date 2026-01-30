@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Phasmophobia&#39;s roadmap includes evidence of a 1.0 launch in 2026: a player character overhaul, new event, and Horror 2.0](https://www.pcgamer.com/games/horror/phasmophobias-roadmap-includes-evidence-of-a-1-0-launch-in-2026-the-player-character-overhaul-a-new-event-and-horror-2-0/)
  - [Fallout 76 is free to play until Feb 5, but if you want that sick NCR power armor from the Fallout show, it&#39;s gonna cost you](https://www.pcgamer.com/games/fallout/fallout-76-is-free-to-play-until-feb-5-but-if-you-want-that-sick-ncr-power-armor-from-the-fallout-show-its-gonna-cost-you/)
- - [Over 50% of game developers now think generative AI is bad for the industry, a dramatic increase from just 2 years ago: &#39;I&#39;d rather quit the industry than use generative AI&#39;](https://www.pcgamer.com/gaming-industry/more-than-half-of-game-developers-now-think-generative-ai-is-bad-for-the-industry-a-dramatic-increase-from-just-2-years-ago-id-rather-quit-the-industry-than-use-generative-ai/)
- - [Stardew Valley Creator Busts 4 Myths About His Upcoming Haunted Chocolatier Game](https://kotaku.com/haunted-chocolatier-stardew-valley-abandoned-release-date-2000664261)<!-- GAME:END -->
+ - [Over 50% of game developers now think generative AI is bad for the industry, a dramatic increase from just 2 years ago: &#39;I&#39;d rather quit the industry than use generative AI&#39;](https://www.pcgamer.com/gaming-industry/more-than-half-of-game-developers-now-think-generative-ai-is-bad-for-the-industry-a-dramatic-increase-from-just-2-years-ago-id-rather-quit-the-industry-than-use-generative-ai/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
