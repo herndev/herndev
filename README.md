@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
- - ⏩ [Heavy burden](http://9gag.com/gag/amoQpn4)
- - 👉 [Just a casual day of rock climbing until a bear decides to join the party](http://9gag.com/gag/aAyAXKE)<!-- MEMES:END -->
+ - 💣 [Every life marches toward the same end](http://9gag.com/gag/apR7YBp)
+ - ⏩ [Someone just cracked the Coca-Cola secret formula](http://9gag.com/gag/abADQD9)
+ - 👉 [This dude is something else](http://9gag.com/gag/aZZXz2V)<!-- MEMES:END -->
 
 ---
 
