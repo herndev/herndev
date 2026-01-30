@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 4 Reminds Fans It’s Alive In 2026](https://kotaku.com/borderlands-4-2026-road-map-updates-cross-save-new-loot-dlc-level-cap-increase-2000664254)
- - [No Rest For The Wicked Will Cost As Much As Baldur’s Gate 3 When It Leaves Early Access: ‘I’m Not Trying To Do Any FOMO Marketing Here’](https://kotaku.com/no-rest-wicked-co-op-free-steam-sale-early-access-ps5-2000664252)
- - [One third of US games industry workers were laid off in the last 2 years, GDC survey says](https://www.pcgamer.com/gaming-industry/one-third-of-us-games-industry-workers-were-laid-off-in-the-last-2-years-gdc-survey-says/)<!-- GAME:END -->
+ - [Fallout 76 is free to play until Feb 5, but if you want that sick NCR power armor from the Fallout show, it&#39;s gonna cost you](https://www.pcgamer.com/games/fallout/fallout-76-is-free-to-play-until-feb-5-but-if-you-want-that-sick-ncr-power-armor-from-the-fallout-show-its-gonna-cost-you/)
+ - [Over 50% of game developers now think generative AI is bad for the industry, a dramatic increase from just 2 years ago: &#39;I&#39;d rather quit the industry than use generative AI&#39;](https://www.pcgamer.com/gaming-industry/more-than-half-of-game-developers-now-think-generative-ai-is-bad-for-the-industry-a-dramatic-increase-from-just-2-years-ago-id-rather-quit-the-industry-than-use-generative-ai/)
+ - [Stardew Valley Creator Busts 4 Myths About His Upcoming Haunted Chocolatier Game](https://kotaku.com/haunted-chocolatier-stardew-valley-abandoned-release-date-2000664261)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
