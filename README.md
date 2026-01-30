@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky releases its first transparency report: users rose 60% in 2025 to 41.2M, including AT Protocol accounts; moderation reports from users grew 54% to 9.97M &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260130/p16#a260130p16)
- - [Apple could have used Claude to power a future Siri, but Anthropic got greedy](https://appleinsider.com/articles/26/01/30/apple-could-have-used-claude-to-power-a-future-siri-but-anthropic-got-greedy?utm_source=rss)
- - [ICE invades Minnesota and Minnesotans fight back](https://www.theverge.com/policy/870315/ice-invades-minnesota-and-minnesotans-fight-back)<!-- TECH:END -->
+ - [We finally heard from Trump Mobile… and they immediately ghosted us](https://www.theverge.com/tech/870934/trump-mobile-executive-team-don-hendrickson)
+ - [Google Contacts is modernizing the contact sharing interface](https://www.androidauthority.com/google-contacts-contact-sharing-ui-3636935/)
+ - [Dyson’s powerful 360 Vis Nav robot vacuum is nearly 75 percent off today](https://www.theverge.com/gadgets/870256/dyson-360-vis-nav-robot-vacuum-lego-lotr-balrog-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
