@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare says it mitigated a 31.4 Tbps DDoS attack from the Aisuru/Kimwolf botnet in December 2025, making it the largest attack ever disclosed publicly &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260130/p5#a260130p5)
- - [Blur is the new bold: Here’s how users really feel about Android 17’s frosted updates](https://www.androidauthority.com/android-17-blur-poll-results-3636634/)
- - [The one Kindle feature you should always turn off and why](https://www.androidauthority.com/kindle-popular-highlights-3634804/)<!-- TECH:END -->
+ - [I have a new smart home fear: Getting locked IN](https://www.androidauthority.com/smart-lock-fears-3634816/)
+ - [The small film that answers the big questions](https://www.theverge.com/entertainment/870138/hlynur-palmason-the-love-that-remains-interview)
+ - [New leak reveals more details for some of this year’s most anticipated Android flagships](https://www.androidauthority.com/oppo-find-x9-ultra-find-n6-colors-global-launch-leak-3636737/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
