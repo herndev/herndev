@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crimson Desert is reaching RPG hype levels up there with Skyrim](https://www.polygon.com/what-is-crimson-desert-rpg-open-world-ps5-xbox-release-date-trailer-overview/)
- - [Superman’s new fusion pays tribute to his many Dragon Ball Z ties](https://www.polygon.com/dc-ko-3-superman-shazam-fusion-goku-dragon-ball/)
- - [Legendary Persona ‘Demon Designer’ Will Port 3,600 AI-Generated Cards To His New Switch Game](https://kotaku.com/persona-metaphor-refantazio-kazuma-kaneko-card-game-ai-art-tsukuyomi-2000664583)<!-- GAME:END -->
+ - [Full frontal male nudity is having a major mainstream media moment](https://www.polygon.com/big-dongs-month-knight-seven-kingdoms-28-years-later-bone-temple-pitt/)
+ - [Pokémon Ascended Heroes Is Out And One Card Is Already Going For Over $1,000](https://kotaku.com/pokemon-ascendant-heroes-mega-gengar-ex-2000664572)
+ - [WWE 2K26 gets CM Punk on the cover, new battle passes, and Switch 2 mouse controls](https://www.polygon.com/wwe-2k26-cm-punk-ringside-pass-switch-2-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
