@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung Moves Odyssey Curved Gaming Monitor Into Clearance, 49″ G93SC Series Hits an All-Time Low](https://kotaku.com/samsung-moves-odyssey-curved-gaming-monitor-into-clearance-49-g93sc-series-hits-an-all-time-low-2000664187)
- - [Wonder Man&#39;s villain was &#39;right about everything,&#39; actor says](https://www.polygon.com/wonder-man-arian-moayed-interview/)
- - [Amazon Clears Out 45W Nintendo Switch Charger at Record Low, Compatible With Switch Lite and Steam Deck](https://kotaku.com/amazon-clears-out-45w-nintendo-switch-charger-at-record-low-compatible-with-switch-lite-and-steam-deck-2000664238)<!-- GAME:END -->
+ - [The Pokémon Company Apologizes For Listing Fan Meet-Up At One Of Japan’s Most Controversial Sites](https://kotaku.com/pokemon-tcg-apology-japan-yasukuni-shrine-2000664540)
+ - [FF7 Remake director says it&#39;s hard porting to ‘lower-end’ Switch 2](https://www.polygon.com/ff7-remake-naoki-hamaguchi-switch-2-interview/)
+ - [Next Week on Xbox: New Games for February 2 to 6](https://news.xbox.com/en-us/2026/01/30/next-week-on-xbox-new-games-for-february-2-to-6/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
