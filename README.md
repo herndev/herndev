@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Pokémon Company Apologizes For Listing Fan Meet-Up At One Of Japan’s Most Controversial Sites](https://kotaku.com/pokemon-tcg-apology-japan-yasukuni-shrine-2000664540)
- - [FF7 Remake director says it&#39;s hard porting to ‘lower-end’ Switch 2](https://www.polygon.com/ff7-remake-naoki-hamaguchi-switch-2-interview/)
- - [Next Week on Xbox: New Games for February 2 to 6](https://news.xbox.com/en-us/2026/01/30/next-week-on-xbox-new-games-for-february-2-to-6/)<!-- GAME:END -->
+ - [Microsoft is apparently now going to focus on &#39;improving system performance, reliability, and the overall experience of Windows&#39; which is better than more AI](https://www.pcgamer.com/software/windows/microsoft-is-apparently-now-going-to-focus-on-improving-system-performance-reliability-and-the-overall-experience-of-windows-which-is-better-than-more-ai/)
+ - [Ernie Hudson interview: From losing Ghostbusters to getting Toy Story 5](https://www.polygon.com/ernie-hudson-voiceover-career-ghostbusters-cyborg-transformers-toy-story/)
+ - [People of Note Welcomes Joe Zieja, Erika Ishii, Debra Wilson and More to the Cast!](https://news.xbox.com/en-us/2026/01/30/people-of-note-cast-mashup/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
