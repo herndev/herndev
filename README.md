@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Chinese AI chipmaker Axera aims to raise up to ~$379.2M in a Hong Kong IPO, offering 104.9M shares at ~$3.61 each; trading expected to start February 10 &lpar;Reuters&rpar;](http://www.techmeme.com/260129/p61#a260129p61)
  - [Q&amp;A with Google DeepMind&#39;s Demis Hassabis on AGI, next breakthroughs like continual learning, his vision for AI glasses, whether AI progress is slowing, more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/260129/p60#a260129p60)
- - [Filing: Chinese chip designer Montage plans to raise up to ~$902M in a Hong Kong IPO, pricing shares at ~$13.69, and expects trading to start February 9 &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/260129/p59#a260129p59)
- - [Darren Aronofsky&#39;s Primordial Soup debuts its short-form Revolutionary War series, made using Google DeepMind&#39;s AI tools and human voice actors &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260129/p58#a260129p58)<!-- TECH:END -->
+ - [Filing: Chinese chip designer Montage plans to raise up to ~$902M in a Hong Kong IPO, pricing shares at ~$13.69, and expects trading to start February 9 &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/260129/p59#a260129p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
