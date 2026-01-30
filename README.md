@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why WWE 2K26 is the Right Time to Bring CM Punk’s Story Back to WWE Video Games](https://news.xbox.com/en-us/2026/01/30/wwe-2k26-cm-punk-back-to-wwe-video-games/)
- - [Jujutsu Kaisen episode 52 review: a cinematic masterpiece](https://www.polygon.com/jujutsu-kaisen-season-3-episode-52-passion-anime-rotoscoped-sequence/)
- - [Full frontal male nudity is having a major mainstream media moment](https://www.polygon.com/big-dongs-month-knight-seven-kingdoms-28-years-later-bone-temple-pitt/)<!-- GAME:END -->
+ - [Crosak: Tips, Tricks, and Secrets of a Multi-Gravity Play-Dough Universe](https://news.xbox.com/en-us/2026/01/30/crosak-tips-tricks-and-secrets/)
+ - [Highguard Devs Make A Big Change As Player Count Nosedives](https://kotaku.com/highguard-big-update-free-shooter-future-patch-notes-wildlight-2000664584)
+ - [The Internet Reacts To The Death Of Catherine O’Hara](https://kotaku.com/catherine-ohara-death-died-reaction-tmz-pedro-pascal-2000664620)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
