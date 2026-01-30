@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s why I ditched the ‘everything app’ and switched back to Google Keep](https://www.androidauthority.com/why-i-ditched-notion-for-google-keep-3635125/)
- - [Sources: China has given DeepSeek approval to buy Nvidia&#39;s H200 AI chips but imposes regulatory conditions, which are still being finalized &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/260130/p3#a260130p3)
- - [The FCC wants frustrated customers to snitch on Verizon after its massive outage](https://www.androidauthority.com/fcc-probe-on-verizon-outage-3636682/)<!-- TECH:END -->
+ - [Cloudflare says it mitigated a 31.4 Tbps DDoS attack from the Aisuru/Kimwolf botnet in December 2025, making it the largest attack ever disclosed publicly &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/260130/p5#a260130p5)
+ - [Blur is the new bold: Here’s how users really feel about Android 17’s frosted updates](https://www.androidauthority.com/android-17-blur-poll-results-3636634/)
+ - [The one Kindle feature you should always turn off and why](https://www.androidauthority.com/kindle-popular-highlights-3634804/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
