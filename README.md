@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sequoia National Park, California.](http://9gag.com/gag/a7og6Gw)
- - ⏩ [Feeding Charlotte at the farm.](http://9gag.com/gag/aVvr4XP)
- - 👉 [You&#39;re just lucky the teachers are all 20-something horndogs](http://9gag.com/gag/a6Zg4O2)<!-- MEMES:END -->
+ - 💣 [Nolan what have you done?](http://9gag.com/gag/aAyANLg)
+ - ⏩ [To the 9gager who recommended The Outpost as a must watch my most sincere thanks good sir, it really has all in fantasy genre &lpar;I&#39;m currently at season 4th&rpar;... And to the geh who recommended me Alice in Borderlands I wish you the worst...](http://9gag.com/gag/a34gpG7)
+ - 👉 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)<!-- MEMES:END -->
 
 ---
 
