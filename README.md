@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Your Friends &amp; Neighbors&#39; returning to Apple TV for third season](https://appleinsider.com/articles/26/02/02/your-friends-neighbors-returning-to-apple-tv-for-third-season?utm_source=rss)
- - [Amazon launches $299 iPad 11 deal for February](https://appleinsider.com/articles/26/02/02/amazon-launches-299-ipad-11-deal-for-february?utm_source=rss)
- - [Shield, which acquires IT businesses and uses AI to make them efficient, raised $100M from Thrive Holdings and says it crossed $100M in annual revenue in 2025 &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260202/p27#a260202p27)<!-- TECH:END -->
+ - [The Ring app is now a must-have for all dog owners after this change](https://www.androidauthority.com/ring-search-party-for-dogs-available-for-all-3637284/)
+ - [Barcelona-based Biorce, which is developing an AI service to speed up clinical trials, raised a $52.5M Series A, bringing its total funding to $60M+ &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260202/p29#a260202p29)
+ - [Abxylute’s new Switch 2 controller is for all the die-hard GameCube fans](https://www.theverge.com/tech/872223/abxylute-nintendo-switch-2-controller-n6-n9c-gamecube-retro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
