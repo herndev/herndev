@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [HR is watching you](http://9gag.com/gag/a0egxGz)
- - ⏩ [Korean Invasion](http://9gag.com/gag/a9ywVp6)
- - 👉 [The day when Skype fell down](http://9gag.com/gag/azxyoVq)<!-- MEMES:END -->
+ - ⏩ [All right stop, collaborate and listen](http://9gag.com/gag/aKGZNw6)
+ - 👉 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)<!-- MEMES:END -->
 
 ---
 
