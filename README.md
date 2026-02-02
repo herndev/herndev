@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HR is watching you](http://9gag.com/gag/a0egxGz)
- - ⏩ [All right stop, collaborate and listen](http://9gag.com/gag/aKGZNw6)
- - 👉 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)<!-- MEMES:END -->
+ - 💣 [All right stop, collaborate and listen](http://9gag.com/gag/aKGZNw6)
+ - ⏩ [Next Level Sorry](http://9gag.com/gag/aVvr1NO)
+ - 👉 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)<!-- MEMES:END -->
 
 ---
 
