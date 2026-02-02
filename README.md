@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s last-gen, but still great 1000XM5 are cheaper than ever](https://www.theverge.com/gadgets/872182/sony-xm5-noise-canceling-headphones-super-bowl-tv-deal-sale)
- - [OpenClaw: all the news about the trending AI agent](https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news)
- - [Wiz says Moltbook had a major flaw that exposed private messages, emails, and credentials; Wiz co-founder Ami Luttwak called the flaw a byproduct of vibe coding &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260202/p24#a260202p24)<!-- TECH:END -->
+ - [&#39;Your Friends &amp; Neighbors&#39; returning to Apple TV for third season](https://appleinsider.com/articles/26/02/02/your-friends-neighbors-returning-to-apple-tv-for-third-season?utm_source=rss)
+ - [Amazon launches $299 iPad 11 deal for February](https://appleinsider.com/articles/26/02/02/amazon-launches-299-ipad-11-deal-for-february?utm_source=rss)
+ - [Shield, which acquires IT businesses and uses AI to make them efficient, raised $100M from Thrive Holdings and says it crossed $100M in annual revenue in 2025 &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260202/p27#a260202p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
