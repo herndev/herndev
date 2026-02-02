@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A trusted leaker just gave us a close look at the Galaxy S26 Ultra](https://www.androidauthority.com/samsung-galaxy-s26-ultra-official-render-leak-3637072/)
  - [French IT company Capgemini plans to sell its US subsidiary Capgemini Government Solutions, whose contract with the US ICE drew scrutiny from French lawmakers &lpar;Sybille de La Hamaide/Reuters&rpar;](http://www.techmeme.com/260202/p1#a260202p1)
- - [Anthropic researchers detail &quot;disempowerment patterns&quot; in AI assistant interactions where AI potentially distorts a user&#39;s reality, beliefs, or actions &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/260201/p22#a260201p22)
- - [TikTok US says it has resolved technical issues caused by an Oracle data center outage; core features such as video view counts were impacted over the past week &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260201/p21#a260201p21)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 2, #497](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-2-497/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
