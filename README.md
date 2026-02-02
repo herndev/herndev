@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s Grok is still undressing men](https://www.theverge.com/report/872062/grok-still-undressing-men)
- - [How terrible - the insanely wealthy are confounded by Call Screening](https://appleinsider.com/articles/26/02/02/how-terrible---the-insanely-wealthy-are-confounded-by-call-screening?utm_source=rss)
- - [Now anyone can tap Ring doorbells to search for lost dogs](https://www.theverge.com/tech/871916/search-party-non-ring-owners-neighbors-app)<!-- TECH:END -->
+ - [Snowflake and OpenAI agree to a multi-year, $200M partnership to integrate OpenAI&#39;s models into Snowflake Cortex AI and the Snowflake Intelligence agent &lpar;Sabrina Ortiz/The Deep View&rpar;](http://www.techmeme.com/260202/p22#a260202p22)
+ - [The Epstein files](https://www.theverge.com/policy/872092/jeffrey-epstein-files-doj-trump-musk-brin-gates)
+ - [Two years after release, Apple still hasn&#39;t decided what to do with Apple Vision Pro](https://appleinsider.com/articles/26/02/02/two-years-after-release-apple-still-hasnt-decided-what-to-do-with-apple-vision-pro?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
