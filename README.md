@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex Machina&#39;s greatest achievement still gets overlooked](https://www.polygon.com/ex-machina-review-now-on-netflix/)
- - [&#39;TSMC needs to work very hard this year because I need a lot of wafers&#39; says Nvidia CEO Jensen Huang outside a &#39;trillion-dollar dinner&#39; for top tech manufacturers in Taiwan](https://www.pcgamer.com/hardware/tsmc-needs-to-work-very-hard-this-year-because-i-need-a-lot-of-wafers-says-nvidia-ceo-jensen-huang-outside-a-trillion-dollar-dinner-for-top-tech-manufacturers-in-taiwan/)
- - [YouTuber movie Iron Lung is a box office hit, despite alleged attempts to delist it](https://www.polygon.com/iron-lung-movie-markiplier-box-office-delisted/)<!-- GAME:END -->
+ - [This Frankenstein-ed RTX 5070 Ti with a hole in it has just set a world record benchmark score and it&#39;s the most cursed-looking graphics card I&#39;ve ever seen](https://www.pcgamer.com/hardware/graphics-cards/this-frankenstein-ed-rtx-5070-ti-with-a-hole-in-it-has-just-set-a-world-record-benchmark-score-and-its-the-most-cursed-looking-graphics-card-ive-ever-seen/)
+ - [Google Pixel Watch 3 Crashes Below January’s Low, and the 45mm Is Now Cheaper Than the 41mm](https://kotaku.com/google-pixel-watch-3-crashes-below-januarys-low-and-the-45mm-is-now-cheaper-than-the-41mm-2000664840)
+ - [Xbox Wireless Gaming Controller Holds at Its Lowest Price of the Year While PlayStation DualSense Stays at Its Regular Price](https://kotaku.com/xbox-wireless-gaming-controller-holds-at-its-lowest-price-of-the-year-while-playstation-dualsense-stays-at-its-regular-price-2000664676)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
