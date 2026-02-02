@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: a KKR-led consortium is nearing a deal to buy Singapore-based ST Telemedia Global Data Centers for $10B+, as Asia sees a data center investment frenzy &lpar;P.R. Venkat/Wall Street Journal&rpar;](http://www.techmeme.com/260202/p6#a260202p6)
- - [OpenSourceMalware: 230 malicious OpenClaw extensions, disguised as crypto trading automation tools to steal user info, were uploaded to ClawHub since January 27 &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260202/p5#a260202p5)
- - [This upcoming Ultra flagship could cost more, but do less globally](https://www.androidauthority.com/xiaomi-17-ultra-price-battery-info-leak-3637108/)<!-- TECH:END -->
+ - [I disabled the AICore app on my Samsung phone, and here’s why you might want to](https://www.androidauthority.com/disable-aicore-samsung-3635371/)
+ - [5 of the best new Android apps you need to try this February](https://www.androidauthority.com/best-android-apps-games-february-2026-3637111/)
+ - [I installed Android on an Echo Show, and it gave my smart display a new life](https://www.androidauthority.com/echo-show-5-jailbreak-lineageos-3636721/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
