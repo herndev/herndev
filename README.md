@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
- - ⏩ [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)
- - 👉 [HR is watching you](http://9gag.com/gag/a0egxGz)<!-- MEMES:END -->
+ - 💣 [HR is watching you](http://9gag.com/gag/a0egxGz)
+ - ⏩ [Korean Invasion](http://9gag.com/gag/a9ywVp6)
+ - 👉 [The day when Skype fell down](http://9gag.com/gag/azxyoVq)<!-- MEMES:END -->
 
 ---
 
