@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Doom fan with weeks left to live decides to spend them playing Doom: The Dark Ages](https://www.polygon.com/doom-the-dark-ages-terminally-ill-fan-last-wishes-id-software/)
- - [&#39;Everybody who worked at Nvidia in the early days really wanted to make a game console&#39; says senior VP of engineering Andrew Bell: &#39;Selfishly, a little bit, we built Shield for ourselves&#39;](https://www.pcgamer.com/hardware/everybody-who-worked-at-nvidia-in-the-early-days-really-wanted-to-make-a-game-console-says-senior-vp-of-engineering-andrew-bell-selfishly-a-little-bit-we-built-shield-for-ourselves/)
- - [Marvel&#39;s ex-CEO Peter Cuneo on launching the MCU, selling to Disney, and recent box office flops](https://www.polygon.com/former-marvel-ceo-on-his-book-disney-sale-and-post-endgame-struggles/)<!-- GAME:END -->
+ - [Larian publishing chief wades into the fray, says Morrowind updated with a modern combat system &#39;would sell like f**king hotcakes&#39;](https://www.pcgamer.com/games/rpg/larian-publishing-chief-wades-into-the-fray-says-morrowind-updated-with-a-modern-combat-system-would-sell-like-f-king-hotcakes/)
+ - [Steam Controller re-review: A fresh look at Valve&#39;s flawed but influential 10-year-old controller](https://www.pcgamer.com/hardware/controllers/steam-controller-re-review-a-fresh-look-at-valves-flawed-but-influential-10-year-old-controller/)
+ - [Cairn developers &#39;couldn&#39;t be happier&#39; as they celebrate 200,000 copies sold: &#39;We hope you feel the passion we baked into the mountain&#39;](https://www.pcgamer.com/games/action/cairn-developers-couldnt-be-happier-as-they-celebrate-200-000-copies-sold-we-hope-you-feel-the-passion-we-baked-into-the-mountain/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
