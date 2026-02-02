@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)
- - ⏩ [HR is watching you](http://9gag.com/gag/a0egxGz)
- - 👉 [In hindsight, you can see why](http://9gag.com/gag/axyKQzn)<!-- MEMES:END -->
+ - 💣 [Unspeakable acts](http://9gag.com/gag/ajPvMpx)
+ - ⏩ [To oblivion](http://9gag.com/gag/ae9zdLj)
+ - 👉 [Feeding Charlotte at the farm.](http://9gag.com/gag/aVvr4XP)<!-- MEMES:END -->
 
 ---
 
