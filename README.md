@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snowflake and OpenAI agree to a multi-year, $200M partnership to integrate OpenAI&#39;s models into Snowflake Cortex AI and the Snowflake Intelligence agent &lpar;Sabrina Ortiz/The Deep View&rpar;](http://www.techmeme.com/260202/p22#a260202p22)
- - [The Epstein files](https://www.theverge.com/policy/872092/jeffrey-epstein-files-doj-trump-musk-brin-gates)
- - [Two years after release, Apple still hasn&#39;t decided what to do with Apple Vision Pro](https://appleinsider.com/articles/26/02/02/two-years-after-release-apple-still-hasnt-decided-what-to-do-with-apple-vision-pro?utm_source=rss)<!-- TECH:END -->
+ - [Sony’s last-gen, but still great 1000XM5 are cheaper than ever](https://www.theverge.com/gadgets/872182/sony-xm5-noise-canceling-headphones-super-bowl-tv-deal-sale)
+ - [OpenClaw: all the news about the trending AI agent](https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news)
+ - [Wiz says Moltbook had a major flaw that exposed private messages, emails, and credentials; Wiz co-founder Ami Luttwak called the flaw a byproduct of vibe coding &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260202/p24#a260202p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
