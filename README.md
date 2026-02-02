@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HR is watching you](http://9gag.com/gag/a0egxGz)
- - ⏩ [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
- - 👉 [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)<!-- MEMES:END -->
+ - 💣 [Unspeakable acts](http://9gag.com/gag/ajPvMpx)
+ - ⏩ [To oblivion](http://9gag.com/gag/ae9zdLj)
+ - 👉 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)<!-- MEMES:END -->
 
 ---
 
