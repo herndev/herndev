@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I disabled the AICore app on my Samsung phone, and here’s why you might want to](https://www.androidauthority.com/disable-aicore-samsung-3635371/)
- - [5 of the best new Android apps you need to try this February](https://www.androidauthority.com/best-android-apps-games-february-2026-3637111/)
- - [I installed Android on an Echo Show, and it gave my smart display a new life](https://www.androidauthority.com/echo-show-5-jailbreak-lineageos-3636721/)<!-- TECH:END -->
+ - [The US&#39; high-speed internet rollout means drillers, linemen, and splicers pull in soaring pay nationwide amid a labor shortage for the physically demanding work &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/260202/p13#a260202p13)
+ - [The Pixel 10a looks like a lazy update, and that’s exactly why I love it](https://www.androidauthority.com/pixel-10a-lazy-update-leaks-love-why-3636899/)
+ - [5 Movies You Must Watch Before the 2026 Winter Olympics](https://www.wired.com/gallery/5-movies-to-watch-before-2026-winter-olympics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
