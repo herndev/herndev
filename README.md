@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unspeakable acts](http://9gag.com/gag/ajPvMpx)
- - ⏩ [To oblivion](http://9gag.com/gag/ae9zdLj)
- - 👉 [Feeding Charlotte at the farm.](http://9gag.com/gag/aVvr4XP)<!-- MEMES:END -->
+ - 💣 [Next Level Sorry](http://9gag.com/gag/aVvr1NO)
+ - ⏩ [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
+ - 👉 [HR is watching you](http://9gag.com/gag/a0egxGz)<!-- MEMES:END -->
 
 ---
 
