@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Frankenstein-ed RTX 5070 Ti with a hole in it has just set a world record benchmark score and it&#39;s the most cursed-looking graphics card I&#39;ve ever seen](https://www.pcgamer.com/hardware/graphics-cards/this-frankenstein-ed-rtx-5070-ti-with-a-hole-in-it-has-just-set-a-world-record-benchmark-score-and-its-the-most-cursed-looking-graphics-card-ive-ever-seen/)
- - [Google Pixel Watch 3 Crashes Below January’s Low, and the 45mm Is Now Cheaper Than the 41mm](https://kotaku.com/google-pixel-watch-3-crashes-below-januarys-low-and-the-45mm-is-now-cheaper-than-the-41mm-2000664840)
- - [Xbox Wireless Gaming Controller Holds at Its Lowest Price of the Year While PlayStation DualSense Stays at Its Regular Price](https://kotaku.com/xbox-wireless-gaming-controller-holds-at-its-lowest-price-of-the-year-while-playstation-dualsense-stays-at-its-regular-price-2000664676)<!-- GAME:END -->
+ - [The Last Of Us Might Not Get A Fourth Season, Actually](https://kotaku.com/the-last-of-us-hbo-show-season-4-final-catherine-ohara-2000665018)
+ - [Apple AirPods Max Quietly Drop to an All-Time Low, Midnight Color Gets the Biggest Cut](https://kotaku.com/apple-airpods-max-quietly-drop-to-an-all-time-low-midnight-color-gets-the-biggest-cut-2000664284)
+ - [Stranger Things: Tales from &#39;85&#39;s trailer unleashes a mutant Demogorgon](https://www.polygon.com/stranger-things-tales-from-85-trailer-release-demogorgons/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
