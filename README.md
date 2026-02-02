@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [James Cameron&#39;s subversive aquatic horror, The Abyss, is now streaming on Tubi](https://www.polygon.com/james-cameron-the-abyss-streaming-tubi-free/)
- - [Fullmetal Alchemist author&#39;s new anime reveals release date](https://www.polygon.com/demons-shadow-realm-release-date-trailer-arakawa-fullmetal-alchemist/)
- - [&#39;What a disappointment&#39;: Arc Raiders players aren&#39;t happy with the latest Trophy Display project, namely because there&#39;s no trophy at the end of it](https://www.pcgamer.com/games/third-person-shooter/what-a-disappointment-arc-raiders-players-arent-happy-with-the-latest-trophy-display-project-namely-because-theres-no-trophy-at-the-end-of-it/)<!-- GAME:END -->
+ - [Doom fan with weeks left to live decides to spend them playing Doom: The Dark Ages](https://www.polygon.com/doom-the-dark-ages-terminally-ill-fan-last-wishes-id-software/)
+ - [&#39;Everybody who worked at Nvidia in the early days really wanted to make a game console&#39; says senior VP of engineering Andrew Bell: &#39;Selfishly, a little bit, we built Shield for ourselves&#39;](https://www.pcgamer.com/hardware/everybody-who-worked-at-nvidia-in-the-early-days-really-wanted-to-make-a-game-console-says-senior-vp-of-engineering-andrew-bell-selfishly-a-little-bit-we-built-shield-for-ourselves/)
+ - [Marvel&#39;s ex-CEO Peter Cuneo on launching the MCU, selling to Disney, and recent box office flops](https://www.polygon.com/former-marvel-ceo-on-his-book-disney-sale-and-post-endgame-struggles/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
