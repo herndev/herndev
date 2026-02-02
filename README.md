@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Code Vein 2 interactive map](https://www.polygon.com/code-vein-2-interactive-map/)
  - [Who is Egg from A Knight of The Seven Kingdoms? Aegon Targaryen V and his Game of Thrones role, explained](https://www.polygon.com/who-is-egg-explained-knight-of-the-seven-kingdoms-king-aegon-v/)
- - [id Software&#39;s second FPS only brought in $5,000, and the studio might not have made Wolfenstein and Doom if the game hadn&#39;t made a dev fall out of his chair: &#39;That was just one of the craziest things in a videogame I&#39;d ever seen&#39;](https://www.pcgamer.com/games/fps/id-softwares-second-fps-only-brought-in-usd5-000-and-the-studio-might-not-have-made-wolfenstein-and-doom-if-the-game-hadnt-made-a-dev-fall-out-of-his-chair-that-was-just-one-of-the-craziest-things-in-a-videogame-id-ever-seen/)
- - [2 days after promising it was still &#39;worthy of your investment,&#39; the most successful Kickstarter MMO ever was canceled and its team laid off: &#39;The developers and staff acted in good faith and deserved better&#39;](https://www.pcgamer.com/games/mmo/2-days-after-promising-it-was-still-worthy-of-your-investment-the-most-successful-kickstarter-mmo-ever-was-canceled-and-its-team-laid-off-the-developers-and-staff-acted-in-good-faith-and-deserved-better/)<!-- GAME:END -->
+ - [id Software&#39;s second FPS only brought in $5,000, and the studio might not have made Wolfenstein and Doom if the game hadn&#39;t made a dev fall out of his chair: &#39;That was just one of the craziest things in a videogame I&#39;d ever seen&#39;](https://www.pcgamer.com/games/fps/id-softwares-second-fps-only-brought-in-usd5-000-and-the-studio-might-not-have-made-wolfenstein-and-doom-if-the-game-hadnt-made-a-dev-fall-out-of-his-chair-that-was-just-one-of-the-craziest-things-in-a-videogame-id-ever-seen/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
