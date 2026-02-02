@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with D‑Wave CEO Alan Baratz on the Quantum Circuits acquisition, error-correcting quantum systems, its Davidson and Anduril defense collaboration, and more &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260202/p2#a260202p2)
  - [A trusted leaker just gave us a close look at the Galaxy S26 Ultra](https://www.androidauthority.com/samsung-galaxy-s26-ultra-official-render-leak-3637072/)
- - [French IT company Capgemini plans to sell its US subsidiary Capgemini Government Solutions, whose contract with the US ICE drew scrutiny from French lawmakers &lpar;Sybille de La Hamaide/Reuters&rpar;](http://www.techmeme.com/260202/p1#a260202p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 2, #497](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-2-497/)<!-- TECH:END -->
+ - [French IT company Capgemini plans to sell its US subsidiary Capgemini Government Solutions, whose contract with the US ICE drew scrutiny from French lawmakers &lpar;Sybille de La Hamaide/Reuters&rpar;](http://www.techmeme.com/260202/p1#a260202p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
