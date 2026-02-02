@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Next Level Sorry](http://9gag.com/gag/aVvr1NO)
- - ⏩ [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
- - 👉 [In 2009 a young model named Gabriela Jim\u00e9nez yelled on camera that she had witnessed elite socialites eating humans before being arrested She was dismissed as crazy 17 years later - the Epstein files say she was right all along Has she been seen since?](http://9gag.com/gag/a87NQqe)<!-- MEMES:END -->
+ - 💣 [Sequoia National Park, California.](http://9gag.com/gag/a7og6Gw)
+ - ⏩ [Feeding Charlotte at the farm.](http://9gag.com/gag/aVvr4XP)
+ - 👉 [You&#39;re just lucky the teachers are all 20-something horndogs](http://9gag.com/gag/a6Zg4O2)<!-- MEMES:END -->
 
 ---
 
