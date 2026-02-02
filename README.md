@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [id Software&#39;s second FPS only brought in $5,000, and the studio might not have made Wolfenstein and Doom if the game hadn&#39;t made a dev fall out of his chair: &#39;That was just one of the craziest things in a videogame I&#39;d ever seen&#39;](https://www.pcgamer.com/games/fps/id-softwares-second-fps-only-brought-in-usd5-000-and-the-studio-might-not-have-made-wolfenstein-and-doom-if-the-game-hadnt-made-a-dev-fall-out-of-his-chair-that-was-just-one-of-the-craziest-things-in-a-videogame-id-ever-seen/)
  - [2 days after promising it was still &#39;worthy of your investment,&#39; the most successful Kickstarter MMO ever was canceled and its team laid off: &#39;The developers and staff acted in good faith and deserved better&#39;](https://www.pcgamer.com/games/mmo/2-days-after-promising-it-was-still-worthy-of-your-investment-the-most-successful-kickstarter-mmo-ever-was-canceled-and-its-team-laid-off-the-developers-and-staff-acted-in-good-faith-and-deserved-better/)
- - [&#39;We need to get the funniest person we can possibly find&#39;: Helldivers 2&#39;s lead writer had seven days to cast John Helldiver, the face of the game&#39;s beloved intro cinematic](https://www.pcgamer.com/games/third-person-shooter/we-need-to-get-the-funniest-person-we-can-possibly-find-helldivers-2s-lead-writer-had-seven-days-to-cast-john-helldiver-the-face-of-the-games-beloved-intro-cinematic/)
- - [&#39;What the f**k&#39;: Iron Lung creator puzzled as Markiplier&#39;s film adaptation quadruples its budget in one day, beating out Melania and Send Help at the box office](https://www.pcgamer.com/movies-tv/what-the-f-k-iron-lung-creator-puzzled-as-markipliers-film-adaptation-quadruples-its-budget-in-one-day-beating-out-melania-and-send-help-at-the-box-office/)<!-- GAME:END -->
+ - [&#39;We need to get the funniest person we can possibly find&#39;: Helldivers 2&#39;s lead writer had seven days to cast John Helldiver, the face of the game&#39;s beloved intro cinematic](https://www.pcgamer.com/games/third-person-shooter/we-need-to-get-the-funniest-person-we-can-possibly-find-helldivers-2s-lead-writer-had-seven-days-to-cast-john-helldiver-the-face-of-the-games-beloved-intro-cinematic/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
