@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [3 Best Floodlight Security Cameras &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-floodlight-security-cameras/)
- - [The latest T-Mobile Tuesdays freebie is a touchdown for football fans](https://www.androidauthority.com/t-mobile-tuesday-football-platter-freebie-3637168/)
- - [AI demand forcing Apple to look for alternatives to TSMC](https://appleinsider.com/articles/26/02/02/ai-demand-forcing-apple-to-look-for-alternatives-to-tsmc?utm_source=rss)<!-- TECH:END -->
+ - [Elon Musk’s Grok is still undressing men](https://www.theverge.com/report/872062/grok-still-undressing-men)
+ - [How terrible - the insanely wealthy are confounded by Call Screening](https://appleinsider.com/articles/26/02/02/how-terrible---the-insanely-wealthy-are-confounded-by-call-screening?utm_source=rss)
+ - [Now anyone can tap Ring doorbells to search for lost dogs](https://www.theverge.com/tech/871916/search-party-non-ring-owners-neighbors-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
