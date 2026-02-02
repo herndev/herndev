@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Apple Pencil Alternative Drops 43% to a New Record Low, Compatible With iPad Pro and iPad Mini](https://kotaku.com/this-apple-pencil-alternative-drops-43-to-a-new-record-low-compatible-with-ipad-pro-and-ipad-mini-2000664837)
- - [Magneto Is Out Here Spoiling Avengers: Doomsday: ‘I Probably Shouldn’t Have Said That’](https://kotaku.com/ian-mckellen-avengers-doomsday-magneto-spoiler-new-jersey-2000665035)
- - [Dragon Quest 7 Reimagined is a must-play JRPG remake](https://www.polygon.com/dragon-quest-7-reimagined-review/)<!-- GAME:END -->
+ - [James Cameron&#39;s subversive aquatic horror, The Abyss, is now streaming on Tubi](https://www.polygon.com/james-cameron-the-abyss-streaming-tubi-free/)
+ - [Fullmetal Alchemist author&#39;s new anime reveals release date](https://www.polygon.com/demons-shadow-realm-release-date-trailer-arakawa-fullmetal-alchemist/)
+ - [&#39;What a disappointment&#39;: Arc Raiders players aren&#39;t happy with the latest Trophy Display project, namely because there&#39;s no trophy at the end of it](https://www.pcgamer.com/games/third-person-shooter/what-a-disappointment-arc-raiders-players-arent-happy-with-the-latest-trophy-display-project-namely-because-theres-no-trophy-at-the-end-of-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
