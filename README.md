@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
+ - 💣 [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
  - ⏩ [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)
- - 👉 [Imagine the outcry if this happens outside of US](http://9gag.com/gag/aVvr1y8)<!-- MEMES:END -->
+ - 👉 [HR is watching you](http://9gag.com/gag/a0egxGz)<!-- MEMES:END -->
 
 ---
 
