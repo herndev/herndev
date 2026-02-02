@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Larian publishing chief wades into the fray, says Morrowind updated with a modern combat system &#39;would sell like f**king hotcakes&#39;](https://www.pcgamer.com/games/rpg/larian-publishing-chief-wades-into-the-fray-says-morrowind-updated-with-a-modern-combat-system-would-sell-like-f-king-hotcakes/)
- - [Steam Controller re-review: A fresh look at Valve&#39;s flawed but influential 10-year-old controller](https://www.pcgamer.com/hardware/controllers/steam-controller-re-review-a-fresh-look-at-valves-flawed-but-influential-10-year-old-controller/)
- - [Cairn developers &#39;couldn&#39;t be happier&#39; as they celebrate 200,000 copies sold: &#39;We hope you feel the passion we baked into the mountain&#39;](https://www.pcgamer.com/games/action/cairn-developers-couldnt-be-happier-as-they-celebrate-200-000-copies-sold-we-hope-you-feel-the-passion-we-baked-into-the-mountain/)<!-- GAME:END -->
+ - [Podracing Confirmed For 2026’s Coolest-Looking Star Wars Game](https://kotaku.com/star-wars-galactic-racer-racing-game-podracing-confirmed-2000665131)
+ - [Everything Continues To Get More Expensive, Including Anime On Crunchyroll](https://kotaku.com/crunchyroll-price-increase-us-fan-tier-march-streaming-anime-2000665126)
+ - [Bethesda keeps the Fallout remaster hopium flowing by showing Aaron Moten inside Fallout 3 and New Vegas](https://www.pcgamer.com/movies-tv/bethesda-keeps-the-fallout-remaster-hopium-flowing-by-putting-aaron-moten-inside-fallout-3-and-new-vegas/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
