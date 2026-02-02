@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Ring app is now a must-have for all dog owners after this change](https://www.androidauthority.com/ring-search-party-for-dogs-available-for-all-3637284/)
- - [Barcelona-based Biorce, which is developing an AI service to speed up clinical trials, raised a $52.5M Series A, bringing its total funding to $60M+ &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/260202/p29#a260202p29)
- - [Abxylute’s new Switch 2 controller is for all the die-hard GameCube fans](https://www.theverge.com/tech/872223/abxylute-nintendo-switch-2-controller-n6-n9c-gamecube-retro)<!-- TECH:END -->
+ - [Oracle says the Nvidia-OpenAI deal has &quot;zero impact&quot; on its financial relationship with OpenAI and it is &quot;highly confident in OpenAI&#39;s ability to raise funds&quot; &lpar;@oracle&rpar;](http://www.techmeme.com/260202/p41#a260202p41)
+ - [Adobe Animate is shutting down next month](https://www.theverge.com/news/872731/adobe-animate-app-shutdown-date)
+ - [Source: SpaceX acquired xAI for $250B; the announcement about the acquisition focuses on SpaceX&#39;s plans to launch data centers into space &lpar;The Information&rpar;](http://www.techmeme.com/260202/p40#a260202p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
