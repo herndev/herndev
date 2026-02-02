@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Lorcana’s Winterspell won me over when I leaned into silly nostalgia](https://www.polygon.com/lorcana-winterspell-disney-preview-darkwing-duck-deck/)
- - [Code Vein 2 interactive map](https://www.polygon.com/code-vein-2-interactive-map/)
- - [Who is Egg from A Knight of The Seven Kingdoms? Aegon Targaryen V and his Game of Thrones role, explained](https://www.polygon.com/who-is-egg-explained-knight-of-the-seven-kingdoms-king-aegon-v/)<!-- GAME:END -->
+ - [Ex Machina&#39;s greatest achievement still gets overlooked](https://www.polygon.com/ex-machina-review-now-on-netflix/)
+ - [&#39;TSMC needs to work very hard this year because I need a lot of wafers&#39; says Nvidia CEO Jensen Huang outside a &#39;trillion-dollar dinner&#39; for top tech manufacturers in Taiwan](https://www.pcgamer.com/hardware/tsmc-needs-to-work-very-hard-this-year-because-i-need-a-lot-of-wafers-says-nvidia-ceo-jensen-huang-outside-a-trillion-dollar-dinner-for-top-tech-manufacturers-in-taiwan/)
+ - [YouTuber movie Iron Lung is a box office hit, despite alleged attempts to delist it](https://www.polygon.com/iron-lung-movie-markiplier-box-office-delisted/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
