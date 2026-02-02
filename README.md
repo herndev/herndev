@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI conferences have rushed to restrict the use of LLMs for writing and reviewing research papers in recent months after being flooded with AI-generated slop &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260202/p3#a260202p3)
- - [Q&amp;A with D‑Wave CEO Alan Baratz on the Quantum Circuits acquisition, error-correcting quantum systems, its Davidson and Anduril defense collaboration, and more &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260202/p2#a260202p2)
- - [A trusted leaker just gave us a close look at the Galaxy S26 Ultra](https://www.androidauthority.com/samsung-galaxy-s26-ultra-official-render-leak-3637072/)<!-- TECH:END -->
+ - [Sources: a KKR-led consortium is nearing a deal to buy Singapore-based ST Telemedia Global Data Centers for $10B+, as Asia sees a data center investment frenzy &lpar;P.R. Venkat/Wall Street Journal&rpar;](http://www.techmeme.com/260202/p6#a260202p6)
+ - [OpenSourceMalware: 230 malicious OpenClaw extensions, disguised as crypto trading automation tools to steal user info, were uploaded to ClawHub since January 27 &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260202/p5#a260202p5)
+ - [This upcoming Ultra flagship could cost more, but do less globally](https://www.androidauthority.com/xiaomi-17-ultra-price-battery-info-leak-3637108/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
