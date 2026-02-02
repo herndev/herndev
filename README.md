@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the clash between Coinbase and Wall Street over the Clarity Act and whether crypto exchanges can offer stablecoin &quot;rewards&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260130/p27#a260130p27)
- - [The latest Android color E Ink tablet is coming for your laptop](https://www.androidauthority.com/bigme-b10-tablet-launch-3637013/)
- - [Right-Wing Gun Enthusiasts and Extremists Are Working Overtime to Justify Alex Pretti’s Killing](https://www.wired.com/story/right-wing-gun-enthusiasts-and-extremists-are-working-overtime-to-justify-alex-prettis-killing/)<!-- TECH:END -->
+ - [Oracle says it plans to raise $45B to $50B in 2026 to build additional capacity for its cloud infrastructure through a combination of debt and equity sales &lpar;Vincent Lee/Bloomberg&rpar;](http://www.techmeme.com/260201/p19#a260201p19)
+ - [SpaceX and Tesla are feeling the gravitational pull toward xAI, as Elon Musk looks to use his empire to fund xAI&#39;s ravenous appetite for cash and compute &lpar;Bloomberg&rpar;](http://www.techmeme.com/260201/p18#a260201p18)
+ - [Survey of 100 companies in the Global 2000 on AI use: 78% of CIOs use OpenAI models in production vs. 44% for Anthropic, but Anthropic&#39;s gains are impressive &lpar;a16z&rpar;](http://www.techmeme.com/260201/p17#a260201p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
