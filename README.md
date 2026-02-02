@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Repost | Jail House Rock](http://9gag.com/gag/aE0KOAx)
- - ⏩ [It kinda looks like one of those moment where I would say I usually don&#39;t run, so if you see me running. You should probably run too](http://9gag.com/gag/axyK4O1)
- - 👉 [This dude is something else](http://9gag.com/gag/aZZXz2V)<!-- MEMES:END -->
+ - 💣 [1,500 dollar fine in the end](http://9gag.com/gag/aD29NDw)
+ - ⏩ [Gen Z and alcohol](http://9gag.com/gag/azxyDbz)
+ - 👉 [Imagine the outcry if this happens outside of US](http://9gag.com/gag/aVvr1y8)<!-- MEMES:END -->
 
 ---
 
