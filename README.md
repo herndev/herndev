@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last Of Us Might Not Get A Fourth Season, Actually](https://kotaku.com/the-last-of-us-hbo-show-season-4-final-catherine-ohara-2000665018)
- - [Apple AirPods Max Quietly Drop to an All-Time Low, Midnight Color Gets the Biggest Cut](https://kotaku.com/apple-airpods-max-quietly-drop-to-an-all-time-low-midnight-color-gets-the-biggest-cut-2000664284)
- - [Stranger Things: Tales from &#39;85&#39;s trailer unleashes a mutant Demogorgon](https://www.polygon.com/stranger-things-tales-from-85-trailer-release-demogorgons/)<!-- GAME:END -->
+ - [This Apple Pencil Alternative Drops 43% to a New Record Low, Compatible With iPad Pro and iPad Mini](https://kotaku.com/this-apple-pencil-alternative-drops-43-to-a-new-record-low-compatible-with-ipad-pro-and-ipad-mini-2000664837)
+ - [Magneto Is Out Here Spoiling Avengers: Doomsday: ‘I Probably Shouldn’t Have Said That’](https://kotaku.com/ian-mckellen-avengers-doomsday-magneto-spoiler-new-jersey-2000665035)
+ - [Dragon Quest 7 Reimagined is a must-play JRPG remake](https://www.polygon.com/dragon-quest-7-reimagined-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
