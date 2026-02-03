@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just American things](http://9gag.com/gag/a5QgygE)
- - ⏩ [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
- - 👉 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)<!-- MEMES:END -->
+ - 💣 [Go work as a cleaner, they said. It&#39;s a safe job, they said.](http://9gag.com/gag/aAyAqqE)
+ - ⏩ [Improvise adapt overcome](http://9gag.com/gag/aByzjYx)
+ - 👉 [Never surrender](http://9gag.com/gag/an7Z01o)<!-- MEMES:END -->
 
 ---
 
