@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In hindsight, you can see why](http://9gag.com/gag/axyKQzn)
- - ⏩ [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
- - 👉 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)<!-- MEMES:END -->
+ - 💣 [Nice...](http://9gag.com/gag/a9ywerW)
+ - ⏩ [That&#39;s gonna need some serious warning labels on it to prevent dumb f**ks...well you know what they gonna do with it.](http://9gag.com/gag/a4Pg84m)
+ - 👉 [Genuinely surprised](http://9gag.com/gag/aZZXKyp)<!-- MEMES:END -->
 
 ---
 
