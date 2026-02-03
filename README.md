@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
- - ⏩ [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
- - 👉 [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)<!-- MEMES:END -->
+ - 💣 [Next Level Sorry](http://9gag.com/gag/aVvr1NO)
+ - ⏩ [Unwearable shirt](http://9gag.com/gag/aryEDo6)
+ - 👉 [Never surrender](http://9gag.com/gag/an7Z01o)<!-- MEMES:END -->
 
 ---
 
