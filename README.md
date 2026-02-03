@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This huge 7-inch gaming handheld launches soon with a bargain price tag](https://www.androidauthority.com/mangmi-pocket-max-pricing-3637423/)
- - [I use AI to help me blind buy perfumes, and it’s actually perfect](https://www.androidauthority.com/how-i-use-gemini-for-perfume-blind-buys-3636807/)
- - [T-Mobile crushes Verizon and AT&amp;T to be the fastest carrier in the US](https://www.androidauthority.com/t-mobile-fastest-carrier-in-us-3637414/)<!-- TECH:END -->
+ - [I hacked my own computer using OpenClaw and it was terrifyingly easy](https://www.androidauthority.com/openclaw-ai-prompt-injection-3636904/)
+ - [A community organizer&amp;#8217;s guide to Signal group chats](https://www.theverge.com/tech/872493/signal-community-organizing-guide-group-chat)
+ - [Nothing Phone 4a series leak reveals launch date, and it’s just weeks away](https://www.androidauthority.com/nothing-phone-4a-series-launch-leak-3637434/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
