@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Downgrades](http://9gag.com/gag/a1mg8Yb)
+ - 💣 [Classical Collection](http://9gag.com/gag/a5Qg9Dr)
  - ⏩ [Next Level Sorry](http://9gag.com/gag/aVvr1NO)
  - 👉 [Never surrender](http://9gag.com/gag/an7Z01o)<!-- MEMES:END -->
 
