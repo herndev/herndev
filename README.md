@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Claude Code was down, forcing developers to take a long coffee break](https://www.theverge.com/news/873093/claude-code-down-outage-anthropic)
- - [A profile of Sam Altman, who says &quot;we basically have built AGI, or very close to it&quot; before dialing it back later and calling it &quot;a spiritual statement&quot; &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/260203/p17#a260203p17)
- - [I didn’t expect to love Dyson’s PencilVac Fluffycones – but I did](https://www.theverge.com/tech/872981/dyson-pencilvac-fluffycones-vacuum-hands-on-review)<!-- TECH:END -->
+ - [Apple Watch Series 11 drops to $299 best price, plus save $100 on titanium styles](https://appleinsider.com/articles/26/02/03/apple-watch-series-11-drops-to-299-best-price-plus-save-100-on-titanium-styles?utm_source=rss)
+ - [French police raid X&amp;#8217;s Paris office as UK investigation continues](https://www.theverge.com/tech/873142/french-police-raid-x-investigation)
+ - [Walmart hits a $1T market cap in intraday trading after a stock surge fueled in part by investor enthusiasm for its e-commerce growth and AI investments &lpar;Sarah Nassauer/Wall Street Journal&rpar;](http://www.techmeme.com/260203/p24#a260203p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
