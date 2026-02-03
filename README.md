@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Docusign CEO Allan Thygesen on Docusign&#39;s workforce growing to 7,000 staffers, its Intelligent Agreement Management system, AI hallucinations, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260203/p5#a260203p5)
- - [Galaxy S26 Ultra’s colors leak again, but the best ones are still missing](https://www.androidauthority.com/galaxy-s26-ultra-colors-leak-3637389/)
- - [Nintendo says the Switch 1 sold 155.37M units as of December 31 since its 2017 launch, topping the DS&#39;s 154.02M units, becoming its best-selling console ever &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260203/p4#a260203p4)<!-- TECH:END -->
+ - [AT&amp;T and T-Mobile seem to be stronger than ever: Is Verizon in trouble?](https://www.androidauthority.com/att-tmobile-rivalry-3623249/)
+ - [Google Maps community edits could soon get a major Gemini makeover](https://www.androidauthority.com/google-maps-gemini-suggest-an-edit-apk-teardown-3637395/)
+ - [Nothing could finally make its transparent over-ear headphones affordable](https://www.androidauthority.com/nothing-headphone-a-launch-date-price-leak-3637416/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
