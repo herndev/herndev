@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Labs arrives, giving a clear home for experimental features](https://www.androidauthority.com/gemini-labs-personal-intelligence-3637640/)
- - [Upgrade Your Roku Before the Big Game](https://www.wired.com/story/roku-deal-226/)
- - [Skyryse, which plans to integrate its flight automation OS, SkyOS, in Black Hawk helicopters and other aircraft, raised a $300M+ Series C at a $1.15B valuation &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260203/p33#a260203p33)<!-- TECH:END -->
+ - [Jonah Hill&#39;s dark comedy &#39;Outcome&#39; brings Keanu Reeves to Apple TV](https://appleinsider.com/articles/26/02/03/jonah-hills-dark-comedy-outcome-brings-keanu-reeves-to-apple-tv?utm_source=rss)
+ - [&#39;Monarch&#39; season two signals a darker, riskier future for the Monsterverse](https://appleinsider.com/articles/26/02/03/monarch-season-two-signals-a-darker-riskier-future-for-the-monsterverse?utm_source=rss)
+ - [Microsoft says it’s building an app store for AI content licensing](https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
