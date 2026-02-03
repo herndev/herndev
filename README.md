@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
- - ⏩ [Absolutes cinema](http://9gag.com/gag/aLnoVX6)
- - 👉 [Valar Morghulis](http://9gag.com/gag/a9yweLo)<!-- MEMES:END -->
+ - ⏩ [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)
+ - 👉 [In 2009 a young model named Gabriela Jim\u00e9nez yelled on camera that she had witnessed elite socialites eating humans before being arrested She was dismissed as crazy 17 years later - the Epstein files say she was right all along Has she been seen since?](http://9gag.com/gag/a87NQqe)<!-- MEMES:END -->
 
 ---
 
