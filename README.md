@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Absolutes cinema](http://9gag.com/gag/aLnoVX6)
- - ⏩ [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)
- - 👉 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)<!-- MEMES:END -->
+ - 💣 [Downgrades](http://9gag.com/gag/a1mg8Yb)
+ - ⏩ [Next Level Sorry](http://9gag.com/gag/aVvr1NO)
+ - 👉 [Never surrender](http://9gag.com/gag/an7Z01o)<!-- MEMES:END -->
 
 ---
 
