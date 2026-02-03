@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 11 drops to $299 best price, plus save $100 on titanium styles](https://appleinsider.com/articles/26/02/03/apple-watch-series-11-drops-to-299-best-price-plus-save-100-on-titanium-styles?utm_source=rss)
- - [French police raid X&amp;#8217;s Paris office as UK investigation continues](https://www.theverge.com/tech/873142/french-police-raid-x-investigation)
- - [Walmart hits a $1T market cap in intraday trading after a stock surge fueled in part by investor enthusiasm for its e-commerce growth and AI investments &lpar;Sarah Nassauer/Wall Street Journal&rpar;](http://www.techmeme.com/260203/p24#a260203p24)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Apptopia: ChatGPT&#39;s US market share fell from 69.1% to 45.3% between Jan. 2025 and Jan. 2026; Gemini rose from 14.7% to 25.1%, Grok rose from 1.6% to 15.2% &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/260203/p27#a260203p27)
+ - [Boost your vibe coding with AI agents in Apple&#39;s new Xcode 26.3](https://appleinsider.com/articles/26/02/03/boost-your-vibe-coding-with-ai-agents-in-apples-new-xcode-263?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
