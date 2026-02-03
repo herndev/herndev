@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [If assumptions hold, SpaceX-xAI could own a full stack of capabilities, from launch to orbital bandwidth to frontier AI models, and offer AI on demand anywhere &lpar;Eric Berger/Ars Technica&rpar;](http://www.techmeme.com/260202/p48#a260202p48)
  - [In a memo to employees, xAI said both companies will maintain their separate branding and the joint venture is continuing to prepare for a possible IPO in 2026 &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260202/p47#a260202p47)
- - [Leaked email: as part of the xAI-SpaceX deal, xAI shares will be converted into 0.1433 shares of SpaceX stock, and employees will have the option to cash out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260202/p46#a260202p46)
- - [Crunchyroll is raising its US prices by $2 per month; the cheapest tier gets its first price increase since 2019 and now offers offline downloads on one device &lpar;Isaac Rouse/Polygon.com&rpar;](http://www.techmeme.com/260202/p45#a260202p45)<!-- TECH:END -->
+ - [Leaked email: as part of the xAI-SpaceX deal, xAI shares will be converted into 0.1433 shares of SpaceX stock, and employees will have the option to cash out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260202/p46#a260202p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
