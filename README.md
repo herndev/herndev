@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Classical Collection](http://9gag.com/gag/a5Qg9Dr)
- - ⏩ [Next Level Sorry](http://9gag.com/gag/aVvr1NO)
- - 👉 [Never surrender](http://9gag.com/gag/an7Z01o)<!-- MEMES:END -->
+ - 💣 [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)
+ - ⏩ [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
+ - 👉 [Absolutes cinema](http://9gag.com/gag/aLnoVX6)<!-- MEMES:END -->
 
 ---
 
