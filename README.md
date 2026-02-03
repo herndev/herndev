@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Super Bowl LX on Apple devices, streaming, cable &amp; antenna](https://appleinsider.com/inside/apple-tv/tips/how-to-watch-super-bowl-lx-on-apple-devices-streaming-cable-antenna?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Feb. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-feb-3/)
- - [A look at WhatsApp&#39;s E2E encryption and whether it protects from metadata and chat backup leaks, after a lawsuit alleges Meta can read users&#39; private data &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/260202/p49#a260202p49)<!-- TECH:END -->
+ - [Leaked Galaxy S26 Ultra S Pen image reveals a two-toned twist](https://www.androidauthority.com/samsung-galaxy-s26-ultra-s-pen-colors-3637370/)
+ - [Sources: Telefónica and Liberty Global, co-owners of Virgin Media O2, are set to lead a ~£2B acquisition of UK&#39;s fourth-largest broadband network, Netomnia &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260203/p1#a260203p1)
+ - [How to watch Super Bowl LX on Apple devices, streaming, cable &amp; antenna](https://appleinsider.com/inside/apple-tv/tips/how-to-watch-super-bowl-lx-on-apple-devices-streaming-cable-antenna?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
