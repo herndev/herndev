@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I hacked my own computer using OpenClaw and it was terrifyingly easy](https://www.androidauthority.com/openclaw-ai-prompt-injection-3636904/)
- - [A community organizer&amp;#8217;s guide to Signal group chats](https://www.theverge.com/tech/872493/signal-community-organizing-guide-group-chat)
- - [Nothing Phone 4a series leak reveals launch date, and it’s just weeks away](https://www.androidauthority.com/nothing-phone-4a-series-launch-leak-3637434/)<!-- TECH:END -->
+ - [A Continuous Glucose Monitor Might Help You Lose Weight &lpar;2026&rpar;](https://www.wired.com/story/cgms-really-can-help-you-lose-weight/)
+ - [Aluminium: Why Google’s Android for PC launch may be messy and controversial](https://www.theverge.com/tech/869659/aluminium-why-googles-android-for-pc-launch-may-be-messy-and-controversial)
+ - [YouTube now blocking background playback on mobile browsers](https://www.theverge.com/news/872937/google-youtube-blocking-third-party-mobile-browsers-background-playback)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
