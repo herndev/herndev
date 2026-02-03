@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Controversial PS2 survival horror Rule of Rose absolutely deserves a remake or re-release, but Bloober Team isn&#39;t doing it](https://www.pcgamer.com/games/horror/controversial-ps2-survival-horror-rule-of-rose-absolutely-deserves-a-remake-or-re-release-but-bloober-team-isnt-doing-it/)
- - [If you want to get caught up with Larian&#39;s pre-Baldur&#39;s Gate work, $157 worth of Divinity games are on sale on Steam for $23](https://www.pcgamer.com/games/rpg/if-you-want-to-get-caught-up-with-larians-pre-baldurs-gate-work-usd157-worth-of-divinity-games-are-on-sale-on-steam-for-usd23/)
- - [&lpar;For Southeast Asia&rpar; Announcing Festive New Year 2026 Sales and PlayStation x Wiggle Wiggle Merchandise Collaboration](https://blog.playstation.com/2026/02/02/20260203-lny2/)<!-- GAME:END -->
+ - [The PC game releases we&#39;re most excited about in February](https://www.pcgamer.com/games/pc-game-release-dates-february-2026/)
+ - [To celebrate 5 years in early access, Valheim gets a new hat, better Steam Deck performance, and—wait for it—frosted sweetbread](https://www.pcgamer.com/games/survival-crafting/to-celebrate-5-years-in-early-access-valheim-gets-a-new-hat-better-steam-deck-performance-and-wait-for-it-frosted-sweetbread/)
+ - [Controversial PS2 survival horror Rule of Rose absolutely deserves a remake or re-release, but Bloober Team isn&#39;t doing it](https://www.pcgamer.com/games/horror/controversial-ps2-survival-horror-rule-of-rose-absolutely-deserves-a-remake-or-re-release-but-bloober-team-isnt-doing-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
