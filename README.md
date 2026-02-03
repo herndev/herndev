@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Do they really need marketing for Elder Scrolls 6?&#39; Skyrim lead designer says Bethesda probably won&#39;t make a TV show for The Elder Scrolls because it&#39;s already making &#39;literally billions of dollars&#39;](https://www.pcgamer.com/movies-tv/do-they-really-need-marketing-for-elder-scrolls-6-skyrim-lead-designer-says-bethesda-probably-wont-make-a-tv-show-for-the-elder-scrolls-because-its-already-making-literally-billions-of-dollars/)
- - [Animators are fuming after Adobe announces it&#39;s killing Adobe Animate, the Flash animation tool that defined the look of early web games](https://www.pcgamer.com/gaming-industry/adobe-animate-discontinued/)
- - [Will Take-Two announce another Grand Theft Auto 6 delay tomorrow?](https://www.pcgamer.com/games/action/will-take-two-announce-another-grand-theft-auto-6-delay-tomorrow/)<!-- GAME:END -->
+ - [If you want to get caught up with Larian&#39;s pre-Baldur&#39;s Gate work, $157 worth of Divinity games are on sale on Steam for $23](https://www.pcgamer.com/games/rpg/if-you-want-to-get-caught-up-with-larians-pre-baldurs-gate-work-usd157-worth-of-divinity-games-are-on-sale-on-steam-for-usd23/)
+ - [&lpar;For Southeast Asia&rpar; Announcing Festive New Year 2026 Sales and PlayStation x Wiggle Wiggle Merchandise Collaboration](https://blog.playstation.com/2026/02/02/20260203-lny2/)
+ - [&lpar;For Southeast Asia&rpar; Announcing Festive New Year 2026 Sales and PlayStation x Wiggle Wiggle Merchandise Collaboration](https://blog.playstation.com/2026/02/02/20260203-lny2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
