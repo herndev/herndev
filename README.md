@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Galaxy S26 Ultra S Pen image reveals a two-toned twist](https://www.androidauthority.com/samsung-galaxy-s26-ultra-s-pen-colors-3637370/)
- - [Sources: Telefónica and Liberty Global, co-owners of Virgin Media O2, are set to lead a ~£2B acquisition of UK&#39;s fourth-largest broadband network, Netomnia &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260203/p1#a260203p1)
- - [How to watch Super Bowl LX on Apple devices, streaming, cable &amp; antenna](https://appleinsider.com/inside/apple-tv/tips/how-to-watch-super-bowl-lx-on-apple-devices-streaming-cable-antenna?utm_source=rss)<!-- TECH:END -->
+ - [The Switch is now Nintendo’s best-selling console of all time](https://www.theverge.com/games/872768/nintendo-earnings-switch-best-selling-console-ds)
+ - [Sources: China&#39;s top memory chipmakers, CXMT and YMTC, plan their biggest expansions yet as a global supply crunch lets them close the gap with market leaders &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260203/p2#a260203p2)
+ - [Leaked Galaxy S26 Ultra S Pen image reveals a two-toned twist](https://www.androidauthority.com/samsung-galaxy-s26-ultra-s-pen-colors-3637370/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
