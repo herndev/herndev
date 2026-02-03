@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Call of Duty tries to block XIM and Cronus cheaters again](https://www.theverge.com/news/872976/call-of-duty-xim-cronus-reasnow-s1-ban-detections)
- - [Nintendo’s Virtual Boy Is a Silly but Fun Blast From the Past](https://www.wired.com/story/nintendo-virtual-boy-switch-accessory/)
- - [Fortnite is about to get a lot more gaming crossovers](https://www.theverge.com/games/872769/epic-games-store-fortnite-year-in-review-2025)<!-- TECH:END -->
+ - [Best Microsoft Surface Laptop &lpar;2026&rpar;: Which Model to Buy or Avoid](https://www.wired.com/story/microsoft-surface-buying-guide/)
+ - [China is banning hidden electric door handles for EVs](https://www.theverge.com/transportation/873039/china-ban-hidden-tesla-door-handles-january-2027)
+ - [Google is finally fixing one of Pixel’s biggest connectivity headaches in Android 16](https://www.androidauthority.com/pixel-adaptive-connectivity-granular-control-android-16-3637536/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
