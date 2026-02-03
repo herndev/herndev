@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T and T-Mobile seem to be stronger than ever: Is Verizon in trouble?](https://www.androidauthority.com/att-tmobile-rivalry-3623249/)
- - [Google Maps community edits could soon get a major Gemini makeover](https://www.androidauthority.com/google-maps-gemini-suggest-an-edit-apk-teardown-3637395/)
- - [Nothing could finally make its transparent over-ear headphones affordable](https://www.androidauthority.com/nothing-headphone-a-launch-date-price-leak-3637416/)<!-- TECH:END -->
+ - [This huge 7-inch gaming handheld launches soon with a bargain price tag](https://www.androidauthority.com/mangmi-pocket-max-pricing-3637423/)
+ - [I use AI to help me blind buy perfumes, and it’s actually perfect](https://www.androidauthority.com/how-i-use-gemini-for-perfume-blind-buys-3636807/)
+ - [T-Mobile crushes Verizon and AT&amp;T to be the fastest carrier in the US](https://www.androidauthority.com/t-mobile-fastest-carrier-in-us-3637414/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
