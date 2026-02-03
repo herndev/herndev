@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk is merging SpaceX and xAI to build data centers in space — or so he says](https://www.theverge.com/transportation/873203/elon-musk-spacex-xai-merge-data-centers-space-tesla-ipo)
- - [Is ChatGPT not working for you? Here’s how you can try to fix it &lpar;Update: Outage&rpar;](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
- - [Microsoft launches the Publisher Content Marketplace in partnership with Condé Nast, Hearst, AP, and others, to let publishers license content to AI companies &lpar;Anu Adegbola/Search Engine Land&rpar;](http://www.techmeme.com/260203/p35#a260203p35)<!-- TECH:END -->
+ - [Borderlands 4 for Switch 2 is on ‘pause’](https://www.theverge.com/games/873409/borderlands-4-nintendo-switch-2-development-pause)
+ - [Match reports Q4 revenue up 2% YoY to $878M, vs. $871M est., net income up 32% YoY to $210M, paying users down 5% to 13.8M; MTCH jumps 7%+ after hours &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260203/p38#a260203p38)
+ - [An ‘Intimacy Crisis’ Is Driving the Dating Divide](https://www.wired.com/story/justin-garcia-the-intimate-animal-sex-and-relationships/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
