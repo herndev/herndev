@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Borderlands 4 for Switch 2 is on ‘pause’](https://www.theverge.com/games/873409/borderlands-4-nintendo-switch-2-development-pause)
- - [Match reports Q4 revenue up 2% YoY to $878M, vs. $871M est., net income up 32% YoY to $210M, paying users down 5% to 13.8M; MTCH jumps 7%+ after hours &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260203/p38#a260203p38)
- - [An ‘Intimacy Crisis’ Is Driving the Dating Divide](https://www.wired.com/story/justin-garcia-the-intimate-animal-sex-and-relationships/)<!-- TECH:END -->
+ - [xAI accused of destroying evidence in OpenAI &amp; Apple antitrust lawsuit](https://appleinsider.com/articles/26/02/03/xai-accused-of-destroying-evidence-in-openai-apple-antitrust-lawsuit?utm_source=rss)
+ - [Department of Justice appeals Google search monopoly ruling](https://www.theverge.com/tech/873438/google-antitrust-case-doj-states-appeal)
+ - [Super Micro reports Q2 net sales up 123% to $12.7B, vs. $10.43B est., and expects Q3 net sales above estimates; SMCI jumps 5%+ after hours &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260203/p41#a260203p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
