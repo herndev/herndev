@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Will Take-Two announce another Grand Theft Auto 6 delay tomorrow?](https://www.pcgamer.com/games/action/will-take-two-announce-another-grand-theft-auto-6-delay-tomorrow/)
- - [A pioneering PC survival horror trilogy is going free-to-keep on GOG, so maybe you can look past the early &#39;90s jank](https://www.pcgamer.com/games/horror/a-pioneering-pc-survival-horror-trilogy-is-going-free-to-keep-on-gog-so-maybe-you-can-look-past-the-early-90s-jank/)
- - [Podracing Confirmed For 2026’s Coolest-Looking Star Wars Game](https://kotaku.com/star-wars-galactic-racer-racing-game-podracing-confirmed-2000665131)<!-- GAME:END -->
+ - [&#39;Do they really need marketing for Elder Scrolls 6?&#39; Skyrim lead designer says Bethesda probably won&#39;t make a TV show for The Elder Scrolls because it&#39;s already making &#39;literally billions of dollars&#39;](https://www.pcgamer.com/movies-tv/do-they-really-need-marketing-for-elder-scrolls-6-skyrim-lead-designer-says-bethesda-probably-wont-make-a-tv-show-for-the-elder-scrolls-because-its-already-making-literally-billions-of-dollars/)
+ - [Animators are fuming after Adobe announces it&#39;s killing Adobe Animate, the Flash animation tool that defined the look of early web games](https://www.pcgamer.com/gaming-industry/adobe-animate-discontinued/)
+ - [Will Take-Two announce another Grand Theft Auto 6 delay tomorrow?](https://www.pcgamer.com/games/action/will-take-two-announce-another-grand-theft-auto-6-delay-tomorrow/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
