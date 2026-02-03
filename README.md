@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
- - ⏩ [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
- - 👉 [Once he checks out there no going back. play stupid games, win stupid prizes.](http://9gag.com/gag/aGyv6E6)<!-- MEMES:END -->
+ - 💣 [In hindsight, you can see why](http://9gag.com/gag/axyKQzn)
+ - ⏩ [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
+ - 👉 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)<!-- MEMES:END -->
 
 ---
 
