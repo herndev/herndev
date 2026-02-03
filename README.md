@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Podracing Confirmed For 2026’s Coolest-Looking Star Wars Game](https://kotaku.com/star-wars-galactic-racer-racing-game-podracing-confirmed-2000665131)
- - [Everything Continues To Get More Expensive, Including Anime On Crunchyroll](https://kotaku.com/crunchyroll-price-increase-us-fan-tier-march-streaming-anime-2000665126)
- - [Bethesda keeps the Fallout remaster hopium flowing by showing Aaron Moten inside Fallout 3 and New Vegas](https://www.pcgamer.com/movies-tv/bethesda-keeps-the-fallout-remaster-hopium-flowing-by-putting-aaron-moten-inside-fallout-3-and-new-vegas/)<!-- GAME:END -->
+ - [Will Take-Two announce another Grand Theft Auto 6 delay tomorrow?](https://www.pcgamer.com/games/action/will-take-two-announce-another-grand-theft-auto-6-delay-tomorrow/)
+ - [A pioneering PC survival horror trilogy is going free-to-keep on GOG, so maybe you can look past the early &#39;90s jank](https://www.pcgamer.com/games/horror/a-pioneering-pc-survival-horror-trilogy-is-going-free-to-keep-on-gog-so-maybe-you-can-look-past-the-early-90s-jank/)
+ - [Podracing Confirmed For 2026’s Coolest-Looking Star Wars Game](https://kotaku.com/star-wars-galactic-racer-racing-game-podracing-confirmed-2000665131)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
