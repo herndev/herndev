@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go work as a cleaner, they said. It&#39;s a safe job, they said.](http://9gag.com/gag/aAyAqqE)
+ - 💣 [Unwearable shirt](http://9gag.com/gag/aryEDo6)
  - ⏩ [Improvise adapt overcome](http://9gag.com/gag/aByzjYx)
- - 👉 [Never surrender](http://9gag.com/gag/an7Z01o)<!-- MEMES:END -->
+ - 👉 [Next Level Sorry](http://9gag.com/gag/aVvr1NO)<!-- MEMES:END -->
 
 ---
 
