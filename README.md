@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump unveils a $12B critical minerals stockpile, called Project Vault, to minimize reliance on China, with participation from 12+ companies, including Google &lpar;Bloomberg&rpar;](http://www.techmeme.com/260202/p43#a260202p43)
- - [Adobe plans to discontinue its 2D animation software Animate on March 1; enterprise customers can receive support until March 2029, and others until March 2027 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260202/p42#a260202p42)
- - [Elon Musk Is Rolling xAI Into SpaceX—Creating the World’s Most Valuable Private Company](https://www.wired.com/story/spacex-acquires-xai-elon-musk/)<!-- TECH:END -->
+ - [In a memo to employees, xAI said both companies will maintain their separate branding and the joint venture is continuing to prepare for a possible IPO in 2026 &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260202/p47#a260202p47)
+ - [Leaked email: as part of the xAI-SpaceX deal, xAI shares will be converted into 0.1433 shares of SpaceX stock, and employees will have the option to cash out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260202/p46#a260202p46)
+ - [Crunchyroll is raising its US prices by $2 per month; the cheapest tier gets its first price increase since 2019 and now offers offline downloads on one device &lpar;Isaac Rouse/Polygon.com&rpar;](http://www.techmeme.com/260202/p45#a260202p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
