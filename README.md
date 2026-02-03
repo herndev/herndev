@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unwearable shirt](http://9gag.com/gag/aryEDo6)
- - ⏩ [Improvise adapt overcome](http://9gag.com/gag/aByzjYx)
- - 👉 [Next Level Sorry](http://9gag.com/gag/aVvr1NO)<!-- MEMES:END -->
+ - 💣 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
+ - ⏩ [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
+ - 👉 [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)<!-- MEMES:END -->
 
 ---
 
