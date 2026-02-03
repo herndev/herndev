@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC game releases we&#39;re most excited about in February](https://www.pcgamer.com/games/pc-game-release-dates-february-2026/)
- - [To celebrate 5 years in early access, Valheim gets a new hat, better Steam Deck performance, and—wait for it—frosted sweetbread](https://www.pcgamer.com/games/survival-crafting/to-celebrate-5-years-in-early-access-valheim-gets-a-new-hat-better-steam-deck-performance-and-wait-for-it-frosted-sweetbread/)
- - [Controversial PS2 survival horror Rule of Rose absolutely deserves a remake or re-release, but Bloober Team isn&#39;t doing it](https://www.pcgamer.com/games/horror/controversial-ps2-survival-horror-rule-of-rose-absolutely-deserves-a-remake-or-re-release-but-bloober-team-isnt-doing-it/)<!-- GAME:END -->
+ - [Grab Four Crunching Koalas XPA Faves at a Discount](https://news.xbox.com/en-us/2026/02/03/grab-four-crunching-koalas-xpa-faves-at-a-discount/)
+ - [As a Sims 4 Build Mode freak, today&#39;s free update is way more important than the new expansion](https://www.pcgamer.com/games/the-sims/as-a-sims-4-build-mode-freak-todays-free-update-is-way-more-important-than-the-new-expansion/)
+ - [No, GTA 6 Isn’t Skipping Physical Discs At Launch](https://kotaku.com/no-gta-6-isnt-skipping-physical-discs-at-launch-2000665471)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
