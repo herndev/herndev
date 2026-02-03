@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Microsoft Surface Laptop &lpar;2026&rpar;: Which Model to Buy or Avoid](https://www.wired.com/story/microsoft-surface-buying-guide/)
- - [China is banning hidden electric door handles for EVs](https://www.theverge.com/transportation/873039/china-ban-hidden-tesla-door-handles-january-2027)
- - [Google is finally fixing one of Pixel’s biggest connectivity headaches in Android 16](https://www.androidauthority.com/pixel-adaptive-connectivity-granular-control-android-16-3637536/)<!-- TECH:END -->
+ - [Claude Code was down, forcing developers to take a long coffee break](https://www.theverge.com/news/873093/claude-code-down-outage-anthropic)
+ - [A profile of Sam Altman, who says &quot;we basically have built AGI, or very close to it&quot; before dialing it back later and calling it &quot;a spiritual statement&quot; &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/260203/p17#a260203p17)
+ - [I didn’t expect to love Dyson’s PencilVac Fluffycones – but I did](https://www.theverge.com/tech/872981/dyson-pencilvac-fluffycones-vacuum-hands-on-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
