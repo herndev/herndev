@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo says the Switch 1 sold 155.37M units as of December 31, 2025 since its 2017 launch, topping the DS at 154.02M, becoming its best-selling console ever &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260203/p4#a260203p4)
- - [Nintendo reports Q3 revenue of $5.2B vs. $5.45B est., a net profit of $1.03B vs. $950M est., and maintains its 19M Switch 2 sales forecast for fiscal 2026 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260203/p3#a260203p3)
- - [The Switch is now Nintendo’s best-selling console of all time](https://www.theverge.com/games/872768/nintendo-earnings-switch-best-selling-console-ds)<!-- TECH:END -->
+ - [Q&amp;A with Docusign CEO Allan Thygesen on Docusign&#39;s workforce growing to 7,000 staffers, its Intelligent Agreement Management system, AI hallucinations, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260203/p5#a260203p5)
+ - [Galaxy S26 Ultra’s colors leak again, but the best ones are still missing](https://www.androidauthority.com/galaxy-s26-ultra-colors-leak-3637389/)
+ - [Nintendo says the Switch 1 sold 155.37M units as of December 31 since its 2017 launch, topping the DS&#39;s 154.02M units, becoming its best-selling console ever &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/260203/p4#a260203p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
