@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jonah Hill&#39;s dark comedy &#39;Outcome&#39; brings Keanu Reeves to Apple TV](https://appleinsider.com/articles/26/02/03/jonah-hills-dark-comedy-outcome-brings-keanu-reeves-to-apple-tv?utm_source=rss)
- - [&#39;Monarch&#39; season two signals a darker, riskier future for the Monsterverse](https://appleinsider.com/articles/26/02/03/monarch-season-two-signals-a-darker-riskier-future-for-the-monsterverse?utm_source=rss)
- - [Microsoft says it’s building an app store for AI content licensing](https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing)<!-- TECH:END -->
+ - [Elon Musk is merging SpaceX and xAI to build data centers in space — or so he says](https://www.theverge.com/transportation/873203/elon-musk-spacex-xai-merge-data-centers-space-tesla-ipo)
+ - [Is ChatGPT not working for you? Here’s how you can try to fix it &lpar;Update: Outage&rpar;](https://www.androidauthority.com/chatgpt-not-working-fix-3295471/)
+ - [Microsoft launches the Publisher Content Marketplace in partnership with Condé Nast, Hearst, AP, and others, to let publishers license content to AI companies &lpar;Anu Adegbola/Search Engine Land&rpar;](http://www.techmeme.com/260203/p35#a260203p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
