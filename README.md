@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Continuous Glucose Monitor Might Help You Lose Weight &lpar;2026&rpar;](https://www.wired.com/story/cgms-really-can-help-you-lose-weight/)
- - [Aluminium: Why Google’s Android for PC launch may be messy and controversial](https://www.theverge.com/tech/869659/aluminium-why-googles-android-for-pc-launch-may-be-messy-and-controversial)
- - [YouTube now blocking background playback on mobile browsers](https://www.theverge.com/news/872937/google-youtube-blocking-third-party-mobile-browsers-background-playback)<!-- TECH:END -->
+ - [Call of Duty tries to block XIM and Cronus cheaters again](https://www.theverge.com/news/872976/call-of-duty-xim-cronus-reasnow-s1-ban-detections)
+ - [Nintendo’s Virtual Boy Is a Silly but Fun Blast From the Past](https://www.wired.com/story/nintendo-virtual-boy-switch-accessory/)
+ - [Fortnite is about to get a lot more gaming crossovers](https://www.theverge.com/games/872769/epic-games-store-fortnite-year-in-review-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
