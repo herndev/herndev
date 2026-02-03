@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Valar Morghulis](http://9gag.com/gag/a9yweLo)
- - ⏩ [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)
- - 👉 [He&#39;s gonna be a doctor](http://9gag.com/gag/aZZXoxn)<!-- MEMES:END -->
+ - 💣 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
+ - ⏩ [Absolutes cinema](http://9gag.com/gag/aLnoVX6)
+ - 👉 [Valar Morghulis](http://9gag.com/gag/a9yweLo)<!-- MEMES:END -->
 
 ---
 
