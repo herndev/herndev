@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do they think idols are made of glitter dust](http://9gag.com/gag/agm96on)
- - ⏩ [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
- - 👉 [To the 9gager who recommended The Outpost as a must watch my most sincere thanks good sir, it really has all in fantasy genre &lpar;I&#39;m currently at season 4th&rpar;... And to the geh who recommended me Alice in Borderlands I wish you the worst...](http://9gag.com/gag/a34gpG7)<!-- MEMES:END -->
+ - 💣 [Just American things](http://9gag.com/gag/a5QgygE)
+ - ⏩ [The beauty that started war, RIP for all Spartan warrior fighting for this](http://9gag.com/gag/azxyoEq)
+ - 👉 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)<!-- MEMES:END -->
 
 ---
 
