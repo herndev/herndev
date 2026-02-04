@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After its latest setbacks, there’s simply no reason to stick with Nova Launcher](https://www.androidauthority.com/nova-launcher-ads-trackers-3637496/)
- - [HHS Is Making an AI Tool to Create Hypotheses About Vaccine Injury Claims](https://www.wired.com/story/hhs-is-making-an-ai-tool-to-create-hypotheses-about-vaccine-injury-claims/)
- - [Tether CEO Paolo Ardoino says initial plans to raise $15B to $20B were a &quot;misconception&quot;; sources say Tether&#39;s advisers have floated raising as little as $5B &lpar;Jill R Shah/Financial Times&rpar;](http://www.techmeme.com/260204/p9#a260204p9)<!-- TECH:END -->
+ - [I bought the Acer TV Box to replace my Shield TV, but it wasn’t a clear-cut upgrade](https://www.androidauthority.com/acer-tv-box-ports-experience-3631330/)
+ - [Why Are Some Women Training for Pregnancy Like It’s a Marathon?](https://www.wired.com/story/pregnancy-zero-trimester-influencers/)
+ - [Sources: Reno-based chip startup Positron raised a $230M Series B from the QIA and others to build high-speed memory chips, taking its total raised to $300M+ &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260204/p13#a260204p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
