@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next-Gen Xbox On Track For 2027 Launch Says AMD CEO](https://kotaku.com/next-gen-xbox-on-track-for-2027-launch-says-amd-ceo-2000665496)
- - [Arknights: Endfield Valley IV interactive map](https://www.polygon.com/map/arknights-endfield-valley-iv-interactive-map/)
- - [Epic Games Store to test forums for &#39;top games,&#39; walking back previous plans, and a technical overhaul is coming: &#39;We&#39;re ripping out the guts&#39;](https://www.pcgamer.com/software/platforms/epic-games-store-2026-forums-speed-improvements/)<!-- GAME:END -->
+ - [Fallout Season 2 Finale Teases New Location And Something Big](https://kotaku.com/fallout-season-2-finale-teases-new-location-and-something-big-liberty-prime-colorado-2000665525)
+ - [Good news, Stardew Valley enthusiasts: the 1.7 update will make children &#39;a little more interesting&#39; and add two new marriage candidates](https://www.pcgamer.com/games/life-sim/good-news-stardew-valley-enthusiasts-the-1-7-update-will-make-children-a-little-more-interesting-and-add-two-new-marriage-candidates/)
+ - [Anime action RPG studio Pahdo Labs shuts down despite accruing $17.5M in funding: &#39;We believed making a demo of a familiar but new game would be our best shot&#39;](https://www.pcgamer.com/games/rpg/anime-action-rpg-studio-pahdo-labs-shuts-down-despite-accruing-usd17-5m-in-funding-we-believed-making-a-demo-of-a-familiar-but-new-game-would-be-our-best-shot/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
