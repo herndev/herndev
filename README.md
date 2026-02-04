@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Hollywood..](http://9gag.com/gag/adBAA62)
- - ⏩ [Go nuts kids](http://9gag.com/gag/axyKeWp)
- - 👉 [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)<!-- MEMES:END -->
+ - ⏩ [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)
+ - 👉 [Lesson #6 in `Raising your daughter 101`](http://9gag.com/gag/aRBWGZB)<!-- MEMES:END -->
 
 ---
 
