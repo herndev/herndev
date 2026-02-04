@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet Announces Fourth Quarter and Fiscal Year 2025 Results &lpar;Alphabet&rpar;](http://www.techmeme.com/260204/p41#a260204p41)
- - [Sam Altman responds to Anthropic’s ‘funny’ Super Bowl ads](https://www.theverge.com/news/874084/ai-chatgpt-claude-super-bowl-ads-openai-anthropic)
- - [Internal memos: Meta said Avocado is its &quot;most capable pre-trained base model&quot; and achieves 10x compute efficiency &quot;wins&quot; on text tasks vs. Llama 4 Maverick &lpar;Jyoti Mann/The Information&rpar;](http://www.techmeme.com/260204/p40#a260204p40)<!-- TECH:END -->
+ - [What the heck is a ‘multi-spectral’ stylus? Decoding the recent rumor](https://www.androidauthority.com/multi-spectral-stylus-3638083/)
+ - [Qualcomm reports Q1 revenue up 5% YoY to $12.25B, vs. $12.21B est., and projects Q2 revenue below est. due to memory supply shortage; QCOM drops 9%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/260204/p47#a260204p47)
+ - [Arm reports Q3 revenue up 26% YoY to $1.24B, vs. $1.22B est., and license and other revenue up 25% to $505M, vs. $519.9M est.; ARM drops 7%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/260204/p46#a260204p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
