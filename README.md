@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Once he checks out there no going back. play stupid games, win stupid prizes.](http://9gag.com/gag/aGyv6E6)
- - ⏩ [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)
- - 👉 [Why is the name of the recipient redacted here? It can&#39;t be more obvious that the DOJ is covering up for child trafficers and pedos](http://9gag.com/gag/an7Z0e0)<!-- MEMES:END -->
+ - 💣 [Genuinely surprised](http://9gag.com/gag/aZZXKyp)
+ - ⏩ [Grass is greener in the distance.](http://9gag.com/gag/aW4yAn6)
+ - 👉 [Justified?](http://9gag.com/gag/a4Pg8wm)<!-- MEMES:END -->
 
 ---
 
