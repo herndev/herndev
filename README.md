@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Obsidian, a game studio Microsoft acquired in 2018, as it seeks to expedite game development and reduce costs after releasing three titles in 2025 &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/260204/p5#a260204p5)
  - [An interview with Kai-Fu Lee on his startup 01.ai, which builds agentic AI tools for companies, why he thinks China will beat the US in consumer AI, and more &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/260204/p4#a260204p4)
- - [Official Galaxy S26 teaser videos are here, hinting at better zoom and more](https://www.androidauthority.com/samsung-galaxy-s26-teaser-videos-3637717/)
- - [Sources: banks are marketing at least $56B in investment-grade data center construction loans tied to Oracle&#39;s leases, as they seek out new buyers for the loans &lpar;Michelle Chan/Financial Times&rpar;](http://www.techmeme.com/260204/p3#a260204p3)<!-- TECH:END -->
+ - [Official Galaxy S26 teaser videos are here, hinting at better zoom and more](https://www.androidauthority.com/samsung-galaxy-s26-teaser-videos-3637717/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
