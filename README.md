@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dating Profile](https://www.reddit.com/r/funny/comments/1qvgp1b/dating_profile/)
- - ⏩ [Genuinely surprised](http://9gag.com/gag/aZZXKyp)
- - 👉 [Why are you in pain?](http://9gag.com/gag/a0egGVZ)<!-- MEMES:END -->
+ - 💣 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
+ - ⏩ [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
+ - 👉 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)<!-- MEMES:END -->
 
 ---
 
