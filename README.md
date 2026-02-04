@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
- - ⏩ [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
- - 👉 [Yes dear](http://9gag.com/gag/awyj93r)<!-- MEMES:END -->
+ - 💣 [Hollywood..](http://9gag.com/gag/adBAA62)
+ - ⏩ [Go nuts kids](http://9gag.com/gag/axyKeWp)
+ - 👉 [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)<!-- MEMES:END -->
 
 ---
 
