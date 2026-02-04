@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
- - ⏩ [Go nuts kids](http://9gag.com/gag/axyKeWp)
- - 👉 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)<!-- MEMES:END -->
+ - 💣 [Maybe it was all just a diversion.](http://9gag.com/gag/a9yweQK)
+ - ⏩ [Win...](http://9gag.com/gag/aO8EEAM)
+ - 👉 [Premium trolling by Brave](http://9gag.com/gag/a4Pggey)<!-- MEMES:END -->
 
 ---
 
