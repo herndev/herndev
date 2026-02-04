@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hollywood..](http://9gag.com/gag/adBAA62)
- - ⏩ [You know who\u2019s not in the Epstein files? Surprisingly, this guy.](http://9gag.com/gag/amoQO5V)
- - 👉 [Lesson #6 in `Raising your daughter 101`](http://9gag.com/gag/aRBWGZB)<!-- MEMES:END -->
+ - 💣 [THAT LAST LINE !!!](http://9gag.com/gag/aByzjEZ)
+ - ⏩ [Absolutes cinema](http://9gag.com/gag/aLnoVX6)
+ - 👉 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)<!-- MEMES:END -->
 
 ---
 
