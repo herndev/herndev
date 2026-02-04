@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenClaw&amp;#8217;s AI &amp;#8216;skill&amp;#8217; extensions are a security nightmare](https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare)
- - [A New AI Math Startup Just Cracked 4 Previously Unsolved Problems](https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/)
- - [Anker SOLIX’s new power backup system merges renewable and fossil fuel power for the best results](https://www.androidauthority.com/anker-solix-hybrid-solar-gas-power-backup-3631708/)<!-- TECH:END -->
+ - [Overwatch: all the news about Blizzard’s hit hero shooter](https://www.theverge.com/2022/6/14/23167853/overwatch-2-activision-blizzard-news)
+ - [Amazon users now have three ways to access Alexa Plus — but they don’t have to](https://www.androidauthority.com/amazon-alexa-plus-available-to-everyone-3637981/)
+ - [Notepad++ Users, You May Have Been Hacked by China](https://www.wired.com/story/notepad-plus-plus-china-hackers-update-infrastructure/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
