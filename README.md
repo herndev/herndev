@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [THAT LAST LINE !!!](http://9gag.com/gag/aByzjEZ)
- - ⏩ [Absolutes cinema](http://9gag.com/gag/aLnoVX6)
- - 👉 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)<!-- MEMES:END -->
+ - 💣 [Dating Profile](https://www.reddit.com/r/funny/comments/1qvgp1b/dating_profile/)
+ - ⏩ [Genuinely surprised](http://9gag.com/gag/aZZXKyp)
+ - 👉 [Why are you in pain?](http://9gag.com/gag/a0egGVZ)<!-- MEMES:END -->
 
 ---
 
