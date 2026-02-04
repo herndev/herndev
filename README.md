@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Name that tune! Spotify may soon get a new music-guessing game](https://www.androidauthority.com/spotify-song-guessing-3637637/)
- - [Sen. Warren wants to know what Google Gemini’s built-in checkout means for user privacy](https://www.theverge.com/news/873476/senator-elizabeth-warren-google-gemini-ai-shopping-privacy)
- - [Gemini could soon offer Apple-like 3D avatars, because that’s a great use for AI](https://www.androidauthority.com/gemini-3d-avatar-apple-vision-pro-persona-3637772/)<!-- TECH:END -->
+ - [Anthropic says Claude &quot;will remain ad-free&quot;, users &quot;won&#39;t see &#39;sponsored&#39; links adjacent to&quot; conversations, and responses won&#39;t be influenced by advertisers &lpar;Anthropic&rpar;](http://www.techmeme.com/260204/p24#a260204p24)
+ - [Resolve AI, which offers autonomous AI agents to monitor source code and infrastructure to resolve outages, raised $125M led by Lightspeed at a $1B valuation &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260204/p23#a260204p23)
+ - [Anthropic says ‘Claude will remain ad-free,’ unlike ChatGPT](https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
