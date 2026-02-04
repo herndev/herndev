@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Obsidian, a game studio Microsoft acquired in 2018, as it seeks to expedite game development and reduce costs after releasing three titles in 2025 &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/260204/p5#a260204p5)
- - [An interview with Kai-Fu Lee on his startup 01.ai, which builds agentic AI tools for companies, why he thinks China will beat the US in consumer AI, and more &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/260204/p4#a260204p4)
- - [Official Galaxy S26 teaser videos are here, hinting at better zoom and more](https://www.androidauthority.com/samsung-galaxy-s26-teaser-videos-3637717/)<!-- TECH:END -->
+ - [Galaxy Digital reports a Q4 net loss of $482M, above $282M est., driven primarily by the crypto market crash, and says its trading volumes declined ~40% QoQ &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/260204/p6#a260204p6)
+ - [Gemini’s next big feature could turn it into your personal travel guide](https://www.androidauthority.com/google-gemini-map-area-attachment-apk-teardown-3637744/)
+ - [Gemini gets one step closer to controlling other apps on your Android phone](https://www.androidauthority.com/gemini-automation-control-other-apps-3637733/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
