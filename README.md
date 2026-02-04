@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Digital reports a Q4 net loss of $482M, above $282M est., driven primarily by the crypto market crash, and says its trading volumes declined ~40% QoQ &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/260204/p6#a260204p6)
- - [Gemini’s next big feature could turn it into your personal travel guide](https://www.androidauthority.com/google-gemini-map-area-attachment-apk-teardown-3637744/)
- - [Gemini gets one step closer to controlling other apps on your Android phone](https://www.androidauthority.com/gemini-automation-control-other-apps-3637733/)<!-- TECH:END -->
+ - [After its latest setbacks, there’s simply no reason to stick with Nova Launcher](https://www.androidauthority.com/nova-launcher-ads-trackers-3637496/)
+ - [HHS Is Making an AI Tool to Create Hypotheses About Vaccine Injury Claims](https://www.wired.com/story/hhs-is-making-an-ai-tool-to-create-hypotheses-about-vaccine-injury-claims/)
+ - [Tether CEO Paolo Ardoino says initial plans to raise $15B to $20B were a &quot;misconception&quot;; sources say Tether&#39;s advisers have floated raising as little as $5B &lpar;Jill R Shah/Financial Times&rpar;](http://www.techmeme.com/260204/p9#a260204p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
