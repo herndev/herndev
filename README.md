@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mistral debuts Voxtral Transcribe 2, a family of speech-to-text models with speaker diarization and ultra-low latency, under the Apache 2.0 open-weight license &lpar;Sabrina Ortiz/The Deep View&rpar;](http://www.techmeme.com/260204/p30#a260204p30)
- - [I drove three Chinese cars — here’s why they would clean up in the US](https://www.theverge.com/transportation/873408/geely-zeekr-lynk-co-test-drive-china)
- - [Questionable leak: MacBook Pro with M5 Pro and M5 Max coming in March, not February](https://appleinsider.com/articles/26/02/04/questionable-leak-macbook-pro-with-m5-pro-and-m5-max-coming-in-march-not-february?utm_source=rss)<!-- TECH:END -->
+ - [Inside the ICE Forum Where Agents Complain About Their Jobs](https://www.wired.com/story/inside-the-ice-forum-where-agents-complain-about-their-jobs/)
+ - [The 14-inch, ARM-based Asus Vivobook is half off today](https://www.theverge.com/gadgets/873792/asus-vivobook-snapdragon-x-laptop-amd-ryzen-switch-2-deal-sale)
+ - [Alexa+ is now available to every US customer, new Siri still absent](https://appleinsider.com/articles/26/02/04/alexa-is-now-available-to-every-us-customer-new-siri-still-absent?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
