@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lesson #6 in `Raising your daughter 101`](http://9gag.com/gag/aRBWGZB)
+ - 💣 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
  - ⏩ [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
- - 👉 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)<!-- MEMES:END -->
+ - 👉 [Lesson #6 in `Raising your daughter 101`](http://9gag.com/gag/aRBWGZB)<!-- MEMES:END -->
 
 ---
 
