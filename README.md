@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Valar Morghulis](http://9gag.com/gag/a9yweLo)
- - ⏩ [Maybe it was all just a diversion.](http://9gag.com/gag/a9yweQK)
- - 👉 [One Feature Video Went Viral. Now This Greek Restaurant Has Customers Everywhere!](http://9gag.com/gag/aVvr82M)<!-- MEMES:END -->
+ - 💣 [Yes dear](http://9gag.com/gag/awyj93r)
+ - ⏩ [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
+ - 👉 [Indeed smooth...](http://9gag.com/gag/aXP3zOv)<!-- MEMES:END -->
 
 ---
 
