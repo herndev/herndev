@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EnFi, which makes AI agents that analyze and make decisions on credit applications, raised a $15M Series A led by Fintop, bringing its total funding to $22.5M &lpar;Tatiana Bautzer/Reuters&rpar;](http://www.techmeme.com/260204/p33#a260204p33)
- - [AI Chipmaker Cerebras raised a $1B Series H led by Tiger Global at a $23B valuation, up from $8.1B in September 2025 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260204/p32#a260204p32)
- - [GitHub adds Claude and Codex AI coding agents](https://www.theverge.com/news/873665/github-claude-codex-ai-agents)<!-- TECH:END -->
+ - [Google finally reveals Pixel 10a’s launch date](https://www.androidauthority.com/google-teases-pixel-10a-3637949/)
+ - [GitHub integrates Claude and Codex AI coding agents directly into GitHub, GitHub Mobile, and Visual Studio Code, for Copilot Pro Plus and Enterprise users &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260204/p36#a260204p36)
+ - [Microsoft says cybersecurity head Charlie Bell will move into a position focused on engineering quality; Hayete Gallot will return from Google to run security &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260204/p35#a260204p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
