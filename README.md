@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Overwatch: all the news about Blizzard’s hit hero shooter](https://www.theverge.com/2022/6/14/23167853/overwatch-2-activision-blizzard-news)
- - [Amazon users now have three ways to access Alexa Plus — but they don’t have to](https://www.androidauthority.com/amazon-alexa-plus-available-to-everyone-3637981/)
- - [Notepad++ Users, You May Have Been Hacked by China](https://www.wired.com/story/notepad-plus-plus-china-hackers-update-infrastructure/)<!-- TECH:END -->
+ - [Alphabet Announces Fourth Quarter and Fiscal Year 2025 Results &lpar;Alphabet&rpar;](http://www.techmeme.com/260204/p41#a260204p41)
+ - [Sam Altman responds to Anthropic’s ‘funny’ Super Bowl ads](https://www.theverge.com/news/874084/ai-chatgpt-claude-super-bowl-ads-openai-anthropic)
+ - [Internal memos: Meta said Avocado is its &quot;most capable pre-trained base model&quot; and achieves 10x compute efficiency &quot;wins&quot; on text tasks vs. Llama 4 Maverick &lpar;Jyoti Mann/The Information&rpar;](http://www.techmeme.com/260204/p40#a260204p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
