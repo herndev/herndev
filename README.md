@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Say cheese](http://9gag.com/gag/aZZXXEV)
- - ⏩ [Lesson #6 in `Raising your daughter 101`](http://9gag.com/gag/aRBWGZB)
- - 👉 [Maybe it was all just a diversion.](http://9gag.com/gag/a9yweQK)<!-- MEMES:END -->
+ - 💣 [Maybe it was all just a diversion.](http://9gag.com/gag/a9yweQK)
+ - ⏩ [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
+ - 👉 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)<!-- MEMES:END -->
 
 ---
 
