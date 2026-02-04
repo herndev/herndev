@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe it was all just a diversion.](http://9gag.com/gag/a9yweQK)
- - ⏩ [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
+ - 💣 [Go nuts kids](http://9gag.com/gag/axyKeWp)
+ - ⏩ [Yes dear](http://9gag.com/gag/awyj93r)
  - 👉 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)<!-- MEMES:END -->
 
 ---
