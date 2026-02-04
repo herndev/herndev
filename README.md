@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Genuinely surprised](http://9gag.com/gag/aZZXKyp)
- - ⏩ [Grass is greener in the distance.](http://9gag.com/gag/aW4yAn6)
- - 👉 [Justified?](http://9gag.com/gag/a4Pg8wm)<!-- MEMES:END -->
+ - 💣 [Rockin&#39; the 80&#39;s!](http://9gag.com/gag/a9ywZNK)
+ - ⏩ [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
+ - 👉 [Once he checks out there no going back. play stupid games, win stupid prizes.](http://9gag.com/gag/aGyv6E6)<!-- MEMES:END -->
 
 ---
 
