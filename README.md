@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grab Four Crunching Koalas XPA Faves at a Discount](https://news.xbox.com/en-us/2026/02/03/grab-four-crunching-koalas-xpa-faves-at-a-discount/)
- - [As a Sims 4 Build Mode freak, today&#39;s free update is way more important than the new expansion](https://www.pcgamer.com/games/the-sims/as-a-sims-4-build-mode-freak-todays-free-update-is-way-more-important-than-the-new-expansion/)
- - [No, GTA 6 Isn’t Skipping Physical Discs At Launch](https://kotaku.com/no-gta-6-isnt-skipping-physical-discs-at-launch-2000665471)<!-- GAME:END -->
+ - [Next-Gen Xbox On Track For 2027 Launch Says AMD CEO](https://kotaku.com/next-gen-xbox-on-track-for-2027-launch-says-amd-ceo-2000665496)
+ - [Arknights: Endfield Valley IV interactive map](https://www.polygon.com/map/arknights-endfield-valley-iv-interactive-map/)
+ - [Epic Games Store to test forums for &#39;top games,&#39; walking back previous plans, and a technical overhaul is coming: &#39;We&#39;re ripping out the guts&#39;](https://www.pcgamer.com/software/platforms/epic-games-store-2026-forums-speed-improvements/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
