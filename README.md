@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
- - ⏩ [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
+ - ⏩ [THAT LAST LINE !!!](http://9gag.com/gag/aByzjEZ)
  - 👉 [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)<!-- MEMES:END -->
 
 ---
