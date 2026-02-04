@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI voice startup ElevenLabs raised a $500M Series D led by Sequoia at an $11B valuation, taking its total funding to nearly $800M, and reports $330M in 2025 ARR &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260204/p27#a260204p27)
- - [Amazon rolls out Alexa+ to all Prime members in the US via any Alexa-enabled device, Alexa.com, and the Alexa app, and launches a free tier for non-Prime users &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/260204/p26#a260204p26)
- - [What Is RGB LED TV? Everything You Need to Know About This Next-Gen TV Tech In 2026](https://www.wired.com/story/what-is-rgb-led-tv/)<!-- TECH:END -->
+ - [Mistral debuts Voxtral Transcribe 2, a family of speech-to-text models with speaker diarization and ultra-low latency, under the Apache 2.0 open-weight license &lpar;Sabrina Ortiz/The Deep View&rpar;](http://www.techmeme.com/260204/p30#a260204p30)
+ - [I drove three Chinese cars — here’s why they would clean up in the US](https://www.theverge.com/transportation/873408/geely-zeekr-lynk-co-test-drive-china)
+ - [Questionable leak: MacBook Pro with M5 Pro and M5 Max coming in March, not February](https://appleinsider.com/articles/26/02/04/questionable-leak-macbook-pro-with-m5-pro-and-m5-max-coming-in-march-not-february?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
