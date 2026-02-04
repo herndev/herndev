@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes dear](http://9gag.com/gag/awyj93r)
- - ⏩ [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
- - 👉 [Indeed smooth...](http://9gag.com/gag/aXP3zOv)<!-- MEMES:END -->
+ - 💣 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
+ - ⏩ [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
+ - 👉 [Win...](http://9gag.com/gag/aO8EEAM)<!-- MEMES:END -->
 
 ---
 
