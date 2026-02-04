@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe reversed its plans to discontinue Animate after creators expressed frustration, stating it won&#39;t get new features but will remain available &quot;indefinitely&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260203/p53#a260203p53)
- - [Filing: OpenAI accuses xAI of systematically destroying evidence in its antitrust case by directing employees to use auto-deleting &quot;ephemeral messaging tools&quot; &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/260203/p52#a260203p52)
- - [Adobe actually won’t discontinue Animate](https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course)<!-- TECH:END -->
+ - [Apple TV Press Day event reveals star-studded lineup of new original content coming soon](https://appleinsider.com/articles/26/02/04/apple-tv-press-day-event-reveals-star-studded-lineup-of-new-original-content-coming-soon?utm_source=rss)
+ - [Recon: the US market share of Copilot as paid users&#39; first choice fell from 18.8% in July 2025 to 11.5% in January 2026, while Gemini&#39;s rose from 12.8% to 15.7% &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/260203/p54#a260203p54)
+ - [&#39;Fallout&#39; Season 2 Ending Explained: Dissecting the Biggest Moments From the Finale](https://www.cnet.com/tech/services-and-software/fallout-season-2-ending-explained-the-biggest-takeaways-from-the-finale/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
