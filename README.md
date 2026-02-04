@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Every Fallout season 2 Easter egg so far](https://www.polygon.com/fallout-season-2-easter-egg-show/)
  - [Fallout Season 2 Finale Teases New Location And Something Big](https://kotaku.com/fallout-season-2-finale-teases-new-location-and-something-big-liberty-prime-colorado-2000665525)
- - [Good news, Stardew Valley enthusiasts: the 1.7 update will make children &#39;a little more interesting&#39; and add two new marriage candidates](https://www.pcgamer.com/games/life-sim/good-news-stardew-valley-enthusiasts-the-1-7-update-will-make-children-a-little-more-interesting-and-add-two-new-marriage-candidates/)
- - [Anime action RPG studio Pahdo Labs shuts down despite accruing $17.5M in funding: &#39;We believed making a demo of a familiar but new game would be our best shot&#39;](https://www.pcgamer.com/games/rpg/anime-action-rpg-studio-pahdo-labs-shuts-down-despite-accruing-usd17-5m-in-funding-we-believed-making-a-demo-of-a-familiar-but-new-game-would-be-our-best-shot/)<!-- GAME:END -->
+ - [Good news, Stardew Valley enthusiasts: the 1.7 update will make children &#39;a little more interesting&#39; and add two new marriage candidates](https://www.pcgamer.com/games/life-sim/good-news-stardew-valley-enthusiasts-the-1-7-update-will-make-children-a-little-more-interesting-and-add-two-new-marriage-candidates/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
