@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global fintech VC funding rose 27% YoY in 2025 to $51.8B; Y Combinator was the most active investor in the space, participating in 151 deals, up 24.8% YoY &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260204/p1#a260204p1)
- - [Sources: Tokyo-based chipmaker Renesas agrees to sell its clocks and timing device business to Nasdaq-listed chip design company SiTime for ~$3B &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260203/p56#a260203p56)
- - [Sources: US Commerce Dept. has finished review of Nvidia&#39;s license to sell China H200s, but the State Dept. seeks tighter restrictions, delaying final approval &lpar;Financial Times&rpar;](http://www.techmeme.com/260203/p55#a260203p55)<!-- TECH:END -->
+ - [Sources: banks are marketing at least $56B in investment-grade data center construction loans tied to Oracle&#39;s leases, as they seek out new buyers for the loans &lpar;Michelle Chan/Financial Times&rpar;](http://www.techmeme.com/260204/p3#a260204p3)
+ - [AMD reports $390M in revenue from MI308 AI chip sales in China in Q4; CEO Lisa Su says orders were &quot;from very early in 2025&quot; but shipped in Q4 after US approval &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260204/p2#a260204p2)
+ - [Global fintech VC funding rose 27% YoY in 2025 to $51.8B; Y Combinator was the most active investor in the space, participating in 151 deals, up 24.8% YoY &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260204/p1#a260204p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
