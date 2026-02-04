@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV Press Day event reveals star-studded lineup of new original content coming soon](https://appleinsider.com/articles/26/02/04/apple-tv-press-day-event-reveals-star-studded-lineup-of-new-original-content-coming-soon?utm_source=rss)
- - [Recon: the US market share of Copilot as paid users&#39; first choice fell from 18.8% in July 2025 to 11.5% in January 2026, while Gemini&#39;s rose from 12.8% to 15.7% &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/260203/p54#a260203p54)
- - [&#39;Fallout&#39; Season 2 Ending Explained: Dissecting the Biggest Moments From the Finale](https://www.cnet.com/tech/services-and-software/fallout-season-2-ending-explained-the-biggest-takeaways-from-the-finale/)<!-- TECH:END -->
+ - [Sources: US Commerce Dept. has finished review of Nvidia&#39;s license to sell China H200s, but the State Dept. seeks tighter restrictions, delaying final approval &lpar;Financial Times&rpar;](http://www.techmeme.com/260203/p55#a260203p55)
+ - [How to add, change, and remove a lock screen message in macOS](https://appleinsider.com/inside/macos-tahoe/tips/how-to-add-change-and-remove-a-lock-screen-message-in-macos?utm_source=rss)
+ - [Apple TV Press Day event reveals star-studded lineup of new original content coming soon](https://appleinsider.com/articles/26/02/04/apple-tv-press-day-event-reveals-star-studded-lineup-of-new-original-content-coming-soon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
