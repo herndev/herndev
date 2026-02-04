@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe actually won’t discontinue Animate](https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course)
- - [Alaffia Health, which provides AI tools for health plan claims operations, raised a $55M Series B led by Transformation Capital &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260203/p51#a260203p51)
- - [KKR and Singtel agree to acquire the remaining 82% stake in data center operator STT GDC for ~$5.1B, giving the company an enterprise value of ~$10.86B &lpar;Lee Ying Shan/CNBC&rpar;](http://www.techmeme.com/260203/p50#a260203p50)<!-- TECH:END -->
+ - [Adobe reversed its plans to discontinue Animate after creators expressed frustration, stating it won&#39;t get new features but will remain available &quot;indefinitely&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260203/p53#a260203p53)
+ - [Filing: OpenAI accuses xAI of systematically destroying evidence in its antitrust case by directing employees to use auto-deleting &quot;ephemeral messaging tools&quot; &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/260203/p52#a260203p52)
+ - [Adobe actually won’t discontinue Animate](https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
