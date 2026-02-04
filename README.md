@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the ICE Forum Where Agents Complain About Their Jobs](https://www.wired.com/story/inside-the-ice-forum-where-agents-complain-about-their-jobs/)
- - [The 14-inch, ARM-based Asus Vivobook is half off today](https://www.theverge.com/gadgets/873792/asus-vivobook-snapdragon-x-laptop-amd-ryzen-switch-2-deal-sale)
- - [Alexa+ is now available to every US customer, new Siri still absent](https://appleinsider.com/articles/26/02/04/alexa-is-now-available-to-every-us-customer-new-siri-still-absent?utm_source=rss)<!-- TECH:END -->
+ - [EnFi, which makes AI agents that analyze and make decisions on credit applications, raised a $15M Series A led by Fintop, bringing its total funding to $22.5M &lpar;Tatiana Bautzer/Reuters&rpar;](http://www.techmeme.com/260204/p33#a260204p33)
+ - [AI Chipmaker Cerebras raised a $1B Series H led by Tiger Global at a $23B valuation, up from $8.1B in September 2025 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260204/p32#a260204p32)
+ - [GitHub adds Claude and Codex AI coding agents](https://www.theverge.com/news/873665/github-claude-codex-ai-agents)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
