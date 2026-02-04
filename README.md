@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I bought the Acer TV Box to replace my Shield TV, but it wasn’t a clear-cut upgrade](https://www.androidauthority.com/acer-tv-box-ports-experience-3631330/)
- - [Why Are Some Women Training for Pregnancy Like It’s a Marathon?](https://www.wired.com/story/pregnancy-zero-trimester-influencers/)
- - [Sources: Reno-based chip startup Positron raised a $230M Series B from the QIA and others to build high-speed memory chips, taking its total raised to $300M+ &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260204/p13#a260204p13)<!-- TECH:END -->
+ - [Name that tune! Spotify may soon get a new music-guessing game](https://www.androidauthority.com/spotify-song-guessing-3637637/)
+ - [Sen. Warren wants to know what Google Gemini’s built-in checkout means for user privacy](https://www.theverge.com/news/873476/senator-elizabeth-warren-google-gemini-ai-shopping-privacy)
+ - [Gemini could soon offer Apple-like 3D avatars, because that’s a great use for AI](https://www.androidauthority.com/gemini-3d-avatar-apple-vision-pro-persona-3637772/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
