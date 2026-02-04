@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)
- - ⏩ [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
- - 👉 [Win...](http://9gag.com/gag/aO8EEAM)<!-- MEMES:END -->
+ - 💣 [Say cheese](http://9gag.com/gag/aZZXXEV)
+ - ⏩ [Lesson #6 in `Raising your daughter 101`](http://9gag.com/gag/aRBWGZB)
+ - 👉 [Maybe it was all just a diversion.](http://9gag.com/gag/a9yweQK)<!-- MEMES:END -->
 
 ---
 
