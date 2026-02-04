@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe it was all just a diversion.](http://9gag.com/gag/a9yweQK)
+ - 💣 [Lesson #6 in `Raising your daughter 101`](http://9gag.com/gag/aRBWGZB)
  - ⏩ [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
  - 👉 [John Podesta is torturing a little kid - Epstein Files](http://9gag.com/gag/a87NvAd)<!-- MEMES:END -->
 
