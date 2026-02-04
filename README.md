@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What the heck is a ‘multi-spectral’ stylus? Decoding the recent rumor](https://www.androidauthority.com/multi-spectral-stylus-3638083/)
- - [Qualcomm reports Q1 revenue up 5% YoY to $12.25B, vs. $12.21B est., and projects Q2 revenue below est. due to memory supply shortage; QCOM drops 9%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/260204/p47#a260204p47)
- - [Arm reports Q3 revenue up 26% YoY to $1.24B, vs. $1.22B est., and license and other revenue up 25% to $505M, vs. $519.9M est.; ARM drops 7%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/260204/p46#a260204p46)<!-- TECH:END -->
+ - [Google&amp;#8217;s annual revenue tops $400 billion for the first time](https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings)
+ - [Senators grill Waymo and Tesla over robotaxi safety, liability, and China](https://www.theverge.com/transportation/873891/senate-hearing-autonomous-vehicles-robotaxi-waymo-tesla-legislation)
+ - [Filing: Workday is cutting ~400 employees, or ~2% of its workforce, primarily in customer-facing roles, saying the move will help it invest in priority areas &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260204/p48#a260204p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
