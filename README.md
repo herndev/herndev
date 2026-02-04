@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [On an earnings call, AMD CEO Lisa Su says Microsoft&#39;s next-gen Xbox &quot;is progressing well to support a launch in 2027&quot; and will feature an AMD semi-custom SoC &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260203/p46#a260203p46)
- - [Sources: Nvidia is nearing a deal to invest $20B in OpenAI as part of OpenAI&#39;s $100B funding round &lpar;Bloomberg&rpar;](http://www.techmeme.com/260203/p45#a260203p45)
- - [Software and data stocks plunge over fears that new developments in AI will supplant software; ADBE closed down 7.31%, CRM 6.85%, and Thomson Reuters 15.83% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260203/p44#a260203p44)<!-- TECH:END -->
+ - [Adobe actually won’t discontinue Animate](https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course)
+ - [Alaffia Health, which provides AI tools for health plan claims operations, raised a $55M Series B led by Transformation Capital &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260203/p51#a260203p51)
+ - [KKR and Singtel agree to acquire the remaining 82% stake in data center operator STT GDC for ~$5.1B, giving the company an enterprise value of ~$10.86B &lpar;Lee Ying Shan/CNBC&rpar;](http://www.techmeme.com/260203/p50#a260203p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
