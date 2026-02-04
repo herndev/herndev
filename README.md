@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US Commerce Dept. has finished review of Nvidia&#39;s license to sell China H200s, but the State Dept. seeks tighter restrictions, delaying final approval &lpar;Financial Times&rpar;](http://www.techmeme.com/260203/p55#a260203p55)
- - [How to add, change, and remove a lock screen message in macOS](https://appleinsider.com/inside/macos-tahoe/tips/how-to-add-change-and-remove-a-lock-screen-message-in-macos?utm_source=rss)
- - [Apple TV Press Day event reveals star-studded lineup of new original content coming soon](https://appleinsider.com/articles/26/02/04/apple-tv-press-day-event-reveals-star-studded-lineup-of-new-original-content-coming-soon?utm_source=rss)<!-- TECH:END -->
+ - [Global fintech VC funding rose 27% YoY in 2025 to $51.8B; Y Combinator was the most active investor in the space, participating in 151 deals, up 24.8% YoY &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260204/p1#a260204p1)
+ - [Sources: Tokyo-based chipmaker Renesas agrees to sell its clocks and timing device business to Nasdaq-listed chip design company SiTime for ~$3B &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260203/p56#a260203p56)
+ - [Sources: US Commerce Dept. has finished review of Nvidia&#39;s license to sell China H200s, but the State Dept. seeks tighter restrictions, delaying final approval &lpar;Financial Times&rpar;](http://www.techmeme.com/260203/p55#a260203p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
