@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google finally reveals Pixel 10a’s launch date](https://www.androidauthority.com/google-teases-pixel-10a-3637949/)
- - [GitHub integrates Claude and Codex AI coding agents directly into GitHub, GitHub Mobile, and Visual Studio Code, for Copilot Pro Plus and Enterprise users &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260204/p36#a260204p36)
- - [Microsoft says cybersecurity head Charlie Bell will move into a position focused on engineering quality; Hayete Gallot will return from Google to run security &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260204/p35#a260204p35)<!-- TECH:END -->
+ - [OpenClaw&amp;#8217;s AI &amp;#8216;skill&amp;#8217; extensions are a security nightmare](https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare)
+ - [A New AI Math Startup Just Cracked 4 Previously Unsolved Problems](https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/)
+ - [Anker SOLIX’s new power backup system merges renewable and fossil fuel power for the best results](https://www.androidauthority.com/anker-solix-hybrid-solar-gas-power-backup-3631708/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
