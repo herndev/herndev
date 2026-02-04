@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI accused of destroying evidence in OpenAI &amp; Apple antitrust lawsuit](https://appleinsider.com/articles/26/02/03/xai-accused-of-destroying-evidence-in-openai-apple-antitrust-lawsuit?utm_source=rss)
- - [Department of Justice appeals Google search monopoly ruling](https://www.theverge.com/tech/873438/google-antitrust-case-doj-states-appeal)
- - [Super Micro reports Q2 net sales up 123% to $12.7B, vs. $10.43B est., and expects Q3 net sales above estimates; SMCI jumps 5%+ after hours &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260203/p41#a260203p41)<!-- TECH:END -->
+ - [On an earnings call, AMD CEO Lisa Su says Microsoft&#39;s next-gen Xbox &quot;is progressing well to support a launch in 2027&quot; and will feature an AMD semi-custom SoC &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260203/p46#a260203p46)
+ - [Sources: Nvidia is nearing a deal to invest $20B in OpenAI as part of OpenAI&#39;s $100B funding round &lpar;Bloomberg&rpar;](http://www.techmeme.com/260203/p45#a260203p45)
+ - [Software and data stocks plunge over fears that new developments in AI will supplant software; ADBE closed down 7.31%, CRM 6.85%, and Thomson Reuters 15.83% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260203/p44#a260203p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
