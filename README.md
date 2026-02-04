@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: banks are marketing at least $56B in investment-grade data center construction loans tied to Oracle&#39;s leases, as they seek out new buyers for the loans &lpar;Michelle Chan/Financial Times&rpar;](http://www.techmeme.com/260204/p3#a260204p3)
- - [AMD reports $390M in revenue from MI308 AI chip sales in China in Q4; CEO Lisa Su says orders were &quot;from very early in 2025&quot; but shipped in Q4 after US approval &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260204/p2#a260204p2)
- - [Global fintech VC funding rose 27% YoY in 2025 to $51.8B; Y Combinator was the most active investor in the space, participating in 151 deals, up 24.8% YoY &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260204/p1#a260204p1)<!-- TECH:END -->
+ - [An interview with Kai-Fu Lee on his startup 01.ai, which builds agentic AI tools for companies, why he thinks China will beat the US in consumer AI, and more &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/260204/p4#a260204p4)
+ - [Official Galaxy S26 teaser videos are here, hinting at better zoom and more](https://www.androidauthority.com/samsung-galaxy-s26-teaser-videos-3637717/)
+ - [Sources: banks are marketing at least $56B in investment-grade data center construction loans tied to Oracle&#39;s leases, as they seek out new buyers for the loans &lpar;Michelle Chan/Financial Times&rpar;](http://www.techmeme.com/260204/p3#a260204p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
