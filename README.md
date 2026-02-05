@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snowboarder Maddie Mastro and other athletes are using a new AI tool powered by Google DeepMind&#39;s computer-vision models to prepare for the 2026 Winter Olympics &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/260204/p55#a260204p55)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Feb. 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-feb-5/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 5, #500](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-5-500/)<!-- TECH:END -->
+ - [Sony reports Q3 revenue up 1% YoY to ~$23.68B, vs. ~$23.53B est., operating profit up 22% to ~$3.28B, vs. ~$2.99B est., raises FY operating profit outlook 8% &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260204/p57#a260204p57)
+ - [How to use filtering in Messages on iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-use-filtering-in-messages-on-ios-26?utm_source=rss)
+ - [Researchers say TikTok&#39;s server outage in late January disrupted all post categories, not just political content as users claimed, based on limited public data &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/260204/p56#a260204p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
