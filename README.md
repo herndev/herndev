@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Valar Morghulis](http://9gag.com/gag/a9yweLo)
- - ⏩ [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
+ - 💣 [Nobody knows anything](http://9gag.com/gag/a34grP5)
+ - ⏩ [By redacting whoever sending this email, the US Department of Justice is desperately trying to protect a criminal](http://9gag.com/gag/apR77Zb)
  - 👉 [Hollywood..](http://9gag.com/gag/adBAA62)<!-- MEMES:END -->
 
 ---
