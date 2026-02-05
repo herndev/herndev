@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony reports Q3 gaming and network services revenue down 4% YoY to $10.5B, profit up 19% YoY to ~$889M, and PlayStation 5 sales down 16% YoY to 8M units &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/260204/p58#a260204p58)
- - [Sony reports Q3 revenue up 1% YoY to ~$23.68B, vs. ~$23.53B est., operating profit up 22% to ~$3.28B, vs. ~$2.99B est., raises FY operating profit outlook 8% &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260204/p57#a260204p57)
- - [How to use filtering in Messages on iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-use-filtering-in-messages-on-ios-26?utm_source=rss)<!-- TECH:END -->
+ - [TSMC plans to produce 3nm chips at its second plant in Kumamoto, Japan; sources say that is an upgrade from an original plan to produce 7nm chips by late 2027 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260205/p1#a260205p1)
+ - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
+ - [Visible Promo Code: Save Over $400 in February 2026](https://www.wired.com/story/visible-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
