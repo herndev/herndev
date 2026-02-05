@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get a look at the Pixel 10a in every color ahead of this month’s official reveal](https://www.androidauthority.com/google-pixel-10a-colors-leak-3638285/)
- - [IKEA’s new smart home products have a big connection problem](https://www.androidauthority.com/ikea-smart-home-connection-problems-3638238/)
- - [DOJ files reveal how Jeffrey Epstein helped his Russian-born publicist Masha Bucher become a prominent VC who now boasts of early checks to 22 unicorns like xAI &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260205/p29#a260205p29)<!-- TECH:END -->
+ - [Anthropic says Opus 4.6 found 500+ previously unknown high-severity security flaws in open-source libraries with little to no prompting during its testing &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260205/p37#a260205p37)
+ - [The Latest Apple Watch Is $100 Off](https://www.wired.com/story/apple-watch-11-deal-226/)
+ - [OpenAI launches GPT-5.3-Codex, which it says runs 25% faster, enabling longer-running tasks, and &quot;is our first model that was instrumental in creating itself&quot; &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260205/p36#a260205p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
