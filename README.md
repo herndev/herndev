@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Just under two weeks from its release date, devil&#39;s bargain deckbuilder The Killing Stone announces it will be launching into early access instead](https://www.pcgamer.com/games/card-games/just-under-two-weeks-from-its-release-date-devils-bargain-deckbuilder-the-killing-stone-announces-it-will-be-launching-into-early-access-instead/)
- - [Valve Says Its New Console Plays The ‘Majority’ Of Steam Games At 4K 60FPS With FSR](https://kotaku.com/steam-machine-resolution-framerate-specs-2000665807)
- - [Steam Machine will play the majority of Steam titles &#39;at 4K 60 fps with FSR&#39;, but some will require more upscaling than others, Valve says](https://www.pcgamer.com/hardware/steam-machine-will-play-the-majority-of-steam-titles-at-4k-60-fps-with-fsr-but-some-will-require-more-upscaling-than-others-valve-says/)<!-- GAME:END -->
+ - [Code Vein 2 interactive map](https://www.polygon.com/code-vein-2-interactive-map/)
+ - [The total conversion mod remaking the lost Fallout 3 in Fallout: New Vegas got its first trailer and a new name](https://www.pcgamer.com/games/fallout/the-total-conversion-mod-remaking-the-lost-fallout-3-in-fallout-new-vegas-got-its-first-trailer-and-a-new-name/)
+ - [Just under two weeks from its release date, devil&#39;s bargain deckbuilder The Killing Stone announces it will be launching into early access instead](https://www.pcgamer.com/games/card-games/just-under-two-weeks-from-its-release-date-devils-bargain-deckbuilder-the-killing-stone-announces-it-will-be-launching-into-early-access-instead/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
