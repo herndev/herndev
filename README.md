@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony reports Q3 gaming and network services revenue down 4% YoY to $10.5B, profit up 19% YoY to ~$889M, and PlayStation 5 sales down 16% YoY to 8M units &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/260204/p58#a260204p58)
  - [Sony reports Q3 revenue up 1% YoY to ~$23.68B, vs. ~$23.53B est., operating profit up 22% to ~$3.28B, vs. ~$2.99B est., raises FY operating profit outlook 8% &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260204/p57#a260204p57)
- - [How to use filtering in Messages on iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-use-filtering-in-messages-on-ios-26?utm_source=rss)
- - [Researchers say TikTok&#39;s server outage in late January disrupted all post categories, not just political content as users claimed, based on limited public data &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/260204/p56#a260204p56)<!-- TECH:END -->
+ - [How to use filtering in Messages on iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-use-filtering-in-messages-on-ios-26?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
