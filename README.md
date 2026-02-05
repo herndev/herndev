@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Change my mind: Most people should buy last-gen phones](https://www.androidauthority.com/change-my-mind-buy-last-gen-phones-3637490/)
- - [How iPhones Made a Surprising Comeback in China](https://www.wired.com/story/how-iphones-made-a-surprising-comeback-in-china/)
- - [Substack data breach exposed users’ emails and phone numbers](https://www.theverge.com/tech/874255/substack-data-breach-user-emails-phone-numbers)<!-- TECH:END -->
+ - [Palo Alto Networks: an Asian cyber-espionage group broke into systems belonging to 70 critical infrastructure organizations and governments in 37+ countries &lpar;Bloomberg&rpar;](http://www.techmeme.com/260205/p16#a260205p16)
+ - [The Best Flower Delivery Services of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-flower-delivery-service/)
+ - [What Is Thread? Matter’s Smart Home Network Protocol, Explained](https://www.wired.com/story/what-is-thread/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
