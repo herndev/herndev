@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&amp;#8217;s annual revenue tops $400 billion for the first time](https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings)
- - [Senators grill Waymo and Tesla over robotaxi safety, liability, and China](https://www.theverge.com/transportation/873891/senate-hearing-autonomous-vehicles-robotaxi-waymo-tesla-legislation)
- - [Filing: Workday is cutting ~400 employees, or ~2% of its workforce, primarily in customer-facing roles, saying the move will help it invest in priority areas &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260204/p48#a260204p48)<!-- TECH:END -->
+ - [Amazon MGM Studio plans to develop new AI tools via its &quot;AI Studio&quot; to speed TV and film production and cut costs, in collaboration with AWS and LLM providers &lpar;Reuters&rpar;](http://www.techmeme.com/260204/p50#a260204p50)
+ - [The Best Super Bowl TV Deals &lpar;2026&rpar;](https://www.wired.com/gallery/super-bowl-tv-deals-2026/)
+ - [Formula 1 CEO hints toward a possible &#39;F1&#39; movie sequel on Apple TV](https://appleinsider.com/articles/26/02/04/formula-1-ceo-hints-toward-a-possible-f1-movie-sequel-on-apple-tv?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
