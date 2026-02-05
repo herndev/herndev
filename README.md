@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
- - ⏩ [Indeed smooth...](http://9gag.com/gag/aXP3zOv)
- - 👉 [By redacting whoever sending this email, the US Department of Justice is desperately trying to protect a criminal](http://9gag.com/gag/apR77Zb)<!-- MEMES:END -->
+ - ⏩ [Hollywood..](http://9gag.com/gag/adBAA62)
+ - 👉 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)<!-- MEMES:END -->
 
 ---
 
