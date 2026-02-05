@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hypothetically](http://9gag.com/gag/a9yw07m)
- - ⏩ [Say cheese](http://9gag.com/gag/aZZXXEV)
- - 👉 [Got hit with the solar flare](http://9gag.com/gag/a5Qg3og)<!-- MEMES:END -->
+ - 💣 [Valar Morghulis](http://9gag.com/gag/a9yweLo)
+ - ⏩ [The painter one said the highest levels of society was corrupted](http://9gag.com/gag/aByzbAP)
+ - 👉 [Hollywood..](http://9gag.com/gag/adBAA62)<!-- MEMES:END -->
 
 ---
 
