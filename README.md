@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why this is the worst crypto winter ever: AI crowds out crypto for mindshare and power grid access, crypto is mainstream, gold beats BTC as a safe haven, more &lpar;Bloomberg&rpar;](http://www.techmeme.com/260205/p42#a260205p42)
- - [AirDrop-compatible Quick Share feature to roll out to more Android devices in 2026](https://appleinsider.com/articles/26/02/05/airdrop-compatible-quick-share-feature-to-roll-out-to-more-android-devices-in-2026?utm_source=rss)
- - [The new Apple AirTags are great, but the 1st-gen are on sale!](https://www.androidauthority.com/apple-airtags-4-pack-deal-3637985/)<!-- TECH:END -->
+ - [Amazon.com Announces Fourth Quarter Results &lpar;Amazon&rpar;](http://www.techmeme.com/260205/p45#a260205p45)
+ - [Iron Lung’s path to theaters was unique, even if the movie isn’t](https://www.theverge.com/entertainment/874500/iron-lung-theater-box-office-markiplier)
+ - [Fresh iPhone 17e &amp; iPad leak points to incremental upgrades](https://appleinsider.com/articles/26/02/05/fresh-iphone-17e-ipad-leak-points-to-incremental-upgrades?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
