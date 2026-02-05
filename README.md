@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon reports Q4 ad revenue up 23% YoY to $21.32B, slightly above expectations, and subscription services revenue up 14% to $13.12B &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260205/p48#a260205p48)
- - [Google gives Android Canary users a new place to stay up-to-date](https://www.androidauthority.com/android-canary-subreddit-launch-3638411/)
- - [Republicans attack &amp;#8216;woke&amp;#8217; Netflix — and ignore YouTube](https://www.theverge.com/streaming/874655/netflix-warner-bros-republican-culture-war-ted-sarandos-hearing)<!-- TECH:END -->
+ - [Tim Cook reflects on Apple&#39;s 50 years and retirement coming for us all](https://appleinsider.com/articles/26/02/05/tim-cook-reflects-on-apples-50-years-and-retirement-coming-for-us-all?utm_source=rss)
+ - [This legendary Nokia phone is being brought back to life in 2026](https://www.androidauthority.com/nokia-n8-custom-rom-symbian-3638431/)
+ - [Roblox reports Q4 bookings up 63% YoY to $2.2B vs. $2.05B est., DAUs up 69% to 144M, and forecasts FY 2026 bookings above estimates; RBLX jumps 18%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260205/p49#a260205p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
