@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xreal One Pro review: Fancy smart glasses you can use with your iPhone](https://appleinsider.com/articles/26/02/05/xreal-one-pro-review-fancy-smart-glasses-you-can-use-with-your-iphone?utm_source=rss)
- - [Adaption Labs, which aims to create AI systems that learn continuously and cost less to run, raised a $50M seed round led by Emergence Capital Partners &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260204/p53#a260204p53)
- - [Netflix Says if the HBO Merger Makes It Too Expensive, You Can Always Cancel](https://www.wired.com/story/netflix-says-users-can-cancel-service-if-hbo-merger-too-expensive/)<!-- TECH:END -->
+ - [Filing: Baidu announces a stock buyback program of as much as $5B through the end of 2028, and plans to issue its first dividend in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260204/p54#a260204p54)
+ - [Double your productivity on the cheap with this ASUS portable monitor deal!](https://www.androidauthority.com/asus-zenscreen-16-inch-portable-monitor-mb16ahv-deal-3637986/)
+ - [Google &amp; Apple CEOs offer seemingly contradictory statements regarding AI partnership](https://appleinsider.com/articles/26/02/05/google-apple-ceos-offer-seemingly-contradictory-statements-regarding-ai-partnership?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
