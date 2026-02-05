@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon MGM Studio plans to develop new AI tools via its &quot;AI Studio&quot; to speed TV and film production and cut costs, in collaboration with AWS and LLM providers &lpar;Reuters&rpar;](http://www.techmeme.com/260204/p50#a260204p50)
- - [The Best Super Bowl TV Deals &lpar;2026&rpar;](https://www.wired.com/gallery/super-bowl-tv-deals-2026/)
- - [Formula 1 CEO hints toward a possible &#39;F1&#39; movie sequel on Apple TV](https://appleinsider.com/articles/26/02/04/formula-1-ceo-hints-toward-a-possible-f1-movie-sequel-on-apple-tv?utm_source=rss)<!-- TECH:END -->
+ - [Xreal One Pro review: Fancy smart glasses you can use with your iPhone](https://appleinsider.com/articles/26/02/05/xreal-one-pro-review-fancy-smart-glasses-you-can-use-with-your-iphone?utm_source=rss)
+ - [Adaption Labs, which aims to create AI systems that learn continuously and cost less to run, raised a $50M seed round led by Emergence Capital Partners &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260204/p53#a260204p53)
+ - [Netflix Says if the HBO Merger Makes It Too Expensive, You Can Always Cancel](https://www.wired.com/story/netflix-says-users-can-cancel-service-if-hbo-merger-too-expensive/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
