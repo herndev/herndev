@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon.com Announces Fourth Quarter Results &lpar;Amazon&rpar;](http://www.techmeme.com/260205/p45#a260205p45)
- - [Iron Lung’s path to theaters was unique, even if the movie isn’t](https://www.theverge.com/entertainment/874500/iron-lung-theater-box-office-markiplier)
- - [Fresh iPhone 17e &amp; iPad leak points to incremental upgrades](https://appleinsider.com/articles/26/02/05/fresh-iphone-17e-ipad-leak-points-to-incremental-upgrades?utm_source=rss)<!-- TECH:END -->
+ - [Amazon reports Q4 ad revenue up 23% YoY to $21.32B, slightly above expectations, and subscription services revenue up 14% to $13.12B &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260205/p48#a260205p48)
+ - [Google gives Android Canary users a new place to stay up-to-date](https://www.androidauthority.com/android-canary-subreddit-launch-3638411/)
+ - [Republicans attack &amp;#8216;woke&amp;#8217; Netflix — and ignore YouTube](https://www.theverge.com/streaming/874655/netflix-warner-bros-republican-culture-war-ted-sarandos-hearing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
