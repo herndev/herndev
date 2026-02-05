@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the informal economy of rogue streaming box resellers, who sell hardware that offers free access to sports games, cable TV, and streaming services &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/260205/p6#a260205p6)
- - [Fears that software companies are facing an AI-driven extinction event are exaggerated, but the belief that they might be facing one is damaging their stocks &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260205/p5#a260205p5)
- - [A look at Axiom, which is building AxiomProver, an &quot;AI mathematician&quot; it claims has solved at least four previously unsolved math problems &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/260205/p4#a260205p4)<!-- TECH:END -->
+ - [There’s at least one reason to choose the Exynos Galaxy S26 over the Snapdragon version, for now](https://www.androidauthority.com/galaxy-s26-exynos-2600-on-device-ai-image-generation-3638116/)
+ - [I Didn&#39;t Care for Dildos Until I Tried This One From Lelo](https://www.wired.com/story/i-didnt-care-for-dildos-until-i-tried-this-one-from-lelo/)
+ - [A look at the informal economy of rogue streaming box resellers, who sell hardware that offers free access to sports games, cable TV, and streaming services &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/260205/p6#a260205p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
