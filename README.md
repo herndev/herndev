@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nobody knows anything](http://9gag.com/gag/a34grP5)
- - ⏩ [By redacting whoever sending this email, the US Department of Justice is desperately trying to protect a criminal](http://9gag.com/gag/apR77Zb)
- - 👉 [Hollywood..](http://9gag.com/gag/adBAA62)<!-- MEMES:END -->
+ - 💣 [A Weapon to Surpass Metal Gear](http://9gag.com/gag/aVvr8P8)
+ - ⏩ [Indeed smooth...](http://9gag.com/gag/aXP3zOv)
+ - 👉 [32 year old Shelby Hewitt pretended to be a teenager, attended high school, befriended teenage boys and even got an adult couple to be her foster parents](http://9gag.com/gag/aZZX5dV)<!-- MEMES:END -->
 
 ---
 
