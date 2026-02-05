@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Baidu announces a stock buyback program of as much as $5B through the end of 2028, and plans to issue its first dividend in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260204/p54#a260204p54)
- - [Double your productivity on the cheap with this ASUS portable monitor deal!](https://www.androidauthority.com/asus-zenscreen-16-inch-portable-monitor-mb16ahv-deal-3637986/)
- - [Google &amp; Apple CEOs offer seemingly contradictory statements regarding AI partnership](https://appleinsider.com/articles/26/02/05/google-apple-ceos-offer-seemingly-contradictory-statements-regarding-ai-partnership?utm_source=rss)<!-- TECH:END -->
+ - [Snowboarder Maddie Mastro and other athletes are using a new AI tool powered by Google DeepMind&#39;s computer-vision models to prepare for the 2026 Winter Olympics &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/260204/p55#a260204p55)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Feb. 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-feb-5/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 5, #500](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-5-500/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
