@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Code Vein 2 interactive map](https://www.polygon.com/code-vein-2-interactive-map/)
- - [The total conversion mod remaking the lost Fallout 3 in Fallout: New Vegas got its first trailer and a new name](https://www.pcgamer.com/games/fallout/the-total-conversion-mod-remaking-the-lost-fallout-3-in-fallout-new-vegas-got-its-first-trailer-and-a-new-name/)
- - [Just under two weeks from its release date, devil&#39;s bargain deckbuilder The Killing Stone announces it will be launching into early access instead](https://www.pcgamer.com/games/card-games/just-under-two-weeks-from-its-release-date-devils-bargain-deckbuilder-the-killing-stone-announces-it-will-be-launching-into-early-access-instead/)<!-- GAME:END -->
+ - [Best vocations in Dragon Quest 7 Reimagined](https://www.polygon.com/dragon-quest-7-reimagined-dq7-best-vocations-classes-how-to-change/)
+ - [Best monster hearts in Dragon Quest 7 Reimagined](https://www.polygon.com/dragon-quest-7-reimagined-dq7-best-monster-hearts/)
+ - [10 Dragon Quest 7 Reimagined beginner&#39;s tips and tricks](https://www.polygon.com/dragon-quest-7-reimagined-dq7-beginners-tips-tricks-guide/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
