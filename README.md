@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos could soon let you choose a cleaner look for your library, and here’s your first look](https://www.androidauthority.com/google-photos-hide-date-labels-apk-teardown-3638120/)
- - [This is the best Android keyboard app, as decided by our readers](https://www.androidauthority.com/best-android-keyboard-swiftkey-gboard-poll-results-3637959/)
- - [Al music on Spotify is exploding — here’s how to identify it before you hit play](https://www.androidauthority.com/how-to-spot-ai-music-3637174/)<!-- TECH:END -->
+ - [Change my mind: Most people should buy last-gen phones](https://www.androidauthority.com/change-my-mind-buy-last-gen-phones-3637490/)
+ - [How iPhones Made a Surprising Comeback in China](https://www.wired.com/story/how-iphones-made-a-surprising-comeback-in-china/)
+ - [Substack data breach exposed users’ emails and phone numbers](https://www.theverge.com/tech/874255/substack-data-breach-user-emails-phone-numbers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
