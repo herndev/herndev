@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says Opus 4.6 found 500+ previously unknown high-severity security flaws in open-source libraries with little to no prompting during its testing &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260205/p37#a260205p37)
- - [The Latest Apple Watch Is $100 Off](https://www.wired.com/story/apple-watch-11-deal-226/)
- - [OpenAI launches GPT-5.3-Codex, which it says runs 25% faster, enabling longer-running tasks, and &quot;is our first model that was instrumental in creating itself&quot; &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260205/p36#a260205p36)<!-- TECH:END -->
+ - [Zuckerberg considered changing how Meta studies social issues after research got it in trouble](https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research)
+ - [9 Great Deals on WIRED-Approved Valentine&#39;s Day Gifts &lpar;2026&rpar;](https://www.wired.com/story/valentines-day-deals-2026/)
+ - [Spotify has two big features coming that should excite book lovers](https://www.androidauthority.com/spotify-page-match-launch-3638316/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
