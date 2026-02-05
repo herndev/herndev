@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best vocations in Dragon Quest 7 Reimagined](https://www.polygon.com/dragon-quest-7-reimagined-dq7-best-vocations-classes-how-to-change/)
- - [Best monster hearts in Dragon Quest 7 Reimagined](https://www.polygon.com/dragon-quest-7-reimagined-dq7-best-monster-hearts/)
- - [10 Dragon Quest 7 Reimagined beginner&#39;s tips and tricks](https://www.polygon.com/dragon-quest-7-reimagined-dq7-beginners-tips-tricks-guide/)<!-- GAME:END -->
+ - [How to beat Yamagata Masakage in Nioh 3](https://www.pcgamer.com/games/action/nioh-3-yamagata-masakage-boss-guide/)
+ - [How to find and use the Dirty Key in Nioh 3](https://www.pcgamer.com/games/action/nioh-3-dirty-key/)
+ - [How to change appearance in Nioh 3](https://www.pcgamer.com/games/action/nioh-3-change-appearance/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
