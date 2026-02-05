@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Indeed smooth...](http://9gag.com/gag/aXP3zOv)
- - ⏩ [32 year old Shelby Hewitt pretended to be a teenager, attended high school, befriended teenage boys and even got an adult couple to be her foster parents](http://9gag.com/gag/aZZX5dV)
- - 👉 [Collector bought an ex-Iraqi Army tank on eBay for about \u00a330,000 and made an astonishing discovery when he and his mechanic inspected it five gold bars hidden inside the diesel fuel tank](http://9gag.com/gag/a5Qg3WN)<!-- MEMES:END -->
+ - 💣 [Raising twins after your sister passed and they become a doctor and a cop is truly god-tier parenting](http://9gag.com/gag/aO8EEq3)
+ - ⏩ [Got hit with the solar flare](http://9gag.com/gag/a5Qg3og)
+ - 👉 [Hollywood..](http://9gag.com/gag/adBAA62)<!-- MEMES:END -->
 
 ---
 
