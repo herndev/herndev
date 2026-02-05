@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palo Alto Networks: an Asian cyber-espionage group broke into systems belonging to 70 critical infrastructure organizations and governments in 37+ countries &lpar;Bloomberg&rpar;](http://www.techmeme.com/260205/p16#a260205p16)
- - [The Best Flower Delivery Services of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-flower-delivery-service/)
- - [What Is Thread? Matter’s Smart Home Network Protocol, Explained](https://www.wired.com/story/what-is-thread/)<!-- TECH:END -->
+ - [Apple Arcade&#39;s &#39;Civilization VII&#39; is good, but falls short of greatness](https://appleinsider.com/articles/26/02/05/apple-arcades-civilization-vii-is-good-but-falls-short-of-greatness?utm_source=rss)
+ - [Apple Maps &amp; Apple Ads aren&#39;t popular enough for the EU to regulate](https://appleinsider.com/articles/26/02/05/apple-maps-apple-ads-arent-popular-enough-for-the-eu-to-regulate?utm_source=rss)
+ - [Substack notifies users about a &quot;limited&quot; data breach in October 2025, found on February 3 and now patched; a threat actor leaked a database of ~697K records &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/260205/p19#a260205p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
