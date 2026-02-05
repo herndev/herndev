@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zuckerberg considered changing how Meta studies social issues after research got it in trouble](https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research)
- - [9 Great Deals on WIRED-Approved Valentine&#39;s Day Gifts &lpar;2026&rpar;](https://www.wired.com/story/valentines-day-deals-2026/)
- - [Spotify has two big features coming that should excite book lovers](https://www.androidauthority.com/spotify-page-match-launch-3638316/)<!-- TECH:END -->
+ - [Why this is the worst crypto winter ever: AI crowds out crypto for mindshare and power grid access, crypto is mainstream, gold beats BTC as a safe haven, more &lpar;Bloomberg&rpar;](http://www.techmeme.com/260205/p42#a260205p42)
+ - [AirDrop-compatible Quick Share feature to roll out to more Android devices in 2026](https://appleinsider.com/articles/26/02/05/airdrop-compatible-quick-share-feature-to-roll-out-to-more-android-devices-in-2026?utm_source=rss)
+ - [The new Apple AirTags are great, but the 1st-gen are on sale!](https://www.androidauthority.com/apple-airtags-4-pack-deal-3637985/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
