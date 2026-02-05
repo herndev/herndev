@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [@KamalaHQ is relaunching as a Gen Z ‘progressive content hub’](https://www.theverge.com/policy/874410/kamala-harris-kamalahq-headquarters-rebrand-launch)
- - [Duna, a European fintech making AI-powered identity and compliance tools for banks, raised a €30M Series A led by CapitalG, bringing its total funding to €40M+ &lpar;Tim Barnwell/Silicon Republic&rpar;](http://www.techmeme.com/260205/p25#a260205p25)
- - [Why is the Trump administration really appealing its Meta loss?](https://www.theverge.com/policy/874286/ftc-meta-antitrust-appeal-boasberg-tiktok)<!-- TECH:END -->
+ - [Get a look at the Pixel 10a in every color ahead of this month’s official reveal](https://www.androidauthority.com/google-pixel-10a-colors-leak-3638285/)
+ - [IKEA’s new smart home products have a big connection problem](https://www.androidauthority.com/ikea-smart-home-connection-problems-3638238/)
+ - [DOJ files reveal how Jeffrey Epstein helped his Russian-born publicist Masha Bucher become a prominent VC who now boasts of early checks to 22 unicorns like xAI &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/260205/p29#a260205p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
