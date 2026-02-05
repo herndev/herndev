@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI launches Frontier, an AI agent management platform that provides shared context, onboarding, and permission boundaries, available to select customers &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260205/p22#a260205p22)
- - [Sources: Nvidia delays the release of its incremental gaming GPU upgrade, codenamed Kicker, marking the first year in three decades without a new GPU for gaming &lpar;The Information&rpar;](http://www.techmeme.com/260205/p21#a260205p21)
- - [Elon Musk’s SpaceX could build its own phone with native Starlink connectivity](https://www.androidauthority.com/spacex-starlink-mobile-phone-3638197/)<!-- TECH:END -->
+ - [Ukraine says Starlink terminals used by Russia on the battlefield have been deactivated via a verification process developed alongside SpaceX &lpar;Anna Pruchnicka/Reuters&rpar;](http://www.techmeme.com/260205/p23#a260205p23)
+ - [JLab’s new Bluetooth speaker doubles as supersized headphones](https://www.theverge.com/tech/874340/jlab-blue-xl-wireless-bluetooth-speaker-headphones)
+ - [Motorola Moto Watch Review: Polar-Powered](https://www.wired.com/review/motorola-moto-watch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
