@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s at least one reason to choose the Exynos Galaxy S26 over the Snapdragon version, for now](https://www.androidauthority.com/galaxy-s26-exynos-2600-on-device-ai-image-generation-3638116/)
- - [I Didn&#39;t Care for Dildos Until I Tried This One From Lelo](https://www.wired.com/story/i-didnt-care-for-dildos-until-i-tried-this-one-from-lelo/)
- - [A look at the informal economy of rogue streaming box resellers, who sell hardware that offers free access to sports games, cable TV, and streaming services &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/260205/p6#a260205p6)<!-- TECH:END -->
+ - [Google Photos could soon let you choose a cleaner look for your library, and here’s your first look](https://www.androidauthority.com/google-photos-hide-date-labels-apk-teardown-3638120/)
+ - [This is the best Android keyboard app, as decided by our readers](https://www.androidauthority.com/best-android-keyboard-swiftkey-gboard-poll-results-3637959/)
+ - [Al music on Spotify is exploding — here’s how to identify it before you hit play](https://www.androidauthority.com/how-to-spot-ai-music-3637174/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
