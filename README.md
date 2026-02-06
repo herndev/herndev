@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)
- - ⏩ [Collector bought an ex-Iraqi Army tank on eBay for about \u00a330,000 and made an astonishing discovery when he and his mechanic inspected it five gold bars hidden inside the diesel fuel tank](http://9gag.com/gag/a5Qg3WN)
- - 👉 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)<!-- MEMES:END -->
+ - 💣 [Who IS you ?](http://9gag.com/gag/azxy3Wz)
+ - ⏩ [True or not, his name is on the list of emails, and he married his daughter &lpar;wife&rpar; too](http://9gag.com/gag/aQzb5dK)
+ - 👉 [We don&#39;t know what we did!](http://9gag.com/gag/aAyAzD0)<!-- MEMES:END -->
 
 ---
 
