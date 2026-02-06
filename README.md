@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Digital stock jumps 17%+ after the company approved a share buyback program of up to $200M over the next 12 months &lpar;CoinDesk&rpar;](http://www.techmeme.com/260206/p21#a260206p21)
- - [Verizon is suing T-Mobile for perceived false advertising](https://www.androidauthority.com/verizon-sues-t-mobile-3638706/)
- - [Google TV Streamer goes back on sale!](https://www.androidauthority.com/google-tv-streamer-deal-12-3638447/)<!-- TECH:END -->
+ - [Deal: The ASUS ZenScreen 22-inch Portable Monitor is cheaper than ever!](https://www.androidauthority.com/asus-zenscreen-22-inch-portable-monitor-deal-3638737/)
+ - [Spotify rolls out About the Song, swipeable stories in English, summarized from third-party sources to highlight song details, in beta for Premium users &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260206/p25#a260206p25)
+ - [Galaxy S26 wireless charging data offers both good news and bad news](https://www.androidauthority.com/galaxy-s26-wpc-listing-spotted-3638711/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
