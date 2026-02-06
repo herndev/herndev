@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over 800 Google Workers Urge Company to Cancel Any Contracts With ICE and CBP](https://www.wired.com/story/hundreds-of-google-employees-demand-answers-from-executives-about-ice/)
- - [Analogue’s 4K N64 is getting five new transparent color options](https://www.theverge.com/tech/874494/analogue-3d-4k-n64-console-prototype-limited-editions)
- - [What happens when Waymo runs into a tornado? Or an elephant?](https://www.theverge.com/transportation/874771/waymo-world-model-simulation-google-deepmind-genie-3)<!-- TECH:END -->
+ - [Aura’s Aspen digital frame is a great gift, especially now that it’s $30 off](https://www.theverge.com/gadgets/874904/aura-aspen-kobo-libra-colour-deal-sale)
+ - [Savvy WHOOP users are saving tons of money with this subscription loophole](https://www.androidauthority.com/whoop-subscription-loophole-3638619/)
+ - [Waymo says it is using DeepMind&#39;s Genie 3 to create realistic digital worlds for its autonomous driving technology to train on edge-case scenarios &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260206/p12#a260206p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
