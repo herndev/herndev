@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - ⏩ [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
- - 👉 [The power of friendship](http://9gag.com/gag/a4PgXnd)<!-- MEMES:END -->
+ - 💣 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
+ - ⏩ [This bolt is worth $8000 and goes in a helicopter](http://9gag.com/gag/aQzbjWw)
+ - 👉 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)<!-- MEMES:END -->
 
 ---
 
