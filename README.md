@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
- - ⏩ [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
- - 👉 [32 year old Shelby Hewitt pretended to be a teenager, attended high school, befriended teenage boys and even got an adult couple to be her foster parents](http://9gag.com/gag/aZZX5dV)<!-- MEMES:END -->
+ - 💣 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)
+ - ⏩ [Collector bought an ex-Iraqi Army tank on eBay for about \u00a330,000 and made an astonishing discovery when he and his mechanic inspected it five gold bars hidden inside the diesel fuel tank](http://9gag.com/gag/a5Qg3WN)
+ - 👉 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)<!-- MEMES:END -->
 
 ---
 
