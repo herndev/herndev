@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Buying a Mattress in 2026? We Tested 100+ and These Were the Standouts](https://www.wired.com/gallery/best-mattresses/)
- - [New phone releases have gotten boring, but is that really so bad?](https://www.androidauthority.com/phone-releases-boring-3634592/)
- - [‘Uncanny Valley’: Tech Elites in the Epstein Files, Musk’s Mega Merger, and a Crypto Scam Compound](https://www.wired.com/story/uncanny-valley-podcast-tech-elites-epstein-files-musk-mega-merger-crypto-scam-compound/)<!-- TECH:END -->
+ - [Move over Ultra phones, Samsung is launching an Ultra robot vacuum cleaner](https://www.androidauthority.com/samsung-bespoke-ai-jet-bot-steam-ultra-teaser-3638530/)
+ - [Can we please shut up about the Pixel 10a’s bezels?](https://www.androidauthority.com/google-pixel-10a-bezels-please-shut-up-3638230/)
+ - [Are flagship phones worth buying? New survey yields a resounding ‘no’](https://www.androidauthority.com/flagship-phones-worth-buying-survey-results-3638508/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
