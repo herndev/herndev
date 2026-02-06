@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well...well...well.... micro-slop shares are going down the slop of their own making.](http://9gag.com/gag/a87NRdQ)
- - ⏩ [The power of friendship](http://9gag.com/gag/a4PgXnd)
- - 👉 [This bolt is worth $8000 and goes in a helicopter](http://9gag.com/gag/aQzbjWw)<!-- MEMES:END -->
+ - 💣 [Someone saved all of the Epstein emails from the releases and set up a Gmail clone site that you can scroll as if you were in Jeffery&#39;s Gmail. You can search by contacts, photos and even flight history.](http://9gag.com/gag/aW4y3j2)
+ - ⏩ [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
+ - 👉 [32 year old Shelby Hewitt pretended to be a teenager, attended high school, befriended teenage boys and even got an adult couple to be her foster parents](http://9gag.com/gag/aZZX5dV)<!-- MEMES:END -->
 
 ---
 
