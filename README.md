@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU says that TikTok&#39;s &quot;addictive design&quot; is illegal under the DSA, citing the app&#39;s infinite scroll and recommendation algorithm, in preliminary findings &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/260206/p6#a260206p6)
- - [Sony confirms launch date for its redesigned XM6 flagship earbuds](https://www.androidauthority.com/sony-wf-1000xm6-launch-date-confirmed-3638553/)
- - [Goldman Sachs says it has been working with Anthropic on AI agents to automate a growing number of roles at the bank, including client vetting and onboarding &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/260206/p5#a260206p5)<!-- TECH:END -->
+ - [Apple Health+ scaled back internally, new focus on incremental improvement](https://appleinsider.com/articles/26/02/06/apple-health-scaled-back-internally-will-focus-on-incremental-features-instead?utm_source=rss)
+ - [NordProtect &lpar;2026&rpar; Review: A Bundle of ID-Protecting Services](https://www.wired.com/review/nordprotect/)
+ - [Can China’s No. 2 automaker make it in America?](https://www.theverge.com/transportation/874551/geely-volvo-china-cars-us-software-restrictions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
