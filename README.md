@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
- - ⏩ [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - 👉 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)<!-- MEMES:END -->
+ - 💣 [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
+ - ⏩ [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
+ - 👉 [The power of friendship](http://9gag.com/gag/a4PgXnd)<!-- MEMES:END -->
 
 ---
 
