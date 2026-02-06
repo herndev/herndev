@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can finally pre-order the powerful KONKR Fit handheld, but it’s not cheap](https://www.androidauthority.com/ayaneo-konkr-fit-pre-order-3638662/)
- - [Capitol Hill probe spotlights claims Apple and Google were pushed to block ICE-monitoring apps](https://appleinsider.com/articles/26/02/06/capitol-hill-probe-spotlights-claims-apple-and-google-were-pushed-to-block-ice-monitoring-apps?utm_source=rss)
- - [Spotify’s About the Song offers context and trivia about your favorite tracks](https://www.theverge.com/entertainment/874945/spotify-about-the-song-ai-liner-notes)<!-- TECH:END -->
+ - [Amazon&#39;s annual tax bill fell 87% YoY to $1.2B in 2025, as profits grew 45% to ~$90B, mostly due to GOP&#39;s depreciation breaks in the One Big Beautiful Bill &lpar;Brian Faler/Politico&rpar;](http://www.techmeme.com/260206/p16#a260206p16)
+ - [The Jeffrey Epstein Fortnite account is fake](https://www.theverge.com/news/875014/jeffrey-epstein-fortnite-account-fake)
+ - [New York Is the Latest State to Consider a Data Center Pause](https://www.wired.com/story/new-york-is-the-latest-state-to-consider-a-data-center-pause/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
