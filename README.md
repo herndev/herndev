@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The power of friendship](http://9gag.com/gag/a4PgXnd)
- - ⏩ [This couple&#39;s journey is everything. From weight loss to welcoming their little one, talk about true love and dedication](http://9gag.com/gag/aZZXYZQ)
- - 👉 [Nearly An Entire Generation Has Never Experienced This](http://9gag.com/gag/aVvrp38)<!-- MEMES:END -->
+ - 💣 [Well...well...well.... micro-slop shares are going down the slop of their own making.](http://9gag.com/gag/a87NRdQ)
+ - ⏩ [The power of friendship](http://9gag.com/gag/a4PgXnd)
+ - 👉 [This bolt is worth $8000 and goes in a helicopter](http://9gag.com/gag/aQzbjWw)<!-- MEMES:END -->
 
 ---
 
