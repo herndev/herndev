@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Couples Sex Toys &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-couples-sex-toys/)
- - [Wild leak suggests Snapdragon 8 Elite Gen 6 could run cooler thanks to… Exynos?](https://www.androidauthority.com/snapdragon-8-elite-gen-6-samsung-hpb-3638472/)
- - [Galaxy S26 Ultra strikes different poses in a high-def video leak](https://www.androidauthority.com/galaxy-s26-ultra-video-leak-3638477/)<!-- TECH:END -->
+ - [Buying a Mattress in 2026? We Tested 100+ and These Were the Standouts](https://www.wired.com/gallery/best-mattresses/)
+ - [New phone releases have gotten boring, but is that really so bad?](https://www.androidauthority.com/phone-releases-boring-3634592/)
+ - [‘Uncanny Valley’: Tech Elites in the Epstein Files, Musk’s Mega Merger, and a Crypto Scam Compound](https://www.wired.com/story/uncanny-valley-podcast-tech-elites-epstein-files-musk-mega-merger-crypto-scam-compound/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
