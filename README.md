@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hollywood..](http://9gag.com/gag/adBAA62)
- - ⏩ [My dude is guarding the series lore like it is sacred texts. Bro will not let them ruin this one. Nothing but deepest respects](http://9gag.com/gag/aoyowOe)
- - 👉 [Where can i get one](http://9gag.com/gag/awyjpGy)<!-- MEMES:END -->
+ - 💣 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
+ - ⏩ [By redacting whoever sending this email, the US Department of Justice is desperately trying to protect a criminal](http://9gag.com/gag/apR77Zb)
+ - 👉 [Hollywood..](http://9gag.com/gag/adBAA62)<!-- MEMES:END -->
 
 ---
 
