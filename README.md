@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with Anthropic executives and other tech industry leaders and engineers about Claude Code&#39;s success, which some say has been a long time coming &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/260205/p52#a260205p52)
- - [HBO is turning Baldur’s Gate into a TV show](https://www.theverge.com/entertainment/874682/hbo-baldurs-gate-3-tv-show-craig-mazin)
- - [Grab a MacBook Air from just $389 heading into Super Bowl weekend](https://appleinsider.com/articles/26/02/06/grab-a-macbook-air-from-just-389-heading-into-super-bowl-weekend?utm_source=rss)<!-- TECH:END -->
+ - [French authorities charge four people with spying for China by allegedly seeking to obtain satellite data from Starlink and other critical entities &lpar;Jenny Che/Bloomberg&rpar;](http://www.techmeme.com/260205/p56#a260205p56)
+ - [Only 35 nations signed a declaration affirming &quot;human responsibility over AI-powered weapons&quot;, with the US and China opting out; the US endorsed prior pledges &lpar;Victoria Waldersee/Reuters&rpar;](http://www.techmeme.com/260205/p55#a260205p55)
+ - [A federal jury in Phoenix ordered Uber to pay $8.5M to a passenger who said a driver sexually assaulted her in 2023, the first case where Uber was found liable &lpar;Emily Steel/New York Times&rpar;](http://www.techmeme.com/260205/p54#a260205p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
