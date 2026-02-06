@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
- - ⏩ [Best field trip ever](http://9gag.com/gag/a6Zg63m)
- - 👉 [Uhmm.](http://9gag.com/gag/aByz5e2)<!-- MEMES:END -->
+ - 💣 [Uhmm.](http://9gag.com/gag/aByz5e2)
+ - ⏩ [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
+ - 👉 [Who IS you ?](http://9gag.com/gag/azxy3Wz)<!-- MEMES:END -->
 
 ---
 
