@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True or not, his name is on the list of emails, and he married his daughter &lpar;wife&rpar; too](http://9gag.com/gag/aQzb5dK)
- - ⏩ [Collector bought an ex-Iraqi Army tank on eBay for about \u00a330,000 and made an astonishing discovery when he and his mechanic inspected it five gold bars hidden inside the diesel fuel tank](http://9gag.com/gag/a5Qg3WN)
- - 👉 [Uhmm.](http://9gag.com/gag/aByz5e2)<!-- MEMES:END -->
+ - 💣 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)
+ - ⏩ [My dude is guarding the series lore like it is sacred texts. Bro will not let them ruin this one. Nothing but deepest respects](http://9gag.com/gag/aoyowOe)
+ - 👉 [Where can i get one](http://9gag.com/gag/awyjpGy)<!-- MEMES:END -->
 
 ---
 
