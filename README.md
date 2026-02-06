@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arknights: Endfield Wuling interactive map](https://www.polygon.com/map/arknights-endfield-wuling-interactive-map/)
- - [How to beat Yamagata Masakage in Nioh 3](https://www.pcgamer.com/games/action/nioh-3-yamagata-masakage-boss-guide/)
- - [How to find and use the Dirty Key in Nioh 3](https://www.pcgamer.com/games/action/nioh-3-dirty-key/)<!-- GAME:END -->
+ - [Baldur’s Gate 3 HBO show will pick up where BG3 ended](https://www.polygon.com/baldurs-gate-3-show-adaptation-hbo-craig-mazin/)
+ - [A Baldur&#39;s Gate HBO series is in the works, will be set directly after Baldur&#39;s Gate 3 with new and returning characters](https://www.pcgamer.com/movies-tv/baldurs-gate-tv-show-announced/)
+ - [A Baldur’s Gate TV Show Is Happening In The Worst Way Possible](https://kotaku.com/baldurs-gate-3-hbo-show-craig-mazin-last-of-us-2000666189)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
