@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s annual tax bill fell 87% YoY to $1.2B in 2025, as profits grew 45% to ~$90B, mostly due to GOP&#39;s depreciation breaks in the One Big Beautiful Bill &lpar;Brian Faler/Politico&rpar;](http://www.techmeme.com/260206/p16#a260206p16)
- - [The Jeffrey Epstein Fortnite account is fake](https://www.theverge.com/news/875014/jeffrey-epstein-fortnite-account-fake)
- - [New York Is the Latest State to Consider a Data Center Pause](https://www.wired.com/story/new-york-is-the-latest-state-to-consider-a-data-center-pause/)<!-- TECH:END -->
+ - [DJI OSMO Pocket 4 Pro regulatory listing confirms global launch](https://www.androidauthority.com/dji-osmo-pocket-4-pro-fcc-3638689/)
+ - [My Favorite TV to Watch the Winter Olympics Is on Sale](https://www.wired.com/story/samsung-s90f-qd-oled-tv-deal-226/)
+ - [Sources: Apple plans to allow third-party voice-controlled AI chatbots in CarPlay within the coming months; it won&#39;t let users replace CarPlay&#39;s Siri button &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260206/p18#a260206p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
