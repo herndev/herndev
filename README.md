@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aura’s Aspen digital frame is a great gift, especially now that it’s $30 off](https://www.theverge.com/gadgets/874904/aura-aspen-kobo-libra-colour-deal-sale)
- - [Savvy WHOOP users are saving tons of money with this subscription loophole](https://www.androidauthority.com/whoop-subscription-loophole-3638619/)
- - [Waymo says it is using DeepMind&#39;s Genie 3 to create realistic digital worlds for its autonomous driving technology to train on edge-case scenarios &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260206/p12#a260206p12)<!-- TECH:END -->
+ - [You can finally pre-order the powerful KONKR Fit handheld, but it’s not cheap](https://www.androidauthority.com/ayaneo-konkr-fit-pre-order-3638662/)
+ - [Capitol Hill probe spotlights claims Apple and Google were pushed to block ICE-monitoring apps](https://appleinsider.com/articles/26/02/06/capitol-hill-probe-spotlights-claims-apple-and-google-were-pushed-to-block-ice-monitoring-apps?utm_source=rss)
+ - [Spotify’s About the Song offers context and trivia about your favorite tracks](https://www.theverge.com/entertainment/874945/spotify-about-the-song-ai-liner-notes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
