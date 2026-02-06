@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [French authorities charge four people with spying for China by allegedly seeking to obtain satellite data from Starlink and other critical entities &lpar;Jenny Che/Bloomberg&rpar;](http://www.techmeme.com/260205/p56#a260205p56)
- - [Only 35 nations signed a declaration affirming &quot;human responsibility over AI-powered weapons&quot;, with the US and China opting out; the US endorsed prior pledges &lpar;Victoria Waldersee/Reuters&rpar;](http://www.techmeme.com/260205/p55#a260205p55)
- - [A federal jury in Phoenix ordered Uber to pay $8.5M to a passenger who said a driver sexually assaulted her in 2023, the first case where Uber was found liable &lpar;Emily Steel/New York Times&rpar;](http://www.techmeme.com/260205/p54#a260205p54)<!-- TECH:END -->
+ - [Sapiom, which is developing a financial layer for enterprises to let AI agents automatically buy the services they need, raised a $15M seed led by Accel &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260205/p59#a260205p59)
+ - [Tether acquires a 12% stake, worth $150M, in Gold.com, which enables access to physical and tokenized gold, and plans to integrate its gold-backed XAUT token &lpar;CoinDesk&rpar;](http://www.techmeme.com/260205/p58#a260205p58)
+ - [Alphabet, Amazon, Meta, and Microsoft forecast capital expenditures that reach a combined ~$650B in 2026, a 60% YoY increase driven by data center construction &lpar;Bloomberg&rpar;](http://www.techmeme.com/260205/p57#a260205p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
