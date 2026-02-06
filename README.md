@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True or not, his name is on the list of emails, and he married his daughter &lpar;wife&rpar; too](http://9gag.com/gag/aQzb5dK)
- - ⏩ [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
- - 👉 [We don&#39;t know what we did!](http://9gag.com/gag/aAyAzD0)<!-- MEMES:END -->
+ - 💣 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
+ - ⏩ [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
+ - 👉 [Teddy Bear Black Magic](http://9gag.com/gag/agm9eM6)<!-- MEMES:END -->
 
 ---
 
