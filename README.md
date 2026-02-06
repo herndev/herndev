@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Arknights: Endfield Wuling interactive map](https://www.polygon.com/map/arknights-endfield-wuling-interactive-map/)
  - [How to beat Yamagata Masakage in Nioh 3](https://www.pcgamer.com/games/action/nioh-3-yamagata-masakage-boss-guide/)
- - [How to find and use the Dirty Key in Nioh 3](https://www.pcgamer.com/games/action/nioh-3-dirty-key/)
- - [How to change appearance in Nioh 3](https://www.pcgamer.com/games/action/nioh-3-change-appearance/)<!-- GAME:END -->
+ - [How to find and use the Dirty Key in Nioh 3](https://www.pcgamer.com/games/action/nioh-3-dirty-key/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
