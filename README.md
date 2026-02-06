@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Contacts may soon offer a clever shortcut for Calling Cards](https://www.androidauthority.com/google-contacts-calling-cards-shortcut-phone-apk-teardown-3638593/)
- - [The Best OLED TVs We’ve Ever Seen: LG, Samsung, and More](https://www.wired.com/gallery/best-oleds/)
- - [How an appeal changed the way the USPTO assesses AI patents under the US Patent Act, signaling a shift towards more favorable treatment of AI and ML inventions &lpar;Matthew Carey/Bloomberg Law&rpar;](http://www.techmeme.com/260206/p7#a260206p7)<!-- TECH:END -->
+ - [The Best 3-in-1 Apple Charging Stations &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
+ - [AG1 is a lot less science-y than it sounds](https://www.theverge.com/column/874696/optimizer-ag1-wellness-report-card-greens-powder)
+ - [SIA: chip sales hit $791.7B in 2025, up 25.6% YoY, with Nvidia, AMD, and Intel accounting for $301.9B, up 40%; SIA expects sales to reach $1T in 2026 &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260206/p8#a260206p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
