@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: The ASUS ZenScreen 22-inch Portable Monitor is cheaper than ever!](https://www.androidauthority.com/asus-zenscreen-22-inch-portable-monitor-deal-3638737/)
- - [Spotify rolls out About the Song, swipeable stories in English, summarized from third-party sources to highlight song details, in beta for Premium users &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260206/p25#a260206p25)
- - [Galaxy S26 wireless charging data offers both good news and bad news](https://www.androidauthority.com/galaxy-s26-wpc-listing-spotted-3638711/)<!-- TECH:END -->
+ - [We found 20 Verge-approved gifts on sale ahead of Valentine’s Day](https://www.theverge.com/gadgets/873589/valentines-day-gifts-aura-aspen-amazfit-active-2-deal-sale)
+ - [Palmer Luckey&#39;s Erebor becomes the first newly created bank to receive a national charter under the second Trump administration, launching with $635M in capital &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260206/p26#a260206p26)
+ - [Don’t make this Google Photos mistake and delete all your vacation pics](https://www.androidauthority.com/google-photos-delete-3638743/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
