@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Health+ scaled back internally, new focus on incremental improvement](https://appleinsider.com/articles/26/02/06/apple-health-scaled-back-internally-will-focus-on-incremental-features-instead?utm_source=rss)
- - [NordProtect &lpar;2026&rpar; Review: A Bundle of ID-Protecting Services](https://www.wired.com/review/nordprotect/)
- - [Can China’s No. 2 automaker make it in America?](https://www.theverge.com/transportation/874551/geely-volvo-china-cars-us-software-restrictions)<!-- TECH:END -->
+ - [Google Contacts may soon offer a clever shortcut for Calling Cards](https://www.androidauthority.com/google-contacts-calling-cards-shortcut-phone-apk-teardown-3638593/)
+ - [The Best OLED TVs We’ve Ever Seen: LG, Samsung, and More](https://www.wired.com/gallery/best-oleds/)
+ - [How an appeal changed the way the USPTO assesses AI patents under the US Patent Act, signaling a shift towards more favorable treatment of AI and ML inventions &lpar;Matthew Carey/Bloomberg Law&rpar;](http://www.techmeme.com/260206/p7#a260206p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
