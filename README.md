@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to change appearance in Nioh 3](https://www.polygon.com/nioh-3-change-appearance-transmog-how-to/)
- - [The best Nioh 3 tips to help you complete the game](https://www.polygon.com/nioh-3-beginners-guide-tips-tricks/)
- - [How to get Yokai Teardrops in Nioh 3](https://www.polygon.com/nioh-3-yokai-teardrops-how-to-use-get/)<!-- GAME:END -->
+ - [Valve veteran imperiously scorns reports that it&#39;s secretly finished Half-Life 3 and moving devs to other projects: &#39;They&#39;ve been done for months! They just sit on the game! They&#39;re just relaxing!&#39;](https://www.pcgamer.com/games/fps/valve-veteran-imperiously-scorns-reports-that-its-secretly-finished-half-life-3-and-moving-devs-to-other-projects-theyve-been-done-for-months-they-just-sit-on-the-game-theyre-just-relaxing/)
+ - [Danganronpa Lead Says The Best Way To Get Good Games Made Is To Lie To Your Bosses](https://kotaku.com/danganronpa-hundred-line-kazutaka-kodaka-deceive-company-2000666463)
+ - [The Iron Lung movie takes a unique approach to the game&#39;s tantalizing mysteries](https://www.polygon.com/iron-lung-movie-analysis-mysteries-what-is-real/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
