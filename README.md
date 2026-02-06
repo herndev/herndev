@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New cast for Velma](http://9gag.com/gag/aQzb5Dw)
- - ⏩ [My dude is guarding the series lore like it is sacred texts. Bro will not let them ruin this one. Nothing but deepest respects](http://9gag.com/gag/aoyowOe)
- - 👉 [Where can i get one](http://9gag.com/gag/awyjpGy)<!-- MEMES:END -->
+ - 💣 [Uhmm.](http://9gag.com/gag/aByz5e2)
+ - ⏩ [Who IS you ?](http://9gag.com/gag/azxy3Wz)
+ - 👉 [Best field trip ever](http://9gag.com/gag/a6Zg63m)<!-- MEMES:END -->
 
 ---
 
