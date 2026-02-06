@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
- - ⏩ [Who IS you ?](http://9gag.com/gag/azxy3Wz)
- - 👉 [What a loving coup-hol up](http://9gag.com/gag/ae9zBYj)<!-- MEMES:END -->
+ - 💣 [The universe has a wild sense of humor](http://9gag.com/gag/aZZXY1X)
+ - ⏩ [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/aLnoEex)
+ - 👉 [32 year old Shelby Hewitt pretended to be a teenager, attended high school, befriended teenage boys and even got an adult couple to be her foster parents](http://9gag.com/gag/aZZX5dV)<!-- MEMES:END -->
 
 ---
 
