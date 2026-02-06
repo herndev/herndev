@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve veteran imperiously scorns reports that it&#39;s secretly finished Half-Life 3 and moving devs to other projects: &#39;They&#39;ve been done for months! They just sit on the game! They&#39;re just relaxing!&#39;](https://www.pcgamer.com/games/fps/valve-veteran-imperiously-scorns-reports-that-its-secretly-finished-half-life-3-and-moving-devs-to-other-projects-theyve-been-done-for-months-they-just-sit-on-the-game-theyre-just-relaxing/)
- - [Danganronpa Lead Says The Best Way To Get Good Games Made Is To Lie To Your Bosses](https://kotaku.com/danganronpa-hundred-line-kazutaka-kodaka-deceive-company-2000666463)
- - [The Iron Lung movie takes a unique approach to the game&#39;s tantalizing mysteries](https://www.polygon.com/iron-lung-movie-analysis-mysteries-what-is-real/)<!-- GAME:END -->
+ - [WWE 2K26 dev explains how Ringside Pass differs from Fortnite&#39;s Battle Pass](https://www.polygon.com/wwe-2k26-ringside-pass-dev-interview-battle-pass/)
+ - [Gulliver&#39;s Travels: Ted Danson and the Jim Henson Company made an award-winning miniseries](https://www.polygon.com/gullivers-travels-1996-miniseries/)
+ - [HBO&#39;s Baldur&#39;s Gate show will canonize one of BG3&#39;s endings](https://www.polygon.com/baldurs-gate-3-tv-show-hbo-endings/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
