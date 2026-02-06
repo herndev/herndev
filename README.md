@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Ops 7 interactive maps for multiplayer](https://www.polygon.com/map/call-of-duty-black-ops-7-blops-multiplayer-interactive-maps/)
- - [Call of Duty: Black Ops 7 Zombies interactive maps](https://www.polygon.com/map/call-of-duty-black-ops-7-cod-blops-zombies-interactive/)
- - [Baldur’s Gate 3 HBO show will pick up where BG3 ended](https://www.polygon.com/baldurs-gate-3-show-adaptation-hbo-craig-mazin/)<!-- GAME:END -->
+ - [How to change appearance in Nioh 3](https://www.polygon.com/nioh-3-change-appearance-transmog-how-to/)
+ - [The best Nioh 3 tips to help you complete the game](https://www.polygon.com/nioh-3-beginners-guide-tips-tricks/)
+ - [How to get Yokai Teardrops in Nioh 3](https://www.polygon.com/nioh-3-yokai-teardrops-how-to-use-get/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
