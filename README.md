@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best 3-in-1 Apple Charging Stations &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
- - [AG1 is a lot less science-y than it sounds](https://www.theverge.com/column/874696/optimizer-ag1-wellness-report-card-greens-powder)
- - [SIA: chip sales hit $791.7B in 2025, up 25.6% YoY, with Nvidia, AMD, and Intel accounting for $301.9B, up 40%; SIA expects sales to reach $1T in 2026 &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260206/p8#a260206p8)<!-- TECH:END -->
+ - [Over 800 Google Workers Urge Company to Cancel Any Contracts With ICE and CBP](https://www.wired.com/story/hundreds-of-google-employees-demand-answers-from-executives-about-ice/)
+ - [Analogue’s 4K N64 is getting five new transparent color options](https://www.theverge.com/tech/874494/analogue-3d-4k-n64-console-prototype-limited-editions)
+ - [What happens when Waymo runs into a tornado? Or an elephant?](https://www.theverge.com/transportation/874771/waymo-world-model-simulation-google-deepmind-genie-3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
