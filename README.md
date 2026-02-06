@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI OSMO Pocket 4 Pro regulatory listing confirms global launch](https://www.androidauthority.com/dji-osmo-pocket-4-pro-fcc-3638689/)
- - [My Favorite TV to Watch the Winter Olympics Is on Sale](https://www.wired.com/story/samsung-s90f-qd-oled-tv-deal-226/)
- - [Sources: Apple plans to allow third-party voice-controlled AI chatbots in CarPlay within the coming months; it won&#39;t let users replace CarPlay&#39;s Siri button &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260206/p18#a260206p18)<!-- TECH:END -->
+ - [Galaxy Digital stock jumps 17%+ after the company approved a share buyback program of up to $200M over the next 12 months &lpar;CoinDesk&rpar;](http://www.techmeme.com/260206/p21#a260206p21)
+ - [Verizon is suing T-Mobile for perceived false advertising](https://www.androidauthority.com/verizon-sues-t-mobile-3638706/)
+ - [Google TV Streamer goes back on sale!](https://www.androidauthority.com/google-tv-streamer-deal-12-3638447/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
