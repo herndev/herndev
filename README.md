@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uhmm.](http://9gag.com/gag/aByz5e2)
- - ⏩ [Who IS you ?](http://9gag.com/gag/azxy3Wz)
+ - 💣 [True or not, his name is on the list of emails, and he married his daughter &lpar;wife&rpar; too](http://9gag.com/gag/aQzb5dK)
+ - ⏩ [By redacting whoever sending this email, the US Department of Justice is desperately trying to protect a criminal](http://9gag.com/gag/apR77Zb)
  - 👉 [Best field trip ever](http://9gag.com/gag/a6Zg63m)<!-- MEMES:END -->
 
 ---
