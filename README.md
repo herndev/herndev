@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Zuckerberg considered changing how Meta studies social issues after a WSJ story about Instagram and teen mental health, noting Apple faces less scrutiny &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/260205/p61#a260205p61)
  - [How the SpaceX-xAI $1.25T merger deal was fast-tracked after SpaceX had a technical breakthrough in orbital data centers last fall &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260205/p60#a260205p60)
- - [Sapiom, which is developing a financial layer for enterprises to let AI agents automatically buy the services they need, raised a $15M seed led by Accel &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260205/p59#a260205p59)
- - [I Bought the Galaxy Z TriFold for Over $3,000. Follow Along as I Test It &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/samsung-galaxy-z-trifold-ongoing-review/)<!-- TECH:END -->
+ - [Sapiom, which is developing a financial layer for enterprises to let AI agents automatically buy the services they need, raised a $15M seed led by Accel &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260205/p59#a260205p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
