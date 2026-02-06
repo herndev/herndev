@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Move over Ultra phones, Samsung is launching an Ultra robot vacuum cleaner](https://www.androidauthority.com/samsung-bespoke-ai-jet-bot-steam-ultra-teaser-3638530/)
- - [Can we please shut up about the Pixel 10a’s bezels?](https://www.androidauthority.com/google-pixel-10a-bezels-please-shut-up-3638230/)
- - [Are flagship phones worth buying? New survey yields a resounding ‘no’](https://www.androidauthority.com/flagship-phones-worth-buying-survey-results-3638508/)<!-- TECH:END -->
+ - [The EU says that TikTok&#39;s &quot;addictive design&quot; is illegal under the DSA, citing the app&#39;s infinite scroll and recommendation algorithm, in preliminary findings &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/260206/p6#a260206p6)
+ - [Sony confirms launch date for its redesigned XM6 flagship earbuds](https://www.androidauthority.com/sony-wf-1000xm6-launch-date-confirmed-3638553/)
+ - [Goldman Sachs says it has been working with Anthropic on AI agents to automate a growing number of roles at the bank, including client vetting and onboarding &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/260206/p5#a260206p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
