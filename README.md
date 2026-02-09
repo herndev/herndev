@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shares of Monday.com plunge 20%+ after the company issued weak Q1 guidance, as it battles rising pressure from agentic AI tools &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260209/p28#a260209p28)
- - [Leaked specs for Sony’s next flagship wireless earbuds reveal ANC upgrades](https://www.theverge.com/tech/875782/sony-wf-1000xm6-earbuds-spec-leak)
- - [Linux 6.19 arrives with a teaser for Linux 7.0](https://www.theverge.com/tech/875784/linux-kernel-7-0-announced)<!-- TECH:END -->
+ - [Autodesk sues Google for allegedly infringing its Flow trademark as the name of Google&#39;s AI filmmaking tool &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260209/p29#a260209p29)
+ - [Oura&#39;s FDA lobbying benefits Apple Watch, if everyone&#39;s smart about the risks](https://appleinsider.com/articles/26/02/09/ouras-fda-lobbying-benefits-apple-watch-if-everyones-smart-about-the-risks?utm_source=rss)
+ - [Apple&#39;s loaded M5 MacBook Pro with 32GB RAM, 1TB SSD plunges to $1,899](https://appleinsider.com/articles/26/02/09/apples-loaded-m5-macbook-pro-with-32gb-ram-1tb-ssd-plunges-to-1899?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
