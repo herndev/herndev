@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Jeannette zu Fürstenberg, who was promoted to president of General Catalyst in January, about investing in European tech and defense startups &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260208/p20#a260208p20)
- - [&#39;The Mandalorian and Grogu,&#39; 50 Cent and More of the Biggest Super Bowl 2026 Ads So Far](https://www.cnet.com/tech/services-and-software/watch-super-bowl-2026-ads-now/)
- - [&#39;Star Wars: The Mandalorian and Grogu&#39; Drops Super Bowl Trailer](https://www.cnet.com/tech/services-and-software/star-wars-the-mandalorian-grogu-super-bowl-trailer/)<!-- TECH:END -->
+ - [How China boosts its humanoid robot industry, giving companies land, favorable bank loan terms, and sometimes subsidizing the robots&#39; purchase price by ~10% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260208/p21#a260208p21)
+ - [Inside Bad Bunny’s Historic Super Bowl Halftime Show](https://www.wired.com/story/bad-bunny-super-bowl-halftime-show-behind-the-scenes/)
+ - [An interview with Jeannette zu Fürstenberg, who was promoted to president of General Catalyst in January, about investing in European tech and defense startups &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260208/p20#a260208p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
