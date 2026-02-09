@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siemens CEO Roland Busch’s mission to automate everything](https://www.theverge.com/podcast/875233/siemens-ceo-roland-busch-ai-automation-digital-twins-nato-tariffs)
- - [OpenAI will reportedly start testing ads in ChatGPT today](https://www.theverge.com/news/875724/openai-chatgpt-ads-test-launch)
- - [EU officials and tech executives inaugurate a €2.5B chips research hub in Belgium; ASML and Imec emphasized that the US is dependent on European chip tech &lpar;Pieter Haeck/Politico&rpar;](http://www.techmeme.com/260209/p24#a260209p24)<!-- TECH:END -->
+ - [Shares of Monday.com plunge 20%+ after the company issued weak Q1 guidance, as it battles rising pressure from agentic AI tools &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260209/p28#a260209p28)
+ - [Leaked specs for Sony’s next flagship wireless earbuds reveal ANC upgrades](https://www.theverge.com/tech/875782/sony-wf-1000xm6-earbuds-spec-leak)
+ - [Linux 6.19 arrives with a teaser for Linux 7.0](https://www.theverge.com/tech/875784/linux-kernel-7-0-announced)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
