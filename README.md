@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone saved all of the Epstein emails from the releases and set up a Gmail clone site that you can scroll as if you were in Jeffery&#39;s Gmail. You can search by contacts, photos and even flight history.](http://9gag.com/gag/aW4y3j2)
- - ⏩ [Every man is gonna appreciate this](http://9gag.com/gag/aKGZo0g)
- - 👉 [32 year old Shelby Hewitt pretended to be a teenager, attended high school, befriended teenage boys and even got an adult couple to be her foster parents](http://9gag.com/gag/aZZX5dV)<!-- MEMES:END -->
+ - 💣 [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
+ - ⏩ [Oh, sure sure...!](http://9gag.com/gag/aqyM0vQ)
+ - 👉 [Very near xD](http://9gag.com/gag/aoyobp2)<!-- MEMES:END -->
 
 ---
 
