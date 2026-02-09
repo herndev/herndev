@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
- - ⏩ [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
+ - ⏩ [The Girl Next Door](http://9gag.com/gag/aE0K3Ln)
  - 👉 [Oh, sure sure...!](http://9gag.com/gag/aqyM0vQ)<!-- MEMES:END -->
 
 ---
