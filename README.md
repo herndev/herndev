@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Parry this you filthy casual](http://9gag.com/gag/ae9zXDO)
- - ⏩ [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
- - 👉 [Scary scary](http://9gag.com/gag/aPALNpR)<!-- MEMES:END -->
+ - 💣 [Oh well](http://9gag.com/gag/a87NB6e)
+ - ⏩ [Scary scary](http://9gag.com/gag/aPALNpR)
+ - 👉 [Crab](http://9gag.com/gag/awy2NN8)<!-- MEMES:END -->
 
 ---
 
