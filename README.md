@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apollo nears a $3.4B loan deal to a Valor-led investment vehicle to buy and lease Nvidia chips to xAI; through fall 2025, xAI was burning $1B per month &lpar;Miles Kruppa/The Information&rpar;](http://www.techmeme.com/260209/p22#a260209p22)
- - [Discord plans to roll out age verification globally starting in March to access some content; all accounts will have a &quot;teen-appropriate experience by default&quot; &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260209/p21#a260209p21)
- - [Uber agrees to buy Getir&#39;s delivery operations from Mubadala, without giving the terms; a November 2025 report said it would value Getir&#39;s business at up to $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260209/p20#a260209p20)<!-- TECH:END -->
+ - [Siemens CEO Roland Busch’s mission to automate everything](https://www.theverge.com/podcast/875233/siemens-ceo-roland-busch-ai-automation-digital-twins-nato-tariffs)
+ - [OpenAI will reportedly start testing ads in ChatGPT today](https://www.theverge.com/news/875724/openai-chatgpt-ads-test-launch)
+ - [EU officials and tech executives inaugurate a €2.5B chips research hub in Belgium; ASML and Imec emphasized that the US is dependent on European chip tech &lpar;Pieter Haeck/Politico&rpar;](http://www.techmeme.com/260209/p24#a260209p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
