@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Job Interview](http://9gag.com/gag/aYQ69dw)
- - ⏩ [Multi-tasking final boss](http://9gag.com/gag/apR7yzM)
- - 👉 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)<!-- MEMES:END -->
+ - 💣 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)
+ - ⏩ [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
+ - 👉 [Lets hope your valentines day goes better](http://9gag.com/gag/a7ogzyz)<!-- MEMES:END -->
 
 ---
 
