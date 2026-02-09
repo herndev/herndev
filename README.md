@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upgrade your Apple Home architecture before the old one gets killed on Tuesday](https://appleinsider.com/articles/26/02/09/upgrade-your-apple-home-architecture-before-the-old-one-gets-killed-on-tuesday?utm_source=rss)
- - [Deal: 1st gen Apple AirTag 4-Pack price keeps dropping!](https://www.androidauthority.com/apple-airtag-4-pack-deal-15-3638735/)
- - [OpenAI says ads in ChatGPT are not eligible to appear near &quot;sensitive or regulated topics like health, mental health or politics&quot; &lpar;Madison Mills/Axios&rpar;](http://www.techmeme.com/260209/p35#a260209p35)<!-- TECH:END -->
+ - [An eight-month study at a US tech company finds AI tools didn&#39;t reduce work but intensified it, as employees worked faster and took on a broader range of tasks &lpar;Harvard Business Review&rpar;](http://www.techmeme.com/260209/p36#a260209p36)
+ - [Toyota made a game engine](https://www.theverge.com/games/875995/toyota-fluorite-game-engine)
+ - [Upgrade your Apple Home architecture before the old one gets killed on Tuesday](https://appleinsider.com/articles/26/02/09/upgrade-your-apple-home-architecture-before-the-old-one-gets-killed-on-tuesday?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
