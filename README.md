@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
- - ⏩ [Very near xD](http://9gag.com/gag/aoyobp2)
- - 👉 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)<!-- MEMES:END -->
+ - 💣 [Very near xD](http://9gag.com/gag/aoyobp2)
+ - ⏩ [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
+ - 👉 [Oh, sure sure...!](http://9gag.com/gag/aqyM0vQ)<!-- MEMES:END -->
 
 ---
 
