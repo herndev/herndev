@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scary scary](http://9gag.com/gag/aPALNpR)
- - ⏩ [Debbie is still single and doesnt understand why](http://9gag.com/gag/aAyAWw0)
- - 👉 [Monday again..](http://9gag.com/gag/aXP38d6)<!-- MEMES:END -->
+ - 💣 [Typical thai experience](http://9gag.com/gag/apR7eD8)
+ - ⏩ [Ticc best](http://9gag.com/gag/axyKxML)
+ - 👉 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)<!-- MEMES:END -->
 
 ---
 
