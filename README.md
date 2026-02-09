@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax](https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake)
  - [Blackstone and Coatue grant a $10B loan to Australian AI infrastructure startup Firmus for data center expansion, among Australia&#39;s largest private credit deals &lpar;Sharon Klyne/Bloomberg&rpar;](http://www.techmeme.com/260208/p22#a260208p22)
- - [How China boosts its humanoid robot industry, giving companies land, favorable bank loan terms, and sometimes subsidizing the robots&#39; purchase price by ~10% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260208/p21#a260208p21)
- - [Inside Bad Bunny’s Historic Super Bowl Halftime Show](https://www.wired.com/story/bad-bunny-super-bowl-halftime-show-behind-the-scenes/)<!-- TECH:END -->
+ - [Turning Point USA’s Halftime Show Was Exactly What You’d Expect](https://www.wired.com/story/turning-point-usas-halftime-show-was-exactly-what-youd-expect/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
