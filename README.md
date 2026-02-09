@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We found 20 Verge-approved gifts on sale ahead of Valentine’s Day](https://www.theverge.com/gadgets/873589/valentines-day-gifts-aura-aspen-amazfit-active-2-deal-sale)
- - [Palmer Luckey&#39;s Erebor becomes the first newly created bank to receive a national charter under the second Trump administration, launching with $635M in capital &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260206/p26#a260206p26)
- - [Don’t make this Google Photos mistake and delete all your vacation pics](https://www.androidauthority.com/google-photos-delete-3638743/)<!-- TECH:END -->
+ - [Super Bowl LX ads: all AI everything](https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game)
+ - [As Section 230 turns 30, a look at how upcoming court cases involving Meta, Alphabet, and others in the US could reshape the bounds of Section 230&#39;s protections &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/260208/p19#a260208p19)
+ - [Moltbook was peak AI theater, less of a glimpse at the future and more of a mirror simply reflecting society&#39;s current obsession with AI &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260208/p18#a260208p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
