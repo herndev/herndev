@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [How to approach a police when you have tourette syndrome](http://9gag.com/gag/avyq3V5)
- - ⏩ [Oh, sure sure...!](http://9gag.com/gag/aqyM0vQ)
- - 👉 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)<!-- MEMES:END -->
+ - ⏩ [Me standing at the urinal and realizing how f**ked up I really am...](http://9gag.com/gag/a87NrdQ)
+ - 👉 [A glimmer of hope in this dark world](http://9gag.com/gag/aXP3DOV)<!-- MEMES:END -->
 
 ---
 
