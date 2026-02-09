@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [WWE 2K26 dev explains how Ringside Pass differs from Fortnite&#39;s Battle Pass](https://www.polygon.com/wwe-2k26-ringside-pass-dev-interview-battle-pass/)
- - [Gulliver&#39;s Travels: Ted Danson and the Jim Henson Company made an award-winning miniseries](https://www.polygon.com/gullivers-travels-1996-miniseries/)
- - [HBO&#39;s Baldur&#39;s Gate show will canonize one of BG3&#39;s endings](https://www.polygon.com/baldurs-gate-3-tv-show-hbo-endings/)<!-- GAME:END -->
+ - [Watch Super Bowl LX&#39;s best commercials and movie trailers](https://www.polygon.com/super-bowl-2026-best-commercials-movie-trailers/)
+ - [Fallout was a &#39;B-tier product&#39; that lost both the licenses it was banking on and had its lead dev joking, &#39;In a week, we’re going to be asking whether people want fries with their meal,&#39; but now he thinks those trials &#39;turned out to be positives&#39;](https://www.pcgamer.com/games/fallout/fallout-was-a-b-tier-product-that-lost-both-the-licenses-it-was-banking-on-and-had-its-lead-dev-joking-in-a-week-were-going-to-be-asking-whether-people-want-fries-with-their-meal-but-now-he-thinks-those-trials-turned-out-to-be-positives/)
+ - [How to Catch Super Bowl LX in the US? Patriots vs Seahawks Free Streams](https://kotaku.com/how-to-catch-super-bowl-lx-in-the-us-patriots-vs-seahawks-free-streams-2000666759)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
