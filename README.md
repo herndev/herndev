@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LineageOS just brought two of the best things about Pixels to custom ROMs](https://www.androidauthority.com/lineageos-23-2-released-3638860/)
- - [How Runna, an AI-powered virtual coaching app acquired by Strava in 2025, toned down its aggressive training plans following reports of injuries from some users &lpar;Nicole Nguyen/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p1#a260209p1)
- - [Super Bowl Tailgate Photo Essay: Bad Bunny, Big Tech, and the Big Game](https://www.wired.com/story/super-bowl-lx-tailgate-photo-essay/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 9, #504](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-9-504/)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-9/)
+ - [LineageOS just brought two of the best things about Pixels to custom ROMs](https://www.androidauthority.com/lineageos-23-2-released-3638860/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
