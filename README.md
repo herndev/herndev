@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 9, #504](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-9-504/)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Feb. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-feb-9/)
- - [LineageOS just brought two of the best things about Pixels to custom ROMs](https://www.androidauthority.com/lineageos-23-2-released-3638860/)<!-- TECH:END -->
+ - [A look at the 2026 Super Bowl ads from Anthropic, Amazon, OpenAI, and others, as AI continued to take center stage in ad creations and AI product promotion &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260209/p3#a260209p3)
+ - [China says its trade surplus from digital services rose 100%+ to a record $33B in 2025, boosted by overseas revenue of AI, livestreaming, and e-commerce &lpar;Bloomberg&rpar;](http://www.techmeme.com/260209/p2#a260209p2)
+ - [NotebookLM could get even better with this Gemini feature](https://www.androidauthority.com/notebooklm-personal-intelligence-context-3638892/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
