@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the 2026 Super Bowl ads from Anthropic, Amazon, OpenAI, and others, as AI continued to take center stage in ad creations and AI product promotion &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260209/p3#a260209p3)
- - [China says its trade surplus from digital services rose 100%+ to a record $33B in 2025, boosted by overseas revenue of AI, livestreaming, and e-commerce &lpar;Bloomberg&rpar;](http://www.techmeme.com/260209/p2#a260209p2)
- - [NotebookLM could get even better with this Gemini feature](https://www.androidauthority.com/notebooklm-personal-intelligence-context-3638892/)<!-- TECH:END -->
+ - [PE firm Advent, FedEx, A&amp;R, and PPF agree to acquire Polish automated parcel delivery company InPost for €7.8B; the company has 61K automated parcel lockers &lpar;Dominic Chopping/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p7#a260209p7)
+ - [Poll: Are you happy with your Google TV box’s performance?](https://www.androidauthority.com/google-tv-box-performance-poll-3638907/)
+ - [Buyer beware: ChatGPT’s new affordable Go plan is a bad deal compared to Gemini](https://www.androidauthority.com/chatgpt-go-vs-google-gemini-ai-plus-3638560/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
