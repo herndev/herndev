@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Sam Altman tells staff that ChatGPT is &quot;back to exceeding 10% monthly growth&quot;, and OpenAI plans to release &quot;an updated Chat model&quot; this week &lpar;CNBC&rpar;](http://www.techmeme.com/260209/p17#a260209p17)
- - [A rare look inside Google’s most secretive Pixel Hardware Labs](https://www.androidauthority.com/google-pixel-hardware-labs-tour-3638851/)
- - [Ferrari’s New Jony Ive–Designed EV Is Swathed in Glass and Aluminum](https://www.wired.com/story/ferrari-ev-jony-ive-design/)<!-- TECH:END -->
+ - [Sources: Apollo nears a $3.4B loan deal to a Valor-led investment vehicle to buy and lease Nvidia chips to xAI; through fall 2025, xAI was burning $1B per month &lpar;Miles Kruppa/The Information&rpar;](http://www.techmeme.com/260209/p22#a260209p22)
+ - [Discord plans to roll out age verification globally starting in March to access some content; all accounts will have a &quot;teen-appropriate experience by default&quot; &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260209/p21#a260209p21)
+ - [Uber agrees to buy Getir&#39;s delivery operations from Mubadala, without giving the terms; a November 2025 report said it would value Getir&#39;s business at up to $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260209/p20#a260209p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
