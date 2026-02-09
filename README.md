@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese chip designer Montage raised $902M in its Hong Kong IPO, jumping 64% in its market debut, the biggest rise since Kuaishou&#39;s $6.2B Hong Kong IPO in 2021 &lpar;Julia Zhong/Bloomberg&rpar;](http://www.techmeme.com/260209/p10#a260209p10)
- - [As an Android expert, here are 8 phones I don’t recommend buying right now](https://www.androidauthority.com/android-phones-i-dont-recommend-buying-february-2026-3638618/)
- - [How Curling Became the Winter Olympics’ Favorite Fixation](https://www.wired.com/story/everything-you-need-to-know-curling/)<!-- TECH:END -->
+ - [Soundcore Aerofit 2 Pro Review: Open Earbuds With ANC?](https://www.wired.com/review/anker-soundcore-aerofit-2-pro/)
+ - [No Company Has Admitted to Replacing Workers With AI in New York](https://www.wired.com/story/no-company-has-admitted-to-replacing-workers-with-ai-in-new-york/)
+ - [AYANEO gives us a better look at its Xperia Play revival](https://www.androidauthority.com/ayaneo-pocket-play-video-3638946/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
