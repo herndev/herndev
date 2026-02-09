@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Super Bowl ad features a Lady Gaga and Jigglypuff duet](https://www.polygon.com/pokemon-super-bowl-commercial-lady-gaga-jigglypuff/)
  - [&#39;They have effectively ghosted us:&#39; publisher of delisted art game Horses lambasts Epic Games Store after executive claims &#39;we love that studio&#39;](https://www.pcgamer.com/games/horror/they-have-effectively-ghosted-us-publisher-of-delisted-art-game-horses-lambasts-epic-games-store-after-executive-claims-we-love-that-studio/)
- - [Fallout&#39;s origin can be traced back to a pizza party Tim Cain threw](https://www.pcgamer.com/games/fallout/fallouts-origin-can-be-traced-back-to-a-pizza-party-tim-cain-threw/)
- - [Watch Super Bowl LX&#39;s best commercials and movie trailers](https://www.polygon.com/super-bowl-2026-best-commercials-movie-trailers/)<!-- GAME:END -->
+ - [Fallout&#39;s origin can be traced back to a pizza party Tim Cain threw](https://www.pcgamer.com/games/fallout/fallouts-origin-can-be-traced-back-to-a-pizza-party-tim-cain-threw/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
