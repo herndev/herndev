@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Romeo is a Dead Man – Suda 51 and director Ren Yamazaki discuss controlled chaos of development](https://blog.playstation.com/2026/02/09/romeo-is-a-dead-man-suda-51-and-director-ren-yamazaki-discuss-controlled-chaos-of-development/)
- - [Replaced hands-on preview: the action-platformer isn&#39;t cyberpunk enough](https://www.polygon.com/replaced-hands-on-preview/)
- - [Interview: An Inside Look Behind the Chaos of Romeo is A Dead Man](https://news.xbox.com/en-us/2026/02/09/interview-suda-51-romeo-is-a-dead-man/)<!-- GAME:END -->
+ - [All Onsen Egg Hunt locations in Heartopia](https://www.polygon.com/heartopia-egg-hunt-onsen-promise-treasure-locations-today/)
+ - [How to prepare for the Puppy Love update in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-puppy-love-update/)
+ - [Indiana Jones isn&#39;t the only must-play history adventure on Xbox Game Pass](https://www.polygon.com/relooted-impressions-xbox-game-pass-recommendation/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
