@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh well](http://9gag.com/gag/a87NB6e)
- - ⏩ [Scary scary](http://9gag.com/gag/aPALNpR)
- - 👉 [Crab](http://9gag.com/gag/awy2NN8)<!-- MEMES:END -->
+ - 💣 [Monday again..](http://9gag.com/gag/aXP38d6)
+ - ⏩ [Nice and yes it did happen](http://9gag.com/gag/azxyNeq)
+ - 👉 [No Comment.](http://9gag.com/gag/avyw27W)<!-- MEMES:END -->
 
 ---
 
