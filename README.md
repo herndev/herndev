@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Soundcore Aerofit 2 Pro Review: Open Earbuds With ANC?](https://www.wired.com/review/anker-soundcore-aerofit-2-pro/)
- - [No Company Has Admitted to Replacing Workers With AI in New York](https://www.wired.com/story/no-company-has-admitted-to-replacing-workers-with-ai-in-new-york/)
- - [AYANEO gives us a better look at its Xperia Play revival](https://www.androidauthority.com/ayaneo-pocket-play-video-3638946/)<!-- TECH:END -->
+ - [Internal memo: Sam Altman tells staff that ChatGPT is &quot;back to exceeding 10% monthly growth&quot;, and OpenAI plans to release &quot;an updated Chat model&quot; this week &lpar;CNBC&rpar;](http://www.techmeme.com/260209/p17#a260209p17)
+ - [A rare look inside Google’s most secretive Pixel Hardware Labs](https://www.androidauthority.com/google-pixel-hardware-labs-tour-3638851/)
+ - [Ferrari’s New Jony Ive–Designed EV Is Swathed in Glass and Aluminum](https://www.wired.com/story/ferrari-ev-jony-ive-design/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
