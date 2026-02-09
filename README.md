@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
- - ⏩ [Oh, sure sure...!](http://9gag.com/gag/aqyM0vQ)
- - 👉 [Very near xD](http://9gag.com/gag/aoyobp2)<!-- MEMES:END -->
+ - 💣 [Job Interview](http://9gag.com/gag/aYQ69dw)
+ - ⏩ [Multi-tasking final boss](http://9gag.com/gag/apR7yzM)
+ - 👉 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)<!-- MEMES:END -->
 
 ---
 
