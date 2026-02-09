@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to approach a police when you have tourette syndrome](http://9gag.com/gag/avyq3V5)
- - ⏩ [Me standing at the urinal and realizing how f**ked up I really am...](http://9gag.com/gag/a87NrdQ)
- - 👉 [A glimmer of hope in this dark world](http://9gag.com/gag/aXP3DOV)<!-- MEMES:END -->
+ - 💣 [I support this message 100%](http://9gag.com/gag/aPALNdR)
+ - ⏩ [How to approach a police when you have tourette syndrome](http://9gag.com/gag/avyq3V5)
+ - 👉 [Maybe this should be thought earlier](http://9gag.com/gag/a2vgBZ9)<!-- MEMES:END -->
 
 ---
 
