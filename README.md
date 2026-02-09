@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PE firm Advent, FedEx, A&amp;R, and PPF agree to acquire Polish automated parcel delivery company InPost for €7.8B; the company has 61K automated parcel lockers &lpar;Dominic Chopping/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p7#a260209p7)
- - [Poll: Are you happy with your Google TV box’s performance?](https://www.androidauthority.com/google-tv-box-performance-poll-3638907/)
- - [Buyer beware: ChatGPT’s new affordable Go plan is a bad deal compared to Gemini](https://www.androidauthority.com/chatgpt-go-vs-google-gemini-ai-plus-3638560/)<!-- TECH:END -->
+ - [Chinese chip designer Montage raised $902M in its Hong Kong IPO, jumping 64% in its market debut, the biggest rise since Kuaishou&#39;s $6.2B Hong Kong IPO in 2021 &lpar;Julia Zhong/Bloomberg&rpar;](http://www.techmeme.com/260209/p10#a260209p10)
+ - [As an Android expert, here are 8 phones I don’t recommend buying right now](https://www.androidauthority.com/android-phones-i-dont-recommend-buying-february-2026-3638618/)
+ - [How Curling Became the Winter Olympics’ Favorite Fixation](https://www.wired.com/story/everything-you-need-to-know-curling/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
