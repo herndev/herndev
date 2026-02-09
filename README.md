@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ticc best](http://9gag.com/gag/axyKxML)
- - ⏩ [Scary scary](http://9gag.com/gag/aPALNpR)
- - 👉 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)<!-- MEMES:END -->
+ - 💣 [Parry this you filthy casual](http://9gag.com/gag/ae9zXDO)
+ - ⏩ [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
+ - 👉 [Scary scary](http://9gag.com/gag/aPALNpR)<!-- MEMES:END -->
 
 ---
 
