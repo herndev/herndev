@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fallout&#39;s origin can be traced back to a pizza party Tim Cain threw](https://www.pcgamer.com/games/fallout/fallouts-origin-can-be-traced-back-to-a-pizza-party-tim-cain-threw/)
  - [Watch Super Bowl LX&#39;s best commercials and movie trailers](https://www.polygon.com/super-bowl-2026-best-commercials-movie-trailers/)
- - [Fallout was a &#39;B-tier product&#39; that lost both the licenses it was banking on and had its lead dev joking, &#39;In a week, we’re going to be asking whether people want fries with their meal,&#39; but now he thinks those trials &#39;turned out to be positives&#39;](https://www.pcgamer.com/games/fallout/fallout-was-a-b-tier-product-that-lost-both-the-licenses-it-was-banking-on-and-had-its-lead-dev-joking-in-a-week-were-going-to-be-asking-whether-people-want-fries-with-their-meal-but-now-he-thinks-those-trials-turned-out-to-be-positives/)
- - [How to Catch Super Bowl LX in the US? Patriots vs Seahawks Free Streams](https://kotaku.com/how-to-catch-super-bowl-lx-in-the-us-patriots-vs-seahawks-free-streams-2000666759)<!-- GAME:END -->
+ - [Fallout was a &#39;B-tier product&#39; that lost both the licenses it was banking on and had its lead dev joking, &#39;In a week, we’re going to be asking whether people want fries with their meal,&#39; but now he thinks those trials &#39;turned out to be positives&#39;](https://www.pcgamer.com/games/fallout/fallout-was-a-b-tier-product-that-lost-both-the-licenses-it-was-banking-on-and-had-its-lead-dev-joking-in-a-week-were-going-to-be-asking-whether-people-want-fries-with-their-meal-but-now-he-thinks-those-trials-turned-out-to-be-positives/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
