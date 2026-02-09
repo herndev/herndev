@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Typical thai experience](http://9gag.com/gag/apR7eD8)
- - ⏩ [Ticc best](http://9gag.com/gag/axyKxML)
- - 👉 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)<!-- MEMES:END -->
+ - 💣 [Ticc best](http://9gag.com/gag/axyKxML)
+ - ⏩ [Scary scary](http://9gag.com/gag/aPALNpR)
+ - 👉 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)<!-- MEMES:END -->
 
 ---
 
