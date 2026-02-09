@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now even more users have to pay YouTube Music for song lyrics &lpar;Update: Google statement&rpar;](https://www.androidauthority.com/youtube-music-lyrics-paywall-wide-rollout-3638956/)
- - [People are getting Google Translate to chat instead of translate](https://www.androidauthority.com/google-translate-chat-prompt-injection-3639245/)
- - [Sources: Stripe is in talks to launch a tender offer that could value the company at $140B+, up from $107B last fall, when it bought back shares from investors &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/260209/p37#a260209p37)<!-- TECH:END -->
+ - [Gift Card deals: Save on your deliveries with DoorDash and Instacart](https://www.androidauthority.com/doordash-instacart-gift-card-deals-3639143/)
+ - [Onsemi reports Q4 revenue down 11% YoY to $1.53B, vs. $1.54B est., as its two biggest business units continue to post sales declines; ON drops 4%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p40#a260209p40)
+ - [Discord&#39;s upcoming safety update makes age verification hard to avoid](https://appleinsider.com/articles/26/02/09/discords-upcoming-safety-update-makes-age-verification-hard-to-avoid?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
