@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says ads in ChatGPT are not eligible to appear near &quot;sensitive or regulated topics like health, mental health or politics&quot; &lpar;Madison Mills/Axios&rpar;](http://www.techmeme.com/260209/p35#a260209p35)
- - [I just saved $80 on my YouTube TV bill for the next four months — here’s how you can too](https://www.androidauthority.com/youtube-tv-20-dollar-month-discount-february-2026-3639179/)
- - [Nintendo 3DS emulation is getting a big performance boost](https://www.androidauthority.com/3ds-shader-cache-3639160/)<!-- TECH:END -->
+ - [Upgrade your Apple Home architecture before the old one gets killed on Tuesday](https://appleinsider.com/articles/26/02/09/upgrade-your-apple-home-architecture-before-the-old-one-gets-killed-on-tuesday?utm_source=rss)
+ - [Deal: 1st gen Apple AirTag 4-Pack price keeps dropping!](https://www.androidauthority.com/apple-airtag-4-pack-deal-15-3638735/)
+ - [OpenAI says ads in ChatGPT are not eligible to appear near &quot;sensitive or regulated topics like health, mental health or politics&quot; &lpar;Madison Mills/Axios&rpar;](http://www.techmeme.com/260209/p35#a260209p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
