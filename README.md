@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neara, which builds digital twins of critical infrastructure to help prepare for disasters, raised a AU$90M Series D, a source says at a AU$1.1B valuation &lpar;Rhiannon Hoyle/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p32#a260209p32)
- - [Sources: Alphabet has attracted more than $100B of orders for a bond sale that&#39;s expected to be about $15B &lpar;Brian W Smith/Bloomberg&rpar;](http://www.techmeme.com/260209/p31#a260209p31)
- - [Beast Industries, the entertainment conglomerate founded by MrBeast and last valued at $5.2B, acquires Step Mobile, a teen-focused banking app &lpar;Valida Pau/The Information&rpar;](http://www.techmeme.com/260209/p30#a260209p30)<!-- TECH:END -->
+ - [OpenAI says ads in ChatGPT are not eligible to appear near &quot;sensitive or regulated topics like health, mental health or politics&quot; &lpar;Madison Mills/Axios&rpar;](http://www.techmeme.com/260209/p35#a260209p35)
+ - [I just saved $80 on my YouTube TV bill for the next four months — here’s how you can too](https://www.androidauthority.com/youtube-tv-20-dollar-month-discount-february-2026-3639179/)
+ - [Nintendo 3DS emulation is getting a big performance boost](https://www.androidauthority.com/3ds-shader-cache-3639160/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
