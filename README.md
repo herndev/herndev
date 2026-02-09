@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Map says it all, shoes off is the way](http://9gag.com/gag/aO8E6z2)
+ - 💣 [Ticc best](http://9gag.com/gag/axyKxML)
  - ⏩ [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
- - 👉 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)<!-- MEMES:END -->
+ - 👉 [The Girl Next Door](http://9gag.com/gag/aE0K3Ln)<!-- MEMES:END -->
 
 ---
 
