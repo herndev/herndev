@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FTL-like Void War was DMCAed by Games Workshop due to &#39;oversized convex shoulder pads with a metallic rim&#39;](https://www.pcgamer.com/gaming-industry/ftl-like-void-war-was-dmcaed-by-games-workshop-due-to-oversized-convex-shoulder-pads-with-a-metallic-rim/)
- - [Pokémon Super Bowl ad features a Lady Gaga and Jigglypuff duet](https://www.polygon.com/pokemon-super-bowl-commercial-lady-gaga-jigglypuff/)
- - [&#39;They have effectively ghosted us:&#39; publisher of delisted art game Horses lambasts Epic Games Store after executive claims &#39;we love that studio&#39;](https://www.pcgamer.com/games/horror/they-have-effectively-ghosted-us-publisher-of-delisted-art-game-horses-lambasts-epic-games-store-after-executive-claims-we-love-that-studio/)<!-- GAME:END -->
+ - [Romeo is a Dead Man – Suda 51 and director Ren Yamazaki discuss controlled chaos of development](https://blog.playstation.com/2026/02/09/romeo-is-a-dead-man-suda-51-and-director-ren-yamazaki-discuss-controlled-chaos-of-development/)
+ - [Replaced hands-on preview: the action-platformer isn&#39;t cyberpunk enough](https://www.polygon.com/replaced-hands-on-preview/)
+ - [Interview: An Inside Look Behind the Chaos of Romeo is A Dead Man](https://news.xbox.com/en-us/2026/02/09/interview-suda-51-romeo-is-a-dead-man/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
