@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a man code...he had to do it](http://9gag.com/gag/a1mg90b)
- - ⏩ [Job Interview](http://9gag.com/gag/aYQ69dw)
+ - 💣 [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
+ - ⏩ [Very near xD](http://9gag.com/gag/aoyobp2)
  - 👉 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)<!-- MEMES:END -->
 
 ---
