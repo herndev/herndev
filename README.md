@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very near xD](http://9gag.com/gag/aoyobp2)
- - ⏩ [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
+ - 💣 [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
+ - ⏩ [Remember Iryna Zarutska ?](http://9gag.com/gag/a0egBxL)
  - 👉 [Oh, sure sure...!](http://9gag.com/gag/aqyM0vQ)<!-- MEMES:END -->
 
 ---
