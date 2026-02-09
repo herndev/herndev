@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Monday again..](http://9gag.com/gag/aXP38d6)
- - ⏩ [Nice and yes it did happen](http://9gag.com/gag/azxyNeq)
- - 👉 [No Comment.](http://9gag.com/gag/avyw27W)<!-- MEMES:END -->
+ - 💣 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)
+ - ⏩ [Monday again..](http://9gag.com/gag/aXP38d6)
+ - 👉 [Nice and yes it did happen](http://9gag.com/gag/azxyNeq)<!-- MEMES:END -->
 
 ---
 
