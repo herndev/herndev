@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I support this message 100%](http://9gag.com/gag/aPALNdR)
- - ⏩ [How to approach a police when you have tourette syndrome](http://9gag.com/gag/avyq3V5)
- - 👉 [Maybe this should be thought earlier](http://9gag.com/gag/a2vgBZ9)<!-- MEMES:END -->
+ - 💣 [It&#39;s All About Perspective](http://9gag.com/gag/aVvrn32)
+ - ⏩ [Map says it all, shoes off is the way](http://9gag.com/gag/aO8E6z2)
+ - 👉 [Avril behind the voice.](http://9gag.com/gag/aAyAWod)<!-- MEMES:END -->
 
 ---
 
