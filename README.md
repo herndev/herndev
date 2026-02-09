@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An eight-month study at a US tech company finds AI tools didn&#39;t reduce work but intensified it, as employees worked faster and took on a broader range of tasks &lpar;Harvard Business Review&rpar;](http://www.techmeme.com/260209/p36#a260209p36)
- - [Toyota made a game engine](https://www.theverge.com/games/875995/toyota-fluorite-game-engine)
- - [Upgrade your Apple Home architecture before the old one gets killed on Tuesday](https://appleinsider.com/articles/26/02/09/upgrade-your-apple-home-architecture-before-the-old-one-gets-killed-on-tuesday?utm_source=rss)<!-- TECH:END -->
+ - [Now even more users have to pay YouTube Music for song lyrics &lpar;Update: Google statement&rpar;](https://www.androidauthority.com/youtube-music-lyrics-paywall-wide-rollout-3638956/)
+ - [People are getting Google Translate to chat instead of translate](https://www.androidauthority.com/google-translate-chat-prompt-injection-3639245/)
+ - [Sources: Stripe is in talks to launch a tender offer that could value the company at $140B+, up from $107B last fall, when it bought back shares from investors &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/260209/p37#a260209p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
