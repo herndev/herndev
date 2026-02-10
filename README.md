@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean online travel platform Myrealtrip aims to hit a $1B+ valuation in a Seoul IPO as early as H2 2027, per CEO Donggun Lee, amid a boom in tourism &lpar;Jihye Lee/Wall Street Journal&rpar;](http://www.techmeme.com/260210/p16#a260210p16)
- - [UK gets Apple and Google to agree to easy App Store changes](https://appleinsider.com/articles/26/02/10/uk-gets-apple-and-google-to-agree-to-easy-app-store-changes?utm_source=rss)
- - [Even Realities G2 Review: Smarter Glasses](https://www.wired.com/review/even-realities-g2/)<!-- TECH:END -->
+ - [Sources: Mark Zuckerberg plans to buy a Miami mansion, likely to cost up to $200M, joining other tech billionaires as California proposes a 5% billionaire tax &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260210/p23#a260210p23)
+ - [Cosmic Orange iPhone 17 Pro really helped China sales](https://appleinsider.com/articles/26/02/10/cosmic-orange-iphone-17-pro-really-helped-china-sales?utm_source=rss)
+ - [Health care navigation startup Solace, which matches patients with 2K+ advocates, raised $130M led by IVP at a $1B valuation, taking its total funding to $211M &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260210/p22#a260210p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
