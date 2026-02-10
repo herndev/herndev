@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matia, which helps enterprises consolidate their data management operations, raised a $21M Series A led by Red Dot Capital, bringing its total funding to $31M+ &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260210/p33#a260210p33)
- - [Cisco launches the Silicon One G300 switch chip, made using TSMC&#39;s 3nm technology to compete with Broadcom and Nvidia in the AI infrastructure market &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260210/p32#a260210p32)
- - [Don’t panic: Fairphone didn’t get hacked &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/fairphone-email-3638622/)<!-- TECH:END -->
+ - [&#39;Oceanhorn 3&#39; leads March updates coming to Apple Arcade](https://appleinsider.com/articles/26/02/10/oceanhorn-3-leads-march-updates-coming-to-apple-arcade?utm_source=rss)
+ - [Vega, which uses AI to detect security threats directly within cloud services, raised a $120M Series B at a $700M valuation, bringing its total raised to $185M &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260210/p38#a260210p38)
+ - [ICE Is Expanding Across the US at Breakneck Speed. Here’s Where It’s Going Next](https://www.wired.com/story/ice-expansion-across-us-at-heres-where-its-going-next/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
