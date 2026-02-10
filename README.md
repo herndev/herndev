@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese Female Police Motorcycle Officer](http://9gag.com/gag/ae9wKLv)
- - ⏩ [It sounds like your `loneliness` may just be another one of your bad choices](http://9gag.com/gag/an7wePn)
- - 👉 [Paycheck after Paycheck](http://9gag.com/gag/abAw3mb)<!-- MEMES:END -->
+ - 💣 [Oh wow](http://9gag.com/gag/aE05deM)
+ - ⏩ [Typical thai experience](http://9gag.com/gag/apR7eD8)
+ - 👉 [No Comment.](http://9gag.com/gag/avyw27W)<!-- MEMES:END -->
 
 ---
 
