@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)
- - ⏩ [Scary scary](http://9gag.com/gag/aPALNpR)
+ - 💣 [Wife gets a tiny bit excited](http://9gag.com/gag/a9ywQy0)
+ - ⏩ [Typical thai experience](http://9gag.com/gag/apR7eD8)
  - 👉 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)<!-- MEMES:END -->
 
 ---
