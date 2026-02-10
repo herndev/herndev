@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crab](http://9gag.com/gag/awy2NN8)
- - ⏩ [Wife gets a tiny bit excited](http://9gag.com/gag/a9ywQy0)
- - 👉 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)<!-- MEMES:END -->
+ - 💣 [Paycheck after Paycheck](http://9gag.com/gag/abAw3mb)
+ - ⏩ [Stars revolving around a super massive black hole](http://9gag.com/gag/a1mjp28)
+ - 👉 [Brother has shitpost potential](http://9gag.com/gag/aYQ680q)<!-- MEMES:END -->
 
 ---
 
