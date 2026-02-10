@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gift Card deals: Save on your deliveries with DoorDash and Instacart](https://www.androidauthority.com/doordash-instacart-gift-card-deals-3639143/)
- - [Onsemi reports Q4 revenue down 11% YoY to $1.53B, vs. $1.54B est., as its two biggest business units continue to post sales declines; ON drops 4%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p40#a260209p40)
- - [Discord&#39;s upcoming safety update makes age verification hard to avoid](https://appleinsider.com/articles/26/02/09/discords-upcoming-safety-update-makes-age-verification-hard-to-avoid?utm_source=rss)<!-- TECH:END -->
+ - [Sources: the White House is drafting a voluntary pact seeking commitments from tech companies to ensure data centers don&#39;t raise electricity prices and more &lpar;Politico&rpar;](http://www.techmeme.com/260209/p43#a260209p43)
+ - [Meta Goes to Trial in a New Mexico Child Safety Case. Here&#39;s What&#39;s at Stake](https://www.wired.com/story/meta-child-safety-trial-new-mexico-attorney-general/)
+ - [Sources: the Trump administration plans to spare US hyperscalers from upcoming tariffs on chips; exemptions would be based on TSMC&#39;s US investment commitments &lpar;Aime Williams/Financial Times&rpar;](http://www.techmeme.com/260209/p42#a260209p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
