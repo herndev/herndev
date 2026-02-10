@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
- - ⏩ [Debbie is still single and doesnt understand why](http://9gag.com/gag/aAyAWw0)
- - 👉 [Crab](http://9gag.com/gag/awy2NN8)<!-- MEMES:END -->
+ - 💣 [Monday again..](http://9gag.com/gag/aXP38d6)
+ - ⏩ [Nice and yes it did happen](http://9gag.com/gag/azxyNeq)
+ - 👉 [Stars revolving around a super massive black hole](http://9gag.com/gag/a1mjp28)<!-- MEMES:END -->
 
 ---
 
