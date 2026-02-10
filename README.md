@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surveys show Motorola’s chaotic take on Android updates isn’t impressing its fans](https://www.androidauthority.com/motorola-android-update-policies-poll-results-3639539/)
- - [Tech Oversight Project: ahead of a landmark social media addiction trial, Meta paid for 3,500+ ads on CNN, Fox, and others to promote Instagram&#39;s Teen Accounts &lpar;Annie Bang/Bloomberg&rpar;](http://www.techmeme.com/260210/p48#a260210p48)
- - [AYANEO’s monster of a Windows gaming handheld sells for more than a Galaxy Z TriFold](https://www.androidauthority.com/ayaneo-next-2-pricing-3639566/)<!-- TECH:END -->
+ - [Palantir CEO Alex Karp Recorded a Video About ICE for His Employees](https://www.wired.com/story/palantir-ceo-alex-karp-employee-questions-on-ice/)
+ - [Gnarly new Android spyware could let attackers track your location, steal banking info](https://www.androidauthority.com/spyware-toolkit-zerodayrat-3639624/)
+ - [Bernstein&#39;s $340 Apple target bets on Services instead of hardware growth](https://appleinsider.com/articles/26/02/10/bernsteins-340-apple-target-bets-on-services-instead-of-hardware-growth?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
