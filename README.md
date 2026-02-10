@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wife gets a tiny bit excited](http://9gag.com/gag/a9ywQy0)
- - ⏩ [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
- - 👉 [Parry this you filthy casual](http://9gag.com/gag/ae9zXDO)<!-- MEMES:END -->
+ - 💣 [Crab](http://9gag.com/gag/awy2NN8)
+ - ⏩ [Parry this you filthy casual](http://9gag.com/gag/ae9zXDO)
+ - 👉 [Wife&#39;s morning routine vs husband&#39;s morning routine](http://9gag.com/gag/aD29B6G)<!-- MEMES:END -->
 
 ---
 
