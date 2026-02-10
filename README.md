@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony is revealing more than just the WF-1000XM6 this week](https://www.androidauthority.com/new-sony-headphones-color-3639673/)
- - [Robinhood reports Q4 revenue up 27% YoY to $1.28B, below est., crypto revenue down 38% to $221M, below est., and net income down 34%; HOOD drops 5%+ after hours &lpar;Hannah Erin Lang/Wall Street Journal&rpar;](http://www.techmeme.com/260210/p56#a260210p56)
- - [Android 16 QPR3 Beta 2.1 rolls out with a bunch of performance and battery fixes](https://www.androidauthority.com/android-16-qpr3-beta-2-1-rollout-3639687/)<!-- TECH:END -->
+ - [Discord age verification not a requirement for every user, but still bad](https://appleinsider.com/articles/26/02/10/discord-age-verification-not-a-requirement-for-every-user-but-still-bad?utm_source=rss)
+ - [ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports](https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer)
+ - [Samsung confirms Galaxy Unpacked plans for last week of February](https://www.androidauthority.com/samsung-unpacked-galaxy-s26-3639623/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
