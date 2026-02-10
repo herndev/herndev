@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese AI companies like Alibaba and Tencent are releasing new models and spending millions on &quot;red envelope&quot; freebies to woo users ahead of the Lunar New Year &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/260210/p5#a260210p5)
- - [This is how you’ll be able to trigger and experience Gemini on Aluminium OS](https://www.androidauthority.com/google-aluminium-os-gemini-integration-apk-teardown-3639334/)
- - [Next-gen Ultra phones could switch to triple 100MP cameras, 100MP selfie cameras](https://www.androidauthority.com/phones-with-three-100mp-cameras-selfie-camera-3639341/)<!-- TECH:END -->
+ - [The Best Smart Sleep Pads for Your Most Efficient Sleep &lpar;2026&rpar;](https://www.wired.com/story/best-smart-sleep-pads/)
+ - [I’ve been a hardcore PC gamer my whole life. In 2026, I own a Chromebook instead](https://www.androidauthority.com/pc-gamer-switched-to-chromebook-3637889/)
+ - [Gemini’s most powerful new ability looks like it’s getting ready for Gemini Live](https://www.androidauthority.com/gemini-live-personal-intelligence-3639225/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
