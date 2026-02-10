@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Typical thai experience](http://9gag.com/gag/apR7eD8)
- - ⏩ [No Comment.](http://9gag.com/gag/avyw27W)
+ - 💣 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
+ - ⏩ [Debbie is still single and doesnt understand why](http://9gag.com/gag/aAyAWw0)
  - 👉 [Crab](http://9gag.com/gag/awy2NN8)<!-- MEMES:END -->
 
 ---
