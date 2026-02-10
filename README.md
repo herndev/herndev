@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scary scary](http://9gag.com/gag/aPALNpR)
- - ⏩ [Nineteen Ninety-One](http://9gag.com/gag/amowqQo)
- - 👉 [I mean... How?](http://9gag.com/gag/arywvVX)<!-- MEMES:END -->
+ - 💣 [No Comment.](http://9gag.com/gag/avyw27W)
+ - ⏩ [Japanese Female Police Motorcycle Officer](http://9gag.com/gag/ae9wKLv)
+ - 👉 [Watching this old book get a stunning makeover is so satisfying](http://9gag.com/gag/aVv5jp8)<!-- MEMES:END -->
 
 ---
 
