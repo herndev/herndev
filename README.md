@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Smart Sleep Pads for Your Most Efficient Sleep &lpar;2026&rpar;](https://www.wired.com/story/best-smart-sleep-pads/)
- - [I’ve been a hardcore PC gamer my whole life. In 2026, I own a Chromebook instead](https://www.androidauthority.com/pc-gamer-switched-to-chromebook-3637889/)
- - [Gemini’s most powerful new ability looks like it’s getting ready for Gemini Live](https://www.androidauthority.com/gemini-live-personal-intelligence-3639225/)<!-- TECH:END -->
+ - [Spotify reports Q4 revenue up 13% YoY to €4.5B, Premium users up 10% YoY to 290M, MAUs up 11% YoY to 751M, and a €701M operating income, above €639.1M est. &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/260210/p11#a260210p11)
+ - [Analysis: despite AI ads outnumbering traditional Super Bowl ad categories like beer, nostalgia-driven ads from Budweiser and Dunkin&#39; dominated social media &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/260210/p10#a260210p10)
+ - [The Best Streaming Bundles and Streaming Deals of February 2026](https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
