@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloud computing provider Nebius agrees to buy Tavily, which helps AI agents search for up-to-date information for tasks like coding, a source says for $275M &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260210/p29#a260210p29)
- - [Gmail on Android finally gets a crucial feature six years after iOS](https://www.androidauthority.com/gmail-labels-android-rolling-out-3639409/)
- - [Google Maps prepares to get a lot more talkative with Ask Maps](https://www.androidauthority.com/google-maps-ask-maps-gemini-apk-teardown-3639448/)<!-- TECH:END -->
+ - [Matia, which helps enterprises consolidate their data management operations, raised a $21M Series A led by Red Dot Capital, bringing its total funding to $31M+ &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260210/p33#a260210p33)
+ - [Cisco launches the Silicon One G300 switch chip, made using TSMC&#39;s 3nm technology to compete with Broadcom and Nvidia in the AI infrastructure market &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260210/p32#a260210p32)
+ - [Don’t panic: Fairphone didn’t get hacked &lpar;Update: Confirmed&rpar;](https://www.androidauthority.com/fairphone-email-3638622/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
