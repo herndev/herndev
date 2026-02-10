@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)
- - ⏩ [No Comment.](http://9gag.com/gag/avyw27W)
- - 👉 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)<!-- MEMES:END -->
+ - ⏩ [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
+ - 👉 [Crab](http://9gag.com/gag/awy2NN8)<!-- MEMES:END -->
 
 ---
 
