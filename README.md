@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wife gets a tiny bit excited](http://9gag.com/gag/a9ywQy0)
- - ⏩ [Typical thai experience](http://9gag.com/gag/apR7eD8)
+ - 💣 [Crab](http://9gag.com/gag/awy2NN8)
+ - ⏩ [Wife gets a tiny bit excited](http://9gag.com/gag/a9ywQy0)
  - 👉 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)<!-- MEMES:END -->
 
 ---
