@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gary Shapiro plans to step down as CEO of the Consumer Technology Association, the owner and producer of annual CES events in Las Vegas, after 35+ years &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260210/p42#a260210p42)
- - [The Shokz OpenFit Air earbuds are matching their all-time low price](https://www.theverge.com/gadgets/876392/shokz-openfit-air-earbuds-kobo-clara-colour-deal-sale)
- - [Sources: Spain-based Multiverse, which shrinks LLMs to reduce energy and compute costs, is in talks to raise ~€500M at a €1.5B+ valuation and has hit €100M ARR &lpar;Bloomberg&rpar;](http://www.techmeme.com/260210/p41#a260210p41)<!-- TECH:END -->
+ - [Under-screen Touch ID may not just be for iPhone](https://appleinsider.com/articles/26/02/10/under-screen-touch-id-may-not-just-be-for-iphone?utm_source=rss)
+ - [Facebook can animate your profile pic with AI](https://www.theverge.com/tech/876480/meta-facebook-animate-profile-picture-restyle-ai)
+ - [Sam Bankman-Fried, who is serving 25 years for fraud, files a long-shot request for a new trial, says new witness testimony could refute the prosecution&#39;s case &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/260210/p46#a260210p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
