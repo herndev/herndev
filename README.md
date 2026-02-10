@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Need a power station? The DJI Power 2000 has never been cheaper!](https://www.androidauthority.com/dji-power-2000-portable-power-station-deal-3639142/)
- - [Discord Plans to Treat Some Users as Teens Until They Verify Their Age](https://www.cnet.com/tech/services-and-software/discord-teen-by-default-age-category/)
- - [OpenAI Responds to Critical Super Bowl Commercials by Putting Ads in ChatGPT &lpar;Ece Yildirim/Gizmodo&rpar;](http://www.techmeme.com/260209/p46#a260209p46)<!-- TECH:END -->
+ - [YouTube TV’s new plans explained: Prices, channels, switching, availability, and more](https://www.androidauthority.com/youtube-tv-new-plans-channels-switching-pricing-availability-3639276/)
+ - [London-based Tem, which uses AI to optimize energy transactions for businesses, raised a $75M Series B led by Lightspeed, a source says at a $300M+ valuation &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/260209/p47#a260209p47)
+ - [Need a power station? The DJI Power 2000 has never been cheaper!](https://www.androidauthority.com/dji-power-2000-portable-power-station-deal-3639142/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
