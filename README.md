@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify reports Q4 revenue up 13% YoY to €4.5B, Premium users up 10% YoY to 290M, MAUs up 11% YoY to 751M, and a €701M operating income, above €639.1M est. &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/260210/p11#a260210p11)
- - [Analysis: despite AI ads outnumbering traditional Super Bowl ad categories like beer, nostalgia-driven ads from Budweiser and Dunkin&#39; dominated social media &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/260210/p10#a260210p10)
- - [The Best Streaming Bundles and Streaming Deals of February 2026](https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/)<!-- TECH:END -->
+ - [South Korean online travel platform Myrealtrip aims to hit a $1B+ valuation in a Seoul IPO as early as H2 2027, per CEO Donggun Lee, amid a boom in tourism &lpar;Jihye Lee/Wall Street Journal&rpar;](http://www.techmeme.com/260210/p16#a260210p16)
+ - [UK gets Apple and Google to agree to easy App Store changes](https://appleinsider.com/articles/26/02/10/uk-gets-apple-and-google-to-agree-to-easy-app-store-changes?utm_source=rss)
+ - [Even Realities G2 Review: Smarter Glasses](https://www.wired.com/review/even-realities-g2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
