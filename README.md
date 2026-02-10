@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It sounds like your `loneliness` may just be another one of your bad choices](http://9gag.com/gag/an7wePn)
- - ⏩ [No Comment.](http://9gag.com/gag/avyw27W)
- - 👉 [Paycheck after Paycheck](http://9gag.com/gag/abAw3mb)<!-- MEMES:END -->
+ - 💣 [Scary scary](http://9gag.com/gag/aPALNpR)
+ - ⏩ [Nineteen Ninety-One](http://9gag.com/gag/amowqQo)
+ - 👉 [I mean... How?](http://9gag.com/gag/arywvVX)<!-- MEMES:END -->
 
 ---
 
