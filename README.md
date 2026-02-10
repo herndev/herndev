@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Monday again..](http://9gag.com/gag/aXP38d6)
- - ⏩ [Did you know that Voyager 1 is still operational? Link in the comments.](http://9gag.com/gag/aVvrGZv)
- - 👉 [Stars revolving around a super massive black hole](http://9gag.com/gag/a1mjp28)<!-- MEMES:END -->
+ - 💣 [Typical thai experience](http://9gag.com/gag/apR7eD8)
+ - ⏩ [No Comment.](http://9gag.com/gag/avyw27W)
+ - 👉 [Crab](http://9gag.com/gag/awy2NN8)<!-- MEMES:END -->
 
 ---
 
