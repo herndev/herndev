@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Five members of xAI&#39;s 12-person founding team have now left the company, with four of the departures coming in just the last year &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260210/p51#a260210p51)
- - [Ayaneo’s new Windows handheld will cost up to $4,299 with maxed out specs](https://www.theverge.com/tech/876521/ayaneo-next-2-windows-handheld-ryzen-ai-max-395-indiegogo-preorder)
- - [Global installed base of active smartphones grew 2% in 2025; eight OEMs had 200M+ active devices each, and nearly one in four active smartphones is an iPhone &lpar;Tarun Pathak/Counterpoint Research&rpar;](http://www.techmeme.com/260210/p50#a260210p50)<!-- TECH:END -->
+ - [Sony is revealing more than just the WF-1000XM6 this week](https://www.androidauthority.com/new-sony-headphones-color-3639673/)
+ - [Robinhood reports Q4 revenue up 27% YoY to $1.28B, below est., crypto revenue down 38% to $221M, below est., and net income down 34%; HOOD drops 5%+ after hours &lpar;Hannah Erin Lang/Wall Street Journal&rpar;](http://www.techmeme.com/260210/p56#a260210p56)
+ - [Android 16 QPR3 Beta 2.1 rolls out with a bunch of performance and battery fixes](https://www.androidauthority.com/android-16-qpr3-beta-2-1-rollout-3639687/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
