@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Oceanhorn 3&#39; leads March updates coming to Apple Arcade](https://appleinsider.com/articles/26/02/10/oceanhorn-3-leads-march-updates-coming-to-apple-arcade?utm_source=rss)
- - [Vega, which uses AI to detect security threats directly within cloud services, raised a $120M Series B at a $700M valuation, bringing its total raised to $185M &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260210/p38#a260210p38)
- - [ICE Is Expanding Across the US at Breakneck Speed. Here’s Where It’s Going Next](https://www.wired.com/story/ice-expansion-across-us-at-heres-where-its-going-next/)<!-- TECH:END -->
+ - [Gary Shapiro plans to step down as CEO of the Consumer Technology Association, the owner and producer of annual CES events in Las Vegas, after 35+ years &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260210/p42#a260210p42)
+ - [The Shokz OpenFit Air earbuds are matching their all-time low price](https://www.theverge.com/gadgets/876392/shokz-openfit-air-earbuds-kobo-clara-colour-deal-sale)
+ - [Sources: Spain-based Multiverse, which shrinks LLMs to reduce energy and compute costs, is in talks to raise ~€500M at a €1.5B+ valuation and has hit €100M ARR &lpar;Bloomberg&rpar;](http://www.techmeme.com/260210/p41#a260210p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
