@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
- - ⏩ [Podcast](http://9gag.com/gag/a7ogjKw)
- - 👉 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)<!-- MEMES:END -->
+ - 💣 [Podcast](http://9gag.com/gag/a7ogjKw)
+ - ⏩ [Nineteen Ninety-One](http://9gag.com/gag/amowqQo)
+ - 👉 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)<!-- MEMES:END -->
 
 ---
 
