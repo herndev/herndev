@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Under-screen Touch ID may not just be for iPhone](https://appleinsider.com/articles/26/02/10/under-screen-touch-id-may-not-just-be-for-iphone?utm_source=rss)
- - [Facebook can animate your profile pic with AI](https://www.theverge.com/tech/876480/meta-facebook-animate-profile-picture-restyle-ai)
- - [Sam Bankman-Fried, who is serving 25 years for fraud, files a long-shot request for a new trial, says new witness testimony could refute the prosecution&#39;s case &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/260210/p46#a260210p46)<!-- TECH:END -->
+ - [Surveys show Motorola’s chaotic take on Android updates isn’t impressing its fans](https://www.androidauthority.com/motorola-android-update-policies-poll-results-3639539/)
+ - [Tech Oversight Project: ahead of a landmark social media addiction trial, Meta paid for 3,500+ ads on CNN, Fox, and others to promote Instagram&#39;s Teen Accounts &lpar;Annie Bang/Bloomberg&rpar;](http://www.techmeme.com/260210/p48#a260210p48)
+ - [AYANEO’s monster of a Windows gaming handheld sells for more than a Galaxy Z TriFold](https://www.androidauthority.com/ayaneo-next-2-pricing-3639566/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
