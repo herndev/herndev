@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Crab](http://9gag.com/gag/awy2NN8)
  - ⏩ [Parry this you filthy casual](http://9gag.com/gag/ae9zXDO)
- - 👉 [Wife&#39;s morning routine vs husband&#39;s morning routine](http://9gag.com/gag/aD29B6G)<!-- MEMES:END -->
+ - 👉 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)<!-- MEMES:END -->
 
 ---
 
