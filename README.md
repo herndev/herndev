@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crab](http://9gag.com/gag/awy2NN8)
- - ⏩ [Parry this you filthy casual](http://9gag.com/gag/ae9zXDO)
- - 👉 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)<!-- MEMES:END -->
+ - 💣 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)
+ - ⏩ [Scary scary](http://9gag.com/gag/aPALNpR)
+ - 👉 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)<!-- MEMES:END -->
 
 ---
 
