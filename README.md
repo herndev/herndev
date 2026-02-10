@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Mark Zuckerberg plans to buy a Miami mansion, likely to cost up to $200M, joining other tech billionaires as California proposes a 5% billionaire tax &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260210/p23#a260210p23)
- - [Cosmic Orange iPhone 17 Pro really helped China sales](https://appleinsider.com/articles/26/02/10/cosmic-orange-iphone-17-pro-really-helped-china-sales?utm_source=rss)
- - [Health care navigation startup Solace, which matches patients with 2K+ advocates, raised $130M led by IVP at a $1B valuation, taking its total funding to $211M &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260210/p22#a260210p22)<!-- TECH:END -->
+ - [Cloud computing provider Nebius agrees to buy Tavily, which helps AI agents search for up-to-date information for tasks like coding, a source says for $275M &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260210/p29#a260210p29)
+ - [Gmail on Android finally gets a crucial feature six years after iOS](https://www.androidauthority.com/gmail-labels-android-rolling-out-3639409/)
+ - [Google Maps prepares to get a lot more talkative with Ask Maps](https://www.androidauthority.com/google-maps-ask-maps-gemini-apk-teardown-3639448/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
