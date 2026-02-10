@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palantir CEO Alex Karp Recorded a Video About ICE for His Employees](https://www.wired.com/story/palantir-ceo-alex-karp-employee-questions-on-ice/)
- - [Gnarly new Android spyware could let attackers track your location, steal banking info](https://www.androidauthority.com/spyware-toolkit-zerodayrat-3639624/)
- - [Bernstein&#39;s $340 Apple target bets on Services instead of hardware growth](https://appleinsider.com/articles/26/02/10/bernsteins-340-apple-target-bets-on-services-instead-of-hardware-growth?utm_source=rss)<!-- TECH:END -->
+ - [Five members of xAI&#39;s 12-person founding team have now left the company, with four of the departures coming in just the last year &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/260210/p51#a260210p51)
+ - [Ayaneo’s new Windows handheld will cost up to $4,299 with maxed out specs](https://www.theverge.com/tech/876521/ayaneo-next-2-windows-handheld-ryzen-ai-max-395-indiegogo-preorder)
+ - [Global installed base of active smartphones grew 2% in 2025; eight OEMs had 200M+ active devices each, and nearly one in four active smartphones is an iPhone &lpar;Tarun Pathak/Counterpoint Research&rpar;](http://www.techmeme.com/260210/p50#a260210p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
