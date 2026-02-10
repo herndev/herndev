@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Monday again..](http://9gag.com/gag/aXP38d6)
  - ⏩ [Did you know that Voyager 1 is still operational? Link in the comments.](http://9gag.com/gag/aVvrGZv)
- - 👉 [Nice and yes it did happen](http://9gag.com/gag/azxyNeq)<!-- MEMES:END -->
+ - 👉 [Stars revolving around a super massive black hole](http://9gag.com/gag/a1mjp28)<!-- MEMES:END -->
 
 ---
 
