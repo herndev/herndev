@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No Comment.](http://9gag.com/gag/avyw27W)
- - ⏩ [Teodor Zajder: 3-Second Barrier Broken \u2013 2.76 s 3x3 Rubik\u2019s Cube World Record](http://9gag.com/gag/ajPv2Qq)
+ - 💣 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)
+ - ⏩ [No Comment.](http://9gag.com/gag/avyw27W)
  - 👉 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)<!-- MEMES:END -->
 
 ---
