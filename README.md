@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [AI gets confused by mirrors](http://9gag.com/gag/aE0KrWO)
- - ⏩ [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
- - 👉 [Crab](http://9gag.com/gag/awy2NN8)<!-- MEMES:END -->
+ - 💣 [Monday again..](http://9gag.com/gag/aXP38d6)
+ - ⏩ [Did you know that Voyager 1 is still operational? Link in the comments.](http://9gag.com/gag/aVvrGZv)
+ - 👉 [Nice and yes it did happen](http://9gag.com/gag/azxyNeq)<!-- MEMES:END -->
 
 ---
 
