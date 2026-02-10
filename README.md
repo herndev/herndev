@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Paycheck after Paycheck](http://9gag.com/gag/abAw3mb)
- - ⏩ [Stars revolving around a super massive black hole](http://9gag.com/gag/a1mjp28)
- - 👉 [Brother has shitpost potential](http://9gag.com/gag/aYQ680q)<!-- MEMES:END -->
+ - 💣 [Japanese Female Police Motorcycle Officer](http://9gag.com/gag/ae9wKLv)
+ - ⏩ [It sounds like your `loneliness` may just be another one of your bad choices](http://9gag.com/gag/an7wePn)
+ - 👉 [Paycheck after Paycheck](http://9gag.com/gag/abAw3mb)<!-- MEMES:END -->
 
 ---
 
