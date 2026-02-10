@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No Comment.](http://9gag.com/gag/avyw27W)
- - ⏩ [Japanese Female Police Motorcycle Officer](http://9gag.com/gag/ae9wKLv)
- - 👉 [Watching this old book get a stunning makeover is so satisfying](http://9gag.com/gag/aVv5jp8)<!-- MEMES:END -->
+ - 💣 [Japanese Female Police Motorcycle Officer](http://9gag.com/gag/ae9wKLv)
+ - ⏩ [Watching this old book get a stunning makeover is so satisfying](http://9gag.com/gag/aVv5jp8)
+ - 👉 [Ahead of the curve.](http://9gag.com/gag/a4PyKo6)<!-- MEMES:END -->
 
 ---
 
