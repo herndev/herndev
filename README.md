@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese Female Police Motorcycle Officer](http://9gag.com/gag/ae9wKLv)
- - ⏩ [Watching this old book get a stunning makeover is so satisfying](http://9gag.com/gag/aVv5jp8)
- - 👉 [Ahead of the curve.](http://9gag.com/gag/a4PyKo6)<!-- MEMES:END -->
+ - 💣 [The codewords in the Epstein files are bizarre.](http://9gag.com/gag/avyqbAq)
+ - ⏩ [Podcast](http://9gag.com/gag/a7ogjKw)
+ - 👉 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)<!-- MEMES:END -->
 
 ---
 
