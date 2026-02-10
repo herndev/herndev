@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What RAM crisis? This powerful Android gaming tablet could pack 24GB of RAM](https://www.androidauthority.com/lenovo-legion-y700-official-specs-3639345/)
- - [MWC 2026: These upcoming camera phones take a page out of Nothing’s Essential Space playbook](https://www.androidauthority.com/tecno-mwc-2026-3639296/)
- - [PitchBook: European VC investments rose 5% YoY to a post-pandemic high of €66B in 2025; AI-related deals accounted for 35%+, or €23.5B, up from €17.7B in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/260210/p4#a260210p4)<!-- TECH:END -->
+ - [Chinese AI companies like Alibaba and Tencent are releasing new models and spending millions on &quot;red envelope&quot; freebies to woo users ahead of the Lunar New Year &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/260210/p5#a260210p5)
+ - [This is how you’ll be able to trigger and experience Gemini on Aluminium OS](https://www.androidauthority.com/google-aluminium-os-gemini-integration-apk-teardown-3639334/)
+ - [Next-gen Ultra phones could switch to triple 100MP cameras, 100MP selfie cameras](https://www.androidauthority.com/phones-with-three-100mp-cameras-selfie-camera-3639341/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
