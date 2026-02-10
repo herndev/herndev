@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube TV’s new plans explained: Prices, channels, switching, availability, and more](https://www.androidauthority.com/youtube-tv-new-plans-channels-switching-pricing-availability-3639276/)
- - [London-based Tem, which uses AI to optimize energy transactions for businesses, raised a $75M Series B led by Lightspeed, a source says at a $300M+ valuation &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/260209/p47#a260209p47)
- - [Need a power station? The DJI Power 2000 has never been cheaper!](https://www.androidauthority.com/dji-power-2000-portable-power-station-deal-3639142/)<!-- TECH:END -->
+ - [As OpenAI prepares to retire 4o on February 13, sources say the company scrapped it partly because it struggled to contain 4o&#39;s potential for harmful outcomes &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/260209/p48#a260209p48)
+ - [Spotlight got a huge upgrade in macOS Tahoe, here&#39;s how to use it](https://appleinsider.com/inside/macos-tahoe/tips/spotlight-got-a-huge-upgrade-in-macos-tahoe-heres-how-to-use-it?utm_source=rss)
+ - [YouTube TV’s new plans explained: Prices, channels, switching, availability, and more](https://www.androidauthority.com/youtube-tv-new-plans-channels-switching-pricing-availability-3639276/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
