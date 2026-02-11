@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GPT-5.3-Codex and Claude Opus 4.6 can handle the full app development lifecycle on their own, a sign of what&#39;s coming for most knowledge work within five years &lpar;Matt Shumer&rpar;](http://www.techmeme.com/260211/p7#a260211p7)
- - [A study of 596 Indian high-tech startups suggests that homegrown entrepreneurs fare better over the long run than returning diaspora with overseas experience &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260211/p6#a260211p6)
- - [An interview with LastPass CEO Karim Toubba on the company-wide changes after the 2022 data breach, new services such as controls to curb shadow SaaS, and more &lpar;Charlie Osborne/ZDNET&rpar;](http://www.techmeme.com/260211/p5#a260211p5)<!-- TECH:END -->
+ - [Sex Toys for Every Type of Body and Ability &lpar;2026&rpar;](https://www.wired.com/gallery/best-accessible-sex-toys/)
+ - [PocketBook just launched a Kindle Scribe alternative that skips Amazon’s lock-in](https://www.androidauthority.com/pocketbook-inkpad-one-launch-3639730/)
+ - [Q&amp;A with Fidji Simo on ChatGPT ads, OpenAI&#39;s efforts to ship a new model soon to end Sam Altman&#39;s Code Red, Anthropic&#39;s Super Bowl ads, Sora, Jony Ive, and more &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260211/p8#a260211p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
