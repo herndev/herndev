@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: to catch leakers, OpenAI security staff use a custom ChatGPT with access to Slack, email, and docs by cross-referencing news articles with access logs &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/260211/p30#a260211p30)
- - [Diesel&amp;#8217;s wired earbuds look exactly like wired earbuds from Diesel](https://www.theverge.com/gadgets/877091/diesel-60458-wired-earbuds-headphones)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;February 11&rpar;](https://www.androidauthority.com/wallpaper-wednesday-february-11-2026-3639757/)<!-- TECH:END -->
+ - [Here are the brands bringing ads to ChatGPT](https://www.theverge.com/ai-artificial-intelligence/877148/openai-chatgpt-advertisers-target-adobe-audible)
+ - [Good luck using Nano Banana to fake your Disney vacation — Gemini blocks the Mouse](https://www.androidauthority.com/google-gemini-blocks-disney-generation-3639914/)
+ - [Reanimal wants to devour you](https://www.theverge.com/games/876355/reanimal-review-ps5-xbox-switch-steam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
