@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google finally sorts out those confusing Play system updates from November](https://www.androidauthority.com/play-update-november-fix-3639892/)
- - [Mega Deal Zone: 1TB M4 Pro MacBook Pro laptops plunge to as low as $1,799](https://appleinsider.com/articles/26/02/11/mega-deal-zone-1tb-m4-pro-macbook-pro-laptops-plunge-to-as-low-as-1799?utm_source=rss)
- - [Source: OpenAI disbanded its mission alignment team and transferred its staffers; Joshua Achiam, who led the team, will take on a new title of &quot;chief futurist&quot; &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260211/p33#a260211p33)<!-- TECH:END -->
+ - [Is your Pixel compatible with the Android 17 Beta? Here’s every supported model](https://www.androidauthority.com/android-17-beta-compatible-pixel-models-3639898/)
+ - [Microsoft fixes Notepad flaw that could trick users into clicking malicious Markdown links](https://www.theverge.com/tech/877295/microsoft-notepad-markdown-security-vulnerability-remote-code-execution)
+ - [Our Favorite Upgraded Power Bank Is $30 Off](https://www.wired.com/story/anker-laptop-power-bank-deal-226/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
