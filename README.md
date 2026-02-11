@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No Comment.](http://9gag.com/gag/avyw27W)
- - ⏩ [The old world is dying, and the new world struggles to be born: now is the time of monsters.](http://9gag.com/gag/aRBd6xG)
- - 👉 [Podcast](http://9gag.com/gag/a7ogjKw)<!-- MEMES:END -->
+ - 💣 [Crab](http://9gag.com/gag/awy2NN8)
+ - ⏩ [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
+ - 👉 [The old world is dying, and the new world struggles to be born: now is the time of monsters.](http://9gag.com/gag/aRBd6xG)<!-- MEMES:END -->
 
 ---
 
