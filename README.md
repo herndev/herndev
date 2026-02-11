@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [God help me](http://9gag.com/gag/ae9wjmb)
- - ⏩ [Funny title](http://9gag.com/gag/aryw1DX)
- - 👉 [After the win, he invited every janitor to join him for a photo with the championship trophy.](http://9gag.com/gag/aMV52OR)<!-- MEMES:END -->
+ - 💣 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
+ - ⏩ [No Comment.](http://9gag.com/gag/avyw27W)
+ - 👉 [November 2016, Kala Brown was rescued from a 95-acre property in Woodruff, South Carolina, after being held captive for 65 days. Investigators traced cell phone pings and social media records to the land owned by Todd Kohlhepp, a local realtor](http://9gag.com/gag/azxwgeb)<!-- MEMES:END -->
 
 ---
 
