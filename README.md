@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam Deck stock shortages have fans worried about price hikes](https://www.androidauthority.com/steam-deck-sold-out-3640022/)
- - [Apple didn&#39;t forget macOS Sonoma, macOS Sequoia &amp; iOS 18 on patch day](https://appleinsider.com/articles/26/02/11/apple-didnt-forget-macos-sonoma-macos-sequoia-ios-18-on-patch-day?utm_source=rss)
- - [Google releases Android 17 Beta 1, which requires developers to optimize apps for foldables and large screens, includes performance improvements, and more &lpar;Sanuj Bhatia/Android Central&rpar;](http://www.techmeme.com/260211/p39#a260211p39)<!-- TECH:END -->
+ - [The Galaxy S26 Plus and S26 Ultra have nothing more to hide after this leak](https://www.androidauthority.com/samsung-galaxy-s26-plus-s26-ultra-renders-leak-3640040/)
+ - [OpenAI announced Monday that the US military will get access to ChatGPT via GenAI.mil; sources say the move came after months of deliberation among employees &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/260211/p40#a260211p40)
+ - [Google slams the brakes on today’s planned Android 17 Beta 1 release](https://www.androidauthority.com/android-17-beta-1-delay-3640044/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
