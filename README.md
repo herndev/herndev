@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Passionate hater](http://9gag.com/gag/aQz5PYK)
- - ⏩ [God help me](http://9gag.com/gag/ae9wjmb)
- - 👉 [Nutty Putty Feelings](http://9gag.com/gag/abAwXD8)<!-- MEMES:END -->
+ - 💣 [Oh wow](http://9gag.com/gag/aE05deM)
+ - ⏩ [I mean... How?](http://9gag.com/gag/arywvVX)
+ - 👉 [Darwin is watching](http://9gag.com/gag/a9y0bwm)<!-- MEMES:END -->
 
 ---
 
