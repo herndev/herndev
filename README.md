@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [God help me](http://9gag.com/gag/ae9wjmb)
- - ⏩ [Shut up and take my money!](http://9gag.com/gag/aQz5PgK)
- - 👉 [Thanks for getting me through hard times. Females are on 9gag!](http://9gag.com/gag/aZZ5P7n)<!-- MEMES:END -->
+ - 💣 [I mean... How?](http://9gag.com/gag/arywvVX)
+ - ⏩ [Darwin is watching](http://9gag.com/gag/a9y0bwm)
+ - 👉 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)<!-- MEMES:END -->
 
 ---
 
