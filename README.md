@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Social media addiction trial: Adam Mosseri says social media is not &quot;clinically addictive&quot; and that Meta was careful to test features used by young people &lpar;New York Times&rpar;](http://www.techmeme.com/260211/p46#a260211p46)
- - [Book-style foldables could significantly outsell clamshells for the first time ever](https://www.androidauthority.com/foldable-market-2026-report-3640094/)
- - [Why I wish I hadn’t bought my Samsung OLED TV](https://www.theverge.com/tech/877396/samsung-tv-software-volume-on-screen-display-switch-hdmi-input-tizen)<!-- TECH:END -->
+ - [xAI will be organized into four core areas: Grok&#39;s chatbot and voice products, Coding, Imagine, and Macrohard, which will build digital agents to run companies &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/260211/p48#a260211p48)
+ - [Anthropic says it&amp;#8217;ll try to keep its data centers from raising electricity costs](https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge)
+ - [Study of Buddhist Monks Finds Meditation Alters Brain Activity](https://www.wired.com/story/study-of-buddhist-monks-finds-meditation-alters-brain-activity/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
