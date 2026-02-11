@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I mean... How?](http://9gag.com/gag/arywvVX)
- - ⏩ [Darwin is watching](http://9gag.com/gag/a9y0bwm)
- - 👉 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)<!-- MEMES:END -->
+ - ⏩ [Nineteen Ninety-One](http://9gag.com/gag/amowqQo)
+ - 👉 [Darwin is watching](http://9gag.com/gag/a9y0bwm)<!-- MEMES:END -->
 
 ---
 
