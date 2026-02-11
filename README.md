@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just like that...](http://9gag.com/gag/aBy5KeD)
- - ⏩ [We had dreams](http://9gag.com/gag/aBy5Qr2)
- - 👉 [Nice......!!!!!!](http://9gag.com/gag/aMV5266)<!-- MEMES:END -->
+ - 💣 [Darwin is watching](http://9gag.com/gag/a9y0bwm)
+ - ⏩ [I mean... How?](http://9gag.com/gag/arywvVX)
+ - 👉 [God help me](http://9gag.com/gag/ae9wjmb)<!-- MEMES:END -->
 
 ---
 
