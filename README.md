@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer Huntsman V3 Pro 8KHz Review: A Keyboard for the Competitive](https://www.wired.com/review/razer-huntsman-v3-pro-8khz/)
- - [Uber Eats adds AI assistant to help with grocery shopping](https://www.theverge.com/transportation/876540/uber-eats-ai-chatbot-cart-assistant-grocery-shopping)
- - [Investigation: as Ford pushes its BlueCruise driving system, some drivers found it confusing to use, misunderstood its limitations, and didn&#39;t heed its warnings &lpar;Ryan Felton/Wall Street Journal&rpar;](http://www.techmeme.com/260211/p17#a260211p17)<!-- TECH:END -->
+ - [xAI all-hands meeting: Elon Musk tells staff that xAI needs a factory on the moon to build AI satellites and a massive catapult to launch them into space &lpar;New York Times&rpar;](http://www.techmeme.com/260211/p23#a260211p23)
+ - [El Paso flights grounded 10 days for ‘special security reasons’](https://www.theverge.com/transportation/877019/el-paso-airport-faa-flights-grounded-airspace-special-security)
+ - [Filing: San Jose Mayor Matt Mahan, set to run for California governor to succeed Newsom, gets donations from Sergey Brin, Roblox CEO David Baszucki, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/260211/p22#a260211p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
