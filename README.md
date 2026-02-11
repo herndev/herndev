@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EssilorLuxottica says it sold over 7M Meta AI glasses in 2025, up from the 2M that the company sold in 2023 and 2024 combined &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260211/p44#a260211p44)
- - [BlockFills, a crypto liquidity provider and lender to ~2K institutional clients, halts deposits and withdrawals, citing &quot;recent market and financial conditions&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260211/p43#a260211p43)
- - [Thinking of leaving T-Mobile? The carrier may dangle a free Pixel 10 in your face](https://www.androidauthority.com/t-mobile-free-pixel-10-rentention-offer-3640062/)<!-- TECH:END -->
+ - [Social media addiction trial: Adam Mosseri says social media is not &quot;clinically addictive&quot; and that Meta was careful to test features used by young people &lpar;New York Times&rpar;](http://www.techmeme.com/260211/p46#a260211p46)
+ - [Book-style foldables could significantly outsell clamshells for the first time ever](https://www.androidauthority.com/foldable-market-2026-report-3640094/)
+ - [Why I wish I hadn’t bought my Samsung OLED TV](https://www.theverge.com/tech/877396/samsung-tv-software-volume-on-screen-display-switch-hdmi-input-tizen)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
