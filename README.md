@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
- - ⏩ [Darwin is watching](http://9gag.com/gag/a9y0bwm)
- - 👉 [I feel its a good time to post this again](http://9gag.com/gag/aMV5eq6)<!-- MEMES:END -->
+ - 💣 [Erik owes his boss a beer and a firm handshake](http://9gag.com/gag/aYQ5bKN)
+ - ⏩ [Passionate hater](http://9gag.com/gag/aQz5PYK)
+ - 👉 [Negative for them, positive to anybody else.](http://9gag.com/gag/a5Q3eno)<!-- MEMES:END -->
 
 ---
 
