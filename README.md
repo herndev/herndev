@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Darwin is watching](http://9gag.com/gag/a9y0bwm)
- - ⏩ [I mean... How?](http://9gag.com/gag/arywvVX)
- - 👉 [God help me](http://9gag.com/gag/ae9wjmb)<!-- MEMES:END -->
+ - 💣 [I mean... How?](http://9gag.com/gag/arywvVX)
+ - ⏩ [God help me](http://9gag.com/gag/ae9wjmb)
+ - 👉 [Good news everyone!](http://9gag.com/gag/ae9w3rO)<!-- MEMES:END -->
 
 ---
 
