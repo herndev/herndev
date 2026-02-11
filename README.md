@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Ring’s Super Bowl ad sparks backlash amid fears of mass surveillance](https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash)
- - [The JBL Flip 7 is still at a record-low price, but probably not for much longer](https://www.androidauthority.com/jbl-flip-7-deal-2-3639620/)
- - [The FCC approves Amazon&#39;s request to launch a second-generation satellite constellation for its Leo system by deploying an additional 4,504 satellites &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/260210/p68#a260210p68)<!-- TECH:END -->
+ - [The Toyota Highlander is now a three-row electric SUV with 320 miles of range](https://www.theverge.com/transportation/875906/toyota-highlander-ev-suv-range-specs)
+ - [600 companies in Japan want the Epic treatment -- a free ride in Apple&#39;s ecosystem](https://appleinsider.com/articles/26/02/11/600-companies-in-japan-want-the-epic-treatment----a-free-ride-in-apples-ecosystem?utm_source=rss)
+ - [Q&amp;A with Siemens CEO Roland Busch on the company&#39;s 170+ year history, automation, managing 320K staff, US manufacturing investments, augmenting LLMs, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260210/p69#a260210p69)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
