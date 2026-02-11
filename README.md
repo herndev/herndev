@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sex Toys for Every Type of Body and Ability &lpar;2026&rpar;](https://www.wired.com/gallery/best-accessible-sex-toys/)
- - [PocketBook just launched a Kindle Scribe alternative that skips Amazon’s lock-in](https://www.androidauthority.com/pocketbook-inkpad-one-launch-3639730/)
- - [Q&amp;A with Fidji Simo on ChatGPT ads, OpenAI&#39;s efforts to ship a new model soon to end Sam Altman&#39;s Code Red, Anthropic&#39;s Super Bowl ads, Sora, Jony Ive, and more &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260211/p8#a260211p8)<!-- TECH:END -->
+ - [Mistral CEO Arthur Mensch says the startup&#39;s annualized revenue run rate was &quot;north of $400M&quot;, up from $20M a year ago, and it is set to hit $1B ARR by 2026-end &lpar;Financial Times&rpar;](http://www.techmeme.com/260211/p9#a260211p9)
+ - [Best Presidents’ Day Mattress Sales of 2026](https://www.wired.com/story/best-presidents-day-mattress-sales-2026/)
+ - [Backing up everything isn’t always smart. Why doesn’t Google Photos should know that?](https://www.androidauthority.com/google-photos-dont-backup-specific-photo-3638952/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
