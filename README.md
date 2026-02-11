@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh wow](http://9gag.com/gag/aE05deM)
- - ⏩ [I mean... How?](http://9gag.com/gag/arywvVX)
- - 👉 [Darwin is watching](http://9gag.com/gag/a9y0bwm)<!-- MEMES:END -->
+ - 💣 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
+ - ⏩ [Darwin is watching](http://9gag.com/gag/a9y0bwm)
+ - 👉 [I feel its a good time to post this again](http://9gag.com/gag/aMV5eq6)<!-- MEMES:END -->
 
 ---
 
