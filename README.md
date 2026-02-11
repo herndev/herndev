@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Garner Health, a platform using data analytics to help workers find healthcare providers, raised a $118M Series D at a $1.35B valuation &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/260210/p72#a260210p72)
- - [How to bring back macOS Launchpad with this neat command-line tool](https://appleinsider.com/inside/macos-tahoe/tips/how-to-bring-back-macos-launchpad-with-this-neat-command-line-tool?utm_source=rss)
- - [Cinnamon Bun is baking: Google confirms Android 17 Beta 1 is coming soon](https://www.androidauthority.com/android-17-beta-1-release-announcement-3639734/)<!-- TECH:END -->
+ - [Docs: London-based AI chip startup Olix, founded by James Dacombe, CEO of brain monitoring startup CoMind, raised $220M led by Hummingbird at a $1B+ valuation &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/260211/p2#a260211p2)
+ - [Sources: ByteDance plans to produce at least 100,000 units of its in-house AI inference chip in 2026, and is in talks with Samsung to manufacture it &lpar;Reuters&rpar;](http://www.techmeme.com/260211/p1#a260211p1)
+ - [NYC-based Garner Health, a platform using data analytics to help workers find healthcare providers, raised a $118M Series D at a $1.35B valuation &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/260210/p72#a260210p72)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
