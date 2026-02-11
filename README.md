@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I mean... How?](http://9gag.com/gag/arywvVX)
+ - 💣 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
  - ⏩ [The old world is dying, and the new world struggles to be born: now is the time of monsters.](http://9gag.com/gag/aRBd6xG)
- - 👉 [Oh wow](http://9gag.com/gag/aE05deM)<!-- MEMES:END -->
+ - 👉 [I mean... How?](http://9gag.com/gag/arywvVX)<!-- MEMES:END -->
 
 ---
 
