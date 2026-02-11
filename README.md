@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the brands bringing ads to ChatGPT](https://www.theverge.com/ai-artificial-intelligence/877148/openai-chatgpt-advertisers-target-adobe-audible)
- - [Good luck using Nano Banana to fake your Disney vacation — Gemini blocks the Mouse](https://www.androidauthority.com/google-gemini-blocks-disney-generation-3639914/)
- - [Reanimal wants to devour you](https://www.theverge.com/games/876355/reanimal-review-ps5-xbox-switch-steam)<!-- TECH:END -->
+ - [Google finally sorts out those confusing Play system updates from November](https://www.androidauthority.com/play-update-november-fix-3639892/)
+ - [Mega Deal Zone: 1TB M4 Pro MacBook Pro laptops plunge to as low as $1,799](https://appleinsider.com/articles/26/02/11/mega-deal-zone-1tb-m4-pro-macbook-pro-laptops-plunge-to-as-low-as-1799?utm_source=rss)
+ - [Source: OpenAI disbanded its mission alignment team and transferred its staffers; Joshua Achiam, who led the team, will take on a new title of &quot;chief futurist&quot; &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260211/p33#a260211p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
