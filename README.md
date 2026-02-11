@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Toyota Highlander is now a three-row electric SUV with 320 miles of range](https://www.theverge.com/transportation/875906/toyota-highlander-ev-suv-range-specs)
- - [600 companies in Japan want the Epic treatment -- a free ride in Apple&#39;s ecosystem](https://appleinsider.com/articles/26/02/11/600-companies-in-japan-want-the-epic-treatment----a-free-ride-in-apples-ecosystem?utm_source=rss)
- - [Q&amp;A with Siemens CEO Roland Busch on the company&#39;s 170+ year history, automation, managing 320K staff, US manufacturing investments, augmenting LLMs, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260210/p69#a260210p69)<!-- TECH:END -->
+ - [Cinnamon Bun is baking: Google confirms Android 17 Beta 1 is coming soon](https://www.androidauthority.com/android-17-beta-1-release-announcement-3639734/)
+ - [Tel Aviv-based Backslash Security, which safeguards enterprise software development from vibe coding risks, raised a $19M Series A, taking total funding to $27M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260210/p71#a260210p71)
+ - [Isomorphic Labs, a Google DeepMind spinoff, unveils IsoDDE, a drug design system it says surpasses AlphaFold 3 in predicting biomolecular structures &lpar;Isomorphic Labs&rpar;](http://www.techmeme.com/260210/p70#a260210p70)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
