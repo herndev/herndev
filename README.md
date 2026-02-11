@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SMIC CEO Zhao Haijun says the industry is &quot;a bit panicked&quot; about memory shortages, and new supply may arrive in nine months; memory prices are up 80%+ in 2026 &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/260211/p13#a260211p13)
- - [Here’s how you can enter to win $5,000 cash just for pre-reserving the Galaxy S26](https://www.androidauthority.com/samsung-galaxy-s26-pre-reservation-now-open-3639815/)
- - [Chinese video game giant NetEase reports Q4 revenue up 3% YoY to ~$4B and net profit down 29% to ~$903M, below ~$1.2B est., as it pushes self-developed games &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/260211/p12#a260211p12)<!-- TECH:END -->
+ - [Razer Huntsman V3 Pro 8KHz Review: A Keyboard for the Competitive](https://www.wired.com/review/razer-huntsman-v3-pro-8khz/)
+ - [Uber Eats adds AI assistant to help with grocery shopping](https://www.theverge.com/transportation/876540/uber-eats-ai-chatbot-cart-assistant-grocery-shopping)
+ - [Investigation: as Ford pushes its BlueCruise driving system, some drivers found it confusing to use, misunderstood its limitations, and didn&#39;t heed its warnings &lpar;Ryan Felton/Wall Street Journal&rpar;](http://www.techmeme.com/260211/p17#a260211p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
