@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I mean... How?](http://9gag.com/gag/arywvVX)
- - ⏩ [God help me](http://9gag.com/gag/ae9wjmb)
- - 👉 [Good news everyone!](http://9gag.com/gag/ae9w3rO)<!-- MEMES:END -->
+ - 💣 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
+ - ⏩ [I mean... How?](http://9gag.com/gag/arywvVX)
+ - 👉 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
 
 ---
 
