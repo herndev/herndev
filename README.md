@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord age verification not a requirement for every user, but still bad](https://appleinsider.com/articles/26/02/10/discord-age-verification-not-a-requirement-for-every-user-but-still-bad?utm_source=rss)
- - [ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports](https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer)
- - [Samsung confirms Galaxy Unpacked plans for last week of February](https://www.androidauthority.com/samsung-unpacked-galaxy-s26-3639623/)<!-- TECH:END -->
+ - [Boston Dynamics CEO Robert Playter is stepping down after six years](https://www.theverge.com/tech/876819/boston-dynamics-robots-ceo-steps-down-hyundai)
+ - [A profile of Anthropic and its key executives like Chris Olah, and a look at Project Vend, an internal &quot;Claudius&quot; experiment to run the office vending machine &lpar;Gideon Lewis-Kraus/New Yorker&rpar;](http://www.techmeme.com/260210/p62#a260210p62)
+ - [Bezos could have saved the Washington Post’s local news and sports reporters](https://www.theverge.com/policy/876834/bezos-washington-post-sports-local-reporters)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
