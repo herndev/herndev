@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boston Dynamics CEO Robert Playter is stepping down after six years](https://www.theverge.com/tech/876819/boston-dynamics-robots-ceo-steps-down-hyundai)
- - [A profile of Anthropic and its key executives like Chris Olah, and a look at Project Vend, an internal &quot;Claudius&quot; experiment to run the office vending machine &lpar;Gideon Lewis-Kraus/New Yorker&rpar;](http://www.techmeme.com/260210/p62#a260210p62)
- - [Bezos could have saved the Washington Post’s local news and sports reporters](https://www.theverge.com/policy/876834/bezos-washington-post-sports-local-reporters)<!-- TECH:END -->
+ - [Amazon Ring’s Super Bowl ad sparks backlash amid fears of mass surveillance](https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash)
+ - [The JBL Flip 7 is still at a record-low price, but probably not for much longer](https://www.androidauthority.com/jbl-flip-7-deal-2-3639620/)
+ - [The FCC approves Amazon&#39;s request to launch a second-generation satellite constellation for its Leo system by deploying an additional 4,504 satellites &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/260210/p68#a260210p68)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
