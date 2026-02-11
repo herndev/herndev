@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is your Pixel compatible with the Android 17 Beta? Here’s every supported model](https://www.androidauthority.com/android-17-beta-compatible-pixel-models-3639898/)
- - [Microsoft fixes Notepad flaw that could trick users into clicking malicious Markdown links](https://www.theverge.com/tech/877295/microsoft-notepad-markdown-security-vulnerability-remote-code-execution)
- - [Our Favorite Upgraded Power Bank Is $30 Off](https://www.wired.com/story/anker-laptop-power-bank-deal-226/)<!-- TECH:END -->
+ - [Steam Deck stock shortages have fans worried about price hikes](https://www.androidauthority.com/steam-deck-sold-out-3640022/)
+ - [Apple didn&#39;t forget macOS Sonoma, macOS Sequoia &amp; iOS 18 on patch day](https://appleinsider.com/articles/26/02/11/apple-didnt-forget-macos-sonoma-macos-sequoia-ios-18-on-patch-day?utm_source=rss)
+ - [Google releases Android 17 Beta 1, which requires developers to optimize apps for foldables and large screens, includes performance improvements, and more &lpar;Sanuj Bhatia/Android Central&rpar;](http://www.techmeme.com/260211/p39#a260211p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
