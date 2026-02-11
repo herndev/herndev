@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cinnamon Bun is baking: Google confirms Android 17 Beta 1 is coming soon](https://www.androidauthority.com/android-17-beta-1-release-announcement-3639734/)
- - [Tel Aviv-based Backslash Security, which safeguards enterprise software development from vibe coding risks, raised a $19M Series A, taking total funding to $27M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260210/p71#a260210p71)
- - [Isomorphic Labs, a Google DeepMind spinoff, unveils IsoDDE, a drug design system it says surpasses AlphaFold 3 in predicting biomolecular structures &lpar;Isomorphic Labs&rpar;](http://www.techmeme.com/260210/p70#a260210p70)<!-- TECH:END -->
+ - [NYC-based Garner Health, a platform using data analytics to help workers find healthcare providers, raised a $118M Series D at a $1.35B valuation &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/260210/p72#a260210p72)
+ - [How to bring back macOS Launchpad with this neat command-line tool](https://appleinsider.com/inside/macos-tahoe/tips/how-to-bring-back-macos-launchpad-with-this-neat-command-line-tool?utm_source=rss)
+ - [Cinnamon Bun is baking: Google confirms Android 17 Beta 1 is coming soon](https://www.androidauthority.com/android-17-beta-1-release-announcement-3639734/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
