@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [20 yo: I consent men council: I consent Single 32 yo moms: well I don\u2019t](http://9gag.com/gag/aKG5zVW)
- - ⏩ [The old world is dying, and the new world struggles to be born: now is the time of monsters.](http://9gag.com/gag/aRBd6xG)
- - 👉 [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)<!-- MEMES:END -->
+ - 💣 [Passionate hater](http://9gag.com/gag/aQz5PYK)
+ - ⏩ [God help me](http://9gag.com/gag/ae9wjmb)
+ - 👉 [Nutty Putty Feelings](http://9gag.com/gag/abAwXD8)<!-- MEMES:END -->
 
 ---
 
