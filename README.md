@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Paycheck after Paycheck](http://9gag.com/gag/abAw3mb)
- - ⏩ [Genetics is cruel.](http://9gag.com/gag/a1mjvNP)
- - 👉 [Funny title](http://9gag.com/gag/aryw1DX)<!-- MEMES:END -->
+ - 💣 [Infinity flying paper](http://9gag.com/gag/aQz56Ed)
+ - ⏩ [November 2016, Kala Brown was rescued from a 95-acre property in Woodruff, South Carolina, after being held captive for 65 days. Investigators traced cell phone pings and social media records to the land owned by Todd Kohlhepp, a local realtor](http://9gag.com/gag/azxwgeb)
+ - 👉 [Crab](http://9gag.com/gag/awy2NN8)<!-- MEMES:END -->
 
 ---
 
