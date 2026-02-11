@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S26 Plus and S26 Ultra have nothing more to hide after this leak](https://www.androidauthority.com/samsung-galaxy-s26-plus-s26-ultra-renders-leak-3640040/)
- - [OpenAI announced Monday that the US military will get access to ChatGPT via GenAI.mil; sources say the move came after months of deliberation among employees &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/260211/p40#a260211p40)
- - [Google slams the brakes on today’s planned Android 17 Beta 1 release](https://www.androidauthority.com/android-17-beta-1-delay-3640044/)<!-- TECH:END -->
+ - [EssilorLuxottica says it sold over 7M Meta AI glasses in 2025, up from the 2M that the company sold in 2023 and 2024 combined &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260211/p44#a260211p44)
+ - [BlockFills, a crypto liquidity provider and lender to ~2K institutional clients, halts deposits and withdrawals, citing &quot;recent market and financial conditions&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260211/p43#a260211p43)
+ - [Thinking of leaving T-Mobile? The carrier may dangle a free Pixel 10 in your face](https://www.androidauthority.com/t-mobile-free-pixel-10-rentention-offer-3640062/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
