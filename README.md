@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mistral CEO Arthur Mensch says the startup&#39;s annualized revenue run rate was &quot;north of $400M&quot;, up from $20M a year ago, and it is set to hit $1B ARR by 2026-end &lpar;Financial Times&rpar;](http://www.techmeme.com/260211/p9#a260211p9)
- - [Best Presidents’ Day Mattress Sales of 2026](https://www.wired.com/story/best-presidents-day-mattress-sales-2026/)
- - [Backing up everything isn’t always smart. Why doesn’t Google Photos should know that?](https://www.androidauthority.com/google-photos-dont-backup-specific-photo-3638952/)<!-- TECH:END -->
+ - [SMIC CEO Zhao Haijun says the industry is &quot;a bit panicked&quot; about memory shortages, and new supply may arrive in nine months; memory prices are up 80%+ in 2026 &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/260211/p13#a260211p13)
+ - [Here’s how you can enter to win $5,000 cash just for pre-reserving the Galaxy S26](https://www.androidauthority.com/samsung-galaxy-s26-pre-reservation-now-open-3639815/)
+ - [Chinese video game giant NetEase reports Q4 revenue up 3% YoY to ~$4B and net profit down 29% to ~$903M, below ~$1.2B est., as it pushes self-developed games &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/260211/p12#a260211p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
