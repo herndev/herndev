@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Erik owes his boss a beer and a firm handshake](http://9gag.com/gag/aYQ5bKN)
- - ⏩ [Passionate hater](http://9gag.com/gag/aQz5PYK)
- - 👉 [Negative for them, positive to anybody else.](http://9gag.com/gag/a5Q3eno)<!-- MEMES:END -->
+ - 💣 [Oh wow](http://9gag.com/gag/aE05deM)
+ - ⏩ [I mean... How?](http://9gag.com/gag/arywvVX)
+ - 👉 [Darwin is watching](http://9gag.com/gag/a9y0bwm)<!-- MEMES:END -->
 
 ---
 
