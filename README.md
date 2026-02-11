@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI all-hands meeting: Elon Musk tells staff that xAI needs a factory on the moon to build AI satellites and a massive catapult to launch them into space &lpar;New York Times&rpar;](http://www.techmeme.com/260211/p23#a260211p23)
- - [El Paso flights grounded 10 days for ‘special security reasons’](https://www.theverge.com/transportation/877019/el-paso-airport-faa-flights-grounded-airspace-special-security)
- - [Filing: San Jose Mayor Matt Mahan, set to run for California governor to succeed Newsom, gets donations from Sergey Brin, Roblox CEO David Baszucki, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/260211/p22#a260211p22)<!-- TECH:END -->
+ - [Austin-based humanoid robot startup Apptronik raised $520M led by Google and others at a $5.5B valuation, up 3x from when it raised $350M in February 2025 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260211/p25#a260211p25)
+ - [How an ‘icepocalypse’ raises more questions about Meta’s biggest data center project](https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice)
+ - [GitGuardian, which integrates with GitHub to offer nonhuman identity and AI agent security, raised a $50M Series C, taking its total funding to ~$106M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260211/p24#a260211p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
