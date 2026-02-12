@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [The owners of the these cars never returned...](http://9gag.com/gag/aRBdQ0q)
- - ⏩ [God help me](http://9gag.com/gag/ae9wjmb)
+ - ⏩ [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
  - 👉 [I mean... How?](http://9gag.com/gag/arywvVX)<!-- MEMES:END -->
 
 ---
