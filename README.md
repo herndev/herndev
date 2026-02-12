@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Darwin is watching](http://9gag.com/gag/a9y0bwm)
- - ⏩ [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
- - 👉 [God help me](http://9gag.com/gag/ae9wjmb)<!-- MEMES:END -->
+ - 💣 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
+ - ⏩ [Darwin is watching](http://9gag.com/gag/a9y0bwm)
+ - 👉 [Good news everyone!](http://9gag.com/gag/ae9w3rO)<!-- MEMES:END -->
 
 ---
 
