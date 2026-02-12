@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bomb disposal expert vs a thief](http://9gag.com/gag/ajPw6p0)
- - ⏩ [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
+ - 💣 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
+ - ⏩ [God help me](http://9gag.com/gag/ae9wjmb)
  - 👉 [Good news everyone!](http://9gag.com/gag/ae9w3rO)<!-- MEMES:END -->
 
 ---
