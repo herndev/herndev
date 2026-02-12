@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cisco reports Q2 revenue up 10% YoY to $15.35B, vs. $15.12B est., and forecasts Q3 adjusted EPS only in line with estimates; CSCO drops 7%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260211/p51#a260211p51)
- - [AppLovin reports Q4 revenue up 66% YoY to $1.66B, vs. $1.61B est., and forecasts Q1 revenue and adjusted EBITDA above estimates; APP drops 6%+ after hours &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/260211/p50#a260211p50)
- - [Two more xAI co-founders are among those leaving after the SpaceX merger](https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger)<!-- TECH:END -->
+ - [Brandlight, which develops tools that help brands monitor how AI models perceive them, raised a $30M Series A led by Pelion Venture Partners &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260211/p53#a260211p53)
+ - [Highguard’s developer reportedly lays off ‘most’ of its staff just over two weeks after launch](https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs)
+ - [Russia removes WhatsApp, Facebook, and Instagram from a Roskomnadzor-run online directory, essentially blocking them in the country without workarounds &lpar;Financial Times&rpar;](http://www.techmeme.com/260211/p52#a260211p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
