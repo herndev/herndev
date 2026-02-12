@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eye contact](http://9gag.com/gag/ajPwr5R)
- - ⏩ [Steel Titan](http://9gag.com/gag/apRwq8b)
- - 👉 [How should we see the Epstein connection?](http://9gag.com/gag/ae9w3rb)<!-- MEMES:END -->
+ - 💣 [Good news everyone!](http://9gag.com/gag/ae9w3rO)
+ - ⏩ [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
+ - 👉 [God help me](http://9gag.com/gag/ae9wjmb)<!-- MEMES:END -->
 
 ---
 
