@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile just got in trouble over misleading free in-flight Wi-Fi claims](https://www.androidauthority.com/t-mobile-in-flight-wi-fi-advertising-3640466/)
- - [Letter: the EU launched a new probe into Google for potentially &quot;artificially increasing the clearing price&quot; of ad auctions &quot;to the detriment of advertisers&quot; &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/260212/p38#a260212p38)
- - [US DOJ antitrust chief Gail Slater says she is leaving, in a departure viewed as a victory for tech giants over some of MAGA&#39;s more populist voices &lpar;Axios&rpar;](http://www.techmeme.com/260212/p37#a260212p37)<!-- TECH:END -->
+ - [Anthropic raised a $30B Series G from GIC, Coatue, Founders Fund, Sequoia, Nvidia, and others at a $380B post-money valuation &lpar;Anthropic&rpar;](http://www.techmeme.com/260212/p44#a260212p44)
+ - [Two powerful, OLED-equipped gaming laptops are hundreds off](https://www.theverge.com/gadgets/878209/asus-acer-oled-rtx-5070ti-gaming-laptop-deal-sale)
+ - [Save your wrist and $30 with this Logitech MX Vertical mouse deal!](https://www.androidauthority.com/logitech-mx-vertical-mouse-deal-3640061/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
