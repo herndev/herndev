@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DHS announces the end of its “surge operation” in Minneapolis, but not entirely](https://www.theverge.com/policy/878017/dhs-ends-minneapolis-operation-metro-surge-tom-homan)
- - [Lawsuit alleges Apple and others were coerced to censor ICE monitoring tools](https://appleinsider.com/articles/26/02/12/lawsuit-alleges-apple-and-others-were-coerced-to-censor-ice-monitoring-tools?utm_source=rss)
- - [The FTC wants to turn your favorite news app into a conservative propaganda machine](https://www.androidauthority.com/ftc-news-apps-3640456/)<!-- TECH:END -->
+ - [Opaque, which offers enterprise tools for data privacy in AI workflows, raised a $24M Series B at a $300M valuation, bringing its total raised to $55.5M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260212/p35#a260212p35)
+ - [El Paso airspace closure was reportedly triggered by the CBP’s use of an anti-drone laser](https://www.theverge.com/policy/878108/el-paso-airspace-closure-cbp-anti-drone-laser)
+ - [Every little thing she does is magic](https://www.theverge.com/tech/877290/3d-animation-stop-motion-cinema-4d-woman-creator-witch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
