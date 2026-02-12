@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Opaque, which offers enterprise tools for data privacy in AI workflows, raised a $24M Series B at a $300M valuation, bringing its total raised to $55.5M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260212/p35#a260212p35)
- - [El Paso airspace closure was reportedly triggered by the CBP’s use of an anti-drone laser](https://www.theverge.com/policy/878108/el-paso-airspace-closure-cbp-anti-drone-laser)
- - [Every little thing she does is magic](https://www.theverge.com/tech/877290/3d-animation-stop-motion-cinema-4d-woman-creator-witch)<!-- TECH:END -->
+ - [T-Mobile just got in trouble over misleading free in-flight Wi-Fi claims](https://www.androidauthority.com/t-mobile-in-flight-wi-fi-advertising-3640466/)
+ - [Letter: the EU launched a new probe into Google for potentially &quot;artificially increasing the clearing price&quot; of ad auctions &quot;to the detriment of advertisers&quot; &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/260212/p38#a260212p38)
+ - [US DOJ antitrust chief Gail Slater says she is leaving, in a departure viewed as a victory for tech giants over some of MAGA&#39;s more populist voices &lpar;Axios&rpar;](http://www.techmeme.com/260212/p37#a260212p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
