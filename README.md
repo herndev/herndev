@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brandlight, which develops tools that help brands monitor how AI models perceive them, raised a $30M Series A led by Pelion Venture Partners &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260211/p53#a260211p53)
- - [Highguard’s developer reportedly lays off ‘most’ of its staff just over two weeks after launch](https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs)
- - [Russia removes WhatsApp, Facebook, and Instagram from a Roskomnadzor-run online directory, essentially blocking them in the country without workarounds &lpar;Financial Times&rpar;](http://www.techmeme.com/260211/p52#a260211p52)<!-- TECH:END -->
+ - [US FTC chair urges Tim Cook to review Apple News&#39; terms and curation after a study claimed the app promoted &quot;leftist outlets&quot; and suppressed conservative ones &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260211/p55#a260211p55)
+ - [Sources: the Pentagon is pushing OpenAI, Anthropic, and others to make their AI tools available on classified networks without the standard user restrictions &lpar;Reuters&rpar;](http://www.techmeme.com/260211/p54#a260211p54)
+ - [Remember James Van Der Beek by Streaming Dawson&#39;s Creek and His Other Roles](https://www.cnet.com/tech/services-and-software/where-to-stream-james-van-der-beek-best-dawsons-creek/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
