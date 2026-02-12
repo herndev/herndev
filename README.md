@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM says it plans to triple entry-level hiring in the US in 2026 &quot;for all these jobs that we&#39;re being told AI can do&quot; &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/260212/p50#a260212p50)
- - [AirPods Pro 2, AirPods Pro 3, AirPods 4 just got another beta firmware update](https://appleinsider.com/articles/26/02/12/airpods-pro-2-airpods-pro-3-airpods-4-just-got-another-beta-firmware-update?utm_source=rss)
- - [Cisco stock falls 12%+ as rising memory prices put pressure on the networking company&#39;s margins; it is the stock&#39;s worst day since 2022 &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260212/p49#a260212p49)<!-- TECH:END -->
+ - [Didero, which provides an agentic AI layer that integrates with ERP systems to automate supply chains, raised a $30M Series A co-led by Chemistry and Headline &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260212/p56#a260212p56)
+ - [Instacart reports Q4 revenue up 12% YoY to $992M vs. $974M est., gross transaction value up 14% to $9.85B, gives strong Q1 guidance; CART jumps 14%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260212/p55#a260212p55)
+ - [PlayStation State of Play February 2026: all the news and trailers](https://www.theverge.com/games/877875/playstation-state-of-play-february-2026-ps5-news-trailers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
