@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Wave of Unexplained Bot Traffic Is Sweeping the Web](https://www.wired.com/story/made-in-china-niche-websites-are-seeing-a-surge-of-mysterious-traffic-from-china/)
- - [The new Soundcore Nebula P1i projector is already $50 off](https://www.androidauthority.com/soundcore-nebula-p1i-smart-projector-deal-3640060/)
- - [In one swoop, Trump kills US greenhouse gas regulations](https://www.theverge.com/science/877371/trump-carbon-pollution-endangerment-finding-repeal-climate-change)<!-- TECH:END -->
+ - [IBM says it plans to triple entry-level hiring in the US in 2026 &quot;for all these jobs that we&#39;re being told AI can do&quot; &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/260212/p50#a260212p50)
+ - [AirPods Pro 2, AirPods Pro 3, AirPods 4 just got another beta firmware update](https://appleinsider.com/articles/26/02/12/airpods-pro-2-airpods-pro-3-airpods-4-just-got-another-beta-firmware-update?utm_source=rss)
+ - [Cisco stock falls 12%+ as rising memory prices put pressure on the networking company&#39;s margins; it is the stock&#39;s worst day since 2022 &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260212/p49#a260212p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
