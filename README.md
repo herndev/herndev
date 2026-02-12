@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
- - ⏩ [Actor James Van Der Beek has passed away from cancer at age 48. He leaves behind a wife and six children.](http://9gag.com/gag/an7wXdb)
- - 👉 [What a marksman.](http://9gag.com/gag/ajPw6Qq)<!-- MEMES:END -->
+ - 💣 [Actor James Van Der Beek has passed away from cancer at age 48. He leaves behind a wife and six children.](http://9gag.com/gag/an7wXdb)
+ - ⏩ [He will not expect it](http://9gag.com/gag/aRBdPrG)
+ - 👉 [Proof of Procrastination](http://9gag.com/gag/amow0Mv)<!-- MEMES:END -->
 
 ---
 
