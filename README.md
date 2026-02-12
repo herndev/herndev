@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba says Qwen generated 120M+ in orders from Chinese users over the past six days, ahead of the Lunar New Year; Alibaba is giving a ~$3.60 shopping voucher &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/260212/p21#a260212p21)
- - [Therabody JetBoots Pro Plus Review: 3-in-1 Recovery Tech](https://www.wired.com/review/review-therabody-jetboots-pro-plus/)
- - [HP ZBook Ultra G1a review: a business-class workstation that’s got game](https://www.theverge.com/tech/877688/hp-zbook-ultra-g1a-laptop-amd-strix-halo-review)<!-- TECH:END -->
+ - [Official Galaxy S26 and Galaxy S26 Plus colors leak in cleanest renders yet](https://www.androidauthority.com/galaxy-s26-plus-colors-leaked-3640317/)
+ - [Crypto transaction volume linked to suspected human trafficking, largely based in Southeast Asia, hit hundreds of millions of dollars in 2025, up 85% YoY &lpar;Chainalysis&rpar;](http://www.techmeme.com/260212/p25#a260212p25)
+ - [This is our best look yet at the official Galaxy S26 Ultra colors](https://www.androidauthority.com/samsung-galaxy-s26-ultra-clean-renders-leak-3640352/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
