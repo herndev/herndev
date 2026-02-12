@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC uses selective Apple News study to ask Apple to stop promoting &#39;leftist outlets&#39;](https://appleinsider.com/articles/26/02/12/ftc-uses-selective-apple-news-study-to-ask-apple-to-stop-promoting-leftist-outlets?utm_source=rss)
- - [Microsoft fixed a vulnerability in Notepad in Windows 11 allowing attackers to execute remote programs by tricking users into clicking malicious Markdown links &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260211/p59#a260211p59)
- - [How to manage your iPhone notifications on iOS 26](https://appleinsider.com/articles/26/02/12/how-to-manage-your-iphone-notifications-on-ios-26?utm_source=rss)<!-- TECH:END -->
+ - [iOS 26.3 arrives with a simpler way to transfer from iPhone to Android](https://appleinsider.com/articles/26/02/11/ios-263-arrives-with-a-simpler-way-to-transfer-from-iphone-to-android?utm_source=rss)
+ - [YC&#39;s Garry Tan launches &quot;Garry&#39;s List&quot;, a nonprofit dedicated to supporting &quot;moderate/pragmatic&quot; political candidates and pro-growth policies in California &lpar;Joe Rivano Barros/Mission Local&rpar;](http://www.techmeme.com/260211/p60#a260211p60)
+ - [FTC uses selective Apple News study to ask Apple to stop promoting &#39;leftist outlets&#39;](https://appleinsider.com/articles/26/02/12/ftc-uses-selective-apple-news-study-to-ask-apple-to-stop-promoting-leftist-outlets?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
