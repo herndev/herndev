@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good news everyone!](http://9gag.com/gag/ae9w3rO)
+ - 💣 [The owners of the these cars never returned...](http://9gag.com/gag/aRBdQ0q)
  - ⏩ [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
- - 👉 [God help me](http://9gag.com/gag/ae9wjmb)<!-- MEMES:END -->
+ - 👉 [Darwin is watching](http://9gag.com/gag/a9y0bwm)<!-- MEMES:END -->
 
 ---
 
