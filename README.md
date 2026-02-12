@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
- - ⏩ [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)
- - 👉 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
+ - ⏩ [I am sorry friend](http://9gag.com/gag/amowNDd)
+ - 👉 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)<!-- MEMES:END -->
 
 ---
 
