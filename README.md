@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This small Android flagship could outpace the Galaxy S26 and Pixel 10 with a 200MP telephoto](https://www.androidauthority.com/xiaomi-18-200mp-telephoto-3640187/)
- - [Alexa+ and Kindle Scribe Now Work Together With ‘Send to Alexa’](https://www.wired.com/story/send-to-alexa-kindle-scribe/)
- - [AI tools like Opus 4.6 actually do make engineers 10x more productive and are addictive, but the &quot;AI Vampire&quot; effect is causing widespread developer burnout &lpar;Steve Yegge&rpar;](http://www.techmeme.com/260212/p17#a260212p17)<!-- TECH:END -->
+ - [Alibaba says Qwen generated 120M+ in orders from Chinese users over the past six days, ahead of the Lunar New Year; Alibaba is giving a ~$3.60 shopping voucher &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/260212/p21#a260212p21)
+ - [Therabody JetBoots Pro Plus Review: 3-in-1 Recovery Tech](https://www.wired.com/review/review-therabody-jetboots-pro-plus/)
+ - [HP ZBook Ultra G1a review: a business-class workstation that’s got game](https://www.theverge.com/tech/877688/hp-zbook-ultra-g1a-laptop-amd-strix-halo-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
