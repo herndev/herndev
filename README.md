@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Five stars for the lawn, one star for my wife](http://9gag.com/gag/a87ObrZ)
- - ⏩ [Nice!](http://9gag.com/gag/ayNwpjb)
- - 👉 [Western diversity quotas vs Japan](http://9gag.com/gag/axywZAW)<!-- MEMES:END -->
+ - 💣 [Dubai Job interview be like](http://9gag.com/gag/aBy5Q7D)
+ - ⏩ [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
+ - 👉 [Good old brain farts](http://9gag.com/gag/aMV5Qw6)<!-- MEMES:END -->
 
 ---
 
