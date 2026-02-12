@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US FTC chair urges Tim Cook to review Apple News&#39; terms and curation after a study claimed the app promoted &quot;leftist outlets&quot; and suppressed conservative ones &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260211/p55#a260211p55)
- - [Sources: the Pentagon is pushing OpenAI, Anthropic, and others to make their AI tools available on classified networks without the standard user restrictions &lpar;Reuters&rpar;](http://www.techmeme.com/260211/p54#a260211p54)
- - [Remember James Van Der Beek by Streaming Dawson&#39;s Creek and His Other Roles](https://www.cnet.com/tech/services-and-software/where-to-stream-james-van-der-beek-best-dawsons-creek/)<!-- TECH:END -->
+ - [Coinbase rolls out Agentic Wallets, a wallet infrastructure that lets AI agents make autonomous crypto transactions &quot;without human intervention&quot; &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/260211/p58#a260211p58)
+ - [Applied Materials reaches a $252M settlement with the US Commerce Department, resolving allegations it illegally shipped chipmaking equipment to SMIC in China &lpar;Reuters&rpar;](http://www.techmeme.com/260211/p57#a260211p57)
+ - [Disney agrees to pay $2.75M to settle California AG Rob Bonta&#39;s 2024 lawsuit alleging Disney violated CCPA by failing to honor consumers&#39; data opt-out requests &lpar;Alyssa Ray/The Wrap&rpar;](http://www.techmeme.com/260211/p56#a260211p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
