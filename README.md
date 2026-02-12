@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
- - ⏩ [Darwin is watching](http://9gag.com/gag/a9y0bwm)
+ - 💣 [Bomb disposal expert vs a thief](http://9gag.com/gag/ajPw6p0)
+ - ⏩ [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)
  - 👉 [Good news everyone!](http://9gag.com/gag/ae9w3rO)<!-- MEMES:END -->
 
 ---
