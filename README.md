@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos could finally fix one of its most frustrating sharing hurdles](https://www.androidauthority.com/google-photos-copy-button-apk-teardown-3640153/)
- - [Google adds more convenience to its free VPN built into Pixel phones](https://www.androidauthority.com/pixel-vpn-by-google-quick-settings-upgrade-3640156/)
- - [Private equity and private credit groups&#39; big bets on SaaS companies, the biggest area of PE activity in the past decade, risk being derailed by the rise of AI &lpar;Financial Times&rpar;](http://www.techmeme.com/260212/p13#a260212p13)<!-- TECH:END -->
+ - [Forget the S26 Ultra, this Ultra flagship could easily outlast Samsung’s best](https://www.androidauthority.com/oppo-find-x9-ultra-battery-and-screen-specs-leaked-3640269/)
+ - [Meta&#39;s auditor Ernst &amp; Young raised a red flag over the financial engineering Meta used to keep its $27B Hyperion data center project off its balance sheet &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/260212/p14#a260212p14)
+ - [15 Best Bed Frames &lpar;2026&rpar;, Tested in Our Homes](https://www.wired.com/gallery/best-bed-frames/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
