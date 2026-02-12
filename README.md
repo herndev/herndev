@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo reports Q3 revenue up 18% YoY to $22.2B on strong PC sales ahead of expected memory price hikes and rising AI server demand; net income fell 21% to $546M &lpar;Bloomberg&rpar;](http://www.techmeme.com/260212/p4#a260212p4)
- - [Mustafa Suleyman says Microsoft is pursuing &quot;true self-sufficiency&quot; in AI by building enterprise- and healthcare-focused models and reducing reliance on OpenAI &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260212/p3#a260212p3)
- - [The US DOJ says Peter Williams, former boss of L3Harris&#39; Trenchant, stole and sold tools that can hack millions of computers worldwide to a Russian broker &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260212/p2#a260212p2)<!-- TECH:END -->
+ - [Google unveils WAXAL, a new open speech dataset for 21 African languages to ease speech technology development; African institutions own the dataset &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/260212/p9#a260212p9)
+ - [Multiple responses from DeepSeek&#39;s namesake chatbot confirm that the startup has expanded the context window of its flagship AI model from 128K tokens to 1M+ &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/260212/p8#a260212p8)
+ - [Grab agrees to acquire US fintech company Stash Financial in a deal initially valued at $425M and forecasts FY 2026 revenue of $4.04B-$4.1B, below $4.13B est. &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260212/p7#a260212p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
