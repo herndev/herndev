@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Official Galaxy S26 and Galaxy S26 Plus colors leak in cleanest renders yet](https://www.androidauthority.com/galaxy-s26-plus-colors-leaked-3640317/)
- - [Crypto transaction volume linked to suspected human trafficking, largely based in Southeast Asia, hit hundreds of millions of dollars in 2025, up 85% YoY &lpar;Chainalysis&rpar;](http://www.techmeme.com/260212/p25#a260212p25)
- - [This is our best look yet at the official Galaxy S26 Ultra colors](https://www.androidauthority.com/samsung-galaxy-s26-ultra-clean-renders-leak-3640352/)<!-- TECH:END -->
+ - [Nvidia launches a native GeForce Now app on select Amazon Fire TV sticks, offering up to 1080p and 60 fps gaming; Fire TV users previously had to sideload it &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/260212/p28#a260212p28)
+ - [Amazon’s Send to Alexa Plus makes the Kindle Scribe feel more like a productivity device](https://www.theverge.com/gadgets/877625/amazon-send-to-alexa-plus-kindle-scribe-hands-on)
+ - [How to Choose the Right TV in 2026 &lpar;and a Few We Like&rpar;](https://www.wired.com/story/how-to-buy-the-right-tv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
