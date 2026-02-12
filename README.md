@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia launches a native GeForce Now app on select Amazon Fire TV sticks, offering up to 1080p and 60 fps gaming; Fire TV users previously had to sideload it &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/260212/p28#a260212p28)
- - [Amazon’s Send to Alexa Plus makes the Kindle Scribe feel more like a productivity device](https://www.theverge.com/gadgets/877625/amazon-send-to-alexa-plus-kindle-scribe-hands-on)
- - [How to Choose the Right TV in 2026 &lpar;and a Few We Like&rpar;](https://www.wired.com/story/how-to-buy-the-right-tv/)<!-- TECH:END -->
+ - [Spotify is testing a bold new look for its Wear OS app](https://www.androidauthority.com/spotify-wear-os-now-playing-redesign-3640437/)
+ - [Israeli authorities charge a reservist and a civilian for allegedly using classified information to bet on &quot;the occurrence of military operations&quot; on Polymarket &lpar;Financial Times&rpar;](http://www.techmeme.com/260212/p29#a260212p29)
+ - [Elon Musk&#39;s X Appears to Be Violating US Sanctions by Selling Premium Accounts to Iranian Leaders](https://www.wired.com/story/elon-musk-x-premium-accounts-iran/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
