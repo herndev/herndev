@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Onsen Egg Hunt locations in Heartopia](https://www.polygon.com/heartopia-egg-hunt-onsen-promise-treasure-locations-today/)
- - [How to prepare for the Puppy Love update in Disney Dreamlight Valley](https://www.pcgamer.com/games/life-sim/disney-dreamlight-valley-puppy-love-update/)
- - [Indiana Jones isn&#39;t the only must-play history adventure on Xbox Game Pass](https://www.polygon.com/relooted-impressions-xbox-game-pass-recommendation/)<!-- GAME:END -->
+ - [All academy quiz answers in Mario Tennis Fever](https://www.polygon.com/mario-tennis-fever-academy-quiz-answers-adventure/)
+ - [Mario Tennis Fever Beginner&#39;s tips and tricks](https://www.polygon.com/mario-tennis-fever-beginners-tips-tricks-before-you-start/)
+ - [All Fever rackets in Mario Tennis Fever](https://www.polygon.com/mario-tennis-fever-rackets-unlock-all/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
