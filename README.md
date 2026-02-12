@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We had dreams](http://9gag.com/gag/aBy5Qr2)
- - ⏩ [Return to monke](http://9gag.com/gag/a0eqPwB)
- - 👉 [Vindication](http://9gag.com/gag/an7wYN5)<!-- MEMES:END -->
+ - 💣 [The owners of the these cars never returned...](http://9gag.com/gag/aRBdQ0q)
+ - ⏩ [That&#39;s a lot of acid](http://9gag.com/gag/aND5rRK)
+ - 👉 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
 
 ---
 
