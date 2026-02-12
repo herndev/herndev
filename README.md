@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice......!!!!!!](http://9gag.com/gag/aMV5266)
- - ⏩ [How should we see the Epstein connection?](http://9gag.com/gag/ae9w3rb)
- - 👉 [Nice!](http://9gag.com/gag/ayNwpjb)<!-- MEMES:END -->
+ - 💣 [I mean... How?](http://9gag.com/gag/arywvVX)
+ - ⏩ [Darwin is watching](http://9gag.com/gag/a9y0bwm)
+ - 👉 [He even got shot at](http://9gag.com/gag/a0eqP2Q)<!-- MEMES:END -->
 
 ---
 
