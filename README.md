@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh wait](http://9gag.com/gag/aD25w6G)
- - ⏩ [He will not expect it](http://9gag.com/gag/aRBdPrG)
- - 👉 [Mystery solved](http://9gag.com/gag/agmwvQv)<!-- MEMES:END -->
+ - 💣 [Dubai Job interview be like](http://9gag.com/gag/aBy5Q7D)
+ - ⏩ [Oh wait](http://9gag.com/gag/aD25w6G)
+ - 👉 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)<!-- MEMES:END -->
 
 ---
 
