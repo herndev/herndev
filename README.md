@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Didero, which provides an agentic AI layer that integrates with ERP systems to automate supply chains, raised a $30M Series A co-led by Chemistry and Headline &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260212/p56#a260212p56)
- - [Instacart reports Q4 revenue up 12% YoY to $992M vs. $974M est., gross transaction value up 14% to $9.85B, gives strong Q1 guidance; CART jumps 14%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260212/p55#a260212p55)
- - [PlayStation State of Play February 2026: all the news and trailers](https://www.theverge.com/games/877875/playstation-state-of-play-february-2026-ps5-news-trailers)<!-- TECH:END -->
+ - [Ring cancels its partnership with Flock Safety after surveillance backlash](https://www.theverge.com/news/878447/ring-flock-partnership-canceled)
+ - [Russia confirms it has blocked WhatsApp, citing Meta&#39;s &quot;unwillingness to comply with Russian law&quot;, and proposes that Russians switch to the state-owned Max app &lpar;Reuters&rpar;](http://www.techmeme.com/260212/p59#a260212p59)
+ - [In a memo to US lawmakers, OpenAI accused DeepSeek of using distillation techniques to train the next generation of R1 and &quot;free-ride&quot; on leading US AI models &lpar;Bloomberg&rpar;](http://www.techmeme.com/260212/p58#a260212p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
