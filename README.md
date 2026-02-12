@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dubai Job interview be like](http://9gag.com/gag/aBy5Q7D)
- - ⏩ [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
- - 👉 [Good old brain farts](http://9gag.com/gag/aMV5Qw6)<!-- MEMES:END -->
+ - 💣 [Nice!](http://9gag.com/gag/ayNwpjb)
+ - ⏩ [Everyone thinks they are an expert . . .](http://9gag.com/gag/aBy5r9Z)
+ - 👉 [Western diversity quotas vs Japan](http://9gag.com/gag/axywZAW)<!-- MEMES:END -->
 
 ---
 
