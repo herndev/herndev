@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Private equity and private credit groups&#39; big bets on SaaS companies, the biggest area of PE activity in the past decade, risk being derailed by the rise of AI &lpar;Financial Times&rpar;](http://www.techmeme.com/260212/p13#a260212p13)
- - [SoftBank Group reports Q3 net profit of $1.6B after its Vision Fund posted a $2.4B gain, as a jump in the value of its OpenAI investment helped offset losses &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260212/p12#a260212p12)
- - [Sources: some OpenAI execs were surprised by WSJ&#39;s report that the company was targeting a Q4 2026 IPO; OpenAI hopes to triple its ~$13B 2025 revenue in 2026 &lpar;New York Times&rpar;](http://www.techmeme.com/260212/p11#a260212p11)<!-- TECH:END -->
+ - [Google Photos could finally fix one of its most frustrating sharing hurdles](https://www.androidauthority.com/google-photos-copy-button-apk-teardown-3640153/)
+ - [Google adds more convenience to its free VPN built into Pixel phones](https://www.androidauthority.com/pixel-vpn-by-google-quick-settings-upgrade-3640156/)
+ - [Private equity and private credit groups&#39; big bets on SaaS companies, the biggest area of PE activity in the past decade, risk being derailed by the rise of AI &lpar;Financial Times&rpar;](http://www.techmeme.com/260212/p13#a260212p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
