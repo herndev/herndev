@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I mean... How?](http://9gag.com/gag/arywvVX)
- - ⏩ [Darwin is watching](http://9gag.com/gag/a9y0bwm)
- - 👉 [He even got shot at](http://9gag.com/gag/a0eqP2Q)<!-- MEMES:END -->
+ - 💣 [We had dreams](http://9gag.com/gag/aBy5Qr2)
+ - ⏩ [Return to monke](http://9gag.com/gag/a0eqPwB)
+ - 👉 [Vindication](http://9gag.com/gag/an7wYN5)<!-- MEMES:END -->
 
 ---
 
