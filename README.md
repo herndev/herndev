@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Proof of Procrastination](http://9gag.com/gag/amow0Mv)
- - ⏩ [He will not expect it](http://9gag.com/gag/aRBdPrG)
- - 👉 [Western diversity quotas vs Japan](http://9gag.com/gag/axywZAW)<!-- MEMES:END -->
+ - 💣 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
+ - ⏩ [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)
+ - 👉 [She paid for the seat, leave her alone](http://9gag.com/gag/aPA2vjG)<!-- MEMES:END -->
 
 ---
 
