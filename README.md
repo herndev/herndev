@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
- - ⏩ [I am sorry friend](http://9gag.com/gag/amowNDd)
- - 👉 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)<!-- MEMES:END -->
+ - 💣 [Oh wait](http://9gag.com/gag/aD25w6G)
+ - ⏩ [He will not expect it](http://9gag.com/gag/aRBdPrG)
+ - 👉 [Mystery solved](http://9gag.com/gag/agmwvQv)<!-- MEMES:END -->
 
 ---
 
