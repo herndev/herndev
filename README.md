@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is testing a bold new look for its Wear OS app](https://www.androidauthority.com/spotify-wear-os-now-playing-redesign-3640437/)
- - [Israeli authorities charge a reservist and a civilian for allegedly using classified information to bet on &quot;the occurrence of military operations&quot; on Polymarket &lpar;Financial Times&rpar;](http://www.techmeme.com/260212/p29#a260212p29)
- - [Elon Musk&#39;s X Appears to Be Violating US Sanctions by Selling Premium Accounts to Iranian Leaders](https://www.wired.com/story/elon-musk-x-premium-accounts-iran/)<!-- TECH:END -->
+ - [DHS announces the end of its “surge operation” in Minneapolis, but not entirely](https://www.theverge.com/policy/878017/dhs-ends-minneapolis-operation-metro-surge-tom-homan)
+ - [Lawsuit alleges Apple and others were coerced to censor ICE monitoring tools](https://appleinsider.com/articles/26/02/12/lawsuit-alleges-apple-and-others-were-coerced-to-censor-ice-monitoring-tools?utm_source=rss)
+ - [The FTC wants to turn your favorite news app into a conservative propaganda machine](https://www.androidauthority.com/ftc-news-apps-3640456/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
