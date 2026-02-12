@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Actor James Van Der Beek has passed away from cancer at age 48. He leaves behind a wife and six children.](http://9gag.com/gag/an7wXdb)
+ - 💣 [Proof of Procrastination](http://9gag.com/gag/amow0Mv)
  - ⏩ [He will not expect it](http://9gag.com/gag/aRBdPrG)
- - 👉 [Proof of Procrastination](http://9gag.com/gag/amow0Mv)<!-- MEMES:END -->
+ - 👉 [Western diversity quotas vs Japan](http://9gag.com/gag/axywZAW)<!-- MEMES:END -->
 
 ---
 
