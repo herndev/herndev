@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google unveils WAXAL, a new open speech dataset for 21 African languages to ease speech technology development; African institutions own the dataset &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/260212/p9#a260212p9)
- - [Multiple responses from DeepSeek&#39;s namesake chatbot confirm that the startup has expanded the context window of its flagship AI model from 128K tokens to 1M+ &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/260212/p8#a260212p8)
- - [Grab agrees to acquire US fintech company Stash Financial in a deal initially valued at $425M and forecasts FY 2026 revenue of $4.04B-$4.1B, below $4.13B est. &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260212/p7#a260212p7)<!-- TECH:END -->
+ - [Private equity and private credit groups&#39; big bets on SaaS companies, the biggest area of PE activity in the past decade, risk being derailed by the rise of AI &lpar;Financial Times&rpar;](http://www.techmeme.com/260212/p13#a260212p13)
+ - [SoftBank Group reports Q3 net profit of $1.6B after its Vision Fund posted a $2.4B gain, as a jump in the value of its OpenAI investment helped offset losses &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260212/p12#a260212p12)
+ - [Sources: some OpenAI execs were surprised by WSJ&#39;s report that the company was targeting a Q4 2026 IPO; OpenAI hopes to triple its ~$13B 2025 revenue in 2026 &lpar;New York Times&rpar;](http://www.techmeme.com/260212/p11#a260212p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
