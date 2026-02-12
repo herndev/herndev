@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget the S26 Ultra, this Ultra flagship could easily outlast Samsung’s best](https://www.androidauthority.com/oppo-find-x9-ultra-battery-and-screen-specs-leaked-3640269/)
- - [Meta&#39;s auditor Ernst &amp; Young raised a red flag over the financial engineering Meta used to keep its $27B Hyperion data center project off its balance sheet &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/260212/p14#a260212p14)
- - [15 Best Bed Frames &lpar;2026&rpar;, Tested in Our Homes](https://www.wired.com/gallery/best-bed-frames/)<!-- TECH:END -->
+ - [This small Android flagship could outpace the Galaxy S26 and Pixel 10 with a 200MP telephoto](https://www.androidauthority.com/xiaomi-18-200mp-telephoto-3640187/)
+ - [Alexa+ and Kindle Scribe Now Work Together With ‘Send to Alexa’](https://www.wired.com/story/send-to-alexa-kindle-scribe/)
+ - [AI tools like Opus 4.6 actually do make engineers 10x more productive and are addictive, but the &quot;AI Vampire&quot; effect is causing widespread developer burnout &lpar;Steve Yegge&rpar;](http://www.techmeme.com/260212/p17#a260212p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
