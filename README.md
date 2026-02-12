@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase rolls out Agentic Wallets, a wallet infrastructure that lets AI agents make autonomous crypto transactions &quot;without human intervention&quot; &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/260211/p58#a260211p58)
- - [Applied Materials reaches a $252M settlement with the US Commerce Department, resolving allegations it illegally shipped chipmaking equipment to SMIC in China &lpar;Reuters&rpar;](http://www.techmeme.com/260211/p57#a260211p57)
- - [Disney agrees to pay $2.75M to settle California AG Rob Bonta&#39;s 2024 lawsuit alleging Disney violated CCPA by failing to honor consumers&#39; data opt-out requests &lpar;Alyssa Ray/The Wrap&rpar;](http://www.techmeme.com/260211/p56#a260211p56)<!-- TECH:END -->
+ - [FTC uses selective Apple News study to ask Apple to stop promoting &#39;leftist outlets&#39;](https://appleinsider.com/articles/26/02/12/ftc-uses-selective-apple-news-study-to-ask-apple-to-stop-promoting-leftist-outlets?utm_source=rss)
+ - [Microsoft fixed a vulnerability in Notepad in Windows 11 allowing attackers to execute remote programs by tricking users into clicking malicious Markdown links &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260211/p59#a260211p59)
+ - [How to manage your iPhone notifications on iOS 26](https://appleinsider.com/articles/26/02/12/how-to-manage-your-iphone-notifications-on-ios-26?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
