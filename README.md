@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sure](http://9gag.com/gag/aRBdP6q)
- - ⏩ [Lying Liars who Lie](http://9gag.com/gag/aoywZQn)
- - 👉 [Good news everyone!](http://9gag.com/gag/ae9w3rO)<!-- MEMES:END -->
+ - 💣 [Yeah but the stock market](http://9gag.com/gag/a4PydMA)
+ - ⏩ [Everyone thinks they are an expert . . .](http://9gag.com/gag/aBy5r9Z)
+ - 👉 [It took me 2 years, 1 month and 17 days, but for the first time in my 30 years of life, I used all the ink from a pen without losing its cap](http://9gag.com/gag/aZZ5xYX)<!-- MEMES:END -->
 
 ---
 
