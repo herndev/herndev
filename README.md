@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Applied Materials reports Q1 revenue down 2% YoY to $7.01B, vs. $6.86B est., and forecasts Q2 revenue above estimates; AMAT jumps 12%+ after hours &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260212/p61#a260212p61)
- - [A US jury finds Apple did not infringe Optis&#39; 4G wireless technology patents, after two earlier trial verdicts Optis had won were overturned &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/260212/p60#a260212p60)
- - [A surprise God of War prequel is out on the PS5 right now](https://www.theverge.com/games/878375/god-of-war-sons-of-sparta-trilogy-sony-playstation-ps5-release-date-trailer)<!-- TECH:END -->
+ - [Amazon&#39;s Ring cancels its partnership with Flock that would have let law enforcement agencies request footage from Ring doorbell users, following backlash &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/260212/p63#a260212p63)
+ - [Third Optis jury trial results in a victory for Apple in the US](https://appleinsider.com/articles/26/02/13/third-optis-jury-trial-results-in-a-victory-for-apple-in-the-us?utm_source=rss)
+ - [Aqara U400 review: UWB home key will be hard to beat on other smart locks](https://appleinsider.com/articles/26/02/13/aqara-u400-review-uwb-home-key-will-be-hard-to-beat-on-other-smart-locks?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
