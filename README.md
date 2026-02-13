@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good news everyone!](http://9gag.com/gag/ae9w3rO)
- - ⏩ [I need your worst Gifs.](http://9gag.com/gag/ayNwpG8)
- - 👉 [I don&#39;t know how they tricked Disney into this but I&#39;m in](http://9gag.com/gag/a34rLqv)<!-- MEMES:END -->
+ - 💣 [Straight gangster](http://9gag.com/gag/a1mjZ48)
+ - ⏩ [Oh wait](http://9gag.com/gag/aD25w6G)
+ - 👉 [Good news everyone!](http://9gag.com/gag/ae9w3rO)<!-- MEMES:END -->
 
 ---
 
