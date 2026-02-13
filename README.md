@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who is Sabih Khan, Apple&#39;s Chief Operating Officer and potential CEO](https://appleinsider.com/articles/26/02/13/who-is-sabih-khan-apples-chief-operating-officer-and-potential-ceo?utm_source=rss)
- - [Ugreen NASync DH4300 Plus review: Beginner-friendly, easily expandable](https://appleinsider.com/articles/26/02/13/ugreen-nasync-dh4300-plus-review-beginner-friendly-easily-expandable?utm_source=rss)
- - [This YouTube experiment may be why you’re not getting all of your notifications](https://www.androidauthority.com/youtube-test-stops-push-notifications-3640911/)<!-- TECH:END -->
+ - [The see-through Beats Studio Buds Plus are more than 40 percent off for Presidents Day](https://www.theverge.com/gadgets/878951/beats-studio-buds-plus-earbuds-presidents-day-sale-deal)
+ - [Android 17 Beta 1 finally starts rolling out following a two-day delay](https://www.androidauthority.com/android-17-beta-1-delayed-rollout-3640969/)
+ - [Need a good charger? Check out these deals from NOCO, Anker, and UGREEN](https://www.androidauthority.com/noco-xgrid-x100-anker-nano-charger-45w-ugreen-uno-charger-65w-deals-3640935/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
