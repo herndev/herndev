@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lying Liars who Lie](http://9gag.com/gag/aoywZQn)
- - ⏩ [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
- - 👉 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)<!-- MEMES:END -->
+ - 💣 [Execute order 66!](http://9gag.com/gag/aKG5B4j)
+ - ⏩ [Here comes the queen for our king...](http://9gag.com/gag/agmw0x1)
+ - 👉 [I know who can do cheaper](http://9gag.com/gag/a5Q3P2L)<!-- MEMES:END -->
 
 ---
 
