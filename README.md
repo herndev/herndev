@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Grafana Labs, which makes cloud and AI monitoring tools, is in talks to raise at a $9B valuation, up from $6.6B in 2024; its ARR hit $400M in Sept. &lpar;The Information&rpar;](http://www.techmeme.com/260213/p19#a260213p19)
- - [Android 17 Beta 1 finally lets you remove the At a Glance widget on your home screen](https://www.androidauthority.com/android-17-beta-1-remove-at-a-glance-home-screen-3641021/)
- - [OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK](https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/)<!-- TECH:END -->
+ - [Deal: This UGREEN Ergonomic Mouse is only $16.99 right now!](https://www.androidauthority.com/ugreen-ergonomic-mouse-deal-3640933/)
+ - [Android 17 finally brings custom shortcuts to the Pixel Launcher search bar](https://www.androidauthority.com/android-17-search-shortcuts-3641017/)
+ - [What Are the Best Wireless Earbuds Right Now?](https://www.cnet.com/tech/mobile/what-are-the-best-wireless-earbuds-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
