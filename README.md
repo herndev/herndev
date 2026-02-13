@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)
- - ⏩ [More news](http://9gag.com/gag/aYQ5wdq)
- - 👉 [Dubai Job interview be like](http://9gag.com/gag/aBy5Q7D)<!-- MEMES:END -->
+ - 💣 [Pick your fighter](http://9gag.com/gag/aXP1XeV)
+ - ⏩ [Bomb disposal expert vs a thief](http://9gag.com/gag/ajPw6p0)
+ - 👉 [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)<!-- MEMES:END -->
 
 ---
 
