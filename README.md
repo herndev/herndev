@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is preparing a major upgrade for its browser in One UI 9](https://www.androidauthority.com/samsung-internet-ask-ai-apk-teardown-3640801/)
- - [Fix blurry photos, upscale, and enhance image quality with this Mac app](https://appleinsider.com/articles/26/02/13/fix-blurry-photos-upscale-and-enhance-image-quality-with-this-mac-app?utm_source=rss)
- - [This Cult Favorite Dark Comedy Is Rarely on Streaming, but It Just Arrived on Pluto TV](https://www.cnet.com/tech/services-and-software/this-cult-favorite-rarely-on-streaming-but-arrived-on-plutotv/)<!-- TECH:END -->
+ - [ICE moves out to the suburbs](https://www.theverge.com/policy/878713/ice-minnesota-dhs-suburbs)
+ - [Meta reportedly wants to add face recognition to smart glasses while privacy advocates are distracted](https://www.theverge.com/tech/878725/meta-facial-recognition-smart-glasses-name-tag-privacy-advoates)
+ - [February investor memo: Cohere hit ~$240M in ARR in 2025, above its $200M target, with QoQ growth of 50%+ and average gross margins of ~70% throughout the year &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260213/p8#a260213p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
