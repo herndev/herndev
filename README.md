@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh wait](http://9gag.com/gag/aD25w6G)
- - ⏩ [Improvise. Adapt. Overcome Kurwa edition](http://9gag.com/gag/ajPwn3p)
- - 👉 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)<!-- MEMES:END -->
+ - 💣 [Here comes the queen for our king...](http://9gag.com/gag/agmw0x1)
+ - ⏩ [I don&#39;t know how they tricked Disney into this but I&#39;m in](http://9gag.com/gag/a34rLqv)
+ - 👉 [Couldn&#39;t have said any better, thank you! [2:04]](http://9gag.com/gag/apRw0Wb)<!-- MEMES:END -->
 
 ---
 
