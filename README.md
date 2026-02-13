@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook estimates that 25%+ of VC-backed unicorns have become &quot;undercorns,&quot; startups once valued at $1B or more by VCs but now valued below that threshold &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/260213/p14#a260213p14)
- - [The US DoD published and then deleted a document adding Alibaba, Baidu, and BYD to a list of companies with alleged connections to the Chinese military &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/260213/p13#a260213p13)
- - [Samsung is preparing a major upgrade for its browser in One UI 9 &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-internet-ask-ai-apk-teardown-3640801/)<!-- TECH:END -->
+ - [Who is Sabih Khan, Apple&#39;s Chief Operating Officer and potential CEO](https://appleinsider.com/articles/26/02/13/who-is-sabih-khan-apples-chief-operating-officer-and-potential-ceo?utm_source=rss)
+ - [Ugreen NASync DH4300 Plus review: Beginner-friendly, easily expandable](https://appleinsider.com/articles/26/02/13/ugreen-nasync-dh4300-plus-review-beginner-friendly-easily-expandable?utm_source=rss)
+ - [This YouTube experiment may be why you’re not getting all of your notifications](https://www.androidauthority.com/youtube-test-stops-push-notifications-3640911/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
