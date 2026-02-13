@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tenways’ compact e-bike twists and folds to go flat](https://www.theverge.com/transportation/877796/tenways-cgo-compact-e-bike-twists-folds-flat)
- - [New Nothing Phone 4a color leak raises more questions than answers](https://www.androidauthority.com/nothing-phone-4a-series-colors-storage-options-3640670/)
- - [Gemini now helps you breeze through long Google Docs without reading them](https://www.androidauthority.com/gemini-google-docs-audio-summaries-3640675/)<!-- TECH:END -->
+ - [Miss small phones? Too bad, 7-inch phones could be the next big thing.](https://www.androidauthority.com/7-inch-phones-wide-aspect-ratio-leak-3640689/)
+ - [Chrome on Android just became more desktop-like with this long-awaited feature](https://www.androidauthority.com/google-chrome-android-pinned-tabs-3640703/)
+ - [iPhone 17e renders are here, and they might make you rethink that Pixel 10a pre-order](https://www.androidauthority.com/iphone-17e-price-specs-leaked-renders-3640686/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
