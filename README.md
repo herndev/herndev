@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung is preparing a major upgrade for its browser in One UI 9](https://www.androidauthority.com/samsung-internet-ask-ai-apk-teardown-3640801/)
  - [Fix blurry photos, upscale, and enhance image quality with this Mac app](https://appleinsider.com/articles/26/02/13/fix-blurry-photos-upscale-and-enhance-image-quality-with-this-mac-app?utm_source=rss)
- - [YouTube&#39;s bare-minimum app for Apple Vision Pro is better than nothing -- hands on](https://appleinsider.com/articles/26/02/13/youtubes-bare-minimum-app-for-apple-vision-pro-is-better-than-nothing----hands-on?utm_source=rss)
- - [Aqara U400 review: UWB home key will be hard to beat](https://appleinsider.com/articles/26/02/13/aqara-u400-review-uwb-home-key-will-be-hard-to-beat-on-other-smart-locks?utm_source=rss)<!-- TECH:END -->
+ - [This Cult Favorite Dark Comedy Is Rarely on Streaming, but It Just Arrived on Pluto TV](https://www.cnet.com/tech/services-and-software/this-cult-favorite-rarely-on-streaming-but-arrived-on-plutotv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
