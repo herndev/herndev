@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s behind the mass exodus at xAI?](https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring)
- - [Sources: Binance has fired its employees in late 2025 who uncovered evidence that Iran received $1B+ through Binance between March 2024 and August 2025 &lpar;Fortune&rpar;](http://www.techmeme.com/260213/p11#a260213p11)
- - [Why Ferrari turned to Jony Ive to design its new car&#39;s controversial interior](https://appleinsider.com/articles/26/02/13/why-ferrari-turned-to-jony-ive-to-design-its-new-cars-controversial-interior?utm_source=rss)<!-- TECH:END -->
+ - [PitchBook estimates that 25%+ of VC-backed unicorns have become &quot;undercorns,&quot; startups once valued at $1B or more by VCs but now valued below that threshold &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/260213/p14#a260213p14)
+ - [The US DoD published and then deleted a document adding Alibaba, Baidu, and BYD to a list of companies with alleged connections to the Chinese military &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/260213/p13#a260213p13)
+ - [Samsung is preparing a major upgrade for its browser in One UI 9 &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-internet-ask-ai-apk-teardown-3640801/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
