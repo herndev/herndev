@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey reveals which Android 16 QPR3 feature you’re most excited about](https://www.androidauthority.com/android-16-qpr3-feature-excited-poll-result-3640594/)
- - [A US court sentences Ramil Ventura Palafox, CEO of Praetorian Group, to 20 years in prison for operating a $200M bitcoin Ponzi scheme that defrauded 90K+ people &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/260213/p5#a260213p5)
- - [20 Best Couches We’ve Tested That You Can Buy Online &lpar;2026&rpar;](https://www.wired.com/gallery/best-couch/)<!-- TECH:END -->
+ - [Fix blurry photos, upscale, and enhance image quality with this Mac app](https://appleinsider.com/articles/26/02/13/fix-blurry-photos-upscale-and-enhance-image-quality-with-this-mac-app?utm_source=rss)
+ - [YouTube&#39;s bare-minimum app for Apple Vision Pro is better than nothing -- hands on](https://appleinsider.com/articles/26/02/13/youtubes-bare-minimum-app-for-apple-vision-pro-is-better-than-nothing----hands-on?utm_source=rss)
+ - [Aqara U400 review: UWB home key will be hard to beat](https://appleinsider.com/articles/26/02/13/aqara-u400-review-uwb-home-key-will-be-hard-to-beat-on-other-smart-locks?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
