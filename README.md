@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is testing a clamshell foldable iPhone, leaker claims](https://appleinsider.com/articles/26/02/13/apple-is-testing-a-clamshell-foldable-iphone-leaker-claims?utm_source=rss)
- - [Amazon&#39;s Presidents&#39; Day Sale slashes Apple Watch, iPad, AirPods, Mac, accessories to as low as $13](https://appleinsider.com/articles/26/02/13/amazons-presidents-day-sale-slashes-apple-watch-ipad-airpods-mac-accessories-to-as-low-as-13?utm_source=rss)
- - [Chrome’s next vertical tab upgrade could change how you organize your browsing](https://www.androidauthority.com/chrome-vertical-tabs-projects-panel-3640842/)<!-- TECH:END -->
+ - [What’s behind the mass exodus at xAI?](https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring)
+ - [Sources: Binance has fired its employees in late 2025 who uncovered evidence that Iran received $1B+ through Binance between March 2024 and August 2025 &lpar;Fortune&rpar;](http://www.techmeme.com/260213/p11#a260213p11)
+ - [Why Ferrari turned to Jony Ive to design its new car&#39;s controversial interior](https://appleinsider.com/articles/26/02/13/why-ferrari-turned-to-jony-ive-to-design-its-new-cars-controversial-interior?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
