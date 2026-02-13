@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lewis Hamilton and Kim Kardashian](http://9gag.com/gag/a4PydLv)
- - ⏩ [More news](http://9gag.com/gag/aYQ5wdq)
- - 👉 [Oh wait](http://9gag.com/gag/aD25w6G)<!-- MEMES:END -->
+ - 💣 [More news](http://9gag.com/gag/aYQ5wdq)
+ - ⏩ [I don&#39;t know how they tricked Disney into this but I&#39;m in](http://9gag.com/gag/a34rLqv)
+ - 👉 [Eminem&#39;s journey is truly inspiring](http://9gag.com/gag/aXP1XOg)<!-- MEMES:END -->
 
 ---
 
