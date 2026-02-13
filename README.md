@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta plans to add facial recognition to its smart glasses as soon as 2026, and considers letting the glasses identify people with public Meta accounts &lpar;New York Times&rpar;](http://www.techmeme.com/260213/p3#a260213p3)
- - [Google Translate is working on new widgets — but not the ones we wanted](https://www.androidauthority.com/google-translate-widgets-3640586/)
- - [Here&#39;s Why I&#39;d Buy the Last Samsung Soundbar First](https://www.wired.com/story/the-best-soundbar-is-last-years-samsung/)<!-- TECH:END -->
+ - [Survey reveals which Android 16 QPR3 feature you’re most excited about](https://www.androidauthority.com/android-16-qpr3-feature-excited-poll-result-3640594/)
+ - [A US court sentences Ramil Ventura Palafox, CEO of Praetorian Group, to 20 years in prison for operating a $200M bitcoin Ponzi scheme that defrauded 90K+ people &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/260213/p5#a260213p5)
+ - [20 Best Couches We’ve Tested That You Can Buy Online &lpar;2026&rpar;](https://www.wired.com/gallery/best-couch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
