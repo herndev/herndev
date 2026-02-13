@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google quietly fixed a big annoyance with Android’s Driving Mode](https://www.androidauthority.com/android-driving-mode-annoyance-fix-3640721/)
- - [Google just improved the best free feature on your Pixel — here’s how to use it](https://www.androidauthority.com/google-pixel-free-vpn-how-use-3640581/)
- - [Companies like Stripe, OpenAI, Anthropic, and SpaceX are letting workers cash out before their IPOs, a move once seen as taboo and lacking long-term commitment &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260213/p2#a260213p2)<!-- TECH:END -->
+ - [Sources: Meta plans to add facial recognition to its smart glasses as soon as 2026, and considers letting the glasses identify people with public Meta accounts &lpar;New York Times&rpar;](http://www.techmeme.com/260213/p3#a260213p3)
+ - [Google Translate is working on new widgets — but not the ones we wanted](https://www.androidauthority.com/google-translate-widgets-3640586/)
+ - [Here&#39;s Why I&#39;d Buy the Last Samsung Soundbar First](https://www.wired.com/story/the-best-soundbar-is-last-years-samsung/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
