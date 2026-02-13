@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyone thinks they are an expert . . .](http://9gag.com/gag/aBy5r9Z)
- - ⏩ [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)
- - 👉 [Wait, you guys get invited to parties?](http://9gag.com/gag/a34rLb7)<!-- MEMES:END -->
+ - 💣 [Lying Liars who Lie](http://9gag.com/gag/aoywZQn)
+ - ⏩ [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
+ - 👉 [Hanna Hoekstra - the motion capture actress behind Aloy &lpar;Horizon series&rpar;. They should&#39;ve left her as is.](http://9gag.com/gag/a4PyLr1)<!-- MEMES:END -->
 
 ---
 
