@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice!](http://9gag.com/gag/ayNwpjb)
- - ⏩ [Everyone thinks they are an expert . . .](http://9gag.com/gag/aBy5r9Z)
- - 👉 [Western diversity quotas vs Japan](http://9gag.com/gag/axywZAW)<!-- MEMES:END -->
+ - 💣 [Dubai Job interview be like](http://9gag.com/gag/aBy5Q7D)
+ - ⏩ [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
+ - 👉 [Eye contact](http://9gag.com/gag/ajPwr5R)<!-- MEMES:END -->
 
 ---
 
