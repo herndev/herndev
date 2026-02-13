@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The see-through Beats Studio Buds Plus are more than 40 percent off for Presidents Day](https://www.theverge.com/gadgets/878951/beats-studio-buds-plus-earbuds-presidents-day-sale-deal)
- - [Android 17 Beta 1 finally starts rolling out following a two-day delay](https://www.androidauthority.com/android-17-beta-1-delayed-rollout-3640969/)
- - [Need a good charger? Check out these deals from NOCO, Anker, and UGREEN](https://www.androidauthority.com/noco-xgrid-x100-anker-nano-charger-45w-ugreen-uno-charger-65w-deals-3640935/)<!-- TECH:END -->
+ - [4chan’s creator says ‘Epstein had nothing to do’ with creating infamous far-right board /pol/](https://www.theverge.com/tech/879132/moot-4chan-jeffrey-epstein-meeting-pol)
+ - [The Galaxy Buds 4 Pro launch feels imminent as more renders leak](https://www.androidauthority.com/samsung-galaxy-buds-4-pro-one-ui-9-3640990/)
+ - [The Verge’s 2026 Valentine’s Day gift guide &lpar;for him&rpar;](https://www.theverge.com/gadgets/865396/valentines-day-2026-gift-ideas-for-him-boyfriend-husband-partner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
