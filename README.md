@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pick your fighter](http://9gag.com/gag/aXP1XeV)
- - ⏩ [My cats at 3 am for no reason](http://9gag.com/gag/aVv5XR2)
- - 👉 [Sacrificed it all just to prove her wrong](http://9gag.com/gag/a87OjbV)<!-- MEMES:END -->
+ - 💣 [More news](http://9gag.com/gag/aYQ5wdq)
+ - ⏩ [Priorities](http://9gag.com/gag/aBy5Y0x)
+ - 👉 [Cheetah crab](http://9gag.com/gag/aD25oww)<!-- MEMES:END -->
 
 ---
 
