@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eye contact](http://9gag.com/gag/ajPwr5R)
- - ⏩ [The owners of the these cars never returned...](http://9gag.com/gag/aRBdQ0q)
- - 👉 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)<!-- MEMES:END -->
+ - 💣 [Lying Liars who Lie](http://9gag.com/gag/aoywZQn)
+ - ⏩ [I need your worst Gifs.](http://9gag.com/gag/ayNwpG8)
+ - 👉 [Execute order 66!](http://9gag.com/gag/aKG5B4j)<!-- MEMES:END -->
 
 ---
 
