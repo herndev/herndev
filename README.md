@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [More news](http://9gag.com/gag/aYQ5wdq)
- - ⏩ [Priorities](http://9gag.com/gag/aBy5Y0x)
- - 👉 [Cheetah crab](http://9gag.com/gag/aD25oww)<!-- MEMES:END -->
+ - 💣 [His cries are music to my ears](http://9gag.com/gag/a2vpmwp)
+ - ⏩ [Britain Democracy](http://9gag.com/gag/avywLvq)
+ - 👉 [Pick your fighter](http://9gag.com/gag/aXP1XeV)<!-- MEMES:END -->
 
 ---
 
