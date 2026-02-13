@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tenways’ compact e-bike twists and folds to go flat](https://www.theverge.com/transportation/877796/tenways-cgo-compact-e-bike-twists-folds-flat)
  - [New Nothing Phone 4a color leak raises more questions than answers](https://www.androidauthority.com/nothing-phone-4a-series-colors-storage-options-3640670/)
- - [Gemini now helps you breeze through long Google Docs without reading them](https://www.androidauthority.com/gemini-google-docs-audio-summaries-3640675/)
- - [Ring cancels controversial integration after major user backlash and privacy concerns](https://www.androidauthority.com/ring-flock-partnership-canceled-3640666/)<!-- TECH:END -->
+ - [Gemini now helps you breeze through long Google Docs without reading them](https://www.androidauthority.com/gemini-google-docs-audio-summaries-3640675/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
