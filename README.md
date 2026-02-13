@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s Ring cancels its partnership with Flock that would have let law enforcement agencies request footage from Ring doorbell users, following backlash &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/260212/p63#a260212p63)
- - [Third Optis jury trial results in a victory for Apple in the US](https://appleinsider.com/articles/26/02/13/third-optis-jury-trial-results-in-a-victory-for-apple-in-the-us?utm_source=rss)
- - [Aqara U400 review: UWB home key will be hard to beat on other smart locks](https://appleinsider.com/articles/26/02/13/aqara-u400-review-uwb-home-key-will-be-hard-to-beat-on-other-smart-locks?utm_source=rss)<!-- TECH:END -->
+ - [The suspect believed to be behind the mass shooting in Tumbler Ridge, Canada made a Roblox game simulating a mall shooting; Roblox says it removed the account &lpar;404 Media&rpar;](http://www.techmeme.com/260212/p67#a260212p67)
+ - [Anna&#39;s Archive has quietly begun releasing millions of music files from its scrape of Spotify, despite an injunction against distribution of copyrighted works &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/260212/p66#a260212p66)
+ - [Sources: the Trump administration has shelved tech security measures against China, including data center equipment curbs, ahead of a Trump-Xi meeting in April &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/260212/p64#a260212p64)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
