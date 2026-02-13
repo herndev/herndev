@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ICE moves out to the suburbs](https://www.theverge.com/policy/878713/ice-minnesota-dhs-suburbs)
- - [Meta reportedly wants to add face recognition to smart glasses while privacy advocates are distracted](https://www.theverge.com/tech/878725/meta-facial-recognition-smart-glasses-name-tag-privacy-advoates)
- - [February investor memo: Cohere hit ~$240M in ARR in 2025, above its $200M target, with QoQ growth of 50%+ and average gross margins of ~70% throughout the year &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260213/p8#a260213p8)<!-- TECH:END -->
+ - [Apple is testing a clamshell foldable iPhone, leaker claims](https://appleinsider.com/articles/26/02/13/apple-is-testing-a-clamshell-foldable-iphone-leaker-claims?utm_source=rss)
+ - [Amazon&#39;s Presidents&#39; Day Sale slashes Apple Watch, iPad, AirPods, Mac, accessories to as low as $13](https://appleinsider.com/articles/26/02/13/amazons-presidents-day-sale-slashes-apple-watch-ipad-airpods-mac-accessories-to-as-low-as-13?utm_source=rss)
+ - [Chrome’s next vertical tab upgrade could change how you organize your browsing](https://www.androidauthority.com/chrome-vertical-tabs-projects-panel-3640842/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
