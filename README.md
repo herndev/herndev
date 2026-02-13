@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [4chan’s creator says ‘Epstein had nothing to do’ with creating infamous far-right board /pol/](https://www.theverge.com/tech/879132/moot-4chan-jeffrey-epstein-meeting-pol)
- - [The Galaxy Buds 4 Pro launch feels imminent as more renders leak](https://www.androidauthority.com/samsung-galaxy-buds-4-pro-one-ui-9-3640990/)
- - [The Verge’s 2026 Valentine’s Day gift guide &lpar;for him&rpar;](https://www.theverge.com/gadgets/865396/valentines-day-2026-gift-ideas-for-him-boyfriend-husband-partner)<!-- TECH:END -->
+ - [Sources: Grafana Labs, which makes cloud and AI monitoring tools, is in talks to raise at a $9B valuation, up from $6.6B in 2024; its ARR hit $400M in Sept. &lpar;The Information&rpar;](http://www.techmeme.com/260213/p19#a260213p19)
+ - [Android 17 Beta 1 finally lets you remove the At a Glance widget on your home screen](https://www.androidauthority.com/android-17-beta-1-remove-at-a-glance-home-screen-3641021/)
+ - [OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK](https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
