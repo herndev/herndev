@@ -41,7 +41,7 @@
 <!-- TECH:START -->
  - [The MPA urges ByteDance to curb its AI video model Seedance 2.0, saying the model engages in unauthorized use of US copyrighted material &quot;on a massive scale&quot; &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/260212/p68#a260212p68)
  - [YouTube&#39;s bare-minimum app for Apple Vision Pro is better than nothing -- hands on](https://appleinsider.com/articles/26/02/13/youtubes-bare-minimum-app-for-apple-vision-pro-is-better-than-nothing----hands-on?utm_source=rss)
- - [The suspect believed to be behind the mass shooting in Tumbler Ridge, Canada made a Roblox game simulating a mall shooting; Roblox says it removed the account &lpar;404 Media&rpar;](http://www.techmeme.com/260212/p67#a260212p67)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Feb. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-feb-13/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
