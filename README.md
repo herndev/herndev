@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Miss small phones? Too bad, 7-inch phones could be the next big thing.](https://www.androidauthority.com/7-inch-phones-wide-aspect-ratio-leak-3640689/)
- - [Chrome on Android just became more desktop-like with this long-awaited feature](https://www.androidauthority.com/google-chrome-android-pinned-tabs-3640703/)
- - [iPhone 17e renders are here, and they might make you rethink that Pixel 10a pre-order](https://www.androidauthority.com/iphone-17e-price-specs-leaked-renders-3640686/)<!-- TECH:END -->
+ - [Google quietly fixed a big annoyance with Android’s Driving Mode](https://www.androidauthority.com/android-driving-mode-annoyance-fix-3640721/)
+ - [Google just improved the best free feature on your Pixel — here’s how to use it](https://www.androidauthority.com/google-pixel-free-vpn-how-use-3640581/)
+ - [Companies like Stripe, OpenAI, Anthropic, and SpaceX are letting workers cash out before their IPOs, a move once seen as taboo and lacking long-term commitment &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260213/p2#a260213p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
