@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dubai Job interview be like](http://9gag.com/gag/aBy5Q7D)
- - ⏩ [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)
- - 👉 [Eye contact](http://9gag.com/gag/ajPwr5R)<!-- MEMES:END -->
+ - 💣 [Eye contact](http://9gag.com/gag/ajPwr5R)
+ - ⏩ [The owners of the these cars never returned...](http://9gag.com/gag/aRBdQ0q)
+ - 👉 [10 numas out of 10](http://9gag.com/gag/aAy5Vmg)<!-- MEMES:END -->
 
 ---
 
