@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Straight gangster](http://9gag.com/gag/a1mjZ48)
- - ⏩ [Oh wait](http://9gag.com/gag/aD25w6G)
+ - 💣 [Sure](http://9gag.com/gag/aRBdP6q)
+ - ⏩ [Lying Liars who Lie](http://9gag.com/gag/aoywZQn)
  - 👉 [Good news everyone!](http://9gag.com/gag/ae9w3rO)<!-- MEMES:END -->
 
 ---
