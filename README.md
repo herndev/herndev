@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wonder where her mind went during this interview](http://9gag.com/gag/aE05Yr9)
- - ⏩ [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)
- - 👉 [Just miss](http://9gag.com/gag/an7wbzn)<!-- MEMES:END -->
+ - 💣 [SUCK IT!](http://9gag.com/gag/ajPwq3G)
+ - ⏩ [I wonder where her mind went during this interview](http://9gag.com/gag/aE05Yr9)
+ - 👉 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)<!-- MEMES:END -->
 
 ---
 
