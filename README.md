@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His cries are music to my ears](http://9gag.com/gag/a2vpmwp)
- - ⏩ [Britain Democracy](http://9gag.com/gag/avywLvq)
- - 👉 [Pick your fighter](http://9gag.com/gag/aXP1XeV)<!-- MEMES:END -->
+ - 💣 [`You&#39;re a disgrace to my race` We need more of this or its going to get really bad](http://9gag.com/gag/azxwr1p)
+ - ⏩ [Team canaduh appears to cheat at throwing rocks on ice](http://9gag.com/gag/aGy50Z6)
+ - 👉 [I wonder where her mind went during this interview](http://9gag.com/gag/aE05Yr9)<!-- MEMES:END -->
 
 ---
 
