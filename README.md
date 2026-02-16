@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All academy quiz answers in Mario Tennis Fever](https://www.polygon.com/mario-tennis-fever-academy-quiz-answers-adventure/)
- - [Mario Tennis Fever Beginner&#39;s tips and tricks](https://www.polygon.com/mario-tennis-fever-beginners-tips-tricks-before-you-start/)
- - [All Fever rackets in Mario Tennis Fever](https://www.polygon.com/mario-tennis-fever-rackets-unlock-all/)<!-- GAME:END -->
+ - [Fortnite&#39;s new NECA action figures are perfect](https://www.polygon.com/neca-fortnite-action-figures-ninja-turtles-horror/)
+ - [Cooking recipes in Heartopia](https://www.polygon.com/heartopia-guide-cooking-recipes-list-ingredients-unlock/)
+ - [Who is Rilakkuma? Hello Kitty&#39;s biggest mascot competitor, explained](https://www.polygon.com/rilakkuma-lore-hello-kitty-sanrio-rival-anime-april/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
