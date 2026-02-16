@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)
- - ⏩ [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)
- - 👉 [Just miss](http://9gag.com/gag/an7wbzn)<!-- MEMES:END -->
+ - 💣 [I wonder where her mind went during this interview](http://9gag.com/gag/aE05Yr9)
+ - ⏩ [Just miss](http://9gag.com/gag/an7wbzn)
+ - 👉 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)<!-- MEMES:END -->
 
 ---
 
