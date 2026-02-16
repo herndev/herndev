@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only correct answer to this question](http://9gag.com/gag/an7wypq)
- - ⏩ [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)
+ - 💣 [The true origin story of the mommy meme](http://9gag.com/gag/a0eqbVz)
+ - ⏩ [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)
  - 👉 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)<!-- MEMES:END -->
 
 ---
