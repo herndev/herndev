@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel’s ‘Now Playing’ is becoming a real app, but not for everyone](https://www.androidauthority.com/google-pixel-now-playing-app-play-store-3641143/)
- - [India-based AI cloud startup Neysa plans to raise up to $600M in equity led by Blackstone, plus $600M in debt, to deploy 20K+ GPUs in India for AI training &lpar;Baiju Kalesh/Bloomberg&rpar;](http://www.techmeme.com/260215/p19#a260215p19)
- - [A look at a new generation of Chinese billionaire AI entrepreneurs who keep a low profile, with fortunes entwined with China&#39;s push for tech independence &lpar;Bloomberg&rpar;](http://www.techmeme.com/260215/p18#a260215p18)<!-- TECH:END -->
+ - [Following Disney, Paramount sent a cease-and-desist letter to ByteDance, alleging its AI-generated Seedance videos and Seedream images infringed Paramount&#39;s IP &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260215/p21#a260215p21)
+ - [Keir Starmer says no platform &quot;should get a free pass&quot;, as the UK moves to tighten online safety laws covering AI chatbots and social media, to protect children &lpar;Mari Novik/Financial Times&rpar;](http://www.techmeme.com/260215/p20#a260215p20)
+ - [Pixel’s ‘Now Playing’ is becoming a real app, but not for everyone](https://www.androidauthority.com/google-pixel-now-playing-app-play-store-3641143/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
