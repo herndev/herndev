@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Props Up Misleading, Junky Laptops No One Should Buy](https://www.wired.com/story/bad-amazon-laptops/)
- - [Samsung ad confirms rumors of a useful S26 ‘privacy display’](https://www.theverge.com/gadgets/879652/samsung-galaxy-s26-privacy-display-ad-flex-magic-pixel)
- - [London lawsuit: Getir co-founders Nazim Salur and Serkan Borançılı sue Abu Dhabi&#39;s Mubadala for $700M, alleging a &quot;significant loss&quot; in breaking up Getir assets &lpar;Suzi Ring/Financial Times&rpar;](http://www.techmeme.com/260216/p13#a260216p13)<!-- TECH:END -->
+ - [Data analytics company Fractal, which became India&#39;s first AI unicorn in 2022, raised $313M in its Mumbai IPO; its shares fell 5% amid a weak Indian IPO market &lpar;Rajesh Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260216/p17#a260216p17)
+ - [Galaxy S26 Ultra selfie camera leak has us playing ‘spot the difference’](https://www.androidauthority.com/samsung-galaxy-s26-ultra-selfie-camera-leak-3641270/)
+ - [NotebookLM under fire: Popular radio host says Google stole his voice](https://www.androidauthority.com/google-notebooklm-david-greene-voice-lawsuit-3641264/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
