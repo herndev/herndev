@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Years of waiting for this technology and her reaction is everything](http://9gag.com/gag/aPA2WqQ)
- - ⏩ [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)
- - 👉 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)<!-- MEMES:END -->
+ - 💣 [Representation](http://9gag.com/gag/aPA299G)
+ - ⏩ [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
+ - 👉 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)<!-- MEMES:END -->
 
 ---
 
