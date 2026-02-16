@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S26 vs S26 Ultra: Early benchmarks tell an interesting story](https://www.androidauthority.com/asmsung-galaxy-s26-early-benchmarks-3641386/)
- - [Apple Music Playlist Playground could be among first new AI features in iOS 26.4](https://appleinsider.com/articles/26/02/16/apple-music-playlist-playground-could-be-among-first-new-ai-features-in-ios-264?utm_source=rss)
- - [New in iOS 26.4 beta 1: Videos in Podcasts, Playlist Playground, RCS, more](https://appleinsider.com/articles/26/02/16/new-in-ios-264-beta-1-videos-in-podcasts-playlist-playground-rcs-more?utm_source=rss)<!-- TECH:END -->
+ - [Apple Music Playlist Playground among first new AI features in iOS 26.4](https://appleinsider.com/articles/26/02/16/apple-music-playlist-playground-could-be-among-first-new-ai-features-in-ios-264?utm_source=rss)
+ - [Apple debuts iOS 26.4 beta 1 for developers, adding limited support for encrypted RCS messages, enhancements to Apple Music, a Smart List for Reminders, more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/260216/p27#a260216p27)
+ - [Formula 1 channel pops up in Apple TV, can&#39;t be removed](https://appleinsider.com/articles/26/02/16/formula-1-channel-pops-up-in-apple-tv-cant-be-removed?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
