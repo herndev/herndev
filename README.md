@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple starts testing end-to-end encrypted RCS messages on iPhone](https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted)
- - [This might be the next Android brand to do MagSafe-style wireless charging](https://www.androidauthority.com/oppo-magsafe-charging-3641345/)
- - [iOS 26.4 has iPhone Stolen Device Protection on by default](https://appleinsider.com/articles/26/02/16/ios-264-has-iphone-stolen-device-protection-on-by-default?utm_source=rss)<!-- TECH:END -->
+ - [Galaxy S26 vs S26 Ultra: Early benchmarks tell an interesting story](https://www.androidauthority.com/asmsung-galaxy-s26-early-benchmarks-3641386/)
+ - [Apple Music Playlist Playground could be among first new AI features in iOS 26.4](https://appleinsider.com/articles/26/02/16/apple-music-playlist-playground-could-be-among-first-new-ai-features-in-ios-264?utm_source=rss)
+ - [New in iOS 26.4 beta 1: Videos in Podcasts, Playlist Playground, RCS, more](https://appleinsider.com/articles/26/02/16/new-in-ios-264-beta-1-videos-in-podcasts-playlist-playground-rcs-more?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
