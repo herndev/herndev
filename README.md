@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Nintendo Switch emulator just solved a major pain point for mod fans](https://www.androidauthority.com/eden-switch-dlc-updates-storage-3641207/)
- - [Google hasn’t forgotten about video apps for Android Auto](https://www.androidauthority.com/android-auto-video-apps-apk-teardown-3641217/)
- - [OpenAI retired GPT-4o on February 13, angering loyal users, 20K+ of whom signed a petition; 4o showed the unique attachment that people can form with chatbots &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260216/p10#a260216p10)<!-- TECH:END -->
+ - [Amazon Props Up Misleading, Junky Laptops No One Should Buy](https://www.wired.com/story/bad-amazon-laptops/)
+ - [Samsung ad confirms rumors of a useful S26 ‘privacy display’](https://www.theverge.com/gadgets/879652/samsung-galaxy-s26-privacy-display-ad-flex-magic-pixel)
+ - [London lawsuit: Getir co-founders Nazim Salur and Serkan Borançılı sue Abu Dhabi&#39;s Mubadala for $700M, alleging a &quot;significant loss&quot; in breaking up Getir assets &lpar;Suzi Ring/Financial Times&rpar;](http://www.techmeme.com/260216/p13#a260216p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
