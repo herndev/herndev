@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only correct answer to this question](http://9gag.com/gag/an7wypq)
+ - 💣 [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)
  - ⏩ [The true origin story of the mommy meme](http://9gag.com/gag/a0eqbVz)
- - 👉 [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)<!-- MEMES:END -->
+ - 👉 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)<!-- MEMES:END -->
 
 ---
 
