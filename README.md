@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)
- - ⏩ [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
- - 👉 [Caught in Danube river in Serbia a couple of months ago. Some nitwit emptied his fish tank in the river..](http://9gag.com/gag/a9y0WXm)<!-- MEMES:END -->
+ - 💣 [I wonder where her mind went during this interview](http://9gag.com/gag/aE05Yr9)
+ - ⏩ [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)
+ - 👉 [Just miss](http://9gag.com/gag/an7wbzn)<!-- MEMES:END -->
 
 ---
 
