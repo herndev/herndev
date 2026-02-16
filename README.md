@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India-based AI cloud startup Neysa plans to raise up to $600M in equity led by Blackstone, plus $600M in debt, to deploy 20K+ GPUs in India for AI training &lpar;Baiju Kalesh/Bloomberg&rpar;](http://www.techmeme.com/260215/p19#a260215p19)
  - [A look at a new generation of Chinese billionaire AI entrepreneurs who keep a low profile, with fortunes entwined with China&#39;s push for tech independence &lpar;Bloomberg&rpar;](http://www.techmeme.com/260215/p18#a260215p18)
- - [OpenClaw founder Peter Steinberger is joining OpenAI](https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai)
- - [Researchers outline Iran&#39;s digital surveillance capabilities, integrated across communications and internet networks, and recently used to track down protesters &lpar;New York Times&rpar;](http://www.techmeme.com/260215/p17#a260215p17)<!-- TECH:END -->
+ - [OpenClaw founder Peter Steinberger is joining OpenAI](https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
