@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Credit derivatives trading on specific tech companies continues to rise, amid concerns that they may be borrowing too much to fuel AI development &lpar;Bloomberg&rpar;](http://www.techmeme.com/260216/p3#a260216p3)
- - [New Galaxy S26 series teaser shows how Privacy Display fights shoulder surfers](https://www.androidauthority.com/samsung-tease-privacy-display-galaxy-s26-3641155/)
- - [Vitalik Buterin, who backed Polymarket, says he&#39;s &quot;starting to worry&quot; that prediction markets &quot;seem to be over-converging to an unhealthy product market fit&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260216/p2#a260216p2)<!-- TECH:END -->
+ - [Analysis: sports bets on Kalshi generate an estimated ~$1.3B in annualized revenue, underscoring the threat prediction markets pose to traditional operators &lpar;Financial Times&rpar;](http://www.techmeme.com/260216/p5#a260216p5)
+ - [Sensor Tower: dating app downloads in Saudi Arabia have risen annually for five years, hitting 3.5M in 2025, as liberalization enables more casual relationships &lpar;Omar Abdel-Baqui/Wall Street Journal&rpar;](http://www.techmeme.com/260216/p4#a260216p4)
+ - [Android 17 Beta 1 reveals a surprising secret about the Pixel Launcher search bar](https://www.androidauthority.com/android-17-pixel-launcher-search-bar-customization-3641175/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
