@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Representation](http://9gag.com/gag/aPA299G)
+ - 💣 [Caught in Danube river in Serbia a couple of months ago. Some nitwit emptied his fish tank in the river..](http://9gag.com/gag/a9y0WXm)
  - ⏩ [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
- - 👉 [Honey, Is it too late to stop AI?](http://9gag.com/gag/aGy5DB7)<!-- MEMES:END -->
+ - 👉 [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)<!-- MEMES:END -->
 
 ---
 
