@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Used Moltbot? Its creator just joined OpenAI](https://www.androidauthority.com/openclaw-peter-steinberger-openai-3641150/)
- - [Bengaluru-based C2i Semiconductors, building a &quot;grid-to-GPU&quot; power system for datacenters, raised a $15M Series A led by Peak XV, bringing total funding to $19M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260215/p22#a260215p22)
- - [Following Disney, Paramount sent a cease-and-desist letter to ByteDance, alleging its AI-generated Seedance videos and Seedream images infringed Paramount&#39;s IP &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260215/p21#a260215p21)<!-- TECH:END -->
+ - [Vitalik Buterin, who backed Polymarket, says he&#39;s &quot;starting to worry&quot; that prediction markets &quot;seem to be over-converging to an unhealthy product market fit&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260216/p2#a260216p2)
+ - [Sensor Tower: TikTok&#39;s US DAUs are at ~95% of the week of Jan. 19, with engagement metrics showing little sign of a mass exodus since its Jan. 23 US takeover &lpar;Matthew Chin/CNBC&rpar;](http://www.techmeme.com/260216/p1#a260216p1)
+ - [Used Moltbot? Its creator just joined OpenAI](https://www.androidauthority.com/openclaw-peter-steinberger-openai-3641150/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
