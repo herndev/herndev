@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: This UGREEN Ergonomic Mouse is only $16.99 right now!](https://www.androidauthority.com/ugreen-ergonomic-mouse-deal-3640933/)
- - [Android 17 finally brings custom shortcuts to the Pixel Launcher search bar](https://www.androidauthority.com/android-17-search-shortcuts-3641017/)
- - [What Are the Best Wireless Earbuds Right Now?](https://www.cnet.com/tech/mobile/what-are-the-best-wireless-earbuds-right-now/)<!-- TECH:END -->
+ - [OpenClaw founder Peter Steinberger is joining OpenAI](https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai)
+ - [Researchers outline Iran&#39;s digital surveillance capabilities, integrated across communications and internet networks, and recently used to track down protesters &lpar;New York Times&rpar;](http://www.techmeme.com/260215/p17#a260215p17)
+ - [Sam Altman says Peter Steinberger, founder of OpenClaw, is joining OpenAI &quot;to drive the next generation of personal agents&quot;; OpenClaw will remain open source &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260215/p16#a260215p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
