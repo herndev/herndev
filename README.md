@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s doing something on March 4th](https://www.theverge.com/tech/879671/apple-special-experience-event-march-2026)
- - [A look at the fall of Indian edtech startup Byju&#39;s, leading to US court sanctions, as lenders accuse founder Byju Raveendran of siphoning $533M of a $1.2B loan &lpar;Financial Times&rpar;](http://www.techmeme.com/260216/p20#a260216p20)
- - [Let&amp;#8217;s talk about Ring, lost dogs, and the surveillance state](https://www.theverge.com/podcast/879203/ring-search-party-super-bowl-ai-surveillance-privacy-security)<!-- TECH:END -->
+ - [Reboot: Apple TV, Ive style, and quantified cat poop](https://appleinsider.com/articles/26/02/16/reboot-apple-tv-ive-style-and-quantified-cat-poop?utm_source=rss)
+ - [As India prepares to host its AI Impact Summit in New Delhi this week, the country is set to promote a frugal AI strategy focused on solving local issues &lpar;Tripti Lahiri/Wall Street Journal&rpar;](http://www.techmeme.com/260216/p21#a260216p21)
+ - [Apple’s doing something on March 4th](https://www.theverge.com/tech/879671/apple-special-experience-event-march-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
