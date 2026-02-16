@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite&#39;s new NECA action figures are perfect](https://www.polygon.com/neca-fortnite-action-figures-ninja-turtles-horror/)
- - [Cooking recipes in Heartopia](https://www.polygon.com/heartopia-guide-cooking-recipes-list-ingredients-unlock/)
- - [Who is Rilakkuma? Hello Kitty&#39;s biggest mascot competitor, explained](https://www.polygon.com/rilakkuma-lore-hello-kitty-sanrio-rival-anime-april/)<!-- GAME:END -->
+ - [Lead story designer on the first Witcher game just rolled credits on a full playthrough, and you can watch the whole thing on YouTube](https://www.pcgamer.com/games/the-witcher/lead-story-designer-on-the-first-witcher-game-just-rolled-credits-on-a-full-playthrough-and-you-can-watch-the-whole-thing-on-youtube/)
+ - [Blizzard isn&#39;t going to let World of Warcraft players suffer from outdated character customization for long, but it&#39;s going to take some time to fix](https://www.pcgamer.com/games/world-of-warcraft/blizzard-isnt-going-to-let-world-of-warcraft-players-suffer-from-outdated-character-customization-for-long-but-its-going-to-take-some-time-to-fix/)
+ - [Fortnite&#39;s new NECA action figures are perfect](https://www.polygon.com/neca-fortnite-action-figures-ninja-turtles-horror/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
