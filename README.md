@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
- - ⏩ [The true origin story of the mommy meme](http://9gag.com/gag/a0eqbVz)
- - 👉 [The only correct answer to this question](http://9gag.com/gag/an7wypq)<!-- MEMES:END -->
+ - 💣 [Alice in Wonderland](http://9gag.com/gag/aD25WVO)
+ - ⏩ [The only correct answer to this question](http://9gag.com/gag/an7wypq)
+ - 👉 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)<!-- MEMES:END -->
 
 ---
 
