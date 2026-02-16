@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad Pro rumored to not get major design changes for many years](https://appleinsider.com/articles/26/02/16/ipad-pro-rumored-to-not-get-major-design-changes-for-many-years?utm_source=rss)
- - [Samsung clears space for Unpacked with a Galaxy device vanishing act](https://www.androidauthority.com/samsung-galaxy-buds-3-missing-3641330/)
- - [Government overreach must be fought said Apple, ten years ago today](https://appleinsider.com/articles/26/02/16/government-overreach-must-be-fought-said-apple-ten-years-ago-today?utm_source=rss)<!-- TECH:END -->
+ - [RCS encryption surfaces in iOS 26.4 developer beta, but testing is extremely limited](https://appleinsider.com/articles/26/02/16/rcs-encryption-surfaces-in-ios-264-developer-beta-but-testing-is-extremely-limited?utm_source=rss)
+ - [Sources: SpaceX and xAI are competing in a $100M DoD contest to make voice-controlled, autonomous drone swarms; OpenAI is helping Applied Intuition&#39;s submission &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260216/p25#a260216p25)
+ - [First iOS 26.4, macOS Tahoe developer betas surface as new Siri waits in the wings](https://appleinsider.com/articles/26/02/16/first-ios-264-macos-tahoe-developer-betas-surface-as-new-siri-waits-in-the-wings?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
