@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)
- - ⏩ [The true origin story of the mommy meme](http://9gag.com/gag/a0eqbVz)
- - 👉 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)<!-- MEMES:END -->
+ - 💣 [Just miss](http://9gag.com/gag/an7wbzn)
+ - ⏩ [She&#39;s happy it wasn&#39;t a card crash](http://9gag.com/gag/adBw7RM)
+ - 👉 [I wonder where her mind went during this interview](http://9gag.com/gag/aE05Yr9)<!-- MEMES:END -->
 
 ---
 
