@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: sports bets on Kalshi generate an estimated ~$1.3B in annualized revenue, underscoring the threat prediction markets pose to traditional operators &lpar;Financial Times&rpar;](http://www.techmeme.com/260216/p5#a260216p5)
- - [Sensor Tower: dating app downloads in Saudi Arabia have risen annually for five years, hitting 3.5M in 2025, as liberalization enables more casual relationships &lpar;Omar Abdel-Baqui/Wall Street Journal&rpar;](http://www.techmeme.com/260216/p4#a260216p4)
- - [Android 17 Beta 1 reveals a surprising secret about the Pixel Launcher search bar](https://www.androidauthority.com/android-17-pixel-launcher-search-bar-customization-3641175/)<!-- TECH:END -->
+ - [I didn’t think foldables were for me. After two months with the Galaxy Z Fold 7, I was wrong](https://www.androidauthority.com/samsung-galaxy-z-fold-7-two-months-later-3637404/)
+ - [A look at the US tech industry&#39;s effort to influence Californian politics: fighting the 5% billionaire tax, super PACs, and seeking a new tech-friendly governor &lpar;Dara Kerr/The Guardian&rpar;](http://www.techmeme.com/260216/p8#a260216p8)
+ - [A look at Anti Fund, a small VC firm cofounded by YouTuber Jake Paul that has gained access to hot rounds in startups like OpenAI, Anduril, Polymarket, and Ramp &lpar;Jake Angelo/Fortune&rpar;](http://www.techmeme.com/260216/p7#a260216p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
