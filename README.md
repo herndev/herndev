@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I didn’t think foldables were for me. After two months with the Galaxy Z Fold 7, I was wrong](https://www.androidauthority.com/samsung-galaxy-z-fold-7-two-months-later-3637404/)
- - [A look at the US tech industry&#39;s effort to influence Californian politics: fighting the 5% billionaire tax, super PACs, and seeking a new tech-friendly governor &lpar;Dara Kerr/The Guardian&rpar;](http://www.techmeme.com/260216/p8#a260216p8)
- - [A look at Anti Fund, a small VC firm cofounded by YouTuber Jake Paul that has gained access to hot rounds in startups like OpenAI, Anduril, Polymarket, and Ramp &lpar;Jake Angelo/Fortune&rpar;](http://www.techmeme.com/260216/p7#a260216p7)<!-- TECH:END -->
+ - [This Nintendo Switch emulator just solved a major pain point for mod fans](https://www.androidauthority.com/eden-switch-dlc-updates-storage-3641207/)
+ - [Google hasn’t forgotten about video apps for Android Auto](https://www.androidauthority.com/android-auto-video-apps-apk-teardown-3641217/)
+ - [OpenAI retired GPT-4o on February 13, angering loyal users, 20K+ of whom signed a petition; 4o showed the unique attachment that people can form with chatbots &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260216/p10#a260216p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
