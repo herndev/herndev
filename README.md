@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vitalik Buterin, who backed Polymarket, says he&#39;s &quot;starting to worry&quot; that prediction markets &quot;seem to be over-converging to an unhealthy product market fit&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260216/p2#a260216p2)
- - [Sensor Tower: TikTok&#39;s US DAUs are at ~95% of the week of Jan. 19, with engagement metrics showing little sign of a mass exodus since its Jan. 23 US takeover &lpar;Matthew Chin/CNBC&rpar;](http://www.techmeme.com/260216/p1#a260216p1)
- - [Used Moltbot? Its creator just joined OpenAI](https://www.androidauthority.com/openclaw-peter-steinberger-openai-3641150/)<!-- TECH:END -->
+ - [Credit derivatives trading on specific tech companies continues to rise, amid concerns that they may be borrowing too much to fuel AI development &lpar;Bloomberg&rpar;](http://www.techmeme.com/260216/p3#a260216p3)
+ - [New Galaxy S26 series teaser shows how Privacy Display fights shoulder surfers](https://www.androidauthority.com/samsung-tease-privacy-display-galaxy-s26-3641155/)
+ - [Vitalik Buterin, who backed Polymarket, says he&#39;s &quot;starting to worry&quot; that prediction markets &quot;seem to be over-converging to an unhealthy product market fit&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260216/p2#a260216p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
