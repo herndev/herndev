@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Out of the park: The March 4 event may not be all that special](https://appleinsider.com/articles/26/02/16/out-of-the-park-the-march-4-event-may-not-be-all-that-special?utm_source=rss)
- - [Internal email: the European Parliament has blocked AI features on the work devices of lawmakers and their staff over cybersecurity and data protection concerns &lpar;Politico&rpar;](http://www.techmeme.com/260216/p23#a260216p23)
- - [Crypto lender Nexo says it is relaunching in the US in partnership with Bakkt, three years after leaving the US and paying a $45M fine to settle SEC charges &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/260216/p22#a260216p22)<!-- TECH:END -->
+ - [iPad Pro rumored to not get major design changes for many years](https://appleinsider.com/articles/26/02/16/ipad-pro-rumored-to-not-get-major-design-changes-for-many-years?utm_source=rss)
+ - [Samsung clears space for Unpacked with a Galaxy device vanishing act](https://www.androidauthority.com/samsung-galaxy-buds-3-missing-3641330/)
+ - [Government overreach must be fought said Apple, ten years ago today](https://appleinsider.com/articles/26/02/16/government-overreach-must-be-fought-said-apple-ten-years-ago-today?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
