@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s happy it wasn&#39;t a card crash](http://9gag.com/gag/adBw7RM)
- - ⏩ [Caught in Danube river in Serbia a couple of months ago. Some nitwit emptied his fish tank in the river..](http://9gag.com/gag/a9y0WXm)
+ - 💣 [The only correct answer to this question](http://9gag.com/gag/an7wypq)
+ - ⏩ [Interview for a job as professional back scratcher](http://9gag.com/gag/aMV5wgV)
  - 👉 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)<!-- MEMES:END -->
 
 ---
