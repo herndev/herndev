@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US healthcare manufacturer Danaher is nearing a deal to buy medtech company Masimo for ~$10B; Masimo is in an IP dispute with Apple over Apple Watch &lpar;Financial Times&rpar;](http://www.techmeme.com/260217/p3#a260217p3)
- - [Sources: Moonshot, the Chinese startup behind Kimi chatbot, is targeting a $10B valuation in a funding round expansion after securing $500M at a $4.3B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260217/p2#a260217p2)
- - [UK software firm Pinewood&#39;s stock fell ~31% on Feb. 16 after Apax Partners withdrew its £575M takeover offer, citing &quot;prevailing challenging market conditions&quot; &lpar;Alexandra Heal/Financial Times&rpar;](http://www.techmeme.com/260217/p1#a260217p1)<!-- TECH:END -->
+ - [The Small English Town Swept Up in the Global AI Arms Race](https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/)
+ - [Indian IT giant Infosys partners with Anthropic to develop AI services for telecoms, with plans to expand to finance, manufacturing, and software development &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/260217/p6#a260217p6)
+ - [Top AI researchers argue that AI is now more useful for mathematics thanks to the latest &quot;reasoning&quot; models, as math becomes a key way to test AI progress &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260217/p5#a260217p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
