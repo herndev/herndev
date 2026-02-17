@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
- - ⏩ [Pick a number](http://9gag.com/gag/ayNwxrq)
+ - 💣 [What will Vlad the impaler do in situations like this?](http://9gag.com/gag/a0eqKdz)
+ - ⏩ [Wife material](http://9gag.com/gag/amow7Y2)
  - 👉 [Another INSANE email](http://9gag.com/gag/avyw7wZ)<!-- MEMES:END -->
 
 ---
