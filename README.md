@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How locals in Potters Bar, a town near London, are challenging Equinix&#39;s $5B data center plans, as the UK reclassifies &quot;green belt&quot; land to boost construction &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/260217/p12#a260217p12)
- - [My theory about the Galaxy S26 design was right, but I’m worried it’s not enough](https://www.androidauthority.com/samsung-galaxy-s26-design-bare-minimum-3641048/)
- - [AI Digital Twins Are Helping People Manage Diabetes and Obesity](https://www.wired.com/story/ai-digital-twins-are-helping-people-manage-diabetes-and-obesity/)<!-- TECH:END -->
+ - [Inside the Homeland Security Forum Where ICE Agents Talk Shit About Other Agents](https://www.wired.com/story/hsi-forum-ice-agents/)
+ - [Who needs a laptop when you have a folding phone?](https://www.theverge.com/tech/878485/samsung-galaxy-z-fold-7-travel-keyboard-logitech-laptop-replacement)
+ - [UK activist investor Palliser says Toto, Japan&#39;s largest toilet maker, is an &quot;undervalued and overlooked&quot; AI play due to its &quot;advanced ceramics&quot; used in chips &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/260217/p15#a260217p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
