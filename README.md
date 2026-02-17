@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After a decade of reviewing phones, I really miss metal backs](https://www.androidauthority.com/miss-phones-metal-backs-3639417/)
- - [Q&amp;A with Replit CEO Amjad Masad, who says India is Replit&#39;s second-largest market by active users, on integrating Razorpay&#39;s tech, AI&#39;s impact on SaaS, and more &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/260217/p9#a260217p9)
- - [Indian conglomerate Adani Group announces plans to invest $100B to build renewable energy-powered AI-ready data centers across India by 2035 &lpar;Urvi Dugar/Reuters&rpar;](http://www.techmeme.com/260217/p8#a260217p8)<!-- TECH:END -->
+ - [How locals in Potters Bar, a town near London, are challenging Equinix&#39;s $5B data center plans, as the UK reclassifies &quot;green belt&quot; land to boost construction &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/260217/p12#a260217p12)
+ - [My theory about the Galaxy S26 design was right, but I’m worried it’s not enough](https://www.androidauthority.com/samsung-galaxy-s26-design-bare-minimum-3641048/)
+ - [AI Digital Twins Are Helping People Manage Diabetes and Obesity](https://www.wired.com/story/ai-digital-twins-are-helping-people-manage-diabetes-and-obesity/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
