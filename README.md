@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men only want one thing, and it&#39;s...](http://9gag.com/gag/aZZ5gn3)
+ - 💣 [Balkan TV is something else](http://9gag.com/gag/aqyw1oP)
  - ⏩ [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)
- - 👉 [Wife material](http://9gag.com/gag/amow7Y2)<!-- MEMES:END -->
+ - 👉 [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)<!-- MEMES:END -->
 
 ---
 
