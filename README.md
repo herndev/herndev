@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile Apple glitch is changing customers to the wrong plans](https://www.androidauthority.com/t-mobile-surprise-plan-change-iphone-apple-app-3641611/)
- - [Braintrust, which helps companies evaluate and monitor their AI tools&#39; performance, raised an $80M Series B led by Iconiq at an $800M post-money valuation &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260217/p29#a260217p29)
- - [Exclusive: Google’s secret ‘Project Toscana’ fixes the Pixel’s biggest face unlock flaw](https://www.androidauthority.com/google-project-toscana-3641601/)<!-- TECH:END -->
+ - [Automattic adds an AI assistant to WordPress.com, enabling users to perform site-wide layout and style modifications via natural language commands. &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260217/p35#a260217p35)
+ - [SEC filing: Liftoff withdraws its IPO filing without specifying a reason, less than two weeks after the mobile ad platform postponed plans to price its IPO &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/260217/p34#a260217p34)
+ - [This backup camera cleaner hides behind your license plate](https://www.theverge.com/gadgets/877893/lens-lizard-backup-camera-cleaner-aftermarket-wiper-fluid-kickstarter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
