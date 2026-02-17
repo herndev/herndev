@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing crashes Apple’s party with cheeky Phone 4a series launch teaser](https://www.androidauthority.com/nothing-phone-4a-series-launch-date-confirmed-3641478/)
- - [Now Verizon has some good news if you want to unlock your phone](https://www.androidauthority.com/verizon-immediate-device-unlock-3641465/)
- - [How LLMs are dismantling the moats that made vertical SaaS defensible, and why the market selloff is structurally justified but temporally exaggerated &lpar;Nicolas Bustamante/@nicbstme&rpar;](http://www.techmeme.com/260217/p7#a260217p7)<!-- TECH:END -->
+ - [Q&amp;A with Replit CEO Amjad Masad, who says India is Replit&#39;s second-largest market by active users, on integrating Razorpay&#39;s tech, AI&#39;s impact on SaaS, and more &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/260217/p9#a260217p9)
+ - [Indian conglomerate Adani Group announces plans to invest $100B to build renewable energy-powered AI-ready data centers across India by 2035 &lpar;Urvi Dugar/Reuters&rpar;](http://www.techmeme.com/260217/p8#a260217p8)
+ - [Grab Nova Launcher Prime now if you don’t want to end up overpaying later](https://www.androidauthority.com/nova-lifetime-deal-before-it-ends-3641474/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
