@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iTunes TV &amp; Movies apps exit stage left in tvOS 26.4 beta](https://appleinsider.com/articles/26/02/17/itunes-tv-movies-apps-exit-stage-left-in-tvos-264-beta?utm_source=rss)
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Now Pixel 9 phones can transfer files with AirDrop, too](https://www.theverge.com/tech/880210/google-pixel-9-airdrop-quick-share)<!-- TECH:END -->
+ - [Google announces dates for I/O 2026](https://www.theverge.com/tech/880401/google-io-2026-dates-ai)
+ - [Benchmark hires Jack Altman, the founder of Alt Capital and Lattice, as its fifth general partner; three Alt Capital team members will join him at Benchmark &lpar;The Information&rpar;](http://www.techmeme.com/260217/p45#a260217p45)
+ - [Apple Health gets new Average Bedtime metric in iOS 26.4 beta](https://appleinsider.com/articles/26/02/17/apple-health-gets-new-average-bedtime-metric-in-ios-264-beta?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
