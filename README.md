@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Automattic adds an AI assistant to WordPress.com, enabling users to perform site-wide layout and style modifications via natural language commands. &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260217/p35#a260217p35)
- - [SEC filing: Liftoff withdraws its IPO filing without specifying a reason, less than two weeks after the mobile ad platform postponed plans to price its IPO &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/260217/p34#a260217p34)
- - [This backup camera cleaner hides behind your license plate](https://www.theverge.com/gadgets/877893/lens-lizard-backup-camera-cleaner-aftermarket-wiper-fluid-kickstarter)<!-- TECH:END -->
+ - [Here are the best Presidents Day deals you can still grab](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026)
+ - [Sources: Apple ramps up work on AI wearables with cameras and Siri, including smart glasses, AirPods, and a pendant that can be worn as a necklace or pinned &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260217/p40#a260217p40)
+ - [Anthropic launches Claude Sonnet 4.6 with improvements in coding, consistency, and more, for Free and Pro users; it features a 1M token context window in beta &lpar;Anthropic&rpar;](http://www.techmeme.com/260217/p39#a260217p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
