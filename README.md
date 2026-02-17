@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Champions League Playoff Soccer: Livestream Benfica vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-playoff-soccer-livestream-benfica-vs-real-madrid-live-from-anywhere/)
- - [Google Messages is quietly addressing one of its most requested features](https://www.androidauthority.com/google-messages-new-text-selection-feature-3641445/)
- - [How to manage notifications on Mac](https://appleinsider.com/articles/26/02/17/how-to-manage-notifications-on-mac?utm_source=rss)<!-- TECH:END -->
+ - [Sources: US healthcare manufacturer Danaher is nearing a deal to buy medtech company Masimo for ~$10B; Masimo is in an IP dispute with Apple over Apple Watch &lpar;Financial Times&rpar;](http://www.techmeme.com/260217/p3#a260217p3)
+ - [Sources: Moonshot, the Chinese startup behind Kimi chatbot, is targeting a $10B valuation in a funding round expansion after securing $500M at a $4.3B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260217/p2#a260217p2)
+ - [UK software firm Pinewood&#39;s stock fell ~31% on Feb. 16 after Apax Partners withdrew its £575M takeover offer, citing &quot;prevailing challenging market conditions&quot; &lpar;Alexandra Heal/Financial Times&rpar;](http://www.techmeme.com/260217/p1#a260217p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
