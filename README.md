@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s design guide for AI glasses reveals how Android XR will work](https://www.androidauthority.com/google-android-xr-ai-glasses-design-docs-3641559/)
- - [Inside the Homeland Security Forum Where ICE Agents Talk Shit About Other Agents](https://www.wired.com/story/hsi-forum-ice-agents/)
- - [Peak Design has wearable gadget straps for people who hate bags](https://www.theverge.com/tech/879908/peak-design-crossbody-phone-strap-launch-price)<!-- TECH:END -->
+ - [EU investigates Shein’s ‘addictive design’ and illegal products](https://www.theverge.com/policy/879964/shein-eu-dsa-investigation-illegal-products-addictive-design)
+ - [Qualcomm says UK consumer association Which? is withdrawing its chip royalties lawsuit that sought £480M for 29M iPhone and Samsung users, after a CAT trial &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/260217/p24#a260217p24)
+ - [Toyota fills out its skimpy EV lineup with the bZ Woodland SUV](https://www.theverge.com/transportation/878849/toyota-bz-woodland-specs-price-ev-offroad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
