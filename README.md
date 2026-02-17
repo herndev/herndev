@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve says the Steam Deck OLED may be &quot;intermittently&quot; out of stock due to memory and storage shortages; it has been out of stock in the US for a few days &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260216/p34#a260216p34)
- - [Google confirms new Downloads backup feature for Android: Here’s how it’ll work](https://www.androidauthority.com/google-play-system-february-update-downloads-local-file-backup-feature-3641441/)
- - [Valve’s Steam Deck OLED will be ‘intermittently’ out of stock because of the RAM crisis](https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis)<!-- TECH:END -->
+ - [How to manage notifications on Mac](https://appleinsider.com/articles/26/02/17/how-to-manage-notifications-on-mac?utm_source=rss)
+ - [Sources: top VC firms operating in India are expected to commit investments ranging from $300M to $500M each to India&#39;s AI ecosystem at the AI Impact Summit &lpar;The Economic Times&rpar;](http://www.techmeme.com/260216/p35#a260216p35)
+ - [Valve says the Steam Deck OLED may be &quot;intermittently&quot; out of stock due to memory and storage shortages; it has been out of stock in the US for a few days &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260216/p34#a260216p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
