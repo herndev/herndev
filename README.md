@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t get me wrong. Lupita has excellent form factor, but still, the agenda is too strong here](http://9gag.com/gag/adBw9P2)
+ - 💣 [I wonder where her mind went during this interview](http://9gag.com/gag/aE05Yr9)
  - ⏩ [Just miss](http://9gag.com/gag/an7wbzn)
- - 👉 [Oh Shit what the hell Barbara do that time](http://9gag.com/gag/aKG5VE1)<!-- MEMES:END -->
+ - 👉 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)<!-- MEMES:END -->
 
 ---
 
