@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What time is it? It&#39;s lunch time!](http://9gag.com/gag/aAy5DZ0)
- - ⏩ [Wife material](http://9gag.com/gag/amow7Y2)
- - 👉 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)<!-- MEMES:END -->
+ - 💣 [Pick a number](http://9gag.com/gag/ayNwxrq)
+ - ⏩ [Canadian here: Please just disqualify this guy and move on. And Team Canada, please make a public statement denouncing this behaviour. This guy is making a joke of my country.](http://9gag.com/gag/aLn58BV)
+ - 👉 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)<!-- MEMES:END -->
 
 ---
 
