@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A code snippet in iOS 26.4 shows Apple TV is coming to CarPlay](https://appleinsider.com/articles/26/02/17/a-code-snippet-in-ios-264-shows-apple-tv-is-coming-to-carplay?utm_source=rss)
- - [Micron introduces the first mass-produced PCIe 6.0 SSDs, with read speeds up to 28GB/s, double that of PCIe 5.0 SSDs, optimized for AI/data center deployments &lpar;Aaron Klotz/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260216/p32#a260216p32)
- - [Letter and sources: Starboard plans to nominate a majority slate to Tripadvisor&#39;s board; Starboard holds a 9% stake, and TRIP has dropped ~46% in the past year &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/260216/p31#a260216p31)<!-- TECH:END -->
+ - [Valve says the Steam Deck OLED may be &quot;intermittently&quot; out of stock due to memory and storage shortages; it has been out of stock in the US for a few days &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260216/p34#a260216p34)
+ - [Google confirms new Downloads backup feature for Android: Here’s how it’ll work](https://www.androidauthority.com/google-play-system-february-update-downloads-local-file-backup-feature-3641441/)
+ - [Valve’s Steam Deck OLED will be ‘intermittently’ out of stock because of the RAM crisis](https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
