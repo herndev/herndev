@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nifty IT Index, which tracks Indian IT stocks, has slumped about 15% so far in February on worries about AI and is on track for its worst month since March 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260216/p30#a260216p30)
- - [Twelve South Valet review: A bespoke catchall MagSafe charger that could be faster](https://appleinsider.com/articles/26/02/17/twelve-south-valet-review-a-bespoke-catchall-magsafe-charger-that-could-be-faster?utm_source=rss)
- - [Streaming VR games, experiences, &amp; applications made easier in visionOS 26.4](https://appleinsider.com/articles/26/02/17/streaming-vr-games-experiences-applications-made-easier-in-visionos-264?utm_source=rss)<!-- TECH:END -->
+ - [A code snippet in iOS 26.4 shows Apple TV is coming to CarPlay](https://appleinsider.com/articles/26/02/17/a-code-snippet-in-ios-264-shows-apple-tv-is-coming-to-carplay?utm_source=rss)
+ - [Micron introduces the first mass-produced PCIe 6.0 SSDs, with read speeds up to 28GB/s, double that of PCIe 5.0 SSDs, optimized for AI/data center deployments &lpar;Aaron Klotz/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260216/p32#a260216p32)
+ - [Letter and sources: Starboard plans to nominate a majority slate to Tripadvisor&#39;s board; Starboard holds a 9% stake, and TRIP has dropped ~46% in the past year &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/260216/p31#a260216p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
