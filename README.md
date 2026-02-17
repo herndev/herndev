@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the Homeland Security Forum Where ICE Agents Talk Shit About Other Agents](https://www.wired.com/story/hsi-forum-ice-agents/)
- - [Who needs a laptop when you have a folding phone?](https://www.theverge.com/tech/878485/samsung-galaxy-z-fold-7-travel-keyboard-logitech-laptop-replacement)
- - [UK activist investor Palliser says Toto, Japan&#39;s largest toilet maker, is an &quot;undervalued and overlooked&quot; AI play due to its &quot;advanced ceramics&quot; used in chips &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/260217/p15#a260217p15)<!-- TECH:END -->
+ - [Airbnb expands its Reserve Now, Pay Later feature globally, after a US pilot for domestic travel saw a 70% adoption rate for eligible bookings &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260217/p19#a260217p19)
+ - [Laurie Spiegel on the difference between algorithmic music and ‘AI’](https://www.theverge.com/report/879819/laurie-spiegel-is-celebrating-40-of-music-mouse-with-a-modern-revival)
+ - [Temporal, which builds open-source software to ensure &quot;durable execution&quot; of code, raised a $300M Series D at a $5B valuation, up from $2.5B in October 2025 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/260217/p18#a260217p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
