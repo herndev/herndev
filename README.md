@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check your email: Google’s sending out discount codes for the Pixel 10a](https://www.androidauthority.com/google-pixel-10a-pre-order-discounts-3641791/)
- - [Sources: AI legal software startup Legora is in talks to raise $400M at a $5B+ valuation, after raising $150M in October 2025 at a $1.8B valuation &lpar;Forbes&rpar;](http://www.techmeme.com/260217/p49#a260217p49)
- - [This ultra-affordable Game Boy-style handheld just got an upgraded successor](https://www.androidauthority.com/game-console-r36-max-2-leak-3641765/)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Apple Car Key support now available on the 2026 Toyota Rav4](https://appleinsider.com/articles/26/02/17/apple-car-key-support-now-available-on-the-2026-toyota-rav4?utm_source=rss)
+ - [Sources: Western Digital plans to raise $3.09B by selling a Sandisk stake at $535-$555/share, a 9.4% discount to Tuesday&#39;s close; the offering is oversubscribed &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/260217/p52#a260217p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
