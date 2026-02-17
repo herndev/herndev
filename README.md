@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My childhood imagination was peak cozy goals](http://9gag.com/gag/a2vpopd)
- - ⏩ [Where are you. What are you doing. Just picking up some neat rocks](http://9gag.com/gag/a1mjQ7D)
- - 👉 [Pick a number](http://9gag.com/gag/ayNwxrq)<!-- MEMES:END -->
+ - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
+ - ⏩ [Balkan TV is something else](http://9gag.com/gag/aqyw1oP)
+ - 👉 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)<!-- MEMES:END -->
 
 ---
 
