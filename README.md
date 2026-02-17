@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not all heroes wear capes](http://9gag.com/gag/aZZ53ep)
- - ⏩ [My childhood imagination was peak cozy goals](http://9gag.com/gag/a2vpopd)
- - 👉 [Where are you. What are you doing. Just picking up some neat rocks](http://9gag.com/gag/a1mjQ7D)<!-- MEMES:END -->
+ - 💣 [My childhood imagination was peak cozy goals](http://9gag.com/gag/a2vpopd)
+ - ⏩ [Where are you. What are you doing. Just picking up some neat rocks](http://9gag.com/gag/a1mjQ7D)
+ - 👉 [Pick a number](http://9gag.com/gag/ayNwxrq)<!-- MEMES:END -->
 
 ---
 
