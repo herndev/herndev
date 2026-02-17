@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wonder where her mind went during this interview](http://9gag.com/gag/aE05Yr9)
- - ⏩ [Just miss](http://9gag.com/gag/an7wbzn)
+ - 💣 [What time is it? It&#39;s lunch time!](http://9gag.com/gag/aAy5DZ0)
+ - ⏩ [Wife material](http://9gag.com/gag/amow7Y2)
  - 👉 [Ufff what a VIEW](http://9gag.com/gag/a0eq57L)<!-- MEMES:END -->
 
 ---
