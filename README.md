@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)
- - ⏩ [Pick a number](http://9gag.com/gag/ayNwxrq)
- - 👉 [Wife material](http://9gag.com/gag/amow7Y2)<!-- MEMES:END -->
+ - 💣 [Pick a number](http://9gag.com/gag/ayNwxrq)
+ - ⏩ [Credit: @setupspawn / Matty Mctech](http://9gag.com/gag/aD25z47)
+ - 👉 [Just miss](http://9gag.com/gag/an7wbzn)<!-- MEMES:END -->
 
 ---
 
