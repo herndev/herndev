@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces dates for I/O 2026](https://www.theverge.com/tech/880401/google-io-2026-dates-ai)
- - [Benchmark hires Jack Altman, the founder of Alt Capital and Lattice, as its fifth general partner; three Alt Capital team members will join him at Benchmark &lpar;The Information&rpar;](http://www.techmeme.com/260217/p45#a260217p45)
- - [Apple Health gets new Average Bedtime metric in iOS 26.4 beta](https://appleinsider.com/articles/26/02/17/apple-health-gets-new-average-bedtime-metric-in-ios-264-beta?utm_source=rss)<!-- TECH:END -->
+ - [Check your email: Google’s sending out discount codes for the Pixel 10a](https://www.androidauthority.com/google-pixel-10a-pre-order-discounts-3641791/)
+ - [Sources: AI legal software startup Legora is in talks to raise $400M at a $5B+ valuation, after raising $150M in October 2025 at a $1.8B valuation &lpar;Forbes&rpar;](http://www.techmeme.com/260217/p49#a260217p49)
+ - [This ultra-affordable Game Boy-style handheld just got an upgraded successor](https://www.androidauthority.com/game-console-r36-max-2-leak-3641765/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
