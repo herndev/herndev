@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Tahoe 26.4 warns if your apps won&#39;t work when Rosetta 2 dies](https://appleinsider.com/articles/26/02/16/macos-tahoe-264-warns-if-your-apps-wont-work-when-rosetta-2-dies?utm_source=rss)
- - [MagicX Two Dream teaser shows off the upcoming gaming handheld from all angles](https://www.androidauthority.com/magicx-two-dream-light-pro-renders-3641422/)
- - [Manus launches Manus Agents, allowing users to access Manus directly inside messaging apps, starting with Telegram and coming soon to other platforms &lpar;Manus&rpar;](http://www.techmeme.com/260216/p28#a260216p28)<!-- TECH:END -->
+ - [Nifty IT Index, which tracks Indian IT stocks, has slumped about 15% so far in February on worries about AI and is on track for its worst month since March 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260216/p30#a260216p30)
+ - [Twelve South Valet review: A bespoke catchall MagSafe charger that could be faster](https://appleinsider.com/articles/26/02/17/twelve-south-valet-review-a-bespoke-catchall-magsafe-charger-that-could-be-faster?utm_source=rss)
+ - [Streaming VR games, experiences, &amp; applications made easier in visionOS 26.4](https://appleinsider.com/articles/26/02/17/streaming-vr-games-experiences-applications-made-easier-in-visionos-264?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
