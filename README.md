@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airbnb expands its Reserve Now, Pay Later feature globally, after a US pilot for domestic travel saw a 70% adoption rate for eligible bookings &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260217/p19#a260217p19)
- - [Laurie Spiegel on the difference between algorithmic music and ‘AI’](https://www.theverge.com/report/879819/laurie-spiegel-is-celebrating-40-of-music-mouse-with-a-modern-revival)
- - [Temporal, which builds open-source software to ensure &quot;durable execution&quot; of code, raised a $300M Series D at a $5B valuation, up from $2.5B in October 2025 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/260217/p18#a260217p18)<!-- TECH:END -->
+ - [Google’s design guide for AI glasses reveals how Android XR will work](https://www.androidauthority.com/google-android-xr-ai-glasses-design-docs-3641559/)
+ - [Inside the Homeland Security Forum Where ICE Agents Talk Shit About Other Agents](https://www.wired.com/story/hsi-forum-ice-agents/)
+ - [Peak Design has wearable gadget straps for people who hate bags](https://www.theverge.com/tech/879908/peak-design-crossbody-phone-strap-launch-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
