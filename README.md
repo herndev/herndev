@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU investigates Shein’s ‘addictive design’ and illegal products](https://www.theverge.com/policy/879964/shein-eu-dsa-investigation-illegal-products-addictive-design)
- - [Qualcomm says UK consumer association Which? is withdrawing its chip royalties lawsuit that sought £480M for 29M iPhone and Samsung users, after a CAT trial &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/260217/p24#a260217p24)
- - [Toyota fills out its skimpy EV lineup with the bZ Woodland SUV](https://www.theverge.com/transportation/878849/toyota-bz-woodland-specs-price-ev-offroad)<!-- TECH:END -->
+ - [T-Mobile Apple glitch is changing customers to the wrong plans](https://www.androidauthority.com/t-mobile-surprise-plan-change-iphone-apple-app-3641611/)
+ - [Braintrust, which helps companies evaluate and monitor their AI tools&#39; performance, raised an $80M Series B led by Iconiq at an $800M post-money valuation &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260217/p29#a260217p29)
+ - [Exclusive: Google’s secret ‘Project Toscana’ fixes the Pixel’s biggest face unlock flaw](https://www.androidauthority.com/google-project-toscana-3641601/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
