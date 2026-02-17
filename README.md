@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Presidents Day deals you can still grab](https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026)
- - [Sources: Apple ramps up work on AI wearables with cameras and Siri, including smart glasses, AirPods, and a pendant that can be worn as a necklace or pinned &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260217/p40#a260217p40)
- - [Anthropic launches Claude Sonnet 4.6 with improvements in coding, consistency, and more, for Free and Pro users; it features a 1M token context window in beta &lpar;Anthropic&rpar;](http://www.techmeme.com/260217/p39#a260217p39)<!-- TECH:END -->
+ - [Apple Intelligence pendant &amp; AirPods with cameras reportedly getting renewed focus](https://appleinsider.com/articles/26/02/17/apple-intelligence-pendant-airpods-with-cameras-reportedly-getting-renewed-focus?utm_source=rss)
+ - [Apple eyes 2027 for AI smart glasses built around context, not screens](https://appleinsider.com/articles/26/02/17/apple-eyes-2027-for-ai-smart-glasses-built-around-context-not-screens?utm_source=rss)
+ - [Night Media, a talent agency that represents influencers like Twitch streamer Kai Cenat, raised $70M led by StepStone to expand into gaming, sports, and music &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260217/p42#a260217p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
