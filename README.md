@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to manage notifications on Mac](https://appleinsider.com/articles/26/02/17/how-to-manage-notifications-on-mac?utm_source=rss)
- - [Sources: top VC firms operating in India are expected to commit investments ranging from $300M to $500M each to India&#39;s AI ecosystem at the AI Impact Summit &lpar;The Economic Times&rpar;](http://www.techmeme.com/260216/p35#a260216p35)
- - [Valve says the Steam Deck OLED may be &quot;intermittently&quot; out of stock due to memory and storage shortages; it has been out of stock in the US for a few days &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260216/p34#a260216p34)<!-- TECH:END -->
+ - [Champions League Playoff Soccer: Livestream Benfica vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-playoff-soccer-livestream-benfica-vs-real-madrid-live-from-anywhere/)
+ - [Google Messages is quietly addressing one of its most requested features](https://www.androidauthority.com/google-messages-new-text-selection-feature-3641445/)
+ - [How to manage notifications on Mac](https://appleinsider.com/articles/26/02/17/how-to-manage-notifications-on-mac?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
