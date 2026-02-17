@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence pendant &amp; AirPods with cameras reportedly getting renewed focus](https://appleinsider.com/articles/26/02/17/apple-intelligence-pendant-airpods-with-cameras-reportedly-getting-renewed-focus?utm_source=rss)
- - [Apple eyes 2027 for AI smart glasses built around context, not screens](https://appleinsider.com/articles/26/02/17/apple-eyes-2027-for-ai-smart-glasses-built-around-context-not-screens?utm_source=rss)
- - [Night Media, a talent agency that represents influencers like Twitch streamer Kai Cenat, raised $70M led by StepStone to expand into gaming, sports, and music &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260217/p42#a260217p42)<!-- TECH:END -->
+ - [iTunes TV &amp; Movies apps exit stage left in tvOS 26.4 beta](https://appleinsider.com/articles/26/02/17/itunes-tv-movies-apps-exit-stage-left-in-tvos-264-beta?utm_source=rss)
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Now Pixel 9 phones can transfer files with AirDrop, too](https://www.theverge.com/tech/880210/google-pixel-9-airdrop-quick-share)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
