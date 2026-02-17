@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pick a number](http://9gag.com/gag/ayNwxrq)
- - ⏩ [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
- - 👉 [Another INSANE email](http://9gag.com/gag/avyw7wZ)<!-- MEMES:END -->
+ - 💣 [Not all heroes wear capes](http://9gag.com/gag/aZZ53ep)
+ - ⏩ [My childhood imagination was peak cozy goals](http://9gag.com/gag/a2vpopd)
+ - 👉 [Where are you. What are you doing. Just picking up some neat rocks](http://9gag.com/gag/a1mjQ7D)<!-- MEMES:END -->
 
 ---
 
