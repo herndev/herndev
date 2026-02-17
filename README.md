@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After a decade of reviewing phones, I really miss metal backs](https://www.androidauthority.com/miss-phones-metal-backs-3639417/)
  - [Q&amp;A with Replit CEO Amjad Masad, who says India is Replit&#39;s second-largest market by active users, on integrating Razorpay&#39;s tech, AI&#39;s impact on SaaS, and more &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/260217/p9#a260217p9)
- - [Indian conglomerate Adani Group announces plans to invest $100B to build renewable energy-powered AI-ready data centers across India by 2035 &lpar;Urvi Dugar/Reuters&rpar;](http://www.techmeme.com/260217/p8#a260217p8)
- - [Grab Nova Launcher Prime now if you don’t want to end up overpaying later](https://www.androidauthority.com/nova-lifetime-deal-before-it-ends-3641474/)<!-- TECH:END -->
+ - [Indian conglomerate Adani Group announces plans to invest $100B to build renewable energy-powered AI-ready data centers across India by 2035 &lpar;Urvi Dugar/Reuters&rpar;](http://www.techmeme.com/260217/p8#a260217p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
