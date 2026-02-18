@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - ⏩ [Christina Hendricks](http://9gag.com/gag/abAwMPB)
- - 👉 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)<!-- MEMES:END -->
+ - ⏩ [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
+ - 👉 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)<!-- MEMES:END -->
 
 ---
 
