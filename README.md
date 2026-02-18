@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out Lyria 3, a generative music model that can make 30-second tracks with Nano Banana cover art, in beta in the Gemini app in eight languages &lpar;The Keyword&rpar;](http://www.techmeme.com/260218/p37#a260218p37)
- - [Cogent Security, which aims to use AI agents to decide which software bugs to remediate, raised a $42M Series A led by Bain, taking its total raised to $53M &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260218/p36#a260218p36)
- - [Music to your ears, literally: Gemini now writes and produces songs](https://www.androidauthority.com/google-gemini-produce-music-tracks-3641997/)<!-- TECH:END -->
+ - [Acer’s Chromebook Plus Spin 514 is $200 off, marking a new low price](https://www.theverge.com/gadgets/880744/acer-chromebook-plus-spin-514-google-pixelsnap-deal-sale)
+ - [Google Maps may now force you to sign in before showing photos and reviews](https://www.androidauthority.com/google-maps-missing-photos-and-reviews-3642040/)
+ - [Berkshire trims Apple stake but keeps the stock as a $62 billion anchor](https://appleinsider.com/articles/26/02/18/berkshire-trims-apple-stake-but-keeps-the-stock-as-a-62-billion-anchor?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
