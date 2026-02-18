@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`If you want to know who rules over you, look at who you are not allowed to criticize`](http://9gag.com/gag/aD25xXx)
- - ⏩ [Ghost Busters](http://9gag.com/gag/a5Q3o9O)
+ - 💣 [Wife material](http://9gag.com/gag/amow7Y2)
+ - ⏩ [Interesting](http://9gag.com/gag/an7wjpV)
  - 👉 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)<!-- MEMES:END -->
 
 ---
