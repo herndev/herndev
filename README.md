@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acer’s Chromebook Plus Spin 514 is $200 off, marking a new low price](https://www.theverge.com/gadgets/880744/acer-chromebook-plus-spin-514-google-pixelsnap-deal-sale)
- - [Google Maps may now force you to sign in before showing photos and reviews](https://www.androidauthority.com/google-maps-missing-photos-and-reviews-3642040/)
- - [Berkshire trims Apple stake but keeps the stock as a $62 billion anchor](https://appleinsider.com/articles/26/02/18/berkshire-trims-apple-stake-but-keeps-the-stock-as-a-62-billion-anchor?utm_source=rss)<!-- TECH:END -->
+ - [This Android gaming console lets you dial things up with a literal knob](https://www.androidauthority.com/pocket-super-knob-5000-3642104/)
+ - [Ken Watanabe didn’t think a kabuki movie would work](https://www.theverge.com/report/880620/ken-watanabe-interview-kokuho)
+ - [Looking for the best Pixel 10a deal? AT&amp;T might edge out Verizon for a few reasons](https://www.androidauthority.com/att-google-pixel-10a-deals-3642101/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
