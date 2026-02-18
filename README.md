@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity says it has no plans to further pursue advertising, which it introduced in 2024, phasing out ads late last year over fears it would erode user trust &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260217/p60#a260217p60)
- - [YouTube outage breaks homepage, apps, and YouTube TV &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/youtube-not-working-right-now-3641861/)
- - [Tesla agrees to stop using the term &quot;autopilot&quot; to market its electric vehicles in California to avoid a 30-day suspension by the state&#39;s DMV &lpar;Rachel Swan/San Francisco Chronicle&rpar;](http://www.techmeme.com/260217/p59#a260217p59)<!-- TECH:END -->
+ - [Google Home’s latest update brings long-requested automation tweaks and more](https://www.androidauthority.com/google-home-update-february-17-2026-3641870/)
+ - [How to get into retro gaming on Apple TV with RetroArch](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-get-into-retro-gaming-on-apple-tv-with-retroarch?utm_source=rss)
+ - [Perplexity says it has no plans to further pursue advertising, which it introduced in 2024, phasing out ads late last year over fears it would erode user trust &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260217/p60#a260217p60)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
