@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyone&#39;s just trying their best, even the bodybuilders](http://9gag.com/gag/aMV5ZVR)
- - ⏩ [Uploading my old 9gag collection 148](http://9gag.com/gag/aRBd1L7)
- - 👉 [Working 50+ hrs a week so that Billionaires can eat children.](http://9gag.com/gag/a2vpZbZ)<!-- MEMES:END -->
+ - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
+ - ⏩ [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)
+ - 👉 [Another INSANE email](http://9gag.com/gag/avyw7wZ)<!-- MEMES:END -->
 
 ---
 
