@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just gave us a ‘Glimmer’ of hope for Android XR’s UI](https://www.androidauthority.com/google-android-xr-glimmer-design-3641899/)
- - [As the AI Impact Summit in New Delhi draws attention, a look at India&#39;s AI opportunities and the political economy gridlock that threatens its ambitions &lpar;Shruti Rajagopalan/Get Down and Shruti&rpar;](http://www.techmeme.com/260218/p8#a260218p8)
- - [Google is finally fixing the most annoying thing about NotebookLM slide decks](https://www.androidauthority.com/notebooklm-slide-deck-editing-3641895/)<!-- TECH:END -->
+ - [A look at China&#39;s push to become a world leader in brain-computer interfaces, as Shanghai-based startup NeuroXess moves to human trials with Beijing&#39;s backing &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/260218/p12#a260218p12)
+ - [Bengaluru-based AI startup Sarvam AI announces two models at the AI Impact Summit that it says are tailored to Indian languages and cultures &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260218/p11#a260218p11)
+ - [Microsoft says it is on pace to invest $50B by 2030 to help expand AI across the &quot;Global South&quot;, after unveiling $17.5B in AI investments in India in 2025 &lpar;Abu Sultan/Reuters&rpar;](http://www.techmeme.com/260218/p10#a260218p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
