@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google signs a power purchase agreement with Ormat to supply up to 150 MW of geothermal energy to its Nevada data centers through NV Energy starting in 2028 &lpar;Lauren Rosenthal/Bloomberg&rpar;](http://www.techmeme.com/260217/p53#a260217p53)
- - [Samsung hypes up the Galaxy S26 with new camera experience teaser](https://www.androidauthority.com/galaxy-s26-new-camera-experience-3641766/)
- - [The Samsung Galaxy S26 series isn’t out yet, but dbrand’s cases and skins are](https://www.androidauthority.com/samsung-galaxy-s26-dbrand-cases-3641812/)<!-- TECH:END -->
+ - [Pixel 9 officially joins Pixel 10 with Quick Share-AirDrop support](https://www.androidauthority.com/google-pixel-9-quick-share-airdrop-support-rollout-3641846/)
+ - [Emergent, which offers an AI-powered software development service, says it is generating annual run-rate revenue of $100M+, just eight months after launch &lpar;TechCrunch&rpar;](http://www.techmeme.com/260217/p56#a260217p56)
+ - [Amazon shares close up 1.2%, snapping a nine-day slide that wiped out $450B+ in market valuation over concerns about Amazon&#39;s plan to spend $200B in 2026 capex &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260217/p55#a260217p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
