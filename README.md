@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wife material](http://9gag.com/gag/amow7Y2)
- - ⏩ [Interesting](http://9gag.com/gag/an7wjpV)
- - 👉 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)<!-- MEMES:END -->
+ - 💣 [Everyone&#39;s just trying their best, even the bodybuilders](http://9gag.com/gag/aMV5ZVR)
+ - ⏩ [Uploading my old 9gag collection 148](http://9gag.com/gag/aRBd1L7)
+ - 👉 [Working 50+ hrs a week so that Billionaires can eat children.](http://9gag.com/gag/a2vpZbZ)<!-- MEMES:END -->
 
 ---
 
