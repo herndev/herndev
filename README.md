@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Galaxy Z TriFold inner displays are breaking alarmingly fast](https://www.androidauthority.com/galaxy-z-trifold-inner-display-breaking-3642126/)
- - [Texas AG Ken Paxton sues TP-Link, alleging it deceptively markets its products as secure while allowing the CCP to hack into consumers&#39; devices &lpar;The Record&rpar;](http://www.techmeme.com/260218/p44#a260218p44)
- - [OpenAI hires Instagram&#39;s VP of global partnerships, Charles Porch, as its first VP of global creative partnerships, seeking to win over a skeptical Hollywood &lpar;Julia Black/Vanity Fair&rpar;](http://www.techmeme.com/260218/p43#a260218p43)<!-- TECH:END -->
+ - [OpenAI and Paradigm announce EVMbench, a benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities &lpar;OpenAI&rpar;](http://www.techmeme.com/260218/p47#a260218p47)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Barnes &amp; Noble just dropped a new NOOK Reading Tablet — but it’s not the upgrade you want](https://www.androidauthority.com/barnes-and-noble-nook-reading-tablet-launch-3642152/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
