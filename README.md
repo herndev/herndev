@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at China&#39;s push to become a world leader in brain-computer interfaces, as Shanghai-based startup NeuroXess moves to human trials with Beijing&#39;s backing &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/260218/p12#a260218p12)
- - [Bengaluru-based AI startup Sarvam AI announces two models at the AI Impact Summit that it says are tailored to Indian languages and cultures &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260218/p11#a260218p11)
- - [Microsoft says it is on pace to invest $50B by 2030 to help expand AI across the &quot;Global South&quot;, after unveiling $17.5B in AI investments in India in 2025 &lpar;Abu Sultan/Reuters&rpar;](http://www.techmeme.com/260218/p10#a260218p10)<!-- TECH:END -->
+ - [How to Choose the Bamboo Sheets for You &lpar;2026&rpar;](https://www.wired.com/story/best-bamboo-sheets/)
+ - [I stopped fighting YouTube ads and paid for YouTube Premium — and I’m never going back](https://www.androidauthority.com/youtube-premium-vs-ad-blockers-3641325/)
+ - [WBD joins Disney and Paramount in claiming infringement on ByteDance&#39;s AI video tool Seedance and demands ByteDance cease training AI on Warner Bros. characters &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/260218/p14#a260218p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
