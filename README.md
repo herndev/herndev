@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood launches an IPO for Robinhood Ventures Fund I, a $1B closed-end fund to provide retail investors access to private markets, offering 40M shares at $25 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p26#a260218p26)
- - [How to get into retro gaming on Apple TV with RetroArch](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-get-into-retro-gaming-on-apple-tv-with-retroarch?utm_source=rss)
- - [DG Matrix, which builds solid-state transformers to handle up to 2.4 MW and boost data center power efficiency, raised a $60M Series A led by Engine Ventures &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/260218/p25#a260218p25)<!-- TECH:END -->
+ - [Google unveils the $499 Pixel 10A, offering the same Tensor G4 chip as the 9A, 8GB of RAM, and an 11% brighter display, in 128GB and 256GB, shipping March 4 &lpar;Todd Haselton/The Verge&rpar;](http://www.techmeme.com/260218/p31#a260218p31)
+ - [Microsoft confirms a bug that let Microsoft 365 Copilot summarize confidential emails from Sent Items and Drafts folders, and deployed a fix in early February &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/260218/p30#a260218p30)
+ - [The Pixel 10a is here, but I’m not upgrading](https://www.androidauthority.com/pixel-10a-vs-pixel-9a-not-upgrading-3641507/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
