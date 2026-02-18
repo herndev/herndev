@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring&amp;#8217;s AI-powered Search Party won&amp;#8217;t stop at finding lost dogs, leaked email shows](https://www.theverge.com/tech/880906/ring-siminoff-email-leak-search-party-expansion)
- - [Social media addiction trial: Mark Zuckerberg says increasing engagement on Instagram is not a company goal and that Meta removes underage users it identifies &lpar;CNBC&rpar;](http://www.techmeme.com/260218/p48#a260218p48)
- - [Google Keep gets ready to follow Drive and Docs with this new UI look](https://www.androidauthority.com/google-keep-material-3-3642142/)<!-- TECH:END -->
+ - [DoorDash reports Q4 revenue up 38% YoY to $3.96B, vs. $3.99B est., total orders up 32% to 903M, and forecasts Q1 adjusted EBITDA below estimates &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260218/p53#a260218p53)
+ - [eBay reports Q4 revenue up 15% YoY to $3B, vs. $2.87B est., GMV up 10% to $21.2B, and forecasts Q1 profit above estimates; EBAY jumps 6%+ after hours &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/260218/p52#a260218p52)
+ - [Figma reports Q4 revenue up 40% YoY to $303.8M, vs. $293.15M est., and forecasts Q1 revenue above estimates; FIG jumps 15%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260218/p51#a260218p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
