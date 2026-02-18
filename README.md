@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Android gaming console lets you dial things up with a literal knob](https://www.androidauthority.com/pocket-super-knob-5000-3642104/)
- - [Ken Watanabe didn’t think a kabuki movie would work](https://www.theverge.com/report/880620/ken-watanabe-interview-kokuho)
- - [Looking for the best Pixel 10a deal? AT&amp;T might edge out Verizon for a few reasons](https://www.androidauthority.com/att-google-pixel-10a-deals-3642101/)<!-- TECH:END -->
+ - [Some Galaxy Z TriFold inner displays are breaking alarmingly fast](https://www.androidauthority.com/galaxy-z-trifold-inner-display-breaking-3642126/)
+ - [Texas AG Ken Paxton sues TP-Link, alleging it deceptively markets its products as secure while allowing the CCP to hack into consumers&#39; devices &lpar;The Record&rpar;](http://www.techmeme.com/260218/p44#a260218p44)
+ - [OpenAI hires Instagram&#39;s VP of global partnerships, Charles Porch, as its first VP of global creative partnerships, seeking to win over a skeptical Hollywood &lpar;Julia Black/Vanity Fair&rpar;](http://www.techmeme.com/260218/p43#a260218p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
