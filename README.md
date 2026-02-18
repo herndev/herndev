@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI and Paradigm announce EVMbench, a benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities &lpar;OpenAI&rpar;](http://www.techmeme.com/260218/p47#a260218p47)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Barnes &amp; Noble just dropped a new NOOK Reading Tablet — but it’s not the upgrade you want](https://www.androidauthority.com/barnes-and-noble-nook-reading-tablet-launch-3642152/)<!-- TECH:END -->
+ - [Ring&amp;#8217;s AI-powered Search Party won&amp;#8217;t stop at finding lost dogs, leaked email shows](https://www.theverge.com/tech/880906/ring-siminoff-email-leak-search-party-expansion)
+ - [Social media addiction trial: Mark Zuckerberg says increasing engagement on Instagram is not a company goal and that Meta removes underage users it identifies &lpar;CNBC&rpar;](http://www.techmeme.com/260218/p48#a260218p48)
+ - [Google Keep gets ready to follow Drive and Docs with this new UI look](https://www.androidauthority.com/google-keep-material-3-3642142/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
