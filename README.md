@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Synthesia founder and CEO Victor Riparbelli on growing the London-based enterprise AI video platform, hitting a $4B valuation, AI regulation, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260218/p16#a260218p16)
- - [Perplexity joins anti-ad camp as AI companies battle over trust and revenue](https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads)
- - [Samsung and Apple’s “wide” Folds prove that the Pixel Fold was visionary](https://www.androidauthority.com/samsung-apple-wide-fold-prove-pixel-fold-visionary-3641535/)<!-- TECH:END -->
+ - [At India&#39;s AI Summit, Sundar Pichai announces the America-India Connect Initiative to build new fiber optic lines between India, the US, and other countries &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260218/p19#a260218p19)
+ - [A Las Vegas federal appeals court rejects Kalshi&#39;s emergency bid for an administrative stay against Nevada&#39;s efforts to block the platform, a major setback &lpar;Krystal Hur/Wall Street Journal&rpar;](http://www.techmeme.com/260218/p18#a260218p18)
+ - [Google will soon address NotebookLM’s clutter problem](https://www.androidauthority.com/notebooklm-folder-organization-3641948/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
