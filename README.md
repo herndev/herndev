@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Choose the Bamboo Sheets for You &lpar;2026&rpar;](https://www.wired.com/story/best-bamboo-sheets/)
- - [I stopped fighting YouTube ads and paid for YouTube Premium — and I’m never going back](https://www.androidauthority.com/youtube-premium-vs-ad-blockers-3641325/)
- - [WBD joins Disney and Paramount in claiming infringement on ByteDance&#39;s AI video tool Seedance and demands ByteDance cease training AI on Warner Bros. characters &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/260218/p14#a260218p14)<!-- TECH:END -->
+ - [Q&amp;A with Synthesia founder and CEO Victor Riparbelli on growing the London-based enterprise AI video platform, hitting a $4B valuation, AI regulation, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/260218/p16#a260218p16)
+ - [Perplexity joins anti-ad camp as AI companies battle over trust and revenue](https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads)
+ - [Samsung and Apple’s “wide” Folds prove that the Pixel Fold was visionary](https://www.androidauthority.com/samsung-apple-wide-fold-prove-pixel-fold-visionary-3641535/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
