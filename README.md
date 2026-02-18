@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 9 officially joins Pixel 10 with Quick Share-AirDrop support](https://www.androidauthority.com/google-pixel-9-quick-share-airdrop-support-rollout-3641846/)
- - [Emergent, which offers an AI-powered software development service, says it is generating annual run-rate revenue of $100M+, just eight months after launch &lpar;TechCrunch&rpar;](http://www.techmeme.com/260217/p56#a260217p56)
- - [Amazon shares close up 1.2%, snapping a nine-day slide that wiped out $450B+ in market valuation over concerns about Amazon&#39;s plan to spend $200B in 2026 capex &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260217/p55#a260217p55)<!-- TECH:END -->
+ - [YouTube services are partially resolved after a brief outage starting at ~7:45pm ET due to a recommendations system issue; YouTube is working on a full fix &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260217/p58#a260217p58)
+ - [Anthropic expects to pay Amazon, Google, and Microsoft $80B+ total to run its models on their servers through 2029, plus an additional $100B for training costs &lpar;The Information&rpar;](http://www.techmeme.com/260217/p57#a260217p57)
+ - [Pixel 9 officially joins Pixel 10 with Quick Share-AirDrop support](https://www.androidauthority.com/google-pixel-9-quick-share-airdrop-support-rollout-3641846/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
