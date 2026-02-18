@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Titel](http://9gag.com/gag/a87O546)
- - ⏩ [And that my friends is what hotels are for](http://9gag.com/gag/aAy5epZ)
- - 👉 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)<!-- MEMES:END -->
+ - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
+ - ⏩ [Christina Hendricks](http://9gag.com/gag/abAwMPB)
+ - 👉 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)<!-- MEMES:END -->
 
 ---
 
