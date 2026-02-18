@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube services are partially resolved after a brief outage starting at ~7:45pm ET due to a recommendations system issue; YouTube is working on a full fix &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260217/p58#a260217p58)
- - [Anthropic expects to pay Amazon, Google, and Microsoft $80B+ total to run its models on their servers through 2029, plus an additional $100B for training costs &lpar;The Information&rpar;](http://www.techmeme.com/260217/p57#a260217p57)
- - [Pixel 9 officially joins Pixel 10 with Quick Share-AirDrop support](https://www.androidauthority.com/google-pixel-9-quick-share-airdrop-support-rollout-3641846/)<!-- TECH:END -->
+ - [Perplexity says it has no plans to further pursue advertising, which it introduced in 2024, phasing out ads late last year over fears it would erode user trust &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260217/p60#a260217p60)
+ - [YouTube outage breaks homepage, apps, and YouTube TV &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/youtube-not-working-right-now-3641861/)
+ - [Tesla agrees to stop using the term &quot;autopilot&quot; to market its electric vehicles in California to avoid a 30-day suspension by the state&#39;s DMV &lpar;Rachel Swan/San Francisco Chronicle&rpar;](http://www.techmeme.com/260217/p59#a260217p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
