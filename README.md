@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
+ - 💣 [Search `no images produced` and change pdf to mp4](http://9gag.com/gag/an7w9xB)
  - ⏩ [Working 50+ hrs a week so that Billionaires can eat children.](http://9gag.com/gag/a2vpZbZ)
- - 👉 [Search `no images produced` and change pdf to mp4](http://9gag.com/gag/an7w9xB)<!-- MEMES:END -->
+ - 👉 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)<!-- MEMES:END -->
 
 ---
 
