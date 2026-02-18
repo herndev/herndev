@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home’s latest update brings long-requested automation tweaks and more](https://www.androidauthority.com/google-home-update-february-17-2026-3641870/)
- - [How to get into retro gaming on Apple TV with RetroArch](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-get-into-retro-gaming-on-apple-tv-with-retroarch?utm_source=rss)
- - [Perplexity says it has no plans to further pursue advertising, which it introduced in 2024, phasing out ads late last year over fears it would erode user trust &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260217/p60#a260217p60)<!-- TECH:END -->
+ - [Nvidia says it is working with Peak XV and other VC firms in India to fund AI startups; over 4,000 Indian AI startups have joined its global startup program &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260218/p2#a260218p2)
+ - [Yotta says it is investing $2B to deploy Nvidia&#39;s Blackwell B300 GPUs at its Noida data center campus in India to create one of Asia&#39;s largest AI superclusters &lpar;Himanshi Lohchab/The Economic Times&rpar;](http://www.techmeme.com/260218/p1#a260218p1)
+ - [Google Home’s latest update brings long-requested automation tweaks and more](https://www.androidauthority.com/google-home-update-february-17-2026-3641870/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
