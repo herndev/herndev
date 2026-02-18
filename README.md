@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another INSANE email](http://9gag.com/gag/avyw7wZ)
- - ⏩ [Damn](http://9gag.com/gag/a0eq5Gn)
- - 👉 [Ghost Busters](http://9gag.com/gag/a5Q3o9O)<!-- MEMES:END -->
+ - 💣 [`If you want to know who rules over you, look at who you are not allowed to criticize`](http://9gag.com/gag/aD25xXx)
+ - ⏩ [Ghost Busters](http://9gag.com/gag/a5Q3o9O)
+ - 👉 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)<!-- MEMES:END -->
 
 ---
 
