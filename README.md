@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s right](http://9gag.com/gag/awy2AW4)
- - ⏩ [Smart guy](http://9gag.com/gag/a9y0K1W)
- - 👉 [That&#39;s a proud father right there](http://9gag.com/gag/aND50e3)<!-- MEMES:END -->
+ - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
+ - ⏩ [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
+ - 👉 [Denise Richards, &#39;The World Is Not Enough&#39; &lpar;1999&rpar;](http://9gag.com/gag/aRBd1DB)<!-- MEMES:END -->
 
 ---
 
