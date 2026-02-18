@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based Stable Money, whose app lets users invest in fixed deposits and corporate bonds, raised $25M at a $175M valuation, taking total funding to $65M &lpar;The Economic Times&rpar;](http://www.techmeme.com/260218/p4#a260218p4)
- - [Lovehoney Discount Codes and Deals: Up to 70% Off](https://www.wired.com/story/lovehoney-discount-code/)
- - [Lowe’s Promo Codes and Deals: Up to 40% Off Appliances](https://www.wired.com/story/lowes-promo-code/)<!-- TECH:END -->
+ - [Dreamer, founded by former Stripe CTO David Singleton, Hugo Barra, and others, launches in beta to let technical and non-technical users build agentic AI apps &lpar;David Singleton/flurries of latent ...&rpar;](http://www.techmeme.com/260218/p6#a260218p6)
+ - [A look at MGX, Abu Dhabi&#39;s AI investment vehicle with stakes in Anthropic, xAI, and OpenAI; the firm plans to spend up to $10B annually over the next few years &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p5#a260218p5)
+ - [Google Pixel 10A Rumors: Wednesday Reveal, New Colors, Preorders](https://www.cnet.com/news-live/google-pixel-10a/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
