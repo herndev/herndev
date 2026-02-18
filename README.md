@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dreamer, founded by former Stripe CTO David Singleton, Hugo Barra, and others, launches in beta to let technical and non-technical users build agentic AI apps &lpar;David Singleton/flurries of latent ...&rpar;](http://www.techmeme.com/260218/p6#a260218p6)
- - [A look at MGX, Abu Dhabi&#39;s AI investment vehicle with stakes in Anthropic, xAI, and OpenAI; the firm plans to spend up to $10B annually over the next few years &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p5#a260218p5)
- - [Google Pixel 10A Rumors: Wednesday Reveal, New Colors, Preorders](https://www.cnet.com/news-live/google-pixel-10a/)<!-- TECH:END -->
+ - [Google just gave us a ‘Glimmer’ of hope for Android XR’s UI](https://www.androidauthority.com/google-android-xr-glimmer-design-3641899/)
+ - [As the AI Impact Summit in New Delhi draws attention, a look at India&#39;s AI opportunities and the political economy gridlock that threatens its ambitions &lpar;Shruti Rajagopalan/Get Down and Shruti&rpar;](http://www.techmeme.com/260218/p8#a260218p8)
+ - [Google is finally fixing the most annoying thing about NotebookLM slide decks](https://www.androidauthority.com/notebooklm-slide-deck-editing-3641895/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
