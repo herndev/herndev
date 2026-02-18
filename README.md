@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Apple Car Key support now available on the 2026 Toyota Rav4](https://appleinsider.com/articles/26/02/17/apple-car-key-support-now-available-on-the-2026-toyota-rav4?utm_source=rss)
- - [Sources: Western Digital plans to raise $3.09B by selling a Sandisk stake at $535-$555/share, a 9.4% discount to Tuesday&#39;s close; the offering is oversubscribed &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/260217/p52#a260217p52)<!-- TECH:END -->
+ - [Google signs a power purchase agreement with Ormat to supply up to 150 MW of geothermal energy to its Nevada data centers through NV Energy starting in 2028 &lpar;Lauren Rosenthal/Bloomberg&rpar;](http://www.techmeme.com/260217/p53#a260217p53)
+ - [Samsung hypes up the Galaxy S26 with new camera experience teaser](https://www.androidauthority.com/galaxy-s26-new-camera-experience-3641766/)
+ - [The Samsung Galaxy S26 series isn’t out yet, but dbrand’s cases and skins are](https://www.androidauthority.com/samsung-galaxy-s26-dbrand-cases-3641812/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
