@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google unveils the $499 Pixel 10A, offering the same Tensor G4 chip as the 9A, 8GB of RAM, and an 11% brighter display, in 128GB and 256GB, shipping March 4 &lpar;Todd Haselton/The Verge&rpar;](http://www.techmeme.com/260218/p31#a260218p31)
- - [Microsoft confirms a bug that let Microsoft 365 Copilot summarize confidential emails from Sent Items and Drafts folders, and deployed a fix in early February &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/260218/p30#a260218p30)
- - [The Pixel 10a is here, but I’m not upgrading](https://www.androidauthority.com/pixel-10a-vs-pixel-9a-not-upgrading-3641507/)<!-- TECH:END -->
+ - [Google rolls out Lyria 3, a generative music model that can make 30-second tracks with Nano Banana cover art, in beta in the Gemini app in eight languages &lpar;The Keyword&rpar;](http://www.techmeme.com/260218/p37#a260218p37)
+ - [Cogent Security, which aims to use AI agents to decide which software bugs to remediate, raised a $42M Series A led by Bain, taking its total raised to $53M &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260218/p36#a260218p36)
+ - [Music to your ears, literally: Gemini now writes and produces songs](https://www.androidauthority.com/google-gemini-produce-music-tracks-3641997/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
