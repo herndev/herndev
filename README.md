@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash reports Q4 revenue up 38% YoY to $3.96B, vs. $3.99B est., total orders up 32% to 903M, and forecasts Q1 adjusted EBITDA below estimates &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260218/p53#a260218p53)
- - [eBay reports Q4 revenue up 15% YoY to $3B, vs. $2.87B est., GMV up 10% to $21.2B, and forecasts Q1 profit above estimates; EBAY jumps 6%+ after hours &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/260218/p52#a260218p52)
- - [Figma reports Q4 revenue up 40% YoY to $303.8M, vs. $293.15M est., and forecasts Q1 revenue above estimates; FIG jumps 15%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260218/p51#a260218p51)<!-- TECH:END -->
+ - [Dyson turned its skinny PencilVac into a lightweight wet floor cleaner](https://www.theverge.com/tech/880594/dyson-pencilwash-wet-floor-cleaner-thin-battery-handle)
+ - [Selector, which offers an AI platform that promises to simplify network monitoring, raised a $32M Series B led by AVP at a $375M valuation &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/260218/p56#a260218p56)
+ - [Meta is reportedly planning to launch a smartwatch this year](https://www.theverge.com/tech/881065/meta-smartwatch-plans-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
