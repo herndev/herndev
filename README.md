@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s one way to answer the teacher](http://9gag.com/gag/a1mjRGP)
- - ⏩ [This is next level parenting](http://9gag.com/gag/amow5y4)
- - 👉 [When you finally meet someone that matches your energy](http://9gag.com/gag/aND50gr)<!-- MEMES:END -->
+ - 💣 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
+ - ⏩ [Hmm, keep them caps](http://9gag.com/gag/aPA275K)
+ - 👉 [I thought it was a joke](http://9gag.com/gag/awy2Ap4)<!-- MEMES:END -->
 
 ---
 
