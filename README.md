@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android phones you should buy instead of the Google Pixel 10a](https://www.androidauthority.com/google-pixel-10a-alternatives-3641790/)
- - [Inside the Gay Tech Mafia](https://www.wired.com/story/inside-the-gay-tech-mafia/)
- - [The biggest app in the whole wide world](https://www.theverge.com/tech/876196/top-app-store-apps-developers)<!-- TECH:END -->
+ - [Pixel 10a vs Pixel 8a: The smartest move might be to wait](https://www.androidauthority.com/pixel-10a-vs-pixel-8a-3642077/)
+ - [8 Best Cheap Phones &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
+ - [Atlassian&#39;s founders lost ~$7.2B in wealth in 2026, behind AppLovin&#39;s three founders, amid an SaaS rout; TEAM dropped ~48% YTD, the Nasdaq 100&#39;s worst performer &lpar;Bloomberg&rpar;](http://www.techmeme.com/260219/p18#a260219p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
