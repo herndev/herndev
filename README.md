@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get into classic arcade gaming on Apple TV with RetroArch](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-get-into-retro-gaming-on-apple-tv-with-retroarch?utm_source=rss)
- - [Cleveland-based Eagle Wireless, which makes cellular modules used in IoT devices, raised a $30M Series B as the US seeks to reduce its reliance on China &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260219/p33#a260219p33)
- - [Full internet by satellite could come via an Apple-designed iPhone or iPad case](https://appleinsider.com/articles/26/02/19/full-internet-by-satellite-could-come-via-an-iphone-or-ipad-case?utm_source=rss)<!-- TECH:END -->
+ - [Perplexity’s Retreat From Ads Signals a Bigger Strategic Shift](https://www.wired.com/story/perplexity-ads-shift-search-google/)
+ - [If you want a transparent iPhone Air with a SIM slot, it&#39;ll cost you](https://appleinsider.com/articles/26/02/19/if-you-want-a-transparent-iphone-air-with-a-sim-slot-itll-cost-you?utm_source=rss)
+ - [Sony is closing the studio behind the Demon&amp;#8217;s Souls and Shadow of the Colossus remakes](https://www.theverge.com/games/881578/sony-close-bluepoint-games-studio-remaster-remake-demons-souls-shadow-colossus-god-of-war)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
