@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hehe G\u00ebh](http://9gag.com/gag/aBy5mjD)
- - ⏩ [Old but gold](http://9gag.com/gag/aPA2Z6n)
- - 👉 [Damn ninjas cutting onions](http://9gag.com/gag/adBwgyV)<!-- MEMES:END -->
+ - 💣 [This is next level parenting](http://9gag.com/gag/amow5y4)
+ - ⏩ [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)
+ - 👉 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)<!-- MEMES:END -->
 
 ---
 
