@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smart guy](http://9gag.com/gag/a9y0K1W)
- - ⏩ [Completely normal hotel room](http://9gag.com/gag/amowB1y)
- - 👉 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)<!-- MEMES:END -->
+ - 💣 [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
+ - ⏩ [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
+ - 👉 [I thought it was a joke](http://9gag.com/gag/awy2Ap4)<!-- MEMES:END -->
 
 ---
 
