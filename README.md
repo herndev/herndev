@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10a vs Pixel 8a: The smartest move might be to wait](https://www.androidauthority.com/pixel-10a-vs-pixel-8a-3642077/)
- - [8 Best Cheap Phones &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
- - [Atlassian&#39;s founders lost ~$7.2B in wealth in 2026, behind AppLovin&#39;s three founders, amid an SaaS rout; TEAM dropped ~48% YTD, the Nasdaq 100&#39;s worst performer &lpar;Bloomberg&rpar;](http://www.techmeme.com/260219/p18#a260219p18)<!-- TECH:END -->
+ - [ByteDance is currently hiring for nearly 100 US-based roles within its Seed AI team across San Jose, LA, and Seattle to develop LLMs, drug discovery, and more &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/260219/p24#a260219p24)
+ - [Mobile gaming company Scopely buys a majority stake in Istanbul-based studio Loom, maker of puzzle game Pixel Flow!; a source says the deal values Loom at $1B+ &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/260219/p23#a260219p23)
+ - [Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared &lpar;2026&rpar;](https://www.wired.com/story/best-unlimited-phone-plans/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
