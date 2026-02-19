@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York pulls a proposal that would have allowed for robotaxi services outside NYC, a setback for Waymo, which wants to hit 1M paid weekly US rides by 2026 end &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260219/p32#a260219p32)
- - [West Virginia sues Apple for allegedly letting child abuse spread in iCloud](https://www.theverge.com/tech/881433/apple-west-virginia-lawsuit-icloud-csam)
- - [Android security gets aggressive as Google bans thousands of developers and millions of sketchy apps](https://www.androidauthority.com/google-play-android-app-ecosystem-security-update-3642482/)<!-- TECH:END -->
+ - [How to get into classic arcade gaming on Apple TV with RetroArch](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-get-into-retro-gaming-on-apple-tv-with-retroarch?utm_source=rss)
+ - [Cleveland-based Eagle Wireless, which makes cellular modules used in IoT devices, raised a $30M Series B as the US seeks to reduce its reliance on China &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260219/p33#a260219p33)
+ - [Full internet by satellite could come via an Apple-designed iPhone or iPad case](https://appleinsider.com/articles/26/02/19/full-internet-by-satellite-could-come-via-an-iphone-or-ipad-case?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
