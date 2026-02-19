@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Edge 70 Fusion leak may have solved one lingering hardware mystery](https://www.androidauthority.com/motorola-edge-70-fusion-chip-3642542/)
- - [Donald Trump Jr.’s Private DC Club Has Mysterious Ties to an Ex-Cop With a Controversial Past](https://www.wired.com/story/magas-secretive-members-only-club-is-partly-owned-by-an-ex-cop/)
- - [Chrome is getting a little more aggressive about being your default browser](https://www.androidauthority.com/chrome-pin-taskbar-3642524/)<!-- TECH:END -->
+ - [Gemini 3.1 Pro is here with better reasoning and problem-solving](https://www.androidauthority.com/gemini-3-1-pro-preview-3642599/)
+ - [Apple TV F1, MLS, MLB streaming reach expands to bars &amp; restaurants](https://appleinsider.com/articles/26/02/19/apple-tv-f1-mls-mlb-streaming-reach-expands-to-bars-restaurants?utm_source=rss)
+ - [Sony shuts down Bluepoint Games, the PlayStation subsidiary behind remakes of older games like Demon&#39;s Souls and Uncharted; ~70 employees will lose their jobs &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/260219/p41#a260219p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
