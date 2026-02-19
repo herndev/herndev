@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson turned its skinny PencilVac into a lightweight wet floor cleaner](https://www.theverge.com/tech/880594/dyson-pencilwash-wet-floor-cleaner-thin-battery-handle)
- - [Selector, which offers an AI platform that promises to simplify network monitoring, raised a $32M Series B led by AVP at a $375M valuation &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/260218/p56#a260218p56)
- - [Meta is reportedly planning to launch a smartwatch this year](https://www.theverge.com/tech/881065/meta-smartwatch-plans-2026)<!-- TECH:END -->
+ - [Cadence shares closed up 7.6% on Wednesday after the chip design company reported Q4 revenue up ~6% to $1.44B and adjusted EPS of $1.99, both above estimates &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260218/p58#a260218p58)
+ - [Sources: the US State Department is developing an online portal at &quot;freedom.gov&quot; to let users in Europe and elsewhere view content banned by their governments &lpar;Reuters&rpar;](http://www.techmeme.com/260218/p57#a260218p57)
+ - [Dyson&#39;s Slimmest Cordless Vacuum Now Has a Swiffer-Like Cousin. I Tried It](https://www.cnet.com/home/kitchen-and-household/dysons-pencilwash-wet-vacuum/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
