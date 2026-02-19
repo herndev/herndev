@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini looks to solve its “feature overload” problem with a newer UI](https://www.androidauthority.com/google-gemini-attachment-sheet-ui-apk-teardown-3642322/)
- - [I’m not disappointed with the Pixel 10’s Tensor G4 processor, but I’m not happy either](https://www.androidauthority.com/pixel-10a-tensor-g4-specs-3638348/)
- - [Looks like Apple CarPlay just beat Android Auto to bring a highly-demanded feature](https://www.androidauthority.com/apple-carplay-android-auto-video-3642330/)<!-- TECH:END -->
+ - [Russian forces in Ukraine face communications issues as SpaceX restricts Starlink access and Telegram faces a crackdown, per pro-Russian military channels &lpar;Bloomberg&rpar;](http://www.techmeme.com/260219/p13#a260219p13)
+ - [The latest Pixel 10a is the wrong Pixel to buy](https://www.androidauthority.com/pixel-10a-is-wrong-pixel-to-buy-3641936/)
+ - [How to Organize Safely in the Age of Surveillance](https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
