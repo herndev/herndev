@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Titel](http://9gag.com/gag/a87O546)
- - ⏩ [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
- - 👉 [I thought it was a joke](http://9gag.com/gag/awy2Ap4)<!-- MEMES:END -->
+ - 💣 [Smart guy](http://9gag.com/gag/a9y0K1W)
+ - ⏩ [Titel](http://9gag.com/gag/a87O546)
+ - 👉 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)<!-- MEMES:END -->
 
 ---
 
