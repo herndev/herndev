@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [That&#39;s one way to answer the teacher](http://9gag.com/gag/a1mjRGP)
  - ⏩ [This is next level parenting](http://9gag.com/gag/amow5y4)
- - 👉 [Baby Seal](http://9gag.com/gag/azxwmBB)<!-- MEMES:END -->
+ - 👉 [When you finally meet someone that matches your energy](http://9gag.com/gag/aND50gr)<!-- MEMES:END -->
 
 ---
 
