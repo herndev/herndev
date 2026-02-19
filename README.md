@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Not a Pixel 10a fan? The Samsung Galaxy S25 FE is at a record-low price!](https://www.androidauthority.com/samsung-galaxy-s25-fe-deal-4-3642499/)
- - [Inside the Rolling Layoffs at Jack Dorsey’s Block](https://www.wired.com/story/inside-rolling-layoffs-jack-dorsey-block/)
- - [Upgrade Your Computer Speakers With These Discounted Edifier M60s](https://www.wired.com/story/edifier-m60-deal-226/)<!-- TECH:END -->
+ - [Motorola Edge 70 Fusion leak may have solved one lingering hardware mystery](https://www.androidauthority.com/motorola-edge-70-fusion-chip-3642542/)
+ - [Donald Trump Jr.’s Private DC Club Has Mysterious Ties to an Ex-Cop With a Controversial Past](https://www.wired.com/story/magas-secretive-members-only-club-is-partly-owned-by-an-ex-cop/)
+ - [Chrome is getting a little more aggressive about being your default browser](https://www.androidauthority.com/chrome-pin-taskbar-3642524/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
