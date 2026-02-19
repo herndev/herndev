@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russian forces in Ukraine face communications issues as SpaceX restricts Starlink access and Telegram faces a crackdown, per pro-Russian military channels &lpar;Bloomberg&rpar;](http://www.techmeme.com/260219/p13#a260219p13)
- - [The latest Pixel 10a is the wrong Pixel to buy](https://www.androidauthority.com/pixel-10a-is-wrong-pixel-to-buy-3641936/)
- - [How to Organize Safely in the Age of Surveillance](https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/)<!-- TECH:END -->
+ - [5 Android phones you should buy instead of the Google Pixel 10a](https://www.androidauthority.com/google-pixel-10a-alternatives-3641790/)
+ - [Inside the Gay Tech Mafia](https://www.wired.com/story/inside-the-gay-tech-mafia/)
+ - [The biggest app in the whole wide world](https://www.theverge.com/tech/876196/top-app-store-apps-developers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
