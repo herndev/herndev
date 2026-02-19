@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Lego&#39;s Creative Play Lab built the Smart Brick, its custom chip, sensors, and proprietary communication system to seamlessly integrate with existing sets &lpar;Jeremy White/Wired&rpar;](http://www.techmeme.com/260219/p10#a260219p10)
- - [Apple Podcasts&#39; fresh leap into video podcasts accelerates the podcast industry&#39;s shift from an audio-centric medium to a decidedly video-focused one &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/260219/p9#a260219p9)
- - [A study of 12K+ EU companies finds AI adoption increases labor productivity by 4% on average in the EU, with no evidence of reduced employment in the short run &lpar;CEPR&rpar;](http://www.techmeme.com/260219/p8#a260219p8)<!-- TECH:END -->
+ - [Gemini looks to solve its “feature overload” problem with a newer UI](https://www.androidauthority.com/google-gemini-attachment-sheet-ui-apk-teardown-3642322/)
+ - [I’m not disappointed with the Pixel 10’s Tensor G4 processor, but I’m not happy either](https://www.androidauthority.com/pixel-10a-tensor-g4-specs-3638348/)
+ - [Looks like Apple CarPlay just beat Android Auto to bring a highly-demanded feature](https://www.androidauthority.com/apple-carplay-android-auto-video-3642330/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
