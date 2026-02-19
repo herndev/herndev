@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smart guy](http://9gag.com/gag/a9y0K1W)
- - ⏩ [Titel](http://9gag.com/gag/a87O546)
- - 👉 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)<!-- MEMES:END -->
+ - 💣 [I would steal it](http://9gag.com/gag/aW45xE3)
+ - ⏩ [This is next level parenting](http://9gag.com/gag/amow5y4)
+ - 👉 [Follow up from my last post. Thanks guys, you were &lpar;surprisingly&rpar; awesome and kind.](http://9gag.com/gag/aAy5eM9)<!-- MEMES:END -->
 
 ---
 
