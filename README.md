@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I would steal it](http://9gag.com/gag/aW45xE3)
+ - 💣 [Baby Seal](http://9gag.com/gag/azxwmBB)
  - ⏩ [This is next level parenting](http://9gag.com/gag/amow5y4)
  - 👉 [Follow up from my last post. Thanks guys, you were &lpar;surprisingly&rpar; awesome and kind.](http://9gag.com/gag/aAy5eM9)<!-- MEMES:END -->
 
