@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Titel](http://9gag.com/gag/a87O546)
- - ⏩ [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
- - 👉 [I thought it was a joke](http://9gag.com/gag/awy2Ap4)<!-- MEMES:END -->
+ - 💣 [That&#39;s one way to answer the teacher](http://9gag.com/gag/a1mjRGP)
+ - ⏩ [This is next level parenting](http://9gag.com/gag/amow5y4)
+ - 👉 [Baby Seal](http://9gag.com/gag/azxwmBB)<!-- MEMES:END -->
 
 ---
 
