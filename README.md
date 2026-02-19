@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The speech police came for Colbert](https://www.theverge.com/podcast/881222/fcc-colbert-talarico-brendan-carr-vergecast)
- - [Money no longer matters to AI’s top talent](https://www.theverge.com/podcast/880778/ai-talent-war-hiring-frenzy-openai-anthropic-ipo)
- - [March madness: What Apple is getting ready to launch](https://appleinsider.com/articles/26/02/18/march-madness-what-apple-is-getting-ready-to-launch?utm_source=rss)<!-- TECH:END -->
+ - [Mastodon is testing easier ways to get you started in the fediverse](https://www.theverge.com/tech/881352/mastodon-default-server-recommendations-experiment)
+ - [Ownwell, which uses AI to let homeowners appeal property taxes, raised a $30M Series B, bringing its total funding to $54M; it also raised $20M in debt &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260219/p29#a260219p29)
+ - [A leaked internal email shows Ring&#39;s plan targets more than pets](https://appleinsider.com/articles/26/02/19/a-leaked-internal-email-shows-rings-plan-targets-more-than-pets?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
