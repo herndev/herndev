@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cadence shares closed up 7.6% on Wednesday after the chip design company reported Q4 revenue up ~6% to $1.44B and adjusted EPS of $1.99, both above estimates &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260218/p58#a260218p58)
- - [Sources: the US State Department is developing an online portal at &quot;freedom.gov&quot; to let users in Europe and elsewhere view content banned by their governments &lpar;Reuters&rpar;](http://www.techmeme.com/260218/p57#a260218p57)
- - [Dyson&#39;s Slimmest Cordless Vacuum Now Has a Swiffer-Like Cousin. I Tried It](https://www.cnet.com/home/kitchen-and-household/dysons-pencilwash-wet-vacuum/)<!-- TECH:END -->
+ - [Deal: This Philips S2108 Portable Bluetooth Speaker looks awesome!](https://www.androidauthority.com/philips-s2108-portable-bluetooth-speaker-deal-3642276/)
+ - [The RAM crunch could kill products and even entire companies, memory exec admits](https://www.theverge.com/tech/881062/ram-shortage-kill-products-companies-phison-ceo-interview)
+ - [The UK proposes new rules requiring tech firms to remove nonconsensual abusive content within 48 hours or risk blocking and fines of up to 10% of global revenue &lpar;The Guardian&rpar;](http://www.techmeme.com/260218/p60#a260218p60)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
