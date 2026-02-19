@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity’s Retreat From Ads Signals a Bigger Strategic Shift](https://www.wired.com/story/perplexity-ads-shift-search-google/)
- - [If you want a transparent iPhone Air with a SIM slot, it&#39;ll cost you](https://appleinsider.com/articles/26/02/19/if-you-want-a-transparent-iphone-air-with-a-sim-slot-itll-cost-you?utm_source=rss)
- - [Sony is closing the studio behind the Demon&amp;#8217;s Souls and Shadow of the Colossus remakes](https://www.theverge.com/games/881578/sony-close-bluepoint-games-studio-remaster-remake-demons-souls-shadow-colossus-god-of-war)<!-- TECH:END -->
+ - [Not a Pixel 10a fan? The Samsung Galaxy S25 FE is at a record-low price!](https://www.androidauthority.com/samsung-galaxy-s25-fe-deal-4-3642499/)
+ - [Inside the Rolling Layoffs at Jack Dorsey’s Block](https://www.wired.com/story/inside-rolling-layoffs-jack-dorsey-block/)
+ - [Upgrade Your Computer Speakers With These Discounted Edifier M60s](https://www.wired.com/story/edifier-m60-deal-226/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
