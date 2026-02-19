@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: This Philips S2108 Portable Bluetooth Speaker looks awesome!](https://www.androidauthority.com/philips-s2108-portable-bluetooth-speaker-deal-3642276/)
- - [The RAM crunch could kill products and even entire companies, memory exec admits](https://www.theverge.com/tech/881062/ram-shortage-kill-products-companies-phison-ceo-interview)
- - [The UK proposes new rules requiring tech firms to remove nonconsensual abusive content within 48 hours or risk blocking and fines of up to 10% of global revenue &lpar;The Guardian&rpar;](http://www.techmeme.com/260218/p60#a260218p60)<!-- TECH:END -->
+ - [Sources: OpenAI is close to finalizing the first phase of its $100B round; its overall valuation, including the eventual funding, could exceed $850B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260218/p64#a260218p64)
+ - [Sources: Dylan Patel&#39;s SemiAnalysis is in early talks to raise hundreds of millions for a VC fund; Patel raised a $50M SPV toward Fluidstack&#39;s $700M fundraising &lpar;The Information&rpar;](http://www.techmeme.com/260218/p63#a260218p63)
+ - [Mark Zuckerberg Tries to Play It Safe in Social Media Addiction Trial Testimony](https://www.wired.com/story/mark-zuckerberg-testifies-social-media-addiction-trial-meta/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
