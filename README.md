@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Baby Seal](http://9gag.com/gag/azxwmBB)
- - ⏩ [This is next level parenting](http://9gag.com/gag/amow5y4)
- - 👉 [Follow up from my last post. Thanks guys, you were &lpar;surprisingly&rpar; awesome and kind.](http://9gag.com/gag/aAy5eM9)<!-- MEMES:END -->
+ - 💣 [Titel](http://9gag.com/gag/a87O546)
+ - ⏩ [The story of Hans. Yes, that was his name. &lpar;Hans Tragarsky 1921-2011&rpar;. See comments.](http://9gag.com/gag/aMV5ZWx)
+ - 👉 [Wednesday](http://9gag.com/gag/a0eqNZZ)<!-- MEMES:END -->
 
 ---
 
