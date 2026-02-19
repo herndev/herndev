@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
- - ⏩ [I thought it was a joke](http://9gag.com/gag/awy2Ap4)
+ - ⏩ [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)
  - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
 
 ---
