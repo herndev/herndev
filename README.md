@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Abxylute’s new Switch 2 controller prototype has one big problem](https://www.theverge.com/tech/880971/abxylute-n6-switch-2-hands-on-controller)
- - [Amsterdam-based Stacks, which builds AI software to automate accounting workflows, raised a $23M Series A led by Lightspeed, after a €10M seed in 2025 &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260219/p25#a260219p25)
- - [It&amp;#8217;s MAGA v Broligarch in the battle over prediction markets](https://www.theverge.com/policy/881139/broligarch-prediction-markets)<!-- TECH:END -->
+ - [The speech police came for Colbert](https://www.theverge.com/podcast/881222/fcc-colbert-talarico-brendan-carr-vergecast)
+ - [Money no longer matters to AI’s top talent](https://www.theverge.com/podcast/880778/ai-talent-war-hiring-frenzy-openai-anthropic-ipo)
+ - [March madness: What Apple is getting ready to launch](https://appleinsider.com/articles/26/02/18/march-madness-what-apple-is-getting-ready-to-launch?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
