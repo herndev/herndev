@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini 3.1 Pro is here with better reasoning and problem-solving](https://www.androidauthority.com/gemini-3-1-pro-preview-3642599/)
- - [Apple TV F1, MLS, MLB streaming reach expands to bars &amp; restaurants](https://appleinsider.com/articles/26/02/19/apple-tv-f1-mls-mlb-streaming-reach-expands-to-bars-restaurants?utm_source=rss)
- - [Sony shuts down Bluepoint Games, the PlayStation subsidiary behind remakes of older games like Demon&#39;s Souls and Uncharted; ~70 employees will lose their jobs &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/260219/p41#a260219p41)<!-- TECH:END -->
+ - [Amazon’s latest Kindle Scribe update marks a growing gap with the Colorsoft](https://www.androidauthority.com/kindle-scribe-colorsoft-update-3642568/)
+ - [Sources: Emerald AI, which develops software to curb data center energy demand, is raising a $25M seed extension at a ~$250M post-money valuation &lpar;Alan Neuhauser/Axios&rpar;](http://www.techmeme.com/260219/p42#a260219p42)
+ - [A $10K+ bounty is waiting for anyone who can unplug Ring doorbells from Amazon&amp;#8217;s cloud](https://www.theverge.com/tech/881678/ring-doorbell-bounty-amazon-servers-fulu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
