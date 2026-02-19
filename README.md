@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Christina Hendricks](http://9gag.com/gag/abAwMPB)
- - ⏩ [Canadian curling team did it again &lpar;Brad Jacobs against Czechia&rpar;](http://9gag.com/gag/aZZ57Nn)
- - 👉 [Smart guy](http://9gag.com/gag/a9y0K1W)<!-- MEMES:END -->
+ - 💣 [Smart guy](http://9gag.com/gag/a9y0K1W)
+ - ⏩ [Completely normal hotel room](http://9gag.com/gag/amowB1y)
+ - 👉 [I Never Doubted Him](http://9gag.com/gag/ajPw5E1)<!-- MEMES:END -->
 
 ---
 
