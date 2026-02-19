@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ByteDance is currently hiring for nearly 100 US-based roles within its Seed AI team across San Jose, LA, and Seattle to develop LLMs, drug discovery, and more &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/260219/p24#a260219p24)
- - [Mobile gaming company Scopely buys a majority stake in Istanbul-based studio Loom, maker of puzzle game Pixel Flow!; a source says the deal values Loom at $1B+ &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/260219/p23#a260219p23)
- - [Best Unlimited Phone Plan: T-Mobile, AT&amp;T, Verizon Compared &lpar;2026&rpar;](https://www.wired.com/story/best-unlimited-phone-plans/)<!-- TECH:END -->
+ - [Abxylute’s new Switch 2 controller prototype has one big problem](https://www.theverge.com/tech/880971/abxylute-n6-switch-2-hands-on-controller)
+ - [Amsterdam-based Stacks, which builds AI software to automate accounting workflows, raised a $23M Series A led by Lightspeed, after a €10M seed in 2025 &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260219/p25#a260219p25)
+ - [It&amp;#8217;s MAGA v Broligarch in the battle over prediction markets](https://www.theverge.com/policy/881139/broligarch-prediction-markets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
