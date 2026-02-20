@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox boss Phil Spencer is retiring, and his replacement is an AI executive who joined Microsoft in 2024](https://www.pcgamer.com/gaming-industry/xbox-boss-phil-spencer-is-retiring-and-his-replacement-is-an-ai-executive-who-joined-microsoft-in-2024/)
- - [Xbox’s New Boss Promises Not To Flood It With ‘Soulless AI Slop’](https://kotaku.com/xboxs-new-boss-promises-not-to-flood-it-with-soulless-ai-slop-2000672087)
- - [Xbox boss Phil Spencer retires, replaced by Microsoft AI exec, Asha Sharma](https://www.polygon.com/xbox-phil-spencer-retiring-microsoft-ai-exec-asha-sharma-sarah-bond/)<!-- GAME:END -->
+ - [DICE agrees that some Battlefield 6 vehicles are &#39;death traps&#39; and is planning a Labs test dedicated to &#39;vehicle improvements&#39;](https://www.pcgamer.com/games/fps/dice-agrees-that-some-battlefield-6-vehicles-are-death-traps-and-is-planning-a-labs-test-dedicated-to-vehicle-improvements/)
+ - [28 Years Later: The Bone Temple, Good Fortune, and everything new to stream this weekend](https://www.polygon.com/new-movies-to-watch-28-years-later-bone-temple-kill-bill-february-20-2026/)
+ - [The Internet Reacts To The Massive Shakeup At Xbox](https://kotaku.com/phil-spencer-xbox-sarah-bond-leaving-internet-reaction-2000672112)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
