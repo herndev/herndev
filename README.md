@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That look is universally understood](http://9gag.com/gag/aBy5nZD)
- - ⏩ [In TV they say the country name as `Tche-Tchya`. I heard is watchin Canada - Czechia hockey game](http://9gag.com/gag/a4Pyo3m)
- - 👉 [I&#39;m not christian, but god damn this guy makes good points](http://9gag.com/gag/agmwgK1)<!-- MEMES:END -->
+ - 💣 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
+ - ⏩ [Just another day in the UK.](http://9gag.com/gag/avywAMO)
+ - 👉 [Training for what?](http://9gag.com/gag/aE05qxp)<!-- MEMES:END -->
 
 ---
 
