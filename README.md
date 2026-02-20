@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmm, keep them caps](http://9gag.com/gag/aPA275K)
- - ⏩ [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)
- - 👉 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)<!-- MEMES:END -->
+ - 💣 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
+ - ⏩ [Hmm, keep them caps](http://9gag.com/gag/aPA275K)
+ - 👉 [Old but gold](http://9gag.com/gag/aPA2Z6n)<!-- MEMES:END -->
 
 ---
 
