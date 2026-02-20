@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/a34r1Wv)
- - ⏩ [We need more karma](http://9gag.com/gag/aE058j9)
- - 👉 [That look is universally understood](http://9gag.com/gag/aBy5nZD)<!-- MEMES:END -->
+ - 💣 [I&#39;ve never been but it sure looks like it&#39;d be a beautiful place to visit](http://9gag.com/gag/a5Q31xg)
+ - ⏩ [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)
+ - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
 
 ---
 
