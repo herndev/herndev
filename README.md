@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft&#39;s AI safety team proposed technical standards for detecting AI-generated content, but its CSO declined to commit to using them across its platforms &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/260219/p51#a260219p51)
  - [How some political candidates and activists across ideologies and professions are pushing back on the spread of data centers and AI in the US &lpar;Andrew R. Chow/Time&rpar;](http://www.techmeme.com/260219/p50#a260219p50)
- - [Jeffrey Epstein’s Ties to CBP Agents Sparked a DOJ Probe](https://www.wired.com/story/jeffrey-epstein-cbp-agents-us-virgin-islands/)
- - [Uber&#39;s market cap fell to ~$150B, down ~25% in six months, as investors weigh robotaxi disruption, perceiving it as a two-horse race between Waymo and Tesla &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260219/p49#a260219p49)<!-- TECH:END -->
+ - [Jeffrey Epstein’s Ties to CBP Agents Sparked a DOJ Probe](https://www.wired.com/story/jeffrey-epstein-cbp-agents-us-virgin-islands/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
