@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s official: Samsung is launching new Galaxy Buds alongside the Galaxy S26 next week](https://www.androidauthority.com/samsung-galaxy-buds-unpacked-launch-3642639/)
- - [The executive that helped build Meta’s ad machine is trying to expose it](https://www.theverge.com/policy/881706/meta-executive-brian-boland-testimony-social-media-addiction-trial)
- - [A Mystery Phone, Found in the Desert, Slowly Reveals Its Secrets](https://www.cnet.com/tech/mobile/samsung-phone-lost-in-desert-10-years-lives-again/)<!-- TECH:END -->
+ - [Perplexity&#39;s retreat from ads signals a strategic shift as it recognizes its product is not for a mass audience and expects growth to come from enterprise sales &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260219/p46#a260219p46)
+ - [GameSir G8 Plus review: an iterative upgrade fit for iPad mini fans](https://appleinsider.com/articles/26/02/20/gamesir-g8-plus-review-an-iterative-upgrade-fit-for-ipad-mini-fans?utm_source=rss)
+ - [A $10K Bounty Awaits Anyone Who Can Hack Ring Cameras to Stop Sharing Data With Amazon](https://www.wired.com/story/a-10k-bounty-awaits-anyone-who-can-hack-ring-cameras-to-stop-sharing-data-with-amazon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
