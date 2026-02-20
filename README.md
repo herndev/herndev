@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Buds 4 and Buds 4 Pro prices leak, and it’s good news to our ears](https://www.androidauthority.com/galaxy-buds-4-price-leak-3642736/)
- - [Epilogue GB Operator Review: Play Your Game Boy Games on a Laptop](https://www.wired.com/review/epilogue-gb-operator/)
- - [Meta will ruin its smart glasses by being Meta](https://www.theverge.com/column/881744/meta-smart-glasses-facial-recognition-rayban-privacy-wearables)<!-- TECH:END -->
+ - [Nintendo turned its biggest flop into an expensive, uncomfortable novelty](https://www.theverge.com/games/881677/nintendo-switch-virtual-boy-review)
+ - [Motorola Razr 2025 series finally gets stable Android 16 in US](https://www.androidauthority.com/motorola-razr-2025-series-android-16-us-3642747/)
+ - [Your Coffee Grinder Is as Important as Your Brewer—Here Are the 5 Best We’ve Tested](https://www.wired.com/gallery/best-coffee-grinders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
