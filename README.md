@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
+ - 💣 [I&#39;ve never been but it sure looks like it&#39;d be a beautiful place to visit](http://9gag.com/gag/a5Q31xg)
  - ⏩ [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
- - 👉 [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)<!-- MEMES:END -->
+ - 👉 [Story of punchi](http://9gag.com/gag/a1mj1D8)<!-- MEMES:END -->
 
 ---
 
