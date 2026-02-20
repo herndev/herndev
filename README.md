@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
- - ⏩ [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
- - 👉 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)<!-- MEMES:END -->
+ - ⏩ [I&#39;ve never been but it sure looks like it&#39;d be a beautiful place to visit](http://9gag.com/gag/a5Q31xg)
+ - 👉 [If you don&#39;t like it. You might have PDS](http://9gag.com/gag/aQz5X3q)<!-- MEMES:END -->
 
 ---
 
