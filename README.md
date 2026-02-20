@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nothing beats putting all my little stuff on my many little shelves in a super cozy shop sim like Thrifty Business](https://www.pcgamer.com/games/sim/nothing-beats-putting-all-my-little-stuff-on-my-many-little-shelves-in-a-super-cozy-shop-sim-like-thrifty-business/)
- - [God of War Sons of Sparta review: 2D Metroidvania gives Kratos new depth amid growing pains](https://www.polygon.com/god-of-war-sons-of-sparta-review/)
- - [Best new Xbox Game Pass games to play this weekend &lpar;Feb. 20-22&rpar;](https://www.polygon.com/best-xbox-game-pass-games-february-20/)<!-- GAME:END -->
+ - [Stanley Kubrick&#39;s final film is streaming free on Tubi](https://www.polygon.com/stanley-kubrick-eyes-wide-shut-dream-story-analysis-streaming/)
+ - [PlayStation Fans Are Furious And They’re Taking It Out On Marathon](https://kotaku.com/playstation-fans-mad-marathon-bluepoint-boycott-ps5-bungie-2000672040)
+ - [Imagine if politics were full of monsters! Haha, no, I mean fun monsters like vampires, orcs, and goblins who use cards to hurl insults and smears at each other](https://www.pcgamer.com/games/roguelike/imagine-if-politics-were-full-of-monsters-haha-no-i-mean-fun-monsters-like-vampires-orcs-and-goblins-who-use-cards-to-hurl-insults-and-smears-at-each-other/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
