@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazil banks want &#39;free ride&#39; access to iPhone NFC payments, says Apple](https://appleinsider.com/articles/26/02/20/brazil-banks-want-free-ride-access-to-iphone-nfc-payments-says-apple?utm_source=rss)
- - [A US grand jury indicted three people, including two former Google engineers, for allegedly stealing trade secrets relating to Pixel&#39;s Tensor processor &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/260219/p48#a260219p48)
- - [Tech companies are increasingly building private power plants to fuel off-grid data centers, a move experts warn face reliability challenges and climate risks &lpar;Evan Halper/Washington Post&rpar;](http://www.techmeme.com/260219/p47#a260219p47)<!-- TECH:END -->
+ - [How some political candidates and activists across ideologies and professions are pushing back on the spread of data centers and AI in the US &lpar;Andrew R. Chow/Time&rpar;](http://www.techmeme.com/260219/p50#a260219p50)
+ - [Jeffrey Epstein’s Ties to CBP Agents Sparked a DOJ Probe](https://www.wired.com/story/jeffrey-epstein-cbp-agents-us-virgin-islands/)
+ - [Uber&#39;s market cap fell to ~$150B, down ~25% in six months, as investors weigh robotaxi disruption, perceiving it as a two-horse race between Waymo and Tesla &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/260219/p49#a260219p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
