@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Eugene Stoner, the designer of the M-16, tried the AK-47; Mikhail Kalashnikov, the designer of the AK-47, also tried the M-16.](http://9gag.com/gag/aGy5zL5)
- - ⏩ [Hmm, keep them caps](http://9gag.com/gag/aPA275K)
- - 👉 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)<!-- MEMES:END -->
+ - ⏩ [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
+ - 👉 [Justice for punchi](http://9gag.com/gag/a34r1A5)<!-- MEMES:END -->
 
 ---
 
