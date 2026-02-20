@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;ve never been but it sure looks like it&#39;d be a beautiful place to visit](http://9gag.com/gag/a5Q31xg)
- - ⏩ [Confusion of the highest order...](http://9gag.com/gag/a6Z61VL)
- - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
+ - 💣 [That look is universally understood](http://9gag.com/gag/aBy5nZD)
+ - ⏩ [In TV they say the country name as `Tche-Tchya`. I heard is watchin Canada - Czechia hockey game](http://9gag.com/gag/a4Pyo3m)
+ - 👉 [I&#39;m not christian, but god damn this guy makes good points](http://9gag.com/gag/agmwgK1)<!-- MEMES:END -->
 
 ---
 
