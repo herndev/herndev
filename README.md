@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s latest Kindle Scribe update marks a growing gap with the Colorsoft](https://www.androidauthority.com/kindle-scribe-colorsoft-update-3642568/)
- - [Sources: Emerald AI, which develops software to curb data center energy demand, is raising a $25M seed extension at a ~$250M post-money valuation &lpar;Alan Neuhauser/Axios&rpar;](http://www.techmeme.com/260219/p42#a260219p42)
- - [A $10K+ bounty is waiting for anyone who can unplug Ring doorbells from Amazon&amp;#8217;s cloud](https://www.theverge.com/tech/881678/ring-doorbell-bounty-amazon-servers-fulu)<!-- TECH:END -->
+ - [It’s official: Samsung is launching new Galaxy Buds alongside the Galaxy S26 next week](https://www.androidauthority.com/samsung-galaxy-buds-unpacked-launch-3642639/)
+ - [The executive that helped build Meta’s ad machine is trying to expose it](https://www.theverge.com/policy/881706/meta-executive-brian-boland-testimony-social-media-addiction-trial)
+ - [A Mystery Phone, Found in the Desert, Slowly Reveals Its Secrets](https://www.cnet.com/tech/mobile/samsung-phone-lost-in-desert-10-years-lives-again/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
