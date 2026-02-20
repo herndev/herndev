@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo turned its biggest flop into an expensive, uncomfortable novelty](https://www.theverge.com/games/881677/nintendo-switch-virtual-boy-review)
- - [Motorola Razr 2025 series finally gets stable Android 16 in US](https://www.androidauthority.com/motorola-razr-2025-series-android-16-us-3642747/)
- - [Your Coffee Grinder Is as Important as Your Brewer—Here Are the 5 Best We’ve Tested](https://www.wired.com/gallery/best-coffee-grinders/)<!-- TECH:END -->
+ - [I review laptops for The Verge, ask me anything](https://www.theverge.com/column/881567/i-review-laptops-for-the-verge-ask-me-anything)
+ - [The wellness wild west’s latest skincare fad is salmon sperm](https://www.theverge.com/column/881906/optimizer-wellness-wild-west-pdrn-salmon-sperm-skincare-rejuran)
+ - [Nintendo’s next big Pokémon presentation is on February 27th](https://www.theverge.com/games/881332/nintendo-pokemon-presents-pokemon-day)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
