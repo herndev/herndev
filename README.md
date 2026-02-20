@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Call Recording is rolling out to more Pixel phones worldwide](https://www.androidauthority.com/pixel-call-recording-worldwide-3642708/)
- - [Sources: SoftBank plans to form a consortium to build a $33B power plant in Ohio, set to produce 9.2 GW for AI data centers, as part of the US-Japan trade deal &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260220/p4#a260220p4)
- - [The Best Mushroom Gummies on the Market, Lab-Approved &lpar;2026&rpar;](https://www.wired.com/gallery/best-mushroom-gummies/)<!-- TECH:END -->
+ - [Galaxy Buds 4 and Buds 4 Pro prices leak, and it’s good news to our ears](https://www.androidauthority.com/galaxy-buds-4-price-leak-3642736/)
+ - [Epilogue GB Operator Review: Play Your Game Boy Games on a Laptop](https://www.wired.com/review/epilogue-gb-operator/)
+ - [Meta will ruin its smart glasses by being Meta](https://www.theverge.com/column/881744/meta-smart-glasses-facial-recognition-rayban-privacy-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
