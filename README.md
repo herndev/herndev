@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;ve never been but it sure looks like it&#39;d be a beautiful place to visit](http://9gag.com/gag/a5Q31xg)
- - ⏩ [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
- - 👉 [Story of punchi](http://9gag.com/gag/a1mj1D8)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/a34r1Wv)
+ - ⏩ [We need more karma](http://9gag.com/gag/aE058j9)
+ - 👉 [That look is universally understood](http://9gag.com/gag/aBy5nZD)<!-- MEMES:END -->
 
 ---
 
