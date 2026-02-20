@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supreme Court’s tariff ruling could be good news for device pricing](https://www.androidauthority.com/scotus-strikes-down-tariffs-3642826/)
- - [The Kindle Oasis is back on Amazon, but it won’t last long](https://www.androidauthority.com/kindle-oasis-limited-stock-available-now-3640599/)
- - [Metadata Exposes Authors of ICE’s ‘Mega’ Detention Center Plans](https://www.wired.com/story/metadata-exposes-authors-of-ices-mega-detention-center-plans/)<!-- TECH:END -->
+ - [Anthropic launches Claude Code Security, which &quot;scans codebases for security vulnerabilities and suggests targeted software patches&quot;; cybersecurity stocks fall &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/260220/p16#a260220p16)
+ - [Trump fights back, replaces struck-down reciprocal tariffs with 10% global import tax](https://appleinsider.com/articles/26/02/20/trump-fights-back-replaces-struck-down-reciprocal-tariffs-with-10-global-import-tax?utm_source=rss)
+ - [You can save $30 on Sony’s DualSense Edge controller by buying refurbished](https://www.theverge.com/gadgets/815676/sony-playstation-dualsense-edge-controller-refurbished-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
