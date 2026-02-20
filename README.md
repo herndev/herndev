@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stanley Kubrick&#39;s final film is streaming free on Tubi](https://www.polygon.com/stanley-kubrick-eyes-wide-shut-dream-story-analysis-streaming/)
- - [PlayStation Fans Are Furious And They’re Taking It Out On Marathon](https://kotaku.com/playstation-fans-mad-marathon-bluepoint-boycott-ps5-bungie-2000672040)
- - [Imagine if politics were full of monsters! Haha, no, I mean fun monsters like vampires, orcs, and goblins who use cards to hurl insults and smears at each other](https://www.pcgamer.com/games/roguelike/imagine-if-politics-were-full-of-monsters-haha-no-i-mean-fun-monsters-like-vampires-orcs-and-goblins-who-use-cards-to-hurl-insults-and-smears-at-each-other/)<!-- GAME:END -->
+ - [Xbox boss Phil Spencer is retiring, and his replacement is an AI executive who joined Microsoft in 2024](https://www.pcgamer.com/gaming-industry/xbox-boss-phil-spencer-is-retiring-and-his-replacement-is-an-ai-executive-who-joined-microsoft-in-2024/)
+ - [Xbox’s New Boss Promises Not To Flood It With ‘Soulless AI Slop’](https://kotaku.com/xboxs-new-boss-promises-not-to-flood-it-with-soulless-ai-slop-2000672087)
+ - [Xbox boss Phil Spencer retires, replaced by Microsoft AI exec, Asha Sharma](https://www.polygon.com/xbox-phil-spencer-retiring-microsoft-ai-exec-asha-sharma-sarah-bond/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
