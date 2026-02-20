@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)
- - ⏩ [Hmm, keep them caps](http://9gag.com/gag/aPA275K)
- - 👉 [Old but gold](http://9gag.com/gag/aPA2Z6n)<!-- MEMES:END -->
+ - 💣 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
+ - ⏩ [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
+ - 👉 [Eugene Stoner, the designer of the M-16, tried the AK-47; Mikhail Kalashnikov, the designer of the AK-47, also tried the M-16.](http://9gag.com/gag/aGy5zL5)<!-- MEMES:END -->
 
 ---
 
