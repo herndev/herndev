@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn ninjas cutting onions](http://9gag.com/gag/adBwgyV)
- - ⏩ [Lol](http://9gag.com/gag/a34r1Wv)
- - 👉 [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)<!-- MEMES:END -->
+ - 💣 [Story of punchi](http://9gag.com/gag/a1mj1D8)
+ - ⏩ [When Football Didn&#39;t need VAR](http://9gag.com/gag/a9y016j)
+ - 👉 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)<!-- MEMES:END -->
 
 ---
 
