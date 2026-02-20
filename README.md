@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lead story designer on the first Witcher game just rolled credits on a full playthrough, and you can watch the whole thing on YouTube](https://www.pcgamer.com/games/the-witcher/lead-story-designer-on-the-first-witcher-game-just-rolled-credits-on-a-full-playthrough-and-you-can-watch-the-whole-thing-on-youtube/)
- - [Blizzard isn&#39;t going to let World of Warcraft players suffer from outdated character customization for long, but it&#39;s going to take some time to fix](https://www.pcgamer.com/games/world-of-warcraft/blizzard-isnt-going-to-let-world-of-warcraft-players-suffer-from-outdated-character-customization-for-long-but-its-going-to-take-some-time-to-fix/)
- - [Fortnite&#39;s new NECA action figures are perfect](https://www.polygon.com/neca-fortnite-action-figures-ninja-turtles-horror/)<!-- GAME:END -->
+ - [BotW is closer to the 1986 Legend of Zelda than any other Zelda game](https://www.polygon.com/zelda-botw-breath-of-the-wild-1986-original/)
+ - [There could be a new God of War project involving new Kratos&#39; voice actor Christopher Judge revealed &#39;late summer&#39;, but nobody should feel great about how that news broke](https://www.pcgamer.com/games/action/there-could-be-a-new-god-of-war-project-involving-new-kratos-voice-actor-christopher-judge-revealed-late-summer-but-nobody-should-feel-great-about-how-that-news-broke/)
+ - [What does the Fancy Bow do in Mewgenics?](https://www.polygon.com/mewgenics-fancy-bow-how-to-use-purpose/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
