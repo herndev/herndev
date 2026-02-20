@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried Google’s new iPhone-only camera app, and now I need an Android version ASAP](https://www.androidauthority.com/google-snapseed-camera-ios-hands-on-3642515/)
- - [Leading US Research Lab Appears to Be Squeezing Out Foreign Scientists](https://www.wired.com/story/leading-us-research-lab-appears-to-be-squeezing-out-foreign-scientists/)
- - [The Olympics and Politics Are More Intertwined Than Ever. Maybe That’s a Good Thing](https://www.wired.com/story/the-olympics-and-politics-are-more-intertwined-than-ever/)<!-- TECH:END -->
+ - [As a phone-dropping veteran, here’s the Google Pixel 10a case I’d buy right away](https://www.androidauthority.com/best-google-pixel-10a-case-3642254/)
+ - [The Search Engine for OnlyFans Models Who Look Like Your Crush](https://www.wired.com/story/the-search-engine-for-onlyfans-models-who-look-like-your-crush/)
+ - [I use Google Messages every day, and these are my 10 favorite tips and tricks](https://www.androidauthority.com/google-messages-tips-tricks-2026-3641733/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
