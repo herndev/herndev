@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BotW is closer to the 1986 Legend of Zelda than any other Zelda game](https://www.polygon.com/zelda-botw-breath-of-the-wild-1986-original/)
- - [There could be a new God of War project involving new Kratos&#39; voice actor Christopher Judge revealed &#39;late summer&#39;, but nobody should feel great about how that news broke](https://www.pcgamer.com/games/action/there-could-be-a-new-god-of-war-project-involving-new-kratos-voice-actor-christopher-judge-revealed-late-summer-but-nobody-should-feel-great-about-how-that-news-broke/)
- - [What does the Fancy Bow do in Mewgenics?](https://www.polygon.com/mewgenics-fancy-bow-how-to-use-purpose/)<!-- GAME:END -->
+ - [Nothing beats putting all my little stuff on my many little shelves in a super cozy shop sim like Thrifty Business](https://www.pcgamer.com/games/sim/nothing-beats-putting-all-my-little-stuff-on-my-many-little-shelves-in-a-super-cozy-shop-sim-like-thrifty-business/)
+ - [God of War Sons of Sparta review: 2D Metroidvania gives Kratos new depth amid growing pains](https://www.polygon.com/god-of-war-sons-of-sparta-review/)
+ - [Best new Xbox Game Pass games to play this weekend &lpar;Feb. 20-22&rpar;](https://www.polygon.com/best-xbox-game-pass-games-february-20/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
