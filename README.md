@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is next level parenting](http://9gag.com/gag/amow5y4)
- - ⏩ [She didn&#39;t kill her self either.](http://9gag.com/gag/a5Q3E4y)
+ - 💣 [I guess at this point, nothing should surprise me anymore.](http://9gag.com/gag/a0eqRXz)
+ - ⏩ [This is next level parenting](http://9gag.com/gag/amow5y4)
  - 👉 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)<!-- MEMES:END -->
 
 ---
