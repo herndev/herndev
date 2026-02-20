@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic launches Claude Code Security, which &quot;scans codebases for security vulnerabilities and suggests targeted software patches&quot;; cybersecurity stocks fall &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/260220/p16#a260220p16)
- - [Trump fights back, replaces struck-down reciprocal tariffs with 10% global import tax](https://appleinsider.com/articles/26/02/20/trump-fights-back-replaces-struck-down-reciprocal-tariffs-with-10-global-import-tax?utm_source=rss)
- - [You can save $30 on Sony’s DualSense Edge controller by buying refurbished](https://www.theverge.com/gadgets/815676/sony-playstation-dualsense-edge-controller-refurbished-deal-sale)<!-- TECH:END -->
+ - [Microsoft says today’s Xbox shakeup doesn’t mean game studio layoffs](https://www.theverge.com/games/882377/microsoft-says-todays-xbox-shakeup-doesnt-mean-game-studio-layoffs)
+ - [Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft](https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out)
+ - [Our Reviewers’ Top TV Pick for Gamers Is at Its Lowest Price in Months](https://www.wired.com/story/samsung-s90f-deal-226/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
