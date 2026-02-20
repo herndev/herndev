@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says today’s Xbox shakeup doesn’t mean game studio layoffs](https://www.theverge.com/games/882377/microsoft-says-todays-xbox-shakeup-doesnt-mean-game-studio-layoffs)
- - [Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft](https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out)
- - [Our Reviewers’ Top TV Pick for Gamers Is at Its Lowest Price in Months](https://www.wired.com/story/samsung-s90f-deal-226/)<!-- TECH:END -->
+ - [YouTube is ruining the Subscriptions section with a new test](https://www.androidauthority.com/youtube-subscription-section-test-3642927/)
+ - [Government Docs Reveal New Details About Tesla and Waymo Robotaxis’ Human Babysitters](https://www.wired.com/story/government-docs-reveal-new-details-about-tesla-and-waymo-robotaxi-programs/)
+ - [Sources: OpenAI staff raised concerns about a Canadian mass shooting suspect months ago; OpenAI says her activity didn&#39;t meet the bar for reporting to police &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/260220/p19#a260220p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
