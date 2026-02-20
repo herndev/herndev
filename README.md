@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
- - ⏩ [I&#39;ve never been but it sure looks like it&#39;d be a beautiful place to visit](http://9gag.com/gag/a5Q31xg)
- - 👉 [If you don&#39;t like it. You might have PDS](http://9gag.com/gag/aQz5X3q)<!-- MEMES:END -->
+ - 💣 [Cucumber-carrot](http://9gag.com/gag/aPA2ZRR)
+ - ⏩ [I&#39;m not christian, but god damn this guy makes good points](http://9gag.com/gag/agmwgK1)
+ - 👉 [In TV they say the country name as `Tche-Tchya`. I heard is watchin Canada - Czechia hockey game](http://9gag.com/gag/a4Pyo3m)<!-- MEMES:END -->
 
 ---
 
