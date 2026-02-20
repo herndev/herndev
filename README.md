@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Safety Meets the War Machine](https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/)
- - [Amazon blames human employees for an AI coding agent&amp;#8217;s mistake](https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake)
- - [OpenAI&amp;#8217;s first ChatGPT gadget could be a smart speaker with a camera](https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp)<!-- TECH:END -->
+ - [Everything is gambling now: the latest news on prediction markets like Polymarket and Kalshi](https://www.theverge.com/news/868238/prediction-markets-polymarket-kalshi-robinhood)
+ - [Tech stocks rise slightly from their morning lows after the Supreme Court ruled that President Trump lacked the authority to impose sweeping global tariffs &lpar;Adam Levine/Barron&#39;s Online&rpar;](http://www.techmeme.com/260220/p12#a260220p12)
+ - [Peak XV, which split from Sequoia in 2023, raised $1.3B across new India- and Asia-focused funds, bringing its total assets under management to over $10B &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260220/p11#a260220p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
