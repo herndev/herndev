@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 11 could get a significant hardware security boost](https://www.androidauthority.com/google-pixel-11-security-hardware-upgrade-leak-3642678/)
- - [Google rejected 1.75M policy-violating Android apps and blocked 80K+ developer accounts from Google Play in 2025, down from 2.36M apps and 158K accounts in 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260220/p2#a260220p2)
- - [H&amp;R Block Coupons and Deals: $50 Off Tax Prep in 2026](https://www.wired.com/story/hr-block-coupon/)<!-- TECH:END -->
+ - [I tried Google’s new iPhone-only camera app, and now I need an Android version ASAP](https://www.androidauthority.com/google-snapseed-camera-ios-hands-on-3642515/)
+ - [Leading US Research Lab Appears to Be Squeezing Out Foreign Scientists](https://www.wired.com/story/leading-us-research-lab-appears-to-be-squeezing-out-foreign-scientists/)
+ - [The Olympics and Politics Are More Intertwined Than Ever. Maybe That’s a Good Thing](https://www.wired.com/story/the-olympics-and-politics-are-more-intertwined-than-ever/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
