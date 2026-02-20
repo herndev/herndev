@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old but gold](http://9gag.com/gag/aPA2Z6n)
- - ⏩ [The Andrew formerly known as Prince.](http://9gag.com/gag/aPA232q)
- - 👉 [I built a 3D metal scorpion so you don&#39;t have to](http://9gag.com/gag/agmwgj6)<!-- MEMES:END -->
+ - 💣 [Eugene Stoner, the designer of the M-16, tried the AK-47; Mikhail Kalashnikov, the designer of the AK-47, also tried the M-16.](http://9gag.com/gag/aGy5zL5)
+ - ⏩ [Hmm, keep them caps](http://9gag.com/gag/aPA275K)
+ - 👉 [Happy Birthday, Andrew. Enjoy your day in police custody &lpar;yes, he has been arrested&rpar;.](http://9gag.com/gag/aoywMAg)<!-- MEMES:END -->
 
 ---
 
