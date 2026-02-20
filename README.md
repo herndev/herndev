@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)
- - ⏩ [Just another day in the UK.](http://9gag.com/gag/avywAMO)
- - 👉 [Training for what?](http://9gag.com/gag/aE05qxp)<!-- MEMES:END -->
+ - 💣 [Completely legal traffic hack](http://9gag.com/gag/aLn51Rg)
+ - ⏩ [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
+ - 👉 [I never understood how people fall for scams...](http://9gag.com/gag/an7wzg0)<!-- MEMES:END -->
 
 ---
 
