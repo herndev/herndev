@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Story of punchi](http://9gag.com/gag/a1mj1D8)
- - ⏩ [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
+ - 💣 [Because - F*ck You that\u2019s why](http://9gag.com/gag/aO853gE)
+ - ⏩ [Story of punchi](http://9gag.com/gag/a1mj1D8)
  - 👉 [I know a guy who could do it cheaper](http://9gag.com/gag/aLn5p4P)<!-- MEMES:END -->
 
 ---
