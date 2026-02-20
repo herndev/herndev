@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is ruining the Subscriptions section with a new test](https://www.androidauthority.com/youtube-subscription-section-test-3642927/)
- - [Government Docs Reveal New Details About Tesla and Waymo Robotaxis’ Human Babysitters](https://www.wired.com/story/government-docs-reveal-new-details-about-tesla-and-waymo-robotaxi-programs/)
- - [Sources: OpenAI staff raised concerns about a Canadian mass shooting suspect months ago; OpenAI says her activity didn&#39;t meet the bar for reporting to police &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/260220/p19#a260220p19)<!-- TECH:END -->
+ - [Sources: OpenAI is telling investors it&#39;s targeting ~$600B in total compute spend by 2030, months after Sam Altman touted $1.4T in infrastructure commitments &lpar;CNBC&rpar;](http://www.techmeme.com/260220/p20#a260220p20)
+ - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [Android malware is now using Gemini AI to adapt in real time &lpar;Updated: Google statement&rpar;](https://www.androidauthority.com/android-malware-promptspy-uses-generative-ai-gemini-3642832/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
