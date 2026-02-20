@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As a phone-dropping veteran, here’s the Google Pixel 10a case I’d buy right away](https://www.androidauthority.com/best-google-pixel-10a-case-3642254/)
- - [The Search Engine for OnlyFans Models Who Look Like Your Crush](https://www.wired.com/story/the-search-engine-for-onlyfans-models-who-look-like-your-crush/)
- - [I use Google Messages every day, and these are my 10 favorite tips and tricks](https://www.androidauthority.com/google-messages-tips-tricks-2026-3641733/)<!-- TECH:END -->
+ - [Call Recording is rolling out to more Pixel phones worldwide](https://www.androidauthority.com/pixel-call-recording-worldwide-3642708/)
+ - [Sources: SoftBank plans to form a consortium to build a $33B power plant in Ohio, set to produce 9.2 GW for AI data centers, as part of the US-Japan trade deal &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260220/p4#a260220p4)
+ - [The Best Mushroom Gummies on the Market, Lab-Approved &lpar;2026&rpar;](https://www.wired.com/gallery/best-mushroom-gummies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
