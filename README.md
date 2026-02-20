@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything is gambling now: the latest news on prediction markets like Polymarket and Kalshi](https://www.theverge.com/news/868238/prediction-markets-polymarket-kalshi-robinhood)
- - [Tech stocks rise slightly from their morning lows after the Supreme Court ruled that President Trump lacked the authority to impose sweeping global tariffs &lpar;Adam Levine/Barron&#39;s Online&rpar;](http://www.techmeme.com/260220/p12#a260220p12)
- - [Peak XV, which split from Sequoia in 2023, raised $1.3B across new India- and Asia-focused funds, bringing its total assets under management to over $10B &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260220/p11#a260220p11)<!-- TECH:END -->
+ - [Supreme Court’s tariff ruling could be good news for device pricing](https://www.androidauthority.com/scotus-strikes-down-tariffs-3642826/)
+ - [The Kindle Oasis is back on Amazon, but it won’t last long](https://www.androidauthority.com/kindle-oasis-limited-stock-available-now-3640599/)
+ - [Metadata Exposes Authors of ICE’s ‘Mega’ Detention Center Plans](https://www.wired.com/story/metadata-exposes-authors-of-ices-mega-detention-center-plans/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
