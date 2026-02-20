@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I review laptops for The Verge, ask me anything](https://www.theverge.com/column/881567/i-review-laptops-for-the-verge-ask-me-anything)
- - [The wellness wild west’s latest skincare fad is salmon sperm](https://www.theverge.com/column/881906/optimizer-wellness-wild-west-pdrn-salmon-sperm-skincare-rejuran)
- - [Nintendo’s next big Pokémon presentation is on February 27th](https://www.theverge.com/games/881332/nintendo-pokemon-presents-pokemon-day)<!-- TECH:END -->
+ - [Trump&#39;s &#39;reciprocal&#39; tariffs that cost Apple $2 billion shot down by Supreme Court](https://appleinsider.com/articles/26/02/20/trumps-reciprocal-tariffs-that-cost-apple-2-billion-shot-down-by-supreme-court?utm_source=rss)
+ - [YouTube TV subscribers complain sports programming needs better labeling](https://www.androidauthority.com/youtube-tv-sports-gender-3642779/)
+ - [Sources: OpenAI has 200+ people working on a family of AI devices, including a smart speaker priced from $200 to $300, possibly smart glasses and a smart lamp &lpar;The Information&rpar;](http://www.techmeme.com/260220/p9#a260220p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
