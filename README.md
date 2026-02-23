@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft](https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out)
- - [Hank Green will gladly take billionaire money for education videos](https://www.theverge.com/podcast/882021/hank-green-complexly-non-profit-youtube-ai-algorithms-interview)
- - [Inside Microsoft’s big Xbox leadership shake-up](https://www.theverge.com/tech/883015/microsoft-xbox-new-ceo-shakeup-notepad)<!-- TECH:END -->
+ - [If Big Tech cared about fighting AI slop, it wouldn’t be drowning us in it](https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube)
+ - [Finnish quantum computing company IQM plans to go public via a SPAC merger with New Jersey-based Real Asset Acquisition in a deal set to value it at $1.8B &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260223/p16#a260223p16)
+ - [Yep, it’s fast: Donut Lab’s solid-state battery gets its first test result](https://www.theverge.com/transportation/882993/donut-labs-solid-state-battery-charge-speed-vtt-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
