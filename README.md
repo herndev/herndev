@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cucumber-carrot](http://9gag.com/gag/aPA2ZRR)
- - ⏩ [I&#39;m not christian, but god damn this guy makes good points](http://9gag.com/gag/agmwgK1)
- - 👉 [In TV they say the country name as `Tche-Tchya`. I heard is watchin Canada - Czechia hockey game](http://9gag.com/gag/a4Pyo3m)<!-- MEMES:END -->
+ - 💣 [She&#39;s pretty](http://9gag.com/gag/aoywWRe)
+ - ⏩ [Netflix interview](http://9gag.com/gag/ae9w92b)
+ - 👉 [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)<!-- MEMES:END -->
 
 ---
 
