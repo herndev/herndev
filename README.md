@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A thought experiment imagines the AI-driven &quot;2028 Global Intelligence Crisis&quot;: S&amp;P down, high unemployment, and economy failing, as AI exceeds every expectation &lpar;Citrini Research&rpar;](http://www.techmeme.com/260223/p6#a260223p6)
- - [The Pixel 10a isn’t a bad upgrade — it’s the future of modern Android phones](https://www.androidauthority.com/google-pixel-10a-boring-good-3642905/)
- - [Say Goodbye to the Undersea Cable That Made the Global Internet Possible](https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/)<!-- TECH:END -->
+ - [The Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2026](https://www.wired.com/gallery/the-best-ipad/)
+ - [Data center developers are seeking credit ratings even while facilities are under construction to unlock new capital; S&amp;P, Moody&#39;s, and others expand coverage &lpar;Michelle Chan/Financial Times&rpar;](http://www.techmeme.com/260223/p7#a260223p7)
+ - [A thought experiment imagines the AI-driven &quot;2028 Global Intelligence Crisis&quot;: S&amp;P down, high unemployment, and economy failing, as AI exceeds every expectation &lpar;Citrini Research&rpar;](http://www.techmeme.com/260223/p6#a260223p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
