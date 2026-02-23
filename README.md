@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Straight to jail](http://9gag.com/gag/awy2gpy)
- - ⏩ [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
- - 👉 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)<!-- MEMES:END -->
+ - ⏩ [Toxic coworkers](http://9gag.com/gag/a34r4Xv)
+ - 👉 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)<!-- MEMES:END -->
 
 ---
 
