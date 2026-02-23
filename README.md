@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Straight to jail](http://9gag.com/gag/awy2gpy)
- - ⏩ [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
- - 👉 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)<!-- MEMES:END -->
+ - 💣 [In This Economy](http://9gag.com/gag/aqyw8mY)
+ - ⏩ [Straight to jail](http://9gag.com/gag/awy2gpy)
+ - 👉 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)<!-- MEMES:END -->
 
 ---
 
