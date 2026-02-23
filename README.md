@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean trade data: chip exports rose 134% YoY, while computer peripherals rose 129% in the first 20 days of February, extending gains driven by AI demand &lpar;Heesu Lee/Bloomberg&rpar;](http://www.techmeme.com/260223/p4#a260223p4)
- - [Galaxy S22 owners are dealing with endless boot loops after the latest patch](https://www.androidauthority.com/galaxy-s22-boot-loop-issue-after-february-2026-update-3643129/)
- - [A look at the rising popularity of &quot;WorkTok&quot; videos, where employees film their daily work routines on TikTok and Instagram, particularly among Gen Z viewers &lpar;Kimi Chaddah/Financial Times&rpar;](http://www.techmeme.com/260223/p3#a260223p3)<!-- TECH:END -->
+ - [Nothing reveals the Phone 4a design ahead of its March 5 launch](https://www.androidauthority.com/nothing-phone-4a-official-renders-3643146/)
+ - [Reader poll reveals the most popular Galaxy S26 color ahead of launch](https://www.androidauthority.com/samsung-galaxy-s26-colors-poll-results-3643107/)
+ - [Whatever you do, don’t buy a Samsung Galaxy S phone right now](https://www.androidauthority.com/dont-buy-samsung-galaxy-s-phone-right-now-february-2026-3642815/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
