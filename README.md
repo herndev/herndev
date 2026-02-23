@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Dell, Lenovo, and other PC makers are working with Nvidia on laptops using the Arm-based Nvidia-MediaTek system-on-a-chip, which could come in H1 2026 &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/260222/p18#a260222p18)
  - [In recent interviews, Sam Altman said AI&#39;s adoption faces more resistance than he expected, while Jensen Huang warned the &quot;doomer narrative&quot; may be winning &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/260222/p17#a260222p17)
- - [NASA Delays Launch of Artemis II Lunar Mission Once Again](https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/)
- - [US farmers are increasingly rejecting multimillion-dollar offers from data center developers; some estimate ~40K acres are needed globally for new AI projects &lpar;Niamh Rowe/The Guardian&rpar;](http://www.techmeme.com/260222/p16#a260222p16)<!-- TECH:END -->
+ - [NASA Delays Launch of Artemis II Lunar Mission Once Again](https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
