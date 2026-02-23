@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hummmm](http://9gag.com/gag/a7oXOQA)
- - ⏩ [She&#39;s pretty](http://9gag.com/gag/aoywWRe)
- - 👉 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)<!-- MEMES:END -->
+ - 💣 [Straight to jail](http://9gag.com/gag/awy2gpy)
+ - ⏩ [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
+ - 👉 [Dirty water is for you poors](http://9gag.com/gag/a7oXO5L)<!-- MEMES:END -->
 
 ---
 
