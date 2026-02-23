@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is telling investors it&#39;s targeting ~$600B in total compute spend by 2030, months after Sam Altman touted $1.4T in infrastructure commitments &lpar;CNBC&rpar;](http://www.techmeme.com/260220/p20#a260220p20)
- - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Android malware is now using Gemini AI to adapt in real time &lpar;Updated: Google statement&rpar;](https://www.androidauthority.com/android-malware-promptspy-uses-generative-ai-gemini-3642832/)<!-- TECH:END -->
+ - [Tencent closed its TiMi Montréal studio after nearly five years, without ever releasing a game, as Chinese giants scale back funding for Western game studios &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/260222/p15#a260222p15)
+ - [Samsung is adding Perplexity to Galaxy AI](https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai)
+ - [Documents submitted by Waymo and Tesla to the US government reveal new info about the remote assistance programs for their robotaxis, staffed by human operators &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/260222/p14#a260222p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
