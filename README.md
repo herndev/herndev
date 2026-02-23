@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Trump&#39;s &quot;Board of Peace&quot; is exploring a USD-pegged stablecoin for Gaza; a source says it will not be a &quot;Gaza Coin&quot; or a new Palestinian currency &lpar;Financial Times&rpar;](http://www.techmeme.com/260223/p19#a260223p19)
- - [The US Had a Big Battery Boom Last Year](https://www.wired.com/story/the-us-had-a-big-battery-boom-last-year/)
- - [Lamborghini is the Latest Automaker to Pull the Plug on Luxury EVs](https://www.wired.com/story/lamborghini-is-latest-to-pull-the-plug-on-luxury-evs/)<!-- TECH:END -->
+ - [Apple’s newest AirTags are already on sale if you’re looking to upgrade](https://www.theverge.com/gadgets/883101/apple-airtag-second-gen-location-bluetooth-tracker-costco-deal-sale)
+ - [Internal memo: Lightricks, creator of photo editing app Facetune, is splitting its consumer app unit from its GenAI unit LTX to better capture the growth in AI &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260223/p21#a260223p21)
+ - [Android Auto users are running into a major hands-free issue](https://www.androidauthority.com/android-auto-voice-commands-not-available-3643228/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
