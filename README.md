@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung will add Perplexity to Galaxy AI on the upcoming S26 series; users can launch the Perplexity agent by saying &quot;Hey Plex&quot; or with a physical helper button &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/260222/p22#a260222p22)
  - [OpenAI scrambled for compute power after the Stargate project stalled; sources: OpenAI still plans to build its own data centers, but not in the near future &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/260222/p21#a260222p21)
- - [Google Antigravity users say their paid Google AI accounts were banned after linking Gemini models via OpenClaw; Peter Steinberger says he may &quot;remove support&quot; &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260222/p20#a260222p20)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 23, #518](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-23-518/)<!-- TECH:END -->
+ - [Google Antigravity users say their paid Google AI accounts were banned after linking Gemini models via OpenClaw; Peter Steinberger says he may &quot;remove support&quot; &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260222/p20#a260222p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
