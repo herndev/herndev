@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2026](https://www.wired.com/gallery/the-best-ipad/)
- - [Data center developers are seeking credit ratings even while facilities are under construction to unlock new capital; S&amp;P, Moody&#39;s, and others expand coverage &lpar;Michelle Chan/Financial Times&rpar;](http://www.techmeme.com/260223/p7#a260223p7)
- - [A thought experiment imagines the AI-driven &quot;2028 Global Intelligence Crisis&quot;: S&amp;P down, high unemployment, and economy failing, as AI exceeds every expectation &lpar;Citrini Research&rpar;](http://www.techmeme.com/260223/p6#a260223p6)<!-- TECH:END -->
+ - [Uber launches Uber Autonomous Solutions, offering services like insurance, roadside assistance, and &quot;AV mission control&quot; tools, and will offer fleet financing &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260223/p10#a260223p10)
+ - [Nothing couldn’t wait to show off the Phone 4A](https://www.theverge.com/gadgets/882983/nothing-phone-4a-official-design-glyph-bar)
+ - [The Moto G Power &lpar;2026&rpar; is the cheapest Motorola phone you might actually like](https://www.androidauthority.com/motorola-moto-g-power-2026-review-3638353/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
