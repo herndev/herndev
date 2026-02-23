@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If Big Tech cared about fighting AI slop, it wouldn’t be drowning us in it](https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube)
- - [Finnish quantum computing company IQM plans to go public via a SPAC merger with New Jersey-based Real Asset Acquisition in a deal set to value it at $1.8B &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260223/p16#a260223p16)
- - [Yep, it’s fast: Donut Lab’s solid-state battery gets its first test result](https://www.theverge.com/transportation/882993/donut-labs-solid-state-battery-charge-speed-vtt-test)<!-- TECH:END -->
+ - [Sources: Trump&#39;s &quot;Board of Peace&quot; is exploring a USD-pegged stablecoin for Gaza; a source says it will not be a &quot;Gaza Coin&quot; or a new Palestinian currency &lpar;Financial Times&rpar;](http://www.techmeme.com/260223/p19#a260223p19)
+ - [The US Had a Big Battery Boom Last Year](https://www.wired.com/story/the-us-had-a-big-battery-boom-last-year/)
+ - [Lamborghini is the Latest Automaker to Pull the Plug on Luxury EVs](https://www.wired.com/story/lamborghini-is-latest-to-pull-the-plug-on-luxury-evs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
