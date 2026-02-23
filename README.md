@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent closed its TiMi Montréal studio after nearly five years, without ever releasing a game, as Chinese giants scale back funding for Western game studios &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/260222/p15#a260222p15)
- - [Samsung is adding Perplexity to Galaxy AI](https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai)
- - [Documents submitted by Waymo and Tesla to the US government reveal new info about the remote assistance programs for their robotaxis, staffed by human operators &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/260222/p14#a260222p14)<!-- TECH:END -->
+ - [In recent interviews, Sam Altman said AI&#39;s adoption faces more resistance than he expected, while Jensen Huang warned the &quot;doomer narrative&quot; may be winning &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/260222/p17#a260222p17)
+ - [NASA Delays Launch of Artemis II Lunar Mission Once Again](https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/)
+ - [US farmers are increasingly rejecting multimillion-dollar offers from data center developers; some estimate ~40K acres are needed globally for new AI projects &lpar;Niamh Rowe/The Guardian&rpar;](http://www.techmeme.com/260222/p16#a260222p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
