@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looks like Samsung’s Privacy Display trick won’t remain exclusive for long](https://www.androidauthority.com/samsung-privacy-display-coming-to-more-android-phones-3643074/)
- - [A look at Japan&#39;s Team Mirai, a party founded by software engineers that won 11 of 465 parliament seats by promising self-driving buses and high-tech jobs &lpar;New York Times&rpar;](http://www.techmeme.com/260223/p2#a260223p2)
- - [Early Galaxy S26 Ultra hands-on video reveals bad news for S Pen fans](https://www.androidauthority.com/samsung-galaxy-s26-ultra-bluetooth-s-pen-leak-3643067/)<!-- TECH:END -->
+ - [South Korean trade data: chip exports rose 134% YoY, while computer peripherals rose 129% in the first 20 days of February, extending gains driven by AI demand &lpar;Heesu Lee/Bloomberg&rpar;](http://www.techmeme.com/260223/p4#a260223p4)
+ - [Galaxy S22 owners are dealing with endless boot loops after the latest patch](https://www.androidauthority.com/galaxy-s22-boot-loop-issue-after-february-2026-update-3643129/)
+ - [A look at the rising popularity of &quot;WorkTok&quot; videos, where employees film their daily work routines on TikTok and Instagram, particularly among Gen Z viewers &lpar;Kimi Chaddah/Financial Times&rpar;](http://www.techmeme.com/260223/p3#a260223p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
