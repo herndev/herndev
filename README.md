@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Toxic coworkers](http://9gag.com/gag/a34r4Xv)
- - ⏩ [In This Economy](http://9gag.com/gag/aqyw8mY)
- - 👉 [Straight to jail](http://9gag.com/gag/awy2gpy)<!-- MEMES:END -->
+ - 💣 [What the actual fook](http://9gag.com/gag/abAwej8)
+ - ⏩ [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
+ - 👉 [In This Economy](http://9gag.com/gag/aqyw8mY)<!-- MEMES:END -->
 
 ---
 
