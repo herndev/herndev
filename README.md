@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages starts simplifying how you create new group chats](https://www.androidauthority.com/google-messages-group-chats-3643242/)
- - [Will Trump’s DOJ actually take on Ticketmaster?](https://www.theverge.com/policy/883155/doj-antitrust-division-gail-slater-live-nation-ticketmaster-trial)
- - [IBM shares fall 12%+ after Anthropic outlined in a blog post how Claude Code can automate the exploration and analysis phases of COBOL modernization &lpar;Pia Singh/CNBC&rpar;](http://www.techmeme.com/260223/p26#a260223p26)<!-- TECH:END -->
+ - [Some of you are about to lose your free HBO Max perk](https://www.androidauthority.com/hbo-max-dropped-from-doordash-dashpass-3643320/)
+ - [Samsung’s Galaxy Book 6 series will get a US launch next month and a slight price hike](https://www.androidauthority.com/samsung-galaxy-book-6-us-launch-pricing-3643301/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 24, #519](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-24-519/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
