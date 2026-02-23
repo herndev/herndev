@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ubicquia, which provides software to utilities, cities, and companies to manage energy infrastructure like transformers, raised a $106M Series D &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/260223/p23#a260223p23)
- - [Google TV is getting stuck in a search loop thanks to Gemini](https://www.androidauthority.com/google-tv-gemini-search-loop-3643225/)
- - [Anthropic says DeepSeek, MiniMax, and Moonshot violated its ToS by prompting Claude a combined 16M+ times and using distillation to train their own products &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260223/p22#a260223p22)<!-- TECH:END -->
+ - [Uncanny Valley: AI Researchers’ Resignations, Bots Hiring Humans, Evie Magazine’s Party](https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/)
+ - [Some AI startups are boosting their valuations by raising capital in back-to-back or multitiered deals, raising questions about how much they are really worth &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p24#a260223p24)
+ - [Is Amazon&#39;s Spring Sale Happening This Year? Here&#39;s How We&#39;re Getting Ready](https://www.cnet.com/tech/everything-we-know-about-the-amazon-spring-sale/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
