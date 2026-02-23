@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing reveals the Phone 4a design ahead of its March 5 launch](https://www.androidauthority.com/nothing-phone-4a-official-renders-3643146/)
- - [Reader poll reveals the most popular Galaxy S26 color ahead of launch](https://www.androidauthority.com/samsung-galaxy-s26-colors-poll-results-3643107/)
- - [Whatever you do, don’t buy a Samsung Galaxy S phone right now](https://www.androidauthority.com/dont-buy-samsung-galaxy-s-phone-right-now-february-2026-3642815/)<!-- TECH:END -->
+ - [A thought experiment imagines the AI-driven &quot;2028 Global Intelligence Crisis&quot;: S&amp;P down, high unemployment, and economy failing, as AI exceeds every expectation &lpar;Citrini Research&rpar;](http://www.techmeme.com/260223/p6#a260223p6)
+ - [The Pixel 10a isn’t a bad upgrade — it’s the future of modern Android phones](https://www.androidauthority.com/google-pixel-10a-boring-good-3642905/)
+ - [Say Goodbye to the Undersea Cable That Made the Global Internet Possible](https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
