@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some of you are about to lose your free HBO Max perk](https://www.androidauthority.com/hbo-max-dropped-from-doordash-dashpass-3643320/)
- - [Samsung’s Galaxy Book 6 series will get a US launch next month and a slight price hike](https://www.androidauthority.com/samsung-galaxy-book-6-us-launch-pricing-3643301/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Feb. 24, #519](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-feb-24-519/)<!-- TECH:END -->
+ - [6 Best Duffel Bags We Tested While Traveling &lpar;2026&rpar;](https://www.wired.com/gallery/best-duffel-bags/)
+ - [Uber agrees to acquire SpotHero for an undisclosed sum, to offer parking reservation for events and at venues and airports; SpotHero was last valued at $290M &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/260223/p27#a260223p27)
+ - [Samsung Galaxy Unpacked 2026 Is Days Away: Galaxy S26 Rumors, Release Date and More](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
