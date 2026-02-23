@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Someone got the Galaxy S26 Ultra and went hands-on with the new Privacy Display](https://www.androidauthority.com/samsung-galaxy-s26-ultra-privacy-display-hands-on-leak-3643064/)
- - [A look at CISA during Trump&#39;s second term as it navigates job cuts, continues to operate without a Senate-confirmed leader, and faces a demoralized workforce &lpar;Adam Sella/New York Times&rpar;](http://www.techmeme.com/260223/p1#a260223p1)
- - [Samsung will add Perplexity to Galaxy AI on the upcoming S26 series; users can launch the Perplexity agent by saying &quot;Hey Plex&quot; or with a physical helper button &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/260222/p22#a260222p22)<!-- TECH:END -->
+ - [Looks like Samsung’s Privacy Display trick won’t remain exclusive for long](https://www.androidauthority.com/samsung-privacy-display-coming-to-more-android-phones-3643074/)
+ - [A look at Japan&#39;s Team Mirai, a party founded by software engineers that won 11 of 465 parliament seats by promising self-driving buses and high-tech jobs &lpar;New York Times&rpar;](http://www.techmeme.com/260223/p2#a260223p2)
+ - [Early Galaxy S26 Ultra hands-on video reveals bad news for S Pen fans](https://www.androidauthority.com/samsung-galaxy-s26-ultra-bluetooth-s-pen-leak-3643067/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
