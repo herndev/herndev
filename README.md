@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HR app Humand, used by 1.5M+ &quot;deskless&quot; workers in construction, retail, hospitals, and more, raised a $66M Series A led by Goodwater and Kaszek &lpar;Maria Clara Cobo/Bloomberg&rpar;](http://www.techmeme.com/260223/p11#a260223p11)
- - [Uber launches Uber Autonomous Solutions, offering services like insurance, roadside assistance, and &quot;AV mission control&quot; tools, and will offer fleet financing &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260223/p10#a260223p10)
- - [Nothing couldn’t wait to show off the Phone 4A](https://www.theverge.com/gadgets/882983/nothing-phone-4a-official-design-glyph-bar)<!-- TECH:END -->
+ - [Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft](https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out)
+ - [Hank Green will gladly take billionaire money for education videos](https://www.theverge.com/podcast/882021/hank-green-complexly-non-profit-youtube-ai-algorithms-interview)
+ - [Inside Microsoft’s big Xbox leadership shake-up](https://www.theverge.com/tech/883015/microsoft-xbox-new-ceo-shakeup-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
