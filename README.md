@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He was too stunned to speak](http://9gag.com/gag/aqywXgQ)
- - ⏩ [This might be overkill .. a litte bit.](http://9gag.com/gag/a7oXoAz)
+ - 💣 [The Danish army conducted IQ tests, then grouped the results by first name.](http://9gag.com/gag/aGy5LY0)
+ - ⏩ [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
  - 👉 [Straight to jail](http://9gag.com/gag/awy2gpy)<!-- MEMES:END -->
 
 ---
