@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s newest AirTags are already on sale if you’re looking to upgrade](https://www.theverge.com/gadgets/883101/apple-airtag-second-gen-location-bluetooth-tracker-costco-deal-sale)
- - [Internal memo: Lightricks, creator of photo editing app Facetune, is splitting its consumer app unit from its GenAI unit LTX to better capture the growth in AI &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260223/p21#a260223p21)
- - [Android Auto users are running into a major hands-free issue](https://www.androidauthority.com/android-auto-voice-commands-not-available-3643228/)<!-- TECH:END -->
+ - [Ubicquia, which provides software to utilities, cities, and companies to manage energy infrastructure like transformers, raised a $106M Series D &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/260223/p23#a260223p23)
+ - [Google TV is getting stuck in a search loop thanks to Gemini](https://www.androidauthority.com/google-tv-gemini-search-loop-3643225/)
+ - [Anthropic says DeepSeek, MiniMax, and Moonshot violated its ToS by prompting Claude a combined 16M+ times and using distillation to train their own products &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260223/p22#a260223p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
