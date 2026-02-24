@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First look: Google Messages is finally catching up with live location sharing](https://www.androidauthority.com/google-messages-real-time-location-sharing-3643366/)
  - [A look at Apple&#39;s efforts to reshore the US chip supply chain, as the company commits to buying more than 100M chips from TSMC Arizona in 2026 &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p36#a260223p36)
- - [Apple says it plans to move some production of Mac Mini to Houston from Asia later in 2026, as part of its efforts to invest $600B in the US over four years &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p35#a260223p35)
- - [The Galaxy S26 series may already be behind Pixel phones in one big way](https://www.androidauthority.com/galaxy-s26-find-offline-3643363/)<!-- TECH:END -->
+ - [Apple says it plans to move some production of Mac Mini to Houston from Asia later in 2026, as part of its efforts to invest $600B in the US over four years &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p35#a260223p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
