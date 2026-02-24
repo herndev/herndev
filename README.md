@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is making Wear OS watches more self-reliant in emergencies](https://www.androidauthority.com/wear-os-earthquake-alerts-update-3643383/)
- - [First look: Google Messages is finally catching up with live location sharing](https://www.androidauthority.com/google-messages-real-time-location-sharing-3643366/)
- - [A look at Apple&#39;s efforts to reshore the US chip supply chain, as the company commits to buying more than 100M chips from TSMC Arizona in 2026 &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p36#a260223p36)<!-- TECH:END -->
+ - [Bengaluru-based Xflow, which facilitates B2B cross-border payments, raised a $16.6M Series A led by GC at an $85M valuation, bringing its total raised to $32M+ &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260224/p2#a260224p2)
+ - [Filings: some Meta execs warned in 2019 that adding E2E encryption to Facebook and Instagram messaging would hinder the ability to flag CSAM to law enforcement &lpar;Reuters&rpar;](http://www.techmeme.com/260224/p1#a260224p1)
+ - [Google is making Wear OS watches more self-reliant in emergencies](https://www.androidauthority.com/wear-os-earthquake-alerts-update-3643383/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
