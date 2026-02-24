@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ADT agrees to acquire Origin Wireless for $170M to integrate advanced AI motion classification into its popular home security suite starting in 2027 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260224/p20#a260224p20)
- - [MatX, an AI chip startup founded by two alumni of Google&#39;s chip business, raised $500M+ led by Jane Street and Situational Awareness to compete with Nvidia &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260224/p19#a260224p19)
- - [Stripe hits a $159B valuation after an employee share sale to investors like Thrive, Coatue, and a16z, a 70% jump from its $92B valuation in February 2025 &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/260224/p18#a260224p18)<!-- TECH:END -->
+ - [Oura’s latest feature puts women’s health at the center](https://www.androidauthority.com/oura-ring-ai-model-womens-health-3643353/)
+ - [Tide’s Evo Tiles Are a Fresh, Overengineered Take on the Tide Pod](https://www.wired.com/story/tide-evo-tiles/)
+ - [Samsung is on slop watch at Unpacked](https://www.theverge.com/tech/883225/samsung-galaxy-unpacked-s26-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
