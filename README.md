@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Duffel Bags We Tested While Traveling &lpar;2026&rpar;](https://www.wired.com/gallery/best-duffel-bags/)
- - [Uber agrees to acquire SpotHero for an undisclosed sum, to offer parking reservation for events and at venues and airports; SpotHero was last valued at $290M &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/260223/p27#a260223p27)
- - [Samsung Galaxy Unpacked 2026 Is Days Away: Galaxy S26 Rumors, Release Date and More](https://www.cnet.com/news-live/samsung-galaxy-unpacked-2026/)<!-- TECH:END -->
+ - [A DOD official says xAI has agreed to let the military use Grok in classified systems and agreed to the &quot;all lawful use&quot; standard, which Anthropic has refused &lpar;Axios&rpar;](http://www.techmeme.com/260223/p29#a260223p29)
+ - [Start Your Surround Sound Journey With $50 off This Klipsch Soundbar](https://www.wired.com/story/klipsch-flexus-core-200-deal-226/)
+ - [Sources: AI chipmaker Cerebras confidentially files for a US IPO after withdrawing a previous IPO last year, and a listing could take place as soon as April &lpar;The Information&rpar;](http://www.techmeme.com/260223/p28#a260223p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
