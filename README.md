@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo opens its robotaxi service to &quot;select riders&quot; in Dallas, Houston, San Antonio, and Orlando, expanding its operations to 10 US cities &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260224/p37#a260224p37)
- - [You can still get $30 in Samsung credit when you reserve a Galaxy S26 phone](https://www.theverge.com/gadgets/883686/samsung-galaxy-s26-plus-ultra-reserve-preorder-unpacked-deal-sale)
- - [Google just made YouTube Premium Lite impossible to say no to](https://www.androidauthority.com/youtube-premium-lite-upgrade-3643665/)<!-- TECH:END -->
+ - [Discord is delaying its global age verification rollout](https://www.theverge.com/policy/883852/discord-age-verification-global-walkback-delay)
+ - [Wary of strangers recording you? This app warns you when smart glasses are nearby](https://www.androidauthority.com/app-warns-when-smart-glasses-nearby-3643662/)
+ - [Sources: DoD told Anthropic it will invoke the Defense Production Act or label Anthropic a &quot;supply chain risk&quot;, if not given unfettered Claude access by Friday &lpar;Axios&rpar;](http://www.techmeme.com/260224/p38#a260224p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
