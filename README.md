@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salsa Wanderosa Electric Bike Review: Full-Suspension Drop-Bar Gravel Ride](https://www.wired.com/review/salsa-wanderosa-electric-gravel-bike/)
- - [Court docs: the IRS seeks $16B in back taxes and penalties from Meta, arguing it failed to report ~$54B in overseas profits; in December 2025, Meta sued the IRS &lpar;Jesse Drucker/New York Times&rpar;](http://www.techmeme.com/260224/p10#a260224p10)
- - [6 reasons why I’m buying an ultra-short-throw projector](https://www.androidauthority.com/reasons-im-buying-ust-projector-3642370/)<!-- TECH:END -->
+ - [ADT agrees to acquire Origin Wireless for $170M to integrate advanced AI motion classification into its popular home security suite starting in 2027 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260224/p20#a260224p20)
+ - [MatX, an AI chip startup founded by two alumni of Google&#39;s chip business, raised $500M+ led by Jane Street and Situational Awareness to compete with Nvidia &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260224/p19#a260224p19)
+ - [Stripe hits a $159B valuation after an employee share sale to investors like Thrive, Coatue, and a16z, a 70% jump from its $92B valuation in February 2025 &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/260224/p18#a260224p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
