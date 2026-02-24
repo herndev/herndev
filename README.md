@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profound, which tracks how AI models recommend brands across millions of prompts, raised a $96M Series C at a $1B valuation, bringing its total funding to $155M &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260224/p31#a260224p31)
- - [Samsung’s artsy Frame TV has dropped to a record-low price for a limited time](https://www.theverge.com/gadgets/883331/samsung-2025-frame-tv-anker-nano-travel-adapter-deal-sale)
- - [An Evercore ISI economist criticizes Citrini&#39;s AI report, calling its assumptions &quot;extreme and improbable&quot;, but says it&#39;s a thought-provoking exercise &lpar;Robin Wigglesworth/Financial Times&rpar;](http://www.techmeme.com/260224/p30#a260224p30)<!-- TECH:END -->
+ - [Archer Aviation accuses rival Vertical Aerospace of ripping off its air taxi designs](https://www.theverge.com/transportation/883648/archer-vertical-patent-infringement-air-taxi)
+ - [DJI sues over the FCC’s decision to block new drone imports](https://www.theverge.com/tech/883734/dji-fcc-lawsuit-drone-import-ban)
+ - [Beverly Hills-based Subject, whose streaming-style, on-demand platform provides digital curriculum and learning insights for grades 6-12, raised $28M &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260224/p34#a260224p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
