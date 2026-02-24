@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord is delaying its global age verification rollout](https://www.theverge.com/policy/883852/discord-age-verification-global-walkback-delay)
- - [Wary of strangers recording you? This app warns you when smart glasses are nearby](https://www.androidauthority.com/app-warns-when-smart-glasses-nearby-3643662/)
- - [Sources: DoD told Anthropic it will invoke the Defense Production Act or label Anthropic a &quot;supply chain risk&quot;, if not given unfettered Claude access by Friday &lpar;Axios&rpar;](http://www.techmeme.com/260224/p38#a260224p38)<!-- TECH:END -->
+ - [My Favorite Bluetooth Speaker Is on Sale for $50 Off Right Now](https://www.wired.com/story/jbl-flip-7-deal-0223/)
+ - [YouTube updates its $7.99 per month Premium Lite subscription to let users download videos for offline access and play videos in the background &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260224/p39#a260224p39)
+ - [Save $20 On Our Favorite Gaming Headset](https://www.wired.com/story/arctis-nova-3-deal-226/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
