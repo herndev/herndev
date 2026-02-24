@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s behind Samsung’s cautious flagship upgrades? Readers offer their theories](https://www.androidauthority.com/samsung-upgrades-poll-results-3643331/)
- - [Samsung Unpacked is tomorrow. Here are the 8 most important Galaxy S26 rumors you need to know](https://www.androidauthority.com/galaxy-s26-rumors-know-before-samsung-unpacked-3643206/)
- - [Samsung’s ‘Wide’ Galaxy Z Fold might include a clever way to save your screen from damage](https://www.androidauthority.com/samsung-foreign-material-detection-apk-teardown-3643433/)<!-- TECH:END -->
+ - [Samsung&#39;s $2,899 Galaxy Z TriFold works well as a smartphone, especially for entertainment, but falls short as a tablet and laptop, marred by unpredictability &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260224/p7#a260224p7)
+ - [The UK plans to update the Media Act 2024 to bring streaming platforms with 500K+ users under &quot;enhanced&quot; Ofcom regulation, giving it power to investigate them &lpar;K.J. Yossman/Variety&rpar;](http://www.techmeme.com/260224/p6#a260224p6)
+ - [The Nothing Phone 4a fixes my two biggest problems with the Nothing Phone 3](https://www.androidauthority.com/nothing-phone-4a-fixes-design-problems-phone-3-3643237/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
