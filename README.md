@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oura’s latest feature puts women’s health at the center](https://www.androidauthority.com/oura-ring-ai-model-womens-health-3643353/)
- - [Tide’s Evo Tiles Are a Fresh, Overengineered Take on the Tide Pod](https://www.wired.com/story/tide-evo-tiles/)
- - [Samsung is on slop watch at Unpacked](https://www.theverge.com/tech/883225/samsung-galaxy-unpacked-s26-2026)<!-- TECH:END -->
+ - [Sources: Meta aims to enter the stablecoin space in H2, with plans to integrate a vendor to administer stablecoin-backed payments and implement a new wallet &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/260224/p25#a260224p25)
+ - [Anthropic launches Claude Cowork agent tools for investment banking, HR, design, and more, including a specialized financial plugin developed alongside FactSet &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260224/p24#a260224p24)
+ - [How Claude Code Claude Codes](https://www.theverge.com/podcast/883604/claude-code-ai-future-creator-privacy-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
