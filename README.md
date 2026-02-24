@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A DOD official says xAI has agreed to let the military use Grok in classified systems and agreed to the &quot;all lawful use&quot; standard, which Anthropic has refused &lpar;Axios&rpar;](http://www.techmeme.com/260223/p29#a260223p29)
- - [Start Your Surround Sound Journey With $50 off This Klipsch Soundbar](https://www.wired.com/story/klipsch-flexus-core-200-deal-226/)
- - [Sources: AI chipmaker Cerebras confidentially files for a US IPO after withdrawing a previous IPO last year, and a listing could take place as soon as April &lpar;The Information&rpar;](http://www.techmeme.com/260223/p28#a260223p28)<!-- TECH:END -->
+ - [The administrator winding down Terraform Labs sues Jane Street, alleging it engaged in insider trading to profit from and ultimately hasten Terraform&#39;s collapse &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260223/p34#a260223p34)
+ - [How Binance staffers found $1B was sent to sanctioned Iranian entities via the exchange, which dismantled their probe and suspended them after Trump pardoned CZ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260223/p33#a260223p33)
+ - [Tesla sues California&#39;s DMV to reverse a ruling that found Tesla violated the law by falsely promoting its Autopilot and Full Self-Driving systems &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260223/p32#a260223p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
