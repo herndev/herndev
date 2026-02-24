@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S26 series leak reveals a surprising downgrade for battery health](https://www.androidauthority.com/samsung-galaxy-s26-eu-label-leak-3643409/)
- - [A look at the challenges some AI developers face in building models to extract trillions of high-quality tokens from PDFs, which are hard to parse, for training &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/260224/p3#a260224p3)
- - [The FairPhone Gen 6 will ‘soon’ get Android 16](https://www.androidauthority.com/fairphone-gen-6-android-16-coming-3643387/)<!-- TECH:END -->
+ - [What’s behind Samsung’s cautious flagship upgrades? Readers offer their theories](https://www.androidauthority.com/samsung-upgrades-poll-results-3643331/)
+ - [Samsung Unpacked is tomorrow. Here are the 8 most important Galaxy S26 rumors you need to know](https://www.androidauthority.com/galaxy-s26-rumors-know-before-samsung-unpacked-3643206/)
+ - [Samsung’s ‘Wide’ Galaxy Z Fold might include a clever way to save your screen from damage](https://www.androidauthority.com/samsung-foreign-material-detection-apk-teardown-3643433/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
