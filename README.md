@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Archer Aviation accuses rival Vertical Aerospace of ripping off its air taxi designs](https://www.theverge.com/transportation/883648/archer-vertical-patent-infringement-air-taxi)
- - [DJI sues over the FCC’s decision to block new drone imports](https://www.theverge.com/tech/883734/dji-fcc-lawsuit-drone-import-ban)
- - [Beverly Hills-based Subject, whose streaming-style, on-demand platform provides digital curriculum and learning insights for grades 6-12, raised $28M &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260224/p34#a260224p34)<!-- TECH:END -->
+ - [Waymo opens its robotaxi service to &quot;select riders&quot; in Dallas, Houston, San Antonio, and Orlando, expanding its operations to 10 US cities &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260224/p37#a260224p37)
+ - [You can still get $30 in Samsung credit when you reserve a Galaxy S26 phone](https://www.theverge.com/gadgets/883686/samsung-galaxy-s26-plus-ultra-reserve-preorder-unpacked-deal-sale)
+ - [Google just made YouTube Premium Lite impossible to say no to](https://www.androidauthority.com/youtube-premium-lite-upgrade-3643665/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
