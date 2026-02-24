@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&#39;s $2,899 Galaxy Z TriFold works well as a smartphone, especially for entertainment, but falls short as a tablet and laptop, marred by unpredictability &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260224/p7#a260224p7)
- - [The UK plans to update the Media Act 2024 to bring streaming platforms with 500K+ users under &quot;enhanced&quot; Ofcom regulation, giving it power to investigate them &lpar;K.J. Yossman/Variety&rpar;](http://www.techmeme.com/260224/p6#a260224p6)
- - [The Nothing Phone 4a fixes my two biggest problems with the Nothing Phone 3](https://www.androidauthority.com/nothing-phone-4a-fixes-design-problems-phone-3-3643237/)<!-- TECH:END -->
+ - [Salsa Wanderosa Electric Bike Review: Full-Suspension Drop-Bar Gravel Ride](https://www.wired.com/review/salsa-wanderosa-electric-gravel-bike/)
+ - [Court docs: the IRS seeks $16B in back taxes and penalties from Meta, arguing it failed to report ~$54B in overseas profits; in December 2025, Meta sued the IRS &lpar;Jesse Drucker/New York Times&rpar;](http://www.techmeme.com/260224/p10#a260224p10)
+ - [6 reasons why I’m buying an ultra-short-throw projector](https://www.androidauthority.com/reasons-im-buying-ust-projector-3642370/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
