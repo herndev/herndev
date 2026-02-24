@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta aims to enter the stablecoin space in H2, with plans to integrate a vendor to administer stablecoin-backed payments and implement a new wallet &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/260224/p25#a260224p25)
- - [Anthropic launches Claude Cowork agent tools for investment banking, HR, design, and more, including a specialized financial plugin developed alongside FactSet &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260224/p24#a260224p24)
- - [How Claude Code Claude Codes](https://www.theverge.com/podcast/883604/claude-code-ai-future-creator-privacy-vergecast)<!-- TECH:END -->
+ - [Profound, which tracks how AI models recommend brands across millions of prompts, raised a $96M Series C at a $1B valuation, bringing its total funding to $155M &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260224/p31#a260224p31)
+ - [Samsung’s artsy Frame TV has dropped to a record-low price for a limited time](https://www.theverge.com/gadgets/883331/samsung-2025-frame-tv-anker-nano-travel-adapter-deal-sale)
+ - [An Evercore ISI economist criticizes Citrini&#39;s AI report, calling its assumptions &quot;extreme and improbable&quot;, but says it&#39;s a thought-provoking exercise &lpar;Robin Wigglesworth/Financial Times&rpar;](http://www.techmeme.com/260224/p30#a260224p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
