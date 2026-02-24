@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Favorite Bluetooth Speaker Is on Sale for $50 Off Right Now](https://www.wired.com/story/jbl-flip-7-deal-0223/)
- - [YouTube updates its $7.99 per month Premium Lite subscription to let users download videos for offline access and play videos in the background &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260224/p39#a260224p39)
- - [Save $20 On Our Favorite Gaming Headset](https://www.wired.com/story/arctis-nova-3-deal-226/)<!-- TECH:END -->
+ - [Let me see some ID: age verification is spreading across the internet](https://www.theverge.com/tech/883855/age-verification-internet-apps-laws-privacy-safety)
+ - [Google Labs is making it dangerously easy to pretend you’re a music producer](https://www.androidauthority.com/google-labs-producerai-3643738/)
+ - [Sources: Stripe, which is privately held, has expressed preliminary interest in a potential acquisition of PayPal or its assets; PYPL jumps 7%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260224/p45#a260224p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
