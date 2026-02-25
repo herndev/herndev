@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Motif Technologies and Upstage, South Korean AI startups competing with SK Group and LG in the race for a national AI foundation model &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260225/p5#a260225p5)
  - [Peacock Promo Codes: 40% Off February 2026](https://www.wired.com/story/peacock-promo-code/)
- - [50% Off Blue Apron Promo Codes | February 2026](https://www.wired.com/story/blue-apron-coupon/)
- - [‘World’s thinnest modular phone concept’ tries to make add-ons cool again](https://www.androidauthority.com/tecno-modular-phone-concept-mwc-2026-3643894/)<!-- TECH:END -->
+ - [50% Off Blue Apron Promo Codes | February 2026](https://www.wired.com/story/blue-apron-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
