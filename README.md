@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP reports Q1 revenue up 6.9% YoY to $14.44B, vs. $13.94B est., and expects FY 2026 results to be at the low end of its forecasts; HPQ drops 6%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/260224/p51#a260224p51)
- - [Apple’s touchscreen MacBooks might also have a Dynamic Island](https://www.theverge.com/tech/884089/apple-touchscreen-macbook-pro-dynamic-island)
- - [Here’s What a Google Subpoena Response Looks Like, Courtesy of the Epstein Files](https://www.wired.com/story/heres-what-a-google-subpoena-response-looks-like-courtesy-of-the-epstein-files/)<!-- TECH:END -->
+ - [Anthropic starts rolling out Remote Control for Claude Code, letting users control a session begun in the terminal from the Claude mobile app or the web &lpar;Claude/@claudeai&rpar;](http://www.techmeme.com/260224/p53#a260224p53)
+ - [Apple&amp;#8217;s new age verification tools block underage app downloads where required by law](https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads)
+ - [London-based self-driving startup Wayve raised a $1.2B Series D at an $8.6B post-money valuation, with Mercedes-Benz, Stellantis, and Nissan among investors &lpar;Financial Times&rpar;](http://www.techmeme.com/260224/p52#a260224p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
