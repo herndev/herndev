@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deutsche Bank partners with Google Cloud to build agentic AI to monitor 1TB of daily communications and 40+ channels for market abuse and data loss prevention &lpar;William Shaw/Bloomberg&rpar;](http://www.techmeme.com/260225/p16#a260225p16)
- - [Talk to Your Own Personal Isaac Newton With Ailias’s Hologram Avatars](https://www.wired.com/story/ailias-hologram-avatars/)
- - [Diplomatic cable: US officials order diplomats to lobby against attempts to regulate how US tech companies handle foreigners&#39; data, citing risks to AI services &lpar;Reuters&rpar;](http://www.techmeme.com/260225/p15#a260225p15)<!-- TECH:END -->
+ - [A study finds GPT-5.2, Claude Sonnet 4, and Gemini 3 Flash deployed tactical nuclear weapons in 95% of 21 simulated war game scenarios, and never surrendered &lpar;Chris Stokel-Walker/New Scientist&rpar;](http://www.techmeme.com/260225/p19#a260225p19)
+ - [Google disrupts Chinese-linked group UNC2814, which breached 53+ organizations across 42 countries and utilized Google Sheets to manage targeting and data theft &lpar;A.J. Vicens/Reuters&rpar;](http://www.techmeme.com/260225/p18#a260225p18)
+ - [Stablecoin operator Circle reports Q4 revenue up 77% YoY to $770M, vs. $747M est., and $133.4M net income; USDC ended 2025 with ~$75B in circulation, up 72% YoY &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/260225/p17#a260225p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
