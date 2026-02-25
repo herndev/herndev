@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple brings age verification to UK users in iOS 26.4 beta](https://www.theverge.com/tech/884306/apple-age-verification-uk-users-ios-26-4-beta)
- - [Adobe updates Firefly to add Quick Cut, a new AI tool to edit footage and B-roll to create a first draft of the final video based on user prompts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260225/p21#a260225p21)
- - [Catch the Galaxy S26, Galaxy Buds 4 launch event live: Here’s how](https://www.androidauthority.com/how-to-watch-galaxy-s26-launch-live-3643401/)<!-- TECH:END -->
+ - [Resident Evil Requiem is the best of both terrifying worlds](https://www.theverge.com/entertainment/883947/resident-evil-requiem-review-ps5-xbox-switch-2)
+ - [Resident Evil Requiem is still scary as hell on the Switch 2](https://www.theverge.com/games/883965/resident-evil-requiem-nintendo-switch-2-performance)
+ - [Gambit Security: an unknown hacker used Claude to steal 150GB of Mexican government data, including 195M taxpayer records, in December 2025 and January 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260225/p24#a260225p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
