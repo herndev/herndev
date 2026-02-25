@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Galaxy S26 Ultra deal adds $400+ in pre-order perks](https://www.androidauthority.com/amazon-galaxy-s26-ultra-deals-3644282/)
- - [Where to preorder all of Samsung’s new Galaxy S26 phones](https://www.theverge.com/gadgets/883829/samsung-galaxy-s26-plus-ultra-how-to-buy-preorder-price-release-date)
- - [OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems](https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/)<!-- TECH:END -->
+ - [Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI](https://www.wired.com/story/openai-hires-riley-walz/)
+ - [Google and Samsung just launched the AI features Apple couldn’t with Siri](https://www.theverge.com/tech/884703/google-samsung-galaxy-s26-gemini-apple-siri)
+ - [I did the math — the Galaxy S26 price increases are worse than you thought](https://www.androidauthority.com/samsung-galaxy-s26-every-price-increase-3644279/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
