@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A top US export control official says Nvidia has yet to sell any H200 chips to China, two months after President Trump&#39;s decision to allow AI chip shipments &lpar;Maggie Eastland/Bloomberg&rpar;](http://www.techmeme.com/260225/p14#a260225p14)
- - [YouTube Premium Lite just got a huge upgrade — but I’m keeping the $14/month plan for 3 reasons](https://www.androidauthority.com/youtube-premium-still-beats-premium-lite-why-3643735/)
- - [14 essential Android apps I install and update through Obtainium](https://www.androidauthority.com/essential-android-apps-install-obtainium-3643078/)<!-- TECH:END -->
+ - [Deutsche Bank partners with Google Cloud to build agentic AI to monitor 1TB of daily communications and 40+ channels for market abuse and data loss prevention &lpar;William Shaw/Bloomberg&rpar;](http://www.techmeme.com/260225/p16#a260225p16)
+ - [Talk to Your Own Personal Isaac Newton With Ailias’s Hologram Avatars](https://www.wired.com/story/ailias-hologram-avatars/)
+ - [Diplomatic cable: US officials order diplomats to lobby against attempts to regulate how US tech companies handle foreigners&#39; data, citing risks to AI services &lpar;Reuters&rpar;](http://www.techmeme.com/260225/p15#a260225p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
