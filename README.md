@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [David Luan, the head of Amazon&#39;s AGI lab, is leaving the company less than two years after he joined through an acqui-hire deal of his startup Adept &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260224/p50#a260224p50)
- - [Oura Ring Wants to Put an OB-GYN on Your Finger With New AI for Women’s Health](https://www.cnet.com/health/oura-ring-ai-model-womens-health/)
- - [A US judge sentences ex-L3Harris exec Peter Williams to over 7 years in prison, after he pleaded guilty in 2025 to theft of trade secrets and selling exploits &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/260224/p49#a260224p49)<!-- TECH:END -->
+ - [HP reports Q1 revenue up 6.9% YoY to $14.44B, vs. $13.94B est., and expects FY 2026 results to be at the low end of its forecasts; HPQ drops 6%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/260224/p51#a260224p51)
+ - [Apple’s touchscreen MacBooks might also have a Dynamic Island](https://www.theverge.com/tech/884089/apple-touchscreen-macbook-pro-dynamic-island)
+ - [Here’s What a Google Subpoena Response Looks Like, Courtesy of the Epstein Files](https://www.wired.com/story/heres-what-a-google-subpoena-response-looks-like-courtesy-of-the-epstein-files/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
