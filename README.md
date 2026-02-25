@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI](https://www.wired.com/story/openai-hires-riley-walz/)
- - [Google and Samsung just launched the AI features Apple couldn’t with Siri](https://www.theverge.com/tech/884703/google-samsung-galaxy-s26-gemini-apple-siri)
- - [I did the math — the Galaxy S26 price increases are worse than you thought](https://www.androidauthority.com/samsung-galaxy-s26-every-price-increase-3644279/)<!-- TECH:END -->
+ - [This YouTube Shorts experiment aims to bring out your creative side](https://www.androidauthority.com/youtube-shorts-reimagine-add-object-3644302/)
+ - [Everyone Speaks Incel Now](https://www.wired.com/story/everyone-speaks-incel-now/)
+ - [The Peace Corps is recruiting volunteers to sell AI to developing nations](https://www.theverge.com/policy/884625/peace-corps-tech-promote-american-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
