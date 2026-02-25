@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic starts rolling out Remote Control for Claude Code, letting users control a session begun in the terminal from the Claude mobile app or the web &lpar;Claude/@claudeai&rpar;](http://www.techmeme.com/260224/p53#a260224p53)
- - [Apple&amp;#8217;s new age verification tools block underage app downloads where required by law](https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads)
- - [London-based self-driving startup Wayve raised a $1.2B Series D at an $8.6B post-money valuation, with Mercedes-Benz, Stellantis, and Nissan among investors &lpar;Financial Times&rpar;](http://www.techmeme.com/260224/p52#a260224p52)<!-- TECH:END -->
+ - [OpenAI hires Arvind KC as chief people officer, replacing Julia Villagra who left in August 2025; KC has held senior roles at Roblox, Google, Palantir, and Meta &lpar;Agnee Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260224/p55#a260224p55)
+ - [A look at how both small and large companies are tracking and enforcing employees&#39; AI usage and considering it during performance reviews &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260224/p54#a260224p54)
+ - [Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire](https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
