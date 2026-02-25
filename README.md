@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A survey of US teens: 57% use AI chatbots to search for info, 54% use them to do schoolwork, 47% for fun or entertainment, 12% for emotional support, and more &lpar;Pew Research Center&rpar;](http://www.techmeme.com/260224/p56#a260224p56)
  - [OpenAI hires Arvind KC as chief people officer, replacing Julia Villagra who left in August 2025; KC has held senior roles at Roblox, Google, Palantir, and Meta &lpar;Agnee Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260224/p55#a260224p55)
- - [A look at how both small and large companies are tracking and enforcing employees&#39; AI usage and considering it during performance reviews &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260224/p54#a260224p54)
- - [Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire](https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg)<!-- TECH:END -->
+ - [A look at how both small and large companies are tracking and enforcing employees&#39; AI usage and considering it during performance reviews &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260224/p54#a260224p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
