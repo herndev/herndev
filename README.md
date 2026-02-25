@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify&amp;#8217;s Smart Reorder treats your playlists like a DJ set](https://www.theverge.com/entertainment/884399/spotify-mix-smart-reorder-feature)
- - [You can now set Alexa Plus to get right to the point and drop all the small talk](https://www.androidauthority.com/alexa-plus-new-personalities-3644153/)
- - [Kalshi Suspended a California Politician and a YouTuber for Insider Trading](https://www.wired.com/story/kalshi-insider-trading-california-politician-and-youtuber/)<!-- TECH:END -->
+ - [Live: Samsung unveils new Galaxy phones](https://www.theverge.com/tech/881355/live-blog-samsung-galaxy-unpacked-2026)
+ - [Samsung Unpacked 2026: live updates from the Galaxy S26 announcement event](https://www.theverge.com/tech/883932/samsung-unpacked-2026-live-updates-galaxy-s26-announcement)
+ - [Kalshi says it has suspended an editor for MrBeast and a former GOP California gubernatorial candidate for insider trading, its first public enforcement action &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/260225/p28#a260225p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
