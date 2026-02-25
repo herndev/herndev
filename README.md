@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This YouTube Shorts experiment aims to bring out your creative side](https://www.androidauthority.com/youtube-shorts-reimagine-add-object-3644302/)
- - [Everyone Speaks Incel Now](https://www.wired.com/story/everyone-speaks-incel-now/)
- - [The Peace Corps is recruiting volunteers to sell AI to developing nations](https://www.theverge.com/policy/884625/peace-corps-tech-promote-american-ai)<!-- TECH:END -->
+ - [Corsair is halting Drop sales after March 25th](https://www.theverge.com/news/884824/corsair-ending-drop-shopping-site)
+ - [Nvidia reports Q4 revenue up 73% YoY to $68.13B, vs. $66.21B est., Data Center revenue up 75% to $62.3B, and forecasts Q1 revenue above estimates &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260225/p44#a260225p44)
+ - [Too late for Valentine’s Day, but we’ll take Nothing’s new pink Phone 4a](https://www.androidauthority.com/nothing-phone-4a-pink-teaser-3644355/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
