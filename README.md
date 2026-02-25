@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t make the mistake of pre-ordering a Galaxy S26 today](https://www.androidauthority.com/dont-preorder-samsung-galaxy-s26-3643648/)
- - [Sources: SAP investors and partners raise doubts about the company&#39;s AI products; VW tested SAP&#39;s flagship AI assitant Joule and did not find it mature enough &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/260225/p12#a260225p12)
- - [Google TV is getting another top doomscrolling app, for better or worse](https://www.androidauthority.com/instagram-tv-app-arrives-on-google-tv-3644011/)<!-- TECH:END -->
+ - [A top US export control official says Nvidia has yet to sell any H200 chips to China, two months after President Trump&#39;s decision to allow AI chip shipments &lpar;Maggie Eastland/Bloomberg&rpar;](http://www.techmeme.com/260225/p14#a260225p14)
+ - [YouTube Premium Lite just got a huge upgrade — but I’m keeping the $14/month plan for 3 reasons](https://www.androidauthority.com/youtube-premium-still-beats-premium-lite-why-3643735/)
+ - [14 essential Android apps I install and update through Obtainium](https://www.androidauthority.com/essential-android-apps-install-obtainium-3643078/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
