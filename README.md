@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Japan&#39;s FTC raids Microsoft&#39;s Japan offices as part of a probe into whether Azure customers were improperly hindered from using other cloud services &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260225/p9#a260225p9)
- - [On Running Is Finally Ramping Up Production of Its ‘Hyper-Foam’ Spray-On Shoes](https://www.wired.com/story/on-lightspray-cloudmaster-3-hyper/)
- - [Workday CEO Aneel Bhusri says Anthropic, Google, and OpenAI use Workday tools and &quot;no amount of vibe coding&quot; could replace them; WDAY is down about 40% YTD &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260225/p8#a260225p8)<!-- TECH:END -->
+ - [Don’t make the mistake of pre-ordering a Galaxy S26 today](https://www.androidauthority.com/dont-preorder-samsung-galaxy-s26-3643648/)
+ - [Sources: SAP investors and partners raise doubts about the company&#39;s AI products; VW tested SAP&#39;s flagship AI assitant Joule and did not find it mature enough &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/260225/p12#a260225p12)
+ - [Google TV is getting another top doomscrolling app, for better or worse](https://www.androidauthority.com/instagram-tv-app-arrives-on-google-tv-3644011/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
