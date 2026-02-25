@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Motif Technologies and Upstage, South Korean AI startups competing with SK Group and LG in the race for a national AI foundation model &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/260225/p5#a260225p5)
- - [Peacock Promo Codes: 40% Off February 2026](https://www.wired.com/story/peacock-promo-code/)
- - [50% Off Blue Apron Promo Codes | February 2026](https://www.wired.com/story/blue-apron-coupon/)<!-- TECH:END -->
+ - [Could the Galaxy S26 be the next Android phone to support Apple’s AirDrop?](https://www.androidauthority.com/samsung-galaxy-s26-quick-share-airdrop-leak-3643970/)
+ - [Workday reports Q4 revenue up 14.5% YoY to $2.53B, vs. $2.52B est., and forecasts FY 2027 subscription revenue below estimates; WDAY drops 9%+ after hours &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/260225/p7#a260225p7)
+ - [A look at TAT-8, the first transoceanic fiber-optic cable, which went into service in 1988, was retired in 2002, and is now being pulled up for recycling &lpar;Jane Ruffino/Wired&rpar;](http://www.techmeme.com/260225/p6#a260225p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
