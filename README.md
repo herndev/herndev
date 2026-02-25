@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Could the Galaxy S26 be the next Android phone to support Apple’s AirDrop?](https://www.androidauthority.com/samsung-galaxy-s26-quick-share-airdrop-leak-3643970/)
- - [Workday reports Q4 revenue up 14.5% YoY to $2.53B, vs. $2.52B est., and forecasts FY 2027 subscription revenue below estimates; WDAY drops 9%+ after hours &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/260225/p7#a260225p7)
- - [A look at TAT-8, the first transoceanic fiber-optic cable, which went into service in 1988, was retired in 2002, and is now being pulled up for recycling &lpar;Jane Ruffino/Wired&rpar;](http://www.techmeme.com/260225/p6#a260225p6)<!-- TECH:END -->
+ - [Sources: Japan&#39;s FTC raids Microsoft&#39;s Japan offices as part of a probe into whether Azure customers were improperly hindered from using other cloud services &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260225/p9#a260225p9)
+ - [On Running Is Finally Ramping Up Production of Its ‘Hyper-Foam’ Spray-On Shoes](https://www.wired.com/story/on-lightspray-cloudmaster-3-hyper/)
+ - [Workday CEO Aneel Bhusri says Anthropic, Google, and OpenAI use Workday tools and &quot;no amount of vibe coding&quot; could replace them; WDAY is down about 40% YTD &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260225/p8#a260225p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
