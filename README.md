@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live: Samsung unveils new Galaxy phones](https://www.theverge.com/tech/881355/live-blog-samsung-galaxy-unpacked-2026)
- - [Samsung Unpacked 2026: live updates from the Galaxy S26 announcement event](https://www.theverge.com/tech/883932/samsung-unpacked-2026-live-updates-galaxy-s26-announcement)
- - [Kalshi says it has suspended an editor for MrBeast and a former GOP California gubernatorial candidate for insider trading, its first public enforcement action &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/260225/p28#a260225p28)<!-- TECH:END -->
+ - [Samsung launches the $179 Galaxy Buds 4 and $249 Buds 4 Pro, keeping the AirPods-esque design, with better battery life and noise canceling, available March 11 &lpar;John Higgins/The Verge&rpar;](http://www.techmeme.com/260225/p31#a260225p31)
+ - [Samsung might just invest in Galaxy camera hardware upgrades &lpar;eventually&rpar;](https://www.androidauthority.com/samsung-galaxy-camera-hardware-3643752/)
+ - [Samsung found a new way for you to insert the Galaxy S26 Ultra’s S Pen backwards](https://www.androidauthority.com/s-pen-backwards-3643318/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
