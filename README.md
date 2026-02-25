@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: overseas investors bought a net $2.77B of Taiwan equities on February 24, the most since December 2005, signaling confidence in an AI driven chip boom &lpar;Bloomberg&rpar;](http://www.techmeme.com/260225/p1#a260225p1)
- - [Sensor Tower: India was the largest market for GenAI app downloads in 2025, surging 207% YoY; India accounts for 20% of global installs but 1% of in-app revenue &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260224/p60#a260224p60)
- - [Australian freight software maker WiseTech plans to cut ~2,000 jobs, or ~30% of its workforce, this fiscal year and next, amid CEO Zubin Appoo&#39;s embrace of AI &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/260224/p59#a260224p59)<!-- TECH:END -->
+ - [Peacock Promo Codes: 40% Off February 2026](https://www.wired.com/story/peacock-promo-code/)
+ - [50% Off Blue Apron Promo Codes | February 2026](https://www.wired.com/story/blue-apron-coupon/)
+ - [‘World’s thinnest modular phone concept’ tries to make add-ons cool again](https://www.androidauthority.com/tecno-modular-phone-concept-mwc-2026-3643894/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
