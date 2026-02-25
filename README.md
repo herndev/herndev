@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Resident Evil Requiem is the best of both terrifying worlds](https://www.theverge.com/entertainment/883947/resident-evil-requiem-review-ps5-xbox-switch-2)
- - [Resident Evil Requiem is still scary as hell on the Switch 2](https://www.theverge.com/games/883965/resident-evil-requiem-nintendo-switch-2-performance)
- - [Gambit Security: an unknown hacker used Claude to steal 150GB of Mexican government data, including 195M taxpayer records, in December 2025 and January 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260225/p24#a260225p24)<!-- TECH:END -->
+ - [Spotify&amp;#8217;s Smart Reorder treats your playlists like a DJ set](https://www.theverge.com/entertainment/884399/spotify-mix-smart-reorder-feature)
+ - [You can now set Alexa Plus to get right to the point and drop all the small talk](https://www.androidauthority.com/alexa-plus-new-personalities-3644153/)
+ - [Kalshi Suspended a California Politician and a YouTuber for Insider Trading](https://www.wired.com/story/kalshi-insider-trading-california-politician-and-youtuber/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
