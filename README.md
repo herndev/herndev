@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of US teens: 57% use AI chatbots to search for info, 54% use them to do schoolwork, 47% for fun or entertainment, 12% for emotional support, and more &lpar;Pew Research Center&rpar;](http://www.techmeme.com/260224/p56#a260224p56)
- - [OpenAI hires Arvind KC as chief people officer, replacing Julia Villagra who left in August 2025; KC has held senior roles at Roblox, Google, Palantir, and Meta &lpar;Agnee Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260224/p55#a260224p55)
- - [A look at how both small and large companies are tracking and enforcing employees&#39; AI usage and considering it during performance reviews &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260224/p54#a260224p54)<!-- TECH:END -->
+ - [Australian freight software maker WiseTech plans to cut ~2,000 jobs, or ~30% of its workforce, this fiscal year and next, amid CEO Zubin Appoo&#39;s embrace of AI &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/260224/p59#a260224p59)
+ - [Koah, which embeds sponsored ads directly into AI chatbots and aims to build an AdSense for AI, raised a $20.5M Series A led by Theory Ventures &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/260224/p58#a260224p58)
+ - [SOTU: Trump says he told tech companies they must build their own power plants for their data centers; sources: the WH expects to formalize the effort in March &lpar;Richard Valdmanis/Reuters&rpar;](http://www.techmeme.com/260224/p57#a260224p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
