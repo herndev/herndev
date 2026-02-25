@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corsair is halting Drop sales after March 25th](https://www.theverge.com/news/884824/corsair-ending-drop-shopping-site)
- - [Nvidia reports Q4 revenue up 73% YoY to $68.13B, vs. $66.21B est., Data Center revenue up 75% to $62.3B, and forecasts Q1 revenue above estimates &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260225/p44#a260225p44)
- - [Too late for Valentine’s Day, but we’ll take Nothing’s new pink Phone 4a](https://www.androidauthority.com/nothing-phone-4a-pink-teaser-3644355/)<!-- TECH:END -->
+ - [Sources: DOD asked Boeing and Lockheed Martin to assess their reliance on Claude, a first step toward blacklisting Anthropic; Lockheed confirms it was contacted &lpar;Axios&rpar;](http://www.techmeme.com/260225/p47#a260225p47)
+ - [AMD will buy $150M in Nutanix stock and provide up to $100M to fund joint initiatives to develop an infrastructure platform for powering AI applications &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260225/p46#a260225p46)
+ - [The best-supported Android TV box around has a new update incoming](https://www.androidauthority.com/nvidia-shield-tv-update-3-3644349/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
