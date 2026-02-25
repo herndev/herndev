@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung launches the $179 Galaxy Buds 4 and $249 Buds 4 Pro, keeping the AirPods-esque design, with better battery life and noise canceling, available March 11 &lpar;John Higgins/The Verge&rpar;](http://www.techmeme.com/260225/p31#a260225p31)
- - [Samsung might just invest in Galaxy camera hardware upgrades &lpar;eventually&rpar;](https://www.androidauthority.com/samsung-galaxy-camera-hardware-3643752/)
- - [Samsung found a new way for you to insert the Galaxy S26 Ultra’s S Pen backwards](https://www.androidauthority.com/s-pen-backwards-3643318/)<!-- TECH:END -->
+ - [Amazon’s Galaxy S26 Ultra deal adds $400+ in pre-order perks](https://www.androidauthority.com/amazon-galaxy-s26-ultra-deals-3644282/)
+ - [Where to preorder all of Samsung’s new Galaxy S26 phones](https://www.theverge.com/gadgets/883829/samsung-galaxy-s26-plus-ultra-how-to-buy-preorder-price-release-date)
+ - [OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems](https://www.wired.com/story/openclaw-users-bypass-anti-bot-systems-cloudflare-scrapling/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
