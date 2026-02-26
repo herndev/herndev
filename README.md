@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is surprising Galaxy users with a no-strings-attached $50 credit](https://www.androidauthority.com/samsung-free-50-dollar-credit-3644460/)
- - [The FTC says it won&#39;t enforce COPPA against companies using age verification tools as long as they use the collected data only to verify a user&#39;s age &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/260225/p57#a260225p57)
- - [OpenAI hires Meta AI researcher Ruoming Pang, who joined Meta from Apple about seven months ago for a pay package reportedly worth $200M+ over several years &lpar;The Information&rpar;](http://www.techmeme.com/260225/p56#a260225p56)<!-- TECH:END -->
+ - [Nvidia says the US government granted it a license to ship a small number of H200 chips to Chinese customers, but it&#39;s unclear if Beijing will allow any imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/260225/p59#a260225p59)
+ - [Galaxy S26 Ultra’s Privacy Display just passed an independent test, and the numbers are wild!](https://www.androidauthority.com/samsung-privacy-display-ul-solutions-verification-3644471/)
+ - [Anthropic unveils scheduled tasks in Cowork, enabling Claude to complete recurring tasks at specific times automatically &lpar;Claude/@claudeai&rpar;](http://www.techmeme.com/260225/p58#a260225p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
