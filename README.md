@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 reasons why the Galaxy S26 Ultra is a better choice than the OnePlus 15](https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-oneplus-15-3643931/)
- - [Galaxy S26’s Gallery app lets you find exact moments in videos](https://www.androidauthority.com/samsung-galaxy-s26-gallery-video-search-3644510/)
- - [Analysis: super PACs for and against AI regulation have raised $265M ahead of the midterms, with pro-AI groups significantly outraising pro-regulation groups &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p10#a260226p10)<!-- TECH:END -->
+ - [This Oura competitor is reimagining how users interact with data](https://www.androidauthority.com/luna-ring-luna-voice-launch-3644515/)
+ - [5 Android phones you should buy instead of the Samsung Galaxy S26 Ultra](https://www.androidauthority.com/samsung-galaxy-s26-ultra-alternatives-3643592/)
+ - [Not everyone wants bleeding-edge Pro chips, and this reader survey proves it](https://www.androidauthority.com/snapdragon-pro-vs-standard-poll-results-3644513/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
