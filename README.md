@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Saronic, which is building autonomous warships, is raising up to $1.5B at a ~$7.5B pre-money valuation; Saronic was last valued at $3.4B a year ago &lpar;The Information&rpar;](http://www.techmeme.com/260225/p52#a260225p52)
- - [New York&#39;s AG sues Valve over its use of loot boxes, accusing the game developer of violating state gambling laws and threatening to addict children to gambling &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260225/p51#a260225p51)
- - [Alphabet&#39;s Intrinsic, which builds AI models and software for industrial robots, joins Google; it will remain a distinct entity and work with Google DeepMind &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/260225/p50#a260225p50)<!-- TECH:END -->
+ - [The UK&#39;s Virgin Media O2 launches Europe&#39;s first satellite-to-mobile service, powered by Starlink and initially available for £3/month on select Samsung devices &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/260225/p54#a260225p54)
+ - [Filing: C3.ai plans to cut ~26% of its workforce; the company had ~1,200 employees as of April 2025; C3.ai shares drop 20%+ after hours on weaker FY guidance &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260225/p53#a260225p53)
+ - [Samsung Galaxy S26 Ultra vs. Galaxy S26 and S26 Plus: Flagship Specs Comparison](https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
