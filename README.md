@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AYN’s 3DS-style Thor handheld is facing another price hike](https://www.androidauthority.com/ayn-thor-april-price-hike-3644695/)
- - [Apple Watch Series 11 drops to $299, plus grab deals on titanium styles](https://appleinsider.com/articles/26/02/26/apple-watch-series-11-drops-to-299-plus-grab-deals-on-titanium-styles?utm_source=rss)
- - [Play Store subscriptions start keeping track of Play Points](https://www.androidauthority.com/play-store-subscriptions-3644635/)<!-- TECH:END -->
+ - [Sam Altman&#39;s Tools for Humanity is partnering with brands like Gap, Visa, and Tinder to market its World ID human verification product &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/260226/p44#a260226p44)
+ - [NATO says iPhones are secure enough to handle classified data](https://www.theverge.com/tech/885516/nato-iphones-ipads-restricted-classified-information)
+ - [Are You ‘Agentic’ Enough for the AI Era?](https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
