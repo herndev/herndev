@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: super PACs for and against AI regulation have raised $265M ahead of the midterms, with pro-AI groups significantly outraising pro-regulation groups &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p10#a260226p10)
- - [London-based Dwelly, which aims to roll up independent UK real estate agencies and modernize their operations using AI, raised £32M in equity and £37M in debt &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260226/p9#a260226p9)
- - [Several UK consultants have left large firms to start AI consultancy startups, as growth in the country&#39;s AI consulting sector outpaces the broader market &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/260226/p8#a260226p8)<!-- TECH:END -->
+ - [6 reasons why the Galaxy S26 Ultra is a better choice than the OnePlus 15](https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-oneplus-15-3643931/)
+ - [Galaxy S26’s Gallery app lets you find exact moments in videos](https://www.androidauthority.com/samsung-galaxy-s26-gallery-video-search-3644510/)
+ - [Analysis: super PACs for and against AI regulation have raised $265M ahead of the midterms, with pro-AI groups significantly outraising pro-regulation groups &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p10#a260226p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
