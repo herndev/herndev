@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman&#39;s Tools for Humanity is partnering with brands like Gap, Visa, and Tinder to market its World ID human verification product &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/260226/p44#a260226p44)
- - [NATO says iPhones are secure enough to handle classified data](https://www.theverge.com/tech/885516/nato-iphones-ipads-restricted-classified-information)
- - [Are You ‘Agentic’ Enough for the AI Era?](https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/)<!-- TECH:END -->
+ - [Save money now and later with this Maxfree Rechargeable Batteries deal](https://www.androidauthority.com/maxfree-rechargeable-4-aaa-and-4-aa-batteries-deal-3644293/)
+ - [Some AI policymakers and lawyers warn that DOD&#39;s threats to Anthropic are contradictory and could chill partnerships between the government and Silicon Valley &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/260226/p45#a260226p45)
+ - [DHS reportedly detained a Columbia University student and content creator](https://www.theverge.com/policy/885525/columbia-university-student-detained-dhs-influencer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
