@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Open-source tool Scrapling gains traction with OpenClaw users who want their bots to scrape sites without permission and has 200K+ downloads since its release &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260225/p60#a260225p60)
- - [Nvidia says the US government granted it a license to ship a small number of H200 chips to Chinese customers, but it&#39;s unclear if Beijing will allow any imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/260225/p59#a260225p59)
- - [Galaxy S26 Ultra’s Privacy Display just passed an independent test, and the numbers are wild!](https://www.androidauthority.com/samsung-privacy-display-ul-solutions-verification-3644471/)<!-- TECH:END -->
+ - [Sources: Amazon plans to invest up to $50B in OpenAI, $35B of which could hinge on an IPO or AGI milestone; OpenAI is discussing custom models for Amazon &lpar;The Information&rpar;](http://www.techmeme.com/260226/p2#a260226p2)
+ - [Mumbai-based digital payments processor BillDesk agrees to acquire the Indian business of Worldline for an equity value of ~$70M, set to close in H2 2026 &lpar;The Economic Times&rpar;](http://www.techmeme.com/260226/p1#a260226p1)
+ - [Galaxy S26 series quietly introduces a clever new camera feature nobody is talking about](https://www.androidauthority.com/samsung-galaxy-s26-real-time-translation-in-camera-3644478/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
