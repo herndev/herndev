@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon plans to invest up to $50B in OpenAI, $35B of which could hinge on an IPO or AGI milestone; OpenAI is discussing custom models for Amazon &lpar;The Information&rpar;](http://www.techmeme.com/260226/p2#a260226p2)
- - [Mumbai-based digital payments processor BillDesk agrees to acquire the Indian business of Worldline for an equity value of ~$70M, set to close in H2 2026 &lpar;The Economic Times&rpar;](http://www.techmeme.com/260226/p1#a260226p1)
- - [Galaxy S26 series quietly introduces a clever new camera feature nobody is talking about](https://www.androidauthority.com/samsung-galaxy-s26-real-time-translation-in-camera-3644478/)<!-- TECH:END -->
+ - [Q&amp;A with Skild AI CEO Deepak Pathak on building a general-purpose brain for robots, standing out among big tech&#39;s robotics efforts, the path to AGI, and more &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260226/p4#a260226p4)
+ - [TurboTax Service Codes: Up to 20% Off | February 2026](https://www.wired.com/story/turbotax-coupon/)
+ - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
