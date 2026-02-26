@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Revel, founded by ex-SpaceX Starship software lead Scott Morton to replace legacy systems that test complex hardware like rockets, raised $150M led by Index &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/260226/p29#a260226p29)
- - [eBay says it plans to cut ~800 jobs, or ~6% of its full-time employees, after laying off ~500 people in early 2023 and ~1,000 staff in early 2024 &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/260226/p28#a260226p28)
- - [Software stocks in the State Street ETF lost $1.6T in combined market cap in 2026 due to AI fears; Microsoft, AppLovin, Intuit, and Salesforce each lost $50B+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260226/p27#a260226p27)<!-- TECH:END -->
+ - [The Galaxy S26 proves Google was right all along](https://www.androidauthority.com/galaxy-s26-proves-google-3644431/)
+ - [Keep your expensive Galaxy S26 Ultra safe with these cases](https://www.androidauthority.com/best-galaxy-s26-ultra-case-3643259/)
+ - [We asked experts how to build a resume for the AI hiring era](https://www.theverge.com/featured-video/884368/we-asked-experts-how-to-build-a-resume-for-the-ai-hiring-era)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
