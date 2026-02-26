@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don\u2019t worry the cops got this. Y\u2019all keep messing with that lock](http://9gag.com/gag/ae9wmOq)
- - ⏩ [A more meaningful play](http://9gag.com/gag/awy243B)
- - 👉 [Mercury 1951](http://9gag.com/gag/aVv52bM)<!-- MEMES:END -->
+ - 💣 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
+ - ⏩ [PAIGE NO!](http://9gag.com/gag/aAy5M6d)
+ - 👉 [Mom won the night](http://9gag.com/gag/aZZ5E8V)<!-- MEMES:END -->
 
 ---
 
