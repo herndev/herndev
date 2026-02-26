@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based digital bank Allica, which caters to over 30K SMBs across the UK, raised a $155M Series D from Ventura Capital and others at a $1.2B valuation &lpar;Tom Matsuda/Sifted&rpar;](http://www.techmeme.com/260226/p7#a260226p7)
- - [A look at VW&#39;s robotaxi unit MOIA, which has 100 test vehicles across Germany, Norway, and the US, and plans to launch its robotaxis this year in LA with Uber &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p6#a260226p6)
- - [Sources: Apple is in talks with Visa, Mastercard, and Indian banks ICICI, HDFC, and Axis as it plans to launch Apple Pay in India around mid-2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260226/p5#a260226p5)<!-- TECH:END -->
+ - [Analysis: super PACs for and against AI regulation have raised $265M ahead of the midterms, with pro-AI groups significantly outraising pro-regulation groups &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p10#a260226p10)
+ - [London-based Dwelly, which aims to roll up independent UK real estate agencies and modernize their operations using AI, raised £32M in equity and £37M in debt &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260226/p9#a260226p9)
+ - [Several UK consultants have left large firms to start AI consultancy startups, as growth in the country&#39;s AI consulting sector outpaces the broader market &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/260226/p8#a260226p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
