@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
- - ⏩ [PAIGE NO!](http://9gag.com/gag/aAy5M6d)
- - 👉 [Mom won the night](http://9gag.com/gag/aZZ5E8V)<!-- MEMES:END -->
+ - 💣 [3... 2.. 1. hot](http://9gag.com/gag/arywqxy)
+ - ⏩ [In case you feel stupid](http://9gag.com/gag/a5Q32zy)
+ - 👉 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)<!-- MEMES:END -->
 
 ---
 
