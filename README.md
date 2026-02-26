@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Skild AI CEO Deepak Pathak on building a general-purpose brain for robots, standing out among big tech&#39;s robotics efforts, the path to AGI, and more &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260226/p4#a260226p4)
- - [TurboTax Service Codes: Up to 20% Off | February 2026](https://www.wired.com/story/turbotax-coupon/)
- - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)<!-- TECH:END -->
+ - [London-based digital bank Allica, which caters to over 30K SMBs across the UK, raised a $155M Series D from Ventura Capital and others at a $1.2B valuation &lpar;Tom Matsuda/Sifted&rpar;](http://www.techmeme.com/260226/p7#a260226p7)
+ - [A look at VW&#39;s robotaxi unit MOIA, which has 100 test vehicles across Germany, Norway, and the US, and plans to launch its robotaxis this year in LA with Uber &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p6#a260226p6)
+ - [Sources: Apple is in talks with Visa, Mastercard, and Indian banks ICICI, HDFC, and Axis as it plans to launch Apple Pay in India around mid-2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260226/p5#a260226p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
