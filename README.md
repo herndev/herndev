@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save money now and later with this Maxfree Rechargeable Batteries deal](https://www.androidauthority.com/maxfree-rechargeable-4-aaa-and-4-aa-batteries-deal-3644293/)
- - [Some AI policymakers and lawyers warn that DOD&#39;s threats to Anthropic are contradictory and could chill partnerships between the government and Silicon Valley &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/260226/p45#a260226p45)
- - [DHS reportedly detained a Columbia University student and content creator](https://www.theverge.com/policy/885525/columbia-university-student-detained-dhs-influencer)<!-- TECH:END -->
+ - [Check out the Nothing Phone 4a’s snazzy new Glyph layout](https://www.androidauthority.com/nothing-phone-4a-glyph-light-video-3644770/)
+ - [Samsung exec confirms you can blame RAM — and other materials — for the Galaxy S26’s higher pricetag](https://www.theverge.com/tech/885566/samsung-ram-galaxy-s26-price)
+ - [This AI Agent Is Designed to Not Go Rogue](https://www.wired.com/story/ironcurtain-ai-agent-security/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
