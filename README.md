@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK&#39;s Virgin Media O2 launches Europe&#39;s first satellite-to-mobile service, powered by Starlink and initially available for £3/month on select Samsung devices &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/260225/p54#a260225p54)
- - [Filing: C3.ai plans to cut ~26% of its workforce; the company had ~1,200 employees as of April 2025; C3.ai shares drop 20%+ after hours on weaker FY guidance &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260225/p53#a260225p53)
- - [Samsung Galaxy S26 Ultra vs. Galaxy S26 and S26 Plus: Flagship Specs Comparison](https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/)<!-- TECH:END -->
+ - [Samsung is surprising Galaxy users with a no-strings-attached $50 credit](https://www.androidauthority.com/samsung-free-50-dollar-credit-3644460/)
+ - [The FTC says it won&#39;t enforce COPPA against companies using age verification tools as long as they use the collected data only to verify a user&#39;s age &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/260225/p57#a260225p57)
+ - [OpenAI hires Meta AI researcher Ruoming Pang, who joined Meta from Apple about seven months ago for a pay package reportedly worth $200M+ over several years &lpar;The Information&rpar;](http://www.techmeme.com/260225/p56#a260225p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
