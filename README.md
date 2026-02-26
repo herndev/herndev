@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Open-source tool Scrapling gains traction with OpenClaw users who want their bots to scrape sites without permission and has 200K+ downloads since its release &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260225/p60#a260225p60)
  - [Nvidia says the US government granted it a license to ship a small number of H200 chips to Chinese customers, but it&#39;s unclear if Beijing will allow any imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/260225/p59#a260225p59)
- - [Galaxy S26 Ultra’s Privacy Display just passed an independent test, and the numbers are wild!](https://www.androidauthority.com/samsung-privacy-display-ul-solutions-verification-3644471/)
- - [Anthropic unveils scheduled tasks in Cowork, enabling Claude to complete recurring tasks at specific times automatically &lpar;Claude/@claudeai&rpar;](http://www.techmeme.com/260225/p58#a260225p58)<!-- TECH:END -->
+ - [Galaxy S26 Ultra’s Privacy Display just passed an independent test, and the numbers are wild!](https://www.androidauthority.com/samsung-privacy-display-ul-solutions-verification-3644471/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
