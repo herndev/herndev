@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why no magnets in Galaxy S26? Samsung R&amp;#038;D chief explains](https://www.theverge.com/news/885616/samsung-galaxy-s26-no-magnets-because-people-use-cases)
- - [CoreWeave reports Q4 revenue up 110% YoY to $1.57B, vs. $1.55B est., and adjusted loss of $284M, vs. $258.9M est.; CRWV drops 5%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/260226/p51#a260226p51)
- - [Android 17 Beta 2 just dropped for Pixel testers](https://www.androidauthority.com/android-17-beta-2-3644789/)<!-- TECH:END -->
+ - [Brazil is Apple TV&#39;s second largest market &amp; is growing fast, says Eddy Cue](https://appleinsider.com/articles/26/02/26/brazil-is-apple-tvs-second-largest-market-is-growing-fast-says-eddy-cue?utm_source=rss)
+ - [Netflix is walking away from a deal to buy WBD&#39;s studio and streaming assets after the WBD board deemed a revised bid by Paramount Skydance to be superior &lpar;CNBC&rpar;](http://www.techmeme.com/260226/p54#a260226p54)
+ - [The Pentagon says it has offered compromises to Anthropic, including putting in writing that laws already bar the military from mass surveillance of Americans &lpar;Jennifer Jacobs/CBS News&rpar;](http://www.techmeme.com/260226/p53#a260226p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
