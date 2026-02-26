@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Oura competitor is reimagining how users interact with data](https://www.androidauthority.com/luna-ring-luna-voice-launch-3644515/)
- - [5 Android phones you should buy instead of the Samsung Galaxy S26 Ultra](https://www.androidauthority.com/samsung-galaxy-s26-ultra-alternatives-3643592/)
- - [Not everyone wants bleeding-edge Pro chips, and this reader survey proves it](https://www.androidauthority.com/snapdragon-pro-vs-standard-poll-results-3644513/)<!-- TECH:END -->
+ - [Salesforce CEO Marc Benioff dismisses concerns of a &quot;SaaS-pocalypse&quot;, saying companies like Anthropic use &quot;a lot of SaaS because it just got better with agents&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p16#a260226p16)
+ - [Google takes control of ‘Android of robotics’ project in quest for physical AI](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)
+ - [As studios like Arc Raiders maker Embark embrace AI for non-essential game elements, gamers worry that AI squeezes the art out of games, amid industry job cuts &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/260226/p15#a260226p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
