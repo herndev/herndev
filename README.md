@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out Nano Banana 2, aka Gemini 3.1 Flash Image, with advanced world knowledge and precision text rendering and translation, across its products &lpar;Naina Raisinghani/The Keyword&rpar;](http://www.techmeme.com/260226/p35#a260226p35)
- - [8BitDo’s customizable Pro 3 controller is $30 off for the first time](https://www.theverge.com/gadgets/885192/8bitdo-pro-3-controller-switch-2-pc-galaxy-buds-4-pro-deal-sale)
- - [Nano Banana 2 brings improved image generation features to Gemini for free](https://www.androidauthority.com/google-gemini-nano-banana-2-3644579/)<!-- TECH:END -->
+ - [Viture, which ranked top in XR glasses shipments in the US in Q3 2025, per IDC, raised $100M, bringing its funding in the past six months to $200M &lpar;Charlie Fink/Forbes&rpar;](http://www.techmeme.com/260226/p41#a260226p41)
+ - [Cricut’s most popular cutting machine now takes up less space in your crafting room](https://www.theverge.com/tech/883743/cricut-cutting-machine-explore-5-joy-2-drawing-writing-crafting)
+ - [A Greek court sentences four people, including spyware maker Intellexa&#39;s founder, to prison, for using spyware to target journalists, politicians, and others &lpar;Nektaria Stamouli/Politico&rpar;](http://www.techmeme.com/260226/p40#a260226p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
