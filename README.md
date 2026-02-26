@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce CEO Marc Benioff dismisses concerns of a &quot;SaaS-pocalypse&quot;, saying companies like Anthropic use &quot;a lot of SaaS because it just got better with agents&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260226/p16#a260226p16)
- - [Google takes control of ‘Android of robotics’ project in quest for physical AI](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)
- - [As studios like Arc Raiders maker Embark embrace AI for non-essential game elements, gamers worry that AI squeezes the art out of games, amid industry job cuts &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/260226/p15#a260226p15)<!-- TECH:END -->
+ - [An analysis of 1,000+ YouTube Shorts videos recommended to kids: the algorithm pushes bizarre, often nonsensical, AI-generated videos, and many lack disclosures &lpar;Arijeta Lajka/New York Times&rpar;](http://www.techmeme.com/260226/p21#a260226p21)
+ - [Samsung Galaxy S26 vs Galaxy S24: Here’s why I would upgrade this year](https://www.androidauthority.com/galaxy-s26-vs-galaxy-s24-3643501/)
+ - [Who’s Your Daddy? A Chatbot](https://www.wired.com/story/whos-your-daddy-a-chatbot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
