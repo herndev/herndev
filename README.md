@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When they&#39;re SO GOOD, you gotta leave and think about your life.](http://9gag.com/gag/aND5Lmr)
- - ⏩ [Straight to jail](http://9gag.com/gag/awy2gpy)
- - 👉 [The Danish army conducted IQ tests, then grouped the results by first name.](http://9gag.com/gag/aGy5LY0)<!-- MEMES:END -->
+ - 💣 [Don\u2019t worry the cops got this. Y\u2019all keep messing with that lock](http://9gag.com/gag/ae9wmOq)
+ - ⏩ [Why is the rich friend so cheap??](http://9gag.com/gag/aLn5Ang)
+ - 👉 [Mom won the night](http://9gag.com/gag/aZZ5E8V)<!-- MEMES:END -->
 
 ---
 
