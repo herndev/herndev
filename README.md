@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don\u2019t worry the cops got this. Y\u2019all keep messing with that lock](http://9gag.com/gag/ae9wmOq)
+ - 💣 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
  - ⏩ [Why is the rich friend so cheap??](http://9gag.com/gag/aLn5Ang)
- - 👉 [Mom won the night](http://9gag.com/gag/aZZ5E8V)<!-- MEMES:END -->
+ - 👉 [You think the story about Epstein is crazy? Learn about this Belgian guy. 27 witness got suiced. High-ranking politicians were involved. The world is insane.](http://9gag.com/gag/ae9wVL5)<!-- MEMES:END -->
 
 ---
 
