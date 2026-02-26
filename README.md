@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: DOD asked Boeing and Lockheed Martin to assess their reliance on Claude, a first step toward blacklisting Anthropic; Lockheed confirms it was contacted &lpar;Axios&rpar;](http://www.techmeme.com/260225/p47#a260225p47)
- - [AMD will buy $150M in Nutanix stock and provide up to $100M to fund joint initiatives to develop an infrastructure platform for powering AI applications &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260225/p46#a260225p46)
- - [The best-supported Android TV box around has a new update incoming](https://www.androidauthority.com/nvidia-shield-tv-update-3-3644349/)<!-- TECH:END -->
+ - [Sources: Saronic, which is building autonomous warships, is raising up to $1.5B at a ~$7.5B pre-money valuation; Saronic was last valued at $3.4B a year ago &lpar;The Information&rpar;](http://www.techmeme.com/260225/p52#a260225p52)
+ - [New York&#39;s AG sues Valve over its use of loot boxes, accusing the game developer of violating state gambling laws and threatening to addict children to gambling &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260225/p51#a260225p51)
+ - [Alphabet&#39;s Intrinsic, which builds AI models and software for industrial robots, joins Google; it will remain a distinct entity and work with Google DeepMind &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/260225/p50#a260225p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
