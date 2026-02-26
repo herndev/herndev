@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S26 proves Google was right all along](https://www.androidauthority.com/galaxy-s26-proves-google-3644431/)
- - [Keep your expensive Galaxy S26 Ultra safe with these cases](https://www.androidauthority.com/best-galaxy-s26-ultra-case-3643259/)
- - [We asked experts how to build a resume for the AI hiring era](https://www.theverge.com/featured-video/884368/we-asked-experts-how-to-build-a-resume-for-the-ai-hiring-era)<!-- TECH:END -->
+ - [Google rolls out Nano Banana 2, aka Gemini 3.1 Flash Image, with advanced world knowledge and precision text rendering and translation, across its products &lpar;Naina Raisinghani/The Keyword&rpar;](http://www.techmeme.com/260226/p35#a260226p35)
+ - [8BitDo’s customizable Pro 3 controller is $30 off for the first time](https://www.theverge.com/gadgets/885192/8bitdo-pro-3-controller-switch-2-pc-galaxy-buds-4-pro-deal-sale)
+ - [Nano Banana 2 brings improved image generation features to Gemini for free](https://www.androidauthority.com/google-gemini-nano-banana-2-3644579/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
