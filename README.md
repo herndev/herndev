@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check out the Nothing Phone 4a’s snazzy new Glyph layout](https://www.androidauthority.com/nothing-phone-4a-glyph-light-video-3644770/)
- - [Samsung exec confirms you can blame RAM — and other materials — for the Galaxy S26’s higher pricetag](https://www.theverge.com/tech/885566/samsung-ram-galaxy-s26-price)
- - [This AI Agent Is Designed to Not Go Rogue](https://www.wired.com/story/ironcurtain-ai-agent-security/)<!-- TECH:END -->
+ - [Why no magnets in Galaxy S26? Samsung R&amp;#038;D chief explains](https://www.theverge.com/news/885616/samsung-galaxy-s26-no-magnets-because-people-use-cases)
+ - [CoreWeave reports Q4 revenue up 110% YoY to $1.57B, vs. $1.55B est., and adjusted loss of $284M, vs. $258.9M est.; CRWV drops 5%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/260226/p51#a260226p51)
+ - [Android 17 Beta 2 just dropped for Pixel testers](https://www.androidauthority.com/android-17-beta-2-3644789/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
