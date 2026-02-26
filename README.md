@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Viture, which ranked top in XR glasses shipments in the US in Q3 2025, per IDC, raised $100M, bringing its funding in the past six months to $200M &lpar;Charlie Fink/Forbes&rpar;](http://www.techmeme.com/260226/p41#a260226p41)
- - [Cricut’s most popular cutting machine now takes up less space in your crafting room](https://www.theverge.com/tech/883743/cricut-cutting-machine-explore-5-joy-2-drawing-writing-crafting)
- - [A Greek court sentences four people, including spyware maker Intellexa&#39;s founder, to prison, for using spyware to target journalists, politicians, and others &lpar;Nektaria Stamouli/Politico&rpar;](http://www.techmeme.com/260226/p40#a260226p40)<!-- TECH:END -->
+ - [AYN’s 3DS-style Thor handheld is facing another price hike](https://www.androidauthority.com/ayn-thor-april-price-hike-3644695/)
+ - [Apple Watch Series 11 drops to $299, plus grab deals on titanium styles](https://appleinsider.com/articles/26/02/26/apple-watch-series-11-drops-to-299-plus-grab-deals-on-titanium-styles?utm_source=rss)
+ - [Play Store subscriptions start keeping track of Play Points](https://www.androidauthority.com/play-store-subscriptions-3644635/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
