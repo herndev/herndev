@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of 1,000+ YouTube Shorts videos recommended to kids: the algorithm pushes bizarre, often nonsensical, AI-generated videos, and many lack disclosures &lpar;Arijeta Lajka/New York Times&rpar;](http://www.techmeme.com/260226/p21#a260226p21)
- - [Samsung Galaxy S26 vs Galaxy S24: Here’s why I would upgrade this year](https://www.androidauthority.com/galaxy-s26-vs-galaxy-s24-3643501/)
- - [Who’s Your Daddy? A Chatbot](https://www.wired.com/story/whos-your-daddy-a-chatbot/)<!-- TECH:END -->
+ - [Software stocks in the State Street ETF lost $1.6T in combined market cap in 2026 due to AI fears; Microsoft, AppLovin, Intuit, and Salesforce each lost $50B+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260226/p27#a260226p27)
+ - [Bermuda-based crypto trading platform STS Digital, which caters to institutional investors, raised $30M led by CMT Digital, with Kraken and others participating &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260226/p26#a260226p26)
+ - [Burger King will use AI to check if employees say ‘please’ and ‘thank you’](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
