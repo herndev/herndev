@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
- - ⏩ [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
- - 👉 [Remember pop rocks?](http://9gag.com/gag/aMV5OvM)<!-- MEMES:END -->
+ - 💣 [Beep boop I&#39;m not a bot](http://9gag.com/gag/agmwE6v)
+ - ⏩ [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
+ - 👉 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)<!-- MEMES:END -->
 
 ---
 
