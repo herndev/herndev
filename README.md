@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini just made it easier to import images and videos](https://www.androidauthority.com/gemini-image-video-import-3645222/)
- - [As part of the Amazon-OpenAI deal, the companies plan a &quot;stateful runtime environment&quot; for AWS, letting agents carry context forward to handle ongoing projects &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260227/p28#a260227p28)
- - [Save 33% on this portable Logitech M196 Wireless Mouse](https://www.androidauthority.com/logitech-m196-wireless-mouse-deal-3644746/)<!-- TECH:END -->
+ - [President Trump calls Anthropic a &quot;radical left, woke company&quot; and says he is directing every federal agency in the US to stop using its products &lpar;Axios&rpar;](http://www.techmeme.com/260227/p31#a260227p31)
+ - [Google Photos on Android finally catches up with tool iOS has had since last year](https://www.androidauthority.com/google-photos-stickers-android-3645265/)
+ - [Sources: SpaceX weighs filing confidentially for an IPO as soon as March, targeting a June listing that could raise up to $50B at a $1.75T valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260227/p30#a260227p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
