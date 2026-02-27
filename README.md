@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dario Amodei says Anthropic cannot &quot;in good conscience&quot; accede to DOD&#39;s request to remove safeguards and will work to ensure a smooth transition if offboarded &lpar;Anthropic&rpar;](http://www.techmeme.com/260226/p60#a260226p60)
- - [The Latest Repair Battlefield Is the Iowa Farmlands—Again](https://www.wired.com/story/latest-repair-battlefield-iowa-farmlands-again/)
- - [Plaintiffs took &#39;unsupported leap&#39; in lawsuit Apple hopes to get dismissed](https://appleinsider.com/articles/26/02/27/plaintiffs-took-unsupported-leap-in-lawsuit-apple-hopes-to-get-dismissed?utm_source=rss)<!-- TECH:END -->
+ - [Razer’s new laptop sleeve has two MagSafe wireless charging pads](https://www.androidauthority.com/razer-wireless-charging-laptop-sleeve-3644842/)
+ - [Q&amp;A with Terence Tao on AI-generated Erdős solutions, &quot;cheap wins&quot;, hybrid human AI contributions, push-of-a-button workflows, new ways of doing math, and more &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/260226/p62#a260226p62)
+ - [Sources: two members of Thinking Machines Lab&#39;s founding team, Christian Gibson and Noah Shpak, left the startup and have been working at Meta for a few weeks &lpar;Business Insider&rpar;](http://www.techmeme.com/260226/p61#a260226p61)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
