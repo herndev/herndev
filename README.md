@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deepinder Goyal, who stepped down as Zomato&#39;s CEO, raised $54M at a $190M valuation for Temple, which aims to make high-performance wearables for elite athletes &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260227/p17#a260227p17)
- - [Wall Street Has AI Psychosis](https://www.wired.com/story/wall-street-has-ai-psychosis/)
- - [OpenAI says ChatGPT has 900M+ weekly active users, 50M+ consumer subscribers, and weekly Codex users have more than tripled since the start of the year to 1.6M &lpar;OpenAI&rpar;](http://www.techmeme.com/260227/p16#a260227p16)<!-- TECH:END -->
+ - [Lenovo is working on a foldable that could be both your handheld and desktop](https://www.androidauthority.com/lenovo-legion-go-fold-3645111/)
+ - [Google’s latest Pixel Studio update is a major downgrade](https://www.androidauthority.com/pixel-studio-downgrade-3645101/)
+ - [Get Apple&#39;s 15-inch MacBook Air M4 for $1,049 with this weekend deal](https://appleinsider.com/articles/26/02/27/get-apples-15-inch-macbook-air-m4-for-1049-with-this-weekend-deal?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
