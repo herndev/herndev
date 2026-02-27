@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Suno CEO and co-founder Mikey Shulman says the AI music company hit 2M paid subscribers and $300M ARR; pitch deck: it had 1M paid subscribers in November 2025 &lpar;Kristin Robinson/Billboard&rpar;](http://www.techmeme.com/260227/p22#a260227p22)
- - [The global RAM and SSD shortage crisis, explained](https://appleinsider.com/articles/26/02/27/the-global-ram-and-ssd-shortage-crisis-explained?utm_source=rss)
- - [HBO Max: The 26 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-to-watch-on-hbo-max-february-2026/)<!-- TECH:END -->
+ - [Two coalitions of workers, including employees of Amazon, Google, Microsoft, and OpenAI, ask their companies to join Anthropic in refusing DOD&#39;s demands &lpar;Bloomberg&rpar;](http://www.techmeme.com/260227/p24#a260227p24)
+ - [Samsung Galaxy A57 and A37 get big battery boosts — with one caveat](https://www.androidauthority.com/galaxy-a57-a37-energy-labels-3645178/)
+ - [CISA is getting a new acting director after less than a year](https://www.theverge.com/policy/886316/acting-cisa-director-replaced-madhu-gottumukkala)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
