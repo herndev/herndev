@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pattern recognition](http://9gag.com/gag/amowVV6)
- - ⏩ [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)
- - 👉 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
+ - 💣 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
+ - ⏩ [Funny how that works...](http://9gag.com/gag/a7oXN0b)
+ - 👉 [Wtf is that?](http://9gag.com/gag/aKG5YKW)<!-- MEMES:END -->
 
 ---
 
