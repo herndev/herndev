@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ultrahuman’s new flagship smart ring has a 15-day battery life](https://www.theverge.com/tech/885866/ultrahuman-ring-pro-jade-ai-launch-price-availability)
- - [Samsung Galaxy S26 Ultra vs Galaxy S23 Ultra: Here’s why I would upgrade](https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-s23-ultra-upgrade-3643379/)
- - [Notes from a Burmese Prison](https://www.theverge.com/cs/features/820915/notes-burmese-prison-comic)<!-- TECH:END -->
+ - [What Apple&#39;s launching in March, and more on the AppleInsider Podcast](https://appleinsider.com/articles/26/02/27/what-apples-launching-in-march-and-more-on-the-appleinsider-podcast?utm_source=rss)
+ - [AirPods Pro 3 vs Sony XM6 earbuds: Personal audio compared](https://appleinsider.com/inside/airpods-pro/vs/airpods-pro-3-vs-sony-xm6-earbuds-personal-audio-compared?utm_source=rss)
+ - [Tether says it has frozen $4.2B of its crypto token over links to &quot;illicit activity&quot;, including $3.5B since 2023 and $61M linked to pig-butchering scams &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/260227/p9#a260227p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
