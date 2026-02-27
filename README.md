@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [9 Resident Evil Requiem beginner&#39;s tips to help you stay alive](https://www.polygon.com/resident-evil-requiem-re9-beginners-tips-tricks/)
- - [Antique coin locations in Resident Evil Requiem](https://www.polygon.com/resident-evil-requiem-re9-antique-coin-locations/)
- - [Which ending should you pick in Resident Evil Requiem?](https://www.polygon.com/resident-evil-requiem-endings-choices-free-destroy-elpis/)<!-- GAME:END -->
+ - [Bus Simulator 27 Introduces Solaris and Debuts Coach Buses for the First Time](https://news.xbox.com/en-us/2026/02/27/bus-simulator-introduces-27-debuts-solaris-and-coach-buses/)
+ - [Marathon Server Slam update:  Bungie says if you&#39;re not getting enough PvP action, maybe you&#39;re just not looking for fights in the right places](https://www.pcgamer.com/games/fps/marathon-server-slam-update-bungie-says-if-youre-not-getting-enough-pvp-action-maybe-youre-just-not-looking-for-fights-in-the-right-places/)
+ - [Bloodborne Remake Reportedly Shot Down By FromSoftware As Bluepoint Games Scrambled For Ideas](https://kotaku.com/bloodbrone-remake-bluepoint-fromsoftware-ps5-2000674548)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
