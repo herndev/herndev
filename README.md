@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unexpected....](http://9gag.com/gag/awy2dBB)
- - ⏩ [I loved those two reactions in particular](http://9gag.com/gag/ayNwRmW)
- - 👉 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)<!-- MEMES:END -->
+ - 💣 [We haven&#39;t forgotten about you Iryna](http://9gag.com/gag/aE05DnG)
+ - ⏩ [Y so mad, bro?](http://9gag.com/gag/aD25X2Z)
+ - 👉 [When there was time for everything](http://9gag.com/gag/aYQ5q9O)<!-- MEMES:END -->
 
 ---
 
