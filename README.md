@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We haven&#39;t forgotten about you Iryna](http://9gag.com/gag/aE05DnG)
- - ⏩ [A more meaningful play](http://9gag.com/gag/awy243B)
- - 👉 [When there was time for everything](http://9gag.com/gag/aYQ5q9O)<!-- MEMES:END -->
+ - 💣 [Unexpected....](http://9gag.com/gag/awy2dBB)
+ - ⏩ [I loved those two reactions in particular](http://9gag.com/gag/ayNwRmW)
+ - 👉 [Bafta actors reaction after a guy with Tourette&#39;s started screaming the hard N......R](http://9gag.com/gag/ajPwZDq)<!-- MEMES:END -->
 
 ---
 
