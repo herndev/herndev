@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unexpected....](http://9gag.com/gag/awy2dBB)
- - ⏩ [Bafta actors reaction after a guy with Tourette&#39;s started screaming the hard N......R](http://9gag.com/gag/ajPwZDq)
- - 👉 [Filter accidentally turned off briefly revealing the red flags](http://9gag.com/gag/ayNwQAy)<!-- MEMES:END -->
+ - 💣 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
+ - ⏩ [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
+ - 👉 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)<!-- MEMES:END -->
 
 ---
 
