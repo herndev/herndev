@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pattern recognition](http://9gag.com/gag/amowVV6)
+ - 💣 [Melania nails it](http://9gag.com/gag/a0eq1xL)
  - ⏩ [Funny how that works...](http://9gag.com/gag/a7oXN0b)
- - 👉 [Houston we have a problem](http://9gag.com/gag/aqywzPR)<!-- MEMES:END -->
+ - 👉 [I believe I can fly](http://9gag.com/gag/ayNwvDM)<!-- MEMES:END -->
 
 ---
 
