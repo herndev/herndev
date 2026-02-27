@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)
- - ⏩ [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
- - 👉 [Unexpected....](http://9gag.com/gag/awy2dBB)<!-- MEMES:END -->
+ - 💣 [What species is that](http://9gag.com/gag/aryw2RB)
+ - ⏩ [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
+ - 👉 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
 
 ---
 
