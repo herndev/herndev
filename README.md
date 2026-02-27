@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California DMV records show Tesla has logged zero autonomous test miles on the state&#39;s roads since 2019, despite Musk&#39;s claims of an imminent CA robotaxi launch &lpar;Chris Kirkham/Reuters&rpar;](http://www.techmeme.com/260227/p3#a260227p3)
- - [Sources: Jeff Bezos&#39; Project Prometheus is raising tens of billions to buy companies hit by AI; it was valued at ~$30B in November 2025 when it raised $6.2B &lpar;Financial Times&rpar;](http://www.techmeme.com/260227/p2#a260227p2)
- - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)<!-- TECH:END -->
+ - [Samsung confirms it is not killing the S Pen, shares plans for the future](https://www.androidauthority.com/samsung-galaxy-s-pen-not-killed-3644869/)
+ - [Security researchers detail AirSnitch, a series of attacks that bypass Wi-Fi client isolation, enabling machine-in-the-middle attacks in modern Wi-Fi networks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/260227/p4#a260227p4)
+ - [California DMV records show Tesla has logged zero autonomous test miles on the state&#39;s roads since 2019, despite Musk&#39;s claims of an imminent CA robotaxi launch &lpar;Chris Kirkham/Reuters&rpar;](http://www.techmeme.com/260227/p3#a260227p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
