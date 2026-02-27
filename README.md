@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [DICE agrees that some Battlefield 6 vehicles are &#39;death traps&#39; and is planning a Labs test dedicated to &#39;vehicle improvements&#39;](https://www.pcgamer.com/games/fps/dice-agrees-that-some-battlefield-6-vehicles-are-death-traps-and-is-planning-a-labs-test-dedicated-to-vehicle-improvements/)
- - [28 Years Later: The Bone Temple, Good Fortune, and everything new to stream this weekend](https://www.polygon.com/new-movies-to-watch-28-years-later-bone-temple-kill-bill-february-20-2026/)
- - [The Internet Reacts To The Massive Shakeup At Xbox](https://kotaku.com/phil-spencer-xbox-sarah-bond-leaving-internet-reaction-2000672112)<!-- GAME:END -->
+ - [How to open the Organ Transport Box in Resident Evil Requiem](https://www.pcgamer.com/games/horror/resident-evil/requiem-organ-transport-box-solution/)
+ - [How to open warped doors in Resident Evil Requiem](https://www.pcgamer.com/games/horror/resident-evil/requiem-warped-doors/)
+ - [How to solve the scavenger hunt in Resident Evil Requiem](https://www.pcgamer.com/games/horror/resident-evil/requiem-scavenger-hunt-clue-location/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
