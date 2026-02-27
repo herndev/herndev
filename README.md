@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pattern recognition](http://9gag.com/gag/amowVV6)
- - ⏩ [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
- - 👉 [Eva Green](http://9gag.com/gag/ae9w7GO)<!-- MEMES:END -->
+ - 💣 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
+ - ⏩ [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
+ - 👉 [Remember pop rocks?](http://9gag.com/gag/aMV5OvM)<!-- MEMES:END -->
 
 ---
 
