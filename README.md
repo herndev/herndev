@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Unexpected....](http://9gag.com/gag/awy2dBB)
- - ⏩ [I loved those two reactions in particular](http://9gag.com/gag/ayNwRmW)
- - 👉 [Bafta actors reaction after a guy with Tourette&#39;s started screaming the hard N......R](http://9gag.com/gag/ajPwZDq)<!-- MEMES:END -->
+ - ⏩ [Bafta actors reaction after a guy with Tourette&#39;s started screaming the hard N......R](http://9gag.com/gag/ajPwZDq)
+ - 👉 [Filter accidentally turned off briefly revealing the red flags](http://9gag.com/gag/ayNwQAy)<!-- MEMES:END -->
 
 ---
 
