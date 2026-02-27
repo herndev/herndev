@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix isn&amp;#8217;t buying Warner Bros: All of the latest updates](https://www.theverge.com/news/839007/netflix-warner-acquisition)
- - [visionOS 26 gets fix to keep F1 &amp; MLS streams looking crisp](https://appleinsider.com/articles/26/02/26/apple-vision-pro-owners-get-sports-related-fix-to-keep-f1-mls-streams-looking-crisp?utm_source=rss)
- - [TCL&amp;#8217;s $7,000+ flagship TV is ready to fight](https://www.theverge.com/tech/884981/tcl-x11l-sqd-mini-led-tv-review)<!-- TECH:END -->
+ - [Amazon will invest $15B in OpenAI initially, followed by $35B if certain conditions are met; OpenAI commits to consuming ~2 GW of Trainium capacity through AWS &lpar;About Amazon&rpar;](http://www.techmeme.com/260227/p13#a260227p13)
+ - [Pokémon Winds and Waves launch on the Switch 2 in 2027](https://www.theverge.com/games/885321/pokemon-winds-and-waves-trailer-browt-pombom-gecua)
+ - [Huel tries to solve the ‘burden’ of eating](https://www.theverge.com/column/885444/optimizer-huel-wellness-supplements-meal-replacement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
