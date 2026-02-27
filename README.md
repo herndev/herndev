@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Deals Can Have You Zipping Around on a New E-Scooter This Spring](https://www.wired.com/story/electric-scooters-spring-deals-2026/)
- - [Paramount agrees to acquire WBD, paying $31 per share in cash, giving WBD an enterprise value of $110B; Paramount paid a $2.8B breakup fee to Netflix &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260227/p32#a260227p32)
- - [Deal: UGREEN Nexode Power Bank 20,000mAh 130W hits record-low price](https://www.androidauthority.com/ugreen-nexode-power-bank-20000mah-130w-deal-3644744/)<!-- TECH:END -->
+ - [Dell stock closes up 22%, its biggest single-day gain since March 1, 2024, after the company gave an outlook for sales of its AI servers that exceeded estimates &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260227/p34#a260227p34)
+ - [Defense Secretary Pete Hegseth directs the DOD to designate Anthropic as a supply chain risk, barring military contractors from doing business with the company &lpar;@secwar&rpar;](http://www.techmeme.com/260227/p33#a260227p33)
+ - [The FCC Just Approved Charter’s $34.5 Billion Cox Purchase. Here’s What It Means for 37 Million Customers](https://www.cnet.com/home/internet/fcc-approves-charter-acquisition-of-cox/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
