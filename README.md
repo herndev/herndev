@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
- - ⏩ [Houston we have a problem](http://9gag.com/gag/aqywzPR)
- - 👉 [Eva Green](http://9gag.com/gag/ae9w7GO)<!-- MEMES:END -->
+ - 💣 [Pattern recognition](http://9gag.com/gag/amowVV6)
+ - ⏩ [Funny how that works...](http://9gag.com/gag/a7oXN0b)
+ - 👉 [Houston we have a problem](http://9gag.com/gag/aqywzPR)<!-- MEMES:END -->
 
 ---
 
