@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve&#39;s former economist, now a member of parliament in Greece, is being put on trial for promoting drug use because he admitted to taking ecstasy 36 years ago](https://www.pcgamer.com/gaming-industry/valves-former-economist-now-a-member-of-parliament-in-greece-is-being-put-on-trial-for-promoting-drug-use-because-he-admitted-to-taking-ecstasy-36-years-ago/)
- - [We Are So Cooked Trailer Turns Hiding A Dead Body Into A Cozy Co-op Game](https://kotaku.com/we-are-so-cooked-game-trailer-2000674161)
- - [Resident Evil Requiem guide: Puzzle solutions, locked doors, collectibles, and more](https://www.pcgamer.com/games/resident-evil/re-requiem-re9-guide/)<!-- GAME:END -->
+ - [9 Resident Evil Requiem beginner&#39;s tips to help you stay alive](https://www.polygon.com/resident-evil-requiem-re9-beginners-tips-tricks/)
+ - [Antique coin locations in Resident Evil Requiem](https://www.polygon.com/resident-evil-requiem-re9-antique-coin-locations/)
+ - [Which ending should you pick in Resident Evil Requiem?](https://www.polygon.com/resident-evil-requiem-endings-choices-free-destroy-elpis/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
