@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump calls Anthropic a &quot;radical left, woke company&quot; and says he is directing every federal agency in the US to stop using its products &lpar;Axios&rpar;](http://www.techmeme.com/260227/p31#a260227p31)
- - [Google Photos on Android finally catches up with tool iOS has had since last year](https://www.androidauthority.com/google-photos-stickers-android-3645265/)
- - [Sources: SpaceX weighs filing confidentially for an IPO as soon as March, targeting a June listing that could raise up to $50B at a $1.75T valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260227/p30#a260227p30)<!-- TECH:END -->
+ - [These Deals Can Have You Zipping Around on a New E-Scooter This Spring](https://www.wired.com/story/electric-scooters-spring-deals-2026/)
+ - [Paramount agrees to acquire WBD, paying $31 per share in cash, giving WBD an enterprise value of $110B; Paramount paid a $2.8B breakup fee to Netflix &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260227/p32#a260227p32)
+ - [Deal: UGREEN Nexode Power Bank 20,000mAh 130W hits record-low price](https://www.androidauthority.com/ugreen-nexode-power-bank-20000mah-130w-deal-3644744/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
