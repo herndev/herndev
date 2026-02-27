@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A more meaningful play](http://9gag.com/gag/awy243B)
- - ⏩ [We haven&#39;t forgotten about you Iryna](http://9gag.com/gag/aE05DnG)
+ - 💣 [We haven&#39;t forgotten about you Iryna](http://9gag.com/gag/aE05DnG)
+ - ⏩ [A more meaningful play](http://9gag.com/gag/awy243B)
  - 👉 [When there was time for everything](http://9gag.com/gag/aYQ5q9O)<!-- MEMES:END -->
 
 ---
