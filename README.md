@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
- - ⏩ [I loved those two reactions in particular](http://9gag.com/gag/ayNwRmW)
- - 👉 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
+ - 💣 [Unexpected....](http://9gag.com/gag/awy2dBB)
+ - ⏩ [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
+ - 👉 [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)<!-- MEMES:END -->
 
 ---
 
