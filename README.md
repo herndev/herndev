@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’m a die-hard Pixel fan, and I’m jealous of the Galaxy S26 Ultra](https://www.androidauthority.com/pixel-fan-jealous-galaxy-s26-ultra-3644236/)
- - [Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses](https://www.wired.com/story/data-broker-breaches-fueled-dollar209-billion-in-identity-theft-losses/)
- - [ESR has all the accessories you need for the Samsung Galaxy S26 series](https://www.androidauthority.com/esr-samsung-galaxy-s26-accessories-3643464/)<!-- TECH:END -->
+ - [5 reasons why I wouldn’t upgrade from the Galaxy S24 Ultra to the S26 Ultra](https://www.androidauthority.com/galaxy-s26-ultra-vs-s24-ultra-3643104/)
+ - [This is the best Pixel 10a alternative according to our readers](https://www.androidauthority.com/best-pixel-10a-alternative-poll-results-3644732/)
+ - [Tin Can Is a Dumb Phone for Kids. Can Someone Teach Them How to Use It?](https://www.wired.com/story/tin-can-is-a-dumb-phone-for-kids-can-someone-teach-them-how-to-use-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
