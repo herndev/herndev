@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t buy the Galaxy S26 yet — try it on your current phone first](https://www.androidauthority.com/samsung-try-galaxy-app-lets-you-test-drive-s26-features-3644895/)
- - [Galaxy S26 Ultra’s Privacy Display arrived a year later than it was meant to](https://www.androidauthority.com/galaxy-s26-ultra-privacy-display-delayed-3644887/)
- - [Don’t hold your breath for a Galaxy S26 Edge or TriFold 2](https://www.androidauthority.com/samsung-s25-edge-trifold-successor-future-uncertain-3644873/)<!-- TECH:END -->
+ - [I’m a die-hard Pixel fan, and I’m jealous of the Galaxy S26 Ultra](https://www.androidauthority.com/pixel-fan-jealous-galaxy-s26-ultra-3644236/)
+ - [Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses](https://www.wired.com/story/data-broker-breaches-fueled-dollar209-billion-in-identity-theft-losses/)
+ - [ESR has all the accessories you need for the Samsung Galaxy S26 series](https://www.androidauthority.com/esr-samsung-galaxy-s26-accessories-3643464/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
