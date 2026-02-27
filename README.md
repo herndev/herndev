@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Apple&#39;s launching in March, and more on the AppleInsider Podcast](https://appleinsider.com/articles/26/02/27/what-apples-launching-in-march-and-more-on-the-appleinsider-podcast?utm_source=rss)
- - [AirPods Pro 3 vs Sony XM6 earbuds: Personal audio compared](https://appleinsider.com/inside/airpods-pro/vs/airpods-pro-3-vs-sony-xm6-earbuds-personal-audio-compared?utm_source=rss)
- - [Tether says it has frozen $4.2B of its crypto token over links to &quot;illicit activity&quot;, including $3.5B since 2023 and $61M linked to pig-butchering scams &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/260227/p9#a260227p9)<!-- TECH:END -->
+ - [Netflix isn&amp;#8217;t buying Warner Bros: All of the latest updates](https://www.theverge.com/news/839007/netflix-warner-acquisition)
+ - [visionOS 26 gets fix to keep F1 &amp; MLS streams looking crisp](https://appleinsider.com/articles/26/02/26/apple-vision-pro-owners-get-sports-related-fix-to-keep-f1-mls-streams-looking-crisp?utm_source=rss)
+ - [TCL&amp;#8217;s $7,000+ flagship TV is ready to fight](https://www.theverge.com/tech/884981/tcl-x11l-sqd-mini-led-tv-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
