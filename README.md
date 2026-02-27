@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazil is Apple TV&#39;s second largest market &amp; is growing fast, says Eddy Cue](https://appleinsider.com/articles/26/02/26/brazil-is-apple-tvs-second-largest-market-is-growing-fast-says-eddy-cue?utm_source=rss)
- - [Netflix is walking away from a deal to buy WBD&#39;s studio and streaming assets after the WBD board deemed a revised bid by Paramount Skydance to be superior &lpar;CNBC&rpar;](http://www.techmeme.com/260226/p54#a260226p54)
- - [The Pentagon says it has offered compromises to Anthropic, including putting in writing that laws already bar the military from mass surveillance of Americans &lpar;Jennifer Jacobs/CBS News&rpar;](http://www.techmeme.com/260226/p53#a260226p53)<!-- TECH:END -->
+ - [Hands-On With Nano Banana 2, the Latest Version of Google&#39;s AI Image Generator](https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/)
+ - [The latest from Amazfit is for runners who don’t want a scary training watch](https://www.androidauthority.com/amazfit-active-3-premium-3644815/)
+ - [Intuit reports Q2 revenue up 17% YoY to $4.65B, vs. $4.53B est., and forecasts Q3 revenue growth of ~10% and EPS below expectations; INTU drops 5%+ after hours &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/260226/p57#a260226p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
