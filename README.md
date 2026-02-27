@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Japanese government plans to invest ~$1.6B in Rapidus over the next two fiscal years to help it mass-produce 2nm logic chips and potentially challenge TSMC &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/260226/p67#a260226p67)
  - [A first look at Nothing’s Headphone &lpar;a&rpar; reveals a bold yellow color and long battery life](https://www.androidauthority.com/nothing-headphone-a-launch-teaser-3644856/)
- - [Letter: 100+ Google DeepMind and other AI employees urge Jeff Dean to block US military deals that use Gemini for mass surveillance or autonomous weapons &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/260226/p66#a260226p66)
- - [CISA&#39;s interim director Madhu Gottumukkala is reassigned as DHS&#39; director of strategic implementation; executive assistant director Nick Andersen will take over &lpar;Luke Barr/ABC News&rpar;](http://www.techmeme.com/260226/p65#a260226p65)<!-- TECH:END -->
+ - [Letter: 100+ Google DeepMind and other AI employees urge Jeff Dean to block US military deals that use Gemini for mass surveillance or autonomous weapons &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/260226/p66#a260226p66)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
