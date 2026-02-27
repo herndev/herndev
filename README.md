@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)
- - ⏩ [Funny how that works...](http://9gag.com/gag/a7oXN0b)
- - 👉 [Wtf is that?](http://9gag.com/gag/aKG5YKW)<!-- MEMES:END -->
+ - 💣 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
+ - ⏩ [Houston we have a problem](http://9gag.com/gag/aqywzPR)
+ - 👉 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
 
 ---
 
