@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon will invest $15B in OpenAI initially, followed by $35B if certain conditions are met; OpenAI commits to consuming ~2 GW of Trainium capacity through AWS &lpar;About Amazon&rpar;](http://www.techmeme.com/260227/p13#a260227p13)
- - [Pokémon Winds and Waves launch on the Switch 2 in 2027](https://www.theverge.com/games/885321/pokemon-winds-and-waves-trailer-browt-pombom-gecua)
- - [Huel tries to solve the ‘burden’ of eating](https://www.theverge.com/column/885444/optimizer-huel-wellness-supplements-meal-replacement)<!-- TECH:END -->
+ - [Deepinder Goyal, who stepped down as Zomato&#39;s CEO, raised $54M at a $190M valuation for Temple, which aims to make high-performance wearables for elite athletes &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260227/p17#a260227p17)
+ - [Wall Street Has AI Psychosis](https://www.wired.com/story/wall-street-has-ai-psychosis/)
+ - [OpenAI says ChatGPT has 900M+ weekly active users, 50M+ consumer subscribers, and weekly Codex users have more than tripled since the start of the year to 1.6M &lpar;OpenAI&rpar;](http://www.techmeme.com/260227/p16#a260227p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
