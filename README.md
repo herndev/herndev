@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
- - ⏩ [Houston we have a problem](http://9gag.com/gag/aqywzPR)
- - 👉 [My brain is filled with useless information like this that will never actually help me in life.](http://9gag.com/gag/aPA2XOV)<!-- MEMES:END -->
+ - 💣 [Houston we have a problem](http://9gag.com/gag/aqywzPR)
+ - ⏩ [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
+ - 👉 [Funny how that works...](http://9gag.com/gag/a7oXN0b)<!-- MEMES:END -->
 
 ---
 
