@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung confirms it is not killing the S Pen, shares plans for the future](https://www.androidauthority.com/samsung-galaxy-s-pen-not-killed-3644869/)
- - [Security researchers detail AirSnitch, a series of attacks that bypass Wi-Fi client isolation, enabling machine-in-the-middle attacks in modern Wi-Fi networks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/260227/p4#a260227p4)
- - [California DMV records show Tesla has logged zero autonomous test miles on the state&#39;s roads since 2019, despite Musk&#39;s claims of an imminent CA robotaxi launch &lpar;Chris Kirkham/Reuters&rpar;](http://www.techmeme.com/260227/p3#a260227p3)<!-- TECH:END -->
+ - [Don’t buy the Galaxy S26 yet — try it on your current phone first](https://www.androidauthority.com/samsung-try-galaxy-app-lets-you-test-drive-s26-features-3644895/)
+ - [Galaxy S26 Ultra’s Privacy Display arrived a year later than it was meant to](https://www.androidauthority.com/galaxy-s26-ultra-privacy-display-delayed-3644887/)
+ - [Don’t hold your breath for a Galaxy S26 Edge or TriFold 2](https://www.androidauthority.com/samsung-s25-edge-trifold-successor-future-uncertain-3644873/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
