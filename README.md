@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to open the Organ Transport Box in Resident Evil Requiem](https://www.pcgamer.com/games/horror/resident-evil/requiem-organ-transport-box-solution/)
- - [How to open warped doors in Resident Evil Requiem](https://www.pcgamer.com/games/horror/resident-evil/requiem-warped-doors/)
- - [How to solve the scavenger hunt in Resident Evil Requiem](https://www.pcgamer.com/games/horror/resident-evil/requiem-scavenger-hunt-clue-location/)<!-- GAME:END -->
+ - [We Are So Cooked Trailer Turns Hiding A Dead Body Into A Cozy Co-op Game](https://kotaku.com/we-are-so-cooked-game-trailer-2000674161)
+ - [Resident Evil Requiem guide: Puzzle solutions, locked doors, collectibles, and more](https://www.pcgamer.com/games/resident-evil/re-requiem-re9-guide/)
+ - [An Ode To Pokémon’s Ash Ketchum](https://kotaku.com/pokemon-anime-ash-ketchum-pikachu-final-episode-netflix-1850805389)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
