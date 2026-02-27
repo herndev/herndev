@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two coalitions of workers, including employees of Amazon, Google, Microsoft, and OpenAI, ask their companies to join Anthropic in refusing DOD&#39;s demands &lpar;Bloomberg&rpar;](http://www.techmeme.com/260227/p24#a260227p24)
- - [Samsung Galaxy A57 and A37 get big battery boosts — with one caveat](https://www.androidauthority.com/galaxy-a57-a37-energy-labels-3645178/)
- - [CISA is getting a new acting director after less than a year](https://www.theverge.com/policy/886316/acting-cisa-director-replaced-madhu-gottumukkala)<!-- TECH:END -->
+ - [Gemini just made it easier to import images and videos](https://www.androidauthority.com/gemini-image-video-import-3645222/)
+ - [As part of the Amazon-OpenAI deal, the companies plan a &quot;stateful runtime environment&quot; for AWS, letting agents carry context forward to handle ongoing projects &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260227/p28#a260227p28)
+ - [Save 33% on this portable Logitech M196 Wireless Mouse](https://www.androidauthority.com/logitech-m196-wireless-mouse-deal-3644746/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
