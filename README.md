@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unexpected....](http://9gag.com/gag/awy2dBB)
- - ⏩ [It&#39;s wild how the perception of men and women differ](http://9gag.com/gag/awy2d1y)
- - 👉 [I loved those two reactions in particular](http://9gag.com/gag/ayNwRmW)<!-- MEMES:END -->
+ - 💣 [A more meaningful play](http://9gag.com/gag/awy243B)
+ - ⏩ [We haven&#39;t forgotten about you Iryna](http://9gag.com/gag/aE05DnG)
+ - 👉 [When there was time for everything](http://9gag.com/gag/aYQ5q9O)<!-- MEMES:END -->
 
 ---
 
