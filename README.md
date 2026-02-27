@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf is that?](http://9gag.com/gag/aKG5YKW)
- - ⏩ [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)
- - 👉 [Damn Windows 11, with the previous update it restarts the shutdown process](http://9gag.com/gag/a1mj26Y)<!-- MEMES:END -->
+ - 💣 [Unexpected....](http://9gag.com/gag/awy2dBB)
+ - ⏩ [I loved those two reactions in particular](http://9gag.com/gag/ayNwRmW)
+ - 👉 [They knew what they were doing](http://9gag.com/gag/aKG5Y2g)<!-- MEMES:END -->
 
 ---
 
