@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer’s new laptop sleeve has two MagSafe wireless charging pads](https://www.androidauthority.com/razer-wireless-charging-laptop-sleeve-3644842/)
- - [Q&amp;A with Terence Tao on AI-generated Erdős solutions, &quot;cheap wins&quot;, hybrid human AI contributions, push-of-a-button workflows, new ways of doing math, and more &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/260226/p62#a260226p62)
- - [Sources: two members of Thinking Machines Lab&#39;s founding team, Christian Gibson and Noah Shpak, left the startup and have been working at Meta for a few weeks &lpar;Business Insider&rpar;](http://www.techmeme.com/260226/p61#a260226p61)<!-- TECH:END -->
+ - [xAI co-founder Toby Pohlen is leaving the company, the seventh of 12 xAI co-founders to depart; Elon Musk put Pohlen in charge of Macrohard earlier this month &lpar;Tamsin McMahon/Bloomberg&rpar;](http://www.techmeme.com/260226/p64#a260226p64)
+ - [OpenAI says it will overhaul safety protocols and establish direct contact with Canadian police, after not alerting authorities about the Tumbler Ridge suspect &lpar;Mickey Djuric/Politico&rpar;](http://www.techmeme.com/260226/p63#a260226p63)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Feb. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-feb-27/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
