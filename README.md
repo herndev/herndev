@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-On With Nano Banana 2, the Latest Version of Google&#39;s AI Image Generator](https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/)
- - [The latest from Amazfit is for runners who don’t want a scary training watch](https://www.androidauthority.com/amazfit-active-3-premium-3644815/)
- - [Intuit reports Q2 revenue up 17% YoY to $4.65B, vs. $4.53B est., and forecasts Q3 revenue growth of ~10% and EPS below expectations; INTU drops 5%+ after hours &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/260226/p57#a260226p57)<!-- TECH:END -->
+ - [Dario Amodei says Anthropic cannot &quot;in good conscience&quot; accede to DOD&#39;s request to remove safeguards and will work to ensure a smooth transition if offboarded &lpar;Anthropic&rpar;](http://www.techmeme.com/260226/p60#a260226p60)
+ - [The Latest Repair Battlefield Is the Iowa Farmlands—Again](https://www.wired.com/story/latest-repair-battlefield-iowa-farmlands-again/)
+ - [Plaintiffs took &#39;unsupported leap&#39; in lawsuit Apple hopes to get dismissed](https://appleinsider.com/articles/26/02/27/plaintiffs-took-unsupported-leap-in-lawsuit-apple-hopes-to-get-dismissed?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
