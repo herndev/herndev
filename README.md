@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 reasons why I wouldn’t upgrade from the Galaxy S24 Ultra to the S26 Ultra](https://www.androidauthority.com/galaxy-s26-ultra-vs-s24-ultra-3643104/)
- - [This is the best Pixel 10a alternative according to our readers](https://www.androidauthority.com/best-pixel-10a-alternative-poll-results-3644732/)
- - [Tin Can Is a Dumb Phone for Kids. Can Someone Teach Them How to Use It?](https://www.wired.com/story/tin-can-is-a-dumb-phone-for-kids-can-someone-teach-them-how-to-use-it/)<!-- TECH:END -->
+ - [Ultrahuman’s new flagship smart ring has a 15-day battery life](https://www.theverge.com/tech/885866/ultrahuman-ring-pro-jade-ai-launch-price-availability)
+ - [Samsung Galaxy S26 Ultra vs Galaxy S23 Ultra: Here’s why I would upgrade](https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-s23-ultra-upgrade-3643379/)
+ - [Notes from a Burmese Prison](https://www.theverge.com/cs/features/820915/notes-burmese-prison-comic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
