@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Melania nails it](http://9gag.com/gag/a0eq1xL)
- - ⏩ [Funny how that works...](http://9gag.com/gag/a7oXN0b)
- - 👉 [I believe I can fly](http://9gag.com/gag/ayNwvDM)<!-- MEMES:END -->
+ - 💣 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
+ - ⏩ [I believe I can fly](http://9gag.com/gag/ayNwvDM)
+ - 👉 [Beep boop I&#39;m not a bot](http://9gag.com/gag/agmwE6v)<!-- MEMES:END -->
 
 ---
 
