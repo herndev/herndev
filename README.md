@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Support Israel and AIPAC](http://9gag.com/gag/aD25qRG)
- - ⏩ [In case you need some motivation today.](http://9gag.com/gag/a7oXPmb)
- - 👉 [When shes home alone...](http://9gag.com/gag/aD25red)<!-- MEMES:END -->
+ - 💣 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
+ - ⏩ [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
+ - 👉 [Average 9gag hater](http://9gag.com/gag/aVv59w8)<!-- MEMES:END -->
 
 ---
 
