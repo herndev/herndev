@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Frontier AI labs&#39; policies around military use of their AI tools are incoherent, vague, and often prone to change, allowing leadership to preserve &quot;optionality&quot; &lpar;Sarah Shoker/fishbowlification&rpar;](http://www.techmeme.com/260302/p5#a260302p5)
- - [Tecno’s latest concept phone is lit by neon](https://www.theverge.com/gadgets/886923/tecnos-latest-concept-phone-is-lit-by-neon)
- - [AYN Thor and Odin 3 price hikes confirmed: Here’s how much you’ll pay now](https://www.androidauthority.com/ayn-thor-odin-3-price-hike-march-2026-3645551/)<!-- TECH:END -->
+ - [Corning debuts Gorilla Glass Ceramic 3, its toughest protective smartphone glass yet](https://www.androidauthority.com/corning-gorilla-glass-ceramic-3-3645569/)
+ - [8 Gemini tricks on Android most people still aren’t using](https://www.androidauthority.com/gemini-tips-and-tricks-android-3644941/)
+ - [Survey suggests the days of viewing foldable phones as a novelty are over](https://www.androidauthority.com/foldable-phones-daily-driver-poll-results-3645542/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
