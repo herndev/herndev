@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nevermind a bone](http://9gag.com/gag/a6Z63Re)
- - ⏩ [When shes home alone...](http://9gag.com/gag/aD25red)
- - 👉 [Le Title.](http://9gag.com/gag/aPA2dxB)<!-- MEMES:END -->
+ - 💣 [Ukrainian Student](http://9gag.com/gag/aND58pw)
+ - ⏩ [Stunt double?](http://9gag.com/gag/axywA6K)
+ - 👉 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)<!-- MEMES:END -->
 
 ---
 
