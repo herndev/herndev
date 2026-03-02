@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell stock closes up 22%, its biggest single-day gain since March 1, 2024, after the company gave an outlook for sales of its AI servers that exceeded estimates &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260227/p34#a260227p34)
- - [Defense Secretary Pete Hegseth directs the DOD to designate Anthropic as a supply chain risk, barring military contractors from doing business with the company &lpar;@secwar&rpar;](http://www.techmeme.com/260227/p33#a260227p33)
- - [The FCC Just Approved Charter’s $34.5 Billion Cox Purchase. Here’s What It Means for 37 Million Customers](https://www.cnet.com/home/internet/fcc-approves-charter-acquisition-of-cox/)<!-- TECH:END -->
+ - [Block is a poster child for the lack of operational discipline common among mid-tier public tech companies that lived on the largesse of cloud, mobile, and ZIRP &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/260301/p16#a260301p16)
+ - [Ted Sarandos interview on the scenario planning Netflix did before Paramount&#39;s final WBD bid, how if Paramount&#39;s deal closes there&#39;ll be cuts of $16B+, and more &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260301/p15#a260301p15)
+ - [India, home to one of the world&#39;s biggest AI user bases, should treat local datasets for AI as a strategic asset to avoid training Silicon Valley for free &lpar;Catherine Thorbecke/Bloomberg&rpar;](http://www.techmeme.com/260301/p14#a260301p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
