@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The long game](http://9gag.com/gag/aND538G)
- - ⏩ [Somebody asked why I got Resident Evil Requiem on Steam instead of Xbox or PlayStation.](http://9gag.com/gag/ae9wdqm)
- - 👉 [Me irl](http://9gag.com/gag/a4PyxLd)<!-- MEMES:END -->
+ - 💣 [You should go hiking. Its such lovely weather](http://9gag.com/gag/aW45NRn)
+ - ⏩ [Ancient Roman engineering still going strong after 2000 years](http://9gag.com/gag/aD25P97)
+ - 👉 [Le Title.](http://9gag.com/gag/aPA2dxB)<!-- MEMES:END -->
 
 ---
 
