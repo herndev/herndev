@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at what rights AI companies have in US government contracts, including the &quot;any lawful use&quot; standard, amid the Anthropic-DOD dispute and OpenAI-DOD deal &lpar;Jessica Tillipman&rpar;](http://www.techmeme.com/260302/p25#a260302p25)
- - [Investigating the 61-pound machine that eats plastic and spits out bricks](https://www.theverge.com/science/887063/clear-drop-review-soft-plastic-compactor-recycling-downcycling)
- - [Zillow&amp;#8217;s CEO on growing the company during a housing crisis](https://www.theverge.com/podcast/887414/zillow-jeremy-wacksman-interview-ai-slop-housing-crisis)<!-- TECH:END -->
+ - [War in Iran Spiked Oil Prices. Trump Will Decide How High They Go](https://www.wired.com/story/war-in-iran-sent-oil-prices-up-trump-will-decide-how-high-they-go/)
+ - [Samsung just turned your Galaxy phone into a digital house key](https://www.androidauthority.com/samsung-wallet-digital-home-key-feature-3645706/)
+ - [Samsung’s Digital Home Key lets you use your phone as your key](https://www.theverge.com/tech/887564/samsung-wallet-digital-key-smart-home-aliro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
