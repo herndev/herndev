@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ukrainian Student](http://9gag.com/gag/aND58pw)
- - ⏩ [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
- - 👉 [Im not even surprised...](http://9gag.com/gag/an7w8M5)<!-- MEMES:END -->
+ - 💣 [Nevermind a bone](http://9gag.com/gag/a6Z63Re)
+ - ⏩ [When shes home alone...](http://9gag.com/gag/aD25red)
+ - 👉 [Le Title.](http://9gag.com/gag/aPA2dxB)<!-- MEMES:END -->
 
 ---
 
