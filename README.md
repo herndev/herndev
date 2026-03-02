@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
- - ⏩ [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)
- - 👉 [Average 9gag hater](http://9gag.com/gag/aVv59w8)<!-- MEMES:END -->
+ - 💣 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)
+ - ⏩ [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
+ - 👉 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)<!-- MEMES:END -->
 
 ---
 
