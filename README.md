@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Icarus Is The Perfect Survival Sim No One’s Talking About](https://kotaku.com/icarus-survival-sim-dean-hall-day-z-steam-pc-2000672788)
- - [Call of Duty Warzone is getting a Blackout-inspired mode next week](https://www.polygon.com/call-of-duty-warzone-black-ops-royale-blackout-inspired-mode/)
- - [The 100 best Pokémon of all time, ranked from best to very best](https://www.polygon.com/best-pokemon-ranked/)<!-- GAME:END -->
+ - [Trump’s Neck Looks Like It Needs A Green Herb](https://kotaku.com/president-trump-neck-infection-red-rash-resident-evil-2000675090)
+ - [Marathon might just break a long-standing Sony curse through genuine fun](https://www.polygon.com/marathon-hardcore-gamers-new-favorite-shooter/)
+ - [New GTA 6 Leak Was Sitting On Someone’s Phone For Four Years Before They Posted It](https://kotaku.com/new-gta-6-leak-was-sitting-on-someones-phone-for-four-years-before-they-posted-it-2000675071)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
