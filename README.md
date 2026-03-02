@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple updates the iPad Air with M4, including an 8-core CPU and 9-core GPU, 12GB of unified memory, N1 networking chip, starting at $599 and $799 in 11&quot; or 13&quot; &lpar;Apple&rpar;](http://www.techmeme.com/260302/p22#a260302p22)
- - [Apple iPhone 17e: Specs, Features, Release Date, Price](https://www.wired.com/story/apple-iphone-17e/)
- - [Apple unveils the iPhone 17e, offering a 6.1-inch display, a 3nm A19 chip, a C1X modem, a 48MP Fusion camera, and more, for $599+ and shipping from March 11 &lpar;Apple&rpar;](http://www.techmeme.com/260302/p21#a260302p21)<!-- TECH:END -->
+ - [A look at what rights AI companies have in US government contracts, including the &quot;any lawful use&quot; standard, amid the Anthropic-DOD dispute and OpenAI-DOD deal &lpar;Jessica Tillipman&rpar;](http://www.techmeme.com/260302/p25#a260302p25)
+ - [Investigating the 61-pound machine that eats plastic and spits out bricks](https://www.theverge.com/science/887063/clear-drop-review-soft-plastic-compactor-recycling-downcycling)
+ - [Zillow&amp;#8217;s CEO on growing the company during a housing crisis](https://www.theverge.com/podcast/887414/zillow-jeremy-wacksman-interview-ai-slop-housing-crisis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
