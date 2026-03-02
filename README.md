@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monitor Control Room safe code location in Resident Evil Requiem](https://www.polygon.com/resident-evil-requiem-re9-monitor-control-room-safe-code-location-how-to-open/)
- - [Nacon postpones its Nacon Connect showcase so it can concentrate on going insolvent](https://www.pcgamer.com/gaming-industry/nacon-postpones-its-nacon-connect-showcase-so-it-can-concentrate-on-going-insolvent/)
- - [Resident Evil Requiem&#39;s Leon S. Kennedy is the internet&#39;s new boyfriend](https://www.polygon.com/resident-evil-requiem-leon-kennedy-thirst/)<!-- GAME:END -->
+ - [All antique coin locations in Resident Evil Requiem](https://www.polygon.com/resident-evil-requiem-re9-antique-coin-locations/)
+ - [The Analogue Pocket Is Finally Back In Stock But Even More Expensive As Retro Handheld Costs Rise](https://kotaku.com/analogue-pocket-stock-price-ayn-odin-thor-2000675092)
+ - [Bungie is considering a dedicated duos mode and time-to-kill changes after Marathon server slam feedback](https://www.pcgamer.com/games/fps/bungie-is-considering-a-dedicated-duos-mode-and-time-to-kill-changes-after-marathon-sever-slam-feedback/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
