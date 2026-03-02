@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola goes for the foldable crown with the new Razr Fold at MWC](https://www.androidauthority.com/motorola-razr-fold-3645523/)
- - [The Motorola Razr Fold is shaping up to be pure flagship](https://www.theverge.com/tech/887249/motorola-razr-fold-specs-camera-silicon-carbon-battery)
- - [Early data show wages are rising for AI-exposed jobs that place a high value on a &quot;worker&#39;s tacit knowledge and experience&quot;, as textbook knowledge loses value &lpar;J. Scott Davis/Federal Reserve Bank of Dallas&rpar;](http://www.techmeme.com/260301/p20#a260301p20)<!-- TECH:END -->
+ - [Australian AI infrastructure company Firmus signed a multi-billion deal with an unnamed customer to build a Melbourne data center with 18,400 Nvidia GB300 chips &lpar;Sharon Klyne/Bloomberg&rpar;](http://www.techmeme.com/260302/p1#a260302p1)
+ - [Motorola&#39;s Upcoming Razr Fold Pairs a Massive Battery With a Sleek Design](https://www.cnet.com/tech/mobile/motorola-razr-battery-design-details-mwc-2026/)
+ - [Motorola goes for the foldable crown with the new Razr Fold at MWC](https://www.androidauthority.com/motorola-razr-fold-3645523/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
