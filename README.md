@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Waymo robotaxi stopped in the middle of a road and blocked an ambulance near a mass shooting site in Austin; Waymo confirms it was en route for rider pickup &lpar;Nicole Cobler/Axios&rpar;](http://www.techmeme.com/260301/p19#a260301p19)
  - [A profile of Telegram CEO Pavel Durov, who is facing a probe in France on a dozen preliminary charges and a Russian criminal case for &quot;aiding terrorism&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260301/p18#a260301p18)
- - [Save $100 on iPad mini 7, plus grab Apple Pencil Pro deal](https://appleinsider.com/articles/26/03/02/save-100-on-ipad-mini-7-plus-grab-apple-pencil-pro-deal?utm_source=rss)
- - [AWS said objects struck one of its data centers in the UAE, impacting its mec1-az2 availability zone, and that connectivity will take several hours to restore &lpar;Reuters&rpar;](http://www.techmeme.com/260301/p17#a260301p17)<!-- TECH:END -->
+ - [Save $100 on iPad mini 7, plus grab Apple Pencil Pro deal](https://appleinsider.com/articles/26/03/02/save-100-on-ipad-mini-7-plus-grab-apple-pencil-pro-deal?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
