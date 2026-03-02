@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ukrainian Student](http://9gag.com/gag/aND58pw)
- - ⏩ [Stunt double?](http://9gag.com/gag/axywA6K)
- - 👉 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)<!-- MEMES:END -->
+ - 💣 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
+ - ⏩ [Ukrainian Student](http://9gag.com/gag/aND58pw)
+ - 👉 [Stunt double?](http://9gag.com/gag/axywA6K)<!-- MEMES:END -->
 
 ---
 
