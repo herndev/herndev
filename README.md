@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ancient Roman engineering still going strong after 2000 years](http://9gag.com/gag/aD25P97)
- - ⏩ [Nevermind a bone](http://9gag.com/gag/a6Z63Re)
- - 👉 [You should go hiking. Its such lovely weather](http://9gag.com/gag/aW45NRn)<!-- MEMES:END -->
+ - 💣 [Le Title.](http://9gag.com/gag/aPA2dxB)
+ - ⏩ [Sounds and looks like something straight out of Mordor](http://9gag.com/gag/avywDn5)
+ - 👉 [Me irl](http://9gag.com/gag/a4PyxLd)<!-- MEMES:END -->
 
 ---
 
