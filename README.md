@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s spring hardware refresh brings new colors for cases and accessories](https://appleinsider.com/articles/26/03/02/apples-spring-hardware-refresh-brings-new-colors-for-cases-and-accessories?utm_source=rss)
- - [iPhone 17e vs iPhone 16e: Apple&#39;s low-end, compared](https://appleinsider.com/inside/iphone-17e/vs/iphone-17e-vs-iphone-16e-apples-low-end-compared?utm_source=rss)
- - [Nvidia&amp;#8217;s spending $4 billion on photonics to stay ahead of the curve in AI](https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent)<!-- TECH:END -->
+ - [Donut Lab’s solid-state battery can handle the &lpar;extreme&rpar; heat, test says](https://www.theverge.com/transportation/887552/donut-lab-solid-state-battery-extreme-heat-test)
+ - [Supreme Court won’t hear AI-generated art copyright case](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)
+ - [Like it or not, HBO Max and Paramount Plus are becoming one](https://www.androidauthority.com/hbo-max-paramount-plus-merge-3645784/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
