@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based Ease Health, which is building an AI-native OS for behavioral health providers, emerged from stealth and raised a $41M Series A led by a16z &lpar;Vignesh R/Tech Funding News&rpar;](http://www.techmeme.com/260302/p35#a260302p35)
- - [How the new iPhone 17E stacks up against Apple’s pricier phones](https://www.theverge.com/gadgets/887570/iphone-17e-vs-17-pro-max-air-spec-comparison-price-features)
- - [Alibaba releases the open-weight Qwen3.5 Small Model Series in 0.8B, 2B, 4B, and 9B sizes, claiming the 9B model rivals OpenAI&#39;s gpt-oss-120b on some benchmarks &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260302/p34#a260302p34)<!-- TECH:END -->
+ - [Apple’s cheapest AirPods have hit $89](https://www.theverge.com/gadgets/887839/apple-airpods-4-active-noise-cancellation-deal-sale)
+ - [These smart glasses are getting smarter with native support for Gemini, ChatGPT, and more](https://www.androidauthority.com/rokid-ai-glasses-support-gemini-3645861/)
+ - [Missile Attacks Are Overwhelming the Gulf. Delivery Drivers Are Still on the Roads](https://www.wired.com/story/with-missile-attacks-overhead-in-the-gulf-delivery-drivers-are-still-on-the-road/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
