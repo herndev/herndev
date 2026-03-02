@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
+ - 💣 [I don&#39;t get it... Ohhhh wait, now I do.](http://9gag.com/gag/aE05ELM)
  - ⏩ [Me irl](http://9gag.com/gag/a4PyxLd)
  - 👉 [Somebody asked why I got Resident Evil Requiem on Steam instead of Xbox or PlayStation.](http://9gag.com/gag/ae9wdqm)<!-- MEMES:END -->
 
