@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
- - ⏩ [Ukrainian Student](http://9gag.com/gag/aND58pw)
- - 👉 [Stunt double?](http://9gag.com/gag/axywA6K)<!-- MEMES:END -->
+ - 💣 [Support Israel and AIPAC](http://9gag.com/gag/aD25qRG)
+ - ⏩ [In case you need some motivation today.](http://9gag.com/gag/a7oXPmb)
+ - 👉 [When shes home alone...](http://9gag.com/gag/aD25red)<!-- MEMES:END -->
 
 ---
 
