@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Right now you can lock in a year of unlimited phone service for just $19 a month](https://www.androidauthority.com/tello-unlimited-spring-sale-3645837/)
- - [Amazon slashes AirPods 4 with active noise cancellation to $119, save 34%](https://appleinsider.com/articles/26/03/02/amazon-slashes-airpods-4-with-active-noise-cancellation-to-119-save-34?utm_source=rss)
- - [Performance anxiety: iPad Air M4 chip is binned, has only three performance cores](https://appleinsider.com/articles/26/03/02/performance-anxiety-ipad-air-m4-chip-is-binned-has-only-three-performance-cores?utm_source=rss)<!-- TECH:END -->
+ - [New York-based Ease Health, which is building an AI-native OS for behavioral health providers, emerged from stealth and raised a $41M Series A led by a16z &lpar;Vignesh R/Tech Funding News&rpar;](http://www.techmeme.com/260302/p35#a260302p35)
+ - [How the new iPhone 17E stacks up against Apple’s pricier phones](https://www.theverge.com/gadgets/887570/iphone-17e-vs-17-pro-max-air-spec-comparison-price-features)
+ - [Alibaba releases the open-weight Qwen3.5 Small Model Series in 0.8B, 2B, 4B, and 9B sizes, claiming the 9B model rivals OpenAI&#39;s gpt-oss-120b on some benchmarks &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260302/p34#a260302p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
