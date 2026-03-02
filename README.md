@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Kickstarter CEO Everette Taylor on modernizing the platform, attracting new creators, managing a fully remote, four-day-per-week workplace, and more &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/260302/p9#a260302p9)
- - [When the Internet Goes Dark, the Truth Goes With It](https://www.wired.com/story/plestia-alaqad-gaza-citizen-journalist-social-media/)
- - [Samsung confirms the next Galaxy Watch will jump to Qualcomm’s Snapdragon Wear Elite](https://www.androidauthority.com/samsung-galaxy-watch-snapdragon-wear-elite-3645580/)<!-- TECH:END -->
+ - [ASML CTO Marco Pieters says ASML plans to expand beyond EUV into advanced packaging, bonding, and connecting, and is building AI-based machine inspection tools &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/260302/p14#a260302p14)
+ - [Nothing Phone 4a breaks cover at MWC 2026 with a colorful lineup](https://www.androidauthority.com/nothing-phone-4a-colors-3645627/)
+ - [The US-led Iran bombing campaign causes longer delivery times for Amazon, Shein, and others in the Middle East, one of the fastest-growing e-commerce markets &lpar;Bloomberg&rpar;](http://www.techmeme.com/260302/p13#a260302p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
