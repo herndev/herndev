@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Block is a poster child for the lack of operational discipline common among mid-tier public tech companies that lived on the largesse of cloud, mobile, and ZIRP &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/260301/p16#a260301p16)
- - [Ted Sarandos interview on the scenario planning Netflix did before Paramount&#39;s final WBD bid, how if Paramount&#39;s deal closes there&#39;ll be cuts of $16B+, and more &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260301/p15#a260301p15)
- - [India, home to one of the world&#39;s biggest AI user bases, should treat local datasets for AI as a strategic asset to avoid training Silicon Valley for free &lpar;Catherine Thorbecke/Bloomberg&rpar;](http://www.techmeme.com/260301/p14#a260301p14)<!-- TECH:END -->
+ - [Save $100 on iPad mini 7, plus grab Apple Pencil Pro deal](https://appleinsider.com/articles/26/03/02/save-100-on-ipad-mini-7-plus-grab-apple-pencil-pro-deal?utm_source=rss)
+ - [AWS said objects struck one of its data centers in the UAE, impacting its mec1-az2 availability zone, and that connectivity will take several hours to restore &lpar;Reuters&rpar;](http://www.techmeme.com/260301/p17#a260301p17)
+ - [Block is a poster child for the lack of operational discipline common among mid-tier public tech companies that lived on the largesse of cloud, mobile, and ZIRP &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/260301/p16#a260301p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
