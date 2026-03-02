@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Donut Lab’s solid-state battery can handle the &lpar;extreme&rpar; heat, test says](https://www.theverge.com/transportation/887552/donut-lab-solid-state-battery-extreme-heat-test)
- - [Supreme Court won’t hear AI-generated art copyright case](https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright)
- - [Like it or not, HBO Max and Paramount Plus are becoming one](https://www.androidauthority.com/hbo-max-paramount-plus-merge-3645784/)<!-- TECH:END -->
+ - [ByteDance shares details about its &quot;Project Swan&quot; headset, set to launch this year with a 4,000-PPI micro-OLED display, and unveils Pico OS 6, its new XR OS &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/260302/p32#a260302p32)
+ - [macOS Tahoe 26.4 absent from third round of developer betas](https://appleinsider.com/articles/26/03/02/macos-tahoe-264-absent-from-third-round-of-developer-betas?utm_source=rss)
+ - [You could be an influencer without even realizing it](https://www.theverge.com/tech/887692/instagram-shop-the-look-ai-shopping-tiktok-influencers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
