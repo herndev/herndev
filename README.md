@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Le Title.](http://9gag.com/gag/aPA2dxB)
- - ⏩ [Stupidity](http://9gag.com/gag/aVv5BLP)
- - 👉 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)<!-- MEMES:END -->
+ - 💣 [Ancient Roman engineering still going strong after 2000 years](http://9gag.com/gag/aD25P97)
+ - ⏩ [Nevermind a bone](http://9gag.com/gag/a6Z63Re)
+ - 👉 [You should go hiking. Its such lovely weather](http://9gag.com/gag/aW45NRn)<!-- MEMES:END -->
 
 ---
 
