@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm’s next mobile connectivity chip ushers in the Wi-Fi 8 and Bluetooth 7 era](https://www.androidauthority.com/qualcomm-fastconnect-8800-reveal-3645483/)
- - [Snapdragon X105 is here: The modem to power Galaxy S27 and OnePlus 16?](https://www.androidauthority.com/snapdragon-x105-modem-3643541/)
- - [This new AMOLED display promises more natural light that’s easier on the eyes](https://www.androidauthority.com/tcl-nxtpaper-amoled-3645119/)<!-- TECH:END -->
+ - [This ridiculous Ultra phone is officially going global with crazy camera add-ons](https://www.androidauthority.com/vivo-x300-ultra-16x-lens-3645490/)
+ - [Vivo’s next phone will launch with a professional camera rig](https://www.theverge.com/gadgets/887250/vivo-x300-ultra-global-launch-telephoto-camera-cage)
+ - [MWC 2026: a look at Lenovo&#39;s concept devices, including a Framework-like modular laptop with swappable parts, and a gaming handheld with a folding display &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/260302/p3#a260302p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
