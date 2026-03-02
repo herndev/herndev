@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Trump’s Neck Looks Like It Needs A Green Herb](https://kotaku.com/president-trump-neck-infection-red-rash-resident-evil-2000675090)
- - [Marathon might just break a long-standing Sony curse through genuine fun](https://www.polygon.com/marathon-hardcore-gamers-new-favorite-shooter/)
- - [New GTA 6 Leak Was Sitting On Someone’s Phone For Four Years Before They Posted It](https://kotaku.com/new-gta-6-leak-was-sitting-on-someones-phone-for-four-years-before-they-posted-it-2000675071)<!-- GAME:END -->
+ - [Monitor Control Room safe code location in Resident Evil Requiem](https://www.polygon.com/resident-evil-requiem-re9-monitor-control-room-safe-code-location-how-to-open/)
+ - [Nacon postpones its Nacon Connect showcase so it can concentrate on going insolvent](https://www.pcgamer.com/gaming-industry/nacon-postpones-its-nacon-connect-showcase-so-it-can-concentrate-on-going-insolvent/)
+ - [Resident Evil Requiem&#39;s Leon S. Kennedy is the internet&#39;s new boyfriend](https://www.polygon.com/resident-evil-requiem-leon-kennedy-thirst/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
