@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corning debuts Gorilla Glass Ceramic 3, its toughest protective smartphone glass yet](https://www.androidauthority.com/corning-gorilla-glass-ceramic-3-3645569/)
- - [8 Gemini tricks on Android most people still aren’t using](https://www.androidauthority.com/gemini-tips-and-tricks-android-3644941/)
- - [Survey suggests the days of viewing foldable phones as a novelty are over](https://www.androidauthority.com/foldable-phones-daily-driver-poll-results-3645542/)<!-- TECH:END -->
+ - [Q&amp;A with Kickstarter CEO Everette Taylor on modernizing the platform, attracting new creators, managing a fully remote, four-day-per-week workplace, and more &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/260302/p9#a260302p9)
+ - [When the Internet Goes Dark, the Truth Goes With It](https://www.wired.com/story/plestia-alaqad-gaza-citizen-journalist-social-media/)
+ - [Samsung confirms the next Galaxy Watch will jump to Qualcomm’s Snapdragon Wear Elite](https://www.androidauthority.com/samsung-galaxy-watch-snapdragon-wear-elite-3645580/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
