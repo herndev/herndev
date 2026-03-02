@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Funny how that works...](http://9gag.com/gag/a7oXN0b)
- - ⏩ [I believe I can fly](http://9gag.com/gag/ayNwvDM)
- - 👉 [Beep boop I&#39;m not a bot](http://9gag.com/gag/agmwE6v)<!-- MEMES:END -->
+ - 💣 [Le Title.](http://9gag.com/gag/aPA2dxB)
+ - ⏩ [Stupidity](http://9gag.com/gag/aVv5BLP)
+ - 👉 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)<!-- MEMES:END -->
 
 ---
 
