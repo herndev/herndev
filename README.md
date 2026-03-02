@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Le Title.](http://9gag.com/gag/aPA2dxB)
- - ⏩ [Stunt double?](http://9gag.com/gag/axywA6K)
- - 👉 [Ukrainian Student](http://9gag.com/gag/aND58pw)<!-- MEMES:END -->
+ - 💣 [Ukrainian Student](http://9gag.com/gag/aND58pw)
+ - ⏩ [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
+ - 👉 [Im not even surprised...](http://9gag.com/gag/an7w8M5)<!-- MEMES:END -->
 
 ---
 
