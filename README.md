@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bus Simulator 27 Introduces Solaris and Debuts Coach Buses for the First Time](https://news.xbox.com/en-us/2026/02/27/bus-simulator-introduces-27-debuts-solaris-and-coach-buses/)
- - [Marathon Server Slam update:  Bungie says if you&#39;re not getting enough PvP action, maybe you&#39;re just not looking for fights in the right places](https://www.pcgamer.com/games/fps/marathon-server-slam-update-bungie-says-if-youre-not-getting-enough-pvp-action-maybe-youre-just-not-looking-for-fights-in-the-right-places/)
- - [Bloodborne Remake Reportedly Shot Down By FromSoftware As Bluepoint Games Scrambled For Ideas](https://kotaku.com/bloodbrone-remake-bluepoint-fromsoftware-ps5-2000674548)<!-- GAME:END -->
+ - [Grace&#39;s actor in Resident Evil Requiem says that Capcom &#39;wanted to go back to the horror Resident Evil games&#39;](https://www.pcgamer.com/games/resident-evil/resident-evil-requiem-performance-actor-says-they-sometimes-filmed-in-the-dark-to-make-the-situation-feel-as-close-to-what-it-was-without-you-know-having-a-real-life-zombie-running-at-you/)
+ - [Why I love Diablo 2, Act 1](https://www.pcgamer.com/games/rpg/why-i-love-diablo-2-act-1/)
+ - [Five new Steam games you probably missed &lpar;March 2, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-2-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
