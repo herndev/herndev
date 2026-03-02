@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s cheapest AirPods have hit $89](https://www.theverge.com/gadgets/887839/apple-airpods-4-active-noise-cancellation-deal-sale)
- - [These smart glasses are getting smarter with native support for Gemini, ChatGPT, and more](https://www.androidauthority.com/rokid-ai-glasses-support-gemini-3645861/)
- - [Missile Attacks Are Overwhelming the Gulf. Delivery Drivers Are Still on the Roads](https://www.wired.com/story/with-missile-attacks-overhead-in-the-gulf-delivery-drivers-are-still-on-the-road/)<!-- TECH:END -->
+ - [Source: Cursor&#39;s annualized revenue topped $2B in February, doubling from three months earlier, and about 60% of the revenue is coming from corporate customers &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260302/p39#a260302p39)
+ - [The US Treasury Department, State Department, and federal housing agency are ending use of Anthropic products; State Department says it will switch to OpenAI &lpar;Reuters&rpar;](http://www.techmeme.com/260302/p38#a260302p38)
+ - [Anthropic upgrades Claude’s memory to attract AI switchers](https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
