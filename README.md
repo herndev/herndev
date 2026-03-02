@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout co-creator Tim Cain says less is often more in game design: &#39;As a very wise designer once said to me, a game that includes everything is about nothing&#39;](https://www.pcgamer.com/gaming-industry/fallout-co-creator-tim-cain-says-less-is-often-more-in-game-design-as-a-very-wise-designer-once-said-to-me-a-game-that-includes-everything-is-about-nothing/)
- - [Sims 4 Players Don’t Understand How ‘Disgusting’ Epstein Family Made It Into Game’s Gallery](https://kotaku.com/sims-4-jeffrey-epstein-kids-family-ea-user-generated-content-gallery-fans-angry-2000675121)
- - [Pokémon Winds and Waves might have a totally new monster type](https://www.polygon.com/pokemon-winds-waves-type-fire-fairy-unused-rare-combo-pombon/)<!-- GAME:END -->
+ - [Fallout: New Vegas remaster hopium goes off like Mount Vesuvius as Iron Galaxy teases &#39;what&#39;s coming next&#39; with a very famous loading screen](https://www.pcgamer.com/games/fallout/fallout-new-vegas-remaster-hopium-goes-off-like-mount-vesuvius-as-iron-galaxy-teases-whats-coming-next-with-a-very-famous-loading-screen/)
+ - [Code Vein 2 interactive map](https://www.polygon.com/code-vein-2-interactive-map/)
+ - [Ubisoft Is Having A Pretty Enormous Sale Right Now](https://kotaku.com/ubisoft-steam-sale-assassins-creed-shadows-star-wars-2000675127)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
