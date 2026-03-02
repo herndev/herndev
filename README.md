@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grace&#39;s actor in Resident Evil Requiem says that Capcom &#39;wanted to go back to the horror Resident Evil games&#39;](https://www.pcgamer.com/games/resident-evil/resident-evil-requiem-performance-actor-says-they-sometimes-filmed-in-the-dark-to-make-the-situation-feel-as-close-to-what-it-was-without-you-know-having-a-real-life-zombie-running-at-you/)
- - [Why I love Diablo 2, Act 1](https://www.pcgamer.com/games/rpg/why-i-love-diablo-2-act-1/)
- - [Five new Steam games you probably missed &lpar;March 2, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-2-2026/)<!-- GAME:END -->
+ - [World of Warcraft: Midnight&#39;s &#39;stay a while and listen&#39; monologues might&#39;ve just heavily hinted at a future big bad](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnights-stay-a-while-and-listen-monologues-mightve-just-heavily-hinted-at-a-future-big-bad/)
+ - [Top analyst firm Gartner predicts the &#39;sub-$500 entry-level PC segment will disappear by 2028&#39;, along with worldwide PC shipment decline of 10.4% in 2026](https://www.pcgamer.com/hardware/gaming-pcs/top-analyst-firm-gartner-predicts-the-sub-usd500-entry-level-pc-segment-will-disappear-by-2028-along-with-worldwide-pc-shipment-decline-of-10-4-percent-in-2026/)
+ - [I completely missed a new item being introduced to Minecraft in my excitement over its new baby mobs, and you bet I&#39;m going to hoard thousands of them](https://www.pcgamer.com/games/survival-crafting/i-completely-missed-a-new-item-being-introduced-to-minecraft-in-my-excitement-over-its-new-baby-mobs-and-you-bet-im-going-to-hoard-thousands-of-them/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
