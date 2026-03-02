@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All antique coin locations in Resident Evil Requiem](https://www.polygon.com/resident-evil-requiem-re9-antique-coin-locations/)
- - [The Analogue Pocket Is Finally Back In Stock But Even More Expensive As Retro Handheld Costs Rise](https://kotaku.com/analogue-pocket-stock-price-ayn-odin-thor-2000675092)
- - [Bungie is considering a dedicated duos mode and time-to-kill changes after Marathon server slam feedback](https://www.pcgamer.com/games/fps/bungie-is-considering-a-dedicated-duos-mode-and-time-to-kill-changes-after-marathon-sever-slam-feedback/)<!-- GAME:END -->
+ - [Fallout co-creator Tim Cain says less is often more in game design: &#39;As a very wise designer once said to me, a game that includes everything is about nothing&#39;](https://www.pcgamer.com/gaming-industry/fallout-co-creator-tim-cain-says-less-is-often-more-in-game-design-as-a-very-wise-designer-once-said-to-me-a-game-that-includes-everything-is-about-nothing/)
+ - [Sims 4 Players Don’t Understand How ‘Disgusting’ Epstein Family Made It Into Game’s Gallery](https://kotaku.com/sims-4-jeffrey-epstein-kids-family-ea-user-generated-content-gallery-fans-angry-2000675121)
+ - [Pokémon Winds and Waves might have a totally new monster type](https://www.polygon.com/pokemon-winds-waves-type-fire-fairy-unused-rare-combo-pombon/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
