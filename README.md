@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASML CTO Marco Pieters says ASML plans to expand beyond EUV into advanced packaging, bonding, and connecting, and is building AI-based machine inspection tools &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/260302/p14#a260302p14)
- - [Nothing Phone 4a breaks cover at MWC 2026 with a colorful lineup](https://www.androidauthority.com/nothing-phone-4a-colors-3645627/)
- - [The US-led Iran bombing campaign causes longer delivery times for Amazon, Shein, and others in the Middle East, one of the fastest-growing e-commerce markets &lpar;Bloomberg&rpar;](http://www.techmeme.com/260302/p13#a260302p13)<!-- TECH:END -->
+ - [Anthropic&#39;s concerns are legitimate, but its position is intolerable and misaligned with a reality where US foes are developing autonomous fighting capabilities &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260302/p18#a260302p18)
+ - [Exclusive: I just went hands-on with the OPPO Find N6 at MWC 2026, and the crease is basically gone](https://www.androidauthority.com/oppo-find-n6-hands-on-design-specs-3645659/)
+ - [Retroid confirms top-spec Pocket 6 will be discontinued due to RAM price crunch](https://www.androidauthority.com/retroid-pocket-6-price-increases-discontinued-3645637/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
