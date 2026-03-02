@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A sober Generation?](http://9gag.com/gag/azxwD0K)
- - ⏩ [Somebody asked why I got Resident Evil Requiem on Steam instead of Xbox or PlayStation.](http://9gag.com/gag/ae9wdqm)
- - 👉 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)<!-- MEMES:END -->
+ - 💣 [Somebody asked why I got Resident Evil Requiem on Steam instead of Xbox or PlayStation.](http://9gag.com/gag/ae9wdqm)
+ - ⏩ [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
+ - 👉 [Le Title.](http://9gag.com/gag/aPA2dxB)<!-- MEMES:END -->
 
 ---
 
