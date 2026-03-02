@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ByteDance shares details about its &quot;Project Swan&quot; headset, set to launch this year with a 4,000-PPI micro-OLED display, and unveils Pico OS 6, its new XR OS &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/260302/p32#a260302p32)
- - [macOS Tahoe 26.4 absent from third round of developer betas](https://appleinsider.com/articles/26/03/02/macos-tahoe-264-absent-from-third-round-of-developer-betas?utm_source=rss)
- - [You could be an influencer without even realizing it](https://www.theverge.com/tech/887692/instagram-shop-the-look-ai-shopping-tiktok-influencers)<!-- TECH:END -->
+ - [Right now you can lock in a year of unlimited phone service for just $19 a month](https://www.androidauthority.com/tello-unlimited-spring-sale-3645837/)
+ - [Amazon slashes AirPods 4 with active noise cancellation to $119, save 34%](https://appleinsider.com/articles/26/03/02/amazon-slashes-airpods-4-with-active-noise-cancellation-to-119-save-34?utm_source=rss)
+ - [Performance anxiety: iPad Air M4 chip is binned, has only three performance cores](https://appleinsider.com/articles/26/03/02/performance-anxiety-ipad-air-m4-chip-is-binned-has-only-three-performance-cores?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
