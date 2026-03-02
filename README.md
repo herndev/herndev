@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australian AI infrastructure company Firmus signed a multi-billion deal with an unnamed customer to build a Melbourne data center with 18,400 Nvidia GB300 chips &lpar;Sharon Klyne/Bloomberg&rpar;](http://www.techmeme.com/260302/p1#a260302p1)
- - [Motorola&#39;s Upcoming Razr Fold Pairs a Massive Battery With a Sleek Design](https://www.cnet.com/tech/mobile/motorola-razr-battery-design-details-mwc-2026/)
- - [Motorola goes for the foldable crown with the new Razr Fold at MWC](https://www.androidauthority.com/motorola-razr-fold-3645523/)<!-- TECH:END -->
+ - [Qualcomm’s next mobile connectivity chip ushers in the Wi-Fi 8 and Bluetooth 7 era](https://www.androidauthority.com/qualcomm-fastconnect-8800-reveal-3645483/)
+ - [Snapdragon X105 is here: The modem to power Galaxy S27 and OnePlus 16?](https://www.androidauthority.com/snapdragon-x105-modem-3643541/)
+ - [This new AMOLED display promises more natural light that’s easier on the eyes](https://www.androidauthority.com/tcl-nxtpaper-amoled-3645119/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
