@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t get it... Ohhhh wait, now I do.](http://9gag.com/gag/aE05ELM)
- - ⏩ [Me irl](http://9gag.com/gag/a4PyxLd)
- - 👉 [Somebody asked why I got Resident Evil Requiem on Steam instead of Xbox or PlayStation.](http://9gag.com/gag/ae9wdqm)<!-- MEMES:END -->
+ - 💣 [They should make an app for things like this](http://9gag.com/gag/ae9wy6v)
+ - ⏩ [Nevermind a bone](http://9gag.com/gag/a6Z63Re)
+ - 👉 [Masking tape satisfaction](http://9gag.com/gag/aE05N4o)<!-- MEMES:END -->
 
 ---
 
