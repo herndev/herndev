@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Le Title.](http://9gag.com/gag/aPA2dxB)
- - ⏩ [Sounds and looks like something straight out of Mordor](http://9gag.com/gag/avywDn5)
+ - 💣 [The long game](http://9gag.com/gag/aND538G)
+ - ⏩ [Somebody asked why I got Resident Evil Requiem on Steam instead of Xbox or PlayStation.](http://9gag.com/gag/ae9wdqm)
  - 👉 [Me irl](http://9gag.com/gag/a4PyxLd)<!-- MEMES:END -->
 
 ---
