@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This ridiculous Ultra phone is officially going global with crazy camera add-ons](https://www.androidauthority.com/vivo-x300-ultra-16x-lens-3645490/)
- - [Vivo’s next phone will launch with a professional camera rig](https://www.theverge.com/gadgets/887250/vivo-x300-ultra-global-launch-telephoto-camera-cage)
- - [MWC 2026: a look at Lenovo&#39;s concept devices, including a Framework-like modular laptop with swappable parts, and a gaming handheld with a folding display &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/260302/p3#a260302p3)<!-- TECH:END -->
+ - [Frontier AI labs&#39; policies around military use of their AI tools are incoherent, vague, and often prone to change, allowing leadership to preserve &quot;optionality&quot; &lpar;Sarah Shoker/fishbowlification&rpar;](http://www.techmeme.com/260302/p5#a260302p5)
+ - [Tecno’s latest concept phone is lit by neon](https://www.theverge.com/gadgets/886923/tecnos-latest-concept-phone-is-lit-by-neon)
+ - [AYN Thor and Odin 3 price hikes confirmed: Here’s how much you’ll pay now](https://www.androidauthority.com/ayn-thor-odin-3-price-hike-march-2026-3645551/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
