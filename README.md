@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [War in Iran Spiked Oil Prices. Trump Will Decide How High They Go](https://www.wired.com/story/war-in-iran-sent-oil-prices-up-trump-will-decide-how-high-they-go/)
- - [Samsung just turned your Galaxy phone into a digital house key](https://www.androidauthority.com/samsung-wallet-digital-home-key-feature-3645706/)
- - [Samsung’s Digital Home Key lets you use your phone as your key](https://www.theverge.com/tech/887564/samsung-wallet-digital-key-smart-home-aliro)<!-- TECH:END -->
+ - [Apple&#39;s spring hardware refresh brings new colors for cases and accessories](https://appleinsider.com/articles/26/03/02/apples-spring-hardware-refresh-brings-new-colors-for-cases-and-accessories?utm_source=rss)
+ - [iPhone 17e vs iPhone 16e: Apple&#39;s low-end, compared](https://appleinsider.com/inside/iphone-17e/vs/iphone-17e-vs-iphone-16e-apples-low-end-compared?utm_source=rss)
+ - [Nvidia&amp;#8217;s spending $4 billion on photonics to stay ahead of the curve in AI](https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
