@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
- - ⏩ [Stupidity](http://9gag.com/gag/aVv5BLP)
- - 👉 [A sober Generation?](http://9gag.com/gag/azxwD0K)<!-- MEMES:END -->
+ - 💣 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
+ - ⏩ [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
+ - 👉 [Le Title.](http://9gag.com/gag/aPA2dxB)<!-- MEMES:END -->
 
 ---
 
