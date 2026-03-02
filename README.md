@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&#39;s concerns are legitimate, but its position is intolerable and misaligned with a reality where US foes are developing autonomous fighting capabilities &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260302/p18#a260302p18)
- - [Exclusive: I just went hands-on with the OPPO Find N6 at MWC 2026, and the crease is basically gone](https://www.androidauthority.com/oppo-find-n6-hands-on-design-specs-3645659/)
- - [Retroid confirms top-spec Pocket 6 will be discontinued due to RAM price crunch](https://www.androidauthority.com/retroid-pocket-6-price-increases-discontinued-3645637/)<!-- TECH:END -->
+ - [Apple updates the iPad Air with M4, including an 8-core CPU and 9-core GPU, 12GB of unified memory, N1 networking chip, starting at $599 and $799 in 11&quot; or 13&quot; &lpar;Apple&rpar;](http://www.techmeme.com/260302/p22#a260302p22)
+ - [Apple iPhone 17e: Specs, Features, Release Date, Price](https://www.wired.com/story/apple-iphone-17e/)
+ - [Apple unveils the iPhone 17e, offering a 6.1-inch display, a 3nm A19 chip, a C1X modem, a 48MP Fusion camera, and more, for $599+ and shipping from March 11 &lpar;Apple&rpar;](http://www.techmeme.com/260302/p21#a260302p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
