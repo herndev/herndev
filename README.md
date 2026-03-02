@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Scary Movie returns with franchise favorites and controversial humor in new trailer](https://www.polygon.com/scary-movie-6-trailer-release-date-anna-faris-reginal-hall/)
- - [Bringing ILL to life: How the dev translates horror filmmaking chops into the game](https://blog.playstation.com/2026/03/02/bringing-ill-to-life-how-the-dev-translates-horror-filmmaking-chops-into-the-game/)
- - [How to feed Ravens in Disney Dreamlight Valley](https://www.pcgamer.com/games/sim/how-to-feed-ravens-in-disney-dreamlight-valley/)<!-- GAME:END -->
+ - [Icarus Is The Perfect Survival Sim No One’s Talking About](https://kotaku.com/icarus-survival-sim-dean-hall-day-z-steam-pc-2000672788)
+ - [Call of Duty Warzone is getting a Blackout-inspired mode next week](https://www.polygon.com/call-of-duty-warzone-black-ops-royale-blackout-inspired-mode/)
+ - [The 100 best Pokémon of all time, ranked from best to very best](https://www.polygon.com/best-pokemon-ranked/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
