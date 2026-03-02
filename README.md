@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They should make an app for things like this](http://9gag.com/gag/ae9wy6v)
- - ⏩ [Nevermind a bone](http://9gag.com/gag/a6Z63Re)
- - 👉 [Masking tape satisfaction](http://9gag.com/gag/aE05N4o)<!-- MEMES:END -->
+ - 💣 [Ukrainian Student](http://9gag.com/gag/aND58pw)
+ - ⏩ [Le Title.](http://9gag.com/gag/aPA2dxB)
+ - 👉 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)<!-- MEMES:END -->
 
 ---
 
