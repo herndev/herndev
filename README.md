@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Cyberpunk 2077, Planet of Lana II, and More](https://news.xbox.com/en-us/2026/03/03/xbox-game-pass-march-2026-wave-1/)
- - [A Fallout 3 Or Fallout: New Vegas Remaster Rumor Is Spreading Like Wildfire](https://kotaku.com/fallout-3-new-vegas-remaster-rumor-iron-galaxy-bethesda-2000675327)
- - [How to get a Breathtaking Snowglobe in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-breathtaking-snowglobe/)<!-- GAME:END -->
+ - [Cyberpunk 2077 Has Never Been Better And Is Coming To Game Pass This Month](https://kotaku.com/xbox-game-pass-new-march-games-cyberpunk-silksong-2000675361)
+ - [Xbox Game Pass gets Cyberpunk 2077 and more in March](https://www.polygon.com/xbox-game-pass-march-2026-cyberpunk-2077-hollow-knight-silksong/)
+ - [Scott Pilgrim EX review: retro brawler is all references, little heart](https://www.polygon.com/scott-pilgrim-ex-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
