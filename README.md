@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fairphone Gen 6 is getting Android 16 this April](https://www.androidauthority.com/fairphone-gen-6-android-16-3646271/)
- - [A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals](https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/)
- - [Your Pixel can now double up as a full Android PC with nothing more than a USB-C cable](https://www.androidauthority.com/desktop-mode-march-pixel-drop-3646069/)<!-- TECH:END -->
+ - [Samsung wants to help you pay less at the pharmacy counter](https://www.androidauthority.com/samsung-health-wallet-integration-medication-savings-3646279/)
+ - [Sources: Meta is creating a new applied AI engineering organization led by Maher Saba in its Reality Labs division to help bolster its superintelligence efforts &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/260303/p33#a260303p33)
+ - [X announces a policy change suspending users from Creator Revenue Sharing for 90 days if they post AI-generated videos of an armed conflict without disclosure &lpar;Andre Revilla/Engadget&rpar;](http://www.techmeme.com/260303/p32#a260303p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
