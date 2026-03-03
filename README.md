@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn I would fall for it](http://9gag.com/gag/avywB5O)
- - ⏩ [Who are the the poorest minority?](http://9gag.com/gag/aE05NNN)
+ - 💣 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
+ - ⏩ [Brrrr](http://9gag.com/gag/an7w8eL)
  - 👉 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)<!-- MEMES:END -->
 
 ---
