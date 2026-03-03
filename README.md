@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keeping it old school](http://9gag.com/gag/aND5GOA)
- - ⏩ [At least they have fun](http://9gag.com/gag/aAy57YZ)
- - 👉 [So satisfying](http://9gag.com/gag/aBy5MKN)<!-- MEMES:END -->
+ - 💣 [At least they have fun](http://9gag.com/gag/aAy57YZ)
+ - ⏩ [So satisfying](http://9gag.com/gag/aBy5MKN)
+ - 👉 [Guys will understand](http://9gag.com/gag/abAwLD9)<!-- MEMES:END -->
 
 ---
 
