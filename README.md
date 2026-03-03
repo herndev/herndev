@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Champions: Everything We Know About The Upcoming Battle Sim](https://kotaku.com/pokemon-champions-subscription-storage-home-switch-mobile-2000675419)
- - [Fallout 76: Enter The Backwoods Today in the Latest Free Update](https://fallout.bethesda.net/en/article/3WShEgKi8FqC5Si4hePXJA/fallout-76-the-backwoods-launch#new_tab)
- - [People Can’t Believe Twitch Picked A Cooking Game For Women’s Day Event](https://kotaku.com/overcooked-2-game-coop-twitch-womens-day-cooking-2000675418)<!-- GAME:END -->
+ - [Pokémon Winds &amp; Waves fans worry Pombon looks a bit too familiar](https://www.polygon.com/pokemon-winds-waves-pombon-starter-cassette-beasts-design/)
+ - [Our Dark Lord Cthulhu Awakens Once More In This Splendid Lovecraftian Adventure](https://kotaku.com/the-dark-rites-of-arkham-lovecraft-adventure-indie-2000675403)
+ - [Will Sony continue to sell PS5 games on PC? Here&#39;s what insiders say](https://www.polygon.com/sony-ps5-pc-games-sales/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
