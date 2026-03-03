@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Im not even surprised...](http://9gag.com/gag/an7w8M5)
- - ⏩ [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
- - 👉 [A sober Generation?](http://9gag.com/gag/azxwD0K)<!-- MEMES:END -->
+ - 💣 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
+ - ⏩ [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)
+ - 👉 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)<!-- MEMES:END -->
 
 ---
 
