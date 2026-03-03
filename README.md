@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Sources: Anduril is seeking to raise about $4B in a round co-led by Thrive Capital and a16z, which could nearly double the startup&#39;s valuation to ~$60B &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/260303/p26#a260303p26)
- - [M5 Pro 14-inch MacBook Pro vs M5 14-inch MacBook Pro: Compared](https://appleinsider.com/articles/26/03/03/m5-pro-14-inch-macbook-pro-vs-m5-14-inch-macbook-pro-compared?utm_source=rss)<!-- TECH:END -->
+ - [Fairphone Gen 6 is getting Android 16 this April](https://www.androidauthority.com/fairphone-gen-6-android-16-3646271/)
+ - [A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals](https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/)
+ - [Your Pixel can now double up as a full Android PC with nothing more than a USB-C cable](https://www.androidauthority.com/desktop-mode-march-pixel-drop-3646069/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
