@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
- - ⏩ [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
- - 👉 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)<!-- MEMES:END -->
+ - 💣 [Im not even surprised...](http://9gag.com/gag/an7w8M5)
+ - ⏩ [Stop talking and just do it](http://9gag.com/gag/avywBrn)
+ - 👉 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)<!-- MEMES:END -->
 
 ---
 
