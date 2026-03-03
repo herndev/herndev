@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This fully metal phone also has a rear dot matrix display](https://www.androidauthority.com/tecno-metal-phone-3646174/)
- - [Apple&amp;#8217;s website leaks MacBook &amp;#8216;Neo,&amp;#8217; which could be its new cheaper laptop](https://www.theverge.com/tech/888226/apple-macbook-neo-website-leak)
- - [EA continues to ‘evolve’ The Sims 4 with new virtual currency and a ‘maker’ program](https://www.theverge.com/games/887940/ea-the-sims-4-marketplace-creators-maker-program-moola-currency)<!-- TECH:END -->
+ - [Google plans to move Chrome to a two-week release cycle, instead of the current four, starting with the Chrome 153 stable release on September 8 &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/260303/p23#a260303p23)
+ - [Ziff Davis agrees to sell its Connectivity division, including Ookla and Downdetector, to Accenture for $1.2B in cash, to focus on enthusiast websites like IGN &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/260303/p22#a260303p22)
+ - [Google speeds up Chrome release schedule with new stable build every two weeks](https://www.androidauthority.com/chrome-two-weeks-3645868/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
