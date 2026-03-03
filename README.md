@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil Requiem&#39;s The Final Puzzle has finally been figured out, and it&#39;s just as complicated and long as you&#39;d think: &#39;We don&#39;t get the doll if we don&#39;t AFK at the grinder&#39;](https://www.pcgamer.com/games/resident-evil/resident-evil-requiems-the-final-puzzle-has-finally-been-figured-out-and-its-just-as-complicated-and-long-as-youd-think-we-dont-get-the-doll-if-we-dont-afk-at-the-grinder/)
- - [WoW&#39;s new allied race in Midnight, the Haranir, has a model clipping issue with dozens of gear items—a problem that&#39;s been on the PTR for months](https://www.pcgamer.com/games/world-of-warcraft/wows-new-allied-race-in-midnight-the-haranir-has-a-model-clipping-issue-with-dozens-of-gear-items-a-problem-thats-been-on-the-ptr-for-months/)
- - [How to make Spicy Spaghetti in Disney Dreamlight Valley](https://www.pcgamer.com/games/sim/disney-dreamlight-valley-spicy-spaghetti-recipe/)<!-- GAME:END -->
+ - [A Fallout 3 Or Fallout: New Vegas Remaster Rumor Is Spreading Like Wildfire](https://kotaku.com/fallout-3-new-vegas-remaster-rumor-iron-galaxy-bethesda-2000675327)
+ - [How to get a Breathtaking Snowglobe in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-breathtaking-snowglobe/)
+ - [We were too hard on Jurassic World: Fallen Kingdom](https://www.polygon.com/we-were-too-hard-on-jurassic-world-fallen-kingdom/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
