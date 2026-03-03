@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who are the the poorest minority?](http://9gag.com/gag/aE05NNN)
- - ⏩ [Im not even surprised...](http://9gag.com/gag/an7w8M5)
- - 👉 [Female F-15E Strike Eagle pilot that ejected is filmed and thanked by Kuwaiti locals moments after she landed safely.](http://9gag.com/gag/a7oXmVr)<!-- MEMES:END -->
+ - 💣 [Ukrainian Student](http://9gag.com/gag/aND58pw)
+ - ⏩ [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
+ - 👉 [Damn I would fall for it](http://9gag.com/gag/avywB5O)<!-- MEMES:END -->
 
 ---
 
