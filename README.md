@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role Campaign 4 using West Marches style keeps things fresh](https://www.polygon.com/critical-role-campaign-4-west-marches-episodes-connections/)
- - [Pokémon Pokopia release time in your time zone on Switch 2](https://www.polygon.com/pokemon-pokopia-release-time-est-pst-preload-preorder/)
- - [Marathon UI designer declares himself the &#39;fontslop merchant&#39; and promises Bungie will never &#39;remove the SAUCE from the UI&#39;](https://www.pcgamer.com/games/fps/marathon-ui-designer-declares-himself-the-fontslop-merchant-and-promises-bungie-will-never-remove-the-sauce-from-the-ui/)<!-- GAME:END -->
+ - [Resident Evil Requiem&#39;s The Final Puzzle has finally been figured out, and it&#39;s just as complicated and long as you&#39;d think: &#39;We don&#39;t get the doll if we don&#39;t AFK at the grinder&#39;](https://www.pcgamer.com/games/resident-evil/resident-evil-requiems-the-final-puzzle-has-finally-been-figured-out-and-its-just-as-complicated-and-long-as-youd-think-we-dont-get-the-doll-if-we-dont-afk-at-the-grinder/)
+ - [WoW&#39;s new allied race in Midnight, the Haranir, has a model clipping issue with dozens of gear items—a problem that&#39;s been on the PTR for months](https://www.pcgamer.com/games/world-of-warcraft/wows-new-allied-race-in-midnight-the-haranir-has-a-model-clipping-issue-with-dozens-of-gear-items-a-problem-thats-been-on-the-ptr-for-months/)
+ - [How to make Spicy Spaghetti in Disney Dreamlight Valley](https://www.pcgamer.com/games/sim/disney-dreamlight-valley-spicy-spaghetti-recipe/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
