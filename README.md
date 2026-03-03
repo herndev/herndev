@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Winds and Waves gives Nurse Joy a new look](https://www.polygon.com/pokemon-winds-waves-nurse-joy-center-healing-design-look-trailer/)
- - [An Incredible Last-Minute Escape In Marathon Convinced Me It’s Something Special](https://kotaku.com/an-incredible-last-minute-escape-in-marathon-convinced-me-its-something-special-2000675159)
- - [Tides of Tomorrow: how players will impact one another’s solo adventures, out April 22](https://blog.playstation.com/2026/03/03/tides-of-tomorrow-how-players-will-impact-one-anothers-solo-adventures-out-april-22/)<!-- GAME:END -->
+ - [Fallout 3 lead Emil Pagliarulo tried to stuff it to the gills with Deus Ex DNA: &#39;As much immersive sim as was humanly possible&#39;](https://www.pcgamer.com/games/fallout/fallout-3-lead-emil-pagliarulo-tried-to-stuff-it-to-the-gills-with-deus-ex-dna-as-much-immersive-sim-as-was-humanly-possible/)
+ - [In yet another twist in the US-China chip export fiasco, it seems like America may limit the number of H200 AI chips being sent to China](https://www.pcgamer.com/hardware/graphics-cards/in-yet-another-twist-in-the-us-china-chip-export-fiasco-it-seems-like-america-may-limit-the-number-of-h200-ai-chips-being-sent-to-china/)
+ - [Resident Evil Requiem&#39;s blood buckets are making me hungry](https://www.polygon.com/resident-evil-requiem-blood-buckets-possibly-delicious/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
