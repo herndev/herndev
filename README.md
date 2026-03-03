@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout 3 lead Emil Pagliarulo tried to stuff it to the gills with Deus Ex DNA: &#39;As much immersive sim as was humanly possible&#39;](https://www.pcgamer.com/games/fallout/fallout-3-lead-emil-pagliarulo-tried-to-stuff-it-to-the-gills-with-deus-ex-dna-as-much-immersive-sim-as-was-humanly-possible/)
- - [In yet another twist in the US-China chip export fiasco, it seems like America may limit the number of H200 AI chips being sent to China](https://www.pcgamer.com/hardware/graphics-cards/in-yet-another-twist-in-the-us-china-chip-export-fiasco-it-seems-like-america-may-limit-the-number-of-h200-ai-chips-being-sent-to-china/)
- - [Resident Evil Requiem&#39;s blood buckets are making me hungry](https://www.polygon.com/resident-evil-requiem-blood-buckets-possibly-delicious/)<!-- GAME:END -->
+ - [Pokémon Champions: Everything We Know About The Upcoming Battle Sim](https://kotaku.com/pokemon-champions-subscription-storage-home-switch-mobile-2000675419)
+ - [Fallout 76: Enter The Backwoods Today in the Latest Free Update](https://fallout.bethesda.net/en/article/3WShEgKi8FqC5Si4hePXJA/fallout-76-the-backwoods-launch#new_tab)
+ - [People Can’t Believe Twitch Picked A Cooking Game For Women’s Day Event](https://kotaku.com/overcooked-2-game-coop-twitch-womens-day-cooking-2000675418)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
