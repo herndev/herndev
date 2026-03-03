@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the US DOJ&#39;s December lawsuit alleging a smuggling ring illegally exported or tried to export at least $160M in advanced Nvidia AI chips to China &lpar;Eliot Chen/The Wire China&rpar;](http://www.techmeme.com/260302/p53#a260302p53)
- - [Sam Altman says &quot;the democratic process must stay in control, and we must democratize AI&quot; and no private company should decide the fate of the world &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260302/p52#a260302p52)
- - [Sam Altman says OpenAI is amending its DOD contract to ensure AI isn&#39;t used for domestic surveillance of US persons, the NSA is excluded from the deal for now &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260302/p51#a260302p51)<!-- TECH:END -->
+ - [L.L.Bean Promo Codes and Deals: Up to 75% Off Outdoor Gear](https://www.wired.com/story/ll-bean-promo-code/)
+ - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)
+ - [A look at the US DOJ&#39;s December lawsuit alleging a smuggling ring illegally exported or tried to export at least $160M in advanced Nvidia AI chips to China &lpar;Eliot Chen/The Wire China&rpar;](http://www.techmeme.com/260302/p53#a260302p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
