@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [16KB page sizes return with the Android 17 beta, but what does it mean?](https://www.androidauthority.com/android-page-sizes-explained-3644598/)
- - [A UK trial by the National Grid, Nvidia, and others finds AI data centers can operate without using peak power continuously, adjusting consumption when asked &lpar;Eamon Farhat/Bloomberg&rpar;](http://www.techmeme.com/260303/p11#a260303p11)
- - [Google Maps’ shiny new icon is one step closer to a broader rollout](https://www.androidauthority.com/google-maps-new-icon-beta-3646052/)<!-- TECH:END -->
+ - [Apple updates the MacBook Pro with M5 Pro and M5 Max, offering 4x faster LLM prompt processing, 2x faster SSD speeds, and 1TB or 2TB base storage, for $2,199+ &lpar;Apple&rpar;](http://www.techmeme.com/260303/p12#a260303p12)
+ - [GoPro&amp;#8217;s next cameras are coming soon with a brand-new chip](https://www.theverge.com/tech/886326/gopro-ai-enhanced-gp3-processor-npu-scene-subject-detection)
+ - [Elgato’s Stream Deck Plus XL has more buttons, more dials, and a larger touchscreen](https://www.theverge.com/tech/887761/elgato-stream-deck-plus-xl-controller-price-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
