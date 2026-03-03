@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At least they have fun](http://9gag.com/gag/aAy57YZ)
- - ⏩ [Professor McGonagall inspecting the new wand shop.](http://9gag.com/gag/aXP1Q99)
- - 👉 [Guys will understand](http://9gag.com/gag/abAwLD9)<!-- MEMES:END -->
+ - 💣 [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
+ - ⏩ [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
+ - 👉 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)<!-- MEMES:END -->
 
 ---
 
