@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - ⏩ [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
- - 👉 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)<!-- MEMES:END -->
+ - ⏩ [Im not even surprised...](http://9gag.com/gag/an7w8M5)
+ - 👉 [Ukrainian Student](http://9gag.com/gag/aND58pw)<!-- MEMES:END -->
 
 ---
 
