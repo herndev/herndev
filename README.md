@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Coming to Xbox Game Pass: Cyberpunk 2077, Planet of Lana II, and More](https://news.xbox.com/en-us/2026/03/03/xbox-game-pass-march-2026-wave-1/)
  - [A Fallout 3 Or Fallout: New Vegas Remaster Rumor Is Spreading Like Wildfire](https://kotaku.com/fallout-3-new-vegas-remaster-rumor-iron-galaxy-bethesda-2000675327)
- - [How to get a Breathtaking Snowglobe in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-breathtaking-snowglobe/)
- - [We were too hard on Jurassic World: Fallen Kingdom](https://www.polygon.com/we-were-too-hard-on-jurassic-world-fallen-kingdom/)<!-- GAME:END -->
+ - [How to get a Breathtaking Snowglobe in Arc Raiders](https://www.pcgamer.com/games/third-person-shooter/arc-raiders-breathtaking-snowglobe/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
