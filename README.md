@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Cursor&#39;s annualized revenue topped $2B in February, doubling from three months earlier, and about 60% of the revenue is coming from corporate customers &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260302/p39#a260302p39)
- - [The US Treasury Department, State Department, and federal housing agency are ending use of Anthropic products; State Department says it will switch to OpenAI &lpar;Reuters&rpar;](http://www.techmeme.com/260302/p38#a260302p38)
- - [Anthropic upgrades Claude’s memory to attract AI switchers](https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing)<!-- TECH:END -->
+ - [Sources: X and xAI are set to repay ~$17.5B of debt in full; X took on ~$12.5B of debt during Musk&#39;s purchase, and xAI borrowed $5B via bonds and loans in June &lpar;Bloomberg&rpar;](http://www.techmeme.com/260302/p43#a260302p43)
+ - [MongoDB reports Q4 revenue up 27% YoY to $695.1M, vs. $670M est., and forecasts Q1 adjusted earnings per share below estimates; MDB drops 22%+ after hours &lpar;Angela Palumbo/Barron&#39;s Online&rpar;](http://www.techmeme.com/260302/p42#a260302p42)
+ - [Sources: amid negotiations with the DOD, Anthropic submitted a bid to compete in a $100M DOD contest to develop voice-controlled, autonomous drone swarming tech &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260302/p41#a260302p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
