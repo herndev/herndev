@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At least they have fun](http://9gag.com/gag/aAy57YZ)
- - ⏩ [So satisfying](http://9gag.com/gag/aBy5MKN)
- - 👉 [Guys will understand](http://9gag.com/gag/abAwLD9)<!-- MEMES:END -->
+ - 💣 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
+ - ⏩ [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
+ - 👉 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)<!-- MEMES:END -->
 
 ---
 
