@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - ⏩ [Im not even surprised...](http://9gag.com/gag/an7w8M5)
- - 👉 [Ukrainian Student](http://9gag.com/gag/aND58pw)<!-- MEMES:END -->
+ - ⏩ [Ukrainian Student](http://9gag.com/gag/aND58pw)
+ - 👉 [Im not even surprised...](http://9gag.com/gag/an7w8M5)<!-- MEMES:END -->
 
 ---
 
