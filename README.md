@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Segway Cube 1000 Portable Power Station hits its lowest price ever!](https://www.androidauthority.com/segway-cube-1000-portable-power-station-deal-3645886/)
- - [OpenAI and the DOD have agreed to add more surveillance protections to a recent AI deal; sources: Sam Altman approached DOD&#39;s Emil Michael to rework the deal &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260302/p45#a260302p45)
- - [What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?](https://www.wired.com/story/joe-gebbia-mystery-metallic-device/)<!-- TECH:END -->
+ - [Ayar Labs, which is replacing the copper wiring in semiconductors with fiber optics, raised a $500M Series E led by Neuberger Berman at a $3.8B valuation &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/260302/p49#a260302p49)
+ - [Meta is testing a shopping research feature in its Meta AI web browser for select US users, positioning it against e-commerce tools in ChatGPT and Gemini &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260302/p48#a260302p48)
+ - [AWS says its facilities in the Middle East are facing power and connectivity issues after drone strikes impacted its infrastructure in the UAE and Bahrain &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260302/p47#a260302p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
