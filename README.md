@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Critical Role Campaign 4 using West Marches style keeps things fresh](https://www.polygon.com/critical-role-campaign-4-west-marches-episodes-connections/)
  - [Pokémon Pokopia release time in your time zone on Switch 2](https://www.polygon.com/pokemon-pokopia-release-time-est-pst-preload-preorder/)
- - [Marathon UI designer declares himself the &#39;fontslop merchant&#39; and promises Bungie will never &#39;remove the SAUCE from the UI&#39;](https://www.pcgamer.com/games/fps/marathon-ui-designer-declares-himself-the-fontslop-merchant-and-promises-bungie-will-never-remove-the-sauce-from-the-ui/)
- - [The Marathon server slam consumed my weekend: 21 hours later, I&#39;ve gone from &#39;meh&#39; to believer](https://www.pcgamer.com/games/fps/the-marathon-server-slam-consumed-my-weekend-21-hours-later-ive-gone-from-meh-to-believer/)<!-- GAME:END -->
+ - [Marathon UI designer declares himself the &#39;fontslop merchant&#39; and promises Bungie will never &#39;remove the SAUCE from the UI&#39;](https://www.pcgamer.com/games/fps/marathon-ui-designer-declares-himself-the-fontslop-merchant-and-promises-bungie-will-never-remove-the-sauce-from-the-ui/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
