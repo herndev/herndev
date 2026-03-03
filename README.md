@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple updates the MacBook Pro with M5 Pro and M5 Max, offering 4x faster LLM prompt processing, 2x faster SSD speeds, and 1TB or 2TB base storage, for $2,199+ &lpar;Apple&rpar;](http://www.techmeme.com/260303/p12#a260303p12)
- - [GoPro&amp;#8217;s next cameras are coming soon with a brand-new chip](https://www.theverge.com/tech/886326/gopro-ai-enhanced-gp3-processor-npu-scene-subject-detection)
- - [Elgato’s Stream Deck Plus XL has more buttons, more dials, and a larger touchscreen](https://www.theverge.com/tech/887761/elgato-stream-deck-plus-xl-controller-price-availability)<!-- TECH:END -->
+ - [How M5 Pro and M5 Max push MacBook Pro into high-bandwidth AI era](https://appleinsider.com/articles/26/03/03/how-m5-pro-and-m5-max-push-macbook-pro-into-high-bandwidth-ai-era?utm_source=rss)
+ - [We played Pokémon Pokopia, ask us anything](https://www.theverge.com/games/887838/pokemon-pokopia-ask-us-anything)
+ - [Scott Pilgrim creator Bryan Lee O’Malley on taking ‘another run’ with new game](https://www.theverge.com/games/887845/scott-pilgrim-ex-game-bryan-lee-omalley-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
