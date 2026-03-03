@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [YouTube just made binge-listening to your favorite artist effortless](https://www.androidauthority.com/youtube-stations-3646298/)
- - [Sources: Amazon Publisher Services, which helps websites run ad auctions, is exploring offering technology to help other apps and sites sell ads in AI chatbots &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/260303/p36#a260303p36)<!-- TECH:END -->
+ - [Amazon tells users it is shutting down the Wondery podcast app and Wondery+ subscription service &quot;in the coming months&quot;; some shows will be available on Audible &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260303/p39#a260303p39)
+ - [Sources: Meta has signed a multiyear AI content licensing deal with News Corp worth $50M per year; the deal will run for at least three years &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/260303/p38#a260303p38)
+ - [Google swears that fixes are on the way for these Home glitches](https://www.androidauthority.com/google-home-fixes-3646305/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
