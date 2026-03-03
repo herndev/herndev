@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
- - ⏩ [Brrrr](http://9gag.com/gag/an7w8eL)
- - 👉 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)<!-- MEMES:END -->
+ - 💣 [The ultimate desk toy for any Minecraft addict](http://9gag.com/gag/a87OQyY)
+ - ⏩ [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
+ - 👉 [Some funny stuff](http://9gag.com/gag/a6Z6eyN)<!-- MEMES:END -->
 
 ---
 
