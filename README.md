@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The ultimate desk toy for any Minecraft addict](http://9gag.com/gag/a87OQyY)
- - ⏩ [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)
- - 👉 [Some funny stuff](http://9gag.com/gag/a6Z6eyN)<!-- MEMES:END -->
+ - 💣 [Female F-15E Strike Eagle pilot that ejected is filmed and thanked by Kuwaiti locals moments after she landed safely.](http://9gag.com/gag/a7oXmVr)
+ - ⏩ [The ultimate desk toy for any Minecraft addict](http://9gag.com/gag/a87OQyY)
+ - 👉 [Nice prank, Jim &lpar;I hope&rpar;](http://9gag.com/gag/aYQ5ZPV)<!-- MEMES:END -->
 
 ---
 
