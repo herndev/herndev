@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google unveils Home updates to fix a long list of annoyances and idiosyncrasies, and debuts Live Search to let Gemini analyze and describe live camera feeds &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/260303/p5#a260303p5)
- - [The Galaxy S26 proves why Samsung shouldn’t have canceled the S26 Pro](https://www.androidauthority.com/galaxy-s26-galaxy-s26-pro-3644618/)
- - [The Untold Story of the Birth of the iPhone](https://www.wired.com/story/the-untold-story-of-the-birth-of-the-iphone-david-pogue-book-excerpt/)<!-- TECH:END -->
+ - [Google Home and IKEA are suffering from Matter’s disastrous implementation](https://www.androidauthority.com/google-home-ikea-suffering-matter-disaster-3645760/)
+ - [&#39;Palm Royale&#39; cancelled after two seasons on Apple TV](https://appleinsider.com/articles/26/03/03/palm-royale-cancelled-after-two-seasons-on-apple-tv?utm_source=rss)
+ - [Iranian cryptoasset outflows reached ~$10.3M between February 28 and March 2 amid US and Israeli strikes; in 2025, Iran&#39;s crypto ecosystem was worth $7.8B &lpar;Chainalysis&rpar;](http://www.techmeme.com/260303/p7#a260303p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
