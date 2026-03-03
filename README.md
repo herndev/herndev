@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ayar Labs, which is replacing the copper wiring in semiconductors with fiber optics, raised a $500M Series E led by Neuberger Berman at a $3.8B valuation &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/260302/p49#a260302p49)
- - [Meta is testing a shopping research feature in its Meta AI web browser for select US users, positioning it against e-commerce tools in ChatGPT and Gemini &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260302/p48#a260302p48)
- - [AWS says its facilities in the Middle East are facing power and connectivity issues after drone strikes impacted its infrastructure in the UAE and Bahrain &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260302/p47#a260302p47)<!-- TECH:END -->
+ - [Sam Altman says OpenAI is amending its DOD contract to ensure AI isn&#39;t used for domestic surveillance of US persons, the NSA is excluded from the deal for now &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260302/p51#a260302p51)
+ - [Sam Altman says rushing the DOD deal was wrong as &quot;the issues are super complex, and demand clear communication&quot; but we were &quot;trying to de-escalate things&quot; &lpar;Katherine Li/Business Insider&rpar;](http://www.techmeme.com/260302/p50#a260302p50)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, March 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-march-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
