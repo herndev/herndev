@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon tells users it is shutting down the Wondery podcast app and Wondery+ subscription service &quot;in the coming months&quot;; some shows will be available on Audible &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260303/p39#a260303p39)
- - [Sources: Meta has signed a multiyear AI content licensing deal with News Corp worth $50M per year; the deal will run for at least three years &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/260303/p38#a260303p38)
- - [Google swears that fixes are on the way for these Home glitches](https://www.androidauthority.com/google-home-fixes-3646305/)<!-- TECH:END -->
+ - [Source: OpenAI is developing an alternative to GitHub; the project is nascent, and the decision came after OpenAI engineers experienced an increase in outages &lpar;The Information&rpar;](http://www.techmeme.com/260303/p43#a260303p43)
+ - [Facebook not working? Here are the most common issues and how to fix them! &lpar;Update: Outage&rpar;](https://www.androidauthority.com/facebook-not-working-fix-823530/)
+ - [TikTok USDS says users &quot;may temporarily experience lags in posting content&quot; due to an issue at Oracle&#39;s Ashburn data center, the second Oracle outage in a month &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260303/p42#a260303p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
