@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ukrainian Student](http://9gag.com/gag/aND58pw)
- - ⏩ [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)
- - 👉 [Damn I would fall for it](http://9gag.com/gag/avywB5O)<!-- MEMES:END -->
+ - 💣 [Damn I would fall for it](http://9gag.com/gag/avywB5O)
+ - ⏩ [Who are the the poorest minority?](http://9gag.com/gag/aE05NNN)
+ - 👉 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)<!-- MEMES:END -->
 
 ---
 
