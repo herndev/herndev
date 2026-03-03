@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home and IKEA are suffering from Matter’s disastrous implementation](https://www.androidauthority.com/google-home-ikea-suffering-matter-disaster-3645760/)
- - [&#39;Palm Royale&#39; cancelled after two seasons on Apple TV](https://appleinsider.com/articles/26/03/03/palm-royale-cancelled-after-two-seasons-on-apple-tv?utm_source=rss)
- - [Iranian cryptoasset outflows reached ~$10.3M between February 28 and March 2 amid US and Israeli strikes; in 2025, Iran&#39;s crypto ecosystem was worth $7.8B &lpar;Chainalysis&rpar;](http://www.techmeme.com/260303/p7#a260303p7)<!-- TECH:END -->
+ - [16KB page sizes return with the Android 17 beta, but what does it mean?](https://www.androidauthority.com/android-page-sizes-explained-3644598/)
+ - [A UK trial by the National Grid, Nvidia, and others finds AI data centers can operate without using peak power continuously, adjusting consumption when asked &lpar;Eamon Farhat/Bloomberg&rpar;](http://www.techmeme.com/260303/p11#a260303p11)
+ - [Google Maps’ shiny new icon is one step closer to a broader rollout](https://www.androidauthority.com/google-maps-new-icon-beta-3646052/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
