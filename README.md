@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)
- - ⏩ [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)
- - 👉 [Female F-15E Strike Eagle pilot that ejected is filmed and thanked by Kuwaiti locals moments after she landed safely.](http://9gag.com/gag/a7oXmVr)<!-- MEMES:END -->
+ - 💣 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
+ - ⏩ [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
+ - 👉 [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)<!-- MEMES:END -->
 
 ---
 
