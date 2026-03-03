@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: X and xAI are set to repay ~$17.5B of debt in full; X took on ~$12.5B of debt during Musk&#39;s purchase, and xAI borrowed $5B via bonds and loans in June &lpar;Bloomberg&rpar;](http://www.techmeme.com/260302/p43#a260302p43)
- - [MongoDB reports Q4 revenue up 27% YoY to $695.1M, vs. $670M est., and forecasts Q1 adjusted earnings per share below estimates; MDB drops 22%+ after hours &lpar;Angela Palumbo/Barron&#39;s Online&rpar;](http://www.techmeme.com/260302/p42#a260302p42)
- - [Sources: amid negotiations with the DOD, Anthropic submitted a bid to compete in a $100M DOD contest to develop voice-controlled, autonomous drone swarming tech &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260302/p41#a260302p41)<!-- TECH:END -->
+ - [Segway Cube 1000 Portable Power Station hits its lowest price ever!](https://www.androidauthority.com/segway-cube-1000-portable-power-station-deal-3645886/)
+ - [OpenAI and the DOD have agreed to add more surveillance protections to a recent AI deal; sources: Sam Altman approached DOD&#39;s Emil Michael to rework the deal &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260302/p45#a260302p45)
+ - [What Is That Mysterious Metallic Device US Chief Design Officer Joe Gebbia Is Using?](https://www.wired.com/story/joe-gebbia-mystery-metallic-device/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
