@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How M5 Pro and M5 Max push MacBook Pro into high-bandwidth AI era](https://appleinsider.com/articles/26/03/03/how-m5-pro-and-m5-max-push-macbook-pro-into-high-bandwidth-ai-era?utm_source=rss)
- - [We played Pokémon Pokopia, ask us anything](https://www.theverge.com/games/887838/pokemon-pokopia-ask-us-anything)
- - [Scott Pilgrim creator Bryan Lee O’Malley on taking ‘another run’ with new game](https://www.theverge.com/games/887845/scott-pilgrim-ex-game-bryan-lee-omalley-interview)<!-- TECH:END -->
+ - [This fully metal phone also has a rear dot matrix display](https://www.androidauthority.com/tecno-metal-phone-3646174/)
+ - [Apple&amp;#8217;s website leaks MacBook &amp;#8216;Neo,&amp;#8217; which could be its new cheaper laptop](https://www.theverge.com/tech/888226/apple-macbook-neo-website-leak)
+ - [EA continues to ‘evolve’ The Sims 4 with new virtual currency and a ‘maker’ program](https://www.theverge.com/games/887940/ea-the-sims-4-marketplace-creators-maker-program-moola-currency)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
