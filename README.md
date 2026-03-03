@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I just tried an ultra-thin Android phone that beats the iPhone Air in 2 big ways](https://www.androidauthority.com/tecno-modular-phone-hands-on-mwc-2026-3645607/)
- - [Your Google Home is about to get much better at listening and following orders &lpar;finally?!&rpar;](https://www.androidauthority.com/google-home-march-2026-update-3645927/)
- - [5 of the best new Android apps you need to try this March](https://www.androidauthority.com/best-android-apps-games-march-2026-3645917/)<!-- TECH:END -->
+ - [New Pixel Theme packs are coming soon with a beloved cartoon collaboration](https://www.androidauthority.com/google-pixel-spongebob-theme-pack-apk-teardown-3645974/)
+ - [The Razr Fold finally fixes my long-running problem with Motorola phones](https://www.androidauthority.com/motorola-razr-fold-software-updates-3645857/)
+ - [Why Missile Alerts and War Updates Trigger Doomscrolling](https://www.wired.com/story/why-missile-alerts-and-war-updates-trigger-doomscrolling/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
