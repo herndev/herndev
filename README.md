@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - ⏩ [Ukrainian Student](http://9gag.com/gag/aND58pw)
- - 👉 [Im not even surprised...](http://9gag.com/gag/an7w8M5)<!-- MEMES:END -->
+ - 💣 [At least they have fun](http://9gag.com/gag/aAy57YZ)
+ - ⏩ [Professor McGonagall inspecting the new wand shop.](http://9gag.com/gag/aXP1Q99)
+ - 👉 [Guys will understand](http://9gag.com/gag/abAwLD9)<!-- MEMES:END -->
 
 ---
 
