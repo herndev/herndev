@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Pixel Theme packs are coming soon with a beloved cartoon collaboration](https://www.androidauthority.com/google-pixel-spongebob-theme-pack-apk-teardown-3645974/)
- - [The Razr Fold finally fixes my long-running problem with Motorola phones](https://www.androidauthority.com/motorola-razr-fold-software-updates-3645857/)
- - [Why Missile Alerts and War Updates Trigger Doomscrolling](https://www.wired.com/story/why-missile-alerts-and-war-updates-trigger-doomscrolling/)<!-- TECH:END -->
+ - [Google unveils Home updates to fix a long list of annoyances and idiosyncrasies, and debuts Live Search to let Gemini analyze and describe live camera feeds &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/260303/p5#a260303p5)
+ - [The Galaxy S26 proves why Samsung shouldn’t have canceled the S26 Pro](https://www.androidauthority.com/galaxy-s26-galaxy-s26-pro-3644618/)
+ - [The Untold Story of the Birth of the iPhone](https://www.wired.com/story/the-untold-story-of-the-birth-of-the-iphone-david-pogue-book-excerpt/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
