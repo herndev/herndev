@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout: New Vegas remaster hopium goes off like Mount Vesuvius as Iron Galaxy teases &#39;what&#39;s coming next&#39; with a very famous loading screen](https://www.pcgamer.com/games/fallout/fallout-new-vegas-remaster-hopium-goes-off-like-mount-vesuvius-as-iron-galaxy-teases-whats-coming-next-with-a-very-famous-loading-screen/)
- - [Code Vein 2 interactive map](https://www.polygon.com/code-vein-2-interactive-map/)
- - [Ubisoft Is Having A Pretty Enormous Sale Right Now](https://kotaku.com/ubisoft-steam-sale-assassins-creed-shadows-star-wars-2000675127)<!-- GAME:END -->
+ - [Marathon UI designer declares himself the &#39;fontslop merchant&#39; and promises Bungie will never &#39;remove the SAUCE from the UI&#39;](https://www.pcgamer.com/games/fps/marathon-ui-designer-declares-himself-the-fontslop-merchant-and-promises-bungie-will-never-remove-the-sauce-from-the-ui/)
+ - [The Marathon server slam consumed my weekend: 21 hours later, I&#39;ve gone from &#39;meh&#39; to believer](https://www.pcgamer.com/games/fps/the-marathon-server-slam-consumed-my-weekend-21-hours-later-ive-gone-from-meh-to-believer/)
+ - [Fruit Ninja studio Halfbrick hit with layoffs: &#39;we are navigating a challenging period for the games industry&#39;](https://www.pcgamer.com/gaming-industry/fruit-ninja-studio-halfbrick-hit-with-layoffs-we-are-navigating-a-challenging-period-for-the-games-industry/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
