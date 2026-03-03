@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)
- - ⏩ [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)
- - 👉 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)<!-- MEMES:END -->
+ - 💣 [Keeping it old school](http://9gag.com/gag/aND5GOA)
+ - ⏩ [At least they have fun](http://9gag.com/gag/aAy57YZ)
+ - 👉 [So satisfying](http://9gag.com/gag/aBy5MKN)<!-- MEMES:END -->
 
 ---
 
