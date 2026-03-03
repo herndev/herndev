@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung wants to help you pay less at the pharmacy counter](https://www.androidauthority.com/samsung-health-wallet-integration-medication-savings-3646279/)
- - [Sources: Meta is creating a new applied AI engineering organization led by Maher Saba in its Reality Labs division to help bolster its superintelligence efforts &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/260303/p33#a260303p33)
- - [X announces a policy change suspending users from Creator Revenue Sharing for 90 days if they post AI-generated videos of an armed conflict without disclosure &lpar;Andre Revilla/Engadget&rpar;](http://www.techmeme.com/260303/p32#a260303p32)<!-- TECH:END -->
+ - [The best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [YouTube just made binge-listening to your favorite artist effortless](https://www.androidauthority.com/youtube-stations-3646298/)
+ - [Sources: Amazon Publisher Services, which helps websites run ad auctions, is exploring offering technology to help other apps and sites sell ads in AI chatbots &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/260303/p36#a260303p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
