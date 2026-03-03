@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to move Chrome to a two-week release cycle, instead of the current four, starting with the Chrome 153 stable release on September 8 &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/260303/p23#a260303p23)
- - [Ziff Davis agrees to sell its Connectivity division, including Ookla and Downdetector, to Accenture for $1.2B in cash, to focus on enthusiast websites like IGN &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/260303/p22#a260303p22)
- - [Google speeds up Chrome release schedule with new stable build every two weeks](https://www.androidauthority.com/chrome-two-weeks-3645868/)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Sources: Anduril is seeking to raise about $4B in a round co-led by Thrive Capital and a16z, which could nearly double the startup&#39;s valuation to ~$60B &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/260303/p26#a260303p26)
+ - [M5 Pro 14-inch MacBook Pro vs M5 14-inch MacBook Pro: Compared](https://appleinsider.com/articles/26/03/03/m5-pro-14-inch-macbook-pro-vs-m5-14-inch-macbook-pro-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
