@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Im not even surprised...](http://9gag.com/gag/an7w8M5)
- - ⏩ [Stop talking and just do it](http://9gag.com/gag/avywBrn)
- - 👉 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)<!-- MEMES:END -->
+ - 💣 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
+ - ⏩ [A sober Generation?](http://9gag.com/gag/azxwD0K)
+ - 👉 [Im not even surprised...](http://9gag.com/gag/an7w8M5)<!-- MEMES:END -->
 
 ---
 
