@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 Has Never Been Better And Is Coming To Game Pass This Month](https://kotaku.com/xbox-game-pass-new-march-games-cyberpunk-silksong-2000675361)
- - [Xbox Game Pass gets Cyberpunk 2077 and more in March](https://www.polygon.com/xbox-game-pass-march-2026-cyberpunk-2077-hollow-knight-silksong/)
- - [Scott Pilgrim EX review: retro brawler is all references, little heart](https://www.polygon.com/scott-pilgrim-ex-review/)<!-- GAME:END -->
+ - [Pokémon Winds and Waves gives Nurse Joy a new look](https://www.polygon.com/pokemon-winds-waves-nurse-joy-center-healing-design-look-trailer/)
+ - [An Incredible Last-Minute Escape In Marathon Convinced Me It’s Something Special](https://kotaku.com/an-incredible-last-minute-escape-in-marathon-convinced-me-its-something-special-2000675159)
+ - [Tides of Tomorrow: how players will impact one another’s solo adventures, out April 22](https://blog.playstation.com/2026/03/03/tides-of-tomorrow-how-players-will-impact-one-anothers-solo-adventures-out-april-22/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
