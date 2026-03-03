@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ref is sold for a Big Mac](http://9gag.com/gag/a5Q3xGO)
+ - 💣 [BIOLOGY WINS. Flawless Victory!](http://9gag.com/gag/aND5GeA)
  - ⏩ [Bro really left no stone unturned in that mansion last night](http://9gag.com/gag/aQz5Bzz)
- - 👉 [Ukrainian Student](http://9gag.com/gag/aND58pw)<!-- MEMES:END -->
+ - 👉 [Just trying to close the door, dude](http://9gag.com/gag/a87OnRd)<!-- MEMES:END -->
 
 ---
 
