@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lockheed Martin to follow US federal ban on Anthropic, as government contracting attorneys say defense contractors are expected to comply with the DOD&#39;s order &lpar;Reuters&rpar;](http://www.techmeme.com/260304/p1#a260304p1)
- - [Security researchers successfully prompted the AI behind a Utah prescription renewal pilot to reclassify meth as an &quot;unrestricted therapeutic&quot;, and more &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260303/p57#a260303p57)
- - [Dario Amodei says Anthropic has a higher retention than OpenAI, emphasizing its &quot;mission&quot; as a way to reinforce staff loyalty and fend off competitors&#39; offers &lpar;The Information&rpar;](http://www.techmeme.com/260303/p56#a260303p56)<!-- TECH:END -->
+ - [Barkbox Promo Codes and Discounts: Up to 50% Off](https://www.wired.com/story/barkbox-promo-code/)
+ - [Asia&#39;s smaller chip companies are joining their bigger peers in hiking prices as robust AI demand fuels capex, projected to rise 25% YoY to over $136B in 2026 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260304/p4#a260304p4)
+ - [The UK government commits an initial £40M to an AI research lab, modeled on its DARPA-inspired ARIA, seeking breakthroughs in science, healthcare, and transport &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/260304/p3#a260304p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
