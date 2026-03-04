@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honor’s Robot Phone is a bad robot, an interesting camera, and maybe your friend](https://www.theverge.com/gadgets/889023/honor-robot-phone-gimbal-stabilization-mwc)
- - [I replaced my $1,000 Pixel 10 Pro with the $500 Pixel 10a — and I might not go back](https://www.androidauthority.com/google-pixel-10a-vs-pixel-10-pro-3645425/)
- - [Google Pixel 10a Review: Sensible Value](https://www.wired.com/review/google-pixel-10a/)<!-- TECH:END -->
+ - [How and why MacBook Neo will excel for most everyday tasks](https://appleinsider.com/articles/26/03/04/how-and-why-macbook-neo-will-excel-for-most-everyday-tasks?utm_source=rss)
+ - [M5 Max 16-inch MacBook Pro vs M4 Max 16-inch MacBook Pro compared](https://appleinsider.com/inside/macbook-pro/vs/m5-max-16-inch-macbook-pro-vs-m4-max-16-inch-mabook-pro-compared?utm_source=rss)
+ - [How to use more than one external monitor on MacBook Neo](https://appleinsider.com/articles/26/03/04/how-to-use-more-than-one-external-monitor-on-macbook-neo?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
