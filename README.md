@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation is reportedly moving away from PC ports](https://www.theverge.com/games/888908/playstation-pc-port-strategy-cancel)
- - [Android Authority’s Best of MWC 2026 awards: The biggest announcements from the show](https://www.androidauthority.com/best-of-mwc-2026-awards-3646537/)
- - [Sources: Sony no longer plans to release its big single-player PlayStation 5 games on PC, a major shift in strategy that sees it return to console exclusivity &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/260304/p19#a260304p19)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;March 4&rpar;](https://www.androidauthority.com/wallpaper-wednesday-march-4-2026-3646355/)
+ - [The iPhone 16 Pro’s chip is so powerful, Apple put it in a laptop](https://www.androidauthority.com/apple-macbook-neo-3646613/)
+ - [The Colorful MacBook Neo Is Apple’s Cheapest Laptop Ever](https://www.wired.com/story/new-budget-apple-macbook-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
