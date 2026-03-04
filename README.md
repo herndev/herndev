@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Visa and Stripe&#39;s Bridge plan to expand their partnership to issue stablecoin-linked cards in 100+ countries; the cards are currently live in 18 countries &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260304/p8#a260304p8)
- - [Corning unveils Gorilla Glass Ceramic 3 for smartphones, promising enhanced drop durability over multiple years, first launching on the new Motorola Razr Fold &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/260304/p7#a260304p7)
- - [ANBERNIC just dropped a video for the RG VITA Pro, and it’s a dual-OS beast](https://www.androidauthority.com/anbernic-rg-vita-pro-running-android-linux-teaser-3646383/)<!-- TECH:END -->
+ - [I used to count down to the next Android version, but now I barely notice](https://www.androidauthority.com/android-next-version-hype-3635689/)
+ - [Activision silences trusted Call of Duty leaker](https://www.theverge.com/games/888858/call-of-duty-leaker-hope-legal-demand-shutdown)
+ - [This BlackBerry-like Android phone rivals the Clicks Communicator](https://www.androidauthority.com/unihertz-titan-2-elite-3646393/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
