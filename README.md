@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Saved by the pan](http://9gag.com/gag/aW45eLZ)
- - ⏩ [It&#39;s not a `chick flick` unless there&#39;s romanticized cheating.](http://9gag.com/gag/a6Z6e0q)
- - 👉 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)<!-- MEMES:END -->
+ - 💣 [After seeing there were some earthquakes inside Iran](http://9gag.com/gag/aND5X26)
+ - ⏩ [Now I want to learn about it](http://9gag.com/gag/a9y0436)
+ - 👉 [Daughter doesn&#39;t really understand the meaning of the word. All she knows is that `if you don&#39;t worship the god-emperor ,you are a heretic`.](http://9gag.com/gag/aW45Ajd)<!-- MEMES:END -->
 
 ---
 
