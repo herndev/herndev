@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This dice-rolling roguelite is like Balatro on steroids, and its bosses are pure evil](https://www.pcgamer.com/games/roguelike/this-dice-rolling-roguelite-is-like-balatro-on-steroids-and-its-bosses-are-pure-evil/)
- - [World of Warcraft: Midnight player proves that you only need a single button and a clever build to heal your dungeon party](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnight-player-proves-that-you-only-need-a-single-button-and-a-clever-build-to-heal-your-dungeon-party/)
- - [Capcom makes the majority of its sales on PC, and it expects the &#39;ratio to continue increasing&#39;](https://www.pcgamer.com/gaming-industry/capcom-makes-the-majority-of-its-sales-on-pc-and-it-expects-the-ratio-to-continue-increasing/)<!-- GAME:END -->
+ - [Industry insiders say Samsung has confirmed a DRAM price increase of &#39;over 100%&#39; for its customers, so brace yourself for the next phase of the dreaded RAMpocalypse](https://www.pcgamer.com/hardware/memory/industry-insiders-say-samsung-has-confirmed-a-dram-price-increase-of-over-100-percent-for-its-customers-so-brace-yourself-for-the-next-phase-of-the-dreaded-rampocalypse/)
+ - [11 Tips If You’re Playing Pokémon FireRed And LeafGreen For The First Time](https://kotaku.com/pokemon-firered-leafgreen-tips-starter-physical-special-2000675511)
+ - [Leon Kennedy voice actor Nick Apostolides is the biggest Resident Evil fan ever](https://www.polygon.com/leon-kennedy-nick-apostolides-interview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
