@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xemu’s emulator for original Xbox games is coming to Android](https://www.androidauthority.com/xemu-emulator-coming-to-android-3646775/)
- - [Epic and Google have signed a special deal for a new class of &amp;#8216;metaverse&amp;#8217; apps](https://www.theverge.com/tech/889526/epic-games-google-deal-metaverse-apps)
- - [Broadcom reports Q1 revenue up 29% YoY to $19.31B, vs. $19.18B est., AI revenue up 106% to $8.4B, and announces a $10B share buyback program &lpar;CNBC&rpar;](http://www.techmeme.com/260304/p38#a260304p38)<!-- TECH:END -->
+ - [Pasqal, a French startup that builds quantum processors using neutral atom technology, plans to go public via a SPAC merger at a $2B pre-money valuation &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/260304/p42#a260304p42)
+ - [Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive](https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/)
+ - [Google, Microsoft, Meta, Amazon, OpenAI, and others sign a pledge at the White House to bear the cost of new electricity generation to power their data centers &lpar;Reuters&rpar;](http://www.techmeme.com/260304/p41#a260304p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
