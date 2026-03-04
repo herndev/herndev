@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [HBO&#39;s Lanterns trailer reveals release date, turns DCU into True Detective](https://www.polygon.com/lanterns-trailer-green-lantern-hbo-dcu-release-date/)
- - [A 9,999,999 gold painting in World of Warcraft: Midnight sent secret finders on a hunt for the ultimate discount and one thrifty player finally figured it out](https://www.pcgamer.com/games/world-of-warcraft/a-9-999-999-gold-painting-in-world-of-warcraft-midnight-sent-secret-finders-on-a-hunt-for-the-ultimate-discount-and-one-thrifty-player-finally-figured-it-out/)
- - [Pokémon Pokopia May Have Debunked A Years-Long Fan Theory](https://kotaku.com/pokemon-pokopia-dj-rotom-stereo-form-sound-type-pokedex-2000675905)<!-- GAME:END -->
+ - [Little But Fierce Kickstarter to deliver a kid-friendly version of D&amp;D](https://www.polygon.com/little-but-fierce-dungeons-dragons-dnd-for-kids-kickstarter/)
+ - [Assassin&#39;s Creed franchise update reveals new Hexe, Invictus details](https://www.polygon.com/assassins-creed-hexe-invictus-multiplayer-game-rumors/)
+ - [Counter-Strike: Global Offensive is back: 3 years after it was muscled out by Counter-Strike 2, CS:GO has its own Steam page again and has powered its way back onto Steam&#39;s most-played chart](https://www.pcgamer.com/games/fps/counter-strike-global-offensive-is-back-3-years-after-it-was-muscled-out-by-counter-strike-2-cs-go-has-its-own-steam-page-again-and-has-powered-its-way-back-onto-steams-most-played-chart/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
