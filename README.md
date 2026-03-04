@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stop talking and just do it](http://9gag.com/gag/avywBrn)
- - ⏩ [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
- - 👉 [Flasback](http://9gag.com/gag/a2vpg7Z)<!-- MEMES:END -->
+ - 💣 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
+ - ⏩ [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
+ - 👉 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)<!-- MEMES:END -->
 
 ---
 
