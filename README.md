@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I used to count down to the next Android version, but now I barely notice](https://www.androidauthority.com/android-next-version-hype-3635689/)
- - [Activision silences trusted Call of Duty leaker](https://www.theverge.com/games/888858/call-of-duty-leaker-hope-legal-demand-shutdown)
- - [This BlackBerry-like Android phone rivals the Clicks Communicator](https://www.androidauthority.com/unihertz-titan-2-elite-3646393/)<!-- TECH:END -->
+ - [Polymarket removes long-running markets letting users bet on the chances of a nuclear weapon detonating amid the Iran strikes; a 2025 market had $1.7M in volume &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/260304/p11#a260304p11)
+ - [I’d pay for YouTube Premium if it stopped spoiling everything](https://www.androidauthority.com/youtube-premium-spoiler-filter-3646241/)
+ - [How Is Kalshi Not Gambling?](https://www.wired.com/story/big-interview-tarek-mansour-kalshi/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
