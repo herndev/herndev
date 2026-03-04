@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
- - ⏩ [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 👉 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)<!-- MEMES:END -->
+ - 💣 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - ⏩ [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
+ - 👉 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)<!-- MEMES:END -->
 
 ---
 
