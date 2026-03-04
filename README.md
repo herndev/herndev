@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 30 best Pokémon episodes, scenes, and jokes from the show and movies](https://www.polygon.com/pokemon-anime-best-moments-iconic-episodes/)
- - [After planning 2 more paid acts, narrative scifi power-washer Ambrosia Sky is instead finishing its story in one free update to &#39;maximize&#39; its focus on what players loved: &#39;People got in on that sapphic yearning right away&#39;](https://www.pcgamer.com/games/sim/after-planning-2-more-paid-acts-narrative-scifi-power-washer-ambrosia-sky-is-instead-finishing-its-story-in-one-free-update-to-maximize-its-focus-on-what-players-loved-people-got-in-on-that-sapphic-yearning-right-away/)
- - [Sony will stop selling PS5 games on PC because they&#39;re not selling](https://www.polygon.com/sony-ps5-pc-games-sales-ended/)<!-- GAME:END -->
+ - [The Warhammer racer Speed Freeks is coming to PS5](https://blog.playstation.com/2026/03/04/the-warhammer-racer-speed-freeks-is-coming-to-ps5/)
+ - [Activision ‘Legally Demands’ Call Of Duty Leaker Ceases, Then Says His Leaks Sucked Anyway](https://kotaku.com/activision-legally-demands-call-of-duty-leaker-ceases-then-says-his-leaks-sucked-anyway-2000675859)
+ - [Resident Evil Requiem walkthrough part 8: East Raccoon City](https://www.polygon.com/resident-evil-requiem-walkthrough-part-8-east-raccoon-city-detonator-fuel-relay-gas-station/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
