@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KeyCare, a virtual care platform built on the Epic EHR, raised $27.4M led by HealthX Ventures, bringing its total funding to over $55M &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/260303/p53#a260303p53)
- - [CPU benchmarks for M4 iPad Air show comparable scores to M4 iPad Pro](https://appleinsider.com/articles/26/03/04/cpu-benchmarks-for-m4-ipad-air-show-comparable-scores-to-m4-ipad-pro?utm_source=rss)
- - [Google details Coruna, an exploit kit used to hijack iPhones via malicious websites; iVerify suggests it may have been originally built for the US government &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260303/p52#a260303p52)<!-- TECH:END -->
+ - [iPhone Coruna virus: possible US government hacking toolset spreading via black market](https://appleinsider.com/articles/26/03/04/iphone-coruna-virus-possible-us-government-hacking-toolset-spreading-via-black-market?utm_source=rss)
+ - [OpenAI&#39;s red lines within its DOD agreement are built upon legal language that the NSA has redefined over decades to permit the things they appear to prohibit &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/260303/p54#a260303p54)
+ - [KeyCare, a virtual care platform built on the Epic EHR, raised $27.4M led by HealthX Ventures, bringing its total funding to over $55M &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/260303/p53#a260303p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
