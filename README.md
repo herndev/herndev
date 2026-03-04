@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Media Trust report: online ads surpassed email as the primary malware channel in 2025, accounting for 60%+ of all observed malware and phishing campaigns &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/260304/p28#a260304p28)
- - [How Federal Agencies Got Caught Up in Trump&#39;s Anti-Immigration Crusade](https://www.wired.com/story/how-the-federal-government-scrambled-its-agencies-to-support-ice/)
- - [Pixel Now Playing starts rolling out a song-specific visual upgrade](https://www.androidauthority.com/pixel-now-playing-album-art-rollout-3646619/)<!-- TECH:END -->
+ - [Honor’s Robot Phone is a bad robot, an interesting camera, and maybe your friend](https://www.theverge.com/gadgets/889023/honor-robot-phone-gimbal-stabilization-mwc)
+ - [I replaced my $1,000 Pixel 10 Pro with the $500 Pixel 10a — and I might not go back](https://www.androidauthority.com/google-pixel-10a-vs-pixel-10-pro-3645425/)
+ - [Google Pixel 10a Review: Sensible Value](https://www.wired.com/review/google-pixel-10a/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
