@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity signs a multiyear deal with CoreWeave to use dedicated clusters powered by Nvidia Grace Blackwell chips for AI inference; CRWV jumps 5%+ pre-market &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260304/p18#a260304p18)
- - [Samsung shows off Privacy Display tech that could make the Galaxy S27 even better &lpar;Updated: Clarification&rpar;](https://www.androidauthority.com/samsung-next-gen-privacy-display-3646132/)
- - [Raycast’s Glaze is an all-in-one vibe coding app platform](https://www.theverge.com/tech/888866/raycast-glaze-vibe-code-app-store)<!-- TECH:END -->
+ - [PlayStation is reportedly moving away from PC ports](https://www.theverge.com/games/888908/playstation-pc-port-strategy-cancel)
+ - [Android Authority’s Best of MWC 2026 awards: The biggest announcements from the show](https://www.androidauthority.com/best-of-mwc-2026-awards-3646537/)
+ - [Sources: Sony no longer plans to release its big single-player PlayStation 5 games on PC, a major shift in strategy that sees it return to console exclusivity &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/260304/p19#a260304p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
