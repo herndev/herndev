@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Embo, which is developing world models for robotics, is in talks to raise a $100M+ seed led by a16z, with Khosla, DST Global, and Striker participating &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/260304/p37#a260304p37)
- - [NotebookLM is taking a more cinematic approach to Video Overviews](https://www.androidauthority.com/notebooklm-cinematic-video-overviews-3646734/)
- - [MacBook Neo vs M5 MacBook Air: Budget notebooks compared](https://appleinsider.com/inside/macbook-air/vs/macbook-neo-vs-m5-macbook-air-budget-notebooks-compared?utm_source=rss)<!-- TECH:END -->
+ - [Xemu’s emulator for original Xbox games is coming to Android](https://www.androidauthority.com/xemu-emulator-coming-to-android-3646775/)
+ - [Epic and Google have signed a special deal for a new class of &amp;#8216;metaverse&amp;#8217; apps](https://www.theverge.com/tech/889526/epic-games-google-deal-metaverse-apps)
+ - [Broadcom reports Q1 revenue up 29% YoY to $19.31B, vs. $19.18B est., AI revenue up 106% to $8.4B, and announces a $10B share buyback program &lpar;CNBC&rpar;](http://www.techmeme.com/260304/p38#a260304p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
