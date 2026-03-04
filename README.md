@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil Requiem&#39;s RE2 cameo almost made me quit the game](https://www.polygon.com/resident-evil-requiem-worst-moment-leon-raccoon-city-rpd/)
- - [PlayStation Store: February 2026’s top downloads](https://blog.playstation.com/2026/03/04/playstation-store-february-2026s-top-downloads/)
- - [Indie Selects for March 2025: Fresh Contrasts for a New Season](https://news.xbox.com/en-us/2026/03/04/indie-selects-march/)<!-- GAME:END -->
+ - [Crimson Desert reveal came way too early, Pearl Abyss says](https://www.polygon.com/crimson-desert-announced-too-early/)
+ - [How Pokémon cards overtook sports cards in the PSA’s grading boom](https://www.polygon.com/pokemon-tcg-30th-anniversary-psa-grading-rise/)
+ - [Ubisoft finally confirms the Assassin&#39;s Creed 4: Black Flag remake is real, and it&#39;s dropping the &#39;4&#39; for some reason](https://www.pcgamer.com/games/assassins-creed/ubisoft-finally-confirms-the-assassins-creed-4-black-flag-remake-is-real-and-its-dropping-the-4-for-some-reason/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
