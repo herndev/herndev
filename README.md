@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now’s your chance to try Google’s Canvas in AI Mode, with document drafting and tool creation](https://www.androidauthority.com/canvas-ai-mode-documents-tools-3646710/)
- - [How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers](https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/)
- - [Nothing teases Phone 4a Pro’s Glyph Matrix, and fans aren’t happy](https://www.androidauthority.com/nothing-phone-4a-pro-glyph-matrix-3646705/)<!-- TECH:END -->
+ - [Which iPhone 17 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-17-models-to-buy/)
+ - [Android’s getting a flexible new approach to sideloading with Registered App Stores](https://www.androidauthority.com/google-epic-changes-registered-app-stores-3646743/)
+ - [Google Pixel 10a review: long battery life and a good camera with no bump, but weak gaming performance and barely an upgrade from the Pixel 9a &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/260304/p36#a260304p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
