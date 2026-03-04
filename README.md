@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polymarket removes long-running markets letting users bet on the chances of a nuclear weapon detonating amid the Iran strikes; a 2025 market had $1.7M in volume &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/260304/p11#a260304p11)
- - [I’d pay for YouTube Premium if it stopped spoiling everything](https://www.androidauthority.com/youtube-premium-spoiler-filter-3646241/)
- - [How Is Kalshi Not Gambling?](https://www.wired.com/story/big-interview-tarek-mansour-kalshi/)<!-- TECH:END -->
+ - [OPPO Find X9 series will get new AI features powered by MediaTek’s Dimensity 9500](https://www.androidauthority.com/mediatek-omni-model-oppo-find-x9-3646459/)
+ - [Eight Sleep, which sells smart mattress accessories to track sleep patterns and adjust temperatures, raised $50M at a $1.5B valuation, up from $500M in 2021 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260304/p15#a260304p15)
+ - [How a prize-winning cartoonist brings hand-drawn comics to the web](https://www.theverge.com/uncategorized/888672/how-a-prize-winning-cartoonist-brings-hand-drawn-comics-to-the-web)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
