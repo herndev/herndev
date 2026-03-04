@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crimson Desert reveal came way too early, Pearl Abyss says](https://www.polygon.com/crimson-desert-announced-too-early/)
- - [How Pokémon cards overtook sports cards in the PSA’s grading boom](https://www.polygon.com/pokemon-tcg-30th-anniversary-psa-grading-rise/)
- - [Ubisoft finally confirms the Assassin&#39;s Creed 4: Black Flag remake is real, and it&#39;s dropping the &#39;4&#39; for some reason](https://www.pcgamer.com/games/assassins-creed/ubisoft-finally-confirms-the-assassins-creed-4-black-flag-remake-is-real-and-its-dropping-the-4-for-some-reason/)<!-- GAME:END -->
+ - [HBO&#39;s Lanterns trailer reveals release date, turns DCU into True Detective](https://www.polygon.com/lanterns-trailer-green-lantern-hbo-dcu-release-date/)
+ - [A 9,999,999 gold painting in World of Warcraft: Midnight sent secret finders on a hunt for the ultimate discount and one thrifty player finally figured it out](https://www.pcgamer.com/games/world-of-warcraft/a-9-999-999-gold-painting-in-world-of-warcraft-midnight-sent-secret-finders-on-a-hunt-for-the-ultimate-discount-and-one-thrifty-player-finally-figured-it-out/)
+ - [Pokémon Pokopia May Have Debunked A Years-Long Fan Theory](https://kotaku.com/pokemon-pokopia-dj-rotom-stereo-form-sound-type-pokedex-2000675905)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
