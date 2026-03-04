@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After seeing there were some earthquakes inside Iran](http://9gag.com/gag/aND5X26)
- - ⏩ [Now I want to learn about it](http://9gag.com/gag/a9y0436)
- - 👉 [Daughter doesn&#39;t really understand the meaning of the word. All she knows is that `if you don&#39;t worship the god-emperor ,you are a heretic`.](http://9gag.com/gag/aW45Ajd)<!-- MEMES:END -->
+ - 💣 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
+ - ⏩ [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
+ - 👉 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)<!-- MEMES:END -->
 
 ---
 
