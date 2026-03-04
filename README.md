@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which iPhone 17 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-17-models-to-buy/)
- - [Android’s getting a flexible new approach to sideloading with Registered App Stores](https://www.androidauthority.com/google-epic-changes-registered-app-stores-3646743/)
- - [Google Pixel 10a review: long battery life and a good camera with no bump, but weak gaming performance and barely an upgrade from the Pixel 9a &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/260304/p36#a260304p36)<!-- TECH:END -->
+ - [Source: Embo, which is developing world models for robotics, is in talks to raise a $100M+ seed led by a16z, with Khosla, DST Global, and Striker participating &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/260304/p37#a260304p37)
+ - [NotebookLM is taking a more cinematic approach to Video Overviews](https://www.androidauthority.com/notebooklm-cinematic-video-overviews-3646734/)
+ - [MacBook Neo vs M5 MacBook Air: Budget notebooks compared](https://appleinsider.com/inside/macbook-air/vs/macbook-neo-vs-m5-macbook-air-budget-notebooks-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
