@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch is getting a bunch of Nier: Automata skins and at this point I&#39;m convinced support mains are the only ones spending money on this game](https://www.pcgamer.com/games/fps/overwatch-is-getting-a-bunch-of-nier-automata-skins-and-at-this-point-im-convinced-support-mains-are-the-only-ones-spending-money-on-this-game/)
- - [Control Resonant preview: Remedy&#39;s Control sequel looks like DmC meets Gravity Rush](https://www.polygon.com/control-resonant-action-rpg-gameplay/)
- - [Planet of Lana 2 is so good you should play it even if you missed the first one](https://www.polygon.com/planet-of-lana-2-review/)<!-- GAME:END -->
+ - [The 30 best Pokémon episodes, scenes, and jokes from the show and movies](https://www.polygon.com/pokemon-anime-best-moments-iconic-episodes/)
+ - [After planning 2 more paid acts, narrative scifi power-washer Ambrosia Sky is instead finishing its story in one free update to &#39;maximize&#39; its focus on what players loved: &#39;People got in on that sapphic yearning right away&#39;](https://www.pcgamer.com/games/sim/after-planning-2-more-paid-acts-narrative-scifi-power-washer-ambrosia-sky-is-instead-finishing-its-story-in-one-free-update-to-maximize-its-focus-on-what-players-loved-people-got-in-on-that-sapphic-yearning-right-away/)
+ - [Sony will stop selling PS5 games on PC because they&#39;re not selling](https://www.polygon.com/sony-ps5-pc-games-sales-ended/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
