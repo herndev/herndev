@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;March 4&rpar;](https://www.androidauthority.com/wallpaper-wednesday-march-4-2026-3646355/)
- - [The iPhone 16 Pro’s chip is so powerful, Apple put it in a laptop](https://www.androidauthority.com/apple-macbook-neo-3646613/)
- - [The Colorful MacBook Neo Is Apple’s Cheapest Laptop Ever](https://www.wired.com/story/new-budget-apple-macbook-2026/)<!-- TECH:END -->
+ - [The Media Trust report: online ads surpassed email as the primary malware channel in 2025, accounting for 60%+ of all observed malware and phishing campaigns &lpar;Lara O&#39;Reilly/Business Insider&rpar;](http://www.techmeme.com/260304/p28#a260304p28)
+ - [How Federal Agencies Got Caught Up in Trump&#39;s Anti-Immigration Crusade](https://www.wired.com/story/how-the-federal-government-scrambled-its-agencies-to-support-ice/)
+ - [Pixel Now Playing starts rolling out a song-specific visual upgrade](https://www.androidauthority.com/pixel-now-playing-album-art-rollout-3646619/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
