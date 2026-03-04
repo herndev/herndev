@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Industry insiders say Samsung has confirmed a DRAM price increase of &#39;over 100%&#39; for its customers, so brace yourself for the next phase of the dreaded RAMpocalypse](https://www.pcgamer.com/hardware/memory/industry-insiders-say-samsung-has-confirmed-a-dram-price-increase-of-over-100-percent-for-its-customers-so-brace-yourself-for-the-next-phase-of-the-dreaded-rampocalypse/)
- - [11 Tips If You’re Playing Pokémon FireRed And LeafGreen For The First Time](https://kotaku.com/pokemon-firered-leafgreen-tips-starter-physical-special-2000675511)
- - [Leon Kennedy voice actor Nick Apostolides is the biggest Resident Evil fan ever](https://www.polygon.com/leon-kennedy-nick-apostolides-interview/)<!-- GAME:END -->
+ - [Overwatch is getting a bunch of Nier: Automata skins and at this point I&#39;m convinced support mains are the only ones spending money on this game](https://www.pcgamer.com/games/fps/overwatch-is-getting-a-bunch-of-nier-automata-skins-and-at-this-point-im-convinced-support-mains-are-the-only-ones-spending-money-on-this-game/)
+ - [Control Resonant preview: Remedy&#39;s Control sequel looks like DmC meets Gravity Rush](https://www.polygon.com/control-resonant-action-rpg-gameplay/)
+ - [Planet of Lana 2 is so good you should play it even if you missed the first one](https://www.polygon.com/planet-of-lana-2-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
