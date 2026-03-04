@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Im not even surprised...](http://9gag.com/gag/an7w8M5)
- - ⏩ [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 👉 [Bro, wtf?](http://9gag.com/gag/aMV56oX)<!-- MEMES:END -->
+ - 💣 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
+ - ⏩ [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
+ - 👉 [Stop talking and just do it](http://9gag.com/gag/avywBrn)<!-- MEMES:END -->
 
 ---
 
