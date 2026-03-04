@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How and why MacBook Neo will excel for most everyday tasks](https://appleinsider.com/articles/26/03/04/how-and-why-macbook-neo-will-excel-for-most-everyday-tasks?utm_source=rss)
- - [M5 Max 16-inch MacBook Pro vs M4 Max 16-inch MacBook Pro compared](https://appleinsider.com/inside/macbook-pro/vs/m5-max-16-inch-macbook-pro-vs-m4-max-16-inch-mabook-pro-compared?utm_source=rss)
- - [How to use more than one external monitor on MacBook Neo](https://appleinsider.com/articles/26/03/04/how-to-use-more-than-one-external-monitor-on-macbook-neo?utm_source=rss)<!-- TECH:END -->
+ - [Now’s your chance to try Google’s Canvas in AI Mode, with document drafting and tool creation](https://www.androidauthority.com/canvas-ai-mode-documents-tools-3646710/)
+ - [How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers](https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/)
+ - [Nothing teases Phone 4a Pro’s Glyph Matrix, and fans aren’t happy](https://www.androidauthority.com/nothing-phone-4a-pro-glyph-matrix-3646705/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
