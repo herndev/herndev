@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: OpenAI is developing an alternative to GitHub; the project is nascent, and the decision came after OpenAI engineers experienced an increase in outages &lpar;The Information&rpar;](http://www.techmeme.com/260303/p43#a260303p43)
- - [Facebook not working? Here are the most common issues and how to fix them! &lpar;Update: Outage&rpar;](https://www.androidauthority.com/facebook-not-working-fix-823530/)
- - [TikTok USDS says users &quot;may temporarily experience lags in posting content&quot; due to an issue at Oracle&#39;s Ashburn data center, the second Oracle outage in a month &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260303/p42#a260303p42)<!-- TECH:END -->
+ - [As experts warn about cyberattacks from Iran on the US, CISA is operating under a partial government shutdown and dealing with leadership changes &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260303/p49#a260303p49)
+ - [Junyang Lin, a tech lead on Alibaba&#39;s Qwen team, abruptly steps down; two other members of the Qwen team also leave &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260303/p48#a260303p48)
+ - [Intel says board chair Frank Yeary, who has served on the board since 2009, will retire after Intel&#39;s annual meeting in May and be replaced by Craig Barratt &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/260303/p47#a260303p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
