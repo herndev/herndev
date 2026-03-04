@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Warhammer racer Speed Freeks is coming to PS5](https://blog.playstation.com/2026/03/04/the-warhammer-racer-speed-freeks-is-coming-to-ps5/)
- - [Activision ‘Legally Demands’ Call Of Duty Leaker Ceases, Then Says His Leaks Sucked Anyway](https://kotaku.com/activision-legally-demands-call-of-duty-leaker-ceases-then-says-his-leaks-sucked-anyway-2000675859)
- - [Resident Evil Requiem walkthrough part 8: East Raccoon City](https://www.polygon.com/resident-evil-requiem-walkthrough-part-8-east-raccoon-city-detonator-fuel-relay-gas-station/)<!-- GAME:END -->
+ - [Resident Evil Requiem&#39;s RE2 cameo almost made me quit the game](https://www.polygon.com/resident-evil-requiem-worst-moment-leon-raccoon-city-rpd/)
+ - [PlayStation Store: February 2026’s top downloads](https://blog.playstation.com/2026/03/04/playstation-store-february-2026s-top-downloads/)
+ - [Indie Selects for March 2025: Fresh Contrasts for a New Season](https://news.xbox.com/en-us/2026/03/04/indie-selects-march/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
