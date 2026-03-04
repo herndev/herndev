@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
- - ⏩ [Finally, some good shit.](http://9gag.com/gag/a1mjng2)
- - 👉 [He finally did it with a woman](http://9gag.com/gag/abAwKPr)<!-- MEMES:END -->
+ - 💣 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
+ - ⏩ [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - 👉 [Stop talking and just do it](http://9gag.com/gag/avywBrn)<!-- MEMES:END -->
 
 ---
 
