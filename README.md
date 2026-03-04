@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As experts warn about cyberattacks from Iran on the US, CISA is operating under a partial government shutdown and dealing with leadership changes &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260303/p49#a260303p49)
- - [Junyang Lin, a tech lead on Alibaba&#39;s Qwen team, abruptly steps down; two other members of the Qwen team also leave &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260303/p48#a260303p48)
- - [Intel says board chair Frank Yeary, who has served on the board since 2009, will retire after Intel&#39;s annual meeting in May and be replaced by Craig Barratt &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/260303/p47#a260303p47)<!-- TECH:END -->
+ - [KeyCare, a virtual care platform built on the Epic EHR, raised $27.4M led by HealthX Ventures, bringing its total funding to over $55M &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/260303/p53#a260303p53)
+ - [CPU benchmarks for M4 iPad Air show comparable scores to M4 iPad Pro](https://appleinsider.com/articles/26/03/04/cpu-benchmarks-for-m4-ipad-air-show-comparable-scores-to-m4-ipad-pro?utm_source=rss)
+ - [Google details Coruna, an exploit kit used to hijack iPhones via malicious websites; iVerify suggests it may have been originally built for the US government &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260303/p52#a260303p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
