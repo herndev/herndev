@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Dario Amodei says Anthropic has a higher retention than OpenAI, emphasizing its &quot;mission&quot; as a way to reinforce staff loyalty and fend off competitors&#39; offers &lpar;The Information&rpar;](http://www.techmeme.com/260303/p56#a260303p56)
- - [TikTok won&#39;t add E2EE to DMs because it would prevent police and safety teams from reading messages if needed, saying it wants to protect young users from harm &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/260303/p55#a260303p55)
- - [iPhone Coruna virus: possible US government hacking toolset spreading via black market](https://appleinsider.com/articles/26/03/04/iphone-coruna-virus-possible-us-government-hacking-toolset-spreading-via-black-market?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, March 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-march-4/)
+ - [TikTok won&#39;t add E2EE to DMs because it would prevent police and safety teams from reading messages if needed, saying it wants to protect young users from harm &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/260303/p55#a260303p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
