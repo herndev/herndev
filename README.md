@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me convincing myself to make a bad decision](http://9gag.com/gag/apRw779)
- - ⏩ [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - 👉 [Bro, wtf?](http://9gag.com/gag/aMV56oX)<!-- MEMES:END -->
+ - 💣 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - ⏩ [Flasback](http://9gag.com/gag/a2vpg7Z)
+ - 👉 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)<!-- MEMES:END -->
 
 ---
 
