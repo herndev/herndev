@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We should be actively fighting to protect this!](http://9gag.com/gag/an7wZE0)
- - ⏩ [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
- - 👉 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)<!-- MEMES:END -->
+ - 💣 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
+ - ⏩ [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
+ - 👉 [Stamps cost money](http://9gag.com/gag/an7wwOB)<!-- MEMES:END -->
 
 ---
 
