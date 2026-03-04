@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OPPO Find X9 series will get new AI features powered by MediaTek’s Dimensity 9500](https://www.androidauthority.com/mediatek-omni-model-oppo-find-x9-3646459/)
- - [Eight Sleep, which sells smart mattress accessories to track sleep patterns and adjust temperatures, raised $50M at a $1.5B valuation, up from $500M in 2021 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260304/p15#a260304p15)
- - [How a prize-winning cartoonist brings hand-drawn comics to the web](https://www.theverge.com/uncategorized/888672/how-a-prize-winning-cartoonist-brings-hand-drawn-comics-to-the-web)<!-- TECH:END -->
+ - [Perplexity signs a multiyear deal with CoreWeave to use dedicated clusters powered by Nvidia Grace Blackwell chips for AI inference; CRWV jumps 5%+ pre-market &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260304/p18#a260304p18)
+ - [Samsung shows off Privacy Display tech that could make the Galaxy S27 even better &lpar;Updated: Clarification&rpar;](https://www.androidauthority.com/samsung-next-gen-privacy-display-3646132/)
+ - [Raycast’s Glaze is an all-in-one vibe coding app platform](https://www.theverge.com/tech/888866/raycast-glaze-vibe-code-app-store)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
