@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
- - ⏩ [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
- - 👉 [Stop talking and just do it](http://9gag.com/gag/avywBrn)<!-- MEMES:END -->
+ - 💣 [Saved by the pan](http://9gag.com/gag/aW45eLZ)
+ - ⏩ [It&#39;s not a `chick flick` unless there&#39;s romanticized cheating.](http://9gag.com/gag/a6Z6e0q)
+ - 👉 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)<!-- MEMES:END -->
 
 ---
 
