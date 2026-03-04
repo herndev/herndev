@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
- - ⏩ [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
- - 👉 [Flasback](http://9gag.com/gag/a2vpg7Z)<!-- MEMES:END -->
+ - ⏩ [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)
+ - 👉 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)<!-- MEMES:END -->
 
 ---
 
