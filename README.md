@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
  - ⏩ [Bro, wtf?](http://9gag.com/gag/aMV56oX)
- - 👉 [Stop talking and just do it](http://9gag.com/gag/avywBrn)<!-- MEMES:END -->
+ - 👉 [Burger King CEO takes a big bite of a Whopper in a new video after McDonald\u2019s CEO didn\u2019t want to eat his own burger](http://9gag.com/gag/amowwLo)<!-- MEMES:END -->
 
 ---
 
