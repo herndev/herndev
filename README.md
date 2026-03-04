@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)
+ - 💣 [SOMEBODY SHAT IN THE SHELTER](http://9gag.com/gag/aAy57Pd)
  - ⏩ [Bro, wtf?](http://9gag.com/gag/aMV56oX)
- - 👉 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)<!-- MEMES:END -->
+ - 👉 [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)<!-- MEMES:END -->
 
 ---
 
