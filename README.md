@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Winds &amp; Waves fans worry Pombon looks a bit too familiar](https://www.polygon.com/pokemon-winds-waves-pombon-starter-cassette-beasts-design/)
- - [Our Dark Lord Cthulhu Awakens Once More In This Splendid Lovecraftian Adventure](https://kotaku.com/the-dark-rites-of-arkham-lovecraft-adventure-indie-2000675403)
- - [Will Sony continue to sell PS5 games on PC? Here&#39;s what insiders say](https://www.polygon.com/sony-ps5-pc-games-sales/)<!-- GAME:END -->
+ - [This dice-rolling roguelite is like Balatro on steroids, and its bosses are pure evil](https://www.pcgamer.com/games/roguelike/this-dice-rolling-roguelite-is-like-balatro-on-steroids-and-its-bosses-are-pure-evil/)
+ - [World of Warcraft: Midnight player proves that you only need a single button and a clever build to heal your dungeon party](https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-midnight-player-proves-that-you-only-need-a-single-button-and-a-clever-build-to-heal-your-dungeon-party/)
+ - [Capcom makes the majority of its sales on PC, and it expects the &#39;ratio to continue increasing&#39;](https://www.pcgamer.com/gaming-industry/capcom-makes-the-majority-of-its-sales-on-pc-and-it-expects-the-ratio-to-continue-increasing/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
