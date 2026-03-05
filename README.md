@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
- - ⏩ [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)
- - 👉 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)<!-- MEMES:END -->
+ - 💣 [Just squeeze it](http://9gag.com/gag/aND55Or)
+ - ⏩ [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
+ - 👉 [I love that statement on so many levels](http://9gag.com/gag/aAy55Yg)<!-- MEMES:END -->
 
 ---
 
