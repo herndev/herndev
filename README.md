@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rogue](http://9gag.com/gag/aD255RB)
- - ⏩ [American Dream.](http://9gag.com/gag/aZZ5YKX)
- - 👉 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)<!-- MEMES:END -->
+ - 💣 [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
+ - ⏩ [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
+ - 👉 [Rogue](http://9gag.com/gag/aD255RB)<!-- MEMES:END -->
 
 ---
 
