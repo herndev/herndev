@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Little But Fierce Kickstarter to deliver a kid-friendly version of D&amp;D](https://www.polygon.com/little-but-fierce-dungeons-dragons-dnd-for-kids-kickstarter/)
- - [Assassin&#39;s Creed franchise update reveals new Hexe, Invictus details](https://www.polygon.com/assassins-creed-hexe-invictus-multiplayer-game-rumors/)
- - [Counter-Strike: Global Offensive is back: 3 years after it was muscled out by Counter-Strike 2, CS:GO has its own Steam page again and has powered its way back onto Steam&#39;s most-played chart](https://www.pcgamer.com/games/fps/counter-strike-global-offensive-is-back-3-years-after-it-was-muscled-out-by-counter-strike-2-cs-go-has-its-own-steam-page-again-and-has-powered-its-way-back-onto-steams-most-played-chart/)<!-- GAME:END -->
+ - [Copyright trolling kept evidence of Japanese cult classic Cookie&#39;s Bustle offline, until now](https://www.pcgamer.com/games/adventure/copyright-trolling-kept-evidence-of-japanese-cult-classic-cookies-bustle-offline-until-now/)
+ - [How many of these MMORPGs can you name in just 6 minutes based on a handful of vague details?](https://www.pcgamer.com/games/mmo/how-many-of-these-mmorpgs-can-you-name-in-just-6-minutes-based-on-a-handful-of-vague-details/)
+ - [Highguard gets a new playable character, skill trees and more ahead of next week&#39;s closure](https://www.pcgamer.com/games/fps/highguard-gets-a-new-playable-character-skill-trees-and-more-ahead-of-next-weeks-closure/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
