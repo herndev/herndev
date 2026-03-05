@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just squeeze it](http://9gag.com/gag/aND55Or)
- - ⏩ [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
- - 👉 [Bro, wtf?](http://9gag.com/gag/aMV56oX)<!-- MEMES:END -->
+ - 💣 [STFU David go eat shit my phone take pictures just as good](http://9gag.com/gag/aZZ5Xo6)
+ - ⏩ [Bro got betrayed by his own kind](http://9gag.com/gag/aAy55Vg)
+ - 👉 [My guy just eyeballed those small blocks](http://9gag.com/gag/aKG55p1)<!-- MEMES:END -->
 
 ---
 
