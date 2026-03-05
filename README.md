@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Teacher We Never Had](http://9gag.com/gag/a34rO3Q)
- - ⏩ [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)
- - 👉 [Rogue](http://9gag.com/gag/aD255RB)<!-- MEMES:END -->
+ - 💣 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
+ - ⏩ [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
+ - 👉 [He&#39;s just making it worse](http://9gag.com/gag/aVv56Qd)<!-- MEMES:END -->
 
 ---
 
