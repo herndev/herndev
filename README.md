@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KEF Muo Bluetooth Speaker: Portable Hi-Fi](https://www.wired.com/review/kef-muo-2026/)
- - [Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup](https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal)
- - [Analysis: Nintendo&#39;s software sales are under threat from soaring NAND prices; in December, the average game sales per console were 2.18, down from 3.88 in 2018 &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/260305/p19#a260305p19)<!-- TECH:END -->
+ - [Nominal, which makes software for the defense, space, energy, and automotive sectors, raised an $80M Series B extension led by Founders Fund at a $1B valuation &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/260305/p23#a260305p23)
+ - [Reclaim Security, which uses AI-driven automation to remediate threat exposures, raised a $20M Series A led by Acrew Capital and a $6M seed &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260305/p22#a260305p22)
+ - [Best Gravel Running Shoes &lpar;2026&rpar;: Salomon, Adidas, Nike](https://www.wired.com/gallery/best-gravel-running-shoes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
