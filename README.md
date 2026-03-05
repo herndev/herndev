@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just squeeze it](http://9gag.com/gag/aND55Or)
- - ⏩ [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
- - 👉 [I love that statement on so many levels](http://9gag.com/gag/aAy55Yg)<!-- MEMES:END -->
+ - 💣 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
+ - ⏩ [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - 👉 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)<!-- MEMES:END -->
 
 ---
 
