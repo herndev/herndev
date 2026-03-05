@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Europol-coordinated law enforcement operation disrupts Tycoon2FA, a phishing-as-a-service platform linked to tens of millions of phishing messages each month &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/260304/p48#a260304p48)
- - [BenQ ScreenBar Halo 2 review: ideal desk lighting for nearly any situation](https://appleinsider.com/articles/26/03/05/benq-screenbar-halo-2-review-ideal-desk-lighting-for-nearly-any-situation?utm_source=rss)
- - [A new video from the White House mixes Call of Duty footage with actual video of Iran strikes](https://www.theverge.com/games/889701/trump-white-house-call-of-duty-footage-iran)<!-- TECH:END -->
+ - [Sources: OpenAI has picked two law firms to prepare its IPO, which could come as soon as Q4, in one of its first concrete steps toward a public listing &lpar;The Information&rpar;](http://www.techmeme.com/260304/p51#a260304p51)
+ - [Did Live Nation punish a venue by taking Billie Eilish away?](https://www.theverge.com/policy/889720/live-nation-ticketmaster-trial-doj-barclays-center-threats)
+ - [Budget speed: How fast will the low-cost MacBook Neo really be?](https://appleinsider.com/articles/26/03/04/budget-speed-how-fast-will-the-low-cost-macbook-neo-really-be?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
