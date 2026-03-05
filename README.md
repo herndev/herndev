@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
- - ⏩ [I&#39;m sick of this shit](http://9gag.com/gag/aYQ55ZO)
- - 👉 [Archery is a contact sport apparently](http://9gag.com/gag/aO85E5E)<!-- MEMES:END -->
+ - 💣 [Bro, wtf?](http://9gag.com/gag/aMV56oX)
+ - ⏩ [The Teacher We Never Had](http://9gag.com/gag/a34rO3Q)
+ - 👉 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)<!-- MEMES:END -->
 
 ---
 
