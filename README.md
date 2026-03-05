@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 10 Best Shows to Stream Right Now &lpar;March 2026&rpar;](https://www.wired.com/story/the-best-shows-to-stream-right-now/)
- - [The Controversies Finally Caught Up to Kristi Noem](https://www.wired.com/story/the-controversies-finally-caught-up-to-kristi-noem/)
- - [Meta recently hired the engineering team from Atma Sciences, the company behind the vibe coding app Gizmo, to join its Superintelligence Labs &lpar;Sydney Bradley/Business Insider&rpar;](http://www.techmeme.com/260305/p50#a260305p50)<!-- TECH:END -->
+ - [This device claims it can make your conversations unrecordable for maximum privacy](https://www.androidauthority.com/deveillance-spectre-i-3647029/)
+ - [Pokopia made me look at Pokémon’s high-tech future in a whole new way](https://www.theverge.com/games/890131/pokopia-pokemon-high-tech-future-3d-printer)
+ - [It’s Peak Season for Birdwatchers to Spot Migratory Hummingbirds, and Our Favorite Feeder Is on Sale](https://www.wired.com/story/its-time-to-put-out-your-hummingbird-feeders-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
