@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Maximize productivity with this ASUS ZenScreen 22-inch Portable Monitor deal](https://www.androidauthority.com/asus-zenscreen-22-inch-portable-monitor-deal-2-3646286/)
- - [Check out the bold new look for Pixel Weather icons](https://www.androidauthority.com/pixel-weather-icons-3647007/)
- - [Why Fandom Discourse Feels Extra Cringe Right Now](https://www.wired.com/story/why-fandom-discourse-feels-extra-cringe-right-now/)<!-- TECH:END -->
+ - [The 10 Best Shows to Stream Right Now &lpar;March 2026&rpar;](https://www.wired.com/story/the-best-shows-to-stream-right-now/)
+ - [The Controversies Finally Caught Up to Kristi Noem](https://www.wired.com/story/the-controversies-finally-caught-up-to-kristi-noem/)
+ - [Meta recently hired the engineering team from Atma Sciences, the company behind the vibe coding app Gizmo, to join its Superintelligence Labs &lpar;Sydney Bradley/Business Insider&rpar;](http://www.techmeme.com/260305/p50#a260305p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
