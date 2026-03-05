@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini “Projects” may get a new name and a powerful NotebookLM tie-in](https://www.androidauthority.com/google-gemini-projects-notebooks-apk-teardown-3646849/)
- - [How to Survive Daylight Saving Time: Start Early &lpar;2026&rpar;](https://www.wired.com/story/survive-daylight-savings-by-starting-early/)
- - [Google just made my favorite Phone app feature even better. Here’s how to use it](https://www.androidauthority.com/how-create-your-own-calling-card-google-phone-3646511/)<!-- TECH:END -->
+ - [KEF Muo Bluetooth Speaker: Portable Hi-Fi](https://www.wired.com/review/kef-muo-2026/)
+ - [Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup](https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal)
+ - [Analysis: Nintendo&#39;s software sales are under threat from soaring NAND prices; in December, the average game sales per console were 2.18, down from 3.88 in 2018 &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/260305/p19#a260305p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
