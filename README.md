@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Sweeney signed away his right to criticize Google until 2032](https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032)
- - [Sources: OpenAI has held early talks with The Trade Desk to sell ads, and it has projected ads could help double consumer ChatGPT revenue this year to $17B &lpar;The Information&rpar;](http://www.techmeme.com/260304/p45#a260304p45)
- - [Sources: the WH&#39;s data center pledge relies on enforcement by local utilities and states through rate deals, without penalties for tech firms refusing to comply &lpar;Bloomberg&rpar;](http://www.techmeme.com/260304/p44#a260304p44)<!-- TECH:END -->
+ - [A Europol-coordinated law enforcement operation disrupts Tycoon2FA, a phishing-as-a-service platform linked to tens of millions of phishing messages each month &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/260304/p48#a260304p48)
+ - [BenQ ScreenBar Halo 2 review: ideal desk lighting for nearly any situation](https://appleinsider.com/articles/26/03/05/benq-screenbar-halo-2-review-ideal-desk-lighting-for-nearly-any-situation?utm_source=rss)
+ - [A new video from the White House mixes Call of Duty footage with actual video of Iran strikes](https://www.theverge.com/games/889701/trump-white-house-call-of-duty-footage-iran)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
