@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pasqal, a French startup that builds quantum processors using neutral atom technology, plans to go public via a SPAC merger at a $2B pre-money valuation &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/260304/p42#a260304p42)
- - [Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive](https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/)
- - [Google, Microsoft, Meta, Amazon, OpenAI, and others sign a pledge at the White House to bear the cost of new electricity generation to power their data centers &lpar;Reuters&rpar;](http://www.techmeme.com/260304/p41#a260304p41)<!-- TECH:END -->
+ - [Tim Sweeney signed away his right to criticize Google until 2032](https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032)
+ - [Sources: OpenAI has held early talks with The Trade Desk to sell ads, and it has projected ads could help double consumer ChatGPT revenue this year to $17B &lpar;The Information&rpar;](http://www.techmeme.com/260304/p45#a260304p45)
+ - [Sources: the WH&#39;s data center pledge relies on enforcement by local utilities and states through rate deals, without penalties for tech firms refusing to comply &lpar;Bloomberg&rpar;](http://www.techmeme.com/260304/p44#a260304p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
