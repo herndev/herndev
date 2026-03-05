@@ -13,7 +13,7 @@
 
 |   SOFTWARE ENGINEER <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>    |   GITHUB STATUS <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>    |
 | ----------- | ----------- |
-| <img src="./img/banner-half.png" /> | <img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" /> |
+| <img src="./img/banner-half.png" /> | [![GitHub Streak](https://streak-stats.demolab.com?user=herndev&theme=merko&hide_border=true)](https://git.io/streak-stats) |
 <!-- 
 |   CONTRIBUTION GRAPH <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="25" height="25"/>     |
 | ----------- |
