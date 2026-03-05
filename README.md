@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Copyright trolling kept evidence of Japanese cult classic Cookie&#39;s Bustle offline, until now](https://www.pcgamer.com/games/adventure/copyright-trolling-kept-evidence-of-japanese-cult-classic-cookies-bustle-offline-until-now/)
- - [How many of these MMORPGs can you name in just 6 minutes based on a handful of vague details?](https://www.pcgamer.com/games/mmo/how-many-of-these-mmorpgs-can-you-name-in-just-6-minutes-based-on-a-handful-of-vague-details/)
- - [Highguard gets a new playable character, skill trees and more ahead of next week&#39;s closure](https://www.pcgamer.com/games/fps/highguard-gets-a-new-playable-character-skill-trees-and-more-ahead-of-next-weeks-closure/)<!-- GAME:END -->
+ - [White House frames Iran war as a game of Call of Duty in social video](https://www.polygon.com/white-house-iran-war-call-of-duty-video/)
+ - [Remedy Explains What Defines A Control Game As Its Sequels Veer Off In Wild Directions](https://kotaku.com/control-resonant-remedy-shooter-third-person-2000675970)
+ - [Mobile Suit Gundam: Char’s Counterattack remains endlessly rewatchable](https://www.polygon.com/mobile-suit-gundam-chars-counterattack-1988-iconic-anime-film/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
