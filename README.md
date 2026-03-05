@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New York bill would ban chatbots from impersonating licensed professionals like doctors and lawyers and giving &quot;substantive response, information, or advice&quot; &lpar;Keely Quinlan/StateScoop&rpar;](http://www.techmeme.com/260304/p53#a260304p53)
- - [Study: ChatGPT Health underestimated the severity of medical emergencies 51.6% of the time and overestimated the severity in nonurgent cases 64.8% of the time &lpar;Kaan Ozcan/NBC News&rpar;](http://www.techmeme.com/260304/p52#a260304p52)
- - [Sources: OpenAI has picked two law firms to prepare its IPO, which could come as soon as Q4, in one of its first concrete steps toward a public listing &lpar;The Information&rpar;](http://www.techmeme.com/260304/p51#a260304p51)<!-- TECH:END -->
+ - [Microsoft releases Phi-4-reasoning-vision-15B, a 15B-parameter open-weight model it says matches larger systems while using far less compute and training data &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/260304/p55#a260304p55)
+ - [Deveillance&#39;s upcoming anti-surveillance device, Spectre I, went viral after its founder said it blocks nearby listening devices with AI, but some are skeptical &lpar;Lindsey Weedston/The Daily Dot&rpar;](http://www.techmeme.com/260304/p54#a260304p54)
+ - [A New York bill would ban chatbots from impersonating licensed professionals like doctors and lawyers and giving &quot;substantive response, information, or advice&quot; &lpar;Keely Quinlan/StateScoop&rpar;](http://www.techmeme.com/260304/p53#a260304p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
