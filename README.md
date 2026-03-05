@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft releases Phi-4-reasoning-vision-15B, a 15B-parameter open-weight model it says matches larger systems while using far less compute and training data &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/260304/p55#a260304p55)
- - [Deveillance&#39;s upcoming anti-surveillance device, Spectre I, went viral after its founder said it blocks nearby listening devices with AI, but some are skeptical &lpar;Lindsey Weedston/The Daily Dot&rpar;](http://www.techmeme.com/260304/p54#a260304p54)
- - [A New York bill would ban chatbots from impersonating licensed professionals like doctors and lawyers and giving &quot;substantive response, information, or advice&quot; &lpar;Keely Quinlan/StateScoop&rpar;](http://www.techmeme.com/260304/p53#a260304p53)<!-- TECH:END -->
+ - [The US Central Command says US military forces are using a range of AI tools to quickly manage enormous amounts of data for operations against Iran &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260305/p1#a260305p1)
+ - [Sources: OpenAI topped $25B in annualized revenue by end-February, up from $21.4B at end-2025; it annualizes by multiplying the last four weeks&#39; revenue by 12 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/260304/p57#a260304p57)
+ - [Apple Music introduces Transparency Tags, a metadata system for music distributors and labels to disclose AI-generated creative elements like artwork or lyrics &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/260304/p56#a260304p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
