@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Match eliminates the role of COO, putting Hesam Hosseini out of a job after 18 years with the dating app giant, as part of changes under CEO Spencer Rascoff &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260305/p33#a260305p33)
- - [You can now fill your home with Ikea’s cheap and tiny new Bluetooth speaker](https://www.theverge.com/tech/889878/ikea-bluetooth-speaker-kallsup-now-available-price)
- - [Stockholm-based Validio, whose agentic platform autonomously detects and resolves data quality issues, raised a $30M Series A, bringing its total raised to $47M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260305/p32#a260305p32)<!-- TECH:END -->
+ - [OnePlus confirms a massive 7,500mAh battery for the compact 15T](https://www.androidauthority.com/oneplus-15t-7500mah-battery-confirmed-3646965/)
+ - [Sources: US officials propose expanding AI chip export controls globally, requiring Commerce Department approval for Nvidia and AMD shipments to any country &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/260305/p40#a260305p40)
+ - [Apple implemented geoblocking in January to prevent US-based users from downloading or updating ByteDance&#39;s Chinese apps, even with a Chinese Apple account &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/260305/p39#a260305p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
