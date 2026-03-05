@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And they say Romance is dead](http://9gag.com/gag/ajPwvOG)
- - ⏩ [Being a step dad is fun](http://9gag.com/gag/abAw81X)
- - 👉 [Me convincing myself to make a bad decision](http://9gag.com/gag/apRw779)<!-- MEMES:END -->
+ - 💣 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
+ - ⏩ [Rogue](http://9gag.com/gag/aD255RB)
+ - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
 
 ---
 
