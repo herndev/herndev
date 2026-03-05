@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [50 Cent, One of the best people out there](http://9gag.com/gag/avywqWn)
- - ⏩ [Bro, wtf?](http://9gag.com/gag/aMV56oX)
- - 👉 [That pause made some people miss a hearbeat](http://9gag.com/gag/adBwMx9)<!-- MEMES:END -->
+ - 💣 [Someone finally found a way to skateboard in GTA 5.](http://9gag.com/gag/aW455b4)
+ - ⏩ [My guy just eyeballed those small blocks](http://9gag.com/gag/aKG55p1)
+ - 👉 [Twitter age](http://9gag.com/gag/aBy55eZ)<!-- MEMES:END -->
 
 ---
 
