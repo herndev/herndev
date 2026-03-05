@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku&amp;#8217;s solution to streaming decision fatigue is a trivia game](https://www.theverge.com/streaming/890312/roku-roklue-trivia-game)
- - [This Ultra phone is the first to use Sony’s brand-new 200MP camera sensor](https://www.androidauthority.com/vivo-x300-ultra-camera-details-3647073/)
- - [Anthropic says Claude&#39;s free active users grew 60%+ and daily signups grew 4x since the start of the year, with Monday being its strongest day ever &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260305/p54#a260305p54)<!-- TECH:END -->
+ - [Remember: Samsung Galaxy S26 devices come with a free gift card!](https://www.androidauthority.com/samsung-galaxy-s26-plus-ultra-deals-3646989/)
+ - [Lawmakers just advanced online safety laws that require age verification at the app store](https://www.theverge.com/policy/890367/house-lawmakers-online-safety-bills-kids-act)
+ - [The Pentagon formally labels Anthropic a supply-chain risk](https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
