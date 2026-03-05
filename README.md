@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh how glad I am to live in such a wonderfully providing country!](http://9gag.com/gag/awy2DDQ)
- - ⏩ [SOMEBODY SHAT IN THE SHELTER](http://9gag.com/gag/aAy57Pd)
- - 👉 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)<!-- MEMES:END -->
+ - 💣 [Microsoft is a Mafia](http://9gag.com/gag/aZZ5KEz)
+ - ⏩ [Imagine what might have happened if the pilot had been Iranian.](http://9gag.com/gag/a87O9Mp)
+ - 👉 [If he lost virginity he&#39;d be like that for days](http://9gag.com/gag/axywKEb)<!-- MEMES:END -->
 
 ---
 
