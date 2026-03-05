@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Munich&#39;s UnternehmerTUM, which tops the FT ranking of Europe&#39;s startup hubs for a third straight year and has supported 1,000+ companies since 2002 &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/260305/p12#a260305p12)
- - [Grammarly is offering an AI-powered tool called &quot;Expert Review&quot; that simulates feedback from famous writers, dead and living, without their permission &lpar;Miles Klee/Wired&rpar;](http://www.techmeme.com/260305/p11#a260305p11)
- - [Staff memo: Alibaba says it is setting up a new task force to accelerate foundation AI model development, after the resignation of Qwen AI head Lin Junyang &lpar;Reuters&rpar;](http://www.techmeme.com/260305/p10#a260305p10)<!-- TECH:END -->
+ - [How a Music Streaming CEO Built an Open-Source Global Threat Map in His Spare Time](https://www.wired.com/story/world-monitor-elie-habib/)
+ - [Gemini could soon make editing Nano Banana images a breeze](https://www.androidauthority.com/gemini-generated-image-markup-apk-teardown-3646829/)
+ - [One of Gemini’s best features is getting a must-needed usability boost on Android](https://www.androidauthority.com/create-gemini-scheduled-actions-android-3646816/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
