@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Officials say NATO&#39;s main focus at its July summit will be on investments into drones and AI systems rather than primarily conventional defense hardware &lpar;Bloomberg&rpar;](http://www.techmeme.com/260305/p6#a260305p6)
- - [Many of Stockholm&#39;s thriving tech businesses consider relocating as they look to scale up, amid growing US interest in Swedish AI startups Lovable and Legora &lpar;Orlando Crowcroft/Financial Times&rpar;](http://www.techmeme.com/260305/p5#a260305p5)
- - [OpenAI is scaling back shopping directly inside ChatGPT via Instant Checkout by having checkouts instead take place in the specific apps that plug into ChatGPT &lpar;The Information&rpar;](http://www.techmeme.com/260305/p4#a260305p4)<!-- TECH:END -->
+ - [A look at Munich&#39;s UnternehmerTUM, which tops the FT ranking of Europe&#39;s startup hubs for a third straight year and has supported 1,000+ companies since 2002 &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/260305/p12#a260305p12)
+ - [Grammarly is offering an AI-powered tool called &quot;Expert Review&quot; that simulates feedback from famous writers, dead and living, without their permission &lpar;Miles Klee/Wired&rpar;](http://www.techmeme.com/260305/p11#a260305p11)
+ - [Staff memo: Alibaba says it is setting up a new task force to accelerate foundation AI model development, after the resignation of Qwen AI head Lin Junyang &lpar;Reuters&rpar;](http://www.techmeme.com/260305/p10#a260305p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
