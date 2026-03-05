@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)
- - ⏩ [Rogue](http://9gag.com/gag/aD255RB)
- - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
+ - 💣 [114 times](http://9gag.com/gag/ajPw448)
+ - ⏩ [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - 👉 [I love that statement on so many levels](http://9gag.com/gag/aAy55Yg)<!-- MEMES:END -->
 
 ---
 
