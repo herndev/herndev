@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Took me 21 years to realize I don&#39;t fit in this bloody country](http://9gag.com/gag/aoywwEx)
- - ⏩ [114 times](http://9gag.com/gag/ajPw448)
- - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
+ - 💣 [And they say Romance is dead](http://9gag.com/gag/ajPwvOG)
+ - ⏩ [Being a step dad is fun](http://9gag.com/gag/abAw81X)
+ - 👉 [Me convincing myself to make a bad decision](http://9gag.com/gag/apRw779)<!-- MEMES:END -->
 
 ---
 
