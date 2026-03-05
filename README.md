@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
- - ⏩ [Flasback](http://9gag.com/gag/a2vpg7Z)
+ - 💣 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
+ - ⏩ [Rogue](http://9gag.com/gag/aD255RB)
  - 👉 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)<!-- MEMES:END -->
 
 ---
