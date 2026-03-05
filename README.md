@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This device claims it can make your conversations unrecordable for maximum privacy](https://www.androidauthority.com/deveillance-spectre-i-3647029/)
- - [Pokopia made me look at Pokémon’s high-tech future in a whole new way](https://www.theverge.com/games/890131/pokopia-pokemon-high-tech-future-3d-printer)
- - [It’s Peak Season for Birdwatchers to Spot Migratory Hummingbirds, and Our Favorite Feeder Is on Sale](https://www.wired.com/story/its-time-to-put-out-your-hummingbird-feeders-2026/)<!-- TECH:END -->
+ - [Roku&amp;#8217;s solution to streaming decision fatigue is a trivia game](https://www.theverge.com/streaming/890312/roku-roklue-trivia-game)
+ - [This Ultra phone is the first to use Sony’s brand-new 200MP camera sensor](https://www.androidauthority.com/vivo-x300-ultra-camera-details-3647073/)
+ - [Anthropic says Claude&#39;s free active users grew 60%+ and daily signups grew 4x since the start of the year, with Monday being its strongest day ever &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/260305/p54#a260305p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
