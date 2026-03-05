@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus confirms a massive 7,500mAh battery for the compact 15T](https://www.androidauthority.com/oneplus-15t-7500mah-battery-confirmed-3646965/)
- - [Sources: US officials propose expanding AI chip export controls globally, requiring Commerce Department approval for Nvidia and AMD shipments to any country &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/260305/p40#a260305p40)
- - [Apple implemented geoblocking in January to prevent US-based users from downloading or updating ByteDance&#39;s Chinese apps, even with a Chinese Apple account &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/260305/p39#a260305p39)<!-- TECH:END -->
+ - [Netflix is buying Ben Affleck’s AI startup](https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai)
+ - [The Best Roku TV Is $210 Off](https://www.wired.com/story/roku-pro-series-deal-326/)
+ - [OpenAI says GPT-5.4&#39;s &quot;individual claims are 33% less likely to be false and its full responses are 18% less likely to contain any errors, relative to GPT-5.2&quot; &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260305/p46#a260305p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
