@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brain tech startup Science Corp. raised $230M, a source says at a $1.25B valuation, bringing total raised to $489M, to commercialize its implant for blindness &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/260305/p26#a260305p26)
- - [Apple Music adds optional labels for AI songs and visuals](https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch)
- - [Lio, which uses AI agents to automate enterprise procurement, including document reading and supplier evaluation, raised a $30M Series A led by a16z &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260305/p25#a260305p25)<!-- TECH:END -->
+ - [iPhone 17e vs iPhone 16e: Apple&#39;s low-end, compared](https://appleinsider.com/inside/iphone-17e/vs/iphone-17e-vs-iphone-16e-apples-low-end-compared?utm_source=rss)
+ - [Prediction markets in the news are a dangerous gamble](https://www.theverge.com/podcast/889177/prediction-markets-news-gambling-polymarket-kalshi-iran-war-regulation)
+ - [AWS launches Amazon Connect Health, an AI-driven suite to automate clinical documentation, billing and procedure coding, and patient identity verification &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/260305/p29#a260305p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
