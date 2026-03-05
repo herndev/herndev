@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
- - ⏩ [Rogue](http://9gag.com/gag/aD255RB)
- - 👉 [The CEO loves his product.](http://9gag.com/gag/aVv5rL8)<!-- MEMES:END -->
+ - 💣 [Took me 21 years to realize I don&#39;t fit in this bloody country](http://9gag.com/gag/aoywwEx)
+ - ⏩ [114 times](http://9gag.com/gag/ajPw448)
+ - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
 
 ---
 
