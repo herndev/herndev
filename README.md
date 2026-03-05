@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nominal, which makes software for the defense, space, energy, and automotive sectors, raised an $80M Series B extension led by Founders Fund at a $1B valuation &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/260305/p23#a260305p23)
- - [Reclaim Security, which uses AI-driven automation to remediate threat exposures, raised a $20M Series A led by Acrew Capital and a $6M seed &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260305/p22#a260305p22)
- - [Best Gravel Running Shoes &lpar;2026&rpar;: Salomon, Adidas, Nike](https://www.wired.com/gallery/best-gravel-running-shoes/)<!-- TECH:END -->
+ - [Brain tech startup Science Corp. raised $230M, a source says at a $1.25B valuation, bringing total raised to $489M, to commercialize its implant for blindness &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/260305/p26#a260305p26)
+ - [Apple Music adds optional labels for AI songs and visuals](https://www.theverge.com/tech/889836/apple-music-ai-transparency-tags-launch)
+ - [Lio, which uses AI agents to automate enterprise procurement, including document reading and supplier evaluation, raised a $30M Series A led by a16z &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260305/p25#a260305p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
