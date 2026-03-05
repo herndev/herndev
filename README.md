@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is buying Ben Affleck’s AI startup](https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai)
- - [The Best Roku TV Is $210 Off](https://www.wired.com/story/roku-pro-series-deal-326/)
- - [OpenAI says GPT-5.4&#39;s &quot;individual claims are 33% less likely to be false and its full responses are 18% less likely to contain any errors, relative to GPT-5.2&quot; &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260305/p46#a260305p46)<!-- TECH:END -->
+ - [Deal: Maximize productivity with this ASUS ZenScreen 22-inch Portable Monitor deal](https://www.androidauthority.com/asus-zenscreen-22-inch-portable-monitor-deal-2-3646286/)
+ - [Check out the bold new look for Pixel Weather icons](https://www.androidauthority.com/pixel-weather-icons-3647007/)
+ - [Why Fandom Discourse Feels Extra Cringe Right Now](https://www.wired.com/story/why-fandom-discourse-feels-extra-cringe-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
