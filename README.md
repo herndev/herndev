@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a Music Streaming CEO Built an Open-Source Global Threat Map in His Spare Time](https://www.wired.com/story/world-monitor-elie-habib/)
- - [Gemini could soon make editing Nano Banana images a breeze](https://www.androidauthority.com/gemini-generated-image-markup-apk-teardown-3646829/)
- - [One of Gemini’s best features is getting a must-needed usability boost on Android](https://www.androidauthority.com/create-gemini-scheduled-actions-android-3646816/)<!-- TECH:END -->
+ - [Gemini “Projects” may get a new name and a powerful NotebookLM tie-in](https://www.androidauthority.com/google-gemini-projects-notebooks-apk-teardown-3646849/)
+ - [How to Survive Daylight Saving Time: Start Early &lpar;2026&rpar;](https://www.wired.com/story/survive-daylight-savings-by-starting-early/)
+ - [Google just made my favorite Phone app feature even better. Here’s how to use it](https://www.androidauthority.com/how-create-your-own-calling-card-google-phone-3646511/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
