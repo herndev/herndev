@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Senate passed COPPA 2.0 again, which would create new protections for young users; the bill now heads to the House, where it has struggled to pass &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/260305/p61#a260305p61)
- - [A look at Cloverleaf, which strikes deals with utility companies and secures land for AI companies and their data center needs; the company has raised $300M &lpar;New York Times&rpar;](http://www.techmeme.com/260305/p60#a260305p60)
- - [MacBook Neo benchmark results are predictably close to iPhone 16 Pro, M1 comparable](https://appleinsider.com/articles/26/03/06/macbook-neo-benchmark-results-are-predictably-close-to-iphone-16-pro-m1-comparable?utm_source=rss)<!-- TECH:END -->
+ - [Apple&#39;s long-awaited HomeHub rumored to launch in fall 2026](https://appleinsider.com/articles/26/03/06/apples-long-awaited-homehub-rumored-to-launch-in-fall-2026?utm_source=rss)
+ - [McDonald&#39;s CEO Burger Video: Ketchup With This Bizarre New Meme](https://www.cnet.com/news/mcdonalds-ceo-burger-video-ketchup-with-this-bizarre-new-meme/)
+ - [Sources: OpenAI employees claim the DOD tested Microsoft&#39;s Azure version of OpenAI models before OpenAI lifted its blanket ban on military use in January 2024 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260305/p62#a260305p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
