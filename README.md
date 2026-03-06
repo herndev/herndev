@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes nutrition, my favorite](http://9gag.com/gag/amow4Y4)
- - ⏩ [Made me laugh](http://9gag.com/gag/aD25ejN)
- - 👉 [114 times](http://9gag.com/gag/ajPw448)<!-- MEMES:END -->
+ - 💣 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
+ - ⏩ [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
+ - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
 
 ---
 
