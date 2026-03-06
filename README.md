@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet your new phone away from phone](https://www.theverge.com/tech/889756/mwc-2026-unihertz-light-phone-clicks)
- - [Alexa’s latest AI blunder could have sent someone to the hospital](https://www.androidauthority.com/amazon-alexa-dangerous-cleaning-tip-3647170/)
- - [This Ultra flagship promises industry-leading gimbal-level telephoto stabilization](https://www.androidauthority.com/vivo-x300-ultra-camera-telephoto-ois-3647164/)<!-- TECH:END -->
+ - [Sources: SoftBank is seeking a bridge loan of up to $40B, its largest-ever borrowing denominated solely in dollars, to help finance its investment in OpenAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p8#a260306p8)
+ - [Sydney Opera House to be lit up by art created on iPad](https://appleinsider.com/articles/26/03/06/sydney-opera-house-to-be-lit-up-by-art-created-on-ipad?utm_source=rss)
+ - [Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review](https://www.wired.com/review/corsair-sabre-v2-cf-and-mg/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
