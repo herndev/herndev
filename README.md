@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hayden AI, which raised $180M for its traffic management system, sues its ex-CEO Chris Carson Jr. for allegedly using its data to start a competitor and more &lpar;William Hicks/San Francisco Business ...&rpar;](http://www.techmeme.com/260306/p10#a260306p10)
- - [The Trump phone was a no-show at the world’s biggest mobile show](https://www.theverge.com/tech/889837/trump-phone-mobile-world-congress-mwc)
- - [Trump&amp;#8217;s surgeon general nominee is running the wellness grifter playbook perfectly](https://www.theverge.com/column/889922/optimizer-casey-means-wellness-influencer-playbook)<!-- TECH:END -->
+ - [Robinhood debuts its $658.4M venture fund on the NYSE, pricing the IPO at $25 per share, offering retail investors access to private companies like Databricks &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/260306/p11#a260306p11)
+ - [T-Mobile’s latest change brings greater transparency to plan changes, but is it enough?](https://www.androidauthority.com/t-mobiles-greater-transparency-warning-3647192/)
+ - [Hulu and Disney Plus for $5? Yes, This Deal Is Real](https://www.cnet.com/deals/hulu-and-disney-plus-for-5-yes-this-deal-is-real/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
