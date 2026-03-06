@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AI Doc is an overwrought hype piece for doomers and accelerationists alike](https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review)
- - [OpenAI rolls out Codex Security, an AI agent that evolved from its research project Aardvark to automate vulnerability discovery, validation, and remediation &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260306/p18#a260306p18)
- - [Google joins Microsoft in saying it will keep working with Anthropic on non-defense projects after the DOD designated the startup a supply chain risk &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/260306/p17#a260306p17)<!-- TECH:END -->
+ - [Nintendo of America sues the US government, seeking a refund with interest for tariffs that the company says Trump implemented in &quot;unlawful&quot; EOs &lpar;Nicole Carpenter/Aftermath&rpar;](http://www.techmeme.com/260306/p20#a260306p20)
+ - [Apple thinks it can lure in the &#39;Apple curious&#39; for $599](https://appleinsider.com/articles/26/03/06/apple-thinks-it-can-lure-in-the-apple-curious-for-599?utm_source=rss)
+ - [An interview with Pentagon AI head Emil Michael about Anthropic leaking to the media to win anti-Trump users, dealing with Amodei and his &quot;politburo&quot;, and more &lpar;Pirate Wires&rpar;](http://www.techmeme.com/260306/p19#a260306p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
