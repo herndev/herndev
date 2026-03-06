@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After you download Android 16 QPR3, here are 3 hidden settings you need to try](https://www.androidauthority.com/android-16-qpr3-hidden-settings-need-try-3646084/)
- - [US federal regulators say banks don&#39;t need extra capital against losses when dealing with blockchain-based securities, calling their rules &quot;technology neutral&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260306/p6#a260306p6)
- - [The MacBook Neo is the laptop Google can’t build](https://www.androidauthority.com/macbook-neo-google-cant-build-3646746/)<!-- TECH:END -->
+ - [Meet your new phone away from phone](https://www.theverge.com/tech/889756/mwc-2026-unihertz-light-phone-clicks)
+ - [Alexa’s latest AI blunder could have sent someone to the hospital](https://www.androidauthority.com/amazon-alexa-dangerous-cleaning-tip-3647170/)
+ - [This Ultra flagship promises industry-leading gimbal-level telephoto stabilization](https://www.androidauthority.com/vivo-x300-ultra-camera-telephoto-ois-3647164/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
