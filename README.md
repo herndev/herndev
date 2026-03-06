@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grammarly is using our identities without permission](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews)
- - [Samsung is ‘very interested’ in letting you vibe code on Galaxy phones](https://www.androidauthority.com/samsung-galaxy-potential-vibe-coding-feature-3647358/)
- - [President Trump signs an EO aimed at fighting cybercrime, directing officials to identify robust tools to combat transnational criminal organizations &lpar;Catherine Lucey/Bloomberg&rpar;](http://www.techmeme.com/260306/p24#a260306p24)<!-- TECH:END -->
+ - [Sources: AI chipmaker Cerebras could raise ~$2B in its IPO as soon as April; it withdrew its previous IPO registration in October, nearly a year after filing &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p27#a260306p27)
+ - [Google Pixel 10a deals: Get a free gift card or Pixel Buds 2a](https://www.androidauthority.com/google-pixel-10a-deals-3646988/)
+ - [72 &#39;Buy It for Life&#39; Products: Cast-Iron, Tools, Speakers, Chairs, and More](https://www.wired.com/story/buy-it-for-life/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
