@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood debuts its $658.4M venture fund on the NYSE, pricing the IPO at $25 per share, offering retail investors access to private companies like Databricks &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/260306/p11#a260306p11)
- - [T-Mobile’s latest change brings greater transparency to plan changes, but is it enough?](https://www.androidauthority.com/t-mobiles-greater-transparency-warning-3647192/)
- - [Hulu and Disney Plus for $5? Yes, This Deal Is Real](https://www.cnet.com/deals/hulu-and-disney-plus-for-5-yes-this-deal-is-real/)<!-- TECH:END -->
+ - [You can already save up to $50 on the new M4 iPad Air](https://www.theverge.com/gadgets/890389/apple-ipad-air-m4-xbox-wireless-controller-deal-sale)
+ - [Motorola could make the next Razr stand out as the foldable that doesn’t skimp on RAM](https://www.androidauthority.com/motorola-razr-2026-specs-3647305/)
+ - [Samsung teases what to expect from its upcoming smart glasses later this year](https://www.androidauthority.com/samsung-exec-offers-smart-glasses-details-3647219/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
