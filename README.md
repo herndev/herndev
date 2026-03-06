@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The War on Iran Puts Global Chip Supplies and AI Expansion at Risk](https://www.wired.com/story/the-war-on-iran-puts-global-chip-supply-and-ai-expansion-at-risk/)
- - [Mattress Firm Coupons and Discounts: Save Up to $600](https://www.wired.com/story/mattress-firm-coupon/)
- - [KitchenAid Promo Codes and Discounts: Save Up To 50%](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [Survey says most readers want Pixels to offer this simple security feature](https://www.androidauthority.com/pixel-pin-to-power-off-poll-results-3647121/)
+ - [Jack Dorsey Is Ready to Explain the Block Layoffs](https://www.wired.com/story/jack-dorsey-explains-block-layoffs/)
+ - [Gemini in Gmail needs these five upgrades](https://www.androidauthority.com/gemini-gmail-upgrades-3645646/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
