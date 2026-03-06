@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I love that statement on so many levels](http://9gag.com/gag/aAy55Yg)
- - ⏩ [114 times](http://9gag.com/gag/ajPw448)
- - 👉 [Yes nutrition, my favorite](http://9gag.com/gag/amow4Y4)<!-- MEMES:END -->
+ - 💣 [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - ⏩ [Diversity](http://9gag.com/gag/adBwDNM)
+ - 👉 [Where they went](http://9gag.com/gag/aE055ro)<!-- MEMES:END -->
 
 ---
 
