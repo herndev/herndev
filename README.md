@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How prediction markets Kalshi and Polymarket are aggressively targeting college students through fraternity partnerships and student influencers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260306/p15#a260306p15)
- - [9 Best Android Phones of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [Pentagon names ex-DOGE employee Gavin Kliger as Chief Data Officer to lead its AI efforts; Kliger previously reposted white supremacist Nick Fuentes&#39; content &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/260306/p14#a260306p14)<!-- TECH:END -->
+ - [The AI Doc is an overwrought hype piece for doomers and accelerationists alike](https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review)
+ - [OpenAI rolls out Codex Security, an AI agent that evolved from its research project Aardvark to automate vulnerability discovery, validation, and remediation &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260306/p18#a260306p18)
+ - [Google joins Microsoft in saying it will keep working with Anthropic on non-defense projects after the DOD designated the startup a supply chain risk &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/260306/p17#a260306p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
