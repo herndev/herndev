@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey says most readers want Pixels to offer this simple security feature](https://www.androidauthority.com/pixel-pin-to-power-off-poll-results-3647121/)
- - [Jack Dorsey Is Ready to Explain the Block Layoffs](https://www.wired.com/story/jack-dorsey-explains-block-layoffs/)
- - [Gemini in Gmail needs these five upgrades](https://www.androidauthority.com/gemini-gmail-upgrades-3645646/)<!-- TECH:END -->
+ - [After you download Android 16 QPR3, here are 3 hidden settings you need to try](https://www.androidauthority.com/android-16-qpr3-hidden-settings-need-try-3646084/)
+ - [US federal regulators say banks don&#39;t need extra capital against losses when dealing with blockchain-based securities, calling their rules &quot;technology neutral&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260306/p6#a260306p6)
+ - [The MacBook Neo is the laptop Google can’t build](https://www.androidauthority.com/macbook-neo-google-cant-build-3646746/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
