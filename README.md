@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Goth donut](http://9gag.com/gag/aW4530x)
- - ⏩ [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
- - 👉 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)<!-- MEMES:END -->
+ - 💣 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
+ - ⏩ [American Dream.](http://9gag.com/gag/aZZ5YKX)
+ - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
 
 ---
 
