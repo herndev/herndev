@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon.com says things are fixed after some issues with logging in and checking out](https://www.theverge.com/tech/890215/amazon-is-down-login-prices)
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Dario Amodei says Anthropic has been &quot;having productive conversations&quot; with the DOD and apologizes for a leaked memo that criticized Trump and Sam Altman &lpar;Anthropic&rpar;](http://www.techmeme.com/260305/p59#a260305p59)<!-- TECH:END -->
+ - [The US Senate passed COPPA 2.0 again, which would create new protections for young users; the bill now heads to the House, where it has struggled to pass &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/260305/p61#a260305p61)
+ - [A look at Cloverleaf, which strikes deals with utility companies and secures land for AI companies and their data center needs; the company has raised $300M &lpar;New York Times&rpar;](http://www.techmeme.com/260305/p60#a260305p60)
+ - [MacBook Neo benchmark results are predictably close to iPhone 16 Pro, M1 comparable](https://appleinsider.com/articles/26/03/06/macbook-neo-benchmark-results-are-predictably-close-to-iphone-16-pro-m1-comparable?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
