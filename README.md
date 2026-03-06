@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [End of the beniginging](http://9gag.com/gag/an7woL5)
- - ⏩ [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
- - 👉 [Where they went](http://9gag.com/gag/aE055ro)<!-- MEMES:END -->
+ - 💣 [Where they went](http://9gag.com/gag/aE055ro)
+ - ⏩ [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - 👉 [His reaction is everything](http://9gag.com/gag/aXP1ybd)<!-- MEMES:END -->
 
 ---
 
