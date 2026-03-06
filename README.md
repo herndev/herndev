@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank is seeking a bridge loan of up to $40B, its largest-ever borrowing denominated solely in dollars, to help finance its investment in OpenAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p8#a260306p8)
- - [Sydney Opera House to be lit up by art created on iPad](https://appleinsider.com/articles/26/03/06/sydney-opera-house-to-be-lit-up-by-art-created-on-ipad?utm_source=rss)
- - [Corsair Sabre V2 Carbon Fiber and Magnesium Gaming Mice Review](https://www.wired.com/review/corsair-sabre-v2-cf-and-mg/)<!-- TECH:END -->
+ - [MacBook Neo, Studio Display XDR, iPhone 17e and more, on the AppleInsider Podcast](https://appleinsider.com/articles/26/03/06/macbook-neo-studio-display-xdr-iphone-17e-and-more-on-the-appleinsider-podcast?utm_source=rss)
+ - [Samsung is giving you a very good reason to open the Galaxy Store every day](https://www.androidauthority.com/samsung-galaxy-store-rewards-program-3646929/)
+ - [11 Best USB Flash Drives &lpar;2026&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
