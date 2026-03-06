@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
- - ⏩ [Where they went](http://9gag.com/gag/aE055ro)
- - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
+ - 💣 [End of the beniginging](http://9gag.com/gag/an7woL5)
+ - ⏩ [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
+ - 👉 [Where they went](http://9gag.com/gag/aE055ro)<!-- MEMES:END -->
 
 ---
 
