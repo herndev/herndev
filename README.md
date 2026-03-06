@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The War on Iran Puts Global Chip Supplies and AI Expansion at Risk](https://www.wired.com/story/the-war-on-iran-puts-global-chip-supply-and-ai-expansion-at-risk/)
  - [Mattress Firm Coupons and Discounts: Save Up to $600](https://www.wired.com/story/mattress-firm-coupon/)
- - [KitchenAid Promo Codes and Discounts: Save Up To 50%](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Peacock Promo Codes: 40% Off March 2026](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
+ - [KitchenAid Promo Codes and Discounts: Save Up To 50%](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
