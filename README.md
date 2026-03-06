@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Poor girl](http://9gag.com/gag/aBy5BKD)
- - ⏩ [Yes nutrition, my favorite](http://9gag.com/gag/amow4Y4)
- - 👉 [Made me laugh](http://9gag.com/gag/aD25ejN)<!-- MEMES:END -->
+ - ⏩ [Rogue](http://9gag.com/gag/aD255RB)
+ - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
 
 ---
 
