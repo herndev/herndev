@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
- - ⏩ [Now Wendy&#39;s CEO has also joined the trend of billionaires pretending to be relatable to poor people](http://9gag.com/gag/ajPw488)
- - 👉 [American Dream.](http://9gag.com/gag/aZZ5YKX)<!-- MEMES:END -->
+ - 💣 [Those mfers](http://9gag.com/gag/aVv56qK)
+ - ⏩ [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - 👉 [Yes nutrition, my favorite](http://9gag.com/gag/amow4Y4)<!-- MEMES:END -->
 
 ---
 
