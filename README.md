@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Remember: Samsung Galaxy S26 devices come with a free gift card!](https://www.androidauthority.com/samsung-galaxy-s26-plus-ultra-deals-3646989/)
- - [Lawmakers just advanced online safety laws that require age verification at the app store](https://www.theverge.com/policy/890367/house-lawmakers-online-safety-bills-kids-act)
- - [The Pentagon formally labels Anthropic a supply-chain risk](https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk)<!-- TECH:END -->
+ - [Cluely&#39;s CEO, Roy Lee, says he lied about its $7M annual recurring revenue last year, calling it &quot;the only blatantly dishonest thing I&#39;ve said publicly online&quot; &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260305/p57#a260305p57)
+ - [Sources: the US is considering requiring countries whose companies buy large volumes of Nvidia and AMD AI chips to invest in US AI infrastructure &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/260305/p56#a260305p56)
+ - [Remember: Samsung Galaxy S26 devices come with a free gift card!](https://www.androidauthority.com/samsung-galaxy-s26-plus-ultra-deals-3646989/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
