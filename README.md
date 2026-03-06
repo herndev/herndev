@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [American Dream.](http://9gag.com/gag/aZZ5YKX)
- - ⏩ [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
- - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
+ - 💣 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
+ - ⏩ [He&#39;s just making it worse](http://9gag.com/gag/aVv56Qd)
+ - 👉 [Poor girl](http://9gag.com/gag/aBy5BKD)<!-- MEMES:END -->
 
 ---
 
