@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI chipmaker Cerebras could raise ~$2B in its IPO as soon as April; it withdrew its previous IPO registration in October, nearly a year after filing &lpar;Bloomberg&rpar;](http://www.techmeme.com/260306/p27#a260306p27)
- - [Google Pixel 10a deals: Get a free gift card or Pixel Buds 2a](https://www.androidauthority.com/google-pixel-10a-deals-3646988/)
- - [72 &#39;Buy It for Life&#39; Products: Cast-Iron, Tools, Speakers, Chairs, and More](https://www.wired.com/story/buy-it-for-life/)<!-- TECH:END -->
+ - [Sources: the US believes Chinese state-affiliated hackers breached an FBI computer network that holds information related to some domestic surveillance orders &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/260306/p29#a260306p29)
+ - [Act quickly! You have 6 hours to save $50 on the Bose QuietComfort Ultra 2nd Gen](https://www.androidauthority.com/bose-quietcomfort-ultra-2nd-gen-deal-3646287/)
+ - [Marley Spoon Meal Kit Review 2026: Less Martha, More Moroccan](https://www.wired.com/review/marley-spoon-meal-kit-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
