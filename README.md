@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo of America sues the US government, seeking a refund with interest for tariffs that the company says Trump implemented in &quot;unlawful&quot; EOs &lpar;Nicole Carpenter/Aftermath&rpar;](http://www.techmeme.com/260306/p20#a260306p20)
- - [Apple thinks it can lure in the &#39;Apple curious&#39; for $599](https://appleinsider.com/articles/26/03/06/apple-thinks-it-can-lure-in-the-apple-curious-for-599?utm_source=rss)
- - [An interview with Pentagon AI head Emil Michael about Anthropic leaking to the media to win anti-Trump users, dealing with Amodei and his &quot;politburo&quot;, and more &lpar;Pirate Wires&rpar;](http://www.techmeme.com/260306/p19#a260306p19)<!-- TECH:END -->
+ - [Grammarly is using our identities without permission](https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews)
+ - [Samsung is ‘very interested’ in letting you vibe code on Galaxy phones](https://www.androidauthority.com/samsung-galaxy-potential-vibe-coding-feature-3647358/)
+ - [President Trump signs an EO aimed at fighting cybercrime, directing officials to identify robust tools to combat transnational criminal organizations &lpar;Catherine Lucey/Bloomberg&rpar;](http://www.techmeme.com/260306/p24#a260306p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
