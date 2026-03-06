@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
- - ⏩ [American Dream.](http://9gag.com/gag/aZZ5YKX)
- - 👉 [Something about this doesn&#39;t seem right](http://9gag.com/gag/aD25ewK)<!-- MEMES:END -->
+ - 💣 [Goth donut](http://9gag.com/gag/aW4530x)
+ - ⏩ [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
+ - 👉 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)<!-- MEMES:END -->
 
 ---
 
