@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor girl](http://9gag.com/gag/aBy5BKD)
- - ⏩ [Diversity](http://9gag.com/gag/adBwDNM)
- - 👉 [Where they went](http://9gag.com/gag/aE055ro)<!-- MEMES:END -->
+ - 💣 [Marine Sgt. Brian McGuinness stood up in Congress to say `No one wants to fight for Israel`](http://9gag.com/gag/azxw3dB)
+ - ⏩ [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
 
 ---
 
