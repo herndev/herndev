@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
- - ⏩ [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
+ - ⏩ [Where they went](http://9gag.com/gag/aE055ro)
  - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
 
 ---
