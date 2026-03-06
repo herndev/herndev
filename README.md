@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can already save up to $50 on the new M4 iPad Air](https://www.theverge.com/gadgets/890389/apple-ipad-air-m4-xbox-wireless-controller-deal-sale)
- - [Motorola could make the next Razr stand out as the foldable that doesn’t skimp on RAM](https://www.androidauthority.com/motorola-razr-2026-specs-3647305/)
- - [Samsung teases what to expect from its upcoming smart glasses later this year](https://www.androidauthority.com/samsung-exec-offers-smart-glasses-details-3647219/)<!-- TECH:END -->
+ - [How prediction markets Kalshi and Polymarket are aggressively targeting college students through fraternity partnerships and student influencers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260306/p15#a260306p15)
+ - [9 Best Android Phones of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [Pentagon names ex-DOGE employee Gavin Kliger as Chief Data Officer to lead its AI efforts; Kliger previously reposted white supremacist Nick Fuentes&#39; content &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/260306/p14#a260306p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
