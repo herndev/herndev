@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cluely&#39;s CEO, Roy Lee, says he lied about its $7M annual recurring revenue last year, calling it &quot;the only blatantly dishonest thing I&#39;ve said publicly online&quot; &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260305/p57#a260305p57)
- - [Sources: the US is considering requiring countries whose companies buy large volumes of Nvidia and AMD AI chips to invest in US AI infrastructure &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/260305/p56#a260305p56)
- - [Remember: Samsung Galaxy S26 devices come with a free gift card!](https://www.androidauthority.com/samsung-galaxy-s26-plus-ultra-deals-3646989/)<!-- TECH:END -->
+ - [Amazon.com says things are fixed after some issues with logging in and checking out](https://www.theverge.com/tech/890215/amazon-is-down-login-prices)
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Dario Amodei says Anthropic has been &quot;having productive conversations&quot; with the DOD and apologizes for a leaked memo that criticized Trump and Sam Altman &lpar;Anthropic&rpar;](http://www.techmeme.com/260305/p59#a260305p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
