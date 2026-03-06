@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Neo, Studio Display XDR, iPhone 17e and more, on the AppleInsider Podcast](https://appleinsider.com/articles/26/03/06/macbook-neo-studio-display-xdr-iphone-17e-and-more-on-the-appleinsider-podcast?utm_source=rss)
- - [Samsung is giving you a very good reason to open the Galaxy Store every day](https://www.androidauthority.com/samsung-galaxy-store-rewards-program-3646929/)
- - [11 Best USB Flash Drives &lpar;2026&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)<!-- TECH:END -->
+ - [Hayden AI, which raised $180M for its traffic management system, sues its ex-CEO Chris Carson Jr. for allegedly using its data to start a competitor and more &lpar;William Hicks/San Francisco Business ...&rpar;](http://www.techmeme.com/260306/p10#a260306p10)
+ - [The Trump phone was a no-show at the world’s biggest mobile show](https://www.theverge.com/tech/889837/trump-phone-mobile-world-congress-mwc)
+ - [Trump&amp;#8217;s surgeon general nominee is running the wellness grifter playbook perfectly](https://www.theverge.com/column/889922/optimizer-casey-means-wellness-influencer-playbook)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
