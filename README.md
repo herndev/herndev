@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [American Dream.](http://9gag.com/gag/aZZ5YKX)
- - ⏩ [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
- - 👉 [Goth donut](http://9gag.com/gag/aW4530x)<!-- MEMES:END -->
+ - 💣 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
+ - ⏩ [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
 
 ---
 
