@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Those mfers](http://9gag.com/gag/aVv56qK)
- - ⏩ [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 👉 [Yes nutrition, my favorite](http://9gag.com/gag/amow4Y4)<!-- MEMES:END -->
+ - 💣 [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - ⏩ [Yes nutrition, my favorite](http://9gag.com/gag/amow4Y4)
+ - 👉 [Made me laugh](http://9gag.com/gag/aD25ejN)<!-- MEMES:END -->
 
 ---
 
