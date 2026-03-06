@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor girl](http://9gag.com/gag/aBy5BKD)
+ - 💣 [Trust china man, they do math](http://9gag.com/gag/aD25vg9)
  - ⏩ [American Dream.](http://9gag.com/gag/aZZ5YKX)
  - 👉 [Where they went](http://9gag.com/gag/aE055ro)<!-- MEMES:END -->
 
