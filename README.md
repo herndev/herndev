@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Marine Sgt. Brian McGuinness stood up in Congress to say `No one wants to fight for Israel`](http://9gag.com/gag/azxw3dB)
- - ⏩ [Poor girl](http://9gag.com/gag/aBy5BKD)
- - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
+ - 💣 [Hello can i go back to highschool](http://9gag.com/gag/adBwwOV)
+ - ⏩ [Now Wendy&#39;s CEO has also joined the trend of billionaires pretending to be relatable to poor people](http://9gag.com/gag/ajPw488)
+ - 👉 [American Dream.](http://9gag.com/gag/aZZ5YKX)<!-- MEMES:END -->
 
 ---
 
