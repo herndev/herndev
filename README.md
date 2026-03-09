@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My bookshelf didn&#39;t know It needed this until now](http://9gag.com/gag/aMV5pj6)
- - ⏩ [A friend in need is the one I knead](http://9gag.com/gag/aZZ59Bp)
- - 👉 [Just in case of emergency](http://9gag.com/gag/aO85gZ6)<!-- MEMES:END -->
+ - 💣 [Justice!](http://9gag.com/gag/aE05e0O)
+ - ⏩ [Welcome to the New UK.](http://9gag.com/gag/aXP1D66)
+ - 👉 [The ambush](http://9gag.com/gag/a0eq2WB)<!-- MEMES:END -->
 
 ---
 
