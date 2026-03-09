@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Justice!](http://9gag.com/gag/aE05e0O)
- - ⏩ [Welcome to the New UK.](http://9gag.com/gag/aXP1D66)
- - 👉 [The ambush](http://9gag.com/gag/a0eq2WB)<!-- MEMES:END -->
+ - 💣 [College level English. And I thought I was retarded in High School. God damn. If only I was born 10yrs later.](http://9gag.com/gag/aZZ5Gez)
+ - ⏩ [Living the dream until the airline said enough is enough](http://9gag.com/gag/abAwPYE)
+ - 👉 [Epstein files didn&#39;t kill themselves](http://9gag.com/gag/aBy5peN)<!-- MEMES:END -->
 
 ---
 
