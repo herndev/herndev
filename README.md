@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More than 30 staffers from OpenAI and Google, including DeepMind chief scientist Jeff Dean, file an amicus brief in support of Anthropic in its fight with DOD &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260309/p33#a260309p33)
- - [Anthropic Claims Pentagon Feud Could Cost It Billions](https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/)
- - [Our favorite headphones are back at their record-low price!](https://www.androidauthority.com/sony-wh-1000xm6-headphones-deal-6-3647732/)<!-- TECH:END -->
+ - [Studio Display XDR review roundup: Pro display hardware, with a few caveats](https://appleinsider.com/articles/26/03/09/studio-display-xdr-review-roundup-pro-display-hardware-with-a-few-caveats?utm_source=rss)
+ - [Apple’s Nest Hub rival may be delayed again as Siri overhaul drags on](https://www.androidauthority.com/apple-smart-home-display-delayed-siri-ai-3647805/)
+ - [Filing: Anthropic says it had $5B+ in all-time revenue since 2023 and could lose billions after clients paused deal talks due to supply-chain risk designation &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260309/p34#a260309p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
