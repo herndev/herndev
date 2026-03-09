@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&amp;#8217;s new M5 Max feels like a huge upgrade if you bought your laptop 3 years ago](https://www.theverge.com/gadgets/891508/apple-macbook-pro-air-2026-m5-max-benchmark-comparisons-m4-m3-m2-m1)
- - [Apple Studio Display XDR review: pro at a premium](https://www.theverge.com/tech/891436/apple-studio-display-xdr-review)
- - [macOS 26.4 beta 4 lets everyone use the colorful MacBook Neo wallpapers](https://appleinsider.com/articles/26/03/09/macos-264-beta-4-lets-everyone-use-the-colorful-macbook-neo-wallpapers?utm_source=rss)<!-- TECH:END -->
+ - [More than 30 staffers from OpenAI and Google, including DeepMind chief scientist Jeff Dean, file an amicus brief in support of Anthropic in its fight with DOD &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260309/p33#a260309p33)
+ - [Anthropic Claims Pentagon Feud Could Cost It Billions](https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/)
+ - [Our favorite headphones are back at their record-low price!](https://www.androidauthority.com/sony-wh-1000xm6-headphones-deal-6-3647732/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
