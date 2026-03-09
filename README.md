@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK&#39;s AI drive, touted since 2024 and featuring splashy NScale and CoreWeave deals, to build datacenters is riddled with phantom investments and shaky accounting &lpar;Aisha Down/The Guardian&rpar;](http://www.techmeme.com/260309/p25#a260309p25)
- - [T-Mobile makes big claims with T-Sat, but does it deliver?](https://www.androidauthority.com/t-sat-nad-final-3647663/)
- - [Pixel 11 Pro Fold renders suggest you shouldn’t get your hopes up for radical changes](https://www.androidauthority.com/pixel-11-pro-fold-cad-renders-3647624/)<!-- TECH:END -->
+ - [Jay Graber is stepping down as Bluesky CEO, saying a &quot;seasoned operator focused on scaling and execution&quot; is needed; VC Toni Schneider is named interim CEO &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/260309/p28#a260309p28)
+ - [Bluesky CEO Jay Graber Is Stepping Down](https://www.wired.com/story/bluesky-ceo-jay-graber-is-stepping-down/)
+ - [The gorgeous Marshall Major V headphones just hit a new record-low price!](https://www.androidauthority.com/marshall-major-v-headphones-deal-3647733/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
