@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s Advanced Protection Mode may soon disable a key Chrome feature to boost security](https://www.androidauthority.com/android-advanced-protection-mode-disable-chrome-webgpu-apk-teardown-3647502/)
- - [This highly anticipated flagship foldable is launching soon with a surprise stylus, watch companion](https://www.androidauthority.com/oppo-find-n6-launch-date-3647505/)
- - [Hatch’s Sale Has the Restore 3, Rest, and Rest+ All Discounted](https://www.wired.com/story/hatch-sleep-week-sale-2026/)<!-- TECH:END -->
+ - [I finally tried Nothing Headphones for the first time, and I don’t want to go back](https://www.androidauthority.com/nothing-headphone-a-believer-3647044/)
+ - [Google Translate is readying a welcome usability feature travelers will love](https://www.androidauthority.com/google-translate-pinned-languages-3647522/)
+ - [Best Sonos Speakers &lpar;2026&rpar;: Soundbars, Headphones, Dolby Atmos, and More](https://www.wired.com/gallery/best-sonos-speakers-buying-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
