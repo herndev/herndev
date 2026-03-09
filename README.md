@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aang: `Right, so where&#39;s this Florida? There it is! F**k you!`](http://9gag.com/gag/aVv5pe2)
- - ⏩ [American Dream.](http://9gag.com/gag/aZZ5YKX)
- - 👉 [I bet there are some nice Irish tetten in there... She might also have a point here.](http://9gag.com/gag/aD25eMG)<!-- MEMES:END -->
+ - 💣 [We finally found the strongest zombie](http://9gag.com/gag/aQz5wq8)
+ - ⏩ [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
+ - 👉 [Living the dream until the airline said enough is enough](http://9gag.com/gag/abAwPYE)<!-- MEMES:END -->
 
 ---
 
