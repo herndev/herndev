@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Living the dream until the airline said enough is enough](http://9gag.com/gag/abAwPYE)
- - ⏩ [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
- - 👉 [Title](http://9gag.com/gag/aYQ585m)<!-- MEMES:END -->
+ - 💣 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
+ - ⏩ [Justice!](http://9gag.com/gag/aE05e0O)
+ - 👉 [Welcome to the New UK.](http://9gag.com/gag/aXP1D66)<!-- MEMES:END -->
 
 ---
 
