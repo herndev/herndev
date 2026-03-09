@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The war in Iran is complicating plans by Gulf nations to spend $300B+ on AI investments, putting at risk a potential source of funding for tech companies &lpar;Miles Kruppa/The Information&rpar;](http://www.techmeme.com/260308/p14#a260308p14)
  - [How some candidates for the midterms are using social media posts and niche buzzwords on their websites to signal for support from crypto and AI super PACs &lpar;New York Times&rpar;](http://www.techmeme.com/260308/p13#a260308p13)
- - [Get Disney Plus, Hulu bundle for $4.99/mo for 3 months with March streaming deal](https://appleinsider.com/articles/26/03/09/get-disney-plus-hulu-bundle-for-499mo-for-3-months-with-march-streaming-deal?utm_source=rss)
- - [A study of ~1,500 US workers finds AI use can reduce burnout but also cause &quot;AI brain fry&quot;, a mental fatigue from using AI tools beyond one&#39;s cognitive capacity &lpar;Harvard Business Review&rpar;](http://www.techmeme.com/260308/p12#a260308p12)<!-- TECH:END -->
+ - [Get Disney Plus, Hulu bundle for $4.99/mo for 3 months with March streaming deal](https://appleinsider.com/articles/26/03/09/get-disney-plus-hulu-bundle-for-499mo-for-3-months-with-march-streaming-deal?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
