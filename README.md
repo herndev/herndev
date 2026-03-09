@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aYQ585m)
+ - 💣 [Memorials of Iryna Zarutska keep getting vandalised](http://9gag.com/gag/aD25Eyw)
  - ⏩ [College level English. And I thought I was retarded in High School. God damn. If only I was born 10yrs later.](http://9gag.com/gag/aZZ5Gez)
- - 👉 [Justice!](http://9gag.com/gag/aE05e0O)<!-- MEMES:END -->
+ - 👉 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
 
 ---
 
