@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm unveils the Arduino Ventuno Q, a single-board computer for AI and robotics applications, powered by Dragonwing IQ8 processor and 16GB of RAM &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/260309/p22#a260309p22)
- - [Live Nation settles government antitrust suit — that probably doesn’t include a breakup](https://www.theverge.com/policy/891379/live-nation-antitrust-settlement-ticketmaster)
- - [Android 17 Beta 2 shows Google borrowing security features from Chrome OS](https://www.androidauthority.com/android-17-beta-2-chrome-os-3647559/)<!-- TECH:END -->
+ - [iPhone 18e production is on time, leak predictably claims](https://appleinsider.com/articles/26/03/09/iphone-18e-production-is-on-time-leak-predictably-claims?utm_source=rss)
+ - [This is what case-makers think the iPhone Fold will look like](https://appleinsider.com/articles/26/03/09/possible-iphone-fold-cad-designs-leaked?utm_source=rss)
+ - [Apple&#39;s updated leadership page reveals renewed focus on design](https://appleinsider.com/articles/26/03/09/apples-updated-leadership-page-reveals-renewed-focus-on-design?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
