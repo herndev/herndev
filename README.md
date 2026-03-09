@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Memorials of Iryna Zarutska keep getting vandalised](http://9gag.com/gag/aD25Eyw)
- - ⏩ [College level English. And I thought I was retarded in High School. God damn. If only I was born 10yrs later.](http://9gag.com/gag/aZZ5Gez)
- - 👉 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
+ - 💣 [Just in case of emergency](http://9gag.com/gag/aO85gZ6)
+ - ⏩ [A friend in need is the one I knead](http://9gag.com/gag/aZZ59Bp)
+ - 👉 [Deadly Technique](http://9gag.com/gag/aVv5nG8)<!-- MEMES:END -->
 
 ---
 
