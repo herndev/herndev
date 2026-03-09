@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18e production is on time, leak predictably claims](https://appleinsider.com/articles/26/03/09/iphone-18e-production-is-on-time-leak-predictably-claims?utm_source=rss)
- - [This is what case-makers think the iPhone Fold will look like](https://appleinsider.com/articles/26/03/09/possible-iphone-fold-cad-designs-leaked?utm_source=rss)
- - [Apple&#39;s updated leadership page reveals renewed focus on design](https://appleinsider.com/articles/26/03/09/apples-updated-leadership-page-reveals-renewed-focus-on-design?utm_source=rss)<!-- TECH:END -->
+ - [UK&#39;s AI drive, touted since 2024 and featuring splashy NScale and CoreWeave deals, to build datacenters is riddled with phantom investments and shaky accounting &lpar;Aisha Down/The Guardian&rpar;](http://www.techmeme.com/260309/p25#a260309p25)
+ - [T-Mobile makes big claims with T-Sat, but does it deliver?](https://www.androidauthority.com/t-sat-nad-final-3647663/)
+ - [Pixel 11 Pro Fold renders suggest you shouldn’t get your hopes up for radical changes](https://www.androidauthority.com/pixel-11-pro-fold-cad-renders-3647624/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
