@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Studio Display XDR review roundup: Pro display hardware, with a few caveats](https://appleinsider.com/articles/26/03/09/studio-display-xdr-review-roundup-pro-display-hardware-with-a-few-caveats?utm_source=rss)
- - [Apple’s Nest Hub rival may be delayed again as Siri overhaul drags on](https://www.androidauthority.com/apple-smart-home-display-delayed-siri-ai-3647805/)
- - [Filing: Anthropic says it had $5B+ in all-time revenue since 2023 and could lose billions after clients paused deal talks due to supply-chain risk designation &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260309/p34#a260309p34)<!-- TECH:END -->
+ - [‘Flying Cars’ Will Take Off in American Skies This Summer](https://www.wired.com/story/flying-cars-will-take-off-in-american-skies-this-summer/)
+ - [Apple smart home display rumors now point to a fall launch with iOS 27](https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor)
+ - [HPE reports Q1 revenue up 18% YoY to $9.3B, vs. $9.37B est., Cloud and AI revenue down 2.7% YoY to $6.3B but reports an AI server backlog of $5B &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260309/p35#a260309p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
