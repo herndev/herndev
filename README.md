@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Justice!](http://9gag.com/gag/aE05e0O)
- - ⏩ [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
+ - 💣 [Living the dream until the airline said enough is enough](http://9gag.com/gag/abAwPYE)
+ - ⏩ [Title](http://9gag.com/gag/aYQ585m)
  - 👉 [The FAFO king 2015](http://9gag.com/gag/a5QYeoq)<!-- MEMES:END -->
 
 ---
