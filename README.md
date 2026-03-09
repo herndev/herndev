@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Living the dream until the airline said enough is enough](http://9gag.com/gag/abAwPYE)
- - ⏩ [Title](http://9gag.com/gag/aYQ585m)
- - 👉 [The FAFO king 2015](http://9gag.com/gag/a5QYeoq)<!-- MEMES:END -->
+ - 💣 [The perfect ergonomic shape for a pillow](http://9gag.com/gag/aYQ58X2)
+ - ⏩ [Justice!](http://9gag.com/gag/aE05e0O)
+ - 👉 [The ambush](http://9gag.com/gag/a0eq2WB)<!-- MEMES:END -->
 
 ---
 
