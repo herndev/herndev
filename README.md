@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [White House frames Iran war as a game of Call of Duty in social video](https://www.polygon.com/white-house-iran-war-call-of-duty-video/)
- - [Remedy Explains What Defines A Control Game As Its Sequels Veer Off In Wild Directions](https://kotaku.com/control-resonant-remedy-shooter-third-person-2000675970)
- - [Mobile Suit Gundam: Char’s Counterattack remains endlessly rewatchable](https://www.polygon.com/mobile-suit-gundam-chars-counterattack-1988-iconic-anime-film/)<!-- GAME:END -->
+ - [Valve facing second, class-action lawsuit over loot boxes](https://www.pcgamer.com/gaming-industry/valve-facing-second-class-action-lawsuit-over-loot-boxes/)
+ - [3 months after revealing his debut project at The Game Awards, Yakuza creator Toshihiro Nagoshi loses NetEase funding for his studio](https://www.pcgamer.com/gaming-industry/3-months-after-revealing-his-debut-project-at-the-game-awards-yakuza-creator-toshihiro-nagoshi-loses-netease-funding-for-his-studio/)
+ - [The Super Mario Galaxy Movie cast a surprising Yoshi: Donald Glover](https://www.polygon.com/super-mario-galaxy-movie-trailer-nintendo-direct-yoshi-actor/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
