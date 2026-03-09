@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Possible iPhone Fold CAD designs leaked](https://appleinsider.com/articles/26/03/09/possible-iphone-fold-cad-designs-leaked?utm_source=rss)
- - [A profile of Nscale founder Josh Payne, a former coal miner in Australia who moved to London and started the data center developer in 2024 amid the AI boom &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/260309/p6#a260309p6)
- - [Don’t Expect Big Surprises in the Government’s Alien Files](https://www.wired.com/story/dont-expect-big-surprises-in-the-governments-alien-files/)<!-- TECH:END -->
+ - [Android’s Advanced Protection Mode may soon disable a key Chrome feature to boost security](https://www.androidauthority.com/android-advanced-protection-mode-disable-chrome-webgpu-apk-teardown-3647502/)
+ - [This highly anticipated flagship foldable is launching soon with a surprise stylus, watch companion](https://www.androidauthority.com/oppo-find-n6-launch-date-3647505/)
+ - [Hatch’s Sale Has the Restore 3, Rest, and Rest+ All Discounted](https://www.wired.com/story/hatch-sleep-week-sale-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
