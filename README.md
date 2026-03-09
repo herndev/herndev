@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US believes Chinese state-affiliated hackers breached an FBI computer network that holds information related to some domestic surveillance orders &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/260306/p29#a260306p29)
- - [Act quickly! You have 6 hours to save $50 on the Bose QuietComfort Ultra 2nd Gen](https://www.androidauthority.com/bose-quietcomfort-ultra-2nd-gen-deal-3646287/)
- - [Marley Spoon Meal Kit Review 2026: Less Martha, More Moroccan](https://www.wired.com/review/marley-spoon-meal-kit-2026/)<!-- TECH:END -->
+ - [A study of ~1,500 US workers finds AI use can reduce burnout but also cause &quot;AI brain fry&quot;, a mental fatigue from using AI tools beyond one&#39;s cognitive capacity &lpar;Harvard Business Review&rpar;](http://www.techmeme.com/260308/p12#a260308p12)
+ - [Reboot: Downgrades, gaming, and opera house doodles](https://appleinsider.com/articles/26/03/08/reboot-downgrades-gaming-and-opera-house-doodles?utm_source=rss)
+ - [Party of One: Tim Cook doubts Apple&#39;s 50-year-old DNA can be replicated](https://appleinsider.com/articles/26/03/08/party-of-one-tim-cook-doubts-apples-50-year-old-dna-can-be-replicated?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
