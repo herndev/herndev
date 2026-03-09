@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPad Air review roundup: Faster as expected, but iterative](https://appleinsider.com/articles/26/03/09/apple-ipad-air-review-roundup-faster-as-expected-but-iterative?utm_source=rss)
- - [iPhone 17e review roundup: Cheap, cheerful, and fixes the iPhone 16e&#39;s mistakes](https://appleinsider.com/articles/26/03/09/iphone-17e-review-roundup-cheap-cheerful-and-fixes-the-iphone-16es-mistakes?utm_source=rss)
- - [Integrating pet products into the smart home with Jacob Zuppke on Smart Home Insider](https://appleinsider.com/articles/26/03/09/integrating-pet-products-into-the-smart-home-with-jacob-zuppke-on-smart-home-insider?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic sues to block the DOD from designating it a supply chain risk, says the designation is unlawful and violates its free speech and due process rights &lpar;Jack Queen/Reuters&rpar;](http://www.techmeme.com/260309/p19#a260309p19)
+ - [Nexperia&#39;s Chinese subsidiary says it has begun producing its own chips using 12-inch wafers, a further step toward independence from its Dutch parent &lpar;Reuters&rpar;](http://www.techmeme.com/260309/p18#a260309p18)
+ - [Pixel Watch missing some overnight data? Blame the March update](https://www.androidauthority.com/google-pixel-watch-spo2-skin-temperature-broken-3647573/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
