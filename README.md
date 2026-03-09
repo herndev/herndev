@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jay Graber is stepping down as Bluesky CEO, saying a &quot;seasoned operator focused on scaling and execution&quot; is needed; VC Toni Schneider is named interim CEO &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/260309/p28#a260309p28)
- - [Bluesky CEO Jay Graber Is Stepping Down](https://www.wired.com/story/bluesky-ceo-jay-graber-is-stepping-down/)
- - [The gorgeous Marshall Major V headphones just hit a new record-low price!](https://www.androidauthority.com/marshall-major-v-headphones-deal-3647733/)<!-- TECH:END -->
+ - [Apple&amp;#8217;s new M5 Max feels like a huge upgrade if you bought your laptop 3 years ago](https://www.theverge.com/gadgets/891508/apple-macbook-pro-air-2026-m5-max-benchmark-comparisons-m4-m3-m2-m1)
+ - [Apple Studio Display XDR review: pro at a premium](https://www.theverge.com/tech/891436/apple-studio-display-xdr-review)
+ - [macOS 26.4 beta 4 lets everyone use the colorful MacBook Neo wallpapers](https://appleinsider.com/articles/26/03/09/macos-264-beta-4-lets-everyone-use-the-colorful-macbook-neo-wallpapers?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
