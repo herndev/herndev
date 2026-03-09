@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s uuuuuuuuuuuup?!](http://9gag.com/gag/aO85gWM)
- - ⏩ [Mom](http://9gag.com/gag/aO85Xzv)
- - 👉 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
+ - 💣 [Does it even have any meaning?](http://9gag.com/gag/a34rVQ1)
+ - ⏩ [Title](http://9gag.com/gag/aYQ585m)
+ - 👉 [Mom](http://9gag.com/gag/aO85Xzv)<!-- MEMES:END -->
 
 ---
 
