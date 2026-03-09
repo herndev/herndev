@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Title](http://9gag.com/gag/aYQ585m)
- - ⏩ [Mom](http://9gag.com/gag/aO85Xzv)
- - 👉 [Living the dream until the airline said enough is enough](http://9gag.com/gag/abAwPYE)<!-- MEMES:END -->
+ - ⏩ [College level English. And I thought I was retarded in High School. God damn. If only I was born 10yrs later.](http://9gag.com/gag/aZZ5Gez)
+ - 👉 [Justice!](http://9gag.com/gag/aE05e0O)<!-- MEMES:END -->
 
 ---
 
