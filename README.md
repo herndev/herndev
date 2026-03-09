@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I finally tried Nothing Headphones for the first time, and I don’t want to go back](https://www.androidauthority.com/nothing-headphone-a-believer-3647044/)
- - [Google Translate is readying a welcome usability feature travelers will love](https://www.androidauthority.com/google-translate-pinned-languages-3647522/)
- - [Best Sonos Speakers &lpar;2026&rpar;: Soundbars, Headphones, Dolby Atmos, and More](https://www.wired.com/gallery/best-sonos-speakers-buying-guide/)<!-- TECH:END -->
+ - [iPad Air &lpar;M4&rpar; review: powerful M4 chip, good multitasking with iPadOS 26, and robust hardware, but its screen could be better, no Face ID, and can get pricey &lpar;Nathan Ingraham/Engadget&rpar;](http://www.techmeme.com/260309/p13#a260309p13)
+ - [iPhone 17e review: MagSafe, 256GB of base storage, and a capable camera system, but no always-on display, 60Hz refresh rate, and the iPhone 17 is just $200 more &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/260309/p12#a260309p12)
+ - [Samsung Galaxy A57 and A37 leak yet again, this time by a carrier](https://www.androidauthority.com/samsung-galaxy-a57-a37-carrier-leak-3647535/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
