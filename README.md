@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad Air &lpar;M4&rpar; review: powerful M4 chip, good multitasking with iPadOS 26, and robust hardware, but its screen could be better, no Face ID, and can get pricey &lpar;Nathan Ingraham/Engadget&rpar;](http://www.techmeme.com/260309/p13#a260309p13)
- - [iPhone 17e review: MagSafe, 256GB of base storage, and a capable camera system, but no always-on display, 60Hz refresh rate, and the iPhone 17 is just $200 more &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/260309/p12#a260309p12)
- - [Samsung Galaxy A57 and A37 leak yet again, this time by a carrier](https://www.androidauthority.com/samsung-galaxy-a57-a37-carrier-leak-3647535/)<!-- TECH:END -->
+ - [Apple iPad Air review roundup: Faster as expected, but iterative](https://appleinsider.com/articles/26/03/09/apple-ipad-air-review-roundup-faster-as-expected-but-iterative?utm_source=rss)
+ - [iPhone 17e review roundup: Cheap, cheerful, and fixes the iPhone 16e&#39;s mistakes](https://appleinsider.com/articles/26/03/09/iphone-17e-review-roundup-cheap-cheerful-and-fixes-the-iphone-16es-mistakes?utm_source=rss)
+ - [Integrating pet products into the smart home with Jacob Zuppke on Smart Home Insider](https://appleinsider.com/articles/26/03/09/integrating-pet-products-into-the-smart-home-with-jacob-zuppke-on-smart-home-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
