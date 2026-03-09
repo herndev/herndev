@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s our first look at OnePlus’ next compact phone, and it’s not what leaks suggested](https://www.androidauthority.com/oneplus-15t-design-revealed-3647487/)
- - [Google Messages beta rolls out the one feature Smart Reply users have been waiting for](https://www.androidauthority.com/google-messages-smart-replies-tap-to-send-draft-3647490/)
- - [UK data center developer Nscale raised a $2B Series C led by Aker and 8090 Industries at a $14.6B valuation and adds Sheryl Sandberg and Nick Clegg to its board &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260309/p4#a260309p4)<!-- TECH:END -->
+ - [Possible iPhone Fold CAD designs leaked](https://appleinsider.com/articles/26/03/09/possible-iphone-fold-cad-designs-leaked?utm_source=rss)
+ - [A profile of Nscale founder Josh Payne, a former coal miner in Australia who moved to London and started the data center developer in 2024 amid the AI boom &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/260309/p6#a260309p6)
+ - [Don’t Expect Big Surprises in the Government’s Alien Files](https://www.wired.com/story/dont-expect-big-surprises-in-the-governments-alien-files/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
