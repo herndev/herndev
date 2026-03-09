@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the OpenClaw craze in China: AI labs launch tools to help users set up OpenClaw, a Shenzhen district drafts policies to support AI agents, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/260309/p2#a260309p2)
- - [Advice to developers: make software that agents want, with API-first design, as AI agents, instead of humans, will become the primary users of future software &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/260309/p1#a260309p1)
- - [Kalshi is trying to broaden its user base via targeted marketing, enlisting female influencers, and more; 26% of users now are women, up from 13% in May 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260308/p15#a260308p15)<!-- TECH:END -->
+ - [Here’s our first look at OnePlus’ next compact phone, and it’s not what leaks suggested](https://www.androidauthority.com/oneplus-15t-design-revealed-3647487/)
+ - [Google Messages beta rolls out the one feature Smart Reply users have been waiting for](https://www.androidauthority.com/google-messages-smart-replies-tap-to-send-draft-3647490/)
+ - [UK data center developer Nscale raised a $2B Series C led by Aker and 8090 Industries at a $14.6B valuation and adds Sheryl Sandberg and Nick Clegg to its board &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260309/p4#a260309p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
