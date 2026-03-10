@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Human Logic](http://9gag.com/gag/azx3bxj)
- - ⏩ [That was dirty...](http://9gag.com/gag/aO85gXv)
- - 👉 [Therapy in 60 seconds](http://9gag.com/gag/aAy5nLo)<!-- MEMES:END -->
+ - ⏩ [Therapy in 60 seconds](http://9gag.com/gag/aAy5nLo)
+ - 👉 [I would buy 10k Bitcoins](http://9gag.com/gag/aXPObGb)<!-- MEMES:END -->
 
 ---
 
