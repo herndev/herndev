@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice children&#39;s book](http://9gag.com/gag/aLnEK6g)
- - ⏩ [Old man making vlog about his hobby](http://9gag.com/gag/a9yGbro)
- - 👉 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)<!-- MEMES:END -->
+ - 💣 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
+ - ⏩ [Have an update.](http://9gag.com/gag/aO856XR)
+ - 👉 [Liberalism defined](http://9gag.com/gag/a9yGdRD)<!-- MEMES:END -->
 
 ---
 
