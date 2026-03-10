@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokopia Pokédex review: a classic, reimagined](https://www.theverge.com/games/892066/pokopia-pokedex-review)
- - [Anker’s Discounted Power Station Can Power Your Next Camping Trip](https://www.wired.com/story/anker-solix-c1000-spring-deal/)
- - [Sources: Nielsen&#39;s Gracenote sues OpenAI for copyright infringement, saying OpenAI copied Gracenote&#39;s data and relational framework used to connect metadata &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260310/p40#a260310p40)<!-- TECH:END -->
+ - [MoffettNathanson: YouTube became the world&#39;s largest media company in 2025 with an estimated $62B in revenue, passing $60.9B earned by Disney&#39;s media business &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260310/p42#a260310p42)
+ - [Apple Home Hub rumored to offer watchOS-style UI and MagSafe](https://appleinsider.com/articles/26/03/10/apple-home-hub-rumored-to-offer-watchos-style-ui-and-magsafe?utm_source=rss)
+ - [The Motorola Razr 2026 just showed up in light purple](https://www.androidauthority.com/motorola-razr-2026-design-leak-3648130/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
