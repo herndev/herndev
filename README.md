@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
- - ⏩ [That was dirty...](http://9gag.com/gag/aO85gXv)
- - 👉 [The FAFO king 2015](http://9gag.com/gag/a5QYeoq)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aYQ585m)
+ - ⏩ [Unmasked: Cycling club president who knocked girl, 5, to the ground - as he breaks silence to blame HER for not moving out of his way and moan that her father made him &#39;look very bad&#39; by posting video online](http://9gag.com/gag/a5QYe2o)
+ - 👉 [Have an update.](http://9gag.com/gag/aO856XR)<!-- MEMES:END -->
 
 ---
 
