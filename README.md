@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini for Wear OS is getting a major weather card makeover](https://www.androidauthority.com/gemini-wear-os-weather-card-ui-apk-teardown-3647866/)
- - [A look at the top 100 GenAI consumer apps: ChatGPT leads but the race for the &quot;default AI&quot; is on, global usage is splintering by product, and AI agents arrive &lpar;Olivia Moore/Andreessen Horowitz&rpar;](http://www.techmeme.com/260310/p6#a260310p6)
- - [Meta’s deepfake moderation isn’t good enough, says Oversight Board](https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram)<!-- TECH:END -->
+ - [AT&amp;T says it plans to spend $250B+ over the next five years to build out its US infrastructure, including high-speed fiber; AT&amp;T spent $21B on capex in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p10#a260310p10)
+ - [How Can a Locomotive Pull a Long Train That’s Much Heavier?](https://www.wired.com/story/how-can-a-locomotive-pull-a-train-thats-much-heavier/)
+ - [AI cybersecurity startup Armadin, started by Mandiant founder Kevin Mandia to build AI agents, raised ~$190M led by Accel; Google bought Mandiant for $5.4B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260310/p9#a260310p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
