@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Might need a hazmat suit](http://9gag.com/gag/avyjpqb)
- - ⏩ [Human Logic](http://9gag.com/gag/azx3bxj)
- - 👉 [I would buy 10k Bitcoins](http://9gag.com/gag/aXPObGb)<!-- MEMES:END -->
+ - 💣 [Nice children&#39;s book](http://9gag.com/gag/aLnEK6g)
+ - ⏩ [Old man making vlog about his hobby](http://9gag.com/gag/a9yGbro)
+ - 👉 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)<!-- MEMES:END -->
 
 ---
 
