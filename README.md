@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260310/p50#a260310p50)
- - [A live-action Samurai Champloo is in the works](https://www.theverge.com/entertainment/892675/a-live-action-samurai-champloo-is-in-the-works)
- - [Leaked memo: a top Senate administrator gave aides the green light to use ChatGPT, Gemini, and Copilot for official Senate work, including preparing briefings &lpar;Catie Edmondson/New York Times&rpar;](http://www.techmeme.com/260310/p49#a260310p49)<!-- TECH:END -->
+ - [Mississippi regulators authorize xAI to build a power plant with 41 natural gas-burning turbines in Southaven to power its data centers &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260310/p53#a260310p53)
+ - [&#39;X-Plane 12&#39; flight simulator to take advantage of Nvidia CloudXR 6 in visionOS 26.4](https://appleinsider.com/articles/26/03/10/x-plane-12-flight-simulator-to-take-advantage-of-nvidia-cloudxr-6-in-visionos-264?utm_source=rss)
+ - [A now-resolved Apple server outage stopped developers from verifying apps](https://appleinsider.com/articles/26/03/10/a-now-resolved-apple-server-outage-stopped-developers-from-verifying-apps?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
