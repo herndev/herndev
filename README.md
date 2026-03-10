@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No banking apps on your custom ROM? This new initiative could help.](https://www.androidauthority.com/custom-roms-unifiedattestation-play-integrity-3647852/)
- - [Vivo’s new Android phone shows what Google and Samsung get wrong with their cameras](https://www.androidauthority.com/vivo-x300-ultra-camera-35mm-jealous-3647403/)
- - [You Could Be Next](https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor)<!-- TECH:END -->
+ - [Gemini for Wear OS is getting a major weather card makeover](https://www.androidauthority.com/gemini-wear-os-weather-card-ui-apk-teardown-3647866/)
+ - [A look at the top 100 GenAI consumer apps: ChatGPT leads but the race for the &quot;default AI&quot; is on, global usage is splintering by product, and AI agents arrive &lpar;Olivia Moore/Andreessen Horowitz&rpar;](http://www.techmeme.com/260310/p6#a260310p6)
+ - [Meta’s deepfake moderation isn’t good enough, says Oversight Board](https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
