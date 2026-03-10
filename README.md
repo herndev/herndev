@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Flying Cars’ Will Take Off in American Skies This Summer](https://www.wired.com/story/flying-cars-will-take-off-in-american-skies-this-summer/)
- - [Apple smart home display rumors now point to a fall launch with iOS 27](https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor)
- - [HPE reports Q1 revenue up 18% YoY to $9.3B, vs. $9.37B est., Cloud and AI revenue down 2.7% YoY to $6.3B but reports an AI server backlog of $5B &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260309/p35#a260309p35)<!-- TECH:END -->
+ - [Huion Kamvas 22 &lpar;Gen 3&rpar; drawing tablet review: An excellent entry-level option](https://appleinsider.com/articles/26/03/10/huion-kamvas-22-gen-3-drawing-tablet-review-an-excellent-entry-level-option?utm_source=rss)
+ - [Sources: the White House is preparing an executive order formally instructing federal agencies to stop using Anthropic&#39;s AI tools &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260309/p39#a260309p39)
+ - [Sources: PE firm EQT is exploring a sale of Linux distribution vendor SUSE in a deal that could value it at up to $6B; SUSE was valued at ~$2.96B in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/260309/p38#a260309p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
