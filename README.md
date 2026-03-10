@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MoffettNathanson: YouTube became the world&#39;s largest media company in 2025 with an estimated $62B in revenue, passing $60.9B earned by Disney&#39;s media business &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260310/p42#a260310p42)
- - [Apple Home Hub rumored to offer watchOS-style UI and MagSafe](https://appleinsider.com/articles/26/03/10/apple-home-hub-rumored-to-offer-watchos-style-ui-and-magsafe?utm_source=rss)
- - [The Motorola Razr 2026 just showed up in light purple](https://www.androidauthority.com/motorola-razr-2026-design-leak-3648130/)<!-- TECH:END -->
+ - [Amazon expands its healthcare AI assistant Health AI to its website and app; it was previously only available on the app for One Medical &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260310/p46#a260310p46)
+ - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
+ - [Sources: General Catalyst is in talks with investors to raise about $10B; it raised $8B in capital in 2024 and had more than $40B in AUM as of last summer &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260310/p45#a260310p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
