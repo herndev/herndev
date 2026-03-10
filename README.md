@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aYQ585m)
- - ⏩ [Unmasked: Cycling club president who knocked girl, 5, to the ground - as he breaks silence to blame HER for not moving out of his way and moan that her father made him &#39;look very bad&#39; by posting video online](http://9gag.com/gag/a5QYe2o)
- - 👉 [Have an update.](http://9gag.com/gag/aO856XR)<!-- MEMES:END -->
+ - 💣 [HABEMUS JEFFREY](http://9gag.com/gag/aRBpQ7j)
+ - ⏩ [Hitman easter egg](http://9gag.com/gag/a9yGbyZ)
+ - 👉 [That was dirty...](http://9gag.com/gag/aO85gXv)<!-- MEMES:END -->
 
 ---
 
