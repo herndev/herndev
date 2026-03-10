@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iRobot’s Roomba Mini can clean where its larger robovacs can’t reach](https://www.theverge.com/tech/891985/irobot-roomba-mini-robot-robovac-vacuum-price-availability)
- - [Google rolls out Gemini-powered AI capabilities across Docs, Sheets, Slides, and Drive, including a &quot;Help me create&quot; tool in Docs to generate first drafts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260310/p22#a260310p22)
- - [Swedish legal AI startup Legora raised a $550M Series D led by Accel, tripling its valuation to $5.55B since its October 2025 raise, as it expands in the US &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260310/p21#a260310p21)<!-- TECH:END -->
+ - [YouTube expands its likeness detection tool to a select group of government officials, political candidates, and journalists to fight AI impersonation &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/260310/p27#a260310p27)
+ - [V-bucks are getting more X-pensive](https://www.theverge.com/games/892074/fortnite-v-bucks-price-increase-march-2026)
+ - [The twist in the Ticketmaster antitrust fight](https://www.theverge.com/podcast/892021/ticketmaster-antitrust-anthropic-pentagon-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
