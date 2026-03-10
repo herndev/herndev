@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How AI may disrupt venture capital, from making it easier and cheaper to start software companies, to agentic investors analyzing startup pitch decks and teams &lpar;Arielle Pardes/Wired&rpar;](http://www.techmeme.com/260310/p2#a260310p2)
  - [Yann LeCun&#39;s Advanced Machine Intelligence Labs raised a $1.03B seed at a $3.5B pre-money valuation to work on world models, in Europe&#39;s largest ever seed round &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/260310/p1#a260310p1)
- - [Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
- - [Sources: Apple made ~55M iPhones in India in 2025, up 53% YoY from 36M in 2024, ~25% of total iPhone production as it shifts away from China to avoid tariffs &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/260309/p44#a260309p44)<!-- TECH:END -->
+ - [Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
