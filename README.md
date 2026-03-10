@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huion Kamvas 22 &lpar;Gen 3&rpar; drawing tablet review: An excellent entry-level option](https://appleinsider.com/articles/26/03/10/huion-kamvas-22-gen-3-drawing-tablet-review-an-excellent-entry-level-option?utm_source=rss)
- - [Sources: the White House is preparing an executive order formally instructing federal agencies to stop using Anthropic&#39;s AI tools &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260309/p39#a260309p39)
- - [Sources: PE firm EQT is exploring a sale of Linux distribution vendor SUSE in a deal that could value it at up to $6B; SUSE was valued at ~$2.96B in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/260309/p38#a260309p38)<!-- TECH:END -->
+ - [Dify, which offers an open-source platform to build and run AI applications and agentic workflows, raised a $30M pre-Series A led by HSG at a $180M valuation &lpar;FinSMEs&rpar;](http://www.techmeme.com/260309/p41#a260309p41)
+ - [xAI aims to build a natural gas power plant in Southaven, MS, to run its data centers; a key meeting with regulators is set on an election day ~200 miles away &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260309/p40#a260309p40)
+ - [Huion Kamvas 22 &lpar;Gen 3&rpar; drawing tablet review: An excellent entry-level option](https://appleinsider.com/articles/26/03/10/huion-kamvas-22-gen-3-drawing-tablet-review-an-excellent-entry-level-option?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
