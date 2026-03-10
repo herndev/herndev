@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How &quot;dark factories&quot;, powered by AI and robotics and requiring essentially no workers, are set to upend China&#39;s labor market, already stressed by tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p3#a260310p3)
  - [Gemini Live could become even more impressive thanks to Personal Intelligence](https://www.androidauthority.com/personal-intelligence-gemini-live-apk-teardown-3647843/)
- - [How AI may disrupt venture capital, from making it easier and cheaper to start software companies, to agentic investors analyzing startup pitch decks and teams &lpar;Arielle Pardes/Wired&rpar;](http://www.techmeme.com/260310/p2#a260310p2)
- - [Yann LeCun&#39;s Advanced Machine Intelligence Labs raised a $1.03B seed at a $3.5B pre-money valuation to work on world models, in Europe&#39;s largest ever seed round &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/260310/p1#a260310p1)<!-- TECH:END -->
+ - [How AI may disrupt venture capital, from making it easier and cheaper to start software companies, to agentic investors analyzing startup pitch decks and teams &lpar;Arielle Pardes/Wired&rpar;](http://www.techmeme.com/260310/p2#a260310p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
