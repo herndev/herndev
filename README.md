@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google found a way to make the Pixel 80% charging limit even more annoying](https://www.androidauthority.com/google-pixel-charging-optimization-77-percent-3648012/)
- - [An interview with CEO Tom Conrad about Sonos&#39; new speakers, its first consumer product release since 2024, scrapping set-top box plans, app fiasco, and more &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260310/p30#a260310p30)
- - [‘Age Verification’ could force trans people to out themselves to use the internet](https://www.theverge.com/policy/892075/age-verification-kansas-id-trans)<!-- TECH:END -->
+ - [Epic says V-bucks will get more expensive starting March 19, with players getting 800 V-bucks for $8.99, down from 1,000 now, citing Fortnite running costs &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260310/p34#a260310p34)
+ - [Satechi’s new folding dock adds USB, audio, and video ports to the iPad](https://www.theverge.com/tech/890592/satechi-onthego-foldable-stand-hub-dock-ipad-tablet)
+ - [Grammarly will keep using authors’ identities without permission unless they opt out](https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
