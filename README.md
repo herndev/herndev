@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
- - ⏩ [It&#39;s not her fault](http://9gag.com/gag/aGyQYMz)
- - 👉 [Going the extra mile](http://9gag.com/gag/aryLpA7)<!-- MEMES:END -->
+ - 💣 [Therapy in 60 seconds](http://9gag.com/gag/aAy5nLo)
+ - ⏩ [Might need a hazmat suit](http://9gag.com/gag/avyjpqb)
+ - 👉 [Human Logic](http://9gag.com/gag/azx3bxj)<!-- MEMES:END -->
 
 ---
 
