@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t double tap](http://9gag.com/gag/azx3g4b)
- - ⏩ [Justice!](http://9gag.com/gag/aE05e0O)
+ - 💣 [Justice!](http://9gag.com/gag/aE05e0O)
+ - ⏩ [That was dirty...](http://9gag.com/gag/aO85gXv)
  - 👉 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)<!-- MEMES:END -->
 
 ---
