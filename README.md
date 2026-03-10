@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sandbar, which is developing the Stream Ring, a $249+ AI-powered wearable that transcribes audio notes, raised a $23M Series A, bringing total funding to $36M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260310/p39#a260310p39)
- - [Our Favorite Earbuds for Samsung Owners Are on Sale](https://www.wired.com/story/samsung-galaxy-buds-fe-deal-326/)
- - [This $11K 2019 Intel Mac Pro beats M3 Max MacBook Pro in one specific workflow](https://appleinsider.com/articles/26/03/10/this-11k-2019-intel-mac-pro-beats-m3-max-macbook-pro-in-one-specific-workflow?utm_source=rss)<!-- TECH:END -->
+ - [Pokopia Pokédex review: a classic, reimagined](https://www.theverge.com/games/892066/pokopia-pokedex-review)
+ - [Anker’s Discounted Power Station Can Power Your Next Camping Trip](https://www.wired.com/story/anker-solix-c1000-spring-deal/)
+ - [Sources: Nielsen&#39;s Gracenote sues OpenAI for copyright infringement, saying OpenAI copied Gracenote&#39;s data and relational framework used to connect metadata &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260310/p40#a260310p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
