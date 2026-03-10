@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Justice!](http://9gag.com/gag/aE05e0O)
- - ⏩ [Going the extra mile](http://9gag.com/gag/aryLpA7)
- - 👉 [Have an update.](http://9gag.com/gag/aO856XR)<!-- MEMES:END -->
+ - 💣 [I was there Gandalf](http://9gag.com/gag/aW4XZ4n)
+ - ⏩ [I pray that you\u2019ll find love one day, it happened to me, it can happen to you](http://9gag.com/gag/aKGMzvj)
+ - 👉 [Human Logic](http://9gag.com/gag/azx3bxj)<!-- MEMES:END -->
 
 ---
 
