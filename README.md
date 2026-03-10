@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon expands its healthcare AI assistant Health AI to its website and app; it was previously only available on the app for One Medical &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260310/p46#a260310p46)
- - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
- - [Sources: General Catalyst is in talks with investors to raise about $10B; it raised $8B in capital in 2024 and had more than $40B in AUM as of last summer &lpar;Natasha Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/260310/p45#a260310p45)<!-- TECH:END -->
+ - [Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260310/p50#a260310p50)
+ - [A live-action Samurai Champloo is in the works](https://www.theverge.com/entertainment/892675/a-live-action-samurai-champloo-is-in-the-works)
+ - [Leaked memo: a top Senate administrator gave aides the green light to use ChatGPT, Gemini, and Copilot for official Senate work, including preparing briefings &lpar;Catie Edmondson/New York Times&rpar;](http://www.techmeme.com/260310/p49#a260310p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
