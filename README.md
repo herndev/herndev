@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic says V-bucks will get more expensive starting March 19, with players getting 800 V-bucks for $8.99, down from 1,000 now, citing Fortnite running costs &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260310/p34#a260310p34)
- - [Satechi’s new folding dock adds USB, audio, and video ports to the iPad](https://www.theverge.com/tech/890592/satechi-onthego-foldable-stand-hub-dock-ipad-tablet)
- - [Grammarly will keep using authors’ identities without permission unless they opt out](https://www.theverge.com/tech/891822/grammarly-superhuman-expert-review-names-without-permission-opt-out-email)<!-- TECH:END -->
+ - [The Senate confirms Army Lt. Gen. Joshua Rudd to lead the NSA and US Cyber Command, filling a vacancy created when Gen. Timothy Haugh was fired in April 2025 &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/260310/p37#a260310p37)
+ - [Gemini wants to help create and edit your drafts with some big Workspace upgrades](https://www.androidauthority.com/gemini-workspace-upgrades-3647991/)
+ - [Another major smartphone maker has announced AI-induced price hikes](https://www.androidauthority.com/oppo-oneplus-ai-price-increases-3648067/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
