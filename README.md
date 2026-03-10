@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube expands its likeness detection tool to a select group of government officials, political candidates, and journalists to fight AI impersonation &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/260310/p27#a260310p27)
- - [V-bucks are getting more X-pensive](https://www.theverge.com/games/892074/fortnite-v-bucks-price-increase-march-2026)
- - [The twist in the Ticketmaster antitrust fight](https://www.theverge.com/podcast/892021/ticketmaster-antitrust-anthropic-pentagon-vergecast)<!-- TECH:END -->
+ - [Google found a way to make the Pixel 80% charging limit even more annoying](https://www.androidauthority.com/google-pixel-charging-optimization-77-percent-3648012/)
+ - [An interview with CEO Tom Conrad about Sonos&#39; new speakers, its first consumer product release since 2024, scrapping set-top box plans, app fiasco, and more &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260310/p30#a260310p30)
+ - [‘Age Verification’ could force trans people to out themselves to use the internet](https://www.theverge.com/policy/892075/age-verification-kansas-id-trans)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
