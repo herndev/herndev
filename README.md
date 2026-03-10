@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve facing second, class-action lawsuit over loot boxes](https://www.pcgamer.com/gaming-industry/valve-facing-second-class-action-lawsuit-over-loot-boxes/)
- - [3 months after revealing his debut project at The Game Awards, Yakuza creator Toshihiro Nagoshi loses NetEase funding for his studio](https://www.pcgamer.com/gaming-industry/3-months-after-revealing-his-debut-project-at-the-game-awards-yakuza-creator-toshihiro-nagoshi-loses-netease-funding-for-his-studio/)
- - [The Super Mario Galaxy Movie cast a surprising Yoshi: Donald Glover](https://www.polygon.com/super-mario-galaxy-movie-trailer-nintendo-direct-yoshi-actor/)<!-- GAME:END -->
+ - [At Fate’s End: Hands-On with Thunder Lotus’ Gorgeous New Action-Adventure](https://news.xbox.com/en-us/2026/03/10/at-fates-end-gdc-preview-xbox/)
+ - [Pokémon Pokopia interactive maps](https://www.polygon.com/map/pokemon-pokopia-interactive-maps-withered-wasteland-bleak-beach-rocky-ridges-sparkling-skylands/)
+ - [After beating Slay the Spire 2 with an 8 year old deck, I&#39;m starting to feel like this is more of a remake than a sequel](https://www.pcgamer.com/games/roguelike/after-beating-slay-the-spire-2-with-an-8-year-old-deck-im-starting-to-feel-like-this-is-more-of-a-remake-than-a-sequel/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
