@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was there Gandalf](http://9gag.com/gag/aW4XZ4n)
- - ⏩ [I pray that you\u2019ll find love one day, it happened to me, it can happen to you](http://9gag.com/gag/aKGMzvj)
- - 👉 [Human Logic](http://9gag.com/gag/azx3bxj)<!-- MEMES:END -->
+ - 💣 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
+ - ⏩ [It&#39;s not her fault](http://9gag.com/gag/aGyQYMz)
+ - 👉 [Going the extra mile](http://9gag.com/gag/aryLpA7)<!-- MEMES:END -->
 
 ---
 
