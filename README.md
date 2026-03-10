@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Therapy in 60 seconds](http://9gag.com/gag/aAy5nLo)
- - ⏩ [Might need a hazmat suit](http://9gag.com/gag/avyjpqb)
- - 👉 [Human Logic](http://9gag.com/gag/azx3bxj)<!-- MEMES:END -->
+ - 💣 [Might need a hazmat suit](http://9gag.com/gag/avyjpqb)
+ - ⏩ [Human Logic](http://9gag.com/gag/azx3bxj)
+ - 👉 [I would buy 10k Bitcoins](http://9gag.com/gag/aXPObGb)<!-- MEMES:END -->
 
 ---
 
