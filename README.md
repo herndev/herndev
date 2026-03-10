@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta emails advertisers about &quot;location fees&quot; in select European countries to cover digital services taxes, starting July 1; Google and Amazon have similar fees &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/260310/p14#a260310p14)
- - [Kazuo Ishiguro, Philippa Gregory, Richard Osman, and ~10,000 writers publish Don&#39;t Steal This Book, an &quot;empty&quot; book to protest AI companies using their work &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/260310/p13#a260310p13)
- - [F1: The Stream - how the launch leveraged Apple&#39;s entire ecosystem](https://appleinsider.com/articles/26/03/10/f1-the-stream---how-the-launch-leveraged-apples-entire-ecosystem?utm_source=rss)<!-- TECH:END -->
+ - [iRobot’s Roomba Mini can clean where its larger robovacs can’t reach](https://www.theverge.com/tech/891985/irobot-roomba-mini-robot-robovac-vacuum-price-availability)
+ - [Google rolls out Gemini-powered AI capabilities across Docs, Sheets, Slides, and Drive, including a &quot;Help me create&quot; tool in Docs to generate first drafts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260310/p22#a260310p22)
+ - [Swedish legal AI startup Legora raised a $550M Series D led by Accel, tripling its valuation to $5.55B since its October 2025 raise, as it expands in the US &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260310/p21#a260310p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
