@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T says it plans to spend $250B+ over the next five years to build out its US infrastructure, including high-speed fiber; AT&amp;T spent $21B on capex in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p10#a260310p10)
- - [How Can a Locomotive Pull a Long Train That’s Much Heavier?](https://www.wired.com/story/how-can-a-locomotive-pull-a-train-thats-much-heavier/)
- - [AI cybersecurity startup Armadin, started by Mandiant founder Kevin Mandia to build AI agents, raised ~$190M led by Accel; Google bought Mandiant for $5.4B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/260310/p9#a260310p9)<!-- TECH:END -->
+ - [Meta emails advertisers about &quot;location fees&quot; in select European countries to cover digital services taxes, starting July 1; Google and Amazon have similar fees &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/260310/p14#a260310p14)
+ - [Kazuo Ishiguro, Philippa Gregory, Richard Osman, and ~10,000 writers publish Don&#39;t Steal This Book, an &quot;empty&quot; book to protest AI companies using their work &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/260310/p13#a260310p13)
+ - [F1: The Stream - how the launch leveraged Apple&#39;s entire ecosystem](https://appleinsider.com/articles/26/03/10/f1-the-stream---how-the-launch-leveraged-apples-entire-ecosystem?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
