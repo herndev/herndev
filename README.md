@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have an update.](http://9gag.com/gag/aO856XR)
- - ⏩ [Welcome to the New UK.](http://9gag.com/gag/aXP1D66)
- - 👉 [Don&#39;t double tap](http://9gag.com/gag/azx3g4b)<!-- MEMES:END -->
+ - 💣 [Human Logic](http://9gag.com/gag/azx3bxj)
+ - ⏩ [That was dirty...](http://9gag.com/gag/aO85gXv)
+ - 👉 [Therapy in 60 seconds](http://9gag.com/gag/aAy5nLo)<!-- MEMES:END -->
 
 ---
 
