@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How &quot;dark factories&quot;, powered by AI and robotics and requiring essentially no workers, are set to upend China&#39;s labor market, already stressed by tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p3#a260310p3)
- - [Gemini Live could become even more impressive thanks to Personal Intelligence](https://www.androidauthority.com/personal-intelligence-gemini-live-apk-teardown-3647843/)
- - [How AI may disrupt venture capital, from making it easier and cheaper to start software companies, to agentic investors analyzing startup pitch decks and teams &lpar;Arielle Pardes/Wired&rpar;](http://www.techmeme.com/260310/p2#a260310p2)<!-- TECH:END -->
+ - [No banking apps on your custom ROM? This new initiative could help.](https://www.androidauthority.com/custom-roms-unifiedattestation-play-integrity-3647852/)
+ - [Vivo’s new Android phone shows what Google and Samsung get wrong with their cameras](https://www.androidauthority.com/vivo-x300-ultra-camera-35mm-jealous-3647403/)
+ - [You Could Be Next](https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
