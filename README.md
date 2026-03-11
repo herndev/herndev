@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meme origins](http://9gag.com/gag/agmevjx)
- - ⏩ [Breaking Bad in Germany would be a very short series](http://9gag.com/gag/agmevoq)
- - 👉 [This is our climate](http://9gag.com/gag/aAy9ryE)<!-- MEMES:END -->
+ - 💣 [When you listen to mainstream media panic and bet your life savings](http://9gag.com/gag/aW4XZP6)
+ - ⏩ [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 👉 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)<!-- MEMES:END -->
 
 ---
 
