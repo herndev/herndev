@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Sequoia&#39;s Ravi Gupta and ex-Meta CRO John Hegeman seek to raise $1B+ for a holding company to acquire at least one firm and infuse it with new tech &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p54#a260310p54)
  - [Mississippi regulators authorize xAI to build a power plant with 41 natural gas-burning turbines in Southaven to power its data centers &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260310/p53#a260310p53)
- - [&#39;X-Plane 12&#39; flight simulator to take advantage of Nvidia CloudXR 6 in visionOS 26.4](https://appleinsider.com/articles/26/03/10/x-plane-12-flight-simulator-to-take-advantage-of-nvidia-cloudxr-6-in-visionos-264?utm_source=rss)
- - [A now-resolved Apple server outage stopped developers from verifying apps](https://appleinsider.com/articles/26/03/10/a-now-resolved-apple-server-outage-stopped-developers-from-verifying-apps?utm_source=rss)<!-- TECH:END -->
+ - [&#39;X-Plane 12&#39; flight simulator to take advantage of Nvidia CloudXR 6 in visionOS 26.4](https://appleinsider.com/articles/26/03/10/x-plane-12-flight-simulator-to-take-advantage-of-nvidia-cloudxr-6-in-visionos-264?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
