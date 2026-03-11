@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents and a source: a foreign hacker compromised files relating to the FBI&#39;s Jeffrey Epstein investigation in 2023; the FBI confirms a &quot;cyber incident&quot; &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260311/p14#a260311p14)
- - [Teens Are Using AI-Fueled ‘Slander Pages’ to Mock Their Teachers](https://www.wired.com/story/teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers/)
- - [Samsung Galaxy S26 and S26 Plus review: This again](https://www.theverge.com/tech/892311/samsung-galaxy-s26-plus-review-screen-battery-camera-software)<!-- TECH:END -->
+ - [How Trump’s war on Iran stranded a million fliers — and plunged the Gulf’s favorite playground into chaos](https://www.theverge.com/transportation/892358/iran-war-dubai-airport-travel-flight-cancel)
+ - [Nvidia’s head of autonomous driving opens up about his plan to beat Waymo and Tesla](https://www.theverge.com/tech/892395/nvidia-autonomous-vehicle-xinzhou-wu-interview)
+ - [Meta, the Royal Thai Police, the FBI, and the US DOJ disrupt criminal scam centers in Southeast Asia, disabling 150K+ accounts and arresting 21 individuals &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260311/p18#a260311p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
