@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s Sora video generator is reportedly coming to ChatGPT](https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration)
- - [Canva launches Magic Layers, an AI tool that turns a flat bitmap image into a fully editable Canva project by extracting text and objects into individual layers &lpar;Jesus Diaz/Fast Company&rpar;](http://www.techmeme.com/260311/p37#a260311p37)
- - [Best Mattress for Back Pain &lpar;2026&rpar;: Saatva, Bear, Helix](https://www.wired.com/gallery/the-best-mattresses-for-back-pain/)<!-- TECH:END -->
+ - [MacBook Neo proves that it would be great if Apple let an iPhone or iPad be your Mac](https://appleinsider.com/articles/26/03/11/macbook-neo-proves-that-it-would-be-great-if-apple-let-an-iphone-or-ipad-be-your-mac?utm_source=rss)
+ - [This popular PS1 emulator is ending Android support, and fans only have themselves to blame](https://www.androidauthority.com/duckstation-ends-android-support-3648430/)
+ - [Only one major AI chatbot actively pushed back on violent attack planning](https://www.androidauthority.com/ai-chatbots-help-plan-violent-attack-3648445/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
