@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Trump’s war on Iran stranded a million fliers — and plunged the Gulf’s favorite playground into chaos](https://www.theverge.com/transportation/892358/iran-war-dubai-airport-travel-flight-cancel)
- - [Nvidia’s head of autonomous driving opens up about his plan to beat Waymo and Tesla](https://www.theverge.com/tech/892395/nvidia-autonomous-vehicle-xinzhou-wu-interview)
- - [Meta, the Royal Thai Police, the FBI, and the US DOJ disrupt criminal scam centers in Southeast Asia, disabling 150K+ accounts and arresting 21 individuals &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260311/p18#a260311p18)<!-- TECH:END -->
+ - [ChatGPT, Gemini, and other chatbots helped teens plan shootings, bombings, and political violence, study shows](https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence)
+ - [Intel unveils the Core Ultra 7 270K Plus and 250K Plus, shipping March 26 for $300 and $200, respectively, and says they are its fastest gaming desktop CPUs yet &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260311/p26#a260311p26)
+ - [OnePlus 16 could be a return to glory with this big camera upgrade](https://www.androidauthority.com/oneplus-16-camera-performance-leak-3648311/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
