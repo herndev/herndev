@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US medtech giant Stryker suffers a global outage after a cyberattack; staff and contractors say an Iran-linked hacking group&#39;s logo appeared on login pages &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/260311/p43#a260311p43)
- - [Sources: Ripple kicks off a share buyback at a $50B valuation to repurchase up to $750M in shares from investors and employees in a tender offer through April &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p42#a260311p42)
- - [Anthropic says Claude for Excel and Claude for PowerPoint now share full context across open files, and skills are available inside Excel and PowerPoint add-ins &lpar;Sabrina Ortiz/The Deep View&rpar;](http://www.techmeme.com/260311/p41#a260311p41)<!-- TECH:END -->
+ - [Perplexity&#39;s Personal Computer lets AI agents access your Mac mini&#39;s files](https://appleinsider.com/articles/26/03/11/perplexitys-personal-computer-lets-ai-agents-access-your-mac-minis-files?utm_source=rss)
+ - [Studio Display XDR seemingly works on Intel Macs after all, with a caveat](https://appleinsider.com/articles/26/03/11/studio-display-xdr-seemingly-works-on-intel-macs-after-all-with-a-caveat?utm_source=rss)
+ - [FCC Chair Brendan Carr criticizes the slow pace of Amazon&#39;s satellite launches, after Amazon raised concerns about SpaceX&#39;s plan to launch up to 1M satellites &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/260311/p45#a260311p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
