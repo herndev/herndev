@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity&#39;s Personal Computer lets AI agents access your Mac mini&#39;s files](https://appleinsider.com/articles/26/03/11/perplexitys-personal-computer-lets-ai-agents-access-your-mac-minis-files?utm_source=rss)
- - [Studio Display XDR seemingly works on Intel Macs after all, with a caveat](https://appleinsider.com/articles/26/03/11/studio-display-xdr-seemingly-works-on-intel-macs-after-all-with-a-caveat?utm_source=rss)
- - [FCC Chair Brendan Carr criticizes the slow pace of Amazon&#39;s satellite launches, after Amazon raised concerns about SpaceX&#39;s plan to launch up to 1M satellites &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/260311/p45#a260311p45)<!-- TECH:END -->
+ - [Microsoft says that Windows 11 Xbox mode, a controller-first, full-screen gaming interface, will begin rolling out in April and work across all PC form factors &lpar;Abhijith M B/Windows Latest&rpar;](http://www.techmeme.com/260311/p50#a260311p50)
+ - [Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature](https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/)
+ - [Microsoft says the next Xbox, Project Helix, will have a custom AMD chip, and it will begin sending out &quot;alpha versions&quot; of Project Helix to developers in 2027 &lpar;The Verge&rpar;](http://www.techmeme.com/260311/p49#a260311p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
