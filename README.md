@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Technology Is Reshaping Sleep Apnea Treatment](https://www.wired.com/story/sleep-apnea-treatment-tech/)
- - [Chinese Gen Z day traders, who prefer tech stocks and increasingly use AI chatbots for investment advice, fuel the country&#39;s latest tech investment craze &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p8#a260311p8)
- - [YouTube on TV becomes insufferable with new unskippable 30-second ads](https://www.androidauthority.com/youtube-on-tv-unskippable-30-second-ads-3648246/)<!-- TECH:END -->
+ - [A Certified Sleep Coach Shares the Sleep Week Deals She’s Adding to Cart &lpar;2026&rpar;](https://www.wired.com/story/sleep-week-deals-2026/)
+ - [I shipped Apple, Google, and Tile Bluetooth trackers across Europe. The results surprised me](https://www.androidauthority.com/shipped-apple-google-tile-bluetooth-trackers-europe-shocking-results-3647618/)
+ - [Oppo’s new foldable isn’t quite creaseless, but it’s pretty damn close](https://www.theverge.com/tech/892547/oppo-find-n6-zero-feel-crease-impressions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
