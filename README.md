@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Neo proves that it would be great if Apple let an iPhone or iPad be your Mac](https://appleinsider.com/articles/26/03/11/macbook-neo-proves-that-it-would-be-great-if-apple-let-an-iphone-or-ipad-be-your-mac?utm_source=rss)
- - [This popular PS1 emulator is ending Android support, and fans only have themselves to blame](https://www.androidauthority.com/duckstation-ends-android-support-3648430/)
- - [Only one major AI chatbot actively pushed back on violent attack planning](https://www.androidauthority.com/ai-chatbots-help-plan-violent-attack-3648445/)<!-- TECH:END -->
+ - [US medtech giant Stryker suffers a global outage after a cyberattack; staff and contractors say an Iran-linked hacking group&#39;s logo appeared on login pages &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/260311/p43#a260311p43)
+ - [Sources: Ripple kicks off a share buyback at a $50B valuation to repurchase up to $750M in shares from investors and employees in a tender offer through April &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p42#a260311p42)
+ - [Anthropic says Claude for Excel and Claude for PowerPoint now share full context across open files, and skills are available inside Excel and PowerPoint add-ins &lpar;Sabrina Ortiz/The Deep View&rpar;](http://www.techmeme.com/260311/p41#a260311p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
