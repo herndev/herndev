@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT, Gemini, and other chatbots helped teens plan shootings, bombings, and political violence, study shows](https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence)
- - [Intel unveils the Core Ultra 7 270K Plus and 250K Plus, shipping March 26 for $300 and $200, respectively, and says they are its fastest gaming desktop CPUs yet &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260311/p26#a260311p26)
- - [OnePlus 16 could be a return to glory with this big camera upgrade](https://www.androidauthority.com/oneplus-16-camera-performance-leak-3648311/)<!-- TECH:END -->
+ - [Investors flee to Magnificent Seven stocks due to the US-led war in Iran; tech is up 1.5% from February 27, the only S&amp;P 500 sector to rise since the strikes &lpar;Financial Times&rpar;](http://www.techmeme.com/260311/p29#a260311p29)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;March 11&rpar;](https://www.androidauthority.com/wallpaper-wednesday-march-11-2026-3647826/)
+ - [I was interviewed by an AI bot for a job](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
