@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some of the best horror games ever made are included in Humble’s $15 bundle](https://www.theverge.com/gadgets/893314/frictional-games-amnesia-soma-humble-bundle-deal-sale-steam)
- - [Nvidia debuts Nemotron 3 Super, a 120B-parameter hybrid MoE open-weight model; filing: Nvidia plans to spend $26B over the next five years to build open models &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/260311/p51#a260311p51)
- - [Half of the US foldable market belongs to one brand, and it’s not Samsung](https://www.androidauthority.com/motorola-foldable-market-share-3648522/)<!-- TECH:END -->
+ - [Google confirms: Free-to-play demos are coming to Play Store games](https://www.androidauthority.com/google-play-pc-3648159/)
+ - [One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature](https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin)
+ - [Source: Microsoft is in advanced talks to lease hundreds of MWs of data center capacity in Abilene, TX, after Oracle abandoned its expansion plans at the site &lpar;The Information&rpar;](http://www.techmeme.com/260311/p53#a260311p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
