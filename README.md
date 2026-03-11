@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investors flee to Magnificent Seven stocks due to the US-led war in Iran; tech is up 1.5% from February 27, the only S&amp;P 500 sector to rise since the strikes &lpar;Financial Times&rpar;](http://www.techmeme.com/260311/p29#a260311p29)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;March 11&rpar;](https://www.androidauthority.com/wallpaper-wednesday-march-11-2026-3647826/)
- - [I was interviewed by an AI bot for a job](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)<!-- TECH:END -->
+ - [Canva’s new editing tool adds layers to AI-generated designs](https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta)
+ - [This Is the Next Wave of Political Fundraising](https://www.wired.com/story/this-is-the-next-wave-of-political-fundraising/)
+ - [Apple Vision Pro user learns the hard way that flight attendants have the final say](https://appleinsider.com/articles/26/03/11/apple-vision-pro-user-learns-the-hard-way-that-flight-attendants-have-the-final-say?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
