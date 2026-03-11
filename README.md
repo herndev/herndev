@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Locked in](http://9gag.com/gag/aXPOpV2)
- - ⏩ [Meanwhile..](http://9gag.com/gag/ayNKp4p)
- - 👉 [I pray that you\u2019ll find love one day, it happened to me, it can happen to you](http://9gag.com/gag/aKGMzvj)<!-- MEMES:END -->
+ - ⏩ [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
+ - 👉 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)<!-- MEMES:END -->
 
 ---
 
