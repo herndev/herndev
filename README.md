@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just look look at the size](http://9gag.com/gag/amoZLyv)
+ - 💣 [Going the extra mile](http://9gag.com/gag/aryLpA7)
  - ⏩ [Liberalism defined](http://9gag.com/gag/a9yGdRD)
- - 👉 [Buy gold](http://9gag.com/gag/aE04Gjo)<!-- MEMES:END -->
+ - 👉 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)<!-- MEMES:END -->
 
 ---
 
