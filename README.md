@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canva’s new editing tool adds layers to AI-generated designs](https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta)
- - [This Is the Next Wave of Political Fundraising](https://www.wired.com/story/this-is-the-next-wave-of-political-fundraising/)
- - [Apple Vision Pro user learns the hard way that flight attendants have the final say](https://appleinsider.com/articles/26/03/11/apple-vision-pro-user-learns-the-hard-way-that-flight-attendants-have-the-final-say?utm_source=rss)<!-- TECH:END -->
+ - [Revolut says it has secured a full banking license from UK regulators after a four-year wait, allowing the company to expand lending to its 13M UK customers &lpar;Financial Times&rpar;](http://www.techmeme.com/260311/p36#a260311p36)
+ - [WhatsApp adds parent-managed accounts for users under the age of 13 and says the accounts will not get access to features like Meta AI, Channels, or Status &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260311/p35#a260311p35)
+ - [Alternative app store AltStore PAL is joining the fediverse](https://www.theverge.com/tech/893085/altstore-pal-alternative-app-store-fediverse)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
