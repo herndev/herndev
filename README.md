@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve responds to NY lawsuit over loot boxes in CS2, Dota 2](https://www.polygon.com/valve-response-new-york-attorney-general-lawsuit-loot-boxes-gambling/)
- - [Xbox Not Planning To Send Next Gen Console Dev Kits Out Until 2027](https://kotaku.com/xbox-not-planning-to-send-next-gen-console-dev-kits-out-until-2027-2000678006)
- - [Xbox says indies have ‘never been more important’ ahead of Project Helix](https://www.polygon.com/xbox-indies-never-more-important-project-helix/)<!-- GAME:END -->
+ - [Lord of the Rings: Hunt for Gollum casts Kate Winslet in mystery role](https://www.polygon.com/lord-of-the-rings-hunt-for-gollum-kate-winslet-casting/)
+ - [Overhauling Minecraft&#39;s world generation was like &#39;trying to build a skyscraper with hand tools&#39; which basically scared Mojang off of continuing massive yearly updates](https://www.pcgamer.com/games/survival-crafting/overhauling-minecrafts-world-generation-was-like-trying-to-build-a-skyscraper-with-hand-tools-which-basically-scared-mojang-off-of-continuing-massive-yearly-updates/)
+ - [Valve says almost 6,000 games made over $100K on Steam last year](https://www.pcgamer.com/gaming-industry/valve-says-over-5000-games-made-over-usd100k-on-steam-last-year/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
