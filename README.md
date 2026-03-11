@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Liberalism defined](http://9gag.com/gag/a9yGdRD)
+ - 💣 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
  - ⏩ [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
- - 👉 [Why you got to go say something so controversial? Now you got me arguing with myself both sides of the point What an Asshole](http://9gag.com/gag/aGyQwRK)<!-- MEMES:END -->
+ - 👉 [Just look look at the size](http://9gag.com/gag/amoZLyv)<!-- MEMES:END -->
 
 ---
 
