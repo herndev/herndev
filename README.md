@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Aaru, a startup founded by teens that uses AI agents to simulate human responses for product development, polling, and more, recently valued at $1B &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/260310/p59#a260310p59)
  - [A look at the rise and fall of Chen Zhi, an alleged online scam kingpin whom the US and UK accused of laundering billions; he was extradited to China in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p58#a260310p58)
- - [Intel unveiled its Heracles chip at ISSCC in February, saying it accelerates fully homomorphic encryption tasks up to 5,000x faster than top Intel server CPUs &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/260310/p57#a260310p57)
- - [Trump Administration Won’t Rule Out Further Action Against Anthropic](https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, March 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-march-11/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
