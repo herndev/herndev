@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Revolut says it has secured a full banking license from UK regulators after a four-year wait, allowing the company to expand lending to its 13M UK customers &lpar;Financial Times&rpar;](http://www.techmeme.com/260311/p36#a260311p36)
- - [WhatsApp adds parent-managed accounts for users under the age of 13 and says the accounts will not get access to features like Meta AI, Channels, or Status &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260311/p35#a260311p35)
- - [Alternative app store AltStore PAL is joining the fediverse](https://www.theverge.com/tech/893085/altstore-pal-alternative-app-store-fediverse)<!-- TECH:END -->
+ - [OpenAI’s Sora video generator is reportedly coming to ChatGPT](https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration)
+ - [Canva launches Magic Layers, an AI tool that turns a flat bitmap image into a fully editable Canva project by extracting text and objects into individual layers &lpar;Jesus Diaz/Fast Company&rpar;](http://www.techmeme.com/260311/p37#a260311p37)
+ - [Best Mattress for Back Pain &lpar;2026&rpar;: Saatva, Bear, Helix](https://www.wired.com/gallery/the-best-mattresses-for-back-pain/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
