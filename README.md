@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just listen to your heart](http://9gag.com/gag/agme0GK)
- - ⏩ [I would buy 10k Bitcoins](http://9gag.com/gag/aXPObGb)
- - 👉 [Memes write themselves](http://9gag.com/gag/aD2vwmO)<!-- MEMES:END -->
+ - 💣 [Just look look at the size](http://9gag.com/gag/amoZLyv)
+ - ⏩ [Liberalism defined](http://9gag.com/gag/a9yGdRD)
+ - 👉 [Buy gold](http://9gag.com/gag/aE04Gjo)<!-- MEMES:END -->
 
 ---
 
