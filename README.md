@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube on TV becomes insufferable with new unskippable 30-second ads](https://www.androidauthority.com/youtube-on-tv-unskippable-30-second-ads-3648246/)
- - [A profile of Sachin Katti, who joined OpenAI from Intel in November as head of industrial compute and is helping guide the company&#39;s infrastructure efforts &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p7#a260311p7)
- - [Indian AI lab Lossfunk&#39;s prompting method lets LLMs generate Tulu language text without prior training; the method may expand to other low-resource languages &lpar;The Economic Times&rpar;](http://www.techmeme.com/260311/p6#a260311p6)<!-- TECH:END -->
+ - [Technology Is Reshaping Sleep Apnea Treatment](https://www.wired.com/story/sleep-apnea-treatment-tech/)
+ - [Chinese Gen Z day traders, who prefer tech stocks and increasingly use AI chatbots for investment advice, fuel the country&#39;s latest tech investment craze &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p8#a260311p8)
+ - [YouTube on TV becomes insufferable with new unskippable 30-second ads](https://www.androidauthority.com/youtube-on-tv-unskippable-30-second-ads-3648246/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
