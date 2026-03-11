@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do it yourself](http://9gag.com/gag/a1m6ZKv)
- - ⏩ [Locked in](http://9gag.com/gag/aXPOpV2)
- - 👉 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)<!-- MEMES:END -->
+ - 💣 [Meme origins](http://9gag.com/gag/agmevjx)
+ - ⏩ [Breaking Bad in Germany would be a very short series](http://9gag.com/gag/agmevoq)
+ - 👉 [This is our climate](http://9gag.com/gag/aAy9ryE)<!-- MEMES:END -->
 
 ---
 
