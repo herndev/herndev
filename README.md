@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just rolled out Chrome’s most powerful new features in more countries and languages](https://www.androidauthority.com/google-gemini-in-chrome-nano-banana-2-expansion-3648235/)
- - [What to Do in Chicago If You’re Here for Business &lpar;2026&rpar;](https://www.wired.com/story/the-wired-guide-to-chicago-for-business-travelers/)
- - [A look at Aaru, a startup founded by teens that uses AI agents to simulate human responses for product development, polling, and more, recently valued at $1B &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/260310/p59#a260310p59)<!-- TECH:END -->
+ - [Sources: Chinese state enterprises and agencies move to curb in-office OpenClaw use over potential security risks as users across China experiment with OpenClaw &lpar;Bloomberg&rpar;](http://www.techmeme.com/260311/p3#a260311p3)
+ - [Galaxy S26 series goes on sale worldwide after record pre-orders led by the Ultra](https://www.androidauthority.com/samsung-galaxy-s26-open-sale-pre-order-numbers-3648240/)
+ - [Google rolls out Gemini in Chrome to India, Canada, and New Zealand, and adds support for over 50 additional languages, including Hindi, French, and Spanish &lpar;Charmaine D&#39;Silva/The Keyword&rpar;](http://www.techmeme.com/260311/p2#a260311p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
