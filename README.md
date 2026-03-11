@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Going the extra mile](http://9gag.com/gag/aryLpA7)
- - ⏩ [Liberalism defined](http://9gag.com/gag/a9yGdRD)
- - 👉 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)<!-- MEMES:END -->
+ - 💣 [Hijabi Girl Left Speechless When Facts Enter the Chat](http://9gag.com/gag/aGyQVew)
+ - ⏩ [Memes write themselves](http://9gag.com/gag/aD2vwmO)
+ - 👉 [Just look look at the size](http://9gag.com/gag/amoZLyv)<!-- MEMES:END -->
 
 ---
 
