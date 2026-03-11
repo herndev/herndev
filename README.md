@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
+ - 💣 [Nice children&#39;s book](http://9gag.com/gag/aLnEK6g)
  - ⏩ [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
- - 👉 [Just look look at the size](http://9gag.com/gag/amoZLyv)<!-- MEMES:END -->
+ - 👉 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)<!-- MEMES:END -->
 
 ---
 
