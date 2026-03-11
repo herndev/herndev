@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hijabi Girl Left Speechless When Facts Enter the Chat](http://9gag.com/gag/aGyQVew)
- - ⏩ [Memes write themselves](http://9gag.com/gag/aD2vwmO)
- - 👉 [Just look look at the size](http://9gag.com/gag/amoZLyv)<!-- MEMES:END -->
+ - 💣 [Liberalism defined](http://9gag.com/gag/a9yGdRD)
+ - ⏩ [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
+ - 👉 [Why you got to go say something so controversial? Now you got me arguing with myself both sides of the point What an Asshole](http://9gag.com/gag/aGyQwRK)<!-- MEMES:END -->
 
 ---
 
