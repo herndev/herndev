@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How age-verification laws to enhance online child safety are raising surveillance concerns for adults; ~50% of US states have enacted or are advancing such laws &lpar;Barbara Booth/CNBC&rpar;](http://www.techmeme.com/260310/p56#a260310p56)
- - [Valerion VisionMaster Max review: Premium projector that&#39;s still consumer-friendly](https://appleinsider.com/articles/26/03/11/valerion-visionmaster-max-review-premium-projector-thats-still-consumer-friendly?utm_source=rss)
- - [Analysis: surging memory and CPU costs could drive the retail price of a mainstream $900 notebook up by nearly 40% in 2026 to maintain current margin structures &lpar;TrendForce&rpar;](http://www.techmeme.com/260310/p55#a260310p55)<!-- TECH:END -->
+ - [A look at the rise and fall of Chen Zhi, an alleged online scam kingpin whom the US and UK accused of laundering billions; he was extradited to China in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p58#a260310p58)
+ - [Intel unveiled its Heracles chip at ISSCC in February, saying it accelerates fully homomorphic encryption tasks up to 5,000x faster than top Intel server CPUs &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/260310/p57#a260310p57)
+ - [Trump Administration Won’t Rule Out Further Action Against Anthropic](https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
