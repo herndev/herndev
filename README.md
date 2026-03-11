@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
- - ⏩ [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
- - 👉 [Just look look at the size](http://9gag.com/gag/amoZLyv)<!-- MEMES:END -->
+ - 💣 [Do it yourself](http://9gag.com/gag/a1m6ZKv)
+ - ⏩ [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 👉 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)<!-- MEMES:END -->
 
 ---
 
