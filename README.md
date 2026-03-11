@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says that Windows 11 Xbox mode, a controller-first, full-screen gaming interface, will begin rolling out in April and work across all PC form factors &lpar;Abhijith M B/Windows Latest&rpar;](http://www.techmeme.com/260311/p50#a260311p50)
- - [Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature](https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/)
- - [Microsoft says the next Xbox, Project Helix, will have a custom AMD chip, and it will begin sending out &quot;alpha versions&quot; of Project Helix to developers in 2027 &lpar;The Verge&rpar;](http://www.techmeme.com/260311/p49#a260311p49)<!-- TECH:END -->
+ - [Some of the best horror games ever made are included in Humble’s $15 bundle](https://www.theverge.com/gadgets/893314/frictional-games-amnesia-soma-humble-bundle-deal-sale-steam)
+ - [Nvidia debuts Nemotron 3 Super, a 120B-parameter hybrid MoE open-weight model; filing: Nvidia plans to spend $26B over the next five years to build open models &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/260311/p51#a260311p51)
+ - [Half of the US foldable market belongs to one brand, and it’s not Samsung](https://www.androidauthority.com/motorola-foldable-market-share-3648522/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
