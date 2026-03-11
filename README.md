@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Aaru, a startup founded by teens that uses AI agents to simulate human responses for product development, polling, and more, recently valued at $1B &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/260310/p59#a260310p59)
- - [A look at the rise and fall of Chen Zhi, an alleged online scam kingpin whom the US and UK accused of laundering billions; he was extradited to China in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/260310/p58#a260310p58)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, March 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-march-11/)<!-- TECH:END -->
+ - [Google just rolled out Chrome’s most powerful new features in more countries and languages](https://www.androidauthority.com/google-gemini-in-chrome-nano-banana-2-expansion-3648235/)
+ - [What to Do in Chicago If You’re Here for Business &lpar;2026&rpar;](https://www.wired.com/story/the-wired-guide-to-chicago-for-business-travelers/)
+ - [A look at Aaru, a startup founded by teens that uses AI agents to simulate human responses for product development, polling, and more, recently valued at $1B &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/260310/p59#a260310p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
