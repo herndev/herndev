@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is optimizing Android’s core to make your phone feel faster](https://www.androidauthority.com/google-android-autofdo-kernel-3648273/)
- - [The Samsung Galaxy S26 Plus is an $1,100 identity crisis](https://www.androidauthority.com/samsung-galaxy-s26-plus-identity-crisis-3648090/)
- - [Inside OpenAI’s Race to Catch Up to Claude Code](https://www.wired.com/story/openai-codex-race-claude-code/)<!-- TECH:END -->
+ - [Documents and a source: a foreign hacker compromised files relating to the FBI&#39;s Jeffrey Epstein investigation in 2023; the FBI confirms a &quot;cyber incident&quot; &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260311/p14#a260311p14)
+ - [Teens Are Using AI-Fueled ‘Slander Pages’ to Mock Their Teachers](https://www.wired.com/story/teens-are-using-ai-fueled-slander-pages-to-mock-their-teachers/)
+ - [Samsung Galaxy S26 and S26 Plus review: This again](https://www.theverge.com/tech/892311/samsung-galaxy-s26-plus-review-screen-battery-camera-software)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
