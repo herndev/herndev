@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Human Logic](http://9gag.com/gag/azx3bxj)
- - ⏩ [Trust me. This one is definitely worth the time.](http://9gag.com/gag/aGyQ9Y5)
- - 👉 [Just listen to your heart](http://9gag.com/gag/agme0GK)<!-- MEMES:END -->
+ - 💣 [Tool Tips](http://9gag.com/gag/adBz0o2)
+ - ⏩ [When you listen to mainstream media panic and bet your life savings](http://9gag.com/gag/aW4XZP6)
+ - 👉 [Nice children&#39;s book](http://9gag.com/gag/aLnEK6g)<!-- MEMES:END -->
 
 ---
 
