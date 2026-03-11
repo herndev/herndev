@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Certified Sleep Coach Shares the Sleep Week Deals She’s Adding to Cart &lpar;2026&rpar;](https://www.wired.com/story/sleep-week-deals-2026/)
- - [I shipped Apple, Google, and Tile Bluetooth trackers across Europe. The results surprised me](https://www.androidauthority.com/shipped-apple-google-tile-bluetooth-trackers-europe-shocking-results-3647618/)
- - [Oppo’s new foldable isn’t quite creaseless, but it’s pretty damn close](https://www.theverge.com/tech/892547/oppo-find-n6-zero-feel-crease-impressions)<!-- TECH:END -->
+ - [Google is optimizing Android’s core to make your phone feel faster](https://www.androidauthority.com/google-android-autofdo-kernel-3648273/)
+ - [The Samsung Galaxy S26 Plus is an $1,100 identity crisis](https://www.androidauthority.com/samsung-galaxy-s26-plus-identity-crisis-3648090/)
+ - [Inside OpenAI’s Race to Catch Up to Claude Code](https://www.wired.com/story/openai-codex-race-claude-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
