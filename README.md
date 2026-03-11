@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you listen to mainstream media panic and bet your life savings](http://9gag.com/gag/aW4XZP6)
- - ⏩ [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
- - 👉 [Liberalism defined](http://9gag.com/gag/a9yGdRD)<!-- MEMES:END -->
+ - 💣 [Human Logic](http://9gag.com/gag/azx3bxj)
+ - ⏩ [Trust me. This one is definitely worth the time.](http://9gag.com/gag/aGyQ9Y5)
+ - 👉 [Just listen to your heart](http://9gag.com/gag/agme0GK)<!-- MEMES:END -->
 
 ---
 
