@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Buy gold](http://9gag.com/gag/aE04Gjo)
- - ⏩ [Don&#39;t double tap](http://9gag.com/gag/azx3g4b)
- - 👉 [When you listen to mainstream media panic and bet your life savings](http://9gag.com/gag/aW4XZP6)<!-- MEMES:END -->
+ - 💣 [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
+ - ⏩ [When you listen to mainstream media panic and bet your life savings](http://9gag.com/gag/aW4XZP6)
+ - 👉 [Buy gold](http://9gag.com/gag/aE04Gjo)<!-- MEMES:END -->
 
 ---
 
