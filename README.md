@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice children&#39;s book](http://9gag.com/gag/aLnEK6g)
+ - 💣 [Just look look at the size](http://9gag.com/gag/amoZLyv)
  - ⏩ [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
- - 👉 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)<!-- MEMES:END -->
+ - 👉 [Sony changes the price of games as soon as you login](http://9gag.com/gag/aByeKD1)<!-- MEMES:END -->
 
 ---
 
