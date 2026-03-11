@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [At Fate’s End: Hands-On with Thunder Lotus’ Gorgeous New Action-Adventure](https://news.xbox.com/en-us/2026/03/10/at-fates-end-gdc-preview-xbox/)
- - [Pokémon Pokopia interactive maps](https://www.polygon.com/map/pokemon-pokopia-interactive-maps-withered-wasteland-bleak-beach-rocky-ridges-sparkling-skylands/)
- - [After beating Slay the Spire 2 with an 8 year old deck, I&#39;m starting to feel like this is more of a remake than a sequel](https://www.pcgamer.com/games/roguelike/after-beating-slay-the-spire-2-with-an-8-year-old-deck-im-starting-to-feel-like-this-is-more-of-a-remake-than-a-sequel/)<!-- GAME:END -->
+ - [Valve responds to NY lawsuit over loot boxes in CS2, Dota 2](https://www.polygon.com/valve-response-new-york-attorney-general-lawsuit-loot-boxes-gambling/)
+ - [Xbox Not Planning To Send Next Gen Console Dev Kits Out Until 2027](https://kotaku.com/xbox-not-planning-to-send-next-gen-console-dev-kits-out-until-2027-2000678006)
+ - [Xbox says indies have ‘never been more important’ ahead of Project Helix](https://www.polygon.com/xbox-indies-never-more-important-project-helix/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
