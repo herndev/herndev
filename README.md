@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tool Tips](http://9gag.com/gag/adBz0o2)
- - ⏩ [Nice children&#39;s book](http://9gag.com/gag/aLnEK6g)
- - 👉 [Don&#39;t double tap](http://9gag.com/gag/azx3g4b)<!-- MEMES:END -->
+ - 💣 [Liberalism defined](http://9gag.com/gag/a9yGdRD)
+ - ⏩ [The math ain&#39;t mathin&#39;](http://9gag.com/gag/ajP4YBp)
+ - 👉 [Buy gold](http://9gag.com/gag/aE04Gjo)<!-- MEMES:END -->
 
 ---
 
