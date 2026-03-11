@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tool Tips](http://9gag.com/gag/adBz0o2)
- - ⏩ [When you listen to mainstream media panic and bet your life savings](http://9gag.com/gag/aW4XZP6)
- - 👉 [Nice children&#39;s book](http://9gag.com/gag/aLnEK6g)<!-- MEMES:END -->
+ - 💣 [Buy gold](http://9gag.com/gag/aE04Gjo)
+ - ⏩ [Don&#39;t double tap](http://9gag.com/gag/azx3g4b)
+ - 👉 [When you listen to mainstream media panic and bet your life savings](http://9gag.com/gag/aW4XZP6)<!-- MEMES:END -->
 
 ---
 
