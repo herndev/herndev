@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you listen to mainstream media panic and bet your life savings](http://9gag.com/gag/aW4XZP6)
- - ⏩ [Do it yourself](http://9gag.com/gag/a1m6ZKv)
- - 👉 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)<!-- MEMES:END -->
+ - 💣 [Good lord is she okay](http://9gag.com/gag/aVv6OBv)
+ - ⏩ [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
+ - 👉 [Just look look at the size](http://9gag.com/gag/amoZLyv)<!-- MEMES:END -->
 
 ---
 
