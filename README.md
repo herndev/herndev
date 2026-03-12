@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Anthropic is in talks with Blackstone and other PE firms to form a JV selling consulting services for integrating Claude into portfolio companies &lpar;The Information&rpar;](http://www.techmeme.com/260311/p65#a260311p65)
- - [Google spins off GFiber, formerly Google Fiber, forming an independent provider with investment firm Stonepeak&#39;s Astound; Google will retain a minority stake &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/260311/p64#a260311p64)
- - [Binance.US named Stephen Gregory as CEO, replacing Norman Reed; Gregory was previously CEO of Currency.com and held compliance roles at Gemini and CEX.IO &lpar;CoinDesk&rpar;](http://www.techmeme.com/260311/p63#a260311p63)<!-- TECH:END -->
+ - [SEC filing: Oracle sets aside an additional $500M for restructuring, bringing FY total to $2.1B, as it prepares to cut jobs and hails efficiencies from AI tools &lpar;Financial Times&rpar;](http://www.techmeme.com/260312/p2#a260312p2)
+ - [Security researchers broke into a MediaTek-powered Nothing phone in just 45 seconds](https://www.androidauthority.com/mediatek-chip-vulnerability-3648555/)
+ - [Uber partners with Nissan and Wayve to offer robotaxi services in Tokyo, its first autonomous-vehicle partnership in Japan, with a pilot planned for late 2026 &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/260312/p1#a260312p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
