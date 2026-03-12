@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lord of the Rings: Hunt for Gollum casts Kate Winslet in mystery role](https://www.polygon.com/lord-of-the-rings-hunt-for-gollum-kate-winslet-casting/)
- - [Overhauling Minecraft&#39;s world generation was like &#39;trying to build a skyscraper with hand tools&#39; which basically scared Mojang off of continuing massive yearly updates](https://www.pcgamer.com/games/survival-crafting/overhauling-minecrafts-world-generation-was-like-trying-to-build-a-skyscraper-with-hand-tools-which-basically-scared-mojang-off-of-continuing-massive-yearly-updates/)
- - [Valve says almost 6,000 games made over $100K on Steam last year](https://www.pcgamer.com/gaming-industry/valve-says-over-5000-games-made-over-usd100k-on-steam-last-year/)<!-- GAME:END -->
+ - [Overwatch Director Reveals His Next Game And It Looks Like Red Dead Redemption 2 Meets Rust](https://kotaku.com/overwatch-legend-california-jeff-kaplan-steam-2000678096)
+ - [Overwatch Director Jeff Kaplan Breaks His Silence On Leaving Blizzard: ‘There Was Too Much Focus On Lets Make Lots Of Money Really Fast’](https://kotaku.com/overwatch-jeff-kaplan-blizzard-pve-leaving-2000678084)
+ - [Dawn of War 4 playtesters want the combat to take longer because of how much they enjoy watching it](https://www.pcgamer.com/games/rts/dawn-of-war-4-playtesters-want-the-combat-to-take-longer-because-of-how-much-they-enjoy-watching-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
