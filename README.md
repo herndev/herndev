@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
- - ⏩ [Locked in](http://9gag.com/gag/aXPOpV2)
- - 👉 [Meme origins](http://9gag.com/gag/agmevjx)<!-- MEMES:END -->
+ - 💣 [Meme origins](http://9gag.com/gag/agmevjx)
+ - ⏩ [BRUTAL](http://9gag.com/gag/aW4XWOn)
+ - 👉 [Buy gold](http://9gag.com/gag/aE04Gjo)<!-- MEMES:END -->
 
 ---
 
