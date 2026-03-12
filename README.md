@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Locked in](http://9gag.com/gag/aXPOpV2)
- - ⏩ [Meme origins](http://9gag.com/gag/agmevjx)
- - 👉 [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)<!-- MEMES:END -->
+ - 💣 [Buy gold](http://9gag.com/gag/aE04Gjo)
+ - ⏩ [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
+ - 👉 [Locked in](http://9gag.com/gag/aXPOpV2)<!-- MEMES:END -->
 
 ---
 
