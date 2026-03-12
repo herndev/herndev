@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Using YouTube for free, as we knew it, is dead](https://www.androidauthority.com/using-youtube-for-free-dead-3648366/)
- - [Chinese brain-computer interface startup Gestala raised $21.6M co-led by Guosheng Capital and Dalton Venture at a $100M to $200M valuation, per CEO Phoenix Peng &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/260312/p13#a260312p13)
- - [Sources: Alibaba-backed PixVerse, which develops AI video generation tools, raised a $300M Series C led by CDH; the company says the round values it at $1B+ &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/260312/p12#a260312p12)<!-- TECH:END -->
+ - [Axiom Math, which uses AI and the Lean language to verify code in much the same way that mathematicians prove math problems, raised $200M at a $1.6B valuation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260312/p15#a260312p15)
+ - [Microsoft is pushing for more Africans to adopt its AI tools as it competes with DeepSeek: training 3M people, partnering with telecom MTN to sell 365, and more &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/260312/p14#a260312p14)
+ - [This new Pixel Launcher feature made me uninstall all custom launchers](https://www.androidauthority.com/new-pixel-launcher-custom-icons-3646517/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
