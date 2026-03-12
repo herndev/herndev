@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity&amp;#8217;s Personal Computer turns your spare Mac into an AI agent](https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent)
- - [JBL’s new party speaker comes with a karaoke mic that helps you hit those high notes](https://www.theverge.com/tech/890868/jbl-partybox-on-the-go-2-bluetooth-speaker-wireless-easysing-mic)
- - [Israeli startup Onyx Security, which helps secure and manage AI agents&#39; operational risks, raised a $35M Series A led by Conviction, after a $5M seed in 2024 &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260312/p21#a260312p21)<!-- TECH:END -->
+ - [Tim Cook kicks off Apple&#39;s 50th anniversary celebration](https://appleinsider.com/articles/26/03/12/tim-cook-kicks-off-apples-50th-anniversary-celebration?utm_source=rss)
+ - [Former Windows chief applauds MacBook Neo, laments Microsoft&#39;s ARM struggles](https://appleinsider.com/articles/26/03/12/former-windows-chief-applauds-macbook-neo-laments-microsofts-arm-struggles?utm_source=rss)
+ - [Crypto accounting startup Cryptio raised a $45M Series B led by BlackFin Capital Partners and Sentinel Global and reports having 450+ clients, including Circle &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260312/p25#a260312p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
