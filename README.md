@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What it was like to watch grieving parents stare down Mark Zuckerberg in court](https://www.theverge.com/policy/893930/social-media-addiction-trial-los-angeles-zuckerberg-instagram-youtube)
- - [PayPay shares jump 19% in their Nasdaq debut after the company&#39;s $879.8M US IPO, the biggest listing by a Japanese company on a US stock exchange in a decade &lpar;Georgie McKay/Bloomberg&rpar;](http://www.techmeme.com/260312/p46#a260312p46)
- - [The original AirTag is the cheapest it’s ever been](https://www.theverge.com/gadgets/894007/apple-airtag-first-generation-deal-sale)<!-- TECH:END -->
+ - [Google’s most-used app is finally coming to the hottest new computers](https://www.androidauthority.com/chrome-arm-linux-3648781/)
+ - [xAI hires senior Cursor leaders Andrew Milich and Jason Ginsberg; Elon Musk said he expects xAI to catch up with rivals in coding by &quot;the middle of this year&quot; &lpar;The Information&rpar;](http://www.techmeme.com/260312/p48#a260312p48)
+ - [‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs](https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
