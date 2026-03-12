@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple continues to renovate its social media presence with new @helloapple Instagram account](https://appleinsider.com/articles/26/03/12/apple-continues-to-renovate-its-social-media-presence-with-new-helloapple-instagram-account?utm_source=rss)
- - [Anthropic doesn’t trust the Pentagon, and neither should you](https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying)
- - [Bespoke AI models are the next big thing in filmmaking](https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck)<!-- TECH:END -->
+ - [Ukraine&#39;s defense minister says Ukraine is opening up access to its battlefield data for its allies to train AI models &lpar;Max Hunder/Reuters&rpar;](http://www.techmeme.com/260312/p33#a260312p33)
+ - [AT&amp;T rolls out brand new core plans, but only one of them appears to be an upgrade](https://www.androidauthority.com/att-value-extra-premium-2-plans-3648671/)
+ - [BackOps, which makes automation tools for supply chain operations, raised a $26M Series A led by Theory Ventures &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260312/p32#a260312p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
