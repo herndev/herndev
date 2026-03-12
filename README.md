@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Waiv, which uses AI to enable more precise testing of cancer, raised $33M after spinning out of AI diagnostics and drug discovery platform Owkin &lpar;Martin Coulter/Sifted&rpar;](http://www.techmeme.com/260312/p39#a260312p39)
- - [How ‘Handala’ Became the Face of Iran’s Hacker Counterattacks](https://www.wired.com/story/handala-hacker-group-iran-us-israel-war/)
- - [Anthropic says Claude can now generate custom charts, diagrams, and other visualizations directly in a conversation, available to all users in beta &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260312/p38#a260312p38)<!-- TECH:END -->
+ - [A US DOJ-led international law enforcement operation disrupted SocksEscort, a residential proxy network used to exploit residential routers worldwide &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/260312/p43#a260312p43)
+ - [Get an iPhone 17e on T-Mobile, no trade-in needed](https://appleinsider.com/articles/26/03/12/get-an-iphone-17e-on-t-mobile-no-trade-in-needed?utm_source=rss)
+ - [Gemini’s task automation is here and it’s wild](https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
