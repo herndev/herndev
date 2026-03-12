@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukraine&#39;s defense minister says Ukraine is opening up access to its battlefield data for its allies to train AI models &lpar;Max Hunder/Reuters&rpar;](http://www.techmeme.com/260312/p33#a260312p33)
- - [AT&amp;T rolls out brand new core plans, but only one of them appears to be an upgrade](https://www.androidauthority.com/att-value-extra-premium-2-plans-3648671/)
- - [BackOps, which makes automation tools for supply chain operations, raised a $26M Series A led by Theory Ventures &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260312/p32#a260312p32)<!-- TECH:END -->
+ - [Paris-based Waiv, which uses AI to enable more precise testing of cancer, raised $33M after spinning out of AI diagnostics and drug discovery platform Owkin &lpar;Martin Coulter/Sifted&rpar;](http://www.techmeme.com/260312/p39#a260312p39)
+ - [How ‘Handala’ Became the Face of Iran’s Hacker Counterattacks](https://www.wired.com/story/handala-hacker-group-iran-us-israel-war/)
+ - [Anthropic says Claude can now generate custom charts, diagrams, and other visualizations directly in a conversation, available to all users in beta &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260312/p38#a260312p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
