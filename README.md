@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s most-used app is finally coming to the hottest new computers](https://www.androidauthority.com/chrome-arm-linux-3648781/)
- - [xAI hires senior Cursor leaders Andrew Milich and Jason Ginsberg; Elon Musk said he expects xAI to catch up with rivals in coding by &quot;the middle of this year&quot; &lpar;The Information&rpar;](http://www.techmeme.com/260312/p48#a260312p48)
- - [‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs](https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/)<!-- TECH:END -->
+ - [Final call: T-Mobile sets March 31 deadline for Google One plan transfers](https://www.androidauthority.com/t-mobile-google-one-transfer-deadline-3648784/)
+ - [Adobe CEO Shantanu Narayen will step down after a successor is named; he became CEO in 2007 and will remain as chair of the board; ADBE drops 6%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260312/p49#a260312p49)
+ - [John Solly Is the DOGE Operative Accused of Planning to Take Social Security Data to His New Job](https://www.wired.com/story/john-solly-doge-operative-accused-social-security-data-leidos/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
