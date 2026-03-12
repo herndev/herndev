@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meme origins](http://9gag.com/gag/agmevjx)
- - ⏩ [BRUTAL](http://9gag.com/gag/aW4XWOn)
- - 👉 [Buy gold](http://9gag.com/gag/aE04Gjo)<!-- MEMES:END -->
+ - 💣 [Not sure](http://9gag.com/gag/aYQ0W67)
+ - ⏩ [Why you got to go say something so controversial? Now you got me arguing with myself both sides of the point What an Asshole](http://9gag.com/gag/aGyQwRK)
+ - 👉 [Cooking hack](http://9gag.com/gag/aE04GLp)<!-- MEMES:END -->
 
 ---
 
