@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not sure](http://9gag.com/gag/aYQ0W67)
- - ⏩ [Why you got to go say something so controversial? Now you got me arguing with myself both sides of the point What an Asshole](http://9gag.com/gag/aGyQwRK)
- - 👉 [Cooking hack](http://9gag.com/gag/aE04GLp)<!-- MEMES:END -->
+ - 💣 [Do it yourself](http://9gag.com/gag/a1m6ZKv)
+ - ⏩ [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
+ - 👉 [Locked in](http://9gag.com/gag/aXPOpV2)<!-- MEMES:END -->
 
 ---
 
