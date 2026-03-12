@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook kicks off Apple&#39;s 50th anniversary celebration](https://appleinsider.com/articles/26/03/12/tim-cook-kicks-off-apples-50th-anniversary-celebration?utm_source=rss)
- - [Former Windows chief applauds MacBook Neo, laments Microsoft&#39;s ARM struggles](https://appleinsider.com/articles/26/03/12/former-windows-chief-applauds-macbook-neo-laments-microsofts-arm-struggles?utm_source=rss)
- - [Crypto accounting startup Cryptio raised a $45M Series B led by BlackFin Capital Partners and Sentinel Global and reports having 450+ clients, including Circle &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260312/p25#a260312p25)<!-- TECH:END -->
+ - [Apple continues to renovate its social media presence with new @helloapple Instagram account](https://appleinsider.com/articles/26/03/12/apple-continues-to-renovate-its-social-media-presence-with-new-helloapple-instagram-account?utm_source=rss)
+ - [Anthropic doesn’t trust the Pentagon, and neither should you](https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying)
+ - [Bespoke AI models are the next big thing in filmmaking](https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
