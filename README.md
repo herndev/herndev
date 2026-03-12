@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Axiom Math, which uses AI and the Lean language to verify code in much the same way that mathematicians prove math problems, raised $200M at a $1.6B valuation &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/260312/p15#a260312p15)
- - [Microsoft is pushing for more Africans to adopt its AI tools as it competes with DeepSeek: training 3M people, partnering with telecom MTN to sell 365, and more &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/260312/p14#a260312p14)
- - [This new Pixel Launcher feature made me uninstall all custom launchers](https://www.androidauthority.com/new-pixel-launcher-custom-icons-3646517/)<!-- TECH:END -->
+ - [The Galaxy S25 is finally catching up to the S26 with its latest beta update](https://www.androidauthority.com/galaxy-s25-seventh-one-ui-8-5-beta-3648625/)
+ - [Apple MacBook Pro Review &lpar;M5 Max, 16-inch&rpar;: The Fastest MacBook Yet](https://www.wired.com/review/macbook-pro-16-inch-m5-max/)
+ - [How to Watch the Oscars &lpar;2026&rpar;](https://www.wired.com/story/how-to-watch-the-oscars-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
