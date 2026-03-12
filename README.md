@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Atlassian is cutting 10% of its workforce, or ~1,600 jobs, to fund investment in AI and enterprise sales; filing: the cuts will incur $225M-$236M in charges &lpar;CNBC&rpar;](http://www.techmeme.com/260311/p58#a260311p58)
- - [Latest iOS 15 &amp; iOS 16 updates target Coruna exploit affecting older devices](https://appleinsider.com/articles/26/03/12/latest-ios-15-ios-16-updates-target-coruna-exploit-affecting-older-devices?utm_source=rss)
- - [Sources: Cursor is in early talks to raise billions in a new funding round at a post-money valuation of up to $60B; one source puts the round size at $5B &lpar;Tom Dotan/Newcomer&rpar;](http://www.techmeme.com/260311/p57#a260311p57)<!-- TECH:END -->
+ - [Source: Anthropic is in talks with Blackstone and other PE firms to form a JV selling consulting services for integrating Claude into portfolio companies &lpar;The Information&rpar;](http://www.techmeme.com/260311/p65#a260311p65)
+ - [Google spins off GFiber, formerly Google Fiber, forming an independent provider with investment firm Stonepeak&#39;s Astound; Google will retain a minority stake &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/260311/p64#a260311p64)
+ - [Binance.US named Stephen Gregory as CEO, replacing Norman Reed; Gregory was previously CEO of Currency.com and held compliance roles at Gemini and CEX.IO &lpar;CoinDesk&rpar;](http://www.techmeme.com/260311/p63#a260311p63)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
