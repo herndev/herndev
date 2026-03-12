@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mastercard unveils a Crypto Partner Program with 85+ companies, including Binance, PayPal, and Ripple, to link blockchain tech with its payments infrastructure &lpar;CoinDesk&rpar;](http://www.techmeme.com/260312/p10#a260312p10)
- - [Want to spend under $100 on a gaming handheld? MagicX has a new one you should keep an eye on](https://www.androidauthority.com/magicx-two-dream-light-pro-specs-3648572/)
- - [How Amazon pushes employees to integrate AI across their workload despite their concerns that the company&#39;s &quot;half-baked&quot; tools are creating more work &lpar;Varsha Bansal/The Guardian&rpar;](http://www.techmeme.com/260312/p9#a260312p9)<!-- TECH:END -->
+ - [Using YouTube for free, as we knew it, is dead](https://www.androidauthority.com/using-youtube-for-free-dead-3648366/)
+ - [Chinese brain-computer interface startup Gestala raised $21.6M co-led by Guosheng Capital and Dalton Venture at a $100M to $200M valuation, per CEO Phoenix Peng &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/260312/p13#a260312p13)
+ - [Sources: Alibaba-backed PixVerse, which develops AI video generation tools, raised a $300M Series C led by CDH; the company says the round values it at $1B+ &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/260312/p12#a260312p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
