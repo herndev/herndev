@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US DOJ-led international law enforcement operation disrupted SocksEscort, a residential proxy network used to exploit residential routers worldwide &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/260312/p43#a260312p43)
- - [Get an iPhone 17e on T-Mobile, no trade-in needed](https://appleinsider.com/articles/26/03/12/get-an-iphone-17e-on-t-mobile-no-trade-in-needed?utm_source=rss)
- - [Gemini’s task automation is here and it’s wild](https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10)<!-- TECH:END -->
+ - [Google Home users say devices are randomly being removed, and a possible link is emerging](https://www.androidauthority.com/google-home-devices-disappearing-smartlife-3648757/)
+ - [US Lawmakers Move to Kill the FBI’s Warrantless Wiretap Access](https://www.wired.com/story/us-lawmakers-move-to-kill-the-fbis-warrantless-wiretap-access/)
+ - [Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages](https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
