@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Meme origins](http://9gag.com/gag/agmevjx)
- - ⏩ [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)
- - 👉 [Who cares](http://9gag.com/gag/aBye3px)<!-- MEMES:END -->
+ - ⏩ [Who cares](http://9gag.com/gag/aBye3px)
+ - 👉 [Every alcoholics dream](http://9gag.com/gag/a6ZR7v8)<!-- MEMES:END -->
 
 ---
 
