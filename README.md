@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S25 is finally catching up to the S26 with its latest beta update](https://www.androidauthority.com/galaxy-s25-seventh-one-ui-8-5-beta-3648625/)
- - [Apple MacBook Pro Review &lpar;M5 Max, 16-inch&rpar;: The Fastest MacBook Yet](https://www.wired.com/review/macbook-pro-16-inch-m5-max/)
- - [How to Watch the Oscars &lpar;2026&rpar;](https://www.wired.com/story/how-to-watch-the-oscars-2026/)<!-- TECH:END -->
+ - [Perplexity&amp;#8217;s Personal Computer turns your spare Mac into an AI agent](https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent)
+ - [JBL’s new party speaker comes with a karaoke mic that helps you hit those high notes](https://www.theverge.com/tech/890868/jbl-partybox-on-the-go-2-bluetooth-speaker-wireless-easysing-mic)
+ - [Israeli startup Onyx Security, which helps secure and manage AI agents&#39; operational risks, raised a $35M Series A led by Conviction, after a $5M seed in 2024 &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260312/p21#a260312p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
