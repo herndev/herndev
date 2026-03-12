@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Buy gold](http://9gag.com/gag/aE04Gjo)
- - ⏩ [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
- - 👉 [Parry!](http://9gag.com/gag/awyp7Zy)<!-- MEMES:END -->
+ - 💣 [Some day...](http://9gag.com/gag/aQzj4m7)
+ - ⏩ [Who cares](http://9gag.com/gag/aBye3px)
+ - 👉 [Meme origins](http://9gag.com/gag/agmevjx)<!-- MEMES:END -->
 
 ---
 
