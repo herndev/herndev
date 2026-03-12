@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
- - ⏩ [Locked in](http://9gag.com/gag/aXPOpV2)
- - 👉 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)<!-- MEMES:END -->
+ - 💣 [Buy gold](http://9gag.com/gag/aE04Gjo)
+ - ⏩ [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
+ - 👉 [Parry!](http://9gag.com/gag/awyp7Zy)<!-- MEMES:END -->
 
 ---
 
