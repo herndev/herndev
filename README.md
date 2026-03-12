@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Amazon pushes employees to integrate AI across their workload despite their concerns that the company&#39;s &quot;half-baked&quot; tools are creating more work &lpar;Varsha Bansal/The Guardian&rpar;](http://www.techmeme.com/260312/p9#a260312p9)
- - [Apple&#39;s MacBook Neo validates a vision that began with Windows on ARM, which to this day is still held back by Microsoft&#39;s commitment to x86 compatibility &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/260312/p8#a260312p8)
- - [IDC: Motorola holds 50% of the foldable market in the US and 55% in Latin America, ahead of Samsung and Google; Motorola only holds 13% of the European market &lpar;Will Sattelberg/9to5Google&rpar;](http://www.techmeme.com/260312/p7#a260312p7)<!-- TECH:END -->
+ - [Mastercard unveils a Crypto Partner Program with 85+ companies, including Binance, PayPal, and Ripple, to link blockchain tech with its payments infrastructure &lpar;CoinDesk&rpar;](http://www.techmeme.com/260312/p10#a260312p10)
+ - [Want to spend under $100 on a gaming handheld? MagicX has a new one you should keep an eye on](https://www.androidauthority.com/magicx-two-dream-light-pro-specs-3648572/)
+ - [How Amazon pushes employees to integrate AI across their workload despite their concerns that the company&#39;s &quot;half-baked&quot; tools are creating more work &lpar;Varsha Bansal/The Guardian&rpar;](http://www.techmeme.com/260312/p9#a260312p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
