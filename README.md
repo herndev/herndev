@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Chrome is coming to Arm-powered Linux devices later this year](https://www.theverge.com/tech/894095/google-chrome-for-arm-linux)
- - [Sources: Amazon plans to move its Prime Day sale from July to late June; the shift affects its financial reporting, with event sales coming in Q2 rather than Q3 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260312/p51#a260312p51)
- - [Samsung’s new tool wants to fix Android gaming’s biggest headache](https://www.androidauthority.com/samsung-sokatoa-multi-frame-gpu-profiler-3648819/)<!-- TECH:END -->
+ - [Grab Amazon&#39;s first material discounts on M5 Pro &amp; M5 Max MacBook Pros](https://appleinsider.com/articles/26/03/12/grab-amazons-first-material-discounts-on-m5-pro-m5-max-macbook-pros?utm_source=rss)
+ - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
+ - [New Sassy Personality Style for Alexa Plus Brings Sarcasm and Swear Words](https://www.cnet.com/tech/services-and-software/sassy-personality-amazon-alexa/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
