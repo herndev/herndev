@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Do it yourself](http://9gag.com/gag/a1m6ZKv)
  - ⏩ [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
- - 👉 [Locked in](http://9gag.com/gag/aXPOpV2)<!-- MEMES:END -->
+ - 👉 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)<!-- MEMES:END -->
 
 ---
 
