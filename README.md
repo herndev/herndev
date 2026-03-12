@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)
- - ⏩ [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
- - 👉 [`In the beginning, there was 8 bit`](http://9gag.com/gag/aD2vweN)<!-- MEMES:END -->
+ - 💣 [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
+ - ⏩ [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 👉 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)<!-- MEMES:END -->
 
 ---
 
