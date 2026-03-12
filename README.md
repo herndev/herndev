@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home users say devices are randomly being removed, and a possible link is emerging](https://www.androidauthority.com/google-home-devices-disappearing-smartlife-3648757/)
- - [US Lawmakers Move to Kill the FBI’s Warrantless Wiretap Access](https://www.wired.com/story/us-lawmakers-move-to-kill-the-fbis-warrantless-wiretap-access/)
- - [Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages](https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings)<!-- TECH:END -->
+ - [What it was like to watch grieving parents stare down Mark Zuckerberg in court](https://www.theverge.com/policy/893930/social-media-addiction-trial-los-angeles-zuckerberg-instagram-youtube)
+ - [PayPay shares jump 19% in their Nasdaq debut after the company&#39;s $879.8M US IPO, the biggest listing by a Japanese company on a US stock exchange in a decade &lpar;Georgie McKay/Bloomberg&rpar;](http://www.techmeme.com/260312/p46#a260312p46)
+ - [The original AirTag is the cheapest it’s ever been](https://www.theverge.com/gadgets/894007/apple-airtag-first-generation-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
