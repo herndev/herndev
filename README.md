@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just look look at the size](http://9gag.com/gag/amoZLyv)
- - ⏩ [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
- - 👉 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)<!-- MEMES:END -->
+ - 💣 [Locked in](http://9gag.com/gag/aXPOpV2)
+ - ⏩ [Meme origins](http://9gag.com/gag/agmevjx)
+ - 👉 [What&#39;s your emegency?](http://9gag.com/gag/aW4XWdn)<!-- MEMES:END -->
 
 ---
 
