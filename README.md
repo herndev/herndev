@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEC filing: Oracle sets aside an additional $500M for restructuring, bringing FY total to $2.1B, as it prepares to cut jobs and hails efficiencies from AI tools &lpar;Financial Times&rpar;](http://www.techmeme.com/260312/p2#a260312p2)
- - [Security researchers broke into a MediaTek-powered Nothing phone in just 45 seconds](https://www.androidauthority.com/mediatek-chip-vulnerability-3648555/)
- - [Uber partners with Nissan and Wayve to offer robotaxi services in Tokyo, its first autonomous-vehicle partnership in Japan, with a pilot planned for late 2026 &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/260312/p1#a260312p1)<!-- TECH:END -->
+ - [Apple updates iOS and iPadOS for older devices, including iPhone 6s, iPad Air 2, and iPod touch &lpar;7th gen&rpar;, to address the Coruna exploit disclosed last week &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/260312/p5#a260312p5)
+ - [Galaxy S26 Ultra teardown shows Samsung’s clever new telephoto camera up close](https://www.androidauthority.com/samsung-galaxy-s26-ultra-teardown-3648568/)
+ - [Sources: India is drafting new smartphone manufacturing incentives linking subsidies to exports and greater use of local components, benefiting Apple and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/260312/p4#a260312p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
