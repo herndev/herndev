@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is our climate](http://9gag.com/gag/aAy9ryE)
- - ⏩ [Why you got to go say something so controversial? Now you got me arguing with myself both sides of the point What an Asshole](http://9gag.com/gag/aGyQwRK)
- - 👉 [These Netflix adaptations are wild](http://9gag.com/gag/aE041LK)<!-- MEMES:END -->
+ - 💣 [Weird trend in Europa](http://9gag.com/gag/aD2vwWG)
+ - ⏩ [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 👉 [Meme origins](http://9gag.com/gag/agmevjx)<!-- MEMES:END -->
 
 ---
 
