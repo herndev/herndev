@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Locked in](http://9gag.com/gag/aXPOpV2)
- - ⏩ [Johnny is a bad b*tch](http://9gag.com/gag/aXPOE6g)
- - 👉 [`In the beginning, there was 8 bit`](http://9gag.com/gag/aD2vweN)<!-- MEMES:END -->
+ - 💣 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
+ - ⏩ [Buy gold](http://9gag.com/gag/aE04Gjo)
+ - 👉 [The ants feel the wrath of the elephant king.](http://9gag.com/gag/aQzj4D2)<!-- MEMES:END -->
 
 ---
 
