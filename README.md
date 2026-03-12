@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Usually $230, this Anker Prime Power Bank is only $125](https://www.androidauthority.com/anker-prime-power-bank-26k-300w-deal-3-3648497/)
- - [Superhuman faces a proposed class action lawsuit from Julia Angwin, founder of The Markup, alleging Grammarly&#39;s Expert Review tool involved &quot;misappropriation&quot; &lpar;Miles Klee/Wired&rpar;](http://www.techmeme.com/260311/p54#a260311p54)
- - [Samsung Galaxy S26 series deals: You can still get a free gift card!](https://www.androidauthority.com/samsung-galaxy-s26-plus-ultra-free-gift-card-deals-3648498/)<!-- TECH:END -->
+ - [Atlassian is cutting 10% of its workforce, or ~1,600 jobs, to fund investment in AI and enterprise sales; filing: the cuts will incur $225M-$236M in charges &lpar;CNBC&rpar;](http://www.techmeme.com/260311/p58#a260311p58)
+ - [Latest iOS 15 &amp; iOS 16 updates target Coruna exploit affecting older devices](https://appleinsider.com/articles/26/03/12/latest-ios-15-ios-16-updates-target-coruna-exploit-affecting-older-devices?utm_source=rss)
+ - [Sources: Cursor is in early talks to raise billions in a new funding round at a post-money valuation of up to $60B; one source puts the round size at $5B &lpar;Tom Dotan/Newcomer&rpar;](http://www.techmeme.com/260311/p57#a260311p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
