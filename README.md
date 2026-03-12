@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms: Free-to-play demos are coming to Play Store games](https://www.androidauthority.com/google-play-pc-3648159/)
- - [One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature](https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin)
- - [Source: Microsoft is in advanced talks to lease hundreds of MWs of data center capacity in Abilene, TX, after Oracle abandoned its expansion plans at the site &lpar;The Information&rpar;](http://www.techmeme.com/260311/p53#a260311p53)<!-- TECH:END -->
+ - [Usually $230, this Anker Prime Power Bank is only $125](https://www.androidauthority.com/anker-prime-power-bank-26k-300w-deal-3-3648497/)
+ - [Superhuman faces a proposed class action lawsuit from Julia Angwin, founder of The Markup, alleging Grammarly&#39;s Expert Review tool involved &quot;misappropriation&quot; &lpar;Miles Klee/Wired&rpar;](http://www.techmeme.com/260311/p54#a260311p54)
+ - [Samsung Galaxy S26 series deals: You can still get a free gift card!](https://www.androidauthority.com/samsung-galaxy-s26-plus-ultra-free-gift-card-deals-3648498/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
