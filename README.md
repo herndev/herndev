@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - ⏩ [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
+ - 💣 [Not all heroes wear capes. Some wear orange shorts and drag you back for more](http://9gag.com/gag/an7o1wV)
+ - ⏩ [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
  - 👉 [A boy learned a valuable lesson after fafoing.](http://9gag.com/gag/ae9B6wm)<!-- MEMES:END -->
 
 ---
