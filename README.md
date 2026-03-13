@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Funhouse: Tobe Hooper&#39;s underrated slasher deserves another look](https://www.polygon.com/tobe-hooper-funhouse-45th-anniversary/)
- - [ID@Xbox at GDC 2026: Indie Developers at the Heart of Great Games](https://news.xbox.com/en-us/2026/03/13/idxbox-gdc-2026-indie-developers-at-the-heart-of-great-games/)
- - [It&#39;s been 25 years since my jaw first dropped at 3DMark2001&#39;s Nature test but hoo boy, have 3D graphics changed since then](https://www.pcgamer.com/hardware/graphics-cards/its-been-25-years-since-my-jaw-first-dropped-at-3dmark2001s-nature-test-but-hoo-boy-have-3d-graphics-changed-since-then/)<!-- GAME:END -->
+ - [Pokémon Pokopia Habitat Dex list and requirements](https://www.polygon.com/pokemon-pokopia-habitat-dex-list-requirements-unlock/)
+ - [Arc Raiders Has Started Replacing AI Voices With Human Ones Which CEO Admits Are Better](https://kotaku.com/arc-raiders-replaced-ai-generated-content-human-recorded-dialogue-voices-2000678774)
+ - [Amidst high profile live service failures, Arc Raiders production director says he hopes other studios are &#39;given the same chance we had, because it&#39;s so hard to put a game out&#39;](https://www.pcgamer.com/gaming-industry/amidst-high-profile-live-service-failures-arc-raiders-production-director-says-he-hopes-other-studios-are-given-the-same-chance-we-had-because-its-so-hard-to-put-a-game-out/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
