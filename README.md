@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
+ - 💣 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
  - ⏩ [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
- - 👉 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)<!-- MEMES:END -->
+ - 👉 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)<!-- MEMES:END -->
 
 ---
 
