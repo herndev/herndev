@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
- - ⏩ [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
- - 👉 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)<!-- MEMES:END -->
+ - 💣 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
+ - ⏩ [Every alcoholics dream](http://9gag.com/gag/a6ZR7v8)
+ - 👉 [I don&#39;t know how to express such a beautiful feeling](http://9gag.com/gag/a4P0jQv)<!-- MEMES:END -->
 
 ---
 
