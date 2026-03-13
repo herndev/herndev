@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - ⏩ [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
+ - 💣 [The missing element](http://9gag.com/gag/avyjPqW)
+ - ⏩ [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
  - 👉 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)<!-- MEMES:END -->
 
 ---
