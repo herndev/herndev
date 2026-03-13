@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China approves the market launch of an invasive BCI system that helps restore hand movement, the world&#39;s first approval of such a device for commercial use &lpar;Reuters&rpar;](http://www.techmeme.com/260313/p3#a260313p3)
- - [The iPhone Fold could be far more popular than all Samsung’s foldables combined in 2026](https://www.androidauthority.com/apple-iphone-fold-sales-samsung-shipments-3648875/)
- - [I love YouTube, but these unskippable 30-second ads are my breaking point](https://www.androidauthority.com/youtube-unskippable-ads-breaking-point-3648646/)<!-- TECH:END -->
+ - [The dbrand Grip is the only case I want to use with my Galaxy Z Fold 7](https://www.androidauthority.com/dbrand-grip-fold-7-3647294/)
+ - [The Shingles Virus May Be Aging You More Quickly](https://www.wired.com/story/shingles-virus-aging/)
+ - [Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans](https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
