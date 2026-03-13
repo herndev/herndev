@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally a company that understands employee needs](http://9gag.com/gag/a5QYK5g)
- - ⏩ [The YouTube looked like this 20 years ago... motherfu...](http://9gag.com/gag/aRBpeeq)
- - 👉 [Locked in](http://9gag.com/gag/aXPOpV2)<!-- MEMES:END -->
+ - 💣 [Moon Daphnis causing a rift in Saturn&#39;s rings](http://9gag.com/gag/aYQ0wV7)
+ - ⏩ [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 👉 [The ants feel the wrath of the elephant king.](http://9gag.com/gag/aQzj4D2)<!-- MEMES:END -->
 
 ---
 
