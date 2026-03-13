@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Backbone’s versatile pro controller is nearly matching its best price to date](https://www.theverge.com/gadgets/893862/backbone-pro-mobile-controller-cmf-watch-3-deal-sale)
- - [Adobe will pay $75 million to settle US cancellation fee lawsuit](https://www.theverge.com/tech/894555/adobe-75-million-doj-settlement-subscriptions)
- - [Sources: Travis Kalanick prepares to launch a self-driving car company with backing from Uber and has been discussing acquiring Anthony Levandowski&#39;s Pronto.ai &lpar;Jessica E. Lessin/The Information&rpar;](http://www.techmeme.com/260313/p14#a260313p14)<!-- TECH:END -->
+ - [Save $200 on the Google Pixel 10! &lpar;In case you missed the Pixel 10a deals!&rpar;](https://www.androidauthority.com/google-pixel-10-deal-2-3649067/)
+ - [Best Dreo Spring Sale Deals: Air Fryer, Heater, Fans](https://www.wired.com/story/dreo-spring-sale-deals-dreo-chefmaker/)
+ - [OPPO leak may have revealed details on Find X9s and a flagship tablet](https://www.androidauthority.com/oppo-tablet-and-compact-phone-details-3649033/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
