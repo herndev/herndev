@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe begrudgingly admits defeat, agrees to pay $150m over confusing cancellation fees](https://appleinsider.com/articles/26/03/13/adobe-begrudgingly-admits-defeat-agrees-to-pay-150m-over-confusing-cancellation-fees?utm_source=rss)
- - [Travis Kalanick renames CloudKitchens&#39; parent company as Atoms, focused on creating &quot;gainfully employed robots&quot; for the food, mining, and transport industries &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260313/p17#a260313p17)
- - [Instagram is getting rid of end-to-end encrypted DMs that ‘very few’ people used](https://www.theverge.com/tech/894752/instagram-end-to-end-encryption)<!-- TECH:END -->
+ - [Sources: Mirendil, founded by former Anthropic researchers to develop AI models for scientific research, is in talks to raise $175M at a $1B valuation &lpar;The Information&rpar;](http://www.techmeme.com/260313/p20#a260313p20)
+ - [Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year](https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles)
+ - [Trump Mobile is just one in the crowd of conservative carriers](https://www.theverge.com/tech/894762/trump-mobile-conservative-mvno-radiant-patriot-puretalk-charity-liberty)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
