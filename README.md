@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alex Karp says AI disrupts the economic power of &quot;humanities-trained, largely Democratic voters&quot; and strengthens that of &quot;working-class, often male voters&quot; &lpar;Kelby Vera/HuffPost&rpar;](http://www.techmeme.com/260313/p2#a260313p2)
  - [Your Pixel just lost a handy Recents trick in the March update](https://www.androidauthority.com/pixel-recent-apps-change-match-android-16-qpr3-update-3648848/)
- - [Docs: Binance investigators found accounts, including those of VIP Chinese traders and a suspected Iranian gold smuggler, helped move $1B to Iran-linked groups &lpar;Fortune&rpar;](http://www.techmeme.com/260313/p1#a260313p1)
- - [Source: the perpetrators of a wiper attack on Stryker appear to have used Microsoft Intune to issue a &quot;remote wipe&quot; command against all connected devices &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/260312/p65#a260312p65)<!-- TECH:END -->
+ - [Docs: Binance investigators found accounts, including those of VIP Chinese traders and a suspected Iranian gold smuggler, helped move $1B to Iran-linked groups &lpar;Fortune&rpar;](http://www.techmeme.com/260313/p1#a260313p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
