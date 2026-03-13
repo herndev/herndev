@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
- - ⏩ [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
+ - 💣 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
+ - ⏩ [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
  - 👉 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)<!-- MEMES:END -->
 
 ---
