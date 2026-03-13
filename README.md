@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Mirendil, founded by former Anthropic researchers to develop AI models for scientific research, is in talks to raise $175M at a $1B valuation &lpar;The Information&rpar;](http://www.techmeme.com/260313/p20#a260313p20)
- - [Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year](https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles)
- - [Trump Mobile is just one in the crowd of conservative carriers](https://www.theverge.com/tech/894762/trump-mobile-conservative-mvno-radiant-patriot-puretalk-charity-liberty)<!-- TECH:END -->
+ - [Samsung is now selling a Qi2 power bank that won’t get in the way of the S26’s cameras](https://www.androidauthority.com/samsung-magnet-wireless-battery-pack-on-sale-3649162/)
+ - [Spotify tests letting users directly customize their Taste Profile](https://www.theverge.com/entertainment/894753/spotify-taste-profile)
+ - [Digg announces a &quot;hard reset&quot; and shuts down operations two months after it was relaunched by Kevin Rose and Alexis Ohanian, citing the scale of AI bot spam &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/260313/p22#a260313p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
