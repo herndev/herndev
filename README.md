@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is now selling a Qi2 power bank that won’t get in the way of the S26’s cameras](https://www.androidauthority.com/samsung-magnet-wireless-battery-pack-on-sale-3649162/)
- - [Spotify tests letting users directly customize their Taste Profile](https://www.theverge.com/entertainment/894753/spotify-taste-profile)
- - [Digg announces a &quot;hard reset&quot; and shuts down operations two months after it was relaunched by Kevin Rose and Alexis Ohanian, citing the scale of AI bot spam &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/260313/p22#a260313p22)<!-- TECH:END -->
+ - [Amazon wins its appeal against a €746M GDPR fine imposed by Luxembourg&#39;s privacy watchdog after a court finds the watchdog had not properly done its analysis &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260313/p24#a260313p24)
+ - [Sources: the Trump administration is set to receive a ~$10B fee from investors in TikTok&#39;s US business for the government&#39;s role in brokering the TikTok US deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260313/p23#a260313p23)
+ - [States’ anti-monopoly case against Live Nation continues Monday](https://www.theverge.com/policy/894851/states-live-nation-monopoly-trial)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
