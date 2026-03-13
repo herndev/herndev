@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best new game previews of GDC 2026: At Fate&#39;s End, Mina the Hollower, and more](https://www.polygon.com/best-games-gdc-2026/)
- - [Major copper foil supplier raises prices by 12%, potentially ushering in a fresh wave of spikey prices for PCBs and plenty of PC components besides](https://www.pcgamer.com/hardware/major-copper-foil-supplier-raises-prices-by-12-percent-potentially-ushering-in-a-fresh-wave-of-spikey-prices-for-pcbs-and-plenty-of-pc-components-besides/)
- - [Fortnite players revolt over V-Bucks changes as Epic devs appeal for calm: &#39;Paying the bills frees up our teams to continue driving stories and building stuff you love&#39;](https://www.pcgamer.com/games/battle-royale/fortnite-players-revolt-over-v-bucks-changes-as-epic-devs-appeal-for-calm-paying-the-bills-frees-up-our-teams-to-continue-driving-stories-and-building-stuff-you-love/)<!-- GAME:END -->
+ - [The Funhouse: Tobe Hooper&#39;s underrated slasher deserves another look](https://www.polygon.com/tobe-hooper-funhouse-45th-anniversary/)
+ - [ID@Xbox at GDC 2026: Indie Developers at the Heart of Great Games](https://news.xbox.com/en-us/2026/03/13/idxbox-gdc-2026-indie-developers-at-the-heart-of-great-games/)
+ - [It&#39;s been 25 years since my jaw first dropped at 3DMark2001&#39;s Nature test but hoo boy, have 3D graphics changed since then](https://www.pcgamer.com/hardware/graphics-cards/its-been-25-years-since-my-jaw-first-dropped-at-3dmark2001s-nature-test-but-hoo-boy-have-3d-graphics-changed-since-then/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
