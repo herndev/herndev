@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Qualified Health, which helps health care organizations assess and orchestrate AI tools, is raising a ~$100M Series A from NEA, SignalFire, and others &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/260312/p58#a260312p58)
- - [F1&#39;s debut race in the 2026 season beat everyone&#39;s expectations, even Apple&#39;s](https://appleinsider.com/articles/26/03/13/f1s-debut-race-in-the-2026-season-beat-everyones-expectations-even-apples?utm_source=rss)
- - [Social media addiction trial: the plaintiff, Meta, and YouTube make closing arguments; jurors begin deliberations Friday on liability for harm to children &lpar;Associated Press&rpar;](http://www.techmeme.com/260312/p57#a260312p57)<!-- TECH:END -->
+ - [A survey of US adults: 75% say they have heard a lot or a little about data centers; 39% say they are bad for the environment, and 38% bad for home energy costs &lpar;Pew Research Center&rpar;](http://www.techmeme.com/260312/p62#a260312p62)
+ - [Developers on AI coding: many show enthusiasm and now feel more like architects than construction workers, some think software jobs might actually grow, more &lpar;Clive Thompson/New York Times&rpar;](http://www.techmeme.com/260312/p61#a260312p61)
+ - [Apple&#39;s App Store in China gets lower 25% commission to appease regulators](https://appleinsider.com/articles/26/03/13/apples-app-store-in-china-gets-lower-25-commission-to-appease-regulators?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
