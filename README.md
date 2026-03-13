@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Only today: This 46% discount on the Anker SOLIX C1000 Gen 2 power station ends tonight!](https://www.androidauthority.com/anker-solix-c1000-gen-2-portable-power-station-deal-3-3648825/)
- - [Sources: Meta delayed the launch of its Avocado model to at least May over performance concerns and discussed temporarily licensing Gemini to power its products &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/260312/p54#a260312p54)
- - [Adobe reports Q1 revenue up 12% YoY to $6.4B, vs. $6.28B est., adjusted EPS above estimates, and forecasts Q2 revenue between $6.43B and $6.48B, vs. $6.43B est. &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260312/p53#a260312p53)<!-- TECH:END -->
+ - [Sources: Qualified Health, which helps health care organizations assess and orchestrate AI tools, is raising a ~$100M Series A from NEA, SignalFire, and others &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/260312/p58#a260312p58)
+ - [F1&#39;s debut race in the 2026 season beat everyone&#39;s expectations, even Apple&#39;s](https://appleinsider.com/articles/26/03/13/f1s-debut-race-in-the-2026-season-beat-everyones-expectations-even-apples?utm_source=rss)
+ - [Social media addiction trial: the plaintiff, Meta, and YouTube make closing arguments; jurors begin deliberations Friday on liability for harm to children &lpar;Associated Press&rpar;](http://www.techmeme.com/260312/p57#a260312p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
