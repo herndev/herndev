@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
- - ⏩ [Every alcoholics dream](http://9gag.com/gag/a6ZR7v8)
- - 👉 [I don&#39;t know how to express such a beautiful feeling](http://9gag.com/gag/a4P0jQv)<!-- MEMES:END -->
+ - ⏩ [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
+ - 👉 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)<!-- MEMES:END -->
 
 ---
 
