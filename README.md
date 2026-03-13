@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Journey composer Austin Wintory played an unreleased song from his canceled &#39;dream job of all time&#39; during the Game Developers Choice Awards, just to drive home that the industry&#39;s doing great](https://www.pcgamer.com/gaming-industry/journey-composer-austin-wintory-played-an-unreleased-song-from-his-canceled-dream-job-of-all-time-during-the-game-developers-choice-awards-just-to-drive-home-that-the-industrys-doing-great/)
  - [Xbox Is Marching Forward With AI Features But Says It Wants To Protect Content Creators](https://kotaku.com/xbox-copilot-rog-ally-ai-microsoft-2000678483)
- - [Two laugh-out-loud moments in Zero Parades gave me hope that the Disco Elysium successor will still deliver flashes of brilliance](https://www.pcgamer.com/games/rpg/two-laugh-out-loud-moments-in-zero-parades-gave-me-hope-that-the-disco-elysium-successor-will-still-deliver-flashes-of-brilliance/)
- - [Former EVE Online developers are building a society simulation MMO where your character keeps playing even after you log off](https://www.pcgamer.com/games/mmo/former-eve-online-developers-are-building-a-society-simulation-mmo-where-your-character-keeps-playing-even-after-you-log-off/)<!-- GAME:END -->
+ - [Two laugh-out-loud moments in Zero Parades gave me hope that the Disco Elysium successor will still deliver flashes of brilliance](https://www.pcgamer.com/games/rpg/two-laugh-out-loud-moments-in-zero-parades-gave-me-hope-that-the-disco-elysium-successor-will-still-deliver-flashes-of-brilliance/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
