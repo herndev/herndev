@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe agrees to pay $75M to resolve a US government lawsuit accusing it of concealing hefty termination fees and making it difficult to cancel subscriptions &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260313/p9#a260313p9)
- - [The Iran War Is Throwing Global Shipping Into Chaos](https://www.wired.com/story/iran-war-global-supply-chain-chaos/)
- - [This 3-in-1 Pixel dock swaps wireless charging for something much more reliable](https://www.androidauthority.com/wasserstein-3-in-1-charging-dock-for-pixels-3648956/)<!-- TECH:END -->
+ - [Sources: Elon Musk pushed out two more xAI co-founders after getting frustrated with xAI&#39;s coding product progress and brought in &quot;fixers&quot; from SpaceX and Tesla &lpar;Financial Times&rpar;](http://www.techmeme.com/260313/p10#a260313p10)
+ - [Amazon Prime Video&amp;#8217;s ad-free plan is getting a price hike](https://www.theverge.com/tech/894466/amazon-prime-video-ultra-ad-free-price-hike)
+ - [Higher Jet Fuel Prices Could Melt Your Summer Travel Plans](https://www.wired.com/story/higher-jet-fuel-prices-could-melt-your-summer-travel-plans/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
