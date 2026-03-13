@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
- - ⏩ [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
+ - 💣 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
+ - ⏩ [Probably being disappointed](http://9gag.com/gag/avyjnNn)
  - 👉 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)<!-- MEMES:END -->
 
 ---
