@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 Beta 2 starts clamping down on apps that misuse accessibility services](https://www.androidauthority.com/android-17-beta-2-advanced-protection-mode-accessibility-apps-3648860/)
- - [Samsung phones can now tell you which apps work beyond cell towers and Wi-Fi](https://www.androidauthority.com/samsung-satellite-ready-apps-3648855/)
- - [Alex Karp says AI disrupts the economic power of &quot;humanities-trained, largely Democratic voters&quot; and strengthens that of &quot;working-class, often male voters&quot; &lpar;Kelby Vera/HuffPost&rpar;](http://www.techmeme.com/260313/p2#a260313p2)<!-- TECH:END -->
+ - [China approves the market launch of an invasive BCI system that helps restore hand movement, the world&#39;s first approval of such a device for commercial use &lpar;Reuters&rpar;](http://www.techmeme.com/260313/p3#a260313p3)
+ - [The iPhone Fold could be far more popular than all Samsung’s foldables combined in 2026](https://www.androidauthority.com/apple-iphone-fold-sales-samsung-shipments-3648875/)
+ - [I love YouTube, but these unskippable 30-second ads are my breaking point](https://www.androidauthority.com/youtube-unskippable-ads-breaking-point-3648646/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
