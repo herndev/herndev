@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
- - ⏩ [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
- - 👉 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)<!-- MEMES:END -->
+ - 💣 [Probably being disappointed](http://9gag.com/gag/avyjnNn)
+ - ⏩ [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
+ - 👉 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)<!-- MEMES:END -->
 
 ---
 
