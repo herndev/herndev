@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of US adults: 75% say they have heard a lot or a little about data centers; 39% say they are bad for the environment, and 38% bad for home energy costs &lpar;Pew Research Center&rpar;](http://www.techmeme.com/260312/p62#a260312p62)
- - [Developers on AI coding: many show enthusiasm and now feel more like architects than construction workers, some think software jobs might actually grow, more &lpar;Clive Thompson/New York Times&rpar;](http://www.techmeme.com/260312/p61#a260312p61)
- - [Apple&#39;s App Store in China gets lower 25% commission to appease regulators](https://appleinsider.com/articles/26/03/13/apples-app-store-in-china-gets-lower-25-commission-to-appease-regulators?utm_source=rss)<!-- TECH:END -->
+ - [Sources: ByteDance is working with Aolani Cloud to deploy 500 Nvidia Blackwell systems in Malaysia, featuring ~36,000 B200 chips and likely costing over $2.5B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260312/p64#a260312p64)
+ - [The European Commission says &quot;X has submitted remedies in relation to its blue check mark&quot; in the EU and the commission will &quot;assess&quot; the proposed remedies &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/260312/p63#a260312p63)
+ - [A survey of US adults: 75% say they have heard a lot or a little about data centers; 39% say they are bad for the environment, and 38% bad for home energy costs &lpar;Pew Research Center&rpar;](http://www.techmeme.com/260312/p62#a260312p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
