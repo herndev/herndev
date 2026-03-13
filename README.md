@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The plot twist no one saw coming](http://9gag.com/gag/a4P0Y41)
- - ⏩ [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
- - 👉 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)<!-- MEMES:END -->
+ - 💣 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
+ - ⏩ [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
+ - 👉 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)<!-- MEMES:END -->
 
 ---
 
