@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The dbrand Grip is the only case I want to use with my Galaxy Z Fold 7](https://www.androidauthority.com/dbrand-grip-fold-7-3647294/)
- - [The Shingles Virus May Be Aging You More Quickly](https://www.wired.com/story/shingles-virus-aging/)
- - [Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans](https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/)<!-- TECH:END -->
+ - [STMicro plans to retrain workers and deploy humanoid robots in its older chip plants for repetitive and physically demanding tasks, aiming to avoid closures &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/260313/p5#a260313p5)
+ - [Logitech K98M Wireless Keyboard Review: Great for Productivity](https://www.wired.com/review/logitech-k98m-wireless/)
+ - [Gamers’ Worst Nightmares About AI Are Coming True](https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
