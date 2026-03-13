@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The ants feel the wrath of the elephant king.](http://9gag.com/gag/aQzj4D2)
- - ⏩ [Locked in](http://9gag.com/gag/aXPOpV2)
- - 👉 [Mistakes were made that day ...](http://9gag.com/gag/a0e3jjq)<!-- MEMES:END -->
+ - 💣 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
+ - ⏩ [The missing element](http://9gag.com/gag/avyjPqW)
+ - 👉 [Locked in](http://9gag.com/gag/aXPOpV2)<!-- MEMES:END -->
 
 ---
 
