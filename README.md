@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toss Your Not-Quite-Clean Clothes on Simone Giertz’s Laundry Chair](https://www.wired.com/story/simone-giertz-laundry-chair/)
- - [Peacock is adding an AI Andy Cohen to narrate an endless stream of Bravo clips](https://www.theverge.com/streaming/894128/peacock-nbcuniversal-ai-andy-cohen-bravo)
- - [Peacock’s NBA streams are going vertical](https://www.theverge.com/streaming/894152/peacock-live-sports-nba-streams-vertical-mobile)<!-- TECH:END -->
+ - [Adobe agrees to pay $75M to resolve a US government lawsuit accusing it of concealing hefty termination fees and making it difficult to cancel subscriptions &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260313/p9#a260313p9)
+ - [The Iran War Is Throwing Global Shipping Into Chaos](https://www.wired.com/story/iran-war-global-supply-chain-chaos/)
+ - [This 3-in-1 Pixel dock swaps wireless charging for something much more reliable](https://www.androidauthority.com/wasserstein-3-in-1-charging-dock-for-pixels-3648956/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
