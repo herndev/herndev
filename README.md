@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: the perpetrators of a wiper attack on Stryker appear to have used Microsoft Intune to issue a &quot;remote wipe&quot; command against all connected devices &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/260312/p65#a260312p65)
- - [Sources: ByteDance is working with Aolani Cloud to deploy 500 Nvidia Blackwell systems in Malaysia, featuring ~36,000 B200 chips and likely costing over $2.5B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260312/p64#a260312p64)
- - [The European Commission says &quot;X has submitted remedies in relation to its blue check mark&quot; in the EU and the commission will &quot;assess&quot; the proposed remedies &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/260312/p63#a260312p63)<!-- TECH:END -->
+ - [Your Pixel just lost a handy Recents trick in the March update](https://www.androidauthority.com/pixel-recent-apps-change-match-android-16-qpr3-update-3648848/)
+ - [Docs: Binance investigators found accounts, including those of VIP Chinese traders and a suspected Iranian gold smuggler, helped move $1B to Iran-linked groups &lpar;Fortune&rpar;](http://www.techmeme.com/260313/p1#a260313p1)
+ - [Source: the perpetrators of a wiper attack on Stryker appear to have used Microsoft Intune to issue a &quot;remote wipe&quot; command against all connected devices &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/260312/p65#a260312p65)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
