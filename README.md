@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The MacBook Neo is a winner](https://www.theverge.com/podcast/894274/macbook-neo-review-xbox-helix-vergecast)
- - [Google Messages is finally rolling out a fix for its most annoying oversight](https://www.androidauthority.com/google-messages-selective-text-copy-rollout-3648928/)
- - [My Toddler Has a Better Sleep Score Than Me, and I Have the Data to Prove It](https://www.cnet.com/health/toddler-sleep-score-nanit-pro-smart-baby-monitor-oura-ring/)<!-- TECH:END -->
+ - [Toss Your Not-Quite-Clean Clothes on Simone Giertz’s Laundry Chair](https://www.wired.com/story/simone-giertz-laundry-chair/)
+ - [Peacock is adding an AI Andy Cohen to narrate an endless stream of Bravo clips](https://www.theverge.com/streaming/894128/peacock-nbcuniversal-ai-andy-cohen-bravo)
+ - [Peacock’s NBA streams are going vertical](https://www.theverge.com/streaming/894152/peacock-live-sports-nba-streams-vertical-mobile)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
