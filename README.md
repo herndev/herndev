@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Journey composer Austin Wintory played an unreleased song from his canceled &#39;dream job of all time&#39; during the Game Developers Choice Awards, just to drive home that the industry&#39;s doing great](https://www.pcgamer.com/gaming-industry/journey-composer-austin-wintory-played-an-unreleased-song-from-his-canceled-dream-job-of-all-time-during-the-game-developers-choice-awards-just-to-drive-home-that-the-industrys-doing-great/)
- - [Xbox Is Marching Forward With AI Features But Says It Wants To Protect Content Creators](https://kotaku.com/xbox-copilot-rog-ally-ai-microsoft-2000678483)
- - [Two laugh-out-loud moments in Zero Parades gave me hope that the Disco Elysium successor will still deliver flashes of brilliance](https://www.pcgamer.com/games/rpg/two-laugh-out-loud-moments-in-zero-parades-gave-me-hope-that-the-disco-elysium-successor-will-still-deliver-flashes-of-brilliance/)<!-- GAME:END -->
+ - [Best new game previews of GDC 2026: At Fate&#39;s End, Mina the Hollower, and more](https://www.polygon.com/best-games-gdc-2026/)
+ - [Major copper foil supplier raises prices by 12%, potentially ushering in a fresh wave of spikey prices for PCBs and plenty of PC components besides](https://www.pcgamer.com/hardware/major-copper-foil-supplier-raises-prices-by-12-percent-potentially-ushering-in-a-fresh-wave-of-spikey-prices-for-pcbs-and-plenty-of-pc-components-besides/)
+ - [Fortnite players revolt over V-Bucks changes as Epic devs appeal for calm: &#39;Paying the bills frees up our teams to continue driving stories and building stuff you love&#39;](https://www.pcgamer.com/games/battle-royale/fortnite-players-revolt-over-v-bucks-changes-as-epic-devs-appeal-for-calm-paying-the-bills-frees-up-our-teams-to-continue-driving-stories-and-building-stuff-you-love/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
