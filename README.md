@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $200 on the Google Pixel 10! &lpar;In case you missed the Pixel 10a deals!&rpar;](https://www.androidauthority.com/google-pixel-10-deal-2-3649067/)
- - [Best Dreo Spring Sale Deals: Air Fryer, Heater, Fans](https://www.wired.com/story/dreo-spring-sale-deals-dreo-chefmaker/)
- - [OPPO leak may have revealed details on Find X9s and a flagship tablet](https://www.androidauthority.com/oppo-tablet-and-compact-phone-details-3649033/)<!-- TECH:END -->
+ - [Adobe begrudgingly admits defeat, agrees to pay $150m over confusing cancellation fees](https://appleinsider.com/articles/26/03/13/adobe-begrudgingly-admits-defeat-agrees-to-pay-150m-over-confusing-cancellation-fees?utm_source=rss)
+ - [Travis Kalanick renames CloudKitchens&#39; parent company as Atoms, focused on creating &quot;gainfully employed robots&quot; for the food, mining, and transport industries &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260313/p17#a260313p17)
+ - [Instagram is getting rid of end-to-end encrypted DMs that ‘very few’ people used](https://www.theverge.com/tech/894752/instagram-end-to-end-encryption)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
