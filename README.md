@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Elon Musk pushed out two more xAI co-founders after getting frustrated with xAI&#39;s coding product progress and brought in &quot;fixers&quot; from SpaceX and Tesla &lpar;Financial Times&rpar;](http://www.techmeme.com/260313/p10#a260313p10)
- - [Amazon Prime Video&amp;#8217;s ad-free plan is getting a price hike](https://www.theverge.com/tech/894466/amazon-prime-video-ultra-ad-free-price-hike)
- - [Higher Jet Fuel Prices Could Melt Your Summer Travel Plans](https://www.wired.com/story/higher-jet-fuel-prices-could-melt-your-summer-travel-plans/)<!-- TECH:END -->
+ - [Elon Musk says xAI &quot;was not built right first time around, so is being rebuilt from the foundations up&quot; &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/260313/p13#a260313p13)
+ - [Ninja’s star Creami ice cream maker is on sale for $169](https://www.theverge.com/gadgets/894461/ninja-creami-5-in-1-ice-cream-maker-deal-sale)
+ - [AWS plans to deploy Cerebras&#39; Wafer-Scale Engine chip for AI inference functions; AWS will still offer slower, cheaper computing using its Trainium processors &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260313/p12#a260313p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
