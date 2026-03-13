@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch Director Reveals His Next Game And It Looks Like Red Dead Redemption 2 Meets Rust](https://kotaku.com/overwatch-legend-california-jeff-kaplan-steam-2000678096)
- - [Overwatch Director Jeff Kaplan Breaks His Silence On Leaving Blizzard: ‘There Was Too Much Focus On Lets Make Lots Of Money Really Fast’](https://kotaku.com/overwatch-jeff-kaplan-blizzard-pve-leaving-2000678084)
- - [Dawn of War 4 playtesters want the combat to take longer because of how much they enjoy watching it](https://www.pcgamer.com/games/rts/dawn-of-war-4-playtesters-want-the-combat-to-take-longer-because-of-how-much-they-enjoy-watching-it/)<!-- GAME:END -->
+ - [Xbox Is Marching Forward With AI Features But Says It Wants To Protect Content Creators](https://kotaku.com/xbox-copilot-rog-ally-ai-microsoft-2000678483)
+ - [Two laugh-out-loud moments in Zero Parades gave me hope that the Disco Elysium successor will still deliver flashes of brilliance](https://www.pcgamer.com/games/rpg/two-laugh-out-loud-moments-in-zero-parades-gave-me-hope-that-the-disco-elysium-successor-will-still-deliver-flashes-of-brilliance/)
+ - [Former EVE Online developers are building a society simulation MMO where your character keeps playing even after you log off](https://www.pcgamer.com/games/mmo/former-eve-online-developers-are-building-a-society-simulation-mmo-where-your-character-keeps-playing-even-after-you-log-off/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
