@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [STMicro plans to retrain workers and deploy humanoid robots in its older chip plants for repetitive and physically demanding tasks, aiming to avoid closures &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/260313/p5#a260313p5)
- - [Logitech K98M Wireless Keyboard Review: Great for Productivity](https://www.wired.com/review/logitech-k98m-wireless/)
- - [Gamers’ Worst Nightmares About AI Are Coming True](https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/)<!-- TECH:END -->
+ - [PC makers are not ready for the MacBook Neo](https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth)
+ - [Google Home users say devices are randomly being removed &lpar;Updated: Google acknowledgment&rpar;](https://www.androidauthority.com/google-home-devices-disappearing-smartlife-3648757/)
+ - [Apple reduces App Store fees in China to ward off regulators](https://www.theverge.com/tech/894306/apple-app-store-fees-china-reduced-antitrust)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
