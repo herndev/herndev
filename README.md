@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PC makers are not ready for the MacBook Neo](https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth)
- - [Google Home users say devices are randomly being removed &lpar;Updated: Google acknowledgment&rpar;](https://www.androidauthority.com/google-home-devices-disappearing-smartlife-3648757/)
- - [Apple reduces App Store fees in China to ward off regulators](https://www.theverge.com/tech/894306/apple-app-store-fees-china-reduced-antitrust)<!-- TECH:END -->
+ - [The MacBook Neo is a winner](https://www.theverge.com/podcast/894274/macbook-neo-review-xbox-helix-vergecast)
+ - [Google Messages is finally rolling out a fix for its most annoying oversight](https://www.androidauthority.com/google-messages-selective-text-copy-rollout-3648928/)
+ - [My Toddler Has a Better Sleep Score Than Me, and I Have the Data to Prove It](https://www.cnet.com/health/toddler-sleep-score-nanit-pro-smart-baby-monitor-oura-ring/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
