@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally a company that understands employee needs](http://9gag.com/gag/a5QYK5g)
- - ⏩ [Moon Daphnis causing a rift in Saturn&#39;s rings](http://9gag.com/gag/aYQ0wV7)
- - 👉 [Locked in](http://9gag.com/gag/aXPOpV2)<!-- MEMES:END -->
+ - 💣 [The ants feel the wrath of the elephant king.](http://9gag.com/gag/aQzj4D2)
+ - ⏩ [Locked in](http://9gag.com/gag/aXPOpV2)
+ - 👉 [Mistakes were made that day ...](http://9gag.com/gag/a0e3jjq)<!-- MEMES:END -->
 
 ---
 
