@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says xAI &quot;was not built right first time around, so is being rebuilt from the foundations up&quot; &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/260313/p13#a260313p13)
- - [Ninja’s star Creami ice cream maker is on sale for $169](https://www.theverge.com/gadgets/894461/ninja-creami-5-in-1-ice-cream-maker-deal-sale)
- - [AWS plans to deploy Cerebras&#39; Wafer-Scale Engine chip for AI inference functions; AWS will still offer slower, cheaper computing using its Trainium processors &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260313/p12#a260313p12)<!-- TECH:END -->
+ - [Backbone’s versatile pro controller is nearly matching its best price to date](https://www.theverge.com/gadgets/893862/backbone-pro-mobile-controller-cmf-watch-3-deal-sale)
+ - [Adobe will pay $75 million to settle US cancellation fee lawsuit](https://www.theverge.com/tech/894555/adobe-75-million-doj-settlement-subscriptions)
+ - [Sources: Travis Kalanick prepares to launch a self-driving car company with backing from Uber and has been discussing acquiring Anthony Levandowski&#39;s Pronto.ai &lpar;Jessica E. Lessin/The Information&rpar;](http://www.techmeme.com/260313/p14#a260313p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
