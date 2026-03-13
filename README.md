@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - ⏩ [Probably being disappointed](http://9gag.com/gag/avyjnNn)
- - 👉 [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)<!-- MEMES:END -->
+ - 💣 [Icelandic jokes](http://9gag.com/gag/a9yGPeo)
+ - ⏩ [Po-tay-toes!](http://9gag.com/gag/abA8Zj9)
+ - 👉 [Matrix becomes reality](http://9gag.com/gag/aRBpeny)<!-- MEMES:END -->
 
 ---
 
