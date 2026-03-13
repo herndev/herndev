@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Locked in](http://9gag.com/gag/aXPOpV2)
- - ⏩ [Meme origins](http://9gag.com/gag/agmevjx)
- - 👉 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)<!-- MEMES:END -->
+ - 💣 [Finally a company that understands employee needs](http://9gag.com/gag/a5QYK5g)
+ - ⏩ [The YouTube looked like this 20 years ago... motherfu...](http://9gag.com/gag/aRBpeeq)
+ - 👉 [Locked in](http://9gag.com/gag/aXPOpV2)<!-- MEMES:END -->
 
 ---
 
