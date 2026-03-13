@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alex Karp says AI disrupts the economic power of &quot;humanities-trained, largely Democratic voters&quot; and strengthens that of &quot;working-class, often male voters&quot; &lpar;Kelby Vera/HuffPost&rpar;](http://www.techmeme.com/260313/p2#a260313p2)
- - [Your Pixel just lost a handy Recents trick in the March update](https://www.androidauthority.com/pixel-recent-apps-change-match-android-16-qpr3-update-3648848/)
- - [Docs: Binance investigators found accounts, including those of VIP Chinese traders and a suspected Iranian gold smuggler, helped move $1B to Iran-linked groups &lpar;Fortune&rpar;](http://www.techmeme.com/260313/p1#a260313p1)<!-- TECH:END -->
+ - [Android 17 Beta 2 starts clamping down on apps that misuse accessibility services](https://www.androidauthority.com/android-17-beta-2-advanced-protection-mode-accessibility-apps-3648860/)
+ - [Samsung phones can now tell you which apps work beyond cell towers and Wi-Fi](https://www.androidauthority.com/samsung-satellite-ready-apps-3648855/)
+ - [Alex Karp says AI disrupts the economic power of &quot;humanities-trained, largely Democratic voters&quot; and strengthens that of &quot;working-class, often male voters&quot; &lpar;Kelby Vera/HuffPost&rpar;](http://www.techmeme.com/260313/p2#a260313p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
