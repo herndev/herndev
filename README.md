@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyone had to do this pose back in the day](http://9gag.com/gag/aoy7pWw)
- - ⏩ [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)
- - 👉 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)<!-- MEMES:END -->
+ - 💣 [When you love studying and academic is your passion](http://9gag.com/gag/an7oBOo)
+ - ⏩ [Mind blown by this Everest fact](http://9gag.com/gag/a87gjBV)
+ - 👉 [Just girls from the 70s](http://9gag.com/gag/aMVLGpV)<!-- MEMES:END -->
 
 ---
 
