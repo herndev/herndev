@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Micron completes the $1.8B acquisition of Powerchip&#39;s DRAM fab in Taiwan, and plans a second fab of similar scale with construction starting by the end of FY26 &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/260315/p13#a260315p13)
- - [OnePlus’ US Community has turned into a ‘ghost town,’ users say](https://www.androidauthority.com/oneplus-us-community-broken-3649210/)
- - [JD.com launches online marketplace Joybuy in the UK, Germany, France, the Netherlands, Belgium, and Luxembourg, as it expands globally to challenge Amazon &lpar;Reuters&rpar;](http://www.techmeme.com/260315/p12#a260315p12)<!-- TECH:END -->
+ - [Sources: Microsoft sidelined some Copilot-branded AI features on Windows 11 after the Recall delay, and shipped some promised features without the Copilot name &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/260316/p4#a260316p4)
+ - [Reliz Ltd., which operates crypto lender BlockFills, files for Chapter 11 bankruptcy, reporting $50M-$100M in estimated assets and $100M-$500M in liabilities &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/260316/p3#a260316p3)
+ - [These 15 Amazon Spring Sale Tech Deals Are Actually Good. WWe Checked the Price History  &lpar;2026&rpar;](https://www.wired.com/story/amazon-spring-sale-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
