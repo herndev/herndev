@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S26 Ultra has a major display flaw that cheap Android phones solved years ago](https://www.androidauthority.com/samsung-galaxy-s26-lack-eye-care-pwm-dimming-3647933/)
- - [‘100 Video Calls Per Day’: Models Are Applying to Be the Face of AI Scams](https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/)
- - [Google, Microsoft, LinkedIn, Meta, Amazon, OpenAI, Adobe, and Match sign a voluntary pledge to share threat intelligence on scammers abusing their services &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260316/p10#a260316p10)<!-- TECH:END -->
+ - [Foxconn reports Q4 revenue up 22% YoY to ~$81B, net profit down 2% YoY to ~$1.4B, below ~$1.9B est., due to a higher tax expense, and a 5.9% gross profit margin &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/260316/p12#a260316p12)
+ - [I made the move to Claude from ChatGPT, and I regret nothing](https://www.androidauthority.com/claude-review-3647651/)
+ - [These Musical Instruments of the Future Sound Weird, Wacky—and Are Easy for Anyone to Play](https://www.wired.com/story/georgia-tech-guthman-musical-instrument-competition-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
