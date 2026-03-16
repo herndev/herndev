@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Witches and glitches are your targets in retro adventure Witchhunter.exe](https://www.pcgamer.com/games/visual-novel/witches-and-glitches-are-your-targets-in-retro-adventure-witchhunter-exe/)
- - [Amy Madigan&#39;s historic Oscars 2026 win echoes Heath Ledger&#39;s Joker](https://www.polygon.com/amy-madigan-oscars-2026-best-supporting-actress/)
- - [Five new Steam games you probably missed &lpar;March 16, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-16-2026/)<!-- GAME:END -->
+ - [Pulsar X3 CrazyLight Mini review](https://www.pcgamer.com/hardware/gaming-mice/pulsar-x3-crazylight-mini-review/)
+ - [Firefly Animated Series In The Works, With Everyone Except Joss Whedon Returning](https://kotaku.com/firefly-sequel-animated-nathan-fillion-joss-whedon-2000678991)
+ - [Witches and glitches are your targets in retro adventure Witchhunter.exe](https://www.pcgamer.com/games/visual-novel/witches-and-glitches-are-your-targets-in-retro-adventure-witchhunter-exe/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
