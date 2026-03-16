@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Waymo co-CEO Tekedra Mawakana on accidents, why autonomous vehicles won&#39;t lead to job losses, plans to license Waymo tech to other companies, and more &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/260315/p11#a260315p11)
- - [Standard Kernel, which is making AI-powered GPU optimization software, raised a $20M seed led by Jump Capital, with General Catalyst and others participating &lpar;Clinton Nwachukwu/Ventureburn&rpar;](http://www.techmeme.com/260315/p10#a260315p10)
- - [Recovered notes from a lobbyist&#39;s phone outline a $5M payment structure tied to Argentine President Milei and other top officials&#39; promotion of the Libra token &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260315/p9#a260315p9)<!-- TECH:END -->
+ - [Micron completes the $1.8B acquisition of Powerchip&#39;s DRAM fab in Taiwan, and plans a second fab of similar scale with construction starting by the end of FY26 &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/260315/p13#a260315p13)
+ - [OnePlus’ US Community has turned into a ‘ghost town,’ users say](https://www.androidauthority.com/oneplus-us-community-broken-3649210/)
+ - [JD.com launches online marketplace Joybuy in the UK, Germany, France, the Netherlands, Belgium, and Luxembourg, as it expands globally to challenge Amazon &lpar;Reuters&rpar;](http://www.techmeme.com/260315/p12#a260315p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
