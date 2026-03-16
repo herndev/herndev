@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s next-gen graphics tech will ruin your favorite game](https://www.polygon.com/nvidia-dlss-5-graphics-ai-filter-resident-evil-requiem-starfield/)
- - [DLSS 5 clearly overwrites game characters with AI beauty standards, but Nvidia says devs have &#39;artistic control&#39;](https://www.pcgamer.com/software/ai/dlss-5-clearly-overwrites-game-characters-with-ai-beauty-standards-but-nvidia-says-devs-have-artistic-control/)
- - [A retired Microsoft engineer is training an AI to master Robotron: 2084, an incredibly difficult arcade game about a robot uprising](https://www.pcgamer.com/software/ai/a-retired-microsoft-engineer-is-training-an-ai-to-master-robotron-2084-an-incredibly-difficult-arcade-game-about-a-robot-uprising/)<!-- GAME:END -->
+ - [Overwatch director says addressing the 5v5 versus 6v6 debates late &#39;cost us trust&#39;: &#39;We should have listened sooner&#39;](https://www.pcgamer.com/games/fps/overwatch-director-says-addressing-the-5v5-versus-6v6-debates-cost-us-trust-we-should-have-listened-sooner/)
+ - [Our idea of Azeroth could have looked very different, because Jeff Kaplan said he &#39;really wanted WoW to be first-person&#39; in its early days: &#39;I argued a lot for that&#39;](https://www.pcgamer.com/games/world-of-warcraft/our-idea-of-azeroth-could-have-looked-very-different-because-jeff-kaplan-said-he-really-wanted-wow-to-be-first-person-in-its-early-days-i-argued-a-lot-for-that/)
+ - [The Week In Games: Finally Going Hands-On With ‘Staggering’ Open-World Showpiece Crimson Desert](https://kotaku.com/march-16-2026-every-game-coming-out-crimson-desert-2000679214)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
