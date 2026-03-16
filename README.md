@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)
+ - 💣 [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)
  - ⏩ [How do you get there?](http://9gag.com/gag/aLnEjrg)
- - 👉 [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)<!-- MEMES:END -->
+ - 👉 [29 years of marriage and he just walks away](http://9gag.com/gag/aLnEgw5)<!-- MEMES:END -->
 
 ---
 
