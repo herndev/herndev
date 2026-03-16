@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
+ - 💣 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)
  - ⏩ [Points and laughs](http://9gag.com/gag/aZZYgqn)
- - 👉 [Girl, you&#39;re thicker than a bowl of oatmeal](http://9gag.com/gag/aMVLA5M)<!-- MEMES:END -->
+ - 👉 [Let a guy have hobbies](http://9gag.com/gag/aqyEbqZ)<!-- MEMES:END -->
 
 ---
 
