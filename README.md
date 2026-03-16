@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The ‘Unhackable’ Xbox One Has Finally Been Hacked, 12 Years After Release](https://kotaku.com/xbox-one-hack-jailbreak-2000679120)
- - [Judge Orders Subnautica 2 Studio CEO To Be Reinstated And Gives Him Control Over Early Access Release](https://kotaku.com/subnautica-2-ted-gill-unknown-worlds-lawsuit-krafton-2000679131)
- - [2D retro Haunted Lands is one of 2026&#39;s hardest video games](https://www.polygon.com/haunted-lands-impressions/)<!-- GAME:END -->
+ - [Lego Batman: Legacy of the Dark Knight&#39;s release date moves up a week](https://www.polygon.com/lego-batman-new-release-date-reverse-delay/)
+ - [Yes, Your Pokémon Are Disappearing In Pokopia And It’s Really Annoying To Get Them Back](https://kotaku.com/pokemon-pokopia-disappearing-despawn-respawn-honey-2000679147)
+ - [Tech creator proves for a second time that AA batteries are not a practical power alternative for your gaming PC](https://www.pcgamer.com/hardware/power-supplies/tech-creator-proves-for-a-second-time-that-aa-batteries-are-not-a-practical-power-alternative-for-your-gaming-pc/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
