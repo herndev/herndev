@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karma is a pumpkin](http://9gag.com/gag/aMVLj2R)
- - ⏩ [Video taken on the Jurassic Park ride at Universal Studios Hollywood in 1997](http://9gag.com/gag/aZZYmAp)
- - 👉 [No cellphones, just 200000 ravers at the Prodigy concert, 1997](http://9gag.com/gag/aYQ0gb7)<!-- MEMES:END -->
+ - 💣 [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
+ - ⏩ [Points and laughs](http://9gag.com/gag/aZZYgqn)
+ - 👉 [Girl, you&#39;re thicker than a bowl of oatmeal](http://9gag.com/gag/aMVLA5M)<!-- MEMES:END -->
 
 ---
 
