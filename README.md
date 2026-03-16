@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;F1: the Movie&#39; is now an Oscar-winning hit](https://appleinsider.com/articles/26/03/16/f1-the-movie-is-now-an-oscar-winning-hit?utm_source=rss)
- - [Memo: Alibaba unveils Alibaba Token Hub, a new AI unit that consolidates research, consumer-facing apps, AI products, and more, as it focuses on monetizing AI &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260316/p16#a260316p16)
- - [Survey suggests Pixel VPN is not nearly as popular as Google would like it to be](https://www.androidauthority.com/pixel-vpn-usage-poll-results-3649246/)<!-- TECH:END -->
+ - [The classic Apple Macintosh mouse inspired Spigen’s retro AirPods case](https://www.theverge.com/tech/893636/spigen-apple-airpods-pro-3-macintosh-magsafe-wallet-retro)
+ - [The Roborock Saros 20 is built to understand the home around it](https://www.androidauthority.com/roborock-saros-20-robot-vacuum-3647380/)
+ - [Your Google Maps cycling trips are about to get a visual upgrade](https://www.androidauthority.com/google-maps-bicycle-navigation-avatar-apk-teardown-3649294/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
