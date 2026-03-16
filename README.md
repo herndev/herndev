@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Points and laughs](http://9gag.com/gag/aZZYgqn)
- - ⏩ [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)
- - 👉 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)<!-- MEMES:END -->
+ - 💣 [Blind woman waits for her husband every day](http://9gag.com/gag/ayNKXKX)
+ - ⏩ [Points and laughs](http://9gag.com/gag/aZZYgqn)
+ - 👉 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)<!-- MEMES:END -->
 
 ---
 
