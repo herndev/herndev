@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The classic Apple Macintosh mouse inspired Spigen’s retro AirPods case](https://www.theverge.com/tech/893636/spigen-apple-airpods-pro-3-macintosh-magsafe-wallet-retro)
- - [The Roborock Saros 20 is built to understand the home around it](https://www.androidauthority.com/roborock-saros-20-robot-vacuum-3647380/)
- - [Your Google Maps cycling trips are about to get a visual upgrade](https://www.androidauthority.com/google-maps-bicycle-navigation-avatar-apk-teardown-3649294/)<!-- TECH:END -->
+ - [Taiwan&#39;s chip sector faces critical supply risks as the island relies on the Middle East for 37% of its LNG and much of its helium and sulfur, amid the Iran war &lpar;Bloomberg&rpar;](http://www.techmeme.com/260316/p20#a260316p20)
+ - [AirPods Max 2 arrive with better ANC, Live Translation, and more](https://appleinsider.com/articles/26/03/16/airpods-max-2-arrive-with-better-anc-live-translation-and-more?utm_source=rss)
+ - [Apple unveils $549 AirPods Max 2, offering an H2 chip, up to 1.5x more effective ANC, studio-quality audio recording, and camera remote, shipping in early April &lpar;Apple&rpar;](http://www.techmeme.com/260316/p19#a260316p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
