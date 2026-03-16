@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Icelandic jokes](http://9gag.com/gag/a9yGPeo)
- - ⏩ [Po-tay-toes!](http://9gag.com/gag/abA8Zj9)
- - 👉 [Matrix becomes reality](http://9gag.com/gag/aRBpeny)<!-- MEMES:END -->
+ - 💣 [Karma is a pumpkin](http://9gag.com/gag/aMVLj2R)
+ - ⏩ [Video taken on the Jurassic Park ride at Universal Studios Hollywood in 1997](http://9gag.com/gag/aZZYmAp)
+ - 👉 [No cellphones, just 200000 ravers at the Prodigy concert, 1997](http://9gag.com/gag/aYQ0gb7)<!-- MEMES:END -->
 
 ---
 
