@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)
- - ⏩ [How do you get there?](http://9gag.com/gag/aLnEjrg)
- - 👉 [29 years of marriage and he just walks away](http://9gag.com/gag/aLnEgw5)<!-- MEMES:END -->
+ - 💣 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)
+ - ⏩ [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
+ - 👉 [How do you get there?](http://9gag.com/gag/aLnEjrg)<!-- MEMES:END -->
 
 ---
 
