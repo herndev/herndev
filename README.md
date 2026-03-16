@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hemp](http://9gag.com/gag/abA8M4O)
- - ⏩ [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
- - 👉 [Where ze Germans heading?](http://9gag.com/gag/an7obmE)<!-- MEMES:END -->
+ - 💣 [Still miss it](http://9gag.com/gag/avyjGwO)
+ - ⏩ [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)
+ - 👉 [Hemp](http://9gag.com/gag/abA8M4O)<!-- MEMES:END -->
 
 ---
 
