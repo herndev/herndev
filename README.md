@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Maker Used Billions Of Images To Train An AI Map Of The World](https://kotaku.com/pokemon-go-ai-map-data-niantic-spatial-delivery-robot-2000679110)
- - [Two Steam games release with the same name and avoid disaster by &#39;acting like human beings&#39;](https://www.polygon.com/steam-games-piece-by-piece-bundle/)
- - [Memento is the key to understanding Christopher Nolan&#39;s obsession with time](https://www.polygon.com/christopher-nolan-memento-25th-anniversary/)<!-- GAME:END -->
+ - [The ‘Unhackable’ Xbox One Has Finally Been Hacked, 12 Years After Release](https://kotaku.com/xbox-one-hack-jailbreak-2000679120)
+ - [Judge Orders Subnautica 2 Studio CEO To Be Reinstated And Gives Him Control Over Early Access Release](https://kotaku.com/subnautica-2-ted-gill-unknown-worlds-lawsuit-krafton-2000679131)
+ - [2D retro Haunted Lands is one of 2026&#39;s hardest video games](https://www.polygon.com/haunted-lands-impressions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
