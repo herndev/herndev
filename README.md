@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon drops Apple&#39;s iPad 11 to $299 with March markdowns](https://appleinsider.com/articles/26/03/16/amazon-drops-apples-ipad-11-to-299-with-march-markdowns?utm_source=rss)
- - [A group of Tennessee teenagers sue xAI, alleging its AI tools were used to create nude images of them by editing photos in which they were clothed &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/260316/p28#a260316p28)
- - [JBL&#39;s Best Wireless Headphones Are $170 Off at Walmart](https://www.wired.com/story/jbl-tour-one-m3-headphones-deal-326/)<!-- TECH:END -->
+ - [Sony&amp;#8217;s AI graphics upscaling for PS5 Pro games is getting a big update tonight](https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill)
+ - [WIRED Article Production automation page/Only for QA/Do not click/Do not publish](https://www.wired.com/story/wired-article-production-automation-page-only-for-qa-do-not-click-do-not-publish/)
+ - [Spotify is getting ready for its debut on smart glasses](https://www.androidauthority.com/spotify-smart-glasses-support-apk-teardown-3649438/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
