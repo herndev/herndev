@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An iPhone is apparently Washington’s most important smartphone](https://www.androidauthority.com/us-president-trump-iphone-white-house-3649228/)
- - [As AI models commodify, Apple&#39;s plans to spend just $14B on 2026 capex, far below hyperscalers&#39; combined $650B, or 90%+ of their cash flow, may be a genius move &lpar;Horace Dediu/Asymco&rpar;](http://www.techmeme.com/260316/p8#a260316p8)
- - [Samsung Wide Fold battery specs leak: There’s good and bad news](https://www.androidauthority.com/samsung-wide-fold-battery-leak-3649232/)<!-- TECH:END -->
+ - [The Galaxy S26 Ultra has a major display flaw that cheap Android phones solved years ago](https://www.androidauthority.com/samsung-galaxy-s26-lack-eye-care-pwm-dimming-3647933/)
+ - [‘100 Video Calls Per Day’: Models Are Applying to Be the Face of AI Scams](https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/)
+ - [Google, Microsoft, LinkedIn, Meta, Amazon, OpenAI, Adobe, and Match sign a voluntary pledge to share threat intelligence on scammers abusing their services &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260316/p10#a260316p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
