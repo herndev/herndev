@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karma is a pumpkin](http://9gag.com/gag/aMVLj2R)
- - ⏩ [Video taken on the Jurassic Park ride at Universal Studios Hollywood in 1997](http://9gag.com/gag/aZZYmAp)
- - 👉 [Tomb Raider](http://9gag.com/gag/ae9BMbm)<!-- MEMES:END -->
+ - 💣 [Hemp](http://9gag.com/gag/abA8M4O)
+ - ⏩ [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - 👉 [Where ze Germans heading?](http://9gag.com/gag/an7obmE)<!-- MEMES:END -->
 
 ---
 
