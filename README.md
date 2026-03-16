@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s best Echo speakers and screens just got their biggest discounts](https://www.theverge.com/gadgets/895201/echo-show-dot-max-studio-amazon-apple-watch-ultra-deal-sale)
- - [Yahoo CEO Jim Lanzone on reviving the web&amp;#8217;s homepage](https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web)
- - [This chair gives half-worn clothes a home](https://www.theverge.com/tech/895194/laundry-chair-kickstarter-simone-giertz)<!-- TECH:END -->
+ - [Google Translate picks up 6 new widgets, ready for your home screen](https://www.androidauthority.com/google-translate-new-widgets-3649397/)
+ - [Apple is the TCS London Marathon Official Performance Technology Product Partner](https://appleinsider.com/articles/26/03/16/apple-is-the-tcs-london-marathon-official-performance-technology-product-partner?utm_source=rss)
+ - [Halcyon, which uses AI to aggregate documents from public utility commissions, energy regulators, and more, raised a $21M Series A led by Energize Capital &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/260316/p25#a260316p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
