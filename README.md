@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boss says we are all in the same boat](http://9gag.com/gag/aqyEKNQ)
- - ⏩ [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
- - 👉 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)<!-- MEMES:END -->
+ - 💣 [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)
+ - ⏩ [King of memes!](http://9gag.com/gag/aMVLZZP)
+ - 👉 [How do you get there?](http://9gag.com/gag/aLnEjrg)<!-- MEMES:END -->
 
 ---
 
