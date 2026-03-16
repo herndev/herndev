@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How do you get there?](http://9gag.com/gag/aLnEjrg)
- - ⏩ [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
- - 👉 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)<!-- MEMES:END -->
+ - 💣 [Video taken on the Jurassic Park ride at Universal Studios Hollywood in 1997](http://9gag.com/gag/aZZYmAp)
+ - ⏩ [Karma is a pumpkin](http://9gag.com/gag/aMVLj2R)
+ - 👉 [Tomb Raider](http://9gag.com/gag/ae9BMbm)<!-- MEMES:END -->
 
 ---
 
