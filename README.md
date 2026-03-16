@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where ze Germans heading?](http://9gag.com/gag/an7obmE)
- - ⏩ [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
+ - 💣 [Boots and a jacket close to Titanic wreck](http://9gag.com/gag/aO8WBV3)
+ - ⏩ [How do you get there?](http://9gag.com/gag/aLnEjrg)
  - 👉 [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)<!-- MEMES:END -->
 
 ---
