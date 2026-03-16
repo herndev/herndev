@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony&amp;#8217;s AI graphics upscaling for PS5 Pro games is getting a big update tonight](https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill)
- - [WIRED Article Production automation page/Only for QA/Do not click/Do not publish](https://www.wired.com/story/wired-article-production-automation-page-only-for-qa-do-not-click-do-not-publish/)
- - [Spotify is getting ready for its debut on smart glasses](https://www.androidauthority.com/spotify-smart-glasses-support-apk-teardown-3649438/)<!-- TECH:END -->
+ - [Nvidia unveils DLSS 5, which uses a real-time neural rendering model to add photorealistic lighting to game frames, arriving this fall to RTX 50-series GPUs &lpar;Richard Leadbetter/Digital Foundry&rpar;](http://www.techmeme.com/260316/p31#a260316p31)
+ - [Save Almost 20 Percent On Our Favorite Portable Bluetooth Speaker](https://www.wired.com/story/tribit-stormbox-miniplus-deal-326/)
+ - [MacBook Neo can be modded to run faster, but you probably shouldn&#39;t](https://appleinsider.com/articles/26/03/16/macbook-neo-can-be-modded-to-run-faster-but-you-probably-shouldnt?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
