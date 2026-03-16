@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite record Galaxy S26 pre-orders, Samsung’s mobile unit is literally in emergency mode](https://www.androidauthority.com/samsung-mobile-division-emergency-management-3649220/)
- - [Sources: Hua Hong is readying a 7nm process at its Shanghai fab with Huawei&#39;s collaboration, which would make it China&#39;s second chipmaker at the node after SMIC &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/260316/p7#a260316p7)
- - [Sources: Alibaba may unveil a Qwen-based AI agent for enterprises as soon as this week, and plans to gradually integrate the agent into its services like Alipay &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260316/p6#a260316p6)<!-- TECH:END -->
+ - [An iPhone is apparently Washington’s most important smartphone](https://www.androidauthority.com/us-president-trump-iphone-white-house-3649228/)
+ - [As AI models commodify, Apple&#39;s plans to spend just $14B on 2026 capex, far below hyperscalers&#39; combined $650B, or 90%+ of their cash flow, may be a genius move &lpar;Horace Dediu/Asymco&rpar;](http://www.techmeme.com/260316/p8#a260316p8)
+ - [Samsung Wide Fold battery specs leak: There’s good and bad news](https://www.androidauthority.com/samsung-wide-fold-battery-leak-3649232/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
