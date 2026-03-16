@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jeff Kaplan Says Complaining About Games You Won’t Play Gets You Ignored: ‘Shut The F*** Up. No One Cares’](https://kotaku.com/jeff-kaplan-overwatch-legend-california-stream-twitch-2000679066)
- - [Grace&#39;s VA in Resident Evil Requiem talks stepping out of Leon&#39;s shadow](https://www.polygon.com/resident-evil-requiem-angela-santalbano-grace-leon-one-liners/)
- - [Marathon Dev Hits Back At Ship Of Theseus Dig, Pointing Out All The Bungie Old Heads Who Still Work There](https://kotaku.com/marathon-bungie-halo-developers-who-worked-on-2000679056)<!-- GAME:END -->
+ - [How many Oscars did Sinners win? It led a huge night for horror](https://www.polygon.com/sinners-how-many-oscars-2026-horror-weapons-kpdh/)
+ - [Marathon dev effortlessly bodies haters who say Bungie&#39;s not the studio that made Halo anymore—rattles off 40 Halo OGs who still work there and says he can list more if you want](https://www.pcgamer.com/games/fps/marathon-dev-effortlessly-bodies-haters-who-say-bungies-not-the-studio-that-made-halo-anymore-rattles-off-40-halo-ogs-who-still-work-there-and-says-he-can-list-more-if-you-want/)
+ - [Invincible season 4 review](https://www.polygon.com/invincible-season-4-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
