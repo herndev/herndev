@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Pokopia Habitat Dex list and requirements](https://www.polygon.com/pokemon-pokopia-habitat-dex-list-requirements-unlock/)
- - [Arc Raiders Has Started Replacing AI Voices With Human Ones Which CEO Admits Are Better](https://kotaku.com/arc-raiders-replaced-ai-generated-content-human-recorded-dialogue-voices-2000678774)
- - [Amidst high profile live service failures, Arc Raiders production director says he hopes other studios are &#39;given the same chance we had, because it&#39;s so hard to put a game out&#39;](https://www.pcgamer.com/gaming-industry/amidst-high-profile-live-service-failures-arc-raiders-production-director-says-he-hopes-other-studios-are-given-the-same-chance-we-had-because-its-so-hard-to-put-a-game-out/)<!-- GAME:END -->
+ - [Amy Madigan&#39;s historic Oscars 2026 win echoes Heath Ledger&#39;s Joker](https://www.polygon.com/amy-madigan-oscars-2026-best-supporting-actress/)
+ - [Five new Steam games you probably missed &lpar;March 16, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-16-2026/)
+ - [Firefly returns as an animated series with controversial creator Joss Whedon&#39;s blessing](https://www.polygon.com/firefly-returns-as-an-animated-series-with-controversial-creator-joss-whedons-blessing/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
