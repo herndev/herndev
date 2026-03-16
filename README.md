@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - 💣 [How do you get there?](http://9gag.com/gag/aLnEjrg)
  - ⏩ [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
- - 👉 [Still miss it](http://9gag.com/gag/avyjGwO)<!-- MEMES:END -->
+ - 👉 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)<!-- MEMES:END -->
 
 ---
 
