@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Translate picks up 6 new widgets, ready for your home screen](https://www.androidauthority.com/google-translate-new-widgets-3649397/)
- - [Apple is the TCS London Marathon Official Performance Technology Product Partner](https://appleinsider.com/articles/26/03/16/apple-is-the-tcs-london-marathon-official-performance-technology-product-partner?utm_source=rss)
- - [Halcyon, which uses AI to aggregate documents from public utility commissions, energy regulators, and more, raised a $21M Series A led by Energize Capital &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/260316/p25#a260316p25)<!-- TECH:END -->
+ - [Amazon drops Apple&#39;s iPad 11 to $299 with March markdowns](https://appleinsider.com/articles/26/03/16/amazon-drops-apples-ipad-11-to-299-with-march-markdowns?utm_source=rss)
+ - [A group of Tennessee teenagers sue xAI, alleging its AI tools were used to create nude images of them by editing photos in which they were clothed &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/260316/p28#a260316p28)
+ - [JBL&#39;s Best Wireless Headphones Are $170 Off at Walmart](https://www.wired.com/story/jbl-tour-one-m3-headphones-deal-326/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
