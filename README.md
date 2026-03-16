@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwan&#39;s chip sector faces critical supply risks as the island relies on the Middle East for 37% of its LNG and much of its helium and sulfur, amid the Iran war &lpar;Bloomberg&rpar;](http://www.techmeme.com/260316/p20#a260316p20)
- - [AirPods Max 2 arrive with better ANC, Live Translation, and more](https://appleinsider.com/articles/26/03/16/airpods-max-2-arrive-with-better-anc-live-translation-and-more?utm_source=rss)
- - [Apple unveils $549 AirPods Max 2, offering an H2 chip, up to 1.5x more effective ANC, studio-quality audio recording, and camera remote, shipping in early April &lpar;Apple&rpar;](http://www.techmeme.com/260316/p19#a260316p19)<!-- TECH:END -->
+ - [Sources: OpenAI is in advanced talks with PE firms including TPG and Advent to form a JV that would distribute its enterprise tools to their portfolio companies &lpar;Reuters&rpar;](http://www.techmeme.com/260316/p22#a260316p22)
+ - [T-Mobile will reportedly offer an upcoming promo that pairs perfectly with its MLB offer](https://www.androidauthority.com/t-mobile-hat-promo-3649362/)
+ - [OnePlus’ US Community has turned into a ‘ghost town,’ users say &lpar;Update: OnePlus is on it&rpar;](https://www.androidauthority.com/oneplus-us-community-broken-3649210/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
