@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)
- - ⏩ [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
- - 👉 [How do you get there?](http://9gag.com/gag/aLnEjrg)<!-- MEMES:END -->
+ - 💣 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - ⏩ [Coco-M\u00f8r: why the French don&#39;t like to speak English](http://9gag.com/gag/amoZ2Mv)
+ - 👉 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)<!-- MEMES:END -->
 
 ---
 
