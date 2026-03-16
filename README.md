@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia unveils DLSS 5, which uses a real-time neural rendering model to add photorealistic lighting to game frames, arriving this fall to RTX 50-series GPUs &lpar;Richard Leadbetter/Digital Foundry&rpar;](http://www.techmeme.com/260316/p31#a260316p31)
- - [Save Almost 20 Percent On Our Favorite Portable Bluetooth Speaker](https://www.wired.com/story/tribit-stormbox-miniplus-deal-326/)
- - [MacBook Neo can be modded to run faster, but you probably shouldn&#39;t](https://appleinsider.com/articles/26/03/16/macbook-neo-can-be-modded-to-run-faster-but-you-probably-shouldnt?utm_source=rss)<!-- TECH:END -->
+ - [iPhone 5 reaches the end of the line as Apple declares it obsolete](https://appleinsider.com/articles/26/03/16/iphone-5-reaches-the-end-of-the-line-as-apple-declares-it-obsolete?utm_source=rss)
+ - [Nvidia announces the Nvidia Groq 3 LPX, an inference server rack featuring 256 Groq 3 LPUs and 128GB of on-chip SRAM, available in H2 2026 &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/260316/p33#a260316p33)
+ - [Apple Watch Series 10 titanium model now $300 off for the first time ahead of Amazon’s next sale](https://www.androidauthority.com/apple-watch-series-10-titanium-deal-3649496/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
