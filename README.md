@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 5 reaches the end of the line as Apple declares it obsolete](https://appleinsider.com/articles/26/03/16/iphone-5-reaches-the-end-of-the-line-as-apple-declares-it-obsolete?utm_source=rss)
- - [Nvidia announces the Nvidia Groq 3 LPX, an inference server rack featuring 256 Groq 3 LPUs and 128GB of on-chip SRAM, available in H2 2026 &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/260316/p33#a260316p33)
- - [Apple Watch Series 10 titanium model now $300 off for the first time ahead of Amazon’s next sale](https://www.androidauthority.com/apple-watch-series-10-titanium-deal-3649496/)<!-- TECH:END -->
+ - [Nvidia unveils Space-1 Vera Rubin for orbital data centers, saying its GPU delivers up to 25x more AI compute for space-based inferencing compared to the H100 &lpar;Sebastian Moss/DatacenterDynamics&rpar;](http://www.techmeme.com/260316/p38#a260316p38)
+ - [US startup Reflection AI is working with South Korea&#39;s Shinsegae Group to build a 250MW data center in South Korea, sources say in a several-billion-dollar deal &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/260316/p37#a260316p37)
+ - [File Your Taxes With TurboTax Full Service Now Before Prices Go Up](https://www.wired.com/story/turbotax-deal-326/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
