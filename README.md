@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MTG&#39;s Dandân Secret Lair sold out in minutes, already reselling for $300](https://www.polygon.com/mtg-dandan-deck-secret-lair-chaos-vault-scalpers/)
- - [How to play on the Schedule 1 beta branch for early access to new updates](https://www.pcgamer.com/games/sim/schedule-1-beta-branch-update/)
- - [Resident Evil Requiem actor had to spend &#39;2 to 3 minutes&#39; audibly dying during her audition, while the casting director threw out surprise instructions: &#39;Now a zombie has bitten your left leg&#39;](https://www.pcgamer.com/games/resident-evil/resident-evil-requiem-actor-had-to-spend-2-to-3-minutes-audibly-dying-during-her-audition-while-the-casting-director-threw-out-surprise-instructions-now-a-zombie-has-bitten-your-left-leg/)<!-- GAME:END -->
+ - [Nvidia&#39;s next-gen graphics tech will ruin your favorite game](https://www.polygon.com/nvidia-dlss-5-graphics-ai-filter-resident-evil-requiem-starfield/)
+ - [DLSS 5 clearly overwrites game characters with AI beauty standards, but Nvidia says devs have &#39;artistic control&#39;](https://www.pcgamer.com/software/ai/dlss-5-clearly-overwrites-game-characters-with-ai-beauty-standards-but-nvidia-says-devs-have-artistic-control/)
+ - [A retired Microsoft engineer is training an AI to master Robotron: 2084, an incredibly difficult arcade game about a robot uprising](https://www.pcgamer.com/software/ai/a-retired-microsoft-engineer-is-training-an-ai-to-master-robotron-2084-an-incredibly-difficult-arcade-game-about-a-robot-uprising/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
