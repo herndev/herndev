@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch director says addressing the 5v5 versus 6v6 debates late &#39;cost us trust&#39;: &#39;We should have listened sooner&#39;](https://www.pcgamer.com/games/fps/overwatch-director-says-addressing-the-5v5-versus-6v6-debates-cost-us-trust-we-should-have-listened-sooner/)
- - [Our idea of Azeroth could have looked very different, because Jeff Kaplan said he &#39;really wanted WoW to be first-person&#39; in its early days: &#39;I argued a lot for that&#39;](https://www.pcgamer.com/games/world-of-warcraft/our-idea-of-azeroth-could-have-looked-very-different-because-jeff-kaplan-said-he-really-wanted-wow-to-be-first-person-in-its-early-days-i-argued-a-lot-for-that/)
- - [The Week In Games: Finally Going Hands-On With ‘Staggering’ Open-World Showpiece Crimson Desert](https://kotaku.com/march-16-2026-every-game-coming-out-crimson-desert-2000679214)<!-- GAME:END -->
+ - [All Monster Hunter Stories 3 mutations and how to get them](https://www.pcgamer.com/games/rpg/all-monster-hunter-stories-3-mutations-and-how-to-get-them/)
+ - [PC Gaming Hardware Maker Calls 2026 ‘Most Challenging Year Ever’ As It Hikes Prices Up To 30 Percent](https://kotaku.com/msi-2026-most-challenging-year-hikes-prices-up-to-30-percent-low-end-gpu-2000679237)
+ - [Overwatch director says addressing the 5v5 versus 6v6 debates late &#39;cost us trust&#39;: &#39;We should have listened sooner&#39;](https://www.pcgamer.com/games/fps/overwatch-director-says-addressing-the-5v5-versus-6v6-debates-cost-us-trust-we-should-have-listened-sooner/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
