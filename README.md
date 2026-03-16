@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How many Oscars did Sinners win? It led a huge night for horror](https://www.polygon.com/sinners-how-many-oscars-2026-horror-weapons-kpdh/)
- - [Marathon dev effortlessly bodies haters who say Bungie&#39;s not the studio that made Halo anymore—rattles off 40 Halo OGs who still work there and says he can list more if you want](https://www.pcgamer.com/games/fps/marathon-dev-effortlessly-bodies-haters-who-say-bungies-not-the-studio-that-made-halo-anymore-rattles-off-40-halo-ogs-who-still-work-there-and-says-he-can-list-more-if-you-want/)
- - [Invincible season 4 review](https://www.polygon.com/invincible-season-4-review/)<!-- GAME:END -->
+ - [Pokémon Go Maker Used Billions Of Images To Train An AI Map Of The World](https://kotaku.com/pokemon-go-ai-map-data-niantic-spatial-delivery-robot-2000679110)
+ - [Two Steam games release with the same name and avoid disaster by &#39;acting like human beings&#39;](https://www.polygon.com/steam-games-piece-by-piece-bundle/)
+ - [Memento is the key to understanding Christopher Nolan&#39;s obsession with time](https://www.polygon.com/christopher-nolan-memento-25th-anniversary/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
