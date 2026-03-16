@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
- - ⏩ [Still miss it](http://9gag.com/gag/avyjGwO)
- - 👉 [Blind woman waits for her husband every day](http://9gag.com/gag/ayNKXKX)<!-- MEMES:END -->
+ - ⏩ [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
+ - 👉 [Still miss it](http://9gag.com/gag/avyjGwO)<!-- MEMES:END -->
 
 ---
 
