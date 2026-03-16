@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI reportedly plans on tackling &#39;the most challenging year since the company was founded&#39;, with 15-30% price raises, making DDR5 motherboards DDR4 compatible, and increasing AI server revenue](https://www.pcgamer.com/hardware/msi-reportedly-plans-on-tackling-the-most-challenging-year-since-the-company-was-founded-with-15-30-percent-price-raises-making-ddr5-motherboards-ddr4-compatible-and-increasing-ai-server-revenue/)
- - [Marvel&#39;s X-Men movie: News and casting on the MCU&#39;s new mutants](https://www.polygon.com/mcu-x-men-reboot-marvel-studios-kevin-fiege/)
- - [In a wild turn for the Subnautica 2 lawsuit, a judge orders Krafton to restore fired Unknown Worlds CEO and gives them 9 more months to earn $250 million bonus](https://www.pcgamer.com/games/in-a-wild-turn-for-the-subnautica-2-lawsuit-a-judge-orders-krafton-to-restore-fired-unknown-worlds-ceo-and-gives-them-9-more-months-to-earn-usd250-million-bonus/)<!-- GAME:END -->
+ - [Nvidia has just shown off DLSS 5 coming this Fall... and currently it looks a lot like an AI filter](https://www.pcgamer.com/hardware/nvidia-has-just-shown-off-dlss-5-coming-this-fall-and-currently-it-looks-a-lot-like-an-ai-lighting-filter/)
+ - [Slay the Spire 2 fans are avoiding Elites fights, with good reason](https://www.polygon.com/slay-the-spire-2-elite-fight-rewards-relics-balance-should-you-fight/)
+ - [The Games Industry Reacts To Valve’s Misleading Boast About How More Games Are Making Money On Steam](https://kotaku.com/the-games-industry-reacts-to-valves-misleading-boast-about-how-more-games-are-making-money-on-steam-2000679108)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
