@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pulsar X3 CrazyLight Mini review](https://www.pcgamer.com/hardware/gaming-mice/pulsar-x3-crazylight-mini-review/)
- - [Firefly Animated Series In The Works, With Everyone Except Joss Whedon Returning](https://kotaku.com/firefly-sequel-animated-nathan-fillion-joss-whedon-2000678991)
- - [Witches and glitches are your targets in retro adventure Witchhunter.exe](https://www.pcgamer.com/games/visual-novel/witches-and-glitches-are-your-targets-in-retro-adventure-witchhunter-exe/)<!-- GAME:END -->
+ - [Bethesda steps in again to calm down hype around Starfield news next week, saying Todd Howard&#39;s EA College Football 26 skills are his &#39;only visionary power&#39;](https://www.pcgamer.com/games/rpg/bethesda-steps-in-again-to-calm-down-hype-around-starfield-news-next-week-saying-todd-howards-ea-college-football-26-skills-are-his-only-visionary-power/)
+ - [If you were scammed by malware hiding in your Steam games, the FBI wants to hear all about it](https://www.pcgamer.com/hardware/if-you-were-scammed-by-malware-hiding-in-your-steam-games-the-fbi-wants-to-hear-all-about-it/)
+ - [Capcom celebrates 6 million units sold for Resident Evil Requiem, &#39;the fastest that a title in the series has reached this milestone&#39;](https://www.pcgamer.com/games/resident-evil/capcom-celebrates-6-million-units-sold-for-resident-evil-requiem-the-fastest-that-a-title-in-the-series-has-reached-this-milestone/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
