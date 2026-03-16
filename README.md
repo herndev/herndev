@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn reports Q4 revenue up 22% YoY to ~$81B, net profit down 2% YoY to ~$1.4B, below ~$1.9B est., due to a higher tax expense, and a 5.9% gross profit margin &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/260316/p12#a260316p12)
- - [I made the move to Claude from ChatGPT, and I regret nothing](https://www.androidauthority.com/claude-review-3647651/)
- - [These Musical Instruments of the Future Sound Weird, Wacky—and Are Easy for Anyone to Play](https://www.wired.com/story/georgia-tech-guthman-musical-instrument-competition-2026/)<!-- TECH:END -->
+ - [&#39;F1: the Movie&#39; is now an Oscar-winning hit](https://appleinsider.com/articles/26/03/16/f1-the-movie-is-now-an-oscar-winning-hit?utm_source=rss)
+ - [Memo: Alibaba unveils Alibaba Token Hub, a new AI unit that consolidates research, consumer-facing apps, AI products, and more, as it focuses on monetizing AI &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260316/p16#a260316p16)
+ - [Survey suggests Pixel VPN is not nearly as popular as Google would like it to be](https://www.androidauthority.com/pixel-vpn-usage-poll-results-3649246/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
