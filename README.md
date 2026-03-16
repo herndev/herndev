@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coco-M\u00f8r: why the French don&#39;t like to speak English](http://9gag.com/gag/amoZ2Mv)
- - ⏩ [King of memes!](http://9gag.com/gag/aMVLZZP)
- - 👉 [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)<!-- MEMES:END -->
+ - 💣 [King of memes!](http://9gag.com/gag/aMVLZZP)
+ - ⏩ [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - 👉 [Hemp](http://9gag.com/gag/abA8M4O)<!-- MEMES:END -->
 
 ---
 
