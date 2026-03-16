@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is in advanced talks with PE firms including TPG and Advent to form a JV that would distribute its enterprise tools to their portfolio companies &lpar;Reuters&rpar;](http://www.techmeme.com/260316/p22#a260316p22)
- - [T-Mobile will reportedly offer an upcoming promo that pairs perfectly with its MLB offer](https://www.androidauthority.com/t-mobile-hat-promo-3649362/)
- - [OnePlus’ US Community has turned into a ‘ghost town,’ users say &lpar;Update: OnePlus is on it&rpar;](https://www.androidauthority.com/oneplus-us-community-broken-3649210/)<!-- TECH:END -->
+ - [Amazon’s best Echo speakers and screens just got their biggest discounts](https://www.theverge.com/gadgets/895201/echo-show-dot-max-studio-amazon-apple-watch-ultra-deal-sale)
+ - [Yahoo CEO Jim Lanzone on reviving the web&amp;#8217;s homepage](https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web)
+ - [This chair gives half-worn clothes a home](https://www.theverge.com/tech/895194/laundry-chair-kickstarter-simone-giertz)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
