@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blind woman waits for her husband every day](http://9gag.com/gag/ayNKXKX)
- - ⏩ [Points and laughs](http://9gag.com/gag/aZZYgqn)
- - 👉 [God forbid man has hobbies](http://9gag.com/gag/apRMQvp)<!-- MEMES:END -->
+ - 💣 [Still miss it](http://9gag.com/gag/avyjGwO)
+ - ⏩ [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - 👉 [Blind woman waits for her husband every day](http://9gag.com/gag/ayNKXKX)<!-- MEMES:END -->
 
 ---
 
