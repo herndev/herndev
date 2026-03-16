@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Austin-based Ironlight, which is building a regulated marketplace for tokenized securities, raised a $21M Series A; its platform received FINRA approval in 2025 &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260316/p42#a260316p42)
- - [DLSS 5 looks like a real-time generative AI filter for video games](https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics)
- - [Manus introduces My Computer, a desktop application that enables its AI agent to interact directly with the user&#39;s local files, tools, and applications &lpar;Manus&rpar;](http://www.techmeme.com/260316/p41#a260316p41)<!-- TECH:END -->
+ - [Nvidia announces the Nemotron Coalition, which includes Thinking Machines Lab, Cursor, and Mistral and will develop an open model trained on Nvidia DGX Cloud &lpar;Sebastian Moss/DatacenterDynamics&rpar;](http://www.techmeme.com/260316/p44#a260316p44)
+ - [Nscale acquires American Intelligence &amp; Power, which owns a 2,250-acre data center campus in West Virginia, where it plans to build up to 8GW of compute by 2031 &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/260316/p43#a260316p43)
+ - [Austin-based Ironlight, which is building a regulated marketplace for tokenized securities, raised a $21M Series A; its platform received FINRA approval in 2025 &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260316/p42#a260316p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
