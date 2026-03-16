@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still miss it](http://9gag.com/gag/avyjGwO)
- - ⏩ [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)
- - 👉 [Hemp](http://9gag.com/gag/abA8M4O)<!-- MEMES:END -->
+ - 💣 [Where ze Germans heading?](http://9gag.com/gag/an7obmE)
+ - ⏩ [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
+ - 👉 [What kind of manager takes.. oh, that kind](http://9gag.com/gag/aQzjeOr)<!-- MEMES:END -->
 
 ---
 
