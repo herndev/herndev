@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Standard Kernel, which is making AI-powered GPU optimization software, raised a $20M seed led by Jump Capital, with General Catalyst and others participating &lpar;Clinton Nwachukwu/Ventureburn&rpar;](http://www.techmeme.com/260315/p10#a260315p10)
  - [Recovered notes from a lobbyist&#39;s phone outline a $5M payment structure tied to Argentine President Milei and other top officials&#39; promotion of the Libra token &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/260315/p9#a260315p9)
- - [Intellexa&#39;s founder says his firm sells surveillance tech exclusively to governments, reviving claims of state spying in Greece after being sentenced last month &lpar;Eliza Triantafillou/OCCRP&rpar;](http://www.techmeme.com/260315/p8#a260315p8)
- - [Sunday Reboot: Alicia Keys, social oddness, and AVP in the air](https://appleinsider.com/articles/26/03/15/sunday-reboot-alicia-keys-social-oddness-and-avp-in-the-air?utm_source=rss)<!-- TECH:END -->
+ - [Intellexa&#39;s founder says his firm sells surveillance tech exclusively to governments, reviving claims of state spying in Greece after being sentenced last month &lpar;Eliza Triantafillou/OCCRP&rpar;](http://www.techmeme.com/260315/p8#a260315p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
