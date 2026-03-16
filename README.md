@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia unveils Space-1 Vera Rubin for orbital data centers, saying its GPU delivers up to 25x more AI compute for space-based inferencing compared to the H100 &lpar;Sebastian Moss/DatacenterDynamics&rpar;](http://www.techmeme.com/260316/p38#a260316p38)
- - [US startup Reflection AI is working with South Korea&#39;s Shinsegae Group to build a 250MW data center in South Korea, sources say in a several-billion-dollar deal &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/260316/p37#a260316p37)
- - [File Your Taxes With TurboTax Full Service Now Before Prices Go Up](https://www.wired.com/story/turbotax-deal-326/)<!-- TECH:END -->
+ - [Austin-based Ironlight, which is building a regulated marketplace for tokenized securities, raised a $21M Series A; its platform received FINRA approval in 2025 &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260316/p42#a260316p42)
+ - [DLSS 5 looks like a real-time generative AI filter for video games](https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics)
+ - [Manus introduces My Computer, a desktop application that enables its AI agent to interact directly with the user&#39;s local files, tools, and applications &lpar;Manus&rpar;](http://www.techmeme.com/260316/p41#a260316p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
