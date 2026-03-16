@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia has just shown off DLSS 5 coming this Fall... and currently it looks a lot like an AI filter](https://www.pcgamer.com/hardware/nvidia-has-just-shown-off-dlss-5-coming-this-fall-and-currently-it-looks-a-lot-like-an-ai-lighting-filter/)
- - [Slay the Spire 2 fans are avoiding Elites fights, with good reason](https://www.polygon.com/slay-the-spire-2-elite-fight-rewards-relics-balance-should-you-fight/)
- - [The Games Industry Reacts To Valve’s Misleading Boast About How More Games Are Making Money On Steam](https://kotaku.com/the-games-industry-reacts-to-valves-misleading-boast-about-how-more-games-are-making-money-on-steam-2000679108)<!-- GAME:END -->
+ - [MTG&#39;s Dandân Secret Lair sold out in minutes, already reselling for $300](https://www.polygon.com/mtg-dandan-deck-secret-lair-chaos-vault-scalpers/)
+ - [How to play on the Schedule 1 beta branch for early access to new updates](https://www.pcgamer.com/games/sim/schedule-1-beta-branch-update/)
+ - [Resident Evil Requiem actor had to spend &#39;2 to 3 minutes&#39; audibly dying during her audition, while the casting director threw out surprise instructions: &#39;Now a zombie has bitten your left leg&#39;](https://www.pcgamer.com/games/resident-evil/resident-evil-requiem-actor-had-to-spend-2-to-3-minutes-audibly-dying-during-her-audition-while-the-casting-director-threw-out-surprise-instructions-now-a-zombie-has-bitten-your-left-leg/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
