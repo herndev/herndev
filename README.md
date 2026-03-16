@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bethesda steps in again to calm down hype around Starfield news next week, saying Todd Howard&#39;s EA College Football 26 skills are his &#39;only visionary power&#39;](https://www.pcgamer.com/games/rpg/bethesda-steps-in-again-to-calm-down-hype-around-starfield-news-next-week-saying-todd-howards-ea-college-football-26-skills-are-his-only-visionary-power/)
- - [If you were scammed by malware hiding in your Steam games, the FBI wants to hear all about it](https://www.pcgamer.com/hardware/if-you-were-scammed-by-malware-hiding-in-your-steam-games-the-fbi-wants-to-hear-all-about-it/)
- - [Capcom celebrates 6 million units sold for Resident Evil Requiem, &#39;the fastest that a title in the series has reached this milestone&#39;](https://www.pcgamer.com/games/resident-evil/capcom-celebrates-6-million-units-sold-for-resident-evil-requiem-the-fastest-that-a-title-in-the-series-has-reached-this-milestone/)<!-- GAME:END -->
+ - [Jeff Kaplan Says Complaining About Games You Won’t Play Gets You Ignored: ‘Shut The F*** Up. No One Cares’](https://kotaku.com/jeff-kaplan-overwatch-legend-california-stream-twitch-2000679066)
+ - [Grace&#39;s VA in Resident Evil Requiem talks stepping out of Leon&#39;s shadow](https://www.polygon.com/resident-evil-requiem-angela-santalbano-grace-leon-one-liners/)
+ - [Marathon Dev Hits Back At Ship Of Theseus Dig, Pointing Out All The Bungie Old Heads Who Still Work There](https://kotaku.com/marathon-bungie-halo-developers-who-worked-on-2000679056)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
