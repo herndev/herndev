@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Batman: Legacy of the Dark Knight&#39;s release date moves up a week](https://www.polygon.com/lego-batman-new-release-date-reverse-delay/)
- - [Yes, Your Pokémon Are Disappearing In Pokopia And It’s Really Annoying To Get Them Back](https://kotaku.com/pokemon-pokopia-disappearing-despawn-respawn-honey-2000679147)
- - [Tech creator proves for a second time that AA batteries are not a practical power alternative for your gaming PC](https://www.pcgamer.com/hardware/power-supplies/tech-creator-proves-for-a-second-time-that-aa-batteries-are-not-a-practical-power-alternative-for-your-gaming-pc/)<!-- GAME:END -->
+ - [MSI reportedly plans on tackling &#39;the most challenging year since the company was founded&#39;, with 15-30% price raises, making DDR5 motherboards DDR4 compatible, and increasing AI server revenue](https://www.pcgamer.com/hardware/msi-reportedly-plans-on-tackling-the-most-challenging-year-since-the-company-was-founded-with-15-30-percent-price-raises-making-ddr5-motherboards-ddr4-compatible-and-increasing-ai-server-revenue/)
+ - [Marvel&#39;s X-Men movie: News and casting on the MCU&#39;s new mutants](https://www.polygon.com/mcu-x-men-reboot-marvel-studios-kevin-fiege/)
+ - [In a wild turn for the Subnautica 2 lawsuit, a judge orders Krafton to restore fired Unknown Worlds CEO and gives them 9 more months to earn $250 million bonus](https://www.pcgamer.com/games/in-a-wild-turn-for-the-subnautica-2-lawsuit-a-judge-orders-krafton-to-restore-fired-unknown-worlds-ceo-and-gives-them-9-more-months-to-earn-usd250-million-bonus/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
