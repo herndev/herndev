@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Logan Paul gets ripped apart by Pokémon fans for being a poser](https://www.polygon.com/logan-paul-pokemon-gengar-tcg-prices-chatgpt-ai-accusation/)
- - [MLB The Show 26 – Expert Tips and Tricks for the Biggest Game Modes](https://news.xbox.com/en-us/2026/03/17/mlb-the-show-26-expert-tips-and-tricks-for-the-biggest-game-modes/)
- - [Sueprman, Supergirl, and more star in newly announced DC Elseworlds series](https://www.polygon.com/dc-elseworlds-new-series-superman-supergirl-dark-knights-of-steel/)<!-- GAME:END -->
+ - [Spider-Man: Brand New Trailer gets release date, first looks](https://www.polygon.com/spider-man-brand-new-day-trailer-date-first-look/)
+ - [Marathon nerfs the shotgun everyone is using, reverts sound back to normal, and sets the stage for Cryo Archive](https://www.pcgamer.com/games/fps/marathon-nerfs-the-shotgun-everyone-is-using-reverts-sound-back-to-normal-and-sets-the-stage-for-cryo-archive/)
+ - [Dead by Daylight’s All-Kill: Comeback Combines K-Pop and Horror](https://news.xbox.com/en-us/2026/03/17/dead-by-daylight-all-kill-comeback-kpop-horror/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
