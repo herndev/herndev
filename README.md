@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon begins three-hour deliveries in ~2K US cities and towns and one-hour deliveries in hundreds of those areas, after 2025 pilots; 90K+ products are eligible &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260317/p14#a260317p14)
- - [Sources: Google is in talks with Envicool and other Chinese companies about buying data center liquid cooling equipment, amid a tight supply of such parts &lpar;Reuters&rpar;](http://www.techmeme.com/260317/p13#a260317p13)
- - [Why your Galaxy S26 Ultra camera might fog up — and why IP68 doesn’t guarantee it won’t](https://www.androidauthority.com/camera-condensation-galaxy-s26-3648915/)<!-- TECH:END -->
+ - [Would you buy a flagship smartphone with no AI features?](https://www.androidauthority.com/smartphone-no-ai-features-open-thread-3649701/)
+ - [Agentic cybersecurity startup Surf AI, which helps teams read signals from identity, cloud, and other tools, emerges from stealth with $57M in seed and Series A &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260317/p17#a260317p17)
+ - [Skylight’s Calendar 2 Review: Its Best Digital Calendar Yet](https://www.wired.com/review/skylight-calendar-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
