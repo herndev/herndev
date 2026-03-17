@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s latest system update for Android is small, but surprisingly useful](https://www.androidauthority.com/google-system-services-update-march-2026-3649599/)
- - [Open models will largely lose if they keep chasing closed frontier AI models; instead, open models should serve as complementary tools to closed agents &lpar;Nathan Lambert/Interconnects AI&rpar;](http://www.techmeme.com/260317/p3#a260317p3)
- - [Nvidia says game developers have full &quot;artistic control over DLSS 5&#39;s effects&quot;, following backlash alleging that the AI rendering tech altered source material &lpar;Tyler Wilde/PC Gamer&rpar;](http://www.techmeme.com/260317/p2#a260317p2)<!-- TECH:END -->
+ - [Hands on with Aqara’s new Matter-compatible camera](https://www.theverge.com/tech/895326/aqara-g350-matter-camera-samsung-smartthings-hands-on-review)
+ - [Q&amp;A with CEO Jim Lanzone on Yahoo being &quot;very profitable&quot;, its new AI search engine, focusing on sports content, including original video and podcasts, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260317/p4#a260317p4)
+ - [Google might getting ready to give Circle to Search a colorful makeover](https://www.androidauthority.com/google-colorful-circle-to-search-3649606/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
