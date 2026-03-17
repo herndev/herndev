@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17e teardown shows you can switch most parts with an iPhone 16e](https://appleinsider.com/articles/26/03/17/iphone-17e-teardown-shows-you-can-switch-most-parts-with-an-iphone-16e?utm_source=rss)
- - [Remedy’s live-service shooter Firebreak is getting its final major update](https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy)
- - [Sources: China is penalizing people tied to Meta&#39;s $2B Manus acquisition, including by apparently restricting Manus executives from leaving China for Singapore &lpar;New York Times&rpar;](http://www.techmeme.com/260317/p38#a260317p38)<!-- TECH:END -->
+ - [Amazon’s best Echo speakers plummet to record-low prices](https://www.androidauthority.com/amazon-echo-dot-max-echo-studio-deals-3649590/)
+ - [A new Google TV projector just arrived to make streaming easier &lpar;and cheaper&rpar;](https://www.androidauthority.com/wanbo-vali-1-pro-launch-3649898/)
+ - [Gemini for Home finally learns to cut the chatter and focus on the job](https://www.androidauthority.com/google-home-gemini-march-update-3649877/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
