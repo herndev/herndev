@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another stolen for the community. &lpar;Don&#39;t try at home&rpar;](http://9gag.com/gag/axyr1d2)
- - ⏩ [Girl has a dream](http://9gag.com/gag/a87goZ3)
- - 👉 [How do you get there?](http://9gag.com/gag/aLnEjrg)<!-- MEMES:END -->
+ - 💣 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)
+ - ⏩ [King of memes!](http://9gag.com/gag/aMVLZZP)
+ - 👉 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)<!-- MEMES:END -->
 
 ---
 
