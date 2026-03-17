@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&amp;#8217;s new &amp;#8216;getitfast&amp;#8217; delivery page lists items you can have in 1 hour](https://www.theverge.com/tech/895940/amazon-1-hour-3-hour-delivery)
- - [Nintendo Switch 2 update adds &amp;#8216;Handheld Boost Mode&amp;#8217; for original Switch games](https://www.theverge.com/games/895919/nintendo-switch-2-handheld-boost-mode-update)
- - [App Store fees drop in China &amp; Beijing immediately asks for more](https://appleinsider.com/articles/26/03/17/app-store-fees-drop-in-china-beijing-immediately-asks-for-more?utm_source=rss)<!-- TECH:END -->
+ - [Tim Cook continues Apple&#39;s 50th anniversary victory lap in new interview](https://appleinsider.com/articles/26/03/17/tim-cook-continues-apples-50th-anniversary-victory-lap-in-new-interview?utm_source=rss)
+ - [New Powerbeats Pro 2 &amp; Nike collaboration is only skin-deep](https://appleinsider.com/articles/26/03/17/new-powerbeats-pro-2-nike-collaboration-is-only-skin-deep?utm_source=rss)
+ - [Spotify rolls out its bold new smartwatch app experience on Wear OS](https://www.androidauthority.com/spotify-wear-os-app-redesign-rollout-3649744/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
