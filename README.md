@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
- - ⏩ [King of memes!](http://9gag.com/gag/aMVLZZP)
- - 👉 [How do you get there?](http://9gag.com/gag/aLnEjrg)<!-- MEMES:END -->
+ - 💣 [Another stolen for the community. &lpar;Don&#39;t try at home&rpar;](http://9gag.com/gag/axyr1d2)
+ - ⏩ [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
+ - 👉 [Stoopidity](http://9gag.com/gag/amoZ50o)<!-- MEMES:END -->
 
 ---
 
