@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All 4K Amazon Fire TV Sticks are on sale! &lpar;Up to 55% off!&rpar;](https://www.androidauthority.com/amazon-fire-tv-stick-select-4k-max-deals-3649592/)
- - [Tired of boring Galaxy phones? The latest Samsung news is a nightmare](https://www.androidauthority.com/boring-samsung-phones-emergency-news-nightmare-3649407/)
- - [Galaxy Watch 9, Galaxy XR Glasses battery specs leak, and Samsung isn’t aiming to impress](https://www.androidauthority.com/samsung-galaxy-watch-9-glasses-3649623/)<!-- TECH:END -->
+ - [The UK plans to spend £1B+ on quantum computing research over four years, including funding companies in pharmaceuticals, financial services, and energy &lpar;Mia Dawkins/Bloomberg&rpar;](http://www.techmeme.com/260317/p8#a260317p8)
+ - [These are my 7 favorite Android weather apps that I think you’ll love too](https://www.androidauthority.com/favorite-android-weather-apps-3648879/)
+ - [Two Literal Crypto Bros Built a Real Estate Empire. Then the Homes Started to Fall Apart](https://www.wired.com/story/crypto-bros-built-a-real-estate-empire-then-the-homes-started-to-fall-apart/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
