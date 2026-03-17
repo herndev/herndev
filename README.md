@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)
- - ⏩ [Nokia](http://9gag.com/gag/apRM5g9)
- - 👉 [Gainz](http://9gag.com/gag/amoZ71j)<!-- MEMES:END -->
+ - 💣 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - ⏩ [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)
+ - 👉 [King of memes!](http://9gag.com/gag/aMVLZZP)<!-- MEMES:END -->
 
 ---
 
