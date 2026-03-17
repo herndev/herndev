@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hemp](http://9gag.com/gag/abA8M4O)
- - ⏩ [Imagine getting this call seven years later](http://9gag.com/gag/a87g8r1)
- - 👉 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)<!-- MEMES:END -->
+ - 💣 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
+ - ⏩ [King of memes!](http://9gag.com/gag/aMVLZZP)
+ - 👉 [How do you get there?](http://9gag.com/gag/aLnEjrg)<!-- MEMES:END -->
 
 ---
 
