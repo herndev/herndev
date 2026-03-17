@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Felicia Day gets gloriously angry in Lost Daughter of Sparta, her first graphic novel](https://www.polygon.com/felicia-day-lost-daughter-sparta-interview-rowan-maccoll/)
- - [Antec Flux Pro Noctua Edition review](https://www.pcgamer.com/hardware/pc-cases/antec-flux-pro-noctua-edition-review/)
- - [&#39;Bad ending: now every game is slop&#39;: Game developers share mixed reactions to DLSS 5](https://www.pcgamer.com/software/ai/bad-ending-now-every-game-is-slop-game-developers-share-mixed-reactions-to-dlss-5/)<!-- GAME:END -->
+ - [Bethesda weighs in on negative DLSS 5 reaction: &#39;This will all be under our artists’ control, and totally optional for players&#39;](https://www.pcgamer.com/software/ai/bethesda-weighs-in-on-negative-dlss-5-reaction-this-will-all-be-under-our-artists-control-and-totally-optional-for-players/)
+ - [New report claims CPUs are next in line for a chip shortage but there&#39;s little evidence of that right now](https://www.pcgamer.com/hardware/processors/new-report-claims-cpus-are-next-in-line-for-a-chip-shortage-but-theres-little-evidence-of-that-right-now/)
+ - [Baby Steps&#39; level design was hugely inspired by a custom map in Mirror&#39;s Edge and Japanese skateboarder Gou Miyagi: &#39;All of a sudden I was actually looking at and seeing the space in a way that I hadn&#39;t in a single player level in a long time&#39;](https://www.pcgamer.com/games/sim/baby-steps-level-design-was-hugely-inspired-by-a-custom-map-in-mirrors-edge-and-japanese-skateboarder-gou-miyagi-all-of-a-sudden-i-was-actually-looking-at-and-seeing-the-space-in-a-way-that-i-hadnt-in-a-single-player-level-in-a-long-time/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
