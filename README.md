@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Salma Hayek defying time, what&#39;s her secret](http://9gag.com/gag/a87goZd)
- - ⏩ [Relationship goals](http://9gag.com/gag/aW4XEYA)
- - 👉 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
+ - 💣 [King of memes!](http://9gag.com/gag/aMVLZZP)
+ - ⏩ [Salma Hayek defying time, what&#39;s her secret](http://9gag.com/gag/a87goZd)
+ - 👉 [Relationship goals](http://9gag.com/gag/aW4XEYA)<!-- MEMES:END -->
 
 ---
 
