@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to change the weather in Pokémon Pokopia](https://www.polygon.com/pokemon-pokopia-change-weather-make-rain-sunny/)
- - [An Early Script For The Buffy The Vampire Slayer Reboot Leaked And It’s Unbelievably Bad](https://kotaku.com/buffy-vampire-slayer-new-sunnydale-reboot-script-canceled-2000679693)
- - [Hitman&#39;s planned crossover with MindsEye is cancelled as the publishing deal with IO Interactive is officially over](https://www.pcgamer.com/games/action/hitmans-planned-crossover-with-mindseye-is-cancelled-as-the-publishing-deal-with-io-interactive-is-officially-over/)<!-- GAME:END -->
+ - [The co-creators of Caves of Qud, our favorite roguelike fever dream, worked as narrative consultants on Marathon—which mostly meant they &#39;got to sit there in the room and throw completely absurd ideas at the wall&#39;](https://www.pcgamer.com/games/fps/the-co-creators-of-caves-of-qud-our-favorite-roguelike-fever-dream-worked-as-narrative-consultants-on-marathon-which-mostly-meant-they-got-to-sit-there-in-the-room-and-throw-completely-absurd-ideas-at-the-wall/)
+ - [Street Fighter 6’s Latest DLC Ending Is Upsetting Fans Because Alex Marries His Sister-Cousin](https://kotaku.com/street-fighter-6-alex-dlc-ending-patricia-tom-sister-cousin-married-2000679707)
+ - [Alan Wake 2 Studio Is Keeping Its Multiplayer Game Alive Even Though Only 38 People Are Playing It On Steam Right Now](https://kotaku.com/fbc-firebreak-hitman-tv-mindseye-arc-raiders-2000679690)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
