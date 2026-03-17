@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would this work in your city/country?](http://9gag.com/gag/ayNKoVp)
- - ⏩ [Board of Peace](http://9gag.com/gag/a6ZRN4q)
- - 👉 [How do you get there?](http://9gag.com/gag/aLnEjrg)<!-- MEMES:END -->
+ - 💣 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - ⏩ [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)
+ - 👉 [Blind woman waits for her husband every day](http://9gag.com/gag/ayNKXKX)<!-- MEMES:END -->
 
 ---
 
