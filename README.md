@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Firefly’s animated revival is a huge missed opportunity](https://www.polygon.com/firefly-animated-revival-problems/)
- - [New PlayStation Portal software update adds 1080p High Quality mode and UX refinements](https://blog.playstation.com/2026/03/17/new-playstation-portal-software-update-adds-1080p-high-quality-mode-and-ux-refinements/)
- - [Switch 2 system update adds Handheld Boost Mode for Switch games](https://www.polygon.com/nintendo-switch-2-system-update-22-handheld-boost-mode/)<!-- GAME:END -->
+ - [The DLSS 5 memes are in full swing, so here are the ones that tickled me the most](https://www.pcgamer.com/hardware/the-dlss-5-memes-are-in-full-swing-so-here-are-the-ones-that-tickled-me-the-most/)
+ - [Who is Jason Momoa playing in Dune 3?](https://www.polygon.com/jason-momoa-dune-3-hayt-duncan-idaho-explainer/)
+ - [V for Vendetta was ahead of its time. 20 years later, reality has finally caught up.](https://www.polygon.com/v-for-vendetta-20th-anniversary-alan-moore/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
