@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook continues Apple&#39;s 50th anniversary victory lap in new interview](https://appleinsider.com/articles/26/03/17/tim-cook-continues-apples-50th-anniversary-victory-lap-in-new-interview?utm_source=rss)
- - [New Powerbeats Pro 2 &amp; Nike collaboration is only skin-deep](https://appleinsider.com/articles/26/03/17/new-powerbeats-pro-2-nike-collaboration-is-only-skin-deep?utm_source=rss)
- - [Spotify rolls out its bold new smartwatch app experience on Wear OS](https://www.androidauthority.com/spotify-wear-os-app-redesign-rollout-3649744/)<!-- TECH:END -->
+ - [Nintendo just unlocked a visual upgrade for your original Switch games](https://www.androidauthority.com/nintendo-switch-2-handheld-boost-mode-3649778/)
+ - [Google expands Personal Intelligence, which lets Gemini tailor its responses by connecting to Gmail and other Google services, from paid users to all US users &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260317/p32#a260317p32)
+ - [Intel unveils the Core Ultra 200HX Plus CPUs for high-end gaming laptops, offering an Intel Binary Optimization Tool to improve native performance in some games &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/260317/p31#a260317p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
