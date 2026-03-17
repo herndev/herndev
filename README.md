@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK plans to spend £1B+ on quantum computing research over four years, including funding companies in pharmaceuticals, financial services, and energy &lpar;Mia Dawkins/Bloomberg&rpar;](http://www.techmeme.com/260317/p8#a260317p8)
- - [These are my 7 favorite Android weather apps that I think you’ll love too](https://www.androidauthority.com/favorite-android-weather-apps-3648879/)
- - [Two Literal Crypto Bros Built a Real Estate Empire. Then the Homes Started to Fall Apart](https://www.wired.com/story/crypto-bros-built-a-real-estate-empire-then-the-homes-started-to-fall-apart/)<!-- TECH:END -->
+ - [Amazon begins three-hour deliveries in ~2K US cities and towns and one-hour deliveries in hundreds of those areas, after 2025 pilots; 90K+ products are eligible &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260317/p14#a260317p14)
+ - [Sources: Google is in talks with Envicool and other Chinese companies about buying data center liquid cooling equipment, amid a tight supply of such parts &lpar;Reuters&rpar;](http://www.techmeme.com/260317/p13#a260317p13)
+ - [Why your Galaxy S26 Ultra camera might fog up — and why IP68 doesn’t guarantee it won’t](https://www.androidauthority.com/camera-condensation-galaxy-s26-3648915/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
