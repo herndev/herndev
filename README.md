@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hemp](http://9gag.com/gag/abA8M4O)
- - ⏩ [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)
- - 👉 [Why today\u2019s NBA is unwatchable](http://9gag.com/gag/awypomQ)<!-- MEMES:END -->
+ - 💣 [Cant stop the signal!](http://9gag.com/gag/aByexGZ)
+ - ⏩ [The bumblebee queen learns how to use the protective cap in less than 24 hours.](http://9gag.com/gag/ajP4Nbx)
+ - 👉 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)<!-- MEMES:END -->
 
 ---
 
