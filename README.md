@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
- - ⏩ [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)
- - 👉 [Blind woman waits for her husband every day](http://9gag.com/gag/ayNKXKX)<!-- MEMES:END -->
+ - 💣 [King of memes!](http://9gag.com/gag/aMVLZZP)
+ - ⏩ [How do you get there?](http://9gag.com/gag/aLnEjrg)
+ - 👉 [Just try and act normal](http://9gag.com/gag/aQzjdvW)<!-- MEMES:END -->
 
 ---
 
