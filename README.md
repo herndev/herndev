@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung could swap its own Galaxy displays for cheaper alternatives](https://www.androidauthority.com/samsung-buying-third-party-galaxy-displays-3649918/)
- - [You.com appoints Saahil Jain as new CTO after co-founder Bryan McCann left to Anthropic; You.com, which began in consumer search, is targeting enterprise more &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/260317/p43#a260317p43)
- - [Mistral announces Mistral Forge to help enterprises build custom models actually trained on their own data, using Mistral open-weight models as a starting point &lpar;TechCrunch&rpar;](http://www.techmeme.com/260317/p42#a260317p42)<!-- TECH:END -->
+ - [Apple Home hardware chief leaves for Oura](https://appleinsider.com/articles/26/03/17/apple-home-hardware-chief-leaves-for-oura?utm_source=rss)
+ - [Brian Lynch, Apple&#39;s senior director in charge of home devices since 2022, leaves for Oura, a setback for a unit already contending with product delays &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260317/p46#a260317p46)
+ - [An Argentine court ruled Polymarket lacked approval to operate and directed ISPs and app stores to restrict it; Polymarket is now unavailable in 30+ countries &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/260317/p45#a260317p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
