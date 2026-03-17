@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How do you get there?](http://9gag.com/gag/aLnEjrg)
- - ⏩ [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
- - 👉 [Girl has a dream](http://9gag.com/gag/a87goZ3)<!-- MEMES:END -->
+ - 💣 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)
+ - ⏩ [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
+ - 👉 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
 
 ---
 
