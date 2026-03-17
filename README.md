@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Last bite from father before she getting married](http://9gag.com/gag/aGyQgz5)
+ - 💣 [Would this work in your city/country?](http://9gag.com/gag/ayNKoVp)
  - ⏩ [King of memes!](http://9gag.com/gag/aMVLZZP)
  - 👉 [Good heavens, really?](http://9gag.com/gag/aMVLYbX)<!-- MEMES:END -->
 
