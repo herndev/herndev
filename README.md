@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
- - ⏩ [29 years of marriage and he just walks away](http://9gag.com/gag/aLnEgw5)
- - 👉 [Relationship goals](http://9gag.com/gag/aW4XEYA)<!-- MEMES:END -->
+ - 💣 [Salma Hayek defying time, what&#39;s her secret](http://9gag.com/gag/a87goZd)
+ - ⏩ [Relationship goals](http://9gag.com/gag/aW4XEYA)
+ - 👉 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
 
 ---
 
