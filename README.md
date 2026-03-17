@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The DLSS 5 memes are in full swing, so here are the ones that tickled me the most](https://www.pcgamer.com/hardware/the-dlss-5-memes-are-in-full-swing-so-here-are-the-ones-that-tickled-me-the-most/)
- - [Who is Jason Momoa playing in Dune 3?](https://www.polygon.com/jason-momoa-dune-3-hayt-duncan-idaho-explainer/)
- - [V for Vendetta was ahead of its time. 20 years later, reality has finally caught up.](https://www.polygon.com/v-for-vendetta-20th-anniversary-alan-moore/)<!-- GAME:END -->
+ - [Felicia Day gets gloriously angry in Lost Daughter of Sparta, her first graphic novel](https://www.polygon.com/felicia-day-lost-daughter-sparta-interview-rowan-maccoll/)
+ - [Antec Flux Pro Noctua Edition review](https://www.pcgamer.com/hardware/pc-cases/antec-flux-pro-noctua-edition-review/)
+ - [&#39;Bad ending: now every game is slop&#39;: Game developers share mixed reactions to DLSS 5](https://www.pcgamer.com/software/ai/bad-ending-now-every-game-is-slop-game-developers-share-mixed-reactions-to-dlss-5/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
