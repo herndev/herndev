@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crimson Desert release time in your time zone](https://www.polygon.com/crimson-desert-release-time-edt-pdt-preload-preorder/)
- - [What time does Death Stranding 2 release on PC in your time zone?](https://www.polygon.com/death-stranding-2-pc-release-times-edt-pdt-preload-preorder/)
- - [Grand Theft Auto faces no threat from AI, Take-Two boss says](https://www.polygon.com/gta-6-generative-ai-take-two-strauss-zelnick/)<!-- GAME:END -->
+ - [Arc Raiders Studio Parts Ways With Cofounder Over Sexual Misconduct Allegations It Was Unable To Substantiate](https://kotaku.com/rob-runesson-embark-finals-esports-misconduct-allegations-2000679734)
+ - [Subnautica 2 set for early access release in May as Krafton signals surrender: &#39;We look forward to working with Ted Gill to support a smooth transition and work toward a successful launch&#39;](https://www.pcgamer.com/games/survival-crafting/subnautica-2-set-for-early-access-release-in-may-as-krafton-signals-surrender-we-look-forward-to-working-with-ted-gill-to-support-a-smooth-transition-and-work-toward-a-successful-launch/)
+ - [Crimson Desert release time in your time zone](https://www.polygon.com/crimson-desert-release-time-edt-pdt-preload-preorder/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
