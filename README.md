@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [King of memes!](http://9gag.com/gag/aMVLZZP)
- - ⏩ [How do you get there?](http://9gag.com/gag/aLnEjrg)
+ - 💣 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
+ - ⏩ [Board of Peace](http://9gag.com/gag/a6ZRN4q)
  - 👉 [Just try and act normal](http://9gag.com/gag/aQzjdvW)<!-- MEMES:END -->
 
 ---
