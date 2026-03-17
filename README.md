@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man: Brand New Trailer gets release date, first looks](https://www.polygon.com/spider-man-brand-new-day-trailer-date-first-look/)
- - [Marathon nerfs the shotgun everyone is using, reverts sound back to normal, and sets the stage for Cryo Archive](https://www.pcgamer.com/games/fps/marathon-nerfs-the-shotgun-everyone-is-using-reverts-sound-back-to-normal-and-sets-the-stage-for-cryo-archive/)
- - [Dead by Daylight’s All-Kill: Comeback Combines K-Pop and Horror](https://news.xbox.com/en-us/2026/03/17/dead-by-daylight-all-kill-comeback-kpop-horror/)<!-- GAME:END -->
+ - [How to change the weather in Pokémon Pokopia](https://www.polygon.com/pokemon-pokopia-change-weather-make-rain-sunny/)
+ - [An Early Script For The Buffy The Vampire Slayer Reboot Leaked And It’s Unbelievably Bad](https://kotaku.com/buffy-vampire-slayer-new-sunnydale-reboot-script-canceled-2000679693)
+ - [Hitman&#39;s planned crossover with MindsEye is cancelled as the publishing deal with IO Interactive is officially over](https://www.pcgamer.com/games/action/hitmans-planned-crossover-with-mindseye-is-cancelled-as-the-publishing-deal-with-io-interactive-is-officially-over/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
