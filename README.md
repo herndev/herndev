@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Would you buy a flagship smartphone with no AI features?](https://www.androidauthority.com/smartphone-no-ai-features-open-thread-3649701/)
- - [Agentic cybersecurity startup Surf AI, which helps teams read signals from identity, cloud, and other tools, emerges from stealth with $57M in seed and Series A &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260317/p17#a260317p17)
- - [Skylight’s Calendar 2 Review: Its Best Digital Calendar Yet](https://www.wired.com/review/skylight-calendar-2/)<!-- TECH:END -->
+ - [SXSW 2026 Updates: Monday Looks at the Future of News and Media](https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/)
+ - [Q&amp;A with Kalshi co-founders Tarek Mansour and Luana Lopes Lara on suing the US government, solving market making, agentic and insider trading, ethics, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/260317/p22#a260317p22)
+ - [I Did the Math: This Meal Kit Service Gives You the Most Bang for Your Buck](https://www.cnet.com/health/nutrition/i-did-the-math-this-meal-kit-service-gives-you-the-most-bang-for-your-buck/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
