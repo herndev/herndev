@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI launches GPT-5.4 mini and nano, aimed at agents, coding, and multi-modal workflows, and offering near GPT-5.4-level performance at a much lower cost &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260317/p33#a260317p33)
- - [The messiah rises in Dune: Part Three’s new trailer](https://www.theverge.com/entertainment/896111/dune-part-three-trailer-release-date)
- - [Gemini preps some powerful new tools for editing Nano Banana images](https://www.androidauthority.com/gemini-image-markup-2-3649763/)<!-- TECH:END -->
+ - [Don’t miss a kickoff: FIFA World Cup 2026 is coming to YouTube](https://www.androidauthority.com/youtube-fifa-world-cup-2026-partnership-3649787/)
+ - [NetBlocks and Kentik: Iran further restricted what little internet connectivity remained, in a bid to curb VPNs, ahead of the Festival of Fire tied to protests &lpar;Bloomberg&rpar;](http://www.techmeme.com/260317/p35#a260317p35)
+ - [Nvidia&amp;#8217;s DLSS 5 is like motion smoothing for video games, but worse](https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
