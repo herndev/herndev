@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Insanely punishing&#39; survival game Atlas is being distilled &#39;into a more accessible form&#39; for Ark: Survival Ascended&#39;s new DLC](https://www.pcgamer.com/games/survival-crafting/insanely-punishing-survival-game-atlas-is-being-distilled-into-a-more-accessible-form-for-ark-survival-ascendeds-new-dlc/)
- - [The Sekiro anime looks gorgeous, gory in new trailer from Crunchyroll](https://www.polygon.com/sekiro-anime-no-defeat-trailer-2-crunchyroll/)
- - [Witch Hat Atelier review: The perfect fantasy anime to get over your Frieren blues](https://www.polygon.com/witch-hat-atelier-episodes-1-2-review-impressions/)<!-- GAME:END -->
+ - [Sarah Michelle Gellar reveals a Buffy-hating executive killed reboot](https://www.polygon.com/buffy-reboot-canceled-hulu-executive/)
+ - [Crimson Desert Looks A Lot More Ordinary Running On A Regular PS5](https://kotaku.com/crimson-desert-online-ps5-footage-console-ordinary-2000679507)
+ - [&#39;Insanely punishing&#39; survival game Atlas is being distilled &#39;into a more accessible form&#39; for Ark: Survival Ascended&#39;s new DLC](https://www.pcgamer.com/games/survival-crafting/insanely-punishing-survival-game-atlas-is-being-distilled-into-a-more-accessible-form-for-ark-survival-ascendeds-new-dlc/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
