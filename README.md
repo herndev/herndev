@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
- - ⏩ [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)
- - 👉 [King of memes!](http://9gag.com/gag/aMVLZZP)<!-- MEMES:END -->
+ - 💣 [How do you get there?](http://9gag.com/gag/aLnEjrg)
+ - ⏩ [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
+ - 👉 [Girl has a dream](http://9gag.com/gag/a87goZ3)<!-- MEMES:END -->
 
 ---
 
