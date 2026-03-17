@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fuse, which offers AI-powered loan origination software to credit unions and other financial institutions, raised a $25M Series A &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260316/p48#a260316p48)
- - [The Live Nation trial restarts with a &amp;#8216;velvet hammer&amp;#8217;](https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues)
- - [How Disney Imagineering built an Olaf robot, set to arrive at Disneyland Paris this month, and taught it to move via reinforcement learning and simulation &lpar;Jacob Krol/TechRadar&rpar;](http://www.techmeme.com/260316/p47#a260316p47)<!-- TECH:END -->
+ - [A reporter details harassment and death threats from gamblers trying to win a Polymarket bet if he doesn&#39;t change his report on a missile impact in Israel &lpar;Emanuel Fabian/The Times of Israel&rpar;](http://www.techmeme.com/260316/p49#a260316p49)
+ - [Google Calendar is fixing one of its most annoying time zone quirks](https://www.androidauthority.com/google-calendar-timezone-picker-update-3649576/)
+ - [This e-ink lineup now runs Android 15 and &lpar;finally&rpar; gets a front light](https://www.androidauthority.com/boox-go-10-3-gen-ii-launch-3649560/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
