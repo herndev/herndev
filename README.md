@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)
- - ⏩ [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
- - 👉 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
+ - 💣 [Would this work in your city/country?](http://9gag.com/gag/ayNKoVp)
+ - ⏩ [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - 👉 [How do you get there?](http://9gag.com/gag/aLnEjrg)<!-- MEMES:END -->
 
 ---
 
