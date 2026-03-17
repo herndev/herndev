@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sarah Michelle Gellar reveals a Buffy-hating executive killed reboot](https://www.polygon.com/buffy-reboot-canceled-hulu-executive/)
- - [Crimson Desert Looks A Lot More Ordinary Running On A Regular PS5](https://kotaku.com/crimson-desert-online-ps5-footage-console-ordinary-2000679507)
- - [&#39;Insanely punishing&#39; survival game Atlas is being distilled &#39;into a more accessible form&#39; for Ark: Survival Ascended&#39;s new DLC](https://www.pcgamer.com/games/survival-crafting/insanely-punishing-survival-game-atlas-is-being-distilled-into-a-more-accessible-form-for-ark-survival-ascendeds-new-dlc/)<!-- GAME:END -->
+ - [Firefly’s animated revival is a huge missed opportunity](https://www.polygon.com/firefly-animated-revival-problems/)
+ - [New PlayStation Portal software update adds 1080p High Quality mode and UX refinements](https://blog.playstation.com/2026/03/17/new-playstation-portal-software-update-adds-1080p-high-quality-mode-and-ux-refinements/)
+ - [Switch 2 system update adds Handheld Boost Mode for Switch games](https://www.polygon.com/nintendo-switch-2-system-update-22-handheld-boost-mode/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
