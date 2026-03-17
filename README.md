@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with Aqara’s new Matter-compatible camera](https://www.theverge.com/tech/895326/aqara-g350-matter-camera-samsung-smartthings-hands-on-review)
- - [Q&amp;A with CEO Jim Lanzone on Yahoo being &quot;very profitable&quot;, its new AI search engine, focusing on sports content, including original video and podcasts, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260317/p4#a260317p4)
- - [Google might getting ready to give Circle to Search a colorful makeover](https://www.androidauthority.com/google-colorful-circle-to-search-3649606/)<!-- TECH:END -->
+ - [All 4K Amazon Fire TV Sticks are on sale! &lpar;Up to 55% off!&rpar;](https://www.androidauthority.com/amazon-fire-tv-stick-select-4k-max-deals-3649592/)
+ - [Tired of boring Galaxy phones? The latest Samsung news is a nightmare](https://www.androidauthority.com/boring-samsung-phones-emergency-news-nightmare-3649407/)
+ - [Galaxy Watch 9, Galaxy XR Glasses battery specs leak, and Samsung isn’t aiming to impress](https://www.androidauthority.com/samsung-galaxy-watch-9-glasses-3649623/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
