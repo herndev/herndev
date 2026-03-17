@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t miss a kickoff: FIFA World Cup 2026 is coming to YouTube](https://www.androidauthority.com/youtube-fifa-world-cup-2026-partnership-3649787/)
- - [NetBlocks and Kentik: Iran further restricted what little internet connectivity remained, in a bid to curb VPNs, ahead of the Festival of Fire tied to protests &lpar;Bloomberg&rpar;](http://www.techmeme.com/260317/p35#a260317p35)
- - [Nvidia&amp;#8217;s DLSS 5 is like motion smoothing for video games, but worse](https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing)<!-- TECH:END -->
+ - [At an all-hands, Andy Jassy said he expects AI to help AWS reach $600B in annual sales by 2036, double his prior estimate; AWS had revenue of $128.7B in 2025 &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/260317/p37#a260317p37)
+ - [Ikea tried to build a smart home for everyone — here&amp;#8217;s why it&amp;#8217;s not working yet](https://www.theverge.com/tech/896006/ikea-matter-thread-smart-home-problems)
+ - [Tim Cook denies imminent retirement rumors, &#39;can&#39;t imagine life without Apple&#39;](https://appleinsider.com/articles/26/03/17/tim-cook-denies-imminent-retirement-rumors-cant-imagine-life-without-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
