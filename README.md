@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another stolen for the community. &lpar;Don&#39;t try at home&rpar;](http://9gag.com/gag/axyr1d2)
- - ⏩ [Good heavens, really?](http://9gag.com/gag/aMVLYbX)
- - 👉 [Stoopidity](http://9gag.com/gag/amoZ50o)<!-- MEMES:END -->
+ - 💣 [Hemp](http://9gag.com/gag/abA8M4O)
+ - ⏩ [Identity theft is not a joke](http://9gag.com/gag/avyjOVd)
+ - 👉 [Why today\u2019s NBA is unwatchable](http://9gag.com/gag/awypomQ)<!-- MEMES:END -->
 
 ---
 
