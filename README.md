@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an all-hands meeting, Fidji Simo told OpenAI staff not to be distracted by &quot;side quests&quot; and said Anthropic&#39;s success should serve as a &quot;wake-up call&quot; &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260316/p46#a260316p46)
- - [RoboForce, which is developing robotics systems to perform physically demanding industrial work, raised $52M led by YZi Labs, bringing its total funding to $67M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260316/p45#a260316p45)
- - [Death by Tariffs: Volvo Discontinuing Entry-Level EX30 EV in the US](https://www.cnet.com/roadshow/news/volvo-ex30-cross-country-discontinued-in-us-2026/)<!-- TECH:END -->
+ - [Fuse, which offers AI-powered loan origination software to credit unions and other financial institutions, raised a $25M Series A &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/260316/p48#a260316p48)
+ - [The Live Nation trial restarts with a &amp;#8216;velvet hammer&amp;#8217;](https://www.theverge.com/policy/895778/live-nation-ticketmaster-states-trial-continues)
+ - [How Disney Imagineering built an Olaf robot, set to arrive at Disneyland Paris this month, and taught it to move via reinforcement learning and simulation &lpar;Jacob Krol/TechRadar&rpar;](http://www.techmeme.com/260316/p47#a260316p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
