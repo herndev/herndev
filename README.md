@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia says game developers have full &quot;artistic control over DLSS 5&#39;s effects&quot;, following backlash alleging that the AI rendering tech altered source material &lpar;Tyler Wilde/PC Gamer&rpar;](http://www.techmeme.com/260317/p2#a260317p2)
- - [Sam&#39;s Club Coupons and Deals: Save up to 60% in March 2026](https://www.wired.com/story/sams-club-coupon/)
- - [Expedia Coupons and Deals: Up to 75% Off Select Trips](https://www.wired.com/story/expedia-coupon/)<!-- TECH:END -->
+ - [Google’s latest system update for Android is small, but surprisingly useful](https://www.androidauthority.com/google-system-services-update-march-2026-3649599/)
+ - [Open models will largely lose if they keep chasing closed frontier AI models; instead, open models should serve as complementary tools to closed agents &lpar;Nathan Lambert/Interconnects AI&rpar;](http://www.techmeme.com/260317/p3#a260317p3)
+ - [Nvidia says game developers have full &quot;artistic control over DLSS 5&#39;s effects&quot;, following backlash alleging that the AI rendering tech altered source material &lpar;Tyler Wilde/PC Gamer&rpar;](http://www.techmeme.com/260317/p2#a260317p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
