@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo just unlocked a visual upgrade for your original Switch games](https://www.androidauthority.com/nintendo-switch-2-handheld-boost-mode-3649778/)
- - [Google expands Personal Intelligence, which lets Gemini tailor its responses by connecting to Gmail and other Google services, from paid users to all US users &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260317/p32#a260317p32)
- - [Intel unveils the Core Ultra 200HX Plus CPUs for high-end gaming laptops, offering an Intel Binary Optimization Tool to improve native performance in some games &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/260317/p31#a260317p31)<!-- TECH:END -->
+ - [OpenAI launches GPT-5.4 mini and nano, aimed at agents, coding, and multi-modal workflows, and offering near GPT-5.4-level performance at a much lower cost &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260317/p33#a260317p33)
+ - [The messiah rises in Dune: Part Three’s new trailer](https://www.theverge.com/entertainment/896111/dune-part-three-trailer-release-date)
+ - [Gemini preps some powerful new tools for editing Nano Banana images](https://www.androidauthority.com/gemini-image-markup-2-3649763/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
