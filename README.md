@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Awesome technology](http://9gag.com/gag/aMVLxVW)
- - ⏩ [Funny that you can see which cat has hunter instincts, and which has the wild instincts of a potato](http://9gag.com/gag/aryLoNV)
- - 👉 [Blind woman waits for her husband every day](http://9gag.com/gag/ayNKXKX)<!-- MEMES:END -->
+ - 💣 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - ⏩ [29 years of marriage and he just walks away](http://9gag.com/gag/aLnEgw5)
+ - 👉 [Relationship goals](http://9gag.com/gag/aW4XEYA)<!-- MEMES:END -->
 
 ---
 
