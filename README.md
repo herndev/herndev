@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s best Echo speakers plummet to record-low prices](https://www.androidauthority.com/amazon-echo-dot-max-echo-studio-deals-3649590/)
- - [A new Google TV projector just arrived to make streaming easier &lpar;and cheaper&rpar;](https://www.androidauthority.com/wanbo-vali-1-pro-launch-3649898/)
- - [Gemini for Home finally learns to cut the chatter and focus on the job](https://www.androidauthority.com/google-home-gemini-march-update-3649877/)<!-- TECH:END -->
+ - [Samsung could swap its own Galaxy displays for cheaper alternatives](https://www.androidauthority.com/samsung-buying-third-party-galaxy-displays-3649918/)
+ - [You.com appoints Saahil Jain as new CTO after co-founder Bryan McCann left to Anthropic; You.com, which began in consumer search, is targeting enterprise more &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/260317/p43#a260317p43)
+ - [Mistral announces Mistral Forge to help enterprises build custom models actually trained on their own data, using Mistral open-weight models as a starting point &lpar;TechCrunch&rpar;](http://www.techmeme.com/260317/p42#a260317p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
