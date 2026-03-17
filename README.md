@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
- - ⏩ [Board of Peace](http://9gag.com/gag/a6ZRN4q)
- - 👉 [Just try and act normal](http://9gag.com/gag/aQzjdvW)<!-- MEMES:END -->
+ - 💣 [Awesome technology](http://9gag.com/gag/aMVLxVW)
+ - ⏩ [Funny that you can see which cat has hunter instincts, and which has the wild instincts of a potato](http://9gag.com/gag/aryLoNV)
+ - 👉 [Blind woman waits for her husband every day](http://9gag.com/gag/ayNKXKX)<!-- MEMES:END -->
 
 ---
 
