@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The co-creators of Caves of Qud, our favorite roguelike fever dream, worked as narrative consultants on Marathon—which mostly meant they &#39;got to sit there in the room and throw completely absurd ideas at the wall&#39;](https://www.pcgamer.com/games/fps/the-co-creators-of-caves-of-qud-our-favorite-roguelike-fever-dream-worked-as-narrative-consultants-on-marathon-which-mostly-meant-they-got-to-sit-there-in-the-room-and-throw-completely-absurd-ideas-at-the-wall/)
- - [Street Fighter 6’s Latest DLC Ending Is Upsetting Fans Because Alex Marries His Sister-Cousin](https://kotaku.com/street-fighter-6-alex-dlc-ending-patricia-tom-sister-cousin-married-2000679707)
- - [Alan Wake 2 Studio Is Keeping Its Multiplayer Game Alive Even Though Only 38 People Are Playing It On Steam Right Now](https://kotaku.com/fbc-firebreak-hitman-tv-mindseye-arc-raiders-2000679690)<!-- GAME:END -->
+ - [Crimson Desert release time in your time zone](https://www.polygon.com/crimson-desert-release-time-edt-pdt-preload-preorder/)
+ - [What time does Death Stranding 2 release on PC in your time zone?](https://www.polygon.com/death-stranding-2-pc-release-times-edt-pdt-preload-preorder/)
+ - [Grand Theft Auto faces no threat from AI, Take-Two boss says](https://www.polygon.com/gta-6-generative-ai-take-two-strauss-zelnick/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
