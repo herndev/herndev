@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Monster Hunter Stories 3 mutations and how to get them](https://www.pcgamer.com/games/rpg/all-monster-hunter-stories-3-mutations-and-how-to-get-them/)
- - [PC Gaming Hardware Maker Calls 2026 ‘Most Challenging Year Ever’ As It Hikes Prices Up To 30 Percent](https://kotaku.com/msi-2026-most-challenging-year-hikes-prices-up-to-30-percent-low-end-gpu-2000679237)
- - [Overwatch director says addressing the 5v5 versus 6v6 debates late &#39;cost us trust&#39;: &#39;We should have listened sooner&#39;](https://www.pcgamer.com/games/fps/overwatch-director-says-addressing-the-5v5-versus-6v6-debates-cost-us-trust-we-should-have-listened-sooner/)<!-- GAME:END -->
+ - [The Sekiro anime looks gorgeous, gory in new trailer from Crunchyroll](https://www.polygon.com/sekiro-anime-no-defeat-trailer-2-crunchyroll/)
+ - [Witch Hat Atelier review: The perfect fantasy anime to get over your Frieren blues](https://www.polygon.com/witch-hat-atelier-episodes-1-2-review-impressions/)
+ - [All Monster Hunter Stories 3 mutations and how to get them](https://www.pcgamer.com/games/rpg/all-monster-hunter-stories-3-mutations-and-how-to-get-them/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
