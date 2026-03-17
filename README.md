@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [First Dune 3 trailer shows Paul, Chani and Robert Pattinson&#39;s Scytale](https://www.polygon.com/dune-3-trailer-part-three-release-date-trilogy/)
- - [Hands-On Preview: Capcom’s Pragmata Isn’t Just Old-School Cool, It’s Also Got Heart](https://kotaku.com/pragmata-preview-impressions-capcom-diana-hacking-2000679655)
- - [Critical Role Campaign 4 has a major flaw in its unique structure](https://www.polygon.com/critical-role-campaign-4-seekers-table/)<!-- GAME:END -->
+ - [Logan Paul gets ripped apart by Pokémon fans for being a poser](https://www.polygon.com/logan-paul-pokemon-gengar-tcg-prices-chatgpt-ai-accusation/)
+ - [MLB The Show 26 – Expert Tips and Tricks for the Biggest Game Modes](https://news.xbox.com/en-us/2026/03/17/mlb-the-show-26-expert-tips-and-tricks-for-the-biggest-game-modes/)
+ - [Sueprman, Supergirl, and more star in newly announced DC Elseworlds series](https://www.polygon.com/dc-elseworlds-new-series-superman-supergirl-dark-knights-of-steel/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
