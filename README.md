@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mistral releases Small 4, its first model to unify reasoning, multimodal, and coding capabilities of its flagship Magistral, Pixtral, and Devstral models &lpar;Mistral AI&rpar;](http://www.techmeme.com/260316/p50#a260316p50)
- - [A reporter details harassment and death threats from gamblers who stand to win a Polymarket bet if he would change his report on a missile impact in Israel &lpar;Emanuel Fabian/The Times of Israel&rpar;](http://www.techmeme.com/260316/p49#a260316p49)
- - [Google Calendar is fixing one of its most annoying time zone quirks](https://www.androidauthority.com/google-calendar-timezone-picker-update-3649576/)<!-- TECH:END -->
+ - [Nvidia says game developers have full &quot;artistic control over DLSS 5&#39;s effects&quot;, following backlash alleging that the AI rendering tech altered source material &lpar;Tyler Wilde/PC Gamer&rpar;](http://www.techmeme.com/260317/p2#a260317p2)
+ - [Sam&#39;s Club Coupons and Deals: Save up to 60% in March 2026](https://www.wired.com/story/sams-club-coupon/)
+ - [Expedia Coupons and Deals: Up to 75% Off Select Trips](https://www.wired.com/story/expedia-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
