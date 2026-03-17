@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bethesda weighs in on negative DLSS 5 reaction: &#39;This will all be under our artists’ control, and totally optional for players&#39;](https://www.pcgamer.com/software/ai/bethesda-weighs-in-on-negative-dlss-5-reaction-this-will-all-be-under-our-artists-control-and-totally-optional-for-players/)
- - [New report claims CPUs are next in line for a chip shortage but there&#39;s little evidence of that right now](https://www.pcgamer.com/hardware/processors/new-report-claims-cpus-are-next-in-line-for-a-chip-shortage-but-theres-little-evidence-of-that-right-now/)
- - [Baby Steps&#39; level design was hugely inspired by a custom map in Mirror&#39;s Edge and Japanese skateboarder Gou Miyagi: &#39;All of a sudden I was actually looking at and seeing the space in a way that I hadn&#39;t in a single player level in a long time&#39;](https://www.pcgamer.com/games/sim/baby-steps-level-design-was-hugely-inspired-by-a-custom-map-in-mirrors-edge-and-japanese-skateboarder-gou-miyagi-all-of-a-sudden-i-was-actually-looking-at-and-seeing-the-space-in-a-way-that-i-hadnt-in-a-single-player-level-in-a-long-time/)<!-- GAME:END -->
+ - [First Dune 3 trailer shows Paul, Chani and Robert Pattinson&#39;s Scytale](https://www.polygon.com/dune-3-trailer-part-three-release-date-trilogy/)
+ - [Hands-On Preview: Capcom’s Pragmata Isn’t Just Old-School Cool, It’s Also Got Heart](https://kotaku.com/pragmata-preview-impressions-capcom-diana-hacking-2000679655)
+ - [Critical Role Campaign 4 has a major flaw in its unique structure](https://www.polygon.com/critical-role-campaign-4-seekers-table/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
