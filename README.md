@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SXSW 2026 Updates: Monday Looks at the Future of News and Media](https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/)
- - [Q&amp;A with Kalshi co-founders Tarek Mansour and Luana Lopes Lara on suing the US government, solving market making, agentic and insider trading, ethics, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/260317/p22#a260317p22)
- - [I Did the Math: This Meal Kit Service Gives You the Most Bang for Your Buck](https://www.cnet.com/health/nutrition/i-did-the-math-this-meal-kit-service-gives-you-the-most-bang-for-your-buck/)<!-- TECH:END -->
+ - [Amazon&amp;#8217;s new &amp;#8216;getitfast&amp;#8217; delivery page lists items you can have in 1 hour](https://www.theverge.com/tech/895940/amazon-1-hour-3-hour-delivery)
+ - [Nintendo Switch 2 update adds &amp;#8216;Handheld Boost Mode&amp;#8217; for original Switch games](https://www.theverge.com/games/895919/nintendo-switch-2-handheld-boost-mode-update)
+ - [App Store fees drop in China &amp; Beijing immediately asks for more](https://appleinsider.com/articles/26/03/17/app-store-fees-drop-in-china-beijing-immediately-asks-for-more?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
