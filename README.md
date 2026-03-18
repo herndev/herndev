@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Amazon Echo Spot is $30 off right now!](https://www.androidauthority.com/amazon-echo-spot-deal-2-3650287/)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [The Best Outdoor Deals From the REI Member Days Sale &lpar;2026&rpar;](https://www.wired.com/story/rei-member-days-sale-2026/)<!-- TECH:END -->
+ - [AI training lawsuit drags Apple in yet again for alleged use of pirated book dataset](https://appleinsider.com/articles/26/03/18/ai-training-lawsuit-drags-apple-in-yet-again-for-alleged-use-of-pirated-book-dataset?utm_source=rss)
+ - [Micron reports Q2 revenue up 196% YoY to $23.9B, vs. $19.7B est., expects 2026 capex to exceed $25B, vs. $22.4B est., and forecasts Q3 revenue above estimates &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260318/p46#a260318p46)
+ - [Amazon doesn’t want the blame for the Post Office going under](https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
