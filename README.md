@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Best Folding Phones &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-folding-phones/)
- - [Xbow, which uses AI to probe apps for security vulnerabilities, raised $120M led by DFJ Growth and Northzone at a $1B+ valuation, and reports 100+ clients &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260318/p20#a260318p20)
- - [Best Barefoot Shoes for Running or Walking &lpar;2026&rpar;](https://www.wired.com/gallery/best-barefoot-shoes/)<!-- TECH:END -->
+ - [Sources: Apple stops vibe coding apps from pushing updates, citing rules on running code; Replit thinks Apple may approve opening AI-generated apps in a browser &lpar;The Information&rpar;](http://www.techmeme.com/260318/p23#a260318p23)
+ - [Google might be undoing some controversial changes to the Photos app](https://www.androidauthority.com/google-photos-redesign-reverse-3650090/)
+ - [Sources: Fluidstack withdraws from a €10B, 1GW AI data center project in Bosquel, France, and a Mistral-linked project in Paris, as it pivots toward the US &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/260318/p22#a260318p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
