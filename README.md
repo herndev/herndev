@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Sad face](http://9gag.com/gag/aE04PYO)
- - ⏩ [Fuse replacement at home](http://9gag.com/gag/aQzjdK7)
- - 👉 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
+ - ⏩ [Why today\u2019s NBA is unwatchable](http://9gag.com/gag/awypomQ)
+ - 👉 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)<!-- MEMES:END -->
 
 ---
 
