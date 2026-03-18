@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus reveals key specs and launch date of its next compact phone](https://www.androidauthority.com/oneplus-15t-compact-flagship-launch-date-specs-3650007/)
- - [Alibaba raises prices for its T-Head AI computing chips, including the Zhenwu 810E, by 5% to 34%, and its Cloud Parallel File Storage by 30%, after demand soars &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260318/p9#a260318p9)
- - [Google drops the paywall on this Gemini feature that actually knows your life](https://www.androidauthority.com/google-expands-personal-intelligence-to-everyone-3650012/)<!-- TECH:END -->
+ - [Here’s why I’ve installed a Dead Man’s Switch on my home server](https://www.androidauthority.com/home-server-dead-man-switch-3648903/)
+ - [iPhone 16e gets a hardware upgrade that Android fans can only dream of](https://www.androidauthority.com/apple-iphone-17e-teardown-16e-parts-compatibility-3650016/)
+ - [A Quantum Leap for the Turing Award](https://www.wired.com/story/a-quantum-leap-for-the-turing-award/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
