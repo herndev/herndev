@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Starfield&#39;s Terran Armada story DLC will let you recruit a robot who is &#39;not evil&#39; but also &#39;definitely not good&#39;](https://www.pcgamer.com/games/rpg/starfields-terran-armada-story-dlc-will-let-you-recruit-a-robot-who-is-not-evil-but-also-definitely-not-good/)
  - [Steam build of Death Stranding 2 leaks two days ahead of launch](https://www.pcgamer.com/games/action/steam-build-of-death-stranding-2-leaks-two-days-ahead-of-launch/)
- - [Arc Raiders Studio Parts Ways With Cofounder Over Sexual Misconduct Allegations It Was Unable To Substantiate](https://kotaku.com/rob-runesson-embark-finals-esports-misconduct-allegations-2000679734)
- - [Subnautica 2 set for early access release in May as Krafton signals surrender: &#39;We look forward to working with Ted Gill to support a smooth transition and work toward a successful launch&#39;](https://www.pcgamer.com/games/survival-crafting/subnautica-2-set-for-early-access-release-in-may-as-krafton-signals-surrender-we-look-forward-to-working-with-ted-gill-to-support-a-smooth-transition-and-work-toward-a-successful-launch/)<!-- GAME:END -->
+ - [Arc Raiders Studio Parts Ways With Cofounder Over Sexual Misconduct Allegations It Was Unable To Substantiate](https://kotaku.com/rob-runesson-embark-finals-esports-misconduct-allegations-2000679734)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
