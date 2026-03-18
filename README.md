@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ReMarkable could finally go for the mass market with its next E-Ink tablet](https://www.androidauthority.com/remarkable-paper-pure-leaked-3650322/)
- - [Google Pixel 10 drops to record-low price for the first time this year](https://www.androidauthority.com/google-pixel-10-deal-3-3650285/)
- - [Democratic voters in Illinois rejected most candidates supported by the crypto and AI industries, marking an unexpected defeat after industry PACs spent $18M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260318/p47#a260318p47)<!-- TECH:END -->
+ - [Scoot around with the Segway Max G3 Electric Scooter and save $450](https://www.androidauthority.com/segway-max-g3-electric-scooter-deal-3650284/)
+ - [Meta confirms a critical security incident after an internal rogue AI agent&#39;s actions led to the exposure of sensitive data to employees without authorization &lpar;Jyoti Mann/The Information&rpar;](http://www.techmeme.com/260318/p48#a260318p48)
+ - [ReMarkable could finally go for the mass market with its next E-Ink tablet](https://www.androidauthority.com/remarkable-paper-pure-leaked-3650322/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
