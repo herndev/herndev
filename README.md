@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Highguard Players Get Surprise Refunds On PS5 As Studio Shuts Its Doors For Good](https://kotaku.com/highguard-refunds-ps5-steam-xbox-shutdown-2000679761)
  - [Starfield&#39;s Terran Armada story DLC will let you recruit a robot who is &#39;not evil&#39; but also &#39;definitely not good&#39;](https://www.pcgamer.com/games/rpg/starfields-terran-armada-story-dlc-will-let-you-recruit-a-robot-who-is-not-evil-but-also-definitely-not-good/)
- - [Steam build of Death Stranding 2 leaks two days ahead of launch](https://www.pcgamer.com/games/action/steam-build-of-death-stranding-2-leaks-two-days-ahead-of-launch/)
- - [Arc Raiders Studio Parts Ways With Cofounder Over Sexual Misconduct Allegations It Was Unable To Substantiate](https://kotaku.com/rob-runesson-embark-finals-esports-misconduct-allegations-2000679734)<!-- GAME:END -->
+ - [Steam build of Death Stranding 2 leaks two days ahead of launch](https://www.pcgamer.com/games/action/steam-build-of-death-stranding-2-leaks-two-days-ahead-of-launch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
