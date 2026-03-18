@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Stanford study of 391K messages across 5,000 chats: AI chatbots affirmed user messages in nearly 66% of responses, frequently validating delusional thinking &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260318/p14#a260318p14)
- - [Charles Bennett and Gilles Brassard, who pioneered quantum information theory, win the ACM AM Turing Award; the pair developed the BB84 cryptography protocol &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/260318/p13#a260318p13)
- - [Gemini replaced my expense tracker — and I didn’t expect it to work this well](https://www.androidauthority.com/gemini-expense-tracker-replacement-3649079/)<!-- TECH:END -->
+ - [South Korea hosts K-Pop stars Cortis for Apple anniversary event](https://appleinsider.com/articles/26/03/18/south-korea-hosts-k-pop-stars-cortis-for-apple-anniversary-event?utm_source=rss)
+ - [Boroux Versus Rorra Countertop Water Filters, Tested Head to Head](https://www.wired.com/story/steel-water-filters-head-to-head/)
+ - [China&#39;s Chengdu says Tim Cook attended Apple&#39;s 50th anniversary event in the city; state media called for Apple to fix its &quot;monopolistic&quot; App Store practices &lpar;Bloomberg&rpar;](http://www.techmeme.com/260318/p18#a260318p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
