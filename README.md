@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israeli startup Raven, which offers runtime monitoring and intervention in attacks as they unfold inside applications, raised a $20M seed &lpar;CTech&rpar;](http://www.techmeme.com/260318/p35#a260318p35)
- - [This DIY project may be the best use yet for old Stadia controllers](https://www.androidauthority.com/stadia-usb-adapter-3650163/)
- - [Paraform, which connects tech companies with specialized recruiters, raised a $40M Series B led by Scale VP &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260318/p34#a260318p34)<!-- TECH:END -->
+ - [Weird Nintendo never went away](https://www.theverge.com/entertainment/896736/talking-flower-weird-nintendo)
+ - [This new reMarkable feature is a game changer for note-taking](https://www.androidauthority.com/remarkable-tablet-send-to-miro-3650186/)
+ - [Google is quietly testing a Discover tab in Gemini, alongside a host of UI changes](https://www.androidauthority.com/gemini-ui-changes-apk-teardown-3650199/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
