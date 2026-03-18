@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bad vibes: Apple blocks updates for some AI coding apps in the App Store](https://appleinsider.com/articles/26/03/18/bad-vibes-apple-blocks-updates-for-some-ai-coding-apps-in-the-app-store?utm_source=rss)
- - [Researchers from Google, iVerify, and Lookout discover DarkSword, a hacking tool used by Russian state-sponsored groups to target iOS 18 via Ukrainian websites &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260318/p28#a260318p28)
- - [Stripe and Paradigm-backed startup Tempo launches the Machine Payments Protocol and its blockchain to facilitate autonomous AI agent transactions &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260318/p27#a260318p27)<!-- TECH:END -->
+ - [Advanced Navigation, which makes AI-assisted hardware to let ships and aircraft navigate even when GPS is jammed, raised a $110M Series C at a $1B+ valuation &lpar;Stuart Condie/Wall Street Journal&rpar;](http://www.techmeme.com/260318/p30#a260318p30)
+ - [Philips new audio gear brings back the bright bold colors of the ‘80s](https://www.theverge.com/tech/896593/philips-moving-sound-bluetooth-speaker-wireless-headphones-earbuds)
+ - [Fortnite makes its return to the Google Play Store after six-year absense](https://www.androidauthority.com/fortnite-returns-to-google-play-store-3650131/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
