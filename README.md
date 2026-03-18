@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The illusion is broken](http://9gag.com/gag/aAy9ebp)
- - ⏩ [Board of Peace](http://9gag.com/gag/a6ZRN4q)
- - 👉 [When two old guys mean the world to each other](http://9gag.com/gag/a34ORrm)<!-- MEMES:END -->
+ - 💣 [Just basic human decency](http://9gag.com/gag/a87gE13)
+ - ⏩ [When two old guys mean the world to each other](http://9gag.com/gag/a34ORrm)
+ - 👉 [Me in 1997 instead of buying Bitcoins](http://9gag.com/gag/aZZY0nW)<!-- MEMES:END -->
 
 ---
 
