@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft weighs legal action against Amazon and OpenAI over whether AWS can offer OpenAI Frontier without breaching Microsoft-OpenAI agreement &lpar;Financial Times&rpar;](http://www.techmeme.com/260318/p5#a260318p5)
- - [50% Off DoorDash Promo Code | March 2026](https://www.wired.com/story/doordash-promo-code/)
- - [$20 Chewy Promo Code | March 2026](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
+ - [Founders are increasingly leasing multimillion-dollar mansions in San Francisco&#39;s wealthy neighborhoods as corporate HQs and hacker houses, amid the AI boom &lpar;The San Francisco Standard&rpar;](http://www.techmeme.com/260318/p8#a260318p8)
+ - [Banks start offloading $18B debt tied to the $55B buyout of EA; sources say EA told potential investors AI could let gaming companies cut engineering workforces &lpar;Financial Times&rpar;](http://www.techmeme.com/260318/p7#a260318p7)
+ - [Pixel Watch bug is wiping out exercise steps after March update](https://www.androidauthority.com/pixel-watch-exercise-step-tracking-bug-3649983/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
