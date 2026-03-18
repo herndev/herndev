@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2010. L\u00e1szl\u00f3 Hanyecz, a Hungarian-born Florida programmer, used 10,000 bitcoins to buy two pizzas, the first known real-world purchase with cryptocurrency.](http://9gag.com/gag/aGyQgw0)
- - ⏩ [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - 💣 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - ⏩ [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
  - 👉 [Sad face](http://9gag.com/gag/aE04PYO)<!-- MEMES:END -->
 
 ---
