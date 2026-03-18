@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US appeals court puts on hold an earlier ruling that had blocked Perplexity from using its agentic shopping tool to shop on Amazon&#39;s marketplace &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/260317/p50#a260317p50)
- - [Musi hands Apple big win as judge rules apps can be delisted &#39;with or without cause&#39;](https://appleinsider.com/articles/26/03/18/musi-hands-apple-big-win-as-judge-rules-apps-can-be-delisted-with-or-without-cause?utm_source=rss)
- - [TurboTax deals: Tax day is almost here!](https://www.androidauthority.com/turbotax-deluxe-premier-home-business-deals-2-3649922/)<!-- TECH:END -->
+ - [Chartbeat: over two years, search traffic fell by 60% for small publishers with 1K-10K daily page views, 47% for medium-sized publishers, and 22% for large ones &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260317/p52#a260317p52)
+ - [Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems](https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/)
+ - [Google, Meta and Amazon Join Global Pact to Fight Rising Online Scams](https://www.cnet.com/tech/services-and-software/google-meta-and-amazon-join-global-pact-to-fight-rising-online-scams/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
