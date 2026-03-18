@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Board of Peace](http://9gag.com/gag/a6ZRN4q)
- - ⏩ [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
- - 👉 [Sad face](http://9gag.com/gag/aE04PYO)<!-- MEMES:END -->
+ - 💣 [The illusion is broken](http://9gag.com/gag/aAy9ebp)
+ - ⏩ [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - 👉 [When two old guys mean the world to each other](http://9gag.com/gag/a34ORrm)<!-- MEMES:END -->
 
 ---
 
