@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Microsoft weighs legal action against Amazon and OpenAI over whether AWS can offer OpenAI Frontier without breaching Microsoft-OpenAI agreement &lpar;Financial Times&rpar;](http://www.techmeme.com/260318/p5#a260318p5)
  - [50% Off DoorDash Promo Code | March 2026](https://www.wired.com/story/doordash-promo-code/)
- - [$20 Chewy Promo Code | March 2026](https://www.wired.com/story/chewy-promo-code/)
- - [NordVPN Coupons and Deals: 77% Off in March 2026](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
+ - [$20 Chewy Promo Code | March 2026](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
