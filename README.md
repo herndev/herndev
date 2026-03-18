@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal](https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/)
- - [Sources: Coinbase and Zerohash are among the companies vying to issue Cloudflare&#39;s stablecoin, set to launch this year to support payments for the &quot;agentic web&quot; &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/260318/p41#a260318p41)
- - [Kasa’s Matter-compatible smart plugs are on sale for $11 a pop](https://www.theverge.com/gadgets/896899/kasa-smart-wi-fi-plug-slim-amazon-early-big-spring-sale-deal-sale)<!-- TECH:END -->
+ - [Survey confirms the obvious: Everyone hates YouTube’s unskippable new ads](https://www.androidauthority.com/youtube-unskippable-ads-poll-3650247/)
+ - [Hearing ads on Spotify Premium today? It’s not just you](https://www.androidauthority.com/spotify-premium-playing-ads-again-3650275/)
+ - [Family Sharing no longer means sharing a credit card in iOS 26.4](https://appleinsider.com/articles/26/03/18/family-sharing-no-longer-means-sharing-a-credit-card-in-ios-264?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
