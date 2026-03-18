@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea hosts K-Pop stars Cortis for Apple anniversary event](https://appleinsider.com/articles/26/03/18/south-korea-hosts-k-pop-stars-cortis-for-apple-anniversary-event?utm_source=rss)
- - [Boroux Versus Rorra Countertop Water Filters, Tested Head to Head](https://www.wired.com/story/steel-water-filters-head-to-head/)
- - [China&#39;s Chengdu says Tim Cook attended Apple&#39;s 50th anniversary event in the city; state media called for Apple to fix its &quot;monopolistic&quot; App Store practices &lpar;Bloomberg&rpar;](http://www.techmeme.com/260318/p18#a260318p18)<!-- TECH:END -->
+ - [5 Best Folding Phones &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-folding-phones/)
+ - [Xbow, which uses AI to probe apps for security vulnerabilities, raised $120M led by DFJ Growth and Northzone at a $1B+ valuation, and reports 100+ clients &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260318/p20#a260318p20)
+ - [Best Barefoot Shoes for Running or Walking &lpar;2026&rpar;](https://www.wired.com/gallery/best-barefoot-shoes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
