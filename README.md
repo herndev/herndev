@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Advanced Navigation, which makes AI-assisted hardware to let ships and aircraft navigate even when GPS is jammed, raised a $110M Series C at a $1B+ valuation &lpar;Stuart Condie/Wall Street Journal&rpar;](http://www.techmeme.com/260318/p30#a260318p30)
- - [Philips new audio gear brings back the bright bold colors of the ‘80s](https://www.theverge.com/tech/896593/philips-moving-sound-bluetooth-speaker-wireless-headphones-earbuds)
- - [Fortnite makes its return to the Google Play Store after six-year absense](https://www.androidauthority.com/fortnite-returns-to-google-play-store-3650131/)<!-- TECH:END -->
+ - [Israeli startup Raven, which offers runtime monitoring and intervention in attacks as they unfold inside applications, raised a $20M seed &lpar;CTech&rpar;](http://www.techmeme.com/260318/p35#a260318p35)
+ - [This DIY project may be the best use yet for old Stadia controllers](https://www.androidauthority.com/stadia-usb-adapter-3650163/)
+ - [Paraform, which connects tech companies with specialized recruiters, raised a $40M Series B led by Scale VP &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260318/p34#a260318p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
