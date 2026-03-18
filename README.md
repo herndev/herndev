@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI training lawsuit drags Apple in yet again for alleged use of pirated book dataset](https://appleinsider.com/articles/26/03/18/ai-training-lawsuit-drags-apple-in-yet-again-for-alleged-use-of-pirated-book-dataset?utm_source=rss)
- - [Micron reports Q2 revenue up 196% YoY to $23.9B, vs. $19.7B est., expects 2026 capex to exceed $25B, vs. $22.4B est., and forecasts Q3 revenue above estimates &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/260318/p46#a260318p46)
- - [Amazon doesn’t want the blame for the Post Office going under](https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out)<!-- TECH:END -->
+ - [ReMarkable could finally go for the mass market with its next E-Ink tablet](https://www.androidauthority.com/remarkable-paper-pure-leaked-3650322/)
+ - [Google Pixel 10 drops to record-low price for the first time this year](https://www.androidauthority.com/google-pixel-10-deal-3-3650285/)
+ - [Democratic voters in Illinois rejected most candidates supported by the crypto and AI industries, marking an unexpected defeat after industry PACs spent $18M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260318/p47#a260318p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
