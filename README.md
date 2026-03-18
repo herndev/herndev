@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Weird Nintendo never went away](https://www.theverge.com/entertainment/896736/talking-flower-weird-nintendo)
- - [This new reMarkable feature is a game changer for note-taking](https://www.androidauthority.com/remarkable-tablet-send-to-miro-3650186/)
- - [Google is quietly testing a Discover tab in Gemini, alongside a host of UI changes](https://www.androidauthority.com/gemini-ui-changes-apk-teardown-3650199/)<!-- TECH:END -->
+ - [Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal](https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/)
+ - [Sources: Coinbase and Zerohash are among the companies vying to issue Cloudflare&#39;s stablecoin, set to launch this year to support payments for the &quot;agentic web&quot; &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/260318/p41#a260318p41)
+ - [Kasa’s Matter-compatible smart plugs are on sale for $11 a pop](https://www.theverge.com/gadgets/896899/kasa-smart-wi-fi-plug-slim-amazon-early-big-spring-sale-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
