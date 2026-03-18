@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Companies are starting to track employees&#39; AI token use and tallying the costs to measure their return on AI investments, and to prevent potential token abuse &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/260317/p56#a260317p56)
- - [AI drone software company Swarmer closed up 520% in its Nasdaq debut, valuing it at $380M+; its tech has been deployed in 100K+ combat missions in Ukraine &lpar;Arvelisse Bonilla Ramos/Bloomberg&rpar;](http://www.techmeme.com/260317/p55#a260317p55)
- - [Google Home is finally cleaning up its act ahead of wider Gemini rollout](https://www.androidauthority.com/google-home-gemini-march-update-3649877/)<!-- TECH:END -->
+ - [Sources: Amazon, long the USPS&#39; biggest customer, plans to cut packages it ships via the service by at least two-thirds this fall, when its contract expires &lpar;Esther Fung/Wall Street Journal&rpar;](http://www.techmeme.com/260318/p2#a260318p2)
+ - [A US judge rules Apple can remove apps &quot;with or without cause&quot;, a loss for Musi, a streaming app removed from the App Store that used YouTube to source music &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/260318/p1#a260318p1)
+ - [Companies start to track employees&#39; AI token use, tallying the costs to measure their return on AI investments and to prevent unauthorized uses of tokens &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/260317/p56#a260317p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
