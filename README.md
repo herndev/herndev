@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s why I’ve installed a Dead Man’s Switch on my home server](https://www.androidauthority.com/home-server-dead-man-switch-3648903/)
- - [iPhone 16e gets a hardware upgrade that Android fans can only dream of](https://www.androidauthority.com/apple-iphone-17e-teardown-16e-parts-compatibility-3650016/)
- - [A Quantum Leap for the Turing Award](https://www.wired.com/story/a-quantum-leap-for-the-turing-award/)<!-- TECH:END -->
+ - [A Stanford study of 391K messages across 5,000 chats: AI chatbots affirmed user messages in nearly 66% of responses, frequently validating delusional thinking &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260318/p14#a260318p14)
+ - [Charles Bennett and Gilles Brassard, who pioneered quantum information theory, win the ACM AM Turing Award; the pair developed the BB84 cryptography protocol &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/260318/p13#a260318p13)
+ - [Gemini replaced my expense tracker — and I didn’t expect it to work this well](https://www.androidauthority.com/gemini-expense-tracker-replacement-3649079/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
