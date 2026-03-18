@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Companies are starting to track employees&#39; AI token use and tallying the costs to measure their return on AI investments, and to prevent potential token abuse &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/260317/p56#a260317p56)
  - [AI drone software company Swarmer closed up 520% in its Nasdaq debut, valuing it at $380M+; its tech has been deployed in 100K+ combat missions in Ukraine &lpar;Arvelisse Bonilla Ramos/Bloomberg&rpar;](http://www.techmeme.com/260317/p55#a260317p55)
- - [Source: Beijing has approved multiple Chinese companies to purchase H200 chips from Nvidia; a Chinese spokesperson said they are &quot;not aware of specifics&quot; &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/260317/p54#a260317p54)
- - [Do You Need to Upgrade Your MacBook Air? M5, M4, M3, M2, M1 Models Compared](https://www.cnet.com/tech/computing/macbook-air-upgrade-guide-m5-vs-m4-m3-m2-m1/)<!-- TECH:END -->
+ - [Google Home is finally cleaning up its act ahead of wider Gemini rollout](https://www.androidauthority.com/google-home-gemini-march-update-3649877/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
