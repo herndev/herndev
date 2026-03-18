@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Home hardware chief leaves for Oura](https://appleinsider.com/articles/26/03/17/apple-home-hardware-chief-leaves-for-oura?utm_source=rss)
- - [Brian Lynch, Apple&#39;s senior director in charge of home devices since 2022, leaves for Oura, a setback for a unit already contending with product delays &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260317/p46#a260317p46)
- - [An Argentine court ruled Polymarket lacked approval to operate and directed ISPs and app stores to restrict it; Polymarket is now unavailable in 30+ countries &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/260317/p45#a260317p45)<!-- TECH:END -->
+ - [A US appeals court puts on hold an earlier ruling that had blocked Perplexity from using its agentic shopping tool to shop on Amazon&#39;s marketplace &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/260317/p50#a260317p50)
+ - [Musi hands Apple big win as judge rules apps can be delisted &#39;with or without cause&#39;](https://appleinsider.com/articles/26/03/18/musi-hands-apple-big-win-as-judge-rules-apps-can-be-delisted-with-or-without-cause?utm_source=rss)
+ - [TurboTax deals: Tax day is almost here!](https://www.androidauthority.com/turbotax-deluxe-premier-home-business-deals-2-3649922/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
