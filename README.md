@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steam build of Death Stranding 2 leaks two days ahead of launch](https://www.pcgamer.com/games/action/steam-build-of-death-stranding-2-leaks-two-days-ahead-of-launch/)
  - [Arc Raiders Studio Parts Ways With Cofounder Over Sexual Misconduct Allegations It Was Unable To Substantiate](https://kotaku.com/rob-runesson-embark-finals-esports-misconduct-allegations-2000679734)
- - [Subnautica 2 set for early access release in May as Krafton signals surrender: &#39;We look forward to working with Ted Gill to support a smooth transition and work toward a successful launch&#39;](https://www.pcgamer.com/games/survival-crafting/subnautica-2-set-for-early-access-release-in-may-as-krafton-signals-surrender-we-look-forward-to-working-with-ted-gill-to-support-a-smooth-transition-and-work-toward-a-successful-launch/)
- - [Crimson Desert release time in your time zone](https://www.polygon.com/crimson-desert-release-time-edt-pdt-preload-preorder/)<!-- GAME:END -->
+ - [Subnautica 2 set for early access release in May as Krafton signals surrender: &#39;We look forward to working with Ted Gill to support a smooth transition and work toward a successful launch&#39;](https://www.pcgamer.com/games/survival-crafting/subnautica-2-set-for-early-access-release-in-may-as-krafton-signals-surrender-we-look-forward-to-working-with-ted-gill-to-support-a-smooth-transition-and-work-toward-a-successful-launch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
