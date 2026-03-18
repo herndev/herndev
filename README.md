@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sad face](http://9gag.com/gag/aE04PYO)
- - ⏩ [Board of Peace](http://9gag.com/gag/a6ZRN4q)
- - 👉 [Day](http://9gag.com/gag/a7ox3Wm)<!-- MEMES:END -->
+ - 💣 [Awesome technology](http://9gag.com/gag/aMVLxVW)
+ - ⏩ [Mood ...](http://9gag.com/gag/aAy9322)
+ - 👉 [Board of Peace](http://9gag.com/gag/a6ZRN4q)<!-- MEMES:END -->
 
 ---
 
