@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chartbeat: over two years, search traffic fell by 60% for small publishers with 1K-10K daily page views, 47% for medium-sized publishers, and 22% for large ones &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/260317/p52#a260317p52)
- - [Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems](https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/)
- - [Google, Meta and Amazon Join Global Pact to Fight Rising Online Scams](https://www.cnet.com/tech/services-and-software/google-meta-and-amazon-join-global-pact-to-fight-rising-online-scams/)<!-- TECH:END -->
+ - [AI drone software company Swarmer closed up 520% in its Nasdaq debut, valuing it at $380M+; its tech has been deployed in 100K+ combat missions in Ukraine &lpar;Arvelisse Bonilla Ramos/Bloomberg&rpar;](http://www.techmeme.com/260317/p55#a260317p55)
+ - [Source: Beijing has approved multiple Chinese companies to purchase H200 chips from Nvidia; a Chinese spokesperson said they are &quot;not aware of specifics&quot; &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/260317/p54#a260317p54)
+ - [Do You Need to Upgrade Your MacBook Air? M5, M4, M3, M2, M1 Models Compared](https://www.cnet.com/tech/computing/macbook-air-upgrade-guide-m5-vs-m4-m3-m2-m1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
