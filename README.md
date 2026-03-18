@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Founders are increasingly leasing multimillion-dollar mansions in San Francisco&#39;s wealthy neighborhoods as corporate HQs and hacker houses, amid the AI boom &lpar;The San Francisco Standard&rpar;](http://www.techmeme.com/260318/p8#a260318p8)
- - [Banks start offloading $18B debt tied to the $55B buyout of EA; sources say EA told potential investors AI could let gaming companies cut engineering workforces &lpar;Financial Times&rpar;](http://www.techmeme.com/260318/p7#a260318p7)
- - [Pixel Watch bug is wiping out exercise steps after March update](https://www.androidauthority.com/pixel-watch-exercise-step-tracking-bug-3649983/)<!-- TECH:END -->
+ - [OnePlus reveals key specs and launch date of its next compact phone](https://www.androidauthority.com/oneplus-15t-compact-flagship-launch-date-specs-3650007/)
+ - [Alibaba raises prices for its T-Head AI computing chips, including the Zhenwu 810E, by 5% to 34%, and its Cloud Parallel File Storage by 30%, after demand soars &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260318/p9#a260318p9)
+ - [Google drops the paywall on this Gemini feature that actually knows your life](https://www.androidauthority.com/google-expands-personal-intelligence-to-everyone-3650012/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
