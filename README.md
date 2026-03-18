@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
+ - 💣 [Sad face](http://9gag.com/gag/aE04PYO)
  - ⏩ [Fuse replacement at home](http://9gag.com/gag/aQzjdK7)
- - 👉 [Board of Peace](http://9gag.com/gag/a6ZRN4q)<!-- MEMES:END -->
+ - 👉 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
 
 ---
 
