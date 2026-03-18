@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Who are Spider-Man&#39;s Brand New Day villains? We solved the mystery.](https://www.polygon.com/spider-man-brand-new-day-villains/)
- - [&#39;You would not believe the number of AI games in our inbox&#39; says Tunic&#39;s publisher &#39;I am tired of seeing it&#39;](https://www.pcgamer.com/gaming-industry/you-would-not-believe-the-number-of-ai-games-in-our-inbox-says-tunics-publisher-i-am-tired-of-seeing-it/)
- - [Crimson Moon is Doom meets Dark Souls in a metalhead&#39;s dream Soulslike](https://www.polygon.com/crimson-moon-interview-gdc/)<!-- GAME:END -->
+ - [Resident Evil Dev Knows You’re Dying To Find Out Who Leon Married](https://kotaku.com/resident-evil-requiem-leon-married-wedding-ring-ada-claire-2000680062)
+ - [Resident Evil Requiem director offers another hint about Leon&#39;s ring](https://www.polygon.com/resident-evil-requiem-leon-kennedy-ring-married-director/)
+ - [A Slay The Spire 2 Guide For Getting Better And Surviving Your First Full Run](https://kotaku.com/slay-the-spire-2-tips-tricks-beginner-deckbuilding-2000680050)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
