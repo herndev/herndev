@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stoopidity](http://9gag.com/gag/amoZ50o)
- - ⏩ [Sad face](http://9gag.com/gag/aE04PYO)
- - 👉 [Is the men&#39;s burden.](http://9gag.com/gag/aryLoDV)<!-- MEMES:END -->
+ - 💣 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
+ - ⏩ [Would this work in your city/country?](http://9gag.com/gag/ayNKoVp)
+ - 👉 [Sad face](http://9gag.com/gag/aE04PYO)<!-- MEMES:END -->
 
 ---
 
