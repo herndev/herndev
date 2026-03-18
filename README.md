@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Awesome technology](http://9gag.com/gag/aMVLxVW)
- - ⏩ [Mood ...](http://9gag.com/gag/aAy9322)
- - 👉 [Board of Peace](http://9gag.com/gag/a6ZRN4q)<!-- MEMES:END -->
+ - 💣 [Stoopidity](http://9gag.com/gag/amoZ50o)
+ - ⏩ [Sad face](http://9gag.com/gag/aE04PYO)
+ - 👉 [Is the men&#39;s burden.](http://9gag.com/gag/aryLoDV)<!-- MEMES:END -->
 
 ---
 
