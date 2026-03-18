@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AI is the villain in Pragmata, but director Cho Yonghee wants to stress that his evil AI is slightly different to our real-life evil AI thanks to &#39;the presence of an AI character like Diana&#39;](https://www.pcgamer.com/games/action/ai-is-the-villain-in-pragmata-but-director-cho-yonghee-wants-to-stress-that-his-evil-ai-is-slightly-different-to-our-real-life-evil-ai-thanks-to-the-presence-of-an-ai-character-like-diana/)
- - [50 years ago, David Bowie defied musician-to-movie-star conventions in The Man Who Fell to Earth](https://www.polygon.com/david-bowie-man-who-fell-to-earth-at-50/)
- - [First Spider-Man: Brand New Day trailer is here, with villains galore](https://www.polygon.com/spider-man-brand-new-day-trailer-marvel-sony/)<!-- GAME:END -->
+ - [Who are Spider-Man&#39;s Brand New Day villains? We solved the mystery.](https://www.polygon.com/spider-man-brand-new-day-villains/)
+ - [&#39;You would not believe the number of AI games in our inbox&#39; says Tunic&#39;s publisher &#39;I am tired of seeing it&#39;](https://www.pcgamer.com/gaming-industry/you-would-not-believe-the-number-of-ai-games-in-our-inbox-says-tunics-publisher-i-am-tired-of-seeing-it/)
+ - [Crimson Moon is Doom meets Dark Souls in a metalhead&#39;s dream Soulslike](https://www.polygon.com/crimson-moon-interview-gdc/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
