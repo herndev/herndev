@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple stops vibe coding apps from pushing updates, citing rules on running code; Replit thinks Apple may approve opening AI-generated apps in a browser &lpar;The Information&rpar;](http://www.techmeme.com/260318/p23#a260318p23)
- - [Google might be undoing some controversial changes to the Photos app](https://www.androidauthority.com/google-photos-redesign-reverse-3650090/)
- - [Sources: Fluidstack withdraws from a €10B, 1GW AI data center project in Bosquel, France, and a Mistral-linked project in Paris, as it pivots toward the US &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/260318/p22#a260318p22)<!-- TECH:END -->
+ - [Bad vibes: Apple blocks updates for some AI coding apps in the App Store](https://appleinsider.com/articles/26/03/18/bad-vibes-apple-blocks-updates-for-some-ai-coding-apps-in-the-app-store?utm_source=rss)
+ - [Researchers from Google, iVerify, and Lookout discover DarkSword, a hacking tool used by Russian state-sponsored groups to target iOS 18 via Ukrainian websites &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260318/p28#a260318p28)
+ - [Stripe and Paradigm-backed startup Tempo launches the Machine Payments Protocol and its blockchain to facilitate autonomous AI agent transactions &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260318/p27#a260318p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
