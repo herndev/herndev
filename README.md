@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
- - ⏩ [Would this work in your city/country?](http://9gag.com/gag/ayNKoVp)
- - 👉 [What a 220V shock looks like. Happened in Brazil on live TV &lpar;structure was not grounded&rpar;](http://9gag.com/gag/azx31Qm)<!-- MEMES:END -->
+ - 💣 [2010. L\u00e1szl\u00f3 Hanyecz, a Hungarian-born Florida programmer, used 10,000 bitcoins to buy two pizzas, the first known real-world purchase with cryptocurrency.](http://9gag.com/gag/aGyQgw0)
+ - ⏩ [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - 👉 [Sad face](http://9gag.com/gag/aE04PYO)<!-- MEMES:END -->
 
 ---
 
