@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Invincible season 4 creates new parallels with James Gunn&#39;s Superman](https://www.polygon.com/invincible-season-4-superman-explainer/)
- - [Nvidia Says DLSS 5 Haters Are ‘Wrong’ As It Defends Fusing ‘Everything About The Game With Generative AI’](https://kotaku.com/dlss5-nvidia-gen-ai-graphics-jensen-huang-2000679764)
- - [Highguard Players Get Surprise Refunds On PS5 As Studio Shuts Its Doors For Good](https://kotaku.com/highguard-refunds-ps5-steam-xbox-shutdown-2000679761)<!-- GAME:END -->
+ - [Overwatch players prove that there&#39;s still some good left in them as Winston and co triumph over Talon in the seasonal Conquest event](https://www.pcgamer.com/games/fps/overwatch-players-prove-that-theres-still-some-good-left-in-them-as-winston-and-co-triumph-over-talon-in-the-seasonal-conquest-event/)
+ - [Intel must also hate waiting for shaders to compile as it begins bundling pre-compiled code into Arc drivers for faster load times](https://www.pcgamer.com/hardware/graphics-cards/intel-must-also-hate-waiting-for-shaders-to-compile-as-it-begins-bundling-pre-compiled-code-into-arc-drivers-for-faster-load-times/)
+ - [Invincible season 4 creates new parallels with James Gunn&#39;s Superman](https://www.polygon.com/invincible-season-4-superman-explainer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
