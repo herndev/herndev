@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sad face](http://9gag.com/gag/aE04PYO)
- - ⏩ [Why today\u2019s NBA is unwatchable](http://9gag.com/gag/awypomQ)
- - 👉 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)<!-- MEMES:END -->
+ - 💣 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)
+ - ⏩ [Board of Peace](http://9gag.com/gag/a6ZRN4q)
+ - 👉 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)<!-- MEMES:END -->
 
 ---
 
