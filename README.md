@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Invincible season 4 creates new parallels with James Gunn&#39;s Superman](https://www.polygon.com/invincible-season-4-superman-explainer/)
  - [Nvidia Says DLSS 5 Haters Are ‘Wrong’ As It Defends Fusing ‘Everything About The Game With Generative AI’](https://kotaku.com/dlss5-nvidia-gen-ai-graphics-jensen-huang-2000679764)
- - [Highguard Players Get Surprise Refunds On PS5 As Studio Shuts Its Doors For Good](https://kotaku.com/highguard-refunds-ps5-steam-xbox-shutdown-2000679761)
- - [Starfield&#39;s Terran Armada story DLC will let you recruit a robot who is &#39;not evil&#39; but also &#39;definitely not good&#39;](https://www.pcgamer.com/games/rpg/starfields-terran-armada-story-dlc-will-let-you-recruit-a-robot-who-is-not-evil-but-also-definitely-not-good/)<!-- GAME:END -->
+ - [Highguard Players Get Surprise Refunds On PS5 As Studio Shuts Its Doors For Good](https://kotaku.com/highguard-refunds-ps5-steam-xbox-shutdown-2000679761)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
