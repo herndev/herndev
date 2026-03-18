@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just basic human decency](http://9gag.com/gag/a87gE13)
- - ⏩ [When two old guys mean the world to each other](http://9gag.com/gag/a34ORrm)
- - 👉 [Me in 1997 instead of buying Bitcoins](http://9gag.com/gag/aZZY0nW)<!-- MEMES:END -->
+ - 💣 [Fuse replacement at home](http://9gag.com/gag/aQzjdK7)
+ - ⏩ [Sad face](http://9gag.com/gag/aE04PYO)
+ - 👉 [He&#39;s considering it](http://9gag.com/gag/aByegxZ)<!-- MEMES:END -->
 
 ---
 
