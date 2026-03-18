@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch players prove that there&#39;s still some good left in them as Winston and co triumph over Talon in the seasonal Conquest event](https://www.pcgamer.com/games/fps/overwatch-players-prove-that-theres-still-some-good-left-in-them-as-winston-and-co-triumph-over-talon-in-the-seasonal-conquest-event/)
- - [Intel must also hate waiting for shaders to compile as it begins bundling pre-compiled code into Arc drivers for faster load times](https://www.pcgamer.com/hardware/graphics-cards/intel-must-also-hate-waiting-for-shaders-to-compile-as-it-begins-bundling-pre-compiled-code-into-arc-drivers-for-faster-load-times/)
- - [Invincible season 4 creates new parallels with James Gunn&#39;s Superman](https://www.polygon.com/invincible-season-4-superman-explainer/)<!-- GAME:END -->
+ - [AI is the villain in Pragmata, but director Cho Yonghee wants to stress that his evil AI is slightly different to our real-life evil AI thanks to &#39;the presence of an AI character like Diana&#39;](https://www.pcgamer.com/games/action/ai-is-the-villain-in-pragmata-but-director-cho-yonghee-wants-to-stress-that-his-evil-ai-is-slightly-different-to-our-real-life-evil-ai-thanks-to-the-presence-of-an-ai-character-like-diana/)
+ - [50 years ago, David Bowie defied musician-to-movie-star conventions in The Man Who Fell to Earth](https://www.polygon.com/david-bowie-man-who-fell-to-earth-at-50/)
+ - [First Spider-Man: Brand New Day trailer is here, with villains galore](https://www.polygon.com/spider-man-brand-new-day-trailer-marvel-sony/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
