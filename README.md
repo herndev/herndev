@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would this work in your city/country?](http://9gag.com/gag/ayNKoVp)
- - ⏩ [Is the men&#39;s burden.](http://9gag.com/gag/aryLoDV)
- - 👉 [Relationship goals](http://9gag.com/gag/aW4XEYA)<!-- MEMES:END -->
+ - 💣 [Awesome technology](http://9gag.com/gag/aMVLxVW)
+ - ⏩ [Mood ...](http://9gag.com/gag/aAy9322)
+ - 👉 [Board of Peace](http://9gag.com/gag/a6ZRN4q)<!-- MEMES:END -->
 
 ---
 
