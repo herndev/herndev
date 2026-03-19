@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gotcha moment](http://9gag.com/gag/aqyEn1v)
- - ⏩ [Black father STANDS UP.](http://9gag.com/gag/agmeBBr)
- - 👉 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)<!-- MEMES:END -->
+ - 💣 [The East has fallen](http://9gag.com/gag/a34OEP7)
+ - ⏩ [FAQ in the comment](http://9gag.com/gag/azx3Mem)
+ - 👉 [Well, I wouldn&#39;t do that.](http://9gag.com/gag/a9yGn41)<!-- MEMES:END -->
 
 ---
 
