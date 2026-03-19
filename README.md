@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [One of the favourites 2](http://9gag.com/gag/awypzmr)
  - ⏩ [Dementia](http://9gag.com/gag/amoZgzy)
- - 👉 [A cat caused a man to experience paranormal fear](http://9gag.com/gag/an7oQwL)<!-- MEMES:END -->
+ - 👉 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)<!-- MEMES:END -->
 
 ---
 
