@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)
- - ⏩ [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)
+ - 💣 [The shot shot him](http://9gag.com/gag/agmegQ6)
+ - ⏩ [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)
  - 👉 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)<!-- MEMES:END -->
 
 ---
