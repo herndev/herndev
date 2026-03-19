@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [FAQ in the comment](http://9gag.com/gag/azx3Mem)
- - ⏩ [The Rock&#39;s priorities are straight](http://9gag.com/gag/aPAq37P)
- - 👉 [Why? Please Why?](http://9gag.com/gag/aGyQdm6)<!-- MEMES:END -->
+ - 💣 [Draw me like one of your japenese swords](http://9gag.com/gag/axyrMdM)
+ - ⏩ [This is next level RC fun](http://9gag.com/gag/aXPOoj2)
+ - 👉 [Anything for views](http://9gag.com/gag/aBye2jP)<!-- MEMES:END -->
 
 ---
 
