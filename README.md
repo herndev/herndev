@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scoot around with the Segway Max G3 Electric Scooter and save $450](https://www.androidauthority.com/segway-max-g3-electric-scooter-deal-3650284/)
- - [Meta confirms a critical security incident after an internal rogue AI agent&#39;s actions led to the exposure of sensitive data to employees without authorization &lpar;Jyoti Mann/The Information&rpar;](http://www.techmeme.com/260318/p48#a260318p48)
- - [ReMarkable could finally go for the mass market with its next E-Ink tablet](https://www.androidauthority.com/remarkable-paper-pure-leaked-3650322/)<!-- TECH:END -->
+ - [Perplexity releases its Comet browser app for iOS and iPadOS with a built-in AI assistant, four months after launching on Android &lpar;Laurent Giret/Thurrott&rpar;](http://www.techmeme.com/260318/p50#a260318p50)
+ - [NYC-based BusRight, which provides an AI-powered platform to help school bus operators manage routes, communication, and more, raised $30M from Volition Capital &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260318/p49#a260318p49)
+ - [Apple Update Frees Families From Sharing Only 1 Payment Option](https://www.cnet.com/tech/services-and-software/apple-unchains-family-members-from-a-single-payment-option-in-new-family-sharing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
