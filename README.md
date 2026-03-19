@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 months later, the Pixel Watch 4’s GPS is still my favorite upgrade](https://www.androidauthority.com/pixel-watch-4-gps-accuracy-3649940/)
- - [Get Ready for a Year of Chaotic Weather in the US](https://www.wired.com/story/get-ready-for-a-year-of-chaotic-weather-in-the-us/)
- - [Trump is threatening international students, and a new bill could help stop him](https://www.theverge.com/policy/897097/opt-bill-international-student-visas)<!-- TECH:END -->
+ - [One UI 8.5 beta could land on Galaxy S24 and FE models for the first time](https://www.androidauthority.com/one-ui-8-5-beta-galaxy-s24-and-fe-phones-3650384/)
+ - [I’m a Spotify addict and these are my 8 tricks to avoid listening to bad music](https://www.androidauthority.com/spotify-addict-tricks-avoid-listening-bad-music-3650120/)
+ - [Best Electric Mountain Bikes &lpar;2026&rpar;: Specialized, Cannondale, Salsa](https://www.wired.com/story/best-electric-mountain-bikes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
