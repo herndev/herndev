@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Solasta 2 is shaping up to be the kind of tactical D&amp;D hexcrawl Baldur&#39;s Gate 3 very much was not](https://www.pcgamer.com/games/rpg/solasta-2-in-early-access-seems-better-than-the-original-in-every-way-that-matters/)
- - [PUBG: Battlegrounds Turns 9 – 3 Reasons Why Now is the Best Time to Drop In](https://news.xbox.com/en-us/2026/03/18/pubg-9th-anniversary/)
- - [Dead by Daylight&#39;s new K-pop chapter doesn&#39;t add a new killer, but it does sound like one more step towards a healthier game: &#39;It&#39;s a bit of a trial&#39;](https://www.pcgamer.com/games/horror/dead-by-daylights-new-k-pop-chapter-doesnt-add-a-new-killer-but-it-does-sound-like-one-more-step-towards-a-healthier-game-its-a-bit-of-a-trial/)<!-- GAME:END -->
+ - [Netflix wants to send KPop Demon Hunters on tour](https://www.polygon.com/kpop-demon-hunters-world-tour-netflix/)
+ - [Clair Obscur&#39;s narrative lead says while it&#39;s &#39;a painful process&#39; to write, AI has never tempted her: &#39;The whole point of writing is to express what I have in my head&#39;](https://www.pcgamer.com/games/rpg/clair-obscurs-narrative-lead-says-while-its-a-painful-process-to-write-ai-has-never-tempted-her-the-whole-point-of-writing-is-to-express-what-i-have-in-my-head/)
+ - [Asus ROG Strix XG27JCG review](https://www.pcgamer.com/hardware/gaming-monitors/asus-rog-strix-xg27jcg-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
