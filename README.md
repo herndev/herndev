@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Casio’s new $600 calculator is a work of art](https://www.theverge.com/tech/897278/casio-s100x-calculator-japanese-lacquer-finish-limited-edition)
- - [Paramount’s $110 billion Warner Bros. gamble](https://www.theverge.com/podcast/896694/paramount-warner-bros-discovery-david-ellison-netflix-deal-merger)
- - [MLB makes Polymarket its official prediction markets platform, giving it exclusive data access; Polymarket will restrict contracts that pose &quot;integrity risk&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260319/p29#a260319p29)<!-- TECH:END -->
+ - [IKEA has a weird new Matter smart lamp to sell you](https://www.androidauthority.com/ikea-varmblixt-matter-lamp-us-3650432/)
+ - [DoorDash launches Tasks, a new app that pays delivery couriers in some markets to submit video clips and complete other tasks for training AI models &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260319/p32#a260319p32)
+ - [Belkin’s wireless HDMI adapter freed me from a long annoying cable when I travel](https://www.theverge.com/tech/889512/belkin-connectair-wireless-hdmi-display-adapter-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
