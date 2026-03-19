@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8.5 beta could land on Galaxy S24 and FE models for the first time](https://www.androidauthority.com/one-ui-8-5-beta-galaxy-s24-and-fe-phones-3650384/)
- - [I’m a Spotify addict and these are my 8 tricks to avoid listening to bad music](https://www.androidauthority.com/spotify-addict-tricks-avoid-listening-bad-music-3650120/)
- - [Best Electric Mountain Bikes &lpar;2026&rpar;: Specialized, Cannondale, Salsa](https://www.wired.com/story/best-electric-mountain-bikes/)<!-- TECH:END -->
+ - [There&#39;s so much more we can do with iPhone, says Tim Cook](https://appleinsider.com/articles/26/03/19/theres-so-much-more-we-can-do-with-iphone-says-tim-cook?utm_source=rss)
+ - [The Men Obsessed With ‘High T’](https://www.wired.com/story/the-men-obsessed-with-high-t/)
+ - [Android 16 has a silent VPN bug Google hasn’t fixed for months, claim multiple VPN providers](https://www.androidauthority.com/android-16-vpn-bug-3650394/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
