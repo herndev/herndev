@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sketchy iPhone Fold launch timing shared by analyst with shaky history](https://appleinsider.com/articles/26/03/19/sketchy-iphone-fold-launch-timing-shared-by-analyst-with-shaky-history?utm_source=rss)
- - [Sources: Kalshi is raising ~$1B led by Coatue at a $22B valuation, up from the $11B valuation announced in December, and has a revenue run rate of ~$1.5B &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p49#a260319p49)
- - [Amazon acquires Zurich-based autonomous robotics startup Rivr, formerly Swiss-Mile; PitchBook: the startup was valued at $110M in an August 2024 funding round &lpar;The Information&rpar;](http://www.techmeme.com/260319/p48#a260319p48)<!-- TECH:END -->
+ - [Wii achievements are on their way to your favorite emulator](https://www.androidauthority.com/wii-achievements-3650594/)
+ - [‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’](https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/)
+ - [This upcoming Google TV Streamer rival is two steps forward, one step back](https://www.androidauthority.com/thomson-google-tv-streamer-rival-3650599/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
