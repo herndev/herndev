@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Counterpoint: Apple&#39;s China smartphone sales surged 23% YoY in the first nine weeks of 2026, while the overall market fell 4% amid rising Android phone prices &lpar;Reuters&rpar;](http://www.techmeme.com/260318/p56#a260318p56)
  - [Walmart is embedding its own chatbot Sparky in ChatGPT after conversion rates via OpenAI&#39;s Instant Checkout were 3x lower than those requiring clicking out &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260318/p55#a260318p55)
- - [Anthropic releases a survey of 80,508 Claude users&#39; views, hopes, and fears about AI, calling it &quot;the largest and most multilingual qualitative study&quot; &lpar;Anthropic&rpar;](http://www.techmeme.com/260318/p54#a260318p54)
- - [Viwoods AiPaper e-reader review: a damn fine digital notebook](https://appleinsider.com/articles/26/03/19/viwoods-aipaper-e-reader-review-a-damn-fine-digital-notebook?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, March 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-march-19/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
