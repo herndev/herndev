@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
- - ⏩ [Well, I wouldn&#39;t do that.](http://9gag.com/gag/a9yGn41)
- - 👉 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)<!-- MEMES:END -->
+ - 💣 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
+ - ⏩ [Autumn is a screamer](http://9gag.com/gag/aYQ0y9v)
+ - 👉 [Now i get inspired to make a video game](http://9gag.com/gag/aBye2gQ)<!-- MEMES:END -->
 
 ---
 
