@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is next level RC fun](http://9gag.com/gag/aXPOoj2)
- - ⏩ [There is always a reason](http://9gag.com/gag/amoZgL2)
- - 👉 [Anything for views](http://9gag.com/gag/aBye2jP)<!-- MEMES:END -->
+ - 💣 [Gotcha moment](http://9gag.com/gag/aqyEn1v)
+ - ⏩ [Black father STANDS UP.](http://9gag.com/gag/agmeBBr)
+ - 👉 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)<!-- MEMES:END -->
 
 ---
 
