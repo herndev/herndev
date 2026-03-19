@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)
- - ⏩ [Autumn is a screamer](http://9gag.com/gag/aYQ0y9v)
- - 👉 [Now i get inspired to make a video game](http://9gag.com/gag/aBye2gQ)<!-- MEMES:END -->
+ - 💣 [One of the favourites 2](http://9gag.com/gag/awypzmr)
+ - ⏩ [Dementia](http://9gag.com/gag/amoZgzy)
+ - 👉 [A cat caused a man to experience paranormal fear](http://9gag.com/gag/an7oQwL)<!-- MEMES:END -->
 
 ---
 
