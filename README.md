@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There&#39;s so much more we can do with iPhone, says Tim Cook](https://appleinsider.com/articles/26/03/19/theres-so-much-more-we-can-do-with-iphone-says-tim-cook?utm_source=rss)
- - [The Men Obsessed With ‘High T’](https://www.wired.com/story/the-men-obsessed-with-high-t/)
- - [Android 16 has a silent VPN bug Google hasn’t fixed for months, claim multiple VPN providers](https://www.androidauthority.com/android-16-vpn-bug-3650394/)<!-- TECH:END -->
+ - [The NHTSA escalates its investigation into Tesla&#39;s FSD to an &quot;engineering analysis&quot;, a step that could lead to a mandatory recall or other enforcement action &lpar;Ryan Felton/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p22#a260319p22)
+ - [Should You Hike in Boots or Trail Runners? &lpar;2026&rpar;](https://www.wired.com/story/should-you-hike-in-boots-or-trail-runners/)
+ - [Uber to invest $1.25 billion in Rivian as part of new robotaxi deal](https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
