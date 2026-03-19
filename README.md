@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Counterpoint: Apple&#39;s China smartphone sales surged 23% YoY in the first nine weeks of 2026, while the overall market fell 4% amid rising Android phone prices &lpar;Reuters&rpar;](http://www.techmeme.com/260318/p56#a260318p56)
- - [Walmart is embedding its own chatbot Sparky in ChatGPT after conversion rates via OpenAI&#39;s Instant Checkout were 3x lower than those requiring clicking out &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260318/p55#a260318p55)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, March 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-march-19/)<!-- TECH:END -->
+ - [Figma&#39;s stock closed down ~8% on March 18 after Google updated its Stitch AI coding tool for UI design; FIG is down ~80% since the company&#39;s IPO in August 2025 &lpar;John Wang/@j0hnwang&rpar;](http://www.techmeme.com/260319/p2#a260319p2)
+ - [Google updates Stitch, which lets users turn natural language prompts into UI designs, introducing an &quot;AI-native&quot; design canvas and a reasoning design agent &lpar;Rustin Banks/The Keyword&rpar;](http://www.techmeme.com/260319/p1#a260319p1)
+ - [AppMagic: Apple&#39;s revenue from GenAI apps grew from ~$35M in January 2025 to a high of $101M in August 2025, with 75% coming from ChatGPT and only ~5% from Grok &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260318/p57#a260318p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
