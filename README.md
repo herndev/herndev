@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Fal, a GenAI model hosting service, is in talks to raise $300M to $350M at an $8B valuation; annualized revenue has hit $400M, up from $200M in October &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/260319/p7#a260319p7)
- - [Industry executives say chip testing firms are racing to meet AI chip demand; Advantest, Teradyne, and Chroma shares have more than tripled over the past year &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/260319/p6#a260319p6)
- - [PwC&#39;s US boss Paul Griggs says partners who resist AI have no place at the firm, and it plans to convert some services into AI-powered automated tools &lpar;Stephen Foley/Financial Times&rpar;](http://www.techmeme.com/260319/p5#a260319p5)<!-- TECH:END -->
+ - [Edra, which says it helps companies automate workflows by turning their operational data into a living knowledge base, raised a $30M Series A led by Sequoia &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260319/p10#a260319p10)
+ - [Chinese cities are offering free apartments and office space to attract and incubate &quot;one-person companies&quot;, startups run by a single founder with AI&#39;s help &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/260319/p9#a260319p9)
+ - [Spider-Man ditches Xperia for a Galaxy Z Flip in Brand New Day, and the internet can’t get over it](https://www.androidauthority.com/spider-man-brand-new-day-galaxy-z-flip-7-3650355/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
