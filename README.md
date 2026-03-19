@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Saying what we are thinking.](http://9gag.com/gag/aZZYryV)
- - ⏩ [Anything for views](http://9gag.com/gag/aBye2jP)
- - 👉 [A cat caused a man to experience paranormal fear](http://9gag.com/gag/an7oQwL)<!-- MEMES:END -->
+ - 💣 [Now i get inspired to make a video game](http://9gag.com/gag/aBye2gQ)
+ - ⏩ [He probably thought: `Oh Shee-Heet`](http://9gag.com/gag/ajP4m6g)
+ - 👉 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)<!-- MEMES:END -->
 
 ---
 
