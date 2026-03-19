@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of the favourites 2](http://9gag.com/gag/awypzmr)
- - ⏩ [Anything for views](http://9gag.com/gag/aBye2jP)
- - 👉 [A cat caused a man to experience paranormal fear](http://9gag.com/gag/an7oQwL)<!-- MEMES:END -->
+ - 💣 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
+ - ⏩ [Well, I wouldn&#39;t do that.](http://9gag.com/gag/a9yGn41)
+ - 👉 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)<!-- MEMES:END -->
 
 ---
 
