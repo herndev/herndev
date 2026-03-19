@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Draw me like one of your japenese swords](http://9gag.com/gag/axyrMdM)
- - ⏩ [This is next level RC fun](http://9gag.com/gag/aXPOoj2)
- - 👉 [Anything for views](http://9gag.com/gag/aBye2jP)<!-- MEMES:END -->
+ - 💣 [Saying what we are thinking.](http://9gag.com/gag/aZZYryV)
+ - ⏩ [Anything for views](http://9gag.com/gag/aBye2jP)
+ - 👉 [A cat caused a man to experience paranormal fear](http://9gag.com/gag/an7oQwL)<!-- MEMES:END -->
 
 ---
 
