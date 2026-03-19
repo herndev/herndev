@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
- - ⏩ [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)
- - 👉 [Snow leopards of Himalaya are known as `Ghost of Himalaya`, can you spot one here?](http://9gag.com/gag/aRBpre7)<!-- MEMES:END -->
+ - 💣 [This is next level RC fun](http://9gag.com/gag/aXPOoj2)
+ - ⏩ [There is always a reason](http://9gag.com/gag/amoZgL2)
+ - 👉 [Anything for views](http://9gag.com/gag/aBye2jP)<!-- MEMES:END -->
 
 ---
 
