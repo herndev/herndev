@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He probably thought: `Oh Shee-Heet`](http://9gag.com/gag/ajP4m6g)
- - ⏩ [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
- - 👉 [FAQ in the comment](http://9gag.com/gag/azx3Mem)<!-- MEMES:END -->
+ - 💣 [Is the men&#39;s burden.](http://9gag.com/gag/aryLoDV)
+ - ⏩ [Autumn is a screamer](http://9gag.com/gag/aYQ0y9v)
+ - 👉 [The Rock&#39;s priorities are straight](http://9gag.com/gag/aPAq37P)<!-- MEMES:END -->
 
 ---
 
