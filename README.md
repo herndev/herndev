@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Autumn is a screamer](http://9gag.com/gag/aYQ0y9v)
- - ⏩ [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
- - 👉 [Why? Please Why?](http://9gag.com/gag/aGyQdm6)<!-- MEMES:END -->
+ - 💣 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)
+ - ⏩ [Autumn is a screamer](http://9gag.com/gag/aYQ0y9v)
+ - 👉 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)<!-- MEMES:END -->
 
 ---
 
