@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now i get inspired to make a video game](http://9gag.com/gag/aBye2gQ)
- - ⏩ [He probably thought: `Oh Shee-Heet`](http://9gag.com/gag/ajP4m6g)
- - 👉 [Two of you aren&#39;t allowed to talk about authentic food](http://9gag.com/gag/a87gEDY)<!-- MEMES:END -->
+ - 💣 [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
+ - ⏩ [Autumn is a screamer](http://9gag.com/gag/aYQ0y9v)
+ - 👉 [Fuse replacement at home](http://9gag.com/gag/aQzjdK7)<!-- MEMES:END -->
 
 ---
 
