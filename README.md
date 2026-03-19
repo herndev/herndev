@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity&#39;s new AI health feature includes Apple Health integration nobody should use](https://appleinsider.com/articles/26/03/19/perplexitys-new-ai-health-feature-includes-apple-health-integration-nobody-should-use?utm_source=rss)
- - [Oasis Security, which specializes in securing non-human identities, such as AI bots and automated work tools, raised $120M, bringing its total funding to $190M &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/260319/p42#a260319p42)
- - [Google announces a new &quot;advanced flow&quot; for Android sideloading that requires a mandatory 24-hour cooling-off period to install apps from unverified developers &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/260319/p41#a260319p41)<!-- TECH:END -->
+ - [Bluesky raised a $100M Series B led by Bain Capital Crypto in April 2025, following a $15M Series A in 2024 and an $8M seed in 2023; it now has over 43M users &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260319/p45#a260319p45)
+ - [Hermès doesn’t include a power adapter with its $5,150 charging case](https://www.theverge.com/tech/897474/hermes-paddock-wireless-charger-apple-watch-airpods-iphone-leather-luxury)
+ - [Sources: Jeff Bezos is in talks to raise $100B for a fund that would buy companies in industrial sectors such as chipmaking and defense and revamp them with AI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260319/p44#a260319p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
