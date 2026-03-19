@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky raised a $100M Series B led by Bain Capital Crypto in April 2025, following a $15M Series A in 2024 and an $8M seed in 2023; it now has over 43M users &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260319/p45#a260319p45)
- - [Hermès doesn’t include a power adapter with its $5,150 charging case](https://www.theverge.com/tech/897474/hermes-paddock-wireless-charger-apple-watch-airpods-iphone-leather-luxury)
- - [Sources: Jeff Bezos is in talks to raise $100B for a fund that would buy companies in industrial sectors such as chipmaking and defense and revamp them with AI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260319/p44#a260319p44)<!-- TECH:END -->
+ - [The coolest game controller for your phone is $50 off](https://www.theverge.com/gadgets/897465/ohsnap-mcon-phone-controller-deal-sale)
+ - [Sources: Google has started consumer beta testing of a dedicated Gemini AI app for the Mac, as it seeks to compete with Mac apps for ChatGPT and Claude &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260319/p46#a260319p46)
+ - [Deal: The ASUS ROG Flow Z13 is an overpowered Windows tablet at a record-low price!](https://www.androidauthority.com/asus-rog-flow-z13-deal-3650283/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
