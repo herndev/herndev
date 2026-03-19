@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil Dev Knows You’re Dying To Find Out Who Leon Married](https://kotaku.com/resident-evil-requiem-leon-married-wedding-ring-ada-claire-2000680062)
- - [Resident Evil Requiem director offers another hint about Leon&#39;s ring](https://www.polygon.com/resident-evil-requiem-leon-kennedy-ring-married-director/)
- - [A Slay The Spire 2 Guide For Getting Better And Surviving Your First Full Run](https://kotaku.com/slay-the-spire-2-tips-tricks-beginner-deckbuilding-2000680050)<!-- GAME:END -->
+ - [Solasta 2 is shaping up to be the kind of tactical D&amp;D hexcrawl Baldur&#39;s Gate 3 very much was not](https://www.pcgamer.com/games/rpg/solasta-2-in-early-access-seems-better-than-the-original-in-every-way-that-matters/)
+ - [PUBG: Battlegrounds Turns 9 – 3 Reasons Why Now is the Best Time to Drop In](https://news.xbox.com/en-us/2026/03/18/pubg-9th-anniversary/)
+ - [Dead by Daylight&#39;s new K-pop chapter doesn&#39;t add a new killer, but it does sound like one more step towards a healthier game: &#39;It&#39;s a bit of a trial&#39;](https://www.pcgamer.com/games/horror/dead-by-daylights-new-k-pop-chapter-doesnt-add-a-new-killer-but-it-does-sound-like-one-more-step-towards-a-healthier-game-its-a-bit-of-a-trial/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
