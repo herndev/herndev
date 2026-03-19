@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The East has fallen](http://9gag.com/gag/a34OEP7)
- - ⏩ [FAQ in the comment](http://9gag.com/gag/azx3Mem)
- - 👉 [Well, I wouldn&#39;t do that.](http://9gag.com/gag/a9yGn41)<!-- MEMES:END -->
+ - 💣 [He probably thought: `Oh Shee-Heet`](http://9gag.com/gag/ajP4m6g)
+ - ⏩ [Why I got to cretan wedding parties &lpar;...and why you should too&rpar;](http://9gag.com/gag/aZZYyo3)
+ - 👉 [FAQ in the comment](http://9gag.com/gag/azx3Mem)<!-- MEMES:END -->
 
 ---
 
