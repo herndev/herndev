@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy is living the dream. Sword is nice too](http://9gag.com/gag/abA8gbL)
- - ⏩ [Well, I wouldn&#39;t do that.](http://9gag.com/gag/a9yGn41)
- - 👉 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)<!-- MEMES:END -->
+ - 💣 [Autumn is a screamer](http://9gag.com/gag/aYQ0y9v)
+ - ⏩ [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
+ - 👉 [Why? Please Why?](http://9gag.com/gag/aGyQdm6)<!-- MEMES:END -->
 
 ---
 
