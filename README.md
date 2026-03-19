@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg&#39;s original metaverse vision is effectively over, after renaming Facebook to Meta and spending ~$80B on the endeavor, as his focus shifts to AI &lpar;New York Times&rpar;](http://www.techmeme.com/260319/p39#a260319p39)
- - [Poll: What do you think about Android’s new sideloading flow?](https://www.androidauthority.com/android-new-sideloading-flow-poll-3650351/)
- - [Prediction markets are trying to lure journalists with partnership deals](https://www.theverge.com/news/897388/kalshi-polymarket-journalists-partnership-deals)<!-- TECH:END -->
+ - [Perplexity&#39;s new AI health feature includes Apple Health integration nobody should use](https://appleinsider.com/articles/26/03/19/perplexitys-new-ai-health-feature-includes-apple-health-integration-nobody-should-use?utm_source=rss)
+ - [Oasis Security, which specializes in securing non-human identities, such as AI bots and automated work tools, raised $120M, bringing its total funding to $190M &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/260319/p42#a260319p42)
+ - [Google announces a new &quot;advanced flow&quot; for Android sideloading that requires a mandatory 24-hour cooling-off period to install apps from unverified developers &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/260319/p41#a260319p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
