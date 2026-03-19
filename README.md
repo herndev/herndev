@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wii achievements are on their way to your favorite emulator](https://www.androidauthority.com/wii-achievements-3650594/)
- - [‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’](https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/)
- - [This upcoming Google TV Streamer rival is two steps forward, one step back](https://www.androidauthority.com/thomson-google-tv-streamer-rival-3650599/)<!-- TECH:END -->
+ - [OpenAI plans to unify ChatGPT, Codex, and its browser into a desktop &quot;superapp&quot; to simplify the user experience and focus on engineering and business customers &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p54#a260319p54)
+ - [Sources: Anthropic met behind closed doors with House Homeland Security and discussed issues like export controls, only briefly touching on its DOD fight &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260319/p53#a260319p53)
+ - [Forget the Galaxy Watch 8, this upcoming Android smartwatch could be the new battery king](https://www.androidauthority.com/oneplus-watch-4-leaked-specs-3650635/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
