@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Figma&#39;s stock closed down ~8% on March 18 after Google updated its Stitch AI coding tool for UI design; FIG is down ~80% since the company&#39;s IPO in August 2025 &lpar;John Wang/@j0hnwang&rpar;](http://www.techmeme.com/260319/p2#a260319p2)
- - [Google updates Stitch, which lets users turn natural language prompts into UI designs, introducing an &quot;AI-native&quot; design canvas and a reasoning design agent &lpar;Rustin Banks/The Keyword&rpar;](http://www.techmeme.com/260319/p1#a260319p1)
- - [AppMagic: Apple&#39;s revenue from GenAI apps grew from ~$35M in January 2025 to a high of $101M in August 2025, with 75% coming from ChatGPT and only ~5% from Grok &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260318/p57#a260318p57)<!-- TECH:END -->
+ - [PwC&#39;s US boss Paul Griggs says partners who resist AI have no place at the firm, and it plans to convert some services into AI-powered automated tools &lpar;Stephen Foley/Financial Times&rpar;](http://www.techmeme.com/260319/p5#a260319p5)
+ - [Best Buy Discount Codes and Deals: Up to 60% Off](https://www.wired.com/story/best-buy-discount-code/)
+ - [Nike Promo Codes and Deals: 30% Off](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
