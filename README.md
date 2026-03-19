@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is the men&#39;s burden.](http://9gag.com/gag/aryLoDV)
- - ⏩ [Autumn is a screamer](http://9gag.com/gag/aYQ0y9v)
- - 👉 [The Rock&#39;s priorities are straight](http://9gag.com/gag/aPAq37P)<!-- MEMES:END -->
+ - 💣 [FAQ in the comment](http://9gag.com/gag/azx3Mem)
+ - ⏩ [The Rock&#39;s priorities are straight](http://9gag.com/gag/aPAq37P)
+ - 👉 [Why? Please Why?](http://9gag.com/gag/aGyQdm6)<!-- MEMES:END -->
 
 ---
 
