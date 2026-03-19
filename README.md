@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix wants to send KPop Demon Hunters on tour](https://www.polygon.com/kpop-demon-hunters-world-tour-netflix/)
- - [Clair Obscur&#39;s narrative lead says while it&#39;s &#39;a painful process&#39; to write, AI has never tempted her: &#39;The whole point of writing is to express what I have in my head&#39;](https://www.pcgamer.com/games/rpg/clair-obscurs-narrative-lead-says-while-its-a-painful-process-to-write-ai-has-never-tempted-her-the-whole-point-of-writing-is-to-express-what-i-have-in-my-head/)
- - [Asus ROG Strix XG27JCG review](https://www.pcgamer.com/hardware/gaming-monitors/asus-rog-strix-xg27jcg-review/)<!-- GAME:END -->
+ - [Fake Pudgy Penguins phishing page &#39;plays dead&#39; when it thinks it&#39;s being probed to avoid detection](https://www.pcgamer.com/hardware/fake-pudgy-penguins-phishing-page-plays-dead-when-it-thinks-its-being-probed-to-avoid-detection/)
+ - [Buffy&#39;s Sarah Michelle Gellar begs fans not to read leaked reboot script](https://www.polygon.com/sarah-michelle-gellar-buffy-reboot-script/)
+ - [Michael B. Jordan&#39;s favorite movie, Princess Mononoke, is an epic anime classic that&#39;s never been more relevant](https://www.polygon.com/princess-mononoke-hayao-miyazaki-michael-b-jordan/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
