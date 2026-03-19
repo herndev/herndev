@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NHTSA escalates its investigation into Tesla&#39;s FSD to an &quot;engineering analysis&quot;, a step that could lead to a mandatory recall or other enforcement action &lpar;Ryan Felton/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p22#a260319p22)
- - [Should You Hike in Boots or Trail Runners? &lpar;2026&rpar;](https://www.wired.com/story/should-you-hike-in-boots-or-trail-runners/)
- - [Uber to invest $1.25 billion in Rivian as part of new robotaxi deal](https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal)<!-- TECH:END -->
+ - [OpenAI agrees to acquire Astral, which makes Python tools for developers, to integrate its team into Codex, and says Codex has 2M+ users, up 3x since January &lpar;Agnee Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260319/p27#a260319p27)
+ - [The UK CMA launches an investigation into Adobe, saying early membership cancellation fees for certain products might be in breach of consumer protection laws &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p26#a260319p26)
+ - [Tubi and TikTok are partnering to produce long form series](https://www.theverge.com/entertainment/896648/tubi-tiktok-creatorverse-incubator)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
