@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Masimo wins hollow victory over Apple Watch&#39;s blood oxygen sensors](https://appleinsider.com/articles/26/03/19/masimo-wins-hollow-victory-over-apple-watchs-blood-oxygen-sensors?utm_source=rss)
- - [AT&amp;T is trying to drive you to a new plan by making its old ones worse](https://www.androidauthority.com/att-legacy-price-increase-3650429/)
- - [ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance](https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/)<!-- TECH:END -->
+ - [Mark Zuckerberg&#39;s original metaverse vision is effectively over, after renaming Facebook to Meta and spending ~$80B on the endeavor, as his focus shifts to AI &lpar;New York Times&rpar;](http://www.techmeme.com/260319/p39#a260319p39)
+ - [Poll: What do you think about Android’s new sideloading flow?](https://www.androidauthority.com/android-new-sideloading-flow-poll-3650351/)
+ - [Prediction markets are trying to lure journalists with partnership deals](https://www.theverge.com/news/897388/kalshi-polymarket-journalists-partnership-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
