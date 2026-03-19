@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI agrees to acquire Astral, which makes Python tools for developers, to integrate its team into Codex, and says Codex has 2M+ users, up 3x since January &lpar;Agnee Ghosh/Bloomberg&rpar;](http://www.techmeme.com/260319/p27#a260319p27)
- - [The UK CMA launches an investigation into Adobe, saying early membership cancellation fees for certain products might be in breach of consumer protection laws &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p26#a260319p26)
- - [Tubi and TikTok are partnering to produce long form series](https://www.theverge.com/entertainment/896648/tubi-tiktok-creatorverse-incubator)<!-- TECH:END -->
+ - [Casio’s new $600 calculator is a work of art](https://www.theverge.com/tech/897278/casio-s100x-calculator-japanese-lacquer-finish-limited-edition)
+ - [Paramount’s $110 billion Warner Bros. gamble](https://www.theverge.com/podcast/896694/paramount-warner-bros-discovery-david-ellison-netflix-deal-merger)
+ - [MLB makes Polymarket its official prediction markets platform, giving it exclusive data access; Polymarket will restrict contracts that pose &quot;integrity risk&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260319/p29#a260319p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
