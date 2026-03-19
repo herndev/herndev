@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Edra, which says it helps companies automate workflows by turning their operational data into a living knowledge base, raised a $30M Series A led by Sequoia &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260319/p10#a260319p10)
- - [Chinese cities are offering free apartments and office space to attract and incubate &quot;one-person companies&quot;, startups run by a single founder with AI&#39;s help &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/260319/p9#a260319p9)
- - [Spider-Man ditches Xperia for a Galaxy Z Flip in Brand New Day, and the internet can’t get over it](https://www.androidauthority.com/spider-man-brand-new-day-galaxy-z-flip-7-3650355/)<!-- TECH:END -->
+ - [5 months later, the Pixel Watch 4’s GPS is still my favorite upgrade](https://www.androidauthority.com/pixel-watch-4-gps-accuracy-3649940/)
+ - [Get Ready for a Year of Chaotic Weather in the US](https://www.wired.com/story/get-ready-for-a-year-of-chaotic-weather-in-the-us/)
+ - [Trump is threatening international students, and a new bill could help stop him](https://www.theverge.com/policy/897097/opt-bill-international-student-visas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
