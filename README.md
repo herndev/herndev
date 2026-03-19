@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IKEA has a weird new Matter smart lamp to sell you](https://www.androidauthority.com/ikea-varmblixt-matter-lamp-us-3650432/)
- - [DoorDash launches Tasks, a new app that pays delivery couriers in some markets to submit video clips and complete other tasks for training AI models &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260319/p32#a260319p32)
- - [Belkin’s wireless HDMI adapter freed me from a long annoying cable when I travel](https://www.theverge.com/tech/889512/belkin-connectair-wireless-hdmi-display-adapter-hands-on)<!-- TECH:END -->
+ - [Masimo wins hollow victory over Apple Watch&#39;s blood oxygen sensors](https://appleinsider.com/articles/26/03/19/masimo-wins-hollow-victory-over-apple-watchs-blood-oxygen-sensors?utm_source=rss)
+ - [AT&amp;T is trying to drive you to a new plan by making its old ones worse](https://www.androidauthority.com/att-legacy-price-increase-3650429/)
+ - [ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance](https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
