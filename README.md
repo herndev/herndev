@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi releases MiMo-V2-Pro, its new 1T-parameter foundation model, codenamed Hunter Alpha, which the company says benchmarks close to GPT-5.2 and Opus 4.6 &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260320/p4#a260320p4)
- - [7 things all Android users need to know about Google’s new sideloading rules](https://www.androidauthority.com/google-new-sideloading-rules-android-users-need-know-3650427/)
- - [One UI 8.5 beta could come to Samsung’s older foldables soon](https://www.androidauthority.com/galaxy-z-fold-6-flip-6-one-ui-8-5-beta-3650668/)<!-- TECH:END -->
+ - [Audible’s new price tier made my membership cheaper and easier](https://www.androidauthority.com/audible-standard-plan-cheaper-easier-3648181/)
+ - [Survey says the days of annual flagship smartphone upgrades are numbered](https://www.androidauthority.com/annual-flagship-smartphone-upgrade-2026-poll-results-3650666/)
+ - [The Danger Behind Meta’s Decision to Kill End-to-End Encrypted Instagram DMs](https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
