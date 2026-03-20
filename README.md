@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy is living the dream. Sword is nice too](http://9gag.com/gag/abA8gbL)
- - ⏩ [More of this, before it\u2019s too late.](http://9gag.com/gag/aZZYDGp)
- - 👉 [That took a turn](http://9gag.com/gag/aO8W82r)<!-- MEMES:END -->
+ - 💣 [Guys...](http://9gag.com/gag/a87gq3V)
+ - ⏩ [My fellow office worker](http://9gag.com/gag/agmeovn)
+ - 👉 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)<!-- MEMES:END -->
 
 ---
 
