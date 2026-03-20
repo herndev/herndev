@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is running a &quot;small&quot; experiment replacing news headlines in search results with AI-generated ones, after adding the feature in Google Discover in January &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/260320/p11#a260320p11)
- - [The Artist Pro 27 is XP-Pen’s latest 4K flagship display tablet](https://www.theverge.com/tech/897947/xppen-artist-pro-27-drawing-display-tablet-launch-price)
- - [At Palantir’s Developer Conference, AI Is Built to Win Wars](https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/)<!-- TECH:END -->
+ - [T-Mobile rolls out another T-Life update aimed at fixing your biggest complaints](https://www.androidauthority.com/t-mobile-t-life-app-update-3650796/)
+ - [Galaxy S26 owners may not have to wait much longer for AirDrop support](https://www.androidauthority.com/galaxy-s26-airdrop-support-coming-3650789/)
+ - [ChatGPT wants a do-it-all super app, but Apple will probably stand in the way](https://appleinsider.com/articles/26/03/20/chatgpt-wants-a-do-it-all-super-app-but-apple-will-probably-stand-in-the-way?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
