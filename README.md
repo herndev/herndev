@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An automated moderation error left Tumblr users panicked](https://www.theverge.com/tech/898402/tumblr-automated-account-bans-march-2026)
- - [A US jury finds Elon Musk intentionally misled Twitter shareholders by disparaging the company in 2022 to buy it for a lower price than his original $44B bid &lpar;Bloomberg&rpar;](http://www.techmeme.com/260320/p24#a260320p24)
- - [Moonshot says Kimi K2.5 provides &quot;the foundation&quot; for Cursor&#39;s Composer 2 model and that Cursor accesses Kimi K2.5 via Fireworks AI &lpar;@kimi_moonshot&rpar;](http://www.techmeme.com/260320/p23#a260320p23)<!-- TECH:END -->
+ - [You can still get a free gift card with your Samsung Galaxy S26 series purchase!](https://www.androidauthority.com/samsung-galaxy-s26-plus-ultra-free-gift-card-deals-2-3650867/)
+ - [The US Department of Energy announces a partnership with SoftBank and its affiliate SB Energy to develop a 10 GW data center with its own power supply in Ohio &lpar;Associated Press&rpar;](http://www.techmeme.com/260320/p25#a260320p25)
+ - [Trump Outlines New AI Regulation Plan: What&#39;s in It and What&#39;s Missing](https://www.cnet.com/tech/services-and-software/trump-national-ai-legislation-plan-march-2026-news/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
