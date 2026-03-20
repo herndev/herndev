@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The White House releases an AI policy framework, explicitly calling on Congress to preempt state AI laws, create age-gating requirements for AI models, and more &lpar;Politico&rpar;](http://www.techmeme.com/260320/p9#a260320p9)
- - [Android Canary brings some welcome additions for hearing aid users](https://www.androidauthority.com/android-canary-bluetooth-hearing-aids-3650734/)
- - [Amazon&amp;#8217;s Big Spring Sale 2026: all of the latest deals](https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news)<!-- TECH:END -->
+ - [Much ado about protein](https://www.theverge.com/column/897715/optimizer-protein-proteinmaxxing-proteinwashing-wellness)
+ - [Apple just broke launch-week records for new Mac users](https://appleinsider.com/articles/26/03/20/apple-just-broke-launch-week-records-for-new-mac-users?utm_source=rss)
+ - [Amazon is making an Alexa phone](https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
