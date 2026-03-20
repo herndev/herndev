@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic launches Claude Code channels, which let users interact with a Claude Code session through Telegram and Discord &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260320/p21#a260320p21)
- - [Fire Phone 2.0? Amazon wants a second chance at failing to make a phone work](https://www.androidauthority.com/amazon-transformer-phone-3650860/)
- - [A Top Democrat Is Urging Colleagues to Support Trump’s Spy Machine](https://www.wired.com/story/a-top-democrat-is-urging-colleagues-to-support-trumps-spy-machine/)<!-- TECH:END -->
+ - [An automated moderation error left Tumblr users panicked](https://www.theverge.com/tech/898402/tumblr-automated-account-bans-march-2026)
+ - [A US jury finds Elon Musk intentionally misled Twitter shareholders by disparaging the company in 2022 to buy it for a lower price than his original $44B bid &lpar;Bloomberg&rpar;](http://www.techmeme.com/260320/p24#a260320p24)
+ - [Moonshot says Kimi K2.5 provides &quot;the foundation&quot; for Cursor&#39;s Composer 2 model and that Cursor accesses Kimi K2.5 via Fireworks AI &lpar;@kimi_moonshot&rpar;](http://www.techmeme.com/260320/p23#a260320p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
