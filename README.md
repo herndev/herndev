@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Audible’s new price tier made my membership cheaper and easier](https://www.androidauthority.com/audible-standard-plan-cheaper-easier-3648181/)
- - [Survey says the days of annual flagship smartphone upgrades are numbered](https://www.androidauthority.com/annual-flagship-smartphone-upgrade-2026-poll-results-3650666/)
- - [The Danger Behind Meta’s Decision to Kill End-to-End Encrypted Instagram DMs](https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/)<!-- TECH:END -->
+ - [This $250 Google TV projector saved me when my $2,200 Samsung TV died](https://www.androidauthority.com/xgimi-vibe-one-review-3649019/)
+ - [Can Tinder Fix The Dating Landscape It Helped Ruin?](https://www.wired.com/story/can-tinder-fix-the-dating-landscape-it-helped-ruin/)
+ - [Firewire Surfboard Review &lpar;2026&rpar;: Neutrino, Revo Max, Machadocado](https://www.wired.com/story/firewire-neutrino-surfboard-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
