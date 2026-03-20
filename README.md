@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me giving peep talk to my last two brain cells during exam](http://9gag.com/gag/a87g1gp)
- - ⏩ [He&#39;s done](http://9gag.com/gag/aMVL45P)
- - 👉 [Money well, SPENT. - MARK Y WORLD](http://9gag.com/gag/avyjA9O)<!-- MEMES:END -->
+ - 💣 [Take care of your place](http://9gag.com/gag/a4P012p)
+ - ⏩ [They are peaceful, as long as you do exactly as they say.](http://9gag.com/gag/a4P0oVm)
+ - 👉 [The debate is officially over](http://9gag.com/gag/azx32gm)<!-- MEMES:END -->
 
 ---
 
