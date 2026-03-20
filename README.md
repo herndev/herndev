@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank you internet](http://9gag.com/gag/a6ZR1G8)
- - ⏩ [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
- - 👉 [Why was he so angry?](http://9gag.com/gag/aryLmzp)<!-- MEMES:END -->
+ - 💣 [My fellow office worker](http://9gag.com/gag/agmeovn)
+ - ⏩ [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
+ - 👉 [Save him guyssss.](http://9gag.com/gag/aGyQzwK)<!-- MEMES:END -->
 
 ---
 
