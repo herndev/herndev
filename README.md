@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)
- - ⏩ [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
- - 👉 [The horror...](http://9gag.com/gag/azx3eZp)<!-- MEMES:END -->
+ - 💣 [Hollywood look](http://9gag.com/gag/axyryep)
+ - ⏩ [When your RC truck looks more real than your actual car](http://9gag.com/gag/awypyrQ)
+ - 👉 [My new toy car has better camera skills than me](http://9gag.com/gag/aZZYrdz)<!-- MEMES:END -->
 
 ---
 
