@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why was he so angry?](http://9gag.com/gag/aryLmzp)
- - ⏩ [Play stupid games, win stupid prizes](http://9gag.com/gag/agmegbK)
- - 👉 [The shot shot him](http://9gag.com/gag/agmegQ6)<!-- MEMES:END -->
+ - 💣 [More old stuff I found](http://9gag.com/gag/aAy9030)
+ - ⏩ [They are peaceful, as long as you do exactly as they say.](http://9gag.com/gag/a4P0oVm)
+ - 👉 [The debate is officially over](http://9gag.com/gag/azx32gm)<!-- MEMES:END -->
 
 ---
 
