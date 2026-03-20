@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s done](http://9gag.com/gag/aMVL45P)
- - ⏩ [Me giving peep talk to my last two brain cells during exam](http://9gag.com/gag/a87g1gp)
- - 👉 [Thank you internet](http://9gag.com/gag/a6ZR1G8)<!-- MEMES:END -->
+ - 💣 [Take care of your place](http://9gag.com/gag/a4P012p)
+ - ⏩ [The debate is officially over](http://9gag.com/gag/azx32gm)
+ - 👉 [They are peaceful, as long as you do exactly as they say.](http://9gag.com/gag/a4P0oVm)<!-- MEMES:END -->
 
 ---
 
