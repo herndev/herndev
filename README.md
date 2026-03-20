@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages is officially getting a Trash folder](https://www.androidauthority.com/google-messages-trash-folder-rollout-3650876/)
- - [Windows 11 is finally getting a movable taskbar](https://www.theverge.com/tech/897849/microsoft-windows-11-taskbar-vertical-top-movable)
- - [Microsoft is ending the Windows Update nightmare — and letting you pause them indefinitely](https://www.theverge.com/tech/898082/microsoft-promises-to-end-forced-windows-updates-still-automatic)<!-- TECH:END -->
+ - [A new Nintendo Switch 2 could be the poster child for replaceable batteries](https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery)
+ - [This high-end projector just opened for pre-orders with a price tag that will make your eyes water](https://www.androidauthority.com/hisense-xr10-pre-orders-open-3650872/)
+ - [Future Sony PlayStation games will use AI to imagine new frames](https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
