@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This $250 Google TV projector saved me when my $2,200 Samsung TV died](https://www.androidauthority.com/xgimi-vibe-one-review-3649019/)
- - [Can Tinder Fix The Dating Landscape It Helped Ruin?](https://www.wired.com/story/can-tinder-fix-the-dating-landscape-it-helped-ruin/)
- - [Firewire Surfboard Review &lpar;2026&rpar;: Neutrino, Revo Max, Machadocado](https://www.wired.com/story/firewire-neutrino-surfboard-rave/)<!-- TECH:END -->
+ - [GhostClaw turns GitHub habits into a macOS malware pipeline](https://appleinsider.com/articles/26/03/20/ghostclaw-turns-github-habits-into-a-macos-malware-pipeline?utm_source=rss)
+ - [Apple wasn&#39;t alone in 1976 -- these companies helped define an era](https://appleinsider.com/articles/26/03/20/apple-wasnt-alone-in-1976----these-companies-helped-define-an-era?utm_source=rss)
+ - [China Approves the First Brain Chips for Sale—and Has a Plan to Dominate the Industry](https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
