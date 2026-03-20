@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new Nintendo Switch 2 could be the poster child for replaceable batteries](https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery)
- - [This high-end projector just opened for pre-orders with a price tag that will make your eyes water](https://www.androidauthority.com/hisense-xr10-pre-orders-open-3650872/)
- - [Future Sony PlayStation games will use AI to imagine new frames](https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames)<!-- TECH:END -->
+ - [Anthropic launches Claude Code channels, which let users interact with a Claude Code session through Telegram and Discord &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260320/p21#a260320p21)
+ - [Fire Phone 2.0? Amazon wants a second chance at failing to make a phone work](https://www.androidauthority.com/amazon-transformer-phone-3650860/)
+ - [A Top Democrat Is Urging Colleagues to Support Trump’s Spy Machine](https://www.wired.com/story/a-top-democrat-is-urging-colleagues-to-support-trumps-spy-machine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
