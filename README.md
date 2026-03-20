@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI plans to unify ChatGPT, Codex, and its browser into a desktop &quot;superapp&quot; to simplify the user experience and focus on engineering and business customers &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p54#a260319p54)
- - [Sources: Anthropic met behind closed doors with House Homeland Security and discussed issues like export controls, only briefly touching on its DOD fight &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/260319/p53#a260319p53)
- - [Forget the Galaxy Watch 8, this upcoming Android smartwatch could be the new battery king](https://www.androidauthority.com/oneplus-watch-4-leaked-specs-3650635/)<!-- TECH:END -->
+ - [Sources: the White House plans to unveil a federal AI framework on Friday covering preemption of state laws, child safety, communities, creators, and censorship &lpar;Axios&rpar;](http://www.techmeme.com/260319/p56#a260319p56)
+ - [US prosecutors charge three people affiliated with Super Micro, including a co-founder, with smuggling Nvidia chips to China; SMCI drops 9%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260319/p55#a260319p55)
+ - [OpenAI plans to unify ChatGPT, Codex, and its browser into a desktop &quot;superapp&quot; to simplify the user experience and focus on engineering and business customers &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p54#a260319p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
