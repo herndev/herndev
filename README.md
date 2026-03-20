@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These electronic Polaroids are powered by your phone’s NFC chip](https://www.theverge.com/tech/898162/vidabay-classic-plus-nfc-e-ink-fridge-magnet)
- - [Nine months later, the Trump phone still doesn’t exist](https://www.theverge.com/tech/898110/trump-phone-t1-release-certification)
- - [This Compact Bose Soundbar Is $80 Off](https://www.wired.com/story/bose-smart-soundbar-deal-326/)<!-- TECH:END -->
+ - [Google Messages is officially getting a Trash folder](https://www.androidauthority.com/google-messages-trash-folder-rollout-3650876/)
+ - [Windows 11 is finally getting a movable taskbar](https://www.theverge.com/tech/897849/microsoft-windows-11-taskbar-vertical-top-movable)
+ - [Microsoft is ending the Windows Update nightmare — and letting you pause them indefinitely](https://www.theverge.com/tech/898082/microsoft-promises-to-end-forced-windows-updates-still-automatic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
