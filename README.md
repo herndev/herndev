@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This long-overdue Google Messages feature is finally rolling out now](https://www.androidauthority.com/google-messages-live-location-sharing-rolling-out-3650662/)
- - [Filing: the SEC approved a Nasdaq rule change allowing some securities to trade in tokenized form; the new approach will be tested in an upcoming pilot program &lpar;The Block&rpar;](http://www.techmeme.com/260320/p3#a260320p3)
- - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)<!-- TECH:END -->
+ - [Xiaomi releases MiMo-V2-Pro, its new 1T-parameter foundation model, codenamed Hunter Alpha, which the company says benchmarks close to GPT-5.2 and Opus 4.6 &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260320/p4#a260320p4)
+ - [7 things all Android users need to know about Google’s new sideloading rules](https://www.androidauthority.com/google-new-sideloading-rules-android-users-need-know-3650427/)
+ - [One UI 8.5 beta could come to Samsung’s older foldables soon](https://www.androidauthority.com/galaxy-z-fold-6-flip-6-one-ui-8-5-beta-3650668/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
