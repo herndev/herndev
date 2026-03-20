@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GhostClaw turns GitHub habits into a macOS malware pipeline](https://appleinsider.com/articles/26/03/20/ghostclaw-turns-github-habits-into-a-macos-malware-pipeline?utm_source=rss)
- - [Apple wasn&#39;t alone in 1976 -- these companies helped define an era](https://appleinsider.com/articles/26/03/20/apple-wasnt-alone-in-1976----these-companies-helped-define-an-era?utm_source=rss)
- - [China Approves the First Brain Chips for Sale—and Has a Plan to Dominate the Industry](https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/)<!-- TECH:END -->
+ - [The White House releases an AI policy framework, explicitly calling on Congress to preempt state AI laws, create age-gating requirements for AI models, and more &lpar;Politico&rpar;](http://www.techmeme.com/260320/p9#a260320p9)
+ - [Android Canary brings some welcome additions for hearing aid users](https://www.androidauthority.com/android-canary-bluetooth-hearing-aids-3650734/)
+ - [Amazon&amp;#8217;s Big Spring Sale 2026: all of the latest deals](https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
