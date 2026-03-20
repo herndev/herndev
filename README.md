@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Indian AI data center operator Yotta is aiming to secure ~$500M to $600M at a ~$4B valuation, then file initial paperwork for an IPO within weeks &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260320/p1#a260320p1)
  - [Microsoft releases MAI-Image-2, ranked #3 on the text-to-image Arena leaderboard behind models from Google and OpenAI, available in the MAI Playground &lpar;Jose Antonio Lanz/Decrypt&rpar;](http://www.techmeme.com/260319/p63#a260319p63)
- - [Filing: Blue Origin seeks US FCC approval to deploy nearly 52K satellites as part of its proposed orbital AI data center system &quot;Project Sunrise&quot; &lpar;Micah Maidenberg/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p62#a260319p62)
- - [Sources: Jeff Bezos&#39; $100B fund would be part of the same holding company as Project Prometheus and would invest in companies that could benefit from its tech &lpar;New York Times&rpar;](http://www.techmeme.com/260319/p61#a260319p61)<!-- TECH:END -->
+ - [Filing: Blue Origin seeks US FCC approval to deploy nearly 52K satellites as part of its proposed orbital AI data center system &quot;Project Sunrise&quot; &lpar;Micah Maidenberg/Wall Street Journal&rpar;](http://www.techmeme.com/260319/p62#a260319p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
