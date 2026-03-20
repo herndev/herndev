@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile rolls out another T-Life update aimed at fixing your biggest complaints](https://www.androidauthority.com/t-mobile-t-life-app-update-3650796/)
- - [Galaxy S26 owners may not have to wait much longer for AirDrop support](https://www.androidauthority.com/galaxy-s26-airdrop-support-coming-3650789/)
- - [ChatGPT wants a do-it-all super app, but Apple will probably stand in the way](https://appleinsider.com/articles/26/03/20/chatgpt-wants-a-do-it-all-super-app-but-apple-will-probably-stand-in-the-way?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI plans &quot;an autonomous AI research intern&quot; by September and says its &quot;North Star&quot; is to build a fully automated multi-agent research system by 2028 &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260320/p13#a260320p13)
+ - [Kalshi Has Been Temporarily Banned in Nevada](https://www.wired.com/story/nevada-bans-kalshi-prediction-market/)
+ - [Apple just broke launch-week records for new Mac users](https://appleinsider.com/articles/26/03/20/apple-just-broke-launch-week-records-for-new-mac-users?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
