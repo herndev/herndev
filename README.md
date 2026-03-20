@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s done](http://9gag.com/gag/aMVL45P)
- - ⏩ [Rest in Peace \u2013 a legend is gone.](http://9gag.com/gag/ae9B4G5)
- - 👉 [My fellow office worker](http://9gag.com/gag/agmeovn)<!-- MEMES:END -->
+ - 💣 [The horror...](http://9gag.com/gag/azx3eZp)
+ - ⏩ [My fellow office worker](http://9gag.com/gag/agmeovn)
+ - 👉 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)<!-- MEMES:END -->
 
 ---
 
