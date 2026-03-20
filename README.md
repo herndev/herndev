@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys...](http://9gag.com/gag/a87gq3V)
- - ⏩ [My fellow office worker](http://9gag.com/gag/agmeovn)
- - 👉 [Lawyer had a BIG DRINK that night.](http://9gag.com/gag/ajP4g4R)<!-- MEMES:END -->
+ - 💣 [He&#39;s done](http://9gag.com/gag/aMVL45P)
+ - ⏩ [Rest in Peace \u2013 a legend is gone.](http://9gag.com/gag/ae9B4G5)
+ - 👉 [My fellow office worker](http://9gag.com/gag/agmeovn)<!-- MEMES:END -->
 
 ---
 
