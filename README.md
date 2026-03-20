@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take care of your place](http://9gag.com/gag/a4P012p)
- - ⏩ [The debate is officially over](http://9gag.com/gag/azx32gm)
- - 👉 [They are peaceful, as long as you do exactly as they say.](http://9gag.com/gag/a4P0oVm)<!-- MEMES:END -->
+ - 💣 [Thank you internet](http://9gag.com/gag/a6ZR1G8)
+ - ⏩ [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
+ - 👉 [Why was he so angry?](http://9gag.com/gag/aryLmzp)<!-- MEMES:END -->
 
 ---
 
