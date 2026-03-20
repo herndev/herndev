@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
- - ⏩ [Bambooze](http://9gag.com/gag/adBzBNV)
- - 👉 [How to lift your girl](http://9gag.com/gag/ajP47Lw)<!-- MEMES:END -->
+ - 💣 [Why was he so angry?](http://9gag.com/gag/aryLmzp)
+ - ⏩ [FAFO](http://9gag.com/gag/ae9B9zW)
+ - 👉 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)<!-- MEMES:END -->
 
 ---
 
