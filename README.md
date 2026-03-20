@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI plans &quot;an autonomous AI research intern&quot; by September and says its &quot;North Star&quot; is to build a fully automated multi-agent research system by 2028 &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/260320/p13#a260320p13)
- - [Kalshi Has Been Temporarily Banned in Nevada](https://www.wired.com/story/nevada-bans-kalshi-prediction-market/)
- - [Apple just broke launch-week records for new Mac users](https://appleinsider.com/articles/26/03/20/apple-just-broke-launch-week-records-for-new-mac-users?utm_source=rss)<!-- TECH:END -->
+ - [These electronic Polaroids are powered by your phone’s NFC chip](https://www.theverge.com/tech/898162/vidabay-classic-plus-nfc-e-ink-fridge-magnet)
+ - [Nine months later, the Trump phone still doesn’t exist](https://www.theverge.com/tech/898110/trump-phone-t1-release-certification)
+ - [This Compact Bose Soundbar Is $80 Off](https://www.wired.com/story/bose-smart-soundbar-deal-326/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
