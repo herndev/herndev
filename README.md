@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The horror...](http://9gag.com/gag/azx3eZp)
- - ⏩ [My fellow office worker](http://9gag.com/gag/agmeovn)
- - 👉 [These chips unlocked a core memory](http://9gag.com/gag/a6ZR1z9)<!-- MEMES:END -->
+ - 💣 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)
+ - ⏩ [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)
+ - 👉 [The horror...](http://9gag.com/gag/azx3eZp)<!-- MEMES:END -->
 
 ---
 
