@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This long-overdue Google Messages feature is finally rolling out now](https://www.androidauthority.com/google-messages-live-location-sharing-rolling-out-3650662/)
  - [Filing: the SEC approved a Nasdaq rule change allowing some securities to trade in tokenized form; the new approach will be tested in an upcoming pilot program &lpar;The Block&rpar;](http://www.techmeme.com/260320/p3#a260320p3)
- - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [Newegg Promo Code: 10% Off in March 2026](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
+ - [Paramount Plus Coupon Codes and Deals: 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
