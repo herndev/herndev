@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take care of your place](http://9gag.com/gag/a4P012p)
- - ⏩ [They are peaceful, as long as you do exactly as they say.](http://9gag.com/gag/a4P0oVm)
- - 👉 [The debate is officially over](http://9gag.com/gag/azx32gm)<!-- MEMES:END -->
+ - 💣 [He&#39;s done](http://9gag.com/gag/aMVL45P)
+ - ⏩ [The original audio of the Spice Girls Wannabe video is peak comedy](http://9gag.com/gag/aGyQzQw)
+ - 👉 [Some people&#39;s rubbish is others people&#39;s treasure](http://9gag.com/gag/axyro7M)<!-- MEMES:END -->
 
 ---
 
