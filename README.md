@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take care of your place](http://9gag.com/gag/a4P012p)
- - ⏩ [How Samurai Jack uses the 60:30:10 colour rule for visual magic](http://9gag.com/gag/aNDbPob)
- - 👉 [More old stuff I found](http://9gag.com/gag/aAy9030)<!-- MEMES:END -->
+ - 💣 [Why was he so angry?](http://9gag.com/gag/aryLmzp)
+ - ⏩ [Play stupid games, win stupid prizes](http://9gag.com/gag/agmegbK)
+ - 👉 [The shot shot him](http://9gag.com/gag/agmegQ6)<!-- MEMES:END -->
 
 ---
 
