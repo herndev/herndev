@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MiniMax releases M2.7, a proprietary &quot;self-evolving&quot; LLM that the company used to build, monitor, and optimize the model&#39;s own reinforcement learning harnesses &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260319/p58#a260319p58)
- - [Valve’s huge SteamOS 3.8 update adds long-awaited features — and supports Steam Machine](https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally)
- - [A man accused of using thousands of bot accounts to stream AI songs, making millions in royalties, pleads guilty in US district court to wire fraud conspiracy &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/260319/p57#a260319p57)<!-- TECH:END -->
+ - [Sources: Jeff Bezos&#39; $100B fund would be part of the same holding company as Project Prometheus and would invest in companies that could benefit from its tech &lpar;New York Times&rpar;](http://www.techmeme.com/260319/p61#a260319p61)
+ - [How AI startups and founders use &quot;taste&quot; as the latest buzzword for describing and distinguishing their products, in an attempt to evoke an aura of artisanality &lpar;Kyle Chayka/New Yorker&rpar;](http://www.techmeme.com/260319/p60#a260319p60)
+ - [A US DOJ operation disrupted four botnets that infected 3M+ devices and includes the Aisuru and Kimwolf botnets used in a 31.4 Tbps DDoS attack in December 2025 &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260319/p59#a260319p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
