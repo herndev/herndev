@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Watch is now dreaming up health stats, but the fix is ridiculously simple](https://www.androidauthority.com/pixel-watch-steps-overcounting-3651005/)
- - [A profile of AWS at its 20th anniversary, covering its creation, rise to market dominance, response to the ChatGPT disruption, and the future of its AI bets &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260323/p6#a260323p6)
- - [The AI Race Is Pressuring Utilities to Squeeze More From Europe’s Power Grids](https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/)<!-- TECH:END -->
+ - [Korean AI startup Upstage says it is in talks to acquire 10K of AMD&#39;s MI355 chips, in a bid to &quot;diversify to other chips&quot; as &quot;we have a lot of Nvidia chips&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260323/p9#a260323p9)
+ - [This Android setting solved the biggest issue with my mobile hotspots and router](https://www.androidauthority.com/android-setting-metered-connected-wi-fi-mobile-hotspots-3649733/)
+ - [Don’t Listen to Anyone Who Thinks Secession Will Solve Anything](https://www.wired.com/story/dont-listen-anyone-who-thinks-secession-will-solve-anything/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
