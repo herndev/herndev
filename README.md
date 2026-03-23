@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fake Pudgy Penguins phishing page &#39;plays dead&#39; when it thinks it&#39;s being probed to avoid detection](https://www.pcgamer.com/hardware/fake-pudgy-penguins-phishing-page-plays-dead-when-it-thinks-its-being-probed-to-avoid-detection/)
- - [Buffy&#39;s Sarah Michelle Gellar begs fans not to read leaked reboot script](https://www.polygon.com/sarah-michelle-gellar-buffy-reboot-script/)
- - [Michael B. Jordan&#39;s favorite movie, Princess Mononoke, is an epic anime classic that&#39;s never been more relevant](https://www.polygon.com/princess-mononoke-hayao-miyazaki-michael-b-jordan/)<!-- GAME:END -->
+ - [&#39;If this was a trial about whether I made stupid tweets I would say I&#39;m guilty&#39; says Elon Musk in trial before being found guilty](https://www.pcgamer.com/gaming-industry/if-this-was-a-trial-about-whether-i-made-stupid-tweets-i-would-say-im-guilty-says-elon-musk-in-trial-before-being-found-guilty/)
+ - [Dragon&#39;s Dogma 2 DLC could be coming soon, fans say](https://www.polygon.com/dragons-dogma-2-dlc-tease-capcom/)
+ - [Leaked MTG Secret Lair Goblin Commander deck includes a $60 Roaming Throne](https://www.polygon.com/mtg-secret-lair-goblin-storm-commander-decklist-leak/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
