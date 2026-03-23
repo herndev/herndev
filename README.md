@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Android brand will soon use OpenClaw to mimic one of Pixel 10’s most-hyped features](https://www.androidauthority.com/tecno-openclaw-on-android-3651043/)
- - [Apple looks to be planning a third retail location in Mexico City](https://appleinsider.com/articles/26/03/23/apple-looks-to-be-planning-a-third-retail-location-in-mexico-city?utm_source=rss)
- - [Grammarly CEO steps on same rake over and over in embarrassing interview about AI slop](https://appleinsider.com/articles/26/03/23/grammarly-ceo-steps-on-same-rake-over-and-over-in-embarrassing-interview-about-ai-slop?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft hires a group of AI researchers from the Allen Institute for AI, including former CEO Ali Farhadi, who stepped down on March 12 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260323/p41#a260323p41)
+ - [The US government just banned consumer routers made outside the US](https://www.theverge.com/news/899172/fcc-foreign-router-ban)
+ - [The FCC is banning imports of new foreign-made consumer routers over security concerns; China is estimated to control 60%+ of the US market for home routers &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/260323/p40#a260323p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
