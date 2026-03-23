@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are the sun](http://9gag.com/gag/axyrvK2)
- - ⏩ [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
- - 👉 [Jim Carrey is a legend for this role](http://9gag.com/gag/aLnEeE6)<!-- MEMES:END -->
+ - 💣 [This is a cancer free zone.](http://9gag.com/gag/a4P0zvd)
+ - ⏩ [7H/W gym versus 30 years of physical working job](http://9gag.com/gag/aQzj7X2)
+ - 👉 [How many freedoms per football field is that?](http://9gag.com/gag/ajP4OPp)<!-- MEMES:END -->
 
 ---
 
