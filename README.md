@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Psst. Our Readers Are Looking at These Gadgets Before Amazon&#39;s Big Spring Sale Even Starts](https://www.cnet.com/deals/cnet-readers-are-looking-at-these-gadgets-for-amazons-big-spring-sale/)
- - [The person who could be Apple CEO: Who is John Ternus?](https://appleinsider.com/articles/26/03/23/the-person-who-could-be-apple-ceo-who-is-john-ternus?utm_source=rss)
- - [London-based luxury ride-hailing app Wheely launches in NYC, aiming to compete with Uber Elite; Wheely reports ~1,250 corporate accounts and ~100K active riders &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260323/p20#a260323p20)<!-- TECH:END -->
+ - [Intel Core Ultra 7 270K Plus review: unbelievable app performance, big price cut, and improvements over the 265K, but mediocre at gaming and large power demands &lpar;Jake Roach/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260323/p22#a260323p22)
+ - [Canal+, ITV, Sky, and other broadcasters urge the EU to designate smart TV operating systems such as Android TV and Amazon Fire OS as gatekeepers under the DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260323/p21#a260323p21)
+ - [One notable TV brand is dropping Google TV altogether](https://www.androidauthority.com/philips-google-tv-titan-os-3651035/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
