@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u200e \u200e](http://9gag.com/gag/a34OAR7)
- - ⏩ [Never share too much](http://9gag.com/gag/aVv6EKn)
- - 👉 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
+ - 💣 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
+ - ⏩ [I have found my calling !](http://9gag.com/gag/amoZGpo)
+ - 👉 [Never share too much](http://9gag.com/gag/aVv6EKn)<!-- MEMES:END -->
 
 ---
 
