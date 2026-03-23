@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
+ - 💣 [Bonjour](http://9gag.com/gag/a7oxegA)
  - ⏩ [I have found my calling !](http://9gag.com/gag/amoZGpo)
- - 👉 [You are the sun](http://9gag.com/gag/axyrvK2)<!-- MEMES:END -->
+ - 👉 [Never share too much](http://9gag.com/gag/aVv6EKn)<!-- MEMES:END -->
 
 ---
 
