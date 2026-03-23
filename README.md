@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have found my calling !](http://9gag.com/gag/amoZGpo)
- - ⏩ [Policeman recognised his mom\u2019s cooking after the first bite](http://9gag.com/gag/aD2v8Gx)
- - 👉 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)<!-- MEMES:END -->
+ - 💣 [Both pepsi](http://9gag.com/gag/aXPONrz)
+ - ⏩ [How many freedoms per football field is that?](http://9gag.com/gag/ajP4OPp)
+ - 👉 [This is a cancer free zone.](http://9gag.com/gag/a4P0zvd)<!-- MEMES:END -->
 
 ---
 
