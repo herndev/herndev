@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
- - ⏩ [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
- - 👉 [A female comedian disguised as a man to prove women are funny but had a mental breakdown when no one laughed](http://9gag.com/gag/aKGMARO)<!-- MEMES:END -->
+ - 💣 [Signs that the world is healing.](http://9gag.com/gag/a9yGve6)
+ - ⏩ [I have found my calling !](http://9gag.com/gag/amoZGpo)
+ - 👉 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
 
 ---
 
