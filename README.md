@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facts](http://9gag.com/gag/aGyQBoX)
- - ⏩ [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
- - 👉 [Policeman recognised his mom\u2019s cooking after the first bite](http://9gag.com/gag/aD2v8Gx)<!-- MEMES:END -->
+ - 💣 [\u200e \u200e](http://9gag.com/gag/a34OAR7)
+ - ⏩ [Never share too much](http://9gag.com/gag/aVv6EKn)
+ - 👉 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
 
 ---
 
