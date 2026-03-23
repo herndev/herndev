@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
+ - 💣 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
  - ⏩ [I have found my calling !](http://9gag.com/gag/amoZGpo)
- - 👉 [Never share too much](http://9gag.com/gag/aVv6EKn)<!-- MEMES:END -->
+ - 👉 [You are the sun](http://9gag.com/gag/axyrvK2)<!-- MEMES:END -->
 
 ---
 
