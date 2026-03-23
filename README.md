@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reality Labs lost $80B+, but it still makes all of Meta&#39;s hardware, and reflects Mark Zuckerberg&#39;s desire to run a business without Google or Apple as middlemen &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/260322/p12#a260322p12)
  - [AI influencer awards season is upon us](https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest)
- - [Profile of John Ternus, likely Tim Cook successor, who shapes Apple&#39;s hardware portfolio, is expanding his domain within Apple, and his visibility to the public &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260322/p11#a260322p11)
- - [Sources describe efforts to build and use internal AI tools at Meta, including Mark Zuckerberg building a CEO agent to help him do his job better &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/260322/p10#a260322p10)<!-- TECH:END -->
+ - [Profile of John Ternus, likely Tim Cook successor, who shapes Apple&#39;s hardware portfolio, is expanding his domain within Apple, and his visibility to the public &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260322/p11#a260322p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
