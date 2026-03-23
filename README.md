@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bonjour](http://9gag.com/gag/a7oxegA)
- - ⏩ [I have found my calling !](http://9gag.com/gag/amoZGpo)
- - 👉 [Never share too much](http://9gag.com/gag/aVv6EKn)<!-- MEMES:END -->
+ - 💣 [Wait, you guys get invited to parties?](http://9gag.com/gag/aGyQBLG)
+ - ⏩ [RIP](http://9gag.com/gag/azx3Kex)
+ - 👉 [Policeman recognised his mom\u2019s cooking after the first bite](http://9gag.com/gag/aD2v8Gx)<!-- MEMES:END -->
 
 ---
 
