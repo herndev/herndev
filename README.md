@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My first celebrity crush. Who was yours?](http://9gag.com/gag/awyp1vD)
- - ⏩ [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
- - 👉 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
+ - 💣 [Spider ladyboy](http://9gag.com/gag/aKGM9K1)
+ - ⏩ [No rastplatz for this dude](http://9gag.com/gag/a5QYBmL)
+ - 👉 [Policeman recognised his mom\u2019s cooking after the first bite](http://9gag.com/gag/aD2v8Gx)<!-- MEMES:END -->
 
 ---
 
