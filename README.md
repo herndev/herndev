@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have found my calling !](http://9gag.com/gag/amoZGpo)
- - ⏩ [This is a cancer free zone.](http://9gag.com/gag/a4P0zvd)
- - 👉 [A statue for heroes](http://9gag.com/gag/a5QYzeO)<!-- MEMES:END -->
+ - 💣 [Never forget this happened](http://9gag.com/gag/avyjEQb)
+ - ⏩ [They will never take candy from stranger again](http://9gag.com/gag/a4P05Xm)
+ - 👉 [It is 100% correct every time](http://9gag.com/gag/aVv6KEy)<!-- MEMES:END -->
 
 ---
 
