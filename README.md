@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are the sun](http://9gag.com/gag/axyrvK2)
- - ⏩ [This one made me chuckle](http://9gag.com/gag/a0e30zB)
- - 👉 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)<!-- MEMES:END -->
+ - 💣 [This is a cancer free zone.](http://9gag.com/gag/a4P0zvd)
+ - ⏩ [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
+ - 👉 [Jim Carrey is a legend for this role](http://9gag.com/gag/aLnEeE6)<!-- MEMES:END -->
 
 ---
 
