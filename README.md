@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;If this was a trial about whether I made stupid tweets I would say I&#39;m guilty&#39; says Elon Musk in trial before being found guilty](https://www.pcgamer.com/gaming-industry/if-this-was-a-trial-about-whether-i-made-stupid-tweets-i-would-say-im-guilty-says-elon-musk-in-trial-before-being-found-guilty/)
- - [Dragon&#39;s Dogma 2 DLC could be coming soon, fans say](https://www.polygon.com/dragons-dogma-2-dlc-tease-capcom/)
- - [Leaked MTG Secret Lair Goblin Commander deck includes a $60 Roaming Throne](https://www.polygon.com/mtg-secret-lair-goblin-storm-commander-decklist-leak/)<!-- GAME:END -->
+ - [The most unexpected Marvel TV series just got renewed for season 2](https://www.polygon.com/wonder-man-mcu-season-2-renewal/)
+ - [Crimson Desert players demand bear domestication](https://www.pcgamer.com/games/action/crimson-desert-players-demand-bear-domestication/)
+ - [The Latest Chappell Roan Controversy Is Nonsense, But At Least The Memes Are Funny](https://kotaku.com/chappell-roan-controversy-security-kid-jorginho-frello-2000681176)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
