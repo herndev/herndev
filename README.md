@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey shows something bigger than sideloading is bothering Android users](https://www.androidauthority.com/android-sideloading-poll-results-3650979/)
- - [The Galaxy Z Fold 8 could bring a charging upgrade for the first time since 2020](https://www.androidauthority.com/samsung-galaxy-z-fold-8-wide-fold-charging-3650986/)
- - [Palantir won a three-month, £30K+/week trial to access the UK FCA&#39;s intelligence data to tackle financial crime, a source says raising concerns inside the FCA &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/260323/p2#a260323p2)<!-- TECH:END -->
+ - [Google signs deals with five US electric utilities for 1GW of &quot;demand response&quot; in total, to reduce data center power consumption during peak grid demand hours &lpar;Laila Kearney/Reuters&rpar;](http://www.techmeme.com/260323/p4#a260323p4)
+ - [A look at Andrej Karpathy&#39;s &quot;autoresearch&quot; experiment, where an AI agent runs in a loop iterating and evaluating on training code to optimize a model &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260323/p3#a260323p3)
+ - [Survey shows something bigger than sideloading is bothering Android users](https://www.androidauthority.com/android-sideloading-poll-results-3650979/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
