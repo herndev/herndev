@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Contacts is prepping a smarter profile layout to tame its growing bloat](https://www.androidauthority.com/google-contacts-profiles-3651085/)
- - [Apple prepares to add search ads to Apple Maps](https://appleinsider.com/articles/26/03/23/apple-prepares-to-add-search-ads-to-apple-maps?utm_source=rss)
- - [Our Favorite Budget Earbuds Are Literally $19](https://www.wired.com/story/jlab-go-pop-deal-326/)<!-- TECH:END -->
+ - [A Mysterious Numbers Station Is Broadcasting Through the Iran War](https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/)
+ - [Apple could put ads in Maps as soon as this summer](https://www.theverge.com/tech/899053/apple-maps-advertising-rumor)
+ - [The entire Sony headphone lineup is on sale today, from XM6 to budget picks](https://www.androidauthority.com/sony-headphones-spring-sale-3651171/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
