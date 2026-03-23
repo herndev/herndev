@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reality Labs lost $80B+, but it still makes all of Meta&#39;s hardware, and reflects Mark Zuckerberg&#39;s desire to run a business without Google or Apple as middlemen &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/260322/p12#a260322p12)
- - [AI influencer awards season is upon us](https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest)
- - [Profile of John Ternus, likely Tim Cook successor, who shapes Apple&#39;s hardware portfolio, is expanding his domain within Apple, and his visibility to the public &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260322/p11#a260322p11)<!-- TECH:END -->
+ - [Galaxy S26 series finally bridges the AirDrop gap, but you’ll need this update first](https://www.androidauthority.com/samsung-galaxy-s26-quick-share-airdrop-requirements-3650967/)
+ - [Sources: activist investor Elliott has a multibillion-dollar stake in Synopsys and plans to engage with the company to boost its software and service profits &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/260322/p13#a260322p13)
+ - [Reality Labs lost $80B+, but it still makes all of Meta&#39;s hardware, and reflects Mark Zuckerberg&#39;s desire to run a business without Google or Apple as middlemen &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/260322/p12#a260322p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
