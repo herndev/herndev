@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kalshi announces new guardrails to preemptively block politicians, athletes, and others from trading in their relevant markets &lpar;Nathan Bomey/Axios&rpar;](http://www.techmeme.com/260323/p35#a260323p35)
- - [Google’s new Pixel 10 ads made me go ‘wait, WHAT are they trying to sell?’](https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom)
- - [A Billionaire-Backed Startup Wants to Grow &#39;Organ Sacks&#39; to Replace Animal Testing](https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/)<!-- TECH:END -->
+ - [Crunchyroll is investigating a breach after hackers claimed they accessed a support agent&#39;s account and stole the personal information of ~6.8M users &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260323/p37#a260323p37)
+ - [Drone delivery startup Zipline raised an additional $200M, including from Paradigm, bringing Zipline&#39;s Series H, originally announced in January, to $800M &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260323/p36#a260323p36)
+ - [iPhone Air is demonstrably not a failure for Apple](https://appleinsider.com/articles/26/03/23/iphone-air-is-demonstrably-not-a-failure-for-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
