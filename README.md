@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s killing QR code sign-ins for Messages on the web](https://www.androidauthority.com/google-messages-kill-qr-code-3651142/)
- - [What to expect at WWDC 2026: iOS 27, Siri as a chatbot, Intel&#39;s end, and more](https://appleinsider.com/articles/26/03/23/what-to-expect-at-wwdc-2026-ios-27-siri-as-a-chatbot-and-more?utm_source=rss)
- - [PDP’s wireless guitar controller has returned to its best price to date](https://www.theverge.com/gadgets/898962/pdp-riffmaster-guitar-controller-amazon-big-spring-sale-2026-deal)<!-- TECH:END -->
+ - [Google Contacts is prepping a smarter profile layout to tame its growing bloat](https://www.androidauthority.com/google-contacts-profiles-3651085/)
+ - [Apple prepares to add search ads to Apple Maps](https://appleinsider.com/articles/26/03/23/apple-prepares-to-add-search-ads-to-apple-maps?utm_source=rss)
+ - [Our Favorite Budget Earbuds Are Literally $19](https://www.wired.com/story/jlab-go-pop-deal-326/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
