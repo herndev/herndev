@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u200e \u200e](http://9gag.com/gag/a34OAR7)
- - ⏩ [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
- - 👉 [You are the sun](http://9gag.com/gag/axyrvK2)<!-- MEMES:END -->
+ - 💣 [You are the sun](http://9gag.com/gag/axyrvK2)
+ - ⏩ [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
+ - 👉 [Jim Carrey is a legend for this role](http://9gag.com/gag/aLnEeE6)<!-- MEMES:END -->
 
 ---
 
