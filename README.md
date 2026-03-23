@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Korean AI startup Upstage says it is in talks to acquire 10K of AMD&#39;s MI355 chips, in a bid to &quot;diversify to other chips&quot; as &quot;we have a lot of Nvidia chips&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/260323/p9#a260323p9)
- - [This Android setting solved the biggest issue with my mobile hotspots and router](https://www.androidauthority.com/android-setting-metered-connected-wi-fi-mobile-hotspots-3649733/)
- - [Don’t Listen to Anyone Who Thinks Secession Will Solve Anything](https://www.wired.com/story/dont-listen-anyone-who-thinks-secession-will-solve-anything/)<!-- TECH:END -->
+ - [NYC-based Dash0, which offers AI agents to monitor and troubleshoot cloud, app, and infrastructure issues, raised $110M led by Balderton at a $1B valuation &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260323/p11#a260323p11)
+ - [The Rise of the Ray-Ban Meta Creep](https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/)
+ - [Samsung thought about a major S Pen change for S27 Ultra](https://www.androidauthority.com/galaxy-s27-ultra-s-pen-3651016/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
