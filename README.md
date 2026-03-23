@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wi-Fi wouldn&#39;t exist without Apple, Steve Jobs said right after the iBook launched](https://appleinsider.com/articles/26/03/23/wi-fi-wouldnt-exist-without-apple-steve-jobs-said-right-after-the-ibook-launched?utm_source=rss)
- - [Interviews with Sundar Pichai and other Google executives on being blindsided by ChatGPT&#39;s launch, Gemini, Pichai&#39;s vision of useful AI everywhere, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/260323/p24#a260323p24)
- - [Tempted to buy the MacBook Neo? Survey says loads of readers are too](https://www.androidauthority.com/macbook-neo-vs-chromebook-poll-results-3651082/)<!-- TECH:END -->
+ - [Google’s killing QR code sign-ins for Messages on the web](https://www.androidauthority.com/google-messages-kill-qr-code-3651142/)
+ - [What to expect at WWDC 2026: iOS 27, Siri as a chatbot, Intel&#39;s end, and more](https://appleinsider.com/articles/26/03/23/what-to-expect-at-wwdc-2026-ios-27-siri-as-a-chatbot-and-more?utm_source=rss)
+ - [PDP’s wireless guitar controller has returned to its best price to date](https://www.theverge.com/gadgets/898962/pdp-riffmaster-guitar-controller-amazon-big-spring-sale-2026-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
