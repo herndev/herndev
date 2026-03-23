@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung rolls out Apple AirDrop support to Quick Share, starting with the Galaxy S26 series in South Korea, and plans to expand to more devices and regions &lpar;Mike Sorrentino/CNET&rpar;](http://www.techmeme.com/260323/p1#a260323p1)
  - [Galaxy S26 series finally bridges the AirDrop gap, but you’ll need this update first](https://www.androidauthority.com/samsung-galaxy-s26-quick-share-airdrop-requirements-3650967/)
- - [Sources: activist investor Elliott has a multibillion-dollar stake in Synopsys and plans to engage with the company to boost its software and service profits &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/260322/p13#a260322p13)
- - [Reality Labs lost $80B+, but it still makes all of Meta&#39;s hardware, and reflects Mark Zuckerberg&#39;s desire to run a business without Google or Apple as middlemen &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/260322/p12#a260322p12)<!-- TECH:END -->
+ - [Sources: activist investor Elliott has a multibillion-dollar stake in Synopsys and plans to engage with the company to boost its software and service profits &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/260322/p13#a260322p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
