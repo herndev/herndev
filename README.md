@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spider ladyboy](http://9gag.com/gag/aKGM9K1)
- - ⏩ [No rastplatz for this dude](http://9gag.com/gag/a5QYBmL)
- - 👉 [Policeman recognised his mom\u2019s cooking after the first bite](http://9gag.com/gag/aD2v8Gx)<!-- MEMES:END -->
+ - 💣 [I have found my calling !](http://9gag.com/gag/amoZGpo)
+ - ⏩ [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
+ - 👉 [The motorcycle killer is here. So cute](http://9gag.com/gag/aW4X7LK)<!-- MEMES:END -->
 
 ---
 
