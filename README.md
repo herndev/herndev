@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait, you guys get invited to parties?](http://9gag.com/gag/aGyQBLG)
- - ⏩ [RIP](http://9gag.com/gag/azx3Kex)
- - 👉 [Policeman recognised his mom\u2019s cooking after the first bite](http://9gag.com/gag/aD2v8Gx)<!-- MEMES:END -->
+ - 💣 [\u200e \u200e](http://9gag.com/gag/a34OAR7)
+ - ⏩ [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
+ - 👉 [You are the sun](http://9gag.com/gag/axyrvK2)<!-- MEMES:END -->
 
 ---
 
