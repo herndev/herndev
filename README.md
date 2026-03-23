@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Signs that the world is healing.](http://9gag.com/gag/a9yGve6)
- - ⏩ [I have found my calling !](http://9gag.com/gag/amoZGpo)
- - 👉 [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)<!-- MEMES:END -->
+ - 💣 [Spider ladyboy](http://9gag.com/gag/aKGM9K1)
+ - ⏩ [No rastplatz for this dude](http://9gag.com/gag/a5QYBmL)
+ - 👉 [Policeman recognised his mom\u2019s cooking after the first bite](http://9gag.com/gag/aD2v8Gx)<!-- MEMES:END -->
 
 ---
 
