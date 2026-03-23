@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can still get a free gift card with your Samsung Galaxy S26 series purchase!](https://www.androidauthority.com/samsung-galaxy-s26-plus-ultra-free-gift-card-deals-2-3650867/)
- - [The US Department of Energy announces a partnership with SoftBank and its affiliate SB Energy to develop a 10 GW data center with its own power supply in Ohio &lpar;Associated Press&rpar;](http://www.techmeme.com/260320/p25#a260320p25)
- - [Trump Outlines New AI Regulation Plan: What&#39;s in It and What&#39;s Missing](https://www.cnet.com/tech/services-and-software/trump-national-ai-legislation-plan-march-2026-news/)<!-- TECH:END -->
+ - [AI influencer awards season is upon us](https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest)
+ - [Profile of John Ternus, likely Tim Cook successor, who shapes Apple&#39;s hardware portfolio, is expanding his domain within Apple, and his visibility to the public &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260322/p11#a260322p11)
+ - [Sources describe efforts to build and use internal AI tools at Meta, including Mark Zuckerberg building a CEO agent to help him do his job better &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/260322/p10#a260322p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
