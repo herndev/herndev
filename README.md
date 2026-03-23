@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palantir won a three-month, £30K+/week trial to access the UK FCA&#39;s intelligence data to tackle financial crime, a source says raising concerns inside the FCA &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/260323/p2#a260323p2)
- - [OnePlus is shutting down in key global markets, tipster claims](https://www.androidauthority.com/oneplus-global-shutdown-new-rumor-3650982/)
- - [Samsung rolls out Apple AirDrop support to Quick Share, starting with the Galaxy S26 series in South Korea, and plans to expand to more devices and regions &lpar;Mike Sorrentino/CNET&rpar;](http://www.techmeme.com/260323/p1#a260323p1)<!-- TECH:END -->
+ - [Survey shows something bigger than sideloading is bothering Android users](https://www.androidauthority.com/android-sideloading-poll-results-3650979/)
+ - [The Galaxy Z Fold 8 could bring a charging upgrade for the first time since 2020](https://www.androidauthority.com/samsung-galaxy-z-fold-8-wide-fold-charging-3650986/)
+ - [Palantir won a three-month, £30K+/week trial to access the UK FCA&#39;s intelligence data to tackle financial crime, a source says raising concerns inside the FCA &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/260323/p2#a260323p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
