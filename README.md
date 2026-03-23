@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why was he so angry?](http://9gag.com/gag/aryLmzp)
- - ⏩ [FAFO](http://9gag.com/gag/ae9B9zW)
- - 👉 [The french nuclear warship was going into the middle east in stealth mode with it&#39;s transponder off. But a french sailor accidentally shared the location with the fit app Strava](http://9gag.com/gag/aD2vY5d)<!-- MEMES:END -->
+ - 💣 [And cracked... Less than 24 hours.](http://9gag.com/gag/ayNK3NW)
+ - ⏩ [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)
+ - 👉 [A female comedian disguised as a man to prove women are funny but had a mental breakdown when no one laughed](http://9gag.com/gag/aKGMARO)<!-- MEMES:END -->
 
 ---
 
