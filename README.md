@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never share too much](http://9gag.com/gag/aVv6EKn)
- - ⏩ [A female comedian disguised as a man to prove women are funny but had a mental breakdown when no one laughed](http://9gag.com/gag/aKGMARO)
- - 👉 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)<!-- MEMES:END -->
+ - 💣 [Facts](http://9gag.com/gag/aGyQBoX)
+ - ⏩ [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
+ - 👉 [Policeman recognised his mom\u2019s cooking after the first bite](http://9gag.com/gag/aD2v8Gx)<!-- MEMES:END -->
 
 ---
 
