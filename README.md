@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never forget this happened](http://9gag.com/gag/avyjEQb)
- - ⏩ [They will never take candy from stranger again](http://9gag.com/gag/a4P05Xm)
- - 👉 [It is 100% correct every time](http://9gag.com/gag/aVv6KEy)<!-- MEMES:END -->
+ - 💣 [You are the sun](http://9gag.com/gag/axyrvK2)
+ - ⏩ [This one made me chuckle](http://9gag.com/gag/a0e30zB)
+ - 👉 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)<!-- MEMES:END -->
 
 ---
 
