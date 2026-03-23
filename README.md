@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Both pepsi](http://9gag.com/gag/aXPONrz)
- - ⏩ [How many freedoms per football field is that?](http://9gag.com/gag/ajP4OPp)
- - 👉 [This is a cancer free zone.](http://9gag.com/gag/a4P0zvd)<!-- MEMES:END -->
+ - 💣 [I have found my calling !](http://9gag.com/gag/amoZGpo)
+ - ⏩ [This is a cancer free zone.](http://9gag.com/gag/a4P0zvd)
+ - 👉 [A statue for heroes](http://9gag.com/gag/a5QYzeO)<!-- MEMES:END -->
 
 ---
 
