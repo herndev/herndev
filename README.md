@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Dash0, which offers AI agents to monitor and troubleshoot cloud, app, and infrastructure issues, raised $110M led by Balderton at a $1B valuation &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260323/p11#a260323p11)
- - [The Rise of the Ray-Ban Meta Creep](https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/)
- - [Samsung thought about a major S Pen change for S27 Ultra](https://www.androidauthority.com/galaxy-s27-ultra-s-pen-3651016/)<!-- TECH:END -->
+ - [Every bulb on Govee’s new outdoor string lights can display multicolor effects](https://www.theverge.com/tech/897950/govee-outdoor-chromatic-string-lights-weatherproof-color-changing-price-availability)
+ - [What M5 Pro, M5 Max get using vertically-stacked dies for performance](https://appleinsider.com/articles/26/03/23/what-m5-pro-m5-max-get-using-vertically-stacked-dies-for-performance?utm_source=rss)
+ - [Samsung’s latest budget tablet drops to its lowest price since launch](https://www.androidauthority.com/samsung-galaxy-tab-a11-plus-deals-3650942/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
