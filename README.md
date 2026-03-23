@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google signs deals with five US electric utilities for 1GW of &quot;demand response&quot; in total, to reduce data center power consumption during peak grid demand hours &lpar;Laila Kearney/Reuters&rpar;](http://www.techmeme.com/260323/p4#a260323p4)
- - [A look at Andrej Karpathy&#39;s &quot;autoresearch&quot; experiment, where an AI agent runs in a loop iterating and evaluating on training code to optimize a model &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260323/p3#a260323p3)
- - [Survey shows something bigger than sideloading is bothering Android users](https://www.androidauthority.com/android-sideloading-poll-results-3650979/)<!-- TECH:END -->
+ - [Pixel Watch is now dreaming up health stats, but the fix is ridiculously simple](https://www.androidauthority.com/pixel-watch-steps-overcounting-3651005/)
+ - [A profile of AWS at its 20th anniversary, covering its creation, rise to market dominance, response to the ChatGPT disruption, and the future of its AI bets &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260323/p6#a260323p6)
+ - [The AI Race Is Pressuring Utilities to Squeeze More From Europe’s Power Grids](https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
