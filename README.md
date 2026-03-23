@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Mysterious Numbers Station Is Broadcasting Through the Iran War](https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/)
- - [Apple could put ads in Maps as soon as this summer](https://www.theverge.com/tech/899053/apple-maps-advertising-rumor)
- - [The entire Sony headphone lineup is on sale today, from XM6 to budget picks](https://www.androidauthority.com/sony-headphones-spring-sale-3651171/)<!-- TECH:END -->
+ - [Kalshi announces new guardrails to preemptively block politicians, athletes, and others from trading in their relevant markets &lpar;Nathan Bomey/Axios&rpar;](http://www.techmeme.com/260323/p35#a260323p35)
+ - [Google’s new Pixel 10 ads made me go ‘wait, WHAT are they trying to sell?’](https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom)
+ - [A Billionaire-Backed Startup Wants to Grow &#39;Organ Sacks&#39; to Replace Animal Testing](https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
