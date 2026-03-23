@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a cancer free zone.](http://9gag.com/gag/a4P0zvd)
- - ⏩ [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
+ - 💣 [Normal life](http://9gag.com/gag/aByeLoO)
+ - ⏩ [A statue for heroes](http://9gag.com/gag/a5QYzeO)
  - 👉 [Jim Carrey is a legend for this role](http://9gag.com/gag/aLnEeE6)<!-- MEMES:END -->
 
 ---
