@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have found my calling !](http://9gag.com/gag/amoZGpo)
- - ⏩ [Photographer&#39;s trick](http://9gag.com/gag/ajP4LQp)
- - 👉 [The motorcycle killer is here. So cute](http://9gag.com/gag/aW4X7LK)<!-- MEMES:END -->
+ - 💣 [Never share too much](http://9gag.com/gag/aVv6EKn)
+ - ⏩ [A female comedian disguised as a man to prove women are funny but had a mental breakdown when no one laughed](http://9gag.com/gag/aKGMARO)
+ - 👉 [How do you say `cherry picking` in French?](http://9gag.com/gag/aqyE8LQ)<!-- MEMES:END -->
 
 ---
 
