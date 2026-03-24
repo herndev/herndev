@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This 10x zoom flagship aims to make telephoto converters obsolete](https://www.androidauthority.com/oppo-find-x9-ultra-10x-zoom-global-launch-3651394/)
- - [How Palantir became a flashpoint on the US campaign trail due to its ICE work, ahead of the midterms; six lawmakers publicly refuse any further Palantir funds &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/260324/p13#a260324p13)
- - [How to Use Apple’s Live Translation on Your AirPods](https://www.wired.com/story/apple-live-translation-airpods/)<!-- TECH:END -->
+ - [Nintendo cuts Switch 2 production amid weakening console sales](https://www.theverge.com/games/899291/nintendo-switch-2-production-cut-weak-us-sales)
+ - [Clear Drop Soft Plastic Compactor Review: Eco Experiment](https://www.wired.com/review/clear-drop-soft-plastic-compactor/)
+ - [T-Mobile’s free MLB.TV returns today, but you have a short time to redeem this offer](https://www.androidauthority.com/t-mobile-mlb-tv-return-3650458/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
