@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus Nord 6 launch date revealed alongside its enormous 9,000mAh battery, other specs](https://www.androidauthority.com/oneplus-nord-6-launch-9000-mah-battery-announced-3651326/)
  - [Filing: OpenAI petitions the UK CMA to include AI chatbots with search function in Google&#39;s mandated default search engine choice screen for Chrome and Android &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/260324/p5#a260324p5)
- - [The average smartphone will get more storage in 2026, despite price hikes](https://www.androidauthority.com/average-smartphone-storage-capacity-3651333/)
- - [US Senators Warren and Banks urge suspending Nvidia AI chip export licenses to China and Southeast Asia, following Supermicro co-founder Wally Liaw&#39;s indictment &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/260324/p4#a260324p4)<!-- TECH:END -->
+ - [The average smartphone will get more storage in 2026, despite price hikes](https://www.androidauthority.com/average-smartphone-storage-capacity-3651333/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
