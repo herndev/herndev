@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s all-screen iPhone isn&#39;t coming soon](https://appleinsider.com/articles/26/03/24/apples-all-screen-iphone-isnt-coming-soon?utm_source=rss)
- - [&#39;For All Mankind&#39; ends with a newly announced season 6 renewal](https://appleinsider.com/articles/26/03/24/for-all-mankind-ends-with-a-newly-announced-season-6-renewal?utm_source=rss)
- - [Pokémon Champions is coming to the Nintendo Switch on April 8th](https://www.theverge.com/games/899535/pokemon-champions-is-coming-to-the-nintendo-switch-on-april-8th)<!-- TECH:END -->
+ - [Galaxy S26 Ultra won’t be winning any awards for repairability](https://www.androidauthority.com/ifixit-galaxy-s26-ultra-teardown-3651498/)
+ - [Did your Pixel automations suddenly break? It’s not just you](https://www.androidauthority.com/march-pixel-update-broke-location-rules-3651512/)
+ - [Google launches Android Automotive OS for Software-Defined Vehicles, expanding its &quot;open infrastructure&quot; from infotainment to non-safety internal systems &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260324/p28#a260324p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
