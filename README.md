@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is 100% correct every time](http://9gag.com/gag/aVv6KEy)
- - ⏩ [Mac, Windows, Linux and Autism](http://9gag.com/gag/aKGMWd3)
- - 👉 [Hol&#39; up](http://9gag.com/gag/aByePdA)<!-- MEMES:END -->
+ - 💣 [Financial genius at work](http://9gag.com/gag/aqyE62R)
+ - ⏩ [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - 👉 [Just a friendly reminder](http://9gag.com/gag/aYQ0P8O)<!-- MEMES:END -->
 
 ---
 
