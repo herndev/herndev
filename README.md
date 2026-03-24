@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`And all your money won&#39;t another minute buy`.](http://9gag.com/gag/aD2vZyZ)
- - ⏩ [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
- - 👉 [This will never get old](http://9gag.com/gag/aNDbBA6)<!-- MEMES:END -->
+ - 💣 [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)
+ - ⏩ [How is life bro?](http://9gag.com/gag/a7ox27q)
+ - 👉 [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)<!-- MEMES:END -->
 
 ---
 
