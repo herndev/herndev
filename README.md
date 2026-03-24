@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;A firm announcement is dependent on this final stretch of work&#39;: Fans are spinning out over extraction shooter Sand&#39;s lack of a specific March release date](https://www.pcgamer.com/games/fps/a-firm-announcement-is-dependent-on-this-final-stretch-of-work-fans-are-spinning-out-over-extraction-shooter-sands-lack-of-a-specific-march-release-date/)
- - [A $5 Wikipedia-like mystery game consumed me for 2 straight hours as I dug for clues about a little town and its big weird tree](https://www.pcgamer.com/games/adventure/a-usd5-wikipedia-like-mystery-game-consumed-me-for-2-straight-hours-as-i-dug-for-clues-about-a-little-town-and-its-big-weird-tree/)
- - [Fortnite Adds Peak Skins That Cost Twice As Much As The Indie Game](https://kotaku.com/fortnite-added-peak-skins-that-cost-twice-as-much-as-the-actual-indie-game-2000681185)<!-- GAME:END -->
+ - [Banquet For Fools review](https://www.pcgamer.com/games/rpg/banquet-for-fools-review/)
+ - [I felt like playing a janky choice-driven RPG on my Steam Deck, and this gritty AA deepcut is hitting the spot for just 99 cents](https://www.pcgamer.com/games/rpg/i-felt-like-playing-a-janky-choice-driven-rpg-on-my-steam-deck-and-this-gritty-aa-deepcut-is-hitting-the-spot-for-just-99-cents/)
+ - [&#39;A firm announcement is dependent on this final stretch of work&#39;: Fans are spinning out over extraction shooter Sand&#39;s lack of a specific March release date](https://www.pcgamer.com/games/fps/a-firm-announcement-is-dependent-on-this-final-stretch-of-work-fans-are-spinning-out-over-extraction-shooter-sands-lack-of-a-specific-march-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
