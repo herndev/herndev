@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arm’s first CPU ever will plug into Meta’s AI datacenters later this year](https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta)
- - [Apple is testing a standalone app for its overhauled Siri](https://www.theverge.com/tech/899801/apple-wwdc-2026-new-siri-apple-intelligence-standalone-app)
- - [Sam Altman told staff he has ceded oversight of OpenAI&#39;s safety and security teams to focus on fundraising, supply chains, and building data centers at scale &lpar;The Information&rpar;](http://www.techmeme.com/260324/p43#a260324p43)<!-- TECH:END -->
+ - [Epson’s latest projector makes an even stronger case for ditching your TV](https://www.androidauthority.com/epson-lifestudio-grand-plus-launch-3651643/)
+ - [Meta misled users about its products’ safety, jury decides](https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict)
+ - [NASA wants to put a $20 billion base on the Moon](https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
