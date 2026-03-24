@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Best way to deal with stupidity](http://9gag.com/gag/aryLxg6)
- - ⏩ [Islamic philosophy, episode 4: how to respect women](http://9gag.com/gag/a6ZRBq2)
- - 👉 [Magnetic skateboard](http://9gag.com/gag/an7oxqq)<!-- MEMES:END -->
+ - ⏩ [Magnetic skateboard](http://9gag.com/gag/an7oxqq)
+ - 👉 [Islamic philosophy, episode 4: how to respect women](http://9gag.com/gag/a6ZRBq2)<!-- MEMES:END -->
 
 ---
 
