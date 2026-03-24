@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Banquet For Fools review](https://www.pcgamer.com/games/rpg/banquet-for-fools-review/)
- - [I felt like playing a janky choice-driven RPG on my Steam Deck, and this gritty AA deepcut is hitting the spot for just 99 cents](https://www.pcgamer.com/games/rpg/i-felt-like-playing-a-janky-choice-driven-rpg-on-my-steam-deck-and-this-gritty-aa-deepcut-is-hitting-the-spot-for-just-99-cents/)
- - [&#39;A firm announcement is dependent on this final stretch of work&#39;: Fans are spinning out over extraction shooter Sand&#39;s lack of a specific March release date](https://www.pcgamer.com/games/fps/a-firm-announcement-is-dependent-on-this-final-stretch-of-work-fans-are-spinning-out-over-extraction-shooter-sands-lack-of-a-specific-march-release-date/)<!-- GAME:END -->
+ - [Brandon Sanderson MTG novella Children of the Nameless gets a pricy print edition](https://www.polygon.com/brandon-sanderson-children-of-the-nameless-print-edition/)
+ - [Borderlands 4 Mad Ellie DLC release time in your time zone](https://www.polygon.com/borderlands-4-bl4-dlc-story-pack-1-mad-ellie-vault-damned-release-time-edt-pdt/)
+ - [YouTuber Who Faked A Six-Hour GTA Livestream To Murder His Partner Is Found Guilty](https://kotaku.com/gta-livestream-youtube-murder-alibi-vice-city-2000681443)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
