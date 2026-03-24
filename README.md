@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan&#39;s Sakana AI launches Sakana Chat, its first consumer chatbot, marking a shift from its business focus as competition to localize generative AI intensifies &lpar;Tsubasa Suruga/Nikkei Asia&rpar;](http://www.techmeme.com/260324/p1#a260324p1)
- - [Android Auto is breaking for Pixel and Samsung users, and no one knows why](https://www.androidauthority.com/android-auto-connection-problem-3651318/)
- - [Munich-based Interloom, which aims to capture tacit knowledge for AI agents from businesses&#39; operational records, raised a $16.5M seed led by DN Capital &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260323/p48#a260323p48)<!-- TECH:END -->
+ - [US Senators Warren and Banks urge suspending Nvidia AI chip export licenses to China and Southeast Asia, following Supermicro co-founder Wally Liaw&#39;s indictment &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/260324/p4#a260324p4)
+ - [Sources: Nintendo plans to cut Switch 2 production this quarter to 4M units, down ~33% from 6M, after weaker-than-expected holiday demand, especially in the US &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/260324/p3#a260324p3)
+ - [20% Off Brooks Promo Code &amp; Deals for | March 2026](https://www.wired.com/story/brooks-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
