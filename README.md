@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Death doesn\u2019t stop the legend!](http://9gag.com/gag/adBzngB)
- - ⏩ [It was just the wind](http://9gag.com/gag/apRMx1n)
- - 👉 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)<!-- MEMES:END -->
+ - 💣 [Flickering](http://9gag.com/gag/aD2vVzO)
+ - ⏩ [A statue for heroes](http://9gag.com/gag/a5QYzeO)
+ - 👉 [It was just the wind](http://9gag.com/gag/apRMx1n)<!-- MEMES:END -->
 
 ---
 
