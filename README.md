@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Almost there!](http://9gag.com/gag/ajP4BXq)
- - ⏩ [Best way to deal with stupidity](http://9gag.com/gag/aryLxg6)
- - 👉 [Dragonflies are nature&#39;s fighter jets, protecting our farms from pesky flies. Who knew these tiny creatures were such efficient predators](http://9gag.com/gag/aKGMWDQ)<!-- MEMES:END -->
+ - 💣 [Best way to deal with stupidity](http://9gag.com/gag/aryLxg6)
+ - ⏩ [Islamic philosophy, episode 4: how to respect women](http://9gag.com/gag/a6ZRBq2)
+ - 👉 [Magnetic skateboard](http://9gag.com/gag/an7oxqq)<!-- MEMES:END -->
 
 ---
 
