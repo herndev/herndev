@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - ⏩ [It is 100% correct every time](http://9gag.com/gag/aVv6KEy)
- - 👉 [It was just the wind](http://9gag.com/gag/apRMx1n)<!-- MEMES:END -->
+ - 💣 [Flickering](http://9gag.com/gag/aD2vVzO)
+ - ⏩ [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)
+ - 👉 [Hol&#39; up](http://9gag.com/gag/aByePdA)<!-- MEMES:END -->
 
 ---
 
