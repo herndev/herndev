@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mac, Windows, Linux and Autism](http://9gag.com/gag/aKGMWd3)
- - ⏩ [\u201cPelvic strengthening\u201d](http://9gag.com/gag/aNDbvEw)
+ - 💣 [This is a cancer free zone.](http://9gag.com/gag/a4P0zvd)
+ - ⏩ [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
  - 👉 [Hol&#39; up](http://9gag.com/gag/aByePdA)<!-- MEMES:END -->
 
 ---
