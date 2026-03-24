@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They will never take candy from stranger again](http://9gag.com/gag/a4P05Xm)
- - ⏩ [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - 👉 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)<!-- MEMES:END -->
+ - 💣 [Understandable...have a nice day](http://9gag.com/gag/an7ovML)
+ - ⏩ [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
+ - 👉 [Just a friendly reminder](http://9gag.com/gag/aYQ0P8O)<!-- MEMES:END -->
 
 ---
 
