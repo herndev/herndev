@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BoA shaves Apple share target by $5, weirdly concerned about iPhone 18 launch timing](https://appleinsider.com/articles/26/03/24/boa-shaves-apple-share-target-by-5-wierdly-concerned-about-iphone-18-launch-timing?utm_source=rss)
- - [Tether says it has engaged a Big Four accounting firm to conduct its first full independent audit of reserves behind its USDT stablecoin &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/260324/p19#a260324p19)
- - [Child abduction case ends quickly after AirTag exposes stolen bike&#39;s location](https://appleinsider.com/articles/26/03/24/child-abduction-case-ends-quickly-after-airtag-exposes-stolen-bikes-location?utm_source=rss)<!-- TECH:END -->
+ - [Apple&#39;s all-screen iPhone isn&#39;t coming soon](https://appleinsider.com/articles/26/03/24/apples-all-screen-iphone-isnt-coming-soon?utm_source=rss)
+ - [&#39;For All Mankind&#39; ends with a newly announced season 6 renewal](https://appleinsider.com/articles/26/03/24/for-all-mankind-ends-with-a-newly-announced-season-6-renewal?utm_source=rss)
+ - [Pokémon Champions is coming to the Nintendo Switch on April 8th](https://www.theverge.com/games/899535/pokemon-champions-is-coming-to-the-nintendo-switch-on-april-8th)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
