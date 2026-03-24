@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mirage, formerly Captions, which develops an AI video editing and marketing suite, raised $75M from General Catalyst, after moving to a freemium model in 2025 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260324/p18#a260324p18)
- - [Spring Cleaning Your Tech: How to Recycle Old Computers for Free](https://www.cnet.com/tech/computing/where-to-recycle-your-old-pc-laptop-and-printer-for-free/)
- - [Amazon&#39;s Zoox plans to launch a paid robotaxi service in Las Vegas by late June, pending local approvals and an NHTSA exemption, ahead of a San Francisco launch &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260324/p17#a260324p17)<!-- TECH:END -->
+ - [BoA shaves Apple share target by $5, weirdly concerned about iPhone 18 launch timing](https://appleinsider.com/articles/26/03/24/boa-shaves-apple-share-target-by-5-wierdly-concerned-about-iphone-18-launch-timing?utm_source=rss)
+ - [Tether says it has engaged a Big Four accounting firm to conduct its first full independent audit of reserves behind its USDT stablecoin &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/260324/p19#a260324p19)
+ - [Child abduction case ends quickly after AirTag exposes stolen bike&#39;s location](https://appleinsider.com/articles/26/03/24/child-abduction-case-ends-quickly-after-airtag-exposes-stolen-bikes-location?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
