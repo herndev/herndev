@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Superhuman CEO Shishir Mehrotra, who apologized for Grammarly&#39;s Expert Review feature, on AI impersonation, attribution, compensating creators, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260324/p6#a260324p6)
- - [OnePlus Nord 6 launch date revealed alongside its enormous 9,000mAh battery, other specs](https://www.androidauthority.com/oneplus-nord-6-launch-9000-mah-battery-announced-3651326/)
- - [Filing: OpenAI petitions the UK CMA to include AI chatbots with search function in Google&#39;s mandated default search engine choice screen for Chrome and Android &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/260324/p5#a260324p5)<!-- TECH:END -->
+ - [What&#39;s the Best Kindle of 2026? &lpar;So Far&rpar;](https://www.wired.com/gallery/best-kindle/)
+ - [Just get a new Samsung phone? Turn off these 6 features immediately](https://www.androidauthority.com/new-samsung-phone-features-turn-off-immediately-3651052/)
+ - [ICE Is Paying the Salaries of This Town’s Entire Police Force](https://www.wired.com/story/ice-is-paying-the-salaries-of-this-towns-entire-police-force/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
