@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Brandon Sanderson MTG novella Children of the Nameless gets a pricy print edition](https://www.polygon.com/brandon-sanderson-children-of-the-nameless-print-edition/)
- - [Borderlands 4 Mad Ellie DLC release time in your time zone](https://www.polygon.com/borderlands-4-bl4-dlc-story-pack-1-mad-ellie-vault-damned-release-time-edt-pdt/)
- - [YouTuber Who Faked A Six-Hour GTA Livestream To Murder His Partner Is Found Guilty](https://kotaku.com/gta-livestream-youtube-murder-alibi-vice-city-2000681443)<!-- GAME:END -->
+ - [Call of Duty veteran&#39;s new studio, which was just announced in 2025, is reportedly being closed by Sony](https://www.pcgamer.com/gaming-industry/call-of-duty-veterans-new-studio-which-was-just-announced-in-2025-is-reportedly-being-closed-by-sony/)
+ - [How to get the Soul Spear in Crimson Desert](https://www.polygon.com/crimson-desert-soul-spear-how-to-get-antumbra-ritual-grounds-location/)
+ - [Union Blasts Greedfall 2 Publisher Over Studio Bankruptcies: ‘Years Of Mismanagement And Strategic Nothingness’](https://kotaku.com/union-blasts-greedfall-2-publisher-over-studio-bankruptcies-years-of-mismanagement-and-strategic-nothingness-2000681513)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
