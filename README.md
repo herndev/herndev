@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
- - ⏩ [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)
- - 👉 [Just a friendly reminder](http://9gag.com/gag/aYQ0P8O)<!-- MEMES:END -->
+ - 💣 [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - ⏩ [Understandable...have a nice day](http://9gag.com/gag/an7ovML)
+ - 👉 [Ungrateful Girls](http://9gag.com/gag/adBzQAB)<!-- MEMES:END -->
 
 ---
 
