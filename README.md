@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo cuts Switch 2 production amid weakening console sales](https://www.theverge.com/games/899291/nintendo-switch-2-production-cut-weak-us-sales)
- - [Clear Drop Soft Plastic Compactor Review: Eco Experiment](https://www.wired.com/review/clear-drop-soft-plastic-compactor/)
- - [T-Mobile’s free MLB.TV returns today, but you have a short time to redeem this offer](https://www.androidauthority.com/t-mobile-mlb-tv-return-3650458/)<!-- TECH:END -->
+ - [Mirage, formerly Captions, which develops an AI video editing and marketing suite, raised $75M from General Catalyst, after moving to a freemium model in 2025 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260324/p18#a260324p18)
+ - [Spring Cleaning Your Tech: How to Recycle Old Computers for Free](https://www.cnet.com/tech/computing/where-to-recycle-your-old-pc-laptop-and-printer-for-free/)
+ - [Amazon&#39;s Zoox plans to launch a paid robotaxi service in Las Vegas by late June, pending local approvals and an NHTSA exemption, ahead of a San Francisco launch &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/260324/p17#a260324p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
