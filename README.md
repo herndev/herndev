@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201cPelvic strengthening\u201d](http://9gag.com/gag/aNDbvEw)
- - ⏩ [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - 👉 [Almost there!](http://9gag.com/gag/ajP4BXq)<!-- MEMES:END -->
+ - 💣 [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - ⏩ [The hero we all needed, but didnt deserve](http://9gag.com/gag/aZZY8A6)
+ - 👉 [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)<!-- MEMES:END -->
 
 ---
 
