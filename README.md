@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Normal life](http://9gag.com/gag/aByeLoO)
- - ⏩ [A statue for heroes](http://9gag.com/gag/a5QYzeO)
- - 👉 [Jim Carrey is a legend for this role](http://9gag.com/gag/aLnEeE6)<!-- MEMES:END -->
+ - 💣 [\u201cPelvic strengthening\u201d](http://9gag.com/gag/aNDbvEw)
+ - ⏩ [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - 👉 [Almost there!](http://9gag.com/gag/ajP4BXq)<!-- MEMES:END -->
 
 ---
 
