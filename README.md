@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From sports briefs to deep dives, Gemini for Google TV is getting a big update](https://www.androidauthority.com/google-tv-deep-dive-sports-briefs-3651541/)
- - [OpenAI revamps ChatGPT&#39;s shopping experience by letting users upload images or describe items and include criteria like their budget &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260324/p34#a260324p34)
- - [The Pixel 9a might finally be getting this long-missing unlock option](https://www.androidauthority.com/google-pixel-9a-screen-off-fingerprint-unlock-3651563/)<!-- TECH:END -->
+ - [Baltimore becomes the first major US city to sue xAI, accusing it of violating consumer protection laws by marketing Grok as generally safe &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260324/p39#a260324p39)
+ - [OpenAI releases a set of prompts designed to be used with its open-weight safety model gpt-oss-safeguard that lets developers make their apps safer for teens &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/260324/p38#a260324p38)
+ - [Sources: OpenAI nears a deal to raise ~$10B from Abu Dhabi&#39;s MGX, Coatue, and Thrive, bringing its latest funding round to ~$120B at a $730B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260324/p37#a260324p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
