@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT and Gemini are fighting to be the AI bot that sells you stuff](https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features)
- - [Arm unveils its own AI chip called the AGI CPU, a departure from its traditional role as a designer of chips for others; Meta and OpenAI will be early customers &lpar;Financial Times&rpar;](http://www.techmeme.com/260324/p31#a260324p31)
- - [Nvidia CloudXR is now available for Apple Vision Pro with the release of visionOS 26.4](https://appleinsider.com/articles/26/03/24/nvidia-cloudxr-is-now-available-for-apple-vision-pro-with-the-release-of-visionos-264?utm_source=rss)<!-- TECH:END -->
+ - [From sports briefs to deep dives, Gemini for Google TV is getting a big update](https://www.androidauthority.com/google-tv-deep-dive-sports-briefs-3651541/)
+ - [OpenAI revamps ChatGPT&#39;s shopping experience by letting users upload images or describe items and include criteria like their budget &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260324/p34#a260324p34)
+ - [The Pixel 9a might finally be getting this long-missing unlock option](https://www.androidauthority.com/google-pixel-9a-screen-off-fingerprint-unlock-3651563/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
