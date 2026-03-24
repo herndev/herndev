@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epson’s latest projector makes an even stronger case for ditching your TV](https://www.androidauthority.com/epson-lifestudio-grand-plus-launch-3651643/)
- - [Meta misled users about its products’ safety, jury decides](https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict)
- - [NASA wants to put a $20 billion base on the Moon](https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman)<!-- TECH:END -->
+ - [Instagram and Facebook are about to be filled with affiliate content](https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels)
+ - [Databricks launches Lakewatch, a security information and event management service, and announces acquisitions of security startups Antimatter and SiftD &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260324/p51#a260324p51)
+ - [Sources: Anduril, Palantir, and Scale AI are part of the group developing software to run President Trump&#39;s planned $185B Golden Dome antimissile shield &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/260324/p50#a260324p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
