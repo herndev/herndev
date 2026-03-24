@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The most radicalizing videos on the internet are videos from malls in the late 80&#39;s early 90&#39;s](http://9gag.com/gag/aVv6mXP)
- - ⏩ [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
- - 👉 [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)<!-- MEMES:END -->
+ - 💣 [It is 100% correct every time](http://9gag.com/gag/aVv6KEy)
+ - ⏩ [Mac, Windows, Linux and Autism](http://9gag.com/gag/aKGMWd3)
+ - 👉 [Hol&#39; up](http://9gag.com/gag/aByePdA)<!-- MEMES:END -->
 
 ---
 
