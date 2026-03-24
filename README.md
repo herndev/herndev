@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Flickering](http://9gag.com/gag/aD2vVzO)
- - ⏩ [A statue for heroes](http://9gag.com/gag/a5QYzeO)
- - 👉 [It was just the wind](http://9gag.com/gag/apRMx1n)<!-- MEMES:END -->
+ - 💣 [They will never take candy from stranger again](http://9gag.com/gag/a4P05Xm)
+ - ⏩ [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
+ - 👉 [Fellow witches enthusiast hear me out....](http://9gag.com/gag/avyjRqq)<!-- MEMES:END -->
 
 ---
 
