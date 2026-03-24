@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A statue for heroes](http://9gag.com/gag/a5QYzeO)
- - ⏩ [Just a friendly reminder](http://9gag.com/gag/aYQ0P8O)
- - 👉 [My first celebrity crush. Who was yours?](http://9gag.com/gag/awyp1vD)<!-- MEMES:END -->
+ - 💣 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
+ - ⏩ [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)
+ - 👉 [Just a friendly reminder](http://9gag.com/gag/aYQ0P8O)<!-- MEMES:END -->
 
 ---
 
