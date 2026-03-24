@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - ⏩ [Understandable...have a nice day](http://9gag.com/gag/an7ovML)
- - 👉 [Ungrateful Girls](http://9gag.com/gag/adBzQAB)<!-- MEMES:END -->
+ - 💣 [They will never take candy from stranger again](http://9gag.com/gag/a4P05Xm)
+ - ⏩ [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - 👉 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)<!-- MEMES:END -->
 
 ---
 
