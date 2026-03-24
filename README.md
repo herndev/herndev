@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI plans to discontinue products that use its Sora models, including its consumer app, a Sora version for developers, and a video feature inside ChatGPT &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260324/p42#a260324p42)
- - [iOS 18.7.7, macOS 15.7.5 updates fix kernel memory leaks &amp; WebKit flaws](https://appleinsider.com/articles/26/03/24/update-to-ios-1877-macos-1575-to-fix-kernel-memory-leaks-webkit-flaws?utm_source=rss)
- - [Two versions of LiteLLM, an interface for accessing LLMs, have been removed from PyPI after a supply chain attack injected them with credential-stealing code &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/260324/p41#a260324p41)<!-- TECH:END -->
+ - [Arm’s first CPU ever will plug into Meta’s AI datacenters later this year](https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta)
+ - [Apple is testing a standalone app for its overhauled Siri](https://www.theverge.com/tech/899801/apple-wwdc-2026-new-siri-apple-intelligence-standalone-app)
+ - [Sam Altman told staff he has ceded oversight of OpenAI&#39;s safety and security teams to focus on fundraising, supply chains, and building data centers at scale &lpar;The Information&rpar;](http://www.techmeme.com/260324/p43#a260324p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
