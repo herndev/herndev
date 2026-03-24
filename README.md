@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a cancer free zone.](http://9gag.com/gag/a4P0zvd)
+ - 💣 [The most radicalizing videos on the internet are videos from malls in the late 80&#39;s early 90&#39;s](http://9gag.com/gag/aVv6mXP)
  - ⏩ [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)
- - 👉 [Hol&#39; up](http://9gag.com/gag/aByePdA)<!-- MEMES:END -->
+ - 👉 [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)<!-- MEMES:END -->
 
 ---
 
