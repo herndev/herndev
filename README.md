@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Flickering](http://9gag.com/gag/aD2vVzO)
- - ⏩ [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)
- - 👉 [Hol&#39; up](http://9gag.com/gag/aByePdA)<!-- MEMES:END -->
+ - 💣 [Death doesn\u2019t stop the legend!](http://9gag.com/gag/adBzngB)
+ - ⏩ [It was just the wind](http://9gag.com/gag/apRMx1n)
+ - 👉 [Men dont have rights in divorce as court is biased](http://9gag.com/gag/avyj6mn)<!-- MEMES:END -->
 
 ---
 
