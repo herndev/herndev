@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This $1,999 gaming handheld just got too expensive to make, and you can blame AI for it](https://www.androidauthority.com/ayaneo-suspend-next-2-handheld-preorders-3651362/)
- - [I did the math and I was paying roughly $75 a month on unused subscriptions](https://www.androidauthority.com/subscription-costs-3647297/)
- - [In a Kleiner podcast interview, DOD official Emil Michael says he will &quot;never forget&quot; nor &quot;forgive&quot; Uber investors that ousted him and Travis Kalanick in 2017 &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260324/p10#a260324p10)<!-- TECH:END -->
+ - [This 10x zoom flagship aims to make telephoto converters obsolete](https://www.androidauthority.com/oppo-find-x9-ultra-10x-zoom-global-launch-3651394/)
+ - [How Palantir became a flashpoint on the US campaign trail due to its ICE work, ahead of the midterms; six lawmakers publicly refuse any further Palantir funds &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/260324/p13#a260324p13)
+ - [How to Use Apple’s Live Translation on Your AirPods](https://www.wired.com/story/apple-live-translation-airpods/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
