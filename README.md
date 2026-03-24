@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Financial genius at work](http://9gag.com/gag/aqyE62R)
- - ⏩ [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - 👉 [Just a friendly reminder](http://9gag.com/gag/aYQ0P8O)<!-- MEMES:END -->
+ - 💣 [A statue for heroes](http://9gag.com/gag/a5QYzeO)
+ - ⏩ [Just a friendly reminder](http://9gag.com/gag/aYQ0P8O)
+ - 👉 [My first celebrity crush. Who was yours?](http://9gag.com/gag/awyp1vD)<!-- MEMES:END -->
 
 ---
 
