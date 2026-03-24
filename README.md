@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [United States FCC bans import of all new foreign-made consumer routers](https://appleinsider.com/articles/26/03/24/united-states-fcc-bans-import-of-all-new-foreign-made-consumer-routers?utm_source=rss)
- - [How Nvidia became the AI industry&#39;s most powerful financier, investing billions in startups and supporting customers who couldn&#39;t otherwise afford its chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260323/p46#a260323p46)
- - [Television giants team up against dominant streaming OS &amp; Apple TV](https://appleinsider.com/articles/26/03/24/television-giants-team-up-against-dominant-streaming-os-apple-tv?utm_source=rss)<!-- TECH:END -->
+ - [Android Auto is breaking for Pixel and Samsung users, and no one knows why](https://www.androidauthority.com/android-auto-connection-problem-3651318/)
+ - [Munich-based Interloom, which aims to capture tacit knowledge for AI agents from businesses&#39; operational records, raised a $16.5M seed led by DN Capital &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/260323/p48#a260323p48)
+ - [SoftBank says its loan-to-value ratio, a measure of net debt against the value of its holdings, could exceed its 25% limit as it commits another $30B to OpenAI &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/260323/p47#a260323p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
