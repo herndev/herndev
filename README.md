@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty veteran&#39;s new studio, which was just announced in 2025, is reportedly being closed by Sony](https://www.pcgamer.com/gaming-industry/call-of-duty-veterans-new-studio-which-was-just-announced-in-2025-is-reportedly-being-closed-by-sony/)
- - [How to get the Soul Spear in Crimson Desert](https://www.polygon.com/crimson-desert-soul-spear-how-to-get-antumbra-ritual-grounds-location/)
- - [Union Blasts Greedfall 2 Publisher Over Studio Bankruptcies: ‘Years Of Mismanagement And Strategic Nothingness’](https://kotaku.com/union-blasts-greedfall-2-publisher-over-studio-bankruptcies-years-of-mismanagement-and-strategic-nothingness-2000681513)<!-- GAME:END -->
+ - [If you think the citizens in city builders are grumpy and needy, try pleasing a bunch of jealous Roman gods](https://www.pcgamer.com/games/city-builder/if-you-think-the-citizens-in-city-builders-are-grumpy-and-needy-try-pleasing-a-bunch-of-jealous-roman-gods/)
+ - [After feedback that Death Stranding was &#39;too slow,&#39; Kojima wanted more players to see Death Stranding 2 all the way through to the end](https://www.pcgamer.com/games/action/after-feedback-that-death-stranding-was-too-slow-kojima-wanted-more-players-to-see-death-stranding-2-all-the-way-through-to-the-end/)
+ - [OpenAI discontinues Sora video generation app, Disney pulls out of $1 billion investment deal](https://www.pcgamer.com/software/ai/openai-discontinues-sora-video-generation-app-disney-pulls-out-of-usd1-billion-investment-deal/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
