@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hol&#39; up](http://9gag.com/gag/aByePdA)
- - ⏩ [The hero we all needed, but didnt deserve](http://9gag.com/gag/aZZY8A6)
- - 👉 [Checkmate, Muricaaa](http://9gag.com/gag/aQzj7qw)<!-- MEMES:END -->
+ - 💣 [Mac, Windows, Linux and Autism](http://9gag.com/gag/aKGMWd3)
+ - ⏩ [\u201cPelvic strengthening\u201d](http://9gag.com/gag/aNDbvEw)
+ - 👉 [Hol&#39; up](http://9gag.com/gag/aByePdA)<!-- MEMES:END -->
 
 ---
 
