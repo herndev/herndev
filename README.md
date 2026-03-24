@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)
- - ⏩ [This will never get old](http://9gag.com/gag/aNDbBA6)
- - 👉 [Fellow witches enthusiast hear me out....](http://9gag.com/gag/avyjRqq)<!-- MEMES:END -->
+ - 💣 [`And all your money won&#39;t another minute buy`.](http://9gag.com/gag/aD2vZyZ)
+ - ⏩ [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
+ - 👉 [This will never get old](http://9gag.com/gag/aNDbBA6)<!-- MEMES:END -->
 
 ---
 
