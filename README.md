@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&#39;s the Best Kindle of 2026? &lpar;So Far&rpar;](https://www.wired.com/gallery/best-kindle/)
- - [Just get a new Samsung phone? Turn off these 6 features immediately](https://www.androidauthority.com/new-samsung-phone-features-turn-off-immediately-3651052/)
- - [ICE Is Paying the Salaries of This Town’s Entire Police Force](https://www.wired.com/story/ice-is-paying-the-salaries-of-this-towns-entire-police-force/)<!-- TECH:END -->
+ - [This $1,999 gaming handheld just got too expensive to make, and you can blame AI for it](https://www.androidauthority.com/ayaneo-suspend-next-2-handheld-preorders-3651362/)
+ - [I did the math and I was paying roughly $75 a month on unused subscriptions](https://www.androidauthority.com/subscription-costs-3647297/)
+ - [In a Kleiner podcast interview, DOD official Emil Michael says he will &quot;never forget&quot; nor &quot;forgive&quot; Uber investors that ousted him and Travis Kalanick in 2017 &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260324/p10#a260324p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
