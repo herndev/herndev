@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based Swish, which offers a 10-minute food delivery service, raised a $38M Series B at a $139M post-money valuation, bringing its total raised to $54M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260323/p43#a260323p43)
- - [Jury deliberations begin in New Mexico&#39;s lawsuit against Meta over children&#39;s safety risks, after both sides delivered closing arguments &lpar;Morgan Lee/Associated Press&rpar;](http://www.techmeme.com/260323/p42#a260323p42)
- - [You are out of time to update: Severe iOS hack code leaks to everyone](https://appleinsider.com/articles/26/03/23/you-are-out-of-time-to-update-severe-ios-hack-code-leaks-to-everyone?utm_source=rss)<!-- TECH:END -->
+ - [Television giants team up against dominant streaming OS &amp; Apple TV](https://appleinsider.com/articles/26/03/24/television-giants-team-up-against-dominant-streaming-os-apple-tv?utm_source=rss)
+ - [The Internet Watch Foundation says it identified 8,029 AI-generated images and videos of realistic child sexual abuse in 2025, up 14% from the previous year &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/260323/p45#a260323p45)
+ - [The US State Department launches the Bureau of Emerging Threats to tackle current and future threats, including cyberattacks and AI weaponization by adversaries &lpar;Shannon K. Kingston/ABC News&rpar;](http://www.techmeme.com/260323/p44#a260323p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
