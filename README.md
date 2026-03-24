@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Superhuman CEO Shishir Mehrotra, who apologized for Grammarly&#39;s Expert Review feature, on AI impersonation, attribution, compensating creators, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260324/p6#a260324p6)
  - [OnePlus Nord 6 launch date revealed alongside its enormous 9,000mAh battery, other specs](https://www.androidauthority.com/oneplus-nord-6-launch-9000-mah-battery-announced-3651326/)
- - [Filing: OpenAI petitions the UK CMA to include AI chatbots with search function in Google&#39;s mandated default search engine choice screen for Chrome and Android &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/260324/p5#a260324p5)
- - [The average smartphone will get more storage in 2026, despite price hikes](https://www.androidauthority.com/average-smartphone-storage-capacity-3651333/)<!-- TECH:END -->
+ - [Filing: OpenAI petitions the UK CMA to include AI chatbots with search function in Google&#39;s mandated default search engine choice screen for Chrome and Android &lpar;James Titcomb/Telegraph&rpar;](http://www.techmeme.com/260324/p5#a260324p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
