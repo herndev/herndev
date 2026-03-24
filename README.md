@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baltimore becomes the first major US city to sue xAI, accusing it of violating consumer protection laws by marketing Grok as generally safe &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/260324/p39#a260324p39)
- - [OpenAI releases a set of prompts designed to be used with its open-weight safety model gpt-oss-safeguard that lets developers make their apps safer for teens &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/260324/p38#a260324p38)
- - [Sources: OpenAI nears a deal to raise ~$10B from Abu Dhabi&#39;s MGX, Coatue, and Thrive, bringing its latest funding round to ~$120B at a $730B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260324/p37#a260324p37)<!-- TECH:END -->
+ - [OpenAI plans to discontinue products that use its Sora models, including its consumer app, a Sora version for developers, and a video feature inside ChatGPT &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260324/p42#a260324p42)
+ - [iOS 18.7.7, macOS 15.7.5 updates fix kernel memory leaks &amp; WebKit flaws](https://appleinsider.com/articles/26/03/24/update-to-ios-1877-macos-1575-to-fix-kernel-memory-leaks-webkit-flaws?utm_source=rss)
+ - [Two versions of LiteLLM, an interface for accessing LLMs, have been removed from PyPI after a supply chain attack injected them with credential-stealing code &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/260324/p41#a260324p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
