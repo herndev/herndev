@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best way to deal with stupidity](http://9gag.com/gag/aryLxg6)
- - ⏩ [Magnetic skateboard](http://9gag.com/gag/an7oxqq)
- - 👉 [Islamic philosophy, episode 4: how to respect women](http://9gag.com/gag/a6ZRBq2)<!-- MEMES:END -->
+ - 💣 [Hol&#39; up](http://9gag.com/gag/aByePdA)
+ - ⏩ [It is 100% correct every time](http://9gag.com/gag/aVv6KEy)
+ - 👉 [It was just the wind](http://9gag.com/gag/apRMx1n)<!-- MEMES:END -->
 
 ---
 
