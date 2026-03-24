@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S26 Ultra won’t be winning any awards for repairability](https://www.androidauthority.com/ifixit-galaxy-s26-ultra-teardown-3651498/)
- - [Did your Pixel automations suddenly break? It’s not just you](https://www.androidauthority.com/march-pixel-update-broke-location-rules-3651512/)
- - [Google launches Android Automotive OS for Software-Defined Vehicles, expanding its &quot;open infrastructure&quot; from infotainment to non-safety internal systems &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/260324/p28#a260324p28)<!-- TECH:END -->
+ - [ChatGPT and Gemini are fighting to be the AI bot that sells you stuff](https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features)
+ - [Arm unveils its own AI chip called the AGI CPU, a departure from its traditional role as a designer of chips for others; Meta and OpenAI will be early customers &lpar;Financial Times&rpar;](http://www.techmeme.com/260324/p31#a260324p31)
+ - [Nvidia CloudXR is now available for Apple Vision Pro with the release of visionOS 26.4](https://appleinsider.com/articles/26/03/24/nvidia-cloudxr-is-now-available-for-apple-vision-pro-with-the-release-of-visionos-264?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
