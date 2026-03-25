@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How is life bro?](http://9gag.com/gag/a7ox27q)
- - ⏩ [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
- - 👉 [I love a windy day](http://9gag.com/gag/a34O2x1)<!-- MEMES:END -->
+ - 💣 [But how about three?](http://9gag.com/gag/aYQ0PzO)
+ - ⏩ [It was just the wind](http://9gag.com/gag/apRMx1n)
+ - 👉 [Happy black history month](http://9gag.com/gag/agme4Kn)<!-- MEMES:END -->
 
 ---
 
