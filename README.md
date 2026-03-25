@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)
- - ⏩ [Hear me out](http://9gag.com/gag/aQzjZ0z)
- - 👉 [Paint job tips](http://9gag.com/gag/agme2rq)<!-- MEMES:END -->
+ - 💣 [Happy black history month](http://9gag.com/gag/agme4Kn)
+ - ⏩ [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)
+ - 👉 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)<!-- MEMES:END -->
 
 ---
 
