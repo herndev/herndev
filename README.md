@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It was just the wind](http://9gag.com/gag/apRMx1n)
- - ⏩ [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
- - 👉 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)<!-- MEMES:END -->
+ - 💣 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
+ - ⏩ [Alien technology](http://9gag.com/gag/aPAqexP)
+ - 👉 [Paint job tips](http://9gag.com/gag/agme2rq)<!-- MEMES:END -->
 
 ---
 
