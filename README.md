@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A 90s darling](http://9gag.com/gag/abA8xGb)
- - ⏩ [Why this thing gives me final destination vibes](http://9gag.com/gag/aqyEW7Z)
+ - 💣 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
+ - ⏩ [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
  - 👉 [@alleeenmaarjsfu died 5 years ago. Let&#39;s not forget about him.](http://9gag.com/gag/aO8W12D)<!-- MEMES:END -->
 
 ---
