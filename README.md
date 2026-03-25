@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Google &amp; Meta found liable for social media addiction](https://appleinsider.com/articles/26/03/25/google-meta-found-liable-for-social-media-addiction?utm_source=rss)
- - [Meta and YouTube found negligent in landmark social media addiction case](https://www.theverge.com/policy/900654/meta-google-instagram-youtube-social-media-addiction-trial-kgm-jury-decision)
- - [OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage](https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/)<!-- TECH:END -->
+ - [Woot is offering over 20 percent off Switch 2 controllers and games today](https://www.theverge.com/gadgets/900490/nintendo-switch-2-controllers-games-amazon-big-spring-sale-2026-deals)
+ - [Reddit says it will label automated accounts that provide a service to users and will require accounts suspected of being bots to verify they are human &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260325/p36#a260325p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
