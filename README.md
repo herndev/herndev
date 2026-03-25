@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you think the citizens in city builders are grumpy and needy, try pleasing a bunch of jealous Roman gods](https://www.pcgamer.com/games/city-builder/if-you-think-the-citizens-in-city-builders-are-grumpy-and-needy-try-pleasing-a-bunch-of-jealous-roman-gods/)
- - [After feedback that Death Stranding was &#39;too slow,&#39; Kojima wanted more players to see Death Stranding 2 all the way through to the end](https://www.pcgamer.com/games/action/after-feedback-that-death-stranding-was-too-slow-kojima-wanted-more-players-to-see-death-stranding-2-all-the-way-through-to-the-end/)
- - [OpenAI discontinues Sora video generation app, Disney pulls out of $1 billion investment deal](https://www.pcgamer.com/software/ai/openai-discontinues-sora-video-generation-app-disney-pulls-out-of-usd1-billion-investment-deal/)<!-- GAME:END -->
+ - [New Lord of the Rings movie coming from LOTR nerd Stephen Colbert](https://www.polygon.com/new-lord-of-the-rings-movie-stephen-colbert-lotr-shadows-of-the-past/)
+ - [Once Human Console Closed Beta – Join the Supernatural Survival World on Xbox](https://news.xbox.com/en-us/2026/03/24/once-human-console-closed-beta-join-the-supernatural-survival-world-on-xbox/)
+ - [Daredevil Born Again season 2 review: Marvel’s most political show ever has one glaring flaw](https://www.polygon.com/daredevil-born-again-season-2-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
