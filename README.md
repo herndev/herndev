@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)
- - ⏩ [I love a windy day](http://9gag.com/gag/a34O2x1)
- - 👉 [3/25](http://9gag.com/gag/adBze3V)<!-- MEMES:END -->
+ - 💣 [Still figuring it out at 33, no biggie](http://9gag.com/gag/amoZVn9)
+ - ⏩ [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
+ - 👉 [She&#39;s a keeper, protect her at all costs](http://9gag.com/gag/aQzj27z)<!-- MEMES:END -->
 
 ---
 
