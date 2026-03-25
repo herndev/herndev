@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google &amp; Meta found liable for social media addiction](https://appleinsider.com/articles/26/03/25/google-meta-found-liable-for-social-media-addiction?utm_source=rss)
- - [Woot is offering over 20 percent off Switch 2 controllers and games today](https://www.theverge.com/gadgets/900490/nintendo-switch-2-controllers-games-amazon-big-spring-sale-2026-deals)
- - [Reddit says it will label automated accounts that provide a service to users and will require accounts suspected of being bots to verify they are human &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260325/p36#a260325p36)<!-- TECH:END -->
+ - [Source: Meta on Wednesday laid off around 700 employees in the Reality Labs unit, as well as some in recruiting, sales, and Facebook &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/260325/p39#a260325p39)
+ - [Disney’s big bets on the metaverse and AI slop aren’t going so well](https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse)
+ - [Amazon Spring Sale Deal: The Typhur Dome 2 Air Fryer Is 30% Off](https://www.wired.com/story/typhur-dome-2-air-fryer-deal-amazon-spring-sale/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
