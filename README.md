@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Lord of the Rings movie coming from LOTR nerd Stephen Colbert](https://www.polygon.com/new-lord-of-the-rings-movie-stephen-colbert-lotr-shadows-of-the-past/)
- - [Once Human Console Closed Beta – Join the Supernatural Survival World on Xbox](https://news.xbox.com/en-us/2026/03/24/once-human-console-closed-beta-join-the-supernatural-survival-world-on-xbox/)
- - [Daredevil Born Again season 2 review: Marvel’s most political show ever has one glaring flaw](https://www.polygon.com/daredevil-born-again-season-2-review/)<!-- GAME:END -->
+ - [2025 Publisher Ranking Reveals Just How Bad PlayStation Whiffed It Last Year](https://kotaku.com/2025-publisher-rankings-reveal-just-how-bad-playstation-whiffed-it-last-year-2000681832)
+ - [Pokémon Champions Won’t Feature All 1000+ Monsters](https://kotaku.com/pokemon-champions-ev-iv-training-pokedex-evolved-switch-2000681841)
+ - [Elevate your mission in Directive 8020 with PlayStation 5 Pro enhancements, out May 12](https://blog.playstation.com/2026/03/25/elevate-your-mission-in-directive-8020-with-playstation-5-pro-enhancements-out-may-12/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
