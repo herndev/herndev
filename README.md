@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [3/25](http://9gag.com/gag/adBze3V)
- - ⏩ [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
- - 👉 [Happy black history month](http://9gag.com/gag/agme4Kn)<!-- MEMES:END -->
+ - 💣 [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)
+ - ⏩ [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
+ - 👉 [How is life bro?](http://9gag.com/gag/a7ox27q)<!-- MEMES:END -->
 
 ---
 
