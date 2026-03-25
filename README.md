@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But how about three?](http://9gag.com/gag/aYQ0PzO)
- - ⏩ [It was just the wind](http://9gag.com/gag/apRMx1n)
+ - 💣 [3/25](http://9gag.com/gag/adBze3V)
+ - ⏩ [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
  - 👉 [Happy black history month](http://9gag.com/gag/agme4Kn)<!-- MEMES:END -->
 
 ---
