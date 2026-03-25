@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Flickering](http://9gag.com/gag/aD2vVzO)
- - ⏩ [It was just the wind](http://9gag.com/gag/apRMx1n)
- - 👉 [They will never take candy from stranger again](http://9gag.com/gag/a4P05Xm)<!-- MEMES:END -->
+ - 💣 [In the end, it&#39;s not all about winning, it&#39;s about who you become.](http://9gag.com/gag/aoy7Lpg)
+ - ⏩ [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
+ - 👉 [How is life bro?](http://9gag.com/gag/a7ox27q)<!-- MEMES:END -->
 
 ---
 
