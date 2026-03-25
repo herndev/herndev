@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
- - ⏩ [Bruh... for real? Teachers really don&#39;t have it easy](http://9gag.com/gag/a9yGXML)
- - 👉 [How is life bro?](http://9gag.com/gag/a7ox27q)<!-- MEMES:END -->
+ - ⏩ [Brutal](http://9gag.com/gag/a0e3EYB)
+ - 👉 [Bruh... for real? Teachers really don&#39;t have it easy](http://9gag.com/gag/a9yGXML)<!-- MEMES:END -->
 
 ---
 
