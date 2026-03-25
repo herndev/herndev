@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
- - ⏩ [Brutal](http://9gag.com/gag/a0e3EYB)
- - 👉 [Bruh... for real? Teachers really don&#39;t have it easy](http://9gag.com/gag/a9yGXML)<!-- MEMES:END -->
+ - 💣 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)
+ - ⏩ [Hear me out](http://9gag.com/gag/aQzjZ0z)
+ - 👉 [Paint job tips](http://9gag.com/gag/agme2rq)<!-- MEMES:END -->
 
 ---
 
