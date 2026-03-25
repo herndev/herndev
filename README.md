@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brutal](http://9gag.com/gag/a0e3EYB)
- - ⏩ [Happy black history month](http://9gag.com/gag/agme4Kn)
- - 👉 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)<!-- MEMES:END -->
+ - 💣 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
+ - ⏩ [Bruh... for real? Teachers really don&#39;t have it easy](http://9gag.com/gag/a9yGXML)
+ - 👉 [I love a windy day](http://9gag.com/gag/a34O2x1)<!-- MEMES:END -->
 
 ---
 
