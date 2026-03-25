@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ugreen NASync iDX6011 Pro NAS review: The right kind of overkill](https://appleinsider.com/articles/26/03/24/ugreen-nasync-idx6011-pro-nas-review-the-right-kind-of-overkill?utm_source=rss)
- - [Generative video creator Sora is dead along with $1 billion Disney content deal](https://appleinsider.com/articles/26/03/24/generative-video-creator-sora-is-dead-along-with-1-billion-disney-content-deal?utm_source=rss)
- - [Meta announces new shopping and ad features, including affiliate marketing tools for Instagram and Facebook creators and a &quot;buy now&quot; button for Facebook ads &lpar;Sydney Bradley/Business Insider&rpar;](http://www.techmeme.com/260324/p53#a260324p53)<!-- TECH:END -->
+ - [Sources: some Sora team members were surprised by OpenAI&#39;s sudden decision to end Sora support, just a day after OpenAI posted a blog on Sora safety standards &lpar;Reuters&rpar;](http://www.techmeme.com/260324/p58#a260324p58)
+ - [Source: Meta&#39;s rollout of Meta Ray-Ban Display in the EU has been hampered by regulations on AI features and removable batteries, as well as supply constraints &lpar;Bloomberg&rpar;](http://www.techmeme.com/260324/p57#a260324p57)
+ - [Source: SpaceX is aiming to file its IPO prospectus with regulators later this week or next week, and could try to raise more than $75B &lpar;The Information&rpar;](http://www.techmeme.com/260324/p56#a260324p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
