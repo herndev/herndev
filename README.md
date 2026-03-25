@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
+ - 💣 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)
  - ⏩ [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
- - 👉 [@alleeenmaarjsfu died 5 years ago. Let&#39;s not forget about him.](http://9gag.com/gag/aO8W12D)<!-- MEMES:END -->
+ - 👉 [Good News Everyone !!! Researchers at National Taiwan University have created a topical serum made from monounsaturated fatty acids that triggered rapid hair growth in mice within 20 days by activating fat-cell signals beneath the skin.](http://9gag.com/gag/a2vX20p)<!-- MEMES:END -->
 
 ---
 
