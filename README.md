@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)
- - ⏩ [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
- - 👉 [How is life bro?](http://9gag.com/gag/a7ox27q)<!-- MEMES:END -->
+ - 💣 [It was just the wind](http://9gag.com/gag/apRMx1n)
+ - ⏩ [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
+ - 👉 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)<!-- MEMES:END -->
 
 ---
 
