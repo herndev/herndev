@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Paint job tips](http://9gag.com/gag/agme2rq)
- - ⏩ [3/25](http://9gag.com/gag/adBze3V)
- - 👉 [Why this thing gives me final destination vibes](http://9gag.com/gag/aqyEW7Z)<!-- MEMES:END -->
+ - 💣 [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)
+ - ⏩ [I love a windy day](http://9gag.com/gag/a34O2x1)
+ - 👉 [3/25](http://9gag.com/gag/adBze3V)<!-- MEMES:END -->
 
 ---
 
