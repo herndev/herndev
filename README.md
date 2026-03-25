@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice day t work](http://9gag.com/gag/aNDbRjG)
+ - 💣 [Paint job tips](http://9gag.com/gag/agme2rq)
  - ⏩ [3/25](http://9gag.com/gag/adBze3V)
- - 👉 [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)<!-- MEMES:END -->
+ - 👉 [Why this thing gives me final destination vibes](http://9gag.com/gag/aqyEW7Z)<!-- MEMES:END -->
 
 ---
 
