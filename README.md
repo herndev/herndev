@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy black history month](http://9gag.com/gag/agme4Kn)
- - ⏩ [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)
- - 👉 [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)<!-- MEMES:END -->
+ - 💣 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
+ - ⏩ [3/25](http://9gag.com/gag/adBze3V)
+ - 👉 [Why this thing gives me final destination vibes](http://9gag.com/gag/aqyEW7Z)<!-- MEMES:END -->
 
 ---
 
