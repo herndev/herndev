@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In the end, it&#39;s not all about winning, it&#39;s about who you become.](http://9gag.com/gag/aoy7Lpg)
- - ⏩ [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
- - 👉 [How is life bro?](http://9gag.com/gag/a7ox27q)<!-- MEMES:END -->
+ - 💣 [3/25](http://9gag.com/gag/adBze3V)
+ - ⏩ [A 90s darling](http://9gag.com/gag/abA8xGb)
+ - 👉 [It was just the wind](http://9gag.com/gag/apRMx1n)<!-- MEMES:END -->
 
 ---
 
