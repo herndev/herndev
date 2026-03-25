@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)
- - ⏩ [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
- - 👉 [Good News Everyone !!! Researchers at National Taiwan University have created a topical serum made from monounsaturated fatty acids that triggered rapid hair growth in mice within 20 days by activating fat-cell signals beneath the skin.](http://9gag.com/gag/a2vX20p)<!-- MEMES:END -->
+ - 💣 [Happy black history month](http://9gag.com/gag/agme4Kn)
+ - ⏩ [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)
+ - 👉 [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)<!-- MEMES:END -->
 
 ---
 
