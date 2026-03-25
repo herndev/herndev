@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey shows most of you don’t like Android’s new sideloading restrictions](https://www.androidauthority.com/android-sideloading-poll-results-2-3651885/)
- - [Senate Democrats are trying to ‘codify’ Anthropic&amp;#8217;s red lines on autonomous weapons and mass surveillance](https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance)
- - [Android Canary blesses the Linux Terminal with a modern UI, new features](https://www.androidauthority.com/android-canary-linux-terminal-upgrades-3651830/)<!-- TECH:END -->
+ - [Get AirPods 4 from $99, AirPods Pro 3 for $199 during Amazon&#39;s Big Spring Sale](https://appleinsider.com/articles/26/03/25/get-airpods-4-from-99-airpods-pro-3-for-199-during-amazons-big-spring-sale?utm_source=rss)
+ - [Vizio smart TVs force you to use a Walmart account](https://www.androidauthority.com/vizio-walmart-logins-3651851/)
+ - [Source: as part of its Google deal, Apple has full access to the Gemini model in its own data centers and can use distillation to produce smaller models &lpar;The Information&rpar;](http://www.techmeme.com/260325/p29#a260325p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
