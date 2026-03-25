@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The MOVA MOBIUS 60 solves robot vacuums’ biggest mopping problem with three specialized pads](https://www.androidauthority.com/mova-mobius-60-sale-3651642/)
- - [Samsung’s best smartphone values get even better: Meet the Galaxy A37 5G &amp; Galaxy A57 5G](https://www.androidauthority.com/galaxy-a37-a57-launch-3651598/)
- - [Samsung’s Galaxy A37 and Galaxy A57 Phones Get Price Hikes](https://www.wired.com/story/samsung-galaxy-a37-galaxy-a57/)<!-- TECH:END -->
+ - [M4 iPad Air review: Middle of the road is the best place to be](https://appleinsider.com/articles/26/03/25/m4-ipad-air-review-middle-of-the-road-is-the-best-place-to-be?utm_source=rss)
+ - [Exynos 1680 is here: Is Samsung’s Galaxy A57 chip any good?](https://www.androidauthority.com/samsung-exyno-1680-3651808/)
+ - [There&#39;s an app for that - Iranians monitor air strikes with crowdsourced data](https://appleinsider.com/articles/26/03/25/theres-an-app-for-that---iranians-monitor-air-strikes-with-crowdsourced-data?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
