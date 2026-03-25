@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Large US corporations are not ditching core business software for AI yet, instead seeking better vendor deals and &quot;vibe-coding&quot; smaller apps and customizations &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/260325/p3#a260325p3)
  - [Sources: worsening supply constraints in CPUs made by Intel and AMD add a fresh blow to PC and server makers already hit by a severe memory chip shortage &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260325/p2#a260325p2)
- - [Sources: China bars Manus co-founders Xiao Hong and Ji Yichao from leaving the country as it reviews whether Meta&#39;s $2B acquisition of Manus violates FDI rules &lpar;Financial Times&rpar;](http://www.techmeme.com/260325/p1#a260325p1)
- - [Rover Promo Codes and Deals: Get Up to $50 This Month](https://www.wired.com/story/rover-promo-code/)<!-- TECH:END -->
+ - [Sources: China bars Manus co-founders Xiao Hong and Ji Yichao from leaving the country as it reviews whether Meta&#39;s $2B acquisition of Manus violates FDI rules &lpar;Financial Times&rpar;](http://www.techmeme.com/260325/p1#a260325p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
