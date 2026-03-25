@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Glimpse, which uses AI agents to let 200+ brands automate financial deduction processes, raised a $35M Series A led by a16z, bringing its total raised to $52M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260325/p25#a260325p25)
- - [Ring finally brings 4K video to its battery-powered doorbell camera](https://www.theverge.com/tech/900270/ring-4k-battery-powered-video-doorbell-ai-price-release-date-specs)
- - [Notch, which is developing an OS designed for high-compliance sectors, raised a $30M Series A led by Headline, after pivoting from being a specialty insurer &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260325/p24#a260325p24)<!-- TECH:END -->
+ - [Survey shows most of you don’t like Android’s new sideloading restrictions](https://www.androidauthority.com/android-sideloading-poll-results-2-3651885/)
+ - [Senate Democrats are trying to ‘codify’ Anthropic&amp;#8217;s red lines on autonomous weapons and mass surveillance](https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance)
+ - [Android Canary blesses the Linux Terminal with a modern UI, new features](https://www.androidauthority.com/android-canary-linux-terminal-upgrades-3651830/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
