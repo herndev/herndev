@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Sam Altman says OpenAI&#39;s next model finished pretraining, and moves Safety to Research and Security to Scaling; Fidji Simo becomes CEO of &quot;AGI Deployment&quot; &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260325/p5#a260325p5)
- - [Amazon&#39;s Big Spring Sale drops stainless steel Apple Watch S9 with cellular to $299](https://appleinsider.com/articles/26/03/25/amazons-big-spring-sale-drops-stainless-steel-apple-watch-s9-with-cellular-to-299?utm_source=rss)
- - [Here’s why your Android Auto music controls look different this morning](https://www.androidauthority.com/android-auto-music-player-redesign-rollout-3651717/)<!-- TECH:END -->
+ - [Take a Message on your Google Pixel is almost ready for easy custom greetings](https://www.androidauthority.com/take-a-message-greetings-3651503/)
+ - [I’ve loved OnePlus since the beginning, but its death now feels inevitable](https://www.androidauthority.com/oneplus-future-shutdown-inevitable-3651473/)
+ - [Iranians Don’t Have a Missile Alert System, So Volunteers Built Their Own Warning Map](https://www.wired.com/story/iranians-dont-have-a-missile-alert-system-so-volunteers-built-their-own-warning-map/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
