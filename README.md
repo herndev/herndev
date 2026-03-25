@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take a Message on your Google Pixel is almost ready for easy custom greetings](https://www.androidauthority.com/take-a-message-greetings-3651503/)
- - [I’ve loved OnePlus since the beginning, but its death now feels inevitable](https://www.androidauthority.com/oneplus-future-shutdown-inevitable-3651473/)
- - [Iranians Don’t Have a Missile Alert System, So Volunteers Built Their Own Warning Map](https://www.wired.com/story/iranians-dont-have-a-missile-alert-system-so-volunteers-built-their-own-warning-map/)<!-- TECH:END -->
+ - [US digital rights group Holistic Resilience launched Mahsa Alert to provide Iranians with offline mapping and strike notifications, hitting 100K DAUs in days &lpar;Wired&rpar;](http://www.techmeme.com/260325/p8#a260325p8)
+ - [After nearly 4 years, my family has had enough of foldables](https://www.androidauthority.com/my-family-has-had-enough-of-foldables-3649607/)
+ - [Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off](https://www.wired.com/story/arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
