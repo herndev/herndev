@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: some Sora team members were surprised by OpenAI&#39;s sudden decision to end Sora support, just a day after OpenAI posted a blog on Sora safety standards &lpar;Reuters&rpar;](http://www.techmeme.com/260324/p58#a260324p58)
- - [Source: Meta&#39;s rollout of Meta Ray-Ban Display in the EU has been hampered by regulations on AI features and removable batteries, as well as supply constraints &lpar;Bloomberg&rpar;](http://www.techmeme.com/260324/p57#a260324p57)
- - [Source: SpaceX is aiming to file its IPO prospectus with regulators later this week or next week, and could try to raise more than $75B &lpar;The Information&rpar;](http://www.techmeme.com/260324/p56#a260324p56)<!-- TECH:END -->
+ - [Amity, a Thailand-based startup that provides generative AI tools to businesses like retail and telecom, raised $100M in a Series D as it plans for a 2027 IPO &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/260324/p60#a260324p60)
+ - [Google says Android Auto fixes are rolling out after user complaints spike](https://www.androidauthority.com/android-auto-connectivity-problems-fix-3651688/)
+ - [Neal Stephenson says he no longer believes head-mounted displays are the future, citing public discomfort with the devices and a general distrust of the users &lpar;Neal Stephenson/Graphomane&rpar;](http://www.techmeme.com/260324/p59#a260324p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
