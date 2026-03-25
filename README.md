@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is letting artists manually approve releases to combat AI fakes](https://www.theverge.com/streaming/900910/spotify-artist-profile-protection-ai-clones)
- - [One UI 9 leak reveals new looks for Now Bar, widgets, and more](https://www.androidauthority.com/one-ui-9-design-updates-3651981/)
- - [Razer’s new Blade 16 gaming laptop has an Intel Panther Lake chip and very fast RAM](https://www.theverge.com/gadgets/900518/razers-new-blade-16-gaming-laptop-has-an-intel-panther-lake-chip-and-very-fast-ram)<!-- TECH:END -->
+ - [Musk&#39;s lawyers ask a Delaware judge to step back from cases involving him, after her account &quot;liked&quot; a LinkedIn post celebrating his defeat in a California case &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/260325/p41#a260325p41)
+ - [The Amazon Kindle is $15 off! First discount in months](https://www.androidauthority.com/amazon-kindle-ereader-deal-3652015/)
+ - [Singapore-based Startale, developer of the Strium blockchain for tokenized securities and JPYSC and USDSC stablecoins, raised a $63M Series A from SBI and Sony &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/260325/p40#a260325p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
