@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These 25 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History  &lpar;2026&rpar;](https://www.wired.com/story/the-amazon-spring-sale-2026/)
- - [How AI is helping geologists identify thousands of slopes around the world at high risk of slipping by analyzing data from satellites and ground-based sensors &lpar;Chris Baraniuk/BBC&rpar;](http://www.techmeme.com/260325/p4#a260325p4)
- - [OnePlus 15T launched: Pocket-friendly size, but not a wallet-friendly price](https://www.androidauthority.com/oneplus-15t-3651700/)<!-- TECH:END -->
+ - [Memo: Sam Altman says OpenAI&#39;s next model finished pretraining, and moves Safety to Research and Security to Scaling; Fidji Simo becomes CEO of &quot;AGI Deployment&quot; &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260325/p5#a260325p5)
+ - [Amazon&#39;s Big Spring Sale drops stainless steel Apple Watch S9 with cellular to $299](https://appleinsider.com/articles/26/03/25/amazons-big-spring-sale-drops-stainless-steel-apple-watch-s9-with-cellular-to-299?utm_source=rss)
+ - [Here’s why your Android Auto music controls look different this morning](https://www.androidauthority.com/android-auto-music-player-redesign-rollout-3651717/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
