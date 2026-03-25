@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2025 Publisher Ranking Reveals Just How Bad PlayStation Whiffed It Last Year](https://kotaku.com/2025-publisher-rankings-reveal-just-how-bad-playstation-whiffed-it-last-year-2000681832)
- - [Pokémon Champions Won’t Feature All 1000+ Monsters](https://kotaku.com/pokemon-champions-ev-iv-training-pokedex-evolved-switch-2000681841)
- - [Elevate your mission in Directive 8020 with PlayStation 5 Pro enhancements, out May 12](https://blog.playstation.com/2026/03/25/elevate-your-mission-in-directive-8020-with-playstation-5-pro-enhancements-out-may-12/)<!-- GAME:END -->
+ - [How to get the Frozen Anguish in Crimson Desert](https://www.polygon.com/crimson-desert-frozen-anguish-sword-how-to-get-location/)
+ - [Crimson Desert interactive maps](https://www.polygon.com/map/crimson-desert-interactive-pywel-hernand-demeniss-pailune-delesyia/)
+ - [Dark Outlaw Games Founder Talks About PlayStation Studio Closure: ‘It F****** Sucked’](https://kotaku.com/dark-outlaw-games-playstation-jason-blundell-jcbackfire-2000681926)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
