@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US digital rights group Holistic Resilience launched Mahsa Alert to provide Iranians with offline mapping and strike notifications, hitting 100K DAUs in days &lpar;Wired&rpar;](http://www.techmeme.com/260325/p8#a260325p8)
- - [After nearly 4 years, my family has had enough of foldables](https://www.androidauthority.com/my-family-has-had-enough-of-foldables-3649607/)
- - [Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off](https://www.wired.com/story/arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off/)<!-- TECH:END -->
+ - [Kansas-based NoTraffic, which uses AI-driven operating systems and sensor data to optimize intersection traffic flow, raised a $90M Series C led by PSG Equity &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260325/p12#a260325p12)
+ - [From F-Droid to emulators, here’s who’s hit hardest by Android’s new verification rules](https://www.androidauthority.com/android-app-verification-impact-3650447/)
+ - [Aeronaut Is an Actual Mac App for Bluesky](https://www.wired.com/story/aeronaut-mac-app-for-bluesky/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
