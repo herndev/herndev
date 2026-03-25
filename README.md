@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Frozen Anguish in Crimson Desert](https://www.polygon.com/crimson-desert-frozen-anguish-sword-how-to-get-location/)
- - [Crimson Desert interactive maps](https://www.polygon.com/map/crimson-desert-interactive-pywel-hernand-demeniss-pailune-delesyia/)
- - [Dark Outlaw Games Founder Talks About PlayStation Studio Closure: ‘It F****** Sucked’](https://kotaku.com/dark-outlaw-games-playstation-jason-blundell-jcbackfire-2000681926)<!-- GAME:END -->
+ - [&#39;I&#39;m not sure it was a rational decision&#39;: Caves of Qud devs ported the roguelike to Nintendo Switch because they&#39;re &#39;interested in solving impossible problems&#39;](https://www.pcgamer.com/games/roguelike/im-not-sure-it-was-a-rational-decision-caves-of-qud-devs-ported-the-roguelike-to-nintendo-switch-because-theyre-interested-in-solving-impossible-problems/)
+ - [8 best Magic: The Gathering deals in Amazon&#39;s Spring Sale](https://www.polygon.com/mtg-magic-the-gathering-amazon-spring-sale-deals/)
+ - [How to get the Darkbringer sword in Crimson Desert](https://www.polygon.com/crimson-desert-darkbringer-sword-how-to-get-location/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
