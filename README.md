@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
- - ⏩ [Bruh... for real? Teachers really don&#39;t have it easy](http://9gag.com/gag/a9yGXML)
- - 👉 [I love a windy day](http://9gag.com/gag/a34O2x1)<!-- MEMES:END -->
+ - 💣 [Nice day t work](http://9gag.com/gag/aNDbRjG)
+ - ⏩ [3/25](http://9gag.com/gag/adBze3V)
+ - 👉 [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)<!-- MEMES:END -->
 
 ---
 
