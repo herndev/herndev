@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy black history month](http://9gag.com/gag/agme4Kn)
- - ⏩ [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)
+ - 💣 [Brutal](http://9gag.com/gag/a0e3EYB)
+ - ⏩ [Happy black history month](http://9gag.com/gag/agme4Kn)
  - 👉 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)<!-- MEMES:END -->
 
 ---
