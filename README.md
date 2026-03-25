@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Large US corporations are not ditching core business software for AI yet, instead seeking better vendor deals and &quot;vibe-coding&quot; smaller apps and customizations &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/260325/p3#a260325p3)
- - [Sources: worsening supply constraints in CPUs made by Intel and AMD add a fresh blow to PC and server makers already hit by a severe memory chip shortage &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260325/p2#a260325p2)
- - [Sources: China bars Manus co-founders Xiao Hong and Ji Yichao from leaving the country as it reviews whether Meta&#39;s $2B acquisition of Manus violates FDI rules &lpar;Financial Times&rpar;](http://www.techmeme.com/260325/p1#a260325p1)<!-- TECH:END -->
+ - [These 25 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History  &lpar;2026&rpar;](https://www.wired.com/story/the-amazon-spring-sale-2026/)
+ - [How AI is helping geologists identify thousands of slopes around the world at high risk of slipping by analyzing data from satellites and ground-based sensors &lpar;Chris Baraniuk/BBC&rpar;](http://www.techmeme.com/260325/p4#a260325p4)
+ - [OnePlus 15T launched: Pocket-friendly size, but not a wallet-friendly price](https://www.androidauthority.com/oneplus-15t-3651700/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
