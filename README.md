@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Using 100% of the brain while cleaning](http://9gag.com/gag/ae9Bm6b)
- - ⏩ [Alien technology](http://9gag.com/gag/aPAqexP)
- - 👉 [Paint job tips](http://9gag.com/gag/agme2rq)<!-- MEMES:END -->
+ - 💣 [Flickering](http://9gag.com/gag/aD2vVzO)
+ - ⏩ [It was just the wind](http://9gag.com/gag/apRMx1n)
+ - 👉 [They will never take candy from stranger again](http://9gag.com/gag/a4P05Xm)<!-- MEMES:END -->
 
 ---
 
