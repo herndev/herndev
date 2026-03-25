@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [3/25](http://9gag.com/gag/adBze3V)
- - ⏩ [A 90s darling](http://9gag.com/gag/abA8xGb)
- - 👉 [It was just the wind](http://9gag.com/gag/apRMx1n)<!-- MEMES:END -->
+ - 💣 [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
+ - ⏩ [Bruh... for real? Teachers really don&#39;t have it easy](http://9gag.com/gag/a9yGXML)
+ - 👉 [How is life bro?](http://9gag.com/gag/a7ox27q)<!-- MEMES:END -->
 
 ---
 
