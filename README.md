@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk&#39;s lawyers ask a Delaware judge to step back from cases involving him, after her account &quot;liked&quot; a LinkedIn post celebrating his defeat in a California case &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/260325/p41#a260325p41)
- - [The Amazon Kindle is $15 off! First discount in months](https://www.androidauthority.com/amazon-kindle-ereader-deal-3652015/)
- - [Singapore-based Startale, developer of the Strium blockchain for tokenized securities and JPYSC and USDSC stablecoins, raised a $63M Series A from SBI and Sony &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/260325/p40#a260325p40)<!-- TECH:END -->
+ - [Big Spring Deal brings the Google Pixel Watch 4 to record-low price](https://www.androidauthority.com/google-pixel-watch-4-deal-2-3652014/)
+ - [Google sets a 2029 deadline for its post-quantum cryptography migration, aiming to &quot;secure the quantum era&quot; as &quot;frontiers may be closer than they appear&quot; &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/260325/p42#a260325p42)
+ - [The Sonos Ace are a hefty 25 percent for Amazon’s Big Spring Sale](https://www.theverge.com/tech/900836/sonos-ace-noise-canceling-headphones-amazon-big-spring-sale-2026-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
