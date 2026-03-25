@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)
- - ⏩ [How is life bro?](http://9gag.com/gag/a7ox27q)
- - 👉 [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)<!-- MEMES:END -->
+ - 💣 [How is life bro?](http://9gag.com/gag/a7ox27q)
+ - ⏩ [German ratchet screwdriver from 1891](http://9gag.com/gag/aD2vVgK)
+ - 👉 [I love a windy day](http://9gag.com/gag/a34O2x1)<!-- MEMES:END -->
 
 ---
 
