@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kansas-based NoTraffic, which uses AI-driven operating systems and sensor data to optimize intersection traffic flow, raised a $90M Series C led by PSG Equity &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260325/p12#a260325p12)
- - [From F-Droid to emulators, here’s who’s hit hardest by Android’s new verification rules](https://www.androidauthority.com/android-app-verification-impact-3650447/)
- - [Aeronaut Is an Actual Mac App for Bluesky](https://www.wired.com/story/aeronaut-mac-app-for-bluesky/)<!-- TECH:END -->
+ - [The MOVA MOBIUS 60 solves robot vacuums’ biggest mopping problem with three specialized pads](https://www.androidauthority.com/mova-mobius-60-sale-3651642/)
+ - [Samsung’s best smartphone values get even better: Meet the Galaxy A37 5G &amp; Galaxy A57 5G](https://www.androidauthority.com/galaxy-a37-a57-launch-3651598/)
+ - [Samsung’s Galaxy A37 and Galaxy A57 Phones Get Price Hikes](https://www.wired.com/story/samsung-galaxy-a37-galaxy-a57/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
