@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M4 iPad Air review: Middle of the road is the best place to be](https://appleinsider.com/articles/26/03/25/m4-ipad-air-review-middle-of-the-road-is-the-best-place-to-be?utm_source=rss)
- - [Exynos 1680 is here: Is Samsung’s Galaxy A57 chip any good?](https://www.androidauthority.com/samsung-exyno-1680-3651808/)
- - [There&#39;s an app for that - Iranians monitor air strikes with crowdsourced data](https://appleinsider.com/articles/26/03/25/theres-an-app-for-that---iranians-monitor-air-strikes-with-crowdsourced-data?utm_source=rss)<!-- TECH:END -->
+ - [Glimpse, which uses AI agents to let 200+ brands automate financial deduction processes, raised a $35M Series A led by a16z, bringing its total raised to $52M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260325/p25#a260325p25)
+ - [Ring finally brings 4K video to its battery-powered doorbell camera](https://www.theverge.com/tech/900270/ring-4k-battery-powered-video-doorbell-ai-price-release-date-specs)
+ - [Notch, which is developing an OS designed for high-compliance sectors, raised a $30M Series A led by Headline, after pivoting from being a specialty insurer &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/260325/p24#a260325p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
