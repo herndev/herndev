@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Meta on Wednesday laid off around 700 employees in the Reality Labs unit, as well as some in recruiting, sales, and Facebook &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/260325/p39#a260325p39)
- - [Disney’s big bets on the metaverse and AI slop aren’t going so well](https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse)
- - [Amazon Spring Sale Deal: The Typhur Dome 2 Air Fryer Is 30% Off](https://www.wired.com/story/typhur-dome-2-air-fryer-deal-amazon-spring-sale/)<!-- TECH:END -->
+ - [Spotify is letting artists manually approve releases to combat AI fakes](https://www.theverge.com/streaming/900910/spotify-artist-profile-protection-ai-clones)
+ - [One UI 9 leak reveals new looks for Now Bar, widgets, and more](https://www.androidauthority.com/one-ui-9-design-updates-3651981/)
+ - [Razer’s new Blade 16 gaming laptop has an Intel Panther Lake chip and very fast RAM](https://www.theverge.com/gadgets/900518/razers-new-blade-16-gaming-laptop-has-an-intel-panther-lake-chip-and-very-fast-ram)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
