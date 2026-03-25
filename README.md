@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The TSA is broken — is privatization next?](https://www.theverge.com/transportation/900510/airport-tsa-seurity-wait-privatization-trump-mullin)
- - [Best Vacuum Deals for Amazon&#39;s Spring Sale: Dyson, Shark, Bissell &lpar;2026&rpar;](https://www.wired.com/story/amazon-spring-sale-vacuum-deals/)
- - [Cox Communications not liable for pirated music, Supreme Court rules](https://www.theverge.com/policy/900502/cox-communications-music-labels-piracy-supreme-court)<!-- TECH:END -->
+ - [Google &amp; Meta found liable for social media addiction](https://appleinsider.com/articles/26/03/25/google-meta-found-liable-for-social-media-addiction?utm_source=rss)
+ - [Meta and YouTube found negligent in landmark social media addiction case](https://www.theverge.com/policy/900654/meta-google-instagram-youtube-social-media-addiction-trial-kgm-jury-decision)
+ - [OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage](https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
