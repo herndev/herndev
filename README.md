@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram and Facebook are about to be filled with affiliate content](https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels)
- - [Databricks launches Lakewatch, a security information and event management service, and announces acquisitions of security startups Antimatter and SiftD &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260324/p51#a260324p51)
- - [Sources: Anduril, Palantir, and Scale AI are part of the group developing software to run President Trump&#39;s planned $185B Golden Dome antimissile shield &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/260324/p50#a260324p50)<!-- TECH:END -->
+ - [Ugreen NASync iDX6011 Pro NAS review: The right kind of overkill](https://appleinsider.com/articles/26/03/24/ugreen-nasync-idx6011-pro-nas-review-the-right-kind-of-overkill?utm_source=rss)
+ - [Generative video creator Sora is dead along with $1 billion Disney content deal](https://appleinsider.com/articles/26/03/24/generative-video-creator-sora-is-dead-along-with-1-billion-disney-content-deal?utm_source=rss)
+ - [Meta announces new shopping and ad features, including affiliate marketing tools for Instagram and Facebook creators and a &quot;buy now&quot; button for Facebook ads &lpar;Sydney Bradley/Business Insider&rpar;](http://www.techmeme.com/260324/p53#a260324p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
