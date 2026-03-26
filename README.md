@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I&#39;m not sure it was a rational decision&#39;: Caves of Qud devs ported the roguelike to Nintendo Switch because they&#39;re &#39;interested in solving impossible problems&#39;](https://www.pcgamer.com/games/roguelike/im-not-sure-it-was-a-rational-decision-caves-of-qud-devs-ported-the-roguelike-to-nintendo-switch-because-theyre-interested-in-solving-impossible-problems/)
- - [8 best Magic: The Gathering deals in Amazon&#39;s Spring Sale](https://www.polygon.com/mtg-magic-the-gathering-amazon-spring-sale-deals/)
- - [How to get the Darkbringer sword in Crimson Desert](https://www.polygon.com/crimson-desert-darkbringer-sword-how-to-get-location/)<!-- GAME:END -->
+ - [How many of these videogame world maps do you recognize?](https://www.pcgamer.com/games/how-many-of-these-videogame-world-maps-do-you-recognize/)
+ - [Horizon Chase Turbo, a great arcade racer with no online functionality or licensed vehicles, is being delisted in June](https://www.pcgamer.com/games/racing/horizon-chase-turbo-a-great-arcade-racer-with-no-online-functionality-or-licensed-vehicles-is-being-delisted-in-june/)
+ - [Stardew Valley farmer takes advice from AI, ends up brewing 136 useless bottles of rice juice](https://www.pcgamer.com/games/life-sim/stardew-valley-farmer-takes-advice-from-ai-ends-up-brewing-136-useless-bottles-of-rice-juice/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
