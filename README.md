@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How many reps, yes](http://9gag.com/gag/apRMYNE)
- - ⏩ [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)
- - 👉 [Val Kilmer\u2019s rapid-fire reload during the bank heist in Heat &lpar;1995&rpar; was so technically perfect that the footage was later used by Special Forces instructors as a training example for `proper magazine changes under fire.`](http://9gag.com/gag/aVv62q8)<!-- MEMES:END -->
+ - 💣 [Hear me out](http://9gag.com/gag/aQzjZ0z)
+ - ⏩ [Five guy fan](http://9gag.com/gag/aqyEzKQ)
+ - 👉 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)<!-- MEMES:END -->
 
 ---
 
