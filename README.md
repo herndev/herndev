@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s wireless charging pad offers Qi2 speeds for $15](https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal)
- - [Apple’s AI Playlist Playground is bad at music](https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music)
- - [Apple begins notifying 2026 Swift Student Challenge winners](https://appleinsider.com/articles/26/03/26/apple-begins-notifying-2026-swift-student-challenge-winners?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI has surpassed $100M in annualized revenue from ChatGPT ads, has expanded to 600+ advertisers, and plans to launch self-serve advertiser access in April &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/260326/p45#a260326p45)
+ - [iPhone hardware engineers allegedly get bonuses as Apple tries to prevent poaching](https://appleinsider.com/articles/26/03/26/iphone-hardware-engineers-allegedly-get-bonuses-as-apple-tries-to-prevent-poaching?utm_source=rss)
+ - [Google releases new tools for its Gemini AI assistant that let users upload chat history and context from other AI apps, making it easier to switch from them &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260326/p44#a260326p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
