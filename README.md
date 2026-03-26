@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GitHub says it will use Copilot interaction data, including inputs, outputs, and code snippets, to train its AI models starting April 24, unless users opt out &lpar;Corbin Davenport/How-To Geek&rpar;](http://www.techmeme.com/260325/p43#a260325p43)
- - [Big Spring Deal brings the Google Pixel Watch 4 to record-low price](https://www.androidauthority.com/google-pixel-watch-4-deal-2-3652014/)
- - [Google sets a 2029 deadline for its post-quantum cryptography migration, aiming to &quot;secure the quantum era&quot; as &quot;frontiers may be closer than they appear&quot; &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/260325/p42#a260325p42)<!-- TECH:END -->
+ - [YouTube resolves bug that kept asking if you’re human nonstop](https://www.androidauthority.com/youtube-captcha-bug-resolved-3652061/)
+ - [This Meta smartglasses-detecting app is a great model for Apple Glass developers to follow](https://appleinsider.com/articles/26/02/24/this-meta-smartglasses-detecting-app-is-a-great-model-for-apple-glass-developers-to-follow?utm_source=rss)
+ - [Isara, which aims to build software that can coordinate the work of thousands of AI agents, raised $94M and says OpenAI backed the startup at a $650M valuation &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260325/p44#a260325p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
