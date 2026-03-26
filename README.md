@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Energy Drink Alternatives](http://9gag.com/gag/awypd31)
+ - 💣 [Brutal](http://9gag.com/gag/a0e3EYB)
  - ⏩ [Happy black history month](http://9gag.com/gag/agme4Kn)
- - 👉 [Why this thing gives me final destination vibes](http://9gag.com/gag/aqyEW7Z)<!-- MEMES:END -->
+ - 👉 [It is Wednesday ma dudes](http://9gag.com/gag/avyjd0Z)<!-- MEMES:END -->
 
 ---
 
