@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy black history month](http://9gag.com/gag/agme4Kn)
- - ⏩ [Have you read and understood the terms of use?](http://9gag.com/gag/aXPOKAg)
- - 👉 [Scary movie](http://9gag.com/gag/a9yGONm)<!-- MEMES:END -->
+ - 💣 [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)
+ - ⏩ [Five guy fan](http://9gag.com/gag/aqyEzKQ)
+ - 👉 [Good News Everyone !!! Researchers at National Taiwan University have created a topical serum made from monounsaturated fatty acids that triggered rapid hair growth in mice within 20 days by activating fat-cell signals beneath the skin.](http://9gag.com/gag/a2vX20p)<!-- MEMES:END -->
 
 ---
 
