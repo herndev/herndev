@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 Beta 2 is no longer a Pixel exclusive &lpar;Updated: More phones&rpar;](https://www.androidauthority.com/android-17-beta-2-oneplus-15-oppo-find-x9-pro-3651774/)
- - [Apple could adopt 200MP camera for iPhone, leapfrog Samsung in the process](https://www.androidauthority.com/apple-testing-200mp-camera-iphone-3652087/)
- - [How Theia, a satellite imaging startup that raised $250M+ by 2020, collapsed after the founder and four other execs were indicted on federal fraud charges &lpar;Brent Crane/Bloomberg&rpar;](http://www.techmeme.com/260326/p2#a260326p2)<!-- TECH:END -->
+ - [Samsung just made the Galaxy A57 one of its most repairable phones yet](https://www.androidauthority.com/samsung-galaxy-a57-teardown-video-3652128/)
+ - [The average phone now has a bigger battery than the S26 Ultra](https://www.androidauthority.com/smartphones-average-battery-capacity-increase-3652111/)
+ - [Android 17 Beta 2 is no longer a Pixel exclusive &lpar;Updated: More phones&rpar;](https://www.androidauthority.com/android-17-beta-2-oneplus-15-oppo-find-x9-pro-3651774/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
