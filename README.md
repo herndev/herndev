@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta plans to increase its investment in a data center in El Paso, Texas, to more than $10B, a significant rise from the initial $1.5B commitment &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/260326/p39#a260326p39)
- - [Deal: Check out this KODAK Memo Shot ERA Kids Instant Camera &lpar;ONLY TODAY&rpar;](https://www.androidauthority.com/kodak-memo-shot-era-kids-instant-digital-camera-deal-3652333/)
- - [Netflix raises US prices following a January 2025 hike; standard with ads rises $1 to $8.99/month; standard with no ads and premium rise $2 to $19.99 and $26.99 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260326/p38#a260326p38)<!-- TECH:END -->
+ - [Anker’s wireless charging pad offers Qi2 speeds for $15](https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal)
+ - [Apple’s AI Playlist Playground is bad at music](https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music)
+ - [Apple begins notifying 2026 Swift Student Challenge winners](https://appleinsider.com/articles/26/03/26/apple-begins-notifying-2026-swift-student-challenge-winners?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
