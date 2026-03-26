@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hear me out](http://9gag.com/gag/aQzjZ0z)
- - ⏩ [Five guy fan](http://9gag.com/gag/aqyEzKQ)
- - 👉 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)<!-- MEMES:END -->
+ - 💣 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)
+ - ⏩ [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
+ - 👉 [Berlin, Berlin, wir fahren in Berlin](http://9gag.com/gag/ae9BWNv)<!-- MEMES:END -->
 
 ---
 
