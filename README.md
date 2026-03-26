@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you don\u2019t understand this, you lived a bullshit life](http://9gag.com/gag/a9yGDAK)
- - ⏩ [It is Wednesday ma dudes](http://9gag.com/gag/avyjd0Z)
- - 👉 [99% destructive fire power, 1% hit rate.](http://9gag.com/gag/aryL246)<!-- MEMES:END -->
+ - 💣 [How many reps, yes](http://9gag.com/gag/apRMYNE)
+ - ⏩ [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)
+ - 👉 [Val Kilmer\u2019s rapid-fire reload during the bank heist in Heat &lpar;1995&rpar; was so technically perfect that the footage was later used by Special Forces instructors as a training example for `proper magazine changes under fire.`](http://9gag.com/gag/aVv62q8)<!-- MEMES:END -->
 
 ---
 
