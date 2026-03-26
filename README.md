@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s Big Spring Sale delivers Apple deals from $14.99](https://appleinsider.com/articles/26/03/26/amazons-big-spring-sale-delivers-apple-deals-from-1499?utm_source=rss)
- - [Sources: X let go of 20+ staffers in nontechnical roles ahead of a SpaceX IPO; X staff have been told to focus on growing revenue since xAI brought on a CRO &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260326/p37#a260326p37)
- - [Android Auto is having a hard time recommending media](https://www.androidauthority.com/android-auto-media-for-you-busted-3652347/)<!-- TECH:END -->
+ - [Meta plans to increase its investment in a data center in El Paso, Texas, to more than $10B, a significant rise from the initial $1.5B commitment &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/260326/p39#a260326p39)
+ - [Deal: Check out this KODAK Memo Shot ERA Kids Instant Camera &lpar;ONLY TODAY&rpar;](https://www.androidauthority.com/kodak-memo-shot-era-kids-instant-digital-camera-deal-3652333/)
+ - [Netflix raises US prices following a January 2025 hike; standard with ads rises $1 to $8.99/month; standard with no ads and premium rise $2 to $19.99 and $26.99 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260326/p38#a260326p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
