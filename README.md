@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung just made the Galaxy A57 one of its most repairable phones yet](https://www.androidauthority.com/samsung-galaxy-a57-teardown-video-3652128/)
- - [The average phone now has a bigger battery than the S26 Ultra](https://www.androidauthority.com/smartphones-average-battery-capacity-increase-3652111/)
- - [Android 17 Beta 2 is no longer a Pixel exclusive &lpar;Updated: More phones&rpar;](https://www.androidauthority.com/android-17-beta-2-oneplus-15-oppo-find-x9-pro-3651774/)<!-- TECH:END -->
+ - [One UI 8.5 beta is coming soon for the Galaxy S24 series, and here’s the leaked changelog](https://www.androidauthority.com/samsung-galaxy-s24-one-ui-8-5-beta-leaked-changelog-3652124/)
+ - [Saatva HD Mattress Review: A Solution for Heavy-Bodied Sleepers](https://www.wired.com/review/saatva-hd-mattress/)
+ - [Only one Samsung phone is worth buying now, and it’s not a Galaxy S26](https://www.androidauthority.com/only-one-samsung-phone-worth-buying-not-galaxy-s26-3651790/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
