@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We all know the way she said `stoppppp`](http://9gag.com/gag/a0e31XZ)
- - ⏩ [Five guy fan](http://9gag.com/gag/aqyEzKQ)
- - 👉 [These are mostly people who don&#39;t realize how much you save on food when you prepare it yourself.](http://9gag.com/gag/aPAqXzV)<!-- MEMES:END -->
+ - 💣 [Happy black history month](http://9gag.com/gag/agme4Kn)
+ - ⏩ [Have you read and understood the terms of use?](http://9gag.com/gag/aXPOKAg)
+ - 👉 [Scary movie](http://9gag.com/gag/a9yGONm)<!-- MEMES:END -->
 
 ---
 
