@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
- - ⏩ [How I enjoy my sweet after my dinner](http://9gag.com/gag/aW4X2W4)
- - 👉 [She relaxed](http://9gag.com/gag/aVv6VyM)<!-- MEMES:END -->
+ - 💣 [Five guy fan](http://9gag.com/gag/aqyEzKQ)
+ - ⏩ [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
+ - 👉 [No way it was a woman](http://9gag.com/gag/a2vXLDw)<!-- MEMES:END -->
 
 ---
 
