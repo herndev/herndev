@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How many of these videogame world maps do you recognize?](https://www.pcgamer.com/games/how-many-of-these-videogame-world-maps-do-you-recognize/)
- - [Horizon Chase Turbo, a great arcade racer with no online functionality or licensed vehicles, is being delisted in June](https://www.pcgamer.com/games/racing/horizon-chase-turbo-a-great-arcade-racer-with-no-online-functionality-or-licensed-vehicles-is-being-delisted-in-june/)
- - [Stardew Valley farmer takes advice from AI, ends up brewing 136 useless bottles of rice juice](https://www.pcgamer.com/games/life-sim/stardew-valley-farmer-takes-advice-from-ai-ends-up-brewing-136-useless-bottles-of-rice-juice/)<!-- GAME:END -->
+ - [AMD announces Ryzen 9 9950X3D2 Dual Edition: a CPU with a mighty 208 MB of L3 cache aimed at game devs](https://www.pcgamer.com/hardware/processors/amd-announces-ryzen-9-9950x3d2-dual-edition-a-cpu-with-a-mighty-208-mb-of-l3-cache-aimed-at-game-devs/)
+ - [Pokémon Champions finally redeems a bad grass starter 25 years later](https://www.polygon.com/pokemon-champions-mega-meganium-ability-sol-best-starter-grass-type/)
+ - [The Internet Reacts To Fox McCloud In The Super Mario Galaxy Movie](https://kotaku.com/super-mario-galaxy-movie-star-fox-mccloud-cameo-reaction-2000682215)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
