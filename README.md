@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Senators are pushing to find out how much electricity data centers actually use](https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers)
- - [These smart glasses can now make you sound like the smartest person in the room](https://www.androidauthority.com/even-realities-g2-smart-glasses-update-3652190/)
- - [The Sony Afeela Was Doomed to Fail](https://www.wired.com/story/sony-afeela-was-doomed-to-fail/)<!-- TECH:END -->
+ - [Wikipedia bans using AI for writing or rewriting articles on its English-language site, citing AI-written articles&#39; tendency to violate &quot;core content policies&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260326/p25#a260326p25)
+ - [A $20 Billion Crypto Scam Market Faces a New Government Crackdown](https://www.wired.com/story/20-billion-xinbi-guarantee-uk-sanctions/)
+ - [Wikipedia bans AI-generated articles](https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
