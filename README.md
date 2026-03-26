@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Defense tech startup Shield AI raised $2B at a $12.7B valuation, up from $5.3B after raising $240M in March 2025; half of its business is autonomous software &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/260326/p19#a260326p19)
- - [AirPods Pro 3 drop to near their all-time low price in Amazon sale](https://www.androidauthority.com/apple-airpods-pro-3-deal-4-3652042/)
- - [Interviews with 37 Anduril sources detail safety concerns and project challenges at Anduril&#39;s manufacturing operations; Anduril calls the claims &quot;inaccurate&quot; &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260326/p18#a260326p18)<!-- TECH:END -->
+ - [The European Parliament votes to delay EU AI Act deadlines, including pushing compliance for high-risk AI systems back to December 2027, and to ban nudify apps &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260326/p22#a260326p22)
+ - [WhatsApp rolls out features and updates: an AI tool to suggest replies based on a user&#39;s conversations, the ability to touch up photos with Meta AI, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260326/p21#a260326p21)
+ - [Some of our favorite Apple tech is cheaper than ever during Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/900953/best-apple-deals-amazon-big-spring-sale-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
