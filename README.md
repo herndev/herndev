@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8.5 beta is coming soon for the Galaxy S24 series, and here’s the leaked changelog](https://www.androidauthority.com/samsung-galaxy-s24-one-ui-8-5-beta-leaked-changelog-3652124/)
- - [Saatva HD Mattress Review: A Solution for Heavy-Bodied Sleepers](https://www.wired.com/review/saatva-hd-mattress/)
- - [Only one Samsung phone is worth buying now, and it’s not a Galaxy S26](https://www.androidauthority.com/only-one-samsung-phone-worth-buying-not-galaxy-s26-3651790/)<!-- TECH:END -->
+ - [Want to reboot your friend’s Exynos Galaxy phone? Just send them this link](https://www.androidauthority.com/possible-exynos-galaxy-phone-bug-causing-crashes-3652167/)
+ - [Sources: Google&#39;s top India counsel Bijoya Roy resigned after 16 months to start a new venture, a high-profile exit in a market where it faces regulatory issues &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/260326/p8#a260326p8)
+ - [Pony AI reports 2025 revenue up 20% YoY to ~$90M, total annual losses down 72% YoY to ~$76.8M, and a $75.5M net income in Q4, its first profitable quarter ever &lpar;Bloomberg&rpar;](http://www.techmeme.com/260326/p7#a260326p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
