@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t ditch your Rolex: This discreet upgrade can track your steps without the ‘tech look’](https://www.androidauthority.com/ganance-the-heir-fitness-tracker-3652250/)
- - [The US FCC opens a comment period for a proposal to help return outsourced call center jobs to the US; critics say the plan could drive companies to automation &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/260326/p29#a260326p29)
- - [Galaxy S26 owners in the US can start using Quick Share with their AirDrop friends](https://www.androidauthority.com/galaxy-s26-airdrop-us-3652271/)<!-- TECH:END -->
+ - [Search Live with Gemini’s latest model tries to keep up with your rapid-fire questions](https://www.androidauthority.com/google-gemini-3-1-flash-live-3652306/)
+ - [Meta stock falls 6%+ to a 10-month low after juries in two US trials found the company failed to adequately warn or protect young users &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/260326/p31#a260326p31)
+ - [iPhone Dynamic Island isn&#39;t going away yet, but its days are numbered](https://appleinsider.com/articles/26/03/26/iphone-dynamic-island-isnt-going-away-yet-but-its-days-are-numbered?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
