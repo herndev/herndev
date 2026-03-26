@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)
- - ⏩ [Five guy fan](http://9gag.com/gag/aqyEzKQ)
- - 👉 [Happy black history month](http://9gag.com/gag/agme4Kn)<!-- MEMES:END -->
+ - 💣 [Have you read and understood the terms of use?](http://9gag.com/gag/aXPOKAg)
+ - ⏩ [It is Wednesday ma dudes](http://9gag.com/gag/avyjd0Z)
+ - 👉 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)<!-- MEMES:END -->
 
 ---
 
