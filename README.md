@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI has surpassed $100M in annualized revenue from ChatGPT ads, has expanded to 600+ advertisers, and plans to launch self-serve advertiser access in April &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/260326/p45#a260326p45)
- - [iPhone hardware engineers allegedly get bonuses as Apple tries to prevent poaching](https://appleinsider.com/articles/26/03/26/iphone-hardware-engineers-allegedly-get-bonuses-as-apple-tries-to-prevent-poaching?utm_source=rss)
- - [Google releases new tools for its Gemini AI assistant that let users upload chat history and context from other AI apps, making it easier to switch from them &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260326/p44#a260326p44)<!-- TECH:END -->
+ - [In an interview, David Sacks says he has relinquished his role as AI and crypto czar after using up his time as a special government employee &lpar;Bloomberg&rpar;](http://www.techmeme.com/260326/p47#a260326p47)
+ - [Sources: Anthropic executives have discussed an IPO as soon as Q4, and bankers vying to take the company public expect it to raise more than $60B &lpar;The Information&rpar;](http://www.techmeme.com/260326/p46#a260326p46)
+ - [Robot vacuums from Eufy and Roborock are over 50 percent for Amazon’s spring sale](https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
