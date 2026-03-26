@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She relaxed](http://9gag.com/gag/aVv6VyM)
- - ⏩ [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)
- - 👉 [Hear me out](http://9gag.com/gag/aQzjZ0z)<!-- MEMES:END -->
+ - 💣 [If you don\u2019t understand this, you lived a bullshit life](http://9gag.com/gag/a9yGDAK)
+ - ⏩ [It is Wednesday ma dudes](http://9gag.com/gag/avyjd0Z)
+ - 👉 [99% destructive fire power, 1% hit rate.](http://9gag.com/gag/aryL246)<!-- MEMES:END -->
 
 ---
 
