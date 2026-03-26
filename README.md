@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These are mostly people who don&#39;t realize how much you save on food when you prepare it yourself.](http://9gag.com/gag/aPAqXzV)
- - ⏩ [Energy Drink Alternatives](http://9gag.com/gag/awypd31)
- - 👉 [Maybe a blind girl it is](http://9gag.com/gag/aRBpop7)<!-- MEMES:END -->
+ - 💣 [@alleeenmaarjsfu died 5 years ago. Let&#39;s not forget about him.](http://9gag.com/gag/aO8W12D)
+ - ⏩ [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)
+ - 👉 [Shadows moved slow.](http://9gag.com/gag/a6ZR2Ee)<!-- MEMES:END -->
 
 ---
 
