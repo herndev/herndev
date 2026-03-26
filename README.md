@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hear me out](http://9gag.com/gag/aQzjZ0z)
- - ⏩ [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)
- - 👉 [3/25](http://9gag.com/gag/adBze3V)<!-- MEMES:END -->
+ - 💣 [Fellow witches enthusiast hear me out....](http://9gag.com/gag/avyjRqq)
+ - ⏩ [Hear me out](http://9gag.com/gag/aQzjZ0z)
+ - 👉 [Good News Everyone !!! Researchers at National Taiwan University have created a topical serum made from monounsaturated fatty acids that triggered rapid hair growth in mice within 20 days by activating fat-cell signals beneath the skin.](http://9gag.com/gag/a2vX20p)<!-- MEMES:END -->
 
 ---
 
