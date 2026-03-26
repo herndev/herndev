@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 months after Google’s announcement, users are still waiting for Gemini on Android Auto](https://www.androidauthority.com/google-gemini-android-auto-delayed-rollout-3652090/)
- - [Back-to-back jury verdicts against Meta could spur a flood of litigation against social media companies and threaten to undermine Section 230 protections &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260326/p1#a260326p1)
- - [Therabody Promo Codes: 15% Off March 2026](https://www.wired.com/story/therabody-promo-code/)<!-- TECH:END -->
+ - [Android 17 Beta 2 is no longer a Pixel exclusive &lpar;Updated: More phones&rpar;](https://www.androidauthority.com/android-17-beta-2-oneplus-15-oppo-find-x9-pro-3651774/)
+ - [Apple could adopt 200MP camera for iPhone, leapfrog Samsung in the process](https://www.androidauthority.com/apple-testing-200mp-camera-iphone-3652087/)
+ - [How Theia, a satellite imaging startup that raised $250M+ by 2020, collapsed after the founder and four other execs were indicted on federal fraud charges &lpar;Brent Crane/Bloomberg&rpar;](http://www.techmeme.com/260326/p2#a260326p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
