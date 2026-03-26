@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have you read and understood the terms of use?](http://9gag.com/gag/aXPOKAg)
- - ⏩ [It is Wednesday ma dudes](http://9gag.com/gag/avyjd0Z)
- - 👉 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)<!-- MEMES:END -->
+ - 💣 [She relaxed](http://9gag.com/gag/aVv6VyM)
+ - ⏩ [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)
+ - 👉 [Hear me out](http://9gag.com/gag/aQzjZ0z)<!-- MEMES:END -->
 
 ---
 
