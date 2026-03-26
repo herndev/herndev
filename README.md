@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These 35 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History &lpar;2026&rpar;](https://www.wired.com/story/the-amazon-spring-sale-2026-1/)
- - [The Anker Nano Charger &lpar;45W&rpar; drops to new record-low](https://www.androidauthority.com/anker-nano-charger-45w-deal-2-3652012/)
- - [The China Computer Federation calls for a boycott of AI conference NeurIPS after organizers barred submissions from US-sanctioned companies like Huawei &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/260326/p33#a260326p33)<!-- TECH:END -->
+ - [Amazon&#39;s Big Spring Sale delivers Apple deals from $14.99](https://appleinsider.com/articles/26/03/26/amazons-big-spring-sale-delivers-apple-deals-from-1499?utm_source=rss)
+ - [Sources: X let go of 20+ staffers in nontechnical roles ahead of a SpaceX IPO; X staff have been told to focus on growing revenue since xAI brought on a CRO &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260326/p37#a260326p37)
+ - [Android Auto is having a hard time recommending media](https://www.androidauthority.com/android-auto-media-for-you-busted-3652347/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
