@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wikipedia bans using AI for writing or rewriting articles on its English-language site, citing AI-written articles&#39; tendency to violate &quot;core content policies&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260326/p25#a260326p25)
- - [A $20 Billion Crypto Scam Market Faces a New Government Crackdown](https://www.wired.com/story/20-billion-xinbi-guarantee-uk-sanctions/)
- - [Wikipedia bans AI-generated articles](https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban)<!-- TECH:END -->
+ - [Don’t ditch your Rolex: This discreet upgrade can track your steps without the ‘tech look’](https://www.androidauthority.com/ganance-the-heir-fitness-tracker-3652250/)
+ - [The US FCC opens a comment period for a proposal to help return outsourced call center jobs to the US; critics say the plan could drive companies to automation &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/260326/p29#a260326p29)
+ - [Galaxy S26 owners in the US can start using Quick Share with their AirDrop friends](https://www.androidauthority.com/galaxy-s26-airdrop-us-3652271/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
