@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No way it was a woman](http://9gag.com/gag/a2vXLDw)
- - ⏩ [Five guy fan](http://9gag.com/gag/aqyEzKQ)
- - 👉 [@alleeenmaarjsfu died 5 years ago. Let&#39;s not forget about him.](http://9gag.com/gag/aO8W12D)<!-- MEMES:END -->
+ - 💣 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)
+ - ⏩ [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
+ - 👉 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)<!-- MEMES:END -->
 
 ---
 
