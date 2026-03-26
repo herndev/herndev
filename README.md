@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ charged a Chinese national and two Americans for allegedly trying to smuggle ~$62M worth of export-controlled A100 and H100 Nvidia chips into China &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/260325/p51#a260325p51)
- - [Deccan AI, which supplies post-training data and evaluation work, raised a $25M Series A led by A91 Partners; most of its workforce of experts is based in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260325/p50#a260325p50)
- - [Leaked memo: Meta&#39;s Reality Labs is reorganizing staff into AI-native &quot;pods&quot; focused on specific outcomes, flattening the organization&#39;s leadership structure &lpar;Charles Rollet/Business Insider&rpar;](http://www.techmeme.com/260325/p49#a260325p49)<!-- TECH:END -->
+ - [Ruling in the LA bellwether case could impact Meta and other platforms, opening up a flood of litigation challenging product design and bypassing Section 230 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260326/p1#a260326p1)
+ - [Therabody Promo Codes: 15% Off March 2026](https://www.wired.com/story/therabody-promo-code/)
+ - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
