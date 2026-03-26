@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD announces Ryzen 9 9950X3D2 Dual Edition: a CPU with a mighty 208 MB of L3 cache aimed at game devs](https://www.pcgamer.com/hardware/processors/amd-announces-ryzen-9-9950x3d2-dual-edition-a-cpu-with-a-mighty-208-mb-of-l3-cache-aimed-at-game-devs/)
- - [Pokémon Champions finally redeems a bad grass starter 25 years later](https://www.polygon.com/pokemon-champions-mega-meganium-ability-sol-best-starter-grass-type/)
- - [The Internet Reacts To Fox McCloud In The Super Mario Galaxy Movie](https://kotaku.com/super-mario-galaxy-movie-star-fox-mccloud-cameo-reaction-2000682215)<!-- GAME:END -->
+ - [That Hunter: The Reckoning game that was accidentally leaked on Steam is now officially revealed as a new FPS RPG](https://www.pcgamer.com/games/rpg/that-hunter-the-reckoning-game-that-was-accidentally-leaked-on-steam-is-now-officially-revealed-as-a-new-fps-rpg/)
+ - [Our full chat with Embark: How Arc Raiders was saved mid-development, the balancing process, and the possibility of vehicles](https://www.pcgamer.com/games/third-person-shooter/our-full-chat-with-embark-how-arc-raiders-was-saved-mid-development-the-balancing-process-and-the-possibility-of-vehicles/)
+ - [17 JRPGs You Can Add To Your Collection For Cheap During All Of The Spring Game Sales](https://kotaku.com/17-jrpgs-you-can-add-to-your-collection-for-cheap-during-all-of-the-spring-game-sales-2000682252)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
