@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)
- - ⏩ [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
- - 👉 [Berlin, Berlin, wir fahren in Berlin](http://9gag.com/gag/ae9BWNv)<!-- MEMES:END -->
+ - 💣 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
+ - ⏩ [How I enjoy my sweet after my dinner](http://9gag.com/gag/aW4X2W4)
+ - 👉 [She relaxed](http://9gag.com/gag/aVv6VyM)<!-- MEMES:END -->
 
 ---
 
