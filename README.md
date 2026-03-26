@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI puts plans for an erotic chatbot on hold &quot;indefinitely&quot; as it refocuses on its core products, sources say after concerns from staff and investors &lpar;Financial Times&rpar;](http://www.techmeme.com/260326/p13#a260326p13)
- - [macOS 26.4 warning about potentially malicious Terminal commands](https://appleinsider.com/articles/26/03/26/macos-264-warning-about-potentially-malicious-terminal-commands?utm_source=rss)
- - [ADB is the last line of defense for a free and open Android](https://www.androidauthority.com/adb-last-line-of-defense-3651238/)<!-- TECH:END -->
+ - [Defense tech startup Shield AI raised $2B at a $12.7B valuation, up from $5.3B after raising $240M in March 2025; half of its business is autonomous software &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/260326/p19#a260326p19)
+ - [AirPods Pro 3 drop to near their all-time low price in Amazon sale](https://www.androidauthority.com/apple-airpods-pro-3-deal-4-3652042/)
+ - [Interviews with 37 Anduril sources detail safety concerns and project challenges at Anduril&#39;s manufacturing operations; Anduril calls the claims &quot;inaccurate&quot; &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260326/p18#a260326p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
