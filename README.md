@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Five guy fan](http://9gag.com/gag/aqyEzKQ)
- - ⏩ [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
- - 👉 [No way it was a woman](http://9gag.com/gag/a2vXLDw)<!-- MEMES:END -->
+ - 💣 [No way it was a woman](http://9gag.com/gag/a2vXLDw)
+ - ⏩ [Five guy fan](http://9gag.com/gag/aqyEzKQ)
+ - 👉 [@alleeenmaarjsfu died 5 years ago. Let&#39;s not forget about him.](http://9gag.com/gag/aO8W12D)<!-- MEMES:END -->
 
 ---
 
