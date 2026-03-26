@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why this thing gives me final destination vibes](http://9gag.com/gag/aqyEW7Z)
- - ⏩ [Happy black history month](http://9gag.com/gag/agme4Kn)
- - 👉 [Brutal](http://9gag.com/gag/a0e3EYB)<!-- MEMES:END -->
+ - 💣 [These are mostly people who don&#39;t realize how much you save on food when you prepare it yourself.](http://9gag.com/gag/aPAqXzV)
+ - ⏩ [Energy Drink Alternatives](http://9gag.com/gag/awypd31)
+ - 👉 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)<!-- MEMES:END -->
 
 ---
 
