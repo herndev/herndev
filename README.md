@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)
- - ⏩ [3/25](http://9gag.com/gag/adBze3V)
- - 👉 [Why this thing gives me final destination vibes](http://9gag.com/gag/aqyEW7Z)<!-- MEMES:END -->
+ - 💣 [Hear me out](http://9gag.com/gag/aQzjZ0z)
+ - ⏩ [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)
+ - 👉 [3/25](http://9gag.com/gag/adBze3V)<!-- MEMES:END -->
 
 ---
 
