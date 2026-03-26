@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The European Parliament votes to delay EU AI Act deadlines, including pushing compliance for high-risk AI systems back to December 2027, and to ban nudify apps &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260326/p22#a260326p22)
- - [WhatsApp rolls out features and updates: an AI tool to suggest replies based on a user&#39;s conversations, the ability to touch up photos with Meta AI, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260326/p21#a260326p21)
- - [Some of our favorite Apple tech is cheaper than ever during Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/900953/best-apple-deals-amazon-big-spring-sale-2026)<!-- TECH:END -->
+ - [Senators are pushing to find out how much electricity data centers actually use](https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers)
+ - [These smart glasses can now make you sound like the smartest person in the room](https://www.androidauthority.com/even-realities-g2-smart-glasses-update-3652190/)
+ - [The Sony Afeela Was Doomed to Fail](https://www.wired.com/story/sony-afeela-was-doomed-to-fail/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
