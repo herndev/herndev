@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [@alleeenmaarjsfu died 5 years ago. Let&#39;s not forget about him.](http://9gag.com/gag/aO8W12D)
- - ⏩ [These are mostly people who don&#39;t realize how much you save on food when you prepare it yourself.](http://9gag.com/gag/aPAqXzV)
- - 👉 [Hear me out](http://9gag.com/gag/aQzjZ0z)<!-- MEMES:END -->
+ - 💣 [Why this thing gives me final destination vibes](http://9gag.com/gag/aqyEW7Z)
+ - ⏩ [Happy black history month](http://9gag.com/gag/agme4Kn)
+ - 👉 [Brutal](http://9gag.com/gag/a0e3EYB)<!-- MEMES:END -->
 
 ---
 
