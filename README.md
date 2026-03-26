@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Playlist Playground to build Apple Music playlists in seconds](https://appleinsider.com/inside/apple-music/tips/how-to-use-playlist-playground-to-build-apple-music-playlists-in-seconds?utm_source=rss)
- - [Gemini can now turn your musical ideas into 3-minute songs](https://www.androidauthority.com/gemini-lyria-3-pro-rollout-3652057/)
- - [Filing: Apple settled its lawsuit against former Vision Pro designer Di Liu, who agreed to return confidential documents to Apple and pay monetary damages &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/260325/p47#a260325p47)<!-- TECH:END -->
+ - [The US DOJ charged a Chinese national and two Americans for allegedly trying to smuggle ~$62M worth of export-controlled A100 and H100 Nvidia chips into China &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/260325/p51#a260325p51)
+ - [Deccan AI, which supplies post-training data and evaluation work, raised a $25M Series A led by A91 Partners; most of its workforce of experts is based in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/260325/p50#a260325p50)
+ - [Leaked memo: Meta&#39;s Reality Labs is reorganizing staff into AI-native &quot;pods&quot; focused on specific outcomes, flattening the organization&#39;s leadership structure &lpar;Charles Rollet/Business Insider&rpar;](http://www.techmeme.com/260325/p49#a260325p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
