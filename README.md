@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She relaxed](http://9gag.com/gag/aVv6VyM)
- - ⏩ [LOL! The new draco looks like he&#39;d get bullied by the old Draco.](http://9gag.com/gag/aQzjV18)
- - 👉 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)<!-- MEMES:END -->
+ - 💣 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
+ - ⏩ [100% true](http://9gag.com/gag/aQzjVPK)
+ - 👉 [Typical soccer flopper](http://9gag.com/gag/agmeKz1)<!-- MEMES:END -->
 
 ---
 
