@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech stocks suffer their worst week in almost a year, driven by the Iran war and Meta&#39;s legal defeats; Meta fell 11%, Alphabet fell ~9%, and Microsoft fell ~7% &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/260327/p20#a260327p20)
- - [The Best Office Chair Is $50 Cheaper Than We&#39;ve Seen Before](https://www.wired.com/story/branch-ergonomic-chair-pro-amazon-spring-sale-2026/)
- - [Hot sale: All Pixel 10 phones are heavily discounted!](https://www.androidauthority.com/google-pixel-10-pro-xl-deals-5-3652733/)<!-- TECH:END -->
+ - [Sources: Physical Intelligence, which is developing AI models for robotics, is discussing a new funding round of about $1B that would value it at $11B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260327/p22#a260327p22)
+ - [AI Research Is Getting Harder to Separate From Geopolitics](https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/)
+ - [Court docs: Zuckerberg texted Musk approvingly about his work with DOGE in February 2025, offering to &quot;take down content doxxing or threatening&quot; DOGE staffers &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/260327/p21#a260327p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
