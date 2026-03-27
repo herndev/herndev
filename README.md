@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s Oversight Board says Community Notes aren&#39;t a proper substitute for fact checking, and warns expanding them beyond the US could pose human rights risks &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/260327/p2#a260327p2)
- - [Surfshark Promo Codes: 87% Off | March 2026](https://www.wired.com/story/surfshark-coupon/)
- - [Layla Sleep Coupon: Save Up to $600 in March 2026](https://www.wired.com/story/layla-sleep-coupon/)<!-- TECH:END -->
+ - [Sources: Moonshot AI may scrap its Cayman structure for a China or Hong Kong entity to prepare for a Hong Kong IPO and plans to raise funding at ~$18B valuation &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260327/p3#a260327p3)
+ - [Android 17 could make your phone’s best camera features work in every app](https://www.androidauthority.com/android-17-beta-3-vendor-defined-camera-extensions-3652506/)
+ - [Meta&#39;s Oversight Board says Community Notes aren&#39;t a proper substitute for fact checking, and warns expanding them beyond the US could pose human rights risks &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/260327/p2#a260327p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
