@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Champions Has One Major Hurdle To Overcome](https://kotaku.com/pokemon-champions-preview-pax-east-switch-mobile-2000682690)
- - [Disney&#39;s heartbreaking new short film earns its content warning](https://www.polygon.com/disney-plus-versa-animated-short-released/)
- - [Overwatch reveals that only 32% of players stayed loyal to Winston until the end: &#39;You are not to be trusted&#39;](https://www.pcgamer.com/games/fps/overwatch-reveals-that-only-32-percent-of-players-stayed-loyal-to-winston-until-the-end-you-are-not-to-be-trusted/)<!-- GAME:END -->
+ - [Video Game Legends Describe The Games Industry As ‘Crashier’ Now Than During The ’80s Crash](https://kotaku.com/games-industry-crash-john-brenda-romero-layoffs-xbox-2000682693)
+ - [Steam dev: fans have spent a year bullying me, calling me racist](https://www.polygon.com/steam-milky-way-idle-chinese-fans-harassment-racism-valve/)
+ - [D&amp;D Beyond&#39;s slick new online character creator lets you make a hero in seconds](https://www.pcgamer.com/games/d-and-d-beyonds-slick-new-online-character-creator-lets-you-make-a-hero-in-seconds/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
