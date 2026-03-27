@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Physical Intelligence, which is developing AI models for robotics, is discussing a new funding round of about $1B that would value it at $11B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/260327/p22#a260327p22)
- - [AI Research Is Getting Harder to Separate From Geopolitics](https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/)
- - [Court docs: Zuckerberg texted Musk approvingly about his work with DOGE in February 2025, offering to &quot;take down content doxxing or threatening&quot; DOGE staffers &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/260327/p21#a260327p21)<!-- TECH:END -->
+ - [Sony Japan temporarily suspends fulfillment of orders for nearly all of its CFexpress and SD memory card product lines due to solid state memory shortages &lpar;Jaron Schneider/PetaPixel&rpar;](http://www.techmeme.com/260327/p26#a260327p26)
+ - [Need to secure your home? All Ring Outdoor Cam models are at record-low prices!](https://www.androidauthority.com/ring-outdoor-cam-plus-pro-deals-3-3652860/)
+ - [Sources: Meta plans to debut two Ray-Ban smart glasses models next week intended for prescription wearers, to be sold mainly via prescription eyewear channels &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260327/p25#a260327p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
