@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Street Fighter 6&#39;s new DLC character is into incest, and somehow Capcom is making the whole thing even weirder](https://www.pcgamer.com/games/fighting/street-fighter-6s-new-dlc-character-is-into-incest-and-somehow-capcom-is-making-the-whole-thing-even-weirder/)
- - [&#39;The industry&#39;s in a really horrible place,&#39; Brenda Romero says: &#39;We were there in the &#39;80s for the crash, and this is definitely crashier&#39;](https://www.pcgamer.com/gaming-industry/the-industrys-in-a-really-horrible-place-brenda-romero-says-we-were-there-in-the-80s-for-the-crash-and-this-is-definitely-crashier/)
- - [Chris Pratt Responds To Fan Theories About Wario And Waluigi Being In Mario Galaxy Movie](https://kotaku.com/chris-pratt-responds-to-fan-theories-about-wario-and-waluigi-being-in-mario-galaxy-movie-2000682650)<!-- GAME:END -->
+ - [Pokémon Champions Has One Major Hurdle To Overcome](https://kotaku.com/pokemon-champions-preview-pax-east-switch-mobile-2000682690)
+ - [Disney&#39;s heartbreaking new short film earns its content warning](https://www.polygon.com/disney-plus-versa-animated-short-released/)
+ - [Overwatch reveals that only 32% of players stayed loyal to Winston until the end: &#39;You are not to be trusted&#39;](https://www.pcgamer.com/games/fps/overwatch-reveals-that-only-32-percent-of-players-stayed-loyal-to-winston-until-the-end-you-are-not-to-be-trusted/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
