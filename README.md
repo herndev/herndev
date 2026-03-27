@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
- - ⏩ [100% true](http://9gag.com/gag/aQzjVPK)
- - 👉 [Typical soccer flopper](http://9gag.com/gag/agmeKz1)<!-- MEMES:END -->
+ - 💣 [These are mostly people who don&#39;t realize how much you save on food when you prepare it yourself.](http://9gag.com/gag/aPAqXzV)
+ - ⏩ [Typical soccer flopper](http://9gag.com/gag/agmeKz1)
+ - 👉 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)<!-- MEMES:END -->
 
 ---
 
