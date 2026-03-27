@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ballerina is on HBO Max, John Wick fans need to give it the chance it deserves](https://www.polygon.com/ballerina-john-wick-spinoff-streaming-rec/)
- - [&#39;Realtime-with-pause is not dead,&#39; says lead designer of promising turn-based game Star Wars Zero Company](https://www.pcgamer.com/games/strategy/realtime-with-pause-is-not-dead-says-lead-designer-of-promising-turn-based-game-star-wars-zero-company/)
- - [In its first major visual overhaul ever, RPG Maker will soon let you make games in the style of Octopath Traveler](https://www.pcgamer.com/games/rpg/in-its-first-major-visual-overhaul-ever-rpg-maker-will-soon-let-you-make-games-in-the-style-of-octopath-traveler/)<!-- GAME:END -->
+ - [Marathon: The Kotaku Review](https://kotaku.com/marathon-the-kotaku-review-2000682312)
+ - [The Persona series needs to give us a sign of life already](https://www.polygon.com/persona-6-persona-4-revival-release-date-altus-2026-plans/)
+ - [New Price Changes for PS5, PS5 Pro, and PlayStation Portal remote player](https://blog.playstation.com/2026/03/27/new-price-changes-for-ps5-ps5-pro-and-playstation-portal-remote-player/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
