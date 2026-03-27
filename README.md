@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google nears a deal to help finance Nexus Data Centers&#39; Texas campus that is leased to Anthropic, as Google deepens its partnership with the AI startup &lpar;Financial Times&rpar;](http://www.techmeme.com/260327/p15#a260327p15)
- - [New AirPods Max 2 drop to $529 with this weekend&#39;s best preorder deal](https://appleinsider.com/articles/26/03/27/new-airpods-max-2-drop-to-529-with-this-weekends-best-preorder-deal?utm_source=rss)
- - [Amazing Anker Prime Charger 160W drops to record-low price](https://www.androidauthority.com/anker-prime-charger-160w-3-ports-gan-deal-2-3652735/)<!-- TECH:END -->
+ - [Former Google VP to lead Apple&#39;s AI product marketing](https://appleinsider.com/articles/26/03/27/former-google-vp-to-lead-apples-ai-product-marketing?utm_source=rss)
+ - [The Trump administration launches the White House app, promising news &quot;straight from the source, no filter&quot;, with news, live, social, and gallery sections &lpar;Emily Goodin/New York Post&rpar;](http://www.techmeme.com/260327/p17#a260327p17)
+ - [Spotify on Android Auto missing some of your favorite tracks? It’s not just you](https://www.androidauthority.com/spotify-local-files-not-showing-android-auto-3652780/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
