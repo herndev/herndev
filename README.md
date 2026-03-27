@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 Now Starts At $600 As Sony Calls Unprecedented Price Hikes ‘A Necessary Step’](https://kotaku.com/playstation-5-pro-ps5-portal-price-increase-april-2026-2000682609)
- - [The Expanse: Osiris Reborn Devs Admit Generative AI Is Being Used But Claim Everything Is Still ‘100 Percent Human Made’](https://kotaku.com/expanse-osiris-genai-sci-fi-rpg-mass-effect-owlcat-2000682315)
- - [Critical Role Campaign 4 gives Dungeons &amp; Dragons&#39; most boring activity gets a fresh spin](https://www.polygon.com/critical-role-campaign-4-shopping-episodes/)<!-- GAME:END -->
+ - [GGMods Officially Launches April 13 With Modathon Event](https://www.polygon.com/ggmods-official-launch-april-13/)
+ - [Slay the Spire: Downfall board game expansion adapts a fan-made video game mod](https://www.polygon.com/slay-the-spire-board-game-downfall-kickstarter-interview/)
+ - [Next Week on Xbox: New Games for March 30 to April 4](https://news.xbox.com/en-us/2026/03/27/next-week-on-xbox-new-games-for-march-30-to-april-4/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
