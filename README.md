@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Movie about guy with too much free time, working from home when you have none. Summer, autuismn, winter and spring. Real life Minecraft. Electricity is overrated.](http://9gag.com/gag/aAy9O1E)
+ - 💣 [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
  - ⏩ [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)
  - 👉 [She relaxed](http://9gag.com/gag/aVv6VyM)<!-- MEMES:END -->
 
