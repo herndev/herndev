@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Google VP to lead Apple&#39;s AI product marketing](https://appleinsider.com/articles/26/03/27/former-google-vp-to-lead-apples-ai-product-marketing?utm_source=rss)
- - [The Trump administration launches the White House app, promising news &quot;straight from the source, no filter&quot;, with news, live, social, and gallery sections &lpar;Emily Goodin/New York Post&rpar;](http://www.techmeme.com/260327/p17#a260327p17)
- - [Spotify on Android Auto missing some of your favorite tracks? It’s not just you](https://www.androidauthority.com/spotify-local-files-not-showing-android-auto-3652780/)<!-- TECH:END -->
+ - [The White House has an app now, and Trump wants you to report people to ICE on it](https://www.theverge.com/tech/902703/white-house-app-iphone-android)
+ - [Can’t connect to Discord, X, or ChatGPT? Internet outage strikes multiple sites](https://www.androidauthority.com/internet-outage-3652817/)
+ - [Iranian Hackers Breached Kash Patel’s Email—but Not the FBI’s](https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
