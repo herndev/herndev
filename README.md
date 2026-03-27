@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Porsche Cayenne Electric Review: A Phenomenally Capable SUV](https://www.wired.com/review/porsche-cayenne-electric-2026/)
- - [WWDC, Apple Music Genius, and ads in Apple Maps, on the AppleInsider Podcast](https://appleinsider.com/articles/26/03/27/wwdc-apple-music-genius-and-ads-in-apple-maps-on-the-appleinsider-podcast?utm_source=rss)
- - [Sony says it plans to raise the price of its PlayStation 5 consoles globally beginning on April 2; the PS5 will cost $650, PS5 Digital $600, and PS5 Pro $900 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260327/p7#a260327p7)<!-- TECH:END -->
+ - [Anthropic says it&#39;s testing an AI model that&#39;s a &quot;step change&quot; in performance after a draft blog in an unsecured data store revealed the Claude Mythos model &lpar;Beatrice Nolan/Fortune&rpar;](http://www.techmeme.com/260327/p9#a260327p9)
+ - [The photo mode consultant helping you take better video game screenshots](https://www.theverge.com/entertainment/901329/shinobi-video-game-photo-mode-consultant)
+ - [These ‘clinically tested’ gummies may or may not help you poop](https://www.theverge.com/column/902231/optimizer-gruns-wellness-multivitamins-clinical-testing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
