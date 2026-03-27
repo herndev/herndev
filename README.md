@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
- - ⏩ [Well... Technically, they achieved what they were planning to do... &gt;_&gt;](http://9gag.com/gag/aAy9vmZ)
- - 👉 [Me having an argument with my intrusive thought at 3 am](http://9gag.com/gag/a87gw11)<!-- MEMES:END -->
+ - 💣 [These are mostly people who don&#39;t realize how much you save on food when you prepare it yourself.](http://9gag.com/gag/aPAqXzV)
+ - ⏩ [Is it multicultural enough](http://9gag.com/gag/aNDbjqw)
+ - 👉 [She relaxed](http://9gag.com/gag/aVv6VyM)<!-- MEMES:END -->
 
 ---
 
