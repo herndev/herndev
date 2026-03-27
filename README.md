@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steno, which offers an AI-powered case transcript analysis tool for legal professionals, raised a $49M Series C led by Savano Capital Partners &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/260326/p56#a260326p56)
- - [Android 17 Beta 3 reveals Google is testing a new ‘Priority Charging’ feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-17-beta-3-priority-charging-3652492/)
- - [Miami-based telehealth company eMed raised a $200M Series A at a $2B+ valuation to advance its agentic AI platform and more; Tom Brady participated in the round &lpar;Sneha S K/Reuters&rpar;](http://www.techmeme.com/260326/p55#a260326p55)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, March 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-march-27/)
+ - [Tazapay, which builds cross-border payment infrastructure for fintech and web3 firms, says it closed a Series B extension, bringing its total Series B to $36M &lpar;Zoltan Vardai/Cointelegraph&rpar;](http://www.techmeme.com/260327/p1#a260327p1)
+ - [Steno, which offers an AI-powered case transcript analysis tool for legal professionals, raised a $49M Series C led by Savano Capital Partners &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/260326/p56#a260326p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
