@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She relaxed](http://9gag.com/gag/aVv6VyM)
- - ⏩ [Guys... everything is not going to be okay...](http://9gag.com/gag/a0e3weL)
- - 👉 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)<!-- MEMES:END -->
+ - 💣 [I have never heard of this game before but I need to play it immediately.](http://9gag.com/gag/aPAqpQK)
+ - ⏩ [Fat trash panda](http://9gag.com/gag/aRBpDyG)
+ - 👉 [Characters development](http://9gag.com/gag/aAy9ZnE)<!-- MEMES:END -->
 
 ---
 
