@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What?](http://9gag.com/gag/aQzjVVq)
- - ⏩ [She relaxed](http://9gag.com/gag/aVv6VyM)
- - 👉 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)<!-- MEMES:END -->
+ - 💣 [Typical soccer flopper](http://9gag.com/gag/agmeKz1)
+ - ⏩ [I nominate for new Queen, let&#39;s make it fappen](http://9gag.com/gag/aoy7nZX)
+ - 👉 [100% true](http://9gag.com/gag/aQzjVPK)<!-- MEMES:END -->
 
 ---
 
