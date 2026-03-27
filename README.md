@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple claims a 100% protection rate with iPhone Lockdown Mode](https://appleinsider.com/articles/26/03/27/apple-claims-a-100-protection-rate-with-iphone-lockdown-mode?utm_source=rss)
- - [Iran-linked hacker group Handala Hack Team claims the breach of FBI Director Kash Patel&#39;s personal email and publishes some documents online &lpar;Reuters&rpar;](http://www.techmeme.com/260327/p12#a260327p12)
- - [Finally! Single-tap Wi-Fi control returns to Quick Settings in Android 17 Beta 3](https://www.androidauthority.com/android-17-beta-3-single-tap-wifi-3652669/)<!-- TECH:END -->
+ - [Microsoft will lease Crusoe&#39;s 900 MW data center in Abilene, Texas, after Oracle and OpenAI reportedly withdrew, with the first building expected by mid-2027 &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/260327/p13#a260327p13)
+ - [Samsung’s already finding ways to make Galaxy devices more accessible in One UI 9](https://www.androidauthority.com/one-ui-9-accessibility-3652652/)
+ - [Nuki’s one-touch retrofit smart lock got its first-ever discount](https://www.theverge.com/gadgets/902276/nuki-smart-lock-thread-matter-smart-home-amazon-big-spring-sale-2026-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
