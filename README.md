@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have never heard of this game before but I need to play it immediately.](http://9gag.com/gag/aPAqpQK)
- - ⏩ [Fat trash panda](http://9gag.com/gag/aRBpDyG)
- - 👉 [Characters development](http://9gag.com/gag/aAy9ZnE)<!-- MEMES:END -->
+ - 💣 [Switzerland ordered some Patriot system years ago. Now the US said they can&#39;t deliver them. So Switzerland said then we won&#39;t pay. The US have now seized the funds they paid for the F-35s &lpar;which they probably won&#39;t get as well&rpar; instead.](http://9gag.com/gag/an7odeV)
+ - ⏩ [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)
+ - 👉 [Guys... everything is not going to be okay...](http://9gag.com/gag/a0e3weL)<!-- MEMES:END -->
 
 ---
 
