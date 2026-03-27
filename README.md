@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s next Razr Ultra leak hints at a thicker, but potentially better Galaxy Z Flip 8 rival](https://www.androidauthority.com/motorola-razr-ultra-2026-leak-3652450/)
- - [Source: Elon Musk is discussing allocating as much as 30% of SpaceX&#39;s IPO to individual investors, at least three times the usual retail slice &lpar;Reuters&rpar;](http://www.techmeme.com/260326/p51#a260326p51)
- - [Apple&#39;s App Store will show if an app is classified as a regulated medical device](https://appleinsider.com/articles/26/03/27/apples-app-store-will-show-if-an-app-is-classified-as-a-regulated-medical-device?utm_source=rss)<!-- TECH:END -->
+ - [Gemini launches memory and chat import feature that makes it easier to switch](https://www.androidauthority.com/gemini-memory-chat-import-rollout-3652475/)
+ - [Senior Trump officials say SMIC has been sending chipmaking tools to Iran for about a year; the US has sanctioned the company over alleged Chinese military ties &lpar;Reuters&rpar;](http://www.techmeme.com/260326/p54#a260326p54)
+ - [NY-based Blossom Health, which makes an &quot;AI copilot&quot; to augment psychiatrists&#39; clinical decisions and automate office tasks, raised $20M in seed and Series A &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260326/p53#a260326p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
