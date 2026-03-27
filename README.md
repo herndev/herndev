@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)
- - ⏩ [She relaxed](http://9gag.com/gag/aVv6VyM)
- - 👉 [I nominate for new Queen, let&#39;s make it fappen](http://9gag.com/gag/aoy7nZX)<!-- MEMES:END -->
+ - 💣 [She relaxed](http://9gag.com/gag/aVv6VyM)
+ - ⏩ [LOL! The new draco looks like he&#39;d get bullied by the old Draco.](http://9gag.com/gag/aQzjV18)
+ - 👉 [First salad or last salad](http://9gag.com/gag/aYQ0Rz2)<!-- MEMES:END -->
 
 ---
 
