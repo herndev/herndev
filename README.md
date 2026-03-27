@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Browser could soon save you some money while shopping](https://www.androidauthority.com/samsung-browser-smart-shopping-apk-teardown-3652538/)
- - [I’ve been journaling for 12 years: Here’s what’s missing from Pixel Journal](https://www.androidauthority.com/google-journal-day-one-3649569/)
- - [Samsung is copying the Pixel Watch 4’s best virtual assistant trick](https://www.androidauthority.com/samsung-raise-to-talk-3652357/)<!-- TECH:END -->
+ - [YouTube is testing more AI on the home screen, and we hate it already](https://www.androidauthority.com/youtube-home-screen-ai-summaries-3652545/)
+ - [The Nothing Phone 4a Pro is doing better than even Nothing expected](https://www.androidauthority.com/nothing-phone-4a-pro-sales-over-target-3652530/)
+ - [The Galaxy A57 is great, but I’d rather get the latest Pixel](https://www.androidauthority.com/samsung-galaxy-a57-vs-pixel-10a-3651743/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
