@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 Beta 3 brings a significant upgrade for hearing aid users](https://www.androidauthority.com/android-17-beta-3-hearing-aids-3652599/)
- - [Best External Hard Drive &lpar;2026&rpar;: SSD to Store Data, Video, and More](https://www.wired.com/story/best-portable-external-storage-drives/)
- - [Apple takes a step towards Android by opening up Siri to third-party AI in IOS 27](https://www.androidauthority.com/apple-siri-opening-up-to-rival-ai-3652603/)<!-- TECH:END -->
+ - [Porsche Cayenne Electric Review: A Phenomenally Capable SUV](https://www.wired.com/review/porsche-cayenne-electric-2026/)
+ - [WWDC, Apple Music Genius, and ads in Apple Maps, on the AppleInsider Podcast](https://appleinsider.com/articles/26/03/27/wwdc-apple-music-genius-and-ads-in-apple-maps-on-the-appleinsider-podcast?utm_source=rss)
+ - [Sony says it plans to raise the price of its PlayStation 5 consoles globally beginning on April 2; the PS5 will cost $650, PS5 Digital $600, and PS5 Pro $900 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/260327/p7#a260327p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
