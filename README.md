@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Friday, March 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-march-27/)
- - [Tazapay, which builds cross-border payment infrastructure for fintech and web3 firms, says it closed a Series B extension, bringing its total Series B to $36M &lpar;Zoltan Vardai/Cointelegraph&rpar;](http://www.techmeme.com/260327/p1#a260327p1)
- - [Steno, which offers an AI-powered case transcript analysis tool for legal professionals, raised a $49M Series C led by Savano Capital Partners &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/260326/p56#a260326p56)<!-- TECH:END -->
+ - [Meta&#39;s Oversight Board says Community Notes aren&#39;t a proper substitute for fact checking, and warns expanding them beyond the US could pose human rights risks &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/260327/p2#a260327p2)
+ - [Surfshark Promo Codes: 87% Off | March 2026](https://www.wired.com/story/surfshark-coupon/)
+ - [Layla Sleep Coupon: Save Up to $600 in March 2026](https://www.wired.com/story/layla-sleep-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
