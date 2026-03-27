@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brendan Carr says his broadcast license threat wasn&amp;#8217;t really about Iran war coverage](https://www.theverge.com/policy/902132/brendan-carr-iran-broadcast-license-threat)
- - [David Sacks is no longer the White House AI and Crypto Czar](https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar)
- - [Anthropic Supply-Chain Risk Designation Halted By Judge](https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/)<!-- TECH:END -->
+ - [Motorola’s next Razr Ultra leak hints at a thicker, but potentially better Galaxy Z Flip 8 rival](https://www.androidauthority.com/motorola-razr-ultra-2026-leak-3652450/)
+ - [Source: Elon Musk is discussing allocating as much as 30% of SpaceX&#39;s IPO to individual investors, at least three times the usual retail slice &lpar;Reuters&rpar;](http://www.techmeme.com/260326/p51#a260326p51)
+ - [Apple&#39;s App Store will show if an app is classified as a regulated medical device](https://appleinsider.com/articles/26/03/27/apples-app-store-will-show-if-an-app-is-classified-as-a-regulated-medical-device?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
