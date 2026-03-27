@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Still Plans to Sell iPhones When It Turns 100](https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/)
- - [We picked the 24 best Big Spring Sale deals that are under $50](https://www.theverge.com/gadgets/901519/best-cheap-tech-deals-under-50-amazon-big-spring-sale-2026)
- - [Sources: Aetherflux, founded by Robinhood co-founder Baiju Bhatt to develop orbital data centers, aims to raise $250M to $300M in a Series B at a $2B valuation &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260327/p10#a260327p10)<!-- TECH:END -->
+ - [Apple claims a 100% protection rate with iPhone Lockdown Mode](https://appleinsider.com/articles/26/03/27/apple-claims-a-100-protection-rate-with-iphone-lockdown-mode?utm_source=rss)
+ - [Iran-linked hacker group Handala Hack Team claims the breach of FBI Director Kash Patel&#39;s personal email and publishes some documents online &lpar;Reuters&rpar;](http://www.techmeme.com/260327/p12#a260327p12)
+ - [Finally! Single-tap Wi-Fi control returns to Quick Settings in Android 17 Beta 3](https://www.androidauthority.com/android-17-beta-3-single-tap-wifi-3652669/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
