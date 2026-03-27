@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an interview, David Sacks says he has relinquished his role as AI and crypto czar after using up his time as a special government employee &lpar;Bloomberg&rpar;](http://www.techmeme.com/260326/p47#a260326p47)
- - [Sources: Anthropic executives have discussed an IPO as soon as Q4, and bankers vying to take the company public expect it to raise more than $60B &lpar;The Information&rpar;](http://www.techmeme.com/260326/p46#a260326p46)
- - [Robot vacuums from Eufy and Roborock are over 50 percent for Amazon’s spring sale](https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals)<!-- TECH:END -->
+ - [Brendan Carr says his broadcast license threat wasn&amp;#8217;t really about Iran war coverage](https://www.theverge.com/policy/902132/brendan-carr-iran-broadcast-license-threat)
+ - [David Sacks is no longer the White House AI and Crypto Czar](https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar)
+ - [Anthropic Supply-Chain Risk Designation Halted By Judge](https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
