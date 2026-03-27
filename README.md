@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ballerina is on HBO Max, John Wick fans need to give it the chance it deserves](https://www.polygon.com/ballerina-john-wick-spinoff-streaming-rec/)
  - [&#39;Realtime-with-pause is not dead,&#39; says lead designer of promising turn-based game Star Wars Zero Company](https://www.pcgamer.com/games/strategy/realtime-with-pause-is-not-dead-says-lead-designer-of-promising-turn-based-game-star-wars-zero-company/)
- - [In its first major visual overhaul ever, RPG Maker will soon let you make games in the style of Octopath Traveler](https://www.pcgamer.com/games/rpg/in-its-first-major-visual-overhaul-ever-rpg-maker-will-soon-let-you-make-games-in-the-style-of-octopath-traveler/)
- - [Actual-play series Dimension 20 is partnering with White Wolf for a Vampire: The Masquerade show](https://www.pcgamer.com/games/board-games/actual-play-series-dimension-20-is-partnering-with-white-wolf-for-a-vampire-the-masquerade-show/)<!-- GAME:END -->
+ - [In its first major visual overhaul ever, RPG Maker will soon let you make games in the style of Octopath Traveler](https://www.pcgamer.com/games/rpg/in-its-first-major-visual-overhaul-ever-rpg-maker-will-soon-let-you-make-games-in-the-style-of-octopath-traveler/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
