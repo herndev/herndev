@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Frieren season 3 release window confirmed and fans are in for a long wait](https://www.polygon.com/frieren-season-3-release-window-october/)
- - [Project Hail Mary screenwriter learned one important thing on The Martian](https://www.polygon.com/project-hail-mary-screenwriter-interview-martian/)
- - [Master Blue Mary’s Commando Sambo, Available Now in Fatal Fury: City of the Wolves](https://news.xbox.com/en-us/2026/03/27/fatal-fury-cotw-blue-mary/)<!-- GAME:END -->
+ - [Street Fighter 6&#39;s new DLC character is into incest, and somehow Capcom is making the whole thing even weirder](https://www.pcgamer.com/games/fighting/street-fighter-6s-new-dlc-character-is-into-incest-and-somehow-capcom-is-making-the-whole-thing-even-weirder/)
+ - [&#39;The industry&#39;s in a really horrible place,&#39; Brenda Romero says: &#39;We were there in the &#39;80s for the crash, and this is definitely crashier&#39;](https://www.pcgamer.com/gaming-industry/the-industrys-in-a-really-horrible-place-brenda-romero-says-we-were-there-in-the-80s-for-the-crash-and-this-is-definitely-crashier/)
+ - [Chris Pratt Responds To Fan Theories About Wario And Waluigi Being In Mario Galaxy Movie](https://kotaku.com/chris-pratt-responds-to-fan-theories-about-wario-and-waluigi-being-in-mario-galaxy-movie-2000682650)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
