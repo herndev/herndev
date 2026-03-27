@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These are mostly people who don&#39;t realize how much you save on food when you prepare it yourself.](http://9gag.com/gag/aPAqXzV)
- - ⏩ [Typical soccer flopper](http://9gag.com/gag/agmeKz1)
+ - 💣 [She relaxed](http://9gag.com/gag/aVv6VyM)
+ - ⏩ [100% true](http://9gag.com/gag/aQzjVPK)
  - 👉 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)<!-- MEMES:END -->
 
 ---
