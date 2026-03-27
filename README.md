@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)
- - ⏩ [She relaxed](http://9gag.com/gag/aVv6VyM)
- - 👉 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)<!-- MEMES:END -->
+ - 💣 [She relaxed](http://9gag.com/gag/aVv6VyM)
+ - ⏩ [Guys... everything is not going to be okay...](http://9gag.com/gag/a0e3weL)
+ - 👉 [This is what true love looks like](http://9gag.com/gag/a0e3wBq)<!-- MEMES:END -->
 
 ---
 
