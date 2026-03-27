@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marathon: The Kotaku Review](https://kotaku.com/marathon-the-kotaku-review-2000682312)
- - [The Persona series needs to give us a sign of life already](https://www.polygon.com/persona-6-persona-4-revival-release-date-altus-2026-plans/)
- - [New Price Changes for PS5, PS5 Pro, and PlayStation Portal remote player](https://blog.playstation.com/2026/03/27/new-price-changes-for-ps5-ps5-pro-and-playstation-portal-remote-player/)<!-- GAME:END -->
+ - [PS5 Now Starts At $600 As Sony Calls Unprecedented Price Hikes ‘A Necessary Step’](https://kotaku.com/playstation-5-pro-ps5-portal-price-increase-april-2026-2000682609)
+ - [The Expanse: Osiris Reborn Devs Admit Generative AI Is Being Used But Claim Everything Is Still ‘100 Percent Human Made’](https://kotaku.com/expanse-osiris-genai-sci-fi-rpg-mass-effect-owlcat-2000682315)
+ - [Critical Role Campaign 4 gives Dungeons &amp; Dragons&#39; most boring activity gets a fresh spin](https://www.polygon.com/critical-role-campaign-4-shopping-episodes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
