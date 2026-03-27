@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says it&#39;s testing an AI model that&#39;s a &quot;step change&quot; in performance after a draft blog in an unsecured data store revealed the Claude Mythos model &lpar;Beatrice Nolan/Fortune&rpar;](http://www.techmeme.com/260327/p9#a260327p9)
- - [The photo mode consultant helping you take better video game screenshots](https://www.theverge.com/entertainment/901329/shinobi-video-game-photo-mode-consultant)
- - [These ‘clinically tested’ gummies may or may not help you poop](https://www.theverge.com/column/902231/optimizer-gruns-wellness-multivitamins-clinical-testing)<!-- TECH:END -->
+ - [Apple Still Plans to Sell iPhones When It Turns 100](https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/)
+ - [We picked the 24 best Big Spring Sale deals that are under $50](https://www.theverge.com/gadgets/901519/best-cheap-tech-deals-under-50-amazon-big-spring-sale-2026)
+ - [Sources: Aetherflux, founded by Robinhood co-founder Baiju Bhatt to develop orbital data centers, aims to raise $250M to $300M in a Series B at a $2B valuation &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260327/p10#a260327p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
