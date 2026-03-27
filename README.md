@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [That Hunter: The Reckoning game that was accidentally leaked on Steam is now officially revealed as a new FPS RPG](https://www.pcgamer.com/games/rpg/that-hunter-the-reckoning-game-that-was-accidentally-leaked-on-steam-is-now-officially-revealed-as-a-new-fps-rpg/)
- - [Our full chat with Embark: How Arc Raiders was saved mid-development, the balancing process, and the possibility of vehicles](https://www.pcgamer.com/games/third-person-shooter/our-full-chat-with-embark-how-arc-raiders-was-saved-mid-development-the-balancing-process-and-the-possibility-of-vehicles/)
- - [17 JRPGs You Can Add To Your Collection For Cheap During All Of The Spring Game Sales](https://kotaku.com/17-jrpgs-you-can-add-to-your-collection-for-cheap-during-all-of-the-spring-game-sales-2000682252)<!-- GAME:END -->
+ - [&#39;Realtime-with-pause is not dead,&#39; says lead designer of promising turn-based game Star Wars Zero Company](https://www.pcgamer.com/games/strategy/realtime-with-pause-is-not-dead-says-lead-designer-of-promising-turn-based-game-star-wars-zero-company/)
+ - [In its first major visual overhaul ever, RPG Maker will soon let you make games in the style of Octopath Traveler](https://www.pcgamer.com/games/rpg/in-its-first-major-visual-overhaul-ever-rpg-maker-will-soon-let-you-make-games-in-the-style-of-octopath-traveler/)
+ - [Actual-play series Dimension 20 is partnering with White Wolf for a Vampire: The Masquerade show](https://www.pcgamer.com/games/board-games/actual-play-series-dimension-20-is-partnering-with-white-wolf-for-a-vampire-the-masquerade-show/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
