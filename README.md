@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The White House has an app now, and Trump wants you to report people to ICE on it](https://www.theverge.com/tech/902703/white-house-app-iphone-android)
- - [Can’t connect to Discord, X, or ChatGPT? Internet outage strikes multiple sites](https://www.androidauthority.com/internet-outage-3652817/)
- - [Iranian Hackers Breached Kash Patel’s Email—but Not the FBI’s](https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/)<!-- TECH:END -->
+ - [Tech stocks suffer their worst week in almost a year, driven by the Iran war and Meta&#39;s legal defeats; Meta fell 11%, Alphabet fell ~9%, and Microsoft fell ~7% &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/260327/p20#a260327p20)
+ - [The Best Office Chair Is $50 Cheaper Than We&#39;ve Seen Before](https://www.wired.com/story/branch-ergonomic-chair-pro-amazon-spring-sale-2026/)
+ - [Hot sale: All Pixel 10 phones are heavily discounted!](https://www.androidauthority.com/google-pixel-10-pro-xl-deals-5-3652733/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
