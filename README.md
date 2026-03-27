@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 4′s New $30 Expansion Pack Isn’t Winning Over Fans](https://kotaku.com/borderlands-4s-new-30-expansion-pack-isnt-winning-over-fans-2000682731)
- - [How to get the Soft Roller pickaxe in Fortnite](https://www.polygon.com/fortnite-soft-roller-pickaxe-victory-royale-win-how-to-get/)
- - [Mercy, Ballerina, Anaconda, and every new movie on streaming this weekend](https://www.polygon.com/new-movies-to-watch-ballerina-prett-deadly-anaconda-march-20-2026/)<!-- GAME:END -->
+ - [Deus Ex: Human Revolution could&#39;ve had a track from the original game&#39;s composer but it was rejected for not being the &#39;right fit,&#39; and in hindsight he says they were right](https://www.pcgamer.com/games/deus-ex-human-revolution-couldve-had-a-track-from-the-original-games-composer-but-it-was-rejected-for-not-being-the-right-fit-and-in-hindsight-he-says-they-were-right/)
+ - [Ocarina of Time remake would be a bold move for Nintendo](https://www.polygon.com/zelda-ocarina-of-time-remake-rumor-nintendo-switch-2-2026/)
+ - [Soren Johnson on keeping his game studio small: &#39;You get better games if you take longer to make games&#39;](https://www.pcgamer.com/gaming-industry/soren-johnson-on-keeping-his-game-studio-small-you-get-better-games-if-you-take-longer-to-make-games/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
