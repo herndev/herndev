@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I Played Dark Souls For The First Time In 2026 And It Really Is The Best Ever](https://kotaku.com/dark-souls-rpg-nostalgia-taurus-demon-2000682716)
- - [How to get pet armor in Crimson Desert](https://www.polygon.com/crimson-desert-pet-dog-cat-armor-puppy-where-to-buy/)
- - [Fans Are Really Taking To Glen Powell As Fox In The Mario Galaxy Movie](https://kotaku.com/super-mario-galaxy-movie-star-fox-voice-glen-powell-video-2000682723)<!-- GAME:END -->
+ - [Borderlands 4′s New $30 Expansion Pack Isn’t Winning Over Fans](https://kotaku.com/borderlands-4s-new-30-expansion-pack-isnt-winning-over-fans-2000682731)
+ - [How to get the Soft Roller pickaxe in Fortnite](https://www.polygon.com/fortnite-soft-roller-pickaxe-victory-royale-win-how-to-get/)
+ - [Mercy, Ballerina, Anaconda, and every new movie on streaming this weekend](https://www.polygon.com/new-movies-to-watch-ballerina-prett-deadly-anaconda-march-20-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
