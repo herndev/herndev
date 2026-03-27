@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One Way or Another, Most of Our Electricity Comes From Solar Power](https://www.wired.com/story/most-of-our-electricity-comes-from-solar-power/)
- - [A New AI Documentary Puts CEOs in the Hot Seat—but Goes Too Easy on Them](https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/)
- - [Apple at 50: John Sculley, Apple&#39;s most maligned CEO](https://appleinsider.com/articles/26/03/27/apple-at-50-john-sculley-apples-most-maligned-ceo?utm_source=rss)<!-- TECH:END -->
+ - [Android 17 Beta 3 brings a significant upgrade for hearing aid users](https://www.androidauthority.com/android-17-beta-3-hearing-aids-3652599/)
+ - [Best External Hard Drive &lpar;2026&rpar;: SSD to Store Data, Video, and More](https://www.wired.com/story/best-portable-external-storage-drives/)
+ - [Apple takes a step towards Android by opening up Siri to third-party AI in IOS 27](https://www.androidauthority.com/apple-siri-opening-up-to-rival-ai-3652603/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
