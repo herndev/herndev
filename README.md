@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini launches memory and chat import feature that makes it easier to switch](https://www.androidauthority.com/gemini-memory-chat-import-rollout-3652475/)
- - [Senior Trump officials say SMIC has been sending chipmaking tools to Iran for about a year; the US has sanctioned the company over alleged Chinese military ties &lpar;Reuters&rpar;](http://www.techmeme.com/260326/p54#a260326p54)
- - [NY-based Blossom Health, which makes an &quot;AI copilot&quot; to augment psychiatrists&#39; clinical decisions and automate office tasks, raised $20M in seed and Series A &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260326/p53#a260326p53)<!-- TECH:END -->
+ - [Steno, which offers an AI-powered case transcript analysis tool for legal professionals, raised a $49M Series C led by Savano Capital Partners &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/260326/p56#a260326p56)
+ - [Android 17 Beta 3 reveals Google is testing a new ‘Priority Charging’ feature &lpar;APK teardown&rpar;](https://www.androidauthority.com/android-17-beta-3-priority-charging-3652492/)
+ - [Miami-based telehealth company eMed raised a $200M Series A at a $2B+ valuation to advance its agentic AI platform and more; Tom Brady participated in the round &lpar;Sneha S K/Reuters&rpar;](http://www.techmeme.com/260326/p55#a260326p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
