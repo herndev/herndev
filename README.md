@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Slay The Spire 2 Reverts Controversial Nerf As Devs Get More Detailed About What’s Changing And Why](https://kotaku.com/slay-spire-2-patch-notes-nerf-infinite-combo-silent-2000682645)
- - [Capcom adds photo mode to Resident Evil Requiem in new patch](https://www.polygon.com/resident-evil-requiem-photo-mode-update/)
- - [All bank locations in Borderlands 4](https://www.polygon.com/borderlands-4-all-bank-locations/)<!-- GAME:END -->
+ - [I Played Dark Souls For The First Time In 2026 And It Really Is The Best Ever](https://kotaku.com/dark-souls-rpg-nostalgia-taurus-demon-2000682716)
+ - [How to get pet armor in Crimson Desert](https://www.polygon.com/crimson-desert-pet-dog-cat-armor-puppy-where-to-buy/)
+ - [Fans Are Really Taking To Glen Powell As Fox In The Mario Galaxy Movie](https://kotaku.com/super-mario-galaxy-movie-star-fox-voice-glen-powell-video-2000682723)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
