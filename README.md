@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GGMods Officially Launches April 13 With Modathon Event](https://www.polygon.com/ggmods-official-launch-april-13/)
- - [Slay the Spire: Downfall board game expansion adapts a fan-made video game mod](https://www.polygon.com/slay-the-spire-board-game-downfall-kickstarter-interview/)
- - [Next Week on Xbox: New Games for March 30 to April 4](https://news.xbox.com/en-us/2026/03/27/next-week-on-xbox-new-games-for-march-30-to-april-4/)<!-- GAME:END -->
+ - [Frieren season 3 release window confirmed and fans are in for a long wait](https://www.polygon.com/frieren-season-3-release-window-october/)
+ - [Project Hail Mary screenwriter learned one important thing on The Martian](https://www.polygon.com/project-hail-mary-screenwriter-interview-martian/)
+ - [Master Blue Mary’s Commando Sambo, Available Now in Fatal Fury: City of the Wolves](https://news.xbox.com/en-us/2026/03/27/fatal-fury-cotw-blue-mary/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
