@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Video Game Legends Describe The Games Industry As ‘Crashier’ Now Than During The ’80s Crash](https://kotaku.com/games-industry-crash-john-brenda-romero-layoffs-xbox-2000682693)
- - [Steam dev: fans have spent a year bullying me, calling me racist](https://www.polygon.com/steam-milky-way-idle-chinese-fans-harassment-racism-valve/)
- - [D&amp;D Beyond&#39;s slick new online character creator lets you make a hero in seconds](https://www.pcgamer.com/games/d-and-d-beyonds-slick-new-online-character-creator-lets-you-make-a-hero-in-seconds/)<!-- GAME:END -->
+ - [Slay The Spire 2 Reverts Controversial Nerf As Devs Get More Detailed About What’s Changing And Why](https://kotaku.com/slay-spire-2-patch-notes-nerf-infinite-combo-silent-2000682645)
+ - [Capcom adds photo mode to Resident Evil Requiem in new patch](https://www.polygon.com/resident-evil-requiem-photo-mode-update/)
+ - [All bank locations in Borderlands 4](https://www.polygon.com/borderlands-4-all-bank-locations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
