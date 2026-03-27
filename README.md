@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The suspense was real, but the flan came through](http://9gag.com/gag/aByeo4A)
- - ⏩ [100% true](http://9gag.com/gag/aQzjVPK)
- - 👉 [God Bless America &lpar;2011&rpar;](http://9gag.com/gag/apRMVQW)<!-- MEMES:END -->
+ - 💣 [What?](http://9gag.com/gag/aQzjVVq)
+ - ⏩ [She relaxed](http://9gag.com/gag/aVv6VyM)
+ - 👉 [Such a generous dude, Faith in Humanity: Restored.](http://9gag.com/gag/aqyEDMP)<!-- MEMES:END -->
 
 ---
 
