@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft will lease Crusoe&#39;s 900 MW data center in Abilene, Texas, after Oracle and OpenAI reportedly withdrew, with the first building expected by mid-2027 &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/260327/p13#a260327p13)
- - [Samsung’s already finding ways to make Galaxy devices more accessible in One UI 9](https://www.androidauthority.com/one-ui-9-accessibility-3652652/)
- - [Nuki’s one-touch retrofit smart lock got its first-ever discount](https://www.theverge.com/gadgets/902276/nuki-smart-lock-thread-matter-smart-home-amazon-big-spring-sale-2026-deal)<!-- TECH:END -->
+ - [Sources: Google nears a deal to help finance Nexus Data Centers&#39; Texas campus that is leased to Anthropic, as Google deepens its partnership with the AI startup &lpar;Financial Times&rpar;](http://www.techmeme.com/260327/p15#a260327p15)
+ - [New AirPods Max 2 drop to $529 with this weekend&#39;s best preorder deal](https://appleinsider.com/articles/26/03/27/new-airpods-max-2-drop-to-529-with-this-weekends-best-preorder-deal?utm_source=rss)
+ - [Amazing Anker Prime Charger 160W drops to record-low price](https://www.androidauthority.com/anker-prime-charger-160w-3-ports-gan-deal-2-3652735/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
