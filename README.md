@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is testing more AI on the home screen, and we hate it already](https://www.androidauthority.com/youtube-home-screen-ai-summaries-3652545/)
- - [The Nothing Phone 4a Pro is doing better than even Nothing expected](https://www.androidauthority.com/nothing-phone-4a-pro-sales-over-target-3652530/)
- - [The Galaxy A57 is great, but I’d rather get the latest Pixel](https://www.androidauthority.com/samsung-galaxy-a57-vs-pixel-10a-3651743/)<!-- TECH:END -->
+ - [One Way or Another, Most of Our Electricity Comes From Solar Power](https://www.wired.com/story/most-of-our-electricity-comes-from-solar-power/)
+ - [A New AI Documentary Puts CEOs in the Hot Seat—but Goes Too Easy on Them](https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/)
+ - [Apple at 50: John Sculley, Apple&#39;s most maligned CEO](https://appleinsider.com/articles/26/03/27/apple-at-50-john-sculley-apples-most-maligned-ceo?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
