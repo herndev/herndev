@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 Beta 3 can keep virtual assistants from getting too loud](https://www.androidauthority.com/android-17-beta-3-assistant-volume-3652526/)
- - [Samsung phones get major Linux Terminal upgrades thanks to One UI 8.5](https://www.androidauthority.com/samsung-phones-linux-terminal-one-ui-8-5-3652503/)
- - [Sources: Moonshot AI may scrap its Cayman structure for a China or Hong Kong entity to prepare for a Hong Kong IPO and plans to raise funding at ~$18B valuation &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260327/p3#a260327p3)<!-- TECH:END -->
+ - [Samsung Browser could soon save you some money while shopping](https://www.androidauthority.com/samsung-browser-smart-shopping-apk-teardown-3652538/)
+ - [I’ve been journaling for 12 years: Here’s what’s missing from Pixel Journal](https://www.androidauthority.com/google-journal-day-one-3649569/)
+ - [Samsung is copying the Pixel Watch 4’s best virtual assistant trick](https://www.androidauthority.com/samsung-raise-to-talk-3652357/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
