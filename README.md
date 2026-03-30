@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A British hiker became lost at high altitudes in the Peruvian mountains, then a stray dog appeared from the fog and led him safely back.](http://9gag.com/gag/a5QYvXN)
- - ⏩ [&gt;_&lt;](http://9gag.com/gag/a5QY9PO)
- - 👉 [Probabilty 1/3](http://9gag.com/gag/azx3oAq)<!-- MEMES:END -->
+ - 💣 [Uhh,,,yeah.](http://9gag.com/gag/aLnEVyW)
+ - ⏩ [Just give me the burger](http://9gag.com/gag/aByejoN)
+ - 👉 [Livin the dream](http://9gag.com/gag/aoy7G0g)<!-- MEMES:END -->
 
 ---
 
