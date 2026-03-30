@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek&#39;s chatbot suffered a major outage of over seven hours in China, its biggest outage since debut in 2025 and an unusual downtime for a globally used app &lpar;Bloomberg&rpar;](http://www.techmeme.com/260330/p6#a260330p6)
- - [An interview with early Twitter executive Jason Goldman on the platform&#39;s early free-speech-maximalist decisions, underinvestment in trust and safety, and more &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/260330/p5#a260330p5)
- - [A look at Pretext, a new JS library that solves the problem of calculating multi-line text height without touching the DOM, enabling highly dynamic layouts &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260330/p4#a260330p4)<!-- TECH:END -->
+ - [Some thoughts about companies and people in San Francisco adapting to AI workflows, AI&#39;s sycophancy, &quot;cognitive offloading&quot; and &quot;cognitive surrender&quot;, and more &lpar;Ezra Klein/New York Times&rpar;](http://www.techmeme.com/260330/p9#a260330p9)
+ - [If Google is serious about Android scams, there’s a bigger problem than sideloading](https://www.androidauthority.com/play-store-more-scams-than-sideloading-3652203/)
+ - [6 reasons why I chose the Samsung Galaxy S26 over the S26 Ultra](https://www.androidauthority.com/why-i-chose-samsung-galaxy-s26-over-s26-ultra-3652016/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
