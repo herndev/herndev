@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox’s next big games showcase happens on June 7th](https://www.theverge.com/games/903282/xbox-games-showcase-2026-sgf-date)
- - [Fabless AI chip startup Rebellions raised $400M in a pre-IPO round at a $2.34B valuation, bringing its total funding to $850M, with $650M in the past six months &lpar;Lucas Ropek/TechCrunch&rpar;](http://www.techmeme.com/260330/p21#a260330p21)
- - [M5 MacBook Air review: Incremental update, but the best buy for most](https://appleinsider.com/articles/26/03/30/m5-macbook-air-review-incremental-update-but-the-best-buy-for-most?utm_source=rss)<!-- TECH:END -->
+ - [ScaleOps, which makes automated cloud spend tools, raised a $130M Series C led by Insight Partners at an $800M+ valuation, bringing its total funding to $210M+ &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260330/p24#a260330p24)
+ - [That top Google result for Homebrew could infect your Mac](https://appleinsider.com/articles/26/03/30/that-top-google-result-for-homebrew-could-infect-your-mac?utm_source=rss)
+ - [Apple&#39;s AI home strategy, hands on with Sonos Play, and more on Smart Home Insider](https://appleinsider.com/articles/26/03/30/apples-ai-home-strategy-hands-on-with-sonos-play-and-more-on-smart-home-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
