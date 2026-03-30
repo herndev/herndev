@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is probably a 9gagger](http://9gag.com/gag/aByeb8D)
- - ⏩ [Wooden Rave](http://9gag.com/gag/ae9BqGO)
- - 👉 [Ireland](http://9gag.com/gag/an7o0Vq)<!-- MEMES:END -->
+ - 💣 [This mate was shocked to find his house spotlessly clean, from top to bottom, by the woman he&#39;d spent the night with after meeting her on a dating app](http://9gag.com/gag/aryLrjV)
+ - ⏩ [Radical](http://9gag.com/gag/a2vXVqY)
+ - 👉 [Uhh,,,yeah.](http://9gag.com/gag/aLnEVyW)<!-- MEMES:END -->
 
 ---
 
