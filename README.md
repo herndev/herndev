@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Radical](http://9gag.com/gag/a2vXVqY)
- - ⏩ [Just give me the burger](http://9gag.com/gag/aByejoN)
- - 👉 [Lucky](http://9gag.com/gag/aoy7Gqn)<!-- MEMES:END -->
+ - 💣 [He is probably a 9gagger](http://9gag.com/gag/aByeb8D)
+ - ⏩ [Wooden Rave](http://9gag.com/gag/ae9BqGO)
+ - 👉 [Ireland](http://9gag.com/gag/an7o0Vq)<!-- MEMES:END -->
 
 ---
 
