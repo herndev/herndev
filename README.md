@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dimension 20 Is Finally Doing A Vampire: The Masquerade Campaign And I Am So Stoked](https://kotaku.com/dimension-20-vampire-the-masquerade-2000682984)
- - [Batman: Arkham Origins has a graphics mod that looks like a remaster](https://www.pcgamer.com/games/action/batman-arkham-origins-has-a-graphics-mod-that-looks-like-a-remaster/)
- - [Five new Steam games you probably missed &lpar;March 30, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-30-2026/)<!-- GAME:END -->
+ - [Xbox Games Showcase 2026 Followed by Gears of War: E-Day Direct Airs June 7 – and Xbox Fanfest Returns](https://news.xbox.com/en-us/2026/03/30/xbox-games-showcase-2026-gears-of-war-e-day-direct/)
+ - [Indie studio co-founder believes &#39;nobody cares about&#39; huge open worlds anymore instead devs should pick just one thing and do it &#39;exceptionally well&#39;](https://www.pcgamer.com/gaming-industry/indie-studio-co-founder-believes-nobody-cares-about-huge-open-worlds-anymore-instead-devs-should-pick-just-one-thing-and-do-it-exceptionally-well/)
+ - [Jack Black would be up for playing a &#39;portly American&#39; if there&#39;s another live-action Yakuza movie: &#39;Sega, give me a jingle&#39;](https://www.pcgamer.com/games/rpg/jack-black-would-be-up-for-playing-a-portly-american-if-theres-another-live-action-yakuza-movie-sega-give-me-a-jingle/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
