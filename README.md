@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with NYU professor Julian Togelius on his recent paper about LLMs&#39; limitations in playing video games, why coding is a kind of well-designed game, and more &lpar;Matthew S. Smith/IEEE Spectrum&rpar;](http://www.techmeme.com/260330/p12#a260330p12)
- - [Amazon MGM&#39;s Project Hail Mary becomes its highest-grossing film ever, crossing $300M globally, including $54.1M just this weekend; the movie cost $200M to make &lpar;Brent Lang/Variety&rpar;](http://www.techmeme.com/260330/p11#a260330p11)
- - [‘Guns, Beer, Titties, Freedom’: Inside the World’s Toughest Off-Road Race](https://www.wired.com/story/night-of-the-hammers-off-road-race-ultra4/)<!-- TECH:END -->
+ - [How Google DeepMind Chief Scientist Jeff Dean has been an outspoken voice on politics, a rare tech leader openly criticizing Trump actions and an ICE shooting &lpar;Katherine Blunt/Wall Street Journal&rpar;](http://www.techmeme.com/260330/p15#a260330p15)
+ - [The Best Earplugs for Protecting Your Hearing &lpar;2026&rpar;](https://www.wired.com/story/best-earplugs/)
+ - [Samsung’s ‘for Galaxy’ Snapdragon pulls ahead in GPU tests, until throttling wipes out its lead](https://www.androidauthority.com/samsung-galaxy-s26-ultra-benchmarks-3652232/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
