@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&#39;s ChatGPT app store now has 300+ app integrations six months after its launch, but faces sluggish adoption due to limited functionality for many apps &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260330/p19#a260330p19)
- - [Apple II Forever!](https://www.theverge.com/tech/900677/apple-ii-personal-computer)
- - [KitchenAid redesigned its iconic mixer so you can set an exact speed](https://www.theverge.com/tech/901470/kitchenaid-artisan-plus-tilting-stand-mixer-speed-control-light)<!-- TECH:END -->
+ - [Xbox’s next big games showcase happens on June 7th](https://www.theverge.com/games/903282/xbox-games-showcase-2026-sgf-date)
+ - [Fabless AI chip startup Rebellions raised $400M in a pre-IPO round at a $2.34B valuation, bringing its total funding to $850M, with $650M in the past six months &lpar;Lucas Ropek/TechCrunch&rpar;](http://www.techmeme.com/260330/p21#a260330p21)
+ - [M5 MacBook Air review: Incremental update, but the best buy for most](https://appleinsider.com/articles/26/03/30/m5-macbook-air-review-incremental-update-but-the-best-buy-for-most?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
