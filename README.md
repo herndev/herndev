@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GeForce Now streams Apple Vision Pro faster &amp; better than to Meta headsets](https://appleinsider.com/articles/26/03/30/geforce-now-streams-apple-vision-pro-faster-better-than-to-meta-headsets?utm_source=rss)
- - [Sycamore, founded by former Atlassian CTO Sri Viswanath to let enterprises build, deploy, and monitor AI agents, raised a $65M seed led by Coatue and Lightspeed &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/260330/p27#a260330p27)
- - [Okta&amp;#8217;s CEO is betting big on AI agent identity](https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity)<!-- TECH:END -->
+ - [A Delaware judge reassigns Elon Musk cases over &quot;disproportionate media attention&quot; after allegations she &quot;liked&quot; a LinkedIn post celebrating a Musk legal defeat &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/260330/p28#a260330p28)
+ - [A new manufacturing process uses lasers to seal paper packaging instead of glue](https://www.theverge.com/tech/903280/papure-project-fraunhofer-institute-laser-paper-packaging-recycling)
+ - [The latest Pixel 11 leak shows slimmer bezels and an all-black camera bar](https://www.theverge.com/tech/903381/google-pixel-11-leak-bezels-camera-bar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
