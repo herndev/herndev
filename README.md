@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pre smartphone game](http://9gag.com/gag/agmepQ1)
- - ⏩ [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
+ - 💣 [The Cycle](http://9gag.com/gag/aD2vqgG)
+ - ⏩ [Radical](http://9gag.com/gag/a2vXVqY)
  - 👉 [Uhh,,,yeah.](http://9gag.com/gag/aLnEVyW)<!-- MEMES:END -->
 
 ---
