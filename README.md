@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big Spring Deal drops this high-end ASUS keyboard to record-low price!](https://www.androidauthority.com/asus-rog-strix-scope-ii-gaming-keyboard-deal-3653238/)
- - [The first Apple Home Key-ready smart lock with UWB is cheaper during Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/903555/aqara-u400-apple-home-key-uwb-smart-lock-amazon-big-spring-sale-2026-deal)
- - [The Galaxy Tab S11 Ultra’s Pro Keyboard somehow costs even more than we feared](https://www.androidauthority.com/galaxy-tab-s11-ultra-pro-keyboard-us-price-3653241/)<!-- TECH:END -->
+ - [Apple is more aggressively booting vibe coding apps from the App Store](https://appleinsider.com/articles/26/03/30/apple-is-more-aggressively-booting-vibe-coding-apps-from-the-app-store?utm_source=rss)
+ - [XGIMI’s most powerful projectors just opened up for pre-order](https://www.androidauthority.com/xgimi-titan-noir-series-launch-3653302/)
+ - [Levels.fyi: median base-salary offers for US software engineers at VC-backed startups have risen 25% to $200K since 2022; total compensation has risen just 18% &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/260330/p39#a260330p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
