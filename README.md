@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Best space movie since interstellar](http://9gag.com/gag/ae9BqL5)
- - ⏩ [She ended up winning a Grammy for this song](http://9gag.com/gag/ae9BqGb)
- - 👉 [Lucky](http://9gag.com/gag/aoy7Gqn)<!-- MEMES:END -->
+ - ⏩ [UK officer confiscated the national flag from woman because it&#39;s offensive](http://9gag.com/gag/aW4Xer2)
+ - 👉 [Just why](http://9gag.com/gag/amoZyWv)<!-- MEMES:END -->
 
 ---
 
