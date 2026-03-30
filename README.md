@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valinor, which aims to use smart contracts to replace manual lending processes in the private credit industry, raised a $25M seed led by Castle Island Ventures &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260330/p32#a260330p32)
- - [Sources: E*Trade is in talks to lead SpaceX IPO share sale to retail investors; Robinhood and SoFi have pitched for roles but SpaceX is mulling cutting them out &lpar;Reuters&rpar;](http://www.techmeme.com/260330/p31#a260330p31)
- - [Amazon&#39;s Big Spring Sale ends March 31, grab an iPad from $299](https://appleinsider.com/articles/26/03/30/amazons-big-spring-sale-ends-march-31-grab-an-ipad-from-299?utm_source=rss)<!-- TECH:END -->
+ - [Our Favorite Amazon Streaming Stick Is Almost Half Off](https://www.wired.com/story/fire-tv-stick-max-deal-326/)
+ - [First iOS 26.5, macOS 26.5 developer betas now available for testing](https://appleinsider.com/articles/26/03/30/first-ios-265-macos-265-developer-betas-now-available-for-testing?utm_source=rss)
+ - [Tel Aviv-based Sett, which builds AI agents to automate game marketing, raised a $30M Series B led by Greenfield Partners, bringing its total funding to $57M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260330/p33#a260330p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
