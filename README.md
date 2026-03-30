@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is probably a 9gagger](http://9gag.com/gag/aByeb8D)
- - ⏩ [Have a nice day!](http://9gag.com/gag/aByej7Q)
- - 👉 [And there it goes.](http://9gag.com/gag/ae9ByvQ)<!-- MEMES:END -->
+ - 💣 [The Cycle](http://9gag.com/gag/aD2vqgG)
+ - ⏩ [When you lie on your resume that you have experience organizing events](http://9gag.com/gag/a87gvMY)
+ - 👉 [&gt;_&lt;](http://9gag.com/gag/a5QY9PO)<!-- MEMES:END -->
 
 ---
 
