@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just give me the burger](http://9gag.com/gag/aByejoN)
- - ⏩ [Livin the dream](http://9gag.com/gag/aoy7G0g)
- - 👉 [Look safe](http://9gag.com/gag/aAy9Lmp)<!-- MEMES:END -->
+ - 💣 [Have a nice day!](http://9gag.com/gag/aByej7Q)
+ - ⏩ [He is probably a 9gagger](http://9gag.com/gag/aByeb8D)
+ - 👉 [Wooden Rave](http://9gag.com/gag/ae9BqGO)<!-- MEMES:END -->
 
 ---
 
