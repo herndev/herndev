@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some thoughts about companies and people in San Francisco adapting to AI workflows, AI&#39;s sycophancy, &quot;cognitive offloading&quot; and &quot;cognitive surrender&quot;, and more &lpar;Ezra Klein/New York Times&rpar;](http://www.techmeme.com/260330/p9#a260330p9)
- - [If Google is serious about Android scams, there’s a bigger problem than sideloading](https://www.androidauthority.com/play-store-more-scams-than-sideloading-3652203/)
- - [6 reasons why I chose the Samsung Galaxy S26 over the S26 Ultra](https://www.androidauthority.com/why-i-chose-samsung-galaxy-s26-over-s26-ultra-3652016/)<!-- TECH:END -->
+ - [Q&amp;A with NYU professor Julian Togelius on his recent paper about LLMs&#39; limitations in playing video games, why coding is a kind of well-designed game, and more &lpar;Matthew S. Smith/IEEE Spectrum&rpar;](http://www.techmeme.com/260330/p12#a260330p12)
+ - [Amazon MGM&#39;s Project Hail Mary becomes its highest-grossing film ever, crossing $300M globally, including $54.1M just this weekend; the movie cost $200M to make &lpar;Brent Lang/Variety&rpar;](http://www.techmeme.com/260330/p11#a260330p11)
+ - [‘Guns, Beer, Titties, Freedom’: Inside the World’s Toughest Off-Road Race](https://www.wired.com/story/night-of-the-hammers-off-road-race-ultra4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
