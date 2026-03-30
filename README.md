@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very bold](http://9gag.com/gag/aD2vrW7)
- - ⏩ [Probabilty 1/3](http://9gag.com/gag/azx3oAq)
- - 👉 [Now THAT&#39;S clean magic!](http://9gag.com/gag/aByeNd1)<!-- MEMES:END -->
+ - 💣 [He is probably a 9gagger](http://9gag.com/gag/aByeb8D)
+ - ⏩ [Have a nice day!](http://9gag.com/gag/aByej7Q)
+ - 👉 [And there it goes.](http://9gag.com/gag/ae9ByvQ)<!-- MEMES:END -->
 
 ---
 
