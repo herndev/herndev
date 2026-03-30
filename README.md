@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just give me the burger](http://9gag.com/gag/aByejoN)
- - ⏩ [Best space movie since interstellar](http://9gag.com/gag/ae9BqL5)
+ - 💣 [Best space movie since interstellar](http://9gag.com/gag/ae9BqL5)
+ - ⏩ [She ended up winning a Grammy for this song](http://9gag.com/gag/ae9BqGb)
  - 👉 [Lucky](http://9gag.com/gag/aoy7Gqn)<!-- MEMES:END -->
 
 ---
