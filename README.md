@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Older Galaxy phones are now getting AirDrop support, but don’t celebrate yet](https://www.androidauthority.com/older-samsung-phones-airdrop-support-3652987/)
- - [Exclusive: Android could soon get its own AirDrop-style ‘tap to share’ feature](https://www.androidauthority.com/android-tap-to-share-quick-share-3652981/)
- - [Emails, texts, and NTSB reports show Waymo and an Austin school district struggled for months to train robotaxis to stop for school buses as required by law &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/260330/p3#a260330p3)<!-- TECH:END -->
+ - [DeepSeek&#39;s chatbot suffered a major outage of over seven hours in China, its biggest outage since debut in 2025 and an unusual downtime for a globally used app &lpar;Bloomberg&rpar;](http://www.techmeme.com/260330/p6#a260330p6)
+ - [An interview with early Twitter executive Jason Goldman on the platform&#39;s early free-speech-maximalist decisions, underinvestment in trust and safety, and more &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/260330/p5#a260330p5)
+ - [A look at Pretext, a new JS library that solves the problem of calculating multi-line text height without touching the DOM, enabling highly dynamic layouts &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260330/p4#a260330p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
