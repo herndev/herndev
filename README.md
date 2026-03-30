@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Google DeepMind Chief Scientist Jeff Dean has been an outspoken voice on politics, a rare tech leader openly criticizing Trump actions and an ICE shooting &lpar;Katherine Blunt/Wall Street Journal&rpar;](http://www.techmeme.com/260330/p15#a260330p15)
- - [The Best Earplugs for Protecting Your Hearing &lpar;2026&rpar;](https://www.wired.com/story/best-earplugs/)
- - [Samsung’s ‘for Galaxy’ Snapdragon pulls ahead in GPU tests, until throttling wipes out its lead](https://www.androidauthority.com/samsung-galaxy-s26-ultra-benchmarks-3652232/)<!-- TECH:END -->
+ - [OpenAI&#39;s ChatGPT app store now has 300+ app integrations six months after its launch, but faces sluggish adoption due to limited functionality for many apps &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/260330/p19#a260330p19)
+ - [Apple II Forever!](https://www.theverge.com/tech/900677/apple-ii-personal-computer)
+ - [KitchenAid redesigned its iconic mixer so you can set an exact speed](https://www.theverge.com/tech/901470/kitchenaid-artisan-plus-tilting-stand-mixer-speed-control-light)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
