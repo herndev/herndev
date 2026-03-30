@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Delaware judge reassigns Elon Musk cases over &quot;disproportionate media attention&quot; after allegations she &quot;liked&quot; a LinkedIn post celebrating a Musk legal defeat &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/260330/p28#a260330p28)
- - [A new manufacturing process uses lasers to seal paper packaging instead of glue](https://www.theverge.com/tech/903280/papure-project-fraunhofer-institute-laser-paper-packaging-recycling)
- - [The latest Pixel 11 leak shows slimmer bezels and an all-black camera bar](https://www.theverge.com/tech/903381/google-pixel-11-leak-bezels-camera-bar)<!-- TECH:END -->
+ - [Valinor, which aims to use smart contracts to replace manual lending processes in the private credit industry, raised a $25M seed led by Castle Island Ventures &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260330/p32#a260330p32)
+ - [Sources: E*Trade is in talks to lead SpaceX IPO share sale to retail investors; Robinhood and SoFi have pitched for roles but SpaceX is mulling cutting them out &lpar;Reuters&rpar;](http://www.techmeme.com/260330/p31#a260330p31)
+ - [Amazon&#39;s Big Spring Sale ends March 31, grab an iPad from $299](https://appleinsider.com/articles/26/03/30/amazons-big-spring-sale-ends-march-31-grab-an-ipad-from-299?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
