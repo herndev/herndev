@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some developers say the App Store review process is taking significantly longer, up to multiple weeks, with an influx of vibe-coded apps as the likely cause &lpar;Business Insider&rpar;](http://www.techmeme.com/260329/p11#a260329p11)
- - [Midjourney CEO David Holz says the company&#39;s revenue &quot;significantly surpassed&quot; $200M in 2023, and has &quot;gone up&quot; since then, despite its declining web traffic &lpar;Jemima McEvoy/The Information&rpar;](http://www.techmeme.com/260329/p10#a260329p10)
- - [Pro-AI group Innovation Council Action, praised by David Sacks, plans to spend $100M+ in the US midterms to drive deregulation and support Trump&#39;s AI agenda &lpar;Alex Isenstadt/Axios&rpar;](http://www.techmeme.com/260329/p9#a260329p9)<!-- TECH:END -->
+ - [Inside the rise and fall of Sora, whose team worked separately from OpenAI&#39;s core research team, as OpenAI shuts down Sora and redirects compute to other tasks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260329/p12#a260329p12)
+ - [All the latest in AI &amp;#8216;music&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit)
+ - [Some developers say the App Store review process is taking significantly longer, up to multiple weeks, with an influx of vibe-coded apps as the likely cause &lpar;Business Insider&rpar;](http://www.techmeme.com/260329/p11#a260329p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
