@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is more aggressively booting vibe coding apps from the App Store](https://appleinsider.com/articles/26/03/30/apple-is-more-aggressively-booting-vibe-coding-apps-from-the-app-store?utm_source=rss)
- - [XGIMI’s most powerful projectors just opened up for pre-order](https://www.androidauthority.com/xgimi-titan-noir-series-launch-3653302/)
- - [Levels.fyi: median base-salary offers for US software engineers at VC-backed startups have risen 25% to $200K since 2022; total compensation has risen just 18% &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/260330/p39#a260330p39)<!-- TECH:END -->
+ - [Google Drive has some new tricks to help if you get hit by a ransomware attack](https://www.androidauthority.com/google-drive-ransomware-detection-file-restoration-3653354/)
+ - [OpenAI introduces a Codex plugin for Claude Code, letting users invoke Codex from inside Claude Code to review code or delegate tasks &lpar;Vaibhav &lpar;VB&rpar; Srivastav/@reach_vb&rpar;](http://www.techmeme.com/260330/p42#a260330p42)
+ - [These Are the Best Exercise Bikes for Achieving Your Fitness Goals in 2026](https://www.cnet.com/health/fitness/best-exercise-bike/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
