@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Cycle](http://9gag.com/gag/aD2vqgG)
- - ⏩ [Radical](http://9gag.com/gag/a2vXVqY)
- - 👉 [Lucky](http://9gag.com/gag/aoy7Gqn)<!-- MEMES:END -->
+ - 💣 [Best space movie since interstellar](http://9gag.com/gag/ae9BqL5)
+ - ⏩ [Lucky](http://9gag.com/gag/aoy7Gqn)
+ - 👉 [Pre smartphone game](http://9gag.com/gag/agmepQ1)<!-- MEMES:END -->
 
 ---
 
