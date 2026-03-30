@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have a nice day!](http://9gag.com/gag/aByej7Q)
- - ⏩ [He is probably a 9gagger](http://9gag.com/gag/aByeb8D)
- - 👉 [Wooden Rave](http://9gag.com/gag/ae9BqGO)<!-- MEMES:END -->
+ - 💣 [What if...](http://9gag.com/gag/aqyEVMZ)
+ - ⏩ [Wooden Rave](http://9gag.com/gag/ae9BqGO)
+ - 👉 [Ireland](http://9gag.com/gag/an7o0Vq)<!-- MEMES:END -->
 
 ---
 
