@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our Favorite Amazon Streaming Stick Is Almost Half Off](https://www.wired.com/story/fire-tv-stick-max-deal-326/)
- - [First iOS 26.5, macOS 26.5 developer betas now available for testing](https://appleinsider.com/articles/26/03/30/first-ios-265-macos-265-developer-betas-now-available-for-testing?utm_source=rss)
- - [Tel Aviv-based Sett, which builds AI agents to automate game marketing, raised a $30M Series B led by Greenfield Partners, bringing its total funding to $57M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260330/p33#a260330p33)<!-- TECH:END -->
+ - [Apple Intelligence finally rolls out in China](https://appleinsider.com/articles/26/03/30/apple-intelligence-finally-rolls-out-in-china?utm_source=rss)
+ - [Apple Intelligence is rolling out in China, according to user reports, after launching in the US in October 2024 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/260330/p38#a260330p38)
+ - [Google TV Streamer still 20% off, but not for long!](https://www.androidauthority.com/google-tv-streamer-deal-14-3653239/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
