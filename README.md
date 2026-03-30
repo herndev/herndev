@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get every Frictional horror game ever made—Penumbra, Amnesia, and SOMA—for just $15 in this screamingly good bundle](https://www.pcgamer.com/games/horror/get-every-frictional-horror-game-ever-made-penumbra-amnesia-and-soma-for-just-usd15-in-this-screamingly-good-bundle/)
- - [Path of Exile&#39;s richest player and item trading kingpin gets banned and pleads with Grinding Gear Games to restore &#39;more than 1,500 items, some of which can&#39;t ever be recreated&#39;: &#39;This is the worst day of my life&#39;](https://www.pcgamer.com/games/rpg/path-of-exiles-richest-player-and-item-trading-kingpin-gets-banned-and-pleads-with-grinding-gear-games-to-restore-more-than-1-500-items-some-of-which-cant-ever-be-recreated-this-is-the-worst-day-of-my-life/)
- - [President Trump Is Now Posting Animal Crossing AI-Slop](https://kotaku.com/president-trump-is-now-posting-animal-crossing-ai-slop-2000682767)<!-- GAME:END -->
+ - [Batman: Arkham Origins has a graphics mod that looks like a remaster](https://www.pcgamer.com/games/action/batman-arkham-origins-has-a-graphics-mod-that-looks-like-a-remaster/)
+ - [Five new Steam games you probably missed &lpar;March 30, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-30-2026/)
+ - [Death Stranding 2&#39;s PC port pushed it past 2 million copies sold](https://www.pcgamer.com/gaming-industry/death-stranding-2s-pc-port-pushed-it-past-2-million-copies-sold/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
