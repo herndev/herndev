@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dimension 20 Is Finally Doing A Vampire: The Masquerade Campaign And I Am So Stoked](https://kotaku.com/dimension-20-vampire-the-masquerade-2000682984)
  - [Batman: Arkham Origins has a graphics mod that looks like a remaster](https://www.pcgamer.com/games/action/batman-arkham-origins-has-a-graphics-mod-that-looks-like-a-remaster/)
- - [Five new Steam games you probably missed &lpar;March 30, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-30-2026/)
- - [Death Stranding 2&#39;s PC port pushed it past 2 million copies sold](https://www.pcgamer.com/gaming-industry/death-stranding-2s-pc-port-pushed-it-past-2-million-copies-sold/)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;March 30, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-march-30-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
