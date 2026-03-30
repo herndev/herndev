@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Drive has some new tricks to help if you get hit by a ransomware attack](https://www.androidauthority.com/google-drive-ransomware-detection-file-restoration-3653354/)
- - [OpenAI introduces a Codex plugin for Claude Code, letting users invoke Codex from inside Claude Code to review code or delegate tasks &lpar;Vaibhav &lpar;VB&rpar; Srivastav/@reach_vb&rpar;](http://www.techmeme.com/260330/p42#a260330p42)
- - [These Are the Best Exercise Bikes for Achieving Your Fitness Goals in 2026](https://www.cnet.com/health/fitness/best-exercise-bike/)<!-- TECH:END -->
+ - [Micron shares closed down 10% on Monday and are now down 30% since Micron&#39;s blowout earnings report on March 18; Sandisk fell 7% and Western Digital dropped 9% &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260330/p43#a260330p43)
+ - [Waiting for AirDrop on your Samsung phone? We may have good news for Galaxy A series users](https://www.androidauthority.com/samsung-galaxy-a-airdrop-quick-share-3653370/)
+ - [Deal: The Samsung M7 monitor is impressive, large, and on sale!](https://www.androidauthority.com/samsung-43-inch-smart-monitor-m7-m70f-deal-3-3653237/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
