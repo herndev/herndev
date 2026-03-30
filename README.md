@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Cycle](http://9gag.com/gag/aD2vqgG)
- - ⏩ [Radical](http://9gag.com/gag/a2vXVqY)
- - 👉 [Uhh,,,yeah.](http://9gag.com/gag/aLnEVyW)<!-- MEMES:END -->
+ - 💣 [Lucky](http://9gag.com/gag/aoy7Gqn)
+ - ⏩ [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
+ - 👉 [Pre smartphone game](http://9gag.com/gag/agmepQ1)<!-- MEMES:END -->
 
 ---
 
