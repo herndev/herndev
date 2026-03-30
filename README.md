@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Japan temporarily suspends fulfillment of orders for nearly all of its CFexpress and SD memory card product lines due to solid state memory shortages &lpar;Jaron Schneider/PetaPixel&rpar;](http://www.techmeme.com/260327/p26#a260327p26)
- - [Need to secure your home? All Ring Outdoor Cam models are at record-low prices!](https://www.androidauthority.com/ring-outdoor-cam-plus-pro-deals-3-3652860/)
- - [Sources: Meta plans to debut two Ray-Ban smart glasses models next week intended for prescription wearers, to be sold mainly via prescription eyewear channels &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260327/p25#a260327p25)<!-- TECH:END -->
+ - [Pro-AI group Innovation Council Action, praised by David Sacks, plans to spend $100M+ in the US midterms to drive deregulation and support Trump&#39;s AI agenda &lpar;Alex Isenstadt/Axios&rpar;](http://www.techmeme.com/260329/p9#a260329p9)
+ - [Bluesky’s new app is an AI for customizing your feed](https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds)
+ - [Amazon slashes up to $200 off new M5 Pro &amp; M5 Max MacBook Pros](https://appleinsider.com/articles/26/03/29/amazon-slashes-up-to-200-off-new-m5-pro-m5-max-macbook-pros?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
