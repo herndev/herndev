@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lucky](http://9gag.com/gag/aoy7Gqn)
+ - 💣 [The Cycle](http://9gag.com/gag/aD2vqgG)
  - ⏩ [Radical](http://9gag.com/gag/a2vXVqY)
- - 👉 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)<!-- MEMES:END -->
+ - 👉 [Lucky](http://9gag.com/gag/aoy7Gqn)<!-- MEMES:END -->
 
 ---
 
