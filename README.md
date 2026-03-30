@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best space movie since interstellar](http://9gag.com/gag/ae9BqL5)
- - ⏩ [Just give me the burger](http://9gag.com/gag/aByejoN)
- - 👉 [Just why](http://9gag.com/gag/amoZyWv)<!-- MEMES:END -->
+ - 💣 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
+ - ⏩ [Radical](http://9gag.com/gag/a2vXVqY)
+ - 👉 [The Cycle](http://9gag.com/gag/aD2vqgG)<!-- MEMES:END -->
 
 ---
 
