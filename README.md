@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uhh,,,yeah.](http://9gag.com/gag/aLnEVyW)
- - ⏩ [Just give me the burger](http://9gag.com/gag/aByejoN)
- - 👉 [Livin the dream](http://9gag.com/gag/aoy7G0g)<!-- MEMES:END -->
+ - 💣 [Just give me the burger](http://9gag.com/gag/aByejoN)
+ - ⏩ [Livin the dream](http://9gag.com/gag/aoy7G0g)
+ - 👉 [Look safe](http://9gag.com/gag/aAy9Lmp)<!-- MEMES:END -->
 
 ---
 
