@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I nominate for new Queen, let&#39;s make it fappen](http://9gag.com/gag/aoy7nZX)
- - ⏩ [What?](http://9gag.com/gag/aQzjVVq)
- - 👉 [Switzerland ordered some Patriot system years ago. Now the US said they can&#39;t deliver them. So Switzerland said then we won&#39;t pay. The US have now seized the funds they paid for the F-35s &lpar;which they probably won&#39;t get as well&rpar; instead.](http://9gag.com/gag/an7odeV)<!-- MEMES:END -->
+ - 💣 [Very bold](http://9gag.com/gag/aD2vrW7)
+ - ⏩ [Probabilty 1/3](http://9gag.com/gag/azx3oAq)
+ - 👉 [Now THAT&#39;S clean magic!](http://9gag.com/gag/aByeNd1)<!-- MEMES:END -->
 
 ---
 
