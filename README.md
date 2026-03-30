@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Best space movie since interstellar](http://9gag.com/gag/ae9BqL5)
- - ⏩ [UK officer confiscated the national flag from woman because it&#39;s offensive](http://9gag.com/gag/aW4Xer2)
+ - ⏩ [Just give me the burger](http://9gag.com/gag/aByejoN)
  - 👉 [Just why](http://9gag.com/gag/amoZyWv)<!-- MEMES:END -->
 
 ---
