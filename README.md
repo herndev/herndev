@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence finally rolls out in China](https://appleinsider.com/articles/26/03/30/apple-intelligence-finally-rolls-out-in-china?utm_source=rss)
- - [Apple Intelligence is rolling out in China, according to user reports, after launching in the US in October 2024 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/260330/p38#a260330p38)
- - [Google TV Streamer still 20% off, but not for long!](https://www.androidauthority.com/google-tv-streamer-deal-14-3653239/)<!-- TECH:END -->
+ - [Big Spring Deal drops this high-end ASUS keyboard to record-low price!](https://www.androidauthority.com/asus-rog-strix-scope-ii-gaming-keyboard-deal-3653238/)
+ - [The first Apple Home Key-ready smart lock with UWB is cheaper during Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/903555/aqara-u400-apple-home-key-uwb-smart-lock-amazon-big-spring-sale-2026-deal)
+ - [The Galaxy Tab S11 Ultra’s Pro Keyboard somehow costs even more than we feared](https://www.androidauthority.com/galaxy-tab-s11-ultra-pro-keyboard-us-price-3653241/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
