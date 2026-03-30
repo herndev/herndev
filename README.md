@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Older Galaxy phones are now getting AirDrop support, but don’t celebrate yet](https://www.androidauthority.com/older-samsung-phones-airdrop-support-3652987/)
  - [Exclusive: Android could soon get its own AirDrop-style ‘tap to share’ feature](https://www.androidauthority.com/android-tap-to-share-quick-share-3652981/)
- - [Emails, texts, and NTSB reports show Waymo and an Austin school district struggled for months to train robotaxis to stop for school buses as required by law &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/260330/p3#a260330p3)
- - [Chinese photonic chipmaker Yuanjie reported 2025 revenue up 138.5% YoY to ~$86.99M, data center revenue up 719% to ~$56.89M, ahead of its April 1 Hong Kong IPO &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/260330/p2#a260330p2)<!-- TECH:END -->
+ - [Emails, texts, and NTSB reports show Waymo and an Austin school district struggled for months to train robotaxis to stop for school buses as required by law &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/260330/p3#a260330p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
