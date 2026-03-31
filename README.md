@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Micron shares closed down 10% on Monday and are now down 30% since Micron&#39;s blowout earnings report on March 18; Sandisk fell 7% and Western Digital dropped 9% &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260330/p43#a260330p43)
- - [Waiting for AirDrop on your Samsung phone? We may have good news for Galaxy A series users](https://www.androidauthority.com/samsung-galaxy-a-airdrop-quick-share-3653370/)
- - [Deal: The Samsung M7 monitor is impressive, large, and on sale!](https://www.androidauthority.com/samsung-43-inch-smart-monitor-m7-m70f-deal-3-3653237/)<!-- TECH:END -->
+ - [Social gaming startup Rec Room is shutting down its service on June 1, saying it could not find a path to profitability; it was valued at $3.5B in December 2021 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260330/p45#a260330p45)
+ - [Inside David Sacks&#39; new role shaping Trump&#39;s AI agenda; officials say Sriram Krishnan is taking on a position at the National Economic Council to focus on AI &lpar;Axios&rpar;](http://www.techmeme.com/260330/p44#a260330p44)
+ - [Google&#39;s Pixel 11 Might Look Familiar: Here&#39;s What Changed](https://www.cnet.com/tech/mobile/first-pixel-11-renders-look-familiar/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
