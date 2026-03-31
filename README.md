@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They really don&#39;t see the irony here do they](http://9gag.com/gag/aVv68by)
- - ⏩ [OSHA is calling](http://9gag.com/gag/abA8LNB)
- - 👉 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)<!-- MEMES:END -->
+ - 💣 [Pre smartphone game](http://9gag.com/gag/agmepQ1)
+ - ⏩ [Radical](http://9gag.com/gag/a2vXVqY)
+ - 👉 [OSHA is calling](http://9gag.com/gag/abA8LNB)<!-- MEMES:END -->
 
 ---
 
