@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung has a special, cheaper 128GB Galaxy S26, but there’s a catch](https://www.androidauthority.com/cheaper-samsung-galaxy-s26-128gb-3653424/)
- - [This messaging app wins on every front, except the one that matters](https://www.androidauthority.com/signal-vs-viber-vs-whatsapp-3653107/)
- - [Walmart’s next Onn device could replace your ageing Chromecast with Google TV](https://www.androidauthority.com/walmart-onn-4k-google-tv-stick-leak-3653410/)<!-- TECH:END -->
+ - [The Samsung Galaxy S26 Ultra gets its spark back, but I still want more](https://www.androidauthority.com/samsung-galaxy-s26-ultra-review-3652705/)
+ - [These 40 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History &lpar;2026&rpar;](https://www.wired.com/story/the-amazon-spring-sale-2026-2/)
+ - [Apple moves closer to encrypted RCS for Android-iPhone messaging](https://www.androidauthority.com/ios-26-5-beta-rcs-end-to-end-encryption-3653436/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
