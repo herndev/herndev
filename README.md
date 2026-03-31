@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
- - ⏩ [The Cycle](http://9gag.com/gag/aD2vqgG)
- - 👉 [Just motorbike things](http://9gag.com/gag/aW4XARd)<!-- MEMES:END -->
+ - 💣 [Radical](http://9gag.com/gag/a2vXVqY)
+ - ⏩ [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
+ - 👉 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)<!-- MEMES:END -->
 
 ---
 
