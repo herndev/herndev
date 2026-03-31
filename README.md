@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
- - ⏩ [Pre smartphone game](http://9gag.com/gag/agmepQ1)
- - 👉 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)<!-- MEMES:END -->
+ - 💣 [She just executed a turtle and called it saving](http://9gag.com/gag/aMVL62x)
+ - ⏩ [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
+ - 👉 [OSHA is calling](http://9gag.com/gag/abA8LNB)<!-- MEMES:END -->
 
 ---
 
