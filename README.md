@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
- - ⏩ [OSHA is calling](http://9gag.com/gag/abA8LNB)
+ - 💣 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
+ - ⏩ [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
  - 👉 [Don&#39;t do that don&#39;t do that!!](http://9gag.com/gag/an7oZPn)<!-- MEMES:END -->
 
 ---
