@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Cycle](http://9gag.com/gag/aD2vqgG)
- - ⏩ [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
- - 👉 [Pre smartphone game](http://9gag.com/gag/agmepQ1)<!-- MEMES:END -->
+ - 💣 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
+ - ⏩ [Just motorbike things](http://9gag.com/gag/aW4XARd)
+ - 👉 [The Cycle](http://9gag.com/gag/aD2vqgG)<!-- MEMES:END -->
 
 ---
 
