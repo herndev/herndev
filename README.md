@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Cycle](http://9gag.com/gag/aD2vqgG)
+ - 💣 [They really don&#39;t see the irony here do they](http://9gag.com/gag/aVv68by)
  - ⏩ [OSHA is calling](http://9gag.com/gag/abA8LNB)
- - 👉 [Denied](http://9gag.com/gag/amoZQPj)<!-- MEMES:END -->
+ - 👉 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)<!-- MEMES:END -->
 
 ---
 
