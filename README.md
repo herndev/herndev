@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ollama is supercharged by MLX&#39;s unified memory use on Apple Silicon](https://appleinsider.com/articles/26/03/31/ollama-is-supercharged-by-mlxs-unified-memory-use-on-apple-silicon?utm_source=rss)
- - [Netflix feels comfortable raising prices knowing customers can downgrade to its ad tier; in 2026, Netflix is on track to double 2025&#39;s $1.5B+ in ad sales &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260331/p20#a260331p20)
- - [Between Jobs](https://www.theverge.com/tech/897520/apple-without-steve-jobs-90s)<!-- TECH:END -->
+ - [AirPods Max 2 review: comfortable, excellent sound quality, and lots of new features, but retains the same design, pricey, and only one hearing health feature &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/260331/p30#a260331p30)
+ - [Instagram reaches an agreement with the MPA to cease using the PG-13 trademark in its Teen Accounts marketing, after a C&amp;D letter, and will add a disclaimer &lpar;New York Times&rpar;](http://www.techmeme.com/260331/p29#a260331p29)
+ - [Samsung rolls out blood pressure monitoring for Galaxy Watch 4 and newer models in the US, requiring a traditional upper-arm blood pressure cuff and a new app &lpar;Vanessa Hand Orellana/CNET&rpar;](http://www.techmeme.com/260331/p28#a260331p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
