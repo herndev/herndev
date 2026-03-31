@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California Gov. Gavin Newsom signs a first-of-its-kind executive order requiring safety and privacy guardrails from AI companies that contract with the state &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260330/p46#a260330p46)
- - [150 million users later, Roblox competitor Rec Room is shutting down](https://www.theverge.com/games/903885/150-million-users-later-roblox-competitor-rec-room-is-shutting-down)
- - [Aurora Borealis Watch: 15 States May Catch Glimpse of Northern Lights This Week](https://www.cnet.com/science/space/auroras-borealis-northern-lights-this-week/)<!-- TECH:END -->
+ - [AI coding agents will drastically alter both the practice and the economics of exploit development, automating the discovery of zero-day vulnerabilities &lpar;Thomas H. Ptacek/sockpuppet.org&rpar;](http://www.techmeme.com/260330/p47#a260330p47)
+ - [Meta will let you secretly watch Stories if you pay for Instagram Plus in limited test](https://www.androidauthority.com/instagram-plus-subscription-test-3653387/)
+ - [California Gov. Gavin Newsom signs a first-of-its-kind executive order requiring safety and privacy guardrails from AI companies that contract with the state &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260330/p46#a260330p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
