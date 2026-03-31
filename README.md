@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iran mobilizes its hackers to sow chaos, gather intel, and find targets; ex-CISA Director Chris Krebs says Iran is &quot;throwing everything they have at this&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260331/p10#a260331p10)
- - [SpaceX says it lost contact with a Starlink satellite after suffering an &quot;anomaly&quot;, following a similar incident in December; the satellite likely exploded &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/260331/p9#a260331p9)
- - [Want to ditch Google Workspace? Proton just launched a fully encrypted alternative](https://www.androidauthority.com/proton-workspace-and-meet-launched-3653420/)<!-- TECH:END -->
+ - [The UK CMA launches an investigation into Microsoft&#39;s business software unit to assess whether it should be designated with &quot;strategic market status&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260331/p15#a260331p15)
+ - [Google finally lets you ditch that embarrassing old Gmail username, here’s how to do it](https://www.androidauthority.com/change-google-account-gmail-username-usa-rollout-3653478/)
+ - [Vitesy Shelfy 2 Smart Fridge Purifier Review: Small Box, Big Promises](https://www.wired.com/review/vitesy-shelfy-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
