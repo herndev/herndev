@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Games Showcase 2026 Followed by Gears of War: E-Day Direct Airs June 7 – and Xbox Fanfest Returns](https://news.xbox.com/en-us/2026/03/30/xbox-games-showcase-2026-gears-of-war-e-day-direct/)
- - [Indie studio co-founder believes &#39;nobody cares about&#39; huge open worlds anymore instead devs should pick just one thing and do it &#39;exceptionally well&#39;](https://www.pcgamer.com/gaming-industry/indie-studio-co-founder-believes-nobody-cares-about-huge-open-worlds-anymore-instead-devs-should-pick-just-one-thing-and-do-it-exceptionally-well/)
- - [Jack Black would be up for playing a &#39;portly American&#39; if there&#39;s another live-action Yakuza movie: &#39;Sega, give me a jingle&#39;](https://www.pcgamer.com/games/rpg/jack-black-would-be-up-for-playing-a-portly-american-if-theres-another-live-action-yakuza-movie-sega-give-me-a-jingle/)<!-- GAME:END -->
+ - [Super Meat Boy 3D has no vibe](https://www.pcgamer.com/games/action/super-meat-boy-3d-has-no-vibe/)
+ - [Disney&#39;s AI Olaf Animatronic Malfunctions at Disneyland Paris Debut](https://www.polygon.com/disney-parks-ai-olaf-animatronic-malfunction/)
+ - [Clever WoW players exploited bugs and some poor little rats to try and kill a Midnight raid boss early, but Blizzard was one step ahead](https://www.pcgamer.com/games/world-of-warcraft/clever-wow-players-exploited-bugs-and-some-poor-little-rats-to-try-and-kill-a-midnight-raid-boss-early-but-blizzard-was-one-step-ahead/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
