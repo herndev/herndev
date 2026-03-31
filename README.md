@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future iPhones could feature a breathalyzer that spots high cholesterol](https://appleinsider.com/articles/26/03/31/future-iphones-could-feature-a-breathalyzer-that-spots-high-cholesterol?utm_source=rss)
- - [A global WTO ban on taxing digital streaming and downloads across national borders expired on March 30; negotiations are set to continue in Geneva this spring &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/260331/p41#a260331p41)
- - [AirPods Max 2 H2 chip upgrade leaves plenty of headroom for upgrades](https://appleinsider.com/articles/26/03/31/airpods-max-2-h2-chip-upgrade-leaves-plenty-of-headroom-for-upgrades?utm_source=rss)<!-- TECH:END -->
+ - [The latest Matter update improves camera streaming](https://www.theverge.com/tech/904361/matter-spec-update1-5-1-camera-video-streaming-heic-doorbell-chimes)
+ - [Tesla Says Its Robotaxis Are Sometimes Driven by Remote Humans](https://www.wired.com/story/tesla-says-its-robotaxis-are-sometimes-driven-by-humans/)
+ - [Iran warns major tech companies, including Apple, could become regional targets](https://appleinsider.com/articles/26/03/31/iran-warns-major-tech-companies-including-apple-could-become-regional-targets?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
