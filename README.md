@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: London-based chip startup Fractile is in talks to raise over $200M from Accel and others at a $1B valuation; Fractile raised a $15M seed round in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/260331/p2#a260331p2)
- - [Android Auto bug makes your signal bars vanish, but no need to panic just yet](https://www.androidauthority.com/android-auto-signal-strength-bug-3653399/)
- - [A look at Babel Audio, which pairs anonymous strangers to record their conversations, starting at $17/hour, and bundles those recordings into AI training data &lpar;Issie Lapowsky/Bloomberg&rpar;](http://www.techmeme.com/260331/p1#a260331p1)<!-- TECH:END -->
+ - [Google just made wireless emergency alerts way more useful on Android](https://www.androidauthority.com/wireless-emergency-alerts-map-view-android-3653406/)
+ - [T-Mobile Business Promo Codes and Deals](https://www.wired.com/story/t-mobile-business-promo-code/)
+ - [Litter-Robot Promo Codes and Deals: Up to $150 Off](https://www.wired.com/story/litter-robot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
