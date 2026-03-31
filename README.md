@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is your yearly reminder of the value a good nights sleep . 5 years since the passing of alleeenmaarjsfu. RIP fellow 9gagger .](http://9gag.com/gag/aQzjK2e)
- - ⏩ [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
- - 👉 [Don&#39;t do that don&#39;t do that!!](http://9gag.com/gag/an7oZPn)<!-- MEMES:END -->
+ - 💣 [I&#39;m just saying, it&#39;s not wrong](http://9gag.com/gag/aW4X5BA)
+ - ⏩ [LIFEGOAL](http://9gag.com/gag/aVv68p2)
+ - 👉 [My baby&#39;s growth chart vs corporate sales projections](http://9gag.com/gag/a7oxg6L)<!-- MEMES:END -->
 
 ---
 
