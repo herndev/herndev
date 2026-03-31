@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is what it is](http://9gag.com/gag/aAy978Z)
- - ⏩ [Radical](http://9gag.com/gag/a2vXVqY)
- - 👉 [Ctrl + shift + T works even if you accidentally closed down the entire browser](http://9gag.com/gag/agme9G6)<!-- MEMES:END -->
+ - 💣 [Lucky](http://9gag.com/gag/aoy7Gqn)
+ - ⏩ [Just why](http://9gag.com/gag/amoZyWv)
+ - 👉 [Just motorbike things](http://9gag.com/gag/aW4XARd)<!-- MEMES:END -->
 
 ---
 
