@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest Matter update improves camera streaming](https://www.theverge.com/tech/904361/matter-spec-update1-5-1-camera-video-streaming-heic-doorbell-chimes)
- - [Tesla Says Its Robotaxis Are Sometimes Driven by Remote Humans](https://www.wired.com/story/tesla-says-its-robotaxis-are-sometimes-driven-by-humans/)
- - [Iran warns major tech companies, including Apple, could become regional targets](https://appleinsider.com/articles/26/03/31/iran-warns-major-tech-companies-including-apple-could-become-regional-targets?utm_source=rss)<!-- TECH:END -->
+ - [Google attributes the supply chain attack on HTTP client Axios to a suspected North Korean threat actor it calls UNC1069 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260331/p46#a260331p46)
+ - [Our Favorite Affordable Air Purifier Is Temporarily Even Cheaper](https://www.wired.com/story/coway-airmega-mighty-deal-326/)
+ - [Hisense’s 75-inch U6 mini-LED TV is cheaper than its 65-inch model](https://www.theverge.com/gadgets/904372/hisense-u6-mini-led-tv-4k-amazon-big-spring-sale-2026-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
