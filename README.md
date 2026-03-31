@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Social gaming startup Rec Room is shutting down its service on June 1, saying it could not find a path to profitability; it was valued at $3.5B in December 2021 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260330/p45#a260330p45)
- - [Inside David Sacks&#39; new role shaping Trump&#39;s AI agenda; officials say Sriram Krishnan is taking on a position at the National Economic Council to focus on AI &lpar;Axios&rpar;](http://www.techmeme.com/260330/p44#a260330p44)
- - [Google&#39;s Pixel 11 Might Look Familiar: Here&#39;s What Changed](https://www.cnet.com/tech/mobile/first-pixel-11-renders-look-familiar/)<!-- TECH:END -->
+ - [California Gov. Gavin Newsom signs a first-of-its-kind executive order requiring safety and privacy guardrails from AI companies that contract with the state &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260330/p46#a260330p46)
+ - [150 million users later, Roblox competitor Rec Room is shutting down](https://www.theverge.com/games/903885/150-million-users-later-roblox-competitor-rec-room-is-shutting-down)
+ - [Aurora Borealis Watch: 15 States May Catch Glimpse of Northern Lights This Week](https://www.cnet.com/science/space/auroras-borealis-northern-lights-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
