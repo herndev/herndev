@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just made wireless emergency alerts way more useful on Android](https://www.androidauthority.com/wireless-emergency-alerts-map-view-android-3653406/)
- - [T-Mobile Business Promo Codes and Deals](https://www.wired.com/story/t-mobile-business-promo-code/)
- - [Litter-Robot Promo Codes and Deals: Up to $150 Off](https://www.wired.com/story/litter-robot-promo-code/)<!-- TECH:END -->
+ - [Walmart’s next Onn device could replace your ageing Chromecast with Google TV](https://www.androidauthority.com/walmart-onn-4k-google-tv-stick-leak-3653410/)
+ - [Official data shows India&#39;s smartphone exports hit $11B in H1 FY2026, up 55% YoY; analysts warn the Iran war could trigger a 22% to 25% drop in the coming weeks &lpar;Quratulain Rehbar/Nikkei Asia&rpar;](http://www.techmeme.com/260331/p3#a260331p3)
+ - [Google just made wireless emergency alerts way more useful on Android](https://www.androidauthority.com/wireless-emergency-alerts-map-view-android-3653406/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
