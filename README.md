@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best space movie since interstellar](http://9gag.com/gag/ae9BqL5)
- - ⏩ [Lucky](http://9gag.com/gag/aoy7Gqn)
+ - 💣 [Lucky](http://9gag.com/gag/aoy7Gqn)
+ - ⏩ [Radical](http://9gag.com/gag/a2vXVqY)
  - 👉 [Pre smartphone game](http://9gag.com/gag/agmepQ1)<!-- MEMES:END -->
 
 ---
