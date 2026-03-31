@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now use ChatGPT with Apple’s CarPlay](https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt)
- - [Snap shares climbed 14% on Tuesday after activist investor Irenic suggested changes to boost the stock&#39;s value 7x, such as cutting staff by 21% and ending Specs &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260331/p54#a260331p54)
- - [Yupp, which raised a $33M seed led by a16z crypto in 2024 for a crowdsourced AI model picker, shuts down, saying it didn&#39;t reach strong product-market fit &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260331/p53#a260331p53)<!-- TECH:END -->
+ - [You can grab a four-pack of Govee’s color-changing smart bulbs for just $27](https://www.theverge.com/gadgets/904698/govee-smart-a19-led-color-bulbs-amazon-big-spring-sale-2026-deal)
+ - [Samsung launches Hearapy, a free Android app to mitigate motion sickness by playing a 100Hz sine wave tone; a 60-second session can provide two hours of relief &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/260331/p58#a260331p58)
+ - [Google Photos tries to save you from accidental edits in its latest shakeup](https://www.androidauthority.com/google-photos-editing-tools-change-3653755/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
