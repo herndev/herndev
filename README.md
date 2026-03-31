@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Denied](http://9gag.com/gag/amoZQPj)
+ - 💣 [The Cycle](http://9gag.com/gag/aD2vqgG)
  - ⏩ [OSHA is calling](http://9gag.com/gag/abA8LNB)
- - 👉 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)<!-- MEMES:END -->
+ - 👉 [Denied](http://9gag.com/gag/amoZQPj)<!-- MEMES:END -->
 
 ---
 
