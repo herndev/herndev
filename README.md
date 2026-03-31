@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI coding agents will drastically alter both the practice and the economics of exploit development, automating the discovery of zero-day vulnerabilities &lpar;Thomas H. Ptacek/sockpuppet.org&rpar;](http://www.techmeme.com/260330/p47#a260330p47)
- - [Meta will let you secretly watch Stories if you pay for Instagram Plus in limited test](https://www.androidauthority.com/instagram-plus-subscription-test-3653387/)
- - [California Gov. Gavin Newsom signs a first-of-its-kind executive order requiring safety and privacy guardrails from AI companies that contract with the state &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/260330/p46#a260330p46)<!-- TECH:END -->
+ - [Android’s new developer verification rollout begins, sideloading changes are next](https://www.androidauthority.com/android-developer-verification-rollout-sideloading-flow-3653395/)
+ - [How to back up your iPhone &amp; iPad to your Mac before something goes wrong](https://appleinsider.com/inside/macos/tips/how-to-back-up-your-iphone-ipad-to-your-mac-before-something-goes-wrong?utm_source=rss)
+ - [Newsom Signs Executive Order Requiring AI Companies to Provide Safety, Privacy Guardrails](https://www.cnet.com/tech/newsom-signs-executive-order-requiring-ai-companies-to-provide-safety-privacy-guardrails/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
