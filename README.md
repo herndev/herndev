@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lucky](http://9gag.com/gag/aoy7Gqn)
- - ⏩ [Radical](http://9gag.com/gag/a2vXVqY)
- - 👉 [Pre smartphone game](http://9gag.com/gag/agmepQ1)<!-- MEMES:END -->
+ - 💣 [UK officer confiscated the national flag from woman because it&#39;s offensive](http://9gag.com/gag/aW4Xer2)
+ - ⏩ [She just executed a turtle and called it saving](http://9gag.com/gag/aMVL62x)
+ - 👉 [She ended up winning a Grammy for this song](http://9gag.com/gag/ae9BqGb)<!-- MEMES:END -->
 
 ---
 
