@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart’s next Onn device could replace your ageing Chromecast with Google TV](https://www.androidauthority.com/walmart-onn-4k-google-tv-stick-leak-3653410/)
- - [Official data shows India&#39;s smartphone exports hit $11B in H1 FY2026, up 55% YoY; analysts warn the Iran war could trigger a 22% to 25% drop in the coming weeks &lpar;Quratulain Rehbar/Nikkei Asia&rpar;](http://www.techmeme.com/260331/p3#a260331p3)
- - [Google just made wireless emergency alerts way more useful on Android](https://www.androidauthority.com/wireless-emergency-alerts-map-view-android-3653406/)<!-- TECH:END -->
+ - [Samsung has a special, cheaper 128GB Galaxy S26, but there’s a catch](https://www.androidauthority.com/cheaper-samsung-galaxy-s26-128gb-3653424/)
+ - [This messaging app wins on every front, except the one that matters](https://www.androidauthority.com/signal-vs-viber-vs-whatsapp-3653107/)
+ - [Walmart’s next Onn device could replace your ageing Chromecast with Google TV](https://www.androidauthority.com/walmart-onn-4k-google-tv-stick-leak-3653410/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
