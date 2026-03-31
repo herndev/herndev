@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Runway launches a $10M fund to invest in early-stage startups building across AI, media, and world simulation and a Builders program offering free API credits &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260331/p36#a260331p36)
- - [Pixel 11 Pro renders show off more of that new camera bar design](https://www.androidauthority.com/pixel-11-pro-renders-3653528/)
- - [Rounded chassis, tiny Dynamic Island expected for 20th anniversary iPhone](https://appleinsider.com/articles/26/03/31/rounded-chassis-tiny-dynamic-island-expected-for-20th-anniversary-iphone?utm_source=rss)<!-- TECH:END -->
+ - [A researcher finds that Anthropic&#39;s Claude Code CLI tool has had its full TypeScript source code inadvertently exposed through a misconfigured npm package &lpar;Guru Baran/Cyber Security News&rpar;](http://www.techmeme.com/260331/p38#a260331p38)
+ - [Meta launches new ‘prescription optimized’ smart glasses](https://www.theverge.com/tech/904020/meta-scriber-blayzer-prescription-smart-glasses)
+ - [Meta’s new Ray-Ban glasses aim to replace your regular prescription frames](https://www.androidauthority.com/meta-ray-ban-scriber-blayzer-prescription-smart-glasses-3653513/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
