@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Max 2 review: comfortable, excellent sound quality, and lots of new features, but retains the same design, pricey, and only one hearing health feature &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/260331/p30#a260331p30)
- - [Instagram reaches an agreement with the MPA to cease using the PG-13 trademark in its Teen Accounts marketing, after a C&amp;D letter, and will add a disclaimer &lpar;New York Times&rpar;](http://www.techmeme.com/260331/p29#a260331p29)
- - [Samsung rolls out blood pressure monitoring for Galaxy Watch 4 and newer models in the US, requiring a traditional upper-arm blood pressure cuff and a new app &lpar;Vanessa Hand Orellana/CNET&rpar;](http://www.techmeme.com/260331/p28#a260331p28)<!-- TECH:END -->
+ - [Runway launches a $10M fund to invest in early-stage startups building across AI, media, and world simulation and a Builders program offering free API credits &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260331/p36#a260331p36)
+ - [Pixel 11 Pro renders show off more of that new camera bar design](https://www.androidauthority.com/pixel-11-pro-renders-3653528/)
+ - [Rounded chassis, tiny Dynamic Island expected for 20th anniversary iPhone](https://appleinsider.com/articles/26/03/31/rounded-chassis-tiny-dynamic-island-expected-for-20th-anniversary-iphone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
