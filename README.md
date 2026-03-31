@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arc Raiders Clamoring for Attention quest walkthrough](https://www.polygon.com/arc-raiders-clamoring-for-attention-quest-walkthrough-emergency-siren-boombox-bus-horn/)
- - [Arc Raiders &#39;Dust on the Wires&#39; quest walkthrough](https://www.polygon.com/arc-raiders-dust-on-the-wires-quest-walkthrough-field-depot-raider-tower-scout-patrol/)
- - [Rec Room Shutting Down After 10 Years And 150 Million Players Because It Never Became ‘Profitable’](https://kotaku.com/rec-room-shutting-dow-10-years-150-million-players-never-profitable-2000683542)<!-- GAME:END -->
+ - [Avengers: Doomsday release date may change as Marvel appears spooked by ‘Dunesday’](https://www.polygon.com/avengers-doomsday-release-date-change-rumor-imax/)
+ - [Mario Galaxy Movie Reviews Say It’s Full Of Crowd-Pleasing Fan Service And Not Much Else](https://kotaku.com/mario-galaxy-movie-reviews-roundup-rotten-tomatoes-2000683645)
+ - [Special Donkey Kong Country SNES Cart Shows Up On Antiques Roadshow To Make You Feel Old](https://kotaku.com/special-donkey-kong-country-snes-cart-shows-up-on-antiques-roadshow-to-make-you-feel-old-2000683644)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
