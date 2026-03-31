@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA launches an investigation into Microsoft&#39;s business software unit to assess whether it should be designated with &quot;strategic market status&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260331/p15#a260331p15)
- - [Google finally lets you ditch that embarrassing old Gmail username, here’s how to do it](https://www.androidauthority.com/change-google-account-gmail-username-usa-rollout-3653478/)
- - [Vitesy Shelfy 2 Smart Fridge Purifier Review: Small Box, Big Promises](https://www.wired.com/review/vitesy-shelfy-2/)<!-- TECH:END -->
+ - [Ollama is supercharged by MLX&#39;s unified memory use on Apple Silicon](https://appleinsider.com/articles/26/03/31/ollama-is-supercharged-by-mlxs-unified-memory-use-on-apple-silicon?utm_source=rss)
+ - [Netflix feels comfortable raising prices knowing customers can downgrade to its ad tier; in 2026, Netflix is on track to double 2025&#39;s $1.5B+ in ad sales &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/260331/p20#a260331p20)
+ - [Between Jobs](https://www.theverge.com/tech/897520/apple-without-steve-jobs-90s)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
