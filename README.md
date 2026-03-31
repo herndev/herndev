@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [She just executed a turtle and called it saving](http://9gag.com/gag/aMVL62x)
- - ⏩ [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
- - 👉 [OSHA is calling](http://9gag.com/gag/abA8LNB)<!-- MEMES:END -->
+ - ⏩ [Just motorbike things](http://9gag.com/gag/aW4XARd)
+ - 👉 [Just why](http://9gag.com/gag/amoZyWv)<!-- MEMES:END -->
 
 ---
 
