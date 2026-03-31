@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
- - ⏩ [Pre smartphone game](http://9gag.com/gag/agmepQ1)
- - 👉 [Radical](http://9gag.com/gag/a2vXVqY)<!-- MEMES:END -->
+ - 💣 [Denied](http://9gag.com/gag/amoZQPj)
+ - ⏩ [OSHA is calling](http://9gag.com/gag/abA8LNB)
+ - 👉 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)<!-- MEMES:END -->
 
 ---
 
