@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy S26 Ultra gets its spark back, but I still want more](https://www.androidauthority.com/samsung-galaxy-s26-ultra-review-3652705/)
- - [These 40 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History &lpar;2026&rpar;](https://www.wired.com/story/the-amazon-spring-sale-2026-2/)
- - [Apple moves closer to encrypted RCS for Android-iPhone messaging](https://www.androidauthority.com/ios-26-5-beta-rcs-end-to-end-encryption-3653436/)<!-- TECH:END -->
+ - [Iran mobilizes its hackers to sow chaos, gather intel, and find targets; ex-CISA Director Chris Krebs says Iran is &quot;throwing everything they have at this&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260331/p10#a260331p10)
+ - [SpaceX says it lost contact with a Starlink satellite after suffering an &quot;anomaly&quot;, following a similar incident in December; the satellite likely exploded &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/260331/p9#a260331p9)
+ - [Want to ditch Google Workspace? Proton just launched a fully encrypted alternative](https://www.androidauthority.com/proton-workspace-and-meet-launched-3653420/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
