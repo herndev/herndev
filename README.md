@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She just executed a turtle and called it saving](http://9gag.com/gag/aMVL62x)
- - ⏩ [Just motorbike things](http://9gag.com/gag/aW4XARd)
- - 👉 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)<!-- MEMES:END -->
+ - 💣 [I love to have the patience of this driver](http://9gag.com/gag/aVv65Q2)
+ - ⏩ [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
+ - 👉 [She just executed a turtle and called it saving](http://9gag.com/gag/aMVL62x)<!-- MEMES:END -->
 
 ---
 
