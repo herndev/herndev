@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&gt;_&lt;](http://9gag.com/gag/a5QY9PO)
- - ⏩ [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
- - 👉 [UK officer confiscated the national flag from woman because it&#39;s offensive](http://9gag.com/gag/aW4Xer2)<!-- MEMES:END -->
+ - 💣 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
+ - ⏩ [Pre smartphone game](http://9gag.com/gag/agmepQ1)
+ - 👉 [Radical](http://9gag.com/gag/a2vXVqY)<!-- MEMES:END -->
 
 ---
 
