@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pre smartphone game](http://9gag.com/gag/agmepQ1)
- - ⏩ [Radical](http://9gag.com/gag/a2vXVqY)
- - 👉 [OSHA is calling](http://9gag.com/gag/abA8LNB)<!-- MEMES:END -->
+ - 💣 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
+ - ⏩ [The Cycle](http://9gag.com/gag/aD2vqgG)
+ - 👉 [Just motorbike things](http://9gag.com/gag/aW4XARd)<!-- MEMES:END -->
 
 ---
 
