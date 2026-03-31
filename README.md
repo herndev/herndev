@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
- - ⏩ [Just motorbike things](http://9gag.com/gag/aW4XARd)
- - 👉 [Teeta](http://9gag.com/gag/aZZYX3X)<!-- MEMES:END -->
+ - 💣 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
+ - ⏩ [OSHA is calling](http://9gag.com/gag/abA8LNB)
+ - 👉 [Don&#39;t do that don&#39;t do that!!](http://9gag.com/gag/an7oZPn)<!-- MEMES:END -->
 
 ---
 
