@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A researcher finds that Anthropic&#39;s Claude Code CLI tool has had its full TypeScript source code inadvertently exposed through a misconfigured npm package &lpar;Guru Baran/Cyber Security News&rpar;](http://www.techmeme.com/260331/p38#a260331p38)
- - [Meta launches new ‘prescription optimized’ smart glasses](https://www.theverge.com/tech/904020/meta-scriber-blayzer-prescription-smart-glasses)
- - [Meta’s new Ray-Ban glasses aim to replace your regular prescription frames](https://www.androidauthority.com/meta-ray-ban-scriber-blayzer-prescription-smart-glasses-3653513/)<!-- TECH:END -->
+ - [Future iPhones could feature a breathalyzer that spots high cholesterol](https://appleinsider.com/articles/26/03/31/future-iphones-could-feature-a-breathalyzer-that-spots-high-cholesterol?utm_source=rss)
+ - [A global WTO ban on taxing digital streaming and downloads across national borders expired on March 30; negotiations are set to continue in Geneva this spring &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/260331/p41#a260331p41)
+ - [AirPods Max 2 H2 chip upgrade leaves plenty of headroom for upgrades](https://appleinsider.com/articles/26/03/31/airpods-max-2-h2-chip-upgrade-leaves-plenty-of-headroom-for-upgrades?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
