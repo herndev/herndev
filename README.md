@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iranian media: Iran arrested 46 people allegedly in a network selling Starlink terminals and seized 139 terminals; there are an estimated 50K terminals in Iran &lpar;Bloomberg&rpar;](http://www.techmeme.com/260331/p48#a260331p48)
- - [JBL Charge 6 deal: Our favorite Bluetooth speaker is back on sale!](https://www.androidauthority.com/jbl-charge-6-deal-4-3653642/)
- - [The Super Mario Galaxy Movie is beautiful but a little too busy](https://www.theverge.com/entertainment/904033/the-super-mario-galaxy-movie-review)<!-- TECH:END -->
+ - [Apple at 50: Paul McCartney sound check and the employee gift bag](https://appleinsider.com/articles/26/03/31/apple-at-50-paul-mccartney-sound-check-and-the-employee-gift-bag?utm_source=rss)
+ - [Apple TV HD and iPad mini 4 are now on Apple&#39;s &#39;obsolete products&#39; list](https://appleinsider.com/articles/26/03/31/apple-tv-hd-and-ipad-mini-4-are-now-on-apples-obsolete-products-list?utm_source=rss)
+ - [Samsung’s new app claims to alleviate motion sickness using sound](https://www.theverge.com/tech/904579/samsung-hearapy-mobile-app-galaxy-buds-motion-sickness-symptoms)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
