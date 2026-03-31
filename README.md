@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Radical](http://9gag.com/gag/a2vXVqY)
- - ⏩ [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
- - 👉 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)<!-- MEMES:END -->
+ - 💣 [Fact omitted from title.](http://9gag.com/gag/aVv69ZK)
+ - ⏩ [Pre smartphone game](http://9gag.com/gag/agmepQ1)
+ - 👉 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)<!-- MEMES:END -->
 
 ---
 
