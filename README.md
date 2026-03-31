@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avengers: Doomsday release date may change as Marvel appears spooked by ‘Dunesday’](https://www.polygon.com/avengers-doomsday-release-date-change-rumor-imax/)
- - [Mario Galaxy Movie Reviews Say It’s Full Of Crowd-Pleasing Fan Service And Not Much Else](https://kotaku.com/mario-galaxy-movie-reviews-roundup-rotten-tomatoes-2000683645)
- - [Special Donkey Kong Country SNES Cart Shows Up On Antiques Roadshow To Make You Feel Old](https://kotaku.com/special-donkey-kong-country-snes-cart-shows-up-on-antiques-roadshow-to-make-you-feel-old-2000683644)<!-- GAME:END -->
+ - [Aether &amp; Iron review](https://www.pcgamer.com/games/rpg/aether-and-iron-review/)
+ - [The Call of Duty schism: Why fans are trapped in a forever war with each other](https://www.pcgamer.com/games/call-of-duty/the-call-of-duty-schism-why-fans-are-trapped-in-a-forever-war-with-each-other/)
+ - [The Super Mario Galaxy Movie&#39;s credits scenes, explained](https://www.polygon.com/super-mario-galaxy-movie-post-credits-scene-explained/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
