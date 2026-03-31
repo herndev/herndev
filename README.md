@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lucky](http://9gag.com/gag/aoy7Gqn)
- - ⏩ [Just why](http://9gag.com/gag/amoZyWv)
- - 👉 [Just motorbike things](http://9gag.com/gag/aW4XARd)<!-- MEMES:END -->
+ - 💣 [She just executed a turtle and called it saving](http://9gag.com/gag/aMVL62x)
+ - ⏩ [Just motorbike things](http://9gag.com/gag/aW4XARd)
+ - 👉 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)<!-- MEMES:END -->
 
 ---
 
