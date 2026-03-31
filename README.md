@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google attributes the supply chain attack on HTTP client Axios to a suspected North Korean threat actor it calls UNC1069 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260331/p46#a260331p46)
- - [Our Favorite Affordable Air Purifier Is Temporarily Even Cheaper](https://www.wired.com/story/coway-airmega-mighty-deal-326/)
- - [Hisense’s 75-inch U6 mini-LED TV is cheaper than its 65-inch model](https://www.theverge.com/gadgets/904372/hisense-u6-mini-led-tv-4k-amazon-big-spring-sale-2026-deal)<!-- TECH:END -->
+ - [Iranian media: Iran arrested 46 people allegedly in a network selling Starlink terminals and seized 139 terminals; there are an estimated 50K terminals in Iran &lpar;Bloomberg&rpar;](http://www.techmeme.com/260331/p48#a260331p48)
+ - [JBL Charge 6 deal: Our favorite Bluetooth speaker is back on sale!](https://www.androidauthority.com/jbl-charge-6-deal-4-3653642/)
+ - [The Super Mario Galaxy Movie is beautiful but a little too busy](https://www.theverge.com/entertainment/904033/the-super-mario-galaxy-movie-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
