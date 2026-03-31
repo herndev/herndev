@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Meat Boy 3D has no vibe](https://www.pcgamer.com/games/action/super-meat-boy-3d-has-no-vibe/)
- - [Disney&#39;s AI Olaf Animatronic Malfunctions at Disneyland Paris Debut](https://www.polygon.com/disney-parks-ai-olaf-animatronic-malfunction/)
- - [Clever WoW players exploited bugs and some poor little rats to try and kill a Midnight raid boss early, but Blizzard was one step ahead](https://www.pcgamer.com/games/world-of-warcraft/clever-wow-players-exploited-bugs-and-some-poor-little-rats-to-try-and-kill-a-midnight-raid-boss-early-but-blizzard-was-one-step-ahead/)<!-- GAME:END -->
+ - [Arc Raiders Clamoring for Attention quest walkthrough](https://www.polygon.com/arc-raiders-clamoring-for-attention-quest-walkthrough-emergency-siren-boombox-bus-horn/)
+ - [Arc Raiders &#39;Dust on the Wires&#39; quest walkthrough](https://www.polygon.com/arc-raiders-dust-on-the-wires-quest-walkthrough-field-depot-raider-tower-scout-patrol/)
+ - [Rec Room Shutting Down After 10 Years And 150 Million Players Because It Never Became ‘Profitable’](https://kotaku.com/rec-room-shutting-dow-10-years-150-million-players-never-profitable-2000683542)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
