@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
- - ⏩ [Just motorbike things](http://9gag.com/gag/aW4XARd)
- - 👉 [The Cycle](http://9gag.com/gag/aD2vqgG)<!-- MEMES:END -->
+ - 💣 [&gt;_&lt;](http://9gag.com/gag/a5QY9PO)
+ - ⏩ [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
+ - 👉 [UK officer confiscated the national flag from woman because it&#39;s offensive](http://9gag.com/gag/aW4Xer2)<!-- MEMES:END -->
 
 ---
 
