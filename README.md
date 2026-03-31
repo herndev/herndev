@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can grab a four-pack of Govee’s color-changing smart bulbs for just $27](https://www.theverge.com/gadgets/904698/govee-smart-a19-led-color-bulbs-amazon-big-spring-sale-2026-deal)
- - [Samsung launches Hearapy, a free Android app to mitigate motion sickness by playing a 100Hz sine wave tone; a 60-second session can provide two hours of relief &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/260331/p58#a260331p58)
- - [Google Photos tries to save you from accidental edits in its latest shakeup](https://www.androidauthority.com/google-photos-editing-tools-change-3653755/)<!-- TECH:END -->
+ - [Sources: Microsoft is in talks with Chevron and investment fund Engine No. 1 over a $7B Texas power plant that would initially generate 2.5 GW of electricity &lpar;Bloomberg&rpar;](http://www.techmeme.com/260331/p61#a260331p61)
+ - [Sources: threat actors stole Cisco source code by breaching its internal development environment using credentials from a recent Trivy supply chain attack &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260331/p60#a260331p60)
+ - [Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent](https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
