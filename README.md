@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s new developer verification rollout begins, sideloading changes are next](https://www.androidauthority.com/android-developer-verification-rollout-sideloading-flow-3653395/)
- - [How to back up your iPhone &amp; iPad to your Mac before something goes wrong](https://appleinsider.com/inside/macos/tips/how-to-back-up-your-iphone-ipad-to-your-mac-before-something-goes-wrong?utm_source=rss)
- - [Newsom Signs Executive Order Requiring AI Companies to Provide Safety, Privacy Guardrails](https://www.cnet.com/tech/newsom-signs-executive-order-requiring-ai-companies-to-provide-safety-privacy-guardrails/)<!-- TECH:END -->
+ - [Sources: London-based chip startup Fractile is in talks to raise over $200M from Accel and others at a $1B valuation; Fractile raised a $15M seed round in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/260331/p2#a260331p2)
+ - [Android Auto bug makes your signal bars vanish, but no need to panic just yet](https://www.androidauthority.com/android-auto-signal-strength-bug-3653399/)
+ - [A look at Babel Audio, which pairs anonymous strangers to record their conversations, starting at $17/hour, and bundles those recordings into AI training data &lpar;Issie Lapowsky/Bloomberg&rpar;](http://www.techmeme.com/260331/p1#a260331p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
