@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
+ - 💣 [A guide for 9gag](http://9gag.com/gag/aKGMM41)
  - ⏩ [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
- - 👉 [Teeta](http://9gag.com/gag/aZZYX3X)<!-- MEMES:END -->
+ - 👉 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)<!-- MEMES:END -->
 
 ---
 
