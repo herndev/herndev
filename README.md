@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Mushroom Coffee, WIRED Tested and Reviewed &lpar;2026&rpar;](https://www.wired.com/gallery/best-mushroom-coffee/)
- - [The Pixel 11 Pro may finally kill the temperature sensor — and I’m fine with it](https://www.androidauthority.com/google-pixel-11-pro-no-temperature-sensor-good-why-3653548/)
- - [Samsung may have a mysterious new pair of Galaxy Buds on the way](https://www.androidauthority.com/samsung-galaxy-buds-able-3653700/)<!-- TECH:END -->
+ - [Sources: amid the Iran war, Asian bankers say rising power prices and energy security are becoming a bigger consideration in data center financing decisions &lpar;Bloomberg&rpar;](http://www.techmeme.com/260401/p13#a260401p13)
+ - [This is the best Nothing Phone 4a Pro alternative according to our readers](https://www.androidauthority.com/best-nothing-phone-4a-pro-alternative-poll-results-3653037/)
+ - [Taylor Lorenz’s Screen Time Is Almost 17 Hours a Day](https://www.wired.com/story/user-behavior-taylor-lorenz/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
