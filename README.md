@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
- - ⏩ [The Great Russia](http://9gag.com/gag/aGyQQDZ)
- - 👉 [Remember this face... Sam Altman will be the face of the biggest financial crisis in modern history.](http://9gag.com/gag/a34OOP1)<!-- MEMES:END -->
+ - ⏩ [Poor Ron](http://9gag.com/gag/a87ggjY)
+ - 👉 [A guide for 9gag](http://9gag.com/gag/aKGMM41)<!-- MEMES:END -->
 
 ---
 
