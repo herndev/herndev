@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m just saying, it&#39;s not wrong](http://9gag.com/gag/aW4X5BA)
- - ⏩ [LIFEGOAL](http://9gag.com/gag/aVv68p2)
- - 👉 [My baby&#39;s growth chart vs corporate sales projections](http://9gag.com/gag/a7oxg6L)<!-- MEMES:END -->
+ - 💣 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
+ - ⏩ [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
+ - 👉 [Just motorbike things](http://9gag.com/gag/aW4XARd)<!-- MEMES:END -->
 
 ---
 
