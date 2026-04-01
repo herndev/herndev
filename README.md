@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cognichip, which is building an AI model for chip design, raised a $60M Series A led by Seligman Ventures, with participation from new board member Lip-Bu Tan &lpar;Tim Fernholz/TechCrunch&rpar;](http://www.techmeme.com/260401/p34#a260401p34)
- - [Teenager’s X-rated Gemini Live encounter gets whole family’s Google accounts banned](https://www.androidauthority.com/explicit-gemini-live-3654114/)
- - [All iPad Air 3 variants are now on Apple&#39;s &#39;vintage products&#39; list](https://appleinsider.com/articles/26/04/01/all-ipad-air-3-variants-are-now-on-apples-vintage-products-list?utm_source=rss)<!-- TECH:END -->
+ - [New T-Mobile 5G backup internet rules are a win for some but a loss for others](https://www.androidauthority.com/t-mobile5g-home-backup-internet-change-3654161/)
+ - [Google questions family’s X-rated Gemini account-ban story: It doesn’t work that way](https://www.androidauthority.com/google-account-bans-3654171/)
+ - [Solana-based DeFi platform Drift warns users about an &quot;active attack&quot; on its protocol; Arkham data said over $250M had moved from Drift to an interim wallet &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/260401/p35#a260401p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
