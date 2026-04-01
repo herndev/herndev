@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No, there isn&#39;t going to be a new lovecraftian Nier game with a caked-up tentacle robot, despite cope to the contrary](https://www.pcgamer.com/games/rpg/no-there-isnt-going-to-be-a-new-lovecraftian-nier-game-with-a-caked-up-tentacle-robot-despite-cope-to-the-contrary/)
- - [Hozy review: The latest decorating game like Unpacking is all I can think about now](https://www.polygon.com/hozy-game-review-pc/)
- - [Players’ Choice: Vote for March 2026’s best new game](https://blog.playstation.com/2026/04/01/players-choice-vote-for-march-2026s-best-new-game/)<!-- GAME:END -->
+ - [Blizzard is hiring for an &#39;open-world shooter&#39; using Unreal Engine, which is more evidence that a new Starcraft game could be on its way](https://www.pcgamer.com/gaming-industry/blizzard-is-hiring-for-an-open-world-shooter-using-unreal-engine-which-is-more-evidence-that-a-new-starcraft-game-could-be-on-its-way/)
+ - [Instead of making a joke, Valve celebrates April Fool&#39;s Day by rolling out a Steam storefront &#39;refresh&#39; that makes it look much nicer](https://www.pcgamer.com/games/instead-of-making-a-joke-valve-celebrates-april-fools-day-by-rolling-out-a-steam-storefront-refresh-that-makes-it-look-much-nicer/)
+ - [Diablo 4&#39;s &#39;April Fowl&#39;s Day&#39; joke is a big chicken boss who drops a cluckton of unique loot, like the &#39;Cluckonomicon&#39; and the &#39;Eggcecutioner&#39;](https://www.pcgamer.com/games/rpg/diablo-4s-april-fowls-day-joke-is-a-big-chicken-boss-who-drops-a-cluckton-of-unique-loot-like-the-cluckonomicon-and-the-eggcecutioner/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
