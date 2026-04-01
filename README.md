@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&#39;s Claude Code leak reveals its &quot;Kairos&quot; updates, including letting Claude work in the background and using a &quot;dream mode&quot; to consolidate its memories &lpar;The Information&rpar;](http://www.techmeme.com/260401/p22#a260401p22)
- - [Best MacBooks &lpar;2026&rpar;: Neo, Air, or Pro?](https://www.wired.com/story/which-macbook-should-you-buy/)
- - [A YouTuber channeled his distaste for the PS5’s design into slick console covers](https://www.theverge.com/tech/904086/boxplates-ps5-pro-slim-console-covers-hands-on)<!-- TECH:END -->
+ - [Source: AWS&#39; operation in Bahrain was damaged after an Iranian strike; Bahrain earlier said the civil defence force was &quot;extinguishing a fire in a facility&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260401/p25#a260401p25)
+ - [Computing would be totally different had Apple not been formed 50 years ago, today](https://appleinsider.com/articles/26/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_source=rss)
+ - [These Raspberry Pi price hikes are no joke](https://www.theverge.com/gadgets/905189/raspberry-pi-price-increases-pi-4-3gb)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
