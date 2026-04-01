@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Best OLED TV Is $300 Off](https://www.wired.com/story/samsung-s95f-tv-deal-326/)
- - [Sources: the FBI has declared a recent China-linked hack of a system, which contained pen register and trap and trace surveillance returns, a &quot;major incident&quot; &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260401/p33#a260401p33)
- - [Google Photos finally arrives on Samsung TVs, but not all models](https://www.androidauthority.com/samsung-tv-google-photos-integration-3654119/)<!-- TECH:END -->
+ - [Cognichip, which is building an AI model for chip design, raised a $60M Series A led by Seligman Ventures, with participation from new board member Lip-Bu Tan &lpar;Tim Fernholz/TechCrunch&rpar;](http://www.techmeme.com/260401/p34#a260401p34)
+ - [Teenager’s X-rated Gemini Live encounter gets whole family’s Google accounts banned](https://www.androidauthority.com/explicit-gemini-live-3654114/)
+ - [All iPad Air 3 variants are now on Apple&#39;s &#39;vintage products&#39; list](https://appleinsider.com/articles/26/04/01/all-ipad-air-3-variants-are-now-on-apples-vintage-products-list?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
