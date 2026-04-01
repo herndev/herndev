@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: amid the Iran war, Asian bankers say rising power prices and energy security are becoming a bigger consideration in data center financing decisions &lpar;Bloomberg&rpar;](http://www.techmeme.com/260401/p13#a260401p13)
- - [This is the best Nothing Phone 4a Pro alternative according to our readers](https://www.androidauthority.com/best-nothing-phone-4a-pro-alternative-poll-results-3653037/)
- - [Taylor Lorenz’s Screen Time Is Almost 17 Hours a Day](https://www.wired.com/story/user-behavior-taylor-lorenz/)<!-- TECH:END -->
+ - [Global VC investment hit a record $297B in Q1 2026, up 150% YoY, with AI startups capturing 81% of the funding; just four companies raised 64% of the total &lpar;Gené Teare/Crunchbase News&rpar;](http://www.techmeme.com/260401/p16#a260401p16)
+ - [Gemini Live just made news briefings way less boring](https://www.androidauthority.com/news-summaries-update-gemini-live-3653960/)
+ - [Apple wants you to take a walk through 50 years, Picasso style](https://appleinsider.com/articles/26/04/01/apple-wants-you-to-take-a-walk-through-50-years-picasso-style?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
