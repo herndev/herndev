@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
- - ⏩ [Poor Ron](http://9gag.com/gag/a87ggjY)
- - 👉 [A guide for 9gag](http://9gag.com/gag/aKGMM41)<!-- MEMES:END -->
+ - 💣 [A guide for 9gag](http://9gag.com/gag/aKGMM41)
+ - ⏩ [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
+ - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
 
 ---
 
