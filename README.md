@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Aether &amp; Iron review](https://www.pcgamer.com/games/rpg/aether-and-iron-review/)
- - [The Call of Duty schism: Why fans are trapped in a forever war with each other](https://www.pcgamer.com/games/call-of-duty/the-call-of-duty-schism-why-fans-are-trapped-in-a-forever-war-with-each-other/)
- - [The Super Mario Galaxy Movie&#39;s credits scenes, explained](https://www.polygon.com/super-mario-galaxy-movie-post-credits-scene-explained/)<!-- GAME:END -->
+ - [Amazon says its Fallout series has now been watched by 100 million people, &#39;with season two now joining season one as two of our top four biggest seasons we&#39;ve ever launched&#39;](https://www.pcgamer.com/movies-tv/amazon-says-its-fallout-series-has-now-been-watched-by-100-million-people-with-season-two-now-joining-season-one-as-two-of-our-top-four-biggest-seasons-weve-ever-launched/)
+ - [My 5 favorite cozy games in Steam&#39;s House and Home sale](https://www.pcgamer.com/games/my-5-favorite-cozy-games-in-steams-house-and-home-sale/)
+ - [Super Mario Galaxy Movie reviews are in and, surprise: it&#39;s execrable churn](https://www.pcgamer.com/movies-tv/super-mario-galaxy-movie-reviews-are-in-and-surprise-its-execrable-churn/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
