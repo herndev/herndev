@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
- - ⏩ [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
- - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
+ - 💣 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
+ - ⏩ [Reality of incel](http://9gag.com/gag/aXPO1Og)
+ - 👉 [The Great Russia](http://9gag.com/gag/aGyQQDZ)<!-- MEMES:END -->
 
 ---
 
