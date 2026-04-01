@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Paradigm, a major investor in Kalshi, is building its own prediction markets trading terminal that will cater to professional traders and market makers &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260401/p28#a260401p28)
- - [Samsung update failure leaves users without clean clothes](https://www.androidauthority.com/samsung-washer-update-3654034/)
- - [That cheap Lenovo tablet you were eyeing might not be so cheap anymore](https://www.androidauthority.com/lenovo-android-tablets-price-hike-3654057/)<!-- TECH:END -->
+ - [The Shokz OpenRun Pro 2 are now at their lowest price in months](https://www.theverge.com/gadgets/905292/shokz-openrun-pro-2-ember-mug-2-deal-sale)
+ - [Raspberry Pi raises prices by $11.25 to $150 citing memory prices, after hikes in December and February, and unveils a 3GB Raspberry Pi 4 model for $83.75 &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260401/p30#a260401p30)
+ - [No joke: Sony could make some drastic changes to the Xperia 1 VIII’s design](https://www.androidauthority.com/sony-xperia-1-viii-renders-3654052/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
