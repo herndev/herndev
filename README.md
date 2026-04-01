@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: AWS&#39; operation in Bahrain was damaged after an Iranian strike; Bahrain earlier said the civil defence force was &quot;extinguishing a fire in a facility&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260401/p25#a260401p25)
- - [Computing would be totally different had Apple not been formed 50 years ago, today](https://appleinsider.com/articles/26/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_source=rss)
- - [These Raspberry Pi price hikes are no joke](https://www.theverge.com/gadgets/905189/raspberry-pi-price-increases-pi-4-3gb)<!-- TECH:END -->
+ - [Sources: Paradigm, a major investor in Kalshi, is building its own prediction markets trading terminal that will cater to professional traders and market makers &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/260401/p28#a260401p28)
+ - [Samsung update failure leaves users without clean clothes](https://www.androidauthority.com/samsung-washer-update-3654034/)
+ - [That cheap Lenovo tablet you were eyeing might not be so cheap anymore](https://www.androidauthority.com/lenovo-android-tablets-price-hike-3654057/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
