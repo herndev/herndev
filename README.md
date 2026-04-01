@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robotaxi Outage in China Leaves Passengers Stranded on Highways](https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/)
- - [Depthfirst, which aims to build a &quot;general security intelligence&quot; for finding and fixing company vulnerabilities, raised an $80M Series B at a $580M valuation &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/260331/p67#a260331p67)
- - [The best deals to shop during the last few hours of Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)<!-- TECH:END -->
+ - [Apple says it will push out rare &quot;backported&quot; patches for iOS 18 to protect users from DarkSword, a hack that silently takes over iPhones running the older OS &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260331/p70#a260331p70)
+ - [Audit your subscriptions this April Fool&#39;s and stop wasting money](https://appleinsider.com/inside/app-store/tips/audit-your-subscriptions-this-april-fools-and-stop-wasting-money?utm_source=rss)
+ - [This is Google’s new screenless Fitbit band to take on Whoop](https://www.androidauthority.com/google-screenless-fitbit-whoop-rival-3653884/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
