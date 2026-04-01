@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global VC investment hit a record $297B in Q1 2026, up 150% YoY, with AI startups capturing 81% of the funding; just four companies raised 64% of the total &lpar;Gené Teare/Crunchbase News&rpar;](http://www.techmeme.com/260401/p16#a260401p16)
- - [Gemini Live just made news briefings way less boring](https://www.androidauthority.com/news-summaries-update-gemini-live-3653960/)
- - [Apple wants you to take a walk through 50 years, Picasso style](https://appleinsider.com/articles/26/04/01/apple-wants-you-to-take-a-walk-through-50-years-picasso-style?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic is racing to contain the fallout after accidentally leaking Claude Code source code, issuing copyright takedown requests to remove 8,000+ copies &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/260401/p17#a260401p17)
+ - [15 Best Office Chairs of 2026— I’ve Tested 65 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
+ - [Users staying on iOS 18 will get a patch for the worst iPhone attack vector we&#39;ve ever seen](https://appleinsider.com/articles/26/04/01/users-staying-on-ios-18-will-get-a-patch-for-the-worst-iphone-attack-vector-weve-ever-seen?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
