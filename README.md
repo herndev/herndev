@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Super Micro co-founder Yih-Shyan Liaw pleads not guilty to US federal charges of helping smuggle billions of dollars&#39; worth of Nvidia-powered servers to China &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/260401/p31#a260401p31)
- - [Everything is iPhone now](https://www.theverge.com/tech/905398/apple-iphone-anniversary-jobs-release)
- - [April Fools’ Day 2026: the best and cringiest pranks](https://www.theverge.com/tldr/904346/april-fools-day-2026-pranks-jokes-best-worst)<!-- TECH:END -->
+ - [The Artemis Moon base project is legally dubious](https://www.theverge.com/science/905406/artemis-ii-moon-base-law)
+ - [Hasbro faces weeks of issues following major cyberattack and data breach](https://appleinsider.com/articles/26/04/01/hasbro-faces-weeks-of-issues-following-major-cyberattack-and-data-breach?utm_source=rss)
+ - [Samsung Movingstyle M7 Smart Monitor drops to its cheapest price ever](https://www.androidauthority.com/samsung-movingstyle-m7-smart-monitor-deal-3654111/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
