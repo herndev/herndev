@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft is in talks with Chevron and investment fund Engine No. 1 over a $7B Texas power plant that would initially generate 2.5 GW of electricity &lpar;Bloomberg&rpar;](http://www.techmeme.com/260331/p61#a260331p61)
- - [Sources: threat actors stole Cisco source code by breaching its internal development environment using credentials from a recent Trivy supply chain attack &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/260331/p60#a260331p60)
- - [Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent](https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak)<!-- TECH:END -->
+ - [NYC Mayor Zohran Mamdani allows city agencies to use TikTok, with some restrictions, reversing a 2023 ban his predecessor enacted over data security concerns &lpar;Chris Sommerfeldt/Politico&rpar;](http://www.techmeme.com/260331/p65#a260331p65)
+ - [The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal)
+ - [G-Raid Project 2 review: High-quality enterprise storage](https://appleinsider.com/articles/25/10/05/sandisk-professional-g-raid-project-2-review-high-quality-enterprise-storage?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
