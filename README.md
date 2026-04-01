@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New T-Mobile 5G backup internet rules are a win for some but a loss for others](https://www.androidauthority.com/t-mobile5g-home-backup-internet-change-3654161/)
- - [Google questions family’s X-rated Gemini account-ban story: It doesn’t work that way](https://www.androidauthority.com/google-account-bans-3654171/)
- - [Solana-based DeFi platform Drift warns users about an &quot;active attack&quot; on its protocol; Arkham data said over $250M had moved from Drift to an interim wallet &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/260401/p35#a260401p35)<!-- TECH:END -->
+ - [Sources: Amazon is in talks to acquire Globalstar to bolster its low Earth orbit satellite business; Apple&#39;s 20% stake in Globalstar is a complicating factor &lpar;Financial Times&rpar;](http://www.techmeme.com/260401/p36#a260401p36)
+ - [Hot deal: Samsung Galaxy Watch ultra &lpar;2025&rpar; price drops by 53%!](https://www.androidauthority.com/samsung-galaxy-watch-ultra-2025-deal-4-3654108/)
+ - [NASA launches four astronauts toward the Moon on the Artemis II mission](https://www.theverge.com/science/904458/nasa-artemis-ii-mission-moon-astronauts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
