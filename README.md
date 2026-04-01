@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An emulator inside your emulator? Dolphin just got Game Boy Player support.](https://www.androidauthority.com/dolphin-game-boy-player-support-3653927/)
- - [5 of the best new Android apps you need to try this April](https://www.androidauthority.com/best-new-android-apps-games-april-2026-3653008/)
- - [Malta is opposing EU plans to centralize crypto supervision under ESMA, seeing it as a politically motivated assault on its success in attracting crypto firms &lpar;Laura Noonan/Bloomberg&rpar;](http://www.techmeme.com/260401/p10#a260401p10)<!-- TECH:END -->
+ - [The Best Mushroom Coffee, WIRED Tested and Reviewed &lpar;2026&rpar;](https://www.wired.com/gallery/best-mushroom-coffee/)
+ - [The Pixel 11 Pro may finally kill the temperature sensor — and I’m fine with it](https://www.androidauthority.com/google-pixel-11-pro-no-temperature-sensor-good-why-3653548/)
+ - [Samsung may have a mysterious new pair of Galaxy Buds on the way](https://www.androidauthority.com/samsung-galaxy-buds-able-3653700/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
