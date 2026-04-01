@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
- - ⏩ [Just motorbike things](http://9gag.com/gag/aW4XARd)
- - 👉 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)<!-- MEMES:END -->
+ - 💣 [LIFEGOAL](http://9gag.com/gag/aVv68p2)
+ - ⏩ [Hairy](http://9gag.com/gag/adBzwdM)
+ - 👉 [Old meme](http://9gag.com/gag/a87gNr1)<!-- MEMES:END -->
 
 ---
 
