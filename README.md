@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Pakistan Virtual Assets Regulatory Authority Chairman Bilal Bin Saqib, who has used crypto diplomacy to help Pakistan win over President Trump &lpar;Faseeh Mangi/Bloomberg&rpar;](http://www.techmeme.com/260401/p7#a260401p7)
- - [A top phone maker just announced an Android umbrella with a 4K display, cameras, and thrusters!](https://www.androidauthority.com/oppo-find-u-smart-umbrella-3653907/)
- - [An interview with Galen Buckwalter, a BCI recipient in a Caltech brain implant study, on his recent ability to use the implant to produce musical tones &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/260401/p6#a260401p6)<!-- TECH:END -->
+ - [Malta is opposing EU plans to centralize crypto supervision under ESMA, seeing it as a politically motivated assault on its success in attracting crypto firms &lpar;Laura Noonan/Bloomberg&rpar;](http://www.techmeme.com/260401/p10#a260401p10)
+ - [It’s not just you: Google Fi subscribers report mobile data issues](https://www.androidauthority.com/google-fi-mobile-data-sim-issues-3653900/)
+ - [South Korean trade data: chip shipments hit a record-high value of $32.83B in March 2026, up 151.4% YoY, pushing total exports to a record $86.13B, up 48.3% YoY &lpar;Steven Borowiec/Nikkei Asia&rpar;](http://www.techmeme.com/260401/p9#a260401p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
