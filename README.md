@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
- - ⏩ [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
- - 👉 [Just motorbike things](http://9gag.com/gag/aW4XARd)<!-- MEMES:END -->
+ - 💣 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
+ - ⏩ [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
+ - 👉 [Reality of incel](http://9gag.com/gag/aXPO1Og)<!-- MEMES:END -->
 
 ---
 
