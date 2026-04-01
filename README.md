@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)
- - ⏩ [Reality of incel](http://9gag.com/gag/aXPO1Og)
- - 👉 [The Great Russia](http://9gag.com/gag/aGyQQDZ)<!-- MEMES:END -->
+ - 💣 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
+ - ⏩ [The Great Russia](http://9gag.com/gag/aGyQQDZ)
+ - 👉 [Remember this face... Sam Altman will be the face of the biggest financial crisis in modern history.](http://9gag.com/gag/a34OOP1)<!-- MEMES:END -->
 
 ---
 
