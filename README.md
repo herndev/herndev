@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon says its Fallout series has now been watched by 100 million people, &#39;with season two now joining season one as two of our top four biggest seasons we&#39;ve ever launched&#39;](https://www.pcgamer.com/movies-tv/amazon-says-its-fallout-series-has-now-been-watched-by-100-million-people-with-season-two-now-joining-season-one-as-two-of-our-top-four-biggest-seasons-weve-ever-launched/)
- - [My 5 favorite cozy games in Steam&#39;s House and Home sale](https://www.pcgamer.com/games/my-5-favorite-cozy-games-in-steams-house-and-home-sale/)
- - [Super Mario Galaxy Movie reviews are in and, surprise: it&#39;s execrable churn](https://www.pcgamer.com/movies-tv/super-mario-galaxy-movie-reviews-are-in-and-surprise-its-execrable-churn/)<!-- GAME:END -->
+ - [Minecraft Sulfur Cube: Everything you need to know about the game&#39;s newest multifunctional mob](https://www.pcgamer.com/games/survival-crafting/minecraft-sulfur-cube-everything-you-need-to-know-about-the-games-newest-multifunctional-mob/)
+ - [The latest Nvidia App beta update adds DLSS 4.5 Dynamic Multi Frame Generation support and an intriguing Auto Shader Compilation feature to the green team suite](https://www.pcgamer.com/hardware/graphics-cards/the-latest-nvidia-app-beta-update-adds-dlss-4-5-dynamic-multi-frame-generation-support-and-an-intriguing-auto-shader-compilation-feature-to-the-green-team-suite/)
+ - [A Steam game for the sickos who like organizing their collections](https://www.polygon.com/steam-boxroom-gaming-collection-organize-chill-house-home-sale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
