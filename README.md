@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: half of Asia&#39;s 10 most volatile stocks are recent AI IPOs, including China&#39;s Moore Threads and MiniMax, driven by thin institutional ownership &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/260401/p5#a260401p5)
- - [OpenAI says it is generating $2B in monthly revenue, with enterprise accounting for 40%+ of it, and is on track to reach parity with consumer by the end of 2026 &lpar;OpenAI&rpar;](http://www.techmeme.com/260401/p4#a260401p4)
- - [A suspected system failure caused a number of Baidu robotaxis to stop across Wuhan, trapping passengers and reportedly causing traffic disruptions and crashes &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/260401/p3#a260401p3)<!-- TECH:END -->
+ - [A profile of Pakistan Virtual Assets Regulatory Authority Chairman Bilal Bin Saqib, who has used crypto diplomacy to help Pakistan win over President Trump &lpar;Faseeh Mangi/Bloomberg&rpar;](http://www.techmeme.com/260401/p7#a260401p7)
+ - [A top phone maker just announced an Android umbrella with a 4K display, cameras, and thrusters!](https://www.androidauthority.com/oppo-find-u-smart-umbrella-3653907/)
+ - [An interview with Galen Buckwalter, a BCI recipient in a Caltech brain implant study, on his recent ability to use the implant to produce musical tones &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/260401/p6#a260401p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
