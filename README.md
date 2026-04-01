@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Sulfur Cube: Everything you need to know about the game&#39;s newest multifunctional mob](https://www.pcgamer.com/games/survival-crafting/minecraft-sulfur-cube-everything-you-need-to-know-about-the-games-newest-multifunctional-mob/)
- - [The latest Nvidia App beta update adds DLSS 4.5 Dynamic Multi Frame Generation support and an intriguing Auto Shader Compilation feature to the green team suite](https://www.pcgamer.com/hardware/graphics-cards/the-latest-nvidia-app-beta-update-adds-dlss-4-5-dynamic-multi-frame-generation-support-and-an-intriguing-auto-shader-compilation-feature-to-the-green-team-suite/)
- - [A Steam game for the sickos who like organizing their collections](https://www.polygon.com/steam-boxroom-gaming-collection-organize-chill-house-home-sale/)<!-- GAME:END -->
+ - [No, there isn&#39;t going to be a new lovecraftian Nier game with a caked-up tentacle robot, despite cope to the contrary](https://www.pcgamer.com/games/rpg/no-there-isnt-going-to-be-a-new-lovecraftian-nier-game-with-a-caked-up-tentacle-robot-despite-cope-to-the-contrary/)
+ - [Hozy review: The latest decorating game like Unpacking is all I can think about now](https://www.polygon.com/hozy-game-review-pc/)
+ - [Players’ Choice: Vote for March 2026’s best new game](https://blog.playstation.com/2026/04/01/players-choice-vote-for-march-2026s-best-new-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
