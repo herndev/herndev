@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
- - ⏩ [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
- - 👉 [Reality of incel](http://9gag.com/gag/aXPO1Og)<!-- MEMES:END -->
+ - 💣 [One of the best cartoon series out there](http://9gag.com/gag/agmewz6)
+ - ⏩ [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)
+ - 👉 [A guide for 9gag](http://9gag.com/gag/aKGMM41)<!-- MEMES:END -->
 
 ---
 
