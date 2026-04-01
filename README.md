@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Malta is opposing EU plans to centralize crypto supervision under ESMA, seeing it as a politically motivated assault on its success in attracting crypto firms &lpar;Laura Noonan/Bloomberg&rpar;](http://www.techmeme.com/260401/p10#a260401p10)
- - [It’s not just you: Google Fi subscribers report mobile data issues](https://www.androidauthority.com/google-fi-mobile-data-sim-issues-3653900/)
- - [South Korean trade data: chip shipments hit a record-high value of $32.83B in March 2026, up 151.4% YoY, pushing total exports to a record $86.13B, up 48.3% YoY &lpar;Steven Borowiec/Nikkei Asia&rpar;](http://www.techmeme.com/260401/p9#a260401p9)<!-- TECH:END -->
+ - [An emulator inside your emulator? Dolphin just got Game Boy Player support.](https://www.androidauthority.com/dolphin-game-boy-player-support-3653927/)
+ - [5 of the best new Android apps you need to try this April](https://www.androidauthority.com/best-new-android-apps-games-april-2026-3653008/)
+ - [Malta is opposing EU plans to centralize crypto supervision under ESMA, seeing it as a politically motivated assault on its success in attracting crypto firms &lpar;Laura Noonan/Bloomberg&rpar;](http://www.techmeme.com/260401/p10#a260401p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
