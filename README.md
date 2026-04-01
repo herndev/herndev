@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic is racing to contain the fallout after accidentally leaking Claude Code source code, issuing copyright takedown requests to remove 8,000+ copies &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/260401/p17#a260401p17)
- - [15 Best Office Chairs of 2026— I’ve Tested 65 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [Users staying on iOS 18 will get a patch for the worst iPhone attack vector we&#39;ve ever seen](https://appleinsider.com/articles/26/04/01/users-staying-on-ios-18-will-get-a-patch-for-the-worst-iphone-attack-vector-weve-ever-seen?utm_source=rss)<!-- TECH:END -->
+ - [Today is the final day to save up to $150 on a PS5 before the price goes up](https://www.theverge.com/gadgets/904614/playstation-5-ps5-pro-digital-edition-refurbished-deal-sale-price-increase)
+ - [Intel agrees to pay $14.2B to repurchase Apollo&#39;s 49% stake in the Fab 34 joint venture in Leixlip, Ireland, and plans to issue $6.5B in new debt to fund it &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260401/p19#a260401p19)
+ - [Gmail’s new AI Inbox is finally here, but only if you pay $250 a month](https://www.androidauthority.com/gmail-ai-inbox-beta-rollout-google-ai-ultra-plan-3653991/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
