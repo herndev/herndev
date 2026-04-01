@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A guide for 9gag](http://9gag.com/gag/aKGMM41)
- - ⏩ [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
- - 👉 [Sweet home Alabama](http://9gag.com/gag/a1m6nWb)<!-- MEMES:END -->
+ - 💣 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
+ - ⏩ [Just motorbike things](http://9gag.com/gag/aW4XARd)
+ - 👉 [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)<!-- MEMES:END -->
 
 ---
 
