@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC Mayor Zohran Mamdani allows city agencies to use TikTok, with some restrictions, reversing a 2023 ban his predecessor enacted over data security concerns &lpar;Chris Sommerfeldt/Politico&rpar;](http://www.techmeme.com/260331/p65#a260331p65)
- - [The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal)
- - [G-Raid Project 2 review: High-quality enterprise storage](https://appleinsider.com/articles/25/10/05/sandisk-professional-g-raid-project-2-review-high-quality-enterprise-storage?utm_source=rss)<!-- TECH:END -->
+ - [Robotaxi Outage in China Leaves Passengers Stranded on Highways](https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/)
+ - [Depthfirst, which aims to build a &quot;general security intelligence&quot; for finding and fixing company vulnerabilities, raised an $80M Series B at a $580M valuation &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/260331/p67#a260331p67)
+ - [The best deals to shop during the last few hours of Amazon’s Big Spring Sale](https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
