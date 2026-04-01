@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says it will push out rare &quot;backported&quot; patches for iOS 18 to protect users from DarkSword, a hack that silently takes over iPhones running the older OS &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260331/p70#a260331p70)
- - [Audit your subscriptions this April Fool&#39;s and stop wasting money](https://appleinsider.com/inside/app-store/tips/audit-your-subscriptions-this-april-fools-and-stop-wasting-money?utm_source=rss)
- - [This is Google’s new screenless Fitbit band to take on Whoop](https://www.androidauthority.com/google-screenless-fitbit-whoop-rival-3653884/)<!-- TECH:END -->
+ - [Pixel 10 series may lock you out of downgrades with a future Android update](https://www.androidauthority.com/google-pixel-10-anti-rollback-protection-update-3653896/)
+ - [Perplexity faces a proposed class action lawsuit alleging it shared users&#39; personal data with Meta and Google even in Incognito mode, violating CA privacy laws &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/260331/p71#a260331p71)
+ - [Computing would be totally different had Apple not been formed 50 years ago, today](https://appleinsider.com/articles/26/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
