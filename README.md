@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10 series may lock you out of downgrades with a future Android update](https://www.androidauthority.com/google-pixel-10-anti-rollback-protection-update-3653896/)
- - [Perplexity faces a proposed class action lawsuit alleging it shared users&#39; personal data with Meta and Google even in Incognito mode, violating CA privacy laws &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/260331/p71#a260331p71)
- - [Computing would be totally different had Apple not been formed 50 years ago, today](https://appleinsider.com/articles/26/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_source=rss)<!-- TECH:END -->
+ - [Analysis: half of Asia&#39;s 10 most volatile stocks are recent AI IPOs, including China&#39;s Moore Threads and MiniMax, driven by thin institutional ownership &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/260401/p5#a260401p5)
+ - [OpenAI says it is generating $2B in monthly revenue, with enterprise accounting for 40%+ of it, and is on track to reach parity with consumer by the end of 2026 &lpar;OpenAI&rpar;](http://www.techmeme.com/260401/p4#a260401p4)
+ - [A suspected system failure caused a number of Baidu robotaxis to stop across Wuhan, trapping passengers and reportedly causing traffic disruptions and crashes &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/260401/p3#a260401p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
