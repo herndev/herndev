@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
- - ⏩ [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
+ - 💣 [Isn&#39;t she right?](http://9gag.com/gag/ae9BzAv)
+ - ⏩ [Teeta](http://9gag.com/gag/aZZYX3X)
  - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
 
 ---
