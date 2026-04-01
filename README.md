@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Shokz OpenRun Pro 2 are now at their lowest price in months](https://www.theverge.com/gadgets/905292/shokz-openrun-pro-2-ember-mug-2-deal-sale)
- - [Raspberry Pi raises prices by $11.25 to $150 citing memory prices, after hikes in December and February, and unveils a 3GB Raspberry Pi 4 model for $83.75 &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/260401/p30#a260401p30)
- - [No joke: Sony could make some drastic changes to the Xperia 1 VIII’s design](https://www.androidauthority.com/sony-xperia-1-viii-renders-3654052/)<!-- TECH:END -->
+ - [Super Micro co-founder Yih-Shyan Liaw pleads not guilty to US federal charges of helping smuggle billions of dollars&#39; worth of Nvidia-powered servers to China &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/260401/p31#a260401p31)
+ - [Everything is iPhone now](https://www.theverge.com/tech/905398/apple-iphone-anniversary-jobs-release)
+ - [April Fools’ Day 2026: the best and cringiest pranks](https://www.theverge.com/tldr/904346/april-fools-day-2026-pranks-jokes-best-worst)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
