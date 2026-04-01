@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today is the final day to save up to $150 on a PS5 before the price goes up](https://www.theverge.com/gadgets/904614/playstation-5-ps5-pro-digital-edition-refurbished-deal-sale-price-increase)
- - [Intel agrees to pay $14.2B to repurchase Apollo&#39;s 49% stake in the Fab 34 joint venture in Leixlip, Ireland, and plans to issue $6.5B in new debt to fund it &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260401/p19#a260401p19)
- - [Gmail’s new AI Inbox is finally here, but only if you pay $250 a month](https://www.androidauthority.com/gmail-ai-inbox-beta-rollout-google-ai-ultra-plan-3653991/)<!-- TECH:END -->
+ - [Anthropic&#39;s Claude Code leak reveals its &quot;Kairos&quot; updates, including letting Claude work in the background and using a &quot;dream mode&quot; to consolidate its memories &lpar;The Information&rpar;](http://www.techmeme.com/260401/p22#a260401p22)
+ - [Best MacBooks &lpar;2026&rpar;: Neo, Air, or Pro?](https://www.wired.com/story/which-macbook-should-you-buy/)
+ - [A YouTuber channeled his distaste for the PS5’s design into slick console covers](https://www.theverge.com/tech/904086/boxplates-ps5-pro-slim-console-covers-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
