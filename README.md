@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Artemis Moon base project is legally dubious](https://www.theverge.com/science/905406/artemis-ii-moon-base-law)
- - [Hasbro faces weeks of issues following major cyberattack and data breach](https://appleinsider.com/articles/26/04/01/hasbro-faces-weeks-of-issues-following-major-cyberattack-and-data-breach?utm_source=rss)
- - [Samsung Movingstyle M7 Smart Monitor drops to its cheapest price ever](https://www.androidauthority.com/samsung-movingstyle-m7-smart-monitor-deal-3654111/)<!-- TECH:END -->
+ - [Samsung’s Best OLED TV Is $300 Off](https://www.wired.com/story/samsung-s95f-tv-deal-326/)
+ - [Sources: the FBI has declared a recent China-linked hack of a system, which contained pen register and trap and trace surveillance returns, a &quot;major incident&quot; &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/260401/p33#a260401p33)
+ - [Google Photos finally arrives on Samsung TVs, but not all models](https://www.androidauthority.com/samsung-tv-google-photos-integration-3654119/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
