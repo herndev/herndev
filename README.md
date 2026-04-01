@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zoro got lost and ended up on my wall again](http://9gag.com/gag/axyrKoK)
- - ⏩ [LIFEGOAL](http://9gag.com/gag/aVv68p2)
- - 👉 [Hairy](http://9gag.com/gag/adBzwdM)<!-- MEMES:END -->
+ - 💣 [What&#39;s her secret to a stable relationship?](http://9gag.com/gag/aqyEMGQ)
+ - ⏩ [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
+ - 👉 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)<!-- MEMES:END -->
 
 ---
 
