@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s her secret to a stable relationship?](http://9gag.com/gag/aqyEMGQ)
+ - 💣 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
  - ⏩ [Italian teaching English in Japan](http://9gag.com/gag/an7oZ7q)
- - 👉 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)<!-- MEMES:END -->
+ - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
 
 ---
 
