@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [A guide for 9gag](http://9gag.com/gag/aKGMM41)
  - ⏩ [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
- - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
+ - 👉 [Remember this face... Sam Altman will be the face of the biggest financial crisis in modern history.](http://9gag.com/gag/a34OOP1)<!-- MEMES:END -->
 
 ---
 
