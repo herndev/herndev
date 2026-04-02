@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A guide for 9gag](http://9gag.com/gag/aKGMM41)
- - ⏩ [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
- - 👉 [Remember this face... Sam Altman will be the face of the biggest financial crisis in modern history.](http://9gag.com/gag/a34OOP1)<!-- MEMES:END -->
+ - 💣 [Reality of incel](http://9gag.com/gag/aXPO1Og)
+ - ⏩ [Ten years and you are pro.](http://9gag.com/gag/aMVL5WA)
+ - 👉 [Richest man in the world](http://9gag.com/gag/aqyEEbZ)<!-- MEMES:END -->
 
 ---
 
