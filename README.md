@@ -40,8 +40,8 @@
 
 <!-- TECH:START -->
  - [Crypto asset manager CoinShares began trading on the Nasdaq Wednesday, marking its entry into US public markets after its $1.2B SPAC merger with Vine Hill &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/260401/p44#a260401p44)
- - [Treeline, which is building an AI and software-first alternative to legacy corporate IT systems, raised a $25M Series A led by Andreessen Horowitz &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260401/p43#a260401p43)
- - [Tim Cook reflects on 50 years of Apple, Steve Jobs&#39; legacy, reaffirming the company&#39;s values, working with a &quot;very accessible&quot; Trump administration, and more &lpar;Ryan D&#39;Agostino/Esquire&rpar;](http://www.techmeme.com/260401/p42#a260401p42)<!-- TECH:END -->
+ - [Liftoff: NASA&#39;s Artemis II Is in Space, the First Human Trip to the Moon in 50 Years](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
+ - [Larger, More Spacious 2027 Kia Seltos Debuts With New Hybrid Variant](https://www.cnet.com/roadshow/pictures/2027-kia-seltos-debuts-combustion-hybrid-variants/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
