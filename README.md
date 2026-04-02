@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
+ - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
  - ⏩ [My mind is blown.](http://9gag.com/gag/aryLLQ6)
- - 👉 [Reality of incel](http://9gag.com/gag/aXPO1Og)<!-- MEMES:END -->
+ - 👉 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)<!-- MEMES:END -->
 
 ---
 
