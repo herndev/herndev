@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
- - ⏩ [C. Can&#39;t tell](http://9gag.com/gag/aYQ00QV)
- - 👉 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)<!-- MEMES:END -->
+ - 💣 [Richest man in the world](http://9gag.com/gag/aqyEEbZ)
+ - ⏩ [A guide for 9gag](http://9gag.com/gag/aKGMM41)
+ - 👉 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ayNKje8)<!-- MEMES:END -->
 
 ---
 
