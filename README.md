@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some deaths hurt more than others...](http://9gag.com/gag/avyjK6M)
- - ⏩ [Smile](http://9gag.com/gag/aLnEEqP)
- - 👉 [Relatable](http://9gag.com/gag/amoZeWy)<!-- MEMES:END -->
+ - 💣 [Smile](http://9gag.com/gag/aLnEEqP)
+ - ⏩ [Relatable](http://9gag.com/gag/amoZeWy)
+ - 👉 [Hope you brought a change of underwear](http://9gag.com/gag/a0e3yoq)<!-- MEMES:END -->
 
 ---
 
