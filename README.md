@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Gemma 4, its &quot;most intelligent&quot; open model family, purpose-built for advanced reasoning and agentic workflows, under an Apache 2.0 license &lpar;The Keyword&rpar;](http://www.techmeme.com/260402/p18#a260402p18)
- - [Flipboard just launched Surf, its new social app and feed reader](https://www.theverge.com/tech/905929/flipboard-surf-fediverse-launch)
- - [Google is turning video creation into a one-click experience with latest Vids updates](https://www.androidauthority.com/google-vids-latest-upgrades-3654492/)<!-- TECH:END -->
+ - [Cursor Launches a New AI Agent Experience to Take on Claude Code and Codex](https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/)
+ - [Expecto Pixtronum! Google’s going to Hogwarts for upcoming Pixel themes](https://www.androidauthority.com/harry-potter-pixel-themes-3654404/)
+ - [Flipboard launches Surf, an app for creating custom feeds from Mastodon, Threads, Bluesky, RSS, podcasts, and YouTube, after over a year in beta &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/260402/p20#a260402p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
