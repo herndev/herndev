@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Samsung TV is getting a massive upgrade for free with Google Cast](https://www.androidauthority.com/old-samsung-tv-getting-google-cast-3654364/)
- - [Best Lego Gifts for Brick Builders &lpar;2026&rpar;: Smart Bricks, Video Games, and More](https://www.wired.com/gallery/gifts-for-lego-lovers/)
- - [A New Implant Aims to Rewire Stroke Patients’ Brains](https://www.wired.com/story/a-new-implant-aims-to-rewire-the-brain-to-help-stroke-patients/)<!-- TECH:END -->
+ - [Samsung DeX or Pixel’s Desktop mode? Survey reveals an surprising favorite](https://www.androidauthority.com/samsung-dex-or-pixels-desktop-mode-survey-reveals-an-surprising-favorite-3654306/)
+ - [Rising gas prices are good news for EV sales, for now](https://www.theverge.com/transportation/905309/rising-gas-prices-are-good-news-for-ev-sales-for-now)
+ - [Android could extend its lead on notification management over iOS with Notification Rules](https://www.androidauthority.com/android-notification-rules-apk-teardown-3654377/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
