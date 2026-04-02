@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A whistleblower alleges Delve pitched a modified copy of open-source no-code tool SimStudio as its own, a practice that could violate the software&#39;s license &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260401/p40#a260401p40)
- - [In a joint filing, Elon Musk and the US SEC say they are ready to move toward a trial over Musk&#39;s alleged failure to disclose his Twitter stake in 2022 &lpar;Nicola M White/Bloomberg&rpar;](http://www.techmeme.com/260401/p39#a260401p39)
- - [Google increases the storage of its $19.99/month AI Pro subscription plan to 5TB, up from 2TB, at no additional cost &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260401/p38#a260401p38)<!-- TECH:END -->
+ - [Treeline, which is building an AI and software-first alternative to legacy corporate IT systems, raised a $25M Series A led by Andreessen Horowitz &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260401/p43#a260401p43)
+ - [Tim Cook reflects on 50 years of Apple, Steve Jobs&#39; legacy, reaffirming the company&#39;s values, working with a &quot;very accessible&quot; Trump administration, and more &lpar;Ryan D&#39;Agostino/Esquire&rpar;](http://www.techmeme.com/260401/p42#a260401p42)
+ - [Artemis II Mission Launches Successfully](https://www.wired.com/story/artemis-ii-moon-mission-launches-successfully/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
