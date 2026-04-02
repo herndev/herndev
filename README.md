@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A guide for 9gag](http://9gag.com/gag/aKGMM41)
- - ⏩ [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
- - 👉 [Two towers](http://9gag.com/gag/aNDbbxv)<!-- MEMES:END -->
+ - 💣 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
+ - ⏩ [A guide for 9gag](http://9gag.com/gag/aKGMM41)
+ - 👉 [The Great Russia](http://9gag.com/gag/aGyQQDZ)<!-- MEMES:END -->
 
 ---
 
