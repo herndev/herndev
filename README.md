@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 11 Pro XL renders show Google going all-in with new camera bar](https://www.androidauthority.com/pixel-11-pro-xl-renders-3654017/)
- - [Tesla’s sales recover slightly, but the trend lines are all bad](https://www.theverge.com/transportation/905811/tesla-q1-2026-sales-deliveries-elon-musk)
- - [A jury says Meta and Google hurt a kid. What now?](https://www.theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230)<!-- TECH:END -->
+ - [Apple&#39;s brand-new M5 MacBook Air drops to record low price on Amazon](https://appleinsider.com/articles/26/04/02/apples-brand-new-m5-macbook-air-drops-to-record-low-price-on-amazon?utm_source=rss)
+ - [Samsung announces 2026 Frame TVs and the Pro cost less than last year’s](https://www.theverge.com/tech/905652/samsung-announces-2026-frame-and-oled-tvs)
+ - [The boring, insidious world of the womanosphere](https://www.theverge.com/policy/905871/usha-vance-podcast-storytime-second-lady-katie-miller)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
