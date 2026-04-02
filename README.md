@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mchose G3 V2 review](https://www.pcgamer.com/hardware/gaming-mice/mchose-g3-v2-review/)
- - [Last Of Us Online Dev Says It Was Around ‘80 Percent’ Complete Before Its ‘Soul-Crushing’ Cancellation](https://kotaku.com/last-of-us-online-naughty-dog-canceled-vinit-agarwal-2000684224)
- - [Guardians of the Galaxy is the Mass Effect game you didn&#39;t know you were missing](https://www.polygon.com/guardians-galaxy-mass-effect-steam-sale/)<!-- GAME:END -->
+ - [Daffy Duck returns to shorts in &#39;Daffy Season&#39; for Annecy Festival](https://www.polygon.com/daffy-duck-new-looney-tunes-short-annecy-festival/)
+ - [Parasite director Bong Joon Ho is making his first animated movie](https://www.polygon.com/ally-first-look-bong-joon-ho-animated-feature/)
+ - [Free Play Days – Find Your Assassin: The Perfect Assassin’s Creed Game Based on Your Playstyle](https://news.xbox.com/en-us/2026/04/02/free-play-days-find-your-perfect-assassins-creed-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
