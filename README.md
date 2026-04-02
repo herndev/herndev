@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI acquires tech news show TBPN; Fidji Simo says the move aims to &quot;help create a space for a real, constructive conversation about the changes AI creates&quot; &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/260402/p23#a260402p23)
- - [Can’t make it to Coachella? YouTube’s upgraded livestream experience has you covered](https://www.androidauthority.com/youtube-coachella-2026-livestream-3654512/)
- - [OpenAI just bought TBPN](https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn)<!-- TECH:END -->
+ - [Trump fires attorney general Pam Bondi.](https://www.theverge.com/policy/905961/pam-bondi-fired)
+ - [Here’s when Samsung’s Galaxy S25 One UI 8.5 beta may finally end](https://www.androidauthority.com/galaxy-s25-one-ui-betas-3654526/)
+ - [Mental health startup Kintsugi is shutting down and open-sourcing its AI tech to detect depression and anxiety, after failing to secure FDA clearance &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260402/p24#a260402p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
