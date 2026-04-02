@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
- - ⏩ [The Great Russia](http://9gag.com/gag/aGyQQDZ)
- - 👉 [C. Can&#39;t tell](http://9gag.com/gag/aYQ00QV)<!-- MEMES:END -->
+ - 💣 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
+ - ⏩ [C. Can&#39;t tell](http://9gag.com/gag/aYQ00QV)
+ - 👉 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)<!-- MEMES:END -->
 
 ---
 
