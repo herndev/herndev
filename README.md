@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ANBERNIC’s screen-flipping handheld finally has a name](https://www.androidauthority.com/anbernic-rg-rotate-3654625/)
- - [PSA: Anyone with a link can view your Granola notes by default](https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa)
- - [Reddit is moving on from r/all](https://www.theverge.com/tech/906314/reddit-r-all-deprecating)<!-- TECH:END -->
+ - [Sources: Meta has told members of its Oversight Board that it may stop funding the board after 2028, though eliminating all funding is not its preferred option &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260402/p30#a260402p30)
+ - [Want Fashion-Forward Smart Glasses? This Company Could Easily Make It So](https://www.cnet.com/tech/mobile/nothing-reportedly-making-smart-glasses-2027-launch-commentary/)
+ - [Amazon adds a 3.5% fuel and logistics surcharge to fulfillment fees for US and Canadian third-party sellers from April 17, as the Iran war drives up oil prices &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260402/p29#a260402p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
