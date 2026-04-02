@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ayNKje8)
- - ⏩ [Ten years and you are pro.](http://9gag.com/gag/aMVL5WA)
- - 👉 [Richest man in the world](http://9gag.com/gag/aqyEEbZ)<!-- MEMES:END -->
+ - 💣 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
+ - ⏩ [The Great Russia](http://9gag.com/gag/aGyQQDZ)
+ - 👉 [Remember this face... Sam Altman will be the face of the biggest financial crisis in modern history.](http://9gag.com/gag/a34OOP1)<!-- MEMES:END -->
 
 ---
 
