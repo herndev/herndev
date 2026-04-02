@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The transformation of this horse&#39;s hoof is so satisfying](http://9gag.com/gag/aGyQmRX)
- - ⏩ [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
+ - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
+ - ⏩ [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
  - 👉 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)<!-- MEMES:END -->
 
 ---
