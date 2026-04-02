@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto asset manager CoinShares began trading on the Nasdaq Wednesday, marking its entry into US public markets after its $1.2B SPAC merger with Vine Hill &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/260401/p44#a260401p44)
- - [Liftoff: NASA&#39;s Artemis II Is in Space, the First Human Trip to the Moon in 50 Years](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
- - [Larger, More Spacious 2027 Kia Seltos Debuts With New Hybrid Variant](https://www.cnet.com/roadshow/pictures/2027-kia-seltos-debuts-combustion-hybrid-variants/)<!-- TECH:END -->
+ - [Sources: Oracle has cut ~10,000 jobs in India, or ~20% of its Indian workforce, as part of a restructuring that has reportedly affected 30,000 staff worldwide &lpar;The Economic Times&rpar;](http://www.techmeme.com/260402/p2#a260402p2)
+ - [OnePlus Promo Code: $70 Off | April 2026](https://www.wired.com/story/oneplus-promo-code/)
+ - [Exclusive Lovehoney Discount Codes: 15% Off](https://www.wired.com/story/lovehoney-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
