@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
- - ⏩ [Reality of incel](http://9gag.com/gag/aXPO1Og)
- - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
+ - ⏩ [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
+ - 👉 [The Great Russia](http://9gag.com/gag/aGyQQDZ)<!-- MEMES:END -->
 
 ---
 
