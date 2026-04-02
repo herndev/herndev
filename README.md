@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
- - ⏩ [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
- - 👉 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)<!-- MEMES:END -->
+ - 💣 [Some deaths hurt more than others...](http://9gag.com/gag/avyjK6M)
+ - ⏩ [Smile](http://9gag.com/gag/aLnEEqP)
+ - 👉 [Relatable](http://9gag.com/gag/amoZeWy)<!-- MEMES:END -->
 
 ---
 
