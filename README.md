@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google Pixel 10 Is $150 Off](https://www.wired.com/story/pixel-10-deal-3426/)
- - [Tech Companies Are Trying to Neuter Colorado’s Landmark Right-to-Repair Law](https://www.wired.com/story/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/)
- - [Sources: SpaceX is floating a $2T+ valuation to prospective investors in its IPO; SpaceX&#39;s acquisition of xAI reportedly valued the combined company at $1.25T &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p27#a260402p27)<!-- TECH:END -->
+ - [ANBERNIC’s screen-flipping handheld finally has a name](https://www.androidauthority.com/anbernic-rg-rotate-3654625/)
+ - [PSA: Anyone with a link can view your Granola notes by default](https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa)
+ - [Reddit is moving on from r/all](https://www.theverge.com/tech/906314/reddit-r-all-deprecating)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
