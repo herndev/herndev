@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clapham Common London 31/03](http://9gag.com/gag/a5QYYvr)
- - ⏩ [Reality of incel](http://9gag.com/gag/aXPO1Og)
- - 👉 [The Irish IRA has been reborn to fight a new enemy...](http://9gag.com/gag/aqyEoDp)<!-- MEMES:END -->
+ - 💣 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
+ - ⏩ [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
+ - 👉 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)<!-- MEMES:END -->
 
 ---
 
