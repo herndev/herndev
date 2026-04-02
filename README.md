@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [C. Can&#39;t tell](http://9gag.com/gag/aYQ00QV)
- - ⏩ [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
- - 👉 [Remember this face... Sam Altman will be the face of the biggest financial crisis in modern history.](http://9gag.com/gag/a34OOP1)<!-- MEMES:END -->
+ - 💣 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
+ - ⏩ [The Great Russia](http://9gag.com/gag/aGyQQDZ)
+ - 👉 [C. Can&#39;t tell](http://9gag.com/gag/aYQ00QV)<!-- MEMES:END -->
 
 ---
 
