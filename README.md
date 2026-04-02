@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This bike rack pioneer is selling Bluetooth suction cups to stick bikes to your car](https://www.theverge.com/gadgets/906076/allen-smart-suction-go-bike-rack)
- - [The ABS Challenge System is exposing the worst umpire in baseball](https://www.theverge.com/entertainment/906151/mlb-abs-challenge-system-cb-bucknor-worst-umpire-baseball)
- - [The CFTC sues Arizona, Connecticut, and Illinois over their actions against prediction markets, saying it has the &quot;exclusive&quot; authority to regulate such markets &lpar;Alex Harring/CNBC&rpar;](http://www.techmeme.com/260402/p25#a260402p25)<!-- TECH:END -->
+ - [The Google Pixel 10 Is $150 Off](https://www.wired.com/story/pixel-10-deal-3426/)
+ - [Tech Companies Are Trying to Neuter Colorado’s Landmark Right-to-Repair Law](https://www.wired.com/story/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/)
+ - [Sources: SpaceX is floating a $2T+ valuation to prospective investors in its IPO; SpaceX&#39;s acquisition of xAI reportedly valued the combined company at $1.25T &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p27#a260402p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
