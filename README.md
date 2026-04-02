@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California Suspends Enforcement of Law Requiring VCs to Report Diversity Data](https://www.wired.com/story/california-temporarily-lets-vcs-off-the-hook-for-dei-reporting/)
- - [Amazon looking to buy Globalstar, the company behind Apple&#39;s SOS via Satellite](https://appleinsider.com/articles/26/04/01/amazon-looking-to-buy-globalstar-the-company-behind-apples-sos-via-satellite?utm_source=rss)
- - [Trump’s birthright citizenship ban may fail — but the administration already got too far](https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments)<!-- TECH:END -->
+ - [A whistleblower alleges Delve pitched a modified copy of open-source no-code tool SimStudio as its own, a practice that could violate the software&#39;s license &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/260401/p40#a260401p40)
+ - [In a joint filing, Elon Musk and the US SEC say they are ready to move toward a trial over Musk&#39;s alleged failure to disclose his Twitter stake in 2022 &lpar;Nicola M White/Bloomberg&rpar;](http://www.techmeme.com/260401/p39#a260401p39)
+ - [Google increases the storage of its $19.99/month AI Pro subscription plan to 5TB, up from 2TB, at no additional cost &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260401/p38#a260401p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
