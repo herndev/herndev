@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s brand-new M5 MacBook Air drops to record low price on Amazon](https://appleinsider.com/articles/26/04/02/apples-brand-new-m5-macbook-air-drops-to-record-low-price-on-amazon?utm_source=rss)
- - [Samsung announces 2026 Frame TVs and the Pro cost less than last year’s](https://www.theverge.com/tech/905652/samsung-announces-2026-frame-and-oled-tvs)
- - [The boring, insidious world of the womanosphere](https://www.theverge.com/policy/905871/usha-vance-podcast-storytime-second-lady-katie-miller)<!-- TECH:END -->
+ - [Google launches Gemma 4, its &quot;most intelligent&quot; open model family, purpose-built for advanced reasoning and agentic workflows, under an Apache 2.0 license &lpar;The Keyword&rpar;](http://www.techmeme.com/260402/p18#a260402p18)
+ - [Flipboard just launched Surf, its new social app and feed reader](https://www.theverge.com/tech/905929/flipboard-surf-fediverse-launch)
+ - [Google is turning video creation into a one-click experience with latest Vids updates](https://www.androidauthority.com/google-vids-latest-upgrades-3654492/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
