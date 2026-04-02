@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK National Education Union poll: 66% of secondary school teachers in England say pupils using AI are losing their capacity for core skills like writing &lpar;Sally Weale/The Guardian&rpar;](http://www.techmeme.com/260402/p9#a260402p9)
- - [Sources: the US State Department ordered embassies to push back against foreign influence campaigns, as officials worry anti-US views are taking root worldwide &lpar;New York Times&rpar;](http://www.techmeme.com/260402/p8#a260402p8)
- - [I’m testing Android 17’s app bubbles, and I’ve already found a big problem](https://www.androidauthority.com/android-17-app-bubbles-hands-on-problem-3653181/)<!-- TECH:END -->
+ - [Our 7 Favorite Humidifiers for Home, Travel &amp; More &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-humidifier/)
+ - [How AI helped Medvi, a telehealth provider of GLP-1 weight-loss drugs with just two full-time employees, hit $401M in 2025 sales, as it tracks for $1.8B in 2026 &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/260402/p12#a260402p12)
+ - [Samsung’s QuickStar update lets you customize your Quick Settings like never before](https://www.androidauthority.com/one-ui-8-5-quickstar-good-lock-update-3654315/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
