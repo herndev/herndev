@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reality of incel](http://9gag.com/gag/aXPO1Og)
- - ⏩ [Ten years and you are pro.](http://9gag.com/gag/aMVL5WA)
- - 👉 [Richest man in the world](http://9gag.com/gag/aqyEEbZ)<!-- MEMES:END -->
+ - 💣 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
+ - ⏩ [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)
+ - 👉 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)<!-- MEMES:END -->
 
 ---
 
