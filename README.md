@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Great Russia](http://9gag.com/gag/aGyQQDZ)
- - ⏩ [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
- - 👉 [Lets Mime and then Dash](http://9gag.com/gag/aE0454G)<!-- MEMES:END -->
+ - 💣 [Stop. please, just stop.](http://9gag.com/gag/aAy995o)
+ - ⏩ [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ayNKje8)
+ - 👉 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)<!-- MEMES:END -->
 
 ---
 
