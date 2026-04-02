@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stop. please, just stop.](http://9gag.com/gag/aAy995o)
- - ⏩ [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ayNKje8)
- - 👉 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)<!-- MEMES:END -->
+ - 💣 [A guide for 9gag](http://9gag.com/gag/aKGMM41)
+ - ⏩ [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
+ - 👉 [Two towers](http://9gag.com/gag/aNDbbxv)<!-- MEMES:END -->
 
 ---
 
