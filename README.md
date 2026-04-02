@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google embraces the future, mandates 64-bit apps for Wear OS](https://www.androidauthority.com/google-64-bit-wear-os-apps-3654251/)
- - [Google just doubled your cloud storage &lpar;and then some&rpar; on AI Pro plan](https://www.androidauthority.com/google-ai-pro-plan-5tb-3654227/)
- - [I held the OnePlus Nord 6, and it feels nothing like a 9,000mAh phone](https://www.androidauthority.com/oneplus-nord-6-9000mah-hands-on-impressions-3654229/)<!-- TECH:END -->
+ - [Check your inbox: Google Fi is giving $20 credit for this week’s service outage](https://www.androidauthority.com/google-fi-outage-service-credit-3654250/)
+ - [Your Galaxy Watch can finally track your blood pressure — but you probably shouldn’t use it](https://www.androidauthority.com/samsung-galaxy-watch-blood-pressure-monitoring-dont-use-3653692/)
+ - [Google embraces the future, mandates 64-bit apps for Wear OS](https://www.androidauthority.com/google-64-bit-wear-os-apps-3654251/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
