@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our 7 Favorite Humidifiers for Home, Travel &amp; More &lpar;2026&rpar;](https://www.wired.com/gallery/the-best-humidifier/)
- - [How AI helped Medvi, a telehealth provider of GLP-1 weight-loss drugs with just two full-time employees, hit $401M in 2025 sales, as it tracks for $1.8B in 2026 &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/260402/p12#a260402p12)
- - [Samsung’s QuickStar update lets you customize your Quick Settings like never before](https://www.androidauthority.com/one-ui-8-5-quickstar-good-lock-update-3654315/)<!-- TECH:END -->
+ - [Your Samsung TV is getting a massive upgrade for free with Google Cast](https://www.androidauthority.com/old-samsung-tv-getting-google-cast-3654364/)
+ - [Best Lego Gifts for Brick Builders &lpar;2026&rpar;: Smart Bricks, Video Games, and More](https://www.wired.com/gallery/gifts-for-lego-lovers/)
+ - [A New Implant Aims to Rewire Stroke Patients’ Brains](https://www.wired.com/story/a-new-implant-aims-to-rewire-the-brain-to-help-stroke-patients/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
