@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Microsoft CFO Amy Hood, who paused some data center expansion last year, a decision some say led to its current supply crunch and growth bottleneck &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p5#a260402p5)
- - [IDC: Chinese GPU and AI chipmakers captured ~41% of China&#39;s AI server market in 2025, significantly eroding Nvidia&#39;s share, which stood at 55% with ~2.2M cards &lpar;Reuters&rpar;](http://www.techmeme.com/260402/p4#a260402p4)
- - [Ofcom: the share of adult UK social media users actively posting, sharing, or commenting falls to 49%, down from 61% in 2024, as users become more selective &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/260402/p3#a260402p3)<!-- TECH:END -->
+ - [Google just doubled your cloud storage &lpar;and then some&rpar; on AI Pro plan](https://www.androidauthority.com/google-ai-pro-plan-5tb-3654227/)
+ - [I held the OnePlus Nord 6, and it feels nothing like a 9,000mAh phone](https://www.androidauthority.com/oneplus-nord-6-9000mah-hands-on-impressions-3654229/)
+ - [A profile of Microsoft CFO Amy Hood, who paused some data center expansion last year, a decision some say led to its current supply crunch and growth bottleneck &lpar;Bloomberg&rpar;](http://www.techmeme.com/260402/p5#a260402p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
