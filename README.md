@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
- - ⏩ [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
- - 👉 [Two towers](http://9gag.com/gag/aNDbbxv)<!-- MEMES:END -->
+ - ⏩ [My mind is blown.](http://9gag.com/gag/aryLLQ6)
+ - 👉 [Reality of incel](http://9gag.com/gag/aXPO1Og)<!-- MEMES:END -->
 
 ---
 
