@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario Galaxy Movie’s Charlie Day Ranks Luigi Mangione As His 2nd Favorite Luigi](https://kotaku.com/super-mario-galaxy-movies-charlie-day-ranks-luigi-mangione-as-his-2nd-favorite-luigi-2000684046)
- - [&#39;What&#39;s your salary? I told him, and he said no problem, we&#39;ll double. And those days are gone:&#39; Listening to game dev legends reminiscing in 1989 about the &#39;golden days of computer games&#39; already being over is a trip](https://www.pcgamer.com/gaming-industry/whats-your-salary-i-told-him-and-he-said-no-problem-well-double-and-those-days-are-gone-listening-to-game-dev-legends-reminiscing-in-1989-about-the-golden-days-of-computer-games-already-being-over-is-a-trip/)
- - [Blizzard is hiring for an &#39;open-world shooter&#39; using Unreal Engine, which is more evidence that a new Starcraft game could be on its way](https://www.pcgamer.com/gaming-industry/blizzard-is-hiring-for-an-open-world-shooter-using-unreal-engine-which-is-more-evidence-that-a-new-starcraft-game-could-be-on-its-way/)<!-- GAME:END -->
+ - [Mchose G3 V2 review](https://www.pcgamer.com/hardware/gaming-mice/mchose-g3-v2-review/)
+ - [Last Of Us Online Dev Says It Was Around ‘80 Percent’ Complete Before Its ‘Soul-Crushing’ Cancellation](https://kotaku.com/last-of-us-online-naughty-dog-canceled-vinit-agarwal-2000684224)
+ - [Guardians of the Galaxy is the Mass Effect game you didn&#39;t know you were missing](https://www.polygon.com/guardians-galaxy-mass-effect-steam-sale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
