@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump fires attorney general Pam Bondi.](https://www.theverge.com/policy/905961/pam-bondi-fired)
- - [Here’s when Samsung’s Galaxy S25 One UI 8.5 beta may finally end](https://www.androidauthority.com/galaxy-s25-one-ui-betas-3654526/)
- - [Mental health startup Kintsugi is shutting down and open-sourcing its AI tech to detect depression and anxiety, after failing to secure FDA clearance &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260402/p24#a260402p24)<!-- TECH:END -->
+ - [This bike rack pioneer is selling Bluetooth suction cups to stick bikes to your car](https://www.theverge.com/gadgets/906076/allen-smart-suction-go-bike-rack)
+ - [The ABS Challenge System is exposing the worst umpire in baseball](https://www.theverge.com/entertainment/906151/mlb-abs-challenge-system-cb-bucknor-worst-umpire-baseball)
+ - [The CFTC sues Arizona, Connecticut, and Illinois over their actions against prediction markets, saying it has the &quot;exclusive&quot; authority to regulate such markets &lpar;Alex Harring/CNBC&rpar;](http://www.techmeme.com/260402/p25#a260402p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
