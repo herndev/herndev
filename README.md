@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon is in talks to acquire Globalstar to bolster its low Earth orbit satellite business; Apple&#39;s 20% stake in Globalstar is a complicating factor &lpar;Financial Times&rpar;](http://www.techmeme.com/260401/p36#a260401p36)
- - [Hot deal: Samsung Galaxy Watch ultra &lpar;2025&rpar; price drops by 53%!](https://www.androidauthority.com/samsung-galaxy-watch-ultra-2025-deal-4-3654108/)
- - [NASA launches four astronauts toward the Moon on the Artemis II mission](https://www.theverge.com/science/904458/nasa-artemis-ii-mission-moon-astronauts)<!-- TECH:END -->
+ - [California Suspends Enforcement of Law Requiring VCs to Report Diversity Data](https://www.wired.com/story/california-temporarily-lets-vcs-off-the-hook-for-dei-reporting/)
+ - [Amazon looking to buy Globalstar, the company behind Apple&#39;s SOS via Satellite](https://appleinsider.com/articles/26/04/01/amazon-looking-to-buy-globalstar-the-company-behind-apples-sos-via-satellite?utm_source=rss)
+ - [Trump’s birthright citizenship ban may fail — but the administration already got too far](https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
