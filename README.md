@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto asset manager CoinShares began trading on the Nasdaq Wednesday, marking its entry into US public markets after its $1.2B SPAC merger with Vine Hill &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/260401/p44#a260401p44)
  - [Treeline, which is building an AI and software-first alternative to legacy corporate IT systems, raised a $25M Series A led by Andreessen Horowitz &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260401/p43#a260401p43)
- - [Tim Cook reflects on 50 years of Apple, Steve Jobs&#39; legacy, reaffirming the company&#39;s values, working with a &quot;very accessible&quot; Trump administration, and more &lpar;Ryan D&#39;Agostino/Esquire&rpar;](http://www.techmeme.com/260401/p42#a260401p42)
- - [Artemis II Mission Launches Successfully](https://www.wired.com/story/artemis-ii-moon-mission-launches-successfully/)<!-- TECH:END -->
+ - [Tim Cook reflects on 50 years of Apple, Steve Jobs&#39; legacy, reaffirming the company&#39;s values, working with a &quot;very accessible&quot; Trump administration, and more &lpar;Ryan D&#39;Agostino/Esquire&rpar;](http://www.techmeme.com/260401/p42#a260401p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
