@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Clapham Common London 31/03](http://9gag.com/gag/a5QYYvr)
- - ⏩ [A guide for 9gag](http://9gag.com/gag/aKGMM41)
- - 👉 [The Great Russia](http://9gag.com/gag/aGyQQDZ)<!-- MEMES:END -->
+ - ⏩ [Reality of incel](http://9gag.com/gag/aXPO1Og)
+ - 👉 [The Irish IRA has been reborn to fight a new enemy...](http://9gag.com/gag/aqyEoDp)<!-- MEMES:END -->
 
 ---
 
