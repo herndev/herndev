@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)
- - ⏩ [A guide for 9gag](http://9gag.com/gag/aKGMM41)
- - 👉 [The Great Russia](http://9gag.com/gag/aGyQQDZ)<!-- MEMES:END -->
+ - 💣 [Honey, why is the water bill $300 this month?](http://9gag.com/gag/amoZZ7X)
+ - ⏩ [Reality of incel](http://9gag.com/gag/aXPO1Og)
+ - 👉 [My secret formula for pulling baddies](http://9gag.com/gag/avyjjen)<!-- MEMES:END -->
 
 ---
 
