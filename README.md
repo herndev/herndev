@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cursor Launches a New AI Agent Experience to Take on Claude Code and Codex](https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/)
- - [Expecto Pixtronum! Google’s going to Hogwarts for upcoming Pixel themes](https://www.androidauthority.com/harry-potter-pixel-themes-3654404/)
- - [Flipboard launches Surf, an app for creating custom feeds from Mastodon, Threads, Bluesky, RSS, podcasts, and YouTube, after over a year in beta &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/260402/p20#a260402p20)<!-- TECH:END -->
+ - [OpenAI acquires tech news show TBPN; Fidji Simo says the move aims to &quot;help create a space for a real, constructive conversation about the changes AI creates&quot; &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/260402/p23#a260402p23)
+ - [Can’t make it to Coachella? YouTube’s upgraded livestream experience has you covered](https://www.androidauthority.com/youtube-coachella-2026-livestream-3654512/)
+ - [OpenAI just bought TBPN](https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
