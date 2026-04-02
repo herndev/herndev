@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung DeX or Pixel’s Desktop mode? Survey reveals an surprising favorite](https://www.androidauthority.com/samsung-dex-or-pixels-desktop-mode-survey-reveals-an-surprising-favorite-3654306/)
- - [Rising gas prices are good news for EV sales, for now](https://www.theverge.com/transportation/905309/rising-gas-prices-are-good-news-for-ev-sales-for-now)
- - [Android could extend its lead on notification management over iOS with Notification Rules](https://www.androidauthority.com/android-notification-rules-apk-teardown-3654377/)<!-- TECH:END -->
+ - [Pixel 11 Pro XL renders show Google going all-in with new camera bar](https://www.androidauthority.com/pixel-11-pro-xl-renders-3654017/)
+ - [Tesla’s sales recover slightly, but the trend lines are all bad](https://www.theverge.com/transportation/905811/tesla-q1-2026-sales-deliveries-elon-musk)
+ - [A jury says Meta and Google hurt a kid. What now?](https://www.theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
