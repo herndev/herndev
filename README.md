@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Richest man in the world](http://9gag.com/gag/aqyEEbZ)
+ - 💣 [Clapham Common London 31/03](http://9gag.com/gag/a5QYYvr)
  - ⏩ [A guide for 9gag](http://9gag.com/gag/aKGMM41)
- - 👉 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ayNKje8)<!-- MEMES:END -->
+ - 👉 [The Great Russia](http://9gag.com/gag/aGyQQDZ)<!-- MEMES:END -->
 
 ---
 
