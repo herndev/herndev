@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check your inbox: Google Fi is giving $20 credit for this week’s service outage](https://www.androidauthority.com/google-fi-outage-service-credit-3654250/)
- - [Your Galaxy Watch can finally track your blood pressure — but you probably shouldn’t use it](https://www.androidauthority.com/samsung-galaxy-watch-blood-pressure-monitoring-dont-use-3653692/)
- - [Google embraces the future, mandates 64-bit apps for Wear OS](https://www.androidauthority.com/google-64-bit-wear-os-apps-3654251/)<!-- TECH:END -->
+ - [UK National Education Union poll: 66% of secondary school teachers in England say pupils using AI are losing their capacity for core skills like writing &lpar;Sally Weale/The Guardian&rpar;](http://www.techmeme.com/260402/p9#a260402p9)
+ - [Sources: the US State Department ordered embassies to push back against foreign influence campaigns, as officials worry anti-US views are taking root worldwide &lpar;New York Times&rpar;](http://www.techmeme.com/260402/p8#a260402p8)
+ - [I’m testing Android 17’s app bubbles, and I’ve already found a big problem](https://www.androidauthority.com/android-17-app-bubbles-hands-on-problem-3653181/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
