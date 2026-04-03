@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chrome is testing a new feature for speeding up browsing on even the heaviest pages](https://www.androidauthority.com/chrome-lazy-loading-video-audio-3654836/)
- - [Chinese semiconductor companies like SMIC reported record 2025 revenue, driven by AI demand and China&#39;s self-sufficiency push as a result of US restrictions &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260403/p10#a260403p10)
- - [Taking Apple&#39;s AirPods Pro Hearing Test Was a Reality Check. This Is How We Protect Our Hearing Now](https://www.cnet.com/health/personal-care/apple-airpods-pro-hearing-test/)<!-- TECH:END -->
+ - [Sources: Musk requires banks seeking roles in SpaceX&#39;s IPO to subscribe to Grok and advertise on X; some banks are spending tens of millions integrating Grok &lpar;Maureen Farrell/New York Times&rpar;](http://www.techmeme.com/260403/p11#a260403p11)
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [April Fools&#39; Day 2026: The Good, the Bad and the Bizarre of This Year&#39;s Corporate Jokes](https://www.cnet.com/tech/april-fools-day-2026-the-internets-sneakiest-pranks-are-coming/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
