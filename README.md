@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Galaxy’s Weather app just got a facelift: Here is what’s new](https://www.androidauthority.com/samsung-weather-app-update-ui-changes-3654799/)
- - [Apple’s best product ever](https://www.theverge.com/podcast/906548/best-apple-product-vergecast)
- - [Some startups and researchers who can&#39;t access the most advanced chips are adopting a &quot;frugal AI&quot; approach, building smaller models on open-weight systems &lpar;Rina Chandran/Rest of World&rpar;](http://www.techmeme.com/260403/p5#a260403p5)<!-- TECH:END -->
+ - [These smart glasses now let you read ebooks and play chess at the eye-level](https://www.androidauthority.com/even-realities-g2-smart-glasses-apps-3654769/)
+ - [Waiting for Trump Phone](https://www.theverge.com/tech/905599/where-is-the-trump-phone-t1-april)
+ - [How the Apple Watch defined modern health tech](https://www.theverge.com/column/906391/apple-watch-optimizer-apple-50-health-tech-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
