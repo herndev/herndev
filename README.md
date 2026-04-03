@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft put the same disclaimer on Copilot that a psychic uses to avoid getting sued](https://www.androidauthority.com/copilot-entertainment-only-3654882/)
- - [AirPods Max 2 teardown reveals nothing has changed beyond the H2 chip](https://appleinsider.com/articles/26/04/03/airpods-max-2-teardown-reveals-nothing-has-changed-beyond-the-h2-chip?utm_source=rss)
- - [Interviews with Codex lead Alexander Embiricos, OpenClaw&#39;s Peter Steinberger, and others about OpenAI&#39;s upcoming superapp that combines ChatGPT with Codex &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260403/p14#a260403p14)<!-- TECH:END -->
+ - [Pixel users report Now Playing app is finally working as it should](https://www.androidauthority.com/now-playing-app-may-be-fixed-3654896/)
+ - [Utah launches a one-year pilot program allowing Legion Health&#39;s AI chatbot to renew prescriptions for 15 low-risk psychiatric maintenance medications &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260403/p16#a260403p16)
+ - [NASA did eventually solve Artemis II&amp;#8217;s Outlook glitch](https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
