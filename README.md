@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arcee AI releases Trinity-Large-Thinking, a 399B-parameter MoE AI model under an Apache 2.0 license, allowing full customization and commercial use &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260403/p1#a260403p1)
- - [Anthropic researchers find that an AI model&#39;s representations of emotion can influence its behavior &quot;in ways that matter,&quot; such as driving it to act unethically &lpar;Nat Rubio-Licht/The Deep View&rpar;](http://www.techmeme.com/260402/p41#a260402p41)
- - [Noon, an AI-native product design tool, emerges from stealth with $44M in funding from Chemistry, First Round Capital, Scribble Ventures, and others &lpar;Vaibhavi Khanwalkar/The Economic Times&rpar;](http://www.techmeme.com/260402/p40#a260402p40)<!-- TECH:END -->
+ - [Matt Mullenweg says EmDash, while open source, is designed &quot;to sell more Cloudflare services&quot; and lacks the cross-platform democratization of WordPress &lpar;Matt Mullenweg&rpar;](http://www.techmeme.com/260403/p3#a260403p3)
+ - [$20 Chewy Promo Code | April 2026](https://www.wired.com/story/chewy-promo-code/)
+ - [50% Off Home Depot Promo Codes | April 2026](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
