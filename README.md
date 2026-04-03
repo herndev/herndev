@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Solo Marathon Rook players are teaming up, Arc Raiders-style](https://www.polygon.com/marathon-rooks-teams-outpost/)
- - [Share of the Week: Sidekick](https://blog.playstation.com/2026/04/03/share-of-the-week-sidekick/)
- - [Minishoot’ Adventures: The Kotaku Review](https://kotaku.com/minishoot-adventures-review-switch-2-xbox-ps5-zelda-2000684608)<!-- GAME:END -->
+ - [Our favorite open world FPS indie gem is getting New Game+, Spider-Man swinging, and wallrunning later this month](https://www.pcgamer.com/games/fps/our-favorite-open-world-fps-indie-gem-is-getting-new-game-spider-man-swinging-and-wallrunning-later-this-month/)
+ - [Esquire AI-Generated A Fake Interview With Live-Action One Piece Actor Mackenyu Because He Was Busy](https://kotaku.com/one-piece-netflix-live-action-mackenyu-interview-esquire-ai-singapore-2000684648)
+ - [This cyberpunk Steam action game already looks incredible](https://www.polygon.com/sky-dust-sci-fi-steam-action-souls-like-metroidvania-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
