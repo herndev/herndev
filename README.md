@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple at 50: Michael Spindler, the CEO who brought in the clones](https://appleinsider.com/articles/26/04/03/apple-at-50-michael-spindler-the-ceo-who-brought-in-the-clones?utm_source=rss)
- - [Chatbots are now prescribing psychiatric drugs](https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs)
- - [The Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2026: Compare the Air, Pro, Mini](https://www.wired.com/gallery/the-best-ipad/)<!-- TECH:END -->
+ - [Your Galaxy’s Weather app just got a facelift: Here is what’s new](https://www.androidauthority.com/samsung-weather-app-update-ui-changes-3654799/)
+ - [Apple’s best product ever](https://www.theverge.com/podcast/906548/best-apple-product-vergecast)
+ - [Some startups and researchers who can&#39;t access the most advanced chips are adopting a &quot;frugal AI&quot; approach, building smaller models on open-weight systems &lpar;Rina Chandran/Rest of World&rpar;](http://www.techmeme.com/260403/p5#a260403p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
