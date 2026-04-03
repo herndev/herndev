@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This person is living in 3024](http://9gag.com/gag/a9yGoqD)
- - ⏩ [Very interesting](http://9gag.com/gag/abA87QX)
- - 👉 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)<!-- MEMES:END -->
+ - 💣 [Very interesting](http://9gag.com/gag/abA87QX)
+ - ⏩ [The day we executed horologist](http://9gag.com/gag/aLnEyM6)
+ - 👉 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)<!-- MEMES:END -->
 
 ---
 
