@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role continues the Mighty Nein story in a Campaign 2 sequel novel](https://www.polygon.com/critical-role-mighty-nein-sequel-children-of-empire/)
- - [Spider-Man/Superman 2026 crossover exclusive — a shocking new team-up revealed](https://www.polygon.com/spider-man-superman-ghost-spider-supergirl-marvel-dc-comics-exclusive-page/)
- - [Take-Two has seemingly laid off an unspecified portion of its AI team, including its Head of Artificial Intelligence](https://www.pcgamer.com/gaming-industry/take-two-has-seemingly-laid-off-an-unspecified-portion-of-its-ai-team-including-its-head-of-artificial-intelligence/)<!-- GAME:END -->
+ - [Amazon almost pulled The Boys&#39; season 4 finale, showrunner reveals](https://www.polygon.com/the-boys-season-4-finale-assassination-interview/)
+ - [Bungie provides details on Marathon&#39;s imminent Recon buff &#39;by popular demand&#39;, revealing an improved Echo Pulse and a &#39;more aggressive&#39; tracker drone](https://www.pcgamer.com/games/fps/bungie-provides-details-on-marathons-imminent-recon-buff-by-popular-demand-revealing-an-improved-echo-pulse-and-a-more-aggressive-tracker-drone/)
+ - [Cyberpunk trading card game hands-on impressions from PAX East 2026](https://www.polygon.com/cyberpunk-tcg-alpha-review-impressions-pax-east-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
