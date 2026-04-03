@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cool vid](http://9gag.com/gag/aYQ09Kw)
- - ⏩ [At the Mario Movie Premiere](http://9gag.com/gag/aQzjG48)
- - 👉 [The only scam everyone agrees on](http://9gag.com/gag/aKGMoyb)<!-- MEMES:END -->
+ - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
+ - ⏩ [These bros are heroes](http://9gag.com/gag/ayNKbVW)
+ - 👉 [Pokemon craz\u00e9](http://9gag.com/gag/avyjKPX)<!-- MEMES:END -->
 
 ---
 
