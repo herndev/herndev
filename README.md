@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Musk requires banks seeking roles in SpaceX&#39;s IPO to subscribe to Grok and advertise on X; some banks are spending tens of millions integrating Grok &lpar;Maureen Farrell/New York Times&rpar;](http://www.techmeme.com/260403/p11#a260403p11)
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [April Fools&#39; Day 2026: The Good, the Bad and the Bizarre of This Year&#39;s Corporate Jokes](https://www.cnet.com/tech/april-fools-day-2026-the-internets-sneakiest-pranks-are-coming/)<!-- TECH:END -->
+ - [Microsoft&#39;s LinkedIn is scanning installed browser extensions without user permission](https://appleinsider.com/articles/26/04/03/microsofts-linkedin-is-scanning-installed-browser-extensions-without-user-permission?utm_source=rss)
+ - [Catch a 37% discount on this highly rated security camera just months after launch](https://www.androidauthority.com/baseus-x1-pro-security-camera-deal-3654874/)
+ - [iOS 26.5 developer beta 1 gets revised release, for reasons unknown](https://appleinsider.com/articles/26/04/03/ios-265-developer-beta-1-gets-revised-release-for-reasons-unknown?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
