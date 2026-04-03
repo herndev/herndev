@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
- - ⏩ [Love a friends Mom](http://9gag.com/gag/aO8WLD3)
- - 👉 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)<!-- MEMES:END -->
+ - ⏩ [Making some art with my daughter. Wife says no one will notice, but you f**kers wasted so much time here ...](http://9gag.com/gag/agmeWZW)
+ - 👉 [Luftballon rasieren, wer kennt es noch?](http://9gag.com/gag/a9yGoA0)<!-- MEMES:END -->
 
 ---
 
