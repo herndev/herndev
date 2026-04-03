@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
- - ⏩ [These bros are heroes](http://9gag.com/gag/ayNKbVW)
- - 👉 [Pokemon craz\u00e9](http://9gag.com/gag/avyjKPX)<!-- MEMES:END -->
+ - 💣 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
+ - ⏩ [Smart guy](http://9gag.com/gag/a87gR2p)
+ - 👉 [Who snitched ???](http://9gag.com/gag/a4P0XXp)<!-- MEMES:END -->
 
 ---
 
