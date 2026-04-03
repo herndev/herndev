@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker&amp;#8217;s small, five-port travel adapter is down to its best price yet](https://www.theverge.com/gadgets/906392/anker-nano-travel-adapter-samsung-galaxy-watch-ultra-deal-sale)
- - [Docs: Israeli AI chip startup Hailo is pursuing an urgent IPO via a SPAC merger at a valuation of less than $500M; it was last valued at $1.2B in 2024 &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260403/p7#a260403p7)
- - [John Perry Barlow, JFK Jr., and a Night of Grief I Can’t Forget](https://www.wired.com/story/jfk-jr-john-perry-barlow-friendship-love-story/)<!-- TECH:END -->
+ - [Tower Semiconductor&#39;s market cap tops $20B, four years after a near-sale to Intel for $5B; shares are up ~60% over the past month and ~525% over the past year &lpar;CTech&rpar;](http://www.techmeme.com/260403/p9#a260403p9)
+ - [It’s a good Friday to score a $150 cash discount on the Galaxy Tab S11](https://www.androidauthority.com/samsung-galaxy-tab-s11-deal-3654831/)
+ - [Sources: Huawei&#39;s Ascend 950PR chip, set for mass production soon, saw prices rise 20% after Chinese tech giants placed bulk orders to run DeepSeek&#39;s V4 model &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/260403/p8#a260403p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
