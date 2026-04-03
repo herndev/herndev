@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arcee AI releases Trinity-Large-Thinking, a 399B-parameter MoE AI model under an Apache 2.0 license, allowing full customization and commercial use &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260403/p1#a260403p1)
  - [Anthropic researchers find that an AI model&#39;s representations of emotion can influence its behavior &quot;in ways that matter,&quot; such as driving it to act unethically &lpar;Nat Rubio-Licht/The Deep View&rpar;](http://www.techmeme.com/260402/p41#a260402p41)
- - [Noon, an AI-native product design tool, emerges from stealth with $44M in funding from Chemistry, First Round Capital, Scribble Ventures, and others &lpar;Vaibhavi Khanwalkar/The Economic Times&rpar;](http://www.techmeme.com/260402/p40#a260402p40)
- - [AI startup suing Apple over alleged arbitrary enforcement of App Store rules](https://appleinsider.com/articles/26/04/03/ai-startup-suing-apple-over-alleged-arbitrary-enforcement-of-app-store-rules?utm_source=rss)<!-- TECH:END -->
+ - [Noon, an AI-native product design tool, emerges from stealth with $44M in funding from Chemistry, First Round Capital, Scribble Ventures, and others &lpar;Vaibhavi Khanwalkar/The Economic Times&rpar;](http://www.techmeme.com/260402/p40#a260402p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
