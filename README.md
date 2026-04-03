@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s LinkedIn is scanning installed browser extensions without user permission](https://appleinsider.com/articles/26/04/03/microsofts-linkedin-is-scanning-installed-browser-extensions-without-user-permission?utm_source=rss)
- - [Catch a 37% discount on this highly rated security camera just months after launch](https://www.androidauthority.com/baseus-x1-pro-security-camera-deal-3654874/)
- - [iOS 26.5 developer beta 1 gets revised release, for reasons unknown](https://appleinsider.com/articles/26/04/03/ios-265-developer-beta-1-gets-revised-release-for-reasons-unknown?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft put the same disclaimer on Copilot that a psychic uses to avoid getting sued](https://www.androidauthority.com/copilot-entertainment-only-3654882/)
+ - [AirPods Max 2 teardown reveals nothing has changed beyond the H2 chip](https://appleinsider.com/articles/26/04/03/airpods-max-2-teardown-reveals-nothing-has-changed-beyond-the-h2-chip?utm_source=rss)
+ - [Interviews with Codex lead Alexander Embiricos, OpenClaw&#39;s Peter Steinberger, and others about OpenAI&#39;s upcoming superapp that combines ChatGPT with Codex &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260403/p14#a260403p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
