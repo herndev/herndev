@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
- - ⏩ [WELP.](http://9gag.com/gag/a0e3yWd)
- - 👉 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)<!-- MEMES:END -->
+ - 💣 [My mind is blown.](http://9gag.com/gag/aryLLQ6)
+ - ⏩ [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
+ - 👉 [WELP.](http://9gag.com/gag/a0e3yWd)<!-- MEMES:END -->
 
 ---
 
