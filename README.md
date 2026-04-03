@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The transformation of this horse&#39;s hoof is so satisfying](http://9gag.com/gag/aGyQmRX)
- - ⏩ [Smart guy](http://9gag.com/gag/a87gR2p)
- - 👉 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)<!-- MEMES:END -->
+ - 💣 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
+ - ⏩ [WELP.](http://9gag.com/gag/a0e3yWd)
+ - 👉 [My mind is blown.](http://9gag.com/gag/aryLLQ6)<!-- MEMES:END -->
 
 ---
 
