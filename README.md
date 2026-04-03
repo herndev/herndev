@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel users report Now Playing app is finally working as it should](https://www.androidauthority.com/now-playing-app-may-be-fixed-3654896/)
- - [Utah launches a one-year pilot program allowing Legion Health&#39;s AI chatbot to renew prescriptions for 15 low-risk psychiatric maintenance medications &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/260403/p16#a260403p16)
- - [NASA did eventually solve Artemis II&amp;#8217;s Outlook glitch](https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed)<!-- TECH:END -->
+ - [Sources: Meta has paused its work with Mercor while it investigates a security breach at the data vendor; OpenAI says it is investigating the security incident &lpar;Wired&rpar;](http://www.techmeme.com/260403/p17#a260403p17)
+ - [Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk](https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/)
+ - [Netflix may have to pay back years of price hikes to some subscribers — but probably not you](https://www.androidauthority.com/netflix-price-hikes-refund-court-ruling-italy-3654909/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
