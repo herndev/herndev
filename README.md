@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WELP.](http://9gag.com/gag/a0e3yWd)
- - ⏩ [Artemis II](http://9gag.com/gag/aNDbN0G)
- - 👉 [My mind is blown.](http://9gag.com/gag/aryLLQ6)<!-- MEMES:END -->
+ - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
+ - ⏩ [Who snitched ???](http://9gag.com/gag/a4P0XXp)
+ - 👉 [These bros are heroes](http://9gag.com/gag/ayNKbVW)<!-- MEMES:END -->
 
 ---
 
