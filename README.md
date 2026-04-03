@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tilta Khronos iPhone 17 Pro Max photography kit review: keeping the future-proofed promise](https://appleinsider.com/articles/26/04/03/tilta-khronos-iphone-17-pro-max-photography-kit-review-keeping-the-future-proofed-promise?utm_source=rss)
- - [Amazon to Add 3.5% Fulfillment Surcharge as Fuel Costs Rise](https://www.cnet.com/tech/amazon-to-add-3-5-fulfillment-surcharge-as-fuel-costs-rise/)
- - [Day 2 of NASA&#39;s Artemis II: What Comes Next in First Crewed Mission to the Moon in Over 50 Years](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)<!-- TECH:END -->
+ - [Sources: Sarvam AI is close to raising $300M-$350M at a ~$1.5B valuation, which could close as soon as next week; Bessemer Venture Partners is expected to lead &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/260402/p33#a260402p33)
+ - [Apple&#39;s Q2 results will be reported on April 30](https://appleinsider.com/articles/26/04/03/apples-q2-results-will-be-reported-on-april-30?utm_source=rss)
+ - [Source: Anthropic has acquired Coefficient Bio, which was developing a platform that enables AI to run biotech tasks such as planning drug research, for ~$400M &lpar;The Information&rpar;](http://www.techmeme.com/260402/p32#a260402p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
