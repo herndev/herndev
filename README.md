@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I spent a week with Android 17 Beta 3 on my Pixel, and these 4 features change everything](https://www.androidauthority.com/android-17-beta-3-hands-on-3654106/)
- - [Samsung Frame Pro and OLED TV News: What You Need To Know in 2026](https://www.wired.com/story/samsung-frame-oled-tvs-news-2026/)
- - [Apple CarPlay beats Android Auto &lpar;again&rpar;, gets Google Meet support](https://www.androidauthority.com/google-meet-apple-carplay-android-auto-3654720/)<!-- TECH:END -->
+ - [A Year After DOGE Cuts, GSA Now Plans to Hire Hundreds of Employees](https://www.wired.com/story/doge-cuts-gsa-plans-to-hire-hundreds-of-employees/)
+ - [New Garmin Training Features &lpar;2026&rpar;: Nutrition Tracking, Lifestyle Logging, and More](https://www.wired.com/story/garmin-training-features-2026/)
+ - [Best Game Controllers for PC, Switch, PS5, and Xbox](https://www.wired.com/gallery/best-gaming-controllers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
