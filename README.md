@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These smart glasses now let you read ebooks and play chess at the eye-level](https://www.androidauthority.com/even-realities-g2-smart-glasses-apps-3654769/)
- - [Waiting for Trump Phone](https://www.theverge.com/tech/905599/where-is-the-trump-phone-t1-april)
- - [How the Apple Watch defined modern health tech](https://www.theverge.com/column/906391/apple-watch-optimizer-apple-50-health-tech-wearables)<!-- TECH:END -->
+ - [Anker&amp;#8217;s small, five-port travel adapter is down to its best price yet](https://www.theverge.com/gadgets/906392/anker-nano-travel-adapter-samsung-galaxy-watch-ultra-deal-sale)
+ - [Docs: Israeli AI chip startup Hailo is pursuing an urgent IPO via a SPAC merger at a valuation of less than $500M; it was last valued at $1.2B in 2024 &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260403/p7#a260403p7)
+ - [John Perry Barlow, JFK Jr., and a Night of Grief I Can’t Forget](https://www.wired.com/story/jfk-jr-john-perry-barlow-friendship-love-story/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
