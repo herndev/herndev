@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Raccoin review: a coin pusher about how Balatro was cool, and little else](https://www.polygon.com/raccoin-impressions/)
- - [GameStop Thought Buying Games Online Was A ‘Passing Phase,’ Says Former Business Developer](https://kotaku.com/gamestop-steam-impulse-gdc-larry-kuperman-digital-distribution-2000684593)
- - [Amazon almost pulled The Boys&#39; season 4 finale, showrunner reveals](https://www.polygon.com/the-boys-season-4-finale-assassination-interview/)<!-- GAME:END -->
+ - [Solo Marathon Rook players are teaming up, Arc Raiders-style](https://www.polygon.com/marathon-rooks-teams-outpost/)
+ - [Share of the Week: Sidekick](https://blog.playstation.com/2026/04/03/share-of-the-week-sidekick/)
+ - [Minishoot’ Adventures: The Kotaku Review](https://kotaku.com/minishoot-adventures-review-switch-2-xbox-ps5-zelda-2000684608)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
