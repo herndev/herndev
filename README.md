@@ -33,8 +33,8 @@
 
 <!-- GAME:START -->
  - [&lpar;From Global&rpar; SHINOBI: Art of Vengeance DLC “SEGA Villains Stage” Launches Today!](https://blog.playstation.com/2026/04/02/20260403-shinobi/)
- - [Marathon interactive maps](https://www.polygon.com/map/marathon-interactive-maps-exfil-locations/)
- - [A former GameStop exec thought building its Steam competitor would be his &#39;forever job,&#39; but the retailer bet the house on digital distribution being &#39;a passing phase&#39;](https://www.pcgamer.com/gaming-industry/a-former-gamestop-exec-thought-building-its-steam-competitor-would-be-his-forever-job-but-the-retailer-bet-the-house-on-digital-distribution-being-a-passing-phase/)<!-- GAME:END -->
+ - [&lpar;From Global&rpar; SHINOBI: Art of Vengeance DLC “SEGA Villains Stage” Launches Today!](https://blog.playstation.com/2026/04/02/20260403-shinobi/)
+ - [Marathon interactive maps](https://www.polygon.com/map/marathon-interactive-maps-exfil-locations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
