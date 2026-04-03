@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon almost pulled The Boys&#39; season 4 finale, showrunner reveals](https://www.polygon.com/the-boys-season-4-finale-assassination-interview/)
- - [Bungie provides details on Marathon&#39;s imminent Recon buff &#39;by popular demand&#39;, revealing an improved Echo Pulse and a &#39;more aggressive&#39; tracker drone](https://www.pcgamer.com/games/fps/bungie-provides-details-on-marathons-imminent-recon-buff-by-popular-demand-revealing-an-improved-echo-pulse-and-a-more-aggressive-tracker-drone/)
- - [Cyberpunk trading card game hands-on impressions from PAX East 2026](https://www.polygon.com/cyberpunk-tcg-alpha-review-impressions-pax-east-2026/)<!-- GAME:END -->
+ - [Raccoin review: a coin pusher about how Balatro was cool, and little else](https://www.polygon.com/raccoin-impressions/)
+ - [GameStop Thought Buying Games Online Was A ‘Passing Phase,’ Says Former Business Developer](https://kotaku.com/gamestop-steam-impulse-gdc-larry-kuperman-digital-distribution-2000684593)
+ - [Amazon almost pulled The Boys&#39; season 4 finale, showrunner reveals](https://www.polygon.com/the-boys-season-4-finale-assassination-interview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
