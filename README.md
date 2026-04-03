@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Our favorite open world FPS indie gem is getting New Game+, Spider-Man swinging, and wallrunning later this month](https://www.pcgamer.com/games/fps/our-favorite-open-world-fps-indie-gem-is-getting-new-game-spider-man-swinging-and-wallrunning-later-this-month/)
- - [Esquire AI-Generated A Fake Interview With Live-Action One Piece Actor Mackenyu Because He Was Busy](https://kotaku.com/one-piece-netflix-live-action-mackenyu-interview-esquire-ai-singapore-2000684648)
- - [This cyberpunk Steam action game already looks incredible](https://www.polygon.com/sky-dust-sci-fi-steam-action-souls-like-metroidvania-game/)<!-- GAME:END -->
+ - [The Animorphs getting new TV show for Disney Plus from Ryan Coogler](https://www.polygon.com/animorphs-tv-show-disney-plus-ryan-coogler/)
+ - [Reincarnated as a Slime&#39;s season 4 premiere promises more cozy isekai and fantasy policymaking](https://www.polygon.com/reincarnated-as-a-slime-season-4-premiere-review/)
+ - [Slay the Spire 2 dev coyly teases a bunch of cool new features](https://www.polygon.com/slay-the-spire-2-new-modes-character-multiplayer-competitive/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
