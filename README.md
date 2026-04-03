@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
- - ⏩ [Smart guy](http://9gag.com/gag/a87gR2p)
- - 👉 [Who snitched ???](http://9gag.com/gag/a4P0XXp)<!-- MEMES:END -->
+ - 💣 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
+ - ⏩ [Artemis II](http://9gag.com/gag/aNDbN0G)
+ - 👉 [WELP.](http://9gag.com/gag/a0e3yWd)<!-- MEMES:END -->
 
 ---
 
