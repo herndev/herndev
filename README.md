@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Animorphs getting new TV show for Disney Plus from Ryan Coogler](https://www.polygon.com/animorphs-tv-show-disney-plus-ryan-coogler/)
- - [Reincarnated as a Slime&#39;s season 4 premiere promises more cozy isekai and fantasy policymaking](https://www.polygon.com/reincarnated-as-a-slime-season-4-premiere-review/)
- - [Slay the Spire 2 dev coyly teases a bunch of cool new features](https://www.polygon.com/slay-the-spire-2-new-modes-character-multiplayer-competitive/)<!-- GAME:END -->
+ - [Ex-Nintendo Sales Lead Explains The Three Factors Making A Switch 2 Price Hike ‘Inevitable’](https://kotaku.com/switch-2-price-ram-iran-oil-trump-tariffs-2000684755)
+ - [This AI startup envisions &#39;100 million new people&#39; making videogames](https://www.pcgamer.com/software/ai/this-ai-startup-envisions-100-million-new-people-making-videogames/)
+ - [Slay the Spire 2 adds end-of-run badges &#39;to let you know what was unique about each adventure&#39; in latest beta patch](https://www.pcgamer.com/games/card-games/slay-the-spire-2-adds-end-of-run-badges-to-let-you-know-what-was-unique-about-each-adventure-in-latest-beta-patch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
