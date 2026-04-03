@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Daffy Duck returns to shorts in &#39;Daffy Season&#39; for Annecy Festival](https://www.polygon.com/daffy-duck-new-looney-tunes-short-annecy-festival/)
- - [Parasite director Bong Joon Ho is making his first animated movie](https://www.polygon.com/ally-first-look-bong-joon-ho-animated-feature/)
- - [Free Play Days – Find Your Assassin: The Perfect Assassin’s Creed Game Based on Your Playstyle](https://news.xbox.com/en-us/2026/04/02/free-play-days-find-your-perfect-assassins-creed-game/)<!-- GAME:END -->
+ - [A former GameStop exec thought building its Steam competitor would be his &#39;forever job,&#39; but the retailer bet the house on digital distribution being &#39;a passing phase&#39;](https://www.pcgamer.com/gaming-industry/a-former-gamestop-exec-thought-building-its-steam-competitor-would-be-his-forever-job-but-the-retailer-bet-the-house-on-digital-distribution-being-a-passing-phase/)
+ - [The best third-party Nintendo Switch 2 Pro Controllers on sale right noow](https://www.polygon.com/best-third-party-switch-2-pro-controllers/)
+ - [Mega Crit co-founder says he wasn&#39;t bothered by the Steam backlash to Slay the Spire 2&#39;s beta balance patch: &#39;It&#39;s difficult for players to feel like they&#39;re heard&#39;](https://www.pcgamer.com/games/card-games/mega-crit-co-founder-says-he-wasnt-bothered-by-the-steam-backlash-to-slay-the-spire-2s-beta-balance-patch-its-difficult-for-players-to-feel-like-theyre-heard/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
