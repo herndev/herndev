@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Year After DOGE Cuts, GSA Now Plans to Hire Hundreds of Employees](https://www.wired.com/story/doge-cuts-gsa-plans-to-hire-hundreds-of-employees/)
- - [New Garmin Training Features &lpar;2026&rpar;: Nutrition Tracking, Lifestyle Logging, and More](https://www.wired.com/story/garmin-training-features-2026/)
- - [Best Game Controllers for PC, Switch, PS5, and Xbox](https://www.wired.com/gallery/best-gaming-controllers/)<!-- TECH:END -->
+ - [Apple at 50: Michael Spindler, the CEO who brought in the clones](https://appleinsider.com/articles/26/04/03/apple-at-50-michael-spindler-the-ceo-who-brought-in-the-clones?utm_source=rss)
+ - [Chatbots are now prescribing psychiatric drugs](https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs)
+ - [The Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2026: Compare the Air, Pro, Mini](https://www.wired.com/gallery/the-best-ipad/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
