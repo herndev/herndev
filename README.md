@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peak social engineering](http://9gag.com/gag/aMVLg96)
- - ⏩ [This person is living in 3024](http://9gag.com/gag/a9yGoqD)
+ - 💣 [This person is living in 3024](http://9gag.com/gag/a9yGoqD)
+ - ⏩ [Very interesting](http://9gag.com/gag/abA87QX)
  - 👉 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)<!-- MEMES:END -->
 
 ---
