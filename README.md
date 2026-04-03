@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;From Global&rpar; SHINOBI: Art of Vengeance DLC “SEGA Villains Stage” Launches Today!](https://blog.playstation.com/2026/04/02/20260403-shinobi/)
- - [&lpar;From Global&rpar; SHINOBI: Art of Vengeance DLC “SEGA Villains Stage” Launches Today!](https://blog.playstation.com/2026/04/02/20260403-shinobi/)
- - [Marathon interactive maps](https://www.polygon.com/map/marathon-interactive-maps-exfil-locations/)<!-- GAME:END -->
+ - [Critical Role continues the Mighty Nein story in a Campaign 2 sequel novel](https://www.polygon.com/critical-role-mighty-nein-sequel-children-of-empire/)
+ - [Spider-Man/Superman 2026 crossover exclusive — a shocking new team-up revealed](https://www.polygon.com/spider-man-superman-ghost-spider-supergirl-marvel-dc-comics-exclusive-page/)
+ - [Take-Two has seemingly laid off an unspecified portion of its AI team, including its Head of Artificial Intelligence](https://www.pcgamer.com/gaming-industry/take-two-has-seemingly-laid-off-an-unspecified-portion-of-its-ai-team-including-its-head-of-artificial-intelligence/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
