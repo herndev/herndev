@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
- - ⏩ [Who snitched ???](http://9gag.com/gag/a4P0XXp)
- - 👉 [These bros are heroes](http://9gag.com/gag/ayNKbVW)<!-- MEMES:END -->
+ - 💣 [WELP.](http://9gag.com/gag/a0e3yWd)
+ - ⏩ [`Why aren&#39;t men showing their emotions?`](http://9gag.com/gag/aW4X3Mq)
+ - 👉 [Love a friends Mom](http://9gag.com/gag/aO8WLD3)<!-- MEMES:END -->
 
 ---
 
