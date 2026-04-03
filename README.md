@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My mind is blown.](http://9gag.com/gag/aryLLQ6)
- - ⏩ [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
- - 👉 [WELP.](http://9gag.com/gag/a0e3yWd)<!-- MEMES:END -->
+ - 💣 [At the Mario Movie Premiere](http://9gag.com/gag/aQzjG48)
+ - ⏩ [Double bacon burger with extra bacon please](http://9gag.com/gag/aXPOypg)
+ - 👉 [Who snitched ???](http://9gag.com/gag/a4P0XXp)<!-- MEMES:END -->
 
 ---
 
