@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WELP.](http://9gag.com/gag/a0e3yWd)
- - ⏩ [`Why aren&#39;t men showing their emotions?`](http://9gag.com/gag/aW4X3Mq)
- - 👉 [Love a friends Mom](http://9gag.com/gag/aO8WLD3)<!-- MEMES:END -->
+ - 💣 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
+ - ⏩ [WELP.](http://9gag.com/gag/a0e3yWd)
+ - 👉 [Artemis II](http://9gag.com/gag/aNDbN0G)<!-- MEMES:END -->
 
 ---
 
