@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smile](http://9gag.com/gag/aLnEEqP)
- - ⏩ [Relatable](http://9gag.com/gag/amoZeWy)
- - 👉 [Double bacon burger with extra bacon please](http://9gag.com/gag/aXPOypg)<!-- MEMES:END -->
+ - 💣 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
+ - ⏩ [WELP.](http://9gag.com/gag/a0e3yWd)
+ - 👉 [What men want, a grateful wife](http://9gag.com/gag/aKGMMGO)<!-- MEMES:END -->
 
 ---
 
