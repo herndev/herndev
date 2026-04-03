@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why the $339 Pixel 8a is the only cheap Pixel I’d buy in 2026](https://www.androidauthority.com/refurbished-pixel-8a-only-cheap-pixel-id-buy-2026-3654569/)
- - [CBP Facility Codes Sure Seem to Have Leaked Via Online Flashcards](https://www.wired.com/story/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/)
- - [How much will RAMageddon hike flagship prices? Top phone executive reveals the cost](https://www.androidauthority.com/smartphone-ram-price-increase-3654712/)<!-- TECH:END -->
+ - [I spent a week with Android 17 Beta 3 on my Pixel, and these 4 features change everything](https://www.androidauthority.com/android-17-beta-3-hands-on-3654106/)
+ - [Samsung Frame Pro and OLED TV News: What You Need To Know in 2026](https://www.wired.com/story/samsung-frame-oled-tvs-news-2026/)
+ - [Apple CarPlay beats Android Auto &lpar;again&rpar;, gets Google Meet support](https://www.androidauthority.com/google-meet-apple-carplay-android-auto-3654720/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
