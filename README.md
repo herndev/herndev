@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who snitched ???](http://9gag.com/gag/a4P0XXp)
- - ⏩ [My mind is blown.](http://9gag.com/gag/aryLLQ6)
- - 👉 [Love a friends Mom](http://9gag.com/gag/aO8WLD3)<!-- MEMES:END -->
+ - 💣 [Cool vid](http://9gag.com/gag/aYQ09Kw)
+ - ⏩ [At the Mario Movie Premiere](http://9gag.com/gag/aQzjG48)
+ - 👉 [The only scam everyone agrees on](http://9gag.com/gag/aKGMoyb)<!-- MEMES:END -->
 
 ---
 
