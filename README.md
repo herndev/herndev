@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
+ - 💣 [WELP.](http://9gag.com/gag/a0e3yWd)
  - ⏩ [Artemis II](http://9gag.com/gag/aNDbN0G)
- - 👉 [WELP.](http://9gag.com/gag/a0e3yWd)<!-- MEMES:END -->
+ - 👉 [My mind is blown.](http://9gag.com/gag/aryLLQ6)<!-- MEMES:END -->
 
 ---
 
