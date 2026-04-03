@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta has told members of its Oversight Board that it may stop funding the board after 2028, though eliminating all funding is not its preferred option &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/260402/p30#a260402p30)
- - [Want Fashion-Forward Smart Glasses? This Company Could Easily Make It So](https://www.cnet.com/tech/mobile/nothing-reportedly-making-smart-glasses-2027-launch-commentary/)
- - [Amazon adds a 3.5% fuel and logistics surcharge to fulfillment fees for US and Canadian third-party sellers from April 17, as the Iran war drives up oil prices &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/260402/p29#a260402p29)<!-- TECH:END -->
+ - [Tilta Khronos iPhone 17 Pro Max photography kit review: keeping the future-proofed promise](https://appleinsider.com/articles/26/04/03/tilta-khronos-iphone-17-pro-max-photography-kit-review-keeping-the-future-proofed-promise?utm_source=rss)
+ - [Amazon to Add 3.5% Fulfillment Surcharge as Fuel Costs Rise](https://www.cnet.com/tech/amazon-to-add-3-5-fulfillment-surcharge-as-fuel-costs-rise/)
+ - [Day 2 of NASA&#39;s Artemis II: What Comes Next in First Crewed Mission to the Moon in Over 50 Years](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
