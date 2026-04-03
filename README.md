@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
- - ⏩ [Making some art with my daughter. Wife says no one will notice, but you f**kers wasted so much time here ...](http://9gag.com/gag/agmeWZW)
- - 👉 [Luftballon rasieren, wer kennt es noch?](http://9gag.com/gag/a9yGoA0)<!-- MEMES:END -->
+ - 💣 [Peak social engineering](http://9gag.com/gag/aMVLg96)
+ - ⏩ [This person is living in 3024](http://9gag.com/gag/a9yGoqD)
+ - 👉 [Lion just wanted a snack](http://9gag.com/gag/aD2vyQK)<!-- MEMES:END -->
 
 ---
 
