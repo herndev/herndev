@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At the Mario Movie Premiere](http://9gag.com/gag/aQzjG48)
- - ⏩ [Double bacon burger with extra bacon please](http://9gag.com/gag/aXPOypg)
- - 👉 [Who snitched ???](http://9gag.com/gag/a4P0XXp)<!-- MEMES:END -->
+ - 💣 [Double bacon burger with extra bacon please](http://9gag.com/gag/aXPOypg)
+ - ⏩ [At the Mario Movie Premiere](http://9gag.com/gag/aQzjG48)
+ - 👉 [Hope you brought a change of underwear](http://9gag.com/gag/a0e3yoq)<!-- MEMES:END -->
 
 ---
 
