@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WELP.](http://9gag.com/gag/a0e3yWd)
- - ⏩ [Love a friends Mom](http://9gag.com/gag/aO8WLD3)
- - 👉 [Who snitched ???](http://9gag.com/gag/a4P0XXp)<!-- MEMES:END -->
+ - 💣 [Peak social engineering](http://9gag.com/gag/aMVLg96)
+ - ⏩ [Sad US citizen noise...](http://9gag.com/gag/a34O6K3)
+ - 👉 [America, f**k yeah](http://9gag.com/gag/aVv6APP)<!-- MEMES:END -->
 
 ---
 
