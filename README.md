@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tower Semiconductor&#39;s market cap tops $20B, four years after a near-sale to Intel for $5B; shares are up ~60% over the past month and ~525% over the past year &lpar;CTech&rpar;](http://www.techmeme.com/260403/p9#a260403p9)
- - [It’s a good Friday to score a $150 cash discount on the Galaxy Tab S11](https://www.androidauthority.com/samsung-galaxy-tab-s11-deal-3654831/)
- - [Sources: Huawei&#39;s Ascend 950PR chip, set for mass production soon, saw prices rise 20% after Chinese tech giants placed bulk orders to run DeepSeek&#39;s V4 model &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/260403/p8#a260403p8)<!-- TECH:END -->
+ - [Chrome is testing a new feature for speeding up browsing on even the heaviest pages](https://www.androidauthority.com/chrome-lazy-loading-video-audio-3654836/)
+ - [Chinese semiconductor companies like SMIC reported record 2025 revenue, driven by AI demand and China&#39;s self-sufficiency push as a result of US restrictions &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260403/p10#a260403p10)
+ - [Taking Apple&#39;s AirPods Pro Hearing Test Was a Reality Check. This Is How We Protect Our Hearing Now](https://www.cnet.com/health/personal-care/apple-airpods-pro-hearing-test/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
