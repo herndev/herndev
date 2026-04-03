@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA Artemis II Day 2: Orion Leaves Earth&#39;s Orbit on a Trajectory to the Moon](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
- - [Matt Mullenweg says EmDash, while open source, is designed &quot;to sell more Cloudflare services&quot; and lacks the cross-platform democratization of WordPress &lpar;Matt Mullenweg&rpar;](http://www.techmeme.com/260403/p3#a260403p3)
- - [50% Off DoorDash Promo Code | April 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
+ - [Why the $339 Pixel 8a is the only cheap Pixel I’d buy in 2026](https://www.androidauthority.com/refurbished-pixel-8a-only-cheap-pixel-id-buy-2026-3654569/)
+ - [CBP Facility Codes Sure Seem to Have Leaked Via Online Flashcards](https://www.wired.com/story/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/)
+ - [How much will RAMageddon hike flagship prices? Top phone executive reveals the cost](https://www.androidauthority.com/smartphone-ram-price-increase-3654712/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
