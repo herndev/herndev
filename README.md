@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
- - ⏩ [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)
- - 👉 [Very interesting](http://9gag.com/gag/abA87QX)<!-- MEMES:END -->
+ - 💣 [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
+ - ⏩ [Love a friends Mom](http://9gag.com/gag/aO8WLD3)
+ - 👉 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)<!-- MEMES:END -->
 
 ---
 
