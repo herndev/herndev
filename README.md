@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These bros are heroes](http://9gag.com/gag/ayNKbVW)
- - ⏩ [WELP.](http://9gag.com/gag/a0e3yWd)
- - 👉 [My mind is blown.](http://9gag.com/gag/aryLLQ6)<!-- MEMES:END -->
+ - 💣 [My mind is blown.](http://9gag.com/gag/aryLLQ6)
+ - ⏩ [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
+ - 👉 [Love a friends Mom](http://9gag.com/gag/aO8WLD3)<!-- MEMES:END -->
 
 ---
 
