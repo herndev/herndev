@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My mind is blown.](http://9gag.com/gag/aryLLQ6)
- - ⏩ [Explain this Atheists.](http://9gag.com/gag/aByeBLP)
- - 👉 [Love a friends Mom](http://9gag.com/gag/aO8WLD3)<!-- MEMES:END -->
+ - 💣 [Smile](http://9gag.com/gag/aLnEEqP)
+ - ⏩ [Relatable](http://9gag.com/gag/amoZeWy)
+ - 👉 [Double bacon burger with extra bacon please](http://9gag.com/gag/aXPOypg)<!-- MEMES:END -->
 
 ---
 
