@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Who is Rook Kast and the Shadow Collective in Star Wars: Maul — Shadow Lord?](https://www.polygon.com/maul-shadow-lord-rook-cast-shadow-collective-explained/)
- - [When does Star Wars: Maul — Shadow Lord take place? The timeline explained](https://www.polygon.com/when-does-star-wars-maul-shadow-lord-take-place-in-the-timeline/)
- - [Star Wars Maul Shadow Lord review: A triumphant return for the best Sith](https://www.polygon.com/star-wars-maul-shadow-lord-review/)<!-- GAME:END -->
+ - [Marathon&#39;s most powerful gun gets a major nerf, as Bungie seeks to &#39;curb a little bit of its dominion in the game&#39;](https://www.pcgamer.com/games/fps/marathons-most-powerful-gun-gets-a-major-nerf-as-bungie-seeks-to-curb-a-little-bit-of-its-dominion-in-the-game/)
+ - [How Maul: Shadow Lord&#39;s coolest new Jedi was inspired by Obi-Wan Kenobi](https://www.polygon.com/maul-shadow-lord-master-daki-obi-wan-kenobi/)
+ - [Netflix reveals Steel Ball Run&#39;s release schedule and return](https://www.polygon.com/netflix-steel-ball-run-release-schedule-weekly-fall-2026-second-stage/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
