@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s a man eater.](http://9gag.com/gag/aW4XVQ3)
- - ⏩ [2-step Verification](http://9gag.com/gag/aGyQPZ6)
- - 👉 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)<!-- MEMES:END -->
+ - 💣 [This is how you run a business with a spine. Respect for this establishment](http://9gag.com/gag/a87xLj1)
+ - ⏩ [With and wihout makeup](http://9gag.com/gag/azxp7vK)
+ - 👉 [No matter the place, event, or mission...](http://9gag.com/gag/aMVLpX6)<!-- MEMES:END -->
 
 ---
 
