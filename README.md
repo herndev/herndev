@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with Sam Altman and 100+ people on if he can be trusted amid allegations of persistent lying and more: some defend him, others call him a sociopath &lpar;New Yorker&rpar;](http://www.techmeme.com/260406/p8#a260406p8)
- - [This new Circle to Search feature saved me from three dumb purchases](https://www.androidauthority.com/circle-to-search-fit-check-review-3654518/)
- - [The DOJ Misled a Judge About How It’s Using Voter Roll Data](https://www.wired.com/story/doj-misled-judge-voter-roll-data/)<!-- TECH:END -->
+ - [8 Best Apple Watch Accessories &lpar;2026&rpar;: Bands, Chargers, and More](https://www.wired.com/gallery/best-apple-watch-accessories/)
+ - [Your Galaxy S25 is about to get the S26’s best features for free](https://www.androidauthority.com/samsung-galaxy-s26-ai-features-coming-to-s25-3655034/)
+ - [Apple at 50: Michael Spindler, the CEO who brought in the clones](https://appleinsider.com/articles/26/04/03/apple-at-50-michael-spindler-the-ceo-who-brought-in-the-clones?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
