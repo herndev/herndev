@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Maximum Pleasure Guaranteed&#39; signals a darker, looser Apple TV strategy](https://appleinsider.com/articles/26/04/06/maximum-pleasure-guaranteed-signals-a-darker-looser-apple-tv-strategy?utm_source=rss)
- - [Netflix launches Netflix Playground, a games app for kids aged eight and under, in the US, UK, Canada, Australia, the Philippines, and New Zealand &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/260406/p14#a260406p14)
- - [One Of Our Favorite 360 Cams Is 35 Percent Off](https://www.wired.com/story/dji-osmo-360-deal-426/)<!-- TECH:END -->
+ - [There’s a new Pixel model debuting tomorrow, but you probably can’t buy it](https://www.androidauthority.com/new-google-pixel-10a-color-rumor-3655128/)
+ - [This Android gaming handheld has a wild feature that could replace your Bluetooth controller](https://www.androidauthority.com/gamemt-e5-modx-android-handheld-3655101/)
+ - [A federal appeals court rules New Jersey cannot block Kalshi users in the state from sports-related event contracts, finding CFTC has exclusive jurisdiction &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/260406/p16#a260406p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
