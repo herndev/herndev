@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2-step Verification](http://9gag.com/gag/aGyQPZ6)
- - ⏩ [Classic](http://9gag.com/gag/a4P0M4v)
+ - 💣 [Careful batman...](http://9gag.com/gag/aMVLpnP)
+ - ⏩ [2-step Verification](http://9gag.com/gag/aGyQPZ6)
  - 👉 [Thank you cameraman!](http://9gag.com/gag/amo4qvo)<!-- MEMES:END -->
 
 ---
