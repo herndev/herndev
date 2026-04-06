@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s a new Pixel model debuting tomorrow, but you probably can’t buy it](https://www.androidauthority.com/new-google-pixel-10a-color-rumor-3655128/)
- - [This Android gaming handheld has a wild feature that could replace your Bluetooth controller](https://www.androidauthority.com/gamemt-e5-modx-android-handheld-3655101/)
- - [A federal appeals court rules New Jersey cannot block Kalshi users in the state from sports-related event contracts, finding CFTC has exclusive jurisdiction &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/260406/p16#a260406p16)<!-- TECH:END -->
+ - [Samsung’s Galaxy Glasses just passed a major launch milestone](https://www.androidauthority.com/samsung-galaxy-glasses-battery-certification-3655162/)
+ - [How social media became a freak show: X punishes external links and most top accounts, such as Catturd, are very low-quality but get more engagement than NYT &lpar;Nate Silver/Silver Bulletin&rpar;](http://www.techmeme.com/260406/p17#a260406p17)
+ - [Hot deal: Samsung Galaxy Watch 8 Classic drops by $230! &lpar;Nearly half off&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-8-classic-deal-5-3655138/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
