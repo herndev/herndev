@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Werner Herzog&#39;s 3D masterpiece returns to IMAX theaters in 6K](https://www.polygon.com/imax-rerelease-werner-herzog-cave-of-forgotten-dreams/)
- - [Relive Nintendo&#39;s wild Donkey Kong court case from 1983](https://www.polygon.com/donkey-kong-lawsuit-king-shigeru-miyamoto-deposition/)
- - [King of Meat shuts down this week, so play it while you can](https://www.polygon.com/king-of-meat-amazon-shutdown-eulogy/)<!-- GAME:END -->
+ - [A rare Nintendo Switch 2 deal arrives just in time for Mario Galaxy fever](https://www.polygon.com/nintendo-switch-2-mario-galaxy-bundle-deal-amazon/)
+ - [How to get the Scorchflame armor in Crimson Desert](https://www.polygon.com/crimson-desert-scorchflame-armor-location/)
+ - [WoW raiders start celebrating world-first Midnight boss kill before watching it come back to life for a secret final phase: &#39;This cannot be&#39;](https://www.pcgamer.com/games/world-of-warcraft/wow-raiders-start-celebrating-world-first-midnight-boss-kill-before-watching-it-come-back-to-life-for-a-secret-final-phase-this-cannot-be/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
