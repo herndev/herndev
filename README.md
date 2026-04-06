@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a dog having the best day of its life.](http://9gag.com/gag/avyKpPq)
- - ⏩ [Go to the gym lads](http://9gag.com/gag/agmz35q)
- - 👉 [You are a Wizard, daddy.](http://9gag.com/gag/a2v6z7D)<!-- MEMES:END -->
+ - 💣 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
+ - ⏩ [Who is this guy?!](http://9gag.com/gag/amo4N2v)
+ - 👉 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)<!-- MEMES:END -->
 
 ---
 
