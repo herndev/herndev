@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very interesting](http://9gag.com/gag/abA87QX)
- - ⏩ [The day we executed horologist](http://9gag.com/gag/aLnEyM6)
- - 👉 [What&#39;s he going to do with that?](http://9gag.com/gag/axyrqLM)<!-- MEMES:END -->
+ - 💣 [* Insert hot fuzz `Shame` meme *](http://9gag.com/gag/aKGM0WO)
+ - ⏩ [He is Risen!](http://9gag.com/gag/a87grep)
+ - 👉 [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)<!-- MEMES:END -->
 
 ---
 
