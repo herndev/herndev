@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex-Nintendo Sales Lead Explains The Three Factors Making A Switch 2 Price Hike ‘Inevitable’](https://kotaku.com/switch-2-price-ram-iran-oil-trump-tariffs-2000684755)
- - [This AI startup envisions &#39;100 million new people&#39; making videogames](https://www.pcgamer.com/software/ai/this-ai-startup-envisions-100-million-new-people-making-videogames/)
- - [Slay the Spire 2 adds end-of-run badges &#39;to let you know what was unique about each adventure&#39; in latest beta patch](https://www.pcgamer.com/games/card-games/slay-the-spire-2-adds-end-of-run-badges-to-let-you-know-what-was-unique-about-each-adventure-in-latest-beta-patch/)<!-- GAME:END -->
+ - [Crimson Desert patch 1.02 confirms those who played at launch had it the worst](https://www.polygon.com/crimson-desert-second-update/)
+ - [Star Wars Zero Company studio founder praises Lucasfilm and Respawn for taking a chance on a tactics game](https://www.pcgamer.com/games/rpg/star-wars-zero-company-studio-founder-praises-lucasfilm-and-respawn-for-taking-a-chance-on-a-tactics-game/)
+ - [Star Wars Zero Company writer wants its cast to have real friction: &#39;It&#39;s not a personal fantasy game&#39;](https://www.pcgamer.com/games/rpg/star-wars-zero-company-writer-wants-its-cast-to-have-real-friction-its-not-a-personal-fantasy-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
