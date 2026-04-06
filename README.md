@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Anthropic has formed AnthroPAC, a new PAC that will be funded exclusively and voluntarily by its employees and is expected to be bipartisan &lpar;Miranda Nazzaro/The Hill&rpar;](http://www.techmeme.com/260403/p19#a260403p19)
- - [Sources: Meta&#39;s &quot;Project Walleye&quot; Ohio data center seeks $3B in loans in a first-of-its-kind deal where lenders will fund both the building and the power assets &lpar;Financial Times&rpar;](http://www.techmeme.com/260403/p18#a260403p18)
- - [After Cutting Down on &#39;Side Quests,&#39; OpenAI Bought a Talk Show](https://www.cnet.com/tech/services-and-software/openai-acquires-tbpn/)<!-- TECH:END -->
+ - [A deep dive into China&#39;s efforts to integrate AI into K-12 education to reduce teacher workloads, improve rural schools, and help students with disabilities &lpar;Lily Ottinger/ChinaTalk&rpar;](http://www.techmeme.com/260405/p9#a260405p9)
+ - [Medvi, glorified by the NYT as a two-employee startup with $1B+ in revenue, is a warning about how AI can be misused for shady business and marketing practices &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/260405/p8#a260405p8)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 6 #764](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-6-764/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
