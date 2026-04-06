@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This awesome UGREEN Uno USB-C Cable is under $10](https://www.androidauthority.com/ugreen-uno-usb-c-cable-100w-deal-3655135/)
- - [Australian AI infrastructure startup Firmus raised $505M led by Coatue at a $5.5B valuation, bringing its funding raised in the last six months to $1.35B &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260406/p19#a260406p19)
- - [Artemis II astronauts break a record, name a crater](https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names)<!-- TECH:END -->
+ - [The rapid adoption of AI coding tools has let workers generate massive volumes of code, leaving companies scrambling to review and secure the AI-generated code &lpar;New York Times&rpar;](http://www.techmeme.com/260406/p21#a260406p21)
+ - [Wisconsin governor says ‘no’ to age checks for porn](https://www.theverge.com/policy/907761/wisconsin-governor-porn-age-verification-vetoed)
+ - [Sources: OpenAI, Anthropic, and Google are sharing information via the Frontier Model Forum to detect adversarial distillation attempts that violate their ToS &lpar;Bloomberg&rpar;](http://www.techmeme.com/260406/p20#a260406p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
