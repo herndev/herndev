@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crimson Desert patch 1.02 confirms those who played at launch had it the worst](https://www.polygon.com/crimson-desert-second-update/)
- - [Star Wars Zero Company studio founder praises Lucasfilm and Respawn for taking a chance on a tactics game](https://www.pcgamer.com/games/rpg/star-wars-zero-company-studio-founder-praises-lucasfilm-and-respawn-for-taking-a-chance-on-a-tactics-game/)
- - [Star Wars Zero Company writer wants its cast to have real friction: &#39;It&#39;s not a personal fantasy game&#39;](https://www.pcgamer.com/games/rpg/star-wars-zero-company-writer-wants-its-cast-to-have-real-friction-its-not-a-personal-fantasy-game/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation Store: March 2026’s top downloads](https://blog.playstation.com/2026/04/05/20260406-top/)
+ - [Faces of Death 2026 review: Eemake is smart, well-made, and not all that disturbing](https://www.polygon.com/faces-of-death-2026-remake-review/)
+ - [Crimson Desert patch 1.02 confirms those who played at launch had it the worst](https://www.polygon.com/crimson-desert-second-update/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
