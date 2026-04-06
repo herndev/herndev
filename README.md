@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how I feel recently](http://9gag.com/gag/ajP423G)
- - ⏩ [You are a Wizard, daddy.](http://9gag.com/gag/a2v6z7D)
- - 👉 [Just a dog having the best day of its life.](http://9gag.com/gag/avyKpPq)<!-- MEMES:END -->
+ - 💣 [Who is this guy?!](http://9gag.com/gag/amo4N2v)
+ - ⏩ [Betch lost her mind xD](http://9gag.com/gag/aLnEqyV)
+ - 👉 [Classic](http://9gag.com/gag/a4P0M4v)<!-- MEMES:END -->
 
 ---
 
