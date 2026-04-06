@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix debuts VOID, a vision-language model that can erase objects from a scene and simulate how remaining objects would behave without them &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/260406/p3#a260406p3)
- - [Indian IT giant Wipro agrees to buy Mindsprint, the IT services arm of Singapore-based Olam, for $375M, and strikes an eight-year, $1B contract with Olam &lpar;Reuters&rpar;](http://www.techmeme.com/260406/p2#a260406p2)
- - [Documents: OpenAI and Anthropic have projected profitability to investors with and without training costs, and report inference costs exceeding half of revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260406/p1#a260406p1)<!-- TECH:END -->
+ - [Google Play Store now lets you dig through app reviews for real answers](https://www.androidauthority.com/google-play-store-search-reviews-3654976/)
+ - [Sources: companies like Palo Alto Networks and Sophos see increased demand for their ransom negotiators, as businesses seek help in talks with cybercriminals &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260406/p4#a260406p4)
+ - [Netflix debuts VOID, a vision-language model that can erase objects from a scene and simulate how remaining objects would behave without them &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/260406/p3#a260406p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
