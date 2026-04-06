@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how you run a business with a spine. Respect for this establishment](http://9gag.com/gag/a87xLj1)
+ - 💣 [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)
  - ⏩ [With and wihout makeup](http://9gag.com/gag/azxp7vK)
- - 👉 [No matter the place, event, or mission...](http://9gag.com/gag/aMVLpX6)<!-- MEMES:END -->
+ - 👉 [This is how I feel recently](http://9gag.com/gag/ajP423G)<!-- MEMES:END -->
 
 ---
 
