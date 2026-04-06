@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
- - ⏩ [Who is this guy?!](http://9gag.com/gag/amo4N2v)
- - 👉 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)<!-- MEMES:END -->
+ - 💣 [Go to the gym lads](http://9gag.com/gag/agmz35q)
+ - ⏩ [With and wihout makeup](http://9gag.com/gag/azxp7vK)
+ - 👉 [The working man](http://9gag.com/gag/ary71wX)<!-- MEMES:END -->
 
 ---
 
