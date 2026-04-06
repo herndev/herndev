@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Studio Display XDR may be used to look at your next MRI or X-Ray](https://appleinsider.com/articles/26/04/06/studio-display-xdr-may-be-used-to-look-at-your-next-mri-or-x-ray?utm_source=rss)
- - [Pixel’s March update is causing some phones to boot loop endlessly, and no one knows why](https://www.androidauthority.com/google-pixel-march-update-boot-loop-3655031/)
- - [Vibe coding app&#39;s victory lap cut very short by the App Store](https://appleinsider.com/articles/26/04/06/vibe-coding-apps-victory-lap-cut-very-short-by-the-app-store?utm_source=rss)<!-- TECH:END -->
+ - [How advanced chip packaging became one of Intel&#39;s fast-growing businesses; sources: Intel is in talks with Google and Amazon for its advanced packaging services &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/260406/p11#a260406p11)
+ - [iPhone Fold enters manufacturing test phase right on schedule](https://appleinsider.com/articles/26/04/06/iphone-fold-enters-manufacturing-test-phase-right-on-schedule?utm_source=rss)
+ - [What the new Matter update delivers to Apple Home users, on Smart Home Insider](https://appleinsider.com/articles/26/04/06/what-the-new-matter-update-delivers-to-apple-home-users-on-smart-home-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
