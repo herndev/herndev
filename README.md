@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Only today: Amazon eero 6 mesh wifi system hits record-low price!](https://www.androidauthority.com/amazon-eero-6-mesh-wifi-system-deal-3655137/)
- - [Samsung Galaxy Z Fold 8 Wide animation is getting us excited for what that new screen shape can do](https://www.androidauthority.com/galaxy-z-fold-8-wide-animation-3655143/)
- - [Samsung’s Galaxy Glasses just passed a major launch milestone](https://www.androidauthority.com/samsung-galaxy-glasses-battery-certification-3655162/)<!-- TECH:END -->
+ - [This awesome UGREEN Uno USB-C Cable is under $10](https://www.androidauthority.com/ugreen-uno-usb-c-cable-100w-deal-3655135/)
+ - [Australian AI infrastructure startup Firmus raised $505M led by Coatue at a $5.5B valuation, bringing its funding raised in the last six months to $1.35B &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/260406/p19#a260406p19)
+ - [Artemis II astronauts break a record, name a crater](https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
