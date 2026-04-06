@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)
- - ⏩ [Well, yes](http://9gag.com/gag/a34XPNm)
- - 👉 [Careful batman...](http://9gag.com/gag/aMVLpnP)<!-- MEMES:END -->
+ - 💣 [Just a dog having the best day of its life.](http://9gag.com/gag/avyKpPq)
+ - ⏩ [Go to the gym lads](http://9gag.com/gag/agmz35q)
+ - 👉 [You are a Wizard, daddy.](http://9gag.com/gag/a2v6z7D)<!-- MEMES:END -->
 
 ---
 
