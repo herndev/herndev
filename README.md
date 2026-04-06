@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Store now lets you dig through app reviews for real answers](https://www.androidauthority.com/google-play-store-search-reviews-3654976/)
- - [Sources: companies like Palo Alto Networks and Sophos see increased demand for their ransom negotiators, as businesses seek help in talks with cybercriminals &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260406/p4#a260406p4)
- - [Netflix debuts VOID, a vision-language model that can erase objects from a scene and simulate how remaining objects would behave without them &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/260406/p3#a260406p3)<!-- TECH:END -->
+ - [Breaking: Samsung may add Galaxy S27 Pro as a fourth flagship model next year](https://www.androidauthority.com/samsung-galaxy-s27-pro-leak-3655007/)
+ - [Japan, driven by labor shortages, is increasingly adopting robotics and physical AI, with a hybrid model where startups innovate and corporations provide scale &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/260406/p5#a260406p5)
+ - [The 5 biggest problems Google needs to fix with the Pixel 11 series](https://www.androidauthority.com/pixel-11-series-problems-google-needs-fix-3654824/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
