@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s 60W Galaxy S26 Ultra finally charges fast, but only because it lags on battery size](https://www.androidauthority.com/galaxy-s26-ultra-60w-tested-3653581/)
- - [OpenAI unveils policy proposals for a world with superintelligence: higher capital gains taxes, a public AI investment fund, strengthened safety nets, and more &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/260406/p6#a260406p6)
- - [Snake Bros Keep Getting Bitten by Their Lethal Pets. Only Zoos Can Save Them](https://www.wired.com/snake-bros-antivenom-index-zoos-influencers-chris-gifford/)<!-- TECH:END -->
+ - [Interviews with Sam Altman and 100+ people on if he can be trusted amid allegations of persistent lying and more: some defend him, others call him a sociopath &lpar;New Yorker&rpar;](http://www.techmeme.com/260406/p8#a260406p8)
+ - [This new Circle to Search feature saved me from three dumb purchases](https://www.androidauthority.com/circle-to-search-fit-check-review-3654518/)
+ - [The DOJ Misled a Judge About How It’s Using Voter Roll Data](https://www.wired.com/story/doj-misled-judge-voter-roll-data/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
