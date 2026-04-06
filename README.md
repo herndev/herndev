@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [* Insert hot fuzz `Shame` meme *](http://9gag.com/gag/aKGM0WO)
- - ⏩ [He is Risen!](http://9gag.com/gag/a87grep)
- - 👉 [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)<!-- MEMES:END -->
+ - 💣 [Careful batman...](http://9gag.com/gag/aMVLpnP)
+ - ⏩ [Wait, that&#39;s illegal](http://9gag.com/gag/aryLP16)
+ - 👉 [Treating bloating in cattle.](http://9gag.com/gag/a6ZRWmm)<!-- MEMES:END -->
 
 ---
 
