@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&amp;#8217;s Galaxy S27 &amp;#8216;Pro&amp;#8217; could squeeze in between the Ultra and Plus phones](https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor)
- - [T-Mobile’s latest update may prevent some older devices from working correctly](https://www.androidauthority.com/t-mobile-security-update-older-devices-3655078/)
- - [Iran threatens OpenAI’s Stargate data center in Abu Dhabi](https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat)<!-- TECH:END -->
+ - [&#39;Maximum Pleasure Guaranteed&#39; signals a darker, looser Apple TV strategy](https://appleinsider.com/articles/26/04/06/maximum-pleasure-guaranteed-signals-a-darker-looser-apple-tv-strategy?utm_source=rss)
+ - [Netflix launches Netflix Playground, a games app for kids aged eight and under, in the US, UK, Canada, Australia, the Philippines, and New Zealand &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/260406/p14#a260406p14)
+ - [One Of Our Favorite 360 Cams Is 35 Percent Off](https://www.wired.com/story/dji-osmo-360-deal-426/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
