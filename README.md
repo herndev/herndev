@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI buying TBPN makes little sense, par for the course for a company that, like Twitter, stumbled into a big market and may never build a functional business &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260406/p12#a260406p12)
- - [How to use digital IDs in Apple Wallet &amp; where they are supported](https://appleinsider.com/articles/25/11/18/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss)
- - [Keep These 11 Foods Out of the Freezer at All Cost](https://www.cnet.com/news/keep-these-11-foods-out-of-the-freezer-at-all-cost/)<!-- TECH:END -->
+ - [Samsung&amp;#8217;s Galaxy S27 &amp;#8216;Pro&amp;#8217; could squeeze in between the Ultra and Plus phones](https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor)
+ - [T-Mobile’s latest update may prevent some older devices from working correctly](https://www.androidauthority.com/t-mobile-security-update-older-devices-3655078/)
+ - [Iran threatens OpenAI’s Stargate data center in Abu Dhabi](https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
