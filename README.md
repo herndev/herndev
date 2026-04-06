@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
+ - 💣 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)
  - ⏩ [Well, yes](http://9gag.com/gag/a34XPNm)
- - 👉 [This is 9GAG\u2026 you know where this is going](http://9gag.com/gag/aYQXN1v)<!-- MEMES:END -->
+ - 👉 [Careful batman...](http://9gag.com/gag/aMVLpnP)<!-- MEMES:END -->
 
 ---
 
