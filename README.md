@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Breaking: Samsung may add Galaxy S27 Pro as a fourth flagship model next year](https://www.androidauthority.com/samsung-galaxy-s27-pro-leak-3655007/)
- - [Japan, driven by labor shortages, is increasingly adopting robotics and physical AI, with a hybrid model where startups innovate and corporations provide scale &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/260406/p5#a260406p5)
- - [The 5 biggest problems Google needs to fix with the Pixel 11 series](https://www.androidauthority.com/pixel-11-series-problems-google-needs-fix-3654824/)<!-- TECH:END -->
+ - [Samsung’s 60W Galaxy S26 Ultra finally charges fast, but only because it lags on battery size](https://www.androidauthority.com/galaxy-s26-ultra-60w-tested-3653581/)
+ - [OpenAI unveils policy proposals for a world with superintelligence: higher capital gains taxes, a public AI investment fund, strengthened safety nets, and more &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/260406/p6#a260406p6)
+ - [Snake Bros Keep Getting Bitten by Their Lethal Pets. Only Zoos Can Save Them](https://www.wired.com/snake-bros-antivenom-index-zoos-influencers-chris-gifford/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
