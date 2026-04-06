@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An iPhone has now captured photos no Android phone has ever taken](https://www.androidauthority.com/artemis-iphone-17-pro-max-photos-3654955/)
- - [Microsoft is updating devices from Windows 11 24H2 to version 25H2 with no way to fully opt out, and says an &quot;intelligent&quot; ML-based system handles the rollout &lpar;Kunal Khullar/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260405/p12#a260405p12)
- - [LG’s canceled rollable just embarrassed 2026 phones in a teardown video](https://www.androidauthority.com/lg-rollable-teardown-3654951/)<!-- TECH:END -->
+ - [Indian IT giant Wipro agrees to buy Mindsprint, the IT services arm of Singapore-based Olam, for $375M, and strikes an eight-year, $1B contract with Olam &lpar;Reuters&rpar;](http://www.techmeme.com/260406/p2#a260406p2)
+ - [Documents: OpenAI and Anthropic have projected profitability to investors with and without training costs, and report inference costs exceeding half of revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260406/p1#a260406p1)
+ - [Samsung brings BP monitoring to Galaxy Watches in the US &lpar;Updated: Clarification on FDA approval&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-blood-pressure-monitoring-us-rollout-3653403/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
