@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who is this guy?!](http://9gag.com/gag/amo4N2v)
- - ⏩ [Betch lost her mind xD](http://9gag.com/gag/aLnEqyV)
- - 👉 [Classic](http://9gag.com/gag/a4P0M4v)<!-- MEMES:END -->
+ - 💣 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
+ - ⏩ [Well, yes](http://9gag.com/gag/a34XPNm)
+ - 👉 [This is 9GAG\u2026 you know where this is going](http://9gag.com/gag/aYQXN1v)<!-- MEMES:END -->
 
 ---
 
