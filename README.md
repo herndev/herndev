@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deep dive into China&#39;s efforts to integrate AI into K-12 education to reduce teacher workloads, improve rural schools, and help students with disabilities &lpar;Lily Ottinger/ChinaTalk&rpar;](http://www.techmeme.com/260405/p9#a260405p9)
- - [Medvi, glorified by the NYT as a two-employee startup with $1B+ in revenue, is a warning about how AI can be misused for shady business and marketing practices &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/260405/p8#a260405p8)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 6 #764](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-6-764/)<!-- TECH:END -->
+ - [China, which dominates the global drone industry, has sharply tightened its drone use rules, as some users say they are hindering routine and lawful flights &lpar;Joy Dong/New York Times&rpar;](http://www.techmeme.com/260405/p10#a260405p10)
+ - [NASA Artemis II Day 5: Astronauts Prep for Monday&#39;s Moon Flyby](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)
+ - [A deep dive into China&#39;s efforts to integrate AI into K-12 education to reduce teacher workloads, improve rural schools, and help students with disabilities &lpar;Lily Ottinger/ChinaTalk&rpar;](http://www.techmeme.com/260405/p9#a260405p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
