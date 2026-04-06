@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where are the asexual dating sims? Ace &amp; Aro addresses a lack of representation](https://www.polygon.com/ace-and-aro-heart-to-heart-interview/)
- - [Mark Hamill reveals Lego Star Wars plans, truth about Luke toys](https://www.polygon.com/mark-hamill-interview-lego-hq/)
- - [A Japanese indie developer is seeking legal action over alleged missing funds from a crowdfunding campaign, says the funding platform claims the money was &#39;mistakenly wired to a different client&#39;](https://www.pcgamer.com/gaming-industry/a-japanese-indie-developer-is-seeking-legal-action-over-alleged-missing-funds-from-a-crowdfunding-campaign-says-the-funding-platform-claims-the-money-was-mistakenly-wired-to-a-different-client/)<!-- GAME:END -->
+ - [Werner Herzog&#39;s 3D masterpiece returns to IMAX theaters in 6K](https://www.polygon.com/imax-rerelease-werner-herzog-cave-of-forgotten-dreams/)
+ - [Relive Nintendo&#39;s wild Donkey Kong court case from 1983](https://www.polygon.com/donkey-kong-lawsuit-king-shigeru-miyamoto-deposition/)
+ - [King of Meat shuts down this week, so play it while you can](https://www.polygon.com/king-of-meat-amazon-shutdown-eulogy/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
