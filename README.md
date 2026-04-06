@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s canceled rollable just embarrassed 2026 phones in a teardown video](https://www.androidauthority.com/lg-rollable-teardown-3654951/)
- - [Sources: Sam Altman has excluded OpenAI CFO Sarah Friar from some key financial meetings; Friar began reporting to Fidji Simo instead of the CEO in August 2025 &lpar;The Information&rpar;](http://www.techmeme.com/260405/p11#a260405p11)
- - [China, which dominates the global drone industry, has sharply tightened its drone use rules, as some users say they are hindering routine and lawful flights &lpar;Joy Dong/New York Times&rpar;](http://www.techmeme.com/260405/p10#a260405p10)<!-- TECH:END -->
+ - [An iPhone has now captured photos no Android phone has ever taken](https://www.androidauthority.com/artemis-iphone-17-pro-max-photos-3654955/)
+ - [Microsoft is updating devices from Windows 11 24H2 to version 25H2 with no way to fully opt out, and says an &quot;intelligent&quot; ML-based system handles the rollout &lpar;Kunal Khullar/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260405/p12#a260405p12)
+ - [LG’s canceled rollable just embarrassed 2026 phones in a teardown video](https://www.androidauthority.com/lg-rollable-teardown-3654951/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
