@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Classic](http://9gag.com/gag/a4P0M4v)
- - ⏩ [That\u2019ll be 158 dollars!](http://9gag.com/gag/an7oAxB)
+ - 💣 [No matter the place, event, or mission...](http://9gag.com/gag/aMVLpX6)
+ - ⏩ [She&#39;s a man eater.](http://9gag.com/gag/aW4XVQ3)
  - 👉 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)<!-- MEMES:END -->
 
 ---
