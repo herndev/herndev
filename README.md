@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That\u2019ll be 158 dollars!](http://9gag.com/gag/an7oAxB)
- - ⏩ [2-step Verification](http://9gag.com/gag/aGyQPZ6)
- - 👉 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)<!-- MEMES:END -->
+ - 💣 [This is how I feel recently](http://9gag.com/gag/ajP423G)
+ - ⏩ [You are a Wizard, daddy.](http://9gag.com/gag/a2v6z7D)
+ - 👉 [Just a dog having the best day of its life.](http://9gag.com/gag/avyKpPq)<!-- MEMES:END -->
 
 ---
 
