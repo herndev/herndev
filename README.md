@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Careful batman...](http://9gag.com/gag/aMVLpnP)
- - ⏩ [Wait, that&#39;s illegal](http://9gag.com/gag/aryLP16)
- - 👉 [Treating bloating in cattle.](http://9gag.com/gag/a6ZRWmm)<!-- MEMES:END -->
+ - 💣 [No matter the place, event, or mission...](http://9gag.com/gag/aMVLpX6)
+ - ⏩ [Classic](http://9gag.com/gag/a4P0M4v)
+ - 👉 [Wait, that&#39;s illegal](http://9gag.com/gag/aryLP16)<!-- MEMES:END -->
 
 ---
 
