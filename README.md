@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Careful batman...](http://9gag.com/gag/aMVLpnP)
- - ⏩ [2-step Verification](http://9gag.com/gag/aGyQPZ6)
- - 👉 [Thank you cameraman!](http://9gag.com/gag/amo4qvo)<!-- MEMES:END -->
+ - 💣 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
+ - ⏩ [The working man](http://9gag.com/gag/ary71wX)
+ - 👉 [Classic](http://9gag.com/gag/a4P0M4v)<!-- MEMES:END -->
 
 ---
 
