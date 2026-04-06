@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No matter the place, event, or mission...](http://9gag.com/gag/aMVLpX6)
- - ⏩ [Classic](http://9gag.com/gag/a4P0M4v)
- - 👉 [Wait, that&#39;s illegal](http://9gag.com/gag/aryLP16)<!-- MEMES:END -->
+ - 💣 [Wait, that&#39;s illegal](http://9gag.com/gag/aryLP16)
+ - ⏩ [She&#39;s a man eater.](http://9gag.com/gag/aW4XVQ3)
+ - 👉 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)<!-- MEMES:END -->
 
 ---
 
