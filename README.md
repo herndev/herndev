@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How advanced chip packaging became one of Intel&#39;s fast-growing businesses; sources: Intel is in talks with Google and Amazon for its advanced packaging services &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/260406/p11#a260406p11)
- - [iPhone Fold enters manufacturing test phase right on schedule](https://appleinsider.com/articles/26/04/06/iphone-fold-enters-manufacturing-test-phase-right-on-schedule?utm_source=rss)
- - [What the new Matter update delivers to Apple Home users, on Smart Home Insider](https://appleinsider.com/articles/26/04/06/what-the-new-matter-update-delivers-to-apple-home-users-on-smart-home-insider?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI buying TBPN makes little sense, par for the course for a company that, like Twitter, stumbled into a big market and may never build a functional business &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260406/p12#a260406p12)
+ - [How to use digital IDs in Apple Wallet &amp; where they are supported](https://appleinsider.com/articles/25/11/18/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss)
+ - [Keep These 11 Foods Out of the Freezer at All Cost](https://www.cnet.com/news/keep-these-11-foods-out-of-the-freezer-at-all-cost/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
