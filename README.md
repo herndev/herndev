@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
- - ⏩ [The working man](http://9gag.com/gag/ary71wX)
- - 👉 [Classic](http://9gag.com/gag/a4P0M4v)<!-- MEMES:END -->
+ - 💣 [That\u2019ll be 158 dollars!](http://9gag.com/gag/an7oAxB)
+ - ⏩ [2-step Verification](http://9gag.com/gag/aGyQPZ6)
+ - 👉 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)<!-- MEMES:END -->
 
 ---
 
