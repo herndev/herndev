@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy Glasses just passed a major launch milestone](https://www.androidauthority.com/samsung-galaxy-glasses-battery-certification-3655162/)
- - [How social media became a freak show: X punishes external links and most top accounts, such as Catturd, are very low-quality but get more engagement than NYT &lpar;Nate Silver/Silver Bulletin&rpar;](http://www.techmeme.com/260406/p17#a260406p17)
- - [Hot deal: Samsung Galaxy Watch 8 Classic drops by $230! &lpar;Nearly half off&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-8-classic-deal-5-3655138/)<!-- TECH:END -->
+ - [Only today: Amazon eero 6 mesh wifi system hits record-low price!](https://www.androidauthority.com/amazon-eero-6-mesh-wifi-system-deal-3655137/)
+ - [Samsung Galaxy Z Fold 8 Wide animation is getting us excited for what that new screen shape can do](https://www.androidauthority.com/galaxy-z-fold-8-wide-animation-3655143/)
+ - [Samsung’s Galaxy Glasses just passed a major launch milestone](https://www.androidauthority.com/samsung-galaxy-glasses-battery-certification-3655162/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
