@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The rapid adoption of AI coding tools has let workers generate massive volumes of code, leaving companies scrambling to review and secure the AI-generated code &lpar;New York Times&rpar;](http://www.techmeme.com/260406/p21#a260406p21)
- - [Wisconsin governor says ‘no’ to age checks for porn](https://www.theverge.com/policy/907761/wisconsin-governor-porn-age-verification-vetoed)
- - [Sources: OpenAI, Anthropic, and Google are sharing information via the Frontier Model Forum to detect adversarial distillation attempts that violate their ToS &lpar;Bloomberg&rpar;](http://www.techmeme.com/260406/p20#a260406p20)<!-- TECH:END -->
+ - [OpenAI sends a letter to the California and Delaware AGs, urging them to investigate &quot;anti-competitive behavior&quot; by Elon Musk, ahead of a trial in April &lpar;CNBC&rpar;](http://www.techmeme.com/260406/p24#a260406p24)
+ - [Filing: Broadcom agrees to produce future versions of Google&#39;s TPUs and expands its Anthropic deal to give the startup access to ~3.5 GW of computing capacity &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260406/p23#a260406p23)
+ - [Trump Administration Bans Chinese Routers. Phones and Cameras Could Follow](https://www.cnet.com/tech/mobile/the-trump-administration-banned-chinese-made-routers-now-mobile-phones-and-cameras-could-be-next/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
