@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait, that&#39;s illegal](http://9gag.com/gag/aryLP16)
- - ⏩ [She&#39;s a man eater.](http://9gag.com/gag/aW4XVQ3)
- - 👉 [Careful batman...](http://9gag.com/gag/aMVLpnP)<!-- MEMES:END -->
+ - 💣 [No chill](http://9gag.com/gag/abA8j38)
+ - ⏩ [* Insert hot fuzz `Shame` meme *](http://9gag.com/gag/aKGM0WO)
+ - 👉 [He is Risen!](http://9gag.com/gag/a87grep)<!-- MEMES:END -->
 
 ---
 
