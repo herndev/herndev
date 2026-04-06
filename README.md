@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; PlayStation Store: March 2026’s top downloads](https://blog.playstation.com/2026/04/05/20260406-top/)
- - [Faces of Death 2026 review: Eemake is smart, well-made, and not all that disturbing](https://www.polygon.com/faces-of-death-2026-remake-review/)
- - [Crimson Desert patch 1.02 confirms those who played at launch had it the worst](https://www.polygon.com/crimson-desert-second-update/)<!-- GAME:END -->
+ - [Who is Rook Kast and the Shadow Collective in Star Wars: Maul — Shadow Lord?](https://www.polygon.com/maul-shadow-lord-rook-cast-shadow-collective-explained/)
+ - [When does Star Wars: Maul — Shadow Lord take place? The timeline explained](https://www.polygon.com/when-does-star-wars-maul-shadow-lord-take-place-in-the-timeline/)
+ - [Star Wars Maul Shadow Lord review: A triumphant return for the best Sith](https://www.polygon.com/star-wars-maul-shadow-lord-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
