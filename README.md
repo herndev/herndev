@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`My heart belongs to you` Yes, please!](http://9gag.com/gag/aQzjYPr)
- - ⏩ [With and wihout makeup](http://9gag.com/gag/azxp7vK)
- - 👉 [This is how I feel recently](http://9gag.com/gag/ajP423G)<!-- MEMES:END -->
+ - 💣 [2-step Verification](http://9gag.com/gag/aGyQPZ6)
+ - ⏩ [Classic](http://9gag.com/gag/a4P0M4v)
+ - 👉 [Thank you cameraman!](http://9gag.com/gag/amo4qvo)<!-- MEMES:END -->
 
 ---
 
