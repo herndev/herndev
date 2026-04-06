@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Apple Watch Accessories &lpar;2026&rpar;: Bands, Chargers, and More](https://www.wired.com/gallery/best-apple-watch-accessories/)
- - [Your Galaxy S25 is about to get the S26’s best features for free](https://www.androidauthority.com/samsung-galaxy-s26-ai-features-coming-to-s25-3655034/)
- - [Apple at 50: Michael Spindler, the CEO who brought in the clones](https://appleinsider.com/articles/26/04/03/apple-at-50-michael-spindler-the-ceo-who-brought-in-the-clones?utm_source=rss)<!-- TECH:END -->
+ - [Studio Display XDR may be used to look at your next MRI or X-Ray](https://appleinsider.com/articles/26/04/06/studio-display-xdr-may-be-used-to-look-at-your-next-mri-or-x-ray?utm_source=rss)
+ - [Pixel’s March update is causing some phones to boot loop endlessly, and no one knows why](https://www.androidauthority.com/google-pixel-march-update-boot-loop-3655031/)
+ - [Vibe coding app&#39;s victory lap cut very short by the App Store](https://appleinsider.com/articles/26/04/06/vibe-coding-apps-victory-lap-cut-very-short-by-the-app-store?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
