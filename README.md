@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [` Deku: It was cheap,what&#39;s the problem?`](http://9gag.com/gag/aKGowbQ)
- - ⏩ [Well, yes](http://9gag.com/gag/a34XPNm)
+ - 💣 [Average 9gagger home?](http://9gag.com/gag/amo4N8y)
+ - ⏩ [Rest in Peace, Doris](http://9gag.com/gag/a87xd1e)
  - 👉 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)<!-- MEMES:END -->
 
 ---
