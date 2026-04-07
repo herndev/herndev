@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI sends a letter to the California and Delaware AGs, urging them to investigate &quot;anti-competitive behavior&quot; by Elon Musk, ahead of a trial in April &lpar;CNBC&rpar;](http://www.techmeme.com/260406/p24#a260406p24)
- - [Filing: Broadcom agrees to produce future versions of Google&#39;s TPUs and expands its Anthropic deal to give the startup access to ~3.5 GW of computing capacity &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260406/p23#a260406p23)
- - [Trump Administration Bans Chinese Routers. Phones and Cameras Could Follow](https://www.cnet.com/tech/mobile/the-trump-administration-banned-chinese-made-routers-now-mobile-phones-and-cameras-could-be-next/)<!-- TECH:END -->
+ - [A look at Catches and other startups that are offering AI tools to let shoppers visualize fit and style before buying clothes, aiming to curb online returns &lpar;Elsa Ohlen/CNBC&rpar;](http://www.techmeme.com/260406/p27#a260406p27)
+ - [Elgato Galleon 100 SD review: Mac productivity &amp; streamer&#39;s dream](https://appleinsider.com/articles/26/04/06/elgato-galleon-100-sd-review-mac-productivity-streamers-dream?utm_source=rss)
+ - [Samsung reports preliminary Q1 operating profit of ~$38B, up more than 8x YoY and above ~$27B est., a record, and revenue up 68% YoY to ~$88B &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/260406/p26#a260406p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
