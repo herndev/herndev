@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The reason why you shouldn&#39;t argue](http://9gag.com/gag/a6ZYmBq)
- - ⏩ [Thank you cameraman!](http://9gag.com/gag/amo4qvo)
- - 👉 [Well, yes](http://9gag.com/gag/a34XPNm)<!-- MEMES:END -->
+ - 💣 [` Deku: It was cheap,what&#39;s the problem?`](http://9gag.com/gag/aKGowbQ)
+ - ⏩ [Well, yes](http://9gag.com/gag/a34XPNm)
+ - 👉 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)<!-- MEMES:END -->
 
 ---
 
