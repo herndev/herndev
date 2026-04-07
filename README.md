@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Iron maiden proving metalheads have always been like this](http://9gag.com/gag/ayNj5dM)
- - ⏩ [Pepperidge Farm remembers](http://9gag.com/gag/a6ZYm5L)
- - 👉 [When Every Industry Needs a Monday Miracle](http://9gag.com/gag/a7oR5jm)<!-- MEMES:END -->
+ - ⏩ [When the lawbreakers are the law enforcers!](http://9gag.com/gag/ajPerXw)
+ - 👉 [Pepperidge Farm remembers](http://9gag.com/gag/a6ZYm5L)<!-- MEMES:END -->
 
 ---
 
