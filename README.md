@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s 2026 foldable plans may be even bigger than we thought](https://www.androidauthority.com/mystery-samsung-listing-hints-at-fourth-foldable-3655509/)
- - [Los Angeles-based Hermeus, which aims to build unmanned hypersonic fighter aircraft, raised $200M led by Khosla Ventures and $150M in debt at a $1B valuation &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260407/p33#a260407p33)
- - [The Moto Pad is Motorola’s first US-bound tablet in over a decade](https://www.theverge.com/tech/908068/motorola-moto-pad-2026-tablet-g-stylus-smartphone-pricing-availability)<!-- TECH:END -->
+ - [Sources say Apple plans to announce its foldable iPhone in September alongside the iPhone 18 Pro and Pro Max, rebutting a report about production delays &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260407/p35#a260407p35)
+ - [Giant Mac mini cluster powers Overcast podcast transcripts without the cloud](https://appleinsider.com/articles/26/04/07/giant-mac-mini-cluster-powers-overcast-podcast-transcripts-without-the-cloud?utm_source=rss)
+ - [The rugged Bose Soundlink Flex is 25 percent off right now](https://www.theverge.com/gadgets/907744/bose-soundlink-flex-2nd-gen-google-nest-doorbell-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
