@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Jeff Bezos&#39; Project Prometheus has hired xAI co-founder Kyle Kosic from OpenAI and has hundreds of staff across its SF HQ and London and Zurich offices &lpar;Financial Times&rpar;](http://www.techmeme.com/260407/p2#a260407p2)
- - [Google just dropped a new dictation app that automatically fixes what you meant to say](https://www.androidauthority.com/google-ai-edge-eloquent-ai-dictation-app-3655274/)
- - [iPhone Fold delays appear possible as early testing hits snags](https://appleinsider.com/articles/26/04/07/iphone-fold-delays-appear-possible-as-early-testing-hits-snags?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Apple is facing issues in the test phase of its foldable iPhone that are taking longer than expected to resolve, potentially delaying mass production &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260407/p3#a260407p3)
+ - [AirDoctor Coupon Codes: 40% Off | April 2026](https://www.wired.com/story/airdoctor-coupon-code/)
+ - [Hoka Coupon Codes: 10% Off | April 2026](https://www.wired.com/story/hoka-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
