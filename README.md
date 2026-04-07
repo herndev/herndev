@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rest in Peace, Doris](http://9gag.com/gag/a87xd1e)
- - ⏩ [Betch lost her mind xD](http://9gag.com/gag/aLnEqyV)
+ - 💣 [Betch lost her mind xD](http://9gag.com/gag/aLnEqyV)
+ - ⏩ [Rest in Peace, Doris](http://9gag.com/gag/a87xd1e)
  - 👉 [This job sucks](http://9gag.com/gag/a34XPGr)<!-- MEMES:END -->
 
 ---
