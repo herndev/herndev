@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An embarrassing wait: Here’s when the Galaxy S25 could finally get stable One UI 8.5](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-stable-release-date-leak-3655056/)
- - [A look at the gold rush for firms claiming to help brands get cited by AI search tools, via tactics like hiding instructions behind &quot;Summarize with AI&quot; buttons &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/260407/p8#a260407p8)
- - [A Taiwan intelligence report to lawmakers says China is targeting Taiwan to obtain its chip manufacturing tech and talent to break through global &quot;containment&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260407/p7#a260407p7)<!-- TECH:END -->
+ - [A cryptography engineer calls for urgent rollout of post-quantum cryptography schemes, saying the risk of inaction is now unacceptable, after Google&#39;s warning &lpar;Filippo Valsorda&rpar;](http://www.techmeme.com/260407/p10#a260407p10)
+ - [OpenAI announces a Safety Fellowship program for external researchers, engineers, and practitioners to study the safety and alignment of advanced AI systems &lpar;OpenAI&rpar;](http://www.techmeme.com/260407/p9#a260407p9)
+ - [An embarrassing wait: Here’s when the Galaxy S25 could finally get stable One UI 8.5](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-stable-release-date-leak-3655056/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
