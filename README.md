@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Average 9gagger home?](http://9gag.com/gag/amo4N8y)
- - ⏩ [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
- - 👉 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)<!-- MEMES:END -->
+ - 💣 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
+ - ⏩ [The OG](http://9gag.com/gag/aZZOWMQ)
+ - 👉 [Well, yes](http://9gag.com/gag/a34XPNm)<!-- MEMES:END -->
 
 ---
 
