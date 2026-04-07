@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A cryptography engineer calls for urgent rollout of post-quantum cryptography schemes, saying the risk of inaction is now unacceptable, after Google&#39;s warning &lpar;Filippo Valsorda&rpar;](http://www.techmeme.com/260407/p10#a260407p10)
- - [OpenAI announces a Safety Fellowship program for external researchers, engineers, and practitioners to study the safety and alignment of advanced AI systems &lpar;OpenAI&rpar;](http://www.techmeme.com/260407/p9#a260407p9)
- - [An embarrassing wait: Here’s when the Galaxy S25 could finally get stable One UI 8.5](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-stable-release-date-leak-3655056/)<!-- TECH:END -->
+ - [The MacBook Neo is proof that Google’s Pixel plan was right all along](https://www.androidauthority.com/macbook-neo-google-pixel-strategy-3654761/)
+ - [Nobody Knows How to File Taxes on Prediction Market Wins](https://www.wired.com/story/nobody-knows-how-to-file-taxes-on-prediction-market-wins-and-losses/)
+ - [Google Photos finally adds a feature users have been demanding for years](https://www.androidauthority.com/google-photos-video-playback-speed-3655319/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
