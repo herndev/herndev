@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This job sucks](http://9gag.com/gag/a34XPGr)
- - ⏩ [Betch lost her mind xD](http://9gag.com/gag/aLnEqyV)
- - 👉 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)<!-- MEMES:END -->
+ - 💣 [The working man](http://9gag.com/gag/ary71wX)
+ - ⏩ [Careful batman...](http://9gag.com/gag/aMVLpnP)
+ - 👉 [Betch lost her mind xD](http://9gag.com/gag/aLnEqyV)<!-- MEMES:END -->
 
 ---
 
