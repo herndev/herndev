@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Average 9gagger home?](http://9gag.com/gag/amo4N8y)
- - ⏩ [Rest in Peace, Doris](http://9gag.com/gag/a87xd1e)
- - 👉 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)<!-- MEMES:END -->
+ - ⏩ [Oohhhh](http://9gag.com/gag/aZZOb4p)
+ - 👉 [Rest in Peace, Doris](http://9gag.com/gag/a87xd1e)<!-- MEMES:END -->
 
 ---
 
