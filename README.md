@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Catches and other startups that are offering AI tools to let shoppers visualize fit and style before buying clothes, aiming to curb online returns &lpar;Elsa Ohlen/CNBC&rpar;](http://www.techmeme.com/260406/p27#a260406p27)
- - [Elgato Galleon 100 SD review: Mac productivity &amp; streamer&#39;s dream](https://appleinsider.com/articles/26/04/06/elgato-galleon-100-sd-review-mac-productivity-streamers-dream?utm_source=rss)
- - [Samsung reports preliminary Q1 operating profit of ~$38B, up more than 8x YoY and above ~$27B est., a record, and revenue up 68% YoY to ~$88B &lpar;Hyunjoo Jin/Reuters&rpar;](http://www.techmeme.com/260406/p26#a260406p26)<!-- TECH:END -->
+ - [Sources: Anthropic plans to invest $200M in a new venture with PE firms to sell AI tools to their portfolio companies; it&#39;s in talks to raise $1B for the effort &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260406/p29#a260406p29)
+ - [The US NHTSA ends a 2025 probe into ~2.6M Tesla vehicles over the &quot;Actually Smart Summon&quot; driverless feature after finding it involved only low-speed incidents &lpar;Reuters&rpar;](http://www.techmeme.com/260406/p28#a260406p28)
+ - [A look at Catches and other startups that are offering AI tools to let shoppers visualize fit and style before buying clothes, aiming to curb online returns &lpar;Elsa Ohlen/CNBC&rpar;](http://www.techmeme.com/260406/p27#a260406p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
