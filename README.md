@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates Chrome with vertical tabs, a feature that Mozilla Firefox and Microsoft Edge have long offered, and a new full-screen reading mode &lpar;Lance Whitney/ZDNET&rpar;](http://www.techmeme.com/260407/p42#a260407p42)
- - [Google clears up that ‘new’ Wear OS 6.1 update confusion](https://www.androidauthority.com/wear-os-6-1-new-3655583/)
- - [Interviews with Anthropic executives on why Claude Mythos Preview is a cybersecurity &quot;reckoning&quot;, not releasing it publicly over misuse concerns, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/260407/p41#a260407p41)<!-- TECH:END -->
+ - [Tech giant supergroup wants to fight cyberattacks with AI smarts](https://appleinsider.com/articles/26/04/07/tech-giant-supergroup-wants-to-fight-cyberattacks-with-ai-smarts?utm_source=rss)
+ - [Google releases April update for Pixel phones, and you can grab it now](https://www.androidauthority.com/android-16-april-update-pixel-phones-3655628/)
+ - [Anker 555 USB-C Hub drops to record-low price for the first time in 2026](https://www.androidauthority.com/anker-555-usb-c-hub-8-in-1-deal-3655566/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
