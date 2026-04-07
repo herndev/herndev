@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From true crime to tech: Spotify’s Prompted Playlist can now curate your next podcast binge](https://www.androidauthority.com/spotify-prompted-playlist-podcasts-3655386/)
- - [Best Electric Bikes &lpar;2026&rpar;: Commuting, Cargo Bikes, Mountain Biking](https://www.wired.com/gallery/best-electric-bikes/)
- - [Kalshi signs a deal with Fox Corp. to integrate its forecasts into Fox News, Fox Business Network, Fox One, and Fox Weather, following deals with CNN and CNBC &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260407/p20#a260407p20)<!-- TECH:END -->
+ - [Adobe launches Acrobat Spaces, a free AI study tool to help students generate flashcards, quizzes, and Express presentations without logging in &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260407/p23#a260407p23)
+ - [The case for banning cookie banners](https://www.theverge.com/podcast/907919/ban-cookie-banners-gemini-maps-vergecast)
+ - [Aqara W200 review: Affordably-priced smart thermostat has firsts for Apple users](https://appleinsider.com/articles/26/04/07/aqara-w200-review-affordably-priced-smart-thermostat-has-firsts-for-apple-users?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
