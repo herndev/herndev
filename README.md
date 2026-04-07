@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
- - ⏩ [The working man](http://9gag.com/gag/ary71wX)
- - 👉 [Who is this guy?!](http://9gag.com/gag/amo4N2v)<!-- MEMES:END -->
+ - 💣 [The working man](http://9gag.com/gag/ary71wX)
+ - ⏩ [With and wihout makeup](http://9gag.com/gag/azxp7vK)
+ - 👉 [Aaand he\u00b4s gone](http://9gag.com/gag/a34Xvxe)<!-- MEMES:END -->
 
 ---
 
