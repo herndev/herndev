@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is facing issues in the test phase of its foldable iPhone that are taking longer than expected to resolve, potentially delaying mass production &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260407/p3#a260407p3)
- - [AirDoctor Coupon Codes: 40% Off | April 2026](https://www.wired.com/story/airdoctor-coupon-code/)
- - [Hoka Coupon Codes: 10% Off | April 2026](https://www.wired.com/story/hoka-coupon-code/)<!-- TECH:END -->
+ - [Sources: AI music startup Suno&#39;s licensing talks with UMG and Sony have stalled; labels argue that AI tools like Suno rely on human-made music and should pay &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/260407/p6#a260407p6)
+ - [Europe Gets Serious About Age Verification Online](https://www.wired.com/story/europe-gets-serious-about-age-verification-online/)
+ - [Oracle reinstates the CFO role, appointing Hilary Maxson after Safra Catz became principal financial officer in 2014, amid investor scrutiny over AI spending &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/260407/p5#a260407p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
