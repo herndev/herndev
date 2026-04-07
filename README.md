@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You may soon be able to grab your next T-Mobile phone with just a QR code](https://www.androidauthority.com/t-mobile-qr-code-3655521/)
- - [Our Favorite Video Doorbell Is $40 Off](https://www.wired.com/story/nest-doorbell-deal-426/)
- - [Anthropic is launching a new AI model for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity)<!-- TECH:END -->
+ - [Google updates Chrome with vertical tabs, a feature that Mozilla Firefox and Microsoft Edge have long offered, and a new full-screen reading mode &lpar;Lance Whitney/ZDNET&rpar;](http://www.techmeme.com/260407/p42#a260407p42)
+ - [Google clears up that ‘new’ Wear OS 6.1 update confusion](https://www.androidauthority.com/wear-os-6-1-new-3655583/)
+ - [Interviews with Anthropic executives on why Claude Mythos Preview is a cybersecurity &quot;reckoning&quot;, not releasing it publicly over misuse concerns, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/260407/p41#a260407p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
