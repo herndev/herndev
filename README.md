@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech giant supergroup wants to fight cyberattacks with AI smarts](https://appleinsider.com/articles/26/04/07/tech-giant-supergroup-wants-to-fight-cyberattacks-with-ai-smarts?utm_source=rss)
- - [Google releases April update for Pixel phones, and you can grab it now](https://www.androidauthority.com/android-16-april-update-pixel-phones-3655628/)
- - [Anker 555 USB-C Hub drops to record-low price for the first time in 2026](https://www.androidauthority.com/anker-555-usb-c-hub-8-in-1-deal-3655566/)<!-- TECH:END -->
+ - [Elon Musk amends his OpenAI lawsuit to ask that damages he might win be awarded to OpenAI&#39;s charity arm and that Altman be removed from OpenAI&#39;s nonprofit board &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/260407/p46#a260407p46)
+ - [The iPhone Gets a D- for Repairability](https://www.wired.com/story/the-iphone-gets-a-d-minus-for-repairability/)
+ - [Anthropic says Mythos Preview achieves 93.9% on SWE-bench Verified, compared with 80.8% for Opus 4.6, and 77.8% on SWE-bench Pro, versus 53.4% for Opus 4.6 &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/260407/p45#a260407p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
