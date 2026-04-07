@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Blissful Week as a ‘Do Not Disturb’ Maximalist](https://www.wired.com/story/my-blissful-unbothered-life-as-a-do-not-disturb-maximalist/)
- - [The US IRS is yet to issue guidelines on whether prediction market gains should be taxed as derivatives, gambling winnings, or income, worrying accountants &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/260407/p18#a260407p18)
- - [Analysis: Gemini 3-based AI Overviews are accurate ~90% of the time, meaning across 5T searches per year, tens of millions of answers are erroneous every hour &lpar;New York Times&rpar;](http://www.techmeme.com/260407/p17#a260407p17)<!-- TECH:END -->
+ - [From true crime to tech: Spotify’s Prompted Playlist can now curate your next podcast binge](https://www.androidauthority.com/spotify-prompted-playlist-podcasts-3655386/)
+ - [Best Electric Bikes &lpar;2026&rpar;: Commuting, Cargo Bikes, Mountain Biking](https://www.wired.com/gallery/best-electric-bikes/)
+ - [Kalshi signs a deal with Fox Corp. to integrate its forecasts into Fox News, Fox Business Network, Fox One, and Fox Weather, following deals with CNN and CNBC &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/260407/p20#a260407p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
