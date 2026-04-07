@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk amends his OpenAI lawsuit to ask that damages he might win be awarded to OpenAI&#39;s charity arm and that Altman be removed from OpenAI&#39;s nonprofit board &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/260407/p46#a260407p46)
- - [The iPhone Gets a D- for Repairability](https://www.wired.com/story/the-iphone-gets-a-d-minus-for-repairability/)
- - [Anthropic says Mythos Preview achieves 93.9% on SWE-bench Verified, compared with 80.8% for Opus 4.6, and 77.8% on SWE-bench Pro, versus 53.4% for Opus 4.6 &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/260407/p45#a260407p45)<!-- TECH:END -->
+ - [Z.ai releases GLM-5.1, a 754B-parameter model that it says outperforms GPT-5.4 and Claude Opus 4.6 on SWE-bench Pro, available under an MIT license &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260407/p49#a260407p49)
+ - [Amazon rolls out a Kindle update to fix the last one](https://www.androidauthority.com/amazon-kindle-april-update-3655649/)
+ - [A group of US agencies including the FBI and the NSA warns that Iran-linked hackers have targeted industrial control devices used in US critical infrastructure &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260407/p48#a260407p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
