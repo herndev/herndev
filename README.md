@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Z.ai releases GLM-5.1, a 754B-parameter model that it says outperforms GPT-5.4 and Claude Opus 4.6 on SWE-bench Pro, available under an MIT license &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260407/p49#a260407p49)
- - [Amazon rolls out a Kindle update to fix the last one](https://www.androidauthority.com/amazon-kindle-april-update-3655649/)
- - [A group of US agencies including the FBI and the NSA warns that Iran-linked hackers have targeted industrial control devices used in US critical infrastructure &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/260407/p48#a260407p48)<!-- TECH:END -->
+ - [Anthropic hires Microsoft executive Eric Boyd as head of infrastructure; Boyd oversaw Microsoft&#39;s AI platform and worked at the company for 16 years &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260407/p50#a260407p50)
+ - [Save $250 on the premium Nebula Mars 3 Portable Projector](https://www.androidauthority.com/nebula-mars-3-portable-projector-deal-3655565/)
+ - [Nothing’s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today](https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
