@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [True Footage, which uses AI trained on years of appraisal data to generate property valuations, raised a $40M Series C led by Cox Enterprises&#39; Socium Ventures &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260407/p31#a260407p31)
- - [Spotify expands Prompted Playlists, its AI feature for creating playlists, to include podcasts, for Premium users in the US, Canada, the UK, and other countries &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260407/p30#a260407p30)
- - [Perplexity is changing its wake word from ‘Hey Plex,’ and here’s the proof](https://www.androidauthority.com/hey-perplexity-3655439/)<!-- TECH:END -->
+ - [Samsung’s 2026 foldable plans may be even bigger than we thought](https://www.androidauthority.com/mystery-samsung-listing-hints-at-fourth-foldable-3655509/)
+ - [Los Angeles-based Hermeus, which aims to build unmanned hypersonic fighter aircraft, raised $200M led by Khosla Ventures and $150M in debt at a $1B valuation &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260407/p33#a260407p33)
+ - [The Moto Pad is Motorola’s first US-bound tablet in over a decade](https://www.theverge.com/tech/908068/motorola-moto-pad-2026-tablet-g-stylus-smartphone-pricing-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
