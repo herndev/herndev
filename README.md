@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI music startup Suno&#39;s licensing talks with UMG and Sony have stalled; labels argue that AI tools like Suno rely on human-made music and should pay &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/260407/p6#a260407p6)
- - [Europe Gets Serious About Age Verification Online](https://www.wired.com/story/europe-gets-serious-about-age-verification-online/)
- - [Oracle reinstates the CFO role, appointing Hilary Maxson after Safra Catz became principal financial officer in 2014, amid investor scrutiny over AI spending &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/260407/p5#a260407p5)<!-- TECH:END -->
+ - [An embarrassing wait: Here’s when the Galaxy S25 could finally get stable One UI 8.5](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-stable-release-date-leak-3655056/)
+ - [A look at the gold rush for firms claiming to help brands get cited by AI search tools, via tactics like hiding instructions behind &quot;Summarize with AI&quot; buttons &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/260407/p8#a260407p8)
+ - [A Taiwan intelligence report to lawmakers says China is targeting Taiwan to obtain its chip manufacturing tech and talent to break through global &quot;containment&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/260407/p7#a260407p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
