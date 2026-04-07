@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
- - ⏩ [Thank you cameraman!](http://9gag.com/gag/amo4qvo)
- - 👉 [This job sucks](http://9gag.com/gag/a34XPGr)<!-- MEMES:END -->
+ - 💣 [This job sucks](http://9gag.com/gag/a34XPGr)
+ - ⏩ [Betch lost her mind xD](http://9gag.com/gag/aLnEqyV)
+ - 👉 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)<!-- MEMES:END -->
 
 ---
 
