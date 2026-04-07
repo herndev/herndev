@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
+ - 💣 [Rest in Peace, Doris](http://9gag.com/gag/a87xd1e)
  - ⏩ [Betch lost her mind xD](http://9gag.com/gag/aLnEqyV)
- - 👉 [The working man](http://9gag.com/gag/ary71wX)<!-- MEMES:END -->
+ - 👉 [This job sucks](http://9gag.com/gag/a34XPGr)<!-- MEMES:END -->
 
 ---
 
