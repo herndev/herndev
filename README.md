@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic plans to invest $200M in a new venture with PE firms to sell AI tools to their portfolio companies; it&#39;s in talks to raise $1B for the effort &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260406/p29#a260406p29)
- - [The US NHTSA ends a 2025 probe into ~2.6M Tesla vehicles over the &quot;Actually Smart Summon&quot; driverless feature after finding it involved only low-speed incidents &lpar;Reuters&rpar;](http://www.techmeme.com/260406/p28#a260406p28)
- - [A look at Catches and other startups that are offering AI tools to let shoppers visualize fit and style before buying clothes, aiming to curb online returns &lpar;Elsa Ohlen/CNBC&rpar;](http://www.techmeme.com/260406/p27#a260406p27)<!-- TECH:END -->
+ - [Google just launched a special edition Pixel with exclusive wallpapers and icons](https://www.androidauthority.com/google-pixel-10a-isai-blue-3655256/)
+ - [A look at Alibaba&#39;s Accio, an AI sourcing tool that helps small online sellers connect with manufacturers, including in China; it exceeded 10M MAUs in March &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/260406/p32#a260406p32)
+ - [An Indianapolis city councilor says his home was targeted in what appeared to be a politically motivated shooting over a proposed data center in the city &lpar;Kiki Intarasuwan/CBS News&rpar;](http://www.techmeme.com/260406/p31#a260406p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
