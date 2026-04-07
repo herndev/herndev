@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Janix? New Star Wars planet was inspired by the best Batman movie](https://www.polygon.com/maul-shadow-lord-inspiration-gotham-batman/)
- - [Fairy Tail returns to serialization to celebrate 20th anniversary](https://www.polygon.com/fairy-tail-returns-shonen-jump-20th-anniversary-serialization/)
- - [Five new Steam games you probably missed &lpar;April 7, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-7-2026/)<!-- GAME:END -->
+ - [People of Note review: new musical indie RPG struggles to find its identity](https://www.polygon.com/people-of-note-review/)
+ - [Introducing The Playerbase, bringing PlayStation’s biggest fans into blockbuster PlayStation Studios games](https://blog.playstation.com/2026/04/07/introducing-the-playerbase-bringing-playstations-biggest-fans-into-blockbuster-playstation-studios-games/)
+ - [Coming to Xbox Game Pass: Kiln, Hades II, Vampire Crawlers, and More](https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
