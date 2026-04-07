@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The MacBook Neo is proof that Google’s Pixel plan was right all along](https://www.androidauthority.com/macbook-neo-google-pixel-strategy-3654761/)
- - [Nobody Knows How to File Taxes on Prediction Market Wins](https://www.wired.com/story/nobody-knows-how-to-file-taxes-on-prediction-market-wins-and-losses/)
- - [Google Photos finally adds a feature users have been demanding for years](https://www.androidauthority.com/google-photos-video-playback-speed-3655319/)<!-- TECH:END -->
+ - [Gemini is making it faster for distressed users to reach mental health resources](https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update)
+ - [MLB rolls out &quot;robot umps&quot;, or an Automated Ball-Strike System, using Sony-made advanced cameras to help officiate games, but it often validates human umpires &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/260407/p15#a260407p15)
+ - [There’s a brilliant fingerprint hack hiding on your Samsung phone — here’s how to use it](https://www.androidauthority.com/samsung-phone-open-apps-fingerprint-sensor-hack-how-to-3654359/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
