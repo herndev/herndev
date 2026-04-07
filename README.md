@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources say Apple plans to announce its foldable iPhone in September alongside the iPhone 18 Pro and Pro Max, rebutting a report about production delays &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260407/p35#a260407p35)
- - [Giant Mac mini cluster powers Overcast podcast transcripts without the cloud](https://appleinsider.com/articles/26/04/07/giant-mac-mini-cluster-powers-overcast-podcast-transcripts-without-the-cloud?utm_source=rss)
- - [The rugged Bose Soundlink Flex is 25 percent off right now](https://www.theverge.com/gadgets/907744/bose-soundlink-flex-2nd-gen-google-nest-doorbell-deal-sale)<!-- TECH:END -->
+ - [You may soon be able to grab your next T-Mobile phone with just a QR code](https://www.androidauthority.com/t-mobile-qr-code-3655521/)
+ - [Our Favorite Video Doorbell Is $40 Off](https://www.wired.com/story/nest-doorbell-deal-426/)
+ - [Anthropic is launching a new AI model for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
