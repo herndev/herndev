@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just launched a special edition Pixel with exclusive wallpapers and icons](https://www.androidauthority.com/google-pixel-10a-isai-blue-3655256/)
- - [A look at Alibaba&#39;s Accio, an AI sourcing tool that helps small online sellers connect with manufacturers, including in China; it exceeded 10M MAUs in March &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/260406/p32#a260406p32)
- - [An Indianapolis city councilor says his home was targeted in what appeared to be a politically motivated shooting over a proposed data center in the city &lpar;Kiki Intarasuwan/CBS News&rpar;](http://www.techmeme.com/260406/p31#a260406p31)<!-- TECH:END -->
+ - [Sources: Jeff Bezos&#39; Project Prometheus has hired xAI co-founder Kyle Kosic from OpenAI and has hundreds of staff across its SF HQ and London and Zurich offices &lpar;Financial Times&rpar;](http://www.techmeme.com/260407/p2#a260407p2)
+ - [Google just dropped a new dictation app that automatically fixes what you meant to say](https://www.androidauthority.com/google-ai-edge-eloquent-ai-dictation-app-3655274/)
+ - [iPhone Fold delays appear possible as early testing hits snags](https://appleinsider.com/articles/26/04/07/iphone-fold-delays-appear-possible-as-early-testing-hits-snags?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
