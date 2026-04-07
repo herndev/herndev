@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rest in Peace, Doris](http://9gag.com/gag/a87xd1e)
- - ⏩ [Well, yes](http://9gag.com/gag/a34XPNm)
- - 👉 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)<!-- MEMES:END -->
+ - 💣 [Iron maiden proving metalheads have always been like this](http://9gag.com/gag/ayNj5dM)
+ - ⏩ [Pepperidge Farm remembers](http://9gag.com/gag/a6ZYm5L)
+ - 👉 [When Every Industry Needs a Monday Miracle](http://9gag.com/gag/a7oR5jm)<!-- MEMES:END -->
 
 ---
 
