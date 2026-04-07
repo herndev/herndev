@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The working man](http://9gag.com/gag/ary71wX)
- - ⏩ [With and wihout makeup](http://9gag.com/gag/azxp7vK)
- - 👉 [Aaand he\u00b4s gone](http://9gag.com/gag/a34Xvxe)<!-- MEMES:END -->
+ - 💣 [Man accused of randomly beating a gas station clerk to death with a hammer after smashing her car windshi](http://9gag.com/gag/a4P0Mny)
+ - ⏩ [Thank you cameraman!](http://9gag.com/gag/amo4qvo)
+ - 👉 [This job sucks](http://9gag.com/gag/a34XPGr)<!-- MEMES:END -->
 
 ---
 
