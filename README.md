@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oohhhh](http://9gag.com/gag/aZZOb4p)
- - ⏩ [Well, yes](http://9gag.com/gag/a34XPNm)
- - 👉 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)<!-- MEMES:END -->
+ - 💣 [Pepperidge Farm remembers](http://9gag.com/gag/a6ZYm5L)
+ - ⏩ [He couldn&#39;t contain his excitement for pool day. There&#39;s nowhere he&#39;d rather be than here with his fish. :-&rpar;](http://9gag.com/gag/aPAbvrV)
+ - 👉 [Neck tension](http://9gag.com/gag/a0eyPLO)<!-- MEMES:END -->
 
 ---
 
