@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe launches Acrobat Spaces, a free AI study tool to help students generate flashcards, quizzes, and Express presentations without logging in &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260407/p23#a260407p23)
- - [The case for banning cookie banners](https://www.theverge.com/podcast/907919/ban-cookie-banners-gemini-maps-vergecast)
- - [Aqara W200 review: Affordably-priced smart thermostat has firsts for Apple users](https://appleinsider.com/articles/26/04/07/aqara-w200-review-affordably-priced-smart-thermostat-has-firsts-for-apple-users?utm_source=rss)<!-- TECH:END -->
+ - [The Trump administration proposes cutting CISA&#39;s budget for 2027 by $707M+ to help the agency refocus on its &quot;core mission&quot;, not &quot;weaponization and waste&quot; &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/260407/p29#a260407p29)
+ - [Intel says it will join Elon Musk&#39;s Terafab AI chip complex project along with SpaceX, Tesla, and xAI &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/260407/p28#a260407p28)
+ - [First photos of lunar eclipse from Artemis II crew look almost too good to be real](https://www.theverge.com/science/907953/nasa-artemis-astronaut-total-solar-eclipse-photo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
