@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Average 9gagger home?](http://9gag.com/gag/amo4N8y)
- - ⏩ [Oohhhh](http://9gag.com/gag/aZZOb4p)
- - 👉 [Rest in Peace, Doris](http://9gag.com/gag/a87xd1e)<!-- MEMES:END -->
+ - 💣 [Oohhhh](http://9gag.com/gag/aZZOb4p)
+ - ⏩ [Well, yes](http://9gag.com/gag/a34XPNm)
+ - 👉 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)<!-- MEMES:END -->
 
 ---
 
