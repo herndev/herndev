@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
- - ⏩ [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
- - 👉 [This is 9GAG\u2026 you know where this is going](http://9gag.com/gag/aYQXN1v)<!-- MEMES:END -->
+ - 💣 [He couldn&#39;t contain his excitement for pool day. There&#39;s nowhere he&#39;d rather be than here with his fish. :-&rpar;](http://9gag.com/gag/aPAbvrV)
+ - ⏩ [Null](http://9gag.com/gag/azxpLVb)
+ - 👉 [Well, yes](http://9gag.com/gag/a34XPNm)<!-- MEMES:END -->
 
 ---
 
