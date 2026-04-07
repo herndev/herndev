@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini is making it faster for distressed users to reach mental health resources](https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update)
- - [MLB rolls out &quot;robot umps&quot;, or an Automated Ball-Strike System, using Sony-made advanced cameras to help officiate games, but it often validates human umpires &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/260407/p15#a260407p15)
- - [There’s a brilliant fingerprint hack hiding on your Samsung phone — here’s how to use it](https://www.androidauthority.com/samsung-phone-open-apps-fingerprint-sensor-hack-how-to-3654359/)<!-- TECH:END -->
+ - [My Blissful Week as a ‘Do Not Disturb’ Maximalist](https://www.wired.com/story/my-blissful-unbothered-life-as-a-do-not-disturb-maximalist/)
+ - [The US IRS is yet to issue guidelines on whether prediction market gains should be taxed as derivatives, gambling winnings, or income, worrying accountants &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/260407/p18#a260407p18)
+ - [Analysis: Gemini 3-based AI Overviews are accurate ~90% of the time, meaning across 5T searches per year, tens of millions of answers are erroneous every hour &lpar;New York Times&rpar;](http://www.techmeme.com/260407/p17#a260407p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
