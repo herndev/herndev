@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The working man](http://9gag.com/gag/ary71wX)
- - ⏩ [With and wihout makeup](http://9gag.com/gag/azxp7vK)
- - 👉 [Yes, yes she will](http://9gag.com/gag/amo4NWo)<!-- MEMES:END -->
+ - 💣 [Rest in Peace, Doris](http://9gag.com/gag/a87xd1e)
+ - ⏩ [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
+ - 👉 [This job sucks](http://9gag.com/gag/a34XPGr)<!-- MEMES:END -->
 
 ---
 
