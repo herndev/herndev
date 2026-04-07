@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trump administration proposes cutting CISA&#39;s budget for 2027 by $707M+ to help the agency refocus on its &quot;core mission&quot;, not &quot;weaponization and waste&quot; &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/260407/p29#a260407p29)
- - [Intel says it will join Elon Musk&#39;s Terafab AI chip complex project along with SpaceX, Tesla, and xAI &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/260407/p28#a260407p28)
- - [First photos of lunar eclipse from Artemis II crew look almost too good to be real](https://www.theverge.com/science/907953/nasa-artemis-astronaut-total-solar-eclipse-photo)<!-- TECH:END -->
+ - [True Footage, which uses AI trained on years of appraisal data to generate property valuations, raised a $40M Series C led by Cox Enterprises&#39; Socium Ventures &lpar;Natalie Breymeyer/Axios&rpar;](http://www.techmeme.com/260407/p31#a260407p31)
+ - [Spotify expands Prompted Playlists, its AI feature for creating playlists, to include podcasts, for Premium users in the US, Canada, the UK, and other countries &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260407/p30#a260407p30)
+ - [Perplexity is changing its wake word from ‘Hey Plex,’ and here’s the proof](https://www.androidauthority.com/hey-perplexity-3655439/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
