@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra 3 drops to its best price this year](https://www.androidauthority.com/apple-watch-ultra-3-deal-3655946/)
- - [Motorola’s budget kings lose their budget-phone crown](https://www.androidauthority.com/motorola-rolls-out-price-hikes-3655929/)
- - [Greek PM Kyriakos Mitsotakis says Greece will ban children under 15 from accessing social media starting January 1, 2027, and calls for coordinated EU action &lpar;Antonis Pothitos/Reuters&rpar;](http://www.techmeme.com/260408/p34#a260408p34)<!-- TECH:END -->
+ - [Did you get that email? Gmail is currently experiencing delays](https://www.androidauthority.com/gmail-service-disruption-3655971/)
+ - [I finally get the iPhone Air](https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular)
+ - [NASA Artemis II Day 8: What to Expect in the Final Days of the Moon Mission](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
