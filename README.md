@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Letter: ICE officials confirm they are using Graphite spyware to intercept encrypted messages, saying it is primarily used to target fentanyl traffickers &lpar;Jude Joffe-Block/NPR&rpar;](http://www.techmeme.com/260407/p55#a260407p55)
- - [Deal: This MNN Portable Monitor is looking promising at just under $50](https://www.androidauthority.com/mnn-portable-monitor-deal-3655564/)
- - [The $135M Google Data Settlement Site Is Live — See If You&#39;re Eligible](https://www.cnet.com/tech/mobile/google-android-data-harvesting-settlement-site-live/)<!-- TECH:END -->
+ - [Bill Gates is set to appear before the US House Oversight Committee on June 10 about his Epstein ties; he says he&#39;s &quot;looking forward&quot; to answering the questions &lpar;Ana Faguy/BBC&rpar;](http://www.techmeme.com/260407/p57#a260407p57)
+ - [Niantic Spatial launches Scaniverse, a platform that lets companies and individuals create robot-ready 3D maps using phone, 360-degree camera, and drone data &lpar;Janko Roettgers/Fast Company&rpar;](http://www.techmeme.com/260407/p56#a260407p56)
+ - [Google finally adds a long-requested gaming feature to Android 17](https://www.androidauthority.com/android-17-controller-remapping-3655681/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
