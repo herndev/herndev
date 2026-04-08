@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Back side smith grind](http://9gag.com/gag/azxpbWN)
- - ⏩ [The OG](http://9gag.com/gag/aZZOWMQ)
- - 👉 [Chef said no free food for you. Good for him](http://9gag.com/gag/aRBqQKG)<!-- MEMES:END -->
+ - 💣 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
+ - ⏩ [Hoffman was going through a divorce at the time of filming](http://9gag.com/gag/aByBKrA)
+ - 👉 [Back side smith grind](http://9gag.com/gag/azxpbWN)<!-- MEMES:END -->
 
 ---
 
