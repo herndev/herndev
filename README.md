@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Iranian union official says Iran will demand that shipping companies pay tolls in crypto of $1 per barrel for tankers passing through the Strait of Hormuz &lpar;Financial Times&rpar;](http://www.techmeme.com/260408/p21#a260408p21)
- - [&#39;Dark Matter&#39; season two expands into a multiverse story on Apple TV](https://appleinsider.com/articles/26/04/08/dark-matter-season-two-expands-into-a-multiverse-story-on-apple-tv?utm_source=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 8&rpar;](https://www.androidauthority.com/wallpaper-wednesday-march-8-2026-3655240/)<!-- TECH:END -->
+ - [Alibaba and China Telecom launch a data center in southern China that is powered by 10,000 of Alibaba&#39;s Zhenwu chips designed for AI training and inferencing &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260408/p23#a260408p23)
+ - [The Next Attorney General Will Probably Be an Election Denier](https://www.wired.com/story/the-next-attorney-general-will-probably-be-an-election-denier/)
+ - [The Miniature Wife was an exercise in visual trickery](https://www.theverge.com/entertainment/905862/the-miniature-wife-was-an-exercise-in-visual-trickery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
