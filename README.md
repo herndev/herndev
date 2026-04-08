@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jews](http://9gag.com/gag/a87xbwQ)
- - ⏩ [*at an interview* - So, what are your skills? Me:](http://9gag.com/gag/aXP6EVz)
- - 👉 [Hoffman was going through a divorce at the time of filming](http://9gag.com/gag/aByBKrA)<!-- MEMES:END -->
+ - 💣 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
+ - ⏩ [Back side smith grind](http://9gag.com/gag/azxpbWN)
+ - 👉 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)<!-- MEMES:END -->
 
 ---
 
