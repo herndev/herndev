@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba and China Telecom launch a data center in southern China that is powered by 10,000 of Alibaba&#39;s Zhenwu chips designed for AI training and inferencing &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260408/p23#a260408p23)
- - [The Next Attorney General Will Probably Be an Election Denier](https://www.wired.com/story/the-next-attorney-general-will-probably-be-an-election-denier/)
- - [The Miniature Wife was an exercise in visual trickery](https://www.theverge.com/entertainment/905862/the-miniature-wife-was-an-exercise-in-visual-trickery)<!-- TECH:END -->
+ - [Meta says Muse Spark powers Meta AI&#39;s &quot;shopping mode&quot; feature and that it plans to release a version of Muse Spark under an open-source license &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260408/p28#a260408p28)
+ - [US Mobile announces new plan in partnership with Starlink](https://www.androidauthority.com/us-mobile-starlink-3655895/)
+ - [Meta is reentering the AI race with a new model called Muse Spark](https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
