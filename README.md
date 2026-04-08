@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says Muse Spark powers Meta AI&#39;s &quot;shopping mode&quot; feature and that it plans to release a version of Muse Spark under an open-source license &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260408/p28#a260408p28)
- - [US Mobile announces new plan in partnership with Starlink](https://www.androidauthority.com/us-mobile-starlink-3655895/)
- - [Meta is reentering the AI race with a new model called Muse Spark](https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout)<!-- TECH:END -->
+ - [Amazon says Kindle and Kindle Fire devices released in 2012 and earlier won&#39;t be able to access the Kindle Store from May 20; downloaded books can still be read &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/260408/p31#a260408p31)
+ - [5 Burning Questions About Elon Musk’s Terafab Chip Partnership with Intel](https://www.wired.com/story/5-burning-questions-about-elon-musks-terafab-chip-partnership-with-intel/)
+ - [Samsung is giving you another chance to not buy its incredibly expensive Galaxy Z TriFold](https://www.androidauthority.com/galaxy-z-trifold-returns-3655898/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
