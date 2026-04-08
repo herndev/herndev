@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After a recent patch, Death Stranding 2 is great on Steam Deck](https://www.pcgamer.com/games/action/after-a-recent-patch-death-stranding-2-is-great-on-steam-deck/)
- - [An astronaut rolled a D20 in space, so yes, you can play D&amp;D in zero gravity](https://www.pcgamer.com/games/rpg/an-astronaut-rolled-a-d20-in-space-so-yes-you-can-play-d-and-d-in-zero-gravity/)
- - [These &#39;hunger system&#39; mods for Crimson Desert have gotten my hopes up for a full survival conversion](https://www.pcgamer.com/games/rpg/these-hunger-system-mods-for-crimson-desert-have-gotten-my-hopes-up-for-a-full-survival-conversion/)<!-- GAME:END -->
+ - [The Boys showrunner breaks down season 5&#39;s first major death](https://www.polygon.com/eric-kripke-the-boys-final-season-interview/)
+ - [Here&#39;s a keycap that&#39;s also a watch, for the discerning gamer](https://www.pcgamer.com/hardware/gaming-keyboards/heres-a-keycap-thats-also-a-watch-for-the-discerning-gamer/)
+ - [Dell&#39;s CEO reckons that the total memory demand from the entire AI market in 2028 will be 625x bigger than it was in 2022](https://www.pcgamer.com/hardware/memory/dells-ceo-reckons-that-the-total-memory-demand-from-the-entire-ai-market-in-2028-will-be-625x-bigger-than-it-was-in-2022/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
