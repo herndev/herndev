@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation suggests Blockstream CEO Adam Back, a British cryptographer who invented Hashcash, is Bitcoin&#39;s pseudonymous inventor Satoshi Nakamoto &lpar;New York Times&rpar;](http://www.techmeme.com/260408/p10#a260408p10)
- - [That’s not cool: These top gaming phones with liquid cooling just got caught for benchmark cheating](https://www.androidauthority.com/redmagic-cheating-2026-3655697/)
- - [Men Are Buying Hacking Tools to Use Against Their Wives and Friends](https://www.wired.com/story/men-are-buying-hacking-tools-to-use-against-their-wives-and-friends/)<!-- TECH:END -->
+ - [Apple sued for allegedly scraping 70 million YouTube videos](https://www.androidauthority.com/apple-sued-for-scraping-youtube-videos-3655750/)
+ - [Samsung’s Galaxy S27 lineup sounds like a disaster waiting to happen](https://www.androidauthority.com/samsung-galaxy-s27-lineup-pro-disaster-3655193/)
+ - [YouTube is testing a new way to help you watch videos faster, but you’ll have to pay up](https://www.androidauthority.com/youtube-premium-auto-speed-on-the-go-experiments-3655710/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
