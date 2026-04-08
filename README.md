@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How cotton is picked](http://9gag.com/gag/aGy4wD7)
+ - 💣 [Heros](http://9gag.com/gag/aO8Ly52)
  - ⏩ [The OG](http://9gag.com/gag/aZZOWMQ)
- - 👉 [Gehnaldo](http://9gag.com/gag/amo4LV4)<!-- MEMES:END -->
+ - 👉 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)<!-- MEMES:END -->
 
 ---
 
