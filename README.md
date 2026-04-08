@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ikea’s New Lineup of Smart Home Gear Is Quietly Changing the Game](https://www.wired.com/story/ikea-matter-smart-home-hands-on/)
- - [Asus ROG Xbox Ally review: comfortable design, Xbox Full Screen beats Windows 11, and affordable, but sleep/wake issues, weak display, and average performance &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260408/p18#a260408p18)
- - [Even MacBook Neo can&#39;t save Apple from repairability complaints](https://appleinsider.com/articles/26/04/08/even-macbook-neo-cant-save-apple-from-repairability-complaints?utm_source=rss)<!-- TECH:END -->
+ - [An Iranian union official says Iran will demand that shipping companies pay tolls in crypto of $1 per barrel for tankers passing through the Strait of Hormuz &lpar;Financial Times&rpar;](http://www.techmeme.com/260408/p21#a260408p21)
+ - [&#39;Dark Matter&#39; season two expands into a multiverse story on Apple TV](https://appleinsider.com/articles/26/04/08/dark-matter-season-two-expands-into-a-multiverse-story-on-apple-tv?utm_source=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 8&rpar;](https://www.androidauthority.com/wallpaper-wednesday-march-8-2026-3655240/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
