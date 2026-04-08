@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
- - ⏩ [A 40 year old got rejected](http://9gag.com/gag/aqyo9yR)
- - 👉 [Oohhhh](http://9gag.com/gag/aZZOb4p)<!-- MEMES:END -->
+ - 💣 [Chef said no free food for you. Good for him](http://9gag.com/gag/aRBqQKG)
+ - ⏩ [Oohhhh](http://9gag.com/gag/aZZOb4p)
+ - 👉 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)<!-- MEMES:END -->
 
 ---
 
