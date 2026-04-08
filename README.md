@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When firefighters join the water fight](http://9gag.com/gag/aKGog0j)
- - ⏩ [Unfortunately, It&#39;s the Same Person](http://9gag.com/gag/aLn7Qeg)
- - 👉 [\u2615\ufe0f](http://9gag.com/gag/aPAbv3G)<!-- MEMES:END -->
+ - 💣 [Chef said no free food for you. Good for him](http://9gag.com/gag/aRBqQKG)
+ - ⏩ [Jews](http://9gag.com/gag/a87xbwQ)
+ - 👉 [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)<!-- MEMES:END -->
 
 ---
 
