@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung gets a D, Apple scores a D-: Repair report says your phones aren’t built to last](https://www.androidauthority.com/samsung-apple-failing-the-fix-repairability-report-2026-3655686/)
- - [Sources: Bain&#39;s data center unit cuts ties with Megaspeed, which is under US investigation over if it helped Chinese companies evade Nvidia AI chip export curbs &lpar;Kari Soo Lindberg/Bloomberg&rpar;](http://www.techmeme.com/260407/p58#a260407p58)
- - [Bill Gates is set to appear before the US House Oversight Committee on June 10 about his Epstein ties; he says he&#39;s &quot;looking forward&quot; to answering the questions &lpar;Ana Faguy/BBC&rpar;](http://www.techmeme.com/260407/p57#a260407p57)<!-- TECH:END -->
+ - [Sources: Perplexity&#39;s estimated ARR rose to over $450M in March, jumping 50% in a month after the launch of a new agent tool and a shift to usage-based pricing &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260408/p3#a260408p3)
+ - [Bengaluru-based KreditBee, a digital lending service for personal and business loans and more, raised a $280M Series E at a $1.5B post-money valuation &lpar;Harsh Upadhyay/Entrackr&rpar;](http://www.techmeme.com/260408/p2#a260408p2)
+ - [Modus, which builds AI agents for audit workflows and invests in established accounting firms, raised a $5M seed and an $80M Series A led by Lightspeed &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/260408/p1#a260408p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
