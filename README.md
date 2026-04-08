@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u2615\ufe0f](http://9gag.com/gag/aPAbv3G)
- - ⏩ [The OG](http://9gag.com/gag/aZZOWMQ)
- - 👉 [Chef said no free food for you. Good for him](http://9gag.com/gag/aRBqQKG)<!-- MEMES:END -->
+ - 💣 [Orthodox Easter is coming up](http://9gag.com/gag/a0eyPMZ)
+ - ⏩ [Hoffman was going through a divorce at the time of filming](http://9gag.com/gag/aByBKrA)
+ - 👉 [It&#39;s important to take breaks!](http://9gag.com/gag/avyK0BO)<!-- MEMES:END -->
 
 ---
 
