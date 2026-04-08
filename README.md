@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bill Gates is set to appear before the US House Oversight Committee on June 10 about his Epstein ties; he says he&#39;s &quot;looking forward&quot; to answering the questions &lpar;Ana Faguy/BBC&rpar;](http://www.techmeme.com/260407/p57#a260407p57)
- - [Niantic Spatial launches Scaniverse, a platform that lets companies and individuals create robot-ready 3D maps using phone, 360-degree camera, and drone data &lpar;Janko Roettgers/Fast Company&rpar;](http://www.techmeme.com/260407/p56#a260407p56)
- - [Google finally adds a long-requested gaming feature to Android 17](https://www.androidauthority.com/android-17-controller-remapping-3655681/)<!-- TECH:END -->
+ - [Samsung gets a D, Apple scores a D-: Repair report says your phones aren’t built to last](https://www.androidauthority.com/samsung-apple-failing-the-fix-repairability-report-2026-3655686/)
+ - [Sources: Bain&#39;s data center unit cuts ties with Megaspeed, which is under US investigation over if it helped Chinese companies evade Nvidia AI chip export curbs &lpar;Kari Soo Lindberg/Bloomberg&rpar;](http://www.techmeme.com/260407/p58#a260407p58)
+ - [Bill Gates is set to appear before the US House Oversight Committee on June 10 about his Epstein ties; he says he&#39;s &quot;looking forward&quot; to answering the questions &lpar;Ana Faguy/BBC&rpar;](http://www.techmeme.com/260407/p57#a260407p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
