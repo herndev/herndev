@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A pro-Iranian cybercrime group claims responsibility for cyberattacks on Chime and Pinterest that knocked the websites of both companies offline this month &lpar;Bloomberg&rpar;](http://www.techmeme.com/260407/p54#a260407p54)
- - [Mythos Preview system card: the model was able to escape a sandbox after it was instructed to try, and posted details about its exploit without being prompted &lpar;Brent D. Griffiths/Business Insider&rpar;](http://www.techmeme.com/260407/p53#a260407p53)
- - [The US FDIC proposes a rule to establish a regulatory framework for stablecoin issuers, including requirements related to reserve assets, under the GENIUS Act &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/260407/p52#a260407p52)<!-- TECH:END -->
+ - [Letter: ICE officials confirm they are using Graphite spyware to intercept encrypted messages, saying it is primarily used to target fentanyl traffickers &lpar;Jude Joffe-Block/NPR&rpar;](http://www.techmeme.com/260407/p55#a260407p55)
+ - [Deal: This MNN Portable Monitor is looking promising at just under $50](https://www.androidauthority.com/mnn-portable-monitor-deal-3655564/)
+ - [The $135M Google Data Settlement Site Is Live — See If You&#39;re Eligible](https://www.cnet.com/tech/mobile/google-android-data-harvesting-settlement-site-live/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
