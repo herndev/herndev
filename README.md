@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your fancy noise-canceling headphones have a weakness, and Skoda just found it](https://www.androidauthority.com/skoda-duobell-anc-bicycle-bell-3655767/)
- - [AI Forensics: in 16 Italian and Spanish Telegram groups, 24K+ men are sharing nonconsensual images of women and girls, buying spyware, and engaging in doxing &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/260408/p12#a260408p12)
- - [In 2026, every Android brand is moments away from disaster](https://www.androidauthority.com/smartphone-brand-fail-3651994/)<!-- TECH:END -->
+ - [GoPro is cutting 23 percent of its workforce](https://www.theverge.com/business/908650/gopro-layoffs-cuts-23-percent)
+ - [Dyson Spot+Scrub Ai Robot Vacuum Review &lpar;2026&rpar;](https://www.wired.com/review/dyson-spot-scrub-ai/)
+ - [Continuous glucose monitoring made me continuously crazy](https://www.theverge.com/features/907359/cgms-optimizing-metabolism-dexcom-abbott-wearables-health-tech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
