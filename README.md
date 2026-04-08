@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Boys showrunner breaks down season 5&#39;s first major death](https://www.polygon.com/eric-kripke-the-boys-final-season-interview/)
- - [Here&#39;s a keycap that&#39;s also a watch, for the discerning gamer](https://www.pcgamer.com/hardware/gaming-keyboards/heres-a-keycap-thats-also-a-watch-for-the-discerning-gamer/)
- - [Dell&#39;s CEO reckons that the total memory demand from the entire AI market in 2028 will be 625x bigger than it was in 2022](https://www.pcgamer.com/hardware/memory/dells-ceo-reckons-that-the-total-memory-demand-from-the-entire-ai-market-in-2028-will-be-625x-bigger-than-it-was-in-2022/)<!-- GAME:END -->
+ - [Today I learned that Excel incorrectly assumes 1900 was a leap year, and Microsoft will never fix it because the whole house of cards would collapse](https://www.pcgamer.com/gaming-industry/today-i-learned-that-excel-incorrectly-assumes-1900-was-a-leap-year-and-microsoft-will-never-fix-it-because-the-whole-house-of-cards-would-collapse/)
+ - [Steven Soderbergh claims AI can build &quot;dream spaces&quot; for movies](https://www.polygon.com/steven-soderbergh-ai-filmmaking-yoko-ono-john-lennon-movie/)
+ - [Sony&#39;s PS5 UI update fixes an annoying interface issue](https://www.polygon.com/ps5-ui-update-sony-beta-testing-program-leak/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
