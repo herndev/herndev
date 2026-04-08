@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today I learned that Excel incorrectly assumes 1900 was a leap year, and Microsoft will never fix it because the whole house of cards would collapse](https://www.pcgamer.com/gaming-industry/today-i-learned-that-excel-incorrectly-assumes-1900-was-a-leap-year-and-microsoft-will-never-fix-it-because-the-whole-house-of-cards-would-collapse/)
- - [Steven Soderbergh claims AI can build &quot;dream spaces&quot; for movies](https://www.polygon.com/steven-soderbergh-ai-filmmaking-yoko-ono-john-lennon-movie/)
- - [Sony&#39;s PS5 UI update fixes an annoying interface issue](https://www.polygon.com/ps5-ui-update-sony-beta-testing-program-leak/)<!-- GAME:END -->
+ - [The Drip In Pokémon Champions Is Sauceless](https://kotaku.com/pokemon-champions-clothes-accessories-store-buy-vp-2000685834)
+ - [Trippy, psychedelic alien shooter ChainStaff shows there are still new ways for games to be &#39;retro&#39;](https://www.pcgamer.com/gaming-industry/trippy-psychedelic-alien-shooter-chainstaff-shows-there-are-still-new-ways-for-games-to-be-retro/)
+ - [How to get Mega Stones in Pokémon Champions](https://www.polygon.com/pokemon-champions-mega-stones-how-to-get/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
