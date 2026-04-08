@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Julia Liuson, head of Microsoft&#39;s developer division, will resign after 34 years and move to an &quot;advisory role&quot; at the end of June &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260408/p32#a260408p32)
- - [Google Maps wants to lower the bar for getting started with contributions](https://www.androidauthority.com/tell-maps-gemini-3655906/)
- - [The US Army Is Building Its Own Chatbot for Combat](https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/)<!-- TECH:END -->
+ - [Apple Watch Ultra 3 drops to its best price this year](https://www.androidauthority.com/apple-watch-ultra-3-deal-3655946/)
+ - [Motorola’s budget kings lose their budget-phone crown](https://www.androidauthority.com/motorola-rolls-out-price-hikes-3655929/)
+ - [Greek PM Kyriakos Mitsotakis says Greece will ban children under 15 from accessing social media starting January 1, 2027, and calls for coordinated EU action &lpar;Antonis Pothitos/Reuters&rpar;](http://www.techmeme.com/260408/p34#a260408p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
