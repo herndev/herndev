@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GoPro is cutting 23 percent of its workforce](https://www.theverge.com/business/908650/gopro-layoffs-cuts-23-percent)
- - [Dyson Spot+Scrub Ai Robot Vacuum Review &lpar;2026&rpar;](https://www.wired.com/review/dyson-spot-scrub-ai/)
- - [Continuous glucose monitoring made me continuously crazy](https://www.theverge.com/features/907359/cgms-optimizing-metabolism-dexcom-abbott-wearables-health-tech)<!-- TECH:END -->
+ - [UK-based currency hedging platform MillTech raised $60M from Apax Digital Funds at a $325M valuation, and plans to expand in North America and build AI tools &lpar;Carter Johnson/Bloomberg&rpar;](http://www.techmeme.com/260408/p16#a260408p16)
+ - [Insta360’s Snap is a tiny magnetic phone screen for taking rear-camera selfies](https://www.theverge.com/tech/907670/insta360-snap-usb-c-magsafe-screen-selfies-smartphone-rear-camera)
+ - [Unionized ProPublica staff are on strike over AI, layoffs, and wages](https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
