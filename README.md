@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Heros](http://9gag.com/gag/aO8Ly52)
- - ⏩ [The OG](http://9gag.com/gag/aZZOWMQ)
- - 👉 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)<!-- MEMES:END -->
+ - 💣 [Null](http://9gag.com/gag/azxpLVb)
+ - ⏩ [Unfortunately, It&#39;s the Same Person](http://9gag.com/gag/aLn7Qeg)
+ - 👉 [\u2615\ufe0f](http://9gag.com/gag/aPAbv3G)<!-- MEMES:END -->
 
 ---
 
