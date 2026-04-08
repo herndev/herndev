@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chef said no free food for you. Good for him](http://9gag.com/gag/aRBqQKG)
- - ⏩ [Jews](http://9gag.com/gag/a87xbwQ)
- - 👉 [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)<!-- MEMES:END -->
+ - 💣 [Back side smith grind](http://9gag.com/gag/azxpbWN)
+ - ⏩ [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)
+ - 👉 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)<!-- MEMES:END -->
 
 ---
 
