@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
- - ⏩ [Well, yes](http://9gag.com/gag/a34XPNm)
- - 👉 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)<!-- MEMES:END -->
+ - 💣 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
+ - ⏩ [A 40 year old got rejected](http://9gag.com/gag/aqyo9yR)
+ - 👉 [Oohhhh](http://9gag.com/gag/aZZOb4p)<!-- MEMES:END -->
 
 ---
 
