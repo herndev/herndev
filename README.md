@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple sued for allegedly scraping 70 million YouTube videos](https://www.androidauthority.com/apple-sued-for-scraping-youtube-videos-3655750/)
- - [Samsung’s Galaxy S27 lineup sounds like a disaster waiting to happen](https://www.androidauthority.com/samsung-galaxy-s27-lineup-pro-disaster-3655193/)
- - [YouTube is testing a new way to help you watch videos faster, but you’ll have to pay up](https://www.androidauthority.com/youtube-premium-auto-speed-on-the-go-experiments-3655710/)<!-- TECH:END -->
+ - [Your fancy noise-canceling headphones have a weakness, and Skoda just found it](https://www.androidauthority.com/skoda-duobell-anc-bicycle-bell-3655767/)
+ - [AI Forensics: in 16 Italian and Spanish Telegram groups, 24K+ men are sharing nonconsensual images of women and girls, buying spyware, and engaging in doxing &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/260408/p12#a260408p12)
+ - [In 2026, every Android brand is moments away from disaster](https://www.androidauthority.com/smartphone-brand-fail-3651994/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
