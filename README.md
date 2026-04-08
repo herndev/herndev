@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did you get that email? Gmail is currently experiencing delays](https://www.androidauthority.com/gmail-service-disruption-3655971/)
- - [I finally get the iPhone Air](https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular)
- - [NASA Artemis II Day 8: What to Expect in the Final Days of the Moon Mission](https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/)<!-- TECH:END -->
+ - [iPhone Fold doesn&#39;t need to exist, but Apple will release it anyway](https://appleinsider.com/articles/26/04/08/iphone-fold-doesnt-need-to-exist-but-apple-will-release-it-anyway?utm_source=rss)
+ - [A hacker claims to have stolen 10PB+ of data, including classified defense docs and missile schematics, from China&#39;s National Supercomputing Center in Tianjin &lpar;Isaac Yee/CNN&rpar;](http://www.techmeme.com/260408/p35#a260408p35)
+ - [iOS 26.4.1 &amp; iPadOS 26.4.1 bug fix updates have arrived](https://appleinsider.com/articles/26/04/08/ios-2641-ipados-2641-bug-fix-updates-have-arrived?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
