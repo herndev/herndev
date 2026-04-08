@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic hires Microsoft executive Eric Boyd as head of infrastructure; Boyd oversaw Microsoft&#39;s AI platform and worked at the company for 16 years &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/260407/p50#a260407p50)
- - [Save $250 on the premium Nebula Mars 3 Portable Projector](https://www.androidauthority.com/nebula-mars-3-portable-projector-deal-3655565/)
- - [Nothing’s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today](https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale)<!-- TECH:END -->
+ - [A pro-Iranian cybercrime group claims responsibility for cyberattacks on Chime and Pinterest that knocked the websites of both companies offline this month &lpar;Bloomberg&rpar;](http://www.techmeme.com/260407/p54#a260407p54)
+ - [Mythos Preview system card: the model was able to escape a sandbox after it was instructed to try, and posted details about its exploit without being prompted &lpar;Brent D. Griffiths/Business Insider&rpar;](http://www.techmeme.com/260407/p53#a260407p53)
+ - [The US FDIC proposes a rule to establish a regulatory framework for stablecoin issuers, including requirements related to reserve assets, under the GENIUS Act &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/260407/p52#a260407p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
