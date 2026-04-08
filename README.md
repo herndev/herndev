@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Null](http://9gag.com/gag/azxpLVb)
- - ⏩ [Unfortunately, It&#39;s the Same Person](http://9gag.com/gag/aLn7Qeg)
- - 👉 [\u2615\ufe0f](http://9gag.com/gag/aPAbv3G)<!-- MEMES:END -->
+ - 💣 [Back side smith grind](http://9gag.com/gag/azxpbWN)
+ - ⏩ [Chef said no free food for you. Good for him](http://9gag.com/gag/aRBqQKG)
+ - 👉 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)<!-- MEMES:END -->
 
 ---
 
