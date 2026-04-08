@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold doesn&#39;t need to exist, but Apple will release it anyway](https://appleinsider.com/articles/26/04/08/iphone-fold-doesnt-need-to-exist-but-apple-will-release-it-anyway?utm_source=rss)
- - [A hacker claims to have stolen 10PB+ of data, including classified defense docs and missile schematics, from China&#39;s National Supercomputing Center in Tianjin &lpar;Isaac Yee/CNN&rpar;](http://www.techmeme.com/260408/p35#a260408p35)
- - [iOS 26.4.1 &amp; iPadOS 26.4.1 bug fix updates have arrived](https://appleinsider.com/articles/26/04/08/ios-2641-ipados-2641-bug-fix-updates-have-arrived?utm_source=rss)<!-- TECH:END -->
+ - [Apple Passwords syncing bug corrected by iOS 26.4.1 update](https://appleinsider.com/articles/26/04/08/apple-passwords-syncing-bug-corrected-by-ios-2641-update?utm_source=rss)
+ - [CFO Sarah Friar says OpenAI will &quot;for sure&quot; reserve shares for retail investors in its IPO, after &quot;strong demand&quot; from individuals in its latest funding round &lpar;CNBC&rpar;](http://www.techmeme.com/260408/p36#a260408p36)
+ - [Galaxy S25 Ultra is getting this unique underwater feature](https://www.androidauthority.com/galaxy-s25-ultra-ocean-mode-3655993/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
