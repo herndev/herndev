@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, yes](http://9gag.com/gag/a34XPNm)
- - ⏩ [Null](http://9gag.com/gag/azxpLVb)
- - 👉 [The Snickers vs KitKat war is getting out of hand](http://9gag.com/gag/a34XYWr)<!-- MEMES:END -->
+ - 💣 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
+ - ⏩ [Well, yes](http://9gag.com/gag/a34XPNm)
+ - 👉 [Gen Z understands the assignment](http://9gag.com/gag/ary7vgd)<!-- MEMES:END -->
 
 ---
 
