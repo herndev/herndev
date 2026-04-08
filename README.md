@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [` Deku: It was cheap,what&#39;s the problem?`](http://9gag.com/gag/aKGowbQ)
- - ⏩ [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
- - 👉 [This job sucks](http://9gag.com/gag/a34XPGr)<!-- MEMES:END -->
+ - 💣 [Null](http://9gag.com/gag/azxpLVb)
+ - ⏩ [When Cat Naps Meet Vintage Chic](http://9gag.com/gag/aVvyOKn)
+ - 👉 [The Snickers vs KitKat war is getting out of hand](http://9gag.com/gag/a34XYWr)<!-- MEMES:END -->
 
 ---
 
