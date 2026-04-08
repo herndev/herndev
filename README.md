@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Orthodox Easter is coming up](http://9gag.com/gag/a0eyPMZ)
- - ⏩ [Hoffman was going through a divorce at the time of filming](http://9gag.com/gag/aByBKrA)
- - 👉 [It&#39;s important to take breaks!](http://9gag.com/gag/avyK0BO)<!-- MEMES:END -->
+ - 💣 [How cotton is picked](http://9gag.com/gag/aGy4wD7)
+ - ⏩ [The OG](http://9gag.com/gag/aZZOWMQ)
+ - 👉 [Gehnaldo](http://9gag.com/gag/amo4LV4)<!-- MEMES:END -->
 
 ---
 
