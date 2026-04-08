@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says Kindle and Kindle Fire devices released in 2012 and earlier won&#39;t be able to access the Kindle Store from May 20; downloaded books can still be read &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/260408/p31#a260408p31)
- - [5 Burning Questions About Elon Musk’s Terafab Chip Partnership with Intel](https://www.wired.com/story/5-burning-questions-about-elon-musks-terafab-chip-partnership-with-intel/)
- - [Samsung is giving you another chance to not buy its incredibly expensive Galaxy Z TriFold](https://www.androidauthority.com/galaxy-z-trifold-returns-3655898/)<!-- TECH:END -->
+ - [Internal memo: Julia Liuson, head of Microsoft&#39;s developer division, will resign after 34 years and move to an &quot;advisory role&quot; at the end of June &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260408/p32#a260408p32)
+ - [Google Maps wants to lower the bar for getting started with contributions](https://www.androidauthority.com/tell-maps-gemini-3655906/)
+ - [The US Army Is Building Its Own Chatbot for Combat](https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
