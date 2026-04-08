@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [These &#39;hunger system&#39; mods for Crimson Desert have gotten my hopes up for a full survival conversion](https://www.pcgamer.com/games/rpg/these-hunger-system-mods-for-crimson-desert-have-gotten-my-hopes-up-for-a-full-survival-conversion/)
- - [All King Legacy codes for April 2026: Gold Keys and Gems](https://www.pcgamer.com/roblox/king-legacy-codes/)
- - [Kerbal Space Program rockets to its highest concurrent player count on Steam in more than 10 years](https://www.pcgamer.com/games/sim/kerbal-space-program-rockets-to-its-highest-concurrent-player-count-on-steam-in-more-than-10-years/)<!-- GAME:END -->
+ - [After a recent patch, Death Stranding 2 is great on Steam Deck](https://www.pcgamer.com/games/action/after-a-recent-patch-death-stranding-2-is-great-on-steam-deck/)
+ - [An astronaut rolled a D20 in space, so yes, you can play D&amp;D in zero gravity](https://www.pcgamer.com/games/rpg/an-astronaut-rolled-a-d20-in-space-so-yes-you-can-play-d-and-d-in-zero-gravity/)
+ - [These &#39;hunger system&#39; mods for Crimson Desert have gotten my hopes up for a full survival conversion](https://www.pcgamer.com/games/rpg/these-hunger-system-mods-for-crimson-desert-have-gotten-my-hopes-up-for-a-full-survival-conversion/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
