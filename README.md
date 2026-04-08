@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [People of Note review: new musical indie RPG struggles to find its identity](https://www.polygon.com/people-of-note-review/)
- - [Introducing The Playerbase, bringing PlayStation’s biggest fans into blockbuster PlayStation Studios games](https://blog.playstation.com/2026/04/07/introducing-the-playerbase-bringing-playstations-biggest-fans-into-blockbuster-playstation-studios-games/)
- - [Coming to Xbox Game Pass: Kiln, Hades II, Vampire Crawlers, and More](https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/)<!-- GAME:END -->
+ - [These &#39;hunger system&#39; mods for Crimson Desert have gotten my hopes up for a full survival conversion](https://www.pcgamer.com/games/rpg/these-hunger-system-mods-for-crimson-desert-have-gotten-my-hopes-up-for-a-full-survival-conversion/)
+ - [All King Legacy codes for April 2026: Gold Keys and Gems](https://www.pcgamer.com/roblox/king-legacy-codes/)
+ - [Kerbal Space Program rockets to its highest concurrent player count on Steam in more than 10 years](https://www.pcgamer.com/games/sim/kerbal-space-program-rockets-to-its-highest-concurrent-player-count-on-steam-in-more-than-10-years/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
