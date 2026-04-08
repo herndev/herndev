@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuka, one of the largest industrial robotics suppliers, says it is prioritizing US and Asia investments, as Europe&#39;s industrial companies are slow to adopt AI &lpar;Marilen Martin/Bloomberg&rpar;](http://www.techmeme.com/260408/p5#a260408p5)
- - [TikTok says it plans to invest €1B to build a second data center in Finland as part of its €12B European data sovereignty initiative for the data of 200M+ users &lpar;Reuters&rpar;](http://www.techmeme.com/260408/p4#a260408p4)
- - [Sources: Perplexity&#39;s estimated ARR rose to over $450M in March, jumping 50% in a month after the launch of a new agent tool and a shift to usage-based pricing &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/260408/p3#a260408p3)<!-- TECH:END -->
+ - [Z.ai raises prices for its most advanced AI model, GLM-5.1, by at least 8% compared to GLM-5 Turbo, joining Alibaba and Tencent as demand for agentic AI surges &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260408/p8#a260408p8)
+ - [Sam Altman says OpenAI is resetting Codex usage limits &quot;to celebrate 3M weekly codex users&quot; and will reset them for every 1M new users until it reaches 10M &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260408/p7#a260408p7)
+ - [YouTube’s ad problem just got worse: Users now seeing 90-second unskippable ads!](https://www.androidauthority.com/youtube-90-second-unskippable-ads-3655694/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
