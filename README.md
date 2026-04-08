@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Passwords syncing bug corrected by iOS 26.4.1 update](https://appleinsider.com/articles/26/04/08/apple-passwords-syncing-bug-corrected-by-ios-2641-update?utm_source=rss)
- - [CFO Sarah Friar says OpenAI will &quot;for sure&quot; reserve shares for retail investors in its IPO, after &quot;strong demand&quot; from individuals in its latest funding round &lpar;CNBC&rpar;](http://www.techmeme.com/260408/p36#a260408p36)
- - [Galaxy S25 Ultra is getting this unique underwater feature](https://www.androidauthority.com/galaxy-s25-ultra-ocean-mode-3655993/)<!-- TECH:END -->
+ - [Get your 1st-gen Apple AirTags on sale while they are still available](https://www.androidauthority.com/apple-airtag-4-pack-deal-17-3655944/)
+ - [Yuga Labs settles its 2022 lawsuit against artist Ryder Ripps and Jeremy Cahen over their alleged copycatting of its BAYC NFTs; the terms were not disclosed &lpar;CoinDesk&rpar;](http://www.techmeme.com/260408/p39#a260408p39)
+ - [A DC appeals court denies Anthropic&#39;s bid to pause the DOD&#39;s supply chain risk designation, after a California judge granted a preliminary injunction in March &lpar;Jack Queen/Reuters&rpar;](http://www.techmeme.com/260408/p38#a260408p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
