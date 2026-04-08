@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chef said no free food for you. Good for him](http://9gag.com/gag/aRBqQKG)
- - ⏩ [Oohhhh](http://9gag.com/gag/aZZOb4p)
- - 👉 [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)<!-- MEMES:END -->
+ - 💣 [` Deku: It was cheap,what&#39;s the problem?`](http://9gag.com/gag/aKGowbQ)
+ - ⏩ [Judge gives 18 year old a 25 year sentence for armed robbery](http://9gag.com/gag/aGy4Yp7)
+ - 👉 [This job sucks](http://9gag.com/gag/a34XPGr)<!-- MEMES:END -->
 
 ---
 
