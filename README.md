@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Back side smith grind](http://9gag.com/gag/azxpbWN)
- - ⏩ [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)
- - 👉 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)<!-- MEMES:END -->
+ - ⏩ [The OG](http://9gag.com/gag/aZZOWMQ)
+ - 👉 [Chef said no free food for you. Good for him](http://9gag.com/gag/aRBqQKG)<!-- MEMES:END -->
 
 ---
 
