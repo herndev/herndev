@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK-based currency hedging platform MillTech raised $60M from Apax Digital Funds at a $325M valuation, and plans to expand in North America and build AI tools &lpar;Carter Johnson/Bloomberg&rpar;](http://www.techmeme.com/260408/p16#a260408p16)
- - [Insta360’s Snap is a tiny magnetic phone screen for taking rear-camera selfies](https://www.theverge.com/tech/907670/insta360-snap-usb-c-magsafe-screen-selfies-smartphone-rear-camera)
- - [Unionized ProPublica staff are on strike over AI, layoffs, and wages](https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs)<!-- TECH:END -->
+ - [Ikea’s New Lineup of Smart Home Gear Is Quietly Changing the Game](https://www.wired.com/story/ikea-matter-smart-home-hands-on/)
+ - [Asus ROG Xbox Ally review: comfortable design, Xbox Full Screen beats Windows 11, and affordable, but sleep/wake issues, weak display, and average performance &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260408/p18#a260408p18)
+ - [Even MacBook Neo can&#39;t save Apple from repairability complaints](https://appleinsider.com/articles/26/04/08/even-macbook-neo-cant-save-apple-from-repairability-complaints?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
