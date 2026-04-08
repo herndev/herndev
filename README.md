@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Z.ai raises prices for its most advanced AI model, GLM-5.1, by at least 8% compared to GLM-5 Turbo, joining Alibaba and Tencent as demand for agentic AI surges &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260408/p8#a260408p8)
- - [Sam Altman says OpenAI is resetting Codex usage limits &quot;to celebrate 3M weekly codex users&quot; and will reset them for every 1M new users until it reaches 10M &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/260408/p7#a260408p7)
- - [YouTube’s ad problem just got worse: Users now seeing 90-second unskippable ads!](https://www.androidauthority.com/youtube-90-second-unskippable-ads-3655694/)<!-- TECH:END -->
+ - [An investigation suggests Blockstream CEO Adam Back, a British cryptographer who invented Hashcash, is Bitcoin&#39;s pseudonymous inventor Satoshi Nakamoto &lpar;New York Times&rpar;](http://www.techmeme.com/260408/p10#a260408p10)
+ - [That’s not cool: These top gaming phones with liquid cooling just got caught for benchmark cheating](https://www.androidauthority.com/redmagic-cheating-2026-3655697/)
+ - [Men Are Buying Hacking Tools to Use Against Their Wives and Friends](https://www.wired.com/story/men-are-buying-hacking-tools-to-use-against-their-wives-and-friends/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
