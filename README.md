@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [50 years later, All the President&#39;s Men represents a truly bygone era](https://www.polygon.com/50-years-later-all-the-presidents-men/)
- - [How to complete The Three Sisters Garden quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/sim/disney-dreamlight-valley-the-three-sisters-garden-quest/)
- - [The devs behind Peak and Content Warning made a publisher to support their games and other indie developers: &#39;We help them with money and advice&#39;](https://www.pcgamer.com/gaming-industry/the-devs-behind-peak-and-content-warning-made-a-publisher-to-support-their-games-and-other-indie-developers-we-help-them-with-money-and-advice/)<!-- GAME:END -->
+ - [Pokémon Champions Turned One Mega Evolution Into An Instant Win Button](https://kotaku.com/pokemon-champions-mega-hawlucha-no-guard-ohko-doubles-2000686303)
+ - [Surprise, A New Borderlands Game Just Launched, But…](https://kotaku.com/surprise-a-new-borderlands-game-just-launched-but-2000686301)
+ - [Forza Horizon 6 map reveals real-world circuits and Initial D touge routes](https://www.polygon.com/forza-horizon-6-map-reveal-initial-d/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
