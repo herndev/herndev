@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Back side smith grind](http://9gag.com/gag/azxpbWN)
- - ⏩ [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 👉 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)<!-- MEMES:END -->
+ - 💣 [When firefighters join the water fight](http://9gag.com/gag/aKGog0j)
+ - ⏩ [Jews](http://9gag.com/gag/a87xbwQ)
+ - 👉 [Crypto really said why wait 9 years](http://9gag.com/gag/aZZOP56)<!-- MEMES:END -->
 
 ---
 
