@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Castlevania headlines a big list of exciting indie game reveals](https://www.theverge.com/games/908898/triple-i-initiative-indie-game-showcase-2026-recap-trailers)
- - [Anthropic makes Claude Cowork, previously available as a &quot;research preview&quot;, generally available to all paid plans, and adds six features for enterprise use &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260409/p30#a260409p30)
- - [Florida&#39;s AG launches a probe into OpenAI and ChatGPT, saying its data could fall &quot;into the hands of America&#39;s enemies&quot; and citing a mass shooter&#39;s ChatGPT use &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/260409/p29#a260409p29)<!-- TECH:END -->
+ - [Leaked Edge 70 Pro renders have us missing Moto Maker](https://www.androidauthority.com/moto-edge-70-pro-colors-renders-3656328/)
+ - [The 70-Person AI Image Startup Taking on Silicon Valley&#39;s Giants](https://www.wired.com/story/black-forest-labs-ai-image-generation/)
+ - [Google&amp;#8217;s Gemini AI can answer your questions with 3D models and simulations](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
