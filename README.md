@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 11 series could be the first to use Samsung’s latest display tech](https://www.androidauthority.com/pixel-11-samsung-m16-panel-3656261/)
- - [Google Gemma 4 in your pocket: How to run the latest AI fully offline](https://www.androidauthority.com/gemma-4-ai-edge-gallery-3656199/)
- - [Tesla is un-canceling its plan to build a smaller, cheaper EV: report](https://www.theverge.com/transportation/909196/tesla-cheap-affordable-ev-musk-model-2)<!-- TECH:END -->
+ - [Traveling with power banks? New limit may impact your next flight](https://www.androidauthority.com/southwest-new-power-bank-limit-3656235/)
+ - [Photomoji not working in Google Messages? A fix is coming](https://www.androidauthority.com/google-messages-photomoji-error-fix-3656285/)
+ - [Mastodon is about to launch its take on Bluesky&amp;#8217;s starter packs](https://www.theverge.com/tech/909308/mastodon-collections-bluesky-starter-packs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
