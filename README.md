@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dirt bike guy treated as an honored guest at a resort.](http://9gag.com/gag/aqyoZE7)
- - ⏩ [Her : where did you learn that?](http://9gag.com/gag/a9ygLZ0)
- - 👉 [Pick your battles!](http://9gag.com/gag/ary7eZd)<!-- MEMES:END -->
+ - 💣 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
+ - ⏩ [The OG](http://9gag.com/gag/aZZOWMQ)
+ - 👉 [Why are you geh?](http://9gag.com/gag/aQzW4Nr)<!-- MEMES:END -->
 
 ---
 
