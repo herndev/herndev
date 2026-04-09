@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chapter, which uses AI to help seniors enroll in Medicare, raised a $100M Series E, doubling its valuation to $3B and bringing its total funding to $285M &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/260409/p26#a260409p26)
- - [MAGA Media Seems to Have Hit Its Breaking Point Over Iran](https://www.wired.com/story/maga-media-seems-to-have-hit-its-breaking-point-over-iran/)
- - [From Apple II to iPhone 17 Pro, Apple&#39;s space story comes full circle](https://appleinsider.com/articles/26/04/07/from-apple-ii-to-iphone-17-pro-apples-space-story-comes-full-circle?utm_source=rss)<!-- TECH:END -->
+ - [The Pixel 11 series could be the first to use Samsung’s latest display tech](https://www.androidauthority.com/pixel-11-samsung-m16-panel-3656261/)
+ - [Google Gemma 4 in your pocket: How to run the latest AI fully offline](https://www.androidauthority.com/gemma-4-ai-edge-gallery-3656199/)
+ - [Tesla is un-canceling its plan to build a smaller, cheaper EV: report](https://www.theverge.com/transportation/909196/tesla-cheap-affordable-ev-musk-model-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
