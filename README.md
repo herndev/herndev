@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Edge 70 Pro renders have us missing Moto Maker](https://www.androidauthority.com/moto-edge-70-pro-colors-renders-3656328/)
- - [The 70-Person AI Image Startup Taking on Silicon Valley&#39;s Giants](https://www.wired.com/story/black-forest-labs-ai-image-generation/)
- - [Google&amp;#8217;s Gemini AI can answer your questions with 3D models and simulations](https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations)<!-- TECH:END -->
+ - [Instagram now lets you edit your own comments](https://www.theverge.com/tech/909455/instagram-edit-comments)
+ - [Save yourself wrist pain and $45 with this Logitech MX Vertical Mouse deal](https://www.androidauthority.com/logitech-mx-vertical-mouse-deal-2-3656311/)
+ - [This new app may free Galaxy Watch owners from Samsung’s phone-locked features](https://www.androidauthority.com/ecg-app-galaxy-watch-3656194/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
