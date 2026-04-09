@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Arm CEO Rene Haas is in line for an additional role at SoftBank Group to advance Project Izanagi, the Japanese group&#39;s AI chip strategy &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p3#a260409p3)
- - [UAE&#39;s leading AI company G42 says its data center campus and overseas plans are on track despite regional tensions and Iranian attacks on UAE infrastructure &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p2#a260409p2)
- - [Medicube Coupon Code: Top Promo Codes and Discounts for April 2026](https://www.wired.com/story/medicube-coupon-code/)<!-- TECH:END -->
+ - [A look at a global scramble to protect submarine cables vulnerable to potential sabotage, as new monitoring tech like distributed acoustic sensing is developed &lpar;Mike Cherney/Wall Street Journal&rpar;](http://www.techmeme.com/260409/p5#a260409p5)
+ - [TSMC says its most advanced chip packaging tech, CoWoS, is growing at an 80% CAGR as it ramps up capacity; Nvidia has reportedly reserved most of the capacity &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260409/p4#a260409p4)
+ - [Sources: Arm CEO Rene Haas is in line for an additional role at SoftBank Group to advance Project Izanagi, the Japanese group&#39;s AI chip strategy &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p3#a260409p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
