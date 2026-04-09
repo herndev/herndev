@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nava, which develops cloud infrastructure for AI workloads by combining data centers, GPUs, and software tools, raised a $22M Series A led by Greenoaks Capital &lpar;Samreen Ahmad/Tech in Asia&rpar;](http://www.techmeme.com/260408/p45#a260408p45)
- - [An analysis of the 200 most-recent tweets on X by 18 big publishers indicates links seem to hurt engagement, after debate arose over X&#39;s value for sharing news &lpar;Laura Hazard Owen/Nieman Lab&rpar;](http://www.techmeme.com/260408/p44#a260408p44)
- - [Gemini meets NotebookLM is Google’s latest powerful integration](https://www.androidauthority.com/gemini-notebooks-3656039/)<!-- TECH:END -->
+ - [A look at Neo, a VC firm that made early bets on startups including Kalshi and Cursor, pushing the value of its first two funds far above industry averages &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/260408/p47#a260408p47)
+ - [Poke, an AI agent that lets users automate tasks via text message, raised $10M, on top of a $15M seed last year, at a $300M post-money valuation &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260408/p46#a260408p46)
+ - [This Razr Ultra 2026 leak is all about Moto’s love for textures, and one curious omission](https://www.androidauthority.com/motorola-razr-ultra-press-renders-leak-3656044/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
