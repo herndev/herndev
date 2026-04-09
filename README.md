@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Traveling with power banks? New limit may impact your next flight](https://www.androidauthority.com/southwest-new-power-bank-limit-3656235/)
- - [Photomoji not working in Google Messages? A fix is coming](https://www.androidauthority.com/google-messages-photomoji-error-fix-3656285/)
- - [Mastodon is about to launch its take on Bluesky&amp;#8217;s starter packs](https://www.theverge.com/tech/909308/mastodon-collections-bluesky-starter-packs)<!-- TECH:END -->
+ - [Castlevania headlines a big list of exciting indie game reveals](https://www.theverge.com/games/908898/triple-i-initiative-indie-game-showcase-2026-recap-trailers)
+ - [Anthropic makes Claude Cowork, previously available as a &quot;research preview&quot;, generally available to all paid plans, and adds six features for enterprise use &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260409/p30#a260409p30)
+ - [Florida&#39;s AG launches a probe into OpenAI and ChatGPT, saying its data could fall &quot;into the hands of America&#39;s enemies&quot; and citing a mass shooter&#39;s ChatGPT use &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/260409/p29#a260409p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
