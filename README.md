@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic completes an employee tender offer at a $350B valuation, falling short of the $6B investors wanted, as employees held shares ahead of the IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/260408/p42#a260408p42)
- - [Memo: xAI is reorganizing its engineering team, as SpaceX SVP Michael Nicolls says xAI is &quot;clearly behind&quot;; source: Nicolls has taken the title of xAI president &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260408/p41#a260408p41)
- - [Anker Prime 3-in-1 Wireless Charging Station review: Fast, portable, &amp; smart](https://appleinsider.com/articles/26/04/09/anker-prime-3-in-1-wireless-charging-station-review-fast-portable-smart?utm_source=rss)<!-- TECH:END -->
+ - [Nava, which develops cloud infrastructure for AI workloads by combining data centers, GPUs, and software tools, raised a $22M Series A led by Greenoaks Capital &lpar;Samreen Ahmad/Tech in Asia&rpar;](http://www.techmeme.com/260408/p45#a260408p45)
+ - [An analysis of the 200 most-recent tweets on X by 18 big publishers indicates links seem to hurt engagement, after debate arose over X&#39;s value for sharing news &lpar;Laura Hazard Owen/Nieman Lab&rpar;](http://www.techmeme.com/260408/p44#a260408p44)
+ - [Gemini meets NotebookLM is Google’s latest powerful integration](https://www.androidauthority.com/gemini-notebooks-3656039/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
