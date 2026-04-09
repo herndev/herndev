@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I swear &amp; big world](http://9gag.com/gag/azxpLbz)
- - ⏩ [Heros](http://9gag.com/gag/aO8Ly52)
- - 👉 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)<!-- MEMES:END -->
+ - 💣 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
+ - ⏩ [Why are you geh?](http://9gag.com/gag/aQzW4Nr)
+ - 👉 [When you drink too much coffee](http://9gag.com/gag/a6ZYyGe)<!-- MEMES:END -->
 
 ---
 
