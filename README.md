@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iryna Zarutska&#39;s killer, Decarlos Brown Jr., found incompetent to stand trial. The deflection of responsibility continues.](http://9gag.com/gag/axyqG7D)
- - ⏩ [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 👉 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)<!-- MEMES:END -->
+ - 💣 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
+ - ⏩ [Always be a mommy&#39;s boy](http://9gag.com/gag/a9ygLjZ)
+ - 👉 [This rib membrane removal trick is a game changer](http://9gag.com/gag/ayNjpbY)<!-- MEMES:END -->
 
 ---
 
