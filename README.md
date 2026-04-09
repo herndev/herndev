@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer’s new gaming earbuds come with a surprisingly feature-packed case](https://www.androidauthority.com/razer-hammerhead-v3-hyperspeed-gaming-earbuds-launch-3656420/)
- - [The EFF is quitting X](https://www.theverge.com/tech/909550/eff-electronic-frontier-foundation-leaving-x-twitter)
- - [xAI has filed a lawsuit challenging Colorado&#39;s landmark AI anti-discrimination law, set to take effect in the summer, saying it violates free speech protections &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p39#a260409p39)<!-- TECH:END -->
+ - [How Black Forest Labs, a 70-person startup based in Germany, became a top competitor in AI image generation; sources: it recently declined to partner with xAI &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260409/p40#a260409p40)
+ - [ChatGPT has a new $100 per month Pro subscription](https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new)
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
