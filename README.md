@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; First look at the 007 First Light Limited Edition DualSense Wireless Controller](https://blog.playstation.com/2026/04/08/20260409-007/)
- - [&lpar;For Southeast Asia&rpar; First look at the 007 First Light Limited Edition DualSense Wireless Controller](https://blog.playstation.com/2026/04/08/20260409-007/)
- - [Crimson Desert interactive maps](https://www.polygon.com/map/crimson-desert-interactive-pywel-hernand-demeniss-pailune-delesyia/)<!-- GAME:END -->
+ - [50 years later, All the President&#39;s Men represents a truly bygone era](https://www.polygon.com/50-years-later-all-the-presidents-men/)
+ - [How to complete The Three Sisters Garden quest in Disney Dreamlight Valley](https://www.pcgamer.com/games/sim/disney-dreamlight-valley-the-three-sisters-garden-quest/)
+ - [The devs behind Peak and Content Warning made a publisher to support their games and other indie developers: &#39;We help them with money and advice&#39;](https://www.pcgamer.com/gaming-industry/the-devs-behind-peak-and-content-warning-made-a-publisher-to-support-their-games-and-other-indie-developers-we-help-them-with-money-and-advice/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
