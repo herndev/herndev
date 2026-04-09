@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Back side smith grind](http://9gag.com/gag/azxpbWN)
- - ⏩ [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)
- - 👉 [Jews](http://9gag.com/gag/a87xbwQ)<!-- MEMES:END -->
+ - 💣 [I swear &amp; big world](http://9gag.com/gag/azxpLbz)
+ - ⏩ [Why are you geh?](http://9gag.com/gag/aQzW4Nr)
+ - 👉 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)<!-- MEMES:END -->
 
 ---
 
