@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy A57 does one thing better than any budget Android phone, and it’s a game-changer](https://www.androidauthority.com/samsung-galaxy-a57-hands-on-better-other-budget-phones-3654688/)
- - [Artemis II Astronauts Witnessed 6 Meteorites Colliding With the Moon](https://www.wired.com/story/artemis-ii-astronauts-witnessed-6-meteorites-collide-with-the-moon/)
- - [Tubi becomes the first streamer to launch a native app within ChatGPT, allowing viewers to find movies or shows to watch by using conversational phrases &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260409/p8#a260409p8)<!-- TECH:END -->
+ - [Source: OpenAI is finalizing a model with advanced cybersecurity capabilities that it plans to release only to a small set of companies, similar to Anthropic &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260409/p12#a260409p12)
+ - [This rumored chip could help 2027’s flagship phones get closer to 5GHz mark](https://www.androidauthority.com/mediatek-dimensity-9600-pro-leaked-specs-3656096/)
+ - [OpenAI pauses Stargate in the UK, citing the high energy costs and regulatory environment; OpenAI announced it in September 2025 alongside Nvidia and Nscale &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260409/p11#a260409p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
