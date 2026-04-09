@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unless you reboot every once in a while, your Mac will get kicked offline every 49 days](https://appleinsider.com/articles/26/04/09/unless-you-reboot-every-once-in-a-while-your-mac-will-get-kicked-offline-every-49-days?utm_source=rss)
- - [Samsung plans to invest $4B to construct a chip packaging facility in Vietnam&#39;s Thai Nguyen province to support AI demand; sources say the first phase costs $2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p17#a260409p17)
- - [Viral iPhone Fold unboxing video is a very well made fake](https://appleinsider.com/articles/26/04/09/viral-iphone-fold-unboxing-video-is-a-very-well-made-fake?utm_source=rss)<!-- TECH:END -->
+ - [Viral iPhone Fold unboxing video is a very well made fake](https://appleinsider.com/articles/26/04/09/viral-iphone-fold-unboxing-video-is-a-very-well-made-fake?utm_source=rss)
+ - [Annual letter: Andy Jassy says AWS&#39;s AI revenue has reached a $15B annual run rate as of Q1, and Amazon plans to spend ~$200B in capital expenditures in 2026 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260409/p22#a260409p22)
+ - [Nintendo Wii can run Mac OS X like it&#39;s 2001 all over again](https://appleinsider.com/articles/26/04/09/nintendo-wii-can-run-mac-os-x-like-its-2001-all-over-again?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
