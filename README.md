@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dirt bike guy treated as an honored guest at a resort.](http://9gag.com/gag/aqyoZE7)
- - ⏩ [Iryna Zarutska&#39;s killer, Decarlos Brown Jr., found incompetent to stand trial. The deflection of responsibility continues.](http://9gag.com/gag/axyqG7D)
- - 👉 [I saw a great meme and had to improve it.](http://9gag.com/gag/aW43Om2)<!-- MEMES:END -->
+ - 💣 [Back side smith grind](http://9gag.com/gag/azxpbWN)
+ - ⏩ [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)
+ - 👉 [Jews](http://9gag.com/gag/a87xbwQ)<!-- MEMES:END -->
 
 ---
 
