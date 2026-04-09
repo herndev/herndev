@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy Watch 8 is easier to recommend now it starts at $260](https://www.theverge.com/gadgets/909502/samsung-galaxy-watch-8-classic-deal-sale)
- - [A gap in understanding AI is growing, as casual users cite flaws in old free models while power users point to new models&#39; staggering gains in technical domains &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/260409/p38#a260409p38)
- - [Google gives Gemini a powerful new way to help you understand complex subjects](https://www.androidauthority.com/google-gemini-interactive-simulations-3656405/)<!-- TECH:END -->
+ - [Razer’s new gaming earbuds come with a surprisingly feature-packed case](https://www.androidauthority.com/razer-hammerhead-v3-hyperspeed-gaming-earbuds-launch-3656420/)
+ - [The EFF is quitting X](https://www.theverge.com/tech/909550/eff-electronic-frontier-foundation-leaving-x-twitter)
+ - [xAI has filed a lawsuit challenging Colorado&#39;s landmark AI anti-discrimination law, set to take effect in the summer, saying it violates free speech protections &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p39#a260409p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
