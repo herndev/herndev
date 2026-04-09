@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
- - ⏩ [The OG](http://9gag.com/gag/aZZOWMQ)
- - 👉 [Why are you geh?](http://9gag.com/gag/aQzW4Nr)<!-- MEMES:END -->
+ - 💣 [Her : where did you learn that?](http://9gag.com/gag/a9ygLZ0)
+ - ⏩ [Pick your battles!](http://9gag.com/gag/ary7eZd)
+ - 👉 [I saw a great meme and had to improve it.](http://9gag.com/gag/aW43Om2)<!-- MEMES:END -->
 
 ---
 
