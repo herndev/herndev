@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Viral iPhone Fold unboxing video is a very well made fake](https://appleinsider.com/articles/26/04/09/viral-iphone-fold-unboxing-video-is-a-very-well-made-fake?utm_source=rss)
- - [Annual letter: Andy Jassy says AWS&#39;s AI revenue has reached a $15B annual run rate as of Q1, and Amazon plans to spend ~$200B in capital expenditures in 2026 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/260409/p22#a260409p22)
- - [Nintendo Wii can run Mac OS X like it&#39;s 2001 all over again](https://appleinsider.com/articles/26/04/09/nintendo-wii-can-run-mac-os-x-like-its-2001-all-over-again?utm_source=rss)<!-- TECH:END -->
+ - [Chapter, which uses AI to help seniors enroll in Medicare, raised a $100M Series E, doubling its valuation to $3B and bringing its total funding to $285M &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/260409/p26#a260409p26)
+ - [MAGA Media Seems to Have Hit Its Breaking Point Over Iran](https://www.wired.com/story/maga-media-seems-to-have-hit-its-breaking-point-over-iran/)
+ - [From Apple II to iPhone 17 Pro, Apple&#39;s space story comes full circle](https://appleinsider.com/articles/26/04/07/from-apple-ii-to-iphone-17-pro-apples-space-story-comes-full-circle?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
