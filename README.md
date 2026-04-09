@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram now lets you edit your own comments](https://www.theverge.com/tech/909455/instagram-edit-comments)
- - [Save yourself wrist pain and $45 with this Logitech MX Vertical Mouse deal](https://www.androidauthority.com/logitech-mx-vertical-mouse-deal-2-3656311/)
- - [This new app may free Galaxy Watch owners from Samsung’s phone-locked features](https://www.androidauthority.com/ecg-app-galaxy-watch-3656194/)<!-- TECH:END -->
+ - [NASA’s Artemis II mission to fly around the far side of the Moon](https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing)
+ - [Google TV Streamer drops back to Big Spring Sale prices!](https://www.androidauthority.com/google-tv-streamer-deal-15-3656310/)
+ - [An Ohio man is the first convicted under the Take It Down Act after pleading guilty to creating and sharing real and AI-generated explicit images of 10+ victims &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/260409/p35#a260409p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
