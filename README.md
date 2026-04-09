@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)
- - ⏩ [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
- - 👉 [Heros](http://9gag.com/gag/aO8Ly52)<!-- MEMES:END -->
+ - 💣 [Dirt bike guy treated as an honored guest at a resort.](http://9gag.com/gag/aqyoZE7)
+ - ⏩ [Iryna Zarutska&#39;s killer, Decarlos Brown Jr., found incompetent to stand trial. The deflection of responsibility continues.](http://9gag.com/gag/axyqG7D)
+ - 👉 [I saw a great meme and had to improve it.](http://9gag.com/gag/aW43Om2)<!-- MEMES:END -->
 
 ---
 
