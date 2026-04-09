@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Software release Friday](http://9gag.com/gag/aXP69XP)
- - ⏩ [`Dude if you die there&#39;s no one to feed me, you&#39;re gonna get through this`](http://9gag.com/gag/aRBqAOj)
- - 👉 [The flat-earthers have finally won. Thank you, Artemis](http://9gag.com/gag/aAyz12g)<!-- MEMES:END -->
+ - 💣 [Lorax](http://9gag.com/gag/an7PBzL)
+ - ⏩ [Gluteus Maximus](http://9gag.com/gag/aKGoqg1)
+ - 👉 [This rib membrane removal trick is a game changer](http://9gag.com/gag/ayNjpbY)<!-- MEMES:END -->
 
 ---
 
