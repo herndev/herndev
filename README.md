@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Neo, a VC firm that made early bets on startups including Kalshi and Cursor, pushing the value of its first two funds far above industry averages &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/260408/p47#a260408p47)
- - [Poke, an AI agent that lets users automate tasks via text message, raised $10M, on top of a $15M seed last year, at a $300M post-money valuation &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260408/p46#a260408p46)
- - [This Razr Ultra 2026 leak is all about Moto’s love for textures, and one curious omission](https://www.androidauthority.com/motorola-razr-ultra-press-renders-leak-3656044/)<!-- TECH:END -->
+ - [Memo: UK NHS data chief Ming Tang says Palantir-built Federated Data Platform is delivering &quot;outstanding results&quot; as she pushes deeper rollout of Palantir tech &lpar;Chris Smyth/Financial Times&rpar;](http://www.techmeme.com/260409/p1#a260409p1)
+ - [Do people really switch from iPhone to Android? Apple now wants Samsung’s data to answer that](https://www.androidauthority.com/apple-samsung-data-request-us-antitrust-case-3656052/)
+ - [A look at Neo, a VC firm that made early bets on startups including Kalshi and Cursor, pushing the value of its first two funds far above industry averages &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/260408/p47#a260408p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
