@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
- - ⏩ [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 👉 [Forget about Hans](http://9gag.com/gag/a7oRKVe)<!-- MEMES:END -->
+ - 💣 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
+ - ⏩ [Forget about Hans](http://9gag.com/gag/a7oRKVe)
+ - 👉 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)<!-- MEMES:END -->
 
 ---
 
