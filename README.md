@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I saw a great meme and had to improve it.](http://9gag.com/gag/aW43Om2)
- - ⏩ [Iryna Zarutska&#39;s killer, Decarlos Brown Jr., found incompetent to stand trial. The deflection of responsibility continues.](http://9gag.com/gag/axyqG7D)
- - 👉 [Still can&#39;t believe it. Wish me luck guys!](http://9gag.com/gag/awyWbEW)<!-- MEMES:END -->
+ - 💣 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
+ - ⏩ [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
+ - 👉 [Forget about Hans](http://9gag.com/gag/a7oRKVe)<!-- MEMES:END -->
 
 ---
 
