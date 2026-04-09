@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Drip In Pokémon Champions Is Sauceless](https://kotaku.com/pokemon-champions-clothes-accessories-store-buy-vp-2000685834)
- - [Trippy, psychedelic alien shooter ChainStaff shows there are still new ways for games to be &#39;retro&#39;](https://www.pcgamer.com/gaming-industry/trippy-psychedelic-alien-shooter-chainstaff-shows-there-are-still-new-ways-for-games-to-be-retro/)
- - [How to get Mega Stones in Pokémon Champions](https://www.polygon.com/pokemon-champions-mega-stones-how-to-get/)<!-- GAME:END -->
+ - [Do you know this mage? Test your knowledge of the gaming arcane with our quiz on magical allies and villains](https://www.pcgamer.com/games/rpg/do-you-know-this-mage-test-your-knowledge-of-the-gaming-arcane-with-our-quiz-on-magical-allies-and-villains/)
+ - [Project Zomboid identifies and bans over a dozen Steam Workshop mods containing &#39;heavily obfuscated code&#39; that was &#39;creating malicious files&#39;](https://www.pcgamer.com/games/survival-crafting/project-zomboid-identifies-and-bans-over-a-dozen-steam-workshop-mods-containing-heavily-obfuscated-code-that-was-creating-malicious-files/)
+ - [Dev Behind Busted GTA IV-Like Steam Release Puts Out Apology Letter](https://kotaku.com/dev-behind-busted-gta-iv-like-steam-release-puts-out-apology-letter-2000685874)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
