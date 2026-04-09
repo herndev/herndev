@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Do you know this mage? Test your knowledge of the gaming arcane with our quiz on magical allies and villains](https://www.pcgamer.com/games/rpg/do-you-know-this-mage-test-your-knowledge-of-the-gaming-arcane-with-our-quiz-on-magical-allies-and-villains/)
- - [Project Zomboid identifies and bans over a dozen Steam Workshop mods containing &#39;heavily obfuscated code&#39; that was &#39;creating malicious files&#39;](https://www.pcgamer.com/games/survival-crafting/project-zomboid-identifies-and-bans-over-a-dozen-steam-workshop-mods-containing-heavily-obfuscated-code-that-was-creating-malicious-files/)
- - [Dev Behind Busted GTA IV-Like Steam Release Puts Out Apology Letter](https://kotaku.com/dev-behind-busted-gta-iv-like-steam-release-puts-out-apology-letter-2000685874)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; First look at the 007 First Light Limited Edition DualSense Wireless Controller](https://blog.playstation.com/2026/04/08/20260409-007/)
+ - [&lpar;For Southeast Asia&rpar; First look at the 007 First Light Limited Edition DualSense Wireless Controller](https://blog.playstation.com/2026/04/08/20260409-007/)
+ - [Crimson Desert interactive maps](https://www.polygon.com/map/crimson-desert-interactive-pywel-hernand-demeniss-pailune-delesyia/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
