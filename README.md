@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson made a handheld version of its iconic fans](https://www.theverge.com/tech/907802/dyson-hushjet-mini-cool-handheld-personal-fan-specs-availability)
- - [Google introduces &quot;notebooks&quot; in the Gemini app for deeper NotebookLM integration and a dedicated space to organize chats and files &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260408/p40#a260408p40)
- - [Stolen Device Protection for enterprise &amp; Apple Passwords sync fix are in iOS 26.4.1](https://appleinsider.com/articles/26/04/08/apple-passwords-syncing-bug-corrected-by-ios-2641-update?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Anthropic completes an employee tender offer at a $350B valuation, falling short of the $6B investors wanted, as employees held shares ahead of the IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/260408/p42#a260408p42)
+ - [Memo: xAI is reorganizing its engineering team, as SpaceX SVP Michael Nicolls says xAI is &quot;clearly behind&quot;; source: Nicolls has taken the title of xAI president &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260408/p41#a260408p41)
+ - [Anker Prime 3-in-1 Wireless Charging Station review: Fast, portable, &amp; smart](https://appleinsider.com/articles/26/04/09/anker-prime-3-in-1-wireless-charging-station-review-fast-portable-smart?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
