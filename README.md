@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: OpenAI is finalizing a model with advanced cybersecurity capabilities that it plans to release only to a small set of companies, similar to Anthropic &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260409/p12#a260409p12)
- - [This rumored chip could help 2027’s flagship phones get closer to 5GHz mark](https://www.androidauthority.com/mediatek-dimensity-9600-pro-leaked-specs-3656096/)
- - [OpenAI pauses Stargate in the UK, citing the high energy costs and regulatory environment; OpenAI announced it in September 2025 alongside Nvidia and Nscale &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/260409/p11#a260409p11)<!-- TECH:END -->
+ - [Meta commits to spending additional $21B on AI cloud infrastructure from CoreWeave, running from 2027 to 2032, on top of its prior $14.2B deal that ends in 2031 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260409/p14#a260409p14)
+ - [Fi Mini for Cats Review: Track Your Pets and Monitor Their Activity](https://www.wired.com/review/fi-mini-for-cats/)
+ - [Meta Cafeteria Workers Did What Execs Won’t: Took on ICE and Won](https://www.wired.com/story/how-meta-cafeteria-workers-rallied-to-take-on-ice/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
