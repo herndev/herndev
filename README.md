@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No surprise: Samsung just gave the Samsung Galaxy S26 a perfect design score](https://www.androidauthority.com/samsung-gives-galaxy-s26-perfect-score-design-3656059/)
- - [Date and location for Samsung’s next Unpacked event just leaked](https://www.androidauthority.com/samsung-galaxy-z-fold-8-wide-unpacked-date-3656057/)
- - [As AI transforms white-collar work, executives across sectors say trust, not AI, is the key differentiator where accuracy, accountability, and regulation matter &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p6#a260409p6)<!-- TECH:END -->
+ - [The Galaxy A57 does one thing better than any budget Android phone, and it’s a game-changer](https://www.androidauthority.com/samsung-galaxy-a57-hands-on-better-other-budget-phones-3654688/)
+ - [Artemis II Astronauts Witnessed 6 Meteorites Colliding With the Moon](https://www.wired.com/story/artemis-ii-astronauts-witnessed-6-meteorites-collide-with-the-moon/)
+ - [Tubi becomes the first streamer to launch a native app within ChatGPT, allowing viewers to find movies or shows to watch by using conversational phrases &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/260409/p8#a260409p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
