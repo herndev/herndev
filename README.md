@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her : where did you learn that?](http://9gag.com/gag/a9ygLZ0)
- - ⏩ [Pick your battles!](http://9gag.com/gag/ary7eZd)
- - 👉 [I saw a great meme and had to improve it.](http://9gag.com/gag/aW43Om2)<!-- MEMES:END -->
+ - 💣 [I swear &amp; big world](http://9gag.com/gag/azxpLbz)
+ - ⏩ [Heros](http://9gag.com/gag/aO8Ly52)
+ - 👉 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)<!-- MEMES:END -->
 
 ---
 
