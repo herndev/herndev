@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iryna Zarutska&#39;s killer, Decarlos Brown Jr., found incompetent to stand trial. The deflection of responsibility continues.](http://9gag.com/gag/axyqG7D)
- - ⏩ [It&#39;s important to take breaks!](http://9gag.com/gag/avyK0BO)
- - 👉 [The OG](http://9gag.com/gag/aZZOWMQ)<!-- MEMES:END -->
+ - 💣 [Scissors.. playing with scissors](http://9gag.com/gag/a2v6P5Y)
+ - ⏩ [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
+ - 👉 [Heros](http://9gag.com/gag/aO8Ly52)<!-- MEMES:END -->
 
 ---
 
