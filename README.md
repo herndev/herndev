@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta commits to spending additional $21B on AI cloud infrastructure from CoreWeave, running from 2027 to 2032, on top of its prior $14.2B deal that ends in 2031 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260409/p14#a260409p14)
- - [Fi Mini for Cats Review: Track Your Pets and Monitor Their Activity](https://www.wired.com/review/fi-mini-for-cats/)
- - [Meta Cafeteria Workers Did What Execs Won’t: Took on ICE and Won](https://www.wired.com/story/how-meta-cafeteria-workers-rallied-to-take-on-ice/)<!-- TECH:END -->
+ - [Unless you reboot every once in a while, your Mac will get kicked offline every 49 days](https://appleinsider.com/articles/26/04/09/unless-you-reboot-every-once-in-a-while-your-mac-will-get-kicked-offline-every-49-days?utm_source=rss)
+ - [Samsung plans to invest $4B to construct a chip packaging facility in Vietnam&#39;s Thai Nguyen province to support AI demand; sources say the first phase costs $2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p17#a260409p17)
+ - [Viral iPhone Fold unboxing video is a very well made fake](https://appleinsider.com/articles/26/04/09/viral-iphone-fold-unboxing-video-is-a-very-well-made-fake?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
