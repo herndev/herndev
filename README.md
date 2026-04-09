@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: UK NHS data chief Ming Tang says Palantir-built Federated Data Platform is delivering &quot;outstanding results&quot; as she pushes deeper rollout of Palantir tech &lpar;Chris Smyth/Financial Times&rpar;](http://www.techmeme.com/260409/p1#a260409p1)
- - [Do people really switch from iPhone to Android? Apple now wants Samsung’s data to answer that](https://www.androidauthority.com/apple-samsung-data-request-us-antitrust-case-3656052/)
- - [A look at Neo, a VC firm that made early bets on startups including Kalshi and Cursor, pushing the value of its first two funds far above industry averages &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/260408/p47#a260408p47)<!-- TECH:END -->
+ - [Sources: Arm CEO Rene Haas is in line for an additional role at SoftBank Group to advance Project Izanagi, the Japanese group&#39;s AI chip strategy &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p3#a260409p3)
+ - [UAE&#39;s leading AI company G42 says its data center campus and overseas plans are on track despite regional tensions and Iranian attacks on UAE infrastructure &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p2#a260409p2)
+ - [Medicube Coupon Code: Top Promo Codes and Discounts for April 2026](https://www.wired.com/story/medicube-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
