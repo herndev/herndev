@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As AI transforms white-collar work, executives across sectors say trust, not AI, is the key differentiator where accuracy, accountability, and regulation matter &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p6#a260409p6)
- - [A look at a global scramble to protect submarine cables vulnerable to potential sabotage, as new monitoring tech like distributed acoustic sensing is developed &lpar;Mike Cherney/Wall Street Journal&rpar;](http://www.techmeme.com/260409/p5#a260409p5)
- - [TSMC says its most advanced chip packaging tech, CoWoS, is growing at an 80% CAGR as it ramps up capacity; Nvidia has reportedly reserved most of the capacity &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260409/p4#a260409p4)<!-- TECH:END -->
+ - [No surprise: Samsung just gave the Samsung Galaxy S26 a perfect design score](https://www.androidauthority.com/samsung-gives-galaxy-s26-perfect-score-design-3656059/)
+ - [Date and location for Samsung’s next Unpacked event just leaked](https://www.androidauthority.com/samsung-galaxy-z-fold-8-wide-unpacked-date-3656057/)
+ - [As AI transforms white-collar work, executives across sectors say trust, not AI, is the key differentiator where accuracy, accountability, and regulation matter &lpar;Financial Times&rpar;](http://www.techmeme.com/260409/p6#a260409p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
