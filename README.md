@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA’s Artemis II mission to fly around the far side of the Moon](https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing)
- - [Google TV Streamer drops back to Big Spring Sale prices!](https://www.androidauthority.com/google-tv-streamer-deal-15-3656310/)
- - [An Ohio man is the first convicted under the Take It Down Act after pleading guilty to creating and sharing real and AI-generated explicit images of 10+ victims &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/260409/p35#a260409p35)<!-- TECH:END -->
+ - [Samsung’s Galaxy Watch 8 is easier to recommend now it starts at $260](https://www.theverge.com/gadgets/909502/samsung-galaxy-watch-8-classic-deal-sale)
+ - [A gap in understanding AI is growing, as casual users cite flaws in old free models while power users point to new models&#39; staggering gains in technical domains &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/260409/p38#a260409p38)
+ - [Google gives Gemini a powerful new way to help you understand complex subjects](https://www.androidauthority.com/google-gemini-interactive-simulations-3656405/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
