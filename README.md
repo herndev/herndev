@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When firefighters join the water fight](http://9gag.com/gag/aKGog0j)
- - ⏩ [Jews](http://9gag.com/gag/a87xbwQ)
- - 👉 [Crypto really said why wait 9 years](http://9gag.com/gag/aZZOP56)<!-- MEMES:END -->
+ - 💣 [Disable AI scanning your gmail](http://9gag.com/gag/aQzWp87)
+ - ⏩ [It&#39;s important to take breaks!](http://9gag.com/gag/avyK0BO)
+ - 👉 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)<!-- MEMES:END -->
 
 ---
 
