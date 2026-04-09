@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
- - ⏩ [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 👉 [Forget about Hans](http://9gag.com/gag/a7oRKVe)<!-- MEMES:END -->
+ - 💣 [Why is the medicine not taking effect? I took it just like prescribed](http://9gag.com/gag/adBDpyZ)
+ - ⏩ [Oooooooooo. Sailor mooooooooooonnn](http://9gag.com/gag/aAyzpM9)
+ - 👉 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)<!-- MEMES:END -->
 
 ---
 
