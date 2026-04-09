@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I swear &amp; big world](http://9gag.com/gag/azxpLbz)
- - ⏩ [Why are you geh?](http://9gag.com/gag/aQzW4Nr)
- - 👉 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)<!-- MEMES:END -->
+ - 💣 [Dirt bike guy treated as an honored guest at a resort.](http://9gag.com/gag/aqyoZE7)
+ - ⏩ [Her : where did you learn that?](http://9gag.com/gag/a9ygLZ0)
+ - 👉 [Pick your battles!](http://9gag.com/gag/ary7eZd)<!-- MEMES:END -->
 
 ---
 
