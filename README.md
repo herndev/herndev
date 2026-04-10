@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [No comments...](http://9gag.com/gag/aXP6wNz)
- - ⏩ [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
+ - ⏩ [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)
  - 👉 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)<!-- MEMES:END -->
 
 ---
