@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Champions Turned One Mega Evolution Into An Instant Win Button](https://kotaku.com/pokemon-champions-mega-hawlucha-no-guard-ohko-doubles-2000686303)
- - [Surprise, A New Borderlands Game Just Launched, But…](https://kotaku.com/surprise-a-new-borderlands-game-just-launched-but-2000686301)
- - [Forza Horizon 6 map reveals real-world circuits and Initial D touge routes](https://www.polygon.com/forza-horizon-6-map-reveal-initial-d/)<!-- GAME:END -->
+ - [Cult Hit Doki Doki Literature Club Fights Removal From Google Play Store Over ‘Depiction Of Sensitive Themes’](https://kotaku.com/doki-doki-literature-club-google-play-store-android-censorship-2000686431)
+ - [15 Games You Should Be Paying Attention To From The Latest Big Indie Showcase](https://kotaku.com/graveyard-keeper-2-dont-starve-risk-rain-dlc-iii-initiative-showcase-2000686366)
+ - [Gunzilla CEO Denies Claims Of Not Paying Staff, Rants About ‘Haters,’ And Brags About Crunch](https://kotaku.com/gunzilla-ceo-denies-claims-of-not-paying-staff-haters-twitter-rant-crunch-2000686412)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
