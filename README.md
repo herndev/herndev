@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oddly romantic things are the best things](http://9gag.com/gag/aKGo36j)
- - ⏩ [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)
- - 👉 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)<!-- MEMES:END -->
+ - 💣 [No great story started with a salad...](http://9gag.com/gag/ary7NV7)
+ - ⏩ [Here\u2019s a sticker!](http://9gag.com/gag/aByB1EP)
+ - 👉 [No comments...](http://9gag.com/gag/aXP6wNz)<!-- MEMES:END -->
 
 ---
 
