@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A bunch of Ring security cameras are on sale! Come get them!](https://www.androidauthority.com/ring-indoor-outdoor-cam-plus-spotlight-cam-plus-floodlight-cam-deals-3656675/)
- - [Sources: Cisco is in talks to acquire Tel Aviv-based Astrix Security, which sells software to monitor and secure AI agents, for between $250M and $350M &lpar;The Information&rpar;](http://www.techmeme.com/260410/p26#a260410p26)
- - [Tesla says Dutch regulators approved the use of its full self-driving software, marking the first regulatory sign-off for the feature in Europe &lpar;Reuters&rpar;](http://www.techmeme.com/260410/p25#a260410p25)<!-- TECH:END -->
+ - [Amazon Luna is dropping support for game purchases and third-party game stores and subscriptions; previously purchased games will be accessible until June 10 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/260410/p28#a260410p28)
+ - [Blackstone files for an IPO of a new data center acquisition vehicle to buy already-built and leased properties, and, sources say, plans to raise ~$2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260410/p27#a260410p27)
+ - [A bunch of Ring security cameras are on sale! Come get them!](https://www.androidauthority.com/ring-indoor-outdoor-cam-plus-spotlight-cam-plus-floodlight-cam-deals-3656675/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
