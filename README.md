@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tap to Share is coming to Android: Here is our best look yet at the new interface](https://www.androidauthority.com/android-tap-to-share-ui-apk-teardown-3656467/)
- - [Google Wallet’s big redesign starts rolling out and your favorites just got easier to reach](https://www.androidauthority.com/google-wallet-redesign-update-starred-favorites-3656461/)
- - [ChatGPT just got a 50% cheaper Pro plan to take on Anthropic’s Claude](https://www.androidauthority.com/chatgpt-100-dollar-pro-plan-3656464/)<!-- TECH:END -->
+ - [Microsoft starts removing Copilot buttons from Windows 11 apps](https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons)
+ - [YouTube Premium prices just quietly went up in the US](https://www.androidauthority.com/youtube-premium-us-price-increase-3656505/)
+ - [TSMC reports Q1 revenue up 35% YoY to ~$35.6B, above est., suggesting global chip demand remained intact during the first weeks of the war in the Middle East &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/260410/p3#a260410p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
