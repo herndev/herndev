@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nubia defends the ethics of REDMAGIC 11 PRO benchmark manipulation](https://www.androidauthority.com/redmagic-benchmark-scandal-3656600/)
- - [Folding iPhone unveiling &amp; shipment date rumors are all over the place](https://appleinsider.com/articles/26/04/10/folding-iphone-unveiling-shipment-date-rumors-are-all-over-the-place?utm_source=rss)
- - [Little Snitch&amp;#8217;s software counter surveillance jumps from Mac to Linux](https://www.theverge.com/tech/909975/little-snitch-linux-launch)<!-- TECH:END -->
+ - [The Future of the Artemis Program Is Riding on Reentry](https://www.wired.com/story/the-future-of-the-artemis-program-is-riding-on-reentry/)
+ - [Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool](https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool)
+ - [Trump hails Palantir&#39;s &quot;great war fighting capabilities&quot;, days after short seller Michael Burry said the company will lose to AI startups; PLTR is down ~25% YTD &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/260410/p19#a260410p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
