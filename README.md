@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jury deliberations began Friday in the Live Nation antitrust trial, after state attorneys general continued to pursue the case even as the US DOJ settled &lpar;Ben Sisario/New York Times&rpar;](http://www.techmeme.com/260410/p15#a260410p15)
- - [14-inch MacBook Pro M5 vs Asus Zenbook A16: $2,000 shootout](https://appleinsider.com/inside/14-inch-macbook-pro/vs/14-inch-macbook-pro-m5-vs-asus-zenbook-a16-2000-shootout?utm_source=rss)
- - [Waymo and Waze launch a pilot program to send pothole data collected by robotaxi sensors to the Waze for Cities platform and Waze app, starting in five markets &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260410/p14#a260410p14)<!-- TECH:END -->
+ - [This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts](https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/)
+ - [France says it plans to move government computers running Windows to Linux, to further reduce its reliance on US technology, without providing a timeline &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/260410/p16#a260410p16)
+ - [Congress can finally close a mass surveillance loophole — but will they?](https://www.theverge.com/policy/909229/fisa-702-reauthorization-davidson-wyden-warrant-reforms)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
