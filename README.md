@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why are you geh?](http://9gag.com/gag/aQzW4Nr)
+ - 💣 [Useless skills are fun sometimes](http://9gag.com/gag/ayNjdEr)
  - ⏩ [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
- - 👉 [Matt Damon&#39;s real-life rom-com](http://9gag.com/gag/aZZOpwn)<!-- MEMES:END -->
+ - 👉 [Wait what .....](http://9gag.com/gag/aNDEnK4)<!-- MEMES:END -->
 
 ---
 
