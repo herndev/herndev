@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - ⏩ [How cotton is picked](http://9gag.com/gag/aGy4wD7)
- - 👉 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)<!-- MEMES:END -->
+ - 💣 [Why are you geh?](http://9gag.com/gag/aQzW4Nr)
+ - ⏩ [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
+ - 👉 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)<!-- MEMES:END -->
 
 ---
 
