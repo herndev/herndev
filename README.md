@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap announces a partnership between Specs, its AR glasses-focused subsidiary, and Qualcomm, whose Snapdragon XR platform will power Specs&#39; upcoming AI glasses &lpar;TechCrunch&rpar;](http://www.techmeme.com/260410/p12#a260410p12)
- - [First look: Galaxy Z Flip 8 renders show off Samsung’s next flip phone](https://www.androidauthority.com/samsung-galaxy-z-flip-8-renders-leak-3656575/)
- - [Interior design at 25,000 mph](https://www.theverge.com/design/909710/artemis-ii-orion-capsule-interior-design)<!-- TECH:END -->
+ - [There’s a good reason these ‘new’ Retroid Pocket 5 handheld colors look very familiar](https://www.androidauthority.com/retroid-pocket-5-turquoise-yellow-color-3656552/)
+ - [The next generation of Android Ultra flagships might not see the light of day](https://www.androidauthority.com/android-ultra-flagship-ram-crisis-3656565/)
+ - [Documents: Amazon is working on &quot;Project Houdini&quot;, which aims to cut the time it takes to construct data centers by preassembling core server rooms into modules &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/260410/p13#a260410p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
