@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My childhood in a nutshell](http://9gag.com/gag/ayNj8dr)
- - ⏩ [VLC cone spotted in space, mission accomplished](http://9gag.com/gag/aVvyXVw)
- - 👉 [Who is the best portrayal of Robin Hood?](http://9gag.com/gag/aO8Lm6M)<!-- MEMES:END -->
+ - 💣 [Iryna Zarutska&#39;s killer, Decarlos Brown Jr., found incompetent to stand trial. The deflection of responsibility continues.](http://9gag.com/gag/axyqG7D)
+ - ⏩ [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
+ - 👉 [This bottle was made from recycled nokias](http://9gag.com/gag/aqyo5VM)<!-- MEMES:END -->
 
 ---
 
