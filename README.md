@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s a good reason these ‘new’ Retroid Pocket 5 handheld colors look very familiar](https://www.androidauthority.com/retroid-pocket-5-turquoise-yellow-color-3656552/)
- - [The next generation of Android Ultra flagships might not see the light of day](https://www.androidauthority.com/android-ultra-flagship-ram-crisis-3656565/)
- - [Documents: Amazon is working on &quot;Project Houdini&quot;, which aims to cut the time it takes to construct data centers by preassembling core server rooms into modules &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/260410/p13#a260410p13)<!-- TECH:END -->
+ - [Jury deliberations began Friday in the Live Nation antitrust trial, after state attorneys general continued to pursue the case even as the US DOJ settled &lpar;Ben Sisario/New York Times&rpar;](http://www.techmeme.com/260410/p15#a260410p15)
+ - [14-inch MacBook Pro M5 vs Asus Zenbook A16: $2,000 shootout](https://appleinsider.com/inside/14-inch-macbook-pro/vs/14-inch-macbook-pro-m5-vs-asus-zenbook-a16-2000-shootout?utm_source=rss)
+ - [Waymo and Waze launch a pilot program to send pothole data collected by robotaxi sensors to the Waze for Cities platform and Waze app, starting in five markets &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/260410/p14#a260410p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
