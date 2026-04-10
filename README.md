@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic is weighing the possibility of designing its own chips, but it has yet to commit to a design or put together a dedicated team for the project &lpar;Reuters&rpar;](http://www.techmeme.com/260409/p41#a260409p41)
- - [How Black Forest Labs, a 70-person startup based in Germany, became a top competitor in AI image generation; sources: it recently declined to partner with xAI &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260409/p40#a260409p40)
- - [ChatGPT has a new $100 per month Pro subscription](https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new)<!-- TECH:END -->
+ - [Sources: US Treasury Secretary Scott Bessent and Fed Chair Jerome Powell warned bank CEOs about Anthropic&#39;s Mythos model&#39;s risks at an urgent meeting Tuesday &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p44#a260409p44)
+ - [Alibaba led a ~$293M funding round for ShengShu, just two months after the creator of the Vidu AI video generator raised ~$88M &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p43#a260409p43)
+ - [Sources: SpaceX lost just under $5B last year while generating more than $18.5B in revenue; the loss figure includes xAI &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/260409/p42#a260409p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
