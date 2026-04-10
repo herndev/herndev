@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to keep an older iPad safe, reliable &amp; useful over time](https://appleinsider.com/inside/ipad/tips/how-to-keep-an-older-ipad-safe-reliable-useful-over-time?utm_source=rss)
- - [Best Smart Shades, Blinds, and Curtains &lpar;2026&rpar;: Motorized, Tailor-Made, and More](https://www.wired.com/gallery/best-smart-shades-blinds-curtains/)
- - [The Indie News Queen Who’s Not Done Pissing Off the Powerful](https://www.wired.com/story/the-indie-news-queen-whos-not-done-pissing-off-the-powerful/)<!-- TECH:END -->
+ - [Snap is sticking with Qualcomm for its next AR glasses](https://www.theverge.com/tech/909608/snap-specs-qualcomm-snapdragon-ar-glasses)
+ - [YouTube raises Premium prices in the US, with individual plans up $2 to $15.99 per month, family plan up $4 to $26.99, and Premium Lite up $1 to $8.99 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/260410/p10#a260410p10)
+ - [Google News is showing Polymarket bets alongside news articles in the &quot;For you&quot; section; in tests, Polymarket bets also appeared on the Google News homepage &lpar;Frank Landymore/Futurism&rpar;](http://www.techmeme.com/260410/p9#a260410p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
