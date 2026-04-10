@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sorry, Verizon customers: You’ll be paying more for YouTube Premium, too](https://www.androidauthority.com/verizon-youtube-premium-perk-price-hike-3656726/)
- - [How to watch the Artemis II astronauts return from their record-setting lunar fly-by](https://www.androidauthority.com/artemis-ii-watch-3656700/)
- - [Analysis: Trump&#39;s World Liberty Financial used 5B of its WLFI tokens to borrow $75M from a platform its adviser co-founded; WLFI falls to an all-time low &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/260410/p22#a260410p22)<!-- TECH:END -->
+ - [Save $50 on the Ring Battery Doorbell Plus today](https://www.androidauthority.com/deal-ring-battery-doorbell-plus-3656772/)
+ - [Sources: Goldman Sachs, Citigroup, and other banks are testing Anthropic&#39;s Mythos model internally; JPMorgan Chase is the only bank named in Project Glasswing &lpar;Bloomberg&rpar;](http://www.techmeme.com/260410/p24#a260410p24)
+ - [Check out this Google TV launcher that takes the best parts of Apple TV](https://www.androidauthority.com/google-tv-arc-launcher-3656748/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
