@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts](https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/)
- - [France says it plans to move government computers running Windows to Linux, to further reduce its reliance on US technology, without providing a timeline &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/260410/p16#a260410p16)
- - [Congress can finally close a mass surveillance loophole — but will they?](https://www.theverge.com/policy/909229/fisa-702-reauthorization-davidson-wyden-warrant-reforms)<!-- TECH:END -->
+ - [Nubia defends the ethics of REDMAGIC 11 PRO benchmark manipulation](https://www.androidauthority.com/redmagic-benchmark-scandal-3656600/)
+ - [Folding iPhone unveiling &amp; shipment date rumors are all over the place](https://appleinsider.com/articles/26/04/10/folding-iphone-unveiling-shipment-date-rumors-are-all-over-the-place?utm_source=rss)
+ - [Little Snitch&amp;#8217;s software counter surveillance jumps from Mac to Linux](https://www.theverge.com/tech/909975/little-snitch-linux-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
