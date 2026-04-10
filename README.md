@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $50 on the Ring Battery Doorbell Plus today](https://www.androidauthority.com/deal-ring-battery-doorbell-plus-3656772/)
- - [Sources: Goldman Sachs, Citigroup, and other banks are testing Anthropic&#39;s Mythos model internally; JPMorgan Chase is the only bank named in Project Glasswing &lpar;Bloomberg&rpar;](http://www.techmeme.com/260410/p24#a260410p24)
- - [Check out this Google TV launcher that takes the best parts of Apple TV](https://www.androidauthority.com/google-tv-arc-launcher-3656748/)<!-- TECH:END -->
+ - [A bunch of Ring security cameras are on sale! Come get them!](https://www.androidauthority.com/ring-indoor-outdoor-cam-plus-spotlight-cam-plus-floodlight-cam-deals-3656675/)
+ - [Sources: Cisco is in talks to acquire Tel Aviv-based Astrix Security, which sells software to monitor and secure AI agents, for between $250M and $350M &lpar;The Information&rpar;](http://www.techmeme.com/260410/p26#a260410p26)
+ - [Tesla says Dutch regulators approved the use of its full self-driving software, marking the first regulatory sign-off for the feature in Europe &lpar;Reuters&rpar;](http://www.techmeme.com/260410/p25#a260410p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
