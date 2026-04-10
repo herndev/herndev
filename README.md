@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Software release Friday](http://9gag.com/gag/aXP69XP)
- - ⏩ [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)
- - 👉 [Day 13 Wallpaper 1](http://9gag.com/gag/aXP69Lb)<!-- MEMES:END -->
+ - 💣 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
+ - ⏩ [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
+ - 👉 [Lorax](http://9gag.com/gag/an7PBzL)<!-- MEMES:END -->
 
 ---
 
