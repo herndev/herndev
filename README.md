@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Future of the Artemis Program Is Riding on Reentry](https://www.wired.com/story/the-future-of-the-artemis-program-is-riding-on-reentry/)
- - [Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool](https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool)
- - [Trump hails Palantir&#39;s &quot;great war fighting capabilities&quot;, days after short seller Michael Burry said the company will lose to AI startups; PLTR is down ~25% YTD &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/260410/p19#a260410p19)<!-- TECH:END -->
+ - [Samsung’s Ocean Mode is now washing up on the Galaxy Z Fold 7](https://www.androidauthority.com/galaxy-z-fold-7-ocean-mode-3656697/)
+ - [Source: federal prosecutors have subpoenaed Reddit to appear before a grand jury, to provide personal data on an anonymous user who criticized ICE &lpar;Ryan Devereaux/The Intercept&rpar;](http://www.techmeme.com/260410/p21#a260410p21)
+ - [Game development diary: TestFlight, trial by fire, and a trophy](https://appleinsider.com/articles/26/04/10/game-development-diary-testflight-trial-by-fire-and-a-trophy?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
