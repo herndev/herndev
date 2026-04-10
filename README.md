@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
- - ⏩ [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
- - 👉 [Lorax](http://9gag.com/gag/an7PBzL)<!-- MEMES:END -->
+ - 💣 [My childhood in a nutshell](http://9gag.com/gag/ayNj8dr)
+ - ⏩ [VLC cone spotted in space, mission accomplished](http://9gag.com/gag/aVvyXVw)
+ - 👉 [Who is the best portrayal of Robin Hood?](http://9gag.com/gag/aO8Lm6M)<!-- MEMES:END -->
 
 ---
 
