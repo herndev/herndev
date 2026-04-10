@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Ocean Mode is now washing up on the Galaxy Z Fold 7](https://www.androidauthority.com/galaxy-z-fold-7-ocean-mode-3656697/)
- - [Source: federal prosecutors have subpoenaed Reddit to appear before a grand jury, to provide personal data on an anonymous user who criticized ICE &lpar;Ryan Devereaux/The Intercept&rpar;](http://www.techmeme.com/260410/p21#a260410p21)
- - [Game development diary: TestFlight, trial by fire, and a trophy](https://appleinsider.com/articles/26/04/10/game-development-diary-testflight-trial-by-fire-and-a-trophy?utm_source=rss)<!-- TECH:END -->
+ - [Sorry, Verizon customers: You’ll be paying more for YouTube Premium, too](https://www.androidauthority.com/verizon-youtube-premium-perk-price-hike-3656726/)
+ - [How to watch the Artemis II astronauts return from their record-setting lunar fly-by](https://www.androidauthority.com/artemis-ii-watch-3656700/)
+ - [Analysis: Trump&#39;s World Liberty Financial used 5B of its WLFI tokens to borrow $75M from a platform its adviser co-founded; WLFI falls to an all-time low &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/260410/p22#a260410p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
