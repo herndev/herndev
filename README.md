@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oddly romantic things are the best things](http://9gag.com/gag/aKGo36j)
- - ⏩ [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
- - 👉 [No comments...](http://9gag.com/gag/aXP6wNz)<!-- MEMES:END -->
+ - 💣 [`Dude if you die there&#39;s no one to feed me, you&#39;re gonna get through this`](http://9gag.com/gag/aRBqAOj)
+ - ⏩ [Friday Bobr](http://9gag.com/gag/a5Q0r1r)
+ - 👉 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)<!-- MEMES:END -->
 
 ---
 
