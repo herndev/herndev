@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AfterQuery, which sells coding and finance training data to AI labs, says it raised a $30M Series A at a $300M valuation, and has hit a $100M+ annual run rate &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/260409/p47#a260409p47)
- - [Samsung’s next foldables could take a Galaxy S26-exclusive feature global](https://www.androidauthority.com/samsung-galaxy-z-fold-8-flip-8-wide-fold-scam-detection-availability-3656455/)
- - [Luminai, an AI-native platform for automating administrative healthcare workflows, raised a $38M Series B led by Peak XV, bringing its total funding to $60M &lpar;Seth Joseph/Forbes&rpar;](http://www.techmeme.com/260409/p46#a260409p46)<!-- TECH:END -->
+ - [Surfshark Promo Codes: 87% Off | April 2026](https://www.wired.com/story/surfshark-coupon/)
+ - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)
+ - [20% Off Sephora Promo Code | April 2026](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
