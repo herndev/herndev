@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cult Hit Doki Doki Literature Club Fights Removal From Google Play Store Over ‘Depiction Of Sensitive Themes’](https://kotaku.com/doki-doki-literature-club-google-play-store-android-censorship-2000686431)
- - [15 Games You Should Be Paying Attention To From The Latest Big Indie Showcase](https://kotaku.com/graveyard-keeper-2-dont-starve-risk-rain-dlc-iii-initiative-showcase-2000686366)
- - [Gunzilla CEO Denies Claims Of Not Paying Staff, Rants About ‘Haters,’ And Brags About Crunch](https://kotaku.com/gunzilla-ceo-denies-claims-of-not-paying-staff-haters-twitter-rant-crunch-2000686412)<!-- GAME:END -->
+ - [The ill-advised business software that helped sink videogame pioneers Infocom now runs on modern PCs: &#39;It&#39;s a new age for aficionados of failed 1985 database products!&#39;](https://www.pcgamer.com/gaming-industry/the-ill-advised-business-software-that-helped-sink-videogame-pioneers-infocom-now-runs-on-modern-pcs-its-a-new-age-for-aficionados-of-failed-1985-database-products/)
+ - [Nexon confirms reorganizaton at The First Berserker: Khazan developer but says it&#39;s merely &#39;a strategic reallocation of talent&#39; as development winds down](https://www.pcgamer.com/games/rpg/nexon-confirms-reorganizaton-at-the-first-berserker-khazan-developer-but-says-its-merely-a-strategic-reallocation-of-talent-as-development-winds-down/)
+ - [Darkstone, a classic 1999 action RPG about eating apples and trying not to die of old age, is being remastered by its original creator](https://www.pcgamer.com/games/rpg/darkstone-a-classic-1999-action-rpg-about-eating-apples-and-trying-not-to-die-of-old-age-is-being-remastered-by-its-original-creator/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
