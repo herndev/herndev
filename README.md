@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix&#39;s new shark thriller Thrash is more fun than scary](https://www.polygon.com/thrash-review-netflix-shark-thriller/)
- - [The James Bond rights owners have opposed an application for a James Pond trademark](https://www.pcgamer.com/gaming-industry/the-james-bond-rights-owners-have-opposed-an-application-for-a-james-pond-trademark/)
- - [The ill-advised business software that helped sink videogame pioneers Infocom now runs on modern PCs: &#39;It&#39;s a new age for aficionados of failed 1985 database products!&#39;](https://www.pcgamer.com/gaming-industry/the-ill-advised-business-software-that-helped-sink-videogame-pioneers-infocom-now-runs-on-modern-pcs-its-a-new-age-for-aficionados-of-failed-1985-database-products/)<!-- GAME:END -->
+ - [Marathon&#39;s live-service experience began years before the game even launched](https://www.polygon.com/marathon-args-bungie-interview/)
+ - [&#39;It stayed exactly the same&#39;: Jeff Kaplan takes us back to 2016 by confirming that Blizzard did not change the size of Tracer&#39;s butt](https://www.pcgamer.com/games/fps/it-stayed-exactly-the-same-jeff-kaplan-takes-us-back-to-2016-by-confirming-that-blizzard-did-not-change-the-size-of-tracers-butt/)
+ - [Microsoft is removing Copilot branding from Photos, Notepad, and more after promising to reduce &#39;unnecessary Copilot entry points&#39;](https://www.pcgamer.com/software/operating-systems/microsoft-is-removing-copilot-branding-from-photos-notepad-and-more-after-promising-to-reduce-unnecessary-copilot-entry-points/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
