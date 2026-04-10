@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HSBC and Standard Chartered obtain the first stablecoin licenses in Hong Kong, beating 34 other applicants; they are expected to issue stablecoins in H2 2026 &lpar;Kiuyan Wong/Bloomberg&rpar;](http://www.techmeme.com/260410/p5#a260410p5)
- - [Irrigreen Smart Irrigation System 3.0 &lpar;2026&rpar; Review: Smart Watering, Less Hassle](https://www.wired.com/review/irrigreen-smart-irrigation-system-3-2026/)
- - [Here are some of the most ridiculous tech ‘problems’ I’ve ever been asked to fix](https://www.androidauthority.com/silly-tech-problems-ive-fixed-3655154/)<!-- TECH:END -->
+ - [How to keep an older iPad safe, reliable &amp; useful over time](https://appleinsider.com/inside/ipad/tips/how-to-keep-an-older-ipad-safe-reliable-useful-over-time?utm_source=rss)
+ - [Best Smart Shades, Blinds, and Curtains &lpar;2026&rpar;: Motorized, Tailor-Made, and More](https://www.wired.com/gallery/best-smart-shades-blinds-curtains/)
+ - [The Indie News Queen Who’s Not Done Pissing Off the Powerful](https://www.wired.com/story/the-indie-news-queen-whos-not-done-pissing-off-the-powerful/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
