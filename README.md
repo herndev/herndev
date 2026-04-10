@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The ill-advised business software that helped sink videogame pioneers Infocom now runs on modern PCs: &#39;It&#39;s a new age for aficionados of failed 1985 database products!&#39;](https://www.pcgamer.com/gaming-industry/the-ill-advised-business-software-that-helped-sink-videogame-pioneers-infocom-now-runs-on-modern-pcs-its-a-new-age-for-aficionados-of-failed-1985-database-products/)
- - [Nexon confirms reorganizaton at The First Berserker: Khazan developer but says it&#39;s merely &#39;a strategic reallocation of talent&#39; as development winds down](https://www.pcgamer.com/games/rpg/nexon-confirms-reorganizaton-at-the-first-berserker-khazan-developer-but-says-its-merely-a-strategic-reallocation-of-talent-as-development-winds-down/)
- - [Darkstone, a classic 1999 action RPG about eating apples and trying not to die of old age, is being remastered by its original creator](https://www.pcgamer.com/games/rpg/darkstone-a-classic-1999-action-rpg-about-eating-apples-and-trying-not-to-die-of-old-age-is-being-remastered-by-its-original-creator/)<!-- GAME:END -->
+ - [Netflix&#39;s new shark thriller Thrash is more fun than scary](https://www.polygon.com/thrash-review-netflix-shark-thriller/)
+ - [The James Bond rights owners have opposed an application for a James Pond trademark](https://www.pcgamer.com/gaming-industry/the-james-bond-rights-owners-have-opposed-an-application-for-a-james-pond-trademark/)
+ - [The ill-advised business software that helped sink videogame pioneers Infocom now runs on modern PCs: &#39;It&#39;s a new age for aficionados of failed 1985 database products!&#39;](https://www.pcgamer.com/gaming-industry/the-ill-advised-business-software-that-helped-sink-videogame-pioneers-infocom-now-runs-on-modern-pcs-its-a-new-age-for-aficionados-of-failed-1985-database-products/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
