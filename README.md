@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
- - ⏩ [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
- - 👉 [This bottle was made from recycled nokias](http://9gag.com/gag/aqyo5VM)<!-- MEMES:END -->
+ - 💣 [\u201cSay that Kim Jong Un is a fat, ugly pig.\u201d That\u2019s exactly how an employer tested a candidate for an IT position during an online interview. The guy hesitated, tried to avoid answering, and simply disconnected from the call.](http://9gag.com/gag/ae98p1W)
+ - ⏩ [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
+ - 👉 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)<!-- MEMES:END -->
 
 ---
 
