@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap is sticking with Qualcomm for its next AR glasses](https://www.theverge.com/tech/909608/snap-specs-qualcomm-snapdragon-ar-glasses)
- - [YouTube raises Premium prices in the US, with individual plans up $2 to $15.99 per month, family plan up $4 to $26.99, and Premium Lite up $1 to $8.99 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/260410/p10#a260410p10)
- - [Google News is showing Polymarket bets alongside news articles in the &quot;For you&quot; section; in tests, Polymarket bets also appeared on the Google News homepage &lpar;Frank Landymore/Futurism&rpar;](http://www.techmeme.com/260410/p9#a260410p9)<!-- TECH:END -->
+ - [Snap announces a partnership between Specs, its AR glasses-focused subsidiary, and Qualcomm, whose Snapdragon XR platform will power Specs&#39; upcoming AI glasses &lpar;TechCrunch&rpar;](http://www.techmeme.com/260410/p12#a260410p12)
+ - [First look: Galaxy Z Flip 8 renders show off Samsung’s next flip phone](https://www.androidauthority.com/samsung-galaxy-z-flip-8-renders-leak-3656575/)
+ - [Interior design at 25,000 mph](https://www.theverge.com/design/909710/artemis-ii-orion-capsule-interior-design)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
