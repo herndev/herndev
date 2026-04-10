@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft starts removing Copilot buttons from Windows 11 apps](https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons)
- - [YouTube Premium prices just quietly went up in the US](https://www.androidauthority.com/youtube-premium-us-price-increase-3656505/)
- - [TSMC reports Q1 revenue up 35% YoY to ~$35.6B, above est., suggesting global chip demand remained intact during the first weeks of the war in the Middle East &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/260410/p3#a260410p3)<!-- TECH:END -->
+ - [HSBC and Standard Chartered obtain the first stablecoin licenses in Hong Kong, beating 34 other applicants; they are expected to issue stablecoins in H2 2026 &lpar;Kiuyan Wong/Bloomberg&rpar;](http://www.techmeme.com/260410/p5#a260410p5)
+ - [Irrigreen Smart Irrigation System 3.0 &lpar;2026&rpar; Review: Smart Watering, Less Hassle](https://www.wired.com/review/irrigreen-smart-irrigation-system-3-2026/)
+ - [Here are some of the most ridiculous tech ‘problems’ I’ve ever been asked to fix](https://www.androidauthority.com/silly-tech-problems-ive-fixed-3655154/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
