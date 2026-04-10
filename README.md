@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still can&#39;t believe it. Wish me luck guys!](http://9gag.com/gag/awyWbEW)
- - ⏩ [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)
- - 👉 [Software release Friday](http://9gag.com/gag/aXP69XP)<!-- MEMES:END -->
+ - 💣 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
+ - ⏩ [How cotton is picked](http://9gag.com/gag/aGy4wD7)
+ - 👉 [I used to be this dipshit](http://9gag.com/gag/ary7RBB)<!-- MEMES:END -->
 
 ---
 
