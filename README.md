@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AfterQuery, which sells coding and finance training data to AI labs, says it raised a $30M Series A at a $300M valuation, and has hit a $100M+ annual run rate &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/260409/p47#a260409p47)
  - [Samsung’s next foldables could take a Galaxy S26-exclusive feature global](https://www.androidauthority.com/samsung-galaxy-z-fold-8-flip-8-wide-fold-scam-detection-availability-3656455/)
- - [Luminai, an AI-native platform for automating administrative healthcare workflows, raised a $38M Series B led by Peak XV, bringing its total funding to $60M &lpar;Seth Joseph/Forbes&rpar;](http://www.techmeme.com/260409/p46#a260409p46)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, April 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-april-10/)<!-- TECH:END -->
+ - [Luminai, an AI-native platform for automating administrative healthcare workflows, raised a $38M Series B led by Peak XV, bringing its total funding to $60M &lpar;Seth Joseph/Forbes&rpar;](http://www.techmeme.com/260409/p46#a260409p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
