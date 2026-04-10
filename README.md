@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why are you geh?](http://9gag.com/gag/aQzW4Nr)
- - ⏩ [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)
- - 👉 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)<!-- MEMES:END -->
+ - 💣 [Software release Friday](http://9gag.com/gag/aXP69XP)
+ - ⏩ [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)
+ - 👉 [Day 13 Wallpaper 1](http://9gag.com/gag/aXP69Lb)<!-- MEMES:END -->
 
 ---
 
