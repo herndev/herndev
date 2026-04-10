@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iryna Zarutska&#39;s killer, Decarlos Brown Jr., found incompetent to stand trial. The deflection of responsibility continues.](http://9gag.com/gag/axyqG7D)
- - ⏩ [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
+ - 💣 [If you happy and you know it stomp your feet](http://9gag.com/gag/aYQXwMO)
+ - ⏩ [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
  - 👉 [This bottle was made from recycled nokias](http://9gag.com/gag/aqyo5VM)<!-- MEMES:END -->
 
 ---
