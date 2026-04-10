@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marathon&#39;s live-service experience began years before the game even launched](https://www.polygon.com/marathon-args-bungie-interview/)
- - [&#39;It stayed exactly the same&#39;: Jeff Kaplan takes us back to 2016 by confirming that Blizzard did not change the size of Tracer&#39;s butt](https://www.pcgamer.com/games/fps/it-stayed-exactly-the-same-jeff-kaplan-takes-us-back-to-2016-by-confirming-that-blizzard-did-not-change-the-size-of-tracers-butt/)
- - [Microsoft is removing Copilot branding from Photos, Notepad, and more after promising to reduce &#39;unnecessary Copilot entry points&#39;](https://www.pcgamer.com/software/operating-systems/microsoft-is-removing-copilot-branding-from-photos-notepad-and-more-after-promising-to-reduce-unnecessary-copilot-entry-points/)<!-- GAME:END -->
+ - [Amazon’s Game Streaming Service Removing Access To Purchased Games And Offering No Refunds](https://kotaku.com/amazons-luna-service-removing-access-to-purchased-games-and-is-offering-no-refunds-2000686688)
+ - [Mozilla says &#39;Microsoft goes too far&#39; with Copilot, right before reassuring that you can turn off Firefox&#39;s &#39;AI enhancements&#39;](https://www.pcgamer.com/software/browsers/mozilla-says-microsoft-goes-too-far-with-copilot-right-before-reassuring-that-you-can-turn-off-firefoxs-ai-enhancements/)
+ - [Lord of the Rings didn&#39;t happen without the underrated Excalibur](https://www.polygon.com/excalibur-john-boorman-45-year-anniversary/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
