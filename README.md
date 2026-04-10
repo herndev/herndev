@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This rib membrane removal trick is a game changer](http://9gag.com/gag/ayNjpbY)
- - ⏩ [How cotton is picked](http://9gag.com/gag/aGy4wD7)
- - 👉 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)<!-- MEMES:END -->
+ - 💣 [Still can&#39;t believe it. Wish me luck guys!](http://9gag.com/gag/awyWbEW)
+ - ⏩ [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)
+ - 👉 [Software release Friday](http://9gag.com/gag/aXP69XP)<!-- MEMES:END -->
 
 ---
 
