@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lorax](http://9gag.com/gag/an7PBzL)
- - ⏩ [Gluteus Maximus](http://9gag.com/gag/aKGoqg1)
- - 👉 [This rib membrane removal trick is a game changer](http://9gag.com/gag/ayNjpbY)<!-- MEMES:END -->
+ - 💣 [This rib membrane removal trick is a game changer](http://9gag.com/gag/ayNjpbY)
+ - ⏩ [How cotton is picked](http://9gag.com/gag/aGy4wD7)
+ - 👉 [Mama lion to the rescue, what a good mom](http://9gag.com/gag/a6ZYyZq)<!-- MEMES:END -->
 
 ---
 
