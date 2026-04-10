@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Useless skills are fun sometimes](http://9gag.com/gag/ayNjdEr)
- - ⏩ [I used to be this dipshit](http://9gag.com/gag/ary7RBB)
- - 👉 [Wait what .....](http://9gag.com/gag/aNDEnK4)<!-- MEMES:END -->
+ - 💣 [No comments...](http://9gag.com/gag/aXP6wNz)
+ - ⏩ [This bottle was made from recycled nokias](http://9gag.com/gag/aqyo5VM)
+ - 👉 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)<!-- MEMES:END -->
 
 ---
 
