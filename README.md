@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what is wrong with this world](http://9gag.com/gag/a1m3Y3R)
- - ⏩ [No comments...](http://9gag.com/gag/aXP6wNz)
- - 👉 [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)<!-- MEMES:END -->
+ - 💣 [Sounds like a joke but it&#39;s more true than false](http://9gag.com/gag/avyKLGZ)
+ - ⏩ [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)
+ - 👉 [No comments...](http://9gag.com/gag/aXP6wNz)<!-- MEMES:END -->
 
 ---
 
