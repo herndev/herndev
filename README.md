@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Anthropic is weighing the possibility of designing its own chips, but it has yet to commit to a design or put together a dedicated team for the project &lpar;Reuters&rpar;](http://www.techmeme.com/260409/p41#a260409p41)
  - [How Black Forest Labs, a 70-person startup based in Germany, became a top competitor in AI image generation; sources: it recently declined to partner with xAI &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/260409/p40#a260409p40)
- - [ChatGPT has a new $100 per month Pro subscription](https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new)
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [ChatGPT has a new $100 per month Pro subscription](https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
