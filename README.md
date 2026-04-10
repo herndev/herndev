@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US Treasury Secretary Scott Bessent and Fed Chair Jerome Powell warned bank CEOs about Anthropic&#39;s Mythos model&#39;s risks at an urgent meeting Tuesday &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p44#a260409p44)
- - [Alibaba led a ~$293M funding round for ShengShu, just two months after the creator of the Vidu AI video generator raised ~$88M &lpar;Bloomberg&rpar;](http://www.techmeme.com/260409/p43#a260409p43)
- - [Sources: SpaceX lost just under $5B last year while generating more than $18.5B in revenue; the loss figure includes xAI &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/260409/p42#a260409p42)<!-- TECH:END -->
+ - [Samsung’s next foldables could take a Galaxy S26-exclusive feature global](https://www.androidauthority.com/samsung-galaxy-z-fold-8-flip-8-wide-fold-scam-detection-availability-3656455/)
+ - [Luminai, an AI-native platform for automating administrative healthcare workflows, raised a $38M Series B led by Peak XV, bringing its total funding to $60M &lpar;Seth Joseph/Forbes&rpar;](http://www.techmeme.com/260409/p46#a260409p46)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, April 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-april-10/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
