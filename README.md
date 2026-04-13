@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Mercedes EQS returns with massive range and charging gains](https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027)
- - [This new Android app could be a lifesaver for sleepy commuters](https://www.androidauthority.com/sleeparrive-commuters-android-app-location-wear-os-3657137/)
- - [Roblox says developers will need Roblox Plus, a new $4.99-per-month subscription offering benefits like discounts, to publish games for Kids and Select accounts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260413/p29#a260413p29)<!-- TECH:END -->
+ - [AI penetration testing company CodeWall says its agent was able to hack into one of Bain&#39;s internal AI tools, following a similar hack at McKinsey &lpar;Ellesheva Kissin/Financial Times&rpar;](http://www.techmeme.com/260413/p30#a260413p30)
+ - [Disappearing Macs? Global RAM Supply Crisis Likely Hits Apple](https://www.cnet.com/tech/computing/disappearing-macs-global-ram-crisis-likely-hits-apple/)
+ - [The Mercedes EQS returns with massive range and charging gains](https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
