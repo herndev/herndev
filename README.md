@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Luna is dropping support for game purchases and third-party game stores and subscriptions; previously purchased games will be accessible until June 10 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/260410/p28#a260410p28)
- - [Blackstone files for an IPO of a new data center acquisition vehicle to buy already-built and leased properties, and, sources say, plans to raise ~$2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260410/p27#a260410p27)
- - [A bunch of Ring security cameras are on sale! Come get them!](https://www.androidauthority.com/ring-indoor-outdoor-cam-plus-spotlight-cam-plus-floodlight-cam-deals-3656675/)<!-- TECH:END -->
+ - [Police report: Sam Altman&#39;s home appears to have been targeted in a second attack after a gun appeared to have been fired at his home from a car early Sunday &lpar;Jonah Owen Lamb/The San Francisco ...&rpar;](http://www.techmeme.com/260412/p10#a260412p10)
+ - [A look at the escalating global AI arms race, as the US, China, Russia, and others rush to build AI-backed autonomous weapons and defense systems &lpar;New York Times&rpar;](http://www.techmeme.com/260412/p9#a260412p9)
+ - [A deep dive into the debate about Claude Mythos Preview, the model&#39;s capabilities, attempts to refute Anthropic&#39;s claims, and what it means for the future of AI &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/260412/p8#a260412p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
