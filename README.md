@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
- - ⏩ [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)
- - 👉 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)<!-- MEMES:END -->
+ - 💣 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
+ - ⏩ [I hope that this summer some influencer model will finally make these shirts trendy](http://9gag.com/gag/a7oRMEz)
+ - 👉 [In case you ever wondered, this is what&#39;s left of Senegal&#39;s $6bn Wakanda project](http://9gag.com/gag/agmzYjx)<!-- MEMES:END -->
 
 ---
 
