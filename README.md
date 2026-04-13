@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
- - ⏩ [Kate Mara in shooter &lpar;2007&rpar;](http://9gag.com/gag/aO8LBG2)
- - 👉 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)<!-- MEMES:END -->
+ - 💣 [Manbun hero](http://9gag.com/gag/aKGojzQ)
+ - ⏩ [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
+ - 👉 [Kate Mara in shooter &lpar;2007&rpar;](http://9gag.com/gag/aO8LBG2)<!-- MEMES:END -->
 
 ---
 
