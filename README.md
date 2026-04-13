@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says it is &quot;exploring the potential of technologies like OpenClaw in an enterprise context&quot;, including a team of always-on agents within Microsoft 365 &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/260413/p17#a260413p17)
- - [Joyously arty App Store animations join Finder Guy in Apple&#39;s new social media push](https://appleinsider.com/articles/26/04/13/joyously-arty-app-store-animations-joins-finder-guy-in-apples-new-social-media-push?utm_source=rss)
- - [The Strait of Hormuz blockade is causing a slow-moving food crisis](https://www.theverge.com/science/910326/iran-strait-hormuz-fertilizer-feedstock-food-crisis)<!-- TECH:END -->
+ - [Samsung One UI 8.5 beta now arriving for these older Galaxy phones](https://www.androidauthority.com/samsung-one-ui-8-5-beta-expansion-2-3656950/)
+ - [You Should Be More Freaked Out by Shingles](https://www.wired.com/story/shingles-is-a-bigger-deal-than-you-think/)
+ - [SwitchBot’s button-pressing robot is now available with a rechargeable battery](https://www.theverge.com/tech/909765/switchbot-bot-rechargeable-smart-home-usb-c)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
