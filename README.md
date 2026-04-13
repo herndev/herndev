@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Threads](http://9gag.com/gag/an7Pj85)
- - ⏩ [I hope that this summer some influencer model will finally make these shirts trendy](http://9gag.com/gag/a7oRMEz)
- - 👉 [Manbun hero](http://9gag.com/gag/aKGojzQ)<!-- MEMES:END -->
+ - 💣 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
+ - ⏩ [Manbun hero](http://9gag.com/gag/aKGojzQ)
+ - 👉 [I hope that this summer some influencer model will finally make these shirts trendy](http://9gag.com/gag/a7oRMEz)<!-- MEMES:END -->
 
 ---
 
