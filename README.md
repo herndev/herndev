@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US&#39; AI chip export push risks being undermined by licensing bottlenecks, staff attrition, and unclear policy at the Bureau of Industry and Security &lpar;Maggie Eastland/Bloomberg&rpar;](http://www.techmeme.com/260412/p12#a260412p12)
- - [Anthropic debuts Claude for Word in beta, which adds AI editing tools and clickable citations, targeting document-heavy workflows, for Team and Enterprise users &lpar;Tristan Anthony/Business Insider&rpar;](http://www.techmeme.com/260412/p11#a260412p11)
- - [Police report: Sam Altman&#39;s home appears to have been targeted in a second attack after a gun appeared to have been fired at his home from a car early Sunday &lpar;Jonah Owen Lamb/The San Francisco ...&rpar;](http://www.techmeme.com/260412/p10#a260412p10)<!-- TECH:END -->
+ - [Shenzhen-listed server PCB maker Victory Giant plans an April 21 Hong Kong listing, aiming to raise as much as $2.2B; the company was valued at $37B on April 10 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260413/p1#a260413p1)
+ - [The foldable redesign we’ve been waiting to see from Samsung and Apple is already here](https://www.androidauthority.com/huawei-pura-x-max-wide-foldable-3656828/)
+ - [Sources: the US FTC is in settlement talks with ad companies to end an antitrust probe into their alleged coordinated boycotts against sites like Elon Musk&#39;s X &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/260412/p13#a260412p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
