@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung One UI 8.5 beta now arriving for these older Galaxy phones](https://www.androidauthority.com/samsung-one-ui-8-5-beta-expansion-2-3656950/)
- - [You Should Be More Freaked Out by Shingles](https://www.wired.com/story/shingles-is-a-bigger-deal-than-you-think/)
- - [SwitchBot’s button-pressing robot is now available with a rechargeable battery](https://www.theverge.com/tech/909765/switchbot-bot-rechargeable-smart-home-usb-c)<!-- TECH:END -->
+ - [iPhone Fold skips hinge problem, turns to material science to solve the crease](https://appleinsider.com/articles/26/04/13/iphone-fold-skips-hinge-problem-turns-to-material-science-to-solve-the-crease?utm_source=rss)
+ - [Aqara W200 review, HomeMapper app, &amp; heat pump talk with Mary-Ann Rau on Smart Home Insider](https://appleinsider.com/articles/26/04/13/aqara-w200-review-homemapper-app-heat-pump-talk-with-mary-ann-rau-on-smart-home-insider?utm_source=rss)
+ - [Pragmata is just OK, but it could’ve been great](https://www.theverge.com/games/910385/pragmata-review-ps5-xbox-switch-2-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
