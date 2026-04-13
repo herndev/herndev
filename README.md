@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
- - ⏩ [Manbun hero](http://9gag.com/gag/aKGojzQ)
- - 👉 [I hope that this summer some influencer model will finally make these shirts trendy](http://9gag.com/gag/a7oRMEz)<!-- MEMES:END -->
+ - 💣 [YouTuber jerryrigeverything started a wheelchair factory, delivering wheelchairs at 50% to 80% less than others with insurance.](http://9gag.com/gag/avyKOLW)
+ - ⏩ [I can finally rest](http://9gag.com/gag/a1m3o0v)
+ - 👉 [Men. The tolerant creatures that we are.](http://9gag.com/gag/a6ZYoyR)<!-- MEMES:END -->
 
 ---
 
