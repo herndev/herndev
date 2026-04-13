@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shenzhen-listed server PCB maker Victory Giant plans an April 21 Hong Kong listing, aiming to raise as much as $2.2B; the company was valued at $37B on April 10 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260413/p1#a260413p1)
- - [The foldable redesign we’ve been waiting to see from Samsung and Apple is already here](https://www.androidauthority.com/huawei-pura-x-max-wide-foldable-3656828/)
- - [Sources: the US FTC is in settlement talks with ad companies to end an antitrust probe into their alleged coordinated boycotts against sites like Elon Musk&#39;s X &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/260412/p13#a260412p13)<!-- TECH:END -->
+ - [Sources: SoftBank, Sony, Honda, and six other Japanese companies launch a new AI company to develop a 1T-parameter foundation model for &quot;physical AI&quot; by 2030 &lpar;Natsuki Yamamoto/Nikkei Asia&rpar;](http://www.techmeme.com/260413/p5#a260413p5)
+ - [Nothing Phone 4a Pro passes durability tests with flying colors, but there’s one issue](https://www.androidauthority.com/nothing-phone-4a-pro-durability-test-3656839/)
+ - [Sources: Meta is building photorealistic, AI-powered 3D characters; Zuckerberg helped train and test an AI version of himself that offers feedback to employees &lpar;Financial Times&rpar;](http://www.techmeme.com/260413/p4#a260413p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
