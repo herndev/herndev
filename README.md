@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Originality AI: 23 major news websites and Reddit block the Internet Archive&#39;s crawler; journalists and advocacy groups sign a letter supporting the Archive &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/260413/p14#a260413p14)
- - [Gardening season must-haves for 2026: The smart tools to make outdoor living effortless](https://www.androidauthority.com/gardening-season-2026-smart-tools-guide-3655657/)
- - [Seeing red: Another leaker jumps on the crimson iPhone 18 Pro bandwagon](https://appleinsider.com/articles/26/04/13/seeing-red-another-leaker-jumps-on-the-crimson-iphone-18-pro-bandwagon?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft says it is &quot;exploring the potential of technologies like OpenClaw in an enterprise context&quot;, including a team of always-on agents within Microsoft 365 &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/260413/p17#a260413p17)
+ - [Joyously arty App Store animations join Finder Guy in Apple&#39;s new social media push](https://appleinsider.com/articles/26/04/13/joyously-arty-app-store-animations-joins-finder-guy-in-apples-new-social-media-push?utm_source=rss)
+ - [The Strait of Hormuz blockade is causing a slow-moving food crisis](https://www.theverge.com/science/910326/iran-strait-hormuz-fertilizer-feedstock-food-crisis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
