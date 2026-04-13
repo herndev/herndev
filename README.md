@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Old iWork apps are now gone, Creator Studio iWork apps are still free](https://appleinsider.com/articles/26/04/13/old-iwork-apps-are-now-gone-creator-studio-iwork-apps-are-still-free?utm_source=rss)
- - [You can make a multicolor MacBook Neo out of Apple&amp;#8217;s spare parts](https://www.theverge.com/tech/911172/macbook-neo-apple-spare-parts-multicolor)
- - [Amazon launches $50 discount on iPad 11 for April](https://appleinsider.com/articles/26/04/13/amazon-launches-50-discount-on-ipad-11-for-april?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic says its $20M donation to Public First Action can&#39;t be &quot;used to influence federal elections&quot; and is to educate the public on AI policy &lpar;Veronica Irwin/Transformer&rpar;](http://www.techmeme.com/260413/p26#a260413p26)
+ - [Gemini on Android Auto hilariously misplaces driver in the middle of the ocean](https://www.androidauthority.com/gemini-android-auto-fail-3657002/)
+ - [Internal memo: Microsoft&#39;s gaming chief Asha Sharma says &quot;Game Pass has become too expensive for players&quot; and that Microsoft needs &quot;a better value equation&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260413/p25#a260413p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
