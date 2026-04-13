@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Police report: Sam Altman&#39;s home appears to have been targeted in a second attack after a gun appeared to have been fired at his home from a car early Sunday &lpar;Jonah Owen Lamb/The San Francisco ...&rpar;](http://www.techmeme.com/260412/p10#a260412p10)
- - [A look at the escalating global AI arms race, as the US, China, Russia, and others rush to build AI-backed autonomous weapons and defense systems &lpar;New York Times&rpar;](http://www.techmeme.com/260412/p9#a260412p9)
- - [A deep dive into the debate about Claude Mythos Preview, the model&#39;s capabilities, attempts to refute Anthropic&#39;s claims, and what it means for the future of AI &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/260412/p8#a260412p8)<!-- TECH:END -->
+ - [Sources: the US&#39; AI chip export push risks being undermined by licensing bottlenecks, staff attrition, and unclear policy at the Bureau of Industry and Security &lpar;Maggie Eastland/Bloomberg&rpar;](http://www.techmeme.com/260412/p12#a260412p12)
+ - [Anthropic debuts Claude for Word in beta, which adds AI editing tools and clickable citations, targeting document-heavy workflows, for Team and Enterprise users &lpar;Tristan Anthony/Business Insider&rpar;](http://www.techmeme.com/260412/p11#a260412p11)
+ - [Police report: Sam Altman&#39;s home appears to have been targeted in a second attack after a gun appeared to have been fired at his home from a car early Sunday &lpar;Jonah Owen Lamb/The San Francisco ...&rpar;](http://www.techmeme.com/260412/p10#a260412p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
