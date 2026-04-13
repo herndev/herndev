@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon’s Game Streaming Service Removing Access To Purchased Games And Offering No Refunds](https://kotaku.com/amazons-luna-service-removing-access-to-purchased-games-and-is-offering-no-refunds-2000686688)
- - [Mozilla says &#39;Microsoft goes too far&#39; with Copilot, right before reassuring that you can turn off Firefox&#39;s &#39;AI enhancements&#39;](https://www.pcgamer.com/software/browsers/mozilla-says-microsoft-goes-too-far-with-copilot-right-before-reassuring-that-you-can-turn-off-firefoxs-ai-enhancements/)
- - [Lord of the Rings didn&#39;t happen without the underrated Excalibur](https://www.polygon.com/excalibur-john-boorman-45-year-anniversary/)<!-- GAME:END -->
+ - [Make Skyrim&#39;s weather feel more impactful with this particle mod](https://www.pcgamer.com/games/the-elder-scrolls/make-skyrims-weather-feel-more-impactful-with-this-particle-mod/)
+ - [Check out the internet&#39;s best gaming videos from March—including one of the coolest custom gaming rigs we&#39;ve ever seen](https://www.pcgamer.com/games/check-out-the-internets-best-gaming-videos-from-march-including-one-of-the-coolest-custom-gaming-rigs-weve-ever-seen/)
+ - [Five new Steam games you probably missed &lpar;April 13, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-13-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
