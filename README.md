@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Manbun hero](http://9gag.com/gag/aKGojzQ)
- - ⏩ [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
- - 👉 [Kate Mara in shooter &lpar;2007&rpar;](http://9gag.com/gag/aO8LBG2)<!-- MEMES:END -->
+ - 💣 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
+ - ⏩ [Times are changing](http://9gag.com/gag/a34Xq2N)
+ - 👉 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)<!-- MEMES:END -->
 
 ---
 
