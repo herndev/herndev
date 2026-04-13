@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman reportedly targeted in second attack](https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting)
- - [Google is putting Meet in your Android Auto dashboard just days after CarPlay](https://www.androidauthority.com/google-meet-android-auto-rollout-3656873/)
- - [Google’s building a better way for Android to protect more of you from scam calls](https://www.androidauthority.com/android-verified-caller-3656752/)<!-- TECH:END -->
+ - [Rockstar confirms &quot;a limited amount of non-material company information was accessed in connection with a third-party data breach&quot;; ShinyHunters demand a ransom &lpar;Zack Zwiezen/Kotaku&rpar;](http://www.techmeme.com/260413/p12#a260413p12)
+ - [A verified @elonmusk TikTok account posted its first video, promoting SpaceX and Tesla and hitting 2M+ views; a verified Instagram account is yet to post &lpar;Ryan Mac/New York Times&rpar;](http://www.techmeme.com/260413/p11#a260413p11)
+ - [One of the best Android settings is hidden away, and I hate having to enable it on every phone](https://www.androidauthority.com/best-android-settings-hidden-away-notifications-3655448/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
