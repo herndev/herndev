@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nah\u2026](http://9gag.com/gag/an7PbgL)
- - ⏩ [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
- - 👉 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)<!-- MEMES:END -->
+ - 💣 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
+ - ⏩ [Sorry for bad quality](http://9gag.com/gag/an7Pj7V)
+ - 👉 [Men. The tolerant creatures that we are.](http://9gag.com/gag/a6ZYoyR)<!-- MEMES:END -->
 
 ---
 
