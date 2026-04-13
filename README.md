@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
- - ⏩ [Fight club rule number 1 You do not talk about Fight Club](http://9gag.com/gag/apRZrDM)
- - 👉 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)<!-- MEMES:END -->
+ - 💣 [Hayley](http://9gag.com/gag/ary7bdK)
+ - ⏩ [If you plan on committing tons of traffic violations, I have news for you](http://9gag.com/gag/apRZpOD)
+ - 👉 [Sorry for bad quality](http://9gag.com/gag/an7Pj7V)<!-- MEMES:END -->
 
 ---
 
