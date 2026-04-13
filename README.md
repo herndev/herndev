@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [MOCK THEM TILL THEY CRY. Then make memes of them crying.](http://9gag.com/gag/a4POG9p)
- - ⏩ [Konnichiwa.](http://9gag.com/gag/a1m3KpY)
- - 👉 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)<!-- MEMES:END -->
+ - 💣 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
+ - ⏩ [Kate Mara in shooter &lpar;2007&rpar;](http://9gag.com/gag/aO8LBG2)
+ - 👉 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)<!-- MEMES:END -->
 
 ---
 
