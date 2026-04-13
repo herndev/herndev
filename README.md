@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold skips hinge problem, turns to material science to solve the crease](https://appleinsider.com/articles/26/04/13/iphone-fold-skips-hinge-problem-turns-to-material-science-to-solve-the-crease?utm_source=rss)
- - [Aqara W200 review, HomeMapper app, &amp; heat pump talk with Mary-Ann Rau on Smart Home Insider](https://appleinsider.com/articles/26/04/13/aqara-w200-review-homemapper-app-heat-pump-talk-with-mary-ann-rau-on-smart-home-insider?utm_source=rss)
- - [Pragmata is just OK, but it could’ve been great](https://www.theverge.com/games/910385/pragmata-review-ps5-xbox-switch-2-pc)<!-- TECH:END -->
+ - [OpenAI executive sends internal memo: ‘The market is as competitive as I have ever seen it’](https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic)
+ - [Save 43% on this 100W Anker Prime Charger today!](https://www.androidauthority.com/100w-anker-prime-charger-deal-3657022/)
+ - [Motorola Razr Ultra 2026 leak suggests this may be the year to skip](https://www.androidauthority.com/motorola-razr-ultra-2026-specs-revealed-3656993/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
