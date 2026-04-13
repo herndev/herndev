@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
- - ⏩ [How Asparagus Is Harvested](http://9gag.com/gag/apRZpKb)
- - 👉 [MOCK THEM TILL THEY CRY. Then make memes of them crying.](http://9gag.com/gag/a4POG9p)<!-- MEMES:END -->
+ - 💣 [MOCK THEM TILL THEY CRY. Then make memes of them crying.](http://9gag.com/gag/a4POG9p)
+ - ⏩ [Konnichiwa.](http://9gag.com/gag/a1m3KpY)
+ - 👉 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)<!-- MEMES:END -->
 
 ---
 
