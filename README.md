@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No comments...](http://9gag.com/gag/aXP6wNz)
- - ⏩ [Reminds me of the ` the lamp ` story](http://9gag.com/gag/aVvyXyd)
- - 👉 [Czech Movie with English Subtitle for language learning](http://9gag.com/gag/aoyQpeg)<!-- MEMES:END -->
+ - 💣 [She&#39;s a game character?!](http://9gag.com/gag/aqyorXM)
+ - ⏩ [Nah\u2026](http://9gag.com/gag/an7PbgL)
+ - 👉 [How Asparagus Is Harvested](http://9gag.com/gag/apRZpKb)<!-- MEMES:END -->
 
 ---
 
