@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NZXT to pay $3.45 million settlement over Flex PC rentals](https://www.theverge.com/tech/911297/nzxt-flex-pc-rental-settlement)
- - [Microsoft’s lightweight email app is shutting down soon](https://www.androidauthority.com/microsoft-outlook-lite-end-date-3657090/)
- - [AI influencers are ‘everywhere’ at Coachella](https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella)<!-- TECH:END -->
+ - [Here’s your first look at Gemini ‘Your Day’ in action](https://www.androidauthority.com/gemini-your-day-3657108/)
+ - [iOS 26 boarding passes now available for American Airlines flights](https://appleinsider.com/articles/26/04/13/ios-26-boarding-passes-now-available-for-american-airlines-flights?utm_source=rss)
+ - [RAMageddon has come for Microsoft&amp;#8217;s Surface Pro and Surface Laptop](https://www.theverge.com/tech/911322/microsoft-surface-price-increase-ram)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
