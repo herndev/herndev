@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can finally rest](http://9gag.com/gag/a1m3o0v)
- - ⏩ [YouTuber jerryrigeverything started a wheelchair factory, delivering wheelchairs at 50% to 80% less than others with insurance.](http://9gag.com/gag/avyKOLW)
- - 👉 [Men. The tolerant creatures that we are.](http://9gag.com/gag/a6ZYoyR)<!-- MEMES:END -->
+ - 💣 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
+ - ⏩ [Konnichiwa.](http://9gag.com/gag/a1m3KpY)
+ - 👉 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)<!-- MEMES:END -->
 
 ---
 
