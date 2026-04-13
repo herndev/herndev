@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank, Sony, Honda, and six other Japanese companies launch a new AI company to develop a 1T-parameter foundation model for &quot;physical AI&quot; by 2030 &lpar;Natsuki Yamamoto/Nikkei Asia&rpar;](http://www.techmeme.com/260413/p5#a260413p5)
- - [Nothing Phone 4a Pro passes durability tests with flying colors, but there’s one issue](https://www.androidauthority.com/nothing-phone-4a-pro-durability-test-3656839/)
- - [Sources: Meta is building photorealistic, AI-powered 3D characters; Zuckerberg helped train and test an AI version of himself that offers feedback to employees &lpar;Financial Times&rpar;](http://www.techmeme.com/260413/p4#a260413p4)<!-- TECH:END -->
+ - [For the first time, 50% of employed US adults say they use AI at work a few times per year or more; leaders are more likely to see AI&#39;s impact as positive &lpar;Andy Kemp/Gallup&rpar;](http://www.techmeme.com/260413/p8#a260413p8)
+ - [Apple could outclass Samsung and Google with its smart glasses](https://www.androidauthority.com/apple-smart-glasses-n50-rumors-3656855/)
+ - [Huawei beats Apple and Samsung with new wide foldable](https://www.theverge.com/tech/910867/huawei-pura-x-max-foldable-phone-wide-china)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
