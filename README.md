@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)
- - ⏩ [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
- - 👉 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)<!-- MEMES:END -->
+ - 💣 [If you plan on committing tons of traffic violations, I have news for you](http://9gag.com/gag/apRZpOD)
+ - ⏩ [Hayley](http://9gag.com/gag/ary7bdK)
+ - 👉 [YouTuber jerryrigeverything started a wheelchair factory, delivering wheelchairs at 50% to 80% less than others with insurance.](http://9gag.com/gag/avyKOLW)<!-- MEMES:END -->
 
 ---
 
