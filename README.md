@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile reportedly forcing some legacy customers over to different plans](https://www.androidauthority.com/t-mobile-legacy-plan-changes-3657082/)
- - [The Apple Watch Series 11 has returned to best-ever price](https://www.theverge.com/gadgets/911191/apple-watch-series-11-smartwatch-amazon-april-deal-sale)
- - [Oppo reveals the three nature-inspired shades of the Oppo Find X9 Ultra](https://www.androidauthority.com/oppo-find-x9-ultra-three-colors-3657036/)<!-- TECH:END -->
+ - [NZXT to pay $3.45 million settlement over Flex PC rentals](https://www.theverge.com/tech/911297/nzxt-flex-pc-rental-settlement)
+ - [Microsoft’s lightweight email app is shutting down soon](https://www.androidauthority.com/microsoft-outlook-lite-end-date-3657090/)
+ - [AI influencers are ‘everywhere’ at Coachella](https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
