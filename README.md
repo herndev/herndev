@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
- - ⏩ [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
- - 👉 [Manbun hero](http://9gag.com/gag/aKGojzQ)<!-- MEMES:END -->
+ - 💣 [I can finally rest](http://9gag.com/gag/a1m3o0v)
+ - ⏩ [YouTuber jerryrigeverything started a wheelchair factory, delivering wheelchairs at 50% to 80% less than others with insurance.](http://9gag.com/gag/avyKOLW)
+ - 👉 [Men. The tolerant creatures that we are.](http://9gag.com/gag/a6ZYoyR)<!-- MEMES:END -->
 
 ---
 
