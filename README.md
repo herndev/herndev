@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rockstar confirms &quot;a limited amount of non-material company information was accessed in connection with a third-party data breach&quot;; ShinyHunters demand a ransom &lpar;Zack Zwiezen/Kotaku&rpar;](http://www.techmeme.com/260413/p12#a260413p12)
- - [A verified @elonmusk TikTok account posted its first video, promoting SpaceX and Tesla and hitting 2M+ views; a verified Instagram account is yet to post &lpar;Ryan Mac/New York Times&rpar;](http://www.techmeme.com/260413/p11#a260413p11)
- - [One of the best Android settings is hidden away, and I hate having to enable it on every phone](https://www.androidauthority.com/best-android-settings-hidden-away-notifications-3655448/)<!-- TECH:END -->
+ - [Apple Maps did not erase Lebanon towns during Israeli attacks, insists Apple](https://appleinsider.com/articles/26/04/13/apple-maps-did-not-erase-lebanon-towns-during-israeli-attacks-insists-apple?utm_source=rss)
+ - [One UI 9 leak suggests Samsung is listening to our software complaints](https://www.androidauthority.com/one-ui-9-leak-ui-and-settings-changes-3656907/)
+ - [The Internet&#39;s Most Powerful Archiving Tool Is in Peril](https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
