@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s your first look at Gemini ‘Your Day’ in action](https://www.androidauthority.com/gemini-your-day-3657108/)
- - [iOS 26 boarding passes now available for American Airlines flights](https://appleinsider.com/articles/26/04/13/ios-26-boarding-passes-now-available-for-american-airlines-flights?utm_source=rss)
- - [RAMageddon has come for Microsoft&amp;#8217;s Surface Pro and Surface Laptop](https://www.theverge.com/tech/911322/microsoft-surface-price-increase-ram)<!-- TECH:END -->
+ - [The Mercedes EQS returns with massive range and charging gains](https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027)
+ - [This new Android app could be a lifesaver for sleepy commuters](https://www.androidauthority.com/sleeparrive-commuters-android-app-location-wear-os-3657137/)
+ - [Roblox says developers will need Roblox Plus, a new $4.99-per-month subscription offering benefits like discounts, to publish games for Kids and Select accounts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260413/p29#a260413p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
