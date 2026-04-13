@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you plan on committing tons of traffic violations, I have news for you](http://9gag.com/gag/apRZpOD)
- - ⏩ [Hayley](http://9gag.com/gag/ary7bdK)
- - 👉 [YouTuber jerryrigeverything started a wheelchair factory, delivering wheelchairs at 50% to 80% less than others with insurance.](http://9gag.com/gag/avyKOLW)<!-- MEMES:END -->
+ - 💣 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
+ - ⏩ [How Asparagus Is Harvested](http://9gag.com/gag/apRZpKb)
+ - 👉 [MOCK THEM TILL THEY CRY. Then make memes of them crying.](http://9gag.com/gag/a4POG9p)<!-- MEMES:END -->
 
 ---
 
