@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [YouTuber jerryrigeverything started a wheelchair factory, delivering wheelchairs at 50% to 80% less than others with insurance.](http://9gag.com/gag/avyKOLW)
- - ⏩ [I can finally rest](http://9gag.com/gag/a1m3o0v)
- - 👉 [Men. The tolerant creatures that we are.](http://9gag.com/gag/a6ZYoyR)<!-- MEMES:END -->
+ - 💣 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
+ - ⏩ [Manbun hero](http://9gag.com/gag/aKGojzQ)
+ - 👉 [In case you ever wondered, this is what&#39;s left of Senegal&#39;s $6bn Wakanda project](http://9gag.com/gag/agmzYjx)<!-- MEMES:END -->
 
 ---
 
