@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says its $20M donation to Public First Action can&#39;t be &quot;used to influence federal elections&quot; and is to educate the public on AI policy &lpar;Veronica Irwin/Transformer&rpar;](http://www.techmeme.com/260413/p26#a260413p26)
- - [Gemini on Android Auto hilariously misplaces driver in the middle of the ocean](https://www.androidauthority.com/gemini-android-auto-fail-3657002/)
- - [Internal memo: Microsoft&#39;s gaming chief Asha Sharma says &quot;Game Pass has become too expensive for players&quot; and that Microsoft needs &quot;a better value equation&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260413/p25#a260413p25)<!-- TECH:END -->
+ - [T-Mobile reportedly forcing some legacy customers over to different plans](https://www.androidauthority.com/t-mobile-legacy-plan-changes-3657082/)
+ - [The Apple Watch Series 11 has returned to best-ever price](https://www.theverge.com/gadgets/911191/apple-watch-series-11-smartwatch-amazon-april-deal-sale)
+ - [Oppo reveals the three nature-inspired shades of the Oppo Find X9 Ultra](https://www.androidauthority.com/oppo-find-x9-ultra-three-colors-3657036/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
