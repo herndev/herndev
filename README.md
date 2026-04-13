@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
- - ⏩ [Konnichiwa.](http://9gag.com/gag/a1m3KpY)
- - 👉 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)<!-- MEMES:END -->
+ - 💣 [Threads](http://9gag.com/gag/an7Pj85)
+ - ⏩ [I hope that this summer some influencer model will finally make these shirts trendy](http://9gag.com/gag/a7oRMEz)
+ - 👉 [Manbun hero](http://9gag.com/gag/aKGojzQ)<!-- MEMES:END -->
 
 ---
 
