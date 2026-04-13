@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
- - ⏩ [Times are changing](http://9gag.com/gag/a34Xq2N)
- - 👉 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)<!-- MEMES:END -->
+ - 💣 [Nah\u2026](http://9gag.com/gag/an7PbgL)
+ - ⏩ [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
+ - 👉 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)<!-- MEMES:END -->
 
 ---
 
