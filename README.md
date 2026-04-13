@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI executive sends internal memo: ‘The market is as competitive as I have ever seen it’](https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic)
- - [Save 43% on this 100W Anker Prime Charger today!](https://www.androidauthority.com/100w-anker-prime-charger-deal-3657022/)
- - [Motorola Razr Ultra 2026 leak suggests this may be the year to skip](https://www.androidauthority.com/motorola-razr-ultra-2026-specs-revealed-3656993/)<!-- TECH:END -->
+ - [Old iWork apps are now gone, Creator Studio iWork apps are still free](https://appleinsider.com/articles/26/04/13/old-iwork-apps-are-now-gone-creator-studio-iwork-apps-are-still-free?utm_source=rss)
+ - [You can make a multicolor MacBook Neo out of Apple&amp;#8217;s spare parts](https://www.theverge.com/tech/911172/macbook-neo-apple-spare-parts-multicolor)
+ - [Amazon launches $50 discount on iPad 11 for April](https://appleinsider.com/articles/26/04/13/amazon-launches-50-discount-on-ipad-11-for-april?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
