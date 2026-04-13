@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [For the first time, 50% of employed US adults say they use AI at work a few times per year or more; leaders are more likely to see AI&#39;s impact as positive &lpar;Andy Kemp/Gallup&rpar;](http://www.techmeme.com/260413/p8#a260413p8)
- - [Apple could outclass Samsung and Google with its smart glasses](https://www.androidauthority.com/apple-smart-glasses-n50-rumors-3656855/)
- - [Huawei beats Apple and Samsung with new wide foldable](https://www.theverge.com/tech/910867/huawei-pura-x-max-foldable-phone-wide-china)<!-- TECH:END -->
+ - [Sam Altman reportedly targeted in second attack](https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting)
+ - [Google is putting Meet in your Android Auto dashboard just days after CarPlay](https://www.androidauthority.com/google-meet-android-auto-rollout-3656873/)
+ - [Google’s building a better way for Android to protect more of you from scam calls](https://www.androidauthority.com/android-verified-caller-3656752/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
