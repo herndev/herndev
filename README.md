@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s a game character?!](http://9gag.com/gag/aqyorXM)
- - ⏩ [Nah\u2026](http://9gag.com/gag/an7PbgL)
- - 👉 [How Asparagus Is Harvested](http://9gag.com/gag/apRZpKb)<!-- MEMES:END -->
+ - 💣 [That time when Avril misunderstood the question](http://9gag.com/gag/amo4YM2)
+ - ⏩ [Fight club rule number 1 You do not talk about Fight Club](http://9gag.com/gag/apRZrDM)
+ - 👉 [We are living in a cyberpunk world](http://9gag.com/gag/axyq0N1)<!-- MEMES:END -->
 
 ---
 
