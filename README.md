@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Maps did not erase Lebanon towns during Israeli attacks, insists Apple](https://appleinsider.com/articles/26/04/13/apple-maps-did-not-erase-lebanon-towns-during-israeli-attacks-insists-apple?utm_source=rss)
- - [One UI 9 leak suggests Samsung is listening to our software complaints](https://www.androidauthority.com/one-ui-9-leak-ui-and-settings-changes-3656907/)
- - [The Internet&#39;s Most Powerful Archiving Tool Is in Peril](https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/)<!-- TECH:END -->
+ - [Originality AI: 23 major news websites and Reddit block the Internet Archive&#39;s crawler; journalists and advocacy groups sign a letter supporting the Archive &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/260413/p14#a260413p14)
+ - [Gardening season must-haves for 2026: The smart tools to make outdoor living effortless](https://www.androidauthority.com/gardening-season-2026-smart-tools-guide-3655657/)
+ - [Seeing red: Another leaker jumps on the crimson iPhone 18 Pro bandwagon](https://appleinsider.com/articles/26/04/13/seeing-red-another-leaker-jumps-on-the-crimson-iphone-18-pro-bandwagon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
