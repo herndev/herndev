@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Game Boy-style Pro handheld is around the corner as leaked image surfaces](https://www.androidauthority.com/trimui-brick-pro-leaked-image-3656889/)
- - [50% Off DoorDash Promo Code | April 2026](https://www.wired.com/story/doordash-promo-code/)
- - [$20 Chewy Promo Code | April 2026](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
+ - [A profile of Jeffrey Yan and his startup Hyperliquid, a $10B crypto exchange that never took VC money and generated $900M+ in profit in 2025 with 11 employees &lpar;Dom Cooke/Colossus&rpar;](http://www.techmeme.com/260414/p2#a260414p2)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-14/)
+ - [This Game Boy-style Pro handheld is around the corner as leaked image surfaces](https://www.androidauthority.com/trimui-brick-pro-leaked-image-3656889/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
