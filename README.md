@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic appoints Novartis CEO Vas Narasimhan to its board, its second board addition in recent months as it eyes an IPO and pushes further into healthcare &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260414/p16#a260414p16)
- - [Lucid sells more robotaxis to Uber, appoints a new CEO](https://www.theverge.com/transportation/911628/lucid-uber-robotaxi-nuro-ceo-saudi-arabia)
- - [Your next flight might offer the fastest internet you’ve ever had in the skies](https://www.androidauthority.com/amazon-leo-aviation-antenna-3657328/)<!-- TECH:END -->
+ - [Sources: cloud-computing startup Fluidstack is in talks to raise ~$1B at an $18B valuation, up from $7.5B when it raised money earlier in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260414/p20#a260414p20)
+ - [Deal alert: Razer BlackShark V3 Pro drops to all-time low of $229.50!](https://www.androidauthority.com/razer-blackshark-v3-pro-deal-3657391/)
+ - [Jon Prosser&#39;s silence stalls Apple&#39;s leak lawsuit as discovery drags on](https://appleinsider.com/articles/26/04/14/jon-prossers-silence-stalls-apples-leak-lawsuit-as-discovery-drags-on?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
