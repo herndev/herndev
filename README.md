@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI penetration testing company CodeWall says its agent was able to hack into one of Bain&#39;s internal AI tools, following a similar hack at McKinsey &lpar;Ellesheva Kissin/Financial Times&rpar;](http://www.techmeme.com/260413/p30#a260413p30)
- - [Disappearing Macs? Global RAM Supply Crisis Likely Hits Apple](https://www.cnet.com/tech/computing/disappearing-macs-global-ram-crisis-likely-hits-apple/)
- - [The Mercedes EQS returns with massive range and charging gains](https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027)<!-- TECH:END -->
+ - [Hot deal: This 62% discount on the Motorola Razr Plus 2025 is pretty much robbery!](https://www.androidauthority.com/motorola-razr-plus-2025-deal-5-3657102/)
+ - [Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&amp;#8217;s home and OpenAI’s HQ](https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack)
+ - [Oracle expands its partnership with fuel cell maker Bloom to procure up to 2.8 GW of capacity, after receiving a warrant to purchase $400M of Bloom stock &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260413/p33#a260413p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
