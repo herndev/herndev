@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android foldable makers face major shake up after Apple’s entry](https://www.androidauthority.com/apple-could-take-over-foldable-market-3657283/)
- - [Sources: Chinese chipmaker YMTC plans to build two more factories in addition to one that will be completed in 2026, more than doubling its production capacity &lpar;Reuters&rpar;](http://www.techmeme.com/260414/p8#a260414p8)
- - [The Best Streaming Bundles and Streaming Deals of April 2026](https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/)<!-- TECH:END -->
+ - [These Are the 3 Power Tools You Need &lpar;2026&rpar;](https://www.wired.com/story/three-power-tools-you-need/)
+ - [The Fanfare Around the Band Geese Actually Was a Psyop](https://www.wired.com/story/geese-chaotic-good-marketing-industry-plant/)
+ - [Motorola Razr 2026’s leaked colors make other flip phones look tame](https://www.androidauthority.com/motorola-razr-2026-color-design-leak-3657243/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
