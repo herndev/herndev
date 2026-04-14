@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: cloud-computing startup Fluidstack is in talks to raise ~$1B at an $18B valuation, up from $7.5B when it raised money earlier in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260414/p20#a260414p20)
- - [Deal alert: Razer BlackShark V3 Pro drops to all-time low of $229.50!](https://www.androidauthority.com/razer-blackshark-v3-pro-deal-3657391/)
- - [Jon Prosser&#39;s silence stalls Apple&#39;s leak lawsuit as discovery drags on](https://appleinsider.com/articles/26/04/14/jon-prossers-silence-stalls-apples-leak-lawsuit-as-discovery-drags-on?utm_source=rss)<!-- TECH:END -->
+ - [Pillar, which helps businesses driven by commodities, like metals, manage financial risk, raised a $20M seed led by a16z, bringing its total funding to $23M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260414/p26#a260414p26)
+ - [The world’s oldest art, now in 6K IMAX](https://www.theverge.com/entertainment/911678/werner-herzog-cave-forgotten-dreams-imax)
+ - [Sygaldry, which wants to design AI data center servers that integrate quantum hardware and classical chips, raised a $34M seed and a $105M Series A &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260414/p25#a260414p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
