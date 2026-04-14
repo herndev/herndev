@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Trump Phone design is here](https://www.theverge.com/tech/911503/trump-mobile-t1-phone-redesign-new-website)
- - [YouTube’s live chat just gave viewers a surprising way to skip ads](https://www.androidauthority.com/youtube-new-live-stream-engagement-tools-3657233/)
- - [OnePlus could be copying one of the best Samsung lock screen features](https://www.androidauthority.com/oneplus-oppo-samsung-lock-screen-feature-3657223/)<!-- TECH:END -->
+ - [The Pixel 10 is getting a major security boost you’ll never actually see](https://www.androidauthority.com/google-pixel-10-modem-rust-security-3653503/)
+ - [If you ever need truly private photos on Android, this is the camera app to use](https://www.androidauthority.com/best-private-camera-app-android-snapsafe-3656902/)
+ - [The Moms Who Sponcon Their Daughters’ First Periods](https://www.wired.com/story/the-moms-who-sponcon-their-daughters-first-periods/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
