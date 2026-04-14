@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In case you ever wondered, this is what&#39;s left of Senegal&#39;s $6bn Wakanda project](http://9gag.com/gag/agmzYjx)
- - ⏩ [Manbun hero](http://9gag.com/gag/aKGojzQ)
- - 👉 [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)<!-- MEMES:END -->
+ - 💣 [Prime Lana](http://9gag.com/gag/aAyz3vd)
+ - ⏩ [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
+ - 👉 [Manbun hero](http://9gag.com/gag/aKGojzQ)<!-- MEMES:END -->
 
 ---
 
