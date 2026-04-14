@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Most WIRED Watches at Watches and Wonders 2026](https://www.wired.com/story/most-wired-watches-at-watches-and-wonders-2026/)
- - [Samsung may have revealed stable One UI 8.5 launch date for Galaxy S25](https://www.androidauthority.com/samsung-stable-one-ui-8-5-galaxy-s25-leak-3657205/)
- - [A profile of Jeffrey Yan and his startup Hyperliquid, a $10B crypto exchange that never took VC money and generated $900M+ in profit in 2025 with 11 employees &lpar;Dom Cooke/Colossus&rpar;](http://www.techmeme.com/260414/p2#a260414p2)<!-- TECH:END -->
+ - [The new Trump Phone design is here](https://www.theverge.com/tech/911503/trump-mobile-t1-phone-redesign-new-website)
+ - [YouTube’s live chat just gave viewers a surprising way to skip ads](https://www.androidauthority.com/youtube-new-live-stream-engagement-tools-3657233/)
+ - [OnePlus could be copying one of the best Samsung lock screen features](https://www.androidauthority.com/oneplus-oppo-samsung-lock-screen-feature-3657223/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
