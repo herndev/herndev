@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Regulators in Europe were largely left out of the loop as Anthropic limited the release of its latest model Mythos to select companies and organizations &lpar;Politico&rpar;](http://www.techmeme.com/260413/p35#a260413p35)
- - [Huawei Teases a Wider Foldable, and the Timing Feels Very Apple-Adjacent](https://www.cnet.com/tech/mobile/huawei-pura-x-max-chinese-iphone-fold-competitor/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 14, #568](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-14-568/)<!-- TECH:END -->
+ - [This Game Boy-style Pro handheld is around the corner as leaked image surfaces](https://www.androidauthority.com/trimui-brick-pro-leaked-image-3656889/)
+ - [50% Off DoorDash Promo Code | April 2026](https://www.wired.com/story/doordash-promo-code/)
+ - [$20 Chewy Promo Code | April 2026](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
