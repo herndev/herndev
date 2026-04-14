@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Are the 3 Power Tools You Need &lpar;2026&rpar;](https://www.wired.com/story/three-power-tools-you-need/)
- - [The Fanfare Around the Band Geese Actually Was a Psyop](https://www.wired.com/story/geese-chaotic-good-marketing-industry-plant/)
- - [Motorola Razr 2026’s leaked colors make other flip phones look tame](https://www.androidauthority.com/motorola-razr-2026-color-design-leak-3657243/)<!-- TECH:END -->
+ - [My disappointment is immeasurable: This world-first dual-screen phone isn’t what I expected](https://www.androidauthority.com/dual-screen-phone-launch-e-ink-3657274/)
+ - [Amazon agrees to buy satellite operator Globalstar, set to close in 2027, to expand Leo; Amazon and Apple agree for Leo to power some iPhone and Watch services &lpar;About Amazon&rpar;](http://www.techmeme.com/260414/p11#a260414p11)
+ - [EV maker Lucid says Uber agreed to buy 35K+ additional Lucid vehicles for its robotaxi fleet and invest $200M, taking its total investments in Lucid to $500M &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/260414/p10#a260414p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
