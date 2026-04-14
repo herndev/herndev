@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tetten](http://9gag.com/gag/aXP6x4b)
- - ⏩ [I think she can be a contender](http://9gag.com/gag/aAyz3E0)
- - 👉 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)<!-- MEMES:END -->
+ - 💣 [Threads](http://9gag.com/gag/an7Pj85)
+ - ⏩ [Wolf fish still got that bite even after being caught](http://9gag.com/gag/a5Q0oXV)
+ - 👉 [Manbun hero](http://9gag.com/gag/aKGojzQ)<!-- MEMES:END -->
 
 ---
 
