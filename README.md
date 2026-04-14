@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot deal: This 62% discount on the Motorola Razr Plus 2025 is pretty much robbery!](https://www.androidauthority.com/motorola-razr-plus-2025-deal-5-3657102/)
- - [Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&amp;#8217;s home and OpenAI’s HQ](https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack)
- - [Oracle expands its partnership with fuel cell maker Bloom to procure up to 2.8 GW of capacity, after receiving a warrant to purchase $400M of Bloom stock &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260413/p33#a260413p33)<!-- TECH:END -->
+ - [Gemini in Google Home is getting a whole lot better at understanding you](https://www.androidauthority.com/gemini-home-understand-3657160/)
+ - [Sonos Play review: Sonos is back with the Goldilocks of portable speakers](https://appleinsider.com/articles/26/04/14/sonos-play-review-sonos-is-back-with-the-goldilocks-of-portable-speakers?utm_source=rss)
+ - [What Is Earthshine? How to Spot the Lunar Marvel in the Skies This Week](https://www.cnet.com/science/space/what-is-earthshine-best-time-to-see-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
