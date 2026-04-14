@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US-based Credo, which specializes in data center connectivity, agrees to acquire Israeli chip company DustPhotonics in a cash-and-stock deal worth up to $1.3B &lpar;CTech&rpar;](http://www.techmeme.com/260414/p40#a260414p40)
- - [AWS launches Amazon Bio Discovery, a new AI-powered application designed to speed up drug development, giving scientists access to biological foundation models &lpar;Reuters&rpar;](http://www.techmeme.com/260414/p39#a260414p39)
- - [The 10 Best TV Shows to Stream This Month &lpar;April 2026&rpar;](https://www.wired.com/story/the-best-shows-to-stream-right-now/)<!-- TECH:END -->
+ - [This next-gen Android gaming tablet could keep peak performance with liquid cooling](https://www.androidauthority.com/redmagic-gaming-tablet-5-pro-liquid-cooling-rumor-3657593/)
+ - [Meta and Broadcom announce an expanded partnership to co-develop multiple generations of Meta&#39;s MTIA chips; Broadcom CEO Hock Tan plans to leave Meta&#39;s board &lpar;CNBC&rpar;](http://www.techmeme.com/260414/p42#a260414p42)
+ - [Gemini’s most personal feature is making its biggest expansion yet](https://www.androidauthority.com/gemini-personal-intelligence-expansion-3657523/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
