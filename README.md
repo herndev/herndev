@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Skills, repeatable AI prompts users can run in Chrome with a keyboard shortcut; users can set up their own Skills or choose from 50+ presets &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260414/p29#a260414p29)
- - [With Amazon’s latest acquisition, Starlink may soon have a real competitor on its hands](https://www.androidauthority.com/amazon-starlink-competitor-3657443/)
- - [Google&amp;#8217;s Spotlight-like desktop search bar for Windows is available for everyone](https://www.theverge.com/tech/911741/google-windows-app-launch)<!-- TECH:END -->
+ - [Google’s new Windows app speeds up search on desktop](https://www.androidauthority.com/google-windows-app-global-availability-3657495/)
+ - [Microsoft agrees to rent 30,000 Nvidia Vera Rubin chips from Nscale at a site in Norway that was initially intended for OpenAI and marketed as part of Stargate &lpar;Bloomberg&rpar;](http://www.techmeme.com/260414/p31#a260414p31)
+ - [The attacks on Sam Altman are a warning for the AI world](https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
