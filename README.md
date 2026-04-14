@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 10 is getting a major security boost you’ll never actually see](https://www.androidauthority.com/google-pixel-10-modem-rust-security-3653503/)
- - [If you ever need truly private photos on Android, this is the camera app to use](https://www.androidauthority.com/best-private-camera-app-android-snapsafe-3656902/)
- - [The Moms Who Sponcon Their Daughters’ First Periods](https://www.wired.com/story/the-moms-who-sponcon-their-daughters-first-periods/)<!-- TECH:END -->
+ - [Android foldable makers face major shake up after Apple’s entry](https://www.androidauthority.com/apple-could-take-over-foldable-market-3657283/)
+ - [Sources: Chinese chipmaker YMTC plans to build two more factories in addition to one that will be completed in 2026, more than doubling its production capacity &lpar;Reuters&rpar;](http://www.techmeme.com/260414/p8#a260414p8)
+ - [The Best Streaming Bundles and Streaming Deals of April 2026](https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
