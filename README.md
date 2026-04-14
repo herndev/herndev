@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In case you ever wondered, this is what&#39;s left of Senegal&#39;s $6bn Wakanda project](http://9gag.com/gag/agmzYjx)
- - ⏩ [Wolf fish still got that bite even after being caught](http://9gag.com/gag/a5Q0oXV)
- - 👉 [Not gonna lie, I&#39;ll clapped both version too](http://9gag.com/gag/a34XKq1)<!-- MEMES:END -->
+ - 💣 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
+ - ⏩ [Manbun hero](http://9gag.com/gag/aKGojzQ)
+ - 👉 [Best dad ever](http://9gag.com/gag/aNDEYm3)<!-- MEMES:END -->
 
 ---
 
