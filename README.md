@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polymarket is auditing its Builders Program, which gives up to $2.5M in grants, after concerns that some participating startups are facilitating insider trading &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/260414/p14#a260414p14)
- - [Oura takes ring data into the doctor’s office with its latest partnership](https://www.androidauthority.com/oura-vida-health-partnership-3657238/)
- - [The heist of iOS 26](https://www.theverge.com/tech/908476/jon-prosser-apple-liquid-glass)<!-- TECH:END -->
+ - [Anthropic appoints Novartis CEO Vas Narasimhan to its board, its second board addition in recent months as it eyes an IPO and pushes further into healthcare &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260414/p16#a260414p16)
+ - [Lucid sells more robotaxis to Uber, appoints a new CEO](https://www.theverge.com/transportation/911628/lucid-uber-robotaxi-nuro-ceo-saudi-arabia)
+ - [Your next flight might offer the fastest internet you’ve ever had in the skies](https://www.androidauthority.com/amazon-leo-aviation-antenna-3657328/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
