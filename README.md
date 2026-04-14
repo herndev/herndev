@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tetten](http://9gag.com/gag/aXP6x4b)
- - ⏩ [`she can carry up to 8 males` sounds like my ex](http://9gag.com/gag/aW43Y66)
+ - 💣 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
+ - ⏩ [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
  - 👉 [Repo name in comments.](http://9gag.com/gag/aNDEYr6)<!-- MEMES:END -->
 
 ---
