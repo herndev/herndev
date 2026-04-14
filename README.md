@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Guess which country this is coming from. Just one guess.](http://9gag.com/gag/aYQX4y0)
- - ⏩ [MOCK THEM TILL THEY CRY. Then make memes of them crying.](http://9gag.com/gag/a4POG9p)
- - 👉 [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)<!-- MEMES:END -->
+ - ⏩ [Manbun hero](http://9gag.com/gag/aKGojzQ)
+ - 👉 [Top 10% in all 3 jobs! wow !](http://9gag.com/gag/aKGojRj)<!-- MEMES:END -->
 
 ---
 
