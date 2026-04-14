@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Make Skyrim&#39;s weather feel more impactful with this particle mod](https://www.pcgamer.com/games/the-elder-scrolls/make-skyrims-weather-feel-more-impactful-with-this-particle-mod/)
- - [Check out the internet&#39;s best gaming videos from March—including one of the coolest custom gaming rigs we&#39;ve ever seen](https://www.pcgamer.com/games/check-out-the-internets-best-gaming-videos-from-march-including-one-of-the-coolest-custom-gaming-rigs-weve-ever-seen/)
- - [Five new Steam games you probably missed &lpar;April 13, 2026&rpar;](https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-april-13-2026/)<!-- GAME:END -->
+ - [Stalker 2 just got a free pre-DLC to gird you for its first actual DLC](https://www.pcgamer.com/games/fps/stalker-2-just-got-a-free-pre-dlc-to-gird-you-for-its-first-actual-dlc/)
+ - [You can now add &#39;playing pool&#39; to the list of Lovecraftian horrors that will drive you insane, thanks to this bizarre roguelike that&#39;s got me shooting dead fish and vomiting upgrades](https://www.pcgamer.com/games/roguelike/you-can-now-add-playing-pool-to-the-list-of-lovecraftian-horrors-that-will-drive-you-insane-thanks-to-this-bizarre-roguelike-thats-got-me-shooting-dead-fish-and-vomiting-upgrades/)
+ - [Four New Images Of Spider-Man: Beyond The Spider-Verse Hint At What We Can Expect](https://kotaku.com/spider-man-beyond-spider-verse-cinemacon-miles-morales-2000687489)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
