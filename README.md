@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
- - ⏩ [Manbun hero](http://9gag.com/gag/aKGojzQ)
- - 👉 [I hope that this summer some influencer model will finally make these shirts trendy](http://9gag.com/gag/a7oRMEz)<!-- MEMES:END -->
+ - 💣 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
+ - ⏩ [Kate Mara in shooter &lpar;2007&rpar;](http://9gag.com/gag/aO8LBG2)
+ - 👉 [Not gonna lie, I&#39;ll clapped both version too](http://9gag.com/gag/a34XKq1)<!-- MEMES:END -->
 
 ---
 
