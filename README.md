@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
- - ⏩ [Manbun hero](http://9gag.com/gag/aKGojzQ)
- - 👉 [Best dad ever](http://9gag.com/gag/aNDEYm3)<!-- MEMES:END -->
+ - 💣 [Tetten](http://9gag.com/gag/aXP6x4b)
+ - ⏩ [I think she can be a contender](http://9gag.com/gag/aAyz3E0)
+ - 👉 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)<!-- MEMES:END -->
 
 ---
 
