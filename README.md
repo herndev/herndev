@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This next-gen Android gaming tablet could keep peak performance with liquid cooling](https://www.androidauthority.com/redmagic-gaming-tablet-5-pro-liquid-cooling-rumor-3657593/)
- - [Meta and Broadcom announce an expanded partnership to co-develop multiple generations of Meta&#39;s MTIA chips; Broadcom CEO Hock Tan plans to leave Meta&#39;s board &lpar;CNBC&rpar;](http://www.techmeme.com/260414/p42#a260414p42)
- - [Gemini’s most personal feature is making its biggest expansion yet](https://www.androidauthority.com/gemini-personal-intelligence-expansion-3657523/)<!-- TECH:END -->
+ - [The Surprising MacBook Neo Competitor You&#39;ve Never Heard Of](https://www.wired.com/story/hp-omnibook-5-deal-0426-1/)
+ - [Anthropic recently changed Claude Enterprise pricing; customers now pay $20/month per user plus consumption-based charges, instead of a fixed subscription &lpar;The Information&rpar;](http://www.techmeme.com/260414/p44#a260414p44)
+ - [Microsoft&amp;#8217;s finally giving up on its massive Surface Hub touchscreen displays](https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
