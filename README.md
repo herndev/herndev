@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mean girls won the prize](http://9gag.com/gag/aYQXgYv)
- - ⏩ [For Gods sake Rebecca, that&#39;s disgusting](http://9gag.com/gag/a7oR3Rx)
- - 👉 [Top 10% in all 3 jobs! wow !](http://9gag.com/gag/aKGojRj)<!-- MEMES:END -->
+ - 💣 [Tetten](http://9gag.com/gag/aXP6x4b)
+ - ⏩ [`she can carry up to 8 males` sounds like my ex](http://9gag.com/gag/aW43Y66)
+ - 👉 [Repo name in comments.](http://9gag.com/gag/aNDEYr6)<!-- MEMES:END -->
 
 ---
 
