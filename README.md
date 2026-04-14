@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
- - ⏩ [He did it boys. Thank you JD.](http://9gag.com/gag/a9ygAxj)
- - 👉 [Repo name in comments.](http://9gag.com/gag/aNDEYr6)<!-- MEMES:END -->
+ - 💣 [Repo name in comments.](http://9gag.com/gag/aNDEYr6)
+ - ⏩ [The Dukes of Hazzard &lpar;Russian edition&rpar;](http://9gag.com/gag/aAyz332)
+ - 👉 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)<!-- MEMES:END -->
 
 ---
 
