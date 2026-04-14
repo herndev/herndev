@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI is rolling out GPT-5.4-Cyber to some participants in its Trusted Access for Cyber program, a week after Anthropic announced Mythos &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260414/p36#a260414p36)
- - [In the Wake of Anthropic&#39;s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy](https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/)
- - [Apple Store closures make sense to Apple, but not to the community](https://appleinsider.com/articles/26/04/14/apple-store-closures-make-sense-to-apple-but-not-to-the-community?utm_source=rss)<!-- TECH:END -->
+ - [US-based Credo, which specializes in data center connectivity, agrees to acquire Israeli chip company DustPhotonics in a cash-and-stock deal worth up to $1.3B &lpar;CTech&rpar;](http://www.techmeme.com/260414/p40#a260414p40)
+ - [AWS launches Amazon Bio Discovery, a new AI-powered application designed to speed up drug development, giving scientists access to biological foundation models &lpar;Reuters&rpar;](http://www.techmeme.com/260414/p39#a260414p39)
+ - [The 10 Best TV Shows to Stream This Month &lpar;April 2026&rpar;](https://www.wired.com/story/the-best-shows-to-stream-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
