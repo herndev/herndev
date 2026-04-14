@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung quietly hikes prices for Galaxy tablets and foldables in the US](https://www.androidauthority.com/samsung-us-price-hikes-april-2026-3657418/)
- - [Bogus crypto wallet on App Store steals $9.5M](https://appleinsider.com/articles/26/04/14/bogus-crypto-wallet-on-app-store-steals-95m?utm_source=rss)
- - [Source: Anthropic is preparing to release Claude Opus 4.7, along with a new AI-powered tool for designing websites and presentations, as soon as this week &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/260414/p34#a260414p34)<!-- TECH:END -->
+ - [OpenAI is rolling out GPT-5.4-Cyber to some participants in its Trusted Access for Cyber program, a week after Anthropic announced Mythos &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260414/p36#a260414p36)
+ - [In the Wake of Anthropic&#39;s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy](https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/)
+ - [Apple Store closures make sense to Apple, but not to the community](https://appleinsider.com/articles/26/04/14/apple-store-closures-make-sense-to-apple-but-not-to-the-community?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
