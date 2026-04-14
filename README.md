@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess which country this is coming from. Just one guess.](http://9gag.com/gag/aYQX4y0)
- - ⏩ [Manbun hero](http://9gag.com/gag/aKGojzQ)
- - 👉 [Top 10% in all 3 jobs! wow !](http://9gag.com/gag/aKGojRj)<!-- MEMES:END -->
+ - 💣 [At a hospital in Kentucky, poor patients who could not pay their medical bills were abandoned and left out on the street in front of the hospital. This must be the golden age Trump was talking about.](http://9gag.com/gag/aAyzDv9)
+ - ⏩ [Stop biting my horsie](http://9gag.com/gag/aGy4emw)
+ - 👉 [Guess which country this is coming from. Just one guess.](http://9gag.com/gag/aYQX4y0)<!-- MEMES:END -->
 
 ---
 
