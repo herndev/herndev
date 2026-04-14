@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Threads](http://9gag.com/gag/an7Pj85)
- - ⏩ [Wolf fish still got that bite even after being caught](http://9gag.com/gag/a5Q0oXV)
- - 👉 [Manbun hero](http://9gag.com/gag/aKGojzQ)<!-- MEMES:END -->
+ - 💣 [Mean girls won the prize](http://9gag.com/gag/aYQXgYv)
+ - ⏩ [For Gods sake Rebecca, that&#39;s disgusting](http://9gag.com/gag/a7oR3Rx)
+ - 👉 [Top 10% in all 3 jobs! wow !](http://9gag.com/gag/aKGojRj)<!-- MEMES:END -->
 
 ---
 
