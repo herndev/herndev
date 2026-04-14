@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Repo name in comments.](http://9gag.com/gag/aNDEYr6)
- - ⏩ [The Dukes of Hazzard &lpar;Russian edition&rpar;](http://9gag.com/gag/aAyz332)
- - 👉 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)<!-- MEMES:END -->
+ - ⏩ [Bro thought he was tough](http://9gag.com/gag/adBDLxM)
+ - 👉 [`she can carry up to 8 males` sounds like my ex](http://9gag.com/gag/aW43Y66)<!-- MEMES:END -->
 
 ---
 
