@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Manbun hero](http://9gag.com/gag/aKGojzQ)
- - ⏩ [Jason Statham Impression...](http://9gag.com/gag/a5Q0MMN)
+ - 💣 [Jason Statham Impression...](http://9gag.com/gag/a5Q0MMN)
+ - ⏩ [The moment when the Artemis II capsule was opened after coming back to earth.](http://9gag.com/gag/amo4BO9)
  - 👉 [Designing Gothmogs face in LOTR](http://9gag.com/gag/a87x5y6)<!-- MEMES:END -->
 
 ---
