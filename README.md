@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)
- - ⏩ [Winona Ryder Distracted By Flying Pizzas](http://9gag.com/gag/apRZm1M)
- - 👉 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)<!-- MEMES:END -->
+ - 💣 [In case you ever wondered, this is what&#39;s left of Senegal&#39;s $6bn Wakanda project](http://9gag.com/gag/agmzYjx)
+ - ⏩ [Wolf fish still got that bite even after being caught](http://9gag.com/gag/a5Q0oXV)
+ - 👉 [Not gonna lie, I&#39;ll clapped both version too](http://9gag.com/gag/a34XKq1)<!-- MEMES:END -->
 
 ---
 
