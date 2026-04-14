@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new Windows app speeds up search on desktop](https://www.androidauthority.com/google-windows-app-global-availability-3657495/)
- - [Microsoft agrees to rent 30,000 Nvidia Vera Rubin chips from Nscale at a site in Norway that was initially intended for OpenAI and marketed as part of Stargate &lpar;Bloomberg&rpar;](http://www.techmeme.com/260414/p31#a260414p31)
- - [The attacks on Sam Altman are a warning for the AI world](https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home)<!-- TECH:END -->
+ - [Samsung quietly hikes prices for Galaxy tablets and foldables in the US](https://www.androidauthority.com/samsung-us-price-hikes-april-2026-3657418/)
+ - [Bogus crypto wallet on App Store steals $9.5M](https://appleinsider.com/articles/26/04/14/bogus-crypto-wallet-on-app-store-steals-95m?utm_source=rss)
+ - [Source: Anthropic is preparing to release Claude Opus 4.7, along with a new AI-powered tool for designing websites and presentations, as soon as this week &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/260414/p34#a260414p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
