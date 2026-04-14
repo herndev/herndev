@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prime Lana](http://9gag.com/gag/aAyz3vd)
- - ⏩ [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
+ - 💣 [Guess which country this is coming from. Just one guess.](http://9gag.com/gag/aYQX4y0)
+ - ⏩ [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)
  - 👉 [Manbun hero](http://9gag.com/gag/aKGojzQ)<!-- MEMES:END -->
 
 ---
