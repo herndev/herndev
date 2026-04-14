@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pillar, which helps businesses driven by commodities, like metals, manage financial risk, raised a $20M seed led by a16z, bringing its total funding to $23M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260414/p26#a260414p26)
- - [The world’s oldest art, now in 6K IMAX](https://www.theverge.com/entertainment/911678/werner-herzog-cave-forgotten-dreams-imax)
- - [Sygaldry, which wants to design AI data center servers that integrate quantum hardware and classical chips, raised a $34M seed and a $105M Series A &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/260414/p25#a260414p25)<!-- TECH:END -->
+ - [Google launches Skills, repeatable AI prompts users can run in Chrome with a keyboard shortcut; users can set up their own Skills or choose from 50+ presets &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/260414/p29#a260414p29)
+ - [With Amazon’s latest acquisition, Starlink may soon have a real competitor on its hands](https://www.androidauthority.com/amazon-starlink-competitor-3657443/)
+ - [Google&amp;#8217;s Spotlight-like desktop search bar for Windows is available for everyone](https://www.theverge.com/tech/911741/google-windows-app-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
