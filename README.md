@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess which country this is coming from. Just one guess.](http://9gag.com/gag/aYQX4y0)
- - ⏩ [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)
- - 👉 [Manbun hero](http://9gag.com/gag/aKGojzQ)<!-- MEMES:END -->
+ - 💣 [In case you ever wondered, this is what&#39;s left of Senegal&#39;s $6bn Wakanda project](http://9gag.com/gag/agmzYjx)
+ - ⏩ [New York City](http://9gag.com/gag/a6ZYOnb)
+ - 👉 [Prime Lana](http://9gag.com/gag/aAyz3vd)<!-- MEMES:END -->
 
 ---
 
