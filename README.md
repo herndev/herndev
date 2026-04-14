@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini in Google Home is getting a whole lot better at understanding you](https://www.androidauthority.com/gemini-home-understand-3657160/)
- - [Sonos Play review: Sonos is back with the Goldilocks of portable speakers](https://appleinsider.com/articles/26/04/14/sonos-play-review-sonos-is-back-with-the-goldilocks-of-portable-speakers?utm_source=rss)
- - [What Is Earthshine? How to Spot the Lunar Marvel in the Skies This Week](https://www.cnet.com/science/space/what-is-earthshine-best-time-to-see-it/)<!-- TECH:END -->
+ - [Regulators in Europe were largely left out of the loop as Anthropic limited the release of its latest model Mythos to select companies and organizations &lpar;Politico&rpar;](http://www.techmeme.com/260413/p35#a260413p35)
+ - [Huawei Teases a Wider Foldable, and the Timing Feels Very Apple-Adjacent](https://www.cnet.com/tech/mobile/huawei-pura-x-max-chinese-iphone-fold-competitor/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 14, #568](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-14-568/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
