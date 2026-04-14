@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)
- - ⏩ [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)
- - 👉 [Stop biting my horsie](http://9gag.com/gag/aGy4emw)<!-- MEMES:END -->
+ - 💣 [Not gonna lie, I&#39;ll clapped both version too](http://9gag.com/gag/a34XKq1)
+ - ⏩ [Guess which country this is coming from. Just one guess.](http://9gag.com/gag/aYQX4y0)
+ - 👉 [Tribal diplomancy](http://9gag.com/gag/aW43qYx)<!-- MEMES:END -->
 
 ---
 
