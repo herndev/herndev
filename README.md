@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My disappointment is immeasurable: This world-first dual-screen phone isn’t what I expected](https://www.androidauthority.com/dual-screen-phone-launch-e-ink-3657274/)
- - [Amazon agrees to buy satellite operator Globalstar, set to close in 2027, to expand Leo; Amazon and Apple agree for Leo to power some iPhone and Watch services &lpar;About Amazon&rpar;](http://www.techmeme.com/260414/p11#a260414p11)
- - [EV maker Lucid says Uber agreed to buy 35K+ additional Lucid vehicles for its robotaxi fleet and invest $200M, taking its total investments in Lucid to $500M &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/260414/p10#a260414p10)<!-- TECH:END -->
+ - [Polymarket is auditing its Builders Program, which gives up to $2.5M in grants, after concerns that some participating startups are facilitating insider trading &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/260414/p14#a260414p14)
+ - [Oura takes ring data into the doctor’s office with its latest partnership](https://www.androidauthority.com/oura-vida-health-partnership-3657238/)
+ - [The heist of iOS 26](https://www.theverge.com/tech/908476/jon-prosser-apple-liquid-glass)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
