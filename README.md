@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar Animators Speak Out After Leaked Movie Circulates Online: ‘Pirating The Movie After Its Release Would Have Been Better Than This’](https://kotaku.com/avatar-aang-last-airbender-movie-leak-full-pirating-2000687848)
- - [Supergiant drops a Hades 2 patch with a bunch of new dialogue, better romances, and buffs to the game&#39;s weakest god](https://www.pcgamer.com/games/roguelike/supergiant-drops-a-hades-2-patch-with-a-bunch-of-new-dialogue-better-romances-and-buffs-to-the-games-weakest-god/)
- - [The best movie to watch right now is a 10-year-old punk rock thriller](https://www.polygon.com/green-room-10-years-ago-anton-yelchin-jeremy-saulnier/)<!-- GAME:END -->
+ - [Crimson Desert hits major sales milestone with new updates promised](https://www.polygon.com/crimson-desert-sales-new-game-updates/)
+ - [Cybersecurity experts raise the alarm over Windows Recall again: &#39;The vault door is titanium. The wall next to it is drywall&#39;](https://www.pcgamer.com/software/security/cybersecurity-experts-raise-the-alarm-over-windows-recall-again-the-vault-door-is-titanium-the-wall-next-to-it-is-drywall/)
+ - [Who is Maxima, Superman Man of Tomorrow&#39;s newest character?](https://www.polygon.com/adria-arjona-superman-2-maxima-dc-character/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
