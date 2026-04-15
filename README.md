@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of BusPatrol, whose AI-powered cameras on 35K+ school buses in 24 US states record vehicles passing illegally, claiming they help reduce violations &lpar;Byard Duncan/Bloomberg&rpar;](http://www.techmeme.com/260414/p55#a260414p55)
- - [Google rolls out April Android Canary build with experimental features for Pixel devices](https://www.androidauthority.com/android-canary-april-2026-update-3657604/)
- - [Mouse: P.I. For Hire Review: A Competent Shooter Oozing With Cartoon Charm](https://www.cnet.com/tech/gaming/mouse-p-i-for-hire-review-a-competent-shooter-oozing-with-cartoon-charm/)<!-- TECH:END -->
+ - [Google DeepMind introduces Gemini Robotics-ER 1.6 robotic reasoning model, says it shows significant spatial and physical reasoning improvements over ER 1.5 &lpar;Google DeepMind&rpar;](http://www.techmeme.com/260415/p4#a260415p4)
+ - [Sources: ahead of US midterms, Democrats have been advised not to antagonize a ~$300M pro-AI lobby; internal polling shows broad support for tougher AI rules &lpar;Financial Times&rpar;](http://www.techmeme.com/260415/p3#a260415p3)
+ - [The US just made an exception to its sweeping Wi-Fi router ban, and it’s a big one](https://www.androidauthority.com/us-wi-fi-router-ban-conditional-approval-3657616/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
