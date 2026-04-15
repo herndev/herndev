@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: nearly 90 schools and 600 students globally have been impacted by AI-generated deepfake nudes; North America had nearly 30 reported cases since 2023 &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/260415/p17#a260415p17)
- - [Android Auto users say Gemini won’t stop talking, and it’s not even getting things right](https://www.androidauthority.com/android-auto-gemini-problems-3657698/)
- - [The Caves That Could Help Us Find, or Become, Aliens](https://www.wired.com/story/the-caves-that-could-help-us-find-or-become-aliens/)<!-- TECH:END -->
+ - [Trading firm Jane Street takes an additional $1B stake in CoreWeave, and plans to spend ~$6B to access CoreWeave&#39;s Vera Rubin chips to build and deploy AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/260415/p19#a260415p19)
+ - [12 Best Standing Desks of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)
+ - [The new Tomodachi Life is made to be shared — even if Nintendo doesn’t want you to](https://www.theverge.com/entertainment/911950/tomodachi-life-living-the-dream-review-nintendo-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
