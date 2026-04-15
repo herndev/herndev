@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches a Gemini AI app on Mac](https://www.theverge.com/tech/912638/google-gemini-mac-app)
- - [Microsoft counters the MacBook Neo with freebies for students](https://www.theverge.com/news/912639/microsoft-counters-the-macbook-neo-with-freebies-for-students)
- - [AI Could Democratize One of Tech&#39;s Most Valuable Resources](https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/)<!-- TECH:END -->
+ - [Google Gemini Mac app focuses on speed over deep integration](https://appleinsider.com/articles/26/04/15/google-gemini-mac-app-focuses-on-speed-over-deep-integration?utm_source=rss)
+ - [Q&amp;A with Jensen Huang on Nvidia&#39;s supply chain moat, competition from ASICs like Google&#39;s TPU, investing in AI labs and neoclouds, selling to China, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/260415/p37#a260415p37)
+ - [Ticketmaster is an illegal monopoly, jury rules](https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
