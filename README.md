@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
- - ⏩ [For Gods sake Rebecca, that&#39;s disgusting](http://9gag.com/gag/a7oR3Rx)
- - 👉 [I think she can be a contender](http://9gag.com/gag/aAyz3E0)<!-- MEMES:END -->
+ - 💣 [I think she can be a contender](http://9gag.com/gag/aAyz3E0)
+ - ⏩ [Tetten](http://9gag.com/gag/aXP6x4b)
+ - 👉 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)<!-- MEMES:END -->
 
 ---
 
