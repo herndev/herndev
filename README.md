@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sebastian should, indeed, go to sleep. Some things one shoukd not witness.](http://9gag.com/gag/a9ygR0m)
- - ⏩ [Minimum wage stayed frozen while billionaire wealth went orbital](http://9gag.com/gag/avyK8eE)
- - 👉 [Dude lost the race but won the show](http://9gag.com/gag/aqyoKQZ)<!-- MEMES:END -->
+ - 💣 [Intresting question](http://9gag.com/gag/avyKzQd)
+ - ⏩ [Bro thought he was tough](http://9gag.com/gag/adBDLxM)
+ - 👉 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)<!-- MEMES:END -->
 
 ---
 
