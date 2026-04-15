@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Gemini Mac app focuses on speed over deep integration](https://appleinsider.com/articles/26/04/15/google-gemini-mac-app-focuses-on-speed-over-deep-integration?utm_source=rss)
- - [Q&amp;A with Jensen Huang on Nvidia&#39;s supply chain moat, competition from ASICs like Google&#39;s TPU, investing in AI labs and neoclouds, selling to China, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/260415/p37#a260415p37)
- - [Ticketmaster is an illegal monopoly, jury rules](https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict)<!-- TECH:END -->
+ - [A jury finds that Live Nation and Ticketmaster illegally maintained monopoly power in the ticketing market, in a case brought by state AGs after the DOJ settled &lpar;NBC News&rpar;](http://www.techmeme.com/260415/p39#a260415p39)
+ - [Ford’s EV and software chief Doug Field is leaving the company](https://www.theverge.com/transportation/912647/ford-doug-field-leaving-ev-software)
+ - [Whitelisted: Which router manufacturers aren&#39;t affected by FCC&#39;s ban](https://appleinsider.com/articles/26/04/15/whitelisted-which-router-manufacturers-arent-affected-by-fccs-ban?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
