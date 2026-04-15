@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with ElevenLabs co-founder Mati Staniszewski on how audio models work, the company&#39;s business model, the conversational Turing Test, voice agents, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/260415/p9#a260415p9)
- - [Asia&#39;s startup funding rose 93% YoY to $27.4B in Q1, the highest quarterly total in 3+ years, with Chinese startups raising $16.5B and Indian startups $3.8B &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/260415/p8#a260415p8)
- - [Apple endorses the ~$11.6B Amazon-Globalstar deal, citing a &quot;proven track record&quot; with Amazon infrastructure; Apple holds a ~20% stake in Globalstar &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260415/p7#a260415p7)<!-- TECH:END -->
+ - [Your Galaxy phone could lose a key Samsung Wallet feature if you don’t update Play Services](https://www.androidauthority.com/samsung-wallet-digital-key-update-3657639/)
+ - [PitchBook: US growth and late-stage venture funds raised $23.6B YTD, up from $7.4B in 2025 and above the totals for any of the past 12 years, amid the AI boom &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/260415/p10#a260415p10)
+ - [Q&amp;A with ElevenLabs co-founder Mati Staniszewski on how audio models work, the company&#39;s business model, the conversational Turing Test, voice agents, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/260415/p9#a260415p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
