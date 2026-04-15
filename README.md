@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s &#39;AI coding bootcamp&#39; could help its engineers make a better Siri with AI](https://appleinsider.com/articles/26/04/15/apples-ai-coding-bootcamp-could-help-its-engineers-make-a-better-siri-with-ai?utm_source=rss)
- - [Objection, which aims to use AI and experts to evaluate claims in news stories, debuts with funding from Peter Thiel, Balaji Srinivasan; evaluations cost $2,000 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260415/p41#a260415p41)
- - [NY-based Auctor, which uses AI to curate resource plans and process flows to help companies adopt new software, raised $20M in a combined seed and Series A &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260415/p40#a260415p40)<!-- TECH:END -->
+ - [Filings: Caterpillar acquires self-driving electric tractor startup Monarch Tractor&#39;s assets, after it raised $200M+ and struggled to pivot to software services &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260415/p44#a260415p44)
+ - [Microsoft counters the MacBook Neo with freebies for students](https://www.theverge.com/news/912262/microsoft-macbook-neo-response-college-offer-free-subscriptions)
+ - [Improbable Visa &amp; iPhone loophole leads to Apple Pay heist that&#39;ll never happen to you](https://appleinsider.com/articles/26/04/15/improbable-visa-iphone-loophole-leads-to-apple-pay-heist-thatll-never-happen-to-you?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
