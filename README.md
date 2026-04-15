@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think she can be a contender](http://9gag.com/gag/aAyz3E0)
- - ⏩ [It all makes sense now](http://9gag.com/gag/aqyonZ7)
- - 👉 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)<!-- MEMES:END -->
+ - 💣 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)
+ - ⏩ [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)
+ - 👉 [Intresting question](http://9gag.com/gag/avyKzQd)<!-- MEMES:END -->
 
 ---
 
