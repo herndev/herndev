@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stalker 2 just got a free pre-DLC to gird you for its first actual DLC](https://www.pcgamer.com/games/fps/stalker-2-just-got-a-free-pre-dlc-to-gird-you-for-its-first-actual-dlc/)
- - [You can now add &#39;playing pool&#39; to the list of Lovecraftian horrors that will drive you insane, thanks to this bizarre roguelike that&#39;s got me shooting dead fish and vomiting upgrades](https://www.pcgamer.com/games/roguelike/you-can-now-add-playing-pool-to-the-list-of-lovecraftian-horrors-that-will-drive-you-insane-thanks-to-this-bizarre-roguelike-thats-got-me-shooting-dead-fish-and-vomiting-upgrades/)
- - [Four New Images Of Spider-Man: Beyond The Spider-Verse Hint At What We Can Expect](https://kotaku.com/spider-man-beyond-spider-verse-cinemacon-miles-morales-2000687489)<!-- GAME:END -->
+ - [Lee Pace reveals how he got into character as Invincible season 4&#39;s big villain](https://www.polygon.com/lee-pace-invincible-thragg-interview/)
+ - [Giving Graveyard Keeper away for free apparently earned its publisher &#39;almost 250k&#39;](https://www.pcgamer.com/games/sim/giving-graveyard-keeper-away-for-free-apparently-earned-its-publisher-almost-250k/)
+ - [The director of sandbox vampire RPG The Blood of Dawnwalker doesn&#39;t mind seeing it compared to The Witcher 3, which he also directed: &#39;I feel really confident about our game&#39;](https://www.pcgamer.com/games/rpg/the-director-of-sandbox-vampire-rpg-the-blood-of-dawnwalker-doesnt-mind-seeing-it-compared-to-the-witcher-3-which-he-also-directed-i-feel-really-confident-about-our-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
