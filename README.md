@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Surprising MacBook Neo Competitor You&#39;ve Never Heard Of](https://www.wired.com/story/hp-omnibook-5-deal-0426-1/)
- - [Anthropic recently changed Claude Enterprise pricing; customers now pay $20/month per user plus consumption-based charges, instead of a fixed subscription &lpar;The Information&rpar;](http://www.techmeme.com/260414/p44#a260414p44)
- - [Microsoft&amp;#8217;s finally giving up on its massive Surface Hub touchscreen displays](https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued)<!-- TECH:END -->
+ - [Sources: Anthropic has fielded multiple offers from VCs valuing the company at as much as $800B in recent weeks; it was valued at $380B in February &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/260414/p48#a260414p48)
+ - [In a letter to senators in January, Apple said it notified X that Grok could be removed from the App Store over Grok&#39;s ability to generate sexualized deepfakes &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/260414/p47#a260414p47)
+ - [Uber CTO Praveen Neppalli Naga says the company&#39;s surging use of AI coding tools has maxed out its full-year AI budget just a few months into 2026 &lpar;Laura Bratton/The Information&rpar;](http://www.techmeme.com/260414/p46#a260414p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
