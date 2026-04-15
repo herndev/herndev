@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)
- - ⏩ [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
- - 👉 [Intresting question](http://9gag.com/gag/avyKzQd)<!-- MEMES:END -->
+ - 💣 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
+ - ⏩ [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
+ - 👉 [These ancient pictographs depicting the same creature were discovered in three different places across the world.](http://9gag.com/gag/ajPemm0)<!-- MEMES:END -->
 
 ---
 
