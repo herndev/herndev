@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s latest Fire TV Stick is perfect for hotel TVs](https://www.androidauthority.com/amazon-fire-tv-stick-hd-2026-3657800/)
- - [A survey of US teens: ~90% say entertainment is a reason they use TikTok, Instagram, or Snapchat, 57% Snapchat message daily, and 37% say TikTok impacts sleep &lpar;Pew Research Center&rpar;](http://www.techmeme.com/260415/p28#a260415p28)
- - [Adobe announces Firefly AI Assistant as it expands into agentic AI tools](https://appleinsider.com/articles/26/04/15/adobe-announces-firefly-ai-assistant-as-it-expands-into-agentic-ai-tools?utm_source=rss)<!-- TECH:END -->
+ - [Hilbert, whose AI software connects data across teams to help companies make decisions from a single system, raised a $28M Series A led by a16z &lpar;Madison Mills/Axios&rpar;](http://www.techmeme.com/260415/p29#a260415p29)
+ - [MAGA Is Starting to Look Beyond Trump](https://www.wired.com/story/maga-is-starting-to-look-beyond-trump/)
+ - [Allbirds Is Pivoting to AI Compute. Sure, Why Not](https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
