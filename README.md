@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini could soon act more like a coworker than a chatbot](https://www.androidauthority.com/gemini-agents-workspace-spotted-in-testing-3657677/)
- - [Snapdragon 8 Elite Gen 6 leak suggests you might not really want the Pro variant](https://www.androidauthority.com/more-snapdragon-8-elite-gen-6-specs-leak-3657630/)
- - [Google Home is missing the one feature every smart home needs — so I built it myself](https://www.androidauthority.com/google-home-guest-access-smart-home-3656804/)<!-- TECH:END -->
+ - [Walmart’s budget Google TV streamer hits store shelves for $60 ahead of launch](https://www.androidauthority.com/onn-4k-pro-streaming-box-2026-early-impressions-3657674/)
+ - [A US judge issues a $322.2M judgment against pirate library Anna&#39;s Archive for scraping Spotify, a largely symbolic victory as the site is anonymously operated &lpar;Rachel Scharf/Billboard&rpar;](http://www.techmeme.com/260415/p13#a260415p13)
+ - [Sources: SoftBank invites more banks to join its $40B loan backing its OpenAI investment, requiring them to commit ~$5B each; SoftBank has already invested $30B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260415/p12#a260415p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
