@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Galaxy phone could lose a key Samsung Wallet feature if you don’t update Play Services](https://www.androidauthority.com/samsung-wallet-digital-key-update-3657639/)
- - [PitchBook: US growth and late-stage venture funds raised $23.6B YTD, up from $7.4B in 2025 and above the totals for any of the past 12 years, amid the AI boom &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/260415/p10#a260415p10)
- - [Q&amp;A with ElevenLabs co-founder Mati Staniszewski on how audio models work, the company&#39;s business model, the conversational Turing Test, voice agents, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/260415/p9#a260415p9)<!-- TECH:END -->
+ - [Gemini could soon act more like a coworker than a chatbot](https://www.androidauthority.com/gemini-agents-workspace-spotted-in-testing-3657677/)
+ - [Snapdragon 8 Elite Gen 6 leak suggests you might not really want the Pro variant](https://www.androidauthority.com/more-snapdragon-8-elite-gen-6-specs-leak-3657630/)
+ - [Google Home is missing the one feature every smart home needs — so I built it myself](https://www.androidauthority.com/google-home-guest-access-smart-home-3656804/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
