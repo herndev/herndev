@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)
- - ⏩ [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)
+ - 💣 [Tetten](http://9gag.com/gag/aXP6x4b)
+ - ⏩ [Bro thought he was tough](http://9gag.com/gag/adBDLxM)
  - 👉 [Wolf fish still got that bite even after being caught](http://9gag.com/gag/a5Q0oXV)<!-- MEMES:END -->
 
 ---
