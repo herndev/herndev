@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Allbirds announced a switch from shoes to AI and its stock jumped 600 percent](https://www.theverge.com/news/912484/allbirds-ai-hyperscale)
- - [Another rival is coming for Google over its app store practices](https://www.androidauthority.com/aptoide-app-store-files-antitrust-lawsuit-against-google-3657826/)
- - [Cal.com, which provides scheduling software, is moving its core open-source codebase to a closed repository, citing the dangers of AI hacking its open code &lpar;Steven Vaughan-Nichols/ZDNET&rpar;](http://www.techmeme.com/260415/p32#a260415p32)<!-- TECH:END -->
+ - [Best Buy’s Ultimate Upgrade Sale features deals on dozens of our favorite gadgets](https://www.theverge.com/gadgets/911853/best-buy-ultimate-upgrade-sale-2026-tech-deals-apple)
+ - [Deal: Save a record 42% on the Sennheiser HD 620S headphones](https://www.androidauthority.com/sennheiser-hd-620s-headphones-deal-3657860/)
+ - [The Senate is voting to save free IRS Direct File today](https://www.theverge.com/policy/912490/irs-direct-file-senate-vote)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
