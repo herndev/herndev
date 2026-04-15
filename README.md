@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)
- - ⏩ [`she can carry up to 8 males` sounds like my ex](http://9gag.com/gag/aW43Y66)
- - 👉 [Tetten](http://9gag.com/gag/aXP6x4b)<!-- MEMES:END -->
+ - 💣 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
+ - ⏩ [For Gods sake Rebecca, that&#39;s disgusting](http://9gag.com/gag/a7oR3Rx)
+ - 👉 [I think she can be a contender](http://9gag.com/gag/aAyz3E0)<!-- MEMES:END -->
 
 ---
 
