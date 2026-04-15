@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
- - ⏩ [Tetten](http://9gag.com/gag/aXP6x4b)
- - 👉 [For Gods sake Rebecca, that&#39;s disgusting](http://9gag.com/gag/a7oR3Rx)<!-- MEMES:END -->
+ - 💣 [Skills vs degree, a timeless debate with a crypto twist](http://9gag.com/gag/a9ygKN0)
+ - ⏩ [The moment when the Artemis II capsule was opened after coming back to earth.](http://9gag.com/gag/amo4BO9)
+ - 👉 [Bed Bath e Beyond](http://9gag.com/gag/aW43Ey3)<!-- MEMES:END -->
 
 ---
 
