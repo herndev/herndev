@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hilbert, whose AI software connects data across teams to help companies make decisions from a single system, raised a $28M Series A led by a16z &lpar;Madison Mills/Axios&rpar;](http://www.techmeme.com/260415/p29#a260415p29)
- - [MAGA Is Starting to Look Beyond Trump](https://www.wired.com/story/maga-is-starting-to-look-beyond-trump/)
- - [Allbirds Is Pivoting to AI Compute. Sure, Why Not](https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/)<!-- TECH:END -->
+ - [Allbirds announced a switch from shoes to AI and its stock jumped 600 percent](https://www.theverge.com/news/912484/allbirds-ai-hyperscale)
+ - [Another rival is coming for Google over its app store practices](https://www.androidauthority.com/aptoide-app-store-files-antitrust-lawsuit-against-google-3657826/)
+ - [Cal.com, which provides scheduling software, is moving its core open-source codebase to a closed repository, citing the dangers of AI hacking its open code &lpar;Steven Vaughan-Nichols/ZDNET&rpar;](http://www.techmeme.com/260415/p32#a260415p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
