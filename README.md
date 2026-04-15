@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
- - ⏩ [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
- - 👉 [These ancient pictographs depicting the same creature were discovered in three different places across the world.](http://9gag.com/gag/ajPemm0)<!-- MEMES:END -->
+ - 💣 [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)
+ - ⏩ [Nice use of perspect\u2026](http://9gag.com/gag/a9ygn76)
+ - 👉 [It all makes sense now](http://9gag.com/gag/aqyonZ7)<!-- MEMES:END -->
 
 ---
 
