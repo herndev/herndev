@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia spent 1003% more on warranty claims in 2025 than the year before according to a new report, with the total cost almost reaching $900 million](https://www.pcgamer.com/hardware/graphics-cards/nvidia-spent-1003-percent-more-on-warranty-claims-in-2025-than-the-year-before-according-to-a-new-report-with-the-total-cost-almost-reaching-usd900-million/)
- - [After making Mythic+ slightly too easy in World of Warcraft: Midnight, Blizzard&#39;s adding new high-end rewards for the sweats](https://www.pcgamer.com/games/world-of-warcraft/after-making-mythic-slightly-too-easy-in-world-of-warcraft-midnight-blizzards-adding-new-high-end-rewards-for-the-sweats/)
- - [Avatar: Aang, The Last Airbender footage leak confirms the movie deserves to be released in theaters](https://www.polygon.com/avatar-aang-the-last-airbender-footage-leak-release-theaters/)<!-- GAME:END -->
+ - [Avatar Animators Speak Out After Leaked Movie Circulates Online: ‘Pirating The Movie After Its Release Would Have Been Better Than This’](https://kotaku.com/avatar-aang-last-airbender-movie-leak-full-pirating-2000687848)
+ - [Supergiant drops a Hades 2 patch with a bunch of new dialogue, better romances, and buffs to the game&#39;s weakest god](https://www.pcgamer.com/games/roguelike/supergiant-drops-a-hades-2-patch-with-a-bunch-of-new-dialogue-better-romances-and-buffs-to-the-games-weakest-god/)
+ - [The best movie to watch right now is a 10-year-old punk rock thriller](https://www.polygon.com/green-room-10-years-ago-anton-yelchin-jeremy-saulnier/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
