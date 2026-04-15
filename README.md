@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
- - ⏩ [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)
- - 👉 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)<!-- MEMES:END -->
+ - 💣 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
+ - ⏩ [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
+ - 👉 [Prime Lana](http://9gag.com/gag/aAyz3vd)<!-- MEMES:END -->
 
 ---
 
