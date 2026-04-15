@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: at least two US federal agencies and three congressional committees have reached out to Anthropic to test Claude Mythos, quietly bypassing Trump&#39;s ban &lpar;Politico&rpar;](http://www.techmeme.com/260414/p54#a260414p54)
- - [How some mathematicians are exploring ways to incorporate LLM models into their research without losing direct experience with mathematical understanding &lpar;Konstantin Kakaes/Quanta Magazine&rpar;](http://www.techmeme.com/260414/p53#a260414p53)
- - [Grok nonconsensual pornographic deepfakes almost led to an App Store ban](https://appleinsider.com/articles/26/04/15/grok-nonconsensual-pornographic-deepfakes-almost-led-to-an-app-store-ban?utm_source=rss)<!-- TECH:END -->
+ - [A profile of BusPatrol, whose AI-powered cameras on 35K+ school buses in 24 US states record vehicles passing illegally, claiming they help reduce violations &lpar;Byard Duncan/Bloomberg&rpar;](http://www.techmeme.com/260414/p55#a260414p55)
+ - [Google rolls out April Android Canary build with experimental features for Pixel devices](https://www.androidauthority.com/android-canary-april-2026-update-3657604/)
+ - [Mouse: P.I. For Hire Review: A Competent Shooter Oozing With Cartoon Charm](https://www.cnet.com/tech/gaming/mouse-p-i-for-hire-review-a-competent-shooter-oozing-with-cartoon-charm/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
