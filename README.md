@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)
- - ⏩ [Nice use of perspect\u2026](http://9gag.com/gag/a9ygn76)
- - 👉 [It all makes sense now](http://9gag.com/gag/aqyonZ7)<!-- MEMES:END -->
+ - 💣 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
+ - ⏩ [Hey cap](http://9gag.com/gag/ary7GmB)
+ - 👉 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)<!-- MEMES:END -->
 
 ---
 
