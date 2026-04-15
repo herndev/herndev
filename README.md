@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Omdia: Facebook, Instagram, YouTube, and TikTok now capture over 90% of social media ad revenue, with Meta accounting for 70% of the total &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/260414/p51#a260414p51)
- - [Journey Summit Ultra 3-in-1 Wireless Charging Station review: sleek, speedy, and expensive](https://appleinsider.com/articles/26/04/15/journey-summit-ultra-3-in-1-wireless-charging-station-review-sleek-speedy-and-expensive?utm_source=rss)
- - [Mintlify, which uses AI to help companies generate software documentation, raised a $45M Series B led by a16z and Salesforce Ventures at a $500M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/260414/p50#a260414p50)<!-- TECH:END -->
+ - [Sources: at least two US federal agencies and three congressional committees have reached out to Anthropic to test Claude Mythos, quietly bypassing Trump&#39;s ban &lpar;Politico&rpar;](http://www.techmeme.com/260414/p54#a260414p54)
+ - [How some mathematicians are exploring ways to incorporate LLM models into their research without losing direct experience with mathematical understanding &lpar;Konstantin Kakaes/Quanta Magazine&rpar;](http://www.techmeme.com/260414/p53#a260414p53)
+ - [Grok nonconsensual pornographic deepfakes almost led to an App Store ban](https://appleinsider.com/articles/26/04/15/grok-nonconsensual-pornographic-deepfakes-almost-led-to-an-app-store-ban?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
