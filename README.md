@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)
- - ⏩ [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)
- - 👉 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)<!-- MEMES:END -->
+ - 💣 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
+ - ⏩ [Tetten](http://9gag.com/gag/aXP6x4b)
+ - 👉 [For Gods sake Rebecca, that&#39;s disgusting](http://9gag.com/gag/a7oR3Rx)<!-- MEMES:END -->
 
 ---
 
