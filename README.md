@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crimson Desert hits major sales milestone with new updates promised](https://www.polygon.com/crimson-desert-sales-new-game-updates/)
- - [Cybersecurity experts raise the alarm over Windows Recall again: &#39;The vault door is titanium. The wall next to it is drywall&#39;](https://www.pcgamer.com/software/security/cybersecurity-experts-raise-the-alarm-over-windows-recall-again-the-vault-door-is-titanium-the-wall-next-to-it-is-drywall/)
- - [Who is Maxima, Superman Man of Tomorrow&#39;s newest character?](https://www.polygon.com/adria-arjona-superman-2-maxima-dc-character/)<!-- GAME:END -->
+ - [New Lego Star Wars set is the ultimate Mandalorian Starfighter build](https://www.polygon.com/lego-star-wars-mandalorian-n1-starfighter-set-release-date-price/)
+ - [Daredevil: Born Again star explains that shocking departure and Kingpin connections](https://www.polygon.com/daredevil-born-ayelet-zurer-interview/)
+ - [The Boys is &#39;more realistic than we ever intended&#39; says creator as Trump beefs with the Pope](https://www.polygon.com/the-boys-showrunner-trump-jesus-interview/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
