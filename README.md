@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify now offers TV-style recaps for audiobooks](https://www.androidauthority.com/spotify-audiobooks-recaps-features-3657756/)
- - [Best Smart Smoke Detector &lpar;and Why You Still Need a Dumb One&rpar;](https://www.wired.com/story/should-smoke-alarms-be-smart/)
- - [Accel raised $5B, including a $4B Leaders fund, focused on writing large checks to late-stage startups globally, and a $650M sidecar fund, taking AUM to $36B &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260415/p22#a260415p22)<!-- TECH:END -->
+ - [Amazon’s latest Fire TV Stick is perfect for hotel TVs](https://www.androidauthority.com/amazon-fire-tv-stick-hd-2026-3657800/)
+ - [A survey of US teens: ~90% say entertainment is a reason they use TikTok, Instagram, or Snapchat, 57% Snapchat message daily, and 37% say TikTok impacts sleep &lpar;Pew Research Center&rpar;](http://www.techmeme.com/260415/p28#a260415p28)
+ - [Adobe announces Firefly AI Assistant as it expands into agentic AI tools](https://appleinsider.com/articles/26/04/15/adobe-announces-firefly-ai-assistant-as-it-expands-into-agentic-ai-tools?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
