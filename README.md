@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind introduces Gemini Robotics-ER 1.6 robotic reasoning model, says it shows significant spatial and physical reasoning improvements over ER 1.5 &lpar;Google DeepMind&rpar;](http://www.techmeme.com/260415/p4#a260415p4)
- - [Sources: ahead of US midterms, Democrats have been advised not to antagonize a ~$300M pro-AI lobby; internal polling shows broad support for tougher AI rules &lpar;Financial Times&rpar;](http://www.techmeme.com/260415/p3#a260415p3)
- - [The US just made an exception to its sweeping Wi-Fi router ban, and it’s a big one](https://www.androidauthority.com/us-wi-fi-router-ban-conditional-approval-3657616/)<!-- TECH:END -->
+ - [Cropping images just got better in Google Photos](https://www.androidauthority.com/google-photos-better-cropping-3657622/)
+ - [ASML reports Q1 net sales of €8.8B, vs. €8.5B est., and €2.8B net profit, vs. €2.5B est., and raises 2026 net sales forecast to €36B-€40B from €34B-€39B &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/260415/p6#a260415p6)
+ - [Sources and analyst estimates: Uber is on track to spend $7.5B+ on buying robotaxis and $2.5B+ on equity stakes in their makers over the next few years &lpar;Financial Times&rpar;](http://www.techmeme.com/260415/p5#a260415p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
