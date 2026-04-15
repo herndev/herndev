@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Intresting question](http://9gag.com/gag/avyKzQd)
- - ⏩ [Bro thought he was tough](http://9gag.com/gag/adBDLxM)
- - 👉 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)<!-- MEMES:END -->
+ - 💣 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
+ - ⏩ [I think she can be a contender](http://9gag.com/gag/aAyz3E0)
+ - 👉 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)<!-- MEMES:END -->
 
 ---
 
