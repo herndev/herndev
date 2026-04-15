@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trading firm Jane Street takes an additional $1B stake in CoreWeave, and plans to spend ~$6B to access CoreWeave&#39;s Vera Rubin chips to build and deploy AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/260415/p19#a260415p19)
- - [12 Best Standing Desks of 2026, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)
- - [The new Tomodachi Life is made to be shared — even if Nintendo doesn’t want you to](https://www.theverge.com/entertainment/911950/tomodachi-life-living-the-dream-review-nintendo-switch)<!-- TECH:END -->
+ - [Spotify now offers TV-style recaps for audiobooks](https://www.androidauthority.com/spotify-audiobooks-recaps-features-3657756/)
+ - [Best Smart Smoke Detector &lpar;and Why You Still Need a Dumb One&rpar;](https://www.wired.com/story/should-smoke-alarms-be-smart/)
+ - [Accel raised $5B, including a $4B Leaders fund, focused on writing large checks to late-stage startups globally, and a $650M sidecar fund, taking AUM to $36B &lpar;Rebecca Torrence/Bloomberg&rpar;](http://www.techmeme.com/260415/p22#a260415p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
