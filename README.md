@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic has fielded multiple offers from VCs valuing the company at as much as $800B in recent weeks; it was valued at $380B in February &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/260414/p48#a260414p48)
- - [In a letter to senators in January, Apple said it notified X that Grok could be removed from the App Store over Grok&#39;s ability to generate sexualized deepfakes &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/260414/p47#a260414p47)
- - [Uber CTO Praveen Neppalli Naga says the company&#39;s surging use of AI coding tools has maxed out its full-year AI budget just a few months into 2026 &lpar;Laura Bratton/The Information&rpar;](http://www.techmeme.com/260414/p46#a260414p46)<!-- TECH:END -->
+ - [Omdia: Facebook, Instagram, YouTube, and TikTok now capture over 90% of social media ad revenue, with Meta accounting for 70% of the total &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/260414/p51#a260414p51)
+ - [Journey Summit Ultra 3-in-1 Wireless Charging Station review: sleek, speedy, and expensive](https://appleinsider.com/articles/26/04/15/journey-summit-ultra-3-in-1-wireless-charging-station-review-sleek-speedy-and-expensive?utm_source=rss)
+ - [Mintlify, which uses AI to help companies generate software documentation, raised a $45M Series B led by a16z and Salesforce Ventures at a $500M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/260414/p50#a260414p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
