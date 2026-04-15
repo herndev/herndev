@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tetten](http://9gag.com/gag/aXP6x4b)
- - ⏩ [Bro thought he was tough](http://9gag.com/gag/adBDLxM)
- - 👉 [Wolf fish still got that bite even after being caught](http://9gag.com/gag/a5Q0oXV)<!-- MEMES:END -->
+ - 💣 [Bro thought he was tough](http://9gag.com/gag/adBDLxM)
+ - ⏩ [`she can carry up to 8 males` sounds like my ex](http://9gag.com/gag/aW43Y66)
+ - 👉 [Tetten](http://9gag.com/gag/aXP6x4b)<!-- MEMES:END -->
 
 ---
 
