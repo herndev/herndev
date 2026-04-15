@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I think she can be a contender](http://9gag.com/gag/aAyz3E0)
- - ⏩ [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
- - 👉 [Some people](http://9gag.com/gag/aGy4d76)<!-- MEMES:END -->
+ - 💣 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)
+ - ⏩ [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
+ - 👉 [Intresting question](http://9gag.com/gag/avyKzQd)<!-- MEMES:END -->
 
 ---
 
