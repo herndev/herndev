@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NY-based Auctor, which uses AI to curate resource plans and process flows to help companies adopt new software, raised $20M in a combined seed and Series A &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260415/p40#a260415p40)
- - [This midrange FE phone goes large on camera hardware with a telephoto zoom extender](https://www.androidauthority.com/vivo-x300-fe-global-launch-3657947/)
- - [TCL’s Tab A1 Plus is the cure we needed for rising tablet prices](https://www.androidauthority.com/tcl-tab-a1-plus-launch-3657914/)<!-- TECH:END -->
+ - [Apple&#39;s &#39;AI coding bootcamp&#39; could help its engineers make a better Siri with AI](https://appleinsider.com/articles/26/04/15/apples-ai-coding-bootcamp-could-help-its-engineers-make-a-better-siri-with-ai?utm_source=rss)
+ - [Objection, which aims to use AI and experts to evaluate claims in news stories, debuts with funding from Peter Thiel, Balaji Srinivasan; evaluations cost $2,000 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260415/p41#a260415p41)
+ - [NY-based Auctor, which uses AI to curate resource plans and process flows to help companies adopt new software, raised $20M in a combined seed and Series A &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260415/p40#a260415p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
