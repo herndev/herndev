@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The moment when the Artemis II capsule was opened after coming back to earth.](http://9gag.com/gag/amo4BO9)
- - ⏩ [The sun is basically screaming 24/7 and nasa actually recorded it](http://9gag.com/gag/awyWA8Q)
- - 👉 [Designing Gothmogs face in LOTR](http://9gag.com/gag/a87x5y6)<!-- MEMES:END -->
+ - 💣 [When your brakes fail and the only thing saving you is a bunch of gravel](http://9gag.com/gag/a87x5Gd)
+ - ⏩ [12 x 12 is 909,967](http://9gag.com/gag/aVvy3D8)
+ - 👉 [Wolf fish still got that bite even after being caught](http://9gag.com/gag/a5Q0oXV)<!-- MEMES:END -->
 
 ---
 
