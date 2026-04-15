@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lee Pace reveals how he got into character as Invincible season 4&#39;s big villain](https://www.polygon.com/lee-pace-invincible-thragg-interview/)
- - [Giving Graveyard Keeper away for free apparently earned its publisher &#39;almost 250k&#39;](https://www.pcgamer.com/games/sim/giving-graveyard-keeper-away-for-free-apparently-earned-its-publisher-almost-250k/)
- - [The director of sandbox vampire RPG The Blood of Dawnwalker doesn&#39;t mind seeing it compared to The Witcher 3, which he also directed: &#39;I feel really confident about our game&#39;](https://www.pcgamer.com/games/rpg/the-director-of-sandbox-vampire-rpg-the-blood-of-dawnwalker-doesnt-mind-seeing-it-compared-to-the-witcher-3-which-he-also-directed-i-feel-really-confident-about-our-game/)<!-- GAME:END -->
+ - [Nvidia spent 1003% more on warranty claims in 2025 than the year before according to a new report, with the total cost almost reaching $900 million](https://www.pcgamer.com/hardware/graphics-cards/nvidia-spent-1003-percent-more-on-warranty-claims-in-2025-than-the-year-before-according-to-a-new-report-with-the-total-cost-almost-reaching-usd900-million/)
+ - [After making Mythic+ slightly too easy in World of Warcraft: Midnight, Blizzard&#39;s adding new high-end rewards for the sweats](https://www.pcgamer.com/games/world-of-warcraft/after-making-mythic-slightly-too-easy-in-world-of-warcraft-midnight-blizzards-adding-new-high-end-rewards-for-the-sweats/)
+ - [Avatar: Aang, The Last Airbender footage leak confirms the movie deserves to be released in theaters](https://www.polygon.com/avatar-aang-the-last-airbender-footage-leak-release-theaters/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
