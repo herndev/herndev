@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy’s Ultimate Upgrade Sale features deals on dozens of our favorite gadgets](https://www.theverge.com/gadgets/911853/best-buy-ultimate-upgrade-sale-2026-tech-deals-apple)
- - [Deal: Save a record 42% on the Sennheiser HD 620S headphones](https://www.androidauthority.com/sennheiser-hd-620s-headphones-deal-3657860/)
- - [The Senate is voting to save free IRS Direct File today](https://www.theverge.com/policy/912490/irs-direct-file-senate-vote)<!-- TECH:END -->
+ - [Google launches a Gemini AI app on Mac](https://www.theverge.com/tech/912638/google-gemini-mac-app)
+ - [Microsoft counters the MacBook Neo with freebies for students](https://www.theverge.com/news/912639/microsoft-counters-the-macbook-neo-with-freebies-for-students)
+ - [AI Could Democratize One of Tech&#39;s Most Valuable Resources](https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
