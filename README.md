@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart’s budget Google TV streamer hits store shelves for $60 ahead of launch](https://www.androidauthority.com/onn-4k-pro-streaming-box-2026-early-impressions-3657674/)
- - [A US judge issues a $322.2M judgment against pirate library Anna&#39;s Archive for scraping Spotify, a largely symbolic victory as the site is anonymously operated &lpar;Rachel Scharf/Billboard&rpar;](http://www.techmeme.com/260415/p13#a260415p13)
- - [Sources: SoftBank invites more banks to join its $40B loan backing its OpenAI investment, requiring them to commit ~$5B each; SoftBank has already invested $30B &lpar;Bloomberg&rpar;](http://www.techmeme.com/260415/p12#a260415p12)<!-- TECH:END -->
+ - [Analysis: nearly 90 schools and 600 students globally have been impacted by AI-generated deepfake nudes; North America had nearly 30 reported cases since 2023 &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/260415/p17#a260415p17)
+ - [Android Auto users say Gemini won’t stop talking, and it’s not even getting things right](https://www.androidauthority.com/android-auto-gemini-problems-3657698/)
+ - [The Caves That Could Help Us Find, or Become, Aliens](https://www.wired.com/story/the-caves-that-could-help-us-find-or-become-aliens/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
