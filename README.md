@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jason Statham Impression...](http://9gag.com/gag/a5Q0MMN)
- - ⏩ [The moment when the Artemis II capsule was opened after coming back to earth.](http://9gag.com/gag/amo4BO9)
+ - 💣 [The moment when the Artemis II capsule was opened after coming back to earth.](http://9gag.com/gag/amo4BO9)
+ - ⏩ [The sun is basically screaming 24/7 and nasa actually recorded it](http://9gag.com/gag/awyWA8Q)
  - 👉 [Designing Gothmogs face in LOTR](http://9gag.com/gag/a87x5y6)<!-- MEMES:END -->
 
 ---
