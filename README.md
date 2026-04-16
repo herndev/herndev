@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix chairman and co-founder Reed Hastings will step down from the company&#39;s board after his term expires in June to focus on philanthropy and other pursuits &lpar;Isabella Simonetti/Wall Street Journal&rpar;](http://www.techmeme.com/260416/p48#a260416p48)
- - [Sources: Upscale AI, which builds AI networking infrastructure, is in talks to raise $180M to $200M at a $2B valuation, its third funding round in seven months &lpar;Bloomberg&rpar;](http://www.techmeme.com/260416/p47#a260416p47)
- - [Dark Matter May Be Made of Black Holes From Another Universe](https://www.wired.com/story/dark-matter-may-be-made-of-black-holes-from-another-universe/)<!-- TECH:END -->
+ - [Android 17 Beta 4 finally reveals Google’s new Easter egg](https://www.androidauthority.com/android-17-easter-egg-3658364/)
+ - [Android XR could get its own luxury rival to Ray-Ban Meta next year](https://www.androidauthority.com/gucci-android-xr-smart-glasses-timeline-3658332/)
+ - [Gucci-branded Google smart glasses are coming next year](https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
