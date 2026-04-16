@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GGMods Is Giving Away Great Prizes At The Upcoming Live Show](https://www.polygon.com/ggmods-live-show-prizes-details/)
- - [Clair Obscur’s expedition mottos perfectly capture its themes](https://www.polygon.com/clair-obscur-expedition-33-lune-we-continue-dialogue-breakdown/)
- - [Spider-Man: Brand New Day Lego set leak doesn&#39;t have any answers about Sadie Sink&#39;s character](https://www.polygon.com/spider-man-brand-new-day-lego-leak-sadie-sink-hulk/)<!-- GAME:END -->
+ - [Saros: PS5 and PS5 Pro features detailed](https://blog.playstation.com/2026/04/16/saros-ps5-and-ps5-pro-features-detailed/)
+ - [Pragmata is good on Switch 2](https://www.polygon.com/pragmata-switch-2-performance-graphics-impressions/)
+ - [Pragmata Arrives Tomorrow – Here Are the Starter Tips You Should Know](https://news.xbox.com/en-us/2026/04/16/pragmata-tips-launch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
