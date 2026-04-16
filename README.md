@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
- - ⏩ [My heart stopped for a second](http://9gag.com/gag/aByBmV2)
- - 👉 [It all makes sense now](http://9gag.com/gag/aqyonZ7)<!-- MEMES:END -->
+ - 💣 [My heart stopped for a second](http://9gag.com/gag/aByBmV2)
+ - ⏩ [Cant fall asleep](http://9gag.com/gag/aqyon8R)
+ - 👉 [Nice use of perspect\u2026](http://9gag.com/gag/a9ygn76)<!-- MEMES:END -->
 
 ---
 
