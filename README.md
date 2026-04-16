@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)
- - ⏩ [Thought it was something else there for a second](http://9gag.com/gag/agmz5VK)
- - 👉 [Intresting question](http://9gag.com/gag/avyKzQd)<!-- MEMES:END -->
+ - 💣 [Cant fall asleep](http://9gag.com/gag/aqyon8R)
+ - ⏩ [Passing the 30s threshold](http://9gag.com/gag/amo4539)
+ - 👉 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)<!-- MEMES:END -->
 
 ---
 
