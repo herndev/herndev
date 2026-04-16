@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
- - ⏩ [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
+ - 💣 [Murica sh*t](http://9gag.com/gag/aGy4dqG)
+ - ⏩ [Always the low quality video!](http://9gag.com/gag/a4PO1p1)
  - 👉 [It all makes sense now](http://9gag.com/gag/aqyonZ7)<!-- MEMES:END -->
 
 ---
