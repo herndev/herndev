@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to download and install older macOS versions on compatible Macs](https://appleinsider.com/inside/macos/tips/how-to-download-and-install-older-macos-versions-on-compatible-macs?utm_source=rss)
- - [Android may finally start letting you set custom ringtones for each SIM card](https://www.androidauthority.com/android-dual-sim-ringtones-3657856/)
- - [Companies that hire young &quot;AI natives&quot; have found that AI tools can be both helpful and debilitating to workers, in some cases requiring more careful oversight &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/260415/p50#a260415p50)<!-- TECH:END -->
+ - [Ohio&#39;s gambling regulator proposes to fine Kalshi $5M for unlicensed sports gambling, after a federal judge ruled that Kalshi&#39;s sports bets constitute gambling &lpar;Max Filby/The Columbus Dispatch&rpar;](http://www.techmeme.com/260416/p1#a260416p1)
+ - [You can now get YouTube Premium at half price for a full year, but there’s a catch](https://www.androidauthority.com/youtube-premium-google-ai-pro-discount-3658017/)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, April 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-april-16/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
