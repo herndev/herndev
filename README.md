@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eating out with the bro](http://9gag.com/gag/a9ygnOo)
- - ⏩ [Intresting question](http://9gag.com/gag/avyKzQd)
- - 👉 [Going through it boys. F**k you and see you tomorrow](http://9gag.com/gag/aVvy788)<!-- MEMES:END -->
+ - 💣 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
+ - ⏩ [Cant fall asleep](http://9gag.com/gag/aqyon8R)
+ - 👉 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)<!-- MEMES:END -->
 
 ---
 
