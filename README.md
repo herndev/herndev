@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile customers realize their favorite support reps are now AI](https://www.androidauthority.com/t-mobile-t-force-ai-chatbot-shift-3658145/)
- - [Roku says it is in 100M+ homes globally and its devices are used by &quot;more than half of all US broadband households&quot;; Roku had $4.15B in 2025 platform revenue &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260416/p24#a260416p24)
- - [Sources: Google is negotiating a deal with the US DOD that would let the Pentagon deploy Gemini AI models in classified settings, reversing its previous stance &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/260416/p23#a260416p23)<!-- TECH:END -->
+ - [Age verification is a mess but we&amp;#8217;re doing it anyway](https://www.theverge.com/policy/913038/age-verification-flaws)
+ - [Spotify’s new tablet interface is more than just a bigger version of your phone](https://www.androidauthority.com/spotify-tablet-interface-redesign-3658177/)
+ - [Meta is increasing the price of the Quest 3 by $100 to $599.99 and both Quest 3S models by $50 to $349.99 for 128GB and $449.99 for 256GB, starting April 19 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260416/p27#a260416p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
