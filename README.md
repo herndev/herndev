@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s slushy season, and Ninja’s frozen drink machine is nearly half off](https://www.theverge.com/gadgets/913067/ninja-slushi-frozen-drink-machine-youtube-premium-deal-sale)
- - [Canva unveils Canva AI 2.0, which can generate editable layered designs from conversational prompts using Canva&#39;s foundation model built specifically for design &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/260416/p30#a260416p30)
- - [Roku hits a major milestone with 100 million users](https://www.theverge.com/streaming/913169/roku-passes-100-million-users)<!-- TECH:END -->
+ - [Roblox revamps Roblox Assistant, its plain-language AI tool for game development, with agentic tools to let developers plan, build, and test games &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260416/p35#a260416p35)
+ - [Solidroad, which uses AI to evaluate customer interactions with human and AI agents to find risk, skill gaps, and more, raised a $25M Series A led by Hedosophia &lpar;Paul Gillin/SiliconANGLE&rpar;](http://www.techmeme.com/260416/p34#a260416p34)
+ - [Microsoft planning Surface Laptop with an OLED display](https://www.theverge.com/news/913218/microsoft-surface-laptop-oled-display-rumor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
