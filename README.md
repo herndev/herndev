@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Saros: PS5 and PS5 Pro features detailed](https://blog.playstation.com/2026/04/16/saros-ps5-and-ps5-pro-features-detailed/)
- - [Pragmata is good on Switch 2](https://www.polygon.com/pragmata-switch-2-performance-graphics-impressions/)
- - [Pragmata Arrives Tomorrow – Here Are the Starter Tips You Should Know](https://news.xbox.com/en-us/2026/04/16/pragmata-tips-launch/)<!-- GAME:END -->
+ - [New Street Fighter movie trailer drops, featuring every World Warrior](https://www.polygon.com/street-fighter-movie-2026-trailer/)
+ - [Pirate survival Windrose sees 500,000 mateys buy the game as Steam reviews are &#39;Mostly Positive&#39;](https://www.pcgamer.com/games/survival-crafting/pirate-survival-windrose-sees-500-000-mateys-buy-the-game-as-steam-reviews-are-mostly-positive/)
+ - [Street Fighter 6’s Long-Awaited Incest Nerf Is Here And Does Basically Nothing](https://kotaku.com/street-fighter-6-alex-patricia-incest-tom-patch-notes-2000688200)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
