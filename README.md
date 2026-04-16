@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Murica sh*t](http://9gag.com/gag/aGy4dqG)
- - ⏩ [Always the low quality video!](http://9gag.com/gag/a4PO1p1)
- - 👉 [It all makes sense now](http://9gag.com/gag/aqyonZ7)<!-- MEMES:END -->
+ - 💣 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)
+ - ⏩ [Murica sh*t](http://9gag.com/gag/aGy4dqG)
+ - 👉 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)<!-- MEMES:END -->
 
 ---
 
