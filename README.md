@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Ultra camera beast just went global, but prepare your wallet](https://www.androidauthority.com/vivo-x300-ultra-global-launch-3658033/)
- - [Voice actors worldwide are mobilizing to protect their livelihoods and personality rights as Hollywood studios push AI dubbing to replace human performances &lpar;Rina Chandran/Rest of World&rpar;](http://www.techmeme.com/260416/p8#a260416p8)
- - [A primer on interpretability and how AI researchers are figuring out how to open and understand the &quot;black box&quot; that holds the formulas within most AI models &lpar;Oliver Whang/New York Times&rpar;](http://www.techmeme.com/260416/p7#a260416p7)<!-- TECH:END -->
+ - [Copenhagen-based Spektr, which develops AI agents for compliance teams in financial services, raised a $20M Series A led by NEA, taking total funding to $26M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260416/p10#a260416p10)
+ - [TSMC reports Q1 revenue up 35.1% YoY to ~$35B, net income up 58.3% YoY to ~$18B, both above est., and says 7nm or smaller chips were ~74% of its wafer revenue &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260416/p9#a260416p9)
+ - [OnePlus Watch 4 retail box leak reveals colors, strap options, and global availability](https://www.androidauthority.com/oneplus-watch-4-retail-box-leak-3658060/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
