@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First iPhone 18 Pro variable aperture camera component is now in production](https://appleinsider.com/articles/26/04/16/first-iphone-18-pro-variable-aperture-camera-component-is-now-in-production?utm_source=rss)
- - [This one chart exposes how far Pixel has fallen behind in mobile gaming](https://www.androidauthority.com/pixel-10-performance-chart-3657127/)
- - [Sources: UK paraplegic athlete Claire Lomas was being filmed for Apple Vision Pro series Adventure when she crashed a microlight in Jordan and died in July 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260416/p18#a260416p18)<!-- TECH:END -->
+ - [Thousands of readers think this Samsung is the best Galaxy A57 alternative you can buy](https://www.androidauthority.com/best-galaxy-a57-alternative-poll-results-3658075/)
+ - [Smart Plug Guide &lpar;2026&rpar;: When You Should and Shouldn’t Use One](https://www.wired.com/story/do-you-need-a-smart-plug/)
+ - [DJI’s Osmo Pocket 4 camera is better at capturing slo-mo footage and photos](https://www.theverge.com/tech/912381/dji-osmo-pocket-4-camera-stabilizied-gimbal-4k-slow-motion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
