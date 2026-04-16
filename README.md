@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
- - ⏩ [Intresting question](http://9gag.com/gag/avyKzQd)
- - 👉 [It all makes sense now](http://9gag.com/gag/aqyonZ7)<!-- MEMES:END -->
+ - 💣 [Intresting question](http://9gag.com/gag/avyKzQd)
+ - ⏩ [Passing the 30s threshold](http://9gag.com/gag/amo4539)
+ - 👉 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)<!-- MEMES:END -->
 
 ---
 
