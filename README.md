@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba&#39;s new Token Hub unit releases Happy Oyster, a new AI world model that can create 3D environments, interactive videos, films, video content, and games &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260416/p15#a260416p15)
- - [Finally! YouTube now lets you turn off Shorts with a clever trick](https://www.androidauthority.com/youtube-shorts-new-timer-feature-3658096/)
- - [Q&amp;A with a16z partner Martin Cascado, who leads an AI investment team, on why recent AI progress is an industrial-revolution scale event, AI economics, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260416/p14#a260416p14)<!-- TECH:END -->
+ - [First iPhone 18 Pro variable aperture camera component is now in production](https://appleinsider.com/articles/26/04/16/first-iphone-18-pro-variable-aperture-camera-component-is-now-in-production?utm_source=rss)
+ - [This one chart exposes how far Pixel has fallen behind in mobile gaming](https://www.androidauthority.com/pixel-10-performance-chart-3657127/)
+ - [Sources: UK paraplegic athlete Claire Lomas was being filmed for Apple Vision Pro series Adventure when she crashed a microlight in Jordan and died in July 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260416/p18#a260416p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
