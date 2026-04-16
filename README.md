@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
- - ⏩ [Cant fall asleep](http://9gag.com/gag/aqyon8R)
- - 👉 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)<!-- MEMES:END -->
+ - 💣 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)
+ - ⏩ [It all makes sense now](http://9gag.com/gag/aqyonZ7)
+ - 👉 [Well well well](http://9gag.com/gag/aGy4dNZ)<!-- MEMES:END -->
 
 ---
 
