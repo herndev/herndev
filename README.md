@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: China&#39;s chipmaking tool imports from Singapore rose 17% YoY to $5.7B in 2025, from Malaysia rose 2x+ to $3.4B; direct US imports fell 34% YoY to ~$2B &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/260416/p4#a260416p4)
  - [Sources say Ola&#39;s AI venture Krutrim&#39;s smart assistant Kruti is unavailable to users and the development of its Indian multilingual LLM, Krutrim 3, has stalled &lpar;Swathi Moorthy/The Economic Times&rpar;](http://www.techmeme.com/260416/p3#a260416p3)
- - [Nothing just pulled its brand-new file transfer app without an explanation](https://www.androidauthority.com/nothing-warp-removed-3658030/)
- - [Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders](https://www.wired.com/story/birdfy-discount-code/)<!-- TECH:END -->
+ - [Nothing just pulled its brand-new file transfer app without an explanation](https://www.androidauthority.com/nothing-warp-removed-3658030/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
