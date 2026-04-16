@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This YouTuber mod project brings the original PlayStation up to date with HDMI output, USB power, and wireless controller support](https://www.pcgamer.com/hardware/this-youtuber-mod-project-brings-the-original-playstation-up-to-date-with-hdmi-output-usb-power-and-wireless-controller-support/)
  - [Official Xbox Podcast: Matt Booty Talks Showcase, Games, Studios, and More](https://www.youtube.com/watch?v=ZKFwDPinbV0#new_tab)
- - [Yes, technically you can play World of Warcraft with hot dogs](https://www.pcgamer.com/games/world-of-warcraft/yes-technically-you-can-play-world-of-warcraft-with-hot-dogs/)
- - [About 30% of Arc Raiders players focus on PvE, and Embark&#39;s happy with that: &#39;We want to instil hope in the player&#39;](https://www.pcgamer.com/games/fps/about-30-percent-of-arc-raiders-players-focus-on-pve-and-embarks-happy-with-that-we-want-to-instil-hope-in-the-player/)<!-- GAME:END -->
+ - [Yes, technically you can play World of Warcraft with hot dogs](https://www.pcgamer.com/games/world-of-warcraft/yes-technically-you-can-play-world-of-warcraft-with-hot-dogs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
