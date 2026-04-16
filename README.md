@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon issues $589 MacBook Neo deal, lowest price on new release](https://appleinsider.com/articles/26/04/16/amazon-issues-589-macbook-neo-deal-lowest-price-on-new-release?utm_source=rss)
- - [Netflix is prepping a mobile revamp with a TikTok-style vertical video feed and all](https://www.androidauthority.com/netflix-mobile-app-vertical-video-3658431/)
- - [Walmart’s new Onn 4K Pro streaming box shows up in listings](https://www.androidauthority.com/walmart-onn-4k-pro-listing-3658347/)<!-- TECH:END -->
+ - [$320M money laundering scheme uncovered using iCloud backup](https://appleinsider.com/articles/26/04/16/320m-money-laundering-scheme-uncovered-using-icloud-backup?utm_source=rss)
+ - [NYC-based Nas.com, an AI platform founded by content creator Nas Daily that helps solo entrepreneurs build online stores, raised a $27M Series A led by Khosla &lpar;Robert Scammell/Business Insider&rpar;](http://www.techmeme.com/260416/p52#a260416p52)
+ - [Pixel Glow ‘visual feedback’ tool might just hint at big Pixel 11 hardware changes](https://www.androidauthority.com/pixel-glow-3658443/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
