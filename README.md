@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well well well](http://9gag.com/gag/aGy4dNZ)
- - ⏩ [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)
- - 👉 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)<!-- MEMES:END -->
+ - 💣 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
+ - ⏩ [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
+ - 👉 [Mind blown, gotta try this](http://9gag.com/gag/ayNjBbp)<!-- MEMES:END -->
 
 ---
 
