@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings: Caterpillar acquires self-driving electric tractor startup Monarch Tractor&#39;s assets, after it raised $200M+ and struggled to pivot to software services &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/260415/p44#a260415p44)
- - [Microsoft counters the MacBook Neo with freebies for students](https://www.theverge.com/news/912262/microsoft-macbook-neo-response-college-offer-free-subscriptions)
- - [Improbable Visa &amp; iPhone loophole leads to Apple Pay heist that&#39;ll never happen to you](https://appleinsider.com/articles/26/04/15/improbable-visa-iphone-loophole-leads-to-apple-pay-heist-thatll-never-happen-to-you?utm_source=rss)<!-- TECH:END -->
+ - [MKBHD pulls back the curtain on LG’s cancelled rollable — LG really thought of everything](https://www.androidauthority.com/lg-rollable-hands-on-video-3657983/)
+ - [SmartWings smart roller shades review: bring in natural light to your Apple Home](https://appleinsider.com/articles/25/11/25/smartwings-smart-roller-shades-review-bring-in-natural-light-to-your-apple-home?utm_source=rss)
+ - [Former Mercor staffers describe &quot;operational mishaps&quot; at the $10B startup, including employee fraud, a security breach, and suspected North Korean infiltration &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/260415/p45#a260415p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
