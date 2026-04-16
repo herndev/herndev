@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: the White House notified Cabinet departments that OMB is setting up protections that would allow their agencies to begin using Anthropic&#39;s Mythos model &lpar;Bloomberg&rpar;](http://www.techmeme.com/260416/p43#a260416p43)
- - [Price war: Apple&#39;s 1TB M5 MacBook Pro dips to $1,580](https://appleinsider.com/articles/26/04/16/price-war-apples-1tb-m5-macbook-pro-dips-to-1580?utm_source=rss)
- - [DeepL, best known for its text translation tools, launches DeepL Voice-to-Voice, which enables real-time spoken translation, with add-ons for services like Zoom &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260416/p42#a260416p42)<!-- TECH:END -->
+ - [OpenAI launches GPT-Rosalind, an AI model for life sciences research, including drug discovery, as a research preview for customers such as Moderna and Amgen &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/260416/p45#a260416p45)
+ - [Live Nation says it will fight monopoly suit loss](https://www.theverge.com/policy/913494/live-nation-ticketmaster-fight-state-monopoly-jury-verdict)
+ - [Ozlo’s comfy Sleepbuds are nearly 30 percent off in the run-up to Mother’s Day](https://www.theverge.com/gadgets/913352/ozlo-sleepbuds-mothers-day-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
