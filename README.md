@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thousands of readers think this Samsung is the best Galaxy A57 alternative you can buy](https://www.androidauthority.com/best-galaxy-a57-alternative-poll-results-3658075/)
- - [Smart Plug Guide &lpar;2026&rpar;: When You Should and Shouldn’t Use One](https://www.wired.com/story/do-you-need-a-smart-plug/)
- - [DJI’s Osmo Pocket 4 camera is better at capturing slo-mo footage and photos](https://www.theverge.com/tech/912381/dji-osmo-pocket-4-camera-stabilizied-gimbal-4k-slow-motion)<!-- TECH:END -->
+ - [T-Mobile customers realize their favorite support reps are now AI](https://www.androidauthority.com/t-mobile-t-force-ai-chatbot-shift-3658145/)
+ - [Roku says it is in 100M+ homes globally and its devices are used by &quot;more than half of all US broadband households&quot;; Roku had $4.15B in 2025 platform revenue &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260416/p24#a260416p24)
+ - [Sources: Google is negotiating a deal with the US DOD that would let the Pentagon deploy Gemini AI models in classified settings, reversing its previous stance &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/260416/p23#a260416p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
