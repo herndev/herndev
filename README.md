@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MKBHD pulls back the curtain on LG’s cancelled rollable — LG really thought of everything](https://www.androidauthority.com/lg-rollable-hands-on-video-3657983/)
- - [SmartWings smart roller shades review: bring in natural light to your Apple Home](https://appleinsider.com/articles/25/11/25/smartwings-smart-roller-shades-review-bring-in-natural-light-to-your-apple-home?utm_source=rss)
- - [Former Mercor staffers describe &quot;operational mishaps&quot; at the $10B startup, including employee fraud, a security breach, and suspected North Korean infiltration &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/260415/p45#a260415p45)<!-- TECH:END -->
+ - [Anthropic rolls out identity verification that may require Claude users to provide a government-issued photo ID and live selfie to access &quot;certain capabilities&quot; &lpar;Jose Antonio Lanz/Decrypt&rpar;](http://www.techmeme.com/260415/p48#a260415p48)
+ - [A TTP analysis finds dozens of nudify apps in Apple and Google app stores via search, despite company policy prohibiting them; the apps earned $122M+ in revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/260415/p47#a260415p47)
+ - [Spotify Champions Live Music With Independent Music Venue Deal](https://www.cnet.com/culture/entertainment/spotify-niva-live-independent-music-venue-partnership/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
