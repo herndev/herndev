@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The indie metroidvania that started it all just got a huge update on PC, adding co-op and mod support after 22 years](https://www.pcgamer.com/games/action/the-indie-metroidvania-that-started-it-all-just-got-a-huge-update-on-pc-adding-co-op-and-mod-support-after-22-years/)
- - [Windrose developers ask players if they &#39;happen to know someone at a major ISP&#39; who can help diagnose online co-op issues](https://www.pcgamer.com/games/survival-crafting/windrose-developers-ask-players-if-they-happen-to-know-someone-at-a-major-isp-who-can-help-diagnose-online-co-op-issues/)
- - [Yes, Take-Two&#39;s share price rose after the stolen Rockstar data was released, but don&#39;t read too much into it](https://www.pcgamer.com/gaming-industry/yes-take-twos-share-price-rose-after-the-stolen-rockstar-data-was-released-but-dont-read-too-much-into-it/)<!-- GAME:END -->
+ - [Yes, technically you can play World of Warcraft with hot dogs](https://www.pcgamer.com/games/world-of-warcraft/yes-technically-you-can-play-world-of-warcraft-with-hot-dogs/)
+ - [About 30% of Arc Raiders players focus on PvE, and Embark&#39;s happy with that: &#39;We want to instil hope in the player&#39;](https://www.pcgamer.com/games/fps/about-30-percent-of-arc-raiders-players-focus-on-pve-and-embarks-happy-with-that-we-want-to-instil-hope-in-the-player/)
+ - [It&#39;s still too early to lose all hope: Euro Truck Simulator 2 is getting a whole new country soon](https://www.pcgamer.com/games/sim/its-still-too-early-to-lose-all-hope-euro-truck-simulator-2-is-getting-a-whole-new-country-soon/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
