@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ohio&#39;s gambling regulator proposes to fine Kalshi $5M for unlicensed sports gambling, after a federal judge ruled that Kalshi&#39;s sports bets constitute gambling &lpar;Max Filby/The Columbus Dispatch&rpar;](http://www.techmeme.com/260416/p1#a260416p1)
- - [You can now get YouTube Premium at half price for a full year, but there’s a catch](https://www.androidauthority.com/youtube-premium-google-ai-pro-discount-3658017/)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, April 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-april-16/)<!-- TECH:END -->
+ - [Sources say Ola&#39;s AI venture Krutrim&#39;s smart assistant Kruti is unavailable to users and the development of its Indian multilingual LLM, Krutrim 3, has stalled &lpar;Swathi Moorthy/The Economic Times&rpar;](http://www.techmeme.com/260416/p3#a260416p3)
+ - [Nothing just pulled its brand-new file transfer app without an explanation](https://www.androidauthority.com/nothing-warp-removed-3658030/)
+ - [Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders](https://www.wired.com/story/birdfy-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
