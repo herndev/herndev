@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When someone hears this bird sound, they will think it is spring.](http://9gag.com/gag/a6ZY1bR)
- - ⏩ [Cant fall asleep](http://9gag.com/gag/aqyon8R)
- - 👉 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)<!-- MEMES:END -->
+ - 💣 [Going through it boys. F**k you and see you tomorrow](http://9gag.com/gag/aVvy788)
+ - ⏩ [Satisfying LightBloom Crystal](http://9gag.com/gag/aW43jn3)
+ - 👉 [Intresting question](http://9gag.com/gag/avyKzQd)<!-- MEMES:END -->
 
 ---
 
