@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The indie metroidvania that started it all just got a huge update on PC, adding co-op and mod support after 22 years](https://www.pcgamer.com/games/action/the-indie-metroidvania-that-started-it-all-just-got-a-huge-update-on-pc-adding-co-op-and-mod-support-after-22-years/)
  - [Windrose developers ask players if they &#39;happen to know someone at a major ISP&#39; who can help diagnose online co-op issues](https://www.pcgamer.com/games/survival-crafting/windrose-developers-ask-players-if-they-happen-to-know-someone-at-a-major-isp-who-can-help-diagnose-online-co-op-issues/)
- - [Yes, Take-Two&#39;s share price rose after the stolen Rockstar data was released, but don&#39;t read too much into it](https://www.pcgamer.com/gaming-industry/yes-take-twos-share-price-rose-after-the-stolen-rockstar-data-was-released-but-dont-read-too-much-into-it/)
- - [How Star Wars gave Darth Maul his own evil Baby Yoda sidekick with Spybot](https://www.polygon.com/spybot-star-wars-maul-shadow-lord/)<!-- GAME:END -->
+ - [Yes, Take-Two&#39;s share price rose after the stolen Rockstar data was released, but don&#39;t read too much into it](https://www.pcgamer.com/gaming-industry/yes-take-twos-share-price-rose-after-the-stolen-rockstar-data-was-released-but-dont-read-too-much-into-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
