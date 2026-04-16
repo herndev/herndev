@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 Beta 4 finally reveals Google’s new Easter egg](https://www.androidauthority.com/android-17-easter-egg-3658364/)
- - [Android XR could get its own luxury rival to Ray-Ban Meta next year](https://www.androidauthority.com/gucci-android-xr-smart-glasses-timeline-3658332/)
- - [Gucci-branded Google smart glasses are coming next year](https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027)<!-- TECH:END -->
+ - [Amazon issues $589 MacBook Neo deal, lowest price on new release](https://appleinsider.com/articles/26/04/16/amazon-issues-589-macbook-neo-deal-lowest-price-on-new-release?utm_source=rss)
+ - [Netflix is prepping a mobile revamp with a TikTok-style vertical video feed and all](https://www.androidauthority.com/netflix-mobile-app-vertical-video-3658431/)
+ - [Walmart’s new Onn 4K Pro streaming box shows up in listings](https://www.androidauthority.com/walmart-onn-4k-pro-listing-3658347/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
