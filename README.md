@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)
- - ⏩ [Murica sh*t](http://9gag.com/gag/aGy4dqG)
- - 👉 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)<!-- MEMES:END -->
+ - 💣 [Well well well](http://9gag.com/gag/aGy4dNZ)
+ - ⏩ [Intresting question](http://9gag.com/gag/avyKzQd)
+ - 👉 [It all makes sense now](http://9gag.com/gag/aqyonZ7)<!-- MEMES:END -->
 
 ---
 
