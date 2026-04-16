@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Age verification is a mess but we&amp;#8217;re doing it anyway](https://www.theverge.com/policy/913038/age-verification-flaws)
- - [Spotify’s new tablet interface is more than just a bigger version of your phone](https://www.androidauthority.com/spotify-tablet-interface-redesign-3658177/)
- - [Meta is increasing the price of the Quest 3 by $100 to $599.99 and both Quest 3S models by $50 to $349.99 for 128GB and $449.99 for 256GB, starting April 19 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260416/p27#a260416p27)<!-- TECH:END -->
+ - [It’s slushy season, and Ninja’s frozen drink machine is nearly half off](https://www.theverge.com/gadgets/913067/ninja-slushi-frozen-drink-machine-youtube-premium-deal-sale)
+ - [Canva unveils Canva AI 2.0, which can generate editable layered designs from conversational prompts using Canva&#39;s foundation model built specifically for design &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/260416/p30#a260416p30)
+ - [Roku hits a major milestone with 100 million users](https://www.theverge.com/streaming/913169/roku-passes-100-million-users)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
