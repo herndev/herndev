@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI launches GPT-Rosalind, an AI model for life sciences research, including drug discovery, as a research preview for customers such as Moderna and Amgen &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/260416/p45#a260416p45)
- - [Live Nation says it will fight monopoly suit loss](https://www.theverge.com/policy/913494/live-nation-ticketmaster-fight-state-monopoly-jury-verdict)
- - [Ozlo’s comfy Sleepbuds are nearly 30 percent off in the run-up to Mother’s Day](https://www.theverge.com/gadgets/913352/ozlo-sleepbuds-mothers-day-deal-sale)<!-- TECH:END -->
+ - [Netflix chairman and co-founder Reed Hastings will step down from the company&#39;s board after his term expires in June to focus on philanthropy and other pursuits &lpar;Isabella Simonetti/Wall Street Journal&rpar;](http://www.techmeme.com/260416/p48#a260416p48)
+ - [Sources: Upscale AI, which builds AI networking infrastructure, is in talks to raise $180M to $200M at a $2B valuation, its third funding round in seven months &lpar;Bloomberg&rpar;](http://www.techmeme.com/260416/p47#a260416p47)
+ - [Dark Matter May Be Made of Black Holes From Another Universe](https://www.wired.com/story/dark-matter-may-be-made-of-black-holes-from-another-universe/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
