@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Ultra camera beast just went global, but prepare your wallet](https://www.androidauthority.com/vivo-x300-ultra-global-launch-3658033/)
  - [Voice actors worldwide are mobilizing to protect their livelihoods and personality rights as Hollywood studios push AI dubbing to replace human performances &lpar;Rina Chandran/Rest of World&rpar;](http://www.techmeme.com/260416/p8#a260416p8)
- - [A primer on interpretability and how AI researchers are figuring out how to open and understand the &quot;black box&quot; that holds the formulas within most AI models &lpar;Oliver Whang/New York Times&rpar;](http://www.techmeme.com/260416/p7#a260416p7)
- - [How cyberscammers are bypassing major banks&#39; KYC facial scans using stolen biometric data and virtual camera tools sold via Telegram channels &lpar;Fiona Kelliher/MIT Technology Review&rpar;](http://www.techmeme.com/260416/p6#a260416p6)<!-- TECH:END -->
+ - [A primer on interpretability and how AI researchers are figuring out how to open and understand the &quot;black box&quot; that holds the formulas within most AI models &lpar;Oliver Whang/New York Times&rpar;](http://www.techmeme.com/260416/p7#a260416p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
