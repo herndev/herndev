@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic rolls out identity verification that may require Claude users to provide a government-issued photo ID and live selfie to access &quot;certain capabilities&quot; &lpar;Jose Antonio Lanz/Decrypt&rpar;](http://www.techmeme.com/260415/p48#a260415p48)
- - [A TTP analysis finds dozens of nudify apps in Apple and Google app stores via search, despite company policy prohibiting them; the apps earned $122M+ in revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/260415/p47#a260415p47)
- - [Spotify Champions Live Music With Independent Music Venue Deal](https://www.cnet.com/culture/entertainment/spotify-niva-live-independent-music-venue-partnership/)<!-- TECH:END -->
+ - [How to download and install older macOS versions on compatible Macs](https://appleinsider.com/inside/macos/tips/how-to-download-and-install-older-macos-versions-on-compatible-macs?utm_source=rss)
+ - [Android may finally start letting you set custom ringtones for each SIM card](https://www.androidauthority.com/android-dual-sim-ringtones-3657856/)
+ - [Companies that hire young &quot;AI natives&quot; have found that AI tools can be both helpful and debilitating to workers, in some cases requiring more careful oversight &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/260415/p50#a260415p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
