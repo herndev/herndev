@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This YouTuber mod project brings the original PlayStation up to date with HDMI output, USB power, and wireless controller support](https://www.pcgamer.com/hardware/this-youtuber-mod-project-brings-the-original-playstation-up-to-date-with-hdmi-output-usb-power-and-wireless-controller-support/)
- - [Official Xbox Podcast: Matt Booty Talks Showcase, Games, Studios, and More](https://www.youtube.com/watch?v=ZKFwDPinbV0#new_tab)
- - [Yes, technically you can play World of Warcraft with hot dogs](https://www.pcgamer.com/games/world-of-warcraft/yes-technically-you-can-play-world-of-warcraft-with-hot-dogs/)<!-- GAME:END -->
+ - [GGMods Is Giving Away Great Prizes At The Upcoming Live Show](https://www.polygon.com/ggmods-live-show-prizes-details/)
+ - [Clair Obscur’s expedition mottos perfectly capture its themes](https://www.polygon.com/clair-obscur-expedition-33-lune-we-continue-dialogue-breakdown/)
+ - [Spider-Man: Brand New Day Lego set leak doesn&#39;t have any answers about Sadie Sink&#39;s character](https://www.polygon.com/spider-man-brand-new-day-lego-leak-sadie-sink-hulk/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
