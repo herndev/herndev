@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well well well](http://9gag.com/gag/aGy4dNZ)
- - ⏩ [Intresting question](http://9gag.com/gag/avyKzQd)
- - 👉 [It all makes sense now](http://9gag.com/gag/aqyonZ7)<!-- MEMES:END -->
+ - 💣 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
+ - ⏩ [Well well well](http://9gag.com/gag/aGy4dNZ)
+ - 👉 [Passing the 30s threshold](http://9gag.com/gag/amo4539)<!-- MEMES:END -->
 
 ---
 
