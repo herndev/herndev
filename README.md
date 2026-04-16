@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Official Xbox Podcast: Matt Booty Talks Showcase, Games, Studios, and More](https://www.youtube.com/watch?v=ZKFwDPinbV0#new_tab)
  - [Yes, technically you can play World of Warcraft with hot dogs](https://www.pcgamer.com/games/world-of-warcraft/yes-technically-you-can-play-world-of-warcraft-with-hot-dogs/)
- - [About 30% of Arc Raiders players focus on PvE, and Embark&#39;s happy with that: &#39;We want to instil hope in the player&#39;](https://www.pcgamer.com/games/fps/about-30-percent-of-arc-raiders-players-focus-on-pve-and-embarks-happy-with-that-we-want-to-instil-hope-in-the-player/)
- - [It&#39;s still too early to lose all hope: Euro Truck Simulator 2 is getting a whole new country soon](https://www.pcgamer.com/games/sim/its-still-too-early-to-lose-all-hope-euro-truck-simulator-2-is-getting-a-whole-new-country-soon/)<!-- GAME:END -->
+ - [About 30% of Arc Raiders players focus on PvE, and Embark&#39;s happy with that: &#39;We want to instil hope in the player&#39;](https://www.pcgamer.com/games/fps/about-30-percent-of-arc-raiders-players-focus-on-pve-and-embarks-happy-with-that-we-want-to-instil-hope-in-the-player/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
