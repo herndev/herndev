@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Street Fighter movie trailer drops, featuring every World Warrior](https://www.polygon.com/street-fighter-movie-2026-trailer/)
- - [Pirate survival Windrose sees 500,000 mateys buy the game as Steam reviews are &#39;Mostly Positive&#39;](https://www.pcgamer.com/games/survival-crafting/pirate-survival-windrose-sees-500-000-mateys-buy-the-game-as-steam-reviews-are-mostly-positive/)
- - [Street Fighter 6’s Long-Awaited Incest Nerf Is Here And Does Basically Nothing](https://kotaku.com/street-fighter-6-alex-patricia-incest-tom-patch-notes-2000688200)<!-- GAME:END -->
+ - [MTG Secrets of Strixhaven prerelease guide reveals the best Limited strategies and strongest cards](https://www.polygon.com/mtg-secrets-of-strixhaven-prerelease-magic-arena-preview-power-trip/)
+ - [Street Fighter 6 patch barely change Alex&#39;s weird incest story](https://www.polygon.com/street-fighter-6-alex-incest-patch-vague-backstory/)
+ - [A 17-year-old Excel vulnerability is currently being exploited by threat actors, and it&#39;s been flagged by the US&#39; cyber defence agency](https://www.pcgamer.com/software/security/a-17-year-old-excel-vulnerability-is-currently-being-exploited-by-threat-actors-and-its-been-flagged-by-the-us-cyber-defence-agency/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
