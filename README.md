@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Copenhagen-based Spektr, which develops AI agents for compliance teams in financial services, raised a $20M Series A led by NEA, taking total funding to $26M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/260416/p10#a260416p10)
- - [TSMC reports Q1 revenue up 35.1% YoY to ~$35B, net income up 58.3% YoY to ~$18B, both above est., and says 7nm or smaller chips were ~74% of its wafer revenue &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260416/p9#a260416p9)
- - [OnePlus Watch 4 retail box leak reveals colors, strap options, and global availability](https://www.androidauthority.com/oneplus-watch-4-retail-box-leak-3658060/)<!-- TECH:END -->
+ - [Alibaba&#39;s new Token Hub unit releases Happy Oyster, a new AI world model that can create 3D environments, interactive videos, films, video content, and games &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/260416/p15#a260416p15)
+ - [Finally! YouTube now lets you turn off Shorts with a clever trick](https://www.androidauthority.com/youtube-shorts-new-timer-feature-3658096/)
+ - [Q&amp;A with a16z partner Martin Cascado, who leads an AI investment team, on why recent AI progress is an industrial-revolution scale event, AI economics, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/260416/p14#a260416p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
