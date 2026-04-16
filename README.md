@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RIP little guy, you will be missed](http://9gag.com/gag/avyKz6W)
- - ⏩ [Aaand we have terminators in 2026](http://9gag.com/gag/aByBmVQ)
- - 👉 [Well well well](http://9gag.com/gag/aGy4dNZ)<!-- MEMES:END -->
+ - 💣 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
+ - ⏩ [Well well well](http://9gag.com/gag/aGy4dNZ)
+ - 👉 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)<!-- MEMES:END -->
 
 ---
 
