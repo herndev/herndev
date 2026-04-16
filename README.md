@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cant fall asleep](http://9gag.com/gag/aqyon8R)
- - ⏩ [Passing the 30s threshold](http://9gag.com/gag/amo4539)
+ - 💣 [Well well well](http://9gag.com/gag/aGy4dNZ)
+ - ⏩ [Ttile](http://9gag.com/gag/an7P4Zo)
  - 👉 [He couldn&#39;t control his muscle memory](http://9gag.com/gag/aO8L0AE)<!-- MEMES:END -->
 
 ---
