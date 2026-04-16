@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox revamps Roblox Assistant, its plain-language AI tool for game development, with agentic tools to let developers plan, build, and test games &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260416/p35#a260416p35)
- - [Solidroad, which uses AI to evaluate customer interactions with human and AI agents to find risk, skill gaps, and more, raised a $25M Series A led by Hedosophia &lpar;Paul Gillin/SiliconANGLE&rpar;](http://www.techmeme.com/260416/p34#a260416p34)
- - [Microsoft planning Surface Laptop with an OLED display](https://www.theverge.com/news/913218/microsoft-surface-laptop-oled-display-rumor)<!-- TECH:END -->
+ - [OpenAI updates its Codex desktop app with features like computer control, an in-app browser, image generation, automation memory, plugin support, and more &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260416/p40#a260416p40)
+ - [Google says it’s investigating the ‘nudify’ app problem on the Play Store](https://www.androidauthority.com/google-responds-to-play-store-nudify-apps-3658237/)
+ - [The nine best ways to protect, customize, and accessorize your MacBook Neo](https://www.theverge.com/gadgets/912767/best-macbook-neo-accessories)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
