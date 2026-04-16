@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Going through it boys. F**k you and see you tomorrow](http://9gag.com/gag/aVvy788)
- - ⏩ [Satisfying LightBloom Crystal](http://9gag.com/gag/aW43jn3)
- - 👉 [Intresting question](http://9gag.com/gag/avyKzQd)<!-- MEMES:END -->
+ - 💣 [Eating out with the bro](http://9gag.com/gag/a9ygnOo)
+ - ⏩ [Intresting question](http://9gag.com/gag/avyKzQd)
+ - 👉 [Going through it boys. F**k you and see you tomorrow](http://9gag.com/gag/aVvy788)<!-- MEMES:END -->
 
 ---
 
