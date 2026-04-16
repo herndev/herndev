@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI updates its Codex desktop app with features like computer control, an in-app browser, image generation, automation memory, plugin support, and more &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/260416/p40#a260416p40)
- - [Google says it’s investigating the ‘nudify’ app problem on the Play Store](https://www.androidauthority.com/google-responds-to-play-store-nudify-apps-3658237/)
- - [The nine best ways to protect, customize, and accessorize your MacBook Neo](https://www.theverge.com/gadgets/912767/best-macbook-neo-accessories)<!-- TECH:END -->
+ - [Memo: the White House notified Cabinet departments that OMB is setting up protections that would allow their agencies to begin using Anthropic&#39;s Mythos model &lpar;Bloomberg&rpar;](http://www.techmeme.com/260416/p43#a260416p43)
+ - [Price war: Apple&#39;s 1TB M5 MacBook Pro dips to $1,580](https://appleinsider.com/articles/26/04/16/price-war-apples-1tb-m5-macbook-pro-dips-to-1580?utm_source=rss)
+ - [DeepL, best known for its text translation tools, launches DeepL Voice-to-Voice, which enables real-time spoken translation, with add-ons for services like Zoom &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260416/p42#a260416p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
