@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It all makes sense now](http://9gag.com/gag/aqyonZ7)
- - ⏩ [Cant fall asleep](http://9gag.com/gag/aqyon8R)
- - 👉 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)<!-- MEMES:END -->
+ - 💣 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
+ - ⏩ [My heart stopped for a second](http://9gag.com/gag/aByBmV2)
+ - 👉 [It all makes sense now](http://9gag.com/gag/aqyonZ7)<!-- MEMES:END -->
 
 ---
 
