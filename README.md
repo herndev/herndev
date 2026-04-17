@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bill Peebles, the researcher behind Sora, is leaving OpenAI as the company consolidates around enterprise AI and its forthcoming &quot;superapp&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260417/p34#a260417p34)
- - [T-Mobile insists T-Force support team is still human, not AI](https://www.androidauthority.com/t-mobile-t-force-support-team-ai-response-3658738/)
- - [Cerebras files to go public on Nasdaq and reports $510M in 2025 revenue, up 76% YoY, with a net income of $87.9M, up from a $485M net loss in 2024 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260417/p33#a260417p33)<!-- TECH:END -->
+ - [Sources: Recursive Superintelligence, a four-month-old start-up developing self-teaching AI and founded by ex-DeepMind and OpenAI engineers, has raised $500M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p37#a260417p37)
+ - [Save 27% as the Anker SOLIX F3800 Portable Power Station drops to a 2026 low](https://www.androidauthority.com/deal-anker-solix-f3800-portable-power-station-3658766/)
+ - [White House says a meeting between Chief of Staff Susie Wiles and Dario Amodei had been &quot;productive and constructive&quot;; source: Scott Bessent joined the meeting &lpar;Axios&rpar;](http://www.techmeme.com/260417/p36#a260417p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
