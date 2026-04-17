@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
- - ⏩ [Well well well](http://9gag.com/gag/aGy4dNZ)
- - 👉 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)<!-- MEMES:END -->
+ - 💣 [The days of Pepsi are long gone.](http://9gag.com/gag/azxpegq)
+ - ⏩ [My heart stopped for a second](http://9gag.com/gag/aByBmV2)
+ - 👉 [RIP little guy, you will be missed](http://9gag.com/gag/avyKz6W)<!-- MEMES:END -->
 
 ---
 
