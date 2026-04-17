@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
- - ⏩ [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)
- - 👉 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)<!-- MEMES:END -->
+ - 💣 [When someone hears this bird sound, they will think it is spring.](http://9gag.com/gag/a6ZY1bR)
+ - ⏩ [My fellow boomer](http://9gag.com/gag/aAyzyP0)
+ - 👉 [Pete Hegseth quotes a fake Bible verse from Pulp Fiction during a Pentagon sermon...](http://9gag.com/gag/aNDEwn6)<!-- MEMES:END -->
 
 ---
 
