@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI Executive Kevin Weil Is Leaving the Company](https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/)
- - [This MagSafe power bank was recalled a year ago but people are still getting hurt](https://www.androidauthority.com/magsafe-power-bank-recall-3658609/)
- - [Sources: Meta intends to conduct a first wave of sweeping layoffs planned for this year on May 20, laying off ~10% of its global workforce, or ~8,000 employees &lpar;Reuters&rpar;](http://www.techmeme.com/260417/p31#a260417p31)<!-- TECH:END -->
+ - [Bill Peebles, the researcher behind Sora, is leaving OpenAI as the company consolidates around enterprise AI and its forthcoming &quot;superapp&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260417/p34#a260417p34)
+ - [T-Mobile insists T-Force support team is still human, not AI](https://www.androidauthority.com/t-mobile-t-force-support-team-ai-response-3658738/)
+ - [Cerebras files to go public on Nasdaq and reports $510M in 2025 revenue, up 76% YoY, with a net income of $87.9M, up from a $485M net loss in 2024 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260417/p33#a260417p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
