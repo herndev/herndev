@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So I fact checked it aaaaaand it&#39;s true.](http://9gag.com/gag/aMVMEgX)
- - ⏩ [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
- - 👉 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)<!-- MEMES:END -->
+ - 💣 [My fellow boomer](http://9gag.com/gag/aAyzyP0)
+ - ⏩ [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)
+ - 👉 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)<!-- MEMES:END -->
 
 ---
 
