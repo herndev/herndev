@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
- - ⏩ [Pete Hegseth quotes a fake Bible verse from Pulp Fiction during a Pentagon sermon...](http://9gag.com/gag/aNDEwn6)
+ - 💣 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
+ - ⏩ [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
  - 👉 [Cream](http://9gag.com/gag/abAngZv)<!-- MEMES:END -->
 
 ---
