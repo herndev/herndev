@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mozilla launches Thunderbolt, an open-source AI client for users and businesses who want to run their own self-hosted AI infrastructure, available on GitHub &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/260416/p61#a260416p61)
  - [Q&amp;A: Ronan Farrow on his Sam Altman profile in The New Yorker, how Altman changed in 18 months of reporting, OpenAI&#39;s board drama and enterprise shift, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260416/p60#a260416p60)
- - [Sources: Cerebras plans to make its IPO public as soon as Friday, aiming to raise $3B+ at a $35B+ valuation, a 60% premium to its $22B February valuation &lpar;The Information&rpar;](http://www.techmeme.com/260416/p59#a260416p59)
- - [Sources: OpenAI agrees to pay Cerebras $20B+ to use its server chips, double the amount previously associated with the deal, and may receive equity in Cerebras &lpar;The Information&rpar;](http://www.techmeme.com/260416/p58#a260416p58)<!-- TECH:END -->
+ - [Sources: Cerebras plans to make its IPO public as soon as Friday, aiming to raise $3B+ at a $35B+ valuation, a 60% premium to its $22B February valuation &lpar;The Information&rpar;](http://www.techmeme.com/260416/p59#a260416p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
