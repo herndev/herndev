@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
- - ⏩ [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
- - 👉 [My heart stopped for a second](http://9gag.com/gag/aByBmV2)<!-- MEMES:END -->
+ - 💣 [Glass vs radioactive clocks](http://9gag.com/gag/a0eyNXO)
+ - ⏩ [Well well well](http://9gag.com/gag/aGy4dNZ)
+ - 👉 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)<!-- MEMES:END -->
 
 ---
 
