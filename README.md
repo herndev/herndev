@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Physical Intelligence says its new model, π0.7, can direct robots on tasks they weren&#39;t trained on, an &quot;early sign&quot; of generalization, surprising researchers &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260417/p4#a260417p4)
  - [Sources: OnlyFans is in advanced talks to sell a below 20% stake at a $3B+ valuation; previous reports said it wants to sell a ~60% stake at a ~$5.5B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p3#a260417p3)
- - [Sources: China mobilizes multiple agencies to probe Meta&#39;s $2B Manus deal; some officials worry aggressive measures may send chilling signals to the tech sector &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p2#a260417p2)
- - [Foreo Discount Codes and Deals: Up to 50% Off](https://www.wired.com/story/foreo-promo-code/)<!-- TECH:END -->
+ - [Sources: China mobilizes multiple agencies to probe Meta&#39;s $2B Manus deal; some officials worry aggressive measures may send chilling signals to the tech sector &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p2#a260417p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
