@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just Apple: Android users are more loyal than ever](https://www.androidauthority.com/smartphone-survey-more-brand-loyalty-3658621/)
- - [Netflix plans to launch a vertical video feed, to help with content discovery, this month, and plans to use AI for content creation and recommendations &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260417/p24#a260417p24)
- - [Our new favorite budget phones](https://www.theverge.com/tech/912286/our-new-favorite-budget-phones)<!-- TECH:END -->
+ - [Lenovo’s new teaser gives the best look yet at the next Legion gaming phone](https://www.androidauthority.com/lenovo-legion-y70-2026-teaser-3658634/)
+ - [App Store scams are getting worse and Apple isn&#39;t doing enough](https://appleinsider.com/articles/26/04/17/app-store-scams-are-getting-worse-and-apple-isnt-doing-enough?utm_source=rss)
+ - [Ad buyers say ad rates for ChatGPT are falling from $60 CPM to as low as $25 and the minimum spend to advertise is down to $50K from $250K at launch &lpar;Krystal Scanlon/Digiday&rpar;](http://www.techmeme.com/260417/p25#a260417p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
