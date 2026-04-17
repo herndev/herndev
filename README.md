@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MTG Secrets of Strixhaven prerelease guide reveals the best Limited strategies and strongest cards](https://www.polygon.com/mtg-secrets-of-strixhaven-prerelease-magic-arena-preview-power-trip/)
- - [Street Fighter 6 patch barely change Alex&#39;s weird incest story](https://www.polygon.com/street-fighter-6-alex-incest-patch-vague-backstory/)
- - [A 17-year-old Excel vulnerability is currently being exploited by threat actors, and it&#39;s been flagged by the US&#39; cyber defence agency](https://www.pcgamer.com/software/security/a-17-year-old-excel-vulnerability-is-currently-being-exploited-by-threat-actors-and-its-been-flagged-by-the-us-cyber-defence-agency/)<!-- GAME:END -->
+ - [Zohran Mamdani turns philanthropy and corporate greed into an extended Mario Kart metaphor: &#39;Government is Yoshi&#39;](https://www.pcgamer.com/games/racing/zohran-mamdani-turns-philanthropy-and-corporate-greed-into-an-extended-mario-kart-metaphor-government-is-yoshi/)
+ - [The classic Xenosaga series is finally making its PC debut, but don&#39;t get too excited because it&#39;s a 2004 mobile game port](https://www.pcgamer.com/games/rpg/the-classic-xenosaga-series-is-finally-making-its-pc-debut-but-dont-get-too-excited-because-its-a-2004-mobile-game-port/)
+ - [Doctor Who fans still can&#39;t let go of the Tenth Doctor and Rose Tyler](https://www.polygon.com/doctor-who-season-2-david-tennant-billie-piper/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
