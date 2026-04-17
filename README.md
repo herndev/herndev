@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung addresses the ‘burden’ of AI, and why it won’t make small phones anymore](https://www.androidauthority.com/samsung-galaxy-ai-future-vision-ama-3658489/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 17 #775](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-17-775/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 17, #1041](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-17-1041/)<!-- TECH:END -->
+ - [The DJI Osmo Pocket 4 is here, but its “Pro” sibling is still waiting in the wings](https://www.androidauthority.com/dji-osmo-pocket-4-launch-3658515/)
+ - [Sources: Dario Amodei is set to meet with WH Chief of Staff Susie Wiles on Friday, a breakthrough in Anthropic&#39;s effort to resolve its fight with the Pentagon &lpar;Axios&rpar;](http://www.techmeme.com/260417/p7#a260417p7)
+ - [AT&amp;T Revamped Its Unlimited Phone Plans. Here&#39;s How They Compare](https://www.cnet.com/tech/mobile/att-revamped-its-unlimited-phone-plans-heres-how-they-compare/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
