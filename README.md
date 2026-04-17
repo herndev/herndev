@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SpaceX told employees that it has moved up the scheduled date for when shares awarded to employees become eligible for sale from May to April &lpar;Bloomberg&rpar;](http://www.techmeme.com/260416/p56#a260416p56)
- - [Roblox Will Pay $12 Million to Settle Nevada Child Safety Lawsuit](https://www.cnet.com/tech/gaming/roblox-settlement-nevada-12-million-payout-lawsuit-child-safety/)
- - [Alibaba unveils Qwen3.6-35B-A3B, an open-weight MoE model with 35B total and 3B active parameters, saying it rivals larger dense models in agentic coding tasks &lpar;Qwen&rpar;](http://www.techmeme.com/260416/p55#a260416p55)<!-- TECH:END -->
+ - [Q&amp;A: Ronan Farrow on his Sam Altman profile in The New Yorker, how Altman changed in 18 months of reporting, OpenAI&#39;s board drama and enterprise shift, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260416/p60#a260416p60)
+ - [Sources: Cerebras plans to make its IPO public as soon as Friday, aiming to raise $3B+ at a $35B+ valuation, a 60% premium to its $22B February valuation &lpar;The Information&rpar;](http://www.techmeme.com/260416/p59#a260416p59)
+ - [Sources: OpenAI agrees to pay Cerebras $20B+ to use its server chips, double the amount previously associated with the deal, and may receive equity in Cerebras &lpar;The Information&rpar;](http://www.techmeme.com/260416/p58#a260416p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
