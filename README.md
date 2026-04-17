@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google tests Play Store UI change that should help picky gamers save time](https://www.androidauthority.com/google-play-store-games-tab-ui-change-3658482/)
- - [Physical Intelligence says its new model, π0.7, can direct robots on tasks they weren&#39;t trained on, an &quot;early sign&quot; of generalization, surprising researchers &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/260417/p4#a260417p4)
- - [Sources: OnlyFans is in advanced talks to sell a below 20% stake at a $3B+ valuation; previous reports said it wants to sell a ~60% stake at a ~$5.5B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p3#a260417p3)<!-- TECH:END -->
+ - [Samsung addresses the ‘burden’ of AI, and why it won’t make small phones anymore](https://www.androidauthority.com/samsung-galaxy-ai-future-vision-ama-3658489/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 17 #775](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-17-775/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 17, #1041](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-17-1041/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
