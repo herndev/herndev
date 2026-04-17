@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Forging a Lethal Sword](http://9gag.com/gag/a6ZYEnm)
- - ⏩ [Total is a sad day. My best Friend is gone. 15 years old and you were always there for me. Thanks buddy and rest in peace.](http://9gag.com/gag/a6ZY1Gm)
- - 👉 [Remarkable old school tech](http://9gag.com/gag/avyKA9d)<!-- MEMES:END -->
+ - 💣 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
+ - ⏩ [Pete Hegseth quotes a fake Bible verse from Pulp Fiction during a Pentagon sermon...](http://9gag.com/gag/aNDEwn6)
+ - 👉 [Cream](http://9gag.com/gag/abAngZv)<!-- MEMES:END -->
 
 ---
 
