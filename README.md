@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jobs anybody?](http://9gag.com/gag/aMVM4vP)
- - ⏩ [ROFL](http://9gag.com/gag/ary7mL5)
- - 👉 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)<!-- MEMES:END -->
+ - 💣 [Take a moment to remember a fallen brother. Last post 12 Sep 24, last upvote 14 Sep 24.](http://9gag.com/gag/a1m3mpP)
+ - ⏩ [Pete Hegseth quotes a fake Bible verse from Pulp Fiction during a Pentagon sermon...](http://9gag.com/gag/aNDEwn6)
+ - 👉 [My fellow boomer](http://9gag.com/gag/aAyzyP0)<!-- MEMES:END -->
 
 ---
 
