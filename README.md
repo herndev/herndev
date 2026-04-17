@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well well well](http://9gag.com/gag/aGy4dNZ)
- - ⏩ [When someone hears this bird sound, they will think it is spring.](http://9gag.com/gag/a6ZY1bR)
- - 👉 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)<!-- MEMES:END -->
+ - 💣 [When someone hears this bird sound, they will think it is spring.](http://9gag.com/gag/a6ZY1bR)
+ - ⏩ [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
+ - 👉 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)<!-- MEMES:END -->
 
 ---
 
