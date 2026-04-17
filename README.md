@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Samsung Galaxy A27 renders hint at a long-overdue design refresh](https://www.androidauthority.com/samsung-galaxy-a27-renders-3658627/)
- - [Betting on the news raises ethical questions for journalists](https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket)
- - [Samsung’s new cases turn your Galaxy Buds 4 into a tin of sardines, and I absolutely want one](https://www.androidauthority.com/samsung-galaxy-buds-4-food-can-cases-3658672/)<!-- TECH:END -->
+ - [In disclosures due to Broadcom CEO Hock Tan&#39;s presence on the Meta board, Meta says it paid Broadcom $2.3B in 2025; Tan is leaving the board &lpar;Martin Peers/The Information&rpar;](http://www.techmeme.com/260417/p29#a260417p29)
+ - [Aspekt Touch 4K Monitor with Mac mini dock is cool, but $2200 is too expensive](https://appleinsider.com/articles/26/04/17/aspekt-touch-4k-monitor-with-mac-mini-dock-is-cool-but-2200-is-too-expensive?utm_source=rss)
+ - [Sources: Cursor is in advanced talks to raise about $2B co-led by a16z at a valuation of more than $50B, not including the investment, with Nvidia participating &lpar;Bloomberg&rpar;](http://www.techmeme.com/260417/p28#a260417p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
