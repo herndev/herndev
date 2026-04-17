@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She made a strong impression](http://9gag.com/gag/aPAb7zQ)
- - ⏩ [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)
- - 👉 [Some people](http://9gag.com/gag/aGy4d76)<!-- MEMES:END -->
+ - 💣 [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
+ - ⏩ [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
+ - 👉 [My heart stopped for a second](http://9gag.com/gag/aByBmV2)<!-- MEMES:END -->
 
 ---
 
