@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DJI Osmo Pocket 4 is here, but its “Pro” sibling is still waiting in the wings](https://www.androidauthority.com/dji-osmo-pocket-4-launch-3658515/)
- - [Sources: Dario Amodei is set to meet with WH Chief of Staff Susie Wiles on Friday, a breakthrough in Anthropic&#39;s effort to resolve its fight with the Pentagon &lpar;Axios&rpar;](http://www.techmeme.com/260417/p7#a260417p7)
- - [AT&amp;T Revamped Its Unlimited Phone Plans. Here&#39;s How They Compare](https://www.cnet.com/tech/mobile/att-revamped-its-unlimited-phone-plans-heres-how-they-compare/)<!-- TECH:END -->
+ - [Samsung’s latest Galaxy Tab for your kids could outlast their childhood](https://www.androidauthority.com/samsung-galaxy-tab-a11-plus-kids-edition-3658508/)
+ - [How Can Astronauts Tell How Fast They’re Going?](https://www.wired.com/story/how-can-astronauts-tell-how-fast-theyre-going/)
+ - [Canyon Spectral:ON CF 8 Electric Mountain Bike: Beginner-Friendly, Under $5K](https://www.wired.com/review/canyon-spectralon-cf-8/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
