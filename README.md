@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve’s Proton gets a big upgrade, and it could improve PC gaming on Android](https://www.androidauthority.com/steam-proton-pc-game-emulation-android-3658547/)
- - [Republican Mutiny Sinks Trump&#39;s Push to Extend Warrantless Surveillance](https://www.wired.com/story/republican-mutiny-sinks-trumps-push-to-extend-warrantless-surveillance/)
- - [India drops a proposal to require Apple, Google, Samsung, and others to pre-install the country&#39;s biometric identification app Aadhaar on phones &lpar;Reuters&rpar;](http://www.techmeme.com/260417/p18#a260417p18)<!-- TECH:END -->
+ - [Sources: xAI plans to let Cursor train Composer 2.5 AI coding model using tens of thousands of xAI&#39;s GPUs, a new strategy for xAI in a competitive AI landscape &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260417/p22#a260417p22)
+ - [Anthropic launches Claude Design, a new experimental product that lets users create visuals like prototypes, slides, one-pagers, and more using Claude &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260417/p21#a260417p21)
+ - [The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price](https://www.theverge.com/gadgets/913857/apple-airpods-pro-3-blink-video-doorbell-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
