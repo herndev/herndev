@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [She made a strong impression](http://9gag.com/gag/aPAb7zQ)
- - ⏩ [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
- - 👉 [Backflip catching a frozen piss missile, with the superhero landing](http://9gag.com/gag/aKGo6OQ)<!-- MEMES:END -->
+ - ⏩ [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)
+ - 👉 [Some people](http://9gag.com/gag/aGy4d76)<!-- MEMES:END -->
 
 ---
 
