@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My heart stopped for a second](http://9gag.com/gag/aByBmV2)
- - ⏩ [Cant fall asleep](http://9gag.com/gag/aqyon8R)
- - 👉 [Nice use of perspect\u2026](http://9gag.com/gag/a9ygn76)<!-- MEMES:END -->
+ - 💣 [I am very shocked about this](http://9gag.com/gag/ae98ANp)
+ - ⏩ [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
+ - 👉 [When someone hears this bird sound, they will think it is spring.](http://9gag.com/gag/a6ZY1bR)<!-- MEMES:END -->
 
 ---
 
