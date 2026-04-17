@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Czech Dudes are just so friendly and kind](http://9gag.com/gag/aNDEw26)
- - ⏩ [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)
- - 👉 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)<!-- MEMES:END -->
+ - 💣 [Forging a Lethal Sword](http://9gag.com/gag/a6ZYEnm)
+ - ⏩ [Total is a sad day. My best Friend is gone. 15 years old and you were always there for me. Thanks buddy and rest in peace.](http://9gag.com/gag/a6ZY1Gm)
+ - 👉 [Remarkable old school tech](http://9gag.com/gag/avyKA9d)<!-- MEMES:END -->
 
 ---
 
