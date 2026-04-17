@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s latest Galaxy Tab for your kids could outlast their childhood](https://www.androidauthority.com/samsung-galaxy-tab-a11-plus-kids-edition-3658508/)
- - [How Can Astronauts Tell How Fast They’re Going?](https://www.wired.com/story/how-can-astronauts-tell-how-fast-theyre-going/)
- - [Canyon Spectral:ON CF 8 Electric Mountain Bike: Beginner-Friendly, Under $5K](https://www.wired.com/review/canyon-spectralon-cf-8/)<!-- TECH:END -->
+ - [Docs: US tech companies successfully lobbied the EU to hide data centers&#39; environmental toll; one of their demands was written almost verbatim into EU rules &lpar;The Guardian&rpar;](http://www.techmeme.com/260417/p10#a260417p10)
+ - [Best Bluetooth Speakers &lpar;2026&rpar;: JBL, Sonos, Bose, and More](https://www.wired.com/gallery/best-bluetooth-speakers/)
+ - [Your Android gaming handheld can now run Steam games, but there’s a catch](https://www.androidauthority.com/android-gaming-handheld-steam-rocknix-3658534/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
