@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When someone hears this bird sound, they will think it is spring.](http://9gag.com/gag/a6ZY1bR)
+ - 💣 [She made a strong impression](http://9gag.com/gag/aPAb7zQ)
  - ⏩ [23 years ago, when we didn&#39;t have Ai](http://9gag.com/gag/aLn7pjz)
- - 👉 [Damn these Mr. Beast Games are getting out of hand](http://9gag.com/gag/a9ygE80)<!-- MEMES:END -->
+ - 👉 [Backflip catching a frozen piss missile, with the superhero landing](http://9gag.com/gag/aKGo6OQ)<!-- MEMES:END -->
 
 ---
 
