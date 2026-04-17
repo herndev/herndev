@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [$320M money laundering scheme uncovered using iCloud backup](https://appleinsider.com/articles/26/04/16/320m-money-laundering-scheme-uncovered-using-icloud-backup?utm_source=rss)
- - [NYC-based Nas.com, an AI platform founded by content creator Nas Daily that helps solo entrepreneurs build online stores, raised a $27M Series A led by Khosla &lpar;Robert Scammell/Business Insider&rpar;](http://www.techmeme.com/260416/p52#a260416p52)
- - [Pixel Glow ‘visual feedback’ tool might just hint at big Pixel 11 hardware changes](https://www.androidauthority.com/pixel-glow-3658443/)<!-- TECH:END -->
+ - [Swiss Privacy Goes Global: Proton VPN Grows Coverage to 145 Countries](https://www.cnet.com/tech/services-and-software/proton-vpn-global-coverage-145-countries/)
+ - [IAB and PwC: digital ad revenue hit $294.6B in 2025, up 13.9% YoY; social media advertising hit $117.7B, up 32.6%, and digital video hit $78B, up 25.4% &lpar;George Winslow/TV Tech&rpar;](http://www.techmeme.com/260416/p54#a260416p54)
+ - [The Best iPhone 17 Cases for 2026](https://www.cnet.com/tech/mobile/best-iphone-17-cases-for-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
