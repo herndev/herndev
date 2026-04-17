@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo’s new teaser gives the best look yet at the next Legion gaming phone](https://www.androidauthority.com/lenovo-legion-y70-2026-teaser-3658634/)
- - [App Store scams are getting worse and Apple isn&#39;t doing enough](https://appleinsider.com/articles/26/04/17/app-store-scams-are-getting-worse-and-apple-isnt-doing-enough?utm_source=rss)
- - [Ad buyers say ad rates for ChatGPT are falling from $60 CPM to as low as $25 and the minimum spend to advertise is down to $50K from $250K at launch &lpar;Krystal Scanlon/Digiday&rpar;](http://www.techmeme.com/260417/p25#a260417p25)<!-- TECH:END -->
+ - [First Samsung Galaxy A27 renders hint at a long-overdue design refresh](https://www.androidauthority.com/samsung-galaxy-a27-renders-3658627/)
+ - [Betting on the news raises ethical questions for journalists](https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket)
+ - [Samsung’s new cases turn your Galaxy Buds 4 into a tin of sardines, and I absolutely want one](https://www.androidauthority.com/samsung-galaxy-buds-4-food-can-cases-3658672/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
