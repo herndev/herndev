@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When someone hears this bird sound, they will think it is spring.](http://9gag.com/gag/a6ZY1bR)
- - ⏩ [Pete Hegseth quotes a fake Bible verse from Pulp Fiction during a Pentagon sermon...](http://9gag.com/gag/aNDEwn6)
- - 👉 [Cream](http://9gag.com/gag/abAngZv)<!-- MEMES:END -->
+ - 💣 [Forging a Lethal Sword](http://9gag.com/gag/a6ZYEnm)
+ - ⏩ [Total is a sad day. My best Friend is gone. 15 years old and you were always there for me. Thanks buddy and rest in peace.](http://9gag.com/gag/a6ZY1Gm)
+ - 👉 [Remarkable old school tech](http://9gag.com/gag/avyKA9d)<!-- MEMES:END -->
 
 ---
 
