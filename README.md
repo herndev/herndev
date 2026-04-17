@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Recursive Superintelligence, a four-month-old start-up developing self-teaching AI and founded by ex-DeepMind and OpenAI engineers, has raised $500M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p37#a260417p37)
- - [Save 27% as the Anker SOLIX F3800 Portable Power Station drops to a 2026 low](https://www.androidauthority.com/deal-anker-solix-f3800-portable-power-station-3658766/)
- - [White House says a meeting between Chief of Staff Susie Wiles and Dario Amodei had been &quot;productive and constructive&quot;; source: Scott Bessent joined the meeting &lpar;Axios&rpar;](http://www.techmeme.com/260417/p36#a260417p36)<!-- TECH:END -->
+ - [The latest Android Canary build is hitting older Pixel phones, foldables, and tablets](https://www.androidauthority.com/android-canary-2604-expanded-rollout-3658769/)
+ - [One Rumored Color for the iPhone 18 Pro? A Rich Dark Cherry Red](https://www.cnet.com/tech/mobile/iphone-18-pro-dark-cherry-rumor/)
+ - [Sources: Recursive Superintelligence, a four-month-old start-up developing self-teaching AI and founded by ex-DeepMind and OpenAI engineers, has raised $500M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p37#a260417p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
