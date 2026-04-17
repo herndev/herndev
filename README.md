@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am very shocked about this](http://9gag.com/gag/ae98ANp)
- - ⏩ [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)
- - 👉 [When someone hears this bird sound, they will think it is spring.](http://9gag.com/gag/a6ZY1bR)<!-- MEMES:END -->
+ - 💣 [Well well well](http://9gag.com/gag/aGy4dNZ)
+ - ⏩ [When someone hears this bird sound, they will think it is spring.](http://9gag.com/gag/a6ZY1bR)
+ - 👉 [SHE WILL NOT BE FORGOTTEN](http://9gag.com/gag/amo4Pey)<!-- MEMES:END -->
 
 ---
 
