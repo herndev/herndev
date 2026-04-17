@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Dario Amodei, who says the negative narrative around AI is dominant because the industry hasn&#39;t yet fully delivered the benefits it promises &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/260417/p15#a260417p15)
- - [The ‘AI is inevitable’ trap](https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast)
- - [Apple at 50: Gil Amelio, the CEO who brought back Steve Jobs](https://appleinsider.com/articles/26/04/17/apple-at-50-gil-amelio-the-ceo-who-brought-back-steve-jobs?utm_source=rss)<!-- TECH:END -->
+ - [Valve’s Proton gets a big upgrade, and it could improve PC gaming on Android](https://www.androidauthority.com/steam-proton-pc-game-emulation-android-3658547/)
+ - [Republican Mutiny Sinks Trump&#39;s Push to Extend Warrantless Surveillance](https://www.wired.com/story/republican-mutiny-sinks-trumps-push-to-extend-warrantless-surveillance/)
+ - [India drops a proposal to require Apple, Google, Samsung, and others to pre-install the country&#39;s biometric identification app Aadhaar on phones &lpar;Reuters&rpar;](http://www.techmeme.com/260417/p18#a260417p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
