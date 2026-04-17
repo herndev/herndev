@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs: US tech companies successfully lobbied the EU to hide data centers&#39; environmental toll; one of their demands was written almost verbatim into EU rules &lpar;The Guardian&rpar;](http://www.techmeme.com/260417/p10#a260417p10)
- - [Best Bluetooth Speakers &lpar;2026&rpar;: JBL, Sonos, Bose, and More](https://www.wired.com/gallery/best-bluetooth-speakers/)
- - [Your Android gaming handheld can now run Steam games, but there’s a catch](https://www.androidauthority.com/android-gaming-handheld-steam-rocknix-3658534/)<!-- TECH:END -->
+ - [An interview with Dario Amodei, who says the negative narrative around AI is dominant because the industry hasn&#39;t yet fully delivered the benefits it promises &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/260417/p15#a260417p15)
+ - [The ‘AI is inevitable’ trap](https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast)
+ - [Apple at 50: Gil Amelio, the CEO who brought back Steve Jobs](https://appleinsider.com/articles/26/04/17/apple-at-50-gil-amelio-the-ceo-who-brought-back-steve-jobs?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
