@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swiss Privacy Goes Global: Proton VPN Grows Coverage to 145 Countries](https://www.cnet.com/tech/services-and-software/proton-vpn-global-coverage-145-countries/)
- - [IAB and PwC: digital ad revenue hit $294.6B in 2025, up 13.9% YoY; social media advertising hit $117.7B, up 32.6%, and digital video hit $78B, up 25.4% &lpar;George Winslow/TV Tech&rpar;](http://www.techmeme.com/260416/p54#a260416p54)
- - [The Best iPhone 17 Cases for 2026](https://www.cnet.com/tech/mobile/best-iphone-17-cases-for-2026/)<!-- TECH:END -->
+ - [Sources: SpaceX told employees that it has moved up the scheduled date for when shares awarded to employees become eligible for sale from May to April &lpar;Bloomberg&rpar;](http://www.techmeme.com/260416/p56#a260416p56)
+ - [Roblox Will Pay $12 Million to Settle Nevada Child Safety Lawsuit](https://www.cnet.com/tech/gaming/roblox-settlement-nevada-12-million-payout-lawsuit-child-safety/)
+ - [Alibaba unveils Qwen3.6-35B-A3B, an open-weight MoE model with 35B total and 3B active parameters, saying it rivals larger dense models in agentic coding tasks &lpar;Qwen&rpar;](http://www.techmeme.com/260416/p55#a260416p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
