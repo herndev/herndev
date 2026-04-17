@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: xAI plans to let Cursor train Composer 2.5 AI coding model using tens of thousands of xAI&#39;s GPUs, a new strategy for xAI in a competitive AI landscape &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/260417/p22#a260417p22)
- - [Anthropic launches Claude Design, a new experimental product that lets users create visuals like prototypes, slides, one-pagers, and more using Claude &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260417/p21#a260417p21)
- - [The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price](https://www.theverge.com/gadgets/913857/apple-airpods-pro-3-blink-video-doorbell-deal-sale)<!-- TECH:END -->
+ - [It’s not just Apple: Android users are more loyal than ever](https://www.androidauthority.com/smartphone-survey-more-brand-loyalty-3658621/)
+ - [Netflix plans to launch a vertical video feed, to help with content discovery, this month, and plans to use AI for content creation and recommendations &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260417/p24#a260417p24)
+ - [Our new favorite budget phones](https://www.theverge.com/tech/912286/our-new-favorite-budget-phones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
