@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)
- - ⏩ [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
- - 👉 [Clumsy mom](http://9gag.com/gag/aByB6oz)<!-- MEMES:END -->
+ - 💣 [If it works , it works](http://9gag.com/gag/aLn7zOW)
+ - ⏩ [Repost for my brothers. This saved me tonight from ending it](http://9gag.com/gag/aQzWv1q)
+ - 👉 [Everyone would](http://9gag.com/gag/a4PO686)<!-- MEMES:END -->
 
 ---
 
