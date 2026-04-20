@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Proper use of a drone](http://9gag.com/gag/aXP6M19)
- - ⏩ [Save the trees](http://9gag.com/gag/apRZDd8)
- - 👉 [Old Repost but gold](http://9gag.com/gag/aoyQ3bg)<!-- MEMES:END -->
+ - 💣 [Save the trees](http://9gag.com/gag/apRZDd8)
+ - ⏩ [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
+ - 👉 [No antigravity after all](http://9gag.com/gag/a0eyVdL)<!-- MEMES:END -->
 
 ---
 
