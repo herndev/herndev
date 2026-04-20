@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Elden Ring movie hits theaters in March 2028](https://www.theverge.com/entertainment/914818/elden-ring-movie-date-cast)
- - [Filing: Michael Saylor&#39;s Strategy bought $2.54B in bitcoin over the past seven days, its largest acquisition since November 2024; Strategy owns ~$61B in bitcoin &lpar;Matt Haldane/Bloomberg&rpar;](http://www.techmeme.com/260420/p10#a260420p10)
- - [Apple TV reaping the benefits of stale content on bigger streamers](https://appleinsider.com/articles/26/04/20/apple-tv-reaping-the-benefits-of-stale-content-on-bigger-streamers?utm_source=rss)<!-- TECH:END -->
+ - [Mac sales on the rise, prior to RAM &amp; SSD pricing hammering PC market](https://appleinsider.com/articles/26/04/20/mac-sales-on-the-rise-prior-to-ram-ssd-pricing-hammering-pc-market?utm_source=rss)
+ - [OnePlus confirms regional roadmap rethink amid key employee departures](https://www.androidauthority.com/oneplus-europe-troubles-employees-leave-3658947/)
+ - [Samsung’s Project Luna companion might succeed where Ballie failed](https://www.androidauthority.com/samsung-project-luna-ai-concept-3658986/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
