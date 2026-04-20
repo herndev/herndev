@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Save the trees](http://9gag.com/gag/apRZDd8)
- - ⏩ [Everyone would](http://9gag.com/gag/a4PO686)
- - 👉 [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)<!-- MEMES:END -->
+ - 💣 [Everyone would](http://9gag.com/gag/a4PO686)
+ - ⏩ [New Gucci store opened in Woodbury Commons, New York and immediately this happened](http://9gag.com/gag/aE0m6ox)
+ - 👉 [Clumsy mom](http://9gag.com/gag/aByB6oz)<!-- MEMES:END -->
 
 ---
 
