@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Clumsy mom](http://9gag.com/gag/aByB6oz)
- - ⏩ [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)
- - 👉 [Save the trees](http://9gag.com/gag/apRZDd8)<!-- MEMES:END -->
+ - ⏩ [Save the trees](http://9gag.com/gag/apRZDd8)
+ - 👉 [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)<!-- MEMES:END -->
 
 ---
 
