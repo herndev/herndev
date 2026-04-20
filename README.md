@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
- - ⏩ [Ten months from now, all devices sold within the European Union must have batteries that are easily replaceable by the average user. This law even includes Apple, which has already begun designing its phones to have replaceable batteries.](http://9gag.com/gag/aPAbPnG)
+ - 💣 [Save the trees](http://9gag.com/gag/apRZDd8)
+ - ⏩ [Had to remove the cancer music](http://9gag.com/gag/aE0m6Wo)
  - 👉 [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)<!-- MEMES:END -->
 
 ---
