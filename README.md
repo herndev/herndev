@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus just turned its next phone into an Android gaming handheld](https://www.androidauthority.com/oneplus-ace-6-ultra-gaming-handheld-3658845/)
- - [Sources: Polymarket is in talks to raise $400M at a ~$15B post-money valuation, up from $9B in October 2025, but below Kalshi&#39;s $22B valuation from March 2026 &lpar;The Information&rpar;](http://www.techmeme.com/260419/p18#a260419p18)
- - [Australian data center operator NextDC plans to raise AU$1.5B in equity for its 350MW Sydney site rollout, and raises its FY26 capex by AU$300M to AU$2.7B-AU$3B &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/260419/p17#a260419p17)<!-- TECH:END -->
+ - [SK hynix says it has begun mass production of the 192GB SOCAMM2, a next-gen LPDDR5X low-power DRAM module designed particularly for Nvidia&#39;s Vera Rubin &lpar;The Korea Herald&rpar;](http://www.techmeme.com/260420/p2#a260420p2)
+ - [Google’s mystery WHOOP rival may finally have a name](https://www.androidauthority.com/google-screenless-fitbit-name-leak-3658852/)
+ - [German Chancellor Friedrich Merz says he will push to ease the EU&#39;s &quot;regulatory burden&quot; on AI and possibly exempt industrial AI to boost productivity &lpar;Andreas Rinke/Reuters&rpar;](http://www.techmeme.com/260420/p1#a260420p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
