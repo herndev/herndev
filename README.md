@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Second Apple Music outage in a week stops some customers from streaming](https://appleinsider.com/articles/26/04/20/second-apple-music-outage-in-a-week-stops-some-customers-from-streaming?utm_source=rss)
- - [The Soundcore C40i clip-on earbuds have never been cheaper at almost 60% off](https://www.androidauthority.com/anker-soundcore-c40i-clib-on-earbuds-3659163/)
- - [Japanese man sentenced to prison for posting spoilers](https://www.theverge.com/entertainment/914984/godzilla-minus-one-overlord-coda-spoilers-lawsuit-toho-kadokawa-shoten)<!-- TECH:END -->
+ - [Tim Cook thanks users &amp; Apple employees after 15 years of being CEO](https://appleinsider.com/articles/26/04/20/tim-cook-thanks-users-apple-employees-after-15-years-of-being-ceo?utm_source=rss)
+ - [Apple names Johny Srouji as chief hardware officer](https://www.theverge.com/tech/915240/apple-johny-srouji-ternus-cook)
+ - [Apple CEO Tim Cook Is Stepping Down](https://www.wired.com/story/tim-cook-stepping-down-ceo-apple-john-ternus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
