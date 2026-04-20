@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take a moment to remember a fallen brother. Last post 12 Sep 24, last upvote 14 Sep 24.](http://9gag.com/gag/a1m3mpP)
- - ⏩ [Pete Hegseth quotes a fake Bible verse from Pulp Fiction during a Pentagon sermon...](http://9gag.com/gag/aNDEwn6)
- - 👉 [My fellow boomer](http://9gag.com/gag/aAyzyP0)<!-- MEMES:END -->
+ - 💣 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
+ - ⏩ [New Gucci store opened in Woodbury Commons, New York and immediately this happened](http://9gag.com/gag/aE0m6ox)
+ - 👉 [Clumsy mom](http://9gag.com/gag/aByB6oz)<!-- MEMES:END -->
 
 ---
 
