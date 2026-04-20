@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arthur Levinson to become Apple&#39;s Lead Independent Director](https://appleinsider.com/articles/26/04/20/arthur-levinson-to-become-apples-lead-independent-director?utm_source=rss)
- - [Tim Cook thanks users &amp; Apple employees after 15 years of being CEO](https://appleinsider.com/articles/26/04/20/tim-cook-thanks-users-apple-employees-after-15-years-of-being-ceo?utm_source=rss)
- - [John Ternus is taking over from Tim Cook as Apple&amp;#8217;s CEO](https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook)<!-- TECH:END -->
+ - [Q&amp;A with Canva CEO Melanie Perkins on the company&#39;s growth in enterprise, competing with AI labs, token pricing, investing in its own models, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260420/p30#a260420p30)
+ - [The Lenovo Legion Go S is RAMageddon’s latest victim](https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon)
+ - [How Tim Cook started at Apple in 1998, and how 15 years of being the CEO ends](https://appleinsider.com/articles/26/04/20/how-tim-cook-started-at-apple-in-1998-and-how-15-years-of-being-the-ceo-ends?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
