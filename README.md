@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If it works , it works](http://9gag.com/gag/aLn7zOW)
- - ⏩ [Everyone would](http://9gag.com/gag/a4PO686)
- - 👉 [Look what I made: A real lumibug steampunk!](http://9gag.com/gag/aGy48OG)<!-- MEMES:END -->
+ - 💣 [Power trip of female cop prevents dad from seeing his daughters](http://9gag.com/gag/adBDvmM)
+ - ⏩ [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
+ - 👉 [The people of the orange app](http://9gag.com/gag/azxp5PK)<!-- MEMES:END -->
 
 ---
 
