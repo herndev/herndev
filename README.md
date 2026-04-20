@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest Android Canary build is hitting older Pixel phones, foldables, and tablets](https://www.androidauthority.com/android-canary-2604-expanded-rollout-3658769/)
- - [One Rumored Color for the iPhone 18 Pro? A Rich Dark Cherry Red](https://www.cnet.com/tech/mobile/iphone-18-pro-dark-cherry-rumor/)
- - [Sources: Recursive Superintelligence, a four-month-old start-up developing self-teaching AI and founded by ex-DeepMind and OpenAI engineers, has raised $500M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/260417/p37#a260417p37)<!-- TECH:END -->
+ - [Fermi CEO Toby Neugebauer is leaving the company, as the data center developer faces issues in securing an anchor tenant and construction delays &lpar;Amy Harder/Axios&rpar;](http://www.techmeme.com/260419/p14#a260419p14)
+ - [Blue Origin successfully reused its New Glenn rocket](https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket)
+ - [Sunday Reboot: Japan ads, AI assistance, and a nice retirement](https://appleinsider.com/articles/26/04/19/sunday-reboot-japan-ads-ai-assistance-and-a-nice-retirement?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
