@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyone would](http://9gag.com/gag/a4PO686)
- - ⏩ [This one was pretty good](http://9gag.com/gag/aLn7egv)
- - 👉 [Otter pups help tidy up at closing time and get ice cubes as a reward](http://9gag.com/gag/amo412d)<!-- MEMES:END -->
+ - 💣 [If it works , it works](http://9gag.com/gag/aLn7zOW)
+ - ⏩ [Everyone would](http://9gag.com/gag/a4PO686)
+ - 👉 [Look what I made: A real lumibug steampunk!](http://9gag.com/gag/aGy48OG)<!-- MEMES:END -->
 
 ---
 
