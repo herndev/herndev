@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and Samsung just got beaten to the Wide Fold punch once again](https://www.androidauthority.com/huawei-pura-x-max-launch-3658876/)
- - [When will it end? Galaxy S25 series gets tenth One UI 8.5 beta](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-beta-10-3658882/)
- - [Never mind S26 Ultra, this new Pro Max has the first 200MP camera of its kind](https://www.androidauthority.com/huawei-pura-90-pro-max-3658873/)<!-- TECH:END -->
+ - [GoPro’s new Mission cameras are priced beyond most weekend athletes](https://www.theverge.com/gadgets/914764/gopros-mission-camera-prices)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 20 #778](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-20-778/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 20, #1044](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-20-1044/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
