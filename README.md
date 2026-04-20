@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Maria Davidson, who heads California Renewal, a pro-business political group backed by Silicon Valley power players, seeking to raise $100M in 2026 &lpar;Emily Shugerman/The San Francisco ...&rpar;](http://www.techmeme.com/260419/p16#a260419p16)
  - [Match Group CEO Spencer Rascoff says growing women&#39;s share on Tinder is his &quot;primary focus&quot; to stem user declines; Sensor Tower says 75% of Tinder users are men &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/260419/p15#a260419p15)
- - [Fermi CEO Toby Neugebauer is leaving the company, as the data center developer faces issues in securing an anchor tenant and construction delays &lpar;Amy Harder/Axios&rpar;](http://www.techmeme.com/260419/p14#a260419p14)
- - [Blue Origin successfully reused its New Glenn rocket](https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket)<!-- TECH:END -->
+ - [Fermi CEO Toby Neugebauer is leaving the company, as the data center developer faces issues in securing an anchor tenant and construction delays &lpar;Amy Harder/Axios&rpar;](http://www.techmeme.com/260419/p14#a260419p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
