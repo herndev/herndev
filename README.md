@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
- - ⏩ [Kid was surely annoying](http://9gag.com/gag/a7oReZm)
- - 👉 [Durban, South Africa is an example of what happened in less than 20 years when the White population decreases.](http://9gag.com/gag/a87x63e)<!-- MEMES:END -->
+ - 💣 [Ten months from now, all devices sold within the European Union must have batteries that are easily replaceable by the average user. This law even includes Apple, which has already begun designing its phones to have replaceable batteries.](http://9gag.com/gag/aPAbPnG)
+ - ⏩ [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
+ - 👉 [Save the trees](http://9gag.com/gag/apRZDd8)<!-- MEMES:END -->
 
 ---
 
