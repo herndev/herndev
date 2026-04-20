@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Ball Xenoverse 3 is finally here after a decade of waiting](https://www.polygon.com/dragon-ball-xenoverse-3-announced/)
- - [Dragon Ball Xenoverse 3 and everything else announced at Dragon Ball Games Battle Hour 2026](https://www.polygon.com/dragon-ball-games-battle-hour-2026-every-announcement-xenoverse-3/)
- - [Modder Discovers Abandoned Sewer Level In Dark Souls II Nearly 12 Years Later](https://kotaku.com/modder-discovers-abandoned-dark-souls-ii-level-even-more-sewers-2000688887)<!-- GAME:END -->
+ - [I thought this sci-fi mystery looked cool, but my interest dropped when I realized it&#39;s another multiplayer survival-crafting game](https://www.pcgamer.com/games/survival-crafting/i-thought-this-sci-fi-mystery-looked-cool-but-my-interest-dropped-when-i-realized-its-another-multiplayer-survival-crafting-game/)
+ - [Magic: The Gathering&#39;s next wizard university set feels like going back to school, because we sure are going to have to learn a lot of mechanics](https://www.pcgamer.com/games/card-games/magic-the-gatherings-next-wizard-university-set-feels-like-going-back-to-school-because-we-sure-are-going-to-have-to-learn-a-lot-of-mechanics/)
+ - [Steam week in review: Pragmata and Windrose face off, with sad sci-fi dads proving no match for tree-chopping pirates](https://www.pcgamer.com/gaming-industry/steam-week-in-review-pragmata-and-windrose-face-off-with-sad-sci-fi-dads-proving-no-match-for-tree-chopping-pirates/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
