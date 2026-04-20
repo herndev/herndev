@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If it works , it works](http://9gag.com/gag/aLn7zOW)
- - ⏩ [Repost for my brothers. This saved me tonight from ending it](http://9gag.com/gag/aQzWv1q)
- - 👉 [Everyone would](http://9gag.com/gag/a4PO686)<!-- MEMES:END -->
+ - 💣 [Otter pups help tidy up at closing time and get ice cubes as a reward](http://9gag.com/gag/amo412d)
+ - ⏩ [Add more fingers](http://9gag.com/gag/aXP6MQ2)
+ - 👉 [Save the trees](http://9gag.com/gag/apRZDd8)<!-- MEMES:END -->
 
 ---
 
