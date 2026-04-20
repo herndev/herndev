@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac sales on the rise, prior to RAM &amp; SSD pricing hammering PC market](https://appleinsider.com/articles/26/04/20/mac-sales-on-the-rise-prior-to-ram-ssd-pricing-hammering-pc-market?utm_source=rss)
- - [OnePlus confirms regional roadmap rethink amid key employee departures](https://www.androidauthority.com/oneplus-europe-troubles-employees-leave-3658947/)
- - [Samsung’s Project Luna companion might succeed where Ballie failed](https://www.androidauthority.com/samsung-project-luna-ai-concept-3658986/)<!-- TECH:END -->
+ - [Blue Origin’s New Glenn rocket grounded after delivering satellite to wrong orbit](https://www.theverge.com/science/914866/blue-origin-new-glenn-grounded-faa)
+ - [Tariff refunds have started, but Apple won&#39;t see cash back for months](https://appleinsider.com/articles/26/04/20/tariff-refunds-have-started-but-apple-wont-see-cash-back-for-months?utm_source=rss)
+ - [Tesla launches robotaxis in Dallas and Houston, and oops, it’s already unavailable](https://www.theverge.com/transportation/914823/tesla-robotaxi-houston-dallas-unavailable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
