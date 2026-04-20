@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyone would](http://9gag.com/gag/a4PO686)
- - ⏩ [New Gucci store opened in Woodbury Commons, New York and immediately this happened](http://9gag.com/gag/aE0m6ox)
+ - 💣 [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)
+ - ⏩ [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
  - 👉 [Clumsy mom](http://9gag.com/gag/aByB6oz)<!-- MEMES:END -->
 
 ---
