@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of far-right influencer Nick Fuentes, who has been kicked off most mainstream social media but made ~$900K from &quot;fanatical&quot; donors since early 2025 &lpar;Washington Post&rpar;](http://www.techmeme.com/260420/p20#a260420p20)
- - [Insta360 is putting screens on its next wireless mics to show logos or images](https://www.theverge.com/tech/914814/insta360-wireless-mic-pro-e-ink-screen-nab-2026-teaser)
- - [A Hot-Air Balloon Landed in a California Backyard. The Owner Says It&#39;s a &#39;Very Rare&#39; Event](https://www.wired.com/story/a-brief-interview-with-the-owner-of-the-hot-air-balloon-that-landed-in-someones-backyard/)<!-- TECH:END -->
+ - [Second Apple Music outage in a week stops some customers from streaming](https://appleinsider.com/articles/26/04/20/second-apple-music-outage-in-a-week-stops-some-customers-from-streaming?utm_source=rss)
+ - [The Soundcore C40i clip-on earbuds have never been cheaper at almost 60% off](https://www.androidauthority.com/anker-soundcore-c40i-clib-on-earbuds-3659163/)
+ - [Japanese man sentenced to prison for posting spoilers](https://www.theverge.com/entertainment/914984/godzilla-minus-one-overlord-coda-spoilers-lawsuit-toho-kadokawa-shoten)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
