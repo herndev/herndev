@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak shows Apple and Samsung are chasing different designs for their upcoming foldables](https://www.androidauthority.com/apple-samsung-wide-foldable-comparison-3658912/)
- - [In an April 8 order, India&#39;s CCI says Apple failed to submit required data after a probe found alleged app market abuse, and sets a hearing for May on penalties &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/260420/p5#a260420p5)
- - [LayerZero says North Korea&#39;s Lazarus is likely behind the $292M Kelp DAO exploit on April 18, which triggered $10B in outflows from Aave over bad debt concerns &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/260420/p4#a260420p4)<!-- TECH:END -->
+ - [We Love the Bose QuietComfort Ultra 2, Especially at $50 Off](https://www.wired.com/story/bose-quietcomfort-ultra-2-earbuds-april-2026/)
+ - [I Was Cooking Bacon Wrong for Decades, and You Probably Are Too](https://www.cnet.com/news/i-was-cooking-bacon-wrong-for-decades-and-you-probably-are-too/)
+ - [Oura Ring vs. Apple Watch: The One Dealbreaker That Made My Choice](https://www.cnet.com/tech/mobile/apple-watch-vs-oura-ring-which-should-you-buy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
