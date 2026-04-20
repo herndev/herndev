@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
- - ⏩ [Power trip of female cop prevents dad from seeing his daughters](http://9gag.com/gag/adBDvmM)
- - 👉 [Clumsy mom](http://9gag.com/gag/aByB6oz)<!-- MEMES:END -->
+ - 💣 [Proper use of a drone](http://9gag.com/gag/aXP6M19)
+ - ⏩ [Save the trees](http://9gag.com/gag/apRZDd8)
+ - 👉 [Old Repost but gold](http://9gag.com/gag/aoyQ3bg)<!-- MEMES:END -->
 
 ---
 
