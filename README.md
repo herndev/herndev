@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Power trip of female cop prevents dad from seeing his daughters](http://9gag.com/gag/adBDvmM)
- - ⏩ [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
- - 👉 [The people of the orange app](http://9gag.com/gag/azxp5PK)<!-- MEMES:END -->
+ - 💣 [Save the trees](http://9gag.com/gag/apRZDd8)
+ - ⏩ [Everyone would](http://9gag.com/gag/a4PO686)
+ - 👉 [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)<!-- MEMES:END -->
 
 ---
 
