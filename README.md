@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new media company called MTS launches for &quot;monitoring the situation&quot; across tech, business, politics, and culture, with backing from a16z and others &lpar;a16z&rpar;](http://www.techmeme.com/260420/p18#a260420p18)
- - [Fortnite developers can make AI characters now — just don&amp;#8217;t try to date them](https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations)
- - [WhatsApp says it is testing a new subscription called WhatsApp Plus, which includes features like expanded pinned chats, custom lists, and new chat themes &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260420/p17#a260420p17)<!-- TECH:END -->
+ - [You can grab a Sonos Era 100 for $85 off thanks to Sonos’ latest refurb sale](https://www.theverge.com/gadgets/914900/sonos-era-100-300-refurbished-speakers-anker-nano-charger-deal-sale)
+ - [Filing in California&#39;s antitrust lawsuit: CA accuses Amazon of price-fixing by pressuring brands to ask competing retailers to increase prices on some products &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/260420/p19#a260420p19)
+ - [Having trouble joining the Android 17 Beta? This might be why](https://www.androidauthority.com/android-beta-signup-problems-3659011/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
