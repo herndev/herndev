@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arthur Levinson to become Apple&#39;s Lead Independent Director](https://appleinsider.com/articles/26/04/20/arthur-levinson-to-become-apples-lead-independent-director?utm_source=rss)
  - [Tim Cook thanks users &amp; Apple employees after 15 years of being CEO](https://appleinsider.com/articles/26/04/20/tim-cook-thanks-users-apple-employees-after-15-years-of-being-ceo?utm_source=rss)
- - [Apple names Johny Srouji as chief hardware officer](https://www.theverge.com/tech/915240/apple-johny-srouji-ternus-cook)
- - [Apple CEO Tim Cook Is Stepping Down](https://www.wired.com/story/tim-cook-stepping-down-ceo-apple-john-ternus/)<!-- TECH:END -->
+ - [John Ternus is taking over from Tim Cook as Apple&amp;#8217;s CEO](https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
