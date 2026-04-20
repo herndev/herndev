@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Durban, South Africa is an example of what happened in less than 20 years when the White population decreases.](http://9gag.com/gag/a87x63e)
- - ⏩ [This is how kidney thief lure you](http://9gag.com/gag/ae989oB)
- - 👉 [Power trip of female cop prevents dad from seeing his daughters](http://9gag.com/gag/adBDvmM)<!-- MEMES:END -->
+ - 💣 [Everyone would](http://9gag.com/gag/a4PO686)
+ - ⏩ [This one was pretty good](http://9gag.com/gag/aLn7egv)
+ - 👉 [Otter pups help tidy up at closing time and get ice cubes as a reward](http://9gag.com/gag/amo412d)<!-- MEMES:END -->
 
 ---
 
