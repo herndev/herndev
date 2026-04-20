@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GoPro’s new Mission cameras are priced beyond most weekend athletes](https://www.theverge.com/gadgets/914764/gopros-mission-camera-prices)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 20 #778](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-20-778/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 20, #1044](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-20-1044/)<!-- TECH:END -->
+ - [Leak shows Apple and Samsung are chasing different designs for their upcoming foldables](https://www.androidauthority.com/apple-samsung-wide-foldable-comparison-3658912/)
+ - [In an April 8 order, India&#39;s CCI says Apple failed to submit required data after a probe found alleged app market abuse, and sets a hearing for May on penalties &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/260420/p5#a260420p5)
+ - [LayerZero says North Korea&#39;s Lazarus is likely behind the $292M Kelp DAO exploit on April 18, which triggered $10B in outflows from Aave over bad debt concerns &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/260420/p4#a260420p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
