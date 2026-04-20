@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK hynix says it has begun mass production of the 192GB SOCAMM2, a next-gen LPDDR5X low-power DRAM module designed particularly for Nvidia&#39;s Vera Rubin &lpar;The Korea Herald&rpar;](http://www.techmeme.com/260420/p2#a260420p2)
- - [Google’s mystery WHOOP rival may finally have a name](https://www.androidauthority.com/google-screenless-fitbit-name-leak-3658852/)
- - [German Chancellor Friedrich Merz says he will push to ease the EU&#39;s &quot;regulatory burden&quot; on AI and possibly exempt industrial AI to boost productivity &lpar;Andreas Rinke/Reuters&rpar;](http://www.techmeme.com/260420/p1#a260420p1)<!-- TECH:END -->
+ - [Apple and Samsung just got beaten to the Wide Fold punch once again](https://www.androidauthority.com/huawei-pura-x-max-launch-3658876/)
+ - [When will it end? Galaxy S25 series gets tenth One UI 8.5 beta](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-beta-10-3658882/)
+ - [Never mind S26 Ultra, this new Pro Max has the first 200MP camera of its kind](https://www.androidauthority.com/huawei-pura-90-pro-max-3658873/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
