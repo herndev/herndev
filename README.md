@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Save the trees](http://9gag.com/gag/apRZDd8)
- - ⏩ [Clumsy mom](http://9gag.com/gag/aByB6oz)
- - 👉 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)<!-- MEMES:END -->
+ - 💣 [David Beckham never gonna let it slide one bit ever](http://9gag.com/gag/a6ZYX72)
+ - ⏩ [Power trip of female cop prevents dad from seeing his daughters](http://9gag.com/gag/adBDvmM)
+ - 👉 [Clumsy mom](http://9gag.com/gag/aByB6oz)<!-- MEMES:END -->
 
 ---
 
