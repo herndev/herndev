@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Otter pups help tidy up at closing time and get ice cubes as a reward](http://9gag.com/gag/amo412d)
- - ⏩ [Add more fingers](http://9gag.com/gag/aXP6MQ2)
- - 👉 [Save the trees](http://9gag.com/gag/apRZDd8)<!-- MEMES:END -->
+ - 💣 [Power trip of female cop prevents dad from seeing his daughters](http://9gag.com/gag/adBDvmM)
+ - ⏩ [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)
+ - 👉 [Clumsy mom](http://9gag.com/gag/aByB6oz)<!-- MEMES:END -->
 
 ---
 
