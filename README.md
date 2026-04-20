@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moonshot introduces Kimi K2.6, an open-weight model that it says shows strong improvements in long-horizon coding tasks, available under a modified MIT License &lpar;Kimi AI&rpar;](http://www.techmeme.com/260420/p16#a260420p16)
- - [This week’s T-Mobile Tuesday actually has a few decent extras](https://www.androidauthority.com/two-offers-tmobile-tuesday-3659072/)
- - [Birdfy’s new 4K feeder wants to teach you about the birds it identifies](https://www.theverge.com/tech/914832/birdfy-feeder-metal-2-4k-wide-angle-camera-ornisense-ai-price-availability)<!-- TECH:END -->
+ - [A new media company called MTS launches for &quot;monitoring the situation&quot; across tech, business, politics, and culture, with backing from a16z and others &lpar;a16z&rpar;](http://www.techmeme.com/260420/p18#a260420p18)
+ - [Fortnite developers can make AI characters now — just don&amp;#8217;t try to date them](https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations)
+ - [WhatsApp says it is testing a new subscription called WhatsApp Plus, which includes features like expanded pinned chats, custom lists, and new chat themes &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/260420/p17#a260420p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
