@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blue Origin’s New Glenn rocket grounded after delivering satellite to wrong orbit](https://www.theverge.com/science/914866/blue-origin-new-glenn-grounded-faa)
- - [Tariff refunds have started, but Apple won&#39;t see cash back for months](https://appleinsider.com/articles/26/04/20/tariff-refunds-have-started-but-apple-wont-see-cash-back-for-months?utm_source=rss)
- - [Tesla launches robotaxis in Dallas and Houston, and oops, it’s already unavailable](https://www.theverge.com/transportation/914823/tesla-robotaxi-houston-dallas-unavailable)<!-- TECH:END -->
+ - [Moonshot introduces Kimi K2.6, an open-weight model that it says shows strong improvements in long-horizon coding tasks, available under a modified MIT License &lpar;Kimi AI&rpar;](http://www.techmeme.com/260420/p16#a260420p16)
+ - [This week’s T-Mobile Tuesday actually has a few decent extras](https://www.androidauthority.com/two-offers-tmobile-tuesday-3659072/)
+ - [Birdfy’s new 4K feeder wants to teach you about the birds it identifies](https://www.theverge.com/tech/914832/birdfy-feeder-metal-2-4k-wide-angle-camera-ornisense-ai-price-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
