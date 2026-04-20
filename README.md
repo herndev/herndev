@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are rumored to be the four iPhone 18 Pro colors](https://appleinsider.com/articles/26/04/20/these-are-rumored-to-be-the-four-iphone-18-pro-colors?utm_source=rss)
- - [DJI’s latest power station is proof that good things come in mini packages](https://www.theverge.com/reviews/913706/dji-mini-power-station-review-comparison)
- - [India says Apple can&#39;t delay investigation of a potential $38 billion fine](https://appleinsider.com/articles/26/04/20/india-says-apple-cant-delay-investigation-of-a-potential-38-billion-fine?utm_source=rss)<!-- TECH:END -->
+ - [The Elden Ring movie hits theaters in March 2028](https://www.theverge.com/entertainment/914818/elden-ring-movie-date-cast)
+ - [Filing: Michael Saylor&#39;s Strategy bought $2.54B in bitcoin over the past seven days, its largest acquisition since November 2024; Strategy owns ~$61B in bitcoin &lpar;Matt Haldane/Bloomberg&rpar;](http://www.techmeme.com/260420/p10#a260420p10)
+ - [Apple TV reaping the benefits of stale content on bigger streamers](https://appleinsider.com/articles/26/04/20/apple-tv-reaping-the-benefits-of-stale-content-on-bigger-streamers?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
