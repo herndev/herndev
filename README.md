@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
- - ⏩ [It is just a made up story, she is just not interested](http://9gag.com/gag/apRZDqB)
- - 👉 [Hol up](http://9gag.com/gag/avyKeon)<!-- MEMES:END -->
+ - 💣 [Hol up](http://9gag.com/gag/avyKeon)
+ - ⏩ [No antigravity after all](http://9gag.com/gag/a0eyVdL)
+ - 👉 [It is just a made up story, she is just not interested](http://9gag.com/gag/apRZDqB)<!-- MEMES:END -->
 
 ---
 
