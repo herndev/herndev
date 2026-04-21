@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump says his administration had &quot;some very good talks&quot; with Anthropic during a WH meeting last week and &quot;it&#39;s possible&quot; there will be a deal with DOD &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260421/p11#a260421p11)
- - [Splatoon Raiders hits the Switch 2 in July](https://www.theverge.com/games/915655/splatoon-raiders-switch-2-release-date-trailer)
- - [Dyson Just Launched a Hair Dryer That Fits in Your Carry-On](https://www.cnet.com/health/personal-care/dyson-just-launched-a-hair-dryer-that-fits-in-your-carry-on/)<!-- TECH:END -->
+ - [Draft of SpaceX&#39;s confidential IPO prospectus: Elon Musk increased his stake in SpaceX last year by purchasing $1.4B of stock from current and former employees &lpar;The Information&rpar;](http://www.techmeme.com/260421/p15#a260421p15)
+ - [Paul McCartney shares backstage footage of his Apple Park anniversary concert](https://appleinsider.com/articles/26/04/21/paul-mccartney-shares-backstage-footage-of-his-apple-park-anniversary-concert?utm_source=rss)
+ - [Australia-based Syenta, which aims to use electrochemical &quot;stamping&quot; to speed up chip manufacturing, raised $26M and says Pat Gelsinger will join its board &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260421/p14#a260421p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
