@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wearable health tech might be Tim Cook’s greatest legacy](https://www.theverge.com/tech/915976/tim-cook-john-ternus-apple-watch-health-tech-wearables)
- - [Meta is installing tracking software on US staffers&#39; computers to capture mouse movements, clicks, and keystrokes in work-related apps for use in AI training &lpar;Reuters&rpar;](http://www.techmeme.com/260421/p25#a260421p25)
- - [Pick up the 13-inch iPad Air at its lowest price since Black Friday](https://www.androidauthority.com/apple-ipad-air-m3-deal-3659523/)<!-- TECH:END -->
+ - [Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’](https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users)
+ - [Framework’s first eGPUs turn its laptop into a desktop PC](https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16)
+ - [Framework is building a better couch keyboard because everyone hates the Logitech one](https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
