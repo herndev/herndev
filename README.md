@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Teams is trying to fix accidental hand-raising](https://www.theverge.com/tech/915586/microsoft-teams-accidental-hand-raising-fix)
- - [Ikea and Samsung promise glitch-free SmartThings integration](https://www.theverge.com/tech/915560/ikea-and-samsung-promise-glitch-free-smartthings-integration)
- - [The Galaxy S26’s best features are already landing on these older Samsung phones](https://www.androidauthority.com/galaxy-s26-ai-features-coming-to-more-phones-3659317/)<!-- TECH:END -->
+ - [Tim Cook&#39;s 15-year legacy by the numbers: Apple&#39;s market cap grew from $350B in 2011 to $4T+ now, net income rose ~700% to $112B for FY 2025, and more &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/260421/p6#a260421p6)
+ - [Google’s most basic app has turned my dad into a Pixel super-fan](https://www.androidauthority.com/google-basic-app-turned-dad-pixel-superfan-3658953/)
+ - [Survey shows Samsung Keyboard is broadly disliked, yet most users haven’t switched](https://www.androidauthority.com/samsung-keyboard-bad-rep-poll-results-3659300/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
