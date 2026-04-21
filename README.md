@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Jeff Bezos&#39; Project Prometheus is close to a $10B fundraising deal, which includes an initial $6.2B raise in November, at a $38B post-money valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260420/p34#a260420p34)
- - [In an email to employees, Johny Srouji details newly combined hardware engineering and hardware technologies division, organized across five key areas &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260420/p33#a260420p33)
- - [Apple says Tim Cook, as executive chairman, &quot;will assist with certain aspects of the company, including engaging with policymakers around the world&quot; &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/260420/p32#a260420p32)<!-- TECH:END -->
+ - [Chinese PCB maker Victory Giant surges ~57% in its Hong Kong trading debut after raising ~$2.6B in its IPO, the largest in the city so far this year &lpar;Eunice Xu/South China Morning Post&rpar;](http://www.techmeme.com/260420/p35#a260420p35)
+ - [New Apple hardware chief wastes little time in introducing five underlings](https://appleinsider.com/articles/26/04/21/new-apple-hardware-chief-wastes-little-time-in-introducing-five-underlings?utm_source=rss)
+ - [Apple CEO Tim Cook Steps Down, John Ternus Replaces Him](https://www.cnet.com/news-live/tim-cook-steps-down-as-apple-ceo-replaced-john-ternus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
