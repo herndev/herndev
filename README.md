@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Then there were three: Samsung may have a third pair of XR glasses on the way](https://www.androidauthority.com/samsung-galaxy-third-xr-smart-glasses-3659286/)
- - [PlayStation&amp;#8217;s age-gating restrictions are coming to UK consoles](https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat)
- - [A look at EU efforts to cut reliance on US tech; study: Amazon, Microsoft, and Google hold ~70% of EU cloud and US vendors get 80% of enterprise software spend &lpar;Politico&rpar;](http://www.techmeme.com/260421/p3#a260421p3)<!-- TECH:END -->
+ - [Microsoft Teams is trying to fix accidental hand-raising](https://www.theverge.com/tech/915586/microsoft-teams-accidental-hand-raising-fix)
+ - [Ikea and Samsung promise glitch-free SmartThings integration](https://www.theverge.com/tech/915560/ikea-and-samsung-promise-glitch-free-smartthings-integration)
+ - [The Galaxy S26’s best features are already landing on these older Samsung phones](https://www.androidauthority.com/galaxy-s26-ai-features-coming-to-more-phones-3659317/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
