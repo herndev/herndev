@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Draft of SpaceX&#39;s confidential IPO prospectus: Elon Musk increased his stake in SpaceX last year by purchasing $1.4B of stock from current and former employees &lpar;The Information&rpar;](http://www.techmeme.com/260421/p15#a260421p15)
- - [Paul McCartney shares backstage footage of his Apple Park anniversary concert](https://appleinsider.com/articles/26/04/21/paul-mccartney-shares-backstage-footage-of-his-apple-park-anniversary-concert?utm_source=rss)
- - [Australia-based Syenta, which aims to use electrochemical &quot;stamping&quot; to speed up chip manufacturing, raised $26M and says Pat Gelsinger will join its board &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/260421/p14#a260421p14)<!-- TECH:END -->
+ - [OpenAI enables cost-per-click ads inside ChatGPT, setting bids at between $3 and $5 per click, in addition to CPMs &lpar;Digiday&rpar;](http://www.techmeme.com/260421/p17#a260421p17)
+ - [&#39;Silo&#39; will reveal more secrets as its third season premieres in July](https://appleinsider.com/articles/26/04/21/silo-will-reveal-more-secrets-as-its-third-season-premieres-in-july?utm_source=rss)
+ - [Beats brings out Onyx Black Solo 4 collab with Jennie alongside longer charging cables](https://appleinsider.com/articles/26/04/21/beats-brings-out-onyx-black-solo-4-collab-with-jennie-alongside-longer-charging-cables?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
