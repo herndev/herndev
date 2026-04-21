@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)
- - ⏩ [No antigravity after all](http://9gag.com/gag/a0eyVdL)
- - 👉 [Darwin Approves](http://9gag.com/gag/a4PONbd)<!-- MEMES:END -->
+ - 💣 [She&#39;s too big for the house](http://9gag.com/gag/aO8LDzN)
+ - ⏩ [Ana de armas and Sydney Sweeney](http://9gag.com/gag/axyqvrn)
+ - 👉 [No antigravity after all](http://9gag.com/gag/a0eyVdL)<!-- MEMES:END -->
 
 ---
 
