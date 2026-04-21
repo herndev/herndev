@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will have a product guy as CEO again](https://www.theverge.com/tech/915388/apple-ceo-john-ternus-tim-cook)
- - [The Galaxy S26 series is outselling the Galaxy S25 in US, and it’s not a small margin](https://www.androidauthority.com/samsung-galaxy-s26-series-sales-us-3659331/)
- - [This $8,000 projector is betting cinephiles will pay for brightness](https://www.androidauthority.com/optoma-hcpro-5400-launch-3659367/)<!-- TECH:END -->
+ - [Trump says his administration had &quot;some very good talks&quot; with Anthropic during a WH meeting last week and &quot;it&#39;s possible&quot; there will be a deal with DOD &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260421/p11#a260421p11)
+ - [Splatoon Raiders hits the Switch 2 in July](https://www.theverge.com/games/915655/splatoon-raiders-switch-2-release-date-trailer)
+ - [Dyson Just Launched a Hair Dryer That Fits in Your Carry-On](https://www.cnet.com/health/personal-care/dyson-just-launched-a-hair-dryer-that-fits-in-your-carry-on/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
