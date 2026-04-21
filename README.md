@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
- - ⏩ [Save the trees](http://9gag.com/gag/apRZDd8)
- - 👉 [This is Cairo, Egypt in 2026. How can you believe that these were the same people who built the pyramids?](http://9gag.com/gag/aoyQRpX)<!-- MEMES:END -->
+ - ⏩ [Ana de armas and Sydney Sweeney](http://9gag.com/gag/axyqvrn)
+ - 👉 [Darwin Approves](http://9gag.com/gag/a4PONbd)<!-- MEMES:END -->
 
 ---
 
