@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
- - ⏩ [A Chinese streamer\u2019s beauty filter crashed, she lost 140,000 subscribers in a minute.](http://9gag.com/gag/aXP6N0v)
- - 👉 [Its like a rite of passage, or something .](http://9gag.com/gag/a87x6N3)<!-- MEMES:END -->
+ - ⏩ [Darwin Approves](http://9gag.com/gag/a4PONbd)
+ - 👉 [A Chinese streamer\u2019s beauty filter crashed, she lost 140,000 subscribers in a minute.](http://9gag.com/gag/aXP6N0v)<!-- MEMES:END -->
 
 ---
 
