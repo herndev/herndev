@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ISS astronauts are in the middle of a tech overhaul](https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9)
- - [OpenClaw AI Agents Begin Gaining Access to VPN Connections](https://www.cnet.com/tech/services-and-software/openclaw-ai-agents-access-vpn-windscribe/)
- - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_source=rss)<!-- TECH:END -->
+ - [We translated the Palantir manifesto for actual human beings](https://www.theverge.com/policy/915237/palantir-manifesto)
+ - [Adobe announces a $25B stock repurchase program through April 30, 2030; Adobe shares have fallen around 30% so far this year &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260421/p43#a260421p43)
+ - [The US DOJ says a former ransomware negotiator pleaded guilty to helping cybercriminals extort companies in cyberattacks in five different incidents &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260421/p42#a260421p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
