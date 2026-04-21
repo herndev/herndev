@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
- - ⏩ [Kid was surely annoying](http://9gag.com/gag/a7oReZm)
- - 👉 [Save the trees](http://9gag.com/gag/apRZDd8)<!-- MEMES:END -->
+ - 💣 [Whoao whoa wupppp...](http://9gag.com/gag/ajPeBEw)
+ - ⏩ [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
+ - 👉 [It is just a made up story, she is just not interested](http://9gag.com/gag/apRZDqB)<!-- MEMES:END -->
 
 ---
 
