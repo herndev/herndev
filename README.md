@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kit Connor&#39;s Elden Ring casting makes perfect sense if you&#39;ve seen his underrated war movie](https://www.polygon.com/kit-connors-elden-ring-casting-makes-perfect-sense-if-youve-seen-his-underrated-war-movie/)
- - [Counter-Strike player sucker punches opponent at tournament](https://www.pcgamer.com/games/fps/counter-strike-player-sucker-punches-opponent-onstage-gets-10-year-ban-while-rival-jokes-that-he-had-better-aim-than-with-the-awp/)
- - [New Minions Movie Retconning The Lore That Kept The Bastards Out Of WW1 And WW2](https://kotaku.com/new-minions-movie-retconning-the-lore-that-kept-the-bastards-out-of-ww1-and-ww2-2000689159)<!-- GAME:END -->
+ - [Petit Planet is exactly the Animal Crossing clone it looked like, but after 15 hours of it I&#39;m shocked by how many new ideas it has too](https://www.pcgamer.com/games/life-sim/petit-planet-is-exactly-the-animal-crossing-clone-it-looked-like-but-after-15-hours-of-it-im-shocked-by-how-many-new-ideas-it-has-too/)
+ - [Dorohedoro season 2 is finally here and somehow wilder than ever](https://www.polygon.com/dorohedoro-season-2-netflix-impressions-characters/)
+ - [Windrose factions: Recommendations for improving your reputation with the Smugglers, Buccaneers, Brethren, and People of Tortuga](https://www.pcgamer.com/games/survival-crafting/windrose-factions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
