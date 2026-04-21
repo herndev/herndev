@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
+ - 💣 [Hol up](http://9gag.com/gag/avyKeon)
  - ⏩ [No antigravity after all](http://9gag.com/gag/a0eyVdL)
- - 👉 [Hol up](http://9gag.com/gag/avyKeon)<!-- MEMES:END -->
+ - 👉 [Save the trees](http://9gag.com/gag/apRZDd8)<!-- MEMES:END -->
 
 ---
 
