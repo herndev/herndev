@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says ChatGPT Images 2.0 comes in Instant and Thinking variants and can generate images of up to 2K resolution and in multiple aspect ratios &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260421/p34#a260421p34)
- - [OpenAI says that ChatGPT Images 2.0 has a stronger understanding of non-Latin text rendering in languages like Japanese, Korean, Hindi, and Bengali &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/260421/p33#a260421p33)
- - [Tim Cook was an innovator — just not the Jobs kind](https://www.theverge.com/tech/916172/tim-cook-apple-legacy-supply-chain-ceo)<!-- TECH:END -->
+ - [ISS astronauts are in the middle of a tech overhaul](https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9)
+ - [OpenClaw AI Agents Begin Gaining Access to VPN Connections](https://www.cnet.com/tech/services-and-software/openclaw-ai-agents-access-vpn-windscribe/)
+ - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
