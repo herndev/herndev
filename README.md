@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’](https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users)
- - [Framework’s first eGPUs turn its laptop into a desktop PC](https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16)
- - [Framework is building a better couch keyboard because everyone hates the Logitech one](https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one)<!-- TECH:END -->
+ - [OpenAI says ChatGPT Images 2.0 comes in Instant and Thinking variants and can generate images of up to 2K resolution and in multiple aspect ratios &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/260421/p34#a260421p34)
+ - [OpenAI says that ChatGPT Images 2.0 has a stronger understanding of non-Latin text rendering in languages like Japanese, Korean, Hindi, and Bengali &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/260421/p33#a260421p33)
+ - [Tim Cook was an innovator — just not the Jobs kind](https://www.theverge.com/tech/916172/tim-cook-apple-legacy-supply-chain-ceo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
