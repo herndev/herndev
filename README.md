@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its like a rite of passage, or something .](http://9gag.com/gag/a87x6N3)
- - ⏩ [No antigravity after all](http://9gag.com/gag/a0eyVdL)
+ - 💣 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
+ - ⏩ [Kid was surely annoying](http://9gag.com/gag/a7oReZm)
  - 👉 [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)<!-- MEMES:END -->
 
 ---
