@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
- - ⏩ [Kid was surely annoying](http://9gag.com/gag/a7oReZm)
- - 👉 [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)<!-- MEMES:END -->
+ - 💣 [Are you serious??](http://9gag.com/gag/aE0mANe)
+ - ⏩ [Christina Zenato helps sharks. Not AI](http://9gag.com/gag/a6ZY5G8)
+ - 👉 [You can patch systems. But you cannot patch hope.](http://9gag.com/gag/aAyzK7o)<!-- MEMES:END -->
 
 ---
 
