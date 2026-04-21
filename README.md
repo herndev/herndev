@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI enables cost-per-click ads inside ChatGPT, setting bids at between $3 and $5 per click, in addition to CPMs &lpar;Digiday&rpar;](http://www.techmeme.com/260421/p17#a260421p17)
- - [&#39;Silo&#39; will reveal more secrets as its third season premieres in July](https://appleinsider.com/articles/26/04/21/silo-will-reveal-more-secrets-as-its-third-season-premieres-in-july?utm_source=rss)
- - [Beats brings out Onyx Black Solo 4 collab with Jennie alongside longer charging cables](https://appleinsider.com/articles/26/04/21/beats-brings-out-onyx-black-solo-4-collab-with-jennie-alongside-longer-charging-cables?utm_source=rss)<!-- TECH:END -->
+ - [Ordering with the Starbucks ChatGPT app was a true coffee nightmare](https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing)
+ - [Microsoft cuts Xbox Game Pass Ultimate price from $29.99 to $22.99/month and PC Game Pass from $16.49 to $13.99, but both tiers won&#39;t get new Call of Duty games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260421/p20#a260421p20)
+ - [Dyson’s newest floor scrubber is already on sale for 20 percent off](https://www.theverge.com/gadgets/915137/dyson-clean-wash-hygiene-wet-cleaner-hades-2-deal-nintendo-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
