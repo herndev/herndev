@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook&#39;s 15-year legacy by the numbers: Apple&#39;s market cap grew from $350B in 2011 to $4T+ now, net income rose ~700% to $112B for FY 2025, and more &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/260421/p6#a260421p6)
- - [Google’s most basic app has turned my dad into a Pixel super-fan](https://www.androidauthority.com/google-basic-app-turned-dad-pixel-superfan-3658953/)
- - [Survey shows Samsung Keyboard is broadly disliked, yet most users haven’t switched](https://www.androidauthority.com/samsung-keyboard-bad-rep-poll-results-3659300/)<!-- TECH:END -->
+ - [UK&#39;s Ofcom launches an investigation into Telegram over concerns of CSAM being shared on the platform and it being used by predators to groom children &lpar;Muvija M/Reuters&rpar;](http://www.techmeme.com/260421/p8#a260421p8)
+ - [&#39;The Boys&#39; Season 5: When Does Episode 4 Come Out?](https://www.cnet.com/tech/services-and-software/the-boys-season-5-release-schedule-episode-4-prime-video/)
+ - [Horizon Zero Dawn Remastered, Squirrel With a Gun and More Are Now on PlayStation Plus](https://www.cnet.com/tech/gaming/horizon-zero-dawn-remastered-squirrel-with-a-gun-and-more-are-now-on-playstation-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
