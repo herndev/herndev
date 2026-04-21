@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Save the trees](http://9gag.com/gag/apRZDd8)
- - ⏩ [Had to remove the cancer music](http://9gag.com/gag/aE0m6Wo)
- - 👉 [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)<!-- MEMES:END -->
+ - 💣 [Even AI knows what&#39;s up](http://9gag.com/gag/amo4696)
+ - ⏩ [Remember the rock and Oprah on the Hawaii fires? Her alone could swipe her card and all the damage would have been covered and she wouldn\u2019t feel it.](http://9gag.com/gag/a7oRePm)
+ - 👉 [Literally a surgeon](http://9gag.com/gag/aXP6V1z)<!-- MEMES:END -->
 
 ---
 
