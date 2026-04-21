@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ordering with the Starbucks ChatGPT app was a true coffee nightmare](https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing)
- - [Microsoft cuts Xbox Game Pass Ultimate price from $29.99 to $22.99/month and PC Game Pass from $16.49 to $13.99, but both tiers won&#39;t get new Call of Duty games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260421/p20#a260421p20)
- - [Dyson’s newest floor scrubber is already on sale for 20 percent off](https://www.theverge.com/gadgets/915137/dyson-clean-wash-hygiene-wet-cleaner-hades-2-deal-nintendo-sale)<!-- TECH:END -->
+ - [Wearable health tech might be Tim Cook’s greatest legacy](https://www.theverge.com/tech/915976/tim-cook-john-ternus-apple-watch-health-tech-wearables)
+ - [Meta is installing tracking software on US staffers&#39; computers to capture mouse movements, clicks, and keystrokes in work-related apps for use in AI training &lpar;Reuters&rpar;](http://www.techmeme.com/260421/p25#a260421p25)
+ - [Pick up the 13-inch iPad Air at its lowest price since Black Friday](https://www.androidauthority.com/apple-ipad-air-m3-deal-3659523/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
