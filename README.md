@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Then there were three: Samsung may have a third pair of XR glasses on the way](https://www.androidauthority.com/samsung-galaxy-third-xr-smart-glasses-3659286/)
  - [PlayStation&amp;#8217;s age-gating restrictions are coming to UK consoles](https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat)
- - [A look at EU efforts to cut reliance on US tech; study: Amazon, Microsoft, and Google hold ~70% of EU cloud and US vendors get 80% of enterprise software spend &lpar;Politico&rpar;](http://www.techmeme.com/260421/p3#a260421p3)
- - [Google Fi subscriber? You might be eligible for a free Pixel Watch 3.](https://www.androidauthority.com/google-fi-free-pixel-watch-3-3659265/)<!-- TECH:END -->
+ - [A look at EU efforts to cut reliance on US tech; study: Amazon, Microsoft, and Google hold ~70% of EU cloud and US vendors get 80% of enterprise software spend &lpar;Politico&rpar;](http://www.techmeme.com/260421/p3#a260421p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
