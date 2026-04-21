@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We translated the Palantir manifesto for actual human beings](https://www.theverge.com/policy/915237/palantir-manifesto)
- - [Adobe announces a $25B stock repurchase program through April 30, 2030; Adobe shares have fallen around 30% so far this year &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/260421/p43#a260421p43)
- - [The US DOJ says a former ransomware negotiator pleaded guilty to helping cybercriminals extort companies in cyberattacks in five different incidents &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/260421/p42#a260421p42)<!-- TECH:END -->
+ - [Trump Media &amp; Technology Group names Kevin McGurn as interim CEO effective immediately; McGurn previously worked as an executive at Hulu, Vevo, and T-Mobile &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260421/p47#a260421p47)
+ - [Source: a handful of unauthorized users in a private Discord channel have been accessing Anthropic&#39;s Mythos model since the day the company announced it &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260421/p46#a260421p46)
+ - [Retro gamers need to check out this PS2 emulator that’s optimized for your handheld console](https://www.androidauthority.com/optimized-ps2-emulator-3659642/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
