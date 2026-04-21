@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’ll have one last chance to save on these top-tier Google TV projectors before launch](https://www.androidauthority.com/awol-vision-aetherion-series-final-preorder-bundles-3659230/)
- - [Survey confirms widespread Pixel battery drain issue, and Google has finally noticed](https://www.androidauthority.com/pixel-battery-drain-march-update-poll-results-3659222/)
- - [Don&#39;t expect changes from Apple anytime soon, even with new leadership](https://appleinsider.com/articles/26/04/20/dont-expect-changes-from-apple-anytime-soon-even-with-new-leadership?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Jeff Bezos&#39; Project Prometheus is close to a $10B fundraising deal, which includes an initial $6.2B raise in November, at a $38B post-money valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260420/p34#a260420p34)
+ - [In an email to employees, Johny Srouji details newly combined hardware engineering and hardware technologies division, organized across five key areas &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260420/p33#a260420p33)
+ - [Apple says Tim Cook, as executive chairman, &quot;will assist with certain aspects of the company, including engaging with policymakers around the world&quot; &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/260420/p32#a260420p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
