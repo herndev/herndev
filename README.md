@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whoao whoa wupppp...](http://9gag.com/gag/ajPeBEw)
- - ⏩ [She couldn\u2019t figure out why her laptop keeps overheating while playing games!](http://9gag.com/gag/a0eyVvv)
- - 👉 [It is just a made up story, she is just not interested](http://9gag.com/gag/apRZDqB)<!-- MEMES:END -->
+ - 💣 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
+ - ⏩ [A Chinese streamer\u2019s beauty filter crashed, she lost 140,000 subscribers in a minute.](http://9gag.com/gag/aXP6N0v)
+ - 👉 [Its like a rite of passage, or something .](http://9gag.com/gag/a87x6N3)<!-- MEMES:END -->
 
 ---
 
