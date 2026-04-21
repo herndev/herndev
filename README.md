@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are you serious??](http://9gag.com/gag/aE0mANe)
- - ⏩ [Christina Zenato helps sharks. Not AI](http://9gag.com/gag/a6ZY5G8)
- - 👉 [You can patch systems. But you cannot patch hope.](http://9gag.com/gag/aAyzK7o)<!-- MEMES:END -->
+ - 💣 [Wheelchair guy wanted to create a new wheelchair friend.](http://9gag.com/gag/a9ygvdZ)
+ - ⏩ [No antigravity after all](http://9gag.com/gag/a0eyVdL)
+ - 👉 [Darwin Approves](http://9gag.com/gag/a4PONbd)<!-- MEMES:END -->
 
 ---
 
