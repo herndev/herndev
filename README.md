@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Media &amp; Technology Group names Kevin McGurn as interim CEO effective immediately; McGurn previously worked as an executive at Hulu, Vevo, and T-Mobile &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/260421/p47#a260421p47)
- - [Source: a handful of unauthorized users in a private Discord channel have been accessing Anthropic&#39;s Mythos model since the day the company announced it &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260421/p46#a260421p46)
- - [Retro gamers need to check out this PS2 emulator that’s optimized for your handheld console](https://www.androidauthority.com/optimized-ps2-emulator-3659642/)<!-- TECH:END -->
+ - [AcuityMD, which provides AI tools that automate sales call recaps, CRM data entry, and more for medtech companies, raised an $80M Series C at a $955M valuation &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/260421/p49#a260421p49)
+ - [SpaceX cuts a deal to maybe buy Cursor for $60 billion](https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition)
+ - [SpaceX says it&#39;s working with Cursor to build &quot;the world&#39;s most useful models&quot; and it has the right to acquire Cursor for $60B or pay $10B for the partnership &lpar;New York Times&rpar;](http://www.techmeme.com/260421/p48#a260421p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
