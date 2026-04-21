@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Great work, gamers, we touched digital grass and walked 270,000 more miles than Artemis 2&#39;s historic mission around the moon last week](https://www.pcgamer.com/games/action/great-work-gamers-we-touched-digital-grass-and-walked-270-000-more-miles-than-artemis-2s-historic-mission-around-the-moon-last-week/)
- - [Netflix&#39;s Steel Ball Run&#39;s episode 2 release date controversy, explained](https://www.polygon.com/jojo-steel-ball-run-netflix-release-schedule-controversy-explained/)
- - [Buck Bumble, the Nintendo 64 shooter starring a cyborg bumblebee, is almost certainly getting a remake](https://www.pcgamer.com/games/action/buck-bumble-the-nintendo-64-shooter-starring-a-cyborg-bumblebee-is-almost-certainly-getting-a-remake/)<!-- GAME:END -->
+ - [Splatoon Raiders Has a Release Date And I Can’t Believe I Have To Wait ‘Til July To Hit Fish Guys With An Ink Axe](https://kotaku.com/splatoon-raiders-release-date-cool-ink-axe-2000689318)
+ - [Splatoon Raiders gets Nintendo Switch 2 release date, new trailer](https://www.polygon.com/splatoon-raiders-switch-2-release-date-trailer/)
+ - [Kick will bring cozy soccer gameplay to Steam](https://www.polygon.com/kick-soccer-game-steam-trailer-announcement/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
