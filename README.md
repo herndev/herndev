@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony may have just leaked its own 10th anniversary ‘WH-1000XX’ headphones](https://www.androidauthority.com/sony-wh-1000xx-leak-3659261/)
- - [Tim Cook reshaped Apple in his own image and exits as CEO on his own terms, seemingly picking the right successor in John Ternus, much like Jobs did with Cook &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/260421/p2#a260421p2)
- - [A look at transnational scam syndicates in Cambodia, running hundreds of online scam operations and call centers and infiltrating Cambodia&#39;s ruling class &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260421/p1#a260421p1)<!-- TECH:END -->
+ - [Google Fi subscriber? You might be eligible for a free Pixel Watch 3.](https://www.androidauthority.com/google-fi-free-pixel-watch-3-3659265/)
+ - [Google Fitbit Air leak suggests it could whoop WHOOP on price](https://www.androidauthority.com/google-fitbit-air-price-colors-band-leak-3659273/)
+ - [Sony may have just leaked its own 10th anniversary ‘WH-1000XX’ headphones](https://www.androidauthority.com/sony-wh-1000xx-leak-3659261/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
