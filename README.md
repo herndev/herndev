@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese PCB maker Victory Giant surges ~57% in its Hong Kong trading debut after raising ~$2.6B in its IPO, the largest in the city so far this year &lpar;Eunice Xu/South China Morning Post&rpar;](http://www.techmeme.com/260420/p35#a260420p35)
- - [New Apple hardware chief wastes little time in introducing five underlings](https://appleinsider.com/articles/26/04/21/new-apple-hardware-chief-wastes-little-time-in-introducing-five-underlings?utm_source=rss)
- - [Apple CEO Tim Cook Steps Down, John Ternus Replaces Him](https://www.cnet.com/news-live/tim-cook-steps-down-as-apple-ceo-replaced-john-ternus/)<!-- TECH:END -->
+ - [Dyson’s back with a travel-size Supersonic hairdryer](https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price)
+ - [Apple TV&#39;s &#39;The Savant&#39; to premiere in July after politically-motivated delay](https://appleinsider.com/articles/26/04/21/apple-tvs-the-savant-to-premiere-in-july-after-politically-motivated-delay?utm_source=rss)
+ - [Foldable season in full swing: Motorola confirms launch date for new Razr family](https://www.androidauthority.com/motorola-razr-2026-official-launch-date-3659244/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
