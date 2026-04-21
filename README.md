@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Canva CEO Melanie Perkins on the company&#39;s growth in enterprise, competing with AI labs, token pricing, investing in its own models, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/260420/p30#a260420p30)
- - [The Lenovo Legion Go S is RAMageddon’s latest victim](https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon)
- - [How Tim Cook started at Apple in 1998, and how 15 years of being the CEO ends](https://appleinsider.com/articles/26/04/20/how-tim-cook-started-at-apple-in-1998-and-how-15-years-of-being-the-ceo-ends?utm_source=rss)<!-- TECH:END -->
+ - [You’ll have one last chance to save on these top-tier Google TV projectors before launch](https://www.androidauthority.com/awol-vision-aetherion-series-final-preorder-bundles-3659230/)
+ - [Survey confirms widespread Pixel battery drain issue, and Google has finally noticed](https://www.androidauthority.com/pixel-battery-drain-march-update-poll-results-3659222/)
+ - [Don&#39;t expect changes from Apple anytime soon, even with new leadership](https://appleinsider.com/articles/26/04/20/dont-expect-changes-from-apple-anytime-soon-even-with-new-leadership?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
