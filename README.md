@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I thought this sci-fi mystery looked cool, but my interest dropped when I realized it&#39;s another multiplayer survival-crafting game](https://www.pcgamer.com/games/survival-crafting/i-thought-this-sci-fi-mystery-looked-cool-but-my-interest-dropped-when-i-realized-its-another-multiplayer-survival-crafting-game/)
- - [Magic: The Gathering&#39;s next wizard university set feels like going back to school, because we sure are going to have to learn a lot of mechanics](https://www.pcgamer.com/games/card-games/magic-the-gatherings-next-wizard-university-set-feels-like-going-back-to-school-because-we-sure-are-going-to-have-to-learn-a-lot-of-mechanics/)
- - [Steam week in review: Pragmata and Windrose face off, with sad sci-fi dads proving no match for tree-chopping pirates](https://www.pcgamer.com/gaming-industry/steam-week-in-review-pragmata-and-windrose-face-off-with-sad-sci-fi-dads-proving-no-match-for-tree-chopping-pirates/)<!-- GAME:END -->
+ - [Kit Connor&#39;s Elden Ring casting makes perfect sense if you&#39;ve seen his underrated war movie](https://www.polygon.com/kit-connors-elden-ring-casting-makes-perfect-sense-if-youve-seen-his-underrated-war-movie/)
+ - [Counter-Strike player sucker punches opponent at tournament](https://www.pcgamer.com/games/fps/counter-strike-player-sucker-punches-opponent-onstage-gets-10-year-ban-while-rival-jokes-that-he-had-better-aim-than-with-the-awp/)
+ - [New Minions Movie Retconning The Lore That Kept The Bastards Out Of WW1 And WW2](https://kotaku.com/new-minions-movie-retconning-the-lore-that-kept-the-bastards-out-of-ww1-and-ww2-2000689159)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
