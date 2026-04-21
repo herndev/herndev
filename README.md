@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is Cairo, Egypt in 2026. How can you believe that these were the same people who built the pyramids?](http://9gag.com/gag/aoyQRpX)
- - ⏩ [Ana de armas and Sydney Sweeney](http://9gag.com/gag/axyqvrn)
- - 👉 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)<!-- MEMES:END -->
+ - 💣 [Ok,gotcha](http://9gag.com/gag/a9yg8wW)
+ - ⏩ [Are you serious??](http://9gag.com/gag/aE0mANe)
+ - 👉 [Experts say](http://9gag.com/gag/aqyoQVQ)<!-- MEMES:END -->
 
 ---
 
