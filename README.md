@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson’s back with a travel-size Supersonic hairdryer](https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price)
- - [Apple TV&#39;s &#39;The Savant&#39; to premiere in July after politically-motivated delay](https://appleinsider.com/articles/26/04/21/apple-tvs-the-savant-to-premiere-in-july-after-politically-motivated-delay?utm_source=rss)
- - [Foldable season in full swing: Motorola confirms launch date for new Razr family](https://www.androidauthority.com/motorola-razr-2026-official-launch-date-3659244/)<!-- TECH:END -->
+ - [Sony may have just leaked its own 10th anniversary ‘WH-1000XX’ headphones](https://www.androidauthority.com/sony-wh-1000xx-leak-3659261/)
+ - [Tim Cook reshaped Apple in his own image and exits as CEO on his own terms, seemingly picking the right successor in John Ternus, much like Jobs did with Cook &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/260421/p2#a260421p2)
+ - [A look at transnational scam syndicates in Cambodia, running hundreds of online scam operations and call centers and infiltrating Cambodia&#39;s ruling class &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260421/p1#a260421p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
