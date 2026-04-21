@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s too big for the house](http://9gag.com/gag/aO8LDzN)
- - ⏩ [Ana de armas and Sydney Sweeney](http://9gag.com/gag/axyqvrn)
- - 👉 [No antigravity after all](http://9gag.com/gag/a0eyVdL)<!-- MEMES:END -->
+ - 💣 [No antigravity after all](http://9gag.com/gag/a0eyVdL)
+ - ⏩ [Kid was surely annoying](http://9gag.com/gag/a7oReZm)
+ - 👉 [Save the trees](http://9gag.com/gag/apRZDd8)<!-- MEMES:END -->
 
 ---
 
