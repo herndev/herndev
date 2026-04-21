@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Buck Bumble, the Nintendo 64 shooter starring a cyborg bumblebee, is almost certainly getting a remake](https://www.pcgamer.com/games/action/buck-bumble-the-nintendo-64-shooter-starring-a-cyborg-bumblebee-is-almost-certainly-getting-a-remake/)
  - [Petit Planet is exactly the Animal Crossing clone it looked like, but after 15 hours of it I&#39;m shocked by how many new ideas it has too](https://www.pcgamer.com/games/life-sim/petit-planet-is-exactly-the-animal-crossing-clone-it-looked-like-but-after-15-hours-of-it-im-shocked-by-how-many-new-ideas-it-has-too/)
- - [Dorohedoro season 2 is finally here and somehow wilder than ever](https://www.polygon.com/dorohedoro-season-2-netflix-impressions-characters/)
- - [Windrose factions: Recommendations for improving your reputation with the Smugglers, Buccaneers, Brethren, and People of Tortuga](https://www.pcgamer.com/games/survival-crafting/windrose-factions/)<!-- GAME:END -->
+ - [Dorohedoro season 2 is finally here and somehow wilder than ever](https://www.polygon.com/dorohedoro-season-2-netflix-impressions-characters/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
