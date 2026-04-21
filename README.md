@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK&#39;s Ofcom launches an investigation into Telegram over concerns of CSAM being shared on the platform and it being used by predators to groom children &lpar;Muvija M/Reuters&rpar;](http://www.techmeme.com/260421/p8#a260421p8)
- - [&#39;The Boys&#39; Season 5: When Does Episode 4 Come Out?](https://www.cnet.com/tech/services-and-software/the-boys-season-5-release-schedule-episode-4-prime-video/)
- - [Horizon Zero Dawn Remastered, Squirrel With a Gun and More Are Now on PlayStation Plus](https://www.cnet.com/tech/gaming/horizon-zero-dawn-remastered-squirrel-with-a-gun-and-more-are-now-on-playstation-plus/)<!-- TECH:END -->
+ - [Apple will have a product guy as CEO again](https://www.theverge.com/tech/915388/apple-ceo-john-ternus-tim-cook)
+ - [The Galaxy S26 series is outselling the Galaxy S25 in US, and it’s not a small margin](https://www.androidauthority.com/samsung-galaxy-s26-series-sales-us-3659331/)
+ - [This $8,000 projector is betting cinephiles will pay for brightness](https://www.androidauthority.com/optoma-hcpro-5400-launch-3659367/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
