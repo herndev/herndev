@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Splatoon Raiders Has a Release Date And I Can’t Believe I Have To Wait ‘Til July To Hit Fish Guys With An Ink Axe](https://kotaku.com/splatoon-raiders-release-date-cool-ink-axe-2000689318)
- - [Splatoon Raiders gets Nintendo Switch 2 release date, new trailer](https://www.polygon.com/splatoon-raiders-switch-2-release-date-trailer/)
- - [Kick will bring cozy soccer gameplay to Steam](https://www.polygon.com/kick-soccer-game-steam-trailer-announcement/)<!-- GAME:END -->
+ - [At least there&#39;s one tech company making me feel sane in an increasingly insane world](https://www.pcgamer.com/hardware/at-least-theres-one-tech-company-making-me-feel-sane-in-an-increasingly-insane-world/)
+ - [Here&#39;s when Masters of Albion launches in your timezone](https://www.pcgamer.com/games/sim/masters-of-albion-launch-time-release-date/)
+ - [First Look at Palia’s Upcoming Royal Highlands Expansion Launching May 12](https://news.xbox.com/en-us/2026/04/21/palia-royal-highlands/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
