@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally, I can die in peace now](http://9gag.com/gag/an7Px3b)
- - ⏩ [Indestructible they said. It will be fun they said](http://9gag.com/gag/aLn7GL5)
- - 👉 [Law &amp; Order SVU S01 E02](http://9gag.com/gag/aXP67pg)<!-- MEMES:END -->
+ - 💣 [Don\u2019t we all](http://9gag.com/gag/aKGo8gO)
+ - ⏩ [Finally, I can die in peace now](http://9gag.com/gag/an7Px3b)
+ - 👉 [Indestructible they said. It will be fun they said](http://9gag.com/gag/aLn7GL5)<!-- MEMES:END -->
 
 ---
 
