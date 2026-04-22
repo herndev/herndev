@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netherlands-based ASM, whose deposition tools are used to make advanced chips, projects Q2 revenue of ~€980M, above €886.8M est., driven by AI demand &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/260422/p15#a260422p15)
- - [When he was hired, Ternus wasn&#39;t sure he even belonged at Apple](https://appleinsider.com/articles/26/04/22/when-he-was-hired-ternus-wasnt-sure-he-even-belonged-at-apple?utm_source=rss)
- - [Dinnerly Meal Kit Review &lpar;2026&rpar;: Hearty Meals on a Budget](https://www.wired.com/review/dinnerly-meal-kit-2026/)<!-- TECH:END -->
+ - [Google’s latest Tensor processors take an environment-friendly route, but what about the cost?](https://www.androidauthority.com/googles-tensor-processors-environment-friendly-3659769/)
+ - [Behind the unraveling of Dan Crenshaw](https://www.theverge.com/features/916289/dan-crenshaw-ouster-trolls-online)
+ - [Google promises to rescue the Samsung Galaxy XR from this ‘absolute nightmare’ bug](https://www.androidauthority.com/samsung-galaxy-xr-memory-leak-3659819/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
