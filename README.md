@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Experts say](http://9gag.com/gag/aqyoQVQ)
- - ⏩ [Doggo](http://9gag.com/gag/aNDEVy6)
- - 👉 [Don&#39;t try watch new harry potter. A .i](http://9gag.com/gag/aVvym7y)<!-- MEMES:END -->
+ - 💣 [That look](http://9gag.com/gag/a0ey0VB)
+ - ⏩ [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
+ - 👉 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)<!-- MEMES:END -->
 
 ---
 
