@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Baby](https://www.reddit.com/r/funny/comments/1ssn3x9/baby/)
- - ⏩ [Controversial opinion](http://9gag.com/gag/abAnxGO)
- - 👉 [That look](http://9gag.com/gag/a0ey0VB)<!-- MEMES:END -->
+ - 💣 [People like that can vote. They think they&#39;re better than you and that you&#39;re lesser than them and want you replaced](http://9gag.com/gag/ajPexM1)
+ - ⏩ [Finally, I can die in peace now](http://9gag.com/gag/an7Px3b)
+ - 👉 [Lighting up a cigarette during a gas leak, what could go wrong](http://9gag.com/gag/aoyQ4Ex)<!-- MEMES:END -->
 
 ---
 
