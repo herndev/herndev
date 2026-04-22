@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is Cairo, Egypt in 2026. How can you believe that these were the same people who built the pyramids?](http://9gag.com/gag/aoyQRpX)
- - ⏩ [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
- - 👉 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)<!-- MEMES:END -->
+ - 💣 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
+ - ⏩ [Do You Like Scary Movies?](http://9gag.com/gag/abAn4ZX)
+ - 👉 [Darwin Approves](http://9gag.com/gag/a4PONbd)<!-- MEMES:END -->
 
 ---
 
