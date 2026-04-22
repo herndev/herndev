@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Indestructible they said. It will be fun they said](http://9gag.com/gag/aLn7GL5)
- - ⏩ [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)
- - 👉 [Finally, I can die in peace now](http://9gag.com/gag/an7Px3b)<!-- MEMES:END -->
+ - 💣 [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)
+ - ⏩ [These People Can Vote BTW .](http://9gag.com/gag/ae98xMW)
+ - 👉 [Controversial opinion](http://9gag.com/gag/abAnxGO)<!-- MEMES:END -->
 
 ---
 
