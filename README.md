@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI announces workspace agents in ChatGPT, letting teams create Codex-powered shared agents for complex tasks, and says they are &quot;an evolution of GPTs&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/260422/p37#a260422p37)
- - [5 AI Models Tried to Scam Me. Some of Them Were Scary Good](https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/)
- - [Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day](https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal)<!-- TECH:END -->
+ - [Skeptical of AI-coded software? Google uses AI for half its code, and it’s pushing for much more](https://www.androidauthority.com/google-ai-coding-strike-team-report-3659975/)
+ - [Google confirms context-aware Siri built from Gemini will debut in 2026](https://appleinsider.com/articles/26/04/22/google-confirms-context-aware-siri-built-from-gemini-will-debut-in-2026?utm_source=rss)
+ - [Meta unveils Live Chats on Threads for real-time conversations during cultural events, launching first within the NBA Threads community during the playoffs &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260422/p39#a260422p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
