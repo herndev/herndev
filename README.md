@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don\u2019t we all](http://9gag.com/gag/aKGo8gO)
- - ⏩ [Controversial opinion](http://9gag.com/gag/abAnxGO)
+ - 💣 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
+ - ⏩ [Lighting up a cigarette during a gas leak, what could go wrong](http://9gag.com/gag/aoyQ4Ex)
  - 👉 [That look](http://9gag.com/gag/a0ey0VB)<!-- MEMES:END -->
 
 ---
