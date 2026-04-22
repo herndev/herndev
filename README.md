@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic’s most dangerous AI model just fell into the wrong hands](https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security)
- - [OnePlus’s first attempt at a gaming Android phone is a complete mess](https://www.androidauthority.com/oneplus-ace-6-ultra-gaming-phone-total-mess-3659601/)
- - [Lenovo’s crazy powerful Android gaming tablet is finally ready for launch](https://www.androidauthority.com/lenovo-legion-tab-gen-5-coming-soon-3659763/)<!-- TECH:END -->
+ - [Sources: OpenAI has been briefing US federal agencies, state governments, and Five Eyes allies on the capabilities of its GPT-5.4-Cyber model over the past week &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260422/p12#a260422p12)
+ - [This could be 2026’s best smartphone, if only it didn’t rip off Apple’s Liquid Glass](https://www.androidauthority.com/oppo-shameless-iphone-copying-3658552/)
+ - [Join Our Livestream: Musk v. Altman and the Future of OpenAI](https://www.wired.com/story/livestream-musk-v-altman-trial/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
