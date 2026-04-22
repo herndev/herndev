@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top law firm Sullivan &amp; Cromwell told a US federal bankruptcy court that a major filing it made in a high-profile case contained multiple AI hallucinations &lpar;Financial Times&rpar;](http://www.techmeme.com/260421/p53#a260421p53)
- - [Latest &#39;Star Wars&#39; movie cut unnecessary costs by using Apple Vision Pro](https://appleinsider.com/articles/26/04/21/latest-star-wars-movie-cut-unnecessary-costs-by-using-apple-vision-pro?utm_source=rss)
- - [The Los Angeles Unified School District&#39;s board votes to require screen time limits, making it the first major American school system to do so &lpar;Tyler Kingkade/NBC News&rpar;](http://www.techmeme.com/260421/p52#a260421p52)<!-- TECH:END -->
+ - [Filing: SpaceX tells investors that orbital AI data centers use &quot;unproven technologies&quot; and may not achieve &quot;commercial viability&quot; due to space-related risks &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260421/p55#a260421p55)
+ - [Apple CEO Tim Cook Steps Down, John Ternus Replaces Him](https://www.cnet.com/news-live/tim-cook-steps-down-as-apple-ceo-replaced-john-ternus/)
+ - [A look at Apple&#39;s management changes and several key executives&#39; futures; sources say Mike Rockwell has considered leaving or taking an advisory role next year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260421/p54#a260421p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
