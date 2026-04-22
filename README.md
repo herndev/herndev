@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Efforts to revive chip manufacturing in Pennsylvania have been left in limbo by President Trump&#39;s sudden upending of US semiconductor policy over the past year &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260422/p10#a260422p10)
- - [Tencent launches an international beta for QClaw, its OpenClaw-based AI agent, and says the Chinese version, launched in March, reached over 1M users in 10 days &lpar;T. K. Lin/KrASIA&rpar;](http://www.techmeme.com/260422/p9#a260422p9)
- - [TikTok&#39;s plan to build a ~$38B data center campus in Brazil, its first in Latin America, is facing local pushback over sustainability in a semi-arid area &lpar;Financial Times&rpar;](http://www.techmeme.com/260422/p8#a260422p8)<!-- TECH:END -->
+ - [Google Wallet now lets you track flights from the lock screen, here’s what it looks like](https://www.androidauthority.com/google-wallet-flight-live-updates-3659749/)
+ - [HONOR’s new phones are gunning hard for the Galaxy S25 FE](https://www.androidauthority.com/honor-600-series-3658857/)
+ - [OnePlus Watch 4 makes a surprise debut with a major software upgrade](https://www.androidauthority.com/oneplus-watch-4-specifications-3659753/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
