@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Romania, passengers can pay for a bus ticket by doing 20 squats. A device counts the squats and then issues a ticket valid for a trip on the transport network. What do you think of this idea?](http://9gag.com/gag/abAnx0v)
- - ⏩ [That look](http://9gag.com/gag/a0ey0VB)
+ - 💣 [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
+ - ⏩ [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)
  - 👉 [This is Cairo, Egypt in 2026. How can you believe that these were the same people who built the pyramids?](http://9gag.com/gag/aoyQRpX)<!-- MEMES:END -->
 
 ---
