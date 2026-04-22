@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Logan Paul Pivots To Rare One Piece Manga As He Gets Clowned On For His Latest Potential Pump And Dump](https://kotaku.com/logan-paul-manga-one-piece-ishowspeed-graded-weekly-shonen-jump-34-2000689685)
- - [Best PS5 games in 2026 &lpar;updated April 2026&rpar;](https://www.polygon.com/best-ps5-games-playstation-5/)
- - [The Expanse: Osiris Reborn demo is way harder than Mass Effect ever was](https://www.polygon.com/the-expanse-osiris-reborn-demo-impressions/)<!-- GAME:END -->
+ - [More Branches, More Choice: A Before‑and‑After Look at Diablo IV’s Skill Trees](https://news.xbox.com/en-us/2026/04/22/diablo-4-skill-tree-overhaul/)
+ - [Nintendo will stick to Peach&#39;s Mario Galaxy Movie backstory in future games](https://www.polygon.com/peach-backstory-super-mario-galaxy-movie-games-miyamoto/)
+ - [Pragmata takes a risk that other games need to follow](https://www.polygon.com/pragmata-objective-markers-map-guidance/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
