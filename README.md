@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Don\u2019t we all](http://9gag.com/gag/aKGo8gO)
- - ⏩ [Lighting up a cigarette during a gas leak, what could go wrong](http://9gag.com/gag/aoyQ4Ex)
- - 👉 [Finally, I can die in peace now](http://9gag.com/gag/an7Px3b)<!-- MEMES:END -->
+ - ⏩ [Finally, I can die in peace now](http://9gag.com/gag/an7Px3b)
+ - 👉 [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)<!-- MEMES:END -->
 
 ---
 
