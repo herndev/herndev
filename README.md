@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s latest Tensor processors take an environment-friendly route, but what about the cost?](https://www.androidauthority.com/googles-tensor-processors-environment-friendly-3659769/)
- - [Behind the unraveling of Dan Crenshaw](https://www.theverge.com/features/916289/dan-crenshaw-ouster-trolls-online)
- - [Google promises to rescue the Samsung Galaxy XR from this ‘absolute nightmare’ bug](https://www.androidauthority.com/samsung-galaxy-xr-memory-leak-3659819/)<!-- TECH:END -->
+ - [Google says Meet&#39;s Gemini-powered Take Notes for Me feature can now be used for in-person meetings and adds support for Teams and Zoom &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260422/p23#a260422p23)
+ - [Source: Mira Murati&#39;s TML signed a deal with Google Cloud, valued in single-digit billions, to access Google&#39;s latest AI systems built on Nvidia&#39;s GB300 chips &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260422/p22#a260422p22)
+ - [BMW’s flagship 7 Series gets its ‘Neue Klasse’ upgrade](https://www.theverge.com/transportation/915630/bmw-7-series-neue-klasse-range-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
