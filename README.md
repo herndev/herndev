@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Let John Ternus be John Ternus, and not Cook or Jobs](https://appleinsider.com/articles/26/04/22/let-john-ternus-be-john-ternus-and-not-cook-or-jobs?utm_source=rss)
- - [Vast Data, which makes software infrastructure for managing large amounts of data with a focus on AI applications, raised a $1B Series F at a $30B valuation &lpar;Kai Nicol-Schwarz/CNBC&rpar;](http://www.techmeme.com/260422/p27#a260422p27)
- - [USAID Whistleblower Says It Was Even Worse Than People Knew](https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/)<!-- TECH:END -->
+ - [Hot deal: Samsung 75-Inch Class The Frame Pro TV is 50% off for the first time](https://www.androidauthority.com/samsung-the-frame-pro-tv-deal-3659938/)
+ - [The UK FCA says it has carried out its first joint operation to disrupt illegal peer-to-peer crypto trading, targeting eight premises across London &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/260422/p32#a260422p32)
+ - [New York Bans Government Employees from Insider Trading on Prediction Markets](https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
