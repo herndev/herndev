@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI has been briefing US federal agencies, state governments, and Five Eyes allies on the capabilities of its GPT-5.4-Cyber model over the past week &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/260422/p12#a260422p12)
- - [This could be 2026’s best smartphone, if only it didn’t rip off Apple’s Liquid Glass](https://www.androidauthority.com/oppo-shameless-iphone-copying-3658552/)
- - [Join Our Livestream: Musk v. Altman and the Future of OpenAI](https://www.wired.com/story/livestream-musk-v-altman-trial/)<!-- TECH:END -->
+ - [Netherlands-based ASM, whose deposition tools are used to make advanced chips, projects Q2 revenue of ~€980M, above €886.8M est., driven by AI demand &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/260422/p15#a260422p15)
+ - [When he was hired, Ternus wasn&#39;t sure he even belonged at Apple](https://appleinsider.com/articles/26/04/22/when-he-was-hired-ternus-wasnt-sure-he-even-belonged-at-apple?utm_source=rss)
+ - [Dinnerly Meal Kit Review &lpar;2026&rpar;: Hearty Meals on a Budget](https://www.wired.com/review/dinnerly-meal-kit-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
