@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix says it plans to invest ~$12.85B in a new fab in South Korea for advanced packaging to meet AI demand for HBM, with construction starting this month &lpar;Reuters&rpar;](http://www.techmeme.com/260422/p5#a260422p5)
- - [Do iPhone users really switch to Android? DOJ says Apple may be too late to prove it](https://www.androidauthority.com/apple-samsung-data-request-us-antitrust-case-doj-response-3659716/)
- - [Valvoline Coupons &amp; Promo Codes for April 2026](https://www.wired.com/story/valvoline-coupons/)<!-- TECH:END -->
+ - [Efforts to revive chip manufacturing in Pennsylvania have been left in limbo by President Trump&#39;s sudden upending of US semiconductor policy over the past year &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/260422/p10#a260422p10)
+ - [Tencent launches an international beta for QClaw, its OpenClaw-based AI agent, and says the Chinese version, launched in March, reached over 1M users in 10 days &lpar;T. K. Lin/KrASIA&rpar;](http://www.techmeme.com/260422/p9#a260422p9)
+ - [TikTok&#39;s plan to build a ~$38B data center campus in Brazil, its first in Latin America, is facing local pushback over sustainability in a semi-arid area &lpar;Financial Times&rpar;](http://www.techmeme.com/260422/p8#a260422p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
