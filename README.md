@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is losing track of where to start videos after you’re done watching ads](https://www.androidauthority.com/youtube-ad-skip-ahead-glitch-3659870/)
- - [Save 36% on the powerful Soundcore Boom 2 Bluetooth speaker — now just $89.99](https://www.androidauthority.com/soundcore-boom-2-deal-3659948/)
- - [Core Automation, co-founded by ex-OpenAI VP Jerry Tworek, launches to build &quot;the world&#39;s most automated AI lab&quot; with talent from OpenAI, Anthropic, and DeepMind &lpar;Business Insider&rpar;](http://www.techmeme.com/260422/p35#a260422p35)<!-- TECH:END -->
+ - [OpenAI announces workspace agents in ChatGPT, letting teams create Codex-powered shared agents for complex tasks, and says they are &quot;an evolution of GPTs&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/260422/p37#a260422p37)
+ - [5 AI Models Tried to Scam Me. Some of Them Were Scary Good](https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/)
+ - [Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day](https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
