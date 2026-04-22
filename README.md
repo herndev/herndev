@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How Formula 1 tracks are decided](http://9gag.com/gag/aVvyK42)
- - ⏩ [Lighting up a cigarette during a gas leak, what could go wrong](http://9gag.com/gag/aoyQ4Ex)
+ - 💣 [Baby](https://www.reddit.com/r/funny/comments/1ssn3x9/baby/)
+ - ⏩ [Controversial opinion](http://9gag.com/gag/abAnxGO)
  - 👉 [That look](http://9gag.com/gag/a0ey0VB)<!-- MEMES:END -->
 
 ---
