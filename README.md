@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Event Horizon is finally getting a sequel, and it has the perfect writer](https://www.polygon.com/the-new-event-horizon-continuation-has-the-perfect-writer/)
  - [At least there&#39;s one tech company making me feel sane in an increasingly insane world](https://www.pcgamer.com/hardware/at-least-theres-one-tech-company-making-me-feel-sane-in-an-increasingly-insane-world/)
- - [Here&#39;s when Masters of Albion launches in your timezone](https://www.pcgamer.com/games/sim/masters-of-albion-launch-time-release-date/)
- - [First Look at Palia’s Upcoming Royal Highlands Expansion Launching May 12](https://news.xbox.com/en-us/2026/04/21/palia-royal-highlands/)<!-- GAME:END -->
+ - [Here&#39;s when Masters of Albion launches in your timezone](https://www.pcgamer.com/games/sim/masters-of-albion-launch-time-release-date/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
