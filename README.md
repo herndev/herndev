@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM reports Q1 revenue up 9% YoY to $15.92B, vs. $15.62B est., software revenue up 11% to $7.05B, and maintains FY 2026 guidance; IBM drops ~6% after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260422/p45#a260422p45)
- - [ServiceNow reports Q1 subscription revenue up 22% YoY to $3.67B, vs. $3.65B est., says conflict in the Middle East weighed on growth; NOW drops 12%+ after hours &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260422/p44#a260422p44)
- - [X is going to let Grok curate your timeline](https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation)<!-- TECH:END -->
+ - [Dune Analytics: Polymarket&#39;s global trading volumes have fallen behind Kalshi in recent months; sources: product delays are contributing to Polymarket&#39;s decline &lpar;Bloomberg&rpar;](http://www.techmeme.com/260422/p47#a260422p47)
+ - [Samsung exec reveals how new approach to product design is shaping your next Galaxy device](https://www.androidauthority.com/samsung-new-design-philosophy-3660071/)
+ - [US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose](https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
