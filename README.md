@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Skeptical of AI-coded software? Google uses AI for half its code, and it’s pushing for much more](https://www.androidauthority.com/google-ai-coding-strike-team-report-3659975/)
- - [Google confirms context-aware Siri built from Gemini will debut in 2026](https://appleinsider.com/articles/26/04/22/google-confirms-context-aware-siri-built-from-gemini-will-debut-in-2026?utm_source=rss)
- - [Meta unveils Live Chats on Threads for real-time conversations during cultural events, launching first within the NBA Threads community during the playoffs &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/260422/p39#a260422p39)<!-- TECH:END -->
+ - [OpenAI now lets teams make custom bots that can do work on their own](https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots)
+ - [Alexis Ohanian shocks Washington with pro-immigration remarks](https://www.theverge.com/column/916949/alexis-ohanian-pro-immigration-remarks)
+ - [Sean Plankey, President Trump&#39;s pick to lead CISA, withdraws from consideration after resistance from Sen. Rick Scott stalled his nomination for over a year &lpar;Politico&rpar;](http://www.techmeme.com/260422/p41#a260422p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
