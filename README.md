@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How GrapheneOS lead developer Daniel Micay&#39;s legal fights with his former partner James Donaldson over CopperheadOS led to the privacy-focused tool&#39;s creation &lpar;Tiffany Ng/Wired&rpar;](http://www.techmeme.com/260421/p56#a260421p56)
- - [Report: New Apple CEO&#39;s biggest challenge will be retiring leadership &amp; regular churn](https://appleinsider.com/articles/26/04/22/report-new-apple-ceos-biggest-challenge-will-be-retiring-leadership-regular-churn?utm_source=rss)
- - [Filing: SpaceX tells investors that orbital AI data centers use &quot;unproven technologies&quot; and may not achieve &quot;commercial viability&quot; due to space-related risks &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260421/p55#a260421p55)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-22/)
+ - [Massive Motorola Razr 2026 leak leaves nothing to the imagination](https://www.androidauthority.com/motorola-razr-2026-retail-listing-leak-3659685/)
+ - [How GrapheneOS lead developer Daniel Micay&#39;s legal fights with his former partner James Donaldson over CopperheadOS led to the privacy-focused tool&#39;s creation &lpar;Tiffany Ng/Wired&rpar;](http://www.techmeme.com/260421/p56#a260421p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
