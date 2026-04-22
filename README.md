@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Forever Opera Browser](http://9gag.com/gag/aRBqMm2)
- - ⏩ [Law &amp; Order SVU S01 E02](http://9gag.com/gag/aXP67pg)
- - 👉 [In Romania, passengers can pay for a bus ticket by doing 20 squats. A device counts the squats and then issues a ticket valid for a trip on the transport network. What do you think of this idea?](http://9gag.com/gag/abAnx0v)<!-- MEMES:END -->
+ - 💣 [This generation will die alone](http://9gag.com/gag/a7oRVqe)
+ - ⏩ [Controversial opinion](http://9gag.com/gag/abAnxGO)
+ - 👉 [Law &amp; Order SVU S01 E02](http://9gag.com/gag/aXP67pg)<!-- MEMES:END -->
 
 ---
 
