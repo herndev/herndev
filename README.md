@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: SpaceX tells investors that orbital AI data centers use &quot;unproven technologies&quot; and may not achieve &quot;commercial viability&quot; due to space-related risks &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260421/p55#a260421p55)
- - [Apple CEO Tim Cook Steps Down, John Ternus Replaces Him](https://www.cnet.com/news-live/tim-cook-steps-down-as-apple-ceo-replaced-john-ternus/)
- - [A look at Apple&#39;s management changes and several key executives&#39; futures; sources say Mike Rockwell has considered leaving or taking an advisory role next year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/260421/p54#a260421p54)<!-- TECH:END -->
+ - [How GrapheneOS lead developer Daniel Micay&#39;s legal fights with his former partner James Donaldson over CopperheadOS led to the privacy-focused tool&#39;s creation &lpar;Tiffany Ng/Wired&rpar;](http://www.techmeme.com/260421/p56#a260421p56)
+ - [Report: New Apple CEO&#39;s biggest challenge will be retiring leadership &amp; regular churn](https://appleinsider.com/articles/26/04/22/report-new-apple-ceos-biggest-challenge-will-be-retiring-leadership-regular-churn?utm_source=rss)
+ - [Filing: SpaceX tells investors that orbital AI data centers use &quot;unproven technologies&quot; and may not achieve &quot;commercial viability&quot; due to space-related risks &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/260421/p55#a260421p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
