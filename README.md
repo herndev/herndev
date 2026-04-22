@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot deal: Samsung 75-Inch Class The Frame Pro TV is 50% off for the first time](https://www.androidauthority.com/samsung-the-frame-pro-tv-deal-3659938/)
- - [The UK FCA says it has carried out its first joint operation to disrupt illegal peer-to-peer crypto trading, targeting eight premises across London &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/260422/p32#a260422p32)
- - [New York Bans Government Employees from Insider Trading on Prediction Markets](https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/)<!-- TECH:END -->
+ - [YouTube is losing track of where to start videos after you’re done watching ads](https://www.androidauthority.com/youtube-ad-skip-ahead-glitch-3659870/)
+ - [Save 36% on the powerful Soundcore Boom 2 Bluetooth speaker — now just $89.99](https://www.androidauthority.com/soundcore-boom-2-deal-3659948/)
+ - [Core Automation, co-founded by ex-OpenAI VP Jerry Tworek, launches to build &quot;the world&#39;s most automated AI lab&quot; with talent from OpenAI, Anthropic, and DeepMind &lpar;Business Insider&rpar;](http://www.techmeme.com/260422/p35#a260422p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
