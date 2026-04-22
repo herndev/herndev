@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Owlcat&#39;s had some unusual problems writing romance: &#39;we realized we had three female romanceable characters, and all three were cannibals&#39;](https://www.pcgamer.com/games/rpg/owlcats-had-some-unusual-problems-writing-romance-we-realized-we-had-three-female-romanceable-characters-and-all-three-were-cannibals/)
- - [Australia wants to know how Valve is combating &#39;extreme-right communities&#39; on Steam](https://www.pcgamer.com/gaming-industry/australia-wants-to-know-how-valve-is-combating-extreme-right-communities-on-steam/)
- - [Event Horizon is finally getting a sequel, and it has the perfect writer](https://www.polygon.com/the-new-event-horizon-continuation-has-the-perfect-writer/)<!-- GAME:END -->
+ - [Despite microtransaction woes at launch, MMO sequel Aion 2 will go global this year](https://www.pcgamer.com/games/mmo/despite-microtransaction-woes-at-launch-mmo-sequel-aion-2-will-go-global-this-year/)
+ - [Data, not guessing: Looking at Nvidia&#39;s past GPUs to predict the specs for its future RTX 60-series graphics cards](https://www.pcgamer.com/hardware/graphics-cards/data-not-guessing-looking-at-nvidias-past-gpus-to-predict-the-specs-for-its-future-rtx-60-series-graphics-cards/)
+ - [Invincible season 4 ending explained and how it sets up season 5 and beyond](https://www.polygon.com/lee-pace-interview-thragg-invincible-season-4-finale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
