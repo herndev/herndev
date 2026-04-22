@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI has pledged up to $1.5B to a new joint venture with PE firms to help deploy AI across their portfolio companies, starting with $500M in equity &lpar;Financial Times&rpar;](http://www.techmeme.com/260422/p4#a260422p4)
- - [Polymarket says perpetuals are coming to the platform and lets users sign up for early access; it hasn&#39;t specified whether crypto perpetual futures are included &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/260422/p3#a260422p3)
- - [A UK tribunal rules Microsoft must face a lawsuit alleging it overcharged UK businesses to run Windows Server on cloud services from Amazon, Google, and Alibaba &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/260422/p2#a260422p2)<!-- TECH:END -->
+ - [SK Hynix says it plans to invest ~$12.85B in a new fab in South Korea for advanced packaging to meet AI demand for HBM, with construction starting this month &lpar;Reuters&rpar;](http://www.techmeme.com/260422/p5#a260422p5)
+ - [Do iPhone users really switch to Android? DOJ says Apple may be too late to prove it](https://www.androidauthority.com/apple-samsung-data-request-us-antitrust-case-doj-response-3659716/)
+ - [Valvoline Coupons &amp; Promo Codes for April 2026](https://www.wired.com/story/valvoline-coupons/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
