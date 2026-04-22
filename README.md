@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says Meet&#39;s Gemini-powered Take Notes for Me feature can now be used for in-person meetings and adds support for Teams and Zoom &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/260422/p23#a260422p23)
- - [Source: Mira Murati&#39;s TML signed a deal with Google Cloud, valued in single-digit billions, to access Google&#39;s latest AI systems built on Nvidia&#39;s GB300 chips &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/260422/p22#a260422p22)
- - [BMW’s flagship 7 Series gets its ‘Neue Klasse’ upgrade](https://www.theverge.com/transportation/915630/bmw-7-series-neue-klasse-range-price-specs)<!-- TECH:END -->
+ - [Now Meta will track what employees do on their computers to train its AI agents](https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking)
+ - [Apple may be about to post another blockbuster quarter](https://appleinsider.com/articles/26/04/22/apple-may-be-about-to-post-another-blockbuster-quarter?utm_source=rss)
+ - [Air permit docs: new gas projects linked to just 11 US data center campuses could emit 129M+ tons of greenhouse gases per year, more than some small countries &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/260422/p25#a260422p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
