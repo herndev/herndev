@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now Meta will track what employees do on their computers to train its AI agents](https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking)
- - [Apple may be about to post another blockbuster quarter](https://appleinsider.com/articles/26/04/22/apple-may-be-about-to-post-another-blockbuster-quarter?utm_source=rss)
- - [Air permit docs: new gas projects linked to just 11 US data center campuses could emit 129M+ tons of greenhouse gases per year, more than some small countries &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/260422/p25#a260422p25)<!-- TECH:END -->
+ - [Let John Ternus be John Ternus, and not Cook or Jobs](https://appleinsider.com/articles/26/04/22/let-john-ternus-be-john-ternus-and-not-cook-or-jobs?utm_source=rss)
+ - [Vast Data, which makes software infrastructure for managing large amounts of data with a focus on AI applications, raised a $1B Series F at a $30B valuation &lpar;Kai Nicol-Schwarz/CNBC&rpar;](http://www.techmeme.com/260422/p27#a260422p27)
+ - [USAID Whistleblower Says It Was Even Worse Than People Knew](https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
