@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI now lets teams make custom bots that can do work on their own](https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots)
- - [Alexis Ohanian shocks Washington with pro-immigration remarks](https://www.theverge.com/column/916949/alexis-ohanian-pro-immigration-remarks)
- - [Sean Plankey, President Trump&#39;s pick to lead CISA, withdraws from consideration after resistance from Sen. Rick Scott stalled his nomination for over a year &lpar;Politico&rpar;](http://www.techmeme.com/260422/p41#a260422p41)<!-- TECH:END -->
+ - [IBM reports Q1 revenue up 9% YoY to $15.92B, vs. $15.62B est., software revenue up 11% to $7.05B, and maintains FY 2026 guidance; IBM drops ~6% after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260422/p45#a260422p45)
+ - [ServiceNow reports Q1 subscription revenue up 22% YoY to $3.67B, vs. $3.65B est., says conflict in the Middle East weighed on growth; NOW drops 12%+ after hours &lpar;Lola Murti/CNBC&rpar;](http://www.techmeme.com/260422/p44#a260422p44)
+ - [X is going to let Grok curate your timeline](https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
