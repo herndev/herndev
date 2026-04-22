@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet now lets you track flights from the lock screen, here’s what it looks like](https://www.androidauthority.com/google-wallet-flight-live-updates-3659749/)
- - [HONOR’s new phones are gunning hard for the Galaxy S25 FE](https://www.androidauthority.com/honor-600-series-3658857/)
- - [OnePlus Watch 4 makes a surprise debut with a major software upgrade](https://www.androidauthority.com/oneplus-watch-4-specifications-3659753/)<!-- TECH:END -->
+ - [Anthropic’s most dangerous AI model just fell into the wrong hands](https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security)
+ - [OnePlus’s first attempt at a gaming Android phone is a complete mess](https://www.androidauthority.com/oneplus-ace-6-ultra-gaming-phone-total-mess-3659601/)
+ - [Lenovo’s crazy powerful Android gaming tablet is finally ready for launch](https://www.androidauthority.com/lenovo-legion-tab-gen-5-coming-soon-3659763/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
