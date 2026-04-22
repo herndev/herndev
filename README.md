@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dune Analytics: Polymarket&#39;s global trading volumes have fallen behind Kalshi in recent months; sources: product delays are contributing to Polymarket&#39;s decline &lpar;Bloomberg&rpar;](http://www.techmeme.com/260422/p47#a260422p47)
- - [Samsung exec reveals how new approach to product design is shaping your next Galaxy device](https://www.androidauthority.com/samsung-new-design-philosophy-3660071/)
- - [US Senate Candidate Caught Insider Trading on Kalshi Says He Did It on Purpose](https://www.wired.com/story/us-senate-candidate-caught-insider-trading-on-kalshi-says-he-did-it-on-purpose/)<!-- TECH:END -->
+ - [This Oura competitor will tell you exactly how to work out each day](https://www.androidauthority.com/ultrahuman-ring-les-mills-powerplug-3660114/)
+ - [Alibaba launches Qwen3.6-27B, an open-weight dense model with 27B parameters, saying it surpasses Qwen3.5-397B-A17B on major coding benchmarks &lpar;Qwen&rpar;](http://www.techmeme.com/260422/p48#a260422p48)
+ - [Elon Musk admits that millions of Tesla vehicles won&amp;#8217;t get unsupervised FSD](https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
