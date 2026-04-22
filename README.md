@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)
- - ⏩ [These People Can Vote BTW .](http://9gag.com/gag/ae98xMW)
- - 👉 [Controversial opinion](http://9gag.com/gag/abAnxGO)<!-- MEMES:END -->
+ - 💣 [Bub is happy](http://9gag.com/gag/a2v6ywZ)
+ - ⏩ [Ok,gotcha](http://9gag.com/gag/a9yg8wW)
+ - 👉 [Well\u2026 here we are.\u201d](http://9gag.com/gag/a7oR94A)<!-- MEMES:END -->
 
 ---
 
