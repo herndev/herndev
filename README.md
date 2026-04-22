@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don\u2019t we all](http://9gag.com/gag/aKGo8gO)
- - ⏩ [Finally, I can die in peace now](http://9gag.com/gag/an7Px3b)
+ - 💣 [These People Can Vote BTW .](http://9gag.com/gag/ae98xMW)
+ - ⏩ [Lighting up a cigarette during a gas leak, what could go wrong](http://9gag.com/gag/aoyQ4Ex)
  - 👉 [Indestructible they said. It will be fun they said](http://9gag.com/gag/aLn7GL5)<!-- MEMES:END -->
 
 ---
