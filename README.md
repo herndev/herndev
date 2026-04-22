@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite microtransaction woes at launch, MMO sequel Aion 2 will go global this year](https://www.pcgamer.com/games/mmo/despite-microtransaction-woes-at-launch-mmo-sequel-aion-2-will-go-global-this-year/)
- - [Data, not guessing: Looking at Nvidia&#39;s past GPUs to predict the specs for its future RTX 60-series graphics cards](https://www.pcgamer.com/hardware/graphics-cards/data-not-guessing-looking-at-nvidias-past-gpus-to-predict-the-specs-for-its-future-rtx-60-series-graphics-cards/)
- - [Invincible season 4 ending explained and how it sets up season 5 and beyond](https://www.polygon.com/lee-pace-interview-thragg-invincible-season-4-finale/)<!-- GAME:END -->
+ - [Logan Paul Pivots To Rare One Piece Manga As He Gets Clowned On For His Latest Potential Pump And Dump](https://kotaku.com/logan-paul-manga-one-piece-ishowspeed-graded-weekly-shonen-jump-34-2000689685)
+ - [Best PS5 games in 2026 &lpar;updated April 2026&rpar;](https://www.polygon.com/best-ps5-games-playstation-5/)
+ - [The Expanse: Osiris Reborn demo is way harder than Mass Effect ever was](https://www.polygon.com/the-expanse-osiris-reborn-demo-impressions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
