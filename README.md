@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future MacBook notch may get replaced with removable cameras on a rotating screen](https://appleinsider.com/articles/24/07/30/future-macbook-notch-may-get-replaced-with-removable-cameras-on-a-rotating-screen?utm_source=rss)
- - [Netflix can’t seem to follow-up its biggest shows](https://www.theverge.com/entertainment/917121/stranger-things-tales-from-85-netflix-spinoffs)
- - [Apple Savings APY hits record low of 3.50% in first 2026 cut](https://appleinsider.com/articles/26/04/23/apple-savings-apy-hits-record-low-of-350-in-first-2026-cut?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft offers voluntary retirement to long-serving employees](https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes)
+ - [Joint statement: Apple, Amazon, and others push back on stricter emissions reporting rules proposed by climate body Greenhouse Gas Protocol to cut greenwashing &lpar;Olivia Raimonde/Bloomberg&rpar;](http://www.techmeme.com/260423/p39#a260423p39)
+ - [Vercel says some customer accounts were compromised prior to its early-April breach, potentially through social engineering, malware, or other methods &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/260423/p38#a260423p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
