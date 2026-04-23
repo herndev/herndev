@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Just having a casual water fight on a moving truck, what could go wrong](http://9gag.com/gag/aO8L9jR)
- - ⏩ [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
- - 👉 [Mystique](http://9gag.com/gag/aByBXyQ)<!-- MEMES:END -->
+ - ⏩ [Mystique](http://9gag.com/gag/aByBXyQ)
+ - 👉 [Reflexes like a sloth.](http://9gag.com/gag/amo4xE6)<!-- MEMES:END -->
 
 ---
 
