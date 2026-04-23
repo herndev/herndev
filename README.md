@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S25’s One UI 8.5 changelog leaks: Here’s what new with this update](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-changelog-leak-3660254/)
- - [Sam Bankman-Fried withdraws his request for a new trial, saying he doubts he would receive a fair hearing; his broader appeal remains pending &lpar;Olivier Acuna/CoinDesk&rpar;](http://www.techmeme.com/260423/p28#a260423p28)
- - [These New Smart Glasses From Ex-OnePlus Engineers Have a Hidden Cost](https://www.wired.com/story/latitude-52-n-smart-glasses-from-ex-oneplus-engineers-have-a-hidden-cost/)<!-- TECH:END -->
+ - [How Cash App founder Bob Lee&#39;s 2023 killing fed into a narrative pushed by tech leaders like Elon Musk about SF&#39;s decline until an acquaintance was convicted &lpar;Shawn Wen/Bloomberg&rpar;](http://www.techmeme.com/260423/p33#a260423p33)
+ - [Toy Story 5 Promotion Spoons Up Nostalgia With the Return of Cereal Box Toys](https://www.cnet.com/tech/services-and-software/toy-story-5-promotion-spoons-up-nostalgia-with-the-return-of-cereal-box-toys/)
+ - [Your Old Tech Is Worth Money. Yet 29% of Americans Just Stash It Out of Sight, CNET Finds](https://www.cnet.com/tech/recycling-tech-survey-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
