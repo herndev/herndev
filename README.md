@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Bain Capital seeks to sell a stake of 40%+ in Bridge Data Centres in a deal that would value the Singapore-based data infrastructure builder at $5B &lpar;Reuters&rpar;](http://www.techmeme.com/260423/p18#a260423p18)
- - [Tencent releases Hy3-preview, its first AI model developed under former OpenAI researcher Yao Shunyu; the model features 295B parameters, down from HY2&#39;s 400B &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/260423/p17#a260423p17)
- - [TSMC SVP Kevin Zhang says the company plans to open an advanced chip packaging plant in Arizona by 2029 and that construction has begun &lpar;Reuters&rpar;](http://www.techmeme.com/260423/p16#a260423p16)<!-- TECH:END -->
+ - [Turkey&#39;s parliament passes a bill requiring social media and online game companies to restrict access for children under 15, following a school shooting &lpar;Andrew Wilks/Associated Press&rpar;](http://www.techmeme.com/260423/p25#a260423p25)
+ - [Omni, which is building a &quot;semantic translation layer&quot; for enterprise data, raised a $120M Series C led by Iconiq at a $1.5B valuation, up from $650M in 2025 &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260423/p24#a260423p24)
+ - [The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame](https://www.wired.com/story/best-pool-cleaning-robots/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
