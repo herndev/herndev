@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to multiply plants quickly!](http://9gag.com/gag/aAyz2bg)
- - ⏩ [Finally someone said it](http://9gag.com/gag/aW43oPd)
- - 👉 [He built a script that calls back spam callers and traps them in an endless loop.](http://9gag.com/gag/agmz4e6)<!-- MEMES:END -->
+ - 💣 [These People Can Vote BTW .](http://9gag.com/gag/ae98xMW)
+ - ⏩ [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
+ - 👉 [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)<!-- MEMES:END -->
 
 ---
 
