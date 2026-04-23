@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US DOJ arrested a soldier involved in the capture of Nicolás Maduro for allegedly making $400K+ on Polymarket by betting on his removal from office &lpar;ABC News&rpar;](http://www.techmeme.com/260423/p60#a260423p60)
- - [Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet](https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/)
- - [Brendan Carr’s war on wokeness targets inclusive children&amp;#8217;s television](https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming)<!-- TECH:END -->
+ - [US arrests soldier who allegedly made $400k on Maduro Polymarket bets](https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke)
+ - [It’s finally here: XGIMI’s ambitious 4K projector is now up for grabs](https://www.androidauthority.com/xiimi-titan-noir-series-global-launch-3660547/)
+ - [Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro](https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
