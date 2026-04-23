@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Cash App founder Bob Lee&#39;s 2023 killing fed into a narrative pushed by tech leaders like Elon Musk about SF&#39;s decline until an acquaintance was convicted &lpar;Shawn Wen/Bloomberg&rpar;](http://www.techmeme.com/260423/p33#a260423p33)
- - [Toy Story 5 Promotion Spoons Up Nostalgia With the Return of Cereal Box Toys](https://www.cnet.com/tech/services-and-software/toy-story-5-promotion-spoons-up-nostalgia-with-the-return-of-cereal-box-toys/)
- - [Your Old Tech Is Worth Money. Yet 29% of Americans Just Stash It Out of Sight, CNET Finds](https://www.cnet.com/tech/recycling-tech-survey-2026/)<!-- TECH:END -->
+ - [Future MacBook notch may get replaced with removable cameras on a rotating screen](https://appleinsider.com/articles/24/07/30/future-macbook-notch-may-get-replaced-with-removable-cameras-on-a-rotating-screen?utm_source=rss)
+ - [Netflix can’t seem to follow-up its biggest shows](https://www.theverge.com/entertainment/917121/stranger-things-tales-from-85-netflix-spinoffs)
+ - [Apple Savings APY hits record low of 3.50% in first 2026 cut](https://appleinsider.com/articles/26/04/23/apple-savings-apy-hits-record-low-of-350-in-first-2026-cut?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
