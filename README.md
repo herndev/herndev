@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Don\u2019t we all](http://9gag.com/gag/aKGo8gO)
- - ⏩ [These People Can Vote BTW .](http://9gag.com/gag/ae98xMW)
- - 👉 [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)<!-- MEMES:END -->
+ - ⏩ [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
+ - 👉 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)<!-- MEMES:END -->
 
 ---
 
