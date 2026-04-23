@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 16 may not settle for 165Hz: Leak reveals even higher refresh rate jump](https://www.androidauthority.com/oneplus-16-240hz-display-leak-3660170/)
- - [This ultra-bright Google TV projector promises not to be a pain to set up](https://www.androidauthority.com/jmgo-n3-ultimate-launch-3660182/)
- - [Honor’s new phones look like iPhones for Android](https://www.theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android)<!-- TECH:END -->
+ - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_source=rss)
+ - [X says it is deprecating X Communities, giving members until May 30 to migrate to XChat, and plans to increase group chat limits to 1,000 in the next two weeks &lpar;Nikita Bier/@nikitabier&rpar;](http://www.techmeme.com/260423/p12#a260423p12)
+ - [STMicro reports Q1 revenue of $3.10B, above $3.04B est., $171M operating income, above $165.8 est., and forecasts $3.45B revenue for Q2, above $3.21B est. &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/260423/p11#a260423p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
