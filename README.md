@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Law &amp; Order SVU S01 E02](http://9gag.com/gag/aXP67pg)
- - ⏩ [In Romania, passengers can pay for a bus ticket by doing 20 squats. A device counts the squats and then issues a ticket valid for a trip on the transport network. What do you think of this idea?](http://9gag.com/gag/abAnx0v)
- - 👉 [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)<!-- MEMES:END -->
+ - 💣 [The future is now](http://9gag.com/gag/aKGoeKZ)
+ - ⏩ [Brazil.](http://9gag.com/gag/aD2eZpG)
+ - 👉 [Law &amp; Order SVU S01 E02](http://9gag.com/gag/aXP67pg)<!-- MEMES:END -->
 
 ---
 
