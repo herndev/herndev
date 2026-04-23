@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don\u2019t we all](http://9gag.com/gag/aKGo8gO)
- - ⏩ [In Romania, passengers can pay for a bus ticket by doing 20 squats. A device counts the squats and then issues a ticket valid for a trip on the transport network. What do you think of this idea?](http://9gag.com/gag/abAnx0v)
- - 👉 [Mystique](http://9gag.com/gag/aByBXyQ)<!-- MEMES:END -->
+ - 💣 [The future is now](http://9gag.com/gag/aKGoeKZ)
+ - ⏩ [Brazil.](http://9gag.com/gag/aD2eZpG)
+ - 👉 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)<!-- MEMES:END -->
 
 ---
 
