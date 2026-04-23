@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Amazon is replacing white-collar job titles at its Ring and Blink units with the designation &quot;builder&quot;, and &quot;builder leaders&quot; for managers &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/260423/p43#a260423p43)
- - [Palantir Employees Are Starting to Wonder if They&#39;re the Bad Guys](https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/)
- - [Play One of the Best Games of 2025 Right Now on Xbox Game Pass](https://www.cnet.com/tech/gaming/play-one-of-the-best-games-of-2025-now-on-xbox-game-pass/)<!-- TECH:END -->
+ - [Motorola’s premium 2026 Razr gets the spotlight in leaked promo video](https://www.androidauthority.com/motorola-razr-ultra-2026-promo-video-3660399/)
+ - [Microsoft brings Xbox back, scraps Microsoft Gaming](https://www.theverge.com/report/917485/microsoft-return-of-xbox-no-more-microsoft-gaming)
+ - [Keychron’s customizable V1 mechanical keyboard is back down to $45](https://www.theverge.com/gadgets/916757/keychron-v1-skullcandy-method-360-anc-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
