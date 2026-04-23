@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple Savings compares vs other high-yield savings accounts](https://appleinsider.com/inside/apple-card/vs/how-apple-savings-compares-vs-other-high-yield-savings-accounts?utm_source=rss)
- - [Sonos’ big sale on refurbished speakers is about to end](https://www.theverge.com/gadgets/917611/sonos-refurbished-era-beam-move-speaker-deal-sale)
- - [Claude can now help you build the perfect Spotify playlist](https://www.androidauthority.com/claude-spotify-integration-3660469/)<!-- TECH:END -->
+ - [FCC alters the Wi-Fi router ban to include hotspots — pray it doesn’t alter the deal any further](https://www.androidauthority.com/router-ban-expands-to-hotspots-3660505/)
+ - [Texas Instruments stock rose 19% on Thursday, its best day since 2000, after upbeat Q2 guidance driven by high demand for analog chips used in AI data centers &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260423/p59#a260423p59)
+ - [Shenzhen-based Pudu Robotics, which makes commercial service robots, raised ~$150M, bringing its total funding to $300M+, and says its valuation exceeds $1.5B &lpar;The Robot Report&rpar;](http://www.techmeme.com/260423/p58#a260423p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
