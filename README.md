@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [More Branches, More Choice: A Before‑and‑After Look at Diablo IV’s Skill Trees](https://news.xbox.com/en-us/2026/04/22/diablo-4-skill-tree-overhaul/)
- - [Nintendo will stick to Peach&#39;s Mario Galaxy Movie backstory in future games](https://www.polygon.com/peach-backstory-super-mario-galaxy-movie-games-miyamoto/)
- - [Pragmata takes a risk that other games need to follow](https://www.polygon.com/pragmata-objective-markers-map-guidance/)<!-- GAME:END -->
+ - [AI is 10 to 20 times more likely to help you build a bomb if you hide your request in cyberpunk fiction, new research paper says](https://www.pcgamer.com/software/ai/ai-is-10-to-20-times-more-likely-to-help-you-build-a-bomb-if-you-hide-your-request-in-cyberpunk-fiction-new-research-paper-says/)
+ - [Invincible season 5 plot and likely release date explained](https://www.polygon.com/invincible-season-5-release-date-year-plot/)
+ - [With Windrose making waves and the Black Flag remake on the horizon, methinks it&#39;s a fine time for a pirate quiz, matey](https://www.pcgamer.com/games/with-windrose-making-waves-and-the-black-flag-remake-on-the-horizon-methinks-its-a-fine-time-for-a-pirate-quiz-matey/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
