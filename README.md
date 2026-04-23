@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D’s new actual play show borrows a clever horror mechanic from Dark Dice](https://www.polygon.com/dnd-dungeon-masters-actual-play-ravenloft-rest-rules-dark-dice/)
- - [AI is 10 to 20 times more likely to help you build a bomb if you hide your request in cyberpunk fiction, new research paper says](https://www.pcgamer.com/software/ai/ai-is-10-to-20-times-more-likely-to-help-you-build-a-bomb-if-you-hide-your-request-in-cyberpunk-fiction-new-research-paper-says/)
- - [Invincible season 5 plot and likely release date explained](https://www.polygon.com/invincible-season-5-release-date-year-plot/)<!-- GAME:END -->
+ - [I bought every ship in Windrose – here&#39;s what you should spend your pirate gold on first](https://www.pcgamer.com/games/survival-crafting/windrose-ship-brig-and-frigate-materials/)
+ - [Stranger Things: Tales from &#39;85 review: The best Stranger Things season since 2019](https://www.polygon.com/stranger-things-tales-from-85-review/)
+ - [D&amp;D’s new actual play show borrows a clever horror mechanic from Dark Dice](https://www.polygon.com/dnd-dungeon-masters-actual-play-ravenloft-rest-rules-dark-dice/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
