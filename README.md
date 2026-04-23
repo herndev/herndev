@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who&#39;s the happiest?](http://9gag.com/gag/aGy4MGX)
- - ⏩ [Indestructible they said. It will be fun they said](http://9gag.com/gag/aLn7GL5)
- - 👉 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)<!-- MEMES:END -->
+ - 💣 [How to multiply plants quickly!](http://9gag.com/gag/aAyz2bg)
+ - ⏩ [Finally someone said it](http://9gag.com/gag/aW43oPd)
+ - 👉 [He built a script that calls back spam callers and traps them in an endless loop.](http://9gag.com/gag/agmz4e6)<!-- MEMES:END -->
 
 ---
 
