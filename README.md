@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turkey&#39;s parliament passes a bill requiring social media and online game companies to restrict access for children under 15, following a school shooting &lpar;Andrew Wilks/Associated Press&rpar;](http://www.techmeme.com/260423/p25#a260423p25)
- - [Omni, which is building a &quot;semantic translation layer&quot; for enterprise data, raised a $120M Series C led by Iconiq at a $1.5B valuation, up from $650M in 2025 &lpar;Lily Mae Lazarus/Fortune&rpar;](http://www.techmeme.com/260423/p24#a260423p24)
- - [The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame](https://www.wired.com/story/best-pool-cleaning-robots/)<!-- TECH:END -->
+ - [Galaxy S25’s One UI 8.5 changelog leaks: Here’s what new with this update](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-changelog-leak-3660254/)
+ - [Sam Bankman-Fried withdraws his request for a new trial, saying he doubts he would receive a fair hearing; his broader appeal remains pending &lpar;Olivier Acuna/CoinDesk&rpar;](http://www.techmeme.com/260423/p28#a260423p28)
+ - [These New Smart Glasses From Ex-OnePlus Engineers Have a Hidden Cost](https://www.wired.com/story/latitude-52-n-smart-glasses-from-ex-oneplus-engineers-have-a-hidden-cost/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
