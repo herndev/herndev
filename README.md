@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To my fellow degenerates](http://9gag.com/gag/aPAbeMP)
+ - 💣 [Just having a casual water fight on a moving truck, what could go wrong](http://9gag.com/gag/aO8L9jR)
  - ⏩ [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
- - 👉 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)<!-- MEMES:END -->
+ - 👉 [Mystique](http://9gag.com/gag/aByBXyQ)<!-- MEMES:END -->
 
 ---
 
