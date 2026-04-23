@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft offers voluntary retirement to long-serving employees](https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes)
- - [Joint statement: Apple, Amazon, and others push back on stricter emissions reporting rules proposed by climate body Greenhouse Gas Protocol to cut greenwashing &lpar;Olivia Raimonde/Bloomberg&rpar;](http://www.techmeme.com/260423/p39#a260423p39)
- - [Vercel says some customer accounts were compromised prior to its early-April breach, potentially through social engineering, malware, or other methods &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/260423/p38#a260423p38)<!-- TECH:END -->
+ - [Internal memo: Amazon is replacing white-collar job titles at its Ring and Blink units with the designation &quot;builder&quot;, and &quot;builder leaders&quot; for managers &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/260423/p43#a260423p43)
+ - [Palantir Employees Are Starting to Wonder if They&#39;re the Bad Guys](https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/)
+ - [Play One of the Best Games of 2025 Right Now on Xbox Game Pass](https://www.cnet.com/tech/gaming/play-one-of-the-best-games-of-2025-now-on-xbox-game-pass/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
