@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The future is now](http://9gag.com/gag/aKGoeKZ)
- - ⏩ [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
- - 👉 [To my fellow degenerates](http://9gag.com/gag/aPAbeMP)<!-- MEMES:END -->
+ - 💣 [Bri&#39;ish airsoft](http://9gag.com/gag/ae98m4v)
+ - ⏩ [Just Guys Being Dudes](http://9gag.com/gag/a87x23d)
+ - 👉 [Satisfying LightBloom Crystal](http://9gag.com/gag/awyWYx4)<!-- MEMES:END -->
 
 ---
 
