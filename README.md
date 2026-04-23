@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 QPR1 Beta 1 is already here with a sneak peek at September’s Feature Drop](https://www.androidauthority.com/android-17-qpr1-beta-1-3660122/)
- - [SK Hynix reports Q1 revenue up 198% YoY to ~$35.55B, vs. ~$36.2B est., and operating profit up 405% YoY to ~$25.4B, vs. ~$25.6B est., as memory prices rise &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260422/p49#a260422p49)
- - [A Previously Banned Apple Watch Health Feature Is Now Here to Stay](https://www.cnet.com/tech/mobile/blood-oxygen-banned-apple-watch-health-stay/)<!-- TECH:END -->
+ - [Sources: SoftBank seeks a $10B two-year margin loan secured by its OpenAI shares, with an option for a year extension, as SoftBank aims to become an AI linchpin &lpar;Bloomberg&rpar;](http://www.techmeme.com/260422/p53#a260422p53)
+ - [Sources: Microsoft considered buying Cursor in recent weeks but didn&#39;t make an offer; Microsoft has been working to boost GitHub Copilot&#39;s popularity &lpar;CNBC&rpar;](http://www.techmeme.com/260422/p52#a260422p52)
+ - [Microsoft plans to invest AU$25B by 2029 to expand Azure AI supercomputing and cloud infrastructure in Australia, its largest commitment to the country &lpar;Ainslie Chandler/Bloomberg&rpar;](http://www.techmeme.com/260422/p51#a260422p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
