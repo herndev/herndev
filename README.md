@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A poll of 4,000 workers in the US and the UK finds that the highest-earning and most experienced workers are adopting AI in their jobs far faster than others &lpar;Financial Times&rpar;](http://www.techmeme.com/260423/p9#a260423p9)
  - [Report: China&#39;s 360 Digital Security Group has uncovered ~1,000 previously unknown vulnerabilities, including in Microsoft&#39;s Office, using an AI-powered agent &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/260423/p8#a260423p8)
- - [Hoka Coupon Codes: 30% Off | April 2026](https://www.wired.com/story/hoka-coupon-code/)
- - [Verizon Promo Codes: $200 Verizon Gift Cards | April 2026](https://www.wired.com/story/verizon-promo-code/)<!-- TECH:END -->
+ - [Hoka Coupon Codes: 30% Off | April 2026](https://www.wired.com/story/hoka-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
