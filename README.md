@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 17 QPR1 Beta 1 is already here with a sneak peek at September’s Feature Drop](https://www.androidauthority.com/android-17-qpr1-beta-1-3660122/)
  - [SK Hynix reports Q1 revenue up 198% YoY to ~$35.55B, vs. ~$36.2B est., and operating profit up 405% YoY to ~$25.4B, vs. ~$25.6B est., as memory prices rise &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260422/p49#a260422p49)
- - [Experience F1 tracks with 3D art in Apple Maps ahead of each race](https://appleinsider.com/articles/26/02/26/experience-f1-tracks-with-3d-art-in-apple-maps-ahead-of-each-race?utm_source=rss)
- - [T-Mobile Begins DoorDashing 5G Internet to Customers for Same-Day Deliveries](https://www.cnet.com/home/internet/t-mobile-doordash-5g-internet-same-day-delivery/)<!-- TECH:END -->
+ - [A Previously Banned Apple Watch Health Feature Is Now Here to Stay](https://www.cnet.com/tech/mobile/blood-oxygen-banned-apple-watch-health-stay/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
