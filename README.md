@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White culture](http://9gag.com/gag/amo4xb9)
- - ⏩ [Finally someone said it](http://9gag.com/gag/aW43oPd)
- - 👉 [How to multiply plants quickly!](http://9gag.com/gag/aAyz2bg)<!-- MEMES:END -->
+ - 💣 [Don\u2019t we all](http://9gag.com/gag/aKGo8gO)
+ - ⏩ [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
+ - 👉 [Law &amp; Order SVU S01 E02](http://9gag.com/gag/aXP67pg)<!-- MEMES:END -->
 
 ---
 
