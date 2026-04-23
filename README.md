@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC alters the Wi-Fi router ban to include hotspots — pray it doesn’t alter the deal any further](https://www.androidauthority.com/router-ban-expands-to-hotspots-3660505/)
- - [Texas Instruments stock rose 19% on Thursday, its best day since 2000, after upbeat Q2 guidance driven by high demand for analog chips used in AI data centers &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/260423/p59#a260423p59)
- - [Shenzhen-based Pudu Robotics, which makes commercial service robots, raised ~$150M, bringing its total funding to $300M+, and says its valuation exceeds $1.5B &lpar;The Robot Report&rpar;](http://www.techmeme.com/260423/p58#a260423p58)<!-- TECH:END -->
+ - [Sources: the US DOJ arrested a soldier involved in the capture of Nicolás Maduro for allegedly making $400K+ on Polymarket by betting on his removal from office &lpar;ABC News&rpar;](http://www.techmeme.com/260423/p60#a260423p60)
+ - [Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet](https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/)
+ - [Brendan Carr’s war on wokeness targets inclusive children&amp;#8217;s television](https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
