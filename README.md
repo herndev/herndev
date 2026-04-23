@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bub is happy](http://9gag.com/gag/a2v6ywZ)
- - ⏩ [Ok,gotcha](http://9gag.com/gag/a9yg8wW)
- - 👉 [Well\u2026 here we are.\u201d](http://9gag.com/gag/a7oR94A)<!-- MEMES:END -->
+ - 💣 [Lighting up a cigarette during a gas leak, what could go wrong](http://9gag.com/gag/aoyQ4Ex)
+ - ⏩ [Conductor Matthew Halls knocks a \u20ac1 million violin out of violinist Elina V\u00e4h\u00e4l\u00e4\u2019s hands.](http://9gag.com/gag/aqyoQeY)
+ - 👉 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)<!-- MEMES:END -->
 
 ---
 
