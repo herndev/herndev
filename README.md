@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don\u2019t we all](http://9gag.com/gag/aKGo8gO)
- - ⏩ [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
- - 👉 [Asking for a friend](http://9gag.com/gag/aO8LPD6)<!-- MEMES:END -->
+ - 💣 [White culture](http://9gag.com/gag/amo4xb9)
+ - ⏩ [Finally someone said it](http://9gag.com/gag/aW43oPd)
+ - 👉 [How to multiply plants quickly!](http://9gag.com/gag/aAyz2bg)<!-- MEMES:END -->
 
 ---
 
