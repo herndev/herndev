@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
- - ⏩ [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
+ - 💣 [Just having a casual water fight on a moving truck, what could go wrong](http://9gag.com/gag/aO8L9jR)
+ - ⏩ [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
  - 👉 [Mystique](http://9gag.com/gag/aByBXyQ)<!-- MEMES:END -->
 
 ---
