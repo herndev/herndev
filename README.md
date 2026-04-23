@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Baltheon Armor in Crimson Desert](https://www.pcgamer.com/games/action/crimson-desert-baltheon-armor-location/)
- - [PC Gamer magazine&#39;s new issue is on sale now: Diablo 4: Lord of Hatred](https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-diablo-4-lord-of-hatred/)
- - [Street Fighter 6 and Silent Hill 2 headline Steam&#39;s 2026 Golden Week sales](https://www.polygon.com/steam-golden-week-sales-2026/)<!-- GAME:END -->
+ - [Tesla to use Intel 14A for AI chips as Musk says it will be &#39;ready for prime ​time&#39; when the multi-billion dollar Terafab project scales up](https://www.pcgamer.com/hardware/processors/tesla-to-use-intel-14a-for-ai-chips-as-musk-says-it-will-be-ready-for-prime-time-when-the-multi-billion-dollar-terafab-project-scales-up/)
+ - [Best graphics cards in 2026: These are the GPUs worth spending money in right now](https://www.pcgamer.com/the-best-graphics-cards/)
+ - [The Expanse creators don&#39;t want to fall into a Star Wars rut](https://www.polygon.com/expanse-creators-captives-war-vs-star-wars/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
