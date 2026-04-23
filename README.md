@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A poll of 4,000 workers in the US and the UK finds that the highest-earning and most experienced workers are adopting AI in their jobs far faster than others &lpar;Financial Times&rpar;](http://www.techmeme.com/260423/p9#a260423p9)
- - [Report: China&#39;s 360 Digital Security Group has uncovered ~1,000 previously unknown vulnerabilities, including in Microsoft&#39;s Office, using an AI-powered agent &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/260423/p8#a260423p8)
- - [Hoka Coupon Codes: 30% Off | April 2026](https://www.wired.com/story/hoka-coupon-code/)<!-- TECH:END -->
+ - [OnePlus 16 may not settle for 165Hz: Leak reveals even higher refresh rate jump](https://www.androidauthority.com/oneplus-16-240hz-display-leak-3660170/)
+ - [This ultra-bright Google TV projector promises not to be a pain to set up](https://www.androidauthority.com/jmgo-n3-ultimate-launch-3660182/)
+ - [Honor’s new phones look like iPhones for Android](https://www.theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
