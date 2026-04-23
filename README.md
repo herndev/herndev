@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The future is now](http://9gag.com/gag/aKGoeKZ)
- - ⏩ [Brazil.](http://9gag.com/gag/aD2eZpG)
- - 👉 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)<!-- MEMES:END -->
+ - 💣 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
+ - ⏩ [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
+ - 👉 [Mystique](http://9gag.com/gag/aByBXyQ)<!-- MEMES:END -->
 
 ---
 
