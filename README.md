@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_source=rss)
- - [X says it is deprecating X Communities, giving members until May 30 to migrate to XChat, and plans to increase group chat limits to 1,000 in the next two weeks &lpar;Nikita Bier/@nikitabier&rpar;](http://www.techmeme.com/260423/p12#a260423p12)
- - [STMicro reports Q1 revenue of $3.10B, above $3.04B est., $171M operating income, above $165.8 est., and forecasts $3.45B revenue for Q2, above $3.21B est. &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/260423/p11#a260423p11)<!-- TECH:END -->
+ - [Sources: Bain Capital seeks to sell a stake of 40%+ in Bridge Data Centres in a deal that would value the Singapore-based data infrastructure builder at $5B &lpar;Reuters&rpar;](http://www.techmeme.com/260423/p18#a260423p18)
+ - [Tencent releases Hy3-preview, its first AI model developed under former OpenAI researcher Yao Shunyu; the model features 295B parameters, down from HY2&#39;s 400B &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/260423/p17#a260423p17)
+ - [TSMC SVP Kevin Zhang says the company plans to open an advanced chip packaging plant in Arizona by 2029 and that construction has begun &lpar;Reuters&rpar;](http://www.techmeme.com/260423/p16#a260423p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
