@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s premium 2026 Razr gets the spotlight in leaked promo video](https://www.androidauthority.com/motorola-razr-ultra-2026-promo-video-3660399/)
- - [Microsoft brings Xbox back, scraps Microsoft Gaming](https://www.theverge.com/report/917485/microsoft-return-of-xbox-no-more-microsoft-gaming)
- - [Keychron’s customizable V1 mechanical keyboard is back down to $45](https://www.theverge.com/gadgets/916757/keychron-v1-skullcandy-method-360-anc-deal-sale)<!-- TECH:END -->
+ - [OpenAI says GPT-5.5&#39;s improvements are strongest in agentic coding, computer use, and early scientific research, which require reasoning across longer contexts &lpar;Madison Mills/Axios&rpar;](http://www.techmeme.com/260423/p49#a260423p49)
+ - [OpenAI unveils GPT 5.5, intended to be better at completing work without much direction, saying the model &quot;figures it out, deals with ambiguity&quot; &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260423/p48#a260423p48)
+ - [OpenAI says its new GPT-5.5 model is more efficient and better at coding](https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
