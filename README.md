@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I bought every ship in Windrose – here&#39;s what you should spend your pirate gold on first](https://www.pcgamer.com/games/survival-crafting/windrose-ship-brig-and-frigate-materials/)
- - [Stranger Things: Tales from &#39;85 review: The best Stranger Things season since 2019](https://www.polygon.com/stranger-things-tales-from-85-review/)
- - [D&amp;D’s new actual play show borrows a clever horror mechanic from Dark Dice](https://www.polygon.com/dnd-dungeon-masters-actual-play-ravenloft-rest-rules-dark-dice/)<!-- GAME:END -->
+ - [How to get the Baltheon Armor in Crimson Desert](https://www.pcgamer.com/games/action/crimson-desert-baltheon-armor-location/)
+ - [PC Gamer magazine&#39;s new issue is on sale now: Diablo 4: Lord of Hatred](https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-diablo-4-lord-of-hatred/)
+ - [Street Fighter 6 and Silent Hill 2 headline Steam&#39;s 2026 Golden Week sales](https://www.polygon.com/steam-golden-week-sales-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
