@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says GPT-5.5&#39;s improvements are strongest in agentic coding, computer use, and early scientific research, which require reasoning across longer contexts &lpar;Madison Mills/Axios&rpar;](http://www.techmeme.com/260423/p49#a260423p49)
- - [OpenAI unveils GPT 5.5, intended to be better at completing work without much direction, saying the model &quot;figures it out, deals with ambiguity&quot; &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/260423/p48#a260423p48)
- - [OpenAI says its new GPT-5.5 model is more efficient and better at coding](https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt)<!-- TECH:END -->
+ - [Xbox CEO Asha Sharma and Chief Content Officer Matt Booty detail their &quot;return of Xbox&quot; strategy, including daily active players as its &quot;new north star&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260423/p55#a260423p55)
+ - [Google accidentally shares Pixel 11 Pro Fold wallpapers in Android 17 preview](https://www.androidauthority.com/pixel-11-pro-fold-wallpapers-3660414/)
+ - [Instagram launched Instants, an app for sharing disappearing photos, in Italy this week, after rolling out an Instants feature in its main app in some regions &lpar;Sydney Bradley/Business Insider&rpar;](http://www.techmeme.com/260423/p54#a260423p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
