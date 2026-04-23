@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank seeks a $10B two-year margin loan secured by its OpenAI shares, with an option for a year extension, as SoftBank aims to become an AI linchpin &lpar;Bloomberg&rpar;](http://www.techmeme.com/260422/p53#a260422p53)
- - [Sources: Microsoft considered buying Cursor in recent weeks but didn&#39;t make an offer; Microsoft has been working to boost GitHub Copilot&#39;s popularity &lpar;CNBC&rpar;](http://www.techmeme.com/260422/p52#a260422p52)
- - [Microsoft plans to invest AU$25B by 2029 to expand Azure AI supercomputing and cloud infrastructure in Australia, its largest commitment to the country &lpar;Ainslie Chandler/Bloomberg&rpar;](http://www.techmeme.com/260422/p51#a260422p51)<!-- TECH:END -->
+ - [Courier Health, which develops an AI-powered biopharma platform for managing the end-to-end patient experience, raised a $50M Series B led by Oak HC/FT &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/260422/p55#a260422p55)
+ - [OpenAI releases ChatGPT for Clinicians, a tool for medical tasks like documentation and research, free for verified physicians, pharmacists, and more in the US &lpar;OpenAI&rpar;](http://www.techmeme.com/260422/p54#a260422p54)
+ - [Sources: SoftBank seeks a $10B two-year margin loan secured by its OpenAI shares, with an option for a year extension, as SoftBank aims to become an AI linchpin &lpar;Bloomberg&rpar;](http://www.techmeme.com/260422/p53#a260422p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
