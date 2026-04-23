@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox CEO Asha Sharma and Chief Content Officer Matt Booty detail their &quot;return of Xbox&quot; strategy, including daily active players as its &quot;new north star&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/260423/p55#a260423p55)
- - [Google accidentally shares Pixel 11 Pro Fold wallpapers in Android 17 preview](https://www.androidauthority.com/pixel-11-pro-fold-wallpapers-3660414/)
- - [Instagram launched Instants, an app for sharing disappearing photos, in Italy this week, after rolling out an Instants feature in its main app in some regions &lpar;Sydney Bradley/Business Insider&rpar;](http://www.techmeme.com/260423/p54#a260423p54)<!-- TECH:END -->
+ - [How Apple Savings compares vs other high-yield savings accounts](https://appleinsider.com/inside/apple-card/vs/how-apple-savings-compares-vs-other-high-yield-savings-accounts?utm_source=rss)
+ - [Sonos’ big sale on refurbished speakers is about to end](https://www.theverge.com/gadgets/917611/sonos-refurbished-era-beam-move-speaker-deal-sale)
+ - [Claude can now help you build the perfect Spotify playlist](https://www.androidauthority.com/claude-spotify-integration-3660469/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
