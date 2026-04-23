@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Courier Health, which develops an AI-powered biopharma platform for managing the end-to-end patient experience, raised a $50M Series B led by Oak HC/FT &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/260422/p55#a260422p55)
- - [OpenAI releases ChatGPT for Clinicians, a tool for medical tasks like documentation and research, free for verified physicians, pharmacists, and more in the US &lpar;OpenAI&rpar;](http://www.techmeme.com/260422/p54#a260422p54)
- - [Sources: SoftBank seeks a $10B two-year margin loan secured by its OpenAI shares, with an option for a year extension, as SoftBank aims to become an AI linchpin &lpar;Bloomberg&rpar;](http://www.techmeme.com/260422/p53#a260422p53)<!-- TECH:END -->
+ - [US Commerce Secretary Howard Lutnick says Nvidia has yet to sell H200 chips to Chinese companies and that the Chinese government has not approved such purchases &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/260423/p7#a260423p7)
+ - [Sources: Microsoft told carbon-removal project developers it is shelving contracts under negotiation; Microsoft has been a major backer of carbon capture tech &lpar;Alastair Marsh/Bloomberg&rpar;](http://www.techmeme.com/260423/p6#a260423p6)
+ - [GitHub says it has begun collecting pseudonymous client-side telemetry from command-line interface &lpar;CLI&rpar; users and enabled it by default &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/260423/p5#a260423p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
