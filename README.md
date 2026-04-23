@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Commerce Secretary Howard Lutnick says Nvidia has yet to sell H200 chips to Chinese companies and that the Chinese government has not approved such purchases &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/260423/p7#a260423p7)
- - [Sources: Microsoft told carbon-removal project developers it is shelving contracts under negotiation; Microsoft has been a major backer of carbon capture tech &lpar;Alastair Marsh/Bloomberg&rpar;](http://www.techmeme.com/260423/p6#a260423p6)
- - [GitHub says it has begun collecting pseudonymous client-side telemetry from command-line interface &lpar;CLI&rpar; users and enabled it by default &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/260423/p5#a260423p5)<!-- TECH:END -->
+ - [Report: China&#39;s 360 Digital Security Group has uncovered ~1,000 previously unknown vulnerabilities, including in Microsoft&#39;s Office, using an AI-powered agent &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/260423/p8#a260423p8)
+ - [Hoka Coupon Codes: 30% Off | April 2026](https://www.wired.com/story/hoka-coupon-code/)
+ - [Verizon Promo Codes: $200 Verizon Gift Cards | April 2026](https://www.wired.com/story/verizon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
