@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Google Cloud CEO Thomas Kurian on building infrastructure for AI agents, balancing internal needs and the demands of customers like Anthropic, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/260424/p1#a260424p1)
- - [Trump threatens to &quot;put a big tariff on the UK&quot; if it does not drop its digital services tax, which he views as unfairly targeting US tech companies &lpar;Connor Stringer/Telegraph&rpar;](http://www.techmeme.com/260423/p64#a260423p64)
- - [SAP reports Q1 revenue up 6% YoY to €9.56B, vs. €9.53B est., non-IFRS operating profit up 17% to €2.87B, cloud revenue up 19% to €5.96B; SAP up 10%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/260423/p63#a260423p63)<!-- TECH:END -->
+ - [Huawei says its Ascend supernode based on the Ascend 950 AI chips will fully support DeepSeek V4, as DeepSeek launches a preview of its V4 model &lpar;Reuters&rpar;](http://www.techmeme.com/260424/p4#a260424p4)
+ - [DeepSeek releases its new flagship models V4 Pro and V4 Flash in preview, saying V4 Pro trails the performance of state-of-the-art models by about 3 to 6 months &lpar;Bloomberg&rpar;](http://www.techmeme.com/260424/p3#a260424p3)
+ - [Sam&#39;s Club Promo Codes: 60% Off for April 2026](https://www.wired.com/story/sams-club-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
