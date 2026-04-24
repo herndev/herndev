@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alex Jones has uncovered another massive conspiracy](https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker)
- - [The person who allegedly leaked Paramount’s new Avatar movie has been arrested](https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus)
- - [Big bump, bigger bezels: Fresh Xperia 1 VIII CAD renders back up earlier design leaks](https://www.androidauthority.com/xperia-1-viii-cad-renders-3660869/)<!-- TECH:END -->
+ - [Nvidia stock jumps 4.3% to close at a record for the first time since Oct., pushing Nvidia&#39;s market cap past $5T, as a rally in Intel pushed chipmakers higher &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260424/p36#a260424p36)
+ - [Sam Altman apologizes to a Canadian town for not alerting police to the activity of a mass shooting suspect when her ChatGPT account was suspended &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260424/p35#a260424p35)
+ - [Bizarre Gemini to Google Assistant swapping bug is driving Android Auto users mad](https://www.androidauthority.com/android-auto-gemini-switching-to-assistant-3660893/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
