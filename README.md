@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Waking up with golden shower](http://9gag.com/gag/a9ygmXm)
+ - 💣 [Just having a casual water fight on a moving truck, what could go wrong](http://9gag.com/gag/aO8L9jR)
  - ⏩ [Mystique](http://9gag.com/gag/aByBXyQ)
- - 👉 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)<!-- MEMES:END -->
+ - 👉 [The police was looking for her based on her instagram...but she used some moderate filters](http://9gag.com/gag/a87xeQd)<!-- MEMES:END -->
 
 ---
 
