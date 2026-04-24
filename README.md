@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia stock jumps 4.3% to close at a record for the first time since Oct., pushing Nvidia&#39;s market cap past $5T, as a rally in Intel pushed chipmakers higher &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260424/p36#a260424p36)
- - [Sam Altman apologizes to a Canadian town for not alerting police to the activity of a mass shooting suspect when her ChatGPT account was suspended &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260424/p35#a260424p35)
- - [Bizarre Gemini to Google Assistant swapping bug is driving Android Auto users mad](https://www.androidauthority.com/android-auto-gemini-switching-to-assistant-3660893/)<!-- TECH:END -->
+ - [Series, founded by two seniors at Yale to build an AI-powered social network on iMessage, raised a $5.1M pre-seed from Reddit CEO Steve Huffman and others &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260424/p38#a260424p38)
+ - [The Wire by Acutus, an AI-generated site with articles attacking AI industry critics, appears to be funded by the OpenAI-backed super PAC Leading The Future &lpar;@themidasproj&rpar;](http://www.techmeme.com/260424/p37#a260424p37)
+ - [Nvidia stock jumps 4.3% to close at a record for the first time since Oct., pushing Nvidia&#39;s market cap past $5T, as a rally in Intel pushed chipmakers higher &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260424/p36#a260424p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
