@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC Wi-Fi router ban adds another manufacturer’s models to exception list](https://www.androidauthority.com/amazon-eero-leo-routers-ban-exemption-3660807/)
- - [Designer Baby Companies Are in Turmoil](https://www.wired.com/story/designer-baby-companies-are-in-turmoil/)
- - [How Project Maven taught the military to love AI](https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson)<!-- TECH:END -->
+ - [Rare foldable bargain slashes Google Pixel 9 Pro Fold price to just $1,170](https://www.androidauthority.com/pixel-9-pro-fold-deal-3660836/)
+ - [Beatbot Pool-Cleaning Robots Are on Sale for a Limited Time](https://www.wired.com/story/beatbot-pool-cleaning-robot-deals-april-2026/)
+ - [Sources: JPMorgan Chase and other banks struggled to spread the risk of billions in loans they made for data centers leased to Oracle in Texas and Wisconsin &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260424/p27#a260424p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
