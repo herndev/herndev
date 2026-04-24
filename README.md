@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta and Amazon reach a multi-billion, multiyear deal for Meta to rent hundreds of thousands of Amazon&#39;s Graviton chips for its AI efforts &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/260424/p21#a260424p21)
- - [Android’s Linux Terminal now lets you max out performance, but at a cost](https://www.androidauthority.com/androids-linux-terminal-performance-vs-quality-3660716/)
- - [A new Republican privacy bill could be ‘worse than no standard at all’](https://www.theverge.com/policy/917828/data-privacy-bill-secure-act-house-state-laws)<!-- TECH:END -->
+ - [The Trump phone still isn’t real](https://www.theverge.com/tech/918011/trump-mobile-t1-phone-real-redesign-release-date)
+ - [I don&amp;#8217;t think Gwyneth Paltrow knows what a peptide is](https://www.theverge.com/column/918084/optimizer-gwyneth-paltrow-peptides)
+ - [Helsinki-based Verda, formerly Datacrunch, which aims to become Europe&#39;s first AI cloud hyperscaler, raised €100M in debt and equity &lpar;Mimi Billing/Sifted&rpar;](http://www.techmeme.com/260424/p22#a260424p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
