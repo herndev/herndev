@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)
- - ⏩ [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
- - 👉 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)<!-- MEMES:END -->
+ - 💣 [Absolute legends for this move](http://9gag.com/gag/a87xwAd)
+ - ⏩ [Reflexes like a sloth.](http://9gag.com/gag/amo4xE6)
+ - 👉 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)<!-- MEMES:END -->
 
 ---
 
