@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rare foldable bargain slashes Google Pixel 9 Pro Fold price to just $1,170](https://www.androidauthority.com/pixel-9-pro-fold-deal-3660836/)
- - [Beatbot Pool-Cleaning Robots Are on Sale for a Limited Time](https://www.wired.com/story/beatbot-pool-cleaning-robot-deals-april-2026/)
- - [Sources: JPMorgan Chase and other banks struggled to spread the risk of billions in loans they made for data centers leased to Oracle in Texas and Wisconsin &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260424/p27#a260424p27)<!-- TECH:END -->
+ - [Sources: AI startups are struggling to access Nvidia GPUs as Microsoft and other cloud providers divert supply to internal teams and large customers like OpenAI &lpar;The Information&rpar;](http://www.techmeme.com/260424/p28#a260424p28)
+ - [One of the Galaxy S26’s best productivity tools is finally coming to older Samsung flagships](https://www.androidauthority.com/samsung-upgraded-pdf-scanner-for-older-flagships-3660864/)
+ - [Give Mom Warm Coffee Year-Long With This Ember Smart Mug Deal](https://www.wired.com/story/ember-mug-2-deal-april-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
