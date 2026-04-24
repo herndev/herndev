@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
- - ⏩ [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)
- - 👉 [Bri&#39;ish airsoft](http://9gag.com/gag/ae98m4v)<!-- MEMES:END -->
+ - 💣 [Trunk](http://9gag.com/gag/aRBq2A7)
+ - ⏩ [The future is now](http://9gag.com/gag/aKGoeKZ)
+ - 👉 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)<!-- MEMES:END -->
 
 ---
 
