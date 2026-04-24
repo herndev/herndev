@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek V4 Pro costs $1.74/1M input tokens and $3.48/1M output tokens, while V4 Flash costs $0.14/1M and $0.28/1M; both models are the cheapest in their class &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260424/p10#a260424p10)
- - [Nothing OS 4.1 just made the Nothing Phone 3 way smarter](https://www.androidauthority.com/nothing-phone-3-nothing-os-4-1-3660580/)
- - [Lowest price ever: Apple&#39;s 2026 14-inch MacBook Pro M5 Pro plunges to $1,949](https://appleinsider.com/articles/26/04/24/lowest-price-ever-apples-2026-14-inch-macbook-pro-m5-pro-plunges-to-1949?utm_source=rss)<!-- TECH:END -->
+ - [Canada&#39;s Cohere and Germany&#39;s Aleph Alpha agree to a merger deal valuing the combined group at ~$20B to work on sovereign AI; both governments support the deal &lpar;Financial Times&rpar;](http://www.techmeme.com/260424/p14#a260424p14)
+ - [Saros is pure action nirvana](https://www.theverge.com/entertainment/917462/saros-review-ps5)
+ - [EY survey of 18,000 people across 23 countries: ~49% of consumers have used AI over the past six months to support their savings and investment decisions &lpar;Emma Dunkley/Financial Times&rpar;](http://www.techmeme.com/260424/p13#a260424p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
