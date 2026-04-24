@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s Cybercab goes into production — so why is Musk tapping the brakes?](https://www.theverge.com/transportation/918106/tesla-cybercab-production-robotaxi-elon-musk-earnings)
- - [The Latest Push to Extend Key US Spy Powers Is Still a Mess](https://www.wired.com/story/the-latest-push-to-extend-key-us-spy-powers-is-still-a-mess/)
- - [India&#39;s central bank cancels Paytm Payments Bank&#39;s banking license, after imposing business curbs over non-compliance with rules in January 2024 &lpar;Gopika Gopakumar/Reuters&rpar;](http://www.techmeme.com/260424/p23#a260424p23)<!-- TECH:END -->
+ - [Couldn’t get Android 17 Beta to install on your Pixel? Google’s got a fix](https://www.androidauthority.com/android-beta-installation-bug-3660771/)
+ - [France&#39;s forecasting office refers suspected weather sensor tampering at Paris airport to police, after detecting unusual readings alongside Polymarket betting &lpar;Joe Wertz/Bloomberg&rpar;](http://www.techmeme.com/260424/p24#a260424p24)
+ - [360-degree cameras have a new superpower](https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
