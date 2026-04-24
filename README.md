@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Couldn’t get Android 17 Beta to install on your Pixel? Google’s got a fix](https://www.androidauthority.com/android-beta-installation-bug-3660771/)
- - [France&#39;s forecasting office refers suspected weather sensor tampering at Paris airport to police, after detecting unusual readings alongside Polymarket betting &lpar;Joe Wertz/Bloomberg&rpar;](http://www.techmeme.com/260424/p24#a260424p24)
- - [360-degree cameras have a new superpower](https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity)<!-- TECH:END -->
+ - [FCC Wi-Fi router ban adds another manufacturer’s models to exception list](https://www.androidauthority.com/amazon-eero-leo-routers-ban-exemption-3660807/)
+ - [Designer Baby Companies Are in Turmoil](https://www.wired.com/story/designer-baby-companies-are-in-turmoil/)
+ - [How Project Maven taught the military to love AI](https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
