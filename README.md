@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba says its Qwen AI models will be integrated into BYD, Volkswagen, and other cars, letting users buy food and tickets via voice commands on select models &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/260424/p17#a260424p17)
- - [This Android gaming phone takes extreme cooling to absurd new levels](https://www.androidauthority.com/infinix-gt-50-pro-debut-3660516/)
- - [Google Messages is great — but these 5 features would make it so much better](https://www.androidauthority.com/google-messages-missing-features-2026-3658688/)<!-- TECH:END -->
+ - [Where Apple products are assembled, and where parts come from](https://appleinsider.com/articles/26/04/22/where-apple-products-are-assembled-and-where-their-parts-come-from?utm_source=rss)
+ - [VMax New V4 Electric Scooter Review: Unleash the Beast](https://www.wired.com/review/vmax-new-vx4-electric-scooter/)
+ - [They Wanted to Join Raya. They’ve Been on the Waiting List for Years](https://www.wired.com/story/raya-waitlist-years/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
