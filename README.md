@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
- - ⏩ [Crazy tshirt](http://9gag.com/gag/aqyoDGM)
- - 👉 [The future is now](http://9gag.com/gag/aKGoeKZ)<!-- MEMES:END -->
+ - 💣 [That\u2019s a micro aggression.](http://9gag.com/gag/a87xwqd)
+ - ⏩ [Be happy](http://9gag.com/gag/azxpYzx)
+ - 👉 [Don&#39;t put your dick in crazy, yet you know you can fix her :/](http://9gag.com/gag/amo4pXo)<!-- MEMES:END -->
 
 ---
 
