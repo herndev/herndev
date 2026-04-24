@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Think tylor think](http://9gag.com/gag/aoyQYEx)
- - ⏩ [Rockstar always knows how to keep us on our toes](http://9gag.com/gag/aE0mOAG)
- - 👉 [Hungru games bow](http://9gag.com/gag/ajPeK3g)<!-- MEMES:END -->
+ - 💣 [Hungru games bow](http://9gag.com/gag/ajPeK3g)
+ - ⏩ [Rejection](http://9gag.com/gag/aAyzXYp)
+ - 👉 [Absolute legends for this move](http://9gag.com/gag/a87xwAd)<!-- MEMES:END -->
 
 ---
 
