@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LincPlus LincStation E1 review: Compact, entry-level, and fast enough](https://appleinsider.com/articles/26/04/23/lincplus-lincstation-e1-review-compact-entry-level-and-fast-enough?utm_source=rss)
- - [&#39;Pluribus&#39; &amp; &#39;Come See Me In The Good Light&#39; win Peabody awards for Apple TV](https://appleinsider.com/articles/26/04/23/pluribus-come-see-me-in-the-good-light-win-peabody-awards-for-apple-tv?utm_source=rss)
- - [Tired of constant price hikes? These smart glasses are actually getting cheaper](https://www.androidauthority.com/xreal-smart-glasses-price-cut-3660556/)<!-- TECH:END -->
+ - [Sources: AI coding firm Cognition is in early talks to raise hundreds of millions of dollars at a $25B valuation, up from $10.2B announced in September 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/260423/p61#a260423p61)
+ - [Meta Adds New Live Chat Feature to Threads for NBA Playoffs, Major Events](https://www.cnet.com/news/social-media/meta-threads-launches-live-chats/)
+ - [LincPlus LincStation E1 review: Compact, entry-level, and fast enough](https://appleinsider.com/articles/26/04/23/lincplus-lincstation-e1-review-compact-entry-level-and-fast-enough?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
