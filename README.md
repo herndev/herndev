@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Series, founded by two seniors at Yale to build an AI-powered social network on iMessage, raised a $5.1M pre-seed from Reddit CEO Steve Huffman and others &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/260424/p38#a260424p38)
- - [The Wire by Acutus, an AI-generated site with articles attacking AI industry critics, appears to be funded by the OpenAI-backed super PAC Leading The Future &lpar;@themidasproj&rpar;](http://www.techmeme.com/260424/p37#a260424p37)
- - [Nvidia stock jumps 4.3% to close at a record for the first time since Oct., pushing Nvidia&#39;s market cap past $5T, as a rally in Intel pushed chipmakers higher &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/260424/p36#a260424p36)<!-- TECH:END -->
+ - [The US CFTC sues New York, accusing the state of invading its authority to regulate prediction markets by filing lawsuits against Coinbase and Gemini &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260424/p43#a260424p43)
+ - [Diplomatic cable: US State Department has ordered a global push to bring attention to what it says are efforts by Chinese companies to steal IP from US AI labs &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260424/p42#a260424p42)
+ - [Thrive is taking a stake in the San Francisco Giants via a new venture that will invest in franchises and cultural institutions that can&#39;t be replicated by AI &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260424/p41#a260424p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
