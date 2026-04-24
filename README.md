@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 has a second hidden Easter egg and here’s how to find it](https://www.androidauthority.com/android-17-easter-egg-landroid-screensaver-3660604/)
- - [Canada&#39;s Cohere and Germany&#39;s Aleph Alpha agree to a merger deal valuing the combined group at ~$20B to work on sovereign AI; both governments support the deal &lpar;Financial Times&rpar;](http://www.techmeme.com/260424/p14#a260424p14)
- - [Saros is pure action nirvana](https://www.theverge.com/entertainment/917462/saros-review-ps5)<!-- TECH:END -->
+ - [It’s the end of the road for this standout Google TV box brand](https://www.androidauthority.com/google-tv-box-brand-bankrupt-3660614/)
+ - [Amazon’s new Ethernet adapter highlights a major Fire TV Stick limitation](https://www.androidauthority.com/fire-tv-stick-ethernet-adapter-3660637/)
+ - [Google confirms side-by-side ads are here for YouTube mobile](https://www.androidauthority.com/youtube-livestream-side-by-side-ads-mobile-3660622/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
