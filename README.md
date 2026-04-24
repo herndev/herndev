@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Saros review: Housemarque&#39;s new PS5 game overcorrects for Returnal&#39;s difficulty](https://www.polygon.com/saros-review/)
- - [Saros: The Kotaku Review](https://kotaku.com/saros-review-ps5-housemarque-returnal-sony-playstation-2000690119)
- - [A Game Pass ‘Starter Edition’ Bringing Stardew Valley And Fallout 4 To Discord Nitro Just Leaked](https://kotaku.com/xbox-game-pass-discord-nitro-stardew-valley-fallout-4-2000690262)<!-- GAME:END -->
+ - [&#39;This is a fundamentally different company today&#39;: Intel reports strong financial results, says its upcoming 14A process is already outpacing early 18A yields](https://www.pcgamer.com/hardware/processors/this-is-a-fundamentally-different-company-today-intel-reports-strong-financial-results-says-its-upcoming-14a-process-is-already-outpacing-early-18a-yields/)
+ - [Netflix is tackling Princess Knight&#39;s subversive themes in an upcoming anime film](https://www.polygon.com/princess-knight-shojo-manga-netflix-adaptation-anime-film/)
+ - [Blizzard apologises for WoW&#39;s latest bug-ridden patch: &#39;We will do better&#39;](https://www.pcgamer.com/games/world-of-warcraft/blizzard-apologises-for-wows-latest-bug-ridden-patch-we-will-do-better/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
