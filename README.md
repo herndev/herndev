@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI startups are struggling to access Nvidia GPUs as Microsoft and other cloud providers divert supply to internal teams and large customers like OpenAI &lpar;The Information&rpar;](http://www.techmeme.com/260424/p28#a260424p28)
- - [One of the Galaxy S26’s best productivity tools is finally coming to older Samsung flagships](https://www.androidauthority.com/samsung-upgraded-pdf-scanner-for-older-flagships-3660864/)
- - [Give Mom Warm Coffee Year-Long With This Ember Smart Mug Deal](https://www.wired.com/story/ember-mug-2-deal-april-2026/)<!-- TECH:END -->
+ - [Alex Jones has uncovered another massive conspiracy](https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker)
+ - [The person who allegedly leaked Paramount’s new Avatar movie has been arrested](https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus)
+ - [Big bump, bigger bezels: Fresh Xperia 1 VIII CAD renders back up earlier design leaks](https://www.androidauthority.com/xperia-1-viii-cad-renders-3660869/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
