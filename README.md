@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US arrests soldier who allegedly made $400k on Maduro Polymarket bets](https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke)
- - [It’s finally here: XGIMI’s ambitious 4K projector is now up for grabs](https://www.androidauthority.com/xiimi-titan-noir-series-global-launch-3660547/)
- - [Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro](https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle)<!-- TECH:END -->
+ - [LincPlus LincStation E1 review: Compact, entry-level, and fast enough](https://appleinsider.com/articles/26/04/23/lincplus-lincstation-e1-review-compact-entry-level-and-fast-enough?utm_source=rss)
+ - [&#39;Pluribus&#39; &amp; &#39;Come See Me In The Good Light&#39; win Peabody awards for Apple TV](https://appleinsider.com/articles/26/04/23/pluribus-come-see-me-in-the-good-light-win-peabody-awards-for-apple-tv?utm_source=rss)
+ - [Tired of constant price hikes? These smart glasses are actually getting cheaper](https://www.androidauthority.com/xreal-smart-glasses-price-cut-3660556/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
