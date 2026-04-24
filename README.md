@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hungru games bow](http://9gag.com/gag/ajPeK3g)
- - ⏩ [He built a script that calls back spam callers and traps them in an endless loop.](http://9gag.com/gag/agmz4e6)
- - 👉 [Absolute legends for this move](http://9gag.com/gag/a87xwAd)<!-- MEMES:END -->
+ - 💣 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
+ - ⏩ [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
+ - 👉 [Mystique](http://9gag.com/gag/aByBXyQ)<!-- MEMES:END -->
 
 ---
 
