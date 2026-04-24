@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just having a casual water fight on a moving truck, what could go wrong](http://9gag.com/gag/aO8L9jR)
- - ⏩ [Mystique](http://9gag.com/gag/aByBXyQ)
- - 👉 [The police was looking for her based on her instagram...but she used some moderate filters](http://9gag.com/gag/a87xeQd)<!-- MEMES:END -->
+ - 💣 [Bri&#39;ish airsoft](http://9gag.com/gag/ae98m4v)
+ - ⏩ [Just Guys Being Dudes](http://9gag.com/gag/a87x23d)
+ - 👉 [Humour me](http://9gag.com/gag/a87xKWe)<!-- MEMES:END -->
 
 ---
 
