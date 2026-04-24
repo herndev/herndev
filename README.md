@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trunk](http://9gag.com/gag/aRBq2A7)
- - ⏩ [The future is now](http://9gag.com/gag/aKGoeKZ)
- - 👉 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)<!-- MEMES:END -->
+ - 💣 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
+ - ⏩ [Crazy tshirt](http://9gag.com/gag/aqyoDGM)
+ - 👉 [The future is now](http://9gag.com/gag/aKGoeKZ)<!-- MEMES:END -->
 
 ---
 
