@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dog almost takes pepsi challenge](http://9gag.com/gag/a2v6OGp)
- - ⏩ [The power of music and a united crowd](http://9gag.com/gag/adBDoWZ)
- - 👉 [The future is now](http://9gag.com/gag/aKGoeKZ)<!-- MEMES:END -->
+ - 💣 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
+ - ⏩ [No need for interpreter](http://9gag.com/gag/amo4Vqj)
+ - 👉 [Guys...](http://9gag.com/gag/aO8LpeD)<!-- MEMES:END -->
 
 ---
 
