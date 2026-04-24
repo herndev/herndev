@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)
- - ⏩ [No need for interpreter](http://9gag.com/gag/amo4Vqj)
+ - 💣 [A great motivator I see](http://9gag.com/gag/a2v62we)
+ - ⏩ [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
  - 👉 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)<!-- MEMES:END -->
 
 ---
