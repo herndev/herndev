@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
- - ⏩ [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
- - 👉 [Mystique](http://9gag.com/gag/aByBXyQ)<!-- MEMES:END -->
+ - ⏩ [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)
+ - 👉 [Bri&#39;ish airsoft](http://9gag.com/gag/ae98m4v)<!-- MEMES:END -->
 
 ---
 
