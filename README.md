@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
- - ⏩ [A Japanese police officer is kindly reminding foreigners about public manners](http://9gag.com/gag/aYQX18m)
- - 👉 [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)<!-- MEMES:END -->
+ - 💣 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
+ - ⏩ [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
+ - 👉 [A Japanese police officer is kindly reminding foreigners about public manners](http://9gag.com/gag/aYQX18m)<!-- MEMES:END -->
 
 ---
 
