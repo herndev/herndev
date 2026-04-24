@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei says its Ascend supernode based on the Ascend 950 AI chips will fully support DeepSeek V4, as DeepSeek launches a preview of its V4 model &lpar;Reuters&rpar;](http://www.techmeme.com/260424/p4#a260424p4)
- - [DeepSeek releases its new flagship models V4 Pro and V4 Flash in preview, saying V4 Pro trails the performance of state-of-the-art models by about 3 to 6 months &lpar;Bloomberg&rpar;](http://www.techmeme.com/260424/p3#a260424p3)
- - [Sam&#39;s Club Promo Codes: 60% Off for April 2026](https://www.wired.com/story/sams-club-coupon/)<!-- TECH:END -->
+ - [DeepSeek V4 Pro costs $1.74/1M input tokens and $3.48/1M output tokens, while V4 Flash costs $0.14/1M and $0.28/1M; both models are the cheapest in their class &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/260424/p10#a260424p10)
+ - [Nothing OS 4.1 just made the Nothing Phone 3 way smarter](https://www.androidauthority.com/nothing-phone-3-nothing-os-4-1-3660580/)
+ - [Lowest price ever: Apple&#39;s 2026 14-inch MacBook Pro M5 Pro plunges to $1,949](https://appleinsider.com/articles/26/04/24/lowest-price-ever-apples-2026-14-inch-macbook-pro-m5-pro-plunges-to-1949?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
