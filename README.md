@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Absolute legends for this move](http://9gag.com/gag/a87xwAd)
- - ⏩ [Reflexes like a sloth.](http://9gag.com/gag/amo4xE6)
- - 👉 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)<!-- MEMES:END -->
+ - 💣 [Think tylor think](http://9gag.com/gag/aoyQYEx)
+ - ⏩ [Rockstar always knows how to keep us on our toes](http://9gag.com/gag/aE0mOAG)
+ - 👉 [Hungru games bow](http://9gag.com/gag/ajPeK3g)<!-- MEMES:END -->
 
 ---
 
