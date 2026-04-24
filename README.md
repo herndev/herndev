@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hungru games bow](http://9gag.com/gag/ajPeK3g)
- - ⏩ [Rejection](http://9gag.com/gag/aAyzXYp)
- - 👉 [Absolute legends for this move](http://9gag.com/gag/a87xwAd)<!-- MEMES:END -->
+ - 💣 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
+ - ⏩ [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)
+ - 👉 [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)<!-- MEMES:END -->
 
 ---
 
