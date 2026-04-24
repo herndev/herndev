@@ -32,7 +32,7 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A New Version Of Game Pass Coming To Discord Nitro Just Leaked](https://kotaku.com/xbox-game-pass-discord-nitro-stardew-valley-fallout-4-2000690262)
+ - [A Game Pass ‘Starter Edition’ Bringing Stardew Valley And Fallout 4 To Discord Nitro Just Leaked](https://kotaku.com/xbox-game-pass-discord-nitro-stardew-valley-fallout-4-2000690262)
  - [&#39;Our presence on PC isn&#39;t strong enough,&#39; Xbox bosses admit](https://www.pcgamer.com/gaming-industry/our-presence-on-pc-isnt-strong-enough-xbox-bosses-admit/)
  - [Peter Molyneux has made a proper game again rather than a monetization experiment, and I really hope he finishes it](https://www.pcgamer.com/games/sim/peter-molyneux-has-made-a-proper-game-again-rather-than-a-monetization-experiment-and-i-really-hope-he-finishes-it/)<!-- GAME:END -->
 
