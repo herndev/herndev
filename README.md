@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bri&#39;ish airsoft](http://9gag.com/gag/ae98m4v)
- - ⏩ [Just Guys Being Dudes](http://9gag.com/gag/a87x23d)
- - 👉 [Humour me](http://9gag.com/gag/a87xKWe)<!-- MEMES:END -->
+ - 💣 [A Japanese police officer is kindly reminding foreigners about public manners](http://9gag.com/gag/aYQX18m)
+ - ⏩ [The future is now](http://9gag.com/gag/aKGoeKZ)
+ - 👉 [Watch first 3 seconds of the video, pause it and comment what this guy wants to do, then watch full clip](http://9gag.com/gag/awyWd3W)<!-- MEMES:END -->
 
 ---
 
