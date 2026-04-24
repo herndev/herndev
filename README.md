@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tesla to use Intel 14A for AI chips as Musk says it will be &#39;ready for prime ​time&#39; when the multi-billion dollar Terafab project scales up](https://www.pcgamer.com/hardware/processors/tesla-to-use-intel-14a-for-ai-chips-as-musk-says-it-will-be-ready-for-prime-time-when-the-multi-billion-dollar-terafab-project-scales-up/)
- - [Best graphics cards in 2026: These are the GPUs worth spending money in right now](https://www.pcgamer.com/the-best-graphics-cards/)
- - [The Expanse creators don&#39;t want to fall into a Star Wars rut](https://www.polygon.com/expanse-creators-captives-war-vs-star-wars/)<!-- GAME:END -->
+ - [A New Version Of Game Pass Coming To Discord Nitro Just Leaked](https://kotaku.com/xbox-game-pass-discord-nitro-stardew-valley-fallout-4-2000690262)
+ - [&#39;Our presence on PC isn&#39;t strong enough,&#39; Xbox bosses admit](https://www.pcgamer.com/gaming-industry/our-presence-on-pc-isnt-strong-enough-xbox-bosses-admit/)
+ - [Peter Molyneux has made a proper game again rather than a monetization experiment, and I really hope he finishes it](https://www.pcgamer.com/games/sim/peter-molyneux-has-made-a-proper-game-again-rather-than-a-monetization-experiment-and-i-really-hope-he-finishes-it/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
