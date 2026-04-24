@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei plans to spend up to $11.7B over five years to boost compute for training and testing autonomous cars, with ~$2.64B for autonomous driving R&amp;D in 2026 &lpar;Daniel Ren/South China Morning Post&rpar;](http://www.techmeme.com/260424/p19#a260424p19)
- - [Dyson PencilVac Review &lpar;2026&rpar;: Limited but Handy](https://www.wired.com/review/dyson-pencilvac-review/)
- - [Android’s Linux Terminal app just got a lot more colorful with theme support](https://www.androidauthority.com/android-17-linux-terminal-themes-3660672/)<!-- TECH:END -->
+ - [Meta and Amazon reach a multi-billion, multiyear deal for Meta to rent hundreds of thousands of Amazon&#39;s Graviton chips for its AI efforts &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/260424/p21#a260424p21)
+ - [Android’s Linux Terminal now lets you max out performance, but at a cost](https://www.androidauthority.com/androids-linux-terminal-performance-vs-quality-3660716/)
+ - [A new Republican privacy bill could be ‘worse than no standard at all’](https://www.theverge.com/policy/917828/data-privacy-bill-secure-act-house-state-laws)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
