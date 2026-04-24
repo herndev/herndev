@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s the end of the road for this standout Google TV box brand](https://www.androidauthority.com/google-tv-box-brand-bankrupt-3660614/)
- - [Amazon’s new Ethernet adapter highlights a major Fire TV Stick limitation](https://www.androidauthority.com/fire-tv-stick-ethernet-adapter-3660637/)
- - [Google confirms side-by-side ads are here for YouTube mobile](https://www.androidauthority.com/youtube-livestream-side-by-side-ads-mobile-3660622/)<!-- TECH:END -->
+ - [Alibaba says its Qwen AI models will be integrated into BYD, Volkswagen, and other cars, letting users buy food and tickets via voice commands on select models &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/260424/p17#a260424p17)
+ - [This Android gaming phone takes extreme cooling to absurd new levels](https://www.androidauthority.com/infinix-gt-50-pro-debut-3660516/)
+ - [Google Messages is great — but these 5 features would make it so much better](https://www.androidauthority.com/google-messages-missing-features-2026-3658688/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
