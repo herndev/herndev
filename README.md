@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 17 has a second hidden Easter egg and here’s how to find it](https://www.androidauthority.com/android-17-easter-egg-landroid-screensaver-3660604/)
  - [Canada&#39;s Cohere and Germany&#39;s Aleph Alpha agree to a merger deal valuing the combined group at ~$20B to work on sovereign AI; both governments support the deal &lpar;Financial Times&rpar;](http://www.techmeme.com/260424/p14#a260424p14)
- - [Saros is pure action nirvana](https://www.theverge.com/entertainment/917462/saros-review-ps5)
- - [EY survey of 18,000 people across 23 countries: ~49% of consumers have used AI over the past six months to support their savings and investment decisions &lpar;Emma Dunkley/Financial Times&rpar;](http://www.techmeme.com/260424/p13#a260424p13)<!-- TECH:END -->
+ - [Saros is pure action nirvana](https://www.theverge.com/entertainment/917462/saros-review-ps5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
