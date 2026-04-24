@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He built a script that calls back spam callers and traps them in an endless loop.](http://9gag.com/gag/agmz4e6)
- - ⏩ [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
- - 👉 [The police was looking for her based on her instagram...but she used some moderate filters](http://9gag.com/gag/a87xeQd)<!-- MEMES:END -->
+ - 💣 [Bri&#39;ish airsoft](http://9gag.com/gag/ae98m4v)
+ - ⏩ [Just Guys Being Dudes](http://9gag.com/gag/a87x23d)
+ - 👉 [It&#39;s great, beautiful mechanics.](http://9gag.com/gag/adBD2rQ)<!-- MEMES:END -->
 
 ---
 
