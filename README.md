@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That\u2019s a micro aggression.](http://9gag.com/gag/a87xwqd)
- - ⏩ [Be happy](http://9gag.com/gag/azxpYzx)
- - 👉 [Don&#39;t put your dick in crazy, yet you know you can fix her :/](http://9gag.com/gag/amo4pXo)<!-- MEMES:END -->
+ - 💣 [Dog almost takes pepsi challenge](http://9gag.com/gag/a2v6OGp)
+ - ⏩ [The power of music and a united crowd](http://9gag.com/gag/adBDoWZ)
+ - 👉 [The future is now](http://9gag.com/gag/aKGoeKZ)<!-- MEMES:END -->
 
 ---
 
