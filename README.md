@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Game Pass ‘Starter Edition’ Bringing Stardew Valley And Fallout 4 To Discord Nitro Just Leaked](https://kotaku.com/xbox-game-pass-discord-nitro-stardew-valley-fallout-4-2000690262)
- - [&#39;Our presence on PC isn&#39;t strong enough,&#39; Xbox bosses admit](https://www.pcgamer.com/gaming-industry/our-presence-on-pc-isnt-strong-enough-xbox-bosses-admit/)
- - [Peter Molyneux has made a proper game again rather than a monetization experiment, and I really hope he finishes it](https://www.pcgamer.com/games/sim/peter-molyneux-has-made-a-proper-game-again-rather-than-a-monetization-experiment-and-i-really-hope-he-finishes-it/)<!-- GAME:END -->
+ - [Saros review: Housemarque&#39;s new PS5 game overcorrects for Returnal&#39;s difficulty](https://www.polygon.com/saros-review/)
+ - [Saros: The Kotaku Review](https://kotaku.com/saros-review-ps5-housemarque-returnal-sony-playstation-2000690119)
+ - [A Game Pass ‘Starter Edition’ Bringing Stardew Valley And Fallout 4 To Discord Nitro Just Leaked](https://kotaku.com/xbox-game-pass-discord-nitro-stardew-valley-fallout-4-2000690262)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
