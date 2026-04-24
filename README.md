@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where Apple products are assembled, and where parts come from](https://appleinsider.com/articles/26/04/22/where-apple-products-are-assembled-and-where-their-parts-come-from?utm_source=rss)
- - [VMax New V4 Electric Scooter Review: Unleash the Beast](https://www.wired.com/review/vmax-new-vx4-electric-scooter/)
- - [They Wanted to Join Raya. They’ve Been on the Waiting List for Years](https://www.wired.com/story/raya-waitlist-years/)<!-- TECH:END -->
+ - [Huawei plans to spend up to $11.7B over five years to boost compute for training and testing autonomous cars, with ~$2.64B for autonomous driving R&amp;D in 2026 &lpar;Daniel Ren/South China Morning Post&rpar;](http://www.techmeme.com/260424/p19#a260424p19)
+ - [Dyson PencilVac Review &lpar;2026&rpar;: Limited but Handy](https://www.wired.com/review/dyson-pencilvac-review/)
+ - [Android’s Linux Terminal app just got a lot more colorful with theme support](https://www.androidauthority.com/android-17-linux-terminal-themes-3660672/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
