@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
- - ⏩ [Meanwhile...in India.](http://9gag.com/gag/a0eynyX)
- - 👉 [A Japanese police officer is kindly reminding foreigners about public manners](http://9gag.com/gag/aYQX18m)<!-- MEMES:END -->
+ - 💣 [Spanish army airdropping an armored vehicle... oops! What a spainful loss...](http://9gag.com/gag/agmzE3r)
+ - ⏩ [These people seem really upset for some reason.](http://9gag.com/gag/aVvyLb8)
+ - 👉 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)<!-- MEMES:END -->
 
 ---
 
