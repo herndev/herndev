@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)
- - ⏩ [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)
+ - 💣 [Now that the MJ movie is out, it&#39;s a good time to remember Disney banned this Simpsons episode forever](http://9gag.com/gag/a2v6x7D)
+ - ⏩ [Just two kids want to play PS 1 when the parents away](http://9gag.com/gag/aGy4bqX)
  - 👉 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)<!-- MEMES:END -->
 
 ---
