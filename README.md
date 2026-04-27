@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump demands ABC fire Jimmy Kimmel](https://www.theverge.com/policy/919337/president-trump-jimmy-kimmel-fire-abc)
- - [Google employees ask Sundar Pichai to say no to classified military AI use](https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter)
- - [Have I Been Pwned: ShinyHunters&#39; breach of ADT exposed the personal data of 5.5M people; ADT previously disclosed data breaches in August 2024 and October 2024 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/260427/p34#a260427p34)<!-- TECH:END -->
+ - [Towson Apple Store employee union strikes back, allege unfair treatment after closure](https://appleinsider.com/articles/26/04/27/towson-apple-store-employee-union-strikes-back-allege-unfair-treatment-after-closure?utm_source=rss)
+ - [Clicks outlines path to Communicator launch in major update](https://www.androidauthority.com/clicks-communicator-eta-3661261/)
+ - [Cole Allen Charged With Attempting to Assassinate Trump](https://www.wired.com/story/cole-allen-charged-with-attempting-to-assassinate-trump/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
