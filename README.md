@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thin Phones Head-to-Head: iPhone Air vs. Galaxy S25 Edge](https://www.cnet.com/tech/mobile/thin-phones-head-to-head-iphone-air-vs-galaxy-s25-edge/)
- - [Palantir Slack logs and staff interviews reveal internal debates over the company&#39;s ICE and DOD contracts during Trump&#39;s second term, its manifesto, and more &lpar;Makena Kelly/Ars Technica&rpar;](http://www.techmeme.com/260426/p8#a260426p8)
- - [Collov Labs, whose visual interface lets users feed images and camera input into a model that AI agents can reason over and act on, raised a $23M Series A &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260426/p7#a260426p7)<!-- TECH:END -->
+ - [Amateur solved a 60-year-old Erdős problem with a single GPT-5.4 Pro prompt; Terence Tao says it&#39;s a nice achievement, but its long-term significance is unclear &lpar;Joseph Howlett/Scientific American&rpar;](http://www.techmeme.com/260426/p10#a260426p10)
+ - [Cyera agrees to acquire Ryft, an Israeli startup building automated data access and governance tools for enterprise AI deployment, sources say for $100M-$130M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260426/p9#a260426p9)
+ - [Thin Phones Head-to-Head: iPhone Air vs. Galaxy S25 Edge](https://www.cnet.com/tech/mobile/thin-phones-head-to-head-iphone-air-vs-galaxy-s25-edge/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
