@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amateur solved a 60-year-old Erdős problem with a single GPT-5.4 Pro prompt; Terence Tao says it&#39;s a nice achievement, but its long-term significance is unclear &lpar;Joseph Howlett/Scientific American&rpar;](http://www.techmeme.com/260426/p10#a260426p10)
- - [Cyera agrees to acquire Ryft, an Israeli startup building automated data access and governance tools for enterprise AI deployment, sources say for $100M-$130M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/260426/p9#a260426p9)
- - [Thin Phones Head-to-Head: iPhone Air vs. Galaxy S25 Edge](https://www.cnet.com/tech/mobile/thin-phones-head-to-head-iphone-air-vs-galaxy-s25-edge/)<!-- TECH:END -->
+ - [An interview with Bill Nguyen, a tech entrepreneur who is completely outsourcing parts of his life to an AI assistant in his bid to create a virtual body double &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/260426/p11#a260426p11)
+ - [Google might finally have a fix for Pixel’s boot loop nightmare](https://www.androidauthority.com/google-pixel-boot-loop-issue-march-update-fix-3660965/)
+ - [Amateur solved a 60-year-old Erdős problem with a single GPT-5.4 Pro prompt; Terence Tao says it&#39;s a nice achievement, but its long-term significance is unclear &lpar;Joseph Howlett/Scientific American&rpar;](http://www.techmeme.com/260426/p10#a260426p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
