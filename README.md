@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources and executives: the war in the Middle East disrupted crucial PCB raw material supplies; Goldman Sachs says PCB prices surged as much as 40% MoM in April &lpar;Reuters&rpar;](http://www.techmeme.com/260427/p6#a260427p6)
- - [Chinese state media: China formalizes gig worker rules for online platforms, calling for standardized contracts, fair pay, and stronger labor protections &lpar;Bloomberg&rpar;](http://www.techmeme.com/260427/p5#a260427p5)
- - [Stuttgart-based Sereact, which develops software for industrial robots to handle tasks they haven&#39;t been trained on, raised a $110M Series B led by Headline &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260427/p4#a260427p4)<!-- TECH:END -->
+ - [This upcoming Gemini change might be its most eye-catching yet](https://www.androidauthority.com/google-gemini-animated-gradient-backgrounds-redesign-3661003/)
+ - [Sources detail Microsoft&#39;s &quot;Windows K2&quot;, an ongoing initiative to address major Windows 11 user complaints about AI features, OS bloat, performance, and more &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/260427/p8#a260427p8)
+ - [OpenAI may be planning a 2028 smartphone push with custom chips](https://www.androidauthority.com/openai-smartphone-mediatek-qualcomm-chips-3660993/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
