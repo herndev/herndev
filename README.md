@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whitehouse Correspondence Dinner Shooting incident &lpar;Better footage&rpar;](http://9gag.com/gag/ajPedLQ)
- - ⏩ [Don&#39;t skip leg day](http://9gag.com/gag/ae98y0p)
- - 👉 [Nice Ankylosaurus you got there](http://9gag.com/gag/a9ygVyL)<!-- MEMES:END -->
+ - 💣 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
+ - ⏩ [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
+ - 👉 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)<!-- MEMES:END -->
 
 ---
 
