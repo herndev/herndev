@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice Ankylosaurus you got there](http://9gag.com/gag/a9ygVyL)
+ - 💣 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)
  - ⏩ [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)
- - 👉 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)<!-- MEMES:END -->
+ - 👉 [Nice Ankylosaurus you got there](http://9gag.com/gag/a9ygVyL)<!-- MEMES:END -->
 
 ---
 
