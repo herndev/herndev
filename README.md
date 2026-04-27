@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fourth iOS 26.5, macOS Tahoe 26.5 developer betas arrive for testing](https://appleinsider.com/articles/26/04/27/fourth-ios-265-macos-tahoe-265-developer-betas-arrive-for-testing?utm_source=rss)
- - [Conspiracy theories are swirling about the White House Correspondents’ Dinner shooting](https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories)
- - [A Brain Implant for Depression Is About to Be Tested in Humans](https://www.wired.com/story/a-brain-implant-for-depression-is-about-to-be-tested-in-humans/)<!-- TECH:END -->
+ - [Trump demands ABC fire Jimmy Kimmel](https://www.theverge.com/policy/919337/president-trump-jimmy-kimmel-fire-abc)
+ - [Google employees ask Sundar Pichai to say no to classified military AI use](https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter)
+ - [Have I Been Pwned: ShinyHunters&#39; breach of ADT exposed the personal data of 5.5M people; ADT previously disclosed data breaches in August 2024 and October 2024 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/260427/p34#a260427p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
