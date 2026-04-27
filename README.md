@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&amp;#8217;s first smart glasses have leaked](https://www.theverge.com/gadgets/919189/samsung-galaxy-glasses-leaked-images)
- - [Ultra branding expanding, iPhone Fold &amp; OLED MacBook may join](https://appleinsider.com/articles/26/04/27/ultra-branding-expanding-iphone-fold-oled-macbook-may-join?utm_source=rss)
- - [Microsoft and OpenAI’s famed AGI agreement is dead](https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract)<!-- TECH:END -->
+ - [Fourth iOS 26.5, macOS Tahoe 26.5 developer betas arrive for testing](https://appleinsider.com/articles/26/04/27/fourth-ios-265-macos-tahoe-265-developer-betas-arrive-for-testing?utm_source=rss)
+ - [Conspiracy theories are swirling about the White House Correspondents’ Dinner shooting](https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories)
+ - [A Brain Implant for Depression Is About to Be Tested in Humans](https://www.wired.com/story/a-brain-implant-for-depression-is-about-to-be-tested-in-humans/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
