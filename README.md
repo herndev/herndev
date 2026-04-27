@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Sergey Brin&#39;s political push against a proposed wealth tax in California has helped mobilize a network of fellow tech leaders to sway state issues &lpar;Bloomberg&rpar;](http://www.techmeme.com/260427/p9#a260427p9)
- - [This upcoming Gemini change might be its most eye-catching yet](https://www.androidauthority.com/google-gemini-animated-gradient-backgrounds-redesign-3661003/)
- - [Sources detail Microsoft&#39;s &quot;Windows K2&quot;, an ongoing initiative to address major Windows 11 user complaints about AI features, OS bloat, performance, and more &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/260427/p8#a260427p8)<!-- TECH:END -->
+ - [A profile of Anthony Fujiwara, who industrialized &quot;clipping&quot; for social media video marketing and has contributed to the rise of crypto casinos like Stake &lpar;Boaz Sobrado/Forbes&rpar;](http://www.techmeme.com/260427/p13#a260427p13)
+ - [The Iran War Is Impacting the Environment in Unseen Ways](https://www.wired.com/story/war-on-iran-unseen-impact-on-environment/)
+ - [A look at Elon Musk&#39;s efforts to launch the banking and payments service X Money, delayed by US regulatory concerns, as some industry watchers remain skeptical &lpar;Bloomberg&rpar;](http://www.techmeme.com/260427/p12#a260427p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
