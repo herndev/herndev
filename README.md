@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Anthony Fujiwara, who industrialized &quot;clipping&quot; for social media video marketing and has contributed to the rise of crypto casinos like Stake &lpar;Boaz Sobrado/Forbes&rpar;](http://www.techmeme.com/260427/p13#a260427p13)
- - [The Iran War Is Impacting the Environment in Unseen Ways](https://www.wired.com/story/war-on-iran-unseen-impact-on-environment/)
- - [A look at Elon Musk&#39;s efforts to launch the banking and payments service X Money, delayed by US regulatory concerns, as some industry watchers remain skeptical &lpar;Bloomberg&rpar;](http://www.techmeme.com/260427/p12#a260427p12)<!-- TECH:END -->
+ - [Sources: some UK officials fear Keir Starmer&#39;s plan for closer EU ties risks the US-UK alliance, and worry the UK may be forced to adopt the EU&#39;s AI regulation &lpar;Financial Times&rpar;](http://www.techmeme.com/260427/p16#a260427p16)
+ - [Pokémon 30th Anniversary Collabs—What You Can Still Buy and What’s Coming](https://www.wired.com/story/pokemon-30th-anniversary-collabs/)
+ - [I thought I’d hate this Android launcher inspired by dumb phones, but I was so wrong](https://www.androidauthority.com/key-launcher-android-launcher-3658970/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
