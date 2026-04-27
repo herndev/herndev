@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What smart kitchen devices are worth it, and which aren&#39;t, on Smart Home Insider](https://appleinsider.com/articles/26/04/27/what-smart-kitchen-devices-are-worth-it-and-which-arent-on-smart-home-insider?utm_source=rss)
- - [One UI 8.5 is coming to the Galaxy S23, but it could leave the best features behind](https://www.androidauthority.com/galaxy-s23-stable-one-ui-8-5-leaked-changelog-3661180/)
- - [The Verge’s 2026 Mother’s Day gift guide](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)<!-- TECH:END -->
+ - [Samsung&amp;#8217;s first smart glasses have leaked](https://www.theverge.com/gadgets/919189/samsung-galaxy-glasses-leaked-images)
+ - [Ultra branding expanding, iPhone Fold &amp; OLED MacBook may join](https://appleinsider.com/articles/26/04/27/ultra-branding-expanding-iphone-fold-oled-macbook-may-join?utm_source=rss)
+ - [Microsoft and OpenAI’s famed AGI agreement is dead](https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
