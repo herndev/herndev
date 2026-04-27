@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rate my stick](http://9gag.com/gag/awyW9rR)
- - ⏩ [Instructions unclear... this coffee tastes like shit...](http://9gag.com/gag/aByBNAD)
- - 👉 [Understandable. Have a nice day.](http://9gag.com/gag/awyWPDB)<!-- MEMES:END -->
+ - 💣 [Transparent](http://9gag.com/gag/agmzprK)
+ - ⏩ [A mimir](http://9gag.com/gag/aoyQAGw)
+ - 👉 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)<!-- MEMES:END -->
 
 ---
 
