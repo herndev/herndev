@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini’s upcoming daily assistant feature could get a logical new name](https://www.androidauthority.com/gemini-daily-brief-apk-teardown-3661094/)
- - [Spotify partners with Peloton to offer Premium users access to playlists and a catalog of 1,400+ ad-free fitness classes, its first foray into fitness content &lpar;Bloomberg&rpar;](http://www.techmeme.com/260427/p23#a260427p23)
- - [Spotify takes on Apple Fitness Plus and Fitbit Premium with guided workouts](https://www.androidauthority.com/fitness-with-spotify-3661070/)<!-- TECH:END -->
+ - [Quantum Art, a quantum computing startup focused on enhancing computational throughput using its unique &quot;multicore&quot; architecture, extends its Series A to $140M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260427/p25#a260427p25)
+ - [Microsoft and OpenAI amend their deal to let OpenAI serve all its products across any cloud provider; Microsoft will no longer pay a revenue share to OpenAI &lpar;OpenAI&rpar;](http://www.techmeme.com/260427/p24#a260427p24)
+ - [Best Smart Glasses &lpar;2026&rpar;: Meta, Viture, Xreal, and More](https://www.wired.com/gallery/best-smart-glasses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
