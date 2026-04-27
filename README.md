@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US CFTC sues New York, accusing the state of invading its authority to regulate prediction markets by filing lawsuits against Coinbase and Gemini &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/260424/p43#a260424p43)
- - [Diplomatic cable: US State Department has ordered a global push to bring attention to what it says are efforts by Chinese companies to steal IP from US AI labs &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/260424/p42#a260424p42)
- - [Thrive is taking a stake in the San Francisco Giants via a new venture that will invest in franchises and cultural institutions that can&#39;t be replicated by AI &lpar;Kate Clark/Wall Street Journal&rpar;](http://www.techmeme.com/260424/p41#a260424p41)<!-- TECH:END -->
+ - [Thin Phones Head-to-Head: iPhone Air vs. Galaxy S25 Edge](https://www.cnet.com/tech/mobile/thin-phones-head-to-head-iphone-air-vs-galaxy-s25-edge/)
+ - [Palantir Slack logs and staff interviews reveal internal debates over the company&#39;s ICE and DOD contracts during Trump&#39;s second term, its manifesto, and more &lpar;Makena Kelly/Ars Technica&rpar;](http://www.techmeme.com/260426/p8#a260426p8)
+ - [Collov Labs, whose visual interface lets users feed images and camera input into a model that AI agents can reason over and act on, raised a $23M Series A &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/260426/p7#a260426p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
