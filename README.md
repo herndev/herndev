@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)
- - ⏩ [Dipping in chocolate](http://9gag.com/gag/aKGoKbW)
+ - 💣 [Nice Ankylosaurus you got there](http://9gag.com/gag/a9ygVyL)
+ - ⏩ [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)
  - 👉 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)<!-- MEMES:END -->
 
 ---
