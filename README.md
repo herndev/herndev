@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
- - ⏩ [Nice Ankylosaurus you got there](http://9gag.com/gag/a9ygVyL)
- - 👉 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)<!-- MEMES:END -->
+ - 💣 [Its bald to assume I have 12$](http://9gag.com/gag/ae98WPm)
+ - ⏩ [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)
+ - 👉 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)<!-- MEMES:END -->
 
 ---
 
