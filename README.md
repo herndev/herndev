@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Towson Apple Store employee union strikes back, allege unfair treatment after closure](https://appleinsider.com/articles/26/04/27/towson-apple-store-employee-union-strikes-back-allege-unfair-treatment-after-closure?utm_source=rss)
- - [Clicks outlines path to Communicator launch in major update](https://www.androidauthority.com/clicks-communicator-eta-3661261/)
- - [Cole Allen Charged With Attempting to Assassinate Trump](https://www.wired.com/story/cole-allen-charged-with-attempting-to-assassinate-trump/)<!-- TECH:END -->
+ - [Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins](https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/)
+ - [Jury selection begins in Musk v. Altman trial at a federal courthouse in California, with Sam Altman and Greg Brockman in attendance &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/260427/p35#a260427p35)
+ - [Towson Apple Store employee union strikes back, allege unfair treatment after closure](https://appleinsider.com/articles/26/04/27/towson-apple-store-employee-union-strikes-back-allege-unfair-treatment-after-closure?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
