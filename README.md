@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
- - ⏩ [A mimir](http://9gag.com/gag/aoyQAGw)
+ - 💣 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
+ - ⏩ [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
  - 👉 [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)<!-- MEMES:END -->
 
 ---
