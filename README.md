@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [For Return to Castle Wolfenstein&#39;s 25th anniversary, modders are bringing its console-exclusive levels to PC at last](https://www.pcgamer.com/games/fps/for-return-to-castle-wolfensteins-25th-anniversary-modders-are-bringing-its-console-exclusive-levels-to-pc-at-last/)
- - [Assassin&#39;s Creed Hexe loses 2nd director-level developer in as many months](https://www.pcgamer.com/games/assassins-creed/assassins-creed-hexe-loses-2nd-director-level-developer-in-as-many-months/)
- - [I&#39;m obsessed with a guy who keeps soloing Elden Ring Nightreign&#39;s hard mode over and over like they&#39;re trapped in a purgatory of their own making](https://www.pcgamer.com/games/action/im-obsessed-with-a-guy-who-keeps-soloing-elden-ring-nightreigns-hard-mode-over-and-over-like-theyre-trapped-in-a-purgatory-of-their-own-making/)<!-- GAME:END -->
+ - [Jordan Peele&#39;s overlooked](https://www.polygon.com/him-jordan-peele-netflix-justin-tipping/)
+ - [Pocket console modder shrinks down Game Boy Color into a smart watch, complete with cursed control scheme](https://www.pcgamer.com/hardware/pocket-console-modder-shrinks-down-game-boy-color-into-a-smart-watch-complete-with-cursed-control-scheme/)
+ - [How to eavesdrop and complete the Bared Fang quest in Crimson Desert](https://www.pcgamer.com/games/action/crimson-desert-eavesdrop-bared-fang-answers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
