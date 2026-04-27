@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: some UK officials fear Keir Starmer&#39;s plan for closer EU ties risks the US-UK alliance, and worry the UK may be forced to adopt the EU&#39;s AI regulation &lpar;Financial Times&rpar;](http://www.techmeme.com/260427/p16#a260427p16)
- - [Pokémon 30th Anniversary Collabs—What You Can Still Buy and What’s Coming](https://www.wired.com/story/pokemon-30th-anniversary-collabs/)
- - [I thought I’d hate this Android launcher inspired by dumb phones, but I was so wrong](https://www.androidauthority.com/key-launcher-android-launcher-3658970/)<!-- TECH:END -->
+ - [Meta says it signed a deal with Overview Energy for 1GW of space solar energy; the startup seeks to collect sunlight in satellites, with a demonstration in 2028 &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/260427/p19#a260427p19)
+ - [What Is Ethernet? Everything You Need to Know About Wired Networks](https://www.wired.com/story/what-is-ethernet/)
+ - [This touchscreen mouse is my over-engineering nightmare](https://www.theverge.com/gadgets/918919/turtle-beach-mc7-gaming-mouse-touchscreen-command-series)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
