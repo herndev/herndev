@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Sergey Brin&#39;s political push against a proposed wealth tax in California has helped mobilize a network of fellow tech leaders to sway state issues &lpar;Bloomberg&rpar;](http://www.techmeme.com/260427/p9#a260427p9)
  - [This upcoming Gemini change might be its most eye-catching yet](https://www.androidauthority.com/google-gemini-animated-gradient-backgrounds-redesign-3661003/)
- - [Sources detail Microsoft&#39;s &quot;Windows K2&quot;, an ongoing initiative to address major Windows 11 user complaints about AI features, OS bloat, performance, and more &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/260427/p8#a260427p8)
- - [OpenAI may be planning a 2028 smartphone push with custom chips](https://www.androidauthority.com/openai-smartphone-mediatek-qualcomm-chips-3660993/)<!-- TECH:END -->
+ - [Sources detail Microsoft&#39;s &quot;Windows K2&quot;, an ongoing initiative to address major Windows 11 user complaints about AI features, OS bloat, performance, and more &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/260427/p8#a260427p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
