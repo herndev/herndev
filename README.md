@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Valve-approved Half-Life remake is joining the Garry&#39;s Mod family &#39;by popular demand&#39;](https://www.pcgamer.com/games/fps/the-valve-approved-half-life-remake-is-joining-the-garrys-mod-family-by-popular-demand/)
- - [Blizzard brought Korn out of its 4-year hiatus to write a song for Diablo 4: Lord of Hatred, confirming that nu metal is and always was sick as hell](https://www.pcgamer.com/games/rpg/blizzard-brought-korn-out-of-its-4-year-hiatus-to-write-a-song-for-diablo-4-lord-of-hatred-confirming-that-nu-metal-is-and-always-was-sick-as-hell/)
- - [The Week In Games: Peak Diablo 4 And The Return Of Heroes Of Might And Magic](https://kotaku.com/game-release-dates-april-2026-diablo-saros-heroes-might-magic-2000690919)<!-- GAME:END -->
+ - [Best Warlock build in Diablo 4](https://www.pcgamer.com/games/action/diablo-4-warlock-build-guide/)
+ - [How to complete The Path of Riddles in Diablo 4](https://www.pcgamer.com/games/action/diablo-4-path-of-riddles-puzzle-answers/)
+ - [How to complete The One That Got Away in Diablo 4](https://www.pcgamer.com/games/action/diablo-4-the-one-that-got-away-fish-locations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
