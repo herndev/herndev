@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jordan Peele&#39;s overlooked](https://www.polygon.com/him-jordan-peele-netflix-justin-tipping/)
- - [Pocket console modder shrinks down Game Boy Color into a smart watch, complete with cursed control scheme](https://www.pcgamer.com/hardware/pocket-console-modder-shrinks-down-game-boy-color-into-a-smart-watch-complete-with-cursed-control-scheme/)
- - [How to eavesdrop and complete the Bared Fang quest in Crimson Desert](https://www.pcgamer.com/games/action/crimson-desert-eavesdrop-bared-fang-answers/)<!-- GAME:END -->
+ - [The Valve-approved Half-Life remake is joining the Garry&#39;s Mod family &#39;by popular demand&#39;](https://www.pcgamer.com/games/fps/the-valve-approved-half-life-remake-is-joining-the-garrys-mod-family-by-popular-demand/)
+ - [Blizzard brought Korn out of its 4-year hiatus to write a song for Diablo 4: Lord of Hatred, confirming that nu metal is and always was sick as hell](https://www.pcgamer.com/games/rpg/blizzard-brought-korn-out-of-its-4-year-hiatus-to-write-a-song-for-diablo-4-lord-of-hatred-confirming-that-nu-metal-is-and-always-was-sick-as-hell/)
+ - [The Week In Games: Peak Diablo 4 And The Return Of Heroes Of Might And Magic](https://kotaku.com/game-release-dates-april-2026-diablo-saros-heroes-might-magic-2000690919)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
