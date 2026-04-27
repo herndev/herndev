@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says it signed a deal with Overview Energy for 1GW of space solar energy; the startup seeks to collect sunlight in satellites, with a demonstration in 2028 &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/260427/p19#a260427p19)
- - [What Is Ethernet? Everything You Need to Know About Wired Networks](https://www.wired.com/story/what-is-ethernet/)
- - [This touchscreen mouse is my over-engineering nightmare](https://www.theverge.com/gadgets/918919/turtle-beach-mc7-gaming-mouse-touchscreen-command-series)<!-- TECH:END -->
+ - [San Francisco public records: in 2024, Salesforce and Airbnb were among the top tech spenders in the city&#39;s 10B program, which lets them hire police officers &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260427/p21#a260427p21)
+ - [Best iPhone Charger: Cable, Wireless, MagSafe, and More](https://www.wired.com/story/best-iphone-charger/)
+ - [The Tech Bros Are All In on Zyn](https://www.wired.com/story/tech-bros-are-all-in-on-zyn/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
