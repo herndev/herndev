@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This woman understood the assignment](http://9gag.com/gag/apRZzvn)
+ - 💣 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)
  - ⏩ [Nice Ankylosaurus you got there](http://9gag.com/gag/a9ygVyL)
- - 👉 [Whitehouse Correspondence Dinner Shooting incident &lpar;Better footage&rpar;](http://9gag.com/gag/ajPedLQ)<!-- MEMES:END -->
+ - 👉 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)<!-- MEMES:END -->
 
 ---
 
