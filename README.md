@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quantum Art, a quantum computing startup focused on enhancing computational throughput using its unique &quot;multicore&quot; architecture, extends its Series A to $140M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/260427/p25#a260427p25)
- - [Microsoft and OpenAI amend their deal to let OpenAI serve all its products across any cloud provider; Microsoft will no longer pay a revenue share to OpenAI &lpar;OpenAI&rpar;](http://www.techmeme.com/260427/p24#a260427p24)
- - [Best Smart Glasses &lpar;2026&rpar;: Meta, Viture, Xreal, and More](https://www.wired.com/gallery/best-smart-glasses/)<!-- TECH:END -->
+ - [Canva apologizes after its AI tool replaces ‘Palestine’ in designs](https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine)
+ - [Ineffable Intelligence, founded by ex-Google DeepMind Principal Scientist David Silver, raised a $1.1B seed at a $5.1B valuation to build AI &quot;superlearners&quot; &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/260427/p27#a260427p27)
+ - [ANBERNIC shows off RG Rotate emulating your favorite games from childhood](https://www.androidauthority.com/anbernic-rg-rotate-gameplay-demo-3661159/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
