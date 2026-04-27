@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The post has already pulled in 1500+ responses](http://9gag.com/gag/ae982AB)
- - ⏩ [No need for interpreter](http://9gag.com/gag/amo4Vqj)
- - 👉 [Guys...](http://9gag.com/gag/aO8LpeD)<!-- MEMES:END -->
+ - 💣 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)
+ - ⏩ [Dipping in chocolate](http://9gag.com/gag/aKGoKbW)
+ - 👉 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)<!-- MEMES:END -->
 
 ---
 
