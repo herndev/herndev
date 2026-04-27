@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI publishes a five-principle framework for AGI development, pledging to resist concentrating AI power and to collaborate with companies and governments &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260426/p12#a260426p12)
- - [Samsung Wallet just added a new travel feature Google Wallet users wish they had](https://www.androidauthority.com/samsung-wallet-trips-3660970/)
- - [An interview with Bill Nguyen, a tech entrepreneur who is completely outsourcing parts of his life to an AI assistant in his bid to create a virtual body double &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/260426/p11#a260426p11)<!-- TECH:END -->
+ - [Sources and executives: the war in the Middle East disrupted crucial PCB raw material supplies; Goldman Sachs says PCB prices surged as much as 40% MoM in April &lpar;Reuters&rpar;](http://www.techmeme.com/260427/p6#a260427p6)
+ - [Chinese state media: China formalizes gig worker rules for online platforms, calling for standardized contracts, fair pay, and stronger labor protections &lpar;Bloomberg&rpar;](http://www.techmeme.com/260427/p5#a260427p5)
+ - [Stuttgart-based Sereact, which develops software for industrial robots to handle tasks they haven&#39;t been trained on, raised a $110M Series B led by Headline &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/260427/p4#a260427p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
