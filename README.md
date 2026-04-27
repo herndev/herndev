@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canva apologizes after its AI tool replaces ‘Palestine’ in designs](https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine)
- - [Ineffable Intelligence, founded by ex-Google DeepMind Principal Scientist David Silver, raised a $1.1B seed at a $5.1B valuation to build AI &quot;superlearners&quot; &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/260427/p27#a260427p27)
- - [ANBERNIC shows off RG Rotate emulating your favorite games from childhood](https://www.androidauthority.com/anbernic-rg-rotate-gameplay-demo-3661159/)<!-- TECH:END -->
+ - [What smart kitchen devices are worth it, and which aren&#39;t, on Smart Home Insider](https://appleinsider.com/articles/26/04/27/what-smart-kitchen-devices-are-worth-it-and-which-arent-on-smart-home-insider?utm_source=rss)
+ - [One UI 8.5 is coming to the Galaxy S23, but it could leave the best features behind](https://www.androidauthority.com/galaxy-s23-stable-one-ui-8-5-leaked-changelog-3661180/)
+ - [The Verge’s 2026 Mother’s Day gift guide](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
