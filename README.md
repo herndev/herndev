@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;This is a fundamentally different company today&#39;: Intel reports strong financial results, says its upcoming 14A process is already outpacing early 18A yields](https://www.pcgamer.com/hardware/processors/this-is-a-fundamentally-different-company-today-intel-reports-strong-financial-results-says-its-upcoming-14a-process-is-already-outpacing-early-18a-yields/)
- - [Netflix is tackling Princess Knight&#39;s subversive themes in an upcoming anime film](https://www.polygon.com/princess-knight-shojo-manga-netflix-adaptation-anime-film/)
- - [Blizzard apologises for WoW&#39;s latest bug-ridden patch: &#39;We will do better&#39;](https://www.pcgamer.com/games/world-of-warcraft/blizzard-apologises-for-wows-latest-bug-ridden-patch-we-will-do-better/)<!-- GAME:END -->
+ - [For Return to Castle Wolfenstein&#39;s 25th anniversary, modders are bringing its console-exclusive levels to PC at last](https://www.pcgamer.com/games/fps/for-return-to-castle-wolfensteins-25th-anniversary-modders-are-bringing-its-console-exclusive-levels-to-pc-at-last/)
+ - [Assassin&#39;s Creed Hexe loses 2nd director-level developer in as many months](https://www.pcgamer.com/games/assassins-creed/assassins-creed-hexe-loses-2nd-director-level-developer-in-as-many-months/)
+ - [I&#39;m obsessed with a guy who keeps soloing Elden Ring Nightreign&#39;s hard mode over and over like they&#39;re trapped in a purgatory of their own making](https://www.pcgamer.com/games/action/im-obsessed-with-a-guy-who-keeps-soloing-elden-ring-nightreigns-hard-mode-over-and-over-like-theyre-trapped-in-a-purgatory-of-their-own-making/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
