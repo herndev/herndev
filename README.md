@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Bill Nguyen, a tech entrepreneur who is completely outsourcing parts of his life to an AI assistant in his bid to create a virtual body double &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/260426/p11#a260426p11)
- - [Google might finally have a fix for Pixel’s boot loop nightmare](https://www.androidauthority.com/google-pixel-boot-loop-issue-march-update-fix-3660965/)
- - [Amateur solved a 60-year-old Erdős problem with a single GPT-5.4 Pro prompt; Terence Tao says it&#39;s a nice achievement, but its long-term significance is unclear &lpar;Joseph Howlett/Scientific American&rpar;](http://www.techmeme.com/260426/p10#a260426p10)<!-- TECH:END -->
+ - [OpenAI publishes a five-principle framework for AGI development, pledging to resist concentrating AI power and to collaborate with companies and governments &lpar;Marcus Schuler/Implicator.ai&rpar;](http://www.techmeme.com/260426/p12#a260426p12)
+ - [Samsung Wallet just added a new travel feature Google Wallet users wish they had](https://www.androidauthority.com/samsung-wallet-trips-3660970/)
+ - [An interview with Bill Nguyen, a tech entrepreneur who is completely outsourcing parts of his life to an AI assistant in his bid to create a virtual body double &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/260426/p11#a260426p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
