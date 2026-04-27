@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If buying isn&#39;t owning, PIRACY ISNT STEALING](http://9gag.com/gag/ayNjPvV)
- - ⏩ [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
- - 👉 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)<!-- MEMES:END -->
+ - 💣 [Nice Ankylosaurus you got there](http://9gag.com/gag/a9ygVyL)
+ - ⏩ [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)
+ - 👉 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)<!-- MEMES:END -->
 
 ---
 
