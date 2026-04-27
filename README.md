@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Francisco public records: in 2024, Salesforce and Airbnb were among the top tech spenders in the city&#39;s 10B program, which lets them hire police officers &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/260427/p21#a260427p21)
- - [Best iPhone Charger: Cable, Wireless, MagSafe, and More](https://www.wired.com/story/best-iphone-charger/)
- - [The Tech Bros Are All In on Zyn](https://www.wired.com/story/tech-bros-are-all-in-on-zyn/)<!-- TECH:END -->
+ - [Gemini’s upcoming daily assistant feature could get a logical new name](https://www.androidauthority.com/gemini-daily-brief-apk-teardown-3661094/)
+ - [Spotify partners with Peloton to offer Premium users access to playlists and a catalog of 1,400+ ad-free fitness classes, its first foray into fitness content &lpar;Bloomberg&rpar;](http://www.techmeme.com/260427/p23#a260427p23)
+ - [Spotify takes on Apple Fitness Plus and Fitbit Premium with guided workouts](https://www.androidauthority.com/fitness-with-spotify-3661070/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
