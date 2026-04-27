@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now that the MJ movie is out, it&#39;s a good time to remember Disney banned this Simpsons episode forever](http://9gag.com/gag/a2v6x7D)
- - ⏩ [Just two kids want to play PS 1 when the parents away](http://9gag.com/gag/aGy4bqX)
- - 👉 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)<!-- MEMES:END -->
+ - 💣 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
+ - ⏩ [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
+ - 👉 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)<!-- MEMES:END -->
 
 ---
 
