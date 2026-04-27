@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: only ~3% of Polymarket accounts drove most price discovery in 2023-2025, suggesting market accuracy comes from an informed minority, not crowd wisdom &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/260427/p37#a260427p37)
- - [How to find a ton of WWDC 2026 community-led events](https://appleinsider.com/articles/26/04/27/how-to-find-a-ton-of-wwdc-2026-community-led-events?utm_source=rss)
- - [Canonical lays out a plan for AI in Ubuntu Linux](https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features)<!-- TECH:END -->
+ - [Renders based on photos of Samsung&#39;s upcoming smart glasses, expected to launch later this year, show a design nearly identical to Ray-Ban Meta glasses &lpar;Alexander Maxham/Android Headlines&rpar;](http://www.techmeme.com/260427/p38#a260427p38)
+ - [App Store annual subscriptions get new discounted monthly option](https://appleinsider.com/articles/26/04/27/app-store-annual-subscriptions-get-new-discounted-monthly-option?utm_source=rss)
+ - [The wait continues: Valve confirms Steam Deck 2 is still in the labs](https://www.androidauthority.com/steam-deck-2-hard-at-work-3661290/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
