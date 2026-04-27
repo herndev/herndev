@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)
- - ⏩ [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
- - 👉 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)<!-- MEMES:END -->
+ - 💣 [If buying isn&#39;t owning, PIRACY ISNT STEALING](http://9gag.com/gag/ayNjPvV)
+ - ⏩ [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
+ - 👉 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)<!-- MEMES:END -->
 
 ---
 
