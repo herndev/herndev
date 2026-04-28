@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could soon say goodbye to current Gemini voices &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-voice-options-discontinue-apk-teardown-3661092/)
- - [Source: Google signed a deal allowing the US DOD to use Google&#39;s AI for &quot;any lawful government purpose&quot;; Google says the agreement amends an existing contract &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/260428/p4#a260428p4)
- - [Layoffs.fyi: layoffs affecting 45,800 tech employees were announced in March 2026, making it the worst month for reported tech job cuts in at least two years &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260428/p3#a260428p3)<!-- TECH:END -->
+ - [Microsoft Office can now be controlled with Logitech’s MX Creative Console](https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion)
+ - [Google Play will finally start spotlighting apps worthy of your big screen](https://www.androidauthority.com/google-play-store-update-april-2026-3661331/)
+ - [Q&amp;A with Evan Spiegel on why distribution is the most important moat in consumer tech, investing in Specs, 2026 as a &quot;crucible&quot; moment for Snap, and more &lpar;Lenny Rachitsky/Lenny&#39;s Newsletter&rpar;](http://www.techmeme.com/260428/p8#a260428p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
