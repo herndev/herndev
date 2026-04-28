@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shanghai-based Lightelligence, which makes photonics chips, surges by nearly 400% in its trading debut in Hong Kong after raising ~$310M in its IPO &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/260427/p51#a260427p51)
- - [OpenAI releases Symphony, an open-source spec for agent orchestration that turns a project-management board like Linear into a control plane for coding agents &lpar;OpenAI&rpar;](http://www.techmeme.com/260427/p50#a260427p50)
- - [South Korea&#39;s stock market value has surpassed the UK&#39;s, growing 45%+ this year to $4.04T after a surge in AI-linked tech stocks like Samsung and SK Hynix &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/260427/p49#a260427p49)<!-- TECH:END -->
+ - [Here’s your first look at Google’s upcoming ‘Proactive Assistance’ feature for Gemini](https://www.androidauthority.com/google-gemini-proactive-assistance-3661314/)
+ - [Amazon says it plans to expand its Amazon Now quick commerce service to 100 Indian cities; the service is currently live in Delhi, Mumbai, and Bengaluru &lpar;The Economic Times&rpar;](http://www.techmeme.com/260427/p53#a260427p53)
+ - [Jury selection in Musk v. Altman: ‘People don’t like him’](https://www.theverge.com/tech/919469/elon-musk-dont-like)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
