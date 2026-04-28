@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Warlock build in Diablo 4](https://www.pcgamer.com/games/action/diablo-4-warlock-build-guide/)
- - [How to complete The Path of Riddles in Diablo 4](https://www.pcgamer.com/games/action/diablo-4-path-of-riddles-puzzle-answers/)
- - [How to complete The One That Got Away in Diablo 4](https://www.pcgamer.com/games/action/diablo-4-the-one-that-got-away-fish-locations/)<!-- GAME:END -->
+ - [Full list of The Sims 4 Businesses &amp; Hobbies cheats with skills, perks, and hidden reward traits](https://www.pcgamer.com/games/the-sims/sims-4-businesses-hobbies-cheats/)
+ - [The new Moomin game is lovely, but also illustrates the limits of cozy comfort over the harsher lessons of a children&#39;s book](https://www.pcgamer.com/games/life-sim/the-new-moomintroll-game-is-lovely-but-also-illustrates-the-limits-of-cozy-comfort-over-the-harsher-lessons-of-a-childrens-book/)
+ - [Best Warlock build in Diablo 4](https://www.pcgamer.com/games/action/diablo-4-warlock-build-guide/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
