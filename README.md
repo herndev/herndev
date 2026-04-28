@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How politics works!](http://9gag.com/gag/azxpvDK)
- - ⏩ [Don&#39;t skip leg day](http://9gag.com/gag/ae98y0p)
- - 👉 [Its just a prank bro. the prank:](http://9gag.com/gag/aZZOVKz)<!-- MEMES:END -->
+ - 💣 [Bro is a menace](http://9gag.com/gag/aW43PzA)
+ - ⏩ [Yomif Kejelcha everyone](http://9gag.com/gag/aAyzNZ9)
+ - 👉 [Don&#39;t skip leg day](http://9gag.com/gag/ae98y0p)<!-- MEMES:END -->
 
 ---
 
