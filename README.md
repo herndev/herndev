@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Transparent](http://9gag.com/gag/agmzprK)
- - ⏩ [`we can try marriage counseling` , ` we can try making it work`. No thank you.](http://9gag.com/gag/aE0mQON)
- - 👉 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)<!-- MEMES:END -->
+ - 💣 [`we can try marriage counseling` , ` we can try making it work`. No thank you.](http://9gag.com/gag/aE0mQON)
+ - ⏩ [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)
+ - 👉 [This woman understood the assignment](http://9gag.com/gag/apRZzvn)<!-- MEMES:END -->
 
 ---
 
