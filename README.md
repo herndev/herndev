@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Office can now be controlled with Logitech’s MX Creative Console](https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion)
- - [Google Play will finally start spotlighting apps worthy of your big screen](https://www.androidauthority.com/google-play-store-update-april-2026-3661331/)
- - [Q&amp;A with Evan Spiegel on why distribution is the most important moat in consumer tech, investing in Specs, 2026 as a &quot;crucible&quot; moment for Snap, and more &lpar;Lenny Rachitsky/Lenny&#39;s Newsletter&rpar;](http://www.techmeme.com/260428/p8#a260428p8)<!-- TECH:END -->
+ - [The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not](https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/)
+ - [Google Wallet may finally add Aadhaar card support &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-wallet-aadhaar-card-support-apk-teardown-3631656/)
+ - [Using AirPods with your Android just got a whole lot more convenient](https://www.androidauthority.com/librepods-using-airpods-with-android-unlock-3661340/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
