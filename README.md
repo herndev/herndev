@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)
- - ⏩ [How politics works!](http://9gag.com/gag/azxpvDK)
- - 👉 [Transparent](http://9gag.com/gag/agmzprK)<!-- MEMES:END -->
+ - 💣 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
+ - ⏩ [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)
+ - 👉 [Guess the place &lpar;Sorry for HDR&rpar;](http://9gag.com/gag/aAyzLrd)<!-- MEMES:END -->
 
 ---
 
