@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bullshido](http://9gag.com/gag/aE0mjYp)
- - ⏩ [The goodest boy](http://9gag.com/gag/a9ygNm1)
- - 👉 [Don&#39;t skip leg day](http://9gag.com/gag/ae98y0p)<!-- MEMES:END -->
+ - 💣 [Gay gender fluid dog](http://9gag.com/gag/aKGoN16)
+ - ⏩ [Transparent](http://9gag.com/gag/agmzprK)
+ - 👉 [Guess the place &lpar;Sorry for HDR&rpar;](http://9gag.com/gag/aAyzLrd)<!-- MEMES:END -->
 
 ---
 
