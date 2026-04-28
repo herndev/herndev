@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Polymarket has discussed lifting the prohibition on US-based customers with the CFTC, as it seeks to bring its main exchange back to the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/260428/p26#a260428p26)
- - [Helium Mobile’s too-good-to-be-true free plan finally hits a dead end &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/helium-mobile-zero-plan-discontinued-3661478/)
- - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)<!-- TECH:END -->
+ - [Lovable launches its AI coding app on iOS and Android, letting users code via voice or text AI prompts, and allowing them to switch between a PC and mobile &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260428/p30#a260428p30)
+ - [Musk v. Altman: the judge asks Elon Musk and Sam Altman to &quot;control your propensity to use social media to make things worse&quot;, as opening statements begin &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/260428/p29#a260428p29)
+ - [The FIDO Alliance launches two working groups to establish industry standards for securing AI agent transactions; Google contributes the Agent Payments Protocol &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/260428/p28#a260428p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
