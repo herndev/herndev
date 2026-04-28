@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`we can try marriage counseling` , ` we can try making it work`. No thank you.](http://9gag.com/gag/aE0mQON)
- - ⏩ [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)
- - 👉 [This woman understood the assignment](http://9gag.com/gag/apRZzvn)<!-- MEMES:END -->
+ - 💣 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
+ - ⏩ [\u201cUnfortunately, we are heading toward military defeat. That is a fact.\u201d \u2014 Igor Girkin](http://9gag.com/gag/a9yg4Y0)
+ - 👉 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)<!-- MEMES:END -->
 
 ---
 
