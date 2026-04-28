@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe Firefly AI Assistant is in open beta. It&#39;s not great.](https://appleinsider.com/articles/26/04/28/adobe-firefly-ai-assistant-is-in-open-beta-its-not-great?utm_source=rss)
- - [&#39;Liquid Glass Display&#39; may kill iPhone bezel with optical trickery](https://appleinsider.com/articles/26/04/28/liquid-glass-display-may-kill-iphone-bezel-with-optical-trickery?utm_source=rss)
- - [Whoop Band vs. Apple Watch: I Wore Both for Months to Crown a Winner](https://www.cnet.com/tech/mobile/apple-watch-vs-whoop-band-buying-guide/)<!-- TECH:END -->
+ - [Helium Mobile’s too-good-to-be-true free plan finally hits a dead end](https://www.androidauthority.com/helium-mobile-zero-plan-discontinued-3661478/)
+ - [Towson Apple Store employee union strikes back, allege unfair treatment after closure](https://appleinsider.com/articles/26/04/27/towson-apple-store-employee-union-strikes-back-allege-unfair-treatment-after-closure?utm_source=rss)
+ - [Search Live gets ready to follow Gemini with a colorful visual update](https://www.androidauthority.com/search-live-visual-update-coming-3661505/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
