@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)
+ - 💣 [Sesame oil extractor](http://9gag.com/gag/ajPe3V8)
  - ⏩ [Guess the place &lpar;Sorry for HDR&rpar;](http://9gag.com/gag/aAyzLrd)
- - 👉 [\u201cUnfortunately, we are heading toward military defeat. That is a fact.\u201d \u2014 Igor Girkin](http://9gag.com/gag/a9yg4Y0)<!-- MEMES:END -->
+ - 👉 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)<!-- MEMES:END -->
 
 ---
 
