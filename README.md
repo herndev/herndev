@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
- - [Apple is gearing up to overhaul the Photos app with AI tools in iOS 27](https://appleinsider.com/articles/26/04/28/apple-is-gearing-up-to-overhaul-the-photos-app-with-ai-tools-in-ios-27?utm_source=rss)
- - [Elon Musk takes the stand in high-profile trial against OpenAI](https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman)<!-- TECH:END -->
+ - [China&#39;s National Supercomputing Center in Shenzhen unveils the Lingshen project, aiming for 2+ exaFLOPS performance using a domestic-made CPU-only architecture &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/260428/p37#a260428p37)
+ - [Now YouTube TV lets you multiview any channel you want](https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel)
+ - [Gemini for Home is now better at knowing when to ignore you](https://www.androidauthority.com/gemini-for-home-speed-boost-3661654/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
