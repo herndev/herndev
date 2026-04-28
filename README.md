@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How politics works!](http://9gag.com/gag/azxpvDK)
+ - 💣 [How to tell a game was good](http://9gag.com/gag/aGy4q1w)
  - ⏩ [Don&#39;t skip leg day](http://9gag.com/gag/ae98y0p)
- - 👉 [Its just a prank bro. the prank:](http://9gag.com/gag/aZZOVKz)<!-- MEMES:END -->
+ - 👉 [Sesame oil extractor](http://9gag.com/gag/ajPe3V8)<!-- MEMES:END -->
 
 ---
 
