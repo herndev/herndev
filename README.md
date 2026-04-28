@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [How to tell a game was good](http://9gag.com/gag/aGy4q1w)
- - ⏩ [Don&#39;t skip leg day](http://9gag.com/gag/ae98y0p)
- - 👉 [Sesame oil extractor](http://9gag.com/gag/ajPe3V8)<!-- MEMES:END -->
+ - ⏩ [Its just a prank bro. the prank:](http://9gag.com/gag/aZZOVKz)
+ - 👉 [How politics works!](http://9gag.com/gag/azxpvDK)<!-- MEMES:END -->
 
 ---
 
