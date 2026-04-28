@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to tell a game was good](http://9gag.com/gag/aGy4q1w)
- - ⏩ [Its just a prank bro. the prank:](http://9gag.com/gag/aZZOVKz)
+ - 💣 [Here, have a bunch of knot tying tricks to save and forget in this trying time...](http://9gag.com/gag/a9yg4AL)
+ - ⏩ [Don&#39;t skip leg day](http://9gag.com/gag/ae98y0p)
  - 👉 [How politics works!](http://9gag.com/gag/azxpvDK)<!-- MEMES:END -->
 
 ---
