@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)
- - ⏩ [How?](http://9gag.com/gag/a34Xx2N)
- - 👉 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)<!-- MEMES:END -->
+ - 💣 [Transparent](http://9gag.com/gag/agmzprK)
+ - ⏩ [`we can try marriage counseling` , ` we can try making it work`. No thank you.](http://9gag.com/gag/aE0mQON)
+ - 👉 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)<!-- MEMES:END -->
 
 ---
 
