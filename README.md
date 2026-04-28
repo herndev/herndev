@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some jurors selected in the Musk v. Altman trial expressed negative feelings about Elon Musk and AI, but assured the court they would put these concerns aside &lpar;Wired&rpar;](http://www.techmeme.com/260427/p47#a260427p47)
- - [Sources: OpenAI missed an internal goal of reaching 1B weekly active ChatGPT users by 2025&#39;s end and missed multiple monthly revenue targets earlier in 2026 &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/260427/p46#a260427p46)
- - [Senate Democrats seek an ethics provision in a landmark crypto bill to crack down on the Trump family&#39;s crypto businesses, setting up a clash with Republicans &lpar;Politico&rpar;](http://www.techmeme.com/260427/p45#a260427p45)<!-- TECH:END -->
+ - [Shanghai-based Lightelligence, which makes photonics chips, surges by nearly 400% in its trading debut in Hong Kong after raising ~$310M in its IPO &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/260427/p51#a260427p51)
+ - [OpenAI releases Symphony, an open-source spec for agent orchestration that turns a project-management board like Linear into a control plane for coding agents &lpar;OpenAI&rpar;](http://www.techmeme.com/260427/p50#a260427p50)
+ - [South Korea&#39;s stock market value has surpassed the UK&#39;s, growing 45%+ this year to $4.04T after a surge in AI-linked tech stocks like Samsung and SK Hynix &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/260427/p49#a260427p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
