@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Helium Mobile’s too-good-to-be-true free plan finally hits a dead end](https://www.androidauthority.com/helium-mobile-zero-plan-discontinued-3661478/)
- - [Towson Apple Store employee union strikes back, allege unfair treatment after closure](https://appleinsider.com/articles/26/04/27/towson-apple-store-employee-union-strikes-back-allege-unfair-treatment-after-closure?utm_source=rss)
- - [Search Live gets ready to follow Gemini with a colorful visual update](https://www.androidauthority.com/search-live-visual-update-coming-3661505/)<!-- TECH:END -->
+ - [Sources: Polymarket has discussed lifting the prohibition on US-based customers with the CFTC, as it seeks to bring its main exchange back to the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/260428/p26#a260428p26)
+ - [Helium Mobile’s too-good-to-be-true free plan finally hits a dead end &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/helium-mobile-zero-plan-discontinued-3661478/)
+ - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
