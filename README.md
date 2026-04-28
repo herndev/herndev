@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gay gender fluid dog](http://9gag.com/gag/aKGoN16)
- - ⏩ [Transparent](http://9gag.com/gag/agmzprK)
- - 👉 [Guess the place &lpar;Sorry for HDR&rpar;](http://9gag.com/gag/aAyzLrd)<!-- MEMES:END -->
+ - 💣 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)
+ - ⏩ [How politics works!](http://9gag.com/gag/azxpvDK)
+ - 👉 [Transparent](http://9gag.com/gag/agmzprK)<!-- MEMES:END -->
 
 ---
 
