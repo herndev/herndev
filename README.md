@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google dropped out of a $100M Pentagon challenge to create tech for voice-controlled, autonomous drone swarms, following an internal ethics review &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260428/p33#a260428p33)
- - [Amazon and OpenAI announce an expanded deal that will make OpenAI&#39;s models available from AWS, a day after OpenAI revised its Microsoft partnership &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260428/p32#a260428p32)
- - [Apple TV’s new horror series is scarier because it’s also hilarious](https://www.theverge.com/entertainment/919634/widows-bay-apple-tv-cast-interview)<!-- TECH:END -->
+ - [The Nex Playground gaming console is $60 off this week](https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale)
+ - [The resurrected Commodore 64 is getting a facelift like the original](https://www.theverge.com/tech/919625/commodore-64c-ultimate-fpga-computer-retro-c64c)
+ - [Google Home is stripping RGB color controls from smart bulbs, but this workaround can bring it back](https://www.androidauthority.com/google-home-rgb-smart-bulb-problem-3661539/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
