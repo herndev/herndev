@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Match Group invests $100M in Seattle-based Sniffies, a web-only platform for queer men with ~3M MAUs worldwide, paving the way for a possible acquisition &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260428/p9#a260428p9)
- - [How Samsung’s latest RAM decision will hurt budget Android phones](https://www.androidauthority.com/samsung-ram-decision-hurt-budget-android-phones-3660329/)
- - [Acer Swift 16 AI &lpar;2026&rpar; Review: Where Do Your Hands Go?](https://www.wired.com/review/acer-swift-16-ai-2026/)<!-- TECH:END -->
+ - [Stop Trying to Unmask Satoshi Nakamoto](https://www.wired.com/story/the-big-interview-podcast-ben-mckenzie-crypto/)
+ - [Gemini could soon show you exactly how much AI you use](https://www.androidauthority.com/google-gemini-usage-limit-tracker-apk-teardown-3661411/)
+ - [Gartner: US states issued $3.45B in privacy-related fines to companies in 2025, a total larger than the last five years combined, driven by new privacy laws &lpar;Derek B. Johnson/CyberScoop&rpar;](http://www.techmeme.com/260428/p12#a260428p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
