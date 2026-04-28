@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s your first look at Google’s upcoming ‘Proactive Assistance’ feature for Gemini](https://www.androidauthority.com/google-gemini-proactive-assistance-3661314/)
- - [Amazon says it plans to expand its Amazon Now quick commerce service to 100 Indian cities; the service is currently live in Delhi, Mumbai, and Bengaluru &lpar;The Economic Times&rpar;](http://www.techmeme.com/260427/p53#a260427p53)
- - [Jury selection in Musk v. Altman: ‘People don’t like him’](https://www.theverge.com/tech/919469/elon-musk-dont-like)<!-- TECH:END -->
+ - [Google could soon say goodbye to current Gemini voices &lpar;APK teardown&rpar;](https://www.androidauthority.com/google-gemini-voice-options-discontinue-apk-teardown-3661092/)
+ - [Source: Google signed a deal allowing the US DOD to use Google&#39;s AI for &quot;any lawful government purpose&quot;; Google says the agreement amends an existing contract &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/260428/p4#a260428p4)
+ - [Layoffs.fyi: layoffs affecting 45,800 tech employees were announced in March 2026, making it the worst month for reported tech job cuts in at least two years &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/260428/p3#a260428p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
