@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
- - ⏩ [\u201cUnfortunately, we are heading toward military defeat. That is a fact.\u201d \u2014 Igor Girkin](http://9gag.com/gag/a9yg4Y0)
- - 👉 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)<!-- MEMES:END -->
+ - 💣 [\u201cUnfortunately, we are heading toward military defeat. That is a fact.\u201d \u2014 Igor Girkin](http://9gag.com/gag/a9yg4Y0)
+ - ⏩ [Yomif Kejelcha everyone](http://9gag.com/gag/aAyzNZ9)
+ - 👉 [Don&#39;t skip leg day](http://9gag.com/gag/ae98y0p)<!-- MEMES:END -->
 
 ---
 
