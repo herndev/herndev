@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [V.A.T.S](http://9gag.com/gag/a5Q0xOG)
- - ⏩ [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
- - 👉 [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)<!-- MEMES:END -->
+ - 💣 [Finally someone ragebaiting Adam this time](http://9gag.com/gag/aGy4NL7)
+ - ⏩ [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)
+ - 👉 [How?](http://9gag.com/gag/a34Xx2N)<!-- MEMES:END -->
 
 ---
 
