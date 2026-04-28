@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess the place &lpar;Sorry for HDR&rpar;](http://9gag.com/gag/aAyzLrd)
- - ⏩ [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)
- - 👉 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)<!-- MEMES:END -->
+ - 💣 [Story of a good boy part 2](http://9gag.com/gag/aKGoNe3)
+ - ⏩ [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)
+ - 👉 [\u201cUnfortunately, we are heading toward military defeat. That is a fact.\u201d \u2014 Igor Girkin](http://9gag.com/gag/a9yg4Y0)<!-- MEMES:END -->
 
 ---
 
