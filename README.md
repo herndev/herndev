@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Ask YouTube, a conversational AI search &quot;experiment&quot; that generates pages with videos and text summaries, for Premium users in the US aged 18+ &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/260428/p15#a260428p15)
- - [YouTube is testing a chat-style search that cuts the scrolling](https://www.androidauthority.com/youtube-ai-chatbot-search-experiment-3661438/)
- - [WIRED’s Smart Home Ecosystem Guide &lpar;2026&rpar;](https://www.wired.com/story/how-to-choose-your-smart-home-ecosystem/)<!-- TECH:END -->
+ - [Adobe Firefly AI Assistant is in open beta. It&#39;s not great.](https://appleinsider.com/articles/26/04/28/adobe-firefly-ai-assistant-is-in-open-beta-its-not-great?utm_source=rss)
+ - [&#39;Liquid Glass Display&#39; may kill iPhone bezel with optical trickery](https://appleinsider.com/articles/26/04/28/liquid-glass-display-may-kill-iphone-bezel-with-optical-trickery?utm_source=rss)
+ - [Whoop Band vs. Apple Watch: I Wore Both for Months to Crown a Winner](https://www.cnet.com/tech/mobile/apple-watch-vs-whoop-band-buying-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
