@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not](https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/)
- - [Google Wallet may finally add Aadhaar card support &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-wallet-aadhaar-card-support-apk-teardown-3631656/)
- - [Using AirPods with your Android just got a whole lot more convenient](https://www.androidauthority.com/librepods-using-airpods-with-android-unlock-3661340/)<!-- TECH:END -->
+ - [Match Group invests $100M in Seattle-based Sniffies, a web-only platform for queer men with ~3M MAUs worldwide, paving the way for a possible acquisition &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/260428/p9#a260428p9)
+ - [How Samsung’s latest RAM decision will hurt budget Android phones](https://www.androidauthority.com/samsung-ram-decision-hurt-budget-android-phones-3660329/)
+ - [Acer Swift 16 AI &lpar;2026&rpar; Review: Where Do Your Hands Go?](https://www.wired.com/review/acer-swift-16-ai-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
