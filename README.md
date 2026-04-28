@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro used for hundreds of cataract surgeries in the last year](https://appleinsider.com/articles/26/04/28/apple-vision-pro-used-for-hundreds-of-cataract-surgeries-in-the-last-year?utm_source=rss)
- - [NXP reports Q1 revenue up 12% YoY to $3.18B, vs. $3.15B est., and forecasts Q2 revenue above estimates; NXPI jumps 13%+ after hours &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/260428/p41#a260428p41)
- - [Sources: the US Commerce Department last week ordered multiple chip equipment companies to halt some shipments to China&#39;s second-largest chipmaker, Hua Hong &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/260428/p40#a260428p40)<!-- TECH:END -->
+ - [AWS launches a desktop app for its Amazon Quick AI assistant, letting users connect their tools and local files to build custom apps, live dashboards, and more &lpar;Jigar Thakkar/About Amazon&rpar;](http://www.techmeme.com/260428/p43#a260428p43)
+ - [James Comey indicted over Instagram seashell photo that allegedly threatened Trump](https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump)
+ - [Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’](https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
