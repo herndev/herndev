@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lovable launches its AI coding app on iOS and Android, letting users code via voice or text AI prompts, and allowing them to switch between a PC and mobile &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/260428/p30#a260428p30)
- - [Musk v. Altman: the judge asks Elon Musk and Sam Altman to &quot;control your propensity to use social media to make things worse&quot;, as opening statements begin &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/260428/p29#a260428p29)
- - [The FIDO Alliance launches two working groups to establish industry standards for securing AI agent transactions; Google contributes the Agent Payments Protocol &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/260428/p28#a260428p28)<!-- TECH:END -->
+ - [Sources: Google dropped out of a $100M Pentagon challenge to create tech for voice-controlled, autonomous drone swarms, following an internal ethics review &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/260428/p33#a260428p33)
+ - [Amazon and OpenAI announce an expanded deal that will make OpenAI&#39;s models available from AWS, a day after OpenAI revised its Microsoft partnership &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/260428/p32#a260428p32)
+ - [Apple TV’s new horror series is scarier because it’s also hilarious](https://www.theverge.com/entertainment/919634/widows-bay-apple-tv-cast-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
