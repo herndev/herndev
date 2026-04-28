@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally someone ragebaiting Adam this time](http://9gag.com/gag/aGy4NL7)
- - ⏩ [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)
- - 👉 [How?](http://9gag.com/gag/a34Xx2N)<!-- MEMES:END -->
+ - 💣 [Is she aging like a wine?](http://9gag.com/gag/apRZjRW)
+ - ⏩ [How?](http://9gag.com/gag/a34Xx2N)
+ - 👉 [The Day Of The Pillow has begun](http://9gag.com/gag/aZZOV7p)<!-- MEMES:END -->
 
 ---
 
