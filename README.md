@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nex Playground gaming console is $60 off this week](https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale)
- - [The resurrected Commodore 64 is getting a facelift like the original](https://www.theverge.com/tech/919625/commodore-64c-ultimate-fpga-computer-retro-c64c)
- - [Google Home is stripping RGB color controls from smart bulbs, but this workaround can bring it back](https://www.androidauthority.com/google-home-rgb-smart-bulb-problem-3661539/)<!-- TECH:END -->
+ - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
+ - [Apple is gearing up to overhaul the Photos app with AI tools in iOS 27](https://appleinsider.com/articles/26/04/28/apple-is-gearing-up-to-overhaul-the-photos-app-with-ai-tools-in-ios-27?utm_source=rss)
+ - [Elon Musk takes the stand in high-profile trial against OpenAI](https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
