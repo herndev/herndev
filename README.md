@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to tell a game was good](http://9gag.com/gag/aGy4q1w)
- - ⏩ [Best friend goals at the baseball game](http://9gag.com/gag/amo4Ogj)
- - 👉 [POV: You didn\u2019t get tickets\u2026 but somehow you\u2019re still in the stadium \u26bd\ufe0f\ud83d\udd25](http://9gag.com/gag/aVvy9yK)<!-- MEMES:END -->
+ - 💣 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
+ - ⏩ [Sesame oil extractor](http://9gag.com/gag/ajPe3V8)
+ - 👉 [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)<!-- MEMES:END -->
 
 ---
 
