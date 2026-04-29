@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
- - ⏩ [Sesame oil extractor](http://9gag.com/gag/ajPe3V8)
- - 👉 [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)<!-- MEMES:END -->
+ - 💣 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
+ - ⏩ [How politics works!](http://9gag.com/gag/azxpvDK)
+ - 👉 [Bro is a menace](http://9gag.com/gag/aW43PzA)<!-- MEMES:END -->
 
 ---
 
