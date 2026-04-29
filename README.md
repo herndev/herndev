@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI has, in practice, abandoned its Stargate JV in favor of large bilateral deals; execs say its guiding principle remains to &quot;build more compute&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260429/p22#a260429p22)
- - [Hightouch, which uses AI to help marketers create and manage campaigns, raised $150M led by Goldman Sachs and Bain at a $2.75B valuation, up from $1.2B in 2025 &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p21#a260429p21)
- - [13 Best Coolers for Sunshine and Nighttime &lpar;2026&rpar;](https://www.wired.com/story/the-best-coolers/)<!-- TECH:END -->
+ - [John Ternus&#39; first major challenge is dealing with quadrupled iPhone memory prices](https://appleinsider.com/articles/26/04/29/john-ternus-first-major-challenge-is-dealing-with-quadrupled-iphone-memory-prices?utm_source=rss)
+ - [The Aiper Scuba V3 makes pool cleaning simple and hassle-free](https://www.androidauthority.com/aiper-scuba-v3-robot-pool-cleaner-review-3658471/)
+ - [Best Walking Pads for Working From Home &lpar;2026&rpar;](https://www.wired.com/story/best-walking-pads/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
