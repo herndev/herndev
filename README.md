@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon reports Q1 revenue of $181.5B, up 17% YoY, net income of $30.3B, up 77%, and operating income of $23.9B, up 30% YoY &lpar;Amazon&rpar;](http://www.techmeme.com/260429/p44#a260429p44)
- - [Alphabet reports Q1 revenue up 22% YoY to $109.9B, vs. $107.2B est., Google Cloud revenue up 63% to $20B, vs. $18.05B est., net income up 81% to $62.58B &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/260429/p43#a260429p43)
- - [Google Photos may soon be searchable from your Pixel launcher — and that’s just the start](https://www.androidauthority.com/pixel-launcher-photos-search-3662044/)<!-- TECH:END -->
+ - [eBay reports Q1 revenue up 19% YoY to $3.09B, vs. $3.04B est., net income up 2% to $512M, GMV up 18% to $22.2B, and forecasts Q2 revenue above estimates &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p55#a260429p55)
+ - [AWS revenue rose 28% YoY in Q1 to $37.6B, vs. $36.64B est., its fastest growth in 15 quarters, as capital expenditures rose to $44.2B, up from $25B in Q1 2025 &lpar;Quartz&rpar;](http://www.techmeme.com/260429/p54#a260429p54)
+ - [Google Home’s latest update wants to solve your biggest smart camera headaches](https://www.androidauthority.com/google-home-app-camera-updates-3662191/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
