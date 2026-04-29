@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seven families of victims in the Tumbler Ridge shooting in Canada sue OpenAI, accusing it of failing to warn authorities about the suspect&#39;s ChatGPT activity &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/260429/p31#a260429p31)
- - [Aidoc, which provides AI medical imaging software to flag incidental findings on CT scans and X-rays, raised a $150M Series E, taking its total funding to $520M &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/260429/p30#a260429p30)
- - [The best deals we found during Amazon’s Gaming Week](https://www.theverge.com/gadgets/919671/amazon-gaming-week-2026-deal-sale)<!-- TECH:END -->
+ - [Apple faces a battle on two fronts as Epic forces a return to Circuit Courts](https://appleinsider.com/articles/26/04/29/app-store-policy-must-change-as-epic-convinces-us-circuit-court-to-reverse-stay?utm_source=rss)
+ - [Motorola unveils its 2026 foldables lineup, including its first book-style model, which costs $1,900; prices for clamshell models have gone up by up to $200 &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260429/p33#a260429p33)
+ - [You can now get Gemini to generate downloadable files directly in chat](https://www.androidauthority.com/gemini-file-export-update-3662006/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
