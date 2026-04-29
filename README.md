@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [John Ternus&#39; first major challenge is dealing with quadrupled iPhone memory prices](https://appleinsider.com/articles/26/04/29/john-ternus-first-major-challenge-is-dealing-with-quadrupled-iphone-memory-prices?utm_source=rss)
- - [The Aiper Scuba V3 makes pool cleaning simple and hassle-free](https://www.androidauthority.com/aiper-scuba-v3-robot-pool-cleaner-review-3658471/)
- - [Best Walking Pads for Working From Home &lpar;2026&rpar;](https://www.wired.com/story/best-walking-pads/)<!-- TECH:END -->
+ - [Crypto payments company MoonPay acquires Israeli crypto security startup Sodot, sources say in a $100M all-stock deal, to launch a unit focused on institutions &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/260429/p27#a260429p27)
+ - [Formula 1 coverage expands across Apple services for Miami Grand Prix](https://appleinsider.com/articles/26/04/29/formula-1-coverage-expands-across-apple-services-for-miami-grand-prix?utm_source=rss)
+ - [Brookfield-backed Compass drops plans to develop 800+ acres in Virginia&#39;s 2,100-acre Digital Gateway data center corridor, sources say due to local opposition &lpar;Dawn Lim/Bloomberg&rpar;](http://www.techmeme.com/260429/p26#a260429p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
