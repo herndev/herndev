@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
- - ⏩ [How politics works!](http://9gag.com/gag/azxpvDK)
- - 👉 [Bro is a menace](http://9gag.com/gag/aW43PzA)<!-- MEMES:END -->
+ - 💣 [Best friend goals at the baseball game](http://9gag.com/gag/amo4Ogj)
+ - ⏩ [Rate this setup.](http://9gag.com/gag/ary70y0)
+ - 👉 [Times are tough, help each other.](http://9gag.com/gag/abAno5L)<!-- MEMES:END -->
 
 ---
 
