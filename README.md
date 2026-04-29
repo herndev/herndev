@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Spotify down for you? You’re not alone](https://www.androidauthority.com/spotify-outage-april-2026-3661978/)
- - [Quick Share’s Windows app now looks a little more like an Android app](https://www.androidauthority.com/quick-shares-windows-app-now-looks-a-little-more-like-an-android-app-3661953/)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 29&rpar;](https://www.androidauthority.com/wallpaper-wednesday-april-29-2026-3661344/)<!-- TECH:END -->
+ - [Seven families of victims in the Tumbler Ridge shooting in Canada sue OpenAI, accusing it of failing to warn authorities about the suspect&#39;s ChatGPT activity &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/260429/p31#a260429p31)
+ - [Aidoc, which provides AI medical imaging software to flag incidental findings on CT scans and X-rays, raised a $150M Series E, taking its total funding to $520M &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/260429/p30#a260429p30)
+ - [The best deals we found during Amazon’s Gaming Week](https://www.theverge.com/gadgets/919671/amazon-gaming-week-2026-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
