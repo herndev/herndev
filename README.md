@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Female Looksmaxxer Alorah Ziva Is Suing Clavicular for Alleged Battery](https://www.wired.com/story/female-looksmaxxer-alorah-ziva-suing-clavicular-for-alleged-battery/)
- - [Sources: PayPal is separating Venmo into its own standalone unit and is looking to recruit a digital banking executive to run the new Venmo segment &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/260429/p38#a260429p38)
- - [What to expect from Apple&#39;s Q2 2026 earnings on April 30](https://appleinsider.com/articles/26/04/26/what-to-expect-from-apples-q2-2026-earnings-on-april-30?utm_source=rss)<!-- TECH:END -->
+ - [Amazon reports Q1 revenue of $181.5B, up 17% YoY, net income of $30.3B, up 77%, and operating income of $23.9B, up 30% YoY &lpar;Amazon&rpar;](http://www.techmeme.com/260429/p44#a260429p44)
+ - [Alphabet reports Q1 revenue up 22% YoY to $109.9B, vs. $107.2B est., Google Cloud revenue up 63% to $20B, vs. $18.05B est., net income up 81% to $62.58B &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/260429/p43#a260429p43)
+ - [Google Photos may soon be searchable from your Pixel launcher — and that’s just the start](https://www.androidauthority.com/pixel-launcher-photos-search-3662044/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
