@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed](https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/)
- - [Hack your old Google Home Mini into a Home Assistant-ready offline smart speaker with this DIY kit](https://www.androidauthority.com/google-home-mini-conversion-kit-3662091/)
- - [Visual Intelligence to be added to iOS 27 camera app as &#39;Siri Mode&#39;](https://appleinsider.com/articles/26/04/29/visual-intelligence-to-be-added-to-ios-27-camera-app-as-siri-mode?utm_source=rss)<!-- TECH:END -->
+ - [Google Messages migration nightmare: Former Samsung Messages users watch chats vanish in real time](https://www.androidauthority.com/samsung-messages-chats-missing-in-google-messages-3662078/)
+ - [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
+ - [Quick Share AirDrop support expands to more flagship Android phones](https://www.androidauthority.com/vivo-x300-ultra-quick-share-airdrop-3662118/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
