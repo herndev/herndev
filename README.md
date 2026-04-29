@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV is a mess — and Microsoft has a perfect alternative hiding in plain sight](https://www.androidauthority.com/google-tv-feels-broken-windows-should-replace-it-3661422/)
- - [The Justice Department Has Destroyed Its Voting Rights Section](https://www.wired.com/story/the-justice-department-has-destroyed-its-voting-rights-section/)
- - [More ‘Pixel Glow’ clues surface, and they point straight at Gemini](https://www.androidauthority.com/google-pixel-glow-lights-3661797/)<!-- TECH:END -->
+ - [Are you still using Sign in with Google? Here’s why you should stop](https://www.androidauthority.com/are-you-still-using-sign-in-with-google-why-you-should-stop-3660780/)
+ - [Indonesia sentences eFishery founder Gibran Huzaifah to nine years in prison, concluding a $300M scandal that destroyed one of Southeast Asia&#39;s top startups &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p16#a260429p16)
+ - [Cash-rich AI startups fuel a boom in Manhattan&#39;s commercial real-estate market; many offices have more vacant desks than workers, as startups prepare to scale &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p15#a260429p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
