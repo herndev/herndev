@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
- - ⏩ [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
- - 👉 [I was in my early thirties when I took a stand...](http://9gag.com/gag/aRBqGOQ)<!-- MEMES:END -->
+ - 💣 [Show me your most cursed image](http://9gag.com/gag/abAno4p)
+ - ⏩ [Rate this setup.](http://9gag.com/gag/ary70y0)
+ - 👉 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)<!-- MEMES:END -->
 
 ---
 
