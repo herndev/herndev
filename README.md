@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Transparent](http://9gag.com/gag/agmzprK)
- - ⏩ [Guess the place &lpar;Sorry for HDR&rpar;](http://9gag.com/gag/aAyzLrd)
- - 👉 [How politics works!](http://9gag.com/gag/azxpvDK)<!-- MEMES:END -->
+ - 💣 [How to tell a game was good](http://9gag.com/gag/aGy4q1w)
+ - ⏩ [Best friend goals at the baseball game](http://9gag.com/gag/amo4Ogj)
+ - 👉 [POV: You didn\u2019t get tickets\u2026 but somehow you\u2019re still in the stadium \u26bd\ufe0f\ud83d\udd25](http://9gag.com/gag/aVvy9yK)<!-- MEMES:END -->
 
 ---
 
