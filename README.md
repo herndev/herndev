@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is rolling out Copilot 365 to all of Accenture&#39;s roughly 743,000 employees, in the biggest enterprise deal for Copilot, following a 2023 pilot &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/260428/p53#a260428p53)
- - [EU countries and lawmakers reach an impasse on a deal watering down the EU&#39;s AI Act due to some parties seeking exemptions for already regulated industries &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260428/p52#a260428p52)
- - [A US judge denied Sam Bankman-Fried&#39;s request for a new trial based on what SBF called new evidence; SBF tried to withdraw his request, but the judge refused &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/260428/p51#a260428p51)<!-- TECH:END -->
+ - [Sources: the White House is developing rules for government agencies to get around Anthropic&#39;s supply chain risk designation and onboard new models like Mythos &lpar;Axios&rpar;](http://www.techmeme.com/260429/p1#a260429p1)
+ - [App Store policy must change as Epic convinces US Circuit Court to reverse stay](https://appleinsider.com/articles/26/04/29/app-store-policy-must-change-as-epic-convinces-us-circuit-court-to-reverse-stay?utm_source=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-29/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
