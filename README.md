@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)
- - ⏩ [Cute reporter](http://9gag.com/gag/aByBM4Z)
- - 👉 [I was in my early thirties when I took a stand...](http://9gag.com/gag/aRBqGOQ)<!-- MEMES:END -->
+ - 💣 [Final 4](http://9gag.com/gag/ajPevVp)
+ - ⏩ [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
+ - 👉 [Hospitality](http://9gag.com/gag/a34XgxN)<!-- MEMES:END -->
 
 ---
 
