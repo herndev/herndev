@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rate this setup.](http://9gag.com/gag/ary70y0)
- - ⏩ [Guess the place &lpar;Sorry for HDR&rpar;](http://9gag.com/gag/aAyzLrd)
- - 👉 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)<!-- MEMES:END -->
+ - 💣 [A new bar has been set.](http://9gag.com/gag/adBDr3Q)
+ - ⏩ [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
+ - 👉 [I was in my early thirties when I took a stand...](http://9gag.com/gag/aRBqGOQ)<!-- MEMES:END -->
 
 ---
 
