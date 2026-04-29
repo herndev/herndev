@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was in my early thirties when I took a stand...](http://9gag.com/gag/aRBqGOQ)
- - ⏩ [Rate this setup.](http://9gag.com/gag/ary70y0)
- - 👉 [Hardworking Locals At The Fast Food Dinners .](http://9gag.com/gag/aO8LO03)<!-- MEMES:END -->
+ - 💣 [Show me your most cursed image](http://9gag.com/gag/abAno4p)
+ - ⏩ [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
+ - 👉 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)<!-- MEMES:END -->
 
 ---
 
