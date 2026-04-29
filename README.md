@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Are you still using Sign in with Google? Here’s why you should stop](https://www.androidauthority.com/are-you-still-using-sign-in-with-google-why-you-should-stop-3660780/)
- - [Indonesia sentences eFishery founder Gibran Huzaifah to nine years in prison, concluding a $300M scandal that destroyed one of Southeast Asia&#39;s top startups &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p16#a260429p16)
- - [Cash-rich AI startups fuel a boom in Manhattan&#39;s commercial real-estate market; many offices have more vacant desks than workers, as startups prepare to scale &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p15#a260429p15)<!-- TECH:END -->
+ - [Sources: OpenAI has, in practice, abandoned its Stargate JV in favor of large bilateral deals; execs say its guiding principle remains to &quot;build more compute&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/260429/p22#a260429p22)
+ - [Hightouch, which uses AI to help marketers create and manage campaigns, raised $150M led by Goldman Sachs and Bain at a $2.75B valuation, up from $1.2B in 2025 &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p21#a260429p21)
+ - [13 Best Coolers for Sunshine and Nighttime &lpar;2026&rpar;](https://www.wired.com/story/the-best-coolers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
