@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keychron Q1 Ultra 8K review: mechanical keyboard performance multiplier](https://appleinsider.com/articles/26/04/29/keychron-q1-ultra-8k-review-mechanical-keyboard-performance-multiplier?utm_source=rss)
- - [OpenAI Really Wants Codex to Shut Up About Goblins](https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/)
- - [Mitchell Hashimoto, co-founder of HashiCorp, says his terminal application Ghostty will move off GitHub, citing GitHub&#39;s frequent outages &lpar;Mitchell Hashimoto&rpar;](http://www.techmeme.com/260428/p48#a260428p48)<!-- TECH:END -->
+ - [A US judge denied Sam Bankman-Fried&#39;s request for a new trial based on what SBF called new evidence; SBF tried to withdraw his request, but the judge refused &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/260428/p51#a260428p51)
+ - [The World&#39;s Smallest Wellness Wearable, Smart Earrings, Just Launched on Kickstarter](https://www.cnet.com/tech/mobile/worlds-smallest-wellness-wearable-smart-earrings-launched-kickstarter/)
+ - [New Pixel 11 Pro Fold wallpaper leak shows off animations](https://www.androidauthority.com/pixel-11-pro-fold-wallpaper-animations-3661744/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
