@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here, have a bunch of knot tying tricks to save and forget in this trying time...](http://9gag.com/gag/a9yg4AL)
- - ⏩ [Don&#39;t skip leg day](http://9gag.com/gag/ae98y0p)
- - 👉 [How politics works!](http://9gag.com/gag/azxpvDK)<!-- MEMES:END -->
+ - 💣 [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)
+ - ⏩ [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
+ - 👉 [Sesame oil extractor](http://9gag.com/gag/ajPe3V8)<!-- MEMES:END -->
 
 ---
 
