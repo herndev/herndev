@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Final 4](http://9gag.com/gag/ajPevVp)
- - ⏩ [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
- - 👉 [Hospitality](http://9gag.com/gag/a34XgxN)<!-- MEMES:END -->
+ - 💣 [Hardworking Locals At The Fast Food Dinners .](http://9gag.com/gag/aO8LO03)
+ - ⏩ [This human excrement, may she find no peace](http://9gag.com/gag/aByBz5N)
+ - 👉 [Final 4](http://9gag.com/gag/ajPevVp)<!-- MEMES:END -->
 
 ---
 
