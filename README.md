@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)
+ - 💣 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
  - ⏩ [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
- - 👉 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)<!-- MEMES:END -->
+ - 👉 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)<!-- MEMES:END -->
 
 ---
 
