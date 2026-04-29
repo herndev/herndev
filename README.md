@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages migration nightmare: Former Samsung Messages users watch chats vanish in real time](https://www.androidauthority.com/samsung-messages-chats-missing-in-google-messages-3662078/)
- - [All the evidence unveiled so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
- - [Quick Share AirDrop support expands to more flagship Android phones](https://www.androidauthority.com/vivo-x300-ultra-quick-share-airdrop-3662118/)<!-- TECH:END -->
+ - [Female Looksmaxxer Alorah Ziva Is Suing Clavicular for Alleged Battery](https://www.wired.com/story/female-looksmaxxer-alorah-ziva-suing-clavicular-for-alleged-battery/)
+ - [Sources: PayPal is separating Venmo into its own standalone unit and is looking to recruit a digital banking executive to run the new Venmo segment &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/260429/p38#a260429p38)
+ - [What to expect from Apple&#39;s Q2 2026 earnings on April 30](https://appleinsider.com/articles/26/04/26/what-to-expect-from-apples-q2-2026-earnings-on-april-30?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
