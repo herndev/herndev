@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [eBay reports Q1 revenue up 19% YoY to $3.09B, vs. $3.04B est., net income up 2% to $512M, GMV up 18% to $22.2B, and forecasts Q2 revenue above estimates &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p55#a260429p55)
- - [AWS revenue rose 28% YoY in Q1 to $37.6B, vs. $36.64B est., its fastest growth in 15 quarters, as capital expenditures rose to $44.2B, up from $25B in Q1 2025 &lpar;Quartz&rpar;](http://www.techmeme.com/260429/p54#a260429p54)
- - [Google Home’s latest update wants to solve your biggest smart camera headaches](https://www.androidauthority.com/google-home-app-camera-updates-3662191/)<!-- TECH:END -->
+ - [Sources: Anthropic has begun weighing a new funding round at a $900B+ valuation, after previously resisting investor proposals at an $800B+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p59#a260429p59)
+ - [Grindr — yes, Grindr — won the WHCD party circuit](https://www.theverge.com/column/920845/grindr-whcd-party-2026)
+ - [Meta says Q1 family daily active people fell 20M QoQ to 3.56B, vs. 3.62B est., due to internet disruptions in Iran and WhatsApp access restrictions in Russia &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260429/p58#a260429p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
