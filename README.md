@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic has begun weighing a new funding round at a $900B+ valuation, after previously resisting investor proposals at an $800B+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p59#a260429p59)
- - [Grindr — yes, Grindr — won the WHCD party circuit](https://www.theverge.com/column/920845/grindr-whcd-party-2026)
- - [Meta says Q1 family daily active people fell 20M QoQ to 3.56B, vs. 3.62B est., due to internet disruptions in Iran and WhatsApp access restrictions in Russia &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/260429/p58#a260429p58)<!-- TECH:END -->
+ - [Musk v. Altman: Elon Musk says he was a &quot;fool&quot; for backing OpenAI, accusing Altman and Brockman of manipulating him into donating tens of millions of dollars &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p60#a260429p60)
+ - [Apple smart glasses again rumored to support gesture recognition via built-in cameras](https://appleinsider.com/articles/26/04/29/apple-smart-glasses-again-rumored-to-support-gesture-recognition-via-built-in-cameras?utm_source=rss)
+ - [Sources: Anthropic has begun weighing a new funding round at a $900B+ valuation, after previously resisting investor proposals at an $800B+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p59#a260429p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
