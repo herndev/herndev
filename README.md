@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hardworking Locals At The Fast Food Dinners .](http://9gag.com/gag/aO8LO03)
- - ⏩ [This human excrement, may she find no peace](http://9gag.com/gag/aByBz5N)
- - 👉 [Final 4](http://9gag.com/gag/ajPevVp)<!-- MEMES:END -->
+ - 💣 [Show me your most cursed image](http://9gag.com/gag/abAno4p)
+ - ⏩ [Hardworking Locals At The Fast Food Dinners .](http://9gag.com/gag/aO8LO03)
+ - 👉 [Take it easy and be smart.](http://9gag.com/gag/agmz9En)<!-- MEMES:END -->
 
 ---
 
