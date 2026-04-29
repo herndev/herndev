@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interview for fried chicken industry](http://9gag.com/gag/aqyopvP)
- - ⏩ [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
- - 👉 [Sesame oil extractor](http://9gag.com/gag/ajPe3V8)<!-- MEMES:END -->
+ - 💣 [Transparent](http://9gag.com/gag/agmzprK)
+ - ⏩ [Guess the place &lpar;Sorry for HDR&rpar;](http://9gag.com/gag/aAyzLrd)
+ - 👉 [How politics works!](http://9gag.com/gag/azxpvDK)<!-- MEMES:END -->
 
 ---
 
