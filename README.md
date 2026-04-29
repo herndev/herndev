@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto payments company MoonPay acquires Israeli crypto security startup Sodot, sources say in a $100M all-stock deal, to launch a unit focused on institutions &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/260429/p27#a260429p27)
- - [Formula 1 coverage expands across Apple services for Miami Grand Prix](https://appleinsider.com/articles/26/04/29/formula-1-coverage-expands-across-apple-services-for-miami-grand-prix?utm_source=rss)
- - [Brookfield-backed Compass drops plans to develop 800+ acres in Virginia&#39;s 2,100-acre Digital Gateway data center corridor, sources say due to local opposition &lpar;Dawn Lim/Bloomberg&rpar;](http://www.techmeme.com/260429/p26#a260429p26)<!-- TECH:END -->
+ - [Is Spotify down for you? You’re not alone](https://www.androidauthority.com/spotify-outage-april-2026-3661978/)
+ - [Quick Share’s Windows app now looks a little more like an Android app](https://www.androidauthority.com/quick-shares-windows-app-now-looks-a-little-more-like-an-android-app-3661953/)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;April 29&rpar;](https://www.androidauthority.com/wallpaper-wednesday-april-29-2026-3661344/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
