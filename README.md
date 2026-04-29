@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US startup Poolside debuts its first open-weight model, Laguna XS.2, a 33B-A3B-parameter MoE model, and Laguna M.1, a proprietary 225B-A23B-parameter MoE model &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/260428/p45#a260428p45)
- - [The Pixel 11’s Tensor G6 chip is sounding a little underwhelming in latest leak](https://www.androidauthority.com/tensor-g6-gpu-leak-3661734/)
- - [Three Apple TV series land six Gotham Television Award nominations](https://appleinsider.com/articles/26/04/28/three-apple-tv-series-land-six-gotham-television-award-nominations?utm_source=rss)<!-- TECH:END -->
+ - [Keychron Q1 Ultra 8K review: mechanical keyboard performance multiplier](https://appleinsider.com/articles/26/04/29/keychron-q1-ultra-8k-review-mechanical-keyboard-performance-multiplier?utm_source=rss)
+ - [OpenAI Really Wants Codex to Shut Up About Goblins](https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/)
+ - [Mitchell Hashimoto, co-founder of HashiCorp, says his terminal application Ghostty will move off GitHub, citing GitHub&#39;s frequent outages &lpar;Mitchell Hashimoto&rpar;](http://www.techmeme.com/260428/p48#a260428p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
