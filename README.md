@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple faces a battle on two fronts as Epic forces a return to Circuit Courts](https://appleinsider.com/articles/26/04/29/app-store-policy-must-change-as-epic-convinces-us-circuit-court-to-reverse-stay?utm_source=rss)
- - [Motorola unveils its 2026 foldables lineup, including its first book-style model, which costs $1,900; prices for clamshell models have gone up by up to $200 &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/260429/p33#a260429p33)
- - [You can now get Gemini to generate downloadable files directly in chat](https://www.androidauthority.com/gemini-file-export-update-3662006/)<!-- TECH:END -->
+ - [Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed](https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/)
+ - [Hack your old Google Home Mini into a Home Assistant-ready offline smart speaker with this DIY kit](https://www.androidauthority.com/google-home-mini-conversion-kit-3662091/)
+ - [Visual Intelligence to be added to iOS 27 camera app as &#39;Siri Mode&#39;](https://appleinsider.com/articles/26/04/29/visual-intelligence-to-be-added-to-ios-27-camera-app-as-siri-mode?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
