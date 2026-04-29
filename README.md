@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based stock trading platform Sahi raised a $33M Series B led by Accel at a $200M valuation to expand into margin trade funding, commodities, and more &lpar;The Economic Times&rpar;](http://www.techmeme.com/260429/p10#a260429p10)
- - [Google is back in the defense business with a secret new Pentagon deal](https://www.androidauthority.com/google-pentagon-deal-for-gemini-3661815/)
- - [The European Commission issues preliminary DSA findings against Meta, saying Instagram and Facebook fail to prevent under-13 users from accessing the services &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/260429/p9#a260429p9)<!-- TECH:END -->
+ - [Google TV is a mess — and Microsoft has a perfect alternative hiding in plain sight](https://www.androidauthority.com/google-tv-feels-broken-windows-should-replace-it-3661422/)
+ - [The Justice Department Has Destroyed Its Voting Rights Section](https://www.wired.com/story/the-justice-department-has-destroyed-its-voting-rights-section/)
+ - [More ‘Pixel Glow’ clues surface, and they point straight at Gemini](https://www.androidauthority.com/google-pixel-glow-lights-3661797/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
