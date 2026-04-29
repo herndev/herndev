@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge denied Sam Bankman-Fried&#39;s request for a new trial based on what SBF called new evidence; SBF tried to withdraw his request, but the judge refused &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/260428/p51#a260428p51)
- - [The World&#39;s Smallest Wellness Wearable, Smart Earrings, Just Launched on Kickstarter](https://www.cnet.com/tech/mobile/worlds-smallest-wellness-wearable-smart-earrings-launched-kickstarter/)
- - [New Pixel 11 Pro Fold wallpaper leak shows off animations](https://www.androidauthority.com/pixel-11-pro-fold-wallpaper-animations-3661744/)<!-- TECH:END -->
+ - [Microsoft is rolling out Copilot 365 to all of Accenture&#39;s roughly 743,000 employees, in the biggest enterprise deal for Copilot, following a 2023 pilot &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/260428/p53#a260428p53)
+ - [EU countries and lawmakers reach an impasse on a deal watering down the EU&#39;s AI Act due to some parties seeking exemptions for already regulated industries &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/260428/p52#a260428p52)
+ - [A US judge denied Sam Bankman-Fried&#39;s request for a new trial based on what SBF called new evidence; SBF tried to withdraw his request, but the judge refused &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/260428/p51#a260428p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
