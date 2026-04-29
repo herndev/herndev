@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Show me your most cursed image](http://9gag.com/gag/abAno4p)
- - ⏩ [Hardworking Locals At The Fast Food Dinners .](http://9gag.com/gag/aO8LO03)
- - 👉 [Take it easy and be smart.](http://9gag.com/gag/agmz9En)<!-- MEMES:END -->
+ - ⏩ [Take it easy and be smart.](http://9gag.com/gag/agmz9En)
+ - 👉 [Cute reporter](http://9gag.com/gag/aByBM4Z)<!-- MEMES:END -->
 
 ---
 
