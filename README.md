@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with AWS CEO Matt Garman on why AWS will be a better OpenAI partner than Microsoft, chip bubble fears, Jeff Bezos&#39; Project Prometheus, and more &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/260429/p7#a260429p7)
- - [Filing: TSMC sold its remaining 1.11M Arm shares at $207.65 per share for a total of ~$231M this week; TSMC invested ~$100M in Arm&#39;s 2023 IPO at $51 per share &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/260429/p6#a260429p6)
- - [Sources: China suspends issuing new Level 4 autonomous vehicle licenses, after over 100 of Baidu&#39;s Apollo Go robotaxis disrupted traffic in Wuhan last month &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p5#a260429p5)<!-- TECH:END -->
+ - [Bengaluru-based stock trading platform Sahi raised a $33M Series B led by Accel at a $200M valuation to expand into margin trade funding, commodities, and more &lpar;The Economic Times&rpar;](http://www.techmeme.com/260429/p10#a260429p10)
+ - [Google is back in the defense business with a secret new Pentagon deal](https://www.androidauthority.com/google-pentagon-deal-for-gemini-3661815/)
+ - [The European Commission issues preliminary DSA findings against Meta, saying Instagram and Facebook fail to prevent under-13 users from accessing the services &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/260429/p9#a260429p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
