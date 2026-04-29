@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the White House is developing rules for government agencies to get around Anthropic&#39;s supply chain risk designation and onboard new models like Mythos &lpar;Axios&rpar;](http://www.techmeme.com/260429/p1#a260429p1)
- - [App Store policy must change as Epic convinces US Circuit Court to reverse stay](https://appleinsider.com/articles/26/04/29/app-store-policy-must-change-as-epic-convinces-us-circuit-court-to-reverse-stay?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-29/)<!-- TECH:END -->
+ - [Filing: TSMC sold its remaining 1.11M Arm shares at $207.65 per share for a total of ~$231M this week; TSMC invested ~$100M in Arm&#39;s 2023 IPO at $51 per share &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/260429/p6#a260429p6)
+ - [Sources: China suspends issuing new Level 4 autonomous vehicle licenses, after over 100 of Baidu&#39;s Apollo Go robotaxis disrupted traffic in Wuhan last month &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p5#a260429p5)
+ - [20% Off LG Promo Code &amp; Coupons | May 2026](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
