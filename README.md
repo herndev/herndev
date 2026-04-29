@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gin Tuonic](http://9gag.com/gag/ajPe3Px)
+ - 💣 [I was in my early thirties when I took a stand...](http://9gag.com/gag/aRBqGOQ)
  - ⏩ [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
- - 👉 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)<!-- MEMES:END -->
+ - 👉 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)<!-- MEMES:END -->
 
 ---
 
