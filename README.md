@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI explains why ChatGPT was obsessed with goblins for a while](https://www.androidauthority.com/chatgpt-goblins-tic-3662566/)
- - [Filing: Meta says it might be forced to withdraw its apps from New Mexico if a judge orders it to adopt the state&#39;s proposed safety features &lpar;Thomas Barrabi/New York Post&rpar;](https://www.techmeme.com/260430/p46#a260430p46)
- - [Microsoft’s Xbox mode is now available for all Windows 11 PCs](https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11)<!-- TECH:END -->
+ - [Rivian’s revenue is up as R2 production kicks into gear](https://www.theverge.com/transportation/921295/rivian-q1-2026-earnings-revenue-profit-r2)
+ - [Rivian downsizes its goals for its EV factory in Georgia](https://www.theverge.com/transportation/921585/rivian-georgia-factory-capacity-doe-loan)
+ - [Gemini notebooks expand beyond the web with mobile rollout](https://www.androidauthority.com/gemini-notebooks-expands-to-mobile-3662556/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
