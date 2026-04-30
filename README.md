@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After working on the Vision Pro, this AR veteran is going back to phones](https://www.theverge.com/column/921101/ar-mobile-pixi)
- - [$100 Nintendo gift cards are $20 off at Newegg today](https://www.theverge.com/gadgets/921157/100-nintendo-gift-cards-are-20-off-at-newegg-today)
- - [Subnautica 2 launches soon after lengthy legal dispute](https://www.theverge.com/games/920668/subnautica-2-early-access-release-date-unknown-worlds-krafton)<!-- TECH:END -->
+ - [Historic Apple Porsche colors return on Porsche 963 at Laguna Seca](https://appleinsider.com/articles/26/04/30/historic-apple-porsche-colors-return-on-porsche-963-at-laguna-seca?utm_source=rss)
+ - [Cybersecurity analysis: GPT-5.5 reaches a similar level of performance as Mythos Preview and is the second model to solve a multi-step cyberattack simulation &lpar;AI Security Institute&rpar;](https://www.techmeme.com/260430/p36#a260430p36)
+ - [ANBERNIC’s swiveling Android handheld is arriving sooner than you think](https://www.androidauthority.com/rg-rotate-specs-price-release-date-3662476/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
