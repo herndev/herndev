@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)
- - ⏩ [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
- - 👉 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)<!-- MEMES:END -->
+ - 💣 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
+ - ⏩ [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
+ - 👉 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)<!-- MEMES:END -->
 
 ---
 
