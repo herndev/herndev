@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
- - ⏩ [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
- - 👉 [Italy wasted no time in removing the threat from their country](http://9gag.com/gag/ajPe3v1)<!-- MEMES:END -->
+ - 💣 [Rate this setup.](http://9gag.com/gag/ary70y0)
+ - ⏩ [Choose](http://9gag.com/gag/a87x9q3)
+ - 👉 [That too right before appraisal time](http://9gag.com/gag/axyq8ZM)<!-- MEMES:END -->
 
 ---
 
