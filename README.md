@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram is expanding its recommendation restrictions beyond Reels to photos and carousels, targeting accounts that post unoriginal content like tweet roundups &lpar;Mia Sato/The Verge&rpar;](https://www.techmeme.com/260430/p18#a260430p18)
- - [Best Gifts for Hikers, Backpackers, Outdoorsy People &lpar;2026&rpar;](https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/)
- - [Instagram says it doesn’t want your tweet round ups](https://www.theverge.com/news/920999/instagram-says-it-doesnt-want-your-tweet-round-ups)<!-- TECH:END -->
+ - [Netflix starts rolling out its new Clips vertical video feed as a separate tab in the UK, the US, Canada, Australia, India, and four other countries &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260430/p24#a260430p24)
+ - [Sources: the EU is drafting a revised Chips Act II, set for late May, that would grant it power to invest directly in large, cross-border manufacturing projects &lpar;Bloomberg&rpar;](https://www.techmeme.com/260430/p23#a260430p23)
+ - [Casa, which uses lidar scanners and AI to catalog homes and manage proactive maintenance alongside human workers, raised $27M, including a $20M Series A &lpar;Michael J. de la Merced/New York Times&rpar;](https://www.techmeme.com/260430/p22#a260430p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
