@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get them boy!](http://9gag.com/gag/a4POggy)
- - ⏩ [Show me your most cursed image](http://9gag.com/gag/abAno4p)
+ - 💣 [Cute reporter](http://9gag.com/gag/aByBM4Z)
+ - ⏩ [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)
  - 👉 [The 3 most tragic words of the entire serie\u2026.](http://9gag.com/gag/ary7ELy)<!-- MEMES:END -->
 
 ---
