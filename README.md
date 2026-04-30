@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There\u2019s no such thing as a perfect ca\u2014 OH MY GOD!](http://9gag.com/gag/aKGo5gQ)
- - ⏩ [Uploading my old 9gag collection 160](http://9gag.com/gag/aGy4v3z)
- - 👉 [Khek khek](http://9gag.com/gag/azxpwmx)<!-- MEMES:END -->
+ - 💣 [The corporate cartels still didn&#39;t get the message. That there are still outliers in the market that are still pro consumer. You can&#39;t push anti-consumer practices if the consumers still have a choice. All hail STEAM!](http://9gag.com/gag/agmzw6n)
+ - ⏩ [Khek khek](http://9gag.com/gag/azxpwmx)
+ - 👉 [Amazing news for Sam Neill](http://9gag.com/gag/aZZOXg6)<!-- MEMES:END -->
 
 ---
 
