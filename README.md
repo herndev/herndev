@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI teases the Osmo Pocket 4P with telephoto boost and vertical video push](https://www.androidauthority.com/dji-osmo-pocket-4p-teased-3662543/)
- - [Sources: Meta drew about $96B of orders from investors for a $25B bond sale it launched on Thursday; Meta sold $30B of corporate bonds in October 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260430/p42#a260430p42)
- - [Elon Musk confirms xAI used OpenAI’s models to train Grok](https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation)<!-- TECH:END -->
+ - [OpenAI explains why ChatGPT was obsessed with goblins for a while](https://www.androidauthority.com/chatgpt-goblins-tic-3662566/)
+ - [Filing: Meta says it might be forced to withdraw its apps from New Mexico if a judge orders it to adopt the state&#39;s proposed safety features &lpar;Thomas Barrabi/New York Post&rpar;](https://www.techmeme.com/260430/p46#a260430p46)
+ - [Microsoft’s Xbox mode is now available for all Windows 11 PCs](https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
