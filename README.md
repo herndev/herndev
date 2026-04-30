@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Got a Fitbit? You might lose years of data if you don’t act soon](https://www.androidauthority.com/fitbit-google-data-migration-deadline-3662254/)
- - [Samsung retakes the lead in Q1, but there’s bad news for other Android brands](https://www.androidauthority.com/q1-2026-global-smartphone-market-3662242/)
- - [Analysis: Meta, Alphabet, Microsoft, and Amazon&#39;s combined capex hit a record $130B in Q1 and is projected to reach $725B in 2026, up 77% from $410B in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260430/p8#a260430p8)<!-- TECH:END -->
+ - [The Eve Aqua Smart Water Controller Lets You Water Your Garden From Your Phone](https://www.wired.com/review/review-eve-aqua-smart-water-controller/)
+ - [Google TV is in trouble, and the latest update only makes it worse](https://www.androidauthority.com/google-tv-in-trouble-april-2026-update-makes-worse-3662027/)
+ - [The Person Behind Those Viral Polycule Ads Says It’s Just a Joke](https://www.wired.com/story/the-person-behind-those-viral-polycule-ads-says-its-just-a-joke/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
