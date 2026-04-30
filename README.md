@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&#39;s Claude Security, formerly Claude Code Security, is in public beta for Enterprise users; the Opus 4.7-powered tool can scan code for vulnerabilities &lpar;Marcus Schuler/Implicator.ai&rpar;](https://www.techmeme.com/260430/p39#a260430p39)
- - [Musk v. Altman: when asked whether xAI has ever distilled tech from OpenAI, Elon Musk says the claim is &quot;partly&quot; true &lpar;New York Times&rpar;](https://www.techmeme.com/260430/p38#a260430p38)
- - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)<!-- TECH:END -->
+ - [DJI teases the Osmo Pocket 4P with telephoto boost and vertical video push](https://www.androidauthority.com/dji-osmo-pocket-4p-teased-3662543/)
+ - [Sources: Meta drew about $96B of orders from investors for a $25B bond sale it launched on Thursday; Meta sold $30B of corporate bonds in October 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260430/p42#a260430p42)
+ - [Elon Musk confirms xAI used OpenAI’s models to train Grok](https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
