@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Meta, Alphabet, Microsoft, and Amazon&#39;s combined capex hit a record $130B in Q1 and is projected to reach $725B in 2026, up 77% from $410B in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260430/p8#a260430p8)
- - [GoTo reports net income of ~$15M for Q1 2026, its first ever, after job cuts and unit disposals helped Indonesia&#39;s largest internet company reduce costs &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/260430/p7#a260430p7)
- - [OnePlus Pad 4 takes on Galaxy Tab S11 Ultra and iPad Pro with beefier battery and better price](https://www.androidauthority.com/oneplus-pad-4-launched-3662236/)<!-- TECH:END -->
+ - [Got a Fitbit? You might lose years of data if you don’t act soon](https://www.androidauthority.com/fitbit-google-data-migration-deadline-3662254/)
+ - [Samsung retakes the lead in Q1, but there’s bad news for other Android brands](https://www.androidauthority.com/q1-2026-global-smartphone-market-3662242/)
+ - [Analysis: Meta, Alphabet, Microsoft, and Amazon&#39;s combined capex hit a record $130B in Q1 and is projected to reach $725B in 2026, up 77% from $410B in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260430/p8#a260430p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
