@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
- - ⏩ [Take it easy and be smart.](http://9gag.com/gag/agmz9En)
- - 👉 [What meme does get you banned?](http://9gag.com/gag/aQzWKbr)<!-- MEMES:END -->
+ - 💣 [There\u2019s no such thing as a perfect ca\u2014 OH MY GOD!](http://9gag.com/gag/aKGo5gQ)
+ - ⏩ [Uploading my old 9gag collection 160](http://9gag.com/gag/aGy4v3z)
+ - 👉 [Khek khek](http://9gag.com/gag/azxpwmx)<!-- MEMES:END -->
 
 ---
 
