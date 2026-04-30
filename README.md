@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Visa says its stablecoin settlement pilot supports nine networks, including Base, Polygon, Canton Network, Arc, and Tempo, and has hit a $7B annualized run rate &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/260429/p67#a260429p67)
- - [How US schools&#39; overreliance on YouTube for educational content encourages students to drift into endless video scrolling on school-issued devices &lpar;Shalini Ramachandran/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p66#a260429p66)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, April 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-april-30/)<!-- TECH:END -->
+ - [Musk v. Altman: internal 2017 emails show Musk sought majority voting control over OpenAI co-founders, withheld promised funding, and tried to poach researchers &lpar;Wired&rpar;](http://www.techmeme.com/260429/p71#a260429p71)
+ - [FDA launches a pilot using AI and cloud computing to give the agency a &quot;direct data feed&quot; to real-time clinical data, aiming to shorten drug approval timelines &lpar;Frank Konkel/Nextgov/FCW&rpar;](http://www.techmeme.com/260429/p70#a260429p70)
+ - [SenseTime releases SenseNova-U1, an open-source image model that it says can &quot;read&quot; images without translating them to text, reducing computing power needs &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/260429/p69#a260429p69)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
