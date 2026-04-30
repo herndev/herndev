@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What meme does get you banned?](http://9gag.com/gag/aQzWKbr)
- - ⏩ [Dont mess with momma&#39;s cat](http://9gag.com/gag/an7PZ5o)
- - 👉 [Toxic work environment](http://9gag.com/gag/aqyownM)<!-- MEMES:END -->
+ - 💣 [Cute reporter](http://9gag.com/gag/aByBM4Z)
+ - ⏩ [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
+ - 👉 [Final 4](http://9gag.com/gag/ajPevVp)<!-- MEMES:END -->
 
 ---
 
