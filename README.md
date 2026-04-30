@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk v. Altman: Elon Musk says he was a &quot;fool&quot; for backing OpenAI, accusing Altman and Brockman of manipulating him into donating tens of millions of dollars &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p60#a260429p60)
- - [Apple smart glasses again rumored to support gesture recognition via built-in cameras](https://appleinsider.com/articles/26/04/29/apple-smart-glasses-again-rumored-to-support-gesture-recognition-via-built-in-cameras?utm_source=rss)
- - [Sources: Anthropic has begun weighing a new funding round at a $900B+ valuation, after previously resisting investor proposals at an $800B+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p59#a260429p59)<!-- TECH:END -->
+ - [Sources: SoftBank plans to create an AI and robotics company called Roze in the US to build data centers and list it as early as 2026, seeking a $100B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260429/p61#a260429p61)
+ - [Elon Musk’s worst enemy in court is Elon Musk](https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman)
+ - [Iodyne Pro Data 24TB review: $15K, ridiculous speed, and probably not for you](https://appleinsider.com/articles/26/04/29/iodyne-pro-data-24tb-review-15k-ridiculous-speed-and-probably-not-for-you?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
