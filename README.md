@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The corporate cartels still didn&#39;t get the message. That there are still outliers in the market that are still pro consumer. You can&#39;t push anti-consumer practices if the consumers still have a choice. All hail STEAM!](http://9gag.com/gag/agmzw6n)
- - ⏩ [Khek khek](http://9gag.com/gag/azxpwmx)
- - 👉 [Amazing news for Sam Neill](http://9gag.com/gag/aZZOXg6)<!-- MEMES:END -->
+ - 💣 [Get them boy!](http://9gag.com/gag/a4POggy)
+ - ⏩ [Show me your most cursed image](http://9gag.com/gag/abAno4p)
+ - 👉 [The 3 most tragic words of the entire serie\u2026.](http://9gag.com/gag/ary7ELy)<!-- MEMES:END -->
 
 ---
 
