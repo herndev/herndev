@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare says AI agents can now create Cloudflare accounts, start paid subscriptions, register domains, and deploy apps on behalf of users &lpar;Cloudflare&rpar;](https://www.techmeme.com/260430/p30#a260430p30)
- - [Sources: the NSA has been testing Anthropic&#39;s Mythos model to find vulnerabilities in Microsoft products and widely used software from other companies &lpar;Jake Bleiberg/Bloomberg&rpar;](https://www.techmeme.com/260430/p29#a260430p29)
- - [How Adam Scott became an accidental horror movie star](https://www.theverge.com/entertainment/920921/adam-scott-interview-hokum-horror)<!-- TECH:END -->
+ - [After working on the Vision Pro, this AR veteran is going back to phones](https://www.theverge.com/column/921101/ar-mobile-pixi)
+ - [$100 Nintendo gift cards are $20 off at Newegg today](https://www.theverge.com/gadgets/921157/100-nintendo-gift-cards-are-20-off-at-newegg-today)
+ - [Subnautica 2 launches soon after lengthy legal dispute](https://www.theverge.com/games/920668/subnautica-2-early-access-release-date-unknown-worlds-krafton)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
