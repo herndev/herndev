@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Attaching this to job applications when they ask for a cover letter:](http://9gag.com/gag/a7oRgNx)
- - ⏩ [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
- - 👉 [Cute reporter](http://9gag.com/gag/aByBM4Z)<!-- MEMES:END -->
+ - 💣 [What meme does get you banned?](http://9gag.com/gag/aQzWKbr)
+ - ⏩ [Dont mess with momma&#39;s cat](http://9gag.com/gag/an7PZ5o)
+ - 👉 [Toxic work environment](http://9gag.com/gag/aqyownM)<!-- MEMES:END -->
 
 ---
 
