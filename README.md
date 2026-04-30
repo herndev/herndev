@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic unveils BioMysteryBench to test Claude&#39;s bioinformatics skills against human experts, and says Mythos solved ~30% of 23 questions that stumped experts &lpar;Anthropic&rpar;](http://www.techmeme.com/260430/p4#a260430p4)
- - [Nike Promo Codes and Deals: 30% Off](https://www.wired.com/story/nike-promo-code/)
- - [Hyundai unveils Pleos Connect, a next-generation infotainment system with Gleo AI voice assistant, debuting in May on the new Grandeur sedan in South Korea &lpar;Hyonhee Shin/Bloomberg&rpar;](http://www.techmeme.com/260430/p3#a260430p3)<!-- TECH:END -->
+ - [Analysis: Meta, Alphabet, Microsoft, and Amazon&#39;s combined capex hit a record $130B in Q1 and is projected to reach $725B in 2026, up 77% from $410B in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/260430/p8#a260430p8)
+ - [GoTo reports net income of ~$15M for Q1 2026, its first ever, after job cuts and unit disposals helped Indonesia&#39;s largest internet company reduce costs &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/260430/p7#a260430p7)
+ - [OnePlus Pad 4 takes on Galaxy Tab S11 Ultra and iPad Pro with beefier battery and better price](https://www.androidauthority.com/oneplus-pad-4-launched-3662236/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
