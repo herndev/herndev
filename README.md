@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian’s revenue is up as R2 production kicks into gear](https://www.theverge.com/transportation/921295/rivian-q1-2026-earnings-revenue-profit-r2)
- - [Rivian downsizes its goals for its EV factory in Georgia](https://www.theverge.com/transportation/921585/rivian-georgia-factory-capacity-doe-loan)
- - [Gemini notebooks expand beyond the web with mobile rollout](https://www.androidauthority.com/gemini-notebooks-expands-to-mobile-3662556/)<!-- TECH:END -->
+ - [Google Meet now lets you choose what’s included in your meeting notes](https://www.androidauthority.com/google-meet-notes-customization-3662613/)
+ - [Apple earnings crush Wall Street consensus again, Q2 record smashed](https://appleinsider.com/articles/26/04/30/apple-earnings-crush-wall-street-consensus-again-q2-record-smashed?utm_source=rss)
+ - [China demand hinges on good products that resonate with customers, Cook says](https://appleinsider.com/articles/26/04/30/china-demand-hinges-on-good-products-that-resonate-with-customers-cook-says?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
