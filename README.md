@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is predicting up to a $110 billion fiscal third quarter 2026](https://appleinsider.com/articles/26/04/30/apple-is-predicting-up-to-a-110-billion-fiscal-third-quarter-2026?utm_source=rss)
- - [Apple&#39;s memory stockpile is holding for now, but price rises still loom](https://appleinsider.com/articles/26/04/30/apples-memory-stockpile-is-holding-for-now-but-price-rises-still-loom?utm_source=rss)
- - [Mac mini &amp; Mac Studio supply won&#39;t recover for several months](https://appleinsider.com/articles/26/04/30/mac-lineup-is-doing-so-well-that-apple-cant-keep-up-with-demand?utm_source=rss)<!-- TECH:END -->
+ - [Good Luck Getting a Mac Mini for the Next ‘Several Months’](https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/)
+ - [The craziest part of Musk v. Altman happened while the jury was out of the room](https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai)
+ - [The US Senate unanimously passed a rule barring senators from trading on prediction markets like Kalshi and Polymarket, amid rising concern over insider trading &lpar;Dan Mangan/CNBC&rpar;](https://www.techmeme.com/260430/p59#a260430p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
