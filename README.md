@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cute reporter](http://9gag.com/gag/aByBM4Z)
- - ⏩ [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
- - 👉 [Final 4](http://9gag.com/gag/ajPevVp)<!-- MEMES:END -->
+ - 💣 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
+ - ⏩ [Take it easy and be smart.](http://9gag.com/gag/agmz9En)
+ - 👉 [What meme does get you banned?](http://9gag.com/gag/aQzWKbr)<!-- MEMES:END -->
 
 ---
 
