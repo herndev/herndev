@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Historic Apple Porsche colors return on Porsche 963 at Laguna Seca](https://appleinsider.com/articles/26/04/30/historic-apple-porsche-colors-return-on-porsche-963-at-laguna-seca?utm_source=rss)
- - [Cybersecurity analysis: GPT-5.5 reaches a similar level of performance as Mythos Preview and is the second model to solve a multi-step cyberattack simulation &lpar;AI Security Institute&rpar;](https://www.techmeme.com/260430/p36#a260430p36)
- - [ANBERNIC’s swiveling Android handheld is arriving sooner than you think](https://www.androidauthority.com/rg-rotate-specs-price-release-date-3662476/)<!-- TECH:END -->
+ - [Anthropic&#39;s Claude Security, formerly Claude Code Security, is in public beta for Enterprise users; the Opus 4.7-powered tool can scan code for vulnerabilities &lpar;Marcus Schuler/Implicator.ai&rpar;](https://www.techmeme.com/260430/p39#a260430p39)
+ - [Musk v. Altman: when asked whether xAI has ever distilled tech from OpenAI, Elon Musk says the claim is &quot;partly&quot; true &lpar;New York Times&rpar;](https://www.techmeme.com/260430/p38#a260430p38)
+ - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
