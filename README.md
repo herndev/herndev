@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank plans to create an AI and robotics company called Roze in the US to build data centers and list it as early as 2026, seeking a $100B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260429/p61#a260429p61)
- - [Elon Musk’s worst enemy in court is Elon Musk](https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman)
- - [Iodyne Pro Data 24TB review: $15K, ridiculous speed, and probably not for you](https://appleinsider.com/articles/26/04/29/iodyne-pro-data-24tb-review-15k-ridiculous-speed-and-probably-not-for-you?utm_source=rss)<!-- TECH:END -->
+ - [Massachusetts-based brain implant company Axoft raised a $55M Series A and says it tested its device in a Shanghai patient, with plans for more trials in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p63#a260429p63)
+ - [Samsung reports Q1 revenue up 69% YoY to ~$90.2B, vs. ~$89.4B est., and operating profit up 756% to ~$38.5B, vs. ~$37.2B est., driven by AI-linked memory demand &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260429/p62#a260429p62)
+ - [Sources: SoftBank plans to create an AI and robotics company called Roze in the US to build data centers and list it as early as 2026, seeking a $100B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260429/p61#a260429p61)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
