@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cute reporter](http://9gag.com/gag/aByBM4Z)
- - ⏩ [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)
- - 👉 [The 3 most tragic words of the entire serie\u2026.](http://9gag.com/gag/ary7ELy)<!-- MEMES:END -->
+ - 💣 [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)
+ - ⏩ [Take it easy and be smart.](http://9gag.com/gag/agmz9En)
+ - 👉 [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)<!-- MEMES:END -->
 
 ---
 
