@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Attaching this to job applications when they ask for a cover letter:](http://9gag.com/gag/a7oRgNx)
- - ⏩ [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)
- - 👉 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)<!-- MEMES:END -->
+ - ⏩ [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
+ - 👉 [Cute reporter](http://9gag.com/gag/aByBM4Z)<!-- MEMES:END -->
 
 ---
 
