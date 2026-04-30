@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
+ - 💣 [Toxic work environment](http://9gag.com/gag/aqyownM)
  - ⏩ [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)
  - 👉 [Hospitality](http://9gag.com/gag/a34XgxN)<!-- MEMES:END -->
 
