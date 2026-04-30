@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waterdrop Filter is a smarter choice for everyday wellbeing this Mother’s Day](https://www.androidauthority.com/waterdrop-filter-mothers-day-3660926/)
- - [T-Mobile Fiber plans could get a cheaper tier, but with a major catch](https://www.androidauthority.com/t-mobile-new-fiber-plans-leak-3662322/)
- - [How Kosovo&#39;s tech industry, driven by local companies like business outsource provider SPEEEX, is helping cut youth unemployment and changing Pristina&#39;s skyline &lpar;Bloomberg&rpar;](https://www.techmeme.com/260430/p11#a260430p11)<!-- TECH:END -->
+ - [iOS 27 will offer a range of AI features that can still be ignored](https://appleinsider.com/articles/26/04/30/ios-27-will-offer-a-range-of-ai-features-that-can-still-be-ignored?utm_source=rss)
+ - [Sergey Brin-backed Building a Better California says two ballot countermeasures to the proposed wealth tax are on track to qualify for the November ballot &lpar;Laura J. Nelson/Wall Street Journal&rpar;](https://www.techmeme.com/260430/p15#a260430p15)
+ - [OpenAI’s new security model is for ‘critical cyber defenders’ only](https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
