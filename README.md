@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Eve Aqua Smart Water Controller Lets You Water Your Garden From Your Phone](https://www.wired.com/review/review-eve-aqua-smart-water-controller/)
- - [Google TV is in trouble, and the latest update only makes it worse](https://www.androidauthority.com/google-tv-in-trouble-april-2026-update-makes-worse-3662027/)
- - [The Person Behind Those Viral Polycule Ads Says It’s Just a Joke](https://www.wired.com/story/the-person-behind-those-viral-polycule-ads-says-its-just-a-joke/)<!-- TECH:END -->
+ - [Waterdrop Filter is a smarter choice for everyday wellbeing this Mother’s Day](https://www.androidauthority.com/waterdrop-filter-mothers-day-3660926/)
+ - [T-Mobile Fiber plans could get a cheaper tier, but with a major catch](https://www.androidauthority.com/t-mobile-new-fiber-plans-leak-3662322/)
+ - [How Kosovo&#39;s tech industry, driven by local companies like business outsource provider SPEEEX, is helping cut youth unemployment and changing Pristina&#39;s skyline &lpar;Bloomberg&rpar;](https://www.techmeme.com/260430/p11#a260430p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
