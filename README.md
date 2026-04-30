@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rate this setup.](http://9gag.com/gag/ary70y0)
- - ⏩ [Choose](http://9gag.com/gag/a87x9q3)
- - 👉 [That too right before appraisal time](http://9gag.com/gag/axyq8ZM)<!-- MEMES:END -->
+ - 💣 [Choose](http://9gag.com/gag/a87x9q3)
+ - ⏩ [That too right before appraisal time](http://9gag.com/gag/axyq8ZM)
+ - 👉 [That 2nd guy](http://9gag.com/gag/aVvy8ey)<!-- MEMES:END -->
 
 ---
 
