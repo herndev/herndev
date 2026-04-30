@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix starts rolling out its new Clips vertical video feed as a separate tab in the UK, the US, Canada, Australia, India, and four other countries &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260430/p24#a260430p24)
- - [Sources: the EU is drafting a revised Chips Act II, set for late May, that would grant it power to invest directly in large, cross-border manufacturing projects &lpar;Bloomberg&rpar;](https://www.techmeme.com/260430/p23#a260430p23)
- - [Casa, which uses lidar scanners and AI to catalog homes and manage proactive maintenance alongside human workers, raised $27M, including a $20M Series A &lpar;Michael J. de la Merced/New York Times&rpar;](https://www.techmeme.com/260430/p22#a260430p22)<!-- TECH:END -->
+ - [Cloudflare says AI agents can now create Cloudflare accounts, start paid subscriptions, register domains, and deploy apps on behalf of users &lpar;Cloudflare&rpar;](https://www.techmeme.com/260430/p30#a260430p30)
+ - [Sources: the NSA has been testing Anthropic&#39;s Mythos model to find vulnerabilities in Microsoft products and widely used software from other companies &lpar;Jake Bleiberg/Bloomberg&rpar;](https://www.techmeme.com/260430/p29#a260430p29)
+ - [How Adam Scott became an accidental horror movie star](https://www.theverge.com/entertainment/920921/adam-scott-interview-hokum-horror)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
