@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take it easy and be smart.](http://9gag.com/gag/agmz9En)
- - ⏩ [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)
+ - 💣 [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)
+ - ⏩ [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
  - 👉 [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)<!-- MEMES:END -->
 
 ---
