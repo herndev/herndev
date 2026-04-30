@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 27 will offer a range of AI features that can still be ignored](https://appleinsider.com/articles/26/04/30/ios-27-will-offer-a-range-of-ai-features-that-can-still-be-ignored?utm_source=rss)
- - [Sergey Brin-backed Building a Better California says two ballot countermeasures to the proposed wealth tax are on track to qualify for the November ballot &lpar;Laura J. Nelson/Wall Street Journal&rpar;](https://www.techmeme.com/260430/p15#a260430p15)
- - [OpenAI’s new security model is for ‘critical cyber defenders’ only](https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber)<!-- TECH:END -->
+ - [Instagram is expanding its recommendation restrictions beyond Reels to photos and carousels, targeting accounts that post unoriginal content like tweet roundups &lpar;Mia Sato/The Verge&rpar;](https://www.techmeme.com/260430/p18#a260430p18)
+ - [Best Gifts for Hikers, Backpackers, Outdoorsy People &lpar;2026&rpar;](https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/)
+ - [Instagram says it doesn’t want your tweet round ups](https://www.theverge.com/news/920999/instagram-says-it-doesnt-want-your-tweet-round-ups)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
