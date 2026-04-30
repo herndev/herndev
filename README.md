@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Massachusetts-based brain implant company Axoft raised a $55M Series A and says it tested its device in a Shanghai patient, with plans for more trials in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/260429/p63#a260429p63)
- - [Samsung reports Q1 revenue up 69% YoY to ~$90.2B, vs. ~$89.4B est., and operating profit up 756% to ~$38.5B, vs. ~$37.2B est., driven by AI-linked memory demand &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/260429/p62#a260429p62)
- - [Sources: SoftBank plans to create an AI and robotics company called Roze in the US to build data centers and list it as early as 2026, seeking a $100B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/260429/p61#a260429p61)<!-- TECH:END -->
+ - [Visa says its stablecoin settlement pilot supports nine networks, including Base, Polygon, Canton Network, Arc, and Tempo, and has hit a $7B annualized run rate &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/260429/p67#a260429p67)
+ - [How US schools&#39; overreliance on YouTube for educational content encourages students to drift into endless video scrolling on school-issued devices &lpar;Shalini Ramachandran/Wall Street Journal&rpar;](http://www.techmeme.com/260429/p66#a260429p66)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, April 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-april-30/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
