@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Meet now lets you choose what’s included in your meeting notes](https://www.androidauthority.com/google-meet-notes-customization-3662613/)
- - [Apple earnings crush Wall Street consensus again, Q2 record smashed](https://appleinsider.com/articles/26/04/30/apple-earnings-crush-wall-street-consensus-again-q2-record-smashed?utm_source=rss)
- - [China demand hinges on good products that resonate with customers, Cook says](https://appleinsider.com/articles/26/04/30/china-demand-hinges-on-good-products-that-resonate-with-customers-cook-says?utm_source=rss)<!-- TECH:END -->
+ - [Apple is predicting up to a $110 billion fiscal third quarter 2026](https://appleinsider.com/articles/26/04/30/apple-is-predicting-up-to-a-110-billion-fiscal-third-quarter-2026?utm_source=rss)
+ - [Apple&#39;s memory stockpile is holding for now, but price rises still loom](https://appleinsider.com/articles/26/04/30/apples-memory-stockpile-is-holding-for-now-but-price-rises-still-loom?utm_source=rss)
+ - [Mac mini &amp; Mac Studio supply won&#39;t recover for several months](https://appleinsider.com/articles/26/04/30/mac-lineup-is-doing-so-well-that-apple-cant-keep-up-with-demand?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
