@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cute reporter](http://9gag.com/gag/aByBM4Z)
- - ⏩ [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
- - 👉 [I was in my early thirties when I took a stand...](http://9gag.com/gag/aRBqGOQ)<!-- MEMES:END -->
+ - 💣 [That 2nd guy](http://9gag.com/gag/aVvy8ey)
+ - ⏩ [Uploading my old 9gag collection 160](http://9gag.com/gag/aGy4v3z)
+ - 👉 [The Man, The Myth, The Perpetual Trial](http://9gag.com/gag/aAyz7E9)<!-- MEMES:END -->
 
 ---
 
