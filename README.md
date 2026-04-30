@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk v. Altman: internal 2017 emails show Musk sought majority voting control over OpenAI co-founders, withheld promised funding, and tried to poach researchers &lpar;Wired&rpar;](http://www.techmeme.com/260429/p71#a260429p71)
- - [FDA launches a pilot using AI and cloud computing to give the agency a &quot;direct data feed&quot; to real-time clinical data, aiming to shorten drug approval timelines &lpar;Frank Konkel/Nextgov/FCW&rpar;](http://www.techmeme.com/260429/p70#a260429p70)
- - [SenseTime releases SenseNova-U1, an open-source image model that it says can &quot;read&quot; images without translating them to text, reducing computing power needs &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/260429/p69#a260429p69)<!-- TECH:END -->
+ - [Anthropic unveils BioMysteryBench to test Claude&#39;s bioinformatics skills against human experts, and says Mythos solved ~30% of 23 questions that stumped experts &lpar;Anthropic&rpar;](http://www.techmeme.com/260430/p4#a260430p4)
+ - [Nike Promo Codes and Deals: 30% Off](https://www.wired.com/story/nike-promo-code/)
+ - [Hyundai unveils Pleos Connect, a next-generation infotainment system with Gleo AI voice assistant, debuting in May on the new Grandeur sedan in South Korea &lpar;Hyonhee Shin/Bloomberg&rpar;](http://www.techmeme.com/260430/p3#a260430p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
