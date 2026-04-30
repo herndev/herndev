@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Choose](http://9gag.com/gag/a87x9q3)
- - ⏩ [That too right before appraisal time](http://9gag.com/gag/axyq8ZM)
- - 👉 [That 2nd guy](http://9gag.com/gag/aVvy8ey)<!-- MEMES:END -->
+ - 💣 [Cute reporter](http://9gag.com/gag/aByBM4Z)
+ - ⏩ [A friendly candiru wants to say hello..](http://9gag.com/gag/a5Q0APV)
+ - 👉 [I was in my early thirties when I took a stand...](http://9gag.com/gag/aRBqGOQ)<!-- MEMES:END -->
 
 ---
 
