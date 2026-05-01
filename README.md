@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fun, which builds fiat and crypto payment rails for platforms like Polymarket and Aave, raised a $72M Series A in January, co-led by Multicoin and SignalFire &lpar;Ben Weiss/Fortune&rpar;](https://www.techmeme.com/260501/p12#a260501p12)
- - [This accessory can snap a Steam Controller to your phone — or almost anything else](https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock)
- - [Players from the NBA, NFL, and MLB call for a ban on betting &amp;#8216;unders&amp;#8217;](https://www.theverge.com/entertainment/922244/nba-nfl-mlb-prediction-market-unders-bets)<!-- TECH:END -->
+ - [Meta acquires a startup Assured Robot Intelligence to bolster its robotics team, which is working on humanoid hardware and the underlying AI that powers it &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260501/p15#a260501p15)
+ - [Amazon&amp;#8217;s built-in AI price history expands to show the entire last year](https://www.theverge.com/tech/922302/amazon-price-tracker-year)
+ - [Dreame — the vacuum company — just ‘launched’ its own phones](https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
