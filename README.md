@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)
- - ⏩ [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
- - 👉 [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)<!-- MEMES:END -->
+ - 💣 [Attaching this to job applications when they ask for a cover letter:](http://9gag.com/gag/a7oRgNx)
+ - ⏩ [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)
+ - 👉 [Stolen car parts, from Japan, smuggled and reassembled in 3rd world country to be sold as a road legal vehicle](http://9gag.com/gag/aW43APx)<!-- MEMES:END -->
 
 ---
 
