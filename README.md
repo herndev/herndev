@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Navy awards Domino Data Lab a contract worth up to $100M for AI software that teaches underwater drones to identify new mines in the Strait of Hormuz &lpar;Mike Stone/Reuters&rpar;](https://www.techmeme.com/260501/p10#a260501p10)
- - [Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic](https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia)
- - [The Verge’s 2026 Mother’s Day gift guide](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)<!-- TECH:END -->
+ - [Aurzen’s tiny trifold projector is almost 40 percent off right now](https://www.theverge.com/gadgets/921686/aurzen-zip-mini-projector-garmin-venu-4-watch-deal-sale)
+ - [You Found Satoshi? Let’s See the Receipts](https://www.wired.com/story/you-found-satoshi-lets-see-the-receipts/)
+ - [What the analysts said about Apple&#39;s record-breaking second quarter](https://appleinsider.com/articles/26/05/01/what-the-analysts-said-about-apples-record-breaking-second-quarter?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
