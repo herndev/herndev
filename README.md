@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Christian content creators are outsourcing AI slop to gig workers on Fiverr](https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop)
- - [Survey reveals how Pixel fans truly feel about the Tensor G5’s lackluster gaming power](https://www.androidauthority.com/tensor-g5-gaming-performance-poll-3662768/)
- - [Oura just fixed two of cycle tracking’s biggest blind spots](https://www.androidauthority.com/oura-launches-hormonal-health-features-3662688/)<!-- TECH:END -->
+ - [The US Navy awards Domino Data Lab a contract worth up to $100M for AI software that teaches underwater drones to identify new mines in the Strait of Hormuz &lpar;Mike Stone/Reuters&rpar;](https://www.techmeme.com/260501/p10#a260501p10)
+ - [Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic](https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia)
+ - [The Verge’s 2026 Mother’s Day gift guide](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
