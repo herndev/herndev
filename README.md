@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Android 17 trick could make ChatGPT’s screen sharing way smoother on your phone](https://www.androidauthority.com/chatgpt-android-17-new-screen-sharing-3662693/)
- - [Researchers detail CopyFail, a now-patched Linux vulnerability that lets unprivileged users gain admin access, as many distributions have yet to add fixes &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260501/p2#a260501p2)
- - [50% Off Home Depot Promo Codes | May 2026](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
+ - [China&#39;s EV makers are competing on in-car AI features; ByteDance says its Doubao AI is used in 7M+ cars across 145 models, including from Mercedes, Audi, and VW &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260501/p3#a260501p3)
+ - [I compared the Motorola Razr Fold and Pixel 10 Pro Fold — and Google is in trouble](https://www.androidauthority.com/motorola-razr-fold-vs-google-pixel-10-pro-fold-3662261/)
+ - [This Indigenous Language Survived Russian Occupation. Can It Survive YouTube?](https://www.wired.com/story/youtube-promote-russian-language-kyrgyzstan/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
