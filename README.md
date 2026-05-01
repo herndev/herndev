@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Max 2 one-month review: Spot the difference?](https://appleinsider.com/articles/26/05/01/airpods-max-2-one-month-review-spot-the-difference?utm_source=rss)
- - [Mac mini pricing shifts, $599 config disappears from Apple store](https://appleinsider.com/articles/26/05/01/mac-mini-pricing-shifts-599-config-disappears-from-apple-store?utm_source=rss)
- - [Some retail traders are training AI agents to buy and sell assets on their behalf, as exchanges like Polymarket and Bybit roll out agent-friendly interfaces &lpar;Emily Nicolle/Bloomberg&rpar;](https://www.techmeme.com/260501/p19#a260501p19)<!-- TECH:END -->
+ - [Sources: Cerebras is seeking to raise as much as $4B in its IPO and is targeting a valuation of about $40B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260501/p23#a260501p23)
+ - [How influencers boosting US-based AI and opposing Chinese AI are paid with money tied to Leading the Future, funded by execs from OpenAI, Palantir, a16z, others &lpar;Taylor Lorenz/Wired&rpar;](https://www.techmeme.com/260501/p22#a260501p22)
+ - [&quot;Podslop&quot; is flooding listening platforms like Spotify; Podcast Index: of ~11K new podcast feeds in a recent 9-day span, ~39% were likely for AI content shows &lpar;Ashley Carman/Bloomberg&rpar;](https://www.techmeme.com/260501/p21#a260501p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
