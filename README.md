@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aurzen’s tiny trifold projector is almost 40 percent off right now](https://www.theverge.com/gadgets/921686/aurzen-zip-mini-projector-garmin-venu-4-watch-deal-sale)
- - [You Found Satoshi? Let’s See the Receipts](https://www.wired.com/story/you-found-satoshi-lets-see-the-receipts/)
- - [What the analysts said about Apple&#39;s record-breaking second quarter](https://appleinsider.com/articles/26/05/01/what-the-analysts-said-about-apples-record-breaking-second-quarter?utm_source=rss)<!-- TECH:END -->
+ - [Price war: Apple&#39;s 1TB M5 MacBook Pro with 24GB RAM plunges to $1,699](https://appleinsider.com/articles/26/05/01/price-war-apples-1tb-m5-macbook-pro-with-24gb-ram-plunges-to-1699?utm_source=rss)
+ - [Weird Pixel Buds bug is causing ANC and transparency toggles to vanish](https://www.androidauthority.com/pixel-buds-anc-controls-disappear-3662799/)
+ - [Aurzen’s tiny trifold projector is almost 40 percent off right now](https://www.theverge.com/gadgets/921686/aurzen-zip-mini-projector-garmin-venu-4-watch-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
