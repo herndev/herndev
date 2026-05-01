@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)
+ - 💣 [World is not save anymore, this young dude get kidnapped by older lady](http://9gag.com/gag/adBDw3M)
  - ⏩ [Toxic work environment](http://9gag.com/gag/aqyownM)
- - 👉 [Hospitality](http://9gag.com/gag/a34XgxN)<!-- MEMES:END -->
+ - 👉 [Only if they renamed it Desert Harem Babes](http://9gag.com/gag/avyKjOW)<!-- MEMES:END -->
 
 ---
 
