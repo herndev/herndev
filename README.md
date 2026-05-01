@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)
+ - 💣 [Japanese made a robotic tongue that works just like the real one](http://9gag.com/gag/aAyz5q2)
  - ⏩ [Toxic work environment](http://9gag.com/gag/aqyownM)
- - 👉 [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)<!-- MEMES:END -->
+ - 👉 [They told her she could do anything with her ass](http://9gag.com/gag/aW43XA4)<!-- MEMES:END -->
 
 ---
 
