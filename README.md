@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta acquires a startup Assured Robot Intelligence to bolster its robotics team, which is working on humanoid hardware and the underlying AI that powers it &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260501/p15#a260501p15)
- - [Amazon&amp;#8217;s built-in AI price history expands to show the entire last year](https://www.theverge.com/tech/922302/amazon-price-tracker-year)
- - [Dreame — the vacuum company — just ‘launched’ its own phones](https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular)<!-- TECH:END -->
+ - [All the evidence revealed so far in Musk v. Altman](https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial)
+ - [The gender gap in AI use may be a matter of visibility more than usage, as data suggests women face more judgment for using AI and are less likely to admit it &lpar;Issie Lapowsky/Bloomberg&rpar;](https://www.techmeme.com/260501/p17#a260501p17)
+ - [This Eye-Catching Indoor Garden Is 20 Percent Off Right Now](https://www.wired.com/story/lettuce-grow-mothers-day-sale-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
