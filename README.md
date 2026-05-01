@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Western Digital reports Q3 revenue up 45% YoY to $3.34B, vs. $3.25B est., and forecasts Q4 revenue above estimates; WDC drops 7%+ after hours &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260430/p61#a260430p61)
- - [Sandisk reports Q3 revenue up 251% YoY to $5.95B, vs. $4.72B est., consumer revenue below est., and forecasts Q4 revenue above est.; SNDK drops 5%+ after hours &lpar;Britney Nguyen/MarketWatch&rpar;](https://www.techmeme.com/260430/p60#a260430p60)
- - [Good Luck Getting a Mac Mini for the Next ‘Several Months’](https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/)<!-- TECH:END -->
+ - [Apple forecasts Q3 revenue above estimates and reports Q2 results above projections in China but below expectations in the Americas and Europe regions &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260430/p63#a260430p63)
+ - [How Shivon Zilis Operated as Elon Musk’s OpenAI Insider](https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/)
+ - [Intel shares jumped 114% in April, hitting a record on April 24 and lifting its market cap past $470B, closing out the chipmaker&#39;s best month on record &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/260430/p62#a260430p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
