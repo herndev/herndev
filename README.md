@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [17 Best Graduation Gifts That Aren&#39;t Totally Cringe &lpar;2026&rpar;](https://www.wired.com/gallery/best-graduation-gifts/)
- - [Sources: the US DOD strikes agreements with Nvidia, Microsoft, Reflection AI, and AWS to use their AI tools on classified military networks for &quot;lawful&quot; use &lpar;Katrina Manson/Bloomberg&rpar;](https://www.techmeme.com/260501/p6#a260501p6)
- - [Apple at 50: Steve Jobs, the first star CEO](https://appleinsider.com/articles/26/05/01/apple-at-50-steve-jobs-the-first-star-ceo?utm_source=rss)<!-- TECH:END -->
+ - [Christian content creators are outsourcing AI slop to gig workers on Fiverr](https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop)
+ - [Survey reveals how Pixel fans truly feel about the Tensor G5’s lackluster gaming power](https://www.androidauthority.com/tensor-g5-gaming-performance-poll-3662768/)
+ - [Oura just fixed two of cycle tracking’s biggest blind spots](https://www.androidauthority.com/oura-launches-hormonal-health-features-3662688/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
