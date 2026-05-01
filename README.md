@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Price war: Apple&#39;s 1TB M5 MacBook Pro with 24GB RAM plunges to $1,699](https://appleinsider.com/articles/26/05/01/price-war-apples-1tb-m5-macbook-pro-with-24gb-ram-plunges-to-1699?utm_source=rss)
- - [Weird Pixel Buds bug is causing ANC and transparency toggles to vanish](https://www.androidauthority.com/pixel-buds-anc-controls-disappear-3662799/)
- - [Aurzen’s tiny trifold projector is almost 40 percent off right now](https://www.theverge.com/gadgets/921686/aurzen-zip-mini-projector-garmin-venu-4-watch-deal-sale)<!-- TECH:END -->
+ - [Fun, which builds fiat and crypto payment rails for platforms like Polymarket and Aave, raised a $72M Series A in January, co-led by Multicoin and SignalFire &lpar;Ben Weiss/Fortune&rpar;](https://www.techmeme.com/260501/p12#a260501p12)
+ - [This accessory can snap a Steam Controller to your phone — or almost anything else](https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock)
+ - [Players from the NBA, NFL, and MLB call for a ban on betting &amp;#8216;unders&amp;#8217;](https://www.theverge.com/entertainment/922244/nba-nfl-mlb-prediction-market-unders-bets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
