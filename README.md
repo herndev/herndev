@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Getting strangers to dance with you is my new favorite hobby](http://9gag.com/gag/a7oRgEe)
- - ⏩ [Take it easy and be smart.](http://9gag.com/gag/agmz9En)
- - 👉 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)<!-- MEMES:END -->
+ - 💣 [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)
+ - ⏩ [Hospitality](http://9gag.com/gag/a34XgxN)
+ - 👉 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)<!-- MEMES:END -->
 
 ---
 
