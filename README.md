@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The persistent notion that AI disruption could create a permanent underclass signals how much collateral damage AI companies might tolerate in pursuit of AGI &lpar;Jasmine Sun/New York Times&rpar;](https://www.techmeme.com/260430/p65#a260430p65)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, May 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-1/)
- - [Sens. Kirsten Gillibrand and Dave McCormick introduce a bill banning members of the legislative and executive branches from trading on prediction markets &lpar;Jason Beeferman/Politico&rpar;](https://www.techmeme.com/260430/p64#a260430p64)<!-- TECH:END -->
+ - [Sources: Huawei expects AI chip revenue to hit ~$12B in 2026, up 60% from $7.5B in 2025, as orders for its Ascend 950PR chip surge and Nvidia stalls in China &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260501/p1#a260501p1)
+ - [Musk v. Altman: OpenAI lawyers claim Shivon Zilis, a longtime Musk employee and mother to four of his children, acted as a covert liaison between him and OpenAI &lpar;Wired&rpar;](https://www.techmeme.com/260430/p66#a260430p66)
+ - [The persistent notion that AI disruption could create a permanent underclass signals how much collateral damage AI companies might tolerate in pursuit of AGI &lpar;Jasmine Sun/New York Times&rpar;](https://www.techmeme.com/260430/p65#a260430p65)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
