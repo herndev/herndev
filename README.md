@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are `These Fans` in the room with us right now?](http://9gag.com/gag/a9ygGv6)
+ - 💣 [New meme format?](http://9gag.com/gag/a87xg8d)
  - ⏩ [World is not save anymore, this young dude get kidnapped by older lady](http://9gag.com/gag/adBDw3M)
- - 👉 [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)<!-- MEMES:END -->
+ - 👉 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)<!-- MEMES:END -->
 
 ---
 
