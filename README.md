@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When it&#39;s green, you can cook.](http://9gag.com/gag/ajPee00)
- - ⏩ [Only if they renamed it Desert Harem Babes](http://9gag.com/gag/avyKjOW)
- - 👉 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)<!-- MEMES:END -->
+ - 💣 [Are `These Fans` in the room with us right now?](http://9gag.com/gag/a9ygGv6)
+ - ⏩ [World is not save anymore, this young dude get kidnapped by older lady](http://9gag.com/gag/adBDw3M)
+ - 👉 [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)<!-- MEMES:END -->
 
 ---
 
