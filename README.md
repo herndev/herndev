@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Logitech G512 X review](https://www.pcgamer.com/hardware/gaming-keyboards/logitech-g512-x-review/)
- - [Full list of The Sims 4 Businesses &amp; Hobbies cheats with skills, perks, and hidden reward traits](https://www.pcgamer.com/games/the-sims/sims-4-businesses-hobbies-cheats/)
- - [The new Moomin game is lovely, but also illustrates the limits of cozy comfort over the harsher lessons of a children&#39;s book](https://www.pcgamer.com/games/life-sim/the-new-moomintroll-game-is-lovely-but-also-illustrates-the-limits-of-cozy-comfort-over-the-harsher-lessons-of-a-childrens-book/)<!-- GAME:END -->
+ - [The Empire&#39;s most OTT lord finally gets his due, portrayed by a YouTuber hamming it up in Total War: Warhammer 3](https://www.pcgamer.com/games/strategy/the-empires-most-ott-lord-finally-gets-his-due-portrayed-by-a-youtuber-hamming-it-up-in-total-war-warhammer-3/)
+ - [Total War: Warhammer 40,000 will have destructible terrain elements: &#39;That forest, if you don&#39;t like it, you don&#39;t have to keep it&#39;](https://www.pcgamer.com/games/strategy/total-war-warhammer-40-000-will-have-destructible-terrain-elements-that-forest-if-you-dont-like-it-you-dont-have-to-keep-it/)
+ - [Subnautica 2 is the latest behemoth to mess with other games&#39; launch plans at the last minute: &#39;we need to dodge the Leviathan&#39;](https://www.pcgamer.com/gaming-industry/subnautica-2-is-the-latest-behemoth-to-mess-with-other-games-launch-plans-at-the-last-minute-we-need-to-dodge-the-leviathan/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
