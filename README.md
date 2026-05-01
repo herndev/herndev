@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Friday the 13th Part 2 was reviled by critics, but it turned Jason into a household name](https://www.polygon.com/friday-the-13th-2-anniversary/)
- - [Steam Deck restocks or a pile of Steam Frames and Machines? Either way, Valve&#39;s been importing a whole heap of &#39;game consoles&#39;](https://www.pcgamer.com/hardware/steam-deck-restocks-or-a-pile-of-steam-frames-and-machines-either-way-valves-been-importing-a-whole-heap-of-game-consoles/)
- - [EA now lets you pre-order battle passes in Battlefield 6 for exclusive rewards, because of course it does](https://www.pcgamer.com/games/fps/ea-now-lets-you-pre-order-battle-passes-in-battlefield-6-for-exclusive-rewards-because-of-course-it-does/)<!-- GAME:END -->
+ - [5 new Switch 2 games to play in May 2026](https://www.polygon.com/new-switch-2-games-may-2026/)
+ - [GameSir G7 Pro 8K Aimlabs Edition review](https://www.pcgamer.com/hardware/controllers/gamesir-g7-pro-8k-aimlabs-edition-review/)
+ - [Friday the 13th Part 2 was reviled by critics, but it turned Jason into a household name](https://www.polygon.com/friday-the-13th-2-anniversary/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
