@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese made a robotic tongue that works just like the real one](http://9gag.com/gag/aAyz5q2)
- - ⏩ [Toxic work environment](http://9gag.com/gag/aqyownM)
- - 👉 [They told her she could do anything with her ass](http://9gag.com/gag/aW43XA4)<!-- MEMES:END -->
+ - 💣 [It&#39;s like they take it as a personal challenge](http://9gag.com/gag/aE0m4g9)
+ - ⏩ [Humor](http://9gag.com/gag/ary7wR0)
+ - 👉 [Sustainable cat fashion](http://9gag.com/gag/aYQX0Km)<!-- MEMES:END -->
 
 ---
 
