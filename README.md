@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)
- - ⏩ [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)
- - 👉 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)<!-- MEMES:END -->
+ - 💣 [Visiting family in UK](http://9gag.com/gag/azxp3yb)
+ - ⏩ [`Autotune was invented 1997`. Rappers in 1995:](http://9gag.com/gag/ary7LQp)
+ - 👉 [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)<!-- MEMES:END -->
 
 ---
 
