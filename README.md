@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple forecasts Q3 revenue above estimates and reports Q2 results above projections in China but below expectations in the Americas and Europe regions &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260430/p63#a260430p63)
- - [How Shivon Zilis Operated as Elon Musk’s OpenAI Insider](https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/)
- - [Intel shares jumped 114% in April, hitting a record on April 24 and lifting its market cap past $470B, closing out the chipmaker&#39;s best month on record &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/260430/p62#a260430p62)<!-- TECH:END -->
+ - [The persistent notion that AI disruption could create a permanent underclass signals how much collateral damage AI companies might tolerate in pursuit of AGI &lpar;Jasmine Sun/New York Times&rpar;](https://www.techmeme.com/260430/p65#a260430p65)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, May 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-1/)
+ - [Sens. Kirsten Gillibrand and Dave McCormick introduce a bill banning members of the legislative and executive branches from trading on prediction markets &lpar;Jason Beeferman/Politico&rpar;](https://www.techmeme.com/260430/p64#a260430p64)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
