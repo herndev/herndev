@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s like they take it as a personal challenge](http://9gag.com/gag/aE0m4g9)
- - ⏩ [Humor](http://9gag.com/gag/ary7wR0)
- - 👉 [Sustainable cat fashion](http://9gag.com/gag/aYQX0Km)<!-- MEMES:END -->
+ - 💣 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)
+ - ⏩ [Hospitality](http://9gag.com/gag/a34XgxN)
+ - 👉 [This human excrement, may she find no peace](http://9gag.com/gag/aByBz5N)<!-- MEMES:END -->
 
 ---
 
