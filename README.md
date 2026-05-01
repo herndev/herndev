@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)
- - ⏩ [Im getting my passport now](http://9gag.com/gag/a7oRxpe)
- - 👉 [Only if they renamed it Desert Harem Babes](http://9gag.com/gag/avyKjOW)<!-- MEMES:END -->
+ - 💣 [When it&#39;s green, you can cook.](http://9gag.com/gag/ajPee00)
+ - ⏩ [Only if they renamed it Desert Harem Babes](http://9gag.com/gag/avyKjOW)
+ - 👉 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)<!-- MEMES:END -->
 
 ---
 
