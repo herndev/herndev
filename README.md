@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Canonical, the company that makes Ubuntu Linux, says its web infrastructure is under a &#39;sustained, cross-border attack&#39;](https://www.pcgamer.com/software/security/canonical-the-company-that-makes-ubuntu-linux-says-its-web-infrastructure-is-under-a-sustained-cross-border-attack/)
- - [The Empire&#39;s most OTT lord finally gets his due, portrayed by a YouTuber hamming it up in Total War: Warhammer 3](https://www.pcgamer.com/games/strategy/the-empires-most-ott-lord-finally-gets-his-due-portrayed-by-a-youtuber-hamming-it-up-in-total-war-warhammer-3/)
- - [Total War: Warhammer 40,000 will have destructible terrain elements: &#39;That forest, if you don&#39;t like it, you don&#39;t have to keep it&#39;](https://www.pcgamer.com/games/strategy/total-war-warhammer-40-000-will-have-destructible-terrain-elements-that-forest-if-you-dont-like-it-you-dont-have-to-keep-it/)<!-- GAME:END -->
+ - [Friday the 13th Part 2 was reviled by critics, but it turned Jason into a household name](https://www.polygon.com/friday-the-13th-2-anniversary/)
+ - [Steam Deck restocks or a pile of Steam Frames and Machines? Either way, Valve&#39;s been importing a whole heap of &#39;game consoles&#39;](https://www.pcgamer.com/hardware/steam-deck-restocks-or-a-pile-of-steam-frames-and-machines-either-way-valves-been-importing-a-whole-heap-of-game-consoles/)
+ - [EA now lets you pre-order battle passes in Battlefield 6 for exclusive rewards, because of course it does](https://www.pcgamer.com/games/fps/ea-now-lets-you-pre-order-battle-passes-in-battlefield-6-for-exclusive-rewards-because-of-course-it-does/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
