@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)
- - ⏩ [Hospitality](http://9gag.com/gag/a34XgxN)
- - 👉 [This human excrement, may she find no peace](http://9gag.com/gag/aByBz5N)<!-- MEMES:END -->
+ - 💣 [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)
+ - ⏩ [Toxic work environment](http://9gag.com/gag/aqyownM)
+ - 👉 [Hospitality](http://9gag.com/gag/a34XgxN)<!-- MEMES:END -->
 
 ---
 
