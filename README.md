@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s EV makers are competing on in-car AI features; ByteDance says its Doubao AI is used in 7M+ cars across 145 models, including from Mercedes, Audi, and VW &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260501/p3#a260501p3)
- - [I compared the Motorola Razr Fold and Pixel 10 Pro Fold — and Google is in trouble](https://www.androidauthority.com/motorola-razr-fold-vs-google-pixel-10-pro-fold-3662261/)
- - [This Indigenous Language Survived Russian Occupation. Can It Survive YouTube?](https://www.wired.com/story/youtube-promote-russian-language-kyrgyzstan/)<!-- TECH:END -->
+ - [Soundcore Nebula P1 Projector Review &lpar;2026&rpar;: Compact and Portable for Indoor-Outdoor Viewing](https://www.wired.com/review/soundcore-nebula-p1/)
+ - [Xiaomi Smart Band 10 Pro leaks with a suave ceramic design](https://www.androidauthority.com/xiaomi-smart-band-10-pro-leak-ceramic-3662709/)
+ - [A 240Hz display? The latest OnePlus 16 leak reeks of desperation](https://www.androidauthority.com/oneplus-16-spec-race-problem-3662533/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
