@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Soundcore Nebula P1 Projector Review &lpar;2026&rpar;: Compact and Portable for Indoor-Outdoor Viewing](https://www.wired.com/review/soundcore-nebula-p1/)
- - [Xiaomi Smart Band 10 Pro leaks with a suave ceramic design](https://www.androidauthority.com/xiaomi-smart-band-10-pro-leak-ceramic-3662709/)
- - [A 240Hz display? The latest OnePlus 16 leak reeks of desperation](https://www.androidauthority.com/oneplus-16-spec-race-problem-3662533/)<!-- TECH:END -->
+ - [Microsoft wants lawyers to trust its new AI agent in Word documents](https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai)
+ - [The Pixel 10 Pro was my favorite phone camera — until I tested this viral Android phone](https://www.androidauthority.com/pixel-vs-find-x9-ultra-camera-shootout-3661508/)
+ - [What Chef Jon Kung Swears By in the Kitchen &lpar;2026&rpar;](https://www.wired.com/story/jon-kung-starter-pack/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
