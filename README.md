@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`You&#39;re 37?!`](http://9gag.com/gag/awyWp0R)
- - ⏩ [Good pay](http://9gag.com/gag/aRBqqXy)
- - 👉 [World is not save anymore, this young dude get kidnapped by older lady](http://9gag.com/gag/adBDw3M)<!-- MEMES:END -->
+ - 💣 [World is not save anymore, this young dude get kidnapped by older lady](http://9gag.com/gag/adBDw3M)
+ - ⏩ [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)
+ - 👉 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)<!-- MEMES:END -->
 
 ---
 
