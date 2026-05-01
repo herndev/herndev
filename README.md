@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not all heroes wear capes, some drive Camrys](http://9gag.com/gag/aO8LErr)
- - ⏩ [Stay classy, San Diego](http://9gag.com/gag/a6ZYgBR)
- - 👉 [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)<!-- MEMES:END -->
+ - 💣 [The corporate cartels still didn&#39;t get the message. That there are still outliers in the market that are still pro consumer. You can&#39;t push anti-consumer practices if the consumers still have a choice. All hail STEAM!](http://9gag.com/gag/agmzw6n)
+ - ⏩ [I guess I&#39;ll have the chicken](http://9gag.com/gag/aPAbLzQ)
+ - 👉 [Sustainable cat fashion](http://9gag.com/gag/aYQX0Km)<!-- MEMES:END -->
 
 ---
 
