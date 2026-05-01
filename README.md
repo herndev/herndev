@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [World is not save anymore, this young dude get kidnapped by older lady](http://9gag.com/gag/adBDw3M)
- - ⏩ [Homie playing 4d chess](http://9gag.com/gag/aPAbqGK)
- - 👉 [Im getting my passport now](http://9gag.com/gag/a7oRxpe)<!-- MEMES:END -->
+ - 💣 [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)
+ - ⏩ [Im getting my passport now](http://9gag.com/gag/a7oRxpe)
+ - 👉 [Only if they renamed it Desert Harem Babes](http://9gag.com/gag/avyKjOW)<!-- MEMES:END -->
 
 ---
 
