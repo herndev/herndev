@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Mother&#39;s Day Deals on Mom-Approved Gifts &lpar;2026&rpar;](https://www.wired.com/story/mothers-day-deals-2026/)
- - [Release candidates of iOS 26.5, macOS Tahoe 26.5 are out now](https://appleinsider.com/articles/26/05/04/release-candidates-of-ios-265-macos-tahoe-265-are-out-now?utm_source=rss)
- - [Nearly 20 US state-run health insurance exchanges include ad trackers that send user data like race and citizenship info to companies like Meta, TikTok, Google &lpar;Bloomberg&rpar;](https://www.techmeme.com/260504/p28#a260504p28)<!-- TECH:END -->
+ - [Google’s got a new tool for making sure your phone is running the Android apps it should](https://www.androidauthority.com/android-app-binary-transparency-3663287/)
+ - [Why there is a 60%+ chance of AI systems autonomously building their own successors by the end of 2028, and a look at the consequences of fully automated AI R&amp;D &lpar;Jack Clark/Import AI&rpar;](https://www.techmeme.com/260504/p32#a260504p32)
+ - [Samsung is gifting free smart scales with your Galaxy Watch purchase](https://www.androidauthority.com/galaxy-watch-free-withings-scale-3663288/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
