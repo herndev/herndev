@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dara Khosrowshahi on replacing Uber drivers — and himself — with AI](https://www.theverge.com/podcast/922909/dara-khosrowshahi-uber-drivers-ai-hotels-service)
- - [Tesla hits Musk’s threshold for ‘safe unsupervised’ driving](https://www.theverge.com/transportation/922900/tesla-10-billion-miles-unsupervised-fsd-robotaxi-elon-musk)
- - [The Pixel 11 may not get the Face ID competitor we were expecting](https://www.androidauthority.com/google-pixel-11-ir-face-unlock-project-toscana-delay-3663249/)<!-- TECH:END -->
+ - [SAP to acquire Dremio, an open data lakehouse provider, and Prior Labs, which it pledges to invest €1B in over four years, hoping to create a frontier AI lab &lpar;Larry Dignan/Constellation Research&rpar;](https://www.techmeme.com/260504/p20#a260504p20)
+ - [Katie Haun raises $1B for two funds split between early and later-stage investments, looking at startups blending financial services, AI, and alternative assets &lpar;Natasha Mascarenhas/Bloomberg&rpar;](https://www.techmeme.com/260504/p19#a260504p19)
+ - [Amazon&amp;#8217;s trying to turn its massive shipping operation into another AWS](https://www.theverge.com/tech/923013/amazon-supply-chain-services)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
