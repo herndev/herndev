@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI launches Grok 4.3, featuring &quot;always-on reasoning&quot;, 1M token context window, and low API pricing, and releases a voice cloning suite called Custom Voices &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260501/p27#a260501p27)
- - [Waymo Is Trying to Crack Down on Solo Kids in Driverless Cars](https://www.wired.com/story/waymo-trying-to-crack-down-on-solo-kids-in-driverless-cars/)
- - [Servers operated by Ubuntu and its parent company Canonical have been down for more than a day, following a &quot;sustained, cross-border attack&quot; &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260501/p26#a260501p26)<!-- TECH:END -->
+ - [GameStop CEO Ryan Cohen says he is making an unsolicited ~$56B offer to buy eBay and will take the offer to shareholders if the company is not receptive &lpar;Lauren Thomas/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p13#a260503p13)
+ - [A profile of music AI startup Suno, valued at ~$2.5B with 2M+ paying users and $300M annualized revenue as of February, as it battles record labels and artists &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/260503/p12#a260503p12)
+ - [Sunday Reboot: Motorsport, money, and &#39;Ted Lasso&#39;](https://appleinsider.com/articles/26/05/03/sunday-reboot-motorsport-money-and-ted-lasso?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
