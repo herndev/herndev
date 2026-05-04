@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The WYBOT S3 is the world’s first robot pool cleaner that cleans, docks, and empties itself](https://www.androidauthority.com/wybot-s3-robot-pool-cleaner-3654643/)
- - [What I Packed to Run 80 Miles Across the Italian Apennine Mountains](https://www.wired.com/story/what-i-packed-to-run-80-miles-italian-apennine/)
- - [Amazon debuts Supply Chain Services, allowing other companies to use its logistics network to move, store, and deliver raw materials, final products, and more &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/260504/p10#a260504p10)<!-- TECH:END -->
+ - [RFK Jr.’s New Podcast Is as Weird as You’d Expect](https://www.wired.com/story/rfk-jrs-new-podcast-is-as-weird-as-youd-expect/)
+ - [Do Lightsaber Blades Have Mass?](https://www.wired.com/story/do-lightsaber-blades-have-mass/)
+ - [The WYBOT S3 is the world’s first robot pool cleaner that cleans, docks, and empties itself](https://www.androidauthority.com/wybot-s3-robot-pool-cleaner-3654643/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
