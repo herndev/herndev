@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite Fan Conspiracy Theories, Dispatch Devs Say They Didn’t Play Favorites With The Game’s Love Triangle](https://kotaku.com/dispatch-romance-kiss-invisigal-blonde-blazer-robert-2000692981)
- - [GameStop confirms $56 billion eBay acquisition bid, promises $2 billion in cuts at the company if the takeover is successful](https://www.pcgamer.com/gaming-industry/gamestop-confirms-usd56-billion-ebay-acquisition-bid-promises-usd2-billion-in-cuts-at-the-company-if-the-takeover-is-successful/)
- - [Steam&#39;s Gabe Newell casually reminds the world he&#39;s filthy rich in promo video for new yacht company](https://www.polygon.com/steam-valve-gabe-newell-wealth-oceanco-mega-yacht-scuba-diving/)<!-- GAME:END -->
+ - [Resident Evil Requiem Producer Says The Negative Reaction To Grace’s DLSS 5 AI Slop Filter Proves Capcom ‘Got The Design Right’](https://kotaku.com/resident-evil-requiem-grace-dlss-5-ai-slop-filter-redesign-capcom-masato-kumazawa-2000692973)
+ - [D&amp;D&#39;s official new series fixes the biggest issue with shows like Critical Role](https://www.polygon.com/dnd-dungeons-dragons-dungeon-masters-official-actual-play-lenght-episodes/)
+ - [Mark Hamill&#39;s 1980 Muppet Show episode predicted Star Wars&#39; future](https://www.polygon.com/mark-hamill-muppet-show-episode-star-wars-day/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
