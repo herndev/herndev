@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s got a new tool for making sure your phone is running the Android apps it should](https://www.androidauthority.com/android-app-binary-transparency-3663287/)
- - [Why there is a 60%+ chance of AI systems autonomously building their own successors by the end of 2028, and a look at the consequences of fully automated AI R&amp;D &lpar;Jack Clark/Import AI&rpar;](https://www.techmeme.com/260504/p32#a260504p32)
- - [Samsung is gifting free smart scales with your Galaxy Watch purchase](https://www.androidauthority.com/galaxy-watch-free-withings-scale-3663288/)<!-- TECH:END -->
+ - [Nothing’s latest cryptic teaser could be hinting at a new version of the Ear Open](https://www.androidauthority.com/nothing-ear-open-new-color-teaser-3663315/)
+ - [Former Trump and Biden AI advisers Dean Ball and Ben Buchanan urge bipartisan action on AI security risks, including tighter export controls and safety audits &lpar;New York Times&rpar;](https://www.techmeme.com/260504/p33#a260504p33)
+ - [T-Mobile’s off-grid satellite coverage now works beyond the US](https://www.androidauthority.com/t-mobile-satellite-roaming-canada-new-zealand-3663306/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
