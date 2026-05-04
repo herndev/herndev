@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [FUUUTUUURE](http://9gag.com/gag/aByBpVP)
+ - 💣 [Can you guess?](http://9gag.com/gag/aQzWGrK)
  - ⏩ [Cats and dogs](http://9gag.com/gag/ae98L3p)
- - 👉 [Dit is Berlin, wa?](http://9gag.com/gag/aYQX3GV)<!-- MEMES:END -->
+ - 👉 [Finally some good news](http://9gag.com/gag/aByBA8D)<!-- MEMES:END -->
 
 ---
 
