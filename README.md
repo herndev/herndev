@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RFK Jr.’s New Podcast Is as Weird as You’d Expect](https://www.wired.com/story/rfk-jrs-new-podcast-is-as-weird-as-youd-expect/)
- - [Do Lightsaber Blades Have Mass?](https://www.wired.com/story/do-lightsaber-blades-have-mass/)
- - [The WYBOT S3 is the world’s first robot pool cleaner that cleans, docks, and empties itself](https://www.androidauthority.com/wybot-s3-robot-pool-cleaner-3654643/)<!-- TECH:END -->
+ - [Roku and TCL are being sued for allegedly bricking smart TVs with bad updates](https://www.androidauthority.com/roku-tcl-sued-for-bricked-smart-tvs-3663179/)
+ - [More than just RAM and SSD shortages are keeping Mac supplies low](https://appleinsider.com/articles/26/05/04/more-than-just-ram-and-ssd-shortages-are-keeping-mac-supplies-low?utm_source=rss)
+ - [How AI tools such as Naver&#39;s Talking Buddy and SuperBrain are helping South Korea&#39;s elderly ease loneliness, detect emergencies, and slow cognitive decline &lpar;Choe Sang-Hun/New York Times&rpar;](https://www.techmeme.com/260504/p11#a260504p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
