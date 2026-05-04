@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Science behind screws](http://9gag.com/gag/avyKNe5)
+ - 💣 [Toxic masculinity!](http://9gag.com/gag/azxpNrK)
  - ⏩ [My cat at 3 a.m for no reason](http://9gag.com/gag/aqyoqWY)
- - 👉 [Don&#39;t come home drunk](http://9gag.com/gag/aoyQbM0)<!-- MEMES:END -->
+ - 👉 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)<!-- MEMES:END -->
 
 ---
 
