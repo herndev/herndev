@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Firm handshake](http://9gag.com/gag/a87xZXe)
+ - 💣 [Women - idk I&#39;ve known him for only few years](http://9gag.com/gag/a87xRvV)
  - ⏩ [Some Cartoon-Box](http://9gag.com/gag/a4POXvw)
- - 👉 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)<!-- MEMES:END -->
+ - 👉 [Firm handshake](http://9gag.com/gag/a87xZXe)<!-- MEMES:END -->
 
 ---
 
