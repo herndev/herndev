@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto stocks jump after lawmakers struck a compromise on the CLARITY Act to preserve stablecoin rewards under certain conditions; Circle&#39;s stock closed up ~20% &lpar;Tanaya Macheel/CNBC&rpar;](https://www.techmeme.com/260504/p41#a260504p41)
- - [Elon Musk will settle the feds’ Twitter lawsuit with pocket change](https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x)
- - [Epic vs Apple fight could be put on hold again if Supreme Court sides with Apple](https://appleinsider.com/articles/26/05/04/epic-vs-apple-fight-could-be-put-on-hold-again-if-supreme-court-sides-with-apple?utm_source=rss)<!-- TECH:END -->
+ - [Lattice Semiconductor agrees to acquire AMI for $1.65B in cash and stock; Georgia-based AMI provides firmware and infrastructure manageability for cloud and AI &lpar;Mike Rogoway/Oregonian&rpar;](https://www.techmeme.com/260504/p44#a260504p44)
+ - [Grab reports Q1 revenue up 24% YoY to $955M, above est., and a $154M adjusted EBITDA, vs. $146.3M est., helped by resilient demand for ride hailing and delivery &lpar;Olivia Poh/Bloomberg&rpar;](https://www.techmeme.com/260504/p43#a260504p43)
+ - [What the Spirit Airlines Implosion Means for Your Vacation](https://www.wired.com/story/what-the-spirit-airlines-implosion-means-for-your-vacation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
