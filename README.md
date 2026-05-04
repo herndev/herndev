@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can you guess?](http://9gag.com/gag/aQzWGrK)
+ - 💣 [The Password](http://9gag.com/gag/aW43rAZ)
  - ⏩ [Cats and dogs](http://9gag.com/gag/ae98L3p)
- - 👉 [Finally some good news](http://9gag.com/gag/aByBA8D)<!-- MEMES:END -->
+ - 👉 [Guys](http://9gag.com/gag/a1m3ywG)<!-- MEMES:END -->
 
 ---
 
