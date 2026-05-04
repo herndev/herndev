@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s handling of vibe coding apps draws complaints from startups like Replit and Anything that iOS App Store rules for their apps are applied erratically &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/260503/p15#a260503p15)
- - [How music streaming services are adapting to the rise of AI-generated music by labeling, deranking, and demonetizing tracks, using AI detection tools, and more &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/260503/p14#a260503p14)
- - [GameStop CEO Ryan Cohen says he is making an unsolicited ~$56B offer to buy eBay and will take the offer to shareholders if the company is not receptive &lpar;Lauren Thomas/Wall Street Journal&rpar;](https://www.techmeme.com/260503/p13#a260503p13)<!-- TECH:END -->
+ - [Sources: SoftBank plans to make lithium- and cobalt-free data center batteries in Japan as soon as FY2027, as Japan tries to cut its reliance on Chinese metals &lpar;Natsuki Yamamoto/Nikkei Asia&rpar;](https://www.techmeme.com/260504/p1#a260504p1)
+ - [China&#39;s Linkerbot, which holds 80%+ of global dexterous robotic hands market, raised a Series B+ at a $3B valuation and seeks a $6B valuation in its next round &lpar;Laurie Chen/Reuters&rpar;](https://www.techmeme.com/260503/p17#a260503p17)
+ - [Walmart’s Gemini speaker leak suggests Google is opening up its ecosystem again](https://www.androidauthority.com/walmart-onn-smart-speaker-gemini-3663039/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
