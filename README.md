@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The guy who spoiled smartphone launches for years just called it quits](https://www.androidauthority.com/evan-blass-quits-leaks-3663072/)
- - [An analysis of 1.6M Polymarket accounts since November 2022: 0.1% of users take 67% of profits, with the highest-frequency traders seeing the most success &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260504/p5#a260504p5)
- - [Plex will soon charge you 50% more to stream your own media remotely](https://www.androidauthority.com/plex-remote-watch-pass-price-increase-3663060/)<!-- TECH:END -->
+ - [The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters &lpar;2026&rpar;](https://www.wired.com/gallery/best-star-wars-gifts/)
+ - [Circle to Search update lets Google look beyond your screen content](https://www.androidauthority.com/circle-to-search-ask-about-screen-pdf-url-update-3663080/)
+ - [Legislators and experts criticize the EU&#39;s €20B sovereign compute data center plan, questioning whether there is demand and the plan&#39;s reliance on Nvidia GPUs &lpar;Pieter Haeck/Politico&rpar;](https://www.techmeme.com/260504/p6#a260504p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
