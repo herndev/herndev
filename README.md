@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Title](http://9gag.com/gag/agmzPN1)
- - ⏩ [Sheppard dog visits the baby goats for a little late night check up](http://9gag.com/gag/aGy4WBG)
+ - ⏩ [I have this mental illness](http://9gag.com/gag/aoyQX5n)
  - 👉 [Don&#39;t come home drunk](http://9gag.com/gag/aoyQbM0)<!-- MEMES:END -->
 
 ---
