@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investment and tech firm Long Lake says it will buy corporate travel operator Amex GBT for $6.3B, citing AI&#39;s ability to modernize the business travel sector &lpar;Reuters&rpar;](https://www.techmeme.com/260504/p24#a260504p24)
- - [Inside Palantir Foundation&#39;s Atlantic and Pacific Forum at Yale for invited students: State Dept. and Palantir staff share a vision of mixing AI and state power &lpar;Alex Bronzini-Vender/New York Magazine&rpar;](https://www.techmeme.com/260504/p23#a260504p23)
- - [Apple&#39;s M5 15-inch MacBook Air drops to record low $1,129 with coupon](https://appleinsider.com/articles/26/05/04/apples-m5-15-inch-macbook-air-drops-to-record-low-1129-with-coupon?utm_source=rss)<!-- TECH:END -->
+ - [Best Mother&#39;s Day Deals on Mom-Approved Gifts &lpar;2026&rpar;](https://www.wired.com/story/mothers-day-deals-2026/)
+ - [Release candidates of iOS 26.5, macOS Tahoe 26.5 are out now](https://appleinsider.com/articles/26/05/04/release-candidates-of-ios-265-macos-tahoe-265-are-out-now?utm_source=rss)
+ - [Nearly 20 US state-run health insurance exchanges include ad trackers that send user data like race and citizenship info to companies like Meta, TikTok, Google &lpar;Bloomberg&rpar;](https://www.techmeme.com/260504/p28#a260504p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
