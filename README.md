@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [The Password](http://9gag.com/gag/aW43rAZ)
- - ⏩ [Show me your best goth baddies](http://9gag.com/gag/aZZO6On)
+ - ⏩ [Firm handshake](http://9gag.com/gag/a87xZXe)
  - 👉 [Robbery](http://9gag.com/gag/abAn9OX)<!-- MEMES:END -->
 
 ---
