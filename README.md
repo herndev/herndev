@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women - idk I&#39;ve known him for only few years](http://9gag.com/gag/a87xRvV)
- - ⏩ [Some Cartoon-Box](http://9gag.com/gag/a4POXvw)
- - 👉 [Firm handshake](http://9gag.com/gag/a87xZXe)<!-- MEMES:END -->
+ - 💣 [FUUUTUUURE](http://9gag.com/gag/aByBpVP)
+ - ⏩ [Cats and dogs](http://9gag.com/gag/ae98L3p)
+ - 👉 [Dit is Berlin, wa?](http://9gag.com/gag/aYQX3GV)<!-- MEMES:END -->
 
 ---
 
