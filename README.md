@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bridge more Apple Home &amp; Matter devices with Homebridge 2.0](https://appleinsider.com/articles/26/05/04/bridge-more-apple-home-matter-devices-with-homebridge-20?utm_source=rss)
- - [Musk v. Altman: Stuart Russell, Musk&#39;s only AI expert witness, warned of AI risks but his concerns about AI&#39;s existential threats were excluded by the judge &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260504/p35#a260504p35)
- - [Sources: the Trump administration is discussing an EO to create an AI working group to examine AI oversight procedures, including vetting models before release &lpar;New York Times&rpar;](https://www.techmeme.com/260504/p34#a260504p34)<!-- TECH:END -->
+ - [Duolingo reports Q1 revenue up 27% YoY to $292M, vs. $288.5M est., bookings up 14% to $308.5M, and expects slower growth in Q2; DUOL drops 12%+ after hours &lpar;Akash Sriram/Reuters&rpar;](https://www.techmeme.com/260504/p40#a260504p40)
+ - [Musk v. Altman: Greg Brockman testifies that his OpenAI stake is now worth ~$30B; a Musk attorney asks why he hasn&#39;t donated $29B to OpenAI&#39;s nonprofit arm &lpar;Bloomberg&rpar;](https://www.techmeme.com/260504/p39#a260504p39)
+ - [EU DMA after-action review didn&#39;t go the way that Apple wanted](https://appleinsider.com/articles/26/05/04/eu-dma-after-action-review-didnt-go-the-way-that-apple-wanted?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
