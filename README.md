@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Duolingo reports Q1 revenue up 27% YoY to $292M, vs. $288.5M est., bookings up 14% to $308.5M, and expects slower growth in Q2; DUOL drops 12%+ after hours &lpar;Akash Sriram/Reuters&rpar;](https://www.techmeme.com/260504/p40#a260504p40)
- - [Musk v. Altman: Greg Brockman testifies that his OpenAI stake is now worth ~$30B; a Musk attorney asks why he hasn&#39;t donated $29B to OpenAI&#39;s nonprofit arm &lpar;Bloomberg&rpar;](https://www.techmeme.com/260504/p39#a260504p39)
- - [EU DMA after-action review didn&#39;t go the way that Apple wanted](https://appleinsider.com/articles/26/05/04/eu-dma-after-action-review-didnt-go-the-way-that-apple-wanted?utm_source=rss)<!-- TECH:END -->
+ - [Crypto stocks jump after lawmakers struck a compromise on the CLARITY Act to preserve stablecoin rewards under certain conditions; Circle&#39;s stock closed up ~20% &lpar;Tanaya Macheel/CNBC&rpar;](https://www.techmeme.com/260504/p41#a260504p41)
+ - [Elon Musk will settle the feds’ Twitter lawsuit with pocket change](https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x)
+ - [Epic vs Apple fight could be put on hold again if Supreme Court sides with Apple](https://appleinsider.com/articles/26/05/04/epic-vs-apple-fight-could-be-put-on-hold-again-if-supreme-court-sides-with-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
