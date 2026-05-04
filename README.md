@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys](http://9gag.com/gag/a1m3ywG)
- - ⏩ [The Password](http://9gag.com/gag/aW43rAZ)
+ - 💣 [The Password](http://9gag.com/gag/aW43rAZ)
+ - ⏩ [Show me your best goth baddies](http://9gag.com/gag/aZZO6On)
  - 👉 [Cats and dogs](http://9gag.com/gag/ae98L3p)<!-- MEMES:END -->
 
 ---
