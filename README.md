@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Toxic masculinity!](http://9gag.com/gag/azxpNrK)
- - ⏩ [My cat at 3 a.m for no reason](http://9gag.com/gag/aqyoqWY)
- - 👉 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)<!-- MEMES:END -->
+ - 💣 [The Password](http://9gag.com/gag/aW43rAZ)
+ - ⏩ [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)
+ - 👉 [Firm handshake](http://9gag.com/gag/a87xZXe)<!-- MEMES:END -->
 
 ---
 
