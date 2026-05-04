@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plex will soon charge you 50% more to stream your own media remotely](https://www.androidauthority.com/plex-remote-watch-pass-price-increase-3663060/)
- - [A profile of William Savitt, Sam Altman&#39;s lead lawyer against Elon Musk, who represented Twitter against Musk in 2022 and helped OpenAI&#39;s for-profit transition &lpar;Jacob Shamsian/Business Insider&rpar;](https://www.techmeme.com/260504/p4#a260504p4)
- - [Chinese state media: AI-generated Chinese microdramas to be worth $3B+ in 2026, out of a $14B+ total microdrama market, boosted by tools like Seedance 2.0 &lpar;New York Times&rpar;](https://www.techmeme.com/260504/p3#a260504p3)<!-- TECH:END -->
+ - [The guy who spoiled smartphone launches for years just called it quits](https://www.androidauthority.com/evan-blass-quits-leaks-3663072/)
+ - [An analysis of 1.6M Polymarket accounts since November 2022: 0.1% of users take 67% of profits, with the highest-frequency traders seeing the most success &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260504/p5#a260504p5)
+ - [Plex will soon charge you 50% more to stream your own media remotely](https://www.androidauthority.com/plex-remote-watch-pass-price-increase-3663060/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
