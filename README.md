@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [French SpongeBob narrator: many years later](http://9gag.com/gag/a1m39V2)
- - ⏩ [Cats and dogs](http://9gag.com/gag/ae98L3p)
- - 👉 [Show me your best goth baddies](http://9gag.com/gag/aZZO6On)<!-- MEMES:END -->
+ - 💣 [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)
+ - ⏩ [Firm handshake](http://9gag.com/gag/a87xZXe)
+ - 👉 [Any ideas?](http://9gag.com/gag/aGy431z)<!-- MEMES:END -->
 
 ---
 
