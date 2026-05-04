@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/agmzPN1)
- - ⏩ [I have this mental illness](http://9gag.com/gag/aoyQX5n)
- - 👉 [Don&#39;t come home drunk](http://9gag.com/gag/aoyQbM0)<!-- MEMES:END -->
+ - 💣 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)
+ - ⏩ [French SpongeBob narrator: many years later](http://9gag.com/gag/a1m39V2)
+ - 👉 [Show me your best goth baddies](http://9gag.com/gag/aZZO6On)<!-- MEMES:END -->
 
 ---
 
