@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Password](http://9gag.com/gag/aW43rAZ)
- - ⏩ [Cats and dogs](http://9gag.com/gag/ae98L3p)
- - 👉 [Guys](http://9gag.com/gag/a1m3ywG)<!-- MEMES:END -->
+ - 💣 [Guys](http://9gag.com/gag/a1m3ywG)
+ - ⏩ [The Password](http://9gag.com/gag/aW43rAZ)
+ - 👉 [Cats and dogs](http://9gag.com/gag/ae98L3p)<!-- MEMES:END -->
 
 ---
 
