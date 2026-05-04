@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)
- - ⏩ [French SpongeBob narrator: many years later](http://9gag.com/gag/a1m39V2)
- - 👉 [Show me your best goth baddies](http://9gag.com/gag/aZZO6On)<!-- MEMES:END -->
+ - 💣 [Guys](http://9gag.com/gag/a1m3ywG)
+ - ⏩ [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)
+ - 👉 [Cats and dogs](http://9gag.com/gag/ae98L3p)<!-- MEMES:END -->
 
 ---
 
