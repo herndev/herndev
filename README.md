@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SAP to acquire Dremio, an open data lakehouse provider, and Prior Labs, which it pledges to invest €1B in over four years, hoping to create a frontier AI lab &lpar;Larry Dignan/Constellation Research&rpar;](https://www.techmeme.com/260504/p20#a260504p20)
- - [Katie Haun raises $1B for two funds split between early and later-stage investments, looking at startups blending financial services, AI, and alternative assets &lpar;Natasha Mascarenhas/Bloomberg&rpar;](https://www.techmeme.com/260504/p19#a260504p19)
- - [Amazon&amp;#8217;s trying to turn its massive shipping operation into another AWS](https://www.theverge.com/tech/923013/amazon-supply-chain-services)<!-- TECH:END -->
+ - [Investment and tech firm Long Lake says it will buy corporate travel operator Amex GBT for $6.3B, citing AI&#39;s ability to modernize the business travel sector &lpar;Reuters&rpar;](https://www.techmeme.com/260504/p24#a260504p24)
+ - [Inside Palantir Foundation&#39;s Atlantic and Pacific Forum at Yale for invited students: State Dept. and Palantir staff share a vision of mixing AI and state power &lpar;Alex Bronzini-Vender/New York Magazine&rpar;](https://www.techmeme.com/260504/p23#a260504p23)
+ - [Apple&#39;s M5 15-inch MacBook Air drops to record low $1,129 with coupon](https://appleinsider.com/articles/26/05/04/apples-m5-15-inch-macbook-air-drops-to-record-low-1129-with-coupon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
