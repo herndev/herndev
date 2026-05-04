@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank plans to make lithium- and cobalt-free data center batteries in Japan as soon as FY2027, as Japan tries to cut its reliance on Chinese metals &lpar;Natsuki Yamamoto/Nikkei Asia&rpar;](https://www.techmeme.com/260504/p1#a260504p1)
- - [China&#39;s Linkerbot, which holds 80%+ of global dexterous robotic hands market, raised a Series B+ at a $3B valuation and seeks a $6B valuation in its next round &lpar;Laurie Chen/Reuters&rpar;](https://www.techmeme.com/260503/p17#a260503p17)
- - [Walmart’s Gemini speaker leak suggests Google is opening up its ecosystem again](https://www.androidauthority.com/walmart-onn-smart-speaker-gemini-3663039/)<!-- TECH:END -->
+ - [Plex will soon charge you 50% more to stream your own media remotely](https://www.androidauthority.com/plex-remote-watch-pass-price-increase-3663060/)
+ - [A profile of William Savitt, Sam Altman&#39;s lead lawyer against Elon Musk, who represented Twitter against Musk in 2022 and helped OpenAI&#39;s for-profit transition &lpar;Jacob Shamsian/Business Insider&rpar;](https://www.techmeme.com/260504/p4#a260504p4)
+ - [Chinese state media: AI-generated Chinese microdramas to be worth $3B+ in 2026, out of a $14B+ total microdrama market, boosted by tools like Seedance 2.0 &lpar;New York Times&rpar;](https://www.techmeme.com/260504/p3#a260504p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
