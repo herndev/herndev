@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing’s latest cryptic teaser could be hinting at a new version of the Ear Open](https://www.androidauthority.com/nothing-ear-open-new-color-teaser-3663315/)
- - [Former Trump and Biden AI advisers Dean Ball and Ben Buchanan urge bipartisan action on AI security risks, including tighter export controls and safety audits &lpar;New York Times&rpar;](https://www.techmeme.com/260504/p33#a260504p33)
- - [T-Mobile’s off-grid satellite coverage now works beyond the US](https://www.androidauthority.com/t-mobile-satellite-roaming-canada-new-zealand-3663306/)<!-- TECH:END -->
+ - [Bridge more Apple Home &amp; Matter devices with Homebridge 2.0](https://appleinsider.com/articles/26/05/04/bridge-more-apple-home-matter-devices-with-homebridge-20?utm_source=rss)
+ - [Musk v. Altman: Stuart Russell, Musk&#39;s only AI expert witness, warned of AI risks but his concerns about AI&#39;s existential threats were excluded by the judge &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260504/p35#a260504p35)
+ - [Sources: the Trump administration is discussing an EO to create an AI working group to examine AI oversight procedures, including vetting models before release &lpar;New York Times&rpar;](https://www.techmeme.com/260504/p34#a260504p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
