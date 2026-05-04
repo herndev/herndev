@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 new Switch 2 games to play in May 2026](https://www.polygon.com/new-switch-2-games-may-2026/)
- - [GameSir G7 Pro 8K Aimlabs Edition review](https://www.pcgamer.com/hardware/controllers/gamesir-g7-pro-8k-aimlabs-edition-review/)
- - [Friday the 13th Part 2 was reviled by critics, but it turned Jason into a household name](https://www.polygon.com/friday-the-13th-2-anniversary/)<!-- GAME:END -->
+ - [Despite Fan Conspiracy Theories, Dispatch Devs Say They Didn’t Play Favorites With The Game’s Love Triangle](https://kotaku.com/dispatch-romance-kiss-invisigal-blonde-blazer-robert-2000692981)
+ - [GameStop confirms $56 billion eBay acquisition bid, promises $2 billion in cuts at the company if the takeover is successful](https://www.pcgamer.com/gaming-industry/gamestop-confirms-usd56-billion-ebay-acquisition-bid-promises-usd2-billion-in-cuts-at-the-company-if-the-takeover-is-successful/)
+ - [Steam&#39;s Gabe Newell casually reminds the world he&#39;s filthy rich in promo video for new yacht company](https://www.polygon.com/steam-valve-gabe-newell-wealth-oceanco-mega-yacht-scuba-diving/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
