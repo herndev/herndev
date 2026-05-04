@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku and TCL are being sued for allegedly bricking smart TVs with bad updates](https://www.androidauthority.com/roku-tcl-sued-for-bricked-smart-tvs-3663179/)
- - [More than just RAM and SSD shortages are keeping Mac supplies low](https://appleinsider.com/articles/26/05/04/more-than-just-ram-and-ssd-shortages-are-keeping-mac-supplies-low?utm_source=rss)
- - [How AI tools such as Naver&#39;s Talking Buddy and SuperBrain are helping South Korea&#39;s elderly ease loneliness, detect emergencies, and slow cognitive decline &lpar;Choe Sang-Hun/New York Times&rpar;](https://www.techmeme.com/260504/p11#a260504p11)<!-- TECH:END -->
+ - [This Galaxy Z Flip 8 leak sounds almost too good to be true](https://www.androidauthority.com/galaxy-z-flip-8-leak-too-good-to-be-true-3663191/)
+ - [New leak suggests Galaxy S27 Ultra’s 200MP main camera might not be boring after all](https://www.androidauthority.com/samsung-galaxy-s27-ultra-200mp-variable-aperture-3663173/)
+ - [Hisense aggressively cuts the price of its RGB LED TV on release day](https://www.theverge.com/tech/922571/hisense-cuts-price-ur9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
