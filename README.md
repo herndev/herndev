@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters &lpar;2026&rpar;](https://www.wired.com/gallery/best-star-wars-gifts/)
- - [Circle to Search update lets Google look beyond your screen content](https://www.androidauthority.com/circle-to-search-ask-about-screen-pdf-url-update-3663080/)
- - [Legislators and experts criticize the EU&#39;s €20B sovereign compute data center plan, questioning whether there is demand and the plan&#39;s reliance on Nvidia GPUs &lpar;Pieter Haeck/Politico&rpar;](https://www.techmeme.com/260504/p6#a260504p6)<!-- TECH:END -->
+ - [Motorola just proved it still doesn’t care about Android updates — and it’s only getting worse](https://www.androidauthority.com/motorola-still-doesnt-care-about-android-updates-3662785/)
+ - [Science Has Found Even More Ways Coffee Is Good for You](https://www.wired.com/story/science-has-found-even-more-ways-coffee-is-good-for-you/)
+ - [15 Best MagSafe Wireless Chargers &lpar;2026&rpar;: Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
