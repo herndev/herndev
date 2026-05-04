@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The Password](http://9gag.com/gag/aW43rAZ)
- - ⏩ [Firm handshake](http://9gag.com/gag/a87xZXe)
- - 👉 [Robbery](http://9gag.com/gag/abAn9OX)<!-- MEMES:END -->
+ - ⏩ [Cats and dogs](http://9gag.com/gag/ae98L3p)
+ - 👉 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)<!-- MEMES:END -->
 
 ---
 
