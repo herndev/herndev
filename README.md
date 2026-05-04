@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [French SpongeBob narrator: many years later](http://9gag.com/gag/a1m39V2)
- - ⏩ [Firm handshake](http://9gag.com/gag/a87xZXe)
- - 👉 [I wonder what happened.](http://9gag.com/gag/aPAb5yP)<!-- MEMES:END -->
+ - ⏩ [Cats and dogs](http://9gag.com/gag/ae98L3p)
+ - 👉 [Show me your best goth baddies](http://9gag.com/gag/aZZO6On)<!-- MEMES:END -->
 
 ---
 
