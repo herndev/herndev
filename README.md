@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Galaxy Z Flip 8 leak sounds almost too good to be true](https://www.androidauthority.com/galaxy-z-flip-8-leak-too-good-to-be-true-3663191/)
- - [New leak suggests Galaxy S27 Ultra’s 200MP main camera might not be boring after all](https://www.androidauthority.com/samsung-galaxy-s27-ultra-200mp-variable-aperture-3663173/)
- - [Hisense aggressively cuts the price of its RGB LED TV on release day](https://www.theverge.com/tech/922571/hisense-cuts-price-ur9)<!-- TECH:END -->
+ - [Dara Khosrowshahi on replacing Uber drivers — and himself — with AI](https://www.theverge.com/podcast/922909/dara-khosrowshahi-uber-drivers-ai-hotels-service)
+ - [Tesla hits Musk’s threshold for ‘safe unsupervised’ driving](https://www.theverge.com/transportation/922900/tesla-10-billion-miles-unsupervised-fsd-robotaxi-elon-musk)
+ - [The Pixel 11 may not get the Face ID competitor we were expecting](https://www.androidauthority.com/google-pixel-11-ir-face-unlock-project-toscana-delay-3663249/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
