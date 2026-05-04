@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [World is not save anymore, this young dude get kidnapped by older lady](http://9gag.com/gag/adBDw3M)
- - ⏩ [This is really \u201clife changing\u201d](http://9gag.com/gag/aW435mq)
- - 👉 [Buckle Bunny Girls](http://9gag.com/gag/apRZZ9n)<!-- MEMES:END -->
+ - 💣 [Firm handshake](http://9gag.com/gag/a87xZXe)
+ - ⏩ [Some Cartoon-Box](http://9gag.com/gag/a4POXvw)
+ - 👉 [I\u2019d do the same](http://9gag.com/gag/aKGoob3)<!-- MEMES:END -->
 
 ---
 
