@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My cat at 3 a.m for no reason](http://9gag.com/gag/aqyoqWY)
- - ⏩ [Don&#39;t come home drunk](http://9gag.com/gag/aoyQbM0)
- - 👉 [My best friend got hit by a car, he is currently in surgery fighting for his life. Please send good vibes](http://9gag.com/gag/a4POD1Q)<!-- MEMES:END -->
+ - 💣 [French SpongeBob narrator: many years later](http://9gag.com/gag/a1m39V2)
+ - ⏩ [Firm handshake](http://9gag.com/gag/a87xZXe)
+ - 👉 [I wonder what happened.](http://9gag.com/gag/aPAb5yP)<!-- MEMES:END -->
 
 ---
 
