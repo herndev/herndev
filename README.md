@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola just proved it still doesn’t care about Android updates — and it’s only getting worse](https://www.androidauthority.com/motorola-still-doesnt-care-about-android-updates-3662785/)
- - [Science Has Found Even More Ways Coffee Is Good for You](https://www.wired.com/story/science-has-found-even-more-ways-coffee-is-good-for-you/)
- - [15 Best MagSafe Wireless Chargers &lpar;2026&rpar;: Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)<!-- TECH:END -->
+ - [The WYBOT S3 is the world’s first robot pool cleaner that cleans, docks, and empties itself](https://www.androidauthority.com/wybot-s3-robot-pool-cleaner-3654643/)
+ - [What I Packed to Run 80 Miles Across the Italian Apennine Mountains](https://www.wired.com/story/what-i-packed-to-run-80-miles-italian-apennine/)
+ - [Amazon debuts Supply Chain Services, allowing other companies to use its logistics network to move, store, and deliver raw materials, final products, and more &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/260504/p10#a260504p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
