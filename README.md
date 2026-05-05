@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is using AI on Facebook and Instagram to detect under-13 users by analyzing bone structure, height, and visual cues, but says it&#39;s &quot;not facial recognition&quot; &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260505/p13#a260505p13)
- - [PayPal reports Q1 net revenue up 7% YoY to $8.4B, total payment volume up 11% YoY to $464B, active accounts up 1% to 439M, and seeks $1.5B+ in cost savings &lpar;Paige Smith/Bloomberg&rpar;](https://www.techmeme.com/260505/p12#a260505p12)
- - [Crypto exchange Bullish agrees to acquire Equiniti, a UK-based financial services outsourcing business, from Siris Capital in a $4.2B deal, set to close in 2027 &lpar;Emily Nicolle/Bloomberg&rpar;](https://www.techmeme.com/260505/p11#a260505p11)<!-- TECH:END -->
+ - [a16z crypto raised $2.2B for its fifth fund, down from its record $4.5B Fund 4 in May 2022, taking its total capital raised across five funds to ~$9.8B &lpar;Yogita Khatri/The Block&rpar;](https://www.techmeme.com/260505/p20#a260505p20)
+ - [These upcoming flagships are iterative, but still look stunning in new leaked renders](https://www.androidauthority.com/xiaomi-17t-pro-leaked-renders-3663566/)
+ - [Curved-glass 20th-anniversary iPhone may finally introduce solid-state buttons](https://appleinsider.com/articles/26/05/05/curved-glass-20th-anniversary-iphone-may-finally-introduce-solid-state-buttons?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
