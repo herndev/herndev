@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)
- - ⏩ [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
- - 👉 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)<!-- MEMES:END -->
+ - ⏩ [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
+ - 👉 [China irl](http://9gag.com/gag/aYQX2mw)<!-- MEMES:END -->
 
 ---
 
