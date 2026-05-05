@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
- - ⏩ [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
- - 👉 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)<!-- MEMES:END -->
+ - 💣 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
+ - ⏩ [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
+ - 👉 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)<!-- MEMES:END -->
 
 ---
 
