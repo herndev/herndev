@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says GPT-5.5 Instant produces 52.5% fewer hallucinated claims &quot;on high-stakes prompts covering areas like medicine, law, and finance&quot; &lpar;Megan Morrone/Axios&rpar;](https://www.techmeme.com/260505/p35#a260505p35)
- - [Stop Being So Dependent on Your iPhone: Make It a &#39;Dumb&#39; Phone Instead](https://www.cnet.com/tech/mobile/stop-being-so-dependent-on-your-iphone-turn-it-into-a-dumb-phone-instead/)
- - [OpenAI launches GPT-5.5 Instant, which it says is smarter, with more accurate and personalized responses, replacing GPT-5.3 Instant as ChatGPT&#39;s default model &lpar;OpenAI&rpar;](https://www.techmeme.com/260505/p34#a260505p34)<!-- TECH:END -->
+ - [Samsung Driving Insights app could be the backseat driver no one asked for](https://www.androidauthority.com/samsung-driving-insights-one-ui-9-3663782/)
+ - [Maryland lawmakers stand with Apple Towson employees after store closure announcement](https://appleinsider.com/articles/26/05/05/maryland-lawmakers-stand-with-apple-towson-employees-after-store-closure-announcement?utm_source=rss)
+ - [iPhone users will get to select a preferred AI model in iOS 27](https://appleinsider.com/articles/26/05/05/iphone-users-will-get-to-select-a-preferred-ai-model-in-ios-27?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
