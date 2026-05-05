@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can you guess?](http://9gag.com/gag/aQzWGrK)
- - ⏩ [Don&#39;t come home drunk](http://9gag.com/gag/aoyQbM0)
- - 👉 [My best friend got hit by a car, he is currently in surgery fighting for his life. Please send good vibes](http://9gag.com/gag/a4POD1Q)<!-- MEMES:END -->
+ - 💣 [Grilling in Germany](http://9gag.com/gag/a4POvPd)
+ - ⏩ [French SpongeBob narrator: many years later](http://9gag.com/gag/a1m39V2)
+ - 👉 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)<!-- MEMES:END -->
 
 ---
 
