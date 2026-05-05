@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)
+ - 💣 [Some reviews hit different](http://9gag.com/gag/aZZOGKQ)
  - ⏩ [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
- - 👉 [China irl](http://9gag.com/gag/aYQX2mw)<!-- MEMES:END -->
+ - 👉 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)<!-- MEMES:END -->
 
 ---
 
