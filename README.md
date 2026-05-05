@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: OpenAI appears to be fast-tracking its AI agent phone with two NPUs and a custom MediaTek Dimensity 9600 SoC, targeting mass production as early as H1 2027 &lpar;@mingchikuo&rpar;](https://www.techmeme.com/260505/p1#a260505p1)
- - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
- - [Meta Quest Promo Codes: $50 Off | May 2026](https://www.wired.com/story/meta-quest-promo-code/)<!-- TECH:END -->
+ - [How Europe is falling behind in the global crypto race, as delays to the ECB&#39;s digital euro leave the bloc exposed to US-led stablecoin dominance &lpar;Bloomberg&rpar;](https://www.techmeme.com/260505/p2#a260505p2)
+ - [OpenAI might be fast-tracking its AI phone with a powerful new MediaTek chip](https://www.androidauthority.com/openai-phone-development-specs-availability-3663415/)
+ - [Kuo: OpenAI appears to be fast-tracking its AI agent phone with two NPUs and a custom MediaTek Dimensity 9600 SoC, targeting mass production as early as H1 2027 &lpar;@mingchikuo&rpar;](https://www.techmeme.com/260505/p1#a260505p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
