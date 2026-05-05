@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The INIU Pocket Rocket P50 is the smallest 10,000mAh fast-charging power bank you can buy](https://www.androidauthority.com/iniu-pocket-rocket-p50-power-bank-2-3663496/)
- - [Nscale agrees to spend €695M on infrastructure in Portugal in an expansion of its Microsoft partnership, supplying 66K+ Nvidia Rubin GPUs from late 2027 &lpar;Paula Doenecke/Bloomberg&rpar;](https://www.techmeme.com/260505/p8#a260505p8)
- - [Google DeepMind workers are unionizing over AI military contracts](https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel)<!-- TECH:END -->
+ - [Meta is using AI on Facebook and Instagram to detect under-13 users by analyzing bone structure, height, and visual cues, but says it&#39;s &quot;not facial recognition&quot; &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260505/p13#a260505p13)
+ - [PayPal reports Q1 net revenue up 7% YoY to $8.4B, total payment volume up 11% YoY to $464B, active accounts up 1% to 439M, and seeks $1.5B+ in cost savings &lpar;Paige Smith/Bloomberg&rpar;](https://www.techmeme.com/260505/p12#a260505p12)
+ - [Crypto exchange Bullish agrees to acquire Equiniti, a UK-based financial services outsourcing business, from Siris Capital in a $4.2B deal, set to close in 2027 &lpar;Emily Nicolle/Bloomberg&rpar;](https://www.techmeme.com/260505/p11#a260505p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
