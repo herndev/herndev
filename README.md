@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Micron closes up 11% after announcing its highest-capacity SSD has started to ship, lifting its market cap past $700B for the first time; Sandisk closes up 12% &lpar;Lola Murti/CNBC&rpar;](https://www.techmeme.com/260505/p50#a260505p50)
- - [Telehealth Abortion Is Still Possible Without Mifepristone](https://www.wired.com/story/telehealth-abortion-is-still-possible-without-mifepristone/)
- - [A US court sentences a Latvian national to 8.5 years for acting as a negotiator for Russia&#39;s Karakurt ransomware group &lpar;Sergiu Gatlan/BleepingComputer&rpar;](https://www.techmeme.com/260505/p49#a260505p49)<!-- TECH:END -->
+ - [Kaspersky says Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260505/p53#a260505p53)
+ - [Lawsuit over delayed Siri features reaches massive $250M settlement](https://appleinsider.com/articles/26/05/05/lawsuit-over-delayed-siri-features-reaches-massive-250m-settlement?utm_source=rss)
+ - [Google Home&amp;#8217;s Gemini AI can handle more complicated requests](https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
