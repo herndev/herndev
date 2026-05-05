@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kaspersky says Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260505/p53#a260505p53)
- - [Lawsuit over delayed Siri features reaches massive $250M settlement](https://appleinsider.com/articles/26/05/05/lawsuit-over-delayed-siri-features-reaches-massive-250m-settlement?utm_source=rss)
- - [Google Home&amp;#8217;s Gemini AI can handle more complicated requests](https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade)<!-- TECH:END -->
+ - [Delayed Siri features class action suit ends with massive $250M settlement](https://appleinsider.com/articles/26/05/05/lawsuit-over-delayed-siri-features-reaches-massive-250m-settlement?utm_source=rss)
+ - [Sources: Alphabet sold its biggest-ever euro-denominated bonds, raising €9B, and its first Canadian dollar notes, raising CA$8.5B, months after raising $20B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260505/p54#a260505p54)
+ - [Kaspersky says Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260505/p53#a260505p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
