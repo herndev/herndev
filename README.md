@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wish you could upgrade your phone battery? This brand is making it a reality](https://www.androidauthority.com/xiaomi-13-series-battery-replacement-3663611/)
- - [Fitbit’s Public Preview app is missing data for some users](https://www.androidauthority.com/fitbit-app-bugs-today-3663683/)
- - [Intel stock jumps 12%+, hitting a new all-time high, on a report that Apple has had early-stage talks with Intel about enlisting Intel&#39;s chipmaking services &lpar;Lola Murti/CNBC&rpar;](https://www.techmeme.com/260505/p29#a260505p29)<!-- TECH:END -->
+ - [The best signal yet that iPhone 18 won&#39;t ship until 2026 has arrived](https://appleinsider.com/articles/26/05/05/the-best-signal-yet-that-iphone-18-wont-ship-until-2026-has-arrived?utm_source=rss)
+ - [Memo: Xbox CEO Asha Sharma overhauls the group&#39;s leadership, including bringing over executives from Microsoft&#39;s CoreAI engineering unit where she worked before &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260505/p32#a260505p32)
+ - [From Alan Shepard to Artemis, celebrating 65 years of Americans in space](https://www.theverge.com/science/918596/alan-shepard-american-spaceflight-photos-anniversary)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
