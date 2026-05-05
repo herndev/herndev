@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Colorado tech leaders say that burdensome regulations are driving companies away, lawmakers introduce a slimmer version of an AI anti-discrimination bill &lpar;Owen Tucker-Smith/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p46#a260504p46)
  - [Boox Go 10.3 Gen II review: this refresh is both better and somehow worse than the last one](https://appleinsider.com/articles/26/05/05/boox-go-103-gen-ii-review-this-refresh-is-both-better-and-somehow-worse-than-the-last-one?utm_source=rss)
- - [Valve just imported 50 tons of game consoles in two days](https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026)
- - [OpenAI’s president does ‘all the things,’ except answer a question](https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial)<!-- TECH:END -->
+ - [The 40 best Mother’s Day gift ideas for 2026](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
