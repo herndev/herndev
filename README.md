@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
- - ⏩ [FUUUTUUURE](http://9gag.com/gag/aByBpVP)
- - 👉 [My cat at 3 a.m for no reason](http://9gag.com/gag/aqyoqWY)<!-- MEMES:END -->
+ - 💣 [French SpongeBob narrator: many years later](http://9gag.com/gag/a1m39V2)
+ - ⏩ [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
+ - 👉 [Any ideas?](http://9gag.com/gag/aGy431z)<!-- MEMES:END -->
 
 ---
 
