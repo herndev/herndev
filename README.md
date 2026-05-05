@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung may have inadvertently confirmed plans for the Galaxy Watch 9](https://www.androidauthority.com/galaxy-watch-9-samsung-canada-3663830/)
- - [Xbox CEO Asha Sharma says Xbox &quot;will begin winding down Copilot on mobile and will stop development of Copilot on console&quot; as part of a strategic shift &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260505/p43#a260505p43)
- - [Microsoft gives up on Xbox Copilot AI](https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma)<!-- TECH:END -->
+ - [Micron closes up 11% after announcing its highest-capacity SSD has started to ship, lifting its market cap past $700B for the first time; Sandisk closes up 12% &lpar;Lola Murti/CNBC&rpar;](https://www.techmeme.com/260505/p50#a260505p50)
+ - [Telehealth Abortion Is Still Possible Without Mifepristone](https://www.wired.com/story/telehealth-abortion-is-still-possible-without-mifepristone/)
+ - [A US court sentences a Latvian national to 8.5 years for acting as a negotiator for Russia&#39;s Karakurt ransomware group &lpar;Sergiu Gatlan/BleepingComputer&rpar;](https://www.techmeme.com/260505/p49#a260505p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
