@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inference cloud startup DeepInfra raised a $107M Series B co-led by 500 Global and Georges Harik; it currently supports more than 190 open models &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260504/p48#a260504p48)
- - [Sources: Sam Altman discussed spinning out OpenAI&#39;s robotics and consumer hardware divisions in late 2025 to give them more room to grow; the plan was rejected &lpar;Berber Jin/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p47#a260504p47)
- - [As Colorado tech leaders say that burdensome regulations are driving companies away, lawmakers introduce a slimmer version of an AI anti-discrimination bill &lpar;Owen Tucker-Smith/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p46#a260504p46)<!-- TECH:END -->
+ - [Samsung &amp; Intel considered as alternatives to TSMC for Apple Silicon production](https://appleinsider.com/articles/26/05/05/samsung-intel-considered-as-alternatives-to-tsmc-for-apple-silicon-production?utm_source=rss)
+ - [Sources: Apple held exploratory talks with Intel and its executives visited a Samsung plant in Texas to explore producing core chips for its devices in the US &lpar;Bloomberg&rpar;](https://www.techmeme.com/260504/p49#a260504p49)
+ - [We just ordered Walmart’s new budget Google TV streamer — and now you can too](https://www.androidauthority.com/walmart-onn-4k-pro-streaming-device-2026-availability-3663394/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
