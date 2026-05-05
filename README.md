@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung &amp; Intel considered as alternatives to TSMC for Apple Silicon production](https://appleinsider.com/articles/26/05/05/samsung-intel-considered-as-alternatives-to-tsmc-for-apple-silicon-production?utm_source=rss)
- - [Sources: Apple held exploratory talks with Intel and its executives visited a Samsung plant in Texas to explore producing core chips for its devices in the US &lpar;Bloomberg&rpar;](https://www.techmeme.com/260504/p49#a260504p49)
- - [We just ordered Walmart’s new budget Google TV streamer — and now you can too](https://www.androidauthority.com/walmart-onn-4k-pro-streaming-device-2026-availability-3663394/)<!-- TECH:END -->
+ - [Kuo: OpenAI appears to be fast-tracking its AI agent phone with two NPUs and a custom MediaTek Dimensity 9600 SoC, targeting mass production as early as H1 2027 &lpar;@mingchikuo&rpar;](https://www.techmeme.com/260505/p1#a260505p1)
+ - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
+ - [Meta Quest Promo Codes: $50 Off | May 2026](https://www.wired.com/story/meta-quest-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
