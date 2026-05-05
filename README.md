@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can you guess?](http://9gag.com/gag/aQzWGrK)
- - ⏩ [Don&#39;t come home drunk](http://9gag.com/gag/aoyQbM0)
- - 👉 [My best friend got hit by a car, he is currently in surgery fighting for his life. Please send good vibes](http://9gag.com/gag/a4POD1Q)<!-- MEMES:END -->
+ - 💣 [Don&#39;t come home drunk](http://9gag.com/gag/aoyQbM0)
+ - ⏩ [Cats and dogs](http://9gag.com/gag/ae98L3p)
+ - 👉 [Fight 4u right](http://9gag.com/gag/aZZOGD0)<!-- MEMES:END -->
 
 ---
 
