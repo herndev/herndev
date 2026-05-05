@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Colorado tech leaders say that burdensome regulations are driving companies away, lawmakers introduce a slimmer version of an AI anti-discrimination bill &lpar;Owen Tucker-Smith/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p46#a260504p46)
- - [Boox Go 10.3 Gen II review: this refresh is both better and somehow worse than the last one](https://appleinsider.com/articles/26/05/05/boox-go-103-gen-ii-review-this-refresh-is-both-better-and-somehow-worse-than-the-last-one?utm_source=rss)
- - [The 40 best Mother’s Day gift ideas for 2026](https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets)<!-- TECH:END -->
+ - [Inference cloud startup DeepInfra raised a $107M Series B co-led by 500 Global and Georges Harik; it currently supports more than 190 open models &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260504/p48#a260504p48)
+ - [Sources: Sam Altman discussed spinning out OpenAI&#39;s robotics and consumer hardware divisions in late 2025 to give them more room to grow; the plan was rejected &lpar;Berber Jin/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p47#a260504p47)
+ - [As Colorado tech leaders say that burdensome regulations are driving companies away, lawmakers introduce a slimmer version of an AI anti-discrimination bill &lpar;Owen Tucker-Smith/Wall Street Journal&rpar;](https://www.techmeme.com/260504/p46#a260504p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
