@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google hasn’t forgotten about Keep’s lock screen notes &lpar;yet&rpar;](https://www.androidauthority.com/google-keep-lock-screen-notes-again-3663646/)
- - [Samsung may soon let you pick your preferred home screen search service](https://www.androidauthority.com/one-ui-9-finder-google-home-screen-choice-apk-teardown-3663604/)
- - [Seattle-based CopilotKit, whose popular AG-UI protocol lets developers deploy app-native AI agents, raised a $27M Series A led by Glilot, NFX, and SignalFire &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260505/p25#a260505p25)<!-- TECH:END -->
+ - [Wish you could upgrade your phone battery? This brand is making it a reality](https://www.androidauthority.com/xiaomi-13-series-battery-replacement-3663611/)
+ - [Fitbit’s Public Preview app is missing data for some users](https://www.androidauthority.com/fitbit-app-bugs-today-3663683/)
+ - [Intel stock jumps 12%+, hitting a new all-time high, on a report that Apple has had early-stage talks with Intel about enlisting Intel&#39;s chipmaking services &lpar;Lola Murti/CNBC&rpar;](https://www.techmeme.com/260505/p29#a260505p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
