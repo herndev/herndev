@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [a16z crypto raised $2.2B for its fifth fund, down from its record $4.5B Fund 4 in May 2022, taking its total capital raised across five funds to ~$9.8B &lpar;Yogita Khatri/The Block&rpar;](https://www.techmeme.com/260505/p20#a260505p20)
- - [These upcoming flagships are iterative, but still look stunning in new leaked renders](https://www.androidauthority.com/xiaomi-17t-pro-leaked-renders-3663566/)
- - [Curved-glass 20th-anniversary iPhone may finally introduce solid-state buttons](https://appleinsider.com/articles/26/05/05/curved-glass-20th-anniversary-iphone-may-finally-introduce-solid-state-buttons?utm_source=rss)<!-- TECH:END -->
+ - [Google hasn’t forgotten about Keep’s lock screen notes &lpar;yet&rpar;](https://www.androidauthority.com/google-keep-lock-screen-notes-again-3663646/)
+ - [Samsung may soon let you pick your preferred home screen search service](https://www.androidauthority.com/one-ui-9-finder-google-home-screen-choice-apk-teardown-3663604/)
+ - [Seattle-based CopilotKit, whose popular AG-UI protocol lets developers deploy app-native AI agents, raised a $27M Series A led by Glilot, NFX, and SignalFire &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260505/p25#a260505p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
