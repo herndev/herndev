@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The real reason why Gemini Veo won, and ChatGPT Sora failed](https://www.androidauthority.com/why-gemini-veo-beat-chatgpt-sora-ai-3662883/)
- - [That viral Ghibli trend helped ChatGPT make millions of dollars](https://www.androidauthority.com/openai-chatgpt-ghibli-viral-trends-more-revenue-gemini-nano-banana-3663450/)
- - [The Best Sustainable Surf Gear &lpar;2026&rpar;: Patagonia, Billabong, Outerknown](https://www.wired.com/story/best-sustainable-surf-gear/)<!-- TECH:END -->
+ - [The INIU Pocket Rocket P50 is the smallest 10,000mAh fast-charging power bank you can buy](https://www.androidauthority.com/iniu-pocket-rocket-p50-power-bank-2-3663496/)
+ - [Nscale agrees to spend €695M on infrastructure in Portugal in an expansion of its Microsoft partnership, supplying 66K+ Nvidia Rubin GPUs from late 2027 &lpar;Paula Doenecke/Bloomberg&rpar;](https://www.techmeme.com/260505/p8#a260505p8)
+ - [Google DeepMind workers are unionizing over AI military contracts](https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
