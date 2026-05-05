@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now stop repeating yourself to Gemini in Google Docs](https://www.androidauthority.com/gemini-persistent-instructions-google-docs-3663833/)
- - [Musk v. Altman: Greg Brockman testified about tense negotiations with Musk in 2017, saying &quot;he knows rockets, he knows electric cars&quot; but &quot;does not know AI&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260505/p40#a260505p40)
- - [Subquadratic launches with a $29M seed and debuts SubQ, an LLM that uses a subquadratic sparse attention architecture to achieve a 12M-token context window &lpar;Kyt Dotson/SiliconANGLE&rpar;](https://www.techmeme.com/260505/p39#a260505p39)<!-- TECH:END -->
+ - [Samsung may have inadvertently confirmed plans for the Galaxy Watch 9](https://www.androidauthority.com/galaxy-watch-9-samsung-canada-3663830/)
+ - [Xbox CEO Asha Sharma says Xbox &quot;will begin winding down Copilot on mobile and will stop development of Copilot on console&quot; as part of a strategic shift &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260505/p43#a260505p43)
+ - [Microsoft gives up on Xbox Copilot AI](https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
