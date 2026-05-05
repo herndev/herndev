@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Grilling in Germany](http://9gag.com/gag/a4POvPd)
- - ⏩ [French SpongeBob narrator: many years later](http://9gag.com/gag/a1m39V2)
- - 👉 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)<!-- MEMES:END -->
+ - 💣 [French SpongeBob narrator: many years later](http://9gag.com/gag/a1m39V2)
+ - ⏩ [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)
+ - 👉 [Toxic masculinity!](http://9gag.com/gag/azxpNrK)<!-- MEMES:END -->
 
 ---
 
