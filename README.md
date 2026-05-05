@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)
- - ⏩ [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
- - 👉 [NEVER become this guy.](http://9gag.com/gag/abAn748)<!-- MEMES:END -->
+ - 💣 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
+ - ⏩ [FUUUTUUURE](http://9gag.com/gag/aByBpVP)
+ - 👉 [My cat at 3 a.m for no reason](http://9gag.com/gag/aqyoqWY)<!-- MEMES:END -->
 
 ---
 
