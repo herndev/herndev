@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new under-display face unlock tech for Android does what Apple couldn’t](https://www.androidauthority.com/new-under-display-face-unlock-tech-3663483/)
- - [iPhone-Android RCS messaging finally gets the security upgrade we’ve been waiting for](https://www.androidauthority.com/ios-26-5-rc-rcs-e2ee-support-3663439/)
- - [Q&amp;A with Uber CEO Dara Khosrowshahi on his plan to make Uber an everything app, Uber&#39;s AI integrations, investing in autonomous cars, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260505/p3#a260505p3)<!-- TECH:END -->
+ - [The real reason why Gemini Veo won, and ChatGPT Sora failed](https://www.androidauthority.com/why-gemini-veo-beat-chatgpt-sora-ai-3662883/)
+ - [That viral Ghibli trend helped ChatGPT make millions of dollars](https://www.androidauthority.com/openai-chatgpt-ghibli-viral-trends-more-revenue-gemini-nano-banana-3663450/)
+ - [The Best Sustainable Surf Gear &lpar;2026&rpar;: Patagonia, Billabong, Outerknown](https://www.wired.com/story/best-sustainable-surf-gear/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
