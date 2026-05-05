@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t come home drunk](http://9gag.com/gag/aoyQbM0)
- - ⏩ [Cats and dogs](http://9gag.com/gag/ae98L3p)
- - 👉 [Fight 4u right](http://9gag.com/gag/aZZOGD0)<!-- MEMES:END -->
+ - 💣 [Fight 4u right](http://9gag.com/gag/aZZOGD0)
+ - ⏩ [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)
+ - 👉 [Any ideas?](http://9gag.com/gag/aGy431z)<!-- MEMES:END -->
 
 ---
 
