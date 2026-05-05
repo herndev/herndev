@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)
- - ⏩ [NEVER become this guy.](http://9gag.com/gag/abAn748)
- - 👉 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)<!-- MEMES:END -->
+ - 💣 [Can you guess?](http://9gag.com/gag/aQzWGrK)
+ - ⏩ [Nice shirts](http://9gag.com/gag/aLn7ynV)
+ - 👉 [Netflix today](http://9gag.com/gag/an7Ppq5)<!-- MEMES:END -->
 
 ---
 
