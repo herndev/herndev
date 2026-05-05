@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can you guess?](http://9gag.com/gag/aQzWGrK)
- - ⏩ [Nice shirts](http://9gag.com/gag/aLn7ynV)
- - 👉 [Netflix today](http://9gag.com/gag/an7Ppq5)<!-- MEMES:END -->
+ - 💣 [My cat at 3 a.m for no reason](http://9gag.com/gag/aqyoqWY)
+ - ⏩ [Fight 4u right](http://9gag.com/gag/aZZOGD0)
+ - 👉 [China irl](http://9gag.com/gag/aYQX2mw)<!-- MEMES:END -->
 
 ---
 
