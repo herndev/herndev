@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fight 4u right](http://9gag.com/gag/aZZOGD0)
- - ⏩ [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)
- - 👉 [Any ideas?](http://9gag.com/gag/aGy431z)<!-- MEMES:END -->
+ - 💣 [My brain cells are crying just watching this](http://9gag.com/gag/a87xZje)
+ - ⏩ [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
+ - 👉 [NEVER become this guy.](http://9gag.com/gag/abAn748)<!-- MEMES:END -->
 
 ---
 
