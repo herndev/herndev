@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best signal yet that iPhone 18 won&#39;t ship until 2026 has arrived](https://appleinsider.com/articles/26/05/05/the-best-signal-yet-that-iphone-18-wont-ship-until-2026-has-arrived?utm_source=rss)
- - [Memo: Xbox CEO Asha Sharma overhauls the group&#39;s leadership, including bringing over executives from Microsoft&#39;s CoreAI engineering unit where she worked before &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260505/p32#a260505p32)
- - [From Alan Shepard to Artemis, celebrating 65 years of Americans in space](https://www.theverge.com/science/918596/alan-shepard-american-spaceflight-photos-anniversary)<!-- TECH:END -->
+ - [OpenAI says GPT-5.5 Instant produces 52.5% fewer hallucinated claims &quot;on high-stakes prompts covering areas like medicine, law, and finance&quot; &lpar;Megan Morrone/Axios&rpar;](https://www.techmeme.com/260505/p35#a260505p35)
+ - [Stop Being So Dependent on Your iPhone: Make It a &#39;Dumb&#39; Phone Instead](https://www.cnet.com/tech/mobile/stop-being-so-dependent-on-your-iphone-turn-it-into-a-dumb-phone-instead/)
+ - [OpenAI launches GPT-5.5 Instant, which it says is smarter, with more accurate and personalized responses, replacing GPT-5.3 Instant as ChatGPT&#39;s default model &lpar;OpenAI&rpar;](https://www.techmeme.com/260505/p34#a260505p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
