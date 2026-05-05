@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung can’t stop leaking its upcoming foldables in One UI 9](https://www.androidauthority.com/samsung-wide-fold-galaxy-z-fold-8-one-ui-9-leak-3663410/)
- - [How Europe is falling behind in the global crypto race, as delays to the ECB&#39;s digital euro leave the bloc exposed to US-led stablecoin dominance &lpar;Bloomberg&rpar;](https://www.techmeme.com/260505/p2#a260505p2)
- - [OpenAI might be fast-tracking its AI phone with a powerful new MediaTek chip](https://www.androidauthority.com/openai-phone-development-specs-availability-3663415/)<!-- TECH:END -->
+ - [This new under-display face unlock tech for Android does what Apple couldn’t](https://www.androidauthority.com/new-under-display-face-unlock-tech-3663483/)
+ - [iPhone-Android RCS messaging finally gets the security upgrade we’ve been waiting for](https://www.androidauthority.com/ios-26-5-rc-rcs-e2ee-support-3663439/)
+ - [Q&amp;A with Uber CEO Dara Khosrowshahi on his plan to make Uber an everything app, Uber&#39;s AI integrations, investing in autonomous cars, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260505/p3#a260505p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
