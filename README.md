@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
+ - 💣 [She should have gotten the push Brittany got](http://9gag.com/gag/a87xBDZ)
  - ⏩ [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
- - 👉 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)<!-- MEMES:END -->
+ - 👉 [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)<!-- MEMES:END -->
 
 ---
 
