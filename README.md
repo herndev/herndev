@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [French SpongeBob narrator: many years later](http://9gag.com/gag/a1m39V2)
- - ⏩ [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)
- - 👉 [Toxic masculinity!](http://9gag.com/gag/azxpNrK)<!-- MEMES:END -->
+ - 💣 [My best friend got hit by a car, he is currently in surgery fighting for his life. Please send good vibes](http://9gag.com/gag/a4POD1Q)
+ - ⏩ [Can you guess?](http://9gag.com/gag/aQzWGrK)
+ - 👉 [Sheppard dog visits the baby goats for a little late night check up](http://9gag.com/gag/aGy4WBG)<!-- MEMES:END -->
 
 ---
 
