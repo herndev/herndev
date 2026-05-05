@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Driving Insights app could be the backseat driver no one asked for](https://www.androidauthority.com/samsung-driving-insights-one-ui-9-3663782/)
- - [Maryland lawmakers stand with Apple Towson employees after store closure announcement](https://appleinsider.com/articles/26/05/05/maryland-lawmakers-stand-with-apple-towson-employees-after-store-closure-announcement?utm_source=rss)
- - [iPhone users will get to select a preferred AI model in iOS 27](https://appleinsider.com/articles/26/05/05/iphone-users-will-get-to-select-a-preferred-ai-model-in-ios-27?utm_source=rss)<!-- TECH:END -->
+ - [You can now stop repeating yourself to Gemini in Google Docs](https://www.androidauthority.com/gemini-persistent-instructions-google-docs-3663833/)
+ - [Musk v. Altman: Greg Brockman testified about tense negotiations with Musk in 2017, saying &quot;he knows rockets, he knows electric cars&quot; but &quot;does not know AI&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260505/p40#a260505p40)
+ - [Subquadratic launches with a $29M seed and debuts SubQ, an LLM that uses a subquadratic sparse attention architecture to achieve a 12M-token context window &lpar;Kyt Dotson/SiliconANGLE&rpar;](https://www.techmeme.com/260505/p39#a260505p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
