@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My cat at 3 a.m for no reason](http://9gag.com/gag/aqyoqWY)
- - ⏩ [Fight 4u right](http://9gag.com/gag/aZZOGD0)
- - 👉 [China irl](http://9gag.com/gag/aYQX2mw)<!-- MEMES:END -->
+ - 💣 [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)
+ - ⏩ [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
+ - 👉 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)<!-- MEMES:END -->
 
 ---
 
