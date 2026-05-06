@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
- - ⏩ [When you think there is no other way companies can milk your money... HP says: hold my beer.](http://9gag.com/gag/aoyQBZg)
- - 👉 [Latvian passport under UV light - Good luck to counterfeit that](http://9gag.com/gag/a87xPDY)<!-- MEMES:END -->
+ - 💣 [Some reviews hit different](http://9gag.com/gag/aZZOGKQ)
+ - ⏩ [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
+ - 👉 [My cat at 3 a.m for no reason](http://9gag.com/gag/aqyoqWY)<!-- MEMES:END -->
 
 ---
 
