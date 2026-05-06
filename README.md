@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 8.5 is here: Galaxy S25 owners finally get to enjoy some of Galaxy S26’s best features](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-stable-rollout-3661337/)
- - [DefiLlama: investors pulled ~$14B from the DeFi sector after North Korea-linked hackers stole $290M from Aave in April, weeks after stealing $280M from Drift &lpar;Financial Times&rpar;](https://www.techmeme.com/260506/p12#a260506p12)
- - [One UI 9’s first release might not be far away](https://www.androidauthority.com/samsung-internal-one-ui-9-beta-spotted-3664019/)<!-- TECH:END -->
+ - [Best Carry-On Suitcases &lpar;2026&rpar;: Away, Rimowa, Tumi](https://www.wired.com/story/best-carry-on-suitcases/)
+ - [For Aluminium OS to succeed, Google needs to avoid Android’s earliest mistakes](https://www.androidauthority.com/google-aluminium-os-avoid-android-early-mistakes-3663293/)
+ - [RAM crisis bites again: This beefy Android handheld just got canceled](https://www.androidauthority.com/another-android-handheld-canceled-ram-crisis-3664048/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
