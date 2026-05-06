@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Carry-On Suitcases &lpar;2026&rpar;: Away, Rimowa, Tumi](https://www.wired.com/story/best-carry-on-suitcases/)
- - [For Aluminium OS to succeed, Google needs to avoid Android’s earliest mistakes](https://www.androidauthority.com/google-aluminium-os-avoid-android-early-mistakes-3663293/)
- - [RAM crisis bites again: This beefy Android handheld just got canceled](https://www.androidauthority.com/another-android-handheld-canceled-ram-crisis-3664048/)<!-- TECH:END -->
+ - [Is your Pixel getting Google’s important May 2026 update? Here’s every supported model](https://www.androidauthority.com/google-may-2026-update-compatible-pixel-models-3663814/)
+ - [Focal Mu-So Hekla Soundbar Review: Dolby Atmos With 1 Speaker](https://www.wired.com/review/focal-muso-hekla/)
+ - [Best Water Leak Detectors &lpar;2026&rpar;: Moen, Phyn, TP-Link](https://www.wired.com/gallery/best-water-leak-detectors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
