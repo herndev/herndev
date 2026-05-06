@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you think there is no other way companies can milk your money... HP says: hold my beer.](http://9gag.com/gag/aoyQBZg)
- - ⏩ [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)
+ - 💣 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
+ - ⏩ [Toxic masculinity!](http://9gag.com/gag/azxpNrK)
  - 👉 [Gym Life be like](http://9gag.com/gag/awyWqX8)<!-- MEMES:END -->
 
 ---
