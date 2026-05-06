@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
- - ⏩ [Toxic masculinity!](http://9gag.com/gag/azxpNrK)
- - 👉 [Gym Life be like](http://9gag.com/gag/awyWqX8)<!-- MEMES:END -->
+ - 💣 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
+ - ⏩ [The forbidden content](http://9gag.com/gag/amo4jM6)
+ - 👉 [That bread thou.](http://9gag.com/gag/abAnjrB)<!-- MEMES:END -->
 
 ---
 
