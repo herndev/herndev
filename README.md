@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the WH is mulling EOs to address security risks from advanced AI, including barring companies from &quot;interfering&quot; with the government&#39;s use of models &lpar;Politico&rpar;](https://www.techmeme.com/260505/p58#a260505p58)
- - [Doc and sources: Google is testing an agent in the Gemini app, internally named Remy, that can integrate with Google services to take actions on a user&#39;s behalf &lpar;Hugh Langley/Business Insider&rpar;](https://www.techmeme.com/260505/p57#a260505p57)
- - [Astrocade, which lets users create video games using natural language prompts, raised $56M, including a Series A and a Series B, and says it has ~5M MAUs &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260505/p56#a260505p56)<!-- TECH:END -->
+ - [US labor experts and economists warn US unemployment benefits are unlikely to protect against AI job losses, and the GOP-led Congress is doing little to prepare &lpar;New York Times&rpar;](https://www.techmeme.com/260505/p60#a260505p60)
+ - [Oura’s subscription-free rival is back on Kickstarter with a tempting new bundle](https://www.androidauthority.com/ultrahuman-ring-pro-kickstarter-campaign-3663897/)
+ - [Samsung reaches a $1T valuation, making it only the second Asian company after TSMC to hit the mark, after its stock rose 4x+ over the past year on the AI boom &lpar;Sangmi Cha/Bloomberg&rpar;](https://www.techmeme.com/260505/p59#a260505p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
