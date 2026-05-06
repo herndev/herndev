@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10’s May update blocks Android downgrades, recovery issues remain unresolved](https://www.androidauthority.com/google-pixel-10-may-update-anti-rollback-3663965/)
- - [Coupang reports Q1 revenue up 8% YoY to $8.5B and a net loss of $266M following a 2025 Korean customer data breach, its largest loss since Q4 2021 &lpar;The Korea Herald&rpar;](https://www.techmeme.com/260505/p62#a260505p62)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, May 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-may-6/)<!-- TECH:END -->
+ - [Source: Alphabet is in talks with Blackstone, KKR, and EQT to give their portfolio companies AI model access, after OpenAI&#39;s and Anthropic&#39;s JVs with PE firms &lpar;The Information&rpar;](https://www.techmeme.com/260506/p1#a260506p1)
+ - [Nace.AI, which lets companies build specialized AI models tailored to their business&#39; mission and language, raised a $21.5M seed led by Walden Catalyst &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260505/p63#a260505p63)
+ - [Pixel 10’s May update blocks Android downgrades, recovery issues remain unresolved](https://www.androidauthority.com/google-pixel-10-may-update-anti-rollback-3663965/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
