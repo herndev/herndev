@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Latvian passport under UV light - Good luck to counterfeit that](http://9gag.com/gag/a87xPDY)
- - ⏩ [`Everyone&#39;s recording... &lpar;and posting it on 9gag&rpar;.`](http://9gag.com/gag/aGy4WX6)
- - 👉 [Ever notice?](http://9gag.com/gag/aQzWYxW)<!-- MEMES:END -->
+ - 💣 [`Everyone&#39;s recording... &lpar;and posting it on 9gag&rpar;.`](http://9gag.com/gag/aGy4WX6)
+ - ⏩ [Ever notice?](http://9gag.com/gag/aQzWYxW)
+ - 👉 [Here Today, Gone Tomorrow](http://9gag.com/gag/agmzMD6)<!-- MEMES:END -->
 
 ---
 
