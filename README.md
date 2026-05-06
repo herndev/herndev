@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Civ 7 is getting &#39;by far the most-requested addition&#39; later this month, but I&#39;m more interested in whether it&#39;ll finally feel fully baked](https://www.pcgamer.com/games/strategy/civ-7-is-getting-by-far-the-most-requested-addition-later-this-month-but-im-more-interested-in-whether-itll-finally-feel-fully-baked/)
- - [Purple Man? Daredevil: Born Again season 2 finale sets up the return of Netflix villain Killgrave](https://www.polygon.com/purple-man-daredevil-explainer/)
- - [Mortal Kombat Co-Creator Breaks Silence On The Box Office Showdown With Street Fighter](https://kotaku.com/mortal-kombat-co-creator-breaks-silence-on-the-box-office-showdown-with-street-fighter-2000693625)<!-- GAME:END -->
+ - [Nintendo announces new Star Fox for Nintendo Switch 2](https://www.polygon.com/star-fox-2026-game-nintendo-switch-2/)
+ - [Nintendo Announces Surprise Remake Of Star Fox 64 For Switch 2 And It Looks Very Cool](https://kotaku.com/nintendo-announces-surprise-remake-of-star-fox-64-for-switch-2-and-it-looks-very-cool-2000693718)
+ - [The Witcher 3 console commands list](https://www.polygon.com/the-witcher-3-cheats-console-commands-how-to-use/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
