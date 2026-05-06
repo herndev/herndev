@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
- - ⏩ [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
- - 👉 [Gym Life be like](http://9gag.com/gag/awyWqX8)<!-- MEMES:END -->
+ - 💣 [To be fair, it is a tip jar... it can work both ways...](http://9gag.com/gag/adBD36Z)
+ - ⏩ [Gym Life be like](http://9gag.com/gag/awyWqX8)
+ - 👉 [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)<!-- MEMES:END -->
 
 ---
 
