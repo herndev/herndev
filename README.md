@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
- - [Xbox changes continue with new console boot animation](https://www.theverge.com/tech/925110/new-xbox-logo-boot-animation)
- - [London-based Ethos, which lets companies use AI for hiring, including for voice interviews and profile analysis, raised a $22.75M Series A led by a16z &lpar;Ana-Maria Stanciuc/The Next Web&rpar;](https://www.techmeme.com/260506/p32#a260506p32)<!-- TECH:END -->
+ - [Anthropic updates Claude Managed Agents with &quot;dreaming&quot;, a scheduled process that reviews recent work and updates memory, available in research preview &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/260506/p34#a260506p34)
+ - [The wait is almost over: Snapseed 4.0 is finally coming to Android](https://www.androidauthority.com/snapseed-4-0-coming-to-android-3664266/)
+ - [This slim ice cream maker could fit in my already crowded kitchen](https://www.theverge.com/tech/925124/nutribullet-chill-ice-cream-maker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
