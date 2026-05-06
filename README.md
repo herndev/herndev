@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Security camera companies are embracing AI to give customers detailed descriptions of surveillance footage that are often spot on but can also be wildly wrong &lpar;Scott Calvert/Wall Street Journal&rpar;](https://www.techmeme.com/260506/p6#a260506p6)
- - [Study: US schools with strict cellphone bans in class have not seen higher test scores on average so far, but students reported a greater sense of well-being &lpar;Dana Goldstein/New York Times&rpar;](https://www.techmeme.com/260506/p5#a260506p5)
- - [Sources: Blue Origin outlines a new employee stock plan to quell staff unrest and make its incentives more competitive with SpaceX &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/260506/p4#a260506p4)<!-- TECH:END -->
+ - [A medical student reverse-engineered AI tools used by medical colleges on suspicion they were filtering his applications, highlighting AI-driven hiring concerns &lpar;Todd Feathers/Wired&rpar;](https://www.techmeme.com/260506/p11#a260506p11)
+ - [Sources: the Big Fund, China&#39;s biggest state-backed chip investment fund, is seeking to lead an investment in DeepSeek that could value the AI company at ~$45B &lpar;Financial Times&rpar;](https://www.techmeme.com/260506/p10#a260506p10)
+ - [Study: using weaker AI models to supervise a more capable model could prevent the stronger model from deliberately underperforming on benchmarks and evaluations &lpar;Emil Ryd/@emilaryd&rpar;](https://www.techmeme.com/260506/p9#a260506p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
