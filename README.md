@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo announces a new Star Fox for the Switch 2](https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2)
- - [Filing: Meta asks a judge to overturn the jury&#39;s verdict in the Los Angeles social media addiction trial or order a new trial, citing Section 230 protections &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260506/p47#a260506p47)
- - [Android 17 QPR1 Beta 2 arrives with a slew of bugfixes](https://www.androidauthority.com/android-17-qpr1-beta-2-3664464/)<!-- TECH:END -->
+ - [Scale AI wins a $500M DOD contract through the Chief Digital and AI Office to help sift data and assist in decision-making, after receiving a $100M deal in 2025 &lpar;Jen Judson/Bloomberg&rpar;](https://www.techmeme.com/260506/p49#a260506p49)
+ - [Musk v. Altman: Shivon Zilis testifies her relationship with Musk didn&#39;t influence her duties as an OpenAI board member; she left in 2023 after Musk started xAI &lpar;Carly Nairn/Courthouse News Service&rpar;](https://www.techmeme.com/260506/p48#a260506p48)
+ - [Google appears to have an ‘AI Ultra Lite’ subscription tier in the works](https://www.androidauthority.com/google-gemini-ai-ultra-lite-3664475/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
