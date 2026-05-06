@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supreme Court denies Apple breathing space in Epic fight](https://appleinsider.com/articles/26/05/06/supreme-court-denies-apples-hopes-for-breathing-space-in-its-fight-against-epic?utm_source=rss)
- - [Score pro-level sound with the Sony INZONE H9 II gaming headset, now at $298](https://www.androidauthority.com/sony-inzone-h9-ii-gaming-headset-deal-3664308/)
- - [Here&amp;#8217;s what Microsoft is offering long-serving employees to voluntarily retire](https://www.theverge.com/report/925218/microsoft-voluntary-retirement-program-package-details)<!-- TECH:END -->
+ - [Instacart reports Q1 revenue up 14% YoY to $1.02B, GTV up 13% to $10.29B, and orders up 10%, compared with a 16% growth a year earlier; CART drops 11%+ &lpar;Neil J Kanatt/Reuters&rpar;](https://www.techmeme.com/260506/p40#a260506p40)
+ - [Google quietly kills Project Mariner as the AI agent race shifts gears](https://www.androidauthority.com/google-project-mariner-shutdown-3664323/)
+ - [Anthropic says it signed a deal with SpaceX to use &quot;all of the compute capacity&quot; at Colossus 1, giving it access to over 300 MW of new capacity within the month &lpar;Axios&rpar;](https://www.techmeme.com/260506/p39#a260506p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
