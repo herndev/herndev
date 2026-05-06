@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates AI Mode and AI Overviews to add &quot;a preview of perspectives&quot; from firsthand sources like social media and Reddit, presented as &quot;Expert Advice&quot; &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260506/p28#a260506p28)
- - [Morgan Stanley rolls out a crypto trading pilot on E*Trade, charging clients lower prices than Coinbase and Robinhood, ahead of a wider launch later in 2026 &lpar;Hannah Levitt/Bloomberg&rpar;](https://www.techmeme.com/260506/p27#a260506p27)
- - [Samsung just dropped the list of devices getting One UI 8.5 today: Is your Galaxy on it?](https://www.androidauthority.com/samsung-one-ui-8-5-list-of-devices-3664102/)<!-- TECH:END -->
+ - [Energizer&#39;s Ultimate Child Shield batteries minimizes burns if your child swallows an AirTag battery](https://appleinsider.com/articles/26/05/06/energizers-ultimate-child-shield-batteries-minimizes-burns-if-your-child-swallows-an-airtag-battery?utm_source=rss)
+ - [SCOTUS rejects Apple&#39;s request to temporarily block a judicial order in the Epic Games lawsuit that found Apple in violation of court-mandated App Store changes &lpar;Mike Scarcella/Reuters&rpar;](https://www.techmeme.com/260506/p30#a260506p30)
+ - [Early Amazon listing reveals Xperia 1 VIII launch date, specs, and more](https://www.androidauthority.com/sony-xperia-1-viii-amazon-listing-3664212/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
