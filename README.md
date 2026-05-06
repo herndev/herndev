@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rare LG 27-inch Ultragear QHD monitor deal slashes price to just $189](https://www.androidauthority.com/lg-27-inch-ultragear-monitor-deal-3664439/)
- - [How David Sacks crashed and burned in the White House](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review)
- - [Apple takes a slice out of a fruit-shaped trademark dispute in EU](https://appleinsider.com/articles/26/05/06/apple-takes-a-slice-out-of-a-fruit-shaped-trademark-dispute-in-eu?utm_source=rss)<!-- TECH:END -->
+ - [Snap reports Q1 revenue up 12% YoY to $1.53B, in line with est., and says it ended its $400M Perplexity deal announced in November; SNAP drops 4%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260506/p46#a260506p46)
+ - [DoorDash reports Q1 revenue up 33% YoY to $4.04B, vs. $4.14B est., and forecasts Q2 marketplace gross order value above estimates; DASH jumps 11%+ after hours &lpar;Koyena Das/Reuters&rpar;](https://www.techmeme.com/260506/p45#a260506p45)
+ - [Arm reports Q4 revenue up 20% YoY to $1.5B, says AGI CPU demand will drive $2B in sales in 2027 and 2028, over 2x its prior guidance; ARM jumps 11%+ after hours &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/260506/p44#a260506p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
