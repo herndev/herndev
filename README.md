@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you think there is no other way companies can milk your money... HP says: hold my beer.](http://9gag.com/gag/aoyQBZg)
- - ⏩ [Gym Life be like](http://9gag.com/gag/awyWqX8)
- - 👉 [That bread thou.](http://9gag.com/gag/abAnjrB)<!-- MEMES:END -->
+ - 💣 [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
+ - ⏩ [Coffee jitters](http://9gag.com/gag/a346vqN)
+ - 👉 [Gym Life be like](http://9gag.com/gag/awyWqX8)<!-- MEMES:END -->
 
 ---
 
