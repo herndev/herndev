@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Energizer&#39;s Ultimate Child Shield batteries minimizes burns if your child swallows an AirTag battery](https://appleinsider.com/articles/26/05/06/energizers-ultimate-child-shield-batteries-minimizes-burns-if-your-child-swallows-an-airtag-battery?utm_source=rss)
- - [SCOTUS rejects Apple&#39;s request to temporarily block a judicial order in the Epic Games lawsuit that found Apple in violation of court-mandated App Store changes &lpar;Mike Scarcella/Reuters&rpar;](https://www.techmeme.com/260506/p30#a260506p30)
- - [Early Amazon listing reveals Xperia 1 VIII launch date, specs, and more](https://www.androidauthority.com/sony-xperia-1-viii-amazon-listing-3664212/)<!-- TECH:END -->
+ - [Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit)
+ - [Xbox changes continue with new console boot animation](https://www.theverge.com/tech/925110/new-xbox-logo-boot-animation)
+ - [London-based Ethos, which lets companies use AI for hiring, including for voice interviews and profile analysis, raised a $22.75M Series A led by a16z &lpar;Ana-Maria Stanciuc/The Next Web&rpar;](https://www.techmeme.com/260506/p32#a260506p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
