@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US labor experts and economists warn US unemployment benefits are unlikely to protect against AI job losses, and the GOP-led Congress is doing little to prepare &lpar;New York Times&rpar;](https://www.techmeme.com/260505/p60#a260505p60)
- - [Oura’s subscription-free rival is back on Kickstarter with a tempting new bundle](https://www.androidauthority.com/ultrahuman-ring-pro-kickstarter-campaign-3663897/)
- - [Samsung reaches a $1T valuation, making it only the second Asian company after TSMC to hit the mark, after its stock rose 4x+ over the past year on the AI boom &lpar;Sangmi Cha/Bloomberg&rpar;](https://www.techmeme.com/260505/p59#a260505p59)<!-- TECH:END -->
+ - [Pixel 10’s May update blocks Android downgrades, recovery issues remain unresolved](https://www.androidauthority.com/google-pixel-10-may-update-anti-rollback-3663965/)
+ - [Coupang reports Q1 revenue up 8% YoY to $8.5B and a net loss of $266M following a 2025 Korean customer data breach, its largest loss since Q4 2021 &lpar;The Korea Herald&rpar;](https://www.techmeme.com/260505/p62#a260505p62)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, May 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-may-6/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
