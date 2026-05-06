@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A medical student reverse-engineered AI tools used by medical colleges on suspicion they were filtering his applications, highlighting AI-driven hiring concerns &lpar;Todd Feathers/Wired&rpar;](https://www.techmeme.com/260506/p11#a260506p11)
- - [Sources: the Big Fund, China&#39;s biggest state-backed chip investment fund, is seeking to lead an investment in DeepSeek that could value the AI company at ~$45B &lpar;Financial Times&rpar;](https://www.techmeme.com/260506/p10#a260506p10)
- - [Study: using weaker AI models to supervise a more capable model could prevent the stronger model from deliberately underperforming on benchmarks and evaluations &lpar;Emil Ryd/@emilaryd&rpar;](https://www.techmeme.com/260506/p9#a260506p9)<!-- TECH:END -->
+ - [One UI 8.5 is here: Galaxy S25 owners finally get to enjoy some of Galaxy S26’s best features](https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-stable-rollout-3661337/)
+ - [DefiLlama: investors pulled ~$14B from the DeFi sector after North Korea-linked hackers stole $290M from Aave in April, weeks after stealing $280M from Drift &lpar;Financial Times&rpar;](https://www.techmeme.com/260506/p12#a260506p12)
+ - [One UI 9’s first release might not be far away](https://www.androidauthority.com/samsung-internal-one-ui-9-beta-spotted-3664019/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
