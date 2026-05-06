@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Everyone&#39;s recording... &lpar;and posting it on 9gag&rpar;.`](http://9gag.com/gag/aGy4WX6)
- - ⏩ [Ever notice?](http://9gag.com/gag/aQzWYxW)
- - 👉 [Here Today, Gone Tomorrow](http://9gag.com/gag/agmzMD6)<!-- MEMES:END -->
+ - 💣 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
+ - ⏩ [Don&#39;t get mad, get glad.](http://9gag.com/gag/a4POePm)
+ - 👉 [Gym Life be like](http://9gag.com/gag/awyWqX8)<!-- MEMES:END -->
 
 ---
 
