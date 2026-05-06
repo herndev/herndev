@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instacart reports Q1 revenue up 14% YoY to $1.02B, above $1.01B est., GTV up 13% YoY to $10.3B, and orders up 10% YoY to 91.2M, as users focus on affordability &lpar;Nicholas G. Miller/Wall Street Journal&rpar;](https://www.techmeme.com/260506/p18#a260506p18)
- - [Crypto miner Hut 8 signs a lease worth $9.8B+ over 15 years to provide computing power to a &quot;high-investment-grade company&quot; at its Nueces County, Texas campus &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260506/p17#a260506p17)
- - [Uber reports Q1 revenue up 14% YoY to $13.2B, below $13.3B est., Gross Bookings up 25% YoY to $53.7B, trips up 20% YoY to 3.6B, and a $1B revenue UK tax law hit &lpar;Financial Times&rpar;](https://www.techmeme.com/260506/p16#a260506p16)<!-- TECH:END -->
+ - [Magnitt: startup funding in the Middle East and North Africa was flat YoY at $799M in Q1 amid the Iran war; Saudi VC firms are pressing ahead with fundraising &lpar;Yassmin Jabri/Bloomberg&rpar;](https://www.techmeme.com/260506/p23#a260506p23)
+ - [A profile of David Sacks, appointed as White House AI adviser in December 2024, who has a ruthless devotion to self-interest and helped pass the GENIUS Act &lpar;George Packer/The Atlantic&rpar;](https://www.techmeme.com/260506/p22#a260506p22)
+ - [ReMarkable Paper Pure Tablet Review: Back to Basics](https://www.wired.com/review/remarkable-paper-pure/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
