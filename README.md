@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil Requiem Producer Says The Negative Reaction To Grace’s DLSS 5 AI Slop Filter Proves Capcom ‘Got The Design Right’](https://kotaku.com/resident-evil-requiem-grace-dlss-5-ai-slop-filter-redesign-capcom-masato-kumazawa-2000692973)
- - [D&amp;D&#39;s official new series fixes the biggest issue with shows like Critical Role](https://www.polygon.com/dnd-dungeons-dragons-dungeon-masters-official-actual-play-lenght-episodes/)
- - [Mark Hamill&#39;s 1980 Muppet Show episode predicted Star Wars&#39; future](https://www.polygon.com/mark-hamill-muppet-show-episode-star-wars-day/)<!-- GAME:END -->
+ - [Civ 7 is getting &#39;by far the most-requested addition&#39; later this month, but I&#39;m more interested in whether it&#39;ll finally feel fully baked](https://www.pcgamer.com/games/strategy/civ-7-is-getting-by-far-the-most-requested-addition-later-this-month-but-im-more-interested-in-whether-itll-finally-feel-fully-baked/)
+ - [Purple Man? Daredevil: Born Again season 2 finale sets up the return of Netflix villain Killgrave](https://www.polygon.com/purple-man-daredevil-explainer/)
+ - [Mortal Kombat Co-Creator Breaks Silence On The Box Office Showdown With Street Fighter](https://kotaku.com/mortal-kombat-co-creator-breaks-silence-on-the-box-office-showdown-with-street-fighter-2000693625)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
