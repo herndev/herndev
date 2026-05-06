@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Former FedEx driver Tanner Horner who killed a 7 year old girl Athena Strand sentenced to capital punishment.](http://9gag.com/gag/a9yg330)
- - ⏩ [When you think there is no other way companies can milk your money... HP says: hold my beer.](http://9gag.com/gag/aoyQBZg)
- - 👉 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)<!-- MEMES:END -->
+ - ⏩ [Charlotte really said &#39;good luck out there&#39;](http://9gag.com/gag/a4POMdQ)
+ - 👉 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)<!-- MEMES:END -->
 
 ---
 
