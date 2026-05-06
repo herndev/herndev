@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is your Pixel getting Google’s important May 2026 update? Here’s every supported model](https://www.androidauthority.com/google-may-2026-update-compatible-pixel-models-3663814/)
- - [Focal Mu-So Hekla Soundbar Review: Dolby Atmos With 1 Speaker](https://www.wired.com/review/focal-muso-hekla/)
- - [Best Water Leak Detectors &lpar;2026&rpar;: Moen, Phyn, TP-Link](https://www.wired.com/gallery/best-water-leak-detectors/)<!-- TECH:END -->
+ - [Instacart reports Q1 revenue up 14% YoY to $1.02B, above $1.01B est., GTV up 13% YoY to $10.3B, and orders up 10% YoY to 91.2M, as users focus on affordability &lpar;Nicholas G. Miller/Wall Street Journal&rpar;](https://www.techmeme.com/260506/p18#a260506p18)
+ - [Crypto miner Hut 8 signs a lease worth $9.8B+ over 15 years to provide computing power to a &quot;high-investment-grade company&quot; at its Nueces County, Texas campus &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260506/p17#a260506p17)
+ - [Uber reports Q1 revenue up 14% YoY to $13.2B, below $13.3B est., Gross Bookings up 25% YoY to $53.7B, trips up 20% YoY to 3.6B, and a $1B revenue UK tax law hit &lpar;Financial Times&rpar;](https://www.techmeme.com/260506/p16#a260506p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
