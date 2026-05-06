@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
- - ⏩ [Gym Life be like](http://9gag.com/gag/awyWqX8)
- - 👉 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)<!-- MEMES:END -->
+ - ⏩ [Time to revisit a classic &#39;owning&#39;.](http://9gag.com/gag/aRBq5eq)
+ - 👉 [Some reviews hit different](http://9gag.com/gag/aZZOGKQ)<!-- MEMES:END -->
 
 ---
 
