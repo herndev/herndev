@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To be fair, it is a tip jar... it can work both ways...](http://9gag.com/gag/adBD36Z)
- - ⏩ [Gym Life be like](http://9gag.com/gag/awyWqX8)
- - 👉 [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)<!-- MEMES:END -->
+ - 💣 [When you think there is no other way companies can milk your money... HP says: hold my beer.](http://9gag.com/gag/aoyQBZg)
+ - ⏩ [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)
+ - 👉 [Gym Life be like](http://9gag.com/gag/awyWqX8)<!-- MEMES:END -->
 
 ---
 
