@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
- - ⏩ [That bread thou.](http://9gag.com/gag/abAnjrB)
- - 👉 [Gym Life be like](http://9gag.com/gag/awyWqX8)<!-- MEMES:END -->
+ - 💣 [When you think there is no other way companies can milk your money... HP says: hold my beer.](http://9gag.com/gag/aoyQBZg)
+ - ⏩ [Gym Life be like](http://9gag.com/gag/awyWqX8)
+ - 👉 [That bread thou.](http://9gag.com/gag/abAnjrB)<!-- MEMES:END -->
 
 ---
 
