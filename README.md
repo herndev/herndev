@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic updates Claude Managed Agents with &quot;dreaming&quot;, a scheduled process that reviews recent work and updates memory, available in research preview &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/260506/p34#a260506p34)
- - [The wait is almost over: Snapseed 4.0 is finally coming to Android](https://www.androidauthority.com/snapseed-4-0-coming-to-android-3664266/)
- - [This slim ice cream maker could fit in my already crowded kitchen](https://www.theverge.com/tech/925124/nutribullet-chill-ice-cream-maker)<!-- TECH:END -->
+ - [Supreme Court denies Apple breathing space in Epic fight](https://appleinsider.com/articles/26/05/06/supreme-court-denies-apples-hopes-for-breathing-space-in-its-fight-against-epic?utm_source=rss)
+ - [Score pro-level sound with the Sony INZONE H9 II gaming headset, now at $298](https://www.androidauthority.com/sony-inzone-h9-ii-gaming-headset-deal-3664308/)
+ - [Here&amp;#8217;s what Microsoft is offering long-serving employees to voluntarily retire](https://www.theverge.com/report/925218/microsoft-voluntary-retirement-program-package-details)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
