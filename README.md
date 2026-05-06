@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some reviews hit different](http://9gag.com/gag/aZZOGKQ)
- - ⏩ [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
- - 👉 [My cat at 3 a.m for no reason](http://9gag.com/gag/aqyoqWY)<!-- MEMES:END -->
+ - 💣 [Former FedEx driver Tanner Horner who killed a 7 year old girl Athena Strand sentenced to capital punishment.](http://9gag.com/gag/a9yg330)
+ - ⏩ [When you think there is no other way companies can milk your money... HP says: hold my beer.](http://9gag.com/gag/aoyQBZg)
+ - 👉 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)<!-- MEMES:END -->
 
 ---
 
