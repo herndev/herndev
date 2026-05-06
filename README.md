@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
- - ⏩ [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
- - 👉 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)<!-- MEMES:END -->
+ - 💣 [Is this how English sounds to a non speaker?](http://9gag.com/gag/aAyznoL)
+ - ⏩ [That was a close one](http://9gag.com/gag/aRBqx2M)
+ - 👉 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)<!-- MEMES:END -->
 
 ---
 
