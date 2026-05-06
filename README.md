@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s next foldables may introduce a major shift in chipset strategy](https://www.androidauthority.com/galaxy-z-fold-8-and-flip-8-chips-3664391/)
- - [Musk v. Altman: Mira Murati testifies that Sam Altman lied to her about the safety standards for a new OpenAI model and that he made her work more difficult &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260506/p41#a260506p41)
- - [Google weighs in on Chrome’s weights.bin controversy](https://www.androidauthority.com/google-chrome-weights-bin-file-statement-3664379/)<!-- TECH:END -->
+ - [Rare LG 27-inch Ultragear QHD monitor deal slashes price to just $189](https://www.androidauthority.com/lg-27-inch-ultragear-monitor-deal-3664439/)
+ - [How David Sacks crashed and burned in the White House](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review)
+ - [Apple takes a slice out of a fruit-shaped trademark dispute in EU](https://appleinsider.com/articles/26/05/06/apple-takes-a-slice-out-of-a-fruit-shaped-trademark-dispute-in-eu?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
