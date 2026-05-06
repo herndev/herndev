@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Alphabet is in talks with Blackstone, KKR, and EQT to give their portfolio companies AI model access, after OpenAI&#39;s and Anthropic&#39;s JVs with PE firms &lpar;The Information&rpar;](https://www.techmeme.com/260506/p1#a260506p1)
- - [Nace.AI, which lets companies build specialized AI models tailored to their business&#39; mission and language, raised a $21.5M seed led by Walden Catalyst &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260505/p63#a260505p63)
- - [Pixel 10’s May update blocks Android downgrades, recovery issues remain unresolved](https://www.androidauthority.com/google-pixel-10-may-update-anti-rollback-3663965/)<!-- TECH:END -->
+ - [Security camera companies are embracing AI to give customers detailed descriptions of surveillance footage that are often spot on but can also be wildly wrong &lpar;Scott Calvert/Wall Street Journal&rpar;](https://www.techmeme.com/260506/p6#a260506p6)
+ - [Study: US schools with strict cellphone bans in class have not seen higher test scores on average so far, but students reported a greater sense of well-being &lpar;Dana Goldstein/New York Times&rpar;](https://www.techmeme.com/260506/p5#a260506p5)
+ - [Sources: Blue Origin outlines a new employee stock plan to quell staff unrest and make its incentives more competitive with SpaceX &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/260506/p4#a260506p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
