@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instacart reports Q1 revenue up 14% YoY to $1.02B, GTV up 13% to $10.29B, and orders up 10%, compared with a 16% growth a year earlier; CART drops 11%+ &lpar;Neil J Kanatt/Reuters&rpar;](https://www.techmeme.com/260506/p40#a260506p40)
- - [Google quietly kills Project Mariner as the AI agent race shifts gears](https://www.androidauthority.com/google-project-mariner-shutdown-3664323/)
- - [Anthropic says it signed a deal with SpaceX to use &quot;all of the compute capacity&quot; at Colossus 1, giving it access to over 300 MW of new capacity within the month &lpar;Axios&rpar;](https://www.techmeme.com/260506/p39#a260506p39)<!-- TECH:END -->
+ - [Samsung’s next foldables may introduce a major shift in chipset strategy](https://www.androidauthority.com/galaxy-z-fold-8-and-flip-8-chips-3664391/)
+ - [Musk v. Altman: Mira Murati testifies that Sam Altman lied to her about the safety standards for a new OpenAI model and that he made her work more difficult &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260506/p41#a260506p41)
+ - [Google weighs in on Chrome’s weights.bin controversy](https://www.androidauthority.com/google-chrome-weights-bin-file-statement-3664379/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
