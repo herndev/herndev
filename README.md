@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Magnitt: startup funding in the Middle East and North Africa was flat YoY at $799M in Q1 amid the Iran war; Saudi VC firms are pressing ahead with fundraising &lpar;Yassmin Jabri/Bloomberg&rpar;](https://www.techmeme.com/260506/p23#a260506p23)
- - [A profile of David Sacks, appointed as White House AI adviser in December 2024, who has a ruthless devotion to self-interest and helped pass the GENIUS Act &lpar;George Packer/The Atlantic&rpar;](https://www.techmeme.com/260506/p22#a260506p22)
- - [ReMarkable Paper Pure Tablet Review: Back to Basics](https://www.wired.com/review/remarkable-paper-pure/)<!-- TECH:END -->
+ - [Google updates AI Mode and AI Overviews to add &quot;a preview of perspectives&quot; from firsthand sources like social media and Reddit, presented as &quot;Expert Advice&quot; &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260506/p28#a260506p28)
+ - [Morgan Stanley rolls out a crypto trading pilot on E*Trade, charging clients lower prices than Coinbase and Robinhood, ahead of a wider launch later in 2026 &lpar;Hannah Levitt/Bloomberg&rpar;](https://www.techmeme.com/260506/p27#a260506p27)
+ - [Samsung just dropped the list of devices getting One UI 8.5 today: Is your Galaxy on it?](https://www.androidauthority.com/samsung-one-ui-8-5-list-of-devices-3664102/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
