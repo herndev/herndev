@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
- - ⏩ [Time to revisit a classic &#39;owning&#39;.](http://9gag.com/gag/aRBq5eq)
- - 👉 [Some reviews hit different](http://9gag.com/gag/aZZOGKQ)<!-- MEMES:END -->
+ - 💣 [Latvian passport under UV light - Good luck to counterfeit that](http://9gag.com/gag/a87xPDY)
+ - ⏩ [`Everyone&#39;s recording... &lpar;and posting it on 9gag&rpar;.`](http://9gag.com/gag/aGy4WX6)
+ - 👉 [Ever notice?](http://9gag.com/gag/aQzWYxW)<!-- MEMES:END -->
 
 ---
 
