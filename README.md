@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Charlotte really said &#39;good luck out there&#39;](http://9gag.com/gag/a4POMdQ)
- - ⏩ [This never gets old](http://9gag.com/gag/aqyP4Nv)
- - 👉 [The one with the babysitter](http://9gag.com/gag/a34XoZQ)<!-- MEMES:END -->
+ - 💣 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
+ - ⏩ [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
+ - 👉 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)<!-- MEMES:END -->
 
 ---
 
