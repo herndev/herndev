@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap reports Q1 revenue up 12% YoY to $1.53B, in line with est., and says it ended its $400M Perplexity deal announced in November; SNAP drops 4%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260506/p46#a260506p46)
- - [DoorDash reports Q1 revenue up 33% YoY to $4.04B, vs. $4.14B est., and forecasts Q2 marketplace gross order value above estimates; DASH jumps 11%+ after hours &lpar;Koyena Das/Reuters&rpar;](https://www.techmeme.com/260506/p45#a260506p45)
- - [Arm reports Q4 revenue up 20% YoY to $1.5B, says AGI CPU demand will drive $2B in sales in 2027 and 2028, over 2x its prior guidance; ARM jumps 11%+ after hours &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/260506/p44#a260506p44)<!-- TECH:END -->
+ - [Nintendo announces a new Star Fox for the Switch 2](https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2)
+ - [Filing: Meta asks a judge to overturn the jury&#39;s verdict in the Los Angeles social media addiction trial or order a new trial, citing Section 230 protections &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260506/p47#a260506p47)
+ - [Android 17 QPR1 Beta 2 arrives with a slew of bugfixes](https://www.androidauthority.com/android-17-qpr1-beta-2-3664464/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
