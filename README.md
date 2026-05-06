@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Latvian passport under UV light - Good luck to counterfeit that](http://9gag.com/gag/a87xPDY)
- - ⏩ [Ever notice?](http://9gag.com/gag/aQzWYxW)
- - 👉 [Here Today, Gone Tomorrow](http://9gag.com/gag/agmzMD6)<!-- MEMES:END -->
+ - 💣 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
+ - ⏩ [That bread thou.](http://9gag.com/gag/abAnjrB)
+ - 👉 [Gym Life be like](http://9gag.com/gag/awyWqX8)<!-- MEMES:END -->
 
 ---
 
