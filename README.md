@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)
- - ⏩ [Coffee jitters](http://9gag.com/gag/a346vqN)
- - 👉 [Is this how English sounds to a non speaker?](http://9gag.com/gag/aAyznoL)<!-- MEMES:END -->
+ - 💣 [Charlotte really said &#39;good luck out there&#39;](http://9gag.com/gag/a4POMdQ)
+ - ⏩ [This never gets old](http://9gag.com/gag/aqyP4Nv)
+ - 👉 [The one with the babysitter](http://9gag.com/gag/a34XoZQ)<!-- MEMES:END -->
 
 ---
 
