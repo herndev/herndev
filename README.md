@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Delayed Siri features class action suit ends with massive $250M settlement](https://appleinsider.com/articles/26/05/05/lawsuit-over-delayed-siri-features-reaches-massive-250m-settlement?utm_source=rss)
- - [Sources: Alphabet sold its biggest-ever euro-denominated bonds, raising €9B, and its first Canadian dollar notes, raising CA$8.5B, months after raising $20B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260505/p54#a260505p54)
- - [Kaspersky says Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260505/p53#a260505p53)<!-- TECH:END -->
+ - [Sources: the WH is mulling EOs to address security risks from advanced AI, including barring companies from &quot;interfering&quot; with the government&#39;s use of models &lpar;Politico&rpar;](https://www.techmeme.com/260505/p58#a260505p58)
+ - [Doc and sources: Google is testing an agent in the Gemini app, internally named Remy, that can integrate with Google services to take actions on a user&#39;s behalf &lpar;Hugh Langley/Business Insider&rpar;](https://www.techmeme.com/260505/p57#a260505p57)
+ - [Astrocade, which lets users create video games using natural language prompts, raised $56M, including a Series A and a Series B, and says it has ~5M MAUs &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260505/p56#a260505p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
