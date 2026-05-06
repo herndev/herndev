@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9th of May 2026 - we the `Z`uperpowa](http://9gag.com/gag/a87xBBY)
- - ⏩ [This is what 65%+ disapproval looks like.](http://9gag.com/gag/aE0mrPp)
- - 👉 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)<!-- MEMES:END -->
+ - 💣 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
+ - ⏩ [When you think there is no other way companies can milk your money... HP says: hold my beer.](http://9gag.com/gag/aoyQBZg)
+ - 👉 [Latvian passport under UV light - Good luck to counterfeit that](http://9gag.com/gag/a87xPDY)<!-- MEMES:END -->
 
 ---
 
