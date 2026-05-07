@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Students &amp; teachers can get educational pricing on Apple Watch](https://appleinsider.com/articles/26/05/07/students-teachers-can-get-educational-pricing-on-apple-watch?utm_source=rss)
- - [GrapheneOS closes an Android VPN loophole before Google does](https://www.androidauthority.com/grapheneos-fixed-android-vpn-flaw-3664926/)
- - [Nvidia and data center operator IREN announce a deal to deploy up to 5 GW of AI infrastructure; Nvidia can invest $2.1B into IREN; IREN jumps 9%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260507/p44#a260507p44)<!-- TECH:END -->
+ - [Block reports Q1 revenue up 5% YoY to $6.1B, vs. $5.9B est., and raises its 2026 gross profit forecast above estimates; XYZ jumps 7%+ after hours &lpar;Isabelle Lee/Bloomberg&rpar;](https://www.techmeme.com/260507/p47#a260507p47)
+ - [Apple can&#39;t avoid $4.1 billion iCloud suit in UK](https://appleinsider.com/articles/26/05/07/apple-cant-avoid-41-billion-icloud-suit-in-uk?utm_source=rss)
+ - [Lyft reports Q1 revenue up 14% YoY to $1.65B, vs. $1.63B est., gross bookings up 19% to $4.95B, vs. $4.91B est., and rides up 8.5% to 236.9M, vs. 241.2M est. &lpar;Kelly Cloonan/Wall Street Journal&rpar;](https://www.techmeme.com/260507/p46#a260507p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
