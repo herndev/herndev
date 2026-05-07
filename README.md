@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cataturk](http://9gag.com/gag/aXP68V6)
- - ⏩ [Simply rational debate and reasoning. No cats were harmed in the making of this video.](http://9gag.com/gag/amoeqw2)
- - 👉 [Arsonist tries to burn down a house, but ends up burning his own getaway car instead. You can&#39;t make this stuff up](http://9gag.com/gag/agmDrgK)<!-- MEMES:END -->
+ - 💣 [Coffee jitters](http://9gag.com/gag/a346vqN)
+ - ⏩ [No comment](http://9gag.com/gag/aD2KRed)
+ - 👉 [Naggers](http://9gag.com/gag/an7meGb)<!-- MEMES:END -->
 
 ---
 
