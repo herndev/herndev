@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Pixel 8 phone is almost ready for AirDrop support](https://www.androidauthority.com/google-pixel-8-quick-share-airdrop-app-3664510/)
- - [We haven’t seen new Wi-Fi audio products in over a year, but Qualcomm has some good news](https://www.androidauthority.com/qualcomm-xpan-update-2026-3663562/)
- - [Qualcomm&#39;s New Midrange Chips Add Wi-Fi 7, Improve Gaming for Lower-Cost Phones](https://www.cnet.com/tech/mobile/qualcomms-new-midrange-chips-add-wi-fi-7-improve-gaming-for-lower-cost-phones/)<!-- TECH:END -->
+ - [This Android tablet is so thin it may make your phone look chunky](https://www.androidauthority.com/matepad-pro-max-launch-3664339/)
+ - [Your next Galaxy Watch update could save you from a nasty fall](https://www.androidauthority.com/samsung-galaxy-watch-6-can-predict-fainting-3664556/)
+ - [Your Pixel 8 phone is almost ready for AirDrop support](https://www.androidauthority.com/google-pixel-8-quick-share-airdrop-app-3664510/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
