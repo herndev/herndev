@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Google isn&#39;t scanning your Gmail to train Gemini, it&#39;s letting Gemini scan your inbox to provide &#39;personalized insights&#39; but I&#39;m not sure that&#39;s better](https://www.pcgamer.com/software/ai/google-isnt-scanning-your-gmail-to-train-gemini-its-letting-gemini-scan-your-inbox-to-provide-personalized-insights-but-im-not-sure-thats-better/)
- - [Atari just bought the rights to the big daddy of PC RPGs, and a reissue campaign is afoot](https://www.pcgamer.com/games/rpg/atari-just-bought-the-rights-to-the-big-daddy-of-pc-rpgs-and-a-reissue-campaign-is-afoot/)
- - [With a peak player count of 14.2 million, 99 Nights in the Forest has an audience other multiplayer games would kill for: &#39;To find these behemoth playerbases you need to be on a platform like Roblox&#39;](https://www.pcgamer.com/games/survival-crafting/with-a-peak-player-count-of-14-2-million-99-nights-in-the-forest-has-an-audience-other-multiplayer-games-would-kill-for-to-find-these-behemoth-playerbases-you-need-to-be-on-a-platform-like-roblox/)<!-- GAME:END -->
+ - [47% of PC Gamer readers prove to be sensible upgraders, but 3% of you are sickos who will start looking for your next upgrade straight away](https://www.pcgamer.com/hardware/47-percent-of-pc-gamer-readers-prove-to-be-sensible-upgraders-but-3-percent-of-you-are-sickos-who-will-start-looking-for-your-next-upgrade-straight-away/)
+ - [The Nintendo Switch 2 could see a $50-100 price hike says report as pesky investors complain about the launch price](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-nintendo-switch-2-could-see-a-usd50-100-price-hike-says-report-as-pesky-investors-complain-about-the-price/)
+ - [&lpar;For Southeast Asia&rpar; PlayStation Store: April 2026’s top downloads](https://blog.playstation.com/2026/05/07/20260507-top/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
