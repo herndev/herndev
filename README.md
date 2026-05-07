@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)
- - ⏩ [Ego damage](http://9gag.com/gag/ae9njm5)
- - 👉 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)<!-- MEMES:END -->
+ - 💣 [Grampa evil chess player ...](http://9gag.com/gag/aByAR82)
+ - ⏩ [Truck driver in china saved everyone&#39;s day with his `bro move.`](http://9gag.com/gag/a6Z0m9b)
+ - 👉 [UPS driver to the rescue.](http://9gag.com/gag/a4PXKKw)<!-- MEMES:END -->
 
 ---
 
