@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scale AI wins a $500M DOD contract through the Chief Digital and AI Office to help sift data and assist in decision-making, after receiving a $100M deal in 2025 &lpar;Jen Judson/Bloomberg&rpar;](https://www.techmeme.com/260506/p49#a260506p49)
- - [Musk v. Altman: Shivon Zilis testifies her relationship with Musk didn&#39;t influence her duties as an OpenAI board member; she left in 2023 after Musk started xAI &lpar;Carly Nairn/Courthouse News Service&rpar;](https://www.techmeme.com/260506/p48#a260506p48)
- - [Google appears to have an ‘AI Ultra Lite’ subscription tier in the works](https://www.androidauthority.com/google-gemini-ai-ultra-lite-3664475/)<!-- TECH:END -->
+ - [Musk’s biggest loyalist became his biggest liability](https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony)
+ - [Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla](https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/)
+ - [Roomba Inventor Now Wants You to Own an AI Robot Pet](https://www.cnet.com/tech/services-and-software/former-roomba-inventor-familiar-ai-robot-pet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
