@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&#39;s SpaceX deal helps it address a severe compute deficit and comes amid Elon Musk&#39;s OpenAI lawsuit; Grok never grew to utilize xAI&#39;s Colossus 1 &lpar;Axios&rpar;](https://www.techmeme.com/260507/p15#a260507p15)
- - [Apple India spending $10.5 million on green energy &amp; plastic reduction](https://appleinsider.com/articles/26/05/07/apple-india-spending-105-million-on-green-energy-plastic-reduction?utm_source=rss)
- - [How lidar and other tech developed for autonomous vehicles is now used in smart city systems, in-home elder care services, and major shipyards like Rotterdam &lpar;John R. Quain/New York Times&rpar;](https://www.techmeme.com/260507/p14#a260507p14)<!-- TECH:END -->
+ - [Kalshi raised $1B led by Coatue at a $22B valuation, its third round in seven months after raising $1B and $300M+, and hits $178B in annualized trading volume &lpar;Michael J. de la Merced/New York Times&rpar;](https://www.techmeme.com/260507/p18#a260507p18)
+ - [New OnePlus 16 leak gives us hope after the polarizing OnePlus 15](https://www.androidauthority.com/oneplus-16-leaked-specs-3664651/)
+ - [Sleep Number ComfortNext Lux Smart Bed: Redefining Support](https://www.wired.com/review/sleep-number-comfortnext-lux-smart-bed/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
