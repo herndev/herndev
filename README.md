@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was a close one](http://9gag.com/gag/aRBqx2M)
- - ⏩ [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
- - 👉 [When you think there is no other way companies can milk your money... HP says: hold my beer.](http://9gag.com/gag/aoyQBZg)<!-- MEMES:END -->
+ - 💣 [Gym Life be like](http://9gag.com/gag/awyWqX8)
+ - ⏩ [When you think there is no other way companies can milk your money... HP says: hold my beer.](http://9gag.com/gag/aoyQBZg)
+ - 👉 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)<!-- MEMES:END -->
 
 ---
 
