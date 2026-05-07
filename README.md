@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was a close one](http://9gag.com/gag/aRBqx2M)
- - ⏩ [Old but gold](http://9gag.com/gag/aGymY10)
- - 👉 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)<!-- MEMES:END -->
+ - 💣 [Can&#39;t you see this sign, it&#39;s double yellow lines](http://9gag.com/gag/aryQ1YK)
+ - ⏩ [That was a close one](http://9gag.com/gag/aRBqx2M)
+ - 👉 [No comment](http://9gag.com/gag/aD2KRed)<!-- MEMES:END -->
 
 ---
 
