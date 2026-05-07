@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coffee jitters](http://9gag.com/gag/a346vqN)
+ - 💣 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)
  - ⏩ [No comment](http://9gag.com/gag/aD2KRed)
- - 👉 [Naggers](http://9gag.com/gag/an7meGb)<!-- MEMES:END -->
+ - 👉 [That was a close one](http://9gag.com/gag/aRBqx2M)<!-- MEMES:END -->
 
 ---
 
