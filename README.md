@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Swift Student Challenge winners bring their apps to life with AI](https://appleinsider.com/articles/26/05/07/apples-swift-student-challenge-winners-bring-their-apps-to-life-with-ai?utm_source=rss)
- - [Spotify launches Save to Spotify, a command-line tool that allows AI agents to upload generated audio summaries and personal podcasts to a user&#39;s account &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/260507/p24#a260507p24)
- - [Amy Adams faces Javier Bardem&#39;s Max Cady in Apple TV &#39;Cape Fear&#39; trailer](https://appleinsider.com/articles/26/05/07/amy-adams-faces-javier-bardems-max-cady-in-apple-tv-cape-fear-trailer?utm_source=rss)<!-- TECH:END -->
+ - [There’s actually a good deal happening now on the Xbox Series X](https://www.theverge.com/gadgets/925429/xbox-series-forza-horizon-6-controller-magsafe-airtags-deal-sale)
+ - [Diabetes Detection Needs Better Tools. They’re on the Way](https://www.wired.com/story/diabetes-detection-better-tools-biomarkers/)
+ - [Nothing’s Ear Open will soon be feeling a little blue — here’s when you can get the new color](https://www.androidauthority.com/nothing-ear-open-blue-shade-3664763/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
