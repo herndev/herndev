@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)
- - ⏩ [No comment](http://9gag.com/gag/aD2KRed)
+ - ⏩ [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)
  - 👉 [That was a close one](http://9gag.com/gag/aRBqx2M)<!-- MEMES:END -->
 
 ---
