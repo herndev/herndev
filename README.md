@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Google isn&#39;t scanning your Gmail to train Gemini, it&#39;s letting Gemini scan your inbox to provide &#39;personalized insights&#39; but I&#39;m not sure that&#39;s better](https://www.pcgamer.com/software/ai/google-isnt-scanning-your-gmail-to-train-gemini-its-letting-gemini-scan-your-inbox-to-provide-personalized-insights-but-im-not-sure-thats-better/)
  - [Atari just bought the rights to the big daddy of PC RPGs, and a reissue campaign is afoot](https://www.pcgamer.com/games/rpg/atari-just-bought-the-rights-to-the-big-daddy-of-pc-rpgs-and-a-reissue-campaign-is-afoot/)
- - [With a peak player count of 14.2 million, 99 Nights in the Forest has an audience other multiplayer games would kill for: &#39;To find these behemoth playerbases you need to be on a platform like Roblox&#39;](https://www.pcgamer.com/games/survival-crafting/with-a-peak-player-count-of-14-2-million-99-nights-in-the-forest-has-an-audience-other-multiplayer-games-would-kill-for-to-find-these-behemoth-playerbases-you-need-to-be-on-a-platform-like-roblox/)
- - [All Star Fox games that the new Star Fox game is technically a remake of](https://www.polygon.com/star-fox-2026-remake-64-3d-zero/)<!-- GAME:END -->
+ - [With a peak player count of 14.2 million, 99 Nights in the Forest has an audience other multiplayer games would kill for: &#39;To find these behemoth playerbases you need to be on a platform like Roblox&#39;](https://www.pcgamer.com/games/survival-crafting/with-a-peak-player-count-of-14-2-million-99-nights-in-the-forest-has-an-audience-other-multiplayer-games-would-kill-for-to-find-these-behemoth-playerbases-you-need-to-be-on-a-platform-like-roblox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
