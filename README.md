@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)
- - ⏩ [Does your back hurt? 600d!](http://9gag.com/gag/ae98XOQ)
- - 👉 [That was a close one](http://9gag.com/gag/aRBqx2M)<!-- MEMES:END -->
+ - ⏩ [This is just pretty snow. Inhale deeply...](http://9gag.com/gag/ae9njVj)
+ - 👉 [No comment](http://9gag.com/gag/aD2KRed)<!-- MEMES:END -->
 
 ---
 
