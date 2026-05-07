@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this how English sounds to a non speaker?](http://9gag.com/gag/aAyznoL)
- - ⏩ [That was a close one](http://9gag.com/gag/aRBqx2M)
- - 👉 [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)<!-- MEMES:END -->
+ - 💣 [Gym Life be like](http://9gag.com/gag/awyWqX8)
+ - ⏩ [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
+ - 👉 [No comment](http://9gag.com/gag/aD2KRed)<!-- MEMES:END -->
 
 ---
 
