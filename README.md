@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Android tablet is so thin it may make your phone look chunky](https://www.androidauthority.com/matepad-pro-max-launch-3664339/)
- - [Your next Galaxy Watch update could save you from a nasty fall](https://www.androidauthority.com/samsung-galaxy-watch-6-can-predict-fainting-3664556/)
- - [Your Pixel 8 phone is almost ready for AirDrop support](https://www.androidauthority.com/google-pixel-8-quick-share-airdrop-app-3664510/)<!-- TECH:END -->
+ - [Dreame NEXT 2026: Everything you need to know about the A3 AWD Pro and L60 series](https://www.androidauthority.com/dreame-next-2026-a3-awd-pro-l60-series-3662393/)
+ - [Everyone Should Travel With a Pair of Cheap Wired Headphones &lpar;2026&rpar;](https://www.wired.com/story/cheap-wired-headphones-rave/)
+ - [The Galaxy S26 Ultra is a huge success — and that’s terrible news for all of us](https://www.androidauthority.com/samsung-galaxy-s26-ultra-success-terrible-news-3663750/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
