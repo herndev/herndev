@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [47% of PC Gamer readers prove to be sensible upgraders, but 3% of you are sickos who will start looking for your next upgrade straight away](https://www.pcgamer.com/hardware/47-percent-of-pc-gamer-readers-prove-to-be-sensible-upgraders-but-3-percent-of-you-are-sickos-who-will-start-looking-for-your-next-upgrade-straight-away/)
- - [The Nintendo Switch 2 could see a $50-100 price hike says report as pesky investors complain about the launch price](https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-nintendo-switch-2-could-see-a-usd50-100-price-hike-says-report-as-pesky-investors-complain-about-the-price/)
- - [&lpar;For Southeast Asia&rpar; PlayStation Store: April 2026’s top downloads](https://blog.playstation.com/2026/05/07/20260507-top/)<!-- GAME:END -->
+ - [Apple Suffers A Major Loss As U.S. Supreme Court Sides With Epic Over iOS Fees](https://kotaku.com/epic-games-apple-lawsuit-supreme-court-refuses-appeal-2000693934)
+ - [Send Help is the best survival thriller of the century, and it&#39;s finally streaming on Hulu](https://www.polygon.com/send-help-streaming-hulu/)
+ - [Report says motherboard manufacturers are in crisis as builders aren&#39;t building new rigs as much anymore](https://www.pcgamer.com/hardware/motherboards/report-says-motherboard-manufacturers-are-in-crisis-as-builders-arent-building-new-rigs-as-much-anymore/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
