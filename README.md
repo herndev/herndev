@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo announces new Star Fox for Nintendo Switch 2](https://www.polygon.com/star-fox-2026-game-nintendo-switch-2/)
- - [Nintendo Announces Surprise Remake Of Star Fox 64 For Switch 2 And It Looks Very Cool](https://kotaku.com/nintendo-announces-surprise-remake-of-star-fox-64-for-switch-2-and-it-looks-very-cool-2000693718)
- - [The Witcher 3 console commands list](https://www.polygon.com/the-witcher-3-cheats-console-commands-how-to-use/)<!-- GAME:END -->
+ - [Atari just bought the rights to the big daddy of PC RPGs, and a reissue campaign is afoot](https://www.pcgamer.com/games/rpg/atari-just-bought-the-rights-to-the-big-daddy-of-pc-rpgs-and-a-reissue-campaign-is-afoot/)
+ - [With a peak player count of 14.2 million, 99 Nights in the Forest has an audience other multiplayer games would kill for: &#39;To find these behemoth playerbases you need to be on a platform like Roblox&#39;](https://www.pcgamer.com/games/survival-crafting/with-a-peak-player-count-of-14-2-million-99-nights-in-the-forest-has-an-audience-other-multiplayer-games-would-kill-for-to-find-these-behemoth-playerbases-you-need-to-be-on-a-platform-like-roblox/)
+ - [All Star Fox games that the new Star Fox game is technically a remake of](https://www.polygon.com/star-fox-2026-remake-64-3d-zero/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
