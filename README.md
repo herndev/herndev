@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)
- - ⏩ [This is just pretty snow. Inhale deeply...](http://9gag.com/gag/ae9njVj)
- - 👉 [No comment](http://9gag.com/gag/aD2KRed)<!-- MEMES:END -->
+ - 💣 [Truck driver in china saved everyone&#39;s day with his `bro move.`](http://9gag.com/gag/a6Z0m9b)
+ - ⏩ [She\u2019ll be flying mid 2026](http://9gag.com/gag/aND7r9w)
+ - 👉 [Old age](http://9gag.com/gag/aE09dQ9)<!-- MEMES:END -->
 
 ---
 
