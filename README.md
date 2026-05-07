@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Truck driver in china saved everyone&#39;s day with his `bro move.`](http://9gag.com/gag/a6Z0m9b)
- - ⏩ [She\u2019ll be flying mid 2026](http://9gag.com/gag/aND7r9w)
- - 👉 [Old age](http://9gag.com/gag/aE09dQ9)<!-- MEMES:END -->
+ - 💣 [No comment](http://9gag.com/gag/aD2KRed)
+ - ⏩ [Old but gold](http://9gag.com/gag/aGymY10)
+ - 👉 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)<!-- MEMES:END -->
 
 ---
 
