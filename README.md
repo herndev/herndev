@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T‑Mobile is making it easier for people to get cell service while visiting the US](https://www.androidauthority.com/t-mobile-prepaid-travel-pass-3664797/)
- - [ChatGPT Has &#39;Goblin&#39; Mania in the US. In China It Will &#39;Catch You Steadily&#39;](https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/)
- - [Best Last-Minute Mother’s Day Deals on Mom-Approved Gifts  &lpar;2026&rpar;](https://www.wired.com/story/mothers-day-deals-2026/)<!-- TECH:END -->
+ - [Did Microsoft just tease a new Xbox UI?](https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud)
+ - [Galaxy S26 FE rumors start zeroing in on Samsung’s choice of chipset](https://www.androidauthority.com/galaxy-s26-fe-chip-3664758/)
+ - [DREAME Z1 Pro Robotic Pool Cleaner is now cheaper than Black Friday](https://www.androidauthority.com/dreame-z1-pro-cordless-robotic-pool-cleaner-deal-3664840/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
