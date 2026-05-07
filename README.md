@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumor claims a future iPhone model may use a 3D display by Samsung](https://www.androidauthority.com/samsung-3d-display-iphone-rumor-3664900/)
- - [Sources: OpenAI and Broadcom discuss terms for Broadcom to finance initial custom chip production for ~$18B, conditioned on Microsoft buying ~40% of the chips &lpar;Anissa Gardizy/The Information&rpar;](https://www.techmeme.com/260507/p39#a260507p39)
- - [Anthropic researchers detail natural language autoencoders, which convert LLM activations, the numbers encoding a model&#39;s thoughts, into natural language text &lpar;Anthropic&rpar;](https://www.techmeme.com/260507/p38#a260507p38)<!-- TECH:END -->
+ - [Google may already be testing a ‘deeply integrated’ agentic solution to take on OpenClaw](https://www.androidauthority.com/google-remy-3664909/)
+ - [Airbnb reports Q1 revenue up 18% YoY to $2.68B, vs. $2.62B est., Nights and Seats Booked up 9% to 156.2M, vs. 155.77M est., lifts 2026 revenue growth guidance &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260507/p42#a260507p42)
+ - [Coinbase reports Q1 revenue down 31% YoY to $1.41B, vs. $1.52B est., and a loss of $1.49 per share, vs. a $0.27 profit est.; COIN drops 4%+ after hours &lpar;CNBC&rpar;](https://www.techmeme.com/260507/p41#a260507p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
