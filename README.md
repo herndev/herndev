@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This never gets old](http://9gag.com/gag/aqyP4Nv)
- - ⏩ [The one with the babysitter](http://9gag.com/gag/a34XoZQ)
- - 👉 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)<!-- MEMES:END -->
+ - ⏩ [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
+ - 👉 [Cataturk](http://9gag.com/gag/aXP68V6)<!-- MEMES:END -->
 
 ---
 
