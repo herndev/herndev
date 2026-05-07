@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kalshi raised $1B led by Coatue at a $22B valuation, its third round in seven months after raising $1B and $300M+, and hits $178B in annualized trading volume &lpar;Michael J. de la Merced/New York Times&rpar;](https://www.techmeme.com/260507/p18#a260507p18)
- - [New OnePlus 16 leak gives us hope after the polarizing OnePlus 15](https://www.androidauthority.com/oneplus-16-leaked-specs-3664651/)
- - [Sleep Number ComfortNext Lux Smart Bed: Redefining Support](https://www.wired.com/review/sleep-number-comfortnext-lux-smart-bed/)<!-- TECH:END -->
+ - [Cologne-based AI translation startup DeepL plans to cut ~25% of its workforce, or ~250 staff, saying adapting to AI &quot;means fewer layers&quot; and &quot;faster decisions&quot; &lpar;Amy Thomson/Bloomberg&rpar;](https://www.techmeme.com/260507/p21#a260507p21)
+ - [Inside Dreame’s wild launch event — packed with products no one can buy](https://www.theverge.com/tech/922511/inside-dreames-wild-launch-event-dreame-next-2026)
+ - [Khosla-backed robotics startup Genesis AI unveils GENE-26.5, its first model, which can control robotic hands that it designed in-house to do tasks like cooking &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260507/p20#a260507p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
