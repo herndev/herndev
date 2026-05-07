@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FanDuel CEO Amy Howe departs after five years, succeeded by President Christian Genetski, as parent company Flutter reports MAUs fell 3% YoY to 14.4M in Q1 2026 &lpar;Christopher Kuo/Wall Street Journal&rpar;](https://www.techmeme.com/260506/p54#a260506p54)
- - [Anthropic researchers detail &quot;model spec midtraining&quot;, which adds a stage between pretraining and fine-tuning to improve generalization from alignment training &lpar;Anthropic&rpar;](https://www.techmeme.com/260506/p53#a260506p53)
- - [Sources: the US and China are considering recurring talks on the security risks posed by AI models, with Scott Bessent leading the American side &lpar;Lingling Wei/Wall Street Journal&rpar;](https://www.techmeme.com/260506/p52#a260506p52)<!-- TECH:END -->
+ - [Android Auto beta is suddenly open again, but you’ll need to be quick](https://www.androidauthority.com/android-auto-beta-open-3664497/)
+ - [Price war: AirPods Max 2 drop to record low $509 ahead of Mother&#39;s Day](https://appleinsider.com/articles/26/05/07/price-war-airpods-max-2-drop-to-record-low-509-ahead-of-mothers-day?utm_source=rss)
+ - [Bristol Myers Squibb&#39;s Massachusetts facility boosted drug production volume for clinical and commercial use by ~40% with AI, a bright spot in US manufacturing &lpar;Farah Stockman/New York Times&rpar;](https://www.techmeme.com/260506/p56#a260506p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
