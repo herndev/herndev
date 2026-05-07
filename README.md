@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk’s biggest loyalist became his biggest liability](https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony)
- - [Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla](https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/)
- - [Roomba Inventor Now Wants You to Own an AI Robot Pet](https://www.cnet.com/tech/services-and-software/former-roomba-inventor-familiar-ai-robot-pet/)<!-- TECH:END -->
+ - [Sources: the US and China are considering recurring talks on the security risks posed by AI models, with Scott Bessent leading the American side &lpar;Lingling Wei/Wall Street Journal&rpar;](https://www.techmeme.com/260506/p52#a260506p52)
+ - [A US appeals court strikes down a 2023 FCC rule banning broadband access discrimination based on income, race, and more; Chair Brendan Carr welcomes the ruling &lpar;Jon Brodkin/Ars Technica&rpar;](https://www.techmeme.com/260506/p50#a260506p50)
+ - [Musk’s biggest loyalist became his biggest liability](https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
