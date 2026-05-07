@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cologne-based AI translation startup DeepL plans to cut ~25% of its workforce, or ~250 staff, saying adapting to AI &quot;means fewer layers&quot; and &quot;faster decisions&quot; &lpar;Amy Thomson/Bloomberg&rpar;](https://www.techmeme.com/260507/p21#a260507p21)
- - [Inside Dreame’s wild launch event — packed with products no one can buy](https://www.theverge.com/tech/922511/inside-dreames-wild-launch-event-dreame-next-2026)
- - [Khosla-backed robotics startup Genesis AI unveils GENE-26.5, its first model, which can control robotic hands that it designed in-house to do tasks like cooking &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260507/p20#a260507p20)<!-- TECH:END -->
+ - [Apple&#39;s Swift Student Challenge winners bring their apps to life with AI](https://appleinsider.com/articles/26/05/07/apples-swift-student-challenge-winners-bring-their-apps-to-life-with-ai?utm_source=rss)
+ - [Spotify launches Save to Spotify, a command-line tool that allows AI agents to upload generated audio summaries and personal podcasts to a user&#39;s account &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/260507/p24#a260507p24)
+ - [Amy Adams faces Javier Bardem&#39;s Max Cady in Apple TV &#39;Cape Fear&#39; trailer](https://appleinsider.com/articles/26/05/07/amy-adams-faces-javier-bardems-max-cady-in-apple-tv-cape-fear-trailer?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
