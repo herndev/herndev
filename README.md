@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX has a $55 billion plan to build AI chips in Texas](https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips)
- - [Formula 1 Apple TV switch didn&#39;t get the fan backlash executives feared](https://appleinsider.com/articles/26/05/07/formula-1-apple-tv-switch-didnt-get-the-fan-backlash-executives-feared?utm_source=rss)
- - [Gemini’s speckly new animation is spreading from iOS to Android](https://www.androidauthority.com/new-gemini-animation-3664854/)<!-- TECH:END -->
+ - [Rumor claims a future iPhone model may use a 3D display by Samsung](https://www.androidauthority.com/samsung-3d-display-iphone-rumor-3664900/)
+ - [Sources: OpenAI and Broadcom discuss terms for Broadcom to finance initial custom chip production for ~$18B, conditioned on Microsoft buying ~40% of the chips &lpar;Anissa Gardizy/The Information&rpar;](https://www.techmeme.com/260507/p39#a260507p39)
+ - [Anthropic researchers detail natural language autoencoders, which convert LLM activations, the numbers encoding a model&#39;s thoughts, into natural language text &lpar;Anthropic&rpar;](https://www.techmeme.com/260507/p38#a260507p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
