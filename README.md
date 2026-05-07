@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto beta is suddenly open again, but you’ll need to be quick](https://www.androidauthority.com/android-auto-beta-open-3664497/)
- - [Price war: AirPods Max 2 drop to record low $509 ahead of Mother&#39;s Day](https://appleinsider.com/articles/26/05/07/price-war-airpods-max-2-drop-to-record-low-509-ahead-of-mothers-day?utm_source=rss)
- - [Bristol Myers Squibb&#39;s Massachusetts facility boosted drug production volume for clinical and commercial use by ~40% with AI, a bright spot in US manufacturing &lpar;Farah Stockman/New York Times&rpar;](https://www.techmeme.com/260506/p56#a260506p56)<!-- TECH:END -->
+ - [Analysis: South Korea&#39;s equity market overtakes Canada&#39;s as the world&#39;s seventh largest, driven by Samsung and SK Hynix, whose stocks have more than doubled YTD &lpar;Sangmi Cha/Bloomberg&rpar;](https://www.techmeme.com/260507/p3#a260507p3)
+ - [Vimeo Promo Code: 40% Off This May 2026](https://www.wired.com/story/vimeo-promo-code/)
+ - [Walmart Promo Codes: 65% Off](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
