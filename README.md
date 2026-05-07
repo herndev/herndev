@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can&#39;t you see this sign, it&#39;s double yellow lines](http://9gag.com/gag/aryQ1YK)
- - ⏩ [That was a close one](http://9gag.com/gag/aRBqx2M)
- - 👉 [No comment](http://9gag.com/gag/aD2KRed)<!-- MEMES:END -->
+ - 💣 [Cataturk](http://9gag.com/gag/aXP68V6)
+ - ⏩ [Simply rational debate and reasoning. No cats were harmed in the making of this video.](http://9gag.com/gag/amoeqw2)
+ - 👉 [Arsonist tries to burn down a house, but ends up burning his own getaway car instead. You can&#39;t make this stuff up](http://9gag.com/gag/agmDrgK)<!-- MEMES:END -->
 
 ---
 
