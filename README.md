@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s actually a good deal happening now on the Xbox Series X](https://www.theverge.com/gadgets/925429/xbox-series-forza-horizon-6-controller-magsafe-airtags-deal-sale)
- - [Diabetes Detection Needs Better Tools. They’re on the Way](https://www.wired.com/story/diabetes-detection-better-tools-biomarkers/)
- - [Nothing’s Ear Open will soon be feeling a little blue — here’s when you can get the new color](https://www.androidauthority.com/nothing-ear-open-blue-shade-3664763/)<!-- TECH:END -->
+ - [T‑Mobile is making it easier for people to get cell service while visiting the US](https://www.androidauthority.com/t-mobile-prepaid-travel-pass-3664797/)
+ - [ChatGPT Has &#39;Goblin&#39; Mania in the US. In China It Will &#39;Catch You Steadily&#39;](https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/)
+ - [Best Last-Minute Mother’s Day Deals on Mom-Approved Gifts  &lpar;2026&rpar;](https://www.wired.com/story/mothers-day-deals-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
