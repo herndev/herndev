@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google may already be testing a ‘deeply integrated’ agentic solution to take on OpenClaw](https://www.androidauthority.com/google-remy-3664909/)
- - [Airbnb reports Q1 revenue up 18% YoY to $2.68B, vs. $2.62B est., Nights and Seats Booked up 9% to 156.2M, vs. 155.77M est., lifts 2026 revenue growth guidance &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260507/p42#a260507p42)
- - [Coinbase reports Q1 revenue down 31% YoY to $1.41B, vs. $1.52B est., and a loss of $1.49 per share, vs. a $0.27 profit est.; COIN drops 4%+ after hours &lpar;CNBC&rpar;](https://www.techmeme.com/260507/p41#a260507p41)<!-- TECH:END -->
+ - [Students &amp; teachers can get educational pricing on Apple Watch](https://appleinsider.com/articles/26/05/07/students-teachers-can-get-educational-pricing-on-apple-watch?utm_source=rss)
+ - [GrapheneOS closes an Android VPN loophole before Google does](https://www.androidauthority.com/grapheneos-fixed-android-vpn-flaw-3664926/)
+ - [Nvidia and data center operator IREN announce a deal to deploy up to 5 GW of AI infrastructure; Nvidia can invest $2.1B into IREN; IREN jumps 9%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260507/p44#a260507p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
