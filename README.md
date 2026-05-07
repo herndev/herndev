@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No comment](http://9gag.com/gag/aD2KRed)
- - ⏩ [Old but gold](http://9gag.com/gag/aGymY10)
- - 👉 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)<!-- MEMES:END -->
+ - 💣 [Mom showing off the baby vs dad showing off his cool rock](http://9gag.com/gag/aByARb2)
+ - ⏩ [Truck driver in china saved everyone&#39;s day with his `bro move.`](http://9gag.com/gag/a6Z0m9b)
+ - 👉 [Can&#39;t you see this sign, it&#39;s double yellow lines](http://9gag.com/gag/aryQ1YK)<!-- MEMES:END -->
 
 ---
 
