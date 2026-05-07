@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dreame NEXT 2026: Everything you need to know about the A3 AWD Pro and L60 series](https://www.androidauthority.com/dreame-next-2026-a3-awd-pro-l60-series-3662393/)
- - [Everyone Should Travel With a Pair of Cheap Wired Headphones &lpar;2026&rpar;](https://www.wired.com/story/cheap-wired-headphones-rave/)
- - [The Galaxy S26 Ultra is a huge success — and that’s terrible news for all of us](https://www.androidauthority.com/samsung-galaxy-s26-ultra-success-terrible-news-3663750/)<!-- TECH:END -->
+ - [At Anthropic&#39;s developer conference, Dario Amodei says the company could grow by 80x in 2026, and its growth rate is &quot;crazy&quot; and &quot;too hard to handle&quot; &lpar;Natallie Rocha/New York Times&rpar;](https://www.techmeme.com/260507/p11#a260507p11)
+ - [11 Best Sunscreens, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-sunscreens/)
+ - [Bottom G Wants You to Know He’s More Than Just ‘Gay Andrew Tate’](https://www.wired.com/story/bottom-g-wants-you-to-know-hes-more-than-just-gay-andrew-tate/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
