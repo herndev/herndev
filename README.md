@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did Microsoft just tease a new Xbox UI?](https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud)
- - [Galaxy S26 FE rumors start zeroing in on Samsung’s choice of chipset](https://www.androidauthority.com/galaxy-s26-fe-chip-3664758/)
- - [DREAME Z1 Pro Robotic Pool Cleaner is now cheaper than Black Friday](https://www.androidauthority.com/dreame-z1-pro-cordless-robotic-pool-cleaner-deal-3664840/)<!-- TECH:END -->
+ - [OpenAI launches three new real-time voice models for reasoning, translation, and transcription, included in its Realtime API &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260507/p33#a260507p33)
+ - [B&amp;H&#39;s $1,949 M5 Pro MacBook Pro deal is back, save $250](https://appleinsider.com/articles/26/05/07/bhs-1949-m5-pro-macbook-pro-deal-is-back-save-250?utm_source=rss)
+ - [OpenAI launches Trusted Contact, an optional safety feature for ChatGPT that lets adult users assign an emergency contact for mental health and safety concerns &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260507/p32#a260507p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
