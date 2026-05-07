@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At Anthropic&#39;s developer conference, Dario Amodei says the company could grow by 80x in 2026, and its growth rate is &quot;crazy&quot; and &quot;too hard to handle&quot; &lpar;Natallie Rocha/New York Times&rpar;](https://www.techmeme.com/260507/p11#a260507p11)
- - [11 Best Sunscreens, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-sunscreens/)
- - [Bottom G Wants You to Know He’s More Than Just ‘Gay Andrew Tate’](https://www.wired.com/story/bottom-g-wants-you-to-know-hes-more-than-just-gay-andrew-tate/)<!-- TECH:END -->
+ - [Anthropic&#39;s SpaceX deal helps it address a severe compute deficit and comes amid Elon Musk&#39;s OpenAI lawsuit; Grok never grew to utilize xAI&#39;s Colossus 1 &lpar;Axios&rpar;](https://www.techmeme.com/260507/p15#a260507p15)
+ - [Apple India spending $10.5 million on green energy &amp; plastic reduction](https://appleinsider.com/articles/26/05/07/apple-india-spending-105-million-on-green-energy-plastic-reduction?utm_source=rss)
+ - [How lidar and other tech developed for autonomous vehicles is now used in smart city systems, in-home elder care services, and major shipyards like Rotterdam &lpar;John R. Quain/New York Times&rpar;](https://www.techmeme.com/260507/p14#a260507p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
