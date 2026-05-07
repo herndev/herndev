@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US and China are considering recurring talks on the security risks posed by AI models, with Scott Bessent leading the American side &lpar;Lingling Wei/Wall Street Journal&rpar;](https://www.techmeme.com/260506/p52#a260506p52)
- - [A US appeals court strikes down a 2023 FCC rule banning broadband access discrimination based on income, race, and more; Chair Brendan Carr welcomes the ruling &lpar;Jon Brodkin/Ars Technica&rpar;](https://www.techmeme.com/260506/p50#a260506p50)
- - [Musk’s biggest loyalist became his biggest liability](https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony)<!-- TECH:END -->
+ - [FanDuel CEO Amy Howe departs after five years, succeeded by President Christian Genetski, as parent company Flutter reports MAUs fell 3% YoY to 14.4M in Q1 2026 &lpar;Christopher Kuo/Wall Street Journal&rpar;](https://www.techmeme.com/260506/p54#a260506p54)
+ - [Anthropic researchers detail &quot;model spec midtraining&quot;, which adds a stage between pretraining and fine-tuning to improve generalization from alignment training &lpar;Anthropic&rpar;](https://www.techmeme.com/260506/p53#a260506p53)
+ - [Sources: the US and China are considering recurring talks on the security risks posed by AI models, with Scott Bessent leading the American side &lpar;Lingling Wei/Wall Street Journal&rpar;](https://www.techmeme.com/260506/p52#a260506p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
