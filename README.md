@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This never gets old](http://9gag.com/gag/aqyP4Nv)
- - ⏩ [Gamers will relate](http://9gag.com/gag/a6ZYvRN)
- - 👉 [Cataturk](http://9gag.com/gag/aXP68V6)<!-- MEMES:END -->
+ - 💣 [That was a close one](http://9gag.com/gag/aRBqx2M)
+ - ⏩ [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
+ - 👉 [When you think there is no other way companies can milk your money... HP says: hold my beer.](http://9gag.com/gag/aoyQBZg)<!-- MEMES:END -->
 
 ---
 
