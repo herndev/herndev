@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gym Life be like](http://9gag.com/gag/awyWqX8)
- - ⏩ [Too heavy. Too bricks](http://9gag.com/gag/aLn7qQz)
- - 👉 [No comment](http://9gag.com/gag/aD2KRed)<!-- MEMES:END -->
+ - 💣 [This never gets old](http://9gag.com/gag/aqyP4Nv)
+ - ⏩ [The one with the babysitter](http://9gag.com/gag/a34XoZQ)
+ - 👉 [Gamers will relate](http://9gag.com/gag/a6ZYvRN)<!-- MEMES:END -->
 
 ---
 
