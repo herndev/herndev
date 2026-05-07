@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GameStop CEO Accused Of Auctioning Off History From The Game Informer Vault As Part Of His eBay Acquisition Stunt](https://kotaku.com/gamestop-ebay-ryan-cohen-auction-game-informer-ban-2000693746)
- - [Mixtape: The Kotaku Review](https://kotaku.com/mixtape-review-beethoven-dinosaur-annapurna-interactive-2000693680)
- - [Mixtape review: Annapurna&#39;s coming-of-age comedy is equal parts killer and filler](https://www.polygon.com/mixtape-review/)<!-- GAME:END -->
+ - [Silent Night, Deadly Night is getting a new sequel from the best possible writer](https://www.polygon.com/silent-night-deadlier-night-novel/)
+ - [Aliens: Fireteam Elite 2 is coming this summer, now with more marines and a &#39;massive variety of new xenomorphs&#39; to slice &#39;em up](https://www.pcgamer.com/games/fps/aliens-fireteam-elite-2-is-coming-this-summer-now-with-more-marines-and-a-massive-variety-of-new-xenomorphs-to-slice-em-up/)
+ - [Mortal Kombat 2 Reviews Can’t Decide If It’s Monumentally Dumb And Kind Of Awesome Or Just A Boring Mess](https://kotaku.com/mortal-kombat-2-reviews-cant-decide-if-its-monumentally-dumb-and-kind-of-awesome-or-just-a-boring-mess-2000693692)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
