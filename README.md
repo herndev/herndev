@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: South Korea&#39;s equity market overtakes Canada&#39;s as the world&#39;s seventh largest, driven by Samsung and SK Hynix, whose stocks have more than doubled YTD &lpar;Sangmi Cha/Bloomberg&rpar;](https://www.techmeme.com/260507/p3#a260507p3)
- - [Vimeo Promo Code: 40% Off This May 2026](https://www.wired.com/story/vimeo-promo-code/)
- - [Walmart Promo Codes: 65% Off](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
+ - [Your Pixel 8 phone is almost ready for AirDrop support](https://www.androidauthority.com/google-pixel-8-quick-share-airdrop-app-3664510/)
+ - [We haven’t seen new Wi-Fi audio products in over a year, but Qualcomm has some good news](https://www.androidauthority.com/qualcomm-xpan-update-2026-3663562/)
+ - [Qualcomm&#39;s New Midrange Chips Add Wi-Fi 7, Improve Gaming for Lower-Cost Phones](https://www.cnet.com/tech/mobile/qualcomms-new-midrange-chips-add-wi-fi-7-improve-gaming-for-lower-cost-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
