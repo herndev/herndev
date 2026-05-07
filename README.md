@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coffee jitters](http://9gag.com/gag/a346vqN)
- - ⏩ [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)
- - 👉 [Ego damage](http://9gag.com/gag/ae9njm5)<!-- MEMES:END -->
+ - 💣 [Walgreens closing stores in Chicago due to widespread theft and looting. Local residents protest and call on mayor to charge Walgreens with a crime.](http://9gag.com/gag/aByA9qD)
+ - ⏩ [Ego damage](http://9gag.com/gag/ae9njm5)
+ - 👉 [No comment](http://9gag.com/gag/aD2KRed)<!-- MEMES:END -->
 
 ---
 
