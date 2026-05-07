@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI launches three new real-time voice models for reasoning, translation, and transcription, included in its Realtime API &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260507/p33#a260507p33)
- - [B&amp;H&#39;s $1,949 M5 Pro MacBook Pro deal is back, save $250](https://appleinsider.com/articles/26/05/07/bhs-1949-m5-pro-macbook-pro-deal-is-back-save-250?utm_source=rss)
- - [OpenAI launches Trusted Contact, an optional safety feature for ChatGPT that lets adult users assign an emergency contact for mental health and safety concerns &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260507/p32#a260507p32)<!-- TECH:END -->
+ - [SpaceX has a $55 billion plan to build AI chips in Texas](https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips)
+ - [Formula 1 Apple TV switch didn&#39;t get the fan backlash executives feared](https://appleinsider.com/articles/26/05/07/formula-1-apple-tv-switch-didnt-get-the-fan-backlash-executives-feared?utm_source=rss)
+ - [Gemini’s speckly new animation is spreading from iOS to Android](https://www.androidauthority.com/new-gemini-animation-3664854/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
