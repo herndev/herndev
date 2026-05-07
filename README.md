@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple Suffers A Major Loss As U.S. Supreme Court Sides With Epic Over iOS Fees](https://kotaku.com/epic-games-apple-lawsuit-supreme-court-refuses-appeal-2000693934)
- - [Send Help is the best survival thriller of the century, and it&#39;s finally streaming on Hulu](https://www.polygon.com/send-help-streaming-hulu/)
- - [Report says motherboard manufacturers are in crisis as builders aren&#39;t building new rigs as much anymore](https://www.pcgamer.com/hardware/motherboards/report-says-motherboard-manufacturers-are-in-crisis-as-builders-arent-building-new-rigs-as-much-anymore/)<!-- GAME:END -->
+ - [GameStop CEO Accused Of Auctioning Off History From The Game Informer Vault As Part Of His eBay Acquisition Stunt](https://kotaku.com/gamestop-ebay-ryan-cohen-auction-game-informer-ban-2000693746)
+ - [Mixtape: The Kotaku Review](https://kotaku.com/mixtape-review-beethoven-dinosaur-annapurna-interactive-2000693680)
+ - [Mixtape review: Annapurna&#39;s coming-of-age comedy is equal parts killer and filler](https://www.polygon.com/mixtape-review/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
