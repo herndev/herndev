@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)
- - ⏩ [Two japanese boy with their nanny](http://9gag.com/gag/a7oYLVr)
- - 👉 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)<!-- MEMES:END -->
+ - 💣 [Even his last meal is creepy...](http://9gag.com/gag/aByARQP)
+ - ⏩ [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)
+ - 👉 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)<!-- MEMES:END -->
 
 ---
 
