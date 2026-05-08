@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MercadoLibre reports Q1 revenue up 49% YoY to $8.8B, vs. $8.4B est., and net income down 16% to $417M, vs. $433M est.; MELI drops 5%+ after hours &lpar;Bloomberg&rpar;](https://www.techmeme.com/260507/p49#a260507p49)
- - [French prosecutors escalate an investigation into Elon Musk and X, focused on alleged algorithmic manipulation and sexual deepfakes, to a criminal probe &lpar;Lora Kolodny/CNBC&rpar;](https://www.techmeme.com/260507/p48#a260507p48)
- - [Samsung&#39;s Galaxy Watches Could Alert Users Before They Faint](https://www.cnet.com/health/studies-prove-samsungs-galaxy-watches-can-accurately-warn-you-about-fainting/)<!-- TECH:END -->
+ - [TikTok&#39;s AI Overviews Probably Thinks This Story Is a Blueberry](https://www.cnet.com/tech/services-and-software/tiktok-shuts-down-ai-overview-blueberry/)
+ - [Move Over, Matrix. This Is the Ultimate &#39;90s Cyberpunk Movie](https://www.cnet.com/culture/entertainment/strange-days-movie-90s-cyberpunk-kathryn-bigelow/)
+ - [Mozilla says Anthropic&#39;s Mythos Preview and other AI models helped it identify and ship 423 Firefox security bug fixes in April, compared to 31 a year earlier &lpar;Russell Brandom/TechCrunch&rpar;](https://www.techmeme.com/260507/p51#a260507p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
