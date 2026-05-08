@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everyone should follow Logitech and put extra USB ports on iPad keyboard cases](https://www.theverge.com/tech/926852/logitech-rugged-combo-4c-keyboard-touchpad-extra-usb-c-port)
- - [Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure](https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure)
- - [The company that owns Moog, Akai Pro, and Numark is buying Native Instruments](https://www.theverge.com/entertainment/926841/native-instruments-inmusic)<!-- TECH:END -->
+ - [OnlyFans agrees to sell a ~16% stake to Architect Capital for $535M in a deal that values the company at about $3.15B &lpar;Olivia Solon/Bloomberg&rpar;](https://www.techmeme.com/260508/p23#a260508p23)
+ - [Google’s not holding back on the color with Wallet’s bold new passes redesign](https://www.androidauthority.com/google-wallet-colorful-passes-3665121/)
+ - [Google Wallet is testing a better way to manage your Gmail receipts and passes](https://www.androidauthority.com/google-wallet-manage-passes-receipts-gmail-apk-teardown-3665133/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
