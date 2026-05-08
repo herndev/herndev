@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I could have been baking bread...](http://9gag.com/gag/aPAEvGg)
- - ⏩ [Accept this bonjour and you will be one lucky buoy](http://9gag.com/gag/aPAEy0G)
- - 👉 [Rare intelligence from the land of resources](http://9gag.com/gag/aD2Kw8x)<!-- MEMES:END -->
+ - 💣 [Just a bear checking out the competition](http://9gag.com/gag/aMVo2Dx)
+ - ⏩ [Downgrade](http://9gag.com/gag/a87RWDY)
+ - 👉 [Ego damage](http://9gag.com/gag/ae9njm5)<!-- MEMES:END -->
 
 ---
 
