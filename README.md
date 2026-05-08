@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy 100th to one of the best of us.](http://9gag.com/gag/abAN5wb)
- - ⏩ [Haha](http://9gag.com/gag/a9yxdyo)
- - 👉 [Average Brazilian coffee experience](http://9gag.com/gag/a6Z0wXq)<!-- MEMES:END -->
+ - 💣 [You know OF right?...](http://9gag.com/gag/aqyP9jQ)
+ - ⏩ [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)
+ - 👉 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)<!-- MEMES:END -->
 
 ---
 
