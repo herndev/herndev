@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to pause Activity Rings in watchOS 26 when you need a break](https://appleinsider.com/inside/watchos-11/tips/how-to-pause-activity-rings-in-watchos-11-when-you-need-a-break?utm_source=rss)
- - [Sources: White House unease over Mythos has left some administration officials fearful that the change represents a reversal of its hands-off AI policy &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260507/p54#a260507p54)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, May 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-8/)<!-- TECH:END -->
+ - [Sony reports 1.5M PS5 unit sales in Q4, down 46% YoY, and forecasts annual sales at its gaming business to fall 6% YoY to $1.69B, amid memory chip price surge &lpar;Sam Nussey/Reuters&rpar;](https://www.techmeme.com/260508/p2#a260508p2)
+ - [The Canvas Hack Is a New Kind of Ransomware Debacle](https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/)
+ - [50% Off DoorDash Promo Code | May 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
