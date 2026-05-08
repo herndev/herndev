@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnlyFans agrees to sell a ~16% stake to Architect Capital for $535M in a deal that values the company at about $3.15B &lpar;Olivia Solon/Bloomberg&rpar;](https://www.techmeme.com/260508/p23#a260508p23)
- - [Google’s not holding back on the color with Wallet’s bold new passes redesign](https://www.androidauthority.com/google-wallet-colorful-passes-3665121/)
- - [Google Wallet is testing a better way to manage your Gmail receipts and passes](https://www.androidauthority.com/google-wallet-manage-passes-receipts-gmail-apk-teardown-3665133/)<!-- TECH:END -->
+ - [Apple reportedly has a deal to use Intel-made chips again](https://www.theverge.com/tech/926988/apple-intel-chips)
+ - [The Steam Controller’s reservation queue is open](https://www.theverge.com/gadgets/924672/steam-controller-reservation-queue-buy)
+ - [Sources: Apple and Intel have reached a formal deal in recent months for Intel to manufacture some chips for Apple devices &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260508/p24#a260508p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
