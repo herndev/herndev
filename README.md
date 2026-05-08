@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Having trouble accessing Discord? Outage is impacting logins, messaging, and more](https://www.androidauthority.com/discord-down-3665259/)
- - [Health sensors on Google wearables are breaking down at an awkward moment](https://www.androidauthority.com/google-pixel-watch-broken-spo2-skin-temperature-tracking-3665242/)
- - [Federal prosecutors bust suspects in million-dollar Apple delivery truck heist](https://appleinsider.com/articles/26/05/08/federal-prosecutors-bust-suspects-in-million-dollar-apple-delivery-truck-heist?utm_source=rss)<!-- TECH:END -->
+ - [Codex users have been begging OpenAI for this upgrade — and it’s finally in the works](https://www.androidauthority.com/codex-smartphone-control-3665256/)
+ - [Denon Home series speakers review: Siri smarts with superior sound](https://appleinsider.com/articles/26/05/08/denon-home-series-speakers-review-siri-smarts-with-superior-sound?utm_source=rss)
+ - [Impressions of China&#39;s AI ecosystem after visiting many leading AI labs there, and the similarities and differences in working on LLMs in China and the West &lpar;Nathan Lambert/Interconnects AI&rpar;](https://www.techmeme.com/260508/p31#a260508p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
