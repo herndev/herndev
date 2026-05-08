@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nanoleaf bets its future on robots, red light therapy, and AI](https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness)
- - [Android’s Photo picker may finally fix its biggest missing feature](https://www.androidauthority.com/android-photo-picker-camera-shortcut-apk-teardown-3665063/)
- - [European Central Bank President Christine Lagarde expressed skepticism over the need for euro-pegged stablecoins, saying they could hamper the ECB&#39;s work &lpar;Reuters&rpar;](https://www.techmeme.com/260508/p18#a260508p18)<!-- TECH:END -->
+ - [Sony reports a $765M impairment loss due to underperformance of Marathon developer Bungie during the financial year ending March 31, 2026 &lpar;Wesley Yin-Poole/IGN&rpar;](https://www.techmeme.com/260508/p20#a260508p20)
+ - [Mac shortages, iPhone rumors, and &#39;Schmigadoon!&#39; on the AppleInsider Podcast](https://appleinsider.com/articles/26/05/08/mac-shortages-iphone-rumors-and-schmigadoon-on-the-appleinsider-podcast?utm_source=rss)
+ - [Google opens its smartest Gmail writing feature to basically everyone](https://www.androidauthority.com/gmail-help-me-write-upgrades-wide-rollout-3665099/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
