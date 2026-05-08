@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even his last meal is creepy...](http://9gag.com/gag/aByARQP)
- - ⏩ [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)
- - 👉 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)<!-- MEMES:END -->
+ - 💣 [UPS driver to the rescue.](http://9gag.com/gag/a4PXKKw)
+ - ⏩ [Truck driver in china saved everyone&#39;s day with his `bro move.`](http://9gag.com/gag/a6Z0m9b)
+ - 👉 [Haha](http://9gag.com/gag/a9yxdyo)<!-- MEMES:END -->
 
 ---
 
