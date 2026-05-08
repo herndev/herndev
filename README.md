@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From the archives](http://9gag.com/gag/a0er9Wq)
- - ⏩ [Whatever it is, no one reads it anyway](http://9gag.com/gag/aAy8Yro)
- - 👉 [Haha](http://9gag.com/gag/a9yxdyo)<!-- MEMES:END -->
+ - 💣 [Downgrade](http://9gag.com/gag/a87RWDY)
+ - ⏩ [My fellow gen z... she&#39;s a cougar now...](http://9gag.com/gag/aE09v9n)
+ - 👉 [The forbidden jelly don\u2019t](http://9gag.com/gag/aByAQ0x)<!-- MEMES:END -->
 
 ---
 
