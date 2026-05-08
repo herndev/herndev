@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [UPS driver to the rescue.](http://9gag.com/gag/a4PXKKw)
- - ⏩ [Truck driver in china saved everyone&#39;s day with his `bro move.`](http://9gag.com/gag/a6Z0m9b)
- - 👉 [Haha](http://9gag.com/gag/a9yxdyo)<!-- MEMES:END -->
+ - 💣 [Happy 100th to one of the best of us.](http://9gag.com/gag/abAN5wb)
+ - ⏩ [Haha](http://9gag.com/gag/a9yxdyo)
+ - 👉 [Average Brazilian coffee experience](http://9gag.com/gag/a6Z0wXq)<!-- MEMES:END -->
 
 ---
 
