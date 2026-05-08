@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US suspects OBON, a key company behind Thailand&#39;s national AI effort, of smuggling Super Micro servers with export-controlled Nvidia chips to China &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p10#a260508p10)
- - [Sony&amp;#8217;s PS5 sales plummet amid price rises and a memory crisis](https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes)
- - [Nintendo says it will increase the price of the Switch 2 to $500, up from $450, globally from September 1, and offers a downbeat performance outlook for 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p9#a260508p9)<!-- TECH:END -->
+ - [Sony reports Q4 revenue of $19.4B, above ~$18.4B est., operating profit of ~$1.06B, below ~$1.7B est., and forecasts FY 2027 net profit to rise 13% to ~$7.4B &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260508/p13#a260508p13)
+ - [Billie Eilish Doesn&#39;t Know if There Will Ever Be Another Billie Eilish](https://www.wired.com/story/billie-eilish-doesnt-know-if-there-will-ever-be-another-billie-eilish/)
+ - [ChatGPT can now alert your ‘Trusted Contact’ in critical moments](https://www.androidauthority.com/chatgpt-trusted-contact-3665049/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
