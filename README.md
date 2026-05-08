@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone is ready for divorce](http://9gag.com/gag/aRBbwYG)
- - ⏩ [Ego damage](http://9gag.com/gag/ae9njm5)
- - 👉 [Downgrade](http://9gag.com/gag/a87RWDY)<!-- MEMES:END -->
+ - 💣 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
+ - ⏩ [The ultimate fear on a first date](http://9gag.com/gag/a2v3PPe)
+ - 👉 [Average Brazilian coffee experience](http://9gag.com/gag/a6Z0wXq)<!-- MEMES:END -->
 
 ---
 
