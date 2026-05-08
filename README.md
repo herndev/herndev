@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A hack of Instructure&#39;s Canvas locked out students at schools and universities across the US in the middle of finals period; some US colleges postponed exams &lpar;Associated Press&rpar;](https://www.techmeme.com/260508/p28#a260508p28)
- - [Here is Yarbo’s promise to fix the robot mower that ran me over](https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise)
- - [Sources: Isomorphic Labs, an AI-powered drug discovery company spun out of Google DeepMind, is in advanced talks to raise $2B+ led by Thrive Capital &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p27#a260508p27)<!-- TECH:END -->
+ - [Having trouble accessing Discord? Outage is impacting logins, messaging, and more](https://www.androidauthority.com/discord-down-3665259/)
+ - [Health sensors on Google wearables are breaking down at an awkward moment](https://www.androidauthority.com/google-pixel-watch-broken-spo2-skin-temperature-tracking-3665242/)
+ - [Federal prosecutors bust suspects in million-dollar Apple delivery truck heist](https://appleinsider.com/articles/26/05/08/federal-prosecutors-bust-suspects-in-million-dollar-apple-delivery-truck-heist?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
