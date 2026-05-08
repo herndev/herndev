@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No comment](http://9gag.com/gag/aD2KRed)
+ - 💣 [Oxbridge Boatrace](http://9gag.com/gag/aD2KREK)
  - ⏩ [You know OF right?...](http://9gag.com/gag/aqyP9jQ)
- - 👉 [Ego damage](http://9gag.com/gag/ae9njm5)<!-- MEMES:END -->
+ - 👉 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)<!-- MEMES:END -->
 
 ---
 
