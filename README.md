@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Surveys: half of US adults under 50 get health info from influencers or podcasts; 86% of the health influencers are on Instagram, 62% on TikTok, 45% on YouTube &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260508/p8#a260508p8)
  - [Analysis: the combined free cash flow of Amazon, Alphabet, Microsoft, and Meta is expected to fall to ~$4B in Q3 and hit its lowest full-year level since 2014 &lpar;Financial Times&rpar;](https://www.techmeme.com/260508/p7#a260508p7)
- - [Filings: Baidu&#39;s AI chip unit Kunlunxin is planning a dual IPO on Shanghai&#39;s STAR Board and in Hong Kong; Baidu holds a 58% stake in Kunlunxin &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p6#a260508p6)
- - [Fintech app Toss, used by ~66% of South Korea&#39;s 51M people, says its FacePay service, available at 330K retail outlets, has attracted 4.8M users since September &lpar;Financial Times&rpar;](https://www.techmeme.com/260508/p5#a260508p5)<!-- TECH:END -->
+ - [Filings: Baidu&#39;s AI chip unit Kunlunxin is planning a dual IPO on Shanghai&#39;s STAR Board and in Hong Kong; Baidu holds a 58% stake in Kunlunxin &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p6#a260508p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
