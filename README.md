@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony reports a $765M impairment loss due to underperformance of Marathon developer Bungie during the financial year ending March 31, 2026 &lpar;Wesley Yin-Poole/IGN&rpar;](https://www.techmeme.com/260508/p20#a260508p20)
- - [Mac shortages, iPhone rumors, and &#39;Schmigadoon!&#39; on the AppleInsider Podcast](https://appleinsider.com/articles/26/05/08/mac-shortages-iphone-rumors-and-schmigadoon-on-the-appleinsider-podcast?utm_source=rss)
- - [Google opens its smartest Gmail writing feature to basically everyone](https://www.androidauthority.com/gmail-help-me-write-upgrades-wide-rollout-3665099/)<!-- TECH:END -->
+ - [Whoop plans to offer on-demand video consultations with licensed clinicians for US users, and adds electronic health records and AI-powered health guidance &lpar;Brandon Gomez/CNBC&rpar;](https://www.techmeme.com/260508/p21#a260508p21)
+ - [BOOX just added the one accessory Kindle users keep begging for](https://www.androidauthority.com/boox-tappy-remote-launch-3664876/)
+ - [Boox’s new page-turning e-reader remote is a tiny two-button keyboard](https://www.theverge.com/tech/926240/boox-tappy-page-turn-scroll-button-bluetooth-remote)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
