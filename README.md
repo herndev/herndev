@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to pause Activity Rings in watchOS 26 when you need a break](https://appleinsider.com/inside/watchos-11/tips/how-to-pause-activity-rings-in-watchos-11-when-you-need-a-break?utm_source=rss)
  - [Sources: White House unease over Mythos has left some administration officials fearful that the change represents a reversal of its hands-off AI policy &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260507/p54#a260507p54)
- - [Canadian encryption law could force Apple to take drastic action like in UK](https://appleinsider.com/articles/26/05/08/canadian-encryption-law-could-force-apple-to-take-drastic-action-like-in-uk?utm_source=rss)
- - [Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI](https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, May 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-8/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
