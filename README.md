@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Downgrade](http://9gag.com/gag/a87RWDY)
- - ⏩ [His mother abandoned him\u2026 so humans became his family](http://9gag.com/gag/aVvpO1P)
- - 👉 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)<!-- MEMES:END -->
+ - 💣 [Happy 100th to one of the best of us.](http://9gag.com/gag/abAN5wb)
+ - ⏩ [When you get pulled over by Bill Burr](http://9gag.com/gag/aByAQdz)
+ - 👉 [I could have been baking bread...](http://9gag.com/gag/aPAEvGg)<!-- MEMES:END -->
 
 ---
 
