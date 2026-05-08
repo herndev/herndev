@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Weekend deal: Apple&#39;s 1TB M5 MacBook Pro with 24GB RAM falls to $1,699](https://appleinsider.com/articles/26/05/08/weekend-deal-apples-1tb-m5-macbook-pro-with-24gb-ram-falls-to-1699?utm_source=rss)
- - [Akamai says it struck a seven-year cloud computing deal with a &quot;leading frontier model provider&quot;; sources: the deal was with Anthropic and is worth $1.8B &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/260508/p26#a260508p26)
- - [Tesla’s Latest Recall? Wheels May Fall Off Cybertrucks](https://www.wired.com/story/the-latest-tesla-recall-wheels-may-fall-off-cybertrucks/)<!-- TECH:END -->
+ - [A hack of Instructure&#39;s Canvas locked out students at schools and universities across the US in the middle of finals period; some US colleges postponed exams &lpar;Associated Press&rpar;](https://www.techmeme.com/260508/p28#a260508p28)
+ - [Here is Yarbo’s promise to fix the robot mower that ran me over](https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise)
+ - [Sources: Isomorphic Labs, an AI-powered drug discovery company spun out of Google DeepMind, is in advanced talks to raise $2B+ led by Thrive Capital &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p27#a260508p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
