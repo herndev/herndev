@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JerryRigEverything teardown reveals this ~$2,000 Ultra phone has a plastic back](https://www.androidauthority.com/jerryrigeverything-ultra-phone-plastic-back-3665057/)
- - [Nintendo reports Q4 revenue of ~$2.60B, below ~$2.75B est., net profit of ~$416M, above ~$403.68M est., and forecasts a decline in FY 2027 Switch 2 unit sales &lpar;Arjun Kharpal/CNBC&rpar;](https://www.techmeme.com/260508/p15#a260508p15)
- - [iOS 26 review one year later: Liquid Glass complaints hide the real problem](https://appleinsider.com/articles/26/05/08/ios-26-review-one-year-later-liquid-glass-complaints-hide-the-real-problem?utm_source=rss)<!-- TECH:END -->
+ - [Nanoleaf bets its future on robots, red light therapy, and AI](https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness)
+ - [Android’s Photo picker may finally fix its biggest missing feature](https://www.androidauthority.com/android-photo-picker-camera-shortcut-apk-teardown-3665063/)
+ - [European Central Bank President Christine Lagarde expressed skepticism over the need for euro-pegged stablecoins, saying they could hamper the ECB&#39;s work &lpar;Reuters&rpar;](https://www.techmeme.com/260508/p18#a260508p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
