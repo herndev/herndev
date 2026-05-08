@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whatever it is, no one reads it anyway](http://9gag.com/gag/aAy8Yro)
- - ⏩ [Haha](http://9gag.com/gag/a9yxdyo)
- - 👉 [Perfectly executed destruction](http://9gag.com/gag/abANXQ8)<!-- MEMES:END -->
+ - 💣 [She&#39;s ready to take advantage of the situation](http://9gag.com/gag/aoyvE50)
+ - ⏩ [Cops Arrest Completely Sober Driver](http://9gag.com/gag/aLnZRMW)
+ - 👉 [Slapped](http://9gag.com/gag/aVvpQKM)<!-- MEMES:END -->
 
 ---
 
