@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony reports Q4 revenue of $19.4B, above ~$18.4B est., operating profit of ~$1.06B, below ~$1.7B est., and forecasts FY 2027 net profit to rise 13% to ~$7.4B &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260508/p13#a260508p13)
- - [Billie Eilish Doesn&#39;t Know if There Will Ever Be Another Billie Eilish](https://www.wired.com/story/billie-eilish-doesnt-know-if-there-will-ever-be-another-billie-eilish/)
- - [ChatGPT can now alert your ‘Trusted Contact’ in critical moments](https://www.androidauthority.com/chatgpt-trusted-contact-3665049/)<!-- TECH:END -->
+ - [JerryRigEverything teardown reveals this ~$2,000 Ultra phone has a plastic back](https://www.androidauthority.com/jerryrigeverything-ultra-phone-plastic-back-3665057/)
+ - [Nintendo reports Q4 revenue of ~$2.60B, below ~$2.75B est., net profit of ~$416M, above ~$403.68M est., and forecasts a decline in FY 2027 Switch 2 unit sales &lpar;Arjun Kharpal/CNBC&rpar;](https://www.techmeme.com/260508/p15#a260508p15)
+ - [iOS 26 review one year later: Liquid Glass complaints hide the real problem](https://appleinsider.com/articles/26/05/08/ios-26-review-one-year-later-liquid-glass-complaints-hide-the-real-problem?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
