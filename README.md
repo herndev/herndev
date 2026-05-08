@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Average Greek wedding be like:](http://9gag.com/gag/aMVobXG)
- - ⏩ [Downgrade](http://9gag.com/gag/a87RWDY)
- - 👉 [My fellow gen z... she&#39;s a cougar now...](http://9gag.com/gag/aE09v9n)<!-- MEMES:END -->
+ - 💣 [I could have been baking bread...](http://9gag.com/gag/aPAEvGg)
+ - ⏩ [Accept this bonjour and you will be one lucky buoy](http://9gag.com/gag/aPAEy0G)
+ - 👉 [Rare intelligence from the land of resources](http://9gag.com/gag/aD2Kw8x)<!-- MEMES:END -->
 
 ---
 
