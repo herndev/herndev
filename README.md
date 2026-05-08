@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony reports 1.5M PS5 unit sales in Q4, down 46% YoY, and forecasts annual sales at its gaming business to fall 6% YoY to $1.69B, amid memory chip price surge &lpar;Sam Nussey/Reuters&rpar;](https://www.techmeme.com/260508/p2#a260508p2)
- - [The Canvas Hack Is a New Kind of Ransomware Debacle](https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/)
- - [50% Off DoorDash Promo Code | May 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
+ - [Analysis: the combined free cash flow of Amazon, Alphabet, Microsoft, and Meta is expected to fall to ~$4B in Q3 and hit its lowest full-year level since 2014 &lpar;Financial Times&rpar;](https://www.techmeme.com/260508/p7#a260508p7)
+ - [Filings: Baidu&#39;s AI chip unit Kunlunxin is planning a dual IPO on Shanghai&#39;s STAR Board and in Hong Kong; Baidu holds a 58% stake in Kunlunxin &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p6#a260508p6)
+ - [Fintech app Toss, used by ~66% of South Korea&#39;s 51M people, says its FacePay service, available at 330K retail outlets, has attracted 4.8M users since September &lpar;Financial Times&rpar;](https://www.techmeme.com/260508/p5#a260508p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
