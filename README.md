@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reportedly has a deal to use Intel-made chips again](https://www.theverge.com/tech/926988/apple-intel-chips)
- - [The Steam Controller’s reservation queue is open](https://www.theverge.com/gadgets/924672/steam-controller-reservation-queue-buy)
- - [Sources: Apple and Intel have reached a formal deal in recent months for Intel to manufacture some chips for Apple devices &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260508/p24#a260508p24)<!-- TECH:END -->
+ - [Weekend deal: Apple&#39;s 1TB M5 MacBook Pro with 24GB RAM falls to $1,699](https://appleinsider.com/articles/26/05/08/weekend-deal-apples-1tb-m5-macbook-pro-with-24gb-ram-falls-to-1699?utm_source=rss)
+ - [Akamai says it struck a seven-year cloud computing deal with a &quot;leading frontier model provider&quot;; sources: the deal was with Anthropic and is worth $1.8B &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/260508/p26#a260508p26)
+ - [Tesla’s Latest Recall? Wheels May Fall Off Cybertrucks](https://www.wired.com/story/the-latest-tesla-recall-wheels-may-fall-off-cybertrucks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
