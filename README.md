@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The forbidden jelly don\u2019t](http://9gag.com/gag/aByAQ0x)
- - ⏩ [John Wayk](http://9gag.com/gag/aND7rMr)
+ - 💣 [He just found her Sugar Mommy](http://9gag.com/gag/ajPzQp0)
+ - ⏩ [She&#39;s ready to take advantage of the situation](http://9gag.com/gag/aoyvE50)
  - 👉 [Downgrade](http://9gag.com/gag/a87RWDY)<!-- MEMES:END -->
 
 ---
