@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok&#39;s AI Overviews Probably Thinks This Story Is a Blueberry](https://www.cnet.com/tech/services-and-software/tiktok-shuts-down-ai-overview-blueberry/)
- - [Move Over, Matrix. This Is the Ultimate &#39;90s Cyberpunk Movie](https://www.cnet.com/culture/entertainment/strange-days-movie-90s-cyberpunk-kathryn-bigelow/)
- - [Mozilla says Anthropic&#39;s Mythos Preview and other AI models helped it identify and ship 423 Firefox security bug fixes in April, compared to 31 a year earlier &lpar;Russell Brandom/TechCrunch&rpar;](https://www.techmeme.com/260507/p51#a260507p51)<!-- TECH:END -->
+ - [Sources: White House unease over Mythos has left some administration officials fearful that the change represents a reversal of its hands-off AI policy &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260507/p54#a260507p54)
+ - [Canadian encryption law could force Apple to take drastic action like in UK](https://appleinsider.com/articles/26/05/08/canadian-encryption-law-could-force-apple-to-take-drastic-action-like-in-uk?utm_source=rss)
+ - [Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI](https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
