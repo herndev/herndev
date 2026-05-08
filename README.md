@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Look at how they massacred my boy: Google is killing these Fitbit app features](https://www.androidauthority.com/google-health-kill-fitbit-app-features-3664983/)
  - [Surveys: half of US adults under 50 get health info from influencers or podcasts; 86% of the health influencers are on Instagram, 62% on TikTok, 45% on YouTube &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260508/p8#a260508p8)
- - [Analysis: the combined free cash flow of Amazon, Alphabet, Microsoft, and Meta is expected to fall to ~$4B in Q3 and hit its lowest full-year level since 2014 &lpar;Financial Times&rpar;](https://www.techmeme.com/260508/p7#a260508p7)
- - [Filings: Baidu&#39;s AI chip unit Kunlunxin is planning a dual IPO on Shanghai&#39;s STAR Board and in Hong Kong; Baidu holds a 58% stake in Kunlunxin &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p6#a260508p6)<!-- TECH:END -->
+ - [Analysis: the combined free cash flow of Amazon, Alphabet, Microsoft, and Meta is expected to fall to ~$4B in Q3 and hit its lowest full-year level since 2014 &lpar;Financial Times&rpar;](https://www.techmeme.com/260508/p7#a260508p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
