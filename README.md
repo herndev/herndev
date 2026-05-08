@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Block reports Q1 revenue up 5% YoY to $6.1B, vs. $5.9B est., and raises its 2026 gross profit forecast above estimates; XYZ jumps 7%+ after hours &lpar;Isabelle Lee/Bloomberg&rpar;](https://www.techmeme.com/260507/p47#a260507p47)
- - [Apple can&#39;t avoid $4.1 billion iCloud suit in UK](https://appleinsider.com/articles/26/05/07/apple-cant-avoid-41-billion-icloud-suit-in-uk?utm_source=rss)
- - [Lyft reports Q1 revenue up 14% YoY to $1.65B, vs. $1.63B est., gross bookings up 19% to $4.95B, vs. $4.91B est., and rides up 8.5% to 236.9M, vs. 241.2M est. &lpar;Kelly Cloonan/Wall Street Journal&rpar;](https://www.techmeme.com/260507/p46#a260507p46)<!-- TECH:END -->
+ - [MercadoLibre reports Q1 revenue up 49% YoY to $8.8B, vs. $8.4B est., and net income down 16% to $417M, vs. $433M est.; MELI drops 5%+ after hours &lpar;Bloomberg&rpar;](https://www.techmeme.com/260507/p49#a260507p49)
+ - [French prosecutors escalate an investigation into Elon Musk and X, focused on alleged algorithmic manipulation and sexual deepfakes, to a criminal probe &lpar;Lora Kolodny/CNBC&rpar;](https://www.techmeme.com/260507/p48#a260507p48)
+ - [Samsung&#39;s Galaxy Watches Could Alert Users Before They Faint](https://www.cnet.com/health/studies-prove-samsungs-galaxy-watches-can-accurately-warn-you-about-fainting/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
