@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The forbidden jelly don\u2019t](http://9gag.com/gag/aByAQ0x)
- - ⏩ [Ego damage](http://9gag.com/gag/ae9njm5)
- - 👉 [She&#39;s ready to take advantage of the situation](http://9gag.com/gag/aoyvE50)<!-- MEMES:END -->
+ - 💣 [From the archives](http://9gag.com/gag/a0er9Wq)
+ - ⏩ [Whatever it is, no one reads it anyway](http://9gag.com/gag/aAy8Yro)
+ - 👉 [Haha](http://9gag.com/gag/a9yxdyo)<!-- MEMES:END -->
 
 ---
 
