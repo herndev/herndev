@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Codex users have been begging OpenAI for this upgrade — and it’s finally in the works](https://www.androidauthority.com/codex-smartphone-control-3665256/)
- - [Denon Home series speakers review: Siri smarts with superior sound](https://appleinsider.com/articles/26/05/08/denon-home-series-speakers-review-siri-smarts-with-superior-sound?utm_source=rss)
- - [Impressions of China&#39;s AI ecosystem after visiting many leading AI labs there, and the similarities and differences in working on LLMs in China and the West &lpar;Nathan Lambert/Interconnects AI&rpar;](https://www.techmeme.com/260508/p31#a260508p31)<!-- TECH:END -->
+ - [Sources: WH is preparing to order US agencies to partner with AI companies on cybersecurity; the EO wouldn&#39;t require pre-release model testing by the government &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p33#a260508p33)
+ - [EU warns that VPNs are being used to bypass online age-verification systems, calling their use &quot;a loophole in the legislation that needs closing&quot; &lpar;Alex Lekander/CyberInsider&rpar;](https://www.techmeme.com/260508/p32#a260508p32)
+ - [WHOOP’s answer to the Fitbit Air is doctor access in its app](https://www.androidauthority.com/whoop-on-demand-clinician-access-in-app-3665264/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
