@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude did the impossible and achieved Raygun level skill](http://9gag.com/gag/aD2KAGB)
- - ⏩ [She&#39;s ready to take advantage of the situation](http://9gag.com/gag/aoyvE50)
- - 👉 [Ego damage](http://9gag.com/gag/ae9njm5)<!-- MEMES:END -->
+ - 💣 [The forbidden jelly don\u2019t](http://9gag.com/gag/aByAQ0x)
+ - ⏩ [John Wayk](http://9gag.com/gag/aND7rMr)
+ - 👉 [Downgrade](http://9gag.com/gag/a87RWDY)<!-- MEMES:END -->
 
 ---
 
