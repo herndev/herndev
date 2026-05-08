@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whoop plans to offer on-demand video consultations with licensed clinicians for US users, and adds electronic health records and AI-powered health guidance &lpar;Brandon Gomez/CNBC&rpar;](https://www.techmeme.com/260508/p21#a260508p21)
- - [BOOX just added the one accessory Kindle users keep begging for](https://www.androidauthority.com/boox-tappy-remote-launch-3664876/)
- - [Boox’s new page-turning e-reader remote is a tiny two-button keyboard](https://www.theverge.com/tech/926240/boox-tappy-page-turn-scroll-button-bluetooth-remote)<!-- TECH:END -->
+ - [Everyone should follow Logitech and put extra USB ports on iPad keyboard cases](https://www.theverge.com/tech/926852/logitech-rugged-combo-4c-keyboard-touchpad-extra-usb-c-port)
+ - [Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure](https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure)
+ - [The company that owns Moog, Akai Pro, and Numark is buying Native Instruments](https://www.theverge.com/entertainment/926841/native-instruments-inmusic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
