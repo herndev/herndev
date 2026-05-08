@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s ready to take advantage of the situation](http://9gag.com/gag/aoyvE50)
- - ⏩ [Cops Arrest Completely Sober Driver](http://9gag.com/gag/aLnZRMW)
- - 👉 [Slapped](http://9gag.com/gag/aVvpQKM)<!-- MEMES:END -->
+ - 💣 [Someone is ready for divorce](http://9gag.com/gag/aRBbwYG)
+ - ⏩ [Ego damage](http://9gag.com/gag/ae9njm5)
+ - 👉 [Downgrade](http://9gag.com/gag/a87RWDY)<!-- MEMES:END -->
 
 ---
 
