@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)
- - ⏩ [Timmy](http://9gag.com/gag/amoe81y)
- - 👉 [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)<!-- MEMES:END -->
+ - 💣 [Timmy](http://9gag.com/gag/amoe81y)
+ - ⏩ [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)
+ - 👉 [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)<!-- MEMES:END -->
 
 ---
 
