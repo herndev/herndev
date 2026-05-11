@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A million baby monitors and security cameras were easily viewable by hackers](https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera)
- - [Dua Lipa sues Samsung for putting her picture on its TV boxes](https://www.androidauthority.com/dua-lipa-samsung-suit-3665504/)
- - [7 of our favorite deals from Amazon’s Pet Days sale](https://www.theverge.com/gadgets/927788/amazon-pet-days-tech-gadgets-cat-dog-deal-sale)<!-- TECH:END -->
+ - [Users get an iPadOS 26.5 update focused on services &amp; subscriptions](https://appleinsider.com/articles/26/05/11/users-get-an-ipados-265-update-focused-on-services-subscriptions?utm_source=rss)
+ - [No signs of upgraded Apple Intelligence as iOS 26.5 arrives for all users](https://appleinsider.com/articles/26/05/11/no-signs-of-upgraded-apple-intelligence-as-ios-265-arrives-for-all-users?utm_source=rss)
+ - [Apple ships tvOS 26.5, primarily focused on behind-the-scenes fixes](https://appleinsider.com/articles/26/05/11/apple-ships-tvos-265-primarily-focused-on-behind-the-scenes-fixes?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
