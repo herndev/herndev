@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is broken for Google Cast devices, and there’s no easy fix yet](https://www.androidauthority.com/google-cast-devices-disappearing-from-spotify-connect-3665673/)
- - [Musk v. Altman: Satya Nadella says Elon Musk never contacted him with concerns that Microsoft&#39;s investments in OpenAI violated any special terms or commitments &lpar;CNBC&rpar;](https://www.techmeme.com/260511/p35#a260511p35)
- - [Govee’s new portable smart lamp is on sale for the first time](https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale)<!-- TECH:END -->
+ - [Steve Jobs is getting a marked-up $1 coin, courtesy US Mint](https://appleinsider.com/articles/26/05/11/steve-jobs-is-getting-a-marked-up-1-coin-courtesy-us-mint?utm_source=rss)
+ - [Samsung’s phone production strategy may be shifting at both ends of the lineup](https://www.androidauthority.com/samsung-galaxy-s26-production-raised-may-3665665/)
+ - [Need another look at Sony’s super premium headphones? These leaked renders got you covered](https://www.androidauthority.com/sony-1000x-the-collexion-black-white-renders-3665640/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
