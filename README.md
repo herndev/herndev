@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch won&#39;t be getting on-device Touch ID anytime soon](https://appleinsider.com/articles/26/05/11/apple-watch-wont-be-getting-on-device-touch-id-anytime-soon?utm_source=rss)
- - [Apple Creator Studio may get better color correction features from a tiny acquisition](https://appleinsider.com/articles/26/05/11/apple-creator-studio-may-get-better-color-correction-features-from-a-tiny-acquisition?utm_source=rss)
- - [Should you buy a Fitbit Air or Pixel Watch? It’s more complicated than you think](https://www.androidauthority.com/buy-fitbit-air-vs-pixel-watch-3664675/)<!-- TECH:END -->
+ - [Sources: Masayoshi Son has held talks with French President Emmanuel Macron about unveiling a multibillion-dollar AI data center project in the coming weeks &lpar;Bloomberg&rpar;](https://www.techmeme.com/260511/p19#a260511p19)
+ - [TikTok is letting UK users pay to remove ads](https://www.theverge.com/tech/927761/tiktok-ad-free-paid-subscription-uk)
+ - [Discord adds a free Xbox Game Pass ‘starter edition’ for Nitro subscribers](https://www.theverge.com/news/927722/discord-xbox-game-pass-starter-edition-nitro-subscribers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
