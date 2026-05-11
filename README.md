@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steve Jobs is getting a marked-up $1 coin, courtesy US Mint](https://appleinsider.com/articles/26/05/11/steve-jobs-is-getting-a-marked-up-1-coin-courtesy-us-mint?utm_source=rss)
- - [Samsung’s phone production strategy may be shifting at both ends of the lineup](https://www.androidauthority.com/samsung-galaxy-s26-production-raised-may-3665665/)
- - [Need another look at Sony’s super premium headphones? These leaked renders got you covered](https://www.androidauthority.com/sony-1000x-the-collexion-black-white-renders-3665640/)<!-- TECH:END -->
+ - [GitLab announces layoffs, saying they are &quot;not an AI optimization or cost cutting exercise&quot;, and plans to cut the number of countries it operates in &lpar;Sarah Frier/Bloomberg&rpar;](https://www.techmeme.com/260511/p36#a260511p36)
+ - [Apple Savings appears on the web but only for document access](https://appleinsider.com/articles/26/05/11/apple-savings-appears-on-the-web-but-only-for-document-access?utm_source=rss)
+ - [Sony Xperia 1 VIII launches soon, but you can already check out its colorways](https://www.androidauthority.com/sony-xperia-1-viii-colors-render-3665725/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
