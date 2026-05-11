@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Core memory locked...Dads are best](http://9gag.com/gag/ajPzA81)
- - ⏩ [The creators know what they&#39;re doing](http://9gag.com/gag/aByAYdA)
- - 👉 [This is such a cool way to visualize history](http://9gag.com/gag/adBGXjQ)<!-- MEMES:END -->
+ - 💣 [Maybe the Parisian subway during work hours is not that bad](http://9gag.com/gag/aoyv9j3)
+ - ⏩ [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)
+ - 👉 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)<!-- MEMES:END -->
 
 ---
 
