@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Core memory created](http://9gag.com/gag/adBGpGZ)
- - ⏩ [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)
- - 👉 [Timmy](http://9gag.com/gag/amoe81y)<!-- MEMES:END -->
+ - 💣 [Trust me, bro\u2026 it\u2019s true](http://9gag.com/gag/agmDVpq)
+ - ⏩ [Brendan Fraser for Mummy 4, we need this to happen](http://9gag.com/gag/aqyPLgP)
+ - 👉 [He learned the trick from Tarantino](http://9gag.com/gag/agmDGAq)<!-- MEMES:END -->
 
 ---
 
