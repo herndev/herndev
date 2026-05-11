@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Timmy](http://9gag.com/gag/amoe81y)
+ - 💣 [Imagine the gainz](http://9gag.com/gag/aYQ3eLw)
  - ⏩ [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)
- - 👉 [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)<!-- MEMES:END -->
+ - 👉 [Trust me, bro\u2026 it\u2019s true](http://9gag.com/gag/agmDVpq)<!-- MEMES:END -->
 
 ---
 
