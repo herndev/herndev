@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Venmo is implementing a major privacy update to set new users&#39; posts to &quot;friends only&quot; by default during onboarding; in 2021, a reporter found Joe Biden&#39;s Venmo &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260511/p24#a260511p24)
- - [Matter and OpenADR team up to connect smart homes to the grid](https://www.theverge.com/tech/927756/matter-openadr-demand-response-smart-home-energy-management)
- - [Apple Creator Studio may get better color correction features from a tiny acquisition](https://appleinsider.com/articles/26/05/11/apple-creator-studio-may-get-better-color-correction-features-from-a-tiny-acquisition?utm_source=rss)<!-- TECH:END -->
+ - [A million baby monitors and security cameras were easily viewable by hackers](https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera)
+ - [Dua Lipa sues Samsung for putting her picture on its TV boxes](https://www.androidauthority.com/dua-lipa-samsung-suit-3665504/)
+ - [7 of our favorite deals from Amazon’s Pet Days sale](https://www.theverge.com/gadgets/927788/amazon-pet-days-tech-gadgets-cat-dog-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
