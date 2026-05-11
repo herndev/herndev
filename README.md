@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)
- - ⏩ [Core memory created](http://9gag.com/gag/adBGpGZ)
- - 👉 [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)<!-- MEMES:END -->
+ - 💣 [Maybe the Parisian subway during work hours is not that bad](http://9gag.com/gag/aoyv9j3)
+ - ⏩ [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)
+ - 👉 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)<!-- MEMES:END -->
 
 ---
 
