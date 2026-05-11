@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Qualcomm CEO Cristiano Amon on 2026 as &quot;year of agents&quot;, the end of the smartphone-centric world, 6G turning humans into &quot;walking cameras&quot;, and more &lpar;Fortune&rpar;](https://www.techmeme.com/260510/p17#a260510p17)
  - [Corporate lawyers say AI-transcribed meeting notes may not have attorney-client privilege, making otherwise protected conversations discoverable in lawsuits &lpar;Sarah Kessler/New York Times&rpar;](https://www.techmeme.com/260510/p16#a260510p16)
- - [Sources: Cerebras plans to raise its IPO price range from $115-$125 per share to $150-$160 per share, potentially raising ~$4.8B at the top of the new range &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260510/p15#a260510p15)
- - [A look at Janitor AI, a romantic fantasy roleplay chatbot site run by three men that claims 2.5M DAUs and 15M total users, with 70% to 80% identifying as women &lpar;Anna Tong/Forbes&rpar;](https://www.techmeme.com/260510/p14#a260510p14)<!-- TECH:END -->
+ - [Sources: Cerebras plans to raise its IPO price range from $115-$125 per share to $150-$160 per share, potentially raising ~$4.8B at the top of the new range &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260510/p15#a260510p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
