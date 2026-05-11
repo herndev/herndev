@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a bear checking out the competition](http://9gag.com/gag/aMVo2Dx)
- - ⏩ [Downgrade](http://9gag.com/gag/a87RWDY)
- - 👉 [Ego damage](http://9gag.com/gag/ae9njm5)<!-- MEMES:END -->
+ - 💣 [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)
+ - ⏩ [Well that escalated quickly](http://9gag.com/gag/aQzLn6r)
+ - 👉 [Random pedestrian](http://9gag.com/gag/aD2Koj7)<!-- MEMES:END -->
 
 ---
 
