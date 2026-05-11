@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)
- - ⏩ [Well that escalated quickly](http://9gag.com/gag/aQzLn6r)
- - 👉 [Random pedestrian](http://9gag.com/gag/aD2Koj7)<!-- MEMES:END -->
+ - 💣 [Imagine the gainz](http://9gag.com/gag/aYQ3eLw)
+ - ⏩ [Allahu 8bar](http://9gag.com/gag/ajPznQp)
+ - 👉 [Titled](http://9gag.com/gag/aZZ6M33)<!-- MEMES:END -->
 
 ---
 
