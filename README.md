@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Play PC games on your Android device? This new tool delivers a much smoother experience.](https://www.androidauthority.com/android-frame-generation-tool-pc-port-3665332/)
- - [A look at &quot;YouTube whisperers&quot; like Paddy Galloway and Mario Joos, a booming class of advisers that help popular YouTube creators grow their audiences &lpar;CNBC&rpar;](https://www.techmeme.com/260511/p5#a260511p5)
- - [Chinese state media: CAS Cold Atom Technology has built the 200-qubit Hanyuan-2, the world&#39;s first dual-core quantum computer, with a core for error correction &lpar;Luke James/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260511/p4#a260511p4)<!-- TECH:END -->
+ - [The Legend of Zelda: Twilight Princess just got an unofficial Android port](https://www.androidauthority.com/legend-of-zelda-twilight-princess-android-3665353/)
+ - [Brookings: clerical and administrative workers, 85%+ of whom are women, are among the most exposed to AI-driven displacement and least equipped to navigate it &lpar;Taylor Telford/Financial Times&rpar;](https://www.techmeme.com/260511/p6#a260511p6)
+ - [T-Mobile rolls out exclusive deals for US Cellular customers worth up to $830](https://www.androidauthority.com/t-mobile-us-cellular-exclusive-promos-3665358/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
