@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine the gainz](http://9gag.com/gag/aYQ3eLw)
- - ⏩ [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)
- - 👉 [Trust me, bro\u2026 it\u2019s true](http://9gag.com/gag/agmDVpq)<!-- MEMES:END -->
+ - 💣 [Trust me, bro\u2026 it\u2019s true](http://9gag.com/gag/agmDVpq)
+ - ⏩ [Do you think i can get you guys in a better mood?](http://9gag.com/gag/ajPzn48)
+ - 👉 [Interesting](http://9gag.com/gag/aAy8PQg)<!-- MEMES:END -->
 
 ---
 
