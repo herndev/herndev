@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon deal drops the CMF Watch Pro 2 to just $40 &lpar;49% off!&rpar;](https://www.androidauthority.com/cmf-watch-pro-2-deal-3665645/)
- - [Google&#39;s TIG says it has likely thwarted efforts to use AI for a &quot;mass exploitation event&quot; and warns that tools like OpenClaw are being used to find exploits &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260511/p33#a260511p33)
- - [Sources: the White House&#39;s Office of the National Cyber Director and Commerce Department&#39;s CAISI are fighting over which agency should lead AI model evaluations &lpar;Washington Post&rpar;](https://www.techmeme.com/260511/p32#a260511p32)<!-- TECH:END -->
+ - [Spotify is broken for Google Cast devices, and there’s no easy fix yet](https://www.androidauthority.com/google-cast-devices-disappearing-from-spotify-connect-3665673/)
+ - [Musk v. Altman: Satya Nadella says Elon Musk never contacted him with concerns that Microsoft&#39;s investments in OpenAI violated any special terms or commitments &lpar;CNBC&rpar;](https://www.techmeme.com/260511/p35#a260511p35)
+ - [Govee’s new portable smart lamp is on sale for the first time](https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
