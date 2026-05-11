@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia embraces its role as an AI investor in 2026, committing $40B+ to equity investments including a $30B stake in OpenAI, $3.2B in Corning, and $2.1B in IREN &lpar;CNBC&rpar;](https://www.techmeme.com/260511/p1#a260511p1)
- - [GrapheneOS says Google is making life harder for rival operating systems and devices](https://www.androidauthority.com/grapheneos-google-apple-approved-devices-web-warning-3665319/)
- - [Q&amp;A with Qualcomm CEO Cristiano Amon on 2026 as &quot;year of agents&quot;, the end of the smartphone-centric world, 6G turning humans into &quot;walking cameras&quot;, and more &lpar;Fortune&rpar;](https://www.techmeme.com/260510/p17#a260510p17)<!-- TECH:END -->
+ - [Play PC games on your Android device? This new tool delivers a much smoother experience.](https://www.androidauthority.com/android-frame-generation-tool-pc-port-3665332/)
+ - [A look at &quot;YouTube whisperers&quot; like Paddy Galloway and Mario Joos, a booming class of advisers that help popular YouTube creators grow their audiences &lpar;CNBC&rpar;](https://www.techmeme.com/260511/p5#a260511p5)
+ - [Chinese state media: CAS Cold Atom Technology has built the 200-qubit Hanyuan-2, the world&#39;s first dual-core quantum computer, with a core for error correction &lpar;Luke James/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260511/p4#a260511p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
