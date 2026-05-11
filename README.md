@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Masayoshi Son has held talks with French President Emmanuel Macron about unveiling a multibillion-dollar AI data center project in the coming weeks &lpar;Bloomberg&rpar;](https://www.techmeme.com/260511/p19#a260511p19)
- - [TikTok is letting UK users pay to remove ads](https://www.theverge.com/tech/927761/tiktok-ad-free-paid-subscription-uk)
- - [Discord adds a free Xbox Game Pass ‘starter edition’ for Nitro subscribers](https://www.theverge.com/news/927722/discord-xbox-game-pass-starter-edition-nitro-subscribers)<!-- TECH:END -->
+ - [Venmo is implementing a major privacy update to set new users&#39; posts to &quot;friends only&quot; by default during onboarding; in 2021, a reporter found Joe Biden&#39;s Venmo &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260511/p24#a260511p24)
+ - [Matter and OpenADR team up to connect smart homes to the grid](https://www.theverge.com/tech/927756/matter-openadr-demand-response-smart-home-energy-management)
+ - [Apple Creator Studio may get better color correction features from a tiny acquisition](https://appleinsider.com/articles/26/05/11/apple-creator-studio-may-get-better-color-correction-features-from-a-tiny-acquisition?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
