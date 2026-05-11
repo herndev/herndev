@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GitLab announces layoffs, saying they are &quot;not an AI optimization or cost cutting exercise&quot;, and plans to cut the number of countries it operates in &lpar;Sarah Frier/Bloomberg&rpar;](https://www.techmeme.com/260511/p36#a260511p36)
- - [Apple Savings appears on the web but only for document access](https://appleinsider.com/articles/26/05/11/apple-savings-appears-on-the-web-but-only-for-document-access?utm_source=rss)
- - [Sony Xperia 1 VIII launches soon, but you can already check out its colorways](https://www.androidauthority.com/sony-xperia-1-viii-colors-render-3665725/)<!-- TECH:END -->
+ - [OpenAI just released its answer to Claude Mythos](https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai)
+ - [OpenAI launches Daybreak, a cybersecurity initiative integrating AI models and Codex Security to help organizations patch vulnerabilities &lpar;Alexey Shabanov/TestingCatalog AI News&rpar;](https://www.techmeme.com/260511/p40#a260511p40)
+ - [Thinking Machines Lab details interaction models, which can think and respond in real time, letting users and AI interact continuously for better collaboration &lpar;Thinking Machines Lab&rpar;](https://www.techmeme.com/260511/p39#a260511p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
