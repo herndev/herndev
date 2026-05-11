@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: WH is preparing to order US agencies to partner with AI companies on cybersecurity; the EO wouldn&#39;t require pre-release model testing by the government &lpar;Bloomberg&rpar;](https://www.techmeme.com/260508/p33#a260508p33)
- - [EU warns that VPNs are being used to bypass online age-verification systems, calling their use &quot;a loophole in the legislation that needs closing&quot; &lpar;Alex Lekander/CyberInsider&rpar;](https://www.techmeme.com/260508/p32#a260508p32)
- - [WHOOP’s answer to the Fitbit Air is doctor access in its app](https://www.androidauthority.com/whoop-on-demand-clinician-access-in-app-3665264/)<!-- TECH:END -->
+ - [Sources: Cerebras plans to raise its IPO price range from $115-$125 per share to $150-$160 per share, potentially raising ~$4.8B at the top of the new range &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260510/p15#a260510p15)
+ - [A look at Janitor AI, a romantic fantasy roleplay chatbot site run by three men that claims 2.5M DAUs and 15M total users, with 70% to 80% identifying as women &lpar;Anna Tong/Forbes&rpar;](https://www.techmeme.com/260510/p14#a260510p14)
+ - [The Bastl Kalimba is a wild synth that thinks it’s a thumb piano](https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
