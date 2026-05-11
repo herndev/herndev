@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trust me, bro\u2026 it\u2019s true](http://9gag.com/gag/agmDVpq)
- - ⏩ [Brendan Fraser for Mummy 4, we need this to happen](http://9gag.com/gag/aqyPLgP)
- - 👉 [He learned the trick from Tarantino](http://9gag.com/gag/agmDGAq)<!-- MEMES:END -->
+ - 💣 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)
+ - ⏩ [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)
+ - 👉 [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)<!-- MEMES:END -->
 
 ---
 
