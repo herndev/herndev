@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Qualcomm CEO Cristiano Amon on 2026 as &quot;year of agents&quot;, the end of the smartphone-centric world, 6G turning humans into &quot;walking cameras&quot;, and more &lpar;Fortune&rpar;](https://www.techmeme.com/260510/p17#a260510p17)
- - [Corporate lawyers say AI-transcribed meeting notes may not have attorney-client privilege, making otherwise protected conversations discoverable in lawsuits &lpar;Sarah Kessler/New York Times&rpar;](https://www.techmeme.com/260510/p16#a260510p16)
- - [Sources: Cerebras plans to raise its IPO price range from $115-$125 per share to $150-$160 per share, potentially raising ~$4.8B at the top of the new range &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260510/p15#a260510p15)<!-- TECH:END -->
+ - [Nvidia embraces its role as an AI investor in 2026, committing $40B+ to equity investments including a $30B stake in OpenAI, $3.2B in Corning, and $2.1B in IREN &lpar;CNBC&rpar;](https://www.techmeme.com/260511/p1#a260511p1)
+ - [GrapheneOS says Google is making life harder for rival operating systems and devices](https://www.androidauthority.com/grapheneos-google-apple-approved-devices-web-warning-3665319/)
+ - [Q&amp;A with Qualcomm CEO Cristiano Amon on 2026 as &quot;year of agents&quot;, the end of the smartphone-centric world, 6G turning humans into &quot;walking cameras&quot;, and more &lpar;Fortune&rpar;](https://www.techmeme.com/260510/p17#a260510p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
