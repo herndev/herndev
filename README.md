@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I added one of the best Pixel features to all of my Android phones — here’s how](https://www.androidauthority.com/tap-tap-app-add-pixel-quick-tap-any-android-phone-how-3664061/)
- - [Turkish mobile gaming startup Grand Games raised a $70M Series B led by Balderton Capital, after raising $30M in 2025, taking its total funding to $103M &lpar;Tugce Ozsoy/Bloomberg&rpar;](https://www.techmeme.com/260511/p10#a260511p10)
- - [CUDA Proves Nvidia Is a Software Company](https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/)<!-- TECH:END -->
+ - [Apple Watch won&#39;t be getting on-device Touch ID anytime soon](https://appleinsider.com/articles/26/05/11/apple-watch-wont-be-getting-on-device-touch-id-anytime-soon?utm_source=rss)
+ - [Apple Creator Studio may get better color correction features from a tiny acquisition](https://appleinsider.com/articles/26/05/11/apple-creator-studio-may-get-better-color-correction-features-from-a-tiny-acquisition?utm_source=rss)
+ - [Should you buy a Fitbit Air or Pixel Watch? It’s more complicated than you think](https://www.androidauthority.com/buy-fitbit-air-vs-pixel-watch-3664675/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
