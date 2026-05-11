@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trust me, bro\u2026 it\u2019s true](http://9gag.com/gag/agmDVpq)
- - ⏩ [Do you think i can get you guys in a better mood?](http://9gag.com/gag/ajPzn48)
- - 👉 [Interesting](http://9gag.com/gag/aAy8PQg)<!-- MEMES:END -->
+ - 💣 [Core memory created](http://9gag.com/gag/adBGpGZ)
+ - ⏩ [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)
+ - 👉 [Timmy](http://9gag.com/gag/amoe81y)<!-- MEMES:END -->
 
 ---
 
