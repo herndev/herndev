@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Legend of Zelda: Twilight Princess just got an unofficial Android port](https://www.androidauthority.com/legend-of-zelda-twilight-princess-android-3665353/)
- - [Brookings: clerical and administrative workers, 85%+ of whom are women, are among the most exposed to AI-driven displacement and least equipped to navigate it &lpar;Taylor Telford/Financial Times&rpar;](https://www.techmeme.com/260511/p6#a260511p6)
- - [T-Mobile rolls out exclusive deals for US Cellular customers worth up to $830](https://www.androidauthority.com/t-mobile-us-cellular-exclusive-promos-3665358/)<!-- TECH:END -->
+ - [I added one of the best Pixel features to all of my Android phones — here’s how](https://www.androidauthority.com/tap-tap-app-add-pixel-quick-tap-any-android-phone-how-3664061/)
+ - [Turkish mobile gaming startup Grand Games raised a $70M Series B led by Balderton Capital, after raising $30M in 2025, taking its total funding to $103M &lpar;Tugce Ozsoy/Bloomberg&rpar;](https://www.techmeme.com/260511/p10#a260511p10)
+ - [CUDA Proves Nvidia Is a Software Company](https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
