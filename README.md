@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Users get an iPadOS 26.5 update focused on services &amp; subscriptions](https://appleinsider.com/articles/26/05/11/users-get-an-ipados-265-update-focused-on-services-subscriptions?utm_source=rss)
- - [No signs of upgraded Apple Intelligence as iOS 26.5 arrives for all users](https://appleinsider.com/articles/26/05/11/no-signs-of-upgraded-apple-intelligence-as-ios-265-arrives-for-all-users?utm_source=rss)
- - [Apple ships tvOS 26.5, primarily focused on behind-the-scenes fixes](https://appleinsider.com/articles/26/05/11/apple-ships-tvos-265-primarily-focused-on-behind-the-scenes-fixes?utm_source=rss)<!-- TECH:END -->
+ - [Update your older iPhone, iPad, or Mac now, to get new fixes for WebKit, Wi-Fi &amp; kernel flaws](https://appleinsider.com/articles/26/05/11/update-your-older-iphone-ipad-or-mac-now-to-get-new-fixes-for-webkit-wi-fi-kernel-flaws?utm_source=rss)
+ - [Palantir&amp;#8217;s true believers are wearing this jacket](https://www.theverge.com/report/928026/palantir-chore-coat)
+ - [A new carrier is waging war on porn, Satanism, and… tattoos?](https://www.androidauthority.com/porn-block-carrier-3665569/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
