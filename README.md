@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Update your older iPhone, iPad, or Mac now, to get new fixes for WebKit, Wi-Fi &amp; kernel flaws](https://appleinsider.com/articles/26/05/11/update-your-older-iphone-ipad-or-mac-now-to-get-new-fixes-for-webkit-wi-fi-kernel-flaws?utm_source=rss)
- - [Palantir&amp;#8217;s true believers are wearing this jacket](https://www.theverge.com/report/928026/palantir-chore-coat)
- - [A new carrier is waging war on porn, Satanism, and… tattoos?](https://www.androidauthority.com/porn-block-carrier-3665569/)<!-- TECH:END -->
+ - [Amazon deal drops the CMF Watch Pro 2 to just $40 &lpar;49% off!&rpar;](https://www.androidauthority.com/cmf-watch-pro-2-deal-3665645/)
+ - [Google&#39;s TIG says it has likely thwarted efforts to use AI for a &quot;mass exploitation event&quot; and warns that tools like OpenClaw are being used to find exploits &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260511/p33#a260511p33)
+ - [Sources: the White House&#39;s Office of the National Cyber Director and Commerce Department&#39;s CAISI are fighting over which agency should lead AI model evaluations &lpar;Washington Post&rpar;](https://www.techmeme.com/260511/p32#a260511p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
