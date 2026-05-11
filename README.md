@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)
- - ⏩ [When attention fades, become a victim.](http://9gag.com/gag/aD2KmDd)
- - 👉 [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)<!-- MEMES:END -->
+ - ⏩ [Core memory created](http://9gag.com/gag/adBGpGZ)
+ - 👉 [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)<!-- MEMES:END -->
 
 ---
 
