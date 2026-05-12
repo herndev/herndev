@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AppMagic: Grok downloads fell to ~8.3M in April, from a high of 20M+ in January; Recon Analytics says Grok paid adoption in the US remains nearly flat YoY in Q2 &lpar;Georgia Wells/Wall Street Journal&rpar;](https://www.techmeme.com/260511/p46#a260511p46)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-12/)
- - [Source: new revenue sharing terms cap OpenAI&#39;s payments to Microsoft at $38B; they previously could have totaled $135B through 2030 if long-term goals were met &lpar;The Information&rpar;](https://www.techmeme.com/260511/p45#a260511p45)<!-- TECH:END -->
+ - [Chewy Promo Codes: $20 Off May 2026](https://www.wired.com/story/chewy-promo-code/)
+ - [Dell Coupon Codes: 20% Off for May 2026](https://www.wired.com/story/dell-coupon-code/)
+ - [Booking.com Promo Codes: 20% Off | May 2026](https://www.wired.com/story/booking-com-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
