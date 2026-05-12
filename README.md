@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe the Parisian subway during work hours is not that bad](http://9gag.com/gag/aoyv9j3)
- - ⏩ [Pulpit Rock, Norway](http://9gag.com/gag/aZZ6BWX)
- - 👉 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)<!-- MEMES:END -->
+ - 💣 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
+ - ⏩ [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
+ - 👉 [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)<!-- MEMES:END -->
 
 ---
 
