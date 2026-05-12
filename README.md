@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic officials refused a Chinese think tank&#39;s request to change its stance and allow Beijing to access Mythos at a meeting in Singapore last month &lpar;New York Times&rpar;](https://www.techmeme.com/260512/p11#a260512p11)
- - [I turned my old tablet into a self-hosted photo display, and it’s better than anything you can buy](https://www.androidauthority.com/android-tablet-self-hosted-photo-display-3662727/)
- - [The $60 Onn 4K Pro is so popular that scalpers are reselling it for double the price](https://www.androidauthority.com/walmart-onn-4k-pro-scalpers-3665875/)<!-- TECH:END -->
+ - [Sea reports Q1 revenue up 47% YoY to $7.1B and net income up 6% YoY to $428M, both above est., after warding off rivals in Southeast Asia&#39;s e-commerce market &lpar;Olivia Poh/Bloomberg&rpar;](https://www.techmeme.com/260512/p16#a260512p16)
+ - [Amazon launches Amazon Now, its 30-minute delivery service, in dozens of US cities including Atlanta, Dallas-Fort Worth, Philadelphia, and Seattle, after pilots &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260512/p15#a260512p15)
+ - [I Tested Dyson’s 55-MPH Handheld Fan. Here’s Why I’m &lpar;Mostly&rpar; Sold](https://www.cnet.com/health/personal-care/dyson-hushjet-mini-cool-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
