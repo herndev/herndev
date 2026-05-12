@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Human Rights Watch: at least six EU member states, including Bulgaria and Denmark, have sold surveillance tech to 24+ countries known for violating human rights &lpar;Ryan Gallagher/Bloomberg&rpar;](https://www.techmeme.com/260512/p6#a260512p6)
- - [Gemini’s upcoming Daily brief feature looks a lot more polished now](https://www.androidauthority.com/gemini-daily-brief-refreshed-ui-apk-teardown-3665840/)
- - [Source: Microsoft Israel&#39;s GM leaves after an internal probe into alleged unethical use of Azure by Israel&#39;s MOD; Microsoft France will manage Microsoft Israel &lpar;Assaf Gilead/Globes&rpar;](https://www.techmeme.com/260512/p5#a260512p5)<!-- TECH:END -->
+ - [Sources: Anthropic officials refused a Chinese think tank&#39;s request to change its stance and allow Beijing to access Mythos at a meeting in Singapore last month &lpar;New York Times&rpar;](https://www.techmeme.com/260512/p11#a260512p11)
+ - [I turned my old tablet into a self-hosted photo display, and it’s better than anything you can buy](https://www.androidauthority.com/android-tablet-self-hosted-photo-display-3662727/)
+ - [The $60 Onn 4K Pro is so popular that scalpers are reselling it for double the price](https://www.androidauthority.com/walmart-onn-4k-pro-scalpers-3665875/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
