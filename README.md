@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Several npm packages for the TanStack web development tools were compromised in the Mini Shai-Hulud supply chain attack; Mistral packages were also affected &lpar;Socket&rpar;](https://www.techmeme.com/260511/p42#a260511p42)
- - [Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’](https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/)
- - [GM plans to lay off IT workers in an effort to trim costs and bring in staff with skills in other tech areas; sources: the cuts will affect 500 to 600 employees &lpar;David Welch/Bloomberg&rpar;](https://www.techmeme.com/260511/p41#a260511p41)<!-- TECH:END -->
+ - [The US Commerce Department removed from its website details about its May 5 agreement with Google, xAI, and Microsoft to test their AI models &lpar;Courtney Rozen/Reuters&rpar;](https://www.techmeme.com/260511/p44#a260511p44)
+ - [Q&amp;A with Scott Wu, CEO of Cognition, which hit a $445M revenue run rate in its first 18 months, on his math competition roots, the Devin AI coding agent, more &lpar;Jeremy Stern/Colossus&rpar;](https://www.techmeme.com/260511/p43#a260511p43)
+ - [Wacom MovinkPad 11 review: Good for artists, but mind your workflow](https://appleinsider.com/articles/26/05/12/wacom-movinkpad-11-review-good-for-artists-but-mind-your-workflow?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
