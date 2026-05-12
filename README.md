@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canvas owner reaches &amp;#8216;agreement&amp;#8217; with hackers to secure stolen data](https://www.theverge.com/tech/928470/instructure-canvas-hack-shinyhunters-ransom-agreement)
- - [Microsoft says it is investigating a Mistral AI PyPI package v2.4.6 compromise; the attack is likely part of the Mini Shai-Hulud supply chain attack &lpar;Etiido Uko/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260512/p21#a260512p21)
- - [Massive leak reveals Google’s Aluminium OS with a 16-minute video](https://www.androidauthority.com/google-aluminium-os-leak-3665979/)<!-- TECH:END -->
+ - [SAP launches its new Autonomous Enterprise software suite, integrating data, cloud, AI, and automation features to streamline business processes &lpar;Mauro Orru/Wall Street Journal&rpar;](https://www.techmeme.com/260512/p25#a260512p25)
+ - [There’s an internet choke point in the Middle East — is the solution in the North Pole?](https://www.theverge.com/report/928512/arctic-internet-cable-chokepoint-polar-connect)
+ - [How to check whether your iPhone qualifies for Apple Intelligence settlement money](https://appleinsider.com/inside/iphone-16/tips/how-to-check-whether-your-iphone-qualifies-for-apple-intelligence-settlement-money?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
