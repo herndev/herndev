@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sea reports Q1 revenue up 47% YoY to $7.1B and net income up 6% YoY to $428M, both above est., after warding off rivals in Southeast Asia&#39;s e-commerce market &lpar;Olivia Poh/Bloomberg&rpar;](https://www.techmeme.com/260512/p16#a260512p16)
- - [Amazon launches Amazon Now, its 30-minute delivery service, in dozens of US cities including Atlanta, Dallas-Fort Worth, Philadelphia, and Seattle, after pilots &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260512/p15#a260512p15)
- - [I Tested Dyson’s 55-MPH Handheld Fan. Here’s Why I’m &lpar;Mostly&rpar; Sold](https://www.cnet.com/health/personal-care/dyson-hushjet-mini-cool-review/)<!-- TECH:END -->
+ - [Phone cameras are battery hogs, but that will change thanks to Sony](https://www.androidauthority.com/sony-tsmc-efficient-phone-cameras-3665959/)
+ - [Tim Cook is among 16 US execs going to China with Trump](https://appleinsider.com/articles/26/05/11/tim-cook-is-among-16-us-execs-going-to-china-with-trump?utm_source=rss)
+ - [Spotify’s latest ‘Wrapped’ covers your entire music history](https://www.theverge.com/entertainment/928395/spotify-20th-anniversary-wrapped-recap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
