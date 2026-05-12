@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
- - ⏩ [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
- - 👉 [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)<!-- MEMES:END -->
+ - 💣 [Sarcasm 101](http://9gag.com/gag/amoeze4)
+ - ⏩ [He learned the trick from Tarantino](http://9gag.com/gag/agmDGAq)
+ - 👉 [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)<!-- MEMES:END -->
 
 ---
 
