@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is such a cool way to visualize history](http://9gag.com/gag/adBGXjQ)
- - ⏩ [Setting sun aligns perfectly in the middle of a tree\u2019s branches in the Netherlands. It is insanely beautiful.](http://9gag.com/gag/a87RMzp)
- - 👉 [Sarcasm 101](http://9gag.com/gag/amoeze4)<!-- MEMES:END -->
+ - 💣 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
+ - ⏩ [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)
+ - 👉 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)<!-- MEMES:END -->
 
 ---
 
