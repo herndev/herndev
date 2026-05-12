@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta offers to give rival AI chatbots free access to WhatsApp for a month while it discusses commitments with EU antitrust regulators to address their concerns &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260512/p48#a260512p48)
- - [The Audemars Piguet x Swatch Collaboration Is Here for Real](https://www.wired.com/story/this-is-the-real-swatch-x-audemars-piguet-royal-pop-collaboration/)
- - [CME Group and Silicon Data announce a futures market for computing capacity, with contracts based on daily GPU benchmarks for on-demand rental rates &lpar;Tobias Burns/CNBC&rpar;](https://www.techmeme.com/260512/p47#a260512p47)<!-- TECH:END -->
+ - [Sources: Anthropic is in early talks to raise at least $30B at a $900B+ valuation; the round is expected to close as soon as the end of this month &lpar;Bloomberg&rpar;](https://www.techmeme.com/260512/p52#a260512p52)
+ - [Hackers attack Foxconn again, Apple doesn&#39;t appear to be at risk](https://appleinsider.com/articles/26/05/12/hackers-attack-foxconn-again-apple-doesnt-appear-to-be-at-risk?utm_source=rss)
+ - [Qualcomm closed down 11.46% on Tuesday as chip stocks pull back from record AI-driven rally; Intel closed down 6.82%, Sandisk dropped 6%, and Micron 3.61% &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260512/p51#a260512p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
