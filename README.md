@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart may already have another cheaper Google TV streamer on the way](https://www.androidauthority.com/walmart-full-hd-google-tv-stick-2026-fcc-listing-3665791/)
- - [Some Galaxy S26 models just received a root exploit &lpar;and Magisk&rpar;](https://www.androidauthority.com/samsung-galaxy-s26-root-exploit-3665778/)
- - [Instructure reached a deal with hackers who breached its Canvas platform to return stolen data and destroy copies, without disclosing what it gave in exchange &lpar;Qasim Nauman/New York Times&rpar;](https://www.techmeme.com/260512/p3#a260512p3)<!-- TECH:END -->
+ - [This T-Mobile MVNO is building a voice clone to take your calls for you](https://www.androidauthority.com/t-mobile-ai-voice-clone-3665817/)
+ - [Here’s how to watch The Android Show I/O Edition live today](https://www.androidauthority.com/watch-android-show-io-2026-live-3665803/)
+ - [A Hollywood writer recounts working as an &quot;AI trainer&quot; for companies like Mercor, as AI gig work becomes the &quot;new waiting tables&quot; for entertainment workers &lpar;Ruth Fowler/Wired&rpar;](https://www.techmeme.com/260512/p4#a260512p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
