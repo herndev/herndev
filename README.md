@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The worst feeling ever in a public toilet](http://9gag.com/gag/a4PXZrp)
- - ⏩ [This drunk guy crashing Bryan Adams&#39; stage is peak concert energy](http://9gag.com/gag/aVvpDod)
- - 👉 [Brendan Fraser for Mummy 4, we need this to happen](http://9gag.com/gag/aqyPLgP)<!-- MEMES:END -->
+ - 💣 [Sooooo, how are they gonna go back?](http://9gag.com/gag/a2v3501)
+ - ⏩ [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
+ - 👉 [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)<!-- MEMES:END -->
 
 ---
 
