@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sooooo, how are they gonna go back?](http://9gag.com/gag/a2v3501)
- - ⏩ [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)
- - 👉 [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)<!-- MEMES:END -->
+ - 💣 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
+ - ⏩ [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)
+ - 👉 [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)<!-- MEMES:END -->
 
 ---
 
