@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone &amp; Android interoperability enhancements highlighted at Google I/O preshow](https://appleinsider.com/articles/26/05/12/iphone-android-interoperability-enhancements-highlighted-at-google-io-preshow?utm_source=rss)
- - [Iran Is Using Tiny ‘Mosquito’ Boats to Shut Down the Strait of Hormuz](https://www.wired.com/story/iran-is-using-tiny-mosquito-boats-to-shut-down-the-strait-of-hormuz/)
- - [Google says it is hiring a team of &quot;forward deployed engineers&quot;, a source says in the hundreds, to help customers use its business-focused AI products &lpar;Erin Woo/The Information&rpar;](https://www.techmeme.com/260512/p43#a260512p43)<!-- TECH:END -->
+ - [Meta offers to give rival AI chatbots free access to WhatsApp for a month while it discusses commitments with EU antitrust regulators to address their concerns &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260512/p48#a260512p48)
+ - [The Audemars Piguet x Swatch Collaboration Is Here for Real](https://www.wired.com/story/this-is-the-real-swatch-x-audemars-piguet-royal-pop-collaboration/)
+ - [CME Group and Silicon Data announce a futures market for computing capacity, with contracts based on daily GPU benchmarks for on-demand rental rates &lpar;Tobias Burns/CNBC&rpar;](https://www.techmeme.com/260512/p47#a260512p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
