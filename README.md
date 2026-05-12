@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Commerce Department removed from its website details about its May 5 agreement with Google, xAI, and Microsoft to test their AI models &lpar;Courtney Rozen/Reuters&rpar;](https://www.techmeme.com/260511/p44#a260511p44)
- - [Q&amp;A with Scott Wu, CEO of Cognition, which hit a $445M revenue run rate in its first 18 months, on his math competition roots, the Devin AI coding agent, more &lpar;Jeremy Stern/Colossus&rpar;](https://www.techmeme.com/260511/p43#a260511p43)
- - [Wacom MovinkPad 11 review: Good for artists, but mind your workflow](https://appleinsider.com/articles/26/05/12/wacom-movinkpad-11-review-good-for-artists-but-mind-your-workflow?utm_source=rss)<!-- TECH:END -->
+ - [Source: new revenue sharing terms cap OpenAI&#39;s payments to Microsoft at $38B; they previously could have totaled $135B through 2030 if long-term goals were met &lpar;The Information&rpar;](https://www.techmeme.com/260511/p45#a260511p45)
+ - [Android Owners: You Could Get Part of Google&#39;s $135 Million Data Settlement](https://www.cnet.com/tech/mobile/android-users-you-could-get-part-of-googles-135-million-data-settlement/)
+ - [The US Commerce Department removed from its website details about its May 5 agreement with Google, xAI, and Microsoft to test their AI models &lpar;Courtney Rozen/Reuters&rpar;](https://www.techmeme.com/260511/p44#a260511p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
