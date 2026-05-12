@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says Elon Musk’s mind games were damaging OpenAI](https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage)
- - [Spotify is experiencing a service interruption right now, but the company is on the case](https://www.androidauthority.com/spotify-outage-3666196/)
- - [Commemorative US Mint Steve Jobs coin sells out in just 11 minutes](https://appleinsider.com/articles/26/05/12/commemorative-us-mint-steve-jobs-coin-sells-out-in-just-11-minutes?utm_source=rss)<!-- TECH:END -->
+ - [Watch an exclusive Lady Gaga concert film on Apple Music on May 14](https://appleinsider.com/articles/26/05/12/watch-an-exclusive-lady-gaga-concert-film-on-apple-music-on-may-14?utm_source=rss)
+ - [Musk v. Altman: Altman testified that in 2017 Musk demanded complete control of a proposed OpenAI for-profit arm, musing that he would pass it to his children &lpar;Bloomberg&rpar;](https://www.techmeme.com/260512/p42#a260512p42)
+ - [Anthropic names eight unauthorized secondary market sellers of its shares, including Hiive and Forge Global, warning that any share transactions there are void &lpar;Yazhou Sun/Bloomberg&rpar;](https://www.techmeme.com/260512/p41#a260512p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
