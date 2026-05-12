@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
- - ⏩ [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
- - 👉 [Accurate..?](http://9gag.com/gag/a2v3rr1)<!-- MEMES:END -->
+ - ⏩ [Accurate..?](http://9gag.com/gag/a2v3rr1)
+ - 👉 [From monster to human. A journey of dedication. A true role model. Don&#39;t trust the lies from leftists and wokists. Be fat is not cool. Be fat is not healthy.](http://9gag.com/gag/aD2KG5G)<!-- MEMES:END -->
 
 ---
 
