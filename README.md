@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sooooo, how are they gonna go back?](http://9gag.com/gag/a2v3501)
- - ⏩ [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
- - 👉 [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)<!-- MEMES:END -->
+ - 💣 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
+ - ⏩ [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)
+ - 👉 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)<!-- MEMES:END -->
 
 ---
 
