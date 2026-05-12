@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
- - ⏩ [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)
- - 👉 [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)<!-- MEMES:END -->
+ - 💣 [Sarcasm 101](http://9gag.com/gag/amoeze4)
+ - ⏩ [Setting sun aligns perfectly in the middle of a tree\u2019s branches in the Netherlands. It is insanely beautiful.](http://9gag.com/gag/a87RMzp)
+ - 👉 [This is such a cool way to visualize history](http://9gag.com/gag/adBGXjQ)<!-- MEMES:END -->
 
 ---
 
