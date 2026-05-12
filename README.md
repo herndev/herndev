@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic is in early talks to raise at least $30B at a $900B+ valuation; the round is expected to close as soon as the end of this month &lpar;Bloomberg&rpar;](https://www.techmeme.com/260512/p52#a260512p52)
- - [Hackers attack Foxconn again, Apple doesn&#39;t appear to be at risk](https://appleinsider.com/articles/26/05/12/hackers-attack-foxconn-again-apple-doesnt-appear-to-be-at-risk?utm_source=rss)
- - [Qualcomm closed down 11.46% on Tuesday as chip stocks pull back from record AI-driven rally; Intel closed down 6.82%, Sandisk dropped 6%, and Micron 3.61% &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260512/p51#a260512p51)<!-- TECH:END -->
+ - [Source: Anthropic is in advanced talks to acquire New York-based Stainless, which helps developers generate SDKs from APIs, for at least $300M &lpar;The Information&rpar;](https://www.techmeme.com/260512/p53#a260512p53)
+ - [Qualcomm’s next Snapdragon chip could push phone prices over the edge](https://www.androidauthority.com/qualcomm-snapdragon-8-elite-gen-6-price-leak-3666357/)
+ - [OpenAI faces grim lawsuit over ChatGPT’s alleged role in teen overdose](https://www.androidauthority.com/chatgpt-encouraged-teen-lethal-mix-drugs-3666340/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
