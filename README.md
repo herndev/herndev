@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If your Mac is saying the ChatGPT app is malware, here&#39;s how to fix it](https://appleinsider.com/articles/26/05/12/if-your-mac-is-saying-the-chatgpt-app-is-malware-heres-how-to-fix-it?utm_source=rss)
- - [Isomorphic Labs, an AI-powered drug discovery spinoff from Google DeepMind, raised $2.1B led by Thrive, after raising $600M in its first round in March 2025 &lpar;Pritam Biswas/Reuters&rpar;](https://www.techmeme.com/260512/p29#a260512p29)
- - [Aurzen Roku TV smart projector drops back to all-time low of just $169.98](https://www.androidauthority.com/aurzen-roku-tv-smart-projector-deal-3666112/)<!-- TECH:END -->
+ - [Parents say ChatGPT got their son killed with bad advice on party drugs](https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose)
+ - [Android Show 2026: all the news and announcements](https://www.theverge.com/tech/928624/android-show-2026-all-the-news-and-announcements)
+ - [Sources: Google is in talks with SpaceX and other companies for a rocket launch deal, as Google expands its own efforts to put orbital data centers in space &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260512/p30#a260512p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
