@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: new revenue sharing terms cap OpenAI&#39;s payments to Microsoft at $38B; they previously could have totaled $135B through 2030 if long-term goals were met &lpar;The Information&rpar;](https://www.techmeme.com/260511/p45#a260511p45)
- - [Android Owners: You Could Get Part of Google&#39;s $135 Million Data Settlement](https://www.cnet.com/tech/mobile/android-users-you-could-get-part-of-googles-135-million-data-settlement/)
- - [The US Commerce Department removed from its website details about its May 5 agreement with Google, xAI, and Microsoft to test their AI models &lpar;Courtney Rozen/Reuters&rpar;](https://www.techmeme.com/260511/p44#a260511p44)<!-- TECH:END -->
+ - [AppMagic: Grok downloads fell to ~8.3M in April, from a high of 20M+ in January; Recon Analytics says Grok paid adoption in the US remains nearly flat YoY in Q2 &lpar;Georgia Wells/Wall Street Journal&rpar;](https://www.techmeme.com/260511/p46#a260511p46)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-12/)
+ - [Source: new revenue sharing terms cap OpenAI&#39;s payments to Microsoft at $38B; they previously could have totaled $135B through 2030 if long-term goals were met &lpar;The Information&rpar;](https://www.techmeme.com/260511/p45#a260511p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
