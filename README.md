@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sarcasm 101](http://9gag.com/gag/amoeze4)
- - ⏩ [He learned the trick from Tarantino](http://9gag.com/gag/agmDGAq)
- - 👉 [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)<!-- MEMES:END -->
+ - 💣 [Mantis vs Hornet](http://9gag.com/gag/aoyvpdX)
+ - ⏩ [No wonder why journalists love this game. The game plays itself.](http://9gag.com/gag/aByAYpO)
+ - 👉 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)<!-- MEMES:END -->
 
 ---
 
