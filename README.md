@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Game of Thrones audition reel](http://9gag.com/gag/adBGj4N)
- - ⏩ [Official Adidas production line](http://9gag.com/gag/axyLgGb)
+ - 💣 [Maybe the Parisian subway during work hours is not that bad](http://9gag.com/gag/aoyv9j3)
+ - ⏩ [Pulpit Rock, Norway](http://9gag.com/gag/aZZ6BWX)
  - 👉 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)<!-- MEMES:END -->
 
 ---
