@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sarcasm 101](http://9gag.com/gag/amoeze4)
- - ⏩ [Setting sun aligns perfectly in the middle of a tree\u2019s branches in the Netherlands. It is insanely beautiful.](http://9gag.com/gag/a87RMzp)
- - 👉 [This is such a cool way to visualize history](http://9gag.com/gag/adBGXjQ)<!-- MEMES:END -->
+ - 💣 [The creators know what they&#39;re doing](http://9gag.com/gag/aByAYdA)
+ - ⏩ [Sarcasm 101](http://9gag.com/gag/amoeze4)
+ - 👉 [Setting sun aligns perfectly in the middle of a tree\u2019s branches in the Netherlands. It is insanely beautiful.](http://9gag.com/gag/a87RMzp)<!-- MEMES:END -->
 
 ---
 
