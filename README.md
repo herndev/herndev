@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This T-Mobile MVNO is building a voice clone to take your calls for you](https://www.androidauthority.com/t-mobile-ai-voice-clone-3665817/)
- - [Here’s how to watch The Android Show I/O Edition live today](https://www.androidauthority.com/watch-android-show-io-2026-live-3665803/)
- - [A Hollywood writer recounts working as an &quot;AI trainer&quot; for companies like Mercor, as AI gig work becomes the &quot;new waiting tables&quot; for entertainment workers &lpar;Ruth Fowler/Wired&rpar;](https://www.techmeme.com/260512/p4#a260512p4)<!-- TECH:END -->
+ - [Human Rights Watch: at least six EU member states, including Bulgaria and Denmark, have sold surveillance tech to 24+ countries known for violating human rights &lpar;Ryan Gallagher/Bloomberg&rpar;](https://www.techmeme.com/260512/p6#a260512p6)
+ - [Gemini’s upcoming Daily brief feature looks a lot more polished now](https://www.androidauthority.com/gemini-daily-brief-refreshed-ui-apk-teardown-3665840/)
+ - [Source: Microsoft Israel&#39;s GM leaves after an internal probe into alleged unethical use of Azure by Israel&#39;s MOD; Microsoft France will manage Microsoft Israel &lpar;Assaf Gilead/Globes&rpar;](https://www.techmeme.com/260512/p5#a260512p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
