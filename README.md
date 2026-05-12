@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chewy Promo Codes: $20 Off May 2026](https://www.wired.com/story/chewy-promo-code/)
- - [Dell Coupon Codes: 20% Off for May 2026](https://www.wired.com/story/dell-coupon-code/)
- - [Booking.com Promo Codes: 20% Off | May 2026](https://www.wired.com/story/booking-com-promo-code/)<!-- TECH:END -->
+ - [Walmart may already have another cheaper Google TV streamer on the way](https://www.androidauthority.com/walmart-full-hd-google-tv-stick-2026-fcc-listing-3665791/)
+ - [Some Galaxy S26 models just received a root exploit &lpar;and Magisk&rpar;](https://www.androidauthority.com/samsung-galaxy-s26-root-exploit-3665778/)
+ - [Instructure reached a deal with hackers who breached its Canvas platform to return stolen data and destroy copies, without disclosing what it gave in exchange &lpar;Qasim Nauman/New York Times&rpar;](https://www.techmeme.com/260512/p3#a260512p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
