@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
- - ⏩ [Pulpit Rock, Norway](http://9gag.com/gag/aZZ6BWX)
- - 👉 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)<!-- MEMES:END -->
+ - 💣 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
+ - ⏩ [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
+ - 👉 [Accurate..?](http://9gag.com/gag/a2v3rr1)<!-- MEMES:END -->
 
 ---
 
