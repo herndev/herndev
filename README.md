@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
- - ⏩ [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
- - 👉 [Solche Hochglanzproduktionen gibt&#39;s heute leider nicht mehr](http://9gag.com/gag/aVvpPoO)<!-- MEMES:END -->
+ - 💣 [This is such a cool way to visualize history](http://9gag.com/gag/adBGXjQ)
+ - ⏩ [Setting sun aligns perfectly in the middle of a tree\u2019s branches in the Netherlands. It is insanely beautiful.](http://9gag.com/gag/a87RMzp)
+ - 👉 [Sarcasm 101](http://9gag.com/gag/amoeze4)<!-- MEMES:END -->
 
 ---
 
