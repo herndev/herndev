@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe the Parisian subway during work hours is not that bad](http://9gag.com/gag/aoyv9j3)
- - ⏩ [Do you think i can get you guys in a better mood?](http://9gag.com/gag/ajPzn48)
+ - 💣 [Sooooo, how are they gonna go back?](http://9gag.com/gag/a2v3501)
+ - ⏩ [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)
  - 👉 [Work hard and be nice to people](http://9gag.com/gag/azxWV6x)<!-- MEMES:END -->
 
 ---
