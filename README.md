@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
- - ⏩ [Pulpit Rock, Norway](http://9gag.com/gag/aZZ6BWX)
- - 👉 [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)<!-- MEMES:END -->
+ - 💣 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)
+ - ⏩ [Official Adidas production line](http://9gag.com/gag/axyLgGb)
+ - 👉 [Is this the least dangerous crime ever](http://9gag.com/gag/a6Z0QPN)<!-- MEMES:END -->
 
 ---
 
