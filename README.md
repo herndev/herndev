@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI just released its answer to Claude Mythos](https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai)
- - [OpenAI launches Daybreak, a cybersecurity initiative integrating AI models and Codex Security to help organizations patch vulnerabilities &lpar;Alexey Shabanov/TestingCatalog AI News&rpar;](https://www.techmeme.com/260511/p40#a260511p40)
- - [Thinking Machines Lab details interaction models, which can think and respond in real time, letting users and AI interact continuously for better collaboration &lpar;Thinking Machines Lab&rpar;](https://www.techmeme.com/260511/p39#a260511p39)<!-- TECH:END -->
+ - [Several npm packages for the TanStack web development tools were compromised in the Mini Shai-Hulud supply chain attack; Mistral packages were also affected &lpar;Socket&rpar;](https://www.techmeme.com/260511/p42#a260511p42)
+ - [Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’](https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/)
+ - [GM plans to lay off IT workers in an effort to trim costs and bring in staff with skills in other tech areas; sources: the cuts will affect 500 to 600 employees &lpar;David Welch/Bloomberg&rpar;](https://www.techmeme.com/260511/p41#a260511p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
