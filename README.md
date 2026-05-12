@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch an exclusive Lady Gaga concert film on Apple Music on May 14](https://appleinsider.com/articles/26/05/12/watch-an-exclusive-lady-gaga-concert-film-on-apple-music-on-may-14?utm_source=rss)
- - [Musk v. Altman: Altman testified that in 2017 Musk demanded complete control of a proposed OpenAI for-profit arm, musing that he would pass it to his children &lpar;Bloomberg&rpar;](https://www.techmeme.com/260512/p42#a260512p42)
- - [Anthropic names eight unauthorized secondary market sellers of its shares, including Hiive and Forge Global, warning that any share transactions there are void &lpar;Yazhou Sun/Bloomberg&rpar;](https://www.techmeme.com/260512/p41#a260512p41)<!-- TECH:END -->
+ - [iPhone &amp; Android interoperability enhancements highlighted at Google I/O preshow](https://appleinsider.com/articles/26/05/12/iphone-android-interoperability-enhancements-highlighted-at-google-io-preshow?utm_source=rss)
+ - [Iran Is Using Tiny ‘Mosquito’ Boats to Shut Down the Strait of Hormuz](https://www.wired.com/story/iran-is-using-tiny-mosquito-boats-to-shut-down-the-strait-of-hormuz/)
+ - [Google says it is hiring a team of &quot;forward deployed engineers&quot;, a source says in the hundreds, to help customers use its business-focused AI products &lpar;Erin Woo/The Information&rpar;](https://www.techmeme.com/260512/p43#a260512p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
