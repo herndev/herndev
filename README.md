@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Parents say ChatGPT got their son killed with bad advice on party drugs](https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose)
- - [Android Show 2026: all the news and announcements](https://www.theverge.com/tech/928624/android-show-2026-all-the-news-and-announcements)
- - [Sources: Google is in talks with SpaceX and other companies for a rocket launch deal, as Google expands its own efforts to put orbital data centers in space &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260512/p30#a260512p30)<!-- TECH:END -->
+ - [Sam Altman says Elon Musk’s mind games were damaging OpenAI](https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage)
+ - [Spotify is experiencing a service interruption right now, but the company is on the case](https://www.androidauthority.com/spotify-outage-3666196/)
+ - [Commemorative US Mint Steve Jobs coin sells out in just 11 minutes](https://appleinsider.com/articles/26/05/12/commemorative-us-mint-steve-jobs-coin-sells-out-in-just-11-minutes?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
