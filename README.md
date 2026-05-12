@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Anthropic is in advanced talks to acquire New York-based Stainless, which helps developers generate SDKs from APIs, for at least $300M &lpar;The Information&rpar;](https://www.techmeme.com/260512/p53#a260512p53)
- - [Qualcomm’s next Snapdragon chip could push phone prices over the edge](https://www.androidauthority.com/qualcomm-snapdragon-8-elite-gen-6-price-leak-3666357/)
- - [OpenAI faces grim lawsuit over ChatGPT’s alleged role in teen overdose](https://www.androidauthority.com/chatgpt-encouraged-teen-lethal-mix-drugs-3666340/)<!-- TECH:END -->
+ - [The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy](https://www.wired.com/story/unitree-gd01-mecha-robot/)
+ - [Foxconn says some of its North American factories suffered a cyberattack in recent days; ransomware group Nitrogen claims it stole 8TB of data &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260512/p54#a260512p54)
+ - [Source: Anthropic is in advanced talks to acquire New York-based Stainless, which helps developers generate SDKs from APIs, for at least $300M &lpar;The Information&rpar;](https://www.techmeme.com/260512/p53#a260512p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
