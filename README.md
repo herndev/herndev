@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karen Pro Max+](http://9gag.com/gag/awyEVjR)
- - ⏩ [Hola guapa](http://9gag.com/gag/aXPyqYP)
- - 👉 [Taekwondo](http://9gag.com/gag/aKGQVOO)<!-- MEMES:END -->
+ - 💣 [During the 90&#39;s](http://9gag.com/gag/azxW8jb)
+ - ⏩ [The greatest moment in women&#39;s racing history: the pace car pulled into the pits - and all the drivers followed it.](http://9gag.com/gag/a2v3rZO)
+ - 👉 [Snow Leopard Jump](http://9gag.com/gag/ayNbL6X)<!-- MEMES:END -->
 
 ---
 
