@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sam Altman recently discussed launching an AI compute company that is majority-owned by OpenAI, similar to Stargate&#39;s original data center initiative &lpar;Alex Heath/Sources&rpar;](https://www.techmeme.com/260512/p65#a260512p65)
- - [Nvidia says that Jensen Huang is joining President Trump on his China trip; source: the president asked Huang to join after seeing media coverage of his absence &lpar;CNBC&rpar;](https://www.techmeme.com/260512/p64#a260512p64)
- - [Waymo recalls ~3,800 robotaxis in the US to fix software issues that may cause them to drive onto flooded roads, after some were seen stalled on flooded streets &lpar;Lora Kolodny/CNBC&rpar;](https://www.techmeme.com/260512/p63#a260512p63)<!-- TECH:END -->
+ - [Google could finally give Pixel phones proper Material You color controls](https://www.androidauthority.com/google-pixel-wallpaper-and-style-color-customization-leak-3666400/)
+ - [Paymentology, which provides real-time card and payment processing technology for banks and fintechs, raised $175M co-led by Apis Partners and Aspirity Partners &lpar;Tamara Djurickovic/Tech.eu&rpar;](https://www.techmeme.com/260512/p66#a260512p66)
+ - [Sources: Sam Altman recently discussed launching an AI compute company that is majority-owned by OpenAI, similar to Stargate&#39;s original data center initiative &lpar;Alex Heath/Sources&rpar;](https://www.techmeme.com/260512/p65#a260512p65)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
