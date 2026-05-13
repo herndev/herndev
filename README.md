@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hola guapa](http://9gag.com/gag/aXPyqYP)
- - ⏩ [Official Adidas production line](http://9gag.com/gag/axyLgGb)
- - 👉 [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)<!-- MEMES:END -->
+ - 💣 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
+ - ⏩ [This lizard is not letting go. What a ride](http://9gag.com/gag/a1mydr8)
+ - 👉 [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)<!-- MEMES:END -->
 
 ---
 
