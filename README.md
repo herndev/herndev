@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says Chromebooks will get support through their &quot;existing date commitment&quot;, and &quot;many&quot; models are &quot;eligible to transition&quot; to the Googlebook experience &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260513/p18#a260513p18)
- - [How eBay CEO Jamie Iannone transformed the company, refocusing on power buyers in categories with especially high resale demand like trading cards and sneakers &lpar;Kim Bhasin/New York Times&rpar;](https://www.techmeme.com/260513/p17#a260513p17)
- - [Sony Bravia Theater Bar 5 Review: Basic Bar, Big Sound](https://www.wired.com/review/sony-bravia-theater-bar-5/)<!-- TECH:END -->
+ - [Google just nuked the old Nest forums, and your account is gone](https://www.androidauthority.com/new-google-home-and-nest-community-rollout-3666527/)
+ - [Inside the Race to Develop a Test for the Rare Andes Hantavirus](https://www.wired.com/story/race-to-develop-andes-hantavirus-test/)
+ - [Samsung’s drawing app just got a big update on Galaxy devices](https://www.androidauthority.com/samsung-penup-drawing-app-update-3666476/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
