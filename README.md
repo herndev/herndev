@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram rolls out Instants, which lets users share ephemeral photos, as an in-app feature in Instagram and as a standalone app in select countries &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260513/p41#a260513p41)
- - [Adaption, co-founded by ex-Cohere VP of AI research Sara Hooker, unveils AutoScientist, which can automate the research loop behind model training and alignment &lpar;Russell Brandom/TechCrunch&rpar;](https://www.techmeme.com/260513/p40#a260513p40)
- - [Anthropic launches Claude for Small Business, featuring a host of automated services like bookkeeping functions, business insights, and tools for ad campaigns &lpar;Lucas Ropek/TechCrunch&rpar;](https://www.techmeme.com/260513/p39#a260513p39)<!-- TECH:END -->
+ - [Survey confirms: Galaxy Ultra fans want Samsung to bring the old swagger back](https://www.androidauthority.com/galaxy-ultra-phones-losing-identity-poll-results-3666658/)
+ - [Amazon’s Panos Panay has a complicated response to Fire Phone 2.0 rumors](https://www.androidauthority.com/new-amazon-fire-phone-3666611/)
+ - [OpenAI Brings Its Ass to Court](https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
