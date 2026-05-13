@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just nuked the old Nest forums, and your account is gone](https://www.androidauthority.com/new-google-home-and-nest-community-rollout-3666527/)
- - [Inside the Race to Develop a Test for the Rare Andes Hantavirus](https://www.wired.com/story/race-to-develop-andes-hantavirus-test/)
- - [Samsung’s drawing app just got a big update on Galaxy devices](https://www.androidauthority.com/samsung-penup-drawing-app-update-3666476/)<!-- TECH:END -->
+ - [RCS &amp; encryption haven&#39;t fixed the green bubble problem](https://appleinsider.com/articles/26/05/13/rcs-encryption-havent-fixed-the-green-bubble-problem?utm_source=rss)
+ - [Unitree will sell you a massive ‘transformable mecha’ for $650,000](https://www.theverge.com/tech/929487/unitree-gd01-giant-mech-suit-robot)
+ - [Trump Mobile CEO Pat O&#39;Brien says T1 Phone pre-orders will begin shipping to customers this week, and the device is assembled in the US, after months of delays &lpar;Michelle Del Rey/USA Today&rpar;](https://www.techmeme.com/260513/p22#a260513p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
