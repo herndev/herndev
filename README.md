@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy](https://www.wired.com/story/unitree-gd01-mecha-robot/)
- - [Foxconn says some of its North American factories suffered a cyberattack in recent days; ransomware group Nitrogen claims it stole 8TB of data &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260512/p54#a260512p54)
- - [Source: Anthropic is in advanced talks to acquire New York-based Stainless, which helps developers generate SDKs from APIs, for at least $300M &lpar;The Information&rpar;](https://www.techmeme.com/260512/p53#a260512p53)<!-- TECH:END -->
+ - [Garmin just gave beginner runners features that used to cost a lot more](https://www.androidauthority.com/garmin-launches-forerunner-70-and-170-3666381/)
+ - [Havoc, which offers autonomous boats and software to control thousands of vessels at once, raised a $100M Series A led by Cobalt and Boardman Bay &lpar;Monica Hunter-Hart/Forbes&rpar;](https://www.techmeme.com/260512/p59#a260512p59)
+ - [Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI Onto His Kids, Sam Altman Says](https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
