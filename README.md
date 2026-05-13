@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft is in discussions to acquire LLM developer Inception; SpaceX also courted Inception, which is looking for a price of over $1B &lpar;Reuters&rpar;](https://www.techmeme.com/260513/p48#a260513p48)
- - [Microsoft&amp;#8217;s Edge Copilot update uses AI to pull information from across your tabs](https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs)
- - [Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions](https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/)<!-- TECH:END -->
+ - [Instagram Introduces Instants, Meta&#39;s New Private Photo Sharing App](https://www.cnet.com/tech/instagram-instants-meta-disappearing-photo-app/)
+ - [Source: Cerebras priced its IPO at $185 per share, above the expected range of $150 to $160, raising at least $5.55B and valuing it at $56.4B fully diluted &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260513/p50#a260513p50)
+ - [Netflix says its ad tier now has 250M monthly active viewers, up from 94M in 2025, and is expanding to 15 new countries, as it tests an ad personalization tool &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260513/p49#a260513p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
