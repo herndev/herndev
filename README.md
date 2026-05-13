@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite risks, Apple seeks ways to bring more AI to the App Store](https://appleinsider.com/articles/26/05/13/despite-risks-apple-seeks-ways-to-bring-more-ai-to-the-app-store?utm_source=rss)
- - [Overworked AI Agents Turn Marxist, Researchers Find](https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/)
- - [Musk v. Altman: Microsoft executive Michael Wetter testifies that Microsoft has spent $100B+ on its partnership with OpenAI, including its original investments &lpar;Bloomberg&rpar;](https://www.techmeme.com/260513/p44#a260513p44)<!-- TECH:END -->
+ - [The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.](https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it)
+ - [What It Will Take to Make AI Sustainable](https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/)
+ - [Fighting Trump will make or break Disney’s new CEO](https://www.theverge.com/streaming/930009/johh-damaro-disney-trump-fcc-the-view-equal-time-doctrine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
