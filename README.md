@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin just gave beginner runners features that used to cost a lot more](https://www.androidauthority.com/garmin-launches-forerunner-70-and-170-3666381/)
- - [Havoc, which offers autonomous boats and software to control thousands of vessels at once, raised a $100M Series A led by Cobalt and Boardman Bay &lpar;Monica Hunter-Hart/Forbes&rpar;](https://www.techmeme.com/260512/p59#a260512p59)
- - [Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI Onto His Kids, Sam Altman Says](https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/)<!-- TECH:END -->
+ - [The US&#39; Centers for Medicare &amp; Medicaid Services is testing ACCESS, an outcome-based payment model for AI-driven medical care, with 150 tech companies &lpar;Connie Loizos/TechCrunch&rpar;](https://www.techmeme.com/260512/p61#a260512p61)
+ - [Internal emails: xAI added 19 gas turbines to Colossus 2 over the past two months; xAI is fighting a lawsuit alleging Clean Air Act violations at the site &lpar;Molly Taft/Wired&rpar;](https://www.techmeme.com/260512/p60#a260512p60)
+ - [Garmin just gave beginner runners features that used to cost a lot more](https://www.androidauthority.com/garmin-launches-forerunner-70-and-170-3666381/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
