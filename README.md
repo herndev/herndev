@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)
- - ⏩ [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
+ - 💣 [Karen Pro Max+](http://9gag.com/gag/awyEVjR)
+ - ⏩ [Hola guapa](http://9gag.com/gag/aXPyqYP)
  - 👉 [Taekwondo](http://9gag.com/gag/aKGQVOO)<!-- MEMES:END -->
 
 ---
