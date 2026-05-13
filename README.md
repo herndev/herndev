@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gundam just beat Dragon Ball and One Piece in new Bandai Namco report](https://www.polygon.com/gundam-bandai-namco-most-profitable-franchise-one-piece-dragon-ball/)
- - [Mood Swings transforms Magic: The Gathering into a party game anyone can play](https://www.polygon.com/mood-swings-mtg-mark-rosewater-tcg-gameplay-impressions/)
- - [The &#39;numbers just aren&#39;t there,&#39; Dead Space producer says, and that&#39;s why we&#39;ll probably never see Dead Space 4](https://www.pcgamer.com/games/horror/the-numbers-just-arent-there-dead-space-producer-says-and-thats-why-well-probably-never-see-dead-space-4/)<!-- GAME:END -->
+ - [Xbox update brings new boot up experience, Gamerscore glow up](https://www.polygon.com/xbox-console-update-boot-up-gamerscore-library/)
+ - [93 Percent Of Capcom’s Game Sales Are Digital And The Company Expects That Number To Grow](https://kotaku.com/93-percent-of-capcoms-game-sales-are-digital-and-the-company-expects-that-number-to-grow-2000695728)
+ - [PlayStation Plus Extra May 2026 free game catalog additions announced](https://www.polygon.com/playstation-plus-game-catalog-may-2026-star-wars-outlaws-red-dead-redemption-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
