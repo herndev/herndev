@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The youth is doomed\u2026](http://9gag.com/gag/aE09Y0e)
- - ⏩ [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
- - 👉 [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)<!-- MEMES:END -->
+ - 💣 [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)
+ - ⏩ [Is this the least dangerous crime ever](http://9gag.com/gag/a6Z0QPN)
+ - 👉 [Freestyler](http://9gag.com/gag/a9yxrY1)<!-- MEMES:END -->
 
 ---
 
