@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysts say AI fervor in the US and Asia has spread to Europe, boosting stocks like STMicro and Nokia as investors seek the AI boom&#39;s pick-and-shovel stocks &lpar;Financial Times&rpar;](https://www.techmeme.com/260513/p6#a260513p6)
- - [An analysis of Tokenomist.ai data: Trump family members made ~$1.55B from sales of World Liberty Financial&#39;s WLFI tokens, lifting their total fortune by ~$660M &lpar;Bloomberg&rpar;](https://www.techmeme.com/260513/p5#a260513p5)
- - [China&#39;s CSI AI Index, which tracks AI supply chain companies, is up 28%+ YTD, while HK&#39;s Hang Seng Tech Index, which includes Alibaba and Tencent, is down 8% &lpar;William Sandlund/Financial Times&rpar;](https://www.techmeme.com/260513/p4#a260513p4)<!-- TECH:END -->
+ - [Anduril raised $5B led by Thrive Capital and a16z at a $61B valuation, up from $30.5B in June 2025, taking its total funding to $6.82B, and may IPO in 2027 &lpar;Sheera Frenkel/New York Times&rpar;](https://www.techmeme.com/260513/p11#a260513p11)
+ - [Samsung Galaxy Z Fold 8 and Flip 8 may debut with Gemini Intelligence](https://www.androidauthority.com/samsung-galaxy-z-fold-8-gemini-intelligence-3666434/)
+ - [Samsung quietly revived this immersive DeX feature](https://www.androidauthority.com/samsung-autohide-taskbar-toggle-3666423/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
