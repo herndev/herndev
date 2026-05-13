@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey confirms: Galaxy Ultra fans want Samsung to bring the old swagger back](https://www.androidauthority.com/galaxy-ultra-phones-losing-identity-poll-results-3666658/)
- - [Amazon’s Panos Panay has a complicated response to Fire Phone 2.0 rumors](https://www.androidauthority.com/new-amazon-fire-phone-3666611/)
- - [OpenAI Brings Its Ass to Court](https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/)<!-- TECH:END -->
+ - [Despite risks, Apple seeks ways to bring more AI to the App Store](https://appleinsider.com/articles/26/05/13/despite-risks-apple-seeks-ways-to-bring-more-ai-to-the-app-store?utm_source=rss)
+ - [Overworked AI Agents Turn Marxist, Researchers Find](https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/)
+ - [Musk v. Altman: Microsoft executive Michael Wetter testifies that Microsoft has spent $100B+ on its partnership with OpenAI, including its original investments &lpar;Bloomberg&rpar;](https://www.techmeme.com/260513/p44#a260513p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
