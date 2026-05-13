@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.](https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it)
- - [What It Will Take to Make AI Sustainable](https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/)
- - [Fighting Trump will make or break Disney’s new CEO](https://www.theverge.com/streaming/930009/johh-damaro-disney-trump-fcc-the-view-equal-time-doctrine)<!-- TECH:END -->
+ - [Netflix to Stream Green Bay Packers vs. LA Rams Thanksgiving Eve NFL Game](https://www.cnet.com/tech/services-and-software/netflix-to-stream-green-bay-packers-vs-la-rams-thanksgiving-eve-nfl-game/)
+ - [Google I/O 2026: What We&#39;re Expecting From Gemini, Android XR and More Next Week](https://www.cnet.com/tech/services-and-software/google-io-2026-everything-to-know/)
+ - [TikTok Go Lets You Book Vacations, Hotels and Attractions Through the App](https://www.cnet.com/tech/services-and-software/tiktok-go-app-book-vacations-hotels-activities/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
