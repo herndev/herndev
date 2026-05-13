@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RCS &amp; encryption haven&#39;t fixed the green bubble problem](https://appleinsider.com/articles/26/05/13/rcs-encryption-havent-fixed-the-green-bubble-problem?utm_source=rss)
- - [Unitree will sell you a massive ‘transformable mecha’ for $650,000](https://www.theverge.com/tech/929487/unitree-gd01-giant-mech-suit-robot)
- - [Trump Mobile CEO Pat O&#39;Brien says T1 Phone pre-orders will begin shipping to customers this week, and the device is assembled in the US, after months of delays &lpar;Michelle Del Rey/USA Today&rpar;](https://www.techmeme.com/260513/p22#a260513p22)<!-- TECH:END -->
+ - [Analysis: 25% of the 13,000 US federal lobbyists are involved in AI issues, up from 11% in 2023; OpenAI plans to host the opening of its DC office on Wednesday &lpar;Cecilia Kang/New York Times&rpar;](https://www.techmeme.com/260513/p25#a260513p25)
+ - [M5 Max 16-inch MacBook Pro vs Samsung Galaxy Book6 Ultra: Compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/m5-max-16-inch-macbook-pro-vs-samsung-galaxy-book6-ultra-compared?utm_source=rss)
+ - [Nintendo says it has more Switch 2 games in store for 2026](https://www.theverge.com/games/929527/nintendo-switch-2-release-schedule-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
