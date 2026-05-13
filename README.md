@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
- - ⏩ [Accurate..?](http://9gag.com/gag/a2v3rr1)
- - 👉 [From monster to human. A journey of dedication. A true role model. Don&#39;t trust the lies from leftists and wokists. Be fat is not cool. Be fat is not healthy.](http://9gag.com/gag/aD2KG5G)<!-- MEMES:END -->
+ - 💣 [Hola guapa](http://9gag.com/gag/aXPyqYP)
+ - ⏩ [Official Adidas production line](http://9gag.com/gag/axyLgGb)
+ - 👉 [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)<!-- MEMES:END -->
 
 ---
 
