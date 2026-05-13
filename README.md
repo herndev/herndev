@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Evolution of Windows, Updated](http://9gag.com/gag/adBG7yV)
- - ⏩ [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
- - 👉 [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)<!-- MEMES:END -->
+ - 💣 [Hola guapa](http://9gag.com/gag/aXPyqYP)
+ - ⏩ [Official Adidas production line](http://9gag.com/gag/axyLgGb)
+ - 👉 [The slaps felt personal](http://9gag.com/gag/avyMGwb)<!-- MEMES:END -->
 
 ---
 
