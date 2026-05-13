@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
- - ⏩ [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)
- - 👉 [Official Adidas production line](http://9gag.com/gag/axyLgGb)<!-- MEMES:END -->
+ - 💣 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)
+ - ⏩ [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)
+ - 👉 [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)<!-- MEMES:END -->
 
 ---
 
