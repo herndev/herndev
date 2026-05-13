@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)
- - ⏩ [Is this the least dangerous crime ever](http://9gag.com/gag/a6Z0QPN)
- - 👉 [Freestyler](http://9gag.com/gag/a9yxrY1)<!-- MEMES:END -->
+ - 💣 [Hola guapa](http://9gag.com/gag/aXPyqYP)
+ - ⏩ [Official Adidas production line](http://9gag.com/gag/axyLgGb)
+ - 👉 [Taekwondo](http://9gag.com/gag/aKGQVOO)<!-- MEMES:END -->
 
 ---
 
