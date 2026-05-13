@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent reports Q1 revenue up 9% YoY to ~$28.9B, below ~$29.4B est., and net income of ~$8.5B, meeting est., amid a costly AI pivot; its stock is down 23% YTD &lpar;Bloomberg&rpar;](https://www.techmeme.com/260513/p14#a260513p14)
- - [Samsung kicks off One UI 9 beta: Here’s what’s new on your Galaxy S26](https://www.androidauthority.com/samsung-one-ui-9-beta-galaxy-s26-changelog-3666500/)
- - [SoftBank reports Q4 net income up 3x to ~$11.6B, above ~$1.5B est., driven by a $25B gain in its OpenAI stake; by October, its OpenAI investment will hit $64.6B &lpar;David Keohane/Financial Times&rpar;](https://www.techmeme.com/260513/p13#a260513p13)<!-- TECH:END -->
+ - [Google says Chromebooks will get support through their &quot;existing date commitment&quot;, and &quot;many&quot; models are &quot;eligible to transition&quot; to the Googlebook experience &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260513/p18#a260513p18)
+ - [How eBay CEO Jamie Iannone transformed the company, refocusing on power buyers in categories with especially high resale demand like trading cards and sneakers &lpar;Kim Bhasin/New York Times&rpar;](https://www.techmeme.com/260513/p17#a260513p17)
+ - [Sony Bravia Theater Bar 5 Review: Basic Bar, Big Sound](https://www.wired.com/review/sony-bravia-theater-bar-5/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
