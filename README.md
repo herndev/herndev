@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Night, Deadly Night is getting a new sequel from the best possible writer](https://www.polygon.com/silent-night-deadlier-night-novel/)
- - [Aliens: Fireteam Elite 2 is coming this summer, now with more marines and a &#39;massive variety of new xenomorphs&#39; to slice &#39;em up](https://www.pcgamer.com/games/fps/aliens-fireteam-elite-2-is-coming-this-summer-now-with-more-marines-and-a-massive-variety-of-new-xenomorphs-to-slice-em-up/)
- - [Mortal Kombat 2 Reviews Can’t Decide If It’s Monumentally Dumb And Kind Of Awesome Or Just A Boring Mess](https://kotaku.com/mortal-kombat-2-reviews-cant-decide-if-its-monumentally-dumb-and-kind-of-awesome-or-just-a-boring-mess-2000693692)<!-- GAME:END -->
+ - [Gundam just beat Dragon Ball and One Piece in new Bandai Namco report](https://www.polygon.com/gundam-bandai-namco-most-profitable-franchise-one-piece-dragon-ball/)
+ - [Mood Swings transforms Magic: The Gathering into a party game anyone can play](https://www.polygon.com/mood-swings-mtg-mark-rosewater-tcg-gameplay-impressions/)
+ - [The &#39;numbers just aren&#39;t there,&#39; Dead Space producer says, and that&#39;s why we&#39;ll probably never see Dead Space 4](https://www.pcgamer.com/games/horror/the-numbers-just-arent-there-dead-space-producer-says-and-thats-why-well-probably-never-see-dead-space-4/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
