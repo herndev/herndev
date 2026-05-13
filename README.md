@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
- - ⏩ [Freestyler](http://9gag.com/gag/a9yxrY1)
- - 👉 [Evolution of Windows, Updated](http://9gag.com/gag/adBG7yV)<!-- MEMES:END -->
+ - 💣 [The greatest moment in women&#39;s racing history: the pace car pulled into the pits - and all the drivers followed it.](http://9gag.com/gag/a2v3rZO)
+ - ⏩ [Poor dude lost all his honest work to some off-duty cop.](http://9gag.com/gag/aqyP1e7)
+ - 👉 [A little daisy can make a big difference](http://9gag.com/gag/aByAWp1)<!-- MEMES:END -->
 
 ---
 
