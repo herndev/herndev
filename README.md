@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Evolution of Windows, Updated](http://9gag.com/gag/adBG7yV)
- - ⏩ [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)
- - 👉 [Sooooo, how are they gonna go back?](http://9gag.com/gag/a2v3501)<!-- MEMES:END -->
+ - 💣 [The youth is doomed\u2026](http://9gag.com/gag/aE09Y0e)
+ - ⏩ [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
+ - 👉 [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)<!-- MEMES:END -->
 
 ---
 
