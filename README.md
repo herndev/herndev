@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Save 25% on the Arlo Essential XL Security Camera](https://www.androidauthority.com/arlo-essential-xl-security-camera-deal-3666607/)
- - [EU&#39;s artificial intelligence requirements are profoundly risky, says Apple](https://appleinsider.com/articles/26/05/13/eus-artificial-intelligence-requirements-are-profoundly-risky-says-apple?utm_source=rss)
- - [Swatch’s latest luxury collaboration is a $400 pocket watch](https://www.theverge.com/tech/929625/swatch-audemars-piguet-x-swatch-royal-pop-pocket-watch)<!-- TECH:END -->
+ - [Sources: Arm and SoftBank expressed preliminary interest to acquire Cerebras weeks before its expected IPO; Cerebras rebuffed them &lpar;Bloomberg&rpar;](https://www.techmeme.com/260513/p36#a260513p36)
+ - [The FTC says Shutterstock will pay $35M to settle charges that Shutterstock misled consumers about its subscription plans and made it too difficult to cancel &lpar;Jonathan Stempel/Reuters&rpar;](https://www.techmeme.com/260513/p35#a260513p35)
+ - [Microsoft doesn’t want any of this](https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
