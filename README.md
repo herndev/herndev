@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could finally give Pixel phones proper Material You color controls](https://www.androidauthority.com/google-pixel-wallpaper-and-style-color-customization-leak-3666400/)
- - [Paymentology, which provides real-time card and payment processing technology for banks and fintechs, raised $175M co-led by Apis Partners and Aspirity Partners &lpar;Tamara Djurickovic/Tech.eu&rpar;](https://www.techmeme.com/260512/p66#a260512p66)
- - [Sources: Sam Altman recently discussed launching an AI compute company that is majority-owned by OpenAI, similar to Stargate&#39;s original data center initiative &lpar;Alex Heath/Sources&rpar;](https://www.techmeme.com/260512/p65#a260512p65)<!-- TECH:END -->
+ - [Analysts say AI fervor in the US and Asia has spread to Europe, boosting stocks like STMicro and Nokia as investors seek the AI boom&#39;s pick-and-shovel stocks &lpar;Financial Times&rpar;](https://www.techmeme.com/260513/p6#a260513p6)
+ - [An analysis of Tokenomist.ai data: Trump family members made ~$1.55B from sales of World Liberty Financial&#39;s WLFI tokens, lifting their total fortune by ~$660M &lpar;Bloomberg&rpar;](https://www.techmeme.com/260513/p5#a260513p5)
+ - [China&#39;s CSI AI Index, which tracks AI supply chain companies, is up 28%+ YTD, while HK&#39;s Hang Seng Tech Index, which includes Alibaba and Tencent, is down 8% &lpar;William Sandlund/Financial Times&rpar;](https://www.techmeme.com/260513/p4#a260513p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
