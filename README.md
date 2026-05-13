@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hola guapa](http://9gag.com/gag/aXPyqYP)
- - ⏩ [Official Adidas production line](http://9gag.com/gag/axyLgGb)
- - 👉 [Taekwondo](http://9gag.com/gag/aKGQVOO)<!-- MEMES:END -->
+ - 💣 [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
+ - ⏩ [Freestyler](http://9gag.com/gag/a9yxrY1)
+ - 👉 [Evolution of Windows, Updated](http://9gag.com/gag/adBG7yV)<!-- MEMES:END -->
 
 ---
 
