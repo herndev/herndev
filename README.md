@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hola guapa](http://9gag.com/gag/aXPyqYP)
- - ⏩ [Official Adidas production line](http://9gag.com/gag/axyLgGb)
- - 👉 [The slaps felt personal](http://9gag.com/gag/avyMGwb)<!-- MEMES:END -->
+ - 💣 [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
+ - ⏩ [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)
+ - 👉 [Catching hornets](http://9gag.com/gag/a87R82Z)<!-- MEMES:END -->
 
 ---
 
