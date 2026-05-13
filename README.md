@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [During the 90&#39;s](http://9gag.com/gag/azxW8jb)
- - ⏩ [The greatest moment in women&#39;s racing history: the pace car pulled into the pits - and all the drivers followed it.](http://9gag.com/gag/a2v3rZO)
- - 👉 [Snow Leopard Jump](http://9gag.com/gag/ayNbL6X)<!-- MEMES:END -->
+ - 💣 [Evolution of Windows, Updated](http://9gag.com/gag/adBG7yV)
+ - ⏩ [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)
+ - 👉 [Sooooo, how are they gonna go back?](http://9gag.com/gag/a2v3501)<!-- MEMES:END -->
 
 ---
 
