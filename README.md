@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: 25% of the 13,000 US federal lobbyists are involved in AI issues, up from 11% in 2023; OpenAI plans to host the opening of its DC office on Wednesday &lpar;Cecilia Kang/New York Times&rpar;](https://www.techmeme.com/260513/p25#a260513p25)
- - [M5 Max 16-inch MacBook Pro vs Samsung Galaxy Book6 Ultra: Compared](https://appleinsider.com/inside/16-inch-macbook-pro/vs/m5-max-16-inch-macbook-pro-vs-samsung-galaxy-book6-ultra-compared?utm_source=rss)
- - [Nintendo says it has more Switch 2 games in store for 2026](https://www.theverge.com/games/929527/nintendo-switch-2-release-schedule-2026)<!-- TECH:END -->
+ - [Deal: Save 25% on the Arlo Essential XL Security Camera](https://www.androidauthority.com/arlo-essential-xl-security-camera-deal-3666607/)
+ - [EU&#39;s artificial intelligence requirements are profoundly risky, says Apple](https://appleinsider.com/articles/26/05/13/eus-artificial-intelligence-requirements-are-profoundly-risky-says-apple?utm_source=rss)
+ - [Swatch’s latest luxury collaboration is a $400 pocket watch](https://www.theverge.com/tech/929625/swatch-audemars-piguet-x-swatch-royal-pop-pocket-watch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
