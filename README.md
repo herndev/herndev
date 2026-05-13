@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
- - ⏩ [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)
- - 👉 [Catching hornets](http://9gag.com/gag/a87R82Z)<!-- MEMES:END -->
+ - 💣 [Peak male performance](http://9gag.com/gag/ajPzNXq)
+ - ⏩ [This priest is doing god&#39;s work, literally](http://9gag.com/gag/ae9nerQ)
+ - 👉 [A little daisy can make a big difference](http://9gag.com/gag/aByAWp1)<!-- MEMES:END -->
 
 ---
 
