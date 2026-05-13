@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix to Stream Green Bay Packers vs. LA Rams Thanksgiving Eve NFL Game](https://www.cnet.com/tech/services-and-software/netflix-to-stream-green-bay-packers-vs-la-rams-thanksgiving-eve-nfl-game/)
- - [Google I/O 2026: What We&#39;re Expecting From Gemini, Android XR and More Next Week](https://www.cnet.com/tech/services-and-software/google-io-2026-everything-to-know/)
- - [TikTok Go Lets You Book Vacations, Hotels and Attractions Through the App](https://www.cnet.com/tech/services-and-software/tiktok-go-app-book-vacations-hotels-activities/)<!-- TECH:END -->
+ - [The new Steam Controller is hiding maybe the best controller-based Easter egg of all time](https://www.androidauthority.com/steam-controller-easter-egg-3666766/)
+ - [One of the best racing games on the Google Play Store just got a big discount](https://www.androidauthority.com/wreckfest-google-play-discount-3666737/)
+ - [Mythos Preview is the first AI model to complete both of AISI&#39;s cyber ranges, which measure models&#39; cyberattack capabilities; GPT-5.5 solved only one of them &lpar;AI Security Institute&rpar;](https://www.techmeme.com/260513/p46#a260513p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
