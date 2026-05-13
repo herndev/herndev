@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Never thought an ant could look like a sci-fi monster](http://9gag.com/gag/abANZzB)
- - ⏩ [This lizard is not letting go. What a ride](http://9gag.com/gag/a1mydr8)
- - 👉 [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)<!-- MEMES:END -->
+ - ⏩ [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)
+ - 👉 [Official Adidas production line](http://9gag.com/gag/axyLgGb)<!-- MEMES:END -->
 
 ---
 
