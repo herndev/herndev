@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro waited his whole life for this moment, and then he choked](http://9gag.com/gag/a9yxYzL)
- - ⏩ [A showdown of epic proportions](http://9gag.com/gag/avyMnyn)
- - 👉 [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)<!-- MEMES:END -->
+ - 💣 [The worst feeling ever in a public toilet](http://9gag.com/gag/a4PXZrp)
+ - ⏩ [During the 90&#39;s](http://9gag.com/gag/azxW8jb)
+ - 👉 [Hola guapa](http://9gag.com/gag/aXPyqYP)<!-- MEMES:END -->
 
 ---
 
