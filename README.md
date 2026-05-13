@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anduril raised $5B led by Thrive Capital and a16z at a $61B valuation, up from $30.5B in June 2025, taking its total funding to $6.82B, and may IPO in 2027 &lpar;Sheera Frenkel/New York Times&rpar;](https://www.techmeme.com/260513/p11#a260513p11)
- - [Samsung Galaxy Z Fold 8 and Flip 8 may debut with Gemini Intelligence](https://www.androidauthority.com/samsung-galaxy-z-fold-8-gemini-intelligence-3666434/)
- - [Samsung quietly revived this immersive DeX feature](https://www.androidauthority.com/samsung-autohide-taskbar-toggle-3666423/)<!-- TECH:END -->
+ - [There’s good news if you want Googlebooks with great battery life](https://www.androidauthority.com/googlebooks-chip-support-chrome-os-features-3666443/)
+ - [Survey suggests this is the preferred first step when setting up an Android phone](https://www.androidauthority.com/things-i-set-up-android-phone-poll-results-3666438/)
+ - [Pixel &amp; Galaxy Watch users complain of a frustrating YouTube Music bug](https://www.androidauthority.com/wear-os-youtube-music-playlist-bug-3666439/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
