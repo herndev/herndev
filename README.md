@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Arm and SoftBank expressed preliminary interest to acquire Cerebras weeks before its expected IPO; Cerebras rebuffed them &lpar;Bloomberg&rpar;](https://www.techmeme.com/260513/p36#a260513p36)
- - [The FTC says Shutterstock will pay $35M to settle charges that Shutterstock misled consumers about its subscription plans and made it too difficult to cancel &lpar;Jonathan Stempel/Reuters&rpar;](https://www.techmeme.com/260513/p35#a260513p35)
- - [Microsoft doesn’t want any of this](https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial)<!-- TECH:END -->
+ - [Instagram rolls out Instants, which lets users share ephemeral photos, as an in-app feature in Instagram and as a standalone app in select countries &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260513/p41#a260513p41)
+ - [Adaption, co-founded by ex-Cohere VP of AI research Sara Hooker, unveils AutoScientist, which can automate the research loop behind model training and alignment &lpar;Russell Brandom/TechCrunch&rpar;](https://www.techmeme.com/260513/p40#a260513p40)
+ - [Anthropic launches Claude for Small Business, featuring a host of automated services like bookkeeping functions, business insights, and tools for ad campaigns &lpar;Lucas Ropek/TechCrunch&rpar;](https://www.techmeme.com/260513/p39#a260513p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
