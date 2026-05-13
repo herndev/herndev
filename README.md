@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The slaps felt personal](http://9gag.com/gag/avyMGwb)
+ - 💣 [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)
  - ⏩ [Just another dude with his interest in asian culture](http://9gag.com/gag/aGym0nz)
- - 👉 [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)<!-- MEMES:END -->
+ - 👉 [The slaps felt personal](http://9gag.com/gag/avyMGwb)<!-- MEMES:END -->
 
 ---
 
