@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The worst feeling ever in a public toilet](http://9gag.com/gag/a4PXZrp)
- - ⏩ [During the 90&#39;s](http://9gag.com/gag/azxW8jb)
- - 👉 [Hola guapa](http://9gag.com/gag/aXPyqYP)<!-- MEMES:END -->
+ - 💣 [The grass is always greener, or maybe it&#39;s just the mezcal](http://9gag.com/gag/a0erdOd)
+ - ⏩ [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
+ - 👉 [Taekwondo](http://9gag.com/gag/aKGQVOO)<!-- MEMES:END -->
 
 ---
 
