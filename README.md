@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Steam Controller is hiding maybe the best controller-based Easter egg of all time](https://www.androidauthority.com/steam-controller-easter-egg-3666766/)
- - [One of the best racing games on the Google Play Store just got a big discount](https://www.androidauthority.com/wreckfest-google-play-discount-3666737/)
- - [Mythos Preview is the first AI model to complete both of AISI&#39;s cyber ranges, which measure models&#39; cyberattack capabilities; GPT-5.5 solved only one of them &lpar;AI Security Institute&rpar;](https://www.techmeme.com/260513/p46#a260513p46)<!-- TECH:END -->
+ - [Sources: Microsoft is in discussions to acquire LLM developer Inception; SpaceX also courted Inception, which is looking for a price of over $1B &lpar;Reuters&rpar;](https://www.techmeme.com/260513/p48#a260513p48)
+ - [Microsoft&amp;#8217;s Edge Copilot update uses AI to pull information from across your tabs](https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs)
+ - [Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions](https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
