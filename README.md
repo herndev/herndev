@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Poor dude lost all his honest work to some off-duty cop.](http://9gag.com/gag/aqyP1e7)
  - ⏩ [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)
- - 👉 [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)<!-- MEMES:END -->
+ - 👉 [And it looks dope](http://9gag.com/gag/aByA0rA)<!-- MEMES:END -->
 
 ---
 
