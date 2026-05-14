@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This great Switch emulator on Android just got its one-year anniversary update](https://www.androidauthority.com/switch-emulator-eden-one-year-anniversary-update-3666881/)
- - [This Android feature can predict your every move, and it’s rolling out now](https://www.androidauthority.com/android-contextual-suggestions-predict-next-move-3666566/)
- - [Auto Blocker in One UI 9 beta adds new security report, brings back stricter USB controls](https://www.androidauthority.com/samsung-one-ui-9-auto-blocker-update-3666893/)<!-- TECH:END -->
+ - [Windows Update will soon automatically roll back faulty drivers](https://www.theverge.com/news/930303/windows-update-automatic-driver-rollback-feature)
+ - [Foxconn reports Q1 revenue up 29% YoY to ~$67B and net profit up 19% YoY to ~$1.6B, meeting est., as it boosts AI server production, its largest revenue source &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260514/p8#a260514p8)
+ - [Galaxy Tab S12 series? Samsung app reveals Dimensity 9500 device is coming &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-mediatek-dimensity-9500-galaxy-tab-s12-teardown-3666921/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
