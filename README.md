@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The slaps felt personal](http://9gag.com/gag/avyMGwb)
- - ⏩ [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
+ - 💣 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)
+ - ⏩ [Hola guapa](http://9gag.com/gag/aXPyqYP)
  - 👉 [As Expected..](http://9gag.com/gag/aGymer7)<!-- MEMES:END -->
 
 ---
