@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor dude lost all his honest work to some off-duty cop.](http://9gag.com/gag/aqyP1e7)
- - ⏩ [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)
- - 👉 [And it looks dope](http://9gag.com/gag/aByA0rA)<!-- MEMES:END -->
+ - 💣 [As Expected..](http://9gag.com/gag/aGymer7)
+ - ⏩ [Something happened with no MSM coverage. Can you guess what happened with only the photo from the local article?](http://9gag.com/gag/aXPyv12)
+ - 👉 [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)<!-- MEMES:END -->
 
 ---
 
