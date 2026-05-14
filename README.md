@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)
- - ⏩ [Hola guapa](http://9gag.com/gag/aXPyqYP)
+ - 💣 [When embarrassment backfires](http://9gag.com/gag/aGyme7w)
+ - ⏩ [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)
  - 👉 [As Expected..](http://9gag.com/gag/aGymer7)<!-- MEMES:END -->
 
 ---
