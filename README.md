@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [As Expected..](http://9gag.com/gag/aGymer7)
- - ⏩ [Something happened with no MSM coverage. Can you guess what happened with only the photo from the local article?](http://9gag.com/gag/aXPyv12)
- - 👉 [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)<!-- MEMES:END -->
+ - 💣 [Something happened with no MSM coverage. Can you guess what happened with only the photo from the local article?](http://9gag.com/gag/aXPyv12)
+ - ⏩ [Catching hornets](http://9gag.com/gag/a87R82Z)
+ - 👉 [And it looks dope](http://9gag.com/gag/aByA0rA)<!-- MEMES:END -->
 
 ---
 
