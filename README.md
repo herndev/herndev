@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This priest is doing god&#39;s work, literally](http://9gag.com/gag/ae9nerQ)
- - ⏩ [A little daisy can make a big difference](http://9gag.com/gag/aByAWp1)
- - 👉 [Guess the country](http://9gag.com/gag/azxW87K)<!-- MEMES:END -->
+ - 💣 [Catching hornets](http://9gag.com/gag/a87R82Z)
+ - ⏩ [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
+ - 👉 [The process of surgically `flushing` kidney stones refers to techniques like saline irrigation used during minimally invasive surgeries to clear out fragments and stone dust.](http://9gag.com/gag/axyLVbL)<!-- MEMES:END -->
 
 ---
 
