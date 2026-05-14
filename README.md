@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fly fishing](http://9gag.com/gag/aE09B99)
- - ⏩ [Just goalies doing goalie stuff](http://9gag.com/gag/ae9ne4b)
- - 👉 [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)<!-- MEMES:END -->
+ - 💣 [Hola guapa](http://9gag.com/gag/aXPyqYP)
+ - ⏩ [Taekwondo](http://9gag.com/gag/aKGQVOO)
+ - 👉 [Accidents happens](http://9gag.com/gag/azxWrNq)<!-- MEMES:END -->
 
 ---
 
