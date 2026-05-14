@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Riyadh-based Stitch, which develops software for banks and financial services companies, raised a $25M Series A led by a16z, its first investment in the Gulf &lpar;Aisha S Gani/Bloomberg&rpar;](https://www.techmeme.com/260514/p4#a260514p4)
- - [Sources: climate watchdog SBTi drops proposed rules that would limit tech companies&#39; claims that gas-fueled data centers are covered by clean energy investments &lpar;Kenza Bryan/Financial Times&rpar;](https://www.techmeme.com/260514/p3#a260514p3)
- - [We-Vibe Discount Codes and Deals: Up to 60% Off](https://www.wired.com/story/we-vibe-discount-code/)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, May 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-may-14/)
+ - [Filing: Jensen Huang&#39;s foundation bought $108.3M worth of AI computing time from CoreWeave and is donating it to universities and other nonprofit institutes &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260514/p7#a260514p7)
+ - [Canadian legaltech company Clio says its ARR has reached $500M, citing demand for its AI services; it was valued at $5B after a $500M Series G in November 2025 &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260514/p6#a260514p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
