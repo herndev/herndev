@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, May 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-may-14/)
- - [Filing: Jensen Huang&#39;s foundation bought $108.3M worth of AI computing time from CoreWeave and is donating it to universities and other nonprofit institutes &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260514/p7#a260514p7)
- - [Canadian legaltech company Clio says its ARR has reached $500M, citing demand for its AI services; it was valued at $5B after a $500M Series G in November 2025 &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260514/p6#a260514p6)<!-- TECH:END -->
+ - [This great Switch emulator on Android just got its one-year anniversary update](https://www.androidauthority.com/switch-emulator-eden-one-year-anniversary-update-3666881/)
+ - [This Android feature can predict your every move, and it’s rolling out now](https://www.androidauthority.com/android-contextual-suggestions-predict-next-move-3666566/)
+ - [Auto Blocker in One UI 9 beta adds new security report, brings back stricter USB controls](https://www.androidauthority.com/samsung-one-ui-9-auto-blocker-update-3666893/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
