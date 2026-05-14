@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Hola guapa](http://9gag.com/gag/aXPyqYP)
- - ⏩ [Taekwondo](http://9gag.com/gag/aKGQVOO)
- - 👉 [Accidents happens](http://9gag.com/gag/azxWrNq)<!-- MEMES:END -->
+ - ⏩ [As Expected..](http://9gag.com/gag/aGymer7)
+ - 👉 [The slaps felt personal](http://9gag.com/gag/avyMGwb)<!-- MEMES:END -->
 
 ---
 
