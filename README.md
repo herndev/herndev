@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Catching hornets](http://9gag.com/gag/a87R82Z)
- - ⏩ [Hola guapa](http://9gag.com/gag/aXPyqYP)
+ - 💣 [And he\u2019s still a virgin too\u2026.. probably\u2026..](http://9gag.com/gag/aXPyqe2)
+ - ⏩ [Evolution of Windows, Updated](http://9gag.com/gag/adBG7yV)
  - 👉 [Accurate..?](http://9gag.com/gag/a2v3rr1)<!-- MEMES:END -->
 
 ---
