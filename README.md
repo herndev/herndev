@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic and Gates Foundation pledge $200M to use AI in health and education initiatives; the foundation signed a similar, $50M deal with OpenAI in January &lpar;Jeffrey Dastin/Reuters&rpar;](https://www.techmeme.com/260514/p22#a260514p22)
- - [Hackers used faked Apple &amp; Yahoo infrastructure to hide malware](https://appleinsider.com/articles/26/05/14/hackers-used-faked-apple-yahoo-infrastructure-to-hide-malware?utm_source=rss)
- - [Netflix is building an AI animation studio](https://www.theverge.com/column/930118/netflix-gen-ai-animation-inkubator)<!-- TECH:END -->
+ - [Ian Crosby&#39;s Synthetic, which is building an AI bookkeeper, raised a $10M seed led by Khosla; Crosby founded Bench, which raised $100M+ and imploded in 2024 &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260514/p23#a260514p23)
+ - [Google’s upcoming ‘Gemini Spark’ could soon book your flights and handle your inbox](https://www.androidauthority.com/gemini-spark-onboarding-screen-leaked-3667118/)
+ - [Subnautica 2 is already having a huge launch on Steam](https://www.theverge.com/games/930562/subnautica-2-early-access-launch-steam-pc-epic-games-store-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
