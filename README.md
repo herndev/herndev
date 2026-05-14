@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T, T-Mobile, and Verizon sign an &quot;agreement in principle&quot; to form a joint venture aiming to end wireless dead zones in the US, without giving many details &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260514/p19#a260514p19)
- - [MacBook Neo review, two months later: Almost a MacBook Pro beater](https://appleinsider.com/articles/26/05/14/macbook-neo-review-two-months-later-almost-a-macbook-pro-beater?utm_source=rss)
- - [Motorola Razr Fold review: good performance and screen, great battery life, sharp camera, and native stylus support, but heavier than Z Fold 7 and lackluster AI &lpar;Sam Rutherford/Engadget&rpar;](https://www.techmeme.com/260514/p18#a260514p18)<!-- TECH:END -->
+ - [OnePlus demo units are disappearing from Best Buy stores](https://www.androidauthority.com/oneplus-phones-disappearing-best-buy-retail-3667012/)
+ - [Another OpenAI hack puts ChatGPT Mac users on an update deadline](https://appleinsider.com/articles/26/05/14/another-openai-hack-puts-chatgpt-mac-users-on-an-update-deadline?utm_source=rss)
+ - [How companies weaponize the terms of service against you](https://www.theverge.com/podcast/930342/brendan-ballou-companies-courts-forced-arbitration-lawsuits-scalia)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
