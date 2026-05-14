@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And he\u2019s still a virgin too\u2026.. probably\u2026..](http://9gag.com/gag/aXPyqe2)
- - ⏩ [Evolution of Windows, Updated](http://9gag.com/gag/adBG7yV)
- - 👉 [Accurate..?](http://9gag.com/gag/a2v3rr1)<!-- MEMES:END -->
+ - 💣 [Fly fishing](http://9gag.com/gag/aE09B99)
+ - ⏩ [Just goalies doing goalie stuff](http://9gag.com/gag/ae9ne4b)
+ - 👉 [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)<!-- MEMES:END -->
 
 ---
 
