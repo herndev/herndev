@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Delete the 4GB File That Chrome May Have &lpar;Secretly&rpar; Installed on Your Device](https://www.cnet.com/tech/services-and-software/chrome-installing-4gb-ai-model-gemini-nano/)
- - [Anthropic unveils Claude Agent SDK credits for paid plans, which users can allocate for programmatic use of third-party agents like OpenClaw, starting June 15 &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260513/p51#a260513p51)
- - [Alexa Replaces Rufus as Amazon&#39;s AI Shopping Assistant](https://www.cnet.com/tech/services-and-software/alexa-replaces-rufus-as-amazon-ai-shopping-assistant/)<!-- TECH:END -->
+ - [Sources: Apollo Global, Morgan Stanley, and others are testing Grok internally as part of xAI&#39;s finance sector push, but financiers are rarely using it for work &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260513/p52#a260513p52)
+ - [PGA Championship 2026: TV Schedule, How to Watch, Stream All the Golf From Anywhere](https://www.cnet.com/tech/services-and-software/pga-championship-2026-tv-schedule-how-to-watch-stream-golf/)
+ - [ChatGPT Briefly Returned a &#39;Content Failed to Load&#39; Error for Some Users](https://www.cnet.com/news-live/chatgpt-briefly-returned-a-content-failed-to-load-error-for-some-users/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
