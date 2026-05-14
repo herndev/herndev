@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When embarrassment backfires](http://9gag.com/gag/aGyme7w)
- - ⏩ [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)
- - 👉 [As Expected..](http://9gag.com/gag/aGymer7)<!-- MEMES:END -->
+ - 💣 [Poor dude lost all his honest work to some off-duty cop.](http://9gag.com/gag/aqyP1e7)
+ - ⏩ [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)
+ - 👉 [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)<!-- MEMES:END -->
 
 ---
 
