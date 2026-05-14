@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something happened with no MSM coverage. Can you guess what happened with only the photo from the local article?](http://9gag.com/gag/aXPyv12)
- - ⏩ [Catching hornets](http://9gag.com/gag/a87R82Z)
- - 👉 [And it looks dope](http://9gag.com/gag/aByA0rA)<!-- MEMES:END -->
+ - 💣 [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)
+ - ⏩ [The slaps felt personal](http://9gag.com/gag/avyMGwb)
+ - 👉 [No idea if anyone here cares, but I just needed to get this off my chest.](http://9gag.com/gag/ae9neLW)<!-- MEMES:END -->
 
 ---
 
