@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This priest is doing god&#39;s work, literally](http://9gag.com/gag/ae9nerQ)
- - ⏩ [A little daisy can make a big difference](http://9gag.com/gag/aByAWp1)
- - 👉 [Guess the country](http://9gag.com/gag/azxW87K)<!-- MEMES:END -->
+ - 💣 [Freestyler](http://9gag.com/gag/a9yxrY1)
+ - ⏩ [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)
+ - 👉 [Accurate..?](http://9gag.com/gag/a2v3rr1)<!-- MEMES:END -->
 
 ---
 
