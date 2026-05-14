@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fly fishing](http://9gag.com/gag/aE09B99)
- - ⏩ [A little daisy can make a big difference](http://9gag.com/gag/aByAWp1)
- - 👉 [Guess the country](http://9gag.com/gag/azxW87K)<!-- MEMES:END -->
+ - 💣 [Catching hornets](http://9gag.com/gag/a87R82Z)
+ - ⏩ [Hola guapa](http://9gag.com/gag/aXPyqYP)
+ - 👉 [Accurate..?](http://9gag.com/gag/a2v3rr1)<!-- MEMES:END -->
 
 ---
 
