@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Evercore tells investors to stick with Apple, raising price target to $365](https://appleinsider.com/articles/26/05/14/evercore-tells-investors-to-stick-with-apple-raising-price-target-to-365?utm_source=rss)
- - [Meta President Dina Powell McCormick is traveling with President Trump on his China trip and met King Charles III, indicating she is Meta&#39;s new global emissary &lpar;Kurt Wagner/Bloomberg&rpar;](https://www.techmeme.com/260514/p13#a260514p13)
- - [SMIC reports Q1 revenue up 11.5% YoY to ~$2.5B and net profit up 5% YoY to ~$197.4M, below $223.6M est., weighed down by higher operating expenses, up 30% YoY &lpar;Sherry Qin/Wall Street Journal&rpar;](https://www.techmeme.com/260514/p12#a260514p12)<!-- TECH:END -->
+ - [Spotify says it will adopt Apple&#39;s HTTP Live Streaming tech for video podcasts later in 2026, helping creators distribute podcasts on Apple Podcasts and Spotify &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260514/p15#a260514p15)
+ - [GameHub is one of the best PC gaming apps, but it’s now accused of copying](https://www.androidauthority.com/gamehub-copying-claims-3666959/)
+ - [Insta360’s new viewfinder turns the action cam into a retro shooter](https://www.theverge.com/tech/929125/insta360-360-go-3s-retro-bundle-viewfinder-accessory)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
