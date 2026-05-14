@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Taekwondo](http://9gag.com/gag/aKGQVOO)
- - ⏩ [The slaps felt personal](http://9gag.com/gag/avyMGwb)
- - 👉 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)<!-- MEMES:END -->
+ - ⏩ [He spent most of the money](http://9gag.com/gag/aVvpMNK)
+ - 👉 [Catching hornets](http://9gag.com/gag/a87R82Z)<!-- MEMES:END -->
 
 ---
 
