@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s May Android Canary update is all about that blur](https://www.androidauthority.com/android-canary-2605-3667173/)
- - [A look at GameStop&#39;s takeover bid for eBay, a bizarre way to force eBay&#39;s board and shareholders to consider GameStop CEO Ryan Cohen&#39;s desire to run eBay &lpar;Matt Levine/Bloomberg&rpar;](https://www.techmeme.com/260514/p27#a260514p27)
- - [Amazon slashes $200 off 1TB M5 MacBook Pro, dropping price to $1,499](https://appleinsider.com/articles/26/05/14/amazon-slashes-200-off-1tb-m5-macbook-pro-dropping-price-to-1499?utm_source=rss)<!-- TECH:END -->
+ - [Sources: 50+ researchers and engineers have left xAI since the SpaceX acquisition via layoffs, firings, and voluntary departures; many have joined Meta and TML &lpar;Theo Wayt/The Information&rpar;](https://www.techmeme.com/260514/p30#a260514p30)
+ - [Sources: Intel has begun testing production of &quot;low-end/legacy iPhone, iPad, and Mac processors&quot;; Apple thinks TSMC&#39;s resources will continue tilting toward AI &lpar;@mingchikuo&rpar;](https://www.techmeme.com/260514/p29#a260514p29)
+ - [Price drop: Garmin Venu 3S falls to just $359.99](https://www.androidauthority.com/deal-garmin-venu-3s-3667214/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
