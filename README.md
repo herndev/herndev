@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ian Crosby&#39;s Synthetic, which is building an AI bookkeeper, raised a $10M seed led by Khosla; Crosby founded Bench, which raised $100M+ and imploded in 2024 &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260514/p23#a260514p23)
- - [Google’s upcoming ‘Gemini Spark’ could soon book your flights and handle your inbox](https://www.androidauthority.com/gemini-spark-onboarding-screen-leaked-3667118/)
- - [Subnautica 2 is already having a huge launch on Steam](https://www.theverge.com/games/930562/subnautica-2-early-access-launch-steam-pc-epic-games-store-xbox)<!-- TECH:END -->
+ - [Homey just turned your Android TV into a full smart home dashboard](https://www.androidauthority.com/homey-apps-on-android-tv-webos-3667143/)
+ - [Cerebras opens at $350, valuing the chipmaker at $100B+, after raising $5.5B by selling 30M shares at $185, the largest US tech IPO since Uber&#39;s debut in 2019 &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260514/p26#a260514p26)
+ - [Android ‘People Finding’ could be Google’s answer to Apple’s precision friend tracking](https://www.androidauthority.com/people-finding-3667067/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
