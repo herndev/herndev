@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Homey just turned your Android TV into a full smart home dashboard](https://www.androidauthority.com/homey-apps-on-android-tv-webos-3667143/)
- - [Cerebras opens at $350, valuing the chipmaker at $100B+, after raising $5.5B by selling 30M shares at $185, the largest US tech IPO since Uber&#39;s debut in 2019 &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260514/p26#a260514p26)
- - [Android ‘People Finding’ could be Google’s answer to Apple’s precision friend tracking](https://www.androidauthority.com/people-finding-3667067/)<!-- TECH:END -->
+ - [Google’s May Android Canary update is all about that blur](https://www.androidauthority.com/android-canary-2605-3667173/)
+ - [A look at GameStop&#39;s takeover bid for eBay, a bizarre way to force eBay&#39;s board and shareholders to consider GameStop CEO Ryan Cohen&#39;s desire to run eBay &lpar;Matt Levine/Bloomberg&rpar;](https://www.techmeme.com/260514/p27#a260514p27)
+ - [Amazon slashes $200 off 1TB M5 MacBook Pro, dropping price to $1,499](https://appleinsider.com/articles/26/05/14/amazon-slashes-200-off-1tb-m5-macbook-pro-dropping-price-to-1499?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
