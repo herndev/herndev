@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube is turning your TV into a storefront with Google Pay shopping](https://www.androidauthority.com/youtube-buy-with-google-pay-3666802/)
- - [Sources: Google plans to announce a new Gemini model at its I/O conference next week; the model will land roughly in the class of GPT-5.5, but short of Mythos &lpar;Alex Heath/Sources&rpar;](https://www.techmeme.com/260513/p55#a260513p55)
- - [TikTok launches TikTok GO in the US for users to book hotels, attractions, and experiences directly in the app, partnering with Booking.com, Expedia, and others &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260513/p54#a260513p54)<!-- TECH:END -->
+ - [ZipRecruiter: IT and CS job postings are up 14.2% YoY in April; entry-level roles fell from 8.1% a year ago to 7.4%, while senior roles grew from 38.8% to 43.1% &lpar;Katherine Bindley/Wall Street Journal&rpar;](https://www.techmeme.com/260513/p58#a260513p58)
+ - [Microsoft updates Edge with new AI features, including letting Copilot gather information from open tabs and use browsing history for more relevant answers &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260513/p57#a260513p57)
+ - [Samsung may be working on its most aggressive anti-distraction tool yet](https://www.androidauthority.com/samsung-one-ui-9-concentration-feature-3666807/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
