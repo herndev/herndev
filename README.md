@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus demo units are disappearing from Best Buy stores](https://www.androidauthority.com/oneplus-phones-disappearing-best-buy-retail-3667012/)
- - [Another OpenAI hack puts ChatGPT Mac users on an update deadline](https://appleinsider.com/articles/26/05/14/another-openai-hack-puts-chatgpt-mac-users-on-an-update-deadline?utm_source=rss)
- - [How companies weaponize the terms of service against you](https://www.theverge.com/podcast/930342/brendan-ballou-companies-courts-forced-arbitration-lawsuits-scalia)<!-- TECH:END -->
+ - [Anthropic and Gates Foundation pledge $200M to use AI in health and education initiatives; the foundation signed a similar, $50M deal with OpenAI in January &lpar;Jeffrey Dastin/Reuters&rpar;](https://www.techmeme.com/260514/p22#a260514p22)
+ - [Hackers used faked Apple &amp; Yahoo infrastructure to hide malware](https://appleinsider.com/articles/26/05/14/hackers-used-faked-apple-yahoo-infrastructure-to-hide-malware?utm_source=rss)
+ - [Netflix is building an AI animation studio](https://www.theverge.com/column/930118/netflix-gen-ai-animation-inkubator)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
