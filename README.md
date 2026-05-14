@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram Introduces Instants, Meta&#39;s New Private Photo Sharing App](https://www.cnet.com/tech/instagram-instants-meta-disappearing-photo-app/)
- - [Source: Cerebras priced its IPO at $185 per share, above the expected range of $150 to $160, raising at least $5.55B and valuing it at $56.4B fully diluted &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260513/p50#a260513p50)
- - [Netflix says its ad tier now has 250M monthly active viewers, up from 94M in 2025, and is expanding to 15 new countries, as it tests an ad personalization tool &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260513/p49#a260513p49)<!-- TECH:END -->
+ - [How to Delete the 4GB File That Chrome May Have &lpar;Secretly&rpar; Installed on Your Device](https://www.cnet.com/tech/services-and-software/chrome-installing-4gb-ai-model-gemini-nano/)
+ - [Anthropic unveils Claude Agent SDK credits for paid plans, which users can allocate for programmatic use of third-party agents like OpenClaw, starting June 15 &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260513/p51#a260513p51)
+ - [Alexa Replaces Rufus as Amazon&#39;s AI Shopping Assistant](https://www.cnet.com/tech/services-and-software/alexa-replaces-rufus-as-amazon-ai-shopping-assistant/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
