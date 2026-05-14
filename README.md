@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)
+ - 💣 [Taekwondo](http://9gag.com/gag/aKGQVOO)
  - ⏩ [The slaps felt personal](http://9gag.com/gag/avyMGwb)
- - 👉 [No idea if anyone here cares, but I just needed to get this off my chest.](http://9gag.com/gag/ae9neLW)<!-- MEMES:END -->
+ - 👉 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)<!-- MEMES:END -->
 
 ---
 
