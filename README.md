@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows Update will soon automatically roll back faulty drivers](https://www.theverge.com/news/930303/windows-update-automatic-driver-rollback-feature)
- - [Foxconn reports Q1 revenue up 29% YoY to ~$67B and net profit up 19% YoY to ~$1.6B, meeting est., as it boosts AI server production, its largest revenue source &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260514/p8#a260514p8)
- - [Galaxy Tab S12 series? Samsung app reveals Dimensity 9500 device is coming &lpar;APK teardown&rpar;](https://www.androidauthority.com/samsung-mediatek-dimensity-9500-galaxy-tab-s12-teardown-3666921/)<!-- TECH:END -->
+ - [Android’s latest AI feature predicts what you’ll do next](https://www.theverge.com/tech/930318/android-contextual-suggestions-google-ai-feature-rollout)
+ - [As Meta prepares to lay off ~10% of its staff on May 20, sources say morale is low, and Meta forcibly moved 1,000+ engineers to an AI unit to build GenAI models &lpar;Wired&rpar;](https://www.techmeme.com/260514/p11#a260514p11)
+ - [Klipsch the Fives II Speakers Review for Music, Movies, More &lpar;2026&rpar;](https://www.wired.com/review/klipsch-the-fives-ii/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
