@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something happened with no MSM coverage. Can you guess what happened with only the photo from the local article?](http://9gag.com/gag/aXPyv12)
- - ⏩ [Evolution of Windows, Updated](http://9gag.com/gag/adBG7yV)
- - 👉 [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)<!-- MEMES:END -->
+ - 💣 [The slaps felt personal](http://9gag.com/gag/avyMGwb)
+ - ⏩ [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
+ - 👉 [As Expected..](http://9gag.com/gag/aGymer7)<!-- MEMES:END -->
 
 ---
 
