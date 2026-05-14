@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s latest AI feature predicts what you’ll do next](https://www.theverge.com/tech/930318/android-contextual-suggestions-google-ai-feature-rollout)
- - [As Meta prepares to lay off ~10% of its staff on May 20, sources say morale is low, and Meta forcibly moved 1,000+ engineers to an AI unit to build GenAI models &lpar;Wired&rpar;](https://www.techmeme.com/260514/p11#a260514p11)
- - [Klipsch the Fives II Speakers Review for Music, Movies, More &lpar;2026&rpar;](https://www.wired.com/review/klipsch-the-fives-ii/)<!-- TECH:END -->
+ - [Evercore tells investors to stick with Apple, raising price target to $365](https://appleinsider.com/articles/26/05/14/evercore-tells-investors-to-stick-with-apple-raising-price-target-to-365?utm_source=rss)
+ - [Meta President Dina Powell McCormick is traveling with President Trump on his China trip and met King Charles III, indicating she is Meta&#39;s new global emissary &lpar;Kurt Wagner/Bloomberg&rpar;](https://www.techmeme.com/260514/p13#a260514p13)
+ - [SMIC reports Q1 revenue up 11.5% YoY to ~$2.5B and net profit up 5% YoY to ~$197.4M, below $223.6M est., weighed down by higher operating expenses, up 30% YoY &lpar;Sherry Qin/Wall Street Journal&rpar;](https://www.techmeme.com/260514/p12#a260514p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
