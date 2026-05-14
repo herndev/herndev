@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apollo Global, Morgan Stanley, and others are testing Grok internally as part of xAI&#39;s finance sector push, but financiers are rarely using it for work &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260513/p52#a260513p52)
- - [PGA Championship 2026: TV Schedule, How to Watch, Stream All the Golf From Anywhere](https://www.cnet.com/tech/services-and-software/pga-championship-2026-tv-schedule-how-to-watch-stream-golf/)
- - [ChatGPT Briefly Returned a &#39;Content Failed to Load&#39; Error for Some Users](https://www.cnet.com/news-live/chatgpt-briefly-returned-a-content-failed-to-load-error-for-some-users/)<!-- TECH:END -->
+ - [YouTube is turning your TV into a storefront with Google Pay shopping](https://www.androidauthority.com/youtube-buy-with-google-pay-3666802/)
+ - [Sources: Google plans to announce a new Gemini model at its I/O conference next week; the model will land roughly in the class of GPT-5.5, but short of Mythos &lpar;Alex Heath/Sources&rpar;](https://www.techmeme.com/260513/p55#a260513p55)
+ - [TikTok launches TikTok GO in the US for users to book hotels, attractions, and experiences directly in the app, partnering with Booking.com, Expedia, and others &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260513/p54#a260513p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
