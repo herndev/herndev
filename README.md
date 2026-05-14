@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ZipRecruiter: IT and CS job postings are up 14.2% YoY in April; entry-level roles fell from 8.1% a year ago to 7.4%, while senior roles grew from 38.8% to 43.1% &lpar;Katherine Bindley/Wall Street Journal&rpar;](https://www.techmeme.com/260513/p58#a260513p58)
- - [Microsoft updates Edge with new AI features, including letting Copilot gather information from open tabs and use browsing history for more relevant answers &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260513/p57#a260513p57)
- - [Samsung may be working on its most aggressive anti-distraction tool yet](https://www.androidauthority.com/samsung-one-ui-9-concentration-feature-3666807/)<!-- TECH:END -->
+ - [Riyadh-based Stitch, which develops software for banks and financial services companies, raised a $25M Series A led by a16z, its first investment in the Gulf &lpar;Aisha S Gani/Bloomberg&rpar;](https://www.techmeme.com/260514/p4#a260514p4)
+ - [Sources: climate watchdog SBTi drops proposed rules that would limit tech companies&#39; claims that gas-fueled data centers are covered by clean energy investments &lpar;Kenza Bryan/Financial Times&rpar;](https://www.techmeme.com/260514/p3#a260514p3)
+ - [We-Vibe Discount Codes and Deals: Up to 60% Off](https://www.wired.com/story/we-vibe-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
