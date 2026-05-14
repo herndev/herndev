@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI adds remote access to Codex in the ChatGPT mobile app, letting users control Codex sessions running on a connected computer directly from a phone &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260514/p35#a260514p35)
- - [Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses](https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer)
- - [Google’s AI-powered Health Coach is doing exactly what you feared it would](https://www.androidauthority.com/google-health-coach-hallucinations-3667257/)<!-- TECH:END -->
+ - [Metroid Prime 4: Beyond got its first big discount](https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale)
+ - [Apple’s ChatGPT deal might be getting messy just as Gemini moves in](https://www.androidauthority.com/openai-weighing-apple-legal-action-over-chatgpt-integration-3667266/)
+ - [OpenAI adds remote access to Codex in the ChatGPT mobile app, letting users control Codex sessions running on a connected computer directly from a phone &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260514/p35#a260514p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
