@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: 50+ researchers and engineers have left xAI since the SpaceX acquisition via layoffs, firings, and voluntary departures; many have joined Meta and TML &lpar;Theo Wayt/The Information&rpar;](https://www.techmeme.com/260514/p30#a260514p30)
- - [Sources: Intel has begun testing production of &quot;low-end/legacy iPhone, iPad, and Mac processors&quot;; Apple thinks TSMC&#39;s resources will continue tilting toward AI &lpar;@mingchikuo&rpar;](https://www.techmeme.com/260514/p29#a260514p29)
- - [Price drop: Garmin Venu 3S falls to just $359.99](https://www.androidauthority.com/deal-garmin-venu-3s-3667214/)<!-- TECH:END -->
+ - [Netflix wants to create AI-made animated shorts for you to ignore](https://www.androidauthority.com/netflix-ai-animation-studio-3667218/)
+ - [Best Early Memorial Day Mattress Deals: Helix, Saatva &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-mattress-deals-2026/)
+ - [Sources: Joshua Kushner&#39;s Thrive Capital told its stakeholders that it has invested ~$100M in Shopify, framed as a bet on how AI could lead to gains in commerce &lpar;Natasha Mascarenhas/Bloomberg&rpar;](https://www.techmeme.com/260514/p33#a260514p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
