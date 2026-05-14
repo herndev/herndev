@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Catching hornets](http://9gag.com/gag/a87R82Z)
- - ⏩ [Dee dee dee ka ka ka nee nee nee](http://9gag.com/gag/aXPyqRg)
- - 👉 [The process of surgically `flushing` kidney stones refers to techniques like saline irrigation used during minimally invasive surgeries to clear out fragments and stone dust.](http://9gag.com/gag/axyLVbL)<!-- MEMES:END -->
+ - 💣 [As Expected..](http://9gag.com/gag/aGymer7)
+ - ⏩ [The process of surgically `flushing` kidney stones refers to techniques like saline irrigation used during minimally invasive surgeries to clear out fragments and stone dust.](http://9gag.com/gag/axyLVbL)
+ - 👉 [Accurate..?](http://9gag.com/gag/a2v3rr1)<!-- MEMES:END -->
 
 ---
 
