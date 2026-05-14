@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix wants to create AI-made animated shorts for you to ignore](https://www.androidauthority.com/netflix-ai-animation-studio-3667218/)
- - [Best Early Memorial Day Mattress Deals: Helix, Saatva &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-mattress-deals-2026/)
- - [Sources: Joshua Kushner&#39;s Thrive Capital told its stakeholders that it has invested ~$100M in Shopify, framed as a bet on how AI could lead to gains in commerce &lpar;Natasha Mascarenhas/Bloomberg&rpar;](https://www.techmeme.com/260514/p33#a260514p33)<!-- TECH:END -->
+ - [OpenAI adds remote access to Codex in the ChatGPT mobile app, letting users control Codex sessions running on a connected computer directly from a phone &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260514/p35#a260514p35)
+ - [Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses](https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer)
+ - [Google’s AI-powered Health Coach is doing exactly what you feared it would](https://www.androidauthority.com/google-health-coach-hallucinations-3667257/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
