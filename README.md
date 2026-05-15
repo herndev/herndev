@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
- - ⏩ [Which is , pretty insane.](http://9gag.com/gag/adBGLBV)
- - 👉 [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)<!-- MEMES:END -->
+ - ⏩ [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
+ - 👉 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)<!-- MEMES:END -->
 
 ---
 
