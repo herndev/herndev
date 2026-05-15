@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something happened with no MSM coverage. Can you guess what happened with only the photo from the local article?](http://9gag.com/gag/aXPyv12)
- - ⏩ [Last picture of Oliver Reed in the set of gladiator before he died of alcohol poisoning. After this scene he challenged sailors to a drinking contest, he consumed 8 pints of beer, 12 shots of rum half a bottle of whiskey and a bottle of cognac](http://9gag.com/gag/an7m92L)
- - 👉 [He spent most of the money](http://9gag.com/gag/aVvpMNK)<!-- MEMES:END -->
+ - 💣 [No idea if anyone here cares, but I just needed to get this off my chest.](http://9gag.com/gag/ae9neLW)
+ - ⏩ [Bee Bar](http://9gag.com/gag/aAy832g)
+ - 👉 [Finally, a solution for hockey players](http://9gag.com/gag/aRBb3B5)<!-- MEMES:END -->
 
 ---
 
