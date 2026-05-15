@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s latest Ray-Ban feature is a silent texting trick Android users will love](https://www.androidauthority.com/meta-ray-ban-display-neural-handwriting-3667458/)
- - [Akamai acquires Israeli cybersecurity startup LayerX Security, which develops a browser-based platform to secure employee use of AI tools, for ~$205M in cash &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260515/p6#a260515p6)
- - [The 5 Best Outdoor Griddles and Flat Top Grills &lpar;2026&rpar;](https://www.wired.com/story/best-backyard-griddles-flat-top-grills/)<!-- TECH:END -->
+ - [Pixel &amp; Galaxy Watch users complain of a frustrating YouTube Music bug &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/wear-os-youtube-music-playlist-bug-3666439/)
+ - [Indian ride-hailing app Rapido raised $240M led by Prosus as part of a broader primary and secondary financing transaction, valuing Rapido at $3B post-money &lpar;Pramugdha Mamgain/DealStreetAsia&rpar;](https://www.techmeme.com/260515/p10#a260515p10)
+ - [The UK&#39;s HMRC tax authority announces a 10-year, £175M deal with London-based Quantexa to use its AI tech to identify fraud incidents and fix tax return errors &lpar;Zoe Kleinman/BBC&rpar;](https://www.techmeme.com/260515/p9#a260515p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
