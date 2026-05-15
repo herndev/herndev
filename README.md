@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S26 sales are up by double digits, but those numbers are cooling off quickly](https://www.androidauthority.com/galaxy-s26-initial-sales-beating-galaxy-s25-3667593/)
- - [Experience amazing 8K action with the Insta360 X5 at $100 off](https://www.androidauthority.com/insta360-x5-virtual-tour-bundle-deal-3667620/)
- - [OpenAI debuts personal finance tools for US ChatGPT Pro users, partnering with Plaid to give access to 12K+ financial institutions to analyze spending and more &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260515/p17#a260515p17)<!-- TECH:END -->
+ - [New Apple Card promotion could net applicants free AirPods Pro 3](https://appleinsider.com/articles/26/05/15/new-apple-card-promotion-could-net-applicants-free-airpods-pro-3?utm_source=rss)
+ - [Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shakeup](https://www.wired.com/story/openai-reorg-greg-brockman-product/)
+ - [AI radio hosts demonstrate why AI can’t be trusted alone](https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
