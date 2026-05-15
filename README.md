@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Henry Cavill while filming Highlander in \u0141\u00f3d\u017a was approached by a LFGS owner who gave him box set of Custodes.](http://9gag.com/gag/a7oYw3q)
- - ⏩ [He spent most of the money](http://9gag.com/gag/aVvpMNK)
- - 👉 [As Expected..](http://9gag.com/gag/aGymer7)<!-- MEMES:END -->
+ - 💣 [I&#39;ve always liked fast cars and slow women.](http://9gag.com/gag/a9yxRj0)
+ - ⏩ [Her reaction is everything](http://9gag.com/gag/aRBb31A)
+ - 👉 [Don\u2019t tell me what to do](http://9gag.com/gag/aqyPgrv)<!-- MEMES:END -->
 
 ---
 
