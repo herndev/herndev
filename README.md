@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taekwondo](http://9gag.com/gag/aKGQVOO)
- - ⏩ [He spent most of the money](http://9gag.com/gag/aVvpMNK)
- - 👉 [Catching hornets](http://9gag.com/gag/a87R82Z)<!-- MEMES:END -->
+ - 💣 [As Expected..](http://9gag.com/gag/aGymer7)
+ - ⏩ [Taekwondo](http://9gag.com/gag/aKGQVOO)
+ - 👉 [He spent most of the money](http://9gag.com/gag/aVvpMNK)<!-- MEMES:END -->
 
 ---
 
