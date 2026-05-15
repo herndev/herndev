@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Security research firm Calif says it used Mythos to help build a macOS kernel memory corruption exploit circumventing Apple&#39;s Memory Integrity Enforcement tech &lpar;Robert McMillan/Wall Street Journal&rpar;](https://www.techmeme.com/260514/p43#a260514p43)
- - [Sources: Anthropic has agreed to the terms of a $30B fundraising at a $900B valuation, with Sequoia, Dragoneer, Greenoaks, and Altimeter co-leading the round &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/260514/p42#a260514p42)
- - [Sources: xAI co-founder Igor Babuschkin plans to raise up to $1B at an up to $5B valuation for a new AI research startup, with General Catalyst possibly leading &lpar;Forbes&rpar;](https://www.techmeme.com/260514/p41#a260514p41)<!-- TECH:END -->
+ - [Alphabet sold $3.6B of bonds in its debut yen-denominated bond sale, the largest by a non-Japanese company, as AI-driven capital spending accelerates &lpar;Atsuko Fukase/Bloomberg&rpar;](https://www.techmeme.com/260514/p45#a260514p45)
+ - [In a policy paper, Anthropic urges the US and allies to enforce export controls, curb distillation attacks, and export US AI to hold the lead over China by 2028 &lpar;Anthropic&rpar;](https://www.techmeme.com/260514/p44#a260514p44)
+ - [T-Mobile vs. Verizon: Is It Time to Choose a New Carrier?](https://www.cnet.com/tech/mobile/t-mobile-vs-verizon-is-it-time-to-choose-a-new-carrier/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
