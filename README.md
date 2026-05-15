@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet sold $3.6B of bonds in its debut yen-denominated bond sale, the largest by a non-Japanese company, as AI-driven capital spending accelerates &lpar;Atsuko Fukase/Bloomberg&rpar;](https://www.techmeme.com/260514/p45#a260514p45)
- - [In a policy paper, Anthropic urges the US and allies to enforce export controls, curb distillation attacks, and export US AI to hold the lead over China by 2028 &lpar;Anthropic&rpar;](https://www.techmeme.com/260514/p44#a260514p44)
- - [T-Mobile vs. Verizon: Is It Time to Choose a New Carrier?](https://www.cnet.com/tech/mobile/t-mobile-vs-verizon-is-it-time-to-choose-a-new-carrier/)<!-- TECH:END -->
+ - [Android phones are finally getting an iPhone-style dialer upgrade](https://www.androidauthority.com/android-dialer-voip-call-logs-3667300/)
+ - [Google starts rolling out QR code-based Quick Share transfers between Android and iPhone](https://www.androidauthority.com/android-quick-share-qr-code-sharing-with-iphone-3667293/)
+ - [UK-based Iceotope, which develops data center liquid cooling tech, raised a $26M Series B co-led by Two Seas Capital and Barclays Climate Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260514/p46#a260514p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
