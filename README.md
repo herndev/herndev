@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;ve always liked fast cars and slow women.](http://9gag.com/gag/a9yxRj0)
- - ⏩ [Her reaction is everything](http://9gag.com/gag/aRBb31A)
- - 👉 [Don\u2019t tell me what to do](http://9gag.com/gag/aqyPgrv)<!-- MEMES:END -->
+ - 💣 [A Jolly Ship&#39;s Cook](http://9gag.com/gag/a4PXQ26)
+ - ⏩ [Don\u2019t tell me what to do](http://9gag.com/gag/aqyPgrv)
+ - 👉 [Ostrich ftw](http://9gag.com/gag/an7m94o)<!-- MEMES:END -->
 
 ---
 
