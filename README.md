@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
- - ⏩ [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)
- - 👉 [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)<!-- MEMES:END -->
+ - ⏩ [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)
+ - 👉 [Awkward situation](http://9gag.com/gag/aND7Ybw)<!-- MEMES:END -->
 
 ---
 
