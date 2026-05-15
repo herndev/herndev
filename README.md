@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)
- - ⏩ [He spent most of the money](http://9gag.com/gag/aVvpMNK)
- - 👉 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)<!-- MEMES:END -->
+ - 💣 [No idea if anyone here cares, but I just needed to get this off my chest.](http://9gag.com/gag/ae9neLW)
+ - ⏩ [The slaps felt personal](http://9gag.com/gag/avyMGwb)
+ - 👉 [A Jolly Ship&#39;s Cook](http://9gag.com/gag/a4PXQ26)<!-- MEMES:END -->
 
 ---
 
