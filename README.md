@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
- - ⏩ [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
- - 👉 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)<!-- MEMES:END -->
+ - 💣 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
+ - ⏩ [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
+ - 👉 [Lady&#39;s initial reaction to hearing she got sentences to life.](http://9gag.com/gag/avyMO9E)<!-- MEMES:END -->
 
 ---
 
