@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)
- - ⏩ [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)
- - 👉 [He spent most of the money](http://9gag.com/gag/aVvpMNK)<!-- MEMES:END -->
+ - 💣 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
+ - ⏩ [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)
+ - 👉 [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)<!-- MEMES:END -->
 
 ---
 
