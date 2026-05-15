@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nolan bent the knee](http://9gag.com/gag/aZZ6Lg6)
- - ⏩ [He spent most of the money](http://9gag.com/gag/aVvpMNK)
- - 👉 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)<!-- MEMES:END -->
+ - 💣 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
+ - ⏩ [Which is , pretty insane.](http://9gag.com/gag/adBGLBV)
+ - 👉 [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)<!-- MEMES:END -->
 
 ---
 
