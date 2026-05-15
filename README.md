@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
+ - 💣 [Which is , pretty insane.](http://9gag.com/gag/adBGLBV)
  - ⏩ [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
- - 👉 [Last picture of Oliver Reed in the set of gladiator before he died of alcohol poisoning. After this scene he challenged sailors to a drinking contest, he consumed 8 pints of beer, 12 shots of rum half a bottle of whiskey and a bottle of cognac](http://9gag.com/gag/an7m92L)<!-- MEMES:END -->
+ - 👉 [Lady&#39;s initial reaction to hearing she got sentences to life.](http://9gag.com/gag/avyMO9E)<!-- MEMES:END -->
 
 ---
 
