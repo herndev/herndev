@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Gmail’s latest storage change should make everyone upset](https://www.androidauthority.com/gmail-latest-storage-change-5gb-opinion-3667336/)
- - [The RayNeo Air 4 Pro are entry-level AR glasses that get it &lpar;mostly&rpar; right](https://www.androidauthority.com/rayneo-air-4-pro-review-3659545/)
- - [Owning an Apple Home: implementing smart pet solutions](https://appleinsider.com/articles/26/05/15/owning-an-apple-home-implementing-smart-pet-solutions?utm_source=rss)<!-- TECH:END -->
+ - [A look at Matthew McConaughey&#39;s novel legal strategy to fight unauthorized AI use of his image, which involves trademarking video and audio clips of him &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260515/p14#a260515p14)
+ - [Gantri’s 3D-Printed Lamps Are Going Wireless](https://www.wired.com/story/gantri-3d-printed-lamps-are-going-wireless/)
+ - [Bose&amp;#8217;s new Lifestyle Ultra speakers are now available](https://www.theverge.com/gadgets/930471/bose-lifestyle-ultra-speaker-soundbar-subwoofer-price-release-date-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
