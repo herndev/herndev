@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Matthew McConaughey&#39;s novel legal strategy to fight unauthorized AI use of his image, which involves trademarking video and audio clips of him &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260515/p14#a260515p14)
- - [Gantri’s 3D-Printed Lamps Are Going Wireless](https://www.wired.com/story/gantri-3d-printed-lamps-are-going-wireless/)
- - [Bose&amp;#8217;s new Lifestyle Ultra speakers are now available](https://www.theverge.com/gadgets/930471/bose-lifestyle-ultra-speaker-soundbar-subwoofer-price-release-date-availability)<!-- TECH:END -->
+ - [Best Early Memorial Day Deals: Garmin, Birdfy, Breville &lpar;2026&rpar;](https://www.wired.com/story/best-memorial-day-deals-2026/)
+ - [Gridcare, which uses AI to detect underused capacity in electric grids, raised a $64M Series A, following a $13.5M seed in 2025 &lpar;Bianca Giacobone/Latitude Media&rpar;](https://www.techmeme.com/260515/p15#a260515p15)
+ - [Having trouble with Google Nest services? You’re not alone](https://www.androidauthority.com/google-nest-service-outage-3667579/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
