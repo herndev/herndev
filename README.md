@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve worn a WHOOP for a year — here are 6 reasons I won’t switch to the Fitbit Air](https://www.androidauthority.com/wont-switch-from-whoop-fitbit-air-why-3665830/)
- - [Mira Murati Wants Her AI to ‘Keep Humans in the Loop’](https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/)
- - [Some Galaxy S27 models might run hotter thanks to this chip choice](https://www.androidauthority.com/samsung-galaxy-s27-chip-major-change-3667384/)<!-- TECH:END -->
+ - [Meta’s latest Ray-Ban feature is a silent texting trick Android users will love](https://www.androidauthority.com/meta-ray-ban-display-neural-handwriting-3667458/)
+ - [Akamai acquires Israeli cybersecurity startup LayerX Security, which develops a browser-based platform to secure employee use of AI tools, for ~$205M in cash &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260515/p6#a260515p6)
+ - [The 5 Best Outdoor Griddles and Flat Top Grills &lpar;2026&rpar;](https://www.wired.com/story/best-backyard-griddles-flat-top-grills/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
