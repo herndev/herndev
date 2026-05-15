@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI keeps shuffling its executives in bid to win AI agent battle](https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle)
- - [Claude helps recover $400,000 in Bitcoin after a very expensive stoner mistake](https://www.androidauthority.com/claude-helps-recover-bitcoin-3667658/)
- - [ArXiv, the repository of preprint academic research, says it will ban authors for a year if their papers have &quot;incontrovertible evidence&quot; of AI-generated work &lpar;Samantha Cole/404 Media&rpar;](https://www.techmeme.com/260515/p20#a260515p20)<!-- TECH:END -->
+ - [Gemini Intelligence announcement hopes to steal Apple&#39;s Siri thunder but falls short](https://appleinsider.com/articles/26/05/15/gemini-intelligence-announcement-hopes-to-steal-apples-siri-thunder-but-falls-short?utm_source=rss)
+ - [Source: Kraken cut ~150 staff after AI tools improved efficiency and its IPO may be delayed until late 2026 or early 2027 due to a drop in digital-asset prices &lpar;Olga Kharif/Bloomberg&rpar;](https://www.techmeme.com/260515/p22#a260515p22)
+ - [The Analogue 3D is finally getting save states](https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
