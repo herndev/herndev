@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android phones are finally getting an iPhone-style dialer upgrade](https://www.androidauthority.com/android-dialer-voip-call-logs-3667300/)
- - [Google starts rolling out QR code-based Quick Share transfers between Android and iPhone](https://www.androidauthority.com/android-quick-share-qr-code-sharing-with-iphone-3667293/)
- - [UK-based Iceotope, which develops data center liquid cooling tech, raised a $26M Series B co-led by Two Seas Capital and Barclays Climate Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260514/p46#a260514p46)<!-- TECH:END -->
+ - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
+ - [Bose Promo Code: 40% Off for May 2026](https://www.wired.com/story/bose-coupon-code/)
+ - [Therabody Promo Codes: 15% Off May 2026](https://www.wired.com/story/therabody-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
