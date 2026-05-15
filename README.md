@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Early Memorial Day Deals: Garmin, Birdfy, Breville &lpar;2026&rpar;](https://www.wired.com/story/best-memorial-day-deals-2026/)
- - [Gridcare, which uses AI to detect underused capacity in electric grids, raised a $64M Series A, following a $13.5M seed in 2025 &lpar;Bianca Giacobone/Latitude Media&rpar;](https://www.techmeme.com/260515/p15#a260515p15)
- - [Having trouble with Google Nest services? You’re not alone](https://www.androidauthority.com/google-nest-service-outage-3667579/)<!-- TECH:END -->
+ - [A profile of AI video generation startup Runway, which is training models directly on observational data, is now valued at $5.3B, and added $40M in ARR in Q2 &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260515/p16#a260515p16)
+ - [BioLite’s stakeable solar lights are down to a new low price for Memorial Day](https://www.theverge.com/gadgets/930969/biolite-solar-site-lights-insta360-action-camera-deal-sale)
+ - [GrapheneOS closes an Android VPN loophole before Google does &lpar;Updated: Google statement&rpar;](https://www.androidauthority.com/grapheneos-fixed-android-vpn-flaw-3664926/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
