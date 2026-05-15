@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How tech companies are using open source initiatives to achieve critical strategic goals and how such efforts are reshaping industries like AI, AVs, and more &lpar;Bill Gurley/Bill&#39;s Substack&rpar;](https://www.techmeme.com/260515/p27#a260515p27)
- - [Windows 11 tests an adjustable taskbar and resizable Start menu](https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button)
- - [The Best Outdoor Deals From the REI Anniversary Sale 2026](https://www.wired.com/story/rei-anniversary-sale-2026/)<!-- TECH:END -->
+ - [Best price: Ring Floodlight Cam Pro available for just $229.99](https://www.androidauthority.com/ring-floodlight-cam-pro-deal-3667720/)
+ - [Gemini Intelligence requirements mean most Android phones are going to miss out](https://www.androidauthority.com/gemini-intelligence-requirements-3667703/)
+ - [How tech companies are using open source initiatives to achieve critical strategic goals and how such efforts are reshaping industries like AI, AVs, and more &lpar;Bill Gurley/Bill&#39;s Substack&rpar;](https://www.techmeme.com/260515/p27#a260515p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
