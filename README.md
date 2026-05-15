@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SpaceX aims to make its IPO prospectus public by next week, targeting a June 12 listing on Nasdaq, driven by a faster-than-expected SEC review &lpar;Reuters&rpar;](https://www.techmeme.com/260515/p24#a260515p24)
- - [Apple shares climbed to a record high as investors look past AI concerns](https://appleinsider.com/articles/26/05/15/apple-shares-climbed-to-a-record-high-as-investors-look-past-ai-concerns?utm_source=rss)
- - [Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved](https://www.wired.com/story/tesla-reveals-new-details-about-robotaxi-crashes-and-the-humans-involved/)<!-- TECH:END -->
+ - [How tech companies are using open source initiatives to achieve critical strategic goals and how such efforts are reshaping industries like AI, AVs, and more &lpar;Bill Gurley/Bill&#39;s Substack&rpar;](https://www.techmeme.com/260515/p27#a260515p27)
+ - [Windows 11 tests an adjustable taskbar and resizable Start menu](https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button)
+ - [The Best Outdoor Deals From the REI Anniversary Sale 2026](https://www.wired.com/story/rei-anniversary-sale-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
