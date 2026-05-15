@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Jolly Ship&#39;s Cook](http://9gag.com/gag/a4PXQ26)
- - ⏩ [Don\u2019t tell me what to do](http://9gag.com/gag/aqyPgrv)
- - 👉 [Ostrich ftw](http://9gag.com/gag/an7m94o)<!-- MEMES:END -->
+ - 💣 [Lilou Ruel - French stuntwoman practicing headshots](http://9gag.com/gag/a2v3Rw9)
+ - ⏩ [He spent most of the money](http://9gag.com/gag/aVvpMNK)
+ - 👉 [UK police handcuff the 18y victim of stabbing to `secure the scene` because the attacker Vikrum Digwa said he was racially abused, victim bleeds out and dies soon after](http://9gag.com/gag/aPAERWV)<!-- MEMES:END -->
 
 ---
 
