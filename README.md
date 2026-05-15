@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Achilles vs Hector in Troy is still the most tense melee duel in all of film](http://9gag.com/gag/aO8MBwv)
- - ⏩ [Jesus took the express elevator to heaven](http://9gag.com/gag/aYQ3gx0)
- - 👉 [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)<!-- MEMES:END -->
+ - 💣 [Soooo she got isekai\u2019ed by truck-kun ?](http://9gag.com/gag/amoe23d)
+ - ⏩ [He spent most of the money](http://9gag.com/gag/aVvpMNK)
+ - 👉 [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)<!-- MEMES:END -->
 
 ---
 
