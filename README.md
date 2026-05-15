@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find all Forza Horizon 6 Treasure Cars](https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-car-locations/)
- - [Where to find all Forza Horizon 6 Barn Finds](https://www.pcgamer.com/games/racing/forza-horizon-6-barn-finds/)
- - [Owner of $400,000 in bitcoin was locked out of their account a decade ago and they just used Claude to get back in](https://www.pcgamer.com/hardware/owner-of-usd400-000-in-bitcoin-was-locked-out-of-their-account-a-decade-ago-and-they-just-used-claude-to-get-back-in/)<!-- GAME:END -->
+ - [How to make Titanium Ingots in Subnautica 2](https://www.pcgamer.com/games/survival-crafting/subnautica-2-titanium-ingots/)
+ - [Don&#39;t sleep on Battlestar Galactica: Scattered Hopes—it&#39;s tricky, tactical and the best FTL-like since, well, FTL](https://www.pcgamer.com/games/roguelike/dont-sleep-on-battlestar-galactica-scattered-hopes-its-tricky-tactical-and-the-best-ftl-like-since-well-ftl/)
+ - [Subnautica 2 has sold 2 million copies in 12 hours, with 9x the players as the first, and at this point I figure that Krafton CEO is already on his second bottle](https://www.pcgamer.com/games/survival-crafting/subnautica-2-has-sold-2-million-copies-in-12-hours-with-9x-the-players-as-the-first-and-at-this-point-i-figure-that-krafton-ceo-is-already-on-his-second-bottle/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
