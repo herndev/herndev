@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do You Like The First Or The Second Half Of The Video Better ?](http://9gag.com/gag/aQzL1o2)
+ - 💣 [Lady&#39;s initial reaction to hearing she got sentences to life.](http://9gag.com/gag/avyMO9E)
  - ⏩ [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
- - 👉 [Lady&#39;s initial reaction to hearing she got sentences to life.](http://9gag.com/gag/avyMO9E)<!-- MEMES:END -->
+ - 👉 [Awkward situation](http://9gag.com/gag/aND7Ybw)<!-- MEMES:END -->
 
 ---
 
