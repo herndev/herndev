@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Apple Card promotion could net applicants free AirPods Pro 3](https://appleinsider.com/articles/26/05/15/new-apple-card-promotion-could-net-applicants-free-airpods-pro-3?utm_source=rss)
- - [Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shakeup](https://www.wired.com/story/openai-reorg-greg-brockman-product/)
- - [AI radio hosts demonstrate why AI can’t be trusted alone](https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies)<!-- TECH:END -->
+ - [OpenAI keeps shuffling its executives in bid to win AI agent battle](https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle)
+ - [Claude helps recover $400,000 in Bitcoin after a very expensive stoner mistake](https://www.androidauthority.com/claude-helps-recover-bitcoin-3667658/)
+ - [ArXiv, the repository of preprint academic research, says it will ban authors for a year if their papers have &quot;incontrovertible evidence&quot; of AI-generated work &lpar;Samantha Cole/404 Media&rpar;](https://www.techmeme.com/260515/p20#a260515p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
