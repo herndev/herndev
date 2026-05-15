@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
- - [Bose Promo Code: 40% Off for May 2026](https://www.wired.com/story/bose-coupon-code/)
- - [Therabody Promo Codes: 15% Off May 2026](https://www.wired.com/story/therabody-promo-code/)<!-- TECH:END -->
+ - [I’ve worn a WHOOP for a year — here are 6 reasons I won’t switch to the Fitbit Air](https://www.androidauthority.com/wont-switch-from-whoop-fitbit-air-why-3665830/)
+ - [Mira Murati Wants Her AI to ‘Keep Humans in the Loop’](https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/)
+ - [Some Galaxy S27 models might run hotter thanks to this chip choice](https://www.androidauthority.com/samsung-galaxy-s27-chip-major-change-3667384/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
