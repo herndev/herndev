@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Intelligence announcement hopes to steal Apple&#39;s Siri thunder but falls short](https://appleinsider.com/articles/26/05/15/gemini-intelligence-announcement-hopes-to-steal-apples-siri-thunder-but-falls-short?utm_source=rss)
- - [Source: Kraken cut ~150 staff after AI tools improved efficiency and its IPO may be delayed until late 2026 or early 2027 due to a drop in digital-asset prices &lpar;Olga Kharif/Bloomberg&rpar;](https://www.techmeme.com/260515/p22#a260515p22)
- - [The Analogue 3D is finally getting save states](https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state)<!-- TECH:END -->
+ - [Sources: SpaceX aims to make its IPO prospectus public by next week, targeting a June 12 listing on Nasdaq, driven by a faster-than-expected SEC review &lpar;Reuters&rpar;](https://www.techmeme.com/260515/p24#a260515p24)
+ - [Apple shares climbed to a record high as investors look past AI concerns](https://appleinsider.com/articles/26/05/15/apple-shares-climbed-to-a-record-high-as-investors-look-past-ai-concerns?utm_source=rss)
+ - [Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved](https://www.wired.com/story/tesla-reveals-new-details-about-robotaxi-crashes-and-the-humans-involved/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
