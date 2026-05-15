@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ikea Matter-over-Thread review: Amazing smart home tech, when they work](https://appleinsider.com/articles/26/05/15/ikea-matter-over-thread-review-amazing-smart-home-tech-when-they-work?utm_source=rss)
- - [Musk v. Altman: in closing arguments, Musk&#39;s attorney doubled down on claims of Altman&#39;s untrustworthiness, while OpenAI&#39;s lawyer said Musk has no evidence &lpar;Associated Press&rpar;](https://www.techmeme.com/260514/p40#a260514p40)
- - [California Gov. Gavin Newsom proposes a new 7.25% tax on web-based software sales, targeting $1.1B in state and local tax revenue in the upcoming budget year &lpar;Bloomberg&rpar;](https://www.techmeme.com/260514/p39#a260514p39)<!-- TECH:END -->
+ - [Security research firm Calif says it used Mythos to help build a macOS kernel memory corruption exploit circumventing Apple&#39;s Memory Integrity Enforcement tech &lpar;Robert McMillan/Wall Street Journal&rpar;](https://www.techmeme.com/260514/p43#a260514p43)
+ - [Sources: Anthropic has agreed to the terms of a $30B fundraising at a $900B valuation, with Sequoia, Dragoneer, Greenoaks, and Altimeter co-leading the round &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/260514/p42#a260514p42)
+ - [Sources: xAI co-founder Igor Babuschkin plans to raise up to $1B at an up to $5B valuation for a new AI research startup, with General Catalyst possibly leading &lpar;Forbes&rpar;](https://www.techmeme.com/260514/p41#a260514p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
