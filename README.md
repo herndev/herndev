@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No idea if anyone here cares, but I just needed to get this off my chest.](http://9gag.com/gag/ae9neLW)
- - ⏩ [Bee Bar](http://9gag.com/gag/aAy832g)
- - 👉 [Finally, a solution for hockey players](http://9gag.com/gag/aRBb3B5)<!-- MEMES:END -->
+ - 💣 [Come on man, stop abusing deficient tech.](http://9gag.com/gag/aryQGnd)
+ - ⏩ [What separates wife and non wife material!](http://9gag.com/gag/an7mjRq)
+ - 👉 [He spent most of the money](http://9gag.com/gag/aVvpMNK)<!-- MEMES:END -->
 
 ---
 
