@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of AI video generation startup Runway, which is training models directly on observational data, is now valued at $5.3B, and added $40M in ARR in Q2 &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260515/p16#a260515p16)
- - [BioLite’s stakeable solar lights are down to a new low price for Memorial Day](https://www.theverge.com/gadgets/930969/biolite-solar-site-lights-insta360-action-camera-deal-sale)
- - [GrapheneOS closes an Android VPN loophole before Google does &lpar;Updated: Google statement&rpar;](https://www.androidauthority.com/grapheneos-fixed-android-vpn-flaw-3664926/)<!-- TECH:END -->
+ - [Galaxy S26 sales are up by double digits, but those numbers are cooling off quickly](https://www.androidauthority.com/galaxy-s26-initial-sales-beating-galaxy-s25-3667593/)
+ - [Experience amazing 8K action with the Insta360 X5 at $100 off](https://www.androidauthority.com/insta360-x5-virtual-tour-bundle-deal-3667620/)
+ - [OpenAI debuts personal finance tools for US ChatGPT Pro users, partnering with Plaid to give access to 12K+ financial institutions to analyze spending and more &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260515/p17#a260515p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
