@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best price: Ring Floodlight Cam Pro available for just $229.99](https://www.androidauthority.com/ring-floodlight-cam-pro-deal-3667720/)
- - [Gemini Intelligence requirements mean most Android phones are going to miss out](https://www.androidauthority.com/gemini-intelligence-requirements-3667703/)
- - [How tech companies are using open source initiatives to achieve critical strategic goals and how such efforts are reshaping industries like AI, AVs, and more &lpar;Bill Gurley/Bill&#39;s Substack&rpar;](https://www.techmeme.com/260515/p27#a260515p27)<!-- TECH:END -->
+ - [YouTube expands its AI likeness detection program to users over the age of 18, after rolling it out to select creators, politicians, journalists, and others &lpar;Mia Sato/The Verge&rpar;](https://www.techmeme.com/260515/p31#a260515p31)
+ - [Filings: YouTube and Snap reached agreements to settle a lawsuit headed to trial in June over claims addiction to social media has disrupted students&#39; learning &lpar;Bloomberg&rpar;](https://www.techmeme.com/260515/p30#a260515p30)
+ - [Dyson&#39;s New Fan and Air Purifier Combo Follows You Around the Room to Deliver Clean Air](https://www.cnet.com/news/dysons-new-fan-and-air-purifier-combo-follows-you-around-the-room-to-deliver-clean-air/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
