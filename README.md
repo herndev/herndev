@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel &amp; Galaxy Watch users complain of a frustrating YouTube Music bug &lpar;Updated: Fixed&rpar;](https://www.androidauthority.com/wear-os-youtube-music-playlist-bug-3666439/)
- - [Indian ride-hailing app Rapido raised $240M led by Prosus as part of a broader primary and secondary financing transaction, valuing Rapido at $3B post-money &lpar;Pramugdha Mamgain/DealStreetAsia&rpar;](https://www.techmeme.com/260515/p10#a260515p10)
- - [The UK&#39;s HMRC tax authority announces a 10-year, £175M deal with London-based Quantexa to use its AI tech to identify fraud incidents and fix tax return errors &lpar;Zoe Kleinman/BBC&rpar;](https://www.techmeme.com/260515/p9#a260515p9)<!-- TECH:END -->
+ - [Why Gmail’s latest storage change should make everyone upset](https://www.androidauthority.com/gmail-latest-storage-change-5gb-opinion-3667336/)
+ - [The RayNeo Air 4 Pro are entry-level AR glasses that get it &lpar;mostly&rpar; right](https://www.androidauthority.com/rayneo-air-4-pro-review-3659545/)
+ - [Owning an Apple Home: implementing smart pet solutions](https://appleinsider.com/articles/26/05/15/owning-an-apple-home-implementing-smart-pet-solutions?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
