@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He spent most of the money](http://9gag.com/gag/aVvpMNK)
- - ⏩ [We really aren\u2019t pissed off enough.](http://9gag.com/gag/an7mMjB)
- - 👉 [Awkward situation](http://9gag.com/gag/aND7Ybw)<!-- MEMES:END -->
+ - 💣 [Henry Cavill while filming Highlander in \u0141\u00f3d\u017a was approached by a LFGS owner who gave him box set of Custodes.](http://9gag.com/gag/a7oYw3q)
+ - ⏩ [He spent most of the money](http://9gag.com/gag/aVvpMNK)
+ - 👉 [As Expected..](http://9gag.com/gag/aGymer7)<!-- MEMES:END -->
 
 ---
 
