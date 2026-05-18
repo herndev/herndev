@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dropping an anchor can be dangerous](http://9gag.com/gag/aYQ3ogw)
- - ⏩ [That&#39;s the evilest thing I can imagine](http://9gag.com/gag/aD2KdMO)
- - 👉 [Close](http://9gag.com/gag/aXPyrAD)<!-- MEMES:END -->
+ - 💣 [That&#39;s the evilest thing I can imagine](http://9gag.com/gag/aD2KdMO)
+ - ⏩ [Another woman in Moscow region realized what so called `SMO` in reality is.](http://9gag.com/gag/aQzLXm7)
+ - 👉 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)<!-- MEMES:END -->
 
 ---
 
