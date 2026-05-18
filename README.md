@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s the evilest thing I can imagine](http://9gag.com/gag/aD2KdMO)
- - ⏩ [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
- - 👉 [Pathetic](http://9gag.com/gag/aND7gGv)<!-- MEMES:END -->
+ - 💣 [Close](http://9gag.com/gag/aXPyrAD)
+ - ⏩ [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)
+ - 👉 [Dropping an anchor can be dangerous](http://9gag.com/gag/aYQ3ogw)<!-- MEMES:END -->
 
 ---
 
