@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s recent sudden downtime may have been political payback, not just a routine outage](https://www.androidauthority.com/spotify-outage-hackers-3668144/)
- - [Cursor releases Composer 2.5, saying it&#39;s better at sustained work on long-running tasks and follows complex instructions more reliably; it&#39;s built on Kimi K2.5 &lpar;Cursor&rpar;](https://www.techmeme.com/260518/p31#a260518p31)
- - [Ready to try smart glasses? The Ray-Ban Meta &lpar;Gen 2&rpar; just got their first Amazon discount](https://www.androidauthority.com/ray-ban-meta-meta-smart-glasses-deals-3668138/)<!-- TECH:END -->
+ - [Seagate shares drop 9%+, leading a group-wide sell-off after comments from its CEO raised concerns it won&#39;t be able to meet demand fueled by the AI buildout &lpar;CJ Haddad/CNBC&rpar;](https://www.techmeme.com/260518/p34#a260518p34)
+ - [These 11 Automatic Cat Feeders Were the Best We Tested in 2026](https://www.wired.com/gallery/best-automatic-cat-feeders/)
+ - [Sigma, which sells a cloud-native analytics platform that sits on top of data warehouses, raised an $80M Series E led by Princeville Capital at a $3B valuation &lpar;Cristian Dina/The Next Web&rpar;](https://www.techmeme.com/260518/p33#a260518p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
