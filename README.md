@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Close](http://9gag.com/gag/aXPyrAD)
- - ⏩ [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)
+ - ⏩ [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
  - 👉 [Dropping an anchor can be dangerous](http://9gag.com/gag/aYQ3ogw)<!-- MEMES:END -->
 
 ---
