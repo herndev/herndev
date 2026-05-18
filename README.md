@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Alexa Plus can now create AI-generated podcasts](https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts)
- - [Motorola Edge 2026 is looking classy in these freshly leaked renders](https://www.androidauthority.com/motorola-edge-2026-renders-3668070/)
- - [Internal chats: in March, xAI offered employees $420 in exchange for completed tax filings as training data for Grok, but the bonuses haven&#39;t been paid out &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260518/p27#a260518p27)<!-- TECH:END -->
+ - [Spotify’s recent sudden downtime may have been political payback, not just a routine outage](https://www.androidauthority.com/spotify-outage-hackers-3668144/)
+ - [Cursor releases Composer 2.5, saying it&#39;s better at sustained work on long-running tasks and follows complex instructions more reliably; it&#39;s built on Kimi K2.5 &lpar;Cursor&rpar;](https://www.techmeme.com/260518/p31#a260518p31)
+ - [Ready to try smart glasses? The Ray-Ban Meta &lpar;Gen 2&rpar; just got their first Amazon discount](https://www.androidauthority.com/ray-ban-meta-meta-smart-glasses-deals-3668138/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
