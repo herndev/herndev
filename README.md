@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Which is , pretty insane.](http://9gag.com/gag/adBGLBV)
- - ⏩ [Mmmm, Pringles graduation](http://9gag.com/gag/aZZ67R3)
- - 👉 [Lady&#39;s initial reaction to hearing she got sentences to life.](http://9gag.com/gag/avyMO9E)<!-- MEMES:END -->
+ - 💣 [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
+ - ⏩ [Well played...Well played...*insert thumbs up*](http://9gag.com/gag/aqyPnwp)
+ - 👉 [Dropping an anchor can be dangerous](http://9gag.com/gag/aYQ3ogw)<!-- MEMES:END -->
 
 ---
 
