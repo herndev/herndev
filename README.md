@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Who is also interested in: The Hoek\u00e9dex?](http://9gag.com/gag/aGymzmw)
- - ⏩ [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
- - 👉 [Smart vending machine catches and charges thieves to their c card and room lol](http://9gag.com/gag/aByA24N)<!-- MEMES:END -->
+ - ⏩ [Help, farmer stuck!](http://9gag.com/gag/ae9nQBb)
+ - 👉 [Game](http://9gag.com/gag/aW4rGmq)<!-- MEMES:END -->
 
 ---
 
