@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a town hall, PlayStation studio business CEO Hermen Hulst told staff that the company&#39;s narrative single-player games will now be PlayStation exclusive &lpar;Jason Schreier/@jasonschreier.bsky.social&rpar;](https://www.techmeme.com/260518/p44#a260518p44)
- - [Internal memo: Meta is reassigning 7,000 workers to four new units focused on building AI tools, two days before it is set to lay off 10% of its workforce &lpar;Eli Tan/New York Times&rpar;](https://www.techmeme.com/260518/p43#a260518p43)
- - [Sources: AI chip designer Tenstorrent has drawn takeover interest from Intel and Qualcomm; Tenstorrent could be valued at more than $5B in a potential deal &lpar;Bloomberg&rpar;](https://www.techmeme.com/260518/p42#a260518p42)<!-- TECH:END -->
+ - [Apple’s developer conference is less than a month away, and Google could be a big part of it](https://www.androidauthority.com/apple-wwdc-2026-date-3668299/)
+ - [A CISA contractor maintained a now-offline GitHub repo that exposed credentials to AWS GovCloud accounts and CISA systems; CISA is investigating the situation &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/260518/p45#a260518p45)
+ - [In a town hall, PlayStation studio business CEO Hermen Hulst told staff that the company&#39;s narrative single-player games will now be PlayStation exclusive &lpar;Jason Schreier/@jasonschreier.bsky.social&rpar;](https://www.techmeme.com/260518/p44#a260518p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
