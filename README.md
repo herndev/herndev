@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Design Awards 2026 finalists include Cyberpunk 2077 &amp; Civilization VII](https://appleinsider.com/articles/26/05/18/apple-design-awards-2026-finalists-include-cyberpunk-2077-civilization-vii?utm_source=rss)
- - [Rumored return to titanium after the aluminum iPhone 17 Pro doesn&#39;t make sense](https://appleinsider.com/articles/26/05/18/rumored-return-to-titanium-after-the-aluminum-iphone-17-pro-doesnt-make-sense?utm_source=rss)
- - [Musk v. Altman proved that AI is led by the wrong people](https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people)<!-- TECH:END -->
+ - [Sony is raising PlayStation Plus prices, but you might dodge the hike](https://www.androidauthority.com/playstation-plus-price-increase-3668214/)
+ - [AT&amp;T warns of router shortages, FCC responds with limited one-year waiver](https://www.androidauthority.com/fcc-grants-att-router-waiver-3668175/)
+ - [Anthropic acquires NYC-based Stainless, which generates SDKs from APIs, and plans to wind down its hosted products, after reportedly discussing a $300M+ deal &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260518/p37#a260518p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
