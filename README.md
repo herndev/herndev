@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s the evilest thing I can imagine](http://9gag.com/gag/aD2KdMO)
- - ⏩ [Finally some encryption](http://9gag.com/gag/avyM5vE)
- - 👉 [Close](http://9gag.com/gag/aXPyrAD)<!-- MEMES:END -->
+ - 💣 [How to mess with your office/college friends](http://9gag.com/gag/ajPzgqw)
+ - ⏩ [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)
+ - 👉 [Tis a sad day](http://9gag.com/gag/awyEzGW)<!-- MEMES:END -->
 
 ---
 
