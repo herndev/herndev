@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Who is also interested in: The Hoek\u00e9dex?](http://9gag.com/gag/aGymzmw)
- - ⏩ [Help, farmer stuck!](http://9gag.com/gag/ae9nQBb)
- - 👉 [Game](http://9gag.com/gag/aW4rGmq)<!-- MEMES:END -->
+ - ⏩ [Game](http://9gag.com/gag/aW4rGmq)
+ - 👉 [Not the Amazon one....](http://9gag.com/gag/a87R1xZ)<!-- MEMES:END -->
 
 ---
 
