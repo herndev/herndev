@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI sales automation startup Monaco raised a $50M Series B led by Benchmark, bringing its total funding to $85M after raising a $25M Series A in February 2026 &lpar;Ben Bergman/Business Insider&rpar;](https://www.techmeme.com/260517/p15#a260517p15)
- - [&#39;Marshals&#39; Release Schedule: When Episode 12 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-12-hits-paramount-plus/)
- - [Ciridae, which is developing AI to streamline back-office operations for real-economy businesses, raised a $20M seed led by Accel, with a16z participating &lpar;Jack Kubinec/Fortune&rpar;](https://www.techmeme.com/260517/p14#a260517p14)<!-- TECH:END -->
+ - [A look at Apple&#39;s ongoing strategy to repurpose &quot;binned&quot; chips for cheaper devices; sources: Apple placed new A18 Pro orders for MacBook Neo amid its popularity &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260517/p17#a260517p17)
+ - [New York City-based GovWell, which uses AI to streamline government processes like permitting and licensing, raised a $25M Series A led by Insight Partners &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260517/p16#a260517p16)
+ - [AI sales automation startup Monaco raised a $50M Series B led by Benchmark, bringing its total funding to $85M after raising a $25M Series A in February 2026 &lpar;Ben Bergman/Business Insider&rpar;](https://www.techmeme.com/260517/p15#a260517p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
