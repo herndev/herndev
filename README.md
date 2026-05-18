@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So that&#39;s where they gonna do the Pokemon Card Battle](http://9gag.com/gag/a7oYq1z)
+ - 💣 [That&#39;s the evilest thing I can imagine](http://9gag.com/gag/aD2KdMO)
  - ⏩ [Another woman in Moscow region realized what so called `SMO` in reality is.](http://9gag.com/gag/aQzLXm7)
- - 👉 [Close](http://9gag.com/gag/aXPyrAD)<!-- MEMES:END -->
+ - 👉 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)<!-- MEMES:END -->
 
 ---
 
