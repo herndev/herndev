@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Akamai is seeking to raise $2.6B in a convertible bond offering, and plans to use $350M of the offering to buy back its common stock from buyers of the bonds &lpar;David Morris/Bloomberg&rpar;](https://www.techmeme.com/260518/p39#a260518p39)
- - [Volvo teases a new affordable EV to replace discontinued EX30](https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60)
- - [Cloudflare tests Mythos against 50+ repositories, highlights its ability to chain bugs into a single exploit, and details a vulnerability discovery harness &lpar;Grant Bourzikas/Cloudflare&rpar;](https://www.techmeme.com/260518/p38#a260518p38)<!-- TECH:END -->
+ - [In a town hall, PlayStation studio business CEO Hermen Hulst told staff that the company&#39;s narrative single-player games will now be PlayStation exclusive &lpar;Jason Schreier/@jasonschreier.bsky.social&rpar;](https://www.techmeme.com/260518/p44#a260518p44)
+ - [Internal memo: Meta is reassigning 7,000 workers to four new units focused on building AI tools, two days before it is set to lay off 10% of its workforce &lpar;Eli Tan/New York Times&rpar;](https://www.techmeme.com/260518/p43#a260518p43)
+ - [Sources: AI chip designer Tenstorrent has drawn takeover interest from Intel and Qualcomm; Tenstorrent could be valued at more than $5B in a potential deal &lpar;Bloomberg&rpar;](https://www.techmeme.com/260518/p42#a260518p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
