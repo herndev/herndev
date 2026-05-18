@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s the evilest thing I can imagine](http://9gag.com/gag/aD2KdMO)
- - ⏩ [Another woman in Moscow region realized what so called `SMO` in reality is.](http://9gag.com/gag/aQzLXm7)
- - 👉 [Finally some encryption](http://9gag.com/gag/avyM5vE)<!-- MEMES:END -->
+ - 💣 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)
+ - ⏩ [Tis a sad day](http://9gag.com/gag/awyEzGW)
+ - 👉 [Game](http://9gag.com/gag/aW4rGmq)<!-- MEMES:END -->
 
 ---
 
