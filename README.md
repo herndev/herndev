@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steve Bannon and 60+ Trump allies sign a Humans First-led letter urging Trump to mandate government testing and approval of powerful AI models before release &lpar;Ashley Gold/Axios&rpar;](https://www.techmeme.com/260518/p18#a260518p18)
- - [AI is making smartphones verifiably worse by design](https://appleinsider.com/articles/26/05/18/ai-is-making-smartphones-verifiably-worse-by-design?utm_source=rss)
- - [India&#39;s Apple antitrust case gets minor reprieve as fears of $38 billion fine continue](https://appleinsider.com/articles/26/05/18/indias-apple-antitrust-case-gets-minor-reprieve-as-fears-of-38-billion-fine-continue?utm_source=rss)<!-- TECH:END -->
+ - [Arkham: Iran&#39;s largest crypto exchange, Nobitex, processed $2.3B+ since 2023 via Tron and BNB Chain, including $23M+ since the Iran war started in February &lpar;Reuters&rpar;](https://www.techmeme.com/260518/p25#a260518p25)
+ - [AT&amp;T just answered T-Mobile with more expensive travel eSIM plans](https://www.androidauthority.com/att-e-sim-plans-for-international-travelers-3667987/)
+ - [The Catastrophic Swatch x Audemars Piguet Launch Was Entirely Predictable and Utterly Avoidable](https://www.wired.com/story/the-catastrophic-swatch-x-audemars-piguet-launch-was-entirely-predictable-and-utterly-avoidable/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
