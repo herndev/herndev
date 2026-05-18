@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony is raising PlayStation Plus prices, but you might dodge the hike](https://www.androidauthority.com/playstation-plus-price-increase-3668214/)
- - [AT&amp;T warns of router shortages, FCC responds with limited one-year waiver](https://www.androidauthority.com/fcc-grants-att-router-waiver-3668175/)
- - [Anthropic acquires NYC-based Stainless, which generates SDKs from APIs, and plans to wind down its hosted products, after reportedly discussing a $300M+ deal &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260518/p37#a260518p37)<!-- TECH:END -->
+ - [Akamai is seeking to raise $2.6B in a convertible bond offering, and plans to use $350M of the offering to buy back its common stock from buyers of the bonds &lpar;David Morris/Bloomberg&rpar;](https://www.techmeme.com/260518/p39#a260518p39)
+ - [Volvo teases a new affordable EV to replace discontinued EX30](https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60)
+ - [Cloudflare tests Mythos against 50+ repositories, highlights its ability to chain bugs into a single exploit, and details a vulnerability discovery harness &lpar;Grant Bourzikas/Cloudflare&rpar;](https://www.techmeme.com/260518/p38#a260518p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
