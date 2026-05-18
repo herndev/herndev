@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)
- - ⏩ [Tis a sad day](http://9gag.com/gag/awyEzGW)
- - 👉 [Game](http://9gag.com/gag/aW4rGmq)<!-- MEMES:END -->
+ - 💣 [There are some tragedies we simply cannot avoid. When life brings problems beyond your control just remember if there is no solution, then there is no problem\u2026](http://9gag.com/gag/ajPzmL8)
+ - ⏩ [Smart vending machine catches and charges thieves to their c card and room lol](http://9gag.com/gag/aByA24N)
+ - 👉 [Not the Amazon one....](http://9gag.com/gag/a87R1xZ)<!-- MEMES:END -->
 
 ---
 
