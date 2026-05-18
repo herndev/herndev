@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart just launched two surprisingly loaded Android tablets under $300](https://www.androidauthority.com/walmart-onn-android-tablets-2026-3667829/)
- - [Sources: US authorities in recent months have issued multiple information requests to Kalshi and Polymarket, many tied to wagers on events in Iran and Venezuela &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260517/p19#a260517p19)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, May 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-18/)<!-- TECH:END -->
+ - [Security researcher Peter G. Neumann, who criticized lax industry attitudes toward computer security and digital privacy, died on May 17 at the age of 93 &lpar;John Markoff/New York Times&rpar;](https://www.techmeme.com/260518/p6#a260518p6)
+ - [Microsoft says it&#39;s retiring Teams&#39; Together Mode, debuted in 2020, and plans to simplify meeting layouts and focus on video quality, stability, and performance &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/260518/p5#a260518p5)
+ - [Pwn2Own Berlin 2026: participants earned a total of ~$1.3M for 47 vulnerabilities, with successful exploits of AI products like Codex, Cursor, and LM Studio &lpar;Eduard Kovacs/SecurityWeek&rpar;](https://www.techmeme.com/260518/p4#a260518p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
