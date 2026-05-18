@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seagate shares drop 9%+, leading a group-wide sell-off after comments from its CEO raised concerns it won&#39;t be able to meet demand fueled by the AI buildout &lpar;CJ Haddad/CNBC&rpar;](https://www.techmeme.com/260518/p34#a260518p34)
- - [These 11 Automatic Cat Feeders Were the Best We Tested in 2026](https://www.wired.com/gallery/best-automatic-cat-feeders/)
- - [Sigma, which sells a cloud-native analytics platform that sits on top of data warehouses, raised an $80M Series E led by Princeville Capital at a $3B valuation &lpar;Cristian Dina/The Next Web&rpar;](https://www.techmeme.com/260518/p33#a260518p33)<!-- TECH:END -->
+ - [Apple Design Awards 2026 finalists include Cyberpunk 2077 &amp; Civilization VII](https://appleinsider.com/articles/26/05/18/apple-design-awards-2026-finalists-include-cyberpunk-2077-civilization-vii?utm_source=rss)
+ - [Rumored return to titanium after the aluminum iPhone 17 Pro doesn&#39;t make sense](https://appleinsider.com/articles/26/05/18/rumored-return-to-titanium-after-the-aluminum-iphone-17-pro-doesnt-make-sense?utm_source=rss)
+ - [Musk v. Altman proved that AI is led by the wrong people](https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
