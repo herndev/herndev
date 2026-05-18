@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube expands its AI likeness detection program to users over the age of 18, after rolling it out to select creators, politicians, journalists, and others &lpar;Mia Sato/The Verge&rpar;](https://www.techmeme.com/260515/p31#a260515p31)
- - [Filings: YouTube and Snap reached agreements to settle a lawsuit headed to trial in June over claims addiction to social media has disrupted students&#39; learning &lpar;Bloomberg&rpar;](https://www.techmeme.com/260515/p30#a260515p30)
- - [Dyson&#39;s New Fan and Air Purifier Combo Follows You Around the Room to Deliver Clean Air](https://www.cnet.com/news/dysons-new-fan-and-air-purifier-combo-follows-you-around-the-room-to-deliver-clean-air/)<!-- TECH:END -->
+ - [&#39;Marshals&#39; Release Schedule: When Episode 12 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-episode-12-hits-paramount-plus/)
+ - [Ciridae, which is developing AI to streamline back-office operations for real-economy businesses, raised a $20M seed led by Accel, with a16z participating &lpar;Jack Kubinec/Fortune&rpar;](https://www.techmeme.com/260517/p14#a260517p14)
+ - [Source: Shein is acquiring DTC clothing retailer Everlane, which focuses on sustainability and &quot;radical transparency&quot;, in a $100M deal &lpar;Lauren Sherman/Puck&rpar;](https://www.techmeme.com/260517/p13#a260517p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
