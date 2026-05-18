@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu reports Q1 revenue down 1.1% YoY to ~$4.7B, above ~$4.5B est., and net profit down 55% YoY to ~$506.6M, above ~$462.5M est., amid a slow AI payoff &lpar;Tracy Qu/Wall Street Journal&rpar;](https://www.techmeme.com/260518/p15#a260518p15)
- - [Sony’s premium ‘The ColleXion’ headphones just leaked from top to bottom](https://www.androidauthority.com/sony-1000x-the-collexion-bluetooth-headphones-3667922/)
- - [A college senior at Stanford describes how AI changed classes: cheating using AI &quot;has become omnipresent&quot; with students &quot;fudging just about everything&quot; &lpar;Theo Baker/New York Times&rpar;](https://www.techmeme.com/260518/p14#a260518p14)<!-- TECH:END -->
+ - [Steve Bannon and 60+ Trump allies sign a Humans First-led letter urging Trump to mandate government testing and approval of powerful AI models before release &lpar;Ashley Gold/Axios&rpar;](https://www.techmeme.com/260518/p18#a260518p18)
+ - [AI is making smartphones verifiably worse by design](https://appleinsider.com/articles/26/05/18/ai-is-making-smartphones-verifiably-worse-by-design?utm_source=rss)
+ - [India&#39;s Apple antitrust case gets minor reprieve as fears of $38 billion fine continue](https://appleinsider.com/articles/26/05/18/indias-apple-antitrust-case-gets-minor-reprieve-as-fears-of-38-billion-fine-continue?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
