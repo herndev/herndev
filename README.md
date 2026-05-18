@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arkham: Iran&#39;s largest crypto exchange, Nobitex, processed $2.3B+ since 2023 via Tron and BNB Chain, including $23M+ since the Iran war started in February &lpar;Reuters&rpar;](https://www.techmeme.com/260518/p25#a260518p25)
- - [AT&amp;T just answered T-Mobile with more expensive travel eSIM plans](https://www.androidauthority.com/att-e-sim-plans-for-international-travelers-3667987/)
- - [The Catastrophic Swatch x Audemars Piguet Launch Was Entirely Predictable and Utterly Avoidable](https://www.wired.com/story/the-catastrophic-swatch-x-audemars-piguet-launch-was-entirely-predictable-and-utterly-avoidable/)<!-- TECH:END -->
+ - [Amazon Alexa Plus can now create AI-generated podcasts](https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts)
+ - [Motorola Edge 2026 is looking classy in these freshly leaked renders](https://www.androidauthority.com/motorola-edge-2026-renders-3668070/)
+ - [Internal chats: in March, xAI offered employees $420 in exchange for completed tax filings as training data for Grok, but the bonuses haven&#39;t been paid out &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260518/p27#a260518p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
