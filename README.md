@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Apple&#39;s ongoing strategy to repurpose &quot;binned&quot; chips for cheaper devices; sources: Apple placed new A18 Pro orders for MacBook Neo amid its popularity &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260517/p17#a260517p17)
- - [New York City-based GovWell, which uses AI to streamline government processes like permitting and licensing, raised a $25M Series A led by Insight Partners &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260517/p16#a260517p16)
- - [AI sales automation startup Monaco raised a $50M Series B led by Benchmark, bringing its total funding to $85M after raising a $25M Series A in February 2026 &lpar;Ben Bergman/Business Insider&rpar;](https://www.techmeme.com/260517/p15#a260517p15)<!-- TECH:END -->
+ - [Walmart just launched two surprisingly loaded Android tablets under $300](https://www.androidauthority.com/walmart-onn-android-tablets-2026-3667829/)
+ - [Sources: US authorities in recent months have issued multiple information requests to Kalshi and Polymarket, many tied to wagers on events in Iran and Venezuela &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260517/p19#a260517p19)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, May 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-18/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
