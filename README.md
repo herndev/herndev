@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who is also interested in: The Hoek\u00e9dex?](http://9gag.com/gag/aGymzmw)
- - ⏩ [Game](http://9gag.com/gag/aW4rGmq)
- - 👉 [Not the Amazon one....](http://9gag.com/gag/a87R1xZ)<!-- MEMES:END -->
+ - 💣 [Dropping an anchor can be dangerous](http://9gag.com/gag/aYQ3ogw)
+ - ⏩ [That&#39;s the evilest thing I can imagine](http://9gag.com/gag/aD2KdMO)
+ - 👉 [Close](http://9gag.com/gag/aXPyrAD)<!-- MEMES:END -->
 
 ---
 
