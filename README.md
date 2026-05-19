@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I like turtles](http://9gag.com/gag/amoeWN6)
- - ⏩ [Pragmatic](http://9gag.com/gag/aQzLEW2)
- - 👉 [Japan Banzai!](http://9gag.com/gag/aZZ6rV0)<!-- MEMES:END -->
+ - 💣 [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)
+ - ⏩ [Peaceful BLM protest is apparently possible.](http://9gag.com/gag/aGymE9X)
+ - 👉 [So that&#39;s where they gonna do the Pokemon Card Battle](http://9gag.com/gag/a7oYq1z)<!-- MEMES:END -->
 
 ---
 
