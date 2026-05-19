@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sundar Pichai says Google is now processing 3.2 quadrillion tokens per month, up from 480T tokens per month a year ago and 9.7T tokens per month two years ago &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260519/p35#a260519p35)
- - [The noise-canceling Nothing Headphone A are down to their lowest price to date](https://www.theverge.com/gadgets/932686/nothing-headphone-a-amazon-fire-tv-stick-4k-max-deal-sale)
- - [New day, new Xperia 1 VIII controversy: How thick is it, really?](https://www.androidauthority.com/xperia-1-viii-thickness-controversy-3668661/)<!-- TECH:END -->
+ - [Google introduces Antigravity 2.0, featuring an updated desktop app that lets users orchestrate multiple agents, alongside an Antigravity CLI tool and SDK &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260519/p45#a260519p45)
+ - [Peanuts classics, returning series, and a new Snoopy film are all coming to Apple TV](https://appleinsider.com/articles/26/05/19/peanuts-classics-returning-series-and-a-new-snoopy-film-are-all-coming-to-apple-tv?utm_source=rss)
+ - [Google says Gemini&#39;s MAUs grew to 900M+ across 230 countries, up from 400M at I/O 2025, and launches Neural Expressive, a new design language for Gemini &lpar;Josh Woodward/The Keyword&rpar;](https://www.techmeme.com/260519/p44#a260519p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
