@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s developer conference is less than a month away, and Google could be a big part of it](https://www.androidauthority.com/apple-wwdc-2026-date-3668299/)
- - [A CISA contractor maintained a now-offline GitHub repo that exposed credentials to AWS GovCloud accounts and CISA systems; CISA is investigating the situation &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/260518/p45#a260518p45)
- - [In a town hall, PlayStation studio business CEO Hermen Hulst told staff that the company&#39;s narrative single-player games will now be PlayStation exclusive &lpar;Jason Schreier/@jasonschreier.bsky.social&rpar;](https://www.techmeme.com/260518/p44#a260518p44)<!-- TECH:END -->
+ - [Sources: Google and Blackstone plan to create an AI cloud company to monetize Google&#39;s TPUs to external parties; Blackstone plans to put $5B in the venture &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260518/p48#a260518p48)
+ - [Amazon’s next Kindle upgrade might be a replaceable battery](https://www.androidauthority.com/amazon-kindle-battery-replacement-firmware-strings-3668324/)
+ - [A deep dive into Meta&#39;s Hyperion data center campus in Louisiana, expected to reach 5 GW of compute capacity; source: Meta plans to spend $200B+ on the project &lpar;Riley Griffin/Bloomberg&rpar;](https://www.techmeme.com/260518/p47#a260518p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
