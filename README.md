@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [...](http://9gag.com/gag/apR49VD)
- - ⏩ [Close](http://9gag.com/gag/aXPyrAD)
- - 👉 [So that&#39;s where they gonna do the Pokemon Card Battle](http://9gag.com/gag/a7oYq1z)<!-- MEMES:END -->
+ - 💣 [Help, farmer stuck!](http://9gag.com/gag/ae9nQBb)
+ - ⏩ [Guys...](http://9gag.com/gag/an7m79b)
+ - 👉 [The betrayal](http://9gag.com/gag/aAy8y0p)<!-- MEMES:END -->
 
 ---
 
