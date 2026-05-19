@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I know yall dislike black men but this seems unjust](http://9gag.com/gag/a7oYEnz)
- - ⏩ [Peaceful BLM protest is apparently possible.](http://9gag.com/gag/aGymE9X)
- - 👉 [That&#39;s the evilest thing I can imagine](http://9gag.com/gag/aD2KdMO)<!-- MEMES:END -->
+ - 💣 [...](http://9gag.com/gag/apR49VD)
+ - ⏩ [Another woman in Moscow region realized what so called `SMO` in reality is.](http://9gag.com/gag/aQzLXm7)
+ - 👉 [Seems like a very dedicated guy](http://9gag.com/gag/avyMyKX)<!-- MEMES:END -->
 
 ---
 
