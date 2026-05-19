@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peaceful BLM protest is apparently possible.](http://9gag.com/gag/aGymE9X)
- - ⏩ [So that&#39;s where they gonna do the Pokemon Card Battle](http://9gag.com/gag/a7oYq1z)
- - 👉 [...](http://9gag.com/gag/apR49VD)<!-- MEMES:END -->
+ - 💣 [...](http://9gag.com/gag/apR49VD)
+ - ⏩ [Close](http://9gag.com/gag/aXPyrAD)
+ - 👉 [So that&#39;s where they gonna do the Pokemon Card Battle](http://9gag.com/gag/a7oYq1z)<!-- MEMES:END -->
 
 ---
 
