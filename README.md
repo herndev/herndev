@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seamless hinges for the iPhone Fold may be copied by rivals, and by Apple itself for an iPad Fold.](https://appleinsider.com/articles/26/05/19/seamless-hinges-for-the-iphone-fold-may-be-copied-by-rivals-and-by-apple-itself-for-an-ipad-fold?utm_source=rss)
- - [Xbox fans want exclusives, more backward compatibility, and free online multiplayer](https://www.theverge.com/games/933328/xbox-fan-feedback-exclusives-backward-compatibility-online-multiplayer)
- - [CertiK: physical attacks on crypto holders rose 75% YoY to 72 confirmed cases and $41M in known losses in 2025; Coinbase spent ~$7.6M to protect Brian Armstrong &lpar;Bloomberg&rpar;](https://www.techmeme.com/260519/p14#a260519p14)<!-- TECH:END -->
+ - [Apple Intelligence-powered accessibility features in OS 27 detailed ahead of WWDC](https://appleinsider.com/articles/26/05/19/apple-intelligence-powered-accessibility-features-in-os-27-detailed-ahead-of-wwdc?utm_source=rss)
+ - [Unframe, which customizes AI apps for enterprises via pre-built modular components, raised a $50M Series B led by Highland Europe, for $100M in total funding &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260519/p17#a260519p17)
+ - [Gemini gets two new voices just in time for Google I/O 2026](https://www.androidauthority.com/google-gemini-new-voices-3668567/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
