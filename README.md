@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pragmatic](http://9gag.com/gag/aQzLEW2)
- - ⏩ [Japan Banzai!](http://9gag.com/gag/aZZ6rV0)
- - 👉 [...](http://9gag.com/gag/apR49VD)<!-- MEMES:END -->
+ - 💣 [I like turtles](http://9gag.com/gag/amoeWN6)
+ - ⏩ [Pragmatic](http://9gag.com/gag/aQzLEW2)
+ - 👉 [Japan Banzai!](http://9gag.com/gag/aZZ6rV0)<!-- MEMES:END -->
 
 ---
 
