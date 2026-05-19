@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Z Fold 8, Wide Fold leak again, leaving little to imagination](https://www.androidauthority.com/samsung-galaxy-z-fold-8-wide-fold-specs-leak-again-3668393/)
- - [NYC Health + Hospitals says hackers accessed its network from Nov. 2025 to Feb. 2026, exposing personal data, medical records, and fingerprints of 1.8M+ people &lpar;Zack Whittaker/TechCrunch&rpar;](https://www.techmeme.com/260519/p3#a260519p3)
- - [Sources: Demis Hassabis was an angel investor in Anthropic; PitchBook and Dealroom: former DeepMind researchers founded 12+ companies since 2021, raising $14B+ &lpar;Financial Times&rpar;](https://www.techmeme.com/260519/p2#a260519p2)<!-- TECH:END -->
+ - [Milan-based legal AI company Lexroom raised a €42.9M Series B led by Left Lane, after raising a €16M Series A in September 2025, taking total funding to €62.7M &lpar;Rahul Raj/EU-Startups&rpar;](https://www.techmeme.com/260519/p5#a260519p5)
+ - [Mistral acquires Vienna-based Emmi AI for an undisclosed sum to boost its industrial offerings in Europe; Emmi raised €15M in Austria&#39;s largest round in 2025 &lpar;Reuters&rpar;](https://www.techmeme.com/260519/p4#a260519p4)
+ - [Perplexity confirms reduced limits for some users following promo code crackdown](https://www.androidauthority.com/perplexity-usage-limits-promo-code-crackdown-3668441/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
