@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pragmatic](http://9gag.com/gag/aQzLEW2)
- - ⏩ [Swim tip for life](http://9gag.com/gag/aGymLDw)
- - 👉 [That was close](http://9gag.com/gag/aryQWVX)<!-- MEMES:END -->
+ - 💣 [That was close](http://9gag.com/gag/aryQWVX)
+ - ⏩ [Pragmatic](http://9gag.com/gag/aQzLEW2)
+ - 👉 [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)<!-- MEMES:END -->
 
 ---
 
