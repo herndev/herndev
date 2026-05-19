@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Help, farmer stuck!](http://9gag.com/gag/ae9nQBb)
- - ⏩ [Guys...](http://9gag.com/gag/an7m79b)
- - 👉 [The betrayal](http://9gag.com/gag/aAy8y0p)<!-- MEMES:END -->
+ - 💣 [I know yall dislike black men but this seems unjust](http://9gag.com/gag/a7oYEnz)
+ - ⏩ [Peaceful BLM protest is apparently possible.](http://9gag.com/gag/aGymE9X)
+ - 👉 [That&#39;s the evilest thing I can imagine](http://9gag.com/gag/aD2KdMO)<!-- MEMES:END -->
 
 ---
 
