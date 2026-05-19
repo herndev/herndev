@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So that&#39;s where they gonna do the Pokemon Card Battle](http://9gag.com/gag/a7oYq1z)
- - ⏩ [...](http://9gag.com/gag/apR49VD)
- - 👉 [Close](http://9gag.com/gag/aXPyrAD)<!-- MEMES:END -->
+ - 💣 [Pragmatic](http://9gag.com/gag/aQzLEW2)
+ - ⏩ [Japan Banzai!](http://9gag.com/gag/aZZ6rV0)
+ - 👉 [...](http://9gag.com/gag/apR49VD)<!-- MEMES:END -->
 
 ---
 
