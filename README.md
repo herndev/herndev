@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google and Blackstone plan to create an AI cloud company to monetize Google&#39;s TPUs to external parties; Blackstone plans to put $5B in the venture &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260518/p48#a260518p48)
- - [Amazon’s next Kindle upgrade might be a replaceable battery](https://www.androidauthority.com/amazon-kindle-battery-replacement-firmware-strings-3668324/)
- - [A deep dive into Meta&#39;s Hyperion data center campus in Louisiana, expected to reach 5 GW of compute capacity; source: Meta plans to spend $200B+ on the project &lpar;Riley Griffin/Bloomberg&rpar;](https://www.techmeme.com/260518/p47#a260518p47)<!-- TECH:END -->
+ - [LG will release the first 1000Hz, 1080p gaming monitor this year](https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b)
+ - [Vitalik Buterin says AI-assisted &quot;formal verification&quot; could help secure blockchain networks, smart contracts, and cryptographic systems against software flaws &lpar;Jason Nelson/Decrypt&rpar;](https://www.techmeme.com/260518/p49#a260518p49)
+ - [Is Bluesky down for you? Here’s what’s going on &lpar;Update&rpar;](https://www.androidauthority.com/bluesky-down-may-2026-3668333/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
