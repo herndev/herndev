@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best iPhone in 2026: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/)
- - [An overview of macro tech trends: capex explosion, unprecedented surge in chip demand, supply chain bottlenecks, model commoditization, AI automation, and more &lpar;Benedict Evans&rpar;](https://www.techmeme.com/260518/p51#a260518p51)
- - [Homey Pro is getting a big price hike next month, and RAM costs are to blame](https://www.androidauthority.com/homey-price-hike-3668371/)<!-- TECH:END -->
+ - [Galaxy Z Fold 8, Wide Fold leak again, leaving little to imagination](https://www.androidauthority.com/samsung-galaxy-z-fold-8-wide-fold-specs-leak-again-3668393/)
+ - [NYC Health + Hospitals says hackers accessed its network from Nov. 2025 to Feb. 2026, exposing personal data, medical records, and fingerprints of 1.8M+ people &lpar;Zack Whittaker/TechCrunch&rpar;](https://www.techmeme.com/260519/p3#a260519p3)
+ - [Sources: Demis Hassabis was an angel investor in Anthropic; PitchBook and Dealroom: former DeepMind researchers founded 12+ companies since 2021, raising $14B+ &lpar;Financial Times&rpar;](https://www.techmeme.com/260519/p2#a260519p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
