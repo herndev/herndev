@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Milan-based legal AI company Lexroom raised a €42.9M Series B led by Left Lane, after raising a €16M Series A in September 2025, taking total funding to €62.7M &lpar;Rahul Raj/EU-Startups&rpar;](https://www.techmeme.com/260519/p5#a260519p5)
- - [Mistral acquires Vienna-based Emmi AI for an undisclosed sum to boost its industrial offerings in Europe; Emmi raised €15M in Austria&#39;s largest round in 2025 &lpar;Reuters&rpar;](https://www.techmeme.com/260519/p4#a260519p4)
- - [Perplexity confirms reduced limits for some users following promo code crackdown](https://www.androidauthority.com/perplexity-usage-limits-promo-code-crackdown-3668441/)<!-- TECH:END -->
+ - [I’ve missed the Galaxy S10 Plus for years, and the Galaxy S27 may bring it back](https://www.androidauthority.com/samsung-galaxy-s27-bringing-back-s10-plus-3664947/)
+ - [Elon Musk&#39;s OpenAI loss is set to speed up the AI juggernaut amid rising opposition; the case offered a rare glimpse into tech&#39;s workings, ending with a whimper &lpar;New York Times&rpar;](https://www.techmeme.com/260519/p7#a260519p7)
+ - [Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen](https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
