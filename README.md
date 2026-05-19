@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [...](http://9gag.com/gag/apR49VD)
- - ⏩ [Another woman in Moscow region realized what so called `SMO` in reality is.](http://9gag.com/gag/aQzLXm7)
- - 👉 [Seems like a very dedicated guy](http://9gag.com/gag/avyMyKX)<!-- MEMES:END -->
+ - 💣 [So that&#39;s where they gonna do the Pokemon Card Battle](http://9gag.com/gag/a7oYq1z)
+ - ⏩ [...](http://9gag.com/gag/apR49VD)
+ - 👉 [Close](http://9gag.com/gag/aXPyrAD)<!-- MEMES:END -->
 
 ---
 
