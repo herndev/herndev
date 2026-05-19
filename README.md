@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The future of Google is a search box that does everything](https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026)
- - [Google adds a conversational search feature to YouTube and rolls out the new Gemini Omni model in YouTube Shorts Remix and the Create app &lpar;Sanuj Bhatia/Android Central&rpar;](https://www.techmeme.com/260519/p58#a260519p58)
- - [Google caps off I/O 2026 day one with Android 17 QPR1 Beta 3 release](https://www.androidauthority.com/android-17-qpr1-beta-3-3668880/)<!-- TECH:END -->
+ - [Threat actors published 600+ malicious versions to npm as part of the Shai-Hulud supply chain campaign; most of the affected packages are in the @antv ecosystem &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/260519/p62#a260519p62)
+ - [Demis Hassabis said this might be the &amp;#8216;foothills of the singularity.&amp;#8217; What?](https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis)
+ - [Sources: SpaceX expects to proceed with its acquisition of Cursor 30 days after its public trading debut, which is expected to occur on June 12 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260519/p61#a260519p61)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
