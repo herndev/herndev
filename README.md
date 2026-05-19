@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence-powered accessibility features in OS 27 detailed ahead of WWDC](https://appleinsider.com/articles/26/05/19/apple-intelligence-powered-accessibility-features-in-os-27-detailed-ahead-of-wwdc?utm_source=rss)
- - [Unframe, which customizes AI apps for enterprises via pre-built modular components, raised a $50M Series B led by Highland Europe, for $100M in total funding &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260519/p17#a260519p17)
- - [Gemini gets two new voices just in time for Google I/O 2026](https://www.androidauthority.com/google-gemini-new-voices-3668567/)<!-- TECH:END -->
+ - [America’s dangerous, messy deepfakes crackdown is here](https://www.theverge.com/policy/933518/take-it-down-act-notice-removal-social-media-deepfake)
+ - [Apple’s accessibility features add more AI-powered processing](https://www.theverge.com/tech/933420/apple-iphone-mac-vision-pro-accessibility-2026-apple-intelligence)
+ - [Plex says the price for the Lifetime tier of its Plex Pass plan will increase from $249.99 to $749.99 in July &lpar;Chance Miller/9to5Mac&rpar;](https://www.techmeme.com/260519/p22#a260519p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
