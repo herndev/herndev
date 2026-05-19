@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s the evilest thing I can imagine](http://9gag.com/gag/aD2KdMO)
- - ⏩ [Another woman in Moscow region realized what so called `SMO` in reality is.](http://9gag.com/gag/aQzLXm7)
- - 👉 [Hear me out. There IS a way to deal with this.](http://9gag.com/gag/ajPzmo1)<!-- MEMES:END -->
+ - 💣 [Peaceful BLM protest is apparently possible.](http://9gag.com/gag/aGymE9X)
+ - ⏩ [So that&#39;s where they gonna do the Pokemon Card Battle](http://9gag.com/gag/a7oYq1z)
+ - 👉 [...](http://9gag.com/gag/apR49VD)<!-- MEMES:END -->
 
 ---
 
