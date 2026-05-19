@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [America’s dangerous, messy deepfakes crackdown is here](https://www.theverge.com/policy/933518/take-it-down-act-notice-removal-social-media-deepfake)
- - [Apple’s accessibility features add more AI-powered processing](https://www.theverge.com/tech/933420/apple-iphone-mac-vision-pro-accessibility-2026-apple-intelligence)
- - [Plex says the price for the Lifetime tier of its Plex Pass plan will increase from $249.99 to $749.99 in July &lpar;Chance Miller/9to5Mac&rpar;](https://www.techmeme.com/260519/p22#a260519p22)<!-- TECH:END -->
+ - [Amazon slashes $250 off every 2026 16-inch MacBook Pro it sells](https://appleinsider.com/articles/26/05/19/amazon-slashes-250-off-every-2026-16-inch-macbook-pro-it-sells?utm_source=rss)
+ - [Anker SOLIX’s efficient new power station wants to save your fridge’s food from the next blackout](https://www.androidauthority.com/anker-solix-s2000-3668607/)
+ - [Sony’s 1000X The Collexion are a luxurious and expensive celebration of its iconic headphones](https://www.theverge.com/tech/933168/sony-1000x-collexion-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
