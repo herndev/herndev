@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve missed the Galaxy S10 Plus for years, and the Galaxy S27 may bring it back](https://www.androidauthority.com/samsung-galaxy-s27-bringing-back-s10-plus-3664947/)
- - [Elon Musk&#39;s OpenAI loss is set to speed up the AI juggernaut amid rising opposition; the case offered a rare glimpse into tech&#39;s workings, ending with a whimper &lpar;New York Times&rpar;](https://www.techmeme.com/260519/p7#a260519p7)
- - [Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen](https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/)<!-- TECH:END -->
+ - [Seamless hinges for the iPhone Fold may be copied by rivals, and by Apple itself for an iPad Fold.](https://appleinsider.com/articles/26/05/19/seamless-hinges-for-the-iphone-fold-may-be-copied-by-rivals-and-by-apple-itself-for-an-ipad-fold?utm_source=rss)
+ - [Xbox fans want exclusives, more backward compatibility, and free online multiplayer](https://www.theverge.com/games/933328/xbox-fan-feedback-exclusives-backward-compatibility-online-multiplayer)
+ - [CertiK: physical attacks on crypto holders rose 75% YoY to 72 confirmed cases and $41M in known losses in 2025; Coinbase spent ~$7.6M to protect Brian Armstrong &lpar;Bloomberg&rpar;](https://www.techmeme.com/260519/p14#a260519p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
