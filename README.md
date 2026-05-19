@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yet she still has reluctance to admit it.](http://9gag.com/gag/a87R7MQ)
- - ⏩ [Seems like a very dedicated guy](http://9gag.com/gag/avyMyKX)
- - 👉 [Mixed signals](http://9gag.com/gag/axyLW9n)<!-- MEMES:END -->
+ - 💣 [...](http://9gag.com/gag/apR49VD)
+ - ⏩ [How does one achieve this build](http://9gag.com/gag/aLnZ1y6)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)<!-- MEMES:END -->
 
 ---
 
