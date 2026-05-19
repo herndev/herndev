@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are our favorite Memorial Day tech deals so far](https://www.theverge.com/gadgets/932465/best-memorial-day-sales-deals-2026)
- - [LIFX Smart Light Bulbs at a record 36% off are a solid pick](https://www.androidauthority.com/lifx-smart-light-bulbs-deal-3668857/)
- - [Democrats preview how they’d go after the Ticketmaster settlement if they regain power](https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement)<!-- TECH:END -->
+ - [The future of Google is a search box that does everything](https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026)
+ - [Google adds a conversational search feature to YouTube and rolls out the new Gemini Omni model in YouTube Shorts Remix and the Create app &lpar;Sanuj Bhatia/Android Central&rpar;](https://www.techmeme.com/260519/p58#a260519p58)
+ - [Google caps off I/O 2026 day one with Android 17 QPR1 Beta 3 release](https://www.androidauthority.com/android-17-qpr1-beta-3-3668880/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
