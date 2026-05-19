@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google introduces Antigravity 2.0, featuring an updated desktop app that lets users orchestrate multiple agents, alongside an Antigravity CLI tool and SDK &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260519/p45#a260519p45)
- - [Peanuts classics, returning series, and a new Snoopy film are all coming to Apple TV](https://appleinsider.com/articles/26/05/19/peanuts-classics-returning-series-and-a-new-snoopy-film-are-all-coming-to-apple-tv?utm_source=rss)
- - [Google says Gemini&#39;s MAUs grew to 900M+ across 230 countries, up from 400M at I/O 2025, and launches Neural Expressive, a new design language for Gemini &lpar;Josh Woodward/The Keyword&rpar;](https://www.techmeme.com/260519/p44#a260519p44)<!-- TECH:END -->
+ - [Google Search on Android now lets you ask AI about any link you open](https://www.androidauthority.com/google-app-android-ai-ask-questions-3668753/)
+ - [Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs](https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/)
+ - [Gemini Voice Capabilities and Gemini Spark Coming to MacOS This Summer](https://www.cnet.com/tech/services-and-software/gemini-spark-is-coming-to-macos-this-summer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
