@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threat actors published 600+ malicious versions to npm as part of the Shai-Hulud supply chain campaign; most of the affected packages are in the @antv ecosystem &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/260519/p62#a260519p62)
- - [Demis Hassabis said this might be the &amp;#8216;foothills of the singularity.&amp;#8217; What?](https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis)
- - [Sources: SpaceX expects to proceed with its acquisition of Cursor 30 days after its public trading debut, which is expected to occur on June 12 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260519/p61#a260519p61)<!-- TECH:END -->
+ - [On-demand manufacturing startup SendCutSend raised $110M co-led by Sequoia, Paradigm, and Stripe co-founders Patrick and John Collison, valuing it at $1B &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260519/p68#a260519p68)
+ - [Google announces updates to Flow and Flow Music: Gemini Omni support, mobile apps, the ability to create custom tools like a video resizer or shaders, and more &lpar;Macy Meyer/CNET&rpar;](https://www.techmeme.com/260519/p67#a260519p67)
+ - [Plex is tripling the price of a lifetime pass to $750 after doubling it last year](https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
