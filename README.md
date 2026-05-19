@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cold but enjoyable](http://9gag.com/gag/aYQ3Q42)
- - ⏩ [Yet she still has reluctance to admit it.](http://9gag.com/gag/a87R7MQ)
- - 👉 [Japan Banzai!](http://9gag.com/gag/aZZ6rV0)<!-- MEMES:END -->
+ - 💣 [Yet she still has reluctance to admit it.](http://9gag.com/gag/a87R7MQ)
+ - ⏩ [Seems like a very dedicated guy](http://9gag.com/gag/avyMyKX)
+ - 👉 [Mixed signals](http://9gag.com/gag/axyLW9n)<!-- MEMES:END -->
 
 ---
 
