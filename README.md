@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [...](http://9gag.com/gag/apR49VD)
- - ⏩ [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)
- - 👉 [What is the correct punishment for that man ?](http://9gag.com/gag/a87RqYd)<!-- MEMES:END -->
+ - 💣 [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)
+ - ⏩ [What is the correct punishment for that man ?](http://9gag.com/gag/a87RqYd)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)<!-- MEMES:END -->
 
 ---
 
