@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes $250 off every 2026 16-inch MacBook Pro it sells](https://appleinsider.com/articles/26/05/19/amazon-slashes-250-off-every-2026-16-inch-macbook-pro-it-sells?utm_source=rss)
- - [Anker SOLIX’s efficient new power station wants to save your fridge’s food from the next blackout](https://www.androidauthority.com/anker-solix-s2000-3668607/)
- - [Sony’s 1000X The Collexion are a luxurious and expensive celebration of its iconic headphones](https://www.theverge.com/tech/933168/sony-1000x-collexion-review)<!-- TECH:END -->
+ - [Sundar Pichai says Google is now processing 3.2 quadrillion tokens per month, up from 480T tokens per month a year ago and 9.7T tokens per month two years ago &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260519/p35#a260519p35)
+ - [The noise-canceling Nothing Headphone A are down to their lowest price to date](https://www.theverge.com/gadgets/932686/nothing-headphone-a-amazon-fire-tv-stick-4k-max-deal-sale)
+ - [New day, new Xperia 1 VIII controversy: How thick is it, really?](https://www.androidauthority.com/xperia-1-viii-thickness-controversy-3668661/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
