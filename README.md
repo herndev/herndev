@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search on Android now lets you ask AI about any link you open](https://www.androidauthority.com/google-app-android-ai-ask-questions-3668753/)
- - [Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs](https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/)
- - [Gemini Voice Capabilities and Gemini Spark Coming to MacOS This Summer](https://www.cnet.com/tech/services-and-software/gemini-spark-is-coming-to-macos-this-summer/)<!-- TECH:END -->
+ - [Here are our favorite Memorial Day tech deals so far](https://www.theverge.com/gadgets/932465/best-memorial-day-sales-deals-2026)
+ - [LIFX Smart Light Bulbs at a record 36% off are a solid pick](https://www.androidauthority.com/lifx-smart-light-bulbs-deal-3668857/)
+ - [Democrats preview how they’d go after the Ticketmaster settlement if they regain power](https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
