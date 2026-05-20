@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was close](http://9gag.com/gag/aryQWVX)
- - ⏩ [`Your suffering is not holding you , You are holding the suffering` --Buddha](http://9gag.com/gag/azxWxqm)
- - 👉 [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)<!-- MEMES:END -->
+ - 💣 [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)
+ - ⏩ [Why is this?](http://9gag.com/gag/aD2K6Q9)
+ - 👉 [Can we have an anime based on this?](http://9gag.com/gag/an7mR5B)<!-- MEMES:END -->
 
 ---
 
