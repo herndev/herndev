@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t like the changes coming to Google Search? Then you’re going to hate this news](https://www.androidauthority.com/google-search-new-ads-3669383/)
- - [Some original Chromecast dongles are no longer working, and nobody knows why](https://www.androidauthority.com/first-gen-chromecast-dongle-failing-for-some-3669414/)
- - [Apple server schematics stolen in May 2026 Foxconn cyberattack, AppleInsider confirms](https://appleinsider.com/articles/26/05/20/apple-servers-schematics-stolen-in-may-2026-foxconn-cyberattack-appleinsider-confirms?utm_source=rss)<!-- TECH:END -->
+ - [AT&amp;T is the first carrier to charge an admin fee for its prepaid plans](https://www.androidauthority.com/att-prepaid-admin-fee-3669457/)
+ - [Nvidia reports Q1 revenue up 85% YoY to $81.6B, Data Center revenue up 92% to $75.2B, and announces an $80B additional share repurchase authorization &lpar;Nvidia Newsroom&rpar;](https://www.techmeme.com/260520/p44#a260520p44)
+ - [Audio that relies too heavily on AI-generated sound won&#39;t be on Apple Music](https://appleinsider.com/articles/26/05/20/audio-that-relies-too-heavily-on-ai-generated-sound-wont-be-on-apple-music?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
