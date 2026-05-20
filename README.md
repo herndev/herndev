@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Media apps in Android Auto are about to get a big design boost](https://www.androidauthority.com/android-auto-media-apps-design-boost-3669035/)
- - [Android 17 takes a big step toward Apple-style ecosystem continuity with ‘Continue On’](https://www.androidauthority.com/android-17-continue-on-3669055/)
- - [Insta360 Mic Pro review: exceptional sound quality for a wireless microphone](https://appleinsider.com/articles/26/05/20/insta360-pro-mic-review-exceptional-sound-quality-for-a-wireless-microphone?utm_source=rss)<!-- TECH:END -->
+ - [Android boss reveals the unsurprising reason Google Glass ended up in the tech graveyard](https://www.androidauthority.com/google-admist-glass-fashion-failure-3669108/)
+ - [Sam Altman says OpenAI offered to invest $2M in tokens in each startup in the current YC batch; a source says the offer is in exchange for equity via SAFE &lpar;Jemima McEvoy/The Information&rpar;](https://www.techmeme.com/260520/p16#a260520p16)
+ - [Google One just got an upgrade I’ve wanted for years, and I couldn’t be happier](https://www.androidauthority.com/youtube-premium-joins-google-one-couldnt-be-happier-3668618/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
