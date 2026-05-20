@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I like turtles](http://9gag.com/gag/amoeWN6)
- - ⏩ [How is this an adult who can vote?](http://9gag.com/gag/amoeAP6)
- - 👉 [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)<!-- MEMES:END -->
+ - 💣 [Swim tip for life](http://9gag.com/gag/aGymLDw)
+ - ⏩ [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)
+ - 👉 [...](http://9gag.com/gag/apR49VD)<!-- MEMES:END -->
 
 ---
 
