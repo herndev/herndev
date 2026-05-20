@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Granta and the Commonwealth Foundation say they can&#39;t determine yet if AI was used to write a prize-winning short story after critics pointed to signs of AI use &lpar;The Guardian&rpar;](https://www.techmeme.com/260520/p42#a260520p42)
- - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
- - [I Gave My OpenClaw Agent a Physical Body](https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/)<!-- TECH:END -->
+ - [Don’t like the changes coming to Google Search? Then you’re going to hate this news](https://www.androidauthority.com/google-search-new-ads-3669383/)
+ - [Some original Chromecast dongles are no longer working, and nobody knows why](https://www.androidauthority.com/first-gen-chromecast-dongle-failing-for-some-3669414/)
+ - [Apple server schematics stolen in May 2026 Foxconn cyberattack, AppleInsider confirms](https://appleinsider.com/articles/26/05/20/apple-servers-schematics-stolen-in-may-2026-foxconn-cyberattack-appleinsider-confirms?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
