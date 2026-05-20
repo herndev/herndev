@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
- - ⏩ [OSHA violation?](http://9gag.com/gag/aAy8QLd)
- - 👉 [That was close](http://9gag.com/gag/aryQWVX)<!-- MEMES:END -->
+ - 💣 [Can we have an anime based on this?](http://9gag.com/gag/an7mR5B)
+ - ⏩ [Swim tip for life](http://9gag.com/gag/aGymLDw)
+ - 👉 [Felling a tree in Austria](http://9gag.com/gag/a2v38zp)<!-- MEMES:END -->
 
 ---
 
