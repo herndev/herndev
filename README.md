@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s latest loyalty perk is a free Pixel 10, but here’s the fine print](https://www.androidauthority.com/t-mobile-free-pixel-10-offer-3669146/)
- - [Exa, which offers a search engine that is designed for AI agents, raised $250M led by a16z at a $2.2B valuation, up from $700M in September 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260520/p26#a260520p26)
- - [Internal memo: Intuit is laying off about 17% of its workforce, or about 3,000 employees worldwide, to streamline operations and focus on its key bets &lpar;Reuters&rpar;](https://www.techmeme.com/260520/p25#a260520p25)<!-- TECH:END -->
+ - [NanoClaw creator NanoCo raised a $12M seed led by Valley Capital and says it is booking enterprise customers; co-founders say they rejected a $20M buyout offer &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260520/p32#a260520p32)
+ - [Variational, which has built a protocol for decentralized derivatives trading aimed at gathering liquidity from traditional markets, raised a $50M Series A &lpar;Jack Kubinec/Fortune&rpar;](https://www.techmeme.com/260520/p31#a260520p31)
+ - [Samsung Electronics and its South Korean labor union reach a preliminary pay deal; the union says it has suspended a general strike and put the deal to a vote &lpar;Reuters&rpar;](https://www.techmeme.com/260520/p30#a260520p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
