@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can we have an anime based on this?](http://9gag.com/gag/an7mR5B)
- - ⏩ [Swim tip for life](http://9gag.com/gag/aGymLDw)
- - 👉 [Felling a tree in Austria](http://9gag.com/gag/a2v38zp)<!-- MEMES:END -->
+ - 💣 [Yes, I understand that there have been no verified attacks in the wild, but you understand what they could do if they wanted too.](http://9gag.com/gag/aLnZLGz)
+ - ⏩ [How much did bro bet](http://9gag.com/gag/aPAExNP)
+ - 👉 [That was close](http://9gag.com/gag/aryQWVX)<!-- MEMES:END -->
 
 ---
 
