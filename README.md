@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found a bug in a poker machine and won half a million dollars. Lawyer said they just pushed buttons. Case dismissed. What a legend](http://9gag.com/gag/aD2K6zO)
- - ⏩ [Can we have an anime based on this?](http://9gag.com/gag/an7mR5B)
+ - 💣 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
+ - ⏩ [How much did bro bet](http://9gag.com/gag/aPAExNP)
  - 👉 [Swim tip for life](http://9gag.com/gag/aGymLDw)<!-- MEMES:END -->
 
 ---
