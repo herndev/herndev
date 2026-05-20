@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insta360 Pro Mic review: exceptional sound quality for a wireless microphone](https://appleinsider.com/articles/26/05/20/insta360-pro-mic-review-exceptional-sound-quality-for-a-wireless-microphone?utm_source=rss)
- - [Google unveils Continue On, a new feature in Android 17 that will let users move tasks between Android devices, similar to Apple&#39;s Handoff feature &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260519/p71#a260519p71)
- - [Kobo finally copies one of Kindle’s biggest ecosystem advantages](https://www.androidauthority.com/kobo-announced-storygraph-integration-3668923/)<!-- TECH:END -->
+ - [Gemini 3.5 Flash costs $1.50 per 1M input tokens and $9 per 1M output tokens, 3x the price of Gemini 3 Flash Preview and 6x the price of Gemini 3.1 Flash-Lite &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260519/p73#a260519p73)
+ - [Boston-based CircuitHub, which manufactures circuit boards based on customers&#39; requirements, raised a $28M Series A led by Plural &lpar;Natalie Breymeyer/Axios&rpar;](https://www.techmeme.com/260519/p72#a260519p72)
+ - [Insta360 Pro Mic review: exceptional sound quality for a wireless microphone](https://appleinsider.com/articles/26/05/20/insta360-pro-mic-review-exceptional-sound-quality-for-a-wireless-microphone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
