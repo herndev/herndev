@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini 3.5 Flash costs $1.50 per 1M input tokens and $9 per 1M output tokens, 3x the price of Gemini 3 Flash Preview and 6x the price of Gemini 3.1 Flash-Lite &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260519/p73#a260519p73)
- - [Boston-based CircuitHub, which manufactures circuit boards based on customers&#39; requirements, raised a $28M Series A led by Plural &lpar;Natalie Breymeyer/Axios&rpar;](https://www.techmeme.com/260519/p72#a260519p72)
- - [Insta360 Pro Mic review: exceptional sound quality for a wireless microphone](https://appleinsider.com/articles/26/05/20/insta360-pro-mic-review-exceptional-sound-quality-for-a-wireless-microphone?utm_source=rss)<!-- TECH:END -->
+ - [GitHub says it&#39;s investigating &quot;unauthorized access&quot; to its internal repositories, and there&#39;s no proof of customer data outside its repositories being impacted &lpar;@github&rpar;](https://www.techmeme.com/260519/p77#a260519p77)
+ - [Q&amp;A with Google SVP James Manyika on AI&#39;s ability to automate tasks versus occupations, his optimism about the labor market despite AI-driven layoffs, and more &lpar;Casey Newton/Platformer&rpar;](https://www.techmeme.com/260519/p76#a260519p76)
+ - [Sources: a draft White House EO would create a &quot;voluntary framework&quot; for AI companies to give government agencies early access to models before public release &lpar;Ashley Gold/Axios&rpar;](https://www.techmeme.com/260519/p75#a260519p75)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
