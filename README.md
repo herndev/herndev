@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based bunch, an AI-native platform for managers and institutional investors to manage the entire fund lifecycle, raised a €30.1M Series B led by Portage &lpar;Rahul Raj/EU-Startups&rpar;](https://www.techmeme.com/260520/p1#a260520p1)
- - [Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds](https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, May 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-may-20/)<!-- TECH:END -->
+ - [Two research papers describe how Google&#39;s Co-Scientist and nonprofit FutureHouse&#39;s AI tools can succeed at drug-retargeting tasks by forming hypotheses &lpar;John Timmer/Ars Technica&rpar;](https://www.techmeme.com/260520/p11#a260520p11)
+ - [Three precedent-setting court rulings in China have said that employers replacing workers with AI is voluntary cost-cutting that does not justify mass layoffs &lpar;Catie Edmondson/New York Times&rpar;](https://www.techmeme.com/260520/p10#a260520p10)
+ - [Sources: Nvidia&#39;s business development group, not its VC arm NVentures, has led much of its ~$90B dealmaking push across 145+ companies over the past 16 months &lpar;Financial Times&rpar;](https://www.techmeme.com/260520/p9#a260520p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
