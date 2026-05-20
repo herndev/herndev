@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [SFM corn material, god bless Japan](http://9gag.com/gag/a2v3MVE)
- - ⏩ [That was close](http://9gag.com/gag/aryQWVX)
+ - 💣 [Swim tip for life](http://9gag.com/gag/aGymLDw)
+ - ⏩ [...](http://9gag.com/gag/apR49VD)
  - 👉 [He is right you know..](http://9gag.com/gag/aE09049)<!-- MEMES:END -->
 
 ---
