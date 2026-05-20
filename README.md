@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GitHub says it&#39;s investigating &quot;unauthorized access&quot; to its internal repositories, and there&#39;s no proof of customer data outside its repositories being impacted &lpar;@github&rpar;](https://www.techmeme.com/260519/p77#a260519p77)
- - [Q&amp;A with Google SVP James Manyika on AI&#39;s ability to automate tasks versus occupations, his optimism about the labor market despite AI-driven layoffs, and more &lpar;Casey Newton/Platformer&rpar;](https://www.techmeme.com/260519/p76#a260519p76)
- - [Sources: a draft White House EO would create a &quot;voluntary framework&quot; for AI companies to give government agencies early access to models before public release &lpar;Ashley Gold/Axios&rpar;](https://www.techmeme.com/260519/p75#a260519p75)<!-- TECH:END -->
+ - [Berlin-based bunch, an AI-native platform for managers and institutional investors to manage the entire fund lifecycle, raised a €30.1M Series B led by Portage &lpar;Rahul Raj/EU-Startups&rpar;](https://www.techmeme.com/260520/p1#a260520p1)
+ - [Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds](https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, May 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-may-20/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
