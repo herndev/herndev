@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)
- - ⏩ [Why is this?](http://9gag.com/gag/aD2K6Q9)
- - 👉 [Can we have an anime based on this?](http://9gag.com/gag/an7mR5B)<!-- MEMES:END -->
+ - 💣 [Found a bug in a poker machine and won half a million dollars. Lawyer said they just pushed buttons. Case dismissed. What a legend](http://9gag.com/gag/aD2K6zO)
+ - ⏩ [Can we have an anime based on this?](http://9gag.com/gag/an7mR5B)
+ - 👉 [Swim tip for life](http://9gag.com/gag/aGymLDw)<!-- MEMES:END -->
 
 ---
 
