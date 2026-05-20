@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Swim tip for life](http://9gag.com/gag/aGymLDw)
- - ⏩ [He is right you know..](http://9gag.com/gag/aE09049)
- - 👉 [SFM corn material, god bless Japan](http://9gag.com/gag/a2v3MVE)<!-- MEMES:END -->
+ - 💣 [SFM corn material, god bless Japan](http://9gag.com/gag/a2v3MVE)
+ - ⏩ [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)
+ - 👉 [Perfect 10/10 GOTY. Ladies and Gentlemen.](http://9gag.com/gag/apR4R8W)<!-- MEMES:END -->
 
 ---
 
