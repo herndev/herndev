@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX just filed for what could be the biggest IPO ever](https://www.theverge.com/business/902219/spacex-ipo-details)
- - [Filing: SpaceX reports 2025 revenue of $18.7B, up 33% YoY, a $4.9B loss, vs. a $791M profit in 2024, and $20.7B in capital expenditures, up from $11.2B &lpar;New York Times&rpar;](https://www.techmeme.com/260520/p48#a260520p48)
- - [More portable gaming goodness? AYANEO confirms new product reveals this week](https://www.androidauthority.com/ayaneo-sharing-session-for-new-handhelds-3669550/)<!-- TECH:END -->
+ - [The Best Outdoor Deals From the REI Anniversary Sale 2026](https://www.wired.com/story/rei-anniversary-sale-2026/)
+ - [A Bipartisan Amendment Would End Police License Plate Tracking Nationwide](https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/)
+ - [SpaceX S-1: Anthropic is paying SpaceX $1.25B/mo. until May 2029 under their compute deal; Anthropic says it&#39;s expanding the deal to include Colossus 2 capacity &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260520/p49#a260520p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
