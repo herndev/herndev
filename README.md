@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facts](http://9gag.com/gag/aLnZL9A)
- - ⏩ [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)
- - 👉 [Mixed signals](http://9gag.com/gag/axyLW9n)<!-- MEMES:END -->
+ - 💣 [SFM corn material, god bless Japan](http://9gag.com/gag/a2v3MVE)
+ - ⏩ [That was close](http://9gag.com/gag/aryQWVX)
+ - 👉 [He is right you know..](http://9gag.com/gag/aE09049)<!-- MEMES:END -->
 
 ---
 
