@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Swim tip for life](http://9gag.com/gag/aGymLDw)
- - ⏩ [That was close](http://9gag.com/gag/aryQWVX)
- - 👉 [How much did bro bet](http://9gag.com/gag/aPAExNP)<!-- MEMES:END -->
+ - 💣 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
+ - ⏩ [OSHA violation?](http://9gag.com/gag/aAy8QLd)
+ - 👉 [That was close](http://9gag.com/gag/aryQWVX)<!-- MEMES:END -->
 
 ---
 
