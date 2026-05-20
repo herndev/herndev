@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic and OpenAI take their beef to the midterm elections](https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores)
- - [Samsung’s giant art TV is $1,500 off until midnight](https://www.androidauthority.com/samsung-85-inch-frame-pro-tv-deal-3669364/)
- - [Vibe coding is coming to your phone](https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts)<!-- TECH:END -->
+ - [Granta and the Commonwealth Foundation say they can&#39;t determine yet if AI was used to write a prize-winning short story after critics pointed to signs of AI use &lpar;The Guardian&rpar;](https://www.techmeme.com/260520/p42#a260520p42)
+ - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
+ - [I Gave My OpenClaw Agent a Physical Body](https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
