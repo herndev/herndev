@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
- - ⏩ [How much did bro bet](http://9gag.com/gag/aPAExNP)
- - 👉 [Swim tip for life](http://9gag.com/gag/aGymLDw)<!-- MEMES:END -->
+ - 💣 [Swim tip for life](http://9gag.com/gag/aGymLDw)
+ - ⏩ [That was close](http://9gag.com/gag/aryQWVX)
+ - 👉 [How much did bro bet](http://9gag.com/gag/aPAExNP)<!-- MEMES:END -->
 
 ---
 
