@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [SFM corn material, god bless Japan](http://9gag.com/gag/a2v3MVE)
- - ⏩ [Stackable chairs](http://9gag.com/gag/aryQW06)
- - 👉 [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)<!-- MEMES:END -->
+ - 💣 [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)
+ - ⏩ [SFM corn material, god bless Japan](http://9gag.com/gag/a2v3MVE)
+ - 👉 [Swim tip for life](http://9gag.com/gag/aGymLDw)<!-- MEMES:END -->
 
 ---
 
