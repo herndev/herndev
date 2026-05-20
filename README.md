@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Mark Zuckerberg told employees that he does not expect more company-wide layoffs this year &lpar;Katie Paul/Reuters&rpar;](https://www.techmeme.com/260520/p36#a260520p36)
- - [Xbox hires game industry analyst Matthew Ball to lead strategy](https://www.theverge.com/report/934687/xbox-matthew-ball-strategy-officer-hire)
- - [Google Search’s AI evolution includes more ads](https://www.theverge.com/tech/934585/google-ai-shopping-ads-search)<!-- TECH:END -->
+ - [Anthropic and OpenAI take their beef to the midterm elections](https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores)
+ - [Samsung’s giant art TV is $1,500 off until midnight](https://www.androidauthority.com/samsung-85-inch-frame-pro-tv-deal-3669364/)
+ - [Vibe coding is coming to your phone](https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
