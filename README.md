@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two research papers describe how Google&#39;s Co-Scientist and nonprofit FutureHouse&#39;s AI tools can succeed at drug-retargeting tasks by forming hypotheses &lpar;John Timmer/Ars Technica&rpar;](https://www.techmeme.com/260520/p11#a260520p11)
- - [Three precedent-setting court rulings in China have said that employers replacing workers with AI is voluntary cost-cutting that does not justify mass layoffs &lpar;Catie Edmondson/New York Times&rpar;](https://www.techmeme.com/260520/p10#a260520p10)
- - [Sources: Nvidia&#39;s business development group, not its VC arm NVentures, has led much of its ~$90B dealmaking push across 145+ companies over the past 16 months &lpar;Financial Times&rpar;](https://www.techmeme.com/260520/p9#a260520p9)<!-- TECH:END -->
+ - [Media apps in Android Auto are about to get a big design boost](https://www.androidauthority.com/android-auto-media-apps-design-boost-3669035/)
+ - [Android 17 takes a big step toward Apple-style ecosystem continuity with ‘Continue On’](https://www.androidauthority.com/android-17-continue-on-3669055/)
+ - [Insta360 Mic Pro review: exceptional sound quality for a wireless microphone](https://appleinsider.com/articles/26/05/20/insta360-pro-mic-review-exceptional-sound-quality-for-a-wireless-microphone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
