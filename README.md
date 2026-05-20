@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [On-demand manufacturing startup SendCutSend raised $110M co-led by Sequoia, Paradigm, and Stripe co-founders Patrick and John Collison, valuing it at $1B &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260519/p68#a260519p68)
- - [Google announces updates to Flow and Flow Music: Gemini Omni support, mobile apps, the ability to create custom tools like a video resizer or shaders, and more &lpar;Macy Meyer/CNET&rpar;](https://www.techmeme.com/260519/p67#a260519p67)
- - [Plex is tripling the price of a lifetime pass to $750 after doubling it last year](https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike)<!-- TECH:END -->
+ - [Insta360 Pro Mic review: exceptional sound quality for a wireless microphone](https://appleinsider.com/articles/26/05/20/insta360-pro-mic-review-exceptional-sound-quality-for-a-wireless-microphone?utm_source=rss)
+ - [Google unveils Continue On, a new feature in Android 17 that will let users move tasks between Android devices, similar to Apple&#39;s Handoff feature &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260519/p71#a260519p71)
+ - [Kobo finally copies one of Kindle’s biggest ecosystem advantages](https://www.androidauthority.com/kobo-announced-storygraph-integration-3668923/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
