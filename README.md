@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This long-running PS1 emulator for Android just got Google Drive support](https://www.androidauthority.com/ps1-emulator-epsxe-google-drive-3669165/)
- - [Circle cofounder Sean Neville&#39;s Catena Labs, which lets users set financial guardrails for AI agents, raised a $30M Series A and applies for a US bank charter &lpar;Ben Weiss/Fortune&rpar;](https://www.techmeme.com/260520/p23#a260520p23)
- - [Ride1Up Roadster Review &lpar;2026&rpar;: An Ebike That Feels Like a Bike](https://www.wired.com/review/ride1up-roadster-ebike-review/)<!-- TECH:END -->
+ - [T-Mobile’s latest loyalty perk is a free Pixel 10, but here’s the fine print](https://www.androidauthority.com/t-mobile-free-pixel-10-offer-3669146/)
+ - [Exa, which offers a search engine that is designed for AI agents, raised $250M led by a16z at a $2.2B valuation, up from $700M in September 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260520/p26#a260520p26)
+ - [Internal memo: Intuit is laying off about 17% of its workforce, or about 3,000 employees worldwide, to streamline operations and focus on its key bets &lpar;Reuters&rpar;](https://www.techmeme.com/260520/p25#a260520p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
