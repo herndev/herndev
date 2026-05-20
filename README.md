@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is right you know..](http://9gag.com/gag/aE09049)
- - ⏩ [That was close](http://9gag.com/gag/aryQWVX)
+ - 💣 [How does one achieve this build](http://9gag.com/gag/aLnZ1y6)
+ - ⏩ [`Your suffering is not holding you , You are holding the suffering` --Buddha](http://9gag.com/gag/azxWxqm)
  - 👉 [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)<!-- MEMES:END -->
 
 ---
