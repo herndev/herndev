@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Swim tip for life](http://9gag.com/gag/aGymLDw)
+ - 💣 [Facts](http://9gag.com/gag/aLnZL9A)
  - ⏩ [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)
- - 👉 [...](http://9gag.com/gag/apR49VD)<!-- MEMES:END -->
+ - 👉 [Mixed signals](http://9gag.com/gag/axyLW9n)<!-- MEMES:END -->
 
 ---
 
