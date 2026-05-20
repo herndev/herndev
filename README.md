@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android boss reveals the unsurprising reason Google Glass ended up in the tech graveyard](https://www.androidauthority.com/google-admist-glass-fashion-failure-3669108/)
- - [Sam Altman says OpenAI offered to invest $2M in tokens in each startup in the current YC batch; a source says the offer is in exchange for equity via SAFE &lpar;Jemima McEvoy/The Information&rpar;](https://www.techmeme.com/260520/p16#a260520p16)
- - [Google One just got an upgrade I’ve wanted for years, and I couldn’t be happier](https://www.androidauthority.com/youtube-premium-joins-google-one-couldnt-be-happier-3668618/)<!-- TECH:END -->
+ - [Cloud provider Railway says Google Cloud temporarily suspended its account without cause; in 2024, GCP deleted the account of an Australian pension fund &lpar;The Register&rpar;](https://www.techmeme.com/260520/p21#a260520p21)
+ - [This Kindle competitor just shrunk one of its biggest advantages](https://www.androidauthority.com/kobo-introduces-price-hikes-3669169/)
+ - [How to Upgrade Weber and Kamado Joe Into Smart Grills](https://www.wired.com/story/how-to-make-dumb-grills-into-smart-grills/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
