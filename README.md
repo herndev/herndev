@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX S-1: xAI had a $6.4B operating loss on $3.2B in revenue in 2025; Grok and X had 550M MAUs combined as of March 2026, and 117M used Grok&#39;s AI features &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260520/p50#a260520p50)
  - [The Best Outdoor Deals From the REI Anniversary Sale 2026](https://www.wired.com/story/rei-anniversary-sale-2026/)
- - [A Bipartisan Amendment Would End Police License Plate Tracking Nationwide](https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/)
- - [SpaceX S-1: Anthropic is paying SpaceX $1.25B/mo. until May 2029 under their compute deal; Anthropic says it&#39;s expanding the deal to include Colossus 2 capacity &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260520/p49#a260520p49)<!-- TECH:END -->
+ - [A Bipartisan Amendment Would End Police License Plate Tracking Nationwide](https://www.wired.com/story/a-bipartisan-amendment-would-end-police-license-plate-tracking-nationwide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
