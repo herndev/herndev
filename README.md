@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloud provider Railway says Google Cloud temporarily suspended its account without cause; in 2024, GCP deleted the account of an Australian pension fund &lpar;The Register&rpar;](https://www.techmeme.com/260520/p21#a260520p21)
- - [This Kindle competitor just shrunk one of its biggest advantages](https://www.androidauthority.com/kobo-introduces-price-hikes-3669169/)
- - [How to Upgrade Weber and Kamado Joe Into Smart Grills](https://www.wired.com/story/how-to-make-dumb-grills-into-smart-grills/)<!-- TECH:END -->
+ - [This long-running PS1 emulator for Android just got Google Drive support](https://www.androidauthority.com/ps1-emulator-epsxe-google-drive-3669165/)
+ - [Circle cofounder Sean Neville&#39;s Catena Labs, which lets users set financial guardrails for AI agents, raised a $30M Series A and applies for a US bank charter &lpar;Ben Weiss/Fortune&rpar;](https://www.techmeme.com/260520/p23#a260520p23)
+ - [Ride1Up Roadster Review &lpar;2026&rpar;: An Ebike That Feels Like a Bike](https://www.wired.com/review/ride1up-roadster-ebike-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
