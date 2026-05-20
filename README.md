@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T is the first carrier to charge an admin fee for its prepaid plans](https://www.androidauthority.com/att-prepaid-admin-fee-3669457/)
- - [Nvidia reports Q1 revenue up 85% YoY to $81.6B, Data Center revenue up 92% to $75.2B, and announces an $80B additional share repurchase authorization &lpar;Nvidia Newsroom&rpar;](https://www.techmeme.com/260520/p44#a260520p44)
- - [Audio that relies too heavily on AI-generated sound won&#39;t be on Apple Music](https://appleinsider.com/articles/26/05/20/audio-that-relies-too-heavily-on-ai-generated-sound-wont-be-on-apple-music?utm_source=rss)<!-- TECH:END -->
+ - [SpaceX just filed for what could be the biggest IPO ever](https://www.theverge.com/business/902219/spacex-ipo-details)
+ - [Filing: SpaceX reports 2025 revenue of $18.7B, up 33% YoY, a $4.9B loss, vs. a $791M profit in 2024, and $20.7B in capital expenditures, up from $11.2B &lpar;New York Times&rpar;](https://www.techmeme.com/260520/p48#a260520p48)
+ - [More portable gaming goodness? AYANEO confirms new product reveals this week](https://www.androidauthority.com/ayaneo-sharing-session-for-new-handhelds-3669550/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
