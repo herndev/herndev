@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How does one achieve this build](http://9gag.com/gag/aLnZ1y6)
- - ⏩ [`Your suffering is not holding you , You are holding the suffering` --Buddha](http://9gag.com/gag/azxWxqm)
- - 👉 [Posting memes I found on my smartphone until I get bored or die #1575](http://9gag.com/gag/a1mym28)<!-- MEMES:END -->
+ - 💣 [I like turtles](http://9gag.com/gag/amoeWN6)
+ - ⏩ [How is this an adult who can vote?](http://9gag.com/gag/amoeAP6)
+ - 👉 [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)<!-- MEMES:END -->
 
 ---
 
