@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NanoClaw creator NanoCo raised a $12M seed led by Valley Capital and says it is booking enterprise customers; co-founders say they rejected a $20M buyout offer &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260520/p32#a260520p32)
- - [Variational, which has built a protocol for decentralized derivatives trading aimed at gathering liquidity from traditional markets, raised a $50M Series A &lpar;Jack Kubinec/Fortune&rpar;](https://www.techmeme.com/260520/p31#a260520p31)
- - [Samsung Electronics and its South Korean labor union reach a preliminary pay deal; the union says it has suspended a general strike and put the deal to a vote &lpar;Reuters&rpar;](https://www.techmeme.com/260520/p30#a260520p30)<!-- TECH:END -->
+ - [Internal memo: Mark Zuckerberg told employees that he does not expect more company-wide layoffs this year &lpar;Katie Paul/Reuters&rpar;](https://www.techmeme.com/260520/p36#a260520p36)
+ - [Xbox hires game industry analyst Matthew Ball to lead strategy](https://www.theverge.com/report/934687/xbox-matthew-ball-strategy-officer-hire)
+ - [Google Search’s AI evolution includes more ads](https://www.theverge.com/tech/934585/google-ai-shopping-ads-search)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
