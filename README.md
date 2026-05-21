@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take your time](http://9gag.com/gag/adBGOND)
- - ⏩ [Balkan Drift](http://9gag.com/gag/aryQWOd)
- - 👉 [Pretty sure that sport could be my new passion - the fact that it&#39;s called bobsleigh instead of bobsledge bothers me more than it should.](http://9gag.com/gag/aE09MrO)<!-- MEMES:END -->
+ - 💣 [Felling a tree in Austria](http://9gag.com/gag/a2v38zp)
+ - ⏩ [Take your time](http://9gag.com/gag/adBGOND)
+ - 👉 [I like turtles](http://9gag.com/gag/amoeWN6)<!-- MEMES:END -->
 
 ---
 
