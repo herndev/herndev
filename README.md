@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)
- - ⏩ [The truth will let you breathe.](http://9gag.com/gag/agmD1nK)
- - 👉 [A guy accidentally pressed the Emergency button as he tripped down the stairs.](http://9gag.com/gag/ayNb4vr)<!-- MEMES:END -->
+ - 💣 [Girls](http://9gag.com/gag/aLnZzGW)
+ - ⏩ [Honestly in the truest sense, good for her](http://9gag.com/gag/aQzL7De)
+ - 👉 [Title](http://9gag.com/gag/a346A5e)<!-- MEMES:END -->
 
 ---
 
