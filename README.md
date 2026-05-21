@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S27 Pro might bring a Pro-tier camera setup after all](https://www.androidauthority.com/samsung-galaxy-s27-pro-camera-leak-3669703/)
- - [Jeff Bezos dismisses AI job fears, defends billionaires against &quot;vilification&quot;, proposes eliminating income taxes for low earners, and praises President Trump &lpar;CNBC&rpar;](https://www.techmeme.com/260521/p10#a260521p10)
- - [Survey reveals Lifetime Plex Pass’ popularity, and I am as surprised as you are](https://www.androidauthority.com/pay-for-plex-lifetime-pass-poll-results-3669670/)<!-- TECH:END -->
+ - [GitHub links the breach of 3,800 internal repositories to the TanStack npm supply-chain attack, saying hackers used a malicious Nx Console VS Code extension &lpar;Sergiu Gatlan/BleepingComputer&rpar;](https://www.techmeme.com/260521/p17#a260521p17)
+ - [AI music labels &amp; spam prevention in Apple Music aim to keep things &#39;fair&#39;](https://appleinsider.com/articles/26/05/20/audio-that-relies-too-heavily-on-ai-generated-sound-wont-be-on-apple-music?utm_source=rss)
+ - [5 Best Android Tablets in 2026: OnePlus, Lenovo, and Pixel Compared](https://www.wired.com/story/the-best-android-tablets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
