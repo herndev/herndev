@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
- - ⏩ [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)
- - 👉 [European tourists visiting California](http://9gag.com/gag/aND79Dv)<!-- MEMES:END -->
+ - 💣 [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)
+ - ⏩ [European tourists visiting California](http://9gag.com/gag/aND79Dv)
+ - 👉 [If you&#39;re not outraged at this, you&#39;re not human](http://9gag.com/gag/abANOXv)<!-- MEMES:END -->
 
 ---
 
