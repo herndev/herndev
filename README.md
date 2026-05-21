@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Felling a tree in Austria](http://9gag.com/gag/a2v38zp)
- - ⏩ [Take your time](http://9gag.com/gag/adBGOND)
- - 👉 [I like turtles](http://9gag.com/gag/amoeWN6)<!-- MEMES:END -->
+ - ⏩ [My inner monologue when I see extreme sports](http://9gag.com/gag/a9yx6EK)
+ - 👉 [Take your time](http://9gag.com/gag/adBGOND)<!-- MEMES:END -->
 
 ---
 
