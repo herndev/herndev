@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [SFM corn material, god bless Japan](http://9gag.com/gag/a2v3MVE)
- - ⏩ [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
+ - 💣 [Take your time](http://9gag.com/gag/adBGOND)
+ - ⏩ [Balkan Drift](http://9gag.com/gag/aryQWOd)
  - 👉 [Pretty sure that sport could be my new passion - the fact that it&#39;s called bobsleigh instead of bobsledge bothers me more than it should.](http://9gag.com/gag/aE09MrO)<!-- MEMES:END -->
 
 ---
