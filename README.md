@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes, I understand that there have been no verified attacks in the wild, but you understand what they could do if they wanted too.](http://9gag.com/gag/aLnZLGz)
- - ⏩ [How much did bro bet](http://9gag.com/gag/aPAExNP)
- - 👉 [That was close](http://9gag.com/gag/aryQWVX)<!-- MEMES:END -->
+ - 💣 [Pretty sure that sport could be my new passion - the fact that it&#39;s called bobsleigh instead of bobsledge bothers me more than it should.](http://9gag.com/gag/aE09MrO)
+ - ⏩ [He is right you know..](http://9gag.com/gag/aE09049)
+ - 👉 [SFM corn material, god bless Japan](http://9gag.com/gag/a2v3MVE)<!-- MEMES:END -->
 
 ---
 
