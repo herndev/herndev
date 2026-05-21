@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OSHA violation?](http://9gag.com/gag/aAy8QLd)
- - ⏩ [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
- - 👉 [Longest route home](http://9gag.com/gag/aND7vy3)<!-- MEMES:END -->
+ - 💣 [The truth will let you breathe.](http://9gag.com/gag/agmD1nK)
+ - ⏩ [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)
+ - 👉 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)<!-- MEMES:END -->
 
 ---
 
