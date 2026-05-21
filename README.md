@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
- - ⏩ [Dude wasn\u2019t acting. It was all real for him](http://9gag.com/gag/ae9n1om)
- - 👉 [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)<!-- MEMES:END -->
+ - 💣 [Just some cute saved stuff, from me to you](http://9gag.com/gag/awyEmLQ)
+ - ⏩ [Marriage in a nutshell](http://9gag.com/gag/aE09Vbn)
+ - 👉 [Dude wasn\u2019t acting. It was all real for him](http://9gag.com/gag/ae9n1om)<!-- MEMES:END -->
 
 ---
 
