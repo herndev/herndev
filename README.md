@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The truth will let you breathe.](http://9gag.com/gag/agmD1nK)
- - ⏩ [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)
- - 👉 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)<!-- MEMES:END -->
+ - 💣 [A guy accidentally pressed the Emergency button as he tripped down the stairs.](http://9gag.com/gag/ayNb4vr)
+ - ⏩ [The truth will let you breathe.](http://9gag.com/gag/agmD1nK)
+ - 👉 [Girls](http://9gag.com/gag/aLnZzGW)<!-- MEMES:END -->
 
 ---
 
