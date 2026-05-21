@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX S-1: xAI plans to buy another $2.8B worth of turbines for its data centers, including a $2B deal for mobile gas turbines, the type it&#39;s being sued over &lpar;Tim De Chant/TechCrunch&rpar;](https://www.techmeme.com/260520/p51#a260520p51)
- - [SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers](https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/)
- - [Phone Carriers Offer eSIM Plans in the US for World Cup Travelers From Abroad](https://www.cnet.com/tech/mobile/carriers-esim-mobile-plans-for-world-cup-travelers-to-us/)<!-- TECH:END -->
+ - [The Hypershell X Series brings end-to-end AI motion control to wearable exoskeletons](https://www.androidauthority.com/new-hypershell-x-series-3668529/)
+ - [SpaceX S-1: Starlink had 10.3M subscribers in Q1 2026, a 105% increase YoY; SpaceX&#39;s &quot;Connectivity&quot; business, which is primarily Starlink, made $11.3B in 2025 &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/260520/p53#a260520p53)
+ - [SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing](https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
