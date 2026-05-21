@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jensen Huang said that Nvidia has &quot;largely conceded&quot; China&#39;s AI chip market to Huawei and should &quot;expect nothing&quot; regarding chip sale approvals to China &lpar;Lee Ying Shan/CNBC&rpar;](https://www.techmeme.com/260520/p55#a260520p55)
- - [Filing: SpaceX set aside $530M for potential litigation losses, including lawsuits involving Grok&#39;s &quot;Spicy&quot; mode, which it described as a &quot;heightened risk&quot; &lpar;Wired&rpar;](https://www.techmeme.com/260520/p54#a260520p54)
- - [The Hypershell X Series brings end-to-end AI motion control to wearable exoskeletons](https://www.androidauthority.com/new-hypershell-x-series-3668529/)<!-- TECH:END -->
+ - [Ofcom says Meta, Snap, and Roblox will adopt stronger anti-grooming measures, while TikTok and YouTube &quot;failed to commit to any significant changes&quot; &lpar;Ofcom&rpar;](https://www.techmeme.com/260521/p1#a260521p1)
+ - [In SpaceX’s IPO, Elon Musk is a risk factor](https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor)
+ - [AMD says its Mac Mini-sized Ryzen AI Halo PC starts at $3,999 with Ryzen AI Max 300 chips, for pre-order in June, and unveils AI Max 400 chips, available in Q3 &lpar;Devindra Hardawar/Engadget&rpar;](https://www.techmeme.com/260520/p57#a260520p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
