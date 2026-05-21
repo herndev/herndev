@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify closes up 13% after announcing new features and 2030 guidance, forecasting a compound annual growth rate in the mid-teens and gross margins of 35%-40% &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260521/p44#a260521p44)
- - [Zoom reports Q1 revenue up 5.5% YoY to $1.24B, vs. $1.22B est., AI Companion paid users up 184%, forecasts FY 2027 revenue above est.; ZM jumps 8%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260521/p43#a260521p43)
- - [Take-Two reports Q4 bookings flat YoY at $1.58B, forecasts FY 2027 bookings below est., reiterates GTA VI&#39;s November 19 launch date; TTWO jumps 6%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](https://www.techmeme.com/260521/p42#a260521p42)<!-- TECH:END -->
+ - [Spotify is letting creators build Patreon-style memberships inside the app](https://www.androidauthority.com/spotify-memberships-announced-3669978/)
+ - [After failed delays, Apple files formal request with Supreme Court to review Epic case](https://appleinsider.com/articles/26/05/21/after-failed-delays-apple-files-formal-request-with-supreme-court-to-review-epic-case?utm_source=rss)
+ - [What to Do in LA if You’re Here for Business &lpar;2025&rpar;](https://www.wired.com/story/los-angeles-tech-travel-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
