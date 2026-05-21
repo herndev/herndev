@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify and UMG plan to let Premium users create AI covers and remixes using music from participating UMG artists as a paid add-on, without giving a launch date &lpar;Jem Aswad/Variety&rpar;](https://www.techmeme.com/260521/p30#a260521p30)
- - [Meta and Google get data from the app your boss uses to track you](https://www.theverge.com/policy/935299/bossware-employer-surveillance)
- - [Google wants Gemini in every home, so it’s giving away the blueprints](https://www.androidauthority.com/google-gemini-for-home-blueprints-3669646/)<!-- TECH:END -->
+ - [Sonos’s pint-sized Roam 2 speaker is 25 percent off for Memorial Day](https://www.theverge.com/gadgets/935452/sonos-roam-2-bluetooth-speaker-memorial-day-2026-deal-sale)
+ - [The Pixel Watch has an annoying new bug for cyclists](https://www.androidauthority.com/pixel-watch-biking-data-not-saving-3669863/)
+ - [Discord just made your calls more private, but users still aren’t happy](https://www.androidauthority.com/discord-video-voice-calls-encrypted-3669843/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
