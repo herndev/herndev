@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Several brand-new Razr devices are free right now, but one offer really stands out](https://www.androidauthority.com/razr-us-carrier-deals-3669916/)
- - [Sources: the EU will propose temporarily lifting sanctions, imposed in April, on a major Chinese semiconductor supplier after automakers warned of shortages &lpar;Alberto Nardelli/Bloomberg&rpar;](https://www.techmeme.com/260521/p34#a260521p34)
- - [Mustard Made Storage Lockers Are on a Rare Sale Through May 31](https://www.wired.com/story/mustard-made-sale/)<!-- TECH:END -->
+ - [Upgrade your gaming with this $199.99 Samsung Odyssey G5 deal](https://www.androidauthority.com/samsung-odyssey-g5-monitor-deal-3669938/)
+ - [Insta360 X4 Creator Bundle hits record low price in time for summer](https://www.androidauthority.com/insta360-x4-creator-bundle-deal-3669932/)
+ - [Modal Labs, which offers a serverless cloud platform to build AI apps and run AI inference, raised a $355M Series C at a $4.65B valuation, up from $1.1B in 2025 &lpar;Deepa Seetharaman/Reuters&rpar;](https://www.techmeme.com/260521/p37#a260521p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
