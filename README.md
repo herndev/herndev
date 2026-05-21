@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 QPR1 Beta 3 reveals new screenshot buttons, likely for Aluminium OS](https://www.androidauthority.com/android-17-screenshot-overlay-new-buttons-apk-teardown-3669650/)
- - [Trump Phone unboxed: A few extras we miss from Google and Samsung phones](https://www.androidauthority.com/trump-phone-unboxing-3669630/)
- - [Googlebooks could inherit a Chromebook problem even before they launch](https://www.androidauthority.com/kansas-city-schools-macbook-neo-vs-chromebooks-3669636/)<!-- TECH:END -->
+ - [The Galaxy S27 Pro might bring a Pro-tier camera setup after all](https://www.androidauthority.com/samsung-galaxy-s27-pro-camera-leak-3669703/)
+ - [Jeff Bezos dismisses AI job fears, defends billionaires against &quot;vilification&quot;, proposes eliminating income taxes for low earners, and praises President Trump &lpar;CNBC&rpar;](https://www.techmeme.com/260521/p10#a260521p10)
+ - [Survey reveals Lifetime Plex Pass’ popularity, and I am as surprised as you are](https://www.androidauthority.com/pay-for-plex-lifetime-pass-poll-results-3669670/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
