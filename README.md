@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Felling a tree in Austria](http://9gag.com/gag/a2v38zp)
- - ⏩ [My inner monologue when I see extreme sports](http://9gag.com/gag/a9yx6EK)
- - 👉 [Take your time](http://9gag.com/gag/adBGOND)<!-- MEMES:END -->
+ - 💣 [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)
+ - ⏩ [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
+ - 👉 [If you&#39;re not outraged at this, you&#39;re not human](http://9gag.com/gag/abANOXv)<!-- MEMES:END -->
 
 ---
 
