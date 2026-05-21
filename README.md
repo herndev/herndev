@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Girls](http://9gag.com/gag/aLnZzGW)
- - ⏩ [Honestly in the truest sense, good for her](http://9gag.com/gag/aQzL7De)
- - 👉 [Title](http://9gag.com/gag/a346A5e)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/a346A5e)
+ - ⏩ [Easy Japanese](http://9gag.com/gag/ae9nZ4O)
+ - 👉 [Experienced Trainee](http://9gag.com/gag/a2v38nw)<!-- MEMES:END -->
 
 ---
 
