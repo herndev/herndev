@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just some cute saved stuff, from me to you](http://9gag.com/gag/awyEmLQ)
- - ⏩ [Marriage in a nutshell](http://9gag.com/gag/aE09Vbn)
- - 👉 [Dude wasn\u2019t acting. It was all real for him](http://9gag.com/gag/ae9n1om)<!-- MEMES:END -->
+ - 💣 [OSHA violation?](http://9gag.com/gag/aAy8QLd)
+ - ⏩ [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
+ - 👉 [Longest route home](http://9gag.com/gag/aND7vy3)<!-- MEMES:END -->
 
 ---
 
