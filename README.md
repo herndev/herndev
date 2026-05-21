@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta joins TikTok, Snap, and YouTube in settling with a Kentucky school district to avoid a trial over claims the platforms were designed to addict kids &lpar;Erin Mulvaney/Wall Street Journal&rpar;](https://www.techmeme.com/260521/p39#a260521p39)
- - [Best Window Air Conditioners of 2026: Midea, Zafro, GE](https://www.wired.com/gallery/best-window-air-conditioners/)
- - [iPhone Crash Detection saved the day after driver&#39;s 330ft mountain drop](https://appleinsider.com/articles/26/05/21/iphone-crash-detection-saved-the-day-after-drivers-330ft-mountain-drop?utm_source=rss)<!-- TECH:END -->
+ - [Spotify closes up 13% after announcing new features and 2030 guidance, forecasting a compound annual growth rate in the mid-teens and gross margins of 35%-40% &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260521/p44#a260521p44)
+ - [Zoom reports Q1 revenue up 5.5% YoY to $1.24B, vs. $1.22B est., AI Companion paid users up 184%, forecasts FY 2027 revenue above est.; ZM jumps 8%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260521/p43#a260521p43)
+ - [Take-Two reports Q4 bookings flat YoY at $1.58B, forecasts FY 2027 bookings below est., reiterates GTA VI&#39;s November 19 launch date; TTWO jumps 6%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](https://www.techmeme.com/260521/p42#a260521p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
