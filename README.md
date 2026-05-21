@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)
- - ⏩ [European tourists visiting California](http://9gag.com/gag/aND79Dv)
- - 👉 [If you&#39;re not outraged at this, you&#39;re not human](http://9gag.com/gag/abANOXv)<!-- MEMES:END -->
+ - 💣 [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
+ - ⏩ [Dude wasn\u2019t acting. It was all real for him](http://9gag.com/gag/ae9n1om)
+ - 👉 [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)<!-- MEMES:END -->
 
 ---
 
