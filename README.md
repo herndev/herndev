@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GitHub links the breach of 3,800 internal repositories to the TanStack npm supply-chain attack, saying hackers used a malicious Nx Console VS Code extension &lpar;Sergiu Gatlan/BleepingComputer&rpar;](https://www.techmeme.com/260521/p17#a260521p17)
- - [AI music labels &amp; spam prevention in Apple Music aim to keep things &#39;fair&#39;](https://appleinsider.com/articles/26/05/20/audio-that-relies-too-heavily-on-ai-generated-sound-wont-be-on-apple-music?utm_source=rss)
- - [5 Best Android Tablets in 2026: OnePlus, Lenovo, and Pixel Compared](https://www.wired.com/story/the-best-android-tablets/)<!-- TECH:END -->
+ - [The new Flipper One is a pocket-sized Linux computer](https://www.theverge.com/tech/935202/flipper-devices-one-zero-wireless-multi-tool-linux-open-source-computer)
+ - [Sources: Anthropic is in talks to rent servers powered by Microsoft-designed chips; source: Anthropic has steadily increased its Azure usage since November 2025 &lpar;The Information&rpar;](https://www.techmeme.com/260521/p20#a260521p20)
+ - [AT&amp;T now lets you build your own phone plan, starting at $15 a month](https://www.androidauthority.com/att-build-a-plan-3669672/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
