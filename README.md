@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was close](http://9gag.com/gag/aryQWVX)
- - ⏩ [Dude wasn\u2019t acting. It was all real for him](http://9gag.com/gag/ae9n1om)
- - 👉 [OSHA violation?](http://9gag.com/gag/aAy8QLd)<!-- MEMES:END -->
+ - 💣 [SFM corn material, god bless Japan](http://9gag.com/gag/a2v3MVE)
+ - ⏩ [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
+ - 👉 [Pretty sure that sport could be my new passion - the fact that it&#39;s called bobsleigh instead of bobsledge bothers me more than it should.](http://9gag.com/gag/aE09MrO)<!-- MEMES:END -->
 
 ---
 
