@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)
- - ⏩ [Help me. Do you have any idea?](http://9gag.com/gag/amoeWKX)
- - 👉 [If you&#39;re not outraged at this, you&#39;re not human](http://9gag.com/gag/abANOXv)<!-- MEMES:END -->
+ - 💣 [Elementary my dear watson](http://9gag.com/gag/aW4rpgd)
+ - ⏩ [European tourists visiting California](http://9gag.com/gag/aND79Dv)
+ - 👉 [OSHA violation?](http://9gag.com/gag/aAy8QLd)<!-- MEMES:END -->
 
 ---
 
