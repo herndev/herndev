@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upgrade your gaming with this $199.99 Samsung Odyssey G5 deal](https://www.androidauthority.com/samsung-odyssey-g5-monitor-deal-3669938/)
- - [Insta360 X4 Creator Bundle hits record low price in time for summer](https://www.androidauthority.com/insta360-x4-creator-bundle-deal-3669932/)
- - [Modal Labs, which offers a serverless cloud platform to build AI apps and run AI inference, raised a $355M Series C at a $4.65B valuation, up from $1.1B in 2025 &lpar;Deepa Seetharaman/Reuters&rpar;](https://www.techmeme.com/260521/p37#a260521p37)<!-- TECH:END -->
+ - [Meta joins TikTok, Snap, and YouTube in settling with a Kentucky school district to avoid a trial over claims the platforms were designed to addict kids &lpar;Erin Mulvaney/Wall Street Journal&rpar;](https://www.techmeme.com/260521/p39#a260521p39)
+ - [Best Window Air Conditioners of 2026: Midea, Zafro, GE](https://www.wired.com/gallery/best-window-air-conditioners/)
+ - [iPhone Crash Detection saved the day after driver&#39;s 330ft mountain drop](https://appleinsider.com/articles/26/05/21/iphone-crash-detection-saved-the-day-after-drivers-330ft-mountain-drop?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
