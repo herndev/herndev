@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is letting creators build Patreon-style memberships inside the app](https://www.androidauthority.com/spotify-memberships-announced-3669978/)
- - [After failed delays, Apple files formal request with Supreme Court to review Epic case](https://appleinsider.com/articles/26/05/21/after-failed-delays-apple-files-formal-request-with-supreme-court-to-review-epic-case?utm_source=rss)
- - [What to Do in LA if You’re Here for Business &lpar;2025&rpar;](https://www.wired.com/story/los-angeles-tech-travel-guide/)<!-- TECH:END -->
+ - [ElevenLabs, which aims to build an all-in-one AI voice app, licensed 200K human-voiced audiobooks from major publishers, available in ElevenReader for $11/mo. &lpar;Ashley Carman/Bloomberg&rpar;](https://www.techmeme.com/260521/p46#a260521p46)
+ - [Anker’s new earbuds are the first with its AI chip that boosts noise reduction](https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip)
+ - [Anker’s new earbuds have the best call quality I’ve ever heard](https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
