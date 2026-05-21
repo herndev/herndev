@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos’s pint-sized Roam 2 speaker is 25 percent off for Memorial Day](https://www.theverge.com/gadgets/935452/sonos-roam-2-bluetooth-speaker-memorial-day-2026-deal-sale)
- - [The Pixel Watch has an annoying new bug for cyclists](https://www.androidauthority.com/pixel-watch-biking-data-not-saving-3669863/)
- - [Discord just made your calls more private, but users still aren’t happy](https://www.androidauthority.com/discord-video-voice-calls-encrypted-3669843/)<!-- TECH:END -->
+ - [Several brand-new Razr devices are free right now, but one offer really stands out](https://www.androidauthority.com/razr-us-carrier-deals-3669916/)
+ - [Sources: the EU will propose temporarily lifting sanctions, imposed in April, on a major Chinese semiconductor supplier after automakers warned of shortages &lpar;Alberto Nardelli/Bloomberg&rpar;](https://www.techmeme.com/260521/p34#a260521p34)
+ - [Mustard Made Storage Lockers Are on a Rare Sale Through May 31](https://www.wired.com/story/mustard-made-sale/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
