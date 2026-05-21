@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Pivot, which develops AI tools for procurement and financial workflows, raised a $40M Series B co-led by Forestay Capital and Notion Capital &lpar;Tamara Djurickovic/Tech.eu&rpar;](https://www.techmeme.com/260521/p5#a260521p5)
- - [Bengaluru-based Scapia, which offers travel-focused co-branded credit cards and an app, raised $63M led by GC, a source says at a $500M+ post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260521/p4#a260521p4)
- - [The EU Is Going Through a Trump-Fueled Breakup With Big Tech](https://www.wired.com/story/the-eu-is-going-through-a-trump-fueled-breakup-with-big-tech/)<!-- TECH:END -->
+ - [Android 17 QPR1 Beta 3 reveals new screenshot buttons, likely for Aluminium OS](https://www.androidauthority.com/android-17-screenshot-overlay-new-buttons-apk-teardown-3669650/)
+ - [Trump Phone unboxed: A few extras we miss from Google and Samsung phones](https://www.androidauthority.com/trump-phone-unboxing-3669630/)
+ - [Googlebooks could inherit a Chromebook problem even before they launch](https://www.androidauthority.com/kansas-city-schools-macbook-neo-vs-chromebooks-3669636/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
