@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Flipper One is a pocket-sized Linux computer](https://www.theverge.com/tech/935202/flipper-devices-one-zero-wireless-multi-tool-linux-open-source-computer)
- - [Sources: Anthropic is in talks to rent servers powered by Microsoft-designed chips; source: Anthropic has steadily increased its Azure usage since November 2025 &lpar;The Information&rpar;](https://www.techmeme.com/260521/p20#a260521p20)
- - [AT&amp;T now lets you build your own phone plan, starting at $15 a month](https://www.androidauthority.com/att-build-a-plan-3669672/)<!-- TECH:END -->
+ - [iPhone Crash Detection saved the day after driver&#39;s 330ft mountain drop](https://appleinsider.com/articles/26/05/21/iphone-crash-detection-saved-the-day-after-drivers-330ft-mountain-drop?utm_source=rss)
+ - [ADT Blu is a DIY home security system that comes with a catch](https://www.androidauthority.com/adt-blue-diy-home-security-system-3669789/)
+ - [Waymo suspends operations in Atlanta and San Antonio as its robotaxis struggle with flooded roads and says it has yet to develop a &quot;final remedy&quot; for flooding &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260521/p22#a260521p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
