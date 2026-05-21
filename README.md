@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Crash Detection saved the day after driver&#39;s 330ft mountain drop](https://appleinsider.com/articles/26/05/21/iphone-crash-detection-saved-the-day-after-drivers-330ft-mountain-drop?utm_source=rss)
- - [ADT Blu is a DIY home security system that comes with a catch](https://www.androidauthority.com/adt-blue-diy-home-security-system-3669789/)
- - [Waymo suspends operations in Atlanta and San Antonio as its robotaxis struggle with flooded roads and says it has yet to develop a &quot;final remedy&quot; for flooding &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260521/p22#a260521p22)<!-- TECH:END -->
+ - [Spotify and UMG plan to let Premium users create AI covers and remixes using music from participating UMG artists as a paid add-on, without giving a launch date &lpar;Jem Aswad/Variety&rpar;](https://www.techmeme.com/260521/p30#a260521p30)
+ - [Meta and Google get data from the app your boss uses to track you](https://www.theverge.com/policy/935299/bossware-employer-surveillance)
+ - [Google wants Gemini in every home, so it’s giving away the blueprints](https://www.androidauthority.com/google-gemini-for-home-blueprints-3669646/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
