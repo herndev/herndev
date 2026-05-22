@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix reveals new details about The Adventures of Elliot&#39;s earliest era](https://www.polygon.com/adventures-of-elliot-chrono-trigger-age-of-budding/)
- - [One of the hundreds of Warhammer games is currently free to keep forever on Steam](https://www.pcgamer.com/games/strategy/one-of-the-hundreds-of-warhammer-games-is-currently-free-to-keep-forever-on-steam/)
- - [Why Zangetsu is one of anime’s most important swords](https://www.polygon.com/bleachs-zangetsu-is-more-than-just-a-cool-sword/)<!-- GAME:END -->
+ - [Take-Two CEO Suggests Company May Acquire More Dev Studios In The Near Future](https://kotaku.com/take-two-ceo-company-acquisitions-studios-soon-2000698419)
+ - [Where to find the Ohtani region Treasure Hunt in Forza Horizon 6](https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-ohtani-region-location/)
+ - [The US government is pumping $2,000,000,000 in CHIPS and Science Act money into quantum computing firms](https://www.pcgamer.com/hardware/the-us-government-is-pumping-usd2-000-000-000-in-chips-and-science-act-money-into-quantum-computing-firms/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
