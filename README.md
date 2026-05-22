@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: DeepSeek execs told potential investors in its ongoing $10B round that it will prioritize groundbreaking AI research over short-term commercialization &lpar;Lulu Yilun Chen/Bloomberg&rpar;](https://www.techmeme.com/260522/p14#a260522p14)
- - [Italian police dismantle a piracy network that streamed paid content from Netflix and others via an app called Cinemagoal with annual subscriptions of €40-€130 &lpar;Ana-Maria Stanciuc/The Next Web&rpar;](https://www.techmeme.com/260522/p13#a260522p13)
- - [Accessibility, AI rumors, and Google I/O, on the AppleInsider Podcast](https://appleinsider.com/articles/26/05/22/accessibility-ai-rumors-and-google-io-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [Zero2IPO Research: Chinese AI startups raised $16.2B in Q1 2026, up 185% YoY, led by top AI labs including Moonshot, Z.ai, and MiniMax &lpar;Karen Tian/South China Morning Post&rpar;](https://www.techmeme.com/260522/p16#a260522p16)
+ - [Employees at Apple&#39;s first unionized store to protest closing](https://appleinsider.com/articles/26/05/22/employees-at-apples-first-unionized-store-to-protest-closing?utm_source=rss)
+ - [Google gives Antigravity users another major Gemini quota boost as backlash refuses to die down](https://www.androidauthority.com/gemini-antigravity-limits-increased-3670209/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
