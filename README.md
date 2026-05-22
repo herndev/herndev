@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seriously, for how many of you was this a reality?](http://9gag.com/gag/adBGQRV)
- - ⏩ [Experienced Trainee](http://9gag.com/gag/a2v38nw)
- - 👉 [Guess my blood flow is just too dedicated to my toes](http://9gag.com/gag/avyMeBb)<!-- MEMES:END -->
+ - 💣 [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)
+ - ⏩ [Take your time](http://9gag.com/gag/adBGOND)
+ - 👉 [Doppelg\u00e4nger](http://9gag.com/gag/aXPyNov)<!-- MEMES:END -->
 
 ---
 
