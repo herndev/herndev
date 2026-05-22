@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Longest route home](http://9gag.com/gag/aND7vy3)
- - ⏩ [The aircraft canopy opened](http://9gag.com/gag/aVvpmKO)
+ - 💣 [Cave divers when they have a good career, loving wife and kids](http://9gag.com/gag/aKGQWng)
+ - ⏩ [Entanglement.](http://9gag.com/gag/a7oYV2A)
  - 👉 [Doppelg\u00e4nger](http://9gag.com/gag/aXPyNov)<!-- MEMES:END -->
 
 ---
