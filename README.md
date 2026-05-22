@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/a346A5e)
- - ⏩ [Easy Japanese](http://9gag.com/gag/ae9nZ4O)
- - 👉 [Experienced Trainee](http://9gag.com/gag/a2v38nw)<!-- MEMES:END -->
+ - 💣 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
+ - ⏩ [Take your time](http://9gag.com/gag/adBGOND)
+ - 👉 [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)<!-- MEMES:END -->
 
 ---
 
