@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cave divers when they have a good career, loving wife and kids](http://9gag.com/gag/aKGQWng)
- - ⏩ [Entanglement.](http://9gag.com/gag/a7oYV2A)
- - 👉 [Doppelg\u00e4nger](http://9gag.com/gag/aXPyNov)<!-- MEMES:END -->
+ - 💣 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
+ - ⏩ [The Snap-on version is worth the money](http://9gag.com/gag/aQzLQE8)
+ - 👉 [Longest route home](http://9gag.com/gag/aND7vy3)<!-- MEMES:END -->
 
 ---
 
