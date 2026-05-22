@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
- - ⏩ [Take your time](http://9gag.com/gag/adBGOND)
- - 👉 [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)<!-- MEMES:END -->
+ - 💣 [Boys will be boys](http://9gag.com/gag/a346AV7)
+ - ⏩ [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)
+ - 👉 [Peak performance](http://9gag.com/gag/aW4r7Dq)<!-- MEMES:END -->
 
 ---
 
