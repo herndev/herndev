@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The aircraft canopy opened](http://9gag.com/gag/aVvpmKO)
- - ⏩ [The Snap-on version is worth the money](http://9gag.com/gag/aQzLQE8)
- - 👉 [Cave divers when they have a good career, loving wife and kids](http://9gag.com/gag/aKGQWng)<!-- MEMES:END -->
+ - 💣 [Entanglement.](http://9gag.com/gag/a7oYV2A)
+ - ⏩ [The aircraft canopy opened](http://9gag.com/gag/aVvpmKO)
+ - 👉 [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)<!-- MEMES:END -->
 
 ---
 
