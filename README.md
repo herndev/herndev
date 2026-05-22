@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried Gemini’s redesigned Android app. Here’s what Google got wrong](https://www.androidauthority.com/gemini-neural-expressive-android-app-hands-on-3668985/)
- - [Meta releases Forum, a Reddit-like standalone app for Facebook Groups, with a feed showing Group conversations and an AI-powered &quot;Ask&quot; feature, on iOS &lpar;Mariella Moon/Engadget&rpar;](https://www.techmeme.com/260522/p8#a260522p8)
- - [BOOX teases another Android-powered rival to the Kindle Scribe](https://www.androidauthority.com/boox-teases-note-x6-3670142/)<!-- TECH:END -->
+ - [Republican House Oversight Committee Chairman James Comer says he requested information from Kalshi and Polymarket on their efforts to prevent insider trading &lpar;Justin Papp/CNBC&rpar;](https://www.techmeme.com/260522/p12#a260522p12)
+ - [Samsung Movingstyle M7 Review: A Screen on Wheels](https://www.wired.com/review/samsung-movingstyle-32-m7/)
+ - [Best Vacuum Cleaner &lpar;2026&rpar;: Cordless Vacuums, Robot Vacuums, Dysons](https://www.wired.com/gallery/the-best-vacuum-cleaner/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
