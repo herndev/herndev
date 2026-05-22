@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Entanglement.](http://9gag.com/gag/a7oYV2A)
- - ⏩ [The aircraft canopy opened](http://9gag.com/gag/aVvpmKO)
- - 👉 [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)<!-- MEMES:END -->
+ - 💣 [We are just who we are.](http://9gag.com/gag/a7oY9yq)
+ - ⏩ [Experienced Trainee](http://9gag.com/gag/a2v38nw)
+ - 👉 [The aircraft canopy opened](http://9gag.com/gag/aVvpmKO)<!-- MEMES:END -->
 
 ---
 
