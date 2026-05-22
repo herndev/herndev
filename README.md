@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just replaced another major piece of Fitbit’s identity](https://www.androidauthority.com/fitbit-community-google-health-community-3670056/)
- - [How to use NameDrop to exchange iPhone contacts in seconds](https://appleinsider.com/articles/26/05/22/how-to-use-namedrop-to-exchange-iphone-contacts-in-seconds?utm_source=rss)
- - [Sources: Trump delayed signing the AI EO because &quot;he just hates regulation&quot;; he spoke with Mark Zuckerberg, Elon Musk, and David Sacks just prior to the delay &lpar;Axios&rpar;](https://www.techmeme.com/260521/p52#a260521p52)<!-- TECH:END -->
+ - [Lenovo reports Q4 revenue up 27% YoY to $21.6B, above $18.7B est., net profit up 479% to $521M, above $271M est., as the PC maker pushes into AI server markets &lpar;Reuters&rpar;](https://www.techmeme.com/260522/p5#a260522p5)
+ - [Sources: Nintendo asked partners and suppliers to assemble ~20M Switch 2 consoles by March 2027, ~20% above the 16.5M public sales outlook issued in early May &lpar;Takashi Mochizuki/Bloomberg&rpar;](https://www.techmeme.com/260522/p4#a260522p4)
+ - [Meta, Broadcom, Applied Materials, GlobalFoundries, and Synopsys launch a $125M &quot;Semiconductor Hub&quot; at UCLA to advance AI chip research and more &lpar;CJ Haddad/CNBC&rpar;](https://www.techmeme.com/260522/p3#a260522p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
