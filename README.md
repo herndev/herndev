@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Experienced Trainee](http://9gag.com/gag/a2v38nw)
- - ⏩ [Guess my blood flow is just too dedicated to my toes](http://9gag.com/gag/avyMeBb)
- - 👉 [This is so accurate.](http://9gag.com/gag/aGymBb7)<!-- MEMES:END -->
+ - 💣 [Seriously, for how many of you was this a reality?](http://9gag.com/gag/adBGQRV)
+ - ⏩ [Experienced Trainee](http://9gag.com/gag/a2v38nw)
+ - 👉 [Guess my blood flow is just too dedicated to my toes](http://9gag.com/gag/avyMeBb)<!-- MEMES:END -->
 
 ---
 
