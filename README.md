@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out a Google Wallet redesign, including &quot;dynamic quick access&quot; for favourites, a &quot;View more&quot; floating action button, and more &lpar;Abner Li/9to5Google&rpar;](https://www.techmeme.com/260522/p21#a260522p21)
- - [Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel](https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale)
- - [Shein Buying Everlane Actually Makes Perfect Sense](https://www.wired.com/story/made-in-china-why-shein-bought-everlane/)<!-- TECH:END -->
+ - [Reddit stock fell 5%+ on Friday after Meta launched a standalone app for online forums, called Forum; Reddit&#39;s stock is now down almost 40% this year &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260522/p22#a260522p22)
+ - [Google’s AI Overviews are so confused, it can’t tell if you’re looking something up &lpar;Update&rpar;](https://www.androidauthority.com/google-ai-overviews-definition-bug-3670358/)
+ - [Apple&#39;s AI spend remains flat as OpenAI loses $1.25 for every $1](https://appleinsider.com/articles/26/05/22/apples-ai-spend-remains-flat-as-openai-loses-125-for-every-1?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
