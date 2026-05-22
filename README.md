@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reports of Chromecast’s death have been greatly exaggerated — Google deploys a fix](https://www.androidauthority.com/chromecast-streaming-fix-3670405/)
- - [Google’s latest Pixel Watch update may leave you searching for your phone the hard way](https://www.androidauthority.com/pixel-watch-find-your-phone-issue-3670401/)
- - [Google&amp;#8217;s AI search is so broken it can &amp;#8216;disregard&amp;#8217; what you&amp;#8217;re looking for](https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard)<!-- TECH:END -->
+ - [Sources: WH approved a $9B request to acquire advanced AI chips for spy agencies; Anthropic is finalizing a classified contract for NSA to keep using its tools &lpar;New York Times&rpar;](https://www.techmeme.com/260522/p26#a260522p26)
+ - [Helium Mobile’s free plan is no longer free for anyone](https://www.androidauthority.com/helium-mobile-ending-free-zero-plan-3670436/)
+ - [Qualcomm stock closed up 11.6% on Friday and is now up 75% in the past month, as the company increasingly becomes a key player in AI devices &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/260522/p25#a260522p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
