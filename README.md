@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Bungie plans a significant number of layoffs as it ends development on Destiny 2 and has no new project lined up for the game&#39;s development team &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/260521/p49#a260521p49)
- - [Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?](https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/)
- - [This $60 Magnet Changed How I Use My iPhone](https://www.cnet.com/tech/mobile/this-60-magnet-changed-how-i-use-my-iphone/)<!-- TECH:END -->
+ - [Sources: Trump delayed signing the AI EO because &quot;he just hates regulation&quot;; he spoke with Mark Zuckerberg, Elon Musk, and David Sacks just prior to the delay &lpar;Axios&rpar;](https://www.techmeme.com/260521/p52#a260521p52)
+ - [Socket: TeamPCP, the gang claiming GitHub&#39;s repositories breach, also executed 20 &quot;waves&quot; of supply chain attacks recently, compromising 500+ pieces of software &lpar;Wired&rpar;](https://www.techmeme.com/260521/p51#a260521p51)
+ - [Shares of quantum computing companies surged Thursday after the US government announced grants with equity stakes: D-Wave closed up 33%, Rigetti 30%, IBM 12% &lpar;Chloe Taylor/CNBC&rpar;](https://www.techmeme.com/260521/p50#a260521p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
