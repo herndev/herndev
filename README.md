@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take-Two CEO says the original Borderlands&#39; art style overhaul cost a year of dev time and $50 million: &#39;Had we not done that, Borderlands wouldn&#39;t have been a hit&#39;](https://www.pcgamer.com/games/fps/take-two-ceo-says-the-original-borderlands-art-style-overhaul-cost-a-year-of-dev-time-and-usd50-million-had-we-not-done-that-borderlands-wouldnt-have-been-a-hit/)
- - [Steam week in review: metroidvanias are still coming thick and fast, but has the world moved on?](https://www.pcgamer.com/gaming-industry/steam-week-in-review-metroidvanias-are-still-coming-thick-and-fast-but-has-the-world-moved-on/)
- - [Nintendo 64 emulator just implemented rollback netcode for the entire library: &#39;It was honestly not that hard&#39;](https://www.pcgamer.com/software/nintendo-64-emulator-just-implemented-rollback-netcode-for-the-entire-library-it-was-honestly-not-that-hard/)<!-- GAME:END -->
+ - [Square Enix reveals new details about The Adventures of Elliot&#39;s earliest era](https://www.polygon.com/adventures-of-elliot-chrono-trigger-age-of-budding/)
+ - [One of the hundreds of Warhammer games is currently free to keep forever on Steam](https://www.pcgamer.com/games/strategy/one-of-the-hundreds-of-warhammer-games-is-currently-free-to-keep-forever-on-steam/)
+ - [Why Zangetsu is one of anime’s most important swords](https://www.polygon.com/bleachs-zangetsu-is-more-than-just-a-cool-sword/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
