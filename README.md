@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview](https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on)
- - [Trump Mobile confirms data leak, still deciding whether or not it should bother notifying customers](https://www.androidauthority.com/trump-mobile-data-exposure-3670309/)
- - [Your Chromecast may have just reached the end of the road](https://www.androidauthority.com/google-ends-chromecast-support-for-several-models-3670317/)<!-- TECH:END -->
+ - [Google rolls out a Google Wallet redesign, including &quot;dynamic quick access&quot; for favourites, a &quot;View more&quot; floating action button, and more &lpar;Abner Li/9to5Google&rpar;](https://www.techmeme.com/260522/p21#a260522p21)
+ - [Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel](https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale)
+ - [Shein Buying Everlane Actually Makes Perfect Sense](https://www.wired.com/story/made-in-china-why-shein-bought-everlane/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
