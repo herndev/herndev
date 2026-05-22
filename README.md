@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ElevenLabs, which aims to build an all-in-one AI voice app, licensed 200K human-voiced audiobooks from major publishers, available in ElevenReader for $11/mo. &lpar;Ashley Carman/Bloomberg&rpar;](https://www.techmeme.com/260521/p46#a260521p46)
- - [Anker’s new earbuds are the first with its AI chip that boosts noise reduction](https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip)
- - [Anker’s new earbuds have the best call quality I’ve ever heard](https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review)<!-- TECH:END -->
+ - [Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?](https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/)
+ - [Waymo suspends freeway rides and pauses its Atlanta operations, as it updates software to improve performance around construction zones and flooded roadways &lpar;Reuters&rpar;](https://www.techmeme.com/260521/p48#a260521p48)
+ - [Adobe, Canva, and CapCut announce Gemini integrations to let users access the companies&#39; image and video editing tools within the Gemini app &lpar;James Peckham/PCMag&rpar;](https://www.techmeme.com/260521/p47#a260521p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
