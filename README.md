@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: WH approved a $9B request to acquire advanced AI chips for spy agencies; Anthropic is finalizing a classified contract for NSA to keep using its tools &lpar;New York Times&rpar;](https://www.techmeme.com/260522/p26#a260522p26)
- - [Helium Mobile’s free plan is no longer free for anyone](https://www.androidauthority.com/helium-mobile-ending-free-zero-plan-3670436/)
- - [Qualcomm stock closed up 11.6% on Friday and is now up 75% in the past month, as the company increasingly becomes a key player in AI devices &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/260522/p25#a260522p25)<!-- TECH:END -->
+ - [Google files its appeal of the US federal ruling deeming it an illegal search monopolist, arguing it &quot;prevailed in the marketplace fair and square&quot; &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260522/p30#a260522p30)
+ - [China&#39;s Wingtech files a lawsuit against Nexperia, saying its control over the Dutch chipmaker remained restricted, and seeks ~$1.2B for economic losses &lpar;Reuters&rpar;](https://www.techmeme.com/260522/p29#a260522p29)
+ - [The US Ambassador to Canada accuses Canada of imposing trade barriers by requiring that US streamers contribute 15% of Canadian revenue to local programming &lpar;Paul Vieira/Wall Street Journal&rpar;](https://www.techmeme.com/260522/p28#a260522p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
