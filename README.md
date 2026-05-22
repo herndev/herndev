@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your Japanese landlord found out you keep a chicken inside your room](http://9gag.com/gag/aMVon1R)
- - ⏩ [Old games made things hardet](http://9gag.com/gag/a9yx8OZ)
- - 👉 [JDM](http://9gag.com/gag/aGymGKn)<!-- MEMES:END -->
+ - 💣 [Entanglement.](http://9gag.com/gag/a7oYV2A)
+ - ⏩ [Proof that time travel is possible](http://9gag.com/gag/adBGn6Q)
+ - 👉 [Honestly in the truest sense, good for her](http://9gag.com/gag/aQzL7De)<!-- MEMES:END -->
 
 ---
 
