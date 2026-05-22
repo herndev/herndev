@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zero2IPO Research: Chinese AI startups raised $16.2B in Q1 2026, up 185% YoY, led by top AI labs including Moonshot, Z.ai, and MiniMax &lpar;Karen Tian/South China Morning Post&rpar;](https://www.techmeme.com/260522/p16#a260522p16)
- - [Employees at Apple&#39;s first unionized store to protest closing](https://appleinsider.com/articles/26/05/22/employees-at-apples-first-unionized-store-to-protest-closing?utm_source=rss)
- - [Google gives Antigravity users another major Gemini quota boost as backlash refuses to die down](https://www.androidauthority.com/gemini-antigravity-limits-increased-3670209/)<!-- TECH:END -->
+ - [The Trump phone is not here](https://www.theverge.com/gadgets/936018/trump-mobile-t1-phone-still-hasnt-shipped)
+ - [Samsung’s latest phone update removes video filters, but here’s a workaround](https://www.androidauthority.com/samsung-one-ui-update-video-filters-removed-3670254/)
+ - [Memo: Yusuf Mehdi, a 35-year Microsoft veteran who has been its consumer chief marketing officer since 2023, will leave the company after the next fiscal year &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260522/p18#a260522p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
