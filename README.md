@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boys will be boys](http://9gag.com/gag/a346AV7)
- - ⏩ [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)
- - 👉 [Peak performance](http://9gag.com/gag/aW4r7Dq)<!-- MEMES:END -->
+ - 💣 [Marriage in a nutshell](http://9gag.com/gag/aE09Vbn)
+ - ⏩ [Peak performance](http://9gag.com/gag/aW4r7Dq)
+ - 👉 [Longest route home](http://9gag.com/gag/aND7vy3)<!-- MEMES:END -->
 
 ---
 
