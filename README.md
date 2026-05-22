@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit stock fell 5%+ on Friday after Meta launched a standalone app for online forums, called Forum; Reddit&#39;s stock is now down almost 40% this year &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260522/p22#a260522p22)
- - [Google’s AI Overviews are so confused, it can’t tell if you’re looking something up &lpar;Update&rpar;](https://www.androidauthority.com/google-ai-overviews-definition-bug-3670358/)
- - [Apple&#39;s AI spend remains flat as OpenAI loses $1.25 for every $1](https://appleinsider.com/articles/26/05/22/apples-ai-spend-remains-flat-as-openai-loses-125-for-every-1?utm_source=rss)<!-- TECH:END -->
+ - [iPhone 18 color &#39;leak&#39; from fake account appears to be camera protector, not component](https://appleinsider.com/articles/26/05/22/iphone-18-color-leak-from-fake-account-appears-to-be-camera-protector-not-component?utm_source=rss)
+ - [Google&#39;s AI Overviews are failing to provide search summaries for specific command-style terms including &quot;disregard&quot;, &quot;ignore&quot;, and &quot;skip&quot; &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260522/p24#a260522p24)
+ - [Score a 31% price drop on the SHOKZ OpenMove headphones, now under $55](https://www.androidauthority.com/shokz-openmove-headphones-deal-3670421/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
