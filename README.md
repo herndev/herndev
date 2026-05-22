@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you&#39;re not outraged at this, you&#39;re not human](http://9gag.com/gag/abANOXv)
- - ⏩ [Entanglement.](http://9gag.com/gag/a7oYV2A)
- - 👉 [Longest route home](http://9gag.com/gag/aND7vy3)<!-- MEMES:END -->
+ - 💣 [Longest route home](http://9gag.com/gag/aND7vy3)
+ - ⏩ [The aircraft canopy opened](http://9gag.com/gag/aVvpmKO)
+ - 👉 [Doppelg\u00e4nger](http://9gag.com/gag/aXPyNov)<!-- MEMES:END -->
 
 ---
 
