@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Marriage in a nutshell](http://9gag.com/gag/aE09Vbn)
- - ⏩ [Peak performance](http://9gag.com/gag/aW4r7Dq)
- - 👉 [Longest route home](http://9gag.com/gag/aND7vy3)<!-- MEMES:END -->
+ - 💣 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
+ - ⏩ [Girls](http://9gag.com/gag/aLnZzGW)
+ - 👉 [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)<!-- MEMES:END -->
 
 ---
 
