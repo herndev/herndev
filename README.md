@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18 color &#39;leak&#39; from fake account appears to be camera protector, not component](https://appleinsider.com/articles/26/05/22/iphone-18-color-leak-from-fake-account-appears-to-be-camera-protector-not-component?utm_source=rss)
- - [Google&#39;s AI Overviews are failing to provide search summaries for specific command-style terms including &quot;disregard&quot;, &quot;ignore&quot;, and &quot;skip&quot; &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260522/p24#a260522p24)
- - [Score a 31% price drop on the SHOKZ OpenMove headphones, now under $55](https://www.androidauthority.com/shokz-openmove-headphones-deal-3670421/)<!-- TECH:END -->
+ - [Reports of Chromecast’s death have been greatly exaggerated — Google deploys a fix](https://www.androidauthority.com/chromecast-streaming-fix-3670405/)
+ - [Google’s latest Pixel Watch update may leave you searching for your phone the hard way](https://www.androidauthority.com/pixel-watch-find-your-phone-issue-3670401/)
+ - [Google&amp;#8217;s AI search is so broken it can &amp;#8216;disregard&amp;#8217; what you&amp;#8217;re looking for](https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
