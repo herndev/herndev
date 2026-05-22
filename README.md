@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Bungie plans a significant number of layoffs as it ends development on Destiny 2 and has no new project lined up for the game&#39;s development team &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/260521/p49#a260521p49)
  - [Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?](https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/)
- - [Waymo suspends freeway rides and pauses its Atlanta operations, as it updates software to improve performance around construction zones and flooded roadways &lpar;Reuters&rpar;](https://www.techmeme.com/260521/p48#a260521p48)
- - [Adobe, Canva, and CapCut announce Gemini integrations to let users access the companies&#39; image and video editing tools within the Gemini app &lpar;James Peckham/PCMag&rpar;](https://www.techmeme.com/260521/p47#a260521p47)<!-- TECH:END -->
+ - [This $60 Magnet Changed How I Use My iPhone](https://www.cnet.com/tech/mobile/this-60-magnet-changed-how-i-use-my-iphone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
