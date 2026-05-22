@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doppelg\u00e4nger](http://9gag.com/gag/aXPyNov)
- - ⏩ [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)
- - 👉 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)<!-- MEMES:END -->
+ - 💣 [Take your time](http://9gag.com/gag/adBGOND)
+ - ⏩ [Doppelg\u00e4nger](http://9gag.com/gag/aXPyNov)
+ - 👉 [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)<!-- MEMES:END -->
 
 ---
 
