@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trump phone is not here](https://www.theverge.com/gadgets/936018/trump-mobile-t1-phone-still-hasnt-shipped)
- - [Samsung’s latest phone update removes video filters, but here’s a workaround](https://www.androidauthority.com/samsung-one-ui-update-video-filters-removed-3670254/)
- - [Memo: Yusuf Mehdi, a 35-year Microsoft veteran who has been its consumer chief marketing officer since 2023, will leave the company after the next fiscal year &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260522/p18#a260522p18)<!-- TECH:END -->
+ - [How the global memory chip crunch, driven by AI demand, is hurting China&#39;s car industry, squeezing automakers already hit by a price war and razor-thin margins &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260522/p19#a260522p19)
+ - [Score $100 off the Apple AirPods Max headphones on Amazon](https://www.androidauthority.com/deal-apple-airpods-max-3670303/)
+ - [Say goodbye to your free time: Balatro just went on sale on Android](https://www.androidauthority.com/balatro-google-play-sale-3670259/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
