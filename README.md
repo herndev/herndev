@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Govee’s colorful, JBL-tuned Lamp Pro 2 is matching its best price to date](https://www.theverge.com/gadgets/935685/govee-table-lamp-2-pro-owala-freesip-sway-water-bottle-deal-sale)
- - [Google appeals search monopoly ruling, says it won business &amp;#8216;fair and square’](https://www.theverge.com/policy/936175/google-search-monopoly-ruling-appeal)
- - [AirPods Pro 3 drop to $199 during Amazon&#39;s Memorial Day sale](https://appleinsider.com/articles/26/05/22/airpods-pro-3-drop-to-199-during-amazons-memorial-day-sale?utm_source=rss)<!-- TECH:END -->
+ - [Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview](https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on)
+ - [Trump Mobile confirms data leak, still deciding whether or not it should bother notifying customers](https://www.androidauthority.com/trump-mobile-data-exposure-3670309/)
+ - [Your Chromecast may have just reached the end of the road](https://www.androidauthority.com/google-ends-chromecast-support-for-several-models-3670317/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
