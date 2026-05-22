@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take your time](http://9gag.com/gag/adBGOND)
- - ⏩ [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)
- - 👉 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)<!-- MEMES:END -->
+ - 💣 [Experienced Trainee](http://9gag.com/gag/a2v38nw)
+ - ⏩ [Guess my blood flow is just too dedicated to my toes](http://9gag.com/gag/avyMeBb)
+ - 👉 [This is so accurate.](http://9gag.com/gag/aGymBb7)<!-- MEMES:END -->
 
 ---
 
