@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take your time](http://9gag.com/gag/adBGOND)
- - ⏩ [Doppelg\u00e4nger](http://9gag.com/gag/aXPyNov)
- - 👉 [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)<!-- MEMES:END -->
+ - 💣 [If you&#39;re not outraged at this, you&#39;re not human](http://9gag.com/gag/abANOXv)
+ - ⏩ [Entanglement.](http://9gag.com/gag/a7oYV2A)
+ - 👉 [Longest route home](http://9gag.com/gag/aND7vy3)<!-- MEMES:END -->
 
 ---
 
