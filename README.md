@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)
- - ⏩ [Girls](http://9gag.com/gag/aLnZzGW)
- - 👉 [Nice flex, Still didn\u2019t got her number.](http://9gag.com/gag/aByA6MN)<!-- MEMES:END -->
+ - 💣 [Take your time](http://9gag.com/gag/adBGOND)
+ - ⏩ [Sharing my flower gallery day 570](http://9gag.com/gag/a6Z09eq)
+ - 👉 [Humans have no natural predator, and our gene pool has suffered greatly for it](http://9gag.com/gag/aYQ3Ogv)<!-- MEMES:END -->
 
 ---
 
