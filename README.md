@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile responds to reports of its controversial T-Life self-service app mandate](https://www.androidauthority.com/t-mobile-t-life-retail-timeline-leak-statement-3670096/)
- - [Google Wallet will soon become a smarter travel and loyalty hub with these new features](https://www.androidauthority.com/google-wallet-updates-google-io-2026-3670076/)
- - [AMD CEO Lisa Su projects the CPU market will grow over 35% annually through 2031, up from 3% to 4% historically, driven by AI inference and agentic AI demand &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](https://www.techmeme.com/260522/p6#a260522p6)<!-- TECH:END -->
+ - [I tried Gemini’s redesigned Android app. Here’s what Google got wrong](https://www.androidauthority.com/gemini-neural-expressive-android-app-hands-on-3668985/)
+ - [Meta releases Forum, a Reddit-like standalone app for Facebook Groups, with a feed showing Group conversations and an AI-powered &quot;Ask&quot; feature, on iOS &lpar;Mariella Moon/Engadget&rpar;](https://www.techmeme.com/260522/p8#a260522p8)
+ - [BOOX teases another Android-powered rival to the Kindle Scribe](https://www.androidauthority.com/boox-teases-note-x6-3670142/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
