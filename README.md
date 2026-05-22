@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take-Two CEO Suggests Company May Acquire More Dev Studios In The Near Future](https://kotaku.com/take-two-ceo-company-acquisitions-studios-soon-2000698419)
- - [Where to find the Ohtani region Treasure Hunt in Forza Horizon 6](https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-ohtani-region-location/)
- - [The US government is pumping $2,000,000,000 in CHIPS and Science Act money into quantum computing firms](https://www.pcgamer.com/hardware/the-us-government-is-pumping-usd2-000-000-000-in-chips-and-science-act-money-into-quantum-computing-firms/)<!-- GAME:END -->
+ - [Where to find the Hakone Nanamagari touge race in Forza Horizon 6, and my tips to win it](https://www.pcgamer.com/games/racing/forza-horizon-6-hakone-nanamagari-touge-location/)
+ - [Clair Obscur: Expedition 33&#39;s Esquie is a perfect unit in new release](https://www.polygon.com/clair-obscur-expedition-33-best-merch-esquie-preorder-nendoroid/)
+ - [Riot taunts would-be hackers using physical hardware to cheat: &#39;congrats to the owners of a brand new $6k paperweight&#39;](https://www.pcgamer.com/hardware/vr-hardware/riot-taunts-would-be-hackers-using-physical-hardware-to-cheat-congrats-to-the-owners-of-a-brand-new-usd6k-paperweight/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
