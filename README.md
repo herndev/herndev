@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We are just who we are.](http://9gag.com/gag/a7oY9yq)
- - ⏩ [Experienced Trainee](http://9gag.com/gag/a2v38nw)
- - 👉 [The aircraft canopy opened](http://9gag.com/gag/aVvpmKO)<!-- MEMES:END -->
+ - 💣 [When your Japanese landlord found out you keep a chicken inside your room](http://9gag.com/gag/aMVon1R)
+ - ⏩ [Old games made things hardet](http://9gag.com/gag/a9yx8OZ)
+ - 👉 [JDM](http://9gag.com/gag/aGymGKn)<!-- MEMES:END -->
 
 ---
 
