@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the global memory chip crunch, driven by AI demand, is hurting China&#39;s car industry, squeezing automakers already hit by a price war and razor-thin margins &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260522/p19#a260522p19)
- - [Score $100 off the Apple AirPods Max headphones on Amazon](https://www.androidauthority.com/deal-apple-airpods-max-3670303/)
- - [Say goodbye to your free time: Balatro just went on sale on Android](https://www.androidauthority.com/balatro-google-play-sale-3670259/)<!-- TECH:END -->
+ - [Govee’s colorful, JBL-tuned Lamp Pro 2 is matching its best price to date](https://www.theverge.com/gadgets/935685/govee-table-lamp-2-pro-owala-freesip-sway-water-bottle-deal-sale)
+ - [Google appeals search monopoly ruling, says it won business &amp;#8216;fair and square’](https://www.theverge.com/policy/936175/google-search-monopoly-ruling-appeal)
+ - [AirPods Pro 3 drop to $199 during Amazon&#39;s Memorial Day sale](https://appleinsider.com/articles/26/05/22/airpods-pro-3-drop-to-199-during-amazons-memorial-day-sale?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
