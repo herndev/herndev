@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)
- - ⏩ [Traditional romani training](http://9gag.com/gag/aByAGrO)
- - 👉 [Woman made a scene and yelled profanity at graduation ceremony after being told to sit down and be quiet](http://9gag.com/gag/aMVoXMG)<!-- MEMES:END -->
+ - 💣 [The sheep advocating for wolf paid its price](http://9gag.com/gag/aD2KVWw)
+ - ⏩ [If a bartender has to be legally responsible for behaviors of his clients, why not judges?](http://9gag.com/gag/avyMv0d)
+ - 👉 [They are your responsibility now.](http://9gag.com/gag/azxWRKz)<!-- MEMES:END -->
 
 ---
 
