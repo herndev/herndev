@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the Trump admin gutted the CFTC, ousting enforcers and appointing industry-friendly officials, as Trump family got into crypto and prediction markets &lpar;New York Times&rpar;](https://www.techmeme.com/260524/p13#a260524p13)
- - [Demand for security engineers is surging, with job postings up 11% YoY in Q1, driven by threats from AI-generated code and models like Mythos and GPT-5.4-Cyber &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260524/p12#a260524p12)
- - [Sunday Reboot: Stadium iPhones, Epic messaging fail, and Plex](https://appleinsider.com/articles/26/05/24/sunday-reboot-stadium-iphones-epic-messaging-fail-and-plex?utm_source=rss)<!-- TECH:END -->
+ - [Plenary Americas LP, La Caisse&#39;s infrastructure arm, agrees to acquire and take private Canadian database company ISC for $872M, expected to close in Q3 &lpar;Melissa Shin/Bloomberg&rpar;](https://www.techmeme.com/260524/p15#a260524p15)
+ - [Quartermaster, which is building an analytics platform and a SmartMast, with sensors on a ship&#39;s mast to relay real-time maritime data, raised a $43M Series A &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260524/p14#a260524p14)
+ - [How the Trump admin gutted the CFTC, ousting enforcers and appointing industry-friendly officials, as Trump family got into crypto and prediction markets &lpar;New York Times&rpar;](https://www.techmeme.com/260524/p13#a260524p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
