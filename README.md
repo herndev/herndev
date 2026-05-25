@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S23 owners say Samsung did them dirty by leaving out this feature in One UI 8.5 update](https://www.androidauthority.com/galaxy-s23-one-ui-8-5-feature-missing-3670568/)
- - [Google Cast could be coming to the iPhone as Apple’s walled garden cracks further](https://www.androidauthority.com/apple-iphone-ios-alternative-media-google-cast-3670565/)
- - [One UI 8.5 breaks dark mode on Samsung phones, but there’s a workaround](https://www.androidauthority.com/one-ui-8-5-update-dark-mode-broken-workaround-3670571/)<!-- TECH:END -->
+ - [In the ~43,000-word text, the Pope urged governments to slow down the development of AI systems and decried &quot;new forms of slavery&quot; of people tending AI systems &lpar;Joshua McElwee/Reuters&rpar;](https://www.techmeme.com/260525/p9#a260525p9)
+ - [More than 5,500 GitHub repositories were infected with malware in a supply chain attack, dubbed Megalodon, on May 18 that relies on automated commits &lpar;Ionut Arghire/SecurityWeek&rpar;](https://www.techmeme.com/260525/p8#a260525p8)
+ - [I tried ditching passwords, but the alternatives feel even more complicated](https://www.androidauthority.com/google-passwordless-future-not-ready-3665902/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
