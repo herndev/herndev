@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another Android brand is teasing us with magnetic rear screens](https://www.androidauthority.com/phone-magnetic-rear-screen-tease-3670720/)
- - [Study: rate of fabricated references in biomedical papers has grown 12x+ since 2023; in early 2026, one in 277 papers had at least one non-existent reference &lpar;Tristan Bove/Fortune&rpar;](https://www.techmeme.com/260525/p16#a260525p16)
- - [Gemini’s camera AI thinks Aussie wildlife are people and cats are raccoons](https://www.androidauthority.com/gemini-camera-localization-3670724/)<!-- TECH:END -->
+ - [Memorial Day Tech Deals: Sony, Apple, Anker, and More](https://www.wired.com/story/memorial-day-tech-deals-2026-2/)
+ - [Best Memorial Day Mattress Deals: Helix, Saatva &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-mattress-deals-2026-2/)
+ - [Another Android brand is teasing us with magnetic rear screens](https://www.androidauthority.com/phone-magnetic-rear-screen-tease-3670720/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
