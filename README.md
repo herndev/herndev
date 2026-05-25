@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memorial Day Tech Deals: Sony, Apple, Anker, and More](https://www.wired.com/story/memorial-day-tech-deals-2026-2/)
- - [Best Memorial Day Mattress Deals: Helix, Saatva &lpar;2026&rpar;](https://www.wired.com/story/memorial-day-mattress-deals-2026-2/)
- - [Another Android brand is teasing us with magnetic rear screens](https://www.androidauthority.com/phone-magnetic-rear-screen-tease-3670720/)<!-- TECH:END -->
+ - [Report: the EU plans to fine Google a high triple-digit million euro amount as part of a 2025 probe over concerns it favors its own services in search results &lpar;Reuters&rpar;](https://www.techmeme.com/260525/p18#a260525p18)
+ - [Fake Tomodachi Life apps are popping up like weeds on the Google Play Store](https://www.androidauthority.com/tomodachi-life-fakes-on-play-store-3670770/)
+ - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
