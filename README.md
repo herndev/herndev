@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wide camera shots exposed the limits of Apple&#39;s iPhone 17 Pro soccer broadcast](https://appleinsider.com/articles/26/05/25/wide-camera-shots-exposed-the-limits-of-apples-iphone-17-pro-soccer-broadcast?utm_source=rss)
- - [B&amp;H is blowing out M3 iPad Air inventory at $449 today only](https://appleinsider.com/articles/26/05/25/bh-is-blowing-out-m3-ipad-air-inventory-at-449-today-only?utm_source=rss)
- - [Pope Leo calls for being ‘profoundly human’ in the age of AI](https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare)<!-- TECH:END -->
+ - [Another Android brand is teasing us with magnetic rear screens](https://www.androidauthority.com/phone-magnetic-rear-screen-tease-3670720/)
+ - [Study: rate of fabricated references in biomedical papers has grown 12x+ since 2023; in early 2026, one in 277 papers had at least one non-existent reference &lpar;Tristan Bove/Fortune&rpar;](https://www.techmeme.com/260525/p16#a260525p16)
+ - [Gemini’s camera AI thinks Aussie wildlife are people and cats are raccoons](https://www.androidauthority.com/gemini-camera-localization-3670724/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
