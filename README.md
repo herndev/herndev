@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK, outpaced by the US and China in AI, is turning to experimental technologies like neuromorphic computing in search of computing sovereignty &lpar;Charles Clover/Financial Times&rpar;](https://www.techmeme.com/260525/p1#a260525p1)
- - [Early Google Fitbit Air deliveries hit a snag with missing Android app update](https://www.androidauthority.com/google-fitbit-air-early-delivery-app-update-3670542/)
- - [At an IEEE conference, Huawei proposed a new chip scaling law and said it aims to design chips with transistor density equivalent to 1.4nm by 2031 &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260524/p16#a260524p16)<!-- TECH:END -->
+ - [Samsung’s new Folds may get a dramatic name change that nobody asked for](https://www.androidauthority.com/samsung-rename-galaxy-z-fold-8-wide-fold-3670547/)
+ - [A look at Xiaomi&#39;s AI push to future-proof its hardware and EV ecosystem, as it recently committed ~$8.8B in AI investments over the next three years &lpar;Ben Jiang/South China Morning Post&rpar;](https://www.techmeme.com/260525/p4#a260525p4)
+ - [A profile of Meta CTO Andrew &quot;Boz&quot; Bosworth, a top lieutenant of Mark Zuckerberg who is leading the gargantuan effort to transform Meta into an AI-first company &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](https://www.techmeme.com/260525/p3#a260525p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
