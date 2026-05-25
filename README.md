@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
- - ⏩ [Pee](http://9gag.com/gag/aAy8Mq0)
+ - 💣 [Woman made a scene and yelled profanity at graduation ceremony after being told to sit down and be quiet](http://9gag.com/gag/aMVoXMG)
+ - ⏩ [Arkansas doesn\u2019t play around](http://9gag.com/gag/avyMvXn)
  - 👉 [RIP. Real picture from National Geographic](http://9gag.com/gag/amoeMp9)<!-- MEMES:END -->
 
 ---
