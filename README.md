@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Entanglement.](http://9gag.com/gag/a7oYV2A)
- - ⏩ [Proof that time travel is possible](http://9gag.com/gag/adBGn6Q)
- - 👉 [Honestly in the truest sense, good for her](http://9gag.com/gag/aQzL7De)<!-- MEMES:END -->
+ - 💣 [Next should be super saiyan hair](http://9gag.com/gag/aqyPz7v)
+ - ⏩ [Arkansas doesn\u2019t play around](http://9gag.com/gag/avyMvXn)
+ - 👉 [Pee](http://9gag.com/gag/aAy8Mq0)<!-- MEMES:END -->
 
 ---
 
