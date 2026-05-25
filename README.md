@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the Trump admin gutted the CFTC, ousting enforcers and appointing industry-friendly officials, as Trump family got into crypto and prediction markets &lpar;New York Times&rpar;](https://www.techmeme.com/260524/p13#a260524p13)
  - [Demand for security engineers is surging, with job postings up 11% YoY in Q1, driven by threats from AI-generated code and models like Mythos and GPT-5.4-Cyber &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260524/p12#a260524p12)
- - [Sunday Reboot: Stadium iPhones, Epic messaging fail, and Plex](https://appleinsider.com/articles/26/05/24/sunday-reboot-stadium-iphones-epic-messaging-fail-and-plex?utm_source=rss)
- - [&#39;Marshals&#39; Release Schedule: When the Finale Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-the-finale-hits-paramount-plus/)<!-- TECH:END -->
+ - [Sunday Reboot: Stadium iPhones, Epic messaging fail, and Plex](https://appleinsider.com/articles/26/05/24/sunday-reboot-stadium-iphones-epic-messaging-fail-and-plex?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
