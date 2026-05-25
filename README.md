@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Electric Ferrari Luce Is Finally Here](https://www.wired.com/story/ferrari-luce-ev-is-finally-here/)
- - [X says it is cracking down on large accounts that have been gaming its revenue-sharing program by &quot;programmatically reuploading content from smaller accounts&quot; &lpar;Lakshmi Varanasi/Business Insider&rpar;](https://www.techmeme.com/260525/p20#a260525p20)
- - [Iranian state media reports that President Masoud Pezeshkian has issued an order to reopen international internet access after a near-90-day blackout &lpar;Reuters&rpar;](https://www.techmeme.com/260525/p19#a260525p19)<!-- TECH:END -->
+ - [Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery](https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth)
+ - [Ferrari reveals its first EV, with design help from Jony Ive](https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom)
+ - [The Electric Ferrari Luce Is Finally Here](https://www.wired.com/story/ferrari-luce-ev-is-finally-here/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
