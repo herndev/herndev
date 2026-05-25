@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman made a scene and yelled profanity at graduation ceremony after being told to sit down and be quiet](http://9gag.com/gag/aMVoXMG)
- - ⏩ [Arkansas doesn\u2019t play around](http://9gag.com/gag/avyMvXn)
- - 👉 [RIP. Real picture from National Geographic](http://9gag.com/gag/amoeMp9)<!-- MEMES:END -->
+ - 💣 [Traditional romani training](http://9gag.com/gag/aByAGrO)
+ - ⏩ [Teamwork](http://9gag.com/gag/aND7RyK)
+ - 👉 [Who thought travel on a huge tank with thousands of people in deep sea is a great idea?](http://9gag.com/gag/aryQB26)<!-- MEMES:END -->
 
 ---
 
