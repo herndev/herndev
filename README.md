@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How do you achieve this build](http://9gag.com/gag/aO8M1b3)
- - ⏩ [Pee](http://9gag.com/gag/aAy8Mq0)
- - 👉 [Traditional romani training](http://9gag.com/gag/aByAGrO)<!-- MEMES:END -->
+ - 💣 [Homelander, the second he lost his powers.](http://9gag.com/gag/an7mEzo)
+ - ⏩ [Traditional romani training](http://9gag.com/gag/aByAGrO)
+ - 👉 [Woman made a scene and yelled profanity at graduation ceremony after being told to sit down and be quiet](http://9gag.com/gag/aMVoXMG)<!-- MEMES:END -->
 
 ---
 
