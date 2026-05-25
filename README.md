@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Next should be super saiyan hair](http://9gag.com/gag/aqyPz7v)
- - ⏩ [Arkansas doesn\u2019t play around](http://9gag.com/gag/avyMvXn)
- - 👉 [Pee](http://9gag.com/gag/aAy8Mq0)<!-- MEMES:END -->
+ - 💣 [How do you achieve this build](http://9gag.com/gag/aO8M1b3)
+ - ⏩ [Pee](http://9gag.com/gag/aAy8Mq0)
+ - 👉 [Traditional romani training](http://9gag.com/gag/aByAGrO)<!-- MEMES:END -->
 
 ---
 
