@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google files its appeal of the US federal ruling deeming it an illegal search monopolist, arguing it &quot;prevailed in the marketplace fair and square&quot; &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260522/p30#a260522p30)
- - [China&#39;s Wingtech files a lawsuit against Nexperia, saying its control over the Dutch chipmaker remained restricted, and seeks ~$1.2B for economic losses &lpar;Reuters&rpar;](https://www.techmeme.com/260522/p29#a260522p29)
- - [The US Ambassador to Canada accuses Canada of imposing trade barriers by requiring that US streamers contribute 15% of Canadian revenue to local programming &lpar;Paul Vieira/Wall Street Journal&rpar;](https://www.techmeme.com/260522/p28#a260522p28)<!-- TECH:END -->
+ - [Demand for security engineers is surging, with job postings up 11% YoY in Q1, driven by threats from AI-generated code and models like Mythos and GPT-5.4-Cyber &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260524/p12#a260524p12)
+ - [Sunday Reboot: Stadium iPhones, Epic messaging fail, and Plex](https://appleinsider.com/articles/26/05/24/sunday-reboot-stadium-iphones-epic-messaging-fail-and-plex?utm_source=rss)
+ - [&#39;Marshals&#39; Release Schedule: When the Finale Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/marshals-release-schedule-when-the-finale-hits-paramount-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
