@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The sheep advocating for wolf paid its price](http://9gag.com/gag/aD2KVWw)
- - ⏩ [If a bartender has to be legally responsible for behaviors of his clients, why not judges?](http://9gag.com/gag/avyMv0d)
- - 👉 [They are your responsibility now.](http://9gag.com/gag/azxWRKz)<!-- MEMES:END -->
+ - 💣 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
+ - ⏩ [Pee](http://9gag.com/gag/aAy8Mq0)
+ - 👉 [RIP. Real picture from National Geographic](http://9gag.com/gag/amoeMp9)<!-- MEMES:END -->
 
 ---
 
