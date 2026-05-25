@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
+ - 💣 [Teamwork](http://9gag.com/gag/aND7RyK)
  - ⏩ [The Origin](http://9gag.com/gag/agmDEBr)
  - 👉 [I guess they call him Palm Beach Adolph over there.](http://9gag.com/gag/avyMvPn)<!-- MEMES:END -->
 
