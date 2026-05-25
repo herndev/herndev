@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s when Samsung Gallery is officially cutting ties with OneDrive](https://www.androidauthority.com/samsung-gallery-onedrive-backups-end-date-3670801/)
- - [Corsair’s HS65 Surround gaming headset just got a 29% price cut on Amazon](https://www.androidauthority.com/corsair-hs65-surround-gaming-headset-3670813/)
- - [Deal: Anker’s versatile PowerExpand Dock drops to $69.99 &lpar;$50 off&rpar;](https://www.androidauthority.com/anker-powerexpand-dock-deal-3670807/)<!-- TECH:END -->
+ - [The Electric Ferrari Luce Is Finally Here](https://www.wired.com/story/ferrari-luce-ev-is-finally-here/)
+ - [X says it is cracking down on large accounts that have been gaming its revenue-sharing program by &quot;programmatically reuploading content from smaller accounts&quot; &lpar;Lakshmi Varanasi/Business Insider&rpar;](https://www.techmeme.com/260525/p20#a260525p20)
+ - [Iranian state media reports that President Masoud Pezeshkian has issued an order to reopen international internet access after a near-90-day blackout &lpar;Reuters&rpar;](https://www.techmeme.com/260525/p19#a260525p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
