@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plenary Americas LP, La Caisse&#39;s infrastructure arm, agrees to acquire and take private Canadian database company ISC for $872M, expected to close in Q3 &lpar;Melissa Shin/Bloomberg&rpar;](https://www.techmeme.com/260524/p15#a260524p15)
- - [Quartermaster, which is building an analytics platform and a SmartMast, with sensors on a ship&#39;s mast to relay real-time maritime data, raised a $43M Series A &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260524/p14#a260524p14)
- - [How the Trump admin gutted the CFTC, ousting enforcers and appointing industry-friendly officials, as Trump family got into crypto and prediction markets &lpar;New York Times&rpar;](https://www.techmeme.com/260524/p13#a260524p13)<!-- TECH:END -->
+ - [The UK, outpaced by the US and China in AI, is turning to experimental technologies like neuromorphic computing in search of computing sovereignty &lpar;Charles Clover/Financial Times&rpar;](https://www.techmeme.com/260525/p1#a260525p1)
+ - [Early Google Fitbit Air deliveries hit a snag with missing Android app update](https://www.androidauthority.com/google-fitbit-air-early-delivery-app-update-3670542/)
+ - [At an IEEE conference, Huawei proposed a new chip scaling law and said it aims to design chips with transistor density equivalent to 1.4nm by 2031 &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260524/p16#a260524p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
