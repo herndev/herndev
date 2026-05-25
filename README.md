@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Teamwork](http://9gag.com/gag/aND7RyK)
+ - 💣 [The Origin](http://9gag.com/gag/agmDEBr)
  - ⏩ [Arkansas doesn\u2019t play around](http://9gag.com/gag/avyMvXn)
- - 👉 [Secret gypsy ninja justsu! *hand movements and vanished* Person: where the f**k did my necklace gone?](http://9gag.com/gag/aByAO0Q)<!-- MEMES:END -->
+ - 👉 [Teamwork](http://9gag.com/gag/aND7RyK)<!-- MEMES:END -->
 
 ---
 
