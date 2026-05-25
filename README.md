@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cox Media fined after bragging it spied on users through their phones](https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine)
- - [Report: the EU plans to fine Google a high triple-digit million euro amount as part of a 2025 probe over concerns it favors its own services in search results &lpar;Reuters&rpar;](https://www.techmeme.com/260525/p18#a260525p18)
- - [Fake Tomodachi Life apps are popping up like weeds on the Google Play Store](https://www.androidauthority.com/tomodachi-life-fakes-on-play-store-3670770/)<!-- TECH:END -->
+ - [Here’s when Samsung Gallery is officially cutting ties with OneDrive](https://www.androidauthority.com/samsung-gallery-onedrive-backups-end-date-3670801/)
+ - [Corsair’s HS65 Surround gaming headset just got a 29% price cut on Amazon](https://www.androidauthority.com/corsair-hs65-surround-gaming-headset-3670813/)
+ - [Deal: Anker’s versatile PowerExpand Dock drops to $69.99 &lpar;$50 off&rpar;](https://www.androidauthority.com/anker-powerexpand-dock-deal-3670807/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
