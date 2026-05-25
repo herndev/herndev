@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new Folds may get a dramatic name change that nobody asked for](https://www.androidauthority.com/samsung-rename-galaxy-z-fold-8-wide-fold-3670547/)
- - [A look at Xiaomi&#39;s AI push to future-proof its hardware and EV ecosystem, as it recently committed ~$8.8B in AI investments over the next three years &lpar;Ben Jiang/South China Morning Post&rpar;](https://www.techmeme.com/260525/p4#a260525p4)
- - [A profile of Meta CTO Andrew &quot;Boz&quot; Bosworth, a top lieutenant of Mark Zuckerberg who is leading the gargantuan effort to transform Meta into an AI-first company &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](https://www.techmeme.com/260525/p3#a260525p3)<!-- TECH:END -->
+ - [Galaxy S23 owners say Samsung did them dirty by leaving out this feature in One UI 8.5 update](https://www.androidauthority.com/galaxy-s23-one-ui-8-5-feature-missing-3670568/)
+ - [Google Cast could be coming to the iPhone as Apple’s walled garden cracks further](https://www.androidauthority.com/apple-iphone-ios-alternative-media-google-cast-3670565/)
+ - [One UI 8.5 breaks dark mode on Samsung phones, but there’s a workaround](https://www.androidauthority.com/one-ui-8-5-update-dark-mode-broken-workaround-3670571/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
