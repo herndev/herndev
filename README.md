@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Helium Mobile CEO calls early adopters ‘parasites’ after ending free plan](https://www.androidauthority.com/helium-mobile-ceo-comments-3670637/)
- - [Tether plans to launch GELT, an &quot;official&quot; stablecoin representing the Georgian lari, with the support of Georgia&#39;s government in an unusual partnership &lpar;Reuters&rpar;](https://www.techmeme.com/260525/p12#a260525p12)
- - [Sources: Wix is expected to cut ~1,000 jobs in the coming months, or ~20% of its workforce, after weak Q1 earnings and a ~50% collapse of its stock in 2026 &lpar;Sophie Shulman/CTech&rpar;](https://www.techmeme.com/260525/p11#a260525p11)<!-- TECH:END -->
+ - [YouTube Music bug doesn’t play the next song, but there may be an easy fix](https://www.androidauthority.com/youtube-music-next-track-play-bug-3670649/)
+ - [SoftBank stock jumped 4.6% to a record high on Monday, spurred by hopes of big returns from the company&#39;s stakes in OpenAI and SB Energy Corp if they go public &lpar;Bloomberg&rpar;](https://www.techmeme.com/260525/p14#a260525p14)
+ - [Best Memorial Day Deals: Garmin, Birdfy, Branch &lpar;2026&rpar;](https://www.wired.com/story/best-memorial-day-deals-2026-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
