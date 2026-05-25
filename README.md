@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Arkansas doesn\u2019t play around](http://9gag.com/gag/avyMvXn)
- - ⏩ [The Origin](http://9gag.com/gag/agmDEBr)
- - 👉 [Teamwork](http://9gag.com/gag/aND7RyK)<!-- MEMES:END -->
+ - 💣 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)
+ - ⏩ [Arkansas doesn\u2019t play around](http://9gag.com/gag/avyMvXn)
+ - 👉 [I guess they call him Palm Beach Adolph over there.](http://9gag.com/gag/avyMvPn)<!-- MEMES:END -->
 
 ---
 
