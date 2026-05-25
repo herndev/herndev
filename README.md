@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In the ~43,000-word text, the Pope urged governments to slow down the development of AI systems and decried &quot;new forms of slavery&quot; of people tending AI systems &lpar;Joshua McElwee/Reuters&rpar;](https://www.techmeme.com/260525/p9#a260525p9)
- - [More than 5,500 GitHub repositories were infected with malware in a supply chain attack, dubbed Megalodon, on May 18 that relies on automated commits &lpar;Ionut Arghire/SecurityWeek&rpar;](https://www.techmeme.com/260525/p8#a260525p8)
- - [I tried ditching passwords, but the alternatives feel even more complicated](https://www.androidauthority.com/google-passwordless-future-not-ready-3665902/)<!-- TECH:END -->
+ - [Helium Mobile CEO calls early adopters ‘parasites’ after ending free plan](https://www.androidauthority.com/helium-mobile-ceo-comments-3670637/)
+ - [Tether plans to launch GELT, an &quot;official&quot; stablecoin representing the Georgian lari, with the support of Georgia&#39;s government in an unusual partnership &lpar;Reuters&rpar;](https://www.techmeme.com/260525/p12#a260525p12)
+ - [Sources: Wix is expected to cut ~1,000 jobs in the coming months, or ~20% of its workforce, after weak Q1 earnings and a ~50% collapse of its stock in 2026 &lpar;Sophie Shulman/CTech&rpar;](https://www.techmeme.com/260525/p11#a260525p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
