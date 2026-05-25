@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Traditional romani training](http://9gag.com/gag/aByAGrO)
- - ⏩ [Teamwork](http://9gag.com/gag/aND7RyK)
- - 👉 [Who thought travel on a huge tank with thousands of people in deep sea is a great idea?](http://9gag.com/gag/aryQB26)<!-- MEMES:END -->
+ - 💣 [Feminism](http://9gag.com/gag/ayNbQeM)
+ - ⏩ [RIP. Real picture from National Geographic](http://9gag.com/gag/amoeMp9)
+ - 👉 [Secret gypsy ninja justsu! *hand movements and vanished* Person: where the f**k did my necklace gone?](http://9gag.com/gag/aByAO0Q)<!-- MEMES:END -->
 
 ---
 
