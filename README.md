@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman made a scene and yelled profanity at graduation ceremony after being told to sit down and be quiet](http://9gag.com/gag/aMVoXMG)
- - ⏩ [Teamwork](http://9gag.com/gag/aND7RyK)
+ - 💣 [I guess they call him Palm Beach Adolph over there.](http://9gag.com/gag/avyMvPn)
+ - ⏩ [Once again im asking you fellow degenerates to share your favorite gifs](http://9gag.com/gag/aW4rD7q)
  - 👉 [This customer time for rent expired 2hrs ago but I dare not stop him from playing because he looks familiar...](http://9gag.com/gag/aYQ3q8q)<!-- MEMES:END -->
 
 ---
