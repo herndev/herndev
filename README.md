@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music bug doesn’t play the next song, but there may be an easy fix](https://www.androidauthority.com/youtube-music-next-track-play-bug-3670649/)
- - [SoftBank stock jumped 4.6% to a record high on Monday, spurred by hopes of big returns from the company&#39;s stakes in OpenAI and SB Energy Corp if they go public &lpar;Bloomberg&rpar;](https://www.techmeme.com/260525/p14#a260525p14)
- - [Best Memorial Day Deals: Garmin, Birdfy, Branch &lpar;2026&rpar;](https://www.wired.com/story/best-memorial-day-deals-2026-2/)<!-- TECH:END -->
+ - [Wide camera shots exposed the limits of Apple&#39;s iPhone 17 Pro soccer broadcast](https://appleinsider.com/articles/26/05/25/wide-camera-shots-exposed-the-limits-of-apples-iphone-17-pro-soccer-broadcast?utm_source=rss)
+ - [B&amp;H is blowing out M3 iPad Air inventory at $449 today only](https://appleinsider.com/articles/26/05/25/bh-is-blowing-out-m3-ipad-air-inventory-at-449-today-only?utm_source=rss)
+ - [Pope Leo calls for being ‘profoundly human’ in the age of AI](https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
