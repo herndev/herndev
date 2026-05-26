@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Fitbit Air review: slim, comfortable, and stylish, robust tracking, seven-day battery life, and cheaper than Whoop, but can only be worn on the wrist &lpar;Max Buondonno/The Shortcut&rpar;](https://www.techmeme.com/260526/p17#a260526p17)
- - [The Dutch government blocks the acquisition of authentication IT supplier Solvinity by US-based Kyndryl, citing &quot;a possible risk to the public interest&quot; &lpar;Pieter Haeck/Politico&rpar;](https://www.techmeme.com/260526/p16#a260526p16)
- - [Google Fitbit Air Review: Barely There, Always Running](https://www.wired.com/review/google-fitbit-air/)<!-- TECH:END -->
+ - [Apple&#39;s 2026 M5 MacBook Air plunges to record-low $899](https://appleinsider.com/articles/26/05/26/apples-2026-m5-macbook-air-plunges-to-record-low-899?utm_source=rss)
+ - [Filing: Monzo reports its &quot;refer a friend&quot; payouts grew 40% YoY to £29.5M for the 12 months ending March 2026, as part of a broader £143M marketing spend &lpar;Financial Times&rpar;](https://www.techmeme.com/260526/p21#a260526p21)
+ - [New $380 Bank of America AAPL target puts AI in the spotlight](https://appleinsider.com/articles/26/05/26/new-380-bank-of-america-aapl-target-puts-ai-in-the-spotlight?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
