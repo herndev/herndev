@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The Origin](http://9gag.com/gag/agmDEBr)
- - ⏩ [Once again im asking you fellow degenerates to share your favorite gifs](http://9gag.com/gag/aW4rD7q)
- - 👉 [Arkansas doesn\u2019t play around](http://9gag.com/gag/avyMvXn)<!-- MEMES:END -->
+ - ⏩ [Dropped the pizza and herself, a true hero](http://9gag.com/gag/an7mrNB)
+ - 👉 [Well, that&#39;s embarrassing](http://9gag.com/gag/a0erMAd)<!-- MEMES:END -->
 
 ---
 
