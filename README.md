@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Memorial Day sales you can still shop](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
- - [American Airlines is getting Starlink Wi-Fi](https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed)
- - [Memory V recreates the Memorymoog without the massive headaches or price tag](https://www.theverge.com/entertainment/937054/arturia-memory-v-memorymoog-synthesizer)<!-- TECH:END -->
+ - [First betas of iOS 26.6, macOS 26.6 arrive as WWDC draws near](https://appleinsider.com/articles/26/05/26/first-betas-of-ios-266-macos-266-arrive-as-wwdcs-gen-27-draws-near?utm_source=rss)
+ - [Spotify wants to replace your reading list with narrated magazine articles](https://www.androidauthority.com/spotify-launches-articles-feature-3671209/)
+ - [Internet Starts to Return in Iran After 3-Month Blackout](https://www.wired.com/story/internet-in-iran-starts-to-return-after-3-month-blackout/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
