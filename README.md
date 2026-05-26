@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Once again im asking you fellow degenerates to share your favorite gifs](http://9gag.com/gag/aW4rD7q)
- - ⏩ [Faith in humanity restored](http://9gag.com/gag/aLnZWmM)
- - 👉 [Who thought travel on a huge tank with thousands of people in deep sea is a great idea?](http://9gag.com/gag/aryQB26)<!-- MEMES:END -->
+ - 💣 [Faith in humanity restored](http://9gag.com/gag/aLnZWmM)
+ - ⏩ [Guess I&#39;m just eating dirt with my strawberries then](http://9gag.com/gag/ae9nRnm)
+ - 👉 [Well, that&#39;s embarrassing](http://9gag.com/gag/a0erMAd)<!-- MEMES:END -->
 
 ---
 
