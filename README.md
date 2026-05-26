@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Bond Capital is leading a new investment for AI startup Suno, which would value it at ~$5B, up from $2.45B last fall; Suno is expected to raise $250M+ &lpar;Axios&rpar;](https://www.techmeme.com/260526/p31#a260526p31)
- - [NotebookLM just made it easier to keep your sources up to date](https://www.androidauthority.com/notebooklm-auto-google-drive-syncing-3671289/)
- - [Passeig de Gracia Apple Store reopens, updated with new industrial design](https://appleinsider.com/articles/26/05/26/passeig-de-gracia-apple-store-reopens-updated-with-new-industrial-design?utm_source=rss)<!-- TECH:END -->
+ - [NASA&amp;#8217;s permanent Moon base plans start with three missions this year](https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates)
+ - [This DIY project turns an old Galaxy Watch into a motorcycle sat nav display](https://www.androidauthority.com/galaxy-watch-motorcycle-gps-3671274/)
+ - [Sources: Bond Capital is leading a new investment for AI startup Suno, which would value it at ~$5B, up from $2.45B last fall; Suno is expected to raise $250M+ &lpar;Axios&rpar;](https://www.techmeme.com/260526/p31#a260526p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
