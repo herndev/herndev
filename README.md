@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
- - ⏩ [Feminism](http://9gag.com/gag/ayNbQeM)
- - 👉 [She found out she was cheating on herself with herself.](http://9gag.com/gag/aXPyK62)<!-- MEMES:END -->
+ - 💣 [Uncle Chester](http://9gag.com/gag/aryQ2w5)
+ - ⏩ [Days of Thunder](http://9gag.com/gag/azxW4Yj)
+ - 👉 [Evil cannot create anything new](http://9gag.com/gag/aMVoOQP)<!-- MEMES:END -->
 
 ---
 
