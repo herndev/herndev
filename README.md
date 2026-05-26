@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Human evolution](http://9gag.com/gag/a9yxBLD)
+ - 💣 [The frog is chill](http://9gag.com/gag/a7oYnVx)
  - ⏩ [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)
- - 👉 [Street musician](http://9gag.com/gag/avyM9DE)<!-- MEMES:END -->
+ - 👉 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)<!-- MEMES:END -->
 
 ---
 
