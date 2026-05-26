@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This sketchy Lenovo-branded pirate handheld is actually legit &lpar;Update: Not pirate&rpar;](https://www.androidauthority.com/sketchy-lenovo-pirate-handheld-official-3669591/)
- - [Morphe users are now patching streaming apps beyond YouTube to skip ads on Android TV](https://www.androidauthority.com/morphe-streaming-app-patches-android-tv-3670863/)
- - [It’s only taken a decade: YouTube Music is finally getting basic playlist sorting features](https://www.androidauthority.com/youtube-music-playlist-sorting-options-3670873/)<!-- TECH:END -->
+ - [Aurzen’s Roku TV smart projectors bring SGS-verified true brightness to big-screen streaming](https://www.androidauthority.com/aurzen-eazze-d1r-roku-tv-3670662/)
+ - [Xiaomi reports Q1 revenue down 11% YoY to ~$14.6B, its first quarterly decline in three years, and net income down 57% to $695M amid a global memory price jump &lpar;Bloomberg&rpar;](https://www.techmeme.com/260526/p6#a260526p6)
+ - [I use Google Meet all the time — here are 6 hidden features you need to be using](https://www.androidauthority.com/best-google-meet-features-3669284/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
