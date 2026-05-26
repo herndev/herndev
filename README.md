@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google finally gets around to formally introducing its new icon designs](https://www.androidauthority.com/new-google-icons-3671215/)
- - [Google Health is here, but a lot of people want their Fitbit app back instead](https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai)
- - [How Apple turned to math to defend against next-gen attacks on encryption](https://appleinsider.com/articles/26/05/26/how-apple-turned-to-math-to-defend-against-next-gen-attacks-on-encryption?utm_source=rss)<!-- TECH:END -->
+ - [Micron hit a $1T market value for the first time on Tuesday as shares jumped 19%, driven by demand for its memory chips in the AI race &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260526/p29#a260526p29)
+ - [The Best Movies to Stream This Month &lpar;May 2026&rpar;](https://www.wired.com/story/the-9-best-movies-to-stream-right-now/)
+ - [What Pope Leo XIV’s First Encyclical Says About the Power of AI](https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
