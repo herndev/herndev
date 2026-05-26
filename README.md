@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Just 3 kids saving the future](http://9gag.com/gag/a4PXwQ1)
- - ⏩ [Be nice to people. It costs nothing and makes a difference.](http://9gag.com/gag/amoeVyo)
- - 👉 [This is the 3rd and final post of this movie recommendation series. It took me several hours to make. Thank you for your support fellow movie lovers](http://9gag.com/gag/a346N1Q)<!-- MEMES:END -->
+ - ⏩ [Next should be super saiyan hair](http://9gag.com/gag/aqyPz7v)
+ - 👉 [Well, that&#39;s embarrassing](http://9gag.com/gag/a0erMAd)<!-- MEMES:END -->
 
 ---
 
