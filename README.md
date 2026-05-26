@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First betas of iOS 26.6, macOS 26.6 arrive as WWDC draws near](https://appleinsider.com/articles/26/05/26/first-betas-of-ios-266-macos-266-arrive-as-wwdcs-gen-27-draws-near?utm_source=rss)
- - [Spotify wants to replace your reading list with narrated magazine articles](https://www.androidauthority.com/spotify-launches-articles-feature-3671209/)
- - [Internet Starts to Return in Iran After 3-Month Blackout](https://www.wired.com/story/internet-in-iran-starts-to-return-after-3-month-blackout/)<!-- TECH:END -->
+ - [Q&amp;A with Sundar Pichai about reshaping the information ecosystem with Search changes, putting AI agents in everything, when AI will replace him as CEO, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260526/p27#a260526p27)
+ - [The Galaxy Watch Ultra 2 could get a cheaper sibling](https://www.androidauthority.com/galaxy-watch-ultra-2-bluetooth-model-3671196/)
+ - [First betas of iOS 26.6, macOS 26.6 arrive as WWDC draws near](https://appleinsider.com/articles/26/05/26/first-betas-of-ios-266-macos-266-arrive-as-wwdcs-gen-27-draws-near?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
