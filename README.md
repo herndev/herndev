@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA&amp;#8217;s permanent Moon base plans start with three missions this year](https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates)
- - [This DIY project turns an old Galaxy Watch into a motorcycle sat nav display](https://www.androidauthority.com/galaxy-watch-motorcycle-gps-3671274/)
- - [Sources: Bond Capital is leading a new investment for AI startup Suno, which would value it at ~$5B, up from $2.45B last fall; Suno is expected to raise $250M+ &lpar;Axios&rpar;](https://www.techmeme.com/260526/p31#a260526p31)<!-- TECH:END -->
+ - [Pope Leo Schooled the Tech Bros on Tolkien](https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/)
+ - [Previous OS updates contained security patches which have now been detailed by Apple](https://appleinsider.com/articles/26/05/26/previous-os-updates-contained-security-patches-which-have-now-been-detailed-by-apple?utm_source=rss)
+ - [We&#39;re Testing the &#39;Gold&#39; T1 Trump Mobile Phone. Day 3 &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
