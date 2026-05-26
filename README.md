@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kelp DAO says its restaked Ether token has been restored after a five-week recovery effort following a $293M exploit by North Korea&#39;s Lazarus Group on April 18 &lpar;Brayden Lindrea/Cointelegraph&rpar;](https://www.techmeme.com/260526/p2#a260526p2)
- - [Gemini user hits 5-hour usage cap after a single prompt, Google responds](https://www.androidauthority.com/google-gemini-usage-limit-problem-3670846/)
- - [A Samsung union representing its consumer electronics division says it asked a South Korean court to block a pay deal vote that mainly benefits chip workers &lpar;Reuters&rpar;](https://www.techmeme.com/260526/p1#a260526p1)<!-- TECH:END -->
+ - [This sketchy Lenovo-branded pirate handheld is actually legit &lpar;Update: Not pirate&rpar;](https://www.androidauthority.com/sketchy-lenovo-pirate-handheld-official-3669591/)
+ - [Morphe users are now patching streaming apps beyond YouTube to skip ads on Android TV](https://www.androidauthority.com/morphe-streaming-app-patches-android-tv-3670863/)
+ - [It’s only taken a decade: YouTube Music is finally getting basic playlist sorting features](https://www.androidauthority.com/youtube-music-playlist-sorting-options-3670873/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
