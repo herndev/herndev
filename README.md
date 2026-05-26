@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aurzen’s Roku TV smart projectors bring SGS-verified true brightness to big-screen streaming](https://www.androidauthority.com/aurzen-eazze-d1r-roku-tv-3670662/)
- - [Xiaomi reports Q1 revenue down 11% YoY to ~$14.6B, its first quarterly decline in three years, and net income down 57% to $695M amid a global memory price jump &lpar;Bloomberg&rpar;](https://www.techmeme.com/260526/p6#a260526p6)
- - [I use Google Meet all the time — here are 6 hidden features you need to be using](https://www.androidauthority.com/best-google-meet-features-3669284/)<!-- TECH:END -->
+ - [Google Fitbit Air review: slim, comfortable, and stylish, robust tracking, seven-day battery life, and cheaper than Whoop, but can only be worn on the wrist &lpar;Max Buondonno/The Shortcut&rpar;](https://www.techmeme.com/260526/p17#a260526p17)
+ - [The Dutch government blocks the acquisition of authentication IT supplier Solvinity by US-based Kyndryl, citing &quot;a possible risk to the public interest&quot; &lpar;Pieter Haeck/Politico&rpar;](https://www.techmeme.com/260526/p16#a260526p16)
+ - [Google Fitbit Air Review: Barely There, Always Running](https://www.wired.com/review/google-fitbit-air/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
