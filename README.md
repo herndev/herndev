@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A surge in AI-generated &quot;pro se&quot; cases, or lawsuits filed by self-represented litigants, is democratizing the legal system but consuming more court resources &lpar;New York Times&rpar;](https://www.techmeme.com/260525/p24#a260525p24)
- - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
- - [Visually impaired Waymo users in CA say riding in a Waymo gives them a feeling of independence and spares them the discrimination they face from human drivers &lpar;Sonia A. Rao/New York Times&rpar;](https://www.techmeme.com/260525/p23#a260525p23)<!-- TECH:END -->
+ - [Early Google Fitbit Air deliveries hit a snag with missing Android app update &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-fitbit-air-early-delivery-app-update-3670542/)
+ - [The Ferrari Luce’s OLED dashboard uses Samsung phone tech in a wild new way](https://www.androidauthority.com/ferrari-luce-samsung-oled-galaxy-phone-tech-3670831/)
+ - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
