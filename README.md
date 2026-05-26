@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Google Fitbit Air deliveries hit a snag with missing Android app update &lpar;Updated: Rolling out&rpar;](https://www.androidauthority.com/google-fitbit-air-early-delivery-app-update-3670542/)
- - [The Ferrari Luce’s OLED dashboard uses Samsung phone tech in a wild new way](https://www.androidauthority.com/ferrari-luce-samsung-oled-galaxy-phone-tech-3670831/)
- - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)<!-- TECH:END -->
+ - [Kelp DAO says its restaked Ether token has been restored after a five-week recovery effort following a $293M exploit by North Korea&#39;s Lazarus Group on April 18 &lpar;Brayden Lindrea/Cointelegraph&rpar;](https://www.techmeme.com/260526/p2#a260526p2)
+ - [Gemini user hits 5-hour usage cap after a single prompt, Google responds](https://www.androidauthority.com/google-gemini-usage-limit-problem-3670846/)
+ - [A Samsung union representing its consumer electronics division says it asked a South Korean court to block a pay deal vote that mainly benefits chip workers &lpar;Reuters&rpar;](https://www.techmeme.com/260526/p1#a260526p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
