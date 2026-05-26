@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Micron hit a $1T market value for the first time on Tuesday as shares jumped 19%, driven by demand for its memory chips in the AI race &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260526/p29#a260526p29)
- - [The Best Movies to Stream This Month &lpar;May 2026&rpar;](https://www.wired.com/story/the-9-best-movies-to-stream-right-now/)
- - [What Pope Leo XIV’s First Encyclical Says About the Power of AI](https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/)<!-- TECH:END -->
+ - [Sources: Bond Capital is leading a new investment for AI startup Suno, which would value it at ~$5B, up from $2.45B last fall; Suno is expected to raise $250M+ &lpar;Axios&rpar;](https://www.techmeme.com/260526/p31#a260526p31)
+ - [NotebookLM just made it easier to keep your sources up to date](https://www.androidauthority.com/notebooklm-auto-google-drive-syncing-3671289/)
+ - [Passeig de Gracia Apple Store reopens, updated with new industrial design](https://appleinsider.com/articles/26/05/26/passeig-de-gracia-apple-store-reopens-updated-with-new-industrial-design?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
