@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Sundar Pichai about reshaping the information ecosystem with Search changes, putting AI agents in everything, when AI will replace him as CEO, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260526/p27#a260526p27)
- - [The Galaxy Watch Ultra 2 could get a cheaper sibling](https://www.androidauthority.com/galaxy-watch-ultra-2-bluetooth-model-3671196/)
- - [First betas of iOS 26.6, macOS 26.6 arrive as WWDC draws near](https://appleinsider.com/articles/26/05/26/first-betas-of-ios-266-macos-266-arrive-as-wwdcs-gen-27-draws-near?utm_source=rss)<!-- TECH:END -->
+ - [Google finally gets around to formally introducing its new icon designs](https://www.androidauthority.com/new-google-icons-3671215/)
+ - [Google Health is here, but a lot of people want their Fitbit app back instead](https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai)
+ - [How Apple turned to math to defend against next-gen attacks on encryption](https://appleinsider.com/articles/26/05/26/how-apple-turned-to-math-to-defend-against-next-gen-attacks-on-encryption?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
