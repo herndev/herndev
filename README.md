@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 2026 M5 MacBook Air plunges to record-low $899](https://appleinsider.com/articles/26/05/26/apples-2026-m5-macbook-air-plunges-to-record-low-899?utm_source=rss)
- - [Filing: Monzo reports its &quot;refer a friend&quot; payouts grew 40% YoY to £29.5M for the 12 months ending March 2026, as part of a broader £143M marketing spend &lpar;Financial Times&rpar;](https://www.techmeme.com/260526/p21#a260526p21)
- - [New $380 Bank of America AAPL target puts AI in the spotlight](https://appleinsider.com/articles/26/05/26/new-380-bank-of-america-aapl-target-puts-ai-in-the-spotlight?utm_source=rss)<!-- TECH:END -->
+ - [The best Memorial Day sales you can still shop](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026)
+ - [American Airlines is getting Starlink Wi-Fi](https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed)
+ - [Memory V recreates the Memorymoog without the massive headaches or price tag](https://www.theverge.com/entertainment/937054/arturia-memory-v-memorymoog-synthesizer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
