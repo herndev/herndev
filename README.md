@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Visually impaired Waymo users in CA say riding in a Waymo gives them a feeling of independence and spares them the discrimination they face from human drivers &lpar;Sonia A. Rao/New York Times&rpar;](https://www.techmeme.com/260525/p23#a260525p23)
- - [These Are the Best Places to Buy Contacts Online, Tested by CNET Staff](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/)
- - [Massachusetts formally recognizes the App Drivers Union, which says it represents ~70,000 workers and is the first state-certified rideshare union in the US &lpar;Bryan Hecht/The Boston Globe&rpar;](https://www.techmeme.com/260525/p22#a260525p22)<!-- TECH:END -->
+ - [A surge in AI-generated &quot;pro se&quot; cases, or lawsuits filed by self-represented litigants, is democratizing the legal system but consuming more court resources &lpar;New York Times&rpar;](https://www.techmeme.com/260525/p24#a260525p24)
+ - [We&#39;re Finally Testing the Trump Mobile Phone. Follow Along &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)
+ - [Visually impaired Waymo users in CA say riding in a Waymo gives them a feeling of independence and spares them the discrimination they face from human drivers &lpar;Sonia A. Rao/New York Times&rpar;](https://www.techmeme.com/260525/p23#a260525p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
