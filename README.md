@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uncle Chester](http://9gag.com/gag/aryQ2w5)
- - ⏩ [Days of Thunder](http://9gag.com/gag/azxW4Yj)
- - 👉 [Evil cannot create anything new](http://9gag.com/gag/aMVoOQP)<!-- MEMES:END -->
+ - 💣 [Once again im asking you fellow degenerates to share your favorite gifs](http://9gag.com/gag/aW4rD7q)
+ - ⏩ [Faith in humanity restored](http://9gag.com/gag/aLnZWmM)
+ - 👉 [Who thought travel on a huge tank with thousands of people in deep sea is a great idea?](http://9gag.com/gag/aryQB26)<!-- MEMES:END -->
 
 ---
 
