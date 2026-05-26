@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the 3rd and final post of this movie recommendation series. It took me several hours to make. Thank you for your support fellow movie lovers](http://9gag.com/gag/a346N1Q)
- - ⏩ [The Origin](http://9gag.com/gag/agmDEBr)
- - 👉 [And Trump still walks free =&rpar;](http://9gag.com/gag/aND7j44)<!-- MEMES:END -->
+ - 💣 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
+ - ⏩ [Feminism](http://9gag.com/gag/ayNbQeM)
+ - 👉 [She found out she was cheating on herself with herself.](http://9gag.com/gag/aXPyK62)<!-- MEMES:END -->
 
 ---
 
