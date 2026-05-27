@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tinder Final Boss](http://9gag.com/gag/aPAEr9G)
+ - 💣 [Snu snu](http://9gag.com/gag/aoyvno2)
  - ⏩ [The frog is chill](http://9gag.com/gag/a7oYnVx)
- - 👉 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)<!-- MEMES:END -->
+ - 👉 [Lifetime of supply](http://9gag.com/gag/aryQ80y)<!-- MEMES:END -->
 
 ---
 
