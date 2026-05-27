@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
- - ⏩ [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)
- - 👉 [The frog is chill](http://9gag.com/gag/a7oYnVx)<!-- MEMES:END -->
+ - ⏩ [Interesting](http://9gag.com/gag/an7mG0o)
+ - 👉 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)<!-- MEMES:END -->
 
 ---
 
