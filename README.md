@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce reports Q1 revenue up 13% YoY to $11.13B, vs. $11.05B est., Agentforce annual recurring revenue up 205% to $1.2B, and forecasts Q2 revenue below est. &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260527/p44#a260527p44)
- - [Snowflake reports Q1 revenue up 33% YoY to $1.39B, vs. $1.32B est., and commits to spending $6B on AWS over five years; SNOW jumps 29%+ after hours &lpar;CNBC&rpar;](https://www.techmeme.com/260527/p43#a260527p43)
- - [All the news about Ferrari&amp;#8217;s polarizing Luce EV](https://www.theverge.com/transportation/938513/ferrari-luce-ev)<!-- TECH:END -->
+ - [Apple’s newest iPad Air is up to $100 off for the first time](https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale)
+ - [Meta now lets you pay for the pleasure of using Facebook](https://www.androidauthority.com/meta-paid-facebook-instagram-whatsapp-plans-3671832/)
+ - [HP reports Q2 revenue up 9% YoY to $14.4B, vs. $14B est., Personal Systems revenue up 13% to $10.2B, and forecasts Q3 adjusted EPS above estimates &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260527/p45#a260527p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
