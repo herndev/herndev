@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Datacurve releases the DeepSWE coding benchmark, a 113-task test across 91 open-source repositories and five languages, and says GPT-5.5 is the leader at 70% &lpar;Michael Nuñez/VentureBeat&rpar;](https://www.techmeme.com/260527/p13#a260527p13)
- - [I tested this year’s two best camera phones to crown a winner](https://www.androidauthority.com/oppo-vs-xiaomi-ultra-camera-shootout-3666587/)
- - [Corsair Galleon 100 SD Review: Stream Deck Now Included](https://www.wired.com/review/review-corsair-galleon-100-sd/)<!-- TECH:END -->
+ - [This flagship uses liquid cooling to keep an overclocked Snapdragon 8 Elite Gen 5 chill](https://www.androidauthority.com/redmagic-11s-pro-launch-3671301/)
+ - [I tested the this liquid-cooled phone in a UK heatwave, it made me sweat](https://www.androidauthority.com/redmagic-11s-pro-benchmarks-3670930/)
+ - [The AI fight brewing inside The New York Times](https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
