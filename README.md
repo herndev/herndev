@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Pentagon&#39;s embrace of autonomous weapons before its fight with Anthropic over &quot;red lines&quot;, and the debate over AI use in military operations &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260527/p5#a260527p5)
- - [Sources and documents detail China&#39;s effort to modernize its decade-old domestic surveillance network with new generations of AI-enabled cameras and software &lpar;Eleanor Olcott/Financial Times&rpar;](https://www.techmeme.com/260527/p4#a260527p4)
- - [Analysis: the share of entry-level hiring in India&#39;s tech sector fell to ~15% in 2025 from 28% in 2024 as companies shifted focus to AI and automation roles &lpar;Tanya Pandey/The Economic Times&rpar;](https://www.techmeme.com/260527/p3#a260527p3)<!-- TECH:END -->
+ - [Sources: EU leaders are divided on curbing Big Tech as they weigh cloud tender rules and giving EU companies preferential access to mobile satellite spectrum &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260527/p8#a260527p8)
+ - [Even the cheapest Samsung Galaxy phone is getting One UI 8.5](https://www.androidauthority.com/galaxy-a07-5g-one-ui-8-5-3671439/)
+ - [A deep dive into how Anthropic&#39;s Claude Code and Peter Steinberger&#39;s OpenClaw unleashed the AI agent revolution that is rapidly transforming modern computing &lpar;Steven Levy/Wired&rpar;](https://www.techmeme.com/260527/p7#a260527p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
