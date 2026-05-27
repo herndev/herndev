@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)
- - ⏩ [Street musician](http://9gag.com/gag/avyM9DE)
- - 👉 [A woman asks to cut to the front of the plane before anybody even starts exiting\u2026 and the guy behind her expresses his fatigue.](http://9gag.com/gag/a4PXxRp)<!-- MEMES:END -->
+ - 💣 [A woman asks to cut to the front of the plane before anybody even starts exiting\u2026 and the guy behind her expresses his fatigue.](http://9gag.com/gag/a4PXxRp)
+ - ⏩ [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)
+ - 👉 [The frog is chill](http://9gag.com/gag/a7oYnVx)<!-- MEMES:END -->
 
 ---
 
