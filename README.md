@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pope Leo Schooled the Tech Bros on Tolkien](https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/)
- - [Previous OS updates contained security patches which have now been detailed by Apple](https://appleinsider.com/articles/26/05/26/previous-os-updates-contained-security-patches-which-have-now-been-detailed-by-apple?utm_source=rss)
- - [We&#39;re Testing the &#39;Gold&#39; T1 Trump Mobile Phone. Day 3 &lpar;Live Updates&rpar;](https://www.cnet.com/news-live/t1-trump-mobile-phone-review/)<!-- TECH:END -->
+ - [Case manufacturers are guessing more than leakers with iPhone Fold product listings](https://appleinsider.com/articles/26/05/26/case-manufacturers-are-guessing-more-than-leakers-with-iphone-fold-product-listings?utm_source=rss)
+ - [Source: AI inference provider Baseten is in talks to raise $1B at a post-money valuation of $11B, up from $5B after its $300M Series E announced in January &lpar;The Information&rpar;](https://www.techmeme.com/260526/p34#a260526p34)
+ - [Pope Leo Schooled the Tech Bros on Tolkien](https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
