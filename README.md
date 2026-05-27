@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;May 27&rpar;](https://www.androidauthority.com/wallpaper-wednesday-may-27-2026-3671207/)
- - [This smart bird feeder captures more of my backyard drama](https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review)
- - [This Ferrari should have been a Volkswagen](https://www.theverge.com/transportation/938016/this-ferrari-should-have-been-a-volkswagen)<!-- TECH:END -->
+ - [How to use digital IDs in Apple Wallet &amp; where they are supported](https://appleinsider.com/articles/25/11/18/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss)
+ - [Sony’s first RGB TV is a statement piece](https://www.theverge.com/tech/937879/sony-bravia-7-ii-review)
+ - [ChatGPT feeling slow for you today? OpenAI confirms issues](https://www.androidauthority.com/chatgpt-outage-3671667/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
