@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This flagship uses liquid cooling to keep an overclocked Snapdragon 8 Elite Gen 5 chill](https://www.androidauthority.com/redmagic-11s-pro-launch-3671301/)
- - [I tested the this liquid-cooled phone in a UK heatwave, it made me sweat](https://www.androidauthority.com/redmagic-11s-pro-benchmarks-3670930/)
- - [The AI fight brewing inside The New York Times](https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;May 27&rpar;](https://www.androidauthority.com/wallpaper-wednesday-may-27-2026-3671207/)
+ - [This smart bird feeder captures more of my backyard drama](https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review)
+ - [This Ferrari should have been a Volkswagen](https://www.theverge.com/transportation/938016/this-ferrari-should-have-been-a-volkswagen)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
