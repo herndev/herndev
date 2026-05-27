@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s newest iPad Air is up to $100 off for the first time](https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale)
- - [Meta now lets you pay for the pleasure of using Facebook](https://www.androidauthority.com/meta-paid-facebook-instagram-whatsapp-plans-3671832/)
- - [HP reports Q2 revenue up 9% YoY to $14.4B, vs. $14B est., Personal Systems revenue up 13% to $10.2B, and forecasts Q3 adjusted EPS above estimates &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260527/p45#a260527p45)<!-- TECH:END -->
+ - [Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme](https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/)
+ - [Sources: Uber has increased its stake in Delivery Hero to ~37% by acquiring Aspex Management&#39;s 14.6% share at a €12B valuation, after a takeover offer last week &lpar;Financial Times&rpar;](https://www.techmeme.com/260527/p46#a260527p46)
+ - [Apple’s newest iPad Air is up to $100 off for the first time](https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
