@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Home is supercharging what your smart cameras can do](https://www.androidauthority.com/google-home-camera-triggers-3671725/)
- - [Meta rolls out Plus plans for Instagram, Facebook, and WhatsApp globally, will test $7.99/mo. and $19.99/mo. Meta AI plans, a $49.99/mo. creator plan, and more &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260527/p39#a260527p39)
- - [Patrick Brammall leads Apple TV&#39;s upcoming missing-child thriller &#39;Last Seen&#39;](https://appleinsider.com/articles/26/05/27/patrick-brammall-leads-apple-tvs-upcoming-missing-child-thriller-last-seen?utm_source=rss)<!-- TECH:END -->
+ - [Hot deal: PlayStation Pulse Explore buds drop to their all-time low price!](https://www.androidauthority.com/playstation-pulse-explore-buds-deal-3671789/)
+ - [Amazon MGM Studios announces the GenAI Creators&#39; Fund, greenlights three AI animated series for Prime Video, and launches an AI production platform with AWS &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260527/p41#a260527p41)
+ - [&#39;MLB The Show Mobile&#39; launches with card packs, PvP &amp; pricey bundles](https://appleinsider.com/articles/26/05/27/mlb-the-show-mobile-launches-with-card-packs-pvp-pricey-bundles?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
