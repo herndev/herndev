@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Case manufacturers are guessing more than leakers with iPhone Fold product listings](https://appleinsider.com/articles/26/05/26/case-manufacturers-are-guessing-more-than-leakers-with-iphone-fold-product-listings?utm_source=rss)
- - [Source: AI inference provider Baseten is in talks to raise $1B at a post-money valuation of $11B, up from $5B after its $300M Series E announced in January &lpar;The Information&rpar;](https://www.techmeme.com/260526/p34#a260526p34)
- - [Pope Leo Schooled the Tech Bros on Tolkien](https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/)<!-- TECH:END -->
+ - [SK Hynix tops $1T in market value after shares jumped 11% on Wednesday, becoming the third Asian company to hit the mark; shares surged 900%+ in the past year &lpar;Bloomberg&rpar;](https://www.techmeme.com/260526/p36#a260526p36)
+ - [Sources: Fireworks AI, which helps companies run AI models, is in talks to raise funding at a $15B valuation after being valued at $4B in October 2025 &lpar;Rebecca Torrence/Bloomberg&rpar;](https://www.techmeme.com/260526/p35#a260526p35)
+ - [Did the Pope use AI to write about the dangers of AI?](https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
