@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Dating App Is Giving Away Free Gas to Convince People to Get Out of the House](https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/)
- - [OpenAI announces partnerships to combat election misinformation, offering cybersecurity products to state officials and backing legislation to curb deepfakes &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260527/p38#a260527p38)
- - [Valve raises Steam Deck prices by more than $200](https://www.theverge.com/games/938340/valve-steam-deck-price-increase)<!-- TECH:END -->
+ - [Google Home is supercharging what your smart cameras can do](https://www.androidauthority.com/google-home-camera-triggers-3671725/)
+ - [Meta rolls out Plus plans for Instagram, Facebook, and WhatsApp globally, will test $7.99/mo. and $19.99/mo. Meta AI plans, a $49.99/mo. creator plan, and more &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260527/p39#a260527p39)
+ - [Patrick Brammall leads Apple TV&#39;s upcoming missing-child thriller &#39;Last Seen&#39;](https://appleinsider.com/articles/26/05/27/patrick-brammall-leads-apple-tvs-upcoming-missing-child-thriller-last-seen?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
