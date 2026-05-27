@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot deal: PlayStation Pulse Explore buds drop to their all-time low price!](https://www.androidauthority.com/playstation-pulse-explore-buds-deal-3671789/)
- - [Amazon MGM Studios announces the GenAI Creators&#39; Fund, greenlights three AI animated series for Prime Video, and launches an AI production platform with AWS &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260527/p41#a260527p41)
- - [&#39;MLB The Show Mobile&#39; launches with card packs, PvP &amp; pricey bundles](https://appleinsider.com/articles/26/05/27/mlb-the-show-mobile-launches-with-card-packs-pvp-pricey-bundles?utm_source=rss)<!-- TECH:END -->
+ - [Salesforce reports Q1 revenue up 13% YoY to $11.13B, vs. $11.05B est., Agentforce annual recurring revenue up 205% to $1.2B, and forecasts Q2 revenue below est. &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260527/p44#a260527p44)
+ - [Snowflake reports Q1 revenue up 33% YoY to $1.39B, vs. $1.32B est., and commits to spending $6B on AWS over five years; SNOW jumps 29%+ after hours &lpar;CNBC&rpar;](https://www.techmeme.com/260527/p43#a260527p43)
+ - [All the news about Ferrari&amp;#8217;s polarizing Luce EV](https://www.theverge.com/transportation/938513/ferrari-luce-ev)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
