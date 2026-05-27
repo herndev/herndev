@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
- - ⏩ [Interesting](http://9gag.com/gag/an7mG0o)
- - 👉 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)<!-- MEMES:END -->
+ - 💣 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)
+ - ⏩ [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)
+ - 👉 [Lifetime of supply](http://9gag.com/gag/aryQ80y)<!-- MEMES:END -->
 
 ---
 
