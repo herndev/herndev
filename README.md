@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Weird gym routines](http://9gag.com/gag/aByAv7Z)
- - ⏩ [A woman asks to cut to the front of the plane before anybody even starts exiting\u2026 and the guy behind her expresses his fatigue.](http://9gag.com/gag/a4PXxRp)
- - 👉 [Waiting for the other shoe to drop](http://9gag.com/gag/a346nn3)<!-- MEMES:END -->
+ - 💣 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
+ - ⏩ [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)
+ - 👉 [The frog is chill](http://9gag.com/gag/a7oYnVx)<!-- MEMES:END -->
 
 ---
 
