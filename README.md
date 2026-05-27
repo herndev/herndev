@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canada&#39;s online safety bill could threaten encryption, Apple &amp; Google push for amendments](https://appleinsider.com/articles/26/05/27/canadas-online-safety-bill-could-threaten-encryption-apple-google-push-for-amendments?utm_source=rss)
- - [Samsung&#39;s largest union approves a pay deal that would give chip workers an average bonus of ~$340K, with ~74% of members voting in favor, staving off a strike &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260526/p37#a260526p37)
- - [SK Hynix tops $1T in market value after shares jumped 11% on Wednesday, becoming the third Asian company to hit the mark; shares surged 900%+ in the past year &lpar;Bloomberg&rpar;](https://www.techmeme.com/260526/p36#a260526p36)<!-- TECH:END -->
+ - [Initial benchmarks show Nvidia&#39;s Vera CPU, which features 88 in-house-designed Olympus cores, packs a heavy-hitting punch, beating Intel&#39;s and AMD&#39;s x86_64 CPUs &lpar;Michael Larabel/Phoronix&rpar;](https://www.techmeme.com/260526/p39#a260526p39)
+ - [Document: Samsung plans to invest $1.5B to build a semiconductor testing plant focused on legacy chips in Vietnam; the plant is slated to open in November 2027 &lpar;Reuters&rpar;](https://www.techmeme.com/260526/p38#a260526p38)
+ - [Canada&#39;s online safety bill could threaten encryption, Apple &amp; Google push for amendments](https://appleinsider.com/articles/26/05/27/canadas-online-safety-bill-could-threaten-encryption-apple-google-push-for-amendments?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
