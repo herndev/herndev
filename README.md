@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Snu snu](http://9gag.com/gag/aoyvno2)
- - ⏩ [The frog is chill](http://9gag.com/gag/a7oYnVx)
- - 👉 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)<!-- MEMES:END -->
+ - 💣 [Tinder Final Boss](http://9gag.com/gag/aPAEr9G)
+ - ⏩ [The worst she can say is no...](http://9gag.com/gag/aRBbDxq)
+ - 👉 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)<!-- MEMES:END -->
 
 ---
 
