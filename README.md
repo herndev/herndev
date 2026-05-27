@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: EU leaders are divided on curbing Big Tech as they weigh cloud tender rules and giving EU companies preferential access to mobile satellite spectrum &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260527/p8#a260527p8)
- - [Even the cheapest Samsung Galaxy phone is getting One UI 8.5](https://www.androidauthority.com/galaxy-a07-5g-one-ui-8-5-3671439/)
- - [A deep dive into how Anthropic&#39;s Claude Code and Peter Steinberger&#39;s OpenClaw unleashed the AI agent revolution that is rapidly transforming modern computing &lpar;Steven Levy/Wired&rpar;](https://www.techmeme.com/260527/p7#a260527p7)<!-- TECH:END -->
+ - [Datacurve releases the DeepSWE coding benchmark, a 113-task test across 91 open-source repositories and five languages, and says GPT-5.5 is the leader at 70% &lpar;Michael Nuñez/VentureBeat&rpar;](https://www.techmeme.com/260527/p13#a260527p13)
+ - [I tested this year’s two best camera phones to crown a winner](https://www.androidauthority.com/oppo-vs-xiaomi-ultra-camera-shootout-3666587/)
+ - [Corsair Galleon 100 SD Review: Stream Deck Now Included](https://www.wired.com/review/review-corsair-galleon-100-sd/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
