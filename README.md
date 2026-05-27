@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lifetime of supply](http://9gag.com/gag/aryQ80y)
- - ⏩ [Two Samoan contract killers came to Vietnam to kill two Australians &lpar;one died&rpar; and were arrested after less than 72 hours. Murder carries the death penalty in Vietnam](http://9gag.com/gag/abANRor)
- - 👉 [The frog is chill](http://9gag.com/gag/a7oYnVx)<!-- MEMES:END -->
+ - 💣 [Snu snu](http://9gag.com/gag/aoyvno2)
+ - ⏩ [The frog is chill](http://9gag.com/gag/a7oYnVx)
+ - 👉 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)<!-- MEMES:END -->
 
 ---
 
