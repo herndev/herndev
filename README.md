@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)
- - ⏩ [The frog is chill](http://9gag.com/gag/a7oYnVx)
- - 👉 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)<!-- MEMES:END -->
+ - 💣 [Reloading.](http://9gag.com/gag/abANEmp)
+ - ⏩ [Tinder Final Boss](http://9gag.com/gag/aPAEr9G)
+ - 👉 [The frog is chill](http://9gag.com/gag/a7oYnVx)<!-- MEMES:END -->
 
 ---
 
