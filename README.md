@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Initial benchmarks show Nvidia&#39;s Vera CPU, which features 88 in-house-designed Olympus cores, packs a heavy-hitting punch, beating Intel&#39;s and AMD&#39;s x86_64 CPUs &lpar;Michael Larabel/Phoronix&rpar;](https://www.techmeme.com/260526/p39#a260526p39)
- - [Document: Samsung plans to invest $1.5B to build a semiconductor testing plant focused on legacy chips in Vietnam; the plant is slated to open in November 2027 &lpar;Reuters&rpar;](https://www.techmeme.com/260526/p38#a260526p38)
- - [Canada&#39;s online safety bill could threaten encryption, Apple &amp; Google push for amendments](https://appleinsider.com/articles/26/05/27/canadas-online-safety-bill-could-threaten-encryption-apple-google-push-for-amendments?utm_source=rss)<!-- TECH:END -->
+ - [A look at the Pentagon&#39;s embrace of autonomous weapons before its fight with Anthropic over &quot;red lines&quot;, and the debate over AI use in military operations &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260527/p5#a260527p5)
+ - [Sources and documents detail China&#39;s effort to modernize its decade-old domestic surveillance network with new generations of AI-enabled cameras and software &lpar;Eleanor Olcott/Financial Times&rpar;](https://www.techmeme.com/260527/p4#a260527p4)
+ - [Analysis: the share of entry-level hiring in India&#39;s tech sector fell to ~15% in 2025 from 28% in 2024 as companies shifted focus to AI and automation roles &lpar;Tanya Pandey/The Economic Times&rpar;](https://www.techmeme.com/260527/p3#a260527p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
