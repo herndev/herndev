@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use digital IDs in Apple Wallet &amp; where they are supported](https://appleinsider.com/articles/25/11/18/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss)
- - [Sony’s first RGB TV is a statement piece](https://www.theverge.com/tech/937879/sony-bravia-7-ii-review)
- - [ChatGPT feeling slow for you today? OpenAI confirms issues](https://www.androidauthority.com/chatgpt-outage-3671667/)<!-- TECH:END -->
+ - [A Dating App Is Giving Away Free Gas to Convince People to Get Out of the House](https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/)
+ - [OpenAI announces partnerships to combat election misinformation, offering cybersecurity products to state officials and backing legislation to curb deepfakes &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260527/p38#a260527p38)
+ - [Valve raises Steam Deck prices by more than $200](https://www.theverge.com/games/938340/valve-steam-deck-price-increase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
