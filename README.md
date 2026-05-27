@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tinder Final Boss](http://9gag.com/gag/aPAEr9G)
- - ⏩ [The worst she can say is no...](http://9gag.com/gag/aRBbDxq)
- - 👉 [David Malukas in tears after losing Indy 500 by record 0.0233s](http://9gag.com/gag/aO8MpED)<!-- MEMES:END -->
+ - 💣 [The worst she can say is no...](http://9gag.com/gag/aRBbDxq)
+ - ⏩ [A woman asks to cut to the front of the plane before anybody even starts exiting\u2026 and the guy behind her expresses his fatigue.](http://9gag.com/gag/a4PXxRp)
+ - 👉 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)<!-- MEMES:END -->
 
 ---
 
