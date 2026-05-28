@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Goon smarter, not harder.](http://9gag.com/gag/a6Z03X8)
- - ⏩ [How many beers?](http://9gag.com/gag/a2v3jN9)
- - 👉 [Due to the hot weather, Indians are cooling transformers at power generation plants with fans. This country has nuclear weapons.](http://9gag.com/gag/aGymozZ)<!-- MEMES:END -->
+ - 💣 [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
+ - ⏩ [Nobody expected that !](http://9gag.com/gag/avyMDYE)
+ - 👉 [How many beers?](http://9gag.com/gag/a2v3jN9)<!-- MEMES:END -->
 
 ---
 
