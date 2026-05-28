@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sleeping with open windows in summer counts as camping](http://9gag.com/gag/a7oYAN2)
+ - 💣 [Nobody expected that !](http://9gag.com/gag/avyMDYE)
  - ⏩ [Just do it!](http://9gag.com/gag/aLnZbVW)
  - 👉 [A master at work](http://9gag.com/gag/aByAovA)<!-- MEMES:END -->
 
