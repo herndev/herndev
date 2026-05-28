@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill](https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/)
- - [JMGO N3 Ultimate projector review: Great setup, excellent picture, bad software](https://appleinsider.com/articles/26/05/28/jmgo-n3-ultimate-projector-review-great-setup-excellent-picture-bad-software?utm_source=rss)
- - [Mark Zuckerberg tells shareholders that a Meta cloud computing business is &quot;definitely on the table&quot; if it overspends on data centers and has excess capacity &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260527/p50#a260527p50)<!-- TECH:END -->
+ - [Filing: Amazon will acquire Apple&#39;s 20% stake in Globalstar as part of its acquisition of the satellite provider and create a subsidiary to conduct the merger &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/260527/p52#a260527p52)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 28, #1082](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-28-1082/)
+ - [People Are Flocking to DuckDuckGo as Google Leans Heavily Into AI](https://www.cnet.com/tech/services-and-software/duckduckgo-installs-increase-after-google-io/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
