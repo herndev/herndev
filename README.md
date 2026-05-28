@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Household Cavalry making her day](http://9gag.com/gag/aYQ3d3v)
- - ⏩ [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
- - 👉 [Nobody expected that !](http://9gag.com/gag/avyMDYE)<!-- MEMES:END -->
+ - 💣 [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
+ - ⏩ [Nobody expected that !](http://9gag.com/gag/avyMDYE)
+ - 👉 [It&#39;s like an auction](http://9gag.com/gag/ayNbzGY)<!-- MEMES:END -->
 
 ---
 
