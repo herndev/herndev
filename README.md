@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
- - ⏩ [It&#39;s like an auction](http://9gag.com/gag/ayNbzGY)
- - 👉 [Due to the hot weather, Indians are cooling transformers at power generation plants with fans. This country has nuclear weapons.](http://9gag.com/gag/aGymozZ)<!-- MEMES:END -->
+ - 💣 [The Household Cavalry making her day](http://9gag.com/gag/aYQ3d3v)
+ - ⏩ [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
+ - 👉 [Nobody expected that !](http://9gag.com/gag/avyMDYE)<!-- MEMES:END -->
 
 ---
 
