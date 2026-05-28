@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
- - ⏩ [Nobody expected that !](http://9gag.com/gag/avyMDYE)
- - 👉 [How many beers?](http://9gag.com/gag/a2v3jN9)<!-- MEMES:END -->
+ - ⏩ [Its actually funny ngl](http://9gag.com/gag/aO8MjMN)
+ - 👉 [No one will ever know](http://9gag.com/gag/a5QOyro)<!-- MEMES:END -->
 
 ---
 
