@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic is preparing a major multilingual upgrade for Claude Voice Mode](https://www.androidauthority.com/claude-voice-mode-adding-more-languages-3671980/)
- - [OnePlus 16 main camera leaks, and we’re not sure if it’s an upgrade or downgrade](https://www.androidauthority.com/oneplus-16-main-camera-leak-3671915/)
- - [The World&#39;s Most Luxurious Foldable Phone Is Here for the 1%](https://www.cnet.com/tech/mobile/the-worlds-most-luxurious-foldable-phone-is-here-for-the-1/)<!-- TECH:END -->
+ - [UK researchers win access to Google&#39;s Willow quantum chip, which it says completes a calculation in five minutes that takes supercomputers 10 septillion years &lpar;Chris Vallance/BBC&rpar;](https://www.techmeme.com/260528/p18#a260528p18)
+ - [Dealroom: London overtakes Paris to reclaim its position as Europe&#39;s leading tech hub, and now ranks fourth globally; London startups raised $17.7B in 2025 &lpar;Paul Sandle/Reuters&rpar;](https://www.techmeme.com/260528/p17#a260528p17)
+ - [Your phone number for 15GB storage? New survey shows deep divide over Gmail’s latest experiment](https://www.androidauthority.com/gmail-5gb-storage-limit-poll-results-3671959/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
