@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find the Hakone Nanamagari touge race in Forza Horizon 6, and my tips to win it](https://www.pcgamer.com/games/racing/forza-horizon-6-hakone-nanamagari-touge-location/)
- - [Clair Obscur: Expedition 33&#39;s Esquie is a perfect unit in new release](https://www.polygon.com/clair-obscur-expedition-33-best-merch-esquie-preorder-nendoroid/)
- - [Riot taunts would-be hackers using physical hardware to cheat: &#39;congrats to the owners of a brand new $6k paperweight&#39;](https://www.pcgamer.com/hardware/vr-hardware/riot-taunts-would-be-hackers-using-physical-hardware-to-cheat-congrats-to-the-owners-of-a-brand-new-usd6k-paperweight/)<!-- GAME:END -->
+ - [007 First Light&#39;s opening perfects the art of the video game tutorial](https://www.polygon.com/007-first-light-james-bond-game-tutorial/)
+ - [Too many Pokémon fans are trying to get their cards graded](https://www.polygon.com/psa-pokemon-value-grading-backlog-how-much-is-a-card-worth/)
+ - [Bloodborne Sicko Who Spent 11 Years Helping People With One Boss Is Retiring Because Nobody Is Playing It Anymore](https://kotaku.com/bloodborne-sicko-who-spent-11-years-helping-people-with-one-boss-is-retiring-because-nobody-is-playing-it-anymore-2000700265)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
