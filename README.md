@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro &amp; PlayStation 5 are the perfect combo with Remote Play apps](https://appleinsider.com/articles/26/05/27/apple-vision-pro-playstation-5-are-the-perfect-combo-with-portal-remote-play-app?utm_source=rss)
- - [A $2,000 AI-generated film will make its debut at Tribeca](https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca)
- - [Google Meet’s latest update puts Gemini right where you need it](https://www.androidauthority.com/google-meet-ask-gemini-3672179/)<!-- TECH:END -->
+ - [The Pixel Buds app is getting a new look — in more ways than one](https://www.androidauthority.com/google-pixel-buds-app-redesign-3672309/)
+ - [AYN Thor goes full Nintendo DS with an official stylus add-on](https://www.androidauthority.com/ayn-thor-stylus-3672233/)
+ - [Survey shows you’re not buying the Googlebooks hype just yet](https://www.androidauthority.com/excited-about-googlebooks-poll-results-3672282/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
