@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Amazon will acquire Apple&#39;s 20% stake in Globalstar as part of its acquisition of the satellite provider and create a subsidiary to conduct the merger &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/260527/p52#a260527p52)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 28, #1082](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-28-1082/)
- - [People Are Flocking to DuckDuckGo as Google Leans Heavily Into AI](https://www.cnet.com/tech/services-and-software/duckduckgo-installs-increase-after-google-io/)<!-- TECH:END -->
+ - [Last.fm announces it is an independent company again, 19 years after being acquired by CBS; it plans to keep its current team and continue the service as normal &lpar;Mariella Moon/Engadget&rpar;](https://www.techmeme.com/260527/p55#a260527p55)
+ - [Kuaishou reports Q1 revenue up 3.4% YoY to ~$5B and Kling AI revenue up 300%+ YoY to ~$96M; Kling reached a ~$500M annualized revenue run rate in March 2026 &lpar;Coco Feng/South China Morning Post&rpar;](https://www.techmeme.com/260527/p54#a260527p54)
+ - [The CFTC files alongside Gemini to nullify Gemini&#39;s $5M settlement in January 2025, arguing that the agency&#39;s current management wouldn&#39;t have pursued the case &lpar;Jesse Hamilton/CoinDesk&rpar;](https://www.techmeme.com/260527/p53#a260527p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
