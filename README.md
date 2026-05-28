@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Nobody expected that !](http://9gag.com/gag/avyMDYE)
- - ⏩ [It&#39;s like an auction](http://9gag.com/gag/ayNbzGY)
- - 👉 [Male bee dies after ejaculation while mating with a queen bee.](http://9gag.com/gag/aoyvnvA)<!-- MEMES:END -->
+ - ⏩ [Its actually funny ngl](http://9gag.com/gag/aO8MjMN)
+ - 👉 [It&#39;s like an auction](http://9gag.com/gag/ayNbzGY)<!-- MEMES:END -->
 
 ---
 
