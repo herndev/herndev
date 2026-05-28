@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Human evolution](http://9gag.com/gag/a9yxBLD)
- - ⏩ [Lifetime of supply](http://9gag.com/gag/aryQ80y)
+ - 💣 [Reloading.](http://9gag.com/gag/abANEmp)
+ - ⏩ [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)
  - 👉 [Due to the hot weather, Indians are cooling transformers at power generation plants with fans. This country has nuclear weapons.](http://9gag.com/gag/aGymozZ)<!-- MEMES:END -->
 
 ---
