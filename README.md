@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel Buds app is getting a new look — in more ways than one](https://www.androidauthority.com/google-pixel-buds-app-redesign-3672309/)
- - [AYN Thor goes full Nintendo DS with an official stylus add-on](https://www.androidauthority.com/ayn-thor-stylus-3672233/)
- - [Survey shows you’re not buying the Googlebooks hype just yet](https://www.androidauthority.com/excited-about-googlebooks-poll-results-3672282/)<!-- TECH:END -->
+ - [Motorola’s last-gen Razr Ultra is almost half off](https://www.theverge.com/gadgets/938621/razr-ultra-roborock-qrevo-curv-2-robot-vacuum-deal-sale)
+ - [Proton Mail is making it easier to say goodbye to Gmail](https://www.androidauthority.com/proton-mail-gmail-feature-3672304/)
+ - [OLED, KVM &amp; lower prices make MSI&#39;s new Mac-friendly monitor lineup hard to ignore](https://appleinsider.com/articles/26/05/28/oled-kvm-lower-prices-make-msis-new-mac-friendly-monitor-lineup-hard-to-ignore?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
