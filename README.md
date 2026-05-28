@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
- - ⏩ [Nobody expected that !](http://9gag.com/gag/avyMDYE)
- - 👉 [It&#39;s like an auction](http://9gag.com/gag/ayNbzGY)<!-- MEMES:END -->
+ - ⏩ [The worst she can say is no...](http://9gag.com/gag/aRBbDxq)
+ - 👉 [No one will ever know](http://9gag.com/gag/a5QOyro)<!-- MEMES:END -->
 
 ---
 
