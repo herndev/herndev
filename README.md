@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last.fm announces it is an independent company again, 19 years after being acquired by CBS; it plans to keep its current team and continue the service as normal &lpar;Mariella Moon/Engadget&rpar;](https://www.techmeme.com/260527/p55#a260527p55)
- - [Kuaishou reports Q1 revenue up 3.4% YoY to ~$5B and Kling AI revenue up 300%+ YoY to ~$96M; Kling reached a ~$500M annualized revenue run rate in March 2026 &lpar;Coco Feng/South China Morning Post&rpar;](https://www.techmeme.com/260527/p54#a260527p54)
- - [The CFTC files alongside Gemini to nullify Gemini&#39;s $5M settlement in January 2025, arguing that the agency&#39;s current management wouldn&#39;t have pursued the case &lpar;Jesse Hamilton/CoinDesk&rpar;](https://www.techmeme.com/260527/p53#a260527p53)<!-- TECH:END -->
+ - [Trade Desk&#39;s market cap fell ~70% from a December 2024 peak as it contends with frustrated agency partners, competition from Google, and a new entrant, Amazon &lpar;Patience Haggin/Wall Street Journal&rpar;](https://www.techmeme.com/260528/p1#a260528p1)
+ - [Memo: Meta plans to embed engineers and product managers within large corporate customers as part of a new Enterprise Solutions unit to help deploy its AI tools &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260527/p57#a260527p57)
+ - [Sources: the Pentagon is pursuing funding deals with US drone companies, potentially with equity stakes, to increase domestic production and lower unit costs &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260527/p56#a260527p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
