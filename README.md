@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome To Scotland.](http://9gag.com/gag/aRBbROG)
- - ⏩ [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)
- - 👉 [Street musician](http://9gag.com/gag/avyM9DE)<!-- MEMES:END -->
+ - 💣 [Sleeping with open windows in summer counts as camping](http://9gag.com/gag/a7oYAN2)
+ - ⏩ [Just do it!](http://9gag.com/gag/aLnZbVW)
+ - 👉 [A master at work](http://9gag.com/gag/aByAovA)<!-- MEMES:END -->
 
 ---
 
