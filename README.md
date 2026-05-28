@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A bizarre Chrome bug is locking some Android tablet users out of their browser](https://www.androidauthority.com/google-chrome-5-window-limit-bug-3672375/)
- - [Sources: Airwallex raised new funding led by Lee Fixel&#39;s Addition at a ~$12B valuation, up from $8B late last year, and hit $1.5B in ARR, up from $1B in October &lpar;Axios&rpar;](https://www.techmeme.com/260528/p59#a260528p59)
- - [Apple&#39;s AI research will be in a computer vision conference before WWDC](https://appleinsider.com/articles/26/05/28/apples-ai-research-will-be-in-a-computer-vision-conference-before-wwdc?utm_source=rss)<!-- TECH:END -->
+ - [Okta reports Q1 revenue up 11% YoY to $765M, vs. $752M est., says the agentic AI build-out is spiking demand for its identity tools; OKTA jumps 7%+ after hours &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260528/p61#a260528p61)
+ - [Google Contacts on Wear OS is trying out a smart photos-first redesign](https://www.androidauthority.com/contacts-wear-os-ui-3672372/)
+ - [Sources: Amazon has shut down an internal leaderboard that tracked employees&#39; use of AI tools after workers tried to boost their scores with needless tasks &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/260528/p60#a260528p60)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
