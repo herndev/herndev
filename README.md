@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new projector lineup is all about summer sports and outdoor viewing](https://www.androidauthority.com/awol-vision-summer-entertainment-lineup-launch-3672357/)
- - [Samsung Galaxy Watch 9 codenames suggest there will be a new Classic this year](https://www.androidauthority.com/galaxy-watch-9-codenames-3672348/)
- - [Dell reports Q1 revenue up 88% YoY to $43.84B, vs. $35.43B est., and forecasts FY 2027 revenue above estimates; DELL jumps 15%+ after hours &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260528/p57#a260528p57)<!-- TECH:END -->
+ - [A bizarre Chrome bug is locking some Android tablet users out of their browser](https://www.androidauthority.com/google-chrome-5-window-limit-bug-3672375/)
+ - [Sources: Airwallex raised new funding led by Lee Fixel&#39;s Addition at a ~$12B valuation, up from $8B late last year, and hit $1.5B in ARR, up from $1B in October &lpar;Axios&rpar;](https://www.techmeme.com/260528/p59#a260528p59)
+ - [Apple&#39;s AI research will be in a computer vision conference before WWDC](https://appleinsider.com/articles/26/05/28/apples-ai-research-will-be-in-a-computer-vision-conference-before-wwdc?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
