@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reloading.](http://9gag.com/gag/abANEmp)
- - ⏩ [Norwegian guy was abandoned in the slums of India by his hippie parents. Ended up having an Indian accent due to living there for years](http://9gag.com/gag/ajPzymg)
- - 👉 [Due to the hot weather, Indians are cooling transformers at power generation plants with fans. This country has nuclear weapons.](http://9gag.com/gag/aGymozZ)<!-- MEMES:END -->
+ - 💣 [Nobody expected that !](http://9gag.com/gag/avyMDYE)
+ - ⏩ [It&#39;s like an auction](http://9gag.com/gag/ayNbzGY)
+ - 👉 [Male bee dies after ejaculation while mating with a queen bee.](http://9gag.com/gag/aoyvnvA)<!-- MEMES:END -->
 
 ---
 
