@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK researchers win access to Google&#39;s Willow quantum chip, which it says completes a calculation in five minutes that takes supercomputers 10 septillion years &lpar;Chris Vallance/BBC&rpar;](https://www.techmeme.com/260528/p18#a260528p18)
- - [Dealroom: London overtakes Paris to reclaim its position as Europe&#39;s leading tech hub, and now ranks fourth globally; London startups raised $17.7B in 2025 &lpar;Paul Sandle/Reuters&rpar;](https://www.techmeme.com/260528/p17#a260528p17)
- - [Your phone number for 15GB storage? New survey shows deep divide over Gmail’s latest experiment](https://www.androidauthority.com/gmail-5gb-storage-limit-poll-results-3671959/)<!-- TECH:END -->
+ - [Oura’s newest smart ring is tiny on the finger but big on impact](https://www.androidauthority.com/oura-ring-5-launch-3670785/)
+ - [Oura’s New Ring 5 Is Smaller and Lighter—and Adds an AI Health Coach](https://www.wired.com/story/oura-ring-5/)
+ - [They’ve finally made the Oura Ring smaller and lighter](https://www.theverge.com/tech/938518/oura-ring-5-smart-ring-price-specs-wearables-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
