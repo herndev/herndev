@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nobody expected that !](http://9gag.com/gag/avyMDYE)
- - ⏩ [Just do it!](http://9gag.com/gag/aLnZbVW)
- - 👉 [A master at work](http://9gag.com/gag/aByAovA)<!-- MEMES:END -->
+ - 💣 [Human evolution](http://9gag.com/gag/a9yxBLD)
+ - ⏩ [Lifetime of supply](http://9gag.com/gag/aryQ80y)
+ - 👉 [Due to the hot weather, Indians are cooling transformers at power generation plants with fans. This country has nuclear weapons.](http://9gag.com/gag/aGymozZ)<!-- MEMES:END -->
 
 ---
 
