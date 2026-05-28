@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We have many questions about OWC&#39;s new Stack AI speed booster](https://appleinsider.com/articles/26/05/27/we-have-many-questions-about-owcs-new-stack-ai-speed-booster?utm_source=rss)
- - [CNN sues Perplexity over ‘verbatim’ copycat articles](https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit)
- - [These are my favorite Switch 2 accessories](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories)<!-- TECH:END -->
+ - [Apple Vision Pro &amp; PlayStation 5 are the perfect combo with Remote Play apps](https://appleinsider.com/articles/26/05/27/apple-vision-pro-playstation-5-are-the-perfect-combo-with-portal-remote-play-app?utm_source=rss)
+ - [A $2,000 AI-generated film will make its debut at Tribeca](https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca)
+ - [Google Meet’s latest update puts Gemini right where you need it](https://www.androidauthority.com/google-meet-ask-gemini-3672179/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
