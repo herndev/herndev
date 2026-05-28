@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trade Desk&#39;s market cap fell ~70% from a December 2024 peak as it contends with frustrated agency partners, competition from Google, and a new entrant, Amazon &lpar;Patience Haggin/Wall Street Journal&rpar;](https://www.techmeme.com/260528/p1#a260528p1)
- - [Memo: Meta plans to embed engineers and product managers within large corporate customers as part of a new Enterprise Solutions unit to help deploy its AI tools &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260527/p57#a260527p57)
- - [Sources: the Pentagon is pursuing funding deals with US drone companies, potentially with equity stakes, to increase domestic production and lower unit costs &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260527/p56#a260527p56)<!-- TECH:END -->
+ - [Surging AI demand has caused shortages and price increases across the entire optical supply chain, from lasers and substrates to optical fibers and connectors &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260528/p10#a260528p10)
+ - [Roku’s biggest home screen refresh yet is rolling out now](https://www.androidauthority.com/roku-home-screen-update-2026-3671919/)
+ - [Sources: ByteDance is developing its own CPUs to support growing AI infrastructure needs, as chip price hikes and supply shortages constrain expansion plans &lpar;Reuters&rpar;](https://www.techmeme.com/260528/p9#a260528p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
