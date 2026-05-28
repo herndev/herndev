@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nobody expected that !](http://9gag.com/gag/avyMDYE)
- - ⏩ [Its actually funny ngl](http://9gag.com/gag/aO8MjMN)
- - 👉 [It&#39;s like an auction](http://9gag.com/gag/ayNbzGY)<!-- MEMES:END -->
+ - 💣 [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
+ - ⏩ [It&#39;s like an auction](http://9gag.com/gag/ayNbzGY)
+ - 👉 [Due to the hot weather, Indians are cooling transformers at power generation plants with fans. This country has nuclear weapons.](http://9gag.com/gag/aGymozZ)<!-- MEMES:END -->
 
 ---
 
