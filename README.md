@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Okta reports Q1 revenue up 11% YoY to $765M, vs. $752M est., says the agentic AI build-out is spiking demand for its identity tools; OKTA jumps 7%+ after hours &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260528/p61#a260528p61)
- - [Google Contacts on Wear OS is trying out a smart photos-first redesign](https://www.androidauthority.com/contacts-wear-os-ui-3672372/)
- - [Sources: Amazon has shut down an internal leaderboard that tracked employees&#39; use of AI tools after workers tried to boost their scores with needless tasks &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/260528/p60#a260528p60)<!-- TECH:END -->
+ - [Apple&#39;s latest conflict mineral report contradicts previous complaints over their use](https://appleinsider.com/articles/26/05/28/apples-latest-conflict-mineral-report-contradicts-previous-complaints-over-their-use?utm_source=rss)
+ - [Sources: Apollo Global and Blackstone are working to bring additional investors into a ~$36B debt financing deal to purchase Google TPUs for Anthropic to lease &lpar;Bloomberg&rpar;](https://www.techmeme.com/260528/p63#a260528p63)
+ - [California AG Rob Bonta sues 23andMe, alleging it failed to protect sensitive user data in a 2023 breach that affected ~7M people across the US &lpar;Jaimie Ding/Associated Press&rpar;](https://www.techmeme.com/260528/p62#a260528p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
