@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oura’s newest smart ring is tiny on the finger but big on impact](https://www.androidauthority.com/oura-ring-5-launch-3670785/)
- - [Oura’s New Ring 5 Is Smaller and Lighter—and Adds an AI Health Coach](https://www.wired.com/story/oura-ring-5/)
- - [They’ve finally made the Oura Ring smaller and lighter](https://www.theverge.com/tech/938518/oura-ring-5-smart-ring-price-specs-wearables-hands-on)<!-- TECH:END -->
+ - [We have many questions about OWC&#39;s new Stack AI speed booster](https://appleinsider.com/articles/26/05/27/we-have-many-questions-about-owcs-new-stack-ai-speed-booster?utm_source=rss)
+ - [CNN sues Perplexity over ‘verbatim’ copycat articles](https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit)
+ - [These are my favorite Switch 2 accessories](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
