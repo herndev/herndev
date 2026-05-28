@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s last-gen Razr Ultra is almost half off](https://www.theverge.com/gadgets/938621/razr-ultra-roborock-qrevo-curv-2-robot-vacuum-deal-sale)
- - [Proton Mail is making it easier to say goodbye to Gmail](https://www.androidauthority.com/proton-mail-gmail-feature-3672304/)
- - [OLED, KVM &amp; lower prices make MSI&#39;s new Mac-friendly monitor lineup hard to ignore](https://appleinsider.com/articles/26/05/28/oled-kvm-lower-prices-make-msis-new-mac-friendly-monitor-lineup-hard-to-ignore?utm_source=rss)<!-- TECH:END -->
+ - [This new projector lineup is all about summer sports and outdoor viewing](https://www.androidauthority.com/awol-vision-summer-entertainment-lineup-launch-3672357/)
+ - [Samsung Galaxy Watch 9 codenames suggest there will be a new Classic this year](https://www.androidauthority.com/galaxy-watch-9-codenames-3672348/)
+ - [Dell reports Q1 revenue up 88% YoY to $43.84B, vs. $35.43B est., and forecasts FY 2027 revenue above estimates; DELL jumps 15%+ after hours &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260528/p57#a260528p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
