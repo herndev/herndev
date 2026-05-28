@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US prosecutors charge Google engineer Michele Spagnuolo with using inside information to make $1.2M on Polymarket bets about Google&#39;s Year in Search results &lpar;ABC News&rpar;](https://www.techmeme.com/260527/p47#a260527p47)
- - [A Google employee allegedly used inside information to win $1.2 million on Polymarket](https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets)
- - [Google Security Engineer Arrested in Million-Dollar Polymarket Trading Scheme](https://www.wired.com/story/google-employee-accused-of-polymarket-one-million/)<!-- TECH:END -->
+ - [Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill](https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/)
+ - [JMGO N3 Ultimate projector review: Great setup, excellent picture, bad software](https://appleinsider.com/articles/26/05/28/jmgo-n3-ultimate-projector-review-great-setup-excellent-picture-bad-software?utm_source=rss)
+ - [Mark Zuckerberg tells shareholders that a Meta cloud computing business is &quot;definitely on the table&quot; if it overspends on data centers and has excess capacity &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260527/p50#a260527p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
