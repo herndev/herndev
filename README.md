@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surging AI demand has caused shortages and price increases across the entire optical supply chain, from lasers and substrates to optical fibers and connectors &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260528/p10#a260528p10)
- - [Roku’s biggest home screen refresh yet is rolling out now](https://www.androidauthority.com/roku-home-screen-update-2026-3671919/)
- - [Sources: ByteDance is developing its own CPUs to support growing AI infrastructure needs, as chip price hikes and supply shortages constrain expansion plans &lpar;Reuters&rpar;](https://www.techmeme.com/260528/p9#a260528p9)<!-- TECH:END -->
+ - [Anthropic is preparing a major multilingual upgrade for Claude Voice Mode](https://www.androidauthority.com/claude-voice-mode-adding-more-languages-3671980/)
+ - [OnePlus 16 main camera leaks, and we’re not sure if it’s an upgrade or downgrade](https://www.androidauthority.com/oneplus-16-main-camera-leak-3671915/)
+ - [The World&#39;s Most Luxurious Foldable Phone Is Here for the 1%](https://www.cnet.com/tech/mobile/the-worlds-most-luxurious-foldable-phone-is-here-for-the-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
