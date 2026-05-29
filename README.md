@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s latest conflict mineral report contradicts previous complaints over their use](https://appleinsider.com/articles/26/05/28/apples-latest-conflict-mineral-report-contradicts-previous-complaints-over-their-use?utm_source=rss)
- - [Sources: Apollo Global and Blackstone are working to bring additional investors into a ~$36B debt financing deal to purchase Google TPUs for Anthropic to lease &lpar;Bloomberg&rpar;](https://www.techmeme.com/260528/p63#a260528p63)
- - [California AG Rob Bonta sues 23andMe, alleging it failed to protect sensitive user data in a 2023 breach that affected ~7M people across the US &lpar;Jaimie Ding/Associated Press&rpar;](https://www.techmeme.com/260528/p62#a260528p62)<!-- TECH:END -->
+ - [The GOP’s Attacks on James Talarico Are Straight Out of the Incel Handbook](https://www.wired.com/story/gop-attacks-on-james-talarico-incel-handbook/)
+ - [Triomics, which is building an AI-powered platform to help oncologists automate data-heavy tasks, raised a $22M Series B, following a $15M Series A in 2024 &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260528/p64#a260528p64)
+ - [Apple&#39;s latest conflict mineral report contradicts previous complaints over their use](https://appleinsider.com/articles/26/05/28/apples-latest-conflict-mineral-report-contradicts-previous-complaints-over-their-use?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
