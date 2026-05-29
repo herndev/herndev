@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Household Cavalry making her day](http://9gag.com/gag/aYQ3d3v)
- - ⏩ [They&#39;re 17 because only a 17-year-old would think going on that quest is a good idea.](http://9gag.com/gag/ayNbVOp)
- - 👉 [Weird gym routines](http://9gag.com/gag/aByAv7Z)<!-- MEMES:END -->
+ - 💣 [No one will ever know](http://9gag.com/gag/a5QOyro)
+ - ⏩ [I did not see that coming](http://9gag.com/gag/agmDZdW)
+ - 👉 [They dont want to make him talk](http://9gag.com/gag/aVvp44y)<!-- MEMES:END -->
 
 ---
 
