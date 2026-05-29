@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They&#39;re 17 because only a 17-year-old would think going on that quest is a good idea.](http://9gag.com/gag/ayNbVOp)
- - ⏩ [Weird gym routines](http://9gag.com/gag/aByAv7Z)
- - 👉 [Neck hurt](http://9gag.com/gag/aD2KNB9)<!-- MEMES:END -->
+ - 💣 [Weird gym routines](http://9gag.com/gag/aByAv7Z)
+ - ⏩ [Neck hurt](http://9gag.com/gag/aD2KNB9)
+ - 👉 [Busking in the street, Not bad !](http://9gag.com/gag/aD2KrmO)<!-- MEMES:END -->
 
 ---
 
