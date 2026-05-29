@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Vatican’s Man Inside Anthropic](https://www.wired.com/story/the-vaticans-man-inside-anthropic/)
- - [Trump’s mass deportations are impossible without racial profiling](https://www.theverge.com/policy/939434/trump-ice-racial-profiling-dhs-mass-deportations)
- - [At $549, Lenovo’s Legion Go S gaming handheld is suddenly a good deal](https://www.theverge.com/gadgets/939842/lenovo-legion-go-s-windows-gaming-handheld-deal-sale)<!-- TECH:END -->
+ - [The Verge’s 2026 high school graduation gift guide](https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas)
+ - [Microsoft delays Fable &lpar;again&rpar; to avoid GTA VI](https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi)
+ - [Sports Illustrated rights holder Minute Media lays off 12% of staff and reverses its ~$200M deal to buy VideoVerse, an AI platform to extract sports highlights &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260529/p23#a260529p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
