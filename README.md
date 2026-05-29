@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Inherent, which aims to combine human scientific research with AI to produce innovations, emerges from stealth with $50M led by Index Ventures &lpar;Martin Coulter/Sifted&rpar;](https://www.techmeme.com/260529/p12#a260529p12)
- - [GoRuck GR1 Review: Great For Travel, Rucking, the Gym, and More](https://www.wired.com/story/the-goruck-gr1-is-a-rucking-great-pack/)
- - [Survey says a Windows-powered streaming device could be a surprise hit with many](https://www.androidauthority.com/windows-powered-streaming-device-poll-results-3672534/)<!-- TECH:END -->
+ - [Hundreds of prolific Wikipedia editors are threatening to go on strike](https://www.theverge.com/report/939442/wikipedia-editors-protest-wikimedia-layoffs-strike)
+ - [This AI startup will clean your home for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)
+ - [The last visionOS 26 review: Apathy about Apple Vision Pro on display](https://appleinsider.com/articles/26/05/29/the-last-visionos-26-review-apathy-about-apple-vision-pro-on-display?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
