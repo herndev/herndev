@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hundreds of prolific Wikipedia editors are threatening to go on strike](https://www.theverge.com/report/939442/wikipedia-editors-protest-wikimedia-layoffs-strike)
- - [This AI startup will clean your home for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning)
- - [The last visionOS 26 review: Apathy about Apple Vision Pro on display](https://appleinsider.com/articles/26/05/29/the-last-visionos-26-review-apathy-about-apple-vision-pro-on-display?utm_source=rss)<!-- TECH:END -->
+ - [Sources: ByteDance has partnered with chipmaker InnoStar to develop an AI inference chip modeled after Groq&#39;s LPUs, which are built to run AI models at low cost &lpar;The Information&rpar;](https://www.techmeme.com/260529/p19#a260529p19)
+ - [A company spent $500 million in one month after forgetting to set AI usage limits](https://www.androidauthority.com/skyrocketing-enterprise-ai-costs-3672603/)
+ - [Now even MediaTek’s cheap chips are embarrassing the Tensor G5 in one major area](https://www.androidauthority.com/new-mediatek-chip-tensor-g5-cpu-3672592/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
