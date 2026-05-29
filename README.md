@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s already impressive, but the retractable balcony is something else](http://9gag.com/gag/aByAbVz)
- - ⏩ [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)
- - 👉 [Raygun Tribute](http://9gag.com/gag/avyM4nq)<!-- MEMES:END -->
+ - 💣 [Raygun Tribute](http://9gag.com/gag/avyM4nq)
+ - ⏩ [Calm down or I&#39;ll pop you in the mouth again](http://9gag.com/gag/aVvp46v)
+ - 👉 [*Quack*](http://9gag.com/gag/aByAjpz)<!-- MEMES:END -->
 
 ---
 
