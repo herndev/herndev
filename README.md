@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Neck hurt](http://9gag.com/gag/aD2KNB9)
- - ⏩ [Busking in the street, Not bad !](http://9gag.com/gag/aD2KrmO)
- - 👉 [Calm down or I&#39;ll pop you in the mouth again](http://9gag.com/gag/aVvp46v)<!-- MEMES:END -->
+ - 💣 [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
+ - ⏩ [I did not see that coming](http://9gag.com/gag/agmDZdW)
+ - 👉 [Neck hurt](http://9gag.com/gag/aD2KNB9)<!-- MEMES:END -->
 
 ---
 
