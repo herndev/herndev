@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Neck hurt](http://9gag.com/gag/aD2KNB9)
- - ⏩ [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
- - 👉 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)<!-- MEMES:END -->
+ - 💣 [They dont want to make him talk](http://9gag.com/gag/aVvp44y)
+ - ⏩ [No one will ever know](http://9gag.com/gag/a5QOyro)
+ - 👉 [Screw it](http://9gag.com/gag/aVvp9W8)<!-- MEMES:END -->
 
 ---
 
