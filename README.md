@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2026 high school graduation gift guide](https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas)
- - [Microsoft delays Fable &lpar;again&rpar; to avoid GTA VI](https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi)
- - [Sports Illustrated rights holder Minute Media lays off 12% of staff and reverses its ~$200M deal to buy VideoVerse, an AI platform to extract sports highlights &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260529/p23#a260529p23)<!-- TECH:END -->
+ - [What to expect at Computex 2026: AI chips, budget PCs competing with the MacBook Neo, Nvidia entering laptop SoC market with the rumored N1X chip, and more &lpar;PCMag&rpar;](https://www.techmeme.com/260529/p26#a260529p26)
+ - [Acer’s new gaming handheld might dodge the worst of tech inflation](https://www.androidauthority.com/acer-nitro-blaze-link-3672729/)
+ - [Meta is cooking up a new line of smart glasses, and they may not be Ray-Bans](https://www.androidauthority.com/meta-smart-glasses-fcc-filing-3672710/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
