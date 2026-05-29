@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EY-Parthenon: VC funding for Singapore startups fell 34% YoY to $4.6B in 2025, with AI startups accounting for 42.8% of the 472 deals, raising $1.4B, up 28% YoY &lpar;Katrina Bianca Cuaresma/DealStreetAsia&rpar;](https://www.techmeme.com/260529/p7#a260529p7)
- - [A look at strains in the UK&#39;s fintech sector, as former industry darlings are forced to overhaul their operations or merge under pressure to reach profitability &lpar;Financial Times&rpar;](https://www.techmeme.com/260529/p6#a260529p6)
- - [Sources: SpaceX is currently targeting an IPO valuation of at least $1.8T, down from a previous $2T+ target, after consultations with advisers and investors &lpar;Bloomberg&rpar;](https://www.techmeme.com/260529/p5#a260529p5)<!-- TECH:END -->
+ - [Blue Origin explosion is a major setback for NASA’s Moon plans and Amazon’s Starlink competitor](https://www.theverge.com/science/939677/blue-origin-explosion-nasa-leo-setback-delays)
+ - [ChatGPT is working on a slew of new features for Android users](https://www.androidauthority.com/chatgpt-working-new-features-android-3672476/)
+ - [The Galaxy Z Fold 8 could be creaseless after all](https://www.androidauthority.com/galaxy-z-fold-8-crease-3672471/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
