@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [British humor is good different.](http://9gag.com/gag/a1myq1P)
- - ⏩ [The sense of responsibility we all need](http://9gag.com/gag/avyMX0Z)
- - 👉 [.....](http://9gag.com/gag/a87RQb1)<!-- MEMES:END -->
+ - 💣 [Peace be upon](http://9gag.com/gag/aND72YG)
+ - ⏩ [It&#39;s like an auction](http://9gag.com/gag/ayNbzGY)
+ - 👉 [Due to the hot weather, Indians are cooling transformers at power generation plants with fans. This country has nuclear weapons.](http://9gag.com/gag/aGymozZ)<!-- MEMES:END -->
 
 ---
 
