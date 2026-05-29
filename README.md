@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its actually funny ngl](http://9gag.com/gag/aO8MjMN)
- - ⏩ [Remember to keep comments respectful and to follow our Community Guidelines](http://9gag.com/gag/ayNbVor)
- - 👉 [A woman asks to cut to the front of the plane before anybody even starts exiting\u2026 and the guy behind her expresses his fatigue.](http://9gag.com/gag/a4PXxRp)<!-- MEMES:END -->
+ - 💣 [British humor is good different.](http://9gag.com/gag/a1myq1P)
+ - ⏩ [The sense of responsibility we all need](http://9gag.com/gag/avyMX0Z)
+ - 👉 [.....](http://9gag.com/gag/a87RQb1)<!-- MEMES:END -->
 
 ---
 
