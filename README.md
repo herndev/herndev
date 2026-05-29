@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft overhauled Copilot&#39;s design in Microsoft 365 with a minimalist black-and-white, text-focused interface aimed at creating a more consistent experience &lpar;Ian Carlos Campbell/Engadget&rpar;](https://www.techmeme.com/260528/p71#a260528p71)
- - [Pittsburgh-based Gray Swan, which stress-tests AI models for top frontier AI labs, raised a $40M Series A at a $200M valuation co-led by Wing VC and Madrona &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/260528/p70#a260528p70)
- - [Asana acquires StackAI, a no-code platform for building AI agents, for $75M as part of Asana&#39;s broader AI pivot; PitchBook: StackAI raised ~$20M &lpar;Russell Brandom/TechCrunch&rpar;](https://www.techmeme.com/260528/p69#a260528p69)<!-- TECH:END -->
+ - [EY-Parthenon: VC funding for Singapore startups fell 34% YoY to $4.6B in 2025, with AI startups accounting for 42.8% of the 472 deals, raising $1.4B, up 28% YoY &lpar;Katrina Bianca Cuaresma/DealStreetAsia&rpar;](https://www.techmeme.com/260529/p7#a260529p7)
+ - [A look at strains in the UK&#39;s fintech sector, as former industry darlings are forced to overhaul their operations or merge under pressure to reach profitability &lpar;Financial Times&rpar;](https://www.techmeme.com/260529/p6#a260529p6)
+ - [Sources: SpaceX is currently targeting an IPO valuation of at least $1.8T, down from a previous $2T+ target, after consultations with advisers and investors &lpar;Bloomberg&rpar;](https://www.techmeme.com/260529/p5#a260529p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
