@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blue Origin explosion is a major setback for NASA’s Moon plans and Amazon’s Starlink competitor](https://www.theverge.com/science/939677/blue-origin-explosion-nasa-leo-setback-delays)
- - [ChatGPT is working on a slew of new features for Android users](https://www.androidauthority.com/chatgpt-working-new-features-android-3672476/)
- - [The Galaxy Z Fold 8 could be creaseless after all](https://www.androidauthority.com/galaxy-z-fold-8-crease-3672471/)<!-- TECH:END -->
+ - [London-based Inherent, which aims to combine human scientific research with AI to produce innovations, emerges from stealth with $50M led by Index Ventures &lpar;Martin Coulter/Sifted&rpar;](https://www.techmeme.com/260529/p12#a260529p12)
+ - [GoRuck GR1 Review: Great For Travel, Rucking, the Gym, and More](https://www.wired.com/story/the-goruck-gr1-is-a-rucking-great-pack/)
+ - [Survey says a Windows-powered streaming device could be a surprise hit with many](https://www.androidauthority.com/windows-powered-streaming-device-poll-results-3672534/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
