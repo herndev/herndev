@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They dont want to make him talk](http://9gag.com/gag/aVvp44y)
- - ⏩ [No one will ever know](http://9gag.com/gag/a5QOyro)
- - 👉 [Screw it](http://9gag.com/gag/aVvp9W8)<!-- MEMES:END -->
+ - 💣 [It&#39;s already impressive, but the retractable balcony is something else](http://9gag.com/gag/aByAbVz)
+ - ⏩ [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)
+ - 👉 [Raygun Tribute](http://9gag.com/gag/avyM4nq)<!-- MEMES:END -->
 
 ---
 
