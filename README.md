@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell reports Q1 AI server revenue up 757% YoY to $16.1B and raises its FY 2027 AI server revenue forecast to $60B, up from its prior projection of $50B &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260528/p65#a260528p65)
  - [The GOP’s Attacks on James Talarico Are Straight Out of the Incel Handbook](https://www.wired.com/story/gop-attacks-on-james-talarico-incel-handbook/)
- - [Triomics, which is building an AI-powered platform to help oncologists automate data-heavy tasks, raised a $22M Series B, following a $15M Series A in 2024 &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260528/p64#a260528p64)
- - [Apple&#39;s latest conflict mineral report contradicts previous complaints over their use](https://appleinsider.com/articles/26/05/28/apples-latest-conflict-mineral-report-contradicts-previous-complaints-over-their-use?utm_source=rss)<!-- TECH:END -->
+ - [Triomics, which is building an AI-powered platform to help oncologists automate data-heavy tasks, raised a $22M Series B, following a $15M Series A in 2024 &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260528/p64#a260528p64)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
