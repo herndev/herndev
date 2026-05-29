@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $1,300 on every 14-inch MacBook Pro M5 Pro and M5 Max](https://appleinsider.com/articles/26/05/29/save-up-to-1300-on-every-14-inch-macbook-pro-m5-pro-and-m5-max?utm_source=rss)
- - [SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites](https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract)
- - [Best Wireless Earbuds of 2026](https://www.cnet.com/tech/mobile/best-wireless-earbuds/)<!-- TECH:END -->
+ - [Picogrid, which is building a hardware and software integration layer for military systems, raised a $45M Series A led by Bessemer &lpar;Barratt Dewey/Tectonic Defense&rpar;](https://www.techmeme.com/260529/p33#a260529p33)
+ - [Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors](https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser)
+ - [Coinbase and Kalshi introduce perpetual crypto futures, marking the first time the contracts will be available to US investors via domestic, regulated exchanges &lpar;Pritam Biswas/Reuters&rpar;](https://www.techmeme.com/260529/p32#a260529p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
