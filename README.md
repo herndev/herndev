@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [007 First Light&#39;s opening perfects the art of the video game tutorial](https://www.polygon.com/007-first-light-james-bond-game-tutorial/)
- - [Too many Pokémon fans are trying to get their cards graded](https://www.polygon.com/psa-pokemon-value-grading-backlog-how-much-is-a-card-worth/)
- - [Bloodborne Sicko Who Spent 11 Years Helping People With One Boss Is Retiring Because Nobody Is Playing It Anymore](https://kotaku.com/bloodborne-sicko-who-spent-11-years-helping-people-with-one-boss-is-retiring-because-nobody-is-playing-it-anymore-2000700265)<!-- GAME:END -->
+ - [Tim Sweeney takes swipes at Valve for Steam Deck price hike, blames it on the &#39;component parts supply chain for megayachts&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/tim-sweeney-takes-swipes-at-valve-for-steam-deck-price-hike-blames-it-on-the-component-parts-supply-chain-for-megayachts/)
+ - [Overwatch&#39;s general manager has ignited player hopes for an animated series after revealing that he &#39;would not rule out&#39; other narrative experiences in the future](https://www.pcgamer.com/games/fps/overwatchs-general-manager-has-ignited-player-hopes-for-an-animated-series-after-revealing-that-he-would-not-rule-out-other-narrative-experiences-in-the-future/)
+ - [Acer&#39;s Predator Atlas 8 handheld gaming PC with new Intel G-series chips looks a lot like a beefier Lenovo Legion Go S](https://www.pcgamer.com/hardware/handheld-gaming-pcs/acers-predator-atlas-8-handheld-gaming-pc-with-new-intel-g-series-chips-looks-a-lot-like-a-beefier-lenovo-legion-go-s/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
