@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The sense of responsibility we all need](http://9gag.com/gag/avyMX0Z)
- - ⏩ [Raygun Tribute](http://9gag.com/gag/avyM4nq)
- - 👉 [Uploaded](http://9gag.com/gag/aZZ6V49)<!-- MEMES:END -->
+ - 💣 [Its actually funny ngl](http://9gag.com/gag/aO8MjMN)
+ - ⏩ [Remember to keep comments respectful and to follow our Community Guidelines](http://9gag.com/gag/ayNbVor)
+ - 👉 [A woman asks to cut to the front of the plane before anybody even starts exiting\u2026 and the guy behind her expresses his fatigue.](http://9gag.com/gag/a4PXxRp)<!-- MEMES:END -->
 
 ---
 
