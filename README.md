@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [France&#39;s market regulator warns crypto companies they could face blacklisting and lawsuits if they don&#39;t have MiCA licenses by the EU&#39;s June 30 deadline &lpar;Elizabeth Howcroft/Reuters&rpar;](https://www.techmeme.com/260528/p68#a260528p68)
- - [Google Photos could finally be giving its automated edits a proper home](https://www.androidauthority.com/google-photos-create-tab-new-for-you-3672417/)
- - [Sources: TikTok is cutting music label-facing jobs to focus on its music distribution arm SoundOn and other projects that connect it more directly with artists &lpar;Bloomberg&rpar;](https://www.techmeme.com/260528/p67#a260528p67)<!-- TECH:END -->
+ - [Microsoft overhauled Copilot&#39;s design in Microsoft 365 with a minimalist black-and-white, text-focused interface aimed at creating a more consistent experience &lpar;Ian Carlos Campbell/Engadget&rpar;](https://www.techmeme.com/260528/p71#a260528p71)
+ - [Pittsburgh-based Gray Swan, which stress-tests AI models for top frontier AI labs, raised a $40M Series A at a $200M valuation co-led by Wing VC and Madrona &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/260528/p70#a260528p70)
+ - [Asana acquires StackAI, a no-code platform for building AI agents, for $75M as part of Asana&#39;s broader AI pivot; PitchBook: StackAI raised ~$20M &lpar;Russell Brandom/TechCrunch&rpar;](https://www.techmeme.com/260528/p69#a260528p69)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
