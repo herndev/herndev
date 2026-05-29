@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
- - ⏩ [I did not see that coming](http://9gag.com/gag/agmDZdW)
- - 👉 [Neck hurt](http://9gag.com/gag/aD2KNB9)<!-- MEMES:END -->
+ - 💣 [Neck hurt](http://9gag.com/gag/aD2KNB9)
+ - ⏩ [When you use curry as aftershave.](http://9gag.com/gag/ae9nPjq)
+ - 👉 [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)<!-- MEMES:END -->
 
 ---
 
