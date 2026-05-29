@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Space Force says SpaceX won a $4.16B contract to build a space-based tracking network as part of President Trump&#39;s Golden Dome defensive shield &lpar;Sana Pashankar/Bloomberg&rpar;](https://www.techmeme.com/260529/p27#a260529p27)
- - [Spotify will finally give you real profile tools to make music listening more social](https://www.androidauthority.com/spotify-profile-tools-3672716/)
- - [Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend](https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/)<!-- TECH:END -->
+ - [‘We’re Just Getting the Crumbs Here’: Striking Contractors Protest Layoffs at Meta’s European Headquarters](https://www.wired.com/story/meta-covalen-protest-strike-dublin/)
+ - [Dell stock closed up 32.81%, its best day ever, after reporting its fastest pace of revenue growth for any period since returning to the public market in 2018 &lpar;CJ Haddad/CNBC&rpar;](https://www.techmeme.com/260529/p29#a260529p29)
+ - [Telegram’s finally getting an official Wear OS app again](https://www.androidauthority.com/telegram-wear-os-beta-3672776/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
