@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect at Computex 2026: AI chips, budget PCs competing with the MacBook Neo, Nvidia entering laptop SoC market with the rumored N1X chip, and more &lpar;PCMag&rpar;](https://www.techmeme.com/260529/p26#a260529p26)
- - [Acer’s new gaming handheld might dodge the worst of tech inflation](https://www.androidauthority.com/acer-nitro-blaze-link-3672729/)
- - [Meta is cooking up a new line of smart glasses, and they may not be Ray-Bans](https://www.androidauthority.com/meta-smart-glasses-fcc-filing-3672710/)<!-- TECH:END -->
+ - [US Space Force says SpaceX won a $4.16B contract to build a space-based tracking network as part of President Trump&#39;s Golden Dome defensive shield &lpar;Sana Pashankar/Bloomberg&rpar;](https://www.techmeme.com/260529/p27#a260529p27)
+ - [Spotify will finally give you real profile tools to make music listening more social](https://www.androidauthority.com/spotify-profile-tools-3672716/)
+ - [Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend](https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
