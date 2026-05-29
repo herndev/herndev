@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Gemini Spark is ready to run your digital errands while your phone is off](https://www.androidauthority.com/google-rolls-out-gemini-spark-3672796/)
- - [Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious](https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/)
- - [The White House’s Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens](https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/)<!-- TECH:END -->
+ - [Save up to $1,300 on every 14-inch MacBook Pro M5 Pro and M5 Max](https://appleinsider.com/articles/26/05/29/save-up-to-1300-on-every-14-inch-macbook-pro-m5-pro-and-m5-max?utm_source=rss)
+ - [SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites](https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract)
+ - [Best Wireless Earbuds of 2026](https://www.cnet.com/tech/mobile/best-wireless-earbuds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
