@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peace be upon](http://9gag.com/gag/aND72YG)
- - ⏩ [Its actually funny ngl](http://9gag.com/gag/aO8MjMN)
- - 👉 [Easiest way to make your price go up when walking with your girlfriend](http://9gag.com/gag/aMVoW0X)<!-- MEMES:END -->
+ - 💣 [The sense of responsibility we all need](http://9gag.com/gag/avyMX0Z)
+ - ⏩ [Raygun Tribute](http://9gag.com/gag/avyM4nq)
+ - 👉 [Uploaded](http://9gag.com/gag/aZZ6V49)<!-- MEMES:END -->
 
 ---
 
