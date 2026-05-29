@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance has partnered with chipmaker InnoStar to develop an AI inference chip modeled after Groq&#39;s LPUs, which are built to run AI models at low cost &lpar;The Information&rpar;](https://www.techmeme.com/260529/p19#a260529p19)
- - [A company spent $500 million in one month after forgetting to set AI usage limits](https://www.androidauthority.com/skyrocketing-enterprise-ai-costs-3672603/)
- - [Now even MediaTek’s cheap chips are embarrassing the Tensor G5 in one major area](https://www.androidauthority.com/new-mediatek-chip-tensor-g5-cpu-3672592/)<!-- TECH:END -->
+ - [The Vatican’s Man Inside Anthropic](https://www.wired.com/story/the-vaticans-man-inside-anthropic/)
+ - [Trump’s mass deportations are impossible without racial profiling](https://www.theverge.com/policy/939434/trump-ice-racial-profiling-dhs-mass-deportations)
+ - [At $549, Lenovo’s Legion Go S gaming handheld is suddenly a good deal](https://www.theverge.com/gadgets/939842/lenovo-legion-go-s-windows-gaming-handheld-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
