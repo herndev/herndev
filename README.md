@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell reports Q1 AI server revenue up 757% YoY to $16.1B and raises its FY 2027 AI server revenue forecast to $60B, up from its prior projection of $50B &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260528/p65#a260528p65)
- - [The GOP’s Attacks on James Talarico Are Straight Out of the Incel Handbook](https://www.wired.com/story/gop-attacks-on-james-talarico-incel-handbook/)
- - [Triomics, which is building an AI-powered platform to help oncologists automate data-heavy tasks, raised a $22M Series B, following a $15M Series A in 2024 &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260528/p64#a260528p64)<!-- TECH:END -->
+ - [France&#39;s market regulator warns crypto companies they could face blacklisting and lawsuits if they don&#39;t have MiCA licenses by the EU&#39;s June 30 deadline &lpar;Elizabeth Howcroft/Reuters&rpar;](https://www.techmeme.com/260528/p68#a260528p68)
+ - [Google Photos could finally be giving its automated edits a proper home](https://www.androidauthority.com/google-photos-create-tab-new-for-you-3672417/)
+ - [Sources: TikTok is cutting music label-facing jobs to focus on its music distribution arm SoundOn and other projects that connect it more directly with artists &lpar;Bloomberg&rpar;](https://www.techmeme.com/260528/p67#a260528p67)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
