@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peace be upon](http://9gag.com/gag/aND72YG)
- - ⏩ [It&#39;s like an auction](http://9gag.com/gag/ayNbzGY)
- - 👉 [Due to the hot weather, Indians are cooling transformers at power generation plants with fans. This country has nuclear weapons.](http://9gag.com/gag/aGymozZ)<!-- MEMES:END -->
+ - 💣 [This is what the older generations should try and do more often.](http://9gag.com/gag/aVvp42O)
+ - ⏩ [No one will ever know](http://9gag.com/gag/a5QOyro)
+ - 👉 [I did not see that coming](http://9gag.com/gag/agmDZdW)<!-- MEMES:END -->
 
 ---
 
