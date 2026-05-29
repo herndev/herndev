@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘We’re Just Getting the Crumbs Here’: Striking Contractors Protest Layoffs at Meta’s European Headquarters](https://www.wired.com/story/meta-covalen-protest-strike-dublin/)
- - [Dell stock closed up 32.81%, its best day ever, after reporting its fastest pace of revenue growth for any period since returning to the public market in 2018 &lpar;CJ Haddad/CNBC&rpar;](https://www.techmeme.com/260529/p29#a260529p29)
- - [Telegram’s finally getting an official Wear OS app again](https://www.androidauthority.com/telegram-wear-os-beta-3672776/)<!-- TECH:END -->
+ - [Google’s Gemini Spark is ready to run your digital errands while your phone is off](https://www.androidauthority.com/google-rolls-out-gemini-spark-3672796/)
+ - [Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious](https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/)
+ - [The White House’s Aliens.gov Site Brags That ICE Arrested More Than 700 US Citizens](https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
