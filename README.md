@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Raygun Tribute](http://9gag.com/gag/avyM4nq)
- - ⏩ [Calm down or I&#39;ll pop you in the mouth again](http://9gag.com/gag/aVvp46v)
- - 👉 [*Quack*](http://9gag.com/gag/aByAjpz)<!-- MEMES:END -->
+ - 💣 [This is what the older generations should try and do more often.](http://9gag.com/gag/aVvp42O)
+ - ⏩ [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)
+ - 👉 [Screw it](http://9gag.com/gag/aVvp9W8)<!-- MEMES:END -->
 
 ---
 
