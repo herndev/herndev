@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what the older generations should try and do more often.](http://9gag.com/gag/aVvp42O)
- - ⏩ [Illegal Mexican immigrant works in UAS ,](http://9gag.com/gag/a6Z0eNb)
- - 👉 [Screw it](http://9gag.com/gag/aVvp9W8)<!-- MEMES:END -->
+ - 💣 [Title is important](http://9gag.com/gag/aRBbWeA)
+ - ⏩ [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
+ - 👉 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)<!-- MEMES:END -->
 
 ---
 
