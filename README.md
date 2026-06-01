@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s upcoming wide Galaxy Z Fold 8 spied in public for the first time](https://www.androidauthority.com/samsung-galaxy-z-fold-8-wide-spotted-in-the-wild-3672943/)
- - [Beijing-based Vast, which uses AI models to generate 3D assets from text and image prompts, raised ~$200M at a $1B+ valuation, and says it has 20M global users &lpar;Bloomberg&rpar;](https://www.techmeme.com/260531/p17#a260531p17)
- - [Solstice, which uses clinical and compliance documents and AI to accelerate advertising approvals for pharma clients, raised a $21M Series A &lpar;Brock E.W. Turner/Axios&rpar;](https://www.techmeme.com/260531/p16#a260531p16)<!-- TECH:END -->
+ - [This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark](https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures)
+ - [Intel details its Crescent Island data center GPUs based on the Xe3P architecture, described as &quot;built for agentic AI&quot;; they use LPDDR5X memory instead of HBM &lpar;Jeffrey Kampman/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260601/p2#a260601p2)
+ - [Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’](https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
