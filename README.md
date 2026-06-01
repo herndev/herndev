@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEC filing: SpaceX will reserve up to 5% of its Class A shares for select employees and executives&#39; friends and family; 60%+ of shares have an extended lock-up &lpar;Charles Capel/Bloomberg&rpar;](https://www.techmeme.com/260601/p33#a260601p33)
- - [Possible iPhone Fold prototype shown in new image](https://appleinsider.com/articles/26/06/01/possible-iphone-fold-prototype-shown-in-new-image?utm_source=rss)
- - [One of the best PC gaming apps for Android just hit its v1 milestone](https://www.androidauthority.com/gamenative-v1-release-preview-3673086/)<!-- TECH:END -->
+ - [Smart home connectivity explained on Smart Home Insider](https://appleinsider.com/articles/26/06/01/smart-home-connectivity-explained-on-smart-home-insider?utm_source=rss)
+ - [Sources: at Build, Microsoft plans to unveil a Copilot &quot;super app&quot;, a new reasoning AI model developed by Microsoft AI, and lots of Windows developer features &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/260601/p40#a260601p40)
+ - [Florida AG James Uthmeier sues OpenAI and Sam Altman, seeking to hold Altman personally liable for deceptive trade practices, negligence, and public nuisance &lpar;NBC News&rpar;](https://www.techmeme.com/260601/p39#a260601p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
