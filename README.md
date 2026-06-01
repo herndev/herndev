@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
- - ⏩ [Girl hits insane corner kick!](http://9gag.com/gag/a346g41)
- - 👉 [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)<!-- MEMES:END -->
+ - 💣 [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)
+ - ⏩ [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
+ - 👉 [Title is important](http://9gag.com/gag/aRBbWeA)<!-- MEMES:END -->
 
 ---
 
