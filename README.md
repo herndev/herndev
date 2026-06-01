@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Seckinger school cluster in Georgia, including the US&#39; &quot;first AI-themed educational institution&quot;, as parents say AI integration is often sparse &lpar;New York Times&rpar;](https://www.techmeme.com/260601/p24#a260601p24)
- - [I wanted to hate the Motorola Razr Ultra &lpar;2026&rpar;, but I can’t](https://www.androidauthority.com/i-wanted-hate-motorola-razr-ultra-2026-but-cant-3671822/)
- - [‘Sexual Chocolate’ Faces Recalls After FDA Tests Reveal Undisclosed Viagra](https://www.wired.com/story/sexual-chocolate-recalls-fda-undisclosed-viagra/)<!-- TECH:END -->
+ - [SEC filing: SpaceX will reserve up to 5% of its Class A shares for select employees and executives&#39; friends and family; 60%+ of shares have an extended lock-up &lpar;Charles Capel/Bloomberg&rpar;](https://www.techmeme.com/260601/p33#a260601p33)
+ - [Possible iPhone Fold prototype shown in new image](https://appleinsider.com/articles/26/06/01/possible-iphone-fold-prototype-shown-in-new-image?utm_source=rss)
+ - [One of the best PC gaming apps for Android just hit its v1 milestone](https://www.androidauthority.com/gamenative-v1-release-preview-3673086/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
