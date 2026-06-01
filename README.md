@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let him cook](http://9gag.com/gag/aAy85M9)
- - ⏩ [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
+ - 💣 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
+ - ⏩ [Everything is easy, when you know how](http://9gag.com/gag/aoyvwbe)
  - 👉 [Burn](http://9gag.com/gag/a4PXgrw)<!-- MEMES:END -->
 
 ---
