@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What lobster?](http://9gag.com/gag/aqyPM6M)
+ - 💣 [Keeping the rent low](http://9gag.com/gag/aLnZ3GA)
  - ⏩ [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
- - 👉 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)<!-- MEMES:END -->
+ - 👉 [What lobster?](http://9gag.com/gag/aqyPM6M)<!-- MEMES:END -->
 
 ---
 
