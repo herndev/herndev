@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keeping the rent low](http://9gag.com/gag/aLnZ3GA)
- - ⏩ [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
- - 👉 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)<!-- MEMES:END -->
+ - 💣 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
+ - ⏩ [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)
+ - 👉 [He got tired](http://9gag.com/gag/ajPzjy1)<!-- MEMES:END -->
 
 ---
 
