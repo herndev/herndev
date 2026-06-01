@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He got tired](http://9gag.com/gag/ajPzjy1)
+ - 💣 [What the dog doin](http://9gag.com/gag/adBGA1Z)
  - ⏩ [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)
- - 👉 [What lobster?](http://9gag.com/gag/aqyPM6M)<!-- MEMES:END -->
+ - 👉 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)<!-- MEMES:END -->
 
 ---
 
