@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
- - ⏩ [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)
- - 👉 [Weight loss](http://9gag.com/gag/aAy8A5R)<!-- MEMES:END -->
+ - 💣 [What lobster?](http://9gag.com/gag/aqyPM6M)
+ - ⏩ [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
+ - 👉 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)<!-- MEMES:END -->
 
 ---
 
