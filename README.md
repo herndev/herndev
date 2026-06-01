@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new Xbox 360 emulator runs surprisingly well on Android, but you should hold off](https://www.androidauthority.com/new-xbox-360-emulator-android-3672973/)
- - [Duolingo is giving users a rare opportunity to revive their old, broken streak](https://www.androidauthority.com/duolingo-revive-broken-streak-event-3673004/)
- - [Netherlands-based Invisix, which is developing advanced chipmaking measurement tools, raised a €20M seed, with the participation of a &quot;tier-one&quot; chipmaker &lpar;Tamara Djurickovic/Tech.eu&rpar;](https://www.techmeme.com/260601/p16#a260601p16)<!-- TECH:END -->
+ - [A look at the Seckinger school cluster in Georgia, including the US&#39; &quot;first AI-themed educational institution&quot;, as parents say AI integration is often sparse &lpar;New York Times&rpar;](https://www.techmeme.com/260601/p24#a260601p24)
+ - [I wanted to hate the Motorola Razr Ultra &lpar;2026&rpar;, but I can’t](https://www.androidauthority.com/i-wanted-hate-motorola-razr-ultra-2026-but-cant-3671822/)
+ - [‘Sexual Chocolate’ Faces Recalls After FDA Tests Reveal Undisclosed Viagra](https://www.wired.com/story/sexual-chocolate-recalls-fda-undisclosed-viagra/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
