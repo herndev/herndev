@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keeping the rent low](http://9gag.com/gag/aLnZ3GA)
- - ⏩ [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
- - 👉 [What lobster?](http://9gag.com/gag/aqyPM6M)<!-- MEMES:END -->
+ - 💣 [He chose poorly](http://9gag.com/gag/a87R943)
+ - ⏩ [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)
+ - 👉 [He got tired](http://9gag.com/gag/ajPzjy1)<!-- MEMES:END -->
 
 ---
 
