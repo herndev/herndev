@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He chose poorly](http://9gag.com/gag/a87R943)
- - ⏩ [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)
- - 👉 [He got tired](http://9gag.com/gag/ajPzjy1)<!-- MEMES:END -->
+ - 💣 [Keeping the rent low](http://9gag.com/gag/aLnZ3GA)
+ - ⏩ [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
+ - 👉 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)<!-- MEMES:END -->
 
 ---
 
