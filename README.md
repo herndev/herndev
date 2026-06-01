@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Startups from the pre-ChatGPT era face a reckoning in private markets; PitchBook: half of US unicorns haven&#39;t raised in three years, 220+ are &quot;fallen unicorns&quot; &lpar;Hugh Son/CNBC&rpar;](https://www.techmeme.com/260601/p55#a260601p55)
  - [Lost Your Duolingo Streak? There&#39;s Finally a Way to Get It Back](https://www.cnet.com/tech/services-and-software/lost-your-duolingo-streak-theres-finally-a-way-to-get-it-back/)
- - [Alphabet is raising $80B in equity offerings, including a $10B investment deal with Berkshire Hathaway, to help raise money for its AI spending plans &lpar;Bloomberg&rpar;](https://www.techmeme.com/260601/p54#a260601p54)
- - [The 5 Best Sunrise Alarm Clocks for Peaceful Mornings](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/)<!-- TECH:END -->
+ - [Alphabet is raising $80B in equity offerings, including a $10B investment deal with Berkshire Hathaway, to help raise money for its AI spending plans &lpar;Bloomberg&rpar;](https://www.techmeme.com/260601/p54#a260601p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
