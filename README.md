@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gigascale Capital, a climate tech VC firm co-founded by former Meta CTO Mike Schroepfer, closed a $250M fund to back early-stage startups supporting the AI boom &lpar;Michelle Ma/Bloomberg&rpar;](https://www.techmeme.com/260601/p52#a260601p52)
- - [This could be Windows’ M1 moment — but expect it to cost a ton](https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram)
- - [Gemini’s new AI agent is about as good as Google’s demo](https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on)<!-- TECH:END -->
+ - [Lost Your Duolingo Streak? There&#39;s Finally a Way to Get It Back](https://www.cnet.com/tech/services-and-software/lost-your-duolingo-streak-theres-finally-a-way-to-get-it-back/)
+ - [Alphabet is raising $80B in equity offerings, including a $10B investment deal with Berkshire Hathaway, to help raise money for its AI spending plans &lpar;Bloomberg&rpar;](https://www.techmeme.com/260601/p54#a260601p54)
+ - [The 5 Best Sunrise Alarm Clocks for Peaceful Mornings](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
