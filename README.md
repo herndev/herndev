@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers find several packages in the @redhat-cloud-services npm namespace shipped malware targeting credentials for GitHub Actions, AWS, GCP, and others &lpar;Rohan Prabhu/Step Security Blog&rpar;](https://www.techmeme.com/260601/p51#a260601p51)
- - [iOS 27&#39;s bill-splitting feature will help you claw back money from your friends](https://appleinsider.com/articles/26/06/01/ios-27s-bill-splitting-feature-will-help-you-claw-back-money-from-your-friends?utm_source=rss)
- - [Samsung gives Galaxy owners a limited window to add Care Plus at its best price](https://www.androidauthority.com/open-enrollment-window-for-samsung-care-plus-3673215/)<!-- TECH:END -->
+ - [Gigascale Capital, a climate tech VC firm co-founded by former Meta CTO Mike Schroepfer, closed a $250M fund to back early-stage startups supporting the AI boom &lpar;Michelle Ma/Bloomberg&rpar;](https://www.techmeme.com/260601/p52#a260601p52)
+ - [This could be Windows’ M1 moment — but expect it to cost a ton](https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram)
+ - [Gemini’s new AI agent is about as good as Google’s demo](https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
