@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Picogrid, which is building a hardware and software integration layer for military systems, raised a $45M Series A led by Bessemer &lpar;Barratt Dewey/Tectonic Defense&rpar;](https://www.techmeme.com/260529/p33#a260529p33)
- - [Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors](https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser)
- - [Coinbase and Kalshi introduce perpetual crypto futures, marking the first time the contracts will be available to US investors via domestic, regulated exchanges &lpar;Pritam Biswas/Reuters&rpar;](https://www.techmeme.com/260529/p32#a260529p32)<!-- TECH:END -->
+ - [Twitch rolls out Dual Format, a feature that lets creators stream horizontally and vertically simultaneously, and 2K streaming for partners and affiliates &lpar;Cheyenne MacDonald/Engadget&rpar;](https://www.techmeme.com/260531/p12#a260531p12)
+ - [AMD’s new pitch: our old tech is so good you should just keep using it](https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d)
+ - [How to use Jellyfin on a Mac to make a private streaming service](https://appleinsider.com/inside/macos/tips/how-to-turn-jellyfin-on-an-old-mac-into-a-private-streaming-service?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
