@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daloopa, which structures financial data from filings, transcripts, investor decks, and other public sources for investment firms, raised a $47M Series C &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260531/p15#a260531p15)
- - [Dell introduces the $699+ Dell XPS 13, starting with 8GB of RAM, a six-core Intel Core 5 320 chip, and a 13.4-inch touchscreen, rivaling the MacBook Neo &lpar;Antonio G. Di Benedetto/The Verge&rpar;](https://www.techmeme.com/260531/p14#a260531p14)
- - [AMD unveils the $330 Ryzen 7 7700X3D CPU, relaunches the 5800X3D as a $349 10th-anniversary edition, and plans to support the AM5 motherboard socket until 2030 &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260531/p13#a260531p13)<!-- TECH:END -->
+ - [Samsung’s upcoming wide Galaxy Z Fold 8 spied in public for the first time](https://www.androidauthority.com/samsung-galaxy-z-fold-8-wide-spotted-in-the-wild-3672943/)
+ - [Beijing-based Vast, which uses AI models to generate 3D assets from text and image prompts, raised ~$200M at a $1B+ valuation, and says it has 20M global users &lpar;Bloomberg&rpar;](https://www.techmeme.com/260531/p17#a260531p17)
+ - [Solstice, which uses clinical and compliance documents and AI to accelerate advertising approvals for pharma clients, raised a $21M Series A &lpar;Brock E.W. Turner/Axios&rpar;](https://www.techmeme.com/260531/p16#a260531p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
