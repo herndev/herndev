@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)
- - ⏩ [And westerners complain that their life is hard](http://9gag.com/gag/a4PX8r6)
- - 👉 [Pick a random one and enjoy](http://9gag.com/gag/aKGQZ0N)<!-- MEMES:END -->
+ - 💣 [He got tired](http://9gag.com/gag/ajPzjy1)
+ - ⏩ [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)
+ - 👉 [What lobster?](http://9gag.com/gag/aqyPM6M)<!-- MEMES:END -->
 
 ---
 
