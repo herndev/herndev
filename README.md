@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smart home connectivity explained on Smart Home Insider](https://appleinsider.com/articles/26/06/01/smart-home-connectivity-explained-on-smart-home-insider?utm_source=rss)
- - [Sources: at Build, Microsoft plans to unveil a Copilot &quot;super app&quot;, a new reasoning AI model developed by Microsoft AI, and lots of Windows developer features &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/260601/p40#a260601p40)
- - [Florida AG James Uthmeier sues OpenAI and Sam Altman, seeking to hold Altman personally liable for deceptive trade practices, negligence, and public nuisance &lpar;NBC News&rpar;](https://www.techmeme.com/260601/p39#a260601p39)<!-- TECH:END -->
+ - [Samsung’s next cheap fitness tracker may be only a few months away](https://www.androidauthority.com/samsung-galaxy-fit-4-coming-in-2026-3673178/)
+ - [WWDC t-minus one week: &#39;All Systems Glow&#39; with new wallpaper &amp; playlist](https://appleinsider.com/articles/26/06/01/wwdc-t-minus-one-week-all-systems-glow-with-new-wallpaper-playlist?utm_source=rss)
+ - [Anthropic has officially filed to go public](https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
