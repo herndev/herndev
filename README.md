@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia unveils Isaac GR00T, an open humanoid reference design powered by its Jetson Thor chip, combining a Unitree H2 Plus robot and Sharpa five-fingered hands &lpar;Stephen Nellis/Reuters&rpar;](https://www.techmeme.com/260601/p9#a260601p9)
- - [LG shares jumped 300%+ this year, after largely sitting out South Korea&#39;s chip-rally in 2025, as LG seeks to expand into physical AI businesses such as robots &lpar;Sangmi Cha/Bloomberg&rpar;](https://www.techmeme.com/260601/p8#a260601p8)
- - [Runway, the AI startup most recently valued at $5.3B, plans to make London its European headquarters and invest $200M+ into the UK&#39;s AI ecosystem by 2028 end &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260601/p7#a260601p7)<!-- TECH:END -->
+ - [This new Xbox 360 emulator runs surprisingly well on Android, but you should hold off](https://www.androidauthority.com/new-xbox-360-emulator-android-3672973/)
+ - [Duolingo is giving users a rare opportunity to revive their old, broken streak](https://www.androidauthority.com/duolingo-revive-broken-streak-event-3673004/)
+ - [Netherlands-based Invisix, which is developing advanced chipmaking measurement tools, raised a €20M seed, with the participation of a &quot;tier-one&quot; chipmaker &lpar;Tamara Djurickovic/Tech.eu&rpar;](https://www.techmeme.com/260601/p16#a260601p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
