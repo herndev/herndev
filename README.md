@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark](https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures)
- - [Intel details its Crescent Island data center GPUs based on the Xe3P architecture, described as &quot;built for agentic AI&quot;; they use LPDDR5X memory instead of HBM &lpar;Jeffrey Kampman/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260601/p2#a260601p2)
- - [Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’](https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date)<!-- TECH:END -->
+ - [Nvidia unveils Isaac GR00T, an open humanoid reference design powered by its Jetson Thor chip, combining a Unitree H2 Plus robot and Sharpa five-fingered hands &lpar;Stephen Nellis/Reuters&rpar;](https://www.techmeme.com/260601/p9#a260601p9)
+ - [LG shares jumped 300%+ this year, after largely sitting out South Korea&#39;s chip-rally in 2025, as LG seeks to expand into physical AI businesses such as robots &lpar;Sangmi Cha/Bloomberg&rpar;](https://www.techmeme.com/260601/p8#a260601p8)
+ - [Runway, the AI startup most recently valued at $5.3B, plans to make London its European headquarters and invest $200M+ into the UK&#39;s AI ecosystem by 2028 end &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260601/p7#a260601p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
