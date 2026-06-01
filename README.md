@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title is important](http://9gag.com/gag/aRBbWeA)
- - ⏩ [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
- - 👉 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)<!-- MEMES:END -->
+ - 💣 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
+ - ⏩ [Your Indian neighbor is watching you.](http://9gag.com/gag/a0erGVn)
+ - 👉 [Weight loss](http://9gag.com/gag/aAy8A5R)<!-- MEMES:END -->
 
 ---
 
