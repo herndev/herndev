@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What the dog doin](http://9gag.com/gag/adBGA1Z)
- - ⏩ [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)
- - 👉 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)<!-- MEMES:END -->
+ - 💣 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
+ - ⏩ [Girl hits insane corner kick!](http://9gag.com/gag/a346g41)
+ - 👉 [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)<!-- MEMES:END -->
 
 ---
 
