@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
- - ⏩ [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)
- - 👉 [He got tired](http://9gag.com/gag/ajPzjy1)<!-- MEMES:END -->
+ - 💣 [I feel my feet itch just looking at it](http://9gag.com/gag/aAy87QZ)
+ - ⏩ [What lobster?](http://9gag.com/gag/aqyPM6M)
+ - 👉 [Weight loss](http://9gag.com/gag/aAy8A5R)<!-- MEMES:END -->
 
 ---
 
