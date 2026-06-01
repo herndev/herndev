@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)
- - ⏩ [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
- - 👉 [Title is important](http://9gag.com/gag/aRBbWeA)<!-- MEMES:END -->
+ - 💣 [Let him cook](http://9gag.com/gag/aAy85M9)
+ - ⏩ [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
+ - 👉 [Burn](http://9gag.com/gag/a4PXgrw)<!-- MEMES:END -->
 
 ---
 
