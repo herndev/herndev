@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch rolls out Dual Format, a feature that lets creators stream horizontally and vertically simultaneously, and 2K streaming for partners and affiliates &lpar;Cheyenne MacDonald/Engadget&rpar;](https://www.techmeme.com/260531/p12#a260531p12)
- - [AMD’s new pitch: our old tech is so good you should just keep using it](https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d)
- - [How to use Jellyfin on a Mac to make a private streaming service](https://appleinsider.com/inside/macos/tips/how-to-turn-jellyfin-on-an-old-mac-into-a-private-streaming-service?utm_source=rss)<!-- TECH:END -->
+ - [Daloopa, which structures financial data from filings, transcripts, investor decks, and other public sources for investment firms, raised a $47M Series C &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260531/p15#a260531p15)
+ - [Dell introduces the $699+ Dell XPS 13, starting with 8GB of RAM, a six-core Intel Core 5 320 chip, and a 13.4-inch touchscreen, rivaling the MacBook Neo &lpar;Antonio G. Di Benedetto/The Verge&rpar;](https://www.techmeme.com/260531/p14#a260531p14)
+ - [AMD unveils the $330 Ryzen 7 7700X3D CPU, relaunches the 5800X3D as a $349 10th-anniversary edition, and plans to support the AM5 motherboard socket until 2030 &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260531/p13#a260531p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
