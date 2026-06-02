@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A live blog of Microsoft Build 2026, where the company is set to unveil a Copilot &quot;super app&quot;, a new reasoning model, and Windows improvements for developers &lpar;Engadget&rpar;](https://www.techmeme.com/260602/p32#a260602p32)
- - [Board, which makes a 24&quot; touchscreen device that blends board games with video games&#39; interactivity, raised a $20M Series A, and says it sold tens of thousands &lpar;Connie Loizos/TechCrunch&rpar;](https://www.techmeme.com/260602/p31#a260602p31)
- - [iPhones could get groundbreaking bill-splitting tool Android introduced in 2019](https://www.androidauthority.com/iphone-bill-splitting-3673477/)<!-- TECH:END -->
+ - [Microsoft’s first advanced reasoning AI is here](https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026)
+ - [Microsoft announces Scout, an always-on AI agent built on OpenClaw, appearing as a contact within Microsoft Teams to automate scheduling and more &lpar;Reece Rogers/Wired&rpar;](https://www.techmeme.com/260602/p46#a260602p46)
+ - [The durable, floatable UE Wonderboom 4 speaker is cheaper than ever](https://www.theverge.com/gadgets/941763/ultimate-ears-wonderboom-fractal-design-scape-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
