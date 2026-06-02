@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Electrify America Shifts From Prepaid Accounts to Direct Card Payments](https://www.cnet.com/roadshow/news/electrify-america-drops-prepaid-balance-system-for-direct-charging/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 2 #821](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-2-821/)
- - [Anthropic Eyes an IPO as Big Tech&#39;s AI Cash Crunch Comes for Wall Street](https://www.cnet.com/tech/services-and-software/anthropic-ipo-first-filing-ai-revenue/)<!-- TECH:END -->
+ - [GitHub Copilot&#39;s new pricing model went into effect today, and many noted sticker shock with some saying a few hours of AI usage ate big chunks of monthly caps &lpar;Kyle Orland/Ars Technica&rpar;](https://www.techmeme.com/260601/p58#a260601p58)
+ - [Nvidia launches Nemotron 3 Ultra, a 550B-parameter MoE open model; Artificial Analysis: it&#39;s the smartest open US model but trails the Chinese model Kimi K2.6 &lpar;Maximilian Schreiner/The Decoder&rpar;](https://www.techmeme.com/260601/p57#a260601p57)
+ - [Apple Will Reportedly Add Bill-Splitting Feature to iOS 27](https://www.cnet.com/tech/apple-will-reportedly-add-bill-splitting-feature-to-ios-27/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
