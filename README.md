@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon schedules Prime Day for June 23 to June 26, shifting the four-day sales event from its traditional July slot to avoid conflicts with the FIFA World Cup &lpar;Arriana McLymore/Reuters&rpar;](https://www.techmeme.com/260602/p15#a260602p15)
- - [OpenAI releases a new report on knowledge work: Codex now has 5M+ weekly active users, up 6x+ since February, and knowledge workers are ~20% of Codex users &lpar;OpenAI&rpar;](https://www.techmeme.com/260602/p14#a260602p14)
- - [How to Avoid Scams and Bad Gadgets on Amazon &lpar;2026&rpar;](https://www.wired.com/story/how-shop-safe-amazon/)<!-- TECH:END -->
+ - [People are leaving a lot of weird stuff in their robotaxis](https://www.theverge.com/transportation/941150/uber-lost-found-robotaxi-items-waymo-motional-avride)
+ - [4 Best Alexa Speakers &lpar;2026&rpar;: Echo Dot Max, Echo Dot, Echo Show 11](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
+ - [This is the way: WWDC 2026 attendees get to see &#39;The Mandalorian and Grogu&#39;](https://appleinsider.com/articles/26/06/01/wwdc-2026-guests-can-attend-special-screening-of-the-latest-star-wars-movie?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
