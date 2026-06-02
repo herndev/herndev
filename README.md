@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
- - ⏩ [Burn](http://9gag.com/gag/a4PXgrw)
+ - 💣 [Small Weiner Club](http://9gag.com/gag/aZZ65LV)
+ - ⏩ [Casual](http://9gag.com/gag/aQzL5q2)
  - 👉 [Weight loss](http://9gag.com/gag/aAy8A5R)<!-- MEMES:END -->
 
 ---
