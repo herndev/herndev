@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWDC 2026 guests can attend special screening of the latest &#39;Star Wars&#39; movie](https://appleinsider.com/articles/26/06/01/wwdc-2026-guests-can-attend-special-screening-of-the-latest-star-wars-movie?utm_source=rss)
- - [Startups from the pre-ChatGPT era face a reckoning in private markets; PitchBook: half of US unicorns haven&#39;t raised in three years, 220+ are &quot;fallen unicorns&quot; &lpar;Hugh Son/CNBC&rpar;](https://www.techmeme.com/260601/p55#a260601p55)
- - [Lost Your Duolingo Streak? There&#39;s Finally a Way to Get It Back](https://www.cnet.com/tech/services-and-software/lost-your-duolingo-streak-theres-finally-a-way-to-get-it-back/)<!-- TECH:END -->
+ - [Electrify America Shifts From Prepaid Accounts to Direct Card Payments](https://www.cnet.com/roadshow/news/electrify-america-drops-prepaid-balance-system-for-direct-charging/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 2 #821](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-2-821/)
+ - [Anthropic Eyes an IPO as Big Tech&#39;s AI Cash Crunch Comes for Wall Street](https://www.cnet.com/tech/services-and-software/anthropic-ipo-first-filing-ai-revenue/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
