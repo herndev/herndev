@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Small Weiner Club](http://9gag.com/gag/aZZ65LV)
- - ⏩ [Casual](http://9gag.com/gag/aQzL5q2)
- - 👉 [Weight loss](http://9gag.com/gag/aAy8A5R)<!-- MEMES:END -->
+ - ⏩ [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
+ - 👉 [Soulmates don\u2019t necessarily mean lover](http://9gag.com/gag/aoyv752)<!-- MEMES:END -->
 
 ---
 
