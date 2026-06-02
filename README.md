@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cars](http://9gag.com/gag/aE095rp)
- - ⏩ [Pick a random one and enjoy](http://9gag.com/gag/aKGQZ0N)
- - 👉 [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)<!-- MEMES:END -->
+ - 💣 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
+ - ⏩ [Cars](http://9gag.com/gag/aE095rp)
+ - 👉 [The worst robbery ever.](http://9gag.com/gag/aRBbpd7)<!-- MEMES:END -->
 
 ---
 
