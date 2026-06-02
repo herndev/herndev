@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
- - ⏩ [Everything is easy, when you know how](http://9gag.com/gag/aoyvwbe)
- - 👉 [Burn](http://9gag.com/gag/a4PXgrw)<!-- MEMES:END -->
+ - 💣 [Small Weiner Club](http://9gag.com/gag/aZZ65LV)
+ - ⏩ [Weight loss](http://9gag.com/gag/aAy8A5R)
+ - 👉 [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)<!-- MEMES:END -->
 
 ---
 
