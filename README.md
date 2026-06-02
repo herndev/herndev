@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [People are leaving a lot of weird stuff in their robotaxis](https://www.theverge.com/transportation/941150/uber-lost-found-robotaxi-items-waymo-motional-avride)
- - [4 Best Alexa Speakers &lpar;2026&rpar;: Echo Dot Max, Echo Dot, Echo Show 11](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
- - [This is the way: WWDC 2026 attendees get to see &#39;The Mandalorian and Grogu&#39;](https://appleinsider.com/articles/26/06/01/wwdc-2026-guests-can-attend-special-screening-of-the-latest-star-wars-movie?utm_source=rss)<!-- TECH:END -->
+ - [Folding iPhone Liquid Metal hinge may pay off 16 years of Apple research](https://appleinsider.com/articles/26/06/02/folding-iphone-liquid-metal-hinge-may-pay-off-16-years-of-apple-research?utm_source=rss)
+ - [Sixteen mathematicians publish the Leiden Declaration on AI and Mathematics to warn of potential threats to the field, such as around accuracy and reliability &lpar;Siobhan Roberts/New York Times&rpar;](https://www.techmeme.com/260602/p22#a260602p22)
+ - [Prime Day buildup triggers a record low price on the Eero Pro 6E mesh router](https://www.androidauthority.com/amazon-eero-pro-6e-mesh-wi-fi-router-deal-3673252/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
