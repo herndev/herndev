@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crunchbase: SF startups hit a record of 1,404 seed deals in 2025, while the number of NYC seed deals has dropped over the past three years, to 666 in 2025 &lpar;Yuliya Chernova/Wall Street Journal&rpar;](https://www.techmeme.com/260602/p1#a260602p1)
- - [Wise confirms it is under investigation by Belgian prosecutors over suspicions its accounts were used for money laundering involving €500M in transactions &lpar;Simon Lock/TBIJ&rpar;](https://www.techmeme.com/260601/p60#a260601p60)
- - [Sources: Tencent, which has fallen behind domestic rivals in AI models, plans to test an AI agent for WeChat with a small group of users before a phased rollout &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260601/p59#a260601p59)<!-- TECH:END -->
+ - [A profile of Valve, which PrivCo estimates generated $5.2B in revenue and $1.5B in net income in 2025, as lawsuits allege its Steam store abuses market power &lpar;Bloomberg&rpar;](https://www.techmeme.com/260602/p8#a260602p8)
+ - [The IPOs of SpaceX, Anthropic, and OpenAI could add up to $4T to US stock market value within months, fueling concerns they could trigger more capital-raising &lpar;The Economist&rpar;](https://www.techmeme.com/260602/p7#a260602p7)
+ - [Google Photos is finally making backups less painful with a smarter export system](https://www.androidauthority.com/google-photos-incremental-takeout-3673297/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
