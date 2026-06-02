@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)
- - ⏩ [Imagine the chaos](http://9gag.com/gag/a9yxGDo)
- - 👉 [What a great and an unharming prank](http://9gag.com/gag/ae9nw2b)<!-- MEMES:END -->
+ - 💣 [Cars](http://9gag.com/gag/aE095rp)
+ - ⏩ [Pick a random one and enjoy](http://9gag.com/gag/aKGQZ0N)
+ - 👉 [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)<!-- MEMES:END -->
 
 ---
 
