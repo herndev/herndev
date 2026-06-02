@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
- - ⏩ [Cars](http://9gag.com/gag/aE095rp)
- - 👉 [Soulmates don\u2019t necessarily mean lover](http://9gag.com/gag/aoyv752)<!-- MEMES:END -->
+ - 💣 [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)
+ - ⏩ [Imagine the chaos](http://9gag.com/gag/a9yxGDo)
+ - 👉 [What a great and an unharming prank](http://9gag.com/gag/ae9nw2b)<!-- MEMES:END -->
 
 ---
 
