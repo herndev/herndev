@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s wallpaper-based Gemini redesign is finally rolling out to users](https://www.androidauthority.com/google-gemini-material-you-redesign-3673288/)
- - [GitHub Copilot&#39;s new pricing model went into effect today, and many noted sticker shock with some saying a few hours of AI usage ate big chunks of monthly caps &lpar;Kyle Orland/Ars Technica&rpar;](https://www.techmeme.com/260601/p58#a260601p58)
- - [Nvidia launches Nemotron 3 Ultra, a 550B-parameter MoE open model; Artificial Analysis: it&#39;s the smartest open US model but trails the Chinese model Kimi K2.6 &lpar;Maximilian Schreiner/The Decoder&rpar;](https://www.techmeme.com/260601/p57#a260601p57)<!-- TECH:END -->
+ - [Crunchbase: SF startups hit a record of 1,404 seed deals in 2025, while the number of NYC seed deals has dropped over the past three years, to 666 in 2025 &lpar;Yuliya Chernova/Wall Street Journal&rpar;](https://www.techmeme.com/260602/p1#a260602p1)
+ - [Wise confirms it is under investigation by Belgian prosecutors over suspicions its accounts were used for money laundering involving €500M in transactions &lpar;Simon Lock/TBIJ&rpar;](https://www.techmeme.com/260601/p60#a260601p60)
+ - [Sources: Tencent, which has fallen behind domestic rivals in AI models, plans to test an AI agent for WeChat with a small group of users before a phased rollout &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260601/p59#a260601p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
