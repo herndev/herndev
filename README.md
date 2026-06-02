@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cowboys](http://9gag.com/gag/a4PXOL6)
- - ⏩ [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)
- - 👉 [The third one is tolerating you](http://9gag.com/gag/azxWwxb)<!-- MEMES:END -->
+ - 💣 [I can\u2019t believe I am saying this but Nic Cage is by far better than Tom Holland.](http://9gag.com/gag/amoewR6)
+ - ⏩ [The third one is tolerating you](http://9gag.com/gag/azxWwxb)
+ - 👉 [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)<!-- MEMES:END -->
 
 ---
 
