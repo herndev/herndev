@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I held the next-gen handheld](https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview)
- - [Open source app could finally free WHOOP users from expensive subscriptions](https://www.androidauthority.com/open-source-whoop-app-3673542/)
- - [Internal memo: Meta is scaling back elements of its employee tracking tool, launched in April to help train its AI models, after staff raised concerns &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260602/p55#a260602p55)<!-- TECH:END -->
+ - [Here&amp;#8217;s seven bloody minutes of Wolverine on the PS5](https://www.theverge.com/games/939378/marvels-wolverine-playstation-trailer-state-of-play-june-2026)
+ - [Future Apple Vision Pro could gain Apple Pencil that can simulate textures](https://appleinsider.com/articles/26/06/02/future-apple-vision-pro-could-gain-apple-pencil-that-can-simulate-textures?utm_source=rss)
+ - [Trump’s new AI executive order could slow down future model launches](https://www.androidauthority.com/ai-model-review-executive-order-3673605/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
