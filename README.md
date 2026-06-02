@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Valve, which PrivCo estimates generated $5.2B in revenue and $1.5B in net income in 2025, as lawsuits allege its Steam store abuses market power &lpar;Bloomberg&rpar;](https://www.techmeme.com/260602/p8#a260602p8)
- - [The IPOs of SpaceX, Anthropic, and OpenAI could add up to $4T to US stock market value within months, fueling concerns they could trigger more capital-raising &lpar;The Economist&rpar;](https://www.techmeme.com/260602/p7#a260602p7)
- - [Google Photos is finally making backups less painful with a smarter export system](https://www.androidauthority.com/google-photos-incremental-takeout-3673297/)<!-- TECH:END -->
+ - [Computex 2026: ARM CEO Rene Haas says Oracle and ByteDance are among the customers of the company&#39;s new AGI CPU data center chips &lpar;Max Cherney/Reuters&rpar;](https://www.techmeme.com/260602/p10#a260602p10)
+ - [Here’s everything new in June 2026 for the Google Play Store](https://www.androidauthority.com/google-play-store-updates-june-2026-3673331/)
+ - [Zhipu AI says it plans to apply for a listing in Shanghai; Zhipu&#39;s Hong Kong-listed shares are up over 10x since its January IPO, giving it an $83B market cap &lpar;Reuters&rpar;](https://www.techmeme.com/260602/p9#a260602p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
