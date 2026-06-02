@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
  - ⏩ [Burn](http://9gag.com/gag/a4PXgrw)
- - 👉 [Everything is easy, when you know how](http://9gag.com/gag/aoyvwbe)<!-- MEMES:END -->
+ - 👉 [Weight loss](http://9gag.com/gag/aAy8A5R)<!-- MEMES:END -->
 
 ---
 
