@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
- - ⏩ [Girl hits insane corner kick!](http://9gag.com/gag/a346g41)
- - 👉 [The third one is tolerating you](http://9gag.com/gag/azxWwxb)<!-- MEMES:END -->
+ - 💣 [She&#39;s made from attitude, sass, and everything that&#39;s ass.](http://9gag.com/gag/aMVoL4P)
+ - ⏩ [Cars](http://9gag.com/gag/aE095rp)
+ - 👉 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)<!-- MEMES:END -->
 
 ---
 
