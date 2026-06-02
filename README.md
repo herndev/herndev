@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Computex 2026: ARM CEO Rene Haas says Oracle and ByteDance are among the customers of the company&#39;s new AGI CPU data center chips &lpar;Max Cherney/Reuters&rpar;](https://www.techmeme.com/260602/p10#a260602p10)
- - [Here’s everything new in June 2026 for the Google Play Store](https://www.androidauthority.com/google-play-store-updates-june-2026-3673331/)
- - [Zhipu AI says it plans to apply for a listing in Shanghai; Zhipu&#39;s Hong Kong-listed shares are up over 10x since its January IPO, giving it an $83B market cap &lpar;Reuters&rpar;](https://www.techmeme.com/260602/p9#a260602p9)<!-- TECH:END -->
+ - [Amazon schedules Prime Day for June 23 to June 26, shifting the four-day sales event from its traditional July slot to avoid conflicts with the FIFA World Cup &lpar;Arriana McLymore/Reuters&rpar;](https://www.techmeme.com/260602/p15#a260602p15)
+ - [OpenAI releases a new report on knowledge work: Codex now has 5M+ weekly active users, up 6x+ since February, and knowledge workers are ~20% of Codex users &lpar;OpenAI&rpar;](https://www.techmeme.com/260602/p14#a260602p14)
+ - [How to Avoid Scams and Bad Gadgets on Amazon &lpar;2026&rpar;](https://www.wired.com/story/how-shop-safe-amazon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
