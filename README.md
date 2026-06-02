@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Folding iPhone Liquid Metal hinge may pay off 16 years of Apple research](https://appleinsider.com/articles/26/06/02/folding-iphone-liquid-metal-hinge-may-pay-off-16-years-of-apple-research?utm_source=rss)
- - [Sixteen mathematicians publish the Leiden Declaration on AI and Mathematics to warn of potential threats to the field, such as around accuracy and reliability &lpar;Siobhan Roberts/New York Times&rpar;](https://www.techmeme.com/260602/p22#a260602p22)
- - [Prime Day buildup triggers a record low price on the Eero Pro 6E mesh router](https://www.androidauthority.com/amazon-eero-pro-6e-mesh-wi-fi-router-deal-3673252/)<!-- TECH:END -->
+ - [A live blog of Microsoft Build 2026, where the company is set to unveil a Copilot &quot;super app&quot;, a new reasoning model, and Windows improvements for developers &lpar;Engadget&rpar;](https://www.techmeme.com/260602/p32#a260602p32)
+ - [Board, which makes a 24&quot; touchscreen device that blends board games with video games&#39; interactivity, raised a $20M Series A, and says it sold tens of thousands &lpar;Connie Loizos/TechCrunch&rpar;](https://www.techmeme.com/260602/p31#a260602p31)
+ - [iPhones could get groundbreaking bill-splitting tool Android introduced in 2019](https://www.androidauthority.com/iphone-bill-splitting-3673477/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
