@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s made from attitude, sass, and everything that&#39;s ass.](http://9gag.com/gag/aMVoL4P)
+ - 💣 [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
  - ⏩ [Cars](http://9gag.com/gag/aE095rp)
- - 👉 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)<!-- MEMES:END -->
+ - 👉 [Soulmates don\u2019t necessarily mean lover](http://9gag.com/gag/aoyv752)<!-- MEMES:END -->
 
 ---
 
