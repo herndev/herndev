@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Small Weiner Club](http://9gag.com/gag/aZZ65LV)
- - ⏩ [Weight loss](http://9gag.com/gag/aAy8A5R)
- - 👉 [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)<!-- MEMES:END -->
+ - ⏩ [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
+ - 👉 [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)<!-- MEMES:END -->
 
 ---
 
