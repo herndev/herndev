@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&amp;#8217;s seven bloody minutes of Wolverine on the PS5](https://www.theverge.com/games/939378/marvels-wolverine-playstation-trailer-state-of-play-june-2026)
- - [Future Apple Vision Pro could gain Apple Pencil that can simulate textures](https://appleinsider.com/articles/26/06/02/future-apple-vision-pro-could-gain-apple-pencil-that-can-simulate-textures?utm_source=rss)
- - [Trump’s new AI executive order could slow down future model launches](https://www.androidauthority.com/ai-model-review-executive-order-3673605/)<!-- TECH:END -->
+ - [God of War Laufey is coming to the PS5](https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer)
+ - [The US sanctions Nobitex, Iran&#39;s largest crypto exchange, accusing it of helping Iran&#39;s government and blacklisted state institutions evade Western sanctions &lpar;Gavin Finch/Reuters&rpar;](https://www.techmeme.com/260602/p61#a260602p61)
+ - [Palo Alto Networks reports Q3 revenue up 31% YoY to $3B, including $388M from CyberArk and Chronosphere, vs. $2.94B est., and forecasts Q4 revenue above est. &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260602/p60#a260602p60)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
