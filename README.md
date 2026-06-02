@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Small Weiner Club](http://9gag.com/gag/aZZ65LV)
- - ⏩ [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
- - 👉 [A sobering look at the daily life of a chinese Gen Z factory worker struggling with daily life.](http://9gag.com/gag/a1myjKv)<!-- MEMES:END -->
+ - 💣 [China has its shit together!!!!](http://9gag.com/gag/aGymvqX)
+ - ⏩ [Burn](http://9gag.com/gag/a4PXgrw)
+ - 👉 [Everything is easy, when you know how](http://9gag.com/gag/aoyvwbe)<!-- MEMES:END -->
 
 ---
 
