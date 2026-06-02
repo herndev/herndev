@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s first advanced reasoning AI is here](https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026)
- - [Microsoft announces Scout, an always-on AI agent built on OpenClaw, appearing as a contact within Microsoft Teams to automate scheduling and more &lpar;Reece Rogers/Wired&rpar;](https://www.techmeme.com/260602/p46#a260602p46)
- - [The durable, floatable UE Wonderboom 4 speaker is cheaper than ever](https://www.theverge.com/gadgets/941763/ultimate-ears-wonderboom-fractal-design-scape-deal-sale)<!-- TECH:END -->
+ - [I held the next-gen handheld](https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview)
+ - [Open source app could finally free WHOOP users from expensive subscriptions](https://www.androidauthority.com/open-source-whoop-app-3673542/)
+ - [Internal memo: Meta is scaling back elements of its employee tracking tool, launched in April to help train its AI models, after staff raised concerns &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260602/p55#a260602p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
