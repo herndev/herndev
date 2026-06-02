@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Small Weiner Club](http://9gag.com/gag/aZZ65LV)
- - ⏩ [Respect the greatest if you are great](http://9gag.com/gag/aND7M8A)
- - 👉 [Soulmates don\u2019t necessarily mean lover](http://9gag.com/gag/aoyv752)<!-- MEMES:END -->
+ - 💣 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
+ - ⏩ [Girl hits insane corner kick!](http://9gag.com/gag/a346g41)
+ - 👉 [The third one is tolerating you](http://9gag.com/gag/azxWwxb)<!-- MEMES:END -->
 
 ---
 
