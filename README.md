@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gottem](http://9gag.com/gag/aoyvQR3)
- - ⏩ [Poor guy](http://9gag.com/gag/aVvpyYO)
- - 👉 [Valve&#39;s reaction to scalpers buying out all the Steam Controllers on the day it was released](http://9gag.com/gag/avyMKgn)<!-- MEMES:END -->
+ - 💣 [Valve&#39;s reaction to scalpers buying out all the Steam Controllers on the day it was released](http://9gag.com/gag/avyMKgn)
+ - ⏩ [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
+ - 👉 [Cars](http://9gag.com/gag/aE095rp)<!-- MEMES:END -->
 
 ---
 
