@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search just lost a key market to a rival you’ve probably never heard of](https://www.androidauthority.com/european-parliament-ditches-google-search-qwant-3673975/)
- - [Amazon announces new visual search features, including displaying AI-generated images of products within its app based on users&#39; search queries &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260603/p47#a260603p47)
- - [Leading the Future, the pro-AI super PAC backed by Greg Brockman, appears to be linked to multiple sockpuppet accounts, including a purported anti-AI activist &lpar;@themidasproj&rpar;](https://www.techmeme.com/260603/p46#a260603p46)<!-- TECH:END -->
+ - [Short-sighted: John Ternus behind Apple Vision project refocuses](https://appleinsider.com/articles/26/06/03/short-sighted-john-ternus-behind-apple-vision-project-refocuses?utm_source=rss)
+ - [Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers](https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/)
+ - [The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain](https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
