@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Short-sighted: John Ternus behind Apple Vision project refocuses](https://appleinsider.com/articles/26/06/03/short-sighted-john-ternus-behind-apple-vision-project-refocuses?utm_source=rss)
- - [Amazon Employees Show Up to City Council Meeting to Demand Limits on Data Centers](https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/)
- - [The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain](https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/)<!-- TECH:END -->
+ - [Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer](https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan)
+ - [In a report, UK lawmakers call on the government to end a £330M NHS deal with Palantir and disclose more details of a military contract with the company &lpar;Bloomberg&rpar;](https://www.techmeme.com/260603/p53#a260603p53)
+ - [Security firm Calif says it used OpenAI&#39;s Codex to discover HTTP/2 Bomb, a remote DoS exploit affecting web servers like Nginx, Apache HTTPD, and Microsoft IIS &lpar;The Hacker News&rpar;](https://www.techmeme.com/260603/p52#a260603p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
