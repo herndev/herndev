@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer](https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan)
- - [In a report, UK lawmakers call on the government to end a £330M NHS deal with Palantir and disclose more details of a military contract with the company &lpar;Bloomberg&rpar;](https://www.techmeme.com/260603/p53#a260603p53)
- - [Security firm Calif says it used OpenAI&#39;s Codex to discover HTTP/2 Bomb, a remote DoS exploit affecting web servers like Nginx, Apache HTTPD, and Microsoft IIS &lpar;The Hacker News&rpar;](https://www.techmeme.com/260603/p52#a260603p52)<!-- TECH:END -->
+ - [Apple is bringing age verification to Texas this week](https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store)
+ - [Amazon’s new AI search shows fake products first, then tries to sell you the real thing](https://www.androidauthority.com/amazon-ai-search-3674160/)
+ - [Age verification now mandatory for App Store users in Texas](https://appleinsider.com/articles/26/06/03/age-verification-now-mandatory-for-app-store-users-in-texas?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
