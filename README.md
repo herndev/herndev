@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile just announced one of its biggest perk drops ever for users](https://www.androidauthority.com/t-mobile-member-month-perks-june-2026-3673664/)
- - [University of Toronto researchers claim to have developed a &quot;worm&quot; powered by open source AI that exploits known flaws and tailors attacks for each computer &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/260602/p69#a260602p69)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, June 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-june-3/)<!-- TECH:END -->
+ - [The NotebookLM mobile app just gained a trio of report formats](https://www.androidauthority.com/notebooklm-new-report-formats-3673677/)
+ - [How India&#39;s ambitions to build and export a sovereign AI template are colliding with structural constraints, including a dependence on foreign AI infrastructure &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260603/p6#a260603p6)
+ - [UnearthInsight: Indian IT companies have spent $7.1B on acquisitions since the start of 2025 to gain clients, as AI-led pricing pressure weakens organic growth &lpar;Shristi Achar/The Economic Times&rpar;](https://www.techmeme.com/260603/p5#a260603p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
