@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palantir Contracts Have Become ‘An Unacceptable Point of Weakness,’ UK Politicians Warn](https://www.wired.com/story/uk-government-palantir-warning-report/)
- - [Trump&#39;s New AI Executive Order Has No Teeth and No Requirements](https://www.cnet.com/tech/services-and-software/trump-ai-executive-order-has-no-requirements/)
- - [Sources: a Broadcom-backed portion of Apollo and Blackstone&#39;s $36B debt deal to buy TPUs for Anthropic to lease may yield ~5.75% vs. 8%-9% for a riskier portion &lpar;Bloomberg&rpar;](https://www.techmeme.com/260602/p62#a260602p62)<!-- TECH:END -->
+ - [Bitcoin fell as much as 7% over 24 hours to below $67K on Tuesday for the first time since April, following Strategy&#39;s first BTC sale since 2022; MSTR fell 9% &lpar;Bloomberg&rpar;](https://www.techmeme.com/260602/p64#a260602p64)
+ - [Oxford Quantum Circuits, a UK-based startup building and deploying quantum computers, has raised a $350M Series C led by Bullhound Capital &lpar;Daphné Leprince-Ringuet/Sifted&rpar;](https://www.techmeme.com/260602/p63#a260602p63)
+ - [Palantir Contracts Have Become ‘An Unacceptable Point of Weakness,’ UK Politicians Warn](https://www.wired.com/story/uk-government-palantir-warning-report/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
