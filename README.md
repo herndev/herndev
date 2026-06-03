@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s SpaceX &amp; Tesla email accounts must be handed over in Apple lawsuit](https://appleinsider.com/articles/26/06/03/elon-musks-spacex-tesla-email-accounts-must-be-handed-over-in-apple-lawsuit?utm_source=rss)
- - [Source: SpaceX plans to raise $75B in its IPO by selling 555.6M shares at $135 each, an unusual move since most companies set a price range before the roadshow &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260602/p67#a260602p67)
- - [Source: Google asked Google Play app devs to join a &quot;confidential content offer pilot&quot;, offering to pay for access to codebases to use them to train AI tools &lpar;Jason Koebler/404 Media&rpar;](https://www.techmeme.com/260602/p66#a260602p66)<!-- TECH:END -->
+ - [T-Mobile just announced one of its biggest perk drops ever for users](https://www.androidauthority.com/t-mobile-member-month-perks-june-2026-3673664/)
+ - [University of Toronto researchers claim to have developed a &quot;worm&quot; powered by open source AI that exploits known flaws and tailors attacks for each computer &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/260602/p69#a260602p69)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, June 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-june-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
