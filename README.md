@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F*** This System](http://9gag.com/gag/aXPy6yD)
- - ⏩ [This one brings joy](http://9gag.com/gag/a6Z0Y6q)
- - 👉 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)<!-- MEMES:END -->
+ - 💣 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)
+ - ⏩ [This is how you share your catch with nature](http://9gag.com/gag/a2v33PE)
+ - 👉 [Japan has no chill](http://9gag.com/gag/aAy8860)<!-- MEMES:END -->
 
 ---
 
