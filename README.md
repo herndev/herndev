@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine being this persistent to cut in line, only to crash](http://9gag.com/gag/aryQQpd)
- - ⏩ [Soulmates don\u2019t necessarily mean lover](http://9gag.com/gag/aoyv752)
- - 👉 [Cowboys](http://9gag.com/gag/a4PXOL6)<!-- MEMES:END -->
+ - 💣 [F*** This System](http://9gag.com/gag/aXPy6yD)
+ - ⏩ [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)
+ - 👉 [Does anyone else remember the pink power rangers being this thick ?](http://9gag.com/gag/adBGGjV)<!-- MEMES:END -->
 
 ---
 
