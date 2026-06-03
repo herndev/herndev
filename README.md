@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
- - ⏩ [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)
- - 👉 [She&#39;s made from attitude, sass, and everything that&#39;s ass.](http://9gag.com/gag/aMVoL4P)<!-- MEMES:END -->
+ - 💣 [Joke of the century](http://9gag.com/gag/azxWwGp)
+ - ⏩ [How to cut tuna](http://9gag.com/gag/aLnZ7wV)
+ - 👉 [When a regular train staff is prettier than the newest Helen of Troy](http://9gag.com/gag/a5QO07N)<!-- MEMES:END -->
 
 ---
 
