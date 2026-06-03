@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F*** This System](http://9gag.com/gag/aXPy6yD)
- - ⏩ [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)
- - 👉 [Does anyone else remember the pink power rangers being this thick ?](http://9gag.com/gag/adBGGjV)<!-- MEMES:END -->
+ - 💣 [This one brings joy](http://9gag.com/gag/a6Z0Y6q)
+ - ⏩ [Cowboys](http://9gag.com/gag/a4PXOL6)
+ - 👉 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)<!-- MEMES:END -->
 
 ---
 
