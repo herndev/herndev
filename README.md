@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Small Weiner Club](http://9gag.com/gag/aZZ65LV)
- - ⏩ [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)
- - 👉 [Cowboys](http://9gag.com/gag/a4PXOL6)<!-- MEMES:END -->
+ - 💣 [Imagine the chaos](http://9gag.com/gag/a9yxGDo)
+ - ⏩ [In iceland](http://9gag.com/gag/aD2K5EB)
+ - 👉 [Joke of the century](http://9gag.com/gag/azxWwGp)<!-- MEMES:END -->
 
 ---
 
