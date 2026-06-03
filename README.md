@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NotebookLM mobile app just gained a trio of report formats](https://www.androidauthority.com/notebooklm-new-report-formats-3673677/)
- - [How India&#39;s ambitions to build and export a sovereign AI template are colliding with structural constraints, including a dependence on foreign AI infrastructure &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260603/p6#a260603p6)
- - [UnearthInsight: Indian IT companies have spent $7.1B on acquisitions since the start of 2025 to gain clients, as AI-led pricing pressure weakens organic growth &lpar;Shristi Achar/The Economic Times&rpar;](https://www.techmeme.com/260603/p5#a260603p5)<!-- TECH:END -->
+ - [The Fitbit Air might be messing up the one thing it’s supposed to do well](https://www.androidauthority.com/google-fitbit-air-tracking-issues-3673689/)
+ - [Google brings Gemini’s ‘Extended’ thinking to everyone, no subscription needed](https://www.androidauthority.com/google-gemini-extended-thinking-everyone-3673702/)
+ - [Google resets Gemini rate limits alongside new Gemini 3.5 Flash model deployment](https://www.androidauthority.com/google-gemini-3-5-flash-antigravity-update-3673711/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
