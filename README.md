@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine the chaos](http://9gag.com/gag/a9yxGDo)
+ - 💣 [How to cut tuna](http://9gag.com/gag/aLnZ7wV)
  - ⏩ [In iceland](http://9gag.com/gag/aD2K5EB)
- - 👉 [Joke of the century](http://9gag.com/gag/azxWwGp)<!-- MEMES:END -->
+ - 👉 [True](http://9gag.com/gag/agmDe5K)<!-- MEMES:END -->
 
 ---
 
