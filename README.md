@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia acquired Kumo, which sells predictive AI software to enterprises, a source says for $400M+; PitchBook: Kumo raised $37M at a $250M valuation in 2022 &lpar;The Information&rpar;](https://www.techmeme.com/260603/p59#a260603p59)
- - [Google introduces Gemma 4 12B, a unified, encoder-free open multimodal model that can run locally on devices with 16GB of VRAM or unified memory &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260603/p58#a260603p58)
- - [CrowdStrike reports Q1 revenue up 26% YoY to $1.39B, vs. $1.36B est., and forecasts Q2 revenue of about $1.44B, vs. $1.43B est.; CRWD drops 9%+ after hours &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260603/p57#a260603p57)<!-- TECH:END -->
+ - [Sources: Lila Sciences, which uses AI tools to speed up the rate of scientific discovery, is in talks to raise a $2B Series B at an expected valuation of ~$8.5B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260603/p61#a260603p61)
+ - [Apple TV&#39;s &#39;Prehistoric Planet&#39; brought extinct animals to life with custom instruments](https://appleinsider.com/articles/26/06/03/apple-tvs-prehistoric-planet-brought-extinct-animals-to-life-with-custom-instruments?utm_source=rss)
+ - [Internal documents: Meta is considering tiered pricing for &quot;Hatch&quot;, its planned OpenClaw-like AI agent tool, including a $200-per-month premium subscription &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260603/p60#a260603p60)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
