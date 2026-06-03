@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will let websites opt out of AI Overviews, but it’s trying to tempt them not to](https://www.androidauthority.com/google-websites-opt-out-ai-overviews-3673839/)
- - [The EU Commission unveils its proposed tech sovereignty package, including the Cloud and AI Development Act, in a bid to cut its reliance on US tech companies &lpar;Mathieu Pollet/Politico&rpar;](https://www.techmeme.com/260603/p30#a260603p30)
- - [Baidu CFO Henry He says the company expects to spin off and list its chip unit Kunlunxin in Hong Kong and Shanghai in 2026, making it a &quot;neutral player&quot; &lpar;Tracy Qu/Wall Street Journal&rpar;](https://www.techmeme.com/260603/p29#a260603p29)<!-- TECH:END -->
+ - [Mustafa Suleyman says Microsoft aims to become &quot;one of the top four labs in the world&quot;, and &quot;the pivotal moment was renegotiating our contract with OpenAI&quot; &lpar;The Verge&rpar;](https://www.techmeme.com/260603/p38#a260603p38)
+ - [Steam on Android handhelds just got a lot better thanks to this updated Linux distro](https://www.androidauthority.com/rocknix-linux-update-steam-android-handhelds-3673831/)
+ - [Google could soon give you much more control over your Android backups](https://www.androidauthority.com/google-android-backup-granular-data-controls-3673873/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
