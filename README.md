@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tim Sweeney takes swipes at Valve for Steam Deck price hike, blames it on the &#39;component parts supply chain for megayachts&#39;](https://www.pcgamer.com/hardware/handheld-gaming-pcs/tim-sweeney-takes-swipes-at-valve-for-steam-deck-price-hike-blames-it-on-the-component-parts-supply-chain-for-megayachts/)
- - [Overwatch&#39;s general manager has ignited player hopes for an animated series after revealing that he &#39;would not rule out&#39; other narrative experiences in the future](https://www.pcgamer.com/games/fps/overwatchs-general-manager-has-ignited-player-hopes-for-an-animated-series-after-revealing-that-he-would-not-rule-out-other-narrative-experiences-in-the-future/)
- - [Acer&#39;s Predator Atlas 8 handheld gaming PC with new Intel G-series chips looks a lot like a beefier Lenovo Legion Go S](https://www.pcgamer.com/hardware/handheld-gaming-pcs/acers-predator-atlas-8-handheld-gaming-pc-with-new-intel-g-series-chips-looks-a-lot-like-a-beefier-lenovo-legion-go-s/)<!-- GAME:END -->
+ - [What time does Arknights: Endfield 1.3 release in your time zone?](https://www.polygon.com/arknights-endfield-ake-1-3-release-time-maintenance-countdown/)
+ - [Silent Hill: Townfall will release in September alongside a handful of other blockbuster games hellbent on avoiding GTA 6](https://www.pcgamer.com/games/horror/silent-hill-townfall-will-release-in-september-alongside-a-handful-of-other-blockbuster-games-hellbent-on-avoiding-gta-6/)
+ - [New games in June 2026: It&#39;s a big month for Bungie and showcase reveals, but we&#39;re missing a key part of the monthly formula](https://www.pcgamer.com/games/pc-game-release-dates-june-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
