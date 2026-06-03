@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Fitbit Air might be messing up the one thing it’s supposed to do well](https://www.androidauthority.com/google-fitbit-air-tracking-issues-3673689/)
- - [Google brings Gemini’s ‘Extended’ thinking to everyone, no subscription needed](https://www.androidauthority.com/google-gemini-extended-thinking-everyone-3673702/)
- - [Google resets Gemini rate limits alongside new Gemini 3.5 Flash model deployment](https://www.androidauthority.com/google-gemini-3-5-flash-antigravity-update-3673711/)<!-- TECH:END -->
+ - [How startups Westmag, which raised an $11M, a16z-led seed in August 2025, and Atlas are seeking to make actuators, the foundation of hardware, outside of China &lpar;Kylie Robison/Core Memory&rpar;](https://www.techmeme.com/260603/p17#a260603p17)
+ - [The INIU SnapGo Air is a wireless, fast, and convenient Qi2.2 magnetic power bank](https://www.androidauthority.com/iniu-snapgo-air-review-3659219/)
+ - [Google unveils five AI data center water commitments, including becoming water positive by 2030, local infrastructure investment, and transparency about usage &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260603/p16#a260603p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
