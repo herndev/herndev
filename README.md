@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Valve&#39;s reaction to scalpers buying out all the Steam Controllers on the day it was released](http://9gag.com/gag/avyMKgn)
- - ⏩ [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
- - 👉 [Cars](http://9gag.com/gag/aE095rp)<!-- MEMES:END -->
+ - 💣 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
+ - ⏩ [Soulmates don\u2019t necessarily mean lover](http://9gag.com/gag/aoyv752)
+ - 👉 [Does anyone else remember the pink power rangers being this thick ?](http://9gag.com/gag/adBGGjV)<!-- MEMES:END -->
 
 ---
 
