@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How startups Westmag, which raised an $11M, a16z-led seed in August 2025, and Atlas are seeking to make actuators, the foundation of hardware, outside of China &lpar;Kylie Robison/Core Memory&rpar;](https://www.techmeme.com/260603/p17#a260603p17)
- - [The INIU SnapGo Air is a wireless, fast, and convenient Qi2.2 magnetic power bank](https://www.androidauthority.com/iniu-snapgo-air-review-3659219/)
- - [Google unveils five AI data center water commitments, including becoming water positive by 2030, local infrastructure investment, and transparency about usage &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260603/p16#a260603p16)<!-- TECH:END -->
+ - [Google will let websites opt out of AI Overviews, but it’s trying to tempt them not to](https://www.androidauthority.com/google-websites-opt-out-ai-overviews-3673839/)
+ - [The EU Commission unveils its proposed tech sovereignty package, including the Cloud and AI Development Act, in a bid to cut its reliance on US tech companies &lpar;Mathieu Pollet/Politico&rpar;](https://www.techmeme.com/260603/p30#a260603p30)
+ - [Baidu CFO Henry He says the company expects to spin off and list its chip unit Kunlunxin in Hong Kong and Shanghai in 2026, making it a &quot;neutral player&quot; &lpar;Tracy Qu/Wall Street Journal&rpar;](https://www.techmeme.com/260603/p29#a260603p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
