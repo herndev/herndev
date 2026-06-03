@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin fell as much as 7% over 24 hours to below $67K on Tuesday for the first time since April, following Strategy&#39;s first BTC sale since 2022; MSTR fell 9% &lpar;Bloomberg&rpar;](https://www.techmeme.com/260602/p64#a260602p64)
- - [Oxford Quantum Circuits, a UK-based startup building and deploying quantum computers, has raised a $350M Series C led by Bullhound Capital &lpar;Daphné Leprince-Ringuet/Sifted&rpar;](https://www.techmeme.com/260602/p63#a260602p63)
- - [Palantir Contracts Have Become ‘An Unacceptable Point of Weakness,’ UK Politicians Warn](https://www.wired.com/story/uk-government-palantir-warning-report/)<!-- TECH:END -->
+ - [Google selling $10B of equity to Berkshire is fascinating and functions as a signal that AI demand is high, in a world where the most cash buys the most compute &lpar;Ben Thompson/Stratechery&rpar;](https://www.techmeme.com/260602/p65#a260602p65)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 3, #618](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-3-618/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 3 #822](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-3-822/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
