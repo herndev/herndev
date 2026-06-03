@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google selling $10B of equity to Berkshire is fascinating and functions as a signal that AI demand is high, in a world where the most cash buys the most compute &lpar;Ben Thompson/Stratechery&rpar;](https://www.techmeme.com/260602/p65#a260602p65)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 3, #618](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-3-618/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 3 #822](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-3-822/)<!-- TECH:END -->
+ - [Elon Musk&#39;s SpaceX &amp; Tesla email accounts must be handed over in Apple lawsuit](https://appleinsider.com/articles/26/06/03/elon-musks-spacex-tesla-email-accounts-must-be-handed-over-in-apple-lawsuit?utm_source=rss)
+ - [Source: SpaceX plans to raise $75B in its IPO by selling 555.6M shares at $135 each, an unusual move since most companies set a price range before the roadshow &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260602/p67#a260602p67)
+ - [Source: Google asked Google Play app devs to join a &quot;confidential content offer pilot&quot;, offering to pay for access to codebases to use them to train AI tools &lpar;Jason Koebler/404 Media&rpar;](https://www.techmeme.com/260602/p66#a260602p66)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
