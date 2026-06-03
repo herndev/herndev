@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can\u2019t believe I am saying this but Nic Cage is by far better than Tom Holland.](http://9gag.com/gag/amoewR6)
- - ⏩ [The third one is tolerating you](http://9gag.com/gag/azxWwxb)
- - 👉 [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)<!-- MEMES:END -->
+ - 💣 [Pasta La Vista](http://9gag.com/gag/aYQ3X4O)
+ - ⏩ [In iceland](http://9gag.com/gag/aD2K5EB)
+ - 👉 [Joke of the century](http://9gag.com/gag/azxWwGp)<!-- MEMES:END -->
 
 ---
 
