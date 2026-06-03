@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mustafa Suleyman says Microsoft aims to become &quot;one of the top four labs in the world&quot;, and &quot;the pivotal moment was renegotiating our contract with OpenAI&quot; &lpar;The Verge&rpar;](https://www.techmeme.com/260603/p38#a260603p38)
- - [Steam on Android handhelds just got a lot better thanks to this updated Linux distro](https://www.androidauthority.com/rocknix-linux-update-steam-android-handhelds-3673831/)
- - [Google could soon give you much more control over your Android backups](https://www.androidauthority.com/google-android-backup-granular-data-controls-3673873/)<!-- TECH:END -->
+ - [Google Search just lost a key market to a rival you’ve probably never heard of](https://www.androidauthority.com/european-parliament-ditches-google-search-qwant-3673975/)
+ - [Amazon announces new visual search features, including displaying AI-generated images of products within its app based on users&#39; search queries &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260603/p47#a260603p47)
+ - [Leading the Future, the pro-AI super PAC backed by Greg Brockman, appears to be linked to multiple sockpuppet accounts, including a purported anti-AI activist &lpar;@themidasproj&rpar;](https://www.techmeme.com/260603/p46#a260603p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
