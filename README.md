@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
+ - 💣 [Imagine being this persistent to cut in line, only to crash](http://9gag.com/gag/aryQQpd)
  - ⏩ [Soulmates don\u2019t necessarily mean lover](http://9gag.com/gag/aoyv752)
- - 👉 [Does anyone else remember the pink power rangers being this thick ?](http://9gag.com/gag/adBGGjV)<!-- MEMES:END -->
+ - 👉 [Cowboys](http://9gag.com/gag/a4PXOL6)<!-- MEMES:END -->
 
 ---
 
