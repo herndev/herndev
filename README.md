@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Joke of the century](http://9gag.com/gag/azxWwGp)
- - ⏩ [How to cut tuna](http://9gag.com/gag/aLnZ7wV)
- - 👉 [When a regular train staff is prettier than the newest Helen of Troy](http://9gag.com/gag/a5QO07N)<!-- MEMES:END -->
+ - 💣 [Gottem](http://9gag.com/gag/aoyvQR3)
+ - ⏩ [Poor guy](http://9gag.com/gag/aVvpyYO)
+ - 👉 [Valve&#39;s reaction to scalpers buying out all the Steam Controllers on the day it was released](http://9gag.com/gag/avyMKgn)<!-- MEMES:END -->
 
 ---
 
