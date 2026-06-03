@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to cut tuna](http://9gag.com/gag/aLnZ7wV)
- - ⏩ [In iceland](http://9gag.com/gag/aD2K5EB)
- - 👉 [True](http://9gag.com/gag/agmDe5K)<!-- MEMES:END -->
+ - 💣 [We must protect him at all costs](http://9gag.com/gag/a87RgbO)
+ - ⏩ [Should have made it pork based. It wouldnt have happened](http://9gag.com/gag/adBGwQB)
+ - 👉 [She&#39;s made from attitude, sass, and everything that&#39;s ass.](http://9gag.com/gag/aMVoL4P)<!-- MEMES:END -->
 
 ---
 
