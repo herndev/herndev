@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check your spam folder: Google’s $68M Assistant settlement emails are going out now](https://www.androidauthority.com/google-assistant-settlement-claim-3674284/)
- - [Moderators of the r/biohackers subreddit claim that peptide companies are spamming their forum in hopes of getting their posts scraped and used by AI chatbots &lpar;Jason Koebler/404 Media&rpar;](https://www.techmeme.com/260603/p71#a260603p71)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, June 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-june-4/)<!-- TECH:END -->
+ - [Centralized control over the user experience not only leads to enshittification, but to &quot;despotification&quot;; decentralized protocols bring back democratic ideals &lpar;Mike Masnick/Liberalism.org&rpar;](https://www.techmeme.com/260604/p8#a260604p8)
+ - [A study of Waymo robotaxi data for 13.8M trips from August 2023 to December 2025: the share of miles driven with a passenger onboard climbed from 36% to 56% &lpar;Jonathan M. Gitlin/Ars Technica&rpar;](https://www.techmeme.com/260604/p7#a260604p7)
+ - [You can finally use your voice for Pixel’s ‘Take a Message’ greetings](https://www.androidauthority.com/pixel-take-message-custom-greetings-stable-3674308/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
