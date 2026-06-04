@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)
- - ⏩ [What the hell is even that??](http://9gag.com/gag/aW4rrEK)
- - 👉 [Gottem](http://9gag.com/gag/aoyvQR3)<!-- MEMES:END -->
+ - 💣 [Gottem](http://9gag.com/gag/aoyvQR3)
+ - ⏩ [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)
+ - 👉 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)<!-- MEMES:END -->
 
 ---
 
