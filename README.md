@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)
- - ⏩ [This is how you share your catch with nature](http://9gag.com/gag/a2v33PE)
- - 👉 [Japan has no chill](http://9gag.com/gag/aAy8860)<!-- MEMES:END -->
+ - 💣 [Meet your match](http://9gag.com/gag/amoe4B2)
+ - ⏩ [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)
+ - 👉 [The worst robbery ever.](http://9gag.com/gag/aRBbpd7)<!-- MEMES:END -->
 
 ---
 
