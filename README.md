@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [What the hell is even that??](http://9gag.com/gag/aW4rrEK)
  - ⏩ [Crunchy](http://9gag.com/gag/aryQQQp)
- - 👉 [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)<!-- MEMES:END -->
+ - 👉 [Brendan Fraser&#39;s emotional standing ovation is everything](http://9gag.com/gag/aD2Kyx7)<!-- MEMES:END -->
 
 ---
 
