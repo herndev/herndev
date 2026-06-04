@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Valve&#39;s reaction to scalpers buying out all the Steam Controllers on the day it was released](http://9gag.com/gag/avyMKgn)
- - ⏩ [Crunchy](http://9gag.com/gag/aryQQQp)
- - 👉 [F*** This System](http://9gag.com/gag/aXPy6yD)<!-- MEMES:END -->
+ - 💣 [Uncle&#39;s job](http://9gag.com/gag/a0errEn)
+ - ⏩ [Tartar sauce\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/a87RRz6)
+ - 👉 [Filipino illegal miners dive deep without oxygen tanks](http://9gag.com/gag/aQzLLKe)<!-- MEMES:END -->
 
 ---
 
