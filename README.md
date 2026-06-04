@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arizona Public Service, the state&#39;s largest utility, proposes a 45% electricity-rate increase for data centers to ensure &quot;that they are paying their fair share&quot; &lpar;Jennifer Hiller/Wall Street Journal&rpar;](https://www.techmeme.com/260604/p38#a260604p38)
- - [Meta Silently Added Face-Recognition Code for Its Smart Glasses to Millions of Phones](https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/)
- - [Google gets ready to tighten up its account switcher in Android apps](https://www.androidauthority.com/new-google-account-switcher-3674586/)<!-- TECH:END -->
+ - [Kevin O’Leary agrees to downsize massive Utah data center](https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center)
+ - [Google is letting social media stars customize their search result page](https://www.theverge.com/tech/943233/google-search-profiles-custom-page)
+ - [Phoebe Bridgers Ditched the Internet to Hype Up Her New Music. It’s Working](https://www.wired.com/story/phoebe-bridgers-ditched-the-internet-to-hype-up-her-new-music-its-working/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
