@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to manage your privacy on iPhone and iPad](https://appleinsider.com/inside/iphone/tips/how-to-manage-your-privacy-on-iphone-and-ipad?utm_source=rss)
- - [Liftoff Mobile raised $437M in its US IPO, selling 19M shares for $23 each, above its marketed range of $20 to $22, valuing the company at $3.83B &lpar;Natalia Kniazhevich/Bloomberg&rpar;](https://www.techmeme.com/260603/p69#a260603p69)
- - [Sam Altman and Dario Amodei are among signatories on an open letter urging improved tracking of synthetic DNA potentially used in AI-developed bioweapons &lpar;Emily Mullin/Wired&rpar;](https://www.techmeme.com/260603/p68#a260603p68)<!-- TECH:END -->
+ - [Check your spam folder: Google’s $68M Assistant settlement emails are going out now](https://www.androidauthority.com/google-assistant-settlement-claim-3674284/)
+ - [Moderators of the r/biohackers subreddit claim that peptide companies are spamming their forum in hopes of getting their posts scraped and used by AI chatbots &lpar;Jason Koebler/404 Media&rpar;](https://www.techmeme.com/260603/p71#a260603p71)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, June 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-june-4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
