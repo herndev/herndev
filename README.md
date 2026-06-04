@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What the hell is even that??](http://9gag.com/gag/aW4rrEK)
- - ⏩ [Crunchy](http://9gag.com/gag/aryQQQp)
- - 👉 [Brendan Fraser&#39;s emotional standing ovation is everything](http://9gag.com/gag/aD2Kyx7)<!-- MEMES:END -->
+ - 💣 [Oh no, they are in the water now](http://9gag.com/gag/abANN2r)
+ - ⏩ [We live in a society](http://9gag.com/gag/aW4rw0q)
+ - 👉 [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)<!-- MEMES:END -->
 
 ---
 
