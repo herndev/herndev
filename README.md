@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Crunchy](http://9gag.com/gag/aryQQQp)
- - ⏩ [Confidence is key \ud83d\udcaa\ud83c\udffb](http://9gag.com/gag/aW4rrP6)
- - 👉 [F*** This System](http://9gag.com/gag/aXPy6yD)<!-- MEMES:END -->
+ - ⏩ [F*** This System](http://9gag.com/gag/aXPy6yD)
+ - 👉 [What the hell is even that??](http://9gag.com/gag/aW4rrEK)<!-- MEMES:END -->
 
 ---
 
