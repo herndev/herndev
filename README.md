@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Lila Sciences, which uses AI tools to speed up the rate of scientific discovery, is in talks to raise a $2B Series B at an expected valuation of ~$8.5B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260603/p61#a260603p61)
- - [Apple TV&#39;s &#39;Prehistoric Planet&#39; brought extinct animals to life with custom instruments](https://appleinsider.com/articles/26/06/03/apple-tvs-prehistoric-planet-brought-extinct-animals-to-life-with-custom-instruments?utm_source=rss)
- - [Internal documents: Meta is considering tiered pricing for &quot;Hatch&quot;, its planned OpenClaw-like AI agent tool, including a $200-per-month premium subscription &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260603/p60#a260603p60)<!-- TECH:END -->
+ - [Latest Apple privacy on iPhone ad takes direct shots at Chrome](https://appleinsider.com/articles/26/06/04/latest-apple-privacy-on-iphone-ad-takes-direct-shots-at-chrome?utm_source=rss)
+ - [Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU](https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu)
+ - [Apple says users in Texas must confirm they are 18 years or older or obtain parental consent to create an Apple Account starting June 4, after a court ruling &lpar;Juli Clover/MacRumors&rpar;](https://www.techmeme.com/260603/p63#a260603p63)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
