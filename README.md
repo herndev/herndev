@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quantinuum raised $1.68B in an upsized US IPO, selling 28M shares for $60 each, above its marketed range of $53 to $55, valuing the company at $15.6B &lpar;Carmen Reinicke/Bloomberg&rpar;](https://www.techmeme.com/260603/p65#a260603p65)
- - [OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons](https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/)
- - [iPhone Fold: What We Know So Far About Apple&#39;s 2026 Foldable](https://www.cnet.com/tech/mobile/iphone-fold-what-we-know-so-far-about-apples-2026-foldable/)<!-- TECH:END -->
+ - [How to manage your privacy on iPhone and iPad](https://appleinsider.com/inside/iphone/tips/how-to-manage-your-privacy-on-iphone-and-ipad?utm_source=rss)
+ - [Liftoff Mobile raised $437M in its US IPO, selling 19M shares for $23 each, above its marketed range of $20 to $22, valuing the company at $3.83B &lpar;Natalia Kniazhevich/Bloomberg&rpar;](https://www.techmeme.com/260603/p69#a260603p69)
+ - [Sam Altman and Dario Amodei are among signatories on an open letter urging improved tracking of synthetic DNA potentially used in AI-developed bioweapons &lpar;Emily Mullin/Wired&rpar;](https://www.techmeme.com/260603/p68#a260603p68)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
