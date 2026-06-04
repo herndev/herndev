@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kevin O’Leary agrees to downsize massive Utah data center](https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center)
- - [Google is letting social media stars customize their search result page](https://www.theverge.com/tech/943233/google-search-profiles-custom-page)
- - [Phoebe Bridgers Ditched the Internet to Hype Up Her New Music. It’s Working](https://www.wired.com/story/phoebe-bridgers-ditched-the-internet-to-hype-up-her-new-music-its-working/)<!-- TECH:END -->
+ - [iPhone 18 Pro color leaks are yet again just third-party accessories](https://appleinsider.com/articles/26/06/04/these-photos-are-the-best-leak-yet-of-iphone-18-pro-colors?utm_source=rss)
+ - [In a letter to Utah Senate President, Kevin O&#39;Leary says he will cut a 40,000-acre AI data center project in Utah by roughly half, after backlash from lawmakers &lpar;John Ainger/Bloomberg&rpar;](https://www.techmeme.com/260604/p42#a260604p42)
+ - [Supabase, which provides backend tools for building AI apps, raised a $500M Series F led by GIC at a $10B pre-money valuation, up from $5B in October 2025 &lpar;CJ Haddad/CNBC&rpar;](https://www.techmeme.com/260604/p41#a260604p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
