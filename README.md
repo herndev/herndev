@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meet your match](http://9gag.com/gag/amoe4B2)
- - ⏩ [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)
+ - 💣 [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)
+ - ⏩ [Gottem](http://9gag.com/gag/aoyvQR3)
  - 👉 [The worst robbery ever.](http://9gag.com/gag/aRBbpd7)<!-- MEMES:END -->
 
 ---
