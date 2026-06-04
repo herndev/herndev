@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Fold 8 Ultra could get a useful accessory from the Galaxy Z Trifold](https://www.androidauthority.com/galaxy-z-fold-8-trifold-standing-case-filing-3674518/)
- - [Public First: just 26% of Americans support increased data center construction, the lowest share among 15 large countries, including the UK, Japan, and Canada &lpar;Financial Times&rpar;](https://www.techmeme.com/260604/p28#a260604p28)
- - [The slimmest Galaxy Z Fold 8 competitor is going global with a huge battery in tow](https://www.androidauthority.com/honor-magic-v6-global-launch-3674524/)<!-- TECH:END -->
+ - [Robinhood plans to route some 2026 soccer World Cup bets to Rothera, shifting away from Kalshi as it seeks to diversify its prediction markets providers &lpar;Emily Nicolle/Bloomberg&rpar;](https://www.techmeme.com/260604/p29#a260604p29)
+ - [Apple Card Savings returns keep shrinking as APY falls to 3.4%](https://appleinsider.com/articles/26/06/04/apple-card-savings-returns-keep-shrinking-as-apy-falls-to-34?utm_source=rss)
+ - [TSMC struggles to keep up with AI demand: &amp;#8216;We can only support so much&amp;#8217;](https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
