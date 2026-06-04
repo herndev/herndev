@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never forget to thank.](http://9gag.com/gag/aD2KeBO)
- - ⏩ [Don&#39;t think you have, mate.](http://9gag.com/gag/aD2KKgZ)
- - 👉 [Tartar sauce\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/a87RRz6)<!-- MEMES:END -->
+ - 💣 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)
+ - ⏩ [What the hell is even that??](http://9gag.com/gag/aW4rrEK)
+ - 👉 [Gottem](http://9gag.com/gag/aoyvQR3)<!-- MEMES:END -->
 
 ---
 
