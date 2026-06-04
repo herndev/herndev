@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18 Pro color leaks are yet again just third-party accessories](https://appleinsider.com/articles/26/06/04/these-photos-are-the-best-leak-yet-of-iphone-18-pro-colors?utm_source=rss)
- - [In a letter to Utah Senate President, Kevin O&#39;Leary says he will cut a 40,000-acre AI data center project in Utah by roughly half, after backlash from lawmakers &lpar;John Ainger/Bloomberg&rpar;](https://www.techmeme.com/260604/p42#a260604p42)
- - [Supabase, which provides backend tools for building AI apps, raised a $500M Series F led by GIC at a $10B pre-money valuation, up from $5B in October 2025 &lpar;CJ Haddad/CNBC&rpar;](https://www.techmeme.com/260604/p41#a260604p41)<!-- TECH:END -->
+ - [Unsealed 2020 lawsuit: ex-IBM VP of threat intelligence alleges that IBM and AT&amp;T concealed foreign cyber breaches to maintain eligibility for federal contracts &lpar;Bloomberg&rpar;](https://www.techmeme.com/260604/p45#a260604p45)
+ - [Sources: Anthropic has embedded around half a dozen forward-deployed engineers within the NSA to help the agency deploy Mythos for offensive cyber operations &lpar;Financial Times&rpar;](https://www.techmeme.com/260604/p44#a260604p44)
+ - [Heads-up: How you answer calls with your Pixel Watch is changing](https://www.androidauthority.com/pixel-watch-incoming-calls-3674642/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
