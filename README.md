@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Centralized control over the user experience not only leads to enshittification, but to &quot;despotification&quot;; decentralized protocols bring back democratic ideals &lpar;Mike Masnick/Liberalism.org&rpar;](https://www.techmeme.com/260604/p8#a260604p8)
- - [A study of Waymo robotaxi data for 13.8M trips from August 2023 to December 2025: the share of miles driven with a passenger onboard climbed from 36% to 56% &lpar;Jonathan M. Gitlin/Ars Technica&rpar;](https://www.techmeme.com/260604/p7#a260604p7)
- - [You can finally use your voice for Pixel’s ‘Take a Message’ greetings](https://www.androidauthority.com/pixel-take-message-custom-greetings-stable-3674308/)<!-- TECH:END -->
+ - [Modders are turning Ray-Ban Meta glasses into spy gear for as little as $50](https://www.androidauthority.com/ray-ban-meta-stealth-mode-mod-3674350/)
+ - [Users say Gemini starts forgetting long before it’s supposed to](https://www.androidauthority.com/gemini-start-forgetting-context-window-3674304/)
+ - [Gemini in Google Drive can now dig through your Gmail for better answers](https://www.androidauthority.com/google-drive-ask-gemini-gmail-support-3674332/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
