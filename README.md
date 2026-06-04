@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase and Better fund the first Fannie Mae-backed mortgage that uses bitcoin as collateral, with a nationwide rollout planned in the coming months &lpar;Yogita Khatri/The Block&rpar;](https://www.techmeme.com/260604/p33#a260604p33)
- - [Wave Cash App’s Magic Wand to Pay for Stuff](https://www.wired.com/story/wave-cash-apps-magic-wand-to-pay-for-stuff/)
- - [Belkin’s new Joy-Con grips also boost the Switch 2’s battery life](https://www.theverge.com/tech/942617/belkin-gaming-charging-grip-nintendo-switch-2-joy-con-controller)<!-- TECH:END -->
+ - [Arizona Public Service, the state&#39;s largest utility, proposes a 45% electricity-rate increase for data centers to ensure &quot;that they are paying their fair share&quot; &lpar;Jennifer Hiller/Wall Street Journal&rpar;](https://www.techmeme.com/260604/p38#a260604p38)
+ - [Meta Silently Added Face-Recognition Code for Its Smart Glasses to Millions of Phones](https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/)
+ - [Google gets ready to tighten up its account switcher in Android apps](https://www.androidauthority.com/new-google-account-switcher-3674586/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
