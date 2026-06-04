@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan has no chill](http://9gag.com/gag/aAy8860)
- - ⏩ [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)
- - 👉 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)<!-- MEMES:END -->
+ - 💣 [Never forget to thank.](http://9gag.com/gag/aD2KeBO)
+ - ⏩ [Don&#39;t think you have, mate.](http://9gag.com/gag/aD2KKgZ)
+ - 👉 [Tartar sauce\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/a87RRz6)<!-- MEMES:END -->
 
 ---
 
