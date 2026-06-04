@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Modders are turning Ray-Ban Meta glasses into spy gear for as little as $50](https://www.androidauthority.com/ray-ban-meta-stealth-mode-mod-3674350/)
- - [Users say Gemini starts forgetting long before it’s supposed to](https://www.androidauthority.com/gemini-start-forgetting-context-window-3674304/)
- - [Gemini in Google Drive can now dig through your Gmail for better answers](https://www.androidauthority.com/google-drive-ask-gemini-gmail-support-3674332/)<!-- TECH:END -->
+ - [A deep dive into the case for data centers in space, as SpaceX prepares to go public: Elon Musk&#39;s claims, the wider debate, power supply issues, costs, and more &lpar;Daniel Nishball/SemiAnalysis&rpar;](https://www.techmeme.com/260604/p14#a260604p14)
+ - [I just used Gemini Avatar to make an AI clone of myself. Here’s how you can too](https://www.androidauthority.com/gemini-avatar-hands-on-how-to-use-3673898/)
+ - [Alpha School’s Ritzy New York City Campus Costs $65,000 a Year—but Isn’t Actually a School](https://www.wired.com/story/alpha-schools-new-york-city-campus-isnt-actually-a-school/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
