@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18 Pro Max isn&#39;t getting any thinner as Apple focuses elsewhere](https://appleinsider.com/articles/26/06/04/iphone-18-pro-max-isnt-getting-any-thinner-as-apple-focuses-elsewhere?utm_source=rss)
- - [Revolut co-founder and CTO Vlad Yatsenko plans to step down in July, replaced by executive Donato Lucia; Yatsenko joined as Revolut&#39;s first employee &lpar;Aisha S Gani/Bloomberg&rpar;](https://www.techmeme.com/260604/p23#a260604p23)
- - [The OnePlus 16 could launch sooner than previous OnePlus flagships](https://www.androidauthority.com/oneplus-16-early-launch-3674487/)<!-- TECH:END -->
+ - [The Galaxy Z Fold 8 Ultra could get a useful accessory from the Galaxy Z Trifold](https://www.androidauthority.com/galaxy-z-fold-8-trifold-standing-case-filing-3674518/)
+ - [Public First: just 26% of Americans support increased data center construction, the lowest share among 15 large countries, including the UK, Japan, and Canada &lpar;Financial Times&rpar;](https://www.techmeme.com/260604/p28#a260604p28)
+ - [The slimmest Galaxy Z Fold 8 competitor is going global with a huge battery in tow](https://www.androidauthority.com/honor-magic-v6-global-launch-3674524/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
