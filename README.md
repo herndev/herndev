@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)
- - ⏩ [F*** This System](http://9gag.com/gag/aXPy6yD)
- - 👉 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)<!-- MEMES:END -->
+ - 💣 [He used one of them as a weapon](http://9gag.com/gag/a2v36Gp)
+ - ⏩ [Japan has no chill](http://9gag.com/gag/aAy8860)
+ - 👉 [Gottem](http://9gag.com/gag/aoyvQR3)<!-- MEMES:END -->
 
 ---
 
