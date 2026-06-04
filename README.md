@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest Apple privacy on iPhone ad takes direct shots at Chrome](https://appleinsider.com/articles/26/06/04/latest-apple-privacy-on-iphone-ad-takes-direct-shots-at-chrome?utm_source=rss)
- - [Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU](https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu)
- - [Apple says users in Texas must confirm they are 18 years or older or obtain parental consent to create an Apple Account starting June 4, after a court ruling &lpar;Juli Clover/MacRumors&rpar;](https://www.techmeme.com/260603/p63#a260603p63)<!-- TECH:END -->
+ - [Quantinuum raised $1.68B in an upsized US IPO, selling 28M shares for $60 each, above its marketed range of $53 to $55, valuing the company at $15.6B &lpar;Carmen Reinicke/Bloomberg&rpar;](https://www.techmeme.com/260603/p65#a260603p65)
+ - [OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons](https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/)
+ - [iPhone Fold: What We Know So Far About Apple&#39;s 2026 Foldable](https://www.cnet.com/tech/mobile/iphone-fold-what-we-know-so-far-about-apples-2026-foldable/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
