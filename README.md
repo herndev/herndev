@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Toyota Supra blind spots](http://9gag.com/gag/amoeeK4)
- - ⏩ [Double Standards](http://9gag.com/gag/a6Z00p9)
- - 👉 [This is what it&#39;s all about](http://9gag.com/gag/aKGQRvN)<!-- MEMES:END -->
+ - 💣 [What the hell is even that??](http://9gag.com/gag/aW4rrEK)
+ - ⏩ [Crunchy](http://9gag.com/gag/aryQQQp)
+ - 👉 [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)<!-- MEMES:END -->
 
 ---
 
