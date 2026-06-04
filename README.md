@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood plans to route some 2026 soccer World Cup bets to Rothera, shifting away from Kalshi as it seeks to diversify its prediction markets providers &lpar;Emily Nicolle/Bloomberg&rpar;](https://www.techmeme.com/260604/p29#a260604p29)
- - [Apple Card Savings returns keep shrinking as APY falls to 3.4%](https://appleinsider.com/articles/26/06/04/apple-card-savings-returns-keep-shrinking-as-apy-falls-to-34?utm_source=rss)
- - [TSMC struggles to keep up with AI demand: &amp;#8216;We can only support so much&amp;#8217;](https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles)<!-- TECH:END -->
+ - [Coinbase and Better fund the first Fannie Mae-backed mortgage that uses bitcoin as collateral, with a nationwide rollout planned in the coming months &lpar;Yogita Khatri/The Block&rpar;](https://www.techmeme.com/260604/p33#a260604p33)
+ - [Wave Cash App’s Magic Wand to Pay for Stuff](https://www.wired.com/story/wave-cash-apps-magic-wand-to-pay-for-stuff/)
+ - [Belkin’s new Joy-Con grips also boost the Switch 2’s battery life](https://www.theverge.com/tech/942617/belkin-gaming-charging-grip-nintendo-switch-2-joy-con-controller)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
