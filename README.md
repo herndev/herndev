@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uncle&#39;s job](http://9gag.com/gag/a0errEn)
- - ⏩ [Tartar sauce\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/a87RRz6)
- - 👉 [Filipino illegal miners dive deep without oxygen tanks](http://9gag.com/gag/aQzLLKe)<!-- MEMES:END -->
+ - 💣 [Crunchy](http://9gag.com/gag/aryQQQp)
+ - ⏩ [Confidence is key \ud83d\udcaa\ud83c\udffb](http://9gag.com/gag/aW4rrP6)
+ - 👉 [F*** This System](http://9gag.com/gag/aXPy6yD)<!-- MEMES:END -->
 
 ---
 
