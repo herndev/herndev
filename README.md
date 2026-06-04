@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unsealed 2020 lawsuit: ex-IBM VP of threat intelligence alleges that IBM and AT&amp;T concealed foreign cyber breaches to maintain eligibility for federal contracts &lpar;Bloomberg&rpar;](https://www.techmeme.com/260604/p45#a260604p45)
- - [Sources: Anthropic has embedded around half a dozen forward-deployed engineers within the NSA to help the agency deploy Mythos for offensive cyber operations &lpar;Financial Times&rpar;](https://www.techmeme.com/260604/p44#a260604p44)
- - [Heads-up: How you answer calls with your Pixel Watch is changing](https://www.androidauthority.com/pixel-watch-incoming-calls-3674642/)<!-- TECH:END -->
+ - [Here’s how Google Photos is solving its digital picture frame problem](https://www.androidauthority.com/google-photos-digital-picture-frame-2-3674708/)
+ - [Some clever Fitbit Air owners put a watch on their band and it doesn’t look half bad](https://www.androidauthority.com/fitbit-air-combined-with-analog-watch-3674702/)
+ - [Poke, which lets users access AI agents via text message, becomes the first AI agent approved for Apple&#39;s Messages for Business platform &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260604/p46#a260604p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
