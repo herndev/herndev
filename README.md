@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Late for work? You can finally join Google Meet calls in your car via Android Auto](https://www.androidauthority.com/google-meet-android-auto-wider-rollout-3674819/)
- - [NewPipe, other open-source apps are preparing users for Google’s sideloading crackdown on Android](https://www.androidauthority.com/android-open-source-apps-sideloading-oppose-3674808/)
- - [I Want iOS 27 To Give Us These Features That&#39;d Be Perfect for a Foldable iPhone](https://www.cnet.com/tech/mobile/i-want-ios-27-to-give-us-these-features-thatd-be-perfect-for-a-foldable-iphone/)<!-- TECH:END -->
+ - [India-based Innefu Labs, which builds AI-powered software for national defense and enterprise security infrastructure, raised a $30M Series B led by Panthera &lpar;The Economic Times&rpar;](https://www.techmeme.com/260605/p6#a260605p6)
+ - [Plex just proved it has no idea what users want](https://www.androidauthority.com/plex-social-media-pivot-not-what-users-want-3674315/)
+ - [Why Apple Might Put Cameras Into Its Next AirPods](https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
