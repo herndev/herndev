@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Robot Kicks a Child](http://9gag.com/gag/awyEwmB)
- - ⏩ [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)
- - 👉 [Movie - Burning bright](http://9gag.com/gag/aAy8oKR)<!-- MEMES:END -->
+ - 💣 [So, you saved all your items \u2018till you needed them and now the game is over.](http://9gag.com/gag/aND76Br)
+ - ⏩ [True heroes of the gaming world](http://9gag.com/gag/aByApLA)
+ - 👉 [MagiKeeper](http://9gag.com/gag/a9yxoXW)<!-- MEMES:END -->
 
 ---
 
