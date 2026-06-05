@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The &#39;3 finger test&#39; that exposes deepfake scammers instantly](http://9gag.com/gag/azxWnVN)
- - ⏩ [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)
- - 👉 [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)<!-- MEMES:END -->
+ - 💣 [Jokes are banned in the UK.](http://9gag.com/gag/ayNbgEX)
+ - ⏩ [With friends like this, who needs enemies\u2026..](http://9gag.com/gag/aoyvrze)
+ - 👉 [Female officer accidentally shoots a women when showing off her gun.](http://9gag.com/gag/an7mLAz)<!-- MEMES:END -->
 
 ---
 
