@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump signs a national security memorandum seeking to &quot;accelerate the use of AI across intelligence and warfighting domains in line with American values&quot; &lpar;Reuters&rpar;](https://www.techmeme.com/260605/p30#a260605p30)
- - [Congress still can’t decide what to do about warrantless surveillance](https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte)
- - [Wyze recalls over 320,000 security cameras due to fire and explosion hazards](https://www.androidauthority.com/wyze-security-camera-recall-3675182/)<!-- TECH:END -->
+ - [Marvell and Flex, a contract manufacturer for electronics, will join the S&amp;P 500; MRVL jumps 6%+ after hours after closing down 16.74% amid a broader sell-off &lpar;Kif Leswing/CNBC&rpar;](https://www.techmeme.com/260605/p33#a260605p33)
+ - [Google Photos gets ready to make one of its best tools you’re not using even better](https://www.androidauthority.com/google-photos-collage-categories-3675146/)
+ - [Control Resonant is a sequel — and also a starting point](https://www.theverge.com/games/944151/control-resonant-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
