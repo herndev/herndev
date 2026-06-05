@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC Chair Brendan Carr says the agency will review E-Rate, a $3B annual program subsidizing school and library internet access, amid kids&#39; screen time concerns &lpar;Finya Swai/The Hill&rpar;](https://www.techmeme.com/260605/p10#a260605p10)
- - [China&#39;s securities regulator tightened oversight of the country&#39;s ~$3.4T private fund industry, and said it would encourage tech-focused VC investments &lpar;Reuters&rpar;](https://www.techmeme.com/260605/p9#a260605p9)
- - [EveryPlate Meal Kit Review &lpar;2026&rpar;: Low Cost, Simplicity, Flavor](https://www.wired.com/review/everyplate-meal-kit-review-2026/)<!-- TECH:END -->
+ - [Sources: US officials discussed the government taking stakes in major AI companies after Sam Altman pitched the idea; Altman met Bernie Sanders on Wednesday &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260605/p12#a260605p12)
+ - [I only want one thing from WWDC 2026, and it&#39;s got nothing to do with AI](https://appleinsider.com/articles/26/06/05/i-only-want-one-thing-from-wwdc-2026-and-its-got-nothing-to-do-with-ai?utm_source=rss)
+ - [This chunky little tablet got my kid to clean up his toys](https://www.theverge.com/tech/943219/skylight-buddy-kids-calendar-chore-tracker-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
