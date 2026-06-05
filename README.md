@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s most affordable 5G home internet plan just got worse](https://www.androidauthority.com/t-mobile-5g-home-internet-speed-cap-3675049/)
- - [The NY State legislature passes a one-year moratorium on new large data centers, the first statewide ban of its kind if Governor Kathy Hochul signs it into law &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260605/p19#a260605p19)
- - [Brydge Max 13 review: Finally, a compelling Magic Keyboard alternative](https://appleinsider.com/articles/26/06/05/brydge-max-13-review-finally-a-compelling-magic-keyboard-alternative?utm_source=rss)<!-- TECH:END -->
+ - [Valve quietly announces Steam Machine release window](https://www.androidauthority.com/valve-steam-machine-release-window-3675116/)
+ - [Sources say xAI used Claude models for distillation and training, including using personal accounts and the intermediary service Blackbox AI after being cut off &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260605/p22#a260605p22)
+ - [Samsung’s next Galaxy Watches just cleared a major hurdle — but there’s a catch](https://www.androidauthority.com/galaxy-watch-9-watch-ultra-2-regulatory-listings-3675126/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
