@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta is exploring a stock offering to raise tens of billions of dollars to fund AI capital expenditures, following Google&#39;s record $85B share deal &lpar;Financial Times&rpar;](https://www.techmeme.com/260605/p23#a260605p23)
- - [GroWell Cap Review: I Have Hair for the First Time in 15 Years](https://www.wired.com/story/growell-cap-rave/)
- - [The US Has a Plan to Combat Screwworm. It Involves a Lot More Flies](https://www.wired.com/story/us-plans-to-stop-screwworm-texas-outbreak/)<!-- TECH:END -->
+ - [Google denies plans to make AI Mode Chrome’s default for search](https://www.androidauthority.com/google-denies-ai-mode-chrome-3675152/)
+ - [Filing: Google has agreed to pay SpaceX $920M a month for access to Nvidia chips as part of a cloud-services deal that runs through mid-2029 &lpar;Lynn Doan/Bloomberg&rpar;](https://www.techmeme.com/260605/p26#a260605p26)
+ - [Gone in 60 minutes](https://www.theverge.com/entertainment/944337/gone-in-60-minutes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
