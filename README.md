@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve quietly announces Steam Machine release window](https://www.androidauthority.com/valve-steam-machine-release-window-3675116/)
- - [Sources say xAI used Claude models for distillation and training, including using personal accounts and the intermediary service Blackbox AI after being cut off &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260605/p22#a260605p22)
- - [Samsung’s next Galaxy Watches just cleared a major hurdle — but there’s a catch](https://www.androidauthority.com/galaxy-watch-9-watch-ultra-2-regulatory-listings-3675126/)<!-- TECH:END -->
+ - [Sources: Meta is exploring a stock offering to raise tens of billions of dollars to fund AI capital expenditures, following Google&#39;s record $85B share deal &lpar;Financial Times&rpar;](https://www.techmeme.com/260605/p23#a260605p23)
+ - [GroWell Cap Review: I Have Hair for the First Time in 15 Years](https://www.wired.com/story/growell-cap-rave/)
+ - [The US Has a Plan to Combat Screwworm. It Involves a Lot More Flies](https://www.wired.com/story/us-plans-to-stop-screwworm-texas-outbreak/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
