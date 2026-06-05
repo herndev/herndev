@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sikh and tired](http://9gag.com/gag/a4PXDby)
- - ⏩ [Air travel experience in USA](http://9gag.com/gag/aqyPqZ7)
- - 👉 [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)<!-- MEMES:END -->
+ - 💣 [The &#39;3 finger test&#39; that exposes deepfake scammers instantly](http://9gag.com/gag/azxWnVN)
+ - ⏩ [Are you for equality?](http://9gag.com/gag/aE09LD9)
+ - 👉 [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)<!-- MEMES:END -->
 
 ---
 
