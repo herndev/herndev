@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Meta discreetly added code for an unreleased &quot;NameTag&quot; face-recognition system for its AI glasses over multiple updates to the Meta AI app this year &lpar;Wired&rpar;](https://www.techmeme.com/260604/p56#a260604p56)
- - [S&amp;P Dow Jones rejected proposals to expedite S&amp;P 500 eligibility for mega-cap IPOs such as SpaceX, which remains ineligible until one year after going public &lpar;Isabelle Lee/Bloomberg&rpar;](https://www.techmeme.com/260604/p55#a260604p55)
- - [An interview with Naomi Gleit, Meta&#39;s head of product who joined the company 20 years ago, on Zuckerberg&#39;s &quot;unfair&quot; reputation, AI agents&#39; capabilities, more &lpar;Zoe Kleinman/BBC&rpar;](https://www.techmeme.com/260604/p54#a260604p54)<!-- TECH:END -->
+ - [A new breed of power banks is here, and they’re built around safer battery chemistry](https://www.androidauthority.com/bmx-semi-solid-state-battery-power-banks-3674759/)
+ - [Elon Musk petitioned the FTC in May to end its 2022 order restricting Twitter&#39;s data use, claiming Twitter no longer exists as X merged with xAI and then SpaceX &lpar;Ashley Belanger/Ars Technica&rpar;](https://www.techmeme.com/260604/p57#a260604p57)
+ - [Analysis: Meta discreetly added code for an unreleased &quot;NameTag&quot; face-recognition system for its AI glasses over multiple updates to the Meta AI app this year &lpar;Wired&rpar;](https://www.techmeme.com/260604/p56#a260604p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
