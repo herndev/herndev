@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)
- - ⏩ [The &#39;3 finger test&#39; that exposes deepfake scammers instantly](http://9gag.com/gag/azxWnVN)
- - 👉 [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)<!-- MEMES:END -->
+ - 💣 [That chair has some serious power](http://9gag.com/gag/aPAEKOK)
+ - ⏩ [Hold up](http://9gag.com/gag/a4PXve6)
+ - 👉 [Birb flip](http://9gag.com/gag/amoej09)<!-- MEMES:END -->
 
 ---
 
