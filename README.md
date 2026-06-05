@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Huggy bear](http://9gag.com/gag/ayNbGNr)
- - ⏩ [Can some russian explain why?](http://9gag.com/gag/aW4rrLA)
- - 👉 [Air travel experience in USA](http://9gag.com/gag/aqyPqZ7)<!-- MEMES:END -->
+ - 💣 [Life in a nutshell](http://9gag.com/gag/agmDPEn)
+ - ⏩ [Biker Gets Pushed Into Oncoming Traffic](http://9gag.com/gag/aD2KE1K)
+ - 👉 [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)<!-- MEMES:END -->
 
 ---
 
