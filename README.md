@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life in a nutshell](http://9gag.com/gag/agmDPEn)
- - ⏩ [Biker Gets Pushed Into Oncoming Traffic](http://9gag.com/gag/aD2KE1K)
- - 👉 [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)<!-- MEMES:END -->
+ - 💣 [Be like Japan](http://9gag.com/gag/azxW0jj)
+ - ⏩ [Life in a nutshell](http://9gag.com/gag/agmDPEn)
+ - 👉 [Biker Gets Pushed Into Oncoming Traffic](http://9gag.com/gag/aD2KE1K)<!-- MEMES:END -->
 
 ---
 
