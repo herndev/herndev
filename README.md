@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new breed of power banks is here, and they’re built around safer battery chemistry](https://www.androidauthority.com/bmx-semi-solid-state-battery-power-banks-3674759/)
- - [Elon Musk petitioned the FTC in May to end its 2022 order restricting Twitter&#39;s data use, claiming Twitter no longer exists as X merged with xAI and then SpaceX &lpar;Ashley Belanger/Ars Technica&rpar;](https://www.techmeme.com/260604/p57#a260604p57)
- - [Analysis: Meta discreetly added code for an unreleased &quot;NameTag&quot; face-recognition system for its AI glasses over multiple updates to the Meta AI app this year &lpar;Wired&rpar;](https://www.techmeme.com/260604/p56#a260604p56)<!-- TECH:END -->
+ - [Starlink says that it has 12M+ &quot;active customers&quot; across 160+ countries, territories, and other markets, up from 9M in December 2025 &lpar;@starlink&rpar;](https://www.techmeme.com/260605/p2#a260605p2)
+ - [ChatGPT is getting better at remembering everything about you](https://www.androidauthority.com/chatgpt-dreaming-memory-architecture-improved-3674780/)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, June 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-5/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
