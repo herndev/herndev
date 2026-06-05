@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mova LiDAX Ultra Lawn Mower review: Mostly hands-off lawn care](https://appleinsider.com/articles/26/06/05/mova-lidax-ultra-lawn-mower-review-mostly-hands-off-lawn-care?utm_source=rss)
- - [Anthropic calls for top AI labs to weigh slowing or temporarily pausing development, suggesting that self-improving AI systems may soon pose societal risks &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260604/p51#a260604p51)
- - [Sources: US officials have held talks with AI companies about the government acquiring shares; Sam Altman first pitched the concept directly to Trump in 2025 &lpar;NOTUS&rpar;](https://www.techmeme.com/260604/p50#a260604p50)<!-- TECH:END -->
+ - [An interview with Naomi Gleit, Meta&#39;s head of product who joined the company 20 years ago, on Zuckerberg&#39;s &quot;unfair&quot; reputation, AI agents&#39; capabilities, more &lpar;Zoe Kleinman/BBC&rpar;](https://www.techmeme.com/260604/p54#a260604p54)
+ - [Denver-based Scotch, which makes AI-powered payments tools for liquor retailers, raised a $20M Series A from VMG Partners, following a $10M seed in 2024 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260604/p53#a260604p53)
+ - [Cloudflare CEO Matthew Prince says agentic traffic is &quot;growing so fast that bots have now passed human traffic online for the first time&quot; &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260604/p52#a260604p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
