@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an internal message, Satya Nadella rebuked an internal memo that said Microsoft needs to &quot;make people addicted&quot; to its new AI agent product called Scout &lpar;Aaron Holmes/The Information&rpar;](https://www.techmeme.com/260605/p16#a260605p16)
- - [Google could make AI Mode the default way to search in Chrome](https://www.androidauthority.com/chrome-canary-ai-mode-flag-3675013/)
- - [Allen Control Systems, which makes AI-powered gun turrets for shooting down drones, raised a $200M Series B led by Smash Capital at a $2.2B post-money valuation &lpar;Dan Primack/Axios&rpar;](https://www.techmeme.com/260605/p15#a260605p15)<!-- TECH:END -->
+ - [T-Mobile’s most affordable 5G home internet plan just got worse](https://www.androidauthority.com/t-mobile-5g-home-internet-speed-cap-3675049/)
+ - [The NY State legislature passes a one-year moratorium on new large data centers, the first statewide ban of its kind if Governor Kathy Hochul signs it into law &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260605/p19#a260605p19)
+ - [Brydge Max 13 review: Finally, a compelling Magic Keyboard alternative](https://appleinsider.com/articles/26/06/05/brydge-max-13-review-finally-a-compelling-magic-keyboard-alternative?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
