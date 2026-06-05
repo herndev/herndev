@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest Gemma 4 models use a training trick to slash their on-device memory footprint](https://www.androidauthority.com/gemma-4-qat-models-3675172/)
- - [Trump Phone at -88 net favorability among Android Authority readers, poll finds](https://www.androidauthority.com/trump-phone-poll-results-3675149/)
- - [US-traded chipmakers plunged on Friday, after Broadcom missed expectations; Nvidia fell 6.19%, Micron fell 13.25%, AMD fell 10.86%, and Broadcom 7.92% &lpar;Noel Randewich/Reuters&rpar;](https://www.techmeme.com/260605/p29#a260605p29)<!-- TECH:END -->
+ - [Trump signs a national security memorandum seeking to &quot;accelerate the use of AI across intelligence and warfighting domains in line with American values&quot; &lpar;Reuters&rpar;](https://www.techmeme.com/260605/p30#a260605p30)
+ - [Congress still can’t decide what to do about warrantless surveillance](https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte)
+ - [Wyze recalls over 320,000 security cameras due to fire and explosion hazards](https://www.androidauthority.com/wyze-security-camera-recall-3675182/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
