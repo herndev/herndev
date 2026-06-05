@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US officials discussed the government taking stakes in major AI companies after Sam Altman pitched the idea; Altman met Bernie Sanders on Wednesday &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260605/p12#a260605p12)
- - [I only want one thing from WWDC 2026, and it&#39;s got nothing to do with AI](https://appleinsider.com/articles/26/06/05/i-only-want-one-thing-from-wwdc-2026-and-its-got-nothing-to-do-with-ai?utm_source=rss)
- - [This chunky little tablet got my kid to clean up his toys](https://www.theverge.com/tech/943219/skylight-buddy-kids-calendar-chore-tracker-review)<!-- TECH:END -->
+ - [In an internal message, Satya Nadella rebuked an internal memo that said Microsoft needs to &quot;make people addicted&quot; to its new AI agent product called Scout &lpar;Aaron Holmes/The Information&rpar;](https://www.techmeme.com/260605/p16#a260605p16)
+ - [Google could make AI Mode the default way to search in Chrome](https://www.androidauthority.com/chrome-canary-ai-mode-flag-3675013/)
+ - [Allen Control Systems, which makes AI-powered gun turrets for shooting down drones, raised a $200M Series B led by Smash Capital at a $2.2B post-money valuation &lpar;Dan Primack/Axios&rpar;](https://www.techmeme.com/260605/p15#a260605p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
