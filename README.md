@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s focus, commitment, sheer will... something you know very little about](http://9gag.com/gag/aO8MMn3)
- - ⏩ [Life in a nutshell](http://9gag.com/gag/agmDPEn)
- - 👉 [Air travel experience in USA](http://9gag.com/gag/aqyPqZ7)<!-- MEMES:END -->
+ - 💣 [Confidence is key \ud83d\udcaa\ud83c\udffb](http://9gag.com/gag/aW4rrP6)
+ - ⏩ [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)
+ - 👉 [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)<!-- MEMES:END -->
 
 ---
 
