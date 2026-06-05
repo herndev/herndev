@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be like Japan](http://9gag.com/gag/azxW0jj)
+ - 💣 [She&#39;s focus, commitment, sheer will... something you know very little about](http://9gag.com/gag/aO8MMn3)
  - ⏩ [Life in a nutshell](http://9gag.com/gag/agmDPEn)
- - 👉 [Biker Gets Pushed Into Oncoming Traffic](http://9gag.com/gag/aD2KE1K)<!-- MEMES:END -->
+ - 👉 [Air travel experience in USA](http://9gag.com/gag/aqyPqZ7)<!-- MEMES:END -->
 
 ---
 
