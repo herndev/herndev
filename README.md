@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google denies plans to make AI Mode Chrome’s default for search](https://www.androidauthority.com/google-denies-ai-mode-chrome-3675152/)
- - [Filing: Google has agreed to pay SpaceX $920M a month for access to Nvidia chips as part of a cloud-services deal that runs through mid-2029 &lpar;Lynn Doan/Bloomberg&rpar;](https://www.techmeme.com/260605/p26#a260605p26)
- - [Gone in 60 minutes](https://www.theverge.com/entertainment/944337/gone-in-60-minutes)<!-- TECH:END -->
+ - [The latest Gemma 4 models use a training trick to slash their on-device memory footprint](https://www.androidauthority.com/gemma-4-qat-models-3675172/)
+ - [Trump Phone at -88 net favorability among Android Authority readers, poll finds](https://www.androidauthority.com/trump-phone-poll-results-3675149/)
+ - [US-traded chipmakers plunged on Friday, after Broadcom missed expectations; Nvidia fell 6.19%, Micron fell 13.25%, AMD fell 10.86%, and Broadcom 7.92% &lpar;Noel Randewich/Reuters&rpar;](https://www.techmeme.com/260605/p29#a260605p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
