@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Confidence is key \ud83d\udcaa\ud83c\udffb](http://9gag.com/gag/aW4rrP6)
- - ⏩ [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)
+ - 💣 [Sikh and tired](http://9gag.com/gag/a4PXDby)
+ - ⏩ [Air travel experience in USA](http://9gag.com/gag/aqyPqZ7)
  - 👉 [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)<!-- MEMES:END -->
 
 ---
