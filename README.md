@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We live in a society](http://9gag.com/gag/aW4rw0q)
+ - 💣 [`Nuke it from orbit. It&#39;s the only way to be sure.` - Ellen Ripley](http://9gag.com/gag/aND7NbA)
  - ⏩ [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)
- - 👉 [The &#39;3 finger test&#39; that exposes deepfake scammers instantly](http://9gag.com/gag/azxWnVN)<!-- MEMES:END -->
+ - 👉 [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)<!-- MEMES:END -->
 
 ---
 
