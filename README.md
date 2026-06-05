@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink says that it has 12M+ &quot;active customers&quot; across 160+ countries, territories, and other markets, up from 9M in December 2025 &lpar;@starlink&rpar;](https://www.techmeme.com/260605/p2#a260605p2)
- - [ChatGPT is getting better at remembering everything about you](https://www.androidauthority.com/chatgpt-dreaming-memory-architecture-improved-3674780/)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, June 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-5/)<!-- TECH:END -->
+ - [Late for work? You can finally join Google Meet calls in your car via Android Auto](https://www.androidauthority.com/google-meet-android-auto-wider-rollout-3674819/)
+ - [NewPipe, other open-source apps are preparing users for Google’s sideloading crackdown on Android](https://www.androidauthority.com/android-open-source-apps-sideloading-oppose-3674808/)
+ - [I Want iOS 27 To Give Us These Features That&#39;d Be Perfect for a Foldable iPhone](https://www.cnet.com/tech/mobile/i-want-ios-27-to-give-us-these-features-thatd-be-perfect-for-a-foldable-iphone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
