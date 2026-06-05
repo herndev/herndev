@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India-based Innefu Labs, which builds AI-powered software for national defense and enterprise security infrastructure, raised a $30M Series B led by Panthera &lpar;The Economic Times&rpar;](https://www.techmeme.com/260605/p6#a260605p6)
- - [Plex just proved it has no idea what users want](https://www.androidauthority.com/plex-social-media-pivot-not-what-users-want-3674315/)
- - [Why Apple Might Put Cameras Into Its Next AirPods](https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/)<!-- TECH:END -->
+ - [FCC Chair Brendan Carr says the agency will review E-Rate, a $3B annual program subsidizing school and library internet access, amid kids&#39; screen time concerns &lpar;Finya Swai/The Hill&rpar;](https://www.techmeme.com/260605/p10#a260605p10)
+ - [China&#39;s securities regulator tightened oversight of the country&#39;s ~$3.4T private fund industry, and said it would encourage tech-focused VC investments &lpar;Reuters&rpar;](https://www.techmeme.com/260605/p9#a260605p9)
+ - [EveryPlate Meal Kit Review &lpar;2026&rpar;: Low Cost, Simplicity, Flavor](https://www.wired.com/review/everyplate-meal-kit-review-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
