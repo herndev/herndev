@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvell and Flex, a contract manufacturer for electronics, will join the S&amp;P 500; MRVL jumps 6%+ after hours after closing down 16.74% amid a broader sell-off &lpar;Kif Leswing/CNBC&rpar;](https://www.techmeme.com/260605/p33#a260605p33)
- - [Google Photos gets ready to make one of its best tools you’re not using even better](https://www.androidauthority.com/google-photos-collage-categories-3675146/)
- - [Control Resonant is a sequel — and also a starting point](https://www.theverge.com/games/944151/control-resonant-hands-on)<!-- TECH:END -->
+ - [Grand Theft Auto VI is warping the video game release calendar](https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest)
+ - [Best Running Shoes, Tested and Reviewed &lpar;2026&rpar;: Saucony, Adidas, Hoka](https://www.wired.com/gallery/best-running-shoes/)
+ - [Final Fantasy VII&amp;#8217;s remake trilogy will conclude with Revelation](https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
