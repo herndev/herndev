@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The &#39;3 finger test&#39; that exposes deepfake scammers instantly](http://9gag.com/gag/azxWnVN)
- - ⏩ [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)
- - 👉 [`Nuke it from orbit. It&#39;s the only way to be sure.` - Ellen Ripley](http://9gag.com/gag/aND7NbA)<!-- MEMES:END -->
+ - 💣 [Robot Kicks a Child](http://9gag.com/gag/awyEwmB)
+ - ⏩ [Sikh and tired](http://9gag.com/gag/a4PXDby)
+ - 👉 [The &#39;3 finger test&#39; that exposes deepfake scammers instantly](http://9gag.com/gag/azxWnVN)<!-- MEMES:END -->
 
 ---
 
