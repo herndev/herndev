@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Naomi Gleit, Meta&#39;s head of product who joined the company 20 years ago, on Zuckerberg&#39;s &quot;unfair&quot; reputation, AI agents&#39; capabilities, more &lpar;Zoe Kleinman/BBC&rpar;](https://www.techmeme.com/260604/p54#a260604p54)
- - [Denver-based Scotch, which makes AI-powered payments tools for liquor retailers, raised a $20M Series A from VMG Partners, following a $10M seed in 2024 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260604/p53#a260604p53)
- - [Cloudflare CEO Matthew Prince says agentic traffic is &quot;growing so fast that bots have now passed human traffic online for the first time&quot; &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260604/p52#a260604p52)<!-- TECH:END -->
+ - [Analysis: Meta discreetly added code for an unreleased &quot;NameTag&quot; face-recognition system for its AI glasses over multiple updates to the Meta AI app this year &lpar;Wired&rpar;](https://www.techmeme.com/260604/p56#a260604p56)
+ - [S&amp;P Dow Jones rejected proposals to expedite S&amp;P 500 eligibility for mega-cap IPOs such as SpaceX, which remains ineligible until one year after going public &lpar;Isabelle Lee/Bloomberg&rpar;](https://www.techmeme.com/260604/p55#a260604p55)
+ - [An interview with Naomi Gleit, Meta&#39;s head of product who joined the company 20 years ago, on Zuckerberg&#39;s &quot;unfair&quot; reputation, AI agents&#39; capabilities, more &lpar;Zoe Kleinman/BBC&rpar;](https://www.techmeme.com/260604/p54#a260604p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
