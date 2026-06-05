@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brendan Fraser&#39;s emotional standing ovation is everything](http://9gag.com/gag/aD2Kyx7)
- - ⏩ [MagiKeeper](http://9gag.com/gag/a9yxoXW)
- - 👉 [Baaased haha, we need more of this.](http://9gag.com/gag/awyE65x)<!-- MEMES:END -->
+ - 💣 [We live in a society](http://9gag.com/gag/aW4rw0q)
+ - ⏩ [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)
+ - 👉 [The &#39;3 finger test&#39; that exposes deepfake scammers instantly](http://9gag.com/gag/azxWnVN)<!-- MEMES:END -->
 
 ---
 
