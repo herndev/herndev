@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [The &#39;3 finger test&#39; that exposes deepfake scammers instantly](http://9gag.com/gag/azxWnVN)
- - ⏩ [Are you for equality?](http://9gag.com/gag/aE09LD9)
+ - ⏩ [The kids are gonna be alright. No kids on 9 gag I know I know](http://9gag.com/gag/aRBbngQ)
  - 👉 [Sometimes we need better laws](http://9gag.com/gag/aAy8j2p)<!-- MEMES:END -->
 
 ---
