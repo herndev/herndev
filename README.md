@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So, you saved all your items \u2018till you needed them and now the game is over.](http://9gag.com/gag/aND76Br)
- - ⏩ [True heroes of the gaming world](http://9gag.com/gag/aByApLA)
- - 👉 [MagiKeeper](http://9gag.com/gag/a9yxoXW)<!-- MEMES:END -->
+ - 💣 [Huggy bear](http://9gag.com/gag/ayNbGNr)
+ - ⏩ [Can some russian explain why?](http://9gag.com/gag/aW4rrLA)
+ - 👉 [Air travel experience in USA](http://9gag.com/gag/aqyPqZ7)<!-- MEMES:END -->
 
 ---
 
