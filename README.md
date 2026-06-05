@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Robot Kicks a Child](http://9gag.com/gag/awyEwmB)
- - ⏩ [Sikh and tired](http://9gag.com/gag/a4PXDby)
- - 👉 [The &#39;3 finger test&#39; that exposes deepfake scammers instantly](http://9gag.com/gag/azxWnVN)<!-- MEMES:END -->
+ - ⏩ [The second the divorce papers clear](http://9gag.com/gag/aW4rrO3)
+ - 👉 [Movie - Burning bright](http://9gag.com/gag/aAy8oKR)<!-- MEMES:END -->
 
 ---
 
