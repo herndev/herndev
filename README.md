@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Spotify has approached concert promoters about licensing music festival livestreams, as it pivots to video to become a one-stop shop for music fans &lpar;Lucas Shaw/Bloomberg&rpar;](https://www.techmeme.com/260607/p16#a260607p16)
- - [Sources: Beijing-based Moonshot, which makes the Kimi chatbot, is in talks to raise $1B+ that would value it at $30B, up from a $20B valuation in a recent round &lpar;Bloomberg&rpar;](https://www.techmeme.com/260607/p15#a260607p15)
- - [Microsoft says it will tighten human rights controls when working with national security agencies after an inquiry found Israel&#39;s Unit 8200 violated its ToS &lpar;The Guardian&rpar;](https://www.techmeme.com/260607/p14#a260607p14)<!-- TECH:END -->
+ - [All the Ways Europe Is Ditching American Technology](https://www.wired.com/story/all-the-ways-europe-is-ditching-american-technology/)
+ - [London-based PhysicsX, which uses AI to design industrial parts like jet engines and semiconductors, raised a $300M Series C led by Temasek at a $2.4B valuation &lpar;Mark Bergen/Bloomberg&rpar;](https://www.techmeme.com/260608/p3#a260608p3)
+ - [Nvidia and LG expand their partnership in AI, robotics, and mobility tech, including building an AI Factory and co-designing future data center architectures &lpar;Choi Eun-Kyung/The Chosun Daily&rpar;](https://www.techmeme.com/260608/p2#a260608p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
