@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That chair has some serious power](http://9gag.com/gag/aPAEKOK)
- - ⏩ [Hold up](http://9gag.com/gag/a4PXve6)
- - 👉 [Birb flip](http://9gag.com/gag/amoej09)<!-- MEMES:END -->
+ - 💣 [Egyptian Sandwich Seller Tries to Charge Customer $8,250 Instead of $8.25 in New York](http://9gag.com/gag/an76e5V)
+ - ⏩ [Guys what happend to \u201cthose accounts\u201d?](http://9gag.com/gag/amoej46)
+ - 👉 [7hours](http://9gag.com/gag/a4PXMOm)<!-- MEMES:END -->
 
 ---
 
