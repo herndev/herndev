@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Female opinion](http://9gag.com/gag/ajPpQ7Q)
- - ⏩ [What a VIEW](http://9gag.com/gag/a9yojrm)
- - 👉 [Egyptian Sandwich Seller Tries to Charge Customer $8,250 Instead of $8.25 in New York](http://9gag.com/gag/an76e5V)<!-- MEMES:END -->
+ - 💣 [Pro Potter](http://9gag.com/gag/aW4zBP2)
+ - ⏩ [He&#39;s still brutally honest.](http://9gag.com/gag/aVvAz7P)
+ - 👉 [Another King](http://9gag.com/gag/aoyXEY0)<!-- MEMES:END -->
 
 ---
 
