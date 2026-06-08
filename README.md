@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says its most powerful on-device AI model requires an iPhone 17 Pro, iPhone Air, iPad with M4 and later, or Mac with M3 and later, all with 12GB+ of RAM &lpar;Ryan Christoffel/9to5Mac&rpar;](https://www.techmeme.com/260608/p43#a260608p43)
- - [Siri AI &amp; new Apple Intelligence not coming to EU right away thanks to DMA](https://appleinsider.com/articles/26/06/08/siri-ai-new-apple-intelligence-not-coming-to-eu-right-away-thanks-to-dma?utm_source=rss)
- - [macOS 27 compatibility list focuses entirely on Apple Silicon](https://appleinsider.com/articles/26/06/08/macos-27-compatibility-list-focuses-entirely-on-apple-silicon?utm_source=rss)<!-- TECH:END -->
+ - [tvOS 27 sneaks out with redesigned Podcasts app &amp; AI subtitle generation](https://appleinsider.com/articles/26/06/08/tvos-27-sneaks-out-with-redesigned-podcasts-app-ai-subtitle-generation?utm_source=rss)
+ - [Apple announces watchOS 27, now with Siri AI](https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026)
+ - [Google Photos needs an answer to Apple Photos’ new reframing tool](https://www.androidauthority.com/apple-photos-spatial-reframing-3675636/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
