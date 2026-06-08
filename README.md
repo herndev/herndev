@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Egyptian Sandwich Seller Tries to Charge Customer $8,250 Instead of $8.25 in New York](http://9gag.com/gag/an76e5V)
- - ⏩ [Guys what happend to \u201cthose accounts\u201d?](http://9gag.com/gag/amoej46)
- - 👉 [7hours](http://9gag.com/gag/a4PXMOm)<!-- MEMES:END -->
+ - 💣 [Pro Potter](http://9gag.com/gag/aW4zBP2)
+ - ⏩ [Each flip adds a grey hair in their head](http://9gag.com/gag/ae9LKmO)
+ - 👉 [Its sunday morning were I&#39;m at. There hasn&#39;t been many reasons to laugh lately, so here is an oldie to start your day.](http://9gag.com/gag/a87ZdGd)<!-- MEMES:END -->
 
 ---
 
