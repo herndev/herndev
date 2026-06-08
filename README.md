@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stupidity In Motion.\ud83d\ude0e](http://9gag.com/gag/an76eyB)
+ - 💣 [Speedster](http://9gag.com/gag/aBypRwN)
  - ⏩ [I hope she wins.](http://9gag.com/gag/a1m9pLb)
- - 👉 [She got rejected twice by three people](http://9gag.com/gag/adBE0xj)<!-- MEMES:END -->
+ - 👉 [AI makes copies from copies](http://9gag.com/gag/aqy04yv)<!-- MEMES:END -->
 
 ---
 
