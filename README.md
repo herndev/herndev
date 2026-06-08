@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spatial computing &amp; Apple Intelligence upgrades collide in visionOS 27](https://appleinsider.com/articles/26/06/08/spatial-computing-apple-intelligence-upgrades-collide-in-visionos-27?utm_source=rss)
- - [Apple is redesigning Screen Time and overhauling child controls](https://www.theverge.com/tech/945898/apple-parental-controls-child-accounts-wwdc2026)
- - [Apple announces Siri AI, with on-screen awareness, personal context understanding, a Dynamic Island-based interface, and more, along with a new Siri app &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260608/p35#a260608p35)<!-- TECH:END -->
+ - [Apple says its most powerful on-device AI model requires an iPhone 17 Pro, iPhone Air, iPad with M4 and later, or Mac with M3 and later, all with 12GB+ of RAM &lpar;Ryan Christoffel/9to5Mac&rpar;](https://www.techmeme.com/260608/p43#a260608p43)
+ - [Siri AI &amp; new Apple Intelligence not coming to EU right away thanks to DMA](https://appleinsider.com/articles/26/06/08/siri-ai-new-apple-intelligence-not-coming-to-eu-right-away-thanks-to-dma?utm_source=rss)
+ - [macOS 27 compatibility list focuses entirely on Apple Silicon](https://appleinsider.com/articles/26/06/08/macos-27-compatibility-list-focuses-entirely-on-apple-silicon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
