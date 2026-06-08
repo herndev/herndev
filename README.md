@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [tvOS 27 sneaks out with redesigned Podcasts app &amp; AI subtitle generation](https://appleinsider.com/articles/26/06/08/tvos-27-sneaks-out-with-redesigned-podcasts-app-ai-subtitle-generation?utm_source=rss)
- - [Apple announces watchOS 27, now with Siri AI](https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026)
- - [Google Photos needs an answer to Apple Photos’ new reframing tool](https://www.androidauthority.com/apple-photos-spatial-reframing-3675636/)<!-- TECH:END -->
+ - [Google upgrades NotebookLM, which now runs on Gemini 3.5 and Antigravity, to deliver new agentic capabilities and more advanced reasoning for AI Ultra users &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260608/p52#a260608p52)
+ - [44 things coming to your Apple devices that you might have missed](https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed)
+ - [Apple’s new Siri camera trick is giving strong Google Lens vibes](https://www.androidauthority.com/apple-siri-mode-in-camera-3675658/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
