@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Once again](http://9gag.com/gag/aXPy8pb)
- - ⏩ [7hours](http://9gag.com/gag/a4PXMOm)
- - 👉 [Egyptian Sandwich Seller Tries to Charge Customer $8,250 Instead of $8.25 in New York](http://9gag.com/gag/an76e5V)<!-- MEMES:END -->
+ - 💣 [Getting a date....by a royal decree](http://9gag.com/gag/awyEq64)
+ - ⏩ [What a VIEW](http://9gag.com/gag/a9yojrm)
+ - 👉 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)<!-- MEMES:END -->
 
 ---
 
