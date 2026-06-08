@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft has shut down 70+ of its own repositories on GitHub after hackers pushed malware that would steal credentials from users of AI coding agents &lpar;Joseph Cox/404 Media&rpar;](https://www.techmeme.com/260608/p20#a260608p20)
- - [Sources: Russia paused parts of a surveillance system protecting Putin after Israel used AI on footage from Iran&#39;s traffic cameras to locate Ayatollah Khamenei &lpar;Financial Times&rpar;](https://www.techmeme.com/260608/p19#a260608p19)
- - [Google just made NotebookLM a lot more useful with its biggest upgrade yet](https://www.androidauthority.com/google-notebooklm-major-upgrade-3675369/)<!-- TECH:END -->
+ - [Spatial computing &amp; Apple Intelligence upgrades collide in visionOS 27](https://appleinsider.com/articles/26/06/08/spatial-computing-apple-intelligence-upgrades-collide-in-visionos-27?utm_source=rss)
+ - [Apple is redesigning Screen Time and overhauling child controls](https://www.theverge.com/tech/945898/apple-parental-controls-child-accounts-wwdc2026)
+ - [Apple announces Siri AI, with on-screen awareness, personal context understanding, a Dynamic Island-based interface, and more, along with a new Siri app &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260608/p35#a260608p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
