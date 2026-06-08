@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Basics of Gate Construction](http://9gag.com/gag/aNDNrVr)
- - ⏩ [He&#39;s still brutally honest.](http://9gag.com/gag/aVvAz7P)
- - 👉 [Another King](http://9gag.com/gag/aoyXEY0)<!-- MEMES:END -->
+ - 💣 [Stupidity In Motion.\ud83d\ude0e](http://9gag.com/gag/an76eyB)
+ - ⏩ [I hope she wins.](http://9gag.com/gag/a1m9pLb)
+ - 👉 [She got rejected twice by three people](http://9gag.com/gag/adBE0xj)<!-- MEMES:END -->
 
 ---
 
