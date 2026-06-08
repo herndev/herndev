@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Female opinion](http://9gag.com/gag/ajPpQ7Q)
- - ⏩ [Funniest thing I have seen in a long while . Bl**dy cyclists](http://9gag.com/gag/avyN2bX)
- - 👉 [What a VIEW](http://9gag.com/gag/a9yojrm)<!-- MEMES:END -->
+ - 💣 [Quiz](http://9gag.com/gag/adBEyjM)
+ - ⏩ [Female opinion](http://9gag.com/gag/ajPpQ7Q)
+ - 👉 [Funniest thing I have seen in a long while . Bl**dy cyclists](http://9gag.com/gag/avyN2bX)<!-- MEMES:END -->
 
 ---
 
