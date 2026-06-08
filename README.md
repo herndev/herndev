@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polymarket and Kalshi Say Influencer Partners Can&#39;t Deny Election Results, Actually](https://www.wired.com/story/kalshi-polymarket-influencer-election-denial-spencer-pratt/)
- - [Google’s most affordable AI plan just got much more tempting](https://www.androidauthority.com/google-ai-plus-price-3675680/)
- - [OpenAI confidentially files for an IPO with the SEC and says it has &quot;not decided on timing yet&quot; &lpar;Ashley Capoot/CNBC&rpar;](https://www.techmeme.com/260608/p54#a260608p54)<!-- TECH:END -->
+ - [Apple is using AI to fix Safari’s extension problem](https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions)
+ - [Apple&#39;s new foundation models don&#39;t contain a drop of Gemini, as we said they wouldn&#39;t](https://appleinsider.com/articles/26/06/08/apples-new-foundation-models-dont-contain-a-drop-of-gemini-as-we-said-they-wouldnt?utm_source=rss)
+ - [Where was tvOS 27 at WWDC?](https://www.theverge.com/tech/946329/tvos-27-absent-wwdc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
