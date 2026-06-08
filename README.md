@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Getting a date....by a royal decree](http://9gag.com/gag/awyEq64)
- - ⏩ [Funniest thing I have seen in a long while . Bl**dy cyclists](http://9gag.com/gag/avyN2bX)
- - 👉 [Speedster](http://9gag.com/gag/aBypRwN)<!-- MEMES:END -->
+ - 💣 [Footage from old days](http://9gag.com/gag/aBypRVQ)
+ - ⏩ [Deep tissue massages be like](http://9gag.com/gag/aZZebPW)
+ - 👉 [Funniest thing I have seen in a long while . Bl**dy cyclists](http://9gag.com/gag/avyN2bX)<!-- MEMES:END -->
 
 ---
 
