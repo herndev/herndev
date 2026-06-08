@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Once again](http://9gag.com/gag/aXPy8pb)
- - ⏩ [9gag is not fun anymore.](http://9gag.com/gag/aO8wo5y)
+ - ⏩ [7hours](http://9gag.com/gag/a4PXMOm)
  - 👉 [Egyptian Sandwich Seller Tries to Charge Customer $8,250 Instead of $8.25 in New York](http://9gag.com/gag/an76e5V)<!-- MEMES:END -->
 
 ---
