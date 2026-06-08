@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says it will tighten human rights controls when working with national security agencies after an inquiry found Israel&#39;s Unit 8200 violated its ToS &lpar;The Guardian&rpar;](https://www.techmeme.com/260607/p14#a260607p14)
- - [UK-based Creator Fund closes a $56M fund to back European PhD founders, reaching them in universities before they&#39;re pulled into academia, Big Tech, or US labs &lpar;Mike Butcher/Pathfounders&rpar;](https://www.techmeme.com/260607/p13#a260607p13)
- - [Fusion energy startup Helion raised a $465M Series G led by Thrive Capital at a $15.5B valuation, nearly tripling the valuation from its January 2025 round &lpar;Tim De Chant/TechCrunch&rpar;](https://www.techmeme.com/260607/p12#a260607p12)<!-- TECH:END -->
+ - [Sources: Spotify has approached concert promoters about licensing music festival livestreams, as it pivots to video to become a one-stop shop for music fans &lpar;Lucas Shaw/Bloomberg&rpar;](https://www.techmeme.com/260607/p16#a260607p16)
+ - [Sources: Beijing-based Moonshot, which makes the Kimi chatbot, is in talks to raise $1B+ that would value it at $30B, up from a $20B valuation in a recent round &lpar;Bloomberg&rpar;](https://www.techmeme.com/260607/p15#a260607p15)
+ - [Microsoft says it will tighten human rights controls when working with national security agencies after an inquiry found Israel&#39;s Unit 8200 violated its ToS &lpar;The Guardian&rpar;](https://www.techmeme.com/260607/p14#a260607p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
