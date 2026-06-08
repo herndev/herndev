@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT is getting an overhaul because ‘Chat is dead’](https://www.androidauthority.com/chatgpt-overhaul-openai-3675309/)
- - [Google’s older Nest Mini and Audio are quietly checking out before the new Home speaker arrives](https://www.androidauthority.com/new-google-home-speaker-nest-out-of-stock-3675300/)
- - [Performance or battery life? Some Galaxy S26 phones won’t force you to choose](https://www.androidauthority.com/samsung-galaxy-s26-new-performance-mode-3675304/)<!-- TECH:END -->
+ - [5 apps you should use instead of NotebookLM](https://www.androidauthority.com/notebooklm-alternatives-3672278/)
+ - [Apple WWDC 2026 Live Blog: All the Updates, as They Happen](https://www.wired.com/live/apple-wwdc-2026-live-blog-all-the-updates-as-they-happen/)
+ - [Afroman Is Back—and He’s Bitcoin’s Latest Freedom Fighter](https://www.wired.com/afroman-bitcoin-conference-free-speech/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
