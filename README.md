@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found my future wife](http://9gag.com/gag/a7oYjvr)
- - ⏩ [I hope she wins.](http://9gag.com/gag/a1m9pLb)
+ - 💣 [Once again](http://9gag.com/gag/aXPy8pb)
+ - ⏩ [9gag is not fun anymore.](http://9gag.com/gag/aO8wo5y)
  - 👉 [Egyptian Sandwich Seller Tries to Charge Customer $8,250 Instead of $8.25 in New York](http://9gag.com/gag/an76e5V)<!-- MEMES:END -->
 
 ---
