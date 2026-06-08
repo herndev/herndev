@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quiz](http://9gag.com/gag/adBEyjM)
- - ⏩ [Female opinion](http://9gag.com/gag/ajPpQ7Q)
- - 👉 [Funniest thing I have seen in a long while . Bl**dy cyclists](http://9gag.com/gag/avyN2bX)<!-- MEMES:END -->
+ - 💣 [Female opinion](http://9gag.com/gag/ajPpQ7Q)
+ - ⏩ [What a VIEW](http://9gag.com/gag/a9yojrm)
+ - 👉 [Egyptian Sandwich Seller Tries to Charge Customer $8,250 Instead of $8.25 in New York](http://9gag.com/gag/an76e5V)<!-- MEMES:END -->
 
 ---
 
