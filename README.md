@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grand Theft Auto VI is warping the video game release calendar](https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest)
- - [Best Running Shoes, Tested and Reviewed &lpar;2026&rpar;: Saucony, Adidas, Hoka](https://www.wired.com/gallery/best-running-shoes/)
- - [Final Fantasy VII&amp;#8217;s remake trilogy will conclude with Revelation](https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement)<!-- TECH:END -->
+ - [Nvidia says South Korea&#39;s Naver will use its technology to build AI factories at &quot;gigawatt scale&quot; to meet rising global demand for AI services and physical AI &lpar;Heekyong Yang/Reuters&rpar;](https://www.techmeme.com/260607/p10#a260607p10)
+ - [All the Trailers From Xbox Games Showcase 2026](https://www.cnet.com/tech/gaming/all-the-trailers-from-xbox-games-showcase-2026/)
+ - [NASA will wear high-tech Prada long johns to the Moon](https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
