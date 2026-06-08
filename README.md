@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 apps you should use instead of NotebookLM](https://www.androidauthority.com/notebooklm-alternatives-3672278/)
- - [Apple WWDC 2026 Live Blog: All the Updates, as They Happen](https://www.wired.com/live/apple-wwdc-2026-live-blog-all-the-updates-as-they-happen/)
- - [Afroman Is Back—and He’s Bitcoin’s Latest Freedom Fighter](https://www.wired.com/afroman-bitcoin-conference-free-speech/)<!-- TECH:END -->
+ - [Sources: the US urged NATO allies to channel defense spending toward efforts to replace components from Huawei in their networks and critical infrastructure &lpar;Bloomberg&rpar;](https://www.techmeme.com/260608/p11#a260608p11)
+ - [Bending Spoons files for a US IPO, reporting a net income of $27.5M on revenue of $601M in Q1, vs. a net loss of $112.2M on revenue of $259M a year earlier &lpar;Arasu Kannagi Basil/Reuters&rpar;](https://www.techmeme.com/260608/p10#a260608p10)
+ - [Travis Kalanick, Mark Pincus, and other founders share their horror stories of pitching to VCs; Cloudflare CEO Matthew Prince publicly calls out Vinod Khosla &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260608/p9#a260608p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
