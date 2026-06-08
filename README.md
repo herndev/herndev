@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is using AI to fix Safari’s extension problem](https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions)
- - [Apple&#39;s new foundation models don&#39;t contain a drop of Gemini, as we said they wouldn&#39;t](https://appleinsider.com/articles/26/06/08/apples-new-foundation-models-dont-contain-a-drop-of-gemini-as-we-said-they-wouldnt?utm_source=rss)
- - [Where was tvOS 27 at WWDC?](https://www.theverge.com/tech/946329/tvos-27-absent-wwdc)<!-- TECH:END -->
+ - [Infinity Constellation, which builds AI tools and software businesses for the professional services market, raised a $24M Series A; it previously raised $17M &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260608/p59#a260608p59)
+ - [Apple unveils an Apple Intelligence feature that can automatically change compromised passwords, using agentic AI, and save them to the Passwords app &lpar;James Pero/Gizmodo&rpar;](https://www.techmeme.com/260608/p58#a260608p58)
+ - [The Trump administration relaunches efforts to block state AI laws; Sen. Blackburn is leading negotiations and pushing KOSA as part of an AI preemption package &lpar;Axios&rpar;](https://www.techmeme.com/260608/p57#a260608p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
