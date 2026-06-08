@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Getting a date....by a royal decree](http://9gag.com/gag/awyEq64)
- - ⏩ [What a VIEW](http://9gag.com/gag/a9yojrm)
- - 👉 [Acknowledging oneself is good.](http://9gag.com/gag/a0erm6Q)<!-- MEMES:END -->
+ - 💣 [Deep tissue massages be like](http://9gag.com/gag/aZZebPW)
+ - ⏩ [Getting a date....by a royal decree](http://9gag.com/gag/awyEq64)
+ - 👉 [What a VIEW](http://9gag.com/gag/a9yojrm)<!-- MEMES:END -->
 
 ---
 
