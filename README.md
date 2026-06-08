@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US urged NATO allies to channel defense spending toward efforts to replace components from Huawei in their networks and critical infrastructure &lpar;Bloomberg&rpar;](https://www.techmeme.com/260608/p11#a260608p11)
- - [Bending Spoons files for a US IPO, reporting a net income of $27.5M on revenue of $601M in Q1, vs. a net loss of $112.2M on revenue of $259M a year earlier &lpar;Arasu Kannagi Basil/Reuters&rpar;](https://www.techmeme.com/260608/p10#a260608p10)
- - [Travis Kalanick, Mark Pincus, and other founders share their horror stories of pitching to VCs; Cloudflare CEO Matthew Prince publicly calls out Vinod Khosla &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260608/p9#a260608p9)<!-- TECH:END -->
+ - [The last good morning: Celebrities help Tim Cook start WWDC](https://appleinsider.com/articles/26/06/08/the-last-good-morning-celebrities-help-tim-cook-start-wwdc?utm_source=rss)
+ - [Meta says it&#39;s filing a federal court contempt order against NSO for violating a permanent injunction that barred NSO from ever targeting WhatsApp and its users &lpar;Jaspreet Singh/Reuters&rpar;](https://www.techmeme.com/260608/p13#a260608p13)
+ - [There’s bad news if you want fewer Exynos phones in 2027](https://www.androidauthority.com/samsung-galaxy-z-flip-8-exynos-regions-more-exynos-3675424/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
