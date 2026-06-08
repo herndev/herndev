@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The last good morning: Celebrities help Tim Cook start WWDC](https://appleinsider.com/articles/26/06/08/the-last-good-morning-celebrities-help-tim-cook-start-wwdc?utm_source=rss)
- - [Meta says it&#39;s filing a federal court contempt order against NSO for violating a permanent injunction that barred NSO from ever targeting WhatsApp and its users &lpar;Jaspreet Singh/Reuters&rpar;](https://www.techmeme.com/260608/p13#a260608p13)
- - [There’s bad news if you want fewer Exynos phones in 2027](https://www.androidauthority.com/samsung-galaxy-z-flip-8-exynos-regions-more-exynos-3675424/)<!-- TECH:END -->
+ - [Microsoft has shut down 70+ of its own repositories on GitHub after hackers pushed malware that would steal credentials from users of AI coding agents &lpar;Joseph Cox/404 Media&rpar;](https://www.techmeme.com/260608/p20#a260608p20)
+ - [Sources: Russia paused parts of a surveillance system protecting Putin after Israel used AI on footage from Iran&#39;s traffic cameras to locate Ayatollah Khamenei &lpar;Financial Times&rpar;](https://www.techmeme.com/260608/p19#a260608p19)
+ - [Google just made NotebookLM a lot more useful with its biggest upgrade yet](https://www.androidauthority.com/google-notebooklm-major-upgrade-3675369/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
