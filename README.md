@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pro Potter](http://9gag.com/gag/aW4zBP2)
- - ⏩ [Each flip adds a grey hair in their head](http://9gag.com/gag/ae9LKmO)
- - 👉 [Its sunday morning were I&#39;m at. There hasn&#39;t been many reasons to laugh lately, so here is an oldie to start your day.](http://9gag.com/gag/a87ZdGd)<!-- MEMES:END -->
+ - 💣 [Found my future wife](http://9gag.com/gag/a7oYjvr)
+ - ⏩ [I hope she wins.](http://9gag.com/gag/a1m9pLb)
+ - 👉 [Egyptian Sandwich Seller Tries to Charge Customer $8,250 Instead of $8.25 in New York](http://9gag.com/gag/an76e5V)<!-- MEMES:END -->
 
 ---
 
