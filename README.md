@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the Ways Europe Is Ditching American Technology](https://www.wired.com/story/all-the-ways-europe-is-ditching-american-technology/)
- - [London-based PhysicsX, which uses AI to design industrial parts like jet engines and semiconductors, raised a $300M Series C led by Temasek at a $2.4B valuation &lpar;Mark Bergen/Bloomberg&rpar;](https://www.techmeme.com/260608/p3#a260608p3)
- - [Nvidia and LG expand their partnership in AI, robotics, and mobility tech, including building an AI Factory and co-designing future data center architectures &lpar;Choi Eun-Kyung/The Chosun Daily&rpar;](https://www.techmeme.com/260608/p2#a260608p2)<!-- TECH:END -->
+ - [ChatGPT is getting an overhaul because ‘Chat is dead’](https://www.androidauthority.com/chatgpt-overhaul-openai-3675309/)
+ - [Google’s older Nest Mini and Audio are quietly checking out before the new Home speaker arrives](https://www.androidauthority.com/new-google-home-speaker-nest-out-of-stock-3675300/)
+ - [Performance or battery life? Some Galaxy S26 phones won’t force you to choose](https://www.androidauthority.com/samsung-galaxy-s26-new-performance-mode-3675304/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
