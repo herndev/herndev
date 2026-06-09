@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Legend of Zelda: Ocarina of Time is getting a remake for the Switch 2](https://www.theverge.com/games/945745/nintendo-zelda-ocarina-of-time-remake-direct-june-2026)
- - [Microsoft AI chief walks back comments about AI taking over white-collar work](https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs)
- - [Pebble Round 2 is going to take a little more time to get to your wrist](https://www.androidauthority.com/pebble-round-2-shipment-delay-3675913/)<!-- TECH:END -->
+ - [If Apple&#39;s Siri AI works as it was shown in the WWDC demos, Apple is set to take the lead in consumer AI, with iPhone becoming the first true AI device &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260609/p25#a260609p25)
+ - [There&#39;s not much new in the iOS 27 Camera app beyond minor refinements](https://appleinsider.com/articles/26/06/09/dont-expect-much-from-ios-27s-camera-app-beyond-minor-refinements?utm_source=rss)
+ - [EU regulators order Meta to give rival AI chatbots free access to WhatsApp while they continue to probe if Meta abused its market power by blocking competitors &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260609/p24#a260609p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
