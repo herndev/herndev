@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: US colleges now offer 74+ AI majors and 89+ minors, and at least a dozen schools are set to add AI majors this year; only five had AI majors in 2021 &lpar;Alan Blinder/New York Times&rpar;](https://www.techmeme.com/260609/p3#a260609p3)
- - [OnePlus 15 gets the Pixel 10’s best party trick: AirDrop via Quick Share](https://www.androidauthority.com/oneplus-15-airdop-via-quick-share-3675598/)
- - [In an interview, Perplexity CEO Aravind Srinivas says that the company is planning its IPO for 2028, regardless of how well the IPOs for Anthropic and OpenAI go &lpar;Arjun Kharpal/CNBC&rpar;](https://www.techmeme.com/260609/p2#a260609p2)<!-- TECH:END -->
+ - [France-based Alta Ares, which is building AI-powered air defense systems to counter drones and missiles, raised a €50M Series A led by Air Street Capital &lpar;Daphné Leprince-Ringuet/Sifted&rpar;](https://www.techmeme.com/260609/p9#a260609p9)
+ - [In a UK online safety consultation, the US urges the UK against an under-16 social media ban, saying it would place a &quot;disproportionate&quot; burden on US Big Tech &lpar;Dan Milmo/The Guardian&rpar;](https://www.techmeme.com/260609/p8#a260609p8)
+ - [I spent hours testing Claude Opus 4.8 — these are the 5 biggest upgrades](https://www.androidauthority.com/claude-opus-4-8-vs-4-7-hands-on-3673511/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
