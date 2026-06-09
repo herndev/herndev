@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy ending.](http://9gag.com/gag/a87ZLP6)
- - ⏩ [Ever seen a sunrise like this It&#39;s like painting with light](http://9gag.com/gag/ajPpryG)
- - 👉 [So real.](http://9gag.com/gag/aZZebd0)<!-- MEMES:END -->
+ - 💣 [Lol Ubisoft must&#39;ve been absolutely seething right now](http://9gag.com/gag/aMVg2eM)
+ - ⏩ [Definition of idiot](http://9gag.com/gag/aLnxK2x)
+ - 👉 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)<!-- MEMES:END -->
 
 ---
 
