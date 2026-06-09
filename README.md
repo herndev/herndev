@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple Wallet&#39;s Create a Pass works in iOS 27](https://appleinsider.com/articles/26/06/09/how-apple-wallets-create-a-pass-works-in-ios-27?utm_source=rss)
- - [Apple dials down Liquid Glass, and the Mac looks way better for it](https://www.theverge.com/tech/946567/apple-macos-27-golden-gate-dev-beta-hands-on)
- - [Rivian R2 2026: Specs, Price, Availability](https://www.wired.com/story/rivian-r2-first-drive/)<!-- TECH:END -->
+ - [The Legend of Zelda: Ocarina of Time is getting a remake for the Switch 2](https://www.theverge.com/games/945745/nintendo-zelda-ocarina-of-time-remake-direct-june-2026)
+ - [Microsoft AI chief walks back comments about AI taking over white-collar work](https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs)
+ - [Pebble Round 2 is going to take a little more time to get to your wrist](https://www.androidauthority.com/pebble-round-2-shipment-delay-3675913/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
