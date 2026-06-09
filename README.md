@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Funniest thing I have seen in a long while . Bl**dy cyclists](http://9gag.com/gag/avyN2bX)
- - ⏩ [She got rejected twice by three people](http://9gag.com/gag/adBE0xj)
- - 👉 [AI makes copies from copies](http://9gag.com/gag/aqy04yv)<!-- MEMES:END -->
+ - 💣 [Maxing stats](http://9gag.com/gag/aE03w6o)
+ - ⏩ [Speedster](http://9gag.com/gag/aBypRwN)
+ - 👉 [9gag is not fun anymore.](http://9gag.com/gag/aO8wo5y)<!-- MEMES:END -->
 
 ---
 
