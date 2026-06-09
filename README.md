@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US FCC waives its deadline for Amazon to deploy half of its Leo satellites by July; Amazon is still required to launch all 3,232 satellites by July 30, 2029 &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/260609/p1#a260609p1)
- - [Apple overhauls the App Store with subscription options for groups, businesses, and schools, retention messaging to reduce churn, bundled IAP reviews, and more &lpar;Andrew Orr/AppleInsider&rpar;](https://www.techmeme.com/260608/p65#a260608p65)
- - [The first developer beta of iOS 27 offers the clearest signs yet of Apple&#39;s upcoming foldable iPhone, with references to folding hardware and flexible displays &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260608/p64#a260608p64)<!-- TECH:END -->
+ - [In an interview, Perplexity CEO Aravind Srinivas says that the company is planning its IPO for 2028, regardless of how well the IPOs for Anthropic and OpenAI go &lpar;Arjun Kharpal/CNBC&rpar;](https://www.techmeme.com/260609/p2#a260609p2)
+ - [1Password Coupon: Score a Free Trial in June 2026](https://www.wired.com/story/1password-coupon/)
+ - [HelloFresh Promo Codes: 55% Off for June 2026](https://www.wired.com/story/hellofresh-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
