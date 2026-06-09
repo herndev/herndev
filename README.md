@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pretty trees and Local Lists: Apple Maps gets a big upgrade in iOS 27](https://appleinsider.com/articles/26/06/09/pretty-trees-and-local-lists-apple-maps-gets-a-big-upgrade-in-ios-27?utm_source=rss)
- - [Nintendo is playing things too safe](https://www.theverge.com/entertainment/947120/nintendo-direct-june-2026-analysis)
- - [For the first time in four years, tvOS cuts off some older Apple TV hardware](https://appleinsider.com/articles/26/06/09/for-the-first-time-in-four-years-tvos-cuts-off-some-older-apple-tv-hardware?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic says Fable 5 has invisible safeguards that use prompt modification, steering vectors, or PEFT to limit its effectiveness for frontier LLM development &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/260609/p38#a260609p38)
+ - [Microsoft AI head calls out Anthropic for acting like Claude is conscious](https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious)
+ - [Siri AI is trapped in Apple&#39;s escalating cold war with the EU](https://appleinsider.com/articles/26/06/09/siri-ai-is-trapped-in-apples-escalating-cold-war-with-the-eu?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
