@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maxing stats](http://9gag.com/gag/aE03w6o)
- - ⏩ [Speedster](http://9gag.com/gag/aBypRwN)
- - 👉 [9gag is not fun anymore.](http://9gag.com/gag/aO8wo5y)<!-- MEMES:END -->
+ - 💣 [Lol Ubisoft must&#39;ve been absolutely seething right now](http://9gag.com/gag/aMVg2eM)
+ - ⏩ [Deep tissue massages be like](http://9gag.com/gag/aZZebPW)
+ - 👉 [Kitty Kat](http://9gag.com/gag/agmW3bg)<!-- MEMES:END -->
 
 ---
 
