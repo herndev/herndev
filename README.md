@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kitty Kat](http://9gag.com/gag/agmW3bg)
+ - 💣 [Someone finally snapped](http://9gag.com/gag/abA75RE)
  - ⏩ [Footage from old days](http://9gag.com/gag/aBypRVQ)
  - 👉 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)<!-- MEMES:END -->
 
