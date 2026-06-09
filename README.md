@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [AI makes copies from copies](http://9gag.com/gag/aqy04yv)
- - ⏩ [She got rejected twice by three people](http://9gag.com/gag/adBE0xj)
- - 👉 [Is blinker fluid suppose to be this brown?](http://9gag.com/gag/aNDNr76)<!-- MEMES:END -->
+ - 💣 [Kitty Kat](http://9gag.com/gag/agmW3bg)
+ - ⏩ [What a VIEW](http://9gag.com/gag/a9yojrm)
+ - 👉 [I hope she wins.](http://9gag.com/gag/a1m9pLb)<!-- MEMES:END -->
 
 ---
 
