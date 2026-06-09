@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft disabled 70+ of its repos on GitHub, including Azure-related tools like azure-functions-host, after hackers added credential-stealing malware to them &lpar;Zack Whittaker/TechCrunch&rpar;](https://www.techmeme.com/260608/p61#a260608p61)
- - [Google and Nvidia are helping Apple with Apple Foundation Model Cloud Pro, which Apple says is comparable to Gemini frontier models and runs on Nvidia GPUs &lpar;Kif Leswing/CNBC&rpar;](https://www.techmeme.com/260608/p60#a260608p60)
- - [The Devil Wears Prada, and for Artemis IV, So Will Astronauts](https://www.cnet.com/science/space/artemis-iv-nasa-astronauts-spacesuit-prada-axiom-space-moon/)<!-- TECH:END -->
+ - [macOS Golden Gate menus revert to having no icons by each item, as it should be](https://appleinsider.com/articles/26/06/09/macos-golden-gate-menus-revert-to-having-no-icons-by-each-item-as-it-should-be?utm_source=rss)
+ - [Xiaomi claims MiMo-V2.5-Pro-UltraSpeed tops 1K tokens/second, a first at the 1T-parameter scale, using a standard 8-GPU commodity node; API trial starts June 9 &lpar;Jose Antonio Lanz/Decrypt&rpar;](https://www.techmeme.com/260608/p63#a260608p63)
+ - [Sam Altman and Jakub Pachocki claim OpenAI is &quot;entering the third phase&quot;, aiming to automate AI research, boost the economy, and give everyone a personal AGI &lpar;OpenAI&rpar;](https://www.techmeme.com/260608/p62#a260608p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
