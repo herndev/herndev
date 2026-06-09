@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says Fable 5 uses conservative safety classifiers that trigger a fallback to Claude Opus 4.8 in ~5% of sessions, in areas like cybersecurity &lpar;Anthropic&rpar;](https://www.techmeme.com/260609/p31#a260609p31)
- - [Anthropic says Fable 5 is available on Pro, Max, Team, and seat-based Enterprise plans through June 22, after which using Fable 5 will require usage credits &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260609/p30#a260609p30)
- - [Anthropic prices both Claude Fable 5 and Mythos 5 at $10 per 1M input and $50 per 1M output tokens, less than half the price of Claude Mythos Preview &lpar;David Gewirtz/ZDNET&rpar;](https://www.techmeme.com/260609/p29#a260609p29)<!-- TECH:END -->
+ - [You can buy unlimited AT&amp;T data for your iPad for $3 a day](https://appleinsider.com/articles/26/06/09/you-can-buy-unlimited-att-data-for-your-ipad-for-3-a-day?utm_source=rss)
+ - [A US judge cancels a Mississippi trial and disqualifies and fines lawyers on both sides after finding their filings were filled with hallucinated case citations &lpar;Jason Koebler/404 Media&rpar;](https://www.techmeme.com/260609/p33#a260609p33)
+ - [Is your YouTube Shorts ‘Dislike’ button missing? Here’s what’s going on](https://www.androidauthority.com/youtube-shorts-heart-button-test-3675982/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
