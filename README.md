@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says Fable 5 has invisible safeguards that use prompt modification, steering vectors, or PEFT to limit its effectiveness for frontier LLM development &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/260609/p38#a260609p38)
- - [Microsoft AI head calls out Anthropic for acting like Claude is conscious](https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious)
- - [Siri AI is trapped in Apple&#39;s escalating cold war with the EU](https://appleinsider.com/articles/26/06/09/siri-ai-is-trapped-in-apples-escalating-cold-war-with-the-eu?utm_source=rss)<!-- TECH:END -->
+ - [Expect more controllers &amp; objects for Apple Vision Pro thanks to visionOS 27](https://appleinsider.com/articles/26/06/09/expect-more-controllers-objects-for-apple-vision-pro-thanks-to-visionos-27?utm_source=rss)
+ - [Anthropic’s too-scary-to-release AI hacking tool is actually coming out — kind of](https://www.androidauthority.com/claude-mythos-5-3676051/)
+ - [GM Wants Your Electric Car to Power Your House—and Your Neighborhood](https://www.wired.com/story/gm-vehicle-to-grid-charging-your-electric-car-can-power-your-house-and-your-neighborhood/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
