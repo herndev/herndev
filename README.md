@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Great White Sharks Have Been in the Mediterranean Sea for Millions of Years—but Sightings Are Incredibly Rare](https://www.wired.com/story/great-white-shark-mediterranean-sea-sighting-endangered/)
- - [Super Micro Computer aims to raise $7B in a series of equity and equity-linked financing transactions to fund its component purchases to satisfy AI orders &lpar;Harshita Mary Varghese/Reuters&rpar;](https://www.techmeme.com/260609/p41#a260609p41)
- - [Congress just gave DHS another $70 billion](https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation)<!-- TECH:END -->
+ - [B&amp;H&#39;s best $899 MacBook Air deal has been extended, but supply is limited](https://appleinsider.com/articles/26/06/09/bhs-best-899-macbook-air-deal-has-been-extended-but-supply-is-limited?utm_source=rss)
+ - [ServiceNow says attackers exploited a flaw, patched on June 5, that let unauthenticated users query data from customer instances, but gives few other details &lpar;Lawrence Abrams/BleepingComputer&rpar;](https://www.techmeme.com/260609/p43#a260609p43)
+ - [Sources: SpaceX aims to launch orbital AI computing tests by late 2027 and has requested permission from regulators to launch up to 1M data-center satellites &lpar;Akash Sriram/Reuters&rpar;](https://www.techmeme.com/260609/p42#a260609p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
