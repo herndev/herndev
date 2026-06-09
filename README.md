@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Speedster](http://9gag.com/gag/aBypRwN)
- - ⏩ [Kitty Kat](http://9gag.com/gag/agmW3bg)
- - 👉 [Footage from old days](http://9gag.com/gag/aBypRVQ)<!-- MEMES:END -->
+ - 💣 [Footage from old days](http://9gag.com/gag/aBypRVQ)
+ - ⏩ [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)
+ - 👉 [Kitty Kat](http://9gag.com/gag/agmW3bg)<!-- MEMES:END -->
 
 ---
 
