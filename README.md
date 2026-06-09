@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Golden Gate menus revert to having no icons by each item, as it should be](https://appleinsider.com/articles/26/06/09/macos-golden-gate-menus-revert-to-having-no-icons-by-each-item-as-it-should-be?utm_source=rss)
- - [Xiaomi claims MiMo-V2.5-Pro-UltraSpeed tops 1K tokens/second, a first at the 1T-parameter scale, using a standard 8-GPU commodity node; API trial starts June 9 &lpar;Jose Antonio Lanz/Decrypt&rpar;](https://www.techmeme.com/260608/p63#a260608p63)
- - [Sam Altman and Jakub Pachocki claim OpenAI is &quot;entering the third phase&quot;, aiming to automate AI research, boost the economy, and give everyone a personal AGI &lpar;OpenAI&rpar;](https://www.techmeme.com/260608/p62#a260608p62)<!-- TECH:END -->
+ - [The US FCC waives its deadline for Amazon to deploy half of its Leo satellites by July; Amazon is still required to launch all 3,232 satellites by July 30, 2029 &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/260609/p1#a260609p1)
+ - [Apple overhauls the App Store with subscription options for groups, businesses, and schools, retention messaging to reduce churn, bundled IAP reviews, and more &lpar;Andrew Orr/AppleInsider&rpar;](https://www.techmeme.com/260608/p65#a260608p65)
+ - [The first developer beta of iOS 27 offers the clearest signs yet of Apple&#39;s upcoming foldable iPhone, with references to folding hardware and flexible displays &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260608/p64#a260608p64)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
