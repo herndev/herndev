@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Speedster](http://9gag.com/gag/aBypRwN)
- - ⏩ [Someone finally snapped](http://9gag.com/gag/abA75RE)
- - 👉 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)<!-- MEMES:END -->
+ - ⏩ [Kitty Kat](http://9gag.com/gag/agmW3bg)
+ - 👉 [Footage from old days](http://9gag.com/gag/aBypRVQ)<!-- MEMES:END -->
 
 ---
 
