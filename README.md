@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kitty Kat](http://9gag.com/gag/agmW3bg)
- - ⏩ [What a VIEW](http://9gag.com/gag/a9yojrm)
- - 👉 [I hope she wins.](http://9gag.com/gag/a1m9pLb)<!-- MEMES:END -->
+ - 💣 [Female opinion](http://9gag.com/gag/ajPpQ7Q)
+ - ⏩ [Speedster](http://9gag.com/gag/aBypRwN)
+ - 👉 [Deep tissue massages be like](http://9gag.com/gag/aZZebPW)<!-- MEMES:END -->
 
 ---
 
