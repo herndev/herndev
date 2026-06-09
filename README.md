@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol Ubisoft must&#39;ve been absolutely seething right now](http://9gag.com/gag/aMVg2eM)
+ - 💣 [Kitty Kat](http://9gag.com/gag/agmW3bg)
  - ⏩ [Definition of idiot](http://9gag.com/gag/aLnxK2x)
  - 👉 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)<!-- MEMES:END -->
 
