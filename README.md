@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Infinity Constellation, which builds AI tools and software businesses for the professional services market, raised a $24M Series A; it previously raised $17M &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260608/p59#a260608p59)
- - [Apple unveils an Apple Intelligence feature that can automatically change compromised passwords, using agentic AI, and save them to the Passwords app &lpar;James Pero/Gizmodo&rpar;](https://www.techmeme.com/260608/p58#a260608p58)
- - [The Trump administration relaunches efforts to block state AI laws; Sen. Blackburn is leading negotiations and pushing KOSA as part of an AI preemption package &lpar;Axios&rpar;](https://www.techmeme.com/260608/p57#a260608p57)<!-- TECH:END -->
+ - [Google and Nvidia are helping Apple with Apple Foundation Model Cloud Pro, which Apple says is comparable to Gemini frontier models and runs on Nvidia GPUs &lpar;Kif Leswing/CNBC&rpar;](https://www.techmeme.com/260608/p60#a260608p60)
+ - [Instagram is finally letting everyone reorganize their profile grid](https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid)
+ - [Apple’s Screen Time updates are too little, too late](https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
