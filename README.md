@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What time does Arknights: Endfield 1.3 release in your time zone?](https://www.polygon.com/arknights-endfield-ake-1-3-release-time-maintenance-countdown/)
- - [Silent Hill: Townfall will release in September alongside a handful of other blockbuster games hellbent on avoiding GTA 6](https://www.pcgamer.com/games/horror/silent-hill-townfall-will-release-in-september-alongside-a-handful-of-other-blockbuster-games-hellbent-on-avoiding-gta-6/)
- - [New games in June 2026: It&#39;s a big month for Bungie and showcase reveals, but we&#39;re missing a key part of the monthly formula](https://www.pcgamer.com/games/pc-game-release-dates-june-2026/)<!-- GAME:END -->
+ - [Donald Duck has five fingers in official art for Kingdom Hearts Collection, and that is definitely not right](https://www.pcgamer.com/software/ai/donald-duck-has-five-fingers-in-official-art-for-kingdom-hearts-collection-and-that-is-definitely-not-right/)
+ - [A PS5 reveal game no-shows Summer Game Fest again, 11 years after its Kickstarter reveal](https://www.polygon.com/summer-game-fest-2026-little-devil-inside-no-shows/)
+ - [I Wasn’t Expecting Dragon’s Dogma 2 DLC In The Nintendo Direct](https://kotaku.com/dragons-dogma-2-dlc-nintendo-switch-2-direct-2000704568)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
