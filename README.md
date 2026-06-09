@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [French government warns that hackers used a hijacked user account to breach Tchap, its encrypted messaging app for civil servants with 300,000+ monthly users &lpar;Sergiu Gatlan/BleepingComputer&rpar;](https://www.techmeme.com/260609/p16#a260609p16)
- - [New York-based Standard Bots, which wants to make AI-powered robotic arms in the US, raised $200M led by General Catalyst and Robostrategy at a $1B valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260609/p15#a260609p15)
- - [The Smart Bird Feeders Everyone’s Talking About &lpar;and Actually Buying&rpar; &lpar;2026&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)<!-- TECH:END -->
+ - [How Apple Wallet&#39;s Create a Pass works in iOS 27](https://appleinsider.com/articles/26/06/09/how-apple-wallets-create-a-pass-works-in-ios-27?utm_source=rss)
+ - [Apple dials down Liquid Glass, and the Mac looks way better for it](https://www.theverge.com/tech/946567/apple-macos-27-golden-gate-dev-beta-hands-on)
+ - [Rivian R2 2026: Specs, Price, Availability](https://www.wired.com/story/rivian-r2-first-drive/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
