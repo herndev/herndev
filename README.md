@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Speedster](http://9gag.com/gag/aBypRwN)
- - ⏩ [I hope she wins.](http://9gag.com/gag/a1m9pLb)
- - 👉 [AI makes copies from copies](http://9gag.com/gag/aqy04yv)<!-- MEMES:END -->
+ - 💣 [He&#39;s still brutally honest.](http://9gag.com/gag/aVvAz7P)
+ - ⏩ [Basics of Gate Construction](http://9gag.com/gag/aNDNrVr)
+ - 👉 [I hope she wins.](http://9gag.com/gag/a1m9pLb)<!-- MEMES:END -->
 
 ---
 
