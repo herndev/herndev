@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Funniest thing I have seen in a long while . Bl**dy cyclists](http://9gag.com/gag/avyN2bX)
- - ⏩ [What a VIEW](http://9gag.com/gag/a9yojrm)
- - 👉 [I hope she wins.](http://9gag.com/gag/a1m9pLb)<!-- MEMES:END -->
+ - 💣 [AI makes copies from copies](http://9gag.com/gag/aqy04yv)
+ - ⏩ [She got rejected twice by three people](http://9gag.com/gag/adBE0xj)
+ - 👉 [Is blinker fluid suppose to be this brown?](http://9gag.com/gag/aNDNr76)<!-- MEMES:END -->
 
 ---
 
