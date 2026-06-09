@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If Apple&#39;s Siri AI works as it was shown in the WWDC demos, Apple is set to take the lead in consumer AI, with iPhone becoming the first true AI device &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260609/p25#a260609p25)
- - [There&#39;s not much new in the iOS 27 Camera app beyond minor refinements](https://appleinsider.com/articles/26/06/09/dont-expect-much-from-ios-27s-camera-app-beyond-minor-refinements?utm_source=rss)
- - [EU regulators order Meta to give rival AI chatbots free access to WhatsApp while they continue to probe if Meta abused its market power by blocking competitors &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260609/p24#a260609p24)<!-- TECH:END -->
+ - [Anthropic says Fable 5 uses conservative safety classifiers that trigger a fallback to Claude Opus 4.8 in ~5% of sessions, in areas like cybersecurity &lpar;Anthropic&rpar;](https://www.techmeme.com/260609/p31#a260609p31)
+ - [Anthropic says Fable 5 is available on Pro, Max, Team, and seat-based Enterprise plans through June 22, after which using Fable 5 will require usage credits &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260609/p30#a260609p30)
+ - [Anthropic prices both Claude Fable 5 and Mythos 5 at $10 per 1M input and $50 per 1M output tokens, less than half the price of Claude Mythos Preview &lpar;David Gewirtz/ZDNET&rpar;](https://www.techmeme.com/260609/p29#a260609p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
