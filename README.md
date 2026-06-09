@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s still brutally honest.](http://9gag.com/gag/aVvAz7P)
- - ⏩ [Basics of Gate Construction](http://9gag.com/gag/aNDNrVr)
+ - 💣 [Funniest thing I have seen in a long while . Bl**dy cyclists](http://9gag.com/gag/avyN2bX)
+ - ⏩ [What a VIEW](http://9gag.com/gag/a9yojrm)
  - 👉 [I hope she wins.](http://9gag.com/gag/a1m9pLb)<!-- MEMES:END -->
 
 ---
