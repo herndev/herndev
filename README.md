@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [France-based Alta Ares, which is building AI-powered air defense systems to counter drones and missiles, raised a €50M Series A led by Air Street Capital &lpar;Daphné Leprince-Ringuet/Sifted&rpar;](https://www.techmeme.com/260609/p9#a260609p9)
- - [In a UK online safety consultation, the US urges the UK against an under-16 social media ban, saying it would place a &quot;disproportionate&quot; burden on US Big Tech &lpar;Dan Milmo/The Guardian&rpar;](https://www.techmeme.com/260609/p8#a260609p8)
- - [I spent hours testing Claude Opus 4.8 — these are the 5 biggest upgrades](https://www.androidauthority.com/claude-opus-4-8-vs-4-7-hands-on-3673511/)<!-- TECH:END -->
+ - [French government warns that hackers used a hijacked user account to breach Tchap, its encrypted messaging app for civil servants with 300,000+ monthly users &lpar;Sergiu Gatlan/BleepingComputer&rpar;](https://www.techmeme.com/260609/p16#a260609p16)
+ - [New York-based Standard Bots, which wants to make AI-powered robotic arms in the US, raised $200M led by General Catalyst and Robostrategy at a $1B valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260609/p15#a260609p15)
+ - [The Smart Bird Feeders Everyone’s Talking About &lpar;and Actually Buying&rpar; &lpar;2026&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
