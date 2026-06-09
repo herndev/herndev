@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can buy unlimited AT&amp;T data for your iPad for $3 a day](https://appleinsider.com/articles/26/06/09/you-can-buy-unlimited-att-data-for-your-ipad-for-3-a-day?utm_source=rss)
- - [A US judge cancels a Mississippi trial and disqualifies and fines lawyers on both sides after finding their filings were filled with hallucinated case citations &lpar;Jason Koebler/404 Media&rpar;](https://www.techmeme.com/260609/p33#a260609p33)
- - [Is your YouTube Shorts ‘Dislike’ button missing? Here’s what’s going on](https://www.androidauthority.com/youtube-shorts-heart-button-test-3675982/)<!-- TECH:END -->
+ - [Pretty trees and Local Lists: Apple Maps gets a big upgrade in iOS 27](https://appleinsider.com/articles/26/06/09/pretty-trees-and-local-lists-apple-maps-gets-a-big-upgrade-in-ios-27?utm_source=rss)
+ - [Nintendo is playing things too safe](https://www.theverge.com/entertainment/947120/nintendo-direct-june-2026-analysis)
+ - [For the first time in four years, tvOS cuts off some older Apple TV hardware](https://appleinsider.com/articles/26/06/09/for-the-first-time-in-four-years-tvos-cuts-off-some-older-apple-tv-hardware?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
