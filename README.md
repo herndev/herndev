@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Are these real posts from the r/skyrimmods subreddit, or did I make them up? Take our newest and rudest quiz!](https://www.pcgamer.com/games/are-these-real-posts-from-the-r-skyrimmods-subreddit-or-did-i-make-them-up-take-our-newest-and-rudest-quiz/)
- - [Dragon&#39;s Dogma 2 gets first of 2 major updates ahead of Dark Arisen DLC](https://www.polygon.com/dragons-dogma-2-june-2026-update-fast-travel-fix/)
- - [Star Wars Lego, Lawsuits, And Leaked Body Cam Footage: The Entire Reckless Ben Vs. Bricks &amp; Minifigs Drama So Far](https://kotaku.com/reckless-ben-lego-star-wars-bricks-minifigs-mormon-mafia-2000702999)<!-- GAME:END -->
+ - [&#39;An evolved game of cat and mouse:&#39; Alien: Isolation 2 leads on taking the alien outside, the good kind of AI, and why a sequel took so long](https://www.pcgamer.com/games/horror/an-evolved-game-of-cat-and-mouse-alien-isolation-2-leads-on-taking-the-alien-outside-the-good-kind-of-ai-and-why-a-sequel-took-so-long/)
+ - [How Street Fighter 6 Landed Tifa And Why She’s Not The Start Of A Flood Of New Guest Characters](https://kotaku.com/how-street-fighter-6-landed-tifa-and-why-shes-not-the-start-of-a-flood-of-new-guest-characters-2000704984)
+ - [Are these real posts from the r/skyrimmods subreddit, or did I make them up? Take our newest and rudest quiz!](https://www.pcgamer.com/games/are-these-real-posts-from-the-r-skyrimmods-subreddit-or-did-i-make-them-up-take-our-newest-and-rudest-quiz/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
