@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prayers do come true](http://9gag.com/gag/avyNZPM)
+ - 💣 [Kitty Kat](http://9gag.com/gag/agmW3bg)
  - ⏩ [Someone finally snapped](http://9gag.com/gag/abA75RE)
- - 👉 [Kitty Kat](http://9gag.com/gag/agmW3bg)<!-- MEMES:END -->
+ - 👉 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)<!-- MEMES:END -->
 
 ---
 
