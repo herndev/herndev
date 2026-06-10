@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
- - ⏩ [Road rage karma attack](http://9gag.com/gag/a1m9emP)
+ - 💣 [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)
+ - ⏩ [Enjoy prison, Karmelo!](http://9gag.com/gag/aO8wy86)
  - 👉 [Mom lore go crazy.](http://9gag.com/gag/a2veN0Z)<!-- MEMES:END -->
 
 ---
