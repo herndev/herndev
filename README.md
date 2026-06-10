@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oracle reports Q4 revenue up 21% YoY to $19.18B, vs. $19.1B est., and expects to raise ~$40B through a combination of debt and equity financing in FY 2027 &lpar;Juby Babu/Reuters&rpar;](https://www.techmeme.com/260610/p54#a260610p54)
- - [Trump Risks Key Surveillance Authority Over ‘Unqualified’ Spy-Chief Pick](https://www.wired.com/story/trump-risks-key-surveillance-authority-over-unqualified-spy-chief-pick/)
- - [Having trouble with Strava? Here’s what’s going on](https://www.androidauthority.com/strava-experiencing-outage-3676560/)<!-- TECH:END -->
+ - [Sources: Microsoft&#39;s Xbox division is planning major layoffs next month and significant budget cuts for marketing and some other areas &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/260610/p57#a260610p57)
+ - [Xbox warns of a &amp;#8216;reset&amp;#8217; as it prepares for layoffs](https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma)
+ - [Lenovo’s rugged ThinkTab X11 is finally available in the US](https://www.androidauthority.com/lenovo-thinktab-x11-on-sale-3676566/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
