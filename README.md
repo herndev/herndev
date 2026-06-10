@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I already like the new survival horror Hellraiser game more than the movie](https://www.pcgamer.com/games/horror/i-already-like-the-new-survival-horror-hellraiser-game-more-than-the-movie/)
- - [How to score a goal in the hidden net in Destiny 2](https://www.pcgamer.com/games/fps/destiny-2-hidden-net-location-goal/)
- - [Both lawyers in case use hallucinating AI, causing judge to throw up hands, bar them for 2 years, fine everybody, and call the whole thing off for 60 days](https://www.pcgamer.com/software/ai/both-lawyers-in-case-use-hallucinating-ai-causing-judge-to-throw-up-hands-bar-them-for-2-years-fine-everybody-and-call-the-whole-thing-off-for-60-days/)<!-- GAME:END -->
+ - [Alien Isolation 2 is a standout from Summer Game Fest, but not because of its alien](https://www.polygon.com/alien-isolation-2-game-preview-sega-sgf-2026/)
+ - [Critical Role star reveals why Percy takes charge in The Legend of Vox Machina&#39;s heist episode](https://www.polygon.com/critical-role-the-legend-of-vox-machina-season-4-de-rolo-eleven/)
+ - [Will Critical Role&#39;s The Legend of Vox Machina end after season 5?](https://www.polygon.com/legend-of-vox-machina-season-5-ending-cameos/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
