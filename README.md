@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Las Vegas-based TensorWave, which offers AMD-powered cloud infrastructure, raised a $350M Series B led by AMD and Magnetar at a $1.55B post-money valuation &lpar;Robbie Whelan/Wall Street Journal&rpar;](https://www.techmeme.com/260610/p19#a260610p19)
- - [Sources: SpaceX has drawn more than $250B of investor demand for what is poised to be the largest-ever IPO, far beyond the $75B SpaceX is aiming to raise &lpar;Reuters&rpar;](https://www.techmeme.com/260610/p18#a260610p18)
- - [Hackers used Meta AI to expose over 34,000 Instagram accounts, but Meta isn’t slowing down](https://www.androidauthority.com/meta-ai-plans-after-instagram-hack-3676164/)<!-- TECH:END -->
+ - [The three sets of earbuds I reach for](https://www.theverge.com/gadgets/947325/three-earbuds-i-consistently-use)
+ - [How to use Reduce Interruptions on iPhone and what it does](https://appleinsider.com/inside/ios-18/tips/how-to-use-reduce-interruptions-on-ios-18-and-what-it-does?utm_source=rss)
+ - [Best iPad Accessories &lpar;2026&rpar;: Keyboards, Cases, Styli](https://www.wired.com/gallery/best-ipad-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
