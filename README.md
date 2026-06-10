@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Donald Duck has five fingers in official art for Kingdom Hearts Collection, and that is definitely not right](https://www.pcgamer.com/software/ai/donald-duck-has-five-fingers-in-official-art-for-kingdom-hearts-collection-and-that-is-definitely-not-right/)
- - [A PS5 reveal game no-shows Summer Game Fest again, 11 years after its Kickstarter reveal](https://www.polygon.com/summer-game-fest-2026-little-devil-inside-no-shows/)
- - [I Wasn’t Expecting Dragon’s Dogma 2 DLC In The Nintendo Direct](https://kotaku.com/dragons-dogma-2-dlc-nintendo-switch-2-direct-2000704568)<!-- GAME:END -->
+ - [Dengeki Daisy anime officially confirmed by Aniplex and Studio Deen with 2027 release](https://www.polygon.com/aniplex-is-reviving-this-beloved-romance-manga-nearly-20-years-after-its-debut/)
+ - [Aliens: Fireteam Elite 2 preview: A flashy and entertaining co-op shooter](https://www.polygon.com/aliens-fireteam-elite-2-preview/)
+ - [Kingdom Hearts fans cry foul over AI-generated artwork claims](https://www.polygon.com/kingdom-hearts-collection-ai-art-square-enix/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
