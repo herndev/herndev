@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ever seen a sunrise like this It&#39;s like painting with light](http://9gag.com/gag/ajPpryG)
- - ⏩ [Intelligence and wisdom on display](http://9gag.com/gag/a7oQKdw)
- - 👉 [I could definitely be friends with this guy](http://9gag.com/gag/aoyXzW3)<!-- MEMES:END -->
+ - 💣 [Mom lore go crazy.](http://9gag.com/gag/a2veN0Z)
+ - ⏩ [Maybe because they can&#39;t bother ..](http://9gag.com/gag/a9yod7D)
+ - 👉 [And so it begins](http://9gag.com/gag/an76X7q)<!-- MEMES:END -->
 
 ---
 
