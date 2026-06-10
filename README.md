@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seattle City Council votes 9-0 to enact a one-year moratorium on new large data centers and study their impact; Mayor Katie Wilson is expected to sign the bill &lpar;Greg Kim/The Seattle Times&rpar;](https://www.techmeme.com/260609/p45#a260609p45)
- - [Best Bluetooth Speakers of 2026](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/)
- - [I tried Siri AI, and so far it actually works](https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc)<!-- TECH:END -->
+ - [Sources: SoftBank&#39;s talks with creditors to raise $6B through a margin loan backed by its OpenAI stake have stalled, weeks after it cut its target from $10B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260609/p47#a260609p47)
+ - [Stepful, an AI-powered online training platform for healthcare workers, raised a $55M Series C led by Oak HC/FT, bringing its total funding to $105M &lpar;Heather Landi/Fierce Healthcare&rpar;](https://www.techmeme.com/260609/p46#a260609p46)
+ - [Seattle City Council votes 9-0 to enact a one-year moratorium on new large data centers and study their impact; Mayor Katie Wilson is expected to sign the bill &lpar;Greg Kim/The Seattle Times&rpar;](https://www.techmeme.com/260609/p45#a260609p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
