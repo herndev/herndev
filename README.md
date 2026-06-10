@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom lore go crazy.](http://9gag.com/gag/a2veN0Z)
- - ⏩ [She got me fresh produce, I got a happy heart](http://9gag.com/gag/aO8wqpM)
- - 👉 [Cartoon logic](http://9gag.com/gag/amo30N6)<!-- MEMES:END -->
+ - 💣 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
+ - ⏩ [Road rage karma attack](http://9gag.com/gag/a1m9emP)
+ - 👉 [Mom lore go crazy.](http://9gag.com/gag/a2veN0Z)<!-- MEMES:END -->
 
 ---
 
