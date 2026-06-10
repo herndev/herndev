@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She got me fresh produce, I got a happy heart](http://9gag.com/gag/aO8wqpM)
- - ⏩ [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
- - 👉 [Cartoon logic](http://9gag.com/gag/amo30N6)<!-- MEMES:END -->
+ - 💣 [Someone finally snapped](http://9gag.com/gag/abA75RE)
+ - ⏩ [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)
+ - 👉 [Bittersweet](http://9gag.com/gag/aD2yw8O)<!-- MEMES:END -->
 
 ---
 
