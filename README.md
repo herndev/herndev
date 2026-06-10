@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
- - ⏩ [Maybe because they can&#39;t bother ..](http://9gag.com/gag/a9yod7D)
- - 👉 [And so it begins](http://9gag.com/gag/an76X7q)<!-- MEMES:END -->
+ - 💣 [Mom lore go crazy.](http://9gag.com/gag/a2veN0Z)
+ - ⏩ [She got me fresh produce, I got a happy heart](http://9gag.com/gag/aO8wqpM)
+ - 👉 [Cartoon logic](http://9gag.com/gag/amo30N6)<!-- MEMES:END -->
 
 ---
 
