@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fable won’t answer basic biology questions](https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions)
- - [OpenAI and Visa partner to let AI agents make purchases online after users give their permission and to explore enterprise applications for AI-driven payments &lpar;Paige Smith/Bloomberg&rpar;](https://www.techmeme.com/260610/p50#a260610p50)
- - [The Best USB-C Cables &lpar;2026&rpar;: for Smartphones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)<!-- TECH:END -->
+ - [Chromecast with Google TV remote acting up? It isn’t just you](https://www.androidauthority.com/chromecast-remote-drop-connection-3676547/)
+ - [Dario Amodei says frontier models should face mandatory third-party testing for cyber, bio, and autonomy risks, in addition to overall transparency requirements &lpar;Dario Amodei/@darioamodei&rpar;](https://www.techmeme.com/260610/p52#a260610p52)
+ - [iOS 27 Feels Like an Empty Update on Older iPhones](https://www.cnet.com/tech/services-and-software/ios-27-feels-like-an-empty-update-on-older-iphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
