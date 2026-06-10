@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Plus Extra June 2026 game catalog additions announced](https://www.polygon.com/playstation-plus-game-catalog-june-2026-final-fantasy/)
- - [All 26 new catalysts in Destiny 2&#39;s final update](https://www.pcgamer.com/games/fps/destiny-2-new-catalysts-monument-of-triumph/)
- - [Minecraft Dungeons II Blows the Doors of the ARPG Wide Open](https://news.xbox.com/en-us/2026/06/10/minecraft-dungeons-2-arpg-details-demo-xbox-games-showcase-2026/)<!-- GAME:END -->
+ - [This Is The First Time I’ve Felt Like The New Fable Is A Real Game](https://kotaku.com/this-is-the-first-time-ive-felt-like-the-new-fable-is-a-real-game-2000704966)
+ - [Netflix&#39;s War Machine is officially one of its biggest movies of all time](https://www.polygon.com/netflix-war-machine-biggest-movies-all-time/)
+ - [The 10 best comic book reprints in MTG&#39;s Marvel Super Heroes set](https://www.polygon.com/mtg-best-marvel-cards-magic-the-gathering-super-heroes/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
