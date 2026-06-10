@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chromecast with Google TV remote acting up? It isn’t just you](https://www.androidauthority.com/chromecast-remote-drop-connection-3676547/)
- - [Dario Amodei says frontier models should face mandatory third-party testing for cyber, bio, and autonomy risks, in addition to overall transparency requirements &lpar;Dario Amodei/@darioamodei&rpar;](https://www.techmeme.com/260610/p52#a260610p52)
- - [iOS 27 Feels Like an Empty Update on Older iPhones](https://www.cnet.com/tech/services-and-software/ios-27-feels-like-an-empty-update-on-older-iphones/)<!-- TECH:END -->
+ - [Oracle reports Q4 revenue up 21% YoY to $19.18B, vs. $19.1B est., and expects to raise ~$40B through a combination of debt and equity financing in FY 2027 &lpar;Juby Babu/Reuters&rpar;](https://www.techmeme.com/260610/p54#a260610p54)
+ - [Trump Risks Key Surveillance Authority Over ‘Unqualified’ Spy-Chief Pick](https://www.wired.com/story/trump-risks-key-surveillance-authority-over-unqualified-spy-chief-pick/)
+ - [Having trouble with Strava? Here’s what’s going on](https://www.androidauthority.com/strava-experiencing-outage-3676560/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
