@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sam Altman told staff that OpenAI is expected to go public &quot;within the next year&quot; and OpenAI plans a tender offer &quot;very soon&quot; at a $687.69 share price &lpar;Stephanie Palazzolo/The Information&rpar;](https://www.techmeme.com/260610/p43#a260610p43)
- - [Anthropic secretly limiting Claude&#39;s usefulness for LLM development strengthens the argument that Anthropic is using AI safety to justify monopolistic behavior &lpar;Dean W. Ball/@deanwball&rpar;](https://www.techmeme.com/260610/p42#a260610p42)
- - [Dario Amodei says he doesn&#39;t know what role Claude played in a missile strike on an Iranian school, and its use in this instance didn&#39;t violate Anthropic&#39;s ToS &lpar;Bloomberg&rpar;](https://www.techmeme.com/260610/p41#a260610p41)<!-- TECH:END -->
+ - [Cybersecurity researchers complain that Claude Fable&#39;s guardrails are too strict, rejecting &quot;innocuous tasks&quot; like reading blog posts or performing code reviews &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](https://www.techmeme.com/260610/p49#a260610p49)
+ - [Microsoft, like, totally gets why students are booing AI-pilled graduation speakers](https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft)
+ - [The future of AI regulation is courting the strangest, most anxious bedfellows](https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
