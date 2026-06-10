@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bittersweet](http://9gag.com/gag/aD2yw8O)
- - ⏩ [Kitty Kat](http://9gag.com/gag/agmW3bg)
- - 👉 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)<!-- MEMES:END -->
+ - 💣 [Ever seen a sunrise like this It&#39;s like painting with light](http://9gag.com/gag/ajPpryG)
+ - ⏩ [Intelligence and wisdom on display](http://9gag.com/gag/a7oQKdw)
+ - 👉 [I could definitely be friends with this guy](http://9gag.com/gag/aoyXzW3)<!-- MEMES:END -->
 
 ---
 
