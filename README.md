@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft&#39;s Xbox division is planning major layoffs next month and significant budget cuts for marketing and some other areas &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/260610/p57#a260610p57)
- - [Xbox warns of a &amp;#8216;reset&amp;#8217; as it prepares for layoffs](https://www.theverge.com/games/948142/microsoft-xbox-layoffs-reset-asha-sharma)
- - [Lenovo’s rugged ThinkTab X11 is finally available in the US](https://www.androidauthority.com/lenovo-thinktab-x11-on-sale-3676566/)<!-- TECH:END -->
+ - [CISA shortens the deadline for US agencies to fix the most critical vulnerabilities in their networks to three days, citing hackers&#39; use of AI &lpar;Raphael Satter/Reuters&rpar;](https://www.techmeme.com/260610/p59#a260610p59)
+ - [Nearly a million passports and photo IDs were left unprotected on the public internet](https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal)
+ - [A court just held Google responsible for AI Overviews errors — here’s Google’s response](https://www.androidauthority.com/ai-overviews-errors-3676591/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
