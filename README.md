@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cybersecurity researchers complain that Claude Fable&#39;s guardrails are too strict, rejecting &quot;innocuous tasks&quot; like reading blog posts or performing code reviews &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](https://www.techmeme.com/260610/p49#a260610p49)
- - [Microsoft, like, totally gets why students are booing AI-pilled graduation speakers](https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft)
- - [The future of AI regulation is courting the strangest, most anxious bedfellows](https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms)<!-- TECH:END -->
+ - [Fable won’t answer basic biology questions](https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions)
+ - [OpenAI and Visa partner to let AI agents make purchases online after users give their permission and to explore enterprise applications for AI-driven payments &lpar;Paige Smith/Bloomberg&rpar;](https://www.techmeme.com/260610/p50#a260610p50)
+ - [The Best USB-C Cables &lpar;2026&rpar;: for Smartphones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
