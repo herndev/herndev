@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prayers do come true](http://9gag.com/gag/avyNZPM)
- - ⏩ [Definition of idiot](http://9gag.com/gag/aLnxK2x)
- - 👉 [Someone finally snapped](http://9gag.com/gag/abA75RE)<!-- MEMES:END -->
+ - 💣 [Bad Luck indeed](http://9gag.com/gag/a4PvKDw)
+ - ⏩ [Intelligence and wisdom on display](http://9gag.com/gag/a7oQKdw)
+ - 👉 [Ever seen a sunrise like this It&#39;s like painting with light](http://9gag.com/gag/ajPpryG)<!-- MEMES:END -->
 
 ---
 
