@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Road rage karma attack](http://9gag.com/gag/a1m9emP)
+ - 💣 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
  - ⏩ [Maybe because they can&#39;t bother ..](http://9gag.com/gag/a9yod7D)
- - 👉 [Prayers do come true](http://9gag.com/gag/avyNZPM)<!-- MEMES:END -->
+ - 👉 [And so it begins](http://9gag.com/gag/an76X7q)<!-- MEMES:END -->
 
 ---
 
