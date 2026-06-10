@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;An evolved game of cat and mouse:&#39; Alien: Isolation 2 leads on taking the alien outside, the good kind of AI, and why a sequel took so long](https://www.pcgamer.com/games/horror/an-evolved-game-of-cat-and-mouse-alien-isolation-2-leads-on-taking-the-alien-outside-the-good-kind-of-ai-and-why-a-sequel-took-so-long/)
- - [How Street Fighter 6 Landed Tifa And Why She’s Not The Start Of A Flood Of New Guest Characters](https://kotaku.com/how-street-fighter-6-landed-tifa-and-why-shes-not-the-start-of-a-flood-of-new-guest-characters-2000704984)
- - [Are these real posts from the r/skyrimmods subreddit, or did I make them up? Take our newest and rudest quiz!](https://www.pcgamer.com/games/are-these-real-posts-from-the-r-skyrimmods-subreddit-or-did-i-make-them-up-take-our-newest-and-rudest-quiz/)<!-- GAME:END -->
+ - [Airbender creator says AAA Avatar RPG wasn’t ‘canceled,’ promises news in July](https://www.polygon.com/airbender-creator-says-aaa-avatar-game-not-canceled/)
+ - [Xbox Will Reportedly Undergo Major Layoffs Next Month](https://kotaku.com/xbox-reportedly-major-layoffs-next-month-2000705023)
+ - [Next 100 Days: XBOX Reset](https://news.xbox.com/en-us/2026/06/10/next-100-days-xbox-reset/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
