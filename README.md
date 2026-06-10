@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank&#39;s talks with creditors to raise $6B through a margin loan backed by its OpenAI stake have stalled, weeks after it cut its target from $10B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260609/p47#a260609p47)
- - [Stepful, an AI-powered online training platform for healthcare workers, raised a $55M Series C led by Oak HC/FT, bringing its total funding to $105M &lpar;Heather Landi/Fierce Healthcare&rpar;](https://www.techmeme.com/260609/p46#a260609p46)
- - [Seattle City Council votes 9-0 to enact a one-year moratorium on new large data centers and study their impact; Mayor Katie Wilson is expected to sign the bill &lpar;Greg Kim/The Seattle Times&rpar;](https://www.techmeme.com/260609/p45#a260609p45)<!-- TECH:END -->
+ - [The EU warns that AI-boosted chemical synthesis is helping European drug gangs develop new &quot;designer&quot; drug precursors that evade existing product blacklists &lpar;Michael Peel/Financial Times&rpar;](https://www.techmeme.com/260609/p49#a260609p49)
+ - [Edge Markets, which provides banking tools for gambling and prediction markets, including real-time payments on Kalshi, raised a $29.2M Series A led by CoinFund &lpar;Davis Giangiulio/CNBC&rpar;](https://www.techmeme.com/260609/p48#a260609p48)
+ - [Sources: SoftBank&#39;s talks with creditors to raise $6B through a margin loan backed by its OpenAI stake have stalled, weeks after it cut its target from $10B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260609/p47#a260609p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
