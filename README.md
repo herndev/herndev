@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Canvas helped Paris Hilton turn an idea into an app, and she didn’t write a line of code](https://www.androidauthority.com/paris-hilton-gemini-canvas-3676105/)
- - [Meta now wants to use your activity from other websites to personalize its AI](https://www.androidauthority.com/meta-activity-external-apps-websites-personalize-ai-home-feeds-3676116/)
- - [Buying a burner phone in the US could soon become much harder](https://www.androidauthority.com/fcc-killing-burner-phones-3676092/)<!-- TECH:END -->
+ - [Las Vegas-based TensorWave, which offers AMD-powered cloud infrastructure, raised a $350M Series B led by AMD and Magnetar at a $1.55B post-money valuation &lpar;Robbie Whelan/Wall Street Journal&rpar;](https://www.techmeme.com/260610/p19#a260610p19)
+ - [Sources: SpaceX has drawn more than $250B of investor demand for what is poised to be the largest-ever IPO, far beyond the $75B SpaceX is aiming to raise &lpar;Reuters&rpar;](https://www.techmeme.com/260610/p18#a260610p18)
+ - [Hackers used Meta AI to expose over 34,000 Instagram accounts, but Meta isn’t slowing down](https://www.androidauthority.com/meta-ai-plans-after-instagram-hack-3676164/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
