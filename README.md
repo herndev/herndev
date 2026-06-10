@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Firefox is offering unlimited VPN usage for the entire summer](https://www.androidauthority.com/firefox-unlimited-vpn-bandwidth-summer-3676087/)
- - [Microsoft&#39;s June 2026 Patch Tuesday fixes a record ~200 Windows security flaws, nearly three dozen of them critical, amid growing use of AI to find bugs &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/260610/p9#a260610p9)
- - [The crackdown on online scam centers in Cambodia is leading some gangs to relocate to Sri Lanka, where authorities say they have arrested 1,000+ people in 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260610/p8#a260610p8)<!-- TECH:END -->
+ - [Gemini Canvas helped Paris Hilton turn an idea into an app, and she didn’t write a line of code](https://www.androidauthority.com/paris-hilton-gemini-canvas-3676105/)
+ - [Meta now wants to use your activity from other websites to personalize its AI](https://www.androidauthority.com/meta-activity-external-apps-websites-personalize-ai-home-feeds-3676116/)
+ - [Buying a burner phone in the US could soon become much harder](https://www.androidauthority.com/fcc-killing-burner-phones-3676092/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
