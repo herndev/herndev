@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alien Isolation 2 is a standout from Summer Game Fest, but not because of its alien](https://www.polygon.com/alien-isolation-2-game-preview-sega-sgf-2026/)
- - [Critical Role star reveals why Percy takes charge in The Legend of Vox Machina&#39;s heist episode](https://www.polygon.com/critical-role-the-legend-of-vox-machina-season-4-de-rolo-eleven/)
- - [Will Critical Role&#39;s The Legend of Vox Machina end after season 5?](https://www.polygon.com/legend-of-vox-machina-season-5-ending-cameos/)<!-- GAME:END -->
+ - [PlayStation Plus Extra June 2026 game catalog additions announced](https://www.polygon.com/playstation-plus-game-catalog-june-2026-final-fantasy/)
+ - [All 26 new catalysts in Destiny 2&#39;s final update](https://www.pcgamer.com/games/fps/destiny-2-new-catalysts-monument-of-triumph/)
+ - [Minecraft Dungeons II Blows the Doors of the ARPG Wide Open](https://news.xbox.com/en-us/2026/06/10/minecraft-dungeons-2-arpg-details-demo-xbox-games-showcase-2026/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
