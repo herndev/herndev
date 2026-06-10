@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H&#39;s best $899 MacBook Air deal has been extended, but supply is limited](https://appleinsider.com/articles/26/06/09/bhs-best-899-macbook-air-deal-has-been-extended-but-supply-is-limited?utm_source=rss)
- - [ServiceNow says attackers exploited a flaw, patched on June 5, that let unauthenticated users query data from customer instances, but gives few other details &lpar;Lawrence Abrams/BleepingComputer&rpar;](https://www.techmeme.com/260609/p43#a260609p43)
- - [Sources: SpaceX aims to launch orbital AI computing tests by late 2027 and has requested permission from regulators to launch up to 1M data-center satellites &lpar;Akash Sriram/Reuters&rpar;](https://www.techmeme.com/260609/p42#a260609p42)<!-- TECH:END -->
+ - [I tried Siri AI, and so far it actually works](https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc)
+ - [Hands on with AirPods EQ settings in iOS 27](https://appleinsider.com/inside/airpods/tips/hands-on-with-airpods-eq-settings-in-ios-27?utm_source=rss)
+ - [CoreWeave founders have sold $2.3B in stock since the company&#39;s lockup period expired in August after a March 2025 IPO, reducing their combined holdings by ~25% &lpar;Ella Feldman/Bloomberg&rpar;](https://www.techmeme.com/260609/p44#a260609p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
