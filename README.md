@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Airbender creator says AAA Avatar RPG wasn’t ‘canceled,’ promises news in July](https://www.polygon.com/airbender-creator-says-aaa-avatar-game-not-canceled/)
- - [Xbox Will Reportedly Undergo Major Layoffs Next Month](https://kotaku.com/xbox-reportedly-major-layoffs-next-month-2000705023)
- - [Next 100 Days: XBOX Reset](https://news.xbox.com/en-us/2026/06/10/next-100-days-xbox-reset/)<!-- GAME:END -->
+ - [This Cannot Continue](https://kotaku.com/this-cannot-continue-xbox-layoffs-2000705049)
+ - [Jason Momoa drops out of the Helldivers movie](https://www.pcgamer.com/movies-tv/jason-momoa-drops-out-of-the-helldivers-movie/)
+ - [Once again players are right to suspect AI was used in a game, once again a dev apologizes for using AI in their game](https://www.pcgamer.com/software/ai/once-again-players-are-right-to-suspect-ai-was-used-in-a-game-once-again-a-dev-apologizes-for-using-ai-in-their-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
