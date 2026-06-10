@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad Luck indeed](http://9gag.com/gag/a4PvKDw)
- - ⏩ [Intelligence and wisdom on display](http://9gag.com/gag/a7oQKdw)
- - 👉 [Ever seen a sunrise like this It&#39;s like painting with light](http://9gag.com/gag/ajPpryG)<!-- MEMES:END -->
+ - 💣 [Bittersweet](http://9gag.com/gag/aD2yw8O)
+ - ⏩ [Kitty Kat](http://9gag.com/gag/agmW3bg)
+ - 👉 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)<!-- MEMES:END -->
 
 ---
 
