@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom lore go crazy.](http://9gag.com/gag/a2veN0Z)
- - ⏩ [Maybe because they can&#39;t bother ..](http://9gag.com/gag/a9yod7D)
- - 👉 [And so it begins](http://9gag.com/gag/an76X7q)<!-- MEMES:END -->
+ - 💣 [Maybe because they can&#39;t bother ..](http://9gag.com/gag/a9yod7D)
+ - ⏩ [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)
+ - 👉 [Found this on FB. Hope its true](http://9gag.com/gag/ae9L3ob)<!-- MEMES:END -->
 
 ---
 
