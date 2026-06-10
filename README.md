@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kitty Kat](http://9gag.com/gag/agmW3bg)
- - ⏩ [Someone finally snapped](http://9gag.com/gag/abA75RE)
- - 👉 [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)<!-- MEMES:END -->
+ - 💣 [Prayers do come true](http://9gag.com/gag/avyNZPM)
+ - ⏩ [Definition of idiot](http://9gag.com/gag/aLnxK2x)
+ - 👉 [Someone finally snapped](http://9gag.com/gag/abA75RE)<!-- MEMES:END -->
 
 ---
 
