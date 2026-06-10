@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Is The First Time I’ve Felt Like The New Fable Is A Real Game](https://kotaku.com/this-is-the-first-time-ive-felt-like-the-new-fable-is-a-real-game-2000704966)
- - [Netflix&#39;s War Machine is officially one of its biggest movies of all time](https://www.polygon.com/netflix-war-machine-biggest-movies-all-time/)
- - [The 10 best comic book reprints in MTG&#39;s Marvel Super Heroes set](https://www.polygon.com/mtg-best-marvel-cards-magic-the-gathering-super-heroes/)<!-- GAME:END -->
+ - [Are these real posts from the r/skyrimmods subreddit, or did I make them up? Take our newest and rudest quiz!](https://www.pcgamer.com/games/are-these-real-posts-from-the-r-skyrimmods-subreddit-or-did-i-make-them-up-take-our-newest-and-rudest-quiz/)
+ - [Dragon&#39;s Dogma 2 gets first of 2 major updates ahead of Dark Arisen DLC](https://www.polygon.com/dragons-dogma-2-june-2026-update-fast-travel-fix/)
+ - [Star Wars Lego, Lawsuits, And Leaked Body Cam Footage: The Entire Reckless Ben Vs. Bricks &amp; Minifigs Drama So Far](https://kotaku.com/reckless-ben-lego-star-wars-bricks-minifigs-mormon-mafia-2000702999)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
