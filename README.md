@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CISA shortens the deadline for US agencies to fix the most critical vulnerabilities in their networks to three days, citing hackers&#39; use of AI &lpar;Raphael Satter/Reuters&rpar;](https://www.techmeme.com/260610/p59#a260610p59)
- - [Nearly a million passports and photo IDs were left unprotected on the public internet](https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal)
- - [A court just held Google responsible for AI Overviews errors — here’s Google’s response](https://www.androidauthority.com/ai-overviews-errors-3676591/)<!-- TECH:END -->
+ - [Framework delays its first Laptop 13 Pro shipments by a month](https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august)
+ - [YouTube rolls out a new in-app messaging system for sharing videos and having 1:1 conversations; it discontinued its previous Messages feature in 2019 &lpar;Abner Li/9to5Google&rpar;](https://www.techmeme.com/260610/p61#a260610p61)
+ - [Prominent leaker may see default ruling reversed in Apple lawsuit](https://appleinsider.com/articles/26/06/10/prominent-leaker-may-see-default-ruling-reversed-in-apple-lawsuit?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
