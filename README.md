@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
- - ⏩ [Cartoon logic](http://9gag.com/gag/amo30N6)
- - 👉 [Happy Meme Day! Let&#39;s celebrate this 6.9 with 9GAG as we unveil the Top 9 Memes of the last year!](http://9gag.com/gag/azxnbmB)<!-- MEMES:END -->
+ - 💣 [She got me fresh produce, I got a happy heart](http://9gag.com/gag/aO8wqpM)
+ - ⏩ [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
+ - 👉 [Cartoon logic](http://9gag.com/gag/amo30N6)<!-- MEMES:END -->
 
 ---
 
