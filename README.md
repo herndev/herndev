@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tried Siri AI, and so far it actually works](https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc)
- - [Hands on with AirPods EQ settings in iOS 27](https://appleinsider.com/inside/airpods/tips/hands-on-with-airpods-eq-settings-in-ios-27?utm_source=rss)
- - [CoreWeave founders have sold $2.3B in stock since the company&#39;s lockup period expired in August after a March 2025 IPO, reducing their combined holdings by ~25% &lpar;Ella Feldman/Bloomberg&rpar;](https://www.techmeme.com/260609/p44#a260609p44)<!-- TECH:END -->
+ - [Seattle City Council votes 9-0 to enact a one-year moratorium on new large data centers and study their impact; Mayor Katie Wilson is expected to sign the bill &lpar;Greg Kim/The Seattle Times&rpar;](https://www.techmeme.com/260609/p45#a260609p45)
+ - [Best Bluetooth Speakers of 2026](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/)
+ - [I tried Siri AI, and so far it actually works](https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
