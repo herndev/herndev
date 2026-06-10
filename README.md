@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe because they can&#39;t bother ..](http://9gag.com/gag/a9yod7D)
- - ⏩ [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)
- - 👉 [Found this on FB. Hope its true](http://9gag.com/gag/ae9L3ob)<!-- MEMES:END -->
+ - 💣 [Women, am I right?](http://9gag.com/gag/a4PvKBy)
+ - ⏩ [And so it begins](http://9gag.com/gag/an76X7q)
+ - 👉 [Bittersweet](http://9gag.com/gag/aD2yw8O)<!-- MEMES:END -->
 
 ---
 
