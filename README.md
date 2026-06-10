@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women, am I right?](http://9gag.com/gag/a4PvKBy)
- - ⏩ [And so it begins](http://9gag.com/gag/an76X7q)
- - 👉 [Bittersweet](http://9gag.com/gag/aD2yw8O)<!-- MEMES:END -->
+ - 💣 [Road rage karma attack](http://9gag.com/gag/a1m9emP)
+ - ⏩ [Maybe because they can&#39;t bother ..](http://9gag.com/gag/a9yod7D)
+ - 👉 [Prayers do come true](http://9gag.com/gag/avyNZPM)<!-- MEMES:END -->
 
 ---
 
