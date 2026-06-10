@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU warns that AI-boosted chemical synthesis is helping European drug gangs develop new &quot;designer&quot; drug precursors that evade existing product blacklists &lpar;Michael Peel/Financial Times&rpar;](https://www.techmeme.com/260609/p49#a260609p49)
- - [Edge Markets, which provides banking tools for gambling and prediction markets, including real-time payments on Kalshi, raised a $29.2M Series A led by CoinFund &lpar;Davis Giangiulio/CNBC&rpar;](https://www.techmeme.com/260609/p48#a260609p48)
- - [Sources: SoftBank&#39;s talks with creditors to raise $6B through a margin loan backed by its OpenAI stake have stalled, weeks after it cut its target from $10B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260609/p47#a260609p47)<!-- TECH:END -->
+ - [Firefox is offering unlimited VPN usage for the entire summer](https://www.androidauthority.com/firefox-unlimited-vpn-bandwidth-summer-3676087/)
+ - [Microsoft&#39;s June 2026 Patch Tuesday fixes a record ~200 Windows security flaws, nearly three dozen of them critical, amid growing use of AI to find bugs &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/260610/p9#a260610p9)
+ - [The crackdown on online scam centers in Cambodia is leading some gangs to relocate to Sri Lanka, where authorities say they have arrested 1,000+ people in 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260610/p8#a260610p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
