@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The three sets of earbuds I reach for](https://www.theverge.com/gadgets/947325/three-earbuds-i-consistently-use)
- - [How to use Reduce Interruptions on iPhone and what it does](https://appleinsider.com/inside/ios-18/tips/how-to-use-reduce-interruptions-on-ios-18-and-what-it-does?utm_source=rss)
- - [Best iPad Accessories &lpar;2026&rpar;: Keyboards, Cases, Styli](https://www.wired.com/gallery/best-ipad-accessories/)<!-- TECH:END -->
+ - [AT&amp;T is offering 24 hours of unlimited internet for $3, even to T-Mobile and Verizon customers](https://www.androidauthority.com/att-unlimited-day-pass-ipad-t-mobile-verizon-3675861/)
+ - [15 years later, the PS2 gets a Minecraft port, and it actually hits 30fps](https://www.androidauthority.com/miecraft-on-sony-ps2-emulation-3676285/)
+ - [China Opens World’s First Wind-Powered Underwater Data Center](https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
