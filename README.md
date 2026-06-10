@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T is offering 24 hours of unlimited internet for $3, even to T-Mobile and Verizon customers](https://www.androidauthority.com/att-unlimited-day-pass-ipad-t-mobile-verizon-3675861/)
- - [15 years later, the PS2 gets a Minecraft port, and it actually hits 30fps](https://www.androidauthority.com/miecraft-on-sony-ps2-emulation-3676285/)
- - [China Opens World’s First Wind-Powered Underwater Data Center](https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/)<!-- TECH:END -->
+ - [Sources: Sam Altman told staff that OpenAI is expected to go public &quot;within the next year&quot; and OpenAI plans a tender offer &quot;very soon&quot; at a $687.69 share price &lpar;Stephanie Palazzolo/The Information&rpar;](https://www.techmeme.com/260610/p43#a260610p43)
+ - [Anthropic secretly limiting Claude&#39;s usefulness for LLM development strengthens the argument that Anthropic is using AI safety to justify monopolistic behavior &lpar;Dean W. Ball/@deanwball&rpar;](https://www.techmeme.com/260610/p42#a260610p42)
+ - [Dario Amodei says he doesn&#39;t know what role Claude played in a missile strike on an Iranian school, and its use in this instance didn&#39;t violate Anthropic&#39;s ToS &lpar;Bloomberg&rpar;](https://www.techmeme.com/260610/p41#a260610p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
