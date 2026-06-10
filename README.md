@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox CEO Warns About Next-Gen Console Gaming’s Cost Crisis: ‘We Will Start To See Radically Different Business Models’](https://kotaku.com/xbox-ceo-warns-about-next-gen-console-gamings-cost-crisis-we-will-start-to-see-radically-different-business-models-2000704611)
- - [Kingdom Hearts Fans Think They’ve Unraveled The Bizarre Mystery Surrounding Alleged AI-Assisted Box Art](https://kotaku.com/kingdom-hearts-fans-think-theyve-unraveled-the-bizarre-mystery-surrounding-alleged-ai-assisted-box-art-2000704609)
- - [Dengeki Daisy anime officially confirmed by Aniplex and Studio Deen with 2027 release](https://www.polygon.com/aniplex-is-reviving-this-beloved-romance-manga-nearly-20-years-after-its-debut/)<!-- GAME:END -->
+ - [I already like the new survival horror Hellraiser game more than the movie](https://www.pcgamer.com/games/horror/i-already-like-the-new-survival-horror-hellraiser-game-more-than-the-movie/)
+ - [How to score a goal in the hidden net in Destiny 2](https://www.pcgamer.com/games/fps/destiny-2-hidden-net-location-goal/)
+ - [Both lawyers in case use hallucinating AI, causing judge to throw up hands, bar them for 2 years, fine everybody, and call the whole thing off for 60 days](https://www.pcgamer.com/software/ai/both-lawyers-in-case-use-hallucinating-ai-causing-judge-to-throw-up-hands-bar-them-for-2-years-fine-everybody-and-call-the-whole-thing-off-for-60-days/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
