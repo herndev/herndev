@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [While you&#39;re waiting for Valheim 1.0, why not try this map that transforms it into a massive RPG?](https://www.pcgamer.com/games/survival-crafting/while-youre-waiting-for-valheim-1-0-why-not-try-this-map-that-transforms-it-into-a-massive-rpg/)
  - [This Cannot Continue](https://kotaku.com/this-cannot-continue-xbox-layoffs-2000705049)
- - [Jason Momoa drops out of the Helldivers movie](https://www.pcgamer.com/movies-tv/jason-momoa-drops-out-of-the-helldivers-movie/)
- - [Once again players are right to suspect AI was used in a game, once again a dev apologizes for using AI in their game](https://www.pcgamer.com/software/ai/once-again-players-are-right-to-suspect-ai-was-used-in-a-game-once-again-a-dev-apologizes-for-using-ai-in-their-game/)<!-- GAME:END -->
+ - [Jason Momoa drops out of the Helldivers movie](https://www.pcgamer.com/movies-tv/jason-momoa-drops-out-of-the-helldivers-movie/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
