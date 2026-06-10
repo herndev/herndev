@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dengeki Daisy anime officially confirmed by Aniplex and Studio Deen with 2027 release](https://www.polygon.com/aniplex-is-reviving-this-beloved-romance-manga-nearly-20-years-after-its-debut/)
- - [Aliens: Fireteam Elite 2 preview: A flashy and entertaining co-op shooter](https://www.polygon.com/aliens-fireteam-elite-2-preview/)
- - [Kingdom Hearts fans cry foul over AI-generated artwork claims](https://www.polygon.com/kingdom-hearts-collection-ai-art-square-enix/)<!-- GAME:END -->
+ - [Xbox CEO Warns About Next-Gen Console Gaming’s Cost Crisis: ‘We Will Start To See Radically Different Business Models’](https://kotaku.com/xbox-ceo-warns-about-next-gen-console-gamings-cost-crisis-we-will-start-to-see-radically-different-business-models-2000704611)
+ - [Kingdom Hearts Fans Think They’ve Unraveled The Bizarre Mystery Surrounding Alleged AI-Assisted Box Art](https://kotaku.com/kingdom-hearts-fans-think-theyve-unraveled-the-bizarre-mystery-surrounding-alleged-ai-assisted-box-art-2000704609)
+ - [Dengeki Daisy anime officially confirmed by Aniplex and Studio Deen with 2027 release](https://www.polygon.com/aniplex-is-reviving-this-beloved-romance-manga-nearly-20-years-after-its-debut/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
