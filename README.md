@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe reports Q2 revenue up 13% YoY to $6.62B, vs. $6.46B est., and raises its annual forecasts; CFO Dan Durn is leaving for Marvell; ADBE drops 5%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](https://www.techmeme.com/260611/p46#a260611p46)
- - [Meet the OpenAI Engineer Leading ChatGPT&#39;s Biggest Transformation Yet](https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/)
- - [Have Pokémon Go players been unwittingly training military combat drones?](https://www.androidauthority.com/pokemon-go-drone-training-3676895/)<!-- TECH:END -->
+ - [CrossOver, a Windows to Mac gaming tool, goes Apple Silicon only](https://appleinsider.com/articles/26/06/11/crossover-a-windows-to-mac-gaming-tool-goes-apple-silicon-only?utm_source=rss)
+ - [Amazon&amp;#8217;s Echo Hub gets a customizable new look and Ring&amp;#8217;s AI features](https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign)
+ - [Ted Cruz and Ron Wyden introduce the JAWBONE Act, which would let Americans sue federal officials who try to coerce broadcasters or platforms to censor speech &lpar;Jon Brodkin/Ars Technica&rpar;](https://www.techmeme.com/260611/p48#a260611p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
