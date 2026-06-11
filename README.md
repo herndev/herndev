@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did I miss something?](http://9gag.com/gag/a4PvdMm)
- - ⏩ [Psss! Yo bro\u2026.. check this out\u2026..](http://9gag.com/gag/a5Q4P7L)
- - 👉 [Prayers do come true](http://9gag.com/gag/avyNZPM)<!-- MEMES:END -->
+ - 💣 [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)
+ - ⏩ [Quick..hide behind the car..die](http://9gag.com/gag/aNDNKpA)
+ - 👉 [Psss! Yo bro\u2026.. check this out\u2026..](http://9gag.com/gag/a5Q4P7L)<!-- MEMES:END -->
 
 ---
 
