@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework delays its first Laptop 13 Pro shipments by a month](https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august)
- - [YouTube rolls out a new in-app messaging system for sharing videos and having 1:1 conversations; it discontinued its previous Messages feature in 2019 &lpar;Abner Li/9to5Google&rpar;](https://www.techmeme.com/260610/p61#a260610p61)
- - [Prominent leaker may see default ruling reversed in Apple lawsuit](https://appleinsider.com/articles/26/06/10/prominent-leaker-may-see-default-ruling-reversed-in-apple-lawsuit?utm_source=rss)<!-- TECH:END -->
+ - [Bluesky is getting ‘communities’](https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit)
+ - [Canada introduces the Safe Social Media Act, a bill that would ban social media for children under 16 and establish safety standards for AI chatbots &lpar;Maria Cheng/Reuters&rpar;](https://www.techmeme.com/260610/p63#a260610p63)
+ - [Instagram expands Your Algorithm to its main feed, letting users choose topics they want to see, and is working to support requests for people, moods, and more &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260610/p62#a260610p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
