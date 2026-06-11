@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)
- - ⏩ [Road rage karma attack](http://9gag.com/gag/a1m9emP)
- - 👉 [Bittersweet](http://9gag.com/gag/aD2yw8O)<!-- MEMES:END -->
+ - 💣 [Prayers do come true](http://9gag.com/gag/avyNZPM)
+ - ⏩ [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)
+ - 👉 [Road rage karma attack](http://9gag.com/gag/a1m9emP)<!-- MEMES:END -->
 
 ---
 
