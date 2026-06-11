@@ -32,9 +32,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [While you&#39;re waiting for Valheim 1.0, why not try this map that transforms it into a massive RPG?](https://www.pcgamer.com/games/survival-crafting/while-youre-waiting-for-valheim-1-0-why-not-try-this-map-that-transforms-it-into-a-massive-rpg/)
- - [This Cannot Continue](https://kotaku.com/this-cannot-continue-xbox-layoffs-2000705049)
- - [Jason Momoa drops out of the Helldivers movie](https://www.pcgamer.com/movies-tv/jason-momoa-drops-out-of-the-helldivers-movie/)<!-- GAME:END -->
+ - [Your dad&#39;s favorite show might become a videogame](https://www.pcgamer.com/movies-tv/your-dads-favorite-show-might-become-a-videogame/)
+ - [Microsoft doesn&#39;t know what to do about the memory pricing crisis Microsoft is causing](https://www.pcgamer.com/software/platforms/microsoft-doesnt-know-what-to-do-about-the-memory-pricing-crisis-microsoft-is-causing/)
+ - [While you&#39;re waiting for Valheim 1.0, why not try this map that transforms it into a massive RPG?](https://www.pcgamer.com/games/survival-crafting/while-youre-waiting-for-valheim-1-0-why-not-try-this-map-that-transforms-it-into-a-massive-rpg/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
