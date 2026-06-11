@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess I need to pack my bags and move to Italy then](http://9gag.com/gag/a2veqwp)
- - ⏩ [F**k you motherf**ker you damn get the f**k out](http://9gag.com/gag/a6ZPLo9)
- - 👉 [When Your Furniture Asks for a Treasure Map](http://9gag.com/gag/azxnVnK)<!-- MEMES:END -->
+ - 💣 [Content creator at work](http://9gag.com/gag/aMVgrpM)
+ - ⏩ [Guess I need to pack my bags and move to Italy then](http://9gag.com/gag/a2veqwp)
+ - 👉 [F**k you motherf**ker you damn get the f**k out](http://9gag.com/gag/a6ZPLo9)<!-- MEMES:END -->
 
 ---
 
