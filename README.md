@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Enjoy prison, Karmelo!](http://9gag.com/gag/aO8wy86)
- - ⏩ [Being Alone In The Park Is A Crime .](http://9gag.com/gag/aAyjYEd)
- - 👉 [Road rage karma attack](http://9gag.com/gag/a1m9emP)<!-- MEMES:END -->
+ - 💣 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
+ - ⏩ [News from the front](http://9gag.com/gag/aKGRP7Q)
+ - 👉 [Caught off guard with that perplexed expression](http://9gag.com/gag/aGyXwo5)<!-- MEMES:END -->
 
 ---
 
