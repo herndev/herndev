@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring’s two-camera outdoor security bundle falls 50% in Amazon’s early sale](https://www.androidauthority.com/ring-floodlight-cam-plus-bundle-deal-3675992/)
- - [This 5-camera Blink Outdoor 4 bundle just crashed 65% to a record-low price](https://www.androidauthority.com/blink-outdoor-4-bundle-deal-3675690/)
- - [The FBI seizes 13 domains allegedly tied to fake consulting firms that sought information from US government and military employees for suspected Chinese agents &lpar;A.J. Vicens/Reuters&rpar;](https://www.techmeme.com/260610/p71#a260610p71)<!-- TECH:END -->
+ - [Sources: Alibaba replaces DingTalk CEO Chen Hang with Chen Yusen after an internal debate over the enterprise communication app&#39;s role in Alibaba&#39;s AI strategy &lpar;Bloomberg&rpar;](https://www.techmeme.com/260611/p5#a260611p5)
+ - [DiffusionGemma is Google’s fastest AI yet, but it comes with a big trade-off](https://www.androidauthority.com/google-diffusiongemma-3676609/)
+ - [Applied Materials opens a $500M chip equipment manufacturing campus in Singapore, making the city-state home to ~50% of its production capacity alongside the US &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](https://www.techmeme.com/260611/p4#a260611p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
