@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Product head Alex Benzer says Bluesky plans to add &quot;communities&quot; this year, smaller spaces to &quot;go deeper and hang out with people who care about the same stuff&quot; &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260610/p65#a260610p65)
- - [15 Horror Movies You Really Need to Stream on HBO Max](https://www.cnet.com/tech/services-and-software/best-horror-movies-on-hbo-max-june-2026/)
- - [Gemini Is Down? &#39;Majority of Users&#39; Should Be OK Now, Google Says](https://www.cnet.com/news-live/gemini-down-live-updates-google-workspaces-ai-errors/)<!-- TECH:END -->
+ - [Letter: Texas Governor Greg Abbott released regulatory recommendations for state lawmakers to ensure that data centers shoulder the costs of their growth &lpar;The Texas Tribune&rpar;](https://www.techmeme.com/260610/p67#a260610p67)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, June 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-june-11/)
+ - [Sources: OpenAI is considering drastically lowering its price for tokens in anticipation of similar cuts the company expects at Anthropic &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260610/p66#a260610p66)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
