@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Prime Day Apple deals start at just $14.99, save up to $300](https://appleinsider.com/articles/26/06/11/early-prime-day-apple-deals-start-at-just-1499-save-up-to-300?utm_source=rss)
- - [Polish lawmakers pass legislation imposing prison sentences of up to five years for &quot;trash streaming&quot; of violent crimes, gambling promotion, and more &lpar;Anna Wlodarczak-Semczuk/Reuters&rpar;](https://www.techmeme.com/260611/p43#a260611p43)
- - [Price hikes are coming for another big Android brand](https://www.androidauthority.com/huawei-price-hikes-3676860/)<!-- TECH:END -->
+ - [Poll reveals just how conflicted you feel about Google in the Gemini era](https://www.androidauthority.com/google-ecosystem-poll-results-3676885/)
+ - [Logitech’s awesome MX Master 3S mouse drops to under $100](https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal)
+ - [SpaceX raises $75B in the biggest-ever IPO, after selling 555.6M shares at $135 each, giving it a market value of $1.77T &lpar;Bailey Lipschultz/Bloomberg&rpar;](https://www.techmeme.com/260611/p44#a260611p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
