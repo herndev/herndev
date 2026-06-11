@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll reveals just how conflicted you feel about Google in the Gemini era](https://www.androidauthority.com/google-ecosystem-poll-results-3676885/)
- - [Logitech’s awesome MX Master 3S mouse drops to under $100](https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal)
- - [SpaceX raises $75B in the biggest-ever IPO, after selling 555.6M shares at $135 each, giving it a market value of $1.77T &lpar;Bailey Lipschultz/Bloomberg&rpar;](https://www.techmeme.com/260611/p44#a260611p44)<!-- TECH:END -->
+ - [Adobe reports Q2 revenue up 13% YoY to $6.62B, vs. $6.46B est., and raises its annual forecasts; CFO Dan Durn is leaving for Marvell; ADBE drops 5%+ after hours &lpar;Zaheer Kachwala/Reuters&rpar;](https://www.techmeme.com/260611/p46#a260611p46)
+ - [Meet the OpenAI Engineer Leading ChatGPT&#39;s Biggest Transformation Yet](https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/)
+ - [Have Pokémon Go players been unwittingly training military combat drones?](https://www.androidauthority.com/pokemon-go-drone-training-3676895/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
