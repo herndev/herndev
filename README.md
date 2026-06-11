@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Content creator at work](http://9gag.com/gag/aMVgrpM)
- - ⏩ [Guess I need to pack my bags and move to Italy then](http://9gag.com/gag/a2veqwp)
- - 👉 [F**k you motherf**ker you damn get the f**k out](http://9gag.com/gag/a6ZPLo9)<!-- MEMES:END -->
+ - 💣 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
+ - ⏩ [Bittersweet](http://9gag.com/gag/aD2yw8O)
+ - 👉 [Road rage karma attack](http://9gag.com/gag/a1m9emP)<!-- MEMES:END -->
 
 ---
 
