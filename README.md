@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky is getting ‘communities’](https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit)
- - [Canada introduces the Safe Social Media Act, a bill that would ban social media for children under 16 and establish safety standards for AI chatbots &lpar;Maria Cheng/Reuters&rpar;](https://www.techmeme.com/260610/p63#a260610p63)
- - [Instagram expands Your Algorithm to its main feed, letting users choose topics they want to see, and is working to support requests for people, moods, and more &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260610/p62#a260610p62)<!-- TECH:END -->
+ - [Product head Alex Benzer says Bluesky plans to add &quot;communities&quot; this year, smaller spaces to &quot;go deeper and hang out with people who care about the same stuff&quot; &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260610/p65#a260610p65)
+ - [15 Horror Movies You Really Need to Stream on HBO Max](https://www.cnet.com/tech/services-and-software/best-horror-movies-on-hbo-max-june-2026/)
+ - [Gemini Is Down? &#39;Majority of Users&#39; Should Be OK Now, Google Says](https://www.cnet.com/news-live/gemini-down-live-updates-google-workspaces-ai-errors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
