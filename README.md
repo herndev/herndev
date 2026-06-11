@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Road rage karma attack](http://9gag.com/gag/a1m9emP)
- - ⏩ [You got this](http://9gag.com/gag/a4PvLDv)
- - 👉 [Put your finger here](http://9gag.com/gag/a7oQyde)<!-- MEMES:END -->
+ - 💣 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
+ - ⏩ [Road rage karma attack](http://9gag.com/gag/a1m9emP)
+ - 👉 [Quick..hide behind the car..die](http://9gag.com/gag/aNDNKpA)<!-- MEMES:END -->
 
 ---
 
