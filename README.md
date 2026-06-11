@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prayers do come true](http://9gag.com/gag/avyNZPM)
+ - 💣 [Comment with memes](http://9gag.com/gag/aAyjrNd)
  - ⏩ [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)
- - 👉 [Road rage karma attack](http://9gag.com/gag/a1m9emP)<!-- MEMES:END -->
+ - 👉 [Prayers do come true](http://9gag.com/gag/avyNZPM)<!-- MEMES:END -->
 
 ---
 
