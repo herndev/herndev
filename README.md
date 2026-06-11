@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Comment with memes](http://9gag.com/gag/aAyjrNd)
- - ⏩ [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)
- - 👉 [Prayers do come true](http://9gag.com/gag/avyNZPM)<!-- MEMES:END -->
+ - 💣 [Caught off guard with that perplexed expression](http://9gag.com/gag/aGyXwo5)
+ - ⏩ [The Sagrada Fam\u00edlia, the largest cathedral ever built, was inaugurated today after 144 years of construction.](http://9gag.com/gag/ae9L0vQ)
+ - 👉 [When Your Boat Remembers It&#39;s Actually a Submarine](http://9gag.com/gag/awyw7Lr)<!-- MEMES:END -->
 
 ---
 
