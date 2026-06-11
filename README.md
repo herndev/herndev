@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s Echo Hub update finally makes smart home controls easier to manage](https://www.androidauthority.com/new-echo-hub-interface-3676972/)
  - [CrossOver, a Windows to Mac gaming tool, goes Apple Silicon only](https://appleinsider.com/articles/26/06/11/crossover-a-windows-to-mac-gaming-tool-goes-apple-silicon-only?utm_source=rss)
- - [Amazon&amp;#8217;s Echo Hub gets a customizable new look and Ring&amp;#8217;s AI features](https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign)
- - [Ted Cruz and Ron Wyden introduce the JAWBONE Act, which would let Americans sue federal officials who try to coerce broadcasters or platforms to censor speech &lpar;Jon Brodkin/Ars Technica&rpar;](https://www.techmeme.com/260611/p48#a260611p48)<!-- TECH:END -->
+ - [Amazon&amp;#8217;s Echo Hub gets a customizable new look and Ring&amp;#8217;s AI features](https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
