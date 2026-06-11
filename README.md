@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba stock fell ~6.5% and JD.com fell ~6% after China reprimanded e-commerce players over alleged false advertising during the &quot;618&quot; annual shopping festival &lpar;Bloomberg&rpar;](https://www.techmeme.com/260611/p9#a260611p9)
- - [Google&#39;s philanthropic arm, Google.org, commits $50M to help train 300K+ skilled trade workers across the US, amid a shortage of workers for AI projects &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/260611/p8#a260611p8)
- - [YouTube is introducing DMs &lpar;again&rpar;](https://www.theverge.com/streaming/948256/youtube-brings-back-private-messaging-feature-availability)<!-- TECH:END -->
+ - [iPhone Stolen Device Protection is thwarting prolific London thieves](https://appleinsider.com/articles/26/06/11/iphone-stolen-device-protection-is-thwarting-prolific-london-thieves?utm_source=rss)
+ - [Best Smart Chess Boards &lpar;2026&rpar;: Chessnut, Millennium](https://www.wired.com/story/best-smart-chess-boards/)
+ - [Signal Alums Reveal ‘Encrypted Spaces,’ a System for Making Private Collaboration Apps](https://www.wired.com/story/signal-alums-release-encrypted-spaces-a-new-system-for-building-private-collaboration-apps/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
