@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Caught off guard with that perplexed expression](http://9gag.com/gag/aGyXwo5)
- - ⏩ [The Sagrada Fam\u00edlia, the largest cathedral ever built, was inaugurated today after 144 years of construction.](http://9gag.com/gag/ae9L0vQ)
- - 👉 [When Your Boat Remembers It&#39;s Actually a Submarine](http://9gag.com/gag/awyw7Lr)<!-- MEMES:END -->
+ - 💣 [This pic is horror](http://9gag.com/gag/aD2ywGB)
+ - ⏩ [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
+ - 👉 [Road rage karma attack](http://9gag.com/gag/a1m9emP)<!-- MEMES:END -->
 
 ---
 
