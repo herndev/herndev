@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Stolen Device Protection is thwarting prolific London thieves](https://appleinsider.com/articles/26/06/11/iphone-stolen-device-protection-is-thwarting-prolific-london-thieves?utm_source=rss)
- - [Best Smart Chess Boards &lpar;2026&rpar;: Chessnut, Millennium](https://www.wired.com/story/best-smart-chess-boards/)
- - [Signal Alums Reveal ‘Encrypted Spaces,’ a System for Making Private Collaboration Apps](https://www.wired.com/story/signal-alums-release-encrypted-spaces-a-new-system-for-building-private-collaboration-apps/)<!-- TECH:END -->
+ - [Jeff Bezos&#39; Prometheus, which is building AI models for physical tasks, raised a $12B Series B at a $41B valuation, following a $6.2B Series A &lpar;Dan Primack/Axios&rpar;](https://www.techmeme.com/260611/p26#a260611p26)
+ - [Nvidia and Abridge, maker of an AI note-taking app for doctors, are training an AI model for clinical conversations using de-identified data and Nemotron models &lpar;Belle Lin/Wall Street Journal&rpar;](https://www.techmeme.com/260611/p25#a260611p25)
+ - [If you rely on RAID array software on Mac, it&#39;s time to check with your supplier](https://appleinsider.com/articles/26/06/11/if-you-rely-on-raid-array-software-on-mac-its-time-to-check-with-your-supplier?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
