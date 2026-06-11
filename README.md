@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo launches a $30 per month membership program called Waymo Premier, with perks including 10% cashback and five free ride cancellations per month &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260611/p34#a260611p34)
- - [Drug Sites Hijacked Spotify’s Search Ranking Through Fake Podcasts, Report Finds](https://www.wired.com/story/drug-sites-hijacked-spotifys-search-ranking-through-fake-podcasts-report-finds/)
- - [A warrantless wiretap law is about to expire — but surveillance networks aren’t actually ‘going dark’](https://www.theverge.com/tech/948451/fisa-702-reauthorization-vote-fails-congress-wiretapping-lapse)<!-- TECH:END -->
+ - [Roborock&amp;#8217;s Q10 S5 Plus robovac is over half off, matching its best price to date](https://www.theverge.com/gadgets/948529/roborock-q10-s5-plus-robot-vacuum-mop-deal-sale)
+ - [Gemini’s new natural language TV voice control finally starts rolling out, with TCL first in line](https://www.androidauthority.com/tcl-tv-gemini-voice-3676840/)
+ - [Amazon&amp;#8217;s data centers used 2.5 billion gallons of water last year](https://www.theverge.com/tech/948534/amazon-data-centers-water-use)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
