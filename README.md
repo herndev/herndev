@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Alibaba replaces DingTalk CEO Chen Hang with Chen Yusen after an internal debate over the enterprise communication app&#39;s role in Alibaba&#39;s AI strategy &lpar;Bloomberg&rpar;](https://www.techmeme.com/260611/p5#a260611p5)
- - [DiffusionGemma is Google’s fastest AI yet, but it comes with a big trade-off](https://www.androidauthority.com/google-diffusiongemma-3676609/)
- - [Applied Materials opens a $500M chip equipment manufacturing campus in Singapore, making the city-state home to ~50% of its production capacity alongside the US &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](https://www.techmeme.com/260611/p4#a260611p4)<!-- TECH:END -->
+ - [Deezer launches an AI music detector for other streaming services](https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple)
+ - [You don’t need to hand out your primary phone number anymore, thanks to Saily](https://www.androidauthority.com/saily-phone-numbers-feature-3676626/)
+ - [OpenAI could launch GPT 5.6 this month as a ‘meaningful improvement’ over GPT 5.5](https://www.androidauthority.com/openai-gpt-5-6-meaningful-improvement-3676631/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
