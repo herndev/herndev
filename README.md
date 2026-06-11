@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You got this](http://9gag.com/gag/a4PvLDv)
- - ⏩ [Road rage karma attack](http://9gag.com/gag/a1m9emP)
+ - 💣 [Road rage karma attack](http://9gag.com/gag/a1m9emP)
+ - ⏩ [You got this](http://9gag.com/gag/a4PvLDv)
  - 👉 [Put your finger here](http://9gag.com/gag/a7oQyde)<!-- MEMES:END -->
 
 ---
