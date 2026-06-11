@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)
- - ⏩ [Quick..hide behind the car..die](http://9gag.com/gag/aNDNKpA)
- - 👉 [Psss! Yo bro\u2026.. check this out\u2026..](http://9gag.com/gag/a5Q4P7L)<!-- MEMES:END -->
+ - 💣 [Guess I need to pack my bags and move to Italy then](http://9gag.com/gag/a2veqwp)
+ - ⏩ [F**k you motherf**ker you damn get the f**k out](http://9gag.com/gag/a6ZPLo9)
+ - 👉 [When Your Furniture Asks for a Treasure Map](http://9gag.com/gag/azxnVnK)<!-- MEMES:END -->
 
 ---
 
