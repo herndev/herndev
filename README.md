@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Letter: Texas Governor Greg Abbott released regulatory recommendations for state lawmakers to ensure that data centers shoulder the costs of their growth &lpar;The Texas Tribune&rpar;](https://www.techmeme.com/260610/p67#a260610p67)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, June 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-june-11/)
- - [Sources: OpenAI is considering drastically lowering its price for tokens in anticipation of similar cuts the company expects at Anthropic &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260610/p66#a260610p66)<!-- TECH:END -->
+ - [Ring’s two-camera outdoor security bundle falls 50% in Amazon’s early sale](https://www.androidauthority.com/ring-floodlight-cam-plus-bundle-deal-3675992/)
+ - [This 5-camera Blink Outdoor 4 bundle just crashed 65% to a record-low price](https://www.androidauthority.com/blink-outdoor-4-bundle-deal-3675690/)
+ - [The FBI seizes 13 domains allegedly tied to fake consulting firms that sought information from US government and military employees for suspected Chinese agents &lpar;A.J. Vicens/Reuters&rpar;](https://www.techmeme.com/260610/p71#a260610p71)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
