@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roborock&amp;#8217;s Q10 S5 Plus robovac is over half off, matching its best price to date](https://www.theverge.com/gadgets/948529/roborock-q10-s5-plus-robot-vacuum-mop-deal-sale)
- - [Gemini’s new natural language TV voice control finally starts rolling out, with TCL first in line](https://www.androidauthority.com/tcl-tv-gemini-voice-3676840/)
- - [Amazon&amp;#8217;s data centers used 2.5 billion gallons of water last year](https://www.theverge.com/tech/948534/amazon-data-centers-water-use)<!-- TECH:END -->
+ - [Early Prime Day Apple deals start at just $14.99, save up to $300](https://appleinsider.com/articles/26/06/11/early-prime-day-apple-deals-start-at-just-1499-save-up-to-300?utm_source=rss)
+ - [Polish lawmakers pass legislation imposing prison sentences of up to five years for &quot;trash streaming&quot; of violent crimes, gambling promotion, and more &lpar;Anna Wlodarczak-Semczuk/Reuters&rpar;](https://www.techmeme.com/260611/p43#a260611p43)
+ - [Price hikes are coming for another big Android brand](https://www.androidauthority.com/huawei-price-hikes-3676860/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
