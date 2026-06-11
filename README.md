@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deezer launches an AI music detector for other streaming services](https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple)
- - [You don’t need to hand out your primary phone number anymore, thanks to Saily](https://www.androidauthority.com/saily-phone-numbers-feature-3676626/)
- - [OpenAI could launch GPT 5.6 this month as a ‘meaningful improvement’ over GPT 5.5](https://www.androidauthority.com/openai-gpt-5-6-meaningful-improvement-3676631/)<!-- TECH:END -->
+ - [Alibaba stock fell ~6.5% and JD.com fell ~6% after China reprimanded e-commerce players over alleged false advertising during the &quot;618&quot; annual shopping festival &lpar;Bloomberg&rpar;](https://www.techmeme.com/260611/p9#a260611p9)
+ - [Google&#39;s philanthropic arm, Google.org, commits $50M to help train 300K+ skilled trade workers across the US, amid a shortage of workers for AI projects &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/260611/p8#a260611p8)
+ - [YouTube is introducing DMs &lpar;again&rpar;](https://www.theverge.com/streaming/948256/youtube-brings-back-private-messaging-feature-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
