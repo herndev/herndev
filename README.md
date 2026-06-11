@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
- - ⏩ [Bittersweet](http://9gag.com/gag/aD2yw8O)
- - 👉 [Road rage karma attack](http://9gag.com/gag/a1m9emP)<!-- MEMES:END -->
+ - 💣 [You got this](http://9gag.com/gag/a4PvLDv)
+ - ⏩ [Road rage karma attack](http://9gag.com/gag/a1m9emP)
+ - 👉 [Put your finger here](http://9gag.com/gag/a7oQyde)<!-- MEMES:END -->
 
 ---
 
