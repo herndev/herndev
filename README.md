@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This pic is horror](http://9gag.com/gag/aD2ywGB)
- - ⏩ [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
- - 👉 [Road rage karma attack](http://9gag.com/gag/a1m9emP)<!-- MEMES:END -->
+ - 💣 [Did I miss something?](http://9gag.com/gag/a4PvdMm)
+ - ⏩ [Psss! Yo bro\u2026.. check this out\u2026..](http://9gag.com/gag/a5Q4P7L)
+ - 👉 [Prayers do come true](http://9gag.com/gag/avyNZPM)<!-- MEMES:END -->
 
 ---
 
