@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone finally snapped](http://9gag.com/gag/abA75RE)
- - ⏩ [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)
- - 👉 [Bittersweet](http://9gag.com/gag/aD2yw8O)<!-- MEMES:END -->
+ - 💣 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
+ - ⏩ [Cartoon logic](http://9gag.com/gag/amo30N6)
+ - 👉 [News from the front](http://9gag.com/gag/aKGRP7Q)<!-- MEMES:END -->
 
 ---
 
