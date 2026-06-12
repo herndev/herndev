@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft considered spinning out or restructuring its Xbox unit as a wholly-owned subsidiary, or creating a joint venture with other partners &lpar;Aaron Holmes/The Information&rpar;](https://www.techmeme.com/260612/p21#a260612p21)
- - [Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere](https://www.wired.com/story/donald-trumps-white-house-ufc-event-would-be-embarrassing-anywhere/)
- - [Chinese Drivers Are Using Tiny Plastic Heads to Fool Tesla’s Autopilot Safeguards](https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/)<!-- TECH:END -->
+ - [Owning an Apple Home: Robots, maintenance, and chores](https://appleinsider.com/articles/26/06/12/owning-an-apple-home-robots-maintenance-and-chores?utm_source=rss)
+ - [Staff memo: Meta plans to limit employee token usage and encourage employees to use MetaCode, after internal AI spending forecasts reached billions for 2026 &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260612/p23#a260612p23)
+ - [Analogue Pocket and EverDrive compatibility issues leave retro gamers stranded](https://www.androidauthority.com/everdrive-carts-malfunction-with-analogue-pocket-3677246/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
