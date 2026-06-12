@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Anthropic is blindsiding business partners by launching potentially competitive products with little warning, changing pricing, and more &lpar;The Information&rpar;](https://www.techmeme.com/260611/p58#a260611p58)
- - [Sources: Shenzhen-based humanoid robot manufacturer EngineAI has filed confidentially for a Hong Kong IPO; the company was last valued at $1.5B in April 2026 &lpar;Julia Fioretti/Bloomberg&rpar;](https://www.techmeme.com/260611/p57#a260611p57)
- - [Canadian challenger bank Koho raised a CA$130M Series E at a CA$1.33B valuation, up from $800M in 2023, as it nears obtaining a Canadian banking license &lpar;Josh Scott/BetaKit&rpar;](https://www.techmeme.com/260611/p56#a260611p56)<!-- TECH:END -->
+ - [How Chinese manufacturers are dominating the humanoid robot supply chain, even as the industry struggles to find a purpose for such robots &lpar;New York Times&rpar;](https://www.techmeme.com/260612/p4#a260612p4)
+ - [The Galaxy Z Fold 7 is finally getting the S26’s Galaxy AI features](https://www.androidauthority.com/galaxy-z-fold-7-one-ui-update-ai-features-3676999/)
+ - [Hyderabad, India-based Equal AI, which makes an eponymous AI-powered call screening app, raised a $30M Series B led by Prosus Ventures and Tomales Bay Capital &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260612/p3#a260612p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
