@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A trillion dollars is a stupid amount of money](https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization)
- - [Elon Musk is the world&amp;#8217;s first trillionaire](https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo)
- - [Everyone says they want to share wearable data with doctors — but almost nobody is doing it](https://www.androidauthority.com/wearable-data-not-shared-with-doctors-3677183/)<!-- TECH:END -->
+ - [Google TV’s World Cup hub brings live matches, highlights, and analysis together](https://www.androidauthority.com/google-tv-world-cup-3677238/)
+ - [I&#39;m Letting Siri See My Life on Vision Pro, and It&#39;s a Sign of Things to Come](https://www.cnet.com/tech/computing/apple-vision-pro-siri-visionos-27-visual-intelligence/)
+ - [How to use Visual Intelligence on macOS Golden Gate, and when it&#39;s worth it](https://appleinsider.com/inside/macos-27/tips/how-to-use-visual-intelligence-on-macos-golden-gate-and-when-its-worth-it?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
