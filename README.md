@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV’s World Cup hub brings live matches, highlights, and analysis together](https://www.androidauthority.com/google-tv-world-cup-3677238/)
- - [I&#39;m Letting Siri See My Life on Vision Pro, and It&#39;s a Sign of Things to Come](https://www.cnet.com/tech/computing/apple-vision-pro-siri-visionos-27-visual-intelligence/)
- - [How to use Visual Intelligence on macOS Golden Gate, and when it&#39;s worth it](https://appleinsider.com/inside/macos-27/tips/how-to-use-visual-intelligence-on-macos-golden-gate-and-when-its-worth-it?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Microsoft considered spinning out or restructuring its Xbox unit as a wholly-owned subsidiary, or creating a joint venture with other partners &lpar;Aaron Holmes/The Information&rpar;](https://www.techmeme.com/260612/p21#a260612p21)
+ - [Donald Trump’s White House UFC Event Would Be Embarrassing Anywhere](https://www.wired.com/story/donald-trumps-white-house-ufc-event-would-be-embarrassing-anywhere/)
+ - [Chinese Drivers Are Using Tiny Plastic Heads to Fool Tesla’s Autopilot Safeguards](https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
