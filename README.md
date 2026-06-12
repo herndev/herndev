@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**ks Around And Finds Out](http://9gag.com/gag/axy5GYb)
- - ⏩ [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
- - 👉 [What a beautiful memory](http://9gag.com/gag/a9yoL3D)<!-- MEMES:END -->
+ - 💣 [You got this](http://9gag.com/gag/a4PvLDv)
+ - ⏩ [The Sagrada Fam\u00edlia, the largest cathedral ever built, was inaugurated today after 144 years of construction.](http://9gag.com/gag/ae9L0vQ)
+ - 👉 [His words are so poetic love it](http://9gag.com/gag/aRBnAKM)<!-- MEMES:END -->
 
 ---
 
