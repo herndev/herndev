@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
- - ⏩ [Road rage karma attack](http://9gag.com/gag/a1m9emP)
- - 👉 [Quick..hide behind the car..die](http://9gag.com/gag/aNDNKpA)<!-- MEMES:END -->
+ - 💣 [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)
+ - ⏩ [F**ks Around And Finds Out](http://9gag.com/gag/axy5GYb)
+ - 👉 [Road rage karma attack](http://9gag.com/gag/a1m9emP)<!-- MEMES:END -->
 
 ---
 
