@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quick..hide behind the car..die](http://9gag.com/gag/aNDNKpA)
- - ⏩ [What a beautiful memory](http://9gag.com/gag/a9yoL3D)
- - 👉 [Found this on FB. Hope its true](http://9gag.com/gag/ae9L3ob)<!-- MEMES:END -->
+ - 💣 [What a beautiful memory](http://9gag.com/gag/a9yoL3D)
+ - ⏩ [Found this on FB. Hope its true](http://9gag.com/gag/ae9L3ob)
+ - 👉 [Did I miss something?](http://9gag.com/gag/a4PvdMm)<!-- MEMES:END -->
 
 ---
 
