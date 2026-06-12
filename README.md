@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a beautiful memory](http://9gag.com/gag/a9yoL3D)
- - ⏩ [Road rage karma attack](http://9gag.com/gag/a1m9emP)
- - 👉 [Did I miss something?](http://9gag.com/gag/a4PvdMm)<!-- MEMES:END -->
+ - 💣 [Doom was ahead of its time](http://9gag.com/gag/a0eBpNQ)
+ - ⏩ [If this doesn&#39;t infuriate you](http://9gag.com/gag/a7oQybr)
+ - 👉 [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)<!-- MEMES:END -->
 
 ---
 
