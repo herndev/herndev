@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [My favorite scene of the entire match](http://9gag.com/gag/ajPpA8w)
- - ⏩ [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
- - 👉 [That was f..ing close,](http://9gag.com/gag/ajPpnK8)<!-- MEMES:END -->
+ - ⏩ [That was f..ing close,](http://9gag.com/gag/ajPpnK8)
+ - 👉 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)<!-- MEMES:END -->
 
 ---
 
