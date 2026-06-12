@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [She kinda sounds like a Witch, maybe from Germany?](http://9gag.com/gag/amo38QX)
- - ⏩ [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
- - 👉 [My favorite scene of the entire match](http://9gag.com/gag/ajPpA8w)<!-- MEMES:END -->
+ - ⏩ [Doom was ahead of its time](http://9gag.com/gag/a0eBpNQ)
+ - 👉 [F**ks Around And Finds Out](http://9gag.com/gag/axy5GYb)<!-- MEMES:END -->
 
 ---
 
