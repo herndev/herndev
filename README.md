@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You got this](http://9gag.com/gag/a4PvLDv)
- - ⏩ [The Sagrada Fam\u00edlia, the largest cathedral ever built, was inaugurated today after 144 years of construction.](http://9gag.com/gag/ae9L0vQ)
- - 👉 [His words are so poetic love it](http://9gag.com/gag/aRBnAKM)<!-- MEMES:END -->
+ - 💣 [IT&#39;S OVER!](http://9gag.com/gag/aLnxBdM)
+ - ⏩ [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
+ - 👉 [Wer melons?](http://9gag.com/gag/aW4z624)<!-- MEMES:END -->
 
 ---
 
