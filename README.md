@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ANBERNIC RG557 owners are getting the software overhaul they have been waiting for](https://www.androidauthority.com/anbernic-rg557-v128-software-update-3677129/)
- - [Niantic Spatial says Pokémon Go data is &quot;not part of&quot; its deal with spatial AI company Vantor, after concerns that game data could be used for military drones &lpar;Kenneth Shepard/Kotaku&rpar;](https://www.techmeme.com/260612/p11#a260612p11)
- - [4 Best Floodlight Security Cameras &lpar;2026&rpar; After Thorough Testing](https://www.wired.com/gallery/best-floodlight-security-cameras/)<!-- TECH:END -->
+ - [Hands on: iPadOS 27&#39;s shortcut builder creates automations from plain English](https://appleinsider.com/articles/26/06/10/hands-on-ipados-27s-shortcut-builder-creates-automations-from-plain-english?utm_source=rss)
+ - [SpaceX is now public](https://www.theverge.com/science/947926/spacex-ipo-stock-shares-trading-elon-musk)
+ - [WWDC, Siri AI, and all of Apple&#39;s platforms, on the AppleInsider Podcast](https://appleinsider.com/articles/26/06/12/wwdc-siri-ai-and-all-of-apples-platforms-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
