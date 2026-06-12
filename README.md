@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They are now filming themselves going up to strangers and doing stuff then justifying it with `I thought you were a Juror at Karmelo Anthony&#39;s case`](http://9gag.com/gag/agmWNvw)
- - ⏩ [She kinda sounds like a Witch, maybe from Germany?](http://9gag.com/gag/amo38QX)
+ - 💣 [My favorite scene of the entire match](http://9gag.com/gag/ajPpA8w)
+ - ⏩ [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
  - 👉 [That was f..ing close,](http://9gag.com/gag/ajPpnK8)<!-- MEMES:END -->
 
 ---
