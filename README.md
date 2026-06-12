@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Made it clear beforehand..](http://9gag.com/gag/aoyXZBn)
- - ⏩ [F**ks Around And Finds Out](http://9gag.com/gag/axy5GYb)
- - 👉 [Road rage karma attack](http://9gag.com/gag/a1m9emP)<!-- MEMES:END -->
+ - 💣 [What a beautiful memory](http://9gag.com/gag/a9yoL3D)
+ - ⏩ [Road rage karma attack](http://9gag.com/gag/a1m9emP)
+ - 👉 [Did I miss something?](http://9gag.com/gag/a4PvdMm)<!-- MEMES:END -->
 
 ---
 
