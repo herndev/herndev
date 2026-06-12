@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a beautiful memory](http://9gag.com/gag/a9yoL3D)
- - ⏩ [Found this on FB. Hope its true](http://9gag.com/gag/ae9L3ob)
- - 👉 [Did I miss something?](http://9gag.com/gag/a4PvdMm)<!-- MEMES:END -->
+ - 💣 [F**ks Around And Finds Out](http://9gag.com/gag/axy5GYb)
+ - ⏩ [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
+ - 👉 [What a beautiful memory](http://9gag.com/gag/a9yoL3D)<!-- MEMES:END -->
 
 ---
 
