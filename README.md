@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: assuming API pricing, the $200/month Claude Max and ChatGPT Pro plans offer up to ~$8,000/month and ~$14,000/month worth of tokens, respectively &lpar;@semianalysis_&rpar;](https://www.techmeme.com/260611/p52#a260611p52)
- - [Apple’s Camera Chief Thinks AI Can Give You Superpowers](https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/)
- - [Xiaomi releases MiMo Code V0.1.0, an open-source AI coding assistant that it says outperforms Claude Code on agentic coding and software engineering benchmarks &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260611/p51#a260611p51)<!-- TECH:END -->
+ - [Q&amp;A with Xbox Chief Strategy Officer Matthew Ball about returning to console-exclusive releases, how using in-game ads could offset development costs, and more &lpar;Christopher Dring/The Game Business&rpar;](https://www.techmeme.com/260611/p55#a260611p55)
+ - [An interview with Grindr CEO George Arison on turning the dating app into a &quot;global gayborhood&quot; hub with services for HIV treatment, hotel bookings, and more &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260611/p54#a260611p54)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, June 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-12/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
