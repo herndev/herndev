@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That was f..ing close,](http://9gag.com/gag/ajPpnK8)
- - ⏩ [My favorite scene of the entire match](http://9gag.com/gag/ajPpA8w)
- - 👉 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)<!-- MEMES:END -->
+ - 💣 [She kinda sounds like a Witch, maybe from Germany?](http://9gag.com/gag/amo38QX)
+ - ⏩ [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
+ - 👉 [My favorite scene of the entire match](http://9gag.com/gag/ajPpA8w)<!-- MEMES:END -->
 
 ---
 
