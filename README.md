@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s hated disco ball icon is finally gone for good](https://www.androidauthority.com/spotify-disco-ball-icon-gone-3677022/)
- - [New Nothing Ear 3a leak has exciting news about price and colors](https://www.androidauthority.com/nothing-ear-3a-price-colors-leak-3677019/)
- - [Save $300 on Apple&#39;s M5 Pro MacBook Pro with 48GB RAM this weekend](https://appleinsider.com/articles/26/06/12/save-300-on-apples-m5-pro-macbook-pro-with-48gb-ram-this-weekend?utm_source=rss)<!-- TECH:END -->
+ - [Google sues Chinese cybercrime network Outsider Enterprise, accusing it of using Gemini AI to create fake websites and scam hundreds of thousands of Americans &lpar;Cecilia Kang/New York Times&rpar;](https://www.techmeme.com/260612/p9#a260612p9)
+ - [Apple’s upgraded Siri is built for business, won’t be your AI girlfriend](https://www.androidauthority.com/siri-ai-wont-be-your-ai-girlfriend-3677110/)
+ - [SpaceX&#39;s trading debut will be a test of the &quot;Musk premium&quot;, the force behind Tesla&#39;s $1T+ valuation, and a gauge of investor appetite ahead of upcoming AI IPOs &lpar;Reuters&rpar;](https://www.techmeme.com/260612/p8#a260612p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
