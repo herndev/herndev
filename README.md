@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: three ex-DOGE staffers are raising $130M from a16z, Sequoia, and others for a startup that aims to use AI to secure government systems &lpar;Vanity Fair&rpar;](https://www.techmeme.com/260612/p26#a260612p26)
- - [‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess](https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/)
- - [Ready for the trails? Strava just dropped a massive hiking update](https://www.androidauthority.com/strava-new-hiking-features-3677280/)<!-- TECH:END -->
+ - [The US DOJ approves Paramount&#39;s $111B purchase of WBD without forcing divestitures or behavioral remedies; state AGs could still try to block the move &lpar;Yasmin Khorram/Politico&rpar;](https://www.techmeme.com/260612/p27#a260612p27)
+ - [Amazon drops Ring’s Indoor Cam Plus and contact sensor bundle from $80 to just $45](https://www.androidauthority.com/ring-indoor-cam-plus-bundle-deal-3676001/)
+ - [Sources: three ex-DOGE staffers are raising $130M from a16z, Sequoia, and others for a startup that aims to use AI to secure government systems &lpar;Vanity Fair&rpar;](https://www.techmeme.com/260612/p26#a260612p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
