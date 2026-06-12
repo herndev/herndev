@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [IT&#39;S OVER!](http://9gag.com/gag/aLnxBdM)
- - ⏩ [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
- - 👉 [Wer melons?](http://9gag.com/gag/aW4z624)<!-- MEMES:END -->
+ - 💣 [Meeting your soul mate](http://9gag.com/gag/ajPpA1p)
+ - ⏩ [His words are so poetic love it](http://9gag.com/gag/aRBnAKM)
+ - 👉 [The politeness had the whole family wasted](http://9gag.com/gag/a87ZjrQ)<!-- MEMES:END -->
 
 ---
 
