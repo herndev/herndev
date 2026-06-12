@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing CEO says phone prices are going to keep going up](https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices)
- - [Sources: Roku is in talks to sell itself; its shares have risen about 24% this year, giving the company a market value of $19.9B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260612/p24#a260612p24)
- - [Owning an Apple Home: Robots, maintenance, and chores](https://appleinsider.com/articles/26/06/12/owning-an-apple-home-robots-maintenance-and-chores?utm_source=rss)<!-- TECH:END -->
+ - [Sources: three ex-DOGE staffers are raising $130M from a16z, Sequoia, and others for a startup that aims to use AI to secure government systems &lpar;Vanity Fair&rpar;](https://www.techmeme.com/260612/p26#a260612p26)
+ - [‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess](https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/)
+ - [Ready for the trails? Strava just dropped a massive hiking update](https://www.androidauthority.com/strava-new-hiking-features-3677280/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
