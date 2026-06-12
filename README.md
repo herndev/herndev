@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ approves Paramount&#39;s $111B purchase of WBD without forcing divestitures or behavioral remedies; state AGs could still try to block the move &lpar;Yasmin Khorram/Politico&rpar;](https://www.techmeme.com/260612/p27#a260612p27)
- - [Amazon drops Ring’s Indoor Cam Plus and contact sensor bundle from $80 to just $45](https://www.androidauthority.com/ring-indoor-cam-plus-bundle-deal-3676001/)
- - [Sources: three ex-DOGE staffers are raising $130M from a16z, Sequoia, and others for a startup that aims to use AI to secure government systems &lpar;Vanity Fair&rpar;](https://www.techmeme.com/260612/p26#a260612p26)<!-- TECH:END -->
+ - [Sources: OpenAI was subpoenaed on Friday by a coalition of state AGs for documents covering a wide range of its activities and impact on users &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260612/p29#a260612p29)
+ - [Sources detail frustration inside Meta&#39;s Applied AI team, formed in March to support Superintelligence Labs, over menial projects, &quot;soul-crushing&quot; work, more &lpar;Wired&rpar;](https://www.techmeme.com/260612/p28#a260612p28)
+ - [The US DOJ approves Paramount&#39;s $111B purchase of WBD without forcing divestitures or behavioral remedies; state AGs could still try to block the move &lpar;Yasmin Khorram/Politico&rpar;](https://www.techmeme.com/260612/p27#a260612p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
