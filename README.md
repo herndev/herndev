@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Chinese manufacturers are dominating the humanoid robot supply chain, even as the industry struggles to find a purpose for such robots &lpar;New York Times&rpar;](https://www.techmeme.com/260612/p4#a260612p4)
- - [The Galaxy Z Fold 7 is finally getting the S26’s Galaxy AI features](https://www.androidauthority.com/galaxy-z-fold-7-one-ui-update-ai-features-3676999/)
- - [Hyderabad, India-based Equal AI, which makes an eponymous AI-powered call screening app, raised a $30M Series B led by Prosus Ventures and Tomales Bay Capital &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260612/p3#a260612p3)<!-- TECH:END -->
+ - [Spotify’s hated disco ball icon is finally gone for good](https://www.androidauthority.com/spotify-disco-ball-icon-gone-3677022/)
+ - [New Nothing Ear 3a leak has exciting news about price and colors](https://www.androidauthority.com/nothing-ear-3a-price-colors-leak-3677019/)
+ - [Save $300 on Apple&#39;s M5 Pro MacBook Pro with 48GB RAM this weekend](https://appleinsider.com/articles/26/06/12/save-300-on-apples-m5-pro-macbook-pro-with-48gb-ram-this-weekend?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
