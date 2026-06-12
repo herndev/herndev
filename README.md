@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Owning an Apple Home: Robots, maintenance, and chores](https://appleinsider.com/articles/26/06/12/owning-an-apple-home-robots-maintenance-and-chores?utm_source=rss)
- - [Staff memo: Meta plans to limit employee token usage and encourage employees to use MetaCode, after internal AI spending forecasts reached billions for 2026 &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260612/p23#a260612p23)
- - [Analogue Pocket and EverDrive compatibility issues leave retro gamers stranded](https://www.androidauthority.com/everdrive-carts-malfunction-with-analogue-pocket-3677246/)<!-- TECH:END -->
+ - [Nothing CEO says phone prices are going to keep going up](https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices)
+ - [Sources: Roku is in talks to sell itself; its shares have risen about 24% this year, giving the company a market value of $19.9B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260612/p24#a260612p24)
+ - [Owning an Apple Home: Robots, maintenance, and chores](https://appleinsider.com/articles/26/06/12/owning-an-apple-home-robots-maintenance-and-chores?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
