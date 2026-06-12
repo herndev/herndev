@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on: iPadOS 27&#39;s shortcut builder creates automations from plain English](https://appleinsider.com/articles/26/06/10/hands-on-ipados-27s-shortcut-builder-creates-automations-from-plain-english?utm_source=rss)
- - [SpaceX is now public](https://www.theverge.com/science/947926/spacex-ipo-stock-shares-trading-elon-musk)
- - [WWDC, Siri AI, and all of Apple&#39;s platforms, on the AppleInsider Podcast](https://appleinsider.com/articles/26/06/12/wwdc-siri-ai-and-all-of-apples-platforms-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [Govee&amp;#8217;s rechargeable smart table lamp is down to $60](https://www.theverge.com/gadgets/948806/govee-table-lamp-classic-jbl-charge-6-deal-sale)
+ - [SpaceX’s massive IPO: all the latest news](https://www.theverge.com/business/948996/spacex-ipo-elon-musk)
+ - [Facebook and Instagram are experiencing a service interruption](https://www.androidauthority.com/facebook-down-2-3677190/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
