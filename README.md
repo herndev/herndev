@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She kinda sounds like a Witch, maybe from Germany?](http://9gag.com/gag/amo38QX)
- - ⏩ [That was f..ing close,](http://9gag.com/gag/ajPpnK8)
- - 👉 [Wer melons?](http://9gag.com/gag/aW4z624)<!-- MEMES:END -->
+ - 💣 [They are now filming themselves going up to strangers and doing stuff then justifying it with `I thought you were a Juror at Karmelo Anthony&#39;s case`](http://9gag.com/gag/agmWNvw)
+ - ⏩ [She kinda sounds like a Witch, maybe from Germany?](http://9gag.com/gag/amo38QX)
+ - 👉 [That was f..ing close,](http://9gag.com/gag/ajPpnK8)<!-- MEMES:END -->
 
 ---
 
