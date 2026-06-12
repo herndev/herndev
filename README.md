@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google sues Chinese cybercrime network Outsider Enterprise, accusing it of using Gemini AI to create fake websites and scam hundreds of thousands of Americans &lpar;Cecilia Kang/New York Times&rpar;](https://www.techmeme.com/260612/p9#a260612p9)
- - [Apple’s upgraded Siri is built for business, won’t be your AI girlfriend](https://www.androidauthority.com/siri-ai-wont-be-your-ai-girlfriend-3677110/)
- - [SpaceX&#39;s trading debut will be a test of the &quot;Musk premium&quot;, the force behind Tesla&#39;s $1T+ valuation, and a gauge of investor appetite ahead of upcoming AI IPOs &lpar;Reuters&rpar;](https://www.techmeme.com/260612/p8#a260612p8)<!-- TECH:END -->
+ - [ANBERNIC RG557 owners are getting the software overhaul they have been waiting for](https://www.androidauthority.com/anbernic-rg557-v128-software-update-3677129/)
+ - [Niantic Spatial says Pokémon Go data is &quot;not part of&quot; its deal with spatial AI company Vantor, after concerns that game data could be used for military drones &lpar;Kenneth Shepard/Kotaku&rpar;](https://www.techmeme.com/260612/p11#a260612p11)
+ - [4 Best Floodlight Security Cameras &lpar;2026&rpar; After Thorough Testing](https://www.wired.com/gallery/best-floodlight-security-cameras/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
