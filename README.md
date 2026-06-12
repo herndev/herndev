@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Glasgow, Scotland.](http://9gag.com/gag/aD2yoWw)
- - ⏩ [She kinda sounds like a Witch, maybe from Germany?](http://9gag.com/gag/amo38QX)
- - 👉 [Wer melons?](http://9gag.com/gag/aW4z624)<!-- MEMES:END -->
+ - 💣 [My favorite scene of the entire match](http://9gag.com/gag/ajPpA8w)
+ - ⏩ [Every paper straw counts. Not!](http://9gag.com/gag/aD2ymEN)
+ - 👉 [Pro tip](http://9gag.com/gag/a1m9Xpv)<!-- MEMES:END -->
 
 ---
 
