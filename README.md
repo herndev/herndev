@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic, OpenAI, and other AI startups have announced major London expansions over the past year, as the city emerges as a key AI talent hub outside the US &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260611/p49#a260611p49)
- - [Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine](https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/)
- - [Amazon’s Echo Hub update finally makes smart home controls easier to manage](https://www.androidauthority.com/new-echo-hub-interface-3676972/)<!-- TECH:END -->
+ - [Analysis: assuming API pricing, the $200/month Claude Max and ChatGPT Pro plans offer up to ~$8,000/month and ~$14,000/month worth of tokens, respectively &lpar;@semianalysis_&rpar;](https://www.techmeme.com/260611/p52#a260611p52)
+ - [Apple’s Camera Chief Thinks AI Can Give You Superpowers](https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/)
+ - [Xiaomi releases MiMo Code V0.1.0, an open-source AI coding assistant that it says outperforms Claude Code on agentic coding and software engineering benchmarks &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260611/p51#a260611p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
