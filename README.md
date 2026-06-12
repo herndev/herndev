@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Govee&amp;#8217;s rechargeable smart table lamp is down to $60](https://www.theverge.com/gadgets/948806/govee-table-lamp-classic-jbl-charge-6-deal-sale)
- - [SpaceX’s massive IPO: all the latest news](https://www.theverge.com/business/948996/spacex-ipo-elon-musk)
- - [Facebook and Instagram are experiencing a service interruption](https://www.androidauthority.com/facebook-down-2-3677190/)<!-- TECH:END -->
+ - [A trillion dollars is a stupid amount of money](https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization)
+ - [Elon Musk is the world&amp;#8217;s first trillionaire](https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo)
+ - [Everyone says they want to share wearable data with doctors — but almost nobody is doing it](https://www.androidauthority.com/wearable-data-not-shared-with-doctors-3677183/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
