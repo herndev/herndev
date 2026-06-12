@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Xbox Chief Strategy Officer Matthew Ball about returning to console-exclusive releases, how using in-game ads could offset development costs, and more &lpar;Christopher Dring/The Game Business&rpar;](https://www.techmeme.com/260611/p55#a260611p55)
- - [An interview with Grindr CEO George Arison on turning the dating app into a &quot;global gayborhood&quot; hub with services for HIV treatment, hotel bookings, and more &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260611/p54#a260611p54)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, June 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-12/)<!-- TECH:END -->
+ - [How Anthropic is blindsiding business partners by launching potentially competitive products with little warning, changing pricing, and more &lpar;The Information&rpar;](https://www.techmeme.com/260611/p58#a260611p58)
+ - [Sources: Shenzhen-based humanoid robot manufacturer EngineAI has filed confidentially for a Hong Kong IPO; the company was last valued at $1.5B in April 2026 &lpar;Julia Fioretti/Bloomberg&rpar;](https://www.techmeme.com/260611/p57#a260611p57)
+ - [Canadian challenger bank Koho raised a CA$130M Series E at a CA$1.33B valuation, up from $800M in 2023, as it nears obtaining a Canadian banking license &lpar;Josh Scott/BetaKit&rpar;](https://www.techmeme.com/260611/p56#a260611p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
