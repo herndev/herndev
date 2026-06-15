@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Instead of buying chemicals to kill ticks, all you need is one chicken and guide it along the way.](http://9gag.com/gag/a7oQrNb)
- - ⏩ [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
- - 👉 [I cast](http://9gag.com/gag/a2vedDd)<!-- MEMES:END -->
+ - 💣 [Take off with style](http://9gag.com/gag/a2vedO9)
+ - ⏩ [The logic behind Asian achitecture](http://9gag.com/gag/aGyX0GZ)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #1613](http://9gag.com/gag/a6ZPMem)<!-- MEMES:END -->
 
 ---
 
