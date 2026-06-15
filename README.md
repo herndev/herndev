@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I cast](http://9gag.com/gag/a2vedDd)
- - ⏩ [Instead of buying chemicals to kill ticks, all you need is one chicken and guide it along the way.](http://9gag.com/gag/a7oQrNb)
- - 👉 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)<!-- MEMES:END -->
+ - 💣 [Instead of buying chemicals to kill ticks, all you need is one chicken and guide it along the way.](http://9gag.com/gag/a7oQrNb)
+ - ⏩ [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
+ - 👉 [I cast](http://9gag.com/gag/a2vedDd)<!-- MEMES:END -->
 
 ---
 
