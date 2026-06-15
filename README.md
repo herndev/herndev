@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rylo, which develops real-time speech and sign-language translation tools for deaf and hard-of-hearing users, raised $85M led by General Catalyst and Canaan &lpar;Sophie Shulman/CTech&rpar;](https://www.techmeme.com/260614/p21#a260614p21)
- - [Hypha, which extracts data from private-market documents to create workflows for underwriting, portfolio monitoring, and asset management, raised a $50M seed &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260614/p20#a260614p20)
- - [Sandstone, which builds AI-powered workflow automation tools for legal teams at small and mid-sized businesses, raised a $30M Series A led by Lightspeed &lpar;Russell Brandom/TechCrunch&rpar;](https://www.techmeme.com/260614/p19#a260614p19)<!-- TECH:END -->
+ - [Inside the Signal group chat where Sergey Brin, Marc Andreessen, Garry Tan, and other tech elites toss out strategies to oppose a proposed California wealth tax &lpar;Emily Shugerman/The San Francisco ...&rpar;](https://www.techmeme.com/260615/p1#a260615p1)
+ - [Sources: ByteDance is in talks with Shanghai-based Iluvatar CoreX to purchase AI inference GPUs, and is also considering a deal to buy Baidu&#39;s Kunlunxin chips &lpar;Reuters&rpar;](https://www.techmeme.com/260614/p23#a260614p23)
+ - [Health wearables are booming, with both Oura and Whoop eyeing IPOs, but investors remain cautious after Fitbit&#39;s struggles and low consumer hardware margins &lpar;David Wainer/Wall Street Journal&rpar;](https://www.techmeme.com/260614/p22#a260614p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
