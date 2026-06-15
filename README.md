@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She kinda sounds like a Witch, maybe from Germany?](http://9gag.com/gag/amo38QX)
- - ⏩ [Doom was ahead of its time](http://9gag.com/gag/a0eBpNQ)
- - 👉 [F**ks Around And Finds Out](http://9gag.com/gag/axy5GYb)<!-- MEMES:END -->
+ - 💣 [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)
+ - ⏩ [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
+ - 👉 [Peak German engineering](http://9gag.com/gag/a7oQrzL)<!-- MEMES:END -->
 
 ---
 
