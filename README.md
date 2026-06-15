@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rylo, which develops real-time speech and sign-language translation tools for deaf and hard-of-hearing users, raised $85M led by General Catalyst and Canaan &lpar;Sophie Shulman/CTech&rpar;](https://www.techmeme.com/260614/p21#a260614p21)
  - [Hypha, which extracts data from private-market documents to create workflows for underwriting, portfolio monitoring, and asset management, raised a $50M seed &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260614/p20#a260614p20)
- - [Sandstone, which builds AI-powered workflow automation tools for legal teams at small and mid-sized businesses, raised a $30M Series A led by Lightspeed &lpar;Russell Brandom/TechCrunch&rpar;](https://www.techmeme.com/260614/p19#a260614p19)
- - [Sundar Pichai faced a walkout at his Stanford commencement speech, as 100+ students left amid chants of &quot;Free, free Palestine&quot; over Google&#39;s ties with Israel &lpar;Zain Khan/New York Post&rpar;](https://www.techmeme.com/260614/p18#a260614p18)<!-- TECH:END -->
+ - [Sandstone, which builds AI-powered workflow automation tools for legal teams at small and mid-sized businesses, raised a $30M Series A led by Lightspeed &lpar;Russell Brandom/TechCrunch&rpar;](https://www.techmeme.com/260614/p19#a260614p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
