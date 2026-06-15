@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Golden Gate beta review: it&#39;s nothing without Siri AI](https://appleinsider.com/articles/26/06/12/macos-golden-gate-beta-review-its-nothing-without-siri-ai?utm_source=rss)
- - [Here we go again: Supply chain thinks iPhone Fold will ship in 2027, not 2026](https://appleinsider.com/articles/26/06/15/here-we-go-again-supply-chain-thinks-iphone-fold-will-ship-in-2027-not-2026?utm_source=rss)
- - [The Kratom Civil War Is Heating Up, and MAHA Has Picked a Side](https://www.wired.com/story/the-kratom-civil-war-is-heating-up-and-maha-has-picked-a-side/)<!-- TECH:END -->
+ - [India threatens to shut down iPhone factory for polluting farmland](https://appleinsider.com/articles/26/06/15/india-threatens-to-shut-down-iphone-factory-for-polluting-farmland?utm_source=rss)
+ - [iPhone 18 Pro buyers should watch out for a repeat problem](https://appleinsider.com/articles/26/06/15/iphone-18-pro-buyers-should-watch-out-for-a-repeat-problem?utm_source=rss)
+ - [A look at a few proposals for sharing AI wealth with the public: government stakes in AI companies, a tax on AI token use, a global capital income tax, and more &lpar;Peter Coy/New York Times&rpar;](https://www.techmeme.com/260615/p18#a260615p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
