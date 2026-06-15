@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung accidentally leaked its next popular phone, and one change may divide fans](https://www.androidauthority.com/samsung-galaxy-a27-product-page-leaked-3677388/)
- - [UK PM Keir Starmer says the UK will ban social media for under-16s and restrict gaming and livestreaming platforms, aiming for regulation by the end of 2026 &lpar;Reuters&rpar;](https://www.techmeme.com/260615/p7#a260615p7)
- - [President Trump says he warned Emmanuel Macron to drop France&#39;s 3% digital services tax on US tech giants, or face a 100% tariff on French champagne and wine &lpar;James Franey/New York Post&rpar;](https://www.techmeme.com/260615/p6#a260615p6)<!-- TECH:END -->
+ - [macOS Golden Gate beta review: it&#39;s nothing without Siri AI](https://appleinsider.com/articles/26/06/12/macos-golden-gate-beta-review-its-nothing-without-siri-ai?utm_source=rss)
+ - [Here we go again: Supply chain thinks iPhone Fold will ship in 2027, not 2026](https://appleinsider.com/articles/26/06/15/here-we-go-again-supply-chain-thinks-iphone-fold-will-ship-in-2027-not-2026?utm_source=rss)
+ - [The Kratom Civil War Is Heating Up, and MAHA Has Picked a Side](https://www.wired.com/story/the-kratom-civil-war-is-heating-up-and-maha-has-picked-a-side/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
