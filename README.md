@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This shit is worse than black mirror](http://9gag.com/gag/aVvAD8d)
+ - 💣 [South Korea be like...](http://9gag.com/gag/aqy0rwL)
  - ⏩ [Aging like fine wine](http://9gag.com/gag/adBEqNQ)
- - 👉 [It&#39;s the best money that they can earn \u00af\\_&lpar;\u30c4&rpar;_/\u00af](http://9gag.com/gag/a34m77v)<!-- MEMES:END -->
+ - 👉 [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)<!-- MEMES:END -->
 
 ---
 
