@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fox wants to take over your TV — and the tech inside it](https://www.theverge.com/streaming/950116/fox-roku-takeover)
- - [TCL A65K Soundbar Review: Small Size, Big Sound](https://www.wired.com/review/tcl-a65k-soundbar/)
- - [Amazon&amp;#8217;s Smart Thermostat is on sale for just $58](https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale)<!-- TECH:END -->
+ - [Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’](https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/)
+ - [Source: Qualcomm is in talks to buy AI chip designer Tenstorrent for $8B to $10B; Tenstorrent discussed raising $800M at a ~$3.2B valuation last year &lpar;The Information&rpar;](https://www.techmeme.com/260615/p41#a260615p41)
+ - [Facebook’s new AI Mode search gets its info from public posts](https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
