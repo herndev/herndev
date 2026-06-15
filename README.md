@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: several Xbox studios, including Hellblade maker Ninja Theory, are in talks with Microsoft to buy themselves back and go independent to avoid closure &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/260615/p42#a260615p42)
- - [Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’](https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/)
- - [Source: Qualcomm is in talks to buy AI chip designer Tenstorrent for $8B to $10B; Tenstorrent discussed raising $800M at a ~$3.2B valuation last year &lpar;The Information&rpar;](https://www.techmeme.com/260615/p41#a260615p41)<!-- TECH:END -->
+ - [A profile of Cursor, including its hiring process and its testy relationship with Anthropic, which told Cursor that Claude Code was mainly a research effort &lpar;Business Insider&rpar;](https://www.techmeme.com/260615/p43#a260615p43)
+ - [Google Earth&#39;s Flight Simulator Is Now on Browsers: Here&#39;s How to Play](https://www.cnet.com/tech/gaming/google-earths-flight-simulator-is-now-on-browsers-heres-how-to-play/)
+ - [AWE 2026 Live: Smart Glasses Are Bringing AI to Our Faces](https://www.cnet.com/news-live/awe-2026-smart-glasses-augmented-reality-live-coverage/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
