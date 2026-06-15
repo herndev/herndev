@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gonna drop this here.](http://9gag.com/gag/aPA59BR)
- - ⏩ [Peak German engineering](http://9gag.com/gag/a7oQrzL)
- - 👉 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)<!-- MEMES:END -->
+ - 💣 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
+ - ⏩ [Knock knock](http://9gag.com/gag/a2verdw)
+ - 👉 [Tom the Mime](http://9gag.com/gag/aD2yz5d)<!-- MEMES:END -->
 
 ---
 
