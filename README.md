@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox exec says ticking a box for age verification is &amp;#8216;not enough anymore&amp;#8217;](https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc)
- - [American Express agrees to acquire restaurant booking platform TheFork from Tripadvisor in an all-cash deal worth $700M; TRIP jumps 6%+ &lpar;Reuters&rpar;](https://www.techmeme.com/260615/p29#a260615p29)
- - [A US judge rejects Meta&#39;s bid to dismiss a lawsuit from Strike 3, which owns porn production companies, that alleges Meta torrented its videos for AI training &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](https://www.techmeme.com/260615/p28#a260615p28)<!-- TECH:END -->
+ - [Arcade, which helps companies manage which actions AI agents are authorized to take, raised a $60M Series A led by SYN Ventures, following a $12M seed in 2025 &lpar;Steven Rosenbush/Wall Street Journal&rpar;](https://www.techmeme.com/260615/p37#a260615p37)
+ - [Samsung’s extra-wide Galaxy Z Fold might come with a smoother internal display](https://www.androidauthority.com/samsung-wide-fold-glass-3677592/)
+ - [Trump’s Anthropic shutdown just made the case for non-American AI](https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
