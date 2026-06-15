@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peak German engineering](http://9gag.com/gag/a7oQrzL)
- - ⏩ [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
- - 👉 [The moment that we all waiting for.. Japanese fans stayed behind at the AT&amp;T Stadium in Dallas after the game to clean up the entire stadium.](http://9gag.com/gag/amo32Lo)<!-- MEMES:END -->
+ - 💣 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
+ - ⏩ [The moment that we all waiting for.. Japanese fans stayed behind at the AT&amp;T Stadium in Dallas after the game to clean up the entire stadium.](http://9gag.com/gag/amo32Lo)
+ - 👉 [These old bones don\u2019t move like they used to](http://9gag.com/gag/aQzGegr)<!-- MEMES:END -->
 
 ---
 
