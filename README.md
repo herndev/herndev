@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the Signal group chat where Sergey Brin, Marc Andreessen, Garry Tan, and other tech elites toss out strategies to oppose a proposed California wealth tax &lpar;Emily Shugerman/The San Francisco ...&rpar;](https://www.techmeme.com/260615/p1#a260615p1)
- - [Sources: ByteDance is in talks with Shanghai-based Iluvatar CoreX to purchase AI inference GPUs, and is also considering a deal to buy Baidu&#39;s Kunlunxin chips &lpar;Reuters&rpar;](https://www.techmeme.com/260614/p23#a260614p23)
- - [Health wearables are booming, with both Oura and Whoop eyeing IPOs, but investors remain cautious after Fitbit&#39;s struggles and low consumer hardware margins &lpar;David Wainer/Wall Street Journal&rpar;](https://www.techmeme.com/260614/p22#a260614p22)<!-- TECH:END -->
+ - [A profile of UC Berkeley professor Hany Farid, the world&#39;s leading digital forensics expert for 20+ years, who says he is now struggling to identify AI fakes &lpar;New York Times&rpar;](https://www.techmeme.com/260615/p4#a260615p4)
+ - [Blowout savings drive MacBook Air prices down to as low as $899](https://appleinsider.com/articles/26/06/15/blowout-savings-drive-macbook-air-prices-down-to-as-low-as-899?utm_source=rss)
+ - [Sources: Alibaba is in talks to buy Chinese fresh grocery delivery platform Pupu for $1.5B, in a bid to better compete with food delivery rivals like Meituan &lpar;Cathy Chan/Bloomberg&rpar;](https://www.techmeme.com/260615/p3#a260615p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
