@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: several Xbox studios, including Hellblade maker Ninja Theory, are in talks with Microsoft to buy themselves back and go independent to avoid closure &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/260615/p42#a260615p42)
  - [Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’](https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/)
- - [Source: Qualcomm is in talks to buy AI chip designer Tenstorrent for $8B to $10B; Tenstorrent discussed raising $800M at a ~$3.2B valuation last year &lpar;The Information&rpar;](https://www.techmeme.com/260615/p41#a260615p41)
- - [Facebook’s new AI Mode search gets its info from public posts](https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook)<!-- TECH:END -->
+ - [Source: Qualcomm is in talks to buy AI chip designer Tenstorrent for $8B to $10B; Tenstorrent discussed raising $800M at a ~$3.2B valuation last year &lpar;The Information&rpar;](https://www.techmeme.com/260615/p41#a260615p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
