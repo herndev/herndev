@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Avatar movie scene](http://9gag.com/gag/abA7pyL)
- - ⏩ [Peak German engineering](http://9gag.com/gag/a7oQrzL)
- - 👉 [I&#39;m in danger...](http://9gag.com/gag/aXPBq1z)<!-- MEMES:END -->
+ - 💣 [This shit is worse than black mirror](http://9gag.com/gag/aVvAD8d)
+ - ⏩ [Aging like fine wine](http://9gag.com/gag/adBEqNQ)
+ - 👉 [It&#39;s the best money that they can earn \u00af\\_&lpar;\u30c4&rpar;_/\u00af](http://9gag.com/gag/a34m77v)<!-- MEMES:END -->
 
 ---
 
