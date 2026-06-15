@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of UC Berkeley professor Hany Farid, the world&#39;s leading digital forensics expert for 20+ years, who says he is now struggling to identify AI fakes &lpar;New York Times&rpar;](https://www.techmeme.com/260615/p4#a260615p4)
- - [Blowout savings drive MacBook Air prices down to as low as $899](https://appleinsider.com/articles/26/06/15/blowout-savings-drive-macbook-air-prices-down-to-as-low-as-899?utm_source=rss)
- - [Sources: Alibaba is in talks to buy Chinese fresh grocery delivery platform Pupu for $1.5B, in a bid to better compete with food delivery rivals like Meituan &lpar;Cathy Chan/Bloomberg&rpar;](https://www.techmeme.com/260615/p3#a260615p3)<!-- TECH:END -->
+ - [Samsung accidentally leaked its next popular phone, and one change may divide fans](https://www.androidauthority.com/samsung-galaxy-a27-product-page-leaked-3677388/)
+ - [UK PM Keir Starmer says the UK will ban social media for under-16s and restrict gaming and livestreaming platforms, aiming for regulation by the end of 2026 &lpar;Reuters&rpar;](https://www.techmeme.com/260615/p7#a260615p7)
+ - [President Trump says he warned Emmanuel Macron to drop France&#39;s 3% digital services tax on US tech giants, or face a 100% tariff on French champagne and wine &lpar;James Franey/New York Post&rpar;](https://www.techmeme.com/260615/p6#a260615p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
