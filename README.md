@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Frank founder Charlie Javice, sentenced in September 2025 to 85 months for defrauding JPMorgan Chase, has been seeking a presidential pardon from Trump &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260614/p17#a260614p17)
- - [A profile of Kalshi COO Luana Lopes Lara, who has overseen a tremendous pace of growth over the past year as the company faces political and regulatory backlash &lpar;Emily Nicolle/Bloomberg&rpar;](https://www.techmeme.com/260614/p16#a260614p16)
- - [Chinese Tesla drivers are using tiny plastic heads to fool Tesla&#39;s distracted-driving controls, which appear unable to distinguish figurines from real people &lpar;Zeyi Yang/Wired&rpar;](https://www.techmeme.com/260614/p15#a260614p15)<!-- TECH:END -->
+ - [Hypha, which extracts data from private-market documents to create workflows for underwriting, portfolio monitoring, and asset management, raised a $50M seed &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260614/p20#a260614p20)
+ - [Sandstone, which builds AI-powered workflow automation tools for legal teams at small and mid-sized businesses, raised a $30M Series A led by Lightspeed &lpar;Russell Brandom/TechCrunch&rpar;](https://www.techmeme.com/260614/p19#a260614p19)
+ - [Sundar Pichai faced a walkout at his Stanford commencement speech, as 100+ students left amid chants of &quot;Free, free Palestine&quot; over Google&#39;s ties with Israel &lpar;Zain Khan/New York Post&rpar;](https://www.techmeme.com/260614/p18#a260614p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
