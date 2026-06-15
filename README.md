@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arcade, which helps companies manage which actions AI agents are authorized to take, raised a $60M Series A led by SYN Ventures, following a $12M seed in 2025 &lpar;Steven Rosenbush/Wall Street Journal&rpar;](https://www.techmeme.com/260615/p37#a260615p37)
- - [Samsung’s extra-wide Galaxy Z Fold might come with a smoother internal display](https://www.androidauthority.com/samsung-wide-fold-glass-3677592/)
- - [Trump’s Anthropic shutdown just made the case for non-American AI](https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai)<!-- TECH:END -->
+ - [Fox wants to take over your TV — and the tech inside it](https://www.theverge.com/streaming/950116/fox-roku-takeover)
+ - [TCL A65K Soundbar Review: Small Size, Big Sound](https://www.wired.com/review/tcl-a65k-soundbar/)
+ - [Amazon&amp;#8217;s Smart Thermostat is on sale for just $58](https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
