@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India threatens to shut down iPhone factory for polluting farmland](https://appleinsider.com/articles/26/06/15/india-threatens-to-shut-down-iphone-factory-for-polluting-farmland?utm_source=rss)
- - [iPhone 18 Pro buyers should watch out for a repeat problem](https://appleinsider.com/articles/26/06/15/iphone-18-pro-buyers-should-watch-out-for-a-repeat-problem?utm_source=rss)
- - [A look at a few proposals for sharing AI wealth with the public: government stakes in AI companies, a tax on AI token use, a global capital income tax, and more &lpar;Peter Coy/New York Times&rpar;](https://www.techmeme.com/260615/p18#a260615p18)<!-- TECH:END -->
+ - [Roblox exec says ticking a box for age verification is &amp;#8216;not enough anymore&amp;#8217;](https://www.theverge.com/games/949853/roblox-age-verification-demo-nbc)
+ - [American Express agrees to acquire restaurant booking platform TheFork from Tripadvisor in an all-cash deal worth $700M; TRIP jumps 6%+ &lpar;Reuters&rpar;](https://www.techmeme.com/260615/p29#a260615p29)
+ - [A US judge rejects Meta&#39;s bid to dismiss a lawsuit from Strike 3, which owns porn production companies, that alleges Meta torrented its videos for AI training &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](https://www.techmeme.com/260615/p28#a260615p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
