@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take off with style](http://9gag.com/gag/a2vedO9)
- - ⏩ [The logic behind Asian achitecture](http://9gag.com/gag/aGyX0GZ)
- - 👉 [Posting memes I found on my smartphone until I get bored or die #1613](http://9gag.com/gag/a6ZPMem)<!-- MEMES:END -->
+ - 💣 [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)
+ - ⏩ [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
+ - 👉 [Can someone tell me the context of this old meme](http://9gag.com/gag/ayNGDey)<!-- MEMES:END -->
 
 ---
 
