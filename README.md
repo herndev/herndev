@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)
- - ⏩ [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
- - 👉 [Can someone tell me the context of this old meme](http://9gag.com/gag/ayNGDey)<!-- MEMES:END -->
+ - 💣 [Gonna drop this here.](http://9gag.com/gag/aPA59BR)
+ - ⏩ [Peak German engineering](http://9gag.com/gag/a7oQrzL)
+ - 👉 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)<!-- MEMES:END -->
 
 ---
 
