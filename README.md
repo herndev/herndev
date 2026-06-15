@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI was subpoenaed on Friday by a coalition of state AGs for documents covering a wide range of its activities and impact on users &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260612/p29#a260612p29)
- - [Sources detail frustration inside Meta&#39;s Applied AI team, formed in March to support Superintelligence Labs, over menial projects, &quot;soul-crushing&quot; work, more &lpar;Wired&rpar;](https://www.techmeme.com/260612/p28#a260612p28)
- - [The US DOJ approves Paramount&#39;s $111B purchase of WBD without forcing divestitures or behavioral remedies; state AGs could still try to block the move &lpar;Yasmin Khorram/Politico&rpar;](https://www.techmeme.com/260612/p27#a260612p27)<!-- TECH:END -->
+ - [Sources: Frank founder Charlie Javice, sentenced in September 2025 to 85 months for defrauding JPMorgan Chase, has been seeking a presidential pardon from Trump &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260614/p17#a260614p17)
+ - [A profile of Kalshi COO Luana Lopes Lara, who has overseen a tremendous pace of growth over the past year as the company faces political and regulatory backlash &lpar;Emily Nicolle/Bloomberg&rpar;](https://www.techmeme.com/260614/p16#a260614p16)
+ - [Chinese Tesla drivers are using tiny plastic heads to fool Tesla&#39;s distracted-driving controls, which appear unable to distinguish figurines from real people &lpar;Zeyi Yang/Wired&rpar;](https://www.techmeme.com/260614/p15#a260614p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
