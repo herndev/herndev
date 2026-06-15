@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [South Korea be like...](http://9gag.com/gag/aqy0rwL)
- - ⏩ [Aging like fine wine](http://9gag.com/gag/adBEqNQ)
- - 👉 [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)<!-- MEMES:END -->
+ - 💣 [I cast](http://9gag.com/gag/a2vedDd)
+ - ⏩ [Instead of buying chemicals to kill ticks, all you need is one chicken and guide it along the way.](http://9gag.com/gag/a7oQrNb)
+ - 👉 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)<!-- MEMES:END -->
 
 ---
 
