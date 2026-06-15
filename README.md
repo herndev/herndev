@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always one tout ruining it for everyone.](http://9gag.com/gag/a34m7N5)
- - ⏩ [Finding Out about bridges](http://9gag.com/gag/aKGR2DO)
- - 👉 [Peak German engineering](http://9gag.com/gag/a7oQrzL)<!-- MEMES:END -->
+ - 💣 [Avatar movie scene](http://9gag.com/gag/abA7pyL)
+ - ⏩ [Peak German engineering](http://9gag.com/gag/a7oQrzL)
+ - 👉 [I&#39;m in danger...](http://9gag.com/gag/aXPBq1z)<!-- MEMES:END -->
 
 ---
 
