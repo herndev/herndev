@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This free Android app brings all your emulated games under a single console-style roof](https://www.androidauthority.com/iisu-android-emulator-game-hub-3677762/)
- - [Kuala Lumpur-based Respond.io, which uses AI agents to manage customer conversations, raised a $62.5M Series B led by Camber, following a $7M Series A in 2022 &lpar;Kate Park/TechCrunch&rpar;](https://www.techmeme.com/260616/p6#a260616p6)
- - [Galaxy Z Fold 8 FCC listing confirms key details about Samsung’s wide foldable](https://www.androidauthority.com/samsung-galaxy-z-fold-8-wide-listing-3677724/)<!-- TECH:END -->
+ - [Inbox Zero heroes are rare: Only 20% of polled readers have total control over their emails](https://www.androidauthority.com/inbox-zero-poll-results-3677801/)
+ - [I used all three 2026 Motorola Razr phones, and there’s only one I would buy](https://www.androidauthority.com/i-used-all-2026-motorola-razr-phones-only-one-buy-3674773/)
+ - [Florida sues TikTok for allegedly violating its social media regulations for minors and state consumer protection laws by showing &quot;X-Rated&quot; content to minors &lpar;Alex Ebert/Bloomberg Law&rpar;](https://www.techmeme.com/260616/p10#a260616p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
