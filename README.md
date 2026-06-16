@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft is adding AWS capacity to GitHub after AI-driven growth strained infrastructure and triggered a series of reliability issues &lpar;Ashley Stewart/Business Insider&rpar;](https://www.techmeme.com/260616/p2#a260616p2)
- - [Memo: CTO Andrew Bosworth said Meta did &quot;an atrocious job&quot; sharing Applied AI&#39;s vision, promising employees better communication, career growth, and more perks &lpar;Wired&rpar;](https://www.techmeme.com/260616/p1#a260616p1)
- - [Filing: the US DOJ asks court to dismiss an NAACP suit over xAI&#39;s gas turbines, saying xAI is integral to US&#39; military operations, including the Iran War &lpar;Molly Taft/Wired&rpar;](https://www.techmeme.com/260615/p48#a260615p48)<!-- TECH:END -->
+ - [Qobuz Is the Anti-Spotify Music Streamer You’ve Been Waiting For](https://www.wired.com/story/qobuz-is-the-anti-spotify-we-need-right-now/)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, June 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-june-16/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 16, #631](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-16-631/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
