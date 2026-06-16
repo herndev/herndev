@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s 49-inch Odyssey G9 drops to $665, its lowest price ever](https://www.androidauthority.com/samsungs-49-inch-odyssey-g9-monitor-deal-3678073/)
- - [Is your Pixel getting Google’s massive Android update for June 2026? Here’s the full list](https://www.androidauthority.com/google-june-2026-pixel-drop-update-supported-models-3677642/)
- - [Google launches Android 17 and Wear OS 7, first on Pixel devices, with support for the latest AI models, a bubble bar UI, and live updates on Wear OS &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260616/p36#a260616p36)<!-- TECH:END -->
+ - [Apple’s camera-equipped AirPods could launch alongside the foldable iPhone](https://www.androidauthority.com/apple-camera-equipped-airpods-launch-window-3678077/)
+ - [Snap built standalone AR glasses without a convincing reason to wear them](https://appleinsider.com/articles/26/06/16/snap-built-standalone-ar-glasses-without-a-convincing-reason-to-wear-them?utm_source=rss)
+ - [Sensor Tower: ChatGPT&#39;s market share fell to 46.4% by the end of May, as Gemini rose to 27.7% and Claude to 10.3%; Grok, Meta AI, and others have less than 5% &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260616/p38#a260616p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
