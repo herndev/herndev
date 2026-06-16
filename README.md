@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Cursor, including its hiring process and its testy relationship with Anthropic, which told Cursor that Claude Code was mainly a research effort &lpar;Business Insider&rpar;](https://www.techmeme.com/260615/p43#a260615p43)
- - [Google Earth&#39;s Flight Simulator Is Now on Browsers: Here&#39;s How to Play](https://www.cnet.com/tech/gaming/google-earths-flight-simulator-is-now-on-browsers-heres-how-to-play/)
- - [AWE 2026 Live: Smart Glasses Are Bringing AI to Our Faces](https://www.cnet.com/news-live/awe-2026-smart-glasses-augmented-reality-live-coverage/)<!-- TECH:END -->
+ - [Anthropic Is Still at Odds With the White House Over Claude Fable 5](https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/)
+ - [A look at Roblox&#39;s biometric age-checking tool, which will help place users into age-based accounts starting this month, amid controversy over user privacy &lpar;NBC News&rpar;](https://www.techmeme.com/260615/p44#a260615p44)
+ - [A profile of Cursor, including its hiring process and its testy relationship with Anthropic, which told Cursor that Claude Code was mainly a research effort &lpar;Business Insider&rpar;](https://www.techmeme.com/260615/p43#a260615p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
