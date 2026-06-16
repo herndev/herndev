@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inbox Zero heroes are rare: Only 20% of polled readers have total control over their emails](https://www.androidauthority.com/inbox-zero-poll-results-3677801/)
- - [I used all three 2026 Motorola Razr phones, and there’s only one I would buy](https://www.androidauthority.com/i-used-all-2026-motorola-razr-phones-only-one-buy-3674773/)
- - [Florida sues TikTok for allegedly violating its social media regulations for minors and state consumer protection laws by showing &quot;X-Rated&quot; content to minors &lpar;Alex Ebert/Bloomberg Law&rpar;](https://www.techmeme.com/260616/p10#a260616p10)<!-- TECH:END -->
+ - [This new wearable is trying to save you from yourself &lpar;and your phone&rpar;](https://www.androidauthority.com/jaye-band-launch-3676173/)
+ - [Ripple acquires a stake in Flutterwave as part of the African payments startup&#39;s Series E, which values the company at $3.2B &lpar;Emele Onu/Bloomberg&rpar;](https://www.techmeme.com/260616/p17#a260616p17)
+ - [These mechanical keyboards are two very different sides of the same beautifully made coin](https://www.theverge.com/tech/942472/dry-studio-atm98-silent-evoworks-evo75-mechanical-keyboard-thocky-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
