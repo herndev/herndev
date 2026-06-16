@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some people just never learn](http://9gag.com/gag/aGyXjbX)
- - ⏩ [Metal x Mariachi](http://9gag.com/gag/a1m9obY)
- - 👉 [Fashionably late for today&#39;s shitpost.](http://9gag.com/gag/aPA59qq)<!-- MEMES:END -->
+ - 💣 [Agree!](http://9gag.com/gag/aZZe360)
+ - ⏩ [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
+ - 👉 [Bad Mobility Shofer.](http://9gag.com/gag/a6ZPooL)<!-- MEMES:END -->
 
 ---
 
