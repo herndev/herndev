@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sad :&lpar;](http://9gag.com/gag/aQzGe32)
- - ⏩ [Knock knock](http://9gag.com/gag/a2verdw)
- - 👉 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)<!-- MEMES:END -->
+ - 💣 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
+ - ⏩ [Bad Mobility Shofer.](http://9gag.com/gag/a6ZPooL)
+ - 👉 [Can someone tell me the context of this old meme](http://9gag.com/gag/ayNGDey)<!-- MEMES:END -->
 
 ---
 
