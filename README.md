@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Trump administration won&#39;t allow G7 countries to regain access to Mythos 5 as doing so would be &quot;completely illogical&quot;; UK requested a &quot;carve-out&quot; &lpar;James Franey/New York Post&rpar;](https://www.techmeme.com/260616/p26#a260616p26)
- - [Florida sues TikTok for allegedly violating its social media ban for kids](https://www.theverge.com/tech/950632/florida-tiktok-lawsuit-social-media-ban)
- - [Samsung confirms Galaxy Z Flip 7, Fold 7 will have major roles in new Spider-Man movie](https://www.androidauthority.com/spider-man-brand-new-day-samsung-galaxy-devices-3677735/)<!-- TECH:END -->
+ - [Sources: Apple&#39;s AirPods with cameras for AI are scheduled to launch in 2027 alongside the 20th anniversary pro iPhones and a second-generation foldable iPhone &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260616/p30#a260616p30)
+ - [Nothing&amp;#8217;s Ear &lpar;a&rpar;, our favorite budget earbuds, are cheaper than ever ahead of Prime Day](https://www.theverge.com/gadgets/950756/nothing-ear-a-early-amazon-prime-day-deal-sale)
+ - [Want a Fitbit Air? Here’s how you might be able to get one tax-free](https://www.androidauthority.com/fitbit-air-hsa-fsa-eligible-3677999/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
