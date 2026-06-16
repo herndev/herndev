@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
- - ⏩ [Bad Mobility Shofer.](http://9gag.com/gag/a6ZPooL)
- - 👉 [Tom the Mime](http://9gag.com/gag/aD2yz5d)<!-- MEMES:END -->
+ - 💣 [Some people just never learn](http://9gag.com/gag/aGyXjbX)
+ - ⏩ [Metal x Mariachi](http://9gag.com/gag/a1m9obY)
+ - 👉 [Fashionably late for today&#39;s shitpost.](http://9gag.com/gag/aPA59qq)<!-- MEMES:END -->
 
 ---
 
