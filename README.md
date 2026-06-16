@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can&#39;t believe some people would prefer ketchup over this](http://9gag.com/gag/a4PvQAy)
- - ⏩ [Well said!](http://9gag.com/gag/aYQ94X7)
- - 👉 [10 yo me stealing all the games from the internet caffe](http://9gag.com/gag/aLnxggv)<!-- MEMES:END -->
+ - 💣 [Well said!](http://9gag.com/gag/aYQ94X7)
+ - ⏩ [10 yo me stealing all the games from the internet caffe](http://9gag.com/gag/aLnxggv)
+ - 👉 [Manly activity.](http://9gag.com/gag/a7oQ3DL)<!-- MEMES:END -->
 
 ---
 
