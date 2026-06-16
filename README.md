@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
- - ⏩ [Knock knock](http://9gag.com/gag/a2verdw)
- - 👉 [Sad :&lpar;](http://9gag.com/gag/aQzGe32)<!-- MEMES:END -->
+ - 💣 [Tom the Mime](http://9gag.com/gag/aD2yz5d)
+ - ⏩ [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
+ - 👉 [Can someone tell me the context of this old meme](http://9gag.com/gag/ayNGDey)<!-- MEMES:END -->
 
 ---
 
