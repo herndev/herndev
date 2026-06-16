@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tom the Mime](http://9gag.com/gag/aD2yz5d)
+ - 💣 [The FIRST THING the UK `officers` do is turn off their BodyCams.](http://9gag.com/gag/a4Pvb9Q)
  - ⏩ [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
- - 👉 [Can someone tell me the context of this old meme](http://9gag.com/gag/ayNGDey)<!-- MEMES:END -->
+ - 👉 [Knock knock](http://9gag.com/gag/a2verdw)<!-- MEMES:END -->
 
 ---
 
