@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The FIRST THING the UK `officers` do is turn off their BodyCams.](http://9gag.com/gag/a4Pvb9Q)
- - ⏩ [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)
- - 👉 [Knock knock](http://9gag.com/gag/a2verdw)<!-- MEMES:END -->
+ - 💣 [Sad :&lpar;](http://9gag.com/gag/aQzGe32)
+ - ⏩ [Knock knock](http://9gag.com/gag/a2verdw)
+ - 👉 [When you accidentally become Ghost Rider](http://9gag.com/gag/aD2yz3Z)<!-- MEMES:END -->
 
 ---
 
