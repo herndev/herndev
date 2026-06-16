@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic Is Still at Odds With the White House Over Claude Fable 5](https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/)
- - [A look at Roblox&#39;s biometric age-checking tool, which will help place users into age-based accounts starting this month, amid controversy over user privacy &lpar;NBC News&rpar;](https://www.techmeme.com/260615/p44#a260615p44)
- - [A profile of Cursor, including its hiring process and its testy relationship with Anthropic, which told Cursor that Claude Code was mainly a research effort &lpar;Business Insider&rpar;](https://www.techmeme.com/260615/p43#a260615p43)<!-- TECH:END -->
+ - [Inside the fight over Claude Mythos 5](https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls)
+ - [Taxi-hailing app Go&#39;s shares grew 21% in its Tokyo debut, after raising $553M in Japan&#39;s largest IPO this year, giving the company a market value of ~$1.16B &lpar;Yasutaka Tamura/Bloomberg&rpar;](https://www.techmeme.com/260615/p45#a260615p45)
+ - [Anthropic Is Still at Odds With the White House Over Claude Fable 5](https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
