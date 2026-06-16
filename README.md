@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s camera-equipped AirPods could launch alongside the foldable iPhone](https://www.androidauthority.com/apple-camera-equipped-airpods-launch-window-3678077/)
- - [Snap built standalone AR glasses without a convincing reason to wear them](https://appleinsider.com/articles/26/06/16/snap-built-standalone-ar-glasses-without-a-convincing-reason-to-wear-them?utm_source=rss)
- - [Sensor Tower: ChatGPT&#39;s market share fell to 46.4% by the end of May, as Gemini rose to 27.7% and Claude to 10.3%; Grok, Meta AI, and others have less than 5% &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260616/p38#a260616p38)<!-- TECH:END -->
+ - [Melbourne-based Everlab, which is building an AI-powered preventive healthcare platform, raised a AU$65M Series A led by Airtree Ventures &lpar;Tegan Jones/SmartCompany&rpar;](https://www.techmeme.com/260616/p39#a260616p39)
+ - [Google’s June Pixel update is packed with dozens of fixes](https://www.androidauthority.com/june-2026-pixel-software-update-3678162/)
+ - [Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society](https://www.wired.com/story/leak-exposes-members-of-peter-thiels-secretive-dialog-society/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
