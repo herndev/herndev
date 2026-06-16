@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the fight over Claude Mythos 5](https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls)
- - [Taxi-hailing app Go&#39;s shares grew 21% in its Tokyo debut, after raising $553M in Japan&#39;s largest IPO this year, giving the company a market value of ~$1.16B &lpar;Yasutaka Tamura/Bloomberg&rpar;](https://www.techmeme.com/260615/p45#a260615p45)
- - [Anthropic Is Still at Odds With the White House Over Claude Fable 5](https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/)<!-- TECH:END -->
+ - [Sources: Microsoft is adding AWS capacity to GitHub after AI-driven growth strained infrastructure and triggered a series of reliability issues &lpar;Ashley Stewart/Business Insider&rpar;](https://www.techmeme.com/260616/p2#a260616p2)
+ - [Memo: CTO Andrew Bosworth said Meta did &quot;an atrocious job&quot; sharing Applied AI&#39;s vision, promising employees better communication, career growth, and more perks &lpar;Wired&rpar;](https://www.techmeme.com/260616/p1#a260616p1)
+ - [Filing: the US DOJ asks court to dismiss an NAACP suit over xAI&#39;s gas turbines, saying xAI is integral to US&#39; military operations, including the Iran War &lpar;Molly Taft/Wired&rpar;](https://www.techmeme.com/260615/p48#a260615p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
