@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple&#39;s AirPods with cameras for AI are scheduled to launch in 2027 alongside the 20th anniversary pro iPhones and a second-generation foldable iPhone &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260616/p30#a260616p30)
- - [Nothing&amp;#8217;s Ear &lpar;a&rpar;, our favorite budget earbuds, are cheaper than ever ahead of Prime Day](https://www.theverge.com/gadgets/950756/nothing-ear-a-early-amazon-prime-day-deal-sale)
- - [Want a Fitbit Air? Here’s how you might be able to get one tax-free](https://www.androidauthority.com/fitbit-air-hsa-fsa-eligible-3677999/)<!-- TECH:END -->
+ - [Samsung’s 49-inch Odyssey G9 drops to $665, its lowest price ever](https://www.androidauthority.com/samsungs-49-inch-odyssey-g9-monitor-deal-3678073/)
+ - [Is your Pixel getting Google’s massive Android update for June 2026? Here’s the full list](https://www.androidauthority.com/google-june-2026-pixel-drop-update-supported-models-3677642/)
+ - [Google launches Android 17 and Wear OS 7, first on Pixel devices, with support for the latest AI models, a bubble bar UI, and live updates on Wear OS &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260616/p36#a260616p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
