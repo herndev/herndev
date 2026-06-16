@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tom the Mime](http://9gag.com/gag/aD2yz5d)
- - ⏩ [Etching the moment into history](http://9gag.com/gag/ae9LbXp)
- - 👉 [Well said!](http://9gag.com/gag/aYQ94X7)<!-- MEMES:END -->
+ - 💣 [I can&#39;t believe some people would prefer ketchup over this](http://9gag.com/gag/a4PvQAy)
+ - ⏩ [Well said!](http://9gag.com/gag/aYQ94X7)
+ - 👉 [10 yo me stealing all the games from the internet caffe](http://9gag.com/gag/aLnxggv)<!-- MEMES:END -->
 
 ---
 
