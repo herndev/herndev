@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Melbourne-based Everlab, which is building an AI-powered preventive healthcare platform, raised a AU$65M Series A led by Airtree Ventures &lpar;Tegan Jones/SmartCompany&rpar;](https://www.techmeme.com/260616/p39#a260616p39)
- - [Google’s June Pixel update is packed with dozens of fixes](https://www.androidauthority.com/june-2026-pixel-software-update-3678162/)
- - [Leak Exposes Members of Peter Thiel’s Secretive ‘Dialog’ Society](https://www.wired.com/story/leak-exposes-members-of-peter-thiels-secretive-dialog-society/)<!-- TECH:END -->
+ - [Anthropic pauses its anticipated move to token-based billing for Claude Agent SDK that it planned to implement on June 15, saying &quot;Nothing changes for now&quot; &lpar;Kyle Orland/Ars Technica&rpar;](https://www.techmeme.com/260616/p42#a260616p42)
+ - [SpaceX closed up 4.8% on Tuesday with a $2.65T market cap, just above Amazon&#39;s, after popping ~12% intraday and briefly overtaking Microsoft&#39;s $2.93T market cap &lpar;CNBC&rpar;](https://www.techmeme.com/260616/p41#a260616p41)
+ - [Sources: PayPal to shutter its 10-year-old PayPal Ventures arm amid a broader shakeup under a new CEO and has hired Jefferies to explore selling some positions &lpar;Ben Weiss/Fortune&rpar;](https://www.techmeme.com/260616/p40#a260616p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
