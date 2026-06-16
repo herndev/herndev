@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
- - ⏩ [Bad Mobility Shofer.](http://9gag.com/gag/a6ZPooL)
- - 👉 [Can someone tell me the context of this old meme](http://9gag.com/gag/ayNGDey)<!-- MEMES:END -->
+ - 💣 [I no ras**t, but..](http://9gag.com/gag/avyN7mX)
+ - ⏩ [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
+ - 👉 [Sad :&lpar;](http://9gag.com/gag/aQzGe32)<!-- MEMES:END -->
 
 ---
 
