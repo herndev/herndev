@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new wearable is trying to save you from yourself &lpar;and your phone&rpar;](https://www.androidauthority.com/jaye-band-launch-3676173/)
- - [Ripple acquires a stake in Flutterwave as part of the African payments startup&#39;s Series E, which values the company at $3.2B &lpar;Emele Onu/Bloomberg&rpar;](https://www.techmeme.com/260616/p17#a260616p17)
- - [These mechanical keyboards are two very different sides of the same beautifully made coin](https://www.theverge.com/tech/942472/dry-studio-atm98-silent-evoworks-evo75-mechanical-keyboard-thocky-review)<!-- TECH:END -->
+ - [Sources: the Trump administration won&#39;t allow G7 countries to regain access to Mythos 5 as doing so would be &quot;completely illogical&quot;; UK requested a &quot;carve-out&quot; &lpar;James Franey/New York Post&rpar;](https://www.techmeme.com/260616/p26#a260616p26)
+ - [Florida sues TikTok for allegedly violating its social media ban for kids](https://www.theverge.com/tech/950632/florida-tiktok-lawsuit-social-media-ban)
+ - [Samsung confirms Galaxy Z Flip 7, Fold 7 will have major roles in new Spider-Man movie](https://www.androidauthority.com/spider-man-brand-new-day-samsung-galaxy-devices-3677735/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
