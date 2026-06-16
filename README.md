@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qobuz Is the Anti-Spotify Music Streamer You’ve Been Waiting For](https://www.wired.com/story/qobuz-is-the-anti-spotify-we-need-right-now/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, June 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-june-16/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 16, #631](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-16-631/)<!-- TECH:END -->
+ - [This free Android app brings all your emulated games under a single console-style roof](https://www.androidauthority.com/iisu-android-emulator-game-hub-3677762/)
+ - [Kuala Lumpur-based Respond.io, which uses AI agents to manage customer conversations, raised a $62.5M Series B led by Camber, following a $7M Series A in 2022 &lpar;Kate Park/TechCrunch&rpar;](https://www.techmeme.com/260616/p6#a260616p6)
+ - [Galaxy Z Fold 8 FCC listing confirms key details about Samsung’s wide foldable](https://www.androidauthority.com/samsung-galaxy-z-fold-8-wide-listing-3677724/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
