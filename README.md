@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mastodon adds email newsletters, letting writers send their posts directly to subscribers&#39; inboxes, even to readers without a Mastodon account &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260617/p47#a260617p47)
- - [In an interview, Tim Cook says Apple price hikes are &quot;unavoidable&quot; to offset surging memory and storage chip costs, and &quot;the situation has become unsustainable&quot; &lpar;Rolfe Winkler/Wall Street Journal&rpar;](https://www.techmeme.com/260617/p46#a260617p46)
- - [Google confirms: These Nest smart speakers have ended production](https://www.androidauthority.com/nest-audio-dead-3678691/)<!-- TECH:END -->
+ - [Apple&#39;s planned move of Hide My Email aliases to private.icloud.com will let services easily distinguish them from normal iCloud email addresses and block them &lpar;Arseniy Shestakov&rpar;](https://www.techmeme.com/260617/p48#a260617p48)
+ - [AI-driven chip shortages to cause Apple product price increase, says Cook](https://appleinsider.com/articles/26/06/17/ai-driven-ship-shortages-to-cause-apple-product-price-increase-says-cook?utm_source=rss)
+ - [Tim Cook says RAM expenses are &amp;#8216;unsustainable&amp;#8217; and Apple is going to raise prices](https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
