@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
- - ⏩ [Agree!](http://9gag.com/gag/aZZe360)
- - 👉 [Sad :&lpar;](http://9gag.com/gag/aQzGe32)<!-- MEMES:END -->
+ - 💣 [COD. Totally worth the wait](http://9gag.com/gag/aYQ9gM0)
+ - ⏩ [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
+ - 👉 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
 
 ---
 
