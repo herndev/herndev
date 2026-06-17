@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everywhere...](http://9gag.com/gag/a9yoR10)
- - ⏩ [Green](http://9gag.com/gag/aLnx0vP)
- - 👉 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
+ - 💣 [Green](http://9gag.com/gag/aLnx0vP)
+ - ⏩ [Don&#39;t.](http://9gag.com/gag/apROmwD)
+ - 👉 [Life choices](http://9gag.com/gag/a87Z301)<!-- MEMES:END -->
 
 ---
 
