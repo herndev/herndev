@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [For Iran’s Athletes, There Is No Separating Sports From Politics](https://www.wired.com/story/iran-world-cup-sports-politics/)
- - [Pixel phones just got the biggest multitasking upgrade in years — here’s how to use it](https://www.androidauthority.com/android-17-pixel-app-bubbles-multitasking-how-use-3677868/)
- - [Interactive. Violent. Gross. Inside Fishtank, the Unhinged Future of Reality TV](https://www.wired.com/story/interactive-violent-gross-inside-fishtank-the-unhinged-future-of-reality-tv/)<!-- TECH:END -->
+ - [Twenty, which uses AI to help US military hackers penetrate adversary computer networks, raised a $100M Series B led by Accel at a $1B valuation &lpar;Colin Demarest/Axios&rpar;](https://www.techmeme.com/260617/p20#a260617p20)
+ - [Nasdaq Private Market sues Hiive, claiming Hiive stole trade secrets and infringed on its IP, poaching two employees in part to access confidential information &lpar;Yazhou Sun/Bloomberg&rpar;](https://www.techmeme.com/260617/p19#a260617p19)
+ - [Apple&#39;s Silicon Valley real estate assets gain a $162M office building](https://appleinsider.com/articles/26/06/17/apples-silicon-valley-real-estate-assets-gain-a-162m-office-building?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
