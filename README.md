@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Agree!](http://9gag.com/gag/aZZe360)
- - ⏩ [Pedophile Ryan Abdelrahim gets busted for trying to meet at 12 yr old for the wrong reasons](http://9gag.com/gag/a7oQ3zx)
- - 👉 [Hmmm, does it work ?](http://9gag.com/gag/avyN7qO)<!-- MEMES:END -->
+ - 💣 [Woman fights off cougar to save her little goat](http://9gag.com/gag/aO8wYqD)
+ - ⏩ [Agree!](http://9gag.com/gag/aZZe360)
+ - 👉 [Life choices](http://9gag.com/gag/a87Z301)<!-- MEMES:END -->
 
 ---
 
