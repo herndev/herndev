@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Dario Amodei and Demis Hassabis called for a US-led coalition to shape AI rules and standards at a closed-door meeting at the G7 summit on Wednesday &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260617/p39#a260617p39)
- - [Blink has a big speed advantage against WebKit in browser tests](https://appleinsider.com/articles/26/06/17/blink-has-a-big-speed-advantage-against-webkit-in-browser-tests?utm_source=rss)
- - [iPhone users can now join the &#39;Pokemon Champions&#39; fray](https://appleinsider.com/articles/26/06/17/iphone-users-can-now-join-the-pokemon-champions-fray?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic got hit by export rules nobody understands](https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls)
+ - [Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital](https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/)
+ - [No, I Don’t Want to Watch Your Straight Hockey Show](https://www.wired.com/story/story/no-i-dont-want-to-watch-your-straight-hockey-show-heated-rivalry/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
