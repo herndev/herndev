@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thread has a new app to take the guesswork out of smart home troubleshooting](https://www.androidauthority.com/thread-tools-app-3678129/)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;June 17&rpar;](https://www.androidauthority.com/wallpaper-wednesday-june-17-2026-3677691/)
- - [How to find the best deals during Amazon’s Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)<!-- TECH:END -->
+ - [Sign in with Apple domain consolidation could trip up unprepared services](https://appleinsider.com/articles/26/06/17/sign-in-with-apple-domain-consolidation-could-trip-up-unprepared-services?utm_source=rss)
+ - [Jackery launches four new ways to keep the lights on when the grid gives up](https://www.androidauthority.com/jackery-home-power-backup-fridge-guard-3678425/)
+ - [Your biggest smart home setup headache is finally going away](https://www.androidauthority.com/csa-unveiled-matter-1-6-3678581/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
