@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic got hit by export rules nobody understands](https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls)
- - [Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital](https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/)
- - [No, I Don’t Want to Watch Your Straight Hockey Show](https://www.wired.com/story/story/no-i-dont-want-to-watch-your-straight-hockey-show-heated-rivalry/)<!-- TECH:END -->
+ - [Apple&#39;s Game Porting Toolkit 4 is a big improvement for modern game coders](https://appleinsider.com/articles/26/06/17/apples-game-porting-toolkit-4-is-a-big-improvement-for-modern-game-coders?utm_source=rss)
+ - [Epic says Unreal Engine 6, planned for early access in late 2027, will unify UE5 and Unreal Editor for Fortnite, add integrations with Claude and Gemini, more &lpar;Andy Robinson/Video Games Chronicle&rpar;](https://www.techmeme.com/260617/p41#a260617p41)
+ - [Epic wants to let you bring your Fortnite skins to other games](https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
