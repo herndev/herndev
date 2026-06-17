@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Gemini app’s mic just got a major upgrade for multilingual users](https://www.androidauthority.com/gemini-app-mic-voice-input-new-languages-3678300/)
- - [A profile of Anthropic researcher Nicholas Carlini, who warned about Mythos in March and is now part of an Anthropic team briefing the White House on safeguards &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260617/p11#a260617p11)
- - [Sources: Samsung is seeing a rise in advanced chip production requests from BYD, Google, AMD, and others as TSMC&#39;s capacity remains constrained by AI demand &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260617/p10#a260617p10)<!-- TECH:END -->
+ - [New report gives T-Mobile the throne for the best carrier in the US](https://www.androidauthority.com/t-mobile-beats-att-verizon-5g-report-3678341/)
+ - [Forget basic transcriptions: An upcoming wearable wants to power autonomous AI agents](https://www.androidauthority.com/plaud-new-ai-agent-wearable-3678336/)
+ - [Google Voice now take notes on your calls, then sends you the summary via Gmail](https://www.androidauthority.com/google-voice-ai-call-notes-transcription-3678331/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
