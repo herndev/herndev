@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US has held off adding DeepSeek, CXMT, and 100+ other flagged companies to its Entity List, last updated in October, the longest gap in 10+ years &lpar;Karen Freifeld/Reuters&rpar;](https://www.techmeme.com/260616/p46#a260616p46)
- - [Sources: Amazon faces a possible FTC lawsuit alleging it misled advertisers; multiple state AGs are involved and the case could seek billions in civil penalties &lpar;Bloomberg&rpar;](https://www.techmeme.com/260616/p45#a260616p45)
- - [Many US lawmakers said this week they had not been formally briefed on Trump&#39;s Fable 5 move, including Ted Cruz, whose commerce committee can shape AI policy &lpar;Politico&rpar;](https://www.techmeme.com/260616/p44#a260616p44)<!-- TECH:END -->
+ - [Sources: Meta decided to support KOSA after it was packaged with language preempting state AI laws and a bill requiring app stores to verify users&#39; ages &lpar;Politico&rpar;](https://www.techmeme.com/260616/p48#a260616p48)
+ - [Kapwing: in tests, ~60% of the first 500 TikTok For You videos shown to a new account were AI slop, ~3x the slop shown to a new YouTube user via YouTube Shorts &lpar;Matt G. Southern/Search Engine Journal&rpar;](https://www.techmeme.com/260616/p47#a260616p47)
+ - [Sources: the US has held off adding DeepSeek, CXMT, and 100+ other flagged companies to its Entity List, last updated in October, the longest gap in 10+ years &lpar;Karen Freifeld/Reuters&rpar;](https://www.techmeme.com/260616/p46#a260616p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
