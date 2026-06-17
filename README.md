@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad Mobility Shofer.](http://9gag.com/gag/a6ZPooL)
- - ⏩ [Agree!](http://9gag.com/gag/aZZe360)
+ - 💣 [Liberals will have a meltdown about these criminals being deported](http://9gag.com/gag/an76Mez)
+ - ⏩ [Life choices](http://9gag.com/gag/a87Z301)
  - 👉 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)<!-- MEMES:END -->
 
 ---
