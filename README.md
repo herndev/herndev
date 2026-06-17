@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New report gives T-Mobile the throne for the best carrier in the US](https://www.androidauthority.com/t-mobile-beats-att-verizon-5g-report-3678341/)
- - [Forget basic transcriptions: An upcoming wearable wants to power autonomous AI agents](https://www.androidauthority.com/plaud-new-ai-agent-wearable-3678336/)
- - [Google Voice now take notes on your calls, then sends you the summary via Gmail](https://www.androidauthority.com/google-voice-ai-call-notes-transcription-3678331/)<!-- TECH:END -->
+ - [For Iran’s Athletes, There Is No Separating Sports From Politics](https://www.wired.com/story/iran-world-cup-sports-politics/)
+ - [Pixel phones just got the biggest multitasking upgrade in years — here’s how to use it](https://www.androidauthority.com/android-17-pixel-app-bubbles-multitasking-how-use-3677868/)
+ - [Interactive. Violent. Gross. Inside Fishtank, the Unhinged Future of Reality TV](https://www.wired.com/story/interactive-violent-gross-inside-fishtank-the-unhinged-future-of-reality-tv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
