@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everywhere...](http://9gag.com/gag/a9yoR10)
- - ⏩ [Life choices](http://9gag.com/gag/a87Z301)
- - 👉 [Green](http://9gag.com/gag/aLnx0vP)<!-- MEMES:END -->
+ - 💣 [80s avengers](http://9gag.com/gag/a0eBQDL)
+ - ⏩ [That moment you realize you forgot to turn off the power](http://9gag.com/gag/aVvA3Bd)
+ - 👉 [Terrible News](http://9gag.com/gag/a34mREQ)<!-- MEMES:END -->
 
 ---
 
