@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life choices](http://9gag.com/gag/a87Z301)
- - ⏩ [Agree!](http://9gag.com/gag/aZZe360)
- - 👉 [Are we doomed?](http://9gag.com/gag/axy5z7p)<!-- MEMES:END -->
+ - 💣 [Everywhere...](http://9gag.com/gag/a9yoR10)
+ - ⏩ [Green](http://9gag.com/gag/aLnx0vP)
+ - 👉 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
 
 ---
 
