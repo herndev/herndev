@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Green](http://9gag.com/gag/aLnx0vP)
- - ⏩ [Don&#39;t.](http://9gag.com/gag/apROmwD)
- - 👉 [Life choices](http://9gag.com/gag/a87Z301)<!-- MEMES:END -->
+ - 💣 [80s avengers](http://9gag.com/gag/a0eBQDL)
+ - ⏩ [It was better when there was racism](http://9gag.com/gag/an765wB)
+ - 👉 [Guess how old he is](http://9gag.com/gag/adBE5E2)<!-- MEMES:END -->
 
 ---
 
