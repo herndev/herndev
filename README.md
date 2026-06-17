@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman fights off cougar to save her little goat](http://9gag.com/gag/aO8wYqD)
+ - 💣 [Life choices](http://9gag.com/gag/a87Z301)
  - ⏩ [Agree!](http://9gag.com/gag/aZZe360)
- - 👉 [Life choices](http://9gag.com/gag/a87Z301)<!-- MEMES:END -->
+ - 👉 [Are we doomed?](http://9gag.com/gag/axy5z7p)<!-- MEMES:END -->
 
 ---
 
