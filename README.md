@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Liberals will have a meltdown about these criminals being deported](http://9gag.com/gag/an76Mez)
+ - 💣 [Tom the Mime](http://9gag.com/gag/aD2yz5d)
  - ⏩ [Life choices](http://9gag.com/gag/a87Z301)
- - 👉 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)<!-- MEMES:END -->
+ - 👉 [Hmmm, does it work ?](http://9gag.com/gag/avyN7qO)<!-- MEMES:END -->
 
 ---
 
