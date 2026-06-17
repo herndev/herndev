@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s planned move of Hide My Email aliases to private.icloud.com will let services easily distinguish them from normal iCloud email addresses and block them &lpar;Arseniy Shestakov&rpar;](https://www.techmeme.com/260617/p48#a260617p48)
- - [AI-driven chip shortages to cause Apple product price increase, says Cook](https://appleinsider.com/articles/26/06/17/ai-driven-ship-shortages-to-cause-apple-product-price-increase-says-cook?utm_source=rss)
- - [Tim Cook says RAM expenses are &amp;#8216;unsustainable&amp;#8217; and Apple is going to raise prices](https://www.theverge.com/tech/951948/apple-tim-cook-price-increases-ram)<!-- TECH:END -->
+ - [Apple&#39;s AI agents in Xcode 27 make vibe coding easier](https://appleinsider.com/articles/26/06/17/apples-ai-agents-in-xcode-27-make-vibe-coding-easier?utm_source=rss)
+ - [Trump administration officials say Anthropic must ensure Fable 5&#39;s guardrails can&#39;t be circumvented before rerelease; experts say that may not be possible &lpar;Hugo Lowell/Wired&rpar;](https://www.techmeme.com/260617/p49#a260617p49)
+ - [The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy](https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
