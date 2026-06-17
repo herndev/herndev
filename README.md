@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tom the Mime](http://9gag.com/gag/aD2yz5d)
- - ⏩ [Life choices](http://9gag.com/gag/a87Z301)
+ - 💣 [Agree!](http://9gag.com/gag/aZZe360)
+ - ⏩ [Pedophile Ryan Abdelrahim gets busted for trying to meet at 12 yr old for the wrong reasons](http://9gag.com/gag/a7oQ3zx)
  - 👉 [Hmmm, does it work ?](http://9gag.com/gag/avyN7qO)<!-- MEMES:END -->
 
 ---
