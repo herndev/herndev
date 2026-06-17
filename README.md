@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Illinois Gov. JB Pritzker signs a state budget with new taxes on social media giants, digital ads, and prediction and crypto markets, all likely facing lawsuits &lpar;Mitchell Armentrout/Chicago Sun Times&rpar;](https://www.techmeme.com/260616/p43#a260616p43)
- - [Best Handheld Fans and Wearable Fans &lpar;2026&rpar;](https://www.wired.com/gallery/best-handheld-fans/)
- - [iPhone part factory in India no longer in danger of shutting down](https://appleinsider.com/articles/26/06/16/iphone-part-factory-in-india-no-longer-in-danger-of-shutting-down?utm_source=rss)<!-- TECH:END -->
+ - [Sources: the US has held off adding DeepSeek, CXMT, and 100+ other flagged companies to its Entity List, last updated in October, the longest gap in 10+ years &lpar;Karen Freifeld/Reuters&rpar;](https://www.techmeme.com/260616/p46#a260616p46)
+ - [Sources: Amazon faces a possible FTC lawsuit alleging it misled advertisers; multiple state AGs are involved and the case could seek billions in civil penalties &lpar;Bloomberg&rpar;](https://www.techmeme.com/260616/p45#a260616p45)
+ - [Many US lawmakers said this week they had not been formally briefed on Trump&#39;s Fable 5 move, including Ted Cruz, whose commerce committee can shape AI policy &lpar;Politico&rpar;](https://www.techmeme.com/260616/p44#a260616p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
