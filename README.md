@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bernie Sanders proposes legislation to create a sovereign wealth fund financed via a one-time 50% stock tax on AI companies that reach $200M in annual AI sales &lpar;Joey Cappelletti/Associated Press&rpar;](https://www.techmeme.com/260617/p44#a260617p44)
- - [iPhone Air successor rumored for spring 2027 with two cameras](https://appleinsider.com/articles/26/06/17/iphone-air-successor-rumored-for-spring-2027-with-two-cameras?utm_source=rss)
- - [Google is testing adding an AI Mode shortcut right in Chrome’s toolbar](https://www.androidauthority.com/google-chrome-ai-mode-toolbar-button-3678679/)<!-- TECH:END -->
+ - [Mastodon adds email newsletters, letting writers send their posts directly to subscribers&#39; inboxes, even to readers without a Mastodon account &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260617/p47#a260617p47)
+ - [In an interview, Tim Cook says Apple price hikes are &quot;unavoidable&quot; to offset surging memory and storage chip costs, and &quot;the situation has become unsustainable&quot; &lpar;Rolfe Winkler/Wall Street Journal&rpar;](https://www.techmeme.com/260617/p46#a260617p46)
+ - [Google confirms: These Nest smart speakers have ended production](https://www.androidauthority.com/nest-audio-dead-3678691/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
