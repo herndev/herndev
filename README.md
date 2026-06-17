@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Wyoming&#39;s Frontier Stable Token, which launched in January and currently has a market value of ~$1M, as other states explore &quot;white labeling&quot; the tech &lpar;David Voreacos/Bloomberg&rpar;](https://www.techmeme.com/260617/p2#a260617p2)
- - [Your Spotify username is about to become a lot less useful](https://www.androidauthority.com/spotify-user-name-sign-in-change-3678269/)
- - [Databricks says annualized revenue rose 80%+ YoY to $6.9B, up from $5.4B in Q4; CEO Ali Ghodsi says higher AI agent usage is increasing costs, lowering margins &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260617/p1#a260617p1)<!-- TECH:END -->
+ - [The Gemini app’s mic just got a major upgrade for multilingual users](https://www.androidauthority.com/gemini-app-mic-voice-input-new-languages-3678300/)
+ - [A profile of Anthropic researcher Nicholas Carlini, who warned about Mythos in March and is now part of an Anthropic team briefing the White House on safeguards &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260617/p11#a260617p11)
+ - [Sources: Samsung is seeing a rise in advanced chip production requests from BYD, Google, AMD, and others as TSMC&#39;s capacity remains constrained by AI demand &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260617/p10#a260617p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
