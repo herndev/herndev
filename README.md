@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Game Porting Toolkit 4 is a big improvement for modern game coders](https://appleinsider.com/articles/26/06/17/apples-game-porting-toolkit-4-is-a-big-improvement-for-modern-game-coders?utm_source=rss)
- - [Epic says Unreal Engine 6, planned for early access in late 2027, will unify UE5 and Unreal Editor for Fortnite, add integrations with Claude and Gemini, more &lpar;Andy Robinson/Video Games Chronicle&rpar;](https://www.techmeme.com/260617/p41#a260617p41)
- - [Epic wants to let you bring your Fortnite skins to other games](https://www.theverge.com/games/951785/epic-games-fortnite-unreal-fest-2026-unreal-engine-6-ai-metaverse)<!-- TECH:END -->
+ - [Bernie Sanders proposes legislation to create a sovereign wealth fund financed via a one-time 50% stock tax on AI companies that reach $200M in annual AI sales &lpar;Joey Cappelletti/Associated Press&rpar;](https://www.techmeme.com/260617/p44#a260617p44)
+ - [iPhone Air successor rumored for spring 2027 with two cameras](https://appleinsider.com/articles/26/06/17/iphone-air-successor-rumored-for-spring-2027-with-two-cameras?utm_source=rss)
+ - [Google is testing adding an AI Mode shortcut right in Chrome’s toolbar](https://www.androidauthority.com/google-chrome-ai-mode-toolbar-button-3678679/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
