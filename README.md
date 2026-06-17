@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [COD. Totally worth the wait](http://9gag.com/gag/aYQ9gM0)
- - ⏩ [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
- - 👉 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
+ - 💣 [Bad Mobility Shofer.](http://9gag.com/gag/a6ZPooL)
+ - ⏩ [Agree!](http://9gag.com/gag/aZZe360)
+ - 👉 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)<!-- MEMES:END -->
 
 ---
 
