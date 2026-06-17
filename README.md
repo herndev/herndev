@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twenty, which uses AI to help US military hackers penetrate adversary computer networks, raised a $100M Series B led by Accel at a $1B valuation &lpar;Colin Demarest/Axios&rpar;](https://www.techmeme.com/260617/p20#a260617p20)
- - [Nasdaq Private Market sues Hiive, claiming Hiive stole trade secrets and infringed on its IP, poaching two employees in part to access confidential information &lpar;Yazhou Sun/Bloomberg&rpar;](https://www.techmeme.com/260617/p19#a260617p19)
- - [Apple&#39;s Silicon Valley real estate assets gain a $162M office building](https://appleinsider.com/articles/26/06/17/apples-silicon-valley-real-estate-assets-gain-a-162m-office-building?utm_source=rss)<!-- TECH:END -->
+ - [Thread has a new app to take the guesswork out of smart home troubleshooting](https://www.androidauthority.com/thread-tools-app-3678129/)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;June 17&rpar;](https://www.androidauthority.com/wallpaper-wednesday-june-17-2026-3677691/)
+ - [How to find the best deals during Amazon’s Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
