@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta decided to support KOSA after it was packaged with language preempting state AI laws and a bill requiring app stores to verify users&#39; ages &lpar;Politico&rpar;](https://www.techmeme.com/260616/p48#a260616p48)
- - [Kapwing: in tests, ~60% of the first 500 TikTok For You videos shown to a new account were AI slop, ~3x the slop shown to a new YouTube user via YouTube Shorts &lpar;Matt G. Southern/Search Engine Journal&rpar;](https://www.techmeme.com/260616/p47#a260616p47)
- - [Sources: the US has held off adding DeepSeek, CXMT, and 100+ other flagged companies to its Entity List, last updated in October, the longest gap in 10+ years &lpar;Karen Freifeld/Reuters&rpar;](https://www.techmeme.com/260616/p46#a260616p46)<!-- TECH:END -->
+ - [A look at Wyoming&#39;s Frontier Stable Token, which launched in January and currently has a market value of ~$1M, as other states explore &quot;white labeling&quot; the tech &lpar;David Voreacos/Bloomberg&rpar;](https://www.techmeme.com/260617/p2#a260617p2)
+ - [Your Spotify username is about to become a lot less useful](https://www.androidauthority.com/spotify-user-name-sign-in-change-3678269/)
+ - [Databricks says annualized revenue rose 80%+ YoY to $6.9B, up from $5.4B in Q4; CEO Ali Ghodsi says higher AI agent usage is increasing costs, lowering margins &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260617/p1#a260617p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
