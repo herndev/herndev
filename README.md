@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sign in with Apple domain consolidation could trip up unprepared services](https://appleinsider.com/articles/26/06/17/sign-in-with-apple-domain-consolidation-could-trip-up-unprepared-services?utm_source=rss)
- - [Jackery launches four new ways to keep the lights on when the grid gives up](https://www.androidauthority.com/jackery-home-power-backup-fridge-guard-3678425/)
- - [Your biggest smart home setup headache is finally going away](https://www.androidauthority.com/csa-unveiled-matter-1-6-3678581/)<!-- TECH:END -->
+ - [Sources: Dario Amodei and Demis Hassabis called for a US-led coalition to shape AI rules and standards at a closed-door meeting at the G7 summit on Wednesday &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260617/p39#a260617p39)
+ - [Blink has a big speed advantage against WebKit in browser tests](https://appleinsider.com/articles/26/06/17/blink-has-a-big-speed-advantage-against-webkit-in-browser-tests?utm_source=rss)
+ - [iPhone users can now join the &#39;Pokemon Champions&#39; fray](https://appleinsider.com/articles/26/06/17/iphone-users-can-now-join-the-pokemon-champions-fray?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
