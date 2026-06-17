@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everywhere...](http://9gag.com/gag/a9yoR10)
- - ⏩ [Green](http://9gag.com/gag/aLnx0vP)
- - 👉 [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)<!-- MEMES:END -->
+ - 💣 [Pedophile Ryan Abdelrahim gets busted for trying to meet at 12 yr old for the wrong reasons](http://9gag.com/gag/a7oQ3zx)
+ - ⏩ [Not all heroes wear capes, some wear helmets and ride motorcycles. What a legend](http://9gag.com/gag/aRBn15j)
+ - 👉 [We&#39;re not moving on from the files](http://9gag.com/gag/aNDNYVK)<!-- MEMES:END -->
 
 ---
 
