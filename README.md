@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life choices](http://9gag.com/gag/a87Z301)
- - ⏩ [10 yo me stealing all the games from the internet caffe](http://9gag.com/gag/aLnxggv)
- - 👉 [Manly activity.](http://9gag.com/gag/a7oQ3DL)<!-- MEMES:END -->
+ - 💣 [So sad some people can&#39;t get their own Father&#39;s Day gift and have to do this](http://9gag.com/gag/aLnx8qA)
+ - ⏩ [Agree!](http://9gag.com/gag/aZZe360)
+ - 👉 [Sad :&lpar;](http://9gag.com/gag/aQzGe32)<!-- MEMES:END -->
 
 ---
 
