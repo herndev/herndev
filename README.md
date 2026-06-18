@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the early Chinese backers of Manus, including HSG and Tencent, plan to buy the AI startup back from Meta at the $2B price Meta paid &lpar;The Information&rpar;](https://www.techmeme.com/260618/p29#a260618p29)
- - [Architect Labs, which aims to use AI to cheapen and speed up the process of designing custom chips, raised a $24M seed led by Kindred Ventures &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260618/p28#a260618p28)
- - [Sources: the EU is set to unveil its preliminary findings that AWS and Azure likely meet the criteria for regulation under the DMA as early as next week &lpar;Bloomberg&rpar;](https://www.techmeme.com/260618/p27#a260618p27)<!-- TECH:END -->
+ - [Silicon Valley’s Elite Financial Advisers Say This Era of Wealth Is Different](https://www.wired.com/story/silicon-valleys-elite-financial-advisers-say-this-era-of-wealth-is-different/)
+ - [Google Calendar finally has more color options for events](https://www.theverge.com/tech/952123/google-calendar-event-color-options-expansion)
+ - [Need to Scan Important Documents? Use Your iPhone&#39;s Hidden Scanner](https://www.cnet.com/tech/mobile/sign-or-scan-papers-iphone-hidden-document-scanner-taxes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
