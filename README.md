@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap plans to spin off an internal generative AI video team into Dotmo, a new company focused on AI models for interactive gaming experiences, citing high costs &lpar;Lucas Ropek/TechCrunch&rpar;](https://www.techmeme.com/260618/p43#a260618p43)
- - [The White House Is Making Up Its Rules for AI in Real Time](https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/)
- - [Sources: Meta is under contract to buy roughly 1.6 GW of computing capacity from Crusoe across two data centers in Texas and Missouri &lpar;Bloomberg&rpar;](https://www.techmeme.com/260618/p42#a260618p42)<!-- TECH:END -->
+ - [Intel names former SK Hynix CEO Seok-Hee Lee as EVP of Intel Foundry; Naga Chandrasekaran will lead front-end technology development and front-end manufacturing &lpar;Juby Babu/Reuters&rpar;](https://www.techmeme.com/260618/p45#a260618p45)
+ - [Sources: Kalshi is generating $2B+ in annualized revenue, up about three times from November, and has held informal talks with banks about an eventual IPO &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260618/p44#a260618p44)
+ - [How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members](https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
