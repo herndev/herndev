@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT just got a feature you’ll actually use every day, but you need to pay for it](https://www.androidauthority.com/schedule-tasks-on-chatgpt-3678802/)
- - [Pixel Screenshots just moved away from using on-device AI only, but is it less private?](https://www.androidauthority.com/pixel-screenshots-cloud-processing-3678819/)
- - [This smartwatch packs a battery that could shame every major smartwatch](https://www.androidauthority.com/honor-watch-6-3678781/)<!-- TECH:END -->
+ - [Dream, co-founded by ex-NSO Group CEO Shalev Hulio with a focus on protecting critical infrastructure, raised $260M at a $3B valuation, up from $1B in 2025 &lpar;Galit Altstein/Bloomberg&rpar;](https://www.techmeme.com/260618/p15#a260618p15)
+ - [Your next TV might claim HDMI 2.2, but read the fine print before you pay up](https://www.androidauthority.com/first-hdmi-2-2-devices-coming-2027-3678906/)
+ - [5 Android phones you should buy instead of the Moto G &lpar;2026&rpar;](https://www.androidauthority.com/moto-g-2026-alternatives-3675928/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
