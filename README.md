@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We are a part of their life but they make us their whole world, cherish them while you still can](http://9gag.com/gag/aYQ9yeO)
- - ⏩ [The Moscow refinery in Kapotny today... `We pushed our luck...`](http://9gag.com/gag/aE03PWp)
- - 👉 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)<!-- MEMES:END -->
+ - 💣 [Don&#39;t.](http://9gag.com/gag/apROmwD)
+ - ⏩ [Peace is not an option](http://9gag.com/gag/a6ZPKzA)
+ - 👉 [Where&#39;s the rest of it?](http://9gag.com/gag/agmW5qK)<!-- MEMES:END -->
 
 ---
 
