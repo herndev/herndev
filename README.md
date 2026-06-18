@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zidan watching his son play be like: `I have no son`](http://9gag.com/gag/aGyXdK0)
- - ⏩ [Everywhere...](http://9gag.com/gag/a9yoR10)
- - 👉 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)<!-- MEMES:END -->
+ - 💣 [I imagine it was very close to this.](http://9gag.com/gag/aXPBg6v)
+ - ⏩ [There Is 13 Families Above The The 13 Families...](http://9gag.com/gag/ayNGMBM)
+ - 👉 [This is rare.](http://9gag.com/gag/amo3vov)<!-- MEMES:END -->
 
 ---
 
