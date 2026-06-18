@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Green](http://9gag.com/gag/aLnx0vP)
- - ⏩ [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)
- - 👉 [Everywhere...](http://9gag.com/gag/a9yoR10)<!-- MEMES:END -->
+ - 💣 [We are a part of their life but they make us their whole world, cherish them while you still can](http://9gag.com/gag/aYQ9yeO)
+ - ⏩ [The Moscow refinery in Kapotny today... `We pushed our luck...`](http://9gag.com/gag/aE03PWp)
+ - 👉 [A trick for parents](http://9gag.com/gag/an7657L)<!-- MEMES:END -->
 
 ---
 
