@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As tech giants rush to build AI infrastructure, some residents living near data centers say a constant infrasonic vibration is ruining their health and homes &lpar;Adeel Hassan/New York Times&rpar;](https://www.techmeme.com/260618/p12#a260618p12)
- - [A PwC study suggests that AI is rewarding companies that use it to enhance human skills, while leaving further behind those that use it merely to cut costs &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260618/p11#a260618p11)
- - [Businesses have started using Kalshi to hedge business risks; Kalshi says institutional trading volume on its platform has grown 800% since November 2025 &lpar;Michael J. de la Merced/New York Times&rpar;](https://www.techmeme.com/260618/p10#a260618p10)<!-- TECH:END -->
+ - [ChatGPT just got a feature you’ll actually use every day, but you need to pay for it](https://www.androidauthority.com/schedule-tasks-on-chatgpt-3678802/)
+ - [Pixel Screenshots just moved away from using on-device AI only, but is it less private?](https://www.androidauthority.com/pixel-screenshots-cloud-processing-3678819/)
+ - [This smartwatch packs a battery that could shame every major smartwatch](https://www.androidauthority.com/honor-watch-6-3678781/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
