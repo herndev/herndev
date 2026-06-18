@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t.](http://9gag.com/gag/apROmwD)
- - ⏩ [Where&#39;s the rest of it?](http://9gag.com/gag/agmW5qK)
- - 👉 [Prosthetic legs took a massive step forward](http://9gag.com/gag/a4Pv39m)<!-- MEMES:END -->
+ - 💣 [Agree!](http://9gag.com/gag/aZZe360)
+ - ⏩ [Life choices](http://9gag.com/gag/a87Z301)
+ - 👉 [Everywhere...](http://9gag.com/gag/a9yoR10)<!-- MEMES:END -->
 
 ---
 
