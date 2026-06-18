@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Midjourney unveils its first hardware product, the Midjourney Scanner, an ultrasound-based full-body scanner; it is unclear how AI fits into the medical effort &lpar;Richard Lawler/The Verge&rpar;](https://www.techmeme.com/260618/p1#a260618p1)
- - [Google’s latest Android XR demo gives smart glasses a killer use case](https://www.androidauthority.com/google-android-xr-tour-guide-demo-3678749/)
- - [Nvidia researchers unveil ENPIRE, an agent harness framework that develops robotic self-improvement strategies for physical tasks with minimal human supervision &lpar;Jeremy Hsu/Ars Technica&rpar;](https://www.techmeme.com/260617/p57#a260617p57)<!-- TECH:END -->
+ - [As tech giants rush to build AI infrastructure, some residents living near data centers say a constant infrasonic vibration is ruining their health and homes &lpar;Adeel Hassan/New York Times&rpar;](https://www.techmeme.com/260618/p12#a260618p12)
+ - [A PwC study suggests that AI is rewarding companies that use it to enhance human skills, while leaving further behind those that use it merely to cut costs &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260618/p11#a260618p11)
+ - [Businesses have started using Kalshi to hedge business risks; Kalshi says institutional trading volume on its platform has grown 800% since November 2025 &lpar;Michael J. de la Merced/New York Times&rpar;](https://www.techmeme.com/260618/p10#a260618p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
