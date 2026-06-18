@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Agree!](http://9gag.com/gag/aZZe360)
- - ⏩ [Life choices](http://9gag.com/gag/a87Z301)
- - 👉 [Everywhere...](http://9gag.com/gag/a9yoR10)<!-- MEMES:END -->
+ - 💣 [Where&#39;s the rest of it?](http://9gag.com/gag/agmW5qK)
+ - ⏩ [Green](http://9gag.com/gag/aLnx0vP)
+ - 👉 [Pedophile Ryan Abdelrahim gets busted for trying to meet at 12 yr old for the wrong reasons](http://9gag.com/gag/a7oQ3zx)<!-- MEMES:END -->
 
 ---
 
