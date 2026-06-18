@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At AWS Summit, AWS announced Continuum, which uses AI to find and fix code vulnerabilities, Context, which organizes company data for AI agents, and more &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260617/p51#a260617p51)
- - [Frontier, a group including Stripe, Google, Salesforce, and newly joined Anthropic, commits $915M to buy carbon-removal credits, on top of $1B already pledged &lpar;Yusuf Khan/Wall Street Journal&rpar;](https://www.techmeme.com/260617/p50#a260617p50)
- - [Apple&#39;s AI agents in Xcode 27 make vibe coding easier](https://appleinsider.com/articles/26/06/17/apples-ai-agents-in-xcode-27-make-vibe-coding-easier?utm_source=rss)<!-- TECH:END -->
+ - [Filing: Roelof Botha has joined the board of SpaceX as an independent director, seven months after stepping down as Sequoia steward &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260617/p54#a260617p54)
+ - [Google confirms it has ended production of the Nest Mini and Nest Audio, but existing devices will continue to be fully supported &lpar;Chris Martin/Tech Advisor&rpar;](https://www.techmeme.com/260617/p53#a260617p53)
+ - [Pressure mounts for Apple to give unionized workers better options as Towson store closes](https://appleinsider.com/articles/26/06/18/pressure-mounts-for-apple-to-give-unionized-workers-better-options-as-towson-store-closes?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
