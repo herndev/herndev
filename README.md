@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [We are a part of their life but they make us their whole world, cherish them while you still can](http://9gag.com/gag/aYQ9yeO)
  - ⏩ [The Moscow refinery in Kapotny today... `We pushed our luck...`](http://9gag.com/gag/aE03PWp)
- - 👉 [A trick for parents](http://9gag.com/gag/an7657L)<!-- MEMES:END -->
+ - 👉 [This is rare.](http://9gag.com/gag/amo3vov)<!-- MEMES:END -->
 
 ---
 
