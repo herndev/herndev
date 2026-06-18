@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t.](http://9gag.com/gag/apROmwD)
- - ⏩ [Zidan watching his son play be like: `I have no son`](http://9gag.com/gag/aGyXdK0)
+ - 💣 [Zidan watching his son play be like: `I have no son`](http://9gag.com/gag/aGyXdK0)
+ - ⏩ [Everywhere...](http://9gag.com/gag/a9yoR10)
  - 👉 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)<!-- MEMES:END -->
 
 ---
