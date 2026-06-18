@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Roelof Botha has joined the board of SpaceX as an independent director, seven months after stepping down as Sequoia steward &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260617/p54#a260617p54)
- - [Google confirms it has ended production of the Nest Mini and Nest Audio, but existing devices will continue to be fully supported &lpar;Chris Martin/Tech Advisor&rpar;](https://www.techmeme.com/260617/p53#a260617p53)
- - [Pressure mounts for Apple to give unionized workers better options as Towson store closes](https://appleinsider.com/articles/26/06/18/pressure-mounts-for-apple-to-give-unionized-workers-better-options-as-towson-store-closes?utm_source=rss)<!-- TECH:END -->
+ - [A survey of US adults: 49% reported using chatbots in 2026, up from 33% in 2024, 24% said that they use chatbots on a daily basis, and 44% said they use ChatGPT &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260617/p56#a260617p56)
+ - [Sources: the White House&#39;s move to restrict Mythos 5 came after it ordered Anthropic to revoke South Korea-based SK Telecom&#39;s access over alleged ties to China &lpar;Wired&rpar;](https://www.techmeme.com/260617/p55#a260617p55)
+ - [Filing: Roelof Botha has joined the board of SpaceX as an independent director, seven months after stepping down as Sequoia steward &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260617/p54#a260617p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
