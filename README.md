@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung The Frame Pro 2026 Review: Pricey But Worth It](https://www.wired.com/review/samsung-the-frame-pro-2026/)
- - [This Ghost in the Shell keyboard makes me want to activate the hundred spidery robot fingers inside my regular fingers](https://www.theverge.com/tech/951371/iqunix-ev63-ghost-in-the-shell-edition-anime-gaming-mechanical-keyboard-review)
- - [Trump confirms that Apple will buy chips made by Intel](https://appleinsider.com/articles/26/06/18/trump-confirms-that-apple-will-buy-chips-made-by-intel?utm_source=rss)<!-- TECH:END -->
+ - [Sources: the early Chinese backers of Manus, including HSG and Tencent, plan to buy the AI startup back from Meta at the $2B price Meta paid &lpar;The Information&rpar;](https://www.techmeme.com/260618/p29#a260618p29)
+ - [Architect Labs, which aims to use AI to cheapen and speed up the process of designing custom chips, raised a $24M seed led by Kindred Ventures &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260618/p28#a260618p28)
+ - [Sources: the EU is set to unveil its preliminary findings that AWS and Azure likely meet the criteria for regulation under the DMA as early as next week &lpar;Bloomberg&rpar;](https://www.techmeme.com/260618/p27#a260618p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
