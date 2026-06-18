@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Formula 1 Austrian Grand Prix will be free on Apple TV in the US](https://appleinsider.com/articles/26/06/18/formula-1-austrian-grand-prix-will-be-free-on-apple-tv-in-the-us?utm_source=rss)
- - [Apple opens iOS to alternative app marketplaces in Brazil and changes App Store commission structure following a settlement with competition watchdog CADE &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260618/p35#a260618p35)
- - [EU-style App Store rules reach Brazil with new app stores &amp; payments](https://appleinsider.com/articles/26/06/18/eu-style-app-store-rules-reach-brazil-with-new-app-stores-payments?utm_source=rss)<!-- TECH:END -->
+ - [Trump Mocked Mark Zuckerberg and Jeff Bezos by Showing Off Fawning Texts](https://www.wired.com/story/trump-mocked-mark-zuckerberg-and-jeff-bezos-by-showing-off-fawning-texts/)
+ - [Samsung’s latest smartwatch shipments paint a sorry picture — while Apple looms](https://www.androidauthority.com/samsung-smartwatch-shipments-3679088/)
+ - [I Want Sennheiser&#39;s New Accentum Clip Earbuds, But I&#39;ll Have to Go to Canada to Get Them](https://www.cnet.com/tech/mobile/sennheiser-accentum-clip-earbuds-preview/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
