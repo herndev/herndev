@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Agree!](http://9gag.com/gag/aZZe360)
- - ⏩ [He won twice \ud83d\udc4c](http://9gag.com/gag/aqy0K7R)
- - 👉 [Green](http://9gag.com/gag/aLnx0vP)<!-- MEMES:END -->
+ - 💣 [Green](http://9gag.com/gag/aLnx0vP)
+ - ⏩ [Where&#39;s the rest of it?](http://9gag.com/gag/agmW5qK)
+ - 👉 [Life choices](http://9gag.com/gag/a87Z301)<!-- MEMES:END -->
 
 ---
 
