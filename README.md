@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It wasn\u2019t me!](http://9gag.com/gag/azxnXRq)
+ - 💣 [Don&#39;t.](http://9gag.com/gag/apROmwD)
  - ⏩ [Where&#39;s the rest of it?](http://9gag.com/gag/agmW5qK)
- - 👉 [Green](http://9gag.com/gag/aLnx0vP)<!-- MEMES:END -->
+ - 👉 [Prosthetic legs took a massive step forward](http://9gag.com/gag/a4Pv39m)<!-- MEMES:END -->
 
 ---
 
