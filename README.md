@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Mocked Mark Zuckerberg and Jeff Bezos by Showing Off Fawning Texts](https://www.wired.com/story/trump-mocked-mark-zuckerberg-and-jeff-bezos-by-showing-off-fawning-texts/)
- - [Samsung’s latest smartwatch shipments paint a sorry picture — while Apple looms](https://www.androidauthority.com/samsung-smartwatch-shipments-3679088/)
- - [I Want Sennheiser&#39;s New Accentum Clip Earbuds, But I&#39;ll Have to Go to Canada to Get Them](https://www.cnet.com/tech/mobile/sennheiser-accentum-clip-earbuds-preview/)<!-- TECH:END -->
+ - [This Prime Day deal cuts 42% off the Amazon Fire HD 8 Kids tablet](https://www.androidauthority.com/amazon-fire-hd-8-kids-tablet-deal-3679149/)
+ - [Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump](https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/)
+ - [Sources: APEC, a derivatives exchange founded by the 22-year-old son of pro-crypto Senator Kirsten Gillibrand, raised $30M led by Lux at a $300M valuation &lpar;Ben Weiss/Fortune&rpar;](https://www.techmeme.com/260618/p39#a260618p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
