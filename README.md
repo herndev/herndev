@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [80s avengers](http://9gag.com/gag/a0eBQDL)
- - ⏩ [That moment you realize you forgot to turn off the power](http://9gag.com/gag/aVvA3Bd)
- - 👉 [Terrible News](http://9gag.com/gag/a34mREQ)<!-- MEMES:END -->
+ - 💣 [It wasn\u2019t me!](http://9gag.com/gag/azxnXRq)
+ - ⏩ [Where&#39;s the rest of it?](http://9gag.com/gag/agmW5qK)
+ - 👉 [Green](http://9gag.com/gag/aLnx0vP)<!-- MEMES:END -->
 
 ---
 
