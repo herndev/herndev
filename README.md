@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of US adults: 49% reported using chatbots in 2026, up from 33% in 2024, 24% said that they use chatbots on a daily basis, and 44% said they use ChatGPT &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260617/p56#a260617p56)
- - [Sources: the White House&#39;s move to restrict Mythos 5 came after it ordered Anthropic to revoke South Korea-based SK Telecom&#39;s access over alleged ties to China &lpar;Wired&rpar;](https://www.techmeme.com/260617/p55#a260617p55)
- - [Filing: Roelof Botha has joined the board of SpaceX as an independent director, seven months after stepping down as Sequoia steward &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260617/p54#a260617p54)<!-- TECH:END -->
+ - [Midjourney unveils its first hardware product, the Midjourney Scanner, an ultrasound-based full-body scanner; it is unclear how AI fits into the medical effort &lpar;Richard Lawler/The Verge&rpar;](https://www.techmeme.com/260618/p1#a260618p1)
+ - [Google’s latest Android XR demo gives smart glasses a killer use case](https://www.androidauthority.com/google-android-xr-tour-guide-demo-3678749/)
+ - [Nvidia researchers unveil ENPIRE, an agent harness framework that develops robotic self-improvement strategies for physical tasks with minimal human supervision &lpar;Jeremy Hsu/Ars Technica&rpar;](https://www.techmeme.com/260617/p57#a260617p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
