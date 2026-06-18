@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dream, co-founded by ex-NSO Group CEO Shalev Hulio with a focus on protecting critical infrastructure, raised $260M at a $3B valuation, up from $1B in 2025 &lpar;Galit Altstein/Bloomberg&rpar;](https://www.techmeme.com/260618/p15#a260618p15)
- - [Your next TV might claim HDMI 2.2, but read the fine print before you pay up](https://www.androidauthority.com/first-hdmi-2-2-devices-coming-2027-3678906/)
- - [5 Android phones you should buy instead of the Moto G &lpar;2026&rpar;](https://www.androidauthority.com/moto-g-2026-alternatives-3675928/)<!-- TECH:END -->
+ - [Samsung The Frame Pro 2026 Review: Pricey But Worth It](https://www.wired.com/review/samsung-the-frame-pro-2026/)
+ - [This Ghost in the Shell keyboard makes me want to activate the hundred spidery robot fingers inside my regular fingers](https://www.theverge.com/tech/951371/iqunix-ev63-ghost-in-the-shell-edition-anime-gaming-mechanical-keyboard-review)
+ - [Trump confirms that Apple will buy chips made by Intel](https://appleinsider.com/articles/26/06/18/trump-confirms-that-apple-will-buy-chips-made-by-intel?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
