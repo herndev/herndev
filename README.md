@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)
- - ⏩ [Young Lucy Liu](http://9gag.com/gag/an765B5)
- - 👉 [Zidan watching his son play be like: `I have no son`](http://9gag.com/gag/aGyXdK0)<!-- MEMES:END -->
+ - 💣 [Don&#39;t.](http://9gag.com/gag/apROmwD)
+ - ⏩ [Zidan watching his son play be like: `I have no son`](http://9gag.com/gag/aGyXdK0)
+ - 👉 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)<!-- MEMES:END -->
 
 ---
 
