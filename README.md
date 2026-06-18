@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Prime Day deal cuts 42% off the Amazon Fire HD 8 Kids tablet](https://www.androidauthority.com/amazon-fire-hd-8-kids-tablet-deal-3679149/)
- - [Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump](https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/)
- - [Sources: APEC, a derivatives exchange founded by the 22-year-old son of pro-crypto Senator Kirsten Gillibrand, raised $30M led by Lux at a $300M valuation &lpar;Ben Weiss/Fortune&rpar;](https://www.techmeme.com/260618/p39#a260618p39)<!-- TECH:END -->
+ - [Google confirms a fix is on the way for Android 17 testers stuck on Beta](https://www.androidauthority.com/android-17-beta-leave-3679141/)
+ - [Nothing’s community review program could get you early access to its latest products](https://www.androidauthority.com/nothing-launches-community-review-program-3679144/)
+ - [Unsealed docs: Google lost a court fight against a 2023 US warrant in a Jan. 6 pipe bomb probe seeking info of 300+ users who searched for the RNC and DNC HQs &lpar;Zoe Tillman/Bloomberg&rpar;](https://www.techmeme.com/260618/p41#a260618p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
