@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Silicon Valley’s Elite Financial Advisers Say This Era of Wealth Is Different](https://www.wired.com/story/silicon-valleys-elite-financial-advisers-say-this-era-of-wealth-is-different/)
- - [Google Calendar finally has more color options for events](https://www.theverge.com/tech/952123/google-calendar-event-color-options-expansion)
- - [Need to Scan Important Documents? Use Your iPhone&#39;s Hidden Scanner](https://www.cnet.com/tech/mobile/sign-or-scan-papers-iphone-hidden-document-scanner-taxes/)<!-- TECH:END -->
+ - [Formula 1 Austrian Grand Prix will be free on Apple TV in the US](https://appleinsider.com/articles/26/06/18/formula-1-austrian-grand-prix-will-be-free-on-apple-tv-in-the-us?utm_source=rss)
+ - [Apple opens iOS to alternative app marketplaces in Brazil and changes App Store commission structure following a settlement with competition watchdog CADE &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260618/p35#a260618p35)
+ - [EU-style App Store rules reach Brazil with new app stores &amp; payments](https://appleinsider.com/articles/26/06/18/eu-style-app-store-rules-reach-brazil-with-new-app-stores-payments?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
