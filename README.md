@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms a fix is on the way for Android 17 testers stuck on Beta](https://www.androidauthority.com/android-17-beta-leave-3679141/)
- - [Nothing’s community review program could get you early access to its latest products](https://www.androidauthority.com/nothing-launches-community-review-program-3679144/)
- - [Unsealed docs: Google lost a court fight against a 2023 US warrant in a Jan. 6 pipe bomb probe seeking info of 300+ users who searched for the RNC and DNC HQs &lpar;Zoe Tillman/Bloomberg&rpar;](https://www.techmeme.com/260618/p41#a260618p41)<!-- TECH:END -->
+ - [Snap plans to spin off an internal generative AI video team into Dotmo, a new company focused on AI models for interactive gaming experiences, citing high costs &lpar;Lucas Ropek/TechCrunch&rpar;](https://www.techmeme.com/260618/p43#a260618p43)
+ - [The White House Is Making Up Its Rules for AI in Real Time](https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/)
+ - [Sources: Meta is under contract to buy roughly 1.6 GW of computing capacity from Crusoe across two data centers in Texas and Missouri &lpar;Bloomberg&rpar;](https://www.techmeme.com/260618/p42#a260618p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
