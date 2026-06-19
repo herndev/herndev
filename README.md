@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zidan watching his son play be like: `I have no son`](http://9gag.com/gag/aGyXdK0)
- - ⏩ [She won as a mother](http://9gag.com/gag/amo35D9)
+ - 💣 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)
+ - ⏩ [This is rare.](http://9gag.com/gag/amo3vov)
  - 👉 [This generation is doomed](http://9gag.com/gag/apROG98)<!-- MEMES:END -->
 
 ---
