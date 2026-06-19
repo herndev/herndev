@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Doc: SpaceX says the EU&#39;s plan to reserve satellite spectrum for European operators risks disrupting connectivity, including for emergency services in Ukraine &lpar;Financial Times&rpar;](https://www.techmeme.com/260618/p48#a260618p48)
- - [A US circuit court overturned an injunction against Ohio, allowing the state to implement a law forcing platforms to seek parental consent if a user is under-16 &lpar;Nate Raymond/Reuters&rpar;](https://www.techmeme.com/260618/p47#a260618p47)
- - [Top 20 most streamed artists on Apple Music revealed](https://appleinsider.com/articles/26/06/19/top-20-most-streamed-artists-on-apple-music-revealed?utm_source=rss)<!-- TECH:END -->
+ - [Mac game developers need to enable this in Steam to avoid a 32-bit problem](https://appleinsider.com/inside/macos/tips/mac-game-developers-need-to-enable-this-in-steam-to-avoid-a-32-bit-problem?utm_source=rss)
+ - [Android’s sideloading changes are getting closer as Google shares new timeline](https://www.androidauthority.com/android-sideloading-changes-timeline-3679204/)
+ - [Appfigures: daily downloads of major VPN apps in India rose 49% on June 16 after India announced its Telegram ban; Proton and Turbo recorded largest increases &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260618/p50#a260618p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
