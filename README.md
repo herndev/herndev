@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new Google TV projector from ETOE can light up your wall and charge your phone](https://www.androidauthority.com/etot-dolphin-2-google-tv-projector-3679514/)
- - [Oura Ring 5 review: impressive thinness, live activity tracking, and conversational AI, but not very durable, LEDs are distracting, and the app is confusing &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260619/p17#a260619p17)
- - [Android 17 appears to have broken 5G for some Pixel owners](https://www.androidauthority.com/android-17-knocks-off-5g-3679536/)<!-- TECH:END -->
+ - [South Korean media: Hyundai plans to buy SoftBank&#39;s remaining 9.65% stake in Boston Dynamics for $325M to make the US robotics company a wholly owned subsidiary &lpar;Reuters&rpar;](https://www.techmeme.com/260619/p19#a260619p19)
+ - [NASA selects Eric Schmidt&amp;#8217;s rocket company for a 2028 mission to Mars](https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars)
+ - [Trump says he saw Anthropic last week as a national security threat, but signals relations have since improved because Dario Amodei was &quot;nice&quot; and &quot;smart&quot; at G7 &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260619/p18#a260619p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
