@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Classic tomorrow problem](http://9gag.com/gag/a7oQWnx)
- - ⏩ [Hydrogen peroxide is used as paint remover. It will remove even a $15m paint job.](http://9gag.com/gag/aqy0jLp)
- - 👉 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)<!-- MEMES:END -->
+ - 💣 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
+ - ⏩ [What TV show or movie represents this picture...](http://9gag.com/gag/aRBnXQB)
+ - 👉 [Hydrogen peroxide is used as paint remover. It will remove even a $15m paint job.](http://9gag.com/gag/aqy0jLp)<!-- MEMES:END -->
 
 ---
 
