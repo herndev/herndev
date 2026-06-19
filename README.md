@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Construction Simulator 3 &lpar;$4.99&rpar; is free on Android for a limited time, here’s how to get it](https://www.androidauthority.com/construction-simulator-3-free-3679411/)
- - [Amazon MGM Studios drops Luca Guadagnino&#39;s mostly finished movie on Sam Altman; Amazon struck a major deal with OpenAI in February, including a $50B investment &lpar;Variety&rpar;](https://www.techmeme.com/260619/p13#a260619p13)
- - [Samsung just confirmed the Exynos 2700 is coming, and the Galaxy S27 could have it](https://www.androidauthority.com/samsung-confirm-exynos-2700-3679355/)<!-- TECH:END -->
+ - [Survey reveals the one Android widget our readers cannot live without](https://www.androidauthority.com/favorite-android-widget-poll-results-3679420/)
+ - [The NTS Radio Player brings the best of internet radio to your hi-fi](https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming)
+ - [The Most Promising Ebola Vaccine Has Been Sitting on the Shelf for 15 Years](https://www.wired.com/story/ebola-vaccine-sitting-on-shelf-for-15-years/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
