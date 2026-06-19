@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Siri AI, Apple TV, &amp; more are like with CarPlay in iOS 27](https://appleinsider.com/articles/26/06/19/what-siri-ai-apple-tv-more-are-like-with-carplay-in-ios-27?utm_source=rss)
- - [Hue’s wired wall modules bring non-smart lights into its ecosystem](https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb)
- - [John Jumper, who won the Nobel Prize &quot;for protein structure prediction&quot;, says he is leaving Google DeepMind after nearly nine years to join Anthropic &lpar;John Jumper/@johnjumpersci&rpar;](https://www.techmeme.com/260619/p16#a260619p16)<!-- TECH:END -->
+ - [This new Google TV projector from ETOE can light up your wall and charge your phone](https://www.androidauthority.com/etot-dolphin-2-google-tv-projector-3679514/)
+ - [Oura Ring 5 review: impressive thinness, live activity tracking, and conversational AI, but not very durable, LEDs are distracting, and the app is confusing &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260619/p17#a260619p17)
+ - [Android 17 appears to have broken 5G for some Pixel owners](https://www.androidauthority.com/android-17-knocks-off-5g-3679536/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
