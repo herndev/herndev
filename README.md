@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)
- - ⏩ [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)
- - 👉 [Ahhh f**k...](http://9gag.com/gag/a7oQw1L)<!-- MEMES:END -->
+ - 💣 [This is rare.](http://9gag.com/gag/amo3vov)
+ - ⏩ [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
+ - 👉 [Pupper makes sure that his older sister gets pets at a dog daycare everyday](http://9gag.com/gag/aYQ9ojw)<!-- MEMES:END -->
 
 ---
 
