@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Green](http://9gag.com/gag/aLnx0vP)
- - ⏩ [This generation is doomed](http://9gag.com/gag/apROG98)
- - 👉 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)<!-- MEMES:END -->
+ - 💣 [This is rare.](http://9gag.com/gag/amo3vov)
+ - ⏩ [There Is 13 Families Above The The 13 Families...](http://9gag.com/gag/ayNGMBM)
+ - 👉 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)<!-- MEMES:END -->
 
 ---
 
