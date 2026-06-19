@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean media: Hyundai plans to buy SoftBank&#39;s remaining 9.65% stake in Boston Dynamics for $325M to make the US robotics company a wholly owned subsidiary &lpar;Reuters&rpar;](https://www.techmeme.com/260619/p19#a260619p19)
- - [NASA selects Eric Schmidt&amp;#8217;s rocket company for a 2028 mission to Mars](https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars)
- - [Trump says he saw Anthropic last week as a national security threat, but signals relations have since improved because Dario Amodei was &quot;nice&quot; and &quot;smart&quot; at G7 &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260619/p18#a260619p18)<!-- TECH:END -->
+ - [Docs: OpenAI burned through $3.7B in Q1, on revenue of $5.7B, and ended the quarter with $73B+ in cash and marketable securities vs. $40B at the end of December &lpar;Erin Woo/The Information&rpar;](https://www.techmeme.com/260619/p21#a260619p21)
+ - [The departure of John Jumper, a key member of Google&#39;s AI coding development team, further strains Google&#39;s efforts to compete with Anthropic and OpenAI &lpar;Bloomberg&rpar;](https://www.techmeme.com/260619/p20#a260619p20)
+ - [These crucial Google services on Samsung phones may be waiting for you to update](https://www.androidauthority.com/samsung-phones-google-app-updates-3679566/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
