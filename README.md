@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day Early Deals 2026: Breville and Ninja Espresso Maker Deals](https://www.wired.com/story/early-espresso-machine-deals-prime-day-2026/)
- - [Intel names former SK Hynix CEO Seok-Hee Lee as EVP of Intel Foundry; Naga Chandrasekaran will lead front-end technology development and front-end manufacturing &lpar;Juby Babu/Reuters&rpar;](https://www.techmeme.com/260618/p45#a260618p45)
- - [Sources: Kalshi is generating $2B+ in annualized revenue, up about three times from November, and has held informal talks with banks about an eventual IPO &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260618/p44#a260618p44)<!-- TECH:END -->
+ - [A profile of Meta President Dina Powell McCormick, who has become one of Silicon Valley&#39;s top power brokers as she helps oversee Meta&#39;s AI infrastructure push &lpar;Financial Times&rpar;](https://www.techmeme.com/260618/p46#a260618p46)
+ - [Shark’s ChillPill Handheld Fan Is My Current Favorite, Thanks to These Special Features](https://www.cnet.com/health/personal-care/shark-chillpill-handheld-fan-current-favorite-thanks-special-features/)
+ - [Prime Day Early Deals 2026: Breville and Ninja Espresso Maker Deals](https://www.wired.com/story/early-espresso-machine-deals-prime-day-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
