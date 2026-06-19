@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)
- - ⏩ [This is rare.](http://9gag.com/gag/amo3vov)
- - 👉 [This generation is doomed](http://9gag.com/gag/apROG98)<!-- MEMES:END -->
+ - 💣 [Zidan watching his son play be like: `I have no son`](http://9gag.com/gag/aGyXdK0)
+ - ⏩ [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)
+ - 👉 [This is rare.](http://9gag.com/gag/amo3vov)<!-- MEMES:END -->
 
 ---
 
