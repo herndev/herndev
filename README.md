@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Referred a friend for a job. Now HR wants to interview me again](http://9gag.com/gag/a7oQErx)
- - ⏩ [Who&#39;s gonna tell her...?](http://9gag.com/gag/aqy0g8v)
- - 👉 [Classic tomorrow problem](http://9gag.com/gag/a7oQWnx)<!-- MEMES:END -->
+ - 💣 [Zidan watching his son play be like: `I have no son`](http://9gag.com/gag/aGyXdK0)
+ - ⏩ [She won as a mother](http://9gag.com/gag/amo35D9)
+ - 👉 [This generation is doomed](http://9gag.com/gag/apROG98)<!-- MEMES:END -->
 
 ---
 
