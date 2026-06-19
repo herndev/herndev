@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPadOS 27 beta review: Your iPad, now with Siri AI](https://appleinsider.com/articles/26/06/19/ipados-27-beta-review-your-ipad-now-with-siri-ai?utm_source=rss)
- - [iPhone factory right back in the spotlight as India opens new contamination probe](https://appleinsider.com/articles/26/06/19/iphone-factory-right-back-in-the-spotlight-as-india-opens-new-contamination-probe?utm_source=rss)
- - [These new AI tools promise better videos, seamless meetings, and richer research](https://www.androidauthority.com/google-vids-new-ai-tool-roundup-3678971/)<!-- TECH:END -->
+ - [Construction Simulator 3 &lpar;$4.99&rpar; is free on Android for a limited time, here’s how to get it](https://www.androidauthority.com/construction-simulator-3-free-3679411/)
+ - [Amazon MGM Studios drops Luca Guadagnino&#39;s mostly finished movie on Sam Altman; Amazon struck a major deal with OpenAI in February, including a $50B investment &lpar;Variety&rpar;](https://www.techmeme.com/260619/p13#a260619p13)
+ - [Samsung just confirmed the Exynos 2700 is coming, and the Galaxy S27 could have it](https://www.androidauthority.com/samsung-confirm-exynos-2700-3679355/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
