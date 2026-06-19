@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs: OpenAI burned through $3.7B in Q1, on revenue of $5.7B, and ended the quarter with $73B+ in cash and marketable securities vs. $40B at the end of December &lpar;Erin Woo/The Information&rpar;](https://www.techmeme.com/260619/p21#a260619p21)
- - [The departure of John Jumper, a key member of Google&#39;s AI coding development team, further strains Google&#39;s efforts to compete with Anthropic and OpenAI &lpar;Bloomberg&rpar;](https://www.techmeme.com/260619/p20#a260619p20)
- - [These crucial Google services on Samsung phones may be waiting for you to update](https://www.androidauthority.com/samsung-phones-google-app-updates-3679566/)<!-- TECH:END -->
+ - [Sources: Abu Dhabi&#39;s MGX is exploring buying Singapore-based data center operator DayOne; last month, sources said DayOne planned a US IPO at a $20B valuation &lpar;Reuters&rpar;](https://www.techmeme.com/260619/p22#a260619p22)
+ - [T1 phone saga gets stranger as PR team abandons Trump Mobile](https://www.androidauthority.com/trump-mobile-pr-firm-leaves-3679585/)
+ - [Docs: OpenAI burned through $3.7B in Q1, on revenue of $5.7B, and ended the quarter with $73B+ in cash and marketable securities vs. $40B at the end of December &lpar;Erin Woo/The Information&rpar;](https://www.techmeme.com/260619/p21#a260619p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
