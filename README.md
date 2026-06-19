@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zidan watching his son play be like: `I have no son`](http://9gag.com/gag/aGyXdK0)
- - ⏩ [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)
- - 👉 [This is rare.](http://9gag.com/gag/amo3vov)<!-- MEMES:END -->
+ - 💣 [. . .](http://9gag.com/gag/ae9LAqQ)
+ - ⏩ [Classic tomorrow problem](http://9gag.com/gag/a7oQWnx)
+ - 👉 [Boss said not on my watch](http://9gag.com/gag/adBE8Z9)<!-- MEMES:END -->
 
 ---
 
