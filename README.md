@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bobby Prince, the composer of many legendary game musics including Doom, Doom II and Duke Nukem 3D passed away on June 16, 2026. May he rest in peace, and thank you for all the fun!](http://9gag.com/gag/aAyjGeg)
- - ⏩ [. . .](http://9gag.com/gag/ae9LAqQ)
- - 👉 [I used to have my breakfast on the rocks too, but I quit drinking](http://9gag.com/gag/aNDNpPK)<!-- MEMES:END -->
+ - 💣 [Referred a friend for a job. Now HR wants to interview me again](http://9gag.com/gag/a7oQErx)
+ - ⏩ [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
+ - 👉 [What TV show or movie represents this picture...](http://9gag.com/gag/aRBnXQB)<!-- MEMES:END -->
 
 ---
 
