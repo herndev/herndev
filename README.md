@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 is messing up some Pixel phones’ touch input](https://www.androidauthority.com/android-17-scrolling-bug-3679483/)
- - [ASML says claims that one of its EUV lithography systems has ended up in China are inaccurate, after a report on Howard Lutnick&#39;s questions to ASML&#39;s leadership &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260619/p15#a260619p15)
- - [Amazon&#39;s AirPods 4 sale slashes price to $99, with delivery by Father&#39;s Day](https://appleinsider.com/articles/26/06/19/amazons-airpods-4-sale-slashes-price-to-99-with-delivery-by-fathers-day?utm_source=rss)<!-- TECH:END -->
+ - [What Siri AI, Apple TV, &amp; more are like with CarPlay in iOS 27](https://appleinsider.com/articles/26/06/19/what-siri-ai-apple-tv-more-are-like-with-carplay-in-ios-27?utm_source=rss)
+ - [Hue’s wired wall modules bring non-smart lights into its ecosystem](https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb)
+ - [John Jumper, who won the Nobel Prize &quot;for protein structure prediction&quot;, says he is leaving Google DeepMind after nearly nine years to join Anthropic &lpar;John Jumper/@johnjumpersci&rpar;](https://www.techmeme.com/260619/p16#a260619p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
