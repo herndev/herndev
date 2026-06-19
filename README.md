@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your aging iPhone might be vulnerable to a flaw Apple can’t patch](https://www.androidauthority.com/iphone-usbliter8-exploit-3679320/)
- - [Turkey approves Uber&#39;s $335M deal to buy Getir&#39;s delivery business, tied to a $500M investment pledge in Turkey; Uber is also paying $100M for a 15% Getir stake &lpar;Ana-Maria Stanciuc/The Next Web&rpar;](https://www.techmeme.com/260619/p8#a260619p8)
- - [Latest YouTube TV update is making life miserable for some Roku owners](https://www.androidauthority.com/youtube-tv-issues-on-roku-3679269/)<!-- TECH:END -->
+ - [iPadOS 27 beta review: Your iPad, now with Siri AI](https://appleinsider.com/articles/26/06/19/ipados-27-beta-review-your-ipad-now-with-siri-ai?utm_source=rss)
+ - [iPhone factory right back in the spotlight as India opens new contamination probe](https://appleinsider.com/articles/26/06/19/iphone-factory-right-back-in-the-spotlight-as-india-opens-new-contamination-probe?utm_source=rss)
+ - [These new AI tools promise better videos, seamless meetings, and richer research](https://www.androidauthority.com/google-vids-new-ai-tool-roundup-3678971/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
