@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rising RAM prices claims its latest casualty: Nothing’s next CMF phone](https://www.androidauthority.com/nothing-cmf-phone-canceled-3679247/)
- - [How hacker group TeamPCP exploited the open source trust model and distribution method to compromise and inject malware into over 1,000 software packages &lpar;Matt Kapko/CyberScoop&rpar;](https://www.techmeme.com/260619/p5#a260619p5)
- - [This app can translate your favorite games into any language, but there’s a big catch](https://www.androidauthority.com/playtranslate-translate-games-3679221/)<!-- TECH:END -->
+ - [Your aging iPhone might be vulnerable to a flaw Apple can’t patch](https://www.androidauthority.com/iphone-usbliter8-exploit-3679320/)
+ - [Turkey approves Uber&#39;s $335M deal to buy Getir&#39;s delivery business, tied to a $500M investment pledge in Turkey; Uber is also paying $100M for a 15% Getir stake &lpar;Ana-Maria Stanciuc/The Next Web&rpar;](https://www.techmeme.com/260619/p8#a260619p8)
+ - [Latest YouTube TV update is making life miserable for some Roku owners](https://www.androidauthority.com/youtube-tv-issues-on-roku-3679269/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
