@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey reveals the one Android widget our readers cannot live without](https://www.androidauthority.com/favorite-android-widget-poll-results-3679420/)
- - [The NTS Radio Player brings the best of internet radio to your hi-fi](https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming)
- - [The Most Promising Ebola Vaccine Has Been Sitting on the Shelf for 15 Years](https://www.wired.com/story/ebola-vaccine-sitting-on-shelf-for-15-years/)<!-- TECH:END -->
+ - [Android 17 is messing up some Pixel phones’ touch input](https://www.androidauthority.com/android-17-scrolling-bug-3679483/)
+ - [ASML says claims that one of its EUV lithography systems has ended up in China are inaccurate, after a report on Howard Lutnick&#39;s questions to ASML&#39;s leadership &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260619/p15#a260619p15)
+ - [Amazon&#39;s AirPods 4 sale slashes price to $99, with delivery by Father&#39;s Day](https://appleinsider.com/articles/26/06/19/amazons-airpods-4-sale-slashes-price-to-99-with-delivery-by-fathers-day?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
