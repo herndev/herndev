@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
+ - 💣 [Green](http://9gag.com/gag/aLnx0vP)
  - ⏩ [This generation is doomed](http://9gag.com/gag/apROG98)
- - 👉 [Wonder what other &#39;original&#39; purposes have been... re-evaluated](http://9gag.com/gag/aD2y4bB)<!-- MEMES:END -->
+ - 👉 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)<!-- MEMES:END -->
 
 ---
 
