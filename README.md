@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hate Prime Video ads? Morphe users have found an Android TV workaround](https://www.androidauthority.com/morphe-amazon-prime-video-patch-for-android-tv-3679209/)
- - [The CFTC permanently bans Celsius founder Alex Mashinsky from trading in markets it oversees as part of a settlement resolving its 2023 lawsuit against him &lpar;Jesse Coghlan/Cointelegraph&rpar;](https://www.techmeme.com/260619/p1#a260619p1)
- - [Sources: Commerce Secretary Howard Lutnick questioned ASML leaders on concerns China acquired one of its EUV machines, violating US-led export restrictions &lpar;Bloomberg&rpar;](https://www.techmeme.com/260618/p52#a260618p52)<!-- TECH:END -->
+ - [Sources detail how Google is using Nvidia&#39;s playbook to build an AI chip business, including providing $3.2B to fund a NY data center renting TPUs to Anthropic &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260619/p4#a260619p4)
+ - [Barret Zoph leaves OpenAI again five months after rejoining in January; Zoph initially left OpenAI in 2024 to serve as Thinking Machines Lab co-founder and CTO &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260619/p3#a260619p3)
+ - [Rover Promo Codes and Referral Deals for June 2026](https://www.wired.com/story/rover-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
