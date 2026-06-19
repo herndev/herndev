@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is rare.](http://9gag.com/gag/amo3vov)
- - ⏩ [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
- - 👉 [Pupper makes sure that his older sister gets pets at a dog daycare everyday](http://9gag.com/gag/aYQ9ojw)<!-- MEMES:END -->
+ - 💣 [Unemployed and entitled](http://9gag.com/gag/aD2ygjK)
+ - ⏩ [This is rare.](http://9gag.com/gag/amo3vov)
+ - 👉 [Wonder what other &#39;original&#39; purposes have been... re-evaluated](http://9gag.com/gag/aD2y4bB)<!-- MEMES:END -->
 
 ---
 
