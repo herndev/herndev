@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)
+ - 💣 [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)
  - ⏩ [This is rare.](http://9gag.com/gag/amo3vov)
  - 👉 [This generation is doomed](http://9gag.com/gag/apROG98)<!-- MEMES:END -->
 
