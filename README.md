@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unemployed and entitled](http://9gag.com/gag/aD2ygjK)
- - ⏩ [This is rare.](http://9gag.com/gag/amo3vov)
+ - 💣 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
+ - ⏩ [This generation is doomed](http://9gag.com/gag/apROG98)
  - 👉 [Wonder what other &#39;original&#39; purposes have been... re-evaluated](http://9gag.com/gag/aD2y4bB)<!-- MEMES:END -->
 
 ---
