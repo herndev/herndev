@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I imagine it was very close to this.](http://9gag.com/gag/aXPBg6v)
- - ⏩ [There Is 13 Families Above The The 13 Families...](http://9gag.com/gag/ayNGMBM)
- - 👉 [This is rare.](http://9gag.com/gag/amo3vov)<!-- MEMES:END -->
+ - 💣 [Peace is not an option](http://9gag.com/gag/a6ZPKzA)
+ - ⏩ [She should have made bacon cookies](http://9gag.com/gag/aRBn7VM)
+ - 👉 [Ahhh f**k...](http://9gag.com/gag/a7oQw1L)<!-- MEMES:END -->
 
 ---
 
