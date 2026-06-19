@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is rare.](http://9gag.com/gag/amo3vov)
- - ⏩ [There Is 13 Families Above The The 13 Families...](http://9gag.com/gag/ayNGMBM)
- - 👉 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)<!-- MEMES:END -->
+ - 💣 [Referred a friend for a job. Now HR wants to interview me again](http://9gag.com/gag/a7oQErx)
+ - ⏩ [Who&#39;s gonna tell her...?](http://9gag.com/gag/aqy0g8v)
+ - 👉 [Classic tomorrow problem](http://9gag.com/gag/a7oQWnx)<!-- MEMES:END -->
 
 ---
 
