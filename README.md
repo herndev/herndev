@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Meta President Dina Powell McCormick, who has become one of Silicon Valley&#39;s top power brokers as she helps oversee Meta&#39;s AI infrastructure push &lpar;Financial Times&rpar;](https://www.techmeme.com/260618/p46#a260618p46)
- - [Shark’s ChillPill Handheld Fan Is My Current Favorite, Thanks to These Special Features](https://www.cnet.com/health/personal-care/shark-chillpill-handheld-fan-current-favorite-thanks-special-features/)
- - [Prime Day Early Deals 2026: Breville and Ninja Espresso Maker Deals](https://www.wired.com/story/early-espresso-machine-deals-prime-day-2026/)<!-- TECH:END -->
+ - [Doc: SpaceX says the EU&#39;s plan to reserve satellite spectrum for European operators risks disrupting connectivity, including for emergency services in Ukraine &lpar;Financial Times&rpar;](https://www.techmeme.com/260618/p48#a260618p48)
+ - [A US circuit court overturned an injunction against Ohio, allowing the state to implement a law forcing platforms to seek parental consent if a user is under-16 &lpar;Nate Raymond/Reuters&rpar;](https://www.techmeme.com/260618/p47#a260618p47)
+ - [Top 20 most streamed artists on Apple Music revealed](https://appleinsider.com/articles/26/06/19/top-20-most-streamed-artists-on-apple-music-revealed?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
