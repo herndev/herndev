@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac game developers need to enable this in Steam to avoid a 32-bit problem](https://appleinsider.com/inside/macos/tips/mac-game-developers-need-to-enable-this-in-steam-to-avoid-a-32-bit-problem?utm_source=rss)
- - [Android’s sideloading changes are getting closer as Google shares new timeline](https://www.androidauthority.com/android-sideloading-changes-timeline-3679204/)
- - [Appfigures: daily downloads of major VPN apps in India rose 49% on June 16 after India announced its Telegram ban; Proton and Turbo recorded largest increases &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260618/p50#a260618p50)<!-- TECH:END -->
+ - [Hate Prime Video ads? Morphe users have found an Android TV workaround](https://www.androidauthority.com/morphe-amazon-prime-video-patch-for-android-tv-3679209/)
+ - [The CFTC permanently bans Celsius founder Alex Mashinsky from trading in markets it oversees as part of a settlement resolving its 2023 lawsuit against him &lpar;Jesse Coghlan/Cointelegraph&rpar;](https://www.techmeme.com/260619/p1#a260619p1)
+ - [Sources: Commerce Secretary Howard Lutnick questioned ASML leaders on concerns China acquired one of its EUV machines, violating US-led export restrictions &lpar;Bloomberg&rpar;](https://www.techmeme.com/260618/p52#a260618p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
