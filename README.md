@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail how Google is using Nvidia&#39;s playbook to build an AI chip business, including providing $3.2B to fund a NY data center renting TPUs to Anthropic &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260619/p4#a260619p4)
- - [Barret Zoph leaves OpenAI again five months after rejoining in January; Zoph initially left OpenAI in 2024 to serve as Thinking Machines Lab co-founder and CTO &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260619/p3#a260619p3)
- - [Rover Promo Codes and Referral Deals for June 2026](https://www.wired.com/story/rover-promo-code/)<!-- TECH:END -->
+ - [Rising RAM prices claims its latest casualty: Nothing’s next CMF phone](https://www.androidauthority.com/nothing-cmf-phone-canceled-3679247/)
+ - [How hacker group TeamPCP exploited the open source trust model and distribution method to compromise and inject malware into over 1,000 software packages &lpar;Matt Kapko/CyberScoop&rpar;](https://www.techmeme.com/260619/p5#a260619p5)
+ - [This app can translate your favorite games into any language, but there’s a big catch](https://www.androidauthority.com/playtranslate-translate-games-3679221/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
