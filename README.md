@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The plot](http://9gag.com/gag/a34m4Gv)
- - ⏩ [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
- - 👉 [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)<!-- MEMES:END -->
+ - 💣 [That escalated quickly](http://9gag.com/gag/aLnx1Yv)
+ - ⏩ [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)
+ - 👉 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)<!-- MEMES:END -->
 
 ---
 
