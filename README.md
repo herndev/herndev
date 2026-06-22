@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Shanghai-based Coowa, which develops embodied AI robots, plans to file a Hong Kong IPO; Coowa was valued at $3B after raising $600M in its latest round &lpar;Jiahui Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260621/p12#a260621p12)
- - [San Diego-based Aether AI, which is building &quot;causal world models&quot; to teach robots cause and effect instead of pattern-matching, raised a $20M seed led by MPCi &lpar;Cristian Dina/The Next Web&rpar;](https://www.techmeme.com/260621/p11#a260621p11)
- - [Toto, Japan&#39;s largest toilet maker, plans to invest $495M by 2030 to expand its semiconductor materials unit, targeting R&amp;D for next-gen 1nm chip production &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260621/p10#a260621p10)<!-- TECH:END -->
+ - [Japan&#39;s top five chip equipment makers posted their first-ever fall in combined China sales, down 10% in the year ended March 31, as China boosts local players &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260621/p13#a260621p13)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 22, #637](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-22-637/)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, June 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-22/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
