@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel Audio Memory could upgrade song ID with new note-taking tool](https://www.androidauthority.com/pixel-audio-memory-3680024/)
- - [We Tried the Most Popular Mushroom Coffees. These Are the Best &lpar;2026&rpar;](https://www.wired.com/gallery/best-mushroom-coffee/)
- - [Sources: Vimeo owner Bending Spoons seeks to raise ~$1.62B in a US IPO, selling 58M shares at $26 to $28 apiece, at a valuation of $19B at the top of the range &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260622/p35#a260622p35)<!-- TECH:END -->
+ - [Amazon’s Google TV-like UI redesign is rolling out to Fire TV Sticks and Ember TVs](https://www.androidauthority.com/amazon-fire-tv-ui-redesign-rollout-3680116/)
+ - [New in iOS 27 beta 2: Update an Apple TV in the Home app, Wallet Insights](https://appleinsider.com/articles/26/06/22/new-in-ios-27-beta-2-update-an-apple-tv-in-the-home-app-wallet-insights?utm_source=rss)
+ - [Meta Exposed Data Internally From Its Controversial Employee-Tracking Program](https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
