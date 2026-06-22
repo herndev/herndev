@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Read this before you vibe-code another app](https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps)
- - [Survey reveals the Android 17 feature that stole everyone’s heart](https://www.androidauthority.com/android-17-favorite-feature-survey-3679756/)
- - [JD.com founder Richard Liu says robots will replace the company&#39;s 700K delivery workers &quot;sooner or later&quot;, and it will help retrain them in robot maintenance &lpar;Financial Times&rpar;](https://www.techmeme.com/260622/p14#a260622p14)<!-- TECH:END -->
+ - [Your Mac isn&#39;t immune to viruses &amp; surveillance tools, Intego One is here to help](https://appleinsider.com/articles/26/06/22/your-mac-isnt-immune-to-viruses-surveillance-tools-intego-one-is-here-to-help?utm_source=rss)
+ - [Nvidia unveils Halos, a new safety-focused OS derived from autonomous vehicle tech, designed to run on IGX Thor hardware for humanoid robots, and opens a lab &lpar;Ian King/Bloomberg&rpar;](https://www.techmeme.com/260622/p22#a260622p22)
+ - [Steve Jobs would approve of Apple TV, says Cue](https://appleinsider.com/articles/26/06/22/steve-jobs-would-approve-of-apple-tv-says-cue?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
