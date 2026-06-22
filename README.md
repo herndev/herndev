@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That escalated quickly](http://9gag.com/gag/aLnx1Yv)
- - ⏩ [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)
- - 👉 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)<!-- MEMES:END -->
+ - 💣 [It&#39;s a miracle!](http://9gag.com/gag/aRBnBXq)
+ - ⏩ [What emoji?](http://9gag.com/gag/apRO9oM)
+ - 👉 [The delusion is real](http://9gag.com/gag/aQzGzBd)<!-- MEMES:END -->
 
 ---
 
