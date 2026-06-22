@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Closely embraced](http://9gag.com/gag/aZZeZAV)
- - ⏩ [FAFO](http://9gag.com/gag/a0eBe6O)
+ - 💣 [FAFO](http://9gag.com/gag/a0eBe6O)
+ - ⏩ [NEW - The feelings of shock and disappointment on the face of Pakistan&#39;s Prime Minister, after he was informed by the Iranian delegation they are leaving after Trump threatened them.](http://9gag.com/gag/aVvAg0O)
  - 👉 [Tja](http://9gag.com/gag/aZZeZNW)<!-- MEMES:END -->
 
 ---
