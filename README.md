@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not your fault. Both men and women saw that](http://9gag.com/gag/aBypd2z)
- - ⏩ [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
- - 👉 [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)<!-- MEMES:END -->
+ - 💣 [Never, never, ever, ever do this](http://9gag.com/gag/adBEBYd)
+ - ⏩ [Closely embraced](http://9gag.com/gag/aZZeZAV)
+ - 👉 [The plot](http://9gag.com/gag/a34m4Gv)<!-- MEMES:END -->
 
 ---
 
