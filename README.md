@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One year ago in Scotland. Never forget.](http://9gag.com/gag/ayNGePp)
- - ⏩ [What TV show or movie represents this picture...](http://9gag.com/gag/aRBnXQB)
- - 👉 [Hydrogen peroxide is used as paint remover. It will remove even a $15m paint job.](http://9gag.com/gag/aqy0jLp)<!-- MEMES:END -->
+ - 💣 [The plot](http://9gag.com/gag/a34m4Gv)
+ - ⏩ [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
+ - 👉 [Glass houses and stone throwing, a classic political move](http://9gag.com/gag/a87Zq1d)<!-- MEMES:END -->
 
 ---
 
