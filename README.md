@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satya Nadella says the public wouldn&#39;t tolerate a few AI labs &quot;doing all of the learning for the world&quot;, as Microsoft moves to provide low-cost models and tools &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260622/p8#a260622p8)
- - [A look at JD Vance&#39;s &quot;AI doctrine&quot;, which combines pro-innovation VC principles, worker protections, and concerns about power concentration in dominant AI labs &lpar;Vivian Salama/The Atlantic&rpar;](https://www.techmeme.com/260622/p7#a260622p7)
- - [A beloved way to watch live TV on Android Auto is riding off into the sunset](https://www.androidauthority.com/fermata-xtream-watching-live-tv-android-auto-3678842/)<!-- TECH:END -->
+ - [Read this before you vibe-code another app](https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps)
+ - [Survey reveals the Android 17 feature that stole everyone’s heart](https://www.androidauthority.com/android-17-favorite-feature-survey-3679756/)
+ - [JD.com founder Richard Liu says robots will replace the company&#39;s 700K delivery workers &quot;sooner or later&quot;, and it will help retrain them in robot maintenance &lpar;Financial Times&rpar;](https://www.techmeme.com/260622/p14#a260622p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
