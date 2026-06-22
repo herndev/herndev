@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Proof that it works every time](http://9gag.com/gag/aPA5xen)
- - ⏩ [The irony writes itself with this one](http://9gag.com/gag/adBEvnN)
- - 👉 [Closely embraced](http://9gag.com/gag/aZZeZAV)<!-- MEMES:END -->
+ - 💣 [Even if you won the lottery today, you would never be able to buy that feeling in your life](http://9gag.com/gag/a9yoqQL)
+ - ⏩ [Closely embraced](http://9gag.com/gag/aZZeZAV)
+ - 👉 [Guys](http://9gag.com/gag/apRORW8)<!-- MEMES:END -->
 
 ---
 
