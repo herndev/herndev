@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys](http://9gag.com/gag/apRORW8)
- - ⏩ [Closely embraced](http://9gag.com/gag/aZZeZAV)
- - 👉 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)<!-- MEMES:END -->
+ - 💣 [Modern Warfare](http://9gag.com/gag/aD2y7BK)
+ - ⏩ [Tja](http://9gag.com/gag/aZZeZNW)
+ - 👉 [Guys](http://9gag.com/gag/apRORW8)<!-- MEMES:END -->
 
 ---
 
