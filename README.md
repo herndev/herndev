@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WiseTech shares fell 11% after Australian police probed co-founder Richard White over sex exploitation claims; WiseTech shares are down ~67% in the past year &lpar;Sydney Morning Herald&rpar;](https://www.techmeme.com/260622/p1#a260622p1)
- - [Amazon slashes Apple Watch Series 11 to $279 in early Prime Day sale](https://appleinsider.com/articles/26/06/22/amazon-slashes-apple-watch-series-11-to-279-in-early-prime-day-sale?utm_source=rss)
- - [Sources: ByteDance shares are trading at a $600B+ valuation in gray markets; an IPO is unlikely and its growth continues to benefit its Chinese and US backers &lpar;Henny Sender/Nikkei Asia&rpar;](https://www.techmeme.com/260621/p17#a260621p17)<!-- TECH:END -->
+ - [AirPods Max 2 plunge to record-low $399 ahead of Amazon Prime Day](https://appleinsider.com/articles/26/06/22/airpods-max-2-plunge-to-record-low-399-ahead-of-amazon-prime-day?utm_source=rss)
+ - [New leak suggests a redesigned Galaxy Watch Ultra 2, new colors, and no Watch Classic](https://www.androidauthority.com/samsung-galaxy-watch-9-ultra-2-redesign-new-colors-3679717/)
+ - [Android’s strongest security mode may soon lock down something power users love](https://www.androidauthority.com/android-advanced-protection-mode-developer-options-3679725/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
