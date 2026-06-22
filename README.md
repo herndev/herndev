@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toto, Japan&#39;s largest toilet maker, plans to invest $495M by 2030 to expand its semiconductor materials unit, targeting R&amp;D for next-gen 1nm chip production &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260621/p10#a260621p10)
- - [T-Mobile’s new ‘Magenta Nights’ promo could be worth up to $1,000 for switchers](https://www.androidauthority.com/t-mobile-magenta-nights-rebate-offer-3679478/)
- - [As Europe falls behind the US and China in consumer AI, its engineering companies and AI startups are turning to industrial AI applications to boost efficiency &lpar;Marilen Martin/Bloomberg&rpar;](https://www.techmeme.com/260621/p9#a260621p9)<!-- TECH:END -->
+ - [Sources: Shanghai-based Coowa, which develops embodied AI robots, plans to file a Hong Kong IPO; Coowa was valued at $3B after raising $600M in its latest round &lpar;Jiahui Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260621/p12#a260621p12)
+ - [San Diego-based Aether AI, which is building &quot;causal world models&quot; to teach robots cause and effect instead of pattern-matching, raised a $20M seed led by MPCi &lpar;Cristian Dina/The Next Web&rpar;](https://www.techmeme.com/260621/p11#a260621p11)
+ - [Toto, Japan&#39;s largest toilet maker, plans to invest $495M by 2030 to expand its semiconductor materials unit, targeting R&amp;D for next-gen 1nm chip production &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260621/p10#a260621p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
