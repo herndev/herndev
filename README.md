@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never, never, ever, ever do this](http://9gag.com/gag/adBEBYd)
- - ⏩ [Closely embraced](http://9gag.com/gag/aZZeZAV)
- - 👉 [The plot](http://9gag.com/gag/a34m4Gv)<!-- MEMES:END -->
+ - 💣 [Closely embraced](http://9gag.com/gag/aZZeZAV)
+ - ⏩ [FAFO](http://9gag.com/gag/a0eBe6O)
+ - 👉 [Tja](http://9gag.com/gag/aZZeZNW)<!-- MEMES:END -->
 
 ---
 
