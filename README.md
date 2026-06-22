@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even if you won the lottery today, you would never be able to buy that feeling in your life](http://9gag.com/gag/a9yoqQL)
+ - 💣 [Guys](http://9gag.com/gag/apRORW8)
  - ⏩ [Closely embraced](http://9gag.com/gag/aZZeZAV)
- - 👉 [Guys](http://9gag.com/gag/apRORW8)<!-- MEMES:END -->
+ - 👉 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)<!-- MEMES:END -->
 
 ---
 
