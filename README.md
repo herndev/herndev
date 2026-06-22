@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Modern Warfare](http://9gag.com/gag/aD2y7BK)
- - ⏩ [1984 vs 2017](http://9gag.com/gag/aryYy35)
- - 👉 [Guys](http://9gag.com/gag/apRORW8)<!-- MEMES:END -->
+ - 💣 [Guys](http://9gag.com/gag/apRORW8)
+ - ⏩ [FAFO](http://9gag.com/gag/a0eBe6O)
+ - 👉 [High life to fall of life](http://9gag.com/gag/a87ZAR1)<!-- MEMES:END -->
 
 ---
 
