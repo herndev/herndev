@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a miracle!](http://9gag.com/gag/aRBnBXq)
- - ⏩ [What emoji?](http://9gag.com/gag/apRO9oM)
- - 👉 [The delusion is real](http://9gag.com/gag/aQzGzBd)<!-- MEMES:END -->
+ - 💣 [That escalated quickly](http://9gag.com/gag/aLnx1Yv)
+ - ⏩ [Not your fault. Both men and women saw that](http://9gag.com/gag/aBypd2z)
+ - 👉 [Even if you won the lottery today, you would never be able to buy that feeling in your life](http://9gag.com/gag/a9yoqQL)<!-- MEMES:END -->
 
 ---
 
