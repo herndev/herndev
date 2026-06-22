@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve Steam Machine review: much smaller than PS5, surprisingly smooth, and navigable with any modern gamepad but very expensive and needs manual configuration &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260622/p34#a260622p34)
- - [Valve says Steam Machine, its new living room-friendly PC, will start at $1,049 for the 512GB base model, and go on sale starting June 29 &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260622/p33#a260622p33)
- - [Google invests in A24 to build AI movie tools](https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership)<!-- TECH:END -->
+ - [Pixel Audio Memory could upgrade song ID with new note-taking tool](https://www.androidauthority.com/pixel-audio-memory-3680024/)
+ - [We Tried the Most Popular Mushroom Coffees. These Are the Best &lpar;2026&rpar;](https://www.wired.com/gallery/best-mushroom-coffee/)
+ - [Sources: Vimeo owner Bending Spoons seeks to raise ~$1.62B in a US IPO, selling 58M shares at $26 to $28 apiece, at a valuation of $19B at the top of the range &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260622/p35#a260622p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
