@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Max 2 plunge to record-low $399 ahead of Amazon Prime Day](https://appleinsider.com/articles/26/06/22/airpods-max-2-plunge-to-record-low-399-ahead-of-amazon-prime-day?utm_source=rss)
- - [New leak suggests a redesigned Galaxy Watch Ultra 2, new colors, and no Watch Classic](https://www.androidauthority.com/samsung-galaxy-watch-9-ultra-2-redesign-new-colors-3679717/)
- - [Android’s strongest security mode may soon lock down something power users love](https://www.androidauthority.com/android-advanced-protection-mode-developer-options-3679725/)<!-- TECH:END -->
+ - [Satya Nadella says the public wouldn&#39;t tolerate a few AI labs &quot;doing all of the learning for the world&quot;, as Microsoft moves to provide low-cost models and tools &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260622/p8#a260622p8)
+ - [A look at JD Vance&#39;s &quot;AI doctrine&quot;, which combines pro-innovation VC principles, worker protections, and concerns about power concentration in dominant AI labs &lpar;Vivian Salama/The Atlantic&rpar;](https://www.techmeme.com/260622/p7#a260622p7)
+ - [A beloved way to watch live TV on Android Auto is riding off into the sunset](https://www.androidauthority.com/fermata-xtream-watching-live-tv-android-auto-3678842/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
