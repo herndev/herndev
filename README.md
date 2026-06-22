@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Google TV-like UI redesign is rolling out to Fire TV Sticks and Ember TVs](https://www.androidauthority.com/amazon-fire-tv-ui-redesign-rollout-3680116/)
- - [New in iOS 27 beta 2: Update an Apple TV in the Home app, Wallet Insights](https://appleinsider.com/articles/26/06/22/new-in-ios-27-beta-2-update-an-apple-tv-in-the-home-app-wallet-insights?utm_source=rss)
- - [Meta Exposed Data Internally From Its Controversial Employee-Tracking Program](https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/)<!-- TECH:END -->
+ - [President Trump signs two executive orders aimed at speeding the development of advanced quantum computers and mitigating the security threats they present &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260622/p39#a260622p39)
+ - [Meta Pauses Employee-Tracking Program Following Internal Data Leak](https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/)
+ - [Sources: Meta internally exposed data from its employee-tracking program meant to help train its AI models, including full prompts and private conversations &lpar;Wired&rpar;](https://www.techmeme.com/260622/p38#a260622p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
