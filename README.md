@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Mac isn&#39;t immune to viruses &amp; surveillance tools, Intego One is here to help](https://appleinsider.com/articles/26/06/22/your-mac-isnt-immune-to-viruses-surveillance-tools-intego-one-is-here-to-help?utm_source=rss)
- - [Nvidia unveils Halos, a new safety-focused OS derived from autonomous vehicle tech, designed to run on IGX Thor hardware for humanoid robots, and opens a lab &lpar;Ian King/Bloomberg&rpar;](https://www.techmeme.com/260622/p22#a260622p22)
- - [Steve Jobs would approve of Apple TV, says Cue](https://appleinsider.com/articles/26/06/22/steve-jobs-would-approve-of-apple-tv-says-cue?utm_source=rss)<!-- TECH:END -->
+ - [SpaceX announces a senior unsecured notes offering and discloses that it has about $100.8B in cash; SPCX drops 8%+ &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260622/p29#a260622p29)
+ - [You can grab some of the best Android games for literally pennies right now](https://www.androidauthority.com/google-play-games-ten-cent-fire-sale-3679957/)
+ - [SpaceX signs a computing deal worth up to $6.3B with Reflection AI for access to Nvidia GB300s at Colossus 2; Reflection will pay $150M per month through 2029 &lpar;Deirdre Bosa/CNBC&rpar;](https://www.techmeme.com/260622/p28#a260622p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
