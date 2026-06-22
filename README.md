@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing won&#39;t launch a new phone this year in its budget-focused CMF Phone series due to RAM prices &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260619/p24#a260619p24)
- - [DOJ says two brothers pleaded guilty to robbing a Minnesota family of $8M+ in cryptocurrency after holding them at gunpoint for over eight hours in 2025 &lpar;Naga Avan-Nomayo/The Block&rpar;](https://www.techmeme.com/260619/p23#a260619p23)
- - [Nothing cancels this year&amp;#8217;s CMF phone due to RAM prices](https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices)<!-- TECH:END -->
+ - [Toto, Japan&#39;s largest toilet maker, plans to invest $495M by 2030 to expand its semiconductor materials unit, targeting R&amp;D for next-gen 1nm chip production &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260621/p10#a260621p10)
+ - [T-Mobile’s new ‘Magenta Nights’ promo could be worth up to $1,000 for switchers](https://www.androidauthority.com/t-mobile-magenta-nights-rebate-offer-3679478/)
+ - [As Europe falls behind the US and China in consumer AI, its engineering companies and AI startups are turning to industrial AI applications to boost efficiency &lpar;Marilen Martin/Bloomberg&rpar;](https://www.techmeme.com/260621/p9#a260621p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
