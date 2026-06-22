@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump signs two executive orders aimed at speeding the development of advanced quantum computers and mitigating the security threats they present &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260622/p39#a260622p39)
- - [Meta Pauses Employee-Tracking Program Following Internal Data Leak](https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/)
- - [Sources: Meta internally exposed data from its employee-tracking program meant to help train its AI models, including full prompts and private conversations &lpar;Wired&rpar;](https://www.techmeme.com/260622/p38#a260622p38)<!-- TECH:END -->
+ - [A Source of Mysterious Repeating Radio Signals From Space Has Been Identified](https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/)
+ - [CMF Buds Pro 2 drop to an all-time low of $37 on the eve of Prime Day](https://www.androidauthority.com/cmf-buds-pro-2-deal-3680139/)
+ - [President Trump signs two executive orders aimed at speeding the development of advanced quantum computers and mitigating the security threats they present &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260622/p39#a260622p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
