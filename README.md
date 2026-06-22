@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX announces a senior unsecured notes offering and discloses that it has about $100.8B in cash; SPCX drops 8%+ &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260622/p29#a260622p29)
- - [You can grab some of the best Android games for literally pennies right now](https://www.androidauthority.com/google-play-games-ten-cent-fire-sale-3679957/)
- - [SpaceX signs a computing deal worth up to $6.3B with Reflection AI for access to Nvidia GB300s at Colossus 2; Reflection will pay $150M per month through 2029 &lpar;Deirdre Bosa/CNBC&rpar;](https://www.techmeme.com/260622/p28#a260622p28)<!-- TECH:END -->
+ - [Valve Steam Machine review: much smaller than PS5, surprisingly smooth, and navigable with any modern gamepad but very expensive and needs manual configuration &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260622/p34#a260622p34)
+ - [Valve says Steam Machine, its new living room-friendly PC, will start at $1,049 for the 512GB base model, and go on sale starting June 29 &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260622/p33#a260622p33)
+ - [Google invests in A24 to build AI movie tools](https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
