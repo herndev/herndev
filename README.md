@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day has served up several great deals on 4K TVs](https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale)
- - [Prime Day brings record price cut on the Bose QuietComfort Ultra Headphones 2nd Gen](https://www.androidauthority.com/bose-quietcomfort-ultra-headphones-2nd-gen-deal-3680635/)
- - [Dialog Claims It Was Hacked. A Misconfigured Website Left Its Members Exposed](https://www.wired.com/story/dialog-hack-website-misconfiguration/)<!-- TECH:END -->
+ - [Need Samsung buds for under $100? The Galaxy Buds 3 FE are at a record low price](https://www.androidauthority.com/samsung-galaxy-buds-3-fe-prime-deal-3680667/)
+ - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_source=rss)
+ - [Bump up your storage with Prime Day NAS deals at up to $215 off](https://appleinsider.com/articles/26/06/23/bump-up-your-storage-with-prime-day-nas-deals-at-up-to-215-off?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
