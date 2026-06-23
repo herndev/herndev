@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Modern Warfare](http://9gag.com/gag/aD2y7BK)
- - ⏩ [Someone&#39;s getting fired.](http://9gag.com/gag/aGyXyo6)
- - 👉 [Who hurt you?](http://9gag.com/gag/azxndMZ)<!-- MEMES:END -->
+ - 💣 [Excited to see you](http://9gag.com/gag/aW4zpXn)
+ - ⏩ [High life to fall of life](http://9gag.com/gag/a87ZAR1)
+ - 👉 [. . .](http://9gag.com/gag/a6ZPX3m)<!-- MEMES:END -->
 
 ---
 
