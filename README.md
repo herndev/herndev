@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Co-hosting &amp; guest list visibility finally arrives for Apple Invites](https://appleinsider.com/articles/26/06/23/co-hosting-guest-list-visibility-finally-arrives-for-apple-invites?utm_source=rss)
- - [Sources: the Trump administration is pressing Meta to submit its AI models for voluntary review; Meta is the only major US AI developer without an agreement &lpar;New York Times&rpar;](https://www.techmeme.com/260623/p39#a260623p39)
- - [Hollywood is bending the knee to OpenAI](https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt)<!-- TECH:END -->
+ - [iPhone Fold &amp; touchscreen MacBook Pro again rumored to have Samsung displays](https://appleinsider.com/articles/26/06/23/iphone-fold-touchscreen-macbook-pro-again-rumored-to-have-samsung-displays?utm_source=rss)
+ - [117 Prime Day Deals on Gear We’ve Tested and Would Spend Our Own Money On](https://www.wired.com/story/amazon-prime-day-absolute-best-deals/)
+ - [My Favorite Art TV Is Half-off for Amazon Prime Day](https://www.wired.com/story/i-love-this-hisense-art-tv-and-its-half-off-apd/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
