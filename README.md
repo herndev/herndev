@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the data center boom is exposing weaknesses in US power grids and what fixes the electricity infrastructure may need to become fit for the future &lpar;Chris Gillett/Works in Progress Magazine&rpar;](https://www.techmeme.com/260623/p4#a260623p4)
- - [Samsung just announced a major speed upgrade for future Galaxy phones](https://www.androidauthority.com/samsung-ufs-5-0-galaxy-s27-3680194/)
- - [Syntun: online sales during China&#39;s 618 shopping festival grew 4% YoY, a sharp drop from 15.2% growth last year, amid a persistent consumer spending slowdown &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260623/p3#a260623p3)<!-- TECH:END -->
+ - [Sources: Tencent is negotiating exits from several game studio investments in Japan, including Tokyo-traded Marvelous, as it reassesses its global portfolio &lpar;Bloomberg&rpar;](https://www.techmeme.com/260623/p5#a260623p5)
+ - [NotebookLM finally lets you fix its most popular learning tool yourself](https://www.androidauthority.com/notebooklm-flashcards-edit-learning-3680276/)
+ - [Apple has finally fixed this annoying RCS texting quirk for Android users](https://www.androidauthority.com/ios-27-beta-2-rcs-upgrades-3680267/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
