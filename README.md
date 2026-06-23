@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Italian controllers ignore immigrants who travel without a ticket](http://9gag.com/gag/aByp6RD)
- - ⏩ [FAFO](http://9gag.com/gag/a0eBe6O)
- - 👉 [The plot](http://9gag.com/gag/a34m4Gv)<!-- MEMES:END -->
+ - 💣 [Fu** the system](http://9gag.com/gag/azxnxOm)
+ - ⏩ [Apart from all the nasty food video, this is how they make cheap cigarette.](http://9gag.com/gag/avyNWzE)
+ - 👉 [High life to fall of life](http://9gag.com/gag/a87ZAR1)<!-- MEMES:END -->
 
 ---
 
