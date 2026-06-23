@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We might have to wait a while for Privacy Display on non-Samsung phones](https://www.androidauthority.com/samsung-privacy-display-rumor-3680469/)
- - [The Ethereum Foundation cuts ~20% of its workforce, or 54 staff, as part of a broad restructuring amid leadership turnover and growing Ethereum fragmentation &lpar;Margaux Nijkerk/CoinDesk&rpar;](https://www.techmeme.com/260623/p21#a260623p21)
- - [Prime Day Apple deals are live, grab sale prices from $14](https://appleinsider.com/articles/26/06/23/prime-day-apple-deals-are-live-grab-sale-prices-from-14?utm_source=rss)<!-- TECH:END -->
+ - [95 Prime Day Deals on Gear We’ve Tested and Would Spend Our Own Money On](https://www.wired.com/story/amazon-prime-day-absolute-best-deals/)
+ - [Are you having issues with ChatGPT? You’re not alone](https://www.androidauthority.com/chatgpt-upload-download-issues-3680522/)
+ - [Apple&#39;s Reality Composer Pro 3 uses code from a dead game engine](https://appleinsider.com/articles/26/06/23/apples-reality-composer-pro-3-uses-code-from-a-dead-game-engine?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
