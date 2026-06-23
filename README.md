@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NEW - The feelings of shock and disappointment on the face of Pakistan&#39;s Prime Minister, after he was informed by the Iranian delegation they are leaving after Trump threatened them.](http://9gag.com/gag/aVvAg0O)
- - ⏩ [. . .](http://9gag.com/gag/a6ZPX3m)
+ - 💣 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
+ - ⏩ [NEW - The feelings of shock and disappointment on the face of Pakistan&#39;s Prime Minister, after he was informed by the Iranian delegation they are leaving after Trump threatened them.](http://9gag.com/gag/aVvAg0O)
  - 👉 [Who hurt you?](http://9gag.com/gag/azxndMZ)<!-- MEMES:END -->
 
 ---
