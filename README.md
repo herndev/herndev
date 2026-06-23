@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Road rage](http://9gag.com/gag/aqy0RPM)
- - ⏩ [Best batman movie of all time no cap](http://9gag.com/gag/aVvAg4K)
- - 👉 [Right man, right place, right time](http://9gag.com/gag/a9yozPL)<!-- MEMES:END -->
+ - 💣 [High life to fall of life](http://9gag.com/gag/a87ZAR1)
+ - ⏩ [Fu** the system](http://9gag.com/gag/azxnxOm)
+ - 👉 [Apart from all the nasty food video, this is how they make cheap cigarette.](http://9gag.com/gag/avyNWzE)<!-- MEMES:END -->
 
 ---
 
