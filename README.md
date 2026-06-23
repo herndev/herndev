@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [. . .](http://9gag.com/gag/a6ZPX3m)
- - ⏩ [At a rather inauspicious moment](http://9gag.com/gag/aO8w4Yy)
- - 👉 [Instant karma for the bully](http://9gag.com/gag/aVvAoBP)<!-- MEMES:END -->
+ - 💣 [NEW - The feelings of shock and disappointment on the face of Pakistan&#39;s Prime Minister, after he was informed by the Iranian delegation they are leaving after Trump threatened them.](http://9gag.com/gag/aVvAg0O)
+ - ⏩ [It just hits different](http://9gag.com/gag/a87Zm8p)
+ - 👉 [There are only 6 animals considered human hunters in the world, and polar bears are one of them.](http://9gag.com/gag/a7oQO1b)<!-- MEMES:END -->
 
 ---
 
