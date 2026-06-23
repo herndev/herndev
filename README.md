@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Ceramic Oura Ring 4 just fell 48% for Prime Day, beating every previous deal on it](https://www.androidauthority.com/oura-ring-4-prime-day-deal-3680563/)
- - [Sources: Meta is building a standalone prediction markets app called Arena, which would probably rely on video game-like points instead of money wagers &lpar;New York Times&rpar;](https://www.techmeme.com/260623/p29#a260623p29)
- - [Sources: SpaceX, which is seeking to raise between $20B and $25B in its debut US bond sale, has drawn about $89B of demand &lpar;Bloomberg&rpar;](https://www.techmeme.com/260623/p28#a260623p28)<!-- TECH:END -->
+ - [Alibaba sues the DOD, seeking removal from a blacklist of companies supporting China&#39;s military, says the decision is a violation of constitutional due process &lpar;Bloomberg&rpar;](https://www.techmeme.com/260623/p32#a260623p32)
+ - [On the first day of their trial, two members of Scattered Spider plead guilty in the UK to charges stemming from a 2024 cyberattack on Transport for London &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/260623/p31#a260623p31)
+ - [Best Prime Day iPad deals slash prices to as low as $299](https://appleinsider.com/articles/26/06/23/best-prime-day-ipad-deals-slash-prices-to-as-low-as-299?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
