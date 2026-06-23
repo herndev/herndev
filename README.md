@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US NLRB judge ruled that Amazon violated federal law by not recognizing the Teamsters union at a SF warehouse and must collectively bargain with the workers &lpar;Josh Eidelson/Bloomberg&rpar;](https://www.techmeme.com/260622/p43#a260622p43)
- - [Cannes Lions 2026 Entertainment Person of the Year is Apple TV chief](https://appleinsider.com/articles/26/06/23/cannes-lions-2026-entertainment-person-of-the-year-is-apple-tv-chief?utm_source=rss)
- - [Real estate professionals are increasingly using AI-powered virtual staging tools like Stuccco and BoxBrownie to create misleading house and apartment listings &lpar;Gaby Del Valle/The Verge&rpar;](https://www.techmeme.com/260622/p42#a260622p42)<!-- TECH:END -->
+ - [Home Assistant OS 18 is here to make smart home setup faster and less frustrating](https://www.androidauthority.com/home-assistant-os-18-3680188/)
+ - [How to make OBS chroma key smarter by using Background Replacement in macOS](https://appleinsider.com/articles/26/06/23/how-to-make-obs-chroma-key-smarter-by-using-background-replacement-in-macos?utm_source=rss)
+ - [A US NLRB judge ruled that Amazon violated federal law by not recognizing the Teamsters union at a SF warehouse and must collectively bargain with the workers &lpar;Josh Eidelson/Bloomberg&rpar;](https://www.techmeme.com/260622/p43#a260622p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
