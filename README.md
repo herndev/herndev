@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It just hits different](http://9gag.com/gag/a87Zm8p)
- - ⏩ [There are only 6 animals considered human hunters in the world, and polar bears are one of them.](http://9gag.com/gag/a7oQO1b)
- - 👉 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)<!-- MEMES:END -->
+ - 💣 [He did the right thing](http://9gag.com/gag/aGyX8jz)
+ - ⏩ [Guys](http://9gag.com/gag/apRODKb)
+ - 👉 [Pool files](http://9gag.com/gag/aBypLQZ)<!-- MEMES:END -->
 
 ---
 
