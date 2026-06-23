@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Home Assistant OS 18 is here to make smart home setup faster and less frustrating](https://www.androidauthority.com/home-assistant-os-18-3680188/)
- - [How to make OBS chroma key smarter by using Background Replacement in macOS](https://appleinsider.com/articles/26/06/23/how-to-make-obs-chroma-key-smarter-by-using-background-replacement-in-macos?utm_source=rss)
- - [A US NLRB judge ruled that Amazon violated federal law by not recognizing the Teamsters union at a SF warehouse and must collectively bargain with the workers &lpar;Josh Eidelson/Bloomberg&rpar;](https://www.techmeme.com/260622/p43#a260622p43)<!-- TECH:END -->
+ - [How the data center boom is exposing weaknesses in US power grids and what fixes the electricity infrastructure may need to become fit for the future &lpar;Chris Gillett/Works in Progress Magazine&rpar;](https://www.techmeme.com/260623/p4#a260623p4)
+ - [Samsung just announced a major speed upgrade for future Galaxy phones](https://www.androidauthority.com/samsung-ufs-5-0-galaxy-s27-3680194/)
+ - [Syntun: online sales during China&#39;s 618 shopping festival grew 4% YoY, a sharp drop from 15.2% growth last year, amid a persistent consumer spending slowdown &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260623/p3#a260623p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
