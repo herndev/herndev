@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [High life to fall of life](http://9gag.com/gag/a87ZAR1)
- - ⏩ [Fu** the system](http://9gag.com/gag/azxnxOm)
- - 👉 [Apart from all the nasty food video, this is how they make cheap cigarette.](http://9gag.com/gag/avyNWzE)<!-- MEMES:END -->
+ - 💣 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
+ - ⏩ [High life to fall of life](http://9gag.com/gag/a87ZAR1)
+ - 👉 [FAFO](http://9gag.com/gag/a0eBe6O)<!-- MEMES:END -->
 
 ---
 
