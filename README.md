@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba sues the DOD, seeking removal from a blacklist of companies supporting China&#39;s military, says the decision is a violation of constitutional due process &lpar;Bloomberg&rpar;](https://www.techmeme.com/260623/p32#a260623p32)
- - [On the first day of their trial, two members of Scattered Spider plead guilty in the UK to charges stemming from a 2024 cyberattack on Transport for London &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/260623/p31#a260623p31)
- - [Best Prime Day iPad deals slash prices to as low as $299](https://appleinsider.com/articles/26/06/23/best-prime-day-ipad-deals-slash-prices-to-as-low-as-299?utm_source=rss)<!-- TECH:END -->
+ - [Zuckerberg reportedly wants a Polymarket clone — but without real money](https://www.theverge.com/tech/955121/meta-prediction-market-app-arena-polymarket-kalshi-clone)
+ - [These are my favorite Prime Day deals on earbuds and headphones](https://www.theverge.com/gadgets/952601/earbuds-headphones-deals-prime-day-2026)
+ - [LastPass user data stolen by hackers again](https://appleinsider.com/articles/26/06/23/lastpass-user-data-stolen-by-hackers-again?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
