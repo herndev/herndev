@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [95 Prime Day Deals on Gear We’ve Tested and Would Spend Our Own Money On](https://www.wired.com/story/amazon-prime-day-absolute-best-deals/)
- - [Are you having issues with ChatGPT? You’re not alone](https://www.androidauthority.com/chatgpt-upload-download-issues-3680522/)
- - [Apple&#39;s Reality Composer Pro 3 uses code from a dead game engine](https://appleinsider.com/articles/26/06/23/apples-reality-composer-pro-3-uses-code-from-a-dead-game-engine?utm_source=rss)<!-- TECH:END -->
+ - [The Ceramic Oura Ring 4 just fell 48% for Prime Day, beating every previous deal on it](https://www.androidauthority.com/oura-ring-4-prime-day-deal-3680563/)
+ - [Sources: Meta is building a standalone prediction markets app called Arena, which would probably rely on video game-like points instead of money wagers &lpar;New York Times&rpar;](https://www.techmeme.com/260623/p29#a260623p29)
+ - [Sources: SpaceX, which is seeking to raise between $20B and $25B in its debut US bond sale, has drawn about $89B of demand &lpar;Bloomberg&rpar;](https://www.techmeme.com/260623/p28#a260623p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
