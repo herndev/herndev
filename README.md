@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [High life to fall of life](http://9gag.com/gag/a87ZAR1)
- - ⏩ [Who hurt you?](http://9gag.com/gag/azxndMZ)
- - 👉 [. . .](http://9gag.com/gag/a6ZPX3m)<!-- MEMES:END -->
+ - 💣 [. . .](http://9gag.com/gag/a6ZPX3m)
+ - ⏩ [At a rather inauspicious moment](http://9gag.com/gag/aO8w4Yy)
+ - 👉 [Instant karma for the bully](http://9gag.com/gag/aVvAoBP)<!-- MEMES:END -->
 
 ---
 
