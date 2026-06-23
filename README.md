@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 QPR1 Beta 5 is out now for your Pixel phone to test](https://www.androidauthority.com/android-17-qpr1-beta-5-3680687/)
- - [The 16 Best Amazon Prime Day Deals Under $30 We&#39;ve Found](https://www.wired.com/story/best-amazon-prime-day-deals-under-30-june-2026-2/)
- - [Mistral debuts OCR 4, a model featuring structured document extraction with bounding boxes, block classification, and inline confidence scores, in 170 languages &lpar;Mistral AI Blog&rpar;](https://www.techmeme.com/260623/p37#a260623p37)<!-- TECH:END -->
+ - [Co-hosting &amp; guest list visibility finally arrives for Apple Invites](https://appleinsider.com/articles/26/06/23/co-hosting-guest-list-visibility-finally-arrives-for-apple-invites?utm_source=rss)
+ - [Sources: the Trump administration is pressing Meta to submit its AI models for voluntary review; Meta is the only major US AI developer without an agreement &lpar;New York Times&rpar;](https://www.techmeme.com/260623/p39#a260623p39)
+ - [Hollywood is bending the knee to OpenAI](https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
