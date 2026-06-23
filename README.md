@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zuckerberg reportedly wants a Polymarket clone — but without real money](https://www.theverge.com/tech/955121/meta-prediction-market-app-arena-polymarket-kalshi-clone)
- - [These are my favorite Prime Day deals on earbuds and headphones](https://www.theverge.com/gadgets/952601/earbuds-headphones-deals-prime-day-2026)
- - [LastPass user data stolen by hackers again](https://appleinsider.com/articles/26/06/23/lastpass-user-data-stolen-by-hackers-again?utm_source=rss)<!-- TECH:END -->
+ - [Prime Day has served up several great deals on 4K TVs](https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale)
+ - [Prime Day brings record price cut on the Bose QuietComfort Ultra Headphones 2nd Gen](https://www.androidauthority.com/bose-quietcomfort-ultra-headphones-2nd-gen-deal-3680635/)
+ - [Dialog Claims It Was Hacked. A Misconfigured Website Left Its Members Exposed](https://www.wired.com/story/dialog-hack-website-misconfiguration/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
