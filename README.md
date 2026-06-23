@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Tencent is negotiating exits from several game studio investments in Japan, including Tokyo-traded Marvelous, as it reassesses its global portfolio &lpar;Bloomberg&rpar;](https://www.techmeme.com/260623/p5#a260623p5)
- - [NotebookLM finally lets you fix its most popular learning tool yourself](https://www.androidauthority.com/notebooklm-flashcards-edit-learning-3680276/)
- - [Apple has finally fixed this annoying RCS texting quirk for Android users](https://www.androidauthority.com/ios-27-beta-2-rcs-upgrades-3680267/)<!-- TECH:END -->
+ - [Top500: China&#39;s Arm-based LineShine surpasses the US&#39; El Capitan by 20% to be the world&#39;s fastest supercomputer, the first time China takes the crown since 2017 &lpar;Don Clark/New York Times&rpar;](https://www.techmeme.com/260623/p9#a260623p9)
+ - [From face-unlock locks to self-drawing curtains, these SwitchBot Prime Day picks stand out](https://www.androidauthority.com/switchbot-prime-day-3679804/)
+ - [Samsung’s latest move signals the end of Fold’s S Pen era](https://www.androidauthority.com/samsung-galaxy-z-fold-s-pen-3680327/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
