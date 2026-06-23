@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top500: China&#39;s Arm-based LineShine surpasses the US&#39; El Capitan by 20% to be the world&#39;s fastest supercomputer, the first time China takes the crown since 2017 &lpar;Don Clark/New York Times&rpar;](https://www.techmeme.com/260623/p9#a260623p9)
- - [From face-unlock locks to self-drawing curtains, these SwitchBot Prime Day picks stand out](https://www.androidauthority.com/switchbot-prime-day-3679804/)
- - [Samsung’s latest move signals the end of Fold’s S Pen era](https://www.androidauthority.com/samsung-galaxy-z-fold-s-pen-3680327/)<!-- TECH:END -->
+ - [Build a smarter home security setup this Prime Day with Botslab](https://www.androidauthority.com/botslab-prime-day-3679685/)
+ - [ChatGPT leak reveals new Bidi 1 voice model that can listen and speak simultaneously](https://www.androidauthority.com/openai-chatgpt-gpt-bidi-1-leak-3680394/)
+ - [This Sega Saturn emulator just got a big speed bump and dozens of fixes](https://www.androidauthority.com/ymir-sega-saturn-emulator-update-3680306/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
