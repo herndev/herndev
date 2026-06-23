@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)
- - ⏩ [High life to fall of life](http://9gag.com/gag/a87ZAR1)
- - 👉 [FAFO](http://9gag.com/gag/a0eBe6O)<!-- MEMES:END -->
+ - 💣 [Italian controllers ignore immigrants who travel without a ticket](http://9gag.com/gag/aByp6RD)
+ - ⏩ [FAFO](http://9gag.com/gag/a0eBe6O)
+ - 👉 [The plot](http://9gag.com/gag/a34m4Gv)<!-- MEMES:END -->
 
 ---
 
