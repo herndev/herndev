@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Need Samsung buds for under $100? The Galaxy Buds 3 FE are at a record low price](https://www.androidauthority.com/samsung-galaxy-buds-3-fe-prime-deal-3680667/)
- - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_source=rss)
- - [Bump up your storage with Prime Day NAS deals at up to $215 off](https://appleinsider.com/articles/26/06/23/bump-up-your-storage-with-prime-day-nas-deals-at-up-to-215-off?utm_source=rss)<!-- TECH:END -->
+ - [Android 17 QPR1 Beta 5 is out now for your Pixel phone to test](https://www.androidauthority.com/android-17-qpr1-beta-5-3680687/)
+ - [The 16 Best Amazon Prime Day Deals Under $30 We&#39;ve Found](https://www.wired.com/story/best-amazon-prime-day-deals-under-30-june-2026-2/)
+ - [Mistral debuts OCR 4, a model featuring structured document extraction with bounding boxes, block classification, and inline confidence scores, in 170 languages &lpar;Mistral AI Blog&rpar;](https://www.techmeme.com/260623/p37#a260623p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
