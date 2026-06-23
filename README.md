@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NEW - The feelings of shock and disappointment on the face of Pakistan&#39;s Prime Minister, after he was informed by the Iranian delegation they are leaving after Trump threatened them.](http://9gag.com/gag/aVvAg0O)
- - ⏩ [It just hits different](http://9gag.com/gag/a87Zm8p)
- - 👉 [There are only 6 animals considered human hunters in the world, and polar bears are one of them.](http://9gag.com/gag/a7oQO1b)<!-- MEMES:END -->
+ - 💣 [WTF](https://www.reddit.com/r/funny/comments/1udu3ug/wtf/)
+ - ⏩ [First red in his life](http://9gag.com/gag/awyw391)
+ - 👉 [Guys](http://9gag.com/gag/apRODKb)<!-- MEMES:END -->
 
 ---
 
