@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s Very Own Smart Glasses Go on Sale Today for $299](https://www.wired.com/story/meta-new-smart-glasses-are-cheaper-colorful-and-meta-branded/)
- - [My go-to Kindle is back at its best price yet for Prime Day](https://www.theverge.com/gadgets/952555/kindle-paperwhite-amazon-deal-sale)
- - [Valve confirms it&amp;#8217;s working with Intel and Nvidia on SteamOS for more GPUs](https://www.theverge.com/games/952634/valve-intel-nvidia-steamos-gpus-linux)<!-- TECH:END -->
+ - [We might have to wait a while for Privacy Display on non-Samsung phones](https://www.androidauthority.com/samsung-privacy-display-rumor-3680469/)
+ - [The Ethereum Foundation cuts ~20% of its workforce, or 54 staff, as part of a broad restructuring amid leadership turnover and growing Ethereum fragmentation &lpar;Margaux Nijkerk/CoinDesk&rpar;](https://www.techmeme.com/260623/p21#a260623p21)
+ - [Prime Day Apple deals are live, grab sale prices from $14](https://appleinsider.com/articles/26/06/23/prime-day-apple-deals-are-live-grab-sale-prices-from-14?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
