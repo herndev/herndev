@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys](http://9gag.com/gag/apRORW8)
- - ⏩ [FAFO](http://9gag.com/gag/a0eBe6O)
- - 👉 [High life to fall of life](http://9gag.com/gag/a87ZAR1)<!-- MEMES:END -->
+ - 💣 [Road rage](http://9gag.com/gag/aqy0RPM)
+ - ⏩ [Best batman movie of all time no cap](http://9gag.com/gag/aVvAg4K)
+ - 👉 [Right man, right place, right time](http://9gag.com/gag/a9yozPL)<!-- MEMES:END -->
 
 ---
 
