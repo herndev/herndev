@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Build a smarter home security setup this Prime Day with Botslab](https://www.androidauthority.com/botslab-prime-day-3679685/)
- - [ChatGPT leak reveals new Bidi 1 voice model that can listen and speak simultaneously](https://www.androidauthority.com/openai-chatgpt-gpt-bidi-1-leak-3680394/)
- - [This Sega Saturn emulator just got a big speed bump and dozens of fixes](https://www.androidauthority.com/ymir-sega-saturn-emulator-update-3680306/)<!-- TECH:END -->
+ - [Meta’s Very Own Smart Glasses Go on Sale Today for $299](https://www.wired.com/story/meta-new-smart-glasses-are-cheaper-colorful-and-meta-branded/)
+ - [My go-to Kindle is back at its best price yet for Prime Day](https://www.theverge.com/gadgets/952555/kindle-paperwhite-amazon-deal-sale)
+ - [Valve confirms it&amp;#8217;s working with Intel and Nvidia on SteamOS for more GPUs](https://www.theverge.com/games/952634/valve-intel-nvidia-steamos-gpus-linux)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
