@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Excited to see you](http://9gag.com/gag/aW4zpXn)
- - ⏩ [High life to fall of life](http://9gag.com/gag/a87ZAR1)
- - 👉 [. . .](http://9gag.com/gag/a6ZPX3m)<!-- MEMES:END -->
+ - 💣 [There are only 6 animals considered human hunters in the world, and polar bears are one of them.](http://9gag.com/gag/a7oQO1b)
+ - ⏩ [If you know you know](http://9gag.com/gag/a6ZPDML)
+ - 👉 [In bird culture, this is considered FAFO](http://9gag.com/gag/aNDNDN6)<!-- MEMES:END -->
 
 ---
 
