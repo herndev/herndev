@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Real estate professionals are increasingly using AI-powered virtual staging tools like Stuccco and BoxBrownie to create misleading house and apartment listings &lpar;Gaby Del Valle/The Verge&rpar;](https://www.techmeme.com/260622/p42#a260622p42)
- - [Sources: Qualcomm is in advanced talks to acquire Modular in a transaction valuing the AI chip startup at ~$4B, up from a $1.6B valuation in September 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260622/p41#a260622p41)
- - [Nvidia says its AI data center design runs hotter to use a lot less water](https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling)<!-- TECH:END -->
+ - [A US NLRB judge ruled that Amazon violated federal law by not recognizing the Teamsters union at a SF warehouse and must collectively bargain with the workers &lpar;Josh Eidelson/Bloomberg&rpar;](https://www.techmeme.com/260622/p43#a260622p43)
+ - [Cannes Lions 2026 Entertainment Person of the Year is Apple TV chief](https://appleinsider.com/articles/26/06/23/cannes-lions-2026-entertainment-person-of-the-year-is-apple-tv-chief?utm_source=rss)
+ - [Real estate professionals are increasingly using AI-powered virtual staging tools like Stuccco and BoxBrownie to create misleading house and apartment listings &lpar;Gaby Del Valle/The Verge&rpar;](https://www.techmeme.com/260622/p42#a260622p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
