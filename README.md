@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [. . .](http://9gag.com/gag/a6ZPX3m)
+ - 💣 [High life to fall of life](http://9gag.com/gag/a87ZAR1)
  - ⏩ [Who hurt you?](http://9gag.com/gag/azxndMZ)
- - 👉 [NEW - The feelings of shock and disappointment on the face of Pakistan&#39;s Prime Minister, after he was informed by the Iranian delegation they are leaving after Trump threatened them.](http://9gag.com/gag/aVvAg0O)<!-- MEMES:END -->
+ - 👉 [. . .](http://9gag.com/gag/a6ZPX3m)<!-- MEMES:END -->
 
 ---
 
