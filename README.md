@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s new ‘Jalapeno’ chip is the company’s first step towards the future](https://www.androidauthority.com/openai-jalapeno-ai-processor-3680957/)
- - [I&#39;ve Built Countless Sets, and These Are the Best Prime Day Lego Deals &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-lego-deals-june-2026/)
- - [OpenAI reveals its first AI processor: Jalapeño](https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno)<!-- TECH:END -->
+ - [Sources: the Trump administration has been happier talking to Anthropic lately after Dario Amodei was replaced by cofounder Tom Brown in meetings about Fable 5 &lpar;Hugo Lowell/Wired&rpar;](https://www.techmeme.com/260624/p29#a260624p29)
+ - [Ornn, which plans to launch a marketplace for GPU capacity designed to function like an exchange to trade oil contracts, raised a $33M seed led by a16z &lpar;Katherine Doherty/Bloomberg&rpar;](https://www.techmeme.com/260624/p28#a260624p28)
+ - [The 16 best robot vacuum deals available during Prime Day](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
