@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Pool files](http://9gag.com/gag/aBypLQZ)
  - ⏩ [Guys](http://9gag.com/gag/apRODKb)
- - 👉 [Not all heroes wear capes](http://9gag.com/gag/azxn5Bm)<!-- MEMES:END -->
+ - 👉 [Using a nuke in a knife fight](http://9gag.com/gag/aLnxemz)<!-- MEMES:END -->
 
 ---
 
