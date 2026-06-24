@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirTag 2 hits $24 and gives shoppers one of the best Apple Prime Day deals](https://appleinsider.com/articles/26/06/24/airtag-2-hits-24-and-gives-shoppers-one-of-the-best-apple-prime-day-deals?utm_source=rss)
- - [Prime deal: This retro JBL smart speaker is half-price for the first time this week](https://www.androidauthority.com/jbl-authentics-300-bluetooth-speaker-3680683/)
- - [Figma now has AI motion graphics and shader tools](https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements)<!-- TECH:END -->
+ - [Prime Day deals under $50 that are really worth it](https://www.theverge.com/gadgets/951543/best-prime-day-deals-under-50)
+ - [Apple’s foldable iPhone Ultra looks on track for a September launch](https://www.androidauthority.com/foldable-iphone-ultra-mass-production-3680994/)
+ - [The $27 million Al proxy war over Alex Bores ends in a draw](https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
