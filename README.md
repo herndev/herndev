@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pool files](http://9gag.com/gag/aBypLQZ)
- - ⏩ [Guys](http://9gag.com/gag/apRODKb)
- - 👉 [Using a nuke in a knife fight](http://9gag.com/gag/aLnxemz)<!-- MEMES:END -->
+ - 💣 [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)
+ - ⏩ [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
+ - 👉 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)<!-- MEMES:END -->
 
 ---
 
