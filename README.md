@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Family Loves Board Games—Here Are the 9 I&#39;d Buy On Sale During Prime Day](https://www.wired.com/story/amazon-prime-day-board-game-deals-june-2026/)
- - [107 Prime Day Deals on Gear We Stand By, Up To 52% Off &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-24-2026/)
- - [OnePlus could be reduced to an OPPO product line under alleged new plans](https://www.androidauthority.com/oppo-oneplus-realme-product-series-restructuring-3680857/)<!-- TECH:END -->
+ - [Google’s capable TV Streamer 4K is back to its best price for Prime Day](https://www.theverge.com/gadgets/953074/google-tv-streamer-4k-amazon-prime-day-2026-deal-sale)
+ - [Chinese cybersecurity company 360 unveils new AI tools: Tulongfeng, which it claims is &quot;China&#39;s version of Mythos&quot;, and Yitianzhen, to automate cyber defense &lpar;Eduardo Baptista/Reuters&rpar;](https://www.techmeme.com/260624/p23#a260624p23)
+ - [OpenAI and Broadcom unveil Jalapeño, an LLM-optimized inference chip developed from design to manufacturing tape-out in nine months, aided by OpenAI&#39;s models &lpar;OpenAI&rpar;](https://www.techmeme.com/260624/p22#a260624p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
