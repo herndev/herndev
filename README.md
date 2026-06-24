@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold &amp; touchscreen MacBook Pro again rumored to have Samsung displays](https://appleinsider.com/articles/26/06/23/iphone-fold-touchscreen-macbook-pro-again-rumored-to-have-samsung-displays?utm_source=rss)
- - [117 Prime Day Deals on Gear We’ve Tested and Would Spend Our Own Money On](https://www.wired.com/story/amazon-prime-day-absolute-best-deals/)
- - [My Favorite Art TV Is Half-off for Amazon Prime Day](https://www.wired.com/story/i-love-this-hisense-art-tv-and-its-half-off-apd/)<!-- TECH:END -->
+ - [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)
+ - [Micron and Sandisk led a tech selloff on Tuesday, falling more than 13%; Western Digital fell 8%, Marvell 9%, Seagate 5%, Qualcomm 8%, and Applied Materials 8% &lpar;Britney Nguyen/MarketWatch&rpar;](https://www.techmeme.com/260623/p41#a260623p41)
+ - [YouTube settles a lawsuit ahead of a second California trial over social media harms to minors; Meta, TikTok, and Snap remain defendants &lpar;Hillel Aron/Courthouse News Service&rpar;](https://www.techmeme.com/260623/p40#a260623p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
