@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based Probook, which is building an AI operating system for home service businesses, raised a $34M Series A led by a16z and a $6M seed led by Sequoia &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260624/p4#a260624p4)
- - [This is our best look yet at the upcoming Samsung Galaxy Watch Ultra 2](https://www.androidauthority.com/samsung-galaxy-watch-ultra-2-design-features-leak-3680717/)
- - [AI creative tools startup Krea, which has raised $83M and claims to have 30M users, releases the open weights for its image model Krea 2 under a custom license &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260624/p3#a260624p3)<!-- TECH:END -->
+ - [Sources: Qualcomm is in talks to design custom chips for ByteDance, based partly on connectivity tech from Alphawave Semi, which Qualcomm acquired in 2025 &lpar;Reuters&rpar;](https://www.techmeme.com/260624/p8#a260624p8)
+ - [Google Messages custom chat wallpapers are rolling out now &lpar;if you’re lucky&rpar;](https://www.androidauthority.com/google-messages-custom-chat-wallpapers-rollout-3680720/)
+ - [Meta’s $59 smart glasses stand is missing the one thing you need to power it](https://www.androidauthority.com/meta-glasses-charging-stand-3680770/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
