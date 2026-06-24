@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He did the right thing](http://9gag.com/gag/aGyX8jz)
- - ⏩ [Guys](http://9gag.com/gag/apRODKb)
- - 👉 [Pool files](http://9gag.com/gag/aBypLQZ)<!-- MEMES:END -->
+ - 💣 [Yoinked😂😂](https://www.reddit.com/r/funny/comments/1udy5xh/yoinked/)
+ - ⏩ [Starting good](http://9gag.com/gag/aXPBLBD)
+ - 👉 [It just hits different](http://9gag.com/gag/a87Zm8p)<!-- MEMES:END -->
 
 ---
 
