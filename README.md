@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Qualcomm is in talks to design custom chips for ByteDance, based partly on connectivity tech from Alphawave Semi, which Qualcomm acquired in 2025 &lpar;Reuters&rpar;](https://www.techmeme.com/260624/p8#a260624p8)
- - [Google Messages custom chat wallpapers are rolling out now &lpar;if you’re lucky&rpar;](https://www.androidauthority.com/google-messages-custom-chat-wallpapers-rollout-3680720/)
- - [Meta’s $59 smart glasses stand is missing the one thing you need to power it](https://www.androidauthority.com/meta-glasses-charging-stand-3680770/)<!-- TECH:END -->
+ - [Humanoid robot maker Agility plans to go public via a merger with Michael Klein&#39;s SPAC, in a deal valuing it at ~$2.5B and listing under ticker symbol AGLT &lpar;Lauren Thomas/Wall Street Journal&rpar;](https://www.techmeme.com/260624/p11#a260624p11)
+ - [As a US carrier expert, here’s why I wouldn’t sign up for Verizon’s new Simplicity plan](https://www.androidauthority.com/verizon-simplicity-plan-not-signing-up-3680072/)
+ - [Another LastPass security breach traces back to a compromised vendor](https://www.androidauthority.com/lastpass-data-breach-klue-3680836/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
