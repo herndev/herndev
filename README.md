@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Things that will never happen to you](http://9gag.com/gag/ae9LOBm)
- - ⏩ [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)
- - 👉 [It just hits different](http://9gag.com/gag/a87Zm8p)<!-- MEMES:END -->
+ - ⏩ [Italian controllers ignore immigrants who travel without a ticket](http://9gag.com/gag/aByp6RD)
+ - 👉 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)<!-- MEMES:END -->
 
 ---
 
