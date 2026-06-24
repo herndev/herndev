@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)
- - ⏩ [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)
+ - 💣 [Scammer switching apples](http://9gag.com/gag/ajPpOd0)
+ - ⏩ [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)
  - 👉 [Last men standing](http://9gag.com/gag/aYQ9OOx)<!-- MEMES:END -->
 
 ---
