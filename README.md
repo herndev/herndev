@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)
- - [Micron and Sandisk led a tech selloff on Tuesday, falling more than 13%; Western Digital fell 8%, Marvell 9%, Seagate 5%, Qualcomm 8%, and Applied Materials 8% &lpar;Britney Nguyen/MarketWatch&rpar;](https://www.techmeme.com/260623/p41#a260623p41)
- - [YouTube settles a lawsuit ahead of a second California trial over social media harms to minors; Meta, TikTok, and Snap remain defendants &lpar;Hillel Aron/Courthouse News Service&rpar;](https://www.techmeme.com/260623/p40#a260623p40)<!-- TECH:END -->
+ - [xLight, a startup developing advanced lasers for EUV machines, told investors that it is in talks to raise $350M led by Boardman Bay and Bain Capital &lpar;The Information&rpar;](https://www.techmeme.com/260623/p42#a260623p42)
+ - [Best Dyson Deals for Prime Day: Vacuums, Hair Tools, and More](https://www.wired.com/story/prime-day-dyson-deals-2026/)
+ - [Microsoft Comes Through With the Best Laptop Deal of Prime Day So Far](https://www.wired.com/story/surface-laptop-prime-day-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
