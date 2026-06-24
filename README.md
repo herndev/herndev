@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s capable TV Streamer 4K is back to its best price for Prime Day](https://www.theverge.com/gadgets/953074/google-tv-streamer-4k-amazon-prime-day-2026-deal-sale)
- - [Chinese cybersecurity company 360 unveils new AI tools: Tulongfeng, which it claims is &quot;China&#39;s version of Mythos&quot;, and Yitianzhen, to automate cyber defense &lpar;Eduardo Baptista/Reuters&rpar;](https://www.techmeme.com/260624/p23#a260624p23)
- - [OpenAI and Broadcom unveil Jalapeño, an LLM-optimized inference chip developed from design to manufacturing tape-out in nine months, aided by OpenAI&#39;s models &lpar;OpenAI&rpar;](https://www.techmeme.com/260624/p22#a260624p22)<!-- TECH:END -->
+ - [OpenAI’s new ‘Jalapeno’ chip is the company’s first step towards the future](https://www.androidauthority.com/openai-jalapeno-ai-processor-3680957/)
+ - [I&#39;ve Built Countless Sets, and These Are the Best Prime Day Lego Deals &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-lego-deals-june-2026/)
+ - [OpenAI reveals its first AI processor: Jalapeño](https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
