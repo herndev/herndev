@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day deals under $50 that are really worth it](https://www.theverge.com/gadgets/951543/best-prime-day-deals-under-50)
- - [Apple’s foldable iPhone Ultra looks on track for a September launch](https://www.androidauthority.com/foldable-iphone-ultra-mass-production-3680994/)
- - [The $27 million Al proxy war over Alex Bores ends in a draw](https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results)<!-- TECH:END -->
+ - [Google says computer use is now a built-in tool supported in Gemini 3.5 Flash, available via the Gemini API and Gemini Enterprise Agent Platform &lpar;Mateo Quiros/The Keyword&rpar;](https://www.techmeme.com/260624/p34#a260624p34)
+ - [Apple Ring would dominate the fitness market, which is why it can&#39;t exist](https://appleinsider.com/articles/26/06/24/apple-ring-would-dominate-the-fitness-market-which-is-why-it-cant-exist?utm_source=rss)
+ - [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
