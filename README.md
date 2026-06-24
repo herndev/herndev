@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Last men standing](http://9gag.com/gag/aYQ9OOx)
- - ⏩ [Scammer switching apples](http://9gag.com/gag/ajPpOd0)
- - 👉 [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)<!-- MEMES:END -->
+ - 💣 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
+ - ⏩ [Last men standing](http://9gag.com/gag/aYQ9OOx)
+ - 👉 [There are only 6 animals considered human hunters in the world, and polar bears are one of them.](http://9gag.com/gag/a7oQO1b)<!-- MEMES:END -->
 
 ---
 
