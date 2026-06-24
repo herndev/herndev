@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scammer switching apples](http://9gag.com/gag/ajPpOd0)
- - ⏩ [Last men standing](http://9gag.com/gag/aYQ9OOx)
+ - 💣 [Last men standing](http://9gag.com/gag/aYQ9OOx)
+ - ⏩ [Scammer switching apples](http://9gag.com/gag/ajPpOd0)
  - 👉 [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)<!-- MEMES:END -->
 
 ---
