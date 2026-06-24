@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare partners with Google, Microsoft, and Mozilla on PACT, a protocol to distinguish legitimate human or bot traffic from undesirable network requests &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260624/p41#a260624p41)
- - [The Best Roborock Deal This Prime Day &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-roborock-deals-2026/)
- - [Gemini in Chrome is getting yet another version of Circle to Search](https://www.androidauthority.com/chrome-select-from-screen-3681130/)<!-- TECH:END -->
+ - [SambaNova Executive Chairman Lip-Bu Tan says the AI chip startup is set to raise $800M to $1B, sources say at a ~$10B valuation, up from $2B in February &lpar;The Information&rpar;](https://www.techmeme.com/260624/p43#a260624p43)
+ - [Qualcomm expects $15B in data center chip sales by 2029, raises its non-handset chip revenue forecast to $40B by 2029, up from $22B; QCOM jumps 13%+ after hours &lpar;Reuters&rpar;](https://www.techmeme.com/260624/p42#a260624p42)
+ - [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
