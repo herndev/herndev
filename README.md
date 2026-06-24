@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Trump administration has been happier talking to Anthropic lately after Dario Amodei was replaced by cofounder Tom Brown in meetings about Fable 5 &lpar;Hugo Lowell/Wired&rpar;](https://www.techmeme.com/260624/p29#a260624p29)
- - [Ornn, which plans to launch a marketplace for GPU capacity designed to function like an exchange to trade oil contracts, raised a $33M seed led by a16z &lpar;Katherine Doherty/Bloomberg&rpar;](https://www.techmeme.com/260624/p28#a260624p28)
- - [The 16 best robot vacuum deals available during Prime Day](https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026)<!-- TECH:END -->
+ - [AirTag 2 hits $24 and gives shoppers one of the best Apple Prime Day deals](https://appleinsider.com/articles/26/06/24/airtag-2-hits-24-and-gives-shoppers-one-of-the-best-apple-prime-day-deals?utm_source=rss)
+ - [Prime deal: This retro JBL smart speaker is half-price for the first time this week](https://www.androidauthority.com/jbl-authentics-300-bluetooth-speaker-3680683/)
+ - [Figma now has AI motion graphics and shader tools](https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
