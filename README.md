@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says computer use is now a built-in tool supported in Gemini 3.5 Flash, available via the Gemini API and Gemini Enterprise Agent Platform &lpar;Mateo Quiros/The Keyword&rpar;](https://www.techmeme.com/260624/p34#a260624p34)
- - [Apple Ring would dominate the fitness market, which is why it can&#39;t exist](https://appleinsider.com/articles/26/06/24/apple-ring-would-dominate-the-fitness-market-which-is-why-it-cant-exist?utm_source=rss)
- - [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)<!-- TECH:END -->
+ - [Every Time Norway Scores at the World Cup the City of Bergen Trembles](https://www.wired.com/story/world-cup-norway-scores-city-of-bergen-trembles/)
+ - [Sources: Kalshi is in talks to raise a funding round at a ~$40B valuation that may close as soon as Q3; Kalshi raised $1B at a $22B valuation in May &lpar;Financial Times&rpar;](https://www.techmeme.com/260624/p37#a260624p37)
+ - [Prime Day deal: Nothing Ear 3 drops to record low of just $128](https://www.androidauthority.com/nothing-ear-3-prime-day-deal-3681111/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
