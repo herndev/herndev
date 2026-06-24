@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Fake Christmas Trees on the Market Are 50% Off for Prime Day &lpar;2026&rpar;](https://www.wired.com/story/balsam-hill-apd-june-2026/)
- - [Best Prime Day OLED TV deals from LG, Samsung, Sony start at just $797](https://appleinsider.com/articles/26/06/24/best-prime-day-oled-tv-deals-from-lg-samsung-sony-start-at-just-797?utm_source=rss)
- - [Sources: in a letter to US officials, Anthropic accused Alibaba of adversarial distillation, accessing Claude 28.8M times from April to June via ~25K accounts &lpar;Maggie Eastland/Bloomberg&rpar;](https://www.techmeme.com/260624/p39#a260624p39)<!-- TECH:END -->
+ - [Cloudflare partners with Google, Microsoft, and Mozilla on PACT, a protocol to distinguish legitimate human or bot traffic from undesirable network requests &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260624/p41#a260624p41)
+ - [The Best Roborock Deal This Prime Day &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-roborock-deals-2026/)
+ - [Gemini in Chrome is getting yet another version of Circle to Search](https://www.androidauthority.com/chrome-select-from-screen-3681130/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
