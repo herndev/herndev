@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xLight, a startup developing advanced lasers for EUV machines, told investors that it is in talks to raise $350M led by Boardman Bay and Bain Capital &lpar;The Information&rpar;](https://www.techmeme.com/260623/p42#a260623p42)
- - [Best Dyson Deals for Prime Day: Vacuums, Hair Tools, and More](https://www.wired.com/story/prime-day-dyson-deals-2026/)
- - [Microsoft Comes Through With the Best Laptop Deal of Prime Day So Far](https://www.wired.com/story/surface-laptop-prime-day-deal/)<!-- TECH:END -->
+ - [Alex Bores lost to Micah Lasher in an NY Congressional Democrat primary that became a proxy war over AI regulation that drew millions in spending from AI PACs &lpar;Ben Kamisar/NBC News&rpar;](https://www.techmeme.com/260623/p45#a260623p45)
+ - [The NSA was red-teaming Mythos 5 before losing access amid the Anthropic dispute; the tests showed Mythos identified cybersecurity flaws in classified systems &lpar;New York Times&rpar;](https://www.techmeme.com/260623/p44#a260623p44)
+ - [Orderful, which offers AI-powered tools to automate supply chain data management, raised a $35M Series C led by KDT, bringing its total funding to $85M &lpar;Maria Deutscher/SiliconANGLE&rpar;](https://www.techmeme.com/260623/p43#a260623p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
