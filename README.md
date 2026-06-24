@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Using a nuke in a knife fight](http://9gag.com/gag/aLnxemz)
- - ⏩ [I miss Wii Sports. Gotta dig out the old system and play it again.](http://9gag.com/gag/aVvAKjM)
- - 👉 [The Last Video I have from my cat. He left on saturday and we never found him again. He was 17 years old.. probably Chose to Go on His final adventure. I Just Wish I knew for certain](http://9gag.com/gag/a6ZP5ob)<!-- MEMES:END -->
+ - 💣 [Mon Dieu!](http://9gag.com/gag/aPA5P3B)
+ - ⏩ [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
+ - 👉 [Last men standing](http://9gag.com/gag/aYQ9OOx)<!-- MEMES:END -->
 
 ---
 
