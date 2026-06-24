@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone needs to hear this](http://9gag.com/gag/aGyX8VG)
- - ⏩ [Using a nuke in a knife fight](http://9gag.com/gag/aLnxemz)
- - 👉 [I miss Wii Sports. Gotta dig out the old system and play it again.](http://9gag.com/gag/aVvAKjM)<!-- MEMES:END -->
+ - 💣 [Who hurt you?](http://9gag.com/gag/azxndMZ)
+ - ⏩ [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)
+ - 👉 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)<!-- MEMES:END -->
 
 ---
 
