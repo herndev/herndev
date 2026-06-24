@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alex Bores lost to Micah Lasher in an NY Congressional Democrat primary that became a proxy war over AI regulation that drew millions in spending from AI PACs &lpar;Ben Kamisar/NBC News&rpar;](https://www.techmeme.com/260623/p45#a260623p45)
- - [The NSA was red-teaming Mythos 5 before losing access amid the Anthropic dispute; the tests showed Mythos identified cybersecurity flaws in classified systems &lpar;New York Times&rpar;](https://www.techmeme.com/260623/p44#a260623p44)
- - [Orderful, which offers AI-powered tools to automate supply chain data management, raised a $35M Series C led by KDT, bringing its total funding to $85M &lpar;Maria Deutscher/SiliconANGLE&rpar;](https://www.techmeme.com/260623/p43#a260623p43)<!-- TECH:END -->
+ - [Grab Apple&#39;s 15-inch MacBook Air M4 for just $949 today only](https://appleinsider.com/articles/26/06/24/grab-apples-15-inch-macbook-air-m4-for-just-949-today-only?utm_source=rss)
+ - [Sources: prices for Nvidia&#39;s AI chips on China&#39;s black market have more than doubled amid a US export crackdown; its flagship DGX B300 server has risen to $1.1M &lpar;Eleanor Olcott/Financial Times&rpar;](https://www.techmeme.com/260623/p48#a260623p48)
+ - [Flipkart says it plans to expand its network of micro-fulfillment centers in India to 1,500 by the end of 2026, as it also claims orders have grown ~400% YoY &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260623/p47#a260623p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
