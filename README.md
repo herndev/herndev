@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab Apple&#39;s 15-inch MacBook Air M4 for just $949 today only](https://appleinsider.com/articles/26/06/24/grab-apples-15-inch-macbook-air-m4-for-just-949-today-only?utm_source=rss)
- - [Sources: prices for Nvidia&#39;s AI chips on China&#39;s black market have more than doubled amid a US export crackdown; its flagship DGX B300 server has risen to $1.1M &lpar;Eleanor Olcott/Financial Times&rpar;](https://www.techmeme.com/260623/p48#a260623p48)
- - [Flipkart says it plans to expand its network of micro-fulfillment centers in India to 1,500 by the end of 2026, as it also claims orders have grown ~400% YoY &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260623/p47#a260623p47)<!-- TECH:END -->
+ - [New York-based Probook, which is building an AI operating system for home service businesses, raised a $34M Series A led by a16z and a $6M seed led by Sequoia &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260624/p4#a260624p4)
+ - [This is our best look yet at the upcoming Samsung Galaxy Watch Ultra 2](https://www.androidauthority.com/samsung-galaxy-watch-ultra-2-design-features-leak-3680717/)
+ - [AI creative tools startup Krea, which has raised $83M and claims to have 30M users, releases the open weights for its image model Krea 2 under a custom license &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260624/p3#a260624p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
