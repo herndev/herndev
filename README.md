@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Humanoid robot maker Agility plans to go public via a merger with Michael Klein&#39;s SPAC, in a deal valuing it at ~$2.5B and listing under ticker symbol AGLT &lpar;Lauren Thomas/Wall Street Journal&rpar;](https://www.techmeme.com/260624/p11#a260624p11)
- - [As a US carrier expert, here’s why I wouldn’t sign up for Verizon’s new Simplicity plan](https://www.androidauthority.com/verizon-simplicity-plan-not-signing-up-3680072/)
- - [Another LastPass security breach traces back to a compromised vendor](https://www.androidauthority.com/lastpass-data-breach-klue-3680836/)<!-- TECH:END -->
+ - [Rockstar says physical copies of GTA 6 will contain a digital download code, not a disc; physical copies release on November 12, ahead of the November 19 launch &lpar;Tom Phillips/IGN&rpar;](https://www.techmeme.com/260624/p18#a260624p18)
+ - [The US FDA drops an enforcement complaint against Whoop over its blood pressure tracking tool, reversing a July 2025 warning letter; Whoop is updating the tool &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260624/p17#a260624p17)
+ - [The Dyson PencilWash is down to its lowest price ever for Prime Day](https://www.theverge.com/gadgets/954273/dyson-pencilwash-wet-floor-cleaner-mop-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
