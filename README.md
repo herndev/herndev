@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every Time Norway Scores at the World Cup the City of Bergen Trembles](https://www.wired.com/story/world-cup-norway-scores-city-of-bergen-trembles/)
- - [Sources: Kalshi is in talks to raise a funding round at a ~$40B valuation that may close as soon as Q3; Kalshi raised $1B at a $22B valuation in May &lpar;Financial Times&rpar;](https://www.techmeme.com/260624/p37#a260624p37)
- - [Prime Day deal: Nothing Ear 3 drops to record low of just $128](https://www.androidauthority.com/nothing-ear-3-prime-day-deal-3681111/)<!-- TECH:END -->
+ - [The Best Fake Christmas Trees on the Market Are 50% Off for Prime Day &lpar;2026&rpar;](https://www.wired.com/story/balsam-hill-apd-june-2026/)
+ - [Best Prime Day OLED TV deals from LG, Samsung, Sony start at just $797](https://appleinsider.com/articles/26/06/24/best-prime-day-oled-tv-deals-from-lg-samsung-sony-start-at-just-797?utm_source=rss)
+ - [Sources: in a letter to US officials, Anthropic accused Alibaba of adversarial distillation, accessing Claude 28.8M times from April to June via ~25K accounts &lpar;Maggie Eastland/Bloomberg&rpar;](https://www.techmeme.com/260624/p39#a260624p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
