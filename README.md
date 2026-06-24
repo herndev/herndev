@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rockstar says physical copies of GTA 6 will contain a digital download code, not a disc; physical copies release on November 12, ahead of the November 19 launch &lpar;Tom Phillips/IGN&rpar;](https://www.techmeme.com/260624/p18#a260624p18)
- - [The US FDA drops an enforcement complaint against Whoop over its blood pressure tracking tool, reversing a July 2025 warning letter; Whoop is updating the tool &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260624/p17#a260624p17)
- - [The Dyson PencilWash is down to its lowest price ever for Prime Day](https://www.theverge.com/gadgets/954273/dyson-pencilwash-wet-floor-cleaner-mop-deal-sale)<!-- TECH:END -->
+ - [My Family Loves Board Games—Here Are the 9 I&#39;d Buy On Sale During Prime Day](https://www.wired.com/story/amazon-prime-day-board-game-deals-june-2026/)
+ - [107 Prime Day Deals on Gear We Stand By, Up To 52% Off &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-24-2026/)
+ - [OnePlus could be reduced to an OPPO product line under alleged new plans](https://www.androidauthority.com/oppo-oneplus-realme-product-series-restructuring-3680857/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
