@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yoinked😂😂](https://www.reddit.com/r/funny/comments/1udy5xh/yoinked/)
- - ⏩ [Starting good](http://9gag.com/gag/aXPBLBD)
- - 👉 [It just hits different](http://9gag.com/gag/a87Zm8p)<!-- MEMES:END -->
+ - 💣 [She tried to fight the urge but gave it! Handsome Squidward](http://9gag.com/gag/aQzGvZ8)
+ - ⏩ [Last men standing](http://9gag.com/gag/aYQ9OOx)
+ - 👉 [Poor JD](http://9gag.com/gag/aBypZ5A)<!-- MEMES:END -->
 
 ---
 
