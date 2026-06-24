@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mon Dieu!](http://9gag.com/gag/aPA5P3B)
- - ⏩ [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
+ - 💣 [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
+ - ⏩ [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)
  - 👉 [Last men standing](http://9gag.com/gag/aYQ9OOx)<!-- MEMES:END -->
 
 ---
