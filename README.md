@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony&#39;s Bungie says it is laying off a &quot;significant number of employees&quot;, including &quot;most of the Destiny team&quot;; Bungie has an estimated headcount of 800 &lpar;Ethan Gach/Kotaku&rpar;](https://www.techmeme.com/260625/p28#a260625p28)
- - [How the World Cup became a US streaming success story](https://www.theverge.com/column/956756/world-cup-streaming)
- - [Apple just raised Mac and iPad prices, and that’s bad news for Android, too](https://www.androidauthority.com/apple-products-price-hike-3681451/)<!-- TECH:END -->
+ - [Google’s Pixel home screen organizer looks almost ready for prime time in Android 17 QPR1 Beta 5](https://www.androidauthority.com/google-pixel-home-screen-organizer-update-3681473/)
+ - [Memo: Meta Superintelligence Labs is hiring three founders and other team members behind AI security startup Virtue AI; two founders report to Nat Friedman &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/260625/p32#a260625p32)
+ - [This highly-rated 65W charger is now just $19.77 in its best deal since Black Friday](https://www.androidauthority.com/iniu-65w-usb-c-charger-block-deal-3679571/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
