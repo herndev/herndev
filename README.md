@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s $299 iPad deal is in stock now, $150 off Apple&#39;s new $449 price](https://appleinsider.com/articles/26/06/25/amazons-299-ipad-deal-is-in-stock-now-150-off-apples-new-449-price?utm_source=rss)
- - [Prime pick: The Pixel Buds Pro 2 drop to their lowest price in a year](https://www.androidauthority.com/pixel-buds-pro-2-prime-deal-3681614/)
- - [We&#39;re Live-Blogging For The Real Heads Still Shopping Amazon Prime Day](https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/)<!-- TECH:END -->
+ - [Sources: Sam Altman told staff the US government asked OpenAI to stagger the release of GPT 5.6 over security concerns, approving &quot;access customer by customer&quot; &lpar;The Information&rpar;](https://www.techmeme.com/260625/p45#a260625p45)
+ - [Apple stock closed down 6.15% on Thursday after the company raised some product prices, its worst fall since April 2025 &lpar;MacKenzie Sigalos/CNBC&rpar;](https://www.techmeme.com/260625/p44#a260625p44)
+ - [If you want the most powerful Sonos standalone speaker, the Five is now 25% off for Prime Day](https://www.androidauthority.com/sonos-five-prime-day-3681649/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
