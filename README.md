@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital advocacy firms like CiviClick and Influent appear to use AI to generate mass public comments on local energy projects, mostly favoring fossil fuel use &lpar;Bloomberg&rpar;](https://www.techmeme.com/260624/p49#a260624p49)
- - [Valve&#39;s Steam Machine: Pricing Set &lpar;Oof!&rpar;, Preorder Lottery Open Now, Shipping Soon](https://www.cnet.com/tech/gaming/valves-steam-machine-price-release-date-more/)
- - [An Amazon seller reveals how middlemen on chat apps offer access to Amazon employees who allegedly grant favors, like reinstating suspended accounts, for a fee &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/260624/p48#a260624p48)<!-- TECH:END -->
+ - [Facebook brings back Facebook Creator Studio as a stand-alone app with built-in AI chatbot to help creators grow their audiences through personalized guidance &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260625/p1#a260625p1)
+ - [10 Best Protein Powders, According to 3 Years of Testing &lpar;2026&rpar;](https://www.wired.com/gallery/best-protein-powders/)
+ - [This new launcher makes your Android phone look like a Nintendo DS](https://www.androidauthority.com/nintendo-ds-android-launcher-3681208/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
