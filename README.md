@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Heavys H1H headphones review: Better for rock listeners than AirPods Max, for half the price](https://appleinsider.com/articles/26/06/25/heavys-h1h-headphones-review-better-for-rock-listeners-than-airpods-max-for-half-the-price?utm_source=rss)
- - [Google&#39;s new payment policies are a preview of what could come to Apple platforms](https://appleinsider.com/articles/26/06/25/googles-new-payment-policies-are-a-preview-of-what-could-come-to-apple-platforms?utm_source=rss)
- - [Trase, which is building an operating system and infrastructure layer for AI agents in industries like health care and defense, raised a $107M seed led by Arch &lpar;Brock E.W. Turner/Axios&rpar;](https://www.techmeme.com/260624/p46#a260624p46)<!-- TECH:END -->
+ - [The Skylight Calendar Is One of My Favorite Products On Sale for Prime Day](https://www.wired.com/story/skylight-calendar-prime-day-deal-2026/)
+ - [Hang Ten Systems, led by former Infosys CEO Vishal Sikka, launches with a $32M seed led by Mayfield to help enterprises use AI to run software at a lower cost &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260624/p47#a260624p47)
+ - [Meta Halts Employee Data Tracking After Sensitive Info Reportedly Exposed](https://www.cnet.com/tech/services-and-software/meta-backs-off-data-tracking-of-employees-train-ai-models/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
