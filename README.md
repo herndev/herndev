@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It just hits different](http://9gag.com/gag/a87Zm8p)
- - ⏩ [Anyone thinking it&#39;s going to massively flop?](http://9gag.com/gag/aGyXMYX)
- - 👉 [Last men standing](http://9gag.com/gag/aYQ9OOx)<!-- MEMES:END -->
+ - 💣 [Anyone thinking it&#39;s going to massively flop?](http://9gag.com/gag/aGyXMYX)
+ - ⏩ [The Last Video I have from my cat. He left on saturday and we never found him again. He was 17 years old.. probably Chose to Go on His final adventure. I Just Wish I knew for certain](http://9gag.com/gag/a6ZP5ob)
+ - 👉 [Do the health-puppy](http://9gag.com/gag/aQzG7gw)<!-- MEMES:END -->
 
 ---
 
