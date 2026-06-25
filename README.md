@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paid for YouTube TV? You might qualify for cash from Disney’s $50M settlement](https://www.androidauthority.com/disney-youtube-tv-settlement-3681253/)
- - [A 14,000mAh battery phone could be on the way, but there’s a catch](https://www.androidauthority.com/honor-14000mah-phone-3681249/)
- - [As China&#39;s working-age population shrinks, a consensus is emerging that it must deploy embodied AI robots into as many tasks as possible, as soon as possible &lpar;Financial Times&rpar;](https://www.techmeme.com/260625/p10#a260625p10)<!-- TECH:END -->
+ - [Alibaba falls ~5% in Hong Kong after Anthropic accused it of &quot;illicitly&quot; accessing its AI models, taking its YTD fall to 33%; Xiaomi and Baidu fell 3%+ &lpar;Jeanny Yu/Bloomberg&rpar;](https://www.techmeme.com/260625/p15#a260625p15)
+ - [Why Android and iOS will never be enough for an AI-first smartphone](https://www.androidauthority.com/android-ios-not-enough-ai-smartphone-why-3673843/)
+ - [Arm EVP Mohamed Awad says its chip architecture now accounts for 50%+ of the hyperscale cloud computing market, as AI demand transforms the data center industry &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](https://www.techmeme.com/260625/p14#a260625p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
