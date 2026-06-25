@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chipmaker Onsemi agrees to buy Synaptics in a nearly $7B all-stock deal expected to close in the middle of 2027; ON drops 9%+ and SYNA jumps 11%+ after hours &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260625/p48#a260625p48)
- - [Framework has good news and bad news](https://www.theverge.com/gadgets/957338/framework-laptop-13-pro-ssd-price-cpu)
- - [Google is shutting down the loophole that let Fitbit users escape the Google Health update](https://www.androidauthority.com/fitbit-app-workaround-google-health-3681642/)<!-- TECH:END -->
+ - [Apple says it removed VK&#39;s apps from the App Store to comply with sanctions; VK says they were removed without warning and it has never been under US sanctions &lpar;Reuters&rpar;](https://www.techmeme.com/260625/p52#a260625p52)
+ - [YouTube updates Shorts to make it even more like TikTok](https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok)
+ - [Patronus AI, which builds simulated digital environments for evaluating AI agents, raised a $50M Series B led by Greenfield, bringing its total funding to $70M &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260625/p51#a260625p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
