@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook brings back Facebook Creator Studio as a stand-alone app with built-in AI chatbot to help creators grow their audiences through personalized guidance &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260625/p1#a260625p1)
- - [10 Best Protein Powders, According to 3 Years of Testing &lpar;2026&rpar;](https://www.wired.com/gallery/best-protein-powders/)
- - [This new launcher makes your Android phone look like a Nintendo DS](https://www.androidauthority.com/nintendo-ds-android-launcher-3681208/)<!-- TECH:END -->
+ - [How a $45M donation to a group supporting Trump brought Larry Ellison deeper into Trump&#39;s circle, helped Oracle&#39;s business, and his son&#39;s acquisition of WBD &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260625/p9#a260625p9)
+ - [Assort Health, which develops AI voice agents for health care to handle scheduling and more, raised a $120M Series C led by Menlo Ventures at a $1.2B valuation &lpar;Heather Landi/Fierce Healthcare&rpar;](https://www.techmeme.com/260625/p8#a260625p8)
+ - [Paris-based Tsuga, whose observability software runs in customers&#39; own clouds to help them skip per-byte ingestion costs, raised a $35M Series A led by Singular &lpar;Ana Maria Constantin/The Next Web&rpar;](https://www.techmeme.com/260625/p7#a260625p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
