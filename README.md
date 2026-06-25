@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day steal: The Fitbit Charge 6 plunges below $90 for the first time ever](https://www.androidauthority.com/fitbit-charge-6-prime-day-deal-3681578/)
- - [It&amp;#8217;s a bad time to want a new computer](https://www.theverge.com/tech/957151/ram-crisis-component-shortage-prices-computer-apple-microsoft-valve)
- - [Netris, which helps neoclouds automate network configuration to bring their data centers online faster, raised a $15M Series A from a16z &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260625/p40#a260625p40)<!-- TECH:END -->
+ - [Amazon&#39;s $299 iPad deal is in stock now, $150 off Apple&#39;s new $449 price](https://appleinsider.com/articles/26/06/25/amazons-299-ipad-deal-is-in-stock-now-150-off-apples-new-449-price?utm_source=rss)
+ - [Prime pick: The Pixel Buds Pro 2 drop to their lowest price in a year](https://www.androidauthority.com/pixel-buds-pro-2-prime-deal-3681614/)
+ - [We&#39;re Live-Blogging For The Real Heads Still Shopping Amazon Prime Day](https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
