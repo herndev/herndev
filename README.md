@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ticketmaster’s new Google Wallet integration could make concerts less stressful](https://www.androidauthority.com/google-wallet-ticketmaster-3681515/)
- - [Microsoft says the price of Xbox consoles will increase on August 1 by $100 for 512GB models and $150 for 1TB models, the third price increase since 2025 &lpar;Kenneth Shepard/Kotaku&rpar;](https://www.techmeme.com/260625/p37#a260625p37)
- - [Apple will skip M6 Pro, Max chips in favor of M7 AI alternatives](https://appleinsider.com/articles/26/06/25/apple-will-skip-m6-pro-max-chips-in-favor-of-m7-ai-alternatives?utm_source=rss)<!-- TECH:END -->
+ - [Prime Day steal: The Fitbit Charge 6 plunges below $90 for the first time ever](https://www.androidauthority.com/fitbit-charge-6-prime-day-deal-3681578/)
+ - [It&amp;#8217;s a bad time to want a new computer](https://www.theverge.com/tech/957151/ram-crisis-component-shortage-prices-computer-apple-microsoft-valve)
+ - [Netris, which helps neoclouds automate network configuration to bring their data centers online faster, raised a $15M Series A from a16z &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260625/p40#a260625p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
