@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sam Altman told staff the US government asked OpenAI to stagger the release of GPT 5.6 over security concerns, approving &quot;access customer by customer&quot; &lpar;The Information&rpar;](https://www.techmeme.com/260625/p45#a260625p45)
- - [Apple stock closed down 6.15% on Thursday after the company raised some product prices, its worst fall since April 2025 &lpar;MacKenzie Sigalos/CNBC&rpar;](https://www.techmeme.com/260625/p44#a260625p44)
- - [If you want the most powerful Sonos standalone speaker, the Five is now 25% off for Prime Day](https://www.androidauthority.com/sonos-five-prime-day-3681649/)<!-- TECH:END -->
+ - [Chipmaker Onsemi agrees to buy Synaptics in a nearly $7B all-stock deal expected to close in the middle of 2027; ON drops 9%+ and SYNA jumps 11%+ after hours &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260625/p48#a260625p48)
+ - [Framework has good news and bad news](https://www.theverge.com/gadgets/957338/framework-laptop-13-pro-ssd-price-cpu)
+ - [Google is shutting down the loophole that let Fitbit users escape the Google Health update](https://www.androidauthority.com/fitbit-app-workaround-google-health-3681642/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
