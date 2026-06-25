@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Up to 36% Off With the Best Prime Day Kindle Deals &lpar;2026&rpar;: Paperwhite, Colorsoft, Kids](https://www.wired.com/story/kindle-prime-day-deals-06-25-2026/)
- - [Get Up to 43% Off With the Best Prime Day TV Deals Plus Streaming Devices &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-tv-deals-06-25-2026/)
- - [Leak claims iPhone Ultra 2 is already greenlit, but maybe not iPhone Air 3](https://appleinsider.com/articles/26/06/25/leak-claims-iphone-ultra-2-is-already-greenlit-but-maybe-not-iphone-air-3?utm_source=rss)<!-- TECH:END -->
+ - [Australian payments startup Airwallex raised $320M led by Lee Fixel&#39;s Addition at an $11B valuation, and is incubating blockchain payments startup Metal &lpar;Jeff Kauflin/Forbes&rpar;](https://www.techmeme.com/260625/p23#a260625p23)
+ - [Apple Store is down, for one of two reasons](https://appleinsider.com/articles/26/06/25/apple-store-is-down-for-one-of-two-reasons?utm_source=rss)
+ - [Scaled Cognition, a reliability-focused lab that develops the Agentic Pretrained Transformer model, raised a $100M Series A led by Khosla at a $750M valuation &lpar;Steven Rosenbush/Wall Street Journal&rpar;](https://www.techmeme.com/260625/p22#a260625p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
