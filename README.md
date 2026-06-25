@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australian payments startup Airwallex raised $320M led by Lee Fixel&#39;s Addition at an $11B valuation, and is incubating blockchain payments startup Metal &lpar;Jeff Kauflin/Forbes&rpar;](https://www.techmeme.com/260625/p23#a260625p23)
- - [Apple Store is down, for one of two reasons](https://appleinsider.com/articles/26/06/25/apple-store-is-down-for-one-of-two-reasons?utm_source=rss)
- - [Scaled Cognition, a reliability-focused lab that develops the Agentic Pretrained Transformer model, raised a $100M Series A led by Khosla at a $750M valuation &lpar;Steven Rosenbush/Wall Street Journal&rpar;](https://www.techmeme.com/260625/p22#a260625p22)<!-- TECH:END -->
+ - [iPhone, Apple Watch &amp; AirPods escape Apple&#39;s latest price increases](https://appleinsider.com/articles/26/06/25/iphone-apple-watch-airpods-escape-apples-latest-price-increases?utm_source=rss)
+ - [Apple confirms price hikes across Macs, iPads, and more](https://appleinsider.com/articles/26/06/25/apple-confirms-price-nikes-across-macs-ipads-and-more?utm_source=rss)
+ - [Apple Store was down, to implement price hikes](https://appleinsider.com/articles/26/06/25/apple-store-is-down-for-one-of-two-reasons?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
