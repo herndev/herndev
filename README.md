@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Pixel home screen organizer looks almost ready for prime time in Android 17 QPR1 Beta 5](https://www.androidauthority.com/google-pixel-home-screen-organizer-update-3681473/)
- - [Memo: Meta Superintelligence Labs is hiring three founders and other team members behind AI security startup Virtue AI; two founders report to Nat Friedman &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/260625/p32#a260625p32)
- - [This highly-rated 65W charger is now just $19.77 in its best deal since Black Friday](https://www.androidauthority.com/iniu-65w-usb-c-charger-block-deal-3679571/)<!-- TECH:END -->
+ - [Ticketmaster’s new Google Wallet integration could make concerts less stressful](https://www.androidauthority.com/google-wallet-ticketmaster-3681515/)
+ - [Microsoft says the price of Xbox consoles will increase on August 1 by $100 for 512GB models and $150 for 1TB models, the third price increase since 2025 &lpar;Kenneth Shepard/Kotaku&rpar;](https://www.techmeme.com/260625/p37#a260625p37)
+ - [Apple will skip M6 Pro, Max chips in favor of M7 AI alternatives](https://appleinsider.com/articles/26/06/25/apple-will-skip-m6-pro-max-chips-in-favor-of-m7-ai-alternatives?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
