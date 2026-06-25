@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
- - ⏩ [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)
- - 👉 [Helping her friend to write an essay, such a kind hearted young lady!](http://9gag.com/gag/aAyjKGE)<!-- MEMES:END -->
+ - 💣 [Dodged a bullet I guess](http://9gag.com/gag/azxnPOj)
+ - ⏩ [I wonder why](http://9gag.com/gag/aRBnMBA)
+ - 👉 [Last men standing](http://9gag.com/gag/aYQ9OOx)<!-- MEMES:END -->
 
 ---
 
