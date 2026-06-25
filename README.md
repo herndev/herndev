@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A perfect job](http://9gag.com/gag/aE03oLe)
- - ⏩ [Good movie!](http://9gag.com/gag/aLnx4y5)
- - 👉 [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)<!-- MEMES:END -->
+ - 💣 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)
+ - ⏩ [Scammer switching apples](http://9gag.com/gag/ajPpOd0)
+ - 👉 [Good movie!](http://9gag.com/gag/aLnx4y5)<!-- MEMES:END -->
 
 ---
 
