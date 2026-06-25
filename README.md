@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone thinking it&#39;s going to massively flop?](http://9gag.com/gag/aGyXMYX)
- - ⏩ [The Last Video I have from my cat. He left on saturday and we never found him again. He was 17 years old.. probably Chose to Go on His final adventure. I Just Wish I knew for certain](http://9gag.com/gag/a6ZP5ob)
- - 👉 [Do the health-puppy](http://9gag.com/gag/aQzG7gw)<!-- MEMES:END -->
+ - 💣 [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
+ - ⏩ [Last men standing](http://9gag.com/gag/aYQ9OOx)
+ - 👉 [It&#39;s Wednesday my dude, Reckless driving almost cost her the life she literally had her eyes glued on the phone while driving damnit](http://9gag.com/gag/aE03VgG)<!-- MEMES:END -->
 
 ---
 
