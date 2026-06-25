@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
- - ⏩ [Always ask about the other half of the equation](http://9gag.com/gag/aVvAoA8)
- - 👉 [Last men standing](http://9gag.com/gag/aYQ9OOx)<!-- MEMES:END -->
+ - ⏩ [Gag reflex, will you try it ?](http://9gag.com/gag/aAyjEmZ)
+ - 👉 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)<!-- MEMES:END -->
 
 ---
 
