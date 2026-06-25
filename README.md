@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says it removed VK&#39;s apps from the App Store to comply with sanctions; VK says they were removed without warning and it has never been under US sanctions &lpar;Reuters&rpar;](https://www.techmeme.com/260625/p52#a260625p52)
- - [YouTube updates Shorts to make it even more like TikTok](https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok)
- - [Patronus AI, which builds simulated digital environments for evaluating AI agents, raised a $50M Series B led by Greenfield, bringing its total funding to $70M &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260625/p51#a260625p51)<!-- TECH:END -->
+ - [Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data](https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/)
+ - [NHTSA proposes eliminating the mandate for manual brake pedals in &quot;vehicles designed to be driven exclusively by automated driving systems&quot; &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260625/p53#a260625p53)
+ - [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
