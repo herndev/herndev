@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba falls ~5% in Hong Kong after Anthropic accused it of &quot;illicitly&quot; accessing its AI models, taking its YTD fall to 33%; Xiaomi and Baidu fell 3%+ &lpar;Jeanny Yu/Bloomberg&rpar;](https://www.techmeme.com/260625/p15#a260625p15)
- - [Why Android and iOS will never be enough for an AI-first smartphone](https://www.androidauthority.com/android-ios-not-enough-ai-smartphone-why-3673843/)
- - [Arm EVP Mohamed Awad says its chip architecture now accounts for 50%+ of the hyperscale cloud computing market, as AI demand transforms the data center industry &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](https://www.techmeme.com/260625/p14#a260625p14)<!-- TECH:END -->
+ - [Get Up to 36% Off With the Best Prime Day Kindle Deals &lpar;2026&rpar;: Paperwhite, Colorsoft, Kids](https://www.wired.com/story/kindle-prime-day-deals-06-25-2026/)
+ - [Get Up to 43% Off With the Best Prime Day TV Deals Plus Streaming Devices &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-tv-deals-06-25-2026/)
+ - [Leak claims iPhone Ultra 2 is already greenlit, but maybe not iPhone Air 3](https://appleinsider.com/articles/26/06/25/leak-claims-iphone-ultra-2-is-already-greenlit-but-maybe-not-iphone-air-3?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
