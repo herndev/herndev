@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bungie hit with ‘significant’ layoffs after ending Destiny 2](https://www.theverge.com/entertainment/956880/bungie-layoffs-destiny-2)
- - [Why the MacBook Neo got a price hike, and why it really shouldn&#39;t have](https://appleinsider.com/articles/26/06/25/why-the-macbook-neo-got-a-price-hike-and-why-it-really-shouldnt-have?utm_source=rss)
- - [Kobo Libra Colour Sale &lpar;2026&rpar;: The E-Reader Deal Worth Jumping on This Prime Day](https://www.wired.com/story/amazon-prime-day-kobo-deal-2026/)<!-- TECH:END -->
+ - [Sony&#39;s Bungie says it is laying off a &quot;significant number of employees&quot;, including &quot;most of the Destiny team&quot;; Bungie has an estimated headcount of 800 &lpar;Ethan Gach/Kotaku&rpar;](https://www.techmeme.com/260625/p28#a260625p28)
+ - [How the World Cup became a US streaming success story](https://www.theverge.com/column/956756/world-cup-streaming)
+ - [Apple just raised Mac and iPad prices, and that’s bad news for Android, too](https://www.androidauthority.com/apple-products-price-hike-3681451/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
