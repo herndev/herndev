@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based digital health insurance startup Alan raised €480M led by Prosus at a €5.5B valuation, and is set for €1B+ in annual recurring revenue by year&#39;s end &lpar;Tim Bradshaw/Financial Times&rpar;](https://www.techmeme.com/260624/p45#a260624p45)
- - [Utah Senate President J. Stuart Adams, who championed a huge data center beside the Great Salt Lake, lost his Republican primary on Tuesday after voter backlash &lpar;Jack Healy/New York Times&rpar;](https://www.techmeme.com/260624/p44#a260624p44)
- - [Best Prime Day Deals on LED Masks and Hair Growth Tools That Actually Work](https://www.wired.com/story/best-led-devices-prime-day-deals-2026/)<!-- TECH:END -->
+ - [Heavys H1H headphones review: Better for rock listeners than AirPods Max, for half the price](https://appleinsider.com/articles/26/06/25/heavys-h1h-headphones-review-better-for-rock-listeners-than-airpods-max-for-half-the-price?utm_source=rss)
+ - [Google&#39;s new payment policies are a preview of what could come to Apple platforms](https://appleinsider.com/articles/26/06/25/googles-new-payment-policies-are-a-preview-of-what-could-come-to-apple-platforms?utm_source=rss)
+ - [Trase, which is building an operating system and infrastructure layer for AI agents in industries like health care and defense, raised a $107M seed led by Arch &lpar;Brock E.W. Turner/Axios&rpar;](https://www.techmeme.com/260624/p46#a260624p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
