@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a $45M donation to a group supporting Trump brought Larry Ellison deeper into Trump&#39;s circle, helped Oracle&#39;s business, and his son&#39;s acquisition of WBD &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260625/p9#a260625p9)
- - [Assort Health, which develops AI voice agents for health care to handle scheduling and more, raised a $120M Series C led by Menlo Ventures at a $1.2B valuation &lpar;Heather Landi/Fierce Healthcare&rpar;](https://www.techmeme.com/260625/p8#a260625p8)
- - [Paris-based Tsuga, whose observability software runs in customers&#39; own clouds to help them skip per-byte ingestion costs, raised a $35M Series A led by Singular &lpar;Ana Maria Constantin/The Next Web&rpar;](https://www.techmeme.com/260625/p7#a260625p7)<!-- TECH:END -->
+ - [Paid for YouTube TV? You might qualify for cash from Disney’s $50M settlement](https://www.androidauthority.com/disney-youtube-tv-settlement-3681253/)
+ - [A 14,000mAh battery phone could be on the way, but there’s a catch](https://www.androidauthority.com/honor-14000mah-phone-3681249/)
+ - [As China&#39;s working-age population shrinks, a consensus is emerging that it must deploy embodied AI robots into as many tasks as possible, as soon as possible &lpar;Financial Times&rpar;](https://www.techmeme.com/260625/p10#a260625p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
