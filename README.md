@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone, Apple Watch &amp; AirPods escape Apple&#39;s latest price increases](https://appleinsider.com/articles/26/06/25/iphone-apple-watch-airpods-escape-apples-latest-price-increases?utm_source=rss)
- - [Apple confirms price hikes across Macs, iPads, and more](https://appleinsider.com/articles/26/06/25/apple-confirms-price-nikes-across-macs-ipads-and-more?utm_source=rss)
- - [Apple Store was down, to implement price hikes](https://appleinsider.com/articles/26/06/25/apple-store-is-down-for-one-of-two-reasons?utm_source=rss)<!-- TECH:END -->
+ - [Bungie hit with ‘significant’ layoffs after ending Destiny 2](https://www.theverge.com/entertainment/956880/bungie-layoffs-destiny-2)
+ - [Why the MacBook Neo got a price hike, and why it really shouldn&#39;t have](https://appleinsider.com/articles/26/06/25/why-the-macbook-neo-got-a-price-hike-and-why-it-really-shouldnt-have?utm_source=rss)
+ - [Kobo Libra Colour Sale &lpar;2026&rpar;: The E-Reader Deal Worth Jumping on This Prime Day](https://www.wired.com/story/amazon-prime-day-kobo-deal-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
