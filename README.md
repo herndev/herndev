@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dodged a bullet I guess](http://9gag.com/gag/azxnPOj)
- - ⏩ [I wonder why](http://9gag.com/gag/aRBnMBA)
+ - 💣 [How to print money in 2026](http://9gag.com/gag/a6ZP5jL)
+ - ⏩ [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
  - 👉 [Last men standing](http://9gag.com/gag/aYQ9OOx)<!-- MEMES:END -->
 
 ---
