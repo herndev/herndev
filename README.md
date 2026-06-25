@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)
- - ⏩ [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
- - 👉 [Dodged a bullet I guess](http://9gag.com/gag/azxnPOj)<!-- MEMES:END -->
+ - 💣 [A perfect job](http://9gag.com/gag/aE03oLe)
+ - ⏩ [Good movie!](http://9gag.com/gag/aLnx4y5)
+ - 👉 [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)<!-- MEMES:END -->
 
 ---
 
