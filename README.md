@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Skylight Calendar Is One of My Favorite Products On Sale for Prime Day](https://www.wired.com/story/skylight-calendar-prime-day-deal-2026/)
- - [Hang Ten Systems, led by former Infosys CEO Vishal Sikka, launches with a $32M seed led by Mayfield to help enterprises use AI to run software at a lower cost &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260624/p47#a260624p47)
- - [Meta Halts Employee Data Tracking After Sensitive Info Reportedly Exposed](https://www.cnet.com/tech/services-and-software/meta-backs-off-data-tracking-of-employees-train-ai-models/)<!-- TECH:END -->
+ - [Digital advocacy firms like CiviClick and Influent appear to use AI to generate mass public comments on local energy projects, mostly favoring fossil fuel use &lpar;Bloomberg&rpar;](https://www.techmeme.com/260624/p49#a260624p49)
+ - [Valve&#39;s Steam Machine: Pricing Set &lpar;Oof!&rpar;, Preorder Lottery Open Now, Shipping Soon](https://www.cnet.com/tech/gaming/valves-steam-machine-price-release-date-more/)
+ - [An Amazon seller reveals how middlemen on chat apps offer access to Amazon employees who allegedly grant favors, like reinstating suspended accounts, for a fee &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/260624/p48#a260624p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
