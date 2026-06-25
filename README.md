@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women got on bus and refused to pay for tickets. Bus driver refused to drive. Women threw tantrum.](http://9gag.com/gag/a87ZmVV)
- - ⏩ [It just hits different](http://9gag.com/gag/a87Zm8p)
- - 👉 [Anyone thinking it&#39;s going to massively flop?](http://9gag.com/gag/aGyXMYX)<!-- MEMES:END -->
+ - 💣 [It just hits different](http://9gag.com/gag/a87Zm8p)
+ - ⏩ [Anyone thinking it&#39;s going to massively flop?](http://9gag.com/gag/aGyXMYX)
+ - 👉 [Last men standing](http://9gag.com/gag/aYQ9OOx)<!-- MEMES:END -->
 
 ---
 
