@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [GTA 6 No or Yes](http://9gag.com/gag/aD2yZyO)
- - ⏩ [Clark kent is just built different](http://9gag.com/gag/aBypG3D)
- - 👉 [Quantum Mechanics](http://9gag.com/gag/aXPB4b2)<!-- MEMES:END -->
+ - 💣 [Not honest work](http://9gag.com/gag/ajPpLGw)
+ - ⏩ [Good movie!](http://9gag.com/gag/aLnx4y5)
+ - 👉 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)<!-- MEMES:END -->
 
 ---
 
