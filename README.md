@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor Tylor Chase. Don&#39;t smoke crack kids.](http://9gag.com/gag/aGyXB3z)
- - ⏩ [Cost of living crisis](http://9gag.com/gag/aO8w9dR)
- - 👉 [Good movie!](http://9gag.com/gag/aLnx4y5)<!-- MEMES:END -->
+ - 💣 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)
+ - ⏩ [Good movie!](http://9gag.com/gag/aLnx4y5)
+ - 👉 [I just rewatched this gem... miscuzi](http://9gag.com/gag/azxnOZq)<!-- MEMES:END -->
 
 ---
 
