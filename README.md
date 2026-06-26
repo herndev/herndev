@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Is Probably Your Last Chance to Buy a Cheap MacBook for a While](https://www.wired.com/story/apple-price-hikes-on-macbooks-on-prime-day/)
- - [Elastic announces a ~7% reduction in its workforce, and says &quot;advances in AI and automation are letting us operate with leaner teams&quot;; ESTC closed down 8.70% &lpar;Richard Speed/The Register&rpar;](https://www.techmeme.com/260625/p56#a260625p56)
- - [YouTube rolls out changes to Shorts, including adding a setting to double playback speed, eliminating the &quot;dislike&quot; button, and more &lpar;Lucas Ropek/TechCrunch&rpar;](https://www.techmeme.com/260625/p55#a260625p55)<!-- TECH:END -->
+ - [Upside, which provides social workers with AI-powered housing insights, raised a $20M Series A led by Aquiline with Flare Capital, 645, and others participating &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/260625/p58#a260625p58)
+ - [Amazon&#39;s $1,149 15-inch MacBook Air deal is selling out, save up to $450 across line](https://appleinsider.com/articles/26/06/26/amazons-1149-15-inch-macbook-air-deal-is-selling-out-save-up-to-450-across-line?utm_source=rss)
+ - [How the US AI build-out is pushing up prices for electricity, software, and more; in a survey, 81% of economists say it will add to inflation over the next year &lpar;Justin Lahart/Wall Street Journal&rpar;](https://www.techmeme.com/260625/p57#a260625p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
