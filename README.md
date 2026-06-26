@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 28 Best Prime Day Deals Under $100 in 2026](https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/)
- - [Get Up to 36% Off With the Best Prime Day Kindle Deals &lpar;2026&rpar;: Paperwhite, Colorsoft, Kids](https://www.wired.com/story/kindle-prime-day-deals-06-26-2026/)
- - [Best Prime Day Vacuum Deals Offer Up to 42% Off &lpar;2026&rpar;: Shark, Dyson, Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/)<!-- TECH:END -->
+ - [Forget Gemini and ChatGPT — here are 5 unique AI tools I actually use](https://www.androidauthority.com/unique-ai-tools-i-use-not-gemini-or-chatgpt-3676432/)
+ - [A study of 408 teens in Australia finds 80%+ were still using social media three months after a ban came into force, citing inadequate age verification checks &lpar;Anna Bawden/The Guardian&rpar;](https://www.techmeme.com/260626/p7#a260626p7)
+ - [Polled readers love the Fitbit Air, but there’s still room for a Google smart ring](https://www.androidauthority.com/fitbit-air-google-smart-ring-poll-results-3681747/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
