@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good movie!](http://9gag.com/gag/aLnx4y5)
- - ⏩ [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
- - 👉 [I can imagine many a 9gagger pulling an Uno Reverse in the situation...](http://9gag.com/gag/ae9LVGQ)<!-- MEMES:END -->
+ - 💣 [Imagine missing your mother&#39;s funeral because your wife is like this](http://9gag.com/gag/aPA5exQ)
+ - ⏩ [Good movie!](http://9gag.com/gag/aLnx4y5)
+ - 👉 [`It was a valiant contest woman, but I was the quicker!!`](http://9gag.com/gag/amo3MQV)<!-- MEMES:END -->
 
 ---
 
