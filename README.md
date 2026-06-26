@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why we not funding this?](http://9gag.com/gag/aRBnony)
- - ⏩ [Short n witty](http://9gag.com/gag/aW4zbx4)
- - 👉 [Kevin Hart could ride him like thunder cat into battle](http://9gag.com/gag/azxnR7x)<!-- MEMES:END -->
+ - 💣 [But it&#39;s progress, you don&#39;t understand](http://9gag.com/gag/a2ve2KY)
+ - ⏩ [Kevin Hart could ride him like thunder cat into battle](http://9gag.com/gag/azxnR7x)
+ - 👉 [Clark kent is just built different](http://9gag.com/gag/aBypG3D)<!-- MEMES:END -->
 
 ---
 
