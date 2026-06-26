@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s the last day of Prime Day — here are over 140 great deals to choose from](https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four)
- - [OpenAI releases three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to ~20 companies, with participants disclosed to the US government &lpar;Axios&rpar;](https://www.techmeme.com/260626/p16#a260626p16)
- - [OpenAI Has New AI Models. Here’s Why You Can’t Use Them](https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/)<!-- TECH:END -->
+ - [OLED, touchscreen, and more: What to expect from the 2027 MacBook PRo](https://appleinsider.com/articles/26/06/26/oled-touchscreen-and-more-what-to-expect-from-the-2027-macbook-pro?utm_source=rss)
+ - [I&#39;m Adding These Bose Headphones to My Prime Day Cart &lpar;2026&rpar;](https://www.wired.com/story/bose-headphones-amazon-prime-day-2026/)
+ - [The Prime Day MacBook Deals I Recommend &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-macbook-deals-06-26-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
