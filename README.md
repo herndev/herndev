@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget Gemini and ChatGPT — here are 5 unique AI tools I actually use](https://www.androidauthority.com/unique-ai-tools-i-use-not-gemini-or-chatgpt-3676432/)
- - [A study of 408 teens in Australia finds 80%+ were still using social media three months after a ban came into force, citing inadequate age verification checks &lpar;Anna Bawden/The Guardian&rpar;](https://www.techmeme.com/260626/p7#a260626p7)
- - [Polled readers love the Fitbit Air, but there’s still room for a Google smart ring](https://www.androidauthority.com/fitbit-air-google-smart-ring-poll-results-3681747/)<!-- TECH:END -->
+ - [Samsung will soon start charging to access its smart home API](https://www.theverge.com/tech/957597/samsung-smartthings-api-charges)
+ - [Galaxy Z who? This newly launched foldable brings a 7,000mAh battery and external lens](https://www.androidauthority.com/vivo-x-fold-6-3681736/)
+ - [SpaceX wants to take on Verizon and T-Mobile with its own Starlink mobile service](https://www.androidauthority.com/spacex-starlink-mobile-service-imminent-3681804/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
