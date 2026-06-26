@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data](https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/)
- - [NHTSA proposes eliminating the mandate for manual brake pedals in &quot;vehicles designed to be driven exclusively by automated driving systems&quot; &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260625/p53#a260625p53)
- - [This year’s Prime Day deals on Apple products are the best I’ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)<!-- TECH:END -->
+ - [This Is Probably Your Last Chance to Buy a Cheap MacBook for a While](https://www.wired.com/story/apple-price-hikes-on-macbooks-on-prime-day/)
+ - [Elastic announces a ~7% reduction in its workforce, and says &quot;advances in AI and automation are letting us operate with leaner teams&quot;; ESTC closed down 8.70% &lpar;Richard Speed/The Register&rpar;](https://www.techmeme.com/260625/p56#a260625p56)
+ - [YouTube rolls out changes to Shorts, including adding a setting to double playback speed, eliminating the &quot;dislike&quot; button, and more &lpar;Lucas Ropek/TechCrunch&rpar;](https://www.techmeme.com/260625/p55#a260625p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
