@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day is almost over, but these are still the best Apple deals I&amp;#8217;ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)
- - [It’s now the Arduino Uno Q’s turn to get a price hike](https://www.theverge.com/tech/957751/arduino-q-microcomputer-price-increase-ram-crisis)
- - [Sources: Apple&#39;s 14&quot; and 16&quot; OLED touch screen MacBook Pros will be powered by the existing M5 Pro and M5 Max chips and have an updated industrial design &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260626/p13#a260626p13)<!-- TECH:END -->
+ - [Sources: Revolut told new hires they&#39;ll have to work in office at least three days a week from next year, retreating from its long-held remote-first approach &lpar;Financial Times&rpar;](https://www.techmeme.com/260626/p14#a260626p14)
+ - [The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials](https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/)
+ - [AYANEO’s Pocket Micro 2 is now official, and you may have to act fast to get one &lpar;Update: Too slow&rpar;](https://www.androidauthority.com/ayaneo-pocket-micro-2-launch-3681891/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
