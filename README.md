@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day is offering rare discounts on Philips Hue smart lights](https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale)
- - [With GTA looming, consoles are getting expensive at the worst possible time](https://www.theverge.com/entertainment/957288/gta-6-xbox-ps5-price-hikes)
- - [Netflix is changing how households log into shared accounts, and you probably won’t like it](https://www.androidauthority.com/netflix-shared-account-login-3681776/)<!-- TECH:END -->
+ - [Sources: Donald Trump Jr. got ~$300K in Kalshi equity after becoming a strategic adviser in 2025, when Kalshi was valued at ~$2B; now it&#39;s worth $22B+ &lpar;George Steer/Financial Times&rpar;](https://www.techmeme.com/260626/p10#a260626p10)
+ - [Apple&amp;#8217;s AirPods Max 2 headphones are still $150 off — for now](https://www.theverge.com/gadgets/957605/apple-airpods-max-2-headphones-prime-day-deal-sale)
+ - [Q&amp;A with Tim Sweeney on his vision for a cross-platform gaming social system, Unreal Engine 6, AI&#39;s PR challenges, the state of AAA game development, and more &lpar;Tim Clark/PC Gamer&rpar;](https://www.techmeme.com/260626/p9#a260626p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
