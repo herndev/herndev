@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung will soon start charging to access its smart home API](https://www.theverge.com/tech/957597/samsung-smartthings-api-charges)
- - [Galaxy Z who? This newly launched foldable brings a 7,000mAh battery and external lens](https://www.androidauthority.com/vivo-x-fold-6-3681736/)
- - [SpaceX wants to take on Verizon and T-Mobile with its own Starlink mobile service](https://www.androidauthority.com/spacex-starlink-mobile-service-imminent-3681804/)<!-- TECH:END -->
+ - [Prime Day is offering rare discounts on Philips Hue smart lights](https://www.theverge.com/tech/957269/philips-hue-amazon-prime-day-2026-deal-sale)
+ - [With GTA looming, consoles are getting expensive at the worst possible time](https://www.theverge.com/entertainment/957288/gta-6-xbox-ps5-price-hikes)
+ - [Netflix is changing how households log into shared accounts, and you probably won’t like it](https://www.androidauthority.com/netflix-shared-account-login-3681776/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
