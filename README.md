@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine missing your mother&#39;s funeral because your wife is like this](http://9gag.com/gag/aPA5exQ)
- - ⏩ [Not honest work](http://9gag.com/gag/ajPpLGw)
- - 👉 [Gaming pc](http://9gag.com/gag/aZZeEw6)<!-- MEMES:END -->
+ - 💣 [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
+ - ⏩ [I can imagine many a 9gagger pulling an Uno Reverse in the situation...](http://9gag.com/gag/ae9LVGQ)
+ - 👉 [Good movie!](http://9gag.com/gag/aLnx4y5)<!-- MEMES:END -->
 
 ---
 
