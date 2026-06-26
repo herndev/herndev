@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says 97.9% of its employees are now using Codex, up from ~40% in August 2025; non-developer usage of Codex has risen 137x for individual users &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260626/p1#a260626p1)
- - [Surprise! Trump Mobile’s T1 Phone is now on open sale even as pre-order mess remains unresolved](https://www.androidauthority.com/trump-mobile-t1-open-sale-3681693/)
- - [Warp, a startup using AI to automate payroll compliance and employee management, raised a $60M Series B led by Battery, bringing its total funding to $85M &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260625/p62#a260625p62)<!-- TECH:END -->
+ - [Shares of Japanese NAND flash maker Kioxia slid 12% on Friday after a report that OpenAI was considering delaying its IPO sparked a selloff in AI-related shares &lpar;Sam Nussey/Reuters&rpar;](https://www.techmeme.com/260626/p4#a260626p4)
+ - [Sources: SpaceX COO Gwynne Shotwell told investors during an IPO roadshow SpaceX may launch a Starlink mobile product and build its own terrestrial US network &lpar;Financial Times&rpar;](https://www.techmeme.com/260626/p3#a260626p3)
+ - [Swiss watchmaker Swatch seeks $170M from Samsung in a London trial over 26 digital watch face apps that allegedly cloned luxury brand designs, including Omega &lpar;Alistair Gray/Financial Times&rpar;](https://www.techmeme.com/260626/p2#a260626p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
