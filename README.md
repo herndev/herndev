@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good movie!](http://9gag.com/gag/aLnx4y5)
- - ⏩ [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
- - 👉 [Gaming pc](http://9gag.com/gag/aZZeEw6)<!-- MEMES:END -->
+ - 💣 [GTA 6 No or Yes](http://9gag.com/gag/aD2yZyO)
+ - ⏩ [Clark kent is just built different](http://9gag.com/gag/aBypG3D)
+ - 👉 [Quantum Mechanics](http://9gag.com/gag/aXPB4b2)<!-- MEMES:END -->
 
 ---
 
