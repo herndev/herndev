@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)
- - ⏩ [Good movie!](http://9gag.com/gag/aLnx4y5)
- - 👉 [I just rewatched this gem... miscuzi](http://9gag.com/gag/azxnOZq)<!-- MEMES:END -->
+ - 💣 [Global temperatures from 1880 to today](http://9gag.com/gag/aNDNB1r)
+ - ⏩ [I can imagine many a 9gagger pulling an Uno Reverse in the situation...](http://9gag.com/gag/ae9LVGQ)
+ - 👉 [Why we not funding this?](http://9gag.com/gag/aRBnony)<!-- MEMES:END -->
 
 ---
 
