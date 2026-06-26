@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shares of Japanese NAND flash maker Kioxia slid 12% on Friday after a report that OpenAI was considering delaying its IPO sparked a selloff in AI-related shares &lpar;Sam Nussey/Reuters&rpar;](https://www.techmeme.com/260626/p4#a260626p4)
- - [Sources: SpaceX COO Gwynne Shotwell told investors during an IPO roadshow SpaceX may launch a Starlink mobile product and build its own terrestrial US network &lpar;Financial Times&rpar;](https://www.techmeme.com/260626/p3#a260626p3)
- - [Swiss watchmaker Swatch seeks $170M from Samsung in a London trial over 26 digital watch face apps that allegedly cloned luxury brand designs, including Omega &lpar;Alistair Gray/Financial Times&rpar;](https://www.techmeme.com/260626/p2#a260626p2)<!-- TECH:END -->
+ - [The 28 Best Prime Day Deals Under $100 in 2026](https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/)
+ - [Get Up to 36% Off With the Best Prime Day Kindle Deals &lpar;2026&rpar;: Paperwhite, Colorsoft, Kids](https://www.wired.com/story/kindle-prime-day-deals-06-26-2026/)
+ - [Best Prime Day Vacuum Deals Offer Up to 42% Off &lpar;2026&rpar;: Shark, Dyson, Bissell](https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
