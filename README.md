@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quantum Mechanics](http://9gag.com/gag/aXPB4b2)
- - ⏩ [Dicaprio finally dating someone over 25, the internet wins](http://9gag.com/gag/a87ZDG1)
- - 👉 [The billionaire owns this bus](http://9gag.com/gag/a87ZDxY)<!-- MEMES:END -->
+ - 💣 [Good movie!](http://9gag.com/gag/aLnx4y5)
+ - ⏩ [Not honest work](http://9gag.com/gag/ajPpLGw)
+ - 👉 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)<!-- MEMES:END -->
 
 ---
 
