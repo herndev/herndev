@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how you can avoid Apple’s MacBook Neo price hike](https://www.androidauthority.com/apple-macbook-neo-refurbs-3681931/)
- - [Samsung SmartThings API fees could impact your favorite smart home apps](https://www.androidauthority.com/smarthings-api-paid-tiers-3681929/)
- - [Uber expands the list of criminal convictions that disqualify US drivers and expands the background-check timeline, possibly removing ~0.5% of active US drivers &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260626/p21#a260626p21)<!-- TECH:END -->
+ - [OpenAI has poached another Apple executive for its hardware division](https://appleinsider.com/articles/26/06/26/openai-has-poached-another-apple-executive-for-its-hardware-division?utm_source=rss)
+ - [OpenAI says GPT-5.6 Sol and Terra were capable of identifying vulnerabilities but were unable to execute autonomous, end-to-end attacks against hardened targets &lpar;OpenAI&rpar;](https://www.techmeme.com/260626/p23#a260626p23)
+ - [Amazon Prime Day deal cuts the transparent Nothing Ear &lpar;a&rpar; to just $53](https://www.androidauthority.com/nothing-ear-a-prime-deal-3681975/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
