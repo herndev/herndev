@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upside, which provides social workers with AI-powered housing insights, raised a $20M Series A led by Aquiline with Flare Capital, 645, and others participating &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/260625/p58#a260625p58)
- - [Amazon&#39;s $1,149 15-inch MacBook Air deal is selling out, save up to $450 across line](https://appleinsider.com/articles/26/06/26/amazons-1149-15-inch-macbook-air-deal-is-selling-out-save-up-to-450-across-line?utm_source=rss)
- - [How the US AI build-out is pushing up prices for electricity, software, and more; in a survey, 81% of economists say it will add to inflation over the next year &lpar;Justin Lahart/Wall Street Journal&rpar;](https://www.techmeme.com/260625/p57#a260625p57)<!-- TECH:END -->
+ - [SoftBank shares fell 12% after reports that OpenAI may delay its IPO until 2027; expectations of a windfall from OpenAI&#39;s debut helped support Softbank&#39;s stock &lpar;Aya Wagatsuma/Bloomberg&rpar;](https://www.techmeme.com/260625/p60#a260625p60)
+ - [California launches a tool to serve as an &quot;early warning system&quot; for widespread AI-driven job loss, linking AI exposure with unemployment insurance claims &lpar;Jo Constantz/Bloomberg&rpar;](https://www.techmeme.com/260625/p59#a260625p59)
+ - [Upside, which provides social workers with AI-powered housing insights, raised a $20M Series A led by Aquiline with Flare Capital, 645, and others participating &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/260625/p58#a260625p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
