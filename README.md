@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank shares fell 12% after reports that OpenAI may delay its IPO until 2027; expectations of a windfall from OpenAI&#39;s debut helped support Softbank&#39;s stock &lpar;Aya Wagatsuma/Bloomberg&rpar;](https://www.techmeme.com/260625/p60#a260625p60)
- - [California launches a tool to serve as an &quot;early warning system&quot; for widespread AI-driven job loss, linking AI exposure with unemployment insurance claims &lpar;Jo Constantz/Bloomberg&rpar;](https://www.techmeme.com/260625/p59#a260625p59)
- - [Upside, which provides social workers with AI-powered housing insights, raised a $20M Series A led by Aquiline with Flare Capital, 645, and others participating &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/260625/p58#a260625p58)<!-- TECH:END -->
+ - [OpenAI says 97.9% of its employees are now using Codex, up from ~40% in August 2025; non-developer usage of Codex has risen 137x for individual users &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260626/p1#a260626p1)
+ - [Surprise! Trump Mobile’s T1 Phone is now on open sale even as pre-order mess remains unresolved](https://www.androidauthority.com/trump-mobile-t1-open-sale-3681693/)
+ - [Warp, a startup using AI to automate payroll compliance and employee management, raised a $60M Series B led by Battery, bringing its total funding to $85M &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260625/p62#a260625p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
