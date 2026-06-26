@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not honest work](http://9gag.com/gag/ajPpLGw)
- - ⏩ [Good movie!](http://9gag.com/gag/aLnx4y5)
- - 👉 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)<!-- MEMES:END -->
+ - 💣 [I just rewatched this gem... miscuzi](http://9gag.com/gag/azxnOZq)
+ - ⏩ [Cost of living crisis](http://9gag.com/gag/aO8w9dR)
+ - 👉 [Good movie!](http://9gag.com/gag/aLnx4y5)<!-- MEMES:END -->
 
 ---
 
