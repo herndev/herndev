@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine missing your mother&#39;s funeral because your wife is like this](http://9gag.com/gag/aPA5exQ)
- - ⏩ [Good movie!](http://9gag.com/gag/aLnx4y5)
- - 👉 [`It was a valiant contest woman, but I was the quicker!!`](http://9gag.com/gag/amo3MQV)<!-- MEMES:END -->
+ - 💣 [Poor Tylor Chase. Don&#39;t smoke crack kids.](http://9gag.com/gag/aGyXB3z)
+ - ⏩ [Cost of living crisis](http://9gag.com/gag/aO8w9dR)
+ - 👉 [Good movie!](http://9gag.com/gag/aLnx4y5)<!-- MEMES:END -->
 
 ---
 
