@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
- - ⏩ [I can imagine many a 9gagger pulling an Uno Reverse in the situation...](http://9gag.com/gag/ae9LVGQ)
- - 👉 [Good movie!](http://9gag.com/gag/aLnx4y5)<!-- MEMES:END -->
+ - 💣 [Quantum Mechanics](http://9gag.com/gag/aXPB4b2)
+ - ⏩ [Dicaprio finally dating someone over 25, the internet wins](http://9gag.com/gag/a87ZDG1)
+ - 👉 [The billionaire owns this bus](http://9gag.com/gag/a87ZDxY)<!-- MEMES:END -->
 
 ---
 
