@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI has poached another Apple executive for its hardware division](https://appleinsider.com/articles/26/06/26/openai-has-poached-another-apple-executive-for-its-hardware-division?utm_source=rss)
- - [OpenAI says GPT-5.6 Sol and Terra were capable of identifying vulnerabilities but were unable to execute autonomous, end-to-end attacks against hardened targets &lpar;OpenAI&rpar;](https://www.techmeme.com/260626/p23#a260626p23)
- - [Amazon Prime Day deal cuts the transparent Nothing Ear &lpar;a&rpar; to just $53](https://www.androidauthority.com/nothing-ear-a-prime-deal-3681975/)<!-- TECH:END -->
+ - [Expect a brutal price tag for one of the first Snapdragon 8 Elite Gen 6 Pro phones](https://www.androidauthority.com/xiaomi-18-pro-price-rumor-3681992/)
+ - [OpenAI details what to expect from the three new models in its GPT-5.6 preview](https://www.androidauthority.com/gpt-5-6-models-3681960/)
+ - [How People in China Keep Outsmarting Anthropic’s Geolocation Restrictions](https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
