@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Revolut told new hires they&#39;ll have to work in office at least three days a week from next year, retreating from its long-held remote-first approach &lpar;Financial Times&rpar;](https://www.techmeme.com/260626/p14#a260626p14)
- - [The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials](https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/)
- - [AYANEO’s Pocket Micro 2 is now official, and you may have to act fast to get one &lpar;Update: Too slow&rpar;](https://www.androidauthority.com/ayaneo-pocket-micro-2-launch-3681891/)<!-- TECH:END -->
+ - [It’s the last day of Prime Day — here are over 140 great deals to choose from](https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four)
+ - [OpenAI releases three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to ~20 companies, with participants disclosed to the US government &lpar;Axios&rpar;](https://www.techmeme.com/260626/p16#a260626p16)
+ - [OpenAI Has New AI Models. Here’s Why You Can’t Use Them](https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
