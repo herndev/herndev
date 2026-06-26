@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)
- - ⏩ [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
- - 👉 [Good movie!](http://9gag.com/gag/aLnx4y5)<!-- MEMES:END -->
+ - 💣 [Imagine missing your mother&#39;s funeral because your wife is like this](http://9gag.com/gag/aPA5exQ)
+ - ⏩ [Not honest work](http://9gag.com/gag/ajPpLGw)
+ - 👉 [Gaming pc](http://9gag.com/gag/aZZeEw6)<!-- MEMES:END -->
 
 ---
 
