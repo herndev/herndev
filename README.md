@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Off Grid in Style Thanks to This Device—On Sale for Prime Day &lpar;2026&rpar;](https://www.wired.com/story/jackerys-power-station-half-off-for-prime-day-06-26-2026/)
- - [Hollywood Thrives on ‘Rabid’ Fans. For Publicists, They’re a Nightmare](https://www.wired.com/story/hollywood-thrives-on-rabid-fans-for-publicists-theyre-a-nightmare/)
- - [How to play Steam VR games on an Apple Vision Pro using ALVR](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-play-steam-vr-games-on-an-apple-vision-pro-using-alvr?utm_source=rss)<!-- TECH:END -->
+ - [Prime Day is almost over, but these are still the best Apple deals I&amp;#8217;ve seen](https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026)
+ - [It’s now the Arduino Uno Q’s turn to get a price hike](https://www.theverge.com/tech/957751/arduino-q-microcomputer-price-increase-ram-crisis)
+ - [Sources: Apple&#39;s 14&quot; and 16&quot; OLED touch screen MacBook Pros will be powered by the existing M5 Pro and M5 Max chips and have an updated industrial design &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260626/p13#a260626p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
