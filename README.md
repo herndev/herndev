@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I just rewatched this gem... miscuzi](http://9gag.com/gag/azxnOZq)
- - ⏩ [Cost of living crisis](http://9gag.com/gag/aO8w9dR)
- - 👉 [Good movie!](http://9gag.com/gag/aLnx4y5)<!-- MEMES:END -->
+ - 💣 [Good movie!](http://9gag.com/gag/aLnx4y5)
+ - ⏩ [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
+ - 👉 [I can imagine many a 9gagger pulling an Uno Reverse in the situation...](http://9gag.com/gag/ae9LVGQ)<!-- MEMES:END -->
 
 ---
 
