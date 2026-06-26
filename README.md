@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Expect a brutal price tag for one of the first Snapdragon 8 Elite Gen 6 Pro phones](https://www.androidauthority.com/xiaomi-18-pro-price-rumor-3681992/)
- - [OpenAI details what to expect from the three new models in its GPT-5.6 preview](https://www.androidauthority.com/gpt-5-6-models-3681960/)
- - [How People in China Keep Outsmarting Anthropic’s Geolocation Restrictions](https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/)<!-- TECH:END -->
+ - [3 flagship Android phones are cheaper now than they were on day one of Prime Day, but not for long](https://www.androidauthority.com/flagship-android-phones-deals-prime-day-3682004/)
+ - [Sources: Anthropic and the White House are moving closer to an agreement to lift US restrictions on Fable 5 and Mythos 5 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260626/p29#a260626p29)
+ - [After covering Prime Day for 36 hours over four days, this is the one thing I bought](https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
