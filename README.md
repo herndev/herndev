@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OLED, touchscreen, and more: What to expect from the 2027 MacBook PRo](https://appleinsider.com/articles/26/06/26/oled-touchscreen-and-more-what-to-expect-from-the-2027-macbook-pro?utm_source=rss)
- - [I&#39;m Adding These Bose Headphones to My Prime Day Cart &lpar;2026&rpar;](https://www.wired.com/story/bose-headphones-amazon-prime-day-2026/)
- - [The Prime Day MacBook Deals I Recommend &lpar;2026&rpar;](https://www.wired.com/story/best-prime-day-macbook-deals-06-26-2026/)<!-- TECH:END -->
+ - [Here’s how you can avoid Apple’s MacBook Neo price hike](https://www.androidauthority.com/apple-macbook-neo-refurbs-3681931/)
+ - [Samsung SmartThings API fees could impact your favorite smart home apps](https://www.androidauthority.com/smarthings-api-paid-tiers-3681929/)
+ - [Uber expands the list of criminal convictions that disqualify US drivers and expands the background-check timeline, possibly removing ~0.5% of active US drivers &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260626/p21#a260626p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
