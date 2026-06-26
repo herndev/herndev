@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Global temperatures from 1880 to today](http://9gag.com/gag/aNDNB1r)
- - ⏩ [I can imagine many a 9gagger pulling an Uno Reverse in the situation...](http://9gag.com/gag/ae9LVGQ)
- - 👉 [Why we not funding this?](http://9gag.com/gag/aRBnony)<!-- MEMES:END -->
+ - 💣 [Why we not funding this?](http://9gag.com/gag/aRBnony)
+ - ⏩ [Short n witty](http://9gag.com/gag/aW4zbx4)
+ - 👉 [Kevin Hart could ride him like thunder cat into battle](http://9gag.com/gag/azxnR7x)<!-- MEMES:END -->
 
 ---
 
