@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Good movie!](http://9gag.com/gag/aLnx4y5)
- - ⏩ [Not honest work](http://9gag.com/gag/ajPpLGw)
- - 👉 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)<!-- MEMES:END -->
+ - ⏩ [Looks like they found a 2nd Sphinx!](http://9gag.com/gag/ajPpL4g)
+ - 👉 [Gaming pc](http://9gag.com/gag/aZZeEw6)<!-- MEMES:END -->
 
 ---
 
