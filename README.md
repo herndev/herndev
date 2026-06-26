@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Not honest work](http://9gag.com/gag/ajPpLGw)
  - ⏩ [Good movie!](http://9gag.com/gag/aLnx4y5)
- - 👉 [Well if it isn\u2019t the consequences of my own actions\u2026\u2026.](http://9gag.com/gag/aRBnvAB)<!-- MEMES:END -->
+ - 👉 [Look at this proper sausage](http://9gag.com/gag/aBypGgz)<!-- MEMES:END -->
 
 ---
 
