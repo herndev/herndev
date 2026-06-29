@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Meet’s Gemini note-taker opens up to a lot more users on web and mobile](https://www.androidauthority.com/google-meet-take-note-for-me-expansion-3682506/)
- - [Here’s how Android phones helped Venezuelans escape the devastating earthquake](https://www.androidauthority.com/venezuela-android-google-earthquake-alert-3682394/)
- - [Baz releases Baz Planner, which uses four specialized AI agents to analyze code at the planning stage, and extends its seed funding by $9M to $17M &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260629/p33#a260629p33)<!-- TECH:END -->
+ - [Android 17 testers stuck on Beta will have to wait a little longer for a fix](https://www.androidauthority.com/android-17-beta-upgrade-fix-3682525/)
+ - [Sony&amp;#8217;s next-gen PlayStation will go ‘beyond the living room’](https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room)
+ - [Don&#39;t wait to update: iOS 26.5.2 includes over 25 security fixes for web browsing](https://appleinsider.com/articles/26/06/29/dont-wait-to-update-ios-2652-includes-over-25-security-fixes-for-web-browsing?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
