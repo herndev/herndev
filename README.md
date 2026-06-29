@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japanese Neighbor](http://9gag.com/gag/a4PvqN6)
- - ⏩ [WNBA](http://9gag.com/gag/amo3R04)
+ - 💣 [Convincing myself to make a bad decision](http://9gag.com/gag/aGyXOM7)
+ - ⏩ [`Typo`](http://9gag.com/gag/aPA51RQ)
  - 👉 [Looks like sisters](http://9gag.com/gag/aMVgXPX)<!-- MEMES:END -->
 
 ---
