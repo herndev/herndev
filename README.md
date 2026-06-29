@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: the memory supply-demand gap will widen through 2027, with an estimated 15%-20% of 2026 consumer electronics capacity shifting to data centers in 2027 &lpar;Ming-Chi Kuo&rpar;](https://www.techmeme.com/260629/p4#a260629p4)
- - [PSA: Samsung Messages is going away soon](https://www.androidauthority.com/samsung-messages-discontinuation-3682074/)
- - [Dealogic: Japan saw 18 IPOs in H1 2026, the lowest since 2011, despite stock market surges, partly due to Japan&#39;s lack of AI, data center, and chip startups &lpar;David Keohane/Financial Times&rpar;](https://www.techmeme.com/260629/p3#a260629p3)<!-- TECH:END -->
+ - [Your next iPhone, Pixel, Xiaomi device could wirelessly charge at 50W with the same charger](https://www.androidauthority.com/qi-50w-wireless-charging-standard-plans-3682173/)
+ - [A look at security flaws, police misuse, and other concerns over the 100K+ AI-enabled automated license plate readers installed across the US, mostly from Flock &lpar;Max Miller/Engadget&rpar;](https://www.techmeme.com/260629/p8#a260629p8)
+ - [This Humanoid Robot Is a Terrifyingly Competent Office Intern](https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
