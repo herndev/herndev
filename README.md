@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wanna Cry?](http://9gag.com/gag/a7oQAz2)
- - ⏩ [Lol in the middle of a heatwave](http://9gag.com/gag/aXPBRZz)
- - 👉 [Guys hear me out..](http://9gag.com/gag/aAyjmdo)<!-- MEMES:END -->
+ - 💣 [Lol in the middle of a heatwave](http://9gag.com/gag/aXPBRZz)
+ - ⏩ [Catch ....](http://9gag.com/gag/agmWK2W)
+ - 👉 [Some years later](http://9gag.com/gag/aryY8Bd)<!-- MEMES:END -->
 
 ---
 
