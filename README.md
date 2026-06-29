@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 testers stuck on Beta will have to wait a little longer for a fix](https://www.androidauthority.com/android-17-beta-upgrade-fix-3682525/)
- - [Sony&amp;#8217;s next-gen PlayStation will go ‘beyond the living room’](https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room)
- - [Don&#39;t wait to update: iOS 26.5.2 includes over 25 security fixes for web browsing](https://appleinsider.com/articles/26/06/29/dont-wait-to-update-ios-2652-includes-over-25-security-fixes-for-web-browsing?utm_source=rss)<!-- TECH:END -->
+ - [Leaked iPhone 18 Pro photos reportedly wound up on the dark web](https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web)
+ - [The Gemini overlay could soon make your recent chats much easier to reach](https://www.androidauthority.com/gemini-overlay-agent-dashboard-apk-teardown-3682548/)
+ - [Galaxy Z Fold 8 Ultra could get a big camera upgrade, while Flip 8 may miss out](https://www.androidauthority.com/galaxy-z-fold-8-flip-8-camera-specs-3682537/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
