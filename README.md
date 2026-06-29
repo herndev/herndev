@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek details DSpark, a speculative decoding framework for its V4 models, saying it speeds up AI inference by up to 85% and was tested on Gemma and Qwen &lpar;Ben Jiang/South China Morning Post&rpar;](https://www.techmeme.com/260629/p1#a260629p1)
- - [Last chance: Plex’s Lifetime Pass jumps from $250 to an insane $750 on July 1!](https://www.androidauthority.com/plex-lifetime-pass-price-increase-deadline-approaching-3682068/)
- - [Shanghai-based Momenta, whose driver-assist tech is used by Toyota, Mercedes, and Audi in China, files for an IPO in Hong Kong, seeking to raise up to $751.1M &lpar;Reuters&rpar;](https://www.techmeme.com/260628/p17#a260628p17)<!-- TECH:END -->
+ - [Kuo: the memory supply-demand gap will widen through 2027, with an estimated 15%-20% of 2026 consumer electronics capacity shifting to data centers in 2027 &lpar;Ming-Chi Kuo&rpar;](https://www.techmeme.com/260629/p4#a260629p4)
+ - [PSA: Samsung Messages is going away soon](https://www.androidauthority.com/samsung-messages-discontinuation-3682074/)
+ - [Dealogic: Japan saw 18 IPOs in H1 2026, the lowest since 2011, despite stock market surges, partly due to Japan&#39;s lack of AI, data center, and chip startups &lpar;David Keohane/Financial Times&rpar;](https://www.techmeme.com/260629/p3#a260629p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
