@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked iPhone 18 Pro photos reportedly wound up on the dark web](https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web)
- - [The Gemini overlay could soon make your recent chats much easier to reach](https://www.androidauthority.com/gemini-overlay-agent-dashboard-apk-teardown-3682548/)
- - [Galaxy Z Fold 8 Ultra could get a big camera upgrade, while Flip 8 may miss out](https://www.androidauthority.com/galaxy-z-fold-8-flip-8-camera-specs-3682537/)<!-- TECH:END -->
+ - [Tidal adopts an AI policy that blocks wholly AI-generated music from earning royalties and removes AI-generated music that impersonates artists &lpar;Murray Stassen/Music Business Worldwide&rpar;](https://www.techmeme.com/260629/p39#a260629p39)
+ - [The Supreme Court just made your phone’s location data much harder for police to get](https://www.androidauthority.com/supreme-court-location-data-ruling-3682568/)
+ - [Gemini ‘Personal snapshot’ will make it a breeze to review what it knows about you](https://www.androidauthority.com/gemini-personal-snapshot-3682554/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
