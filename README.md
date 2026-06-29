@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Some years later](http://9gag.com/gag/aryY8Bd)
- - ⏩ [It is art](http://9gag.com/gag/aD2yOZN)
+ - ⏩ [Meanwhile in Japan. In 5 minutes we begin the next match for Argentina](http://9gag.com/gag/aXPBe1g)
  - 👉 [Convincing myself to make a bad decision](http://9gag.com/gag/aGyXOM7)<!-- MEMES:END -->
 
 ---
