@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Convincing myself to make a bad decision](http://9gag.com/gag/aGyXOM7)
- - ⏩ [`Typo`](http://9gag.com/gag/aPA51RQ)
- - 👉 [Looks like sisters](http://9gag.com/gag/aMVgXPX)<!-- MEMES:END -->
+ - ⏩ [WNBA](http://9gag.com/gag/amo3R04)
+ - 👉 [Finally a new business idea](http://9gag.com/gag/axy5YbD)<!-- MEMES:END -->
 
 ---
 
