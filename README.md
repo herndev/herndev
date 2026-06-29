@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your next iPhone, Pixel, Xiaomi device could wirelessly charge at 50W with the same charger](https://www.androidauthority.com/qi-50w-wireless-charging-standard-plans-3682173/)
- - [A look at security flaws, police misuse, and other concerns over the 100K+ AI-enabled automated license plate readers installed across the US, mostly from Flock &lpar;Max Miller/Engadget&rpar;](https://www.techmeme.com/260629/p8#a260629p8)
- - [This Humanoid Robot Is a Terrifyingly Competent Office Intern](https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/)<!-- TECH:END -->
+ - [How a Polymarket dispute over a single syllable ignited a bitter debate; Polymarket uses Risk Labs&#39; Optimistic Oracle to decide ~200K tough call bets per month &lpar;David Segal/New York Times&rpar;](https://www.techmeme.com/260629/p15#a260629p15)
+ - [Verizon and the UK&#39;s BT agree to create a joint venture for their international businesses with ~$4B in combined yearly revenue; Verizon will pay $625M to BT &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p14#a260629p14)
+ - [After 10 months with the Pixel 10 Pro, I can’t stand these 3 issues](https://www.androidauthority.com/google-pixel-10-pro-ten-months-later-issues-3680886/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
