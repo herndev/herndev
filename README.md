@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: hundreds of Meta contractors posed as minors to probe how competitor chatbots responded to prompts involving suicide, sex, and other high-risk subjects &lpar;Wired&rpar;](https://www.techmeme.com/260629/p40#a260629p40)
- - [Gemini’s smartest image feature is no longer locked behind a paywall](https://www.androidauthority.com/gemini-personalized-image-generation-now-free-3682608/)
- - [Kobo’s best Kindle-rivalling feature is finally live](https://www.androidauthority.com/kobo-storygraph-integration-live-3682595/)<!-- TECH:END -->
+ - [Apple&#39;s $502M payment to Optis over patent infringement goes to UK Supreme Court](https://appleinsider.com/articles/26/06/29/apples-502m-payment-to-optis-over-patent-infringement-goes-to-uk-supreme-court?utm_source=rss)
+ - [Supreme Court Supports Privacy Protections for Cellphone Location Data](https://www.cnet.com/news/privacy/supreme-court-ruling-geofencing-warrants-phone-location-data-privacy/)
+ - [Tidal to Label AI-Generated Music and Remove Fraudulent Material](https://www.cnet.com/tech/services-and-software/tidal-will-label-ai-generated-music-and-remove-fraudulent-material/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
