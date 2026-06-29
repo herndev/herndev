@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jefferies: memory prices are expected to rise 40-50% in Q3 2026 and 30-40% in Q4, as Chinese memory makers are unlikely to provide meaningful near-term relief &lpar;Hassan Mujtaba/Wccftech&rpar;](https://www.techmeme.com/260628/p16#a260628p16)
  - [Humanoid robot maker Apptronik raised ~$1B at a ~$5B valuation, including from Mercedes-Benz, which has a handful of Apptronik&#39;s Apollo robots in its factories &lpar;Joshua Brustein/Bloomberg&rpar;](https://www.techmeme.com/260628/p15#a260628p15)
- - [Google&#39;s Earthquake Alerts system reached 11.4M+ people in Venezuela, giving them seconds or up to two minutes notice before two powerful earthquakes struck &lpar;New York Times&rpar;](https://www.techmeme.com/260628/p14#a260628p14)
- - [China’s Z.ai claims it can match Mythos on cybersecurity](https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity)<!-- TECH:END -->
+ - [Google&#39;s Earthquake Alerts system reached 11.4M+ people in Venezuela, giving them seconds or up to two minutes notice before two powerful earthquakes struck &lpar;New York Times&rpar;](https://www.techmeme.com/260628/p14#a260628p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
