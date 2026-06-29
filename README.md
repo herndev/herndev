@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a Polymarket dispute over a single syllable ignited a bitter debate; Polymarket uses Risk Labs&#39; Optimistic Oracle to decide ~200K tough call bets per month &lpar;David Segal/New York Times&rpar;](https://www.techmeme.com/260629/p15#a260629p15)
- - [Verizon and the UK&#39;s BT agree to create a joint venture for their international businesses with ~$4B in combined yearly revenue; Verizon will pay $625M to BT &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p14#a260629p14)
- - [After 10 months with the Pixel 10 Pro, I can’t stand these 3 issues](https://www.androidauthority.com/google-pixel-10-pro-ten-months-later-issues-3680886/)<!-- TECH:END -->
+ - [Japanese prediction market startups Miraima and Poyp are utilizing a &quot;point-to-voucher&quot; system to bypass strict anti-gambling laws, in a bid to rival Polymarket &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p20#a260629p20)
+ - [How to end a TV show](https://www.theverge.com/entertainment/957707/from-season-4-finale-tv-show-endings)
+ - [Say it AYN so: Odin and Thor handhelds are getting another price hike](https://www.androidauthority.com/ayn-odin-thor-handheld-price-hike-june-2026-3682290/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
