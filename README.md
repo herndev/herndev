@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Absolute legend showing everyone how it is done](http://9gag.com/gag/aKGRK7N)
- - ⏩ [Triggering an entire league](http://9gag.com/gag/axy54VD)
- - 👉 [WNBA](http://9gag.com/gag/amo3R04)<!-- MEMES:END -->
+ - 💣 [Wanna Cry?](http://9gag.com/gag/a7oQAz2)
+ - ⏩ [Lol in the middle of a heatwave](http://9gag.com/gag/aXPBRZz)
+ - 👉 [Guys hear me out..](http://9gag.com/gag/aAyjmdo)<!-- MEMES:END -->
 
 ---
 
