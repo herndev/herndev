@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is art](http://9gag.com/gag/aD2yOZN)
- - ⏩ [WNBA](http://9gag.com/gag/amo3R04)
- - 👉 [She was pointing at me!](http://9gag.com/gag/abA7R3B)<!-- MEMES:END -->
+ - 💣 [Absolute legend showing everyone how it is done](http://9gag.com/gag/aKGRK7N)
+ - ⏩ [Triggering an entire league](http://9gag.com/gag/axy54VD)
+ - 👉 [WNBA](http://9gag.com/gag/amo3R04)<!-- MEMES:END -->
 
 ---
 
