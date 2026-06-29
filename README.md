@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Marriage makes man happy](http://9gag.com/gag/aByp4z2)
+ - 💣 [She was pointing at me!](http://9gag.com/gag/abA7R3B)
  - ⏩ [WNBA](http://9gag.com/gag/amo3R04)
- - 👉 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)<!-- MEMES:END -->
+ - 👉 [Senio software developer](http://9gag.com/gag/a1m9OKY)<!-- MEMES:END -->
 
 ---
 
