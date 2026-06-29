@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rocket Lab plans to acquire Iridium for $8B and combine Rocket Lab&#39;s launch services with Iridium&#39;s satellite-based communications network to rival SpaceX &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260629/p23#a260629p23)
- - [Poll confirms: You’re probably reading this on dark mode](https://www.androidauthority.com/dark-mode-survey-results-3682352/)
- - [Filing: Strategy paused its bitcoin acquisitions last week, instead topping up its USD reserve to $2.55B and announcing a $1B digital credit buyback program &lpar;James Hunt/The Block&rpar;](https://www.techmeme.com/260629/p22#a260629p22)<!-- TECH:END -->
+ - [Changpeng Zhao says Binance&#39;s MiCA application in Greece was fully compliant and close to approval by at least one EU regulator but &quot;other forces&quot; opposed it &lpar;Naga Avan-Nomayo/The Block&rpar;](https://www.techmeme.com/260629/p26#a260629p26)
+ - [WhatsApp&#39;s new username system keeps phone numbers private by design](https://appleinsider.com/articles/26/06/29/whatsapps-new-username-system-keeps-phone-numbers-private-by-design?utm_source=rss)
+ - [Usernames Are Coming to WhatsApp Soon. Here&#39;s How to Reserve Yours](https://www.wired.com/story/how-to-reserve-your-whatsapp-username-before-it-goes-live/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
