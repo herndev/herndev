@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This highly rated Ultimate Ears Bluetooth speaker just dropped to a record low of $49.99](https://www.androidauthority.com/ultimate-ears-miniroll-bluetooth-speaker-deal-3682484/)
- - [Don’t update! Hue Bridge Pro users warn about smart home hub bricking bug](https://www.androidauthority.com/update-bricking-hue-bridge-pro-3682465/)
- - [Third developer betas of iOS 26.6, macOS 26.6 arrive with iOS 26.5.2 release](https://appleinsider.com/articles/26/06/29/third-developer-betas-of-ios-266-macos-266-arrive-with-ios-2652-release?utm_source=rss)<!-- TECH:END -->
+ - [Google Meet’s Gemini note-taker opens up to a lot more users on web and mobile](https://www.androidauthority.com/google-meet-take-note-for-me-expansion-3682506/)
+ - [Here’s how Android phones helped Venezuelans escape the devastating earthquake](https://www.androidauthority.com/venezuela-android-google-earthquake-alert-3682394/)
+ - [Baz releases Baz Planner, which uses four specialized AI agents to analyze code at the planning stage, and extends its seed funding by $9M to $17M &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260629/p33#a260629p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
