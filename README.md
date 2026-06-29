@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now what?](http://9gag.com/gag/apRObyn)
- - ⏩ [Peter Parker dropped the ball](http://9gag.com/gag/azxnO4q)
- - 👉 [Imagine what Cristiano was thinking](http://9gag.com/gag/ae9LmXW)<!-- MEMES:END -->
+ - 💣 [Japanese Neighbor](http://9gag.com/gag/a4PvqN6)
+ - ⏩ [WNBA](http://9gag.com/gag/amo3R04)
+ - 👉 [Looks like sisters](http://9gag.com/gag/aMVgXPX)<!-- MEMES:END -->
 
 ---
 
