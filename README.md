@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Film Critics Are Thrilled Universal Is Skipping Influencer Screenings for ‘The Odyssey’](https://www.wired.com/story/film-critics-thrilled-universal-is-skipping-influencer-screenings-for-the-odyssey/)
- - [My favorite Govee smart lamps are at their lowest prices ever for Prime Day](https://www.theverge.com/gadgets/958313/govee-table-lamp-2-classic-floor-uplighter-prime-day-2026-deal-sale)
- - [Letter: the US lifts its block on Mythos 5, allowing Anthropic to release it to more than 100 US institutions; sources: talks about Fable 5 are ongoing &lpar;Semafor&rpar;](https://www.techmeme.com/260626/p30#a260626p30)<!-- TECH:END -->
+ - [Google&#39;s Earthquake Alerts system reached 11.4M+ people in Venezuela, giving them seconds or up to two minutes notice before two powerful earthquakes struck &lpar;New York Times&rpar;](https://www.techmeme.com/260628/p14#a260628p14)
+ - [China’s Z.ai claims it can match Mythos on cybersecurity](https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity)
+ - [Letter: Austria is pushing the EU to consider hosting Anthropic within its borders, highlighting EU efforts to boost bloc independence from US and Chinese tech &lpar;Marton Eder/Bloomberg&rpar;](https://www.techmeme.com/260628/p13#a260628p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
