@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WNBA](http://9gag.com/gag/amo3R04)
- - ⏩ [Convincing myself to make a bad decision](http://9gag.com/gag/aGyXOM7)
+ - 💣 [Convincing myself to make a bad decision](http://9gag.com/gag/aGyXOM7)
+ - ⏩ [WNBA](http://9gag.com/gag/amo3R04)
  - 👉 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)<!-- MEMES:END -->
 
 ---
