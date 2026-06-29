@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japanese prediction market startups Miraima and Poyp are utilizing a &quot;point-to-voucher&quot; system to bypass strict anti-gambling laws, in a bid to rival Polymarket &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p20#a260629p20)
- - [How to end a TV show](https://www.theverge.com/entertainment/957707/from-season-4-finale-tv-show-endings)
- - [Say it AYN so: Odin and Thor handhelds are getting another price hike](https://www.androidauthority.com/ayn-odin-thor-handheld-price-hike-june-2026-3682290/)<!-- TECH:END -->
+ - [Rocket Lab plans to acquire Iridium for $8B and combine Rocket Lab&#39;s launch services with Iridium&#39;s satellite-based communications network to rival SpaceX &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260629/p23#a260629p23)
+ - [Poll confirms: You’re probably reading this on dark mode](https://www.androidauthority.com/dark-mode-survey-results-3682352/)
+ - [Filing: Strategy paused its bitcoin acquisitions last week, instead topping up its USD reserve to $2.55B and announcing a $1B digital credit buyback program &lpar;James Hunt/The Block&rpar;](https://www.techmeme.com/260629/p22#a260629p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
