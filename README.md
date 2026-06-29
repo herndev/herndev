@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tidal adopts an AI policy that blocks wholly AI-generated music from earning royalties and removes AI-generated music that impersonates artists &lpar;Murray Stassen/Music Business Worldwide&rpar;](https://www.techmeme.com/260629/p39#a260629p39)
- - [The Supreme Court just made your phone’s location data much harder for police to get](https://www.androidauthority.com/supreme-court-location-data-ruling-3682568/)
- - [Gemini ‘Personal snapshot’ will make it a breeze to review what it knows about you](https://www.androidauthority.com/gemini-personal-snapshot-3682554/)<!-- TECH:END -->
+ - [Sources: hundreds of Meta contractors posed as minors to probe how competitor chatbots responded to prompts involving suicide, sex, and other high-risk subjects &lpar;Wired&rpar;](https://www.techmeme.com/260629/p40#a260629p40)
+ - [Gemini’s smartest image feature is no longer locked behind a paywall](https://www.androidauthority.com/gemini-personalized-image-generation-now-free-3682608/)
+ - [Kobo’s best Kindle-rivalling feature is finally live](https://www.androidauthority.com/kobo-storygraph-integration-live-3682595/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
