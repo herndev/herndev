@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Lol in the middle of a heatwave](http://9gag.com/gag/aXPBRZz)
- - ⏩ [WNBA](http://9gag.com/gag/amo3R04)
- - 👉 [Some years later](http://9gag.com/gag/aryY8Bd)<!-- MEMES:END -->
+ - ⏩ [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)
+ - 👉 [She was pointing at me!](http://9gag.com/gag/abA7R3B)<!-- MEMES:END -->
 
 ---
 
