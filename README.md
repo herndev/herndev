@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Changpeng Zhao says Binance&#39;s MiCA application in Greece was fully compliant and close to approval by at least one EU regulator but &quot;other forces&quot; opposed it &lpar;Naga Avan-Nomayo/The Block&rpar;](https://www.techmeme.com/260629/p26#a260629p26)
- - [WhatsApp&#39;s new username system keeps phone numbers private by design](https://appleinsider.com/articles/26/06/29/whatsapps-new-username-system-keeps-phone-numbers-private-by-design?utm_source=rss)
- - [Usernames Are Coming to WhatsApp Soon. Here&#39;s How to Reserve Yours](https://www.wired.com/story/how-to-reserve-your-whatsapp-username-before-it-goes-live/)<!-- TECH:END -->
+ - [This highly rated Ultimate Ears Bluetooth speaker just dropped to a record low of $49.99](https://www.androidauthority.com/ultimate-ears-miniroll-bluetooth-speaker-deal-3682484/)
+ - [Don’t update! Hue Bridge Pro users warn about smart home hub bricking bug](https://www.androidauthority.com/update-bricking-hue-bridge-pro-3682465/)
+ - [Third developer betas of iOS 26.6, macOS 26.6 arrive with iOS 26.5.2 release](https://appleinsider.com/articles/26/06/29/third-developer-betas-of-ios-266-macos-266-arrive-with-ios-2652-release?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
