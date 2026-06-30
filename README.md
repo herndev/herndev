@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Triggering an entire league](http://9gag.com/gag/axy54VD)
- - ⏩ [Senio software developer](http://9gag.com/gag/a1m9OKY)
- - 👉 [Some years later](http://9gag.com/gag/aryY8Bd)<!-- MEMES:END -->
+ - 💣 [WNBA](http://9gag.com/gag/amo3R04)
+ - ⏩ [Aberfan disaster](http://9gag.com/gag/ajPpdW8)
+ - 👉 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)<!-- MEMES:END -->
 
 ---
 
