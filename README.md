@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What happens in a woman mouth during a date](http://9gag.com/gag/ajPpdzp)
- - ⏩ [And americans still wonder why whole world hates them :&rpar;](http://9gag.com/gag/aXPBeg2)
- - 👉 [T90 Found Out](http://9gag.com/gag/ayNGzPY)<!-- MEMES:END -->
+ - 💣 [When your micromanager boss sees you leave 1 minute early.](http://9gag.com/gag/aPA5pvw)
+ - ⏩ [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
+ - 👉 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)<!-- MEMES:END -->
 
 ---
 
