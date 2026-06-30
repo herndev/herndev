@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brawl in stands at the last Mexico game](http://9gag.com/gag/awyweWB)
- - ⏩ [Some years later](http://9gag.com/gag/aryY8Bd)
- - 👉 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)<!-- MEMES:END -->
+ - 💣 [Some years later](http://9gag.com/gag/aryY8Bd)
+ - ⏩ [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)
+ - 👉 [Aberfan disaster](http://9gag.com/gag/ajPpdW8)<!-- MEMES:END -->
 
 ---
 
