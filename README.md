@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marc Andreessen is appointed to the DOD&#39;s Defense Policy Board, a committee tasked with giving strategic advice to the defense secretary and other top officials &lpar;Nick Wadhams/Bloomberg&rpar;](https://www.techmeme.com/260629/p43#a260629p43)
- - [AI leaderboard provider Arena says it hit $100M in annualized run-rate revenue eight months after launching AI Evaluations, which offers performance analytics &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260629/p42#a260629p42)
- - [Apple&#39;s $502M payment to Optis over patent infringement goes to UK Supreme Court](https://appleinsider.com/articles/26/06/29/apples-502m-payment-to-optis-over-patent-infringement-goes-to-uk-supreme-court?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI teases a device it is launching in partnership with keyboard maker Work Louder on July 15, saying &quot;Your favorite Codex shortcuts are getting an upgrade&quot; &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260629/p47#a260629p47)
+ - [Sources: AI video startup Higgsfield is in talks to raise $300M to $500M at a $5B pre-money valuation, more than 4x its valuation in a January 2026 round &lpar;The Information&rpar;](https://www.techmeme.com/260629/p46#a260629p46)
+ - [The UK FCA unveils the updated version of its crypto regulatory framework, after softening proposed rules that critics said risked holding the UK back &lpar;Financial Times&rpar;](https://www.techmeme.com/260629/p45#a260629p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
