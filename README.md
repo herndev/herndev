@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)
- - ⏩ [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)
- - 👉 [Some years later](http://9gag.com/gag/aryY8Bd)<!-- MEMES:END -->
+ - 💣 [OMG](https://www.reddit.com/r/funny/comments/1ujr94o/omg/)
+ - ⏩ [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)
+ - 👉 [T90 Found Out](http://9gag.com/gag/ayNGzPY)<!-- MEMES:END -->
 
 ---
 
