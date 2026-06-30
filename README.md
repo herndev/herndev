@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic launches Claude Science, an AI workbench that uses existing Claude models like Opus 4.8 to integrate 60+ scientific databases and specialized toolkits &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260630/p26#a260630p26)
- - [Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show](https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder)
- - [US Supreme Court agrees to hear Apple&#39;s Epic Games appeal](https://appleinsider.com/articles/26/06/30/us-supreme-court-agrees-to-hear-apples-epic-games-appeal?utm_source=rss)<!-- TECH:END -->
+ - [Amex cardholders can now use Membership Rewards during Apple Pay checkout](https://appleinsider.com/articles/26/06/30/amex-cardholders-can-now-use-membership-rewards-during-apple-pay-checkout?utm_source=rss)
+ - [007 First Light&amp;#8217;s developer lays off staff but claims its next franchise will continue](https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs)
+ - [Anthropic launches Claude Sonnet 5, saying it nears Opus 4.8 performance at lower prices and is substantially better than Sonnet 4.6 for agentic work &lpar;Anthropic&rpar;](https://www.techmeme.com/260630/p29#a260630p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
