@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MDOTM, which makes AI software for asset and wealth managers, raised $27M led by Expedition Growth Capital, bringing its total funding to $36.5M &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260630/p19#a260630p19)
- - [Libby will filter out AI content, kind of](https://www.theverge.com/column/959433/libby-ai-filter)
- - [AtomForm Palette 300 wins top honours at the London Design Awards](https://www.androidauthority.com/atomform-palette-300-gold-london-design-awards-3681807/)<!-- TECH:END -->
+ - [Schneider Electric agrees to buy industrial AI company Cognite in a $3.1B all-cash deal, and plans to combine Cognite with its industrial software company Aveva &lpar;Frank Connelly/Bloomberg&rpar;](https://www.techmeme.com/260630/p23#a260630p23)
+ - [The 4.6-star Google Nest Cam Indoor is still only $69.99 after Prime Day](https://www.androidauthority.com/google-nest-cam-indoor-3rd-gen-deal-3683033/)
+ - [SCOTUS agrees to hear Apple&#39;s appeal of a 2025 contempt ruling in its Epic case after a district judge found Apple violated an order to make App Store changes &lpar;Mike Scarcella/Reuters&rpar;](https://www.techmeme.com/260630/p22#a260630p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
