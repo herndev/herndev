@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)
+ - 💣 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
  - ⏩ [When your micromanager boss sees you leave 1 minute early.](http://9gag.com/gag/aPA5pvw)
- - 👉 [Meanwhile in Japan. In 5 minutes we begin the next match for Argentina](http://9gag.com/gag/aXPBe1g)<!-- MEMES:END -->
+ - 👉 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)<!-- MEMES:END -->
 
 ---
 
