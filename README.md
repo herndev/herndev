@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And americans still wonder why whole world hates them :&rpar;](http://9gag.com/gag/aXPBeg2)
+ - 💣 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)
  - ⏩ [When your micromanager boss sees you leave 1 minute early.](http://9gag.com/gag/aPA5pvw)
- - 👉 [T90 Found Out](http://9gag.com/gag/ayNGzPY)<!-- MEMES:END -->
+ - 👉 [Meanwhile in Japan. In 5 minutes we begin the next match for Argentina](http://9gag.com/gag/aXPBe1g)<!-- MEMES:END -->
 
 ---
 
