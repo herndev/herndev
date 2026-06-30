@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Tailscale to remotely connect to your Mac from anywhere](https://appleinsider.com/articles/26/06/30/how-to-use-tailscale-to-remotely-connect-to-your-mac-from-anywhere?utm_source=rss)
- - [Nebex, a fintech startup aiming to act as a broker platform connecting US space tech suppliers, foreign governments, and investors, raised a $30M seed led by GV &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p49#a260629p49)
- - [Australia&#39;s ACCC sues Amazon for allegedly introducing ads to Prime Video under unfair contract terms and forcing existing subscribers to pay more to avoid them &lpar;Peter Vercoe/Bloomberg&rpar;](https://www.techmeme.com/260629/p48#a260629p48)<!-- TECH:END -->
+ - [Source: the Trump administration has talked with SpaceX about donating shares to Trump Accounts, which provide children with tax-advantaged savings accounts &lpar;Semafor&rpar;](https://www.techmeme.com/260629/p50#a260629p50)
+ - [OpenClaw finally has an official app, but first impressions aren’t exactly glowing](https://www.androidauthority.com/openclaw-android-ios-app-launch-3682683/)
+ - [How to use Tailscale to remotely connect to your Mac from anywhere](https://appleinsider.com/articles/26/06/30/how-to-use-tailscale-to-remotely-connect-to-your-mac-from-anywhere?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
