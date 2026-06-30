@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T’s customizable mobile plan is getting a massive home internet upgrade](https://www.androidauthority.com/att-build-a-plan-home-internet-3682922/)
- - [Hey old school Mac gamers, Bolo is back!](https://appleinsider.com/articles/26/06/30/hey-old-school-mac-gamers-bolo-is-back?utm_source=rss)
- - [Nanoleaf’s smart ceiling light adds color to your home without breaking the bank](https://www.androidauthority.com/nanoleaf-smart-multicolor-ceiling-light-launch-3682260/)<!-- TECH:END -->
+ - [HeyPolo is a privacy-first family location sharing app that gets it right](https://www.androidauthority.com/heypolo-family-location-sharing-app-3681788/)
+ - [AI chip startup Etched says it has raised $800M from investors including Jane Street and a venture firm linked to TSMC, and has signed sales contracts worth $1B &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260630/p16#a260630p16)
+ - [Cybersecurity company Aikido Security acquires Root, which has raised about $31M and develops an AI platform for securing open-source components &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260630/p15#a260630p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
