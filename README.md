@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Indonesian court sentences Gojek co-founder and ex-education minister Nadiem Makarim to 10 years in prison for power abuses over a Chromebook contract &lpar;New York Times&rpar;](https://www.techmeme.com/260630/p13#a260630p13)
- - [You can now watch Peacock on YouTube, and it’s perfect timing for the World Cup](https://www.androidauthority.com/peacock-youtube-primetime-channels-3682854/)
- - [Meet the lawyer who beat Elon Musk — twice](https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter)<!-- TECH:END -->
+ - [AT&amp;T’s customizable mobile plan is getting a massive home internet upgrade](https://www.androidauthority.com/att-build-a-plan-home-internet-3682922/)
+ - [Hey old school Mac gamers, Bolo is back!](https://appleinsider.com/articles/26/06/30/hey-old-school-mac-gamers-bolo-is-back?utm_source=rss)
+ - [Nanoleaf’s smart ceiling light adds color to your home without breaking the bank](https://www.androidauthority.com/nanoleaf-smart-multicolor-ceiling-light-launch-3682260/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
