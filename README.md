@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OMG](https://www.reddit.com/r/funny/comments/1ujr94o/omg/)
- - ⏩ [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)
- - 👉 [T90 Found Out](http://9gag.com/gag/ayNGzPY)<!-- MEMES:END -->
+ - 💣 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
+ - ⏩ [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)
+ - 👉 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)<!-- MEMES:END -->
 
 ---
 
