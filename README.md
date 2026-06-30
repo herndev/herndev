@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: President Trump reports $1.4B+ in income from his family&#39;s crypto ventures in 2025, including $500M+ from WLF and $635M from the sale of his $TRUMP coin &lpar;Reuters&rpar;](https://www.techmeme.com/260630/p35#a260630p35)
- - [Sources: TikTok settles a lawsuit before a second California trial over social media harm to minors for an undisclosed sum; Meta and Snap remain defendants &lpar;Bloomberg&rpar;](https://www.techmeme.com/260630/p34#a260630p34)
- - [This 70W GaN charger just dropped to its best price this year at only $24.99](https://www.androidauthority.com/baseus-enerfill-70w-usb-c-charger-deal-3683156/)<!-- TECH:END -->
+ - [Sources: Kalshi agreed to pay $20M to sponsor the World Cup knockouts, after initially balking at FIFA&#39;s $150M asking price, alongside ADI Predictstreet &lpar;Bloomberg&rpar;](https://www.techmeme.com/260630/p37#a260630p37)
+ - [Dish files for bankruptcy, but not shutting down](https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy)
+ - [Almost 1,700 UK investors sue Binance and Changpeng Zhao for at least £150M, alleging Binance sold them risky derivative products without regulatory approval &lpar;Kirstin Ridley/Reuters&rpar;](https://www.techmeme.com/260630/p36#a260630p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
