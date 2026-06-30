@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s chatty Keep Live and Gmail Live interfaces make first appearance](https://www.androidauthority.com/google-gmail-keep-gemini-live-chat-3682788/)
- - [As OpenAI and Anthropic prepare to go public, San Francisco tech workers making six figures say they cannot compete with the new AI elite and may have to leave &lpar;Emmy Martin/New York Times&rpar;](https://www.techmeme.com/260630/p10#a260630p10)
- - [OnePlus just launched a budget phone with a 3-day battery, but there’s a huge catch](https://www.androidauthority.com/oneplus-n6-specs-price-availability-3682794/)<!-- TECH:END -->
+ - [The Galaxy S27 won’t use a cheaper screen after all, and that’s bad news](https://www.androidauthority.com/samsung-galaxy-s27-no-cheaper-screen-boe-3682860/)
+ - [The 2 Best Slushie Machines of 2026: Now With Soft Serve](https://www.wired.com/gallery/best-slushie-machines/)
+ - [UK ponders copying more EU App Store rules](https://appleinsider.com/articles/26/06/30/uk-ponders-copying-more-eu-app-store-rules?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
