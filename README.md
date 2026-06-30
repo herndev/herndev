@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google shuts down the Tenor API, affecting GIF pickers on platforms like Discord, WhatsApp, and Bluesky; Nikita Bier says X has migrated elsewhere &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260630/p31#a260630p31)
- - [Google Home devices not listening to you today? You’re far from alone](https://www.androidauthority.com/google-home-problems-3683051/)
- - [Attention span too fried for NotebookLM’s podcasts? Have it make you a TikTok instead](https://www.androidauthority.com/notebooklm-vertical-video-3683044/)<!-- TECH:END -->
+ - [iPhone 18 Pro leaks: Qualcomm or Apple C2 model, A20 details, camera upgrades](https://appleinsider.com/articles/26/06/30/iphone-18-pro-leaks-qualcomm-or-apple-c2-model-a20-details-camera-upgrades?utm_source=rss)
+ - [Best Buy nabs retailer-exclusive Orange Beats Solo Buds](https://appleinsider.com/articles/26/06/30/best-buy-nabs-retailer-exclusive-orange-beats-solo-buds?utm_source=rss)
+ - [Omen AI, which provides real-time coolant health monitoring for data centers, raised a $31M Series A led by Nava Ventures, bringing its total funding to $41.5M &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260630/p32#a260630p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
