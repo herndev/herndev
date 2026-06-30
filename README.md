@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HeyPolo is a privacy-first family location sharing app that gets it right](https://www.androidauthority.com/heypolo-family-location-sharing-app-3681788/)
- - [AI chip startup Etched says it has raised $800M from investors including Jane Street and a venture firm linked to TSMC, and has signed sales contracts worth $1B &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260630/p16#a260630p16)
- - [Cybersecurity company Aikido Security acquires Root, which has raised about $31M and develops an AI platform for securing open-source components &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260630/p15#a260630p15)<!-- TECH:END -->
+ - [MDOTM, which makes AI software for asset and wealth managers, raised $27M led by Expedition Growth Capital, bringing its total funding to $36.5M &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260630/p19#a260630p19)
+ - [Libby will filter out AI content, kind of](https://www.theverge.com/column/959433/libby-ai-filter)
+ - [AtomForm Palette 300 wins top honours at the London Design Awards](https://www.androidauthority.com/atomform-palette-300-gold-london-design-awards-3681807/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
