@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your micromanager boss sees you leave 1 minute early.](http://9gag.com/gag/aPA5pvw)
- - ⏩ [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
- - 👉 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)<!-- MEMES:END -->
+ - 💣 [And americans still wonder why whole world hates them :&rpar;](http://9gag.com/gag/aXPBeg2)
+ - ⏩ [When your micromanager boss sees you leave 1 minute early.](http://9gag.com/gag/aPA5pvw)
+ - 👉 [T90 Found Out](http://9gag.com/gag/ayNGzPY)<!-- MEMES:END -->
 
 ---
 
