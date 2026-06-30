@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S27 won’t use a cheaper screen after all, and that’s bad news](https://www.androidauthority.com/samsung-galaxy-s27-no-cheaper-screen-boe-3682860/)
- - [The 2 Best Slushie Machines of 2026: Now With Soft Serve](https://www.wired.com/gallery/best-slushie-machines/)
- - [UK ponders copying more EU App Store rules](https://appleinsider.com/articles/26/06/30/uk-ponders-copying-more-eu-app-store-rules?utm_source=rss)<!-- TECH:END -->
+ - [An Indonesian court sentences Gojek co-founder and ex-education minister Nadiem Makarim to 10 years in prison for power abuses over a Chromebook contract &lpar;New York Times&rpar;](https://www.techmeme.com/260630/p13#a260630p13)
+ - [You can now watch Peacock on YouTube, and it’s perfect timing for the World Cup](https://www.androidauthority.com/peacock-youtube-primetime-channels-3682854/)
+ - [Meet the lawyer who beat Elon Musk — twice](https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
