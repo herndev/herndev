@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI teases a device it is launching in partnership with keyboard maker Work Louder on July 15, saying &quot;Your favorite Codex shortcuts are getting an upgrade&quot; &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260629/p47#a260629p47)
- - [Sources: AI video startup Higgsfield is in talks to raise $300M to $500M at a $5B pre-money valuation, more than 4x its valuation in a January 2026 round &lpar;The Information&rpar;](https://www.techmeme.com/260629/p46#a260629p46)
- - [The UK FCA unveils the updated version of its crypto regulatory framework, after softening proposed rules that critics said risked holding the UK back &lpar;Financial Times&rpar;](https://www.techmeme.com/260629/p45#a260629p45)<!-- TECH:END -->
+ - [How to use Tailscale to remotely connect to your Mac from anywhere](https://appleinsider.com/articles/26/06/30/how-to-use-tailscale-to-remotely-connect-to-your-mac-from-anywhere?utm_source=rss)
+ - [Nebex, a fintech startup aiming to act as a broker platform connecting US space tech suppliers, foreign governments, and investors, raised a $30M seed led by GV &lpar;Bloomberg&rpar;](https://www.techmeme.com/260629/p49#a260629p49)
+ - [Australia&#39;s ACCC sues Amazon for allegedly introducing ads to Prime Video under unfair contract terms and forcing existing subscribers to pay more to avoid them &lpar;Peter Vercoe/Bloomberg&rpar;](https://www.techmeme.com/260629/p48#a260629p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
