@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18 Pro leaks: Qualcomm or Apple C2 model, A20 details, camera upgrades](https://appleinsider.com/articles/26/06/30/iphone-18-pro-leaks-qualcomm-or-apple-c2-model-a20-details-camera-upgrades?utm_source=rss)
- - [Best Buy nabs retailer-exclusive Orange Beats Solo Buds](https://appleinsider.com/articles/26/06/30/best-buy-nabs-retailer-exclusive-orange-beats-solo-buds?utm_source=rss)
- - [Omen AI, which provides real-time coolant health monitoring for data centers, raised a $31M Series A led by Nava Ventures, bringing its total funding to $41.5M &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260630/p32#a260630p32)<!-- TECH:END -->
+ - [Amazon fined $2.25 million for failing to help identity theft victims](https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine)
+ - [Sources: Mark Zuckerberg met with Kalshi CEO Tarek Mansour about a possible takeover last year, before directing Meta employees to build a prediction market app &lpar;Bobby Allyn/NPR&rpar;](https://www.techmeme.com/260630/p33#a260630p33)
+ - [Daisy Sound’s First Headphones Are Premium, High-Quality—and Just a Little Bit Cheaper](https://www.wired.com/story/daisy-sound-yet-another-company-is-making-premium-high-end-headphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
