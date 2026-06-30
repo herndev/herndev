@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Some years later](http://9gag.com/gag/aryY8Bd)
- - ⏩ [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)
- - 👉 [Aberfan disaster](http://9gag.com/gag/ajPpdW8)<!-- MEMES:END -->
+ - ⏩ [Absolute legend showing everyone how it is done](http://9gag.com/gag/aKGRK7N)
+ - 👉 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)<!-- MEMES:END -->
 
 ---
 
