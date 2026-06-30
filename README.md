@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only people that has experience with Electrical engineering will understand the codes from those circuit boards.](http://9gag.com/gag/aD2yMpx)
- - ⏩ [Ok this is hilarious - I\u2019m dying](http://9gag.com/gag/adBEd0d)
- - 👉 [Greatest street rapper in NYC](http://9gag.com/gag/aQzGrAK)<!-- MEMES:END -->
+ - 💣 [Triggering an entire league](http://9gag.com/gag/axy54VD)
+ - ⏩ [Senio software developer](http://9gag.com/gag/a1m9OKY)
+ - 👉 [Some years later](http://9gag.com/gag/aryY8Bd)<!-- MEMES:END -->
 
 ---
 
