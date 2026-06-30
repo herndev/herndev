@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some years later](http://9gag.com/gag/aryY8Bd)
- - ⏩ [Absolute legend showing everyone how it is done](http://9gag.com/gag/aKGRK7N)
- - 👉 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)<!-- MEMES:END -->
+ - 💣 [Bangladeshi workers returned home from the Middle East with their hard-earned money and gifts, but some baggage handlers at the airport stole them.](http://9gag.com/gag/aryYzPp)
+ - ⏩ [T90 Found Out](http://9gag.com/gag/ayNGzPY)
+ - 👉 [Some years later](http://9gag.com/gag/aryY8Bd)<!-- MEMES:END -->
 
 ---
 
