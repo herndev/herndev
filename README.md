@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
- - ⏩ [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)
+ - 💣 [Taken from a PlayStation sub. Too great not to share.](https://www.reddit.com/r/funny/comments/1uju8wo/taken_from_a_playstation_sub_too_great_not_to/)
+ - ⏩ [When your micromanager boss sees you leave 1 minute early.](http://9gag.com/gag/aPA5pvw)
  - 👉 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)<!-- MEMES:END -->
 
 ---
