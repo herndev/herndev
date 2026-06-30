@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
- - ⏩ [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)
- - 👉 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)<!-- MEMES:END -->
+ - 💣 [What happens in a woman mouth during a date](http://9gag.com/gag/ajPpdzp)
+ - ⏩ [And americans still wonder why whole world hates them :&rpar;](http://9gag.com/gag/aXPBeg2)
+ - 👉 [T90 Found Out](http://9gag.com/gag/ayNGzPY)<!-- MEMES:END -->
 
 ---
 
