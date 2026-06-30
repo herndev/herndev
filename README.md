@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [T90 Found Out](http://9gag.com/gag/ayNGzPY)
- - ⏩ [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)
- - 👉 [Some years later](http://9gag.com/gag/aryY8Bd)<!-- MEMES:END -->
+ - 💣 [Wanna Cry?](http://9gag.com/gag/a7oQAz2)
+ - ⏩ [We need to go back](http://9gag.com/gag/aW4zdmZ)
+ - 👉 [What year is this?](http://9gag.com/gag/ajPpMm0)<!-- MEMES:END -->
 
 ---
 
