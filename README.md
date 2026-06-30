@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Schneider Electric agrees to buy industrial AI company Cognite in a $3.1B all-cash deal, and plans to combine Cognite with its industrial software company Aveva &lpar;Frank Connelly/Bloomberg&rpar;](https://www.techmeme.com/260630/p23#a260630p23)
- - [The 4.6-star Google Nest Cam Indoor is still only $69.99 after Prime Day](https://www.androidauthority.com/google-nest-cam-indoor-3rd-gen-deal-3683033/)
- - [SCOTUS agrees to hear Apple&#39;s appeal of a 2025 contempt ruling in its Epic case after a district judge found Apple violated an order to make App Store changes &lpar;Mike Scarcella/Reuters&rpar;](https://www.techmeme.com/260630/p22#a260630p22)<!-- TECH:END -->
+ - [Anthropic launches Claude Science, an AI workbench that uses existing Claude models like Opus 4.8 to integrate 60+ scientific databases and specialized toolkits &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260630/p26#a260630p26)
+ - [Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show](https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder)
+ - [US Supreme Court agrees to hear Apple&#39;s Epic Games appeal](https://appleinsider.com/articles/26/06/30/us-supreme-court-agrees-to-hear-apples-epic-games-appeal?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
