@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WNBA](http://9gag.com/gag/amo3R04)
- - ⏩ [Aberfan disaster](http://9gag.com/gag/ajPpdW8)
- - 👉 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)<!-- MEMES:END -->
+ - 💣 [Only people that has experience with Electrical engineering will understand the codes from those circuit boards.](http://9gag.com/gag/aD2yMpx)
+ - ⏩ [No way](http://9gag.com/gag/aNDN3D0)
+ - 👉 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)<!-- MEMES:END -->
 
 ---
 
