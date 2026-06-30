@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could soon let you control desktop Gemini from your phone](https://www.androidauthority.com/google-gemini-mac-remote-control-apk-teardown-3682746/)
- - [Hotels, tour operators, and travel agencies rush to launch proprietary online tools and loyalty schemes to fend off future competition from AI travel agents &lpar;Stephanie Stacey/Financial Times&rpar;](https://www.techmeme.com/260630/p6#a260630p6)
- - [Huge leak shows off upcoming Galaxy foldables and all their official cases](https://www.androidauthority.com/samsung-galaxy-z-flip-8-fold-ultra-renders-cases-3682708/)<!-- TECH:END -->
+ - [Google’s chatty Keep Live and Gmail Live interfaces make first appearance](https://www.androidauthority.com/google-gmail-keep-gemini-live-chat-3682788/)
+ - [As OpenAI and Anthropic prepare to go public, San Francisco tech workers making six figures say they cannot compete with the new AI elite and may have to leave &lpar;Emmy Martin/New York Times&rpar;](https://www.techmeme.com/260630/p10#a260630p10)
+ - [OnePlus just launched a budget phone with a 3-day battery, but there’s a huge catch](https://www.androidauthority.com/oneplus-n6-specs-price-availability-3682794/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
