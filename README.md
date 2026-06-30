@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s $502M payment to Optis over patent infringement goes to UK Supreme Court](https://appleinsider.com/articles/26/06/29/apples-502m-payment-to-optis-over-patent-infringement-goes-to-uk-supreme-court?utm_source=rss)
- - [Supreme Court Supports Privacy Protections for Cellphone Location Data](https://www.cnet.com/news/privacy/supreme-court-ruling-geofencing-warrants-phone-location-data-privacy/)
- - [Tidal to Label AI-Generated Music and Remove Fraudulent Material](https://www.cnet.com/tech/services-and-software/tidal-will-label-ai-generated-music-and-remove-fraudulent-material/)<!-- TECH:END -->
+ - [Marc Andreessen is appointed to the DOD&#39;s Defense Policy Board, a committee tasked with giving strategic advice to the defense secretary and other top officials &lpar;Nick Wadhams/Bloomberg&rpar;](https://www.techmeme.com/260629/p43#a260629p43)
+ - [AI leaderboard provider Arena says it hit $100M in annualized run-rate revenue eight months after launching AI Evaluations, which offers performance analytics &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260629/p42#a260629p42)
+ - [Apple&#39;s $502M payment to Optis over patent infringement goes to UK Supreme Court](https://appleinsider.com/articles/26/06/29/apples-502m-payment-to-optis-over-patent-infringement-goes-to-uk-supreme-court?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
