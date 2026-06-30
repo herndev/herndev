@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amex cardholders can now use Membership Rewards during Apple Pay checkout](https://appleinsider.com/articles/26/06/30/amex-cardholders-can-now-use-membership-rewards-during-apple-pay-checkout?utm_source=rss)
- - [007 First Light&amp;#8217;s developer lays off staff but claims its next franchise will continue](https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs)
- - [Anthropic launches Claude Sonnet 5, saying it nears Opus 4.8 performance at lower prices and is substantially better than Sonnet 4.6 for agentic work &lpar;Anthropic&rpar;](https://www.techmeme.com/260630/p29#a260630p29)<!-- TECH:END -->
+ - [Google shuts down the Tenor API, affecting GIF pickers on platforms like Discord, WhatsApp, and Bluesky; Nikita Bier says X has migrated elsewhere &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/260630/p31#a260630p31)
+ - [Google Home devices not listening to you today? You’re far from alone](https://www.androidauthority.com/google-home-problems-3683051/)
+ - [Attention span too fried for NotebookLM’s podcasts? Have it make you a TikTok instead](https://www.androidauthority.com/notebooklm-vertical-video-3683044/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
