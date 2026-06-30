@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
- - ⏩ [When your micromanager boss sees you leave 1 minute early.](http://9gag.com/gag/aPA5pvw)
- - 👉 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)<!-- MEMES:END -->
+ - 💣 [Wanna Cry?](http://9gag.com/gag/a7oQAz2)
+ - ⏩ [Greatest street rapper in NYC](http://9gag.com/gag/aQzGrAK)
+ - 👉 [Somebody had to do it](http://9gag.com/gag/aqy0pOQ)<!-- MEMES:END -->
 
 ---
 
