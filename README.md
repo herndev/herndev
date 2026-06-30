@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: the Trump administration has talked with SpaceX about donating shares to Trump Accounts, which provide children with tax-advantaged savings accounts &lpar;Semafor&rpar;](https://www.techmeme.com/260629/p50#a260629p50)
- - [OpenClaw finally has an official app, but first impressions aren’t exactly glowing](https://www.androidauthority.com/openclaw-android-ios-app-launch-3682683/)
- - [How to use Tailscale to remotely connect to your Mac from anywhere](https://appleinsider.com/articles/26/06/30/how-to-use-tailscale-to-remotely-connect-to-your-mac-from-anywhere?utm_source=rss)<!-- TECH:END -->
+ - [Dubai- and London-based 1001, which uses AI to improve aviation, port, and energy infrastructure efficiency in the Gulf, raised $30M led by Lux Capital &lpar;Matthew Martin/Semafor&rpar;](https://www.techmeme.com/260630/p4#a260630p4)
+ - [Political campaign managers and consultants are using AI to analyze voter data, create campaign materials, and more; survey: 87% of campaigners use AI daily &lpar;Stuart A. Thompson/New York Times&rpar;](https://www.techmeme.com/260630/p3#a260630p3)
+ - [Apple’s biggest leak in years shows the iPhone 18 Pro surviving a drop test](https://www.androidauthority.com/apple-iphone-18-pro-drop-test-video-images-leak-3682690/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
