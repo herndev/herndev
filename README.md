@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only people that has experience with Electrical engineering will understand the codes from those circuit boards.](http://9gag.com/gag/aD2yMpx)
- - ⏩ [No way](http://9gag.com/gag/aNDN3D0)
- - 👉 [Pull a sneaky...](http://9gag.com/gag/a87ZzAO)<!-- MEMES:END -->
+ - 💣 [Brawl in stands at the last Mexico game](http://9gag.com/gag/awyweWB)
+ - ⏩ [Some years later](http://9gag.com/gag/aryY8Bd)
+ - 👉 [You don&#39;t care for football](http://9gag.com/gag/agmWjgr)<!-- MEMES:END -->
 
 ---
 
