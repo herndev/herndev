@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
- - ⏩ [Hulk](http://9gag.com/gag/a7oQGMr)
+ - 💣 [Greatest street rapper in NYC](http://9gag.com/gag/aQzGrAK)
+ - ⏩ [Took me a while](http://9gag.com/gag/agmWZpx)
  - 👉 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)<!-- MEMES:END -->
 
 ---
