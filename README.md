@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Gemini Spark for macOS will work on your local Mac files](https://appleinsider.com/articles/26/07/01/googles-gemini-spark-for-macos-will-work-on-your-local-mac-files?utm_source=rss)
- - [Amazon cuts the PNY microSD Express 512GB to its lowest price of the year](https://www.androidauthority.com/pny-microsd-express-512gb-deal-3683472/)
- - [Claude helped uncover a ticketing flaw able to unlock free VIP festival passes](https://www.androidauthority.com/claude-uncovered-front-gate-vulnerability-3683467/)<!-- TECH:END -->
+ - [Anthropic’s Fable 5 is back, and that’s no fairy tale](https://www.androidauthority.com/fable-5-back-3683475/)
+ - [Sources: SpaceX showed investors a handset-like device prototype with AI tech from xAI, a proprietary OS, a Snapdragon chip, and a design slimmer than an iPhone &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260701/p37#a260701p37)
+ - [You Can Now Sound the Alarm on AI Behaving Badly](https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
