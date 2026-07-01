@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Looks like win](http://9gag.com/gag/a7oQ6gq)
- - ⏩ [Straight to jail](http://9gag.com/gag/amo3dKy)
- - 👉 [Hollywood VS Real White Women](http://9gag.com/gag/apROd79)<!-- MEMES:END -->
+ - 💣 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
+ - ⏩ [Hulk](http://9gag.com/gag/a7oQGMr)
+ - 👉 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)<!-- MEMES:END -->
 
 ---
 
