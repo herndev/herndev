@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)
- - ⏩ [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
- - 👉 [T90 Found Out](http://9gag.com/gag/ayNGzPY)<!-- MEMES:END -->
+ - 💣 [T90 Found Out](http://9gag.com/gag/ayNGzPY)
+ - ⏩ [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)
+ - 👉 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)<!-- MEMES:END -->
 
 ---
 
