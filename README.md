@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is working on new iPad Pros and an entry-level 14&quot; MacBook Pro with a new design in line with the upcoming touch-screen laptops for H1 2027 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260701/p41#a260701p41)
- - [Apple in Russia&#39;s crosshairs again, facing $52M fine for not installing state-required apps](https://appleinsider.com/articles/26/07/01/apple-in-russias-crosshairs-again-facing-52m-fine-for-not-installing-state-required-apps?utm_source=rss)
- - [If it exists, Elon Musk&#39;s SpaceX AI prototype hardware is thinner than iPhone](https://appleinsider.com/articles/26/07/01/elon-musks-spacex-ai-prototype-is-thinner-than-an-iphone?utm_source=rss)<!-- TECH:END -->
+ - [iPhone Fold expected to take 29% of 2026 foldable phone screen orders](https://appleinsider.com/articles/26/07/01/iphone-fold-expected-to-take-29-of-2026-foldable-phone-screen-orders?utm_source=rss)
+ - [The funeral for PlayStation discs has begun](https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores)
+ - [John Deere Classic 2026: TV Schedule, How to Watch, Stream All the PGA Golf Action From Anywhere](https://www.cnet.com/tech/services-and-software/john-deere-classic-2026-tv-schedule-how-to-watch-stream-all-the-pga-golf-action-from-anywhere/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
