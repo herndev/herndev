@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [T90 Found Out](http://9gag.com/gag/ayNGzPY)
- - ⏩ [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)
- - 👉 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)<!-- MEMES:END -->
+ - 💣 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)
+ - ⏩ [Hulk](http://9gag.com/gag/a7oQGMr)
+ - 👉 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)<!-- MEMES:END -->
 
 ---
 
