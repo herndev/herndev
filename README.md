@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook&#39;s government liaison position comes into focus before stepping down as Apple CEO](https://appleinsider.com/articles/26/07/01/tim-cooks-government-liaison-position-comes-into-focus-before-stepping-down-as-apple-ceo?utm_source=rss)
- - [Anthropic&amp;#8217;s long-sidelined Fable 5 is greenlit to return](https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back)
- - [Anthropic says the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 and that it will begin restoring access Wednesday &lpar;@anthropicai&rpar;](https://www.techmeme.com/260630/p40#a260630p40)<!-- TECH:END -->
+ - [Vimeo owner Bending Spoons raised $1.68B by selling 58M shares at $29 each, valuing it at ~$18.4B, in one of the largest US IPOs by a European company in 2026 &lpar;Subrat Patnaik/Bloomberg&rpar;](https://www.techmeme.com/260630/p42#a260630p42)
+ - [Pie, a startup that uses AI to optimize marketing for brick-and-mortar small businesses, emerges from stealth with a $19.5M Series A led by Lightspeed &lpar;Lisa Bonos/Inc&rpar;](https://www.techmeme.com/260630/p41#a260630p41)
+ - [Meta is adding ridiculous &amp;#8216;rate limits&amp;#8217; and a soft paywall to its smart glasses](https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
