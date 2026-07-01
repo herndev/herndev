@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)
- - ⏩ [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
+ - 💣 [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)
+ - ⏩ [T90 Found Out](http://9gag.com/gag/ayNGzPY)
  - 👉 [Took me a while](http://9gag.com/gag/agmWZpx)<!-- MEMES:END -->
 
 ---
