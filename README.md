@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wanna Cry?](http://9gag.com/gag/a7oQAz2)
- - ⏩ [Greatest street rapper in NYC](http://9gag.com/gag/aQzGrAK)
- - 👉 [Somebody had to do it](http://9gag.com/gag/aqy0pOQ)<!-- MEMES:END -->
+ - 💣 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)
+ - ⏩ [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
+ - 👉 [T90 Found Out](http://9gag.com/gag/ayNGzPY)<!-- MEMES:END -->
 
 ---
 
