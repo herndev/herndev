@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)
+ - 💣 [So Trojans use rubber even for helmets?](http://9gag.com/gag/aQzGr58)
  - ⏩ [T90 Found Out](http://9gag.com/gag/ayNGzPY)
- - 👉 [Took me a while](http://9gag.com/gag/agmWZpx)<!-- MEMES:END -->
+ - 👉 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)<!-- MEMES:END -->
 
 ---
 
