@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)
- - ⏩ [T90 Found Out](http://9gag.com/gag/ayNGzPY)
- - 👉 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)<!-- MEMES:END -->
+ - ⏩ [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
+ - 👉 [Took me a while](http://9gag.com/gag/agmWZpx)<!-- MEMES:END -->
 
 ---
 
