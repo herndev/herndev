@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold expected to take 29% of 2026 foldable phone screen orders](https://appleinsider.com/articles/26/07/01/iphone-fold-expected-to-take-29-of-2026-foldable-phone-screen-orders?utm_source=rss)
- - [The funeral for PlayStation discs has begun](https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores)
- - [John Deere Classic 2026: TV Schedule, How to Watch, Stream All the PGA Golf Action From Anywhere](https://www.cnet.com/tech/services-and-software/john-deere-classic-2026-tv-schedule-how-to-watch-stream-all-the-pga-golf-action-from-anywhere/)<!-- TECH:END -->
+ - [The Best July 4 Grill and Griddle Deals: Weber, Traeger, Recteq](https://www.wired.com/story/best-grill-griddle-deals-july-4-2026/)
+ - [Higharc, which uses AI to assist house builders in design and construction, raised a $95M Series C led by Insight Partners, bringing its total funding to $170M+ &lpar;Lauren Ohnesorge/Triangle Business ...&rpar;](https://www.techmeme.com/260701/p43#a260701p43)
+ - [Accio, Wizards: Harry Potter Audiobooks Arrive on Spotify](https://www.cnet.com/tech/services-and-software/harry-potter-audiobooks-spotify/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
