@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Kalshi agreed to pay $20M to sponsor the World Cup knockouts, after initially balking at FIFA&#39;s $150M asking price, alongside ADI Predictstreet &lpar;Bloomberg&rpar;](https://www.techmeme.com/260630/p37#a260630p37)
- - [Dish files for bankruptcy, but not shutting down](https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy)
- - [Almost 1,700 UK investors sue Binance and Changpeng Zhao for at least £150M, alleging Binance sold them risky derivative products without regulatory approval &lpar;Kirstin Ridley/Reuters&rpar;](https://www.techmeme.com/260630/p36#a260630p36)<!-- TECH:END -->
+ - [Tim Cook&#39;s government liaison position comes into focus before stepping down as Apple CEO](https://appleinsider.com/articles/26/07/01/tim-cooks-government-liaison-position-comes-into-focus-before-stepping-down-as-apple-ceo?utm_source=rss)
+ - [Anthropic&amp;#8217;s long-sidelined Fable 5 is greenlit to return](https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back)
+ - [Anthropic says the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 and that it will begin restoring access Wednesday &lpar;@anthropicai&rpar;](https://www.techmeme.com/260630/p40#a260630p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
