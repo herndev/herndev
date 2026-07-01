@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17’s new lock screen trick could frustrate anyone trying to break into your phone](https://www.androidauthority.com/android-17-pin-password-protection-3683166/)
- - [Getty Images announces plans to end its Shutterstock merger after the UK CMA conditioned approval of the deal on Shutterstock selling its editorial business &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260630/p46#a260630p46)
- - [FOIA docs: White House officials used auto-deleting Signal chats even after Trump advised against its use in April 2025, raising federal recordkeeping concerns &lpar;The Atlantic&rpar;](https://www.techmeme.com/260630/p45#a260630p45)<!-- TECH:END -->
+ - [BYD, Nio, and other Chinese carmakers are rushing to design and increase the use of locally developed chips with AI functions in a bid for chip self-sufficiency &lpar;Financial Times&rpar;](https://www.techmeme.com/260701/p9#a260701p9)
+ - [South Korean government data: the country&#39;s exports grew 70.9% YoY in June to $102.25B, an all-time monthly high, anchored by a record $44.82B in chip shipments &lpar;Steven Borowiec/Nikkei Asia&rpar;](https://www.techmeme.com/260701/p8#a260701p8)
+ - [Claude Sonnet 5 launches with smarter reasoning, stronger safety for Free and Pro users](https://www.androidauthority.com/claude-sonnet-5-launch-3683170/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
