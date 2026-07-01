@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hulk](http://9gag.com/gag/a7oQGMr)
- - ⏩ [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)
- - 👉 [T90 Found Out](http://9gag.com/gag/ayNGzPY)<!-- MEMES:END -->
+ - 💣 [Wanna Cry?](http://9gag.com/gag/a7oQAz2)
+ - ⏩ [Somebody had to do it](http://9gag.com/gag/aqy0pOQ)
+ - 👉 [Looks like win](http://9gag.com/gag/a7oQ6gq)<!-- MEMES:END -->
 
 ---
 
