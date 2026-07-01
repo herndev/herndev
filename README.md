@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Twin flags be like:](http://9gag.com/gag/a7oQmdm)
- - ⏩ [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)
- - 👉 [Here you go wankers](http://9gag.com/gag/aqy0VBP)<!-- MEMES:END -->
+ - ⏩ [MASSAGE](http://9gag.com/gag/aPA5djQ)
+ - 👉 [So Trojans use rubber even for helmets?](http://9gag.com/gag/aQzGr58)<!-- MEMES:END -->
 
 ---
 
