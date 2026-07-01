@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Hide My Email feature might not be so private after all](https://www.androidauthority.com/apple-hide-my-email-vulnerability-3683561/)
- - [YouTube Music not working on your Nest Hub? Google finally has a fix](https://www.androidauthority.com/google-nest-hub-youtube-music-fix-3683568/)
- - [Google has a fix for the Pixel 4a’s boot loop problem, and it’s coming soon](https://www.androidauthority.com/pixel-4a-boot-loop-fix-3683547/)<!-- TECH:END -->
+ - [Sources: Apple is working on new iPad Pros and an entry-level 14&quot; MacBook Pro with a new design in line with the upcoming touch-screen laptops for H1 2027 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260701/p41#a260701p41)
+ - [Apple in Russia&#39;s crosshairs again, facing $52M fine for not installing state-required apps](https://appleinsider.com/articles/26/07/01/apple-in-russias-crosshairs-again-facing-52m-fine-for-not-installing-state-required-apps?utm_source=rss)
+ - [If it exists, Elon Musk&#39;s SpaceX AI prototype hardware is thinner than iPhone](https://appleinsider.com/articles/26/07/01/elon-musks-spacex-ai-prototype-is-thinner-than-an-iphone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
