@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android’s Linux Terminal app picks up some new tricks in QPR1 Beta 5](https://www.androidauthority.com/android-linux-terminal-console-3683412/)
- - [My favorite Kindle alternative is $30 off after a recent price increase](https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale)
- - [Penalty Shootouts: Is the Team That Kicks First More Likely to Win?](https://www.wired.com/story/penalty-shootouts-is-the-team-that-kicks-first-more-likely-to-win/)<!-- TECH:END -->
+ - [Google&#39;s Gemini Spark for macOS will work on your local Mac files](https://appleinsider.com/articles/26/07/01/googles-gemini-spark-for-macos-will-work-on-your-local-mac-files?utm_source=rss)
+ - [Amazon cuts the PNY microSD Express 512GB to its lowest price of the year](https://www.androidauthority.com/pny-microsd-express-512gb-deal-3683472/)
+ - [Claude helped uncover a ticketing flaw able to unlock free VIP festival passes](https://www.androidauthority.com/claude-uncovered-front-gate-vulnerability-3683467/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
