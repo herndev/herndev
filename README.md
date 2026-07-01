@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing confirms the Ear 3a will launch in 4 colors alongside the Phone 4b](https://www.androidauthority.com/nothing-ear-3a-launch-date-colors-3683301/)
- - [Meta introduces a $20/month Meta One Premium tier for its glasses and limits its Conversation Focus feature to three hours of use per month for free users &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260701/p15#a260701p15)
- - [Google shares more details about Android Halo and how it’ll work](https://www.androidauthority.com/google-android-halo-details-3683294/)<!-- TECH:END -->
+ - [Together AI, which offers access to open-source models, raised $800M led by Saudi Aramco&#39;s Prosperity7 at an $8.3B valuation, taking its total funding to $1.3B &lpar;Niko Gallogly/New York Times&rpar;](https://www.techmeme.com/260701/p21#a260701p21)
+ - [The end is near? OnePlus is quietly steering customers toward OPPO products](https://www.androidauthority.com/oneplus-website-redirecting-to-oppo-3683330/)
+ - [The Best Automatic Litter Box of 2026: Petkit and Litter-Robot](https://www.wired.com/gallery/best-automatic-cat-litter-boxes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
