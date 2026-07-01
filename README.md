@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [T90 Found Out](http://9gag.com/gag/ayNGzPY)
- - ⏩ [When your micromanager boss sees you leave 1 minute early.](http://9gag.com/gag/aPA5pvw)
- - 👉 [Hulk](http://9gag.com/gag/a7oQGMr)<!-- MEMES:END -->
+ - 💣 [Looks like win](http://9gag.com/gag/a7oQ6gq)
+ - ⏩ [Straight to jail](http://9gag.com/gag/amo3dKy)
+ - 👉 [Hollywood VS Real White Women](http://9gag.com/gag/apROd79)<!-- MEMES:END -->
 
 ---
 
