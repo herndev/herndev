@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is the first Motorola phone to support AirDrop via Quick Share](https://www.androidauthority.com/motorola-razr-fold-2026-quick-share-airdrop-3683214/)
- - [Sony’s latest WH-1000XM6 update fixes one of Bluetooth gaming’s biggest annoyances](https://www.androidauthority.com/sony-wh-1000xm6-firmware-update-gmap-profile-3683222/)
- - [[Thread] The US&#39; now-lifted export controls on Anthropic models created uncertainty, are an own goal, and will push service providers towards Chinese AI models &lpar;Alex Stamos/@alexstamos&rpar;](https://www.techmeme.com/260701/p12#a260701p12)<!-- TECH:END -->
+ - [Nothing confirms the Ear 3a will launch in 4 colors alongside the Phone 4b](https://www.androidauthority.com/nothing-ear-3a-launch-date-colors-3683301/)
+ - [Meta introduces a $20/month Meta One Premium tier for its glasses and limits its Conversation Focus feature to three hours of use per month for free users &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260701/p15#a260701p15)
+ - [Google shares more details about Android Halo and how it’ll work](https://www.androidauthority.com/google-android-halo-details-3683294/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
