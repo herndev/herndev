@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Older Amazon Echo speakers are acting up — is yours?](https://www.androidauthority.com/amazon-echo-not-responding-3683484/)
- - [Elon Musk&#39;s SpaceX AI prototype is thinner than an iPhone](https://appleinsider.com/articles/26/07/01/elon-musks-spacex-ai-prototype-is-thinner-than-an-iphone?utm_source=rss)
- - [Amazon cuts 33% off the Samsung Galaxy Watch 8 Classic](https://www.androidauthority.com/deal-samsung-galaxy-watch-8-classic-3683534/)<!-- TECH:END -->
+ - [Apple’s Hide My Email feature might not be so private after all](https://www.androidauthority.com/apple-hide-my-email-vulnerability-3683561/)
+ - [YouTube Music not working on your Nest Hub? Google finally has a fix](https://www.androidauthority.com/google-nest-hub-youtube-music-fix-3683568/)
+ - [Google has a fix for the Pixel 4a’s boot loop problem, and it’s coming soon](https://www.androidauthority.com/pixel-4a-boot-loop-fix-3683547/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
