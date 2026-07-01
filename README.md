@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So Trojans use rubber even for helmets?](http://9gag.com/gag/aQzGr58)
- - ⏩ [T90 Found Out](http://9gag.com/gag/ayNGzPY)
- - 👉 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)<!-- MEMES:END -->
+ - 💣 [T90 Found Out](http://9gag.com/gag/ayNGzPY)
+ - ⏩ [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)
+ - 👉 [So Trojans use rubber even for helmets?](http://9gag.com/gag/aQzGr58)<!-- MEMES:END -->
 
 ---
 
