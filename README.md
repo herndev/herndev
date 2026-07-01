@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wanna Cry?](http://9gag.com/gag/a7oQAz2)
- - ⏩ [Somebody had to do it](http://9gag.com/gag/aqy0pOQ)
- - 👉 [Looks like win](http://9gag.com/gag/a7oQ6gq)<!-- MEMES:END -->
+ - 💣 [T90 Found Out](http://9gag.com/gag/ayNGzPY)
+ - ⏩ [When your micromanager boss sees you leave 1 minute early.](http://9gag.com/gag/aPA5pvw)
+ - 👉 [Hulk](http://9gag.com/gag/a7oQGMr)<!-- MEMES:END -->
 
 ---
 
