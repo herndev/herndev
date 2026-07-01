@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Together AI, which offers access to open-source models, raised $800M led by Saudi Aramco&#39;s Prosperity7 at an $8.3B valuation, taking its total funding to $1.3B &lpar;Niko Gallogly/New York Times&rpar;](https://www.techmeme.com/260701/p21#a260701p21)
- - [The end is near? OnePlus is quietly steering customers toward OPPO products](https://www.androidauthority.com/oneplus-website-redirecting-to-oppo-3683330/)
- - [The Best Automatic Litter Box of 2026: Petkit and Litter-Robot](https://www.wired.com/gallery/best-automatic-cat-litter-boxes/)<!-- TECH:END -->
+ - [Sony says it is closing the virtual PlayStation 3 store in select markets in 2026 ahead of global store closures for the PS3 and PS Vita in July 2027 &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260701/p28#a260701p28)
+ - [Want to Fly? Google Earth Opens Its Secret Flight Simulator to All Users](https://www.cnet.com/tech/gaming/google-earths-secret-flight-simulator-is-now-free-for-everyone-on-the-web/)
+ - [47 of the Best Movies on Netflix You Should Stream Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
