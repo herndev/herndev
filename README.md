@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BYD, Nio, and other Chinese carmakers are rushing to design and increase the use of locally developed chips with AI functions in a bid for chip self-sufficiency &lpar;Financial Times&rpar;](https://www.techmeme.com/260701/p9#a260701p9)
- - [South Korean government data: the country&#39;s exports grew 70.9% YoY in June to $102.25B, an all-time monthly high, anchored by a record $44.82B in chip shipments &lpar;Steven Borowiec/Nikkei Asia&rpar;](https://www.techmeme.com/260701/p8#a260701p8)
- - [Claude Sonnet 5 launches with smarter reasoning, stronger safety for Free and Pro users](https://www.androidauthority.com/claude-sonnet-5-launch-3683170/)<!-- TECH:END -->
+ - [This is the first Motorola phone to support AirDrop via Quick Share](https://www.androidauthority.com/motorola-razr-fold-2026-quick-share-airdrop-3683214/)
+ - [Sony’s latest WH-1000XM6 update fixes one of Bluetooth gaming’s biggest annoyances](https://www.androidauthority.com/sony-wh-1000xm6-firmware-update-gmap-profile-3683222/)
+ - [[Thread] The US&#39; now-lifted export controls on Anthropic models created uncertainty, are an own goal, and will push service providers towards Chinese AI models &lpar;Alex Stamos/@alexstamos&rpar;](https://www.techmeme.com/260701/p12#a260701p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
