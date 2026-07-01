@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wanna Cry?](http://9gag.com/gag/a7oQAz2)
- - ⏩ [Always them](http://9gag.com/gag/aBypvpP)
- - 👉 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)<!-- MEMES:END -->
+ - 💣 [Hulk](http://9gag.com/gag/a7oQGMr)
+ - ⏩ [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)
+ - 👉 [T90 Found Out](http://9gag.com/gag/ayNGzPY)<!-- MEMES:END -->
 
 ---
 
