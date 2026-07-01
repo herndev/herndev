@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony says it is closing the virtual PlayStation 3 store in select markets in 2026 ahead of global store closures for the PS3 and PS Vita in July 2027 &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260701/p28#a260701p28)
- - [Want to Fly? Google Earth Opens Its Secret Flight Simulator to All Users](https://www.cnet.com/tech/gaming/google-earths-secret-flight-simulator-is-now-free-for-everyone-on-the-web/)
- - [47 of the Best Movies on Netflix You Should Stream Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/)<!-- TECH:END -->
+ - [Uber dismissed two leaders at its AI data labeling business as part of a broader leadership transition at the unit, which it says is &quot;seeing strong momentum&quot; &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260701/p33#a260701p33)
+ - [B2B sales workspace startup Aligned raised a $60M Series B led by PeakSpan Capital, taking its total funding to $73.8M, and says it has 1,000+ customers &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260701/p32#a260701p32)
+ - [Researchers scapegoat iPhone for declining US birthrates](https://appleinsider.com/articles/26/07/01/researchers-scapegoat-iphone-for-declining-us-birthrates?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
