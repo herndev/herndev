@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FOIA docs: White House officials used auto-deleting Signal chats even after Trump advised against its use in April 2025, raising federal recordkeeping concerns &lpar;The Atlantic&rpar;](https://www.techmeme.com/260630/p45#a260630p45)
- - [SpaceX cuts monthly Starlink prices in half in the Memphis area, as it endures blowback and legal challenges from opponents of its Colossus data centers &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260630/p44#a260630p44)
- - [Lime raised $174M in its US IPO, selling 6.68M shares at $25 each, at the midpoint of the marketed range, giving Lime a market value of $1.6B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260630/p43#a260630p43)<!-- TECH:END -->
+ - [Android 17’s new lock screen trick could frustrate anyone trying to break into your phone](https://www.androidauthority.com/android-17-pin-password-protection-3683166/)
+ - [Getty Images announces plans to end its Shutterstock merger after the UK CMA conditioned approval of the deal on Shutterstock selling its editorial business &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260630/p46#a260630p46)
+ - [FOIA docs: White House officials used auto-deleting Signal chats even after Trump advised against its use in April 2025, raising federal recordkeeping concerns &lpar;The Atlantic&rpar;](https://www.techmeme.com/260630/p45#a260630p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
