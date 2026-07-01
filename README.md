@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vimeo owner Bending Spoons raised $1.68B by selling 58M shares at $29 each, valuing it at ~$18.4B, in one of the largest US IPOs by a European company in 2026 &lpar;Subrat Patnaik/Bloomberg&rpar;](https://www.techmeme.com/260630/p42#a260630p42)
- - [Pie, a startup that uses AI to optimize marketing for brick-and-mortar small businesses, emerges from stealth with a $19.5M Series A led by Lightspeed &lpar;Lisa Bonos/Inc&rpar;](https://www.techmeme.com/260630/p41#a260630p41)
- - [Meta is adding ridiculous &amp;#8216;rate limits&amp;#8217; and a soft paywall to its smart glasses](https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit)<!-- TECH:END -->
+ - [FOIA docs: White House officials used auto-deleting Signal chats even after Trump advised against its use in April 2025, raising federal recordkeeping concerns &lpar;The Atlantic&rpar;](https://www.techmeme.com/260630/p45#a260630p45)
+ - [SpaceX cuts monthly Starlink prices in half in the Memphis area, as it endures blowback and legal challenges from opponents of its Colossus data centers &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260630/p44#a260630p44)
+ - [Lime raised $174M in its US IPO, selling 6.68M shares at $25 each, at the midpoint of the marketed range, giving Lime a market value of $1.6B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260630/p43#a260630p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
