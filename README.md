@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Final Cut Camera tries to be more useful for Mac users](https://appleinsider.com/articles/26/07/01/new-final-cut-camera-tries-to-be-more-useful-for-mac-users?utm_source=rss)
- - [Meta names Chief Marketing Officer Alex Schultz as its first-ever chief data officer, to manage AI analytics across the company; Denise Moreno is named CMO &lpar;Sara Fischer/Axios&rpar;](https://www.techmeme.com/260701/p34#a260701p34)
- - [Uber dismissed two leaders at its AI data labeling business as part of a broader leadership transition at the unit, which it says is &quot;seeing strong momentum&quot; &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260701/p33#a260701p33)<!-- TECH:END -->
+ - [Android’s Linux Terminal app picks up some new tricks in QPR1 Beta 5](https://www.androidauthority.com/android-linux-terminal-console-3683412/)
+ - [My favorite Kindle alternative is $30 off after a recent price increase](https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale)
+ - [Penalty Shootouts: Is the Team That Kicks First More Likely to Win?](https://www.wired.com/story/penalty-shootouts-is-the-team-that-kicks-first-more-likely-to-win/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
