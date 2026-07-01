@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Twin flags be like:](http://9gag.com/gag/a7oQmdm)
  - ⏩ [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)
- - 👉 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)<!-- MEMES:END -->
+ - 👉 [Here you go wankers](http://9gag.com/gag/aqy0VBP)<!-- MEMES:END -->
 
 ---
 
