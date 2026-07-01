@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic’s Fable 5 is back, and that’s no fairy tale](https://www.androidauthority.com/fable-5-back-3683475/)
- - [Sources: SpaceX showed investors a handset-like device prototype with AI tech from xAI, a proprietary OS, a Snapdragon chip, and a design slimmer than an iPhone &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260701/p37#a260701p37)
- - [You Can Now Sound the Alarm on AI Behaving Badly](https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/)<!-- TECH:END -->
+ - [Older Amazon Echo speakers are acting up — is yours?](https://www.androidauthority.com/amazon-echo-not-responding-3683484/)
+ - [Elon Musk&#39;s SpaceX AI prototype is thinner than an iPhone](https://appleinsider.com/articles/26/07/01/elon-musks-spacex-ai-prototype-is-thinner-than-an-iphone?utm_source=rss)
+ - [Amazon cuts 33% off the Samsung Galaxy Watch 8 Classic](https://www.androidauthority.com/deal-samsung-galaxy-watch-8-classic-3683534/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
