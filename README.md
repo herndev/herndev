@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why?](http://9gag.com/gag/a7oQP6w)
- - ⏩ [The Great American Pride festival. LMAO! There was thousands, tens of thousands maybe even hundreds of thousands...................not there.](http://9gag.com/gag/avyN4AO)
- - 👉 [Delivery driver defends himself against dog owner](http://9gag.com/gag/a4Pv89Q)<!-- MEMES:END -->
+ - 💣 [The Great American Pride festival. LMAO! There was thousands, tens of thousands maybe even hundreds of thousands...................not there.](http://9gag.com/gag/avyN4AO)
+ - ⏩ [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
+ - 👉 [Chemistry lesson](http://9gag.com/gag/a0eBG4Z)<!-- MEMES:END -->
 
 ---
 
