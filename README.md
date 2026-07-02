@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank and its telecom unit launch SB Neo to offer AI chips and cloud services to big companies, aiming to provide 10GW of capacity in the US by 2030 &lpar;Min-Jeong Lee/Bloomberg&rpar;](https://www.techmeme.com/260702/p20#a260702p20)
- - [There’s now a fan-made port of these classic Star Wars games for Android](https://www.androidauthority.com/classic-star-wars-games-fan-made-android-port-3683703/)
- - [Confident Apple increases its iPhone Fold orders to 10 million](https://appleinsider.com/articles/26/07/02/confident-apple-increases-its-iphone-fold-orders-to-10-million?utm_source=rss)<!-- TECH:END -->
+ - [Global VC funding hit a record $510B in H1 2026, with OpenAI and Anthropic accounting for $217B, or 43% of the total; in Q2, VCs put $205B into 5K+ startups &lpar;Gené Teare/Crunchbase News&rpar;](https://www.techmeme.com/260702/p23#a260702p23)
+ - [7 Lesser-Known Google Account Settings You Should Change](https://www.wired.com/story/7-google-account-settings-you-should-change/)
+ - [All Galaxy S27 models could get Privacy Display, but is this good or bad news?](https://www.androidauthority.com/samsung-galaxy-s27-models-privacy-display-3683785/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
