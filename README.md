@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the White House is in advanced talks with AI companies on voluntary standards and release timelines for new models to be announced as soon as next week &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/260701/p45#a260701p45)
- - [Bending Spoons, which owns Vimeo and AOL, closed up 40% in its US market debut on Wednesday at a $25.7B valuation, after raising $1.68B in its IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260701/p44#a260701p44)
- - [The Best July 4 Grill and Griddle Deals: Weber, Traeger, Recteq](https://www.wired.com/story/best-grill-griddle-deals-july-4-2026/)<!-- TECH:END -->
+ - [Steve Jobs&#39; Bicentennial check captures the birth of Apple and the PC revolution](https://appleinsider.com/articles/26/07/02/steve-jobs-bicentennial-check-captures-the-birth-of-apple-and-the-pc-revolution?utm_source=rss)
+ - [Amazon&#39;s emissions rose 16%+ YoY in 2025, driven by data center construction and delivery fuel, while Google&#39;s &quot;ambition-based&quot; emissions jumped 18% YoY in 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260701/p46#a260701p46)
+ - [Winners from the 2026 iPhone Photography Awards](https://www.cnet.com/pictures/winners-from-the-2026-iphone-photography-awards/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
