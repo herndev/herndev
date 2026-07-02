@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
- - ⏩ [So Trojans use rubber even for helmets?](http://9gag.com/gag/aQzGr58)
- - 👉 [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)<!-- MEMES:END -->
+ - 💣 [Twin flags be like:](http://9gag.com/gag/a7oQmdm)
+ - ⏩ [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #1651](http://9gag.com/gag/aLnxV9v)<!-- MEMES:END -->
 
 ---
 
