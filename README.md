@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chemistry lesson](http://9gag.com/gag/a0eBG4Z)
- - ⏩ [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)
- - 👉 [Delivery driver defends himself against dog owner](http://9gag.com/gag/a4Pv89Q)<!-- MEMES:END -->
+ - 💣 [Its always them.](http://9gag.com/gag/aVvA9j2)
+ - ⏩ [Delivery driver defends himself against dog owner](http://9gag.com/gag/a4Pv89Q)
+ - 👉 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)<!-- MEMES:END -->
 
 ---
 
