@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of US adults finds 56% support banning social media for under-16s, while 21% oppose; majorities across demographic and partisan groups support a ban &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260702/p8#a260702p8)
- - [More Galaxy Z Fold 8, Fold 8 Ultra, and Z Flip 8 cases appear online ahead of launch](https://www.androidauthority.com/samsung-galaxy-z-fold-8-flip-8-thinborne-cases-3683621/)
- - [Meta now wants you to pay for this smart glasses feature that runs on-device &lpar;Updated&rpar;](https://www.androidauthority.com/meta-smart-glasses-rate-limits-3683323/)<!-- TECH:END -->
+ - [I spent a week without the Google Play Store, and I barely survived](https://www.androidauthority.com/android-phone-using-without-google-play-store-3680822/)
+ - [Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech](https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/)
+ - [Amazon has enough satellites to launch its Starlink competitor](https://www.theverge.com/science/960563/amazon-leo-service-tipping-point)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
