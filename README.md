@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where’d the YouTube Music Library disappear to on Android Auto?](https://www.androidauthority.com/youtube-music-android-auto-library-3683835/)
- - [Google wants you to prove you’re human with a controversial new reCAPTCHA challenge](https://www.androidauthority.com/google-recaptcha-hand-gestures-3683862/)
- - [Emails disclosed in a court filing detail the uneasy back-and-forth between Dario Amodei and DOD&#39;s Emil Michael and how Anthropic&#39;s relationship with DOD soured &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260702/p27#a260702p27)<!-- TECH:END -->
+ - [UK-based StirlingX, which develops secure data intelligence systems for defense and critical infrastructure, raised a $20M Series A, following a $11M seed &lpar;Cate Lawrence/Tech.eu&rpar;](https://www.techmeme.com/260702/p30#a260702p30)
+ - [Galaxy S27 Pro and Ultra leak hints at a big shake-up for the selfie camera](https://www.androidauthority.com/galaxy-s27-pro-ultra-front-camera-upgrade-3683931/)
+ - [Spotify Confirms Streaming Fraud After Kalshi Trader Cries Foul](https://www.wired.com/story/spotify-streaming-manipulation-prediction-markets-polymarket-kalshi/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
