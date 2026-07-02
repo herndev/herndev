@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Twin flags be like:](http://9gag.com/gag/a7oQmdm)
- - ⏩ [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
- - 👉 [Posting memes I found on my smartphone until I get bored or die #1651](http://9gag.com/gag/aLnxV9v)<!-- MEMES:END -->
+ - 💣 [Use a UV light you&#39;ll attract even more](http://9gag.com/gag/aoyXqB3)
+ - ⏩ [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)
+ - 👉 [Percussive maintenance works on everything](http://9gag.com/gag/aVvA4p8)<!-- MEMES:END -->
 
 ---
 
