@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)
- - ⏩ [Twin flags be like:](http://9gag.com/gag/a7oQmdm)
- - 👉 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)<!-- MEMES:END -->
+ - 💣 [Twin flags be like:](http://9gag.com/gag/a7oQmdm)
+ - ⏩ [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)
+ - 👉 [The Great American Pride festival. LMAO! There was thousands, tens of thousands maybe even hundreds of thousands...................not there.](http://9gag.com/gag/avyN4AO)<!-- MEMES:END -->
 
 ---
 
