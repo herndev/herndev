@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why?](http://9gag.com/gag/a7oQP6w)
- - ⏩ [The Great American Pride festival. LMAO! There was thousands, tens of thousands maybe even hundreds of thousands...................not there.](http://9gag.com/gag/avyN4AO)
- - 👉 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)<!-- MEMES:END -->
+ - 💣 [The Great American Pride festival. LMAO! There was thousands, tens of thousands maybe even hundreds of thousands...................not there.](http://9gag.com/gag/avyN4AO)
+ - ⏩ [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)
+ - 👉 [Best Pokemon](http://9gag.com/gag/amo3O0X)<!-- MEMES:END -->
 
 ---
 
