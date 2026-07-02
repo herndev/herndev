@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK-based StirlingX, which develops secure data intelligence systems for defense and critical infrastructure, raised a $20M Series A, following a $11M seed &lpar;Cate Lawrence/Tech.eu&rpar;](https://www.techmeme.com/260702/p30#a260702p30)
- - [Galaxy S27 Pro and Ultra leak hints at a big shake-up for the selfie camera](https://www.androidauthority.com/galaxy-s27-pro-ultra-front-camera-upgrade-3683931/)
- - [Spotify Confirms Streaming Fraud After Kalshi Trader Cries Foul](https://www.wired.com/story/spotify-streaming-manipulation-prediction-markets-polymarket-kalshi/)<!-- TECH:END -->
+ - [Source: crypto payments and settlement startup Mesh is raising funding led by Binance at a ~$2B valuation, six months after raising $75M at a $1B valuation &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260702/p34#a260702p34)
+ - [The best July 4th sales we found so far](https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale)
+ - [Surveys suggest Plex’s $750 Lifetime Pass is a hard pass for almost everyone](https://www.androidauthority.com/plex-lifetime-pass-price-hike-poll-results-3683927/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
