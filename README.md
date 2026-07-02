@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: crypto payments and settlement startup Mesh is raising funding led by Binance at a ~$2B valuation, six months after raising $75M at a $1B valuation &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260702/p34#a260702p34)
- - [The best July 4th sales we found so far](https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale)
- - [Surveys suggest Plex’s $750 Lifetime Pass is a hard pass for almost everyone](https://www.androidauthority.com/plex-lifetime-pass-price-hike-poll-results-3683927/)<!-- TECH:END -->
+ - [Google loses final fight over its $4.7 billion Android antitrust fine](https://www.androidauthority.com/google-android-antitrust-eu-fine-appeal-fails-3683964/)
+ - [Meta has a new app called Pocket that is absolutely nothing like the old Pocket](https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai)
+ - [At a town hall, Mark Zuckerberg said Meta&#39;s AI agent development has not accelerated as expected and its reorganization was not as &quot;clean&quot; as it could have been &lpar;Katie Paul/Reuters&rpar;](https://www.techmeme.com/260702/p35#a260702p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
