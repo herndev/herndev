@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I spent a week without the Google Play Store, and I barely survived](https://www.androidauthority.com/android-phone-using-without-google-play-store-3680822/)
- - [Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech](https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/)
- - [Amazon has enough satellites to launch its Starlink competitor](https://www.theverge.com/science/960563/amazon-leo-service-tipping-point)<!-- TECH:END -->
+ - [SoftBank and its telecom unit launch SB Neo to offer AI chips and cloud services to big companies, aiming to provide 10GW of capacity in the US by 2030 &lpar;Min-Jeong Lee/Bloomberg&rpar;](https://www.techmeme.com/260702/p20#a260702p20)
+ - [There’s now a fan-made port of these classic Star Wars games for Android](https://www.androidauthority.com/classic-star-wars-games-fan-made-android-port-3683703/)
+ - [Confident Apple increases its iPhone Fold orders to 10 million](https://appleinsider.com/articles/26/07/02/confident-apple-increases-its-iphone-fold-orders-to-10-million?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
