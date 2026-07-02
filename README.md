@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global VC funding hit a record $510B in H1 2026, with OpenAI and Anthropic accounting for $217B, or 43% of the total; in Q2, VCs put $205B into 5K+ startups &lpar;Gené Teare/Crunchbase News&rpar;](https://www.techmeme.com/260702/p23#a260702p23)
- - [7 Lesser-Known Google Account Settings You Should Change](https://www.wired.com/story/7-google-account-settings-you-should-change/)
- - [All Galaxy S27 models could get Privacy Display, but is this good or bad news?](https://www.androidauthority.com/samsung-galaxy-s27-models-privacy-display-3683785/)<!-- TECH:END -->
+ - [Influencer screenings aren’t going away](https://www.theverge.com/entertainment/960260/the-odyssey-christopher-nolan-influencers-screenings)
+ - [Kling AI, the Kuaishou AI video generator spin-off, raised $2B at a $15B pre-money valuation and says the round could extend to as much as $3B &lpar;Zheping Huang/Bloomberg&rpar;](https://www.techmeme.com/260702/p25#a260702p25)
+ - [This Govee Floor Lamp 2 deal cuts the smart lamp to $125.99](https://www.androidauthority.com/govee-floor-lamp-2-deal-3683865/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
