@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Influencer screenings aren’t going away](https://www.theverge.com/entertainment/960260/the-odyssey-christopher-nolan-influencers-screenings)
- - [Kling AI, the Kuaishou AI video generator spin-off, raised $2B at a $15B pre-money valuation and says the round could extend to as much as $3B &lpar;Zheping Huang/Bloomberg&rpar;](https://www.techmeme.com/260702/p25#a260702p25)
- - [This Govee Floor Lamp 2 deal cuts the smart lamp to $125.99](https://www.androidauthority.com/govee-floor-lamp-2-deal-3683865/)<!-- TECH:END -->
+ - [Where’d the YouTube Music Library disappear to on Android Auto?](https://www.androidauthority.com/youtube-music-android-auto-library-3683835/)
+ - [Google wants you to prove you’re human with a controversial new reCAPTCHA challenge](https://www.androidauthority.com/google-recaptcha-hand-gestures-3683862/)
+ - [Emails disclosed in a court filing detail the uneasy back-and-forth between Dario Amodei and DOD&#39;s Emil Michael and how Anthropic&#39;s relationship with DOD soured &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260702/p27#a260702p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
