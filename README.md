@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India-based short video app ShareChat&#39;s parent company Mohalla Tech plans to raise up to $400M in an IPO in 2027; ShareChat has ~65M micro-drama viewers monthly &lpar;Sankalp Phartiyal/Bloomberg&rpar;](https://www.techmeme.com/260701/p47#a260701p47)
- - [Steve Jobs&#39; Bicentennial check captures the birth of Apple and the PC revolution](https://appleinsider.com/articles/26/07/02/steve-jobs-bicentennial-check-captures-the-birth-of-apple-and-the-pc-revolution?utm_source=rss)
- - [Ford Had to Rehire Veteran Engineers After Its AI Flopped. Other Employers Should Take Notice](https://www.cnet.com/roadshow/news/ford-recalls-veteran-engineers-ai-falls-short/)<!-- TECH:END -->
+ - [A survey of US adults finds 56% support banning social media for under-16s, while 21% oppose; majorities across demographic and partisan groups support a ban &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260702/p8#a260702p8)
+ - [More Galaxy Z Fold 8, Fold 8 Ultra, and Z Flip 8 cases appear online ahead of launch](https://www.androidauthority.com/samsung-galaxy-z-fold-8-flip-8-thinborne-cases-3683621/)
+ - [Meta now wants you to pay for this smart glasses feature that runs on-device &lpar;Updated&rpar;](https://www.androidauthority.com/meta-smart-glasses-rate-limits-3683323/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
