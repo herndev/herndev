@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Use a UV light you&#39;ll attract even more](http://9gag.com/gag/aoyXqB3)
- - ⏩ [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)
- - 👉 [Percussive maintenance works on everything](http://9gag.com/gag/aVvA4p8)<!-- MEMES:END -->
+ - 💣 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
+ - ⏩ [So Trojans use rubber even for helmets?](http://9gag.com/gag/aQzGr58)
+ - 👉 [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)<!-- MEMES:END -->
 
 ---
 
