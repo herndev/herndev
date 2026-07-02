@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Finnish quantum computing company IQM closed up 2% in its Nasdaq debut Thursday after going public via a SPAC merger at a ~$1.9B valuation &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260702/p37#a260702p37)
  - [What to expect from Apple&#39;s Q3 2026 results on July 30](https://appleinsider.com/articles/26/07/02/what-to-expect-from-apples-q3-2026-results-on-july-30?utm_source=rss)
- - [Sources: Crusoe is in active talks to raise ~$3B in a funding round expected to value the company in the ~$30B range, up from a ~$10B valuation in October &lpar;Bloomberg&rpar;](https://www.techmeme.com/260702/p36#a260702p36)
- - [Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home](https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges)<!-- TECH:END -->
+ - [Sources: Crusoe is in active talks to raise ~$3B in a funding round expected to value the company in the ~$30B range, up from a ~$10B valuation in October &lpar;Bloomberg&rpar;](https://www.techmeme.com/260702/p36#a260702p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
