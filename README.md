@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best July 4 Grill and Griddle Deals: Weber, Traeger, Recteq](https://www.wired.com/story/best-grill-griddle-deals-july-4-2026/)
- - [Higharc, which uses AI to assist house builders in design and construction, raised a $95M Series C led by Insight Partners, bringing its total funding to $170M+ &lpar;Lauren Ohnesorge/Triangle Business ...&rpar;](https://www.techmeme.com/260701/p43#a260701p43)
- - [Accio, Wizards: Harry Potter Audiobooks Arrive on Spotify](https://www.cnet.com/tech/services-and-software/harry-potter-audiobooks-spotify/)<!-- TECH:END -->
+ - [Sources: the White House is in advanced talks with AI companies on voluntary standards and release timelines for new models to be announced as soon as next week &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/260701/p45#a260701p45)
+ - [Bending Spoons, which owns Vimeo and AOL, closed up 40% in its US market debut on Wednesday at a $25.7B valuation, after raising $1.68B in its IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260701/p44#a260701p44)
+ - [The Best July 4 Grill and Griddle Deals: Weber, Traeger, Recteq](https://www.wired.com/story/best-grill-griddle-deals-july-4-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
