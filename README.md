@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best 4th of July Apple deals: $89 AirTags, iPads up to $400 off, Macs up to $650 off](https://appleinsider.com/articles/26/07/02/best-4th-of-july-apple-deals-89-airtags-ipads-up-to-400-off-macs-up-to-650-off?utm_source=rss)
- - [An interview with Sriram Krishnan, who says &quot;there will not be an FDA for AI&quot; under Trump, blames the AI backlash on the industry&#39;s &quot;doomer&quot; messaging, and more &lpar;Financial Times&rpar;](https://www.techmeme.com/260703/p10#a260703p10)
- - [Google Sheets gets a key visual improvement for data nerds](https://www.androidauthority.com/google-sheets-3d-graphs-3684085/)<!-- TECH:END -->
+ - [Google Wallet finally lets you see smartwatch purchases on your phone](https://www.androidauthority.com/google-wallet-purchase-made-on-watch-3684160/)
+ - [Google Maps may soon expand beyond restaurant suggestions to actually placing your order](https://www.androidauthority.com/google-maps-food-order-3684065/)
+ - [Google DeepMind Unionization Talks Are Off to a Rocky Start](https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
