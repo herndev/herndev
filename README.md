@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet finally lets you see smartwatch purchases on your phone](https://www.androidauthority.com/google-wallet-purchase-made-on-watch-3684160/)
- - [Google Maps may soon expand beyond restaurant suggestions to actually placing your order](https://www.androidauthority.com/google-maps-food-order-3684065/)
- - [Google DeepMind Unionization Talks Are Off to a Rocky Start](https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/)<!-- TECH:END -->
+ - [Google Contacts is getting ready for Tap to Share with some ‘Your info’ tweaks](https://www.androidauthority.com/google-contacts-tap-to-share-3684167/)
+ - [Amazon just gave the Fire HD 10 a surprise RAM bump and a sneaky price hike](https://www.androidauthority.com/amazon-fire-hd-10-ram-upgrade-3684183/)
+ - [Meta getting into the cloud business has been inevitable for a long time, as it seeks to diversify beyond ad revenue and monetize its AI buildout &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260703/p12#a260703p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
