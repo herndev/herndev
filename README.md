@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
- - ⏩ [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)
- - 👉 [Delivery driver defends himself against dog owner](http://9gag.com/gag/a4Pv89Q)<!-- MEMES:END -->
+ - 💣 [Its always them.](http://9gag.com/gag/aVvA9j2)
+ - ⏩ [Money well spent](http://9gag.com/gag/aGyXvVn)
+ - 👉 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)<!-- MEMES:END -->
 
 ---
 
