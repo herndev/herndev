@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Californyssey trailer](http://9gag.com/gag/axy5KYp)
- - ⏩ [He would like both](http://9gag.com/gag/ajPpvA8)
- - 👉 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)<!-- MEMES:END -->
+ - ⏩ [The shire used to be peaceful. Then the gates were opened.](http://9gag.com/gag/aqy0wjQ)
+ - 👉 [Anybody else bored of GTA posts?](http://9gag.com/gag/ayNGrrb)<!-- MEMES:END -->
 
 ---
 
