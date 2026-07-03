@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the quant fund frenzy in China, as assets under management have more than doubled to ~$384B in less than a year amid rapid AI adoption &lpar;Bloomberg&rpar;](https://www.techmeme.com/260703/p14#a260703p14)
  - [SHOKZ OpenDots ONE hit Prime Day price again with 30% off, but not for long](https://www.androidauthority.com/shokz-opendots-one-deal-3684227/)
- - [Google Play Store widgets will soon be available for individual Collections](https://www.androidauthority.com/play-store-collections-widgets-3684215/)
- - [Survey reveals which older phone you’d choose over a 2026 model](https://www.androidauthority.com/older-android-phone-2026-poll-results-3684172/)<!-- TECH:END -->
+ - [Google Play Store widgets will soon be available for individual Collections](https://www.androidauthority.com/play-store-collections-widgets-3684215/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
