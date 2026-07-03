@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic moves to close loopholes that let Chinese firms like Ant use its models via workarounds including cloud providers and overseas subsidiaries &lpar;Financial Times&rpar;](https://www.techmeme.com/260703/p2#a260703p2)
- - [EU Politicians Investigated Pegasus Spyware. Then It Ended Up on One of Their Phones](https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/)
- - [SwitchBot Debuts Advanced Camera With AI Event Alerts, Wildlife Recognition](https://www.cnet.com/home/security/switchbot-debuts-advanced-camera-with-ai-event-alerts-wildlife-recognition/)<!-- TECH:END -->
+ - [Think smartphone batteries are simple? This iFixit factory video will change your mind](https://www.androidauthority.com/ifixit-smartphone-battery-factory-video-3684023/)
+ - [Sony Erases Digital Content From Libraries, a Reminder That You Don’t Own What You Buy](https://www.wired.com/story/sony-erases-digital-content-from-libraries/)
+ - [Gemini’s Error 1099 is locking users out, but this unofficial fix could help](https://www.androidauthority.com/google-gemini-error-1099-fix-3684008/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
