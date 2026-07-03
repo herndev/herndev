@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Morphe v1.33.0 patch bundle fixes major app annoyances for YouTube, YouTube Music and Reddit](https://www.androidauthority.com/morphe-v1-33-0-3684047/)
- - [AirPods with Cameras won&#39;t be coming any time soon after all](https://appleinsider.com/articles/26/07/03/airpods-with-cameras-wont-be-coming-any-time-soon-after-all?utm_source=rss)
- - [All Your Favorite Gadgets Are Getting Way More Expensive … Again](https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/)<!-- TECH:END -->
+ - [Jon Prosser responds to Apple lawsuit by blaming the other guy](https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak)
+ - [The Verge’s annual summer ‘in’ and ‘out’ list](https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list)
+ - [Siri AI is finally good, and Apple is going to win the AI wars](https://appleinsider.com/articles/26/07/03/siri-ai-is-finally-good-and-apple-is-going-to-with-the-ai-wars?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
