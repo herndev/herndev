@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Contacts is getting ready for Tap to Share with some ‘Your info’ tweaks](https://www.androidauthority.com/google-contacts-tap-to-share-3684167/)
- - [Amazon just gave the Fire HD 10 a surprise RAM bump and a sneaky price hike](https://www.androidauthority.com/amazon-fire-hd-10-ram-upgrade-3684183/)
- - [Meta getting into the cloud business has been inevitable for a long time, as it seeks to diversify beyond ad revenue and monetize its AI buildout &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260703/p12#a260703p12)<!-- TECH:END -->
+ - [Meta could use its compute for its own models, ad scaling, SpaceX-like neocloud deals, and hosting 3rd-party models; it may be close to an Anthropic deal &lpar;Jeremie Eliahou Ontiveros/SemiAnalysis&rpar;](https://www.techmeme.com/260703/p13#a260703p13)
+ - [Three changes Apple could do to make iPhone Air 2 a hit](https://appleinsider.com/articles/26/07/03/three-changes-apple-could-do-to-make-iphone-air-2-a-hit?utm_source=rss)
+ - [Stop Making These 6 Common Rowing Machine Mistakes](https://www.cnet.com/health/fitness/rowing-machine-mistakes-how-to-fix/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
