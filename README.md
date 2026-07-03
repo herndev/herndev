@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He would like both](http://9gag.com/gag/ajPpvA8)
- - ⏩ [Sit with me and share your most bizarre gifs. I start](http://9gag.com/gag/aXPBm89)
- - 👉 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)<!-- MEMES:END -->
+ - 💣 [No need for one.](http://9gag.com/gag/aRBndOA)
+ - ⏩ [Oh say can you see.......\u266b\u266b\u266b\u266b\u266b\u266b\u266b\u266b](http://9gag.com/gag/aByp5NQ)
+ - 👉 [Them again](http://9gag.com/gag/aVvA5Ky)<!-- MEMES:END -->
 
 ---
 
