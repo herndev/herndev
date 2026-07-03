@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jon Prosser responds to Apple lawsuit by blaming the other guy](https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak)
- - [The Verge’s annual summer ‘in’ and ‘out’ list](https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list)
- - [Siri AI is finally good, and Apple is going to win the AI wars](https://appleinsider.com/articles/26/07/03/siri-ai-is-finally-good-and-apple-is-going-to-with-the-ai-wars?utm_source=rss)<!-- TECH:END -->
+ - [Best 4th of July Apple deals: $89 AirTags, iPads up to $400 off, Macs up to $650 off](https://appleinsider.com/articles/26/07/02/best-4th-of-july-apple-deals-89-airtags-ipads-up-to-400-off-macs-up-to-650-off?utm_source=rss)
+ - [An interview with Sriram Krishnan, who says &quot;there will not be an FDA for AI&quot; under Trump, blames the AI backlash on the industry&#39;s &quot;doomer&quot; messaging, and more &lpar;Financial Times&rpar;](https://www.techmeme.com/260703/p10#a260703p10)
+ - [Google Sheets gets a key visual improvement for data nerds](https://www.androidauthority.com/google-sheets-3d-graphs-3684085/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
