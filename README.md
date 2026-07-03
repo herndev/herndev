@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta could use its compute for its own models, ad scaling, SpaceX-like neocloud deals, and hosting 3rd-party models; it may be close to an Anthropic deal &lpar;Jeremie Eliahou Ontiveros/SemiAnalysis&rpar;](https://www.techmeme.com/260703/p13#a260703p13)
- - [Three changes Apple could do to make iPhone Air 2 a hit](https://appleinsider.com/articles/26/07/03/three-changes-apple-could-do-to-make-iphone-air-2-a-hit?utm_source=rss)
- - [Stop Making These 6 Common Rowing Machine Mistakes](https://www.cnet.com/health/fitness/rowing-machine-mistakes-how-to-fix/)<!-- TECH:END -->
+ - [SHOKZ OpenDots ONE hit Prime Day price again with 30% off, but not for long](https://www.androidauthority.com/shokz-opendots-one-deal-3684227/)
+ - [Google Play Store widgets will soon be available for individual Collections](https://www.androidauthority.com/play-store-collections-widgets-3684215/)
+ - [Survey reveals which older phone you’d choose over a 2026 model](https://www.androidauthority.com/older-android-phone-2026-poll-results-3684172/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
