@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic&#39;s bankers have hired UK law firm Freshfields to advise on its IPO; it also advised on Google&#39;s acquisition of Wiz and ServiceNow&#39;s Armis deal &lpar;The Information&rpar;](https://www.techmeme.com/260702/p39#a260702p39)
- - [Sony’s PlayStation disc factory is already being repurposed](https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead)
- - [Darren Aronofsky&#39;s &#39;1776&#39; AI Video Series Is Unhinged, and I Can&#39;t Look Away](https://www.cnet.com/tech/services-and-software/darren-aronofsky-on-this-day-1776-ai-series-midseason-review/)<!-- TECH:END -->
+ - [Sources: Anthropic moves to close loopholes that let Chinese firms like Ant use its models via workarounds including cloud providers and overseas subsidiaries &lpar;Financial Times&rpar;](https://www.techmeme.com/260703/p2#a260703p2)
+ - [EU Politicians Investigated Pegasus Spyware. Then It Ended Up on One of Their Phones](https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/)
+ - [SwitchBot Debuts Advanced Camera With AI Event Alerts, Wildlife Recognition](https://www.cnet.com/home/security/switchbot-debuts-advanced-camera-with-ai-event-alerts-wildlife-recognition/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
