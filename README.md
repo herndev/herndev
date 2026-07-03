@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Think smartphone batteries are simple? This iFixit factory video will change your mind](https://www.androidauthority.com/ifixit-smartphone-battery-factory-video-3684023/)
- - [Sony Erases Digital Content From Libraries, a Reminder That You Don’t Own What You Buy](https://www.wired.com/story/sony-erases-digital-content-from-libraries/)
- - [Gemini’s Error 1099 is locking users out, but this unofficial fix could help](https://www.androidauthority.com/google-gemini-error-1099-fix-3684008/)<!-- TECH:END -->
+ - [Morphe v1.33.0 patch bundle fixes major app annoyances for YouTube, YouTube Music and Reddit](https://www.androidauthority.com/morphe-v1-33-0-3684047/)
+ - [AirPods with Cameras won&#39;t be coming any time soon after all](https://appleinsider.com/articles/26/07/03/airpods-with-cameras-wont-be-coming-any-time-soon-after-all?utm_source=rss)
+ - [All Your Favorite Gadgets Are Getting Way More Expensive … Again](https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
