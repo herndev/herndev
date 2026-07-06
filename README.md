@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No need for one.](http://9gag.com/gag/aRBndOA)
- - ⏩ [Oh say can you see.......\u266b\u266b\u266b\u266b\u266b\u266b\u266b\u266b](http://9gag.com/gag/aByp5NQ)
- - 👉 [Them again](http://9gag.com/gag/aVvA5Ky)<!-- MEMES:END -->
+ - 💣 [The memes can continue, thanks to Haaland the Viking](http://9gag.com/gag/ayNGb2V)
+ - ⏩ [Good boiiiii](http://9gag.com/gag/awywWWQ)
+ - 👉 [How the off button on a fan works](http://9gag.com/gag/aPA5bOB)<!-- MEMES:END -->
 
 ---
 
