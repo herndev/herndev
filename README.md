@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [British police again. Man gets kicked off his bike, let the guy who did it go about like it&#39;s normal.](http://9gag.com/gag/abA7NWv)
- - ⏩ [...](http://9gag.com/gag/a2ve3BE)
- - 👉 [Row row row your boat](http://9gag.com/gag/ajPpzLq)<!-- MEMES:END -->
+ - ⏩ [Scammers are everywhere](http://9gag.com/gag/aD2yKZB)
+ - 👉 [43rd bday and wife and son didn\u2019t even get me a 50 cent card or even a text message. I\u2019m always expected to spend thousands of dollars on them on holiday and bdays. Not anymore. At least I got my 9gag degenerates. Fock you and see you tomorrow](http://9gag.com/gag/aryY7Oy)<!-- MEMES:END -->
 
 ---
 
