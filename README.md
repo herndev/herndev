@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Samsung union leader Choi Seung-ho, who helped win a ~$26B bonus package for chip employees, as he tries to resolve the rift over bonus gaps &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260706/p12#a260706p12)
- - [9 Best Keyboards &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-keyboards/)
- - [Q&amp;A with Agility Robotics CEO Peggy Johnson on why the startup is going public via SPAC, the physical layer as its proprietary advantage, safety, and more &lpar;Connie Loizos/TechCrunch&rpar;](https://www.techmeme.com/260706/p11#a260706p11)<!-- TECH:END -->
+ - [Apple Watch Ultra 3 drops to $699 with $100 Amazon discount](https://appleinsider.com/articles/26/07/06/apple-watch-ultra-3-drops-to-699-with-100-amazon-discount?utm_source=rss)
+ - [Nintendo plans to stop selling the original Switch, Lite, and OLED in Europe from mid-February 2027 and update the Switch 2 to comply with new EU battery rules &lpar;Andrew Webster/The Verge&rpar;](https://www.techmeme.com/260706/p22#a260706p22)
+ - [Fed up with YouTube Music on desktop? This unofficial open-source client offers a fix](https://www.androidauthority.com/ytubic-youtube-music-desktop-client-3684440/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
