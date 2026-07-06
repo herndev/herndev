@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is warning when your AI prompts go to Google&#39;s servers, just like with ChatGPT](https://appleinsider.com/articles/26/07/06/apple-is-warning-when-your-ai-prompts-go-to-googles-servers-just-like-with-chatgpt?utm_source=rss)
- - [Gemini keeps cranking headphone volume levels — but Google’s on the case](https://www.androidauthority.com/gemini-volume-headphones-3684568/)
- - [Sources: Vista Equity and Quinti made a takeover bid for Criteo that values the French ad tech company at a 50%+ premium to its stock price in recent weeks &lpar;Bloomberg&rpar;](https://www.techmeme.com/260706/p33#a260706p33)<!-- TECH:END -->
+ - [xAI rebrands to SpaceXAI and debuts a new logo &lpar;Kelsey Vlamis/Business Insider&rpar;](https://www.techmeme.com/260706/p36#a260706p36)
+ - [Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don&#39;t appear in the model&#39;s output &lpar;Anthropic&rpar;](https://www.techmeme.com/260706/p35#a260706p35)
+ - [BonkDAO, which oversees the Bonk memecoin, says it was the target of a &quot;malicious governance proposal&quot; that resulted in a loss of $20M worth of Bonk tokens &lpar;Daniel Kuhn/The Block&rpar;](https://www.techmeme.com/260706/p34#a260706p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
