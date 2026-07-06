@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The memes can continue, thanks to Haaland the Viking](http://9gag.com/gag/ayNGb2V)
- - ⏩ [Good boiiiii](http://9gag.com/gag/awywWWQ)
- - 👉 [How the off button on a fan works](http://9gag.com/gag/aPA5bOB)<!-- MEMES:END -->
+ - 💣 [Indian yeet kid 2026 meme](http://9gag.com/gag/aQzGWnW)
+ - ⏩ [This dog was not fcuking around](http://9gag.com/gag/aAyjzzE)
+ - 👉 [I can&#39;t keep up with the indians wtf moments anymore](http://9gag.com/gag/aXPBOg6)<!-- MEMES:END -->
 
 ---
 
