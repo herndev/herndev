@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the quant fund frenzy in China, as assets under management have more than doubled to ~$384B in less than a year amid rapid AI adoption &lpar;Bloomberg&rpar;](https://www.techmeme.com/260703/p14#a260703p14)
- - [SHOKZ OpenDots ONE hit Prime Day price again with 30% off, but not for long](https://www.androidauthority.com/shokz-opendots-one-deal-3684227/)
- - [Google Play Store widgets will soon be available for individual Collections](https://www.androidauthority.com/play-store-collections-widgets-3684215/)<!-- TECH:END -->
+ - [A look at Threads and Q&amp;A with its head Connor Hayes, as the platform passes 500M MAUs and increasingly resembles Reddit with its focus on community features &lpar;Eli Tan/New York Times&rpar;](https://www.techmeme.com/260705/p12#a260705p12)
+ - [Kuo: suppliers plan to ship less than 1M iPhone fold units in 3Q26, which may push the start of device pre-orders and sales to Q4, with weeks of delivery delays &lpar;Ming-Chi Kuo&rpar;](https://www.techmeme.com/260705/p11#a260705p11)
+ - [Some of the nation’s rich are letting AI teach their kids](https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
