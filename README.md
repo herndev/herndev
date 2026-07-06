@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow.](http://9gag.com/gag/a34m65v)
- - ⏩ [British police again. Man gets kicked off his bike, let the guy who did it go about like it&#39;s normal.](http://9gag.com/gag/abA7NWv)
- - 👉 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)<!-- MEMES:END -->
+ - 💣 [British police again. Man gets kicked off his bike, let the guy who did it go about like it&#39;s normal.](http://9gag.com/gag/abA7NWv)
+ - ⏩ [...](http://9gag.com/gag/a2ve3BE)
+ - 👉 [Row row row your boat](http://9gag.com/gag/ajPpzLq)<!-- MEMES:END -->
 
 ---
 
