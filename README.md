@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H is blowing out M4 Pro MacBook Pro inventory at $1,799](https://appleinsider.com/articles/26/07/06/bh-is-blowing-out-m4-pro-macbook-pro-inventory-at-1799?utm_source=rss)
- - [New in iOS 27 beta 3: Siri AI voice customization options](https://appleinsider.com/articles/26/07/06/new-in-ios-27-beta-3-siri-ai-voice-customization-options?utm_source=rss)
- - [Gemini Live could give you more control over what it hears with push-to-talk mode](https://www.androidauthority.com/gemini-live-push-to-talk-3684532/)<!-- TECH:END -->
+ - [Apple is warning when your AI prompts go to Google&#39;s servers, just like with ChatGPT](https://appleinsider.com/articles/26/07/06/apple-is-warning-when-your-ai-prompts-go-to-googles-servers-just-like-with-chatgpt?utm_source=rss)
+ - [Gemini keeps cranking headphone volume levels — but Google’s on the case](https://www.androidauthority.com/gemini-volume-headphones-3684568/)
+ - [Sources: Vista Equity and Quinti made a takeover bid for Criteo that values the French ad tech company at a 50%+ premium to its stock price in recent weeks &lpar;Bloomberg&rpar;](https://www.techmeme.com/260706/p33#a260706p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
