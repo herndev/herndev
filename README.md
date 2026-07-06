@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A term sheet shows Tencent is seeking to raise as much as $1.55B in a selldown of part of its stake in short-video app operator Kuaishou through a block trade &lpar;Julia Fioretti/Bloomberg&rpar;](https://www.techmeme.com/260706/p26#a260706p26)
- - [Five questions for Dr. Rubin, who’s armed with a mic and a bowtie](https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview)
- - [iPhone 17 Pro Max will represent America&#39;s present, in 250 years](https://appleinsider.com/articles/26/07/06/iphone-17-pro-max-will-represent-americas-present-in-250-years?utm_source=rss)<!-- TECH:END -->
+ - [B&amp;H is blowing out M4 Pro MacBook Pro inventory at $1,799](https://appleinsider.com/articles/26/07/06/bh-is-blowing-out-m4-pro-macbook-pro-inventory-at-1799?utm_source=rss)
+ - [New in iOS 27 beta 3: Siri AI voice customization options](https://appleinsider.com/articles/26/07/06/new-in-ios-27-beta-3-siri-ai-voice-customization-options?utm_source=rss)
+ - [Gemini Live could give you more control over what it hears with push-to-talk mode](https://www.androidauthority.com/gemini-live-push-to-talk-3684532/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
