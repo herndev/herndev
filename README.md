@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI rebrands to SpaceXAI and debuts a new logo &lpar;Kelsey Vlamis/Business Insider&rpar;](https://www.techmeme.com/260706/p36#a260706p36)
- - [Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don&#39;t appear in the model&#39;s output &lpar;Anthropic&rpar;](https://www.techmeme.com/260706/p35#a260706p35)
- - [BonkDAO, which oversees the Bonk memecoin, says it was the target of a &quot;malicious governance proposal&quot; that resulted in a loss of $20M worth of Bonk tokens &lpar;Daniel Kuhn/The Block&rpar;](https://www.techmeme.com/260706/p34#a260706p34)<!-- TECH:END -->
+ - [Syntiant, which develops low-power AI processors, files for a US IPO, reporting a $20.9M net loss on $64.5M in revenue for the three months ended March 31 &lpar;Pragyan Kalita/Reuters&rpar;](https://www.techmeme.com/260706/p38#a260706p38)
+ - [Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B &lpar;Reuters&rpar;](https://www.techmeme.com/260706/p37#a260706p37)
+ - [xAI rebrands to SpaceXAI and debuts a new logo &lpar;Kelsey Vlamis/Business Insider&rpar;](https://www.techmeme.com/260706/p36#a260706p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
