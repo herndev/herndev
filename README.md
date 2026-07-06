@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SemiAnalysis: Nvidia delays its next-gen AI rack system Kyber NVL144 by 12+ months to 2028 due to PCB manufacturing issues, and cancels its NVL72x2 architecture &lpar;Anniek Bao/CNBC&rpar;](https://www.techmeme.com/260706/p3#a260706p3)
- - [Shanghai-based AI chipmaker Biren raises ~$892.5M in a new share sale to boost GPU production; Biren&#39;s stock is up 150%+ since its January Hong Kong IPO &lpar;Ann Cao/South China Morning Post&rpar;](https://www.techmeme.com/260706/p2#a260706p2)
- - [Someone turned a reMarkable Paper Pro into Tom Riddle’s diary, complete with disappearing ink](https://www.androidauthority.com/remarkable-paper-pro-tom-riddles-diary-disappearing-ink-3684286/)<!-- TECH:END -->
+ - [A profile of Samsung union leader Choi Seung-ho, who helped win a ~$26B bonus package for chip employees, as he tries to resolve the rift over bonus gaps &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260706/p12#a260706p12)
+ - [9 Best Keyboards &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-keyboards/)
+ - [Q&amp;A with Agility Robotics CEO Peggy Johnson on why the startup is going public via SPAC, the physical layer as its proprietary advantage, safety, and more &lpar;Connie Loizos/TechCrunch&rpar;](https://www.techmeme.com/260706/p11#a260706p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
