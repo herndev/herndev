@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra 3 drops to $699 with $100 Amazon discount](https://appleinsider.com/articles/26/07/06/apple-watch-ultra-3-drops-to-699-with-100-amazon-discount?utm_source=rss)
- - [Nintendo plans to stop selling the original Switch, Lite, and OLED in Europe from mid-February 2027 and update the Switch 2 to comply with new EU battery rules &lpar;Andrew Webster/The Verge&rpar;](https://www.techmeme.com/260706/p22#a260706p22)
- - [Fed up with YouTube Music on desktop? This unofficial open-source client offers a fix](https://www.androidauthority.com/ytubic-youtube-music-desktop-client-3684440/)<!-- TECH:END -->
+ - [A term sheet shows Tencent is seeking to raise as much as $1.55B in a selldown of part of its stake in short-video app operator Kuaishou through a block trade &lpar;Julia Fioretti/Bloomberg&rpar;](https://www.techmeme.com/260706/p26#a260706p26)
+ - [Five questions for Dr. Rubin, who’s armed with a mic and a bowtie](https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview)
+ - [iPhone 17 Pro Max will represent America&#39;s present, in 250 years](https://appleinsider.com/articles/26/07/06/iphone-17-pro-max-will-represent-americas-present-in-250-years?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
