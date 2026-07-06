@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Threads and Q&amp;A with its head Connor Hayes, as the platform passes 500M MAUs and increasingly resembles Reddit with its focus on community features &lpar;Eli Tan/New York Times&rpar;](https://www.techmeme.com/260705/p12#a260705p12)
- - [Kuo: suppliers plan to ship less than 1M iPhone fold units in 3Q26, which may push the start of device pre-orders and sales to Q4, with weeks of delivery delays &lpar;Ming-Chi Kuo&rpar;](https://www.techmeme.com/260705/p11#a260705p11)
- - [Some of the nation’s rich are letting AI teach their kids](https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep)<!-- TECH:END -->
+ - [SemiAnalysis: Nvidia delays its next-gen AI rack system Kyber NVL144 by 12+ months to 2028 due to PCB manufacturing issues, and cancels its NVL72x2 architecture &lpar;Anniek Bao/CNBC&rpar;](https://www.techmeme.com/260706/p3#a260706p3)
+ - [Shanghai-based AI chipmaker Biren raises ~$892.5M in a new share sale to boost GPU production; Biren&#39;s stock is up 150%+ since its January Hong Kong IPO &lpar;Ann Cao/South China Morning Post&rpar;](https://www.techmeme.com/260706/p2#a260706p2)
+ - [Someone turned a reMarkable Paper Pro into Tom Riddle’s diary, complete with disappearing ink](https://www.androidauthority.com/remarkable-paper-pro-tom-riddles-diary-disappearing-ink-3684286/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
