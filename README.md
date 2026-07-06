@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Row row row your boat](http://9gag.com/gag/ajPpzLq)
+ - 💣 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
  - ⏩ [Wow.](http://9gag.com/gag/a34m65v)
- - 👉 [\u200e \u200e](http://9gag.com/gag/awywEWy)<!-- MEMES:END -->
+ - 👉 [Indian yeet kid 2026 meme](http://9gag.com/gag/aQzGWnW)<!-- MEMES:END -->
 
 ---
 
