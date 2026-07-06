@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
- - ⏩ [Wow.](http://9gag.com/gag/a34m65v)
- - 👉 [Indian yeet kid 2026 meme](http://9gag.com/gag/aQzGWnW)<!-- MEMES:END -->
+ - 💣 [Noice](http://9gag.com/gag/aByppZN)
+ - ⏩ [As Norway moves forward, the Viking row evolves into something increasingly powerful and beautiful.](http://9gag.com/gag/azxnWdz)
+ - 👉 [World class + Norway never lost to Brazil](http://9gag.com/gag/aGyXXVX)<!-- MEMES:END -->
 
 ---
 
