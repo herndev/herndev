@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro tried to warn him multiple times](http://9gag.com/gag/a4PvDop)
- - ⏩ [A glitch in the matrix, proof we live in a simulation](http://9gag.com/gag/awywwm8)
- - 👉 [\u200e \u200e](http://9gag.com/gag/awywEWy)<!-- MEMES:END -->
+ - 💣 [This was cool admit it](http://9gag.com/gag/aryYjqK)
+ - ⏩ [On behalf entire normal world, thank you Belgium &lt;3](http://9gag.com/gag/aQzGGG2)
+ - 👉 [STRANGELY WELL BEHAVED when white men are out in force?](http://9gag.com/gag/an766yb)<!-- MEMES:END -->
 
 ---
 
