@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everyone should have a trustworthy VPN &amp; at $2.99 per month, Proton is a great choice](https://appleinsider.com/articles/26/07/07/everyone-should-have-a-trustworthy-vpn-at-299-per-month-proton-is-a-great-choice?utm_source=rss)
- - [Apple supplier Luxshare raised ~$3.1B in its Hong Kong IPO, selling 383.5M shares at ~$8 each, the top of its marketed range, and will start trading on Thursday &lpar;Bloomberg&rpar;](https://www.techmeme.com/260707/p20#a260707p20)
- - [Solos unveils the AirGo A6 camera-less smart glasses, cutting the weight to 19g from the AirGo A5&#39;s 36g to 40g, and V2 privacy accessories like a clip-on shield &lpar;Andrew Liszewski/The Verge&rpar;](https://www.techmeme.com/260707/p19#a260707p19)<!-- TECH:END -->
+ - [Netflix signs deals with Penske Media, Condé Nast, Hearst, People, and other publishers to carry a range of programming from 2 to 20+ minutes, starting August 3 &lpar;William Earl/Variety&rpar;](https://www.techmeme.com/260707/p27#a260707p27)
+ - [Thanks, AI companies: Sub-$400 phones could see a huge decline due to RAM crisis](https://www.androidauthority.com/rising-ram-costs-sub-400-smartphones-3684871/)
+ - [The highly rated UGREEN Nexode Air 65W charger is back to its all-time low price on Amazon](https://www.androidauthority.com/ugreen-nexode-air-65w-charger-deal-3684926/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
