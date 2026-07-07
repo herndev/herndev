@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google throws Voice a lifeline with addition of two new personal paid tiers](https://www.androidauthority.com/google-voice-personal-paid-plans-3684963/)
- - [Anthropic extends Claude Fable 5 access to all paid plans through July 12; access to the model was set to shift to token-based usage on July 7 &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260707/p31#a260707p31)
- - [X says top accounts steal videos from other users as it announces new video tools](https://www.theverge.com/tech/962415/x-video-editor-recycled-content)<!-- TECH:END -->
+ - [Meta’s new Muse Image model can pull other Instagram users into AI photos](https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram)
+ - [Meta launches Muse Image in Meta AI, Instagram, and WhatsApp, and previews Muse Video, the first media generation models from its Superintelligence Labs &lpar;Meta&rpar;](https://www.techmeme.com/260707/p33#a260707p33)
+ - [Claude Cowork lands on web and mobile to handle the office work you hate doing](https://www.androidauthority.com/claude-cowork-mobile-and-web-rollout-3685016/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
