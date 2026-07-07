@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic plans to lease a 16-story building in Lower Manhattan and double its NYC workforce to 1,000 people this year, as AI companies expand in the city &lpar;New York Times&rpar;](https://www.techmeme.com/260707/p36#a260707p36)
- - [Of course viewers are giving up on Netflix shows](https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok)
- - [OpenAI Chief Futurist Joshua Achiam is leaving the company later this month after nearly nine years &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260707/p35#a260707p35)<!-- TECH:END -->
+ - [Sources detail Xbox&#39;s big reset after its Game Pass strategy failed; Xbox spent nearly $80B on content deals, but gamers prefer to stick with a handful of games &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](https://www.techmeme.com/260707/p39#a260707p39)
+ - [Samsung announces a Galaxy Unpacked event on July 22 in London, where it is expected to debut new foldables, including a Fold 8 with a shorter and wider design &lpar;Chris Welch/Bloomberg&rpar;](https://www.techmeme.com/260707/p38#a260707p38)
+ - [Samsung confirms Unpacked event for later this month — mark your calendars!](https://www.androidauthority.com/samsung-galaxy-unpacked-fold-8-date-3685030/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
