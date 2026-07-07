@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True love](http://9gag.com/gag/aZZee3W)
- - ⏩ [Wow.](http://9gag.com/gag/a34m65v)
- - 👉 [Uncontrollable monsters](http://9gag.com/gag/aVvAy9y)<!-- MEMES:END -->
+ - 💣 [Uncontrollable monsters](http://9gag.com/gag/aVvAy9y)
+ - ⏩ [True love](http://9gag.com/gag/aZZee3W)
+ - 👉 [Scammers are everywhere](http://9gag.com/gag/aD2yKZB)<!-- MEMES:END -->
 
 ---
 
