@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Terramaster F4-425 Pro review: Excellent set-and-forget networking hardware](https://appleinsider.com/articles/26/07/07/terramaster-f4-425-pro-review-excellent-set-and-forget-networking-hardware?utm_source=rss)
- - [WiseTech co-founder Richard White steps down as chair amid a police probe over claims he exploited a woman&#39;s immigration status for sex; WTC jumps 7%+ &lpar;Peter Vercoe/Bloomberg&rpar;](https://www.techmeme.com/260706/p40#a260706p40)
- - [A profile of Bernadette Meehan, a US diplomat who became Wikimedia Foundation CEO in January, as Wikipedia faces threats from MAGA, AI, and foreign autocrats &lpar;Tiffany Hsu/New York Times&rpar;](https://www.techmeme.com/260706/p39#a260706p39)<!-- TECH:END -->
+ - [Instacart Promo Code: $15 Off | July 2026](https://www.wired.com/story/instacart-promo/code/)
+ - [Expedia Coupons: 75% Off](https://www.wired.com/story/expedia-coupon/)
+ - [Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts](https://www.wired.com/story/lovehoney-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
