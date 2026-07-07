@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Syntiant, which develops low-power AI processors, files for a US IPO, reporting a $20.9M net loss on $64.5M in revenue for the three months ended March 31 &lpar;Pragyan Kalita/Reuters&rpar;](https://www.techmeme.com/260706/p38#a260706p38)
- - [Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B &lpar;Reuters&rpar;](https://www.techmeme.com/260706/p37#a260706p37)
- - [xAI rebrands to SpaceXAI and debuts a new logo &lpar;Kelsey Vlamis/Business Insider&rpar;](https://www.techmeme.com/260706/p36#a260706p36)<!-- TECH:END -->
+ - [Terramaster F4-425 Pro review: Excellent set-and-forget networking hardware](https://appleinsider.com/articles/26/07/07/terramaster-f4-425-pro-review-excellent-set-and-forget-networking-hardware?utm_source=rss)
+ - [WiseTech co-founder Richard White steps down as chair amid a police probe over claims he exploited a woman&#39;s immigration status for sex; WTC jumps 7%+ &lpar;Peter Vercoe/Bloomberg&rpar;](https://www.techmeme.com/260706/p40#a260706p40)
+ - [A profile of Bernadette Meehan, a US diplomat who became Wikimedia Foundation CEO in January, as Wikipedia faces threats from MAGA, AI, and foreign autocrats &lpar;Tiffany Hsu/New York Times&rpar;](https://www.techmeme.com/260706/p39#a260706p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
