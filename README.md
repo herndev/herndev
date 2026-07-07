@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instacart Promo Code: $15 Off | July 2026](https://www.wired.com/story/instacart-promo/code/)
- - [Expedia Coupons: 75% Off](https://www.wired.com/story/expedia-coupon/)
- - [Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts](https://www.wired.com/story/lovehoney-discount-code/)<!-- TECH:END -->
+ - [Apple just rolled out a neat wallpaper trick Android users will envy](https://www.androidauthority.com/apple-ios-27-developer-beta-3-wallpaper-3d-effect-3684729/)
+ - [OpenRouter: Chinese AI models have drawn 30%+ of token use by US companies each week since February 8, peaking at 46%, up from 11% over the previous 12 months &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260707/p5#a260707p5)
+ - [New iPhone 18 Pro Max battery details leak, and Samsung should be very worried](https://www.androidauthority.com/apple-iphone-18-pro-battery-leak-3684726/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
