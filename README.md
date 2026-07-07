@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its 1450 downvotes by now](http://9gag.com/gag/aLnxyWA)
- - ⏩ [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
+ - 💣 [Bro tried to warn him multiple times](http://9gag.com/gag/a4PvDop)
+ - ⏩ [A glitch in the matrix, proof we live in a simulation](http://9gag.com/gag/awywwm8)
  - 👉 [\u200e \u200e](http://9gag.com/gag/awywEWy)<!-- MEMES:END -->
 
 ---
