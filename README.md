@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was cool admit it](http://9gag.com/gag/aryYjqK)
- - ⏩ [On behalf entire normal world, thank you Belgium &lt;3](http://9gag.com/gag/aQzGGG2)
- - 👉 [STRANGELY WELL BEHAVED when white men are out in force?](http://9gag.com/gag/an766yb)<!-- MEMES:END -->
+ - 💣 [The Tom scream took me out](http://9gag.com/gag/a5Q4Ozg)
+ - ⏩ [Grand daddy was ALL business. Rich folk problems](http://9gag.com/gag/avyNMmb)
+ - 👉 [\u200e \u200e](http://9gag.com/gag/awywEWy)<!-- MEMES:END -->
 
 ---
 
