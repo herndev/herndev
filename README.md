@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Haters will say it&#39;s A.I.](http://9gag.com/gag/aMVgMmM)
+ - 💣 [True love](http://9gag.com/gag/aZZee3W)
  - ⏩ [Wow.](http://9gag.com/gag/a34m65v)
- - 👉 [Trump said it wasn&#39;t fair so he asked for a review](http://9gag.com/gag/adBEExN)<!-- MEMES:END -->
+ - 👉 [Uncontrollable monsters](http://9gag.com/gag/aVvAy9y)<!-- MEMES:END -->
 
 ---
 
