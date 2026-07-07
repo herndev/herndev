@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple just rolled out a neat wallpaper trick Android users will envy](https://www.androidauthority.com/apple-ios-27-developer-beta-3-wallpaper-3d-effect-3684729/)
- - [OpenRouter: Chinese AI models have drawn 30%+ of token use by US companies each week since February 8, peaking at 46%, up from 11% over the previous 12 months &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260707/p5#a260707p5)
- - [New iPhone 18 Pro Max battery details leak, and Samsung should be very worried](https://www.androidauthority.com/apple-iphone-18-pro-battery-leak-3684726/)<!-- TECH:END -->
+ - [The Best iPhone 17 Cases &lpar;2026&rpar;: Our Picks After Testing 100+](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)
+ - [Paris-based UMA, founded by ex-Tesla Optimus scientist Rémi Cadene and ex-Google DeepMind researcher Pierre Sermanet, demos its Northstar AI humanoid robot &lpar;Benoit Berthelot/Bloomberg&rpar;](https://www.techmeme.com/260707/p13#a260707p13)
+ - [iPhone Air 2 battery expected to hit 30 hours of use from a single charge](https://appleinsider.com/articles/26/07/07/iphone-air-2-battery-expected-to-hit-30-hours-of-use-from-a-single-charge?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
