@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix signs deals with Penske Media, Condé Nast, Hearst, People, and other publishers to carry a range of programming from 2 to 20+ minutes, starting August 3 &lpar;William Earl/Variety&rpar;](https://www.techmeme.com/260707/p27#a260707p27)
- - [Thanks, AI companies: Sub-$400 phones could see a huge decline due to RAM crisis](https://www.androidauthority.com/rising-ram-costs-sub-400-smartphones-3684871/)
- - [The highly rated UGREEN Nexode Air 65W charger is back to its all-time low price on Amazon](https://www.androidauthority.com/ugreen-nexode-air-65w-charger-deal-3684926/)<!-- TECH:END -->
+ - [Google throws Voice a lifeline with addition of two new personal paid tiers](https://www.androidauthority.com/google-voice-personal-paid-plans-3684963/)
+ - [Anthropic extends Claude Fable 5 access to all paid plans through July 12; access to the model was set to shift to token-based usage on July 7 &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260707/p31#a260707p31)
+ - [X says top accounts steal videos from other users as it announces new video tools](https://www.theverge.com/tech/962415/x-video-editor-recycled-content)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
