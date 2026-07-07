@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s new Muse Image model can pull other Instagram users into AI photos](https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram)
- - [Meta launches Muse Image in Meta AI, Instagram, and WhatsApp, and previews Muse Video, the first media generation models from its Superintelligence Labs &lpar;Meta&rpar;](https://www.techmeme.com/260707/p33#a260707p33)
- - [Claude Cowork lands on web and mobile to handle the office work you hate doing](https://www.androidauthority.com/claude-cowork-mobile-and-web-rollout-3685016/)<!-- TECH:END -->
+ - [Anthropic plans to lease a 16-story building in Lower Manhattan and double its NYC workforce to 1,000 people this year, as AI companies expand in the city &lpar;New York Times&rpar;](https://www.techmeme.com/260707/p36#a260707p36)
+ - [Of course viewers are giving up on Netflix shows](https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok)
+ - [OpenAI Chief Futurist Joshua Achiam is leaving the company later this month after nearly nine years &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260707/p35#a260707p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
