@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Wow.](http://9gag.com/gag/a34m65v)
- - ⏩ [Row row row your boat](http://9gag.com/gag/ajPpzLq)
- - 👉 [Scammers are everywhere](http://9gag.com/gag/aD2yKZB)<!-- MEMES:END -->
+ - ⏩ [True love](http://9gag.com/gag/aZZee3W)
+ - 👉 [STRANGELY WELL BEHAVED when white men are out in force?](http://9gag.com/gag/an766yb)<!-- MEMES:END -->
 
 ---
 
