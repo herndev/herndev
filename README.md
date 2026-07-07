@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Tom scream took me out](http://9gag.com/gag/a5Q4Ozg)
- - ⏩ [Grand daddy was ALL business. Rich folk problems](http://9gag.com/gag/avyNMmb)
- - 👉 [\u200e \u200e](http://9gag.com/gag/awywEWy)<!-- MEMES:END -->
+ - 💣 [Bro tried to warn him multiple times](http://9gag.com/gag/a4PvDop)
+ - ⏩ [\u200e \u200e](http://9gag.com/gag/awywEWy)
+ - 👉 [True love](http://9gag.com/gag/aZZee3W)<!-- MEMES:END -->
 
 ---
 
