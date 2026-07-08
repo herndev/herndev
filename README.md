@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro tried to warn him multiple times](http://9gag.com/gag/a4PvDop)
- - ⏩ [A professional female athlete vs a random dad from the audience](http://9gag.com/gag/a4Pvvzd)
- - 👉 [This was cool admit it](http://9gag.com/gag/aryYjqK)<!-- MEMES:END -->
+ - 💣 [Spot the legendary Greek Warrior](http://9gag.com/gag/a2veBPd)
+ - ⏩ [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
+ - 👉 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)<!-- MEMES:END -->
 
 ---
 
