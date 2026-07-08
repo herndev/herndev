@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Inconvenience overloaded](http://9gag.com/gag/ayNGOE8)
- - ⏩ [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
- - 👉 [...](http://9gag.com/gag/a2ve3BE)<!-- MEMES:END -->
+ - 💣 [Dont google it](http://9gag.com/gag/aVvAN9d)
+ - ⏩ [A professional female athlete vs a random dad from the audience](http://9gag.com/gag/a4Pvvzd)
+ - 👉 [This was cool admit it](http://9gag.com/gag/aryYjqK)<!-- MEMES:END -->
 
 ---
 
