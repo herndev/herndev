@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dont google it](http://9gag.com/gag/aVvAN9d)
+ - 💣 [Bro tried to warn him multiple times](http://9gag.com/gag/a4PvDop)
  - ⏩ [A professional female athlete vs a random dad from the audience](http://9gag.com/gag/a4Pvvzd)
  - 👉 [This was cool admit it](http://9gag.com/gag/aryYjqK)<!-- MEMES:END -->
 
