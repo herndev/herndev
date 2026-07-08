@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)
- - ⏩ [Daily Cat Picture](http://9gag.com/gag/a6ZPvGA)
- - 👉 [No she is judge no more](http://9gag.com/gag/a9yo3qm)<!-- MEMES:END -->
+ - 💣 [From the archives of my old PC](http://9gag.com/gag/ajPpoN1)
+ - ⏩ [Only the really smart people knows the answer...](http://9gag.com/gag/agmWM3w)
+ - 👉 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)<!-- MEMES:END -->
 
 ---
 
