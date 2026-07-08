@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If Microsoft sold off Xbox, who would even buy it?](https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma)
- - [Twelve South’s AirFly Pro is a great travel companion, and it&amp;#8217;s on sale for $40](https://www.theverge.com/gadgets/962910/twelve-south-airfly-pro-summer-travel-gadgets-deal-sale)
- - [OpenAI launches GPT-Live, a new generation of voice models built on a full-duplex architecture, meaning they can listen and speak at the same time &lpar;OpenAI&rpar;](https://www.techmeme.com/260708/p36#a260708p36)<!-- TECH:END -->
+ - [Microsoft&amp;#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed](https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs)
+ - [Encrypted HFS+ drive support dies in macOS 28](https://appleinsider.com/articles/26/07/08/encrypted-hfs-drive-support-dies-in-macos-28?utm_source=rss)
+ - [TV show purchases on Apple TV are finally getting free 4K upgrades](https://appleinsider.com/articles/26/07/08/tv-show-purchases-on-apple-tv-are-finally-getting-free-4k-upgrades?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
