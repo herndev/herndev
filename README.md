@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail Xbox&#39;s big reset after its Game Pass strategy failed; Xbox spent nearly $80B on content deals, but gamers prefer to stick with a handful of games &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](https://www.techmeme.com/260707/p39#a260707p39)
- - [Samsung announces a Galaxy Unpacked event on July 22 in London, where it is expected to debut new foldables, including a Fold 8 with a shorter and wider design &lpar;Chris Welch/Bloomberg&rpar;](https://www.techmeme.com/260707/p38#a260707p38)
- - [Samsung confirms Unpacked event for later this month — mark your calendars!](https://www.androidauthority.com/samsung-galaxy-unpacked-fold-8-date-3685030/)<!-- TECH:END -->
+ - [Meta announces that it will be updating its glasses with a new feature that disables the camera if someone tampers with the glasses&#39; privacy LED light &lpar;Victoria Song/The Verge&rpar;](https://www.techmeme.com/260707/p41#a260707p41)
+ - [Meta says Muse Image includes an invisible watermarking system called Content Seal and previews a web tool to check whether an image was generated with Meta AI &lpar;Karissa Bell/Engadget&rpar;](https://www.techmeme.com/260707/p40#a260707p40)
+ - [Boox Go 6 Gen II review: Delightful, just not that impressive](https://appleinsider.com/articles/26/07/08/boox-go-6-gen-ii-review-delightful-just-not-that-impressive?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
