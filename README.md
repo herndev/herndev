@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile is making two of its best deals unavailable to its own customers](https://www.androidauthority.com/t-mobile-keep-switch-family-freedom-deals-changes-3685566/)
- - [Now’s your chance to try Google’s new Video Remix tool in Photos](https://www.androidauthority.com/google-photos-video-remix-2-3685561/)
- - [OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark &lpar;OpenAI&rpar;](https://www.techmeme.com/260708/p41#a260708p41)<!-- TECH:END -->
+ - [Meta is reportedly working on smart glasses that would be recording all the time](https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai)
+ - [The FTC settles with John Deere over a 2025 right-to-repair lawsuit, requiring the company to provide farmers and shops with equipment and software for 10 years &lpar;Boone Ashworth/Wired&rpar;](https://www.techmeme.com/260708/p42#a260708p42)
+ - [T-Mobile is making two of its best deals unavailable to its own customers](https://www.androidauthority.com/t-mobile-keep-switch-family-freedom-deals-changes-3685566/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
