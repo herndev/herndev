@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta announces that it will be updating its glasses with a new feature that disables the camera if someone tampers with the glasses&#39; privacy LED light &lpar;Victoria Song/The Verge&rpar;](https://www.techmeme.com/260707/p41#a260707p41)
- - [Meta says Muse Image includes an invisible watermarking system called Content Seal and previews a web tool to check whether an image was generated with Meta AI &lpar;Karissa Bell/Engadget&rpar;](https://www.techmeme.com/260707/p40#a260707p40)
- - [Boox Go 6 Gen II review: Delightful, just not that impressive](https://appleinsider.com/articles/26/07/08/boox-go-6-gen-ii-review-delightful-just-not-that-impressive?utm_source=rss)<!-- TECH:END -->
+ - [LineageOS announces browser flashing, Android 17 plans, and new supported devices](https://www.androidauthority.com/lineageos-summertime-update-2026-3685112/)
+ - [Nvidia and AI chip startup d-Matrix are combining their hardware in a new system to power AI models, the latest example of Nvidia partnering with rivals &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/260708/p1#a260708p1)
+ - [Samsung opens up Galaxy Z Fold 8 reservations, but the perks just got smaller](https://www.androidauthority.com/samsung-galaxy-z-fold-8-reservations-pre-order-launch-3685108/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
