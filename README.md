@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LineageOS announces browser flashing, Android 17 plans, and new supported devices](https://www.androidauthority.com/lineageos-summertime-update-2026-3685112/)
- - [Nvidia and AI chip startup d-Matrix are combining their hardware in a new system to power AI models, the latest example of Nvidia partnering with rivals &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/260708/p1#a260708p1)
- - [Samsung opens up Galaxy Z Fold 8 reservations, but the perks just got smaller](https://www.androidauthority.com/samsung-galaxy-z-fold-8-reservations-pre-order-launch-3685108/)<!-- TECH:END -->
+ - [Motorola Edge 70 Max teaser strongly hints at MagSafe-style charging](https://www.androidauthority.com/motorola-edge-70-max-magnetic-wireless-charging-teaser-3685130/)
+ - [A look at effective altruism&#39;s fall after SBF&#39;s arrest and how the soon-to-be rich from upcoming AI IPOs give the movement a chance to return larger than ever &lpar;Andrew Fedorov/New York Magazine&rpar;](https://www.techmeme.com/260708/p8#a260708p8)
+ - [Android 17’s new video standard could make blinding HDR videos a thing of the past](https://www.androidauthority.com/android-17-eclipsa-video-standard-hdr-3685122/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
