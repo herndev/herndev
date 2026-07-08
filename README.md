@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spot the legendary Greek Warrior](http://9gag.com/gag/a2veBPd)
- - ⏩ [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
- - 👉 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)<!-- MEMES:END -->
+ - 💣 [Its 1450 downvotes by now](http://9gag.com/gag/aLnxyWA)
+ - ⏩ [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)
+ - 👉 [The quiver in his voice](http://9gag.com/gag/apROyp8)<!-- MEMES:END -->
 
 ---
 
