@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From the archives of my old PC](http://9gag.com/gag/ajPpoN1)
- - ⏩ [Street fight at outdoor mall](http://9gag.com/gag/aO8wgOE)
- - 👉 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)<!-- MEMES:END -->
+ - 💣 [Bro tried to warn him multiple times](http://9gag.com/gag/a4PvDop)
+ - ⏩ [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)
+ - 👉 [Only the really smart people knows the answer...](http://9gag.com/gag/agmWM3w)<!-- MEMES:END -->
 
 ---
 
