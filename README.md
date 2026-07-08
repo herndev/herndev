@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why I won’t buy another Moto G until Motorola fixes these 5 things](https://www.androidauthority.com/why-i-wont-buy-another-moto-g-3684467/)
- - [France&#39;s competition watchdog orders Meta to negotiate in good faith with news organizations over copyright payments, after two groups filed complaints in 2025 &lpar;Benoit Berthelot/Bloomberg&rpar;](https://www.techmeme.com/260708/p13#a260708p13)
- - [Google Keep finally gets a working ‘Find in note’ feature, but you still can’t find it](https://www.androidauthority.com/google-keep-find-in-note-3685188/)<!-- TECH:END -->
+ - [$30 billion Broadcom chip deal is Apple biggest AMP fund investment](https://appleinsider.com/articles/26/07/08/30-billion-broadcom-chip-deal-is-apple-biggest-amp-fund-investment?utm_source=rss)
+ - [The Best MagSafe Power Banks for iPhone and Android, Plus Ones to Avoid](https://www.wired.com/gallery/best-magsafe-power-banks/)
+ - [The Steam Machine fits my TV, my desk, and my life](https://www.theverge.com/games/962561/valve-steam-machine-tv-desk-life)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
