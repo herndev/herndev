@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China plans to let some of the country&#39;s major AI companies buy a small number of Nvidia&#39;s H200 chips to alleviate a domestic computing shortage &lpar;Qianer Liu/The Information&rpar;](https://www.techmeme.com/260708/p30#a260708p30)
- - [This jumping $800 robot camera dog filled me with joy](https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview)
- - [Apple&#39;s M5 Pro 16-inch MacBook Pro with 48GB RAM plunges to $3,049](https://appleinsider.com/articles/26/07/08/apples-m5-pro-16-inch-macbook-pro-with-48gb-ram-plunges-to-3049?utm_source=rss)<!-- TECH:END -->
+ - [If Microsoft sold off Xbox, who would even buy it?](https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma)
+ - [Twelve South’s AirFly Pro is a great travel companion, and it&amp;#8217;s on sale for $40](https://www.theverge.com/gadgets/962910/twelve-south-airfly-pro-summer-travel-gadgets-deal-sale)
+ - [OpenAI launches GPT-Live, a new generation of voice models built on a full-duplex architecture, meaning they can listen and speak at the same time &lpar;OpenAI&rpar;](https://www.techmeme.com/260708/p36#a260708p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
