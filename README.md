@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Built a Self-Improving AI, and So Can You](https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/)
- - [The GoPro MAX 2 is still at its record-low Prime Day price with 40% off](https://www.androidauthority.com/gopro-max-2-deal-3685555/)
- - [Meta announces its first data center in Canada, a 1GW facility in Alberta that will cost the company about $9B and take two to three years to construct &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260708/p40#a260708p40)<!-- TECH:END -->
+ - [T-Mobile is making two of its best deals unavailable to its own customers](https://www.androidauthority.com/t-mobile-keep-switch-family-freedom-deals-changes-3685566/)
+ - [Now’s your chance to try Google’s new Video Remix tool in Photos](https://www.androidauthority.com/google-photos-video-remix-2-3685561/)
+ - [OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark &lpar;OpenAI&rpar;](https://www.techmeme.com/260708/p41#a260708p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
