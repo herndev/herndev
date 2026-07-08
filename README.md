@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is reportedly working on smart glasses that would be recording all the time](https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai)
- - [The FTC settles with John Deere over a 2025 right-to-repair lawsuit, requiring the company to provide farmers and shops with equipment and software for 10 years &lpar;Boone Ashworth/Wired&rpar;](https://www.techmeme.com/260708/p42#a260708p42)
- - [T-Mobile is making two of its best deals unavailable to its own customers](https://www.androidauthority.com/t-mobile-keep-switch-family-freedom-deals-changes-3685566/)<!-- TECH:END -->
+ - [One of Meta’s Offices Was Briefly Overtaken by a Rogue Squirrel](https://www.wired.com/story/one-of-metas-offices-was-briefly-overtaken-by-a-rogue-squirrel/)
+ - [Apolosign 32-inch Smart Portable TV review: Very cool, but not great for Apple users](https://appleinsider.com/articles/26/07/08/apolosign-32-inch-smart-portable-tv-review-very-cool-but-not-great-for-apple-users?utm_source=rss)
+ - [Sources: Reno-based AI chip startup Positron is in talks to raise ~$750M in two phases, at valuations of $3.5B in the first tranche and ~$5B in the second &lpar;Bloomberg&rpar;](https://www.techmeme.com/260708/p43#a260708p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
