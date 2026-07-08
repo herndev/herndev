@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro tried to warn him multiple times](http://9gag.com/gag/a4PvDop)
- - ⏩ [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)
+ - 💣 [Be doesn&#39;t even know the moon is bigger than earth](http://9gag.com/gag/aD2ypNK)
+ - ⏩ [Street fight at outdoor mall](http://9gag.com/gag/aO8wgOE)
  - 👉 [Only the really smart people knows the answer...](http://9gag.com/gag/agmWM3w)<!-- MEMES:END -->
 
 ---
