@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)
- - ⏩ [No she is judge no more](http://9gag.com/gag/a9yo3qm)
- - 👉 [Never trust them.](http://9gag.com/gag/aGyXP45)<!-- MEMES:END -->
+ - 💣 [Oh. Tf.](http://9gag.com/gag/aE03eVG)
+ - ⏩ [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)
+ - 👉 [Daily Cat Picture](http://9gag.com/gag/a6ZPvGA)<!-- MEMES:END -->
 
 ---
 
