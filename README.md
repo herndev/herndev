@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Save it snd never use it](http://9gag.com/gag/a2vnEKw)
- - ⏩ [The hunger games?](http://9gag.com/gag/aoyXB00)
- - 👉 [Robinhood Bus](http://9gag.com/gag/a9yo39K)<!-- MEMES:END -->
+ - 💣 [Never trust them.](http://9gag.com/gag/aGyXP45)
+ - ⏩ [No she is judge no more](http://9gag.com/gag/a9yo3qm)
+ - 👉 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)<!-- MEMES:END -->
 
 ---
 
