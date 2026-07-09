@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The past is lost. The past is a lie](http://9gag.com/gag/aMVgpV6)
- - ⏩ [A gif&lpar;t&rpar; for you](http://9gag.com/gag/agmWRng)
- - 👉 [Ya dense](http://9gag.com/gag/aKGr4wO)<!-- MEMES:END -->
+ - 💣 [Getting sent into orbit](http://9gag.com/gag/avyNYKM)
+ - ⏩ [Robinhood Bus](http://9gag.com/gag/a9yo39K)
+ - 👉 [The hunger games?](http://9gag.com/gag/aoyXB00)<!-- MEMES:END -->
 
 ---
 
