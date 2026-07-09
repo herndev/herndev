@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Widow&#39;s Bay&#39; &amp; &#39;Pluribus&#39; lead Apple&#39;s record-breaking charge for 2026 Emmy Awards](https://appleinsider.com/articles/26/07/08/widows-bay-and-pluribus-nominated-for-the-most-prestigious-emmy-awards?utm_source=rss)
- - [Block agrees to pay $45M and offer live customer support for Cash App to settle claims by 46 US states that the company failed to protect users from fraud &lpar;Daniel Wiessner/Reuters&rpar;](https://www.techmeme.com/260708/p44#a260708p44)
- - [One of Meta’s Offices Was Briefly Overtaken by a Rogue Squirrel](https://www.wired.com/story/one-of-metas-offices-was-briefly-overtaken-by-a-rogue-squirrel/)<!-- TECH:END -->
+ - [A Brown University professor suspected his class used AI to cheat after a take-home midterm averaged 96%, prompting an in-person final, which averaged 48.6% &lpar;Emma Whitford/Inside Higher Ed&rpar;](https://www.techmeme.com/260709/p3#a260709p3)
+ - [Companies are mobilizing internal groups of &quot;AI champions&quot; to drive adoption; BCG says 74% of front-line employees now use AI regularly, up from 51% in 2025 &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](https://www.techmeme.com/260709/p2#a260709p2)
+ - [Layla Sleep Coupon: Save Up to $600 in July 2026](https://www.wired.com/story/layla-sleep-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
