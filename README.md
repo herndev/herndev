@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic Wants You to Pay Up for Claude Fable 5](https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/)
- - [OpenAI merges Codex and ChatGPT desktop apps for Mac and Windows under a new ChatGPT desktop app, allowing users to switch between Codex, Chat, and Work &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260709/p29#a260709p29)
- - [Apple going big at Comic Con with a 2-hour panel and show preview](https://appleinsider.com/articles/26/07/09/apple-going-big-at-comic-con-with-a-2-hour-panel-and-show-preview?utm_source=rss)<!-- TECH:END -->
+ - [Google will now tell you if an ad was made with AI](https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label)
+ - [PitchBook: US venture funding hit $412.7B in H1 2026, up 30% on all of 2025, with AI startup funding accounting for 86%, or $355.9B; Q2 saw seven $1B+ rounds &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260709/p34#a260709p34)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 10, #1847](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-10-1847/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
