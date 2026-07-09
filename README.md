@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh. Tf.](http://9gag.com/gag/aE03eVG)
- - ⏩ [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)
- - 👉 [Daily Cat Picture](http://9gag.com/gag/a6ZPvGA)<!-- MEMES:END -->
+ - 💣 [Save it snd never use it](http://9gag.com/gag/a2vnEKw)
+ - ⏩ [The hunger games?](http://9gag.com/gag/aoyXB00)
+ - 👉 [Robinhood Bus](http://9gag.com/gag/a9yo39K)<!-- MEMES:END -->
 
 ---
 
