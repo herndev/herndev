@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)
- - ⏩ [Bacon](http://9gag.com/gag/a4PvMZA)
- - 👉 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)<!-- MEMES:END -->
+ - 💣 [Daily Cat Picture](http://9gag.com/gag/a6ZPvGA)
+ - ⏩ [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)
+ - 👉 [Stereotypes exist for a reason](http://9gag.com/gag/a87ZBBe)<!-- MEMES:END -->
 
 ---
 
