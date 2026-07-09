@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slate&#39;s Gray $25,000 Truck Just Got a Crayola Makeover](https://www.wired.com/story/slates-gray-dollar25000-truck-just-got-a-crayola-makeover/)
- - [Ollama, which helps developers run open-weight AI models locally, raised a $65M Series B led by Theory Venture, following a $15M Series A led by Benchmark &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260709/p15#a260709p15)
- - [Say hello to Claude Wrapped](https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage)<!-- TECH:END -->
+ - [The 1X Neo Robot Has Freaky Fast Fingers](https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/)
+ - [Kraken Technology, which designs and builds autonomous maritime platforms, such as uncrewed subsurface vessels, raised a $175M Series B at a $1B valuation &lpar;John Reynolds/Tech.eu&rpar;](https://www.techmeme.com/260709/p25#a260709p25)
+ - [Best Wireless Bluetooth Boom Boxes for 2026](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
