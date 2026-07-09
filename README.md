@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 1X Neo Robot Has Freaky Fast Fingers](https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/)
- - [Kraken Technology, which designs and builds autonomous maritime platforms, such as uncrewed subsurface vessels, raised a $175M Series B at a $1B valuation &lpar;John Reynolds/Tech.eu&rpar;](https://www.techmeme.com/260709/p25#a260709p25)
- - [Best Wireless Bluetooth Boom Boxes for 2026](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/)<!-- TECH:END -->
+ - [Anthropic Wants You to Pay Up for Claude Fable 5](https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/)
+ - [OpenAI merges Codex and ChatGPT desktop apps for Mac and Windows under a new ChatGPT desktop app, allowing users to switch between Codex, Chat, and Work &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260709/p29#a260709p29)
+ - [Apple going big at Comic Con with a 2-hour panel and show preview](https://appleinsider.com/articles/26/07/09/apple-going-big-at-comic-con-with-a-2-hour-panel-and-show-preview?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
