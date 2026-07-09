@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Brown University professor suspected his class used AI to cheat after a take-home midterm averaged 96%, prompting an in-person final, which averaged 48.6% &lpar;Emma Whitford/Inside Higher Ed&rpar;](https://www.techmeme.com/260709/p3#a260709p3)
- - [Companies are mobilizing internal groups of &quot;AI champions&quot; to drive adoption; BCG says 74% of front-line employees now use AI regularly, up from 51% in 2025 &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](https://www.techmeme.com/260709/p2#a260709p2)
- - [Layla Sleep Coupon: Save Up to $600 in July 2026](https://www.wired.com/story/layla-sleep-coupon/)<!-- TECH:END -->
+ - [iPhone 18 Pro Max&#39;s longer battery life comes at a cost in weight and size](https://appleinsider.com/articles/26/07/09/iphone-18-pro-maxs-longer-battery-life-comes-at-a-cost-in-weight-and-size?utm_source=rss)
+ - [Self-Driving Cars Are Interfering With First Responders. Feds Aren’t Happy](https://www.wired.com/story/self-driving-cars-are-interfering-with-first-responders-feds-arent-happy/)
+ - [Thought Meta’s smart glasses were creepy? Its new glasses could be a predator’s dream.](https://www.androidauthority.com/meta-testing-super-sensing-glasses-3685734/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
