@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18 Pro Max&#39;s longer battery life comes at a cost in weight and size](https://appleinsider.com/articles/26/07/09/iphone-18-pro-maxs-longer-battery-life-comes-at-a-cost-in-weight-and-size?utm_source=rss)
- - [Self-Driving Cars Are Interfering With First Responders. Feds Aren’t Happy](https://www.wired.com/story/self-driving-cars-are-interfering-with-first-responders-feds-arent-happy/)
- - [Thought Meta’s smart glasses were creepy? Its new glasses could be a predator’s dream.](https://www.androidauthority.com/meta-testing-super-sensing-glasses-3685734/)<!-- TECH:END -->
+ - [Slate&#39;s Gray $25,000 Truck Just Got a Crayola Makeover](https://www.wired.com/story/slates-gray-dollar25000-truck-just-got-a-crayola-makeover/)
+ - [Ollama, which helps developers run open-weight AI models locally, raised a $65M Series B led by Theory Venture, following a $15M Series A led by Benchmark &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260709/p15#a260709p15)
+ - [Say hello to Claude Wrapped](https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
