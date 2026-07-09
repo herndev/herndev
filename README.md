@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Daily Cat Picture](http://9gag.com/gag/a6ZPvGA)
- - ⏩ [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)
- - 👉 [Stereotypes exist for a reason](http://9gag.com/gag/a87ZBBe)<!-- MEMES:END -->
+ - 💣 [The past is lost. The past is a lie](http://9gag.com/gag/aMVgpV6)
+ - ⏩ [A gif&lpar;t&rpar; for you](http://9gag.com/gag/agmWRng)
+ - 👉 [Ya dense](http://9gag.com/gag/aKGr4wO)<!-- MEMES:END -->
 
 ---
 
