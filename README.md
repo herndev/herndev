@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Getting sent into orbit](http://9gag.com/gag/avyNYKM)
- - ⏩ [Robinhood Bus](http://9gag.com/gag/a9yo39K)
- - 👉 [The hunger games?](http://9gag.com/gag/aoyXB00)<!-- MEMES:END -->
+ - 💣 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)
+ - ⏩ [No she is judge no more](http://9gag.com/gag/a9yo3qm)
+ - 👉 [Never trust them.](http://9gag.com/gag/aGyXP45)<!-- MEMES:END -->
 
 ---
 
