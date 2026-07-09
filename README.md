@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of Meta’s Offices Was Briefly Overtaken by a Rogue Squirrel](https://www.wired.com/story/one-of-metas-offices-was-briefly-overtaken-by-a-rogue-squirrel/)
- - [Apolosign 32-inch Smart Portable TV review: Very cool, but not great for Apple users](https://appleinsider.com/articles/26/07/08/apolosign-32-inch-smart-portable-tv-review-very-cool-but-not-great-for-apple-users?utm_source=rss)
- - [Sources: Reno-based AI chip startup Positron is in talks to raise ~$750M in two phases, at valuations of $3.5B in the first tranche and ~$5B in the second &lpar;Bloomberg&rpar;](https://www.techmeme.com/260708/p43#a260708p43)<!-- TECH:END -->
+ - [&#39;Widow&#39;s Bay&#39; &amp; &#39;Pluribus&#39; lead Apple&#39;s record-breaking charge for 2026 Emmy Awards](https://appleinsider.com/articles/26/07/08/widows-bay-and-pluribus-nominated-for-the-most-prestigious-emmy-awards?utm_source=rss)
+ - [Block agrees to pay $45M and offer live customer support for Cash App to settle claims by 46 US states that the company failed to protect users from fraud &lpar;Daniel Wiessner/Reuters&rpar;](https://www.techmeme.com/260708/p44#a260708p44)
+ - [One of Meta’s Offices Was Briefly Overtaken by a Rogue Squirrel](https://www.wired.com/story/one-of-metas-offices-was-briefly-overtaken-by-a-rogue-squirrel/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
