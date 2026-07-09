@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From the archives of my old PC](http://9gag.com/gag/ajPpoN1)
- - ⏩ [Only the really smart people knows the answer...](http://9gag.com/gag/agmWM3w)
- - 👉 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)<!-- MEMES:END -->
+ - 💣 [A father left his son more than $10 million.He left his two daughters nothing. Now they\u2019re asking their brother to pay off their $300,000 in student loans. Caller: \u201cMy mother had an affair. My sisters sided with my mother because they liked the affair partner more.`](http://9gag.com/gag/aXPB8qD)
+ - ⏩ [This was cool admit it](http://9gag.com/gag/aryYjqK)
+ - 👉 [Daily Cat Picture](http://9gag.com/gag/a6ZPvGA)<!-- MEMES:END -->
 
 ---
 
