@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will now tell you if an ad was made with AI](https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label)
- - [PitchBook: US venture funding hit $412.7B in H1 2026, up 30% on all of 2025, with AI startup funding accounting for 86%, or $355.9B; Q2 saw seven $1B+ rounds &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260709/p34#a260709p34)
- - [Today&#39;s Wordle Hints, Answer and Help for July 10, #1847](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-10-1847/)<!-- TECH:END -->
+ - [Mercor acquires Deeptune, which builds reinforcement learning environments for AI agents, three months after CEO Brendan Foody backed Deeptune&#39;s $43M Series A &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260709/p39#a260709p39)
+ - [Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives](https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/)
+ - [Sources: Netflix executives are increasingly worried about declining engagement and are exploring adding live TV and bundling streaming services like Peacock &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260709/p38#a260709p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
