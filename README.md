@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet the Battery Startup Taking on China’s Giants](https://www.wired.com/story/prologium-battery-startup-betting-against-china/)
- - [This Game Boy Micro-style console instantly sold out — but you get another chance to buy tonight](https://www.androidauthority.com/pocket-micro-2-sales-3686368/)
- - [Privacy advocates, CAA, and SAG-AFTRA slam Meta&#39;s Muse Image, which lets users create AI images using the likenesses of people with public Instagram accounts &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260710/p20#a260710p20)<!-- TECH:END -->
+ - [Disney Plus is throwing around the idea of adding a free tier](https://www.androidauthority.com/disney-plus-considers-free-tier-3686530/)
+ - [Source: Greg Brockman will continue to oversee OpenAI&#39;s products as the company doesn&#39;t plan to hire anyone to replace Fidji Simo after she stepped down &lpar;CNBC&rpar;](https://www.techmeme.com/260710/p24#a260710p24)
+ - [A decade later, Pokémon Go finally made good on its original promise](https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
