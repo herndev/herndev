@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SAP will make it easier for customers to switch to rival service providers or end contracts, averting a possible EU antitrust fine after a September 2025 probe &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260709/p42#a260709p42)
- - [Govee 21-inch Smart Ceiling Light Ultra review: blurry motifs &amp; excellent lighting](https://appleinsider.com/articles/26/07/09/govee-21-inch-smart-ceiling-light-ultra-review-blurry-motifs-excellent-lighting?utm_source=rss)
- - [SK Hynix raises $26.5B in the largest ever US market debut by a foreign company, selling 177.9M ADRs for $149 each; the sale was more than 7x oversubscribed &lpar;Bloomberg&rpar;](https://www.techmeme.com/260709/p41#a260709p41)<!-- TECH:END -->
+ - [Thousands of ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo](https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/)
+ - [How the internet, smartphones, social media, and now generative AI are accelerating a drop in the reading of longer works like books &lpar;Rose Horowitch/The Atlantic&rpar;](https://www.techmeme.com/260709/p43#a260709p43)
+ - [Microsoft’s carbon emissions went up 25 percent last year](https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
