@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)
- - ⏩ [Heimlich Maneuver](http://9gag.com/gag/aAyoB3p)
- - 👉 [Never trust them.](http://9gag.com/gag/aGyXP45)<!-- MEMES:END -->
+ - 💣 [Wait a minute...](http://9gag.com/gag/aE0Ldqe)
+ - ⏩ [Yeah! Asian science!](http://9gag.com/gag/a87BLDV)
+ - 👉 [Here\u2019s 1 post 4 U](http://9gag.com/gag/aD2ERqZ)<!-- MEMES:END -->
 
 ---
 
