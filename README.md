@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which MacBook to Buy &lpar;2026&rpar;: My Honest Advice on Which to Buy](https://www.wired.com/story/which-macbook-should-you-buy/)
- - [Google Photos could bring back a handy video editing tool under a new name](https://www.androidauthority.com/google-photos-video-editor-auto-trim-apk-teardown-3686260/)
- - [A US court sentences a former ransomware negotiator to 70 months in prison for working with BlackCat to extort a combined $75.3M from his employer&#39;s clients &lpar;Matt Kapko/CyberScoop&rpar;](https://www.techmeme.com/260710/p9#a260710p9)<!-- TECH:END -->
+ - [Instagram’s Adam Mosseri: If you don&amp;#8217;t like AI, &amp;#8216;then you shouldn&amp;#8217;t have it in your feed&amp;#8217;](https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters)
+ - [An RIAA-led coalition representing labels and artists proposes two tags for AI content: one for entirely AI-generated songs and another for &quot;AI-assisted&quot; tracks &lpar;Katherine Sayre/Wall Street Journal&rpar;](https://www.techmeme.com/260710/p14#a260710p14)
+ - [Xreal launches $299 A01 Plus AR glasses, weighing just 62 grams and featuring 1080p micro OLED panels with a 120Hz refresh rate and a 50-degree field of view &lpar;Cameron Faulkner/The Verge&rpar;](https://www.techmeme.com/260710/p13#a260710p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
