@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The hunger games?](http://9gag.com/gag/aoyXB00)
- - ⏩ [Challenging wank](http://9gag.com/gag/aNDNyDA)
- - 👉 [Robinhood Bus](http://9gag.com/gag/a9yo39K)<!-- MEMES:END -->
+ - 💣 [Never trust them.](http://9gag.com/gag/aGyXP45)
+ - ⏩ [This clip was saved from here years ago, so enjoy](http://9gag.com/gag/a87BLKp)
+ - 👉 [Here\u2019s 1 post 4 U](http://9gag.com/gag/aD2ERqZ)<!-- MEMES:END -->
 
 ---
 
