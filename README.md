@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Edge 70 Max leak points to a battery that puts Google and Samsung to shame](https://www.androidauthority.com/motorola-edge-70-max-battery-amoled-leak-3686113/)
- - [Google’s new ad labels will help you not get fooled by AI](https://www.androidauthority.com/google-ads-ai-labels-3686125/)
- - [Is Samsung quietly putting the Galaxy Z Fold 8 on display early? Leak shows it off with a photo](https://www.androidauthority.com/samsung-galaxy-z-fold-8-retail-display-leak-3686120/)<!-- TECH:END -->
+ - [Which MacBook to Buy &lpar;2026&rpar;: My Honest Advice on Which to Buy](https://www.wired.com/story/which-macbook-should-you-buy/)
+ - [Google Photos could bring back a handy video editing tool under a new name](https://www.androidauthority.com/google-photos-video-editor-auto-trim-apk-teardown-3686260/)
+ - [A US court sentences a former ransomware negotiator to 70 months in prison for working with BlackCat to extort a combined $75.3M from his employer&#39;s clients &lpar;Matt Kapko/CyberScoop&rpar;](https://www.techmeme.com/260710/p9#a260710p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
