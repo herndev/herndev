@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 11 Pro Fold FCC listing adds support for a big Tensor G6 shake-up](https://www.androidauthority.com/tensor-g6-mediatek-modem-2-3686559/)
- - [Bixby users are hearing weird voices they never selected](https://www.androidauthority.com/bixby-strange-voices-since-update-3686574/)
- - [Apple sues OpenAI for allegedly stealing hardware secrets](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets)<!-- TECH:END -->
+ - [The FCC is cracking down on DJI tech that dodged the foreign drone ban](https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab)
+ - [Bluesky interim CEO Toni Schneider becomes the company&#39;s permanent CEO, four months after succeeding Jay Graber &lpar;Lucas Ropek/TechCrunch&rpar;](https://www.techmeme.com/260710/p32#a260710p32)
+ - [The Best Whitening Toothpastes Dentists Recommend to Their Patients](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
