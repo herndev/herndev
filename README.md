@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes 36% off the TP-Link Deco 7 Pro BE63 Wi-Fi 7 mesh system until midnight](https://www.androidauthority.com/tp-link-deco-7-pro-router-deal-3686467/)
- - [Google Photos just graduated from collage college](https://www.androidauthority.com/google-photos-collage-updates-3686396/)
- - [SK Hynix opens up 14% at $170 after raising $26.5B in the largest ever US market debut by a foreign company &lpar;Kif Leswing/CNBC&rpar;](https://www.techmeme.com/260710/p18#a260710p18)<!-- TECH:END -->
+ - [Meet the Battery Startup Taking on China’s Giants](https://www.wired.com/story/prologium-battery-startup-betting-against-china/)
+ - [This Game Boy Micro-style console instantly sold out — but you get another chance to buy tonight](https://www.androidauthority.com/pocket-micro-2-sales-3686368/)
+ - [Privacy advocates, CAA, and SAG-AFTRA slam Meta&#39;s Muse Image, which lets users create AI images using the likenesses of people with public Instagram accounts &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260710/p20#a260710p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
