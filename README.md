@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thousands of ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo](https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/)
- - [How the internet, smartphones, social media, and now generative AI are accelerating a drop in the reading of longer works like books &lpar;Rose Horowitch/The Atlantic&rpar;](https://www.techmeme.com/260709/p43#a260709p43)
- - [Microsoft’s carbon emissions went up 25 percent last year](https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026)<!-- TECH:END -->
+ - [Ulta Promo Codes: Up to 50% Off in July 2026](https://www.wired.com/story/ulta-coupon/)
+ - [Chewy Promo Codes: $20 Off July 2026](https://www.wired.com/story/chewy-promo-code/)
+ - [50% Off DoorDash Promo Code | July 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
