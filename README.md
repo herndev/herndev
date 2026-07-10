@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doing my part](http://9gag.com/gag/a87BLrY)
- - ⏩ [Never trust them.](http://9gag.com/gag/aGyXP45)
+ - 💣 [Yeah! Asian science!](http://9gag.com/gag/a87BLDV)
+ - ⏩ [Right?](http://9gag.com/gag/aND6rj6)
  - 👉 [Here\u2019s 1 post 4 U](http://9gag.com/gag/aD2ERqZ)<!-- MEMES:END -->
 
 ---
