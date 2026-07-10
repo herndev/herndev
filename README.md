@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC is cracking down on DJI tech that dodged the foreign drone ban](https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab)
- - [Bluesky interim CEO Toni Schneider becomes the company&#39;s permanent CEO, four months after succeeding Jay Graber &lpar;Lucas Ropek/TechCrunch&rpar;](https://www.techmeme.com/260710/p32#a260710p32)
- - [The Best Whitening Toothpastes Dentists Recommend to Their Patients](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/)<!-- TECH:END -->
+ - [Meta says it will discontinue a feature that allowed users to generate images in Meta AI using public Instagram accounts, following days of criticism &lpar;Corbin Bolies/Variety&rpar;](https://www.techmeme.com/260710/p35#a260710p35)
+ - [Microsoft Reports a Massive 25 Percent Jump in Emissions](https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/)
+ - [In response to Apple&#39;s trade secret theft lawsuit, OpenAI says &quot;we have no interest in other companies&#39; trade secrets&quot; &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260710/p34#a260710p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
