@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram’s Adam Mosseri: If you don&amp;#8217;t like AI, &amp;#8216;then you shouldn&amp;#8217;t have it in your feed&amp;#8217;](https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters)
- - [An RIAA-led coalition representing labels and artists proposes two tags for AI content: one for entirely AI-generated songs and another for &quot;AI-assisted&quot; tracks &lpar;Katherine Sayre/Wall Street Journal&rpar;](https://www.techmeme.com/260710/p14#a260710p14)
- - [Xreal launches $299 A01 Plus AR glasses, weighing just 62 grams and featuring 1080p micro OLED panels with a 120Hz refresh rate and a 50-degree field of view &lpar;Cameron Faulkner/The Verge&rpar;](https://www.techmeme.com/260710/p13#a260710p13)<!-- TECH:END -->
+ - [Amazon slashes 36% off the TP-Link Deco 7 Pro BE63 Wi-Fi 7 mesh system until midnight](https://www.androidauthority.com/tp-link-deco-7-pro-router-deal-3686467/)
+ - [Google Photos just graduated from collage college](https://www.androidauthority.com/google-photos-collage-updates-3686396/)
+ - [SK Hynix opens up 14% at $170 after raising $26.5B in the largest ever US market debut by a foreign company &lpar;Kif Leswing/CNBC&rpar;](https://www.techmeme.com/260710/p18#a260710p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
