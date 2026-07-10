@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never trust them.](http://9gag.com/gag/aGyXP45)
- - ⏩ [No she is judge no more](http://9gag.com/gag/a9yo3qm)
- - 👉 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)<!-- MEMES:END -->
+ - 💣 [The hunger games?](http://9gag.com/gag/aoyXB00)
+ - ⏩ [Challenging wank](http://9gag.com/gag/aNDNyDA)
+ - 👉 [Robinhood Bus](http://9gag.com/gag/a9yo39K)<!-- MEMES:END -->
 
 ---
 
