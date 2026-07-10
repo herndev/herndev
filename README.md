@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ulta Promo Codes: Up to 50% Off in July 2026](https://www.wired.com/story/ulta-coupon/)
- - [Chewy Promo Codes: $20 Off July 2026](https://www.wired.com/story/chewy-promo-code/)
- - [50% Off DoorDash Promo Code | July 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
+ - [Motorola Edge 70 Max leak points to a battery that puts Google and Samsung to shame](https://www.androidauthority.com/motorola-edge-70-max-battery-amoled-leak-3686113/)
+ - [Google’s new ad labels will help you not get fooled by AI](https://www.androidauthority.com/google-ads-ai-labels-3686125/)
+ - [Is Samsung quietly putting the Galaxy Z Fold 8 on display early? Leak shows it off with a photo](https://www.androidauthority.com/samsung-galaxy-z-fold-8-retail-display-leak-3686120/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
