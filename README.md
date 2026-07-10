@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney Plus is throwing around the idea of adding a free tier](https://www.androidauthority.com/disney-plus-considers-free-tier-3686530/)
- - [Source: Greg Brockman will continue to oversee OpenAI&#39;s products as the company doesn&#39;t plan to hire anyone to replace Fidji Simo after she stepped down &lpar;CNBC&rpar;](https://www.techmeme.com/260710/p24#a260710p24)
- - [A decade later, Pokémon Go finally made good on its original promise](https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026)<!-- TECH:END -->
+ - [Pixel 11 Pro Fold FCC listing adds support for a big Tensor G6 shake-up](https://www.androidauthority.com/tensor-g6-mediatek-modem-2-3686559/)
+ - [Bixby users are hearing weird voices they never selected](https://www.androidauthority.com/bixby-strange-voices-since-update-3686574/)
+ - [Apple sues OpenAI for allegedly stealing hardware secrets](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
