@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah! Asian science!](http://9gag.com/gag/a87BLDV)
- - ⏩ [Right?](http://9gag.com/gag/aND6rj6)
- - 👉 [Here\u2019s 1 post 4 U](http://9gag.com/gag/aD2ERqZ)<!-- MEMES:END -->
+ - 💣 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)
+ - ⏩ [Never trust them.](http://9gag.com/gag/aGyXP45)
+ - 👉 [Doing my part](http://9gag.com/gag/a87BLrY)<!-- MEMES:END -->
 
 ---
 
