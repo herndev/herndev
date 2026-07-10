@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never trust them.](http://9gag.com/gag/aGyXP45)
- - ⏩ [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)
- - 👉 [Who was your first kiss](http://9gag.com/gag/aqy0vpQ)<!-- MEMES:END -->
+ - 💣 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)
+ - ⏩ [Heimlich Maneuver](http://9gag.com/gag/aAyoB3p)
+ - 👉 [Never trust them.](http://9gag.com/gag/aGyXP45)<!-- MEMES:END -->
 
 ---
 
