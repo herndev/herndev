@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never trust them.](http://9gag.com/gag/aGyXP45)
- - ⏩ [This clip was saved from here years ago, so enjoy](http://9gag.com/gag/a87BLKp)
- - 👉 [Here\u2019s 1 post 4 U](http://9gag.com/gag/aD2ERqZ)<!-- MEMES:END -->
+ - 💣 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)
+ - ⏩ [Here\u2019s 1 post 4 U](http://9gag.com/gag/aD2ERqZ)
+ - 👉 [Never trust them.](http://9gag.com/gag/aGyXP45)<!-- MEMES:END -->
 
 ---
 
