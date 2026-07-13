@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [23 Best Gifts for Cooks &lpar;2026&rpar;: Panasonic, Frying Pans, Air Fryers](https://www.wired.com/gallery/gift-for-the-home-chef-2025/)
- - [A coalition of 12 states led by California files an antitrust lawsuit to block Paramount&#39;s WBD merger, alleging it lessens competition in three markets &lpar;Gene Maddaus/Variety&rpar;](https://www.techmeme.com/260713/p27#a260713p27)
- - [There Are Endless Conspiracy Theories About Lindsey Graham’s Death](https://www.wired.com/story/there-are-endless-conspiracy-theories-about-lindsey-grahams-death/)<!-- TECH:END -->
+ - [Wi-Fi 8 Explained: Features, Release Date, and More](https://www.wired.com/story/what-is-wi-fi-8/)
+ - [The EV market is on the road to recovery thanks to high gas prices](https://www.theverge.com/transportation/964663/ev-sales-q2-2026-gas-prices-tesla-toyota)
+ - [Q&amp;A with Xinzhou Wu, head of automotive at Nvidia, on Nvidia&#39;s chips and AI models for autonomous driving, lidar&#39;s usefulness for Level 4 autonomy, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260713/p29#a260713p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
