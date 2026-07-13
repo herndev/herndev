@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go Latina dancing](http://9gag.com/gag/aBy7Qyz)
- - ⏩ [Need unbend it](http://9gag.com/gag/aoyb0Aw)
- - 👉 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)<!-- MEMES:END -->
+ - 💣 [Even the dog knew.](http://9gag.com/gag/aBy7Qnx)
+ - ⏩ [Breathtaking](http://9gag.com/gag/aMV3rgR)
+ - 👉 [Need unbend it](http://9gag.com/gag/aoyb0Aw)<!-- MEMES:END -->
 
 ---
 
