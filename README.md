@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
- - ⏩ [The Tiger](http://9gag.com/gag/aW4wWNK)
- - 👉 [Breathtaking](http://9gag.com/gag/aMV3rgR)<!-- MEMES:END -->
+ - ⏩ [Breathtaking](http://9gag.com/gag/aMV3rgR)
+ - 👉 [What are they watching?](http://9gag.com/gag/adBmj09)<!-- MEMES:END -->
 
 ---
 
