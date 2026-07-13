@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto may be preparing a smarter media player for your dashboard](https://www.androidauthority.com/android-auto-media-player-card-apk-teardown-3687057/)
- - [Google’s upcoming Home Display could bring back one major Nest Hub Max feature](https://www.androidauthority.com/google-home-display-camera-3687045/)
- - [iPadOS 27 &amp; macOS 27 beta 3 get a version 2 update as public betas drop](https://appleinsider.com/articles/26/07/13/ipados-27-macos-27-beta-3-get-a-version-2-update-as-public-betas-drop?utm_source=rss)<!-- TECH:END -->
+ - [Sam Neill Inspired a Generation of Scientists](https://www.wired.com/story/sam-neill-inspired-a-generation-of-scientists/)
+ - [T-Mobile Customers on Old Plans Are Being Pushed to New Ones Starting This Week](https://www.cnet.com/tech/mobile/t-mobile-customers-on-old-plans-are-being-pushed-to-new-ones-starting-this-week/)
+ - [Waze Gets a &#39;Less Chatty&#39; Update, Personalized Routes](https://www.cnet.com/roadshow/news/new-less-chatty-waze-update-personalized-routes-roll-out-globally/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
