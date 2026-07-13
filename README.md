@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Claude just delayed the Fable 5 paywall again, extending free access until this date](https://www.androidauthority.com/claude-fable-5-access-extended-3686668/)
- - [A Taiwanese minister says TSMC plans two more advanced chip packaging plants in Chiayi Science Park, with all four expected to generate $9.35B+ in annual output &lpar;Wen-Yee Lee/Reuters&rpar;](https://www.techmeme.com/260713/p2#a260713p2)
- - [Open weight AI models are facing an existential policy test in the US, with Anthropic leading a campaign against Chinese models over distillation concerns &lpar;Nathan Lambert/Interconnects AI&rpar;](https://www.techmeme.com/260713/p1#a260713p1)<!-- TECH:END -->
+ - [Lenovo just teased a new gaming handheld, and it has a familiar twist](https://www.androidauthority.com/lenovo-legion-c700-cloud-gaming-handheld-3686727/)
+ - [Docs: Uber lobbied for a &quot;phased transition&quot; to AVs, giving it an edge over self-driving developers; Uber says AV industry proposals overlook drivers&#39; rights &lpar;Aarian Marshall/Wired&rpar;](https://www.techmeme.com/260713/p5#a260713p5)
+ - [Eating disorder therapists say patients are increasingly using AI chatbots for advice, while AI also appears to be directing more patients to helplines &lpar;Julie Jargon/Wall Street Journal&rpar;](https://www.techmeme.com/260713/p4#a260713p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
