@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wi-Fi 8 Explained: Features, Release Date, and More](https://www.wired.com/story/what-is-wi-fi-8/)
- - [The EV market is on the road to recovery thanks to high gas prices](https://www.theverge.com/transportation/964663/ev-sales-q2-2026-gas-prices-tesla-toyota)
- - [Q&amp;A with Xinzhou Wu, head of automotive at Nvidia, on Nvidia&#39;s chips and AI models for autonomous driving, lidar&#39;s usefulness for Level 4 autonomy, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260713/p29#a260713p29)<!-- TECH:END -->
+ - [The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It](https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/)
+ - [HTC’s answer to Ray-Ban Meta is coming to the US, but the price may sting](https://www.androidauthority.com/htc-vive-eagle-us-preorders-live-3687050/)
+ - [OnePlus’ fate in the US and Europe may be revealed very soon](https://www.androidauthority.com/oneplus-may-announce-departure-this-week-3687028/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
