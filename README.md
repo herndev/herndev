@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SigLens acquired by Apple for debugging massive apps and services](https://appleinsider.com/articles/26/07/13/siglens-acquired-by-apple-for-debugging-massive-apps-and-services?utm_source=rss)
- - [6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom](https://www.wired.com/story/the-best-bidets-for-every-bathroom-and-budget/)
- - [OpenAI is learning from Gemini’s trouble with usage limits and easing restrictions on GPT-5.6](https://www.androidauthority.com/openai-gemini-trouble-easing-gpt-5-6-usage-limits-3686805/)<!-- TECH:END -->
+ - [Google just gave the Pixel 10 Pro a huge discount before its successor arrives](https://www.androidauthority.com/google-pixel-10-discount-3686879/)
+ - [These new Game Boy-style Android handhelds just made us sit up and take notice](https://www.androidauthority.com/mangmi-air-y-series-game-boy-handheld-3686869/)
+ - [Apple&#39;s stock is up 15% since June 25, adding nearly $600B in market value and pushing shares back to record territory, as investors flee an AI stock selloff &lpar;Ryan Vlastelica/Bloomberg&rpar;](https://www.techmeme.com/260713/p22#a260713p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
