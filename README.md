@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When local politicians made stealing legal](http://9gag.com/gag/aoybZRe)
- - ⏩ [360 no scope](http://9gag.com/gag/abA9yBb)
- - 👉 [Woman logic](http://9gag.com/gag/a4PD4vZ)<!-- MEMES:END -->
+ - 💣 [Go Latina dancing](http://9gag.com/gag/aBy7Qyz)
+ - ⏩ [Need unbend it](http://9gag.com/gag/aoyb0Aw)
+ - 👉 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)<!-- MEMES:END -->
 
 ---
 
