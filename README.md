@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google just gave the Pixel 10 Pro a huge discount before its successor arrives](https://www.androidauthority.com/google-pixel-10-discount-3686879/)
- - [These new Game Boy-style Android handhelds just made us sit up and take notice](https://www.androidauthority.com/mangmi-air-y-series-game-boy-handheld-3686869/)
- - [Apple&#39;s stock is up 15% since June 25, adding nearly $600B in market value and pushing shares back to record territory, as investors flee an AI stock selloff &lpar;Ryan Vlastelica/Bloomberg&rpar;](https://www.techmeme.com/260713/p22#a260713p22)<!-- TECH:END -->
+ - [23 Best Gifts for Cooks &lpar;2026&rpar;: Panasonic, Frying Pans, Air Fryers](https://www.wired.com/gallery/gift-for-the-home-chef-2025/)
+ - [A coalition of 12 states led by California files an antitrust lawsuit to block Paramount&#39;s WBD merger, alleging it lessens competition in three markets &lpar;Gene Maddaus/Variety&rpar;](https://www.techmeme.com/260713/p27#a260713p27)
+ - [There Are Endless Conspiracy Theories About Lindsey Graham’s Death](https://www.wired.com/story/there-are-endless-conspiracy-theories-about-lindsey-grahams-death/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
