@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Breathtaking](http://9gag.com/gag/aMV3rgR)
- - ⏩ [RIP Sam Neill. Farewell to an absolute legend who shaped our childhood](http://9gag.com/gag/apRWBVW)
- - 👉 [RIP King!](http://9gag.com/gag/aYQ2wMq)<!-- MEMES:END -->
+ - 💣 [360 no scope](http://9gag.com/gag/abA9yBb)
+ - ⏩ [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
+ - 👉 [When she had enough](http://9gag.com/gag/aVvNWjd)<!-- MEMES:END -->
 
 ---
 
