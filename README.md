@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It](https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/)
- - [HTC’s answer to Ray-Ban Meta is coming to the US, but the price may sting](https://www.androidauthority.com/htc-vive-eagle-us-preorders-live-3687050/)
- - [OnePlus’ fate in the US and Europe may be revealed very soon](https://www.androidauthority.com/oneplus-may-announce-departure-this-week-3687028/)<!-- TECH:END -->
+ - [Android Auto may be preparing a smarter media player for your dashboard](https://www.androidauthority.com/android-auto-media-player-card-apk-teardown-3687057/)
+ - [Google’s upcoming Home Display could bring back one major Nest Hub Max feature](https://www.androidauthority.com/google-home-display-camera-3687045/)
+ - [iPadOS 27 &amp; macOS 27 beta 3 get a version 2 update as public betas drop](https://appleinsider.com/articles/26/07/13/ipados-27-macos-27-beta-3-get-a-version-2-update-as-public-betas-drop?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
