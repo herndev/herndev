@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Tiger](http://9gag.com/gag/aW4wWNK)
- - ⏩ [Breathtaking](http://9gag.com/gag/aMV3rgR)
- - 👉 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)<!-- MEMES:END -->
+ - 💣 [Cultural tragedy unfolding in real time](http://9gag.com/gag/aE0LzAe)
+ - ⏩ [Si. Ma Noooo. [Repost]](http://9gag.com/gag/aND6KvK)
+ - 👉 [Been a while since you seen this angel](http://9gag.com/gag/avy3LZd)<!-- MEMES:END -->
 
 ---
 
