@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo just teased a new gaming handheld, and it has a familiar twist](https://www.androidauthority.com/lenovo-legion-c700-cloud-gaming-handheld-3686727/)
- - [Docs: Uber lobbied for a &quot;phased transition&quot; to AVs, giving it an edge over self-driving developers; Uber says AV industry proposals overlook drivers&#39; rights &lpar;Aarian Marshall/Wired&rpar;](https://www.techmeme.com/260713/p5#a260713p5)
- - [Eating disorder therapists say patients are increasingly using AI chatbots for advice, while AI also appears to be directing more patients to helplines &lpar;Julie Jargon/Wall Street Journal&rpar;](https://www.techmeme.com/260713/p4#a260713p4)<!-- TECH:END -->
+ - [SigLens acquired by Apple for debugging massive apps and services](https://appleinsider.com/articles/26/07/13/siglens-acquired-by-apple-for-debugging-massive-apps-and-services?utm_source=rss)
+ - [6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom](https://www.wired.com/story/the-best-bidets-for-every-bathroom-and-budget/)
+ - [OpenAI is learning from Gemini’s trouble with usage limits and easing restrictions on GPT-5.6](https://www.androidauthority.com/openai-gemini-trouble-easing-gpt-5-6-usage-limits-3686805/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
