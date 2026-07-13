@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even the dog knew.](http://9gag.com/gag/aBy7Qnx)
- - ⏩ [Breathtaking](http://9gag.com/gag/aMV3rgR)
- - 👉 [Need unbend it](http://9gag.com/gag/aoyb0Aw)<!-- MEMES:END -->
+ - 💣 [Society](http://9gag.com/gag/aAyorYR)
+ - ⏩ [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
+ - 👉 [360 no scope](http://9gag.com/gag/abA9yBb)<!-- MEMES:END -->
 
 ---
 
