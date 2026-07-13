@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says it will discontinue a feature that allowed users to generate images in Meta AI using public Instagram accounts, following days of criticism &lpar;Corbin Bolies/Variety&rpar;](https://www.techmeme.com/260710/p35#a260710p35)
- - [Microsoft Reports a Massive 25 Percent Jump in Emissions](https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/)
- - [In response to Apple&#39;s trade secret theft lawsuit, OpenAI says &quot;we have no interest in other companies&#39; trade secrets&quot; &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260710/p34#a260710p34)<!-- TECH:END -->
+ - [A profile of Asha Sharma, an outsider elevated by Satya Nadella to lead Xbox, where she made sweeping job cuts and shed game studios within her first few months &lpar;Financial Times&rpar;](https://www.techmeme.com/260712/p11#a260712p11)
+ - [Memo: Tang Jie, founder of Z.ai, the Chinese lab behind the GLM models, argues frontier AI capabilities should stay &quot;as open and widely accessible as possible&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260712/p10#a260712p10)
+ - [Sources: Cursor is building a general-purpose AI agent codenamed Sand, aimed at non-developers, that handles emails, texts, and documents to rival Claude Cowork &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260712/p9#a260712p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
