@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Neill Inspired a Generation of Scientists](https://www.wired.com/story/sam-neill-inspired-a-generation-of-scientists/)
- - [T-Mobile Customers on Old Plans Are Being Pushed to New Ones Starting This Week](https://www.cnet.com/tech/mobile/t-mobile-customers-on-old-plans-are-being-pushed-to-new-ones-starting-this-week/)
- - [Waze Gets a &#39;Less Chatty&#39; Update, Personalized Routes](https://www.cnet.com/roadshow/news/new-less-chatty-waze-update-personalized-routes-roll-out-globally/)<!-- TECH:END -->
+ - [Sources: Trump admin and industry groups have discussed streamlining releases of US open models of equal or lesser capability than leading Chinese open models &lpar;Benjamin Guggenheim/Washington Post&rpar;](https://www.techmeme.com/260713/p32#a260713p32)
+ - [The Best Movies to Stream This Month &lpar;July 2026&rpar;](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
+ - [Apple releases the first public betas of iOS 27, iPadOS 27, macOS 27 Golden Gate, watchOS 27, and tvOS 27, marking the public debut of the new Siri AI &lpar;Will Shanklin/Engadget&rpar;](https://www.techmeme.com/260713/p31#a260713p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
