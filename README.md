@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Asha Sharma, an outsider elevated by Satya Nadella to lead Xbox, where she made sweeping job cuts and shed game studios within her first few months &lpar;Financial Times&rpar;](https://www.techmeme.com/260712/p11#a260712p11)
- - [Memo: Tang Jie, founder of Z.ai, the Chinese lab behind the GLM models, argues frontier AI capabilities should stay &quot;as open and widely accessible as possible&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260712/p10#a260712p10)
- - [Sources: Cursor is building a general-purpose AI agent codenamed Sand, aimed at non-developers, that handles emails, texts, and documents to rival Claude Cowork &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260712/p9#a260712p9)<!-- TECH:END -->
+ - [Claude just delayed the Fable 5 paywall again, extending free access until this date](https://www.androidauthority.com/claude-fable-5-access-extended-3686668/)
+ - [A Taiwanese minister says TSMC plans two more advanced chip packaging plants in Chiayi Science Park, with all four expected to generate $9.35B+ in annual output &lpar;Wen-Yee Lee/Reuters&rpar;](https://www.techmeme.com/260713/p2#a260713p2)
+ - [Open weight AI models are facing an existential policy test in the US, with Anthropic leading a campaign against Chinese models over distillation concerns &lpar;Nathan Lambert/Interconnects AI&rpar;](https://www.techmeme.com/260713/p1#a260713p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
