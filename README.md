@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [360 no scope](http://9gag.com/gag/abA9yBb)
- - ⏩ [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
- - 👉 [Jared Leto&#39;s last 4 films have lost an estimated $970 million. He has no upcoming film roles](http://9gag.com/gag/aMV3bWV)<!-- MEMES:END -->
+ - 💣 [When local politicians made stealing legal](http://9gag.com/gag/aoybZRe)
+ - ⏩ [360 no scope](http://9gag.com/gag/abA9yBb)
+ - 👉 [Woman logic](http://9gag.com/gag/a4PD4vZ)<!-- MEMES:END -->
 
 ---
 
