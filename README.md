@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
- - ⏩ [Breathtaking](http://9gag.com/gag/aMV3rgR)
- - 👉 [What are they watching?](http://9gag.com/gag/adBmj09)<!-- MEMES:END -->
+ - 💣 [Breathtaking](http://9gag.com/gag/aMV3rgR)
+ - ⏩ [RIP Sam Neill. Farewell to an absolute legend who shaped our childhood](http://9gag.com/gag/apRWBVW)
+ - 👉 [RIP King!](http://9gag.com/gag/aYQ2wMq)<!-- MEMES:END -->
 
 ---
 
