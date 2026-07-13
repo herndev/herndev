@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)
- - ⏩ [Never trust them.](http://9gag.com/gag/aGyXP45)
- - 👉 [Doing my part](http://9gag.com/gag/a87BLrY)<!-- MEMES:END -->
+ - 💣 [360 no scope](http://9gag.com/gag/abA9yBb)
+ - ⏩ [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
+ - 👉 [Jared Leto&#39;s last 4 films have lost an estimated $970 million. He has no upcoming film roles](http://9gag.com/gag/aMV3bWV)<!-- MEMES:END -->
 
 ---
 
