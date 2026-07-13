@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Society](http://9gag.com/gag/aAyorYR)
- - ⏩ [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
- - 👉 [360 no scope](http://9gag.com/gag/abA9yBb)<!-- MEMES:END -->
+ - 💣 [The Tiger](http://9gag.com/gag/aW4wWNK)
+ - ⏩ [Breathtaking](http://9gag.com/gag/aMV3rgR)
+ - 👉 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)<!-- MEMES:END -->
 
 ---
 
