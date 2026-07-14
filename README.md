@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know what i mean](http://9gag.com/gag/axyXGL1)
- - ⏩ [Whole](http://9gag.com/gag/aPAKG5w)
- - 👉 [The whole Fu*king Credit Score is a Scam made by the rich to keep the people poor and in debt FOH](http://9gag.com/gag/an7LBjb)<!-- MEMES:END -->
+ - 💣 [Normal day at office](http://9gag.com/gag/a9y97Zj)
+ - ⏩ [I have always wondered how they are able to stay so accurate. Is there a slender frame they are following that can&#39;t be seen?](http://9gag.com/gag/aND6nv4)
+ - 👉 [Si. Ma Noooo. [Repost]](http://9gag.com/gag/aND6KvK)<!-- MEMES:END -->
 
 ---
 
