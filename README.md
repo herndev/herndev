@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More deleted Pixel 11 Amazon listings reveal full US pricing and specs](https://www.androidauthority.com/google-pixel-11-us-pricing-specs-leak-3687082/)
- - [In the wake of China&#39;s &quot;embodied AI&quot; push, there&#39;s an urgency among China&#39;s 100+ humanoid startups to launch IPOs; LimX Dynamics raises $200M in a pre-IPO round &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260713/p36#a260713p36)
- - [How to use Playlist Playground to build Apple Music playlists in seconds](https://appleinsider.com/inside/apple-music/tips/how-to-use-playlist-playground-to-build-apple-music-playlists-in-seconds?utm_source=rss)<!-- TECH:END -->
+ - [Snapseed for Android gets ‘massively expanded’ RAW support with new update](https://www.androidauthority.com/snapseed-android-expanded-raw-support-3687123/)
+ - [Google could put your IMEI number on the lock screen, but there’s no need to worry](https://www.androidauthority.com/imei-number-lock-screen-toggle-apk-teardown-3687103/)
+ - [Researchers detail &quot;context bombing&quot;, where defenders use prompt injections to trigger guardrails of attackers&#39; LLMs, cutting AI hacking success rates by ~90% &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260714/p2#a260714p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
