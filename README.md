@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hot Take.](http://9gag.com/gag/a7ozyA2)
- - ⏩ [Ultimate solution for a vibrating appliance](http://9gag.com/gag/ae9vprQ)
- - 👉 [2 fast 2 late](http://9gag.com/gag/aO8Xbdv)<!-- MEMES:END -->
+ - 💣 [If you know what i mean](http://9gag.com/gag/axyXGL1)
+ - ⏩ [Whole](http://9gag.com/gag/aPAKG5w)
+ - 👉 [The whole Fu*king Credit Score is a Scam made by the rich to keep the people poor and in debt FOH](http://9gag.com/gag/an7LBjb)<!-- MEMES:END -->
 
 ---
 
