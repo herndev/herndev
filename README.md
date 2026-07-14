@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says Apple&#39;s claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple&#39;s initial outreach &lpar;David Ingram/NBC News&rpar;](https://www.techmeme.com/260714/p51#a260714p51)
- - [The Trump administration launches the &quot;Gold Eagle&quot; federal clearinghouse for sharing AI cyber threat information between the government and private sector &lpar;Derek B. Johnson/CyberScoop&rpar;](https://www.techmeme.com/260714/p50#a260714p50)
- - [Nothing’s good-looking Watch 3 Pro smartwatch is just $69](https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale)<!-- TECH:END -->
+ - [Study: social networks drove 5.7M+ visits to nudify sites between December 2025 and March 2026, with YouTube accounting for 1.82M and X for 1.3M visits &lpar;Ej Dickson/Wired&rpar;](https://www.techmeme.com/260714/p52#a260714p52)
+ - [Samsung shares the secret behind its next-gen creaseless foldable displays](https://www.androidauthority.com/samsung-flex-titanium-3687554/)
+ - [OpenAI says Apple&#39;s claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple&#39;s initial outreach &lpar;David Ingram/NBC News&rpar;](https://www.techmeme.com/260714/p51#a260714p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
