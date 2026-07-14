@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is putting a conversational chatbot right inside its app](https://www.androidauthority.com/talk-to-spotify-conversational-ai-beta-3687332/)
- - [Filing: Chinese chipmaker CXMT seeks to raise ~$9.8B in an IPO on Shanghai&#39;s chip-heavy STAR Board &lpar;David Morris/Bloomberg&rpar;](https://www.techmeme.com/260714/p23#a260714p23)
- - [AI startup Reflection says it has signed a $1B+ deal to secure computing capacity from Nebius, including access to Nvidia chips, following a deal with SpaceX &lpar;Aditya Soni/Reuters&rpar;](https://www.techmeme.com/260714/p22#a260714p22)<!-- TECH:END -->
+ - [Port-limited MacBook Neo gets color-matching hub &amp; mouse](https://appleinsider.com/articles/26/07/14/port-limited-macbook-neo-gets-color-matching-hub-mouse?utm_source=rss)
+ - [Hachette, Elsevier, Cengage Learning, and author Scott Turow sue Google for allegedly using millions of copyrighted books and articles to build AI models &lpar;A.J. Katz/The Wrap&rpar;](https://www.techmeme.com/260714/p30#a260714p30)
+ - [Google gets its biggest visual search update in years — here’s what’s changed](https://www.androidauthority.com/google-images-celebrates-25-years-with-new-ai-upgrades-3687349/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
