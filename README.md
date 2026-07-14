@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [FAFO &lpar;Kurwa! Version&rpar;](http://9gag.com/gag/aryjNW5)
- - ⏩ [`Roadhouse!!`](http://9gag.com/gag/a1mGXPR)
- - 👉 [Man stalked by a mountain lion saved by a Glock 27](http://9gag.com/gag/an7LNPV)<!-- MEMES:END -->
+ - 💣 [I Hope you guys win the battles no one knows you&#39;re fighting](http://9gag.com/gag/a2vn5NO)
+ - ⏩ [Definition of `take me for a ride`](http://9gag.com/gag/aO8Xvxy)
+ - 👉 [Women](http://9gag.com/gag/awy6VzQ)<!-- MEMES:END -->
 
 ---
 
