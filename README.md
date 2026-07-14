@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch, Meta Glasses, AirPods get reprieve from EU replaceable battery law](https://appleinsider.com/articles/26/07/14/apple-watch-meta-glasses-airpods-get-reprieve-from-eu-replaceable-battery-law?utm_source=rss)
- - [Remember Flash games? This Android app will let you relive your childhood](https://www.androidauthority.com/android-app-plays-flash-games-3687445/)
- - [A look at Founders Fund-backed State Affairs, which raised $70M and uses AI trained on reporting by its 76 staffers to power a Bloomberg Terminal-like product &lpar;Washington Post&rpar;](https://www.techmeme.com/260714/p38#a260714p38)<!-- TECH:END -->
+ - [Overtone, a &quot;voice- and audio-forward&quot; dating service founded by Hinge creator Justin McLeod that uses AI to make &quot;highly curated introductions&quot;, raised $18M &lpar;Amanda Silberling/TechCrunch&rpar;](https://www.techmeme.com/260714/p41#a260714p41)
+ - [Gmail’s Help Me Write now lets you tell it how you want your email edited](https://www.androidauthority.com/gmail-custome-help-me-write-edits-3687499/)
+ - [A US judge dismisses a proposed class action accusing Apple of failing to stop the dissemination of CSAM through iCloud, saying Section 230 shields the company &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260714/p40#a260714p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
