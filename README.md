@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Port-limited MacBook Neo gets color-matching hub &amp; mouse](https://appleinsider.com/articles/26/07/14/port-limited-macbook-neo-gets-color-matching-hub-mouse?utm_source=rss)
- - [Hachette, Elsevier, Cengage Learning, and author Scott Turow sue Google for allegedly using millions of copyrighted books and articles to build AI models &lpar;A.J. Katz/The Wrap&rpar;](https://www.techmeme.com/260714/p30#a260714p30)
- - [Google gets its biggest visual search update in years — here’s what’s changed](https://www.androidauthority.com/google-images-celebrates-25-years-with-new-ai-upgrades-3687349/)<!-- TECH:END -->
+ - [TerraFirma, a construction tech company founded by two former SpaceX engineers to build remote-controlled construction equipment, raised $115M &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260714/p37#a260714p37)
+ - [That ASUS OLED ROG Ally handheld won’t be a bundle exclusive, after all](https://www.androidauthority.com/that-asus-oled-rog-ally-handheld-wont-be-a-bundle-exclusive-after-all-3687457/)
+ - [PrismML confirms it is in talks with Apple about AI model-shrinking tech](https://appleinsider.com/articles/26/07/14/prismml-confirms-it-is-in-talks-with-apple-about-ai-model-shrinking-tech?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
