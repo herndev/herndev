@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Normal day at office](http://9gag.com/gag/a9y97Zj)
- - ⏩ [I have always wondered how they are able to stay so accurate. Is there a slender frame they are following that can&#39;t be seen?](http://9gag.com/gag/aND6nv4)
- - 👉 [Si. Ma Noooo. [Repost]](http://9gag.com/gag/aND6KvK)<!-- MEMES:END -->
+ - 💣 [Women: Men have no feelings\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 Men:](http://9gag.com/gag/adBmj8D)
+ - ⏩ [Breathtaking](http://9gag.com/gag/aMV3rgR)
+ - 👉 [I hate mondays](http://9gag.com/gag/adBmpwj)<!-- MEMES:END -->
 
 ---
 
