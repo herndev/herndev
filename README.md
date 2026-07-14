@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapseed for Android gets ‘massively expanded’ RAW support with new update](https://www.androidauthority.com/snapseed-android-expanded-raw-support-3687123/)
- - [Google could put your IMEI number on the lock screen, but there’s no need to worry](https://www.androidauthority.com/imei-number-lock-screen-toggle-apk-teardown-3687103/)
- - [Researchers detail &quot;context bombing&quot;, where defenders use prompt injections to trigger guardrails of attackers&#39; LLMs, cutting AI hacking success rates by ~90% &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260714/p2#a260714p2)<!-- TECH:END -->
+ - [I use NotebookLM every day, and these are my 5 favorite tips and tricks](https://www.androidauthority.com/notebooklm-tips-tricks-2026-3684989/)
+ - [New York becomes the first state to enact a data center moratorium](https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium)
+ - [The US Approves the Launch of a Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night](https://www.wired.com/story/reflect-orbital-earendil-mirror-satellite-fcc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
