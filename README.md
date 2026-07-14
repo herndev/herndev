@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Overtone, a &quot;voice- and audio-forward&quot; dating service founded by Hinge creator Justin McLeod that uses AI to make &quot;highly curated introductions&quot;, raised $18M &lpar;Amanda Silberling/TechCrunch&rpar;](https://www.techmeme.com/260714/p41#a260714p41)
- - [Gmail’s Help Me Write now lets you tell it how you want your email edited](https://www.androidauthority.com/gmail-custome-help-me-write-edits-3687499/)
- - [A US judge dismisses a proposed class action accusing Apple of failing to stop the dissemination of CSAM through iCloud, saying Section 230 shields the company &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260714/p40#a260714p40)<!-- TECH:END -->
+ - [OpenAI&#39;s first hardware device will be a HomePod, but don&#39;t tell them that](https://appleinsider.com/articles/26/07/14/openais-first-hardware-device-will-be-a-homepod-but-dont-tell-them-that?utm_source=rss)
+ - [Windows 11&amp;#8217;s big patch Tuesday allows you to hold off on updates for longer](https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates)
+ - [OpenAI may announce a ChatGPT smart speaker this year](https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
