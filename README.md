@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I Hope you guys win the battles no one knows you&#39;re fighting](http://9gag.com/gag/a2vn5NO)
- - ⏩ [Definition of `take me for a ride`](http://9gag.com/gag/aO8Xvxy)
- - 👉 [Women](http://9gag.com/gag/awy6VzQ)<!-- MEMES:END -->
+ - 💣 [When your plumber is from India and you redeem](http://9gag.com/gag/ajPoAjp)
+ - ⏩ [I hate mondays](http://9gag.com/gag/adBmpwj)
+ - 👉 [The only fight I was losing was with eye contact...](http://9gag.com/gag/aRBYAwQ)<!-- MEMES:END -->
 
 ---
 
