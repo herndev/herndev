@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources and telecoms data: a coordinated campaign of SS7 pings was used to track the locations of US personnel during the US-led strikes on Iran in February &lpar;Financial Times&rpar;](https://www.techmeme.com/260714/p15#a260714p15)
- - [Owning an Apple Home: The broken promise of Matter](https://appleinsider.com/articles/26/07/14/owning-an-apple-home-the-broken-promise-of-matter?utm_source=rss)
- - [Google’s Pixel Watch 5 finally breaks cover in new leaked renders](https://www.androidauthority.com/google-pixel-watch-5-renders-leak-3687269/)<!-- TECH:END -->
+ - [Spotify is putting a conversational chatbot right inside its app](https://www.androidauthority.com/talk-to-spotify-conversational-ai-beta-3687332/)
+ - [Filing: Chinese chipmaker CXMT seeks to raise ~$9.8B in an IPO on Shanghai&#39;s chip-heavy STAR Board &lpar;David Morris/Bloomberg&rpar;](https://www.techmeme.com/260714/p23#a260714p23)
+ - [AI startup Reflection says it has signed a $1B+ deal to secure computing capacity from Nebius, including access to Nvidia chips, following a deal with SpaceX &lpar;Aditya Soni/Reuters&rpar;](https://www.techmeme.com/260714/p22#a260714p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
