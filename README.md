@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That jump was pure magic](http://9gag.com/gag/a34VLw3)
- - ⏩ [RIP King!](http://9gag.com/gag/aYQ2wMq)
- - 👉 [They did!](http://9gag.com/gag/aXP5X5P)<!-- MEMES:END -->
+ - 💣 [Hot Take.](http://9gag.com/gag/a7ozyA2)
+ - ⏩ [Ultimate solution for a vibrating appliance](http://9gag.com/gag/ae9vprQ)
+ - 👉 [2 fast 2 late](http://9gag.com/gag/aO8Xbdv)<!-- MEMES:END -->
 
 ---
 
