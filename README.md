@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [360 no scope](http://9gag.com/gag/abA9yBb)
- - ⏩ [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
- - 👉 [When she had enough](http://9gag.com/gag/aVvNWjd)<!-- MEMES:END -->
+ - 💣 [That jump was pure magic](http://9gag.com/gag/a34VLw3)
+ - ⏩ [360 no scope](http://9gag.com/gag/abA9yBb)
+ - 👉 [Where is the stepbro when you need one?](http://9gag.com/gag/aGyWwdZ)<!-- MEMES:END -->
 
 ---
 
