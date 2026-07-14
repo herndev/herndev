@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first sunlight reflecting space mirror has been cleared for launch](https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance)
- - [Oura Ring 5 Review: Still the Smart Ring to Beat](https://www.wired.com/review/oura-ring-5/)
- - [New York Governor Kathy Hochul signs a moratorium blocking new permits for hyperscale data centers exceeding 50MW for up to one year, the first state to do so &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260714/p11#a260714p11)<!-- TECH:END -->
+ - [Sources and telecoms data: a coordinated campaign of SS7 pings was used to track the locations of US personnel during the US-led strikes on Iran in February &lpar;Financial Times&rpar;](https://www.techmeme.com/260714/p15#a260714p15)
+ - [Owning an Apple Home: The broken promise of Matter](https://appleinsider.com/articles/26/07/14/owning-an-apple-home-the-broken-promise-of-matter?utm_source=rss)
+ - [Google’s Pixel Watch 5 finally breaks cover in new leaked renders](https://www.androidauthority.com/google-pixel-watch-5-renders-leak-3687269/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
