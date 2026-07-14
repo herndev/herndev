@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TerraFirma, a construction tech company founded by two former SpaceX engineers to build remote-controlled construction equipment, raised $115M &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260714/p37#a260714p37)
- - [That ASUS OLED ROG Ally handheld won’t be a bundle exclusive, after all](https://www.androidauthority.com/that-asus-oled-rog-ally-handheld-wont-be-a-bundle-exclusive-after-all-3687457/)
- - [PrismML confirms it is in talks with Apple about AI model-shrinking tech](https://appleinsider.com/articles/26/07/14/prismml-confirms-it-is-in-talks-with-apple-about-ai-model-shrinking-tech?utm_source=rss)<!-- TECH:END -->
+ - [Apple Watch, Meta Glasses, AirPods get reprieve from EU replaceable battery law](https://appleinsider.com/articles/26/07/14/apple-watch-meta-glasses-airpods-get-reprieve-from-eu-replaceable-battery-law?utm_source=rss)
+ - [Remember Flash games? This Android app will let you relive your childhood](https://www.androidauthority.com/android-app-plays-flash-games-3687445/)
+ - [A look at Founders Fund-backed State Affairs, which raised $70M and uses AI trained on reporting by its 76 staffers to power a Bloomberg Terminal-like product &lpar;Washington Post&rpar;](https://www.techmeme.com/260714/p38#a260714p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
