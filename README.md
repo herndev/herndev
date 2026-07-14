@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That jump was pure magic](http://9gag.com/gag/a34VLw3)
- - ⏩ [360 no scope](http://9gag.com/gag/abA9yBb)
- - 👉 [Where is the stepbro when you need one?](http://9gag.com/gag/aGyWwdZ)<!-- MEMES:END -->
+ - 💣 [Where is the stepbro when you need one?](http://9gag.com/gag/aGyWwdZ)
+ - ⏩ [Breathtaking](http://9gag.com/gag/aMV3rgR)
+ - 👉 [360 no scope](http://9gag.com/gag/abA9yBb)<!-- MEMES:END -->
 
 ---
 
