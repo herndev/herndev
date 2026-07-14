@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s one of a good prank](http://9gag.com/gag/aD2EmGB)
- - ⏩ [When your plumber is from India and you redeem](http://9gag.com/gag/ajPoAjp)
- - 👉 [HR woes](http://9gag.com/gag/ayNO88b)<!-- MEMES:END -->
+ - 💣 [FAFO &lpar;Kurwa! Version&rpar;](http://9gag.com/gag/aryjNW5)
+ - ⏩ [`Roadhouse!!`](http://9gag.com/gag/a1mGXPR)
+ - 👉 [Man stalked by a mountain lion saved by a Glock 27](http://9gag.com/gag/an7LNPV)<!-- MEMES:END -->
 
 ---
 
