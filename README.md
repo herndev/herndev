@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I Hope you guys win the battles no one knows you&#39;re fighting](http://9gag.com/gag/a2vn5NO)
- - ⏩ [Fair enough.](http://9gag.com/gag/aLnyBVP)
- - 👉 [Normal day at office](http://9gag.com/gag/a9y97Zj)<!-- MEMES:END -->
+ - 💣 [That&#39;s one of a good prank](http://9gag.com/gag/aD2EmGB)
+ - ⏩ [When your plumber is from India and you redeem](http://9gag.com/gag/ajPoAjp)
+ - 👉 [HR woes](http://9gag.com/gag/ayNO88b)<!-- MEMES:END -->
 
 ---
 
