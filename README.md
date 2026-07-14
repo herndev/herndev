@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I use NotebookLM every day, and these are my 5 favorite tips and tricks](https://www.androidauthority.com/notebooklm-tips-tricks-2026-3684989/)
- - [New York becomes the first state to enact a data center moratorium](https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium)
- - [The US Approves the Launch of a Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night](https://www.wired.com/story/reflect-orbital-earendil-mirror-satellite-fcc/)<!-- TECH:END -->
+ - [The first sunlight reflecting space mirror has been cleared for launch](https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance)
+ - [Oura Ring 5 Review: Still the Smart Ring to Beat](https://www.wired.com/review/oura-ring-5/)
+ - [New York Governor Kathy Hochul signs a moratorium blocking new permits for hyperscale data centers exceeding 50MW for up to one year, the first state to do so &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260714/p11#a260714p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
