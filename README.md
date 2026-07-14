@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women: Men have no feelings\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 Men:](http://9gag.com/gag/adBmj8D)
+ - 💣 [Beautiful indeed](http://9gag.com/gag/aXP5X0z)
  - ⏩ [Breathtaking](http://9gag.com/gag/aMV3rgR)
- - 👉 [I hate mondays](http://9gag.com/gag/adBmpwj)<!-- MEMES:END -->
+ - 👉 [That jump was pure magic](http://9gag.com/gag/a34VLw3)<!-- MEMES:END -->
 
 ---
 
