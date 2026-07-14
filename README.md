@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Normal day at office](http://9gag.com/gag/a9y97Zj)
+ - 💣 [I Hope you guys win the battles no one knows you&#39;re fighting](http://9gag.com/gag/a2vn5NO)
  - ⏩ [Fair enough.](http://9gag.com/gag/aLnyBVP)
- - 👉 [Keep track isn&#39;t easy](http://9gag.com/gag/avy3P1X)<!-- MEMES:END -->
+ - 👉 [Normal day at office](http://9gag.com/gag/a9y97Zj)<!-- MEMES:END -->
 
 ---
 
