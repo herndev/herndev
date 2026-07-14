@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore-based and Alibaba-backed video generation startup PixVerse says it closed a Series C extension to raise $439M total for the round, valuing it at $2B+ &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260713/p35#a260713p35)
- - [Anthropic research based on ~310K anonymized Claude conversations shows how Claude&#39;s expressed values and behaviors vary across models and languages &lpar;Jason Nelson/Decrypt&rpar;](https://www.techmeme.com/260713/p34#a260713p34)
- - [Sources: Nous Research, the startup behind Hermes, an open-source agent and OpenClaw rival, is raising $75M+ at a $1.5B valuation led by Robot Ventures &lpar;TechCrunch&rpar;](https://www.techmeme.com/260713/p33#a260713p33)<!-- TECH:END -->
+ - [More deleted Pixel 11 Amazon listings reveal full US pricing and specs](https://www.androidauthority.com/google-pixel-11-us-pricing-specs-leak-3687082/)
+ - [In the wake of China&#39;s &quot;embodied AI&quot; push, there&#39;s an urgency among China&#39;s 100+ humanoid startups to launch IPOs; LimX Dynamics raises $200M in a pre-IPO round &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260713/p36#a260713p36)
+ - [How to use Playlist Playground to build Apple Music playlists in seconds](https://appleinsider.com/inside/apple-music/tips/how-to-use-playlist-playground-to-build-apple-music-playlists-in-seconds?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
