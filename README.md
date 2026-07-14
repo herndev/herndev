@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&#39;s first hardware device will be a HomePod, but don&#39;t tell them that](https://appleinsider.com/articles/26/07/14/openais-first-hardware-device-will-be-a-homepod-but-dont-tell-them-that?utm_source=rss)
- - [Windows 11&amp;#8217;s big patch Tuesday allows you to hold off on updates for longer](https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates)
- - [OpenAI may announce a ChatGPT smart speaker this year](https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device)<!-- TECH:END -->
+ - [OpenAI says Apple&#39;s claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple&#39;s initial outreach &lpar;David Ingram/NBC News&rpar;](https://www.techmeme.com/260714/p51#a260714p51)
+ - [The Trump administration launches the &quot;Gold Eagle&quot; federal clearinghouse for sharing AI cyber threat information between the government and private sector &lpar;Derek B. Johnson/CyberScoop&rpar;](https://www.techmeme.com/260714/p50#a260714p50)
+ - [Nothing’s good-looking Watch 3 Pro smartwatch is just $69](https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
