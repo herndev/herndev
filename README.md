@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of PsiQuantum, which raised $1B in 2025, is building a quantum computer with photonic chips made by GlobalFoundries and is closely monitored by DARPA &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](https://www.techmeme.com/260715/p8#a260715p8)
- - [Sonos is finally rolling out an update for its insanely bad app](https://www.androidauthority.com/sonos-app-update-fix-broken-redesign-3687610/)
- - [As China&#39;s rules for humanlike AI interaction take effect, many users are bemoaning the loss of the virtual companions they had created on Chinese AI platforms &lpar;Bloomberg&rpar;](https://www.techmeme.com/260715/p7#a260715p7)<!-- TECH:END -->
+ - [China&#39;s cyberspace regulator says Apple Intelligence has been registered for use on iPhones in the country; Alibaba says the service will use its Qwen model &lpar;Reuters&rpar;](https://www.techmeme.com/260715/p12#a260715p12)
+ - [Can the Exynos 2700 finally beat Snapdragon? 4 fixes Samsung needs to make](https://www.androidauthority.com/exynos-2700-wishlist-beat-snapdragon-3684805/)
+ - [The Explosive Diarrhea Outbreak Is About to Get Much Bigger](https://www.wired.com/story/explosive-diarrhea-outbreak-about-to-get-bigger/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
