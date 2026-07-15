@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s fix for recent Android Auto crashes is rolling out to users right now](https://www.androidauthority.com/android-auto-fix-3688012/)
- - [Venture funding of fintech startups grew 22.7% YoY in H1 2026 to $28.6B globally, but deal count fell 25.7% and funding fell 17.3% vs. H2 2025&#39;s $34.6B funding &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260715/p49#a260715p49)
- - [You can finally create Google Chat group convos with external guests](https://www.androidauthority.com/external-google-chat-group-conversations-3688004/)<!-- TECH:END -->
+ - [Sources: Microsoft security chief Hayete Gallot, who took over in February, has prioritized AI tools, cut several hundred roles, replaced senior execs, and more &lpar;The Information&rpar;](https://www.techmeme.com/260715/p50#a260715p50)
+ - [How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina](https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-15-2026/)
+ - [How You Distill 80 Years of Marvel Comics Into Magic: The Gathering Cards](https://www.cnet.com/tech/gaming/how-magic-the-gatherings-lead-designer-filtered-80-years-of-marvel-into-its-new-set/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
