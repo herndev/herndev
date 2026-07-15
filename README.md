@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Normal day at office](http://9gag.com/gag/a9y97Zj)
+ - 💣 [Dafne keen](http://9gag.com/gag/aE0LnEM)
  - ⏩ [HR woes](http://9gag.com/gag/ayNO88b)
- - 👉 [Dropped his smoke](http://9gag.com/gag/ayNO8PY)<!-- MEMES:END -->
+ - 👉 [Normal day at office](http://9gag.com/gag/a9y97Zj)<!-- MEMES:END -->
 
 ---
 
