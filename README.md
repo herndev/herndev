@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well well well](http://9gag.com/gag/ayNO84W)
- - ⏩ [Today is my 69th birthday. Send me TT\u00b4s!](http://9gag.com/gag/aRBYVbj)
- - 👉 [At least no one destroyed anything.](http://9gag.com/gag/aXP59B2)<!-- MEMES:END -->
+ - 💣 [Technology before the 2000s](http://9gag.com/gag/a5Q8rbV)
+ - ⏩ [Definition of `take me for a ride`](http://9gag.com/gag/aO8Xvxy)
+ - 👉 [I still like cakes and puddings](http://9gag.com/gag/adBmjo9)<!-- MEMES:END -->
 
 ---
 
