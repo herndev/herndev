@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI details GPT-Red, an internal automated red-teaming model that helps it find and fix prompt injection vulnerabilities at scale before wider deployment &lpar;OpenAI&rpar;](https://www.techmeme.com/260715/p45#a260715p45)
- - [Apple Maps ads exclude home services, political ads, and more](https://appleinsider.com/articles/26/07/15/apple-maps-ads-exclude-home-services-political-ads-and-more?utm_source=rss)
- - [Apple bumps monthly AppleCare+ for iPad, Mac by 50 cents](https://appleinsider.com/articles/26/07/15/apple-bumps-monthly-applecare-for-ipad-mac-by-50-cents?utm_source=rss)<!-- TECH:END -->
+ - [Mario Kart Wiicompiled will soon bring Nintendo’s classic racing action to your PC](https://www.androidauthority.com/mario-kart-wii-recomp-3687890/)
+ - [Coinbase&#39;s Jesse Pollak says Jordan Fish, aka &quot;Cobie&quot;, will now lead the Base app team after acknowledging some of Base&#39;s bets on social features fell short &lpar;Daniel Kuhn/The Block&rpar;](https://www.techmeme.com/260715/p48#a260715p48)
+ - [SpaceX shares fell for a fourth-straight session on Wednesday, briefly dropping below their $135 IPO price for the first time before closing at $135.27 &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260715/p47#a260715p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
