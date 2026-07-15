@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Technology before the 2000s](http://9gag.com/gag/a5Q8rbV)
- - ⏩ [Definition of `take me for a ride`](http://9gag.com/gag/aO8Xvxy)
- - 👉 [I still like cakes and puddings](http://9gag.com/gag/adBmjo9)<!-- MEMES:END -->
+ - 💣 [Just try it](http://9gag.com/gag/awy6V9x)
+ - ⏩ [Dropped his smoke](http://9gag.com/gag/ayNO8PY)
+ - 👉 [HR woes](http://9gag.com/gag/ayNO88b)<!-- MEMES:END -->
 
 ---
 
