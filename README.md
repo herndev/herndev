@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s cyberspace regulator says Apple Intelligence has been registered for use on iPhones in the country; Alibaba says the service will use its Qwen model &lpar;Reuters&rpar;](https://www.techmeme.com/260715/p12#a260715p12)
- - [Can the Exynos 2700 finally beat Snapdragon? 4 fixes Samsung needs to make](https://www.androidauthority.com/exynos-2700-wishlist-beat-snapdragon-3684805/)
- - [The Explosive Diarrhea Outbreak Is About to Get Much Bigger](https://www.wired.com/story/explosive-diarrhea-outbreak-about-to-get-bigger/)<!-- TECH:END -->
+ - [Neo Security, a cybersecurity startup founded by ex-SentinelOne execs and currently in stealth, raised $50M+, after a $25M seed in 2025 led by a16z and Merlin &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260715/p18#a260715p18)
+ - [The Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2026: Air, Pro, Mini](https://www.wired.com/gallery/the-best-ipad/)
+ - [MSI Claw 8 EX AI+ Review: Great Power, Shocking Price](https://www.wired.com/review/msi-claw-8-ex-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
