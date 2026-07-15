@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big AI acquisitions are not off the table under new CEO John Ternus](https://appleinsider.com/articles/26/07/15/big-ai-acquisitions-are-not-off-the-table-under-new-ceo-john-ternus?utm_source=rss)
- - [Get ready for more bloatware on your next Samsung Galaxy device](https://www.androidauthority.com/samsung-galaxy-amazon-music-bloatware-3687793/)
- - [8BitDo’s FlipPad is the most pocketable way to turn your phone into a Game Boy](https://www.theverge.com/tech/964658/8bitdo-flippad-controller-gamepad-smartphone-price-hands-on-availability)<!-- TECH:END -->
+ - [Google Search AI is under fire after safety report slams its safeguards](https://www.androidauthority.com/report-says-google-search-ai-harmful-for-kids-3687868/)
+ - [OpenAI employees donated a combined $215K+ to Guardrails Alliance, a super PAC seeking stricter AI rules and opposing Greg Brockman-backed Leading the Future &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260715/p38#a260715p38)
+ - [The CMF Watch Pro 2 falls to $39 in a return to its Prime Day price](https://www.androidauthority.com/deal-cmf-watch-pro-2-3687863/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
