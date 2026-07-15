@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just try it](http://9gag.com/gag/awy6V9x)
- - ⏩ [Dropped his smoke](http://9gag.com/gag/ayNO8PY)
- - 👉 [HR woes](http://9gag.com/gag/ayNO88b)<!-- MEMES:END -->
+ - 💣 [Normal day at office](http://9gag.com/gag/a9y97Zj)
+ - ⏩ [HR woes](http://9gag.com/gag/ayNO88b)
+ - 👉 [Dropped his smoke](http://9gag.com/gag/ayNO8PY)<!-- MEMES:END -->
 
 ---
 
