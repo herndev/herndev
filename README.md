@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I Hope you guys win the battles no one knows you&#39;re fighting](http://9gag.com/gag/a2vn5NO)
- - ⏩ [Women](http://9gag.com/gag/awy6VzQ)
- - 👉 [Definition of `take me for a ride`](http://9gag.com/gag/aO8Xvxy)<!-- MEMES:END -->
+ - 💣 [Vilify the rich](http://9gag.com/gag/aGyWDNZ)
+ - ⏩ [I Hope you guys win the battles no one knows you&#39;re fighting](http://9gag.com/gag/a2vn5NO)
+ - 👉 [Women](http://9gag.com/gag/awy6VzQ)<!-- MEMES:END -->
 
 ---
 
