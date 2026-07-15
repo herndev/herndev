@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who is Tang Tan, the ex-Apple VP at the core of OpenAI&#39;s trade secret theft lawsuits](https://appleinsider.com/articles/26/07/15/who-is-tang-tan-the-ex-apple-vp-at-the-core-of-openais-trade-secret-theft-lawsuits?utm_source=rss)
- - [Anthropic, Blackstone, and Hellman &amp; Friedman&#39;s $1.5B AI implementation company, announced in May, launches with the name Ode with Anthropic and 100 engineers &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260715/p40#a260715p40)
- - [XGIMI opens up sales of the super-portable Elfin Flip 4K and Laser projectors](https://www.androidauthority.com/xgimi-opens-up-sales-of-elfin-flip-projectors-3687865/)<!-- TECH:END -->
+ - [OpenAI details GPT-Red, an internal automated red-teaming model that helps it find and fix prompt injection vulnerabilities at scale before wider deployment &lpar;OpenAI&rpar;](https://www.techmeme.com/260715/p45#a260715p45)
+ - [Apple Maps ads exclude home services, political ads, and more](https://appleinsider.com/articles/26/07/15/apple-maps-ads-exclude-home-services-political-ads-and-more?utm_source=rss)
+ - [Apple bumps monthly AppleCare+ for iPad, Mac by 50 cents](https://appleinsider.com/articles/26/07/15/apple-bumps-monthly-applecare-for-ipad-mac-by-50-cents?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
