@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Hadrius, which provides AI-native compliance tools for financial services, raised a $22M Series A led by CRV with participation from Y Combinator &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260715/p1#a260715p1)
- - [Sources: Stripe and PE firm Advent International have jointly offered $60.50/share to acquire PayPal, a 28% premium to Tuesday&#39;s close, valuing it at $53B+ &lpar;Milana Vinn/Reuters&rpar;](https://www.techmeme.com/260714/p59#a260714p59)
- - [Google and Epic give up fighting — third-party Android app stores are coming next week](https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play)<!-- TECH:END -->
+ - [A profile of PsiQuantum, which raised $1B in 2025, is building a quantum computer with photonic chips made by GlobalFoundries and is closely monitored by DARPA &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](https://www.techmeme.com/260715/p8#a260715p8)
+ - [Sonos is finally rolling out an update for its insanely bad app](https://www.androidauthority.com/sonos-app-update-fix-broken-redesign-3687610/)
+ - [As China&#39;s rules for humanlike AI interaction take effect, many users are bemoaning the loss of the virtual companions they had created on Chinese AI platforms &lpar;Bloomberg&rpar;](https://www.techmeme.com/260715/p7#a260715p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
