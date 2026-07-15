@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neo Security, a cybersecurity startup founded by ex-SentinelOne execs and currently in stealth, raised $50M+, after a $25M seed in 2025 led by a16z and Merlin &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260715/p18#a260715p18)
- - [The Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2026: Air, Pro, Mini](https://www.wired.com/gallery/the-best-ipad/)
- - [MSI Claw 8 EX AI+ Review: Great Power, Shocking Price](https://www.wired.com/review/msi-claw-8-ex-ai/)<!-- TECH:END -->
+ - [Samsung swings in with Spider-Man to tease the Galaxy Z Fold 8’s ‘new shape’](https://www.androidauthority.com/galaxy-z-fold-8-spider-man-ad-3687658/)
+ - [Spotify has finally solved the problem of kids messing up your Wrapped stats](https://www.androidauthority.com/spotify-managed-accounts-3687370/)
+ - [The tiniest MMO](https://www.theverge.com/entertainment/965621/playdate-mmo-pointlessquest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
