@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung swings in with Spider-Man to tease the Galaxy Z Fold 8’s ‘new shape’](https://www.androidauthority.com/galaxy-z-fold-8-spider-man-ad-3687658/)
- - [Spotify has finally solved the problem of kids messing up your Wrapped stats](https://www.androidauthority.com/spotify-managed-accounts-3687370/)
- - [The tiniest MMO](https://www.theverge.com/entertainment/965621/playdate-mmo-pointlessquest)<!-- TECH:END -->
+ - [Big AI acquisitions are not off the table under new CEO John Ternus](https://appleinsider.com/articles/26/07/15/big-ai-acquisitions-are-not-off-the-table-under-new-ceo-john-ternus?utm_source=rss)
+ - [Get ready for more bloatware on your next Samsung Galaxy device](https://www.androidauthority.com/samsung-galaxy-amazon-music-bloatware-3687793/)
+ - [8BitDo’s FlipPad is the most pocketable way to turn your phone into a Game Boy](https://www.theverge.com/tech/964658/8bitdo-flippad-controller-gamepad-smartphone-price-hands-on-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
