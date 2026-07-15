@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search AI is under fire after safety report slams its safeguards](https://www.androidauthority.com/report-says-google-search-ai-harmful-for-kids-3687868/)
- - [OpenAI employees donated a combined $215K+ to Guardrails Alliance, a super PAC seeking stricter AI rules and opposing Greg Brockman-backed Leading the Future &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260715/p38#a260715p38)
- - [The CMF Watch Pro 2 falls to $39 in a return to its Prime Day price](https://www.androidauthority.com/deal-cmf-watch-pro-2-3687863/)<!-- TECH:END -->
+ - [Who is Tang Tan, the ex-Apple VP at the core of OpenAI&#39;s trade secret theft lawsuits](https://appleinsider.com/articles/26/07/15/who-is-tang-tan-the-ex-apple-vp-at-the-core-of-openais-trade-secret-theft-lawsuits?utm_source=rss)
+ - [Anthropic, Blackstone, and Hellman &amp; Friedman&#39;s $1.5B AI implementation company, announced in May, launches with the name Ode with Anthropic and 100 engineers &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260715/p40#a260715p40)
+ - [XGIMI opens up sales of the super-portable Elfin Flip 4K and Laser projectors](https://www.androidauthority.com/xgimi-opens-up-sales-of-elfin-flip-projectors-3687865/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
