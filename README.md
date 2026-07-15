@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dafne keen](http://9gag.com/gag/aE0LnEM)
- - ⏩ [Normal day at office](http://9gag.com/gag/a9y97Zj)
- - 👉 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)<!-- MEMES:END -->
+ - 💣 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)
+ - ⏩ [Well well well](http://9gag.com/gag/ayNO84W)
+ - 👉 [Just try it](http://9gag.com/gag/awy6V9x)<!-- MEMES:END -->
 
 ---
 
