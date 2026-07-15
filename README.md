@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Today is my 69th birthday. Send me TT\u00b4s!](http://9gag.com/gag/aRBYVbj)
- - ⏩ [The only fight I was losing was with eye contact...](http://9gag.com/gag/aRBYAwQ)
+ - 💣 [Wealth!](http://9gag.com/gag/a87B4qQ)
+ - ⏩ [Women: Men have no feelings\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 Men:](http://9gag.com/gag/adBmj8D)
  - 👉 [At least no one destroyed anything.](http://9gag.com/gag/aXP59B2)<!-- MEMES:END -->
 
 ---
