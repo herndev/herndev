@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: social networks drove 5.7M+ visits to nudify sites between December 2025 and March 2026, with YouTube accounting for 1.82M and X for 1.3M visits &lpar;Ej Dickson/Wired&rpar;](https://www.techmeme.com/260714/p52#a260714p52)
- - [Samsung shares the secret behind its next-gen creaseless foldable displays](https://www.androidauthority.com/samsung-flex-titanium-3687554/)
- - [OpenAI says Apple&#39;s claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple&#39;s initial outreach &lpar;David Ingram/NBC News&rpar;](https://www.techmeme.com/260714/p51#a260714p51)<!-- TECH:END -->
+ - [Sources: CoreWeave is exploring the use of financial derivatives as a potential hedge against a future drop in memory and storage chip prices &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260714/p53#a260714p53)
+ - [LaserPecker LX2 review: Leveling up your laser game, for a price](https://appleinsider.com/articles/26/07/15/laserpecker-lx2-review-leveling-up-your-laser-game-for-a-price?utm_source=rss)
+ - [OpenAI&#39;s First Device Will Reportedly Be a Portable Smart Speaker](https://www.cnet.com/tech/openais-first-device-will-reportedly-be-a-portable-smart-speaker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
