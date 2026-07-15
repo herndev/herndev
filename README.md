@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: CoreWeave is exploring the use of financial derivatives as a potential hedge against a future drop in memory and storage chip prices &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260714/p53#a260714p53)
- - [LaserPecker LX2 review: Leveling up your laser game, for a price](https://appleinsider.com/articles/26/07/15/laserpecker-lx2-review-leveling-up-your-laser-game-for-a-price?utm_source=rss)
- - [OpenAI&#39;s First Device Will Reportedly Be a Portable Smart Speaker](https://www.cnet.com/tech/openais-first-device-will-reportedly-be-a-portable-smart-speaker/)<!-- TECH:END -->
+ - [NYC-based Hadrius, which provides AI-native compliance tools for financial services, raised a $22M Series A led by CRV with participation from Y Combinator &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260715/p1#a260715p1)
+ - [Sources: Stripe and PE firm Advent International have jointly offered $60.50/share to acquire PayPal, a 28% premium to Tuesday&#39;s close, valuing it at $53B+ &lpar;Milana Vinn/Reuters&rpar;](https://www.techmeme.com/260714/p59#a260714p59)
+ - [Google and Epic give up fighting — third-party Android app stores are coming next week](https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
