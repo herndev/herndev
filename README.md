@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mario Kart Wiicompiled will soon bring Nintendo’s classic racing action to your PC](https://www.androidauthority.com/mario-kart-wii-recomp-3687890/)
- - [Coinbase&#39;s Jesse Pollak says Jordan Fish, aka &quot;Cobie&quot;, will now lead the Base app team after acknowledging some of Base&#39;s bets on social features fell short &lpar;Daniel Kuhn/The Block&rpar;](https://www.techmeme.com/260715/p48#a260715p48)
- - [SpaceX shares fell for a fourth-straight session on Wednesday, briefly dropping below their $135 IPO price for the first time before closing at $135.27 &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260715/p47#a260715p47)<!-- TECH:END -->
+ - [Google’s fix for recent Android Auto crashes is rolling out to users right now](https://www.androidauthority.com/android-auto-fix-3688012/)
+ - [Venture funding of fintech startups grew 22.7% YoY in H1 2026 to $28.6B globally, but deal count fell 25.7% and funding fell 17.3% vs. H2 2025&#39;s $34.6B funding &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260715/p49#a260715p49)
+ - [You can finally create Google Chat group convos with external guests](https://www.androidauthority.com/external-google-chat-group-conversations-3688004/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
