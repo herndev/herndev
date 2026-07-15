@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vilify the rich](http://9gag.com/gag/aGyWDNZ)
- - ⏩ [I Hope you guys win the battles no one knows you&#39;re fighting](http://9gag.com/gag/a2vn5NO)
- - 👉 [Women](http://9gag.com/gag/awy6VzQ)<!-- MEMES:END -->
+ - 💣 [Today is my 69th birthday. Send me TT\u00b4s!](http://9gag.com/gag/aRBYVbj)
+ - ⏩ [The only fight I was losing was with eye contact...](http://9gag.com/gag/aRBYAwQ)
+ - 👉 [At least no one destroyed anything.](http://9gag.com/gag/aXP59B2)<!-- MEMES:END -->
 
 ---
 
