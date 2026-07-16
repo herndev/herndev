@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s next flagship Gemini model reportedly stuck months behind schedule](https://www.androidauthority.com/google-gemini-3-5-pro-launch-delayed-3688434/)
- - [US Homeland Security says it seized 30k+ SIM cards in June and July in a nationwide operation it claims dismantled infrastructure used in telephone fraud &lpar;Lorelei Smillie/Bloomberg&rpar;](https://www.techmeme.com/260716/p57#a260716p57)
- - [Fortnite is getting a bunch of AI-powered ‘personas’](https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas)<!-- TECH:END -->
+ - [A New York State school district is piloting a humanoid robot teacher by the company Realbotix to help students with summer school classes &lpar;Chase DiBenedetto/Mashable&rpar;](https://www.techmeme.com/260716/p58#a260716p58)
+ - [Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis](https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/)
+ - [Google’s next flagship Gemini model reportedly stuck months behind schedule](https://www.androidauthority.com/google-gemini-3-5-pro-launch-delayed-3688434/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
