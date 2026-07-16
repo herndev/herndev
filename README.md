@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus confirms it will no longer operate in North America or Europe but will continue in China, while Realme, another Oppo sub-brand, will exit China &lpar;CNET&rpar;](https://www.techmeme.com/260716/p37#a260716p37)
- - [China, Russia, Brazil, and 26 other countries sign an agreement to establish the World AI Cooperation Organization in Shanghai &lpar;Reuters&rpar;](https://www.techmeme.com/260716/p36#a260716p36)
- - [Apple&amp;#8217;s OLED iPad Mini upgrade is on the way as prices continue to rise](https://www.theverge.com/tech/966535/apple-oled-ipad-mini-rumor)<!-- TECH:END -->
+ - [Lenovo’s Tab Plus Gen 2 tablet with that giant speaker is now up for grabs in the US](https://www.androidauthority.com/lenovo-tab-plus-gen-2-us-launch-3688281/)
+ - [Google is better at playing this game](https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai)
+ - [Roblox will let people use AI to make games on their phone](https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
