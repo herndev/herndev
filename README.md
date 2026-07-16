@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini gets ready to let you fine-tune its voice models](https://www.androidauthority.com/gemini-voice-customization-3688391/)
- - [An NYT reporter finds AI-generated, unauthorized biographies of herself and other journalists on Amazon, where AI-made books with elusive &quot;authors&quot; proliferate &lpar;Kashmir Hill/New York Times&rpar;](https://www.techmeme.com/260716/p55#a260716p55)
- - [Verizon is cutting jobs and selling hundreds of stores to turn its fortune around](https://www.androidauthority.com/verizon-selling-hundreds-of-stores-3688400/)<!-- TECH:END -->
+ - [Google’s next flagship Gemini model reportedly stuck months behind schedule](https://www.androidauthority.com/google-gemini-3-5-pro-launch-delayed-3688434/)
+ - [US Homeland Security says it seized 30k+ SIM cards in June and July in a nationwide operation it claims dismantled infrastructure used in telephone fraud &lpar;Lorelei Smillie/Bloomberg&rpar;](https://www.techmeme.com/260716/p57#a260716p57)
+ - [Fortnite is getting a bunch of AI-powered ‘personas’](https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
