@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rival AI assistants could soon gain full access to Android features](https://www.androidauthority.com/eu-android-ai-google-search-mandates-3688186/)
- - [OnePlus never had a chance in the US](https://www.theverge.com/tech/966274/oneplus-never-had-a-chance-in-the-us)
- - [Claude can now use your 1Password credentials for you](https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration)<!-- TECH:END -->
+ - [OnePlus confirms it will no longer operate in North America or Europe but will continue in China, while Realme, another Oppo sub-brand, will exit China &lpar;CNET&rpar;](https://www.techmeme.com/260716/p37#a260716p37)
+ - [China, Russia, Brazil, and 26 other countries sign an agreement to establish the World AI Cooperation Organization in Shanghai &lpar;Reuters&rpar;](https://www.techmeme.com/260716/p36#a260716p36)
+ - [Apple&amp;#8217;s OLED iPad Mini upgrade is on the way as prices continue to rise](https://www.theverge.com/tech/966535/apple-oled-ipad-mini-rumor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
