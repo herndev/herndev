@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Impressive!](http://9gag.com/gag/aW4w8yn)
- - ⏩ [Just try it](http://9gag.com/gag/awy6V9x)
- - 👉 [Peaks](http://9gag.com/gag/aVvNqZy)<!-- MEMES:END -->
+ - 💣 [Is skydiving a sport?](http://9gag.com/gag/aGyW1Vz)
+ - ⏩ [Dropped his smoke](http://9gag.com/gag/ayNO8PY)
+ - 👉 [Indian Glass Master](http://9gag.com/gag/ajPoq6G)<!-- MEMES:END -->
 
 ---
 
