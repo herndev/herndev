@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cadence unveils AuraStack AI Super Agent, an AI platform for PCB and advanced chip packaging design, with Nvidia, TSMC, and Schneider Electric among early users &lpar;Marco Chiappetta/Forbes&rpar;](https://www.techmeme.com/260715/p51#a260715p51)
- - [The Northeast Is Being Blanketed in Canadian Wildfire Smoke](https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/)
- - [HP&amp;#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal](https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale)<!-- TECH:END -->
+ - [SpaceXAI open-sources Grok Build under an Apache 2.0 license after the tool had uploaded user repositories to a Google Cloud bucket, causing a severe backlash &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260715/p52#a260715p52)
+ - [Android 17 QPR1 Beta 7 drops a few bugfixes for die-hard Pixel testers](https://www.androidauthority.com/android-17-qpr1-beta-7-3688027/)
+ - [Rumored Galaxy Watch Ultra 2 Might Fix Samsung&#39;s Biggest Smartwatch Problem](https://www.cnet.com/tech/mobile/samsung-galaxy-watch-9-ultra-2-rumors-everything-we-know/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
