@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Roadhouse!!`](http://9gag.com/gag/a1mGXPR)
- - ⏩ [Indian Glass Master](http://9gag.com/gag/ajPoq6G)
+ - 💣 [Dropped his smoke](http://9gag.com/gag/ayNO8PY)
+ - ⏩ [Just try it](http://9gag.com/gag/awy6V9x)
  - 👉 [F**k cancer!](http://9gag.com/gag/a1mGd9D)<!-- MEMES:END -->
 
 ---
