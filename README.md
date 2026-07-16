@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Indian Glass Master](http://9gag.com/gag/ajPoq6G)
- - ⏩ [4 genre 1 place](http://9gag.com/gag/aKGr341)
- - 👉 [Impressive!](http://9gag.com/gag/aW4w8yn)<!-- MEMES:END -->
+ - 💣 [Is skydiving a sport?](http://9gag.com/gag/aGyW1Vz)
+ - ⏩ [Indian Glass Master](http://9gag.com/gag/ajPoq6G)
+ - 👉 [Dropped his smoke](http://9gag.com/gag/ayNO8PY)<!-- MEMES:END -->
 
 ---
 
