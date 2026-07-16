@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just saying...](http://9gag.com/gag/a4PDZgQ)
- - ⏩ [No tacos for you](http://9gag.com/gag/a34VMY7)
- - 👉 [Peaks](http://9gag.com/gag/aVvNqZy)<!-- MEMES:END -->
+ - 💣 [...](http://9gag.com/gag/aQz0eqW)
+ - ⏩ [See? Americans Do Use Concrete Blocks.](http://9gag.com/gag/ajPoXO0)
+ - 👉 [Painfully accurate](http://9gag.com/gag/a34VqpQ)<!-- MEMES:END -->
 
 ---
 
