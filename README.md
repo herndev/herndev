@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings: Dario Amodei gave $1M in May to Public First, a super PAC advocating for AI safety regulations, seemingly his first seven-figure political donation &lpar;Brendan Bordelon/Politico&rpar;](https://www.techmeme.com/260716/p15#a260716p15)
- - [Alpaca, which offers brokerage and financial infrastructure, raised $135M in equity and $300M in debt, following a $150M Series D in January &lpar;Bernard Goyder/Bloomberg&rpar;](https://www.techmeme.com/260716/p14#a260716p14)
- - [Your LCD Steam Deck may not be as repairable anymore as spare parts dry out](https://www.androidauthority.com/steam-deck-lcd-spare-parts-sunset-3688162/)<!-- TECH:END -->
+ - [Rival AI assistants could soon gain full access to Android features](https://www.androidauthority.com/eu-android-ai-google-search-mandates-3688186/)
+ - [OnePlus never had a chance in the US](https://www.theverge.com/tech/966274/oneplus-never-had-a-chance-in-the-us)
+ - [Claude can now use your 1Password credentials for you](https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
