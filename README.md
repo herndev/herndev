@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well well well](http://9gag.com/gag/ayNO84W)
- - ⏩ [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)
- - 👉 [Just try it](http://9gag.com/gag/awy6V9x)<!-- MEMES:END -->
+ - 💣 [Indian Glass Master](http://9gag.com/gag/ajPoq6G)
+ - ⏩ [4 genre 1 place](http://9gag.com/gag/aKGr341)
+ - 👉 [Impressive!](http://9gag.com/gag/aW4w8yn)<!-- MEMES:END -->
 
 ---
 
