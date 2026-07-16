@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s Oversight Board says top AI models may be restricting free expression in its first evaluation of LLMs, as it seeks to expand its influence beyond Meta &lpar;Karissa Bell/Engadget&rpar;](https://www.techmeme.com/260716/p45#a260716p45)
- - [Samsung Galaxy Z Flip 8 Rumor Roundup: What We Know About The New Compact Flip](https://www.cnet.com/tech/mobile/samsung-galaxy-z-flip-8-rumor-roundup-what-weve-heard-ahead-of-the-july-22-unpacked/)
- - [Google says users in the US can now link to and interact with some apps in AI Mode, including Instacart, Canva, and YouTube Music &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260716/p44#a260716p44)<!-- TECH:END -->
+ - [Review: Xgimi Titan Noir Max Home Projector &lpar;2026&rpar;](https://www.wired.com/story/xgimi-titan-noir-max-projector/)
+ - [DoorDash launches a limited beta of DoorDash CLI, which lets users place orders via an AI agent, available by waitlist to macOS developers in the US and Canada &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260716/p52#a260716p52)
+ - [AI-generated Roblox games are about to get much easier to make on iPhone](https://appleinsider.com/articles/26/07/16/ai-generated-roblox-games-are-about-to-get-much-easier-to-make-on-iphone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
