@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She perfectly captured why his sense of entitlement is so INFURIATING!](http://9gag.com/gag/adBm9qN)
- - ⏩ [Indian Glass Master](http://9gag.com/gag/ajPoq6G)
+ - 💣 [Indian Glass Master](http://9gag.com/gag/ajPoq6G)
+ - ⏩ [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)
  - 👉 [You&#39;re the black car on the other lane, what&#39;s your move?](http://9gag.com/gag/aZZGmv9)<!-- MEMES:END -->
 
 ---
