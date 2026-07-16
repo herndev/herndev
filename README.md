@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New York State school district is piloting a humanoid robot teacher by the company Realbotix to help students with summer school classes &lpar;Chase DiBenedetto/Mashable&rpar;](https://www.techmeme.com/260716/p58#a260716p58)
- - [Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis](https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/)
- - [Google’s next flagship Gemini model reportedly stuck months behind schedule](https://www.androidauthority.com/google-gemini-3-5-pro-launch-delayed-3688434/)<!-- TECH:END -->
+ - [Source: PayPal&#39;s board sees Stripe and PE firm Advent International&#39;s $53B takeover bid as undervaluing the company and facing regulatory and financing hurdles &lpar;Reuters&rpar;](https://www.techmeme.com/260716/p59#a260716p59)
+ - [New Lawsuit Filed Against Apple for &#39;Hide My Email&#39; Privacy Vulnerability](https://www.cnet.com/tech/services-and-software/new-lawsuit-filed-against-apple-hide-my-email-privacy-flaw/)
+ - [A New York State school district is piloting a humanoid robot teacher by the company Realbotix to help students with summer school classes &lpar;Chase DiBenedetto/Mashable&rpar;](https://www.techmeme.com/260716/p58#a260716p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
