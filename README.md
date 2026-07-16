@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceXAI open-sources Grok Build under an Apache 2.0 license after the tool had uploaded user repositories to a Google Cloud bucket, causing a severe backlash &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260715/p52#a260715p52)
- - [Android 17 QPR1 Beta 7 drops a few bugfixes for die-hard Pixel testers](https://www.androidauthority.com/android-17-qpr1-beta-7-3688027/)
- - [Rumored Galaxy Watch Ultra 2 Might Fix Samsung&#39;s Biggest Smartwatch Problem](https://www.cnet.com/tech/mobile/samsung-galaxy-watch-9-ultra-2-rumors-everything-we-know/)<!-- TECH:END -->
+ - [Filing: AST SpaceMobile delays the launch of its satellite-to-phone service to 2027 after the Blue Origin mishap and plans to raise $1B in convertible notes &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/260716/p1#a260716p1)
+ - [AI execs are bolstering personal security amid rising AI opposition; Liferaft: digital threats against execs and data centers grew 7x from late February to May &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260715/p54#a260715p54)
+ - [Filing: Elon Musk quietly bought Jacksonville, FL-based APR Energy, which operates mobile gas and diesel turbines similar to those used in Colossus 2, for ~$1B &lpar;Fred Lambert/Electrek&rpar;](https://www.techmeme.com/260715/p53#a260715p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
