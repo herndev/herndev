@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Spark can now do more things for you and is faster at doing them](https://www.androidauthority.com/gemini-spark-workspace-features-speed-improvements-3688053/)
- - [OnePlus shutdown report comes with another nasty surprise for Android fans &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/oneplus-realme-shutdown-3688034/)
- - [A US federal judge rules the State Department engaged in unconstitutional viewpoint discrimination by denying visas to researchers studying misinfo and disinfo &lpar;Mike Masnick/Techdirt&rpar;](https://www.techmeme.com/260716/p6#a260716p6)<!-- TECH:END -->
+ - [Apple&#39;s Back to School offers have started, but you can do much better](https://appleinsider.com/articles/26/07/16/apples-back-to-school-offers-have-started-but-you-can-do-much-better?utm_source=rss)
+ - [A US official says TSMC plans to spend an additional $100B to build four new US chip fabs, bringing total pledge to $265B as part of a broader US-Taiwan deal &lpar;Bloomberg&rpar;](https://www.techmeme.com/260716/p9#a260716p9)
+ - [Astronomers Have Found a Sugar Molecule in Deep Space for the First Time Ever](https://www.wired.com/story/astronomers-found-sugar-molecule-in-deep-space/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
