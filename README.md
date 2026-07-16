@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Indian Glass Master](http://9gag.com/gag/ajPoq6G)
- - ⏩ [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)
- - 👉 [You&#39;re the black car on the other lane, what&#39;s your move?](http://9gag.com/gag/aZZGmv9)<!-- MEMES:END -->
+ - 💣 [F**k cancer!](http://9gag.com/gag/a1mGd9D)
+ - ⏩ [No tacos for you](http://9gag.com/gag/a34VMY7)
+ - 👉 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)<!-- MEMES:END -->
 
 ---
 
