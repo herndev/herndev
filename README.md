@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peaks](http://9gag.com/gag/aVvNqZy)
- - ⏩ [Dropped his smoke](http://9gag.com/gag/ayNO8PY)
- - 👉 [F**k cancer!](http://9gag.com/gag/a1mGd9D)<!-- MEMES:END -->
+ - 💣 [Impressive!](http://9gag.com/gag/aW4w8yn)
+ - ⏩ [Just try it](http://9gag.com/gag/awy6V9x)
+ - 👉 [Peaks](http://9gag.com/gag/aVvNqZy)<!-- MEMES:END -->
 
 ---
 
