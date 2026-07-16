@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Review: Xgimi Titan Noir Max Home Projector &lpar;2026&rpar;](https://www.wired.com/story/xgimi-titan-noir-max-projector/)
- - [DoorDash launches a limited beta of DoorDash CLI, which lets users place orders via an AI agent, available by waitlist to macOS developers in the US and Canada &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260716/p52#a260716p52)
- - [AI-generated Roblox games are about to get much easier to make on iPhone](https://appleinsider.com/articles/26/07/16/ai-generated-roblox-games-are-about-to-get-much-easier-to-make-on-iphone?utm_source=rss)<!-- TECH:END -->
+ - [Gemini gets ready to let you fine-tune its voice models](https://www.androidauthority.com/gemini-voice-customization-3688391/)
+ - [An NYT reporter finds AI-generated, unauthorized biographies of herself and other journalists on Amazon, where AI-made books with elusive &quot;authors&quot; proliferate &lpar;Kashmir Hill/New York Times&rpar;](https://www.techmeme.com/260716/p55#a260716p55)
+ - [Verizon is cutting jobs and selling hundreds of stores to turn its fortune around](https://www.androidauthority.com/verizon-selling-hundreds-of-stores-3688400/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
