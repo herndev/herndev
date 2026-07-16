@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: AST SpaceMobile delays the launch of its satellite-to-phone service to 2027 after the Blue Origin mishap and plans to raise $1B in convertible notes &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/260716/p1#a260716p1)
- - [AI execs are bolstering personal security amid rising AI opposition; Liferaft: digital threats against execs and data centers grew 7x from late February to May &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260715/p54#a260715p54)
- - [Filing: Elon Musk quietly bought Jacksonville, FL-based APR Energy, which operates mobile gas and diesel turbines similar to those used in Colossus 2, for ~$1B &lpar;Fred Lambert/Electrek&rpar;](https://www.techmeme.com/260715/p53#a260715p53)<!-- TECH:END -->
+ - [Gemini Spark can now do more things for you and is faster at doing them](https://www.androidauthority.com/gemini-spark-workspace-features-speed-improvements-3688053/)
+ - [OnePlus shutdown report comes with another nasty surprise for Android fans &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/oneplus-realme-shutdown-3688034/)
+ - [A US federal judge rules the State Department engaged in unconstitutional viewpoint discrimination by denying visas to researchers studying misinfo and disinfo &lpar;Mike Masnick/Techdirt&rpar;](https://www.techmeme.com/260716/p6#a260716p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
