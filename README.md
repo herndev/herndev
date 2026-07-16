@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is skydiving a sport?](http://9gag.com/gag/aGyW1Vz)
- - ⏩ [Dropped his smoke](http://9gag.com/gag/ayNO8PY)
- - 👉 [Indian Glass Master](http://9gag.com/gag/ajPoq6G)<!-- MEMES:END -->
+ - 💣 [Casper definitely deserves a lifetime supply of treats](http://9gag.com/gag/adBmq59)
+ - ⏩ [Human devolution](http://9gag.com/gag/aVvNDgP)
+ - 👉 [Dynamic movement](http://9gag.com/gag/aVvNq9n)<!-- MEMES:END -->
 
 ---
 
