@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo’s Tab Plus Gen 2 tablet with that giant speaker is now up for grabs in the US](https://www.androidauthority.com/lenovo-tab-plus-gen-2-us-launch-3688281/)
- - [Google is better at playing this game](https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai)
- - [Roblox will let people use AI to make games on their phone](https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games)<!-- TECH:END -->
+ - [Meta&#39;s Oversight Board says top AI models may be restricting free expression in its first evaluation of LLMs, as it seeks to expand its influence beyond Meta &lpar;Karissa Bell/Engadget&rpar;](https://www.techmeme.com/260716/p45#a260716p45)
+ - [Samsung Galaxy Z Flip 8 Rumor Roundup: What We Know About The New Compact Flip](https://www.cnet.com/tech/mobile/samsung-galaxy-z-flip-8-rumor-roundup-what-weve-heard-ahead-of-the-july-22-unpacked/)
+ - [Google says users in the US can now link to and interact with some apps in AI Mode, including Instacart, Canva, and YouTube Music &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260716/p44#a260716p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
