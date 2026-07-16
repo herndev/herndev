@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Back to School offers have started, but you can do much better](https://appleinsider.com/articles/26/07/16/apples-back-to-school-offers-have-started-but-you-can-do-much-better?utm_source=rss)
- - [A US official says TSMC plans to spend an additional $100B to build four new US chip fabs, bringing total pledge to $265B as part of a broader US-Taiwan deal &lpar;Bloomberg&rpar;](https://www.techmeme.com/260716/p9#a260716p9)
- - [Astronomers Have Found a Sugar Molecule in Deep Space for the First Time Ever](https://www.wired.com/story/astronomers-found-sugar-molecule-in-deep-space/)<!-- TECH:END -->
+ - [Filings: Dario Amodei gave $1M in May to Public First, a super PAC advocating for AI safety regulations, seemingly his first seven-figure political donation &lpar;Brendan Bordelon/Politico&rpar;](https://www.techmeme.com/260716/p15#a260716p15)
+ - [Alpaca, which offers brokerage and financial infrastructure, raised $135M in equity and $300M in debt, following a $150M Series D in January &lpar;Bernard Goyder/Bloomberg&rpar;](https://www.techmeme.com/260716/p14#a260716p14)
+ - [Your LCD Steam Deck may not be as repairable anymore as spare parts dry out](https://www.androidauthority.com/steam-deck-lcd-spare-parts-sunset-3688162/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
