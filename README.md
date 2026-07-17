@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Demis Hassabis plans to hold meetings with US policymakers in Washington next week about his proposed US-based Standards Body for &quot;Frontier-class&quot; AI &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260717/p1#a260717p1)
- - [Google accidentally leaves a Pixel 11a clue in its Phone app](https://www.androidauthority.com/google-pixel-11-codename-google-phone-app-3688508/)
- - [Court doc: a US federal jury says Japanese chipmaker Kioxia owes Viasat $229M for infringing Viasat&#39;s flash-memory patent that helps devices use less energy &lpar;Blake Brittain/Reuters&rpar;](https://www.techmeme.com/260716/p69#a260716p69)<!-- TECH:END -->
+ - [Samsung’s free storage upgrades might return for new foldables after all, but there’s a catch](https://www.androidauthority.com/samsung-galaxy-z8-foldables-free-storage-upgrade-3688520/)
+ - [Sources: Tata plans India&#39;s first large-scale chip fab in Dholera, Gujarat, mostly using 90nm nodes, a far humbler start than the 28nm node it touted earlier &lpar;Bloomberg&rpar;](https://www.techmeme.com/260717/p3#a260717p3)
+ - [During an internal meeting, Satya Nadella criticized Claude Fable 5 for being &quot;editorially controlled&quot;, saying its refusal to do &quot;random things&quot; makes no sense &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260717/p2#a260717p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
