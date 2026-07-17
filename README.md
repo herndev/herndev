@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [...](http://9gag.com/gag/aQz0eqW)
- - ⏩ [Impressive!](http://9gag.com/gag/aW4w8yn)
- - 👉 [Painfully accurate](http://9gag.com/gag/a34VqpQ)<!-- MEMES:END -->
+ - 💣 [Hang this in the Louvre](http://9gag.com/gag/a5Q8nPy)
+ - ⏩ [She perfectly captured why his sense of entitlement is so INFURIATING!](http://9gag.com/gag/adBm9qN)
+ - 👉 [F**k cancer!](http://9gag.com/gag/a1mGd9D)<!-- MEMES:END -->
 
 ---
 
