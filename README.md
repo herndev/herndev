@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The printer is so scary](https://www.reddit.com/r/funny/comments/1uzczt4/the_printer_is_so_scary/)
- - ⏩ [No tacos for you](http://9gag.com/gag/a34VMY7)
- - 👉 [I don&#39;t get it. If I post something that has a swimsuit in it, my post gets auto blocked; but daily I see posts that have girls giving mouth hugs to meat whistles.](http://9gag.com/gag/a9y9AMZ)<!-- MEMES:END -->
+ - 💣 [No tacos for you](http://9gag.com/gag/a34VMY7)
+ - ⏩ [I don&#39;t get it. If I post something that has a swimsuit in it, my post gets auto blocked; but daily I see posts that have girls giving mouth hugs to meat whistles.](http://9gag.com/gag/a9y9AMZ)
+ - 👉 [To save time..](http://9gag.com/gag/axyX1MD)<!-- MEMES:END -->
 
 ---
 
