@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenRouter has discussed a potential sale to a bigger tech company that could value it at billions of dollars, a premium to its $1.3B valuation in May &lpar;The Information&rpar;](https://www.techmeme.com/260717/p19#a260717p19)
- - [Galaxy Z Fold 8 shows up on video as BTS joins Samsung’s hype train](https://www.androidauthority.com/bts-member-holding-galaxy-z-fold-8-3688932/)
- - [TikTok is testing an AI likeness detection tool](https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool)<!-- TECH:END -->
+ - [Gboard could soon be able to understand sign language with your phone’s camera](https://www.androidauthority.com/gboard-sign-to-text-3688910/)
+ - [Apple Music just quietly raised its prices](https://www.androidauthority.com/apple-music-price-increases-3688951/)
+ - [Spotify could be about to fix one long-standing security omission](https://www.androidauthority.com/spotify-passkey-login-apk-teardown-3688948/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
