@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stay out of my workspace](http://9gag.com/gag/aVvNqK2)
- - ⏩ [People mention their favorite Scottish moments. Simply gold](http://9gag.com/gag/a0e25ZB)
- - 👉 [Hang this in the Louvre](http://9gag.com/gag/a5Q8nPy)<!-- MEMES:END -->
+ - 💣 [No tacos for you](http://9gag.com/gag/a34VMY7)
+ - ⏩ [Is skydiving a sport?](http://9gag.com/gag/aGyW1Vz)
+ - 👉 [I don&#39;t get it. If I post something that has a swimsuit in it, my post gets auto blocked; but daily I see posts that have girls giving mouth hugs to meat whistles.](http://9gag.com/gag/a9y9AMZ)<!-- MEMES:END -->
 
 ---
 
