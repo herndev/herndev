@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: PayPal&#39;s board sees Stripe and PE firm Advent International&#39;s $53B takeover bid as undervaluing the company and facing regulatory and financing hurdles &lpar;Reuters&rpar;](https://www.techmeme.com/260716/p59#a260716p59)
- - [New Lawsuit Filed Against Apple for &#39;Hide My Email&#39; Privacy Vulnerability](https://www.cnet.com/tech/services-and-software/new-lawsuit-filed-against-apple-hide-my-email-privacy-flaw/)
- - [A New York State school district is piloting a humanoid robot teacher by the company Realbotix to help students with summer school classes &lpar;Chase DiBenedetto/Mashable&rpar;](https://www.techmeme.com/260716/p58#a260716p58)<!-- TECH:END -->
+ - [Pete Hegseth’s Plan for ‘High T’ Troops Is a Junk Science Fever Dream](https://www.wired.com/story/pete-hegseths-plan-for-high-t-troops-is-a-junk-science-fever-dream/)
+ - [Sources: Dassault Systèmes is in talks to buy drug trial software maker ArisGlobal from Nordic Capital for about $2B, extending its push into life sciences &lpar;Financial Times&rpar;](https://www.techmeme.com/260716/p62#a260716p62)
+ - [The EU accepts X&#39;s plan to meet DSA transparency obligations and give researchers access to data, giving X six months to implement it, following a €120M fine &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260716/p61#a260716p61)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
