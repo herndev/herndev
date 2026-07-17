@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gboard could soon be able to understand sign language with your phone’s camera](https://www.androidauthority.com/gboard-sign-to-text-3688910/)
- - [Apple Music just quietly raised its prices](https://www.androidauthority.com/apple-music-price-increases-3688951/)
- - [Spotify could be about to fix one long-standing security omission](https://www.androidauthority.com/spotify-passkey-login-apk-teardown-3688948/)<!-- TECH:END -->
+ - [Sources: Valar Atomics, which makes small nuclear reactors intended to power data centers, is in talks to raise $1B at a ~$5B pre-money valuation &lpar;The Information&rpar;](https://www.techmeme.com/260717/p22#a260717p22)
+ - [Got money to burn? Check out this Messi-themed Galaxy Z Fold 8 Ultra](https://www.androidauthority.com/messi-themed-galaxy-z-fold-8-ultra-3688966/)
+ - [Apple raises iPhone prices in Japan by up to 11%, likely due to the Japanese yen&#39;s depreciation against the US dollar over the past year &lpar;Joe Rossignol/MacRumors&rpar;](https://www.techmeme.com/260717/p21#a260717p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
