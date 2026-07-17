@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Impressive!](http://9gag.com/gag/aW4w8yn)
+ - 💣 [Stay out of my workspace](http://9gag.com/gag/aVvNqK2)
  - ⏩ [People mention their favorite Scottish moments. Simply gold](http://9gag.com/gag/a0e25ZB)
- - 👉 [Fact](http://9gag.com/gag/ae9vbXO)<!-- MEMES:END -->
+ - 👉 [Hang this in the Louvre](http://9gag.com/gag/a5Q8nPy)<!-- MEMES:END -->
 
 ---
 
