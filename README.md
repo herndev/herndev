@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s Friday folks!](https://www.reddit.com/r/funny/comments/1uza9re/its_friday_folks/)
- - ⏩ [Jimothy the Racoon isn&#39;t real and he can&#39;t hurt you](https://www.reddit.com/r/funny/comments/1uza958/jimothy_the_racoon_isnt_real_and_he_cant_hurt_you/)
- - 👉 [No tacos for you](http://9gag.com/gag/a34VMY7)<!-- MEMES:END -->
+ - 💣 [I don&#39;t get it. If I post something that has a swimsuit in it, my post gets auto blocked; but daily I see posts that have girls giving mouth hugs to meat whistles.](http://9gag.com/gag/a9y9AMZ)
+ - ⏩ [Me thinking my Wife genuinely understands my perspective until\u2026.](http://9gag.com/gag/aAyoDmo)
+ - 👉 [Had enough it&#39;s time to](http://9gag.com/gag/a1mGobD)<!-- MEMES:END -->
 
 ---
 
