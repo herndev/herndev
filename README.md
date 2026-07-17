@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&amp;#8217;s redesigned Z Fold 8 with a wide display just leaked](https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak)
- - [Is America ready for this quirky Jeep-looking EV that can park itself?](https://www.theverge.com/transportation/966498/chip-motors-low-speed-ev-remote-park-price)
- - [AYANEO tugs at your nostalgia once again with a new Game Boy Advance clone](https://www.androidauthority.com/ayaneo-reveals-pocket-advance-3688784/)<!-- TECH:END -->
+ - [ICE Is Using Data Broker Tools to ‘Identify Unaccompanied Minors’ and ‘Fraud’](https://www.wired.com/story/ice-unaccompanied-minors-fraud-suspects-trss-contract/)
+ - [Apple&#39;s long-running DOJ antitrust case may not make it to trial](https://appleinsider.com/articles/26/07/17/apples-long-running-doj-antitrust-case-may-not-make-it-to-trial?utm_source=rss)
+ - [Apple’s plot to crush OpenAI](https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
