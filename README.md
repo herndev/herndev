@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philips Hue just leaked its major announcements months ahead of schedule](https://www.androidauthority.com/new-philips-hue-festavia-products-coming-3688678/)
- - [Over half a million power tool batteries have been recalled due to a USB-C charging fire risk](https://www.theverge.com/tech/967049/greenworks-kobalt-power-tools-lithium-ion-battery-recall)
- - [Bethesda teases Fallout 5 soon after Xbox’s mass layoffs](https://www.theverge.com/entertainment/966724/fallout-5-bethesda)<!-- TECH:END -->
+ - [Samsung&amp;#8217;s redesigned Z Fold 8 with a wide display just leaked](https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak)
+ - [Is America ready for this quirky Jeep-looking EV that can park itself?](https://www.theverge.com/transportation/966498/chip-motors-low-speed-ev-remote-park-price)
+ - [AYANEO tugs at your nostalgia once again with a new Game Boy Advance clone](https://www.androidauthority.com/ayaneo-reveals-pocket-advance-3688784/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
