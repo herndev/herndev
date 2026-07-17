@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple raises the price of Apple Music, with the individual plan up by $1 to $11.99, and some Apple One bundles, the first price hike for Apple Music since 2022 &lpar;Chance Miller/9to5Mac&rpar;](https://www.techmeme.com/260717/p17#a260717p17)
- - [Polymarket’s Corporate Structure Is a Mystery—Even to Some of Its Former Employees](https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/)
- - [Apple Music gets first U.S. price hike in four years](https://appleinsider.com/articles/26/07/17/apple-music-gets-first-us-price-hike-in-four-years?utm_source=rss)<!-- TECH:END -->
+ - [Sources: OpenRouter has discussed a potential sale to a bigger tech company that could value it at billions of dollars, a premium to its $1.3B valuation in May &lpar;The Information&rpar;](https://www.techmeme.com/260717/p19#a260717p19)
+ - [Galaxy Z Fold 8 shows up on video as BTS joins Samsung’s hype train](https://www.androidauthority.com/bts-member-holding-galaxy-z-fold-8-3688932/)
+ - [TikTok is testing an AI likeness detection tool](https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
