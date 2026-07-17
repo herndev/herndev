@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [...](http://9gag.com/gag/aQz0eqW)
- - ⏩ [See? Americans Do Use Concrete Blocks.](http://9gag.com/gag/ajPoXO0)
+ - ⏩ [Impressive!](http://9gag.com/gag/aW4w8yn)
  - 👉 [Painfully accurate](http://9gag.com/gag/a34VqpQ)<!-- MEMES:END -->
 
 ---
