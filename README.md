@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android phones that might just be worse than the Trump Phone](https://www.androidauthority.com/android-phones-worse-than-trump-phone-3687383/)
- - [The Group Behind ‘2000 Mules’ Is Back With Another Election Conspiracy Film](https://www.wired.com/story/the-group-behind-2000-mules-is-back-with-another-election-conspiracy-film/)
- - [The CDC Has a Cyclospora Lab. DOGE Downsized It Last Year](https://www.wired.com/story/cdc-cyclospora-lab-doge-downsized-it-last-year/)<!-- TECH:END -->
+ - [Valve Steam Machine Review: A Compromised Console](https://www.wired.com/review/valve-steam-machine/)
+ - [The war on ‘woke science’ comes for space research](https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society)
+ - [At the World AI Conference, Xi Jinping touts open-source AI, pledges to help the Global South build AI capabilities, and calls unequal AI access an &quot;injustice&quot; &lpar;Reuters&rpar;](https://www.techmeme.com/260717/p7#a260717p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
