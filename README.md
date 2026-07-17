@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s free storage upgrades might return for new foldables after all, but there’s a catch](https://www.androidauthority.com/samsung-galaxy-z8-foldables-free-storage-upgrade-3688520/)
- - [Sources: Tata plans India&#39;s first large-scale chip fab in Dholera, Gujarat, mostly using 90nm nodes, a far humbler start than the 28nm node it touted earlier &lpar;Bloomberg&rpar;](https://www.techmeme.com/260717/p3#a260717p3)
- - [During an internal meeting, Satya Nadella criticized Claude Fable 5 for being &quot;editorially controlled&quot;, saying its refusal to do &quot;random things&quot; makes no sense &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260717/p2#a260717p2)<!-- TECH:END -->
+ - [5 Android phones that might just be worse than the Trump Phone](https://www.androidauthority.com/android-phones-worse-than-trump-phone-3687383/)
+ - [The Group Behind ‘2000 Mules’ Is Back With Another Election Conspiracy Film](https://www.wired.com/story/the-group-behind-2000-mules-is-back-with-another-election-conspiracy-film/)
+ - [The CDC Has a Cyclospora Lab. DOGE Downsized It Last Year](https://www.wired.com/story/cdc-cyclospora-lab-doge-downsized-it-last-year/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
