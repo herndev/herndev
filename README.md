@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My dog takes protecting the mailbox a little too seriously](https://www.reddit.com/r/funny/comments/1uz8gx8/my_dog_takes_protecting_the_mailbox_a_little_too/)
- - ⏩ [People mention their favorite Scottish moments. Simply gold](http://9gag.com/gag/a0e25ZB)
- - 👉 [Let&#39;s see](http://9gag.com/gag/an7LjGo)<!-- MEMES:END -->
+ - 💣 [It&#39;s Friday folks!](https://www.reddit.com/r/funny/comments/1uza9re/its_friday_folks/)
+ - ⏩ [Jimothy the Racoon isn&#39;t real and he can&#39;t hurt you](https://www.reddit.com/r/funny/comments/1uza958/jimothy_the_racoon_isnt_real_and_he_cant_hurt_you/)
+ - 👉 [No tacos for you](http://9gag.com/gag/a34VMY7)<!-- MEMES:END -->
 
 ---
 
