@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ghost in the shell](http://9gag.com/gag/abA9zGv)
- - ⏩ [Just saying...](http://9gag.com/gag/a4PDZgQ)
- - 👉 [She perfectly captured why his sense of entitlement is so INFURIATING!](http://9gag.com/gag/adBm9qN)<!-- MEMES:END -->
+ - 💣 [Is skydiving a sport?](http://9gag.com/gag/aGyW1Vz)
+ - ⏩ [Impressive!](http://9gag.com/gag/aW4w8yn)
+ - 👉 [The diversity of human genes](http://9gag.com/gag/aO8Xrov)<!-- MEMES:END -->
 
 ---
 
