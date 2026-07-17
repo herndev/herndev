@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pete Hegseth’s Plan for ‘High T’ Troops Is a Junk Science Fever Dream](https://www.wired.com/story/pete-hegseths-plan-for-high-t-troops-is-a-junk-science-fever-dream/)
- - [Sources: Dassault Systèmes is in talks to buy drug trial software maker ArisGlobal from Nordic Capital for about $2B, extending its push into life sciences &lpar;Financial Times&rpar;](https://www.techmeme.com/260716/p62#a260716p62)
- - [The EU accepts X&#39;s plan to meet DSA transparency obligations and give researchers access to data, giving X six months to implement it, following a €120M fine &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260716/p61#a260716p61)<!-- TECH:END -->
+ - [Source: Demis Hassabis plans to hold meetings with US policymakers in Washington next week about his proposed US-based Standards Body for &quot;Frontier-class&quot; AI &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260717/p1#a260717p1)
+ - [Google accidentally leaves a Pixel 11a clue in its Phone app](https://www.androidauthority.com/google-pixel-11-codename-google-phone-app-3688508/)
+ - [Court doc: a US federal jury says Japanese chipmaker Kioxia owes Viasat $229M for infringing Viasat&#39;s flash-memory patent that helps devices use less energy &lpar;Blake Brittain/Reuters&rpar;](https://www.techmeme.com/260716/p69#a260716p69)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
