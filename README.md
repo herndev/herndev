@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ICE Is Using Data Broker Tools to ‘Identify Unaccompanied Minors’ and ‘Fraud’](https://www.wired.com/story/ice-unaccompanied-minors-fraud-suspects-trss-contract/)
- - [Apple&#39;s long-running DOJ antitrust case may not make it to trial](https://appleinsider.com/articles/26/07/17/apples-long-running-doj-antitrust-case-may-not-make-it-to-trial?utm_source=rss)
- - [Apple’s plot to crush OpenAI](https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast)<!-- TECH:END -->
+ - [Apple raises the price of Apple Music, with the individual plan up by $1 to $11.99, and some Apple One bundles, the first price hike for Apple Music since 2022 &lpar;Chance Miller/9to5Mac&rpar;](https://www.techmeme.com/260717/p17#a260717p17)
+ - [Polymarket’s Corporate Structure Is a Mystery—Even to Some of Its Former Employees](https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/)
+ - [Apple Music gets first U.S. price hike in four years](https://appleinsider.com/articles/26/07/17/apple-music-gets-first-us-price-hike-in-four-years?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
