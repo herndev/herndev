@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**k cancer!](http://9gag.com/gag/a1mGd9D)
- - ⏩ [Peaks](http://9gag.com/gag/aVvNqZy)
- - 👉 [The diversity of human genes](http://9gag.com/gag/aO8Xrov)<!-- MEMES:END -->
+ - 💣 [Impressive!](http://9gag.com/gag/aW4w8yn)
+ - ⏩ [People mention their favorite Scottish moments. Simply gold](http://9gag.com/gag/a0e25ZB)
+ - 👉 [Fact](http://9gag.com/gag/ae9vbXO)<!-- MEMES:END -->
 
 ---
 
