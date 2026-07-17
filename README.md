@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Impressive!](http://9gag.com/gag/aW4w8yn)
- - ⏩ [Fact](http://9gag.com/gag/ae9vbXO)
- - 👉 [Hang this in the Louvre](http://9gag.com/gag/a5Q8nPy)<!-- MEMES:END -->
+ - 💣 [Ghost in the shell](http://9gag.com/gag/abA9zGv)
+ - ⏩ [Just saying...](http://9gag.com/gag/a4PDZgQ)
+ - 👉 [She perfectly captured why his sense of entitlement is so INFURIATING!](http://9gag.com/gag/adBm9qN)<!-- MEMES:END -->
 
 ---
 
