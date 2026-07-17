@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Francisco sends legal notices to Apple and Google demanding they take down 13 AI apps used to make deepfake nude images; Google says it has deleted the apps &lpar;Matt Burgess/Wired&rpar;](https://www.techmeme.com/260717/p9#a260717p9)
- - [Essential Gear for an Emergency Kit—for Cars or Go-Bags](https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/)
- - [How to make Apple Journal part of a mindful daily routine](https://appleinsider.com/articles/26/07/17/how-to-make-apple-journal-part-of-a-mindful-daily-routine?utm_source=rss)<!-- TECH:END -->
+ - [Philips Hue just leaked its major announcements months ahead of schedule](https://www.androidauthority.com/new-philips-hue-festavia-products-coming-3688678/)
+ - [Over half a million power tool batteries have been recalled due to a USB-C charging fire risk](https://www.theverge.com/tech/967049/greenworks-kobalt-power-tools-lithium-ion-battery-recall)
+ - [Bethesda teases Fallout 5 soon after Xbox’s mass layoffs](https://www.theverge.com/entertainment/966724/fallout-5-bethesda)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
