@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Valar Atomics, which makes small nuclear reactors intended to power data centers, is in talks to raise $1B at a ~$5B pre-money valuation &lpar;The Information&rpar;](https://www.techmeme.com/260717/p22#a260717p22)
- - [Got money to burn? Check out this Messi-themed Galaxy Z Fold 8 Ultra](https://www.androidauthority.com/messi-themed-galaxy-z-fold-8-ultra-3688966/)
- - [Apple raises iPhone prices in Japan by up to 11%, likely due to the Japanese yen&#39;s depreciation against the US dollar over the past year &lpar;Joe Rossignol/MacRumors&rpar;](https://www.techmeme.com/260717/p21#a260717p21)<!-- TECH:END -->
+ - [Sources: the Trump administration is considering plans for an independent regulator to vet the safety of AI models; the regulator would report to the SEC &lpar;Bloomberg&rpar;](https://www.techmeme.com/260717/p25#a260717p25)
+ - [Filings: a group of major music publishers has agreed to end a copyright infringement dispute with X over the use of their music on the social media platform &lpar;Blake Brittain/Reuters&rpar;](https://www.techmeme.com/260717/p24#a260717p24)
+ - [Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak](https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
