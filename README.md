@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No tacos for you](http://9gag.com/gag/a34VMY7)
- - ⏩ [Is skydiving a sport?](http://9gag.com/gag/aGyW1Vz)
- - 👉 [I don&#39;t get it. If I post something that has a swimsuit in it, my post gets auto blocked; but daily I see posts that have girls giving mouth hugs to meat whistles.](http://9gag.com/gag/a9y9AMZ)<!-- MEMES:END -->
+ - 💣 [My dog takes protecting the mailbox a little too seriously](https://www.reddit.com/r/funny/comments/1uz8gx8/my_dog_takes_protecting_the_mailbox_a_little_too/)
+ - ⏩ [People mention their favorite Scottish moments. Simply gold](http://9gag.com/gag/a0e25ZB)
+ - 👉 [Let&#39;s see](http://9gag.com/gag/an7LjGo)<!-- MEMES:END -->
 
 ---
 
