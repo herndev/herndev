@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Just a reminder Epstein didn&#39;t kill himself.](http://9gag.com/gag/a34VRxQ)
- - ⏩ [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)
- - 👉 [Spain officially edited Trump out of the trophy presentation.](http://9gag.com/gag/ae9vDZb)<!-- MEMES:END -->
+ - ⏩ [Welcome to the USA: kids with a gun](http://9gag.com/gag/an7L4bz)
+ - 👉 [What was this? lol](http://9gag.com/gag/aKGr71N)<!-- MEMES:END -->
 
 ---
 
