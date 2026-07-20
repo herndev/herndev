@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford&amp;#8217;s $30,000 electric truck: all the news about the company&amp;#8217;s big EV re-do](https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable)
- - [MANGMI drops the full specs for its Game Boy-like handhelds](https://www.androidauthority.com/mangmi-air-y-air-y-pro-specs-3689333/)
- - [Felicia Day’s Movie Kickstarter for The Guild Hit Its Goal in 3 Hours](https://www.cnet.com/uncategorized/felicia-days-movie-kickstarter-for-the-guild-hit-its-goal-in-3-hours/)<!-- TECH:END -->
+ - [Snap reaches a deal to settle the second case set for trial over social media harm to minors, following TikTok and YouTube, leaving Meta as the only defendant &lpar;Bloomberg&rpar;](https://www.techmeme.com/260720/p37#a260720p37)
+ - [X relaunches its Android app after a year-long rewrite from scratch; Nikita Bier calls it &quot;one of the largest engineering projects&quot; in the company&#39;s history &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260720/p36#a260720p36)
+ - [Chrome Canary starts testing a big new autofill upgrade](https://www.androidauthority.com/find-and-fill-with-gemini-3689348/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
