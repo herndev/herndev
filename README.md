@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung is betting big on the Wide Fold](https://www.androidauthority.com/galaxy-z-fold-8-production-volume-increased-3689103/)
- - [Trial lawyers, with big liability litigation earnings, are among the most active lobbyists against autonomous vehicles, even as data shows clear safety benefits &lpar;Alex Tabarrok/Marginal Revolution&rpar;](https://www.techmeme.com/260720/p10#a260720p10)
- - [How smart home devices have given abusive partners a new tool to remotely manipulate, intimidate, and disturb their victims, in a form of tech-assisted abuse &lpar;Financial Times&rpar;](https://www.techmeme.com/260720/p9#a260720p9)<!-- TECH:END -->
+ - [Chinese open models like Kimi K3 and Qwen3.8 Max shift the industry&#39;s focus back to marginal costs and cost of goods sold, as inference costs scale with revenue &lpar;Ben Thompson/Stratechery&rpar;](https://www.techmeme.com/260720/p16#a260720p16)
+ - [AliExpress fined almost $630 million over illegal product sales](https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products)
+ - [An interview with Expedia CEO Ariane Gorin, who calls AI &quot;a growth opportunity&quot;, as she prepares the online travel company to face potential disruption from AI &lpar;Stephanie Stacey/Financial Times&rpar;](https://www.techmeme.com/260720/p15#a260720p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
