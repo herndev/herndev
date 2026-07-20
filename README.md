@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holywood \ud83d\udd25](http://9gag.com/gag/aQz016z)
- - ⏩ [The dutch defeat](http://9gag.com/gag/a7ozWyr)
- - 👉 [Play stupid games win stupid prizes!](http://9gag.com/gag/aXP5jw2)<!-- MEMES:END -->
+ - 💣 [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)
+ - ⏩ [Just guys being dude&#39;s for real.](http://9gag.com/gag/aqyqgAL)
+ - 👉 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)<!-- MEMES:END -->
 
 ---
 
