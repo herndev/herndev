@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the 30,000 songs Sony is suing Udio&amp;#8217;s AI music generator over](https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright)
- - [The FCC is planning to retroactively ban disguised DJI gadgets](https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra)
- - [Today’s NYT Connections Hints and Answers for July 21, #1136](https://www.cnet.com/news/todays-nyt-connections-hints-and-answers-for-july-21-1136/)<!-- TECH:END -->
+ - [Researchers found sandbox escapes or boundary bypasses in Cursor, Codex, Gemini CLI, and Antigravity by writing files trusted tools later use; most are patched &lpar;Ax Sharma/BleepingComputer&rpar;](https://www.techmeme.com/260720/p41#a260720p41)
+ - [Samsung debuts Samsung Galaxy Card, its first-ever US credit card, a Visa from Barclays; it offers 5% rewards for purchases directly from Samsung &lpar;John Velasco/Tom&#39;s Guide&rpar;](https://www.techmeme.com/260720/p40#a260720p40)
+ - [Here are the 30,000 songs Sony is suing Udio&amp;#8217;s AI music generator over](https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
