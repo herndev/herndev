@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)
+ - 💣 [Just a reminder Epstein didn&#39;t kill himself.](http://9gag.com/gag/a34VRxQ)
  - ⏩ [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
- - 👉 [That one unemployed friend 2a.m on a Tuesday](http://9gag.com/gag/ae9v59O)<!-- MEMES:END -->
+ - 👉 [Another dungeon](http://9gag.com/gag/aVvNYyw)<!-- MEMES:END -->
 
 ---
 
