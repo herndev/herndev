@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap reaches a deal to settle the second case set for trial over social media harm to minors, following TikTok and YouTube, leaving Meta as the only defendant &lpar;Bloomberg&rpar;](https://www.techmeme.com/260720/p37#a260720p37)
- - [X relaunches its Android app after a year-long rewrite from scratch; Nikita Bier calls it &quot;one of the largest engineering projects&quot; in the company&#39;s history &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260720/p36#a260720p36)
- - [Chrome Canary starts testing a big new autofill upgrade](https://www.androidauthority.com/find-and-fill-with-gemini-3689348/)<!-- TECH:END -->
+ - [Judge Orders Temporary Block of Paramount Warner Bros. Merger](https://www.cnet.com/tech/services-and-software/judge-orders-temporary-block-of-paramount-warner-bros-merger/)
+ - [The Odyssey turned me into an IMAX believer](https://www.theverge.com/entertainment/968337/the-odyssey-imax-screenings-christopher-nolan)
+ - [PS Plus July 2026 Games Are Packed With Zombies, Aliens and Nostalgia](https://www.cnet.com/tech/gaming/ps-plus-july-2026-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
