@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the nonprofit Current AI, backed by $400M in commitments from many partners including $100M from France, that&#39;s funding open, public AI infrastructure &lpar;Kate Park/TechCrunch&rpar;](https://www.techmeme.com/260719/p14#a260719p14)
- - [Hugging Face says it used the open-weight GLM-5.2 hosted on its own compute for breach forensics, after US frontier model safety guardrails blocked the requests &lpar;Edward Targett/The Stack&rpar;](https://www.techmeme.com/260719/p13#a260719p13)
- - [Hugging Face says an agentic AI system hacked its data pipeline, accessing several internal clusters and credentials; its own AI-based triage caught the breach &lpar;Hugging Face&rpar;](https://www.techmeme.com/260719/p12#a260719p12)<!-- TECH:END -->
+ - [Blackstone agrees to invest an undisclosed sum in South Korea-based Futronic, which makes actuators used in industrial robots, sources say at a ~$675M valuation &lpar;Manuel Baigorri/Bloomberg&rpar;](https://www.techmeme.com/260720/p5#a260720p5)
+ - [Sources detail Kalshi&#39;s and Polymarket&#39;s efforts to undermine each other, including lobbying regulators, trying to derail deals, and waging influence campaigns &lpar;New York Times&rpar;](https://www.techmeme.com/260720/p4#a260720p4)
+ - [Filing: Zhongji Innolight, China&#39;s leading optical transceiver maker, aims for an $8B Hong Kong IPO, the city&#39;s largest since Alibaba&#39;s $12.9B debut in 2019 &lpar;Dave Sebastian/Bloomberg&rpar;](https://www.techmeme.com/260720/p3#a260720p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
