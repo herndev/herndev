@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Retailer lists rumored ‘green’ Sony WH-1000XM6 headphones](https://www.androidauthority.com/sony-wh-1000xm6-green-3689265/)
- - [CAISI Director Chris Fall is resigning just three months after taking over the federal AI testing institute &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260720/p26#a260720p26)
- - [Source: Tencent is in talks to acquire Israeli game developer SuperPlay in a deal valuing SuperPlay at $1B-$1.5B; Playtika acquired SuperPlay in 2024 for $690M &lpar;Golan Hazani/CTech&rpar;](https://www.techmeme.com/260720/p25#a260720p25)<!-- TECH:END -->
+ - [Source: Z.ai completed construction of a 1 GW data center housing only Chinese chips; Z.ai has built or operates several computing clusters each with 10K+ chips &lpar;Bloomberg&rpar;](https://www.techmeme.com/260720/p30#a260720p30)
+ - [Chicago-based Empirical Security, which uses AI to help companies predict threats by monitoring exploited vulnerabilities, raised a $25M Series A &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260720/p29#a260720p29)
+ - [LG&amp;#8217;s glossy OLED gaming monitor is rare to find under $400](https://www.theverge.com/gadgets/967993/lg-27-inch-ultragear-glossy-oled-gaming-monitor-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
