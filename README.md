@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)
  - ⏩ [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)
- - 👉 [Spain officially edited Trump out of the trophy presentation.](http://9gag.com/gag/ae9vDZb)<!-- MEMES:END -->
+ - 👉 [Just a reminder Epstein didn&#39;t kill himself.](http://9gag.com/gag/a34VRxQ)<!-- MEMES:END -->
 
 ---
 
