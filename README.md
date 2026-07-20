@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The dutch defeat](http://9gag.com/gag/a7ozWyr)
- - ⏩ [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)
- - 👉 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)<!-- MEMES:END -->
+ - 💣 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)
+ - ⏩ [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)
+ - 👉 [Spain officially edited Trump out of the trophy presentation.](http://9gag.com/gag/ae9vDZb)<!-- MEMES:END -->
 
 ---
 
