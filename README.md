@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome to the USA: kids with a gun](http://9gag.com/gag/an7L4bz)
+ - 💣 [Holywood \ud83d\udd25](http://9gag.com/gag/aQz016z)
  - ⏩ [The dutch defeat](http://9gag.com/gag/a7ozWyr)
  - 👉 [Play stupid games win stupid prizes!](http://9gag.com/gag/aXP5jw2)<!-- MEMES:END -->
 
