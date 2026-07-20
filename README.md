@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge Orders Temporary Block of Paramount Warner Bros. Merger](https://www.cnet.com/tech/services-and-software/judge-orders-temporary-block-of-paramount-warner-bros-merger/)
- - [The Odyssey turned me into an IMAX believer](https://www.theverge.com/entertainment/968337/the-odyssey-imax-screenings-christopher-nolan)
- - [PS Plus July 2026 Games Are Packed With Zombies, Aliens and Nostalgia](https://www.cnet.com/tech/gaming/ps-plus-july-2026-games/)<!-- TECH:END -->
+ - [Here are the 30,000 songs Sony is suing Udio&amp;#8217;s AI music generator over](https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright)
+ - [The FCC is planning to retroactively ban disguised DJI gadgets](https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra)
+ - [Today’s NYT Connections Hints and Answers for July 21, #1136](https://www.cnet.com/news/todays-nyt-connections-hints-and-answers-for-july-21-1136/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
