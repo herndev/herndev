@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a reminder Epstein didn&#39;t kill himself.](http://9gag.com/gag/a34VRxQ)
- - ⏩ [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
- - 👉 [Another dungeon](http://9gag.com/gag/aVvNYyw)<!-- MEMES:END -->
+ - 💣 [Welcome to the USA: kids with a gun](http://9gag.com/gag/an7L4bz)
+ - ⏩ [The dutch defeat](http://9gag.com/gag/a7ozWyr)
+ - 👉 [Play stupid games win stupid prizes!](http://9gag.com/gag/aXP5jw2)<!-- MEMES:END -->
 
 ---
 
