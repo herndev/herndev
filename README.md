@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese open models like Kimi K3 and Qwen3.8 Max shift the industry&#39;s focus back to marginal costs and cost of goods sold, as inference costs scale with revenue &lpar;Ben Thompson/Stratechery&rpar;](https://www.techmeme.com/260720/p16#a260720p16)
- - [AliExpress fined almost $630 million over illegal product sales](https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products)
- - [An interview with Expedia CEO Ariane Gorin, who calls AI &quot;a growth opportunity&quot;, as she prepares the online travel company to face potential disruption from AI &lpar;Stephanie Stacey/Financial Times&rpar;](https://www.techmeme.com/260720/p15#a260720p15)<!-- TECH:END -->
+ - [UK government data: ~35% of UK businesses with 10+ staff report using AI, up from 12% in September 2023; average number of AI tools is 1.6, up from 1.4 in 2023 &lpar;Delphine Strauss/Financial Times&rpar;](https://www.techmeme.com/260720/p21#a260720p21)
+ - [These AT&amp;T home internet plans are getting a $5 price hike](https://www.androidauthority.com/att-price-hike-august-2026-3689162/)
+ - [AMD plans to ship Helios, its first rack-scale AI system to rival Nvidia, later in 2026 to Microsoft, Meta, OpenAI, and others; Helios costs an estimated $5M+ &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/260720/p20#a260720p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
