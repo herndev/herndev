@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Trump Media pitched a monthly fee of as much as $100K for the Truth API, with fast access to Trump&#39;s posts, for banks, algorithmic traders, and others &lpar;Reuters&rpar;](https://www.techmeme.com/260717/p26#a260717p26)
- - [Sources: the Trump administration is considering plans for an independent regulator to vet the safety of AI models; the regulator would report to the SEC &lpar;Bloomberg&rpar;](https://www.techmeme.com/260717/p25#a260717p25)
- - [Filings: a group of major music publishers has agreed to end a copyright infringement dispute with X over the use of their music on the social media platform &lpar;Blake Brittain/Reuters&rpar;](https://www.techmeme.com/260717/p24#a260717p24)<!-- TECH:END -->
+ - [A look at the nonprofit Current AI, backed by $400M in commitments from many partners including $100M from France, that&#39;s funding open, public AI infrastructure &lpar;Kate Park/TechCrunch&rpar;](https://www.techmeme.com/260719/p14#a260719p14)
+ - [Hugging Face says it used the open-weight GLM-5.2 hosted on its own compute for breach forensics, after US frontier model safety guardrails blocked the requests &lpar;Edward Targett/The Stack&rpar;](https://www.techmeme.com/260719/p13#a260719p13)
+ - [Hugging Face says an agentic AI system hacked its data pipeline, accessing several internal clusters and credentials; its own AI-based triage caught the breach &lpar;Hugging Face&rpar;](https://www.techmeme.com/260719/p12#a260719p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
