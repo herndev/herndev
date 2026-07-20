@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK government data: ~35% of UK businesses with 10+ staff report using AI, up from 12% in September 2023; average number of AI tools is 1.6, up from 1.4 in 2023 &lpar;Delphine Strauss/Financial Times&rpar;](https://www.techmeme.com/260720/p21#a260720p21)
- - [These AT&amp;T home internet plans are getting a $5 price hike](https://www.androidauthority.com/att-price-hike-august-2026-3689162/)
- - [AMD plans to ship Helios, its first rack-scale AI system to rival Nvidia, later in 2026 to Microsoft, Meta, OpenAI, and others; Helios costs an estimated $5M+ &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/260720/p20#a260720p20)<!-- TECH:END -->
+ - [Retailer lists rumored ‘green’ Sony WH-1000XM6 headphones](https://www.androidauthority.com/sony-wh-1000xm6-green-3689265/)
+ - [CAISI Director Chris Fall is resigning just three months after taking over the federal AI testing institute &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260720/p26#a260720p26)
+ - [Source: Tencent is in talks to acquire Israeli game developer SuperPlay in a deal valuing SuperPlay at $1B-$1.5B; Playtika acquired SuperPlay in 2024 for $690M &lpar;Golan Hazani/CTech&rpar;](https://www.techmeme.com/260720/p25#a260720p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
