@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Z.ai completed construction of a 1 GW data center housing only Chinese chips; Z.ai has built or operates several computing clusters each with 10K+ chips &lpar;Bloomberg&rpar;](https://www.techmeme.com/260720/p30#a260720p30)
- - [Chicago-based Empirical Security, which uses AI to help companies predict threats by monitoring exploited vulnerabilities, raised a $25M Series A &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260720/p29#a260720p29)
- - [LG&amp;#8217;s glossy OLED gaming monitor is rare to find under $400](https://www.theverge.com/gadgets/967993/lg-27-inch-ultragear-glossy-oled-gaming-monitor-deal-sale)<!-- TECH:END -->
+ - [Ford&amp;#8217;s $30,000 electric truck: all the news about the company&amp;#8217;s big EV re-do](https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable)
+ - [MANGMI drops the full specs for its Game Boy-like handhelds](https://www.androidauthority.com/mangmi-air-y-air-y-pro-specs-3689333/)
+ - [Felicia Day’s Movie Kickstarter for The Guild Hit Its Goal in 3 Hours](https://www.cnet.com/uncategorized/felicia-days-movie-kickstarter-for-the-guild-hit-its-goal-in-3-hours/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
