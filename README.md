@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me thinking my Wife genuinely understands my perspective until\u2026.](http://9gag.com/gag/aAyoDmo)
- - ⏩ [Had enough it&#39;s time to](http://9gag.com/gag/a1mGobD)
- - 👉 [Hard to argue with that logic](http://9gag.com/gag/a6ZAorL)<!-- MEMES:END -->
+ - 💣 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)
+ - ⏩ [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
+ - 👉 [That one unemployed friend 2a.m on a Tuesday](http://9gag.com/gag/ae9v59O)<!-- MEMES:END -->
 
 ---
 
