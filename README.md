@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blackstone agrees to invest an undisclosed sum in South Korea-based Futronic, which makes actuators used in industrial robots, sources say at a ~$675M valuation &lpar;Manuel Baigorri/Bloomberg&rpar;](https://www.techmeme.com/260720/p5#a260720p5)
- - [Sources detail Kalshi&#39;s and Polymarket&#39;s efforts to undermine each other, including lobbying regulators, trying to derail deals, and waging influence campaigns &lpar;New York Times&rpar;](https://www.techmeme.com/260720/p4#a260720p4)
- - [Filing: Zhongji Innolight, China&#39;s leading optical transceiver maker, aims for an $8B Hong Kong IPO, the city&#39;s largest since Alibaba&#39;s $12.9B debut in 2019 &lpar;Dave Sebastian/Bloomberg&rpar;](https://www.techmeme.com/260720/p3#a260720p3)<!-- TECH:END -->
+ - [Samsung is betting big on the Wide Fold](https://www.androidauthority.com/galaxy-z-fold-8-production-volume-increased-3689103/)
+ - [Trial lawyers, with big liability litigation earnings, are among the most active lobbyists against autonomous vehicles, even as data shows clear safety benefits &lpar;Alex Tabarrok/Marginal Revolution&rpar;](https://www.techmeme.com/260720/p10#a260720p10)
+ - [How smart home devices have given abusive partners a new tool to remotely manipulate, intimidate, and disturb their victims, in a form of tech-assisted abuse &lpar;Financial Times&rpar;](https://www.techmeme.com/260720/p9#a260720p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
