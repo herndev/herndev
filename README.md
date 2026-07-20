@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)
- - ⏩ [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)
- - 👉 [Just a reminder Epstein didn&#39;t kill himself.](http://9gag.com/gag/a34VRxQ)<!-- MEMES:END -->
+ - 💣 [Just a reminder Epstein didn&#39;t kill himself.](http://9gag.com/gag/a34VRxQ)
+ - ⏩ [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)
+ - 👉 [Spain officially edited Trump out of the trophy presentation.](http://9gag.com/gag/ae9vDZb)<!-- MEMES:END -->
 
 ---
 
