@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)
- - ⏩ [Just guys being dude&#39;s for real.](http://9gag.com/gag/aqyqgAL)
+ - 💣 [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
+ - ⏩ [The dutch defeat](http://9gag.com/gag/a7ozWyr)
  - 👉 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)<!-- MEMES:END -->
 
 ---
