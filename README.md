@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Invites update brings emoji replies and confetti to the party](https://appleinsider.com/articles/26/07/21/apple-invites-update-brings-emoji-replies-and-confetti-to-the-party?utm_source=rss)
- - [OpenAI says the Hugging Face breach was driven by a combination of its models, including GPT-5.6 Sol and &quot;an even more capable pre-release model&quot; &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260721/p43#a260721p43)
- - [Galaxy Z Fold 8 breaks cover &lpar;again&rpar; in T-Mobile ad](https://www.androidauthority.com/samsung-galaxy-z-fold-8-t-mobile-ad-3689844/)<!-- TECH:END -->
+ - [OpenAI says it accidentally hacked Hugging Face with a new AI system](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai)
+ - [OpenAI adds Nubank founder and CEO David Vélez and BNY CEO Robin Vince to its board of directors, as the company moves toward a public listing &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260721/p48#a260721p48)
+ - [OpenAI says its models chained vulnerabilities across its research environment and Hugging Face&#39;s infrastructure to find solutions for the ExploitGym benchmark &lpar;OpenAI&rpar;](https://www.techmeme.com/260721/p47#a260721p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
