@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Expect 2027 iPhones to cost more as TSMC increases chip prices](https://appleinsider.com/articles/26/07/21/expect-2027-iphones-to-cost-more-as-tsmc-increases-chip-prices?utm_source=rss)
- - [8 Best Smartwatches &lpar;2026&rpar;: Apple, Google, and Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [Philips Hue might make it easier to sync lights thanks to a new camera](https://www.androidauthority.com/philips-hue-sync-camera-leak-3689619/)<!-- TECH:END -->
+ - [Sources: after it closes a round at a $31.5B valuation, Moonshot plans a final raise at a $50B valuation to capitalize on Kimi K3 buzz before a Hong Kong IPO &lpar;Pei Li/Bloomberg&rpar;](https://www.techmeme.com/260721/p23#a260721p23)
+ - [Stellantis taps Mobileye for hands-free driving assist](https://www.theverge.com/transportation/968525/stellantis-taps-mobileye-for-hands-free-driving-assist)
+ - [Samsung Health’s new assistant wants to help make sense of your health data](https://www.androidauthority.com/samsung-health-assistant-beta-launch-3689681/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
