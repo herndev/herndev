@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)
+ - 💣 [Wtf man](http://9gag.com/gag/ajPo9pG)
  - ⏩ [It should have been me!](http://9gag.com/gag/aPAK3vR)
- - 👉 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)<!-- MEMES:END -->
+ - 👉 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)<!-- MEMES:END -->
 
 ---
 
