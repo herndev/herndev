@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [The interview lasted 57 seconds](http://9gag.com/gag/aVvN06K)
  - ⏩ [Wtf man](http://9gag.com/gag/ajPo9pG)
- - 👉 [Smoothest line ever dropped](http://9gag.com/gag/ayNOomr)<!-- MEMES:END -->
+ - 👉 [Who knew this guy was such a little snitch](http://9gag.com/gag/a34VwEr)<!-- MEMES:END -->
 
 ---
 
