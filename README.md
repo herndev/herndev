@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The interview lasted 57 seconds](http://9gag.com/gag/aVvN06K)
- - ⏩ [Wtf man](http://9gag.com/gag/ajPo9pG)
- - 👉 [Who knew this guy was such a little snitch](http://9gag.com/gag/a34VwEr)<!-- MEMES:END -->
+ - 💣 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)
+ - ⏩ [It should have been me!](http://9gag.com/gag/aPAK3vR)
+ - 👉 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)<!-- MEMES:END -->
 
 ---
 
