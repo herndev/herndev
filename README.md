@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)
- - ⏩ [Sank bites](http://9gag.com/gag/aMV3xBG)
- - 👉 [No Joy tonight.](http://9gag.com/gag/aqyqnzZ)<!-- MEMES:END -->
+ - 💣 [The true native American](http://9gag.com/gag/aBy72BP)
+ - ⏩ [Shark electric](http://9gag.com/gag/a9y91RZ)
+ - 👉 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)<!-- MEMES:END -->
 
 ---
 
