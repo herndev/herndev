@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People hate anything](https://www.reddit.com/r/funny/comments/1v2wclg/people_hate_anything/)
- - ⏩ [How much weight does each one carry? Do the ones in front carry more weight than the ones in back? Calculate how much hehe](http://9gag.com/gag/an7LQXq)
+ - 💣 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)
+ - ⏩ [Sank bites](http://9gag.com/gag/aMV3xBG)
  - 👉 [No Joy tonight.](http://9gag.com/gag/aqyqnzZ)<!-- MEMES:END -->
 
 ---
