@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our favorite PS2 emulator for Android just got Material You theming](https://www.androidauthority.com/armsx2-ps2-emulator-android-material-you-3689494/)
- - [Sources: BlackRock leads a $12B+ debt sale for Meta&#39;s new El Paso data center, as Meta signs a lease for a BlackRock-backed data-center project in Pennsylvania &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260721/p8#a260721p8)
- - [Who’s afraid of the big, bad GPU?](https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact)<!-- TECH:END -->
+ - [Expect 2027 iPhones to cost more as TSMC increases chip prices](https://appleinsider.com/articles/26/07/21/expect-2027-iphones-to-cost-more-as-tsmc-increases-chip-prices?utm_source=rss)
+ - [8 Best Smartwatches &lpar;2026&rpar;: Apple, Google, and Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [Philips Hue might make it easier to sync lights thanks to a new camera](https://www.androidauthority.com/philips-hue-sync-camera-leak-3689619/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
