@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [University of Tennessee Research Foundation sues Anthropic in Delaware for allegedly infringing neural network patents, the first such case against Anthropic &lpar;Blake Brittain/Reuters&rpar;](https://www.techmeme.com/260721/p32#a260721p32)
- - [Apple Upgrades will let users lease iPhones and Macs with Klarna](https://appleinsider.com/articles/26/07/21/apple-upgrades-will-let-users-lease-iphones-and-macs-with-klarna?utm_source=rss)
- - [OpenAI executive Chris Lehane says Sam Altman plans to brief the Trump administration and US lawmakers next week on the company&#39;s upcoming generation of models &lpar;Maggie Eastland/Bloomberg&rpar;](https://www.techmeme.com/260721/p31#a260721p31)<!-- TECH:END -->
+ - [Apple’s answer to rising tech prices may be leasing your next iPhone](https://www.androidauthority.com/apple-upgrade-program-3689806/)
+ - [Block launches Buzz, an open source collaboration workspace on Nostr protocol for humans and AI agents to share messages, code repositories, workflows, and more &lpar;Block&rpar;](https://www.techmeme.com/260721/p39#a260721p39)
+ - [Samsung’s New AI Health Assistant Aims to Make Health Metrics Actually Useful](https://www.cnet.com/tech/services-and-software/samsungs-new-ai-health-assistant/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
