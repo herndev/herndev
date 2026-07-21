@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: after it closes a round at a $31.5B valuation, Moonshot plans a final raise at a $50B valuation to capitalize on Kimi K3 buzz before a Hong Kong IPO &lpar;Pei Li/Bloomberg&rpar;](https://www.techmeme.com/260721/p23#a260721p23)
- - [Stellantis taps Mobileye for hands-free driving assist](https://www.theverge.com/transportation/968525/stellantis-taps-mobileye-for-hands-free-driving-assist)
- - [Samsung Health’s new assistant wants to help make sense of your health data](https://www.androidauthority.com/samsung-health-assistant-beta-launch-3689681/)<!-- TECH:END -->
+ - [University of Tennessee Research Foundation sues Anthropic in Delaware for allegedly infringing neural network patents, the first such case against Anthropic &lpar;Blake Brittain/Reuters&rpar;](https://www.techmeme.com/260721/p32#a260721p32)
+ - [Apple Upgrades will let users lease iPhones and Macs with Klarna](https://appleinsider.com/articles/26/07/21/apple-upgrades-will-let-users-lease-iphones-and-macs-with-klarna?utm_source=rss)
+ - [OpenAI executive Chris Lehane says Sam Altman plans to brief the Trump administration and US lawmakers next week on the company&#39;s upcoming generation of models &lpar;Maggie Eastland/Bloomberg&rpar;](https://www.techmeme.com/260721/p31#a260721p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
