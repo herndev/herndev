@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe’s awesome Pixel Camera-ish iPhone app is getting even better](https://www.androidauthority.com/adobe-project-indigo-ai-playground-3689455/)
- - [New Snapdragon chip leak suggests on-device AI could be coming to phones people actually buy](https://www.androidauthority.com/snapdragon-4-gen-6-leak-3689433/)
- - [Google finally fixes Gemini Notebook’s biggest organization headache](https://www.androidauthority.com/gemini-notebook-collections-feature-3689444/)<!-- TECH:END -->
+ - [Our favorite PS2 emulator for Android just got Material You theming](https://www.androidauthority.com/armsx2-ps2-emulator-android-material-you-3689494/)
+ - [Sources: BlackRock leads a $12B+ debt sale for Meta&#39;s new El Paso data center, as Meta signs a lease for a BlackRock-backed data-center project in Pennsylvania &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260721/p8#a260721p8)
+ - [Who’s afraid of the big, bad GPU?](https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
