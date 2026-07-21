@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore-based Ant International, a payments company which spun out of Ant Group in 2024, raised $1.2B from investors including Ant Group and Alibaba &lpar;Reuters&rpar;](https://www.techmeme.com/260721/p1#a260721p1)
- - [Study: off-balance sheet debt at Alphabet, Microsoft, Amazon, Meta, and Oracle grew an est. ~8x since 2022 to ~$1.65T, eclipsing ~$1.35T in balance sheet debt &lpar;Kohei Yamada/Nikkei Asia&rpar;](https://www.techmeme.com/260720/p44#a260720p44)
- - [How to roll back macOS Golden Gate on Apple Silicon](https://appleinsider.com/inside/macos-golden-gate/tips/how-to-roll-back-macos-golden-gate-on-apple-silicon?utm_source=rss)<!-- TECH:END -->
+ - [Adobe’s awesome Pixel Camera-ish iPhone app is getting even better](https://www.androidauthority.com/adobe-project-indigo-ai-playground-3689455/)
+ - [New Snapdragon chip leak suggests on-device AI could be coming to phones people actually buy](https://www.androidauthority.com/snapdragon-4-gen-6-leak-3689433/)
+ - [Google finally fixes Gemini Notebook’s biggest organization headache](https://www.androidauthority.com/gemini-notebook-collections-feature-3689444/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
