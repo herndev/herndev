@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The true native American](http://9gag.com/gag/aBy72BP)
- - ⏩ [Welcome to the USA: kids with a gun](http://9gag.com/gag/an7L4bz)
- - 👉 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)<!-- MEMES:END -->
+ - 💣 [Snipers in Final](http://9gag.com/gag/a87BEM1)
+ - ⏩ [It should have been me!](http://9gag.com/gag/aPAK3vR)
+ - 👉 [The true native American](http://9gag.com/gag/aBy72BP)<!-- MEMES:END -->
 
 ---
 
