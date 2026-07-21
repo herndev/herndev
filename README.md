@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s answer to rising tech prices may be leasing your next iPhone](https://www.androidauthority.com/apple-upgrade-program-3689806/)
- - [Block launches Buzz, an open source collaboration workspace on Nostr protocol for humans and AI agents to share messages, code repositories, workflows, and more &lpar;Block&rpar;](https://www.techmeme.com/260721/p39#a260721p39)
- - [Samsung’s New AI Health Assistant Aims to Make Health Metrics Actually Useful](https://www.cnet.com/tech/services-and-software/samsungs-new-ai-health-assistant/)<!-- TECH:END -->
+ - [Apple Invites update brings emoji replies and confetti to the party](https://appleinsider.com/articles/26/07/21/apple-invites-update-brings-emoji-replies-and-confetti-to-the-party?utm_source=rss)
+ - [OpenAI says the Hugging Face breach was driven by a combination of its models, including GPT-5.6 Sol and &quot;an even more capable pre-release model&quot; &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260721/p43#a260721p43)
+ - [Galaxy Z Fold 8 breaks cover &lpar;again&rpar; in T-Mobile ad](https://www.androidauthority.com/samsung-galaxy-z-fold-8-t-mobile-ad-3689844/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
