@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says its business sales unit, Amazon Business, reached $60B in annualized gross sales in Q2, up ~71% from 2023, and serves 11M+ organizations worldwide &lpar;Matt Day/Bloomberg&rpar;](https://www.techmeme.com/260721/p50#a260721p50)
- - [Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over](https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance)
- - [Samsung Galaxy Watch 9 and Ultra 2 specs and pricing leak in full ahead of launch](https://www.androidauthority.com/rumored-samsung-galaxy-watch-9-ultra-2-specs-3689892/)<!-- TECH:END -->
+ - [Trump nominates FCC general counsel Adam Candeub to lead the DOJ&#39;s antitrust unit; Candeub, a longtime Big Tech critic, has long sought to challenge Section 230 &lpar;Ella Lee/Financial Times&rpar;](https://www.techmeme.com/260721/p53#a260721p53)
+ - [Is the All-New Range Rover GT Stepping on Jaguar’s Tail?](https://www.wired.com/story/range-rover-has-an-entirely-new-electric-car-range-rover-gt/)
+ - [Documents: Meta&#39;s internal AI incubator is developing an AI model router, similar to OpenRouter&#39;s, to cut costs by sending some AI tasks to lower-cost models &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260721/p52#a260721p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
