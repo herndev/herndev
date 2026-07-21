@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf man](http://9gag.com/gag/ajPo9pG)
- - ⏩ [It should have been me!](http://9gag.com/gag/aPAK3vR)
+ - 💣 [Feeling ancient right about now](http://9gag.com/gag/apRWGd8)
+ - ⏩ [Welcome to the USA: kids with a gun](http://9gag.com/gag/an7L4bz)
  - 👉 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)<!-- MEMES:END -->
 
 ---
