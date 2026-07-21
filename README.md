@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feeling ancient right about now](http://9gag.com/gag/apRWGd8)
- - ⏩ [Welcome to the USA: kids with a gun](http://9gag.com/gag/an7L4bz)
- - 👉 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)<!-- MEMES:END -->
+ - 💣 [Men: Don&#39;t need much to be happy](http://9gag.com/gag/a9y9Erj)
+ - ⏩ [Argentinian insulting a Mexican guy just for wearing a Mexican jersey but he handles him perfectly](http://9gag.com/gag/azx0mpb)
+ - 👉 [When logic left the chat](http://9gag.com/gag/aAyobwo)<!-- MEMES:END -->
 
 ---
 
