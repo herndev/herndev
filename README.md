@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a reminder Epstein didn&#39;t kill himself.](http://9gag.com/gag/a34VRxQ)
- - ⏩ [Welcome to the USA: kids with a gun](http://9gag.com/gag/an7L4bz)
- - 👉 [What was this? lol](http://9gag.com/gag/aKGr71N)<!-- MEMES:END -->
+ - 💣 [The interview lasted 57 seconds](http://9gag.com/gag/aVvN06K)
+ - ⏩ [Wtf man](http://9gag.com/gag/ajPo9pG)
+ - 👉 [Smoothest line ever dropped](http://9gag.com/gag/ayNOomr)<!-- MEMES:END -->
 
 ---
 
