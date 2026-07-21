@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says it accidentally hacked Hugging Face with a new AI system](https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai)
- - [OpenAI adds Nubank founder and CEO David Vélez and BNY CEO Robin Vince to its board of directors, as the company moves toward a public listing &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260721/p48#a260721p48)
- - [OpenAI says its models chained vulnerabilities across its research environment and Hugging Face&#39;s infrastructure to find solutions for the ExploitGym benchmark &lpar;OpenAI&rpar;](https://www.techmeme.com/260721/p47#a260721p47)<!-- TECH:END -->
+ - [Amazon says its business sales unit, Amazon Business, reached $60B in annualized gross sales in Q2, up ~71% from 2023, and serves 11M+ organizations worldwide &lpar;Matt Day/Bloomberg&rpar;](https://www.techmeme.com/260721/p50#a260721p50)
+ - [Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over](https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance)
+ - [Samsung Galaxy Watch 9 and Ultra 2 specs and pricing leak in full ahead of launch](https://www.androidauthority.com/rumored-samsung-galaxy-watch-9-ultra-2-specs-3689892/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
