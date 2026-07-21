@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Snipers in Final](http://9gag.com/gag/a87BEM1)
  - ⏩ [It should have been me!](http://9gag.com/gag/aPAK3vR)
- - 👉 [The true native American](http://9gag.com/gag/aBy72BP)<!-- MEMES:END -->
+ - 👉 [No Joy tonight.](http://9gag.com/gag/aqyqnzZ)<!-- MEMES:END -->
 
 ---
 
