@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo tells customers it doesn’t owe them a cut of its tariff refunds](https://www.androidauthority.com/nintendo-customers-tariff-refunds-lawsuit-3689986/)
- - [Dune: since January 2021, wallets funded via US-regulated exchanges accounted for ~50% of all traceable trading volume on Polymarket&#39;s US-banned global platform &lpar;Bloomberg&rpar;](https://www.techmeme.com/260722/p4#a260722p4)
- - [TSMC forecasts &quot;several years&quot; of margin dilution as overseas fab projects ramp up; the company has announced $200B in investment into US manufacturing &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260722/p3#a260722p3)<!-- TECH:END -->
+ - [Tencent&#39;s Hong Kong-listed shares fall ~7%, the most since April 2025, as investors worry over &quot;rumors&quot; of weaker earnings on August 12, and NetEase drops 5%+ &lpar;Bloomberg&rpar;](https://www.techmeme.com/260722/p6#a260722p6)
+ - [A Teen Reporter Searched for His Community in the Epstein Files. Adults Freaked Out](https://www.wired.com/story/epstein-files-redwood-bark-school-newspaper/)
+ - [Anthropic commits another $20M to Public First Action, after giving $20M earlier in 2026; PFA says it is a counterweight to a16z-backed Leading the Future &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260722/p5#a260722p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
