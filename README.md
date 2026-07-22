@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jason Sudeikis wants two more seasons of the &#39;Ted Lasso&#39; revival](https://appleinsider.com/articles/26/07/22/jason-sudeikis-wants-two-more-seasons-of-the-ted-lasso-revival?utm_source=rss)
- - [White House OSTP Director Michael Kratsios says Moonshot AI &quot;acquired GB300-equipped servers and has accessed GB300s in Thailand, likely to train its AI models&quot; &lpar;Maggie Eastland/Bloomberg&rpar;](https://www.techmeme.com/260722/p35#a260722p35)
- - [Is T-Mobile down for you? Here’s what’s going on](https://www.androidauthority.com/t-mobile-july-22-outage-3690285/)<!-- TECH:END -->
+ - [Genius AI, formerly GlossGenius, which pivoted from a salon management platform to offer AI tools for service SMBs, raised a $44M Series D at a $1.15B valuation &lpar;Emma Hinchliffe/Fortune&rpar;](https://www.techmeme.com/260722/p39#a260722p39)
+ - [Dyson V10 Konical Review &lpar;2026&rpar;: Affordable and Solid](https://www.wired.com/review/dyson-v10-konical-2026/)
+ - [Today’s NYT Mini Crossword Answers for Wednesday, July 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-22/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
