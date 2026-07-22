@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone see that plane?](http://9gag.com/gag/an7LgzB)
- - ⏩ [Majestic planes &lpar;south of france&rpar;](http://9gag.com/gag/aQz0E1q)
- - 👉 [The true native American](http://9gag.com/gag/aBy72BP)<!-- MEMES:END -->
+ - 💣 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
+ - ⏩ [How old is she ??](http://9gag.com/gag/aND6pX3)
+ - 👉 [Anyone see that plane?](http://9gag.com/gag/an7LgzB)<!-- MEMES:END -->
 
 ---
 
