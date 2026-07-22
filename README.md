@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China’s Open AI Models Are Challenging Silicon Valley’s Playbook](https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/)
- - [A Florida teenager drops his lawsuit accusing Meta of creating harmful social media features, following settlements with co-defendants TikTok, Snap, and YouTube &lpar;New York Times&rpar;](https://www.techmeme.com/260722/p42#a260722p42)
- - [Yope, a social network that has ~15M registered users for its &quot;micro communities&quot; and no algorithms, ads, or public content, raised $12.3M seed led by Northzone &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260722/p41#a260722p41)<!-- TECH:END -->
+ - [Top Red-Light Therapy Deals at Nordstrom’s Anniversary Sale &lpar;2026&rpar;](https://www.wired.com/story/red-light-device-deals-from-nordstroms-anniversary-sale-2026/)
+ - [The SEC agrees to pay $150,000 in legal fees to end Coinbase&#39;s 2024 lawsuit seeking internal docs on the regulator&#39;s Biden-era crackdown on the crypto industry &lpar;Nicola M White/Bloomberg&rpar;](https://www.techmeme.com/260722/p51#a260722p51)
+ - [Every Pixel 11 color just leaked, and one looks particularly eye-catching](https://www.androidauthority.com/every-pixel-11-color-leak-3690377/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
