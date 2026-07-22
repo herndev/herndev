@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The true native American](http://9gag.com/gag/aBy72BP)
- - ⏩ [Shark electric](http://9gag.com/gag/a9y91RZ)
- - 👉 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)<!-- MEMES:END -->
+ - 💣 [How much weight does each one carry? Do the ones in front carry more weight than the ones in back? Calculate how much hehe](http://9gag.com/gag/an7LQXq)
+ - ⏩ [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)
+ - 👉 [Wtf man](http://9gag.com/gag/ajPo9pG)<!-- MEMES:END -->
 
 ---
 
