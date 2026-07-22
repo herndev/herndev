@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jimothy, the Viral Raccoon, Scurries Across Your Screen in Google Animation](https://www.cnet.com/news/jimothy-viral-raccoon-google-animation/)
- - [Meta won’t have to face the next planned social media addiction trial](https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped)
- - [Apple Store app Virtual Shopping Assistant could be coming soon](https://appleinsider.com/articles/26/07/22/apple-store-app-virtual-shopping-assistant-could-be-coming-soon?utm_source=rss)<!-- TECH:END -->
+ - [Sources: OpenAI staff were &quot;freaked out&quot; when GPT-Sol 5.6 breached Hugging Face, as OpenAI used more aggressive training methods to compete with Anthropic &lpar;Financial Times&rpar;](https://www.techmeme.com/260722/p57#a260722p57)
+ - [The Little Tech Association, a new group of ~200 companies across the startup community, including Y Combinator, urges Trump not to ban Chinese open-weight AI &lpar;Sophia Cai/Politico&rpar;](https://www.techmeme.com/260722/p56#a260722p56)
+ - [Movement Labs, a layer-2 Ethereum blockchain developer, files for Chapter 11 bankruptcy after a period of upheaval that included a token scandal and Binance ban &lpar;CoinDesk&rpar;](https://www.techmeme.com/260722/p55#a260722p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
