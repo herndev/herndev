@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile vs Verizon vs AT&amp;T: New report reveals the best carrier for 2026 so far](https://www.androidauthority.com/t-mobile-fastest-verizon-widest-ookla-opensignal-report-3690121/)
- - [Don&#39;t miss a payment with Apple Upgrade or your iPhone will be locked](https://appleinsider.com/articles/26/07/22/dont-miss-a-payment-with-apple-upgrade-or-your-iphone-will-be-locked?utm_source=rss)
- - [The 13 Best Fans for Getting Through Sweaty Days &lpar;2026&rpar;](https://www.wired.com/story/the-best-fans-2026/)<!-- TECH:END -->
+ - [If you&#39;ve got this dealer-installed car alarm, patch it today with your iPhone](https://appleinsider.com/articles/26/07/22/if-youve-got-this-dealer-installed-car-alarm-patch-it-today-with-your-iphone?utm_source=rss)
+ - [AMD and Anthropic reach $5 billion AI infrastructure deal](https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal)
+ - [Sources: Apple is set to debut new versions of every Mac it sells, including long-awaited iMac updates and a revamped MacBook Pro and Neo, across fall and 2027 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260722/p29#a260722p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
