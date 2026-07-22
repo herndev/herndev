@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
- - ⏩ [Yes, FU &amp; FO](http://9gag.com/gag/awy6zAx)
- - 👉 [The true native American](http://9gag.com/gag/aBy72BP)<!-- MEMES:END -->
+ - 💣 [Anyone see that plane?](http://9gag.com/gag/an7LgzB)
+ - ⏩ [Training](http://9gag.com/gag/aD2EDP9)
+ - 👉 [Shark electric](http://9gag.com/gag/a9y91RZ)<!-- MEMES:END -->
 
 ---
 
