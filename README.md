@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump nominates FCC general counsel Adam Candeub to lead the DOJ&#39;s antitrust unit; Candeub, a longtime Big Tech critic, has long sought to challenge Section 230 &lpar;Ella Lee/Financial Times&rpar;](https://www.techmeme.com/260721/p53#a260721p53)
- - [Is the All-New Range Rover GT Stepping on Jaguar’s Tail?](https://www.wired.com/story/range-rover-has-an-entirely-new-electric-car-range-rover-gt/)
- - [Documents: Meta&#39;s internal AI incubator is developing an AI model router, similar to OpenRouter&#39;s, to cut costs by sending some AI tasks to lower-cost models &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260721/p52#a260721p52)<!-- TECH:END -->
+ - [Samsung Galaxy Unpacked July 2026: How to watch](https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch)
+ - [Aqara W200 review: Affordably-priced smart thermostat has firsts for Apple users](https://appleinsider.com/articles/26/04/07/aqara-w200-review-affordably-priced-smart-thermostat-has-firsts-for-apple-users?utm_source=rss)
+ - [Apple Raised Mac Prices. Now It Might Lease You One](https://www.cnet.com/tech/computing/apple-raised-mac-prices-now-it-might-lease-you-one/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
