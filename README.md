@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)
- - ⏩ [She looked more like an employee than him, until the scream!](http://9gag.com/gag/aBy7n6P)
- - 👉 [Irony at its finest](http://9gag.com/gag/aLny1QP)<!-- MEMES:END -->
+ - 💣 [Stop misgendering the banshee !](http://9gag.com/gag/a9y91v0)
+ - ⏩ [Anyone see that plane?](http://9gag.com/gag/an7LgzB)
+ - 👉 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)<!-- MEMES:END -->
 
 ---
 
