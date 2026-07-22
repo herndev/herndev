@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Store app Virtual Shopping Assistant could be coming soon](https://appleinsider.com/articles/26/07/22/apple-store-app-virtual-shopping-assistant-could-be-coming-soon?utm_source=rss)
- - [Your Google Meet files are finally getting the organization they need](https://www.androidauthority.com/google-meet-organizes-meeting-files-in-drive-folder-3690434/)
- - [Google projects full-year capex will be $195B to $205B in 2026, after saying in April that it will spend as much as $190B; its Q2 capex hit $44.92B, up 100% YoY &lpar;Julia Love/Bloomberg&rpar;](https://www.techmeme.com/260722/p54#a260722p54)<!-- TECH:END -->
+ - [Jimothy, the Viral Raccoon, Scurries Across Your Screen in Google Animation](https://www.cnet.com/news/jimothy-viral-raccoon-google-animation/)
+ - [Meta won’t have to face the next planned social media addiction trial](https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped)
+ - [Apple Store app Virtual Shopping Assistant could be coming soon](https://appleinsider.com/articles/26/07/22/apple-store-app-virtual-shopping-assistant-could-be-coming-soon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
