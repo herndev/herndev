@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Samsung may invest up to €1B in Mistral as part of a broader round valuing it at ~€20B, after previously backing the AI startup through its venture arm &lpar;Financial Times&rpar;](https://www.techmeme.com/260722/p1#a260722p1)
- - [Memo: the White House OSTP plans to redirect federal research funding from universities to individual scientists and AI use, reshaping ~$200B in annual spending &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260721/p57#a260721p57)
- - [Forget prompts: Claude can now learn your workflow by watching your screen](https://www.androidauthority.com/claude-cowork-record-skills-feature-3689919/)<!-- TECH:END -->
+ - [Nintendo tells customers it doesn’t owe them a cut of its tariff refunds](https://www.androidauthority.com/nintendo-customers-tariff-refunds-lawsuit-3689986/)
+ - [Dune: since January 2021, wallets funded via US-regulated exchanges accounted for ~50% of all traceable trading volume on Polymarket&#39;s US-banned global platform &lpar;Bloomberg&rpar;](https://www.techmeme.com/260722/p4#a260722p4)
+ - [TSMC forecasts &quot;several years&quot; of margin dilution as overseas fab projects ramp up; the company has announced $200B in investment into US manufacturing &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260722/p3#a260722p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
