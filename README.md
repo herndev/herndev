@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent&#39;s Hong Kong-listed shares fall ~7%, the most since April 2025, as investors worry over &quot;rumors&quot; of weaker earnings on August 12, and NetEase drops 5%+ &lpar;Bloomberg&rpar;](https://www.techmeme.com/260722/p6#a260722p6)
- - [A Teen Reporter Searched for His Community in the Epstein Files. Adults Freaked Out](https://www.wired.com/story/epstein-files-redwood-bark-school-newspaper/)
- - [Anthropic commits another $20M to Public First Action, after giving $20M earlier in 2026; PFA says it is a counterweight to a16z-backed Leading the Future &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260722/p5#a260722p5)<!-- TECH:END -->
+ - [T-Mobile vs Verizon vs AT&amp;T: New report reveals the best carrier for 2026 so far](https://www.androidauthority.com/t-mobile-fastest-verizon-widest-ookla-opensignal-report-3690121/)
+ - [Don&#39;t miss a payment with Apple Upgrade or your iPhone will be locked](https://appleinsider.com/articles/26/07/22/dont-miss-a-payment-with-apple-upgrade-or-your-iphone-will-be-locked?utm_source=rss)
+ - [The 13 Best Fans for Getting Through Sweaty Days &lpar;2026&rpar;](https://www.wired.com/story/the-best-fans-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
