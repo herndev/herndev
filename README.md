@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Unpacked July 2026: How to watch](https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch)
- - [Aqara W200 review: Affordably-priced smart thermostat has firsts for Apple users](https://appleinsider.com/articles/26/04/07/aqara-w200-review-affordably-priced-smart-thermostat-has-firsts-for-apple-users?utm_source=rss)
- - [Apple Raised Mac Prices. Now It Might Lease You One](https://www.cnet.com/tech/computing/apple-raised-mac-prices-now-it-might-lease-you-one/)<!-- TECH:END -->
+ - [Sources: Samsung may invest up to €1B in Mistral as part of a broader round valuing it at ~€20B, after previously backing the AI startup through its venture arm &lpar;Financial Times&rpar;](https://www.techmeme.com/260722/p1#a260722p1)
+ - [Memo: the White House OSTP plans to redirect federal research funding from universities to individual scientists and AI use, reshaping ~$200B in annual spending &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260721/p57#a260721p57)
+ - [Forget prompts: Claude can now learn your workflow by watching your screen](https://www.androidauthority.com/claude-cowork-record-skills-feature-3689919/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
