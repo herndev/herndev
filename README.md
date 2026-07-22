@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Irony at its finest](http://9gag.com/gag/aLny1QP)
- - ⏩ [Training](http://9gag.com/gag/aD2EDP9)
- - 👉 [Majestic planes &lpar;south of france&rpar;](http://9gag.com/gag/aQz0E1q)<!-- MEMES:END -->
+ - 💣 [Shark electric](http://9gag.com/gag/a9y91RZ)
+ - ⏩ [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
+ - 👉 [He should also make Dante\u2019s Inferno](http://9gag.com/gag/aqyqepR)<!-- MEMES:END -->
 
 ---
 
