@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Am I cooked ?](https://www.reddit.com/r/funny/comments/1v3eheg/am_i_cooked/)
+ - 💣 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
  - ⏩ [Yes, FU &amp; FO](http://9gag.com/gag/awy6zAx)
- - 👉 [Stop misgendering the banshee !](http://9gag.com/gag/a9y91v0)<!-- MEMES:END -->
+ - 👉 [The true native American](http://9gag.com/gag/aBy72BP)<!-- MEMES:END -->
 
 ---
 
