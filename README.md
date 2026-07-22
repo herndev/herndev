@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How much weight does each one carry? Do the ones in front carry more weight than the ones in back? Calculate how much hehe](http://9gag.com/gag/an7LQXq)
- - ⏩ [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)
- - 👉 [Wtf man](http://9gag.com/gag/ajPo9pG)<!-- MEMES:END -->
+ - 💣 [Doggy Daycare didn&#39;t bother telling owner the dog DROWNED before picking him up.](http://9gag.com/gag/aZZG0Yn)
+ - ⏩ [How much weight does each one carry? Do the ones in front carry more weight than the ones in back? Calculate how much hehe](http://9gag.com/gag/an7LQXq)
+ - 👉 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)<!-- MEMES:END -->
 
 ---
 
