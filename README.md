@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Training](http://9gag.com/gag/aD2EDP9)
- - ⏩ [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
- - 👉 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)<!-- MEMES:END -->
+ - 💣 [Am I cooked ?](https://www.reddit.com/r/funny/comments/1v3eheg/am_i_cooked/)
+ - ⏩ [Yes, FU &amp; FO](http://9gag.com/gag/awy6zAx)
+ - 👉 [Stop misgendering the banshee !](http://9gag.com/gag/a9y91v0)<!-- MEMES:END -->
 
 ---
 
