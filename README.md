@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
- - ⏩ [How old is she ??](http://9gag.com/gag/aND6pX3)
- - 👉 [Anyone see that plane?](http://9gag.com/gag/an7LgzB)<!-- MEMES:END -->
+ - 💣 [Irony at its finest](http://9gag.com/gag/aLny1QP)
+ - ⏩ [Training](http://9gag.com/gag/aD2EDP9)
+ - 👉 [Majestic planes &lpar;south of france&rpar;](http://9gag.com/gag/aQz0E1q)<!-- MEMES:END -->
 
 ---
 
