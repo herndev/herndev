@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Genius AI, formerly GlossGenius, which pivoted from a salon management platform to offer AI tools for service SMBs, raised a $44M Series D at a $1.15B valuation &lpar;Emma Hinchliffe/Fortune&rpar;](https://www.techmeme.com/260722/p39#a260722p39)
- - [Dyson V10 Konical Review &lpar;2026&rpar;: Affordable and Solid](https://www.wired.com/review/dyson-v10-konical-2026/)
- - [Today’s NYT Mini Crossword Answers for Wednesday, July 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-22/)<!-- TECH:END -->
+ - [China’s Open AI Models Are Challenging Silicon Valley’s Playbook](https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/)
+ - [A Florida teenager drops his lawsuit accusing Meta of creating harmful social media features, following settlements with co-defendants TikTok, Snap, and YouTube &lpar;New York Times&rpar;](https://www.techmeme.com/260722/p42#a260722p42)
+ - [Yope, a social network that has ~15M registered users for its &quot;micro communities&quot; and no algorithms, ads, or public content, raised $12.3M seed led by Northzone &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260722/p41#a260722p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
