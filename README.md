@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes, FU &amp; FO](http://9gag.com/gag/awy6zAx)
+ - 💣 [Training](http://9gag.com/gag/aD2EDP9)
  - ⏩ [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
- - 👉 [How much weight does each one carry? Do the ones in front carry more weight than the ones in back? Calculate how much hehe](http://9gag.com/gag/an7LQXq)<!-- MEMES:END -->
+ - 👉 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)<!-- MEMES:END -->
 
 ---
 
