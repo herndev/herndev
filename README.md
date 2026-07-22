@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top Red-Light Therapy Deals at Nordstrom’s Anniversary Sale &lpar;2026&rpar;](https://www.wired.com/story/red-light-device-deals-from-nordstroms-anniversary-sale-2026/)
- - [The SEC agrees to pay $150,000 in legal fees to end Coinbase&#39;s 2024 lawsuit seeking internal docs on the regulator&#39;s Biden-era crackdown on the crypto industry &lpar;Nicola M White/Bloomberg&rpar;](https://www.techmeme.com/260722/p51#a260722p51)
- - [Every Pixel 11 color just leaked, and one looks particularly eye-catching](https://www.androidauthority.com/every-pixel-11-color-leak-3690377/)<!-- TECH:END -->
+ - [Apple Store app Virtual Shopping Assistant could be coming soon](https://appleinsider.com/articles/26/07/22/apple-store-app-virtual-shopping-assistant-could-be-coming-soon?utm_source=rss)
+ - [Your Google Meet files are finally getting the organization they need](https://www.androidauthority.com/google-meet-organizes-meeting-files-in-drive-folder-3690434/)
+ - [Google projects full-year capex will be $195B to $205B in 2026, after saying in April that it will spend as much as $190B; its Q2 capex hit $44.92B, up 100% YoY &lpar;Julia Love/Bloomberg&rpar;](https://www.techmeme.com/260722/p54#a260722p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
