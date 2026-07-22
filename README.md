@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you&#39;ve got this dealer-installed car alarm, patch it today with your iPhone](https://appleinsider.com/articles/26/07/22/if-youve-got-this-dealer-installed-car-alarm-patch-it-today-with-your-iphone?utm_source=rss)
- - [AMD and Anthropic reach $5 billion AI infrastructure deal](https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal)
- - [Sources: Apple is set to debut new versions of every Mac it sells, including long-awaited iMac updates and a revamped MacBook Pro and Neo, across fall and 2027 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260722/p29#a260722p29)<!-- TECH:END -->
+ - [Jason Sudeikis wants two more seasons of the &#39;Ted Lasso&#39; revival](https://appleinsider.com/articles/26/07/22/jason-sudeikis-wants-two-more-seasons-of-the-ted-lasso-revival?utm_source=rss)
+ - [White House OSTP Director Michael Kratsios says Moonshot AI &quot;acquired GB300-equipped servers and has accessed GB300s in Thailand, likely to train its AI models&quot; &lpar;Maggie Eastland/Bloomberg&rpar;](https://www.techmeme.com/260722/p35#a260722p35)
+ - [Is T-Mobile down for you? Here’s what’s going on](https://www.androidauthority.com/t-mobile-july-22-outage-3690285/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
