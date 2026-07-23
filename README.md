@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Pixel Watch 5 leak suggests Google isn’t trying to outmuscle the Galaxy Watch 9](https://www.androidauthority.com/pixel-watch-5-processor-leak-3690481/)
- - [Sources detail how Commerce Secretary Howard Lutnick and crypto adviser Bo Hines worked to shape the GENIUS Act and loosen safeguards to benefit Tether &lpar;Bloomberg&rpar;](https://www.techmeme.com/260722/p63#a260722p63)
- - [A study of 11,989 Polymarket users finds 61% placed fewer than 100 trades over a six-week period, with 58% making or losing less than $100 during that period &lpar;Kaitlyn Radde/Pew Research Center&rpar;](https://www.techmeme.com/260722/p62#a260722p62)<!-- TECH:END -->
+ - [Gemini Nano 4 is finally here with Samsung’s latest foldables](https://www.androidauthority.com/galaxy-z-fold-8-flip-8-gemini-nano-4-3690495/)
+ - [As the AI industry recruits high-profile academics, research that was once conducted in the open is increasingly getting locked behind closed doors &lpar;The Atlantic&rpar;](https://www.techmeme.com/260723/p6#a260723p6)
+ - [Google Wallet order tracking is now fully rolled out in the US](https://www.androidauthority.com/google-wallet-order-tracking-rolling-out-3690492/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
