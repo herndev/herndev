@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Training](http://9gag.com/gag/aD2EDP9)
- - ⏩ [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)
- - 👉 [Give your cat a headpat to make her happy](http://9gag.com/gag/aVvNv7K)<!-- MEMES:END -->
+ - 💣 [Woman&#39;s ovaries were activated](http://9gag.com/gag/a6ZA1e8)
+ - ⏩ [Yes she&#39;s grandma now. But she was really cool.](http://9gag.com/gag/an7LzM0)
+ - 👉 [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)<!-- MEMES:END -->
 
 ---
 
