@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Alphabet holds $94.1B in SpaceX equity post-IPO; $80B are under short-term sale restrictions, while $14.1B remain long-term restricted until Q3 2027 &lpar;Sarah Frier/Bloomberg&rpar;](https://www.techmeme.com/260723/p21#a260723p21)
- - [22 Back-to-School College Dorm Room Essentials &lpar;2026&rpar;](https://www.wired.com/gallery/best-college-and-dorm-essentials-gear/)
- - [The right-wing boomers protesting data centers have a lot in common with the left](https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans)<!-- TECH:END -->
+ - [This tempting Google Pixelsnap Charger deal even beats its Prime Day price](https://www.androidauthority.com/google-pixelsnap-charger-deal-3690729/)
+ - [The European Commission approves the $55B acquisition of EA by a group of investors including Saudi Arabia&#39;s PIF, Silver Lake, and Affinity &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260723/p26#a260723p26)
+ - [IBM acquires HRL Laboratories from Boeing and General Motors, seeking to integrate HRL&#39;s electron spin quantum circuits into its quantum computers &lpar;Stephen Nellis/Reuters&rpar;](https://www.techmeme.com/260723/p25#a260723p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
