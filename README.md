@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sierra acquires Takeoff, which develops &quot;long-horizon&quot; agents, for an undisclosed sum; founded in 2025, Takeoff neared $10M in annualized revenue in early July &lpar;The Information&rpar;](https://www.techmeme.com/260723/p53#a260723p53)
- - [Sources: Stripe is in talks to acquire OpenRouter in a deal potentially worth around $10B; PitchBook: OpenRouter was valued at $1.3B in May &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260723/p52#a260723p52)
- - [SAP reports Q2 cloud revenue up 22% YoY to €6.28B, vs. €6.26B est., total revenue up 9.4% to €9.88B, and lowers its 2026 non-IFRS operating profit guidance &lpar;Grace Yoon/Wall Street Journal&rpar;](https://www.techmeme.com/260723/p51#a260723p51)<!-- TECH:END -->
+ - [AMD is working with Cerebras to combine AMD Helios and Cerebras wafer-scale chips for an AI inference solution to make workloads faster; CBRS closed up 4.86% &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/260723/p55#a260723p55)
+ - [My FanCam Is My Favorite New AI Feature – Because It Doesn’t Generate Anything](https://www.cnet.com/uncategorized/my-fancam-is-my-favorite-new-ai-feature-because-it-doesnt-generate-anything/)
+ - [Man Sues OpenAI, Alleging ChatGPT Gave Him ‘Dangerous Medical Advice’](https://www.cnet.com/tech/services-and-software/man-sues-openai-alleging-chatgpt-gave-him-dangerous-medical-advice/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
