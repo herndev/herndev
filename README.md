@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Fire HD 10 Kids Pro falls to its best price of the year](https://www.androidauthority.com/amazon-fire-hd-10-kids-pro-deal-3690766/)
- - [Samsung chief explains why the Galaxy Z Fold 8 series is way cheaper in Korea](https://www.androidauthority.com/galaxy-z-fold-8-korean-price-explanation-3690710/)
- - [Abstract Security, which offers an in-stream threat detection platform, raised a $25M extension to its $15M Series A, bringing its total funding to $48.5M &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260723/p29#a260723p29)<!-- TECH:END -->
+ - [Amazon Prime Video adds game streaming to its list of features](https://www.androidauthority.com/amazon-prime-video-integrates-luna-3690775/)
+ - [Runway launches Runway Media Router, which it says is the first built specifically for generative media, as it expands from AI video to AI infrastructure &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260723/p35#a260723p35)
+ - [Cavalcade of New Macs Is Coming, Report Says, Starting With M6 MacBook Pro This Fall](https://www.cnet.com/tech/computing/new-macs-coming-m6-macbook-pro-fall/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
