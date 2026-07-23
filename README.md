@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes she&#39;s grandma now. But she was really cool.](http://9gag.com/gag/an7LzM0)
- - ⏩ [Shark electric](http://9gag.com/gag/a9y91RZ)
- - 👉 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)<!-- MEMES:END -->
+ - 💣 [Shark electric](http://9gag.com/gag/a9y91RZ)
+ - ⏩ [Anyone see that plane?](http://9gag.com/gag/an7LgzB)
+ - 👉 [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)<!-- MEMES:END -->
 
 ---
 
