@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Nano 4 is finally here with Samsung’s latest foldables](https://www.androidauthority.com/galaxy-z-fold-8-flip-8-gemini-nano-4-3690495/)
- - [As the AI industry recruits high-profile academics, research that was once conducted in the open is increasingly getting locked behind closed doors &lpar;The Atlantic&rpar;](https://www.techmeme.com/260723/p6#a260723p6)
- - [Google Wallet order tracking is now fully rolled out in the US](https://www.androidauthority.com/google-wallet-order-tracking-rolling-out-3690492/)<!-- TECH:END -->
+ - [Texas Instruments reports Q2 revenue up 23% YoY to $5.46B, above $5.26B est., net income up 53% to $1.98B, and forecasts $5.65B-$6.15B in Q3 revenue, above est. &lpar;Grace Yoon/Wall Street Journal&rpar;](https://www.techmeme.com/260723/p11#a260723p11)
+ - [If the Galaxy Z Flip 8 really is Samsung’s last model, the foldable world is in trouble](https://www.androidauthority.com/samsung-galaxy-z-flip-8-last-one-foldables-in-trouble-3689436/)
+ - [Google wants your face to be your backup password with new selfie video sign-in](https://www.androidauthority.com/google-selfie-video-sign-in-3690502/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
