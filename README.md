@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shark electric](http://9gag.com/gag/a9y91RZ)
- - ⏩ [Anyone see that plane?](http://9gag.com/gag/an7LgzB)
- - 👉 [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)<!-- MEMES:END -->
+ - 💣 [Ok that made me chuckle a bit](http://9gag.com/gag/aKGrEGj)
+ - ⏩ [Jimmy the GOAT](http://9gag.com/gag/a9y9180)
+ - 👉 [Obama Osama](http://9gag.com/gag/aND6P7w)<!-- MEMES:END -->
 
 ---
 
