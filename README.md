@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla reports a negative Q2 free cash flow of $1.1B, its first in over two years, partly due to increased AI and robotic investments, amid diminishing profits &lpar;Reuters&rpar;](https://www.techmeme.com/260722/p59#a260722p59)
- - [Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy](https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine)
- - [Google reports Q2 free cash flow at negative $5.9B amid increased AI spending, marking its first cash burn since going public decades ago &lpar;Ryan McMorrow/Financial Times&rpar;](https://www.techmeme.com/260722/p58#a260722p58)<!-- TECH:END -->
+ - [New Pixel Watch 5 leak suggests Google isn’t trying to outmuscle the Galaxy Watch 9](https://www.androidauthority.com/pixel-watch-5-processor-leak-3690481/)
+ - [Sources detail how Commerce Secretary Howard Lutnick and crypto adviser Bo Hines worked to shape the GENIUS Act and loosen safeguards to benefit Tether &lpar;Bloomberg&rpar;](https://www.techmeme.com/260722/p63#a260722p63)
+ - [A study of 11,989 Polymarket users finds 61% placed fewer than 100 trades over a six-week period, with 58% making or losing less than $100 during that period &lpar;Kaitlyn Radde/Pew Research Center&rpar;](https://www.techmeme.com/260722/p62#a260722p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
