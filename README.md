@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s next trick could take a page from Pixel’s Now Playing](https://www.androidauthority.com/spotify-song-identification-3690854/)
- - [Today’s NYT Strands Hints, Answers and Help for July 24 #873](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-24-873/)
- - [Microsoft replaces OpenAI&#39;s image-generating models with its MAI models in its products; Mustafa Suleyman says MAI models are ~85% cheaper to run in PowerPoint &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260723/p43#a260723p43)<!-- TECH:END -->
+ - [Sierra acquires Takeoff, which develops &quot;long-horizon&quot; agents, for an undisclosed sum; founded in 2025, Takeoff neared $10M in annualized revenue in early July &lpar;The Information&rpar;](https://www.techmeme.com/260723/p53#a260723p53)
+ - [Sources: Stripe is in talks to acquire OpenRouter in a deal potentially worth around $10B; PitchBook: OpenRouter was valued at $1.3B in May &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260723/p52#a260723p52)
+ - [SAP reports Q2 cloud revenue up 22% YoY to €6.28B, vs. €6.26B est., total revenue up 9.4% to €9.88B, and lowers its 2026 non-IFRS operating profit guidance &lpar;Grace Yoon/Wall Street Journal&rpar;](https://www.techmeme.com/260723/p51#a260723p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
