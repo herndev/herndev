@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This tempting Google Pixelsnap Charger deal even beats its Prime Day price](https://www.androidauthority.com/google-pixelsnap-charger-deal-3690729/)
- - [The European Commission approves the $55B acquisition of EA by a group of investors including Saudi Arabia&#39;s PIF, Silver Lake, and Affinity &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260723/p26#a260723p26)
- - [IBM acquires HRL Laboratories from Boeing and General Motors, seeking to integrate HRL&#39;s electron spin quantum circuits into its quantum computers &lpar;Stephen Nellis/Reuters&rpar;](https://www.techmeme.com/260723/p25#a260723p25)<!-- TECH:END -->
+ - [Amazon Fire HD 10 Kids Pro falls to its best price of the year](https://www.androidauthority.com/amazon-fire-hd-10-kids-pro-deal-3690766/)
+ - [Samsung chief explains why the Galaxy Z Fold 8 series is way cheaper in Korea](https://www.androidauthority.com/galaxy-z-fold-8-korean-price-explanation-3690710/)
+ - [Abstract Security, which offers an in-stream threat detection platform, raised a $25M extension to its $15M Series A, bringing its total funding to $48.5M &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260723/p29#a260723p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
