@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ok that made me chuckle a bit](http://9gag.com/gag/aKGrEGj)
- - ⏩ [Jimmy the GOAT](http://9gag.com/gag/a9y9180)
- - 👉 [Obama Osama](http://9gag.com/gag/aND6P7w)<!-- MEMES:END -->
+ - 💣 [True that](http://9gag.com/gag/a0e2eYq)
+ - ⏩ [How my parents washed me](http://9gag.com/gag/ayNO9WX)
+ - 👉 [The second this little skunks owner puts him down, he wakes up and throws the most dramatic little tantrum until he gets picked up again.](http://9gag.com/gag/aYQ2V0O)<!-- MEMES:END -->
 
 ---
 
