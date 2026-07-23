@@ -47,7 +47,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Yes she&#39;s grandma now. But she was really cool.](http://9gag.com/gag/an7LzM0)
- - ⏩ [Judge is stunned](http://9gag.com/gag/aLnyprV)
+ - ⏩ [Shark electric](http://9gag.com/gag/a9y91RZ)
  - 👉 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)<!-- MEMES:END -->
 
 ---
