@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Video adds game streaming to its list of features](https://www.androidauthority.com/amazon-prime-video-integrates-luna-3690775/)
- - [Runway launches Runway Media Router, which it says is the first built specifically for generative media, as it expands from AI video to AI infrastructure &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260723/p35#a260723p35)
- - [Cavalcade of New Macs Is Coming, Report Says, Starting With M6 MacBook Pro This Fall](https://www.cnet.com/tech/computing/new-macs-coming-m6-macbook-pro-fall/)<!-- TECH:END -->
+ - [Spotify’s next trick could take a page from Pixel’s Now Playing](https://www.androidauthority.com/spotify-song-identification-3690854/)
+ - [Today’s NYT Strands Hints, Answers and Help for July 24 #873](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-24-873/)
+ - [Microsoft replaces OpenAI&#39;s image-generating models with its MAI models in its products; Mustafa Suleyman says MAI models are ~85% cheaper to run in PowerPoint &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260723/p43#a260723p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
