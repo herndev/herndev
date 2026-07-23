@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)
- - ⏩ [I know what kind of man you are...I believe they can cure cancer](http://9gag.com/gag/ae9v9Nj)
- - 👉 [Meme](http://9gag.com/gag/a0e2emX)<!-- MEMES:END -->
+ - 💣 [Majestic planes &lpar;south of france&rpar;](http://9gag.com/gag/aQz0E1q)
+ - ⏩ [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)
+ - 👉 [Women wait at the finish line and f#ck the winner](http://9gag.com/gag/aLnyLQV)<!-- MEMES:END -->
 
 ---
 
