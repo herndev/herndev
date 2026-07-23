@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)
- - ⏩ [Woman&#39;s ovaries were activated](http://9gag.com/gag/a6ZA1e8)
- - 👉 [I know what kind of man you are...I believe they can cure cancer](http://9gag.com/gag/ae9v9Nj)<!-- MEMES:END -->
+ - ⏩ [I know what kind of man you are...I believe they can cure cancer](http://9gag.com/gag/ae9v9Nj)
+ - 👉 [Meme](http://9gag.com/gag/a0e2emX)<!-- MEMES:END -->
 
 ---
 
