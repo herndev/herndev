@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True that](http://9gag.com/gag/a0e2eYq)
- - ⏩ [How my parents washed me](http://9gag.com/gag/ayNO9WX)
- - 👉 [The second this little skunks owner puts him down, he wakes up and throws the most dramatic little tantrum until he gets picked up again.](http://9gag.com/gag/aYQ2V0O)<!-- MEMES:END -->
+ - 💣 [Training](http://9gag.com/gag/aD2EDP9)
+ - ⏩ [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)
+ - 👉 [Give your cat a headpat to make her happy](http://9gag.com/gag/aVvNv7K)<!-- MEMES:END -->
 
 ---
 
