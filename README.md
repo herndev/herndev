@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD is working with Cerebras to combine AMD Helios and Cerebras wafer-scale chips for an AI inference solution to make workloads faster; CBRS closed up 4.86% &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/260723/p55#a260723p55)
- - [My FanCam Is My Favorite New AI Feature – Because It Doesn’t Generate Anything](https://www.cnet.com/uncategorized/my-fancam-is-my-favorite-new-ai-feature-because-it-doesnt-generate-anything/)
- - [Man Sues OpenAI, Alleging ChatGPT Gave Him ‘Dangerous Medical Advice’](https://www.cnet.com/tech/services-and-software/man-sues-openai-alleging-chatgpt-gave-him-dangerous-medical-advice/)<!-- TECH:END -->
+ - [Amazon shutters its AGI Lab as part of layoffs in its AGI unit earlier this week; the lab&#39;s former head David Luan left in February &lpar;The Information&rpar;](https://www.techmeme.com/260723/p57#a260723p57)
+ - [Today’s NYT Connections: Sports Edition Hints and Answers for July 24, #669](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-24-669/)
+ - [Sources: AI robotics startup Genesis AI is in talks to raise around $500M in a new funding round at a $3B pre-money valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260723/p56#a260723p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
