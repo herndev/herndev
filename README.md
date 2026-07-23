@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas Instruments reports Q2 revenue up 23% YoY to $5.46B, above $5.26B est., net income up 53% to $1.98B, and forecasts $5.65B-$6.15B in Q3 revenue, above est. &lpar;Grace Yoon/Wall Street Journal&rpar;](https://www.techmeme.com/260723/p11#a260723p11)
- - [If the Galaxy Z Flip 8 really is Samsung’s last model, the foldable world is in trouble](https://www.androidauthority.com/samsung-galaxy-z-flip-8-last-one-foldables-in-trouble-3689436/)
- - [Google wants your face to be your backup password with new selfie video sign-in](https://www.androidauthority.com/google-selfie-video-sign-in-3690502/)<!-- TECH:END -->
+ - [Filing: Alphabet holds $94.1B in SpaceX equity post-IPO; $80B are under short-term sale restrictions, while $14.1B remain long-term restricted until Q3 2027 &lpar;Sarah Frier/Bloomberg&rpar;](https://www.techmeme.com/260723/p21#a260723p21)
+ - [22 Back-to-School College Dorm Room Essentials &lpar;2026&rpar;](https://www.wired.com/gallery/best-college-and-dorm-essentials-gear/)
+ - [The right-wing boomers protesting data centers have a lot in common with the left](https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
