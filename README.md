@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dispatch records cut claims of major Apple Park fire damage down to size](https://appleinsider.com/articles/26/07/24/dispatch-records-cut-claims-of-major-apple-park-fire-damage-down-to-size?utm_source=rss)
- - [Meta, Nvidia, Microsoft, a16z, and others sign a letter defending open-source AI; Jensen Huang, in his first X post, says open models strengthen cybersecurity &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260724/p13#a260724p13)
- - [After OnePlus, Nothing could be the next brand to leave multiple global markets](https://www.androidauthority.com/nothing-market-exits-layoffs-rumor-3691156/)<!-- TECH:END -->
+ - [Is the PlayStation Network down for you? Here’s what’s going on](https://www.androidauthority.com/playstation-network-july-24-outage-3691238/)
+ - [Trump says the US will initiate a probe into the EU&#39;s practice of &quot;robbing&quot; US tech giants with fines, threatening the bloc with &quot;substantial&quot; tariffs &lpar;Kevin Breuninger/CNBC&rpar;](https://www.techmeme.com/260724/p25#a260724p25)
+ - [Letter: Qualcomm tells customers it plans to raise prices by double digit percentage points, after exhausting its ability to absorb higher costs from suppliers &lpar;Ian King/Bloomberg&rpar;](https://www.techmeme.com/260724/p24#a260724p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
