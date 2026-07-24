@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon shutters its AGI Lab as part of layoffs in its AGI unit earlier this week; the lab&#39;s former head David Luan left in February &lpar;The Information&rpar;](https://www.techmeme.com/260723/p57#a260723p57)
- - [Today’s NYT Connections: Sports Edition Hints and Answers for July 24, #669](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-24-669/)
- - [Sources: AI robotics startup Genesis AI is in talks to raise around $500M in a new funding round at a $3B pre-money valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260723/p56#a260723p56)<!-- TECH:END -->
+ - [District judge assigned to oversee Apple&#39;s trade secrets lawsuit against OpenAI](https://appleinsider.com/articles/26/07/24/district-judge-assigned-to-oversee-apples-trade-secrets-lawsuit-against-openai?utm_source=rss)
+ - [Google says it has $811B in contracted future spending commitments as of June, up ~$500B from March, covering chips, data centers, electricity, and more &lpar;Davey Alba/Bloomberg&rpar;](https://www.techmeme.com/260723/p59#a260723p59)
+ - [Ukraine ratchets up its attacks on warehouses of Russian e-commerce giant Wildberries, signaling a new phase in the war as it seeks to hamper Russia&#39;s economy &lpar;Sam Meredith/CNBC&rpar;](https://www.techmeme.com/260723/p58#a260723p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
