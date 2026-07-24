@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
- - ⏩ [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)
+ - 💣 [Clark Kent discovering his heat vision after meeting the new biology teacher](http://9gag.com/gag/axyXWEb)
+ - ⏩ [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
  - 👉 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)<!-- MEMES:END -->
 
 ---
