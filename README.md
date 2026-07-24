@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Give your cat a headpat to make her happy](http://9gag.com/gag/aVvNv7K)
+ - 💣 [Clark Kent discovering his heat vision after meeting the new biology teacher](http://9gag.com/gag/axyXWEb)
  - ⏩ [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)
- - 👉 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)<!-- MEMES:END -->
+ - 👉 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)<!-- MEMES:END -->
 
 ---
 
