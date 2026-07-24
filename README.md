@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Fold 8 series borrows one of the best foldable multitasking ideas](https://www.androidauthority.com/samsung-galaxy-z-fold-8-three-way-split-screen-3690958/)
- - [Fool us three times? Galaxy Watch owners are reporting abnormal battery drain yet again](https://www.androidauthority.com/samsung-galaxy-watch-battery-drain-again-3690962/)
- - [A look at China&#39;s push to catch up with US AI chips; sources: its Vice Premier warned AI companies that anyone who resisted using local chips was a traitor &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260724/p3#a260724p3)<!-- TECH:END -->
+ - [There’s a dark side to the Galaxy Z Fold 8’s thinner and wider design](https://www.androidauthority.com/samsung-galaxy-z-fold-8-trade-offs-3689671/)
+ - [Satellite Images Reveal How Suspected Scam Compounds Appear Out of Nowhere](https://www.wired.com/story/satellite-images-reveal-how-giant-scam-compounds-keep-on-expanding/)
+ - [ChatGPT Health is rolling out widely, but Android users won’t be too happy](https://www.androidauthority.com/chatgpt-health-rollout-3691048/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
