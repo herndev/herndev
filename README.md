@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
- - ⏩ [Dancing Queen](http://9gag.com/gag/aRBYLm2)
- - 👉 [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)<!-- MEMES:END -->
+ - 💣 [Dancing Queen](http://9gag.com/gag/aRBYLm2)
+ - ⏩ [Give your cat a headpat to make her happy](http://9gag.com/gag/aVvNv7K)
+ - 👉 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)<!-- MEMES:END -->
 
 ---
 
