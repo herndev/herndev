@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clark Kent discovering his heat vision after meeting the new biology teacher](http://9gag.com/gag/axyXWEb)
- - ⏩ [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)
- - 👉 [Women wait at the finish line and f#ck the winner](http://9gag.com/gag/aLnyLQV)<!-- MEMES:END -->
+ - 💣 [No title needed](http://9gag.com/gag/an7LzRE)
+ - ⏩ [Guess i am then, but at least i didn&#39;t go full r-tard](http://9gag.com/gag/aqyqyXQ)
+ - 👉 [Just a little bit before my time.](http://9gag.com/gag/aryjWXp)<!-- MEMES:END -->
 
 ---
 
