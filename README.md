@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One ring to track them all: RingConn teams up with Lord of the Rings](https://www.androidauthority.com/ringconn-gen-3-lotr-partership-3691299/)
- - [Roku Hikes Hardware Prices by Up to 60%](https://www.cnet.com/tech/home-entertainment/roku-hardware-prices-rise-ramageddon/)
- - [OpenAI Is ‘Very Interested’ in Building Out ChatGPT Integrations for Wearables](https://www.cnet.com/tech/services-and-software/openai-is-very-interested-in-building-out-chatgpt-integrations-for-wearables/)<!-- TECH:END -->
+ - [Sources: Prentis, which develops computer use models and is co-founded by Reid Hoffman and Marc Pincus, is in talks to raise $100M at a $1B valuation &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260724/p33#a260724p33)
+ - [One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires](https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/)
+ - [After backlash, Meta pauses plan to ‘rate limit’ its smart glasses](https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
