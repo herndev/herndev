@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s a dark side to the Galaxy Z Fold 8’s thinner and wider design](https://www.androidauthority.com/samsung-galaxy-z-fold-8-trade-offs-3689671/)
- - [Satellite Images Reveal How Suspected Scam Compounds Appear Out of Nowhere](https://www.wired.com/story/satellite-images-reveal-how-giant-scam-compounds-keep-on-expanding/)
- - [ChatGPT Health is rolling out widely, but Android users won’t be too happy](https://www.androidauthority.com/chatgpt-health-rollout-3691048/)<!-- TECH:END -->
+ - [Keychron Q6 HE 8K Review: A great mechanical keyboard for work and play](https://appleinsider.com/articles/26/07/23/keychron-q6-he-8k-review-a-great-mechanical-keyboard-for-work-and-play?utm_source=rss)
+ - [Whack-a-drone](https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason)
+ - [Trusted Mac apps could possibly be swapped out for malware](https://appleinsider.com/articles/26/07/24/trusted-mac-apps-could-possibly-be-swapped-out-for-malware?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
