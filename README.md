@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No title needed](http://9gag.com/gag/an7LzRE)
- - ⏩ [Guess i am then, but at least i didn&#39;t go full r-tard](http://9gag.com/gag/aqyqyXQ)
- - 👉 [Just a little bit before my time.](http://9gag.com/gag/aryjWXp)<!-- MEMES:END -->
+ - 💣 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
+ - ⏩ [Clark Kent discovering his heat vision after meeting the new biology teacher](http://9gag.com/gag/axyXWEb)
+ - 👉 [I know what kind of man you are...I believe they can cure cancer](http://9gag.com/gag/ae9v9Nj)<!-- MEMES:END -->
 
 ---
 
