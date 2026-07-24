@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
- - ⏩ [Yes she&#39;s grandma now. But she was really cool.](http://9gag.com/gag/an7LzM0)
- - 👉 [I know what kind of man you are...I believe they can cure cancer](http://9gag.com/gag/ae9v9Nj)<!-- MEMES:END -->
+ - 💣 [Clark Kent discovering his heat vision after meeting the new biology teacher](http://9gag.com/gag/axyXWEb)
+ - ⏩ [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)
+ - 👉 [Women wait at the finish line and f#ck the winner](http://9gag.com/gag/aLnyLQV)<!-- MEMES:END -->
 
 ---
 
