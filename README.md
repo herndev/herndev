@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku’s streaming hardware is getting up to 50% more expensive](https://www.androidauthority.com/roku-price-hikes-3691262/)
- - [GrapheneOS duress PIN could land a man in prison](https://www.androidauthority.com/grapheneos-duress-pin-us-prosecution-3691271/)
- - [Trump promises investigation into EU fines on US big tech](https://appleinsider.com/articles/26/07/24/trump-promises-investigation-into-eu-fines-on-us-big-tech?utm_source=rss)<!-- TECH:END -->
+ - [One ring to track them all: RingConn teams up with Lord of the Rings](https://www.androidauthority.com/ringconn-gen-3-lotr-partership-3691299/)
+ - [Roku Hikes Hardware Prices by Up to 60%](https://www.cnet.com/tech/home-entertainment/roku-hardware-prices-rise-ramageddon/)
+ - [OpenAI Is ‘Very Interested’ in Building Out ChatGPT Integrations for Wearables](https://www.cnet.com/tech/services-and-software/openai-is-very-interested-in-building-out-chatgpt-integrations-for-wearables/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
