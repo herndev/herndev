@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to pick a phone in india](http://9gag.com/gag/aAyo0NR)
- - ⏩ [Dancing Queen](http://9gag.com/gag/aRBYLm2)
- - 👉 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)<!-- MEMES:END -->
+ - 💣 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
+ - ⏩ [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)
+ - 👉 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)<!-- MEMES:END -->
 
 ---
 
