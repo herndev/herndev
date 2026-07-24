@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is the PlayStation Network down for you? Here’s what’s going on](https://www.androidauthority.com/playstation-network-july-24-outage-3691238/)
- - [Trump says the US will initiate a probe into the EU&#39;s practice of &quot;robbing&quot; US tech giants with fines, threatening the bloc with &quot;substantial&quot; tariffs &lpar;Kevin Breuninger/CNBC&rpar;](https://www.techmeme.com/260724/p25#a260724p25)
- - [Letter: Qualcomm tells customers it plans to raise prices by double digit percentage points, after exhausting its ability to absorb higher costs from suppliers &lpar;Ian King/Bloomberg&rpar;](https://www.techmeme.com/260724/p24#a260724p24)<!-- TECH:END -->
+ - [Roku’s streaming hardware is getting up to 50% more expensive](https://www.androidauthority.com/roku-price-hikes-3691262/)
+ - [GrapheneOS duress PIN could land a man in prison](https://www.androidauthority.com/grapheneos-duress-pin-us-prosecution-3691271/)
+ - [Trump promises investigation into EU fines on US big tech](https://appleinsider.com/articles/26/07/24/trump-promises-investigation-into-eu-fines-on-us-big-tech?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
