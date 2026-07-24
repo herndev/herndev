@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Prentis, which develops computer use models and is co-founded by Reid Hoffman and Marc Pincus, is in talks to raise $100M at a $1B valuation &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260724/p33#a260724p33)
- - [One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires](https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/)
- - [After backlash, Meta pauses plan to ‘rate limit’ its smart glasses](https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses)<!-- TECH:END -->
+ - [The US, China, and other APEC economies release a statement supporting open models, while emphasizing respect for security, data protection, and IP rights &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260724/p35#a260724p35)
+ - [Sources: OpenAI&#39;s models breached Hugging Face from July 11 to 13 and OpenAI realized their models were behind the hack several days later &lpar;Reuters&rpar;](https://www.techmeme.com/260724/p34#a260724p34)
+ - [New Jersey Bans Surveillance Pricing, Puts the Brakes on Electronic Shelf Labels](https://www.cnet.com/news/privacy/new-jersey-surveillance-pricing-law-grocery-shopping/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
