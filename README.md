@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keychron Q6 HE 8K Review: A great mechanical keyboard for work and play](https://appleinsider.com/articles/26/07/23/keychron-q6-he-8k-review-a-great-mechanical-keyboard-for-work-and-play?utm_source=rss)
- - [Whack-a-drone](https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason)
- - [Trusted Mac apps could possibly be swapped out for malware](https://appleinsider.com/articles/26/07/24/trusted-mac-apps-could-possibly-be-swapped-out-for-malware?utm_source=rss)<!-- TECH:END -->
+ - [Dispatch records cut claims of major Apple Park fire damage down to size](https://appleinsider.com/articles/26/07/24/dispatch-records-cut-claims-of-major-apple-park-fire-damage-down-to-size?utm_source=rss)
+ - [Meta, Nvidia, Microsoft, a16z, and others sign a letter defending open-source AI; Jensen Huang, in his first X post, says open models strengthen cybersecurity &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260724/p13#a260724p13)
+ - [After OnePlus, Nothing could be the next brand to leave multiple global markets](https://www.androidauthority.com/nothing-market-exits-layoffs-rumor-3691156/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
