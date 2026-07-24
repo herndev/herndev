@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [District judge assigned to oversee Apple&#39;s trade secrets lawsuit against OpenAI](https://appleinsider.com/articles/26/07/24/district-judge-assigned-to-oversee-apples-trade-secrets-lawsuit-against-openai?utm_source=rss)
- - [Google says it has $811B in contracted future spending commitments as of June, up ~$500B from March, covering chips, data centers, electricity, and more &lpar;Davey Alba/Bloomberg&rpar;](https://www.techmeme.com/260723/p59#a260723p59)
- - [Ukraine ratchets up its attacks on warehouses of Russian e-commerce giant Wildberries, signaling a new phase in the war as it seeks to hamper Russia&#39;s economy &lpar;Sam Meredith/CNBC&rpar;](https://www.techmeme.com/260723/p58#a260723p58)<!-- TECH:END -->
+ - [More people can now try Gemini Spark as Google broadens access](https://www.androidauthority.com/google-gemini-spark-wider-rollout-3690952/)
+ - [Mobileye founder and CEO Amnon Shashua plans to step down after nearly three decades, as the company pushes into robotaxis and humanoid robots &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260724/p1#a260724p1)
+ - [Singapore-based Ropedia, which captures real-world human experience via video and converts it into model-ready multimodal datasets, raised a $22M pre-Series A &lpar;Kyt Dotson/SiliconANGLE&rpar;](https://www.techmeme.com/260723/p62#a260723p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
