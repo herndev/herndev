@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says MAI-Cyber-1-Flash and MDASH, its vulnerability identification harness, deliver &quot;world-class performance at 50% of the cost of leading models&quot; &lpar;Microsoft AI&rpar;](https://www.techmeme.com/260727/p25#a260727p25)
- - [This highly-rated 175W car charger is down to $19.99 at Amazon right now](https://www.androidauthority.com/joyroom-175w-car-charger-deal-3691561/)
- - [Sources: Nvidia has committed to invest $5B in Ilya Sutskever&#39;s SSI; the startup has previously raised about $3B in funding and was valued at $32B last year &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260727/p24#a260727p24)<!-- TECH:END -->
+ - [Older Macs get fresh security fixes with new macOS Sequoia &amp; Sonoma update](https://appleinsider.com/articles/26/07/27/older-macs-get-fresh-security-fixes-with-new-macos-sequoia-sonoma-update?utm_source=rss)
+ - [The US National Vulnerabilities Database recorded 45,207 software security flaws so far in 2026, on pace to roughly double the tally of flaws recorded in 2025 &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](https://www.techmeme.com/260727/p27#a260727p27)
+ - [macOS 26.6 is out, but expect minimal feature changes with macOS 27 looming](https://appleinsider.com/articles/26/07/27/macos-266-is-out-but-expect-minimal-feature-changes-with-macos-27-looming?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
