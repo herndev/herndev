@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These stretchable Linkind Matter smart bulbs are down to an unbeaten $29.99](https://www.androidauthority.com/linkind-matter-br30-smart-light-bulbs-deal-3691505/)
- - [NBCU and YouTube reach a multiyear deal to include all Peacock content in YouTube Premium subscriptions in the US starting in early 2027 &lpar;Lillian Rizzo/CNBC&rpar;](https://www.techmeme.com/260727/p17#a260727p17)
- - [Xbox games not playing for you? Here’s what’s going on](https://www.androidauthority.com/xbox-outage-3691498/)<!-- TECH:END -->
+ - [Microsoft says MAI-Cyber-1-Flash and MDASH, its vulnerability identification harness, deliver &quot;world-class performance at 50% of the cost of leading models&quot; &lpar;Microsoft AI&rpar;](https://www.techmeme.com/260727/p25#a260727p25)
+ - [This highly-rated 175W car charger is down to $19.99 at Amazon right now](https://www.androidauthority.com/joyroom-175w-car-charger-deal-3691561/)
+ - [Sources: Nvidia has committed to invest $5B in Ilya Sutskever&#39;s SSI; the startup has previously raised about $3B in funding and was valued at $32B last year &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260727/p24#a260727p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
