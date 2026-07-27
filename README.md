@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The IRA is back?](http://9gag.com/gag/aQz07oK)
- - ⏩ [Scary](http://9gag.com/gag/aZZGw4X)
- - 👉 [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)<!-- MEMES:END -->
+ - 💣 [You want this Horcruxe harry ?](http://9gag.com/gag/aXP5NG6)
+ - ⏩ [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)
+ - 👉 [Expensive way to watch a clock tick](http://9gag.com/gag/agmP84w)<!-- MEMES:END -->
 
 ---
 
