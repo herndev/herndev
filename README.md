@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Older Macs get fresh security fixes with new macOS Sequoia &amp; Sonoma update](https://appleinsider.com/articles/26/07/27/older-macs-get-fresh-security-fixes-with-new-macos-sequoia-sonoma-update?utm_source=rss)
- - [The US National Vulnerabilities Database recorded 45,207 software security flaws so far in 2026, on pace to roughly double the tally of flaws recorded in 2025 &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](https://www.techmeme.com/260727/p27#a260727p27)
- - [macOS 26.6 is out, but expect minimal feature changes with macOS 27 looming](https://appleinsider.com/articles/26/07/27/macos-266-is-out-but-expect-minimal-feature-changes-with-macos-27-looming?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft Says Its New Cybersecurity AI Beats Industry Leaders at Half the Cost](https://www.cnet.com/tech/services-and-software/microsoft-says-its-new-cybersecurity-ai-beats-industry-leaders-at-half-the-cost/)
+ - [DHS Official Resigns, Citing ‘War on Immigrants’](https://www.wired.com/story/dhs-official-resigns-citing-war-on-immigrants/)
+ - [Don&#39;t wait to update: iOS 26.6 includes more than 75 security fixes](https://appleinsider.com/articles/26/07/27/dont-wait-to-update-ios-266-includes-more-than-75-security-fixes?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
