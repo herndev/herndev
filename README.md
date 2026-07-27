@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zeus approves this message](http://9gag.com/gag/an7LvX5)
- - ⏩ [Protesters demand to know why 7 grocery stores suddenly close in Chicago](http://9gag.com/gag/aBy7LRP)
- - 👉 [Scary](http://9gag.com/gag/aZZGw4X)<!-- MEMES:END -->
+ - 💣 [I&#39;ll have 2](http://9gag.com/gag/a87BmE1)
+ - ⏩ [Dead, killed by police in Berlin](http://9gag.com/gag/ajPoLb8)
+ - 👉 [You want this Horcruxe harry ?](http://9gag.com/gag/aXP5NG6)<!-- MEMES:END -->
 
 ---
 
