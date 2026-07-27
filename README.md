@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US, China, and other APEC economies release a statement supporting open models, while emphasizing respect for security, data protection, and IP rights &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260724/p35#a260724p35)
- - [Sources: OpenAI&#39;s models breached Hugging Face from July 11 to 13 and OpenAI realized their models were behind the hack several days later &lpar;Reuters&rpar;](https://www.techmeme.com/260724/p34#a260724p34)
- - [New Jersey Bans Surveillance Pricing, Puts the Brakes on Electronic Shelf Labels](https://www.cnet.com/news/privacy/new-jersey-surveillance-pricing-law-grocery-shopping/)<!-- TECH:END -->
+ - [Dealroom: defense giants such as Lockheed Martin have participated in a record $4.1B worth of VC rounds YTD, as drones and autonomous systems transform warfare &lpar;Financial Times&rpar;](https://www.techmeme.com/260726/p11#a260726p11)
+ - [Sources: Nvidia is in talks to provide a ~$250B backstop for OpenAI as part of a 10 GW data center project that SoftBank is developing in Ohio &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260726/p10#a260726p10)
+ - [How AI companies are targeting the education market, including making free or cut-price tailored learning tools in partnership with schools and edtech startups &lpar;Jamie John/Financial Times&rpar;](https://www.techmeme.com/260726/p9#a260726p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
