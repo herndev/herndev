@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yo that&#39;s antisemitic !](http://9gag.com/gag/ayNO63Y)
- - ⏩ [Dead, killed by police in Berlin](http://9gag.com/gag/ajPoLb8)
- - 👉 [Scary](http://9gag.com/gag/aZZGw4X)<!-- MEMES:END -->
+ - 💣 [The IRA is back?](http://9gag.com/gag/aQz07oK)
+ - ⏩ [Scary](http://9gag.com/gag/aZZGw4X)
+ - 👉 [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)<!-- MEMES:END -->
 
 ---
 
