@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You want this Horcruxe harry ?](http://9gag.com/gag/aXP5NG6)
- - ⏩ [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)
- - 👉 [Expensive way to watch a clock tick](http://9gag.com/gag/agmP84w)<!-- MEMES:END -->
+ - 💣 [Mass shooting in Seattle](http://9gag.com/gag/aqyqQ8v)
+ - ⏩ [Dead, killed by police in Berlin](http://9gag.com/gag/ajPoLb8)
+ - 👉 [Naise](http://9gag.com/gag/aAyo4Y0)<!-- MEMES:END -->
 
 ---
 
