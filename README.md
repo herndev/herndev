@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Says Its New Cybersecurity AI Beats Industry Leaders at Half the Cost](https://www.cnet.com/tech/services-and-software/microsoft-says-its-new-cybersecurity-ai-beats-industry-leaders-at-half-the-cost/)
- - [DHS Official Resigns, Citing ‘War on Immigrants’](https://www.wired.com/story/dhs-official-resigns-citing-war-on-immigrants/)
- - [Don&#39;t wait to update: iOS 26.6 includes more than 75 security fixes](https://appleinsider.com/articles/26/07/27/dont-wait-to-update-ios-266-includes-more-than-75-security-fixes?utm_source=rss)<!-- TECH:END -->
+ - [Cadence reports Q2 revenue up 24.2% YoY to $1.58B and raises its annual revenue forecast to between $6.26B and $6.34B vs. $6.21B est.; CDNS up 4%+ after hours &lpar;Reuters&rpar;](https://www.techmeme.com/260727/p31#a260727p31)
+ - [It’s not just you: There’s a major outage impacting T-Mobile, Verizon, and AT&amp;T](https://www.androidauthority.com/t-mobile-cellular-outage-3691641/)
+ - [A federal judge issues a preliminary injunction blocking Minnesota from enforcing a newly enacted law that banned prediction markets like Kalshi and Polymarket &lpar;Nate Raymond/Reuters&rpar;](https://www.techmeme.com/260727/p30#a260727p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
