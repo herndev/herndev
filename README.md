@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dealroom: defense giants such as Lockheed Martin have participated in a record $4.1B worth of VC rounds YTD, as drones and autonomous systems transform warfare &lpar;Financial Times&rpar;](https://www.techmeme.com/260726/p11#a260726p11)
- - [Sources: Nvidia is in talks to provide a ~$250B backstop for OpenAI as part of a 10 GW data center project that SoftBank is developing in Ohio &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260726/p10#a260726p10)
- - [How AI companies are targeting the education market, including making free or cut-price tailored learning tools in partnership with schools and edtech startups &lpar;Jamie John/Financial Times&rpar;](https://www.techmeme.com/260726/p9#a260726p9)<!-- TECH:END -->
+ - [A detailed recap of the Hugging Face breach by an internal OpenAI model, which repeatedly tried to escape OpenAI&#39;s sandbox and should be treated as critical &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](https://www.techmeme.com/260727/p2#a260727p2)
+ - [Samsung’s flagship lineup may grow to 8 phones a year with the Galaxy Z TriFold 2](https://www.androidauthority.com/samsung-galaxy-z-trifold-2-launch-plans-3691329/)
+ - [US tech giants have shifted their stance to publicly backing open AI models, with Anthropic and Amazon remaining notable holdouts alongside the US government &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260727/p1#a260727p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
