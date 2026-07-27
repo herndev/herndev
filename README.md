@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia launches the Open Secure AI Alliance, a coalition with Hugging Face and others to develop and share tools for AI safety and cybersecurity &lpar;Jaspreet Singh/Reuters&rpar;](https://www.techmeme.com/260727/p9#a260727p9)
- - [The best PS2 emulator on Android just gained LAN play support](https://www.androidauthority.com/armsx2-ps2-emulator-android-system-link-3691396/)
- - [It’s not just you: Google Maps traffic lines have disappeared for many users](https://www.androidauthority.com/google-maps-traffic-lines-bug-3691411/)<!-- TECH:END -->
+ - [These stretchable Linkind Matter smart bulbs are down to an unbeaten $29.99](https://www.androidauthority.com/linkind-matter-br30-smart-light-bulbs-deal-3691505/)
+ - [NBCU and YouTube reach a multiyear deal to include all Peacock content in YouTube Premium subscriptions in the US starting in early 2027 &lpar;Lillian Rizzo/CNBC&rpar;](https://www.techmeme.com/260727/p17#a260727p17)
+ - [Xbox games not playing for you? Here’s what’s going on](https://www.androidauthority.com/xbox-outage-3691498/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
