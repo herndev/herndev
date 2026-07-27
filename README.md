@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
- - ⏩ [Clark Kent discovering his heat vision after meeting the new biology teacher](http://9gag.com/gag/axyXWEb)
- - 👉 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)<!-- MEMES:END -->
+ - 💣 [Zeus approves this message](http://9gag.com/gag/an7LvX5)
+ - ⏩ [Protesters demand to know why 7 grocery stores suddenly close in Chicago](http://9gag.com/gag/aBy7LRP)
+ - 👉 [Scary](http://9gag.com/gag/aZZGw4X)<!-- MEMES:END -->
 
 ---
 
