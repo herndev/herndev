@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;ll have 2](http://9gag.com/gag/a87BmE1)
+ - 💣 [Yo that&#39;s antisemitic !](http://9gag.com/gag/ayNO63Y)
  - ⏩ [Dead, killed by police in Berlin](http://9gag.com/gag/ajPoLb8)
- - 👉 [You want this Horcruxe harry ?](http://9gag.com/gag/aXP5NG6)<!-- MEMES:END -->
+ - 👉 [Scary](http://9gag.com/gag/aZZGw4X)<!-- MEMES:END -->
 
 ---
 
