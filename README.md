@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A detailed recap of the Hugging Face breach by an internal OpenAI model, which repeatedly tried to escape OpenAI&#39;s sandbox and should be treated as critical &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](https://www.techmeme.com/260727/p2#a260727p2)
- - [Samsung’s flagship lineup may grow to 8 phones a year with the Galaxy Z TriFold 2](https://www.androidauthority.com/samsung-galaxy-z-trifold-2-launch-plans-3691329/)
- - [US tech giants have shifted their stance to publicly backing open AI models, with Anthropic and Amazon remaining notable holdouts alongside the US government &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260727/p1#a260727p1)<!-- TECH:END -->
+ - [OnePlus 16 design leak reveals what to expect from first flagship after US exit](https://www.androidauthority.com/oneplus-16-design-leak-3691366/)
+ - [I hated using the Galaxy Z Fold 7 for one reason, and the Fold 8 Ultra quietly fixed it](https://www.androidauthority.com/galaxy-z-fold-8-ultra-easier-open-fixes-fold-7-issue-3690475/)
+ - [Soundcore Nebula P1i Projector Review: New Design, Classic Pitfalls](https://www.wired.com/review/soundcore-nebula-p1i-projector/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
