@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So scary!](http://9gag.com/gag/aND6Vpv)
- - ⏩ [Who&#39;s gonna tell him](http://9gag.com/gag/awy6LzD)
- - 👉 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)<!-- MEMES:END -->
+ - 💣 [Amazingly Strong](http://9gag.com/gag/agmP47W)
+ - ⏩ [Side chick is knocking on door too](http://9gag.com/gag/ae9vZ7j)
+ - 👉 [Peak men entertainment](http://9gag.com/gag/aGyWMD5)<!-- MEMES:END -->
 
 ---
 
