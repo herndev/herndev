@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 16 design leak reveals what to expect from first flagship after US exit](https://www.androidauthority.com/oneplus-16-design-leak-3691366/)
- - [I hated using the Galaxy Z Fold 7 for one reason, and the Fold 8 Ultra quietly fixed it](https://www.androidauthority.com/galaxy-z-fold-8-ultra-easier-open-fixes-fold-7-issue-3690475/)
- - [Soundcore Nebula P1i Projector Review: New Design, Classic Pitfalls](https://www.wired.com/review/soundcore-nebula-p1i-projector/)<!-- TECH:END -->
+ - [Nvidia launches the Open Secure AI Alliance, a coalition with Hugging Face and others to develop and share tools for AI safety and cybersecurity &lpar;Jaspreet Singh/Reuters&rpar;](https://www.techmeme.com/260727/p9#a260727p9)
+ - [The best PS2 emulator on Android just gained LAN play support](https://www.androidauthority.com/armsx2-ps2-emulator-android-system-link-3691396/)
+ - [It’s not just you: Google Maps traffic lines have disappeared for many users](https://www.androidauthority.com/google-maps-traffic-lines-bug-3691411/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
