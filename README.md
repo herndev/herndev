@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The IRA is back?](http://9gag.com/gag/aQz07oK)
- - ⏩ [She&#39;s goated for doing this for bro](http://9gag.com/gag/aAyo2Kd)
- - 👉 [Mass shooting in Seattle](http://9gag.com/gag/aqyqQ8v)<!-- MEMES:END -->
+ - 💣 [So scary!](http://9gag.com/gag/aND6Vpv)
+ - ⏩ [Who&#39;s gonna tell him](http://9gag.com/gag/awy6LzD)
+ - 👉 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)<!-- MEMES:END -->
 
 ---
 
