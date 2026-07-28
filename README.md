@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)
- - ⏩ [Yo that&#39;s antisemitic !](http://9gag.com/gag/ayNO63Y)
- - 👉 [The IRA is back?](http://9gag.com/gag/aQz07oK)<!-- MEMES:END -->
+ - 💣 [It&#39;s genetics](http://9gag.com/gag/ayNO6Gp)
+ - ⏩ [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)
+ - 👉 [He be testin\u2019](http://9gag.com/gag/aD2EXAK)<!-- MEMES:END -->
 
 ---
 
