@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Got a lot of Apple hardware? Here&#39;s how an Apple Ring can bind them all](https://appleinsider.com/articles/26/07/28/got-a-lot-of-apple-hardware-heres-how-an-apple-ring-can-bind-them-all?utm_source=rss)
- - [Tel Aviv-based Hush Security, which lets organizations securely control enterprise AI agents, raised a $30M Series A, bringing its total funding to $41M &lpar;Ionut Arghire/SecurityWeek&rpar;](https://www.techmeme.com/260728/p33#a260728p33)
- - [Ahead of earnings, Goldman Sachs hikes AAPL target to $370](https://appleinsider.com/articles/26/07/28/ahead-of-earnings-goldman-sachs-hikes-aapl-target-to-370?utm_source=rss)<!-- TECH:END -->
+ - [Google finally lets Find Hub users delete their old devices](https://www.androidauthority.com/google-find-hub-remove-device-3692086/)
+ - [Apple won’t turn on any ‘restricted mode’ for missed lease payments](https://www.theverge.com/tech/972063/apple-upgrade-program-no-restricted-mode)
+ - [Q&amp;A with Sam Altman on the Hugging Face breach, the race for compute, distillation, open source, concentration of power, robotics, OpenAI&#39;s future, and more &lpar;Invest Like The Best on YouTube&rpar;](https://www.techmeme.com/260728/p38#a260728p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
