@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases updates for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS with a huge number of security fixes; macOS Tahoe 26.6 alone addresses 155 CVEs &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260727/p34#a260727p34)
- - [Rivian Sues US Government for Tariff Refund](https://www.cnet.com/home/electric-vehicles/rivian-sues-us-government-for-tariff-refund/)
- - [Apple Delays Smart Glasses Launch Over Privacy Issues, Report Says](https://www.cnet.com/tech/services-and-software/apple-delays-smart-glasses-launch-over-privacy-issues-report-says/)<!-- TECH:END -->
+ - [Today’s NYT Connections Hints and Answers for July 28, #1143](https://www.cnet.com/news/todays-nyt-connections-hints-and-answers-for-july-28-1143/)
+ - [Today’s NYT Strands Hints, Answers and Help for July 28 #877](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-28-877/)
+ - [Several digital-asset treasury firms have pivoted to AI amid a slump in crypto prices, but their poor stock performance suggests the strategy is not working &lpar;Monique Mulima/Bloomberg&rpar;](https://www.techmeme.com/260727/p35#a260727p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
