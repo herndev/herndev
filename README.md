@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great, now neither of us is getting any sleep](http://9gag.com/gag/a9y92YD)
- - ⏩ [It&#39;s genetics](http://9gag.com/gag/ayNO6Gp)
- - 👉 [Absolute EPIC !](http://9gag.com/gag/aW4wb7x)<!-- MEMES:END -->
+ - 💣 [Hott](http://9gag.com/gag/aD2EVrZ)
+ - ⏩ [I know this dude... He is me](http://9gag.com/gag/aRBYoXQ)
+ - 👉 [Old ideas . . . still relevant today.](http://9gag.com/gag/ae9vVQp)<!-- MEMES:END -->
 
 ---
 
