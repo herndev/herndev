@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today’s NYT Connections Hints and Answers for July 28, #1143](https://www.cnet.com/news/todays-nyt-connections-hints-and-answers-for-july-28-1143/)
- - [Today’s NYT Strands Hints, Answers and Help for July 28 #877](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-28-877/)
- - [Several digital-asset treasury firms have pivoted to AI amid a slump in crypto prices, but their poor stock performance suggests the strategy is not working &lpar;Monique Mulima/Bloomberg&rpar;](https://www.techmeme.com/260727/p35#a260727p35)<!-- TECH:END -->
+ - [Cursor introduces Cursor Start, a ~$7 monthly subscription exclusive to India, its third-largest market, priced below its standard $20 Pro monthly subscription &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260728/p2#a260728p2)
+ - [How Chinese platforms like ActID and New Claw are paying people to license their likeness for AI-generated dramas and ads, often using vague licensing terms &lpar;Rest of World&rpar;](https://www.techmeme.com/260728/p1#a260728p1)
+ - [YouTube Premium’s Peacock perk has me worried about what’s next](https://www.androidauthority.com/youtube-premium-peacock-price-hike-worry-3691663/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
