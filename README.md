@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s genetics](http://9gag.com/gag/ayNO6Gp)
- - ⏩ [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)
- - 👉 [He be testin\u2019](http://9gag.com/gag/aD2EXAK)<!-- MEMES:END -->
+ - 💣 [He be testin\u2019](http://9gag.com/gag/aD2EXAK)
+ - ⏩ [Absolute EPIC !](http://9gag.com/gag/aW4wb7x)
+ - 👉 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)<!-- MEMES:END -->
 
 ---
 
