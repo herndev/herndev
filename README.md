@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cursor introduces Cursor Start, a ~$7 monthly subscription exclusive to India, its third-largest market, priced below its standard $20 Pro monthly subscription &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260728/p2#a260728p2)
- - [How Chinese platforms like ActID and New Claw are paying people to license their likeness for AI-generated dramas and ads, often using vague licensing terms &lpar;Rest of World&rpar;](https://www.techmeme.com/260728/p1#a260728p1)
- - [YouTube Premium’s Peacock perk has me worried about what’s next](https://www.androidauthority.com/youtube-premium-peacock-price-hike-worry-3691663/)<!-- TECH:END -->
+ - [Gemini app’s latest UI change makes it easier to set up thinking levels, control notifications](https://www.androidauthority.com/gemini-app-ui-thinking-level-notification-control-3691833/)
+ - [A profile of Justin Sun, who made his fortune in the early phases of crypto, advised for Trump family&#39;s WLF, then sued WLF alleging fraud and breach of contract &lpar;Jen Wieczner/New York Magazine&rpar;](https://www.techmeme.com/260728/p3#a260728p3)
+ - [Hugging Face Has a Deepfake Nudes Problem](https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
