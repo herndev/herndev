@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google finally lets Find Hub users delete their old devices](https://www.androidauthority.com/google-find-hub-remove-device-3692086/)
- - [Apple won’t turn on any ‘restricted mode’ for missed lease payments](https://www.theverge.com/tech/972063/apple-upgrade-program-no-restricted-mode)
- - [Q&amp;A with Sam Altman on the Hugging Face breach, the race for compute, distillation, open source, concentration of power, robotics, OpenAI&#39;s future, and more &lpar;Invest Like The Best on YouTube&rpar;](https://www.techmeme.com/260728/p38#a260728p38)<!-- TECH:END -->
+ - [Google steps up its warnings about the end of this Messages feature](https://www.androidauthority.com/google-messages-qr-web-3692106/)
+ - [Today’s Wordle Hints, Answer and Help for July 29, #1866](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-29-1866/)
+ - [No major reset is coming as John Ternus prepares to take over Apple](https://appleinsider.com/articles/26/07/28/no-major-reset-is-coming-as-john-ternus-prepares-to-take-over-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
