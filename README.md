@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI and Anthropic release statements in support of the &quot;Pacing the Frontier&quot; initiative; Anthropic says Dario Amodei and several co-founders have signed it &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260728/p47#a260728p47)
- - [The US is banning foreign robots](https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban)
- - [NXP reports Q2 revenue up 19% YoY to $3.5B, vs. $3.46B est., as it struggled to impress investors with a generally upbeat Q3 forecast; NXPI down 5%+ after hours &lpar;Christina Kyriasoglou/Bloomberg&rpar;](https://www.techmeme.com/260728/p46#a260728p46)<!-- TECH:END -->
+ - [Security- and AI-related startups have raised $855M across more than 150 reported seed-stage rounds this year, on track for an all-time high &lpar;Joanna Glasner/Crunchbase News&rpar;](https://www.techmeme.com/260728/p48#a260728p48)
+ - [A Typo Landed an Innocent Gamer in Prison for 18 Months](https://www.wired.com/story/a-typo-landed-an-innocent-gamer-in-prison-for-18-months/)
+ - [A New Smart Ring Uses Finger Sweat to Track Health](https://www.cnet.com/tech/mobile/new-smart-ring-uses-finger-sweat-track-health/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
