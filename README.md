@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Absolute EPIC !](http://9gag.com/gag/aW4wb7x)
- - ⏩ [The IRA is back?](http://9gag.com/gag/aQz07oK)
- - 👉 [So scary!](http://9gag.com/gag/aND6Vpv)<!-- MEMES:END -->
+ - 💣 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)
+ - ⏩ [Yo that&#39;s antisemitic !](http://9gag.com/gag/ayNO63Y)
+ - 👉 [The IRA is back?](http://9gag.com/gag/aQz07oK)<!-- MEMES:END -->
 
 ---
 
