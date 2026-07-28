@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Who&#39;s gonna tell him](http://9gag.com/gag/awy6LzD)
- - ⏩ [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)
- - 👉 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)<!-- MEMES:END -->
+ - ⏩ [Stop bullying](http://9gag.com/gag/an7LDGB)
+ - 👉 [Unexpected](http://9gag.com/gag/aGyW2nZ)<!-- MEMES:END -->
 
 ---
 
