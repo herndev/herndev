@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hott](http://9gag.com/gag/aD2EVrZ)
- - ⏩ [I know this dude... He is me](http://9gag.com/gag/aRBYoXQ)
- - 👉 [Old ideas . . . still relevant today.](http://9gag.com/gag/ae9vVQp)<!-- MEMES:END -->
+ - 💣 [Stop bullying](http://9gag.com/gag/an7LDGB)
+ - ⏩ [This is what a cult looks like](http://9gag.com/gag/apRWb8D)
+ - 👉 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)<!-- MEMES:END -->
 
 ---
 
