@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu begins testing its purpose-built Apollo Go RT6 robotaxis with human safety operators in outer London; Baidu plans to deploy the taxis on Lyft&#39;s Freenow &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260728/p8#a260728p8)
- - [LSEG data: prices for credit default swaps, a closely watched gauge of risk, tied to Oracle, SpaceX, Alphabet, Nvidia, and others rise sharply to record highs &lpar;Financial Times&rpar;](https://www.techmeme.com/260728/p7#a260728p7)
- - [Now that OnePlus is dead in the US, there’s another Android brand I’m worried about](https://www.androidauthority.com/oneplus-dead-us-now-worried-about-nothing-3690861/)<!-- TECH:END -->
+ - [Apple launches Apple Upgrade, a new US leasing program in partnership with Klarna that replaces the iPhone Upgrade Program, starting at $17.99/month for iPhones &lpar;Juli Clover/MacRumors&rpar;](https://www.techmeme.com/260728/p15#a260728p15)
+ - [Apple Upgrade goes live as a new installment plan for iPhone, iPad, Mac, &amp; Apple Watch](https://appleinsider.com/articles/26/07/28/apple-upgrade-goes-live-as-a-new-installment-plan-for-iphone-ipad-mac-apple-watch?utm_source=rss)
+ - [OLED MacBook Pro will get displays exclusively from Samsung](https://appleinsider.com/articles/26/07/28/oled-macbook-pro-will-get-displays-exclusively-from-samsung?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
