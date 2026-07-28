@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches Apple Upgrade, a new US leasing program in partnership with Klarna that replaces the iPhone Upgrade Program, starting at $17.99/month for iPhones &lpar;Juli Clover/MacRumors&rpar;](https://www.techmeme.com/260728/p15#a260728p15)
- - [Apple Upgrade goes live as a new installment plan for iPhone, iPad, Mac, &amp; Apple Watch](https://appleinsider.com/articles/26/07/28/apple-upgrade-goes-live-as-a-new-installment-plan-for-iphone-ipad-mac-apple-watch?utm_source=rss)
- - [OLED MacBook Pro will get displays exclusively from Samsung](https://appleinsider.com/articles/26/07/28/oled-macbook-pro-will-get-displays-exclusively-from-samsung?utm_source=rss)<!-- TECH:END -->
+ - [Google Play Store could soon make app search easier for millions of users](https://www.androidauthority.com/google-play-store-voice-search-multilingual-apk-teardown-3692006/)
+ - [GrubMarket, which connects wholesalers and distributors to grocers and other food buyers, confidentially files for a US IPO; it was valued at $4.5B in February &lpar;Arasu Kannagi Basil/Reuters&rpar;](https://www.techmeme.com/260728/p25#a260728p25)
+ - [Apple&#39;s smart home hardware refresh draws closer with Siri AI smarts](https://appleinsider.com/articles/26/07/28/apples-smart-home-hardware-refresh-draws-closer-with-siri-ai-smarts?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
