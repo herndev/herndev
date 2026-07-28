@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amazingly Strong](http://9gag.com/gag/agmP47W)
- - ⏩ [Side chick is knocking on door too](http://9gag.com/gag/ae9vZ7j)
- - 👉 [Peak men entertainment](http://9gag.com/gag/aGyWMD5)<!-- MEMES:END -->
+ - 💣 [Absolute EPIC !](http://9gag.com/gag/aW4wb7x)
+ - ⏩ [The IRA is back?](http://9gag.com/gag/aQz07oK)
+ - 👉 [So scary!](http://9gag.com/gag/aND6Vpv)<!-- MEMES:END -->
 
 ---
 
