@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google steps up its warnings about the end of this Messages feature](https://www.androidauthority.com/google-messages-qr-web-3692106/)
- - [Today’s Wordle Hints, Answer and Help for July 29, #1866](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-29-1866/)
- - [No major reset is coming as John Ternus prepares to take over Apple](https://appleinsider.com/articles/26/07/28/no-major-reset-is-coming-as-john-ternus-prepares-to-take-over-apple?utm_source=rss)<!-- TECH:END -->
+ - [Ariana Grande is suing the hackers who&amp;#8217;ve been leaking her songs and videos for years](https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit)
+ - [Samsung’s new foldables are borrowing this Galaxy S26 USB trick](https://www.androidauthority.com/samsung-foldables-usb-webcam-3692140/)
+ - [Sources: the OpenAI agent that breached Hugging Face also compromised a customer at AI infrastructure company Modal Labs &lpar;Reuters&rpar;](https://www.techmeme.com/260728/p45#a260728p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
