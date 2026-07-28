@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini app’s latest UI change makes it easier to set up thinking levels, control notifications](https://www.androidauthority.com/gemini-app-ui-thinking-level-notification-control-3691833/)
- - [A profile of Justin Sun, who made his fortune in the early phases of crypto, advised for Trump family&#39;s WLF, then sued WLF alleging fraud and breach of contract &lpar;Jen Wieczner/New York Magazine&rpar;](https://www.techmeme.com/260728/p3#a260728p3)
- - [Hugging Face Has a Deepfake Nudes Problem](https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/)<!-- TECH:END -->
+ - [Baidu begins testing its purpose-built Apollo Go RT6 robotaxis with human safety operators in outer London; Baidu plans to deploy the taxis on Lyft&#39;s Freenow &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260728/p8#a260728p8)
+ - [LSEG data: prices for credit default swaps, a closely watched gauge of risk, tied to Oracle, SpaceX, Alphabet, Nvidia, and others rise sharply to record highs &lpar;Financial Times&rpar;](https://www.techmeme.com/260728/p7#a260728p7)
+ - [Now that OnePlus is dead in the US, there’s another Android brand I’m worried about](https://www.androidauthority.com/oneplus-dead-us-now-worried-about-nothing-3690861/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
