@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He be testin\u2019](http://9gag.com/gag/aD2EXAK)
- - ⏩ [Absolute EPIC !](http://9gag.com/gag/aW4wb7x)
- - 👉 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)<!-- MEMES:END -->
+ - 💣 [Great, now neither of us is getting any sleep](http://9gag.com/gag/a9y92YD)
+ - ⏩ [It&#39;s genetics](http://9gag.com/gag/ayNO6Gp)
+ - 👉 [Absolute EPIC !](http://9gag.com/gag/aW4wb7x)<!-- MEMES:END -->
 
 ---
 
