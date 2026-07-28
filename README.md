@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ariana Grande is suing the hackers who&amp;#8217;ve been leaking her songs and videos for years](https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit)
- - [Samsung’s new foldables are borrowing this Galaxy S26 USB trick](https://www.androidauthority.com/samsung-foldables-usb-webcam-3692140/)
- - [Sources: the OpenAI agent that breached Hugging Face also compromised a customer at AI infrastructure company Modal Labs &lpar;Reuters&rpar;](https://www.techmeme.com/260728/p45#a260728p45)<!-- TECH:END -->
+ - [OpenAI and Anthropic release statements in support of the &quot;Pacing the Frontier&quot; initiative; Anthropic says Dario Amodei and several co-founders have signed it &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260728/p47#a260728p47)
+ - [The US is banning foreign robots](https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban)
+ - [NXP reports Q2 revenue up 19% YoY to $3.5B, vs. $3.46B est., as it struggled to impress investors with a generally upbeat Q3 forecast; NXPI down 5%+ after hours &lpar;Christina Kyriasoglou/Bloomberg&rpar;](https://www.techmeme.com/260728/p46#a260728p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
