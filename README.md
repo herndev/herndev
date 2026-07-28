@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Store could soon make app search easier for millions of users](https://www.androidauthority.com/google-play-store-voice-search-multilingual-apk-teardown-3692006/)
- - [GrubMarket, which connects wholesalers and distributors to grocers and other food buyers, confidentially files for a US IPO; it was valued at $4.5B in February &lpar;Arasu Kannagi Basil/Reuters&rpar;](https://www.techmeme.com/260728/p25#a260728p25)
- - [Apple&#39;s smart home hardware refresh draws closer with Siri AI smarts](https://appleinsider.com/articles/26/07/28/apples-smart-home-hardware-refresh-draws-closer-with-siri-ai-smarts?utm_source=rss)<!-- TECH:END -->
+ - [Got a lot of Apple hardware? Here&#39;s how an Apple Ring can bind them all](https://appleinsider.com/articles/26/07/28/got-a-lot-of-apple-hardware-heres-how-an-apple-ring-can-bind-them-all?utm_source=rss)
+ - [Tel Aviv-based Hush Security, which lets organizations securely control enterprise AI agents, raised a $30M Series A, bringing its total funding to $41M &lpar;Ionut Arghire/SecurityWeek&rpar;](https://www.techmeme.com/260728/p33#a260728p33)
+ - [Ahead of earnings, Goldman Sachs hikes AAPL target to $370](https://appleinsider.com/articles/26/07/28/ahead-of-earnings-goldman-sachs-hikes-aapl-target-to-370?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
