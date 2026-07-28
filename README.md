@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Absolute EPIC !](http://9gag.com/gag/aW4wb7x)
- - ⏩ [Unexpected](http://9gag.com/gag/aGyW2nZ)
- - 👉 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)<!-- MEMES:END -->
+ - 💣 [Unexpected](http://9gag.com/gag/aGyW2nZ)
+ - ⏩ [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)
+ - 👉 [This is what a cult looks like](http://9gag.com/gag/apRWb8D)<!-- MEMES:END -->
 
 ---
 
