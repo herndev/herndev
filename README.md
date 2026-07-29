@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: the European Commission plans to designate OpenAI&#39;s ChatGPT and Roblox as &quot;very large online platforms&quot; under the DSA as soon as August &lpar;Bloomberg&rpar;](https://www.techmeme.com/260729/p45#a260729p45)
- - [Planets, Meteors and an Eclipse: August Is Going to Be a Big Month for Skygazing](https://www.cnet.com/science/planet-parade-meteors-eclipse-august-skygazing/)
- - [Microsoft confirms Copilot ‘super app’ coming this year](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed)<!-- TECH:END -->
+ - [In an internal meeting, OpenAI finance chief Sarah Friar told employees that the company&#39;s annualized recurring revenue in July was higher than in Q2 as a whole &lpar;CNBC&rpar;](https://www.techmeme.com/260729/p47#a260729p47)
+ - [Instagram and Facebook Ads for AI ‘Nudify’ Apps Tied to Meta Ad Partner in China](https://www.cnet.com/news/social-media/meta-chinese-ad-partner-tied-nudify-ads/)
+ - [Source and docs: Intel has given access to its Atom processor tech to Rosaic, a new startup led by Amarjit Gill; Lip-Bu Tan and Gill are longtime co-investors &lpar;Reuters&rpar;](https://www.techmeme.com/260729/p46#a260729p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
