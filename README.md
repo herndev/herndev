@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)
- - ⏩ [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)
- - 👉 [Katy Perry&#39;s fans deliberately ruins her concert entry by carrying her away the wrong direction](http://9gag.com/gag/aE0LOgG)<!-- MEMES:END -->
+ - 💣 [Property owner puts up gate to stop trespassers](http://9gag.com/gag/a5Q8qPV)
+ - ⏩ [Who&#39;s gonna tell him](http://9gag.com/gag/awy6LzD)
+ - 👉 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)<!-- MEMES:END -->
 
 ---
 
