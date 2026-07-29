@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not sure if this is sped up, but if not, it&#39;d have been better if he had just walked instead.](https://www.reddit.com/r/funny/comments/1v9yn3x/not_sure_if_this_is_sped_up_but_if_not_itd_have/)
- - ⏩ [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
+ - 💣 [Middle-aged white women will do anything except a normal workout](http://9gag.com/gag/aD2EXy9)
+ - ⏩ [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)
  - 👉 [Just NY things](http://9gag.com/gag/aqyqzov)<!-- MEMES:END -->
 
 ---
