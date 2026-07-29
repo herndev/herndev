@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 29&rpar;](https://www.androidauthority.com/wallpaper-wednesday-july-29-2026-3692567/)
- - [Scientists built a smart ring that analyzes sweat to measure blood glucose and more](https://www.androidauthority.com/smart-ring-sweat-3692606/)
- - [xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law](https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit)<!-- TECH:END -->
+ - [Source: the European Commission plans to designate OpenAI&#39;s ChatGPT and Roblox as &quot;very large online platforms&quot; under the DSA as soon as August &lpar;Bloomberg&rpar;](https://www.techmeme.com/260729/p45#a260729p45)
+ - [Planets, Meteors and an Eclipse: August Is Going to Be a Big Month for Skygazing](https://www.cnet.com/science/planet-parade-meteors-eclipse-august-skygazing/)
+ - [Microsoft confirms Copilot ‘super app’ coming this year](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
