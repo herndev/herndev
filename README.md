@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon takes 33% off the Aurzen Boom Air for easy movie nights anywhere](https://www.androidauthority.com/aurzen-boom-air-projector-deal-3692530/)
- - [OpenAI launches ChatGPT for Academic Researchers, giving 100K scientists, mathematicians, and engineers free access to its frontier models through 2027 &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260729/p31#a260729p31)
- - [UK is asking for &#39;highly intrusive&#39; controls over App Store, says Apple](https://appleinsider.com/articles/26/07/29/uk-is-asking-for-highly-intrusive-controls-over-app-store-says-apple?utm_source=rss)<!-- TECH:END -->
+ - [Today’s Wordle Hints, Answer and Help for July 30, #1867](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-30-1867/)
+ - [Today’s NYT Connections Hints and Answers for July 30, #1145](https://www.cnet.com/news/todays-nyt-connections-hints-and-answers-for-july-30-1145/)
+ - [Waymo gradually resumes freeway routes, starting with Phoenix, more than two months after suspending them to improve performance around construction zones &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260729/p34#a260729p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
