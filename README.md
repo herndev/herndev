@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&#39;s cryptanalysis results on HAWK and AES show AI can now understand existing cryptanalysis results, turn them into new attacks, and even extend them &lpar;Matthew Green/A Few Thoughts ...&rpar;](https://www.techmeme.com/260729/p30#a260729p30)
- - [Full school day cell phone bans are more popular than ever](https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever)
- - [Google Lens is bugging out on Chrome, but Google says a fix is coming](https://www.androidauthority.com/google-lens-on-chrome-fix-coming-3692453/)<!-- TECH:END -->
+ - [Amazon takes 33% off the Aurzen Boom Air for easy movie nights anywhere](https://www.androidauthority.com/aurzen-boom-air-projector-deal-3692530/)
+ - [OpenAI launches ChatGPT for Academic Researchers, giving 100K scientists, mathematicians, and engineers free access to its frontier models through 2027 &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260729/p31#a260729p31)
+ - [UK is asking for &#39;highly intrusive&#39; controls over App Store, says Apple](https://appleinsider.com/articles/26/07/29/uk-is-asking-for-highly-intrusive-controls-over-app-store-says-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
