@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Security- and AI-related startups have raised $855M across more than 150 reported seed-stage rounds this year, on track for an all-time high &lpar;Joanna Glasner/Crunchbase News&rpar;](https://www.techmeme.com/260728/p48#a260728p48)
- - [A Typo Landed an Innocent Gamer in Prison for 18 Months](https://www.wired.com/story/a-typo-landed-an-innocent-gamer-in-prison-for-18-months/)
- - [A New Smart Ring Uses Finger Sweat to Track Health](https://www.cnet.com/tech/mobile/new-smart-ring-uses-finger-sweat-track-health/)<!-- TECH:END -->
+ - [OpenAI says the rogue AI that breached Hugging Face used exposed credentials from &quot;four accounts&quot; tied to four &quot;publicly available&quot; third-party services &lpar;Wired&rpar;](https://www.techmeme.com/260728/p51#a260728p51)
+ - [xAI sues Minnesota&#39;s AG over a state law banning apps and sites that create fake, sexualized pictures of individuals, claiming it violates the First Amendment &lpar;Riley Moser/CBS News&rpar;](https://www.techmeme.com/260728/p50#a260728p50)
+ - [Online Scams May Be Costing Americans 7 Times More Than Reported](https://www.cnet.com/uncategorized/online-scams-may-be-costing-americans-seven-times-more-than-reported/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
