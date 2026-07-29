@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google DeepMind has reassigned the majority of the original authors of the AlphaFold papers; about a quarter of the papers&#39; full-time authors have left &lpar;Madhumita Murgia/Financial Times&rpar;](https://www.techmeme.com/260729/p2#a260729p2)
- - [OpenAI releases an &quot;early&quot; version of the open-source Codex Security CLI for scanning repositories, verifying fixes, adding CI/CD security checks, and more &lpar;@openai&rpar;](https://www.techmeme.com/260729/p1#a260729p1)
- - [Today’s NYT Mini Crossword Answers for Wednesday, July 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-29/)<!-- TECH:END -->
+ - [Google Photos now lets you capture photos instantly for AI edits](https://www.androidauthority.com/google-photos-camera-button-ai-tools-3692216/)
+ - [Google Photos finally lets you turn off its most annoying visual effect](https://www.androidauthority.com/google-photos-disable-shimmer-effect-3692226/)
+ - [A look at Kioxia, the Japanese NAND flash maker that went from being cash-strapped in 2023 to an expected 30-fold jump in operating income in Q1 FY 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260729/p5#a260729p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
