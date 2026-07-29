@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [D day was 1944. She was 17. 82 plus 17 is 99. The maths indeed are mathing.](http://9gag.com/gag/azx04dz)
- - ⏩ [He was a little angry](http://9gag.com/gag/agmPKqv)
- - 👉 [Stop bullying](http://9gag.com/gag/an7LDGB)<!-- MEMES:END -->
+ - 💣 [Katy Perry&#39;s fans deliberately ruins her concert entry by carrying her away the wrong direction](http://9gag.com/gag/aE0LOgG)
+ - ⏩ [Happens](http://9gag.com/gag/a9y9OR0)
+ - 👉 [He be testin\u2019](http://9gag.com/gag/aD2EXAK)<!-- MEMES:END -->
 
 ---
 
