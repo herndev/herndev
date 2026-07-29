@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 8 review: comfortable when shut, 4:3 inner display is great, and impressive battery life, but no telephoto or IP68 and some app errors &lpar;Dominic Preston/The Verge&rpar;](https://www.techmeme.com/260729/p16#a260729p16)
- - [Festival Must-Haves, Field-Tested at Lost Lands and Electric Forest](https://www.wired.com/story/best-festival-gear/)
- - [The Nothing Ear 3A deliver great, but sometimes buggy, performance for the price](https://www.theverge.com/tech/972254/nothing-ear-3a-earbuds-review)<!-- TECH:END -->
+ - [Survey: 77% of US adults support in-class cellphone bans for middle and high school students, up from 74% in 2025 and 68% in 2024; just 18% oppose such bans &lpar;Jeffrey Gottfried/Pew Research Center&rpar;](https://www.techmeme.com/260729/p24#a260729p24)
+ - [Brookfield and NextEra partner to develop a $100B, 1.2GW+ AI data center campus at a former DOE uranium-enrichment site in Kentucky, set to open in 2032 &lpar;Robb M. Stewart/Wall Street Journal&rpar;](https://www.techmeme.com/260729/p23#a260729p23)
+ - [A look at OpenAI&#39;s open-source agent harness that now powers Codex and ChatGPT Work, as the company works to optimize the harness to cut runaway token usage &lpar;Jason Hiner/The Deep View&rpar;](https://www.techmeme.com/260729/p22#a260729p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
