@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unexpected](http://9gag.com/gag/aGyW2nZ)
- - ⏩ [Stop bullying](http://9gag.com/gag/an7LDGB)
- - 👉 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)<!-- MEMES:END -->
+ - 💣 [Stop bullying](http://9gag.com/gag/an7LDGB)
+ - ⏩ [This is what a cult looks like](http://9gag.com/gag/apRWb8D)
+ - 👉 [Unexpected](http://9gag.com/gag/aGyW2nZ)<!-- MEMES:END -->
 
 ---
 
