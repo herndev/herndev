@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just NY things](http://9gag.com/gag/aqyqzov)
- - ⏩ [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
+ - 💣 [D day was 1944. She was 17. 82 plus 17 is 99. The maths indeed are mathing.](http://9gag.com/gag/azx04dz)
+ - ⏩ [He was a little angry](http://9gag.com/gag/agmPKqv)
  - 👉 [Stop bullying](http://9gag.com/gag/an7LDGB)<!-- MEMES:END -->
 
 ---
