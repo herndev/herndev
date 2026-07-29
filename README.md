@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
- - ⏩ [Just NY things](http://9gag.com/gag/aqyqzov)
+ - 💣 [Just NY things](http://9gag.com/gag/aqyqzov)
+ - ⏩ [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
  - 👉 [Stop bullying](http://9gag.com/gag/an7LDGB)<!-- MEMES:END -->
 
 ---
