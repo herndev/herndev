@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos now lets you capture photos instantly for AI edits](https://www.androidauthority.com/google-photos-camera-button-ai-tools-3692216/)
- - [Google Photos finally lets you turn off its most annoying visual effect](https://www.androidauthority.com/google-photos-disable-shimmer-effect-3692226/)
- - [A look at Kioxia, the Japanese NAND flash maker that went from being cash-strapped in 2023 to an expected 30-fold jump in operating income in Q1 FY 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260729/p5#a260729p5)<!-- TECH:END -->
+ - [Lake Mary, Florida-based Spur Intelligence, which helps distinguish human and bot traffic to find fake users and threats, raised $200M led by Insight Partners &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260729/p11#a260729p11)
+ - [Freehand, which builds AI agents to manage supply chain spend and operations for Fortune 500 companies, raised a $75M Series B, after a $25M Series A in 2024 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260729/p10#a260729p10)
+ - [Gemini Live and Circle to Search could soon get beautiful new animations](https://www.androidauthority.com/gemini-live-circle-search-new-animations-3692272/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
