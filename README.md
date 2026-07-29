@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Middle-aged white women will do anything except a normal workout](http://9gag.com/gag/aD2EXy9)
- - ⏩ [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)
- - 👉 [Just NY things](http://9gag.com/gag/aqyqzov)<!-- MEMES:END -->
+ - 💣 [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
+ - ⏩ [Just NY things](http://9gag.com/gag/aqyqzov)
+ - 👉 [Stop bullying](http://9gag.com/gag/an7LDGB)<!-- MEMES:END -->
 
 ---
 
