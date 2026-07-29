@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lake Mary, Florida-based Spur Intelligence, which helps distinguish human and bot traffic to find fake users and threats, raised $200M led by Insight Partners &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260729/p11#a260729p11)
- - [Freehand, which builds AI agents to manage supply chain spend and operations for Fortune 500 companies, raised a $75M Series B, after a $25M Series A in 2024 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260729/p10#a260729p10)
- - [Gemini Live and Circle to Search could soon get beautiful new animations](https://www.androidauthority.com/gemini-live-circle-search-new-animations-3692272/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 8 review: comfortable when shut, 4:3 inner display is great, and impressive battery life, but no telephoto or IP68 and some app errors &lpar;Dominic Preston/The Verge&rpar;](https://www.techmeme.com/260729/p16#a260729p16)
+ - [Festival Must-Haves, Field-Tested at Lost Lands and Electric Forest](https://www.wired.com/story/best-festival-gear/)
+ - [The Nothing Ear 3A deliver great, but sometimes buggy, performance for the price](https://www.theverge.com/tech/972254/nothing-ear-3a-earbuds-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
