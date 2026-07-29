@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
- - ⏩ [Stop bullying](http://9gag.com/gag/an7LDGB)
- - 👉 [Unexpected](http://9gag.com/gag/aGyW2nZ)<!-- MEMES:END -->
+ - 💣 [Yeah, pretty much so. Sadly](http://9gag.com/gag/an7LDRq)
+ - ⏩ [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
+ - 👉 [This is what a cult looks like](http://9gag.com/gag/apRWb8D)<!-- MEMES:END -->
 
 ---
 
