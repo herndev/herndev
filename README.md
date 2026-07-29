@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey: 77% of US adults support in-class cellphone bans for middle and high school students, up from 74% in 2025 and 68% in 2024; just 18% oppose such bans &lpar;Jeffrey Gottfried/Pew Research Center&rpar;](https://www.techmeme.com/260729/p24#a260729p24)
- - [Brookfield and NextEra partner to develop a $100B, 1.2GW+ AI data center campus at a former DOE uranium-enrichment site in Kentucky, set to open in 2032 &lpar;Robb M. Stewart/Wall Street Journal&rpar;](https://www.techmeme.com/260729/p23#a260729p23)
- - [A look at OpenAI&#39;s open-source agent harness that now powers Codex and ChatGPT Work, as the company works to optimize the harness to cut runaway token usage &lpar;Jason Hiner/The Deep View&rpar;](https://www.techmeme.com/260729/p22#a260729p22)<!-- TECH:END -->
+ - [Anthropic&#39;s cryptanalysis results on HAWK and AES show AI can now understand existing cryptanalysis results, turn them into new attacks, and even extend them &lpar;Matthew Green/A Few Thoughts ...&rpar;](https://www.techmeme.com/260729/p30#a260729p30)
+ - [Full school day cell phone bans are more popular than ever](https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever)
+ - [Google Lens is bugging out on Chrome, but Google says a fix is coming](https://www.androidauthority.com/google-lens-on-chrome-fix-coming-3692453/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
