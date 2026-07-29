@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah, pretty much so. Sadly](http://9gag.com/gag/an7LDRq)
+ - 💣 [Not sure if this is sped up, but if not, it&#39;d have been better if he had just walked instead.](https://www.reddit.com/r/funny/comments/1v9yn3x/not_sure_if_this_is_sped_up_but_if_not_itd_have/)
  - ⏩ [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
- - 👉 [This is what a cult looks like](http://9gag.com/gag/apRWb8D)<!-- MEMES:END -->
+ - 👉 [Just NY things](http://9gag.com/gag/aqyqzov)<!-- MEMES:END -->
 
 ---
 
