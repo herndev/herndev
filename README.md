@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today’s Wordle Hints, Answer and Help for July 30, #1867](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-30-1867/)
- - [Today’s NYT Connections Hints and Answers for July 30, #1145](https://www.cnet.com/news/todays-nyt-connections-hints-and-answers-for-july-30-1145/)
- - [Waymo gradually resumes freeway routes, starting with Phoenix, more than two months after suspending them to improve performance around construction zones &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260729/p34#a260729p34)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;July 29&rpar;](https://www.androidauthority.com/wallpaper-wednesday-july-29-2026-3692567/)
+ - [Scientists built a smart ring that analyzes sweat to measure blood glucose and more](https://www.androidauthority.com/smart-ring-sweat-3692606/)
+ - [xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law](https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
