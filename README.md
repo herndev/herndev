@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says the rogue AI that breached Hugging Face used exposed credentials from &quot;four accounts&quot; tied to four &quot;publicly available&quot; third-party services &lpar;Wired&rpar;](https://www.techmeme.com/260728/p51#a260728p51)
- - [xAI sues Minnesota&#39;s AG over a state law banning apps and sites that create fake, sexualized pictures of individuals, claiming it violates the First Amendment &lpar;Riley Moser/CBS News&rpar;](https://www.techmeme.com/260728/p50#a260728p50)
- - [Online Scams May Be Costing Americans 7 Times More Than Reported](https://www.cnet.com/uncategorized/online-scams-may-be-costing-americans-seven-times-more-than-reported/)<!-- TECH:END -->
+ - [Sources: Google DeepMind has reassigned the majority of the original authors of the AlphaFold papers; about a quarter of the papers&#39; full-time authors have left &lpar;Madhumita Murgia/Financial Times&rpar;](https://www.techmeme.com/260729/p2#a260729p2)
+ - [OpenAI releases an &quot;early&quot; version of the open-source Codex Security CLI for scanning repositories, verifying fixes, adding CI/CD security checks, and more &lpar;@openai&rpar;](https://www.techmeme.com/260729/p1#a260729p1)
+ - [Today’s NYT Mini Crossword Answers for Wednesday, July 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-29/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
