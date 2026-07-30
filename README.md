@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah, pretty much so. Sadly](http://9gag.com/gag/an7LDRq)
- - ⏩ [He was a little angry](http://9gag.com/gag/agmPKqv)
- - 👉 [Property owner puts up gate to stop trespassers](http://9gag.com/gag/a5Q8qPV)<!-- MEMES:END -->
+ - 💣 [Newest Halo Campaign Evolved only lets you kill men in the bridge of Pillar of autumn](http://9gag.com/gag/aryj2v7)
+ - ⏩ [Keep your head on a swivel](http://9gag.com/gag/aGyWO0w)
+ - 👉 [Just NY things](http://9gag.com/gag/aqyqzov)<!-- MEMES:END -->
 
 ---
 
