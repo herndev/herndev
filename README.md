@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung officially confirms Galaxy Tab S12 series is coming](https://www.androidauthority.com/samsung-confirms-galaxy-tab-s12-3692648/)
- - [Q&amp;A with CuspAI&#39;s Max Welling on its AI Materials Foundry, partnerships with Nvidia and others, Geoff Hinton and Yann LeCun joining its advisory board, and more &lpar;John Thornhill/Financial Times&rpar;](https://www.techmeme.com/260730/p5#a260730p5)
- - [Though Google&#39;s SynthID tech for watermarking AI images is hard to break, there will always be ways to create AI-generated content without any labeling &lpar;Ryan Whitwam/Ars Technica&rpar;](https://www.techmeme.com/260730/p4#a260730p4)<!-- TECH:END -->
+ - [Whatever you do, don’t buy a Google Pixel phone right now](https://www.androidauthority.com/dont-buy-google-pixel-10-right-now-why-3691510/)
+ - [A Civilian Plane Crashed in New Mexico. Was the Military’s Tech to Blame?](https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/)
+ - [TCL Tab A1 Plus Review &lpar;2026&rpar;: Cheap Tablet That Doesn’t Feel It](https://www.wired.com/review/tcl-tab-a1-plus-tablet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
