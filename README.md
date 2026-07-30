@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [5000 days here f**kers](http://9gag.com/gag/a1mGO06)
- - ⏩ [Yo, venmo me 5 bucks](http://9gag.com/gag/ayNOvWr)
- - 👉 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)<!-- MEMES:END -->
+ - 💣 [San Lorenzo Beach incident - pilot made evasive maneuver to avoid a flock of birds](http://9gag.com/gag/ayNOv9y)
+ - ⏩ [Lumberjack breaks grip strength tester](http://9gag.com/gag/a9y9Dm1)
+ - 👉 [Fair emergency](http://9gag.com/gag/axyXm2b)<!-- MEMES:END -->
 
 ---
 
