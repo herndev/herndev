@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kansas City tried 1 city-run low cost grocery store for $18 million to help a diverse neighborhood and this is what happened after 1 month](http://9gag.com/gag/agmPEvg)
- - ⏩ [Yeah, pretty much so. Sadly](http://9gag.com/gag/an7LDRq)
- - 👉 [Just NY things](http://9gag.com/gag/aqyqzov)<!-- MEMES:END -->
+ - 💣 [One our local strip clubs](https://www.reddit.com/r/funny/comments/1vaez7q/one_our_local_strip_clubs/)
+ - ⏩ [He was a little angry](http://9gag.com/gag/agmPKqv)
+ - 👉 [Katy Perry&#39;s fans deliberately ruins her concert entry by carrying her away the wrong direction](http://9gag.com/gag/aE0LOgG)<!-- MEMES:END -->
 
 ---
 
