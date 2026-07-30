@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon reports Q2 revenue up 20% YoY to $200.6B, net income up 245% to $62.6B, operating income up 43% to $27.5B, and a $25B+ annual revenue run rate for chips &lpar;Amazon&rpar;](https://www.techmeme.com/260730/p48#a260730p48)
- - [Today’s NYT Strands Hints, Answers and Help for July 31 #880](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-31-880/)
- - [Today’s NYT Connections Hints and Answers for July 31, #1146](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-july-31-1146/)<!-- TECH:END -->
+ - [Ternus&#39;s MacBook Neo pushes Mac sales to unexpected Q3 heights](https://appleinsider.com/articles/26/07/30/ternuss-macbook-neo-pushes-mac-sales-to-unexpected-q3-heights?utm_source=rss)
+ - [Tim Cook says goodbye to analysts &amp; shareholders on his final Apple earnings call](https://appleinsider.com/articles/26/07/30/tim-cook-says-goodbye-to-analysts-shareholders-on-his-final-apple-earnings-call?utm_source=rss)
+ - [Roblox reports Q2 bookings up 8% YoY to $1.56B, vs. $1.6B est., DAUs up 10% to 123M, forecasts Q3 bookings and revenue below est.; RBLX drops 13%+ after hours &lpar;Kelly Cloonan/Wall Street Journal&rpar;](https://www.techmeme.com/260730/p55#a260730p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
