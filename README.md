@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reports Q2 revenue up 130% YoY to ~$118.1B, vs. ~$118.9B est., and operating profit up 1,814% to ~$61.46B, vs. ~$60.68B est., on robust AI demand &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260729/p49#a260729p49)
- - [Mark Zuckerberg Is Putting All His Chips on an AI Future, Whether You Want It or Not](https://www.cnet.com/tech/services-and-software/mark-zuckerberg-meta-earnings-call-big-ai-investment/)
- - [Microsoft reports Q4 capex up 70% YoY to $41B; an accounting change lowers its 2026 capex forecast to $175B from $190B, while spending plans remain unchanged &lpar;Reuters&rpar;](https://www.techmeme.com/260729/p48#a260729p48)<!-- TECH:END -->
+ - [Google is making Advanced Protection easier to live with ahead of Android’s sideloading changes](https://www.androidauthority.com/android-advanced-protection-pause-feature-3692635/)
+ - [How to change your Home address in Maps on iPhone](https://appleinsider.com/articles/26/07/30/how-to-change-your-home-address-in-maps-on-iphone?utm_source=rss)
+ - [In Q4, Microsoft&#39;s Anthropic investment saw a $3.2B gain, while its OpenAI investment was marked down ~$600M but has generated a $5B gain on a full-year basis &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260729/p52#a260729p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
