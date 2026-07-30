@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is making Advanced Protection easier to live with ahead of Android’s sideloading changes](https://www.androidauthority.com/android-advanced-protection-pause-feature-3692635/)
- - [How to change your Home address in Maps on iPhone](https://appleinsider.com/articles/26/07/30/how-to-change-your-home-address-in-maps-on-iphone?utm_source=rss)
- - [In Q4, Microsoft&#39;s Anthropic investment saw a $3.2B gain, while its OpenAI investment was marked down ~$600M but has generated a $5B gain on a full-year basis &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260729/p52#a260729p52)<!-- TECH:END -->
+ - [Samsung officially confirms Galaxy Tab S12 series is coming](https://www.androidauthority.com/samsung-confirms-galaxy-tab-s12-3692648/)
+ - [Q&amp;A with CuspAI&#39;s Max Welling on its AI Materials Foundry, partnerships with Nvidia and others, Geoff Hinton and Yann LeCun joining its advisory board, and more &lpar;John Thornhill/Financial Times&rpar;](https://www.techmeme.com/260730/p5#a260730p5)
+ - [Though Google&#39;s SynthID tech for watermarking AI images is hard to break, there will always be ways to create AI-generated content without any labeling &lpar;Ryan Whitwam/Ars Technica&rpar;](https://www.techmeme.com/260730/p4#a260730p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
