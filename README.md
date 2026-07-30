@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Friend announces an AI pendant with a speaker for spoken replies for $249, up from its original necklace&#39;s $129 price, with an optional $10 monthly subscription &lpar;Boone Ashworth/Wired&rpar;](https://www.techmeme.com/260730/p37#a260730p37)
- - [YouTube screensaver bug is interrupting playback on LG Smart TVs](https://www.androidauthority.com/lg-youtube-tv-bug-3692901/)
- - [Spotify’s getting a cool new feature for runners](https://www.androidauthority.com/spotify-running-mode-ios-3692882/)<!-- TECH:END -->
+ - [Okta agrees to acquire AI identity security startup Permiso; source: the acquisition is valued at just under $200M and is structured as an almost all-cash deal &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260730/p43#a260730p43)
+ - [Govee&amp;#8217;s portable smart lamp is down to one of its best prices to date](https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale)
+ - [Thinking Machines releases Inkling-Small, an open-weight model with 276B total and 12B active parameters, saying it &quot;achieves comparable performance&quot; to Inkling &lpar;Thinking Machines Lab&rpar;](https://www.techmeme.com/260730/p42#a260730p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
