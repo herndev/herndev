@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)
- - ⏩ [He was a little angry](http://9gag.com/gag/agmPKqv)
- - 👉 [That&#39;s one way to do it](http://9gag.com/gag/aND6jDA)<!-- MEMES:END -->
+ - 💣 [Perfect gift for step brother....](http://9gag.com/gag/a5Q85EL)
+ - ⏩ [Lumberjack breaks grip strength tester](http://9gag.com/gag/a9y9Dm1)
+ - 👉 [He was a little angry](http://9gag.com/gag/agmPKqv)<!-- MEMES:END -->
 
 ---
 
