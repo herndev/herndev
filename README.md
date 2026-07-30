@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perfect gift for step brother....](http://9gag.com/gag/a5Q85EL)
- - ⏩ [Lumberjack breaks grip strength tester](http://9gag.com/gag/a9y9Dm1)
- - 👉 [He was a little angry](http://9gag.com/gag/agmPKqv)<!-- MEMES:END -->
+ - 💣 [5000 days here f**kers](http://9gag.com/gag/a1mGO06)
+ - ⏩ [Yo, venmo me 5 bucks](http://9gag.com/gag/ayNOvWr)
+ - 👉 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)<!-- MEMES:END -->
 
 ---
 
