@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intercontinental Exchange agrees to acquire electronic fixed-income trading platform MarketAxess for ~$6B in cash, a 33% premium, set to close in H1 2027 &lpar;Katherine Hamilton/Wall Street Journal&rpar;](https://www.techmeme.com/260730/p19#a260730p19)
- - [Best Vacuum Cleaners &lpar;2026&rpar;: Cordless Vacuums, Robot Vacuums, Dysons](https://www.wired.com/gallery/the-best-vacuum-cleaner/)
- - [DJI’s cinematic Osmo Pocket 4P finally goes global after months of waiting](https://www.androidauthority.com/dji-osmo-pocket-4p-global-launch-3692628/)<!-- TECH:END -->
+ - [Sources: Leopold Aschenbrenner&#39;s Situational Awareness has sold all of its public stock holdings after losses on AI stocks and a bad bet against software stocks &lpar;David Faber/CNBC&rpar;](https://www.techmeme.com/260730/p30#a260730p30)
+ - [Zoox can now charge for rides in its steering-wheel-free robotaxis](https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval)
+ - [CNET Readers Are Convinced Apple Has a Foldable iPhone Coming. But What About Smart Glasses?](https://www.cnet.com/tech/cnet-readers-are-convinced-apple-has-a-foldable-iphone-coming-but-what-about-smart-glasses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
