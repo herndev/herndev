@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Leopold Aschenbrenner&#39;s Situational Awareness has sold all of its public stock holdings after losses on AI stocks and a bad bet against software stocks &lpar;David Faber/CNBC&rpar;](https://www.techmeme.com/260730/p30#a260730p30)
- - [Zoox can now charge for rides in its steering-wheel-free robotaxis](https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval)
- - [CNET Readers Are Convinced Apple Has a Foldable iPhone Coming. But What About Smart Glasses?](https://www.cnet.com/tech/cnet-readers-are-convinced-apple-has-a-foldable-iphone-coming-but-what-about-smart-glasses/)<!-- TECH:END -->
+ - [Friend announces an AI pendant with a speaker for spoken replies for $249, up from its original necklace&#39;s $129 price, with an optional $10 monthly subscription &lpar;Boone Ashworth/Wired&rpar;](https://www.techmeme.com/260730/p37#a260730p37)
+ - [YouTube screensaver bug is interrupting playback on LG Smart TVs](https://www.androidauthority.com/lg-youtube-tv-bug-3692901/)
+ - [Spotify’s getting a cool new feature for runners](https://www.androidauthority.com/spotify-running-mode-ios-3692882/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
