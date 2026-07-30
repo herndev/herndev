@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an internal meeting, OpenAI finance chief Sarah Friar told employees that the company&#39;s annualized recurring revenue in July was higher than in Q2 as a whole &lpar;CNBC&rpar;](https://www.techmeme.com/260729/p47#a260729p47)
- - [Instagram and Facebook Ads for AI ‘Nudify’ Apps Tied to Meta Ad Partner in China](https://www.cnet.com/news/social-media/meta-chinese-ad-partner-tied-nudify-ads/)
- - [Source and docs: Intel has given access to its Atom processor tech to Rosaic, a new startup led by Amarjit Gill; Lip-Bu Tan and Gill are longtime co-investors &lpar;Reuters&rpar;](https://www.techmeme.com/260729/p46#a260729p46)<!-- TECH:END -->
+ - [Samsung reports Q2 revenue up 130% YoY to ~$118.1B, vs. ~$118.9B est., and operating profit up 1,814% to ~$61.46B, vs. ~$60.68B est., on robust AI demand &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260729/p49#a260729p49)
+ - [Mark Zuckerberg Is Putting All His Chips on an AI Future, Whether You Want It or Not](https://www.cnet.com/tech/services-and-software/mark-zuckerberg-meta-earnings-call-big-ai-investment/)
+ - [Microsoft reports Q4 capex up 70% YoY to $41B; an accounting change lowers its 2026 capex forecast to $175B from $190B, while spending plans remain unchanged &lpar;Reuters&rpar;](https://www.techmeme.com/260729/p48#a260729p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
