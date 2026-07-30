@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whatever you do, don’t buy a Google Pixel phone right now](https://www.androidauthority.com/dont-buy-google-pixel-10-right-now-why-3691510/)
- - [A Civilian Plane Crashed in New Mexico. Was the Military’s Tech to Blame?](https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/)
- - [TCL Tab A1 Plus Review &lpar;2026&rpar;: Cheap Tablet That Doesn’t Feel It](https://www.wired.com/review/tcl-tab-a1-plus-tablet/)<!-- TECH:END -->
+ - [Intercontinental Exchange agrees to acquire electronic fixed-income trading platform MarketAxess for ~$6B in cash, a 33% premium, set to close in H1 2027 &lpar;Katherine Hamilton/Wall Street Journal&rpar;](https://www.techmeme.com/260730/p19#a260730p19)
+ - [Best Vacuum Cleaners &lpar;2026&rpar;: Cordless Vacuums, Robot Vacuums, Dysons](https://www.wired.com/gallery/the-best-vacuum-cleaner/)
+ - [DJI’s cinematic Osmo Pocket 4P finally goes global after months of waiting](https://www.androidauthority.com/dji-osmo-pocket-4p-global-launch-3692628/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
