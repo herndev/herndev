@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Okta agrees to acquire AI identity security startup Permiso; source: the acquisition is valued at just under $200M and is structured as an almost all-cash deal &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260730/p43#a260730p43)
- - [Govee&amp;#8217;s portable smart lamp is down to one of its best prices to date](https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale)
- - [Thinking Machines releases Inkling-Small, an open-weight model with 276B total and 12B active parameters, saying it &quot;achieves comparable performance&quot; to Inkling &lpar;Thinking Machines Lab&rpar;](https://www.techmeme.com/260730/p42#a260730p42)<!-- TECH:END -->
+ - [Amazon reports Q2 revenue up 20% YoY to $200.6B, net income up 245% to $62.6B, operating income up 43% to $27.5B, and a $25B+ annual revenue run rate for chips &lpar;Amazon&rpar;](https://www.techmeme.com/260730/p48#a260730p48)
+ - [Today’s NYT Strands Hints, Answers and Help for July 31 #880](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-31-880/)
+ - [Today’s NYT Connections Hints and Answers for July 31, #1146](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-july-31-1146/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
