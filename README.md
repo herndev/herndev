@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ternus&#39;s MacBook Neo pushes Mac sales to unexpected Q3 heights](https://appleinsider.com/articles/26/07/30/ternuss-macbook-neo-pushes-mac-sales-to-unexpected-q3-heights?utm_source=rss)
- - [Tim Cook says goodbye to analysts &amp; shareholders on his final Apple earnings call](https://appleinsider.com/articles/26/07/30/tim-cook-says-goodbye-to-analysts-shareholders-on-his-final-apple-earnings-call?utm_source=rss)
- - [Roblox reports Q2 bookings up 8% YoY to $1.56B, vs. $1.6B est., DAUs up 10% to 123M, forecasts Q3 bookings and revenue below est.; RBLX drops 13%+ after hours &lpar;Kelly Cloonan/Wall Street Journal&rpar;](https://www.techmeme.com/260730/p55#a260730p55)<!-- TECH:END -->
+ - [Tim Cook hints at iCloud Plus tier for AI power users](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai)
+ - [Xbox CEO lays out priorities in memo after major &amp;#8216;reset&amp;#8217;](https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth)
+ - [T-Mobile’s new student plans cut the cheapest Essentials line to $30](https://www.androidauthority.com/t-mobile-student-plans-launch-3693101/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
