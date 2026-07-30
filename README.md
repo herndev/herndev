@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F*ck them celebs &lpar;not mine but I liked it very much&rpar;](http://9gag.com/gag/a2vnL1p)
- - ⏩ [You don&#39;t need many friends, just friends like these...](http://9gag.com/gag/aBy74LQ)
- - 👉 [Morning Sam. Morning Ralph. &lpar;Fight&rpar;. Same time tomorrow?](http://9gag.com/gag/aMV3q36)<!-- MEMES:END -->
+ - 💣 [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)
+ - ⏩ [He was a little angry](http://9gag.com/gag/agmPKqv)
+ - 👉 [That&#39;s one way to do it](http://9gag.com/gag/aND6jDA)<!-- MEMES:END -->
 
 ---
 
