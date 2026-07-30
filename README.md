@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [San Lorenzo Beach incident - pilot made evasive maneuver to avoid a flock of birds](http://9gag.com/gag/ayNOv9y)
- - ⏩ [Lumberjack breaks grip strength tester](http://9gag.com/gag/a9y9Dm1)
- - 👉 [Fair emergency](http://9gag.com/gag/axyXm2b)<!-- MEMES:END -->
+ - 💣 [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)
+ - ⏩ [San Lorenzo Beach incident - pilot made evasive maneuver to avoid a flock of birds](http://9gag.com/gag/ayNOv9y)
+ - 👉 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)<!-- MEMES:END -->
 
 ---
 
