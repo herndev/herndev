@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Newest Halo Campaign Evolved only lets you kill men in the bridge of Pillar of autumn](http://9gag.com/gag/aryj2v7)
- - ⏩ [Keep your head on a swivel](http://9gag.com/gag/aGyWO0w)
- - 👉 [Just NY things](http://9gag.com/gag/aqyqzov)<!-- MEMES:END -->
+ - 💣 [Seems legitimate](http://9gag.com/gag/an7LrD5)
+ - ⏩ [F*ck them celebs &lpar;not mine but I liked it very much&rpar;](http://9gag.com/gag/a2vnL1p)
+ - 👉 [You don&#39;t need many friends, just friends like these...](http://9gag.com/gag/aBy74LQ)<!-- MEMES:END -->
 
 ---
 
