@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seems legitimate](http://9gag.com/gag/an7LrD5)
- - ⏩ [F*ck them celebs &lpar;not mine but I liked it very much&rpar;](http://9gag.com/gag/a2vnL1p)
- - 👉 [You don&#39;t need many friends, just friends like these...](http://9gag.com/gag/aBy74LQ)<!-- MEMES:END -->
+ - 💣 [F*ck them celebs &lpar;not mine but I liked it very much&rpar;](http://9gag.com/gag/a2vnL1p)
+ - ⏩ [You don&#39;t need many friends, just friends like these...](http://9gag.com/gag/aBy74LQ)
+ - 👉 [Morning Sam. Morning Ralph. &lpar;Fight&rpar;. Same time tomorrow?](http://9gag.com/gag/aMV3q36)<!-- MEMES:END -->
 
 ---
 
