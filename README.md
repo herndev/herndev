@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One our local strip clubs](https://www.reddit.com/r/funny/comments/1vaez7q/one_our_local_strip_clubs/)
- - ⏩ [He was a little angry](http://9gag.com/gag/agmPKqv)
- - 👉 [Katy Perry&#39;s fans deliberately ruins her concert entry by carrying her away the wrong direction](http://9gag.com/gag/aE0LOgG)<!-- MEMES:END -->
+ - 💣 [Just NY things](http://9gag.com/gag/aqyqzov)
+ - ⏩ [Unexpected](http://9gag.com/gag/aGyW2nZ)
+ - 👉 [Keep your head on a swivel](http://9gag.com/gag/aGyWO0w)<!-- MEMES:END -->
 
 ---
 
