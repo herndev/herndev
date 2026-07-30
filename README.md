@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just NY things](http://9gag.com/gag/aqyqzov)
- - ⏩ [Unexpected](http://9gag.com/gag/aGyW2nZ)
- - 👉 [Keep your head on a swivel](http://9gag.com/gag/aGyWO0w)<!-- MEMES:END -->
+ - 💣 [Yeah, pretty much so. Sadly](http://9gag.com/gag/an7LDRq)
+ - ⏩ [He was a little angry](http://9gag.com/gag/agmPKqv)
+ - 👉 [Property owner puts up gate to stop trespassers](http://9gag.com/gag/a5Q8qPV)<!-- MEMES:END -->
 
 ---
 
