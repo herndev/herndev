@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook hints at iCloud Plus tier for AI power users](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai)
- - [Xbox CEO lays out priorities in memo after major &amp;#8216;reset&amp;#8217;](https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth)
- - [T-Mobile’s new student plans cut the cheapest Essentials line to $30](https://www.androidauthority.com/t-mobile-student-plans-launch-3693101/)<!-- TECH:END -->
+ - [Tim Cook’s Final Earnings Call: Record iPhone Sales and Future Pricing Woes](https://www.cnet.com/tech/tim-cook-final-apple-earnings-call-iphone-sales-pricing-woes/)
+ - [Anthropic says it discovered three of its models had breached three organizations after launching a review in response to the OpenAI-Hugging Face incident &lpar;Anthropic&rpar;](https://www.techmeme.com/260730/p61#a260730p61)
+ - [Sources: Zelenskyy asked Trump to secure Elon Musk&#39;s permission for the use of Starlink to guide drone strikes inside Russia, but Trump was noncommittal &lpar;The Atlantic&rpar;](https://www.techmeme.com/260730/p60#a260730p60)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
