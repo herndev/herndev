@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
- - ⏩ [How to make &#39;berliners&#39; upset](http://9gag.com/gag/aZZGVgV)
- - 👉 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)<!-- MEMES:END -->
+ - 💣 [Brutal reality check](http://9gag.com/gag/a2vnxwd)
+ - ⏩ [It\u2019s been a while since I\u2019ve seen this](http://9gag.com/gag/apRWdvp)
+ - 👉 [How to make &#39;berliners&#39; upset](http://9gag.com/gag/aZZGVgV)<!-- MEMES:END -->
 
 ---
 
