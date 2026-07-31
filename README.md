@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)
- - ⏩ [Lumberjack breaks grip strength tester](http://9gag.com/gag/a9y9Dm1)
- - 👉 [Perfect gift for step brother....](http://9gag.com/gag/a5Q85EL)<!-- MEMES:END -->
+ - 💣 [\u201cYouuu moth****er you, f*** you motherf****r!\u201d](http://9gag.com/gag/aD2EQgK)
+ - ⏩ [Hypnotized](http://9gag.com/gag/a0e2wwB)
+ - 👉 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)<!-- MEMES:END -->
 
 ---
 
