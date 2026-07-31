@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unimpressed Goldman Sachs trims AAPL target by $10 after earnings call](https://appleinsider.com/articles/26/07/31/unimpressed-goldman-sachs-trims-aapl-target-by-10-after-earnings-call?utm_source=rss)
- - [Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount](https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale)
- - [Here’s the problem with putting an AI image generator in Google Earth](https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images)<!-- TECH:END -->
+ - [Gmail’s new warning could save you from major embarrassment](https://www.androidauthority.com/gmail-bcc-warning-3693467/)
+ - [Google rolls back an image generation tool in Google Earth to add &quot;stronger guardrails&quot; after concerns arose it can be used to create deepfake satellite imagery &lpar;Geoff Brumfiel/NPR&rpar;](https://www.techmeme.com/260731/p32#a260731p32)
+ - [Leaked Motorola Razr renders tease the next blinged-out special edition](https://www.androidauthority.com/motorola-razr-2026-swarovski-edition-renders-3693452/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
