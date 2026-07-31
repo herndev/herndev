@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail’s new warning could save you from major embarrassment](https://www.androidauthority.com/gmail-bcc-warning-3693467/)
- - [Google rolls back an image generation tool in Google Earth to add &quot;stronger guardrails&quot; after concerns arose it can be used to create deepfake satellite imagery &lpar;Geoff Brumfiel/NPR&rpar;](https://www.techmeme.com/260731/p32#a260731p32)
- - [Leaked Motorola Razr renders tease the next blinged-out special edition](https://www.androidauthority.com/motorola-razr-2026-swarovski-edition-renders-3693452/)<!-- TECH:END -->
+ - [Sources: OpenAI has discovered other instances where AI agents escaped containment; none of the agents were thought to have left OpenAI&#39;s network &lpar;Reuters&rpar;](https://www.techmeme.com/260731/p36#a260731p36)
+ - [Google Earth slams the brakes on Gemini image generation for depressingly predictable reasons](https://www.androidauthority.com/google-earth-ai-image-generation-2-3693511/)
+ - [FBI and EPA say water and wastewater utilities in at least seven states reported cyberattacks this week, with some causing flooding and other operational issues &lpar;James Rundle/Wall Street Journal&rpar;](https://www.techmeme.com/260731/p35#a260731p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
