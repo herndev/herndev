@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon will give money back to some of you as part of US tariff refund](https://www.androidauthority.com/amazon-us-tariff-refund-3693229/)
- - [Here’s Where Samsung Makes and Tests Its Galaxy Phones Before Shipping Them to You](https://www.cnet.com/tech/mobile/where-samsung-makes-tests-galaxy-phones/)
- - [Pixel 11 images posted by trusted leaker, and fans of vibrant phones should take a look](https://www.androidauthority.com/google-pixel-11-leaked-images-3693267/)<!-- TECH:END -->
+ - [SpaceXAI says it will remove 69 gas turbines used to power the Colossus data centers near Memphis by July 2027, as it moves to a 1.2 GW natural gas power plant &lpar;Tim De Chant/TechCrunch&rpar;](https://www.techmeme.com/260731/p25#a260731p25)
+ - [First Apple Silicon-native CrossOver build in testing as Rosetta&#39;s end nears](https://appleinsider.com/articles/26/07/31/first-apple-silicon-native-crossover-build-in-testing-as-rosettas-end-nears?utm_source=rss)
+ - [Here’s an early look at Lenovo’s inaugural Googlebooks](https://www.androidauthority.com/lenovo-googlebook-leak-3693356/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
