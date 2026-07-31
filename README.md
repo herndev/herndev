@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big bug](http://9gag.com/gag/a0e2x0Q)
- - ⏩ [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
- - 👉 [Six and halfway](http://9gag.com/gag/aBy7o7N)<!-- MEMES:END -->
+ - 💣 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
+ - ⏩ [How to make &#39;berliners&#39; upset](http://9gag.com/gag/aZZGVgV)
+ - 👉 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)<!-- MEMES:END -->
 
 ---
 
