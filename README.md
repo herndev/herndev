@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook’s Final Earnings Call: Record iPhone Sales and Future Pricing Woes](https://www.cnet.com/tech/tim-cook-final-apple-earnings-call-iphone-sales-pricing-woes/)
- - [Anthropic says it discovered three of its models had breached three organizations after launching a review in response to the OpenAI-Hugging Face incident &lpar;Anthropic&rpar;](https://www.techmeme.com/260730/p61#a260730p61)
- - [Sources: Zelenskyy asked Trump to secure Elon Musk&#39;s permission for the use of Starlink to guide drone strikes inside Russia, but Trump was noncommittal &lpar;The Atlantic&rpar;](https://www.techmeme.com/260730/p60#a260730p60)<!-- TECH:END -->
+ - [Apple CFO Kevan Parekh says Services surpassed 1.5B paid subscriptions, up from 1B in January 2025, but a gaming slowdown and App Store changes hurt growth &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260730/p65#a260730p65)
+ - [Microsoft&#39;s stock closed up 15.5% on Thursday, adding ~$450B to its market capitalization, the largest single-day market value increase in stock market history &lpar;Subrat Patnaik/Bloomberg&rpar;](https://www.techmeme.com/260730/p64#a260730p64)
+ - [Tim Cook says Apple expects &quot;the impact from the supply constraints to increase significantly sequentially&quot; and the market pricing for memory to keep rising &lpar;Juli Clover/MacRumors&rpar;](https://www.techmeme.com/260730/p63#a260730p63)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
