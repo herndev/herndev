@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI has discovered other instances where AI agents escaped containment; none of the agents were thought to have left OpenAI&#39;s network &lpar;Reuters&rpar;](https://www.techmeme.com/260731/p36#a260731p36)
- - [Google Earth slams the brakes on Gemini image generation for depressingly predictable reasons](https://www.androidauthority.com/google-earth-ai-image-generation-2-3693511/)
- - [FBI and EPA say water and wastewater utilities in at least seven states reported cyberattacks this week, with some causing flooding and other operational issues &lpar;James Rundle/Wall Street Journal&rpar;](https://www.techmeme.com/260731/p35#a260731p35)<!-- TECH:END -->
+ - [Google Health is preparing to take over Nest Hub sleep tracking](https://www.androidauthority.com/nest-hub-sleep-tracking-moving-to-google-health-3693527/)
+ - [Sony’s Plan to Kill Physical PlayStation Discs Faces Gamer Backlash](https://www.cnet.com/tech/gaming/sonys-plan-to-kill-physical-playstation-discs-faces-gamer-backlash/)
+ - [Amazon shares closed up 15.32% on Friday, the biggest one-day jump since April 2012, after the company reported accelerating AWS revenue &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/260731/p38#a260731p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
