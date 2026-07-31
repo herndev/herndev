@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RCS Universal Profile 4.1 gives you more control over your profile privacy](https://www.androidauthority.com/rcs-universal-profile-4-1-3693145/)
- - [This Android phone maker has created a model with no bezels around the display](https://www.androidauthority.com/tecno-bezel-less-phone-3692728/)
- - [OnePlus confirms OnePlus 16, its first flagship after US exit, is coming soon](https://www.androidauthority.com/oneplus-16-confirmed-3693118/)<!-- TECH:END -->
+ - [Counterpoint: Q2 global smartphone revenue rose 7% YoY, and average device selling price rose 17% to $400; Apple took 49% of global revenue, and Samsung 16% &lpar;Vlad Savov/Bloomberg&rpar;](https://www.techmeme.com/260731/p15#a260731p15)
+ - [Google Health could soon make your medical lab results much easier to understand](https://www.androidauthority.com/google-health-medical-record-infographic-apk-teardown-3693210/)
+ - [6 Best Phones With Headphone Jacks &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
