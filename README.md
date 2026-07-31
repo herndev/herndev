@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201cYouuu moth****er you, f*** you motherf****r!\u201d](http://9gag.com/gag/aD2EQgK)
- - ⏩ [Hypnotized](http://9gag.com/gag/a0e2wwB)
- - 👉 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)<!-- MEMES:END -->
+ - 💣 [Perfect gift for step brother....](http://9gag.com/gag/a5Q85EL)
+ - ⏩ [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)
+ - 👉 [Guys its over, norwood reaper is undefeated](http://9gag.com/gag/aQz0Vpe)<!-- MEMES:END -->
 
 ---
 
