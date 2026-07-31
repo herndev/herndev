@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MiniMax releases H3, a video model that generates up to 15-second clips in 2K resolution with native stereo sound, and plans to release its weights within days &lpar;Eduardo Baptista/Reuters&rpar;](https://www.techmeme.com/260731/p3#a260731p3)
- - [Mattress Firm Coupons: Save up to $700 |](https://www.wired.com/story/mattress-firm-coupon/)
- - [SelectBlinds Promo Codes &amp; Coupons: Save on Custom Window Treatments](https://www.wired.com/story/select-blinds-promo-code/)<!-- TECH:END -->
+ - [RCS Universal Profile 4.1 gives you more control over your profile privacy](https://www.androidauthority.com/rcs-universal-profile-4-1-3693145/)
+ - [This Android phone maker has created a model with no bezels around the display](https://www.androidauthority.com/tecno-bezel-less-phone-3692728/)
+ - [OnePlus confirms OnePlus 16, its first flagship after US exit, is coming soon](https://www.androidauthority.com/oneplus-16-confirmed-3693118/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
