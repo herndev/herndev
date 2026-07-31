@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perfect gift for step brother....](http://9gag.com/gag/a5Q85EL)
- - ⏩ [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)
- - 👉 [Guys its over, norwood reaper is undefeated](http://9gag.com/gag/aQz0Vpe)<!-- MEMES:END -->
+ - 💣 [Don&#39;t let the perfect be the enemy of good](http://9gag.com/gag/azx0BDz)
+ - ⏩ [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
+ - 👉 [Big bug](http://9gag.com/gag/a0e2x0Q)<!-- MEMES:END -->
 
 ---
 
