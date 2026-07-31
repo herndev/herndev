@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t let the perfect be the enemy of good](http://9gag.com/gag/azx0BDz)
- - ⏩ [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
- - 👉 [Big bug](http://9gag.com/gag/a0e2x0Q)<!-- MEMES:END -->
+ - 💣 [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)
+ - ⏩ [A lesson on how to be a proper gentleman](http://9gag.com/gag/aXP5e4b)
+ - 👉 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)<!-- MEMES:END -->
 
 ---
 
