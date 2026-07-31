@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Health is preparing to take over Nest Hub sleep tracking](https://www.androidauthority.com/nest-hub-sleep-tracking-moving-to-google-health-3693527/)
- - [Sony’s Plan to Kill Physical PlayStation Discs Faces Gamer Backlash](https://www.cnet.com/tech/gaming/sonys-plan-to-kill-physical-playstation-discs-faces-gamer-backlash/)
- - [Amazon shares closed up 15.32% on Friday, the biggest one-day jump since April 2012, after the company reported accelerating AWS revenue &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/260731/p38#a260731p38)<!-- TECH:END -->
+ - [Sources: OpenAI demoed a new &quot;Astra&quot; AI model family to US policymakers and regulators this week, touting its improved abilities to complete long-running tasks &lpar;The Information&rpar;](https://www.techmeme.com/260731/p40#a260731p40)
+ - [Filing: Amazon has completed its $50B investment in OpenAI; source: OpenAI received the final tranche this week, taking Amazon&#39;s position to roughly 5% &lpar;Financial Times&rpar;](https://www.techmeme.com/260731/p39#a260731p39)
+ - [With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC](https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
