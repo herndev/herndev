@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple CFO Kevan Parekh says Services surpassed 1.5B paid subscriptions, up from 1B in January 2025, but a gaming slowdown and App Store changes hurt growth &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260730/p65#a260730p65)
- - [Microsoft&#39;s stock closed up 15.5% on Thursday, adding ~$450B to its market capitalization, the largest single-day market value increase in stock market history &lpar;Subrat Patnaik/Bloomberg&rpar;](https://www.techmeme.com/260730/p64#a260730p64)
- - [Tim Cook says Apple expects &quot;the impact from the supply constraints to increase significantly sequentially&quot; and the market pricing for memory to keep rising &lpar;Juli Clover/MacRumors&rpar;](https://www.techmeme.com/260730/p63#a260730p63)<!-- TECH:END -->
+ - [MiniMax releases H3, a video model that generates up to 15-second clips in 2K resolution with native stereo sound, and plans to release its weights within days &lpar;Eduardo Baptista/Reuters&rpar;](https://www.techmeme.com/260731/p3#a260731p3)
+ - [Mattress Firm Coupons: Save up to $700 |](https://www.wired.com/story/mattress-firm-coupon/)
+ - [SelectBlinds Promo Codes &amp; Coupons: Save on Custom Window Treatments](https://www.wired.com/story/select-blinds-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
