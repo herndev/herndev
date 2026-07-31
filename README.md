@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [San Lorenzo Beach incident - pilot made evasive maneuver to avoid a flock of birds](http://9gag.com/gag/ayNOv9y)
+ - 💣 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
  - ⏩ [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)
- - 👉 [Ceuta, Spain. I had to add the music. Some 9gaggers who live there?](http://9gag.com/gag/agmPj21)<!-- MEMES:END -->
+ - 👉 [Hypnotized](http://9gag.com/gag/a0e2wwB)<!-- MEMES:END -->
 
 ---
 
