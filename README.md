@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hypnotized](http://9gag.com/gag/a0e2wwB)
- - ⏩ [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)
- - 👉 [Ceuta, Spain. I had to add the music. Some 9gaggers who live there?](http://9gag.com/gag/agmPj21)<!-- MEMES:END -->
+ - 💣 [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)
+ - ⏩ [Lumberjack breaks grip strength tester](http://9gag.com/gag/a9y9Dm1)
+ - 👉 [Perfect gift for step brother....](http://9gag.com/gag/a5Q85EL)<!-- MEMES:END -->
 
 ---
 
