@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
- - ⏩ [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)
- - 👉 [Hypnotized](http://9gag.com/gag/a0e2wwB)<!-- MEMES:END -->
+ - ⏩ [That&#39;s one way to do it](http://9gag.com/gag/aND6jDA)
+ - 👉 [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)<!-- MEMES:END -->
 
 ---
 
