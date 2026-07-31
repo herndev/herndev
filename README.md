@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Counterpoint: Q2 global smartphone revenue rose 7% YoY, and average device selling price rose 17% to $400; Apple took 49% of global revenue, and Samsung 16% &lpar;Vlad Savov/Bloomberg&rpar;](https://www.techmeme.com/260731/p15#a260731p15)
- - [Google Health could soon make your medical lab results much easier to understand](https://www.androidauthority.com/google-health-medical-record-infographic-apk-teardown-3693210/)
- - [6 Best Phones With Headphone Jacks &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)<!-- TECH:END -->
+ - [Amazon will give money back to some of you as part of US tariff refund](https://www.androidauthority.com/amazon-us-tariff-refund-3693229/)
+ - [Here’s Where Samsung Makes and Tests Its Galaxy Phones Before Shipping Them to You](https://www.cnet.com/tech/mobile/where-samsung-makes-tests-galaxy-phones/)
+ - [Pixel 11 images posted by trusted leaker, and fans of vibrant phones should take a look](https://www.androidauthority.com/google-pixel-11-leaked-images-3693267/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
