@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood&#39;s prediction markets revenue surged 10x+ YoY to $156M in Q2, topping stock and crypto for the first time as speculators shift to real-world event bets &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260802/p13#a260802p13)
- - [Four US states rolled back or paused data center tax incentives, and nine others are weighing repeal measures, potentially adding 7% or more to equipment costs &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/260802/p12#a260802p12)
- - [Sources detail the troubled development of Tencent&#39;s ambitious, GTA-like game Last Sentinel, which has burned hundreds of millions of dollars over six years &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/260802/p11#a260802p11)<!-- TECH:END -->
+ - [A detailed recap of the real-world target hacks by OpenAI&#39;s and Anthropic&#39;s models, exposing failures in AI alignment training and meaningful supervision &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](https://www.techmeme.com/260803/p3#a260803p3)
+ - [An unsecured police dashboard exposed China&#39;s extensive tracking of foreigners, aggregating data from surveillance cameras, facial recognition tools, and more &lpar;New York Times&rpar;](https://www.techmeme.com/260803/p2#a260803p2)
+ - [Today’s NYT Connections Hints and Answers for Aug. 3, #1149](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-aug-3-1149/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
