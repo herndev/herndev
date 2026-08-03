@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Banks be like:](http://9gag.com/gag/a1mGBdb)
- - ⏩ [F A F O - woman sits on an excavator and refuses to move, then gets stuck in it to the laughter of everyone](http://9gag.com/gag/an7L8PB)
- - 👉 [I want his calm](http://9gag.com/gag/an7L885)<!-- MEMES:END -->
+ - 💣 [He is a dog of focus](http://9gag.com/gag/an7L0vV)
+ - ⏩ [Skills](http://9gag.com/gag/axyXQD2)
+ - 👉 [Once a diamond, always a diamond.](http://9gag.com/gag/aMV3DwR)<!-- MEMES:END -->
 
 ---
 
