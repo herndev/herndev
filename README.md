@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 QPR2 Beta 2 arrives for Pixel 6a and newer devices](https://www.androidauthority.com/android-17-qpr2-beta-2-3694096/)
- - [Apple’s Rumored Camera-Equipped AirPods Could Arrive as Early as This Year](https://www.cnet.com/tech/mobile/apples-rumored-camera-equipped-airpods-could-arrive-as-early-as-this-year/)
- - [Amazon becomes the fifth company to reach a $3T market cap, joining Nvidia, Alphabet, Microsoft, and Apple; its stock closed up 4.58% on Monday &lpar;Jeran Wittenstein/Bloomberg&rpar;](https://www.techmeme.com/260803/p35#a260803p35)<!-- TECH:END -->
+ - [Lenovo Shares Images of New Googlebook and 2-in-1 Tablet](https://www.cnet.com/uncategorized/lenovo-shares-images-of-new-googlebook-and-2-in-1-tablet/)
+ - [Did an AI Music App Just Snitch on the Song of the Summer?](https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/)
+ - [Android 17 QPR2 Beta 2 arrives for Pixel 6a and newer devices](https://www.androidauthority.com/android-17-qpr2-beta-2-3694096/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
