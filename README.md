@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished](https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale)
- - [TCL’s latest tablet with a paper-like display tempts with its budget price tag](https://www.androidauthority.com/tcl-tab-a1-plus-nxtpaper-launch-3693912/)
- - [Leaked doc: Microsoft plans to bring Xbox 360 games to PC, and the games will be able to run on the next-gen Project Helix console, &quot;Xbox PCs&quot;, and handhelds &lpar;The Verge&rpar;](https://www.techmeme.com/260803/p29#a260803p29)<!-- TECH:END -->
+ - [Google drops Pixel 11 Pro Fold teaser to hype you up for official launch](https://www.androidauthority.com/google-teases-pixel-11-pro-fold-3694007/)
+ - [Pixel 11 Pro XL joins the rest of the family with Google image leak](https://www.androidauthority.com/pixel-11-pro-xl-image-leak-3694004/)
+ - [Court docs: an FBI agent has been charged with amassing ~$1M worth of cryptocurrency, largely by making unauthorized withdrawals from a criminal target overseas &lpar;Devlin Barrett/New York Times&rpar;](https://www.techmeme.com/260803/p31#a260803p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
