@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Banks be like:](http://9gag.com/gag/a1mGBdb)
- - ⏩ [Let&#39;s see... Chaplin&#39;s head, spooky boy&#39;s hair, and... oh.... oh!](http://9gag.com/gag/a34Ve23)
- - 👉 [Why settle for the product when you can go straight to the manufacturer](http://9gag.com/gag/aW4wNr4)<!-- MEMES:END -->
+ - ⏩ [F A F O - woman sits on an excavator and refuses to move, then gets stuck in it to the laughter of everyone](http://9gag.com/gag/an7L8PB)
+ - 👉 [I want his calm](http://9gag.com/gag/an7L885)<!-- MEMES:END -->
 
 ---
 
