@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brutal reality check](http://9gag.com/gag/a2vnxwd)
- - ⏩ [It\u2019s been a while since I\u2019ve seen this](http://9gag.com/gag/apRWdvp)
- - 👉 [How to make &#39;berliners&#39; upset](http://9gag.com/gag/aZZGVgV)<!-- MEMES:END -->
+ - 💣 [Banks be like:](http://9gag.com/gag/a1mGBdb)
+ - ⏩ [Let&#39;s see... Chaplin&#39;s head, spooky boy&#39;s hair, and... oh.... oh!](http://9gag.com/gag/a34Ve23)
+ - 👉 [Why settle for the product when you can go straight to the manufacturer](http://9gag.com/gag/aW4wNr4)<!-- MEMES:END -->
 
 ---
 
