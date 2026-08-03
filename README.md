@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is a dog of focus](http://9gag.com/gag/an7L0vV)
- - ⏩ [Hard truths about spiderman lore](http://9gag.com/gag/ae9vE1O)
- - 👉 [Hey, is it me or does this place smell like up-dog?](http://9gag.com/gag/aGyWrZZ)<!-- MEMES:END -->
+ - 💣 [You go girl](http://9gag.com/gag/aGyW6vG)
+ - ⏩ [They really dont like people to see their worst side](http://9gag.com/gag/aO8XnNv)
+ - 👉 [Metalhead on therapy](http://9gag.com/gag/aqyqE4R)<!-- MEMES:END -->
 
 ---
 
