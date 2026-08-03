@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlasmaSolve bought by Apple to help make thin &amp; durable device enclosures](https://appleinsider.com/articles/26/08/03/plasmasolve-bought-by-apple-to-help-make-thin-durable-device-enclosures?utm_source=rss)
- - [June, which aims to help enterprise AI deployment by finding bottlenecks and building agents, emerges from stealth with $20M led by Marc Benioff&#39;s Time Ventures &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260803/p17#a260803p17)
- - [Google is working on a new UI for customizing Gemini Daily Brief](https://www.androidauthority.com/customize-gemini-daily-brief-ui-tweak-apk-teardown-3693789/)<!-- TECH:END -->
+ - [India proposes extending tax exemptions until 2041 for foreign companies that provide machinery to contract manufacturers, something Apple had lobbied for &lpar;Reuters&rpar;](https://www.techmeme.com/260803/p24#a260803p24)
+ - [New Pixel 11 Pro leak highlights camera upgrades and more](https://www.androidauthority.com/pixel-11-pro-leak-3693900/)
+ - [UK faces new legal fight from Apple over backdoor access to iCloud data](https://appleinsider.com/articles/26/08/03/uk-faces-new-legal-fight-from-apple-over-backdoor-access-to-icloud-data?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
