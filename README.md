@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is a dog of focus](http://9gag.com/gag/an7L0vV)
- - ⏩ [Skills](http://9gag.com/gag/axyXQD2)
- - 👉 [Once a diamond, always a diamond.](http://9gag.com/gag/aMV3DwR)<!-- MEMES:END -->
+ - 💣 [ZMPC Is A Chinese State-Owned Company.](http://9gag.com/gag/a87BvBZ)
+ - ⏩ [If bad luck was a person](http://9gag.com/gag/aMV3Dd1)
+ - 👉 [Let&#39;s see... Chaplin&#39;s head, spooky boy&#39;s hair, and... oh.... oh!](http://9gag.com/gag/a34Ve23)<!-- MEMES:END -->
 
 ---
 
