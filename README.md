@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [ZMPC Is A Chinese State-Owned Company.](http://9gag.com/gag/a87BvBZ)
- - ⏩ [Bless me, Father, for I have sinned.](http://9gag.com/gag/a9y9Zom)
- - 👉 [You go girl](http://9gag.com/gag/aGyW6vG)<!-- MEMES:END -->
+ - 💣 [Damn..](http://9gag.com/gag/ayNOZKq)
+ - ⏩ [You go girl](http://9gag.com/gag/aGyW6vG)
+ - 👉 [Bless me, Father, for I have sinned.](http://9gag.com/gag/a9y9Zom)<!-- MEMES:END -->
 
 ---
 
