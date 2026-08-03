@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A detailed recap of the real-world target hacks by OpenAI&#39;s and Anthropic&#39;s models, exposing failures in AI alignment training and meaningful supervision &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](https://www.techmeme.com/260803/p3#a260803p3)
- - [An unsecured police dashboard exposed China&#39;s extensive tracking of foreigners, aggregating data from surveillance cameras, facial recognition tools, and more &lpar;New York Times&rpar;](https://www.techmeme.com/260803/p2#a260803p2)
- - [Today’s NYT Connections Hints and Answers for Aug. 3, #1149](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-aug-3-1149/)<!-- TECH:END -->
+ - [Retroid Pocket Nova gets official Android 16-based LineageOS 23.2](https://www.androidauthority.com/retroid-pocket-nova-android-16-lineageos-3693722/)
+ - [A profile of Nanit, a maker of AI-equipped baby cameras for hyper-detailed tracking, which says it has 1M daily users and $100M+ in annual revenue &lpar;Sapna Maheshwari/New York Times&rpar;](https://www.techmeme.com/260803/p8#a260803p8)
+ - [An analysis of US police and court records finds 50+ officers were charged or accused of misusing license-plate readers like Flock&#39;s, including for stalking &lpar;Washington Post&rpar;](https://www.techmeme.com/260803/p7#a260803p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
