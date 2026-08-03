@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Team Ternus drags retired vice president of hardware engineering back into Apple](https://appleinsider.com/articles/26/08/03/team-ternus-drags-retired-vice-president-of-hardware-engineering-back-into-apple?utm_source=rss)
- - [Palantir reports Q2 revenue up 93% YoY to $1.94B, vs. $1.8B est., US commercial revenue up 149%, and raises FY 2026 revenue guidance; PLTR jumps 9%+ after hours &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260803/p33#a260803p33)
- - [End of an era: T-Mobile finally closes the door on 2G for good](https://www.androidauthority.com/t-mobile-2g-service-3693986/)<!-- TECH:END -->
+ - [Android 17 QPR2 Beta 2 arrives for Pixel 6a and newer devices](https://www.androidauthority.com/android-17-qpr2-beta-2-3694096/)
+ - [Apple’s Rumored Camera-Equipped AirPods Could Arrive as Early as This Year](https://www.cnet.com/tech/mobile/apples-rumored-camera-equipped-airpods-could-arrive-as-early-as-this-year/)
+ - [Amazon becomes the fifth company to reach a $3T market cap, joining Nvidia, Alphabet, Microsoft, and Apple; its stock closed up 4.58% on Monday &lpar;Jeran Wittenstein/Bloomberg&rpar;](https://www.techmeme.com/260803/p35#a260803p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
