@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India proposes extending tax exemptions until 2041 for foreign companies that provide machinery to contract manufacturers, something Apple had lobbied for &lpar;Reuters&rpar;](https://www.techmeme.com/260803/p24#a260803p24)
- - [New Pixel 11 Pro leak highlights camera upgrades and more](https://www.androidauthority.com/pixel-11-pro-leak-3693900/)
- - [UK faces new legal fight from Apple over backdoor access to iCloud data](https://appleinsider.com/articles/26/08/03/uk-faces-new-legal-fight-from-apple-over-backdoor-access-to-icloud-data?utm_source=rss)<!-- TECH:END -->
+ - [The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished](https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale)
+ - [TCL’s latest tablet with a paper-like display tempts with its budget price tag](https://www.androidauthority.com/tcl-tab-a1-plus-nxtpaper-launch-3693912/)
+ - [Leaked doc: Microsoft plans to bring Xbox 360 games to PC, and the games will be able to run on the next-gen Project Helix console, &quot;Xbox PCs&quot;, and handhelds &lpar;The Verge&rpar;](https://www.techmeme.com/260803/p29#a260803p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
