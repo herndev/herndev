@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Retroid Pocket Nova gets official Android 16-based LineageOS 23.2](https://www.androidauthority.com/retroid-pocket-nova-android-16-lineageos-3693722/)
- - [A profile of Nanit, a maker of AI-equipped baby cameras for hyper-detailed tracking, which says it has 1M daily users and $100M+ in annual revenue &lpar;Sapna Maheshwari/New York Times&rpar;](https://www.techmeme.com/260803/p8#a260803p8)
- - [An analysis of US police and court records finds 50+ officers were charged or accused of misusing license-plate readers like Flock&#39;s, including for stalking &lpar;Washington Post&rpar;](https://www.techmeme.com/260803/p7#a260803p7)<!-- TECH:END -->
+ - [PlasmaSolve bought by Apple to help make thin &amp; durable device enclosures](https://appleinsider.com/articles/26/08/03/plasmasolve-bought-by-apple-to-help-make-thin-durable-device-enclosures?utm_source=rss)
+ - [June, which aims to help enterprise AI deployment by finding bottlenecks and building agents, emerges from stealth with $20M led by Marc Benioff&#39;s Time Ventures &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260803/p17#a260803p17)
+ - [Google is working on a new UI for customizing Gemini Daily Brief](https://www.androidauthority.com/customize-gemini-daily-brief-ui-tweak-apk-teardown-3693789/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
