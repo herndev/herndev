@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nailed it](http://9gag.com/gag/a0e2D5z)
- - ⏩ [Hard truths about spiderman lore](http://9gag.com/gag/ae9vE1O)
- - 👉 [Racism in 2026 is saying what security and body cameras show](http://9gag.com/gag/aQz0KPz)<!-- MEMES:END -->
+ - 💣 [They really dont like people to see their worst side](http://9gag.com/gag/aO8XnNv)
+ - ⏩ [Bless me, Father, for I have sinned.](http://9gag.com/gag/a9y9Zom)
+ - 👉 [Hello to everyone watchin, we are live in Ecuador.](http://9gag.com/gag/abA98Xv)<!-- MEMES:END -->
 
 ---
 
