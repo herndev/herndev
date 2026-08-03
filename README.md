@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth](https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/)
- - [Today’s NYT Connections: Sports Edition Hints and Answers for Aug. 1, #677](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-1-677/)
- - [The FTC clears quantum computing company IonQ&#39;s $1.8B acquisition of chipmaker SkyWater after the FTC&#39;s two members disagreed at first on imposing conditions &lpar;Jody Godoy/Reuters&rpar;](https://www.techmeme.com/260731/p41#a260731p41)<!-- TECH:END -->
+ - [Robinhood&#39;s prediction markets revenue surged 10x+ YoY to $156M in Q2, topping stock and crypto for the first time as speculators shift to real-world event bets &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260802/p13#a260802p13)
+ - [Four US states rolled back or paused data center tax incentives, and nine others are weighing repeal measures, potentially adding 7% or more to equipment costs &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/260802/p12#a260802p12)
+ - [Sources detail the troubled development of Tencent&#39;s ambitious, GTA-like game Last Sentinel, which has burned hundreds of millions of dollars over six years &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/260802/p11#a260802p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
