@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn..](http://9gag.com/gag/ayNOZKq)
- - ⏩ [You go girl](http://9gag.com/gag/aGyW6vG)
- - 👉 [Bless me, Father, for I have sinned.](http://9gag.com/gag/a9y9Zom)<!-- MEMES:END -->
+ - 💣 [He is a dog of focus](http://9gag.com/gag/an7L0vV)
+ - ⏩ [Hard truths about spiderman lore](http://9gag.com/gag/ae9vE1O)
+ - 👉 [Hey, is it me or does this place smell like up-dog?](http://9gag.com/gag/aGyWrZZ)<!-- MEMES:END -->
 
 ---
 
