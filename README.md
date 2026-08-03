@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Equifax Customers Have a Month to Claim a Piece of $2.2M Class Action Settlement](https://www.cnet.com/tech/equifax-customers-claim-2m-class-action-settlement/)
  - [Lenovo Shares Images of New Googlebook and 2-in-1 Tablet](https://www.cnet.com/uncategorized/lenovo-shares-images-of-new-googlebook-and-2-in-1-tablet/)
- - [Did an AI Music App Just Snitch on the Song of the Summer?](https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/)
- - [Android 17 QPR2 Beta 2 arrives for Pixel 6a and newer devices](https://www.androidauthority.com/android-17-qpr2-beta-2-3694096/)<!-- TECH:END -->
+ - [Did an AI Music App Just Snitch on the Song of the Summer?](https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
