@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google drops Pixel 11 Pro Fold teaser to hype you up for official launch](https://www.androidauthority.com/google-teases-pixel-11-pro-fold-3694007/)
- - [Pixel 11 Pro XL joins the rest of the family with Google image leak](https://www.androidauthority.com/pixel-11-pro-xl-image-leak-3694004/)
- - [Court docs: an FBI agent has been charged with amassing ~$1M worth of cryptocurrency, largely by making unauthorized withdrawals from a criminal target overseas &lpar;Devlin Barrett/New York Times&rpar;](https://www.techmeme.com/260803/p31#a260803p31)<!-- TECH:END -->
+ - [Team Ternus drags retired vice president of hardware engineering back into Apple](https://appleinsider.com/articles/26/08/03/team-ternus-drags-retired-vice-president-of-hardware-engineering-back-into-apple?utm_source=rss)
+ - [Palantir reports Q2 revenue up 93% YoY to $1.94B, vs. $1.8B est., US commercial revenue up 149%, and raises FY 2026 revenue guidance; PLTR jumps 9%+ after hours &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260803/p33#a260803p33)
+ - [End of an era: T-Mobile finally closes the door on 2G for good](https://www.androidauthority.com/t-mobile-2g-service-3693986/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
