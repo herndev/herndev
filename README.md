@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They really dont like people to see their worst side](http://9gag.com/gag/aO8XnNv)
- - ⏩ [Bless me, Father, for I have sinned.](http://9gag.com/gag/a9y9Zom)
- - 👉 [Hello to everyone watchin, we are live in Ecuador.](http://9gag.com/gag/abA98Xv)<!-- MEMES:END -->
+ - 💣 [Damn..](http://9gag.com/gag/ayNOZKq)
+ - ⏩ [They really dont like people to see their worst side](http://9gag.com/gag/aO8XnNv)
+ - 👉 [You don\u2019t ADIOS the judge!](http://9gag.com/gag/avy3BxM)<!-- MEMES:END -->
 
 ---
 
