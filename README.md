@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now you can securely link multiple phones to one Signal account](https://www.theverge.com/tech/975407/signal-linked-devices-sync)
- - [Match reports Q2 revenue down 1% YoY to $853M, vs. $856.6M est., 13.3M paying users, vs. 13.4M est., forecasts Q3 revenue below est.; MTCH drops 8%+ after hours &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260804/p49#a260804p49)
- - [These Motorola phones are next in line for the Android 17 beta](https://www.androidauthority.com/motorola-android-17-beta-expands-razr-moto-g-3694611/)<!-- TECH:END -->
+ - [OpenAI says one of its models exploited a website after third-party AI security lab Irregular mistakenly gave it access to the internet during evaluations &lpar;Wired&rpar;](https://www.techmeme.com/260804/p53#a260804p53)
+ - [Coupang reports Q2 revenue up 4% YoY to $8.9B and an operating loss of $556M, vs. $361M est., due to a $409M data breach fine; CPNG drops 7%+ after hours &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260804/p52#a260804p52)
+ - [iPhone 20 Pro and Pro Max Might Get Bigger Screens in 2027](https://www.cnet.com/tech/iphone-20-pro-and-pro-max-might-get-bigger-screens-in-2027/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
