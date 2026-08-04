@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [TLDR: Japanese man discovers America\u2019s Thin Chud Line](http://9gag.com/gag/aXP5O99)
+ - 💣 [Welcome to South Africa your civilization has collapsed](http://9gag.com/gag/aGyWQ1K)
  - ⏩ [Cha cha cha !](http://9gag.com/gag/aQz0jBq)
- - 👉 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)<!-- MEMES:END -->
+ - 👉 [Let&#39;s heal our buddy with some toad venom](http://9gag.com/gag/aAyo9yd)<!-- MEMES:END -->
 
 ---
 
