@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hey, is it me or does this place smell like up-dog?](http://9gag.com/gag/aGyWrZZ)
- - ⏩ [Nailed it](http://9gag.com/gag/a0e2D5z)
- - 👉 [TLDR: Japanese man discovers America\u2019s Thin Chud Line](http://9gag.com/gag/aXP5O99)<!-- MEMES:END -->
+ - 💣 [They really dont like people to see their worst side](http://9gag.com/gag/aO8XnNv)
+ - ⏩ [You don\u2019t ADIOS the judge!](http://9gag.com/gag/avy3BxM)
+ - 👉 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)<!-- MEMES:END -->
 
 ---
 
