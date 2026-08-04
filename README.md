@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BMW’s in-car Spider-Man ad is villain behavior](https://www.theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad)
- - [Anthropic names Mariano-Florentino Cuéllar, an ex-California Supreme Court justice and a special assistant in Obama&#39;s WH, as its first global affairs chief &lpar;Jeffrey Dastin/Reuters&rpar;](https://www.techmeme.com/260804/p33#a260804p33)
- - [Sandisk and SK Hynix announce the High Bandwidth Flash &lpar;HBF&rpar; open specification that enables up to 512GB memory modules with 0.4 TB/s to 3.0 TB/s bandwidth &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260804/p32#a260804p32)<!-- TECH:END -->
+ - [Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store](https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov)
+ - [Mistral releases Shieldstral, a 3B multimodal safety classifier that it says matches models up to 7x its size on text safety, available under Apache 2.0 &lpar;Mistral AI Blog&rpar;](https://www.techmeme.com/260804/p36#a260804p36)
+ - [OpenAI Hits Back at Apple, Calls Lawsuit ‘Careless, Aggressive and Oddly Personal’](https://www.cnet.com/tech/services-and-software/openai-apple-lawsuit-released-texts-emails-august-2026-news/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
