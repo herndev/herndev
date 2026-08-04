@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome to South Africa your civilization has collapsed](http://9gag.com/gag/aGyWQ1K)
- - ⏩ [Cha cha cha !](http://9gag.com/gag/aQz0jBq)
- - 👉 [Let&#39;s heal our buddy with some toad venom](http://9gag.com/gag/aAyo9yd)<!-- MEMES:END -->
+ - 💣 [Let&#39;s heal our buddy with some toad venom](http://9gag.com/gag/aAyo9yd)
+ - ⏩ [Fr\u00fcher war auch schon hei\u00df, ja Mensch](http://9gag.com/gag/a1mGg4P)
+ - 👉 [Germany VS Iran 2004](http://9gag.com/gag/aoybwz0)<!-- MEMES:END -->
 
 ---
 
