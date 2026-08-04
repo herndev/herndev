@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S26 Ultra drops 25% to its best non-Prime-Day price](https://www.androidauthority.com/samsung-galaxy-s26-ultra-amazon-deal-3694465/)
- - [Huge Pixel Watch 5 leak leaves little to the imagination](https://www.androidauthority.com/google-pixel-watch-5-leak-3694404/)
- - [New Jersey files an antitrust lawsuit against Amazon, alleging it uses its dominance to impose low pay and poor conditions on independent delivery drivers &lpar;Reuters&rpar;](https://www.techmeme.com/260804/p25#a260804p25)<!-- TECH:END -->
+ - [BMW’s in-car Spider-Man ad is villain behavior](https://www.theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad)
+ - [Anthropic names Mariano-Florentino Cuéllar, an ex-California Supreme Court justice and a special assistant in Obama&#39;s WH, as its first global affairs chief &lpar;Jeffrey Dastin/Reuters&rpar;](https://www.techmeme.com/260804/p33#a260804p33)
+ - [Sandisk and SK Hynix announce the High Bandwidth Flash &lpar;HBF&rpar; open specification that enables up to 512GB memory modules with 0.4 TB/s to 3.0 TB/s bandwidth &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260804/p32#a260804p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
