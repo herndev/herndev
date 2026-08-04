@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Drive finally fixes the most tedious part of reviewing videos](https://www.androidauthority.com/google-drive-timestamped-video-comments-3694224/)
- - [Pixels could soon catch up to Galaxy phones with a new Voicecast feature](https://www.androidauthority.com/google-pixel-voicecast-apk-teardown-3694165/)
- - [Google Home’s latest fix solves a major headache for Tapo camera owners](https://www.androidauthority.com/google-home-tp-link-tapo-camera-live-feed-working-3694233/)<!-- TECH:END -->
+ - [Spotify reports Q2 revenue up 14% YoY to €4.8B, Premium Subscribers up 9% YoY to 300M, MAUs up 12% YoY to 777M, below 778M guidance, and a €545M net income &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260804/p9#a260804p9)
+ - [The Galaxy Z Fold 8 is almost perfect. I just wish it wasn’t a foldable](https://www.androidauthority.com/wish-galaxy-z-fold-8-wasnt-foldable-3693408/)
+ - [Source: Apple passed $10B in annual sales in India for the first time in FY 2026, up from $9B in 2024-25 and $6B in 2022-23, as it expands its retail footprint &lpar;Sankalp Phartiyal/Bloomberg&rpar;](https://www.techmeme.com/260804/p8#a260804p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
