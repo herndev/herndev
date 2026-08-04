@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They really dont like people to see their worst side](http://9gag.com/gag/aO8XnNv)
- - ⏩ [You don\u2019t ADIOS the judge!](http://9gag.com/gag/avy3BxM)
+ - 💣 [Wonder Generation](http://9gag.com/gag/aGyWqDX)
+ - ⏩ [ZMPC Is A Chinese State-Owned Company.](http://9gag.com/gag/a87BvBZ)
  - 👉 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)<!-- MEMES:END -->
 
 ---
