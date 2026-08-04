@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn..](http://9gag.com/gag/ayNOZKq)
- - ⏩ [They really dont like people to see their worst side](http://9gag.com/gag/aO8XnNv)
- - 👉 [You don\u2019t ADIOS the judge!](http://9gag.com/gag/avy3BxM)<!-- MEMES:END -->
+ - 💣 [Just tactics!](http://9gag.com/gag/a1mG6dw)
+ - ⏩ [Nailed it](http://9gag.com/gag/a0e2D5z)
+ - 👉 [Wonder Generation](http://9gag.com/gag/aGyWqDX)<!-- MEMES:END -->
 
 ---
 
