@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is finally closing a significant ecosystem gap with Android on Windows](https://www.androidauthority.com/apple-iphone-clipboard-access-windows-pc-android-3694110/)
- - [Apple says it &quot;briefly removed Telegram from the App Store&quot; over CSAM on Monday, restoring it after Telegram &quot;promptly removed the content and banned the user&quot; &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260803/p39#a260803p39)
- - [Telegram briefly disappeared from the Apple App Store with no explanation](https://appleinsider.com/articles/26/08/04/telegram-briefly-disappeared-from-the-apple-app-store-with-no-explanation?utm_source=rss)<!-- TECH:END -->
+ - [Google Drive finally fixes the most tedious part of reviewing videos](https://www.androidauthority.com/google-drive-timestamped-video-comments-3694224/)
+ - [Pixels could soon catch up to Galaxy phones with a new Voicecast feature](https://www.androidauthority.com/google-pixel-voicecast-apk-teardown-3694165/)
+ - [Google Home’s latest fix solves a major headache for Tapo camera owners](https://www.androidauthority.com/google-home-tp-link-tapo-camera-live-feed-working-3694233/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
