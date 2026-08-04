@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Equifax Customers Have a Month to Claim a Piece of $2.2M Class Action Settlement](https://www.cnet.com/tech/equifax-customers-claim-2m-class-action-settlement/)
- - [Lenovo Shares Images of New Googlebook and 2-in-1 Tablet](https://www.cnet.com/uncategorized/lenovo-shares-images-of-new-googlebook-and-2-in-1-tablet/)
- - [Did an AI Music App Just Snitch on the Song of the Summer?](https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/)<!-- TECH:END -->
+ - [iPhone to Windows clipboard sharing coming to iOS 28 in the EU](https://appleinsider.com/articles/26/08/04/iphone-to-windows-clipboard-sharing-coming-to-ios-28-in-the-eu?utm_source=rss)
+ - [TikTok agrees to settle three more teen social media lawsuits ahead of trial; 2,600 cases with similar claims are pending in California federal court &lpar;Dietrich Knauth/Reuters&rpar;](https://www.techmeme.com/260803/p37#a260803p37)
+ - [The studio behind Pokémon struggles to find its voice in Beast of Reincarnation](https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
