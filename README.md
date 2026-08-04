@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just tactics!](http://9gag.com/gag/a1mG6dw)
+ - 💣 [Hey, is it me or does this place smell like up-dog?](http://9gag.com/gag/aGyWrZZ)
  - ⏩ [Nailed it](http://9gag.com/gag/a0e2D5z)
- - 👉 [Wonder Generation](http://9gag.com/gag/aGyWqDX)<!-- MEMES:END -->
+ - 👉 [TLDR: Japanese man discovers America\u2019s Thin Chud Line](http://9gag.com/gag/aXP5O99)<!-- MEMES:END -->
 
 ---
 
