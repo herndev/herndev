@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wonder Generation](http://9gag.com/gag/aGyWqDX)
+ - 💣 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)
  - ⏩ [I LOVE CHEESE](http://9gag.com/gag/aO8XW2E)
- - 👉 [Upgrades](http://9gag.com/gag/aoybw2X)<!-- MEMES:END -->
+ - 👉 [The story of the bottle](http://9gag.com/gag/aryjLYK)<!-- MEMES:END -->
 
 ---
 
