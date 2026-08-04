@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple demands OpenAI injunction, discovery, testimony now to prevent more harm](https://appleinsider.com/articles/26/08/04/apple-demands-openai-injunction-discovery-testimony-now-to-prevent-more-harm?utm_source=rss)
- - [Sources: Polymarket is in early talks with prospective investors to raise ~$1B at a $20B+ valuation, up from $15B in April 2026 and $9B in October 2025 &lpar;Todd Gillespie/Bloomberg&rpar;](https://www.techmeme.com/260804/p19#a260804p19)
- - [Sources: Anthropic agreed to a $10B deal for computing capacity in Norway from Nvidia-backed AI cloud startup Volta; Volta says the deal runs for six years &lpar;Bloomberg&rpar;](https://www.techmeme.com/260804/p18#a260804p18)<!-- TECH:END -->
+ - [Samsung Galaxy S26 Ultra drops 25% to its best non-Prime-Day price](https://www.androidauthority.com/samsung-galaxy-s26-ultra-amazon-deal-3694465/)
+ - [Huge Pixel Watch 5 leak leaves little to the imagination](https://www.androidauthority.com/google-pixel-watch-5-leak-3694404/)
+ - [New Jersey files an antitrust lawsuit against Amazon, alleging it uses its dominance to impose low pay and poor conditions on independent delivery drivers &lpar;Reuters&rpar;](https://www.techmeme.com/260804/p25#a260804p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
