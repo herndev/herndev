@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s heal our buddy with some toad venom](http://9gag.com/gag/aAyo9yd)
- - ⏩ [Fr\u00fcher war auch schon hei\u00df, ja Mensch](http://9gag.com/gag/a1mGg4P)
- - 👉 [Germany VS Iran 2004](http://9gag.com/gag/aoybwz0)<!-- MEMES:END -->
+ - 💣 [My 7 year old made a princess costume. She says she&#39;s keeping it for Halloween](https://www.reddit.com/r/funny/comments/1vfr05s/my_7_year_old_made_a_princess_costume_she_says/)
+ - ⏩ [Underrated strategy for middle earth](http://9gag.com/gag/aBy7M3z)
+ - 👉 [How those chinese bluetooth speakers are made](http://9gag.com/gag/aAyo9vg)<!-- MEMES:END -->
 
 ---
 
