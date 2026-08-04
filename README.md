@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify reports Q2 revenue up 14% YoY to €4.8B, Premium Subscribers up 9% YoY to 300M, MAUs up 12% YoY to 777M, below 778M guidance, and a €545M net income &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260804/p9#a260804p9)
- - [The Galaxy Z Fold 8 is almost perfect. I just wish it wasn’t a foldable](https://www.androidauthority.com/wish-galaxy-z-fold-8-wasnt-foldable-3693408/)
- - [Source: Apple passed $10B in annual sales in India for the first time in FY 2026, up from $9B in 2024-25 and $6B in 2022-23, as it expands its retail footprint &lpar;Sankalp Phartiyal/Bloomberg&rpar;](https://www.techmeme.com/260804/p8#a260804p8)<!-- TECH:END -->
+ - [Apple demands OpenAI injunction, discovery, testimony now to prevent more harm](https://appleinsider.com/articles/26/08/04/apple-demands-openai-injunction-discovery-testimony-now-to-prevent-more-harm?utm_source=rss)
+ - [Sources: Polymarket is in early talks with prospective investors to raise ~$1B at a $20B+ valuation, up from $15B in April 2026 and $9B in October 2025 &lpar;Todd Gillespie/Bloomberg&rpar;](https://www.techmeme.com/260804/p19#a260804p19)
+ - [Sources: Anthropic agreed to a $10B deal for computing capacity in Norway from Nvidia-backed AI cloud startup Volta; Volta says the deal runs for six years &lpar;Bloomberg&rpar;](https://www.techmeme.com/260804/p18#a260804p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
