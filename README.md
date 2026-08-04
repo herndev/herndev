@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone to Windows clipboard sharing coming to iOS 28 in the EU](https://appleinsider.com/articles/26/08/04/iphone-to-windows-clipboard-sharing-coming-to-ios-28-in-the-eu?utm_source=rss)
- - [TikTok agrees to settle three more teen social media lawsuits ahead of trial; 2,600 cases with similar claims are pending in California federal court &lpar;Dietrich Knauth/Reuters&rpar;](https://www.techmeme.com/260803/p37#a260803p37)
- - [The studio behind Pokémon struggles to find its voice in Beast of Reincarnation](https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox)<!-- TECH:END -->
+ - [Apple is finally closing a significant ecosystem gap with Android on Windows](https://www.androidauthority.com/apple-iphone-clipboard-access-windows-pc-android-3694110/)
+ - [Apple says it &quot;briefly removed Telegram from the App Store&quot; over CSAM on Monday, restoring it after Telegram &quot;promptly removed the content and banned the user&quot; &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260803/p39#a260803p39)
+ - [Telegram briefly disappeared from the Apple App Store with no explanation](https://appleinsider.com/articles/26/08/04/telegram-briefly-disappeared-from-the-apple-app-store-with-no-explanation?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
