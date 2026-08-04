@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD&amp;#8217;s datacenter business is booming while gaming takes a backseat](https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen)
- - [AMD reports Q2 revenue up 50% YoY to $11.5B, vs. $11.3B est., Data Center revenue up 107%, forecasts Q3 revenue below some estimates; AMD drops 7%+ after hours &lpar;Ian King/Bloomberg&rpar;](https://www.techmeme.com/260804/p42#a260804p42)
- - [SpaceX has more neocloud revenue](https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud)<!-- TECH:END -->
+ - [Now you can securely link multiple phones to one Signal account](https://www.theverge.com/tech/975407/signal-linked-devices-sync)
+ - [Match reports Q2 revenue down 1% YoY to $853M, vs. $856.6M est., 13.3M paying users, vs. 13.4M est., forecasts Q3 revenue below est.; MTCH drops 8%+ after hours &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260804/p49#a260804p49)
+ - [These Motorola phones are next in line for the Android 17 beta](https://www.androidauthority.com/motorola-android-17-beta-expands-razr-moto-g-3694611/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
