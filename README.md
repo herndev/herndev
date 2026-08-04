@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just tactics!](http://9gag.com/gag/a1mG6dw)
+ - 💣 [Wonder Generation](http://9gag.com/gag/aGyWqDX)
  - ⏩ [I LOVE CHEESE](http://9gag.com/gag/aO8XW2E)
- - 👉 [Wave goodbye](http://9gag.com/gag/abA98eB)<!-- MEMES:END -->
+ - 👉 [Upgrades](http://9gag.com/gag/aoybw2X)<!-- MEMES:END -->
 
 ---
 
