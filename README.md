@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wonder Generation](http://9gag.com/gag/aGyWqDX)
- - ⏩ [ZMPC Is A Chinese State-Owned Company.](http://9gag.com/gag/a87BvBZ)
- - 👉 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)<!-- MEMES:END -->
+ - 💣 [Just tactics!](http://9gag.com/gag/a1mG6dw)
+ - ⏩ [I LOVE CHEESE](http://9gag.com/gag/aO8XW2E)
+ - 👉 [Wave goodbye](http://9gag.com/gag/abA98eB)<!-- MEMES:END -->
 
 ---
 
