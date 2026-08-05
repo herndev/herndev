@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well done!](http://9gag.com/gag/amoEZjX)
- - ⏩ [Classic internet moment that never gets old](http://9gag.com/gag/a2vn3Rp)
- - 👉 [Good dog](http://9gag.com/gag/aPAKEQq)<!-- MEMES:END -->
+ - 💣 [Holy Neck](http://9gag.com/gag/a4PDv4Q)
+ - ⏩ [No hard feelings man\u2026..](http://9gag.com/gag/aD2EeXG)
+ - 👉 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)<!-- MEMES:END -->
 
 ---
 
