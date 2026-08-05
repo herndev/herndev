@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fascinating Creatures](http://9gag.com/gag/a87BxxO)
- - ⏩ [Just tactics!](http://9gag.com/gag/a1mG6dw)
+ - 💣 [Upgrades](http://9gag.com/gag/aoybw2X)
+ - ⏩ [Cha cha cha !](http://9gag.com/gag/aQz0jBq)
  - 👉 [The story of the bottle](http://9gag.com/gag/aryjLYK)<!-- MEMES:END -->
 
 ---
