@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reincarnate as symbiote](http://9gag.com/gag/a87BxmV)
- - ⏩ [Miracle on 34th street](http://9gag.com/gag/aKGrMdj)
- - 👉 [Stank lee , he is here](http://9gag.com/gag/aMV3MzP)<!-- MEMES:END -->
+ - 💣 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
+ - ⏩ [Let&#39;s heal our buddy with some toad venom](http://9gag.com/gag/aAyo9yd)
+ - 👉 [Cha cha cha !](http://9gag.com/gag/aQz0jBq)<!-- MEMES:END -->
 
 ---
 
