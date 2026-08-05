@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [House panel report: US telcos connected their systems to data centers in a way that exposed them to vulnerabilities, potentially enabling Salt Typhoon hacks &lpar;Kelcee Griffis/Bloomberg&rpar;](https://www.techmeme.com/260804/p54#a260804p54)
- - [WebKit leaks in iOS &amp; macOS expose user data in spite of proxy use](https://appleinsider.com/articles/26/08/05/webkit-leaks-in-ios-macos-expose-ip-and-dns-in-spite-of-proxy-use?utm_source=rss)
- - [OpenAI says one of its models exploited a website after third-party AI security lab Irregular mistakenly gave it access to the internet during evaluations &lpar;Wired&rpar;](https://www.techmeme.com/260804/p53#a260804p53)<!-- TECH:END -->
+ - [Google finally reveals exactly when your Android phone will lose Google Assistant](https://www.androidauthority.com/google-assistant-shutdown-3694622/)
+ - [Sources: Samsung and SK Hynix are evaluating chipmaking equipment from China&#39;s AMEC for possible use at their Chinese factories, as they hedge against US curbs &lpar;Reuters&rpar;](https://www.techmeme.com/260805/p1#a260805p1)
+ - [Cloudflare announces Cloudflare Wallets for users to pay for APIs and content via stablecoins, with the ability to create virtual wallets for agentic shopping &lpar;Jeff John Roberts/Fortune&rpar;](https://www.techmeme.com/260804/p57#a260804p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
