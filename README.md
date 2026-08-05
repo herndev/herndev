@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey says fans are hyped for the Pixel 11 Pro’s defining feature, but the doubters are loud](https://www.androidauthority.com/pixel-glow-looking-forward-poll-results-3694647/)
- - [ANBERNIC’s new Game Boy Advance SP clone is here for under $60](https://www.androidauthority.com/anbernic-new-game-boy-advance-sp-clone-3694641/)
- - [Netflix quietly unlocked 4K in Chrome, but you’ll need more than an update](https://www.androidauthority.com/4k-netflix-on-chrome-browser-3694648/)<!-- TECH:END -->
+ - [Dubai-based vehicle fleet management startup Moove raised $250M led by Abu Dhabi&#39;s Mubadala at a $2.1B valuation to build autonomous vehicle &quot;nests&quot; for docking &lpar;Loni Prinsloo/Bloomberg&rpar;](https://www.techmeme.com/260805/p8#a260805p8)
+ - [Europe&#39;s established tech groups SAP, Capgemini, Sopra Steria, and OVHcloud report stronger AI demand, as enterprises shift from experimentation to deployment &lpar;Leo Marchandon/Reuters&rpar;](https://www.techmeme.com/260805/p7#a260805p7)
+ - [6 free Android games I always install on every new phone](https://www.androidauthority.com/free-android-games-always-install-3688243/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
