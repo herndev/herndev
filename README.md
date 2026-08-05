@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Small, Siri, and smart: What to expect from HomePod mini 2](https://appleinsider.com/articles/26/08/05/small-siri-and-smart-what-to-expect-from-homepod-mini-2?utm_source=rss)
- - [Deal: This 4.6-star Anker Bluetooth speaker is 31% off right now](https://www.androidauthority.com/anker-soundcore-boom-2-deal-3694948/)
- - [Apple’s selling refurbished MacBook Neos with a $100 discount](https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale)<!-- TECH:END -->
+ - [Apple&#39;s September event won&#39;t be live, no matter how much you wish it to be](https://appleinsider.com/articles/26/08/05/apples-september-event-wont-be-live-no-matter-how-much-you-wish-it-to-be?utm_source=rss)
+ - [Huawei’s new MateBook Fold is a $3,700 touchscreen laptop unlike any other](https://www.androidauthority.com/huawei-matebook-fold-3694954/)
+ - [AI Worms and Viruses Are Coming](https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
