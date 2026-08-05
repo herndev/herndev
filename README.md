@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reincarnate as symbiote](http://9gag.com/gag/a87BxmV)
- - ⏩ [I LOVE CHEESE](http://9gag.com/gag/aO8XW2E)
- - 👉 [Let&#39;s heal our buddy with some toad venom](http://9gag.com/gag/aAyo9yd)<!-- MEMES:END -->
+ - 💣 [Well done!](http://9gag.com/gag/amoEZjX)
+ - ⏩ [Classic internet moment that never gets old](http://9gag.com/gag/a2vn3Rp)
+ - 👉 [Good dog](http://9gag.com/gag/aPAKEQq)<!-- MEMES:END -->
 
 ---
 
