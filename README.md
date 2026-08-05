@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dubai-based vehicle fleet management startup Moove raised $250M led by Abu Dhabi&#39;s Mubadala at a $2.1B valuation to build autonomous vehicle &quot;nests&quot; for docking &lpar;Loni Prinsloo/Bloomberg&rpar;](https://www.techmeme.com/260805/p8#a260805p8)
- - [Europe&#39;s established tech groups SAP, Capgemini, Sopra Steria, and OVHcloud report stronger AI demand, as enterprises shift from experimentation to deployment &lpar;Leo Marchandon/Reuters&rpar;](https://www.techmeme.com/260805/p7#a260805p7)
- - [6 free Android games I always install on every new phone](https://www.androidauthority.com/free-android-games-always-install-3688243/)<!-- TECH:END -->
+ - [FanDuel parent Flutter says CEO Peter Jackson is stepping down, replaced by President Dan Taylor, and reports a lower profit outlook as its US business falters &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260805/p17#a260805p17)
+ - [The UK Competition Appeal Tribunal rejects Google&#39;s bid to block a class action alleging it overcharged businesses for search ads and abused its dominance &lpar;Upmanyu Trivedi/Bloomberg&rpar;](https://www.techmeme.com/260805/p16#a260805p16)
+ - [Sunbird is back, bringing iMessage to Android &lpar;again&rpar;](https://www.androidauthority.com/sunbird-relaunched-app-imessage-android-3694775/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
