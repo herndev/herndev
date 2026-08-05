@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My 7 year old made a princess costume. She says she&#39;s keeping it for Halloween](https://www.reddit.com/r/funny/comments/1vfr05s/my_7_year_old_made_a_princess_costume_she_says/)
- - ⏩ [Underrated strategy for middle earth](http://9gag.com/gag/aBy7M3z)
- - 👉 [How those chinese bluetooth speakers are made](http://9gag.com/gag/aAyo9vg)<!-- MEMES:END -->
+ - 💣 [Fascinating Creatures](http://9gag.com/gag/a87BxxO)
+ - ⏩ [Just tactics!](http://9gag.com/gag/a1mG6dw)
+ - 👉 [The story of the bottle](http://9gag.com/gag/aryjLYK)<!-- MEMES:END -->
 
 ---
 
