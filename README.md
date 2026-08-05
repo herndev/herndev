@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Upgrades](http://9gag.com/gag/aoybw2X)
- - ⏩ [Cha cha cha !](http://9gag.com/gag/aQz0jBq)
- - 👉 [The story of the bottle](http://9gag.com/gag/aryjLYK)<!-- MEMES:END -->
+ - 💣 [Let&#39;s heal our buddy with some toad venom](http://9gag.com/gag/aAyo9yd)
+ - ⏩ [Upgrades](http://9gag.com/gag/aoybw2X)
+ - 👉 [She has some fun](http://9gag.com/gag/aW4wXB4)<!-- MEMES:END -->
 
 ---
 
