@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google finally reveals exactly when your Android phone will lose Google Assistant](https://www.androidauthority.com/google-assistant-shutdown-3694622/)
- - [Sources: Samsung and SK Hynix are evaluating chipmaking equipment from China&#39;s AMEC for possible use at their Chinese factories, as they hedge against US curbs &lpar;Reuters&rpar;](https://www.techmeme.com/260805/p1#a260805p1)
- - [Cloudflare announces Cloudflare Wallets for users to pay for APIs and content via stablecoins, with the ability to create virtual wallets for agentic shopping &lpar;Jeff John Roberts/Fortune&rpar;](https://www.techmeme.com/260804/p57#a260804p57)<!-- TECH:END -->
+ - [Survey says fans are hyped for the Pixel 11 Pro’s defining feature, but the doubters are loud](https://www.androidauthority.com/pixel-glow-looking-forward-poll-results-3694647/)
+ - [ANBERNIC’s new Game Boy Advance SP clone is here for under $60](https://www.androidauthority.com/anbernic-new-game-boy-advance-sp-clone-3694641/)
+ - [Netflix quietly unlocked 4K in Chrome, but you’ll need more than an update](https://www.androidauthority.com/4k-netflix-on-chrome-browser-3694648/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
