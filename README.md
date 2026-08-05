@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FanDuel parent Flutter says CEO Peter Jackson is stepping down, replaced by President Dan Taylor, and reports a lower profit outlook as its US business falters &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260805/p17#a260805p17)
- - [The UK Competition Appeal Tribunal rejects Google&#39;s bid to block a class action alleging it overcharged businesses for search ads and abused its dominance &lpar;Upmanyu Trivedi/Bloomberg&rpar;](https://www.techmeme.com/260805/p16#a260805p16)
- - [Sunbird is back, bringing iMessage to Android &lpar;again&rpar;](https://www.androidauthority.com/sunbird-relaunched-app-imessage-android-3694775/)<!-- TECH:END -->
+ - [Developers in Africa are increasingly choosing Chinese open-source AI models over US models, saying they are downloadable, easier to customize, and much cheaper &lpar;New York Times&rpar;](https://www.techmeme.com/260805/p22#a260805p22)
+ - [Why you should never put a hot iPhone in the fridge or freezer](https://appleinsider.com/articles/26/08/05/why-you-should-never-put-a-hot-iphone-in-the-fridge-or-freezer?utm_source=rss)
+ - [Sunbird relaunched its iMessage app for Android users after three years away](https://www.theverge.com/tech/975563/imessage-android-sunbird)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
