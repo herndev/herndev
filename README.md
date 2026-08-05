@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Developers in Africa are increasingly choosing Chinese open-source AI models over US models, saying they are downloadable, easier to customize, and much cheaper &lpar;New York Times&rpar;](https://www.techmeme.com/260805/p22#a260805p22)
- - [Why you should never put a hot iPhone in the fridge or freezer](https://appleinsider.com/articles/26/08/05/why-you-should-never-put-a-hot-iphone-in-the-fridge-or-freezer?utm_source=rss)
- - [Sunbird relaunched its iMessage app for Android users after three years away](https://www.theverge.com/tech/975563/imessage-android-sunbird)<!-- TECH:END -->
+ - [Small, Siri, and smart: What to expect from HomePod mini 2](https://appleinsider.com/articles/26/08/05/small-siri-and-smart-what-to-expect-from-homepod-mini-2?utm_source=rss)
+ - [Deal: This 4.6-star Anker Bluetooth speaker is 31% off right now](https://www.androidauthority.com/anker-soundcore-boom-2-deal-3694948/)
+ - [Apple’s selling refurbished MacBook Neos with a $100 discount](https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
