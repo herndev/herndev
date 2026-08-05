@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s September event won&#39;t be live, no matter how much you wish it to be](https://appleinsider.com/articles/26/08/05/apples-september-event-wont-be-live-no-matter-how-much-you-wish-it-to-be?utm_source=rss)
- - [Huawei’s new MateBook Fold is a $3,700 touchscreen laptop unlike any other](https://www.androidauthority.com/huawei-matebook-fold-3694954/)
- - [AI Worms and Viruses Are Coming](https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/)<!-- TECH:END -->
+ - [Meta&#39;s Muse Code is yet another AI coding agent on macOS](https://appleinsider.com/articles/26/08/05/metas-muse-code-is-yet-another-ai-coding-agent-on-macos?utm_source=rss)
+ - [eBay reports Q2 revenue up 15% YoY to $3.13B, vs. $3.02B est., GMV up 15% to $22.4B, and forecasts Q3 revenue above estimates &lpar;Reuters&rpar;](https://www.techmeme.com/260805/p38#a260805p38)
+ - [DHS Wants Protesters’ Signal Group Chats](https://www.wired.com/story/dhs-wants-protesters-signal-group-chats/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
