@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holy Neck](http://9gag.com/gag/a4PDv4Q)
- - ⏩ [No hard feelings man\u2026..](http://9gag.com/gag/aD2EeXG)
- - 👉 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)<!-- MEMES:END -->
+ - 💣 [No hard feelings man\u2026..](http://9gag.com/gag/aD2EeXG)
+ - ⏩ [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
+ - 👉 [This clever door system](http://9gag.com/gag/aO8XLj3)<!-- MEMES:END -->
 
 ---
 
