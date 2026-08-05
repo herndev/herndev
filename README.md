@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cha cha cha !](http://9gag.com/gag/aQz0jBq)
- - ⏩ [Wave goodbye](http://9gag.com/gag/abA98eB)
- - 👉 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)<!-- MEMES:END -->
+ - 💣 [Reincarnate as symbiote](http://9gag.com/gag/a87BxmV)
+ - ⏩ [Miracle on 34th street](http://9gag.com/gag/aKGrMdj)
+ - 👉 [Stank lee , he is here](http://9gag.com/gag/aMV3MzP)<!-- MEMES:END -->
 
 ---
 
