@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No hard feelings man\u2026..](http://9gag.com/gag/aD2EeXG)
- - ⏩ [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
- - 👉 [This clever door system](http://9gag.com/gag/aO8XLj3)<!-- MEMES:END -->
+ - 💣 [Hmm](http://9gag.com/gag/aW4wr0x)
+ - ⏩ [Good dog](http://9gag.com/gag/aPAKEQq)
+ - 👉 [Cha cha cha !](http://9gag.com/gag/aQz0jBq)<!-- MEMES:END -->
 
 ---
 
