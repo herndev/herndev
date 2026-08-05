@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s Muse Code is yet another AI coding agent on macOS](https://appleinsider.com/articles/26/08/05/metas-muse-code-is-yet-another-ai-coding-agent-on-macos?utm_source=rss)
- - [eBay reports Q2 revenue up 15% YoY to $3.13B, vs. $3.02B est., GMV up 15% to $22.4B, and forecasts Q3 revenue above estimates &lpar;Reuters&rpar;](https://www.techmeme.com/260805/p38#a260805p38)
- - [DHS Wants Protesters’ Signal Group Chats](https://www.wired.com/story/dhs-wants-protesters-signal-group-chats/)<!-- TECH:END -->
+ - [DoorDash reports Q2 marketplace gross order value up 36% YoY to $33.08B, vs. $32.08B est., and forecasts Q3 marketplace GOV and adjusted EBITDA above estimates &lpar;Neil J Kanatt/Reuters&rpar;](https://www.techmeme.com/260805/p42#a260805p42)
+ - [Binance affiliates are suing RedotPay&#39;s founders for allegedly diverting 470K+ users to a competing product in a &quot;fraudulent scheme&quot;, claiming $472.8M in losses &lpar;Bloomberg&rpar;](https://www.techmeme.com/260805/p41#a260805p41)
+ - [Meta Is Challenging Claude Code and Codex With New Muse Code](https://www.cnet.com/tech/services-and-software/meta-muse-code-spark-1-2-news/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
