@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
- - ⏩ [Let&#39;s heal our buddy with some toad venom](http://9gag.com/gag/aAyo9yd)
- - 👉 [Cha cha cha !](http://9gag.com/gag/aQz0jBq)<!-- MEMES:END -->
+ - 💣 [Reincarnate as symbiote](http://9gag.com/gag/a87BxmV)
+ - ⏩ [I LOVE CHEESE](http://9gag.com/gag/aO8XW2E)
+ - 👉 [Let&#39;s heal our buddy with some toad venom](http://9gag.com/gag/aAyo9yd)<!-- MEMES:END -->
 
 ---
 
