@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash reports Q2 marketplace gross order value up 36% YoY to $33.08B, vs. $32.08B est., and forecasts Q3 marketplace GOV and adjusted EBITDA above estimates &lpar;Neil J Kanatt/Reuters&rpar;](https://www.techmeme.com/260805/p42#a260805p42)
- - [Binance affiliates are suing RedotPay&#39;s founders for allegedly diverting 470K+ users to a competing product in a &quot;fraudulent scheme&quot;, claiming $472.8M in losses &lpar;Bloomberg&rpar;](https://www.techmeme.com/260805/p41#a260805p41)
- - [Meta Is Challenging Claude Code and Codex With New Muse Code](https://www.cnet.com/tech/services-and-software/meta-muse-code-spark-1-2-news/)<!-- TECH:END -->
+ - [OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts](https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/)
+ - [A Security Pro Hacked North Korean Hackers. He Found They’d Breached Hundreds of Networks Worldwide](https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/)
+ - [Sources: Demis Hassabis had been drifting away from day-to-day duties as Google DeepMind CEO for at least a year and struggled to find satisfaction in the role &lpar;Reed Albergotti/Semafor&rpar;](https://www.techmeme.com/260805/p47#a260805p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
