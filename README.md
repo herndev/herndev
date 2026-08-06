@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cutest thing I\u2019ve seen all day](http://9gag.com/gag/an7LmAn)
- - ⏩ [Good dog](http://9gag.com/gag/aPAKEQq)
- - 👉 [I miss TopGear / GrandTour](http://9gag.com/gag/a1mG3GG)<!-- MEMES:END -->
+ - 💣 [Asking for a friend who definitely works in retail](http://9gag.com/gag/a6ZA0N2)
+ - ⏩ [Hmm](http://9gag.com/gag/aW4wr0x)
+ - 👉 [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)<!-- MEMES:END -->
 
 ---
 
