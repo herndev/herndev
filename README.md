@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok&#39;s US entity says it is closing its Nashville office, which held some of its content moderation team; filing: TikTok laid off 250 employees at the office &lpar;Emmett Lindner/New York Times&rpar;](https://www.techmeme.com/260806/p1#a260806p1)
- - [Analysis: Grokipedia appears not to have updated any articles since April 24, when it stopped processing human-suggested edits; xAI launched it in October 2025 &lpar;Lawfare&rpar;](https://www.techmeme.com/260805/p55#a260805p55)
- - [Google Home kicks off August with big app updates and a smarter Gemini for Home](https://www.androidauthority.com/google-home-update-august-5-2026-3695072/)<!-- TECH:END -->
+ - [Gemini could soon help you fix your Pixel instead of searching Settings](https://www.androidauthority.com/google-gemini-device-help-on-pixel-3695104/)
+ - [These Game Boy-like Android handhelds are coming soon at a fantastic price](https://www.androidauthority.com/mangmi-air-y-series-price-availability-3695088/)
+ - [This robot vacuum cleaner comes with dual RGB cameras and a self-cleaning mop](https://www.androidauthority.com/narwal-freo-20-robot-vacuum-3695116/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
