@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts](https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/)
- - [A Security Pro Hacked North Korean Hackers. He Found They’d Breached Hundreds of Networks Worldwide](https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/)
- - [Sources: Demis Hassabis had been drifting away from day-to-day duties as Google DeepMind CEO for at least a year and struggled to find satisfaction in the role &lpar;Reed Albergotti/Semafor&rpar;](https://www.techmeme.com/260805/p47#a260805p47)<!-- TECH:END -->
+ - [Sapiom, which helps businesses build, ship, and scale AI agents and lower token costs, raised a $35M Series A led by Dragonfly, taking its total funding to $50M &lpar;Reed Albergotti/Semafor&rpar;](https://www.techmeme.com/260805/p50#a260805p50)
+ - [Apple’s Private Relay Isn’t So Private After All, Can Leak Your IP Address](https://www.cnet.com/uncategorized/apples-private-relay-isnt-so-private-after-all-can-leak-your-ip-address/)
+ - [Abode Expands Into the New Age of Home Security With Unique Outdoor Sensors](https://www.cnet.com/home/security/abode-expands-into-the-new-age-of-home-security-with-unique-outdoor-sensors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
