@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey confirms your Fold 8 preference aligns with Samsung pre-orders](https://www.androidauthority.com/galaxy-z-fold-8-survey-results-3695311/)
- - [SpaceX and Tesla plan to initially invest $16.8B to build Terafab in Grimes County, Texas; combined demand from SpaceX and Tesla is forecast to top 1 TW &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260806/p26#a260806p26)
- - [Sources: DeepSeek has resumed its funding round, seeking $8B at a $74B valuation, after pausing talks following the leak of Liang Wenfeng&#39;s remarks to investors &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p25#a260806p25)<!-- TECH:END -->
+ - [New Mexico trial: a judge orders Meta to pay $567M and make changes for underage users after finding its platforms helped create a public nuisance harming teens &lpar;KOB 4&rpar;](https://www.techmeme.com/260806/p55#a260806p55)
+ - [Alphabet raises $25B in a bond sale; sources say the offering attracted roughly $115B of peak demand and that the company plans to issue US debt twice a year &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p54#a260806p54)
+ - [Apple continues to dominate premium smartphone market share in 2026](https://appleinsider.com/articles/26/08/06/apple-continues-to-dominate-premium-smartphone-market-share-in-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
