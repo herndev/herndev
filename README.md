@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
- - ⏩ [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
- - 👉 [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)<!-- MEMES:END -->
+ - 💣 [Fusing old coins together to reveal a stunning pattern](http://9gag.com/gag/aPAKExw)
+ - ⏩ [A video game life.. you pay your bills by completing missions.](http://9gag.com/gag/apRWO0M)
+ - 👉 [Watch and learn, ok?](http://9gag.com/gag/apRWO3n)<!-- MEMES:END -->
 
 ---
 
