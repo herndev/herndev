@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmm](http://9gag.com/gag/aW4wr0x)
- - ⏩ [Good dog](http://9gag.com/gag/aPAKEQq)
- - 👉 [Cha cha cha !](http://9gag.com/gag/aQz0jBq)<!-- MEMES:END -->
+ - 💣 [The story of the bottle](http://9gag.com/gag/aryjLYK)
+ - ⏩ [Reincarnate as symbiote](http://9gag.com/gag/a87BxmV)
+ - 👉 [Asking for a friend who definitely works in retail](http://9gag.com/gag/a6ZA0N2)<!-- MEMES:END -->
 
 ---
 
