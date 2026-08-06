@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sapiom, which helps businesses build, ship, and scale AI agents and lower token costs, raised a $35M Series A led by Dragonfly, taking its total funding to $50M &lpar;Reed Albergotti/Semafor&rpar;](https://www.techmeme.com/260805/p50#a260805p50)
- - [Apple’s Private Relay Isn’t So Private After All, Can Leak Your IP Address](https://www.cnet.com/uncategorized/apples-private-relay-isnt-so-private-after-all-can-leak-your-ip-address/)
- - [Abode Expands Into the New Age of Home Security With Unique Outdoor Sensors](https://www.cnet.com/home/security/abode-expands-into-the-new-age-of-home-security-with-unique-outdoor-sensors/)<!-- TECH:END -->
+ - [TikTok&#39;s US entity says it is closing its Nashville office, which held some of its content moderation team; filing: TikTok laid off 250 employees at the office &lpar;Emmett Lindner/New York Times&rpar;](https://www.techmeme.com/260806/p1#a260806p1)
+ - [Analysis: Grokipedia appears not to have updated any articles since April 24, when it stopped processing human-suggested edits; xAI launched it in October 2025 &lpar;Lawfare&rpar;](https://www.techmeme.com/260805/p55#a260805p55)
+ - [Google Home kicks off August with big app updates and a smarter Gemini for Home](https://www.androidauthority.com/google-home-update-august-5-2026-3695072/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
