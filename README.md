@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini could soon help you fix your Pixel instead of searching Settings](https://www.androidauthority.com/google-gemini-device-help-on-pixel-3695104/)
- - [These Game Boy-like Android handhelds are coming soon at a fantastic price](https://www.androidauthority.com/mangmi-air-y-series-price-availability-3695088/)
- - [This robot vacuum cleaner comes with dual RGB cameras and a self-cleaning mop](https://www.androidauthority.com/narwal-freo-20-robot-vacuum-3695116/)<!-- TECH:END -->
+ - [Defense tech company Hadrian raised a $1.37B Series D at an $8B valuation to expand its factories and Opus software platform, after a $260M Series C in 2025 &lpar;Colin Demarest/Axios&rpar;](https://www.techmeme.com/260806/p16#a260806p16)
+ - [Signal finally makes using multiple Android devices much easier](https://www.androidauthority.com/signal-android-device-linking-3695169/)
+ - [Forget cheap TVs, this upcoming Roku TV projector could be yours for less than $70](https://www.androidauthority.com/aurzen-roku-tv-portable-projector-preorder-deal-3695166/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
