@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking for a friend who definitely works in retail](http://9gag.com/gag/a6ZA0N2)
- - ⏩ [Hmm](http://9gag.com/gag/aW4wr0x)
- - 👉 [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)<!-- MEMES:END -->
+ - 💣 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
+ - ⏩ [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
+ - 👉 [We had a paradise building until...](http://9gag.com/gag/ajPoz51)<!-- MEMES:END -->
 
 ---
 
