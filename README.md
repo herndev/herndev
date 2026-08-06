@@ -48,7 +48,7 @@
 <!-- MEMES:START -->
  - 💣 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
  - ⏩ [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
- - 👉 [We had a paradise building until...](http://9gag.com/gag/ajPoz51)<!-- MEMES:END -->
+ - 👉 [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)<!-- MEMES:END -->
 
 ---
 
