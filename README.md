@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Defense tech company Hadrian raised a $1.37B Series D at an $8B valuation to expand its factories and Opus software platform, after a $260M Series C in 2025 &lpar;Colin Demarest/Axios&rpar;](https://www.techmeme.com/260806/p16#a260806p16)
- - [Signal finally makes using multiple Android devices much easier](https://www.androidauthority.com/signal-android-device-linking-3695169/)
- - [Forget cheap TVs, this upcoming Roku TV projector could be yours for less than $70](https://www.androidauthority.com/aurzen-roku-tv-portable-projector-preorder-deal-3695166/)<!-- TECH:END -->
+ - [Google is expanding its Gemini-powered Ask Maps feature in English to 130+ countries and adds agentic food ordering, hotel booking, and attraction searching &lpar;Jada Jones/ZDNET&rpar;](https://www.techmeme.com/260806/p20#a260806p20)
+ - [TikTok reportedly kept a key safety feature from millions ‘by design,’ with tragic results](https://www.androidauthority.com/tiktok-safety-filters-experiment-3695244/)
+ - [Google Maps just added a feature that lets you order food without leaving the app](https://www.androidauthority.com/google-maps-food-ordering-personal-intelligence-live-transit-widget-rollout-3695080/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
