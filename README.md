@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fusing old coins together to reveal a stunning pattern](http://9gag.com/gag/aPAKExw)
- - ⏩ [A video game life.. you pay your bills by completing missions.](http://9gag.com/gag/apRWO0M)
- - 👉 [Watch and learn, ok?](http://9gag.com/gag/apRWO3n)<!-- MEMES:END -->
+ - 💣 [Hmm](http://9gag.com/gag/aW4wr0x)
+ - ⏩ [Asking for a friend who definitely works in retail](http://9gag.com/gag/a6ZA0N2)
+ - 👉 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)<!-- MEMES:END -->
 
 ---
 
