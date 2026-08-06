@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is expanding its Gemini-powered Ask Maps feature in English to 130+ countries and adds agentic food ordering, hotel booking, and attraction searching &lpar;Jada Jones/ZDNET&rpar;](https://www.techmeme.com/260806/p20#a260806p20)
- - [TikTok reportedly kept a key safety feature from millions ‘by design,’ with tragic results](https://www.androidauthority.com/tiktok-safety-filters-experiment-3695244/)
- - [Google Maps just added a feature that lets you order food without leaving the app](https://www.androidauthority.com/google-maps-food-ordering-personal-intelligence-live-transit-widget-rollout-3695080/)<!-- TECH:END -->
+ - [Survey confirms your Fold 8 preference aligns with Samsung pre-orders](https://www.androidauthority.com/galaxy-z-fold-8-survey-results-3695311/)
+ - [SpaceX and Tesla plan to initially invest $16.8B to build Terafab in Grimes County, Texas; combined demand from SpaceX and Tesla is forecast to top 1 TW &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260806/p26#a260806p26)
+ - [Sources: DeepSeek has resumed its funding round, seeking $8B at a $74B valuation, after pausing talks following the leak of Liang Wenfeng&#39;s remarks to investors &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p25#a260806p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
