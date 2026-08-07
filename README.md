@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holy Neck](http://9gag.com/gag/a4PDv4Q)
- - ⏩ [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
- - 👉 [I still don\u2019t know](http://9gag.com/gag/aAyoWG0)<!-- MEMES:END -->
+ - 💣 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
+ - ⏩ [Holy Neck](http://9gag.com/gag/a4PDv4Q)
+ - 👉 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)<!-- MEMES:END -->
 
 ---
 
