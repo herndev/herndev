@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Mexico trial: a judge orders Meta to pay $567M and make changes for underage users after finding its platforms helped create a public nuisance harming teens &lpar;KOB 4&rpar;](https://www.techmeme.com/260806/p55#a260806p55)
- - [Alphabet raises $25B in a bond sale; sources say the offering attracted roughly $115B of peak demand and that the company plans to issue US debt twice a year &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p54#a260806p54)
- - [Apple continues to dominate premium smartphone market share in 2026](https://appleinsider.com/articles/26/08/06/apple-continues-to-dominate-premium-smartphone-market-share-in-2026?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI’s first AI smart speaker reportedly won’t just talk, it’ll move too](https://www.androidauthority.com/openai-smart-speaker-shape-price-features-battery-power-3695603/)
+ - [An interview with Replit CEO Amjad Masad on why &quot;vibe coding&quot; is never about coding, the SaaS apocalypse, building a &quot;self-driving company&quot;, and more &lpar;Casey Newton/Platformer&rpar;](https://www.techmeme.com/260806/p57#a260806p57)
+ - [One of China’s Most Powerful AI Models Has Also Escaped Containment](https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
