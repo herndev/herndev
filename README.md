@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take-Two reports Q1 bookings down 3% YoY to $1.39B, vs. $1.38B est., forecasts Q2 and FY 2027 bookings below est., reiterates GTA VI&#39;s November 19 launch date &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/260807/p13#a260807p13)
- - [The best classic slasher movie you&amp;#8217;ll never watch](https://www.theverge.com/entertainment/975850/teenage-sex-and-death-at-camp-miasma-production-design)
- - [Livestream shopping app Whatnot raised a $545M Series G led by Iconiq, Lightspeed, and Avra at a $20B valuation, up from an $11.5B valuation in October 2025 &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260807/p12#a260807p12)<!-- TECH:END -->
+ - [Act fast: OnePlus is gifting users a free wireless charger for its transition](https://www.androidauthority.com/oneplus-free-50w-airvooc-charger-3695903/)
+ - [Anthropic updates Claude Fable 5&#39;s biology safeguards to reduce false positives, cutting biology-related &quot;fallbacks&quot; by ~85% in testing across product surfaces &lpar;Anthropic&rpar;](https://www.techmeme.com/260807/p15#a260807p15)
+ - [Apple&#39;s Mac Pro &#39;cheese grater&#39; is 20 years old, and is the best Mac ever made](https://appleinsider.com/articles/18/08/07/apples-mac-pro-cheese-grater-is-12-years-old-and-is-the-best-mac-ever-made?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
