@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holy Neck](http://9gag.com/gag/a4PDv4Q)
- - ⏩ [A man accidentally joins the wrong forum](http://9gag.com/gag/aBy7A7O)
+ - 💣 [Zendaya&#39;s acting](http://9gag.com/gag/aD2EEZB)
+ - ⏩ [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
  - 👉 [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)<!-- MEMES:END -->
 
 ---
