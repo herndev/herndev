@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the dude I want teaching me to drive like that! What a stud!](http://9gag.com/gag/aD2EEyK)
- - ⏩ [Last minute final reminder, tomorrow 13:00 8.08.26 CZ DE PL tripoint.](http://9gag.com/gag/aQzw61r)
- - 👉 [You read this?](http://9gag.com/gag/awyRNVy)<!-- MEMES:END -->
+ - 💣 [Zendaya&#39;s acting](http://9gag.com/gag/aD2EEZB)
+ - ⏩ [Turkana Boy](http://9gag.com/gag/ayNOyE8)
+ - 👉 [You had one job](http://9gag.com/gag/a7oz4Qq)<!-- MEMES:END -->
 
 ---
 
