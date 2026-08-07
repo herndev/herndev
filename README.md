@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Last minute final reminder, tomorrow 13:00 8.08.26 CZ DE PL tripoint.](http://9gag.com/gag/aQzw61r)
- - ⏩ [How it feels to have zero tattoos in 2026](http://9gag.com/gag/aND6xOA)
- - 👉 [This is the dude I want teaching me to drive like that! What a stud!](http://9gag.com/gag/aD2EEyK)<!-- MEMES:END -->
+ - 💣 [This is the dude I want teaching me to drive like that! What a stud!](http://9gag.com/gag/aD2EEyK)
+ - ⏩ [Last minute final reminder, tomorrow 13:00 8.08.26 CZ DE PL tripoint.](http://9gag.com/gag/aQzw61r)
+ - 👉 [You read this?](http://9gag.com/gag/awyRNVy)<!-- MEMES:END -->
 
 ---
 
