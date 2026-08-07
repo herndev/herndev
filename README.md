@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check out the latest Pixel Watch apps to get a new look for their icons](https://www.androidauthority.com/pixel-watch-icons-3696097/)
- - [Sources: Cursor told staff on Thursday that SpaceX could complete its $60B acquisition as soon as next week and the Cursor brand name will likely be phased out &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260807/p26#a260807p26)
- - [Watching Roku’s AI channel is like eating from a trough](https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel)<!-- TECH:END -->
+ - [YouTube TV subscribers are starting to get access to their latest free perk](https://www.androidauthority.com/youtube-tv-espn-unlimited-3696125/)
+ - [TMTG interim CEO Kevin McGurn says the company is pulling back from a pair of Crypto.com deals to focus on its media arm and its pending merger with TAE &lpar;Sara Fischer/Axios&rpar;](https://www.techmeme.com/260807/p27#a260807p27)
+ - [Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore](https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
