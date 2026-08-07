@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All aboard the Feel Train !](http://9gag.com/gag/an7LAgn)
- - ⏩ [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
- - 👉 [I still don\u2019t know](http://9gag.com/gag/aAyoWG0)<!-- MEMES:END -->
+ - 💣 [Last minute final reminder, tomorrow 13:00 8.08.26 CZ DE PL tripoint.](http://9gag.com/gag/aQzw61r)
+ - ⏩ [How it feels to have zero tattoos in 2026](http://9gag.com/gag/aND6xOA)
+ - 👉 [This is the dude I want teaching me to drive like that! What a stud!](http://9gag.com/gag/aD2EEyK)<!-- MEMES:END -->
 
 ---
 
