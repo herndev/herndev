@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess I\u2019m not welcome\u2026](http://9gag.com/gag/aqy341Y)
- - ⏩ [New Pixar movie starts promising](http://9gag.com/gag/aGyW3zZ)
- - 👉 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)<!-- MEMES:END -->
+ - 💣 [I still don\u2019t know](http://9gag.com/gag/aAyoWG0)
+ - ⏩ [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
+ - 👉 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)<!-- MEMES:END -->
 
 ---
 
