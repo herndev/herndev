@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s AI Search seemingly leaked unreleased game content and no one knows how](https://www.androidauthority.com/google-search-ai-allegedly-leaks-game-content-3695972/)
- - [Nielsen agrees to acquire DoubleVerify and take it private in an all-cash deal with an enterprise value of around $2.15B, expected to close by Q1 2027 &lpar;Brian Steinberg/Variety&rpar;](https://www.techmeme.com/260807/p18#a260807p18)
- - [The highly rated Nothing Phone 4a Pro is down to its best price yet](https://www.androidauthority.com/nothing-phone-4a-pro-deal-3696010/)<!-- TECH:END -->
+ - [Don’t miss your chance to pick up the AirPods Max 2 at $100 off](https://www.androidauthority.com/airpods-max-2-deal-3696054/)
+ - [Singapore-based Multiplier, which acquires accounting firms to boost their growth with AI tools, raised a $35M Series B led by TheGP at a $300M valuation &lpar;Maria Armental/Wall Street Journal&rpar;](https://www.techmeme.com/260807/p19#a260807p19)
+ - [Apple memory supplier bets on AI boom lasting till 2029 with $38B investment](https://appleinsider.com/articles/26/08/07/apple-memory-supplier-bets-on-ai-boom-lasting-till-2029-with-38b-investment?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
