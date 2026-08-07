@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 5 Best Laptop Power Banks I&#39;ve Personally Tested &lpar;2026&rpar;](https://www.wired.com/story/best-laptop-power-banks/)
- - [ARMSX3 is here: PS3 emulation on Android just got more exciting](https://www.androidauthority.com/armsx3-ps3-emulator-android-3695792/)
- - [Paying for AI, freezing iPhones, &amp; avoiding scams on the AppleInsider Podcast](https://appleinsider.com/articles/26/08/07/paying-for-ai-freezing-iphones-avoiding-scams-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [Take-Two reports Q1 bookings down 3% YoY to $1.39B, vs. $1.38B est., forecasts Q2 and FY 2027 bookings below est., reiterates GTA VI&#39;s November 19 launch date &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/260807/p13#a260807p13)
+ - [The best classic slasher movie you&amp;#8217;ll never watch](https://www.theverge.com/entertainment/975850/teenage-sex-and-death-at-camp-miasma-production-design)
+ - [Livestream shopping app Whatnot raised a $545M Series G led by Iconiq, Lightspeed, and Avra at a $20B valuation, up from an $11.5B valuation in October 2025 &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260807/p12#a260807p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
