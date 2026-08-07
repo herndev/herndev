@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Act fast: OnePlus is gifting users a free wireless charger for its transition](https://www.androidauthority.com/oneplus-free-50w-airvooc-charger-3695903/)
- - [Anthropic updates Claude Fable 5&#39;s biology safeguards to reduce false positives, cutting biology-related &quot;fallbacks&quot; by ~85% in testing across product surfaces &lpar;Anthropic&rpar;](https://www.techmeme.com/260807/p15#a260807p15)
- - [Apple&#39;s Mac Pro &#39;cheese grater&#39; is 20 years old, and is the best Mac ever made](https://appleinsider.com/articles/18/08/07/apples-mac-pro-cheese-grater-is-12-years-old-and-is-the-best-mac-ever-made?utm_source=rss)<!-- TECH:END -->
+ - [Google’s AI Search seemingly leaked unreleased game content and no one knows how](https://www.androidauthority.com/google-search-ai-allegedly-leaks-game-content-3695972/)
+ - [Nielsen agrees to acquire DoubleVerify and take it private in an all-cash deal with an enterprise value of around $2.15B, expected to close by Q1 2027 &lpar;Brian Steinberg/Variety&rpar;](https://www.techmeme.com/260807/p18#a260807p18)
+ - [The highly rated Nothing Phone 4a Pro is down to its best price yet](https://www.androidauthority.com/nothing-phone-4a-pro-deal-3696010/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
