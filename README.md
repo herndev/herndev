@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to end support for Manifest V2 extensions in Edge starting this month, following Google Chrome, and for enterprise users in early 2027 &lpar;Stevie Bonifield/The Verge&rpar;](https://www.techmeme.com/260807/p24#a260807p24)
- - [Google throws shade at ugly smartwatches in Pixel Watch 5 teaser](https://www.androidauthority.com/google-pixel-watch-5-teaser-3696073/)
- - [The only instant cameras worth your money](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
+ - [Sources: Cursor told staff on Thursday that SpaceX could complete its $60B acquisition as soon as next week and the Cursor brand name will likely be phased out &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260807/p26#a260807p26)
+ - [Watching Roku’s AI channel is like eating from a trough](https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel)
+ - [The Chinese Philosopher Americans Can’t Stop Fighting About](https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
