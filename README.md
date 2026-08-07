@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zendaya&#39;s acting](http://9gag.com/gag/aD2EEZB)
- - ⏩ [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
- - 👉 [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)<!-- MEMES:END -->
+ - 💣 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
+ - ⏩ [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)
+ - 👉 [Race war not class war, amirite?](http://9gag.com/gag/a4PDM2y)<!-- MEMES:END -->
 
 ---
 
