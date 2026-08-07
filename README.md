@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube TV subscribers are starting to get access to their latest free perk](https://www.androidauthority.com/youtube-tv-espn-unlimited-3696125/)
- - [TMTG interim CEO Kevin McGurn says the company is pulling back from a pair of Crypto.com deals to focus on its media arm and its pending merger with TAE &lpar;Sara Fischer/Axios&rpar;](https://www.techmeme.com/260807/p27#a260807p27)
- - [Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore](https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo)<!-- TECH:END -->
+ - [The gaming site sponsored by Walmart lays off its editorial staff](https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs)
+ - [Sources: data center operator Switch filed confidentially for a US IPO, and a listing could take place as soon as November; Ben Horowitz is joining its board &lpar;Bailey Lipschultz/Bloomberg&rpar;](https://www.techmeme.com/260807/p29#a260807p29)
+ - [Retailers are updating their websites to rank highly in chatbot results, while making sure purchases are done on their own sites to collect customer data &lpar;Arriana McLymore/Reuters&rpar;](https://www.techmeme.com/260807/p28#a260807p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
