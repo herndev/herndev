@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
- - ⏩ [Holy Neck](http://9gag.com/gag/a4PDv4Q)
- - 👉 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)<!-- MEMES:END -->
+ - 💣 [Zendaya&#39;s acting](http://9gag.com/gag/aD2EEZB)
+ - ⏩ [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
+ - 👉 [What a pig!!!](http://9gag.com/gag/a6ZAW4m)<!-- MEMES:END -->
 
 ---
 
