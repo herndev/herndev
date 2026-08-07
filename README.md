@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple RAM supplier makes $38B bet on AI boom lasting until 2029](https://appleinsider.com/articles/26/08/07/apple-memory-supplier-bets-on-ai-boom-lasting-till-2029-with-38b-investment?utm_source=rss)
- - [Sources: legal AI startup Harvey is in talks to raise $500M+ at a $15.5B valuation, up from $11B in March, and is generating $350M+ in annualized revenue &lpar;The Information&rpar;](https://www.techmeme.com/260807/p22#a260807p22)
- - [When will Apple have its iPhone 18 Pro release event?](https://appleinsider.com/articles/26/08/07/when-to-expect-apples-iphone-18-pro-launch?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft plans to end support for Manifest V2 extensions in Edge starting this month, following Google Chrome, and for enterprise users in early 2027 &lpar;Stevie Bonifield/The Verge&rpar;](https://www.techmeme.com/260807/p24#a260807p24)
+ - [Google throws shade at ugly smartwatches in Pixel Watch 5 teaser](https://www.androidauthority.com/google-pixel-watch-5-teaser-3696073/)
+ - [The only instant cameras worth your money](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
