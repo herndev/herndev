@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US Commerce Department&#39;s BIS is reviewing how Chinese AI companies access Nvidia chips overseas, including by legally renting foreign data centers &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/260807/p10#a260807p10)
- - [5 smartwatches you should buy instead of the Pebble Time 2](https://www.androidauthority.com/pebble-time-2-alternatives-3691179/)
- - [Ranking the Best Smart Glasses: Meta, Viture, &amp; More &lpar;2026&rpar;](https://www.wired.com/gallery/best-smart-glasses/)<!-- TECH:END -->
+ - [The 5 Best Laptop Power Banks I&#39;ve Personally Tested &lpar;2026&rpar;](https://www.wired.com/story/best-laptop-power-banks/)
+ - [ARMSX3 is here: PS3 emulation on Android just got more exciting](https://www.androidauthority.com/armsx3-ps3-emulator-android-3695792/)
+ - [Paying for AI, freezing iPhones, &amp; avoiding scams on the AppleInsider Podcast](https://appleinsider.com/articles/26/08/07/paying-for-ai-freezing-iphones-avoiding-scams-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
