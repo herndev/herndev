@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ratio vs. Simply Good: Which Plastic-Free Coffee Maker Is Best?](https://www.wired.com/story/plastic-free-coffee-makers/)
- - [Why I stopped using Google Keyboard and went all-in on FUTO Keyboard](https://www.androidauthority.com/replace-gboard-with-futo-keyboard-3693170/)
- - [Still simple, still powerful, BBEdit is a Mac app legend](https://appleinsider.com/articles/26/08/07/still-simple-still-powerful-bbedit-is-a-mac-app-legend?utm_source=rss)<!-- TECH:END -->
+ - [Sources: the US Commerce Department&#39;s BIS is reviewing how Chinese AI companies access Nvidia chips overseas, including by legally renting foreign data centers &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/260807/p10#a260807p10)
+ - [5 smartwatches you should buy instead of the Pebble Time 2](https://www.androidauthority.com/pebble-time-2-alternatives-3691179/)
+ - [Ranking the Best Smart Glasses: Meta, Viture, &amp; More &lpar;2026&rpar;](https://www.wired.com/gallery/best-smart-glasses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
