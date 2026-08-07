@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t miss your chance to pick up the AirPods Max 2 at $100 off](https://www.androidauthority.com/airpods-max-2-deal-3696054/)
- - [Singapore-based Multiplier, which acquires accounting firms to boost their growth with AI tools, raised a $35M Series B led by TheGP at a $300M valuation &lpar;Maria Armental/Wall Street Journal&rpar;](https://www.techmeme.com/260807/p19#a260807p19)
- - [Apple memory supplier bets on AI boom lasting till 2029 with $38B investment](https://appleinsider.com/articles/26/08/07/apple-memory-supplier-bets-on-ai-boom-lasting-till-2029-with-38b-investment?utm_source=rss)<!-- TECH:END -->
+ - [Apple RAM supplier makes $38B bet on AI boom lasting until 2029](https://appleinsider.com/articles/26/08/07/apple-memory-supplier-bets-on-ai-boom-lasting-till-2029-with-38b-investment?utm_source=rss)
+ - [Sources: legal AI startup Harvey is in talks to raise $500M+ at a $15.5B valuation, up from $11B in March, and is generating $350M+ in annualized revenue &lpar;The Information&rpar;](https://www.techmeme.com/260807/p22#a260807p22)
+ - [When will Apple have its iPhone 18 Pro release event?](https://appleinsider.com/articles/26/08/07/when-to-expect-apples-iphone-18-pro-launch?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
