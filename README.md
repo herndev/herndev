@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sydney-based AI data center company Firmus raised $2B in funding from Coatue, Nvidia, and others at a $10.5B post-money valuation, up from $5.5B in April &lpar;Nichiket Sunil/Reuters&rpar;](https://www.techmeme.com/260806/p61#a260806p61)
- - [Naïve, which provides infrastructure for AI agents to handle most business operations, raised a $28.5M Series A led by Nexus, bringing its total funding to $32M &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260806/p60#a260806p60)
- - [Sources: Alibaba plans to ask heavy commercial users of its next Qwen open model for a share of revenue; Moonshot&#39;s Kimi K3 requires up to a 30% revenue share &lpar;Reuters&rpar;](https://www.techmeme.com/260806/p59#a260806p59)<!-- TECH:END -->
+ - [Sources: ByteDance is pretraining an AI model with up to 10T parameters, roughly 3x larger than Kimi K3 and larger than the 8T estimate for Anthropic&#39;s Mythos 5 &lpar;Financial Times&rpar;](https://www.techmeme.com/260807/p2#a260807p2)
+ - [B&amp;H Photo Promo Codes and Deals This August 2026](https://www.wired.com/story/bh-photo-coupon/)
+ - [Google Workspace Promo Codes: 14% Off for August 2026](https://www.wired.com/story/google-workspace-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
