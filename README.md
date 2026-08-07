@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
+ - 💣 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
  - ⏩ [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)
- - 👉 [Race war not class war, amirite?](http://9gag.com/gag/a4PDM2y)<!-- MEMES:END -->
+ - 👉 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)<!-- MEMES:END -->
 
 ---
 
