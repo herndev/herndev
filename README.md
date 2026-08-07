@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zendaya&#39;s acting](http://9gag.com/gag/aD2EEZB)
- - ⏩ [Turkana Boy](http://9gag.com/gag/ayNOyE8)
- - 👉 [You had one job](http://9gag.com/gag/a7oz4Qq)<!-- MEMES:END -->
+ - 💣 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
+ - ⏩ [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
+ - 👉 [10000 Cable channels for free &lpar;with adds though&rpar;](http://9gag.com/gag/aGy3KyX)<!-- MEMES:END -->
 
 ---
 
