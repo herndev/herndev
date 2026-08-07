@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
- - ⏩ [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
- - 👉 [10000 Cable channels for free &lpar;with adds though&rpar;](http://9gag.com/gag/aGy3KyX)<!-- MEMES:END -->
+ - 💣 [Guess I\u2019m not welcome\u2026](http://9gag.com/gag/aqy341Y)
+ - ⏩ [New Pixar movie starts promising](http://9gag.com/gag/aGyW3zZ)
+ - 👉 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)<!-- MEMES:END -->
 
 ---
 
