@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance is pretraining an AI model with up to 10T parameters, roughly 3x larger than Kimi K3 and larger than the 8T estimate for Anthropic&#39;s Mythos 5 &lpar;Financial Times&rpar;](https://www.techmeme.com/260807/p2#a260807p2)
- - [B&amp;H Photo Promo Codes and Deals This August 2026](https://www.wired.com/story/bh-photo-coupon/)
- - [Google Workspace Promo Codes: 14% Off for August 2026](https://www.wired.com/story/google-workspace-promo-code/)<!-- TECH:END -->
+ - [POCO Carnival 2026: Big discounts on the POCO F8 Ultra, F8 Pro, and more](https://www.androidauthority.com/poco-carnival-2026-3694764/)
+ - [Google is rethinking how Quick Settings tiles behave on locked phones &lpar;again&rpar;](https://www.androidauthority.com/android-quick-settings-lock-screen-change-apk-teardown-3695702/)
+ - [Google built a portable AI translator that works offline, and you can build one too](https://www.androidauthority.com/google-offline-ai-translator-gemma-4-3695674/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
