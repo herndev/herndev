@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
- - ⏩ [Zendaya&#39;s acting](http://9gag.com/gag/aD2EEZB)
- - 👉 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)<!-- MEMES:END -->
+ - 💣 [All aboard the Feel Train !](http://9gag.com/gag/an7LAgn)
+ - ⏩ [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
+ - 👉 [I still don\u2019t know](http://9gag.com/gag/aAyoWG0)<!-- MEMES:END -->
 
 ---
 
