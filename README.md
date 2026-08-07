@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [POCO Carnival 2026: Big discounts on the POCO F8 Ultra, F8 Pro, and more](https://www.androidauthority.com/poco-carnival-2026-3694764/)
- - [Google is rethinking how Quick Settings tiles behave on locked phones &lpar;again&rpar;](https://www.androidauthority.com/android-quick-settings-lock-screen-change-apk-teardown-3695702/)
- - [Google built a portable AI translator that works offline, and you can build one too](https://www.androidauthority.com/google-offline-ai-translator-gemma-4-3695674/)<!-- TECH:END -->
+ - [Ratio vs. Simply Good: Which Plastic-Free Coffee Maker Is Best?](https://www.wired.com/story/plastic-free-coffee-makers/)
+ - [Why I stopped using Google Keyboard and went all-in on FUTO Keyboard](https://www.androidauthority.com/replace-gboard-with-futo-keyboard-3693170/)
+ - [Still simple, still powerful, BBEdit is a Mac app legend](https://appleinsider.com/articles/26/08/07/still-simple-still-powerful-bbedit-is-a-mac-app-legend?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
