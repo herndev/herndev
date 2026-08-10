@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)
- - ⏩ [Phones](http://9gag.com/gag/aGy3Vpn)
- - 👉 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)<!-- MEMES:END -->
+ - 💣 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)
+ - ⏩ [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
+ - 👉 [Stop it Velma](http://9gag.com/gag/aByqKGP)<!-- MEMES:END -->
 
 ---
 
