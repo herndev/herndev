@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New in iOS 27 beta 5: &#39;Before Searching&#39; settings, updated app icons, more](https://appleinsider.com/articles/26/08/10/new-in-ios-27-beta-5-before-searching-settings-updated-app-icons-more?utm_source=rss)
- - [Gemini’s Neural Expressive overlay is starting to show up on more and more watches](https://www.androidauthority.com/gemini-neural-expressive-wear-os-3696669/)
- - [Bluesky now lets you hide reposts from that annoying person you follow](https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads)<!-- TECH:END -->
+ - [Filing: Sergey Brin donated an additional $20M to Building a Better California, which fights California&#39;s wealth tax, bringing his total contributions to $102M &lpar;Alicia Clanton/Bloomberg&rpar;](https://www.techmeme.com/260810/p38#a260810p38)
+ - [Anthropic details an unreleased Claude model&#39;s attempt to solve the Riemann hypothesis; it didn&#39;t solve it but &quot;unexpectedly&quot; made strides on a related problem &lpar;Anthropic&rpar;](https://www.techmeme.com/260810/p37#a260810p37)
+ - [The Ninth Circuit dismisses Meta&#39;s bid to pause a landmark trial by state AGs alleging its products addict children and have caused a youth mental health crisis &lpar;Isaiah Poritz/Bloomberg&rpar;](https://www.techmeme.com/260810/p36#a260810p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
