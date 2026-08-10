@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: as Spotify tests a skip ahead button that lets some Premium users skip publisher-sold podcast ads and filler content, audio networks raise concerns &lpar;Max Tani/Semafor&rpar;](https://www.techmeme.com/260809/p14#a260809p14)
- - [Sources: Chinese regulators have told banks to back tech companies, but lenders still prefer stable cash flows and profitability over loss-making tech startups &lpar;Bloomberg&rpar;](https://www.techmeme.com/260809/p13#a260809p13)
- - [Moore Threads reports H1 revenue up 147% YoY to ~$258M, a net loss of $1.72M, says it plans a Hong Kong listing, after its stock surged 420%+ since Shanghai IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260809/p12#a260809p12)<!-- TECH:END -->
+ - [Chinese AI labs account for nine of Artificial Analysis&#39; top 10 text-to-video models, gaining global adoption and potentially an edge in building world models &lpar;Catherine Thorbecke/Bloomberg&rpar;](https://www.techmeme.com/260810/p1#a260810p1)
+ - [Sources: the UK Royal Navy removed internet connectivity from its drones&#39; cameras, after finding they sent &quot;heartbeat communications&quot; to an IP address in China &lpar;Richard Holmes/Telegraph&rpar;](https://www.techmeme.com/260809/p16#a260809p16)
+ - [The Pixel Watch 5 is about to get the Stephen Curry treatment](https://www.androidauthority.com/google-pixel-watch-5-stephen-curry-edition-3696183/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
