@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic makes Claude Sonnet 5&#39;s introductory pricing permanent at $2/1M input tokens and $10/1M output tokens, canceling a planned September 1 increase &lpar;Claude/@claudeai&rpar;](https://www.techmeme.com/260810/p42#a260810p42)
  - [Mark Zuckerberg doesn’t understand how to live](https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision)
- - [Got an ASUS laptop? You might be sitting on a free Google AI Pro or Plus subscription](https://www.androidauthority.com/asus-google-ai-promotion-3696731/)
- - [With his long essay, Zuckerberg returns to his &quot;open&quot; AI arguments at an opportune time, as Chinese open models narrow the performance gap at much lower cost &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260810/p41#a260810p41)<!-- TECH:END -->
+ - [Got an ASUS laptop? You might be sitting on a free Google AI Pro or Plus subscription](https://www.androidauthority.com/asus-google-ai-promotion-3696731/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
