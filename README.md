@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stop it Velma](http://9gag.com/gag/aByqKGP)
+ - 💣 [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
  - ⏩ [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
- - 👉 [Women when they see a more beautiful woman](http://9gag.com/gag/azxNbWj)<!-- MEMES:END -->
+ - 👉 [Stop it Velma](http://9gag.com/gag/aByqKGP)<!-- MEMES:END -->
 
 ---
 
