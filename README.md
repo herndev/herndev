@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker&amp;#8217;s travel charger works in almost any country and is down to $20](https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale)
- - [Sources: OpenAI bought back ~$7B in shares from current and former employees in a tender offer valuing it at $852B, unchanged from its most recent funding round &lpar;Bloomberg&rpar;](https://www.techmeme.com/260810/p40#a260810p40)
- - [New in iOS 27 beta 5: &#39;Before Searching&#39; settings, updated app icons, more](https://appleinsider.com/articles/26/08/10/new-in-ios-27-beta-5-before-searching-settings-updated-app-icons-more?utm_source=rss)<!-- TECH:END -->
+ - [Mark Zuckerberg doesn’t understand how to live](https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision)
+ - [Got an ASUS laptop? You might be sitting on a free Google AI Pro or Plus subscription](https://www.androidauthority.com/asus-google-ai-promotion-3696731/)
+ - [With his long essay, Zuckerberg returns to his &quot;open&quot; AI arguments at an opportune time, as Chinese open models narrow the performance gap at much lower cost &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260810/p41#a260810p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
