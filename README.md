@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What did we learn today?](http://9gag.com/gag/aD2pwVK)
- - ⏩ [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)
- - 👉 [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)<!-- MEMES:END -->
+ - 💣 [Good boi is smart and fast too](http://9gag.com/gag/aVvnQYM)
+ - ⏩ [From the archives, old video but still funny..](http://9gag.com/gag/axyx21n)
+ - 👉 [Some good stuff in here](http://9gag.com/gag/a5QmdQV)<!-- MEMES:END -->
 
 ---
 
