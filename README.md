@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dark Cherry iPhone 18 Pro is still a rumor mill favorite](https://appleinsider.com/articles/26/08/10/dark-cherry-iphone-18-pro-is-still-a-rumor-mill-favorite?utm_source=rss)
- - [Duolingo is finally letting you undo this frustrating mistake](https://www.androidauthority.com/duolingo-undo-skip-speaking-button-3696590/)
- - [Sources: AI cloud computing provider Lambda is selling a $917M leveraged loan to finance the purchase of GPUs as part of a contract with Nvidia &lpar;Bloomberg&rpar;](https://www.techmeme.com/260810/p28#a260810p28)<!-- TECH:END -->
+ - [You now have two fresh options for Nintendo DS emulation](https://www.androidauthority.com/nintendo-ds-emulation-watermelonds-seedlessds-3696622/)
+ - [A US appeals court allows ~2,400 federal lawsuits against social media companies to proceed over claims their products were designed to addict young users &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260810/p30#a260810p30)
+ - [Sources: officials say OpenAI risks its White House relationship by hiring Dean Ball, who has criticized Trump&#39;s AI strategy after leaving the administration &lpar;Thomas Barrabi/New York Post&rpar;](https://www.techmeme.com/260810/p29#a260810p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
