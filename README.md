@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first rival Android app store just arrived in the US Play Store](https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games)
- - [The AI Slop Backlash Is Actually Having an Impact](https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/)
- - [South Korea plans to launch a ~$3.5B chip fund for promising materials, parts, equipment, and fabless companies, and speed the development of domestic chip hubs &lpar;Reuters&rpar;](https://www.techmeme.com/260810/p19#a260810p19)<!-- TECH:END -->
+ - [New Galaxy S26 FE leak gives away pretty much all of its specs](https://www.androidauthority.com/samsung-galaxy-s26-fe-specs-leak-3696416/)
+ - [Anker SOLIX says most portable power stations waste up to 30% of their stored energy](https://www.androidauthority.com/anker-solix-optisave-3696415/)
+ - [Intel announces a $15B common stock offering, with proceeds going to general corporate purposes like &quot;maintaining a strong balance sheet&quot;; INTC falls 3%+ &lpar;Sarah Frier/Bloomberg&rpar;](https://www.techmeme.com/260810/p20#a260810p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
