@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Play Store’s first experimental ‘Labs’ feature lets you ‘expand everything’](https://www.androidauthority.com/google-play-store-labs-expand-everything-3696193/)
- - [Space Agencies Are Trying to Keep Astronauts From Losing Their Sight](https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/)
- - [A look at London&#39;s King&#39;s Cross, which transformed from a seedy area into an AI hub after DeepMind moved in in 2016, now home to OpenAI, Meta, Wayve, and others &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260810/p2#a260810p2)<!-- TECH:END -->
+ - [9 Google Pixel announcements every fan needs to watch for on August 12](https://www.androidauthority.com/big-google-pixel-announcements-august-12-2026-3694960/)
+ - [Google could kill this useful and free Gemini feature in favor of a paid one](https://www.androidauthority.com/google-retire-gemini-gems-leak-3696240/)
+ - [A profile of Founders Pledge, which has recorded $4B in pledges from founders so far in 2026, as the AI industry now accounts for a third of its lifetime total &lpar;Joel Khalili/Wired&rpar;](https://www.techmeme.com/260810/p5#a260810p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
