@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is fixing the upside-down Sheets icon](https://www.androidauthority.com/google-sheets-icon-flipped-3696643/)
- - [Fifth developer betas of iOS 27, macOS 27 land as testing continues](https://appleinsider.com/articles/26/08/10/fifth-developer-betas-of-ios-27-macos-27-land-as-testing-continues?utm_source=rss)
- - [OpenAI unveils two Daybreak tiers: Daybreak Blue, which provides access to frontier models, and Daybreak Red, which offers purpose-trained cybersecurity models &lpar;OpenAI&rpar;](https://www.techmeme.com/260810/p33#a260810p33)<!-- TECH:END -->
+ - [Kuo pours water on rumor of $1B Apple chip stockpile at TSMC](https://appleinsider.com/articles/26/08/10/kuo-pours-water-on-rumor-of-1b-apple-chip-stockpile-at-tsmc?utm_source=rss)
+ - [Apple preps beta security updates for iOS 18, iOS 26, and macOS 26](https://appleinsider.com/articles/26/08/10/apple-preps-beta-security-updates-for-ios-18-ios-26-and-macos-26?utm_source=rss)
+ - [Google is turning things up to 11 in latest Pixel 11 Pro teaser](https://www.androidauthority.com/pixel-11-pro-teaser-3696656/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
