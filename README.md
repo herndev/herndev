@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
- - ⏩ [Phones](http://9gag.com/gag/aGy3Vpn)
- - 👉 [She is crying, but also know nobody can prove anything...](http://9gag.com/gag/aZZAWE6)<!-- MEMES:END -->
+ - 💣 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
+ - ⏩ [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
+ - 👉 [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)<!-- MEMES:END -->
 
 ---
 
