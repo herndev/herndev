@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Galaxy S26 FE leak gives away pretty much all of its specs](https://www.androidauthority.com/samsung-galaxy-s26-fe-specs-leak-3696416/)
- - [Anker SOLIX says most portable power stations waste up to 30% of their stored energy](https://www.androidauthority.com/anker-solix-optisave-3696415/)
- - [Intel announces a $15B common stock offering, with proceeds going to general corporate purposes like &quot;maintaining a strong balance sheet&quot;; INTC falls 3%+ &lpar;Sarah Frier/Bloomberg&rpar;](https://www.techmeme.com/260810/p20#a260810p20)<!-- TECH:END -->
+ - [Bose CEO Lila Snyder on the fight for high-quality audio](https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio)
+ - [Boeing is selling its air taxi startups to Archer Aviation](https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi)
+ - [AI agents are moving online course cheating beyond chatbot-written essays via commands like &quot;log in and complete my quiz&quot;; major chatbots did not refuse prompts &lpar;New York Times&rpar;](https://www.techmeme.com/260810/p25#a260810p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
