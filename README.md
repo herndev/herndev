@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Kalshi CEO Tarek Mansour on his vision to &quot;financialize everything&quot;, sports betting, Kalshi&#39;s &quot;philosophical misalignment&quot; with Polymarket, and more &lpar;Jordyn Holman/New York Times&rpar;](https://www.techmeme.com/260810/p15#a260810p15)
- - [The UK&#39;s Report Remove service receives 420 reports from under-18s of explicit images digitally faked or manipulated to depict them in H1, exceeding 2025&#39;s 397 &lpar;Dan Milmo/The Guardian&rpar;](https://www.techmeme.com/260810/p14#a260810p14)
- - [How to Choose a Camera &lpar;2026&rpar;: Sensors, Megapixels, Terms](https://www.wired.com/story/how-to-choose-a-camera/)<!-- TECH:END -->
+ - [The first rival Android app store just arrived in the US Play Store](https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games)
+ - [The AI Slop Backlash Is Actually Having an Impact](https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/)
+ - [South Korea plans to launch a ~$3.5B chip fund for promising materials, parts, equipment, and fabless companies, and speed the development of domestic chip hubs &lpar;Reuters&rpar;](https://www.techmeme.com/260810/p19#a260810p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
