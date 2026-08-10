@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You now have two fresh options for Nintendo DS emulation](https://www.androidauthority.com/nintendo-ds-emulation-watermelonds-seedlessds-3696622/)
- - [A US appeals court allows ~2,400 federal lawsuits against social media companies to proceed over claims their products were designed to addict young users &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260810/p30#a260810p30)
- - [Sources: officials say OpenAI risks its White House relationship by hiring Dean Ball, who has criticized Trump&#39;s AI strategy after leaving the administration &lpar;Thomas Barrabi/New York Post&rpar;](https://www.techmeme.com/260810/p29#a260810p29)<!-- TECH:END -->
+ - [Google is fixing the upside-down Sheets icon](https://www.androidauthority.com/google-sheets-icon-flipped-3696643/)
+ - [Fifth developer betas of iOS 27, macOS 27 land as testing continues](https://appleinsider.com/articles/26/08/10/fifth-developer-betas-of-ios-27-macos-27-land-as-testing-continues?utm_source=rss)
+ - [OpenAI unveils two Daybreak tiers: Daybreak Blue, which provides access to frontier models, and Daybreak Red, which offers purpose-trained cybersecurity models &lpar;OpenAI&rpar;](https://www.techmeme.com/260810/p33#a260810p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
