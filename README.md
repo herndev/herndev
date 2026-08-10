@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bose CEO Lila Snyder on the fight for high-quality audio](https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio)
- - [Boeing is selling its air taxi startups to Archer Aviation](https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi)
- - [AI agents are moving online course cheating beyond chatbot-written essays via commands like &quot;log in and complete my quiz&quot;; major chatbots did not refuse prompts &lpar;New York Times&rpar;](https://www.techmeme.com/260810/p25#a260810p25)<!-- TECH:END -->
+ - [Dark Cherry iPhone 18 Pro is still a rumor mill favorite](https://appleinsider.com/articles/26/08/10/dark-cherry-iphone-18-pro-is-still-a-rumor-mill-favorite?utm_source=rss)
+ - [Duolingo is finally letting you undo this frustrating mistake](https://www.androidauthority.com/duolingo-undo-skip-speaking-button-3696590/)
+ - [Sources: AI cloud computing provider Lambda is selling a $917M leveraged loan to finance the purchase of GPUs as part of a contract with Nvidia &lpar;Bloomberg&rpar;](https://www.techmeme.com/260810/p28#a260810p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
