@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)
- - ⏩ [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
- - 👉 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)<!-- MEMES:END -->
+ - 💣 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
+ - ⏩ [Phones](http://9gag.com/gag/aGy3Vpn)
+ - 👉 [She is crying, but also know nobody can prove anything...](http://9gag.com/gag/aZZAWE6)<!-- MEMES:END -->
 
 ---
 
