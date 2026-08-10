@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US OCC denies Dutch fintech Bunq&#39;s application for a national bank charter, citing the need for more clarity on its business plan to expand in the US &lpar;Bloomberg&rpar;](https://www.techmeme.com/260807/p32#a260807p32)
- - [Sources: Situational Awareness invested $500M, including $400M this week, into Source Foundry, a startup that plans to develop new AI chip manufacturing tools &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260807/p31#a260807p31)
- - [The Clarity Act faces uncertainty after Senate Republicans delayed a vote until after their August recess, pushing it to September, just weeks before midterms &lpar;Jasper Goodman/Politico&rpar;](https://www.techmeme.com/260807/p30#a260807p30)<!-- TECH:END -->
+ - [An Australian user&#39;s Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist &lpar;ABC&rpar;](https://www.techmeme.com/260809/p10#a260809p10)
+ - [US data center bans top 500, up from 300+ in late June, as New York and Texas join cities and counties pushing back against data center development &lpar;Shane Burke/The Information&rpar;](https://www.techmeme.com/260809/p9#a260809p9)
+ - [No Dogs in Space is a music history podcast for true obsessives](https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
