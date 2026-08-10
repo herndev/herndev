@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo pours water on rumor of $1B Apple chip stockpile at TSMC](https://appleinsider.com/articles/26/08/10/kuo-pours-water-on-rumor-of-1b-apple-chip-stockpile-at-tsmc?utm_source=rss)
- - [Apple preps beta security updates for iOS 18, iOS 26, and macOS 26](https://appleinsider.com/articles/26/08/10/apple-preps-beta-security-updates-for-ios-18-ios-26-and-macos-26?utm_source=rss)
- - [Google is turning things up to 11 in latest Pixel 11 Pro teaser](https://www.androidauthority.com/pixel-11-pro-teaser-3696656/)<!-- TECH:END -->
+ - [New in iOS 27 beta 5: &#39;Before Searching&#39; settings, updated app icons, more](https://appleinsider.com/articles/26/08/10/new-in-ios-27-beta-5-before-searching-settings-updated-app-icons-more?utm_source=rss)
+ - [Gemini’s Neural Expressive overlay is starting to show up on more and more watches](https://www.androidauthority.com/gemini-neural-expressive-wear-os-3696669/)
+ - [Bluesky now lets you hide reposts from that annoying person you follow](https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
