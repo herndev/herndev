@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
- - ⏩ [POV: You went to your friend&#39;s house but his sister answered the door.](http://9gag.com/gag/aKG0g61)
- - 👉 [Stop it Velma](http://9gag.com/gag/aByqKGP)<!-- MEMES:END -->
+ - 💣 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)
+ - ⏩ [Phones](http://9gag.com/gag/aGy3Vpn)
+ - 👉 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)<!-- MEMES:END -->
 
 ---
 
