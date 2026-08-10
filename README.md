@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I still don\u2019t know](http://9gag.com/gag/aAyoWG0)
- - ⏩ [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
- - 👉 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)<!-- MEMES:END -->
+ - 💣 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)
+ - ⏩ [Yes there were also women. Why are you geh? F**k you and see you next year!](http://9gag.com/gag/agmMyMv)
+ - 👉 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)<!-- MEMES:END -->
 
 ---
 
