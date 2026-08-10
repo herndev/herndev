@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now breed](http://9gag.com/gag/a87PWZY)
- - ⏩ [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
+ - 💣 [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)
+ - ⏩ [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
  - 👉 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)<!-- MEMES:END -->
 
 ---
