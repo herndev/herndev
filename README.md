@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
- - ⏩ [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
- - 👉 [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)<!-- MEMES:END -->
+ - 💣 [What did we learn today?](http://9gag.com/gag/aD2pwVK)
+ - ⏩ [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)
+ - 👉 [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)<!-- MEMES:END -->
 
 ---
 
