@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
- - ⏩ [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
+ - 💣 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
+ - ⏩ [POV: You went to your friend&#39;s house but his sister answered the door.](http://9gag.com/gag/aKG0g61)
  - 👉 [Stop it Velma](http://9gag.com/gag/aByqKGP)<!-- MEMES:END -->
 
 ---
