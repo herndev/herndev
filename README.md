@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Google Pixel announcements every fan needs to watch for on August 12](https://www.androidauthority.com/big-google-pixel-announcements-august-12-2026-3694960/)
- - [Google could kill this useful and free Gemini feature in favor of a paid one](https://www.androidauthority.com/google-retire-gemini-gems-leak-3696240/)
- - [A profile of Founders Pledge, which has recorded $4B in pledges from founders so far in 2026, as the AI industry now accounts for a third of its lifetime total &lpar;Joel Khalili/Wired&rpar;](https://www.techmeme.com/260810/p5#a260810p5)<!-- TECH:END -->
+ - [Q&amp;A with Kalshi CEO Tarek Mansour on his vision to &quot;financialize everything&quot;, sports betting, Kalshi&#39;s &quot;philosophical misalignment&quot; with Polymarket, and more &lpar;Jordyn Holman/New York Times&rpar;](https://www.techmeme.com/260810/p15#a260810p15)
+ - [The UK&#39;s Report Remove service receives 420 reports from under-18s of explicit images digitally faked or manipulated to depict them in H1, exceeding 2025&#39;s 397 &lpar;Dan Milmo/The Guardian&rpar;](https://www.techmeme.com/260810/p14#a260810p14)
+ - [How to Choose a Camera &lpar;2026&rpar;: Sensors, Megapixels, Terms](https://www.wired.com/story/how-to-choose-a-camera/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
