@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese AI labs account for nine of Artificial Analysis&#39; top 10 text-to-video models, gaining global adoption and potentially an edge in building world models &lpar;Catherine Thorbecke/Bloomberg&rpar;](https://www.techmeme.com/260810/p1#a260810p1)
- - [Sources: the UK Royal Navy removed internet connectivity from its drones&#39; cameras, after finding they sent &quot;heartbeat communications&quot; to an IP address in China &lpar;Richard Holmes/Telegraph&rpar;](https://www.techmeme.com/260809/p16#a260809p16)
- - [The Pixel Watch 5 is about to get the Stephen Curry treatment](https://www.androidauthority.com/google-pixel-watch-5-stephen-curry-edition-3696183/)<!-- TECH:END -->
+ - [Google Play Store’s first experimental ‘Labs’ feature lets you ‘expand everything’](https://www.androidauthority.com/google-play-store-labs-expand-everything-3696193/)
+ - [Space Agencies Are Trying to Keep Astronauts From Losing Their Sight](https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/)
+ - [A look at London&#39;s King&#39;s Cross, which transformed from a seedy area into an AI hub after DeepMind moved in in 2016, now home to OpenAI, Meta, Wayve, and others &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260810/p2#a260810p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
