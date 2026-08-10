@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good boi is smart and fast too](http://9gag.com/gag/aVvnQYM)
- - ⏩ [From the archives, old video but still funny..](http://9gag.com/gag/axyx21n)
- - 👉 [Some good stuff in here](http://9gag.com/gag/a5QmdQV)<!-- MEMES:END -->
+ - 💣 [Stop it Velma](http://9gag.com/gag/aByqKGP)
+ - ⏩ [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)
+ - 👉 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)<!-- MEMES:END -->
 
 ---
 
