@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)
- - ⏩ [Yes there were also women. Why are you geh? F**k you and see you next year!](http://9gag.com/gag/agmMyMv)
- - 👉 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)<!-- MEMES:END -->
+ - 💣 [Stop it Velma](http://9gag.com/gag/aByqKGP)
+ - ⏩ [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
+ - 👉 [Women when they see a more beautiful woman](http://9gag.com/gag/azxNbWj)<!-- MEMES:END -->
 
 ---
 
