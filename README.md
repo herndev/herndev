@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s going to leave a mark](http://9gag.com/gag/aqy3N3R)
- - ⏩ [Why Americans are obese &lpar;8:03&rpar;](http://9gag.com/gag/a6Zvd4m)
- - 👉 [How it&#39;s even possible?](http://9gag.com/gag/aKG0Bw3)<!-- MEMES:END -->
+ - 💣 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
+ - ⏩ [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)
+ - 👉 [This guy know something...](http://9gag.com/gag/a9yQMe0)<!-- MEMES:END -->
 
 ---
 
