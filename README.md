@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceXAI rolls out Grok Bot AI agent app in beta on Mac, iOS, Windows, and Linux, initially for SuperGrok Heavy, Cursor Ultra, and Cursor Teams Premium users &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260811/p29#a260811p29)
- - [Bumble Changes the Feature That Made It Different From Other Dating Apps](https://www.cnet.com/news/bumble-changes-the-feature-that-made-it-different-from-other-dating-apps/)
- - [The budget-friendly Pixel Buds 2a are even cheaper right now](https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale)<!-- TECH:END -->
+ - [Google’s free streaming service now lets you pick shows and movies to watch](https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand)
+ - [Pixel Buds Pro 2 leak offers an eyeful of its next new color](https://www.androidauthority.com/pixel-buds-pro-2-olive-revealed-3697317/)
+ - [Sources: David Sacks&#39; Craft Ventures is targeting around $1B for a new fund, its first since Sacks stepped down as the White House AI and crypto czar &lpar;The Information&rpar;](https://www.techmeme.com/260811/p30#a260811p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
