@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How it&#39;s even possible?](http://9gag.com/gag/aKG0Bw3)
- - ⏩ [Doing the polite shuffle for the driver](http://9gag.com/gag/aByq3R1)
- - 👉 [Phone?, no pal I&#39;m too busy trying to change the radio...](http://9gag.com/gag/a4PeLjQ)<!-- MEMES:END -->
+ - 💣 [Haha funny](http://9gag.com/gag/aZZAN19)
+ - ⏩ [`Low caste cannot own such things.`](http://9gag.com/gag/aVvnQdv)
+ - 👉 [Human reflexes have reached their peak](http://9gag.com/gag/ajPb0Yx)<!-- MEMES:END -->
 
 ---
 
