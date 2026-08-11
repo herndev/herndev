@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)
- - ⏩ [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)
- - 👉 [You can see the Spider String. Man from ger home](http://9gag.com/gag/abAPbWv)<!-- MEMES:END -->
+ - 💣 [That&#39;s going to leave a mark](http://9gag.com/gag/aqy3N3R)
+ - ⏩ [Why Americans are obese &lpar;8:03&rpar;](http://9gag.com/gag/a6Zvd4m)
+ - 👉 [How it&#39;s even possible?](http://9gag.com/gag/aKG0Bw3)<!-- MEMES:END -->
 
 ---
 
