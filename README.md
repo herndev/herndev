@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s why Google Messages has disabled its ‘Clear data’ button](https://www.androidauthority.com/google-messages-in-app-storage-manager-apk-teardown-3697014/)
- - [Manus says it will &quot;soon return to operating as an independent company&quot;, implying it is close to finalizing the reversal of its acquisition by Meta &lpar;Jing Yang/The Information&rpar;](https://www.techmeme.com/260811/p20#a260811p20)
- - [SwitchBot’s smart home devices are getting a major boost with their own smart assistant](https://www.androidauthority.com/switchbot-smart-home-kata-ai-chatbot-launch-3696947/)<!-- TECH:END -->
+ - [Sources: Phia co-founders Phoebe Gates and Sophia Kianni pushed for and were aware for seven months of using &quot;cookie stuffing&quot; to claim affiliate commissions &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p24#a260811p24)
+ - [Acer Chromebook Plus Spin 714 plunges 38% in this 24-hour deal](https://www.androidauthority.com/acer-chromebook-plus-spin-714-deal-3697237/)
+ - [Razer Naga V3 Pro Review: Buttons Galore](https://www.wired.com/review/razer-naga-v3-pro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
