@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everyone at Apple is calling the foldable &#39;iPhone Ultra&#39;](https://appleinsider.com/articles/26/08/11/everyone-at-apple-is-calling-the-foldable-iphone-ultra?utm_source=rss)
- - [Is It Safe to Eat Lettuce Yet?](https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/)
- - [Filings show Uber divested from long-time partner Serve Robotics in Q2, as the companies clash over how to deploy delivery robots; Serve has a DoorDash deal &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260811/p33#a260811p33)<!-- TECH:END -->
+ - [An FCC filing points to new Sonos headphones coming soon](https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing)
+ - [Apple&#39;s Back to School offers have been extended, but you can do much better](https://appleinsider.com/articles/26/07/16/apples-back-to-school-offers-have-started-but-you-can-do-much-better?utm_source=rss)
+ - [NASA Is Hosting a Livestream for Perseids: How to Watch the Meteor Shower](https://www.cnet.com/science/space/nasa-livestream-perseids-meteor-shower-how-to-watch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
