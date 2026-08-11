@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ranking the Best Red-Light Therapy Masks and LED Devices of 2026](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
- - [xAI co-founder Igor Babuschkin&#39;s River AI raised $1B led by General Catalyst to build home or small business computer servers capable of running AI locally &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/260811/p11#a260811p11)
- - [A strange Google Home app bug is automatically switching on smart lights across homes](https://www.androidauthority.com/google-home-ios-smart-light-bug-3696909/)<!-- TECH:END -->
+ - [Claude will apply invisible watermarks to AI text and images](https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images)
+ - [Don&#39;t believe rumors that the iPhone 20 has been cancelled](https://appleinsider.com/articles/26/08/11/new-rumor-counters-that-all-glass-20th-anniversary-iphone-will-still-happen?utm_source=rss)
+ - [You can now order this Android phone with a physical QWERTY keyboard](https://www.androidauthority.com/minimal-phone-2-android-kickstarter-3696854/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
