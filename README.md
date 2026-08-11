@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft almost made a Surface phone we actually wanted](https://www.androidauthority.com/microsoft-surface-phone-prototype-3697157/)
- - [Apple stocking up on OLED screens to offset RAM and SSD prices](https://appleinsider.com/articles/26/08/11/apple-stocking-up-on-oled-screens-to-offset-ram-and-ssd-prices?utm_source=rss)
- - [Brad Lightcap, who most recently led OpenAI&#39;s special projects division and formerly was its COO, says he is leaving the company &quot;to start something new&quot; &lpar;Stephanie Palazzolo/The Information&rpar;](https://www.techmeme.com/260811/p26#a260811p26)<!-- TECH:END -->
+ - [SpaceXAI rolls out Grok Bot AI agent app in beta on Mac, iOS, Windows, and Linux, initially for SuperGrok Heavy, Cursor Ultra, and Cursor Teams Premium users &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260811/p29#a260811p29)
+ - [Bumble Changes the Feature That Made It Different From Other Dating Apps](https://www.cnet.com/news/bumble-changes-the-feature-that-made-it-different-from-other-dating-apps/)
+ - [The budget-friendly Pixel Buds 2a are even cheaper right now](https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
