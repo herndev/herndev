@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your Wear OS smartwatch could soon show your workout route more accurately](https://www.androidauthority.com/wear-os-workout-routes-google-play-services-update-3696760/)
  - [New Pixel 11 leak has good news for camera zoom, bad news for HiLight](https://www.androidauthority.com/google-pixel-11-hilight-camera-leak-3696749/)
- - [Singapore raises its 2026 GDP growth forecast to 4.5%-5.5% from 2%-4%, citing stronger-than-expected global AI investment and improved external demand &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p3#a260811p3)
- - [Anthropic says Claude models in the EU will now add invisible watermarks to generated text and C2PA metadata to generated files, to comply with the EU AI Act &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260811/p2#a260811p2)<!-- TECH:END -->
+ - [Singapore raises its 2026 GDP growth forecast to 4.5%-5.5% from 2%-4%, citing stronger-than-expected global AI investment and improved external demand &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p3#a260811p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
