@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: investor interest in Situational Awareness surged after it nearly blew up on leveraged positions; the fund says it&#39;s not accepting new capital for now &lpar;Matt Levine/Bloomberg&rpar;](https://www.techmeme.com/260810/p49#a260810p49)
  - [Your iPhone can capture the Perseids meteor shower if you use the right tools](https://appleinsider.com/inside/iphone/tips/your-iphone-can-capture-the-perseids-meteor-shower-if-you-use-the-right-tools?utm_source=rss)
- - [Sources: Anthropic agreed to a 20-year, $9.1B compute deal with Riot Platforms for 191 MW of capacity at a Rockdale, TX campus; RIOT jumps ~25% after hours &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260810/p48#a260810p48)
- - [How a clause in Elon Musk&#39;s Tesla pay package, worth up to ~$1T, could provide him a shortcut around lofty performance targets if Tesla merged with SpaceX &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260810/p47#a260810p47)<!-- TECH:END -->
+ - [Sources: Anthropic agreed to a 20-year, $9.1B compute deal with Riot Platforms for 191 MW of capacity at a Rockdale, TX campus; RIOT jumps ~25% after hours &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260810/p48#a260810p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
