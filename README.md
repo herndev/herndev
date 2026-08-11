@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
- - ⏩ [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)
- - 👉 [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)<!-- MEMES:END -->
+ - 💣 [This view](http://9gag.com/gag/aByqQB2)
+ - ⏩ [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
+ - 👉 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)<!-- MEMES:END -->
 
 ---
 
