@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Claude will apply invisible watermarks to AI text and images](https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images)
- - [Don&#39;t believe rumors that the iPhone 20 has been cancelled](https://appleinsider.com/articles/26/08/11/new-rumor-counters-that-all-glass-20th-anniversary-iphone-will-still-happen?utm_source=rss)
- - [You can now order this Android phone with a physical QWERTY keyboard](https://www.androidauthority.com/minimal-phone-2-android-kickstarter-3696854/)<!-- TECH:END -->
+ - [Here’s why Google Messages has disabled its ‘Clear data’ button](https://www.androidauthority.com/google-messages-in-app-storage-manager-apk-teardown-3697014/)
+ - [Manus says it will &quot;soon return to operating as an independent company&quot;, implying it is close to finalizing the reversal of its acquisition by Meta &lpar;Jing Yang/The Information&rpar;](https://www.techmeme.com/260811/p20#a260811p20)
+ - [SwitchBot’s smart home devices are getting a major boost with their own smart assistant](https://www.androidauthority.com/switchbot-smart-home-kata-ai-chatbot-launch-3696947/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
