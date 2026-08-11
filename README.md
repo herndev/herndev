@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Phia co-founders Phoebe Gates and Sophia Kianni pushed for and were aware for seven months of using &quot;cookie stuffing&quot; to claim affiliate commissions &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p24#a260811p24)
- - [Acer Chromebook Plus Spin 714 plunges 38% in this 24-hour deal](https://www.androidauthority.com/acer-chromebook-plus-spin-714-deal-3697237/)
- - [Razer Naga V3 Pro Review: Buttons Galore](https://www.wired.com/review/razer-naga-v3-pro/)<!-- TECH:END -->
+ - [Microsoft almost made a Surface phone we actually wanted](https://www.androidauthority.com/microsoft-surface-phone-prototype-3697157/)
+ - [Apple stocking up on OLED screens to offset RAM and SSD prices](https://appleinsider.com/articles/26/08/11/apple-stocking-up-on-oled-screens-to-offset-ram-and-ssd-prices?utm_source=rss)
+ - [Brad Lightcap, who most recently led OpenAI&#39;s special projects division and formerly was its COO, says he is leaving the company &quot;to start something new&quot; &lpar;Stephanie Palazzolo/The Information&rpar;](https://www.techmeme.com/260811/p26#a260811p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
