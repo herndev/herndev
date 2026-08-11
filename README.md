@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s free streaming service now lets you pick shows and movies to watch](https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand)
- - [Pixel Buds Pro 2 leak offers an eyeful of its next new color](https://www.androidauthority.com/pixel-buds-pro-2-olive-revealed-3697317/)
- - [Sources: David Sacks&#39; Craft Ventures is targeting around $1B for a new fund, its first since Sacks stepped down as the White House AI and crypto czar &lpar;The Information&rpar;](https://www.techmeme.com/260811/p30#a260811p30)<!-- TECH:END -->
+ - [ChatGPT and Gemini both just passed 1 billion users](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users)
+ - [Similarweb: Bluesky&#39;s mobile MAUs fell 27% YoY to 10.4M in June and DAUs fell 26% to 3M in July; X&#39;s mobile MAUs fell 3% to 302M and DAUs fell 7% to 123.7M &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260811/p32#a260811p32)
+ - [Apple fails to delay filing new App Store fees to court as Epic battle continues](https://appleinsider.com/articles/26/08/11/apple-fails-to-delay-filing-new-app-store-fees-to-court-as-epic-battle-continues?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
