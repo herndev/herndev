@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel raised $20B in an upsized share sale, up from the $15B it was targeting; sources say the sale drew $100B+ in demand; INTC is up ~146% in 2026 so far &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p6#a260811p6)
- - [Best Red-Light Therapy for Hair Growth and Restoration &lpar;2026&rpar;](https://www.wired.com/story/best-red-light-therapy-for-hair-growth/)
- - [6 things I regularly do on my Pixel that are unimaginable on an iPhone](https://www.androidauthority.com/regular-pixel-features-not-possible-iphone-3694392/)<!-- TECH:END -->
+ - [I’ve used NAS drives for years. These are the top 5 brands in 2026](https://www.androidauthority.com/best-nas-brands-2026-3694228/)
+ - [OpenAI is hiring a power-trading lead to manage commodity hedging across its expanding data center power portfolio, as tech companies seek reliable electricity &lpar;Julian Hast/Bloomberg&rpar;](https://www.techmeme.com/260811/p9#a260811p9)
+ - [Elon Musk, Sam Altman, and the Misreading of Science Fiction](https://www.wired.com/story/book-excerpt-rise-and-fall-of-the-artificial-state-jill-lepore-silicon-valley-sci-fi/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
