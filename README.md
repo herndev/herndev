@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ball twister](http://9gag.com/gag/aAyWr7d)
- - ⏩ [They could just fly away with it](http://9gag.com/gag/aoyr0re)
- - 👉 [That&#39;s going to leave a mark](http://9gag.com/gag/aqy3N3R)<!-- MEMES:END -->
+ - 💣 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)
+ - ⏩ [Human reflexes have reached their peak](http://9gag.com/gag/ajPb0Yx)
+ - 👉 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)<!-- MEMES:END -->
 
 ---
 
