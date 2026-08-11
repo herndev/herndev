@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This desktop CNC mill lets you carve 3D figurines with zero experience, and it’s now on Kickstarter](https://www.androidauthority.com/infimaker-k1-5-axis-desktop-cnc-mill-kickstarter-3696953/)
- - [Source: Kalshi&#39;s annualized revenue topped $4B in July, up from $2B+ two months earlier, and its operating expenses totaled $300M in June &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260811/p39#a260811p39)
- - [Accel raised $3.5B in funds for early-stage investments, including a $1.35B global expansion fund for larger early-stage rounds and rapid follow-on investments &lpar;Natasha Mascarenhas/Bloomberg&rpar;](https://www.techmeme.com/260811/p38#a260811p38)<!-- TECH:END -->
+ - [OpenAI launches a ChatGPT desktop app for Linux in preview, supporting ChatGPT Work, Codex, and more; Computer Use outside the in-app browser is not available &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/260811/p41#a260811p41)
+ - [The CFTC uses its &quot;emergency authority&quot; to order Kalshi to continue operating in New York after the state filed a lawsuit in July seeking to shutter Kalshi &lpar;Nikhilesh De/CoinDesk&rpar;](https://www.techmeme.com/260811/p40#a260811p40)
+ - [Xbox Elite 3 prototype pad leaks with tiny built-in screen](https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
