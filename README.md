@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: investor interest in Situational Awareness surged after it nearly blew up on leveraged positions; the fund says it&#39;s not accepting new capital for now &lpar;Matt Levine/Bloomberg&rpar;](https://www.techmeme.com/260810/p49#a260810p49)
- - [Your iPhone can capture the Perseids meteor shower if you use the right tools](https://appleinsider.com/inside/iphone/tips/your-iphone-can-capture-the-perseids-meteor-shower-if-you-use-the-right-tools?utm_source=rss)
- - [Sources: Anthropic agreed to a 20-year, $9.1B compute deal with Riot Platforms for 191 MW of capacity at a Rockdale, TX campus; RIOT jumps ~25% after hours &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260810/p48#a260810p48)<!-- TECH:END -->
+ - [New Pixel 11 leak has good news for camera zoom, bad news for HiLight](https://www.androidauthority.com/google-pixel-11-hilight-camera-leak-3696749/)
+ - [Singapore raises its 2026 GDP growth forecast to 4.5%-5.5% from 2%-4%, citing stronger-than-expected global AI investment and improved external demand &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p3#a260811p3)
+ - [Anthropic says Claude models in the EU will now add invisible watermarks to generated text and C2PA metadata to generated files, to comply with the EU AI Act &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260811/p2#a260811p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
