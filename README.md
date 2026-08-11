@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This view](http://9gag.com/gag/aByqQB2)
- - ⏩ [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
- - 👉 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)<!-- MEMES:END -->
+ - 💣 [How it&#39;s even possible?](http://9gag.com/gag/aKG0Bw3)
+ - ⏩ [Ball twister](http://9gag.com/gag/aAyWr7d)
+ - 👉 [How rich are you ? Yes](http://9gag.com/gag/aByqK7Z)<!-- MEMES:END -->
 
 ---
 
