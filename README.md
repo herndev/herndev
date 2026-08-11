@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Human reflexes have reached their peak](http://9gag.com/gag/ajPb0Yx)
- - ⏩ [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)
- - 👉 [This guy know something...](http://9gag.com/gag/a9yQMe0)<!-- MEMES:END -->
+ - 💣 [How it&#39;s even possible?](http://9gag.com/gag/aKG0Bw3)
+ - ⏩ [Doing the polite shuffle for the driver](http://9gag.com/gag/aByq3R1)
+ - 👉 [Phone?, no pal I&#39;m too busy trying to change the radio...](http://9gag.com/gag/a4PeLjQ)<!-- MEMES:END -->
 
 ---
 
