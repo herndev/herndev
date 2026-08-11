@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)
+ - 💣 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)
  - ⏩ [All is calm and well until....](http://9gag.com/gag/aByqrgD)
- - 👉 [Human reflexes have reached their peak](http://9gag.com/gag/ajPb0Yx)<!-- MEMES:END -->
+ - 👉 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)<!-- MEMES:END -->
 
 ---
 
