@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An FCC filing points to new Sonos headphones coming soon](https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing)
- - [Apple&#39;s Back to School offers have been extended, but you can do much better](https://appleinsider.com/articles/26/07/16/apples-back-to-school-offers-have-started-but-you-can-do-much-better?utm_source=rss)
- - [NASA Is Hosting a Livestream for Perseids: How to Watch the Meteor Shower](https://www.cnet.com/science/space/nasa-livestream-perseids-meteor-shower-how-to-watch/)<!-- TECH:END -->
+ - [This desktop CNC mill lets you carve 3D figurines with zero experience, and it’s now on Kickstarter](https://www.androidauthority.com/infimaker-k1-5-axis-desktop-cnc-mill-kickstarter-3696953/)
+ - [Source: Kalshi&#39;s annualized revenue topped $4B in July, up from $2B+ two months earlier, and its operating expenses totaled $300M in June &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260811/p39#a260811p39)
+ - [Accel raised $3.5B in funds for early-stage investments, including a $1.35B global expansion fund for larger early-stage rounds and rapid follow-on investments &lpar;Natasha Mascarenhas/Bloomberg&rpar;](https://www.techmeme.com/260811/p38#a260811p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
