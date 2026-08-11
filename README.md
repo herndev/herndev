@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)
- - ⏩ [As wise Chinese Sage once said `love your mom, be a mom lover, make it the way of your life`](http://9gag.com/gag/aMVRr2V)
- - 👉 [Gemma arterton](http://9gag.com/gag/aPANGpw)<!-- MEMES:END -->
+ - 💣 [As wise Chinese Sage once said `love your mom, be a mom lover, make it the way of your life`](http://9gag.com/gag/aMVRr2V)
+ - ⏩ [Gemma arterton](http://9gag.com/gag/aPANGpw)
+ - 👉 [That&#39;s going to leave a mark](http://9gag.com/gag/aqy3N3R)<!-- MEMES:END -->
 
 ---
 
