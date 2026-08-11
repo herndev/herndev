@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: OpenAI head of ethics Chloé Bakalar departs after less than a year, following exits by the head of safety systems and a former head of mission alignment &lpar;Financial Times&rpar;](https://www.techmeme.com/260810/p43#a260810p43)
- - [Mcon mobile gaming controller review: Compact design with premium feel](https://appleinsider.com/articles/26/01/07/mcon-mobile-gaming-controller-review-compact-design-with-premium-feel?utm_source=rss)
- - [Discrimination lawsuit involving converted Jewish employee settled by Apple](https://appleinsider.com/articles/26/08/10/discrimination-lawsuit-involving-converted-jewish-employee-settled-by-apple?utm_source=rss)<!-- TECH:END -->
+ - [Your iPhone can capture the Perseids meteor shower if you use the right tools](https://appleinsider.com/inside/iphone/tips/your-iphone-can-capture-the-perseids-meteor-shower-if-you-use-the-right-tools?utm_source=rss)
+ - [Sources: Anthropic agreed to a 20-year, $9.1B compute deal with Riot Platforms for 191 MW of capacity at a Rockdale, TX campus; RIOT jumps ~25% after hours &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260810/p48#a260810p48)
+ - [How a clause in Elon Musk&#39;s Tesla pay package, worth up to ~$1T, could provide him a shortcut around lofty performance targets if Tesla merged with SpaceX &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260810/p47#a260810p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
