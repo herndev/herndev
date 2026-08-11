@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve used NAS drives for years. These are the top 5 brands in 2026](https://www.androidauthority.com/best-nas-brands-2026-3694228/)
- - [OpenAI is hiring a power-trading lead to manage commodity hedging across its expanding data center power portfolio, as tech companies seek reliable electricity &lpar;Julian Hast/Bloomberg&rpar;](https://www.techmeme.com/260811/p9#a260811p9)
- - [Elon Musk, Sam Altman, and the Misreading of Science Fiction](https://www.wired.com/story/book-excerpt-rise-and-fall-of-the-artificial-state-jill-lepore-silicon-valley-sci-fi/)<!-- TECH:END -->
+ - [Ranking the Best Red-Light Therapy Masks and LED Devices of 2026](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
+ - [xAI co-founder Igor Babuschkin&#39;s River AI raised $1B led by General Catalyst to build home or small business computer servers capable of running AI locally &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/260811/p11#a260811p11)
+ - [A strange Google Home app bug is automatically switching on smart lights across homes](https://www.androidauthority.com/google-home-ios-smart-light-bug-3696909/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
