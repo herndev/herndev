@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Western Australian police&#39;s first live facial recognition trial, which has scanned 130,000+ people since June, raising accuracy and privacy concerns &lpar;ABC&rpar;](https://www.techmeme.com/260811/p5#a260811p5)
- - [Motorola reveals which phones will get stable Android 17 update](https://www.androidauthority.com/motorola-android-17-eligible-phones-3696779/)
- - [Your Galaxy camera can secretly ditch 24MP for 12MP, and Samsung explains why](https://www.androidauthority.com/samsung-galaxy-camera-24mp-fallback-3696764/)<!-- TECH:END -->
+ - [Intel raised $20B in an upsized share sale, up from the $15B it was targeting; sources say the sale drew $100B+ in demand; INTC is up ~146% in 2026 so far &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p6#a260811p6)
+ - [Best Red-Light Therapy for Hair Growth and Restoration &lpar;2026&rpar;](https://www.wired.com/story/best-red-light-therapy-for-hair-growth/)
+ - [6 things I regularly do on my Pixel that are unimaginable on an iPhone](https://www.androidauthority.com/regular-pixel-features-not-possible-iphone-3694392/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
