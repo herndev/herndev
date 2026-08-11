@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Wear OS smartwatch could soon show your workout route more accurately](https://www.androidauthority.com/wear-os-workout-routes-google-play-services-update-3696760/)
- - [New Pixel 11 leak has good news for camera zoom, bad news for HiLight](https://www.androidauthority.com/google-pixel-11-hilight-camera-leak-3696749/)
- - [Singapore raises its 2026 GDP growth forecast to 4.5%-5.5% from 2%-4%, citing stronger-than-expected global AI investment and improved external demand &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p3#a260811p3)<!-- TECH:END -->
+ - [A look at Western Australian police&#39;s first live facial recognition trial, which has scanned 130,000+ people since June, raising accuracy and privacy concerns &lpar;ABC&rpar;](https://www.techmeme.com/260811/p5#a260811p5)
+ - [Motorola reveals which phones will get stable Android 17 update](https://www.androidauthority.com/motorola-android-17-eligible-phones-3696779/)
+ - [Your Galaxy camera can secretly ditch 24MP for 12MP, and Samsung explains why](https://www.androidauthority.com/samsung-galaxy-camera-24mp-fallback-3696764/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
