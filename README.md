@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT and Gemini both just passed 1 billion users](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users)
- - [Similarweb: Bluesky&#39;s mobile MAUs fell 27% YoY to 10.4M in June and DAUs fell 26% to 3M in July; X&#39;s mobile MAUs fell 3% to 302M and DAUs fell 7% to 123.7M &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260811/p32#a260811p32)
- - [Apple fails to delay filing new App Store fees to court as Epic battle continues](https://appleinsider.com/articles/26/08/11/apple-fails-to-delay-filing-new-app-store-fees-to-court-as-epic-battle-continues?utm_source=rss)<!-- TECH:END -->
+ - [Everyone at Apple is calling the foldable &#39;iPhone Ultra&#39;](https://appleinsider.com/articles/26/08/11/everyone-at-apple-is-calling-the-foldable-iphone-ultra?utm_source=rss)
+ - [Is It Safe to Eat Lettuce Yet?](https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/)
+ - [Filings show Uber divested from long-time partner Serve Robotics in Q2, as the companies clash over how to deploy delivery robots; Serve has a DoorDash deal &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260811/p33#a260811p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
