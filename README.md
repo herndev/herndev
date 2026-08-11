@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Haha funny](http://9gag.com/gag/aZZAN19)
- - ⏩ [`Low caste cannot own such things.`](http://9gag.com/gag/aVvnQdv)
- - 👉 [Human reflexes have reached their peak](http://9gag.com/gag/ajPb0Yx)<!-- MEMES:END -->
+ - 💣 [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)
+ - ⏩ [As wise Chinese Sage once said `love your mom, be a mom lover, make it the way of your life`](http://9gag.com/gag/aMVRr2V)
+ - 👉 [Gemma arterton](http://9gag.com/gag/aPANGpw)<!-- MEMES:END -->
 
 ---
 
