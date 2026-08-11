@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
- - ⏩ [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
- - 👉 [This really confuses me, from where did the fuel come](http://9gag.com/gag/a0eA9Av)<!-- MEMES:END -->
+ - 💣 [Ball twister](http://9gag.com/gag/aAyWr7d)
+ - ⏩ [They could just fly away with it](http://9gag.com/gag/aoyr0re)
+ - 👉 [That&#39;s going to leave a mark](http://9gag.com/gag/aqy3N3R)<!-- MEMES:END -->
 
 ---
 
