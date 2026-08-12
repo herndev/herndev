@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice show](http://9gag.com/gag/aPANWgw)
- - ⏩ [All is calm and well until....](http://9gag.com/gag/aByqrgD)
- - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
+ - 💣 [Bro will sleep on the couch today](http://9gag.com/gag/ae9o6Lv)
+ - ⏩ [Hero without cape](http://9gag.com/gag/avyYnXd)
+ - 👉 [It&#39;s in the name](http://9gag.com/gag/azxNAbq)<!-- MEMES:END -->
 
 ---
 
