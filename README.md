@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Ultra screen protectors have asymmetric corners](https://appleinsider.com/articles/26/08/12/screen-protector-leak-shows-iphone-ultras-asymmetric-corners?utm_source=rss)
- - [Generative AI photo fakes could be exposed by new iPhone feature](https://appleinsider.com/articles/26/08/12/faked-photos-could-be-shown-up-by-new-iphone-feature?utm_source=rss)
- - [Gemini’s next wave of app integrations focuses on productivity, entertainment, and lifestyle](https://www.androidauthority.com/gemini-new-app-integrations-3697867/)<!-- TECH:END -->
+ - [Apple picks up Nate Gatten as new head of government affairs](https://appleinsider.com/articles/26/08/12/apple-picks-up-nate-gatten-as-new-head-of-government-affairs?utm_source=rss)
+ - [Highly rated Anker Prime 3-in-1 foldable Qi2.2 charger gets a 34% price drop](https://www.androidauthority.com/anker-prime-3-in-1-foldable-charger-deal-3697947/)
+ - [Twitch streamers can now opt out from training Amazon’s AI](https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
