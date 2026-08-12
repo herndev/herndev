@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google unveils the $899+ Pixel 11, $1,099+ 11 Pro, and $1,299+ 11 Pro XL, with Tensor G6, new Gemini features, Magic Capture to pick the best frames, and more &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260812/p24#a260812p24)
- - [Google unveils the $1,899+ Pixel 11 Fold, with a stronger hinge, inner and outer displays that are 20% brighter, Tensor G6 chip, and an updated 48MP camera &lpar;Jessica Conditt/Engadget&rpar;](https://www.techmeme.com/260812/p23#a260812p23)
- - [Google Pixel 11 introduces ‘interactive onboarding companion’ for easier phone setup](https://www.androidauthority.com/google-pixel-11-interactive-onboarding-companion-3697802/)<!-- TECH:END -->
+ - [Screen protector leak shows iPhone Ultra&#39;s asymmetric corners](https://appleinsider.com/articles/26/08/12/screen-protector-leak-shows-iphone-ultras-asymmetric-corners?utm_source=rss)
+ - [SpaceXAI releases Grok 4.6, saying it matches GPT-5.6 Sol on the Artificial Analysis Intelligence Index, and prices it at $2/1M input and $6/1M output tokens &lpar;xAI&rpar;](https://www.techmeme.com/260812/p39#a260812p39)
+ - [Silicon Data, which offers real-time compute pricing data to financial institutions and exchanges, raised a $30.5M Series A led by the Valor Atreides AI Fund &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260812/p40#a260812p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
