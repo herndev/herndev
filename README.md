@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its takes one to know one](http://9gag.com/gag/ae9o0yj)
- - ⏩ [Dancing](http://9gag.com/gag/ajPbAAG)
- - 👉 [Here we go](http://9gag.com/gag/ajPbAxp)<!-- MEMES:END -->
+ - 💣 [All is calm and well until....](http://9gag.com/gag/aByqrgD)
+ - ⏩ [Here we go](http://9gag.com/gag/ajPbAxp)
+ - 👉 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)<!-- MEMES:END -->
 
 ---
 
