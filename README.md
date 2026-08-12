@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some health and fitness obsessives are using AI for hyperpersonalized training, building custom dashboards and tools to analyze their sleep, workouts, and diet &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260812/p6#a260812p6)
- - [Google Sheets makes it less of a headache to import Excel files](https://www.androidauthority.com/google-sheets-excel-pivot-tables-3697487/)
- - [Google fixes Photos bug that removed the handy drag-to-select feature](https://www.androidauthority.com/google-photos-drag-to-select-fixed-3697467/)<!-- TECH:END -->
+ - [Galaxy Watch 9 users are resorting to fans and ice baths &lpar;!!&rpar; to fix slow charging speeds](https://www.androidauthority.com/samsung-galaxy-watch-9-ultra-2-slow-charging-issue-3697532/)
+ - [Spotify will start labeling AI-generated artist profiles and stop recommending their music](https://www.androidauthority.com/spotify-ai-persona-label-3697523/)
+ - [Sources: AI coding startup Cognition is in early talks with investors to raise $1B+ at a $40B+ valuation, after raising $1B at a $26B valuation in May &lpar;Rebecca Torrence/Bloomberg&rpar;](https://www.techmeme.com/260812/p7#a260812p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
