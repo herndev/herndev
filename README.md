@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)
- - ⏩ [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)
- - 👉 [Japanese hospitality towards white tourists](http://9gag.com/gag/ary6RD7)<!-- MEMES:END -->
+ - 💣 [Dance with sea lion](http://9gag.com/gag/aZZAMW3)
+ - ⏩ [Human reflexes have reached their peak](http://9gag.com/gag/ajPb0Yx)
+ - 👉 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)<!-- MEMES:END -->
 
 ---
 
