@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)
+ - 💣 [Bliss of happiness](http://9gag.com/gag/awyRxZy)
  - ⏩ [Good to see when law is unbiased and upholds equality](http://9gag.com/gag/a0eApPO)
- - 👉 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)<!-- MEMES:END -->
+ - 👉 [All is calm and well until....](http://9gag.com/gag/aByqrgD)<!-- MEMES:END -->
 
 ---
 
