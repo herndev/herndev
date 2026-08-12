@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro will sleep on the couch today](http://9gag.com/gag/ae9o6Lv)
- - ⏩ [Hero without cape](http://9gag.com/gag/avyYnXd)
- - 👉 [It&#39;s in the name](http://9gag.com/gag/azxNAbq)<!-- MEMES:END -->
+ - 💣 [It&#39;s in the name](http://9gag.com/gag/azxNAbq)
+ - ⏩ [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
+ - 👉 [2 &amp; 3 for me. Which psycho choose 4?](http://9gag.com/gag/a349B6m)<!-- MEMES:END -->
 
 ---
 
