@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dancing](http://9gag.com/gag/ajPbAAG)
- - ⏩ [The multiverse?](http://9gag.com/gag/ary6R8p)
- - 👉 [Do what you do best!](http://9gag.com/gag/abAP0dE)<!-- MEMES:END -->
+ - 💣 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)
+ - ⏩ [Good to see when law is unbiased and upholds equality](http://9gag.com/gag/a0eApPO)
+ - 👉 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)<!-- MEMES:END -->
 
 ---
 
