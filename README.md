@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2 &amp; 3 for me. Which psycho choose 4?](http://9gag.com/gag/a349B6m)
- - ⏩ [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
- - 👉 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)<!-- MEMES:END -->
+ - 💣 [Nice show](http://9gag.com/gag/aPANWgw)
+ - ⏩ [Gemma arterton](http://9gag.com/gag/aPANGpw)
+ - 👉 [All is calm and well until....](http://9gag.com/gag/aByqrgD)<!-- MEMES:END -->
 
 ---
 
