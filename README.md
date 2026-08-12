@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple picks up Nate Gatten as new head of government affairs](https://appleinsider.com/articles/26/08/12/apple-picks-up-nate-gatten-as-new-head-of-government-affairs?utm_source=rss)
- - [Highly rated Anker Prime 3-in-1 foldable Qi2.2 charger gets a 34% price drop](https://www.androidauthority.com/anker-prime-3-in-1-foldable-charger-deal-3697947/)
- - [Twitch streamers can now opt out from training Amazon’s AI](https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai)<!-- TECH:END -->
+ - [Ultimate Ears WONDERBOOM 4 hits its lowest Amazon price yet](https://www.androidauthority.com/ultimate-ears-wonderboom-4-deal-3697968/)
+ - [Is Verizon down for you? Here’s what’s going on](https://www.androidauthority.com/verizon-outage-aug-12-2026-3697965/)
+ - [Sources detail moves behind Google&#39;s AI reshuffle; Sergey Brin urged key staff to go all in on Gemini, and some teams shifted from DeepMind to corporate Google &lpar;Kenrick Cai/Reuters&rpar;](https://www.techmeme.com/260812/p44#a260812p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
