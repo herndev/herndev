@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro vs Google Pixel 11 Pro: Tech titan flagships compared](https://appleinsider.com/inside/iphone-17/vs/iphone-17-pro-vs-google-pixel-11-pro-tech-titan-flagships-compared?utm_source=rss)
- - [Mistral says its platform will support third-party open models, starting with Z.ai&#39;s GLM-5.2, and run them on the same infrastructure as its own models &lpar;Mistral AI Blog&rpar;](https://www.techmeme.com/260812/p48#a260812p48)
- - [Google Search corrects results after prematurely declaring OpenAI CEO Sam Altman dead](https://www.androidauthority.com/google-search-sam-altman-death-error-3697975/)<!-- TECH:END -->
+ - [This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off](https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale)
+ - [Forget Flock — this system could let police track your car with help from your phone](https://www.androidauthority.com/flock-cameras-signaltrace-device-tracking-3698003/)
+ - [iPhone 17 vs Google Pixel 11: The standard models, compared](https://appleinsider.com/inside/iphone-17/vs/iphone-17-vs-google-pixel-11-the-standard-models-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
