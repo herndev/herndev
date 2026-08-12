@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent reports Q2 revenue up 11% YoY to ~$30.4B, above ~$30B est., and net income of ~$8.3B, driven by surging WeChat advertising and resilient game spending &lpar;Bloomberg&rpar;](https://www.techmeme.com/260812/p9#a260812p9)
- - [Stockholm-based AI coding startup Lovable raised $400M at a $13.3B valuation, up from $6.6B in December 2025, becoming one of Europe&#39;s most valuable startups &lpar;Ben Dummett/Wall Street Journal&rpar;](https://www.techmeme.com/260812/p8#a260812p8)
- - [These 5 Samsung Gallery features are so good you’ll want to ditch Google Photos](https://www.androidauthority.com/best-samsung-gallery-features-3695635/)<!-- TECH:END -->
+ - [Verizon is so fed up with cable vandals, it’s putting a $25,000 bounty on them](https://www.androidauthority.com/verizon-reward-fiber-cable-vandalism-3697612/)
+ - [This shocking Zoom bug allowed silent device takeovers on Android and iOS](https://www.androidauthority.com/zoom-call-device-takeover-bug-3697629/)
+ - [Android Auto messaging is useless, and it’s all because of one missing feature](https://www.androidauthority.com/android-auto-voice-messages-useless-3694756/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
