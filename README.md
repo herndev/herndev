@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps could soon make it easy to clean up your list clutter](https://www.androidauthority.com/google-maps-list-hide-apk-teardown-3697285/)
- - [HONOR Robot Phone hands-on: I can’t believe it actually works this well!](https://www.androidauthority.com/honor-robot-phone-hands-on-3697387/)
- - [Amsterdam-based neocloud Nebius reports Q2 cloud revenue up 514% YoY to $575M and total revenue of $582M, above $557M est.; NBIS rises 15%+, and is up 131% YTD &lpar;Paula Doenecke/Bloomberg&rpar;](https://www.techmeme.com/260812/p19#a260812p19)<!-- TECH:END -->
+ - [Google unveils the $899+ Pixel 11, $1,099+ 11 Pro, and $1,299+ 11 Pro XL, with Tensor G6, new Gemini features, Magic Capture to pick the best frames, and more &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260812/p24#a260812p24)
+ - [Google unveils the $1,899+ Pixel 11 Fold, with a stronger hinge, inner and outer displays that are 20% brighter, Tensor G6 chip, and an updated 48MP camera &lpar;Jessica Conditt/Engadget&rpar;](https://www.techmeme.com/260812/p23#a260812p23)
+ - [Google Pixel 11 introduces ‘interactive onboarding companion’ for easier phone setup](https://www.androidauthority.com/google-pixel-11-interactive-onboarding-companion-3697802/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
