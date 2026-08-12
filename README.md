@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off](https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale)
- - [Forget Flock — this system could let police track your car with help from your phone](https://www.androidauthority.com/flock-cameras-signaltrace-device-tracking-3698003/)
- - [iPhone 17 vs Google Pixel 11: The standard models, compared](https://appleinsider.com/inside/iphone-17/vs/iphone-17-vs-google-pixel-11-the-standard-models-compared?utm_source=rss)<!-- TECH:END -->
+ - [Everything Google announced: Pixel 11, Pixel Tag, Pixel Watch 11, more](https://appleinsider.com/articles/26/08/12/everything-google-announced-pixel-11-pixel-tag-pixel-watch-11-more?utm_source=rss)
+ - [A livestream of the Made by Google 2026 event hosted by Trevor Noah &lpar;Made by Google on YouTube&rpar;](https://www.techmeme.com/260812/p51#a260812p51)
+ - [Apple fails to delay filing new App Store fees to court as Epic battle continues](https://appleinsider.com/articles/26/08/11/apple-fails-to-delay-filing-new-app-store-fees-to-court-as-epic-battle-continues?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
