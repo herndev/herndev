@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Freedom of the Press Foundation and The Intercept sue Trump after Trump Media &amp; Technology offered a subscription service for faster access to Trump&#39;s posts &lpar;Bernard Condon/Associated Press&rpar;](https://www.techmeme.com/260812/p47#a260812p47)
- - [The next big indie game publisher is taking some exciting swings](https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition)
- - [Google Makes Its Own AirTags and I Couldn’t Be More Stoked](https://www.cnet.com/uncategorized/google-pixel-tag-vs-apple-air-tag-2/)<!-- TECH:END -->
+ - [iPhone 17 Pro vs Google Pixel 11 Pro: Tech titan flagships compared](https://appleinsider.com/inside/iphone-17/vs/iphone-17-pro-vs-google-pixel-11-pro-tech-titan-flagships-compared?utm_source=rss)
+ - [Mistral says its platform will support third-party open models, starting with Z.ai&#39;s GLM-5.2, and run them on the same infrastructure as its own models &lpar;Mistral AI Blog&rpar;](https://www.techmeme.com/260812/p48#a260812p48)
+ - [Google Search corrects results after prematurely declaring OpenAI CEO Sam Altman dead](https://www.androidauthority.com/google-search-sam-altman-death-error-3697975/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
