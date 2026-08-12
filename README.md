@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Watch 9 users are resorting to fans and ice baths &lpar;!!&rpar; to fix slow charging speeds](https://www.androidauthority.com/samsung-galaxy-watch-9-ultra-2-slow-charging-issue-3697532/)
- - [Spotify will start labeling AI-generated artist profiles and stop recommending their music](https://www.androidauthority.com/spotify-ai-persona-label-3697523/)
- - [Sources: AI coding startup Cognition is in early talks with investors to raise $1B+ at a $40B+ valuation, after raising $1B at a $26B valuation in May &lpar;Rebecca Torrence/Bloomberg&rpar;](https://www.techmeme.com/260812/p7#a260812p7)<!-- TECH:END -->
+ - [Tencent reports Q2 revenue up 11% YoY to ~$30.4B, above ~$30B est., and net income of ~$8.3B, driven by surging WeChat advertising and resilient game spending &lpar;Bloomberg&rpar;](https://www.techmeme.com/260812/p9#a260812p9)
+ - [Stockholm-based AI coding startup Lovable raised $400M at a $13.3B valuation, up from $6.6B in December 2025, becoming one of Europe&#39;s most valuable startups &lpar;Ben Dummett/Wall Street Journal&rpar;](https://www.techmeme.com/260812/p8#a260812p8)
+ - [These 5 Samsung Gallery features are so good you’ll want to ditch Google Photos](https://www.androidauthority.com/best-samsung-gallery-features-3695635/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
