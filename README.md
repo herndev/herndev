@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Screen protector leak shows iPhone Ultra&#39;s asymmetric corners](https://appleinsider.com/articles/26/08/12/screen-protector-leak-shows-iphone-ultras-asymmetric-corners?utm_source=rss)
- - [SpaceXAI releases Grok 4.6, saying it matches GPT-5.6 Sol on the Artificial Analysis Intelligence Index, and prices it at $2/1M input and $6/1M output tokens &lpar;xAI&rpar;](https://www.techmeme.com/260812/p39#a260812p39)
- - [Silicon Data, which offers real-time compute pricing data to financial institutions and exchanges, raised a $30.5M Series A led by the Valor Atreides AI Fund &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260812/p40#a260812p40)<!-- TECH:END -->
+ - [iPhone Ultra screen protectors have asymmetric corners](https://appleinsider.com/articles/26/08/12/screen-protector-leak-shows-iphone-ultras-asymmetric-corners?utm_source=rss)
+ - [Generative AI photo fakes could be exposed by new iPhone feature](https://appleinsider.com/articles/26/08/12/faked-photos-could-be-shown-up-by-new-iphone-feature?utm_source=rss)
+ - [Gemini’s next wave of app integrations focuses on productivity, entertainment, and lifestyle](https://www.androidauthority.com/gemini-new-app-integrations-3697867/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
