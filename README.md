@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dance with sea lion](http://9gag.com/gag/aZZAMW3)
+ - 💣 [Snu snu](http://9gag.com/gag/abAP069)
  - ⏩ [Here we go](http://9gag.com/gag/ajPbAxp)
- - 👉 [Eye on you](http://9gag.com/gag/aKG0qjN)<!-- MEMES:END -->
+ - 👉 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)<!-- MEMES:END -->
 
 ---
 
