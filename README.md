@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Candy Crush&#39;s continued popularity 15 years after its launch, with an estimated 81.5M MAUs and in-app revenue of $876.5M in fiscal year 2025 &lpar;Alanna Okun/Bloomberg&rpar;](https://www.techmeme.com/260811/p43#a260811p43)
- - [Saber denies replacing Rideshare Stimulator&amp;#8217;s writers with ChatGPT](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive)
- - [A profile of Suno, which has been used by more than 100M people since 2023 and has 2M+ paid subscribers, as it faces copyright lawsuits from UMG and Sony Music &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p42#a260811p42)<!-- TECH:END -->
+ - [Google TV just got 10,000 free movies and shows to binge](https://www.androidauthority.com/google-tv-freeplay-free-movies-tv-shows-3697473/)
+ - [Sources: Singapore-based data center operator DayOne confidentially files for a US IPO, aims to list as soon as next quarter, and is considering raising ~$5B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260812/p3#a260812p3)
+ - [Researchers say suspected Chinese hackers used open-source AI agents to build an autonomous hacking tool that compromised Taiwanese government websites in July &lpar;Tom Wilson/Financial Times&rpar;](https://www.techmeme.com/260812/p2#a260812p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
