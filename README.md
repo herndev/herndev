@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)
+ - 💣 [Nice show](http://9gag.com/gag/aPANWgw)
  - ⏩ [All is calm and well until....](http://9gag.com/gag/aByqrgD)
- - 👉 [2 &amp; 3 for me. Which psycho choose 4?](http://9gag.com/gag/a349B6m)<!-- MEMES:END -->
+ - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
 
 ---
 
