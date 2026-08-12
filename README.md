@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Dance with sea lion](http://9gag.com/gag/aZZAMW3)
- - ⏩ [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)
- - 👉 [Japanese hospitality towards white tourists](http://9gag.com/gag/ary6RD7)<!-- MEMES:END -->
+ - ⏩ [Here we go](http://9gag.com/gag/ajPbAxp)
+ - 👉 [Eye on you](http://9gag.com/gag/aKG0qjN)<!-- MEMES:END -->
 
 ---
 
