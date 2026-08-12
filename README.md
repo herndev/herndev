@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Snu snu](http://9gag.com/gag/abAP069)
- - ⏩ [Here we go](http://9gag.com/gag/ajPbAxp)
- - 👉 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)<!-- MEMES:END -->
+ - 💣 [Its takes one to know one](http://9gag.com/gag/ae9o0yj)
+ - ⏩ [Dancing](http://9gag.com/gag/ajPbAAG)
+ - 👉 [Here we go](http://9gag.com/gag/ajPbAxp)<!-- MEMES:END -->
 
 ---
 
