@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV just got 10,000 free movies and shows to binge](https://www.androidauthority.com/google-tv-freeplay-free-movies-tv-shows-3697473/)
- - [Sources: Singapore-based data center operator DayOne confidentially files for a US IPO, aims to list as soon as next quarter, and is considering raising ~$5B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260812/p3#a260812p3)
- - [Researchers say suspected Chinese hackers used open-source AI agents to build an autonomous hacking tool that compromised Taiwanese government websites in July &lpar;Tom Wilson/Financial Times&rpar;](https://www.techmeme.com/260812/p2#a260812p2)<!-- TECH:END -->
+ - [Some health and fitness obsessives are using AI for hyperpersonalized training, building custom dashboards and tools to analyze their sleep, workouts, and diet &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260812/p6#a260812p6)
+ - [Google Sheets makes it less of a headache to import Excel files](https://www.androidauthority.com/google-sheets-excel-pivot-tables-3697487/)
+ - [Google fixes Photos bug that removed the handy drag-to-select feature](https://www.androidauthority.com/google-photos-drag-to-select-fixed-3697467/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
