@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ultimate Ears WONDERBOOM 4 hits its lowest Amazon price yet](https://www.androidauthority.com/ultimate-ears-wonderboom-4-deal-3697968/)
- - [Is Verizon down for you? Here’s what’s going on](https://www.androidauthority.com/verizon-outage-aug-12-2026-3697965/)
- - [Sources detail moves behind Google&#39;s AI reshuffle; Sergey Brin urged key staff to go all in on Gemini, and some teams shifted from DeepMind to corporate Google &lpar;Kenrick Cai/Reuters&rpar;](https://www.techmeme.com/260812/p44#a260812p44)<!-- TECH:END -->
+ - [Freedom of the Press Foundation and The Intercept sue Trump after Trump Media &amp; Technology offered a subscription service for faster access to Trump&#39;s posts &lpar;Bernard Condon/Associated Press&rpar;](https://www.techmeme.com/260812/p47#a260812p47)
+ - [The next big indie game publisher is taking some exciting swings](https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition)
+ - [Google Makes Its Own AirTags and I Couldn’t Be More Stoked](https://www.cnet.com/uncategorized/google-pixel-tag-vs-apple-air-tag-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
