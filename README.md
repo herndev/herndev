@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dance with sea lion](http://9gag.com/gag/aZZAMW3)
- - ⏩ [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
- - 👉 [All is calm and well until....](http://9gag.com/gag/aByqrgD)<!-- MEMES:END -->
+ - 💣 [Dancing](http://9gag.com/gag/ajPbAAG)
+ - ⏩ [The multiverse?](http://9gag.com/gag/ary6R8p)
+ - 👉 [Do what you do best!](http://9gag.com/gag/abAP0dE)<!-- MEMES:END -->
 
 ---
 
