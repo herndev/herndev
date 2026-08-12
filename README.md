@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon is so fed up with cable vandals, it’s putting a $25,000 bounty on them](https://www.androidauthority.com/verizon-reward-fiber-cable-vandalism-3697612/)
- - [This shocking Zoom bug allowed silent device takeovers on Android and iOS](https://www.androidauthority.com/zoom-call-device-takeover-bug-3697629/)
- - [Android Auto messaging is useless, and it’s all because of one missing feature](https://www.androidauthority.com/android-auto-voice-messages-useless-3694756/)<!-- TECH:END -->
+ - [African e-commerce company Jumia raised $50M, including $25M from the World Bank&#39;s IFC; Jumia&#39;s US-listed shares have fallen from $60+ in 2021 to $6 now &lpar;Loni Prinsloo/Bloomberg&rpar;](https://www.techmeme.com/260812/p16#a260812p16)
+ - [The NYC Council sent letters to Polymarket, Kalshi, Coinbase, and Gemini Titan to investigate alleged deceptive marketing practices and targeting minors &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260812/p15#a260812p15)
+ - [AI code-testing startup Blacksmith raised a $45M Series B led by Peak XV Partners at a $550M valuation, up from $60M after it raised a $10M Series A in 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260812/p14#a260812p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
