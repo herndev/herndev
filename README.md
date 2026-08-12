@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [As wise Chinese Sage once said `love your mom, be a mom lover, make it the way of your life`](http://9gag.com/gag/aMVRr2V)
- - ⏩ [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)
- - 👉 [Snu snu](http://9gag.com/gag/abAP069)<!-- MEMES:END -->
+ - 💣 [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)
+ - ⏩ [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)
+ - 👉 [Japanese hospitality towards white tourists](http://9gag.com/gag/ary6RD7)<!-- MEMES:END -->
 
 ---
 
