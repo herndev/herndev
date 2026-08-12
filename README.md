@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All is calm and well until....](http://9gag.com/gag/aByqrgD)
- - ⏩ [Here we go](http://9gag.com/gag/ajPbAxp)
- - 👉 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)<!-- MEMES:END -->
+ - 💣 [Dance with sea lion](http://9gag.com/gag/aZZAMW3)
+ - ⏩ [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
+ - 👉 [All is calm and well until....](http://9gag.com/gag/aByqrgD)<!-- MEMES:END -->
 
 ---
 
