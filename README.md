@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [African e-commerce company Jumia raised $50M, including $25M from the World Bank&#39;s IFC; Jumia&#39;s US-listed shares have fallen from $60+ in 2021 to $6 now &lpar;Loni Prinsloo/Bloomberg&rpar;](https://www.techmeme.com/260812/p16#a260812p16)
- - [The NYC Council sent letters to Polymarket, Kalshi, Coinbase, and Gemini Titan to investigate alleged deceptive marketing practices and targeting minors &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260812/p15#a260812p15)
- - [AI code-testing startup Blacksmith raised a $45M Series B led by Peak XV Partners at a $550M valuation, up from $60M after it raised a $10M Series A in 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260812/p14#a260812p14)<!-- TECH:END -->
+ - [Google Maps could soon make it easy to clean up your list clutter](https://www.androidauthority.com/google-maps-list-hide-apk-teardown-3697285/)
+ - [HONOR Robot Phone hands-on: I can’t believe it actually works this well!](https://www.androidauthority.com/honor-robot-phone-hands-on-3697387/)
+ - [Amsterdam-based neocloud Nebius reports Q2 cloud revenue up 514% YoY to $575M and total revenue of $582M, above $557M est.; NBIS rises 15%+, and is up 131% YTD &lpar;Paula Doenecke/Bloomberg&rpar;](https://www.techmeme.com/260812/p19#a260812p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
