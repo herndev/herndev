@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything Google announced: Pixel 11, Pixel Tag, Pixel Watch 11, more](https://appleinsider.com/articles/26/08/12/everything-google-announced-pixel-11-pixel-tag-pixel-watch-11-more?utm_source=rss)
- - [A livestream of the Made by Google 2026 event hosted by Trevor Noah &lpar;Made by Google on YouTube&rpar;](https://www.techmeme.com/260812/p51#a260812p51)
- - [Apple fails to delay filing new App Store fees to court as Epic battle continues](https://appleinsider.com/articles/26/08/11/apple-fails-to-delay-filing-new-app-store-fees-to-court-as-epic-battle-continues?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Apple is discussing multiyear content deals with publishers to deliver current news and information for Siri AI, with a potential nine-figure budget &lpar;Alexandra Bruell/Wall Street Journal&rpar;](https://www.techmeme.com/260812/p54#a260812p54)
+ - [Sources: the White House is expected to expand its AI oversight framework in the coming months to cover open models once they reach frontier capabilities &lpar;Hugo Lowell/Wired&rpar;](https://www.techmeme.com/260812/p53#a260812p53)
+ - [The Best Photos of the Big August Solar Eclipse](https://www.wired.com/story/best-photos-august-solar-eclipse-spain/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
