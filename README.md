@@ -117,11 +117,11 @@ Linux                    24 mins             █░░░░░░░░░░�
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7163](https://github.com/marcizhu/marcizhu/issues/7163) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-2. ❗️ Opened issue [#7163](https://github.com/marcizhu/marcizhu/issues/7163) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-3. ❗️ Closed issue [#7158](https://github.com/marcizhu/marcizhu/issues/7158) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-4. ❗️ Opened issue [#7158](https://github.com/marcizhu/marcizhu/issues/7158) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-5. ❗️ Closed issue [#7157](https://github.com/marcizhu/marcizhu/issues/7157) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+1. ❗️ Closed issue [#2](https://github.com/herndev/FreewiF-Android/issues/2) in [herndev/FreewiF-Android](https://github.com/herndev/FreewiF-Android)
+2. ❗️ Closed issue [#7163](https://github.com/marcizhu/marcizhu/issues/7163) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+3. ❗️ Opened issue [#7163](https://github.com/marcizhu/marcizhu/issues/7163) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+4. ❗️ Closed issue [#7158](https://github.com/marcizhu/marcizhu/issues/7158) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+5. ❗️ Opened issue [#7158](https://github.com/marcizhu/marcizhu/issues/7158) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
 <!--END_SECTION:activity-->
 
 ---
