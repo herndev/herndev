@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bliss of happiness](http://9gag.com/gag/awyRxZy)
- - ⏩ [Good to see when law is unbiased and upholds equality](http://9gag.com/gag/a0eApPO)
+ - 💣 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
+ - ⏩ [Bliss of happiness](http://9gag.com/gag/awyRxZy)
  - 👉 [All is calm and well until....](http://9gag.com/gag/aByqrgD)<!-- MEMES:END -->
 
 ---
