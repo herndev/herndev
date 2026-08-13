@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Meteor Seen From A Plane](http://9gag.com/gag/aQzwMq2)
- - ⏩ [This was rather wholesome](http://9gag.com/gag/ary6NR6)
- - 👉 [Smooth finish](http://9gag.com/gag/apRyLPB)<!-- MEMES:END -->
+ - 💣 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
+ - ⏩ [Nice show](http://9gag.com/gag/aPANWgw)
+ - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
 
 ---
 
