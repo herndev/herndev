@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bliss of happiness](http://9gag.com/gag/awyRxZy)
+ - 💣 [A cheater CS2 player receives special treatment from a Valve employee, who bans all of his accounts from live streams.](http://9gag.com/gag/aAyWPDR)
  - ⏩ [Is this Real?](http://9gag.com/gag/aRB5AwB)
- - 👉 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)<!-- MEMES:END -->
+ - 👉 [Bliss of happiness](http://9gag.com/gag/awyRxZy)<!-- MEMES:END -->
 
 ---
 
