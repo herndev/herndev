@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI previews Ultrafast, an API tier powered by Cerebras that runs GPT-5.6 Sol up to 14× faster and generates up to 750 output tokens per second &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260813/p39#a260813p39)
- - [Where did all the hotels go? Google Maps glitch makes pins vanish](https://www.androidauthority.com/google-maps-missing-hotel-pins-3698406/)
- - [Google’s new Pixel 11 chip might not be 2nm, after all](https://www.androidauthority.com/tensor-g6-3nm-3698349/)<!-- TECH:END -->
+ - [Gemini 3.7 Flash is here with better coding, reasoning, and more](https://www.androidauthority.com/gemini-3-7-flash-debut-3698440/)
+ - [US-based robot vacuum maker Matic rolls out a firmware update that lets users control its $1,245 vacuum with voice commands in more than 70 languages &lpar;Chris Welch/Bloomberg&rpar;](https://www.techmeme.com/260813/p40#a260813p40)
+ - [Instagram Has a New Logo for Some Reason](https://www.cnet.com/news/social-media/instagram-has-a-new-logo-for-some-reason/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
