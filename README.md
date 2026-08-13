@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Pixel 11 won’t miss a chance to tell when it’s using the new Extreme Charging Mode](https://www.androidauthority.com/google-pixel-weather-screensaver-extreme-charging-mode-3698041/)
- - [More Pixel 11 phones now have this NFC payments upgrade](https://www.androidauthority.com/pixel-11-phones-felica-japan-3698027/)
- - [Google adds 9 new wallpapers for Pixel users and soccer fans](https://www.androidauthority.com/pixel-soccer-themed-wallpapers-3698059/)<!-- TECH:END -->
+ - [Google is quietly giving these Pixel apps a brand-new look after Pixel 11 launch](https://www.androidauthority.com/google-pixel-redesigned-app-icons-3698145/)
+ - [Sources: Demis Hassabis pitched a new independent industry AI safety entity, modeled on the IAEA, to top Trump officials before stepping down as DeepMind CEO &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260813/p16#a260813p16)
+ - [Meta says it removed 750,000+ Australian accounts believed to belong to under-16s to comply with the social media ban, including 462,000 Instagram accounts &lpar;Newley Purnell/Bloomberg&rpar;](https://www.techmeme.com/260813/p15#a260813p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
