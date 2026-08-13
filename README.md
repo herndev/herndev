@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gboard’s Rambler could learn your slang as you speak along](https://www.androidauthority.com/gboard-rambler-dictionary-teardown-3698106/)
- - [Download the Google Pixel 11 wallpapers here](https://www.androidauthority.com/pixel-11-series-wallpapers-3673921/)
- - [Accelerant, which uses data analytics to connect insurance underwriters with risk capital partners, agrees to go private with Thoma Bravo in a $4.4B deal &lpar;Katherine Hamilton/Wall Street Journal&rpar;](https://www.techmeme.com/260813/p24#a260813p24)<!-- TECH:END -->
+ - [Another top Android brand is joining the wide-screen foldable bandwagon](https://www.androidauthority.com/xiaomi-wide-screen-foldable-leak-3698170/)
+ - [Ninja Just Launched Its First Water Filter. Here’s What It Does That Others Don’t](https://www.cnet.com/home/kitchen-and-household/ninja-just-launched-its-first-water-filter-heres-what-it-does-that-others-dont/)
+ - [The Best Samsung Galaxy S26 Cases &lpar;2026&rpar;: S26, S26+, and S26 Ultra](https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
