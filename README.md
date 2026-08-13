@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is quietly giving these Pixel apps a brand-new look after Pixel 11 launch](https://www.androidauthority.com/google-pixel-redesigned-app-icons-3698145/)
- - [Sources: Demis Hassabis pitched a new independent industry AI safety entity, modeled on the IAEA, to top Trump officials before stepping down as DeepMind CEO &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260813/p16#a260813p16)
- - [Meta says it removed 750,000+ Australian accounts believed to belong to under-16s to comply with the social media ban, including 462,000 Instagram accounts &lpar;Newley Purnell/Bloomberg&rpar;](https://www.techmeme.com/260813/p15#a260813p15)<!-- TECH:END -->
+ - [CXMT overtakes Tencent to become the most valuable Chinese company, with a ~$524B market cap, above Tencent&#39;s $510B; CXMT&#39;s Shanghai shares jumped 460%+ at IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260813/p20#a260813p20)
+ - [Amsterdam-based Adyen reports H1 2026 net revenue up 19% YoY to €1.3B, processed volumes up 24% YoY to €803.8B, and EBITDA of €641.5M; ADYEN.AS rises 12%+ &lpar;Adam Whittaker/Wall Street Journal&rpar;](https://www.techmeme.com/260813/p19#a260813p19)
+ - [3 camera features the Pixel 11 series quietly stole from other Android phones](https://www.androidauthority.com/camera-features-pixel-11-copied-other-brands-3697036/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
