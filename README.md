@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is discussing multiyear content deals with publishers to deliver current news and information for Siri AI, with a potential nine-figure budget &lpar;Alexandra Bruell/Wall Street Journal&rpar;](https://www.techmeme.com/260812/p54#a260812p54)
- - [Sources: the White House is expected to expand its AI oversight framework in the coming months to cover open models once they reach frontier capabilities &lpar;Hugo Lowell/Wired&rpar;](https://www.techmeme.com/260812/p53#a260812p53)
- - [The Best Photos of the Big August Solar Eclipse](https://www.wired.com/story/best-photos-august-solar-eclipse-spain/)<!-- TECH:END -->
+ - [Pixel 11 vs. Pixel 11 Pro vs. Pixel 11 Pro XL: Google’s Latest Phones Compared](https://www.cnet.com/tech/mobile/pixel-11-vs-pixel-11-pro-vs-pixel-11-pro-xl-googles-latest-phones-compared/)
+ - [Pegatron: iPhone 18 won&#39;t launch with iPhone 18 Pro](https://appleinsider.com/articles/26/08/12/pegatron-says-the-base-iphone-18-wont-launch-alongside-the-iphone-18-pro-lineup?utm_source=rss)
+ - [Sources: Apple is discussing multiyear content deals with publishers to deliver current news and information for Siri AI, with a potential nine-figure budget &lpar;Alexandra Bruell/Wall Street Journal&rpar;](https://www.techmeme.com/260812/p54#a260812p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
