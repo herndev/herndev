@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
- - ⏩ [Nice show](http://9gag.com/gag/aPANWgw)
- - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
+ - 💣 [This is real](http://9gag.com/gag/a9yQWKm)
+ - ⏩ [Smooth finish](http://9gag.com/gag/apRyLPB)
+ - 👉 [Educated](http://9gag.com/gag/aZZABW6)<!-- MEMES:END -->
 
 ---
 
