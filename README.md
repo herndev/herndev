@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dats a Long legged Croc](http://9gag.com/gag/aMVRwpX)
- - ⏩ [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
- - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
+ - 💣 [Nice show](http://9gag.com/gag/aPANWgw)
+ - ⏩ [Better dont touch a strangers man dog](http://9gag.com/gag/aQzwxEq)
+ - 👉 [Do what you do best!](http://9gag.com/gag/abAP0dE)<!-- MEMES:END -->
 
 ---
 
