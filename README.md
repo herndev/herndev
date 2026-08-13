@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another top Android brand is joining the wide-screen foldable bandwagon](https://www.androidauthority.com/xiaomi-wide-screen-foldable-leak-3698170/)
- - [Ninja Just Launched Its First Water Filter. Here’s What It Does That Others Don’t](https://www.cnet.com/home/kitchen-and-household/ninja-just-launched-its-first-water-filter-heres-what-it-does-that-others-dont/)
- - [The Best Samsung Galaxy S26 Cases &lpar;2026&rpar;: S26, S26+, and S26 Ultra](https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 8’s iFixit teardown highlights serious repair flaws](https://www.androidauthority.com/samsung-galaxy-z-fold-8-ifixit-teardown-repairability-3698202/)
+ - [Spotify’s Android app is breaking down, and subscribers are reaching their limit](https://www.androidauthority.com/spotify-android-app-lag-performance-issues-3698268/)
+ - [Microsoft begins merging its consumer and commercial Copilot apps into a single app, with a mobile and web rollout in mid-August and desktop in mid-September &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260813/p29#a260813p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
