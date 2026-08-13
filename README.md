@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CXMT overtakes Tencent to become the most valuable Chinese company, with a ~$524B market cap, above Tencent&#39;s $510B; CXMT&#39;s Shanghai shares jumped 460%+ at IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260813/p20#a260813p20)
- - [Amsterdam-based Adyen reports H1 2026 net revenue up 19% YoY to €1.3B, processed volumes up 24% YoY to €803.8B, and EBITDA of €641.5M; ADYEN.AS rises 12%+ &lpar;Adam Whittaker/Wall Street Journal&rpar;](https://www.techmeme.com/260813/p19#a260813p19)
- - [3 camera features the Pixel 11 series quietly stole from other Android phones](https://www.androidauthority.com/camera-features-pixel-11-copied-other-brands-3697036/)<!-- TECH:END -->
+ - [Gboard’s Rambler could learn your slang as you speak along](https://www.androidauthority.com/gboard-rambler-dictionary-teardown-3698106/)
+ - [Download the Google Pixel 11 wallpapers here](https://www.androidauthority.com/pixel-11-series-wallpapers-3673921/)
+ - [Accelerant, which uses data analytics to connect insurance underwriters with risk capital partners, agrees to go private with Thoma Bravo in a $4.4B deal &lpar;Katherine Hamilton/Wall Street Journal&rpar;](https://www.techmeme.com/260813/p24#a260813p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
