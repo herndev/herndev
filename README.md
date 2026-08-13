@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shoppers Outside the US May Have to Wait Longer for the Folding iPhone, Report Suggests](https://www.cnet.com/tech/mobile/shoppers-outside-the-us-may-have-to-wait-longer-for-the-folding-iphone-report-suggests/)
- - [Netflix is closing game studios Night School Studio, which it acquired in 2021, and Moonloot, and is also cutting jobs from its internal games team &lpar;Stephen Totilo/Game File&rpar;](https://www.techmeme.com/260813/p45#a260813p45)
- - [Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything](https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/)<!-- TECH:END -->
+ - [Sources: OpenAI is on track to generate annualized revenue of $40B+ based on its current performance, roughly doubling its run rate from the end of 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260813/p49#a260813p49)
+ - [Pixel Watch 5 vs. Galaxy Watch 9: Comparing Google and Samsung’s New Watches](https://www.cnet.com/tech/mobile/pixel-watch-5-vs-galaxy-watch-9-comparing-google-and-samsungs-new-watches/)
+ - [Using AI Shopping Carts Could Lead You to Spend More Money, Study Says](https://www.cnet.com/tech/using-ai-shopping-carts-could-lead-you-to-spend-more-money-study-says/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
