@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Ted Lasso&#39; season 4 scores Apple TV&#39;s biggest launch yet](https://appleinsider.com/articles/26/08/13/ted-lasso-season-4-scores-apple-tvs-biggest-launch-yet?utm_source=rss)
- - [Some Google Maps users just lost a key feature for avoiding crowds](https://www.androidauthority.com/google-maps-popular-times-2-3698496/)
- - [My Favorite Sunrise Alarm Clock Now Tracks Your Sleep — No Wearable Required](https://www.cnet.com/health/sleep/my-favorite-sunrise-alarm-clock-now-tracks-your-sleep-no-wearable-required/)<!-- TECH:END -->
+ - [Shoppers Outside the US May Have to Wait Longer for the Folding iPhone, Report Suggests](https://www.cnet.com/tech/mobile/shoppers-outside-the-us-may-have-to-wait-longer-for-the-folding-iphone-report-suggests/)
+ - [Netflix is closing game studios Night School Studio, which it acquired in 2021, and Moonloot, and is also cutting jobs from its internal games team &lpar;Stephen Totilo/Game File&rpar;](https://www.techmeme.com/260813/p45#a260813p45)
+ - [Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything](https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
