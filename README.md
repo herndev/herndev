@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bliss of happiness](http://9gag.com/gag/awyRxZy)
- - ⏩ [Honesty](http://9gag.com/gag/abAPZ2r)
- - 👉 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)<!-- MEMES:END -->
+ - 💣 [Nice show](http://9gag.com/gag/aPANWgw)
+ - ⏩ [Bliss of happiness](http://9gag.com/gag/awyRxZy)
+ - 👉 [2 &amp; 3 for me. Which psycho choose 4?](http://9gag.com/gag/a349B6m)<!-- MEMES:END -->
 
 ---
 
