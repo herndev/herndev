@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
- - ⏩ [I\u2019m gen X](http://9gag.com/gag/a4PejQ6)
+ - 💣 [Nice show](http://9gag.com/gag/aPANWgw)
+ - ⏩ [It&#39;s in the name](http://9gag.com/gag/azxNAbq)
  - 👉 [Magic trapped in plastic](http://9gag.com/gag/aqy3rqR)<!-- MEMES:END -->
 
 ---
