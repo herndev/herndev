@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ramp&#39;s July AI index: Anthropic&#39;s market share hit 43.5%, widening its lead over OpenAI; Fable 5 is only 6% of tokens businesses bought, likely due to high cost &lpar;Ara Kharazian/Ramp&rpar;](https://www.techmeme.com/260813/p36#a260813p36)
- - [OpenAI hires Dali Rajic, COO of Alphabet&#39;s Wiz, as chief revenue officer, replacing ex-Slack CEO Denise Dresser, who was hired in December 2025 and will leave &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260813/p35#a260813p35)
- - [Chrome just flagged a hugely popular extension as unsafe](https://www.androidauthority.com/chrome-gofullpage-extension-unsafe-3698292/)<!-- TECH:END -->
+ - [OpenAI previews Ultrafast, an API tier powered by Cerebras that runs GPT-5.6 Sol up to 14× faster and generates up to 750 output tokens per second &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260813/p39#a260813p39)
+ - [Where did all the hotels go? Google Maps glitch makes pins vanish](https://www.androidauthority.com/google-maps-missing-hotel-pins-3698406/)
+ - [Google’s new Pixel 11 chip might not be 2nm, after all](https://www.androidauthority.com/tensor-g6-3nm-3698349/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
