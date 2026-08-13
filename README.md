@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This is real](http://9gag.com/gag/a9yQWKm)
- - ⏩ [Smooth finish](http://9gag.com/gag/apRyLPB)
- - 👉 [Educated](http://9gag.com/gag/aZZABW6)<!-- MEMES:END -->
+ - ⏩ [Educated](http://9gag.com/gag/aZZABW6)
+ - 👉 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)<!-- MEMES:END -->
 
 ---
 
