@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yuno, a payments infrastructure provider for processing transactions globally, raised a $45M Series B led by Global PayTech with a16z and others participating &lpar;Maria Clara Cobo/Bloomberg&rpar;](https://www.techmeme.com/260812/p57#a260812p57)
- - [Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260812/p56#a260812p56)
- - [My Favorite Things from Made by Google 2026](https://www.cnet.com/tech/mobile/my-favorite-things-from-made-by-google-2026/)<!-- TECH:END -->
+ - [Foreign investment in Japan&#39;s chip industry has reached ~$37B, as government subsidies attract companies working on logic and memory chips and image sensors &lpar;Shuhei Ochiai/Nikkei Asia&rpar;](https://www.techmeme.com/260813/p3#a260813p3)
+ - [President Trump signs a memo letting the US government partner with private firms to conduct cyberattacks abroad against criminal groups targeting Americans &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](https://www.techmeme.com/260813/p2#a260813p2)
+ - [Priceline Promo Codes &amp; Coupons: 10% Off August 2026](https://www.wired.com/story/priceline-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
