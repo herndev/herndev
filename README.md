@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foreign investment in Japan&#39;s chip industry has reached ~$37B, as government subsidies attract companies working on logic and memory chips and image sensors &lpar;Shuhei Ochiai/Nikkei Asia&rpar;](https://www.techmeme.com/260813/p3#a260813p3)
- - [President Trump signs a memo letting the US government partner with private firms to conduct cyberattacks abroad against criminal groups targeting Americans &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](https://www.techmeme.com/260813/p2#a260813p2)
- - [Priceline Promo Codes &amp; Coupons: 10% Off August 2026](https://www.wired.com/story/priceline-promo-code/)<!-- TECH:END -->
+ - [Pixel 11 trade-in deals: Get a $1,250 discount and a free Pixel Watch 5](https://www.androidauthority.com/pixel-11-trade-in-deals-3698031/)
+ - [Lenovo reports Q1 revenue up 43% YoY to $26.94B, its highest quarterly revenue growth in five years, as AI-related revenue rose 60% YoY to $9.3B, 35% of total &lpar;Laurie Chen/Reuters&rpar;](https://www.techmeme.com/260813/p11#a260813p11)
+ - [Pixel 11 phones get seven years of spare parts to go with update policy](https://www.androidauthority.com/google-pixel-11-seven-years-spare-parts-3698034/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
