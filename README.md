@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 11 trade-in deals: Get a $1,250 discount and a free Pixel Watch 5](https://www.androidauthority.com/pixel-11-trade-in-deals-3698031/)
- - [Lenovo reports Q1 revenue up 43% YoY to $26.94B, its highest quarterly revenue growth in five years, as AI-related revenue rose 60% YoY to $9.3B, 35% of total &lpar;Laurie Chen/Reuters&rpar;](https://www.techmeme.com/260813/p11#a260813p11)
- - [Pixel 11 phones get seven years of spare parts to go with update policy](https://www.androidauthority.com/google-pixel-11-seven-years-spare-parts-3698034/)<!-- TECH:END -->
+ - [Your Pixel 11 won’t miss a chance to tell when it’s using the new Extreme Charging Mode](https://www.androidauthority.com/google-pixel-weather-screensaver-extreme-charging-mode-3698041/)
+ - [More Pixel 11 phones now have this NFC payments upgrade](https://www.androidauthority.com/pixel-11-phones-felica-japan-3698027/)
+ - [Google adds 9 new wallpapers for Pixel users and soccer fans](https://www.androidauthority.com/pixel-soccer-themed-wallpapers-3698059/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
