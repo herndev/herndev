@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice show](http://9gag.com/gag/aPANWgw)
- - ⏩ [It&#39;s in the name](http://9gag.com/gag/azxNAbq)
+ - 💣 [It&#39;s in the name](http://9gag.com/gag/azxNAbq)
+ - ⏩ [Bro is fighting for his life down there.](http://9gag.com/gag/aZZApZ0)
  - 👉 [Magic trapped in plastic](http://9gag.com/gag/aqy3rqR)<!-- MEMES:END -->
 
 ---
