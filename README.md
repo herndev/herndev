@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 8’s iFixit teardown highlights serious repair flaws](https://www.androidauthority.com/samsung-galaxy-z-fold-8-ifixit-teardown-repairability-3698202/)
- - [Spotify’s Android app is breaking down, and subscribers are reaching their limit](https://www.androidauthority.com/spotify-android-app-lag-performance-issues-3698268/)
- - [Microsoft begins merging its consumer and commercial Copilot apps into a single app, with a mobile and web rollout in mid-August and desktop in mid-September &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260813/p29#a260813p29)<!-- TECH:END -->
+ - [Sources: AMD plans to raise as much as $5B in what could be the chipmaker&#39;s biggest-ever investment-grade bond sale, as it ramps up spending to meet AI demand &lpar;Brian W Smith/Bloomberg&rpar;](https://www.techmeme.com/260813/p32#a260813p32)
+ - [DeepSeek raises prices, adding dynamic pricing, ahead of a potential IPO; V4-Flash output tokens go from $0.28/1M to $1.32 during peak hours and $0.66 off-peak &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260813/p31#a260813p31)
+ - [I looked inside an AI generated movie, and the best parts were all human](https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
