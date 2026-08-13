@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s in the name](http://9gag.com/gag/azxNAbq)
- - ⏩ [Bro is fighting for his life down there.](http://9gag.com/gag/aZZApZ0)
- - 👉 [Magic trapped in plastic](http://9gag.com/gag/aqy3rqR)<!-- MEMES:END -->
+ - 💣 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
+ - ⏩ [Better dont touch a strangers man dog](http://9gag.com/gag/aQzwxEq)
+ - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
 
 ---
 
