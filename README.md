@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hero without cape](http://9gag.com/gag/avyYnXd)
- - ⏩ [Bliss of happiness](http://9gag.com/gag/awyRxZy)
- - 👉 [2 &amp; 3 for me. Which psycho choose 4?](http://9gag.com/gag/a349B6m)<!-- MEMES:END -->
+ - 💣 [Bliss of happiness](http://9gag.com/gag/awyRxZy)
+ - ⏩ [Is this Real?](http://9gag.com/gag/aRB5AwB)
+ - 👉 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)<!-- MEMES:END -->
 
 ---
 
