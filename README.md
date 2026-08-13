@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice show](http://9gag.com/gag/aPANWgw)
- - ⏩ [Bliss of happiness](http://9gag.com/gag/awyRxZy)
- - 👉 [2 &amp; 3 for me. Which psycho choose 4?](http://9gag.com/gag/a349B6m)<!-- MEMES:END -->
+ - 💣 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
+ - ⏩ [Pig just wants to see the sky](http://9gag.com/gag/a87P4j6)
+ - 👉 [50 Cent does it again](http://9gag.com/gag/a9yQPBo)<!-- MEMES:END -->
 
 ---
 
