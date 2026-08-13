@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hero without cape](http://9gag.com/gag/avyYnXd)
- - ⏩ [A cheater CS2 player receives special treatment from a Valve employee, who bans all of his accounts from live streams.](http://9gag.com/gag/aAyWPDR)
- - 👉 [Nice show](http://9gag.com/gag/aPANWgw)<!-- MEMES:END -->
+ - 💣 [A Meteor Seen From A Plane](http://9gag.com/gag/aQzwMq2)
+ - ⏩ [This was rather wholesome](http://9gag.com/gag/ary6NR6)
+ - 👉 [Smooth finish](http://9gag.com/gag/apRyLPB)<!-- MEMES:END -->
 
 ---
 
