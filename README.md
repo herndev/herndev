@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 11 vs. Pixel 11 Pro vs. Pixel 11 Pro XL: Google’s Latest Phones Compared](https://www.cnet.com/tech/mobile/pixel-11-vs-pixel-11-pro-vs-pixel-11-pro-xl-googles-latest-phones-compared/)
- - [Pegatron: iPhone 18 won&#39;t launch with iPhone 18 Pro](https://appleinsider.com/articles/26/08/12/pegatron-says-the-base-iphone-18-wont-launch-alongside-the-iphone-18-pro-lineup?utm_source=rss)
- - [Sources: Apple is discussing multiyear content deals with publishers to deliver current news and information for Siri AI, with a potential nine-figure budget &lpar;Alexandra Bruell/Wall Street Journal&rpar;](https://www.techmeme.com/260812/p54#a260812p54)<!-- TECH:END -->
+ - [Yuno, a payments infrastructure provider for processing transactions globally, raised a $45M Series B led by Global PayTech with a16z and others participating &lpar;Maria Clara Cobo/Bloomberg&rpar;](https://www.techmeme.com/260812/p57#a260812p57)
+ - [Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260812/p56#a260812p56)
+ - [My Favorite Things from Made by Google 2026](https://www.cnet.com/tech/mobile/my-favorite-things-from-made-by-google-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
