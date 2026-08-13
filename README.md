@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A cheater CS2 player receives special treatment from a Valve employee, who bans all of his accounts from live streams.](http://9gag.com/gag/aAyWPDR)
- - ⏩ [Is this Real?](http://9gag.com/gag/aRB5AwB)
- - 👉 [Bliss of happiness](http://9gag.com/gag/awyRxZy)<!-- MEMES:END -->
+ - 💣 [Hero without cape](http://9gag.com/gag/avyYnXd)
+ - ⏩ [A cheater CS2 player receives special treatment from a Valve employee, who bans all of his accounts from live streams.](http://9gag.com/gag/aAyWPDR)
+ - 👉 [Nice show](http://9gag.com/gag/aPANWgw)<!-- MEMES:END -->
 
 ---
 
