@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AMD plans to raise as much as $5B in what could be the chipmaker&#39;s biggest-ever investment-grade bond sale, as it ramps up spending to meet AI demand &lpar;Brian W Smith/Bloomberg&rpar;](https://www.techmeme.com/260813/p32#a260813p32)
- - [DeepSeek raises prices, adding dynamic pricing, ahead of a potential IPO; V4-Flash output tokens go from $0.28/1M to $1.32 during peak hours and $0.66 off-peak &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260813/p31#a260813p31)
- - [I looked inside an AI generated movie, and the best parts were all human](https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list)<!-- TECH:END -->
+ - [Ramp&#39;s July AI index: Anthropic&#39;s market share hit 43.5%, widening its lead over OpenAI; Fable 5 is only 6% of tokens businesses bought, likely due to high cost &lpar;Ara Kharazian/Ramp&rpar;](https://www.techmeme.com/260813/p36#a260813p36)
+ - [OpenAI hires Dali Rajic, COO of Alphabet&#39;s Wiz, as chief revenue officer, replacing ex-Slack CEO Denise Dresser, who was hired in December 2025 and will leave &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260813/p35#a260813p35)
+ - [Chrome just flagged a hugely popular extension as unsafe](https://www.androidauthority.com/chrome-gofullpage-extension-unsafe-3698292/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
