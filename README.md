@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is on track to generate annualized revenue of $40B+ based on its current performance, roughly doubling its run rate from the end of 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260813/p49#a260813p49)
- - [Pixel Watch 5 vs. Galaxy Watch 9: Comparing Google and Samsung’s New Watches](https://www.cnet.com/tech/mobile/pixel-watch-5-vs-galaxy-watch-9-comparing-google-and-samsungs-new-watches/)
- - [Using AI Shopping Carts Could Lead You to Spend More Money, Study Says](https://www.cnet.com/tech/using-ai-shopping-carts-could-lead-you-to-spend-more-money-study-says/)<!-- TECH:END -->
+ - [Apple and Epic argue over how much Apple should get from purchases made outside the App Store](https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing)
+ - [Epic v. Apple: Apple proposes commissions on US linked-out purchases of 15% for standard apps, 10% for partner programs and renewals, 5% for Small Business apps &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260813/p51#a260813p51)
+ - [A judge orders Kalshi to stop offering most of its prediction contracts in Washington state, after finding it likely violated state gambling-related laws &lpar;J.J. McCorvey/Bloomberg&rpar;](https://www.techmeme.com/260813/p50#a260813p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
