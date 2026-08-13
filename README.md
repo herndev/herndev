@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini 3.7 Flash is here with better coding, reasoning, and more](https://www.androidauthority.com/gemini-3-7-flash-debut-3698440/)
- - [US-based robot vacuum maker Matic rolls out a firmware update that lets users control its $1,245 vacuum with voice commands in more than 70 languages &lpar;Chris Welch/Bloomberg&rpar;](https://www.techmeme.com/260813/p40#a260813p40)
- - [Instagram Has a New Logo for Some Reason](https://www.cnet.com/news/social-media/instagram-has-a-new-logo-for-some-reason/)<!-- TECH:END -->
+ - [OpenAI is losing its second executive this week](https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure)
+ - [Sources: Silver Lake is in talks to acquire HR and financial management software maker Workday, which has a market value of ~$43B; WDAY jumps 18%+ &lpar;Milana Vinn/Reuters&rpar;](https://www.techmeme.com/260813/p43#a260813p43)
+ - [Tether says KPMG completed Tether&#39;s first full audit and found its 2025 financial statements fairly presented its financial position in all material respects &lpar;Krisztian Sandor/CoinDesk&rpar;](https://www.techmeme.com/260813/p42#a260813p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
