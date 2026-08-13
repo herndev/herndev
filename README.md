@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI is losing its second executive this week](https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure)
- - [Sources: Silver Lake is in talks to acquire HR and financial management software maker Workday, which has a market value of ~$43B; WDAY jumps 18%+ &lpar;Milana Vinn/Reuters&rpar;](https://www.techmeme.com/260813/p43#a260813p43)
- - [Tether says KPMG completed Tether&#39;s first full audit and found its 2025 financial statements fairly presented its financial position in all material respects &lpar;Krisztian Sandor/CoinDesk&rpar;](https://www.techmeme.com/260813/p42#a260813p42)<!-- TECH:END -->
+ - [&#39;Ted Lasso&#39; season 4 scores Apple TV&#39;s biggest launch yet](https://appleinsider.com/articles/26/08/13/ted-lasso-season-4-scores-apple-tvs-biggest-launch-yet?utm_source=rss)
+ - [Some Google Maps users just lost a key feature for avoiding crowds](https://www.androidauthority.com/google-maps-popular-times-2-3698496/)
+ - [My Favorite Sunrise Alarm Clock Now Tracks Your Sleep — No Wearable Required](https://www.cnet.com/health/sleep/my-favorite-sunrise-alarm-clock-now-tracks-your-sleep-no-wearable-required/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
