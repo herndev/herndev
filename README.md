@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m gen X](http://9gag.com/gag/a4PejQ6)
- - ⏩ [Yes, OK, you can fix her... but you can choose only one and choose wisely.](http://9gag.com/gag/a5QmrvG)
- - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
+ - 💣 [One of those nights](http://9gag.com/gag/azxNAWZ)
+ - ⏩ [Peace of mind?](http://9gag.com/gag/a9yQYnD)
+ - 👉 [I\u2019m gen X](http://9gag.com/gag/a4PejQ6)<!-- MEMES:END -->
 
 ---
 
