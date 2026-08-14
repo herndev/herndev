@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes, OK, you can fix her... but you can choose only one and choose wisely.](http://9gag.com/gag/a5QmrvG)
- - ⏩ [No homo](http://9gag.com/gag/apRypZ9)
- - 👉 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)<!-- MEMES:END -->
+ - 💣 [Well! That backfired](http://9gag.com/gag/amojrP9)
+ - ⏩ [High school teacher broke down in tears in class after realizing his students couldn\u2019t read or write](http://9gag.com/gag/avyYGnE)
+ - 👉 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)<!-- MEMES:END -->
 
 ---
 
