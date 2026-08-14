@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)
- - ⏩ [Thirsty](http://9gag.com/gag/a0eAbnB)
- - 👉 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)<!-- MEMES:END -->
+ - 💣 [Thirsty](http://9gag.com/gag/a0eAbnB)
+ - ⏩ [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
+ - 👉 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)<!-- MEMES:END -->
 
 ---
 
