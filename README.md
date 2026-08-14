@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Better dont touch a strangers man dog](http://9gag.com/gag/aQzwxEq)
- - ⏩ [Nice show](http://9gag.com/gag/aPANWgw)
- - 👉 [Olivia Munn as psylocke in x men apocalypse](http://9gag.com/gag/aPANWYP)<!-- MEMES:END -->
+ - 💣 [I\u2019m gen X](http://9gag.com/gag/a4PejQ6)
+ - ⏩ [Yes, OK, you can fix her... but you can choose only one and choose wisely.](http://9gag.com/gag/a5QmrvG)
+ - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
 
 ---
 
