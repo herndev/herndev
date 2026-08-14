@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&amp;#8217;s best new camera feature is only for the Pixel 11 series](https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones)
- - [Fairphone sets date to finally unveil the Fairphone 6 Plus](https://www.androidauthority.com/fairphone-6-plus-launch-date-3698966/)
- - [Google adds a toggle in Gemini and Flow to remove visible watermarks from AI-generated images, videos, and music; SynthID watermarks and C2PA metadata remain &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260814/p18#a260814p18)<!-- TECH:END -->
+ - [Nevada granted Tesla a robotaxi permit, but capped the fleet at 10 vehicles, not 5,000 that Tesla sought, banned airport pickups, and ordered other restrictions &lpar;Joann Muller/Axios&rpar;](https://www.techmeme.com/260814/p19#a260814p19)
+ - [A RAMageddon guide to back-to-school laptop shopping](https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school)
+ - [Google now lets you remove the watermark from Gemini’s creations](https://www.androidauthority.com/gemini-watermark-removal-setting-3698980/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
