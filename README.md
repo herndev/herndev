@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No homo](http://9gag.com/gag/apRypZ9)
- - ⏩ [No reception party for you!!!](http://9gag.com/gag/avyYrq5)
- - 👉 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)<!-- MEMES:END -->
+ - 💣 [One of those nights](http://9gag.com/gag/azxNAWZ)
+ - ⏩ [No homo](http://9gag.com/gag/apRypZ9)
+ - 👉 [Missing Case Footage](http://9gag.com/gag/a6ZvbBR)<!-- MEMES:END -->
 
 ---
 
