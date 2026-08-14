@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The White House announces new tariffs on drones and components, including a 100% levy on &quot;particularly sensitive&quot; models, aiming to cut reliance on Chinese tech &lpar;Demetri Sevastopulo/Financial Times&rpar;](https://www.techmeme.com/260814/p3#a260814p3)
- - [Columbia Promo Codes: 15% Off | August 2026](https://www.wired.com/story/columbia-promo-code/)
- - [Layla Sleep Coupon: Save Up to $600 in August 2026](https://www.wired.com/story/layla-sleep-coupon/)<!-- TECH:END -->
+ - [Z.ai debuts GLM-5.3, using the same base model as GLM-5.2 with scaled post-training for stronger coding and cyber skills, with weights due in two weeks &lpar;Z.ai&rpar;](https://www.techmeme.com/260814/p5#a260814p5)
+ - [A look at Quincy, a rural Washington farming town of 8,500 that benefited from a data center boom as its poverty rate fell from 29.4% in 2012 to 6.2% in 2024 &lpar;Nathaniel Meyersohn/CNN&rpar;](https://www.techmeme.com/260814/p4#a260814p4)
+ - [The White House announces new tariffs on drones and components, including a 100% levy on &quot;particularly sensitive&quot; models, aiming to cut reliance on Chinese tech &lpar;Demetri Sevastopulo/Financial Times&rpar;](https://www.techmeme.com/260814/p3#a260814p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
