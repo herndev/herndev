@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon adds a clause in its user agreement that seeks to prevent shoppers from filing class-action lawsuits against it, after removing a similar clause in 2021 &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/260814/p25#a260814p25)
- - [The Next Big Influencer Is This 4-Foot-Tall Robot From China](https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/)
- - [ChatGPT can now keep tabs on what you’re up to in case you need reminding later](https://www.androidauthority.com/chatgpt-computer-history-3699005/)<!-- TECH:END -->
+ - [Filing: Nvidia has a nearly $21B stake in SpaceX and a $30B stake in Intel; Nvidia invested as much as $2B in xAI in 2025 and $5B in Intel &lpar;Lynn Doan/Bloomberg&rpar;](https://www.techmeme.com/260814/p27#a260814p27)
+ - [New York City Lawmakers Push to ‘Ban the Scan’ at MSG](https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/)
+ - [The US government wants private companies to start hacking the hackers](https://www.androidauthority.com/us-cybersecurity-companies-to-conduct-cyberattacks-3699039/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
