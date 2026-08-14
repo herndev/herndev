@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It&#39;s begun - US and Canadian firms can now buy ads on Apple Maps](https://appleinsider.com/articles/26/08/14/its-begun---us-and-canadian-firms-can-now-buy-ads-on-apple-maps?utm_source=rss)
- - [Alibaba releases weights for Qwen3.8 models under Apache 2.0 license, including Qwen3.8-27B, which it says beats Qwen3.7-Plus and excels in real-world coding &lpar;@alibaba_qwen&rpar;](https://www.techmeme.com/260814/p16#a260814p16)
- - [Chrome is testing a bookmarks bar feature nobody asked for](https://www.androidauthority.com/chrome-bookmarks-bar-auto-hide-3698892/)<!-- TECH:END -->
+ - [Google&amp;#8217;s best new camera feature is only for the Pixel 11 series](https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones)
+ - [Fairphone sets date to finally unveil the Fairphone 6 Plus](https://www.androidauthority.com/fairphone-6-plus-launch-date-3698966/)
+ - [Google adds a toggle in Gemini and Flow to remove visible watermarks from AI-generated images, videos, and music; SynthID watermarks and C2PA metadata remain &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260814/p18#a260814p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
