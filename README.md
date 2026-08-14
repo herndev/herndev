@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No reception party for you!!!](http://9gag.com/gag/avyYrq5)
- - ⏩ [He finally lost the battle. He was a 16 and 0 professional boxer but his career was ended after being illegally punched by his opponent Terrell Williams which caused brain bleeding and permanent neurological damage. RIP man, you fought hard.](http://9gag.com/gag/an7pbV0)
- - 👉 [Just trying to push some boundaries](http://9gag.com/gag/a9yQpMm)<!-- MEMES:END -->
+ - 💣 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
+ - ⏩ [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)
+ - 👉 [Thirsty](http://9gag.com/gag/a0eAbnB)<!-- MEMES:END -->
 
 ---
 
