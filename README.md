@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [France&#39;s top court blocks a bill banning social media for under-15s, citing freedom of expression; Macron asks his government to re-work the bill &lpar;Reuters&rpar;](https://www.techmeme.com/260814/p13#a260814p13)
- - [Black Hole Stars Are Apparently Real and Help Explain a Long-Standing Mystery](https://www.cnet.com/science/space/black-hole-star-mom-bh-1-space-science-research/)
- - [Leak uncovers design changes coming with One UI 9.5 to Galaxy phones](https://www.androidauthority.com/samsung-one-ui-9-5-leak-galaxy-design-changes-3698833/)<!-- TECH:END -->
+ - [Apple&#39;s M5 Pro MacBook Pro with 48GB RAM gets $300 price cut](https://appleinsider.com/articles/26/08/14/apples-m5-pro-macbook-pro-with-48gb-ram-gets-300-price-cut?utm_source=rss)
+ - [In Q2, &quot;other income&quot;, mostly from investment gains, at Amazon and Alphabet totaled ~$121B after taxes and made up 66% and 71%, respectively, of profits &lpar;Jonathan Weil/Wall Street Journal&rpar;](https://www.techmeme.com/260814/p15#a260814p15)
+ - [Samsung Galaxy phone allegedly explodes in pocket, marking fourth incident this year](https://www.androidauthority.com/samsung-galaxy-smartphone-explosion-incident-3698901/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
