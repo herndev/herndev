@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and Epic argue over how much Apple should get from purchases made outside the App Store](https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing)
- - [Epic v. Apple: Apple proposes commissions on US linked-out purchases of 15% for standard apps, 10% for partner programs and renewals, 5% for Small Business apps &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260813/p51#a260813p51)
- - [A judge orders Kalshi to stop offering most of its prediction contracts in Washington state, after finding it likely violated state gambling-related laws &lpar;J.J. McCorvey/Bloomberg&rpar;](https://www.techmeme.com/260813/p50#a260813p50)<!-- TECH:END -->
+ - [Applied Materials reports Q3 revenue up 25% YoY to $9.12B, vs. $8.99B est., net income up 43% to $2.54B, and forecasts Q4 revenue above estimates &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260813/p53#a260813p53)
+ - [Google’s New Pixel 11 Phones Get Higher Starting Prices — Blame the RAM Shortage](https://www.cnet.com/tech/mobile/googles-new-pixel-11-phones-got-higher-starting-prices-blame-the-ram-shortage/)
+ - [Charter receives final state approval to buy Cox for $21.9B after making concessions to California regulators, including low-cost internet for some households &lpar;Patience Haggin/Wall Street Journal&rpar;](https://www.techmeme.com/260813/p52#a260813p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
