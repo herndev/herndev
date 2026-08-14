@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Help build a monument to that ‘sad little bitch’ Elon Musk](https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument)
- - [YouTube says there’s a reason its UI keeps changing, and it’s not to annoy you](https://www.androidauthority.com/youtube-explains-why-ui-keeps-changing-3698670/)
- - [Blackbird and Airtree revalue Canva at $34.9B, down from $42B in 2025, as it struggles in the AI era; Canva&#39;s internal valuation falls to $31B, down from $38.9B &lpar;Australian Financial Review&rpar;](https://www.techmeme.com/260814/p6#a260814p6)<!-- TECH:END -->
+ - [I used DeX to turn my Galaxy S25 Ultra into a lightweight gaming PC — and it actually worked](https://www.androidauthority.com/galaxy-s25-ultra-dex-lightweight-gaming-pc-3668734/)
+ - [This Art Project Slows Down Citi Bikes to Make NYC’s Rent Crisis Feel Real](https://www.wired.com/story/this-art-project-slows-down-citi-bikes-to-make-nycs-rent-crisis-feel-real/)
+ - [Dell XPS 13 Review: Move Over, Neo](https://www.wired.com/review/dell-xps-13-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
