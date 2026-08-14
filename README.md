@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M5 Pro MacBook Pro with 48GB RAM gets $300 price cut](https://appleinsider.com/articles/26/08/14/apples-m5-pro-macbook-pro-with-48gb-ram-gets-300-price-cut?utm_source=rss)
- - [In Q2, &quot;other income&quot;, mostly from investment gains, at Amazon and Alphabet totaled ~$121B after taxes and made up 66% and 71%, respectively, of profits &lpar;Jonathan Weil/Wall Street Journal&rpar;](https://www.techmeme.com/260814/p15#a260814p15)
- - [Samsung Galaxy phone allegedly explodes in pocket, marking fourth incident this year](https://www.androidauthority.com/samsung-galaxy-smartphone-explosion-incident-3698901/)<!-- TECH:END -->
+ - [It&#39;s begun - US and Canadian firms can now buy ads on Apple Maps](https://appleinsider.com/articles/26/08/14/its-begun---us-and-canadian-firms-can-now-buy-ads-on-apple-maps?utm_source=rss)
+ - [Alibaba releases weights for Qwen3.8 models under Apache 2.0 license, including Qwen3.8-27B, which it says beats Qwen3.7-Plus and excels in real-world coding &lpar;@alibaba_qwen&rpar;](https://www.techmeme.com/260814/p16#a260814p16)
+ - [Chrome is testing a bookmarks bar feature nobody asked for](https://www.androidauthority.com/chrome-bookmarks-bar-auto-hide-3698892/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
