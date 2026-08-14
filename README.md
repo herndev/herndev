@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of those nights](http://9gag.com/gag/azxNAWZ)
- - ⏩ [Peace of mind?](http://9gag.com/gag/a9yQYnD)
- - 👉 [I\u2019m gen X](http://9gag.com/gag/a4PejQ6)<!-- MEMES:END -->
+ - 💣 [All approach diverted!](http://9gag.com/gag/adBZX8B)
+ - ⏩ [Crazy world](http://9gag.com/gag/aKG02Vg)
+ - 👉 [Nice show](http://9gag.com/gag/aPANWgw)<!-- MEMES:END -->
 
 ---
 
