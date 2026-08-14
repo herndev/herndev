@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I used DeX to turn my Galaxy S25 Ultra into a lightweight gaming PC — and it actually worked](https://www.androidauthority.com/galaxy-s25-ultra-dex-lightweight-gaming-pc-3668734/)
- - [This Art Project Slows Down Citi Bikes to Make NYC’s Rent Crisis Feel Real](https://www.wired.com/story/this-art-project-slows-down-citi-bikes-to-make-nycs-rent-crisis-feel-real/)
- - [Dell XPS 13 Review: Move Over, Neo](https://www.wired.com/review/dell-xps-13-2026/)<!-- TECH:END -->
+ - [DeepSeek releases DeepSeek Harness under the MIT license in developer preview, touting a design where &quot;every capability is a plugin&quot; that can be swapped out &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260814/p10#a260814p10)
+ - [Best Pixel 10 Cases and Accessories &lpar;2026&rpar;: Mous, dbrand, Bellroy](https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/)
+ - [The Pixel 11 Pro is a slap in the face to Android enthusiasts everywhere](https://www.androidauthority.com/pixel-11-pro-not-for-android-enthusiasts-3697917/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
