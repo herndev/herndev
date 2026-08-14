@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All approach diverted!](http://9gag.com/gag/adBZX8B)
- - ⏩ [Crazy world](http://9gag.com/gag/aKG02Vg)
- - 👉 [Nice show](http://9gag.com/gag/aPANWgw)<!-- MEMES:END -->
+ - 💣 [No homo](http://9gag.com/gag/apRypZ9)
+ - ⏩ [No reception party for you!!!](http://9gag.com/gag/avyYrq5)
+ - 👉 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)<!-- MEMES:END -->
 
 ---
 
