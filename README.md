@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice show](http://9gag.com/gag/aPANWgw)
- - ⏩ [Better dont touch a strangers man dog](http://9gag.com/gag/aQzwxEq)
- - 👉 [Do what you do best!](http://9gag.com/gag/abAP0dE)<!-- MEMES:END -->
+ - 💣 [Maybe the insurance will cover that](http://9gag.com/gag/amoj9Ko)
+ - ⏩ [Hero without cape](http://9gag.com/gag/avyYnXd)
+ - 👉 [Nice show](http://9gag.com/gag/aPANWgw)<!-- MEMES:END -->
 
 ---
 
