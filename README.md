@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung has new Galaxy headphones in the works](https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones)
- - [How classic console games are coming to the Mac without emulation](https://appleinsider.com/articles/26/08/14/how-classic-console-games-are-coming-to-the-mac-without-emulation?utm_source=rss)
- - [Nevada granted Tesla a robotaxi permit, but capped the fleet at 10 vehicles, not 5,000 that Tesla sought, banned airport pickups, and ordered other restrictions &lpar;Joann Muller/Axios&rpar;](https://www.techmeme.com/260814/p19#a260814p19)<!-- TECH:END -->
+ - [Missing the bigger picture: Apple pulls down ad in Milan after children&#39;s rights group complains](https://appleinsider.com/articles/26/08/14/missing-the-bigger-picture-apple-pulls-down-ad-in-milan-after-childrens-rights-group-complains?utm_source=rss)
+ - [Apple’s Once-Futuristic iPhone X Is Now ‘Obsolete’](https://www.cnet.com/tech/mobile/apples-once-futuristic-iphone-x-is-now-obsolete/)
+ - [Sources: PayPal is in talks to sell itself to a group including Stripe and Advent, which proposed paying $60.50/share in July; PayPal is seeking a higher price &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260814/p22#a260814p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
