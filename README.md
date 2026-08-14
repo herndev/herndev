@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has trained its own AI for China rather than using Gemini](https://appleinsider.com/articles/26/08/14/apple-has-trained-its-own-ai-for-china-rather-than-using-gemini?utm_source=rss)
- - [How to use Continuity to make your Apple devices work better together](https://appleinsider.com/inside/icloud/tips/how-to-use-continuity-to-make-your-apple-devices-work-better-together?utm_source=rss)
- - [Sources: stablecoin payments company RedotPay delays plans for a US IPO to 2027 or later, as it seeks regulatory approvals and deals with legal issues &lpar;Bloomberg&rpar;](https://www.techmeme.com/260814/p12#a260814p12)<!-- TECH:END -->
+ - [Life on Mars? It Remains a Tantalizing Topic for Scientific Study](https://www.cnet.com/science/space/mars-science-seeking-signs-of-life/)
+ - [Best Wireless Chargers &lpar;2026&rpar;: My Picks After Testing 100+](https://www.wired.com/gallery/best-wireless-chargers/)
+ - [Google’s Pixel Phones Are Getting a Tap-to-Share Feature for Contact Info and More](https://www.cnet.com/tech/google-pixel-phones-get-airdrop-like-feature-share-files-contacts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
