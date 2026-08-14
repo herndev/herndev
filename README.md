@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bad idea at the beach](http://9gag.com/gag/aVvnDbM)
- - ⏩ [One of those nights](http://9gag.com/gag/azxNAWZ)
- - 👉 [High school teacher broke down in tears in class after realizing his students couldn\u2019t read or write](http://9gag.com/gag/avyYGnE)<!-- MEMES:END -->
+ - 💣 [Yes, OK, you can fix her... but you can choose only one and choose wisely.](http://9gag.com/gag/a5QmrvG)
+ - ⏩ [No homo](http://9gag.com/gag/apRypZ9)
+ - 👉 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)<!-- MEMES:END -->
 
 ---
 
