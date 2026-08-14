@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Maybe the insurance will cover that](http://9gag.com/gag/amoj9Ko)
- - ⏩ [Hero without cape](http://9gag.com/gag/avyYnXd)
- - 👉 [Nice show](http://9gag.com/gag/aPANWgw)<!-- MEMES:END -->
+ - 💣 [Better dont touch a strangers man dog](http://9gag.com/gag/aQzwxEq)
+ - ⏩ [Nice show](http://9gag.com/gag/aPANWgw)
+ - 👉 [Olivia Munn as psylocke in x men apocalypse](http://9gag.com/gag/aPANWYP)<!-- MEMES:END -->
 
 ---
 
