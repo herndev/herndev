@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of those nights](http://9gag.com/gag/azxNAWZ)
- - ⏩ [No homo](http://9gag.com/gag/apRypZ9)
- - 👉 [Missing Case Footage](http://9gag.com/gag/a6ZvbBR)<!-- MEMES:END -->
+ - 💣 [Bad idea at the beach](http://9gag.com/gag/aVvnDbM)
+ - ⏩ [Yes, OK, you can fix her... but you can choose only one and choose wisely.](http://9gag.com/gag/a5QmrvG)
+ - 👉 [High school teacher broke down in tears in class after realizing his students couldn\u2019t read or write](http://9gag.com/gag/avyYGnE)<!-- MEMES:END -->
 
 ---
 
