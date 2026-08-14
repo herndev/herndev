@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nevada granted Tesla a robotaxi permit, but capped the fleet at 10 vehicles, not 5,000 that Tesla sought, banned airport pickups, and ordered other restrictions &lpar;Joann Muller/Axios&rpar;](https://www.techmeme.com/260814/p19#a260814p19)
- - [A RAMageddon guide to back-to-school laptop shopping](https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school)
- - [Google now lets you remove the watermark from Gemini’s creations](https://www.androidauthority.com/gemini-watermark-removal-setting-3698980/)<!-- TECH:END -->
+ - [Samsung has new Galaxy headphones in the works](https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones)
+ - [How classic console games are coming to the Mac without emulation](https://appleinsider.com/articles/26/08/14/how-classic-console-games-are-coming-to-the-mac-without-emulation?utm_source=rss)
+ - [Nevada granted Tesla a robotaxi permit, but capped the fleet at 10 vehicles, not 5,000 that Tesla sought, banned airport pickups, and ordered other restrictions &lpar;Joann Muller/Axios&rpar;](https://www.techmeme.com/260814/p19#a260814p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
