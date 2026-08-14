@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek releases DeepSeek Harness under the MIT license in developer preview, touting a design where &quot;every capability is a plugin&quot; that can be swapped out &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260814/p10#a260814p10)
- - [Best Pixel 10 Cases and Accessories &lpar;2026&rpar;: Mous, dbrand, Bellroy](https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/)
- - [The Pixel 11 Pro is a slap in the face to Android enthusiasts everywhere](https://www.androidauthority.com/pixel-11-pro-not-for-android-enthusiasts-3697917/)<!-- TECH:END -->
+ - [Apple has trained its own AI for China rather than using Gemini](https://appleinsider.com/articles/26/08/14/apple-has-trained-its-own-ai-for-china-rather-than-using-gemini?utm_source=rss)
+ - [How to use Continuity to make your Apple devices work better together](https://appleinsider.com/inside/icloud/tips/how-to-use-continuity-to-make-your-apple-devices-work-better-together?utm_source=rss)
+ - [Sources: stablecoin payments company RedotPay delays plans for a US IPO to 2027 or later, as it seeks regulatory approvals and deals with legal issues &lpar;Bloomberg&rpar;](https://www.techmeme.com/260814/p12#a260814p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
