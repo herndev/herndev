@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [David Sacks says &quot;Dario Amodei believes frontier AI is too powerful to distribute; we believe it is too powerful to centralize&quot; after Amodei shared policy ideas &lpar;David Sacks/@davidsacks&rpar;](https://www.techmeme.com/260817/p36#a260817p36)
  - [Find people is rolling out on Wear OS, but it’s not for finding people](https://www.androidauthority.com/find-hub-people-wear-os-rollout-3699562/)
- - [Epic doesn&#39;t believe in compromise unless it is with Google](https://appleinsider.com/articles/26/08/17/epic-doesnt-believe-in-compromise-unless-it-is-with-google?utm_source=rss)
- - [Pornhub&#39;s parent company, Aylo, will pay $120M to settle two 2021 class action lawsuits in California and Alabama alleging it profited from child abuse material &lpar;Samantha Cole/404 Media&rpar;](https://www.techmeme.com/260817/p35#a260817p35)<!-- TECH:END -->
+ - [Epic doesn&#39;t believe in compromise unless it is with Google](https://appleinsider.com/articles/26/08/17/epic-doesnt-believe-in-compromise-unless-it-is-with-google?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
