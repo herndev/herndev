@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rip Hayden](http://9gag.com/gag/aoyrPog)
+ - 💣 [Just American thing](http://9gag.com/gag/aLnY06x)
  - ⏩ [Skydiver couldn\u2019t deploy her parachute](http://9gag.com/gag/a9yQR46)
- - 👉 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)<!-- MEMES:END -->
+ - 👉 [Biggest scientific mystery on earth is the great unconformity, which is a barrier that has been observed globally where the rocks above a certain point are 500 million years old and the rocks below that line are 1.7 billion years old. 1.2 billion years of rock layers are missing](http://9gag.com/gag/aByq23P)<!-- MEMES:END -->
 
 ---
 
