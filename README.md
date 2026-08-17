@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess I missed some details](https://www.reddit.com/r/funny/comments/1vomh5f/guess_i_missed_some_details/)
- - ⏩ [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
- - 👉 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)<!-- MEMES:END -->
+ - 💣 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - ⏩ [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)
+ - 👉 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)<!-- MEMES:END -->
 
 ---
 
