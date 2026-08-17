@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 17 QPR2 Beta 3 is a surprisingly feature-packed update](https://www.androidauthority.com/android-17-qpr2-beta-3-new-features-3699084/)
- - [Singapore hopes access to advanced AI models will stem the flow of finance talent to Hong Kong, where financial firms struggle to access the latest US AI models &lpar;Financial Times&rpar;](https://www.techmeme.com/260816/p13#a260816p13)
- - [D23: All the New Lands and Rides Revealed for Disneyland and Disney World](https://www.cnet.com/tech/d23-all-the-new-lands-and-rides-revealed-for-disneyland-and-disney-world/)<!-- TECH:END -->
+ - [Today’s NYT Connections: Sports Edition Hints and Answers for Aug. 17, #693](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-17-693/)
+ - [Anthropic&#39;s text watermark alters word probabilities to embed a fingerprint, which could degrade Claude&#39;s writing, despite its claim of no impact on quality &lpar;John Gruber/Daring Fireball&rpar;](https://www.techmeme.com/260817/p1#a260817p1)
+ - [Android 17 QPR2 Beta 3 is a surprisingly feature-packed update](https://www.androidauthority.com/android-17-qpr2-beta-3-new-features-3699084/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
