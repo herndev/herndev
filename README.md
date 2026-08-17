@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new deal will put the Pixel 11 and Gemini in front of millions](https://www.androidauthority.com/google-pixel-11-european-soccer-3699292/)
- - [Android’s Ultra flagship era may be coming to an end](https://www.androidauthority.com/android-ultra-flagship-era-ending-3699314/)
- - [Greg Brockman calls the OpenAI-Hugging Face incident &quot;a watershed moment&quot; and discusses how OpenAI and other organizations can use AI to improve cyber defenses &lpar;Greg Brockman&rpar;](https://www.techmeme.com/260817/p16#a260817p16)<!-- TECH:END -->
+ - [Investigation: Amazon is buying huge quantities of rare books, scanning them for AI, and destroying them; a tracked Biblio order went to its Las Vegas facility &lpar;Emanuel Maiberg/404 Media&rpar;](https://www.techmeme.com/260817/p20#a260817p20)
+ - [ETH Zurich spinout Gravis Robotics raised a $200M Series A from SoftBank to scale Gravis Rack, a retrofit autonomous control appliance that mounts on excavators &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260817/p19#a260817p19)
+ - [It’s about ethics in journalism, with Ben Smith](https://www.theverge.com/podcast/980759/ben-smith-semafor-ethics-journalism-ai-events-buzzfeed-media-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
