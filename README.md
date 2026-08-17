@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Proper Self defense](http://9gag.com/gag/aMVRY0R)
- - ⏩ [When they hired you to fix vibecoded program](http://9gag.com/gag/a1mzWL6)
- - 👉 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)<!-- MEMES:END -->
+ - 💣 [Rip Hayden](http://9gag.com/gag/aoyrPog)
+ - ⏩ [Skydiver couldn\u2019t deploy her parachute](http://9gag.com/gag/a9yQR46)
+ - 👉 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)<!-- MEMES:END -->
 
 ---
 
