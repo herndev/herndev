@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Proper Self defense](http://9gag.com/gag/aMVRY0R)
- - ⏩ [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)
+ - 💣 [Just American thing](http://9gag.com/gag/aLnY06x)
+ - ⏩ [Proper Self defense](http://9gag.com/gag/aMVRY0R)
  - 👉 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)<!-- MEMES:END -->
 
 ---
