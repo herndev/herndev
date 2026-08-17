@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Michigan women sue Apple over AirTag anti-stalking protection failures](https://appleinsider.com/articles/26/08/17/michigan-women-sue-apple-over-airtag-anti-stalking-protection-failures?utm_source=rss)
- - [PSA: Android 17 QPR2 Beta 3 may mess up your home screen](https://www.androidauthority.com/android-17-qpr2-beta-3-bugs-3699240/)
- - [How German regulators are cracking down on App Tracking Transparency](https://appleinsider.com/articles/26/08/17/how-german-regulators-are-cracking-down-on-app-tracking-transparency?utm_source=rss)<!-- TECH:END -->
+ - [Google’s new deal will put the Pixel 11 and Gemini in front of millions](https://www.androidauthority.com/google-pixel-11-european-soccer-3699292/)
+ - [Android’s Ultra flagship era may be coming to an end](https://www.androidauthority.com/android-ultra-flagship-era-ending-3699314/)
+ - [Greg Brockman calls the OpenAI-Hugging Face incident &quot;a watershed moment&quot; and discusses how OpenAI and other organizations can use AI to improve cyber defenses &lpar;Greg Brockman&rpar;](https://www.techmeme.com/260817/p16#a260817p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
