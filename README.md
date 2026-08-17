@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Pixel and Samsung, now another brand could get Google’s Scam Detection](https://www.androidauthority.com/google-scam-detection-expanding-teardown-3699159/)
- - [Pixels could soon get AI-powered ‘Battery Usage Summaries’](https://www.androidauthority.com/google-pixel-ai-battery-usage-summaries-apk-teardown-3699191/)
- - [I replaced Duolingo with Gemini, and it’s &lpar;almost&rpar; the perfect alternative](https://www.androidauthority.com/i-replaced-duolingo-with-gemini-3696132/)<!-- TECH:END -->
+ - [An analysis of 60 of the largest planned US data centers: they could together produce 101.5M tons of CO2 per year, or ~7% of US power sector emissions in 2025 &lpar;Financial Times&rpar;](https://www.techmeme.com/260817/p9#a260817p9)
+ - [The hidden chip compromise lurking in today’s $1,000 smartphones](https://www.androidauthority.com/smartphone-processor-chip-binning-explained-3696531/)
+ - [El Niño and Saharan Dust Silence Atlantic Hurricane Season](https://www.wired.com/story/el-nino-quiets-atlantic-hurricane-season/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
