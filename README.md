@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
- - ⏩ [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)
+ - 💣 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
+ - ⏩ [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
  - 👉 [Optical illusion wins the game](http://9gag.com/gag/aoyr5w2)<!-- MEMES:END -->
 
 ---
