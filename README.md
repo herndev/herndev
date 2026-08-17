@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 11 vs Google Pixel Watch 5: Flagship smartwatches, compared](https://appleinsider.com/inside/apple-watch-series-11/vs/apple-watch-series-11-vs-google-pixel-watch-5-flagship-smartwatches-compared?utm_source=rss)
- - [CookUnity Prepared Meal Delivery Review &lpar;2026&rpar;: Chef-Centric Meals](https://www.wired.com/review/cookunity-prepared-meal-delivery-2026/)
- - [Sources: Meta and BlackRock&#39;s $14B El Paso data center project is not insured against total loss, exposing lenders to credit risks and big potential liabilities &lpar;Financial Times&rpar;](https://www.techmeme.com/260817/p11#a260817p11)<!-- TECH:END -->
+ - [Michigan women sue Apple over AirTag anti-stalking protection failures](https://appleinsider.com/articles/26/08/17/michigan-women-sue-apple-over-airtag-anti-stalking-protection-failures?utm_source=rss)
+ - [PSA: Android 17 QPR2 Beta 3 may mess up your home screen](https://www.androidauthority.com/android-17-qpr2-beta-3-bugs-3699240/)
+ - [How German regulators are cracking down on App Tracking Transparency](https://appleinsider.com/articles/26/08/17/how-german-regulators-are-cracking-down-on-app-tracking-transparency?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
