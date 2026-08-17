@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)
- - ⏩ [Proper Self defense](http://9gag.com/gag/aMVRY0R)
- - 👉 [Random](http://9gag.com/gag/a5QmMrL)<!-- MEMES:END -->
+ - 💣 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)
+ - ⏩ [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - 👉 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)<!-- MEMES:END -->
 
 ---
 
