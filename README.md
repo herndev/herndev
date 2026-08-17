@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [D23: All the New Lands and Rides Revealed for Disneyland and Disney World](https://www.cnet.com/tech/d23-all-the-new-lands-and-rides-revealed-for-disneyland-and-disney-world/)
- - [A look at companies like Inception Point creating AI personas for media, fashion, film, and music industries that could host podcasts, model clothes, and more &lpar;Reggie Ugwu/New York Times&rpar;](https://www.techmeme.com/260816/p12#a260816p12)
- - [How a Claude model made a math breakthrough during its unsuccessful 54-hour attempt to solve the Riemann hypothesis after a user repeatedly encouraged it &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260816/p11#a260816p11)<!-- TECH:END -->
+ - [Android 17 QPR2 Beta 3 is a surprisingly feature-packed update](https://www.androidauthority.com/android-17-qpr2-beta-3-new-features-3699084/)
+ - [Singapore hopes access to advanced AI models will stem the flow of finance talent to Hong Kong, where financial firms struggle to access the latest US AI models &lpar;Financial Times&rpar;](https://www.techmeme.com/260816/p13#a260816p13)
+ - [D23: All the New Lands and Rides Revealed for Disneyland and Disney World](https://www.cnet.com/tech/d23-all-the-new-lands-and-rides-revealed-for-disneyland-and-disney-world/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
