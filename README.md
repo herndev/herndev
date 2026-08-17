@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic&#39;s revenue run rate reached $65B by the end of July, up from $47B in May and $9B in late 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260817/p31#a260817p31)
- - [Your YouTube views are about to go up, but there’s a catch](https://www.androidauthority.com/youtube-view-count-change-3699493/)
- - [Latest macOS Golden Gate beta adds unique dynamic wallpapers](https://appleinsider.com/articles/26/08/17/latest-macos-golden-gate-beta-adds-unique-dynamic-wallpapers?utm_source=rss)<!-- TECH:END -->
+ - [Opening arguments begin Tuesday in the state AGs&#39; social media addiction lawsuit against Meta; New Mexico AG says the consequences could be &quot;astronomical&quot; &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260817/p33#a260817p33)
+ - [BNPL lenders like Flex, Zip, and Affirm are now pitching loans for basic household needs; Americans spent $160B through pay-later loans in 2025, up 2x from 2023 &lpar;Stacy Cowley/New York Times&rpar;](https://www.techmeme.com/260817/p32#a260817p32)
+ - [ABC&amp;#8217;s livestreamed news show is powered by trending topics](https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
