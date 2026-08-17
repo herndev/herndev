@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)
- - ⏩ [Classic neighborly exchange](http://9gag.com/gag/aRB51wQ)
- - 👉 [Dumbest man](http://9gag.com/gag/agmMn0g)<!-- MEMES:END -->
+ - 💣 [Dumbest man](http://9gag.com/gag/agmMn0g)
+ - ⏩ [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
+ - 👉 [Full package](http://9gag.com/gag/azxN9zq)<!-- MEMES:END -->
 
 ---
 
