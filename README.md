@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of 60 of the largest planned US data centers: they could together produce 101.5M tons of CO2 per year, or ~7% of US power sector emissions in 2025 &lpar;Financial Times&rpar;](https://www.techmeme.com/260817/p9#a260817p9)
- - [The hidden chip compromise lurking in today’s $1,000 smartphones](https://www.androidauthority.com/smartphone-processor-chip-binning-explained-3696531/)
- - [El Niño and Saharan Dust Silence Atlantic Hurricane Season](https://www.wired.com/story/el-nino-quiets-atlantic-hurricane-season/)<!-- TECH:END -->
+ - [Apple Watch Series 11 vs Google Pixel Watch 5: Flagship smartwatches, compared](https://appleinsider.com/inside/apple-watch-series-11/vs/apple-watch-series-11-vs-google-pixel-watch-5-flagship-smartwatches-compared?utm_source=rss)
+ - [CookUnity Prepared Meal Delivery Review &lpar;2026&rpar;: Chef-Centric Meals](https://www.wired.com/review/cookunity-prepared-meal-delivery-2026/)
+ - [Sources: Meta and BlackRock&#39;s $14B El Paso data center project is not insured against total loss, exposing lenders to credit risks and big potential liabilities &lpar;Financial Times&rpar;](https://www.techmeme.com/260817/p11#a260817p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
