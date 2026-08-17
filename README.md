@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple ordered to change app data consent prompts on iPhones and iPads](https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany)
- - [Need a budget 5G phone for reading? The TCL 60 XE NXTPAPER 5G is 20% off](https://www.androidauthority.com/tcl-60-xe-nxtpaper-5g-amazon-deal-3699381/)
- - [Microsoft says GitHub is down worldwide, with its website, API, Actions, Pull Requests, and other services impacted; GitHub confirmed the outage at 13:40 UTC &lpar;Mayank Parmar/BleepingComputer&rpar;](https://www.techmeme.com/260817/p22#a260817p22)<!-- TECH:END -->
+ - [Nothing Headphone &lpar;a&rpar; drops to a record-low price on Amazon](https://www.androidauthority.com/nothing-headphone-a-deal-3699421/)
+ - [How German regulators are cracking down on App Tracking Transparency](https://appleinsider.com/articles/26/08/17/how-german-regulators-are-cracking-down-on-app-tracking-transparency?utm_source=rss)
+ - [Monzo chair Gary Hoffman is leaving after some of Monzo&#39;s biggest shareholders called for his removal following the board&#39;s decision to remove TS Anil as CEO &lpar;Simon Foy/Financial Times&rpar;](https://www.techmeme.com/260817/p24#a260817p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
