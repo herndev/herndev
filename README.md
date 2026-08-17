@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How US industrial companies like Caterpillar, Cummins, Eaton, and Ford are pivoting their businesses to feed a booming AI data-center market for power equipment &lpar;Bob Tita/Wall Street Journal&rpar;](https://www.techmeme.com/260817/p5#a260817p5)
  - [Anthropic reveals how Claude secretly watermarks AI-written text](https://www.androidauthority.com/how-claude-watermarks-text-3699100/)
- - [I’m hooked on Peak Design’s new City bags](https://www.theverge.com/tech/980137/peak-design-city-line-review)
- - [Your Pixel could soon help you diagnose issues with calls, mobile data, and Wi-Fi](https://www.androidauthority.com/pixel-connectivity-health-diagnostics-apk-teardown-3699105/)<!-- TECH:END -->
+ - [I’m hooked on Peak Design’s new City bags](https://www.theverge.com/tech/980137/peak-design-city-line-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
