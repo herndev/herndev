@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Headphone &lpar;a&rpar; drops to a record-low price on Amazon](https://www.androidauthority.com/nothing-headphone-a-deal-3699421/)
- - [How German regulators are cracking down on App Tracking Transparency](https://appleinsider.com/articles/26/08/17/how-german-regulators-are-cracking-down-on-app-tracking-transparency?utm_source=rss)
- - [Monzo chair Gary Hoffman is leaving after some of Monzo&#39;s biggest shareholders called for his removal following the board&#39;s decision to remove TS Anil as CEO &lpar;Simon Foy/Financial Times&rpar;](https://www.techmeme.com/260817/p24#a260817p24)<!-- TECH:END -->
+ - [Nvidia&#39;s $500B funding package announcement for AI infrastructure follows SEC&#39;s July guidance that confirmed looser restrictions for data center securitizations &lpar;Tobias Burns/CNBC&rpar;](https://www.techmeme.com/260817/p25#a260817p25)
+ - [The Analogue Pocket gets a Supreme makeover in red or gold](https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection)
+ - [Sonos finally added Live Activities controls for your iPhone lockscreen](https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
