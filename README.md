@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good thing this guy did the right thing, now he can work digging sewers the rest of his life](http://9gag.com/gag/aW4KEr2)
- - ⏩ [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
- - 👉 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)<!-- MEMES:END -->
+ - 💣 [Hard pass on that logic](http://9gag.com/gag/aoyrPVA)
+ - ⏩ [Full package](http://9gag.com/gag/azxN9zq)
+ - 👉 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)<!-- MEMES:END -->
 
 ---
 
