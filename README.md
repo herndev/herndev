@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has shipped iOS 26.6.1, and you should install it soon](https://appleinsider.com/articles/26/08/17/apple-has-shipped-ios-2661-and-you-should-install-it-soon?utm_source=rss)
- - [Sources: the US DOJ has been investigating a16z for nearly a year over whether its partners are improperly serving on the boards of competing AI companies &lpar;Bloomberg&rpar;](https://www.techmeme.com/260817/p29#a260817p29)
- - [Apple&#39;s sixth 27-gen developer betas arrive as the fall release draws closer](https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss)<!-- TECH:END -->
+ - [Gboard is cooking up a speedy new way to add content to messages](https://www.androidauthority.com/gboard-quick-insert-3699442/)
+ - [African defense tech company Terra Industries, founded in 2024, raised a $52M seed round from 8VC and others, and says it&#39;s on track to book $100M in contracts &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260817/p30#a260817p30)
+ - [Wordle meets Clippy in this new word game](https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
