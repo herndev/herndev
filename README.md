@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bright future for the USA](http://9gag.com/gag/aRB510B)
- - ⏩ [Another ending](http://9gag.com/gag/azxN10K)
- - 👉 [Butter fly](http://9gag.com/gag/aoyr5Dg)<!-- MEMES:END -->
+ - 💣 [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)
+ - ⏩ [Classic neighborly exchange](http://9gag.com/gag/aRB51wQ)
+ - 👉 [Dumbest man](http://9gag.com/gag/agmMn0g)<!-- MEMES:END -->
 
 ---
 
