@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Opening arguments begin Tuesday in the state AGs&#39; social media addiction lawsuit against Meta; New Mexico AG says the consequences could be &quot;astronomical&quot; &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260817/p33#a260817p33)
- - [BNPL lenders like Flex, Zip, and Affirm are now pitching loans for basic household needs; Americans spent $160B through pay-later loans in 2025, up 2x from 2023 &lpar;Stacy Cowley/New York Times&rpar;](https://www.techmeme.com/260817/p32#a260817p32)
- - [ABC&amp;#8217;s livestreamed news show is powered by trending topics](https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show)<!-- TECH:END -->
+ - [Find people is rolling out on Wear OS, but it’s not for finding people](https://www.androidauthority.com/find-hub-people-wear-os-rollout-3699562/)
+ - [Epic doesn&#39;t believe in compromise unless it is with Google](https://appleinsider.com/articles/26/08/17/epic-doesnt-believe-in-compromise-unless-it-is-with-google?utm_source=rss)
+ - [Pornhub&#39;s parent company, Aylo, will pay $120M to settle two 2021 class action lawsuits in California and Alabama alleging it profited from child abuse material &lpar;Samantha Cole/404 Media&rpar;](https://www.techmeme.com/260817/p35#a260817p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
