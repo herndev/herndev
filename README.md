@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today’s NYT Connections: Sports Edition Hints and Answers for Aug. 17, #693](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-17-693/)
- - [Anthropic&#39;s text watermark alters word probabilities to embed a fingerprint, which could degrade Claude&#39;s writing, despite its claim of no impact on quality &lpar;John Gruber/Daring Fireball&rpar;](https://www.techmeme.com/260817/p1#a260817p1)
- - [Android 17 QPR2 Beta 3 is a surprisingly feature-packed update](https://www.androidauthority.com/android-17-qpr2-beta-3-new-features-3699084/)<!-- TECH:END -->
+ - [AI video generation startup Higgsfield raised $400M from DST, Goldman Sachs, Liberty Global, Intel, and others at a $5.4B valuation, up from $1.3B in January &lpar;James Fontanella-Khan/Financial Times&rpar;](https://www.techmeme.com/260817/p3#a260817p3)
+ - [Chainalysis sues the US government over ICE&#39;s $94.6M contract to buy forensic software and services from its competitor TRM Labs, calling the deal &quot;arbitrary&quot; &lpar;Ezra Reguerra/Cointelegraph&rpar;](https://www.techmeme.com/260817/p2#a260817p2)
+ - [Google quietly resurrects a Pixel gesture we first spotted over a year ago](https://www.androidauthority.com/google-pixel-double-tap-lock-android-17-qpr2-beta-3-3699094/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
