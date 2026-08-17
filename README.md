@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
- - ⏩ [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - 💣 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - ⏩ [Good thing this guy did the right thing, now he can work digging sewers the rest of his life](http://9gag.com/gag/aW4KEr2)
  - 👉 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)<!-- MEMES:END -->
 
 ---
