@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dumbest man](http://9gag.com/gag/agmMn0g)
- - ⏩ [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - 👉 [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)<!-- MEMES:END -->
+ - 💣 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - ⏩ [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
+ - 👉 [Good thing this guy did the right thing, now he can work digging sewers the rest of his life](http://9gag.com/gag/aW4KEr2)<!-- MEMES:END -->
 
 ---
 
