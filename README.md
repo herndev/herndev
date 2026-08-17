@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia&#39;s $500B funding package announcement for AI infrastructure follows SEC&#39;s July guidance that confirmed looser restrictions for data center securitizations &lpar;Tobias Burns/CNBC&rpar;](https://www.techmeme.com/260817/p25#a260817p25)
- - [The Analogue Pocket gets a Supreme makeover in red or gold](https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection)
- - [Sonos finally added Live Activities controls for your iPhone lockscreen](https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities)<!-- TECH:END -->
+ - [Apple has shipped iOS 26.6.1, and you should install it soon](https://appleinsider.com/articles/26/08/17/apple-has-shipped-ios-2661-and-you-should-install-it-soon?utm_source=rss)
+ - [Sources: the US DOJ has been investigating a16z for nearly a year over whether its partners are improperly serving on the boards of competing AI companies &lpar;Bloomberg&rpar;](https://www.techmeme.com/260817/p29#a260817p29)
+ - [Apple&#39;s sixth 27-gen developer betas arrive as the fall release draws closer](https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
