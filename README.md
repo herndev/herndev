@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Z.ai says GLM-5.3 scores 84.5% on CyberGym, vs. Mythos 5&#39;s 83.8%, and its most sensitive cybersecurity functions will only be available to verified users &lpar;Reuters&rpar;](https://www.techmeme.com/260814/p28#a260814p28)
- - [Filing: Nvidia has a nearly $21B stake in SpaceX and a $30B stake in Intel; Nvidia invested as much as $2B in xAI in 2025 and $5B in Intel &lpar;Lynn Doan/Bloomberg&rpar;](https://www.techmeme.com/260814/p27#a260814p27)
- - [New York City Lawmakers Push to ‘Ban the Scan’ at MSG](https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/)<!-- TECH:END -->
+ - [How a Claude model made a math breakthrough during its unsuccessful 54-hour attempt to solve the Riemann hypothesis after a user repeatedly encouraged it &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260816/p11#a260816p11)
+ - [OpenAI reportedly disbanded its preparedness team](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)
+ - [French PM Lecornu will hold a crisis meeting Monday over a June-July cyberattack on France&#39;s tax agency that compromised 678K individual and business accounts &lpar;Phil Serafino/Bloomberg&rpar;](https://www.techmeme.com/260816/p10#a260816p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
