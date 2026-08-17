@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just American thing](http://9gag.com/gag/aLnY06x)
- - ⏩ [Proper Self defense](http://9gag.com/gag/aMVRY0R)
+ - 💣 [Proper Self defense](http://9gag.com/gag/aMVRY0R)
+ - ⏩ [When they hired you to fix vibecoded program](http://9gag.com/gag/a1mzWL6)
  - 👉 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)<!-- MEMES:END -->
 
 ---
