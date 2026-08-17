@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation: Amazon is buying huge quantities of rare books, scanning them for AI, and destroying them; a tracked Biblio order went to its Las Vegas facility &lpar;Emanuel Maiberg/404 Media&rpar;](https://www.techmeme.com/260817/p20#a260817p20)
- - [ETH Zurich spinout Gravis Robotics raised a $200M Series A from SoftBank to scale Gravis Rack, a retrofit autonomous control appliance that mounts on excavators &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260817/p19#a260817p19)
- - [It’s about ethics in journalism, with Ben Smith](https://www.theverge.com/podcast/980759/ben-smith-semafor-ethics-journalism-ai-events-buzzfeed-media-news)<!-- TECH:END -->
+ - [Apple ordered to change app data consent prompts on iPhones and iPads](https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany)
+ - [Need a budget 5G phone for reading? The TCL 60 XE NXTPAPER 5G is 20% off](https://www.androidauthority.com/tcl-60-xe-nxtpaper-5g-amazon-deal-3699381/)
+ - [Microsoft says GitHub is down worldwide, with its website, API, Actions, Pull Requests, and other services impacted; GitHub confirmed the outage at 13:40 UTC &lpar;Mayank Parmar/BleepingComputer&rpar;](https://www.techmeme.com/260817/p22#a260817p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
