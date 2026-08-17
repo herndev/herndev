@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - ⏩ [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
- - 👉 [Good thing this guy did the right thing, now he can work digging sewers the rest of his life](http://9gag.com/gag/aW4KEr2)<!-- MEMES:END -->
+ - 💣 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)
+ - ⏩ [Proper Self defense](http://9gag.com/gag/aMVRY0R)
+ - 👉 [Random](http://9gag.com/gag/a5QmMrL)<!-- MEMES:END -->
 
 ---
 
