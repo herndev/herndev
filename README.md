@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Dumbest man](http://9gag.com/gag/agmMn0g)
- - ⏩ [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
- - 👉 [Full package](http://9gag.com/gag/azxN9zq)<!-- MEMES:END -->
+ - ⏩ [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - 👉 [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)<!-- MEMES:END -->
 
 ---
 
