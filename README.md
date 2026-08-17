@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gboard is cooking up a speedy new way to add content to messages](https://www.androidauthority.com/gboard-quick-insert-3699442/)
- - [African defense tech company Terra Industries, founded in 2024, raised a $52M seed round from 8VC and others, and says it&#39;s on track to book $100M in contracts &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260817/p30#a260817p30)
- - [Wordle meets Clippy in this new word game](https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game)<!-- TECH:END -->
+ - [Sources: Anthropic&#39;s revenue run rate reached $65B by the end of July, up from $47B in May and $9B in late 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260817/p31#a260817p31)
+ - [Your YouTube views are about to go up, but there’s a catch](https://www.androidauthority.com/youtube-view-count-change-3699493/)
+ - [Latest macOS Golden Gate beta adds unique dynamic wallpapers](https://appleinsider.com/articles/26/08/17/latest-macos-golden-gate-beta-adds-unique-dynamic-wallpapers?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
