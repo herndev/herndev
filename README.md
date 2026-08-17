@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)
- - ⏩ [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - 👉 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)<!-- MEMES:END -->
+ - 💣 [Good thing this guy did the right thing, now he can work digging sewers the rest of his life](http://9gag.com/gag/aW4KEr2)
+ - ⏩ [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
+ - 👉 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)<!-- MEMES:END -->
 
 ---
 
