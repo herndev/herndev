@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - ⏩ [Good thing this guy did the right thing, now he can work digging sewers the rest of his life](http://9gag.com/gag/aW4KEr2)
- - 👉 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)<!-- MEMES:END -->
+ - 💣 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
+ - ⏩ [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)
+ - 👉 [Optical illusion wins the game](http://9gag.com/gag/aoyr5w2)<!-- MEMES:END -->
 
 ---
 
