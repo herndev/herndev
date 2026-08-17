@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How US industrial companies like Caterpillar, Cummins, Eaton, and Ford are pivoting their businesses to feed a booming AI data-center market for power equipment &lpar;Bob Tita/Wall Street Journal&rpar;](https://www.techmeme.com/260817/p5#a260817p5)
- - [Anthropic reveals how Claude secretly watermarks AI-written text](https://www.androidauthority.com/how-claude-watermarks-text-3699100/)
- - [I’m hooked on Peak Design’s new City bags](https://www.theverge.com/tech/980137/peak-design-city-line-review)<!-- TECH:END -->
+ - [First Pixel and Samsung, now another brand could get Google’s Scam Detection](https://www.androidauthority.com/google-scam-detection-expanding-teardown-3699159/)
+ - [Pixels could soon get AI-powered ‘Battery Usage Summaries’](https://www.androidauthority.com/google-pixel-ai-battery-usage-summaries-apk-teardown-3699191/)
+ - [I replaced Duolingo with Gemini, and it’s &lpar;almost&rpar; the perfect alternative](https://www.androidauthority.com/i-replaced-duolingo-with-gemini-3696132/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
