@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - ⏩ [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)
- - 👉 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)<!-- MEMES:END -->
+ - 💣 [Bright future for the USA](http://9gag.com/gag/aRB510B)
+ - ⏩ [Another ending](http://9gag.com/gag/azxN10K)
+ - 👉 [Butter fly](http://9gag.com/gag/aoyr5Dg)<!-- MEMES:END -->
 
 ---
 
