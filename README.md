@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Yemen, 90% of men and half of women chew khat daily. A quarter of all their household income is spent on this plant. Alcohol is haram, but they are all drug addicts. Make it make sense.](http://9gag.com/gag/an7pQ9n)
- - ⏩ [She&#39;s a. defensive. mum](http://9gag.com/gag/aByqgMN)
- - 👉 [Skydiver couldn\u2019t deploy her parachute](http://9gag.com/gag/a9yQR46)<!-- MEMES:END -->
+ - 💣 [I can fix her](http://9gag.com/gag/aoyrMx2)
+ - ⏩ [Rip Hayden](http://9gag.com/gag/aoyrPog)
+ - 👉 [Touch\u00e9](http://9gag.com/gag/aNDxpPb)<!-- MEMES:END -->
 
 ---
 
