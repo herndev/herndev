@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No sound because it is censored by North Korean goverment](http://9gag.com/gag/amojvEy)
- - ⏩ [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
- - 👉 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)<!-- MEMES:END -->
+ - 💣 [Rip Hayden](http://9gag.com/gag/aoyrPog)
+ - ⏩ [100% True](http://9gag.com/gag/aYQ8yMV)
+ - 👉 [Stealing shopping cart goes right](http://9gag.com/gag/ae9oDWQ)<!-- MEMES:END -->
 
 ---
 
