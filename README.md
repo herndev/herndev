@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palona, which uses AI agents to automate real-time workflows in brick-and-mortar businesses, raised a $20M Series A, following a $10M seed in 2025 &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260818/p21#a260818p21)
- - [Phone displays with ‘beneficial red light’ might be what your strained eyes need](https://www.androidauthority.com/oppo-find-x10-beneficial-red-light-display-leak-3699816/)
- - [A new Siri Remote may be in the works, but don&#39;t get excited](https://appleinsider.com/articles/26/08/18/a-new-siri-remote-may-be-in-the-works-but-dont-get-excited?utm_source=rss)<!-- TECH:END -->
+ - [Apple unveils new EU business terms from October 1, resolving disputes with the EU, including a new Core Technology Commission and App Store commission tiers &lpar;Apple&rpar;](https://www.techmeme.com/260818/p25#a260818p25)
+ - [Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using a version of Kimi K3 &lpar;Melia Robinson/Business Insider&rpar;](https://www.techmeme.com/260818/p24#a260818p24)
+ - [Apple&#39;s product identifier leak is a hard mystery to solve](https://appleinsider.com/articles/26/08/18/apples-product-identifier-leak-is-a-hard-mystery-to-solve?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
