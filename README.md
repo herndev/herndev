@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on videos show off Galaxy S26 FE, confirm that crazy Horizontal Lock video mode](https://www.androidauthority.com/samsung-galaxy-s26-fe-hands-on-videos-leak-3699595/)
- - [In filings, Apple acknowledges App Store regulatory changes are weighing on its $100B+ services business; US App Store spend fell 6% in Q2, per Sensor Tower &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/260818/p3#a260818p3)
- - [Samsung’s One UI 9.5 could get a new connectivity hub, courtesy of Google](https://www.androidauthority.com/one-ui-9-5-satellite-connectivity-usb-mode-3699598/)<!-- TECH:END -->
+ - [Gboard could soon show this fun animation when your typing hits hyperspeed](https://www.androidauthority.com/gboard-typing-speed-3699549/)
+ - [If I’m spending $2,000 on a foldable, I’m skipping the Pixel 11 Pro Fold for Samsung](https://www.androidauthority.com/pixel-11-pro-fold-vs-galaxy-z-fold-8-ultra-3698287/)
+ - [Apple&amp;#8217;s camera-equipped AirPods appear in leaked video](https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
