@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No sound because it is censored by North Korean goverment](http://9gag.com/gag/amojvEy)
- - ⏩ [When they hired you to fix vibecoded program](http://9gag.com/gag/a1mzWL6)
- - 👉 [European Maid?](http://9gag.com/gag/aNDx0Y3)<!-- MEMES:END -->
+ - 💣 [In Yemen, 90% of men and half of women chew khat daily. A quarter of all their household income is spent on this plant. Alcohol is haram, but they are all drug addicts. Make it make sense.](http://9gag.com/gag/an7pQ9n)
+ - ⏩ [She&#39;s a. defensive. mum](http://9gag.com/gag/aByqgMN)
+ - 👉 [Skydiver couldn\u2019t deploy her parachute](http://9gag.com/gag/a9yQR46)<!-- MEMES:END -->
 
 ---
 
