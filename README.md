@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A video found in the macOS Tahoe 26.7 release candidate appears to show a man demoing camera-equipped AirPods using Visual Intelligence &lpar;Juli Clover/MacRumors&rpar;](https://www.techmeme.com/260817/p38#a260817p38)
- - [Sources: Situational Awareness offered part of its $5B Anthropic stake at a 20% discount as it scrambled for cash; word of its trouble left it &quot;being hunted&quot; &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260817/p37#a260817p37)
- - [macOS Tahoe 26.7 beta references several unreleased products like Home Hub](https://appleinsider.com/articles/26/08/18/macos-tahoe-267-beta-references-several-unreleased-products-like-home-hub?utm_source=rss)<!-- TECH:END -->
+ - [Discord suspends livestreams in Brazil, after the country&#39;s data protection authority ordered it last week, saying Discord failed to protect children and teens &lpar;Associated Press&rpar;](https://www.techmeme.com/260817/p40#a260817p40)
+ - [Sources: Google has told suppliers it plans to move all Pixel phone, smartwatch, and wireless earbud manufacturing out of China in 2027 amid US-China tensions &lpar;Lauly Li/Nikkei Asia&rpar;](https://www.techmeme.com/260817/p39#a260817p39)
+ - [A demo video of AirPods with cameras has leaked via a macOS Tahoe RC](https://appleinsider.com/articles/26/08/18/a-demo-video-of-airpods-with-cameras-has-leaked-via-a-macos-tahoe-rc?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
