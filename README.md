@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord suspends livestreams in Brazil, after the country&#39;s data protection authority ordered it last week, saying Discord failed to protect children and teens &lpar;Associated Press&rpar;](https://www.techmeme.com/260817/p40#a260817p40)
- - [Sources: Google has told suppliers it plans to move all Pixel phone, smartwatch, and wireless earbud manufacturing out of China in 2027 amid US-China tensions &lpar;Lauly Li/Nikkei Asia&rpar;](https://www.techmeme.com/260817/p39#a260817p39)
- - [A demo video of AirPods with cameras has leaked via a macOS Tahoe RC](https://appleinsider.com/articles/26/08/18/a-demo-video-of-airpods-with-cameras-has-leaked-via-a-macos-tahoe-rc?utm_source=rss)<!-- TECH:END -->
+ - [Sources: AI-drafted bills are swamping the US House&#39;s Legislative Counsel, which now spends more time fixing them than it would spend to draft them from scratch &lpar;Owen Dahlkamp/Politico&rpar;](https://www.techmeme.com/260818/p1#a260818p1)
+ - [SteelSeries Coupon Codes: 15% Off in August 2026](https://www.wired.com/story/steelseries-coupon-code/)
+ - [Noom Promo Codes: 50% Off Best Deals &amp; Free Trials for August 2026](https://www.wired.com/story/noom-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
