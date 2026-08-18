@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New EU App Store terms lower both costs and bar to entry for external payments](https://appleinsider.com/articles/26/08/18/new-eu-app-store-terms-lower-both-costs-and-bar-to-entry-for-external-payments?utm_source=rss)
- - [Sources: Anthropic&#39;s revolving credit facility is set to surpass its roughly $10B target as banks compete for roles on the company&#39;s upcoming IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p27#a260818p27)
- - [Leak suggests the Galaxy S26 FE’s hardware may not please everybody](https://www.androidauthority.com/samsung-galaxy-s26-fe-design-specs-features-leak-3699924/)<!-- TECH:END -->
+ - [OpenAI says it has made several changes to its safety practices following the Hugging Face breach and has paused two weeks of deployment-focused RL training &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260818/p29#a260818p29)
+ - [Plex is giving users their old TV menu back](https://www.androidauthority.com/plex-brings-back-left-side-menu-3700033/)
+ - [There is a good reason to praise AirPods with cameras, and not fear them](https://appleinsider.com/articles/26/08/18/there-is-a-good-reason-to-praise-airpods-with-cameras-and-not-fear-them?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
