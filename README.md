@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 11 series proves that the Pixel 12 will be a breaking point for Google smartphones](https://www.androidauthority.com/google-pixel-11-proves-pixel-12-breaking-point-google-smartphones-3696044/)
- - [Google unveils Operation Blue Skies, a £5M trial to re-route North Atlantic aircraft to reduce contrail-induced warming using Google&#39;s AI atmospheric forecasts &lpar;Madeleine Cuff/New Scientist&rpar;](https://www.techmeme.com/260818/p6#a260818p6)
- - [The Cop Who Took On Flock](https://www.wired.com/story/the-cop-who-took-on-flock/)<!-- TECH:END -->
+ - [I Put the Best Digital Notebooks to the Test. Here Are My Favorites &lpar;2026&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
+ - [OpenAI launches ChatGPT for Teens, a new mode that limits high-risk chats around self-harm, eating disorders, and other topics, adds studying tools, and more &lpar;Cecilia Kang/New York Times&rpar;](https://www.techmeme.com/260818/p12#a260818p12)
+ - [Only iPhone 18 Pro Max rumored to get variable aperture](https://appleinsider.com/articles/26/08/18/only-iphone-18-pro-max-rumored-to-get-variable-aperture?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
