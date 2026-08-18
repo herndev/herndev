@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android users just got one of Chrome’s biggest Gemini upgrades](https://www.androidauthority.com/gemini-in-chrome-on-android-3699994/)
- - [VC funding in physical AI companies totaled $47.4B across 521 deals in H1, up 80% from H1 2025, and more than the $41.9B invested from 2022 to 2024 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260818/p30#a260818p30)
- - [New EU App Store terms lower both costs and bar to entry for external payments](https://appleinsider.com/articles/26/08/18/new-eu-app-store-terms-lower-both-costs-and-bar-to-entry-for-external-payments?utm_source=rss)<!-- TECH:END -->
+ - [SteelSeries’ comfy wireless gaming headset is nearly half off](https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale)
+ - [Robin Williams’ Instagram account brought back to fight ‘AI abuse’](https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai)
+ - [Gemini in Chrome Is Now Available for Android Users](https://www.cnet.com/tech/services-and-software/gemini-in-chrome-now-available-for-android-users/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
