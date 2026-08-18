@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify’s new feature will let you remember why you added a track to your playlist](https://www.androidauthority.com/spotify-playlist-notes-3699726/)
- - [Apple’s camera-equipped AirPods just leaked, and now we know what they’ll actually do](https://www.androidauthority.com/apple-airpods-camera-demo-leak-macos-3699674/)
- - [Bizarre YouTube bug is completely wiping out comments and video details, but a fix is coming](https://www.androidauthority.com/youtube-full-screen-bug-3699709/)<!-- TECH:END -->
+ - [Shark’s Answer to the PencilWash Has an Extendable Wand to Clean Tight Spots](https://www.cnet.com/home/kitchen-and-household/sharks-answer-to-the-pencilwash-has-an-extendable-wand-to-clean-tight-spots/)
+ - [Comcast is turning millions of its routers into motion detectors](https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing)
+ - [ABC sues the FCC over Trump and Carr&amp;#8217;s campaign of threats](https://www.theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
