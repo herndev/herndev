@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Tahoe 26.7 beta references several unreleased products like Home Hub](https://appleinsider.com/articles/26/08/18/macos-tahoe-267-beta-references-several-unreleased-products-like-home-hub?utm_source=rss)
- - [Dell UltraSharp 32 4K QD-OLED review: Excellent color-calibration, not perfect for Mac users](https://appleinsider.com/articles/26/08/17/dell-ultrasharp-32-4k-qd-oled-review-excellent-color-calibration-not-perfect-for-mac-users?utm_source=rss)
- - [Apple&#39;s sixth developer betas arrive for iOS 27, macOS 27, and more](https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss)<!-- TECH:END -->
+ - [A video found in the macOS Tahoe 26.7 release candidate appears to show a man demoing camera-equipped AirPods using Visual Intelligence &lpar;Juli Clover/MacRumors&rpar;](https://www.techmeme.com/260817/p38#a260817p38)
+ - [Sources: Situational Awareness offered part of its $5B Anthropic stake at a 20% discount as it scrambled for cash; word of its trouble left it &quot;being hunted&quot; &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260817/p37#a260817p37)
+ - [macOS Tahoe 26.7 beta references several unreleased products like Home Hub](https://appleinsider.com/articles/26/08/18/macos-tahoe-267-beta-references-several-unreleased-products-like-home-hub?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
