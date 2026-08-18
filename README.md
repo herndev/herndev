@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/a87PGg1)
- - ⏩ [Touch\u00e9](http://9gag.com/gag/aNDxpPb)
- - 👉 [Impractical Hulk gloves](http://9gag.com/gag/aNDxgMb)<!-- MEMES:END -->
+ - 💣 [BLIND CIGARETTE TASTE TEST](http://9gag.com/gag/aByqmnD)
+ - ⏩ [Wave After Wave](http://9gag.com/gag/azxNMEK)
+ - 👉 [We failed! R.I.P Hayden Panettiere](http://9gag.com/gag/agmMA41)<!-- MEMES:END -->
 
 ---
 
