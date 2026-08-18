@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rogue Studio, which calls itself a &quot;playground for creative ethical mischief&quot;, launches Rogue 1.0, an AI video tool to make adult content of Hollywood quality &lpar;Jason Parham/Wired&rpar;](https://www.techmeme.com/260818/p2#a260818p2)
  - [Sources: AI-drafted bills are swamping the US House&#39;s Legislative Counsel, which now spends more time fixing them than it would spend to draft them from scratch &lpar;Owen Dahlkamp/Politico&rpar;](https://www.techmeme.com/260818/p1#a260818p1)
- - [Noom Promo Codes: 50% Off Best Deals &amp; Free Trials for August 2026](https://www.wired.com/story/noom-promo-code/)
- - [Hydrow Discount Code: Save Up to $150 | August 2026](https://www.wired.com/story/hydrow-discount-code/)<!-- TECH:END -->
+ - [Noom Promo Codes: 50% Off Best Deals &amp; Free Trials for August 2026](https://www.wired.com/story/noom-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
