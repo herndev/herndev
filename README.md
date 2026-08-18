@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I can fix her](http://9gag.com/gag/aoyrMx2)
- - ⏩ [Rip Hayden](http://9gag.com/gag/aoyrPog)
- - 👉 [Touch\u00e9](http://9gag.com/gag/aNDxpPb)<!-- MEMES:END -->
+ - 💣 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
+ - ⏩ [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)
+ - 👉 [Wave After Wave](http://9gag.com/gag/azxNMEK)<!-- MEMES:END -->
 
 ---
 
