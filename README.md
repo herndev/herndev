@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Magneto over here](http://9gag.com/gag/aByq26Z)
- - ⏩ [Girls when I arrive](http://9gag.com/gag/axyxM71)
- - 👉 [Them](http://9gag.com/gag/a7o410q)<!-- MEMES:END -->
+ - 💣 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
+ - ⏩ [Magneto over here](http://9gag.com/gag/aByq26Z)
+ - 👉 [Wave After Wave](http://9gag.com/gag/azxNMEK)<!-- MEMES:END -->
 
 ---
 
