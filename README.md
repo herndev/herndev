@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says it has made several changes to its safety practices following the Hugging Face breach and has paused two weeks of deployment-focused RL training &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260818/p29#a260818p29)
- - [Plex is giving users their old TV menu back](https://www.androidauthority.com/plex-brings-back-left-side-menu-3700033/)
- - [There is a good reason to praise AirPods with cameras, and not fear them](https://appleinsider.com/articles/26/08/18/there-is-a-good-reason-to-praise-airpods-with-cameras-and-not-fear-them?utm_source=rss)<!-- TECH:END -->
+ - [Android users just got one of Chrome’s biggest Gemini upgrades](https://www.androidauthority.com/gemini-in-chrome-on-android-3699994/)
+ - [VC funding in physical AI companies totaled $47.4B across 521 deals in H1, up 80% from H1 2025, and more than the $41.9B invested from 2022 to 2024 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260818/p30#a260818p30)
+ - [New EU App Store terms lower both costs and bar to entry for external payments](https://appleinsider.com/articles/26/08/18/new-eu-app-store-terms-lower-both-costs-and-bar-to-entry-for-external-payments?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
