@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SteelSeries’ comfy wireless gaming headset is nearly half off](https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale)
- - [Robin Williams’ Instagram account brought back to fight ‘AI abuse’](https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai)
- - [Gemini in Chrome Is Now Available for Android Users](https://www.cnet.com/tech/services-and-software/gemini-in-chrome-now-available-for-android-users/)<!-- TECH:END -->
+ - [Google Calendar finally lets you ban that co-worker who’s always spamming you with meetings](https://www.androidauthority.com/google-calendar-user-blocking-3700108/)
+ - [Sam Altman says OpenAI&#39;s decision to pace its AI development was caused by a collection of research observations showing &quot;various degrees of misalignment&quot; &lpar;Alex Heath/Time&rpar;](https://www.techmeme.com/260818/p33#a260818p33)
+ - [Spotify’s Running Mode is giving Android users another reason to go Premium](https://www.androidauthority.com/spotify-premium-running-mode-android-3700088/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
