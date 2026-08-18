@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
- - ⏩ [Proper Self defense](http://9gag.com/gag/aMVRY0R)
- - 👉 [Wave After Wave](http://9gag.com/gag/azxNMEK)<!-- MEMES:END -->
+ - ⏩ [We failed! R.I.P Hayden Panettiere](http://9gag.com/gag/agmMA41)
+ - 👉 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)<!-- MEMES:END -->
 
 ---
 
