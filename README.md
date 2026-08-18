@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gboard could soon show this fun animation when your typing hits hyperspeed](https://www.androidauthority.com/gboard-typing-speed-3699549/)
- - [If I’m spending $2,000 on a foldable, I’m skipping the Pixel 11 Pro Fold for Samsung](https://www.androidauthority.com/pixel-11-pro-fold-vs-galaxy-z-fold-8-ultra-3698287/)
- - [Apple&amp;#8217;s camera-equipped AirPods appear in leaked video](https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak)<!-- TECH:END -->
+ - [The Pixel 11 series proves that the Pixel 12 will be a breaking point for Google smartphones](https://www.androidauthority.com/google-pixel-11-proves-pixel-12-breaking-point-google-smartphones-3696044/)
+ - [Google unveils Operation Blue Skies, a £5M trial to re-route North Atlantic aircraft to reduce contrail-induced warming using Google&#39;s AI atmospheric forecasts &lpar;Madeleine Cuff/New Scientist&rpar;](https://www.techmeme.com/260818/p6#a260818p6)
+ - [The Cop Who Took On Flock](https://www.wired.com/story/the-cop-who-took-on-flock/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
