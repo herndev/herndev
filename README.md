@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rogue Studio, which calls itself a &quot;playground for creative ethical mischief&quot;, launches Rogue 1.0, an AI video tool to make adult content of Hollywood quality &lpar;Jason Parham/Wired&rpar;](https://www.techmeme.com/260818/p2#a260818p2)
- - [Sources: AI-drafted bills are swamping the US House&#39;s Legislative Counsel, which now spends more time fixing them than it would spend to draft them from scratch &lpar;Owen Dahlkamp/Politico&rpar;](https://www.techmeme.com/260818/p1#a260818p1)
- - [Noom Promo Codes: 50% Off Best Deals &amp; Free Trials for August 2026](https://www.wired.com/story/noom-promo-code/)<!-- TECH:END -->
+ - [Hands-on videos show off Galaxy S26 FE, confirm that crazy Horizontal Lock video mode](https://www.androidauthority.com/samsung-galaxy-s26-fe-hands-on-videos-leak-3699595/)
+ - [In filings, Apple acknowledges App Store regulatory changes are weighing on its $100B+ services business; US App Store spend fell 6% in Q2, per Sensor Tower &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/260818/p3#a260818p3)
+ - [Samsung’s One UI 9.5 could get a new connectivity hub, courtesy of Google](https://www.androidauthority.com/one-ui-9-5-satellite-connectivity-usb-mode-3699598/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
