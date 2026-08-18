@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When they hired you to fix vibecoded program](http://9gag.com/gag/a1mzWL6)
- - ⏩ [Magneto over here](http://9gag.com/gag/aByq26Z)
- - 👉 [Biggest scientific mystery on earth is the great unconformity, which is a barrier that has been observed globally where the rocks above a certain point are 500 million years old and the rocks below that line are 1.7 billion years old. 1.2 billion years of rock layers are missing](http://9gag.com/gag/aByq23P)<!-- MEMES:END -->
+ - 💣 [Magneto over here](http://9gag.com/gag/aByq26Z)
+ - ⏩ [Girls when I arrive](http://9gag.com/gag/axyxM71)
+ - 👉 [Them](http://9gag.com/gag/a7o410q)<!-- MEMES:END -->
 
 ---
 
