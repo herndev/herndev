@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s a. defensive. mum](http://9gag.com/gag/aByqgMN)
- - ⏩ [Just American thing](http://9gag.com/gag/aLnY06x)
- - 👉 [Biggest scientific mystery on earth is the great unconformity, which is a barrier that has been observed globally where the rocks above a certain point are 500 million years old and the rocks below that line are 1.7 billion years old. 1.2 billion years of rock layers are missing](http://9gag.com/gag/aByq23P)<!-- MEMES:END -->
+ - 💣 [Girls when I arrive](http://9gag.com/gag/axyxM71)
+ - ⏩ [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
+ - 👉 [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)<!-- MEMES:END -->
 
 ---
 
