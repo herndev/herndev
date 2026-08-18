@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Put the Best Digital Notebooks to the Test. Here Are My Favorites &lpar;2026&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
- - [OpenAI launches ChatGPT for Teens, a new mode that limits high-risk chats around self-harm, eating disorders, and other topics, adds studying tools, and more &lpar;Cecilia Kang/New York Times&rpar;](https://www.techmeme.com/260818/p12#a260818p12)
- - [Only iPhone 18 Pro Max rumored to get variable aperture](https://appleinsider.com/articles/26/08/18/only-iphone-18-pro-max-rumored-to-get-variable-aperture?utm_source=rss)<!-- TECH:END -->
+ - [Spotify’s new feature will let you remember why you added a track to your playlist](https://www.androidauthority.com/spotify-playlist-notes-3699726/)
+ - [Apple’s camera-equipped AirPods just leaked, and now we know what they’ll actually do](https://www.androidauthority.com/apple-airpods-camera-demo-leak-macos-3699674/)
+ - [Bizarre YouTube bug is completely wiping out comments and video details, but a fix is coming](https://www.androidauthority.com/youtube-full-screen-bug-3699709/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
