@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
- - ⏩ [We failed! R.I.P Hayden Panettiere](http://9gag.com/gag/agmMA41)
+ - 💣 [I&#39;m told this is real CCTV from the Venezuelan earthquake.... I&#39;ve never seen anything like this](http://9gag.com/gag/aYQ8oVv)
+ - ⏩ [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)
  - 👉 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)<!-- MEMES:END -->
 
 ---
