@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m told this is real CCTV from the Venezuelan earthquake.... I&#39;ve never seen anything like this](http://9gag.com/gag/aYQ8oVv)
- - ⏩ [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
- - 👉 [Didn\u2019t she get fired from her job and banned for life?](http://9gag.com/gag/aVvnxRy)<!-- MEMES:END -->
+ - 💣 [I Do!](https://www.reddit.com/r/funny/comments/1vs21mx/i_do/)
+ - ⏩ [We failed! R.I.P Hayden Panettiere](http://9gag.com/gag/agmMA41)
+ - 👉 [Magneto over here](http://9gag.com/gag/aByq26Z)<!-- MEMES:END -->
 
 ---
 
