@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
- - ⏩ [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)
- - 👉 [Wave After Wave](http://9gag.com/gag/azxNMEK)<!-- MEMES:END -->
+ - 💣 [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)
+ - ⏩ [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
+ - 👉 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)<!-- MEMES:END -->
 
 ---
 
