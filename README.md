@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils new EU business terms from October 1, resolving disputes with the EU, including a new Core Technology Commission and App Store commission tiers &lpar;Apple&rpar;](https://www.techmeme.com/260818/p25#a260818p25)
- - [Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using a version of Kimi K3 &lpar;Melia Robinson/Business Insider&rpar;](https://www.techmeme.com/260818/p24#a260818p24)
- - [Apple&#39;s product identifier leak is a hard mystery to solve](https://appleinsider.com/articles/26/08/18/apples-product-identifier-leak-is-a-hard-mystery-to-solve?utm_source=rss)<!-- TECH:END -->
+ - [New EU App Store terms lower both costs and bar to entry for external payments](https://appleinsider.com/articles/26/08/18/new-eu-app-store-terms-lower-both-costs-and-bar-to-entry-for-external-payments?utm_source=rss)
+ - [Sources: Anthropic&#39;s revolving credit facility is set to surpass its roughly $10B target as banks compete for roles on the company&#39;s upcoming IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p27#a260818p27)
+ - [Leak suggests the Galaxy S26 FE’s hardware may not please everybody](https://www.androidauthority.com/samsung-galaxy-s26-fe-design-specs-features-leak-3699924/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
