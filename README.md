@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We all need someone to hold us](http://9gag.com/gag/aO8g0zr)
- - ⏩ [Rip Hayden](http://9gag.com/gag/aoyrPog)
- - 👉 [100% True](http://9gag.com/gag/aYQ8yMV)<!-- MEMES:END -->
+ - 💣 [No sound because it is censored by North Korean goverment](http://9gag.com/gag/amojvEy)
+ - ⏩ [When they hired you to fix vibecoded program](http://9gag.com/gag/a1mzWL6)
+ - 👉 [European Maid?](http://9gag.com/gag/aNDx0Y3)<!-- MEMES:END -->
 
 ---
 
