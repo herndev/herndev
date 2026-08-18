@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I Do!](https://www.reddit.com/r/funny/comments/1vs21mx/i_do/)
- - ⏩ [We failed! R.I.P Hayden Panettiere](http://9gag.com/gag/agmMA41)
- - 👉 [Magneto over here](http://9gag.com/gag/aByq26Z)<!-- MEMES:END -->
+ - 💣 [I can fix her](http://9gag.com/gag/aoyrMx2)
+ - ⏩ [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)
+ - 👉 [Racial Profiling](http://9gag.com/gag/a1mz1Nw)<!-- MEMES:END -->
 
 ---
 
