@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rip Hayden](http://9gag.com/gag/aoyrPog)
- - ⏩ [100% True](http://9gag.com/gag/aYQ8yMV)
- - 👉 [Stealing shopping cart goes right](http://9gag.com/gag/ae9oDWQ)<!-- MEMES:END -->
+ - 💣 [We all need someone to hold us](http://9gag.com/gag/aO8g0zr)
+ - ⏩ [Rip Hayden](http://9gag.com/gag/aoyrPog)
+ - 👉 [100% True](http://9gag.com/gag/aYQ8yMV)<!-- MEMES:END -->
 
 ---
 
