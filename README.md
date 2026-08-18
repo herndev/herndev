@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now make a bid on Steve Jobs&#39; 8th-grade science fair project](https://appleinsider.com/articles/26/08/18/you-can-now-make-a-bid-on-steve-jobs-8th-grade-science-fair-project?utm_source=rss)
- - [Apple&#39;s App Store revenue in danger of being regulated away](https://appleinsider.com/articles/26/08/18/apples-app-store-revenue-in-danger-of-being-regulated-away?utm_source=rss)
- - [Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it](https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery)<!-- TECH:END -->
+ - [Palona, which uses AI agents to automate real-time workflows in brick-and-mortar businesses, raised a $20M Series A, following a $10M seed in 2025 &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260818/p21#a260818p21)
+ - [Phone displays with ‘beneficial red light’ might be what your strained eyes need](https://www.androidauthority.com/oppo-find-x10-beneficial-red-light-display-leak-3699816/)
+ - [A new Siri Remote may be in the works, but don&#39;t get excited](https://appleinsider.com/articles/26/08/18/a-new-siri-remote-may-be-in-the-works-but-dont-get-excited?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
