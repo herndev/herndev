@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Calendar finally lets you ban that co-worker who’s always spamming you with meetings](https://www.androidauthority.com/google-calendar-user-blocking-3700108/)
- - [Sam Altman says OpenAI&#39;s decision to pace its AI development was caused by a collection of research observations showing &quot;various degrees of misalignment&quot; &lpar;Alex Heath/Time&rpar;](https://www.techmeme.com/260818/p33#a260818p33)
- - [Spotify’s Running Mode is giving Android users another reason to go Premium](https://www.androidauthority.com/spotify-premium-running-mode-android-3700088/)<!-- TECH:END -->
+ - [Gmail is making it a little harder for you to ignore political fundraising emails](https://www.androidauthority.com/gmail-verified-sender-program-for-political-campaigns-3700120/)
+ - [Internal memo: ICE bars its employees from wearing Meta&#39;s AI glasses, saying they &quot;could unintentionally capture, record, or transmit sensitive information&quot; &lpar;New York Times&rpar;](https://www.techmeme.com/260818/p36#a260818p36)
+ - [Apple services outage hits iCloud, Game Center, Find My, and more](https://appleinsider.com/articles/26/08/18/apple-services-outage-hits-icloud-game-center-find-my-and-more?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
