@@ -46,7 +46,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
+ - 💣 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
  - ⏩ [Proper Self defense](http://9gag.com/gag/aMVRY0R)
  - 👉 [Wave After Wave](http://9gag.com/gag/azxNMEK)<!-- MEMES:END -->
 
