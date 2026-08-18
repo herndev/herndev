@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
- - ⏩ [Magneto over here](http://9gag.com/gag/aByq26Z)
- - 👉 [Wave After Wave](http://9gag.com/gag/azxNMEK)<!-- MEMES:END -->
+ - 💣 [I&#39;m told this is real CCTV from the Venezuelan earthquake.... I&#39;ve never seen anything like this](http://9gag.com/gag/aYQ8oVv)
+ - ⏩ [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
+ - 👉 [Didn\u2019t she get fired from her job and banned for life?](http://9gag.com/gag/aVvnxRy)<!-- MEMES:END -->
 
 ---
 
