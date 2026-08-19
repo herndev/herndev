@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
- - ⏩ [Biggest scientific mystery on earth is the great unconformity, which is a barrier that has been observed globally where the rocks above a certain point are 500 million years old and the rocks below that line are 1.7 billion years old. 1.2 billion years of rock layers are missing](http://9gag.com/gag/aByq23P)
- - 👉 [Girls when I arrive](http://9gag.com/gag/axyxM71)<!-- MEMES:END -->
+ - 💣 [Through the Years [OC]](https://www.reddit.com/r/funny/comments/1vsmisi/through_the_years_oc/)
+ - ⏩ [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
+ - 👉 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)<!-- MEMES:END -->
 
 ---
 
