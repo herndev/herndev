@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Entertainment over ideology](http://9gag.com/gag/a349151)
- - ⏩ [Racial Profiling](http://9gag.com/gag/a1mz1Nw)
- - 👉 [Who wants to be a millionaire](http://9gag.com/gag/amojPW6)<!-- MEMES:END -->
+ - 💣 [Minnesota, USA, 2026.](http://9gag.com/gag/aD2pDYx)
+ - ⏩ [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
+ - 👉 [Asking the real questions here](http://9gag.com/gag/ae9ogGj)<!-- MEMES:END -->
 
 ---
 
