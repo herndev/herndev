@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI hit the brakes. Now what?](https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai)
- - [GTA VI keeps leaking ahead of its gameplay premiere](https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos)
- - [Amazon drops the TCL Tab A1 to $189.99 in its first price cut](https://www.androidauthority.com/tcl-tab-a1-deal-3700656/)<!-- TECH:END -->
+ - [Stripe agrees to buy New York-based OpenRouter; a source says Stripe is paying $7.5B, with $1.5B going to the startup&#39;s founders and $6B to investors &lpar;Erin Griffith/New York Times&rpar;](https://www.techmeme.com/260819/p39#a260819p39)
+ - [The wearable future is stuck in weird, experimental, existential limbo](https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai)
+ - [Grab an iPad Air M4 for its lowest price since the June increase](https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
