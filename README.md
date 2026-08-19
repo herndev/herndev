@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces new study tools, including a student hub, notebooks, and interactive 3D visualizations in Gemini, plus student offers for Google AI plans &lpar;Amanda Caswell/Tom&#39;s Guide&rpar;](https://www.techmeme.com/260819/p45#a260819p45)
- - [Samsung fixes Instagram One Hand Operation glitch](https://www.androidauthority.com/samsung-one-hand-operation-instagram-3700713/)
- - [Google built a camera-based tool to estimate body fat more accurately than wearables](https://www.androidauthority.com/google-research-photoscan-body-composition-3700687/)<!-- TECH:END -->
+ - [Former Meta engineering director Arturo Béjar testifies that Mark Zuckerberg prioritized growth and engagement over child safety on Facebook and Instagram &lpar;Reuters&rpar;](https://www.techmeme.com/260819/p46#a260819p46)
+ - [Survey reveals the toolbox item your phone is most likely to replace](https://www.androidauthority.com/which-phone-sensors-use-poll-results-3700721/)
+ - [Google announces new study tools, including a student hub, notebooks, and interactive 3D visualizations in Gemini, plus student offers for Google AI plans &lpar;Amanda Caswell/Tom&#39;s Guide&rpar;](https://www.techmeme.com/260819/p45#a260819p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
