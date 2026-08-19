@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says the changes to its model training will increase compute overhead by 20% of observed inference workload; the increase will not be handed to customers &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260818/p46#a260818p46)
- - [Sources: Beijing allowed ByteDance and Tencent to each receive about 10,000 Nvidia H200 chips at their mainland China facilities in recent weeks &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260818/p45#a260818p45)
- - [What&#39;s new with the Camera app in iOS 27: Siri mode, enhanced controls, &amp; more](https://appleinsider.com/articles/26/08/19/whats-new-with-the-camera-app-in-ios-27-siri-mode-enhanced-controls-more?utm_source=rss)<!-- TECH:END -->
+ - [Austin-based Smack Technologies, which is developing AI decision-making tools for the US military, raised a $61M Series B led by Costanoa and First In &lpar;Mike Stone/Reuters&rpar;](https://www.techmeme.com/260819/p1#a260819p1)
+ - [Googlebooks are finally getting their big reveal on September 15](https://www.androidauthority.com/googlebook-launch-date-3700141/)
+ - [OpenAI says the changes to its model training will increase compute overhead by 20% of observed inference workload; the increase will not be handed to customers &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260818/p46#a260818p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
