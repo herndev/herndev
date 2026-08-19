@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)
- - ⏩ [Didn\u2019t she get fired from her job and banned for life?](http://9gag.com/gag/aVvnxRy)
- - 👉 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)<!-- MEMES:END -->
+ - 💣 [Who wants to live forever?](http://9gag.com/gag/apRygB9)
+ - ⏩ [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)
+ - 👉 [Throw back to this legendary moment.](http://9gag.com/gag/a9yQyOL)<!-- MEMES:END -->
 
 ---
 
