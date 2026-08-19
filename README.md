@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)
- - ⏩ [Entertainment over ideology](http://9gag.com/gag/a349151)
- - 👉 [Racial Profiling](http://9gag.com/gag/a1mz1Nw)<!-- MEMES:END -->
+ - 💣 [Asking the real questions here](http://9gag.com/gag/ae9ogGj)
+ - ⏩ [I should start excercising.](http://9gag.com/gag/amojgv9)
+ - 👉 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)<!-- MEMES:END -->
 
 ---
 
