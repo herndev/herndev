@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Minnesota, USA, 2026.](http://9gag.com/gag/aD2pDYx)
- - ⏩ [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
- - 👉 [Ojichan](http://9gag.com/gag/aLnYpgx)<!-- MEMES:END -->
+ - 💣 [Girls when I arrive](http://9gag.com/gag/axyxM71)
+ - ⏩ [Minnesota, USA, 2026.](http://9gag.com/gag/aD2pDYx)
+ - 👉 [I should start excercising.](http://9gag.com/gag/amojgv9)<!-- MEMES:END -->
 
 ---
 
