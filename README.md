@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
- - ⏩ [Magneto over here](http://9gag.com/gag/aByq26Z)
- - 👉 [Gun point - meet above god](http://9gag.com/gag/aqy3enP)<!-- MEMES:END -->
+ - 💣 [Magneto over here](http://9gag.com/gag/aByq26Z)
+ - ⏩ [Girls when I arrive](http://9gag.com/gag/axyxM71)
+ - 👉 [Asking the real questions here](http://9gag.com/gag/ae9ogGj)<!-- MEMES:END -->
 
 ---
 
