@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Biggest scientific mystery on earth is the great unconformity, which is a barrier that has been observed globally where the rocks above a certain point are 500 million years old and the rocks below that line are 1.7 billion years old. 1.2 billion years of rock layers are missing](http://9gag.com/gag/aByq23P)
- - ⏩ [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
- - 👉 [Asking the real questions here](http://9gag.com/gag/ae9ogGj)<!-- MEMES:END -->
+ - 💣 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
+ - ⏩ [Minnesota, USA, 2026.](http://9gag.com/gag/aD2pDYx)
+ - 👉 [Magneto over here](http://9gag.com/gag/aByq26Z)<!-- MEMES:END -->
 
 ---
 
