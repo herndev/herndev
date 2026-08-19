@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Through the Years [OC]](https://www.reddit.com/r/funny/comments/1vsmisi/through_the_years_oc/)
- - ⏩ [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
+ - 💣 [Southpark s13e14](http://9gag.com/gag/a2vBK0Y)
+ - ⏩ [Magneto over here](http://9gag.com/gag/aByq26Z)
  - 👉 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)<!-- MEMES:END -->
 
 ---
