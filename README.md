@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Magneto over here](http://9gag.com/gag/aByq26Z)
- - ⏩ [Girls when I arrive](http://9gag.com/gag/axyxM71)
- - 👉 [Asking the real questions here](http://9gag.com/gag/ae9ogGj)<!-- MEMES:END -->
+ - 💣 [I would rather call it as New Life&lpar; similar pronunciation to Chinese character&rpar;](https://www.reddit.com/r/funny/comments/1vshbmq/i_would_rather_call_it_as_new_life_similar/)
+ - ⏩ [Minnesota, USA, 2026.](http://9gag.com/gag/aD2pDYx)
+ - 👉 [Ojichan](http://9gag.com/gag/aLnYpgx)<!-- MEMES:END -->
 
 ---
 
