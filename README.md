@@ -46,8 +46,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I would rather call it as New Life&lpar; similar pronunciation to Chinese character&rpar;](https://www.reddit.com/r/funny/comments/1vshbmq/i_would_rather_call_it_as_new_life_similar/)
- - ⏩ [Minnesota, USA, 2026.](http://9gag.com/gag/aD2pDYx)
+ - 💣 [Minnesota, USA, 2026.](http://9gag.com/gag/aD2pDYx)
+ - ⏩ [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
  - 👉 [Ojichan](http://9gag.com/gag/aLnYpgx)<!-- MEMES:END -->
 
 ---
