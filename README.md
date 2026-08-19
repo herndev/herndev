@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WiseTech says Australian antitrust authorities raided its office, seeking documents and data as part of an alleged competition law breach probe; WTC falls 8%+ &lpar;Angus Whitley/Bloomberg&rpar;](https://www.techmeme.com/260819/p10#a260819p10)
- - [5 smartwatches you should buy instead of the Google Pixel Watch 5](https://www.androidauthority.com/google-pixel-watch-5-alternatives-3696512/)
- - [Reverse-Lookup Service Exposed Millions of Photos of People’s Faces](https://www.wired.com/story/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/)<!-- TECH:END -->
+ - [New Fire TV devices with Android 16 could be coming very soon](https://www.androidauthority.com/amazon-fire-os-android-16-launch-3700391/)
+ - [I Tried a Window-Cleaning Robot: Do Not Recommend](https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/)
+ - [PSA: Do not buy iPhone 18 Pro cases before Apple&#39;s launch](https://appleinsider.com/articles/26/08/19/psa-do-not-buy-iphone-18-pro-cases-before-apples-launch?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
