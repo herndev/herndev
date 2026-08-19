@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Watch 5 review: Improved GPS is good, gesture controls are great, but the new health features haven&#39;t rolled out yet and it is $50 more expensive &lpar;Victoria Song/The Verge&rpar;](https://www.techmeme.com/260819/p29#a260819p29)
- - [Grab the 50-inch Fire TV Omni QLED for 43% off while this record-low deal lasts](https://www.androidauthority.com/amazon-50-inch-fire-tv-omni-qled-deal-3700607/)
- - [Memo: GOP asks AI companies to stem the backlash against data centers, saying the issue could kill the party&#39;s chances of holding a vital Senate seat in Ohio &lpar;Alex Isenstadt/Axios&rpar;](https://www.techmeme.com/260819/p28#a260819p28)<!-- TECH:END -->
+ - [OpenAI hit the brakes. Now what?](https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai)
+ - [GTA VI keeps leaking ahead of its gameplay premiere](https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos)
+ - [Amazon drops the TCL Tab A1 to $189.99 in its first price cut](https://www.androidauthority.com/tcl-tab-a1-deal-3700656/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
