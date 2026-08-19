@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
- - ⏩ [Minnesota, USA, 2026.](http://9gag.com/gag/aD2pDYx)
- - 👉 [Magneto over here](http://9gag.com/gag/aByq26Z)<!-- MEMES:END -->
+ - 💣 [Entertainment over ideology](http://9gag.com/gag/a349151)
+ - ⏩ [Racial Profiling](http://9gag.com/gag/a1mz1Nw)
+ - 👉 [Who wants to be a millionaire](http://9gag.com/gag/amojPW6)<!-- MEMES:END -->
 
 ---
 
