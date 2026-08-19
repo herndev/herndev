@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI&#39;s Q2 revenue grew 18% QoQ to $6.7B, but its operating margin sank further; Anthropic more than doubled its revenue to $11.6B in the same period &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260818/p38#a260818p38)
- - [Z.ai&#39;s GLM-5.3 with max reasoning scores 60 on the Artificial Analysis Intelligence Index, on par with Kimi K3 but below Opus 5 at 63 and Fable 5 at 62 &lpar;@artificialanlys&rpar;](https://www.techmeme.com/260818/p37#a260818p37)
- - [Apple services outage hit iCloud, Game Center, Find My, and more](https://appleinsider.com/articles/26/08/18/apple-services-outage-hits-icloud-game-center-find-my-and-more?utm_source=rss)<!-- TECH:END -->
+ - [Survey: 52% of Americans say they are more concerned than excited about increased AI use in daily life, up from 37% in 2021, including 55% of those under 30 &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260818/p40#a260818p40)
+ - [Polaroid Put Pikachu on a $100 Camera Because Nostalgia Works](https://www.cnet.com/tech/gaming/polaroid-put-pikachu-on-a-100-camera-because-nostalgia-works/)
+ - [Lexar Armor 700 8TB review: Impressive capacity, good speeds, with a catch](https://appleinsider.com/articles/26/08/18/lexar-armor-700-8tb-review-impressive-capacity-good-speeds-with-a-catch?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
