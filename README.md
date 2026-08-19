@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Meta engineering director Arturo Béjar testifies that Mark Zuckerberg prioritized growth and engagement over child safety on Facebook and Instagram &lpar;Reuters&rpar;](https://www.techmeme.com/260819/p46#a260819p46)
- - [Survey reveals the toolbox item your phone is most likely to replace](https://www.androidauthority.com/which-phone-sensors-use-poll-results-3700721/)
- - [Google announces new study tools, including a student hub, notebooks, and interactive 3D visualizations in Gemini, plus student offers for Google AI plans &lpar;Amanda Caswell/Tom&#39;s Guide&rpar;](https://www.techmeme.com/260819/p45#a260819p45)<!-- TECH:END -->
+ - [Trump urges Congress to pass the Clarity Act at a White House event with execs including the CEOs of Coinbase and Robinhood; the bill has stalled in the Senate &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p48#a260819p48)
+ - [Elon Musk Is Expected to Point His Money Machine at Texas](https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/)
+ - [Does giving a camera wings dodge the FCC’s drone ban?](https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
