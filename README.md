@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI chip startup Fractile is in talks to raise ~$600M at a $6.5B pre-money valuation, up from ~$1B in May, and has an initial ~$250M deal with Anthropic &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p41#a260819p41)
- - [Google takes on ChatGPT with a free year of Gemini Pro and advanced study tools](https://www.androidauthority.com/gemini-student-study-tools-free-ai-plans-3700520/)
- - [Google Gemini is getting a dedicated student hub](https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub)<!-- TECH:END -->
+ - [Ceramic Apple Watch Series 12 is getting more rumor mill traction](https://appleinsider.com/articles/26/08/19/ceramic-apple-watch-series-12-is-getting-more-rumor-mill-traction?utm_source=rss)
+ - [Nielsen is leaning more on wearables to hear what people are watching](https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data)
+ - [Letter: Stripe told investors January 1 marked the &quot;beginning of the singularity&quot;, a major inflection point in long-term trends, and H1 revenue rose 41% YoY &lpar;Axios&rpar;](https://www.techmeme.com/260819/p44#a260819p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
