@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Incoming! Amazon expands drone delivery so you can get new AirPods faster](https://appleinsider.com/articles/26/08/19/incoming-amazon-expands-drone-delivery-so-you-can-get-new-airpods-faster?utm_source=rss)
- - [Govee Floor Lamp 3 Lite drops 29% in its best Amazon deal yet!](https://www.androidauthority.com/govee-floor-lamp-3-lite-deal-3700539/)
- - [Apple&#39;s M5 MacBook Pro with 96W adapter plunges to $1,699 &lpar;$320 off&rpar;](https://appleinsider.com/articles/26/08/19/apples-m5-macbook-pro-with-96w-adapter-plunges-to-1699-320-off?utm_source=rss)<!-- TECH:END -->
+ - [Google Pixel Watch 5 review: Improved GPS is good, gesture controls are great, but the new health features haven&#39;t rolled out yet and it is $50 more expensive &lpar;Victoria Song/The Verge&rpar;](https://www.techmeme.com/260819/p29#a260819p29)
+ - [Grab the 50-inch Fire TV Omni QLED for 43% off while this record-low deal lasts](https://www.androidauthority.com/amazon-50-inch-fire-tv-omni-qled-deal-3700607/)
+ - [Memo: GOP asks AI companies to stem the backlash against data centers, saying the issue could kill the party&#39;s chances of holding a vital Senate seat in Ohio &lpar;Alex Isenstadt/Axios&rpar;](https://www.techmeme.com/260819/p28#a260819p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
