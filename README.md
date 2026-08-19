@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Temporal is in talks for a fresh funding round that would give the open-source orchestration platform developer a ~$500M raise at a $12B+ valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p43#a260818p43)
- - [Rillet, which is developing an AI-native accounting platform, raised a $100M Series C at a $1B valuation led by Iconiq, bringing its total funding to $200M+ &lpar;Nick Lichtenberg/Fortune&rpar;](https://www.techmeme.com/260818/p42#a260818p42)
- - [Cerebras unveils CS-4, a server rack powered by three WSE-3 Turbo chips and built around its new Nexus architecture, with first shipments starting this quarter &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260818/p41#a260818p41)<!-- TECH:END -->
+ - [OpenAI says the changes to its model training will increase compute overhead by 20% of observed inference workload; the increase will not be handed to customers &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260818/p46#a260818p46)
+ - [Sources: Beijing allowed ByteDance and Tencent to each receive about 10,000 Nvidia H200 chips at their mainland China facilities in recent weeks &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260818/p45#a260818p45)
+ - [What&#39;s new with the Camera app in iOS 27: Siri mode, enhanced controls, &amp; more](https://appleinsider.com/articles/26/08/19/whats-new-with-the-camera-app-in-ios-27-siri-mode-enhanced-controls-more?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
