@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US tech companies are offering community investments, guaranteed jobs, and hosting open houses to address concerns and win public support for AI data centers &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260819/p7#a260819p7)
- - [HP’s Googlebook leak highlights support for ‘Continue On,’ Google’s version of Handoff](https://www.androidauthority.com/hp-googlebook-leak-handoff-3700179/)
- - [AI evaluation lab Irregular&#39;s report on its role in hacking incidents involving OpenAI, Anthropic, and Meta models faces criticism over unanswered questions &lpar;Alexander Martin/The Record&rpar;](https://www.techmeme.com/260819/p6#a260819p6)<!-- TECH:END -->
+ - [With the Pixel 11, Google has abandoned the main reason I used to recommend Pixels](https://www.androidauthority.com/pixel-11-price-increase-abandons-google-advantage-3698897/)
+ - [Flock Has a Powerful New AI Tool for Police. We Got Its Code](https://www.wired.com/story/flock-safety-os-investigate/)
+ - [Your Samsung phone can now unlock your Volkswagen EV](https://www.androidauthority.com/samsung-wallet-volkswagen-ev-digital-car-keys-3700299/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
