@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Austin-based Smack Technologies, which is developing AI decision-making tools for the US military, raised a $61M Series B led by Costanoa and First In &lpar;Mike Stone/Reuters&rpar;](https://www.techmeme.com/260819/p1#a260819p1)
- - [Googlebooks are finally getting their big reveal on September 15](https://www.androidauthority.com/googlebook-launch-date-3700141/)
- - [OpenAI says the changes to its model training will increase compute overhead by 20% of observed inference workload; the increase will not be handed to customers &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260818/p46#a260818p46)<!-- TECH:END -->
+ - [Block releases Berd, a desktop app it built to give its employees a single environment for working with AI agents across different models, under Apache 2.0 &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260819/p4#a260819p4)
+ - [FDM CCS Insight: ~134M travel eSIMs will be used in 2026, up from 101.8M in 2025, challenging established carriers that generate 3%-5% of revenue from roaming &lpar;Kieran Smith/Financial Times&rpar;](https://www.techmeme.com/260819/p3#a260819p3)
+ - [Uber Eats Promo Codes: $15 Off│August 2026](https://www.wired.com/story/uber-eats-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
