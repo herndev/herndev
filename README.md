@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Block releases Berd, a desktop app it built to give its employees a single environment for working with AI agents across different models, under Apache 2.0 &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260819/p4#a260819p4)
- - [FDM CCS Insight: ~134M travel eSIMs will be used in 2026, up from 101.8M in 2025, challenging established carriers that generate 3%-5% of revenue from roaming &lpar;Kieran Smith/Financial Times&rpar;](https://www.techmeme.com/260819/p3#a260819p3)
- - [Uber Eats Promo Codes: $15 Off│August 2026](https://www.wired.com/story/uber-eats-promo-code/)<!-- TECH:END -->
+ - [Someone put Android 13 on the reMarkable Paper Pro, and it actually works](https://www.androidauthority.com/remarkable-paper-pro-running-android-13-3700212/)
+ - [The Pixel Thermometer app icon is finally getting a gradient makeover](https://www.androidauthority.com/pixel-thermometer-gradient-app-icon-3700224/)
+ - [A billion Telegram users could soon get their own domain](https://www.androidauthority.com/telegram-top-level-domain-3700158/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
