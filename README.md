@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Southpark s13e14](http://9gag.com/gag/a2vBK0Y)
- - ⏩ [Magneto over here](http://9gag.com/gag/aByq26Z)
- - 👉 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)<!-- MEMES:END -->
+ - 💣 [Booked a YEAR in India. Lasted 2 WEEKS.](http://9gag.com/gag/aE0rq5x)
+ - ⏩ [Girls when I arrive](http://9gag.com/gag/axyxM71)
+ - 👉 [Magneto over here](http://9gag.com/gag/aByq26Z)<!-- MEMES:END -->
 
 ---
 
