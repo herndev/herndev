@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [With the Pixel 11, Google has abandoned the main reason I used to recommend Pixels](https://www.androidauthority.com/pixel-11-price-increase-abandons-google-advantage-3698897/)
- - [Flock Has a Powerful New AI Tool for Police. We Got Its Code](https://www.wired.com/story/flock-safety-os-investigate/)
- - [Your Samsung phone can now unlock your Volkswagen EV](https://www.androidauthority.com/samsung-wallet-volkswagen-ev-digital-car-keys-3700299/)<!-- TECH:END -->
+ - [WiseTech says Australian antitrust authorities raided its office, seeking documents and data as part of an alleged competition law breach probe; WTC falls 8%+ &lpar;Angus Whitley/Bloomberg&rpar;](https://www.techmeme.com/260819/p10#a260819p10)
+ - [5 smartwatches you should buy instead of the Google Pixel Watch 5](https://www.androidauthority.com/google-pixel-watch-5-alternatives-3696512/)
+ - [Reverse-Lookup Service Exposed Millions of Photos of People’s Faces](https://www.wired.com/story/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
