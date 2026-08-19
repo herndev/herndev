@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)
+ - 💣 [Who wants to live forever?](http://9gag.com/gag/apRygB9)
  - ⏩ [The Plot](http://9gag.com/gag/aByqd31)
- - 👉 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)<!-- MEMES:END -->
+ - 👉 [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)<!-- MEMES:END -->
 
 ---
 
