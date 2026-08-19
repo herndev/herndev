@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games disagrees with Apples&#39; &#39;junk&#39; EU fee changes](https://appleinsider.com/articles/26/08/19/epic-games-disagrees-with-apples-junk-eu-fee-changes?utm_source=rss)
- - [Marvell and Google expand their chip development deal, with Marvell granting Google a warrant to buy up to 58M+ shares at $206.58 each, totaling up to $12.2B &lpar;Dana Wollman/Bloomberg&rpar;](https://www.techmeme.com/260819/p20#a260819p20)
- - [Cybersecurity data company Prevalent AI raised $22M from Integrity Growth Partners, marking the nine-year-old startup&#39;s first-ever outside capital raise &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260819/p19#a260819p19)<!-- TECH:END -->
+ - [A hacker known as Cyberleek leaks two GTA VI gameplay clips and the full map in protest of Rockstar Games&#39; digital-only release; Rockstar issues DMCA takedowns &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260819/p21#a260819p21)
+ - [Snapseed for Android could soon become a pro photographer’s best friend with LUT support](https://www.androidauthority.com/snapseed-lut-support-motion-blur-apk-teardown-3700430/)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 19&rpar;](https://www.androidauthority.com/wallpaper-wednesday-august-19-2026-3700059/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
