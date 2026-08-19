@@ -46,9 +46,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Minnesota, USA, 2026.](http://9gag.com/gag/aD2pDYx)
- - ⏩ [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
- - 👉 [Asking the real questions here](http://9gag.com/gag/ae9ogGj)<!-- MEMES:END -->
+ - 💣 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
+ - ⏩ [Magneto over here](http://9gag.com/gag/aByq26Z)
+ - 👉 [Gun point - meet above god](http://9gag.com/gag/aqy3enP)<!-- MEMES:END -->
 
 ---
 
