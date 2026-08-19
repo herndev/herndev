@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey: 52% of Americans say they are more concerned than excited about increased AI use in daily life, up from 37% in 2021, including 55% of those under 30 &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260818/p40#a260818p40)
- - [Polaroid Put Pikachu on a $100 Camera Because Nostalgia Works](https://www.cnet.com/tech/gaming/polaroid-put-pikachu-on-a-100-camera-because-nostalgia-works/)
- - [Lexar Armor 700 8TB review: Impressive capacity, good speeds, with a catch](https://appleinsider.com/articles/26/08/18/lexar-armor-700-8tb-review-impressive-capacity-good-speeds-with-a-catch?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Temporal is in talks for a fresh funding round that would give the open-source orchestration platform developer a ~$500M raise at a $12B+ valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p43#a260818p43)
+ - [Rillet, which is developing an AI-native accounting platform, raised a $100M Series C at a $1B valuation led by Iconiq, bringing its total funding to $200M+ &lpar;Nick Lichtenberg/Fortune&rpar;](https://www.techmeme.com/260818/p42#a260818p42)
+ - [Cerebras unveils CS-4, a server rack powered by three WSE-3 Turbo chips and built around its new Nexus architecture, with first shipments starting this quarter &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260818/p41#a260818p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
