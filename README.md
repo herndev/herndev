@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Fire TV devices with Android 16 could be coming very soon](https://www.androidauthority.com/amazon-fire-os-android-16-launch-3700391/)
- - [I Tried a Window-Cleaning Robot: Do Not Recommend](https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/)
- - [PSA: Do not buy iPhone 18 Pro cases before Apple&#39;s launch](https://appleinsider.com/articles/26/08/19/psa-do-not-buy-iphone-18-pro-cases-before-apples-launch?utm_source=rss)<!-- TECH:END -->
+ - [Nvidia’s new financial strategy does not compute](https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset)
+ - [The women’s soccer league trying to fix fantasy sports](https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app)
+ - [Amazon’s drones will soon deliver to nearly 500 US cities and towns](https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
