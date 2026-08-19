@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Someone put Android 13 on the reMarkable Paper Pro, and it actually works](https://www.androidauthority.com/remarkable-paper-pro-running-android-13-3700212/)
- - [The Pixel Thermometer app icon is finally getting a gradient makeover](https://www.androidauthority.com/pixel-thermometer-gradient-app-icon-3700224/)
- - [A billion Telegram users could soon get their own domain](https://www.androidauthority.com/telegram-top-level-domain-3700158/)<!-- TECH:END -->
+ - [US tech companies are offering community investments, guaranteed jobs, and hosting open houses to address concerns and win public support for AI data centers &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260819/p7#a260819p7)
+ - [HP’s Googlebook leak highlights support for ‘Continue On,’ Google’s version of Handoff](https://www.androidauthority.com/hp-googlebook-leak-handoff-3700179/)
+ - [AI evaluation lab Irregular&#39;s report on its role in hacking incidents involving OpenAI, Anthropic, and Meta models faces criticism over unanswered questions &lpar;Alexander Martin/The Record&rpar;](https://www.techmeme.com/260819/p6#a260819p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
