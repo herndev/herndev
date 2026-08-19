@@ -47,8 +47,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)
- - ⏩ [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
- - 👉 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)<!-- MEMES:END -->
+ - ⏩ [The Plot](http://9gag.com/gag/aByqd31)
+ - 👉 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)<!-- MEMES:END -->
 
 ---
 
