@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A hacker known as Cyberleek leaks two GTA VI gameplay clips and the full map in protest of Rockstar Games&#39; digital-only release; Rockstar issues DMCA takedowns &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260819/p21#a260819p21)
- - [Snapseed for Android could soon become a pro photographer’s best friend with LUT support](https://www.androidauthority.com/snapseed-lut-support-motion-blur-apk-teardown-3700430/)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;August 19&rpar;](https://www.androidauthority.com/wallpaper-wednesday-august-19-2026-3700059/)<!-- TECH:END -->
+ - [Incoming! Amazon expands drone delivery so you can get new AirPods faster](https://appleinsider.com/articles/26/08/19/incoming-amazon-expands-drone-delivery-so-you-can-get-new-airpods-faster?utm_source=rss)
+ - [Govee Floor Lamp 3 Lite drops 29% in its best Amazon deal yet!](https://www.androidauthority.com/govee-floor-lamp-3-lite-deal-3700539/)
+ - [Apple&#39;s M5 MacBook Pro with 96W adapter plunges to $1,699 &lpar;$320 off&rpar;](https://appleinsider.com/articles/26/08/19/apples-m5-macbook-pro-with-96w-adapter-plunges-to-1699-320-off?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
