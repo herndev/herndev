@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Chinese city of Hangzhou deploys traffic-control robots that operate autonomously, using cameras and radar to signal traffic and flag violations &lpar;Reuters&rpar;](https://www.techmeme.com/260820/p26#a260820p26)
- - [Google is giving you more control over what shows up in your feed](https://www.androidauthority.com/google-search-personalization-3701171/)
- - [Nothing OS 5.0 update with Android 17 is ‘coming soon’](https://www.androidauthority.com/nothing-os-5-0-release-date-3701142/)<!-- TECH:END -->
+ - [Framework says it&amp;#8217;s addressing a BIOS update that bricked some of its older laptops](https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty)
+ - [Astromech, which uses genomic data to build predictive AI models of biological change, raised $20M at a $3.8B valuation, bringing its total funding to $60M &lpar;Dean Takahashi/GamesBeat&rpar;](https://www.techmeme.com/260820/p29#a260820p29)
+ - [Razer’s BlackWidow V4 75% gaming keyboard just got 50% cheaper!](https://www.androidauthority.com/razer-blackwidow-v4-75-gaming-keyboard-deal-3701245/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
