@@ -39,9 +39,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Galaxy S26 FE leak just exposed the full color palette](https://www.androidauthority.com/galaxy-s26-fe-colors-and-angles-3701295/)
- - [Some Pixel phones have forgotten how to Flip to Shhh](https://www.androidauthority.com/google-pixel-flip-to-shhh-not-working-fix-3701291/)
- - [Layoffs in Apple&#39;s Vision Products Group prove slow progress in spatial computing](https://appleinsider.com/articles/26/08/20/layoffs-in-apples-vision-products-group-prove-slow-progress-in-spatial-computing?utm_source=rss)<!-- TECH:END -->
+ - [The Galaxy S26 Ultra’s red screen fix saga is finally &lpar;almost&rpar; over](https://www.androidauthority.com/galaxy-s26-red-screen-update-3701277/)
+ - [Google Photos users are overwhelmingly asking for better cleanup options](https://www.androidauthority.com/google-photos-free-up-space-poll-results-3701310/)
+ - [Apple Music&#39;s AI disclosure labels will soon be mandatory, rather than optional](https://appleinsider.com/articles/26/08/20/apple-musics-ai-disclosure-labels-will-soon-be-mandatory-rather-than-optional?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
